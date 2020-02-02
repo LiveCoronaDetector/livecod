@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>코로나 맵</title>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157131634-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-157131634-1');
+  </script>
+
+
+  <!-- Custom fonts for this template-->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template-->
+  <link href="css/sb-admin-2.min.css" rel="stylesheet">
+  <link href="vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+  <style>
+    .height-2{
+      height: 50rem;
+    }
+     #map {
+      height: 43rem;
+      width: 100%;
+     }
+  </style>
+
+</head>
+
+<body id="page-top">
+
+  <!-- Page Wrapper -->
+  <div id="wrapper">
+
+    <!-- Content Wrapper -->
+    <div id="content-wrapper" class="d-flex flex-column">
+
+      <!-- Main Content -->
+      <div id="content">
+
+        <!-- Begin Page Content -->
+        <div class="container-fluid">
+
+          <!-- Page Heading -->
+          <div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <h1 style="margin-top:1em;"class="h2 mb-0 text-gray-800">신종 코로나 바이러스 맵<br>
+              <span class="h5">* <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>의 DATA 근거, 일일업데이트, 2/2일 11:00 최종 업데이트</span><br>
+              <span class="h5">* 동시 접속자가 너무 많아 서버가 간헐적으로 뻗고 있습니다. 죄송합니다.</span><br>
+              <span class="h5">* 질병관리본부 홈페이지 게시글 외에 업데이트는 <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a> 뉴스 게시판만 참고하고 있습니다.</span><br>
+              <span class="h5">* GDG(google developers group) 등 자발적으로 참여해주신 분들께서 팀을 꾸려 비용을 받지 않고 업데이트 중에 있습니다. <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">&#8690;</a></span><br>
+            </h1>
+            <a href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i> 리포트 바로가기</a>
+          </div>
+
+          <!-- Content Row -->
+          <div class="row">
+
+            <!-- 확진환자 -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-danger shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">확진환자(한국포함)</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="확진자수"></span> 명</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 사망자 -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-danger shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-danger text-uppercase mb-1">사망자</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="사망자수"></span> 명</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Earnings (Monthly) Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-danger shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">한국 확진자</div>
+                    <h4 class="small font-weight-bold">한국(확진자 <span id="한국확진자"></span>명/사망자 0명)<span class="float-right">100%</span></h4>
+                    <div class="progress mb-4">
+                      <div class="progress-bar bg-warning" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <h4 class="small font-weight-bold">제주(확진자 0명/사망자 0명)<span class="float-right">0%</span></h4>
+                    <div class="progress mb-4">
+                      <div class="progress-bar bg-danger" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pending Requests Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-warning shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">발생국가</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="발생국가수"></span> 개국</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Content Row -->
+
+          <div class="row">
+
+            <!-- Area Chart -->
+            <div class="col-xl-6 col-lg-7">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">확진자수 증가추이</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-area">
+                    <canvas id="myAreaChart"></canvas>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pie Chart -->
+            <div class="col-xl-3 col-lg-2">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">Top3 발생국가</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-pie pt-4 pb-2">
+                    <canvas id="myPieChart"></canvas>
+                  </div>
+                  <div id="chartText" class="mt-4 text-center small">
+                    <span class="mr-2"></span>
+                    <span class="mr-2"></span>
+                    <span class="mr-2"></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-3 col-lg-3">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">최근 3개월 중국관광객 <br>제주도 입도 현황</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.cdc.go.kr/contents.es?mid=a21111060000">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-area">
+                    <canvas id="myAreaChart_two"></canvas>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 발병지도 Chart -->
+          <div class="row">
+
+            <!-- Area Chart -->
+            <div class="col-xl-12 col-lg-12">
+              <div class="card shadow mb-12 height-2">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">국가별 발병 세계 지도(우상단 클릭시 전체화면)</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-area">
+                    <div id="map"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <br>
+
+          <!-- 안전수칙 -->
+          <div class="row">
+
+            <!-- Area Chart -->
+            <div class="col-xl-12 col-lg-12">
+              <div class="card shadow mb-12">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">안전수칙</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.cdc.go.kr/contents.es?mid=a21111060000">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <p>
+                      1. 손바닥, 손톱 및 꼼꼼하게 손씻기<br>
+                      2. 기침할 땐 옷소매로 가리기<br>
+                      3. 기침 등 호흡기 증상자는 의료기관 방문시 반드시 마스크 착용<br>
+                      4. 의료기관 방문시 의료진에게 해외여행력 알리기<br>
+                      5. 감염병 의심될 땐 질병관리본부 콜센터 1339 상담<br>
+                    </p>
+                    <p>
+                      중국 유행지역 여행시 주의사항<br>
+                      1. 동물 접촉 금지<br>
+                      2. 현지 시장 및 의료기관 방문 자제<br>
+                      3. 발열, 호흡기 증상자 접촉 금지<br>
+                      4. 개인위생 수칙 준수(기침시 마스크 착용, 손씻기 등)<br>
+                      5. 감염병 의심될 땐 질병관리본부 콜센터 1339 상담(귀국후 14일 이내 발열과 호흡기 증상 발생시)<br>
+                    </p>
+                    <p>
+                      제주특별자치도 신종감염병 대비 보유 인프라 :<br>
+                      1. 국가지정 : 제주대학교병원<br>
+                      2. 지역거점 : 제주한라병원<br>
+                      3. 일반기관 : 서귀포의료원, 중앙병원, 한마음병원, 한국병원, 서귀포열린병원
+                    </p>
+                  <a href="http://www.cdc.go.kr/contents.es?mid=a21111060000">질병관리본부 안전수칙</a><br>
+                  <a href="https://www.cdc.go.kr/linkCheck.es?mid=a21111050600">신종코로나바이러스 선별진료소</a><br>
+                  <a href="https://m.map.kakao.com/actions/searchView?q=%EC%84%A0%EB%B3%84%EC%A7%84%EB%A3%8C%EC%86%8C%20%EC%A0%9C%EC%A3%BC&wxEnc=LVSOTP&wyEnc=QNLTTMN&lvl=4&fbclid=IwAR0GcU5v4DY3GGkgbrDINlXiHccJzGALItiy1-JUqh7CVecjqKMXbjThqJY">신종코로나바이러스 제주지역 선별진료소(카카오맵 연동)</a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <br>
+
+          <!-- 국내현황 -->
+          <div class="row">
+
+            <!-- Area Chart -->
+            <div class="col-xl-12 col-lg-12">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">국내현황(데스크탑에 최적화, 휴대폰 이용시 오른쪽으로 이동 가능)</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.cdc.go.kr/contents.es?mid=a21111060000">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                      <thead>
+                      <tr>
+                        <th>국적</th>
+                        <th>성별</th>
+                        <th>나이</th>
+                        <th>입국, 확진</th>
+                        <th>접촉자(명)</th>
+                        <th>이동 경로</th>
+                        <th>치료 병원</th>
+                      </tr>
+                      </thead>
+                      <tbody>
+                      <tr>
+                        <td>중국</td>
+                        <td>여</td>
+                        <td>35</td>
+                        <td>19일, 20일</td>
+                        <td>44</td>
+                        <td>19일 공항 격리</td>
+                        <td>인천의료원</td>
+                      </tr>
+                      <tr>
+                        <td>한국</td>
+                        <td>남</td>
+                        <td>55</td>
+                        <td>22일, 24일</td>
+                        <td>69</td>
+                        <td>22일 공항에서 자택으로<br>
+                          23일 보건소 선별 진료</td>
+                        <td>서울 국립중앙의료원</td>
+                      </tr>
+                      <tr>
+                        <td>한국</td>
+                        <td>남</td>
+                        <td>54</td>
+                        <td>20일, 26일</td>
+                        <td>74</td>
+                        <td>
+                          22일 강남<br>
+                          23일 한강, 역삼, 대치<br>
+                          24일 강남, 일산<br>
+                          25일 자택, 명지병원
+                        </td>
+                        <td>경기 명지병원</td>
+                      </tr>
+                      <tr>
+                        <td>한국</td>
+                        <td>남</td>
+                        <td>55</td>
+                        <td>20일, 27일</td>
+                        <td>172</td>
+                        <td>
+                          20일 공항, 평택 송탄터미널, 자택<br>
+                          21일 평택 365 연합의원<br>
+                          22일~24일 자택<br>
+                          25일 평택 365 연합의원<br>
+                          26일 보건소 선별진료
+                        </td>
+                        <td>분당 서울대병원</td>
+                      </tr>
+                      <tr>
+                        <td>한국</td>
+                        <td>남</td>
+                        <td>32</td>
+                        <td>-, 30일</td>
+                        <td>파악중</td>
+                        <td>
+                          파악중
+                        </td>
+                        <td>서울의료원</td>
+                      </tr>
+                      <tr>
+                        <td>한국</td>
+                        <td>남</td>
+                        <td>56</td>
+                        <td>-, 30일</td>
+                        <td>파악중</td>
+                        <td>
+                          파악중
+                        </td>
+                        <td>서울대병원</td>
+                      </tr>
+                      <tr>
+                        <td>한국</td>
+                        <td>남</td>
+                        <td>28</td>
+                        <td>-, 30일</td>
+                        <td>파악중</td>
+                        <td>
+                          파악중
+                        </td>
+                        <td>서울의료원</td>
+                      </tr>
+                    </tbody>
+                    </table>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 공지사항 -->
+          <div class="row">
+
+            <!-- Area Chart -->
+            <div class="col-xl-8 col-lg-8">
+              <div class="card shadow mb-12">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">KBS 신종코로나바이러스감염증 현황(실시간)</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://news.kbs.co.kr/common/main.html">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <!-- <img src="http://news.kbs.co.kr/disaster/3/2020/01/roD34tp304c7j.gif" alt="KBS gif파일"> -->
+                    <!-- <iframe src="http://news.kbs.co.kr/common/main.html#disaster_step_3" width="100%" height="500vw"></iframe> -->
+                    <p>크롤링을 해오는 것보다 <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a> 게시판을 그대로 보여드리는 것이 신뢰도가 높을 것 같아 게시판을 가지고 왔습니다.</p>
+                    <iframe src="http://mn.kbs.co.kr/mobile/disaster.html" width="100%" height="2000vw"></iframe>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-4 col-lg-4">
+              <div class="card shadow mb-12">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">공지사항</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="#">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <p>
+                    업데이트가 필요하거나, 추가 기능, 다국어 번역이 필요하신 경우 메일로 연락주세요. paul-lab@naver.com 입니다.(번역의 경우 직접 도움을 주셔야 합니다.)
+                  </p>
+                  <p>
+                    국내 맵은 감염자수 30명이 넘으면 별도로 만들도록 하겠습니다.
+                  </p>
+                  <p>
+                    정보 업데이트는 <a target="_blank" href="http://news.kbs.co.kr/common/main.html">KBS</a>가 빠릅니다. 제보 감사합니다.
+                  </p>
+                  <p>
+                    <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">담당자 및 도움을 주신 분들</a>
+                  </p>
+                  <p>
+                    <a target="_blank" href="https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9">업데이트 히스토리</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+        <!-- /.container-fluid -->
+
+      </div>
+      <!-- End of Main Content -->
+      <br>
+
+      <!-- Footer -->
+      <footer class="sticky-footer bg-white">
+        <div class="container my-auto">
+          <div class="copyright text-center my-auto">
+            <span>Copyright &copy; <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">LIVECoD (Live corona Detector)</a></span>
+          </div>
+        </div>
+      </footer>
+      <!-- End of Footer -->
+
+    </div>
+    <!-- End of Content Wrapper -->
+
+  </div>
+  <!-- End of Page Wrapper -->
+
+  <!-- Scroll to Top Button-->
+  <a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+  </a>
+
+<script src="marker.js"></script>
+<script>
+  var data = marker
+
+  let 확진자수 = 0;
+  let 사망자수 = 0;
+
+  function initMap() {
+    var seoul = {lat: 37.5456299, lng: 126.9540667};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 6,
+      center: seoul
+    });
+
+    for (var variable in data) {
+      var marker = new google.maps.Marker({
+        position: {lat: data[variable]["lat"], lng: data[variable]["lng"]},
+        map: map
+      });
+      var myCity = new google.maps.Circle({
+        center: {lat: data[variable]["lat"], lng: data[variable]["lng"]},
+        radius: 100000+60*data[variable]["확진자수"],
+        strokeColor: "#FF0000",
+        strokeOpacity: 0.8,
+        strokeWeight: 2,
+        fillColor: "#FF5500",
+        fillOpacity: 0.4
+      });
+      myCity.setMap(map);
+
+      var infowindow = new google.maps.InfoWindow({
+        content: `국가이름 : ${data[variable]["Name"]}<br>
+        확진자수 : ${data[variable]["확진자수"]}<br>
+        사망자수 : ${data[variable]["사망자수"]}`
+      });
+      infowindow.open(map,marker);
+
+      if (data[variable]["Name"]=="한국") {
+        document.getElementById("한국확진자").innerHTML = data[variable]["확진자수"];
+      }
+      확진자수 += data[variable]["확진자수"];
+      사망자수 += data[variable]["사망자수"];
+    }
+    document.getElementById("발생국가수").innerHTML = data.length;
+    document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
+    document.getElementById("사망자수").innerHTML = Number(사망자수).toLocaleString();
+
+    var marker = new google.maps.Marker({
+      position: {lat: 33.3616837, lng: 126.5204118},
+      map: map
+    });
+    var infowindow = new google.maps.InfoWindow({
+      content: `국가이름 : 한국-제주<br>
+                확진자수 : 0<br>
+                사망자수 : 0`
+    });
+    infowindow.open(map,marker);
+
+    // //선별진료소 마킹
+    // var data2 = 제주지역선별진료소;
+    // for (var i in data2) {
+    //   console.log(data2);
+    //   var marker2 = new google.maps.Marker({
+    //     position: {lat: Number(data2[i]["lat"]), lng: Number(data2[i]["lng"])},
+    //     map: map
+    //   });
+    //   var infowindow2 = new google.maps.InfoWindow({
+    //     content: `이름 : ${data2[i]["이름"]}<br>
+    //     주소 : ${data2[i]["주소"]}<br>
+    //     전화번호 : ${data2[i]["전화번호"]}`
+    //   });
+    //   infowindow2.open(map, marker2);
+    // }
+  }
+</script>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTOb-MRCr41WeX8dozQcWZJg5EwzJT4t4&callback=initMap&region=KR">
+</script>
+
+
+  <!-- Bootstrap core JavaScript-->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Core plugin JavaScript-->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for all pages-->
+  <script src="js/sb-admin-2.min.js"></script>
+
+  <!-- Page level plugins -->
+  <script src="vendor/chart.js/Chart.min.js"></script>
+
+  <!-- Page level custom scripts -->
+  <script src="js/demo/chart-area-demo.js"></script>
+  <script src="js/demo/chart-pie-demo.js"></script>
+  <script src="js/demo/chart-bar-demo.js"></script>
+
+  <!-- Page level plugins -->
+  <script src="vendor/datatables/jquery.dataTables.min.js"></script>
+  <script src="vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+  <!-- Page level custom scripts -->
+  <script src="js/demo/datatables-demo.js"></script>
+
+</body>
+
+</html>
