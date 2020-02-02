@@ -72,15 +72,14 @@ function makeMedicalCenter(lat, lng){
         icon: {
             url: './img/red_cross.svg',
             size: new naver.maps.Size(50, 52),
-            origin: new naver.maps.Point(0, 0),
-            anchor: new naver.maps.Point(25, 26)
+            scaledSize: new naver.maps.Size(25, 26),
         }
     };
 
     var marker = new naver.maps.Marker(markerOptions);
 }//선별 진료소 위치
 
-makeMedicalCenter(37.4, 127);//테스트용
+makeMedicalCenter(39.4, 127);//테스트용
 </script>
 </body>
 </html>
