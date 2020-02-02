@@ -61,9 +61,26 @@ function makePoint(lat, lng, countryName, confirmed, death) {
         }
     });
     infowindow.open(map, marker);
-}
+}//국가별 감염자 마커
 
 makePoint(37.5456299, 126.9540667, '대한민국', 15, 0);//테스트용
+
+function makeMedicalCenter(lat, lng){
+    var markerOptions = {
+        position: {lat:lat, lng:lng},
+        map: map,
+        icon: {
+            url: './img/red_cross.svg',
+            size: new naver.maps.Size(50, 52),
+            origin: new naver.maps.Point(0, 0),
+            anchor: new naver.maps.Point(25, 26)
+        }
+    };
+
+    var marker = new naver.maps.Marker(markerOptions);
+}//선별 진료소 위치
+
+makeMedicalCenter(37.4, 127);//테스트용
 </script>
 </body>
 </html>
