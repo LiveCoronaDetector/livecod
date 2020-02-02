@@ -25,7 +25,7 @@ function makePoint(lat, lng, countryName, confirmed, death) {
     var point = new naver.maps.LatLng(lat, lng);
     var contentString = [
         '<div class="iw_inner">',
-        '    <p>국가이름 : ',countryName,'<br>',
+        '    <p style="font-size: small">국가이름 : ',countryName,'<br>',
         '확진자수 : ',confirmed,'<br>',
         '사망자수 :',death,'<br>',
         '</p>',
@@ -33,7 +33,7 @@ function makePoint(lat, lng, countryName, confirmed, death) {
     ].join('');
     var infowindow = new naver.maps.InfoWindow({
         content: contentString,
-        maxWidth: 70,
+        maxWidth: 140,
         backgroundColor: "#eee",
         borderColor: "#ffffff",
         borderWidth: 3,
@@ -45,6 +45,14 @@ function makePoint(lat, lng, countryName, confirmed, death) {
     var marker = new naver.maps.Marker({
         map:map, position:point
     });
+    var circle = new naver.maps.Circle({
+        map: map,
+        center: point,
+        radius: confirmed*1000,
+        strokeWeight: 3,
+        fillColor: "#ff0000",
+        fillOpacity: 0.7
+    });
     naver.maps.Event.addListener(marker, "click", function(e) {
         if (infowindow.getMap()) {
             infowindow.close();
@@ -52,9 +60,10 @@ function makePoint(lat, lng, countryName, confirmed, death) {
             infowindow.open(map, marker);
         }
     });
+    infowindow.open(map, marker);
 }
 
-makePoint(37.5456299, 126.9540667, '대한민국', 15, 0);
+makePoint(37.5456299, 126.9540667, '대한민국', 15, 0);//테스트용
 </script>
 </body>
 </html>
