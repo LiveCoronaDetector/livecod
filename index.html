@@ -29,13 +29,44 @@
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
   <link href="vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
   <style>
-    .height-2{
-      height: 50rem;
+    /* 월드맵 css 시작 */
+    .mapTextbox{
+      position:absolute;
+      width:110px;
+      height:70px;
+      margin :-100px 0 -100px 0;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 2px 1px rgba(69, 73, 79,.4);
     }
-     #map {
-      height: 43rem;
-      width: 100%;
-     }
+    .mapTextbox::after{
+      content:'';
+      background: linear-gradient(45deg,rgba(255,255,255,1) 50%,rgba(255,255,255,0) 51%,rgba(255,255,255,0) 100%);
+      box-shadow: -2px 2px 2px 0 rgba(69, 73, 79,.4);
+      height: 15px;
+      left: 50%;
+      position: absolute;
+      bottom: -15px;
+      transform: translate(-50%,-50%) rotate(-45deg);
+      width: 15px;
+    }
+    .list-countryInfo{
+      padding:10px 5px 0;
+      overflow:hidden;
+    }
+    .list-countryInfo div{
+      overflow:hidden;
+    }
+    .list-countryInfo dt, .list-countryInfo dd{
+      float:left;
+      line-height:1;
+      font-size: 12px;
+    }
+    .list-countryInfo dd{
+      margin-left:3px;
+    }
+    /* 월드맵 css끝 */
+    
   </style>
 
 </head>
@@ -229,7 +260,7 @@
               <div class="card shadow mb-12 height-2">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-danger">국가별 발병 세계 지도(우상단 클릭시 전체화면)</h6>
+                  <h6 class="m-0 font-weight-bold text-danger">국가별 발병 세계 지도 (클릭시 상세정보)</h6>
                   <div class="dropdown no-arrow">
                     <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
@@ -241,11 +272,8 @@
                   </div>
                 </div>
                 <!-- Card Body -->
-                <div class="card-body">
-                  <div class="chart-area">
-                    <p>접속자수가 많아 서비스가 원활하지 않습니다. 죄송합니다.</p>
-                    <div id="map"></div>
-                  </div>
+                <div class="card-body world-map">
+                  <object data="img/world.svg" type="image/svg+xml" id="objWorldmap"></object>
                 </div>
               </div>
             </div>
@@ -700,36 +728,7 @@
 
   let 확진자수 = 0;
   let 사망자수 = 0;
-
-  function initMap() {
-    var seoul = {lat: 37.5456299, lng: 126.9540667};
-    var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 6,
-      center: seoul
-    });
-
     for (var variable in data) {
-      var marker = new google.maps.Marker({
-        position: {lat: data[variable]["lat"], lng: data[variable]["lng"]},
-        map: map
-      });
-      var myCity = new google.maps.Circle({
-        center: {lat: data[variable]["lat"], lng: data[variable]["lng"]},
-        radius: 100000+60*data[variable]["확진자수"],
-        strokeColor: "#FF0000",
-        strokeOpacity: 0.8,
-        strokeWeight: 2,
-        fillColor: "#FF5500",
-        fillOpacity: 0.4
-      });
-      myCity.setMap(map);
-
-      var infowindow = new google.maps.InfoWindow({
-        content: `국가이름 : ${data[variable]["Name"]}<br>
-        확진자수 : ${data[variable]["확진자수"]}<br>
-        사망자수 : ${data[variable]["사망자수"]}`
-      });
-      infowindow.open(map,marker);
 
       if (data[variable]["Name"]=="한국") {
         document.getElementById("한국확진자").innerHTML = data[variable]["확진자수"];
@@ -741,24 +740,7 @@
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
     document.getElementById("사망자수").innerHTML = Number(사망자수).toLocaleString();
 
-    var marker = new google.maps.Marker({
-      position: {lat: 33.3616837, lng: 126.5204118},
-      map: map
-    });
-    var infowindow = new google.maps.InfoWindow({
-      content: `국가이름 : 한국-제주<br>
-                확진자수 : 0<br>
-                사망자수 : 0`
-    });
-    infowindow.open(map,marker);
-
-    // 업데이트 일시 함수
-    function updateInfo(data){
-      let updateTarget = document.querySelector(".text-update");
-      updateTarget.innerHTML = `${data.date}일 ${data.time}`;
-    }
-    updateInfo(updateLog);
-    
+   
 
     // //선별진료소 마킹
     // var data2 = 제주지역선별진료소;
@@ -775,11 +757,8 @@
     //   });
     //   infowindow2.open(map, marker2);
     // }
-  }
 </script>
-<script async defer
-src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTOb-MRCr41WeX8dozQcWZJg5EwzJT4t4&callback=initMap&region=KR">
-</script>
+
 
 
   <!-- Bootstrap core JavaScript-->
@@ -807,6 +786,8 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTOb-MRCr41WeX8dozQcWZJg5
   <!-- Page level custom scripts -->
   <script src="js/demo/datatables-demo.js"></script>
 
+  <!-- 월드맵 관련 스크립트  -->
+  <script src="js/worldmap.js"></script>
 </body>
 
 </html>
