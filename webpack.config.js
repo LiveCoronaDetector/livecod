@@ -10,6 +10,7 @@ module.exports = {
   },
   plugins: [
     new CleanWebpackPlugin(),
+    new CopyPlugin([{ from: "public/assets", to: "assets" }]),
     new HtmlWebpackPlugin({
       title: "코로나 맵",
       template: "public/index.html"
