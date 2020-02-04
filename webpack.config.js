@@ -18,8 +18,12 @@ module.exports = {
       template: "public/index.html"
     })
   ],
+  devServer: {
+    contentBase: path.join(__dirname, 'public'),
+  },
   output: {
     filename: "[name].bundle.js",
-    path: path.resolve(__dirname, "dist")
+    path: path.resolve(__dirname, "dist"),
+    publicPath: '/public'
   }
 };
