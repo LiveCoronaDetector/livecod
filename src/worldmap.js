@@ -1,12 +1,14 @@
 "use strict";
 
+const mapMarkers = require("./data/mapMarkers.json");
+
 // 업데이트 일시 함수
 function updateInfo(data) {
   var updateTarget = document.querySelector(".text-update");
   updateTarget.innerHTML = data.date + "일 " + data.time;
 }
 
-updateInfo(updateLog); // svg 클릭 이벤트 코드
+updateInfo(mapMarkers.updateLog); // svg 클릭 이벤트 코드
 
 window.onload = function () {
   var worldMapWrapper = document.querySelector(".world-map");
@@ -14,7 +16,7 @@ window.onload = function () {
   var svgDocument = worldMap.getSVGDocument();
   var infected = svgDocument.querySelectorAll(".click");
   var textBox = document.createElement("div");
-  var markerData = this.marker;
+  var markerData = mapMarkers.countries;
   var countryData; // svg 국가명 매칭 함수
 
   function matchingCountry(identity) {

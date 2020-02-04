@@ -27,12 +27,14 @@ function number_format(number, decimals, dec_point, thousands_sep) {
   return s.join(dec);
 }
 
+const confirmedCases = require('./data/confirmedCases.json');
+
 // Area Chart Example
 var ctx = document.getElementById("myAreaChart");
 var myLineChart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: marker2.labels,
+    labels: confirmedCases.labels,
     datasets: [{
       label: "확진자수 ",
       lineTension: 0.3,
@@ -46,7 +48,7 @@ var myLineChart = new Chart(ctx, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: marker2.data,
+      data: confirmedCases.data,
     }],
   },
   options: {
