@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>코로나 맵</title>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157131634-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-157131634-1');
+  </script>
+
+  <!-- Custom fonts for this template-->
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template-->
+  <link href="assets/css/sb-admin-2.min.css" rel="stylesheet">
+  <link href="assets/css/dataTables.bootstrap4.min.css" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/8a05896a27.js" crossorigin="anonymous"></script>
+  <style>
+    /* 월드맵 css 시작 */
+    .mapTextbox{
+      position:absolute;
+      width:110px;
+      height:70px;
+      margin :-100px 0 -100px 0;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 2px 1px rgba(69, 73, 79,.4);
+    }
+    .mapTextbox::after{
+      content:'';
+      background: linear-gradient(45deg,rgba(255,255,255,1) 50%,rgba(255,255,255,0) 51%,rgba(255,255,255,0) 100%);
+      box-shadow: -2px 2px 2px 0 rgba(69, 73, 79,.4);
+      height: 15px;
+      left: 50%;
+      position: absolute;
+      bottom: -15px;
+      transform: translate(-50%,-50%) rotate(-45deg);
+      width: 15px;
+    }
+    .list-countryInfo{
+      padding:10px 5px 0;
+      overflow:hidden;
+    }
+    .list-countryInfo div{
+      overflow:hidden;
+    }
+    .list-countryInfo dt, .list-countryInfo dd{
+      float:left;
+      line-height:1;
+      font-size: 12px;
+    }
+    .list-countryInfo dd{
+      margin-left:3px;
+    }
+    /* 월드맵 css끝 */
+
+  </style>
+
+</head>
+
+<body id="page-top">
+
+  <!-- Page Wrapper -->
+  <div id="wrapper">
+
+    <!-- Content Wrapper -->
+    <div id="content-wrapper" class="d-flex flex-column">
+
+      <!-- Main Content -->
+      <div id="content">
+
+        <!-- Begin Page Content -->
+        <div class="container-fluid">
+
+          <!-- Page Heading -->
+          <div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <h1 style="margin-top:1em;"class="h2 mb-0 text-gray-800">신종 코로나 바이러스 맵<br>
+              <span class="h5">* <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>의 DATA 근거, 일일업데이트, <span class="text-update"></span> 최종 업데이트</span><br>
+              <span class="h5">* 현재 사이트의 접속 증가로 원활한 접속에 문제가 발생하고 있으며 해결중에 있습니다. 감사합니다.</span><br>
+              <span class="h5">* 질병관리본부 홈페이지 게시글 외에 업데이트는 <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a> 뉴스 게시판만 참고하고 있습니다.</span><br>
+              <span class="h5">* GDG(google developers group) 등 자발적으로 참여해주신 분들께서 팀을 꾸려 비용을 받지 않고 업데이트 중에 있습니다. <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">&#8690;</a></span><br>
+            </h1>
+            <a href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i> 리포트 바로가기</a>
+          </div>
+
+          <!-- Content Row -->
+          <div class="row">
+
+            <!-- 확진환자 -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-danger shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">확진환자(한국포함)</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="확진자수"></span> 명</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 사망자 -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-danger shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-danger text-uppercase mb-1">사망자</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="사망자수"></span> 명</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Earnings (Monthly) Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-danger shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">한국 확진자</div>
+                    <h4 class="small font-weight-bold">한국(확진자 <span id="한국확진자"></span>명/사망자 0명)<span class="float-right">100%</span></h4>
+                    <div class="progress mb-4">
+                      <div class="progress-bar bg-warning" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <h4 class="small font-weight-bold">제주(확진자 0명/사망자 0명)<span class="float-right">0%</span></h4>
+                    <div class="progress mb-4">
+                      <div class="progress-bar bg-danger" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pending Requests Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-warning shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">발생국가</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="발생국가수"></span> 개국</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Content Row -->
+
+          <div class="row">
+
+            <!-- Area Chart -->
+            <div class="col-xl-6 col-lg-7">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">확진자수 증가추이</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-area">
+                    <canvas id="myAreaChart"></canvas>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pie Chart -->
+            <div class="col-xl-3 col-lg-2">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">Top3 발생국가</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-pie pt-4 pb-2">
+                    <canvas id="myPieChart"></canvas>
+                  </div>
+                  <div id="chartText" class="mt-4 text-center small">
+                    <span class="mr-2"></span>
+                    <span class="mr-2"></span>
+                    <span class="mr-2"></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-3 col-lg-3">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">최근 3개월 중국관광객 <br>제주도 입도 현황</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.cdc.go.kr/contents.es?mid=a21111060000">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-area">
+                    <canvas id="myAreaChart_two"></canvas>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 발병지도 Chart -->
+          <div class="row">
+
+            <!-- Area Chart -->
+            <div class="col-xl-12 col-lg-12">
+              <div class="card shadow mb-12 height-2">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">국가별 발병 세계 지도 (클릭시 상세정보)</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body world-map">
+                  <object data="assets/img/world.svg" type="image/svg+xml" id="objWorldmap"></object>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <br>
+
+          <!-- 안전수칙 -->
+          <div class="row">
+
+            <!-- 안전수칙 -->
+            <div class="col-xl-5 col-lg-5">
+              <div class="card shadow mb-12">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">안전수칙</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://www.cdc.go.kr/contents.es?mid=a21111060000">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <p>
+                      1. 손바닥, 손톱 및 꼼꼼하게 손씻기<br>
+                      2. 기침할 땐 옷소매로 가리기<br>
+                      3. 기침 등 호흡기 증상자는 의료기관 방문시 반드시 마스크 착용<br>
+                      4. 의료기관 방문시 의료진에게 해외여행력 알리기<br>
+                      5. 감염병 의심될 땐 질병관리본부 콜센터 1339 상담<br>
+                    </p>
+                    <p>
+                      중국 유행지역 여행시 주의사항<br>
+                      1. 동물 접촉 금지<br>
+                      2. 현지 시장 및 의료기관 방문 자제<br>
+                      3. 발열, 호흡기 증상자 접촉 금지<br>
+                      4. 개인위생 수칙 준수(기침시 마스크 착용, 손씻기 등)<br>
+                      5. 감염병 의심될 땐 질병관리본부 콜센터 1339 상담(귀국후 14일 이내 발열과 호흡기 증상 발생시)<br>
+                    </p>
+                    <p>
+                      제주특별자치도 신종감염병 대비 보유 인프라 :<br>
+                      1. 국가지정 : 제주대학교병원<br>
+                      2. 지역거점 : 제주한라병원<br>
+                      3. 일반기관 : 서귀포의료원, 중앙병원, 한마음병원, 한국병원, 서귀포열린병원
+                    </p>
+                  <a href="http://www.cdc.go.kr/contents.es?mid=a21111060000">질병관리본부 안전수칙</a><br>
+                  <a href="https://www.cdc.go.kr/linkCheck.es?mid=a21111050600">신종코로나바이러스 선별진료소</a><br>
+                  <a href="https://m.map.kakao.com/actions/searchView?q=%EC%84%A0%EB%B3%84%EC%A7%84%EB%A3%8C%EC%86%8C%20%EC%A0%9C%EC%A3%BC&wxEnc=LVSOTP&wyEnc=QNLTTMN&lvl=4&fbclid=IwAR0GcU5v4DY3GGkgbrDINlXiHccJzGALItiy1-JUqh7CVecjqKMXbjThqJY">신종코로나바이러스 제주지역 선별진료소(카카오맵 연동)</a>
+                </div>
+              </div>
+            </div>
+
+            <!-- 통계치 -->
+            <div class="col-xl-7 col-lg-7">
+              <div class="card shadow mb-12">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">통계치</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/">WHO 신종코로나</a>
+                      <a class="dropdown-item" href="https://www.who.int/csr/don/archive/disease/severe_acute_respiratory_syndrome/en/">WHO SARS</a>
+                      <a class="dropdown-item" href="https://www.who.int/emergencies/mers-cov/news-archive/en/">WHO MERS</a>
+                      <a class="dropdown-item" href="http://health.cdc.go.kr/health/mobileweb/content/group_view.jsp?CID=79551951E9">질병관리본부 신종인플루엔자</a>
+                      <a class="dropdown-item" href="http://www.cdc.go.kr/npt/biz/npp/portal/nppSumryMain.do?icdCd=NA0014&icdgrpCd=01&icdSubgrpCd=">메르스</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="table-responsive">
+                  <table class="table table-bordered" width="100%" cellspacing="0">
+                      <thead>
+                      <tr>
+                          <th>병명</th>
+                          <th>신종인플루엔자 A(H1N1)</th>
+                          <th>중동호흡기 중후군(MERS)</th>
+                          <th>중증급성호흡기증후군(SARS)</th>
+                          <th>신종 코로나</th>
+                      </tr>
+                      </thead>
+                      <tbody>
+                      <tr>
+                          <th>발견장소</th>
+                          <td>멕시코</td>
+                          <td>사우디아라비아</td>
+                          <td colspan="2">중국</td>
+                      </tr>
+                      <tr>
+                          <th>감염매개체</th>
+                          <td>사람</td>
+                          <td>낙타</td>
+                          <td colspan="2">박쥐</td>
+                      </tr>
+                      <tr>
+                          <th>전파방식</th>
+                          <td colspan="4">비말감염</td>
+                      </tr>
+                      <tr>
+                          <th>주요증상</th>
+                          <td colspan="4">발열 및 호흡기 증상 등</td>
+                      </tr>
+                      <tr>
+                          <th>치사율</th>
+                          <td>약 0.07%</td>
+                          <td>약 35%</td>
+                          <td>약 10%</td>
+                          <td>약 2%</td>
+                      </tr>
+                      <tr>
+                          <th>기초감염재생산수</th>
+                          <td >1.1~1.7</td>
+                          <td >0.4~0.9</td>
+                          <td >2~5</td>
+                          <td >1.4~2.5</td>
+                      </tr>
+                      <tr>
+                          <th>감염·사망자</th>
+                          <td>집계되지 않음(18,449)</td>
+                          <td>2,482(854)</td>
+                          <td>8,096(774)</td>
+                          <td>17,378(362)</td>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </div>
+                  <p>
+                      ※20년 2월 3일 기준<br>
+                      기초감염재생산수: 한 사람의 감염자가 몇 명을 전염시킬 수 있는지를 나타낸 값<br>
+                      비말감염: 감염자의 침, 콧물 등 체액이 다른 사람의 입이나 코로 들어가 감염이 이루지는 것<br>
+                      출처: 질병관리본부, 세계보건기구(WHO), 우측 상단상세에 링크참고
+                  </p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <br>
+
+          <!-- 국내현황 -->
+          <div class="row">
+
+            <!-- Area Chart -->
+            <div class="col-xl-12 col-lg-12">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">KBS 신종 코로나바이러스 감염증
+확산 관계망</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://dj.kbs.co.kr/resources/2020-01-31/">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <iframe src="https://dj.kbs.co.kr/resources/2020-01-31/" width="100%" height="600rem"></iframe>
+                    <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                      <thead>
+                        <tr>
+                          <th>순서</th>
+                          <th>신원</th>
+                          <th>입국일자, 확진일자</th>
+                          <th>감염차수</th>
+                          <th>접촉자(명)</th>
+                          <th>이동 경로</th>
+                          <th>치료 장소</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                          <td>1</td>
+                          <td>중국 35세 여성</td>
+                          <td>19일, 20일</td>
+                          <td>1차감염</td>
+                          <td>44명</td>
+                          <td>중국 후베이성 우한시에 거주하는 중국 국적 여성<br>
+                            19일 입국. 인천공항에서 격리<br>
+                            인천 동구 인천의료원에서 치료
+                          </td>
+                          <td>인천의료원</td>
+                        </tr>
+                        <tr>
+                          <td>2</td>
+                          <td>한국 55세 남성</td>
+                          <td>22일, 24일</td>
+                          <td>1차감염</td>
+                          <td>69명</td>
+                          <td>22일 저녁 김포공항 귀국(우한 출발 상하이 경유)<br>
+                              검역에서 발열 확인. 능동적 감시대상자로 분류<br>
+                              김포공항에서 택시로 자택 이동<br>
+                              이후 자택에만 있었음<br>
+                              23일 보건진료소에서 진료후 감염 확진자로 확인
+                          </td>
+                          <td>서울 국립중앙의료원</td>
+                        </tr>
+                        <tr>
+                          <th>3</td>
+                          <td>한국 54세 남성</td>
+                          <td>20일, 26일</td>
+                          <td>1차감염</td>
+                          <td>98명</td>
+                          <td>
+                            중국 후베이성 우한시 거주<br>
+                            1월 20일 일시 귀국(무증상 입국자)<br>
+                            222일 오후 1시 서울 강남 글로비 성형외과<br>
+                            한일관(압구정로)<br>
+                            본죽(도산대로)<br>
+                            호텔(호텔뉴브)숙박<br>
+                            23일 한강, 역삼, 대치<br>
+                            23일 편의점(GS 한강잠원 1호점)<br>
+                            강남구 역삼동과 대치동 일대 음식점<br>
+                            24일 일산 소재 본죽 (정발산점) <br>
+                            오후 4시 식사동 스타벅스 <br>
+                            저녁 일산 모친 자택, 명지 병원
+                          </td>
+                          <td>일산 명지병원</td>
+                        </tr>
+                        <tr>
+                          <td>4</td>
+                          <td>한국 55세 남성</td>
+                          <td>20일, 27일</td>
+                          <td>1차감염</td>
+                          <td>172명</td>
+                          <td>
+                            20일 우한발 직항편(16:25 KE882)이용 인천공항<br>
+                            공항버스(17:30경 8834번)이용<br>
+                            평택 송탄터미널<br>
+                            택시로 자택이동<br>
+                            21일 평택 365 연합의원<br>
+                            22일 ~ 24일 자택<br>
+                            25일 평택 365 연합의원<br>
+                            26일 보건소 선별진료<br>
+                          </td>
+                          <td>분당 서울대병원</td>
+                        </tr>
+                        <tr>
+                          <td>5</td>
+                          <td>한국 33세 남성</td>
+                          <td>24, 30일</td>
+                          <td>1차감염</td>
+                          <td>33명</td>
+                          <td>
+                            우한시 업무 차 방문<br>
+                            24일 우한시 인근 장사 공항에서 아시아나 OZ322 타고 귀국<br>
+                            26일 다이소 성신여대역점<br>
+                            11시경 지하철로 성동구 선녀보살(역술인)<br>
+                            지하철 이용 12시경 선호케어(마사지숍)<br>
+                            숙소 인근 이마트24, GS25, 식자재유통센터, 두꺼비마트<br>
+                            27일 오후 돈암동떡볶이, 두꺼비마트, 럭키마트<br>
+                            28일 성북구 예쁠레뷰티라인, 버스 이동<br>
+                            중랑구 가락홈마트,이가네 바지락칼국수<br>
+                            지하철 이용 강남구 와이즈웨딩<br>
+                            지하철로 자택이동<br>
+                            29일 부친 차량 이용 중랑구 보건소 검사 후 자택 귀가<br>
+                            30일 자택에서 서울의료원 이송
+                          </td>
+                          <td>서울의료원</td>
+                        </tr>
+                        <tr>
+                          <td>6</td>
+                          <td>한국 55세 남성</td>
+                          <td>-, 30일</td>
+                          <td>2차감염</td>
+                          <td>25명</td>
+                          <td>
+                            22일 3번 확진자와 강남 음식점에서 식사
+                            26일 명륜교회 새벽,오전 예배<br>
+                            교회 식당 점심식사,오후 예배<br>
+                            저녁 가족과 종로구 일대 음식점 저녁식사 후 귀가<br>
+                            27∼29일 자택 자가 격리
+                            30일 자택에서 서울대병원으로 이송
+                          </td>
+                          <td>서울대병원</td>
+                        </tr>
+                        <tr>
+                          <td>7</td>
+                          <td>한국 28세 남성</td>
+                          <td>23일, 30일</td>
+                          <td>1차감염</td>
+                          <td>21명</td>
+                          <td>
+                            우한에서 청도 거쳐 23일 인천공항으로 귀국(22:20 청도항공 QW9901편)<br>
+                            26~28일 자택<br>
+                            29일 보건소 구급차량 이용 검사 후 구급차량 귀가<br>
+                            30일 자택에서 서울의료원 이송
+                          </td>
+                          <td>서울의료원</td>
+                        </tr>
+                        <tr>
+                          <td>8</td>
+                          <td>한국 62세 여성</td>
+                          <td>23일, 31일</td>
+                          <td>1차 감염</td>
+                          <td>72명</td>
+                          <td>
+                            우한국제패션센터 한국관(더플레이스) 근무<br>
+                            * 이 장소는 3번째 확진자, 15 확진자와도 관련<br>
+                            7번 확진자(지인)와 23일 같은 비행기(옆좌석)로 입국<br>
+                            23일 우한에서 청도 거쳐(22:20 청도항공 QW9901) 인천 공항으로 귀국<br>
+                            아들 차량 이용 아들의 집으로 이동<br>
+                            25일 서초3동 풍미감자탕점심식사, 아들 차량 이용 자택(군산)으로 이동<br>
+                            군산 소재 음식점 저녁식사 후 귀가<br>
+                            26일 군산 월명동 아센사우나 (14:11~16:29),군산 참치본가<br>
+                            27일 군산 유남진 내과 내원 자차 이용 귀가<br>
+                            28일 군산의료원, 약국, 차량 귀가<br>
+                            29일 군산 문화동 우리떡갈비점심식사, 이마트 군산점<br>
+                            30일 익산 원광대병원 내원, 의사환자로 분류, 입원<br>
+                            31일 입원 중 확진 판정
+                          </td>
+                          <td>원광대병원(익산)</td>
+                        </tr>
+                        <tr>
+                          <td>9</td>
+                          <td>한국 28세 여성</td>
+                          <td>-, 31일</td>
+                          <td>2차감염</td>
+                          <td>2명</td>
+                          <td>
+                            30일 5번째 환자 접촉자 통보 받고 자택<br>
+                            31일 서울의료원 이송
+                          </td>
+                          <td>서울의료원</td>
+                        </tr>
+                        <tr>
+                          <td>10</td>
+                          <td>한국 54세 여성</td>
+                          <td>-, 31일</td>
+                          <td>3차 감염</td>
+                          <td>2명</td>
+                          <td>
+                            * 6번째 환자 가족(아내)<br>
+                            30일 점심 자차 이용 일산 메종드아이디헤어백석벨라시타점, 자택 귀가<br>
+                            31일 서울대병원 이송<br>
+                          </td>
+                          <td>서울대병원</td>
+                        </tr>
+                        <tr>
+                          <td>11</td>
+                          <td>한국 25세 남성</td>
+                          <td>-, 31일</td>
+                          <td>3차감염</td>
+                          <td>확인중</td>
+                          <td>
+                            * 6번째 환자 가족(아들)<br>
+                            검역(능동감시)<br>
+                            치료중<br>
+                          </td>
+                          <td>서울대병원</td>
+                        </tr>
+                        <tr>
+                          <td>12</td>
+                          <td>중국 48세 남성</td>
+                          <td>1/19, 2/1</td>
+                          <td>1차 감염</td>
+                          <td>138명</td>
+                          <td>
+                            19일 일본에서 국내로 귀국했다<br>
+                            20일 택시를 이용 15시 서울 중구 소재 음식점을 방문. 다시 택시를 타고 남대문 쇼핑<br>
+                            19시20분 CGV 부천역점 8층5관 E5~6 영화 '백두산'<br>
+                            21일 지하철과 택시로 12시 인천출입국사무소, 다시 택시로 인천시 남구 친구 집을 방문<br>
+                            22일 9시 부천시 약국 방문, 지하철로 서울역 이동, 편의점 이용, 강릉행 KTX(11:01-12:59)<br>
+                            14시 강릉소재 음식점을 이용, 택시로 16시 강릉 썬크루즈리조트 이동, 17시 커피숍, 18시 음식점, 19시 숙소 복귀<br>
+                            23일 서울역행 KTX(12:30-2:27) KTX로 오후 2시27분 서울역. 지하철로 부천속내과)를 방문<br>
+                            24일 지하철로 수원역, 수원역에서 택시 타고 친척집을 방문. 버스를 타고 경기도 군포 소재 친척집<br>
+                            25일 군포 친척집에서 택시로 군포 더건강한내과 방문. 현대약국, 지하철로 귀가.<br>
+                            26일 CGV부천역점 재방문. 17시30분 '남산의부장들'을 8층 4관 좌석번호 E13~14에서 관람.
+                            27일 지하철과 택시로 서울시 중구 소재 음식점을 방문<br>
+                            28일 14시 부천속내과, 서전약국.<br>
+                            29일엔 종일 집. 30일 10시 부천보건소 선별진료소를 방문,다시 택시를 타고 귀가.<br>
+                            13시 순천향대학교부속부천병원,17시 자가 격리가 시작.
+                            31일엔 종일 집. 2월1일 확진 판정 받고 분당서울대병원으로 이송<br>
+                            *접촉자는 현재까지 138명으로 확인, 이 중 1명이 확진(가족, 14번째 환자)<br>
+                            나머지 접촉자는 자가격리 등 조치 중
+                          </td>
+                          <td>분당 서울대병원</td>
+                        </tr>
+                        <tr>
+                          <td>13</td>
+                          <td>한국 28세 남성</td>
+                          <td>1/31, 2/2</td>
+                          <td>1차감염</td>
+                          <td>확인중</td>
+                          <td>
+                            31일 임시항공편(1차)으로 들어온 귀국한 입국 교민 368명 중 1명<br>
+                            국립중앙의료원에 격리조치<br>
+                            *입국 시 증상을 호소했던 18명을 포함 나머지 1차 입국 교민 367명은 모두 음성<br>
+                            *2월 1일 임시항공편으로 귀국한 2차 입국교민도 전수 진단검사를 진행중<br>
+                            우선 시행된 유증상자 7명의 검사 결과는 모두 음성
+                          </td>
+                          <td>국립중앙의료원</td>
+                        </tr>
+                        <tr>
+                          <td>14</td>
+                          <td>중국 40세 여성</td>
+                          <td>-, 2/2</td>
+                          <td>3차감염</td>
+                          <td>확인중</td>
+                          <td>
+                            * 12번째 환자 가족<br>
+                            자가 격리 중이었음<br>
+                            역학 조사 진행 중
+                          </td>
+                          <td>분당 서울대병원</td>
+                        </tr>
+                        <tr>
+                          <td>15</td>
+                          <td>한국 43세 남성</td>
+                          <td>1/20, 2/2</td>
+                          <td>1차 감염</td>
+                          <td>확인중</td>
+                          <td>
+                            20일 입국(16:25 KE882 우한 -> 인천)<br>
+                            *4번 환자와 같은 비행기를 탑승하여 능동 감시 중이던 대상자<br>
+                            1일 증상을 호소해 실시한 검사 결과 확진<br>
+                            *수원시 장안구 거주
+                          </td>
+                          <td>국군수도병원</td>
+                        </tr>
+                    </tbody>
+                    </table>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 공지사항 -->
+          <div class="row">
+
+            <!-- Area Chart -->
+            <div class="col-xl-8 col-lg-8">
+              <div class="card shadow mb-12">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">KBS 신종코로나바이러스감염증 현황(실시간)</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="http://news.kbs.co.kr/common/main.html">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <!-- <img src="http://news.kbs.co.kr/disaster/3/2020/01/roD34tp304c7j.gif" alt="KBS gif파일"> -->
+                    <!-- <iframe src="http://news.kbs.co.kr/common/main.html#disaster_step_3" width="100%" height="500vw"></iframe> -->
+                    <p>크롤링을 해오는 것보다 <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a> 게시판을 그대로 보여드리는 것이 신뢰도가 높을 것 같아 게시판을 가지고 왔습니다.</p>
+                    <iframe src="https://mn.kbs.co.kr/mobile/disaster.html" width="100%" height="2000vw"></iframe>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-4 col-lg-4">
+              <div class="card shadow mb-12">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">공지사항</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="#">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <p>
+                    업데이트가 필요하거나, 추가 기능, 다국어 번역이 필요하신 경우 메일로 연락주세요. paul-lab@naver.com 입니다.(번역의 경우 직접 도움을 주셔야 합니다.)
+                  </p>
+                  <p>
+                    국내 맵은 감염자수 30명이 넘으면 별도로 만들도록 하겠습니다.
+                  </p>
+                  <p>
+                    정보 업데이트는 <a target="_blank" href="http://news.kbs.co.kr/common/main.html">KBS</a>가 빠릅니다. 제보 감사합니다.
+                  </p>
+                  <p>
+                    <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">담당자 및 도움을 주신 분들</a>
+                  </p>
+                  <p>
+                    <a target="_blank" href="https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9">업데이트 히스토리</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+        <!-- /.container-fluid -->
+
+      </div>
+      <!-- End of Main Content -->
+      <br>
+
+      <!-- Footer -->
+      <footer class="sticky-footer bg-white">
+        <div class="container my-auto">
+          <div class="copyright text-center my-auto">
+            <span>Copyright &copy; <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">LIVECoD (Live corona Detector)</a></span>
+          </div>
+        </div>
+      </footer>
+      <!-- End of Footer -->
+
+    </div>
+    <!-- End of Content Wrapper -->
+
+  </div>
+  <!-- End of Page Wrapper -->
+
+  <!-- Scroll to Top Button-->
+  <a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+  </a>
+</body>
+
+</html>
