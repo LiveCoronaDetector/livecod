@@ -66,7 +66,7 @@
       margin-left:3px;
     }
     /* 월드맵 css끝 */
-    
+
   </style>
 
 </head>
@@ -284,8 +284,8 @@
           <!-- 안전수칙 -->
           <div class="row">
 
-            <!-- Area Chart -->
-            <div class="col-xl-12 col-lg-12">
+            <!-- 안전수칙 -->
+            <div class="col-xl-5 col-lg-5">
               <div class="card shadow mb-12">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
@@ -326,6 +326,94 @@
                   <a href="http://www.cdc.go.kr/contents.es?mid=a21111060000">질병관리본부 안전수칙</a><br>
                   <a href="https://www.cdc.go.kr/linkCheck.es?mid=a21111050600">신종코로나바이러스 선별진료소</a><br>
                   <a href="https://m.map.kakao.com/actions/searchView?q=%EC%84%A0%EB%B3%84%EC%A7%84%EB%A3%8C%EC%86%8C%20%EC%A0%9C%EC%A3%BC&wxEnc=LVSOTP&wyEnc=QNLTTMN&lvl=4&fbclid=IwAR0GcU5v4DY3GGkgbrDINlXiHccJzGALItiy1-JUqh7CVecjqKMXbjThqJY">신종코로나바이러스 제주지역 선별진료소(카카오맵 연동)</a>
+                </div>
+              </div>
+            </div>
+
+            <!-- 통계치 -->
+            <div class="col-xl-7 col-lg-7">
+              <div class="card shadow mb-12">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">통계치</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/">WHO 신종코로나</a>
+                      <a class="dropdown-item" href="https://www.who.int/csr/don/archive/disease/severe_acute_respiratory_syndrome/en/">WHO SARS</a>
+                      <a class="dropdown-item" href="https://www.who.int/emergencies/mers-cov/news-archive/en/">WHO MERS</a>
+                      <a class="dropdown-item" href="http://health.cdc.go.kr/health/mobileweb/content/group_view.jsp?CID=79551951E9">질병관리본부 신종인플루엔자</a>
+                      <a class="dropdown-item" href="http://www.cdc.go.kr/npt/biz/npp/portal/nppSumryMain.do?icdCd=NA0014&icdgrpCd=01&icdSubgrpCd=">메르스</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="table-responsive">
+                  <table class="table table-bordered" width="100%" cellspacing="0">
+                      <thead>
+                      <tr>
+                          <th>병명</th>
+                          <th>신종인플루엔자 A(H1N1)</th>
+                          <th>중동호흡기 중후군(MERS)</th>
+                          <th>중증급성호흡기증후군(SARS)</th>
+                          <th>신종 코로나</th>
+                      </tr>
+                      </thead>
+                      <tbody>
+                      <tr>
+                          <th>발견장소</th>
+                          <td>멕시코</td>
+                          <td>사우디아라비아</td>
+                          <td colspan="2">중국</td>
+                      </tr>
+                      <tr>
+                          <th>감염매개체</th>
+                          <td>사람</td>
+                          <td>낙타</td>
+                          <td colspan="2">박쥐</td>
+                      </tr>
+                      <tr>
+                          <th>전파방식</th>
+                          <td colspan="4">비말감염</td>
+                      </tr>
+                      <tr>
+                          <th>주요증상</th>
+                          <td colspan="4">발열 및 호흡기 증상 등</td>
+                      </tr>
+                      <tr>
+                          <th>치사율</th>
+                          <td>약 0.07%</td>
+                          <td>약 35%</td>
+                          <td>약 10%</td>
+                          <td>약 2%</td>
+                      </tr>
+                      <tr>
+                          <th>기초감염재생산수</th>
+                          <td >1.1~1.7</td>
+                          <td >0.4~0.9</td>
+                          <td >2~5</td>
+                          <td >1.4~2.5</td>
+                      </tr>
+                      <tr>
+                          <th>감염·사망자</th>
+                          <td>집계되지 않음(18,449)</td>
+                          <td>2,482(854)</td>
+                          <td>8,096(774)</td>
+                          <td>17,378(362)</td>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </div>
+                  <p>
+                      ※20년 2월 3일 기준<br>
+                      기초감염재생산수: 한 사람의 감염자가 몇 명을 전염시킬 수 있는지를 나타낸 값<br>
+                      비말감염: 감염자의 침, 콧물 등 체액이 다른 사람의 입이나 코로 들어가 감염이 이루지는 것<br>
+                      출처: 질병관리본부, 세계보건기구(WHO), 우측 상단상세에 링크참고
+                  </p>
                 </div>
               </div>
             </div>
@@ -470,7 +558,7 @@
                             26일 명륜교회 새벽,오전 예배<br>
                             교회 식당 점심식사,오후 예배<br>
                             저녁 가족과 종로구 일대 음식점 저녁식사 후 귀가<br>
-                            27∼29일 자택 자가 격리 
+                            27∼29일 자택 자가 격리
                             30일 자택에서 서울대병원으로 이송
                           </td>
                           <td>서울대병원</td>
@@ -740,7 +828,7 @@
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
     document.getElementById("사망자수").innerHTML = Number(사망자수).toLocaleString();
 
-   
+
 
     // //선별진료소 마킹
     // var data2 = 제주지역선별진료소;
