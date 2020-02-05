@@ -212,7 +212,7 @@ window.onload = function () {
         break;
     }
 
-    textBox.innerHTML = '<dl class="list-countryInfo"><div><dt>국명 :</dt><dd>' + countryData.Name + '</dd></div><div><dt>확진자 :</dt><dd>' + countryData.확진자수 + '</dd></div><div><dt>사망자 :</dt><dd>' + countryData.사망자수 + '</dd></div></dl>';
+    textBox.innerHTML = '<dl class="list-countryInfo"><div><dt>국명 :</dt><dd>' + countryData.Name + '(' + countryData.Name_en + ')</dd></div><div><dt>확진자 :</dt><dd>' + countryData.확진자수 + '</dd></div><div><dt>사망자 :</dt><dd>' + countryData.사망자수 + '</dd></div></dl>';
   }
 
   var _loop = function _loop(i) {
