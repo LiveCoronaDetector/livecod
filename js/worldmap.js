@@ -220,8 +220,8 @@ window.onload = function () {
       var identity = infected[i].id;
       matchingCountry(identity);
       textBox.className = identity + " mapTextbox";
-      textBox.style.left = e.pageX - 35 + "px";
-      textBox.style.top = e.pageY + 90 + "px";
+      textBox.style.left = e.pageX - 70 + "px";
+      textBox.style.top = e.pageY + 130 + "px";
       worldMapWrapper.appendChild(textBox);
     });
   };
