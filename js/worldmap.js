@@ -221,7 +221,7 @@ window.onload = function () {
       matchingCountry(identity);
       textBox.className = identity + " mapTextbox";
       textBox.style.left = e.pageX - 70 + "px";
-      textBox.style.top = e.pageY + 130 + "px";
+      textBox.style.top = e.pageY + 170 + "px";
       worldMapWrapper.appendChild(textBox);
     });
   };
