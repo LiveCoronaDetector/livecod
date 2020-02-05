@@ -204,7 +204,7 @@ var marker = [{
    "사망자수": 0,
    "무증상자": 0,
 }, {
-   "Name": "독일",   
+   "Name": "독일",
    "Name_en": "Germany",
    "Name_ch": "德国",
    "lat": 51.0968735,
@@ -214,7 +214,7 @@ var marker = [{
    "무증상자": 2,
 }, {
    "Name": "인도",
-   "Name_en": "India",  
+   "Name_en": "India",
    "Name_ch": "印度",
    "lat": 28.5274228,
    "lng": 77.1387735,
@@ -223,7 +223,7 @@ var marker = [{
    "무증상자": 0,
 }, {
    "Name": "아랍에미리트",
-   "Name_en": "United Arab Emirates",  
+   "Name_en": "United Arab Emirates",
    "Name_ch": "阿拉伯联合酋长国",
    "lat": 24.3870789,
    "lng": 54.4185368,
@@ -254,7 +254,7 @@ var marker = [{
    "Name_ch": "韩国",
    "lat": 37.5456299,
    "lng": 126.9540667,
-   "확진자수": 18,
+   "확진자수": 19,
    "사망자수": 0,
    "무증상자": 0,
 }];
