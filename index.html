@@ -162,7 +162,7 @@
                     <div class="col mr-2">
                       <div class="text-xs font-weight-bold text-success text-uppercase mb-1">한국 완치자</div>
                       <!-- 완치자(세계 완치자도 포함) -->
-                      <h4 class="small font-weight-bold">한국(완치자 <span id="한국완치자_인원"></span>명/확진자 19명)<span class="float-right"><span id="한국완치자_확률"></span>%</span></h4>
+                      <h4 class="small font-weight-bold">한국(완치자 <span id="한국완치자_인원"></span>명/확진자 <span id="한국확진자_완치자카드"></span>명)<span class="float-right"><span id="한국완치자_확률"></span>%</span></h4>
                       <div class="progress mb-4">
                         <div class="progress-bar bg-success" id="완치자확률바" role="progressbar" style="width: 0%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
@@ -903,6 +903,7 @@
 
       if (data[variable]["Name"]=="한국") {
         document.getElementById("한국확진자").innerHTML = data[variable]["확진자수"];
+        document.getElementById("한국확진자_완치자카드").innerHTML = data[variable]["확진자수"];
         document.getElementById("한국완치자_인원").innerHTML = data[variable]["완치자"];
         let 완치자확율값 = ((data[variable]["완치자"]/data[variable]["확진자수"])*100).toFixed(3)
         document.getElementById("한국완치자_확률").innerHTML = 완치자확율값;
