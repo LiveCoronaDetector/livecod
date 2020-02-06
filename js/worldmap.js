@@ -14,7 +14,7 @@ window.onload = function () {
   var svgDocument = worldMap.getSVGDocument();
   var infected = svgDocument.querySelectorAll(".click");
   var textBox = document.createElement("div");
-  var markerData = this.marker;
+  var markerData = _marker;
   var countryData; // svg 국가명 매칭 함수
 
   function matchingCountry(identity) {
