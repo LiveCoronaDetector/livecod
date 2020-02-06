@@ -23,13 +23,7 @@ for (jejuMedicalCenter of 제주지역선별진료소) {
 
     var marker = new naver.maps.Marker(markerOptions);
     var infowindow = new naver.maps.InfoWindow({
-        content: `
-      <div style="padding:3px;">
-        이름 : ${name}<br>
-        주소 : ${address}<br>
-        전화번호 : ${phone}
-      </div>
-    `
+        content: "<div style='padding:3px;'>이름 : " + name + "<br>주소 : " + address + "<br>전화번호 : " + phone + "</div>"
     });
 
     markers.push(marker);
