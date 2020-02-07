@@ -304,7 +304,7 @@ var 제주지역선별진료소 = [{
 // 업데이트 일시 데이터
 var updateLog = {
   date: "2/7",
-  time: "10:16"
+  time: "14:07"
 };
 
 // This is a bad way to copy, but for now it will suffice.
