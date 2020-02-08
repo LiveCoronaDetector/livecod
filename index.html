@@ -4,7 +4,7 @@
 <head>
   <meta property="og:type" content="website">
 	<meta property="og:title" content="코로나 바이러스 현황판">
-	<meta name="description" content="코로나 바이러스 현황판">
+	<meta name="description" content="질병관리본부의 DATA 근거하여, 신종 코로나 바이러스 감염증에 대한 정보를 신속하게 전달하기 위한 사이트입니다.">
 	<meta property="og:description" content="코로나 바이러스 현황판">
 	<meta property="og:image" content="https://livecorona.co.kr/livecorona.jpg">
 	<meta property="og:url" content="https://livecorona.co.kr">
@@ -12,7 +12,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  <meta name="author" content="LIVECoD">
+  <link rel="shortcut icon" href="#">
   <title>코로나 맵</title>
   <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=26ba2oaskk"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157131634-1"></script>
@@ -87,6 +88,8 @@
     #myAreaChart_three{
       padding-bottom: 1.5rem;
     }
+    /* 텍스트 숨기기 */
+    .ir-txt{display:block;overflow:hidden;text-indent:-9999px;font-size:1px}
   </style>
 
 </head>
@@ -106,21 +109,20 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <div class="d-sm-flex align-items-center justify-content-between mb-4">
-            <h1 style="margin-top:1em;" class="h2 mb-0 text-gray-800">신종 코로나 바이러스 맵<br>
-              <span class="h5">*
-                <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>,
-                <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a>, 제주도청의 DATA 근거, 일일업데이트, <span
-                  class="text-update"></span> 최종 업데이트</span><br>
-              <span class="h5">* GDG(google developers group) 등 자발적으로 참여해주신 분들께서 팀을 꾸려 비용을 받지 않고 업데이트 중에 있습니다. <a
-                  target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">&#8690;</a></span><br>
-              <span class="h5">* <a href="https://www.ncloud.com" target="_blank">네이버 클라우드 플랫폼</a>에서 서버 및 지도 API 를 무상
-                지원합니다.</span>
-            </h1>
-            <a href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank"
-              class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i
-                class="fas fa-download fa-sm text-white-50"></i> 리포트 바로가기</a>
-          </div>
+          <h1 style="margin-top:1em;"class="h2 mb-0 text-gray-800 mb-4">신종 코로나 바이러스 맵</h1>
+          <header class="d-sm-flex align-items-center mb-4">
+              <h2 class="ir-txt">알림</h2>
+              <ul class="list-group">
+                <li class="list-group-item">* <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>,
+                  <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a>, 제주도청의 DATA 근거, 일일업데이트, <span class="text-update"></span> 최종 업데이트
+                </li>
+                <li class="list-group-item">* GDG(google developers group) 등 자발적으로 참여해주신 분들께서 팀을 꾸려 비용을 받지 않고 업데이트 중에 있습니다. <a
+                  target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">링크&#8690;</a></li>
+                <li class="list-group-item">* <a href="https://www.ncloud.com" target="_blank">네이버 클라우드 플랫폼</a>에서 서버 및 지도 API 를 무상
+                  지원합니다.</li>
+              </ul>
+            <a href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm ml-4"><i class="fas fa-download fa-sm text-white-50"></i> 리포트 바로가기</a>
+          </header>
 
           <!-- Content Row -->
           <div class="row">
