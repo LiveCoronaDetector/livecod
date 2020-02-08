@@ -190,7 +190,7 @@
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-success text-uppercase mb-1">한국 완치자</div>
+                      <div class="text-xs font-weight-bold text-success text-uppercase mb-1">완치자 현황</div>
                       <!-- 완치자(세계 완치자도 포함) -->
                       <h4 class="small font-weight-bold">한국(완치자 <span id="한국완치자_인원"></span>명/확진자 <span
                           id="한국확진자_완치자카드"></span>명)<span class="float-right"><span id="한국완치자_확률"></span>%</span></h4>
@@ -198,9 +198,12 @@
                         <div class="progress-bar bg-success" id="완치자확률바" role="progressbar" style="width: 0%"
                           aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
-                    </div>
-                    <div class="col-auto">
-                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                      <h4 class="small font-weight-bold">전세계(완치자 <span id="세계완치자_인원"></span>명/확진자 <span
+                        id="세계확진자_인원"></span>명)<span class="float-right"><span id="세계완치자_확률"></span>%</span></h4>
+                      <div class="progress mb-4">
+                        <div class="progress-bar bg-success" id="세계완치자확률바" role="progressbar" style="width: 0%"
+                          aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -729,21 +732,35 @@
   <script>
     var data = marker
 
-    let 확진자수 = 0;
-    let 사망자수 = 0;
+    var 확진자수 = 0;
+    var 사망자수 = 0;
+    var 완치자수 = 0;
     for (var variable in data) {
 
       if (data[variable]["Name"] == "한국") {
         document.getElementById("한국확진자").innerHTML = data[variable]["확진자수"];
         document.getElementById("한국확진자_완치자카드").innerHTML = data[variable]["확진자수"];
         document.getElementById("한국완치자_인원").innerHTML = data[variable]["완치자수"];
-        let 완치자확율값 = ((data[variable]["완치자수"] / data[variable]["확진자수"]) * 100).toFixed(3)
+        var 완치자확율값 = ((data[variable]["완치자수"] / data[variable]["확진자수"]) * 100).toFixed(3)
         document.getElementById("한국완치자_확률").innerHTML = 완치자확율값;
         document.getElementById("완치자확률바").style.width = 완치자확율값 + "%";
       }
+
       확진자수 += data[variable]["확진자수"];
       사망자수 += data[variable]["사망자수"];
+      // 전세계 완치자수 합산
+      if(data[variable]["완치자수"]){
+        완치자수 += data[variable]["완치자수"];
+      }
+
     }
+    // 전 세계 완치자 ui 반영
+    document.getElementById("세계완치자_인원").innerHTML = Number(완치자수).toLocaleString();
+    document.getElementById("세계확진자_인원").innerHTML = Number(확진자수).toLocaleString();
+    var 세계완치자확율값 = ((Number(완치자수) / Number(확진자수)) * 100).toFixed(3);
+    document.getElementById("세계완치자_확률").innerHTML = 세계완치자확율값;
+    document.getElementById("세계완치자확률바").style.width = 세계완치자확율값 + "%";
+
     document.getElementById("발생국가수").innerHTML = data.length;
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
     document.getElementById("사망자수").innerHTML = Number(사망자수).toLocaleString();
