@@ -5,7 +5,7 @@ Chart.defaults.global.defaultFontFamily = 'Nunito', '-apple-system,system-ui,Bli
 Chart.defaults.global.defaultFontColor = '#858796'; // Pie Chart Example
 
 var 모든확진자수 = marker.reduce(function (a, b) {
-  console.log(a, b.확진자수)
+  // console.log(a, b.확진자수)
   return a + (b.확진자수 || 0);
 }, 0);
 var topText = document.querySelectorAll("#Top5>h4");
@@ -17,7 +17,8 @@ marker.sort(function (a, b) {
 
 for (var i = 0; i < 5; i++) {
   var percentage = marker[i].확진자수 / 모든확진자수 * 100;
-  topText[i].innerHTML = marker[i].Name +
+  topText[i].innerHTML = String(i+1) + '. ' +
+  marker[i].Name +
   "<span class='float-right'>" +
   Math.round(percentage * 100) / 100 +
   "%</span>";

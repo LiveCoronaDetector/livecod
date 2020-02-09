@@ -36,7 +36,7 @@
   <link
     href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
     rel="stylesheet">
-  
+
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
   <link href="css/livecod-custom.css" rel="stylesheet">
@@ -100,7 +100,7 @@
 </head>
 
 <!-- Page Heading -->
-          
+
 <header class="d-flex flex-column">
   <div class="row" style="margin-top:2em;margin-left:2em;">
     <img src='img/live.svg' style="width: 22px;height: 22px;align-self: bottom;">&nbsp;
@@ -110,10 +110,10 @@
 </header>
 
 <body id="page-top">
-  
+
   <!-- Page Wrapper -->
   <div id="wrapper">
-    
+
     <!-- Content Wrapper -->
     <div id="content-wrapper" class="d-flex flex-column bg-white">
       <!-- Main Content -->
@@ -1046,7 +1046,7 @@
                 </div>
                 <!-- Card Body -->
                 <div class="card-body">
-                  <iframe src="http://dj.kbs.co.kr/resources/2020-02-03/" width="100%" height="600rem"></iframe>
+                  <iframe src="http://dj.kbs.co.kr/resources/2020-02-03/" width="100%" height="800rem"></iframe>
                 </div>
               </div>
             </div>
@@ -1172,7 +1172,7 @@
         document.getElementById("한국확진자").innerHTML = data[variable]["확진자수"];
         document.getElementById("한국확진자_완치자카드").innerHTML = data[variable]["확진자수"];
         document.getElementById("한국완치자_인원").innerHTML = data[variable]["완치자수"];
-        var 완치자확율값 = ((data[variable]["완치자수"] / data[variable]["확진자수"]) * 100).toFixed(3)
+        var 완치자확율값 = ((data[variable]["완치자수"] / data[variable]["확진자수"]) * 100).toFixed(2)
         document.getElementById("한국완치자_확률").innerHTML = 완치자확율값;
         document.getElementById("완치자확률바").style.width = 완치자확율값 + "%";
       }
@@ -1187,17 +1187,17 @@
     // 전 세계 완치자 ui 반영
     document.getElementById("세계완치자_인원").innerHTML = Number(완치자수).toLocaleString();
     document.getElementById("세계확진자_인원").innerHTML = Number(확진자수).toLocaleString();
-    var 세계완치자확율값 = ((Number(완치자수) / Number(확진자수)) * 100).toFixed(3);
+    var 세계완치자확율값 = ((Number(완치자수) / Number(확진자수)) * 100).toFixed(2);
     document.getElementById("세계완치자_확률").innerHTML = 세계완치자확율값;
     document.getElementById("세계완치자확률바").style.width = 세계완치자확율값 + "%";
 
-    document.getElementById("발생국가수").innerHTML = data.length;
+    document.getElementById("발생국가수").innerHTML = data.length-1;
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
     document.getElementById("사망자수").innerHTML = Number(사망자수).toLocaleString();
   </script>
 
-  <!-- 확진자 관련 table push 스크립트 -->
-  <script src="js/renderTable.js"></script>
+  <!-- 확진자 관련 table push 스크립트 : 확진자 이동경로 삭제에 따른 비활성화, 추후 다른 Table에 사용될 수도 있어 삭제하지 않음. -->
+  <!-- <script src="js/renderTable.js"></script> -->
 
   <!-- Bootstrap core JavaScript-->
   <script src="vendor/jquery/jquery.min.js"></script>
