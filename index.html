@@ -36,9 +36,10 @@
   <link
     href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
     rel="stylesheet">
-
+  
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
+  <link href="css/livecod-custom.css" rel="stylesheet">
   <link href="vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
   <style>
     /* 월드맵 css 시작 */
@@ -113,19 +114,12 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <h1 style="margin-top:1em;"class="h2 mb-0 text-gray-800 mb-4">신종 코로나 바이러스 맵</h1>
-          <header class="d-sm-flex align-items-center mb-4">
-              <h2 class="ir-txt">알림</h2>
-              <ul class="list-group">
-                <li class="list-group-item">* <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>,
-                  <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a>, 제주도청의 DATA 근거, 일일업데이트, <span class="text-update"></span> 최종 업데이트
-                </li>
-                <li class="list-group-item">* GDG(google developers group) 등 자발적으로 참여해주신 분들께서 팀을 꾸려 비용을 받지 않고 업데이트 중에 있습니다. <a
-                  target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">링크&#8690;</a></li>
-                <li class="list-group-item">* <a href="https://www.ncloud.com" target="_blank">네이버 클라우드 플랫폼</a>에서 서버 및 지도 API 를 무상
-                  지원합니다.</li>
-              </ul>
-            <a href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm ml-4"><i class="fas fa-download fa-sm text-white-50"></i> 리포트 바로가기</a>
+          
+          <header>
+            <div class="row">
+              <h1 style="margin-top:1em;margin-left:.5em;"class="title mb-0 mb-4">신종 코로나 바이러스 맵</h1>
+              <h6 style="margin-top:3.7em;"class="h6 mb-0 mb-4">&nbsp;&nbsp;<span class="text-update"></span> 최종 업데이트</h6>
+            </div class="row">
           </header>
 
           <!-- Content Row -->
@@ -603,8 +597,7 @@
               <div class="card shadow mb-4">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-danger">KBS 신종 코로나바이러스 감염증
-                    확산 관계망</h6>
+                  <h6 class="m-0 font-weight-bold text-danger">KBS 신종 코로나바이러스 감염증 확진자 조회</h6>
                   <div class="dropdown no-arrow">
                     <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
                       aria-haspopup="true" aria-expanded="false">
@@ -613,31 +606,13 @@
                     <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
                       aria-labelledby="dropdownMenuLink">
                       <div class="dropdown-header">상세</div>
-                      <a class="dropdown-item" href="http://dj.kbs.co.kr/resources/2020-01-31/">상세내용</a>
+                      <a class="dropdown-item" href="http://dj.kbs.co.kr/resources/2020-02-03/">상세내용</a>
                     </div>
                   </div>
                 </div>
                 <!-- Card Body -->
                 <div class="card-body">
-                  <iframe src="https://dj.kbs.co.kr/resources/2020-01-31/" width="100%" height="600rem"></iframe>
-                  <div class="table-responsive">
-                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
-                      <thead>
-                        <tr>
-                          <th>순서</th>
-                          <th>신원</th>
-                          <th>입국일자, 확진일자</th>
-                          <th>감염차수</th>
-                          <th>접촉자(명)</th>
-                          <th>이동 경로</th>
-                          <th>치료 장소</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-
-                      </tbody>
-                    </table>
-                  </div>
+                  <iframe src="http://dj.kbs.co.kr/resources/2020-02-03/" width="100%" height="600rem"></iframe>
                 </div>
               </div>
             </div>
@@ -666,10 +641,6 @@
                 </div>
                 <!-- Card Body -->
                 <div class="card-body">
-                  <!-- <img src="http://news.kbs.co.kr/disaster/3/2020/01/roD34tp304c7j.gif" alt="KBS gif파일"> -->
-                  <!-- <iframe src="http://news.kbs.co.kr/common/main.html#disaster_step_3" width="100%" height="500vw"></iframe> -->
-                  <p>크롤링을 해오는 것보다 <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a> 게시판을 그대로
-                    보여드리는 것이 신뢰도가 높을 것 같아 게시판을 가지고 왔습니다.</p>
                   <iframe src="https://mn.kbs.co.kr/mobile/disaster.html" width="100%" height="2000vw"></iframe>
                 </div>
               </div>
@@ -679,7 +650,7 @@
               <div class="card shadow mb-12">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-danger">공지사항</h6>
+                  <h6 class="m-0 font-weight-bold text-danger">알림</h6>
                   <div class="dropdown no-arrow">
                     <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
                       aria-haspopup="true" aria-expanded="false">
@@ -688,7 +659,7 @@
                     <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
                       aria-labelledby="dropdownMenuLink">
                       <div class="dropdown-header">상세</div>
-                      <a class="dropdown-item" href="#">상세내용</a>
+                      <a class="dropdown-item" href="https://mn.kbs.co.kr/mobile/disaster.html">상세내용</a>
                     </div>
                   </div>
                 </div>
@@ -710,9 +681,18 @@
                     <a target="_blank" href="https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9">업데이트 히스토리</a>
                   </p>
                 </div>
+                <ul class="list-group">
+                  <li class="list-group-item">* <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>,
+                    <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a>, 제주도청의 DATA 근거, 일일 업데이트
+                    <a href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm ml-4"><i class="fas fa-download fa-sm text-white-50"></i> 리포트 바로가기</a>
+                  </li>
+                  <li class="list-group-item">* GDG(google developers group) 등 자발적으로 참여해주신 분들께서 팀을 꾸려 비용을 받지 않고 업데이트 중에 있습니다. <a
+                    target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">링크&#8690;</a></li>
+                  <li class="list-group-item">* <a href="https://www.ncloud.com" target="_blank">네이버 클라우드 플랫폼</a>에서 서버 및 지도 API 를 무상
+                    지원합니다.</li>
+                </ul>
               </div>
             </div>
-
           </div>
 
         </div>
@@ -723,6 +703,7 @@
       <br>
 
       <!-- Footer -->
+
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
