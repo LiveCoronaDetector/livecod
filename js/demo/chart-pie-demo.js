@@ -18,7 +18,9 @@ marker.sort(function (a, b) {
 for (var i = 0; i < 5; i++) {
   var percentage = marker[i].확진자수 / 모든확진자수 * 100;
   topText[i].innerHTML = String(i+1) + '. ' +
-  marker[i].Name +  ' : ' + Number(marker[i].확진자수).toLocaleString() +
+  marker[i].Name +
+  ' : ' +
+  Number(marker[i].확진자수).toLocaleString() +
   "<span class='float-right'>" +
   Math.round(percentage * 100) / 100 +
   "%</span>";
