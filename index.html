@@ -1192,6 +1192,7 @@
     // 전세계 완치자 및 확진자 수 (marker2에서 불러옴)
     완치자수 = marker2.data3[marker2.data3.length - 1];
     확진자수 = marker2.data[marker2.data.length - 1];
+    사망자수 = marker2.data2[marker2.data2.length - 1];
 
     // 전 세계 완치자 ui 반영
     document.getElementById("세계완치자_인원").innerHTML = Number(완치자수).toLocaleString();
