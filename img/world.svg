@@ -2,43 +2,44 @@
 <svg viewBox="0 0 1009 650" xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 	<defs>
 		<style type="text/css">
-			.land{
-				position:relative;
-				fill: #CCCCCC;
-				fill-opacity: 1;
-				stroke:black;
-				stroke-opacity: 1;
-				stroke-width:0.5;
-			}
-			.highrisk{
-				fill: #ff0000;
-			}
-			.highrisk:hover{
-				fill: #ff3d3d;
-				stroke-opacity: 1;
-				stroke-width:1.5;
-			}
+         .land{
+            position:relative;
+            fill: #CCCCCC;
+            fill-opacity: 1;
+            stroke:black;
+            stroke-opacity: 1;
+            stroke-width:0.5;
+         }
+         .highrisk{
+            fill: #ff0000;
+         }
+         .highrisk:hover{
+            fill: #ff0000;
+			opacity:0.9;
+            stroke-opacity: 0.9;
+            stroke-width:1.5;
+         }
 
-			.middlerisk{
-				fill: #b90000;
-			}
-			.middlerisk:hover{
-				fill: #b84d4d;
-				stroke-opacity: 1;
-				stroke-width:1.5;
-			}
+         .middlerisk{
+            fill: #DD3333;
+         }
+         .middlerisk:hover{
+            fill: #DD3333;
+            opacity:0.9;
+			stroke-opacity: 0.9;
+            stroke-width:1.5;
+         }
 
-			.lowrisk{
-				fill: #640000;
-			}
-			.lowrisk:hover{
-				fill: #592121;
-				stroke-opacity: 1;
-				stroke-width:1.5;
-			}
-			
-			
-		</style>
+         .lowrisk{
+            fill: #CC9999;
+         }
+         .lowrisk:hover{
+            fill: #CC9999;
+			opacity:0.9;
+            stroke-opacity: 0.9;
+            stroke-width:1.5;
+         }  
+      </style>
 
 		<amcharts:ammap projection="mercator" leftLongitude="-169.6" topLatitude="83.68" rightLongitude="190.25" bottomLatitude="-55.55"></amcharts:ammap>
 
