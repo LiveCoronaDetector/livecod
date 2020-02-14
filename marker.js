@@ -347,6 +347,6 @@ var _marker = JSON.parse(JSON.stringify(marker));
 
 // 업데이트 일시 데이터
 var updateLog = {
-  date: "2/13",
-  time: "10:21"
+  date: "2/14",
+  time: "10:30"
 };
