@@ -274,7 +274,7 @@ var marker = [
         "Name_ch": "韩国",
         "lat": 37.5456299,
         "lng": 126.9540667,
-        "확진자수": 47,
+        "확진자수": 51,
         "사망자수": 0,
         "완치자수": 12,
         "검사진행": 1030,
@@ -365,5 +365,5 @@ var _marker = JSON.parse(JSON.stringify(marker));
 // 업데이트 일시 데이터
 var updateLog = {
   date: "2/19",
-  time: "10:00"
+  time: "17:18"
 };
