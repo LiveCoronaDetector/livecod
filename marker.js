@@ -259,6 +259,7 @@ var marker = [
         "확진자수": 73,
         "사망자수": 1,
         "완치자수": 18
+    },{
         "Name": "일본크루즈",
         "Name_en": "Japan Cruise ship",
         "Name_ch": "日本 邮轮",
