@@ -168,7 +168,7 @@
               <div class="card border-left-warning shadow h-100 py-2">
                 <div class="card-body">
                   <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">확진자 현황</div>
-                  <h4 class="small font-weight-bold">한국(확진자 <span id="한국확진자"></span>명/사망자 2명)<span
+                  <h4 class="small font-weight-bold">한국(확진자 <span id="한국확진자"></span>명/사망자 <span id="한국사망자"></span>명)<span
                       class="float-right">99.03%</span></h4>
                   <div class="progress mb-4">
                     <div class="progress-bar bg-warning" role="progressbar" style="width: 100%" aria-valuenow="100"
@@ -1250,6 +1250,7 @@
     for (var variable in data) {
       if (data[variable]["Name"] == "한국") {
         document.getElementById("한국확진자").innerHTML = data[variable]["확진자수"];
+        document.getElementById("한국사망자").innerHTML = data[variable]["사망자수"];
         document.getElementById("한국확진자_완치자카드").innerHTML = data[variable]["확진자수"];
         document.getElementById("한국완치자_인원").innerHTML = data[variable]["완치자수"];
         var 완치자확율값 = ((data[variable]["완치자수"] / data[variable]["확진자수"]) * 100).toFixed(2)
