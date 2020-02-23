@@ -96,6 +96,10 @@
     /* 텍스트 숨기기 */
     .ir-txt{display:block;overflow:hidden;text-indent:-9999px;font-size:1px}
 
+    /* 현황 높이 맞춤 */
+    .status-now .card-body{
+      padding:2.4rem 0 2.25rem;
+    }
   </style>
 
 </head>
@@ -125,88 +129,102 @@
 
           <!-- Content Row -->
           <div class="row">
-
-            <!-- 확진환자 -->
-            <div class="col-xl-3 col-md-6 mb-4">
-              <div class="card border-left-warning shadow h-100 py-2">
-                <div class="card-body">
-                  <div class="row no-gutters align-items-center">
-                    <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">확진환자</div>
-                      <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="확진자수"></span> 명</div>
-                      <br>
-                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">발생국가</div>
-                      <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="발생국가수"></span> 개국</div>
-                    </div>
-                    <div class="col-auto">
-                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+            <!-- 현황 -->
+            <div class="col-xl-4 col-lg-7 status-now">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">현황</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                      aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
+                      aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item"
+                        href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
                     </div>
                   </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <h2 align="center">국내확진자 <span id="한국확진자"></span>명</h2>
+                  <h2 align="center">세계확진자 <span id="확진자수"></span> 명</h2>
                 </div>
               </div>
             </div>
 
-            <!-- 사망자 -->
-            <div class="col-xl-3 col-md-6 mb-4">
-              <div class="card border-left-danger shadow h-100 py-2">
-                <div class="card-body">
-                  <div class="row no-gutters align-items-center">
-                    <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-danger text-uppercase mb-1">사망자</div>
-                      <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="사망자수"></span> 명</div>
-                    </div>
-                    <div class="col-auto">
-                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+
+            <!-- 상세현황 -->
+            <div class="col-xl-4 col-lg-7">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">상세현황</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                      aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
+                      aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item"
+                        href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-
-            <!-- Earnings (Monthly) Card Example -->
-            <div class="col-xl-3 col-md-6 mb-4">
-              <div class="card border-left-warning shadow h-100 py-2">
+                <!-- Card Body -->
                 <div class="card-body">
-                  <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">확진자 현황</div>
-                  <h4 class="small font-weight-bold">한국(확진자 <span id="한국확진자"></span>명/사망자 <span id="한국사망자"></span>명)<span
-                      class="float-right">99.03%</span></h4>
+                  <h4 class="small font-weight-bold">국내현황<span class="float-right">(
+                    확진자 <span class="koreanText" style="color:#f6c23e"></span>명 /
+                    완치자 <span class="koreanText" style="color:#1cc88a"></span>명 /
+                    사망자 <span class="koreanText" style="color:#e74a3b"></span>명
+                    )</span></h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-warning" role="progressbar" style="width: 100%" aria-valuenow="100"
-                      aria-valuemin="0" aria-valuemax="100"></div>
-                    <div class="progress-bar bg-danger" role="progressbar" style="width: 1%" aria-valuenow="100"
-                      aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning koreanChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-success koreanChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger koreanChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
                   </div>
-                  <h4 class="small font-weight-bold">제주(확진자 2명/사망자 0명)<span class="float-right">0.57%</span></h4>
+                  <h4 class="small font-weight-bold">세계현황<span class="float-right">(
+                    확진자 <span class="worldText" style="color:#f6c23e"></span>명 /
+                    완치자 <span class="worldText" style="color:#1cc88a"></span>명 /
+                    사망자 <span class="worldText" style="color:#e74a3b"></span>명
+                    )</span></h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-warning" role="progressbar" style="width: 1%" aria-valuenow="0"
-                      aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning worldChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-success worldChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger worldChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
                   </div>
                 </div>
               </div>
             </div>
 
-            <!-- Pending Requests Card Example -->
-            <div class="col-xl-3 col-md-6 mb-4">
-              <div class="card border-left-success shadow h-100 py-2">
-                <div class="card-body">
-                  <div class="row no-gutters align-items-center">
-                    <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-success text-uppercase mb-1">완치자 현황</div>
-                      <!-- 완치자(세계 완치자도 포함) -->
-                      <h4 class="small font-weight-bold">한국(완치자 <span id="한국완치자_인원"></span>명/확진자 <span
-                          id="한국확진자_완치자카드"></span>명)<span class="float-right"><span id="한국완치자_확률"></span>%</span></h4>
-                      <div class="progress mb-4">
-                        <div class="progress-bar bg-success" id="완치자확률바" role="progressbar" style="width: 0%"
-                          aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <h4 class="small font-weight-bold">전세계(완치자 <span id="세계완치자_인원"></span>명/확진자 <span
-                        id="세계확진자_인원"></span>명)<span class="float-right"><span id="세계완치자_확률"></span>%</span></h4>
-                      <div class="progress mb-4">
-                        <div class="progress-bar bg-success" id="세계완치자확률바" role="progressbar" style="width: 0%"
-                          aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
+            <!--제주현황-->
+            <div class="col-xl-4 col-lg-7 status-now">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">제주 현황</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                      aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
+                      aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item"
+                        href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
                     </div>
                   </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <h2 align="center">확진자 <span id="제주확진자"></span>명</h2>
+                  <h2 align="center">사망자 <span id="제주사망자"></span>명</h2>
                 </div>
               </div>
             </div>
@@ -1250,31 +1268,63 @@
     for (var variable in data) {
       if (data[variable]["Name"] == "한국") {
         document.getElementById("한국확진자").innerHTML = data[variable]["확진자수"];
-        document.getElementById("한국사망자").innerHTML = data[variable]["사망자수"];
-        document.getElementById("한국확진자_완치자카드").innerHTML = data[variable]["확진자수"];
-        document.getElementById("한국완치자_인원").innerHTML = data[variable]["완치자수"];
-        var 완치자확율값 = ((data[variable]["완치자수"] / data[variable]["확진자수"]) * 100).toFixed(2)
-        document.getElementById("한국완치자_확률").innerHTML = 완치자확율값;
-        document.getElementById("완치자확률바").style.width = 완치자확율값 + "%";
-        break;
+      }
+      if (data[variable]["Name"] == "제주") {
+        document.getElementById("제주확진자").innerHTML = data[variable]["확진자수"];
+        document.getElementById("제주사망자").innerHTML = data[variable]["사망자수"];
       }
     }
+    
 
     // 전세계 완치자 및 확진자 수 (marker2에서 불러옴)
     완치자수 = marker2.data3[marker2.data3.length - 1];
     확진자수 = marker2.data[marker2.data.length - 1];
     사망자수 = marker2.data2[marker2.data2.length - 1];
-
+    
+    
     // 전 세계 완치자 ui 반영
-    document.getElementById("세계완치자_인원").innerHTML = Number(완치자수).toLocaleString();
-    document.getElementById("세계확진자_인원").innerHTML = Number(확진자수).toLocaleString();
-    var 세계완치자확율값 = ((Number(완치자수) / Number(확진자수)) * 100).toFixed(2);
-    document.getElementById("세계완치자_확률").innerHTML = 세계완치자확율값;
-    document.getElementById("세계완치자확률바").style.width = 세계완치자확율값 + "%";
-
-    document.getElementById("발생국가수").innerHTML = data.length-1;
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
-    document.getElementById("사망자수").innerHTML = Number(사망자수).toLocaleString();
+    
+    
+    
+  </script>
+
+<script>
+  // 국내, 세계 상세현황 그래프 관련 스크립트
+  var korea = marker.find(function(i){
+    return i.Name == "한국";
+  });
+  var 모든확진자수 = marker.reduce(function (a, b) {
+    return a + (b.확진자수 || 0);
+  }, 0);
+  var 모든사망자수 = marker.reduce(function (a, b) {
+    return a + (b.사망자수 || 0);
+  }, 0);
+  var 모든완치자수 = marker.reduce(function (a, b) {
+    return a + (b.완치자수 || 0);
+  }, 0);
+  var koreanText = document.getElementsByClassName("koreanText");
+  var worldText = document.getElementsByClassName("worldText");
+  var koreanChart = document.getElementsByClassName("koreanChart");
+  var worldChart = document.getElementsByClassName("worldChart");
+  koreanText[0].innerText = korea.확진자수.toLocaleString();
+  koreanText[1].innerText = korea.완치자수.toLocaleString();
+  koreanText[2].innerText = korea.사망자수.toLocaleString();
+  koreanChart[0].style.width = (korea.확진자수 - korea.사망자수 - korea.완치자수) / korea.확진자수 * 100 + "%";
+  koreanChart[1].style.width = korea.완치자수 / korea.확진자수 * 100 + "%";
+  koreanChart[2].style.width = korea.사망자수 / korea.확진자수 * 100 + "%";
+  koreanChart[0].title = "확진자 " + korea.확진자수.toLocaleString() + "명";
+  koreanChart[1].title = "완치자 " + korea.완치자수.toLocaleString() + "명";
+  koreanChart[2].title = "사망자 " + korea.사망자수.toLocaleString() + "명";
+  worldText[0].innerText = 모든확진자수.toLocaleString();
+  worldText[1].innerText = 모든완치자수.toLocaleString();
+  worldText[2].innerText = 모든사망자수.toLocaleString();
+  worldChart[0].style.width = (모든확진자수 - 모든사망자수 - 모든완치자수) / 모든확진자수 * 100 + "%";
+  worldChart[1].style.width = 모든완치자수 / 모든확진자수 * 100 + "%";
+  worldChart[2].style.width = 모든사망자수 / 모든확진자수 * 100 + "%";
+  worldChart[0].title = "확진자 " + 모든확진자수.toLocaleString() + "명";
+  worldChart[1].title = "완치자 " + 모든완치자수.toLocaleString() + "명";
+  worldChart[2].title = "사망자 " + 모든사망자수.toLocaleString() + "명";
   </script>
 
   <!-- 확진자 관련 table push 스크립트 : 확진자 이동경로 삭제에 따른 비활성화, 추후 다른 Table에 사용될 수도 있어 삭제하지 않음. -->
