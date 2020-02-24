@@ -346,7 +346,7 @@
               <div class="card shadow mb-12 height-2">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-danger">국가별 발병 세계 지도 (클릭시 상세정보)</h6>
+                  <h6 class="m-0 font-weight-bold text-danger">국내 발병 지도</h6>
                   <div class="dropdown no-arrow">
                     <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
                       aria-haspopup="true" aria-expanded="false">
@@ -361,7 +361,7 @@
                   </div>
                 </div>
                 <!-- Card Body -->
-                <div class="card-body world-map">
+                <div class="card-body">
                   <div id="koreaMap" style="width:100%;height:40rem;"></div>
                 </div>
               </div>
@@ -1397,7 +1397,7 @@
       var point = new naver.maps.LatLng(lat, lng);
       var contentString = [
           '<div class="iw_inner">',
-          '    <p style="font-size: small">국가이름 : ',countryName,'<br>',
+          '<p style="font-size: small">국가이름 : ',countryName,'<br>',
           '확진자수 : ',confirmed,'<br>',
           '사망자수 :',death,'<br>',
           '</p>',
@@ -1406,12 +1406,12 @@
       var infowindow = new naver.maps.InfoWindow({
           content: contentString,
           maxWidth: 140,
-          backgroundColor: "#eee",
+          backgroundColor: "#ffffff",
           borderColor: "#ffffff",
           borderWidth: 3,
           anchorSize: new naver.maps.Size(30, 30),
           anchorSkew: true,
-          anchorColor: "#eee",
+          anchorColor: "#ffffff",
           pixelOffset: new naver.maps.Point(20, -20)
       });
       var marker = new naver.maps.Marker({
