@@ -1,7 +1,7 @@
-var position = new naver.maps.LatLng(33.382763, 126.522372);
-var map = new naver.maps.Map("map", {
+var position = new naver.maps.LatLng(36.158971,126.7969388);
+var map = new naver.maps.Map("koreaMap", {
   center: position,
-  zoom: 10
+  zoom: 7
 });
 var markers = [];
 var infowindows = [];
