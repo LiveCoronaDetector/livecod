@@ -1385,8 +1385,13 @@
   <script src="js/demo/datatables-demo.js"></script>
 
   <!-- koreaMap -->
-  <script type="js/koreaMap.js">
+  <script>
+  var mapOptions = {
+      center: new naver.maps.LatLng(37.3595704, 127.105399),
+      zoom: 7
+  };
 
+  var koreaMap = new naver.maps.Map('koreaMap', mapOptions);
   </script>
 
 
