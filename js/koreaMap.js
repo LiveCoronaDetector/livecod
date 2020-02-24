@@ -1,46 +1,6 @@
-var position = new naver.maps.LatLng(36.158971,126.7969388);
-var map = new naver.maps.Map("koreaMap", {
-  center: position,
-  zoom: 7
-});
-var markers = [];
-var infowindows = [];
+var koreamapOptions = {
+    center: new naver.maps.LatLng(36.158971, 126.7969388),
+    zoom: 7
+};
 
-for (jejuMedicalCenter of 제주지역선별진료소) {
-  var lat = jejuMedicalCenter.lat;
-  var lng = jejuMedicalCenter.lng;
-  var name = jejuMedicalCenter["이름"];
-  var address = jejuMedicalCenter["주소"];
-  var phone = jejuMedicalCenter["전화번호"];
-
-  var markerOptions = {
-    position: {
-      lat: lat,
-      lng: lng
-    },
-    map: map
-  };
-
-  var marker = new naver.maps.Marker(markerOptions);
-  var infowindow = new naver.maps.InfoWindow({
-    content:
-      "<div style='padding:3px;'>이름 : " +
-      name +
-      "<br>주소 : " +
-      address +
-      "<br>전화번호 : " +
-      phone +
-      "</div>"
-  });
-
-  markers.push(marker);
-  infowindows.push(infowindow);
-}
-
-naver.maps.Event.addListener(markers[0], "click", function(e) {
-  if (infowindows[0].getMap()) {
-    infowindows[0].close();
-  } else {
-    infowindows[0].open(map, markers[0]);
-  }
-});
+var koreamap = new naver.maps.Map('koreaMap', koreamapOptions);
