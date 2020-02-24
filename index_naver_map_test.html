@@ -1392,6 +1392,50 @@
   };
 
   var map = new naver.maps.Map('koreaMap', mapOptions);
+
+  function makePoint(lat, lng, countryName, confirmed, death) {
+      var point = new naver.maps.LatLng(lat, lng);
+      var contentString = [
+          '<div class="iw_inner">',
+          '    <p style="font-size: small">국가이름 : ',countryName,'<br>',
+          '확진자수 : ',confirmed,'<br>',
+          '사망자수 :',death,'<br>',
+          '</p>',
+          '</div>'
+      ].join('');
+      var infowindow = new naver.maps.InfoWindow({
+          content: contentString,
+          maxWidth: 140,
+          backgroundColor: "#eee",
+          borderColor: "#ffffff",
+          borderWidth: 3,
+          anchorSize: new naver.maps.Size(30, 30),
+          anchorSkew: true,
+          anchorColor: "#eee",
+          pixelOffset: new naver.maps.Point(20, -20)
+      });
+      var marker = new naver.maps.Marker({
+          map:map, position:point
+      });
+      var circle = new naver.maps.Circle({
+          map: map,
+          center: point,
+          radius: confirmed*1000,
+          strokeWeight: 3,
+          fillColor: "#ff0000",
+          fillOpacity: 0.7
+      });
+      naver.maps.Event.addListener(marker, "click", function(e) {
+          if (infowindow.getMap()) {
+              infowindow.close();
+          } else {
+              infowindow.open(map, marker);
+          }
+      });
+      infowindow.open(map, marker);
+  }//국가별 감염자 마커
+
+  makePoint(37.5456299, 126.9540667, '대한민국', 15, 0);//테스트용
   </script>
 
 
