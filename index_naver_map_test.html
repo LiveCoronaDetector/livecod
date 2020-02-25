@@ -1393,13 +1393,19 @@
 
   var map = new naver.maps.Map('koreaMap', mapOptions);
 
-  function makePoint(lat, lng, countryName, confirmed, death) {
-      var point = new naver.maps.LatLng(lat, lng);
+  지역이름 = ['서울', '대구']
+  지역좌표 = [[37.5456299, 126.9540667],
+             [35.8797296, 128.4964883]]
+  지역별확진자 = [300, 600]
+  지역별사망자 = [1, 0]
+  for(let i in 지역이름) {
+
+      var point = new naver.maps.LatLng(지역좌표[i][0], 지역좌표[i][1]);
       var contentString = [
           '<div class="iw_inner">',
-          '<p style="font-size: small; margin:10px;">지역이름 : ',countryName,'<br>',
-          '확진자수 : ',confirmed,'<br>',
-          '사망자수 :',death,'<br>',
+          '<p style="font-size: small; margin:10px;">지역이름 : ',지역이름[i],'<br>',
+          '확진자수 : ',지역별확진자[i],'<br>',
+          '사망자수 :',지역별사망자[i],'<br>',
           '</p>',
           '</div>'
       ].join('');
@@ -1435,8 +1441,6 @@
       infowindow.open(map, marker);
   }//국가별 감염자 마커
 
-  makePoint(37.5456299, 126.9540667, '서울', 300, 0);//테스트용
-  makePoint(35.8797296, 128.4964883, '대구', 600, 0);//테스트용
   </script>
 
 
