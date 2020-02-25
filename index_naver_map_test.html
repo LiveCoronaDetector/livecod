@@ -1395,7 +1395,7 @@
       }
   };
 
-  var map = new naver.maps.Map('koreaMap', mapOptions);
+  var koreamap = new naver.maps.Map('koreaMap', mapOptions);
 
   var 지역이름 = ['서울', '인천', '경기', '세종', '대전', '충남', '전북', '광주', '전남', '강원', '충북', '경북', '대구', '경남', '울산', '부산', '제주'];
   var 지역좌표 = [
@@ -1452,10 +1452,11 @@
           '</div>'
       ].join('');
       var marker = new naver.maps.Marker({
-          map:map, position:point
+          map: koreamap,
+          position: point
       });
       var circle = new naver.maps.Circle({
-          map: map,
+          map: koreamap,
           center: point,
           radius: 지역별확진자[i]*100,
           strokeWeight: 3,
@@ -1477,11 +1478,14 @@
       지역별정보윈도우.push(infowindow);
   }//국가별 감염자 마커
 
+  console.log(지역별마커);
+  console.log(지역별정보윈도우);
+
   naver.maps.Event.addListener(지역별마커[0], "click", function(e) {
     if (지역별정보윈도우[0].getMap()) {
       지역별정보윈도우[0].close();
     } else {
-      지역별정보윈도우[0].open(map, markers[0]);
+      지역별정보윈도우[0].open(koreamap, markers[0]);
     }
   });
 
@@ -1489,7 +1493,7 @@
     if (지역별정보윈도우[1].getMap()) {
       지역별정보윈도우[1].close();
     } else {
-      지역별정보윈도우[1].open(map, markers[1]);
+      지역별정보윈도우[1].open(koreamap, markers[1]);
     }
   });
 
@@ -1497,7 +1501,7 @@
     if (지역별정보윈도우[2].getMap()) {
       지역별정보윈도우[2].close();
     } else {
-      지역별정보윈도우[2].open(map, markers[2]);
+      지역별정보윈도우[2].open(koreamap, markers[2]);
     }
   });
 
@@ -1505,7 +1509,7 @@
     if (지역별정보윈도우[3].getMap()) {
       지역별정보윈도우[3].close();
     } else {
-      지역별정보윈도우[3].open(map, markers[2]);
+      지역별정보윈도우[3].open(koreamap, markers[2]);
     }
   });
 
