@@ -6,7 +6,7 @@ var map = new naver.maps.Map("map", {
 var markers = [];
 var infowindows = [];
 
-for (let jejuMedicalCenter of 제주지역선별진료소) {
+for (jejuMedicalCenter of 제주지역선별진료소) {
   var lat = jejuMedicalCenter.lat;
   var lng = jejuMedicalCenter.lng;
   var name = jejuMedicalCenter["이름"];
@@ -36,16 +36,68 @@ for (let jejuMedicalCenter of 제주지역선별진료소) {
   markers.push(marker);
   infowindows.push(infowindow);
 }
+// for (var i = 0; i < 제주지역선별진료소.length; i++) {
+//   console.log(infowindows[i]);
+//   naver.maps.Event.addListener(markers[i], "click", function (e) {
+//     if (infowindows[i].getMap()) {
+//       infowindows[i].close();
+//     } else {
+//       infowindows[i].open(map, markers[i]);
+//     }
+//   });
+// }
+naver.maps.Event.addListener(markers[0], "click", function(e) {
+  if (infowindows[0].getMap()) {
+    infowindows[0].close();
+  } else {
+    infowindows[0].open(map, markers[0]);
+  }
+});
 
-console.log(markers);
-console.log(infowindows);
+naver.maps.Event.addListener(markers[1], "click", function(e) {
+  if (infowindows[1].getMap()) {
+    infowindows[1].close();
+  } else {
+    infowindows[1].open(map, markers[1]);
+  }
+});
 
-for (var info_index in infowindows) {
-  naver.maps.Event.addListener(markers[info_index], "click", function(e) {
-    if (infowindows[info_index].getMap()) {
-      infowindows[info_index].close();
-    } else {
-      infowindows[info_index].open(map, markers[info_index]);
-    }
-  });
-}
+naver.maps.Event.addListener(markers[2], "click", function(e) {
+  if (infowindows[2].getMap()) {
+    infowindows[2].close();
+  } else {
+    infowindows[2].open(map, markers[2]);
+  }
+});
+
+naver.maps.Event.addListener(markers[3], "click", function(e) {
+  if (infowindows[3].getMap()) {
+    infowindows[3].close();
+  } else {
+    infowindows[3].open(map, markers[3]);
+  }
+});
+
+naver.maps.Event.addListener(markers[4], "click", function(e) {
+  if (infowindows[4].getMap()) {
+    infowindows[4].close();
+  } else {
+    infowindows[4].open(map, markers[4]);
+  }
+});
+
+naver.maps.Event.addListener(markers[5], "click", function(e) {
+  if (infowindows[5].getMap()) {
+    infowindows[5].close();
+  } else {
+    infowindows[5].open(map, markers[5]);
+  }
+});
+
+naver.maps.Event.addListener(markers[6], "click", function(e) {
+  if (infowindows[6].getMap()) {
+    infowindows[6].close();
+  } else {
+    infowindows[6].open(map, markers[6]);
+  }
+});
