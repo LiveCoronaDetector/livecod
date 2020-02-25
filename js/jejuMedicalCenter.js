@@ -40,7 +40,7 @@ for (let jejuMedicalCenter of 제주지역선별진료소) {
 console.log(markers);
 console.log(infowindows);
 
-for (var info_index in infowindow) {
+for (var info_index in infowindows) {
   naver.maps.Event.addListener(markers[info_index], "click", function(e) {
     if (infowindows[info_index].getMap()) {
       infowindows[info_index].close();
