@@ -1314,7 +1314,7 @@
   var 모든완치자수 = marker.reduce(function (a, b) {
     return a + (b.완치자수 || 0);
   }, 0);
-  var 제주제외모든완치자수;
+  var 제주제외모든확진자수;
   var koreanText = document.getElementsByClassName("koreanText");
   var worldText = document.getElementsByClassName("worldText");
   var koreanChart = document.getElementsByClassName("koreanChart");
@@ -1328,8 +1328,8 @@
   koreanChart[0].title = "확진자 " + korea.확진자수.toLocaleString() + "명";
   koreanChart[1].title = "완치자 " + korea.완치자수.toLocaleString() + "명";
   koreanChart[2].title = "사망자 " + korea.사망자수.toLocaleString() + "명";
-  제주제외모든완치자수 = 모든완치자수 - jeju.완치자수;
-  worldText[0].innerText = 제주제외모든완치자수.toLocalString();
+  제주제외모든확진자수 = 모든확진자수 - jeju.확진자수;
+  worldText[0].innerText = 제주제외모든확진자수.toLocalString();
   worldText[1].innerText = 모든완치자수.toLocaleString();
   worldText[2].innerText = 모든사망자수.toLocaleString();
   worldChart[0].style.width = (모든확진자수 - 모든사망자수 - 모든완치자수) / 모든확진자수 * 100 + "%";
