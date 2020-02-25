@@ -327,7 +327,7 @@ var marker = [
     {
         "Name": "이라크",
         "Name_en": "Iraq",
-        "Name_ch": "濟州",
+        "Name_ch": "伊拉克",
         "lat": 33.294967,
         "lng": 44.364783,
         "확진자수": 1,
@@ -467,5 +467,5 @@ var _marker = JSON.parse(JSON.stringify(marker));
 // 업데이트 일시 데이터
 var updateLog = {
   date: "2/25",
-  time: "17:44"
+  time: "18:10"
 };
