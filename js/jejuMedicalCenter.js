@@ -37,13 +37,13 @@ for (jejuMedicalCenter of 제주지역선별진료소) {
   infowindows.push(infowindow);
 }
 
-for (let i in infowindow) {
-  console.log(infowindows[i]);
-  naver.maps.Event.addListener(markers[i], "click", function(e) {
-    if (infowindows[i].getMap()) {
-      infowindows[i].close();
+for (var info_index in infowindow) {
+  console.log(infowindows[info_index]);
+  naver.maps.Event.addListener(markers[info_index], "click", function(e) {
+    if (infowindows[info_index].getMap()) {
+      infowindows[info_index].close();
     } else {
-      infowindows[i].open(map, markers[i]);
+      infowindows[info_index].open(map, markers[info_index]);
     }
   });
 }
