@@ -1399,6 +1399,10 @@
   지역별확진자 = [300, 600]
   지역별사망자 = [1, 0]
   for(let i in 지역이름) {
+      console.log(i)
+      console.log(지역좌표[i][0], 지역좌표[i][1])
+      console.log(지역이름[i], 지역별확진자[i], 지역별사망자[i])
+
 
       var point = new naver.maps.LatLng(지역좌표[i][0], 지역좌표[i][1]);
       var contentString = [
