@@ -1388,7 +1388,11 @@
   <script>
   var mapOptions = {
       center: new naver.maps.LatLng(35.8255645, 127.0965806),
-      zoom: 7
+      zoom: 7,
+      zoomControl: true, //줌 컨트롤의 표시 여부
+      zoomControlOptions: { //줌 컨트롤의 옵션
+                position: naver.maps.Position.TOP_RIGHT
+      }
   };
 
   var map = new naver.maps.Map('koreaMap', mapOptions);
@@ -1432,11 +1436,12 @@
     43, //부산
     2, //제주
   ];
+  var 지역별마커 = [];
+  var 지역별정보윈도우 = [];
   for(let i in 지역이름) {
       console.log(i);
       console.log(지역좌표[i][0], 지역좌표[i][1]);
       console.log(지역이름[i], 지역별확진자[i]);
-
 
       var point = new naver.maps.LatLng(지역좌표[i][0], 지역좌표[i][1]);
       var contentString = [
@@ -1446,17 +1451,6 @@
           '</p>',
           '</div>'
       ].join('');
-      var infowindow = new naver.maps.InfoWindow({
-          content: contentString,
-          maxWidth: 140,
-          backgroundColor: "#ffffff",
-          borderColor: "#000",
-          borderWidth: 1,
-          anchorSize: new naver.maps.Size(50, 30),
-          anchorSkew: true,
-          anchorColor: "#ffffff",
-          // pixelOffset: new naver.maps.Point(10, -10)
-      });
       var marker = new naver.maps.Marker({
           map:map, position:point
       });
@@ -1468,15 +1462,53 @@
           fillColor: "#ff0000",
           fillOpacity: 0.7
       });
+      var infowindow = new naver.maps.InfoWindow({
+          content: contentString,
+          maxWidth: 140,
+          backgroundColor: "#ffffff",
+          borderColor: "#000",
+          borderWidth: 1,
+          anchorSize: new naver.maps.Size(50, 30),
+          anchorSkew: true,
+          anchorColor: "#ffffff",
+          // pixelOffset: new naver.maps.Point(10, -10)
+      });
+      지역별마커.push(marker);
+      지역별정보윈도우.push(infowindow);
   }//국가별 감염자 마커
-  naver.maps.Event.addListener(marker, "click", function(e) {
-      if (infowindow.getMap()) {
-          infowindow.close();
-      } else {
-          infowindow.open(map, marker);
-      }
+
+  naver.maps.Event.addListener(지역별마커[0], "click", function(e) {
+    if (지역별정보윈도우[0].getMap()) {
+      지역별정보윈도우[0].close();
+    } else {
+      지역별정보윈도우[0].open(map, markers[0]);
+    }
   });
-  infowindow.open(map, marker);
+
+  naver.maps.Event.addListener(지역별마커[1], "click", function(e) {
+    if (지역별정보윈도우[1].getMap()) {
+      지역별정보윈도우[1].close();
+    } else {
+      지역별정보윈도우[1].open(map, markers[1]);
+    }
+  });
+
+  naver.maps.Event.addListener(지역별마커[2], "click", function(e) {
+    if (지역별정보윈도우[2].getMap()) {
+      지역별정보윈도우[2].close();
+    } else {
+      지역별정보윈도우[2].open(map, markers[2]);
+    }
+  });
+
+  naver.maps.Event.addListener(지역별마커[3], "click", function(e) {
+    if (지역별정보윈도우[3].getMap()) {
+      지역별정보윈도우[3].close();
+    } else {
+      지역별정보윈도우[3].open(map, markers[2]);
+    }
+  });
+
   </script>
 
 
