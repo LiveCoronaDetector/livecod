@@ -1393,11 +1393,14 @@
 
   var map = new naver.maps.Map('koreaMap', mapOptions);
 
-  지역이름 = ['서울', '대구']
-  지역좌표 = [[37.5456299, 126.9540667],
-             [35.8797296, 128.4964883]]
-  지역별확진자 = [300, 600]
-  지역별사망자 = [1, 0]
+  지역이름 = ['서울', '대구', '인천', '경기']
+  지역좌표 = [
+    [37.5456299, 126.9540667],
+    [35.8797296, 128.4964883],
+    [37.4647398, 126.5342672],
+    [37.5951951, 125.9748524],
+  ]
+  지역별확진자 = [40, 543, 2, 42]
   for(let i in 지역이름) {
       console.log(i)
       console.log(지역좌표[i][0], 지역좌표[i][1])
@@ -1409,7 +1412,6 @@
           '<div class="iw_inner">',
           '<p style="font-size: small; margin:10px;">지역이름 : ',지역이름[i],'<br>',
           '확진자수 : ',지역별확진자[i],'<br>',
-          '사망자수 :',지역별사망자[i],'<br>',
           '</p>',
           '</div>'
       ].join('');
@@ -1430,7 +1432,7 @@
       var circle = new naver.maps.Circle({
           map: map,
           center: point,
-          radius: confirmed*100,
+          radius: 지역별확진자[i]*100,
           strokeWeight: 3,
           fillColor: "#ff0000",
           fillOpacity: 0.7
