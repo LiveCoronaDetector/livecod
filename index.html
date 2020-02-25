@@ -1304,7 +1304,7 @@
   });
   var jeju = marker.find(function(i){
     return i.Name == "제주";
-  })
+  });
   var 모든확진자수 = marker.reduce(function (a, b) {
     return a + (b.확진자수 || 0);
   }, 0);
