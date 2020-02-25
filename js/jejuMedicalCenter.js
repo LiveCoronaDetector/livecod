@@ -6,7 +6,7 @@ var map = new naver.maps.Map("map", {
 var markers = [];
 var infowindows = [];
 
-for (jejuMedicalCenter of 제주지역선별진료소) {
+for (let jejuMedicalCenter of 제주지역선별진료소) {
   var lat = jejuMedicalCenter.lat;
   var lng = jejuMedicalCenter.lng;
   var name = jejuMedicalCenter["이름"];
@@ -37,8 +37,10 @@ for (jejuMedicalCenter of 제주지역선별진료소) {
   infowindows.push(infowindow);
 }
 
+console.log(markers);
+console.log(infowindows);
+
 for (var info_index in infowindow) {
-  console.log(infowindows[info_index]);
   naver.maps.Event.addListener(markers[info_index], "click", function(e) {
     if (infowindows[info_index].getMap()) {
       infowindows[info_index].close();
