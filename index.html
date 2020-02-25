@@ -378,7 +378,7 @@
               <div class="card shadow mb-12">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-danger">안전수칙 및 팩트체크</h6>
+                  <h6 class="m-0 font-weight-bold text-danger">안전수칙, 팩트체크 및 소상공인 지원사업</h6>
                   <div class="dropdown no-arrow">
                     <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
                       aria-haspopup="true" aria-expanded="false">
@@ -415,8 +415,12 @@
                     3. 일반기관 : 서귀포의료원, 중앙병원, 한마음병원, 한국병원, 서귀포열린병원
                   </p>
                   <a href="http://www.cdc.go.kr/contents.es?mid=a21111060000">질병관리본부 안전수칙</a><br>
-                  <a href="https://www.cdc.go.kr/linkCheck.es?mid=a21111050600">신종코로나바이러스 선별진료소</a><br>
-                  <a href="https://news.naver.com/main/factcheck/main.nhn">신종코로나바이러스 관련 팩트체크</a>
+                  <a href="https://www.cdc.go.kr/linkCheck.es?mid=a21111050600">신종코로나바이러스 선별진료소</a><br><br>
+
+                  <a class="btn btn-primary" style="width:100%;margin-bottom:1rem;"href="https://news.naver.com/main/factcheck/main.nhn" role="button">신종코로나바이러스 관련 팩트체크</a><br>
+                  <a class="btn btn-primary" style="width:100%"href="https://www.notion.so/381a1f09e420476c839cdbe543dbb3bb" role="button">소상공인 지원사업</a>
+
+
                 </div>
               </div>
             </div>
@@ -1278,19 +1282,19 @@
         document.getElementById("제주사망자").innerHTML = data[variable]["사망자수"];
       }
     }
-    
+
 
     // 전세계 완치자 및 확진자 수 (marker2에서 불러옴)
     완치자수 = marker2.data3[marker2.data3.length - 1];
     확진자수 = marker2.data[marker2.data.length - 1];
     사망자수 = marker2.data2[marker2.data2.length - 1];
-    
-    
+
+
     // 전 세계 완치자 ui 반영
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
-    
-    
-    
+
+
+
   </script>
 
 <script>
