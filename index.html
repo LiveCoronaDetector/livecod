@@ -339,11 +339,38 @@
             </div>
           </div>
 
-          <!-- 발병지도 Chart -->
+          <!-- 국내 확진자 누적 현황 Chart -->
           <div class="row">
 
-            <!-- Area Chart -->
-            <div class="col-xl-12 col-lg-12">
+            <!-- 국내 확진자 누적 현황 -->
+            <div class="col-xl-6 col-lg-6">
+              <div class="card shadow mb-12 height-2">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">국내 확진자 누적 현황(중앙방역대책본부, KBS)</h6>
+                  <div class="dropdown no-arrow">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                      aria-haspopup="true" aria-expanded="false">
+                      <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
+                      aria-labelledby="dropdownMenuLink">
+                      <div class="dropdown-header">상세</div>
+                      <a class="dropdown-item"
+                        href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do">상세내용</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div id="koreaMap" style="width:100%;height:40rem;"></div>
+                  <p>업데이트 : 2/26 09:00, 출처 : 중앙방역대책본부, KBS(특정 시점 지자체별 집계와 다를 수 있음)</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- 세계 발병지도 -->
+            <div class="col-xl-6 col-lg-6">
               <div class="card shadow mb-12 height-2">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
@@ -1303,6 +1330,9 @@
   var korea = marker.find(function(i){
     return i.Name == "한국";
   });
+  var jeju = marker.find(function(i){
+    return i.Name == "제주";
+  });
   var 모든확진자수 = marker.reduce(function (a, b) {
     return a + (b.확진자수 || 0);
   }, 0);
@@ -1312,6 +1342,7 @@
   var 모든완치자수 = marker.reduce(function (a, b) {
     return a + (b.완치자수 || 0);
   }, 0);
+  var 제주제외모든확진자수;
   var koreanText = document.getElementsByClassName("koreanText");
   var worldText = document.getElementsByClassName("worldText");
   var koreanChart = document.getElementsByClassName("koreanChart");
@@ -1325,13 +1356,14 @@
   koreanChart[0].title = "확진자 " + korea.확진자수.toLocaleString() + "명";
   koreanChart[1].title = "완치자 " + korea.완치자수.toLocaleString() + "명";
   koreanChart[2].title = "사망자 " + korea.사망자수.toLocaleString() + "명";
-  worldText[0].innerText = 모든확진자수.toLocaleString();
+  제주제외모든확진자수 = 모든확진자수 - jeju.확진자수;
+  worldText[0].innerText = 제주제외모든확진자수.toLocaleString();
   worldText[1].innerText = 모든완치자수.toLocaleString();
   worldText[2].innerText = 모든사망자수.toLocaleString();
-  worldChart[0].style.width = (모든확진자수 - 모든사망자수 - 모든완치자수) / 모든확진자수 * 100 + "%";
-  worldChart[1].style.width = 모든완치자수 / 모든확진자수 * 100 + "%";
-  worldChart[2].style.width = 모든사망자수 / 모든확진자수 * 100 + "%";
-  worldChart[0].title = "확진자 " + 모든확진자수.toLocaleString() + "명";
+  worldChart[0].style.width = (제주제외모든확진자수 - 모든사망자수 - 모든완치자수) / 제주제외모든확진자수 * 100 + "%";
+  worldChart[1].style.width = 모든완치자수 / 제주제외모든확진자수 * 100 + "%";
+  worldChart[2].style.width = 모든사망자수 / 제주제외모든확진자수 * 100 + "%";
+  worldChart[0].title = "확진자 " + 제주제외모든확진자수.toLocaleString() + "명";
   worldChart[1].title = "완치자 " + 모든완치자수.toLocaleString() + "명";
   worldChart[2].title = "사망자 " + 모든사망자수.toLocaleString() + "명";
   </script>
@@ -1366,6 +1398,9 @@
 
   <!-- 제주 진료소 관련 스크립트 -->
   <script src="js/jejuMedicalCenter.js"></script>
+
+  <!-- koreaMap -->
+  <script src="js/koreaMap.js"></script>
 
   <!-- 월드맵 관련 스크립트  -->
   <script src="js/worldmap.js"></script>

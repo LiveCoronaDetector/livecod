@@ -1,12 +1,16 @@
 var position = new naver.maps.LatLng(33.382763, 126.522372);
 var map = new naver.maps.Map("map", {
   center: position,
-  zoom: 10
+  zoom: 10,
+  zoomControl: true, //줌 컨트롤의 표시 여부
+  zoomControlOptions: { //줌 컨트롤의 옵션
+            position: naver.maps.Position.TOP_RIGHT
+  }
 });
 var markers = [];
 var infowindows = [];
 
-for (jejuMedicalCenter of 제주지역선별진료소) {
+for (var jejuMedicalCenter of 제주지역선별진료소) {
   var lat = jejuMedicalCenter.lat;
   var lng = jejuMedicalCenter.lng;
   var name = jejuMedicalCenter["이름"];

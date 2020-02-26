@@ -338,15 +338,15 @@
             </div>
           </div>
 
-          <!-- 발병지도 Chart -->
+          <!-- 국내 확진자 누적 현황 Chart -->
           <div class="row">
 
-            <!-- 국내 발병지도 -->
+            <!-- 국내 확진자 누적 현황 -->
             <div class="col-xl-6 col-lg-6">
               <div class="card shadow mb-12 height-2">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-danger">국내 발병 지도</h6>
+                  <h6 class="m-0 font-weight-bold text-danger">국내 확진자 누적 현황(중앙방역대책본부, KBS)</h6>
                   <div class="dropdown no-arrow">
                     <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
                       aria-haspopup="true" aria-expanded="false">
@@ -363,6 +363,8 @@
                 <!-- Card Body -->
                 <div class="card-body">
                   <div id="koreaMap" style="width:100%;height:40rem;"></div>
+                  <p>업데이트 : 2/25 16:00</p>
+                  <p>출처 : 중앙방역대책본부(특정 시점 지자체별 집계와 다를 수 있음)</p>
                 </div>
               </div>
             </div>
@@ -1385,59 +1387,7 @@
   <script src="js/demo/datatables-demo.js"></script>
 
   <!-- koreaMap -->
-  <script>
-  var mapOptions = {
-      center: new naver.maps.LatLng(35.8255645, 127.0965806),
-      zoom: 7
-  };
-
-  var map = new naver.maps.Map('koreaMap', mapOptions);
-
-  function makePoint(lat, lng, countryName, confirmed, death) {
-      var point = new naver.maps.LatLng(lat, lng);
-      var contentString = [
-          '<div class="iw_inner">',
-          '<p style="font-size: small; margin:10px;">국가이름 : ',countryName,'<br>',
-          '확진자수 : ',confirmed,'<br>',
-          '사망자수 :',death,'<br>',
-          '</p>',
-          '</div>'
-      ].join('');
-      var infowindow = new naver.maps.InfoWindow({
-          content: contentString,
-          maxWidth: 140,
-          backgroundColor: "#ffffff",
-          borderColor: "#000",
-          borderWidth: 1,
-          anchorSize: new naver.maps.Size(50, 30),
-          anchorSkew: true,
-          anchorColor: "#ffffff",
-          // pixelOffset: new naver.maps.Point(10, -10)
-      });
-      var marker = new naver.maps.Marker({
-          map:map, position:point
-      });
-      var circle = new naver.maps.Circle({
-          map: map,
-          center: point,
-          radius: confirmed*1000,
-          strokeWeight: 3,
-          fillColor: "#ff0000",
-          fillOpacity: 0.7
-      });
-      naver.maps.Event.addListener(marker, "click", function(e) {
-          if (infowindow.getMap()) {
-              infowindow.close();
-          } else {
-              infowindow.open(map, marker);
-          }
-      });
-      infowindow.open(map, marker);
-  }//국가별 감염자 마커
-
-  makePoint(37.5456299, 126.9540667, '대한민국', 15, 0);//테스트용
-  </script>
-
+  <script src="js/koreaMap.js"></script>
 
   <!-- 제주 진료소 관련 스크립트 -->
   <script src="js/jejuMedicalCenter.js"></script>
