@@ -32,9 +32,11 @@ for (var jejuMedicalCenter of 제주지역선별진료소) {
       name +
       "<br>주소 : " +
       address +
-      "<br>전화번호 : " +
+      "<br>전화번호 : <a href='tel:" +
       phone +
-      "</div>"
+      "'>" +
+      phone +
+      "</a></div>"
   });
 
   markers.push(marker);
