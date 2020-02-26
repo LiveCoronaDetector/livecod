@@ -32,7 +32,7 @@ for (var jejuMedicalCenter of 제주지역선별진료소) {
   var marker = new naver.maps.Marker(markerOptions);
   var infowindow = new naver.maps.InfoWindow({
     content:
-      "<div style='padding:3px;'>이름 : " +
+      "<div style='font-size: small; margin:10px; padding:3px;'>이름 : " +
       name +
       "<br>주소 : " +
       address +
@@ -140,7 +140,7 @@ for (var jejuMedicalCenter of 제주지역보건소) {
   var marker = new naver.maps.Marker(markerOptions);
   var infowindow = new naver.maps.InfoWindow({
     content:
-      "<div style='padding:3px;'>이름 : " +
+      "<div style='font-size: small; margin:10px; padding:3px;'>이름 : " +
       name +
       "<br>주소 : " +
       address +
