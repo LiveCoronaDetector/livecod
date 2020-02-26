@@ -122,6 +122,8 @@ for (var jejuMedicalCenter of 제주지역보건소) {
   var address = jejuMedicalCenter["주소"];
   var phone = jejuMedicalCenter["전화번호"];
 
+  console.log('보건소', jejuMedicalCenter["이름"], jejuMedicalCenter.lat, jejuMedicalCenter.lng);
+
   var markerOptions = {
     position: {
       lat: lat,
