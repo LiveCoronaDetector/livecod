@@ -9,7 +9,11 @@ var map = new naver.maps.Map("map", {
 });
 var markers = [];
 var infowindows = [];
+var markers_보건소 = [];
+var infowindows_보건소 = [];
 
+
+//선별진료소 마킹
 for (var jejuMedicalCenter of 제주지역선별진료소) {
   var lat = jejuMedicalCenter.lat;
   var lng = jejuMedicalCenter.lng;
@@ -105,5 +109,104 @@ naver.maps.Event.addListener(markers[6], "click", function(e) {
     infowindows[6].close();
   } else {
     infowindows[6].open(map, markers[6]);
+  }
+});
+
+
+
+//보건소 마킹
+for (var jejuMedicalCenter of 제주지역보건소) {
+  var lat = jejuMedicalCenter.lat;
+  var lng = jejuMedicalCenter.lng;
+  var name = jejuMedicalCenter["이름"];
+  var address = jejuMedicalCenter["주소"];
+  var phone = jejuMedicalCenter["전화번호"];
+
+  var markerOptions = {
+    position: {
+      lat: lat,
+      lng: lng
+    },
+    map: map,
+    icon: {
+        content: '<img src="../img/pin_map.png" alt="" ' +
+                 'style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; max-width: none; max-height: none; ' +
+                 '-webkit-user-select: none; position: absolute; width: 22px; height: 35px; left: 0px; top: 0px;">',
+        size: new naver.maps.Size(22, 35),
+        anchor: new naver.maps.Point(11, 35)
+    }
+  };
+
+  var marker = new naver.maps.Marker(markerOptions);
+  var infowindow = new naver.maps.InfoWindow({
+    content:
+      "<div style='padding:3px;'>이름 : " +
+      name +
+      "<br>주소 : " +
+      address +
+      "<br>전화번호 : <a href='tel:" +
+      phone +
+      "'>" +
+      phone +
+      "</a></div>"
+  });
+
+  markers_보건소.push(marker);
+  infowindows_보건소.push(infowindow);
+}
+
+naver.maps.Event.addListener(markers_보건소[0], "click", function(e) {
+  if (infowindows_보건소[0].getMap()) {
+    infowindows_보건소[0].close();
+  } else {
+    infowindows_보건소[0].open(map, markers_보건소[0]);
+  }
+});
+
+naver.maps.Event.addListener(markers_보건소[1], "click", function(e) {
+  if (infowindows_보건소[1].getMap()) {
+    infowindows_보건소[1].close();
+  } else {
+    infowindows_보건소[1].open(map, markers_보건소[1]);
+  }
+});
+
+naver.maps.Event.addListener(markers_보건소[2], "click", function(e) {
+  if (infowindows_보건소[2].getMap()) {
+    infowindows_보건소[2].close();
+  } else {
+    infowindows_보건소[2].open(map, markers_보건소[2]);
+  }
+});
+
+naver.maps.Event.addListener(markers_보건소[3], "click", function(e) {
+  if (infowindows_보건소[3].getMap()) {
+    infowindows_보건소[3].close();
+  } else {
+    infowindows_보건소[3].open(map, markers_보건소[3]);
+  }
+});
+
+naver.maps.Event.addListener(markers_보건소[4], "click", function(e) {
+  if (infowindows_보건소[4].getMap()) {
+    infowindows_보건소[4].close();
+  } else {
+    infowindows_보건소[4].open(map, markers_보건소[4]);
+  }
+});
+
+naver.maps.Event.addListener(markers_보건소[5], "click", function(e) {
+  if (infowindows_보건소[5].getMap()) {
+    infowindows_보건소[5].close();
+  } else {
+    infowindows_보건소[5].open(map, markers_보건소[5]);
+  }
+});
+
+naver.maps.Event.addListener(markers_보건소[6], "click", function(e) {
+  if (infowindows_보건소[6].getMap()) {
+    infowindows_보건소[6].close();
+  } else {
+    infowindows_보건소[6].open(map, markers_보건소[6]);
   }
 });
