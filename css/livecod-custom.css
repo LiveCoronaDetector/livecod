@@ -5,3 +5,6 @@ h1.title {
   line-height: 1;
   color: #04253a;
 }
+#page-top > header {
+  padding: 0 0.75rem;
+}
