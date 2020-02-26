@@ -122,8 +122,6 @@ for (var jejuMedicalCenter of 제주지역보건소) {
   var address = jejuMedicalCenter["주소"];
   var phone = jejuMedicalCenter["전화번호"];
 
-  console.log('보건소', jejuMedicalCenter["이름"], jejuMedicalCenter.lat, jejuMedicalCenter.lng);
-
   var markerOptions = {
     position: {
       lat: lat,
@@ -131,7 +129,7 @@ for (var jejuMedicalCenter of 제주지역보건소) {
     },
     map: map,
     icon: {
-        content: '<img src="../img/pin_map.png" alt="" ' +
+        content: '<img src="../img/pin_default.png" alt="" ' +
                  'style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; max-width: none; max-height: none; ' +
                  '-webkit-user-select: none; position: absolute; width: 22px; height: 35px; left: 0px; top: 0px;">',
         size: new naver.maps.Size(22, 35),
