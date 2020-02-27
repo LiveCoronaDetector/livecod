@@ -7,6 +7,7 @@ var map = new naver.maps.Map("map", {
             position: naver.maps.Position.TOP_RIGHT
   }
 });
+
 var markers = [];
 var infowindows = [];
 var markers_보건소 = [];
