@@ -563,7 +563,7 @@ var 국민안심병원 = [
         "주소": "제주 제주시 도령로 65",
         "전화번호": "064-740-5975"
     }
-]
+];
 
 // This is a bad way to copy, but for now it will suffice.
 // 네이버 지도 API가 로드된 후 marker를 수정하기 때문에 일단 copy를 진행하지만 수정이 필요한 코드입니다.
