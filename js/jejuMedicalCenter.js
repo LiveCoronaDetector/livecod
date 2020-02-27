@@ -12,8 +12,8 @@ var markers = [];
 var infowindows = [];
 var markers_보건소 = [];
 var infowindows_보건소 = [];
-var markers_국민안심병원 = [];
-var infowindows_국민안심병원 = [];
+var markers_제주_국민안심병원 = [];
+var infowindows_제주_국민안심병원 = [];
 
 
 //선별진료소 마킹
@@ -198,11 +198,11 @@ naver.maps.Event.addListener(markers_보건소[6], "click", function(e) {
   }
 });
 
-
+console.log('test_start');
 
 
 //국민안심병원 마킹
-for (var jejuMedicalCenter of 국민안심병원) {
+for (var jejuMedicalCenter of 제주_국민안심병원) {
   var lat = jejuMedicalCenter.lat;
   var lng = jejuMedicalCenter.lng;
   var name = jejuMedicalCenter["이름"];
@@ -238,26 +238,26 @@ for (var jejuMedicalCenter of 국민안심병원) {
       "</a></div>"
   });
 
-  markers_국민안심병원.push(marker);
-  infowindows_국민안심병원.push(infowindow);
+  markers_제주_국민안심병원.push(marker);
+  infowindows_제주_국민안심병원.push(infowindow);
 }
 
-console.log('markers_국민안심병원');
-console.log(markers_국민안심병원);
-console.log(infowindows_국민안심병원);
+console.log('markers_제주_국민안심병원');
+console.log(markers_제주_국민안심병원);
+console.log(infowindows_제주_국민안심병원);
 
-naver.maps.Event.addListener(markers_국민안심병원[0], "click", function(e) {
-  if (infowindows_국민안심병원[0].getMap()) {
-    infowindows_국민안심병원[0].close();
+naver.maps.Event.addListener(markers_제주_국민안심병원[0], "click", function(e) {
+  if (infowindows_제주_국민안심병원[0].getMap()) {
+    infowindows_제주_국민안심병원[0].close();
   } else {
-    infowindows_국민안심병원[0].open(map, markers_국민안심병원[0]);
+    infowindows_제주_국민안심병원[0].open(map, markers_제주_국민안심병원[0]);
   }
 });
 
-naver.maps.Event.addListener(markers_국민안심병원[1], "click", function(e) {
-  if (infowindows_국민안심병원[1].getMap()) {
-    infowindows_국민안심병원[1].close();
+naver.maps.Event.addListener(markers_제주_국민안심병원[1], "click", function(e) {
+  if (infowindows_제주_국민안심병원[1].getMap()) {
+    infowindows_제주_국민안심병원[1].close();
   } else {
-    infowindows_국민안심병원[1].open(map, markers_국민안심병원[1]);
+    infowindows_제주_국민안심병원[1].open(map, markers_제주_국민안심병원[1]);
   }
 });
