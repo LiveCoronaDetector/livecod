@@ -113,6 +113,8 @@ label{
 * html .clearfix             { zoom: 1; } /* IE6 */
 *:first-child+html .clearfix { zoom: 1; } /* IE7 */
 
+.block{display: block;}
+
 .bold{font-weight: bold;}
 .normal{font-weight: normal;}
 .underline{text-decoration: underline;}
