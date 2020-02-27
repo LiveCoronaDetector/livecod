@@ -74,6 +74,9 @@ select {
 select::-ms-expand {
    display: none;            
 }
+img{
+  max-width:100%;
+}
 
 /* img 태그의 외곽선 제거 */
 a{ 
