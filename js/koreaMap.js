@@ -33,9 +33,9 @@ var 지역좌표 = [
 var 지역별마커 = [];
 var 지역별정보윈도우 = [];
 for(let i in 지역이름) {
-    console.log(i);
-    console.log(지역좌표[i][0], 지역좌표[i][1]);
-    console.log(지역이름[i], 지역별확진자[i]);
+    // console.log(i);
+    // console.log(지역좌표[i][0], 지역좌표[i][1]);
+    // console.log(지역이름[i], 지역별확진자[i]);
 
     var point = new naver.maps.LatLng(지역좌표[i][0], 지역좌표[i][1]);
     var contentString = [
@@ -72,8 +72,8 @@ for(let i in 지역이름) {
     지역별정보윈도우.push(infowindow);
 }//국가별 감염자 마커
 
-console.log(지역별마커);
-console.log(지역별정보윈도우);
+// console.log(지역별마커);
+// console.log(지역별정보윈도우);
 
 naver.maps.Event.addListener(지역별마커[0], "click", function(e) {
   if (지역별정보윈도우[0].getMap()) {
