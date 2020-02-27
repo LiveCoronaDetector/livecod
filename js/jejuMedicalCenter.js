@@ -23,6 +23,7 @@ for (var jejuMedicalCenter of 제주지역선별진료소) {
   var name = jejuMedicalCenter["이름"];
   var address = jejuMedicalCenter["주소"];
   var phone = jejuMedicalCenter["전화번호"];
+  var 구분 = jejuMedicalCenter["구분"];
 
   var markerOptions = {
     position: {
@@ -37,6 +38,8 @@ for (var jejuMedicalCenter of 제주지역선별진료소) {
     content:
       "<div style='font-size: small; margin:10px; padding:3px;'>이름 : " +
       name +
+      "<br>구분 : " +
+      구분 +
       "<br>주소 : " +
       address +
       "<br>전화번호 : <a href='tel:" +
@@ -129,6 +132,8 @@ for (var jejuMedicalCenter of 제주지역보건소) {
     content:
       "<div style='font-size: small; margin:10px; padding:3px;'>이름 : " +
       name +
+      "<br>구분 : " +
+      구분 +
       "<br>주소 : " +
       address +
       "<br>전화번호 : <a href='tel:" +
@@ -199,6 +204,7 @@ for (var jejuMedicalCenter of 제주_국민안심병원) {
   var name = jejuMedicalCenter["이름"];
   var address = jejuMedicalCenter["주소"];
   var phone = jejuMedicalCenter["전화번호"];
+  var 구분 = jejuMedicalCenter["구분"];
 
   var markerOptions = {
     position: {
@@ -220,6 +226,8 @@ for (var jejuMedicalCenter of 제주_국민안심병원) {
     content:
       "<div style='font-size: small; margin:10px; padding:3px;'>이름 : " +
       name +
+      "<br>구분 : " +
+      구분 +
       "<br>주소 : " +
       address +
       "<br>전화번호 : <a href='tel:" +
