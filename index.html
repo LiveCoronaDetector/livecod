@@ -29,7 +29,7 @@
       dataLayer.push(arguments);
     }
     gtag('js',  new Date());
- 
+
     gtag('config', 'UA-157131634-1');
   </script>
 
@@ -93,7 +93,7 @@
                 <!-- Card Body -->
                 <div class="card-body">
                   <h2 align="center">국내확진자 <span id="한국확진자"></span>명</h2>
-                  <h2 align="center">세계확진자 <span id="확진자수"></span> 명</h2>
+                  <h2 align="center">세계확진자 <span id="확진자수"></span>명</h2>
                 </div>
               </div>
             </div>
@@ -1260,15 +1260,9 @@
   var jeju = marker.find(function(i){
     return i.Name == "제주";
   });
-  var 모든확진자수 = marker.reduce(function (a, b) {
-    return a + (b.확진자수 || 0);
-  }, 0);
-  var 모든사망자수 = marker.reduce(function (a, b) {
-    return a + (b.사망자수 || 0);
-  }, 0);
-  var 모든완치자수 = marker.reduce(function (a, b) {
-    return a + (b.완치자수 || 0);
-  }, 0);
+  var 모든확진자수 = 확진자수;
+  var 모든사망자수 = 사망자수;
+  var 모든완치자수 = 완치자수;
   var 제주제외모든확진자수;
   var koreanText = document.getElementsByClassName("koreanText");
   var worldText = document.getElementsByClassName("worldText");
