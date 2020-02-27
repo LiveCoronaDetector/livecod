@@ -242,6 +242,10 @@ for (var jejuMedicalCenter of 국민안심병원) {
   infowindows_국민안심병원.push(infowindow);
 }
 
+console.log('markers_국민안심병원');
+console.log(markers_국민안심병원);
+console.log(infowindows_국민안심병원);
+
 naver.maps.Event.addListener(markers_국민안심병원[0], "click", function(e) {
   if (infowindows_국민안심병원[0].getMap()) {
     infowindows_국민안심병원[0].close();
