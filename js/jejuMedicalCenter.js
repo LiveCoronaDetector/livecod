@@ -11,6 +11,8 @@ var markers = [];
 var infowindows = [];
 var markers_보건소 = [];
 var infowindows_보건소 = [];
+var markers_국민안심병원 = [];
+var infowindows_국민안심병원 = [];
 
 
 //선별진료소 마킹
@@ -93,22 +95,6 @@ naver.maps.Event.addListener(markers[4], "click", function(e) {
     infowindows[4].close();
   } else {
     infowindows[4].open(map, markers[4]);
-  }
-});
-
-naver.maps.Event.addListener(markers[5], "click", function(e) {
-  if (infowindows[5].getMap()) {
-    infowindows[5].close();
-  } else {
-    infowindows[5].open(map, markers[5]);
-  }
-});
-
-naver.maps.Event.addListener(markers[6], "click", function(e) {
-  if (infowindows[6].getMap()) {
-    infowindows[6].close();
-  } else {
-    infowindows[6].open(map, markers[6]);
   }
 });
 
@@ -208,5 +194,65 @@ naver.maps.Event.addListener(markers_보건소[6], "click", function(e) {
     infowindows_보건소[6].close();
   } else {
     infowindows_보건소[6].open(map, markers_보건소[6]);
+  }
+});
+
+
+
+
+//국민안심병원 마킹
+for (var jejuMedicalCenter of 국민안심병원) {
+  var lat = jejuMedicalCenter.lat;
+  var lng = jejuMedicalCenter.lng;
+  var name = jejuMedicalCenter["이름"];
+  var address = jejuMedicalCenter["주소"];
+  var phone = jejuMedicalCenter["전화번호"];
+
+  var markerOptions = {
+    position: {
+      lat: lat,
+      lng: lng
+    },
+    map: map,
+    icon: {
+        content: '<img src="../img/pin_green.png" alt="" ' +
+                 'style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; max-width: none; max-height: none; ' +
+                 '-webkit-user-select: none; position: absolute; width: 22px; height: 35px; left: 0px; top: 0px;">',
+        size: new naver.maps.Size(22, 35),
+        anchor: new naver.maps.Point(11, 35)
+    }
+  };
+
+  var marker = new naver.maps.Marker(markerOptions);
+  var infowindow = new naver.maps.InfoWindow({
+    content:
+      "<div style='font-size: small; margin:10px; padding:3px;'>이름 : " +
+      name +
+      "<br>주소 : " +
+      address +
+      "<br>전화번호 : <a href='tel:" +
+      phone +
+      "'>" +
+      phone +
+      "</a></div>"
+  });
+
+  markers_국민안심병원.push(marker);
+  infowindows_국민안심병원.push(infowindow);
+}
+
+naver.maps.Event.addListener(markers_국민안심병원[0], "click", function(e) {
+  if (infowindows_국민안심병원[0].getMap()) {
+    infowindows_국민안심병원[0].close();
+  } else {
+    infowindows_국민안심병원[0].open(map, markers_국민안심병원[0]);
+  }
+});
+
+naver.maps.Event.addListener(markers_국민안심병원[1], "click", function(e) {
+  if (infowindows_국민안심병원[1].getMap()) {
+    infowindows_국민안심병원[1].close();
+  } else {
+    infowindows_국민안심병원[1].open(map, markers_국민안심병원[1]);
   }
 });
