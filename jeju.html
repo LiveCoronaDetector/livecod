@@ -1,134 +1,189 @@
 <!DOCTYPE html>
 <html lang="ko">
+  <head>
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="코로나19 제주 진료소 및 안심병원" />
+    <meta
+      name="description"
+      content="질병관리본부의 데이터에 근거하여 신종 코로나 바이러스 감염증에 대한 정보, 안내 및 확산 지도를 신속하게 전달합니다."
+    />
+    <meta
+      name="keywords"
+      content="코로나19, 코로나바이러스, 코로나, 코로나맵, 코로나지도, 코로나 지도, 코로나 현황판, 확진자"
+    />
+    <meta property="og:description" content="코로나 바이러스 현황판" />
+    <meta
+      property="og:image"
+      content="https://livecorona.co.kr/img/livecorona.jpg"
+    />
+    <meta property="og:url" content="https://livecorona.co.kr" />
 
-<head>
-  <meta property="og:type" content="website">
-	<meta property="og:title" content="코로나 바이러스 현황판">
-  <meta name="description" content="질병관리본부의 데이터에 근거하여 신종 코로나 바이러스 감염증에 대한 정보, 안내 및 확산 지도를 신속하게 전달합니다.">
-  <meta name="keywords" content="코로나19, 코로나바이러스, 코로나, 코로나맵, 코로나지도, 코로나 지도, 코로나 현황판, 확진자"/>
-	<meta property="og:description" content="코로나 바이러스 현황판">
-	<meta property="og:image" content="https://livecorona.co.kr/img/livecorona.jpg">
-	<meta property="og:url" content="https://livecorona.co.kr">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=yes"
+    />
+    <meta name="author" content="LIVECoD" />
+    <link rel="shortcut icon" href="#" />
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="author" content="LIVECoD">
-  <link rel="shortcut icon" href="#">
+    <title>라이브코로나 | 제주 진료소 및 안심병원</title>
+    <link rel="icon" href="img/favicon.png" type="image/x-icon" />
+    <link
+      href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/flatly/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-yrfSO0DBjS56u5M+SjWTyAHujrkiYVtRYh2dtB3yLQtUz3bodOeialO59u5lUCFF"
+      crossorigin="anonymous"
+    />
+    <script
+      type="text/javascript"
+      src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=26ba2oaskk"
+    ></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-157131634-1"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      src="https://polyfill.io/v3/polyfill.min.js?features=default%2CArray.prototype.find%2CArray.prototype.forEach%2CArray.prototype.keys%2CArray.prototype.map%2CArray.prototype.reduce%2Ces2015"
+    ></script>
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+      integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"
+      integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
 
-  <title>코로나 맵</title>
-  <link rel='icon' href='img/favicon.png' type='image/x-icon'/ >
-  <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css">
-  <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=26ba2oaskk"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157131634-1"></script>
-  <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=default%2CArray.prototype.find%2CArray.prototype.forEach%2CArray.prototype.keys%2CArray.prototype.map%2CArray.prototype.reduce%2Ces2015"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+      gtag("config", "UA-157131634-1");
+    </script>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
+        <a class="navbar-brand" href="#">
+          <img
+            src="/img/live.svg"
+            width="30"
+            height="30"
+            class="d-inline-block align-top"
+            alt=""
+          />
+          코로나19 제주 지역 안심병원
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarRight"
+          aria-controls="navbarRight"
+          aria-expanded="false"
+          aria-label="메뉴 확장"
+        >
+        <span class="navbar-toggler-icon"></span>
+        </button>
 
-    gtag('config', 'UA-157131634-1');
-  </script>
+        <div class="collapse navbar-collapse" id="navbarRight">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#"
+                >지도 <span class="sr-only">(current)</span></a
+              >
+            </li>
+          </ul>
+          <a class="nav-link" href="https://livecorona.co.kr"
+            >라이브코로나 현황판</a
+          >
+        </div>
+      </nav>
+    </header>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div id="map" style="width: auto; height: 80vh;"></div>
+        </div>
+      </div>
+    </div>
+    <script src="marker.js"></script>
+    <script>
+      var HOME_PATH = window.HOME_PATH || ".";
 
+      //
+      var hcLocations = 제주지역보건소;
+      var hospLocations = 제주지역선별진료소;
 
-  <!-- Custom fonts for this template-->
-  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-  <link
-    href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
-    rel="stylesheet">
+      var map = new naver.maps.Map("map", {
+        center: new naver.maps.LatLng(33.377165, 126.533382),
+        zoom: 10
+      });
 
-  <!-- Custom styles for this template-->
-  <link href="css/sb-admin-2.min.css" rel="stylesheet">
-  <link href="css/livecod-custom.css" rel="stylesheet">
-  <link href="vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
-  <style>
-    /* 월드맵 css 시작 */
-    .mapTextbox {
-      position: absolute;
-      width: 220px;
-      height: 100px;
-      margin: -100px 0 -100px 0;
-      background: #fff;
-      border-radius: 8px;
-      box-shadow: 0 2px 2px 1px rgba(69, 73, 79, .4);
-    }
+      var createMarker = function(array, location) {
+        var infoWindowHTML =
+          "<div style='font-size: small; padding: 15px;'>" +
+          "<h5>" +
+          location.이름 +
+          "</h5>" +
+          "<p>" +
+          location.주소 +
+          "<br />" +
+          '<a href="tel:' +
+          location.전화번호 +
+          '">' +
+          location.전화번호 +
+          "</a>" +
+          "</p>" +
+          "</div>";
 
-    .mapTextbox::after {
-      content: '';
-      background: linear-gradient(45deg, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 0) 51%, rgba(255, 255, 255, 0) 100%);
-      box-shadow: -2px 2px 2px 0 rgba(69, 73, 79, .4);
-      height: 15px;
-      left: 50%;
-      position: absolute;
-      bottom: -15px;
-      transform: translate(-50%, -50%) rotate(-45deg);
-      width: 15px;
-    }
+        var infowindow = new naver.maps.InfoWindow({
+          content: infoWindowHTML
+        });
 
-    .list-countryInfo {
-      padding: 10px 5px 0;
-      overflow: hidden;
-    }
+        var mark = new naver.maps.Marker({
+          position: new naver.maps.LatLng(location.lat, location.lng),
+          map: map,
+          icon: {
+            content:
+              '<img src="' +
+              HOME_PATH +
+              '/img/ico_pin.jpg" alt="" ' +
+              'style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; max-width: none; max-height: none; ' +
+              '-webkit-user-select: none; position: absolute; width: 22px; height: 35px; left: 0px; top: 0px;">',
+            size: new naver.maps.Size(22, 35),
+            anchor: new naver.maps.Point(11, 35)
+          }
+        });
 
-    .list-countryInfo div {
-      overflow: hidden;
-    }
+        // mouseover event unsupported in touch devices (mobile)
+        naver.maps.Event.addListener(mark, "mouseover", function(e) {
+          infowindow.open(map, mark);
+        });
 
-    .list-countryInfo dt,
-    .list-countryInfo dd {
-      float: left;
-      line-height: 1;
-      font-size: 12px;
-    }
+        naver.maps.Event.addListener(mark, "click", function(e) {
+          infowindow.open(map, mark);
+        });
 
-    .list-countryInfo dd {
-      margin-left: 3px;
-    }
+        array.push(mark);
+      };
 
-    /* 월드맵 css끝 */
+      var hcMarkers = [];
+      hcLocations.map(function(location) {
+        createMarker(hcMarkers, location);
+      });
 
-    /* myAreaChart_three 입도현황 여백 */
-    #myAreaChart_three{
-      padding-bottom: 1.5rem;
-    }
-
-    /* 텍스트 숨기기 */
-    .ir-txt{display:block;overflow:hidden;text-indent:-9999px;font-size:1px}
-
-    /* 현황 높이 맞춤 */
-    .status-now .card-body{
-      padding:2.4rem 0 2.25rem;
-    }
-    .status-detail .card-body .progress{
-      width:100%;
-    }
-  </style>
-
-</head>
-<body>
-  <div id="map" style="width:100%;height:400px;"></div>
-
-  <script src="marker.js"></script>
-
-  <!-- Bootstrap core JavaScript-->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Core plugin JavaScript-->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-  <!-- Custom scripts for all pages-->
-  <script src="js/sb-admin-2.min.js"></script>
-
-  <!-- Page level plugins -->
-  <script src="vendor/datatables/jquery.dataTables.min.js"></script>
-  <script src="vendor/datatables/dataTables.bootstrap4.min.js"></script>
-
-  <!-- 제주 진료소 관련 스크립트 -->
-  <script src="js/jejuMedicalCenter.js"></script>
-
-</body>
+      var hospMarkers = [];
+      hospLocations.map(function(location) {
+        createMarker(hospMarkers, location);
+      });
+    </script>
+  </body>
 </html>
