@@ -7,7 +7,7 @@ h1.title {
 }
 
 #page-top > header {
-  padding: 0 0.75rem;
+  /* padding: 0 0.75rem; */
 }
 
 /* 월드맵 css 시작 */
@@ -75,7 +75,8 @@ h1.title {
 
 /* 현황 높이 맞춤 */
 .status-now .card-body {
-  padding: 2.4rem 0 2.25rem;
+  padding: 1.6rem 0;
+  height: 187px;
 }
 .status-detail .card-body .progress {
   width: 100%;
