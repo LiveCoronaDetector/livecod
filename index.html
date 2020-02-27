@@ -1263,7 +1263,7 @@
   var 모든확진자수 = 확진자수;
   var 모든사망자수 = 사망자수;
   var 모든완치자수 = 완치자수;
-  var 제주제외모든확진자수;
+
   var koreanText = document.getElementsByClassName("koreanText");
   var worldText = document.getElementsByClassName("worldText");
   var koreanChart = document.getElementsByClassName("koreanChart");
@@ -1277,14 +1277,13 @@
   koreanChart[0].title = "확진자 " + korea.확진자수.toLocaleString() + "명";
   koreanChart[1].title = "완치자 " + korea.완치자수.toLocaleString() + "명";
   koreanChart[2].title = "사망자 " + korea.사망자수.toLocaleString() + "명";
-  제주제외모든확진자수 = 모든확진자수 - jeju.확진자수;
-  worldText[0].innerText = 제주제외모든확진자수.toLocaleString();
+  worldText[0].innerText = 모든확진자수.toLocaleString();
   worldText[1].innerText = 모든완치자수.toLocaleString();
   worldText[2].innerText = 모든사망자수.toLocaleString();
-  worldChart[0].style.width = (제주제외모든확진자수 - 모든사망자수 - 모든완치자수) / 제주제외모든확진자수 * 100 + "%";
-  worldChart[1].style.width = 모든완치자수 / 제주제외모든확진자수 * 100 + "%";
-  worldChart[2].style.width = 모든사망자수 / 제주제외모든확진자수 * 100 + "%";
-  worldChart[0].title = "확진자 " + 제주제외모든확진자수.toLocaleString() + "명";
+  worldChart[0].style.width = (모든확진자수 - 모든사망자수 - 모든완치자수) / 모든확진자수 * 100 + "%";
+  worldChart[1].style.width = 모든완치자수 / 모든확진자수 * 100 + "%";
+  worldChart[2].style.width = 모든사망자수 / 모든확진자수 * 100 + "%";
+  worldChart[0].title = "확진자 " + 모든확진자수.toLocaleString() + "명";
   worldChart[1].title = "완치자 " + 모든완치자수.toLocaleString() + "명";
   worldChart[2].title = "사망자 " + 모든사망자수.toLocaleString() + "명";
   </script>
