@@ -190,15 +190,6 @@ naver.maps.Event.addListener(markers_보건소[5], "click", function(e) {
   }
 });
 
-naver.maps.Event.addListener(markers_보건소[6], "click", function(e) {
-  if (infowindows_보건소[6].getMap()) {
-    infowindows_보건소[6].close();
-  } else {
-    infowindows_보건소[6].open(map, markers_보건소[6]);
-  }
-});
-
-
 
 console.log('국민안심병원 마킹');
 //국민안심병원 마킹
