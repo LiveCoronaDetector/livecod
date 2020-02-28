@@ -26,37 +26,8 @@
     />
     <meta name="author" content="LIVECoD" />
     <link rel="shortcut icon" href="#" />
-
     <title>라이브코로나 | 제주 진료소 및 안심병원</title>
     <link rel="icon" href="img/favicon.png" type="image/x-icon" />
-    <link
-      href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/flatly/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-yrfSO0DBjS56u5M+SjWTyAHujrkiYVtRYh2dtB3yLQtUz3bodOeialO59u5lUCFF"
-      crossorigin="anonymous"
-    />
-    <script
-      type="text/javascript"
-      src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=26ba2oaskk"
-    ></script>
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=UA-157131634-1"
-    ></script>
-    <script
-      crossorigin="anonymous"
-      src="https://polyfill.io/v3/polyfill.min.js?features=default%2CArray.prototype.find%2CArray.prototype.forEach%2CArray.prototype.keys%2CArray.prototype.map%2CArray.prototype.reduce%2Ces2015"
-    ></script>
-    <script
-      src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-      integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"
-      integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm"
-      crossorigin="anonymous"
-    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
 
@@ -67,123 +38,15 @@
 
       gtag("config", "UA-157131634-1");
     </script>
+    <script>
+      window.location.replace("https://jeju.livecorona.co.kr");
+    </script>
   </head>
   <body>
-    <header>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
-        <a class="navbar-brand" href="#">
-          <img
-            src="/img/live.svg"
-            width="30"
-            height="30"
-            class="d-inline-block align-top"
-            alt=""
-          />
-          코로나19 제주 지역 안심병원
-        </a>
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbarRight"
-          aria-controls="navbarRight"
-          aria-expanded="false"
-          aria-label="메뉴 확장"
-        >
-        <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarRight">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#"
-                >지도 <span class="sr-only">(current)</span></a
-              >
-            </li>
-          </ul>
-          <a class="nav-link" href="https://livecorona.co.kr"
-            >라이브코로나 현황판</a
-          >
-        </div>
-      </nav>
-    </header>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <div id="map" style="width: auto; height: 80vh;"></div>
-        </div>
-      </div>
-    </div>
-    <script src="marker.js"></script>
-    <script>
-      var HOME_PATH = window.HOME_PATH || ".";
-
-      //
-      var hcLocations = 제주지역보건소;
-      var hospLocations = 제주지역선별진료소;
-
-      var map = new naver.maps.Map("map", {
-        center: new naver.maps.LatLng(33.377165, 126.533382),
-        zoom: 10
-      });
-
-      var createMarker = function(array, location) {
-        var infoWindowHTML =
-          "<div style='font-size: small; padding: 15px;'>" +
-          "<h5>" +
-          location.이름 +
-          "</h5>" +
-          "<p>" +
-          location.주소 +
-          "<br />" +
-          '<a href="tel:' +
-          location.전화번호 +
-          '">' +
-          location.전화번호 +
-          "</a>" +
-          "</p>" +
-          "</div>";
-
-        var infowindow = new naver.maps.InfoWindow({
-          content: infoWindowHTML
-        });
-
-        var mark = new naver.maps.Marker({
-          position: new naver.maps.LatLng(location.lat, location.lng),
-          map: map,
-          icon: {
-            content:
-              '<img src="' +
-              HOME_PATH +
-              '/img/ico_pin.jpg" alt="" ' +
-              'style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; max-width: none; max-height: none; ' +
-              '-webkit-user-select: none; position: absolute; width: 22px; height: 35px; left: 0px; top: 0px;">',
-            size: new naver.maps.Size(22, 35),
-            anchor: new naver.maps.Point(11, 35)
-          }
-        });
-
-        // mouseover event unsupported in touch devices (mobile)
-        naver.maps.Event.addListener(mark, "mouseover", function(e) {
-          infowindow.open(map, mark);
-        });
-
-        naver.maps.Event.addListener(mark, "click", function(e) {
-          infowindow.open(map, mark);
-        });
-
-        array.push(mark);
-      };
-
-      var hcMarkers = [];
-      hcLocations.map(function(location) {
-        createMarker(hcMarkers, location);
-      });
-
-      var hospMarkers = [];
-      hospLocations.map(function(location) {
-        createMarker(hospMarkers, location);
-      });
-    </script>
+    <noscript>
+      페이지가
+      <a href="https://jeju.livecorona.co.kr">jeju.livecorona.co.kr</a>로
+      이동했습니다.
+    </noscript>
   </body>
 </html>
