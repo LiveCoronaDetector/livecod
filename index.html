@@ -124,6 +124,7 @@
               <li>
                 라이브코로나는 <strong>크롬(Chrome)</strong>에 최적화 되어 있습니다.
               </li>
+              <li>이 창은 1일 1회만 공지되게 되어있습니다.</li>
               <li>
                 <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>,
                 <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a>, 및 <a href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm">제주도청</a>의 데이터를 근거하여 매일 업데이트합니다.
@@ -1488,7 +1489,7 @@
     }
 
     $("#btnAlertBannerClose").click(function() {
-      setCookie("alertBanner", "closed", 30);
+      setCookie("alertBanner", "closed", 1);
     });
 
     if (getCookie("alertBanner") !== "closed")
