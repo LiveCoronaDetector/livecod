@@ -111,6 +111,7 @@ for (var jejuMedicalCenter of 제주지역보건소) {
   var name = jejuMedicalCenter["이름"];
   var address = jejuMedicalCenter["주소"];
   var phone = jejuMedicalCenter["전화번호"];
+  var 구분 = jejuMedicalCenter["구분"];
 
   var markerOptions = {
     position: {
