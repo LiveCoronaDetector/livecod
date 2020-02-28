@@ -293,6 +293,7 @@
                 <!-- Card Body -->
                 <div style="height:38.2rem;" class="card-body">
                   <canvas id="myAreaChart_four"></canvas>
+                  <p style="margin-left: 2rem; margin-top: -1.2rem;">현재 치명율 : <span id="치명율"></span>%</p>
                 </div>
               </div>
             </div>
@@ -1409,6 +1410,11 @@
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
     document.getElementById("한국확진자").innerHTML = Number(한국확진자수).toLocaleString();
 
+
+  </script>
+
+  <script>
+    document.getElementById("치명율").innerHTML = ((분석차트_한국누적확진자[분석차트_한국누적확진자.length-1][3]/분석차트_한국누적확진자[분석차트_한국누적확진자.length-1][1])* 100).toFixed(2)
 
   </script>
 

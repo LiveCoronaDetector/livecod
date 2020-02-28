@@ -367,10 +367,10 @@ for (var i = 0; i < 분석차트_한국누적확진자.length; i++) {
   분석차트_한국누적확진자_사망자_Array.push(분석차트_한국누적확진자[i][3]);
 }
 
-console.log(분석차트_한국누적확진자_날짜_Array);
-console.log(분석차트_한국누적확진자_확진자_Array);
-console.log(분석차트_한국누적확진자_전일차_Array);
-console.log(분석차트_한국누적확진자_사망자_Array);
+// console.log(분석차트_한국누적확진자_날짜_Array);
+// console.log(분석차트_한국누적확진자_확진자_Array);
+// console.log(분석차트_한국누적확진자_전일차_Array);
+// console.log(분석차트_한국누적확진자_사망자_Array);
 
 
 // Area Chart Example
@@ -397,7 +397,7 @@ var myLineChart = new Chart(ctx_four, {
       label: "전일대비 증가 ",
       lineTension: 0.3,
       backgroundColor: "rgba(78, 115, 223, 0.05)",
-      borderColor: "rgba(255, 45, 45, 1)",
+      borderColor: "rgba(100, 205, 205, 1)",
       pointRadius: 3,
       pointBackgroundColor: "rgba(255, 115, 223, 1)",
       pointBorderColor: "rgba(155, 115, 223, 1)",
@@ -411,7 +411,7 @@ var myLineChart = new Chart(ctx_four, {
       label: "사망자 ",
       lineTension: 0.3,
       backgroundColor: "rgba(78, 115, 223, 0.05)",
-      borderColor: "rgba(100, 205, 205, 1)",
+      borderColor: "rgba(255, 45, 45, 1)",
       pointRadius: 3,
       pointBackgroundColor: "rgba(255, 115, 223, 1)",
       pointBorderColor: "rgba(155, 115, 223, 1)",
