@@ -118,7 +118,7 @@
       <div id="content" class="content">
         <!-- Alert -->
         <div id="wrapper">
-          <div class="alert alert-warning alert-dismissible fade show container-fluid" role="alert">
+          <div class="alert alert-warning alert-dismissible fade show container-fluid d-none" role="alert" id="alertBanner">
             <ul>
               <li>
                 <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>,
@@ -143,7 +143,7 @@
               <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9">업데이트 히스토리</a>
             </p>
             <!-- Closed -->
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close" id="btnAlertBannerClose">
               <span aria-hidden="true">&times;</span>
             </button>
             <!-- //Closed -->
@@ -1437,7 +1437,7 @@
 
   <!-- A 태그 #앵커 부드러운 이동 -->
   <script>
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
       anchor.addEventListener('click', function (e) {
           e.preventDefault();
           document.querySelector(this.getAttribute('href')).scrollIntoView({
@@ -1452,6 +1452,39 @@
     setInterval(function () {
       window.location.reload();
     }, 5 * (1000 * 60));
+  </script>
+ 
+  <!-- 배너 닫기 저장-->
+  <script>
+    function getCookie(name) {
+      name = name + "=";
+      var decodedCookie = decodeURIComponent(document.cookie);
+      var ca = decodedCookie.split(';');
+      for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+          c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+          return c.substring(name.length, c.length);
+        }
+      }
+      return "";
+    }
+
+    function setCookie(name, value, expiryDays) {
+      var d = new Date();
+      d.setTime(d.getTime() + (expiryDays * 24 * 60 * 60 * 1000));
+      var expires = "expires=" + d.toUTCString();
+      document.cookie = name + "=" + value + ";" + expires + ";path=/";
+    }
+    
+    $("#btnAlertBannerClose").click(function() {
+      setCookie("alertBanner", "closed", 30);
+    });
+
+    if (getCookie("alertBanner") !== "closed")
+      $("#alertBanner").removeClass("d-none");
   </script>
 </body>
 
