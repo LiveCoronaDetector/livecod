@@ -1,3 +1,4 @@
+//2월28일 크로스브라우징 문제 해결
 var position = new naver.maps.LatLng(33.382763, 126.522372);
 var map = new naver.maps.Map("map", {
   center: position,
@@ -138,15 +139,16 @@ naver.maps.Event.addListener(markers[4], "click", function(e) {
 });
 
 
-console.log('보건소 마킹');
+// console.log('보건소 마킹');
 //보건소 마킹
-for (var jejuMedicalCenter of 제주지역보건소) {
-  var lat = jejuMedicalCenter.lat;
-  var lng = jejuMedicalCenter.lng;
-  var name = jejuMedicalCenter["이름"];
-  var address = jejuMedicalCenter["주소"];
-  var phone = jejuMedicalCenter["전화번호"];
-  var 구분 = jejuMedicalCenter["구분"];
+
+for (var i = 0; i < 제주지역보건소.length; i++) {
+  var lat = 제주지역보건소[i].lat;
+  var lng = 제주지역보건소[i].lng;
+  var name = 제주지역보건소[i]["이름"];
+  var address = 제주지역보건소[i]["주소"];
+  var phone = 제주지역보건소[i]["전화번호"];
+  var 구분 = 제주지역보건소[i]["구분"];
 
   var markerOptions = {
     position: {
@@ -232,15 +234,16 @@ naver.maps.Event.addListener(markers_보건소[5], "click", function(e) {
 });
 
 
-console.log('국민안심병원 마킹');
+// console.log('국민안심병원 마킹');
 //국민안심병원 마킹
-for (var jejuMedicalCenter of 제주_국민안심병원) {
-  var lat = jejuMedicalCenter.lat;
-  var lng = jejuMedicalCenter.lng;
-  var name = jejuMedicalCenter["이름"];
-  var address = jejuMedicalCenter["주소"];
-  var phone = jejuMedicalCenter["전화번호"];
-  var 구분 = jejuMedicalCenter["구분"];
+
+for (var i = 0; i < 제주_국민안심병원.length; i++) {
+  var lat = 제주_국민안심병원[i].lat;
+  var lng = 제주_국민안심병원[i].lng;
+  var name = 제주_국민안심병원[i]["이름"];
+  var address = 제주_국민안심병원[i]["주소"];
+  var phone = 제주_국민안심병원[i]["전화번호"];
+  var 구분 = 제주_국민안심병원[i]["구분"];
 
   var markerOptions = {
     position: {
@@ -277,9 +280,9 @@ for (var jejuMedicalCenter of 제주_국민안심병원) {
   infowindows_제주_국민안심병원.push(infowindow);
 }
 
-console.log('markers_제주_국민안심병원');
-console.log(markers_제주_국민안심병원);
-console.log(infowindows_제주_국민안심병원);
+// console.log('markers_제주_국민안심병원');
+// console.log(markers_제주_국민안심병원);
+// console.log(infowindows_제주_국민안심병원);
 
 naver.maps.Event.addListener(markers_제주_국민안심병원[0], "click", function(e) {
   if (infowindows_제주_국민안심병원[0].getMap()) {
