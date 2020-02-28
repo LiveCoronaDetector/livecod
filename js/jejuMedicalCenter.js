@@ -15,43 +15,78 @@ var infowindows_보건소 = [];
 var markers_제주_국민안심병원 = [];
 var infowindows_제주_국민안심병원 = [];
 
-console.log('제주지역선별진료소 마킹');
+// console.log('제주지역선별진료소 마킹');
 //선별진료소 마킹
-for (var jejuMedicalCenter of 제주지역선별진료소) {
-  var lat = jejuMedicalCenter.lat;
-  var lng = jejuMedicalCenter.lng;
-  var name = jejuMedicalCenter["이름"];
-  var address = jejuMedicalCenter["주소"];
-  var phone = jejuMedicalCenter["전화번호"];
-  var 구분 = jejuMedicalCenter["구분"];
+for (var i = 0; i < 제주지역선별진료소.length; i++) {
+    var lat = 제주지역선별진료소[i].lat;
+    var lng = 제주지역선별진료소[i].lng;
+    var name = 제주지역선별진료소[i]["이름"];
+    var address = 제주지역선별진료소[i]["주소"];
+    var phone = 제주지역선별진료소[i]["전화번호"];
+    var 구분 = 제주지역선별진료소[i]["구분"];
 
-  var markerOptions = {
-    position: {
-      lat: lat,
-      lng: lng
-    },
-    map: map
-  };
+    var markerOptions = {
+      position: {
+        lat: lat,
+        lng: lng
+      },
+      map: map
+    };
 
-  var marker = new naver.maps.Marker(markerOptions);
-  var infowindow = new naver.maps.InfoWindow({
-    content:
-      "<div style='font-size: small; margin:10px; padding:3px;'>이름 : " +
-      name +
-      "<br>구분 : " +
-      구분 +
-      "<br>주소 : " +
-      address +
-      "<br>전화번호 : <a href='tel:" +
-      phone +
-      "'>" +
-      phone +
-      "</a></div>"
-  });
+    var marker = new naver.maps.Marker(markerOptions);
+    var infowindow = new naver.maps.InfoWindow({
+      content:
+        "<div style='font-size: small; margin:10px; padding:3px;'>이름 : " +
+        name +
+        "<br>구분 : " +
+        구분 +
+        "<br>주소 : " +
+        address +
+        "<br>전화번호 : <a href='tel:" +
+        phone +
+        "'>" +
+        phone +
+        "</a></div>"
+    });
 
-  markers.push(marker);
-  infowindows.push(infowindow);
+    markers.push(marker);
+    infowindows.push(infowindow);
 };
+// for (var jejuMedicalCenter of 제주지역선별진료소) {
+//   var lat = jejuMedicalCenter.lat;
+//   var lng = jejuMedicalCenter.lng;
+//   var name = jejuMedicalCenter["이름"];
+//   var address = jejuMedicalCenter["주소"];
+//   var phone = jejuMedicalCenter["전화번호"];
+//   var 구분 = jejuMedicalCenter["구분"];
+//
+//   var markerOptions = {
+//     position: {
+//       lat: lat,
+//       lng: lng
+//     },
+//     map: map
+//   };
+//
+//   var marker = new naver.maps.Marker(markerOptions);
+//   var infowindow = new naver.maps.InfoWindow({
+//     content:
+//       "<div style='font-size: small; margin:10px; padding:3px;'>이름 : " +
+//       name +
+//       "<br>구분 : " +
+//       구분 +
+//       "<br>주소 : " +
+//       address +
+//       "<br>전화번호 : <a href='tel:" +
+//       phone +
+//       "'>" +
+//       phone +
+//       "</a></div>"
+//   });
+//
+//   markers.push(marker);
+//   infowindows.push(infowindow);
+// };
 // for (var i = 0; i < 제주지역선별진료소.length; i++) {
 //   console.log(infowindows[i]);
 //   naver.maps.Event.addListener(markers[i], "click", function (e) {
