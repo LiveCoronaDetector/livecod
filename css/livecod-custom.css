@@ -81,3 +81,8 @@ h1.title {
 .status-detail .card-body .progress {
   width: 100%;
 }
+
+/*IE 행동수칙 height 버그 수정 */
+.card-body{
+  min-height:50px;
+}
