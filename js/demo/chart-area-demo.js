@@ -236,8 +236,8 @@ var myLineChart = new Chart(ctx_two, {
 });
 
 // Area Chart Example3
-var ctx = document.getElementById("myAreaChart_three");
-var myLineChart = new Chart(ctx, {
+var ctx_three = document.getElementById("myAreaChart_three");
+var myLineChart = new Chart(ctx_three, {
   type: 'line',
   data: {
     labels: 입도객현황.날짜,
@@ -293,6 +293,144 @@ var myLineChart = new Chart(ctx, {
         right: 25,
         top: 25,
         bottom: 0
+      }
+    },
+    scales: {
+      xAxes: [{
+        time: {
+          unit: 'date'
+        },
+        gridLines: {
+          display: false,
+          drawBorder: false
+        },
+        ticks: {
+          maxTicksLimit: 7
+        }
+      }],
+      yAxes: [{
+        ticks: {
+          maxTicksLimit: 5,
+          padding: 10,
+          // Include a dollar sign in the ticks
+          callback: function(value, index, values) {
+            return '' + number_format(value);
+          }
+        },
+        gridLines: {
+          color: "rgb(234, 236, 244)",
+          zeroLineColor: "rgb(234, 236, 244)",
+          drawBorder: false,
+          borderDash: [2],
+          zeroLineBorderDash: [2]
+        }
+      }],
+    },
+    legend: {
+      display: false
+    },
+    tooltips: {
+      backgroundColor: "rgb(255,255,255)",
+      bodyFontColor: "#858796",
+      titleMarginBottom: 10,
+      titleFontColor: '#6e707e',
+      titleFontSize: 14,
+      borderColor: '#dddfeb',
+      borderWidth: 1,
+      xPadding: 15,
+      yPadding: 15,
+      displayColors: false,
+      intersect: false,
+      mode: 'index',
+      caretPadding: 10,
+      callbacks: {
+        label: function(tooltipItem, chart) {
+          var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
+          return datasetLabel + '' + number_format(tooltipItem.yLabel);
+        }
+      }
+    }
+  }
+});
+
+
+// 한국 증가추이
+var 분석차트_한국누적확진자_날짜_Array = [];
+var 분석차트_한국누적확진자_확진자_Array = [];
+var 분석차트_한국누적확진자_전일차_Array = [];
+var 분석차트_한국누적확진자_사망자_Array = [];
+
+for (var i = 0; i < 분석차트_한국누적확진자.length; i++) {
+  분석차트_한국누적확진자_날짜_Array.push(분석차트_한국누적확진자[i][0]);
+  분석차트_한국누적확진자_확진자_Array.push(분석차트_한국누적확진자[i][1]);
+  분석차트_한국누적확진자_전일차_Array.push(분석차트_한국누적확진자[i][2]);
+  분석차트_한국누적확진자_사망자_Array.push(분석차트_한국누적확진자[i][3]);
+}
+
+console.log(분석차트_한국누적확진자_날짜_Array);
+console.log(분석차트_한국누적확진자_확진자_Array);
+console.log(분석차트_한국누적확진자_전일차_Array);
+console.log(분석차트_한국누적확진자_사망자_Array);
+
+
+// Area Chart Example
+var ctx_four = document.getElementById("myAreaChart_four");
+var myLineChart = new Chart(ctx_four, {
+  type: 'line',
+  data: {
+    labels: 분석차트_한국누적확진자_날짜_Array,
+    datasets: [{
+      label: "한국 확진자 ",
+      lineTension: 0.3,
+      backgroundColor: "rgba(78, 115, 223, 0.05)",
+      borderColor: "rgba(255, 140, 0, 1)",
+      pointRadius: 3,
+      pointBackgroundColor: "rgba(255, 115, 223, 1)",
+      pointBorderColor: "rgba(155, 115, 223, 1)",
+      pointHoverRadius: 3,
+      pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
+      pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+      pointHitRadius: 10,
+      pointBorderWidth: 2,
+      data: 분석차트_한국누적확진자_확진자_Array,
+    },{
+      label: "전일대비 증가 ",
+      lineTension: 0.3,
+      backgroundColor: "rgba(78, 115, 223, 0.05)",
+      borderColor: "rgba(255, 45, 45, 1)",
+      pointRadius: 3,
+      pointBackgroundColor: "rgba(255, 115, 223, 1)",
+      pointBorderColor: "rgba(155, 115, 223, 1)",
+      pointHoverRadius: 3,
+      pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
+      pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+      pointHitRadius: 10,
+      pointBorderWidth: 2,
+      data: 분석차트_한국누적확진자_전일차_Array,
+    },{
+      label: "사망자 ",
+      lineTension: 0.3,
+      backgroundColor: "rgba(78, 115, 223, 0.05)",
+      borderColor: "rgba(100, 205, 205, 1)",
+      pointRadius: 3,
+      pointBackgroundColor: "rgba(255, 115, 223, 1)",
+      pointBorderColor: "rgba(155, 115, 223, 1)",
+      pointHoverRadius: 3,
+      pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
+      pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+      pointHitRadius: 10,
+      pointBorderWidth: 2,
+      data: 분석차트_한국누적확진자_사망자_Array,
+    }],
+  },
+  options: {
+    maintainAspectRatio: false,
+    layout: {
+      padding: {
+        left: 10,
+        right: 25,
+        top: 25,
+        bottom: 5
       }
     },
     scales: {
