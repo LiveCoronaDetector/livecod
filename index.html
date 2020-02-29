@@ -1503,15 +1503,15 @@
     });
   </script>
 
-  <!-- 5분마다 사이트 새로고침 -->
+  <!-- 15분마다 사이트 새로고침 -->
   <script>
     setInterval(function () {
       window.location.reload();
-    }, 5 * (1000 * 60));
+    }, 15 * (1000 * 60));
   </script>
 
   <!-- 배너 닫기 저장-->
-  <script>
+  <!-- <script>
     function getCookie(name) {
       name = name + "=";
       var decodedCookie = decodeURIComponent(document.cookie);
@@ -1541,7 +1541,7 @@
 
     if (getCookie("alertBanner") !== "closed")
       $("#alertBanner").removeClass("d-none");
-  </script>
+  </script> -->
 </body>
 
 </html>
