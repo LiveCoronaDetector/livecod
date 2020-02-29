@@ -504,9 +504,10 @@ var 지역별확진자 = [
   2, //제주
 ];
 
-//한국 확진자 분석을 위한 데이터
-//참고링크 : https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19_%EC%9C%A0%ED%96%89
-//누적 확진자, 차이, 누적 사망자
+// 한국 확진자 분석을 위한 데이터
+// 참고링크 : https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19_%EC%9C%A0%ED%96%89
+// 누적 확진자, 차이, 누적 사망자
+// 참고사항 : 한국 확진자 오후 업데이트 되면 여기도 업데이트 부탁드립니다.
 var 분석차트_한국누적확진자 = [
   // ["1/20",1, 1, 0],
   // ["1/21",1, 0, 0],
