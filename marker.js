@@ -440,10 +440,11 @@ var marker = [
 // 선차트용 데이터 세계 확진자수, 세계 사망자수, 세계 완치자수
 // 세계 확진자수, 세계 사망자수는 질병관리본부 데이터 근거
 // 세계 완치자수는 존스 홉킨스 코로나 맵 데이터에 근거
-// 존스홉킨스 : https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
+// 질본(data, data2) : http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=&brdGubun=&ncvContSeq=&contSeq=&board_id=&gubun=
 // data : 확진환자
 // data2 : 사망
+// 존스홉킨스(data3) : https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 // data3 : 완치자
 
 var marker2 = {
