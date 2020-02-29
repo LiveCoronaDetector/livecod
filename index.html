@@ -113,34 +113,7 @@
         <!-- Alert -->
         <div id="wrapper">
           <div class="alert alert-warning alert-dismissible fade show container-fluid d-none" role="alert" id="alertBanner">
-            <br>
-            <ul>
-              <li>
-                라이브코로나는 <strong>크롬(Chrome)</strong>에 최적화 되어 있습니다.
-              </li>
-              <li>이 창은 1일 1회만 공지되게 되어있습니다.</li>
-              <li>
-                <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>,
-                <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a>, 및 <a href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm">제주도청</a>의 데이터를 근거하여 매일 업데이트합니다.
-              </li>
-              <li>
-                <a href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank">리포트 바로가기</a>
-              </li>
-              <li>
-                GDG(google developers group) 등 자발적으로 참여해주신 분들께서 팀을 꾸려 비용을 받지 않고 업데이트 중에 있습니다.
-              </li>
-              <li>
-                업데이트가 필요하거나, 추가 기능, 다국어 번역이 필요하신 경우 메일로 연락주세요.
-                <a href="mailto:paul-lab@naver.com">paul-lab@naver.com</a> 입니다. (번역의 경우 직접 도움을 주셔야 합니다.)
-              </li>
-              <li>
-                <a href="https://www.ncloud.com" target="_blank">네이버 클라우드 플랫폼</a>에서 서버 및 지도 API를 무상 지원합니다.
-              </li>
-            </ul>
-            <p class="text-right">
-              <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">담당자 및 도움을 주신 분들</a> |
-              <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9">업데이트 히스토리</a>
-            </p>
+            공지사항
             <!-- Closed -->
             <button type="button" class="close" data-dismiss="alert" aria-label="Close" id="btnAlertBannerClose">
               <span aria-hidden="true">&times;</span>
@@ -1308,6 +1281,33 @@
                   </p>
                 </div>
               </div>
+              <div class="col-md-12 p-0">
+                <div class="card shadow mb-4 ">
+                  <div class="card-header">안내</div>
+                  <div class="card-body">
+                    <ul>
+                      <li>
+                        <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>,
+                        <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a>, 및 <a href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm">제주도청</a>의 데이터를 근거하여 매일 업데이트합니다.
+                      </li>
+                      <li>
+                        GDG(Google Developer Group)등 자발적으로 참여해주신 분들께서 팀을 꾸려 비용을 받지 않고 업데이트 중에 있습니다.
+                      </li>
+                      <li>
+                        업데이트 및 추가 기능 문의는 필요하신 경우 메일로 연락주세요.
+                        <a href="mailto:paul-lab@naver.com">paul-lab@naver.com</a> 입니다. (번역의 경우 직접 도움을 주셔야 합니다.)
+                      </li>
+                      <li>
+                        <a href="https://www.ncloud.com" target="_blank">네이버 클라우드 플랫폼</a>에서 서버 및 지도 API를 무상 지원합니다.
+                      </li>
+                    </ul>
+                    <p class="text-right">
+                      <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">담당자 및 도움을 주신 분들</a> |
+                      <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9">업데이트 히스토리</a>
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -1319,7 +1319,7 @@
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
             <span>Copyright &copy;
-              <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">LIVECoD (Live corona Detector)</a>
+              <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">라이브코로나 livecorona.co.kr</a>
             </span>
           </div>
         </div>
@@ -1468,7 +1468,10 @@
   </script>
 
   <!-- 배너 닫기 저장-->
-  <!-- <script>
+  <script>
+    // 배너를 업데이트하면 bannerCount++ 해주세요. 기존 숫자보다 커야만 표시됩니다.
+    var bannerCount = 5;
+
     function getCookie(name) {
       name = name + "=";
       var decodedCookie = decodeURIComponent(document.cookie);
@@ -1492,13 +1495,20 @@
       document.cookie = name + "=" + value + ";" + expires + ";path=/";
     }
 
+    function showBanner() {
+      var cookieItem = getCookie("alertBannerClosed");
+      if (parseInt(cookieItem) < bannerCount || parseInt(cookieItem) === NaN || cookieItem === "" || !cookieItem) {
+        $("#alertBanner").removeClass("d-none");
+      }
+    }
+
     $("#btnAlertBannerClose").click(function() {
-      setCookie("alertBanner", "closed", 1);
+      setCookie("alertBannerClosed", bannerCount, 1);
     });
 
-    if (getCookie("alertBanner") !== "closed")
-      $("#alertBanner").removeClass("d-none");
-  </script> -->
+    // 배너를 숨기고 싶으면 아래 코드를 주석처리하세요
+    //showBanner();
+  </script>
 </body>
 
 </html>
