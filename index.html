@@ -299,7 +299,7 @@
                 <!-- Card Body -->
                 <div class="card-body">
                   <div id="koreaMap" style="width:100%;height:446px;"></div>
-                  <div class="update mt-2"><span class="title">업데이트</span><span class="desc">2/29 10:00</span></div>
+                  <div class="update mt-2"><span class="title">업데이트</span><span id="지역별확진자_업데이트_시간_태그" class="desc"></span></div>
                   <div class="source mt-2"><span class="title">출처</span><span class="desc">중앙방역대책본부, KBS(특정 시점 지자체별 집계와 다를 수 있음)</span></div>
                 </div>
               </div>
@@ -1360,6 +1360,9 @@
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
     document.getElementById("한국확진자").innerHTML = Number(한국확진자수).toLocaleString();
 
+    // 지역별확진자 업데이트 시간
+    document.getElementById("지역별확진자_업데이트_시간_태그").innerHTML = 지역별확진자_업데이트_시간;
+
 
   </script>
 
@@ -1368,7 +1371,6 @@
     document.getElementById("세계치명율").innerHTML = ((사망자수/확진자수)* 100).toFixed(2);
 
     document.getElementById("치명율_날짜").innerHTML = 분석차트_한국누적확진자[분석차트_한국누적확진자.length-1][0];
-
   </script>
 
   <script>
