@@ -16,6 +16,13 @@ var 제주_국민안심병원 = [
         "주소": "제주 제주시 도령로 65",
         "전화번호": "064-740-5975",
         "구분": "국민안심병원"
+    }, {
+        "이름": "중앙병원",
+        "lat": "33.4922645",
+        "lng": "126.4685369",
+        "주소": "제주 제주시 월랑로 91",
+        "전화번호": "064-786-7000",
+        "구분": "국민안심병원"
     }
 ];
 // 제주지역선별진료소
@@ -42,14 +49,6 @@ var 제주지역선별진료소 = [
         "lng": "126.5148722",
         "주소": "제주 제주시 서광로 193",
         "전화번호": "064-750-0000",
-        "구분": "선별진료소"
-    },
-    {
-        "이름": "중앙병원",
-        "lat": "33.4922645",
-        "lng": "126.4685369",
-        "주소": "제주 제주시 월랑로 91",
-        "전화번호": "064-786-7000",
         "구분": "선별진료소"
     },
     {
@@ -245,14 +244,6 @@ naver.maps.Event.addListener(markers[3], "click", function(e) {
   }
 });
 
-naver.maps.Event.addListener(markers[4], "click", function(e) {
-  if (infowindows[4].getMap()) {
-    infowindows[4].close();
-  } else {
-    infowindows[4].open(map, markers[4]);
-  }
-});
-
 
 // console.log('보건소 마킹');
 //보건소 마킹
@@ -412,5 +403,13 @@ naver.maps.Event.addListener(markers_제주_국민안심병원[1], "click", func
     infowindows_제주_국민안심병원[1].close();
   } else {
     infowindows_제주_국민안심병원[1].open(map, markers_제주_국민안심병원[1]);
+  }
+});
+
+naver.maps.Event.addListener(markers_제주_국민안심병원[2], "click", function(e) {
+  if (infowindows_제주_국민안심병원[2].getMap()) {
+    infowindows_제주_국민안심병원[2].close();
+  } else {
+    infowindows_제주_국민안심병원[2].open(map, markers_제주_국민안심병원[2]);
   }
 });
