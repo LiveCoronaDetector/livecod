@@ -1,6 +1,6 @@
-# General Informaiton
+# General Information
 
-- **사이트 주소 : http://www.livecorona.co.kr**
+- **사이트 주소 : https://www.livecorona.co.kr**
 
 ## 취지와 목적
 
