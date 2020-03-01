@@ -1,0 +1,9 @@
+{
+    "schedule": "weekly", // daily|weekly|monthly
+    "ignoredFiles": [
+        "*.svg",
+        "img/*.svg"
+    ],
+    "aggressiveCompression": "false" // true|false
+    "compressWiki": "true" // true|false
+}
