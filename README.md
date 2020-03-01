@@ -1,6 +1,7 @@
 # General Information
 
 - **사이트 주소 : https://www.livecorona.co.kr**
+- 이 소소는 자유롭게 사용하셔도 좋습니다. 데이터만 가져다 쓰실 경우 이 링크를 참고해주세요.(http://livecorona.co.kr/totalDataSet.js)
 
 ## 취지와 목적
 
