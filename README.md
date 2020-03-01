@@ -5,7 +5,7 @@
 
 ## 취지와 목적
 
-- 코로나 바이러스 19에 대한 **정확한** **정보의 전달**, **정보의 확산**을 위해 2020년 1월 28일 오후 1시 개시된 정보 공유 서비스
+- 코로나 바이러스 19에 대한 **정확한** **정보의 전달**, **정보의 확산**을 위해 2020년 1월 28일 오후 1시 개시된 비영리 정보 공유 서비스
 - 감염병이 재창궐하였을 때 보다 적은 리소스로 해당 사이트를 구축 할 수 있도록 의료 정보 오픈 소스를 만드는데 목적
 
 ## 초창기 이슈
@@ -19,7 +19,7 @@
 
 **서비스 유지를 위해 사용한 기술 스택과 github 주소**
 
-- 사용 스택 : HTML, CSS, JS, JQeury, ChartJS, Bootstrap, Django, WebPack, Python, Pandas, Numpy, Beautiful soup, requests
+- 사용 스택 : HTML, CSS, JS, JQeury, ChartJS, Bootstrap, Python
     - 프론트엔드 github URL : [https://github.com/LiveCoronaDetector/livecod](https://github.com/LiveCoronaDetector/livecod)
     - 백엔드 github URL : [https://github.com/LiveCoronaDetector/livecod-backend](https://github.com/LiveCoronaDetector/livecod-backend)
     - 크롤러 github URL : [https://github.com/LiveCoronaDetector/CoronaCrawler](https://github.com/LiveCoronaDetector/CoronaCrawler)
@@ -187,13 +187,10 @@
 - google korea(GDG 멤버 지원)
 - 제주수흉부외과
 - 강민철님
+- 양수완(오현중학교)
+- 박승우(오름중학교)
 - 김유정님
 - 최경민님
-
-## 기능 개선에 도움 주신 분들
-
-- 현정운 : 탐라중학교. Top3 pie chart 개선, line chart 개선, Top3 → Top5로 변경, 지역선별진료소 Select 창 구현
-- 오준혁 : 도남초등학교. 숫자 자동 변환, 제주지역선변진료서 마킹, KBS 지도 iframe 구현
-- 이혜은 : NLCS JEJU. 네이버 팩트체크 뉴스 추가, 현황 업데이트 및 현황 업데이트 프로세스 개선
-- 양수완 : 오현중학교. 19년 내국인/외국인 입도객 현황 업데이트 및 chart 개선
-- 박승우 : 오름중학교. Bootstrap collapse 버튼을 활용한 보건소 정보table 제작
+- 현정운(탐라중학교)
+- 오준혁(도남초등학교)
+- 이혜은(NLCS JEJU)
