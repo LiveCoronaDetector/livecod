@@ -623,7 +623,7 @@ var myLineChart = new Chart(ctx_five, {
       callbacks: {
         label: function(tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
-          return datasetLabel + '' + number_format(tooltipItem.yLabel);
+          return datasetLabel + '' + number_format(tooltipItem.yLabel) + '%';
         }
       }
     }
