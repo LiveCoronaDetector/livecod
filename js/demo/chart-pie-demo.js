@@ -17,12 +17,14 @@ marker.sort(function (a, b) {
 
 for (var i = 0; i < 5; i++) {
   var percentage = marker[i].확진자수 / 모든확진자수 * 100;
+  var TOP5_치명율 = (marker[i].사망자수 / marker[i].확진자수 * 100).toFixed(2)
   topText[i].innerHTML = String(i+1) + '. ' +
   marker[i].Name +
   ' : ' +
   Number(marker[i].확진자수).toLocaleString() +
   "<span class='float-right'>" +
-  Math.round(percentage * 100) / 100 +
-  "%</span>";
+  Math.round(percentage * 100) / 100 + "%" + "(치명율 : " +
+  TOP5_치명율 +
+  ")</span>";
   topNumber[i].style.width = percentage + "%";
 }

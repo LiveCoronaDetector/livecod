@@ -33,15 +33,16 @@ window.onload = function () {
           land[j].setAttribute("class", land[j].getAttribute("class") + " infected");
 
           // 카운터 수에 따른 클래스 삽입
-          if(counter < 10){  
+          // 시기에 따라 해당 값을 크게 할 필요가 있습니다.
+          if(counter < 10){
             land[j].setAttribute("class", land[j].getAttribute("class") + " low");
-          }else if(counter >= 10 && counter < 20){
+          }else if(counter >= 10 && counter < 50){
             land[j].setAttribute("class", land[j].getAttribute("class") + " middle");
-          }else if(counter >= 20 && counter < 30){
+          }else if(counter >= 50 && counter < 100){
             land[j].setAttribute("class", land[j].getAttribute("class") + " high");
-          }else if(counter >= 30 && counter < 40){
+          }else if(counter >= 100 && counter < 200){
             land[j].setAttribute("class", land[j].getAttribute("class") + " veryhigh");
-          }else if(counter >= 40){
+          }else if(counter >= 200){
             land[j].setAttribute("class", land[j].getAttribute("class") + " highest");
           }
         }
@@ -53,28 +54,28 @@ window.onload = function () {
   var infected = svgDocument.querySelectorAll(".infected");
 
   function matchingCountry(identity) {
-    
+
     for(var i=0; i<markerData.length; i++){
       if(markerData[i].Name_en == identity){
         if(markerData[i].완치자수){
-          textBox.innerHTML = 
-          '<dl class="list-countryInfo"><div><dt>국명 :</dt><dd>' + 
-          markerData[i].Name + '(' + markerData[i].Name_en + 
-          ')</dd></div><div><dt>확진자 :</dt><dd>' 
-          + markerData[i].확진자수 + 
-          '</dd></div><div><dt>사망자 :</dt><dd>' 
-          + markerData[i].사망자수 + 
-          '</dd></div><div><dt>완치자 :</dt><dd>' 
-          + markerData[i].완치자수 + 
+          textBox.innerHTML =
+          '<dl class="list-countryInfo"><div><dt>국명 :</dt><dd>' +
+          markerData[i].Name + '(' + markerData[i].Name_en +
+          ')</dd></div><div><dt>확진자 :</dt><dd>'
+          + markerData[i].확진자수 +
+          '</dd></div><div><dt>사망자 :</dt><dd>'
+          + markerData[i].사망자수 +
+          '</dd></div><div><dt>완치자 :</dt><dd>'
+          + markerData[i].완치자수 +
           '</dd></div></dl>';
         }else{
-          textBox.innerHTML = 
-          '<dl class="list-countryInfo"><div><dt>국명 :</dt><dd>' + 
-          markerData[i].Name + '(' + markerData[i].Name_en + 
-          ')</dd></div><div><dt>확진자 :</dt><dd>' 
-          + markerData[i].확진자수 + 
-          '</dd></div><div><dt>사망자 :</dt><dd>' 
-          + markerData[i].사망자수 + 
+          textBox.innerHTML =
+          '<dl class="list-countryInfo"><div><dt>국명 :</dt><dd>' +
+          markerData[i].Name + '(' + markerData[i].Name_en +
+          ')</dd></div><div><dt>확진자 :</dt><dd>'
+          + markerData[i].확진자수 +
+          '</dd></div><div><dt>사망자 :</dt><dd>'
+          + markerData[i].사망자수 +
           '</dd></div><div><dt>완치자 :</dt><dd> 0</dd></div></dl>';
         }
       }
