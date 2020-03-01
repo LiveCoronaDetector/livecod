@@ -64,7 +64,10 @@ h1.title {
 #myAreaChart_three {
   padding-bottom: 1.5rem;
 }
-
+/*제주 입도 현황 height 조절*/
+.jeju_in .card-body .chart-area{
+  height:15rem;
+}
 /* 텍스트 숨기기 */
 .ir-txt {
   display: block;
