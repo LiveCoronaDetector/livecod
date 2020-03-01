@@ -487,11 +487,11 @@ var _marker = JSON.parse(JSON.stringify(marker));
 // 업데이트 일시 데이터
 var updateLog = {
   date: "3/1",
-  time: "10:00"
+  time: "14:30"
 };
 
 //KBS 또는 중앙방역대책본부 데이터 참고해주세요.
-var 지역별확진자_업데이트_시간 = "2/29 10:00";
+var 지역별확진자_업데이트_시간 = "2/29 14:30";
 var 지역별확진자 = [
   82, //서울
   6, //인천
