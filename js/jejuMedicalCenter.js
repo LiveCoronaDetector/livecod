@@ -120,7 +120,9 @@ var map = new naver.maps.Map("map", {
   zoomControl: true, //줌 컨트롤의 표시 여부
   zoomControlOptions: { //줌 컨트롤의 옵션
             position: naver.maps.Position.TOP_RIGHT
-  }
+  },
+  scrollWheel: false,
+
 });
 
 var markers = [];
