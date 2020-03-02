@@ -1,51 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
-</head>
-<body>
-  <canvas id="myChart" width="400" height="400"></canvas>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
-<script src="totalDataSet.js"></script>
-<script>
-function getBaseLog(x, y) {
-  return Math.log(y) / Math.log(x);
-}
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div style="width:75%;">
+      <canvas id="canvas"></canvas>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+    <script src="totalDataSet.js"></script>
+    <script>
+      var 한국누적_확진 = [];
+      var 한국누적_날짜 = [];
 
-var semi_log_한국누적확진자_날짜_Array = [];
-var semi_log_분석차트_한국누적확진자_전일차_Array = [];
-var semi_log_분석차트_한국누적확진자_Array = [];
+      분석차트_한국누적확진자 = 분석차트_한국누적확진자.slice(0);
 
-for (var i = 0; i < 분석차트_한국누적확진자.length; i++) {
-  semi_log_한국누적확진자_날짜_Array.push(분석차트_한국누적확진자[i][0]); //x축
-  semi_log_분석차트_한국누적확진자_Array.push(분석차트_한국누적확진자[i][1]);
-  semi_log_분석차트_한국누적확진자_전일차_Array.push(분석차트_한국누적확진자[i][2]); //y축
-}
+      for (var i = 0; i < 분석차트_한국누적확진자.length; i++) {
+        한국누적_날짜.push(분석차트_한국누적확진자[i][0]);
+        한국누적_확진.push(분석차트_한국누적확진자[i][1]);
+      }
 
-var ctx = document.getElementById('myChart').getContext('2d');
-var myChart = new Chart(ctx, {
-    type: 'line',
-    data: {
-        labels : semi_log_분석차트_한국누적확진자_전일차_Array,
-        datasets: [{
-            label: 'semi_log',
-            borderColor: [
-                'rgba(255, 99, 132, 1)',
-            ],
-            data : semi_log_분석차트_한국누적확진자_Array
-        }]
-    },
-    options: {
-        scales: {
-            yAxes: [{
-              type :'logarithmic',
-            }]
+      var ctx = document.getElementById("canvas").getContext("2d");
+      var myChart = new Chart(ctx, {
+        type: "line",
+        data: {
+          labels: 한국누적_날짜,
+          datasets: [
+            {
+              label: "semi_log",
+              borderColor: ["rgba(255, 99, 132, 1)"],
+              data: 한국누적_확진
+            }
+          ]
+        },
+        options: {
+          scales: {
+            yAxes: [
+              {
+                type: "logarithmic",
+                ticks: {
+                  min: 10,
+                  max: 100000,
+                  callback: function(value, index, values) {
+                    if (value === 1000000) return "1M";
+                    if (value === 100000) return "100K";
+                    if (value === 10000) return "10K";
+                    if (value === 1000) return "1K";
+                    if (value === 100) return "100";
+                    if (value === 10) return "10";
+                    if (value === 0) return "0";
+                    return null;
+                  }
+                }
+              }
+            ]
+          }
         }
-    }
-});
-</script>
-</body>
+      });
+    </script>
+  </body>
 </html>
