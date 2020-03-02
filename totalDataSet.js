@@ -488,8 +488,8 @@ var _marker = JSON.parse(JSON.stringify(marker));
 
 // 업데이트 일시 데이터
 var updateLog = {
-  date: "3/1",
-  time: "23:18"
+  date: "3/2",
+  time: "16:00"
 };
 
 //KBS 또는 중앙방역대책본부 데이터 참고해주세요.
