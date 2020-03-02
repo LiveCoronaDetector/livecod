@@ -109,21 +109,38 @@ header h6 {
   width:250px;
   background: #fff;
   border-right: 1px solid #e3e6f0;
-  padding: 25px;
+  padding: 15px     ;
   min-height: 100vh;
 }
 .m-header li,.side-nav li{
-  padding: 1rem 0;
   border-top: 1px solid #e3e6f0;
+  padding-left: 0;
+}
+.m-header li,.side-nav li a{
+  display: block; 
+  padding: 10px 0 10px 1rem;
+}
+.m-header li,.side-nav li a:hover,.m-header li,.side-nav li a.active{
+  background: #f8f9fc;
+  color:#e74a3b;
 }
 .m-header li,.side-nav li:first-child{
   border-top: 0;
+}
+.m-header li,.side-nav li:first-child a.active{
+  border-top: 1px solid #e3e6f0;
+}
+.m-header li,.side-nav li:last-child a.active{
+  border-bottom: 1px solid #e3e6f0;
 }
 .m-header li::before,.side-nav li::before{
   display: none;
 }
 .side-nav a{
   color: #858796;
+}
+.side-nav a:hover{
+  text-decoration: none;
 }
 
 .content{

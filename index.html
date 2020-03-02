@@ -1650,6 +1650,8 @@
     document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
       anchor.addEventListener('click', function(e) {
         e.preventDefault();
+        $(this).parent().siblings().children('a').removeClass('active');
+        $(this).addClass('active');
         document.querySelector(this.getAttribute('href')).scrollIntoView({
           behavior: 'smooth'
         });
