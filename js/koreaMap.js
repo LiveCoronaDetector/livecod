@@ -52,7 +52,7 @@ for(let i in 지역이름) {
     var circle = new naver.maps.Circle({
         map: koreamap,
         center: point,
-        radius: 지역별확진자[i]*30,
+        radius: 지역별확진자[i]*15,
         strokeWeight: 3,
         fillColor: "#ff0000",
         fillOpacity: 0.7
