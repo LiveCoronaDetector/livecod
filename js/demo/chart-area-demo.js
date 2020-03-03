@@ -653,6 +653,14 @@ var myChart = new Chart(ctx_six, {
     ]
   },
   options: {
+    layout: {
+      padding: {
+        left: 10,
+        right: 25,
+        top: 25,
+        bottom: 5
+      }
+    },
     scales: {
       yAxes: [
         {
