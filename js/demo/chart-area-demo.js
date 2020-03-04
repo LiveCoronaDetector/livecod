@@ -646,13 +646,14 @@ var myChart = new Chart(ctx_six, {
     labels: 한국누적_날짜,
     datasets: [
       {
-        label: "semi_log",
+        label: "한국 누적 확진자",
         borderColor: ["rgba(255, 99, 132, 1)"],
         data: 한국누적_확진
       }
     ]
   },
   options: {
+    maintainAspectRatio: false,
     layout: {
       padding: {
         left: 10,
