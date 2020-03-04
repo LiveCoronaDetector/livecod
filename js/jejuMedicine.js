@@ -176,7 +176,7 @@ var jejuMedicineMap = new naver.maps.Map('jejuMedicineMap', mapOptions);
 var jejuMedicineMap_position = new naver.maps.LatLng(33.382763, 126.522372);
 var mapOptions = {
     center: jejuMedicineMap_position,
-    zoom: 7,
+    zoom: 10,
     zoomControl: true, //줌 컨트롤의 표시 여부
     zoomControlOptions: { //줌 컨트롤의 옵션
               position: naver.maps.Position.TOP_RIGHT
