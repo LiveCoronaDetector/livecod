@@ -264,9 +264,23 @@
                     </div>
                   </div>
                 </div>
+                <ul class="nav nav-tabs korea_graph_tab">
+                  <li class="nav-item">
+                    <a class="nav-link active" data-toggle="tab" href="#korea_line_chart" role="tab">선차트(line-chart)</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#korea_semi_log_chart" role="tab">반대수 그래프(semi-log graph)</a>
+                  </li>
+                </ul>
                 <!-- Card Body -->
-                <div style="height:38.2rem;" class="card-body">
-                  <canvas id="myAreaChart_four"></canvas>
+                <div style="height:38.2rem;" class="card-body tab-content">
+                  <div class="tab-pane fade in show active" id="korea_line_chart" role="tabpanel" style="height:35rem;">
+                    <canvas id="myAreaChart_four"></canvas>
+                  </div>
+
+                  <div class="tab-pane fade" id="korea_semi_log_chart" role="tabpanel">
+                    <canvas id="myAreaChart_six"></canvas>
+                  </div>
                 </div>
                 <p style="margin-left: 2rem; margin-top: -1.2rem;">현재(<span id="치명율_날짜"></span>) 국내 치명율 : <span id="치명율"></span>%, 세계 치명율 : <span id="세계치명율"></span>% (치명율 : 사망자/확진자 비율)</p>
               </div>
@@ -1650,6 +1664,12 @@
     document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
       anchor.addEventListener('click', function(e) {
         e.preventDefault();
+        var href_name = this.getAttribute('href')
+
+        // 한국 확진자수 증가추이의 탭 클릭시, 스크롤이 움직이지 않도록 
+        if(href_name == "#korea_line_chart" || href_name == "#korea_semi_log_chart"){
+          return;
+        } 
         $(this).parent().siblings().children('a').removeClass('active');
         $(this).addClass('active');
         document.querySelector(this.getAttribute('href')).scrollIntoView({
