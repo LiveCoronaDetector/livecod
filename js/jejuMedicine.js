@@ -189,7 +189,7 @@ let 마스크판매_우체국_array = [];
 let 마스크판매_우체국_정보윈도우_array = [];
 
 for(let i in 마스크판매_우체국) {
-    console.log(마스크판매_우체국[i]['이름'], 마스크판매_우체국[i]['lat'], 마스크판매_우체국[i]['lng'], 마스크판매_우체국[i]['전화번호'], 마스크판매_우체국[i]['주소']);
+    // console.log(마스크판매_우체국[i]['이름'], 마스크판매_우체국[i]['lat'], 마스크판매_우체국[i]['lng'], 마스크판매_우체국[i]['전화번호'], 마스크판매_우체국[i]['주소']);
     var point = new naver.maps.LatLng(마스크판매_우체국[i]['lat'], 마스크판매_우체국[i]['lng']);
     var contentString = [
         '<div class="iw_inner">',

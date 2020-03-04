@@ -629,7 +629,7 @@
                   <div class="card shadow mb-4">
                     <!-- Card Header - Dropdown -->
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                      <h6 class="m-0 font-weight-bold text-danger">제주 마스크 및 손세정제 구입처</h6>
+                      <h6 class="m-0 font-weight-bold text-danger">제주 마스크 및 손세정제 구입처(우체국)</h6>
                       <div class="dropdown no-arrow">
                         <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
@@ -642,8 +642,9 @@
                     </div>
 
                     <div class="card-body">
-                      지도
-                      <!-- 지도 -->
+                      <div id="jejuMedicineMap" style="width:100%;height:35rem;"></div>
+                      <p>* 우체국은 1인 5매 제한(전화해보시고 가시는 것이 좋습니다.)</p>
+                      <p>* 타 정보는 업데이트 중에 있습니다.</p>
                     </div>
                   </div>
                 </div>
@@ -1686,6 +1687,9 @@
 
   <!-- koreaMap -->
   <script src="js/koreaMap.js"></script>
+
+  <!-- jeju 의약품 판매처 -->
+  <script src="js/jejuMedicine.js"></script>
 
   <!-- 월드맵 관련 스크립트  -->
   <script src="js/worldmap.js"></script>
