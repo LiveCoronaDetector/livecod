@@ -252,7 +252,7 @@
                   <div class="tab-pane fade" id="korea_semi_log_chart" role="tabpanel" style="height:35rem;">
                     <canvas id="myAreaChart_six"></canvas>
                   </div>
-                  <p style="margin-left: 2rem;">현재(<span id="치명율_날짜"></span>) 치명율 | 국내: <span id="치명율"></span>%, 세계: <span id="세계치명율"></span>% (치명율: 사망자/확진자 비율)</p>
+                  <p style="margin-left: 2rem;">현재(<span id="치명률_날짜"></span>) 치명률 | 국내: <span id="치명률"></span>%, 세계: <span id="세계치명률"></span>% (치명률: 사망자/확진자 비율)</p>
                 </div>
               </div>
             </div>
@@ -1609,10 +1609,10 @@
   </script>
 
   <script>
-    document.getElementById("치명율").innerHTML = ((분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][3] / 분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][1]) * 100).toFixed(2);
-    document.getElementById("세계치명율").innerHTML = ((사망자수 / 확진자수) * 100).toFixed(2);
+    document.getElementById("치명률").innerHTML = ((분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][3] / 분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][1]) * 100).toFixed(2);
+    document.getElementById("세계치명률").innerHTML = ((사망자수 / 확진자수) * 100).toFixed(2);
 
-    document.getElementById("치명율_날짜").innerHTML = 분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][0];
+    document.getElementById("치명률_날짜").innerHTML = 분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][0];
   </script>
 
   <script>
