@@ -166,7 +166,7 @@ console.log('마스크판매_우체국', 마스크판매_우체국.length);
 
 var mapOptions = {
     center: new naver.maps.LatLng(33.3616837,126.5204118),
-    zoom: 7,
+    zoom: 10,
     zoomControl: true, //줌 컨트롤의 표시 여부
     zoomControlOptions: { //줌 컨트롤의 옵션
               position: naver.maps.Position.TOP_RIGHT
@@ -189,11 +189,12 @@ let 마스크판매_우체국_array = [];
 let 마스크판매_우체국_정보윈도우_array = [];
 
 for(let i in 마스크판매_우체국) {
-    // console.log(마스크판매_우체국[i]['이름'], 마스크판매_우체국[i]['lat'], 마스크판매_우체국[i]['lng']);
+    console.log(마스크판매_우체국[i]['이름'], 마스크판매_우체국[i]['lat'], 마스크판매_우체국[i]['lng'], 마스크판매_우체국[i]['전화번호'], 마스크판매_우체국[i]['주소']);
     var point = new naver.maps.LatLng(마스크판매_우체국[i]['lat'], 마스크판매_우체국[i]['lng']);
     var contentString = [
         '<div class="iw_inner">',
         '<p style="font-size: small; margin:10px;">이름 : ',마스크판매_우체국[i]['이름'],'<br>',
+        '주소 : ',마스크판매_우체국[i]['주소'],'<br>',
         '전화번호 : ',마스크판매_우체국[i]['전화번호'],'<br>',
         '</p>',
         '</div>'
