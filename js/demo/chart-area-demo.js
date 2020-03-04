@@ -629,3 +629,59 @@ var myLineChart = new Chart(ctx_five, {
     }
   }
 });
+
+
+var 한국누적_확진 = [];
+var 한국누적_날짜 = [];
+
+for (var i = 0; i < 분석차트_한국누적확진자.length; i++) {
+  한국누적_날짜.push(분석차트_한국누적확진자[i][0]);
+  한국누적_확진.push(분석차트_한국누적확진자[i][1]);
+}
+
+var ctx_six = document.getElementById("myAreaChart_six");
+var myChart = new Chart(ctx_six, {
+  type: "line",
+  data: {
+    labels: 한국누적_날짜,
+    datasets: [
+      {
+        label: "한국 누적 확진자",
+        borderColor: ["rgba(255, 99, 132, 1)"],
+        data: 한국누적_확진
+      }
+    ]
+  },
+  options: {
+    maintainAspectRatio: false,
+    layout: {
+      padding: {
+        left: 10,
+        right: 25,
+        top: 25,
+        bottom: 5
+      }
+    },
+    scales: {
+      yAxes: [
+        {
+          type: "logarithmic",
+          ticks: {
+            min: 10,
+            max: 100000,
+            callback: function(value, index, values) {
+              if (value === 1000000) return "1M";
+              if (value === 100000) return "100K";
+              if (value === 10000) return "10K";
+              if (value === 1000) return "1K";
+              if (value === 100) return "100";
+              if (value === 10) return "10";
+              if (value === 0) return "0";
+              return null;
+            }
+          }
+        }
+      ]
+    }
+  }
+});

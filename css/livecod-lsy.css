@@ -90,7 +90,7 @@ header{
   height: 60px;
   padding: 15px;
   background: #fff;
-  z-index: 100;
+  z-index: 800;
 }
 header h1 img{
   vertical-align: top;
