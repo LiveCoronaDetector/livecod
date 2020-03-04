@@ -71,6 +71,9 @@ iframe{
   display: inline;
   vertical-align: middle;
 }
+.source .desc a{
+  display: inherit;
+}
 .update .title{
   background: #1cc88a;
 }
@@ -155,7 +158,7 @@ header h6 {
   position: relative;
 }
 .cases-route-map .comments{
-  font-size: 14px;
+  font-size: 12px;
   border-bottom: 1px solid #e3e6f0;
   text-align: right;
   padding-bottom: 10px;
