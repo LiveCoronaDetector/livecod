@@ -1,4 +1,4 @@
-// 국민안심병원
+// 마스크판매_우체국
 var 마스크판매_우체국 = [
     {
         "이름": "김녕우체국",
@@ -186,8 +186,8 @@ var mapOptions = {
 let 마스크판매_우체국_array = [];
 let 마스크판매_우체국_정보윈도우_array = [];
 
-
 for(let i in 마스크판매_우체국) {
+    // console.log(마스크판매_우체국[i]['이름'], 마스크판매_우체국[i]['lat'], 마스크판매_우체국[i]['lng']);
     var point = new naver.maps.LatLng(마스크판매_우체국[i]['lat'], 마스크판매_우체국[i]['lng']);
     var contentString = [
         '<div class="iw_inner">',
