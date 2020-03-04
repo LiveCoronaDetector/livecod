@@ -162,8 +162,10 @@ var 마스크판매_우체국 = [
     },
 ];
 
+console.log('마스크판매_우체국', 마스크판매_우체국.length);
+
 var mapOptions = {
-    center: new naver.maps.LatLng(35.8255645, 127.0965806),
+    center: new naver.maps.LatLng(33.3616837,126.5204118),
     zoom: 7,
     zoomControl: true, //줌 컨트롤의 표시 여부
     zoomControlOptions: { //줌 컨트롤의 옵션
@@ -173,7 +175,7 @@ var mapOptions = {
 
 var jejuMedicineMap = new naver.maps.Map('jejuMedicineMap', mapOptions);
 
-var jejuMedicineMap_position = new naver.maps.LatLng(33.382763, 126.522372);
+var jejuMedicineMap_position = new naver.maps.LatLng(33.3616837,126.5204118);
 var mapOptions = {
     center: jejuMedicineMap_position,
     zoom: 10,
@@ -191,8 +193,8 @@ for(let i in 마스크판매_우체국) {
     var point = new naver.maps.LatLng(마스크판매_우체국[i]['lat'], 마스크판매_우체국[i]['lng']);
     var contentString = [
         '<div class="iw_inner">',
-        '<p style="font-size: small; margin:10px;">지역이름 : ',마스크판매_우체국[i]['이름'],'<br>',
-        '확진자수 : ',마스크판매_우체국[i]['전화번호'],'<br>',
+        '<p style="font-size: small; margin:10px;">이름 : ',마스크판매_우체국[i]['이름'],'<br>',
+        '전화번호 : ',마스크판매_우체국[i]['전화번호'],'<br>',
         '</p>',
         '</div>'
     ].join('');
@@ -236,5 +238,125 @@ naver.maps.Event.addListener(마스크판매_우체국_array[3], "click", functi
     마스크판매_우체국_정보윈도우_array[3].close();
   } else {
     마스크판매_우체국_정보윈도우_array[3].open(jejuMedicineMap, 마스크판매_우체국_array[3]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[4], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[4].getMap()) {
+    마스크판매_우체국_정보윈도우_array[4].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[4].open(jejuMedicineMap, 마스크판매_우체국_array[4]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[5], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[5].getMap()) {
+    마스크판매_우체국_정보윈도우_array[5].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[5].open(jejuMedicineMap, 마스크판매_우체국_array[5]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[6], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[6].getMap()) {
+    마스크판매_우체국_정보윈도우_array[6].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[6].open(jejuMedicineMap, 마스크판매_우체국_array[6]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[7], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[7].getMap()) {
+    마스크판매_우체국_정보윈도우_array[7].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[7].open(jejuMedicineMap, 마스크판매_우체국_array[7]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[8], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[8].getMap()) {
+    마스크판매_우체국_정보윈도우_array[8].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[8].open(jejuMedicineMap, 마스크판매_우체국_array[8]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[10], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[10].getMap()) {
+    마스크판매_우체국_정보윈도우_array[10].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[10].open(jejuMedicineMap, 마스크판매_우체국_array[10]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[12], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[12].getMap()) {
+    마스크판매_우체국_정보윈도우_array[12].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[12].open(jejuMedicineMap, 마스크판매_우체국_array[12]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[13], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[13].getMap()) {
+    마스크판매_우체국_정보윈도우_array[13].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[13].open(jejuMedicineMap, 마스크판매_우체국_array[13]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[14], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[14].getMap()) {
+    마스크판매_우체국_정보윈도우_array[14].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[14].open(jejuMedicineMap, 마스크판매_우체국_array[14]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[15], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[15].getMap()) {
+    마스크판매_우체국_정보윈도우_array[15].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[15].open(jejuMedicineMap, 마스크판매_우체국_array[15]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[16], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[16].getMap()) {
+    마스크판매_우체국_정보윈도우_array[16].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[16].open(jejuMedicineMap, 마스크판매_우체국_array[16]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[17], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[17].getMap()) {
+    마스크판매_우체국_정보윈도우_array[17].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[17].open(jejuMedicineMap, 마스크판매_우체국_array[17]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[18], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[18].getMap()) {
+    마스크판매_우체국_정보윈도우_array[18].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[18].open(jejuMedicineMap, 마스크판매_우체국_array[18]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[19], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[19].getMap()) {
+    마스크판매_우체국_정보윈도우_array[19].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[19].open(jejuMedicineMap, 마스크판매_우체국_array[19]);
+  }
+});
+
+naver.maps.Event.addListener(마스크판매_우체국_array[20], "click", function(e) {
+  if (마스크판매_우체국_정보윈도우_array[20].getMap()) {
+    마스크판매_우체국_정보윈도우_array[20].close();
+  } else {
+    마스크판매_우체국_정보윈도우_array[20].open(jejuMedicineMap, 마스크판매_우체국_array[20]);
   }
 });
