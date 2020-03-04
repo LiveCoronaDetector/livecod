@@ -1,12 +1,12 @@
-# General Information
+# LiveCorona
 
-- **사이트 주소 : https://www.livecorona.co.kr**
-- 이 소는 자유롭게 사용하셔도 좋습니다. 데이터만 가져다 쓰실 경우 이 링크를 참고해주세요.(http://livecorona.co.kr/totalDataSet.js)
-- Update History(https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9)
+- **사이트 주소: https://livecorona.co.kr**
+- 본 소스는 자유롭게 사용하셔도 좋습니다. 데이터만 가져다 쓰실 경우 [`totalDataSet.js`](http://livecorona.co.kr/totalDataSet.js)를 참고해주세요.
+- [Update History](https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9)
 
 ## 취지와 목적
 
-- 코로나 바이러스 19에 대한 **정확한** **정보의 전달**, **정보의 확산**을 위해 2020년 1월 28일 오후 1시 개시된 비영리 정보 공유 서비스
+- 코로나바이러스감염증-19(COVID-19)에 대한 **정확한** **정보의 전달**, **정보의 확산**을 위해 2020년 1월 28일 오후 1시 개시된 비영리 정보 공유 서비스
 - 감염병이 재창궐하였을 때 보다 적은 리소스로 해당 사이트를 구축 할 수 있도록 의료 정보 오픈 소스를 만드는데 목적
 
 ## 초창기 이슈
@@ -21,10 +21,10 @@
 **서비스 유지를 위해 사용한 기술 스택과 github 주소**
 
 - 사용 스택 : HTML, CSS, JS, JQeury, ChartJS, Bootstrap, Python
-    - 프론트엔드 github URL : [https://github.com/LiveCoronaDetector/livecod](https://github.com/LiveCoronaDetector/livecod)
-    - 백엔드 github URL : [https://github.com/LiveCoronaDetector/livecod-backend](https://github.com/LiveCoronaDetector/livecod-backend)
-    - 크롤러 github URL : [https://github.com/LiveCoronaDetector/CoronaCrawler](https://github.com/LiveCoronaDetector/CoronaCrawler)
-    - 제주 국민안심병원 github URL : [https://github.com/LiveCoronaDetector/covid-19-jeju-hospital-map](https://github.com/LiveCoronaDetector/covid-19-jeju-hospital-map)
+    - 프론트엔드 GitHub URL: [https://github.com/LiveCoronaDetector/livecod](https://github.com/LiveCoronaDetector/livecod)
+    - 백엔드 GitHub URL: [https://github.com/LiveCoronaDetector/livecod-backend](https://github.com/LiveCoronaDetector/livecod-backend)
+    - 크롤러 GitHub URL: [https://github.com/LiveCoronaDetector/CoronaCrawler](https://github.com/LiveCoronaDetector/CoronaCrawler)
+    - 제주 지정의료기관 GitHub URL: [https://github.com/LiveCoronaDetector/covid-19-jeju-hospital-map](https://github.com/LiveCoronaDetector/covid-19-jeju-hospital-map)
 
 ## 데이터 형식
 
@@ -108,17 +108,16 @@
 
 ### 지도에 마커 찍는 방법
 
-- [https://navermaps.github.io/maps.js/docs/tutorial-2-Getting-Started.html](https://navermaps.github.io/maps.js/docs/tutorial-2-Getting-Started.html)
-- 네이버 지도 API 문서([https://www.ncloud.com/](https://www.ncloud.com/))를 참고하여 JS로 작성
-- 경도와 위도는 google map에서 지역 위치를 가져와야 함.
+- [네이버 지도 API 문서](https://navermaps.github.io/maps.js/docs/tutorial-2-Getting-Started.html)를 참고하여 JS로 작성
+- 경도와 위도는 Google Maps 및 Bing Maps 등에서 별도로 참조해야 함
 
 ### 데이터 출처 및 참고논문
 
 1. 질병관리본부와 KBS 데이터 우선
 2. 기타 데이터셋
-    - 전세계 확진자 수 데이터셋 : [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-    - 한국 확진자 featrue : [https://www.kaggle.com/kimjihoo/coronavirusdataset](https://www.kaggle.com/kimjihoo/coronavirusdataset)
-    - 지역 감염 현황 : [https://docs.google.com/spreadsheets/d/1aOckl-xaijKHVD6liwTQI7nQZ4ez0Hqn-xPfDbHUhag/edit#gid=0](https://docs.google.com/spreadsheets/d/1aOckl-xaijKHVD6liwTQI7nQZ4ez0Hqn-xPfDbHUhag/edit#gid=0)
+    - 전세계 확진자 수 데이터셋: [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+    - 한국 확진자 Feature: [https://www.kaggle.com/kimjihoo/coronavirusdataset](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+    - 지역 감염 현황: [https://docs.google.com/spreadsheets/d/1aOckl-xaijKHVD6liwTQI7nQZ4ez0Hqn-xPfDbHUhag/edit#gid=0](https://docs.google.com/spreadsheets/d/1aOckl-xaijKHVD6liwTQI7nQZ4ez0Hqn-xPfDbHUhag/edit#gid=0)
 3. 참고 논문
 
     Early epidemiolobical analysis of the coronavirus disease
@@ -185,7 +184,7 @@
 - 제주대학교 링크플러스사업단
 - 제주스타트업협회
 - NAVER(NBP, 서버지원)
-- google korea(GDG 멤버 지원)
+- Google Korea(GDG 멤버 지원)
 - 제주수흉부외과
 - 강민철님
 - 양수완(오현중학교)
