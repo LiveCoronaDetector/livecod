@@ -264,25 +264,24 @@
                     </div>
                   </div>
                 </div>
-                <ul class="nav nav-tabs korea_graph_tab">
-                  <li class="nav-item">
-                    <a class="nav-link active" data-toggle="tab" href="#korea_line_chart" role="tab">선차트(line-chart)</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#korea_semi_log_chart" role="tab">반대수 그래프(semi-log graph)</a>
-                  </li>
-                </ul>
                 <!-- Card Body -->
-                <div style="height:38.2rem;" class="card-body tab-content">
+                <div class="card-body tab-content">
+                  <ul class="nav nav-tabs korea_graph_tab">
+                    <li class="nav-item">
+                      <a class="nav-link active" data-toggle="tab" href="#korea_line_chart" role="tab">선차트 (Linear)</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" data-toggle="tab" href="#korea_semi_log_chart" role="tab">반대수 그래프 (Semi-log)</a>
+                    </li>
+                  </ul>
                   <div class="tab-pane fade in show active" id="korea_line_chart" role="tabpanel" style="height:35rem;">
                     <canvas id="myAreaChart_four"></canvas>
                   </div>
-
                   <div class="tab-pane fade" id="korea_semi_log_chart" role="tabpanel" style="height:35rem;">
                     <canvas id="myAreaChart_six"></canvas>
                   </div>
+                  <p style="margin-left: 2rem;">현재(<span id="치명율_날짜"></span>) 치명율 | 국내: <span id="치명율"></span>%, 세계: <span id="세계치명율"></span>% (치명율: 사망자/확진자 비율)</p>
                 </div>
-                <p style="margin-left: 2rem; margin-top: -1.2rem;">현재(<span id="치명율_날짜"></span>) 국내 치명율 : <span id="치명율"></span>%, 세계 치명율 : <span id="세계치명율"></span>% (치명율 : 사망자/확진자 비율)</p>
               </div>
             </div>
             <!-- //한국 확진자 추이 분석 -->
