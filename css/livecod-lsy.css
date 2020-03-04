@@ -22,6 +22,10 @@ ol li li::before,ul li li::before{
 iframe{
   border: 1px solid #e3e6f0;
 }
+
+.mt10{
+  margin-top: 10px;
+}
 .anchor{
   font-size: 0;
   line-height: 0;
@@ -114,6 +118,9 @@ header h6 {
 
 .container-wrap{
   margin-top: 60px;
+}
+.status-detail h6{
+  margin-bottom: 2px;
 }
 #wrapper .alert{
   margin-top: -25px;
