@@ -237,10 +237,23 @@
                   <div class="right"><a class="new_window" href="https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19_%EC%9C%A0%ED%96%89" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                 </div>
                 <!-- Card Body -->
-                <div style="height:38.2rem;" class="card-body">
-                  <canvas id="myAreaChart_four"></canvas>
+                <div class="card-body tab-content">
+                  <ul class="nav nav-tabs korea_graph_tab">
+                    <li class="nav-item">
+                      <a class="nav-link active" data-toggle="tab" href="#korea_line_chart" role="tab">선차트 (Linear)</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" data-toggle="tab" href="#korea_semi_log_chart" role="tab">반대수 그래프 (Semi-log)</a>
+                    </li>
+                  </ul>
+                  <div class="tab-pane fade in show active" id="korea_line_chart" role="tabpanel" style="height:35rem;">
+                    <canvas id="myAreaChart_four"></canvas>
+                  </div>
+                  <div class="tab-pane fade" id="korea_semi_log_chart" role="tabpanel" style="height:35rem;">
+                    <canvas id="myAreaChart_six"></canvas>
+                  </div>
+                  <p style="margin-left: 2rem;">현재(<span id="치명율_날짜"></span>) 치명율 | 국내: <span id="치명율"></span>%, 세계: <span id="세계치명율"></span>% (치명율: 사망자/확진자 비율)</p>
                 </div>
-                <p style="margin-left: 2rem; margin-top: -1.2rem;">현재(<span id="치명율_날짜"></span>) 국내 치명율 : <span id="치명율"></span>%, 세계 치명율 : <span id="세계치명율"></span>% (치명율 : 사망자/확진자 비율)</p>
               </div>
             </div>
             <!-- //한국 확진자 추이 분석 -->
@@ -1683,6 +1696,13 @@
     document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
       anchor.addEventListener('click', function(e) {
         e.preventDefault();
+        var href_name = this.getAttribute('href')
+
+        // 한국 확진자수 증가추이의 탭 클릭시, 스크롤이 움직이지 않도록 
+        if(href_name == "#korea_line_chart" || href_name == "#korea_semi_log_chart"){
+          return;
+        } 
+        
         $(this).parent().siblings().children('a').removeClass('active');
         $(this).addClass('active');
         document.querySelector(this.getAttribute('href')).scrollIntoView({
