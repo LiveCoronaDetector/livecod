@@ -118,3 +118,14 @@ div.anchor {
   width: 0px;
   height: 0px;
 }
+
+/* 플로팅 배너 */
+#floatMenu {
+	position: absolute;
+	width: 150px;
+	height: 220px;
+	left: 50px;
+	top: 400px;
+	background-color: #606060;
+	color: #fff;
+}
