@@ -30,6 +30,26 @@ var 지역좌표 = [
   [33.3617007, 126.511657],//제주
 ];
 
+var 지역별현황판 = [
+  'http://www.seoul.go.kr/coronaV/coronaStatus.do',//서울시청
+  'https://www.incheon.go.kr/health/HE020409',//인천시청
+  'https://www.gg.go.kr/bbs/boardView.do?bsIdx=464&bIdx=2296956&menuId=1535',//경기도청
+  'https://www.sejong.go.kr/bbs/R3340/list.do?cmsNoStr=17479',//세종시청
+  'https://www.daejeon.go.kr/corona19/index.do?tab=2&subTab=1',//대전시청
+  'http://www.chungnam.go.kr/coronaStatus.do',//충남도청
+  'http://www.jeonbuk.go.kr/board/list.jeonbuk?boardId=BBS_0000107&menuCd=DOM_000000105010005000', //전북도청
+  'https://www.gwangju.go.kr/coronamap.jsp',//광주광역시청
+  'https://www.jeonnam.go.kr/coronaMainPage.do',//전남도청
+  'http://www.provin.gangwon.kr/gw/portal/sub05_01',//강원(강원도청)
+  'http://www.chungbuk.go.kr/www/covid-19/index.html',//충북도청
+  'http://www.gb.go.kr/Main/open_contents/section/wel/page.do?mnu_uid=5760&LARGE_CODE=360&MEDIUM_CODE=10&SMALL_CODE=50&SMALL_CODE2=60mnu_order=2',//경북도청
+  'http://www.daegu.go.kr/',//대구시청
+  'http://www.gyeongnam.go.kr/corona.html',//경남도청
+  'http://www.ulsan.go.kr/corona.jsp',//울산시청
+  'http://www.busan.go.kr/corona19/index',//부산시청
+  'https://gis.jeju.go.kr/crn/index.do',//제주
+];
+
 var 지역별마커 = [];
 var 지역별정보윈도우 = [];
 for(let i in 지역이름) {
@@ -41,7 +61,9 @@ for(let i in 지역이름) {
     var contentString = [
         '<div class="iw_inner">',
         '<p style="font-size: small; margin:10px;">지역이름 : ',지역이름[i],'<br>',
-        '확진자수 : ',지역별확진자[i],'<br>',
+        '확진자수 : ', 지역별확진자[i], '<br>',
+        지역이름[i], '현황, 확진자 동선 : <a href="', 지역별현황판[i], '" target="_blank">',
+        지역이름[i], '바로가기<br>',
         '</p>',
         '</div>'
     ].join('');
