@@ -193,3 +193,6 @@ $RECYCLE.BIN/
 build/
 
 .netlify/
+
+# IntelliJ family
+.idea/
