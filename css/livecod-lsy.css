@@ -82,8 +82,20 @@ iframe{
   background: #1cc88a;
 }
 
-.m-header{
+.floating-kakao{
   display: none;
+  position: fixed;
+  right: 10px;
+  top: 90px;
+  z-index: 10
+}
+.floating-kakao a{
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('https://mud-kage.kakaocdn.net/dn/qSYuH/btqCoAkEBFY/bCZ0Tt5kZIG8kKXHkNkqLk/img.png') -37px 4px no-repeat #fddd50;
+  background-size: 84px;
+  border-radius: 50%;
 }
 header{
   border-bottom: 1px solid #e3e6f0;
@@ -124,6 +136,20 @@ header h6 {
 }
 #wrapper .alert{
   margin-top: -25px;
+}
+.kakao-together{
+  padding-top: 1rem;
+  text-align: center;
+  width: 90%;
+  border-radius: 10px;
+  margin:0 auto;
+  background: #F4F4F4;
+}
+.kakao-together a{
+  color:#212121;
+}
+.kakao-together p{
+  margin-bottom: 0.5rem;
 }
 .sidebar{
   position: fixed;
@@ -269,6 +295,12 @@ footer{
 }
 
 @media (max-width: 992px) {
+  .kakao-together{
+    display: none;
+  }
+  .floating-kakao{
+    display: block
+  }
   h1.title{
     font-size: 1.5rem
   }
