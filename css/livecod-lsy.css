@@ -125,52 +125,43 @@ header h6 {
 #wrapper .alert{
   margin-top: -25px;
 }
-.side-nav{
+.sidebar{
   position: fixed;
   left: 0;
   top: 60px;
-  width:250px;
-  background: #fff;
-  border-right: 1px solid #e3e6f0;
-  padding: 15px     ;
-  min-height: 100vh;
+  height: 100%;
+  z-index: 1
 }
-.m-header li,.side-nav li{
-  border-top: 1px solid #e3e6f0;
+.sidebar .sidebar-heading{
+  padding:1rem 1rem .5rem;
+  font-size: 16px;
+  font-weight: normal
+}
+.sidebar hr.sidebar-divider{
+  margin:1rem;
+}
+.sidebar .nav-item{
   padding-left: 0;
 }
-.m-header li,.side-nav li a{
-  display: block; 
-  padding: 10px 0 10px 1rem;
+.sidebar .nav-item::before{
+  display: none
 }
-.m-header li,.side-nav li a:hover,.m-header li,.side-nav li a.active{
-  background: #f8f9fc;
-  color:#e74a3b;
+.sidebar .nav-item .nav-link{
+  padding:.5rem 1rem
 }
-.m-header li,.side-nav li:first-child{
-  border-top: 0;
-}
-.m-header li,.side-nav li:first-child a.active{
-  border-top: 1px solid #e3e6f0;
-}
-.m-header li,.side-nav li:last-child a.active{
-  border-bottom: 1px solid #e3e6f0;
-}
-.m-header li::before,.side-nav li::before{
-  display: none;
-}
-.side-nav a{
-  color: #858796;
-}
-.side-nav a:hover{
-  text-decoration: none;
+.sticky-footer{
+  position: relative;
+  z-index: 2;
 }
 
 .content{
   position: relative;
   background: #f9fbfd;
-  margin-left: 250px;
   padding-top: 25px;
+  padding-left: 14rem;
+}
+.expended{
+  padding-left: 6.5rem;
 }
 
 /* Cases Route Map */
@@ -269,39 +260,47 @@ header h6 {
 .cases-route-map .info-box ul{
   margin-bottom: 0;
 }
+.scroll-to-top{
+  z-index: 3
+}
 
 footer{
   border-top: 1px solid #e3e6f0;
 }
 
 @media (max-width: 992px) {
-  .m-header{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1000;
-    display: block;
+  h1.title{
+    font-size: 1.5rem
   }
-  .navbar{
-    padding: 15px;
-    border-bottom: 1px solid #e3e6f0;
+  #sidebarToggleTop{
+    position: absolute;
+    right: 0;
+    top: 7px;
   }
-  .navbar-collapse{
-    border-bottom: 1px solid #e3e6f0;
+  header{
+    height: 80px;
+    padding: 12px;
   }
-  .m-header li{
-    padding: .2rem 0;
+  header h1 img{
+    width: 18px;
   }
-  header,.side-nav{
-    display: none;
+  header h6{
+    font-size: 12px
+  }
+  .sidebar{
+    width:auto;
+    top: 80px;
   }
   .container-wrap{
     margin-top: 0;
   }
   .content{
     margin-left: 0;
-    padding-top: 91px;
+    padding-top: 95px;
+    padding-left: 90px;
+  }
+  .expended{
+    padding-left: 0;
   }
   .table-responsive>.table-bordered{
     width: 500px;
