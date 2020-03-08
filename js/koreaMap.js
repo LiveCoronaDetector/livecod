@@ -56,6 +56,16 @@ for(let i in 지역이름) {
     // console.log(i);
     // console.log(지역좌표[i][0], 지역좌표[i][1]);
     // console.log(지역이름[i], 지역별확진자[i]);
+    let 크롤러_지역별확진자 = 0;
+    let 크롤러_지역별사망자 = 0;
+    for (var i = 0; i < 크롤러_지역별현황.length; i++) {
+      if(지역이름[i] == 크롤러_지역별현황['지역이름']){
+        크롤러_지역별확진자 = 크롤러_지역별현황['확진자수'];
+        크롤러_지역별사망자 = 크롤러_지역별현황['사망자수'];
+      }
+    }
+    console.log('크롤러')
+    console.log(크롤러_지역별현황['지역이름'], 크롤러_지역별확진자, 크롤러_지역별사망자);
 
     var point = new naver.maps.LatLng(지역좌표[i][0], 지역좌표[i][1]);
     var contentString = [
