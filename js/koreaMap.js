@@ -65,13 +65,14 @@ for(let i in 지역이름) {
       }
     }
     console.log('크롤러')
-    console.log(크롤러_지역별현황['지역이름'], 크롤러_지역별확진자, 크롤러_지역별사망자);
+    console.log(지역이름[i], 크롤러_지역별확진자, 크롤러_지역별사망자);
 
     var point = new naver.maps.LatLng(지역좌표[i][0], 지역좌표[i][1]);
     var contentString = [
         '<div class="iw_inner">',
         '<p style="font-size: small; margin:10px;">지역이름 : ',지역이름[i],'<br>',
-        '확진자수 : ', 지역별확진자[i], '<br>',
+        '확진자수 : ', 크롤러_지역별확진자, '<br>',
+        '사망자수 : ', 크롤러_지역별사망자, '<br>',
         지역이름[i], '현황, 확진자 동선 : <a href="', 지역별현황판[i], '" target="_blank">',
         지역이름[i], '바로가기<br>',
         '</p>',
@@ -84,7 +85,7 @@ for(let i in 지역이름) {
     var circle = new naver.maps.Circle({
         map: koreamap,
         center: point,
-        radius: 지역별확진자[i]*15,
+        radius: 크롤러_지역별확진자*15,
         strokeWeight: 3,
         fillColor: "#ff0000",
         fillOpacity: 0.7
