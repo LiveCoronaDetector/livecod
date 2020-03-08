@@ -1081,16 +1081,19 @@ for d in datas:
     # print(f'사망자 : {사망자}')
     # print(f'완치자 : {완치자}')
 
-    name = ''
+    한국어이름 = ''
     name_ch = ''
 
     for value in 기존데이터:
         if value['Name_en'] == 국가이름.strip():
-            name = value['Name']
+            한국어이름 = value['Name']
             name_ch = value['Name_ch']
 
+    if 국가이름.strip() == 'USA':
+        국가이름 = 'United States'
+
     세계확진자.append({
-        'Name' : name,
+        'Name' : 한국어이름,
         'Name_ch' : name_ch,
         'Name_en' : 국가이름.strip(),
         '확진자수' : int(0 if 확진자.strip().replace(',', '') == "" else 확진자.strip().replace(',', '')),
