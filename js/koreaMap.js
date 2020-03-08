@@ -64,8 +64,8 @@ for(let i in 지역이름) {
         크롤러_지역별사망자 = 크롤러_지역별현황[c]['사망자수'];
       }
     }
-    console.log('크롤러')
-    console.log(지역이름[i], 크롤러_지역별확진자, 크롤러_지역별사망자);
+    // console.log('크롤러')
+    // console.log(지역이름[i], 크롤러_지역별확진자, 크롤러_지역별사망자);
 
     var point = new naver.maps.LatLng(지역좌표[i][0], 지역좌표[i][1]);
     var contentString = [

@@ -162,7 +162,7 @@ var 마스크판매_우체국 = [
     },
 ];
 
-console.log('마스크판매_우체국', 마스크판매_우체국.length);
+// console.log('마스크판매_우체국', 마스크판매_우체국.length);
 
 var mapOptions = {
     center: new naver.maps.LatLng(33.3616837,126.5204118),
