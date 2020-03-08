@@ -37,5 +37,16 @@ for d in datas:
 print(f'삭제된 데이터 : {시도별확진자[0]}')
 시도별확진자.append({'업데이트날짜': 업데이트날짜})
 
-with open("크롤러_지역별현황.json", "w", encoding='UTF-8-sig') as json_file:
+with open("크롤러_지역별현황.js", "w", encoding='UTF-8-sig') as json_file:
     json.dump(시도별확진자[1:], json_file, ensure_ascii=False, indent=4)
+
+data = ''
+with open("크롤러_지역별현황.js", "r", encoding='UTF-8-sig') as f:
+    while True:
+        line = f.readline()
+        if not line: break
+        data += line
+data = 'var 크롤러_지역별현황 = ' + data + ';'
+
+with open("크롤러_지역별현황.js", "w", encoding='UTF-8-sig') as f_write:
+    f_write.write(data)
