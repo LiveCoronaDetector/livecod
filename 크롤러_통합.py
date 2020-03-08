@@ -3,9 +3,9 @@ import re
 from bs4 import BeautifulSoup
 import json
 
-print("#################################")
-print("###########한국 데이터############")
-print("#################################")
+print("#####################################")
+print("############ 한국 데이터 #############")
+print("######## 크롤러_지역별현황.js #########")
 
 html = requests.get("http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=13&ncvContSeq=&contSeq=&board_id=&gubun=").text
 # print(html)
@@ -52,12 +52,13 @@ data = 'var 크롤러_지역별현황 = ' + data + ';'
 
 with open("크롤러_지역별현황.js", "w", encoding='UTF-8-sig') as f_write:
     f_write.write(data)
+print("############### 완료!! ###############")
+print("#####################################")
+print("")
 
-
-
-print("#################################")
-print("###########세계 데이터############")
-print("#################################")
+print("#####################################")
+print("############ 세계 데이터 #############")
+print("######## 크롤러_세계확진자.js #########")
 
 html = requests.get("https://www.worldometers.info/coronavirus/").text
 # print(html) 작동확인 1
@@ -1111,3 +1112,6 @@ data = 'var marker = ' + data + ';'
 
 with open("크롤러_세계확진자.js", "w", encoding='UTF-8-sig') as f_write:
     f_write.write(data)
+
+print("############### 완료!! ###############")
+print("#####################################")
