@@ -4,6 +4,10 @@ var updateLog = {
   time: "10:00"
 };
 
+// 1. 아래 데이터는 korea_json_local_크롤러.py 파일 실행시 '크롤러_지역별현황.js' 파일로 뽑혀지게 해놨습니다.
+// 2. 크롤러가 동작하지 않을 경우 크롤러_지역별현황.js파일을 수동업데이트하고 자료는 질병관리본부 홈페이지 참고해주세요.
+// 3. 질병관리본부 홈페이지 : http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=13&ncvContSeq=&contSeq=&board_id=&gubun=
+
 marker.push({
   "Name": "한국",
   "Name_en": "Korea, Republic of",
@@ -122,27 +126,6 @@ var 입도객현황 = {
 // 네이버 지도 API가 로드된 후 marker를 수정하기 때문에 일단 copy를 진행하지만 수정이 필요한 코드입니다.
 var _marker = JSON.parse(JSON.stringify(marker));
 
-
-
-// 1. 아래 데이터는 korea_json_local_크롤러.py 파일 실행시 '크롤러_지역별현황.js' 파일로 뽑혀지게 해놨습니다.
-// 2. 크롤러가 동작하지 않을 경우 크롤러_지역별현황.js파일을 수동업데이트하고 자료는 질병관리본부 홈페이지 참고해주세요.
-// 3. 질병관리본부 홈페이지 : http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=13&ncvContSeq=&contSeq=&board_id=&gubun=
-// var 크롤러_지역별현황 = ﻿[
-//     {
-//         "지역이름": "서울",
-//         "확진자수": 108,
-//         "사망자수": 0
-//     },
-//     ...
-//     {
-//         "지역이름": "제주",
-//         "확진자수": 4,
-//         "사망자수": 0
-//     },
-//     {
-//         "업데이트날짜": "2020년 3월 7일 00시"
-//     }
-// ];
 
 // 업데이트 시간
 var 지역별확진자_업데이트_시간 = "";

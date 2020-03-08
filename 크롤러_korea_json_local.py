@@ -1,5 +1,3 @@
-#이 파일은 코로나맵을 만드는 분들 중 크롤링을 하시려는 분들의 학습용으로 만들어져 있습니다.
-
 import requests
 import re
 from bs4 import BeautifulSoup
