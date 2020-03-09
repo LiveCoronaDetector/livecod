@@ -22,8 +22,9 @@ datas = soup.select('.maplist > ul > li')
 
 for d in datas:
     지역이름 = d.find_all('strong')[0].text
-    확진자수 = int(d.find_all('span', class_='sub_num')[0].text[:-1])
-    사망자수 = int(d.find_all('span', class_='sub_num')[1].text[:-1])
+    확진자수 = int(d.find_all('span', class_='sub_num')[0].text[:-1].replace(',', ''))
+    격리해제수 = int(d.find_all('span', class_='sub_num')[1].text[:-1].replace(',', ''))
+    사망자수 = int(d.find_all('span', class_='sub_num')[2].text[:-1].replace(',', ''))
 
     # print(f'지역이름 : {지역이름}')
     # print(f'확진자수 : {확진자수}')
@@ -32,6 +33,7 @@ for d in datas:
     시도별확진자.append({
         '지역이름' : 지역이름,
         '확진자수' : 확진자수,
+        '격리해제수' : 격리해제수,
         '사망자수' : 사망자수,
     })
 

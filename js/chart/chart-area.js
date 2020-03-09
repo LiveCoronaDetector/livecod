@@ -150,7 +150,7 @@ var ctx_two = document.getElementById("myAreaChart_two");
 var myLineChart = new Chart(ctx_two, {
   type: 'line',
   data: {
-    labels: ["19년11월", "19년12월", "20년1월"],
+    labels: ["19년11월", "19년12월", "20년1월", "20년2월"],
     datasets: [{
       label: "입도 현황(명) ",
       lineTension: 0.3,
@@ -164,7 +164,7 @@ var myLineChart = new Chart(ctx_two, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: [100266, 98541, 89678],
+      data: [100266, 98541, 89678, 4286],
     }],
   },
   options: {
