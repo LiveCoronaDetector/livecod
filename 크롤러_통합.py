@@ -1089,8 +1089,15 @@ for d in datas:
             한국어이름 = value['Name']
             name_ch = value['Name_ch']
 
+    #지도 SVG 이름 동기화(아래 USA는 크롤링된 영어이름)
     if 국가이름.strip() == 'USA':
+        #여기에 SVG파일에 있는 국가명으로 변경
         국가이름 = 'United States'
+
+
+    #한국어 이름이 필드에 없을 경우 영어이름 삽입
+    if 한국어이름 == '':
+        한국어이름 = 국가이름.strip()
 
     세계확진자.append({
         'Name' : 한국어이름,
