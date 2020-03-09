@@ -1,0 +1,47 @@
+name: Run crawler
+on:
+  schedule:
+    - cron:  '0 * * * *'
+jobs:
+  runCrawler:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run crawler
+        run: |
+          python "크롤러_통합.py"
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer: LiveCoronaBot <commit-bot@taeuk.me>
+          commit-message: Run crawler and update data
+          title: Run crawler and update data
+          body: |
+            # LiveCorona Data Crawler
+
+            Executed `크롤러_통합.py`
+
+            ---
+
+            Make sure that you look over the diff as the crawler might have broken overnight. 
+            If everything is OK, approve and merge the PR to apply.
+
+            크롤러의 diff 결과를 꼭 확인해 주십시오! 밤새 고장이 났을 수도 있습니다.
+            괜찮아 보인다면 "Approve"와 "Merge" 하셔서 적용해 주십시오.
+
+            ---
+
+            🤖 on behalf of @taeukme
+          branch: data-crawl-updates
+          assignees: taeukme
+          labels: data update
