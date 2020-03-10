@@ -1096,6 +1096,10 @@ for d in datas:
         #여기에 SVG파일에 있는 국가명으로 변경
         국가이름 = 'United States'
 
+    if 국가이름.strip() == 'Total:':
+      print("Skipping total")
+      continue
+
 
     #한국어 이름이 필드에 없을 경우 영어이름 삽입
     if 한국어이름 == '':
