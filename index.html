@@ -53,12 +53,14 @@
   </div>
   <header>
     <h1 class="title float-left">
-      <img src='img/live.svg' /> 라이브 코로나 맵</h1>
+      <img src='img/live.svg' /> 라이브 코로나 맵
+    </h1>
     <h6 class="float-right">
-      <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
-        <i class="fa fa-times"></i>
-      </button>
-      <span class="text-update"></span> 최종 업데이트(일일 오전과 오후 질병관리본부 브리핑 자료를 근거로 업데이트)</h6>
+      <span class="text-update"></span> 최종 업데이트(일일 오전과 오후 질병관리본부 브리핑 자료를 근거로 업데이트)
+    </h6>
+    <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle">
+        <i class="fas fa-chevron-circle-left"></i>
+    </button>
   </header>
   <!-- Page Wrapper -->
   <div id="wrapper">
@@ -207,11 +209,21 @@
                   <h6 class="m-0 font-weight-bold text-danger">제주 현황</h6>
                 </div>
                 <!-- Card Body -->
-                <div class="card-body text-center">
-                  <h6>확진자</h6>
-                  <div class="count-text mb-3"><span id="제주확진자"></span>명</div>
-                  <h6>사망자</h6>
-                  <div class="count-text"><span id="제주사망자"></span>명</div>
+                <div class="card-body text-center status-jeju">
+                  <div class="row">
+                    <div class="col-lg-4">
+                        <h6>확진자</h6>
+                        <div class="count-text mb-3"><span id="제주확진자"></span>명</div>
+                    </div>
+                    <div class="col-lg-4">
+                        <h6>사망자</h6>
+                        <div class="count-text"><span id="제주사망자"></span>명</div>
+                    </div>
+                    <div class="col-lg-4">
+                        <h6>완치자</h6>
+                        <div class="count-text"><span id="제주완치"></span>명</div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -1653,6 +1665,7 @@
       if (data[variable]["Name"] == "제주") {
         document.getElementById("제주확진자").innerHTML = data[variable]["확진자수"];
         document.getElementById("제주사망자").innerHTML = data[variable]["사망자수"];
+        document.getElementById("제주완치").innerHTML = data[variable]["완치자수"];
       }
     }
 
@@ -1826,7 +1839,7 @@
     // Toggle the side navigation
     $("#sidebarToggle, #sidebarToggleTop").on('click', function(e) {
       $(".content").toggleClass("expended");
-      $(this).children('i').toggleClass("fa-times fa-bars");
+      $(this).children('i').toggleClass("fa-chevron-circle-left fa-bars");
     });
 
     // 배너를 숨기고 싶으면 아래 코드를 주석처리하세요

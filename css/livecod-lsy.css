@@ -86,7 +86,7 @@ iframe{
   display: none;
   position: fixed;
   right: 10px;
-  top: 90px;
+  top: 75px;
   z-index: 10
 }
 .floating-kakao a{
@@ -289,39 +289,55 @@ header h6 {
 .scroll-to-top{
   z-index: 3
 }
+.status-now .card-body.status-jeju{
+  padding-top: 60px;
+}
 
 footer{
   border-top: 1px solid #e3e6f0;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 960px) {
   .kakao-together{
     display: none;
   }
   .floating-kakao{
-    display: block
+    display: block;
   }
+  .status-now .card-body.status-jeju{
+    height: auto;
+    padding: 20px 0;
+  }    
+  .sidebar .nav-item .nav-link{
+    padding-top: .15rem;
+    padding-bottom: .15rem;
+  }
+}
+@media (max-width: 760px) {
   h1.title{
     font-size: 1.5rem
   }
   #sidebarToggleTop{
     position: absolute;
-    right: 0;
-    top: 7px;
+    left: 0;
+    bottom: 0;
+    line-height: 1em;
   }
   header{
-    height: 80px;
+    height: 65px;
     padding: 12px;
   }
   header h1 img{
     width: 18px;
   }
   header h6{
-    font-size: 12px
+    font-size: 12px;
+    margin-top: 0;
+    width: 45%;
   }
   .sidebar{
     width:auto;
-    top: 80px;
+    top: 65px;
   }
   .container-wrap{
     margin-top: 0;
