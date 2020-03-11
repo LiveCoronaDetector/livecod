@@ -12,32 +12,45 @@ html = requests.get("http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun
 
 soup = BeautifulSoup(html, 'html.parser')
 업데이트날짜 = soup.select('.timetable > .info > span')[0].text
-# print(업데이트날짜)
+# print(f'업데이트날짜 : {업데이트날짜}')
 
 # datas = soup.select('#maplayout > button')
-datas = soup.select('.maplist > ul > li')
+datas = soup.select('.maplist > div')
 # print(datas)
+# print(datas[0])
+datas = datas[1:]
 
 시도별확진자 = []
 
 for d in datas:
-    지역이름 = d.find_all('strong')[0].text
-    확진자수 = int(d.find_all('span', class_='sub_num')[0].text[:-1].replace(',', ''))
-    격리해제수 = int(d.find_all('span', class_='sub_num')[1].text[:-1].replace(',', ''))
-    사망자수 = int(d.find_all('span', class_='sub_num')[2].text[:-1].replace(',', ''))
+    지역이름 = d.find_all('h4', class_='cityname')[0].text
+    확진자수 = int(d.find_all('span', class_='num')[0].text[:-1].replace(',', ''))
+    격리해제수 = int(d.find_all('span', class_='num')[2].text[:-1].replace(',', ''))
+    사망자수 = int(d.find_all('span', class_='num')[1].text[:-1].replace(',', ''))
+    십만명당발생율 = float(d.find_all('span', class_='num')[3].text[:-1])
+    지역별확진자비율 = d.find_all('p', class_='citytit')
 
     # print(f'지역이름 : {지역이름}')
     # print(f'확진자수 : {확진자수}')
+    # print(f'격리해제수 : {격리해제수}')
     # print(f'사망자수 : {사망자수}')
+    # print(f'십만명당발생율 : {십만명당발생율}')
+
+    for i in 지역별확진자비율:
+        지역별확진자비율 = i.text[:4].replace('%', '')
+        # print(f'지역별확진자비율 : {지역별확진자비율}')
+
 
     시도별확진자.append({
         '지역이름' : 지역이름,
         '확진자수' : 확진자수,
         '격리해제수' : 격리해제수,
         '사망자수' : 사망자수,
+        '십만명당발생율' : 십만명당발생율,
+        '지역별확진자비율' : 지역별확진자비율,
     })
 
-#삭제된 데이터 확인
+# 삭제된 데이터 확인
 print(f'삭제된 데이터 : {시도별확진자[0]}')
 시도별확진자.append({'업데이트날짜': 업데이트날짜})
 
