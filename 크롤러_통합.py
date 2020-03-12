@@ -51,11 +51,11 @@ for d in datas:
     })
 
 # 삭제된 데이터 확인
-print(f'삭제된 데이터 : {시도별확진자[0]}')
+# print(f'삭제된 데이터 : {시도별확진자[0]}')
 시도별확진자.append({'업데이트날짜': 업데이트날짜})
 
 with open("크롤러_지역별현황.js", "w", encoding='UTF-8-sig') as json_file:
-    json.dump(시도별확진자[1:], json_file, ensure_ascii=False, indent=4)
+    json.dump(시도별확진자, json_file, ensure_ascii=False, indent=4)
 
 data = ''
 with open("크롤러_지역별현황.js", "r", encoding='UTF-8-sig') as f:
