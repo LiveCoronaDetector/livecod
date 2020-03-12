@@ -18,7 +18,7 @@ soup = BeautifulSoup(html, 'html.parser')
 datas = soup.select('.maplist > div')
 # print(datas)
 # print(datas[0])
-datas = datas[1:]
+# datas = datas[1:]
 
 시도별확진자 = []
 

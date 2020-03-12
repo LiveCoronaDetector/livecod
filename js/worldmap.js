@@ -1,13 +1,5 @@
 "use strict";
 
-// 업데이트 일시 함수
-function updateInfo(data) {
-  var updateTarget = document.querySelector(".text-update");
-  updateTarget.innerHTML = data.date + "일 " + data.time;
-}
-
-updateInfo(updateLog); // svg 클릭 이벤트 코드
-
 window.onload = function () {
   var worldMapWrapper = document.querySelector(".world-map");
   var worldMap = document.querySelector("#objWorldmap");
