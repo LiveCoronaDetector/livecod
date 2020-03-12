@@ -19,8 +19,8 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "확진자수": 9000,
-        "사망자수": 354,
+        "확진자수": 10075,
+        "사망자수": 429,
         "완치자수": 2959
     },
     {
@@ -72,20 +72,20 @@
         "완치자수": 4
     },
     {
-        "Name": "일본",
-        "Name_ch": "日本",
-        "Name_en": "Japan",
-        "확진자수": 639,
-        "사망자수": 16,
-        "완치자수": 118
-    },
-    {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 637,
+        "확진자수": 648,
         "사망자수": 0,
         "완치자수": 1
+    },
+    {
+        "Name": "일본",
+        "Name_ch": "日本",
+        "Name_en": "Japan",
+        "확진자수": 643,
+        "사망자수": 16,
+        "완치자수": 118
     },
     {
         "Name": "덴마크",
@@ -115,7 +115,7 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "확진자수": 456,
+        "확진자수": 460,
         "사망자수": 8,
         "완치자수": 18
     },
@@ -268,7 +268,15 @@
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
         "확진자수": 69,
-        "사망자수": 2,
+        "사망자수": 3,
+        "완치자수": 0
+    },
+    {
+        "Name": "브라질",
+        "Name_ch": "巴西",
+        "Name_en": "Brazil",
+        "확진자수": 69,
+        "사망자수": 0,
         "완치자수": 0
     },
     {
@@ -318,14 +326,6 @@
         "확진자수": 52,
         "사망자수": 2,
         "완치자수": 2
-    },
-    {
-        "Name": "브라질",
-        "Name_ch": "巴西",
-        "Name_en": "Brazil",
-        "확진자수": 52,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "대만",
@@ -381,7 +381,7 @@
         "Name_en": "Indonesia",
         "확진자수": 34,
         "사망자수": 1,
-        "완치자수": 2
+        "완치자수": 3
     },
     {
         "Name": "팔레스타인",
@@ -405,7 +405,7 @@
         "Name_en": "Algeria",
         "확진자수": 24,
         "사망자수": 1,
-        "완치자수": 0
+        "완치자수": 8
     },
     {
         "Name": "조지아",
@@ -512,6 +512,14 @@
         "완치자수": 0
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "확진자수": 16,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
@@ -584,14 +592,6 @@
         "완치자수": 10
     },
     {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "확진자수": 10,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
@@ -600,9 +600,25 @@
         "완치자수": 0
     },
     {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
         "확진자수": 9,
         "사망자수": 0,
         "완치자수": 0
@@ -632,25 +648,9 @@
         "완치자수": 0
     },
     {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "확진자수": 7,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
-        "확진자수": 7,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
         "확진자수": 7,
         "사망자수": 0,
         "완치자수": 0
@@ -672,6 +672,14 @@
         "완치자수": 0
     },
     {
+        "Name": "French Guiana",
+        "Name_ch": "",
+        "Name_en": "French Guiana",
+        "확진자수": 6,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
@@ -683,14 +691,6 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 5,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "French Guiana",
-        "Name_ch": "",
-        "Name_en": "French Guiana",
         "확진자수": 5,
         "사망자수": 0,
         "완치자수": 0
@@ -731,6 +731,14 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
+        "확진자수": 3,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
@@ -808,14 +816,6 @@
         "완치자수": 0
     },
     {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
@@ -845,6 +845,14 @@
         "Name_en": "Saint Martin",
         "확진자수": 2,
         "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 1,
+        "사망자수": 1,
         "완치자수": 0
     },
     {
@@ -963,6 +971,14 @@
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
+        "확진자수": 1,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "St. Vincent Grenadines",
+        "Name_ch": "",
+        "Name_en": "St. Vincent Grenadines",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
