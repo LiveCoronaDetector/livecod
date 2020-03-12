@@ -40,8 +40,8 @@ jobs:
             괜찮아 보인다면 "Approve"와 "Merge" 하셔서 적용해 주십시오.
 
             ---
+            cc: @LiveCoronaDetector/data-update
 
             🤖 on behalf of @taeukme
           branch: data-crawl-updates
-          assignees: taeukme
           labels: data update
