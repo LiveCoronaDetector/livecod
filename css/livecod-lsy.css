@@ -82,20 +82,40 @@ iframe{
   background: #1cc88a;
 }
 
-.floating-kakao{
+.floating-donation{
   display: none;
   position: fixed;
   right: 10px;
   top: 75px;
   z-index: 10
 }
-.floating-kakao a{
+.floating-donation a.kakao{
   display: inline-block;
   width: 42px;
   height: 42px;
   background: url('https://mud-kage.kakaocdn.net/dn/qSYuH/btqCoAkEBFY/bCZ0Tt5kZIG8kKXHkNkqLk/img.png') -37px 4px no-repeat #fddd50;
   background-size: 84px;
   border-radius: 50%;
+}
+.floating-donation a.wadiz{
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../img/wadiz.png') -18px 0 no-repeat;
+  background-size: 84px;
+  border-radius: 50%;
+  border: 1px solid #f1f1f1;
+  margin-top: 0;
+}
+.floating-donation a.cie{
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../img/logo_cie.png') -5px 8px no-repeat #fff;
+  background-size: 50px;
+  border-radius: 50%;
+  border: 1px solid #f1f1f1;
+  margin-top: 0;
 }
 header{
   border-bottom: 1px solid #e3e6f0;
@@ -137,13 +157,26 @@ header h6 {
 #wrapper .alert{
   margin-top: -25px;
 }
-.kakao-together{
-  padding-top: 1rem;
+.kakao-together,.cie,.wadiz{
+  padding-top: .5rem;
   text-align: center;
-  width: 90%;
+  width: 70%;
   border-radius: 10px;
   margin:0 auto;
   background: #F4F4F4;
+  font-size: 12px;
+  line-height: 1em;
+  margin-top: 5px;
+  overflow: hidden
+}
+.cie{
+  padding: .5rem;
+}
+.wadiz{
+  padding: 5px;
+}
+.kakao-together{
+  margin-top: 0;
 }
 .kakao-together a{
   color:#212121;
@@ -301,13 +334,16 @@ footer{
   .kakao-together{
     display: none;
   }
-  .floating-kakao{
+  .floating-donation{
     display: block;
   }
   .status-now .card-body.status-jeju{
     height: auto;
     padding: 20px 0;
   }    
+  .sidebar{
+    overflow-y: auto;
+  }
   .sidebar .nav-item .nav-link{
     padding-top: .15rem;
     padding-bottom: .15rem;
@@ -315,17 +351,26 @@ footer{
 }
 @media (max-width: 760px) {
   h1.title{
-    font-size: 1.5rem
+    font-size: 1.5rem;
+    width: 100%;
+    text-align: center;
+  }
+  .float-right{
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 11px;
   }
   #sidebarToggleTop{
     position: absolute;
-    left: 0;
-    bottom: 0;
+    left: 5px;
+    top: 15px;
+    font-size: 20px;
     line-height: 1em;
   }
   header{
     height: 65px;
-    padding: 12px;
   }
   header h1 img{
     width: 18px;
@@ -338,6 +383,9 @@ footer{
   .sidebar{
     width:auto;
     top: 65px;
+  }
+  .sidebar .wadiz, .sidebar .cie{
+    display: none;
   }
   .container-wrap{
     margin-top: 0;
@@ -352,5 +400,8 @@ footer{
   }
   .table-responsive>.table-bordered{
     width: 500px;
+  }
+  .m-mt-1{
+    margin-top: 10px;
   }
 }
