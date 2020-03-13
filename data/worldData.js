@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2022,
+        "확진자수": 2030,
         "사망자수": 41,
         "완치자수": 31
     },
@@ -60,15 +60,15 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "확진자수": 1138,
-        "사망자수": 10,
+        "확진자수": 1139,
+        "사망자수": 11,
         "완치자수": 4
     },
     {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 937,
+        "확진자수": 940,
         "사망자수": 1,
         "완치자수": 1
     },
@@ -293,7 +293,7 @@ var marker = [
         "Name_ch": "印度",
         "Name_en": "India",
         "확진자수": 82,
-        "사망자수": 1,
+        "사망자수": 2,
         "완치자수": 10
     },
     {
@@ -473,6 +473,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "파키스탄",
+        "Name_ch": "巴基斯坦",
+        "Name_en": "Pakistan",
+        "확진자수": 28,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
@@ -511,14 +519,6 @@ var marker = [
         "확진자수": 25,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "파키스탄",
-        "Name_ch": "巴基斯坦",
-        "Name_en": "Pakistan",
-        "확진자수": 24,
-        "사망자수": 0,
-        "완치자수": 2
     },
     {
         "Name": "남아프리카 공화국",
@@ -777,6 +777,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
@@ -820,14 +828,6 @@ var marker = [
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "확진자수": 3,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
