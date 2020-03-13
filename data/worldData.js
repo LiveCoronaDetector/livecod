@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1746,
+        "확진자수": 1747,
         "사망자수": 41,
         "완치자수": 31
     },
@@ -545,14 +545,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "남아프리카 공화국",
-        "Name_ch": "南非共和国",
-        "Name_en": "South Africa",
-        "확진자수": 17,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
@@ -564,6 +556,14 @@ var marker = [
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
+        "확진자수": 16,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "남아프리카 공화국",
+        "Name_ch": "南非共和国",
+        "Name_en": "South Africa",
         "확진자수": 16,
         "사망자수": 0,
         "완치자수": 0
