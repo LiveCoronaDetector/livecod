@@ -68,7 +68,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 825,
+        "확진자수": 828,
         "사망자수": 1,
         "완치자수": 1
     },
@@ -81,20 +81,20 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "일본",
+        "Name_ch": "日本",
+        "Name_en": "Japan",
+        "확진자수": 700,
+        "사망자수": 19,
+        "완치자수": 118
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "日本 邮轮",
         "Name_en": "Diamond Princess",
         "확진자수": 696,
         "사망자수": 7,
         "완치자수": 325
-    },
-    {
-        "Name": "일본",
-        "Name_ch": "日本",
-        "Name_en": "Japan",
-        "확진자수": 692,
-        "사망자수": 19,
-        "완치자수": 118
     },
     {
         "Name": "스웨덴",
@@ -385,6 +385,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "팔레스타인",
+        "Name_ch": "巴勒斯坦",
+        "Name_en": "Palestine",
+        "확진자수": 35,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
@@ -428,14 +436,6 @@ var marker = [
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "확진자수": 31,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "팔레스타인",
-        "Name_ch": "巴勒斯坦",
-        "Name_en": "Palestine",
         "확진자수": 31,
         "사망자수": 0,
         "완치자수": 0
@@ -745,17 +745,17 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "리히텐슈타인",
-        "Name_ch": "列支敦士登",
-        "Name_en": "Liechtenstein",
-        "확진자수": 4,
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "확진자수": 5,
         "사망자수": 0,
         "완치자수": 0
     },
     {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
+        "Name": "리히텐슈타인",
+        "Name_ch": "列支敦士登",
+        "Name_en": "Liechtenstein",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
@@ -884,6 +884,14 @@ var marker = [
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
