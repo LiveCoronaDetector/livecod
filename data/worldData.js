@@ -68,7 +68,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 895,
+        "확진자수": 897,
         "사망자수": 1,
         "완치자수": 1
     },
@@ -169,20 +169,20 @@ var marker = [
         "완치자수": 26
     },
     {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "확진자수": 197,
+        "사망자수": 0,
+        "완치자수": 32
+    },
+    {
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
         "확진자수": 158,
         "사망자수": 1,
         "완치자수": 11
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "확진자수": 158,
-        "사망자수": 0,
-        "완치자수": 32
     },
     {
         "Name": "핀란드",
@@ -593,14 +593,6 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "콜롬비아",
-        "Name_ch": "哥伦比亚",
-        "Name_en": "Colombia",
-        "확진자수": 14,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -620,6 +612,14 @@ var marker = [
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
+        "확진자수": 13,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "콜롬비아",
+        "Name_ch": "哥伦比亚",
+        "Name_en": "Colombia",
         "확진자수": 13,
         "사망자수": 0,
         "완치자수": 0
@@ -657,6 +657,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
@@ -668,14 +676,6 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 8,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
         "확진자수": 8,
         "사망자수": 0,
         "완치자수": 0
