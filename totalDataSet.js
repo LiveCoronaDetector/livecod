@@ -1,6 +1,6 @@
 // 업데이트 일시 함수(자동)
 var updateTarget = document.getElementById("text-update-datetime");
-updateTarget.innerHTML = 크롤러_지역별현황[크롤러_지역별현황.length-1]['업데이트날짜'];
+updateTarget.innerHTML = koreaRegionalData[koreaRegionalData.length-1]['업데이트날짜'];
 
 //세계지도에 표시할 데이터 추가, 아래 데이터는 메인페이지 최상단 데이터와 연결되어 있음(자동)
 marker.push({
@@ -9,26 +9,26 @@ marker.push({
   "Name_ch": "韩国",
   "lat": 37.5456299,
   "lng": 126.9540667,
-  "확진자수": 크롤러_지역별현황[0]['확진자수'],
-  "사망자수": 크롤러_지역별현황[0]['사망자수'],
-  "완치자수": 크롤러_지역별현황[0]['격리해제수'],
-  "십만명당발생율": 크롤러_지역별현황[0]['십만명당발생율']
+  "확진자수": koreaRegionalData[0]['확진자수'],
+  "사망자수": koreaRegionalData[0]['사망자수'],
+  "완치자수": koreaRegionalData[0]['격리해제수'],
+  "십만명당발생율": koreaRegionalData[0]['십만명당발생율']
 })
 
 
-for (var i = 0; i < 크롤러_지역별현황.length; i++) {
-  if(크롤러_지역별현황[i]['지역이름'] == '제주'){
+for (var i = 0; i < koreaRegionalData.length; i++) {
+  if(koreaRegionalData[i]['지역이름'] == '제주'){
     marker.push({
       "Name": "제주",
       "Name_en": "Jeju",
       "Name_ch": "濟州",
       "lat": 33.50972,
       "lng": 126.52194,
-      "확진자수": 크롤러_지역별현황[i]['확진자수'],
-      "사망자수": 크롤러_지역별현황[i]['사망자수'],
-      "완치자수": 크롤러_지역별현황[i]['격리해제수'],
+      "확진자수": koreaRegionalData[i]['확진자수'],
+      "사망자수": koreaRegionalData[i]['사망자수'],
+      "완치자수": koreaRegionalData[i]['격리해제수'],
     })
-    // console.log(크롤러_지역별현황[i]['확진자수'], 크롤러_지역별현황[i]['사망자수'], 크롤러_지역별현황[i]['격리해제수'])
+    // console.log(koreaRegionalData[i]['확진자수'], koreaRegionalData[i]['사망자수'], koreaRegionalData[i]['격리해제수'])
   }
 }
 
@@ -36,7 +36,7 @@ for (var i = 0; i < 크롤러_지역별현황.length; i++) {
 // 1. 아래 데이터는 민감데이터로 크롤링에 의존하지 않는 데이터입니다.
 //    긴급할 경우 아래 데이터만 수정하여 push 해주세요.
 // 2. 크롤러_통합.py를 실행시키시고, 모두 push해주시면 됩니다.
-//    크롤러_세계확진자.js, 크롤러_지역별현황.js가 뽑힙니다.
+//    크롤러_세계확진자.js, koreaRegionalData.js가 뽑힙니다.
 // 3. 크롤러가 동작하지 않을 경우 수동업데이트해야 합니다.
 // 4. 지역별 현황 사이트(질병관리본부 홈페이지) : http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=13&ncvContSeq=&contSeq=&board_id=&gubun=
 // 5. 세계 현황 사이트 : https://www.worldometers.info/coronavirus/
@@ -174,9 +174,9 @@ var _marker = JSON.parse(JSON.stringify(marker));
 
 // 업데이트 시간
 var 지역별확진자_업데이트_시간 = "";
-for (var i = 0; i < 크롤러_지역별현황.length; i++) {
-  if(크롤러_지역별현황[i]['업데이트날짜']){
-    지역별확진자_업데이트_시간 = 크롤러_지역별현황[i]['업데이트날짜'];
+for (var i = 0; i < koreaRegionalData.length; i++) {
+  if(koreaRegionalData[i]['업데이트날짜']){
+    지역별확진자_업데이트_시간 = koreaRegionalData[i]['업데이트날짜'];
   }
 }
 
