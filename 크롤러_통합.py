@@ -927,7 +927,7 @@ datas = soup.select('#main_table_countries > tbody > tr')
   },
   {
     "Name": "아일랜드",
-    "Name_en": "Iceland",
+    "Name_en": "Ireland",
     "Name_ch": "冰岛",
     "lat": 64.963051,
     "lng": -19.020835,
@@ -1105,6 +1105,11 @@ for d in datas:
             name_ch = value['Name_ch']
 
     #지도 SVG 이름 동기화(아래 USA는 크롤링된 영어이름)
+    if 국가이름.strip() == 'USA':
+        #여기에 SVG파일에 있는 국가명으로 변경
+        국가이름 = 'United States'
+
+    #잘못된 영어이름 수정
     if 국가이름.strip() == 'USA':
         #여기에 SVG파일에 있는 국가명으로 변경
         국가이름 = 'United States'

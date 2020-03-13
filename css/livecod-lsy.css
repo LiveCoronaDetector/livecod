@@ -306,7 +306,7 @@ header h6 {
   width: 4px;
   height: 4px;
   background: #cc0041;
-}  
+}
 
 .cases-route-map .info-box{
   margin-top: 15px;
@@ -340,7 +340,7 @@ footer{
   .status-now .card-body.status-jeju{
     height: auto;
     padding: 20px 0;
-  }    
+  }
   .sidebar{
     overflow-y: auto;
   }
