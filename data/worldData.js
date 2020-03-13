@@ -60,8 +60,8 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "확진자수": 1135,
-        "사망자수": 7,
+        "확진자수": 1137,
+        "사망자수": 9,
         "완치자수": 4
     },
     {
@@ -89,20 +89,20 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "덴마크",
+        "Name_ch": "丹麦",
+        "Name_en": "Denmark",
+        "확진자수": 801,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
         "확진자수": 798,
         "사망자수": 10,
         "완치자수": 18
-    },
-    {
-        "Name": "덴마크",
-        "Name_ch": "丹麦",
-        "Name_en": "Denmark",
-        "확진자수": 788,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "일본",
@@ -124,7 +124,7 @@ var marker = [
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "확진자수": 556,
+        "확진자수": 559,
         "사망자수": 3,
         "완치자수": 1
     },
@@ -393,6 +393,14 @@ var marker = [
         "완치자수": 16
     },
     {
+        "Name": "칠레",
+        "Name_ch": "智利",
+        "Name_en": "Chile",
+        "확진자수": 43,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
@@ -422,14 +430,6 @@ var marker = [
         "Name_en": "Albania",
         "확진자수": 33,
         "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "칠레",
-        "Name_ch": "智利",
-        "Name_en": "Chile",
-        "확진자수": 33,
-        "사망자수": 0,
         "완치자수": 0
     },
     {
@@ -769,6 +769,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Turkey",
+        "Name_ch": "",
+        "Name_en": "Turkey",
+        "확진자수": 5,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
@@ -908,14 +916,6 @@ var marker = [
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Turkey",
-        "Name_ch": "",
-        "Name_en": "Turkey",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
