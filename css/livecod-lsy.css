@@ -355,7 +355,8 @@ footer{
     width: 100%;
     text-align: center;
   }
-  .float-right{
+  header
+  .h6.float-right{
     float: none;
     width: 100%;
     text-align: center;
