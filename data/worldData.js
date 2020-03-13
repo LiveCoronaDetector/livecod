@@ -68,7 +68,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 905,
+        "확진자수": 908,
         "사망자수": 1,
         "완치자수": 1
     },
@@ -777,6 +777,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
@@ -905,14 +913,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Kazakhstan",
-        "Name_ch": "",
-        "Name_en": "Kazakhstan",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
@@ -959,6 +959,14 @@ var marker = [
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 1
+    },
+    {
+        "Name": "Antigua and Barbuda",
+        "Name_ch": "",
+        "Name_en": "Antigua and Barbuda",
+        "확진자수": 1,
+        "사망자수": 0,
+        "완치자수": 0
     },
     {
         "Name": "부탄",
