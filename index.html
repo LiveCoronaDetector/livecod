@@ -48,8 +48,10 @@
 <!-- Page Heading -->
 
 <body id="page-top">
-  <div class="floating-kakao">
-    <a href="https://together.kakao.com/tags/%EC%BD%94%EB%A1%9C%EB%82%9819" target="_blank"></a>
+  <div class="floating-donation">
+    <a href="https://together.kakao.com/tags/%EC%BD%94%EB%A1%9C%EB%82%9819" class="kakao" target="_blank"></a><br>
+    <a href="https://www.wadiz.kr/web/campaign/detail/61863" class="wadiz" target="_blank"></a><br>
+    <a href="http://www.jejuilbo.net/news/articleView.html?idxno=140662" class="cie" target="_blank"></a>
   </div>
   <header>
     <h1 class="title float-left">
@@ -99,21 +101,33 @@
           <span>마스크 재고 맵</span>
         </a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#jejuMedicine">
+          <span>제주도 마스크, 손세정제 구입처</span>
+        </a>
+      </li>
       <!-- Divider -->
       <hr class="sidebar-divider">
 
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link" href="#safetyRule">
-          <span>안전수칙, 팩트체크, 소상공인 지원사업, 아이돌봄 지원사업</span>
+          <span>안전수칙</span>
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#jejuMedicine">
-          <span>제주도 마스크, 손세정제 구입처</span>
+        <a class="nav-link" href="#" data-toggle="collapse" data-target="#collapseSupport" aria-expanded="true" aria-controls="collapseSupport">
+          <span>정부지원사업</span>
         </a>
+        <div id="collapseSupport" class="collapse" aria-labelledby="headingSupport" data-parent="#accordionSidebar">
+          <div class="bg-white py-2 collapse-inner rounded">
+            <a class="collapse-item" href="https://www.notion.so/a80c76132f8b4a63a6f4901b1320bf62" target="_blank">자기동선기록 가이드</a>
+            <a class="collapse-item" href="https://news.naver.com/main/factcheck/main.nhn" target="_blank">팩트체크</a>
+            <a class="collapse-item" href="https://www.notion.so/paullab/73a19000672149559cd949c018a202f8" target="_blank">소상공인 지원사업</a>
+            <a class="collapse-item" href="https://neighbor-house.tistory.com/148" target="_blank">아이돌봄 지원사업</a>
+          </div>
+        </div>
       </li>
-
       <!-- Divider -->
       <hr class="sidebar-divider d-none d-md-block">
 
@@ -127,6 +141,16 @@
           <p>[긴급모급]</p>
           <p>코로나19, 함께 이겨내요!</p>
           <img src="./img/kakao_img.png" alt="긴급모급 코로나19, 함께 이겨내요!" />
+        </a>
+      </div>
+      <div class="wadiz">
+        <a href="https://www.wadiz.kr/web/campaign/detail/61863">
+          <img src="./img/wadiz.png" alt="대구/경북에 희망을!" />
+        </a>
+      </div>
+      <div class="cie">
+        <a href="http://www.jejuilbo.net/news/articleView.html?idxno=140662">
+          <img src="./img/logo_cie.png" alt="캐치잇 잉글리시" />
         </a>
       </div>
     </ul>
@@ -1150,8 +1174,8 @@
                   </ul>
                   <p style="margin-top:1rem">
                     <a target="_blank" class="btn btn-primary" href="http://www.mohw.go.kr/react/popup_200128.html" role="button">코로나19 선별진료소 및 안심병원(전국)</a>
-                    <button type="button" class="btn btn-primary" data-toggle="modal" onclick="location.href='https://jeju.livecorona.co.kr'">자세한 지도 확인</button>
-                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#jejuHealthCenter">제주 보건지소현황</button>
+                    <button type="button" class="btn btn-primary m-mt-1" data-toggle="modal" onclick="location.href='https://jeju.livecorona.co.kr'">자세한 지도 확인</button>
+                    <button type="button" class="btn btn-primary m-mt-1" data-toggle="modal" data-target="#jejuHealthCenter">제주 보건지소현황</button>
                     <!-- Modal -->
                     <div class="modal fade" id="jejuHealthCenter" tabindex="-1" role="dialog" aria-labelledby="jejuHealthCenterLabel" aria-hidden="true">
                       <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
@@ -1661,8 +1685,8 @@
     <i class="fas fa-angle-up"></i>
   </a>
 
-  <script src="크롤러_세계확진자.js"></script>
-  <script src="크롤러_지역별현황.js"></script>
+  <script src="data/worldData.js"></script>
+  <script src="data/koreaRegionalData.js"></script>
   <script src="totalDataSet.js"></script>
 
   <script>
@@ -1849,11 +1873,16 @@
       setCookie("alertBannerClosed", bannerCount, 12);
     });
 
+    $(document).ready(function(){
+      // Toggle the side navigation
+      $("#sidebarToggle, #sidebarToggleTop").on('click', function(e) {
+        $(".content").toggleClass("expended");
+        $(this).children('i').toggleClass("fa-chevron-circle-left fa-bars");
+      });
 
-    // Toggle the side navigation
-    $("#sidebarToggle, #sidebarToggleTop").on('click', function(e) {
-      $(".content").toggleClass("expended");
-      $(this).children('i').toggleClass("fa-chevron-circle-left fa-bars");
+      if($(window).width() < 760){
+        $('#sidebarToggleTop').trigger('click');
+      };
     });
 
     // 배너를 숨기고 싶으면 아래 코드를 주석처리하세요
