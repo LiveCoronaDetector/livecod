@@ -49,16 +49,17 @@
 
 <body id="page-top">
   <div class="floating-donation">
-    <a href="https://together.kakao.com/tags/%EC%BD%94%EB%A1%9C%EB%82%9819" class="kakao" target="_blank"></a><br>
-    <a href="https://www.wadiz.kr/web/campaign/detail/61863" class="wadiz" target="_blank"></a><br>
-    <a href="http://www.jejuilbo.net/news/articleView.html?idxno=140662" class="cie" target="_blank"></a>
+    <!-- Button trigger modal -->
+    <button type="button" class="btn" data-toggle="modal" data-target="#togetherModal">
+      <img src="./img/donation.svg" alt="마음을 모아요">
+    </button>
   </div>
   <header>
     <h1 class="title float-left">
       <img src='img/live.svg' /> 라이브 코로나 맵
     </h1>
     <h6 class="float-right">
-      <span id="text-update-datetime" class="text-update"></span> 최종 업데이트(일일 자정 질병관리본부 브리핑 자료)
+      <div class="m-update">UPDATE : <span id="text-update-datetime" class="text-update"></span></div><div class="m-none">(일일 자정 질병관리본부 브리핑 자료)</div>
     </h6>
     <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle">
         <i class="fas fa-chevron-circle-left"></i>
@@ -136,22 +137,12 @@
         <button class="rounded-circle border-0" id="sidebarToggle"></button>
       </div>
 
-      <div class="kakao-together">
-        <a href="https://together.kakao.com/tags/%EC%BD%94%EB%A1%9C%EB%82%9819" target="_blank">
-          <p>[긴급모급]</p>
-          <p>코로나19, 함께 이겨내요!</p>
-          <img src="./img/kakao_img.png" alt="긴급모급 코로나19, 함께 이겨내요!" />
-        </a>
-      </div>
-      <div class="wadiz">
-        <a href="https://www.wadiz.kr/web/campaign/detail/61863">
-          <img src="./img/wadiz.png" alt="대구/경북에 희망을!" />
-        </a>
-      </div>
-      <div class="cie">
-        <a href="http://www.jejuilbo.net/news/articleView.html?idxno=140662">
-          <img src="./img/logo_cie.png" alt="캐치잇 잉글리시" />
-        </a>
+      <!-- Button trigger modal -->
+      <div class="together_wrap">
+        <button type="button" class="btn btn_together" data-toggle="modal" data-target="#togetherModal">
+          <img src="./img/donation.svg" alt="마음을 모아요"><br>
+        </button>
+        <p>마음을 모아요!</p>
       </div>
     </ul>
     <!-- Content Wrapper -->
@@ -633,42 +624,48 @@
                       <h6 class="m-0 font-weight-bold text-danger">마스크 5부제</h6>
                       <div class="right"><a class="new_window" href="http://www.moef.go.kr/com/synap/synapView.do?atchFileId=ATCH_000000000013410&fileSn=1" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                     </div>
-
                     <div class="card-body">
-                      <table class="table table-striped table-responsive text-center">
-                        <thead>
-                          <tr class="row">
-                            <th class="col-8">출생연도 끝자리</th>
-                            <th class="col-4">요일</th>
-                          </tr>
-                        </thead>
-                        <tbody>
-                          <tr class="row">
-                            <td class="col-8">1 , 6</td>
-                            <td class="col-4">월요일</td>
-                          </tr>
-                          <tr class="row">
-                            <td class="col-8">2 , 7</td>
-                            <td class="col-4">화요일</td>
-                          </tr>
-                          <tr class="row">
-                            <td class="col-8">3 , 8</td>
-                            <td class="col-4">수요일</td>
-                          </tr>
-                          <tr class="row">
-                            <td class="col-8">4 , 9</td>
-                            <td class="col-4">목요일</td>
-                          </tr>
-                          <tr class="row">
-                            <td class="col-8">5 , 0</td>
-                            <td class="col-4">금요일</td>
-                          </tr>
-                          <tr class="row">
-                            <td class="col-8">출생연도 관계없이 <br/>평일에 구입하지 못한 사람들 구매 가능</td>
-                            <td class="col-4">주말<br/>(토 , 일)</td>
-                          </tr>
-                        </tbody>
-                      </table>
+                      <div class="table-responsive">
+                        <div class="text-right mb-1">ex)198<span class="text-danger">1</span> : 월요일</div>
+                        <table class="table table-striped text-center">
+                          <colgroup>
+                            <col style="width:50%" />
+                            <col style="width:50%" />
+                          </colgroup>
+                          <thead>
+                            <tr>
+                              <th>출생연도 끝자리</th>
+                              <th>요일</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>1 , 6</td>
+                              <td>월요일</td>
+                            </tr>
+                            <tr>
+                              <td>2 , 7</td>
+                              <td>화요일</td>
+                            </tr>
+                            <tr>
+                              <td>3 , 8</td>
+                              <td>수요일</td>
+                            </tr>
+                            <tr>
+                              <td>4 , 9</td>
+                              <td>목요일</td>
+                            </tr>
+                            <tr>
+                              <td>5 , 0</td>
+                              <td>금요일</td>
+                            </tr>
+                            <tr>
+                              <td>출생연도 관계없이 <br/>평일에 구입하지 못한 사람들 구매 가능</td>
+                              <td>주말<br/>(토 , 일)</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
                       <h5 style="font-weight: 600;">마스크 직접 구매</h5>
                       <ul>
                         <li>운전면허증, 주민등록증, 여권 등의 신분증을 지참</li>
@@ -1676,6 +1673,41 @@
       <!-- End of Footer -->
     </div>
     <!-- End of Content Wrapper -->
+    <!-- Modal : Together -->
+    <div class="modal fade" id="togetherModal" tabindex="-1" role="dialog" aria-labelledby="togetherModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="togetherModalLabel">마음을 모아요</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body text-center">
+            <div class="row">
+              <div class="col-6">
+                <a href="https://together.kakao.com/tags/%EC%BD%94%EB%A1%9C%EB%82%9819" target="_blank"><span class="tag">모금</span><img src="./img/kakao.png" alt=""></a>
+                <h6>카카오 같이가치</h6>
+              </div>
+              <div class="col-6">
+                <a href="https://www.wadiz.kr/web/campaign/detail/61863" target="_blank"><span class="tag">모금</span><img src="./img/wadiz.png" alt=""></a>
+                <h6>대구/경북에 희망을!Hope Together with 신한</h6>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-6">
+                <a href="http://www.jejuilbo.net/news/articleView.html?idxno=140662" target="_blank"><span class="tag color2">무료앱</span><img src="./img/logo_cie.png" alt=""></a>
+                <h6>캐치잇 잉글리시</h6>
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- //Modal -->
 
   </div>
   <!-- End of Page Wrapper -->

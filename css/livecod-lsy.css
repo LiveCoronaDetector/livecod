@@ -81,41 +81,40 @@ iframe{
 .update .title{
   background: #1cc88a;
 }
-
 .floating-donation{
   display: none;
   position: fixed;
   right: 10px;
   top: 75px;
-  z-index: 10
+  z-index: 10;
 }
-.floating-donation a.kakao{
-  display: inline-block;
-  width: 42px;
-  height: 42px;
-  background: url('https://mud-kage.kakaocdn.net/dn/qSYuH/btqCoAkEBFY/bCZ0Tt5kZIG8kKXHkNkqLk/img.png') -37px 4px no-repeat #fddd50;
-  background-size: 84px;
-  border-radius: 50%;
+.floating-donation button{
+  width: 50px;
+  height: 50px;
+  padding:0;
 }
-.floating-donation a.wadiz{
-  display: inline-block;
-  width: 42px;
-  height: 42px;
-  background: url('../img/wadiz.png') -18px 0 no-repeat;
-  background-size: 84px;
-  border-radius: 50%;
-  border: 1px solid #f1f1f1;
-  margin-top: 0;
+#togetherModal h6{
+  margin-top: 10px;
+  margin-bottom: 0;
 }
-.floating-donation a.cie{
-  display: inline-block;
-  width: 42px;
-  height: 42px;
-  background: url('../img/logo_cie.png') -5px 8px no-repeat #fff;
-  background-size: 50px;
-  border-radius: 50%;
-  border: 1px solid #f1f1f1;
-  margin-top: 0;
+#togetherModal a{
+  position: relative;
+  display: block;
+  border: 1px solid #cecece;
+  overflow: hidden
+}
+#togetherModal .tag{
+  position: absolute;
+  left: -26px;
+  top: 10px;
+  font-size: 12px;
+  background: rgba(140, 211, 46, 0.7);
+  transform: rotate(-45deg);
+  width: 90px;
+  color: #fff;
+}
+#togetherModal .tag.color2{
+  background: rgba(47, 120, 204, 0.7);
 }
 header{
   border-bottom: 1px solid #e3e6f0;
@@ -134,6 +133,15 @@ header h1 img{
 header h6 {
   margin: 0;
   margin-top: 10px;
+}
+header .m-update, header .m-none{
+  display: inline-block;
+}
+header .m-update{
+  font-weight: bold
+}
+header .m-none{
+  margin-left: 5px;
 }
 .card-header{
   position: relative;
@@ -207,6 +215,17 @@ header h6 {
 }
 .sidebar .nav-item .nav-link{
   padding:.5rem 1rem
+}
+.together_wrap{
+  display: block;
+  text-align: center;
+  color:#fff;
+}
+.sidebar .btn_together{
+  width: 60%;
+}
+.together_wrap p{
+  margin-bottom: 0;
 }
 .sticky-footer{
   position: relative;
@@ -348,48 +367,54 @@ footer{
     padding-top: .15rem;
     padding-bottom: .15rem;
   }
+  .m-mt-1{
+    margin-top: 0;
+  }
 }
 @media (max-width: 760px) {
   h1.title{
     font-size: 1.5rem;
     width: 100%;
     text-align: center;
-  }
-  header
-  .h6.float-right{
-    float: none;
-    width: 100%;
-    text-align: center;
-    margin-top: 5px;
-    font-size: 11px;
+    padding: 4px 0;
   }
   #sidebarToggleTop{
     position: absolute;
     left: 5px;
-    top: 15px;
+    top: 50%;
     font-size: 20px;
     line-height: 1em;
+    transform: translateY(calc(-50% + 7px));
   }
   header{
-    height: 65px;
+    height:auto;
+    padding:25px 0 10px;
   }
   header h1 img{
     width: 18px;
   }
-  header h6{
-    font-size: 12px;
-    margin-top: 0;
-    width: 45%;
+  header h6.float-right .m-none{
+    display: none;
+  }
+  header .m-update{
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 11px;
+    background: #e74a3b;
+    padding: 2px 4px;
+    color:#fff;
   }
   .sidebar{
     width:auto;
     top: 65px;
   }
-  .sidebar .wadiz, .sidebar .cie{
-    display: none;
-  }
   .container-wrap{
     margin-top: 0;
+  }
+  .sidebar .btn_together,.together_wrap p{
+    display: none;
   }
   .content{
     margin-left: 0;
