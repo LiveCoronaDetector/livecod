@@ -15,7 +15,7 @@ marker.sort(function (a, b) {
   return a.확진자수 < b.확진자수 ? 1 : -1;
 });
 
-for (var i = 0; i < 5; i++) {
+for (var i = 0; i < 15; i++) {
   var percentage = marker[i].확진자수 / 모든확진자수 * 100;
   var TOP5_치명율 = (marker[i].사망자수 / marker[i].확진자수 * 100).toFixed(2);
   var TOP5_완치율 = (marker[i].완치자수 / marker[i].확진자수 * 100).toFixed(2);
