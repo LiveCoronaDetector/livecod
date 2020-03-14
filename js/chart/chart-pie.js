@@ -25,8 +25,8 @@ for (var i = 0; i < 5; i++) {
   Number(marker[i].확진자수).toLocaleString() +
   "<span class='float-right'>" +
   Math.round(percentage * 100) / 100 + "%" +
-  "(치명율 : " + TOP5_치명율 +
-  ", 완치율 : "  + TOP5_완치율 + ")" +
+  "(치명률 : " + TOP5_치명율 +
+  "%, 완치율 : "  + TOP5_완치율 + "%)" +
   "</span>";
   topNumber[i].style.width = percentage + "%";
 }
