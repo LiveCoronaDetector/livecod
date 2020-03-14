@@ -85,7 +85,7 @@ var marker = [
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
         "확진자수": 821,
-        "사망자수": 1,
+        "사망자수": 2,
         "완치자수": 1
     },
     {
@@ -501,7 +501,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Bulgaria",
         "확진자수": 31,
-        "사망자수": 1,
+        "사망자수": 2,
         "완치자수": 0
     },
     {
@@ -535,6 +535,14 @@ var marker = [
         "확진자수": 26,
         "사망자수": 1,
         "완치자수": 0
+    },
+    {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "확진자수": 26,
+        "사망자수": 0,
+        "완치자수": 1
     },
     {
         "Name": "코스타리카",
@@ -589,14 +597,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Malta",
         "확진자수": 18,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "확진자수": 17,
         "사망자수": 0,
         "완치자수": 1
     },
@@ -677,6 +677,14 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Bolivia",
         "확진자수": 10,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Faeroe Islands",
+        "Name_ch": "",
+        "Name_en": "Faeroe Islands",
+        "확진자수": 9,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -844,14 +852,6 @@ var marker = [
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "확진자수": 3,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Faeroe Islands",
-        "Name_ch": "",
-        "Name_en": "Faeroe Islands",
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
