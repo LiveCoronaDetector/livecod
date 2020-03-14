@@ -76,7 +76,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 1052,
+        "확진자수": 1053,
         "사망자수": 2,
         "완치자수": 1
     },
@@ -201,6 +201,14 @@ var marker = [
         "완치자수": 97
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "확진자수": 189,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
@@ -215,14 +223,6 @@ var marker = [
         "확진자수": 178,
         "사망자수": 0,
         "완치자수": 4
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "확진자수": 175,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "포르투갈",
@@ -377,6 +377,14 @@ var marker = [
         "완치자수": 35
     },
     {
+        "Name": "칠레",
+        "Name_ch": "智利",
+        "Name_en": "Chile",
+        "확진자수": 61,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
@@ -413,14 +421,6 @@ var marker = [
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
         "확진자수": 44,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "칠레",
-        "Name_ch": "智利",
-        "Name_en": "Chile",
-        "확진자수": 43,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -609,6 +609,22 @@ var marker = [
         "완치자수": 9
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
@@ -633,28 +649,12 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "확진자수": 16,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
         "확진자수": 15,
         "사망자수": 1,
         "완치자수": 3
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "확진자수": 15,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "North Macedonia",
