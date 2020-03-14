@@ -76,7 +76,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 1042,
+        "확진자수": 1046,
         "사망자수": 2,
         "완치자수": 1
     },
@@ -92,7 +92,7 @@ var marker = [
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "확진자수": 948,
+        "확진자수": 953,
         "사망자수": 2,
         "완치자수": 1
     },
@@ -305,6 +305,14 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "인도",
+        "Name_ch": "印度",
+        "Name_en": "India",
+        "확진자수": 97,
+        "사망자수": 2,
+        "완치자수": 10
+    },
+    {
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
@@ -359,14 +367,6 @@ var marker = [
         "확진자수": 85,
         "사망자수": 0,
         "완치자수": 20
-    },
-    {
-        "Name": "인도",
-        "Name_ch": "印度",
-        "Name_en": "India",
-        "확진자수": 84,
-        "사망자수": 2,
-        "완치자수": 10
     },
     {
         "Name": "태국",
@@ -665,6 +665,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Moldova",
+        "Name_ch": "",
+        "Name_en": "Moldova",
+        "확진자수": 12,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
@@ -745,6 +753,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "French Guiana",
+        "Name_ch": "",
+        "Name_en": "French Guiana",
+        "확진자수": 7,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
@@ -761,14 +777,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "French Guiana",
-        "Name_ch": "",
-        "Name_en": "French Guiana",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
@@ -780,14 +788,6 @@ var marker = [
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Moldova",
-        "Name_ch": "",
-        "Name_en": "Moldova",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
