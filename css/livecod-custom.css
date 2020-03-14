@@ -65,8 +65,8 @@ h1.title {
   padding-bottom: 1.5rem;
 }
 /*제주 입도 현황 height 조절*/
-@media (max-width: 768px){
-  .jeju_in .card-body .chart-area{
+@media (max-width: 768px) {
+  .jeju_in .card-body .chart-area {
     height: 15rem;
   }
 }
@@ -88,8 +88,8 @@ h1.title {
 }
 
 /*IE 행동수칙 height 버그 수정 */
-.card-body{
-  min-height:50px;
+.card-body {
+  min-height: 50px;
 }
 
 div.anchor {
@@ -107,7 +107,7 @@ div.anchor {
   width: 50%;
 }
 
-.korea_graph_tab .nav-item a{
+.korea_graph_tab .nav-item a {
   text-align: center;
   white-space: nowrap;
   overflow: hidden;
@@ -121,11 +121,14 @@ div.anchor {
 
 /* 플로팅 배너 */
 #floatMenu {
-	position: absolute;
-	width: 150px;
-	height: 220px;
-	left: 50px;
-	top: 400px;
-	background-color: #606060;
-	color: #fff;
+  position: absolute;
+  width: 150px;
+  height: 220px;
+  left: 50px;
+  top: 400px;
+  background-color: #606060;
+  color: #fff;
+}
+.container-max {
+  max-width: 1920px;
 }
