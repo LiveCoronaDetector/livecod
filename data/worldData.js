@@ -68,7 +68,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 1003,
+        "확진자수": 1029,
         "사망자수": 1,
         "완치자수": 1
     },
@@ -269,7 +269,7 @@ var marker = [
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
         "확진자수": 101,
-        "사망자수": 9,
+        "사망자수": 10,
         "완치자수": 24
     },
     {
@@ -652,7 +652,7 @@ var marker = [
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "확진자수": 14,
+        "확진자수": 13,
         "사망자수": 0,
         "완치자수": 1
     },
