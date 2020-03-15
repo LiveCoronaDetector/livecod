@@ -6,7 +6,7 @@ var marker = [
         "Name_en": "China",
         "확진자수": 80824,
         "사망자수": 3189,
-        "완치자수": 65573
+        "완치자수": 65578
     },
     {
         "Name": "이탈리아",
@@ -462,7 +462,7 @@ var marker = [
         "Name_en": "Croatia",
         "확진자수": 39,
         "사망자수": 0,
-        "완치자수": 1
+        "완치자수": 2
     },
     {
         "Name": "Albania",
@@ -929,6 +929,22 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Ivory Coast",
+        "Name_ch": "",
+        "Name_en": "Ivory Coast",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
@@ -1044,22 +1060,6 @@ var marker = [
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Ivory Coast",
-        "Name_ch": "",
-        "Name_en": "Ivory Coast",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
