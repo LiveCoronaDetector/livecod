@@ -76,7 +76,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 1127,
+        "확진자수": 1128,
         "사망자수": 3,
         "완치자수": 1
     },
@@ -172,9 +172,17 @@ var marker = [
         "Name": "핀란드",
         "Name_ch": "",
         "Name_en": "Finland",
-        "확진자수": 240,
+        "확진자수": 244,
         "사망자수": 0,
         "완치자수": 10
+    },
+    {
+        "Name": "체코",
+        "Name_ch": "",
+        "Name_en": "Czechia",
+        "확진자수": 231,
+        "사망자수": 0,
+        "완치자수": 0
     },
     {
         "Name": "그리스",
@@ -183,14 +191,6 @@ var marker = [
         "확진자수": 228,
         "사망자수": 4,
         "완치자수": 8
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "",
-        "Name_en": "Czechia",
-        "확진자수": 214,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "바레인",
@@ -689,6 +689,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "스리랑카",
+        "Name_ch": "",
+        "Name_en": "Sri Lanka",
+        "확진자수": 11,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
@@ -703,14 +711,6 @@ var marker = [
         "확진자수": 10,
         "사망자수": 0,
         "완치자수": 10
-    },
-    {
-        "Name": "스리랑카",
-        "Name_ch": "",
-        "Name_en": "Sri Lanka",
-        "확진자수": 10,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Bolivia",
@@ -993,6 +993,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Saint Lucia",
+        "Name_ch": "",
+        "Name_en": "Saint Lucia",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
@@ -1180,14 +1188,6 @@ var marker = [
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Saint Lucia",
-        "Name_ch": "",
-        "Name_en": "Saint Lucia",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
