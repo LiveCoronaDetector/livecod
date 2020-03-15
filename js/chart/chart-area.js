@@ -359,13 +359,18 @@ var koreaRegionalCumulativeData_날짜_Array = [];
 var koreaRegionalCumulativeData_확진자_Array = [];
 var koreaRegionalCumulativeData_전일차_Array = [];
 var koreaRegionalCumulativeData_사망자_Array = [];
+var koreaRegionalCumulativeData_완치자_Array = [];
 
 for (var i = 0; i < koreaRegionalCumulativeData.length; i++) {
   koreaRegionalCumulativeData_날짜_Array.push(koreaRegionalCumulativeData[i][0]);
   koreaRegionalCumulativeData_확진자_Array.push(koreaRegionalCumulativeData[i][1]);
   koreaRegionalCumulativeData_전일차_Array.push(koreaRegionalCumulativeData[i][2]);
   koreaRegionalCumulativeData_사망자_Array.push(koreaRegionalCumulativeData[i][3]);
+  koreaRegionalCumulativeData_완치자_Array.push(koreaRegionalCumulativeData[i][4]);
 }
+
+//수치가 안맞는 데이터 하나 삭제
+koreaRegionalCumulativeData_완치자_Array.pop()
 
 // console.log(koreaRegionalCumulativeData_날짜_Array);
 // console.log(koreaRegionalCumulativeData_확진자_Array);
@@ -421,6 +426,20 @@ var myLineChart = new Chart(ctx_four, {
       pointHitRadius: 10,
       pointBorderWidth: 2,
       data: koreaRegionalCumulativeData_사망자_Array,
+    },{
+      label: "완치자 ",
+      lineTension: 0.3,
+      backgroundColor: "rgba(28, 200, 138, 0.05)",
+      borderColor: "rgba(28, 200, 138, 1)",
+      pointRadius: 3,
+      pointBackgroundColor: "rgba(255, 115, 223, 1)",
+      pointBorderColor: "rgba(155, 115, 223, 1)",
+      pointHoverRadius: 3,
+      pointHoverBackgroundColor: "rgba(28, 200, 138, 1)",
+      pointHoverBorderColor: "rgba(28, 200, 138, 1)",
+      pointHitRadius: 10,
+      pointBorderWidth: 2,
+      data: koreaRegionalCumulativeData_완치자_Array,
     }],
   },
   options: {
