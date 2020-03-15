@@ -376,7 +376,7 @@ for (var i = 0; i < koreaRegionalCumulativeData.length; i++) {
   koreaRegionalCumulativeData_완치자_Array.push(koreaRegionalCumulativeData[i][4]);
 }
 
-//수치가 안맞는 데이터 하나 삭제
+//수치가 안맞는 데이터 하나 삭제_전일데이터가 주로 안맞음
 koreaRegionalCumulativeData_완치자_Array.pop()
 
 // console.log(koreaRegionalCumulativeData_날짜_Array);
@@ -392,7 +392,7 @@ var myLineChart = new Chart(ctx_four, {
   data: {
     labels: koreaRegionalCumulativeData_날짜_Array,
     datasets: [{
-      label: "한국 확진자",
+      label: "한국 확진자 ",
       lineTension: 0.3,
       backgroundColor: "rgba(78, 115, 223, 0.05)",
       borderWidth: 1,
@@ -407,7 +407,7 @@ var myLineChart = new Chart(ctx_four, {
       pointBorderWidth: 0,
       data: koreaRegionalCumulativeData_확진자_Array,
     },{
-      label: "전일대비 증가",
+      label: "전일대비 증가 ",
       lineTension: 0.3,
       backgroundColor: "rgba(28, 200, 138, 0.05)",
       borderWidth: 1,
@@ -422,7 +422,7 @@ var myLineChart = new Chart(ctx_four, {
       pointBorderWidth: 0,
       data: koreaRegionalCumulativeData_전일차_Array,
     },{
-      label: "사망자",
+      label: "사망자 ",
       lineTension: 0.3,
       backgroundColor: "rgba(54, 185, 204, 0.05)",
       borderWidth: 1,
@@ -437,7 +437,7 @@ var myLineChart = new Chart(ctx_four, {
       pointBorderWidth: 0,
       data: koreaRegionalCumulativeData_사망자_Array,
     },{
-      label: "완치자",
+      label: "완치자 ",
       lineTension: 0.3,
       backgroundColor: "rgba(246, 194, 62, 0.05)",
       borderWidth: 1,
@@ -567,7 +567,7 @@ var myLineChart = new Chart(ctx_five, {
       lineTension: 0.3,
       backgroundColor: "rgba(78, 115, 223, 0.05)",
       borderColor: "rgba(78, 115, 223, 1)",
-      borderWidth:1,      
+      borderWidth:1,
       pointRadius: 4,
       pointBackgroundColor: "rgba(78, 115, 223, 1)",
       pointBorderColor: "rgba(78, 115, 223, 1)",
@@ -582,7 +582,7 @@ var myLineChart = new Chart(ctx_five, {
       lineTension: 0.3,
       backgroundColor: "rgba(28, 200, 138, 0.05)",
       borderColor: "rgba(28, 200, 138, 1)",
-      borderWidth:1,      
+      borderWidth:1,
       pointRadius: 4,
       pointBackgroundColor: "rgba(28, 200, 138, 1)",
       pointBorderColor: "rgba(28, 200, 138, 1)",
