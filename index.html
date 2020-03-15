@@ -1876,10 +1876,10 @@
   </script>
 
   <script>
-    document.getElementById("치명률").innerHTML = ((분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][3] / 분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][1]) * 100).toFixed(2);
+    document.getElementById("치명률").innerHTML = ((koreaRegionalCumulativeData[koreaRegionalCumulativeData.length - 1][3] / koreaRegionalCumulativeData[koreaRegionalCumulativeData.length - 1][1]) * 100).toFixed(2);
     document.getElementById("세계치명률").innerHTML = ((사망자수 / 확진자수) * 100).toFixed(2);
 
-    document.getElementById("치명률_날짜").innerHTML = 분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][0];
+    document.getElementById("치명률_날짜").innerHTML = koreaRegionalCumulativeData[koreaRegionalCumulativeData.length - 1][0];
   </script>
 
   <script>
