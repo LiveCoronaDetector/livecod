@@ -628,7 +628,7 @@ var marker = [
         "Name": "오만",
         "Name_ch": "",
         "Name_en": "Oman",
-        "확진자수": 21,
+        "확진자수": 22,
         "사망자수": 0,
         "완치자수": 9
     },
@@ -716,6 +716,14 @@ var marker = [
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
+        "확진자수": 11,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Turkey",
+        "Name_ch": "",
+        "Name_en": "Turkey",
         "확진자수": 11,
         "사망자수": 0,
         "완치자수": 0
@@ -828,14 +836,6 @@ var marker = [
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Turkey",
-        "Name_ch": "",
-        "Name_en": "Turkey",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
