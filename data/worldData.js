@@ -356,8 +356,8 @@ var marker = [
         "Name": "산마리노",
         "Name_ch": "",
         "Name_en": "San Marino",
-        "확진자수": 101,
-        "사망자수": 5,
+        "확진자수": 109,
+        "사망자수": 7,
         "완치자수": 4
     },
     {
@@ -681,6 +681,22 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Turkey",
+        "Name_ch": "",
+        "Name_en": "Turkey",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 17,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "",
         "Name_en": "Afghanistan",
@@ -764,22 +780,6 @@ var marker = [
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
-        "확진자수": 10,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Turkey",
-        "Name_ch": "",
-        "Name_en": "Turkey",
-        "확진자수": 10,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
         "확진자수": 10,
         "사망자수": 0,
         "완치자수": 0
