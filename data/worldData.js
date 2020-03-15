@@ -113,20 +113,20 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "오스트리아",
+        "Name_ch": "",
+        "Name_en": "Austria",
+        "확진자수": 860,
+        "사망자수": 1,
+        "완치자수": 6
+    },
+    {
         "Name": "일본",
         "Name_ch": "",
         "Name_en": "Japan",
         "확진자수": 814,
         "사망자수": 24,
         "완치자수": 144
-    },
-    {
-        "Name": "오스트리아",
-        "Name_ch": "",
-        "Name_en": "Austria",
-        "확진자수": 800,
-        "사망자수": 1,
-        "완치자수": 6
     },
     {
         "Name": "일본크루즈",
@@ -412,7 +412,7 @@ var marker = [
         "Name": "베트남",
         "Name_ch": "",
         "Name_en": "Vietnam",
-        "확진자수": 54,
+        "확진자수": 56,
         "사망자수": 0,
         "완치자수": 16
     },
@@ -721,14 +721,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Turkey",
-        "Name_ch": "",
-        "Name_en": "Turkey",
-        "확진자수": 11,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "마카오",
         "Name_ch": "",
         "Name_en": "Macao",
@@ -836,6 +828,14 @@ var marker = [
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
+        "확진자수": 6,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Turkey",
+        "Name_ch": "",
+        "Name_en": "Turkey",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
