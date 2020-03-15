@@ -355,22 +355,22 @@ var myLineChart = new Chart(ctx_three, {
 
 
 // 한국 증가추이
-var 분석차트_한국누적확진자_날짜_Array = [];
-var 분석차트_한국누적확진자_확진자_Array = [];
-var 분석차트_한국누적확진자_전일차_Array = [];
-var 분석차트_한국누적확진자_사망자_Array = [];
+var koreaRegionalCumulativeData_날짜_Array = [];
+var koreaRegionalCumulativeData_확진자_Array = [];
+var koreaRegionalCumulativeData_전일차_Array = [];
+var koreaRegionalCumulativeData_사망자_Array = [];
 
-for (var i = 0; i < 분석차트_한국누적확진자.length; i++) {
-  분석차트_한국누적확진자_날짜_Array.push(분석차트_한국누적확진자[i][0]);
-  분석차트_한국누적확진자_확진자_Array.push(분석차트_한국누적확진자[i][1]);
-  분석차트_한국누적확진자_전일차_Array.push(분석차트_한국누적확진자[i][2]);
-  분석차트_한국누적확진자_사망자_Array.push(분석차트_한국누적확진자[i][3]);
+for (var i = 0; i < koreaRegionalCumulativeData.length; i++) {
+  koreaRegionalCumulativeData_날짜_Array.push(koreaRegionalCumulativeData[i][0]);
+  koreaRegionalCumulativeData_확진자_Array.push(koreaRegionalCumulativeData[i][1]);
+  koreaRegionalCumulativeData_전일차_Array.push(koreaRegionalCumulativeData[i][2]);
+  koreaRegionalCumulativeData_사망자_Array.push(koreaRegionalCumulativeData[i][3]);
 }
 
-// console.log(분석차트_한국누적확진자_날짜_Array);
-// console.log(분석차트_한국누적확진자_확진자_Array);
-// console.log(분석차트_한국누적확진자_전일차_Array);
-// console.log(분석차트_한국누적확진자_사망자_Array);
+// console.log(koreaRegionalCumulativeData_날짜_Array);
+// console.log(koreaRegionalCumulativeData_확진자_Array);
+// console.log(koreaRegionalCumulativeData_전일차_Array);
+// console.log(koreaRegionalCumulativeData_사망자_Array);
 
 
 // 한국 누적 확진자 그래프
@@ -378,7 +378,7 @@ var ctx_four = document.getElementById("myAreaChart_four");
 var myLineChart = new Chart(ctx_four, {
   type: 'line',
   data: {
-    labels: 분석차트_한국누적확진자_날짜_Array,
+    labels: koreaRegionalCumulativeData_날짜_Array,
     datasets: [{
       label: "한국 확진자 ",
       lineTension: 0.3,
@@ -392,7 +392,7 @@ var myLineChart = new Chart(ctx_four, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: 분석차트_한국누적확진자_확진자_Array,
+      data: koreaRegionalCumulativeData_확진자_Array,
     },{
       label: "전일대비 증가 ",
       lineTension: 0.3,
@@ -406,7 +406,7 @@ var myLineChart = new Chart(ctx_four, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: 분석차트_한국누적확진자_전일차_Array,
+      data: koreaRegionalCumulativeData_전일차_Array,
     },{
       label: "사망자 ",
       lineTension: 0.3,
@@ -420,7 +420,7 @@ var myLineChart = new Chart(ctx_four, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: 분석차트_한국누적확진자_사망자_Array,
+      data: koreaRegionalCumulativeData_사망자_Array,
     }],
   },
   options: {
@@ -505,10 +505,10 @@ var 확진자추이그래프_한국확진자 = [];
 var 확진자추이그래프_한국확진자편차 = [];
 var 확진자추이그래프_한국비율 = [];
 
-for (let i = 0; i < 분석차트_한국누적확진자.length; i++){
-  확진자추이그래프_date.push(분석차트_한국누적확진자[i][0]);
-  확진자추이그래프_한국확진자.push(분석차트_한국누적확진자[i][1]);
-  확진자추이그래프_한국확진자편차.push(분석차트_한국누적확진자[i][2]);
+for (let i = 0; i < koreaRegionalCumulativeData.length; i++){
+  확진자추이그래프_date.push(koreaRegionalCumulativeData[i][0]);
+  확진자추이그래프_한국확진자.push(koreaRegionalCumulativeData[i][1]);
+  확진자추이그래프_한국확진자편차.push(koreaRegionalCumulativeData[i][2]);
   확진자추이그래프_한국비율.push((확진자추이그래프_한국확진자편차[i]/확진자추이그래프_한국확진자[i])*100)
 }
 
@@ -634,9 +634,9 @@ var myLineChart = new Chart(ctx_five, {
 var 한국누적_확진 = [];
 var 한국누적_날짜 = [];
 
-for (var i = 0; i < 분석차트_한국누적확진자.length; i++) {
-  한국누적_날짜.push(분석차트_한국누적확진자[i][0]);
-  한국누적_확진.push(분석차트_한국누적확진자[i][1]);
+for (var i = 0; i < koreaRegionalCumulativeData.length; i++) {
+  한국누적_날짜.push(koreaRegionalCumulativeData[i][0]);
+  한국누적_확진.push(koreaRegionalCumulativeData[i][1]);
 }
 
 var ctx_six = document.getElementById("myAreaChart_six");
