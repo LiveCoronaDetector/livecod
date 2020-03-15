@@ -196,3 +196,6 @@ build/
 
 # IntelliJ family
 .idea/
+
+# ignore pycache
+__pycache__
