@@ -37,6 +37,6 @@ for (var i = 0; i < 15; i++) {
   top완치자[i].style.width = percentage / 100 * TOP5_완치율 + "%";
   top사망자[i].style.width = percentage / 100 * TOP5_치명율 + "%";
   top확진자[i].title = "확진자" + marker[i].확진자수.toLocaleString() + "명";
-  top완치자[i].title = "완치자 " + marker[i].완치자수.toLocaleString() + "명";
-  top사망자[i].title = "사망자 " + marker[i].사망자수.toLocaleString() + "명";
+  top완치자[i].title = "완치자" + marker[i].완치자수.toLocaleString() + "명";
+  top사망자[i].title = "사망자" + marker[i].사망자수.toLocaleString() + "명";
 }
