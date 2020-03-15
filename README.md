@@ -127,7 +127,9 @@
 ## 업데이트 방법
 
 - 크롤링 데이터 Slack으로 Push → 내용 확인(필요의 경우 내용 사실 여부 확인) → 자원 봉사자 중 1명이 Commit, Push
-- [https://www.notion.so/84904afe278f4efc96c4fe0cdde0aae8](https://www.notion.so/84904afe278f4efc96c4fe0cdde0aae8) 에 적어놓았습니다.
+  -  [https://www.notion.so/84904afe278f4efc96c4fe0cdde0aae8](https://www.notion.so/84904afe278f4efc96c4fe0cdde0aae8) 에 적어놓았습니다.
+- Github Pull Request 보내기
+  - [https://www.notion.so/Github-livecod-aa5be574c29e48febff9847263ca9bee](https://www.notion.so/Github-livecod-aa5be574c29e48febff9847263ca9bee) 에 적어두었습니다.
 
 ## 멤버
 
