@@ -63,9 +63,6 @@ for d in datas:
         '완치자수' : int(0 if 완치자.strip().replace(',', '') == "" else 완치자.strip().replace(',', '')),
     })
 
-print(세계확진자)
-
-'''
 with open("./data/worldData.js", "w", encoding='UTF-8-sig') as json_file:
     json.dump(세계확진자, json_file, ensure_ascii=False, indent=4)
     # file.write(json.dumps(dict, ensure_ascii=False))
@@ -83,4 +80,3 @@ with open("./data/worldData.js", "w", encoding='UTF-8-sig') as f_write:
 
 print("############### 완료!! ###############")
 print("#####################################")
-'''
