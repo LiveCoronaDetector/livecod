@@ -153,20 +153,20 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "캐나다",
+        "Name_ch": "",
+        "Name_en": "Canada",
+        "확진자수": 341,
+        "사망자수": 1,
+        "완치자수": 11
+    },
+    {
         "Name": "그리스",
         "Name_ch": "",
         "Name_en": "Greece",
         "확진자수": 331,
         "사망자수": 4,
         "완치자수": 8
-    },
-    {
-        "Name": "캐나다",
-        "Name_ch": "",
-        "Name_en": "Canada",
-        "확진자수": 321,
-        "사망자수": 1,
-        "완치자수": 11
     },
     {
         "Name": "호주",
@@ -277,7 +277,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Philippines",
         "확진자수": 140,
-        "사망자수": 11,
+        "사망자수": 12,
         "완치자수": 2
     },
     {
@@ -705,6 +705,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 14,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
@@ -716,14 +724,6 @@ var marker = [
         "Name": "캄보디아",
         "Name_ch": "",
         "Name_en": "Cambodia",
-        "확진자수": 12,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 1
@@ -865,6 +865,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Puerto Rico",
+        "Name_ch": "",
+        "Name_en": "Puerto Rico",
+        "확진자수": 5,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
@@ -908,14 +916,6 @@ var marker = [
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "확진자수": 4,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Puerto Rico",
-        "Name_ch": "",
-        "Name_en": "Puerto Rico",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
