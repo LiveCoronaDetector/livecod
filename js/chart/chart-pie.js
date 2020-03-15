@@ -25,8 +25,8 @@ for (var i = 0; i < 15; i++) {
   marker[i].Name +
   ' : ' +
   Number(marker[i].확진자수).toLocaleString() +
+  ' ( ' + Math.round(percentage * 100) / 100 + "%" + ' )' +
   "<span class='float-right'>" +
-  Math.round(percentage * 100) / 100 + "%" +
   "(치명률 : " + TOP5_치명율 +
   "%, 완치율 : "  + TOP5_완치율 + "%)" +
   "</span>";
