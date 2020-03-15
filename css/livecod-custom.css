@@ -132,3 +132,8 @@ div.anchor {
 .container-max {
   max-width: 1920px;
 }
+
+/* Top15 font */
+#Top5>h4>span {
+  font-size: 0.85em;
+}

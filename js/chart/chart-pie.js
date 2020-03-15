@@ -9,7 +9,9 @@ var 모든확진자수 = marker.reduce(function (a, b) {
   return a + (b.확진자수 || 0);
 }, 0);
 var topText = document.querySelectorAll("#Top5>h4");
-var topNumber = document.querySelectorAll("#Top5>div>div");
+var top확진자 = document.querySelectorAll("#Top5>div>.bg-warning");
+var top완치자 = document.querySelectorAll("#Top5>div>.bg-success");
+var top사망자 = document.querySelectorAll("#Top5>div>.bg-danger");
 
 marker.sort(function (a, b) {
   return a.확진자수 < b.확진자수 ? 1 : -1;
@@ -28,5 +30,7 @@ for (var i = 0; i < 15; i++) {
   "(치명률 : " + TOP5_치명율 +
   "%, 완치율 : "  + TOP5_완치율 + "%)" +
   "</span>";
-  topNumber[i].style.width = percentage + "%";
+  top확진자[i].style.width = percentage / 100 * (100 - TOP5_완치율 - TOP5_치명율) + "%";
+  top완치자[i].style.width = percentage / 100 * TOP5_완치율 + "%";
+  top사망자[i].style.width = percentage / 100 * TOP5_치명율 + "%";
 }
