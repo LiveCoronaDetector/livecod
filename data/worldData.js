@@ -713,6 +713,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Faeroe Islands",
+        "Name_ch": "",
+        "Name_en": "Faeroe Islands",
+        "확진자수": 10,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
@@ -735,14 +743,6 @@ var marker = [
         "확진자수": 9,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Faeroe Islands",
-        "Name_ch": "",
-        "Name_en": "Faeroe Islands",
-        "확진자수": 9,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Jamaica",
@@ -1060,6 +1060,14 @@ var marker = [
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
+        "확진자수": 1,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Equatorial Guinea",
+        "Name_ch": "",
+        "Name_en": "Equatorial Guinea",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
