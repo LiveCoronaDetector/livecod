@@ -2,7 +2,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 import json
-from previousWorldData import 기존데이터
+from previousWorldData import previous_data
 
 print("#####################################")
 print("############ 세계 데이터 #############")
@@ -14,57 +14,57 @@ soup = BeautifulSoup(html, 'html.parser')
 datas = soup.select('#main_table_countries > tbody > tr')
 # print(datas) 작동확인 2
 
-세계확진자 = []
+world_confirmed = []
 
 for d in datas:
-    국가이름 = d.find_all('td')[0].text
-    if 국가이름.strip() == 'S. Korea':
+    country = d.find_all('td')[0].text
+    if country.strip() == 'S. Korea':
         continue
-    확진자 = d.find_all('td')[1].text
-    사망자 = d.find_all('td')[3].text
-    완치자 = d.find_all('td')[5].text
+    confirmed = d.find_all('td')[1].text
+    deaths = d.find_all('td')[3].text
+    recovered = d.find_all('td')[5].text
     # print(f'국가이름 : {국가이름}')
     # print(f'확진자 : {확진자}')
     # print(f'사망자 : {사망자}')
     # print(f'완치자 : {완치자}')
 
-    한국어이름 = ''
-    name_ch = ''
+    country_kr = ''
+    country_cn = ''
 
-    for value in 기존데이터:
-        if value['Name_en'] == 국가이름.strip():
-            한국어이름 = value['Name']
+    for value in previous_data:
+        if value['Name_en'] == country.strip():
+            country_kr = value['Name']
             name_ch = value['Name_ch']
 
     #지도 SVG 이름 동기화(아래 USA는 크롤링된 영어이름)
-    if 국가이름.strip() == 'USA':
+    if country.strip() == 'USA':
         #여기에 SVG파일에 있는 국가명으로 변경
-        국가이름 = 'United States'
+        country = 'United States'
 
     #잘못된 영어이름 수정
-    if 국가이름.strip() == 'USA':
+    if country.strip() == 'USA':
         #여기에 SVG파일에 있는 국가명으로 변경
-        국가이름 = 'United States'
+        country = 'United States'
 
-    if 국가이름.strip() == 'Total:':
+    if country.strip() == 'Total:':
       print("Skipping total")
       continue
 
     #한국어 이름이 필드에 없을 경우 영어이름 삽입
-    if 한국어이름 == '':
-        한국어이름 = 국가이름.strip()
+    if country_kr == '':
+        country_kr = country.strip()
 
-    세계확진자.append({
-        'Name' : 한국어이름,
-        'Name_ch' : name_ch,
-        'Name_en' : 국가이름.strip(),
-        '확진자수' : int(0 if 확진자.strip().replace(',', '') == "" else 확진자.strip().replace(',', '')),
-        '사망자수' : int(0 if 사망자.strip().replace(',', '') == "" else 사망자.strip().replace(',', '')),
-        '완치자수' : int(0 if 완치자.strip().replace(',', '') == "" else 완치자.strip().replace(',', '')),
+    world_confirmed.append({
+        'Name' : country_kr,
+        'Name_ch' : country_cn,
+        'Name_en' : country.strip(),
+        '확진자수' : int(0 if confirmed.strip().replace(',', '') == "" else confirmed.strip().replace(',', '')),
+        '사망자수' : int(0 if deaths.strip().replace(',', '') == "" else deaths.strip().replace(',', '')),
+        '완치자수' : int(0 if recovered.strip().replace(',', '') == "" else recovered.strip().replace(',', '')),
     })
 
 with open("./data/worldData.js", "w", encoding='UTF-8-sig') as json_file:
-    json.dump(세계확진자, json_file, ensure_ascii=False, indent=4)
+    json.dump(world_confirmed, json_file, ensure_ascii=False, indent=4)
     # file.write(json.dumps(dict, ensure_ascii=False))
 
 data = ''

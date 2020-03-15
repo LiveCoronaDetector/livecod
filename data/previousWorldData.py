@@ -1,4 +1,4 @@
-기존데이터 = [{
+previous_data = [{
     "Name": "이란",
     "Name_en": "Iran",
     "Name_ch": "伊朗",
