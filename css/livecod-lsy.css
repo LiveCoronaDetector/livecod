@@ -345,6 +345,39 @@ header .m-none{
   padding-top: 60px;
 }
 
+/* Chart */
+.korea_chart_tags{
+  text-align: right;
+  padding: 7px 7px 0 0;
+  font-size: 12px;
+}
+.korea_chart_tags span{
+  position: relative;
+  display: inline-block;
+  margin-left: 5px;
+}
+.korea_chart_tags span::before{
+  position: relative;
+  display: inline-block;
+  content: '';
+  width: 10px;
+  height: 5px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.korea_chart_tags span.tag_01::before{
+  background: #4D73DF;
+}
+.korea_chart_tags span.tag_02::before{
+  background: #1CC88A;
+}
+.korea_chart_tags span.tag_03::before{
+  background: #36B9CC;
+}
+.korea_chart_tags span.tag_04::before{
+  background: #F6C23E;
+}
+
 footer{
   border-top: 1px solid #e3e6f0;
 }

@@ -18,13 +18,10 @@
 
   <title>코로나19 맵</title>
   <link rel='icon' href='img/favicon.png' type='image/x-icon'>
-  <link rel="stylesheet" type="text/css"
-    href="https://cdn.jsdelivr.net/gh/innks/NanumSquareRound@master/nanumsquareround.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/innks/NanumSquareRound@master/nanumsquareround.min.css">
   <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=26ba2oaskk"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157131634-1"></script>
-  <script crossorigin="anonymous"
-    src="https://polyfill.io/v3/polyfill.min.js?features=default%2CArray.prototype.find%2CArray.prototype.forEach%2CArray.prototype.keys%2CArray.prototype.map%2CArray.prototype.reduce%2Ces2015">
-  </script>
+  <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=default%2CArray.prototype.find%2CArray.prototype.forEach%2CArray.prototype.keys%2CArray.prototype.map%2CArray.prototype.reduce%2Ces2015"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -39,9 +36,7 @@
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-  <link
-    href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
   <!-- Custom styles for this template-->
   <link href="css/common.css" rel="stylesheet">
@@ -64,11 +59,10 @@
       <img src='img/live.svg' /> 라이브 코로나 맵
     </h1>
     <h6 class="float-right">
-      <div class="m-update">UPDATE : <span id="text-update-datetime" class="text-update"></span></div>
-      <div class="m-none">(일일 자정 질병관리본부 브리핑 자료)</div>
+      <div class="m-update">UPDATE : <span id="text-update-datetime" class="text-update"></span></div><div class="m-none">(일일 자정 질병관리본부 브리핑 자료)</div>
     </h6>
     <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle">
-      <i class="fas fa-chevron-circle-left"></i>
+        <i class="fas fa-chevron-circle-left"></i>
     </button>
   </header>
   <!-- Page Wrapper -->
@@ -123,17 +117,14 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#" data-toggle="collapse" data-target="#collapseSupport" aria-expanded="true"
-          aria-controls="collapseSupport">
+        <a class="nav-link" href="#" data-toggle="collapse" data-target="#collapseSupport" aria-expanded="true" aria-controls="collapseSupport">
           <span>정부지원사업</span>
         </a>
         <div id="collapseSupport" class="collapse" aria-labelledby="headingSupport" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
-            <a class="collapse-item" href="https://www.notion.so/a80c76132f8b4a63a6f4901b1320bf62"
-              target="_blank">자기동선기록 가이드</a>
+            <a class="collapse-item" href="https://www.notion.so/a80c76132f8b4a63a6f4901b1320bf62" target="_blank">자기동선기록 가이드</a>
             <a class="collapse-item" href="https://news.naver.com/main/factcheck/main.nhn" target="_blank">팩트체크</a>
-            <a class="collapse-item" href="https://www.notion.so/paullab/73a19000672149559cd949c018a202f8"
-              target="_blank">소상공인 지원사업</a>
+            <a class="collapse-item" href="https://www.notion.so/paullab/73a19000672149559cd949c018a202f8" target="_blank">소상공인 지원사업</a>
             <a class="collapse-item" href="https://neighbor-house.tistory.com/148" target="_blank">아이돌봄 지원사업</a>
           </div>
         </div>
@@ -160,8 +151,7 @@
       <div id="content" class="content">
         <!-- Alert -->
         <div id="wrapper">
-          <div class="alert alert-warning alert-dismissible fade show container-fluid d-none" role="alert"
-            id="alertBanner">
+          <div class="alert alert-warning alert-dismissible fade show container-fluid d-none" role="alert" id="alertBanner">
             공지사항
             <!-- Closed -->
             <button type="button" class="close" data-dismiss="alert" aria-label="Close" id="btnAlertBannerClose">
@@ -213,12 +203,9 @@
                     </span>
                   </div>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-warning koreanChart" role="progressbar" aria-valuenow="20"
-                      aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success koreanChart" role="progressbar" aria-valuenow="20"
-                      aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-danger koreanChart" role="progressbar" aria-valuenow="20"
-                      aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-warning koreanChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-success koreanChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger koreanChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
                   </div>
                   <h6>세계현황</h6>
                   <div class="small font-weight-bold">
@@ -229,12 +216,9 @@
                     </span>
                   </div>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-warning worldChart" role="progressbar" aria-valuenow="20"
-                      aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success worldChart" role="progressbar" aria-valuenow="20"
-                      aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-danger worldChart" role="progressbar" aria-valuenow="20"
-                      aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-warning worldChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-success worldChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger worldChart" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
                   </div>
                 </div>
               </div>
@@ -252,8 +236,8 @@
                 <div class="card-body text-center status-jeju">
                   <div class="row">
                     <div class="col-lg-4">
-                      <h6>확진자</h6>
-                      <div class="count-text mb-3"><span id="제주확진자"></span>명</div>
+                        <h6>확진자</h6>
+                        <div class="count-text mb-3"><span id="제주확진자"></span>명</div>
                     </div>
                     <div class="col-lg-4">
                       <h6>완치자</h6>
@@ -280,9 +264,7 @@
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                   <h6 class="m-0 font-weight-bold text-danger">한국 확진자수 증가추이</h6>
-                  <div class="right"><a class="new_window"
-                      href="https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19_%EC%9C%A0%ED%96%89"
-                      target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                  <div class="right"><a class="new_window" href="https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19_%EC%9C%A0%ED%96%89" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                 </div>
                 <!-- Card Body -->
                 <div class="card-body tab-content">
@@ -291,18 +273,22 @@
                       <a class="nav-link active" data-toggle="tab" href="#korea_line_chart" role="tab">선차트 (Linear)</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" data-toggle="tab" href="#korea_semi_log_chart" role="tab">반대수 그래프
-                        (Semi-log)</a>
+                      <a class="nav-link" data-toggle="tab" href="#korea_semi_log_chart" role="tab">반대수 그래프 (Semi-log)</a>
                     </li>
                   </ul>
                   <div class="tab-pane fade in show active" id="korea_line_chart" role="tabpanel" style="height:35rem;">
+                    <div class="korea_chart_tags">
+                        <span class="tag_01">한국</span>
+                        <span class="tag_02">전일대비</span>
+                        <span class="tag_03">사망자</span>
+                        <span class="tag_04">완치자</span>
+                      </div>
                     <canvas id="myAreaChart_four"></canvas>
                   </div>
                   <div class="tab-pane fade" id="korea_semi_log_chart" role="tabpanel" style="height:35rem;">
                     <canvas id="myAreaChart_six"></canvas>
                   </div>
-                  <p style="margin-left: 2rem;">현재(<span id="치명률_날짜"></span>) 치명률(사망자/확진자 비율) | 국내: <span
-                      id="치명률"></span>%, 세계: <span id="세계치명률"></span>%</p>
+                  <p style="margin-left: 2rem;">현재(<span id="치명률_날짜"></span>) 치명률(사망자/확진자 비율) | 국내: <span id="치명률"></span>%, 세계: <span id="세계치명률"></span>%</p>
                 </div>
               </div>
             </div>
@@ -314,17 +300,13 @@
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                   <h6 class="m-0 font-weight-bold text-danger">국내 현황(클릭시 각 시도별 현황/확진자 이동경로로 이동)</h6>
-                  <div class="right"><a class="new_window"
-                      href="http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=13&ncvContSeq=&contSeq=&board_id=&gubun="
-                      target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                  <div class="right"><a class="new_window" href="http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=13&ncvContSeq=&contSeq=&board_id=&gubun=" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                 </div>
                 <!-- Card Body -->
                 <div class="card-body">
                   <div id="koreaMap" style="width:100%;height:508px;"></div>
-                  <div class="update mt-2"><span class="title">업데이트</span><span id="지역별확진자_업데이트_시간_태그"
-                      class="desc"></span></div>
-                  <div class="source mt-2"><span class="title">출처</span><span class="desc">중앙방역대책본부, KBS(특정 시점 지자체별 집계와
-                      다를 수 있음)</span></div>
+                  <div class="update mt-2"><span class="title">업데이트</span><span id="지역별확진자_업데이트_시간_태그" class="desc"></span></div>
+                  <div class="source mt-2"><span class="title">출처</span><span class="desc">중앙방역대책본부, KBS(특정 시점 지자체별 집계와 다를 수 있음)</span></div>
                 </div>
               </div>
             </div>
@@ -342,13 +324,16 @@
                     <!-- Card Header - Dropdown -->
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                       <h6 class="m-0 font-weight-bold text-danger">전세계 확진자수 증가추이</h6>
-                      <div class="right"><a class="new_window"
-                          href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank"
-                          alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                      <div class="right"><a class="new_window" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                     </div>
                     <!-- Card Body -->
                     <div class="card-body">
                       <div class="chart-area" style="height:23rem;">
+                          <div class="korea_chart_tags">
+                            <span class="tag_01">확진자수</span>
+                            <span class="tag_02">사망자수</span>
+                            <span class="tag_03">완치자수</span>
+                          </div>
                         <canvas id="myAreaChart"></canvas>
                       </div>
                     </div>
@@ -362,9 +347,7 @@
                     <!-- Card Header - Dropdown -->
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                       <h6 class="m-0 font-weight-bold text-danger">국가별 발병 세계 지도 (클릭시 상세정보)</h6>
-                      <div class="right"><a class="new_window"
-                          href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank"
-                          alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                      <div class="right"><a class="new_window" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                     </div>
                     <!-- Card Body -->
                     <div class="card-body world-map">
@@ -373,7 +356,7 @@
                   </div>
                 </div>
                 <!-- //세계 발병지도 -->
-              </div>
+                </div>
             </div>
 
             <!-- Top15 발생국가 -->
@@ -382,9 +365,7 @@
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                   <h6 class="m-0 font-weight-bold text-danger">Top 15 발생국가</h6>
-                  <div class="right"><a class="new_window"
-                      href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank"
-                      alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                  <div class="right"><a class="new_window" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                 </div>
                 <!-- Card Body -->
                 <div class="card-body" id="Top5">
@@ -392,166 +373,121 @@
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                   <h4 class="small font-weight-bold">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4">
-                    <div class="progress-bar bg-danger top사망자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
-                    <div class="progress-bar bg-success top완치자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom" ></div>
-                    <div class="progress-bar bg-warning top확진자" role="progressbar" aria-valuenow="20" aria-valuemin="0"
-                      aria-valuemax="100" data-toggle="tooltip" data-placement="bottom"></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
@@ -572,20 +508,13 @@
                 </div>
                 <!-- Card Body -->
                 <div class="card-body">
-                  <a href="img/safe_1.png" class="block" target="_blank"><img src="img/safe_1.png"
-                      alt="Safe rule1" /></a>
-                  <a href="img/safe_2.png" class="block" target="_blank"><img src="img/safe_2.png"
-                      alt="Safe rule2" /></a>
-                  <a href="img/safe_3.png" class="block" target="_blank"><img src="img/safe_3.png"
-                      alt="Safe rule3" /></a>
-                  <a target="_blank" class="btn btn-primary" style="width:100%;margin-bottom:1rem;margin-top:1rem;"
-                    href="https://www.notion.so/a80c76132f8b4a63a6f4901b1320bf62" role="button">자기동선기록 가이드</a>
-                  <a target="_blank" class="btn btn-primary" style="width:100%;margin-bottom:1rem;"
-                    href="https://news.naver.com/main/factcheck/main.nhn" role="button">코로나19 바이러스 관련 팩트체크</a>
-                  <a target="_blank" class="btn btn-primary" style="width:100%; margin-bottom:1rem;"
-                    href="https://www.notion.so/381a1f09e420476c839cdbe543dbb3bb" role="button">소상공인 지원사업</a>
-                  <a target="_blank" class="btn btn-primary" style="width:100%"
-                    href="https://neighbor-house.tistory.com/148" role="button">아이돌봄 지원사업</a>
+                  <a href="img/safe_1.png" class="block" target="_blank"><img src="img/safe_1.png" alt="Safe rule1" /></a>
+                  <a href="img/safe_2.png" class="block" target="_blank"><img src="img/safe_2.png" alt="Safe rule2" /></a>
+                  <a href="img/safe_3.png" class="block" target="_blank"><img src="img/safe_3.png" alt="Safe rule3" /></a>
+                  <a target="_blank" class="btn btn-primary" style="width:100%;margin-bottom:1rem;margin-top:1rem;" href="https://www.notion.so/a80c76132f8b4a63a6f4901b1320bf62" role="button">자기동선기록 가이드</a>
+                  <a target="_blank" class="btn btn-primary" style="width:100%;margin-bottom:1rem;" href="https://news.naver.com/main/factcheck/main.nhn" role="button">코로나19 바이러스 관련 팩트체크</a>
+                  <a target="_blank" class="btn btn-primary" style="width:100%; margin-bottom:1rem;" href="https://www.notion.so/381a1f09e420476c839cdbe543dbb3bb" role="button">소상공인 지원사업</a>
+                  <a target="_blank" class="btn btn-primary" style="width:100%" href="https://neighbor-house.tistory.com/148" role="button">아이돌봄 지원사업</a>
                 </div>
               </div>
             </div>
@@ -600,30 +529,20 @@
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                       <h6 class="m-0 font-weight-bold text-danger">통계치</h6>
                       <div class="dropdown no-arrow">
-                        <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
-                          aria-haspopup="true" aria-expanded="false">
+                        <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
                         </a>
-                        <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
-                          aria-labelledby="dropdownMenuLink">
+                        <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
                           <div class="dropdown-header">상세</div>
-                          <a class="dropdown-item"
-                            href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/">WHO
-                            코로나19
+                          <a class="dropdown-item" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/">WHO 코로나19
                           </a>
-                          <a class="dropdown-item"
-                            href="https://www.who.int/csr/don/archive/disease/severe_acute_respiratory_syndrome/en/">WHO
-                            SARS
+                          <a class="dropdown-item" href="https://www.who.int/csr/don/archive/disease/severe_acute_respiratory_syndrome/en/">WHO SARS
                           </a>
-                          <a class="dropdown-item" href="https://www.who.int/emergencies/mers-cov/news-archive/en/">WHO
-                            MERS
+                          <a class="dropdown-item" href="https://www.who.int/emergencies/mers-cov/news-archive/en/">WHO MERS
                           </a>
-                          <a class="dropdown-item"
-                            href="http://health.cdc.go.kr/health/mobileweb/content/group_view.jsp?CID=79551951E9">질병관리본부
-                            신종인플루엔자
+                          <a class="dropdown-item" href="http://health.cdc.go.kr/health/mobileweb/content/group_view.jsp?CID=79551951E9">질병관리본부 신종인플루엔자
                           </a>
-                          <a class="dropdown-item"
-                            href="http://www.cdc.go.kr/npt/biz/npp/portal/nppSumryMain.do?icdCd=NA0014&icdgrpCd=01&icdSubgrpCd=">메르스</a>
+                          <a class="dropdown-item" href="http://www.cdc.go.kr/npt/biz/npp/portal/nppSumryMain.do?icdCd=NA0014&icdgrpCd=01&icdSubgrpCd=">메르스</a>
                         </div>
                       </div>
                     </div>
@@ -697,8 +616,7 @@
                         기초감염재생산수: 한 사람의 감염자가 몇 명을 전염시킬 수 있는지를 나타낸 값<br>
                         비말감염: 감염자의 침, 콧물 등 체액이 다른 사람의 입이나 코로 들어가 감염이 이루지는 것<br>
                       </p>
-                      <div class="source"><span class="title">출처</span><span class="desc">질병관리본부, 세계보건기구(WHO). 우측 하단 링크
-                          참고.</span></div>
+                      <div class="source"><span class="title">출처</span><span class="desc">질병관리본부, 세계보건기구(WHO). 우측 하단 링크 참고.</span></div>
                     </div>
                   </div>
                 </div>
@@ -711,35 +629,25 @@
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                       <h6 class="m-0 font-weight-bold text-danger">시나리오별 상황예측</h6>
                       <div class="dropdown no-arrow">
-                        <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
-                          aria-haspopup="true" aria-expanded="false">
+                        <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
                         </a>
-                        <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
-                          aria-labelledby="dropdownMenuLink">
+                        <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
                           <div class="dropdown-header">상세</div>
-                          <a class="dropdown-item"
-                            href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext">WHO
-                            상세논문보기
+                          <a class="dropdown-item" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext">WHO 상세논문보기
                           </a>
                         </div>
                       </div>
                     </div>
                     <!-- Card Body -->
                     <div class="card-body">
-                      <img src="img/lancet.jpg"
-                        alt="Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study"
-                        class="img-fluid">
+                      <img src="img/lancet.jpg" alt="Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study" class="img-fluid">
                       <p style="margin-top:0.5rem;">
-                        ※ 1월 25일까지의 감염력이 유지된다는 전제 하 그래프 입니다. 이를 바탕으로 다양한 시나리오별 예측값을 시각화할 예정이며, 차후 비슷한 사례가 발생되었을 경우에도 사용할
-                        수 있도록
+                        ※ 1월 25일까지의 감염력이 유지된다는 전제 하 그래프 입니다. 이를 바탕으로 다양한 시나리오별 예측값을 시각화할 예정이며, 차후 비슷한 사례가 발생되었을 경우에도 사용할 수 있도록
                         모든 소스를 오픈하도록 하겠습니다.
                       </p>
-                      <div class="source"><span class="title">출처</span><span class="desc">lancet 논문 '<a target="_blank"
-                            href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext">Nowcasting
-                            and forecasting the potential domestic and
-                            international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling
-                            study</a>'</span></div>
+                      <div class="source"><span class="title">출처</span><span class="desc">lancet 논문 '<a target="_blank" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext">Nowcasting and forecasting the potential domestic and
+                            international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study</a>'</span></div>
                     </div>
                   </div>
                 </div>
@@ -799,13 +707,11 @@
                     <div class="card-body" style="padding-top:0px;padding-left: 0px;padding-right: 0px;">
                       <!-- <a class="btn btn-primary" target="_blank" style="margin-bottom:1rem;margin-top:1rem; width:100%;" href="https://whereismask.com" role="button">주변 약국 위치 및 재고 현황</a> -->
                       <!-- <div id="jejuMedicineMap" style="width:100%;height:35rem;"></div> -->
-                      <iframe src="https://mask.livecorona.co.kr#mainContainer" frameborder="0"
-                        style="border:0;width:100%;height:35rem;padding-top:0;" allow="geolocation"></iframe>
+                      <iframe src="https://mask.livecorona.co.kr#mainContainer" frameborder="0" style="border:0;width:100%;height:35rem;padding-top:0;"allow="geolocation"></iframe>
 
                       <div style="padding-left:20px;">
                         <ul class="mt10">
-                          <li>해당 기능은 'https'에서만 지원합니다. 맵이 뜨지 않을 경우 <a href="https://livecorona.co.kr/">여기</a>로 접속해주세요.
-                          </li>
+                          <li>해당 기능은 'https'에서만 지원합니다. 맵이 뜨지 않을 경우 <a href="https://livecorona.co.kr/">여기</a>로 접속해주세요.</li>
                           <li>우체국, 약국 전화해보시고 방문하시는 것이 좋습니다.</li>
                           <li>마스크 <a href="https://coronamask.kr">온라인 구매</a> 바로가기</li>
                         </ul>
@@ -821,9 +727,7 @@
                     <!-- Card Header - Dropdown -->
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                       <h6 class="m-0 font-weight-bold text-danger">마스크 5부제</h6>
-                      <div class="right"><a class="new_window"
-                          href="http://www.moef.go.kr/com/synap/synapView.do?atchFileId=ATCH_000000000013410&fileSn=1"
-                          target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                      <div class="right"><a class="new_window" href="http://www.moef.go.kr/com/synap/synapView.do?atchFileId=ATCH_000000000013410&fileSn=1" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                     </div>
                     <div class="card-body">
                       <div class="table-responsive">
@@ -861,8 +765,8 @@
                               <td>금요일</td>
                             </tr>
                             <tr>
-                              <td>출생연도 관계없이 <br />평일에 구입하지 못한 사람들 구매 가능</td>
-                              <td>주말<br />(토 , 일)</td>
+                              <td>출생연도 관계없이 <br/>평일에 구입하지 못한 사람들 구매 가능</td>
+                              <td>주말<br/>(토 , 일)</td>
                             </tr>
                           </tbody>
                         </table>
@@ -901,119 +805,112 @@
                     <!-- Card Header - Dropdown -->
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                       <h6 class="m-0 font-weight-bold text-danger">제주 확진판정자 이동경로 및 주요뉴스</h6>
-                      <div class="right"><a class="new_window" href="http://www.cdc.go.kr/contents.es?mid=a21111060000"
-                          target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                      <div class="right"><a class="new_window" href="http://www.cdc.go.kr/contents.es?mid=a21111060000" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                     </div>
 
                     <div class="card-body">
                       <div class="accordion" id="accordionExample">
 
-                        <a class="btn btn-primary" target="_blank" style="margin-bottom:1rem; width:100%;"
-                          href="https://gis.jeju.go.kr/crn/index.do" role="button">제주도청제공 확진자 이동동선 및 안심존</a>
+                        <a class="btn btn-primary" target="_blank" style="margin-bottom:1rem; width:100%;" href="https://gis.jeju.go.kr/crn/index.do" role="button">제주도청제공 확진자 이동동선 및 안심존</a>
 
-                        <p>위 링크에서 지도로 확진자 이동경로를 도청에서 직접 제공하고 있으므로, <span style="color:red; font-weight:bold;">아래 내용은 더이상
-                            업데이트 하지 않습니다.</span></p>
+                        <p>위 링크에서 지도로 확진자 이동경로를 도청에서 직접 제공하고 있으므로, <span style="color:red; font-weight:bold;">아래 내용은 더이상 업데이트 하지 않습니다.</span></p>
 
                         <!-- 확진자 News 4 -->
                         <div class="card">
                           <div class="card-header" id="headingFour">
                             <h2 class="mb-0 cases-title">
-                              <button class="btn btn-link" type="button" data-toggle="collapse"
-                                data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                 네번째 확진자 <span class="desc">(남, 46)</span>
                               </button>
                             </h2>
                           </div>
-                          <div id="collapseFour" class="collapse hide" aria-labelledby="headingOne"
-                            data-parent="#accordionExample">
+                          <div id="collapseFour" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordionExample">
                             <div class="card-body">
                               <!-- 4번째 확진자 -->
                               <div class="cases-route-map">
                                 <p class="comments">※ 제주도가 카드 결제 정보를 통해 확인한 동선은 다음과 같다</p>
                                 <h4>2020.02.21(금)</h4>
                                 <dl>
-                                  <dt>18:07</dt>
-                                  <dd class="desc">
-                                    제스코마트 신제주점
-                                  </dd>
+                                    <dt>18:07</dt>
+                                    <dd class="desc">
+                                        제스코마트 신제주점
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.23(일)</h4>
                                 <dl>
-                                  <dt>11:24</dt>
-                                  <dd class="desc">
-                                    제주은행 신제주점
-                                    <p>ATM기를 이용</p>
-                                  </dd>
-                                  <dt>13:00</dt>
+                                    <dt>11:24</dt>
+                                    <dd class="desc">
+                                        제주은행 신제주점
+                                        <p>ATM기를 이용</p>
+                                    </dd>
+                                    <dt>13:00</dt>
                                 </dl>
                                 <h4>2020.02.24(월)</h4>
                                 <dl>
-                                  <dt>21:58</dt>
-                                  <dd class="desc">
-                                    뉴월드마트 신제주점
-                                  </dd>
+                                    <dt>21:58</dt>
+                                    <dd class="desc">
+                                        뉴월드마트 신제주점
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.25(화)</h4>
                                 <dl>
-                                  <dt>13:50 ~ 14:11</dt>
-                                  <dd class="desc">
-                                    한라병원 선별진료소
-                                  </dd>
+                                    <dt>13:50 ~ 14:11</dt>
+                                    <dd class="desc">
+                                        한라병원 선별진료소
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.26(수)</h4>
                                 <dl>
-                                  <dt>--:--</dt>
-                                  <dd class="desc">
-                                    연동 소재 지인 B씨 집
-                                  </dd>
+                                    <dt>--:--</dt>
+                                    <dd class="desc">
+                                        연동 소재 지인 B씨 집
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.27(목)</h4>
                                 <dl>
-                                  <dt>17:15</dt>
-                                  <dd class="desc">
-                                    뉴월드마트 신제주점
-                                  </dd>
+                                    <dt>17:15</dt>
+                                    <dd class="desc">
+                                        뉴월드마트 신제주점
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.28(금)</h4>
                                 <dl>
-                                  <dt>14:16</dt>
-                                  <dd class="desc">
-                                    서브웨이 연동점
-                                  </dd>
+                                    <dt>14:16</dt>
+                                    <dd class="desc">
+                                        서브웨이 연동점
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.29(토)</h4>
                                 <dl>
-                                  <dt>--:--</dt>
-                                  <dd class="desc">
-                                    연동 소재 지인 B씨 집에서 체류
-                                  </dd>
+                                    <dt>--:--</dt>
+                                    <dd class="desc">
+                                        연동 소재 지인 B씨 집에서 체류
+                                    </dd>
                                 </dl>
                                 <h4>2020.03.01(일)</h4>
                                 <dl>
-                                  <dt>18:49</dt>
-                                  <dd class="desc">
-                                    제스코마트 신제주점
-                                  </dd>
+                                    <dt>18:49</dt>
+                                    <dd class="desc">
+                                        제스코마트 신제주점
+                                    </dd>
                                 </dl>
                                 <h4>2020.03.02(월)</h4>
                                 <dl>
-                                  <dt>--:--</dt>
-                                  <dd class="desc">
-                                    제스코마트 신제주점
-                                  </dd>
+                                    <dt>--:--</dt>
+                                    <dd class="desc">
+                                        제스코마트 신제주점
+                                    </dd>
                                 </dl>
                                 <h4>2020.03.03(월)</h4>
                                 <dl>
-                                  <dt>17:00</dt>
-                                  <dd class="desc">
-                                    본인의 오토바이를 이용해 제주대병원 선별진료소를 방문해 코로나19 검체 검사
-                                  </dd>
+                                    <dt>17:00</dt>
+                                    <dd class="desc">
+                                        본인의 오토바이를 이용해 제주대병원 선별진료소를 방문해 코로나19 검체 검사
+                                    </dd>
                                 </dl>
                               </div>
                               <!-- //4번째 확진자 -->
-                              <div class="source"><span class="title">출처</span><span class="desc"><a
-                                    href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm?act=view&seq=1234263">제주특별자치도</a></span>
-                              </div>
+                              <div class="source"><span class="title">출처</span><span class="desc"><a href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm?act=view&seq=1234263">제주특별자치도</a></span></div>
                             </div>
                           </div>
                         </div>
@@ -1023,140 +920,136 @@
                         <div class="card">
                           <div class="card-header" id="headingFour">
                             <h2 class="mb-0 cases-title">
-                              <button class="btn btn-link" type="button" data-toggle="collapse"
-                                data-target="#collapseThree" aria-expanded="true" aria-controls="collapseFour">
+                              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseFour">
                                 세번째 확진자 <span class="desc">(대구 거주 후 입도한 A씨)</span>
                               </button>
                             </h2>
                           </div>
-                          <div id="collapseThree" class="collapse hide" aria-labelledby="headingOne"
-                            data-parent="#accordionExample">
+                          <div id="collapseThree" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordionExample">
                             <div class="card-body">
                               <!-- 3번째 확진자 -->
                               <div class="cases-route-map">
                                 <p class="comments">※ 도내 세번째 확진자 진술에 따른 동선<br>(2월 26일~3월 1일)</p>
                                 <h4>2020.02.26(수)</h4>
                                 <dl>
-                                  <dt>11:00</dt>
-                                  <dd class="desc">
-                                    지인 B씨 거주주택(조천읍 소재)
-                                    <p class="contact">접촉 : 지인 B씨 등 3명</p>
-                                  </dd>
-                                  <dt>12:00 ~ 17:30</dt>
-                                  <dd class="desc">
-                                    지인B 등 3명과 함께 구좌읍 동복항 방파제에서 낚시
-                                  </dd>
-                                  <dt>17:40 ~ 18:25</dt>
-                                  <dd class="desc">
-                                    위 일행 3명과 함께 '제주 그때 그집 함덕점' 저녁식사
-                                    <p class="contact">접촉 : 지인 B씨 등 3명</p>
-                                  </dd>
-                                  <dt>18:25 ~ 18:30</dt>
-                                  <dd class="desc">
-                                    '제주 그때 그집 함덕점' 식당 차량으로 '함덕오군뮤직타운 노래방' 이동
-                                  </dd>
-                                  <dt>18:30 ~ 21:00</dt>
-                                  <dd class="desc">
-                                    위의 노래방
-                                    <p class="contact">접촉 : 직원 1명</p>
-                                  </dd>
-                                  <dt>21:00</dt>
-                                  <dd class="desc">
-                                    택시 타고 자택 귀가(함덕파출소 앞에서 탑승)
-                                    <p class="contact">접촉 : 택시기사 1명</p>
-                                  </dd>
+                                    <dt>11:00</dt>
+                                    <dd class="desc">
+                                        지인 B씨 거주주택(조천읍 소재)
+                                        <p class="contact">접촉 : 지인 B씨 등 3명</p>
+                                    </dd>
+                                    <dt>12:00 ~ 17:30</dt>
+                                    <dd class="desc">
+                                        지인B 등 3명과 함께 구좌읍 동복항 방파제에서 낚시
+                                    </dd>
+                                    <dt>17:40 ~ 18:25</dt>
+                                    <dd class="desc">
+                                        위 일행 3명과 함께 '제주 그때 그집 함덕점' 저녁식사
+                                        <p class="contact">접촉 : 지인 B씨 등 3명</p>
+                                    </dd>
+                                    <dt>18:25 ~ 18:30</dt>
+                                    <dd class="desc">
+                                        '제주 그때 그집 함덕점' 식당 차량으로 '함덕오군뮤직타운 노래방' 이동
+                                    </dd>
+                                    <dt>18:30 ~ 21:00</dt>
+                                    <dd class="desc">
+                                        위의 노래방
+                                        <p class="contact">접촉 : 직원 1명</p>
+                                    </dd>
+                                    <dt>21:00</dt>
+                                    <dd class="desc">
+                                        택시 타고 자택 귀가(함덕파출소 앞에서 탑승)
+                                        <p class="contact">접촉 : 택시기사 1명</p>
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.27(목)</h4>
                                 <dl>
-                                  <dt>~ 13:00</dt>
-                                  <dd class="desc">
-                                    거주 주택에서 기상 후 휴식
-                                    <p class="bold">※ 피곤함을 느낌</p>
-                                  </dd>
-                                  <dt>13:00</dt>
-                                  <dd class="desc">
-                                    지인 B씨의 차를 타고 함덕 해안도로 드라이브
-                                  </dd>
-                                  <dt>16:56</dt>
-                                  <dd class="desc">
-                                    함덕 GS25 코업시티점 방문
-                                    <p class="contact">접촉자 파악중</p>
-                                  </dd>
-                                  <dt>17:00</dt>
-                                  <dd class="desc">
-                                    지인 B씨의 거주 주택으로 귀가(집에서 저녁식사)
-                                  </dd>
+                                    <dt>~ 13:00</dt>
+                                    <dd class="desc">
+                                        거주 주택에서 기상 후 휴식
+                                        <p class="bold">※ 피곤함을 느낌</p>
+                                    </dd>
+                                    <dt>13:00</dt>
+                                    <dd class="desc">
+                                        지인 B씨의 차를 타고 함덕 해안도로 드라이브
+                                    </dd>
+                                    <dt>16:56</dt>
+                                    <dd class="desc">
+                                        함덕 GS25 코업시티점 방문
+                                        <p class="contact">접촉자 파악중</p>
+                                    </dd>
+                                    <dt>17:00</dt>
+                                    <dd class="desc">
+                                        지인 B씨의 거주 주택으로 귀가(집에서 저녁식사)
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.28(금)</h4>
                                 <dl>
-                                  <dt>~ 21:57</dt>
-                                  <dd class="desc">
-                                    거주 주택에서 기상 후 휴식
-                                  </dd>
-                                  <dt>21:57</dt>
-                                  <dd class="desc">
-                                    치킨 배달 받음
-                                    <p class="contact">접촉자 : 배달 직원 1명</p>
-                                  </dd>
+                                    <dt>~ 21:57</dt>
+                                    <dd class="desc">
+                                        거주 주택에서 기상 후 휴식
+                                    </dd>
+                                    <dt>21:57</dt>
+                                    <dd class="desc">
+                                        치킨 배달 받음
+                                        <p class="contact">접촉자 : 배달 직원 1명</p>
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.29(토)</h4>
                                 <dl>
-                                  <dt>~ 14:00</dt>
-                                  <dd class="desc">
-                                    거주 주택에서 기상 후 휴식
-                                  </dd>
-                                  <dt>14:00 ~ 14:49</dt>
-                                  <dd class="desc">
-                                    지인 B씨와 함덕 '대성아구찜' 식사
-                                    <p class="bold">※ 다른 테이블 손님들과는 멀리 떨어져 있었음.</p>
-                                    <p class="contact">접촉자 : 식당 직원 1명<br>(확진자가 카드 결제, 접촉여부 파악 중)</p>
-                                  </dd>
-                                  <dt>15:20</dt>
-                                  <dd class="desc">
-                                    지인 B씨와 함께 신촌 '피플’까' 커피 2잔 테이크 아웃
-                                    <p class="contact">접촉자 : 여직원 2명</p>
-                                  </dd>
-                                  <dt>~</dt>
-                                  <dd class="desc">
-                                    신촌 부둣가쪽 20분정도 산책, 만난 사람 없음
-                                  </dd>
-                                  <dt>17:00</dt>
-                                  <dd class="desc">
-                                    거주 주택
-                                  </dd>
+                                    <dt>~ 14:00</dt>
+                                    <dd class="desc">
+                                        거주 주택에서 기상 후 휴식
+                                    </dd>
+                                    <dt>14:00 ~ 14:49</dt>
+                                    <dd class="desc">
+                                        지인 B씨와 함덕 '대성아구찜' 식사
+                                        <p class="bold">※ 다른 테이블 손님들과는 멀리 떨어져 있었음.</p>
+                                        <p class="contact">접촉자 : 식당 직원 1명<br>(확진자가 카드 결제, 접촉여부 파악 중)</p>
+                                    </dd>
+                                    <dt>15:20</dt>
+                                    <dd class="desc">
+                                        지인 B씨와 함께 신촌 '피플’까' 커피 2잔 테이크 아웃
+                                        <p class="contact">접촉자 : 여직원 2명</p>
+                                    </dd>
+                                    <dt>~</dt>
+                                    <dd class="desc">
+                                        신촌 부둣가쪽 20분정도 산책, 만난 사람 없음
+                                    </dd>
+                                    <dt>17:00</dt>
+                                    <dd class="desc">
+                                        거주 주택
+                                    </dd>
                                 </dl>
                                 <h4>2020.03.01(일)</h4>
                                 <dl>
-                                  <dt>09:00</dt>
-                                  <dd class="desc">
-                                    기상
-                                  </dd>
-                                  <dt>14:47</dt>
-                                  <dd class="desc">
-                                    언니에게서 어머니 확진소식 연락받음
-                                  </dd>
-                                  <dt>16:00</dt>
-                                  <dd class="desc">
-                                    지인 B씨 차로 한마음병원으로 출발
-                                  </dd>
-                                  <dt>17:00</dt>
-                                  <dd class="desc">
-                                    한마음병원 도착
-                                  </dd>
-                                  <dt>19:00</dt>
-                                  <dd class="desc">
-                                    거주 주택 도착 후 자가격리
-                                  </dd>
-                                  <dt>24:00</dt>
-                                  <dd class="desc">
-                                    확진 판정 후 이송
-                                  </dd>
+                                    <dt>09:00</dt>
+                                    <dd class="desc">
+                                        기상
+                                    </dd>
+                                    <dt>14:47</dt>
+                                    <dd class="desc">
+                                        언니에게서 어머니 확진소식 연락받음
+                                    </dd>
+                                    <dt>16:00</dt>
+                                    <dd class="desc">
+                                        지인 B씨 차로 한마음병원으로 출발
+                                    </dd>
+                                    <dt>17:00</dt>
+                                    <dd class="desc">
+                                        한마음병원 도착
+                                    </dd>
+                                    <dt>19:00</dt>
+                                    <dd class="desc">
+                                        거주 주택 도착 후 자가격리
+                                    </dd>
+                                    <dt>24:00</dt>
+                                    <dd class="desc">
+                                        확진 판정 후 이송
+                                    </dd>
                                 </dl>
                               </div>
                               <!-- //3번째 확진자 -->
-                              <div class="source"><span class="title">출처</span><span class="desc"><a
-                                    href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm?act=view&seq=1234263">제주특별자치도</a></span>
-                              </div>
+                              <div class="source"><span class="title">출처</span><span class="desc"><a href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm?act=view&seq=1234263">제주특별자치도</a></span></div>
                             </div>
                           </div>
                         </div>
@@ -1166,93 +1059,87 @@
                         <div class="card">
                           <div class="card-header" id="headingTwo">
                             <h2 class="mb-0 cases-title">
-                              <button class="btn btn-link" type="button" data-toggle="collapse"
-                                data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                                 두번째 확진자 <span class="desc">(서귀포 WE호텔근무여성)</span>
                               </button>
                             </h2>
                           </div>
-                          <div id="collapseTwo" class="collapse hide" aria-labelledby="headingOne"
-                            data-parent="#accordionExample">
+                          <div id="collapseTwo" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordionExample">
                             <div class="card-body">
                               <!-- 2번째 확진자 -->
                               <div class="cases-route-map">
                                 <h4>2020.02.16(일)</h4>
                                 <dl>
-                                  <dt>12:10</dt>
-                                  <dd class="desc">
-                                    아시아나를 타고 제주에 도착
-                                  </dd>
-                                  <dt>13:10</dt>
-                                  <dd class="desc">
-                                    제주국제공항 버스 정류소에서 182번 삼화여객을 타고 서귀포로 이동
-                                  </dd>
-                                  <dt>14:06</dt>
-                                  <dd class="desc">
-                                    중문 우체국 버스정류장에 하차
-                                    <p class="bold">이후 도보로 이동해 CU제주중문점을 방문했다.</p>
-                                  </dd>
+                                    <dt>12:10</dt>
+                                    <dd class="desc">
+                                        아시아나를 타고 제주에 도착
+                                    </dd>
+                                    <dt>13:10</dt>
+                                    <dd class="desc">
+                                        제주국제공항 버스 정류소에서 182번 삼화여객을 타고 서귀포로 이동
+                                    </dd>
+                                    <dt>14:06</dt>
+                                    <dd class="desc">
+                                        중문 우체국 버스정류장에 하차
+                                        <p class="bold">이후 도보로 이동해 CU제주중문점을 방문했다.</p>
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.17(월)</h4>
                                 <dl>
-                                  <dt>~ 17:00</dt>
-                                  <dd class="desc">
-                                    서귀포 WE호텔 근무
-                                    <p class="contact">호텔 임시 휴관조치 / 자가격리</p>
-                                  </dd>
+                                    <dt>~ 17:00</dt>
+                                    <dd class="desc">
+                                        서귀포 WE호텔 근무
+                                        <p class="contact">호텔 임시 휴관조치 / 자가격리</p>
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.19(수)</h4>
                                 <dl>
-                                  <dt>15:43</dt>
-                                  <dd>중문동사거리에서 개인택시를 하차 후 중문 신내과 방문</dd>
-                                  <dt>16:02 ~ 16:06</dt>
-                                  <dd>중문환승정류장(중문 우체국) 버스정류소에서 버스 대기</dd>
-                                  <dt>16:06 ~ 16:29</dt>
-                                  <dd>202번 버스를 타고 서귀포시 (구)버스터미널에서 하차</dd>
-                                  <dt>회사 셔틀 버스 이용</dt>
-                                  <dd class="desc">
-                                    <p class="bold">지속적으로 마스크 착용</p>
-                                    <p class="contact">셔틀버스 운행 중지 및 소독 / 이용자 명단 파악 중</p>
-                                  </dd>
+                                    <dt>15:43</dt>
+                                    <dd>중문동사거리에서 개인택시를 하차 후 중문 신내과 방문</dd>
+                                    <dt>16:02 ~ 16:06</dt>
+                                    <dd>중문환승정류장(중문 우체국) 버스정류소에서 버스 대기</dd>
+                                    <dt>16:06 ~ 16:29</dt>
+                                    <dd>202번 버스를 타고 서귀포시 (구)버스터미널에서 하차</dd>
+                                    <dt>회사 셔틀 버스 이용</dt>
+                                    <dd class="desc">
+                                        <p class="bold">지속적으로 마스크 착용</p>
+                                        <p class="contact">셔틀버스 운행 중지 및 소독 / 이용자 명단 파악 중</p>
+                                    </dd>
                                 </dl>
                                 <h4>2020.02.20(목)</h4>
                                 <dl>
-                                  <dt>12:40</dt>
-                                  <dd>중문우체국 맞은편 버스정류소에서 대기</dd>
-                                  <dt>12:40 ~ 12:52</dt>
-                                  <dd>182번 삼화여객을 타고 월드컵경기장서귀포버스터미널 정류소에서 하차</dd>
-                                  <dt>버스를 이용해 서귀포 이마트로 이동한 것이 확인</dt>
+                                    <dt>12:40</dt>
+                                    <dd>중문우체국 맞은편 버스정류소에서 대기</dd>
+                                    <dt>12:40 ~ 12:52</dt>
+                                    <dd>182번 삼화여객을 타고 월드컵경기장서귀포버스터미널 정류소에서 하차</dd>
+                                    <dt>버스를 이용해 서귀포 이마트로 이동한 것이 확인</dt>
                                 </dl>
                                 <h4>2020.02.21(금)</h4>
                                 <dl>
-                                  <dt>12:41 ~ 13:08</dt>
-                                  <dd>우체국 버스정류소에서 182번 삼화여객을 타고 중앙로터리(동) 정류장에 하차한 후 서귀포 열린 병원 방문</dd>
-                                  <dt>12:40 ~ 12:52</dt>
-                                  <dd>182번 삼화여객을 타고 월드컵경기장서귀포버스터미널 정류소에서 하차</dd>
-                                  <dt>서귀포 열린 병원을 가는 동안 탑승한 버스 정보도 CCTV에 나타났다.</dt>
+                                    <dt>12:41 ~ 13:08</dt>
+                                    <dd>우체국 버스정류소에서 182번 삼화여객을 타고 중앙로터리(동) 정류장에 하차한 후 서귀포 열린 병원 방문</dd>
+                                    <dt>12:40 ~ 12:52</dt>
+                                    <dd>182번 삼화여객을 타고 월드컵경기장서귀포버스터미널 정류소에서 하차</dd>
+                                    <dt>서귀포 열린 병원을 가는 동안 탑승한 버스 정보도 CCTV에 나타났다.</dt>
                                 </dl>
                                 <h4>2020.02.22(토)</h4>
                                 <dl>
-                                  <dt>01:45</dt>
-                                  <dd>제주보건환경연구원이 검사를 실시한 결과 양성반응이 나옴에 따라 질병관리본부에 최종 검사를 의뢰</dd>
+                                    <dt>01:45</dt>
+                                    <dd>제주보건환경연구원이 검사를 실시한 결과 양성반응이 나옴에 따라 질병관리본부에 최종 검사를 의뢰</dd>
                                 </dl>
-                                <div class="info-box">
-                                  <ul>
-                                    <li>제주특별자치도는 도내 두 번째 코로나19 양성 반응자의 동선과 관련해 CCTV와 버스카드 이용 내역을 추가로 확인하고, 탑승한 버스 노선에 대한
-                                      정보를 추가로 공개했다.</li>
-                                    <li>도는 두 번째 코로나19 양성 반응자가 탑승했던 버스차량들은 운행중지 후 소독 조치를 취했으며, 운수종사자들은 모두 격리 조치됐다.</li>
-                                    <li>해당 노선은 다른 예비차량을 투입해 정상 운행 중이다.</li>
-                                    <li>제주대학교병원 음압병실에 이송돼 현재 격리 치료 중이다.</li>
-                                  </ul>
-                                </div>
+                                  <div class="info-box">
+                                      <ul>
+                                          <li>제주특별자치도는 도내 두 번째 코로나19 양성 반응자의 동선과 관련해 CCTV와 버스카드 이용 내역을 추가로 확인하고, 탑승한 버스 노선에 대한 정보를 추가로 공개했다.</li>
+                                          <li>도는 두 번째 코로나19 양성 반응자가 탑승했던 버스차량들은 운행중지 후 소독 조치를 취했으며, 운수종사자들은 모두 격리 조치됐다.</li>
+                                          <li>해당 노선은 다른 예비차량을 투입해 정상 운행 중이다.</li>
+                                          <li>제주대학교병원 음압병실에 이송돼 현재 격리 치료 중이다.</li>
+                                      </ul>
+                                  </div>
                               </div>
                               <!-- //2번째 확진자 -->
-                              <div class="source"><span class="title">출처</span><span class="desc"><a target="_blank"
-                                    href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm?act=view&seq=1233486">제주특별자치도</a><br>
+                              <div class="source"><span class="title">출처</span><span class="desc"><a target="_blank" href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm?act=view&seq=1233486">제주특별자치도</a><br>
                                   * 해당 양성반응자는 2월 22일 확진 판정</span></div>
-                              <div class="source"><span class="title">상세정보</span><span class="desc"><a target="_blank"
-                                    href="https://jeju.go.kr/files/convert/202002/99cb45de-763d-41f2-bf48-2b5da5549045.hwp.htm">제주특별자치도
-                                    정보제공 상세이동경로</a></span></div>
+                              <div class="source"><span class="title">상세정보</span><span class="desc"><a target="_blank" href="https://jeju.go.kr/files/convert/202002/99cb45de-763d-41f2-bf48-2b5da5549045.hwp.htm">제주특별자치도 정보제공 상세이동경로</a></span></div>
                             </div>
                           </div>
                         </div>
@@ -1262,69 +1149,64 @@
                         <div class="card">
                           <div class="card-header" id="headingOne">
                             <h2 class="mb-0 cases-title">
-                              <button class="btn btn-link text-left" type="button" data-toggle="collapse"
-                                data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                              <button class="btn btn-link text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                 첫번째 확진자 <span class="desc">(휴가차 대구에 다녀온 군인)</span>
                               </button>
                             </h2>
                           </div>
-                          <div id="collapseOne" class="collapse hide" aria-labelledby="headingOne"
-                            data-parent="#accordionExample">
+                          <div id="collapseOne" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordionExample">
                             <div class="card-body">
                               <!-- 1번째 확진자 -->
                               <div class="cases-route-map">
-                                <h4>2020.02.18(화)</h4>
-                                <dl>
-                                  <dt>20:21</dt>
-                                  <dd class="desc">
-                                    대구발 제주행 비행기 탑승하여 제주에 도착
-                                  </dd>
-                                  <dt>20:35</dt>
-                                  <dd class="desc">
-                                    제주공항 택시승차장서 개인택시 탑승
-                                  </dd>
-                                  <dt>20:54</dt>
-                                  <dd class="desc">
-                                    제주공항 옆 해군부대 앞서 택시 하차 후 편의점 이용
-                                  </dd>
-                                  <dt>21:23</dt>
-                                  <dd class="desc">
-                                    편의점서 도보로 군부대 복귀
-                                  </dd>
-                                </dl>
-                                <h4>2020.02.19(수)</h4>
-                                <dl>
-                                  <dt>일과 전후 시간</dt>
-                                  <dd class="desc">
-                                    군부대 내에서만 생활
-                                  </dd>
-                                </dl>
-                                <h4>2020.02.20(목)</h4>
-                                <dl>
-                                  <dt>08:45</dt>
-                                  <dd class="desc">
-                                    부대 구급차 이용 한라병원 선별진료소 방문
-                                  </dd>
-                                  <dt>09:41</dt>
-                                  <dd class="desc">
-                                    선별진료소 검사실서 1차 검사 및 약처방 받음
-                                  </dd>
-                                  <dt>10:06</dt>
-                                  <dd class="desc">
-                                    부대 구급차 이용 군부대로 복귀
-                                  </dd>
-                                  <dt>18:20</dt>
-                                  <dd class="desc">
-                                    제주보건소 구급차로 제주대병원으로 이송
-                                  </dd>
-                                </dl>
+                                  <h4>2020.02.18(화)</h4>
+                                  <dl>
+                                      <dt>20:21</dt>
+                                      <dd class="desc">
+                                          대구발 제주행 비행기 탑승하여 제주에 도착
+                                      </dd>
+                                      <dt>20:35</dt>
+                                      <dd class="desc">
+                                          제주공항 택시승차장서 개인택시 탑승
+                                      </dd>
+                                      <dt>20:54</dt>
+                                      <dd class="desc">
+                                          제주공항 옆 해군부대 앞서 택시 하차 후 편의점 이용
+                                      </dd>
+                                      <dt>21:23</dt>
+                                      <dd class="desc">
+                                          편의점서 도보로 군부대 복귀
+                                      </dd>
+                                  </dl>
+                                  <h4>2020.02.19(수)</h4>
+                                  <dl>
+                                      <dt>일과 전후 시간</dt>
+                                      <dd class="desc">
+                                          군부대 내에서만 생활
+                                      </dd>
+                                  </dl>
+                                  <h4>2020.02.20(목)</h4>
+                                  <dl>
+                                      <dt>08:45</dt>
+                                      <dd class="desc">
+                                          부대 구급차 이용 한라병원 선별진료소 방문
+                                      </dd>
+                                      <dt>09:41</dt>
+                                      <dd class="desc">
+                                          선별진료소 검사실서 1차 검사 및 약처방 받음
+                                      </dd>
+                                      <dt>10:06</dt>
+                                      <dd class="desc">
+                                          부대 구급차 이용 군부대로 복귀
+                                      </dd>
+                                      <dt>18:20</dt>
+                                      <dd class="desc">
+                                          제주보건소 구급차로 제주대병원으로 이송
+                                      </dd>
+                                  </dl>
                               </div>
                               <!-- //1번째 확진자 -->
-                              <div class="source"><span class="title">출처</span><span class="desc"><a
-                                    href="http://www.jejusori.net">제주의소리</a></span></div>
-                              <div class="source"><span class="title">상세정보</span><span class="desc"><a
-                                    href="https://jeju.go.kr/files/convert/202002/99cb45de-763d-41f2-bf48-2b5da5549045.hwp.htm"
-                                    target="_blank">제주특별자치도 정보제공 상세이동경로</a></span></div>
+                              <div class="source"><span class="title">출처</span><span class="desc"><a href="http://www.jejusori.net">제주의소리</a></span></div>
+                              <div class="source"><span class="title">상세정보</span><span class="desc"><a href="https://jeju.go.kr/files/convert/202002/99cb45de-763d-41f2-bf48-2b5da5549045.hwp.htm" target="_blank">제주특별자치도 정보제공 상세이동경로</a></span></div>
                             </div>
                           </div>
                         </div>
@@ -1343,8 +1225,7 @@
                     <!-- Card Header - Dropdown -->
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                       <h6 class="m-0 font-weight-bold text-danger">중국관광객 제주 입도 현황(2월 4일 무사증 중단)</h6>
-                      <div class="right"><a class="new_window" href="http://www.cdc.go.kr/contents.es?mid=a21111060000"
-                          target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                      <div class="right"><a class="new_window" href="http://www.cdc.go.kr/contents.es?mid=a21111060000" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                     </div>
                     <!-- Card Body -->
                     <div class="card-body">
@@ -1367,8 +1248,7 @@
                     <div class="card-body">
                       <div class="chart-area">
                         <p class="text-right">* 19년 일별 평균
-                          <a target="_blank" href="http://www.visitjeju.or.kr/web/bbs/bbsList.do?bbsId=TOURSTAT">입도객</a>
-                          추가</p>
+                          <a target="_blank" href="http://www.visitjeju.or.kr/web/bbs/bbsList.do?bbsId=TOURSTAT">입도객</a> 추가</p>
                         <canvas id="myAreaChart_three"></canvas>
                       </div>
                     </div>
@@ -1392,19 +1272,14 @@
                   <ul class="mt10">
                     <li><strong>보건소</strong> : 검체체취 및 선별진료소 이동여부 결정</li>
                     <li><strong>선별진료소</strong> : 코로나19 검사</li>
-                    <li><strong>국민안심병원</strong> : 호흡기 환자의 병원 방문부터 입원까지 전 진료 과정을 나머지 환자들과 분리해 진료하는 의료기관, 코로나19에 대한 국민 불안을
-                      줄이고, 비호흡기 환자들이 코로나19 감염에 대한 걱정 없이 진료를 받을 수 있도록 마련</li>
+                    <li><strong>국민안심병원</strong> : 호흡기 환자의 병원 방문부터 입원까지 전 진료 과정을 나머지 환자들과 분리해 진료하는 의료기관, 코로나19에 대한 국민 불안을 줄이고, 비호흡기 환자들이 코로나19 감염에 대한 걱정 없이 진료를 받을 수 있도록 마련</li>
                   </ul>
                   <p style="margin-top:1rem">
-                    <a target="_blank" class="btn btn-primary" href="http://www.mohw.go.kr/react/popup_200128.html"
-                      role="button">코로나19 선별진료소 및 안심병원(전국)</a>
-                    <button type="button" class="btn btn-primary m-mt-1" data-toggle="modal"
-                      onclick="location.href='https://jeju.livecorona.co.kr'">자세한 지도 확인</button>
-                    <button type="button" class="btn btn-primary m-mt-1" data-toggle="modal"
-                      data-target="#jejuHealthCenter">제주 보건지소현황</button>
+                    <a target="_blank" class="btn btn-primary" href="http://www.mohw.go.kr/react/popup_200128.html" role="button">코로나19 선별진료소 및 안심병원(전국)</a>
+                    <button type="button" class="btn btn-primary m-mt-1" data-toggle="modal" onclick="location.href='https://jeju.livecorona.co.kr'">자세한 지도 확인</button>
+                    <button type="button" class="btn btn-primary m-mt-1" data-toggle="modal" data-target="#jejuHealthCenter">제주 보건지소현황</button>
                     <!-- Modal -->
-                    <div class="modal fade" id="jejuHealthCenter" tabindex="-1" role="dialog"
-                      aria-labelledby="jejuHealthCenterLabel" aria-hidden="true">
+                    <div class="modal fade" id="jejuHealthCenter" tabindex="-1" role="dialog" aria-labelledby="jejuHealthCenterLabel" aria-hidden="true">
                       <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
                         <div class="modal-content">
                           <div class="modal-header">
@@ -1859,9 +1734,7 @@
                       </li>
                       <li>
                         <a href="http://www.cdc.go.kr/linkCheck.es?mid=a21111050500" target="_blank">질병관리본부</a>,
-                        <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a>, 및 <a
-                          href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm">제주도청</a>의 데이터를 근거하여 매일
-                        업데이트합니다.
+                        <a href="http://news.kbs.co.kr/common/main.html" target="_blank">KBS</a>, 및 <a href="http://www.jeju.go.kr/wel/healthCare/corona/coronaNotice.htm">제주도청</a>의 데이터를 근거하여 매일 업데이트합니다.
                       </li>
                       <li>
                         자발적으로 참여해주신 분들께서 팀을 꾸려 비용을 받지 않고 업데이트 중에 있습니다.
@@ -1874,28 +1747,19 @@
                         <a href="https://www.ncloud.com" target="_blank">네이버 클라우드 플랫폼</a>에서 서버 및 지도 API를 무상 지원합니다.
                       </li>
                       <li>
-                        모든 소스는 오픈되어 있습니다. 지역별 현황판을 만들고 싶으시거나 다음에도 비슷한 상황이 발생되었을 경우, 이 <a
-                          href="https://github.com/LiveCoronaDetector/livecod" target="_blank">프로젝트</a>를 사용해주세요.
+                        모든 소스는 오픈되어 있습니다. 지역별 현황판을 만들고 싶으시거나 다음에도 비슷한 상황이 발생되었을 경우, 이 <a href="https://github.com/LiveCoronaDetector/livecod" target="_blank">프로젝트</a>를 사용해주세요.
                       </li>
                       <br>
 
                       <li>데이터만 가져가시고 싶으신 경우 아래 파일을 참고해주세요. 20분마다 업데이트되는 파일입니다.</li>
-                      <li>한국 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data"
-                          target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/data/koreaRegionalData.js"
-                          target="_blank">사용가능한 URL 바로가기</a></li>
-                      <li>해외 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data"
-                          target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/data/worldData.js"
-                          target="_blank">사용가능한 URL 바로가기</a></li>
-                      <li>누적 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data"
-                          target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/totalDataSet.js"
-                          target="_blank">사용가능한 URL 바로가기</a></li>
+                      <li>한국 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data" target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/data/koreaRegionalData.js" target="_blank">사용가능한 URL 바로가기</a></li>
+                      <li>해외 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data" target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/data/worldData.js" target="_blank">사용가능한 URL 바로가기</a></li>
+                      <li>누적 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data" target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/totalDataSet.js" target="_blank">사용가능한 URL 바로가기</a></li>
 
                     </ul>
                     <p class="text-right">
-                      <a target="_blank" rel="noopener noreferrer"
-                        href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">담당자 및 도움을 주신 분들</a> |
-                      <a target="_blank" rel="noopener noreferrer"
-                        href="https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9">업데이트 히스토리</a>
+                      <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">담당자 및 도움을 주신 분들</a> |
+                      <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9">업데이트 히스토리</a>
                     </p>
                   </div>
                 </div>
@@ -1913,8 +1777,7 @@
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
             <span>Copyright &copy;
-              <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">라이브코로나
-                livecorona.co.kr</a>
+              <a target="_blank" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">라이브코로나 livecorona.co.kr</a>
             </span>
           </div>
         </div>
@@ -1923,8 +1786,7 @@
     </div>
     <!-- End of Content Wrapper -->
     <!-- Modal : Together -->
-    <div class="modal fade" id="togetherModal" tabindex="-1" role="dialog" aria-labelledby="togetherModalLabel"
-      aria-hidden="true">
+    <div class="modal fade" id="togetherModal" tabindex="-1" role="dialog" aria-labelledby="togetherModalLabel" aria-hidden="true">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
@@ -1936,20 +1798,17 @@
           <div class="modal-body text-center">
             <div class="row">
               <div class="col-6">
-                <a href="https://together.kakao.com/tags/%EC%BD%94%EB%A1%9C%EB%82%9819" target="_blank"><span
-                    class="tag">모금</span><img src="./img/kakao.png" alt=""></a>
+                <a href="https://together.kakao.com/tags/%EC%BD%94%EB%A1%9C%EB%82%9819" target="_blank"><span class="tag">모금</span><img src="./img/kakao.png" alt=""></a>
                 <h6>카카오 같이가치</h6>
               </div>
               <div class="col-6">
-                <a href="https://www.wadiz.kr/web/campaign/detail/61863" target="_blank"><span class="tag">모금</span><img
-                    src="./img/wadiz.png" alt=""></a>
+                <a href="https://www.wadiz.kr/web/campaign/detail/61863" target="_blank"><span class="tag">모금</span><img src="./img/wadiz.png" alt=""></a>
                 <h6>대구/경북에 희망을!Hope Together with 신한</h6>
               </div>
             </div>
             <div class="row">
               <div class="col-6">
-                <a href="http://www.jejuilbo.net/news/articleView.html?idxno=140662" target="_blank"><span
-                    class="tag color2">무료앱</span><img src="./img/logo_cie.png" alt=""></a>
+                <a href="http://www.jejuilbo.net/news/articleView.html?idxno=140662" target="_blank"><span class="tag color2">무료앱</span><img src="./img/logo_cie.png" alt=""></a>
                 <h6>캐치잇 잉글리시</h6>
               </div>
             </div>
@@ -2009,8 +1868,7 @@
   </script>
 
   <script>
-    document.getElementById("치명률").innerHTML = ((분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][3] / 분석차트_한국누적확진자[분석차트_한국누적확진자
-      .length - 1][1]) * 100).toFixed(2);
+    document.getElementById("치명률").innerHTML = ((분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][3] / 분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][1]) * 100).toFixed(2);
     document.getElementById("세계치명률").innerHTML = ((사망자수 / 확진자수) * 100).toFixed(2);
 
     document.getElementById("치명률_날짜").innerHTML = 분석차트_한국누적확진자[분석차트_한국누적확진자.length - 1][0];
@@ -2018,10 +1876,10 @@
 
   <script>
     // 국내, 세계 상세현황 그래프 관련 스크립트
-    var korea = marker.find(function (i) {
+    var korea = marker.find(function(i) {
       return i.Name == "한국";
     });
-    var jeju = marker.find(function (i) {
+    var jeju = marker.find(function(i) {
       return i.Name == "제주";
     });
     var 모든확진자수 = 확진자수;
@@ -2094,13 +1952,13 @@
 
   <!-- A 태그 #앵커 부드러운 이동 -->
   <script>
-    document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
-      anchor.addEventListener('click', function (e) {
+    document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
+      anchor.addEventListener('click', function(e) {
         e.preventDefault();
         var href_name = this.getAttribute('href')
 
         // 한국 확진자수 증가추이의 탭 클릭시, 스크롤이 움직이지 않도록
-        if (href_name == "#korea_line_chart" || href_name == "#korea_semi_log_chart") {
+        if(href_name == "#korea_line_chart" || href_name == "#korea_semi_log_chart"){
           return;
         }
 
@@ -2115,7 +1973,7 @@
 
   <!-- 15분마다 사이트 새로고침 -->
   <script>
-    setInterval(function () {
+    setInterval(function() {
       window.location.reload();
     }, 15 * (1000 * 60));
   </script>
@@ -2155,31 +2013,25 @@
       }
     }
 
-    $("#btnAlertBannerClose").click(function () {
+    $("#btnAlertBannerClose").click(function() {
       // 맨 마지막 옵션인 "시간"만 변경하세요. 단위가 day -> hour로 변경되었습니다.
       setCookie("alertBannerClosed", bannerCount, 12);
     });
 
-    $(document).ready(function () {
+    $(document).ready(function(){
       // Toggle the side navigation
-      $("#sidebarToggle, #sidebarToggleTop").on('click', function (e) {
+      $("#sidebarToggle, #sidebarToggleTop").on('click', function(e) {
         $(".content").toggleClass("expended");
         $(this).children('i').toggleClass("fa-chevron-circle-left fa-bars");
       });
 
-      if ($(window).width() < 760) {
+      if($(window).width() < 760){
         $('#sidebarToggleTop').trigger('click');
       };
     });
 
     // 배너를 숨기고 싶으면 아래 코드를 주석처리하세요
     //showBanner();
-
-    //<!-- 차트 툴팁 기능-- >
-    $(function () {
-      $('[data-toggle="tooltip"]').tooltip()
-    })
-
   </script>
 </body>
 
