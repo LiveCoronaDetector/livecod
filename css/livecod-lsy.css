@@ -360,6 +360,7 @@ header .m-none{
   position: relative;
   display: inline-block;
   content: '';
+  top: -1px;
   width: 10px;
   height: 5px;
   vertical-align: middle;
