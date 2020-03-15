@@ -841,6 +841,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Puerto Rico",
+        "Name_ch": "",
+        "Name_en": "Puerto Rico",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
@@ -876,14 +884,6 @@ var marker = [
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "확진자수": 3,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Puerto Rico",
-        "Name_ch": "",
-        "Name_en": "Puerto Rico",
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
