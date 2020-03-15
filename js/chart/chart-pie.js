@@ -24,6 +24,7 @@ for (var i = 0; i < 15; i++) {
   var percentage = marker[i].확진자수 / 모든확진자수 * 100;
   var TOP5_치명율 = (marker[i].사망자수 / marker[i].확진자수 * 100).toFixed(2);
   var TOP5_완치율 = (marker[i].완치자수 / marker[i].확진자수 * 100).toFixed(2);
+<<<<<<< HEAD
   topText[i].innerHTML = String(i + 1) + '. ' +
     marker[i].Name +
     ' : ' +
@@ -33,6 +34,17 @@ for (var i = 0; i < 15; i++) {
     "(치명률 : " + TOP5_치명율 +
     "%, 완치율 : " + TOP5_완치율 + "%)" +
     "</span>";
+=======
+  topText[i].innerHTML = String(i+1) + '. ' +
+  marker[i].Name +
+  ' : ' +
+  Number(marker[i].확진자수).toLocaleString() +
+  ' ( ' + Math.round(percentage * 100) / 100 + "%" + ' )' +
+  "<span class='float-right'>" +
+  "(치명률 : " + TOP5_치명율 +
+  "%, 완치율 : "  + TOP5_완치율 + "%)" +
+  "</span>";
+>>>>>>> a2373a6cb4e99093c726dfde50e8177f78da96d6
   top확진자[i].style.width = percentage / 100 * (100 - TOP5_완치율 - TOP5_치명율) + "%";
   top완치자[i].style.width = percentage / 100 * TOP5_완치율 + "%";
   top사망자[i].style.width = percentage / 100 * TOP5_치명율 + "%";

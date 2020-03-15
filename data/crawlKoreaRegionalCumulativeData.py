@@ -55,7 +55,18 @@ for i in deaths_total_data:
         # print(i)
         korea_deaths = i[index:]
 
-korea_data = list(zip(korea_deaths_date, korea_confirmed, korea_deaths))
+index = deaths_total_data[0].index('2/1/20') #14
+
+korea_recovered_date = recovered_total_data[0][index:]
+korea_recovered_date = [ i[:-3] for i in korea_recovered_date ]
+
+for i in recovered_total_data:
+    if i[1] == 'Korea, South':
+        # print(i)
+        korea_recovered = i[index:]
+
+
+korea_data = list(zip(korea_deaths_date, korea_confirmed, korea_deaths, korea_recovered))
 result = []
 for i in range(len(korea_data)):
     if i == 0:
@@ -63,14 +74,16 @@ for i in range(len(korea_data)):
                     korea_data[i][0],
                     int(korea_data[i][1]),
                     1,
-                    int(korea_data[i][2])
+                    int(korea_data[i][2]),
+                    int(korea_data[i][3])
                     ])
     else:
         result.append([
                     korea_data[i][0],
                     int(korea_data[i][1]),
                     int(korea_data[i][1]) - int(korea_data[i-1][1]),
-                    int(korea_data[i][2])
+                    int(korea_data[i][2]),
+                    int(korea_data[i][3])
                     ])
 
 with open("./data/koreaRegionalCumulativeData.js", "w", encoding='UTF-8-sig') as json_file:
