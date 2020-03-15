@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 3049,
+        "확진자수": 3083,
         "사망자수": 60,
         "완치자수": 56
     },
@@ -681,6 +681,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 12,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
@@ -745,14 +753,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 9,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
@@ -813,6 +813,14 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Paraguay",
         "확진자수": 7,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Ghana",
+        "Name_ch": "",
+        "Name_en": "Ghana",
+        "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -980,14 +988,6 @@ var marker = [
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Ghana",
-        "Name_ch": "",
-        "Name_en": "Ghana",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
