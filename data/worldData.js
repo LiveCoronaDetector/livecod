@@ -4,7 +4,7 @@ var marker = [
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "확진자수": 80824,
+        "확진자수": 80844,
         "사망자수": 3199,
         "완치자수": 66911
     },
@@ -300,9 +300,17 @@ var marker = [
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "확진자수": 109,
+        "확진자수": 110,
         "사망자수": 2,
         "완치자수": 27
+    },
+    {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "확진자수": 104,
+        "사망자수": 3,
+        "완치자수": 13
     },
     {
         "Name": "쿠웨이트",
@@ -310,15 +318,7 @@ var marker = [
         "Name_en": "Kuwait",
         "확진자수": 104,
         "사망자수": 0,
-        "완치자수": 5
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "확진자수": 103,
-        "사망자수": 3,
-        "완치자수": 13
+        "완치자수": 7
     },
     {
         "Name": "사우디아라비아",
@@ -449,6 +449,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "페루",
+        "Name_ch": "秘鲁",
+        "Name_en": "Peru",
+        "확진자수": 43,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
@@ -486,14 +494,6 @@ var marker = [
         "Name_en": "Albania",
         "확진자수": 38,
         "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "페루",
-        "Name_ch": "秘鲁",
-        "Name_en": "Peru",
-        "확진자수": 38,
-        "사망자수": 0,
         "완치자수": 0
     },
     {
@@ -745,6 +745,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "New Zealand",
+        "Name_ch": "",
+        "Name_en": "New Zealand",
+        "확진자수": 8,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
@@ -759,14 +767,6 @@ var marker = [
         "확진자수": 7,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "New Zealand",
-        "Name_ch": "",
-        "Name_en": "New Zealand",
-        "확진자수": 7,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "French Guiana",
