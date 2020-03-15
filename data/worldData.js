@@ -4,7 +4,7 @@ var marker = [
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "확진자수": 80844,
+        "확진자수": 80849,
         "사망자수": 3199,
         "완치자수": 66913
     },
@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2999,
+        "확진자수": 3000,
         "사망자수": 60,
         "완치자수": 56
     },
@@ -465,6 +465,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "멕시코",
+        "Name_ch": "墨西哥",
+        "Name_en": "Mexico",
+        "확진자수": 41,
+        "사망자수": 0,
+        "완치자수": 4
+    },
+    {
         "Name": "Brunei",
         "Name_ch": "",
         "Name_en": "Brunei",
@@ -569,14 +577,6 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "멕시코",
-        "Name_ch": "墨西哥",
-        "Name_en": "Mexico",
-        "확진자수": 26,
-        "사망자수": 0,
-        "완치자수": 4
-    },
-    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -665,6 +665,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "阿富汗",
+        "Name_en": "Afghanistan",
+        "확진자수": 16,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
@@ -673,17 +681,17 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "아프가니스탄",
-        "Name_ch": "阿富汗",
-        "Name_en": "Afghanistan",
+        "Name": "도미니카 공화국",
+        "Name_ch": "多明尼加共和国",
+        "Name_en": "Dominican Republic",
         "확진자수": 11,
         "사망자수": 0,
         "완치자수": 0
     },
     {
-        "Name": "도미니카 공화국",
-        "Name_ch": "多明尼加共和国",
-        "Name_en": "Dominican Republic",
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
         "확진자수": 11,
         "사망자수": 0,
         "완치자수": 0
@@ -716,14 +724,6 @@ var marker = [
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "확진자수": 10,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
         "확진자수": 10,
         "사망자수": 0,
         "완치자수": 0
@@ -1212,6 +1212,14 @@ var marker = [
         "Name": "U.S. Virgin Islands",
         "Name_ch": "",
         "Name_en": "U.S. Virgin Islands",
+        "확진자수": 1,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
