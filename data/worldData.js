@@ -902,7 +902,7 @@ var marker = [
         "Name_en": "Nigeria",
         "확진자수": 2,
         "사망자수": 0,
-        "완치자수": 0
+        "완치자수": 1
     },
     {
         "Name": "Aruba",
