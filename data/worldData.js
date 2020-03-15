@@ -36,7 +36,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 5795,
+        "확진자수": 5813,
         "사망자수": 11,
         "완치자수": 46
     },
@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 3313,
+        "확진자수": 3326,
         "사망자수": 63,
         "완치자수": 59
     },
@@ -70,7 +70,7 @@ var marker = [
         "Name_en": "UK",
         "확진자수": 1372,
         "사망자수": 35,
-        "완치자수": 18
+        "완치자수": 20
     },
     {
         "Name": "노르웨이",
@@ -164,7 +164,7 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
-        "확진자수": 313,
+        "확진자수": 317,
         "사망자수": 1,
         "완치자수": 11
     },
@@ -545,6 +545,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Cyprus",
+        "Name_ch": "",
+        "Name_en": "Cyprus",
+        "확진자수": 33,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "헝가리",
         "Name_ch": "",
         "Name_en": "Hungary",
@@ -596,14 +604,6 @@ var marker = [
         "Name": "아르메니아",
         "Name_ch": "",
         "Name_en": "Armenia",
-        "확진자수": 26,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Cyprus",
-        "Name_ch": "",
-        "Name_en": "Cyprus",
         "확진자수": 26,
         "사망자수": 0,
         "완치자수": 0
@@ -713,6 +713,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "마카오",
+        "Name_ch": "",
+        "Name_en": "Macao",
+        "확진자수": 11,
+        "사망자수": 0,
+        "완치자수": 10
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "",
         "Name_en": "Dominican Republic",
@@ -727,14 +735,6 @@ var marker = [
         "확진자수": 11,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "마카오",
-        "Name_ch": "",
-        "Name_en": "Macao",
-        "확진자수": 10,
-        "사망자수": 0,
-        "완치자수": 10
     },
     {
         "Name": "요르단",
@@ -969,6 +969,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Seychelles",
+        "Name_ch": "",
+        "Name_en": "Seychelles",
+        "확진자수": 3,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "모나코",
         "Name_ch": "",
         "Name_en": "Monaco",
@@ -1036,14 +1044,6 @@ var marker = [
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Seychelles",
-        "Name_ch": "",
-        "Name_en": "Seychelles",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
