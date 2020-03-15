@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 3621,
+        "확진자수": 3533,
         "사망자수": 63,
         "완치자수": 59
     },
@@ -244,7 +244,7 @@ var marker = [
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "확진자수": 175,
+        "확진자수": 180,
         "사망자수": 0,
         "완치자수": 0
     },
