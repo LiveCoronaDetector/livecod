@@ -76,7 +76,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 1246,
+        "확진자수": 1249,
         "사망자수": 3,
         "완치자수": 1
     },
@@ -281,6 +281,14 @@ var marker = [
         "완치자수": 9
     },
     {
+        "Name": "이집트",
+        "Name_ch": "",
+        "Name_en": "Egypt",
+        "확진자수": 126,
+        "사망자수": 2,
+        "완치자수": 27
+    },
+    {
         "Name": "이라크",
         "Name_ch": "",
         "Name_en": "Iraq",
@@ -343,14 +351,6 @@ var marker = [
         "확진자수": 112,
         "사망자수": 0,
         "완치자수": 9
-    },
-    {
-        "Name": "이집트",
-        "Name_ch": "",
-        "Name_en": "Egypt",
-        "확진자수": 110,
-        "사망자수": 2,
-        "완치자수": 27
     },
     {
         "Name": "산마리노",
@@ -529,6 +529,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "에콰도르",
+        "Name_ch": "",
+        "Name_en": "Ecuador",
+        "확진자수": 37,
+        "사망자수": 2,
+        "완치자수": 0
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "",
         "Name_en": "Costa Rica",
@@ -575,14 +583,6 @@ var marker = [
         "확진자수": 30,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "에콰도르",
-        "Name_ch": "",
-        "Name_en": "Ecuador",
-        "확진자수": 28,
-        "사망자수": 2,
-        "완치자수": 0
     },
     {
         "Name": "모로코",
@@ -900,6 +900,14 @@ var marker = [
         "Name": "Puerto Rico",
         "Name_ch": "",
         "Name_en": "Puerto Rico",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
@@ -1244,14 +1252,6 @@ var marker = [
         "Name": "U.S. Virgin Islands",
         "Name_ch": "",
         "Name_en": "U.S. Virgin Islands",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
