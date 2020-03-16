@@ -27,12 +27,25 @@ function number_format(number, decimals, dec_point, thousands_sep) {
   return s.join(dec);
 }
 
-// Area Chart Example
+// 전세계추이
+
+var crawlWorldCumulativeData_date_Array = [];
+var crawlWorldCumulativeData_confirmed_Array = [];
+var crawlWorldCumulativeData_deaths_Array = [];
+var crawlWorldCumulativeData_recovered_Array = [];
+
+for (var i = 0; i < crawlWorldCumulativeData.length; i++) {
+  crawlWorldCumulativeData_date_Array.push(crawlWorldCumulativeData[i][0]);
+  crawlWorldCumulativeData_confirmed_Array.push(crawlWorldCumulativeData[i][1]);
+  crawlWorldCumulativeData_deaths_Array.push(crawlWorldCumulativeData[i][2]);
+  crawlWorldCumulativeData_recovered_Array.push(crawlWorldCumulativeData[i][3]);
+}
+
 var ctx = document.getElementById("myAreaChart");
 var myLineChart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: marker2.labels,
+    labels: crawlWorldCumulativeData_date_Array,
     datasets: [{
       label: "확진자수 ",
       lineTension: 0.3,
@@ -47,7 +60,7 @@ var myLineChart = new Chart(ctx, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 0,
-      data: marker2.data,
+      data: crawlWorldCumulativeData_confirmed_Array,
     },{
       label: "사망자수 ",
       lineTension: 0.3,
@@ -62,7 +75,7 @@ var myLineChart = new Chart(ctx, {
       pointHoverBorderColor: "rgba(28, 200, 138, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 0,
-      data: marker2.data2,
+      data: crawlWorldCumulativeData_deaths_Array,
     },{
       label: "완치자수 ",
       lineTension: 0.3,
@@ -77,7 +90,7 @@ var myLineChart = new Chart(ctx, {
       pointHoverBorderColor: "rgba(54, 185, 204, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 0,
-      data: marker2.data3,
+      data: crawlWorldCumulativeData_recovered_Array,
     }],
   },
   options: {
@@ -544,12 +557,12 @@ for (let i = 0; i < koreaRegionalCumulativeData.length; i++){
 
 // console.log("test", marker2.labels.indexOf("2/1"))
 
-for (let i = marker2.labels.indexOf("2/1"); i < marker2.labels.length; i++){
-  확진자추이그래프_세계확진자.push(parseInt(marker2.data[i], 10));
-  if (marker2.data[i] - marker2.data[i-1] < 0){
+for (let i = crawlWorldCumulativeData_date_Array.indexOf("2/1"); i < crawlWorldCumulativeData_date_Array.length; i++){
+  확진자추이그래프_세계확진자.push(parseInt(crawlWorldCumulativeData_confirmed_Array[i], 10));
+  if (crawlWorldCumulativeData_confirmed_Array[i] - crawlWorldCumulativeData_confirmed_Array[i-1] < 0){
     확진자추이그래프_세계확진자편차.push(0);
   } else{
-    확진자추이그래프_세계확진자편차.push(parseInt(marker2.data[i] - marker2.data[i-1], 10));
+    확진자추이그래프_세계확진자편차.push(parseInt(crawlWorldCumulativeData_confirmed_Array[i] - crawlWorldCumulativeData_confirmed_Array[i-1], 10));
   }
 }
 

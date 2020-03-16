@@ -1840,6 +1840,7 @@
   <script src="data/worldData.js"></script>
   <script src="data/koreaRegionalData.js"></script>
   <script src="data/koreaRegionalCumulativeData.js"></script>
+  <script src="data/worldCumulativeData.js"></script>
   <script src="totalDataSet.js"></script>
 
   <script>
@@ -1862,9 +1863,9 @@
 
 
     // 전세계 완치자 및 확진자 수 (marker2에서 불러옴)
-    완치자수 = marker2.data3[marker2.data3.length - 1];
-    확진자수 = marker2.data[marker2.data.length - 1];
-    사망자수 = marker2.data2[marker2.data2.length - 1];
+    확진자수 = crawlWorldCumulativeData[crawlWorldCumulativeData.length - 1][1];
+    사망자수 = crawlWorldCumulativeData[crawlWorldCumulativeData.length - 1][2];
+    완치자수 = crawlWorldCumulativeData[crawlWorldCumulativeData.length - 1][3];
 
 
     // 전 세계 완치자 ui 반영
