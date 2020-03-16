@@ -6,7 +6,7 @@ var marker = [
         "Name_en": "China",
         "확진자수": 80880,
         "사망자수": 3213,
-        "완치자수": 67780
+        "완치자수": 67819
     },
     {
         "Name": "이탈리아",
@@ -38,7 +38,7 @@ var marker = [
         "Name_en": "Germany",
         "확진자수": 6248,
         "사망자수": 13,
-        "완치자수": 46
+        "완치자수": 58
     },
     {
         "Name": "프랑스",
@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 3806,
+        "확진자수": 3807,
         "사망자수": 69,
         "완치자수": 73
     },
@@ -63,6 +63,14 @@ var marker = [
         "확진자수": 2221,
         "사망자수": 18,
         "완치자수": 4
+    },
+    {
+        "Name": "네덜란드",
+        "Name_ch": "",
+        "Name_en": "Netherlands",
+        "확진자수": 1413,
+        "사망자수": 24,
+        "완치자수": 2
     },
     {
         "Name": "영국",
@@ -81,18 +89,10 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "네덜란드",
-        "Name_ch": "",
-        "Name_en": "Netherlands",
-        "확진자수": 1135,
-        "사망자수": 20,
-        "완치자수": 2
-    },
-    {
         "Name": "벨기에",
         "Name_ch": "",
         "Name_en": "Belgium",
-        "확진자수": 1085,
+        "확진자수": 1058,
         "사망자수": 5,
         "완치자수": 1
     },
@@ -161,6 +161,14 @@ var marker = [
         "완치자수": 27
     },
     {
+        "Name": "이스라엘",
+        "Name_ch": "",
+        "Name_en": "Israel",
+        "확진자수": 344,
+        "사망자수": 0,
+        "완치자수": 4
+    },
+    {
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
@@ -201,12 +209,12 @@ var marker = [
         "완치자수": 10
     },
     {
-        "Name": "이스라엘",
+        "Name": "슬로베니아",
         "Name_ch": "",
-        "Name_en": "Israel",
-        "확진자수": 255,
-        "사망자수": 0,
-        "완치자수": 4
+        "Name_en": "Slovenia",
+        "확진자수": 253,
+        "사망자수": 1,
+        "완치자수": 0
     },
     {
         "Name": "싱가포르",
@@ -223,14 +231,6 @@ var marker = [
         "확진자수": 221,
         "사망자수": 1,
         "완치자수": 77
-    },
-    {
-        "Name": "슬로베니아",
-        "Name_ch": "",
-        "Name_en": "Slovenia",
-        "확진자수": 219,
-        "사망자수": 1,
-        "완치자수": 0
     },
     {
         "Name": "에스토니아",
@@ -417,18 +417,18 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "슬로바키아",
+        "Name": "남아프리카 공화국",
         "Name_ch": "",
-        "Name_en": "Slovakia",
-        "확진자수": 63,
+        "Name_en": "South Africa",
+        "확진자수": 64,
         "사망자수": 0,
         "완치자수": 0
     },
     {
-        "Name": "남아프리카 공화국",
+        "Name": "슬로바키아",
         "Name_ch": "",
-        "Name_en": "South Africa",
-        "확진자수": 62,
+        "Name_en": "Slovakia",
+        "확진자수": 63,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -737,6 +737,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 15,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
@@ -785,12 +793,12 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Jamaica",
+        "Name": "French Guiana",
         "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 10,
+        "Name_en": "French Guiana",
+        "확진자수": 11,
         "사망자수": 0,
-        "완치자수": 2
+        "완치자수": 0
     },
     {
         "Name": "Kazakhstan",
@@ -846,14 +854,6 @@ var marker = [
         "Name_en": "Guyana",
         "확진자수": 7,
         "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "French Guiana",
-        "Name_ch": "",
-        "Name_en": "French Guiana",
-        "확진자수": 7,
-        "사망자수": 0,
         "완치자수": 0
     },
     {
@@ -1228,6 +1228,14 @@ var marker = [
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
+        "확진자수": 1,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Somalia",
+        "Name_ch": "",
+        "Name_en": "Somalia",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
