@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 4652,
+        "확진자수": 4657,
         "사망자수": 86,
         "완치자수": 74
     },
@@ -641,6 +641,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "확진자수": 29,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "",
         "Name_en": "Sri Lanka",
@@ -713,20 +721,20 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "확진자수": 18,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 17,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Venezuela",
@@ -857,14 +865,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "확진자수": 8,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
@@ -892,6 +892,14 @@ var marker = [
         "Name": "리히텐슈타인",
         "Name_ch": "",
         "Name_en": "Liechtenstein",
+        "확진자수": 7,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
         "확진자수": 7,
         "사망자수": 0,
         "완치자수": 0
@@ -956,14 +964,6 @@ var marker = [
         "Name": "Puerto Rico",
         "Name_ch": "",
         "Name_en": "Puerto Rico",
-        "확진자수": 5,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
         "확진자수": 5,
         "사망자수": 0,
         "완치자수": 0
