@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 4430,
+        "확진자수": 4455,
         "사망자수": 77,
         "완치자수": 74
     },
@@ -84,7 +84,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 1336,
+        "확진자수": 1337,
         "사망자수": 3,
         "완치자수": 1
     },
@@ -537,6 +537,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Turkey",
+        "Name_ch": "",
+        "Name_en": "Turkey",
+        "확진자수": 47,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -657,6 +665,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "확진자수": 24,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "세네갈",
         "Name_ch": "",
         "Name_en": "Senegal",
@@ -697,25 +713,9 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "확진자수": 19,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "확진자수": 18,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Turkey",
-        "Name_ch": "",
-        "Name_en": "Turkey",
         "확진자수": 18,
         "사망자수": 0,
         "완치자수": 0
