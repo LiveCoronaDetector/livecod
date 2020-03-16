@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 3773,
+        "확진자수": 3777,
         "사망자수": 69,
         "완치자수": 73
     },
@@ -593,20 +593,20 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "",
+        "Name_en": "Armenia",
+        "확진자수": 28,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "벨라루스",
         "Name_ch": "",
         "Name_en": "Belarus",
         "확진자수": 27,
         "사망자수": 0,
         "완치자수": 3
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "",
-        "Name_en": "Armenia",
-        "확진자수": 26,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "세네갈",
@@ -801,6 +801,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 8,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
@@ -812,14 +820,6 @@ var marker = [
         "Name": "리히텐슈타인",
         "Name_ch": "",
         "Name_en": "Liechtenstein",
-        "확진자수": 7,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
         "확진자수": 7,
         "사망자수": 0,
         "완치자수": 0
