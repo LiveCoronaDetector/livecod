@@ -1,6 +1,7 @@
 [Korean](https://github.com/LiveCoronaDetector/livecod/blob/master/CONTRIBUTING-ko.md)
 
 # CONTRIBUTING TO LIVE-CORONA-DETECTOR
+=======
 
 Thanks for considering contribution to live-corona-detector. You can git clone the live-corona-detector source on the following address and send PR with your patch. But, before doing that, I recommend contributors to read this to follow the conventions.
 
