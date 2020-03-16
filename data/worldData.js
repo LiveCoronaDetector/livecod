@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 4334,
+        "확진자수": 4371,
         "사망자수": 77,
         "완치자수": 73
     },
@@ -265,6 +265,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "",
+        "Name_en": "Poland",
+        "확진자수": 177,
+        "사망자수": 4,
+        "완치자수": 0
+    },
+    {
         "Name": "아일랜드",
         "Name_ch": "",
         "Name_en": "Ireland",
@@ -279,14 +287,6 @@ var marker = [
         "확진자수": 168,
         "사망자수": 0,
         "완치자수": 9
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "",
-        "Name_en": "Poland",
-        "확진자수": 156,
-        "사망자수": 3,
-        "완치자수": 0
     },
     {
         "Name": "칠레",
@@ -617,6 +617,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "요르단",
+        "Name_ch": "",
+        "Name_en": "Jordan",
+        "확진자수": 29,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
@@ -687,14 +695,6 @@ var marker = [
         "확진자수": 20,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "요르단",
-        "Name_ch": "",
-        "Name_en": "Jordan",
-        "확진자수": 19,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "North Macedonia",
