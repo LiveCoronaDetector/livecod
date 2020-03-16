@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 4552,
+        "확진자수": 4558,
         "사망자수": 85,
         "완치자수": 74
     },
@@ -84,7 +84,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 1340,
+        "확진자수": 1341,
         "사망자수": 3,
         "완치자수": 1
     },
@@ -665,14 +665,6 @@ var marker = [
         "완치자수": 2
     },
     {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "확진자수": 24,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
         "Name": "세네갈",
         "Name_ch": "",
         "Name_en": "Senegal",
@@ -711,6 +703,14 @@ var marker = [
         "확진자수": 20,
         "사망자수": 0,
         "완치자수": 0
+    },
+    {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 1
     },
     {
         "Name": "Faeroe Islands",
@@ -937,6 +937,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "카메룬",
+        "Name_ch": "",
+        "Name_en": "Cameroon",
+        "확진자수": 5,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
@@ -957,14 +965,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Rwanda",
         "확진자수": 5,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "카메룬",
-        "Name_ch": "",
-        "Name_en": "Cameroon",
-        "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
     },
