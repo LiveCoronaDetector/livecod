@@ -44,7 +44,7 @@ for (var i = 0; i < koreaRegionalData.length; i++) {
 ////////////////////////////////////////////
 
 // 존스홉킨스 : https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-//https://www.worldometers.info/coronavirus/
+// https://www.worldometers.info/coronavirus/
 // 질본 : http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=&brdGubun=&ncvContSeq=&contSeq=&board_id=&gubun=
 
 // 선차트용 데이터 - 제주도청 제공
