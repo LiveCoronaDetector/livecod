@@ -873,6 +873,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "확진자수": 6,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
@@ -973,14 +981,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "확진자수": 4,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
     },
