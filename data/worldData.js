@@ -4,17 +4,9 @@ var marker = [
         "Name": "중국",
         "Name_ch": "",
         "Name_en": "China",
-        "확진자수": 80851,
-        "사망자수": 3199,
-        "완치자수": 66938
-    },
-    {
-        "Name": "Vatican City",
-        "Name_ch": "",
-        "Name_en": "Vatican City",
-        "확진자수": 568000,
-        "사망자수": 892045,
-        "완치자수": 0
+        "확진자수": 80858,
+        "사망자수": 3213,
+        "완치자수": 67752
     },
     {
         "Name": "이탈리아",
@@ -60,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 3680,
+        "확진자수": 3714,
         "사망자수": 68,
         "완치자수": 59
     },
@@ -1180,6 +1172,14 @@ var marker = [
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
+        "확진자수": 1,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Vatican City",
+        "Name_ch": "",
+        "Name_en": "Vatican City",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
