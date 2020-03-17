@@ -673,6 +673,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "오만",
+        "Name_ch": "",
+        "Name_en": "Oman",
+        "확진자수": 24,
+        "사망자수": 0,
+        "완치자수": 9
+    },
+    {
         "Name": "세네갈",
         "Name_ch": "",
         "Name_en": "Senegal",
@@ -681,12 +689,12 @@ var marker = [
         "완치자수": 2
     },
     {
-        "Name": "오만",
+        "Name": "도미니카 공화국",
         "Name_ch": "",
-        "Name_en": "Oman",
-        "확진자수": 22,
-        "사망자수": 0,
-        "완치자수": 9
+        "Name_en": "Dominican Republic",
+        "확진자수": 21,
+        "사망자수": 1,
+        "완치자수": 0
     },
     {
         "Name": "아프가니스탄",
@@ -695,14 +703,6 @@ var marker = [
         "확진자수": 21,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "도미니카 공화국",
-        "Name_ch": "",
-        "Name_en": "Dominican Republic",
-        "확진자수": 21,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Tunisia",
@@ -745,6 +745,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Martinique",
+        "Name_ch": "",
+        "Name_en": "Martinique",
+        "확진자수": 15,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -759,14 +767,6 @@ var marker = [
         "확진자수": 15,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Martinique",
-        "Name_ch": "",
-        "Name_en": "Martinique",
-        "확진자수": 15,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "안도라",
