@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 4717,
+        "확진자수": 4718,
         "사망자수": 93,
         "완치자수": 74
     },
@@ -617,6 +617,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 33,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
@@ -681,6 +689,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "캄보디아",
+        "Name_ch": "",
+        "Name_en": "Cambodia",
+        "확진자수": 24,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
@@ -695,6 +711,14 @@ var marker = [
         "확진자수": 24,
         "사망자수": 0,
         "완치자수": 9
+    },
+    {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "확진자수": 24,
+        "사망자수": 0,
+        "완치자수": 0
     },
     {
         "Name": "도미니카 공화국",
@@ -713,14 +737,6 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "확진자수": 20,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
@@ -733,14 +749,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "확진자수": 18,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 17,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -783,14 +791,6 @@ var marker = [
         "확진자수": 13,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "캄보디아",
-        "Name_ch": "",
-        "Name_en": "Cambodia",
-        "확진자수": 12,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "마카오",
