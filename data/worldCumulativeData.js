@@ -326,7 +326,7 @@ var crawlWorldCumulativeData = [
     ],
     [
         "3/16",
-        181546,
+        181531,
         7126,
         78088
     ]
