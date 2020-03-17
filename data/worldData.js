@@ -84,7 +84,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 1365,
+        "확진자수": 1366,
         "사망자수": 3,
         "완치자수": 1
     },
@@ -108,7 +108,7 @@ var marker = [
         "Name": "스웨덴",
         "Name_ch": "",
         "Name_en": "Sweden",
-        "확진자수": 1121,
+        "확진자수": 1125,
         "사망자수": 7,
         "완치자수": 1
     },
@@ -337,6 +337,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "룩셈부르크",
+        "Name_ch": "",
+        "Name_en": "Luxembourg",
+        "확진자수": 140,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "이라크",
         "Name_ch": "",
         "Name_en": "Iraq",
@@ -391,14 +399,6 @@ var marker = [
         "확진자수": 98,
         "사망자수": 0,
         "완치자수": 23
-    },
-    {
-        "Name": "룩셈부르크",
-        "Name_ch": "",
-        "Name_en": "Luxembourg",
-        "확진자수": 94,
-        "사망자수": 1,
-        "완치자수": 0
     },
     {
         "Name": "러시아",
@@ -641,6 +641,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+        "확진자수": 32,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
@@ -687,14 +695,6 @@ var marker = [
         "확진자수": 27,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Kazakhstan",
-        "Name_ch": "",
-        "Name_en": "Kazakhstan",
-        "확진자수": 27,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -953,6 +953,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "확진자수": 5,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
@@ -988,14 +996,6 @@ var marker = [
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "확진자수": 4,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
