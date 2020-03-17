@@ -324,7 +324,7 @@ var marker = [
         "Name": "홍콩",
         "Name_ch": "",
         "Name_en": "Hong Kong",
-        "확진자수": 157,
+        "확진자수": 162,
         "사망자수": 4,
         "완치자수": 81
     },
@@ -1001,10 +1001,26 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Seychelles",
+        "Name_ch": "",
+        "Name_en": "Seychelles",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+        "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -1049,28 +1065,12 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Seychelles",
-        "Name_ch": "",
-        "Name_en": "Seychelles",
-        "확진자수": 3,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "나이지리아",
         "Name_ch": "",
         "Name_en": "Nigeria",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Aruba",
-        "Name_ch": "",
-        "Name_en": "Aruba",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Curaçao",
