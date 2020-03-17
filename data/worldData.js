@@ -6,7 +6,7 @@ var marker = [
         "Name_en": "China",
         "확진자수": 80881,
         "사망자수": 3226,
-        "완치자수": 68691
+        "완치자수": 68692
     },
     {
         "Name": "이탈리아",
@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 4727,
+        "확진자수": 4731,
         "사망자수": 93,
         "완치자수": 74
     },
@@ -369,20 +369,20 @@ var marker = [
         "완치자수": 9
     },
     {
+        "Name": "레바논",
+        "Name_ch": "",
+        "Name_en": "Lebanon",
+        "확진자수": 120,
+        "사망자수": 3,
+        "완치자수": 3
+    },
+    {
         "Name": "산마리노",
         "Name_ch": "",
         "Name_en": "San Marino",
         "확진자수": 109,
         "사망자수": 7,
         "완치자수": 4
-    },
-    {
-        "Name": "레바논",
-        "Name_ch": "",
-        "Name_en": "Lebanon",
-        "확진자수": 109,
-        "사망자수": 3,
-        "완치자수": 3
     },
     {
         "Name": "아랍에미리트",
@@ -729,20 +729,20 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "",
+        "Name_en": "Afghanistan",
+        "확진자수": 22,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "",
         "Name_en": "Dominican Republic",
         "확진자수": 21,
         "사망자수": 1,
         "완치자수": 0
-    },
-    {
-        "Name": "아프가니스탄",
-        "Name_ch": "",
-        "Name_en": "Afghanistan",
-        "확진자수": 21,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Lithuania",
@@ -857,6 +857,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
@@ -870,14 +878,6 @@ var marker = [
         "Name_en": "Guatemala",
         "확진자수": 8,
         "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 8,
-        "사망자수": 0,
         "완치자수": 0
     },
     {
