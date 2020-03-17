@@ -28,8 +28,8 @@ var marker = [
         "Name": "스페인",
         "Name_ch": "",
         "Name_en": "Spain",
-        "확진자수": 11279,
-        "사망자수": 497,
+        "확진자수": 11409,
+        "사망자수": 499,
         "완치자수": 1028
     },
     {
@@ -65,6 +65,14 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "",
+        "Name_en": "Netherlands",
+        "확진자수": 1705,
+        "사망자수": 43,
+        "완치자수": 2
+    },
+    {
         "Name": "영국",
         "Name_ch": "",
         "Name_en": "UK",
@@ -79,14 +87,6 @@ var marker = [
         "확진자수": 1419,
         "사망자수": 3,
         "완치자수": 1
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "",
-        "Name_en": "Netherlands",
-        "확진자수": 1413,
-        "사망자수": 24,
-        "완치자수": 2
     },
     {
         "Name": "벨기에",
@@ -220,7 +220,7 @@ var marker = [
         "Name": "슬로베니아",
         "Name_ch": "",
         "Name_en": "Slovenia",
-        "확진자수": 253,
+        "확진자수": 273,
         "사망자수": 1,
         "완치자수": 0
     },
@@ -228,7 +228,7 @@ var marker = [
         "Name": "싱가포르",
         "Name_ch": "",
         "Name_en": "Singapore",
-        "확진자수": 243,
+        "확진자수": 266,
         "사망자수": 0,
         "완치자수": 109
     },
@@ -668,7 +668,7 @@ var marker = [
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "확진자수": 29,
+        "확진자수": 30,
         "사망자수": 0,
         "완치자수": 1
     },
@@ -977,6 +977,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Mongolia",
+        "Name_ch": "",
+        "Name_en": "Mongolia",
+        "확진자수": 5,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Puerto Rico",
         "Name_ch": "",
         "Name_en": "Puerto Rico",
@@ -1004,14 +1012,6 @@ var marker = [
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "확진자수": 4,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Mongolia",
-        "Name_ch": "",
-        "Name_en": "Mongolia",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
