@@ -825,6 +825,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "모나코",
+        "Name_ch": "",
+        "Name_en": "Monaco",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
@@ -901,14 +909,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Rwanda",
         "확진자수": 7,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "모나코",
-        "Name_ch": "",
-        "Name_en": "Monaco",
-        "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
     },
