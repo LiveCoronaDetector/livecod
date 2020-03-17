@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 4734,
+        "확진자수": 4736,
         "사망자수": 93,
         "완치자수": 74
     },
@@ -84,7 +84,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 1348,
+        "확진자수": 1350,
         "사망자수": 3,
         "완치자수": 1
     },
@@ -124,7 +124,7 @@ var marker = [
         "Name": "일본",
         "Name_ch": "",
         "Name_en": "Japan",
-        "확진자수": 836,
+        "확진자수": 837,
         "사망자수": 28,
         "완치자수": 144
     },
@@ -286,7 +286,7 @@ var marker = [
         "Name_en": "Romania",
         "확진자수": 184,
         "사망자수": 0,
-        "완치자수": 9
+        "완치자수": 16
     },
     {
         "Name": "태국",
@@ -294,7 +294,7 @@ var marker = [
         "Name_en": "Thailand",
         "확진자수": 177,
         "사망자수": 1,
-        "완치자수": 35
+        "완치자수": 41
     },
     {
         "Name": "이집트",
@@ -356,7 +356,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "",
         "Name_en": "India",
-        "확진자수": 129,
+        "확진자수": 130,
         "사망자수": 3,
         "완치자수": 13
     },
@@ -553,6 +553,22 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "",
+        "Name_en": "Latvia",
+        "확진자수": 49,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
+        "Name": "Faeroe Islands",
+        "Name_ch": "",
+        "Name_en": "Faeroe Islands",
+        "확진자수": 47,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Turkey",
         "Name_ch": "",
         "Name_en": "Turkey",
@@ -609,18 +625,10 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "라트비아",
-        "Name_ch": "",
-        "Name_en": "Latvia",
-        "확진자수": 34,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
         "Name": "요르단",
         "Name_ch": "",
         "Name_en": "Jordan",
-        "확진자수": 33,
+        "확진자수": 34,
         "사망자수": 0,
         "완치자수": 1
     },
@@ -751,14 +759,6 @@ var marker = [
         "확진자수": 18,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Faeroe Islands",
-        "Name_ch": "",
-        "Name_en": "Faeroe Islands",
-        "확진자수": 18,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Martinique",
