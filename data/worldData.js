@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 6159,
+        "확진자수": 6194,
         "사망자수": 102,
         "완치자수": 74
     },
@@ -665,6 +665,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "보스니아 헤르체고비나",
+        "Name_ch": "",
+        "Name_en": "Bosnia and Herzegovina",
+        "확진자수": 34,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "캄보디아",
         "Name_ch": "",
         "Name_en": "Cambodia",
@@ -735,14 +743,6 @@ var marker = [
         "확진자수": 27,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "보스니아 헤르체고비나",
-        "Name_ch": "",
-        "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 27,
-        "사망자수": 0,
-        "완치자수": 2
     },
     {
         "Name": "Lithuania",
@@ -825,20 +825,20 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 12,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 11,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "French Guiana",
