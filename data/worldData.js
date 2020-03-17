@@ -52,8 +52,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 4667,
-        "사망자수": 87,
+        "확진자수": 4704,
+        "사망자수": 91,
         "완치자수": 74
     },
     {
@@ -125,7 +125,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Japan",
         "확진자수": 833,
-        "사망자수": 27,
+        "사망자수": 28,
         "완치자수": 144
     },
     {
@@ -657,6 +657,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "세네갈",
+        "Name_ch": "",
+        "Name_en": "Senegal",
+        "확진자수": 27,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "",
         "Name_en": "Azerbaijan",
@@ -673,20 +681,20 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "확진자수": 24,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "오만",
         "Name_ch": "",
         "Name_en": "Oman",
         "확진자수": 24,
         "사망자수": 0,
         "완치자수": 9
-    },
-    {
-        "Name": "세네갈",
-        "Name_ch": "",
-        "Name_en": "Senegal",
-        "확진자수": 24,
-        "사망자수": 0,
-        "완치자수": 2
     },
     {
         "Name": "도미니카 공화국",
@@ -711,14 +719,6 @@ var marker = [
         "확진자수": 20,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "확진자수": 19,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Lithuania",
@@ -1001,6 +1001,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "DRC",
+        "Name_ch": "",
+        "Name_en": "DRC",
+        "확진자수": 3,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
@@ -1068,14 +1076,6 @@ var marker = [
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "DRC",
-        "Name_ch": "",
-        "Name_en": "DRC",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
