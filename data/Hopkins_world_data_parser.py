@@ -228,5 +228,5 @@ total_data.append({
     'deaths' : sum_NE_deaths,
     'recovered' : sum_NE_recovered,
 })
-with open('HopkinsCoronaWorldData.js', 'w', encoding='utf-8') as make_file :
+with open('./data/HopkinsCoronaWorldData.js', 'w', encoding='utf-8') as make_file :
     json.dump(total_data, make_file, indent="\t")
