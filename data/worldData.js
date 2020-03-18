@@ -52,8 +52,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 6470,
-        "사망자수": 110,
+        "확진자수": 6486,
+        "사망자수": 111,
         "완치자수": 106
     },
     {
@@ -132,7 +132,7 @@ var marker = [
         "Name": "일본크루즈",
         "Name_ch": "",
         "Name_en": "Diamond Princess",
-        "확진자수": 696,
+        "확진자수": 712,
         "사망자수": 7,
         "완치자수": 456
     },
@@ -785,6 +785,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
@@ -817,6 +825,14 @@ var marker = [
         "완치자수": 10
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 13,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
@@ -831,14 +847,6 @@ var marker = [
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 12,
-        "사망자수": 0,
-        "완치자수": 2
     },
     {
         "Name": "French Guiana",
@@ -956,14 +964,6 @@ var marker = [
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
