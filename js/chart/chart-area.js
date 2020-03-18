@@ -389,9 +389,6 @@ for (var i = 0; i < koreaRegionalCumulativeData.length; i++) {
   koreaRegionalCumulativeData_완치자_Array.push(koreaRegionalCumulativeData[i][4]);
 }
 
-//수치가 안맞는 데이터 하나 삭제_전일데이터가 주로 안맞음
-koreaRegionalCumulativeData_완치자_Array.pop()
-
 // console.log(koreaRegionalCumulativeData_날짜_Array);
 // console.log(koreaRegionalCumulativeData_확진자_Array);
 // console.log(koreaRegionalCumulativeData_전일차_Array);
