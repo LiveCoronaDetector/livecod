@@ -52,8 +52,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 6515,
-        "사망자수": 115,
+        "확진자수": 6522,
+        "사망자수": 116,
         "완치자수": 106
     },
     {
@@ -185,6 +185,14 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "이스라엘",
+        "Name_ch": "",
+        "Name_en": "Israel",
+        "확진자수": 427,
+        "사망자수": 0,
+        "완치자수": 11
+    },
+    {
         "Name": "그리스",
         "Name_ch": "",
         "Name_en": "Greece",
@@ -196,17 +204,9 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "",
         "Name_en": "Brazil",
-        "확진자수": 346,
+        "확진자수": 349,
         "사망자수": 1,
         "완치자수": 2
-    },
-    {
-        "Name": "이스라엘",
-        "Name_ch": "",
-        "Name_en": "Israel",
-        "확진자수": 337,
-        "사망자수": 0,
-        "완치자수": 11
     },
     {
         "Name": "핀란드",
@@ -489,6 +489,14 @@ var marker = [
         "완치자수": 20
     },
     {
+        "Name": "콜롬비아",
+        "Name_ch": "",
+        "Name_en": "Colombia",
+        "확진자수": 75,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "세르비아",
         "Name_ch": "",
         "Name_en": "Serbia",
@@ -519,14 +527,6 @@ var marker = [
         "확진자수": 68,
         "사망자수": 0,
         "완치자수": 16
-    },
-    {
-        "Name": "콜롬비아",
-        "Name_ch": "",
-        "Name_en": "Colombia",
-        "확진자수": 65,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "알제리",
@@ -657,6 +657,14 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+        "확진자수": 35,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "",
         "Name_en": "Azerbaijan",
@@ -695,14 +703,6 @@ var marker = [
         "확진자수": 33,
         "사망자수": 0,
         "완치자수": 12
-    },
-    {
-        "Name": "Kazakhstan",
-        "Name_ch": "",
-        "Name_en": "Kazakhstan",
-        "확진자수": 33,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Venezuela",
