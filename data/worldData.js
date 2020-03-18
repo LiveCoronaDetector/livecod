@@ -84,7 +84,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 1487,
+        "확진자수": 1492,
         "사망자수": 4,
         "완치자수": 1
     },
@@ -124,7 +124,7 @@ var marker = [
         "Name": "일본",
         "Name_ch": "",
         "Name_en": "Japan",
-        "확진자수": 882,
+        "확진자수": 889,
         "사망자수": 29,
         "완치자수": 144
     },
@@ -173,7 +173,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Portugal",
         "확진자수": 448,
-        "사망자수": 1,
+        "사망자수": 2,
         "완치자수": 3
     },
     {
@@ -261,7 +261,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Pakistan",
         "확진자수": 254,
-        "사망자수": 0,
+        "사망자수": 1,
         "완치자수": 2
     },
     {
@@ -553,6 +553,14 @@ var marker = [
         "완치자수": 10
     },
     {
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "확진자수": 59,
+        "사망자수": 2,
+        "완치자수": 0
+    },
+    {
         "Name": "헝가리",
         "Name_ch": "",
         "Name_en": "Hungary",
@@ -567,14 +575,6 @@ var marker = [
         "확진자수": 58,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Albania",
-        "Name_ch": "",
-        "Name_en": "Albania",
-        "확진자수": 55,
-        "사망자수": 2,
-        "완치자수": 0
     },
     {
         "Name": "벨라루스",
@@ -609,6 +609,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "스리랑카",
+        "Name_ch": "",
+        "Name_en": "Sri Lanka",
+        "확진자수": 49,
+        "사망자수": 0,
+        "완치자수": 3
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -623,14 +631,6 @@ var marker = [
         "확진자수": 48,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "스리랑카",
-        "Name_ch": "",
-        "Name_en": "Sri Lanka",
-        "확진자수": 45,
-        "사망자수": 0,
-        "완치자수": 3
     },
     {
         "Name": "팔레스타인",
@@ -737,17 +737,17 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "Lithuania",
+        "Name": "Tunisia",
         "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 27,
+        "Name_en": "Tunisia",
+        "확진자수": 29,
         "사망자수": 0,
         "완치자수": 1
     },
     {
-        "Name": "Tunisia",
+        "Name": "Lithuania",
         "Name_ch": "",
-        "Name_en": "Tunisia",
+        "Name_en": "Lithuania",
         "확진자수": 27,
         "사망자수": 0,
         "완치자수": 1
