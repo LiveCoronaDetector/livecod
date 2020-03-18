@@ -52,7 +52,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 7301,
+        "확진자수": 7387,
         "사망자수": 116,
         "완치자수": 106
     },
@@ -92,7 +92,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 1529,
+        "확진자수": 1530,
         "사망자수": 6,
         "완치자수": 1
     },
@@ -124,7 +124,7 @@ var marker = [
         "Name": "일본",
         "Name_ch": "",
         "Name_en": "Japan",
-        "확진자수": 889,
+        "확진자수": 899,
         "사망자수": 29,
         "완치자수": 144
     },
@@ -521,6 +521,14 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "베트남",
+        "Name_ch": "",
+        "Name_en": "Vietnam",
+        "확진자수": 75,
+        "사망자수": 0,
+        "완치자수": 16
+    },
+    {
         "Name": "알제리",
         "Name_ch": "",
         "Name_en": "Algeria",
@@ -535,14 +543,6 @@ var marker = [
         "확진자수": 71,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "베트남",
-        "Name_ch": "",
-        "Name_en": "Vietnam",
-        "확진자수": 68,
-        "사망자수": 0,
-        "완치자수": 16
     },
     {
         "Name": "Brunei",
@@ -873,14 +873,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 11,
-        "사망자수": 1,
-        "완치자수": 0
-    },
-    {
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
@@ -1038,6 +1030,14 @@ var marker = [
         "Name_en": "Puerto Rico",
         "확진자수": 5,
         "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 4,
+        "사망자수": 1,
         "완치자수": 0
     },
     {
