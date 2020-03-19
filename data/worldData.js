@@ -785,6 +785,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 27,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
@@ -799,14 +807,6 @@ var marker = [
         "확진자수": 22,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 20,
-        "사망자수": 1,
-        "완치자수": 0
     },
     {
         "Name": "Uzbekistan",
