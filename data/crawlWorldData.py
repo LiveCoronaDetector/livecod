@@ -11,7 +11,7 @@ print("######## worldData.js #########")
 html = requests.get("https://www.worldometers.info/coronavirus/").text
 # print(html) 작동확인 1
 soup = BeautifulSoup(html, 'html.parser')
-datas = soup.select('#main_table_countries > tbody > tr')
+datas = soup.select('#main_table_countries_today > tbody > tr')
 # print(datas) 작동확인 2
 
 world_confirmed = []
