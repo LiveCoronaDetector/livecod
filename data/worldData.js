@@ -441,6 +441,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "",
+        "Name_en": "Armenia",
+        "확진자수": 115,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "아랍에미리트",
         "Name_ch": "",
         "Name_en": "UAE",
@@ -449,20 +457,20 @@ var marker = [
         "완치자수": 26
     },
     {
-        "Name": "아르메니아",
-        "Name_ch": "",
-        "Name_en": "Armenia",
-        "확진자수": 110,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
         "확진자수": 109,
         "사망자수": 1,
         "완치자수": 0
+    },
+    {
+        "Name": "대만",
+        "Name_ch": "",
+        "Name_en": "Taiwan",
+        "확진자수": 108,
+        "사망자수": 1,
+        "완치자수": 26
     },
     {
         "Name": "슬로바키아",
@@ -481,14 +489,6 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "대만",
-        "Name_ch": "",
-        "Name_en": "Taiwan",
-        "확진자수": 100,
-        "사망자수": 1,
-        "완치자수": 22
-    },
-    {
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
@@ -500,8 +500,8 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 92,
-        "사망자수": 2,
+        "확진자수": 94,
+        "사망자수": 3,
         "완치자수": 0
     },
     {
@@ -665,6 +665,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "조지아",
+        "Name_ch": "",
+        "Name_en": "Georgia",
+        "확진자수": 40,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "오만",
         "Name_ch": "",
         "Name_en": "Oman",
@@ -679,14 +687,6 @@ var marker = [
         "확진자수": 39,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "",
-        "Name_en": "Georgia",
-        "확진자수": 38,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "캄보디아",
@@ -801,20 +801,20 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 23,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "",
         "Name_en": "Afghanistan",
         "확진자수": 22,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 18,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "마카오",
