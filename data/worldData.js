@@ -44,8 +44,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 13737,
-        "사망자수": 201,
+        "확진자수": 13795,
+        "사망자수": 207,
         "완치자수": 108
     },
     {
@@ -1105,6 +1105,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
@@ -1148,14 +1156,6 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 3,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Mayotte",
-        "Name_ch": "",
-        "Name_en": "Mayotte",
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
@@ -1348,6 +1348,14 @@ var marker = [
         "Name": "Vatican City",
         "Name_ch": "",
         "Name_en": "Vatican City",
+        "확진자수": 1,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Isle of Man",
+        "Name_ch": "",
+        "Name_en": "Isle of Man",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
