@@ -44,8 +44,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 13671,
-        "사망자수": 191,
+        "확진자수": 13737,
+        "사망자수": 201,
         "완치자수": 108
     },
     {
@@ -140,8 +140,8 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
-        "확진자수": 841,
-        "사망자수": 13,
+        "확진자수": 873,
+        "사망자수": 12,
         "완치자수": 11
     },
     {
@@ -465,6 +465,14 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "확진자수": 111,
+        "사망자수": 3,
+        "완치자수": 3
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "",
         "Name_en": "Croatia",
@@ -511,14 +519,6 @@ var marker = [
         "확진자수": 103,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "확진자수": 97,
-        "사망자수": 3,
-        "완치자수": 3
     },
     {
         "Name": "알제리",
@@ -673,6 +673,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 48,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "오만",
         "Name_ch": "",
         "Name_en": "Oman",
@@ -711,14 +719,6 @@ var marker = [
         "확진자수": 42,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 41,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "조지아",
@@ -801,6 +801,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "확진자수": 26,
+        "사망자수": 3,
+        "완치자수": 0
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
@@ -823,14 +831,6 @@ var marker = [
         "확진자수": 22,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "확진자수": 21,
-        "사망자수": 3,
-        "완치자수": 0
     },
     {
         "Name": "Bangladesh",
