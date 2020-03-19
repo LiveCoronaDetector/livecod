@@ -44,7 +44,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 9458,
+        "확진자수": 9464,
         "사망자수": 155,
         "완치자수": 108
     },
@@ -124,8 +124,8 @@ var marker = [
         "Name": "일본",
         "Name_ch": "",
         "Name_en": "Japan",
-        "확진자수": 923,
-        "사망자수": 32,
+        "확진자수": 986,
+        "사망자수": 33,
         "완치자수": 191
     },
     {
@@ -364,7 +364,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "",
         "Name_en": "India",
-        "확진자수": 170,
+        "확진자수": 171,
         "사망자수": 3,
         "완치자수": 15
     },
@@ -889,6 +889,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 12,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
@@ -927,14 +935,6 @@ var marker = [
         "확진자수": 9,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 9,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Trinidad and Tobago",
