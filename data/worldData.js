@@ -44,7 +44,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 9439,
+        "확진자수": 9458,
         "사망자수": 155,
         "완치자수": 108
     },
@@ -493,7 +493,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Argentina",
         "확진자수": 97,
-        "사망자수": 2,
+        "사망자수": 3,
         "완치자수": 3
     },
     {
@@ -937,6 +937,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
@@ -1009,17 +1017,17 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Trinidad and Tobago",
+        "Name": "Ethiopia",
         "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 7,
+        "Name_en": "Ethiopia",
+        "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
     },
     {
-        "Name": "Ethiopia",
+        "Name": "French Polynesia",
         "Name_ch": "",
-        "Name_en": "Ethiopia",
+        "Name_en": "French Polynesia",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
@@ -1045,14 +1053,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Seychelles",
         "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "확진자수": 5,
         "사망자수": 0,
         "완치자수": 0
     },
