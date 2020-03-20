@@ -44,7 +44,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 14299,
+        "확진자수": 14318,
         "사망자수": 218,
         "완치자수": 121
     },
@@ -809,6 +809,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 24,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
@@ -849,6 +857,14 @@ var marker = [
         "완치자수": 10
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 17,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -863,14 +879,6 @@ var marker = [
         "확진자수": 15,
         "사망자수": 1,
         "완치자수": 2
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 15,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "French Guiana",
@@ -932,14 +940,6 @@ var marker = [
         "Name": "Guam",
         "Name_ch": "",
         "Name_en": "Guam",
-        "확진자수": 12,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 0
@@ -1220,6 +1220,14 @@ var marker = [
         "Name": "Greenland",
         "Name_ch": "",
         "Name_en": "Greenland",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
