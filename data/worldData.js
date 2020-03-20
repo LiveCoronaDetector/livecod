@@ -145,20 +145,20 @@ var marker = [
         "완치자수": 11
     },
     {
+        "Name": "호주",
+        "Name_ch": "",
+        "Name_en": "Australia",
+        "확진자수": 814,
+        "사망자수": 7,
+        "완치자수": 46
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "",
         "Name_en": "Portugal",
         "확진자수": 786,
         "사망자수": 4,
         "완치자수": 4
-    },
-    {
-        "Name": "호주",
-        "Name_ch": "",
-        "Name_en": "Australia",
-        "확진자수": 785,
-        "사망자수": 7,
-        "완치자수": 46
     },
     {
         "Name": "일본크루즈",
@@ -281,6 +281,14 @@ var marker = [
         "완치자수": 5
     },
     {
+        "Name": "태국",
+        "Name_ch": "",
+        "Name_en": "Thailand",
+        "확진자수": 322,
+        "사망자수": 1,
+        "완치자수": 42
+    },
+    {
         "Name": "슬로베니아",
         "Name_ch": "",
         "Name_en": "Slovenia",
@@ -319,14 +327,6 @@ var marker = [
         "확진자수": 274,
         "사망자수": 0,
         "완치자수": 8
-    },
-    {
-        "Name": "태국",
-        "Name_ch": "",
-        "Name_en": "Thailand",
-        "확진자수": 272,
-        "사망자수": 1,
-        "완치자수": 42
     },
     {
         "Name": "에스토니아",
@@ -388,7 +388,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "",
         "Name_en": "India",
-        "확진자수": 195,
+        "확진자수": 197,
         "사망자수": 4,
         "완치자수": 20
     },
@@ -541,7 +541,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Costa Rica",
         "확진자수": 89,
-        "사망자수": 1,
+        "사망자수": 2,
         "완치자수": 0
     },
     {
@@ -953,6 +953,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "확진자수": 11,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
@@ -1036,14 +1044,6 @@ var marker = [
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
