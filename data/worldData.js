@@ -44,8 +44,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 13920,
-        "사망자수": 214,
+        "확진자수": 14265,
+        "사망자수": 218,
         "완치자수": 121
     },
     {
@@ -188,7 +188,7 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "",
         "Name_en": "Brazil",
-        "확진자수": 640,
+        "확진자수": 647,
         "사망자수": 7,
         "완치자수": 2
     },
@@ -521,6 +521,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "확진자수": 94,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "알제리",
         "Name_ch": "",
         "Name_en": "Algeria",
@@ -551,14 +559,6 @@ var marker = [
         "확진자수": 85,
         "사망자수": 0,
         "완치자수": 16
-    },
-    {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "확진자수": 79,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "안도라",
@@ -849,6 +849,14 @@ var marker = [
         "완치자수": 10
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "확진자수": 16,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
@@ -934,14 +942,6 @@ var marker = [
         "Name_en": "Honduras",
         "확진자수": 12,
         "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "확진자수": 11,
-        "사망자수": 1,
         "완치자수": 0
     },
     {
