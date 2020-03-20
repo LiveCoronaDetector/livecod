@@ -28,7 +28,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 19711,
+        "확진자수": 19848,
         "사망자수": 59,
         "완치자수": 180
     },
@@ -44,7 +44,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 16609,
+        "확진자수": 16638,
         "사망자수": 225,
         "완치자수": 125
     },
@@ -52,15 +52,15 @@ var marker = [
         "Name": "프랑스",
         "Name_ch": "",
         "Name_en": "France",
-        "확진자수": 10995,
-        "사망자수": 372,
+        "확진자수": 12612,
+        "사망자수": 450,
         "완치자수": 1295
     },
     {
         "Name": "스위스",
         "Name_ch": "",
         "Name_en": "Switzerland",
-        "확진자수": 5369,
+        "확진자수": 5381,
         "사망자수": 56,
         "완치자수": 15
     },
@@ -148,7 +148,7 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
-        "확진자수": 924,
+        "확진자수": 943,
         "사망자수": 12,
         "완치자수": 11
     },
@@ -173,7 +173,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Diamond Princess",
         "확진자수": 712,
-        "사망자수": 7,
+        "사망자수": 8,
         "완치자수": 527
     },
     {
@@ -228,7 +228,7 @@ var marker = [
         "Name": "카타르",
         "Name_ch": "",
         "Name_en": "Qatar",
-        "확진자수": 460,
+        "확진자수": 470,
         "사망자수": 0,
         "완치자수": 10
     },
@@ -409,19 +409,19 @@ var marker = [
         "완치자수": 49
     },
     {
+        "Name": "레바논",
+        "Name_ch": "",
+        "Name_en": "Lebanon",
+        "확진자수": 177,
+        "사망자수": 4,
+        "완치자수": 4
+    },
+    {
         "Name": "멕시코",
         "Name_ch": "",
         "Name_en": "Mexico",
         "확진자수": 164,
         "사망자수": 1,
-        "완치자수": 4
-    },
-    {
-        "Name": "레바논",
-        "Name_ch": "",
-        "Name_en": "Lebanon",
-        "확진자수": 163,
-        "사망자수": 4,
         "완치자수": 4
     },
     {
@@ -565,14 +565,14 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Hungary",
         "확진자수": 85,
-        "사망자수": 3,
+        "사망자수": 4,
         "완치자수": 7
     },
     {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "",
         "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 83,
+        "확진자수": 84,
         "사망자수": 0,
         "완치자수": 2
     },
@@ -593,6 +593,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "모로코",
+        "Name_ch": "",
+        "Name_en": "Morocco",
+        "확진자수": 77,
+        "사망자수": 3,
+        "완치자수": 2
+    },
+    {
         "Name": "안도라",
         "Name_ch": "",
         "Name_en": "Andorra",
@@ -607,14 +615,6 @@ var marker = [
         "확진자수": 75,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "",
-        "Name_en": "Morocco",
-        "확진자수": 74,
-        "사망자수": 3,
-        "완치자수": 2
     },
     {
         "Name": "스리랑카",
@@ -801,6 +801,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "확진자수": 29,
+        "사망자수": 3,
+        "완치자수": 1
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "",
         "Name_en": "Liechtenstein",
@@ -815,14 +823,6 @@ var marker = [
         "확진자수": 28,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "확진자수": 26,
-        "사망자수": 3,
-        "완치자수": 1
     },
     {
         "Name": "아프가니스탄",
@@ -977,6 +977,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "확진자수": 12,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
@@ -988,14 +996,6 @@ var marker = [
         "Name": "모나코",
         "Name_ch": "",
         "Name_en": "Monaco",
-        "확진자수": 11,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
         "확진자수": 11,
         "사망자수": 0,
         "완치자수": 0
