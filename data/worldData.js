@@ -100,7 +100,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 1926,
+        "확진자수": 1939,
         "사망자수": 7,
         "완치자수": 1
     },
@@ -172,7 +172,7 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "",
         "Name_en": "Brazil",
-        "확진자수": 806,
+        "확진자수": 819,
         "사망자수": 11,
         "완치자수": 2
     },
@@ -189,7 +189,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Israel",
         "확진자수": 705,
-        "사망자수": 0,
+        "사망자수": 1,
         "완치자수": 15
     },
     {
@@ -212,7 +212,7 @@ var marker = [
         "Name": "파키스탄",
         "Name_ch": "",
         "Name_en": "Pakistan",
-        "확진자수": 500,
+        "확진자수": 501,
         "사망자수": 3,
         "완치자수": 13
     },
@@ -453,7 +453,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "UAE",
         "확진자수": 140,
-        "사망자수": 0,
+        "사망자수": 2,
         "완치자수": 31
     },
     {
@@ -537,6 +537,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "알제리",
+        "Name_ch": "",
+        "Name_en": "Algeria",
+        "확진자수": 94,
+        "사망자수": 11,
+        "완치자수": 32
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
@@ -551,14 +559,6 @@ var marker = [
         "확진자수": 91,
         "사망자수": 0,
         "완치자수": 17
-    },
-    {
-        "Name": "알제리",
-        "Name_ch": "",
-        "Name_en": "Algeria",
-        "확진자수": 90,
-        "사망자수": 11,
-        "완치자수": 32
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1313,6 +1313,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Nicaragua",
+        "Name_ch": "",
+        "Name_en": "Nicaragua",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
@@ -1412,14 +1420,6 @@ var marker = [
         "Name": "Montserrat",
         "Name_ch": "",
         "Name_en": "Montserrat",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Nicaragua",
-        "Name_ch": "",
-        "Name_en": "Nicaragua",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
