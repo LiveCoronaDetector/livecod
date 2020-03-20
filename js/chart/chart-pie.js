@@ -29,7 +29,7 @@ for (var i = 0; i < 15; i++) {
     ' : ' +
     Number(marker[i].확진자수).toLocaleString() +
     ' ( ' + Math.round(percentage * 100) / 100 + "%" + ' )' + '</div>' +
-    "<div style='font-size:0.3rem;text-align:right;'>" +
+    "<div style='font-size:0.8rem;text-align:right;'>" +
     "(치명률 : " + TOP5_치명율 +
     "%, 완치율 : " + TOP5_완치율 + "%)" +
     "</div>";
