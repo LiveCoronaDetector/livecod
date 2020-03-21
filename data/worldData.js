@@ -20,9 +20,9 @@ var marker = [
         "Name": "스페인",
         "Name_ch": "",
         "Name_en": "Spain",
-        "확진자수": 21571,
-        "사망자수": 1093,
-        "완치자수": 1588
+        "확진자수": 24926,
+        "사망자수": 1326,
+        "완치자수": 2125
     },
     {
         "Name": "이란",
@@ -36,7 +36,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 20099,
+        "확진자수": 20142,
         "사망자수": 70,
         "완치자수": 180
     },
@@ -60,7 +60,7 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "",
         "Name_en": "Switzerland",
-        "확진자수": 5616,
+        "확진자수": 5711,
         "사망자수": 57,
         "완치자수": 15
     },
@@ -86,7 +86,7 @@ var marker = [
         "Name_en": "Belgium",
         "확진자수": 2815,
         "사망자수": 67,
-        "완치자수": 204
+        "완치자수": 263
     },
     {
         "Name": "오스트리아",
@@ -108,7 +108,7 @@ var marker = [
         "Name": "스웨덴",
         "Name_ch": "",
         "Name_en": "Sweden",
-        "확진자수": 1639,
+        "확진자수": 1657,
         "사망자수": 16,
         "완치자수": 16
     },
@@ -518,7 +518,7 @@ var marker = [
         "Name_en": "Slovakia",
         "확진자수": 137,
         "사망자수": 0,
-        "완치자수": 0
+        "완치자수": 7
     },
     {
         "Name": "라트비아",
@@ -556,7 +556,7 @@ var marker = [
         "Name": "알제리",
         "Name_ch": "",
         "Name_en": "Algeria",
-        "확진자수": 94,
+        "확진자수": 95,
         "사망자수": 11,
         "완치자수": 32
     },
@@ -625,6 +625,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "스리랑카",
+        "Name_ch": "",
+        "Name_en": "Sri Lanka",
+        "확진자수": 76,
+        "사망자수": 0,
+        "완치자수": 3
+    },
+    {
         "Name": "안도라",
         "Name_ch": "",
         "Name_en": "Andorra",
@@ -639,14 +647,6 @@ var marker = [
         "확진자수": 75,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "스리랑카",
-        "Name_ch": "",
-        "Name_en": "Sri Lanka",
-        "확진자수": 73,
-        "사망자수": 0,
-        "완치자수": 3
     },
     {
         "Name": "도미니카 공화국",
@@ -689,6 +689,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 64,
+        "사망자수": 3,
+        "완치자수": 5
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
@@ -700,7 +708,7 @@ var marker = [
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
-        "확진자수": 54,
+        "확진자수": 60,
         "사망자수": 1,
         "완치자수": 1
     },
@@ -791,14 +799,6 @@ var marker = [
         "확진자수": 41,
         "사망자수": 3,
         "완치자수": 1
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 40,
-        "사망자수": 1,
-        "완치자수": 4
     },
     {
         "Name": "리히텐슈타인",
@@ -993,20 +993,20 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 13,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
         "확진자수": 13,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 12,
-        "사망자수": 1,
-        "완치자수": 0
     },
     {
         "Name": "나이지리아",
@@ -1148,6 +1148,14 @@ var marker = [
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "New Caledonia",
+        "Name_ch": "",
+        "Name_en": "New Caledonia",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
@@ -1332,14 +1340,6 @@ var marker = [
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "New Caledonia",
-        "Name_ch": "",
-        "Name_en": "New Caledonia",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
