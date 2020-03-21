@@ -86,7 +86,7 @@ iframe{
   position: fixed;
   right: 10px;
   top: 75px;
-  z-index: 10000;
+  z-index: 1000;
 }
 .floating-donation button{
   width: 50px;
@@ -378,14 +378,21 @@ header .m-none{
 .korea_chart_tags span.tag_04::before{
   background: #F6C23E;
 }
+.korea_chart_tags span.tag_05::before{
+  background: #e74a3b;
+}
 
 /* Top 15 */
+#Top5 .korea_chart_tags{
+  margin-bottom: 10px;
+}
 .top_title {
   position: relative;
 }
 .top_title div:first-child{
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 5px;
+  font-weight: bold;
 }
 .top_title .rate{
   text-align: right;

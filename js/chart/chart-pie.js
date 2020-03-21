@@ -8,33 +8,42 @@ var 모든확진자수 = marker.reduce(function (a, b) {
   // console.log(a, b.확진자수)
   return a + (b.확진자수 || 0);
 }, 0);
-var top확진자 = document.getElementsByClassName("top확진자");
-var top완치자 = document.getElementsByClassName("top완치자");
-var top사망자 = document.getElementsByClassName("top사망자");
-var topText = document.querySelectorAll("#Top5>h4");
-var top확진자 = document.querySelectorAll("#Top5>div>.bg-warning");
-var top완치자 = document.querySelectorAll("#Top5>div>.bg-success");
-var top사망자 = document.querySelectorAll("#Top5>div>.bg-danger");
+
+var topText = document.querySelectorAll("#Top5>h4"),
+    topCases = document.querySelectorAll("#Top5>div>.bg-warning"),        //TOP 확진자
+    topFullRecover = document.querySelectorAll("#Top5>div>.bg-success"),  //TOP 완치자
+    topDeathToll = document.querySelectorAll("#Top5>div>.bg-danger");     //TOP 사망자
 
 marker.sort(function (a, b) {
   return a.확진자수 < b.확진자수 ? 1 : -1;
 });
 
 for (var i = 0; i < 15; i++) {
-  var percentage = marker[i].확진자수 / 모든확진자수 * 100;
-  var TOP5_치명율 = (marker[i].사망자수 / marker[i].확진자수 * 100).toFixed(2);
-  var TOP5_완치율 = (marker[i].완치자수 / marker[i].확진자수 * 100).toFixed(2);
-  topText[i].innerHTML = 
-     '<div>' + ( i+1 ) + '. ' + marker[i].Name + ' : ' // 순번. 나라명
-    + Number(marker[i].확진자수).toLocaleString() + ' ( ' + Math.round(percentage * 100) / 100 + "%" + ' )' + '</div>' //확진자수(확진자 비율))
-    + "<div class='rate'>" 
-    + "치명률 : <span class='red'>" + TOP5_치명율 + "</span>% / 완치율 : <span class='green'>" + TOP5_완치율 + "</span>%" //치명률, 완치율
-    + "</div>";
+  var cases_count = marker[i].확진자수,
+      full_recovery_count = marker[i].완치자수,
+      dead_toll_count = marker[i].사망자수;
 
-  top확진자[i].style.width = percentage / 100 * (100 - TOP5_완치율 - TOP5_치명율) + "%";
-  top완치자[i].style.width = percentage / 100 * TOP5_완치율 + "%";
-  top사망자[i].style.width = percentage / 100 * TOP5_치명율 + "%";
-  top확진자[i].title = "확진자 " + marker[i].확진자수.toLocaleString() + "명";
-  top완치자[i].title = "완치자 " + marker[i].완치자수.toLocaleString() + "명";
-  top사망자[i].title = "사망자 " + marker[i].사망자수.toLocaleString() + "명";
+  var percentage = cases_count / 모든확진자수 * 100,                                      //나라별 비율
+      TOP5_fatality_rate = (dead_toll_count / cases_count * 100).toFixed(2),          // 치명율
+      TOP5_full_recovery_rate = (full_recovery_count / cases_count * 100).toFixed(2), // 완치율
+      rate_total = dead_toll_count + cases_count + full_recovery_count,               //확진자수 + 사망자수 + 완치자수
+      rate_cases = cases_count / rate_total * 100,                                    //확진자수 비율
+      rate_death_toll = dead_toll_count / rate_total * 100,                           //사망자수 비율
+      rate_full_recovery = full_recovery_count / rate_total * 100;                    //완치자수 비율
+      
+  topText[i].innerHTML = 
+     '<div>' + ( i+1 ) + '. ' + marker[i].Name + ' : ' // 순번, 나라명
+    + Number(cases_count).toLocaleString() + ' ( ' + Math.round(percentage * 100) / 100 + "%" + ' )' + '</div>' //확진자수(확진자 비율))
+    + "<div class='rate'>" 
+    +   "치명률 : <span class='bold'>" + TOP5_fatality_rate + "</span>% / "
+    +   "완치율 : <span class='bold'>" + TOP5_full_recovery_rate + "</span>%" 
+    + "</div>"; //치명률, 완치율
+
+  topCases[i].style.width = rate_cases + "%";               //확진자비율 - 그래프값
+  topFullRecover[i].style.width = rate_full_recovery + "%"; //완치자비율 - 그래프값
+  topDeathToll[i].style.width = rate_death_toll + "%";      //사망자비율 - 그래프값
+
+  topCases[i].title = "확진자 " + cases_count.toLocaleString() + "명";                //TOP 확진자
+  topFullRecover[i].title = "완치자 " + full_recovery_count.toLocaleString() + "명";  //TOP 완치자
+  topDeathToll[i].title = "사망자 " + dead_toll_count.toLocaleString() + "명";        //TOP 사망자
 }
