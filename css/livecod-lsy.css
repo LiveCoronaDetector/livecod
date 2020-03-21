@@ -379,6 +379,20 @@ header .m-none{
   background: #F6C23E;
 }
 
+/* Top 15 */
+.top_title {
+  position: relative;
+}
+.top_title div:first-child{
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.top_title .rate{
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
 footer{
   border-top: 1px solid #e3e6f0;
 }
@@ -463,5 +477,12 @@ footer{
   }
   .m-mt-1{
     margin-top: 10px;
+  }
+  .top_title div:first-child{
+    margin-bottom: 5px;
+  }
+  .top_title .rate{
+    position: relative;
+    text-align: right
   }
 }
