@@ -77,6 +77,10 @@ window.onload = function () {
     }
   }
 
+  function comma(num){
+    return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  }
+
   var _loop = function _loop(i) {
     infected[i].addEventListener("click", function (e) {
       var identity = infected[i].getAttribute("title");
@@ -92,7 +96,3 @@ window.onload = function () {
     _loop(i);
   }
 };
-
-function comma(num){
-  return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-}
