@@ -93,6 +93,6 @@ window.onload = function () {
   }
 };
 
-function comma(var num){
+function comma(num){
   return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
