@@ -33,20 +33,20 @@ var marker = [
         "완치자수": 180
     },
     {
-        "Name": "미국",
-        "Name_ch": "",
-        "Name_en": "United States",
-        "확진자수": 19650,
-        "사망자수": 263,
-        "완치자수": 147
-    },
-    {
         "Name": "이란",
         "Name_ch": "",
         "Name_en": "Iran",
         "확진자수": 19644,
         "사망자수": 1433,
         "완치자수": 6745
+    },
+    {
+        "Name": "미국",
+        "Name_ch": "",
+        "Name_en": "United States",
+        "확진자수": 19640,
+        "사망자수": 264,
+        "완치자수": 147
     },
     {
         "Name": "프랑스",
@@ -145,20 +145,20 @@ var marker = [
         "완치자수": 5
     },
     {
+        "Name": "일본",
+        "Name_ch": "",
+        "Name_en": "Japan",
+        "확진자수": 1007,
+        "사망자수": 35,
+        "완치자수": 215
+    },
+    {
         "Name": "브라질",
         "Name_ch": "",
         "Name_en": "Brazil",
         "확진자수": 970,
         "사망자수": 11,
         "완치자수": 2
-    },
-    {
-        "Name": "일본",
-        "Name_ch": "",
-        "Name_en": "Japan",
-        "확진자수": 963,
-        "사망자수": 33,
-        "완치자수": 215
     },
     {
         "Name": "호주",
@@ -182,7 +182,7 @@ var marker = [
         "Name_en": "Diamond Princess",
         "확진자수": 712,
         "사망자수": 8,
-        "완치자수": 527
+        "완치자수": 567
     },
     {
         "Name": "이스라엘",
@@ -793,6 +793,14 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "확진자수": 38,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
@@ -812,14 +820,6 @@ var marker = [
         "Name": "리히텐슈타인",
         "Name_ch": "",
         "Name_en": "Liechtenstein",
-        "확진자수": 28,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
         "확진자수": 28,
         "사망자수": 0,
         "완치자수": 0
@@ -1065,6 +1065,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "확진자수": 7,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
@@ -1092,14 +1100,6 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Mayotte",
-        "Name_ch": "",
-        "Name_en": "Mayotte",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
