@@ -36,8 +36,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 19658,
-        "사망자수": 264,
+        "확진자수": 19772,
+        "사망자수": 279,
         "완치자수": 147
     },
     {
@@ -657,6 +657,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 69,
+        "사망자수": 1,
+        "완치자수": 1
+    },
+    {
         "Name": "벨라루스",
         "Name_ch": "",
         "Name_en": "Belarus",
@@ -687,14 +695,6 @@ var marker = [
         "확진자수": 64,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 63,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Tunisia",
@@ -1121,6 +1121,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "U.S. Virgin Islands",
+        "Name_ch": "",
+        "Name_en": "U.S. Virgin Islands",
+        "확진자수": 6,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
@@ -1212,14 +1220,6 @@ var marker = [
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
-        "확진자수": 3,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "U.S. Virgin Islands",
-        "Name_ch": "",
-        "Name_en": "U.S. Virgin Islands",
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
