@@ -19,6 +19,7 @@ h1.title {
   background: #fff;
   border-radius: 8px;
   box-shadow: 0 2px 2px 1px rgba(69, 73, 79, 0.4);
+  z-index:99999;
 }
 
 .mapTextbox::after {

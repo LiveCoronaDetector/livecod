@@ -8,6 +8,7 @@ window.onload = function () {
   var textBox = document.createElement("div");
   var markerData = _marker;
   var countryData; // svg 국가명 매칭 함수
+  var temp = 0;
 
   // 확진자 수에 따른 svg 클래스 삽입 함수
   function countryMarker(data, land){
@@ -15,6 +16,8 @@ window.onload = function () {
       for(var j=0; j<land.length; j++){
         //marker.js의 국가 영어이름과 svg엘레먼트의 title속성값이 같다면 확진자가 존재하는 국가
         if(data[i].Name_en === land[j].getAttribute("title")){
+          temp ++;
+          console.log(temp);
 
           // 완치자 수가 있으면 카운터는 확진자수 - 완치자수
           if(data[i].완치자수){
@@ -54,20 +57,20 @@ window.onload = function () {
           '<dl class="list-countryInfo"><div><dt>국명 :</dt><dd>' +
           markerData[i].Name + '(' + markerData[i].Name_en +
           ')</dd></div><div><dt>확진자 :</dt><dd>'
-          + markerData[i].확진자수 +
+          + comma(markerData[i].확진자수) +
           '</dd></div><div><dt>사망자 :</dt><dd>'
-          + markerData[i].사망자수 +
+          + comma(markerData[i].사망자수) +
           '</dd></div><div><dt>완치자 :</dt><dd>'
-          + markerData[i].완치자수 +
+          + comma(markerData[i].완치자수) +
           '</dd></div></dl>';
         }else{
           textBox.innerHTML =
           '<dl class="list-countryInfo"><div><dt>국명 :</dt><dd>' +
           markerData[i].Name + '(' + markerData[i].Name_en +
           ')</dd></div><div><dt>확진자 :</dt><dd>'
-          + markerData[i].확진자수 +
+          + comma(markerData[i].확진자수) +
           '</dd></div><div><dt>사망자 :</dt><dd>'
-          + markerData[i].사망자수 +
+          + comma(markerData[i].사망자수) +
           '</dd></div><div><dt>완치자 :</dt><dd> 0</dd></div></dl>';
         }
       }
@@ -79,8 +82,8 @@ window.onload = function () {
       var identity = infected[i].getAttribute("title");
       matchingCountry(identity);
       textBox.className = identity + " mapTextbox";
-      textBox.style.left = e.pageX - 90 + "px";
-      textBox.style.top = e.pageY + 60 + "px";
+      textBox.style.left = e.pageX - 92 + "px";
+      textBox.style.top = e.pageY + 53 + "px";
       worldMapWrapper.appendChild(textBox);
     });
   };
@@ -89,3 +92,7 @@ window.onload = function () {
     _loop(i);
   }
 };
+
+function comma(var num){
+  return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
