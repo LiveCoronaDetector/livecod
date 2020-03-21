@@ -28,7 +28,7 @@ for (var i = 0; i < 15; i++) {
      '<div>' + ( i+1 ) + '. ' + marker[i].Name + ' : ' // 순번. 나라명
     + Number(marker[i].확진자수).toLocaleString() + ' ( ' + Math.round(percentage * 100) / 100 + "%" + ' )' + '</div>' //확진자수(확진자 비율))
     + "<div class='rate'>" 
-    + "치명률 : " + TOP5_치명율 + "% / 완치율 : " + TOP5_완치율 + "%" //치명률, 완치율
+    + "치명률 : <span class='red'>" + TOP5_치명율 + "</span>% / 완치율 : <span class='green'>" + TOP5_완치율 + "</span>%" //치명률, 완치율
     + "</div>";
 
   top확진자[i].style.width = percentage / 100 * (100 - TOP5_완치율 - TOP5_치명율) + "%";
