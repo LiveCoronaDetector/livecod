@@ -1,4 +1,4 @@
-[
+var hopkinsData = [
 	{
 		"date": [
 			"1/22",

@@ -172,7 +172,7 @@
           <div class="row">
 
             <!-- Top15 발생국가 -->
-            <div class="col-xl-12 col-lg-12">
+            <div class="col-xl-6 col-lg-12">
               <div class="card shadow mb-4">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
@@ -311,9 +311,26 @@
             </div>
             <!-- //Top15 발생국가 -->
 
+            <!-- Top15 발생국가 그래프 -->
+            <div class="col-xl-6 col-lg-12">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-danger">TOP 15 발생국가</h6>
+                  <div class="right"><a class="new_window" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body" id="Top5">
+                  <div style="height:35rem;">
+                    <canvas id="top15graph"></canvas>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- //Top15 발생국가 그래프 -->
+
           </div>
         </div>
-
 
       </div>
       <!-- End of Main Content -->
@@ -501,7 +518,8 @@
   </script>
 
   <!-- 존스홉킨스 전세계 누적데이터 -->
-  <script src="HopkinsCoronaWorldData.js"></script>
+  <script src="data/HopkinsCoronaWorldData.js"></script>
+  <script src="js/chart/top15Countries_graph.js"></script>
 </body>
 
 </html>
