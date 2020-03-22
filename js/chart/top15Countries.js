@@ -28,7 +28,8 @@ for (var i = 0; i < 15; i++) {
       rate_full_recovery = full_recovery_count / rate_total * 100;                    //완치자수 비율
 
   topText[i].innerHTML =
-     '<div>' + ( i+1 ) + '. ' + marker[i].Name + ' : ' // 순번, 나라명
+     '<div>' + ( i+1 ) + '. ' + marker[i].Name
+    + '(' + marker[i].Name_en + ') : ' // 순번, 나라명
     + Number(cases_count).toLocaleString() + ' ( ' + Math.round(percentage * 100) / 100 + "%" + ' )' + '</div>' //확진자수(확진자 비율))
     + "<div class='rate'>"
     +   "치명률 : <span class='bold'>" + TOP5_fatality_rate + "</span>% / "
