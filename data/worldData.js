@@ -20,7 +20,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 26685,
+        "확진자수": 27069,
         "사망자수": 340,
         "완치자수": 176
     },
@@ -388,9 +388,9 @@ var marker = [
         "Name": "홍콩",
         "Name_ch": "",
         "Name_en": "Hong Kong",
-        "확진자수": 273,
+        "확진자수": 274,
         "사망자수": 4,
-        "완치자수": 98
+        "완치자수": 100
     },
     {
         "Name": "Panama",
@@ -697,6 +697,14 @@ var marker = [
         "완치자수": 15
     },
     {
+        "Name": "New Zealand",
+        "Name_ch": "",
+        "Name_en": "New Zealand",
+        "확진자수": 66,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -759,14 +767,6 @@ var marker = [
         "확진자수": 53,
         "사망자수": 0,
         "완치자수": 17
-    },
-    {
-        "Name": "New Zealand",
-        "Name_ch": "",
-        "Name_en": "New Zealand",
-        "확진자수": 52,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "오만",
@@ -929,6 +929,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "마카오",
+        "Name_ch": "",
+        "Name_en": "Macao",
+        "확진자수": 19,
+        "사망자수": 0,
+        "완치자수": 10
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
@@ -943,14 +951,6 @@ var marker = [
         "확진자수": 18,
         "사망자수": 1,
         "완치자수": 0
-    },
-    {
-        "Name": "마카오",
-        "Name_ch": "",
-        "Name_en": "Macao",
-        "확진자수": 18,
-        "사망자수": 0,
-        "완치자수": 10
     },
     {
         "Name": "모나코",
