@@ -1,77 +1,64 @@
-// TOP15 countury graph
+var top15Chart = null;
 
-// test code 시작
-
-// window.addEventListener('click', function(e){
-//   // console.log(e)
-//   // console.log(e.target.offsetParent);
-//   // console.log(e.target.offsetParent.innerHTML);
-// });
-
-//NodeList는 HTML 객체
-//원래 indexOf 함수가 NodeList에서 작동이 안되는데 작동이 되도록 하는 코드
-// NodeList.prototype.indexOf = Array.prototype.indexOf;
-//
-// for (var i=0;i < topText.length;i++) {
-//   topText[i].addEventListener("click", function(e){
-//     // console.log(marker[topText.indexOf(e.currentTarget)]);
-//     // console.log(marker[topText.indexOf(e.currentTarget)].Name_en)
-//   })
-// }
-
-// test코드 종료
-
+var countryNameMapper = {
+  "Korea, Republic of": "Korea, South",
+  "United States": "US"
+};
 
 NodeList.prototype.indexOf = Array.prototype.indexOf;
 
-for (var i=0; i < topText.length; i++) {
-  topText[i].addEventListener("click", function(e){
+for (var i = 0; i < topText.length; i++) {
+  topText[i].addEventListener("click", function(e) {
+    countryNameClicked(e);
+  });
+}
 
-    for (var j=0; j < hopkinsData.length; j++) {
-      if (hopkinsData[j]["name"] ==
-      marker[topText.indexOf(e.currentTarget)].Name_en && (
-      hopkinsData[j]["province/state"] == "total" ||
-      hopkinsData[j]["province/state"] == "")){
-        var hopkins_date_Array = hopkinsData[0]['date'];
-        var hopkins_confirmed_Array = hopkinsData[j]['confirmed'];
-        var hopkins_deaths_Array = hopkinsData[j]['deaths'];
-        var hopkins_recovered_Array = hopkinsData[j]['recovered'];
-      }
-      
-      // //한국데이터
-      // if (hopkinsData[j]["name"] == "Korea, South"){
-      //   // 한국 증가추이
-      //   var hopkinsData_korea_date = [];
-      //   var hopkinsData_korea_confirmed = [];
-      //   var hopkinsData_korea_deaths = [];
-      //   var hopkinsData_korea_recovered = [];
-      //
-      //   for (var k = 0; k < koreaRegionalCumulativeData.length; k++) {
-      //     hopkinsData_korea_date.push(koreaRegionalCumulativeData[k][0]);
-      //     hopkinsData_korea_confirmed.push(koreaRegionalCumulativeData[k][1]);
-      //     hopkinsData_korea_deaths.push(koreaRegionalCumulativeData[k][3]);
-      //     hopkinsData_korea_recovered.push(koreaRegionalCumulativeData[k][4]);
-      //   }
-      //
-      //   var hopkins_date_Array = hopkinsData_korea_date;
-      //   var hopkins_confirmed_Array = hopkinsData_korea_confirmed;
-      //   var hopkins_deaths_Array = hopkinsData_korea_deaths;
-      //   var hopkins_recovered_Array = hopkinsData_korea_recovered;
-      // }
+function countryNameClicked(e) {
+  // chartData 객체는 .date (label), .confirmed,
+  // .deaths, .recovered를 사용하여 그래프를 그립니다.
+  var chartData = {};
 
+  var countryName =
+    countryNameMapper[marker[topText.indexOf(e.currentTarget)].Name_en];
+  if (!countryName) {
+    countryName = marker[topText.indexOf(e.currentTarget)].Name_en;
+  }
+  
+  for (var j = 0; j < hopkinsData.length; j++) {
+    if (
+      hopkinsData[j]["name"] ==
+        countryName &&
+      (hopkinsData[j]["province/state"] == "total" ||
+        hopkinsData[j]["province/state"] == "")
+    ) {
+      chartData.date = hopkinsData[0]["date"];
+      chartData.confirmed = hopkinsData[j]["confirmed"];
+      chartData.deaths = hopkinsData[j]["deaths"];
+      chartData.recovered = hopkinsData[j]["recovered"];
     }
+  }
 
-    var ctxTOP15 = document.getElementById("top15graph");
-    var myLineChart = new Chart(ctxTOP15, {
-      type: 'line',
-      data: {
-        labels: hopkins_date_Array,
-        datasets: [{
+  if (top15Chart !== null) {
+    top15Chart.destroy();
+  }
+
+  top15Chart = createTop15Chart(chartData);
+}
+
+function createTop15Chart(chartData) {
+  var ctxTOP15 = document.getElementById("top15graph");
+
+  var top15ChartObj = new Chart(ctxTOP15, {
+    type: "line",
+    data: {
+      labels: chartData.date,
+      datasets: [
+        {
           label: "확진자수 ",
           lineTension: 0.3,
           backgroundColor: "rgba(78, 115, 223, .05)",
           borderColor: "rgba(78, 115, 223, 1)",
-          borderWidth:1,
+          borderWidth: 1,
           pointRadius: 3,
           pointBackgroundColor: "rgba(78, 115, 223, 1)",
           pointBorderColor: "rgba(78, 115, 223, 1)",
@@ -80,8 +67,9 @@ for (var i=0; i < topText.length; i++) {
           pointHoverBorderColor: "rgba(78, 115, 223, 1)",
           pointHitRadius: 10,
           pointBorderWidth: 0,
-          data: hopkins_confirmed_Array,
-        },{
+          data: chartData.confirmed
+        },
+        {
           label: "사망자수 ",
           lineTension: 0.3,
           backgroundColor: "rgba(28, 200, 138, .05)",
@@ -89,14 +77,15 @@ for (var i=0; i < topText.length; i++) {
           pointRadius: 3,
           pointBackgroundColor: "rgba(28, 200, 138, 1)",
           pointBorderColor: "rgba(28, 200, 138, 1)",
-          borderWidth:1,
+          borderWidth: 1,
           pointHoverRadius: 5,
           pointHoverBackgroundColor: "rgba(28, 200, 138, 1)",
           pointHoverBorderColor: "rgba(28, 200, 138, 1)",
           pointHitRadius: 10,
           pointBorderWidth: 0,
-          data: hopkins_deaths_Array,
-        },{
+          data: chartData.deaths
+        },
+        {
           label: "완치자수 ",
           lineTension: 0.3,
           backgroundColor: "rgba(54, 185, 204, .05)",
@@ -104,29 +93,31 @@ for (var i=0; i < topText.length; i++) {
           pointRadius: 3,
           pointBackgroundColor: "rgba(54, 185, 204, 1)",
           pointBorderColor: "rgba(54, 185, 204, 1)",
-          borderWidth:1,
+          borderWidth: 1,
           pointHoverRadius: 5,
           pointHoverBackgroundColor: "rgba(54, 185, 204, 1)",
           pointHoverBorderColor: "rgba(54, 185, 204, 1)",
           pointHitRadius: 10,
           pointBorderWidth: 0,
-          data: hopkins_recovered_Array,
-        }],
+          data: chartData.recovered
+        }
+      ]
+    },
+    options: {
+      maintainAspectRatio: false,
+      layout: {
+        padding: {
+          left: 10,
+          right: 25,
+          top: 25,
+          bottom: 0
+        }
       },
-      options: {
-        maintainAspectRatio: false,
-        layout: {
-          padding: {
-            left: 10,
-            right: 25,
-            top: 25,
-            bottom: 0
-          }
-        },
-        scales: {
-          xAxes: [{
+      scales: {
+        xAxes: [
+          {
             time: {
-              unit: 'date'
+              unit: "date"
             },
             gridLines: {
               display: false,
@@ -135,14 +126,16 @@ for (var i=0; i < topText.length; i++) {
             ticks: {
               maxTicksLimit: 7
             }
-          }],
-          yAxes: [{
+          }
+        ],
+        yAxes: [
+          {
             ticks: {
               maxTicksLimit: 5,
               padding: 10,
               // Include a dollar sign in the ticks
               callback: function(value, index, values) {
-                return '' + number_format(value);
+                return "" + number_format(value);
               }
             },
             gridLines: {
@@ -152,34 +145,36 @@ for (var i=0; i < topText.length; i++) {
               borderDash: [2],
               zeroLineBorderDash: [2]
             }
-          }],
-        },
-        legend: {
-          display: false
-        },
-        tooltips: {
-          backgroundColor: "rgb(255,255,255)",
-          bodyFontColor: "#858796",
-          titleMarginBottom: 10,
-          titleFontColor: '#6e707e',
-          titleFontSize: 14,
-          borderColor: '#dddfeb',
-          borderWidth: 1,
-          xPadding: 15,
-          yPadding: 15,
-          displayColors: false,
-          intersect: false,
-          mode: 'index',
-          caretPadding: 10,
-          callbacks: {
-            label: function(tooltipItem, chart) {
-              var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
-              return datasetLabel + '' + number_format(tooltipItem.yLabel);
-            }
+          }
+        ]
+      },
+      legend: {
+        display: false
+      },
+      tooltips: {
+        backgroundColor: "rgb(255,255,255)",
+        bodyFontColor: "#858796",
+        titleMarginBottom: 10,
+        titleFontColor: "#6e707e",
+        titleFontSize: 14,
+        borderColor: "#dddfeb",
+        borderWidth: 1,
+        xPadding: 15,
+        yPadding: 15,
+        displayColors: false,
+        intersect: false,
+        mode: "index",
+        caretPadding: 10,
+        callbacks: {
+          label: function(tooltipItem, chart) {
+            var datasetLabel =
+              chart.datasets[tooltipItem.datasetIndex].label || "";
+            return datasetLabel + "" + number_format(tooltipItem.yLabel);
           }
         }
       }
-    });
+    }
+  });
 
-  })
+  return top15ChartObj;
 }
