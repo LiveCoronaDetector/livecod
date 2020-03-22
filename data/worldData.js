@@ -21,7 +21,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Spain",
         "확진자수": 28572,
-        "사망자수": 1725,
+        "사망자수": 1753,
         "완치자수": 2125
     },
     {
@@ -29,16 +29,16 @@ var marker = [
         "Name_ch": "",
         "Name_en": "United States",
         "확진자수": 26909,
-        "사망자수": 348,
+        "사망자수": 349,
         "완치자수": 178
     },
     {
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 23129,
+        "확진자수": 23937,
         "사망자수": 93,
-        "완치자수": 209
+        "완치자수": 266
     },
     {
         "Name": "이란",
@@ -100,7 +100,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 2247,
+        "확진자수": 2249,
         "사망자수": 7,
         "완치자수": 6
     },
@@ -225,6 +225,14 @@ var marker = [
         "완치자수": 567
     },
     {
+        "Name": "칠레",
+        "Name_ch": "",
+        "Name_en": "Chile",
+        "확진자수": 632,
+        "사망자수": 1,
+        "완치자수": 8
+    },
+    {
         "Name": "핀란드",
         "Name_ch": "",
         "Name_en": "Finland",
@@ -255,14 +263,6 @@ var marker = [
         "확진자수": 563,
         "사망자수": 7,
         "완치자수": 13
-    },
-    {
-        "Name": "칠레",
-        "Name_ch": "",
-        "Name_en": "Chile",
-        "확진자수": 537,
-        "사망자수": 1,
-        "완치자수": 8
     },
     {
         "Name": "에콰도르",
@@ -564,7 +564,7 @@ var marker = [
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "확진자수": 114,
+        "확진자수": 115,
         "사망자수": 0,
         "완치자수": 1
     },
@@ -580,9 +580,17 @@ var marker = [
         "Name": "모로코",
         "Name_ch": "",
         "Name_en": "Morocco",
-        "확진자수": 108,
+        "확진자수": 109,
         "사망자수": 3,
         "완치자수": 3
+    },
+    {
+        "Name": "베트남",
+        "Name_ch": "",
+        "Name_en": "Vietnam",
+        "확진자수": 106,
+        "사망자수": 0,
+        "완치자수": 17
     },
     {
         "Name": "Lithuania",
@@ -599,14 +607,6 @@ var marker = [
         "확진자수": 100,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "베트남",
-        "Name_ch": "",
-        "Name_en": "Vietnam",
-        "확진자수": 99,
-        "사망자수": 0,
-        "완치자수": 17
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -721,6 +721,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "아제르바이잔",
+        "Name_ch": "",
+        "Name_en": "Azerbaijan",
+        "확진자수": 65,
+        "사망자수": 1,
+        "완치자수": 11
+    },
+    {
         "Name": "팔레스타인",
         "Name_ch": "",
         "Name_en": "Palestine",
@@ -767,14 +775,6 @@ var marker = [
         "확진자수": 54,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "아제르바이잔",
-        "Name_ch": "",
-        "Name_en": "Azerbaijan",
-        "확진자수": 53,
-        "사망자수": 1,
-        "완치자수": 11
     },
     {
         "Name": "캄보디아",
@@ -1297,6 +1297,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "네팔",
+        "Name_ch": "",
+        "Name_en": "Nepal",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
@@ -1377,20 +1385,20 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Niger",
+        "Name_ch": "",
+        "Name_en": "Niger",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "",
-        "Name_en": "Nepal",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Antigua and Barbuda",
@@ -1444,14 +1452,6 @@ var marker = [
         "Name": "Montserrat",
         "Name_ch": "",
         "Name_en": "Montserrat",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Niger",
-        "Name_ch": "",
-        "Name_en": "Niger",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
