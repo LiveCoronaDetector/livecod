@@ -374,6 +374,18 @@
                     <span class="tag_02">완치자수</span>
                     <span class="tag_04">확진자수</span>
                   </div>
+                  <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
+                    <span class="float-right"></span>
+                  </h4>
+                  <div id="collapseTop15" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordionExample">
+                    <!-- 그래프 그려지는 공간 -->
+                  </div>
+                  <div class="progress mb-4 top_progress">
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                  </div>
+
                   <h4 class="small top_title">
                     <span class="float-right"></span>
                   </h4>
@@ -382,14 +394,7 @@
                     <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
-                  <h4 class="small top_title">
-                    <span class="float-right"></span>
-                  </h4>
-                  <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                  </div>
+
                   <h4 class="small top_title">
                     <span class="float-right"></span>
                   </h4>
@@ -1279,7 +1284,7 @@
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                   <h6 class="m-0 font-weight-bold text-danger">지역선별진료소 및 보건소(지도 클릭 후 전화연결 가능)</h6>
                 </div>
-                <!-- Card Body -->
+
                 <!-- Card Body -->
                 <div class="card-body">
                   <div id="map" style="width:100%;height:452px;"></div>
@@ -2054,7 +2059,8 @@
   </script>
 
   <!-- 존스홉킨스 전세계 누적데이터 -->
-  <!-- <script src="HopkinsCoronaWorldData.js"></script> -->
+  <script src="data/HopkinsCoronaWorldData.js"></script>
+  <script src="js/chart/top15Countries_graph.js"></script>
 </body>
 
 </html>

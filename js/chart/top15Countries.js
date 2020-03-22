@@ -44,3 +44,5 @@ for (var i = 0; i < 15; i++) {
   topFullRecover[i].title = "완치자 " + full_recovery_count.toLocaleString() + "명";  //TOP 완치자
   topDeathToll[i].title = "사망자 " + dead_toll_count.toLocaleString() + "명";        //TOP 사망자
 }
+
+var hopkins_graph_marker = JSON.parse(JSON.stringify(marker));
