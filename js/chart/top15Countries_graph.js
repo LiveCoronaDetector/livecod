@@ -204,11 +204,16 @@ function createTop15Chart(chartData) {
 }
 
 function top15canvas(){
-  // if(document.getElementById('top15graph')){
-  //   document.getElementById('top15graph').id = '';
-  //   document.getElementById('collapseTop15').classList.remove('show');
-  //   // document.getElementById('collapseTop15').id = '';
-  // } else{
-    document.getElementById('collapseTop15').innerHTML = '<div style="height:35rem;"><canvas id="top15graph"></canvas></div>';
+  // if(document.getElementById('collapseTop15')){
+  //   // document.getElementById('top15graph').id = '';
+  //   // 
+  //   document.getElementById('collapseTop15').classList.add('show');
+  //   document.getElementById('collapseTop15').innerHTML = '<div style="height:35rem;"><canvas id="top15graph"></canvas></div>';
+  // } else {
+  //   // document.getElementById('collapseTop15').classList.add('show');
+  //   document.getElementById('collapseTop15').innerHTML = '<div style="height:35rem;"><canvas id="top15graph"></canvas></div>';
   // }
+  document.getElementById('collapseTop15').innerHTML = '<div style="height:35rem;"><canvas id="top15graph"></canvas></div>';
+  // document.getElementById('collapseTop15').classList.add('show');
+  document.getElementById('collapseTop15').classList.remove('show');
 }
