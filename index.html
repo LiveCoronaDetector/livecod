@@ -1896,12 +1896,12 @@
     var korea = marker.find(function(i) {
       return i.Name == "한국";
     });
-    var jeju = marker.find(function(i) {
-      return i.Name == "제주";
-    });
+    var 한국격리자수 = korea.확진자수 - korea.사망자수 - korea.완치자수;
+
     var 모든확진자수 = 확진자수;
     var 모든사망자수 = 사망자수;
     var 모든완치자수 = 완치자수;
+    var 모든격리자수 = 확진자수 - 사망자수 - 완치자수;
 
     var koreanText = document.getElementsByClassName("koreanText");
     var worldText = document.getElementsByClassName("worldText");
@@ -1913,7 +1913,7 @@
     koreanChart[0].style.width = (korea.확진자수 - korea.사망자수 - korea.완치자수) / korea.확진자수 * 100 + "%";
     koreanChart[1].style.width = korea.완치자수 / korea.확진자수 * 100 + "%";
     koreanChart[2].style.width = korea.사망자수 / korea.확진자수 * 100 + "%";
-    koreanChart[0].title = "확진자 " + korea.확진자수.toLocaleString() + "명";
+    koreanChart[0].title = "격리자 " + 한국격리자수.toLocaleString() + "명";
     koreanChart[1].title = "완치자 " + korea.완치자수.toLocaleString() + "명";
     koreanChart[2].title = "사망자 " + korea.사망자수.toLocaleString() + "명";
     worldText[0].innerText = 모든확진자수.toLocaleString();
@@ -1922,7 +1922,7 @@
     worldChart[0].style.width = (모든확진자수 - 모든사망자수 - 모든완치자수) / 모든확진자수 * 100 + "%";
     worldChart[1].style.width = 모든완치자수 / 모든확진자수 * 100 + "%";
     worldChart[2].style.width = 모든사망자수 / 모든확진자수 * 100 + "%";
-    worldChart[0].title = "확진자 " + 모든확진자수.toLocaleString() + "명";
+    worldChart[0].title = "격리자 " + 모든격리자수.toLocaleString() + "명";
     worldChart[1].title = "완치자 " + 모든완치자수.toLocaleString() + "명";
     worldChart[2].title = "사망자 " + 모든사망자수.toLocaleString() + "명";
   </script>
@@ -1945,7 +1945,7 @@
 
   <!-- 차트를 그리고 싶으시면 아래 파일을 참고해주세요. -->
   <script src="js/chart/chart-area.js"></script>
-  <script src="js/chart/chart-pie.js"></script>
+  <script src="js/chart/top15Countries.js"></script>
   <script src="js/chart/chart-bar.js"></script>
 
   <!-- Page level plugins -->
