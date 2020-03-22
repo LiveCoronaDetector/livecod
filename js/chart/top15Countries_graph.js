@@ -24,18 +24,41 @@
 
 NodeList.prototype.indexOf = Array.prototype.indexOf;
 
-for (var i=0;i < topText.length;i++) {
+for (var i=0; i < topText.length; i++) {
   topText[i].addEventListener("click", function(e){
-    for (var i = 0; i < hopkinsData.length; i++) {
-      if (hopkinsData[i]["name"] ==
+
+    for (var j=0; j < hopkinsData.length; j++) {
+      if (hopkinsData[j]["name"] ==
       marker[topText.indexOf(e.currentTarget)].Name_en && (
-      hopkinsData[i]["province/state"] == "total" ||
-      hopkinsData[i]["province/state"] == "")){
+      hopkinsData[j]["province/state"] == "total" ||
+      hopkinsData[j]["province/state"] == "")){
         var hopkins_date_Array = hopkinsData[0]['date'];
-        var hopkins_confirmed_Array = hopkinsData[i]['confirmed'];
-        var hopkins_deaths_Array = hopkinsData[i]['deaths'];
-        var hopkins_recovered_Array = hopkinsData[i]['recovered'];
+        var hopkins_confirmed_Array = hopkinsData[j]['confirmed'];
+        var hopkins_deaths_Array = hopkinsData[j]['deaths'];
+        var hopkins_recovered_Array = hopkinsData[j]['recovered'];
       }
+      
+      // //한국데이터
+      // if (hopkinsData[j]["name"] == "Korea, South"){
+      //   // 한국 증가추이
+      //   var hopkinsData_korea_date = [];
+      //   var hopkinsData_korea_confirmed = [];
+      //   var hopkinsData_korea_deaths = [];
+      //   var hopkinsData_korea_recovered = [];
+      //
+      //   for (var k = 0; k < koreaRegionalCumulativeData.length; k++) {
+      //     hopkinsData_korea_date.push(koreaRegionalCumulativeData[k][0]);
+      //     hopkinsData_korea_confirmed.push(koreaRegionalCumulativeData[k][1]);
+      //     hopkinsData_korea_deaths.push(koreaRegionalCumulativeData[k][3]);
+      //     hopkinsData_korea_recovered.push(koreaRegionalCumulativeData[k][4]);
+      //   }
+      //
+      //   var hopkins_date_Array = hopkinsData_korea_date;
+      //   var hopkins_confirmed_Array = hopkinsData_korea_confirmed;
+      //   var hopkins_deaths_Array = hopkinsData_korea_deaths;
+      //   var hopkins_recovered_Array = hopkinsData_korea_recovered;
+      // }
+
     }
 
     var ctxTOP15 = document.getElementById("top15graph");
