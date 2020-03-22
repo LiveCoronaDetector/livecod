@@ -28,9 +28,9 @@ for (var i=0;i < topText.length;i++) {
   topText[i].addEventListener("click", function(e){
     for (var i = 0; i < hopkinsData.length; i++) {
       if (hopkinsData[i]["name"] ==
-      marker[topText.indexOf(e.currentTarget)].Name_en &&
-      hopkinsData[i]["province/state"] ==
-      "total"){
+      marker[topText.indexOf(e.currentTarget)].Name_en && (
+      hopkinsData[i]["province/state"] == "total" ||
+      hopkinsData[i]["province/state"] == "")){
         var hopkins_date_Array = hopkinsData[0]['date'];
         var hopkins_confirmed_Array = hopkinsData[i]['confirmed'];
         var hopkins_deaths_Array = hopkinsData[i]['deaths'];
