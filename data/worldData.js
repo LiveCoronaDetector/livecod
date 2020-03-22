@@ -20,7 +20,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 26863,
+        "확진자수": 26867,
         "사망자수": 348,
         "완치자수": 178
     },
@@ -342,7 +342,7 @@ var marker = [
         "Name_en": "India",
         "확진자수": 332,
         "사망자수": 5,
-        "완치자수": 23
+        "완치자수": 24
     },
     {
         "Name": "페루",
@@ -849,6 +849,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 26,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
@@ -863,14 +871,6 @@ var marker = [
         "확진자수": 24,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 24,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "DRC",
@@ -1089,6 +1089,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+        "확진자수": 8,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
@@ -1137,14 +1145,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Aruba",
-        "Name_ch": "",
-        "Name_en": "Aruba",
-        "확진자수": 5,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
@@ -1172,6 +1172,14 @@ var marker = [
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
@@ -1476,14 +1484,6 @@ var marker = [
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
