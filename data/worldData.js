@@ -1353,6 +1353,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Niger",
+        "Name_ch": "",
+        "Name_en": "Niger",
+        "확진자수": 3,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
@@ -1409,6 +1417,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Dominica",
+        "Name_ch": "",
+        "Name_en": "Dominica",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
@@ -1433,14 +1449,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Niger",
-        "Name_ch": "",
-        "Name_en": "Niger",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
@@ -1460,14 +1468,6 @@ var marker = [
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Dominica",
-        "Name_ch": "",
-        "Name_en": "Dominica",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
