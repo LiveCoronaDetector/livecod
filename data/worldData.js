@@ -20,8 +20,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 34755,
-        "사망자수": 452,
+        "확진자수": 34778,
+        "사망자수": 454,
         "완치자수": 178
     },
     {
@@ -585,6 +585,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "베트남",
+        "Name_ch": "",
+        "Name_en": "Vietnam",
+        "확진자수": 116,
+        "사망자수": 0,
+        "완치자수": 17
+    },
+    {
         "Name": "모로코",
         "Name_ch": "",
         "Name_en": "Morocco",
@@ -615,14 +623,6 @@ var marker = [
         "확진자수": 113,
         "사망자수": 1,
         "완치자수": 1
-    },
-    {
-        "Name": "베트남",
-        "Name_ch": "",
-        "Name_en": "Vietnam",
-        "확진자수": 113,
-        "사망자수": 0,
-        "완치자수": 17
     },
     {
         "Name": "요르단",
@@ -697,6 +697,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 77,
+        "사망자수": 0,
+        "완치자수": 15
+    },
+    {
         "Name": "벨라루스",
         "Name_ch": "",
         "Name_en": "Belarus",
@@ -727,14 +735,6 @@ var marker = [
         "확진자수": 73,
         "사망자수": 3,
         "완치자수": 1
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 70,
-        "사망자수": 0,
-        "완치자수": 15
     },
     {
         "Name": "세네갈",
@@ -945,6 +945,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "확진자수": 22,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
@@ -959,14 +967,6 @@ var marker = [
         "확진자수": 22,
         "사망자수": 0,
         "완치자수": 10
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "확진자수": 21,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Guatemala",
