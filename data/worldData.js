@@ -20,7 +20,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 35079,
+        "확진자수": 35121,
         "사망자수": 458,
         "완치자수": 178
     },
@@ -36,8 +36,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 27181,
-        "사망자수": 113,
+        "확진자수": 27289,
+        "사망자수": 115,
         "완치자수": 422
     },
     {
@@ -84,8 +84,8 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "",
         "Name_en": "Austria",
-        "확진자수": 3923,
-        "사망자수": 16,
+        "확진자수": 3967,
+        "사망자수": 21,
         "완치자수": 9
     },
     {
@@ -116,7 +116,7 @@ var marker = [
         "Name": "스웨덴",
         "Name_ch": "",
         "Name_en": "Sweden",
-        "확진자수": 2038,
+        "확진자수": 2046,
         "사망자수": 25,
         "완치자수": 16
     },
@@ -229,7 +229,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Chile",
         "확진자수": 746,
-        "사망자수": 1,
+        "사망자수": 2,
         "완치자수": 8
     },
     {
@@ -358,7 +358,7 @@ var marker = [
         "Name_en": "South Africa",
         "확진자수": 402,
         "사망자수": 0,
-        "완치자수": 2
+        "완치자수": 4
     },
     {
         "Name": "페루",
@@ -449,18 +449,10 @@ var marker = [
         "완치자수": 27
     },
     {
-        "Name": "콜롬비아",
-        "Name_ch": "",
-        "Name_en": "Colombia",
-        "확진자수": 235,
-        "사망자수": 2,
-        "완치자수": 3
-    },
-    {
         "Name": "세르비아",
         "Name_ch": "",
         "Name_en": "Serbia",
-        "확진자수": 222,
+        "확진자수": 249,
         "사망자수": 2,
         "완치자수": 2
     },
@@ -468,9 +460,17 @@ var marker = [
         "Name": "도미니카 공화국",
         "Name_ch": "",
         "Name_en": "Dominican Republic",
-        "확진자수": 202,
+        "확진자수": 245,
         "사망자수": 3,
         "완치자수": 0
+    },
+    {
+        "Name": "콜롬비아",
+        "Name_ch": "",
+        "Name_en": "Colombia",
+        "확진자수": 235,
+        "사망자수": 3,
+        "완치자수": 3
     },
     {
         "Name": "알제리",
@@ -604,7 +604,7 @@ var marker = [
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "",
         "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 128,
+        "확진자수": 130,
         "사망자수": 1,
         "완치자수": 2
     },
@@ -612,7 +612,7 @@ var marker = [
         "Name": "베트남",
         "Name_ch": "",
         "Name_en": "Vietnam",
-        "확진자수": 122,
+        "확진자수": 123,
         "사망자수": 0,
         "완치자수": 17
     },
@@ -985,6 +985,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "French Guiana",
+        "Name_ch": "",
+        "Name_en": "French Guiana",
+        "확진자수": 20,
+        "사망자수": 0,
+        "완치자수": 6
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
@@ -1013,14 +1021,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Rwanda",
         "확진자수": 19,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "French Guiana",
-        "Name_ch": "",
-        "Name_en": "French Guiana",
-        "확진자수": 18,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -1062,7 +1062,7 @@ var marker = [
         "Name_en": "Gibraltar",
         "확진자수": 15,
         "사망자수": 0,
-        "완치자수": 2
+        "완치자수": 5
     },
     {
         "Name": "Kenya",
@@ -1121,6 +1121,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Equatorial Guinea",
+        "Name_ch": "",
+        "Name_en": "Equatorial Guinea",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1140,14 +1148,6 @@ var marker = [
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Equatorial Guinea",
-        "Name_ch": "",
-        "Name_en": "Equatorial Guinea",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
@@ -1524,6 +1524,14 @@ var marker = [
         "Name": "Timor-Leste",
         "Name_ch": "",
         "Name_en": "Timor-Leste",
+        "확진자수": 1,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
