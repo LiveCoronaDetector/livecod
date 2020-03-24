@@ -24,7 +24,7 @@ for (var i = 0; i < koreaRegionalData.length; i++) {
       "Name_ch": "濟州",
       "lat": 33.50972,
       "lng": 126.52194,
-      "확진자수": koreaRegionalData[i]['확진자수'],
+      "확진자수": 5,//4월 25일 임시로 5로 바꿉니다.
       "사망자수": koreaRegionalData[i]['사망자수'],
       "완치자수": koreaRegionalData[i]['격리해제수'],
     })
