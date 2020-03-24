@@ -46,7 +46,7 @@ var marker = [
         "Name_en": "Iran",
         "확진자수": 24811,
         "사망자수": 1934,
-        "완치자수": 8376
+        "완치자수": 8913
     },
     {
         "Name": "프랑스",
@@ -76,7 +76,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "",
         "Name_en": "Austria",
-        "확진자수": 4782,
+        "확진자수": 4791,
         "사망자수": 25,
         "완치자수": 9
     },
@@ -305,6 +305,14 @@ var marker = [
         "완치자수": 19
     },
     {
+        "Name": "싱가포르",
+        "Name_ch": "",
+        "Name_en": "Singapore",
+        "확진자수": 558,
+        "사망자수": 2,
+        "완치자수": 156
+    },
+    {
         "Name": "남아프리카 공화국",
         "Name_ch": "",
         "Name_en": "South Africa",
@@ -327,14 +335,6 @@ var marker = [
         "확진자수": 511,
         "사망자수": 10,
         "완치자수": 37
-    },
-    {
-        "Name": "싱가포르",
-        "Name_ch": "",
-        "Name_en": "Singapore",
-        "확진자수": 509,
-        "사망자수": 2,
-        "완치자수": 152
     },
     {
         "Name": "카타르",
@@ -492,7 +492,7 @@ var marker = [
         "Name": "대만",
         "Name_ch": "",
         "Name_en": "Taiwan",
-        "확진자수": 215,
+        "확진자수": 216,
         "사망자수": 2,
         "완치자수": 29
     },
@@ -561,6 +561,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "안도라",
+        "Name_ch": "",
+        "Name_en": "Andorra",
+        "확진자수": 164,
+        "사망자수": 1,
+        "완치자수": 1
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
@@ -593,28 +601,20 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "확진자수": 148,
+        "사망자수": 2,
+        "완치자수": 1
+    },
+    {
         "Name": "모로코",
         "Name_ch": "",
         "Name_en": "Morocco",
         "확진자수": 143,
         "사망자수": 4,
         "완치자수": 5
-    },
-    {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "확진자수": 136,
-        "사망자수": 2,
-        "완치자수": 1
-    },
-    {
-        "Name": "안도라",
-        "Name_ch": "",
-        "Name_en": "Andorra",
-        "확진자수": 133,
-        "사망자수": 1,
-        "완치자수": 1
     },
     {
         "Name": "요르단",
@@ -665,6 +665,14 @@ var marker = [
         "완치자수": 7
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "확진자수": 114,
+        "사망자수": 3,
+        "완치자수": 1
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
@@ -701,14 +709,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Ukraine",
         "확진자수": 97,
-        "사망자수": 3,
-        "완치자수": 1
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "확진자수": 90,
         "사망자수": 3,
         "완치자수": 1
     },
@@ -814,6 +814,14 @@ var marker = [
         "Name_en": "Martinique",
         "확진자수": 53,
         "사망자수": 1,
+        "완치자수": 0
+    },
+    {
+        "Name": "Ghana",
+        "Name_ch": "",
+        "Name_en": "Ghana",
+        "확진자수": 52,
+        "사망자수": 2,
         "완치자수": 0
     },
     {
@@ -958,14 +966,6 @@ var marker = [
         "Name_en": "Bolivia",
         "확진자수": 28,
         "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Ghana",
-        "Name_ch": "",
-        "Name_en": "Ghana",
-        "확진자수": 27,
-        "사망자수": 2,
         "완치자수": 0
     },
     {
@@ -1297,6 +1297,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "확진자수": 3,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
@@ -1316,14 +1324,6 @@ var marker = [
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "확진자수": 3,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
