@@ -20,16 +20,16 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 52921,
-        "사망자수": 684,
+        "확진자수": 52983,
+        "사망자수": 685,
         "완치자수": 370
     },
     {
         "Name": "스페인",
         "Name_ch": "",
         "Name_en": "Spain",
-        "확진자수": 39676,
-        "사망자수": 2800,
+        "확진자수": 39885,
+        "사망자수": 2808,
         "완치자수": 3794
     },
     {
@@ -181,8 +181,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Czechia",
         "확진자수": 1394,
-        "사망자수": 2,
-        "완치자수": 8
+        "사망자수": 3,
+        "완치자수": 10
     },
     {
         "Name": "아일랜드",
@@ -249,6 +249,14 @@ var marker = [
         "완치자수": 52
     },
     {
+        "Name": "루마니아",
+        "Name_ch": "",
+        "Name_en": "Romania",
+        "확진자수": 794,
+        "사망자수": 11,
+        "완치자수": 79
+    },
+    {
         "Name": "핀란드",
         "Name_ch": "",
         "Name_en": "Finland",
@@ -263,14 +271,6 @@ var marker = [
         "확진자수": 767,
         "사망자수": 1,
         "완치자수": 28
-    },
-    {
-        "Name": "루마니아",
-        "Name_ch": "",
-        "Name_en": "Romania",
-        "확진자수": 762,
-        "사망자수": 11,
-        "완치자수": 79
     },
     {
         "Name": "그리스",
@@ -612,7 +612,7 @@ var marker = [
         "Name": "요르단",
         "Name_ch": "",
         "Name_en": "Jordan",
-        "확진자수": 153,
+        "확진자수": 154,
         "사망자수": 0,
         "완치자수": 1
     },
@@ -825,6 +825,14 @@ var marker = [
         "완치자수": 16
     },
     {
+        "Name": "Martinique",
+        "Name_ch": "",
+        "Name_en": "Martinique",
+        "확진자수": 57,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
@@ -838,14 +846,6 @@ var marker = [
         "Name_en": "Ghana",
         "확진자수": 53,
         "사망자수": 2,
-        "완치자수": 0
-    },
-    {
-        "Name": "Martinique",
-        "Name_ch": "",
-        "Name_en": "Martinique",
-        "확진자수": 53,
-        "사망자수": 1,
         "완치자수": 0
     },
     {
@@ -993,11 +993,27 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "확진자수": 25,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
         "확진자수": 25,
         "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 23,
+        "사망자수": 1,
         "완치자수": 0
     },
     {
@@ -1015,14 +1031,6 @@ var marker = [
         "확진자수": 23,
         "사망자수": 0,
         "완치자수": 6
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "확진자수": 23,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Isle of Man",
@@ -1049,14 +1057,6 @@ var marker = [
         "완치자수": 2
     },
     {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 20,
-        "사망자수": 1,
-        "완치자수": 0
-    },
-    {
         "Name": "토고",
         "Name_ch": "",
         "Name_en": "Togo",
@@ -1068,7 +1068,7 @@ var marker = [
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "확진자수": 17,
+        "확진자수": 18,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -1169,6 +1169,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "확진자수": 7,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
@@ -1228,14 +1236,6 @@ var marker = [
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 0
