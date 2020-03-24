@@ -44,6 +44,7 @@ confirmed_cols = confirmed_df.columns[confirmed_df.columns.str.endswith('20')]
 
 confimred_result = pd.DataFrame()
 confirmed_result = confirmed_df.filter(confirmed_cols, axis=1)
+confirmed_result = confirmed_result.replace('', 0)
 confirmed_result = confirmed_result.astype(int)
 
 confirmed_result.loc['Total Confimred'] = confirmed_result.sum()
@@ -60,6 +61,7 @@ death_cols = deaths_df.columns[deaths_df.columns.str.endswith('20')]
 deaths_result = pd.DataFrame()
 deaths_result = deaths_df.filter(death_cols, axis=1)
 deaths_result = deaths_result.drop(deaths_result.index[0])
+deaths_result = deaths_result.replace('', 0)
 deaths_result = deaths_result.astype(int)
 
 deaths_result.loc['Total Deaths'] = deaths_result.sum()
@@ -74,6 +76,7 @@ recover_result = pd.DataFrame()
 recover_result = recovered_total_data.filter(recover_cols, axis=1)
 recover_result = recover_result.iloc[1:]
 #recover_result = recover_result.drop(new_recover_df.index[0])
+recover_result = recover_result.replace('', 0)
 recover_result = recover_result.astype(int)
 
 #날짜계산
