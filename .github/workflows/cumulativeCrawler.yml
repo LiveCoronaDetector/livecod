@@ -1,4 +1,4 @@
-name: Run crawler
+name: Run cumulative data crawler
 on:
   schedule:
     - cron:  '*/30 * * * *'
