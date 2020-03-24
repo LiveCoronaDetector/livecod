@@ -18,14 +18,15 @@ jobs:
           pip install -r requirements.txt
       - name: Run crawler
         run: |
-          python "data/crawlWorldData.py"
-          python "data/crawlKoreaRegionalData.py"
+          python "data/crawlKoreaTotalCumulativeData.py"
+          python "data/crawlKoreaRegionalCumulativeData.py"
+          python "data/crawlWorldCumulativeData.py"
       - name: Commit files
         run: |
           git config --local user.email "commit-bot@taeuk.me"
           git config --local user.name "LiveCoronaBot"
-          git add data/worldData.js data/koreaRegionalData.js
-          git commit -m "Run crawler and update current data"
+          git add data/koreaTotalCumulativeData.js data/koreaRegionalCumulativeData.js data/worldCumulativeData.js
+          git commit -m "Run crawler and update cumulative data"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
