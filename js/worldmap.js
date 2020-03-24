@@ -17,7 +17,7 @@ window.onload = function () {
         //marker.js의 국가 영어이름과 svg엘레먼트의 title속성값이 같다면 확진자가 존재하는 국가
         if(data[i].Name_en === land[j].getAttribute("title")){
           temp ++;
-          console.log(temp);
+          // console.log(temp);
 
           // 완치자 수가 있으면 카운터는 확진자수 - 완치자수
           if(data[i].완치자수){
