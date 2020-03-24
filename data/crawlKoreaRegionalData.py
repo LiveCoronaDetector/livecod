@@ -26,7 +26,7 @@ for d in datas:
     confirmed = int(d.find_all('span', class_='num')[0].text[:-1].replace(',', ''))    # 확진자수
     recovered = int(d.find_all('span', class_='num')[2].text[:-1].replace(',', ''))   # 격리해제수
     deaths = int(d.find_all('span', class_='num')[1].text[:-1].replace(',', ''))  # 사망자수
-    confirmed_rate = float(d.find_all('span', class_='num')[3].text[:-1])   # 십만명당발생율
+    confirmed_rate = float(d.find_all('span', class_='num')[3].text[:-1].replace('-', '0'))   # 십만명당발생율
     confirmed_region_rate = d.find_all('p', class_='citytit')    # 지역별확진자비율
 
     for i in confirmed_region_rate:

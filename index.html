@@ -44,6 +44,7 @@
   <link href="vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
   <link href="css/livecod-custom.css" rel="stylesheet">
   <link href="css/livecod-lsy.css" rel="stylesheet">
+  <link href="css/simulator.css" rel="stylesheet" >
 </head>
 <!-- Page Heading -->
 
@@ -197,6 +198,7 @@
                   <h6>국내현황</h6>
                   <div class="small font-weight-bold">
                     <span class="float-right mb-2">( 확진자
+                      <span class="koreanText"></span> 명 / 격리자
                       <span class="koreanText yellow"></span>명 / 완치자
                       <span class="koreanText green"></span>명 / 사망자
                       <span class="koreanText red"></span>명 )
@@ -210,6 +212,7 @@
                   <h6>세계현황</h6>
                   <div class="small font-weight-bold">
                     <span class="float-right mb-2">( 확진자
+                      <span class="worldText"></span> 명 / 격리자
                       <span class="worldText yellow"></span>명 / 완치자
                       <span class="worldText green"></span>명 / 사망자
                       <span class="worldText red"></span>명 )
@@ -330,7 +333,7 @@
                     <div class="card-body">
                       <div class="chart-area" style="height:23rem;">
                           <div class="korea_chart_tags">
-                            <span class="tag_01">격리자수</span>
+                            <span class="tag_01">누적 격리자수</span>
                             <span class="tag_02">사망자수</span>
                             <span class="tag_03">완치자수</span>
                           </div>
@@ -374,144 +377,144 @@
                     <div style="height:35rem;"><canvas id="top15graph"></canvas></div>
                   </div>
                   <div class="korea_chart_tags">
-                    <span class="tag_05">사망자수</span>
+                    <span class="tag_04">격리자수</span>
                     <span class="tag_02">완치자수</span>
-                    <span class="tag_04">확진자수</span>
+                    <span class="tag_05">사망자수</span>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
 
                   <h4 class="small top_title" onclick="top15canvas()" data-toggle="collapse" data-target="#collapseTop15" aria-expanded="true" aria-controls="collapseTop15">
                     <span class="float-right"></span>
                   </h4>
                   <div class="progress mb-4 top_progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                     <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
+                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" ></div>
                   </div>
                   <a target="_blank" class="btn btn-primary" style="width:100%; margin-top:1rem; margin-bottom:1rem;" href="./index_world_chart.html" role="button">각 나라별 일일차트 크게보기</a>
                 </div>
@@ -674,6 +677,37 @@
                       </p>
                       <div class="source"><span class="title">출처</span><span class="desc">lancet 논문 '<a target="_blank" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext">Nowcasting and forecasting the potential domestic and
                             international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study</a>'</span></div>
+
+                            <!-- <div class="covid-simulator">
+                          		<ul class="covid-status">
+                          			<li class="recovered">
+                          				<div class="label">완치 <span class="count">0</span></div>
+                          				<div class="bar-container">
+                          					<div class="bar"></div>
+                          				</div>
+                          			</li>
+                          			<li class="healthy">
+                          				<div class="label">건강 <span class="count">200</span></div>
+                          				<div class="bar-container">
+                          					<div class="bar"></div>
+                          				</div>
+                          			</li>
+                          			<li class="sick">
+                          				<div class="label">감염 <span class="count">0</span></div>
+                          				<div class="bar-container">
+                          					<div class="bar"></div>
+                          				</div>
+                          			</li>
+                          		</ul>
+                          		<div class="graph-canvas-container">
+                          			<canvas class="graph-canvas" width="2000" height="200"></canvas>
+                          		</div>
+                          		<div class="canvas-container stop">
+                          			<canvas class="canvas" width="800" height="400"></canvas>
+                          			<button class="simulation-btn">새 시뮬레이션</button>
+                          		</div>
+                          	</div> -->
+
                     </div>
                   </div>
                 </div>
@@ -1923,17 +1957,20 @@
     var koreanChart = document.getElementsByClassName("koreanChart");
     var worldChart = document.getElementsByClassName("worldChart");
     koreanText[0].innerText = korea.확진자수.toLocaleString();
-    koreanText[1].innerText = korea.완치자수.toLocaleString();
-    koreanText[2].innerText = korea.사망자수.toLocaleString();
+    koreanText[1].innerText = 한국격리자수.toLocaleString();
+    koreanText[2].innerText = korea.완치자수.toLocaleString();
+    koreanText[3].innerText = korea.사망자수.toLocaleString();
     koreanChart[0].style.width = (korea.확진자수 - korea.사망자수 - korea.완치자수) / korea.확진자수 * 100 + "%";
     koreanChart[1].style.width = korea.완치자수 / korea.확진자수 * 100 + "%";
     koreanChart[2].style.width = korea.사망자수 / korea.확진자수 * 100 + "%";
     koreanChart[0].title = "격리자 " + 한국격리자수.toLocaleString() + "명";
     koreanChart[1].title = "완치자 " + korea.완치자수.toLocaleString() + "명";
     koreanChart[2].title = "사망자 " + korea.사망자수.toLocaleString() + "명";
+
     worldText[0].innerText = 모든확진자수.toLocaleString();
-    worldText[1].innerText = 모든완치자수.toLocaleString();
-    worldText[2].innerText = 모든사망자수.toLocaleString();
+    worldText[1].innerText = 모든격리자수.toLocaleString();
+    worldText[2].innerText = 모든완치자수.toLocaleString();
+    worldText[3].innerText = 모든사망자수.toLocaleString();
     worldChart[0].style.width = (모든확진자수 - 모든사망자수 - 모든완치자수) / 모든확진자수 * 100 + "%";
     worldChart[1].style.width = 모든완치자수 / 모든확진자수 * 100 + "%";
     worldChart[2].style.width = 모든사망자수 / 모든확진자수 * 100 + "%";
@@ -2067,6 +2104,9 @@
     // 배너를 숨기고 싶으면 아래 코드를 주석처리하세요
     //showBanner();
   </script>
+
+  <!-- <script src="js/simulator.js"></script> -->
+
 
   <!-- 존스홉킨스 전세계 누적데이터 -->
   <script src="data/HopkinsCoronaWorldData.js"></script>
