@@ -20,8 +20,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 64832,
-        "사망자수": 913,
+        "확진자수": 65342,
+        "사망자수": 922,
         "완치자수": 393
     },
     {
@@ -253,7 +253,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Romania",
         "확진자수": 906,
-        "사망자수": 14,
+        "사망자수": 17,
         "완치자수": 86
     },
     {
@@ -793,6 +793,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Ivory Coast",
+        "Name_ch": "",
+        "Name_en": "Ivory Coast",
+        "확진자수": 80,
+        "사망자수": 0,
+        "완치자수": 3
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "",
         "Name_en": "Cameroon",
@@ -815,14 +823,6 @@ var marker = [
         "확진자수": 73,
         "사망자수": 1,
         "완치자수": 0
-    },
-    {
-        "Name": "Ivory Coast",
-        "Name_ch": "",
-        "Name_en": "Ivory Coast",
-        "확진자수": 73,
-        "사망자수": 0,
-        "완치자수": 2
     },
     {
         "Name": "팔레스타인",
