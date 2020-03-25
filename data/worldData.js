@@ -21,7 +21,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "United States",
         "확진자수": 64765,
-        "사망자수": 909,
+        "사망자수": 910,
         "완치자수": 393
     },
     {
@@ -125,8 +125,16 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Sweden",
         "확진자수": 2526,
-        "사망자수": 44,
+        "사망자수": 62,
         "완치자수": 16
+    },
+    {
+        "Name": "Turkey",
+        "Name_ch": "",
+        "Name_en": "Turkey",
+        "확진자수": 2433,
+        "사망자수": 59,
+        "완치자수": 26
     },
     {
         "Name": "브라질",
@@ -151,14 +159,6 @@ var marker = [
         "확진자수": 2369,
         "사망자수": 5,
         "완치자수": 58
-    },
-    {
-        "Name": "Turkey",
-        "Name_ch": "",
-        "Name_en": "Turkey",
-        "확진자수": 1872,
-        "사망자수": 44,
-        "완치자수": 26
     },
     {
         "Name": "말레이시아",
@@ -657,6 +657,14 @@ var marker = [
         "완치자수": 10
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "확진자수": 145,
+        "사망자수": 5,
+        "완치자수": 1
+    },
+    {
         "Name": "베트남",
         "Name_ch": "",
         "Name_en": "Vietnam",
@@ -687,14 +695,6 @@ var marker = [
         "확진자수": 129,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "확진자수": 116,
-        "사망자수": 4,
-        "완치자수": 1
     },
     {
         "Name": "Réunion",
@@ -825,6 +825,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Martinique",
+        "Name_ch": "",
+        "Name_en": "Martinique",
+        "확진자수": 66,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "팔레스타인",
         "Name_ch": "",
         "Name_en": "Palestine",
@@ -855,14 +863,6 @@ var marker = [
         "확진자수": 57,
         "사망자수": 1,
         "완치자수": 1
-    },
-    {
-        "Name": "Martinique",
-        "Name_ch": "",
-        "Name_en": "Martinique",
-        "확진자수": 57,
-        "사망자수": 1,
-        "완치자수": 0
     },
     {
         "Name": "Montenegro",
