@@ -225,6 +225,14 @@ var marker = [
         "완치자수": 18
     },
     {
+        "Name": "태국",
+        "Name_ch": "",
+        "Name_en": "Thailand",
+        "확진자수": 934,
+        "사망자수": 4,
+        "완치자수": 52
+    },
+    {
         "Name": "칠레",
         "Name_ch": "",
         "Name_en": "Chile",
@@ -239,14 +247,6 @@ var marker = [
         "확진자수": 901,
         "사망자수": 10,
         "완치자수": 1
-    },
-    {
-        "Name": "태국",
-        "Name_ch": "",
-        "Name_en": "Thailand",
-        "확진자수": 827,
-        "사망자수": 4,
-        "완치자수": 52
     },
     {
         "Name": "루마니아",
@@ -724,7 +724,7 @@ var marker = [
         "Name": "캄보디아",
         "Name_ch": "",
         "Name_en": "Cambodia",
-        "확진자수": 91,
+        "확진자수": 93,
         "사망자수": 0,
         "완치자수": 4
     },
@@ -1113,6 +1113,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "New Caledonia",
+        "Name_ch": "",
+        "Name_en": "New Caledonia",
+        "확진자수": 12,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
@@ -1129,10 +1137,10 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "New Caledonia",
+        "Name": "El Salvador",
         "Name_ch": "",
-        "Name_en": "New Caledonia",
-        "확진자수": 10,
+        "Name_en": "El Salvador",
+        "확진자수": 9,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -1257,9 +1265,9 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "El Salvador",
+        "Name": "Fiji",
         "Name_ch": "",
-        "Name_en": "El Salvador",
+        "Name_en": "Fiji",
         "확진자수": 5,
         "사망자수": 0,
         "완치자수": 0
@@ -1276,14 +1284,6 @@ var marker = [
         "Name": "Congo",
         "Name_ch": "",
         "Name_en": "Congo",
-        "확진자수": 4,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Fiji",
-        "Name_ch": "",
-        "Name_en": "Fiji",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
