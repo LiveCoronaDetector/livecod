@@ -20,8 +20,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 65342,
-        "사망자수": 922,
+        "확진자수": 65564,
+        "사망자수": 929,
         "완치자수": 393
     },
     {
@@ -100,15 +100,15 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
-        "확진자수": 3367,
-        "사망자수": 30,
+        "확진자수": 3409,
+        "사망자수": 36,
         "완치자수": 185
     },
     {
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 3066,
+        "확진자수": 3084,
         "사망자수": 14,
         "완치자수": 6
     },
@@ -149,7 +149,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Australia",
         "확진자수": 2431,
-        "사망자수": 9,
+        "사망자수": 11,
         "완치자수": 118
     },
     {
@@ -873,6 +873,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "나이지리아",
+        "Name_ch": "",
+        "Name_en": "Nigeria",
+        "확진자수": 51,
+        "사망자수": 1,
+        "완치자수": 2
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "",
         "Name_en": "Liechtenstein",
@@ -895,14 +903,6 @@ var marker = [
         "확진자수": 48,
         "사망자수": 2,
         "완치자수": 0
-    },
-    {
-        "Name": "나이지리아",
-        "Name_ch": "",
-        "Name_en": "Nigeria",
-        "확진자수": 46,
-        "사망자수": 1,
-        "완치자수": 2
     },
     {
         "Name": "Channel Islands",
@@ -1457,6 +1457,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "부탄",
         "Name_ch": "",
         "Name_en": "Bhutan",
@@ -1509,14 +1517,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Saint Kitts and Nevis",
         "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
     },
