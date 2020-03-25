@@ -20,8 +20,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 54823,
-        "사망자수": 778,
+        "확진자수": 54867,
+        "사망자수": 782,
         "완치자수": 378
     },
     {
@@ -305,6 +305,14 @@ var marker = [
         "완치자수": 51
     },
     {
+        "Name": "인도",
+        "Name_ch": "",
+        "Name_en": "India",
+        "확진자수": 562,
+        "사망자수": 11,
+        "완치자수": 40
+    },
+    {
         "Name": "싱가포르",
         "Name_ch": "",
         "Name_en": "Singapore",
@@ -327,14 +335,6 @@ var marker = [
         "확진자수": 552,
         "사망자수": 35,
         "완치자수": 20
-    },
-    {
-        "Name": "인도",
-        "Name_ch": "",
-        "Name_en": "India",
-        "확진자수": 536,
-        "사망자수": 10,
-        "완치자수": 40
     },
     {
         "Name": "카타르",
@@ -729,6 +729,14 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 91,
+        "사망자수": 0,
+        "완치자수": 15
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "",
         "Name_en": "Azerbaijan",
@@ -751,14 +759,6 @@ var marker = [
         "확진자수": 84,
         "사망자수": 0,
         "완치자수": 17
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 84,
-        "사망자수": 0,
-        "완치자수": 15
     },
     {
         "Name": "벨라루스",
@@ -937,9 +937,25 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 37,
+        "사망자수": 3,
+        "완치자수": 0
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
+        "확진자수": 36,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
         "확진자수": 36,
         "사망자수": 0,
         "완치자수": 0
@@ -961,10 +977,10 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Honduras",
+        "Name": "Bolivia",
         "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 30,
+        "Name_en": "Bolivia",
+        "확진자수": 32,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -977,20 +993,12 @@ var marker = [
         "완치자수": 10
     },
     {
-        "Name": "Bolivia",
+        "Name": "Jamaica",
         "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 29,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 27,
-        "사망자수": 2,
-        "완치자수": 0
+        "Name_en": "Jamaica",
+        "확진자수": 25,
+        "사망자수": 1,
+        "완치자수": 2
     },
     {
         "Name": "French Polynesia",
@@ -1039,14 +1047,6 @@ var marker = [
         "확진자수": 21,
         "사망자수": 1,
         "완치자수": 0
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 21,
-        "사망자수": 1,
-        "완치자수": 2
     },
     {
         "Name": "토고",
