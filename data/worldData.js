@@ -20,8 +20,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 65797,
-        "사망자수": 935,
+        "확진자수": 66048,
+        "사망자수": 944,
         "완치자수": 394
     },
     {
@@ -945,6 +945,14 @@ var marker = [
         "완치자수": 7
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 38,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
@@ -957,14 +965,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Mayotte",
         "확진자수": 36,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 32,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -1089,6 +1089,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 13,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
@@ -1149,14 +1157,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Mongolia",
         "확진자수": 10,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 9,
         "사망자수": 0,
         "완치자수": 0
     },
