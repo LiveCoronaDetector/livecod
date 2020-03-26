@@ -20,8 +20,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 65652,
-        "사망자수": 931,
+        "확진자수": 65797,
+        "사망자수": 935,
         "완치자수": 394
     },
     {
@@ -212,8 +212,8 @@ var marker = [
         "Name": "에콰도르",
         "Name_ch": "",
         "Name_en": "Ecuador",
-        "확진자수": 1173,
-        "사망자수": 28,
+        "확진자수": 1211,
+        "사망자수": 29,
         "완치자수": 3
     },
     {
@@ -489,6 +489,14 @@ var marker = [
         "완치자수": 65
     },
     {
+        "Name": "New Zealand",
+        "Name_ch": "",
+        "Name_en": "New Zealand",
+        "확진자수": 283,
+        "사망자수": 0,
+        "완치자수": 27
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
@@ -567,14 +575,6 @@ var marker = [
         "확진자수": 208,
         "사망자수": 21,
         "완치자수": 4
-    },
-    {
-        "Name": "New Zealand",
-        "Name_ch": "",
-        "Name_en": "New Zealand",
-        "확진자수": 205,
-        "사망자수": 0,
-        "완치자수": 22
     },
     {
         "Name": "코스타리카",
@@ -713,6 +713,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 106,
+        "사망자수": 0,
+        "완치자수": 15
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "",
         "Name_en": "Sri Lanka",
@@ -759,14 +767,6 @@ var marker = [
         "확진자수": 93,
         "사망자수": 2,
         "완치자수": 10
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 91,
-        "사망자수": 0,
-        "완치자수": 15
     },
     {
         "Name": "벨라루스",
