@@ -753,14 +753,6 @@ var marker = [
         "완치자수": 10
     },
     {
-        "Name": "Ghana",
-        "Name_ch": "",
-        "Name_en": "Ghana",
-        "확진자수": 93,
-        "사망자수": 4,
-        "완치자수": 0
-    },
-    {
         "Name": "아제르바이잔",
         "Name_ch": "",
         "Name_en": "Azerbaijan",
@@ -831,6 +823,14 @@ var marker = [
         "확진자수": 71,
         "사망자수": 1,
         "완치자수": 16
+    },
+    {
+        "Name": "Ghana",
+        "Name_ch": "",
+        "Name_en": "Ghana",
+        "확진자수": 68,
+        "사망자수": 4,
+        "완치자수": 0
     },
     {
         "Name": "Martinique",
