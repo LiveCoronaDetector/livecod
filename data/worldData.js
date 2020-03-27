@@ -4,15 +4,15 @@ var marker = [
         "Name": "중국",
         "Name_ch": "",
         "Name_en": "China",
-        "확진자수": 81285,
-        "사망자수": 3287,
-        "완치자수": 74051
+        "확진자수": 81340,
+        "사망자수": 3292,
+        "완치자수": 74588
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 85268,
+        "확진자수": 85280,
         "사망자수": 1293,
         "완치자수": 1864
     },
@@ -873,6 +873,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 67,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
@@ -910,14 +918,6 @@ var marker = [
         "Name_en": "Liechtenstein",
         "확진자수": 56,
         "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 52,
-        "사망자수": 1,
         "완치자수": 0
     },
     {
@@ -1049,6 +1049,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Barbados",
+        "Name_ch": "",
+        "Name_en": "Barbados",
+        "확진자수": 24,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "토고",
         "Name_ch": "",
         "Name_en": "Togo",
@@ -1061,14 +1069,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Madagascar",
         "확진자수": 23,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Barbados",
-        "Name_ch": "",
-        "Name_en": "Barbados",
-        "확진자수": 18,
         "사망자수": 0,
         "완치자수": 0
     },
