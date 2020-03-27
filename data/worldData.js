@@ -12,8 +12,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 85520,
-        "사망자수": 1297,
+        "확진자수": 85594,
+        "사망자수": 1300,
         "완치자수": 1868
     },
     {
@@ -1489,6 +1489,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Nicaragua",
+        "Name_ch": "",
+        "Name_en": "Nicaragua",
+        "확진자수": 2,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Anguilla",
         "Name_ch": "",
         "Name_en": "Anguilla",
@@ -1524,14 +1532,6 @@ var marker = [
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Nicaragua",
-        "Name_ch": "",
-        "Name_en": "Nicaragua",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
