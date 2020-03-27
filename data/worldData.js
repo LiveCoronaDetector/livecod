@@ -12,9 +12,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 85906,
-        "사망자수": 1307,
-        "완치자수": 1868
+        "확진자수": 86548,
+        "사망자수": 1321,
+        "완치자수": 1889
     },
     {
         "Name": "이탈리아",
@@ -521,20 +521,20 @@ var marker = [
         "완치자수": 34
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 293,
+        "사망자수": 3,
+        "완치자수": 9
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "",
         "Name_en": "Latvia",
         "확진자수": 280,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 276,
-        "사망자수": 3,
-        "완치자수": 9
     },
     {
         "Name": "모로코",
@@ -649,6 +649,14 @@ var marker = [
         "완치자수": 31
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 180,
+        "사망자수": 9,
+        "완치자수": 12
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
@@ -671,14 +679,6 @@ var marker = [
         "확진자수": 163,
         "사망자수": 0,
         "완치자수": 20
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 152,
-        "사망자수": 7,
-        "완치자수": 10
     },
     {
         "Name": "Cyprus",
@@ -849,6 +849,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "확진자수": 80,
+        "사망자수": 2,
+        "완치자수": 1
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
@@ -879,14 +887,6 @@ var marker = [
         "확진자수": 68,
         "사망자수": 1,
         "완치자수": 0
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "확진자수": 67,
-        "사망자수": 2,
-        "완치자수": 1
     },
     {
         "Name": "Trinidad and Tobago",
@@ -929,6 +929,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "",
+        "Name_en": "Gibraltar",
+        "확진자수": 55,
+        "사망자수": 0,
+        "완치자수": 14
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
@@ -967,14 +975,6 @@ var marker = [
         "확진자수": 48,
         "사망자수": 5,
         "완치자수": 11
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "",
-        "Name_en": "Gibraltar",
-        "확진자수": 35,
-        "사망자수": 0,
-        "완치자수": 13
     },
     {
         "Name": "마카오",
