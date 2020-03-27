@@ -21,11 +21,12 @@ jobs:
           python "data/crawlKoreaTotalCumulativeData.py"
           python "data/crawlKoreaRegionalCumulativeData.py"
           python "data/crawlWorldCumulativeData.py"
+          python "data/crawlKoreaTotalCumulativeData.py"
       - name: Commit files
         run: |
           git config --local user.email "commit-bot@taeuk.me"
           git config --local user.name "LiveCoronaBot"
-          git add data/koreaTotalCumulativeData.js data/koreaRegionalCumulativeData.js data/worldCumulativeData.js
+          git add data/koreaTotalCumulativeData.js data/koreaRegionalCumulativeData.js data/worldCumulativeData.js data/koreaTotalCumulativeData.js
           git commit -m "Run crawler and update cumulative data"
       - name: Push changes
         uses: ad-m/github-push-action@master
