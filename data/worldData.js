@@ -12,8 +12,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 96920,
-        "사망자수": 1473,
+        "확진자수": 96968,
+        "사망자수": 1477,
         "완치자수": 2453
     },
     {
@@ -36,7 +36,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 49344,
+        "확진자수": 50178,
         "사망자수": 321,
         "완치자수": 5673
     },
@@ -84,7 +84,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "",
         "Name_en": "Austria",
-        "확진자수": 7610,
+        "확진자수": 7642,
         "사망자수": 58,
         "완치자수": 225
     },
@@ -245,7 +245,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Romania",
         "확진자수": 1292,
-        "사망자수": 25,
+        "사망자수": 26,
         "완치자수": 115
     },
     {
@@ -753,6 +753,14 @@ var marker = [
         "완치자수": 11
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "",
+        "Name_en": "Afghanistan",
+        "확진자수": 110,
+        "사망자수": 4,
+        "완치자수": 2
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
@@ -783,14 +791,6 @@ var marker = [
         "확진자수": 96,
         "사망자수": 0,
         "완치자수": 3
-    },
-    {
-        "Name": "아프가니스탄",
-        "Name_ch": "",
-        "Name_en": "Afghanistan",
-        "확진자수": 94,
-        "사망자수": 4,
-        "완치자수": 2
     },
     {
         "Name": "Mauritius",
@@ -825,6 +825,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "확진자수": 88,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
@@ -855,14 +863,6 @@ var marker = [
         "확진자수": 80,
         "사망자수": 2,
         "완치자수": 4
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "확진자수": 80,
-        "사망자수": 1,
-        "완치자수": 0
     },
     {
         "Name": "Montenegro",
