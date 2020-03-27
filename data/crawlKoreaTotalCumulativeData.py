@@ -5,8 +5,22 @@ print("#####################################")
 print("############ 한국 누적 데이터 #############")
 print("######## crawlTotalCumulativeData.py #########")
 
-with open('data/koreaTotalCumulativeData.js', 'r', encoding='UTF-8-sig') as f:
-    data = json.load(f)
+import json
+from datetime import date
+
+data = ''
+switch = True
+with open('./data/koreaTotalCumulativeData.js', 'r', encoding='UTF-8-sig') as f:
+    while True:
+        if switch == True:
+            line = f.readline()[34:]
+            data += line
+            switch = False
+        if not line: break
+        line = f.readline()
+        data += line
+
+data = json.loads(data.replace('\n', '').replace('\t', ''))
 
 today = date.today()
 day = today.strftime(f"{today.month}/{today.day}")
@@ -42,14 +56,22 @@ now.append(diff)
 now.append(death)
 now.append(release)
 
-if data[len(data)-1][0] == day :
-    with open('data/koreaTotalCumulativeData.js', 'r') as f:
-        data = json.load(f)
-else : 
+if data[len(data)-1][0] != day :
     data.append(now)
 
-with open('data/koreaTotalCumulativeData.js', 'w', encoding='utf-8') as make_file:
-    json.dump(data, make_file, indent="\t")
+    with open('./data/koreaTotalCumulativeData.js', 'w', encoding='utf-8') as make_file:
+        json.dump(data, make_file, indent="\t")
+
+    data = ''
+    with open("./data/koreaTotalCumulativeData.js", "r", encoding='UTF-8-sig') as f:
+        while True:
+            line = f.readline()
+            if not line: break
+            data += line
+    data = 'var koreaRegionalCumulativeData = ' + data
+
+    with open("./data/koreaTotalCumulativeData.js", "w", encoding='UTF-8-sig') as f_write:
+        f_write.write(data)
 
 print("############### 완료!! ###############")
 print("#####################################")
