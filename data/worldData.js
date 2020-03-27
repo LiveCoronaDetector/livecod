@@ -165,7 +165,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Malaysia",
         "확진자수": 2031,
-        "사망자수": 23,
+        "사망자수": 24,
         "완치자수": 215
     },
     {
@@ -318,7 +318,7 @@ var marker = [
         "Name_en": "India",
         "확진자수": 733,
         "사망자수": 20,
-        "완치자수": 50
+        "완치자수": 66
     },
     {
         "Name": "일본크루즈",
@@ -774,7 +774,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 98,
         "사망자수": 0,
-        "완치자수": 10
+        "완치자수": 11
     },
     {
         "Name": "Ivory Coast",
@@ -1433,6 +1433,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "부탄",
+        "Name_ch": "",
+        "Name_en": "Bhutan",
+        "확진자수": 3,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
@@ -1508,14 +1516,6 @@ var marker = [
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "부탄",
-        "Name_ch": "",
-        "Name_en": "Bhutan",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
