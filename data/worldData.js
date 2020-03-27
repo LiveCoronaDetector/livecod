@@ -316,7 +316,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "",
         "Name_en": "India",
-        "확진자수": 733,
+        "확진자수": 745,
         "사망자수": 20,
         "완치자수": 66
     },
@@ -948,7 +948,7 @@ var marker = [
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "확진자수": 44,
+        "확진자수": 48,
         "사망자수": 5,
         "완치자수": 11
     },
