@@ -2,9 +2,9 @@ import requests, re, json, csv
 import numpy as np
 import pandas as pd
 
-confirmed_CSV_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv'
-deaths_CSV_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Deaths.csv'
-recovered_CSV_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Recovered.csv'
+confirmed_CSV_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
+deaths_CSV_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
+recovered_CSV_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv'
 
 confirmed_total_data = []
 deaths_total_data = []
@@ -39,16 +39,20 @@ date = [i[:-3] for i in confirmed_total_data[0][4:]]
 total_data.append({'date':date})
 total_data
 
+
 for count in range(1, len(confirmed_total_data)-1):  # len(confirmed_total_data) 464
-    if (confirmed_total_data[count][1] == deaths_total_data[count][1] == recovered_total_data[count][1]):
-        d = {
-            'name' : confirmed_total_data[count][1],
-            'province/state': confirmed_total_data[count][0],
-            'confirmed': confirmed_total_data[count][4:],
-            'deaths' : deaths_total_data[count][4:],
-            'recovered' : recovered_total_data[count][4:],
-        }
-        total_data.append(d)
+    try:
+        if (confirmed_total_data[count][1] == deaths_total_data[count][1] == recovered_total_data[count][1]):
+            d = {
+                'name' : confirmed_total_data[count][1],
+                'province/state': confirmed_total_data[count][0],
+                'confirmed': confirmed_total_data[count][4:],
+                'deaths' : deaths_total_data[count][4:],
+                'recovered' : recovered_total_data[count][4:],
+            }
+            total_data.append(d)
+    except IndexError:
+        print("Index Error ignored")
 # US sum
 sum_US_confirmed = [0] * len(date)
 sum_US_deaths = [0] * len(date)
