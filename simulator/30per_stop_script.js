@@ -139,6 +139,10 @@
         sickLabelCount.innerHTML = sickCount;
         recoveredLabelCount.innerHTML = recoveredCount;
 
+        healthyBar.style.width = `${healthyCount / totalCount * 100}%`;
+  			sickBar.style.width = `${sickCount / totalCount * 100}%`;
+  			recoveredBar.style.width = `${recoveredCount / totalCount * 100}%`;
+
         drawGraph(recoveredCount, healthyCount, sickCount);
 
         if (sickCount === 0) {
