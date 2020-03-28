@@ -653,62 +653,58 @@
                 </div>
                 <!-- //통계치 -->
 
-                <!-- 시나리오별 상황예측 -->
+                <!-- 사회적거리두기 시나리오별 상황예측 -->
                 <div class="col-xl-12 col-lg-6">
                   <div class="card shadow mb-4">
                     <!-- Card Header - Dropdown -->
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                      <h6 class="m-0 font-weight-bold text-danger">시나리오별 상황예측</h6>
+                      <h6 class="m-0 font-weight-bold text-danger">사회적 거리두기 시나리오별 상황예측</h6>
                       <div class="dropdown no-arrow">
                         <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
                         </a>
                         <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
                           <div class="dropdown-header">상세</div>
-                          <a class="dropdown-item" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext">WHO 상세논문보기
-                          </a>
+                          <a class="dropdown-item" href="#"></a>
                         </div>
                       </div>
                     </div>
                     <!-- Card Body -->
                     <div class="card-body">
-                      <img src="img/lancet.jpg" alt="Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study" class="img-fluid">
-                      <p style="margin-top:0.5rem;">
-                        ※ 1월 25일까지의 감염력이 유지된다는 전제 하 그래프 입니다. 이를 바탕으로 다양한 시나리오별 예측값을 시각화할 예정이며, 차후 비슷한 사례가 발생되었을 경우에도 사용할 수 있도록
-                        모든 소스를 오픈하도록 하겠습니다.
-                      </p>
-                      <div class="source"><span class="title">출처</span><span class="desc">lancet 논문 '<a target="_blank" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext">Nowcasting and forecasting the potential domestic and
-                            international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study</a>'</span></div>
 
-                            <!-- <div class="covid-simulator">
-                          		<ul class="covid-status">
-                          			<li class="recovered">
-                          				<div class="label">완치 <span class="count">0</span></div>
-                          				<div class="bar-container">
-                          					<div class="bar"></div>
-                          				</div>
-                          			</li>
-                          			<li class="healthy">
-                          				<div class="label">건강 <span class="count">200</span></div>
-                          				<div class="bar-container">
-                          					<div class="bar"></div>
-                          				</div>
-                          			</li>
-                          			<li class="sick">
-                          				<div class="label">감염 <span class="count">0</span></div>
-                          				<div class="bar-container">
-                          					<div class="bar"></div>
-                          				</div>
-                          			</li>
-                          		</ul>
-                          		<div class="graph-canvas-container">
-                          			<canvas class="graph-canvas" width="2000" height="200"></canvas>
-                          		</div>
-                          		<div class="canvas-container stop">
-                          			<canvas class="canvas" width="800" height="400"></canvas>
-                          			<button class="simulation-btn">새 시뮬레이션</button>
-                          		</div>
-                          	</div> -->
+                      <div class="covid-simulator">
+                        <ul class="covid-status">
+                          <li class="recovered">
+                            <div class="label">완치 <span class="count">0</span></div>
+                            <div class="bar-container">
+                              <div class="bar"></div>
+                            </div>
+                          </li>
+                          <li class="healthy">
+                            <div class="label">건강 <span class="count">200</span></div>
+                            <div class="bar-container">
+                              <div class="bar"></div>
+                            </div>
+                          </li>
+                          <li class="sick">
+                            <div class="label">감염 <span class="count">0</span></div>
+                            <div class="bar-container">
+                              <div class="bar"></div>
+                            </div>
+                          </li>
+                        </ul>
+                        <div class="graph-canvas-container">
+                          <canvas class="graph-canvas" width="2000" height="200"></canvas>
+                        </div>
+                        <button class="simulation-btn btn btn-info">0% 시뮬레이션</button>
+                        <button class="simulation-btn-30 btn btn-info">30% 시뮬레이션</button>
+                        <button class="simulation-btn-50 btn btn-info">50% 시뮬레이션</button>
+                        <button class="simulation-btn-80 btn btn-info">80% 시뮬레이션</button>
+                        <br><br>
+                        <div class="canvas-container stop">
+                          <canvas class="canvas" width="800" height="400"></canvas>
+                        </div>
+                      </div>
 
                     </div>
                   </div>
@@ -2162,7 +2158,10 @@
     //showBanner();
   </script>
 
-  <!-- <script src="js/simulator.js"></script> -->
+  <script src="js/simulator.js"></script>
+  <script src="simulator/30per_stop_script.js"></script>
+  <script src="simulator/50per_stop_script.js"></script>
+  <script src="simulator/80per_stop_script.js"></script>
 
 
   <!-- 존스홉킨스 전세계 누적데이터 -->

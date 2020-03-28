@@ -1,0 +1,76 @@
+.main-title{
+    padding-bottom: 10px;
+    margin:0;
+    max-width: 800px;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.summary{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 0 50px 0 50px;
+}
+.number{
+    margin-left : 20px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+}
+.covid-simulator {
+    max-width: 800px;
+}
+canvas {
+    box-sizing: border-box;
+    width: 100%;
+}
+.canvas {
+    border: 1px solid gray;
+}
+.covid-status {
+    margin: 0;
+    padding: 0;
+}
+.covid-status li {
+    display: flex;
+    align-items: center;
+    margin: 0.5em 0;
+}
+.covid-status .label {
+    width: 100px;
+}
+
+.number .recovered .count{
+    color : #1f71ff;
+    font-weight:800;
+}
+.number .healthy .count{
+    color : #b3bccb;
+    font-weight:800;
+}
+.number .sick .count{
+    color : #dd002f;
+    font-weight:800;
+}
+.canvas-container {
+    position: relative;
+}
+.simulation-btn {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 0.5em 1em;
+    border: 0;
+    border-radius: 50px;
+    font-size: 1rem;
+    color: white;
+    background: #333;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+.stop .simulation-btn {
+    display: inline-block;
+}

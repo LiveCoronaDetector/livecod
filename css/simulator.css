@@ -49,20 +49,13 @@ canvas {
 .canvas-container {
   position: relative;
 }
+
+
 .simulation-btn {
-  display: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  padding: 0.5em 1em;
-  border: 0;
-  border-radius: 50px;
-  font-size: 1rem;
-  color: white;
-  background: #333;
-  transform: translate(-50%, -50%);
   cursor: pointer;
 }
+
+
 .stop .simulation-btn {
   display: inline-block;
 }
