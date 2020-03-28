@@ -12,9 +12,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 104142,
-        "사망자수": 1696,
-        "완치자수": 2522
+        "확진자수": 104205,
+        "사망자수": 1701,
+        "완치자수": 2525
     },
     {
         "Name": "이탈리아",
@@ -133,7 +133,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Australia",
         "확진자수": 3573,
-        "사망자수": 13,
+        "사망자수": 14,
         "완치자수": 170
     },
     {
@@ -349,7 +349,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Mexico",
         "확진자수": 717,
-        "사망자수": 8,
+        "사망자수": 12,
         "완치자수": 4
     },
     {
@@ -790,7 +790,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 99,
         "사망자수": 0,
-        "완치자수": 11
+        "완치자수": 13
     },
     {
         "Name": "Honduras",
@@ -1049,6 +1049,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Barbados",
+        "Name_ch": "",
+        "Name_en": "Barbados",
+        "확진자수": 26,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
@@ -1065,14 +1073,6 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "Barbados",
-        "Name_ch": "",
-        "Name_en": "Barbados",
-        "확진자수": 24,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
@@ -1085,6 +1085,14 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Zambia",
         "확진자수": 22,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 19,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -1117,14 +1125,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "New Caledonia",
         "확진자수": 15,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 13,
         "사망자수": 0,
         "완치자수": 0
     },
@@ -1353,6 +1353,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Sudan",
+        "Name_ch": "",
+        "Name_en": "Sudan",
+        "확진자수": 5,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
@@ -1436,14 +1444,6 @@ var marker = [
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "확진자수": 3,
-        "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "Sudan",
-        "Name_ch": "",
-        "Name_en": "Sudan",
         "확진자수": 3,
         "사망자수": 1,
         "완치자수": 0
