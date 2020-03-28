@@ -23,7 +23,7 @@
     const sickLabelCount = document.querySelector('.sick .count');
     const recoveredLabelCount = document.querySelector('.recovered .count');
 
-    const simulationBtn = document.querySelector('.simulation-btn-80');
+    const simulationBtn_80 = document.querySelector('.simulation-btn-80');
 
     const canvasContainer = document.querySelector('.canvas-container');
 
@@ -190,6 +190,15 @@
     }
 
     function init() {
+
+      if (simul_click == false) {
+          cancelAnimationFrame(rafId);
+          canvasContainer.classList.add('stop');
+          simul_click == true;
+      }
+      simul_click == false;
+
+
         all_balls = [];
         stop_balls = [];
         move_balls = [];
@@ -271,5 +280,5 @@
             canvasContainer.classList.add('stop');
         }
     }
-    simulationBtn.addEventListener('click', init);
+    simulationBtn_80.addEventListener('click', init);
 })();

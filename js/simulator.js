@@ -162,6 +162,13 @@
 		}
 
 		function init() {
+			if (simul_click == false) {
+					cancelAnimationFrame(rafId);
+					canvasContainer.classList.add('stop');
+					simul_click == true;
+					stop = true;
+			}
+			simul_click == false;
 			balls = [];
 			stop = false;
 			canvasContainer.classList.remove('stop');

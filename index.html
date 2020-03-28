@@ -694,11 +694,21 @@
                         <div class="graph-canvas-container">
                           <canvas class="graph-canvas" width="2000" height="200"></canvas>
                         </div>
-                        <button class="simulation-btn btn btn-info">0% 시뮬레이션</button>
-                        <button class="simulation-btn-30 btn btn-info">30% 시뮬레이션</button>
-                        <button class="simulation-btn-50 btn btn-info">50% 시뮬레이션</button>
-                        <button class="simulation-btn-80 btn btn-info">80% 시뮬레이션</button>
-                        <br><br>
+                        <div class="row">
+                          <div class="col-md-3">
+                            <button class="simulation-btn btn btn-info" style="width:100%;margin-bottom:10px;">0% 시뮬레이션</button>
+                          </div>
+                          <div class="col-md-3">
+                            <button class="simulation-btn-30 btn btn-info" style="width:100%;margin-bottom:10px;">30% 시뮬레이션</button>
+                          </div>
+                          <div class="col-md-3">
+                            <button class="simulation-btn-50 btn btn-info" style="width:100%;margin-bottom:10px;">50% 시뮬레이션</button>
+                          </div>
+                          <div class="col-md-3">
+                            <button class="simulation-btn-80 btn btn-info" style="width:100%;margin-bottom:10px;">80% 시뮬레이션</button>
+                          </div>
+                        </div>
+
                         <div class="canvas-container stop">
                           <canvas class="canvas" width="800" height="400"></canvas>
                         </div>
@@ -2155,7 +2165,9 @@
     // 배너를 숨기고 싶으면 아래 코드를 주석처리하세요
     //showBanner();
   </script>
-
+  <script>
+    var simul_click = true;
+  </script>
   <script src="js/simulator.js"></script>
   <script src="simulator/30per_stop_script.js"></script>
   <script src="simulator/50per_stop_script.js"></script>
