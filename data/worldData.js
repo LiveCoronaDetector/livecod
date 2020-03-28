@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 105161,
-        "사망자수": 1722,
+        "확진자수": 105726,
+        "사망자수": 1730,
         "완치자수": 2538
     },
     {
@@ -156,7 +156,7 @@ var marker = [
         "Name": "체코",
         "Name_ch": "",
         "Name_en": "Czechia",
-        "확진자수": 2422,
+        "확진자수": 2541,
         "사망자수": 9,
         "완치자수": 11
     },
@@ -633,6 +633,14 @@ var marker = [
         "완치자수": 6
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 207,
+        "사망자수": 11,
+        "완치자수": 21
+    },
+    {
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
@@ -655,14 +663,6 @@ var marker = [
         "확진자수": 197,
         "사망자수": 10,
         "완치자수": 31
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 180,
-        "사망자수": 9,
-        "완치자수": 12
     },
     {
         "Name": "베트남",
@@ -743,6 +743,14 @@ var marker = [
         "확진자수": 120,
         "사망자수": 1,
         "완치자수": 25
+    },
+    {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "확진자수": 119,
+        "사망자수": 3,
+        "완치자수": 4
     },
     {
         "Name": "Venezuela",
@@ -881,14 +889,6 @@ var marker = [
         "완치자수": 3
     },
     {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "확진자수": 80,
-        "사망자수": 2,
-        "완치자수": 4
-    },
-    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
@@ -929,20 +929,20 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "",
+        "Name_en": "Gibraltar",
+        "확진자수": 56,
+        "사망자수": 0,
+        "완치자수": 14
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "",
         "Name_en": "Liechtenstein",
         "확진자수": 56,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "",
-        "Name_en": "Gibraltar",
-        "확진자수": 55,
-        "사망자수": 0,
-        "완치자수": 14
     },
     {
         "Name": "Rwanda",
