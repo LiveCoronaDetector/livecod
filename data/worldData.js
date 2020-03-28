@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 120204,
-        "사망자수": 1997,
+        "확진자수": 120529,
+        "사망자수": 2008,
         "완치자수": 3229
     },
     {
@@ -20,8 +20,8 @@ var marker = [
         "Name": "스페인",
         "Name_ch": "",
         "Name_en": "Spain",
-        "확진자수": 72335,
-        "사망자수": 5820,
+        "확진자수": 73232,
+        "사망자수": 5982,
         "완치자수": 12285
     },
     {
@@ -101,7 +101,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Canada",
         "확진자수": 5576,
-        "사망자수": 55,
+        "사망자수": 60,
         "완치자수": 354
     },
     {
@@ -116,7 +116,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 4012,
+        "확진자수": 4013,
         "사망자수": 23,
         "완치자수": 7
     },
@@ -756,7 +756,7 @@ var marker = [
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 113,
+        "확진자수": 119,
         "사망자수": 2,
         "완치자수": 39
     },
@@ -817,20 +817,20 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "팔레스타인",
+        "Name_ch": "",
+        "Name_en": "Palestine",
+        "확진자수": 98,
+        "사망자수": 1,
+        "완치자수": 18
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 97,
         "사망자수": 1,
         "완치자수": 0
-    },
-    {
-        "Name": "팔레스타인",
-        "Name_ch": "",
-        "Name_en": "Palestine",
-        "확진자수": 97,
-        "사망자수": 1,
-        "완치자수": 18
     },
     {
         "Name": "Honduras",
@@ -1582,7 +1582,7 @@ var marker = [
         "Name_en": "St. Vincent Grenadines",
         "확진자수": 1,
         "사망자수": 0,
-        "완치자수": 0
+        "완치자수": 1
     },
     {
         "Name": "Timor-Leste",
