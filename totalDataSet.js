@@ -131,7 +131,6 @@ var 입도객현황 = {
     41, //3월 19일
     35, //3월 20일
     34, //3월 21일
-    27, //3월 27일
     39, //3월 22일
     23, //3월 23일
     31, //3월 24일
@@ -172,8 +171,8 @@ var 입도객현황 = {
 
 // This is a bad way to copy, but for now it will suffice.
 // 네이버 지도 API가 로드된 후 marker를 수정하기 때문에 일단 copy를 진행하지만 수정이 필요한 코드입니다.
-var _marker = JSOI가 로드된 후 marker를 수정하기 때문에 일단 copy를 진행하지만 수정이 필요한 코드입니다.
-var _marker = J7ON.parse(JSON.stringify(marker));
+
+var _marker = JSON.parse(JSON.stringify(marker));
 
 
 // 업데이트 시간
