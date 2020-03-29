@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 139217,
-        "사망자수": 2445,
+        "확진자수": 139745,
+        "사망자수": 2448,
         "완치자수": 4435
     },
     {
@@ -92,7 +92,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "",
         "Name_en": "Austria",
-        "확진자수": 8743,
+        "확진자수": 8774,
         "사망자수": 86,
         "완치자수": 479
     },
@@ -489,6 +489,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "확진자수": 475,
+        "사망자수": 10,
+        "완치자수": 6
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
@@ -511,14 +519,6 @@ var marker = [
         "확진자수": 424,
         "사망자수": 3,
         "완치자수": 30
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "확진자수": 418,
-        "사망자수": 9,
-        "완치자수": 5
     },
     {
         "Name": "헝가리",
@@ -753,6 +753,14 @@ var marker = [
         "완치자수": 27
     },
     {
+        "Name": "카메룬",
+        "Name_ch": "",
+        "Name_en": "Cameroon",
+        "확진자수": 139,
+        "사망자수": 6,
+        "완치자수": 5
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -791,6 +799,14 @@ var marker = [
         "확진자수": 117,
         "사망자수": 1,
         "완치자수": 11
+    },
+    {
+        "Name": "나이지리아",
+        "Name_ch": "",
+        "Name_en": "Nigeria",
+        "확진자수": 111,
+        "사망자수": 1,
+        "완치자수": 3
     },
     {
         "Name": "Honduras",
@@ -841,14 +857,6 @@ var marker = [
         "완치자수": 17
     },
     {
-        "Name": "나이지리아",
-        "Name_ch": "",
-        "Name_en": "Nigeria",
-        "확진자수": 97,
-        "사망자수": 1,
-        "완치자수": 3
-    },
-    {
         "Name": "벨라루스",
         "Name_ch": "",
         "Name_en": "Belarus",
@@ -863,14 +871,6 @@ var marker = [
         "확진자수": 93,
         "사망자수": 1,
         "완치자수": 0
-    },
-    {
-        "Name": "카메룬",
-        "Name_ch": "",
-        "Name_en": "Cameroon",
-        "확진자수": 91,
-        "사망자수": 2,
-        "완치자수": 2
     },
     {
         "Name": "조지아",
@@ -908,7 +908,7 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 76,
+        "확진자수": 78,
         "사망자수": 3,
         "완치자수": 1
     },
