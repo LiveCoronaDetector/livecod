@@ -1121,6 +1121,14 @@ var marker = [
         "완치자수": 9
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "확진자수": 15,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1236,14 +1244,6 @@ var marker = [
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "확진자수": 8,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
         "확진자수": 8,
         "사망자수": 0,
         "완치자수": 0
@@ -1433,6 +1433,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "부탄",
+        "Name_ch": "",
+        "Name_en": "Bhutan",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Congo",
         "Name_ch": "",
         "Name_en": "Congo",
@@ -1454,14 +1462,6 @@ var marker = [
         "Name_en": "Gambia",
         "확진자수": 3,
         "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "부탄",
-        "Name_ch": "",
-        "Name_en": "Bhutan",
-        "확진자수": 3,
-        "사망자수": 0,
         "완치자수": 0
     },
     {
