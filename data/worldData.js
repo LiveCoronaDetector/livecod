@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 123781,
-        "사망자수": 2229,
+        "확진자수": 123828,
+        "사망자수": 2231,
         "완치자수": 3238
     },
     {
@@ -53,7 +53,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "UK",
         "확진자수": 19522,
-        "사망자수": 1228,
+        "사망자수": 1235,
         "완치자수": 135
     },
     {
@@ -301,8 +301,16 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Greece",
         "확진자수": 1061,
-        "사망자수": 32,
+        "사망자수": 37,
         "완치자수": 52
+    },
+    {
+        "Name": "Iceland",
+        "Name_ch": "",
+        "Name_en": "Iceland",
+        "확진자수": 1020,
+        "사망자수": 2,
+        "완치자수": 114
     },
     {
         "Name": "인도",
@@ -311,14 +319,6 @@ var marker = [
         "확진자수": 987,
         "사망자수": 25,
         "완치자수": 87
-    },
-    {
-        "Name": "Iceland",
-        "Name_ch": "",
-        "Name_en": "Iceland",
-        "확진자수": 963,
-        "사망자수": 2,
-        "완치자수": 114
     },
     {
         "Name": "Panama",
@@ -545,6 +545,14 @@ var marker = [
         "완치자수": 11
     },
     {
+        "Name": "안도라",
+        "Name_ch": "",
+        "Name_en": "Andorra",
+        "확진자수": 334,
+        "사망자수": 6,
+        "완치자수": 1
+    },
+    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "",
         "Name_en": "Bosnia and Herzegovina",
@@ -559,14 +567,6 @@ var marker = [
         "확진자수": 314,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "안도라",
-        "Name_ch": "",
-        "Name_en": "Andorra",
-        "확진자수": 308,
-        "사망자수": 4,
-        "완치자수": 1
     },
     {
         "Name": "Uruguay",
@@ -657,6 +657,14 @@ var marker = [
         "완치자수": 33
     },
     {
+        "Name": "아제르바이잔",
+        "Name_ch": "",
+        "Name_en": "Azerbaijan",
+        "확진자수": 209,
+        "사망자수": 4,
+        "완치자수": 15
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -679,14 +687,6 @@ var marker = [
         "확진자수": 183,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "아제르바이잔",
-        "Name_ch": "",
-        "Name_en": "Azerbaijan",
-        "확진자수": 182,
-        "사망자수": 4,
-        "완치자수": 15
     },
     {
         "Name": "Cyprus",
@@ -884,7 +884,7 @@ var marker = [
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "확진자수": 84,
+        "확진자수": 85,
         "사망자수": 1,
         "완치자수": 0
     },
