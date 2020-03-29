@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 123688,
-        "사망자수": 2222,
+        "확진자수": 123750,
+        "사망자수": 2227,
         "완치자수": 3231
     },
     {
@@ -793,6 +793,14 @@ var marker = [
         "완치자수": 18
     },
     {
+        "Name": "캄보디아",
+        "Name_ch": "",
+        "Name_en": "Cambodia",
+        "확진자수": 103,
+        "사망자수": 0,
+        "완치자수": 21
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
@@ -815,14 +823,6 @@ var marker = [
         "확진자수": 101,
         "사망자수": 0,
         "완치자수": 3
-    },
-    {
-        "Name": "캄보디아",
-        "Name_ch": "",
-        "Name_en": "Cambodia",
-        "확진자수": 99,
-        "사망자수": 0,
-        "완치자수": 13
     },
     {
         "Name": "Channel Islands",
