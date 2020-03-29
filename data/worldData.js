@@ -4,7 +4,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 141125,
+        "확진자수": 141169,
         "사망자수": 2458,
         "완치자수": 4435
     },
@@ -29,7 +29,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Germany",
         "확진자수": 62095,
-        "사망자수": 525,
+        "사망자수": 533,
         "완치자수": 9211
     },
     {
@@ -116,7 +116,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 4281,
+        "확진자수": 4284,
         "사망자수": 25,
         "완치자수": 7
     },
@@ -140,8 +140,8 @@ var marker = [
         "Name": "호주",
         "Name_ch": "",
         "Name_en": "Australia",
-        "확진자수": 4148,
-        "사망자수": 16,
+        "확진자수": 4163,
+        "사망자수": 17,
         "완치자수": 226
     },
     {
@@ -324,8 +324,8 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 901,
-        "사망자수": 17,
+        "확진자수": 989,
+        "사망자수": 24,
         "완치자수": 4
     },
     {
@@ -364,9 +364,9 @@ var marker = [
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "확진자수": 745,
-        "사망자수": 19,
-        "완치자수": 72
+        "확진자수": 820,
+        "사망자수": 20,
+        "완치자수": 91
     },
     {
         "Name": "세르비아",
@@ -789,7 +789,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Venezuela",
         "확진자수": 119,
-        "사망자수": 2,
+        "사망자수": 3,
         "완치자수": 39
     },
     {
@@ -817,20 +817,20 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "팔레스타인",
+        "Name_ch": "",
+        "Name_en": "Palestine",
+        "확진자수": 109,
+        "사망자수": 1,
+        "완치자수": 18
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 108,
         "사망자수": 2,
         "완치자수": 0
-    },
-    {
-        "Name": "팔레스타인",
-        "Name_ch": "",
-        "Name_en": "Palestine",
-        "확진자수": 108,
-        "사망자수": 1,
-        "완치자수": 18
     },
     {
         "Name": "Mauritius",
@@ -985,6 +985,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "French Guiana",
+        "Name_ch": "",
+        "Name_en": "French Guiana",
+        "확진자수": 43,
+        "사망자수": 0,
+        "완치자수": 6
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
@@ -1065,14 +1073,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "French Guiana",
-        "Name_ch": "",
-        "Name_en": "French Guiana",
-        "확진자수": 28,
-        "사망자수": 0,
-        "완치자수": 6
-    },
-    {
         "Name": "토고",
         "Name_ch": "",
         "Name_en": "Togo",
@@ -1097,20 +1097,20 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 21,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Congo",
         "Name_ch": "",
         "Name_en": "Congo",
         "확진자수": 19,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 19,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Mali",
@@ -1169,6 +1169,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 14,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
@@ -1199,14 +1207,6 @@ var marker = [
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 11,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Dominica",
@@ -1438,7 +1438,7 @@ var marker = [
         "Name_en": "Mauritania",
         "확진자수": 5,
         "사망자수": 0,
-        "완치자수": 0
+        "완치자수": 2
     },
     {
         "Name": "Montserrat",
