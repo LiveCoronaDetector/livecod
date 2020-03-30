@@ -60,8 +60,8 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "",
         "Name_en": "Switzerland",
-        "확진자수": 15069,
-        "사망자수": 312,
+        "확진자수": 15475,
+        "사망자수": 327,
         "완치자수": 1823
     },
     {
@@ -76,8 +76,8 @@ var marker = [
         "Name": "네덜란드",
         "Name_ch": "",
         "Name_en": "Netherlands",
-        "확진자수": 10866,
-        "사망자수": 771,
+        "확진자수": 11750,
+        "사망자수": 864,
         "완치자수": 250
     },
     {
@@ -134,7 +134,7 @@ var marker = [
         "Name_en": "Brazil",
         "확진자수": 4316,
         "사망자수": 139,
-        "완치자수": 6
+        "완치자수": 120
     },
     {
         "Name": "호주",
@@ -148,8 +148,8 @@ var marker = [
         "Name": "스웨덴",
         "Name_ch": "",
         "Name_en": "Sweden",
-        "확진자수": 3700,
-        "사망자수": 110,
+        "확진자수": 4028,
+        "사망자수": 146,
         "완치자수": 16
     },
     {
@@ -337,6 +337,14 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "싱가포르",
+        "Name_ch": "",
+        "Name_en": "Singapore",
+        "확진자수": 879,
+        "사망자수": 3,
+        "완치자수": 228
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "",
         "Name_en": "Dominican Republic",
@@ -353,20 +361,20 @@ var marker = [
         "완치자수": 16
     },
     {
-        "Name": "싱가포르",
-        "Name_ch": "",
-        "Name_en": "Singapore",
-        "확진자수": 844,
-        "사망자수": 3,
-        "완치자수": 212
-    },
-    {
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
         "확진자수": 820,
-        "사망자수": 20,
+        "사망자수": 22,
         "완치자수": 91
+    },
+    {
+        "Name": "크로아티아",
+        "Name_ch": "",
+        "Name_en": "Croatia",
+        "확진자수": 790,
+        "사망자수": 6,
+        "완치자수": 55
     },
     {
         "Name": "슬로베니아",
@@ -381,16 +389,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Serbia",
         "확진자수": 741,
-        "사망자수": 14,
+        "사망자수": 15,
         "완치자수": 42
-    },
-    {
-        "Name": "크로아티아",
-        "Name_ch": "",
-        "Name_en": "Croatia",
-        "확진자수": 715,
-        "사망자수": 6,
-        "완치자수": 55
     },
     {
         "Name": "에스토니아",
@@ -469,8 +469,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Morocco",
         "확진자수": 516,
-        "사망자수": 27,
-        "완치자수": 13
+        "사망자수": 29,
+        "완치자수": 14
     },
     {
         "Name": "바레인",
@@ -644,9 +644,9 @@ var marker = [
         "Name": "산마리노",
         "Name_ch": "",
         "Name_en": "San Marino",
-        "확진자수": 224,
-        "사망자수": 22,
-        "완치자수": 6
+        "확진자수": 230,
+        "사망자수": 25,
+        "완치자수": 13
     },
     {
         "Name": "Albania",
@@ -961,6 +961,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Kenya",
+        "Name_ch": "",
+        "Name_en": "Kenya",
+        "확진자수": 50,
+        "사망자수": 1,
+        "완치자수": 1
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
@@ -1001,14 +1009,6 @@ var marker = [
         "완치자수": 6
     },
     {
-        "Name": "Kenya",
-        "Name_ch": "",
-        "Name_en": "Kenya",
-        "확진자수": 42,
-        "사망자수": 1,
-        "완치자수": 1
-    },
-    {
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
@@ -1041,6 +1041,14 @@ var marker = [
         "완치자수": 10
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 34,
+        "사망자수": 1,
+        "완치자수": 2
+    },
+    {
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
@@ -1055,14 +1063,6 @@ var marker = [
         "확진자수": 33,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 32,
-        "사망자수": 1,
-        "완치자수": 2
     },
     {
         "Name": "토고",
@@ -1385,17 +1385,17 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "확진자수": 6,
-        "사망자수": 1,
-        "완치자수": 0
-    },
-    {
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
+        "확진자수": 6,
+        "사망자수": 2,
+        "완치자수": 0
+    },
+    {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
         "확진자수": 6,
         "사망자수": 1,
         "완치자수": 0
