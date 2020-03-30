@@ -261,46 +261,75 @@
     loop();
   }
 
+  function setSocialDistancing(ratio) {
+    if (ratio === 0) {
+      move_balls = [...move_balls, ...stop_balls];
+      stop_balls = [];
+    } else {
+      let stop_balls_count = totalCount * ratio;
+      if (stop_balls_count > stop_balls.length) {
+        for (let i = stop_balls.length; i < stop_balls_count; i++) {
+          stop_balls.push(move_balls.pop());
+        }
+      } else {
+        for (let i = stop_balls_count; i > stop_balls.length; i--) {
+          move_balls.push(stop_balls.pop());
+        }
+      }
+    }
+  }
+
+  let distanceSettingIdx = 0;
   function loop() {
     let timeSinceStart = new Date().getTime() - startTime;
-    if (timeSinceStart < 10000) {
-      for (let i = 0; i < all_balls.length; i++) {
-        all_balls[i].draw();
+
+    let socialDistanceSettings = [
+      { ms: 0, ratio: 0.8 },
+      { ms: 10000, ratio: 0 },
+      { ms: 15000, ratio: 0.8 }
+    ];
+
+    if (
+      distanceSettingIdx !== null &&
+      socialDistanceSettings[distanceSettingIdx].ms <= timeSinceStart
+    ) {
+      setSocialDistancing(socialDistanceSettings[distanceSettingIdx].ratio);
+      if (distanceSettingIdx + 1 === socialDistanceSettings.length) {
+        distanceSettingIdx = null;
+      } else {
+        distanceSettingIdx++;
       }
-    } else if (10000 <= timeSinceStart) {
-      context.clearRect(0, 0, canvas.width, canvas.height);
-      let move_ball;
-      let stop_ball;
-      for (let i = 0; i < moveCount; i++) {
-        move_ball = move_balls[i];
-
-        if (move_ball.x > canvas.width - radius || move_ball.x < radius) {
-          move_ball.angle = 180 - move_ball.angle;
-        } else if (
-          move_ball.y > canvas.height - radius ||
-          move_ball.y < radius
-        ) {
-          move_ball.angle = 360 - move_ball.angle;
-        }
-
-        move_ball.x += Math.cos(toRadian(move_ball.angle)) * speed;
-        move_ball.y += Math.sin(toRadian(move_ball.angle)) * speed;
-        move_balls[i].draw();
-
-        move_ball.nextX =
-          move_ball.x + Math.cos(toRadian(move_ball.angle)) * speed;
-        move_ball.nextY =
-          move_ball.y + Math.sin(toRadian(move_ball.angle)) * speed;
-      }
-
-      for (let j = 0; j < stopCount; j++) {
-        stop_ball = stop_balls[j];
-        stop_balls[j].draw();
-      }
-
-      checkCollision();
-      checkCount();
     }
+
+    context.clearRect(0, 0, canvas.width, canvas.height);
+    let move_ball;
+    let stop_ball;
+    for (let i = 0; i < move_balls.length; i++) {
+      move_ball = move_balls[i];
+
+      if (move_ball.x > canvas.width - radius || move_ball.x < radius) {
+        move_ball.angle = 180 - move_ball.angle;
+      } else if (move_ball.y > canvas.height - radius || move_ball.y < radius) {
+        move_ball.angle = 360 - move_ball.angle;
+      }
+
+      move_ball.x += Math.cos(toRadian(move_ball.angle)) * speed;
+      move_ball.y += Math.sin(toRadian(move_ball.angle)) * speed;
+      move_balls[i].draw();
+
+      move_ball.nextX =
+        move_ball.x + Math.cos(toRadian(move_ball.angle)) * speed;
+      move_ball.nextY =
+        move_ball.y + Math.sin(toRadian(move_ball.angle)) * speed;
+    }
+
+    for (let j = 0; j < stop_balls.length; j++) {
+      stop_ball = stop_balls[j];
+      stop_balls[j].draw();
+    }
+
+    checkCollision();
+    checkCount();
 
     rafId = requestAnimationFrame(loop);
 
