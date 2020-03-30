@@ -6,44 +6,44 @@
     const moveCount = totalCount - stopCount; // 움직이는 사람 수
     const speed = 1; // 움직이는 속도
     const radius = 5; //반지름
-  
+
     const healthy_color = "#b3bccb";
     const sick_color = "#dd002f";
     const recovered_color = "blue";
-  
+
     let healthyCount = 0; //건강한 사람 수
     let sickCount = 0; //감염자 수
     let recoveredCount = 0; //완치자 수 (recoverTime에 따라 달라짐)
-  
+
     const healthyBar = document.querySelector(".healthy .bar");
     const sickBar = document.querySelector(".sick .bar");
     const recoveredBar = document.querySelector(".recovered .bar");
-  
+
     const healthyLabelCount = document.querySelector(".healthy .count");
     const sickLabelCount = document.querySelector(".sick .count");
     const recoveredLabelCount = document.querySelector(".recovered .count");
-  
+
     const simulationBtn_80 = document.querySelector(".simulation-btn-80-3time");
-  
+
     const canvasContainer = document.querySelector(".canvas-container");
-  
+
     const canvas = document.querySelector(".canvas");
     const context = canvas.getContext("2d");
     // 그래프 그릴 캔버스
     const canvas2 = document.querySelector(".graph-canvas");
     const context2 = canvas2.getContext("2d");
-  
+
     const circleAngle = Math.PI * 2;
-  
+
     let move_balls = []; //움직이는 공들
     let stop_balls = []; //멈춰있는 공들
     let all_balls = []; //전체 공들
-  
+
     let rafId;
     let stop;
-  
+
     let startTime;
-  
+
     class Ball {
       constructor(info) {
         this.x = info.x;
@@ -54,11 +54,11 @@
         this.color = info.color;
         this.draw();
       }
-  
+
       infected(initialDelay) {
         const self = this;
         this.color = "#dd002f";
-  
+
         if (initialDelay) {
           setTimeout(function() {
             self.recover();
@@ -69,11 +69,11 @@
           }, recoverTime * 1000);
         }
       }
-  
+
       recover() {
         this.color = "#1f71ff";
       }
-  
+
       draw() {
         context.fillStyle = this.color;
         context.beginPath();
@@ -82,15 +82,15 @@
         context.fill();
       }
     }
-  
+
     function toRadian(d) {
       return (d * Math.PI) / 180;
     }
-  
+
     function toDegree(r) {
       return (r * 180) / Math.PI;
     }
-  
+
     function hitTest(ball1, ball2) {
       let value;
       const dx = ball1.nextX - ball2.nextX;
@@ -101,11 +101,11 @@
       }
       return value;
     }
-  
+
     function checkCollision() {
       let ball;
       let testBall;
-  
+
       for (let i = 0; i < all_balls.length; i++) {
         ball = all_balls[i];
         for (let j = i + 1; j < all_balls.length; j++) {
@@ -125,13 +125,13 @@
         }
       }
     }
-  
+
     function checkCount() {
       let ball;
       let healthyCount = 0;
       let sickCount = 0;
       let recoveredCount = 0;
-  
+
       for (let i = 0; i < totalCount; i++) {
         ball = all_balls[i];
         switch (ball.color) {
@@ -146,38 +146,43 @@
             break;
         }
       }
-  
+
       healthyLabelCount.innerHTML = healthyCount;
       sickLabelCount.innerHTML = sickCount;
       recoveredLabelCount.innerHTML = recoveredCount;
-  
+
       healthyBar.style.width = `${(healthyCount / totalCount) * 100}%`;
       sickBar.style.width = `${(sickCount / totalCount) * 100}%`;
       recoveredBar.style.width = `${(recoveredCount / totalCount) * 100}%`;
-  
+
       drawGraph(recoveredCount, healthyCount, sickCount);
-  
+
       if (sickCount === 0) {
         stop = true;
       }
     }
-  
+
     //drawGraph 그래프 그리기
     let graphX = 0;
+    let countTime = 0;
     function drawGraph(recoveredCount, healthyCount, sickCount) {
-      let recoveredHeight = (recoveredCount / totalCount) * canvas2.height;
-      let healthyHeight = (healthyCount / totalCount) * canvas2.height;
-      let sickHeight = (sickCount / totalCount) * canvas2.height;
-  
-      context2.fillStyle = "#1f71ff"; //완치
-      context2.fillRect(graphX, 0, 1, recoveredHeight);
-      context2.fillStyle = "#b3bccb"; //건강
-      context2.fillRect(graphX, recoveredHeight, 1, healthyHeight);
-      context2.fillStyle = "#dd002f"; //감염
-      context2.fillRect(graphX, recoveredHeight + healthyHeight, 1, sickHeight);
-      graphX++;
+      if (countTime > 1) {
+        let recoveredHeight = (recoveredCount / totalCount) * canvas2.height;
+        let healthyHeight = (healthyCount / totalCount) * canvas2.height;
+        let sickHeight = (sickCount / totalCount) * canvas2.height;
+
+        context2.fillStyle = "#1f71ff"; //완치
+        context2.fillRect(graphX, 0, 1, recoveredHeight);
+        context2.fillStyle = "#b3bccb"; //건강
+        context2.fillRect(graphX, recoveredHeight, 1, healthyHeight);
+        context2.fillStyle = "#dd002f"; //감염
+        context2.fillRect(graphX, recoveredHeight + healthyHeight, 1, sickHeight);
+        graphX++;
+        countTime = 0;
+      }
+      countTime++;
     }
-  
+
     function stop_canLocate(ball) {
       let value = true;
       for (let i = 0; i < stop_balls.length; i++) {
@@ -187,7 +192,7 @@
       }
       return value;
     }
-  
+
     function move_canLocate(ball) {
       let value = true;
       for (let i = 0; i < move_balls.length; i++) {
@@ -197,7 +202,7 @@
       }
       return value;
     }
-  
+
     function init() {
       startTime = new Date().getTime();
       if (simul_click == false) {
@@ -206,16 +211,16 @@
         simul_click == true;
       }
       simul_click == false;
-  
+
       all_balls = [];
       stop_balls = [];
       move_balls = [];
-  
+
       stop = false;
       canvasContainer.classList.remove("stop");
       context2.clearRect(0, 0, canvas2.width, canvas2.height);
       graphX = 0;
-  
+
       let stop_ball;
       let move_ball;
       // stop_balls[] 만들기
@@ -257,10 +262,10 @@
         all_balls.push(move_ball);
       }
       all_balls[Math.floor(Math.random() * totalCount)].infected(10000);
-  
+
       loop();
     }
-  
+
     function setSocialDistancing(ratio) {
       if (ratio === 0) {
         move_balls = [...move_balls, ...stop_balls];
@@ -278,11 +283,11 @@
         }
       }
     }
-  
+
     let distanceSettingIdx = 0;
     function loop() {
       let timeSinceStart = new Date().getTime() - startTime;
-  
+
       let socialDistanceSettings = [
         { ms: 0, ratio: 0.8 },
         { ms: 10000, ratio: 0 },
@@ -290,7 +295,7 @@
         { ms: 20000, ratio: 0 },
         { ms: 25000, ratio: 0.8 }
       ];
-  
+
       if (
         distanceSettingIdx !== null &&
         socialDistanceSettings[distanceSettingIdx].ms <= timeSinceStart
@@ -302,39 +307,39 @@
           distanceSettingIdx++;
         }
       }
-  
+
       context.clearRect(0, 0, canvas.width, canvas.height);
       let move_ball;
       let stop_ball;
       for (let i = 0; i < move_balls.length; i++) {
         move_ball = move_balls[i];
-  
+
         if (move_ball.x > canvas.width - radius || move_ball.x < radius) {
           move_ball.angle = 180 - move_ball.angle;
         } else if (move_ball.y > canvas.height - radius || move_ball.y < radius) {
           move_ball.angle = 360 - move_ball.angle;
         }
-  
+
         move_ball.x += Math.cos(toRadian(move_ball.angle)) * speed;
         move_ball.y += Math.sin(toRadian(move_ball.angle)) * speed;
         move_balls[i].draw();
-  
+
         move_ball.nextX =
           move_ball.x + Math.cos(toRadian(move_ball.angle)) * speed;
         move_ball.nextY =
           move_ball.y + Math.sin(toRadian(move_ball.angle)) * speed;
       }
-  
+
       for (let j = 0; j < stop_balls.length; j++) {
         stop_ball = stop_balls[j];
         stop_balls[j].draw();
       }
-  
+
       checkCollision();
       checkCount();
-  
+
       rafId = requestAnimationFrame(loop);
-  
+
       if (stop) {
         cancelAnimationFrame(rafId);
         canvasContainer.classList.add("stop");
@@ -342,4 +347,3 @@
     }
     simulationBtn_80.addEventListener("click", init);
   })();
-  

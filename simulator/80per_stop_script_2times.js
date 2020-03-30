@@ -164,18 +164,23 @@
 
   //drawGraph 그래프 그리기
   let graphX = 0;
+  let countTime = 0;
   function drawGraph(recoveredCount, healthyCount, sickCount) {
-    let recoveredHeight = (recoveredCount / totalCount) * canvas2.height;
-    let healthyHeight = (healthyCount / totalCount) * canvas2.height;
-    let sickHeight = (sickCount / totalCount) * canvas2.height;
+    if (countTime > 1) {
+      let recoveredHeight = (recoveredCount / totalCount) * canvas2.height;
+      let healthyHeight = (healthyCount / totalCount) * canvas2.height;
+      let sickHeight = (sickCount / totalCount) * canvas2.height;
 
-    context2.fillStyle = "#1f71ff"; //완치
-    context2.fillRect(graphX, 0, 1, recoveredHeight);
-    context2.fillStyle = "#b3bccb"; //건강
-    context2.fillRect(graphX, recoveredHeight, 1, healthyHeight);
-    context2.fillStyle = "#dd002f"; //감염
-    context2.fillRect(graphX, recoveredHeight + healthyHeight, 1, sickHeight);
-    graphX++;
+      context2.fillStyle = "#1f71ff"; //완치
+      context2.fillRect(graphX, 0, 1, recoveredHeight);
+      context2.fillStyle = "#b3bccb"; //건강
+      context2.fillRect(graphX, recoveredHeight, 1, healthyHeight);
+      context2.fillStyle = "#dd002f"; //감염
+      context2.fillRect(graphX, recoveredHeight + healthyHeight, 1, sickHeight);
+      graphX++;
+      countTime = 0;
+    }
+    countTime++;
   }
 
   function stop_canLocate(ball) {
