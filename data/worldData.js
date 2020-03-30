@@ -97,6 +97,14 @@ var marker = [
         "완치자수": 636
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "",
+        "Name_en": "Portugal",
+        "확진자수": 6408,
+        "사망자수": 140,
+        "완치자수": 43
+    },
+    {
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
@@ -105,20 +113,12 @@ var marker = [
         "완치자수": 573
     },
     {
-        "Name": "포르투갈",
-        "Name_ch": "",
-        "Name_en": "Portugal",
-        "확진자수": 5962,
-        "사망자수": 119,
-        "완치자수": 43
-    },
-    {
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 4370,
-        "사망자수": 29,
-        "완치자수": 7
+        "확진자수": 4393,
+        "사망자수": 31,
+        "완치자수": 12
     },
     {
         "Name": "이스라엘",
@@ -197,7 +197,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Romania",
         "확진자수": 1952,
-        "사망자수": 44,
+        "사망자수": 46,
         "완치자수": 206
     },
     {
@@ -245,7 +245,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Pakistan",
         "확진자수": 1625,
-        "사망자수": 18,
+        "사망자수": 20,
         "완치자수": 29
     },
     {
@@ -276,8 +276,8 @@ var marker = [
         "Name": "핀란드",
         "Name_ch": "",
         "Name_en": "Finland",
-        "확진자수": 1343,
-        "사망자수": 11,
+        "확진자수": 1352,
+        "사망자수": 13,
         "완치자수": 10
     },
     {
@@ -684,7 +684,7 @@ var marker = [
         "Name": "베트남",
         "Name_ch": "",
         "Name_en": "Vietnam",
-        "확진자수": 194,
+        "확진자수": 203,
         "사망자수": 0,
         "완치자수": 52
     },
@@ -1129,6 +1129,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Tanzania",
+        "Name_ch": "",
+        "Name_en": "Tanzania",
+        "확진자수": 19,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -1172,14 +1180,6 @@ var marker = [
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "확진자수": 14,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
-        "Name": "Tanzania",
-        "Name_ch": "",
-        "Name_en": "Tanzania",
         "확진자수": 14,
         "사망자수": 0,
         "완치자수": 1
@@ -1377,6 +1377,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Saint Kitts and Nevis",
+        "Name_ch": "",
+        "Name_en": "Saint Kitts and Nevis",
+        "확진자수": 7,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -1556,14 +1564,6 @@ var marker = [
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Saint Kitts and Nevis",
-        "Name_ch": "",
-        "Name_en": "Saint Kitts and Nevis",
         "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
