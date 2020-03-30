@@ -4,7 +4,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 142004,
+        "확진자수": 142070,
         "사망자수": 2484,
         "완치자수": 4559
     },
@@ -117,7 +117,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Norway",
         "확진자수": 4284,
-        "사망자수": 25,
+        "사망자수": 26,
         "완치자수": 7
     },
     {
@@ -462,7 +462,7 @@ var marker = [
         "Name_en": "New Zealand",
         "확진자수": 514,
         "사망자수": 1,
-        "완치자수": 56
+        "완치자수": 63
     },
     {
         "Name": "알제리",
@@ -937,20 +937,20 @@ var marker = [
         "완치자수": 14
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 64,
+        "사망자수": 3,
+        "완치자수": 1
+    },
+    {
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
         "확진자수": 63,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 59,
-        "사망자수": 3,
-        "완치자수": 1
     },
     {
         "Name": "리히텐슈타인",
@@ -1057,6 +1057,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "토고",
+        "Name_ch": "",
+        "Name_en": "Togo",
+        "확진자수": 30,
+        "사망자수": 1,
+        "완치자수": 1
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
@@ -1071,14 +1079,6 @@ var marker = [
         "확진자수": 29,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "토고",
-        "Name_ch": "",
-        "Name_en": "Togo",
-        "확진자수": 25,
-        "사망자수": 1,
-        "완치자수": 1
     },
     {
         "Name": "El Salvador",
@@ -1596,8 +1596,8 @@ var marker = [
         "Name": "중국",
         "Name_ch": "",
         "Name_en": "China",
-        "확진자수": 81439,
-        "사망자수": 3300,
-        "완치자수": 75448
+        "확진자수": 81470,
+        "사망자수": 3304,
+        "완치자수": 75700
     }
 ];
