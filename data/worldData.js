@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 142178,
-        "사망자수": 2484,
+        "확진자수": 142637,
+        "사망자수": 2485,
         "완치자수": 4559
     },
     {
@@ -249,20 +249,20 @@ var marker = [
         "완치자수": 64
     },
     {
+        "Name": "태국",
+        "Name_ch": "",
+        "Name_en": "Thailand",
+        "확진자수": 1524,
+        "사망자수": 7,
+        "완치자수": 229
+    },
+    {
         "Name": "필리핀",
         "Name_ch": "",
         "Name_en": "Philippines",
         "확진자수": 1418,
         "사망자수": 71,
         "완치자수": 42
-    },
-    {
-        "Name": "태국",
-        "Name_ch": "",
-        "Name_en": "Thailand",
-        "확진자수": 1388,
-        "사망자수": 7,
-        "완치자수": 229
     },
     {
         "Name": "사우디아라비아",
@@ -817,6 +817,14 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "Mauritius",
+        "Name_ch": "",
+        "Name_en": "Mauritius",
+        "확진자수": 110,
+        "사망자수": 3,
+        "완치자수": 0
+    },
+    {
         "Name": "팔레스타인",
         "Name_ch": "",
         "Name_en": "Palestine",
@@ -830,14 +838,6 @@ var marker = [
         "Name_en": "Channel Islands",
         "확진자수": 108,
         "사망자수": 2,
-        "완치자수": 0
-    },
-    {
-        "Name": "Mauritius",
-        "Name_ch": "",
-        "Name_en": "Mauritius",
-        "확진자수": 107,
-        "사망자수": 3,
         "완치자수": 0
     },
     {
@@ -855,6 +855,14 @@ var marker = [
         "확진자수": 103,
         "사망자수": 0,
         "완치자수": 21
+    },
+    {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 96,
+        "사망자수": 1,
+        "완치자수": 0
     },
     {
         "Name": "벨라루스",
@@ -903,14 +911,6 @@ var marker = [
         "확진자수": 81,
         "사망자수": 8,
         "완치자수": 2
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 81,
-        "사망자수": 1,
-        "완치자수": 0
     },
     {
         "Name": "Trinidad and Tobago",
