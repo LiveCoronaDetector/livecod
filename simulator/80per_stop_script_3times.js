@@ -23,7 +23,7 @@
   const sickLabelCount = document.querySelector(".sick .count");
   const recoveredLabelCount = document.querySelector(".recovered .count");
 
-  const simulationBtn_80 = document.querySelector(".simulation-btn-80-2time");
+  const simulationBtn_80 = document.querySelector(".simulation-btn-80-3time");
 
   const canvasContainer = document.querySelector(".canvas-container");
 
@@ -264,10 +264,11 @@
   function loop() {
     let timeSinceStart = new Date().getTime() - startTime;
     if (timeSinceStart < 10000) {
+      // initial social distancing; pause for 10s
       for (let i = 0; i < all_balls.length; i++) {
         all_balls[i].draw();
       }
-    } else if (10000 <= timeSinceStart) {
+    } else if (10000 <= timeSinceStart && timeSinceStart < 15000) {
       context.clearRect(0, 0, canvas.width, canvas.height);
       let move_ball;
       let stop_ball;
@@ -300,6 +301,10 @@
 
       checkCollision();
       checkCount();
+    } else if (timeSinceStart <= 15000) {
+      for (let i = 0; i < all_balls.length; i++) {
+        all_balls[i].draw();
+      }
     }
 
     rafId = requestAnimationFrame(loop);
