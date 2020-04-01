@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 188592,
-        "사망자수": 4056,
+        "확진자수": 188639,
+        "사망자수": 4059,
         "완치자수": 7251
     },
     {
@@ -140,7 +140,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "",
         "Name_en": "Norway",
-        "확진자수": 4695,
+        "확진자수": 4699,
         "사망자수": 40,
         "완치자수": 13
     },
@@ -580,9 +580,9 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 369,
+        "확진자수": 372,
         "사망자수": 3,
-        "완치자수": 24
+        "완치자수": 26
     },
     {
         "Name": "아제르바이잔",
@@ -737,6 +737,14 @@ var marker = [
         "완치자수": 45
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "확진자수": 188,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -775,14 +783,6 @@ var marker = [
         "확진자수": 172,
         "사망자수": 10,
         "완치자수": 3
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "확진자수": 169,
-        "사망자수": 0,
-        "완치자수": 2
     },
     {
         "Name": "벨라루스",
@@ -1169,12 +1169,12 @@ var marker = [
         "완치자수": 13
     },
     {
-        "Name": "Saint Martin",
+        "Name": "Sint Maarten",
         "Name_ch": "",
-        "Name_en": "Saint Martin",
+        "Name_en": "Sint Maarten",
         "확진자수": 16,
         "사망자수": 1,
-        "완치자수": 2
+        "완치자수": 6
     },
     {
         "Name": "Haiti",
@@ -1199,6 +1199,14 @@ var marker = [
         "확진자수": 15,
         "사망자수": 1,
         "완치자수": 0
+    },
+    {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "확진자수": 15,
+        "사망자수": 1,
+        "완치자수": 2
     },
     {
         "Name": "Bahamas",
@@ -1455,14 +1463,6 @@ var marker = [
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Nicaragua",
