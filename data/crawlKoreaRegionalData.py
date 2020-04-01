@@ -14,23 +14,24 @@ soup = BeautifulSoup(html, 'html.parser')
 updated = soup.select('.timetable > .info > span')[0].text     # 업데이트날짜
 
 # datas = soup.select('#maplayout > button')
-datas = soup.select('.maplist > div')
+datas = soup.select('.rpsa_detail > div > div')
 # print(datas)
 # print(datas[0])
 # datas = datas[1:]
 
 confirmed_region = []   # 시도별확진자
+count = 0
 
 for d in datas:
     region = d.find_all('h4', class_='cityname')[0].text      # 지역이름
-    confirmed = int(d.find_all('span', class_='num')[0].text[:-1].replace(',', ''))    # 확진자수
-    recovered = int(d.find_all('span', class_='num')[2].text[:-1].replace(',', ''))   # 격리해제수
-    deaths = int(d.find_all('span', class_='num')[1].text[:-1].replace(',', ''))  # 사망자수
-    confirmed_rate = float(d.find_all('span', class_='num')[3].text[:-1].replace('-', '0'))   # 십만명당발생율
-    confirmed_region_rate = d.find_all('p', class_='citytit')    # 지역별확진자비율
-
-    for i in confirmed_region_rate:
-        confirmed_region_rate = i.text[:4].replace('%', '')
+    confirmed = int(d.find_all('span', class_='num')[0].text.replace(',', ''))    # 확진자수
+    recovered = int(d.find_all('span', class_='num')[2].text.replace(',', ''))   # 격리해제수
+    deaths = int(d.find_all('span', class_='num')[1].text.replace(',', ''))  # 사망자수
+    confirmed_rate = float(d.find_all('span', class_='num')[3].text.replace('-', '0'))   # 십만명당발생율
+    confirmed_region_rate = ''
+    if count != 0:
+        슬라이싱 = d.find_all('p', class_='citytit')[0].text
+        confirmed_region_rate = float(슬라이싱[:슬라이싱.find('%')])    # 지역별확진자비율
 
     confirmed_region.append({
         '지역이름' : region,
@@ -40,6 +41,8 @@ for d in datas:
         '십만명당발생율' : confirmed_rate,
         '지역별확진자비율' : confirmed_region_rate,
     })
+    print(count)
+    count += 1
 
 # 삭제된 데이터 확인
 # print(f'삭제된 데이터 : {시도별확진자[0]}')
