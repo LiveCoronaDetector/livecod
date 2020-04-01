@@ -17,9 +17,9 @@ def get_data(datas):
         confirmed = d.find_all('td')[1].text
         deaths = d.find_all('td')[3].text
         recovered = d.find_all('td')[5].text
-        
+
         # test code : print("strip data : \t",country\t, confirmed\t, deaths\t, recovered)
-        
+
         country_kr = ''
         country_cn = ''
 
@@ -60,15 +60,15 @@ def get_data(datas):
 # 받아온 세계 현황 js로 내보내는 함수
 def write_data(world_confirmed):
     # cur_path = os.getcwd()       # test code for Windows
-    
+
     with open("./data/worldData.js", "w", encoding='UTF-8-sig') as json_file:
     # with open(cur_path+"\worldData.js", "w", encoding='UTF-8-sig') as json_file:      # test code for Windows
         json.dump(world_confirmed, json_file, ensure_ascii=False, indent=4)
-        # file.write(json.dumps(dict, ensure_ascii=False))  
+        # file.write(json.dumps(dict, ensure_ascii=False))
 
     data = ''
-    
-    with open("./data/worldData.js", "r", encoding='UTF-8-sig') as f:    
+
+    with open("./data/worldData.js", "r", encoding='UTF-8-sig') as f:
     # with open(cur_path+"\worldData.js", "r", encoding='UTF-8-sig') as f:      # test code for Windows
         while True:
             line = f.readline()
