@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 211143,
-        "사망자수": 4713,
+        "확진자수": 211408,
+        "사망자수": 4718,
         "완치자수": 8805
     },
     {
@@ -28,8 +28,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 77779,
-        "사망자수": 909,
+        "확진자수": 77872,
+        "사망자수": 920,
         "완치자수": 18700
     },
     {
@@ -92,7 +92,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "",
         "Name_en": "Austria",
-        "확진자수": 10668,
+        "확진자수": 10711,
         "사망자수": 146,
         "완치자수": 1436
     },
@@ -125,8 +125,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Israel",
         "확진자수": 6092,
-        "사망자수": 25,
-        "완치자수": 226
+        "사망자수": 26,
+        "완치자수": 241
     },
     {
         "Name": "스웨덴",
@@ -134,7 +134,7 @@ var marker = [
         "Name_en": "Sweden",
         "확진자수": 4947,
         "사망자수": 239,
-        "완치자수": 16
+        "완치자수": 103
     },
     {
         "Name": "호주",
@@ -681,6 +681,14 @@ var marker = [
         "완치자수": 67
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "",
+        "Name_en": "Afghanistan",
+        "확진자수": 237,
+        "사망자수": 4,
+        "완치자수": 5
+    },
+    {
         "Name": "산마리노",
         "Name_ch": "",
         "Name_en": "San Marino",
@@ -721,20 +729,20 @@ var marker = [
         "완치자수": 34
     },
     {
-        "Name": "아프가니스탄",
-        "Name_ch": "",
-        "Name_en": "Afghanistan",
-        "확진자수": 196,
-        "사망자수": 4,
-        "완치자수": 5
-    },
-    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
         "확진자수": 195,
         "사망자수": 5,
         "완치자수": 31
+    },
+    {
+        "Name": "Ivory Coast",
+        "Name_ch": "",
+        "Name_en": "Ivory Coast",
+        "확진자수": 190,
+        "사망자수": 1,
+        "완치자수": 9
     },
     {
         "Name": "세네갈",
@@ -759,14 +767,6 @@ var marker = [
         "확진자수": 181,
         "사망자수": 2,
         "완치자수": 12
-    },
-    {
-        "Name": "Ivory Coast",
-        "Name_ch": "",
-        "Name_en": "Ivory Coast",
-        "확진자수": 179,
-        "사망자수": 1,
-        "완치자수": 7
     },
     {
         "Name": "나이지리아",
@@ -953,6 +953,14 @@ var marker = [
         "완치자수": 34
     },
     {
+        "Name": "Niger",
+        "Name_ch": "",
+        "Name_en": "Niger",
+        "확진자수": 74,
+        "사망자수": 5,
+        "완치자수": 0
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
@@ -1073,14 +1081,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Niger",
-        "Name_ch": "",
-        "Name_en": "Niger",
-        "확진자수": 34,
-        "사망자수": 3,
-        "완치자수": 0
-    },
-    {
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
@@ -1135,6 +1135,14 @@ var marker = [
         "확진자수": 29,
         "사망자수": 0,
         "완치자수": 2
+    },
+    {
+        "Name": "Cayman Islands",
+        "Name_ch": "",
+        "Name_en": "Cayman Islands",
+        "확진자수": 22,
+        "사망자수": 1,
+        "완치자수": 0
     },
     {
         "Name": "Bahamas",
@@ -1230,14 +1238,6 @@ var marker = [
         "Name_en": "Eritrea",
         "확진자수": 15,
         "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Cayman Islands",
-        "Name_ch": "",
-        "Name_en": "Cayman Islands",
-        "확진자수": 14,
-        "사망자수": 1,
         "완치자수": 0
     },
     {
@@ -1350,6 +1350,14 @@ var marker = [
         "Name_en": "Suriname",
         "확진자수": 10,
         "사망자수": 0,
+        "완치자수": 0
+    },
+    {
+        "Name": "MS Zaandam",
+        "Name_ch": "",
+        "Name_en": "MS Zaandam",
+        "확진자수": 9,
+        "사망자수": 2,
         "완치자수": 0
     },
     {
@@ -1557,14 +1565,6 @@ var marker = [
         "Name_ch": "",
         "Name_en": "CAR",
         "확진자수": 3,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "MS Zaandam",
-        "Name_ch": "",
-        "Name_en": "MS Zaandam",
-        "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
     },
