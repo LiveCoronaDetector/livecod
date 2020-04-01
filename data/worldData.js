@@ -5,7 +5,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "United States",
         "확진자수": 188578,
-        "사망자수": 3890,
+        "사망자수": 4054,
         "완치자수": 7251
     },
     {
@@ -252,7 +252,7 @@ var marker = [
         "Name": "파키스탄",
         "Name_ch": "",
         "Name_en": "Pakistan",
-        "확진자수": 1938,
+        "확진자수": 2031,
         "사망자수": 26,
         "완치자수": 76
     },
@@ -294,7 +294,7 @@ var marker = [
         "Name_en": "India",
         "확진자수": 1397,
         "사망자수": 35,
-        "완치자수": 123
+        "완치자수": 124
     },
     {
         "Name": "남아프리카 공화국",
@@ -697,6 +697,14 @@ var marker = [
         "완치자수": 58
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "",
+        "Name_en": "Afghanistan",
+        "확진자수": 196,
+        "사망자수": 4,
+        "완치자수": 5
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "",
         "Name_en": "Cameroon",
@@ -735,14 +743,6 @@ var marker = [
         "확진자수": 175,
         "사망자수": 0,
         "완치자수": 40
-    },
-    {
-        "Name": "아프가니스탄",
-        "Name_ch": "",
-        "Name_en": "Afghanistan",
-        "확진자수": 174,
-        "사망자수": 4,
-        "완치자수": 5
     },
     {
         "Name": "Honduras",
@@ -1169,6 +1169,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "확진자수": 16,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1215,14 +1223,6 @@ var marker = [
         "확진자수": 15,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "확진자수": 15,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Cayman Islands",
