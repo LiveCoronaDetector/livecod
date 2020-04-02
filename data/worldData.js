@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 240529,
-        "사망자수": 5810,
-        "완치자수": 10365
+        "확진자수": 241658,
+        "사망자수": 5827,
+        "완치자수": 10400
     },
     {
         "Name": "이탈리아",
@@ -28,7 +28,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 84788,
+        "확진자수": 84794,
         "사망자수": 1107,
         "완치자수": 22440
     },
@@ -92,9 +92,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
-        "확진자수": 11131,
-        "사망자수": 161,
-        "완치자수": 1906
+        "확진자수": 11283,
+        "사망자수": 173,
+        "완치자수": 1979
     },
     {
         "Name": "오스트리아",
@@ -140,8 +140,8 @@ var marker = [
         "Name": "호주",
         "Name_ch": "",
         "Name_en": "Australia",
-        "확진자수": 5230,
-        "사망자수": 27,
+        "확진자수": 5279,
+        "사망자수": 28,
         "완치자수": 585
     },
     {
@@ -1393,6 +1393,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Saint Kitts and Nevis",
+        "Name_ch": "",
+        "Name_en": "Saint Kitts and Nevis",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
@@ -1420,14 +1428,6 @@ var marker = [
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "확진자수": 8,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Saint Kitts and Nevis",
-        "Name_ch": "",
-        "Name_en": "Saint Kitts and Nevis",
         "확진자수": 8,
         "사망자수": 0,
         "완치자수": 0
