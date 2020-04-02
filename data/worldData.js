@@ -537,6 +537,14 @@ var marker = [
         "완치자수": 19
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 449,
+        "사망자수": 10,
+        "완치자수": 25
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "",
         "Name_en": "Latvia",
@@ -559,14 +567,6 @@ var marker = [
         "확진자수": 423,
         "사망자수": 5,
         "완치자수": 23
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 422,
-        "사망자수": 10,
-        "완치자수": 20
     },
     {
         "Name": "Kazakhstan",
@@ -772,7 +772,7 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 181,
+        "확진자수": 187,
         "사망자수": 2,
         "완치자수": 12
     },
