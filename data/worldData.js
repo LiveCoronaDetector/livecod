@@ -252,8 +252,8 @@ var marker = [
         "Name": "파키스탄",
         "Name_ch": "",
         "Name_en": "Pakistan",
-        "확진자수": 2118,
-        "사망자수": 27,
+        "확진자수": 2238,
+        "사망자수": 31,
         "완치자수": 94
     },
     {
@@ -881,20 +881,20 @@ var marker = [
         "완치자수": 23
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 116,
+        "사망자수": 0,
+        "완치자수": 5
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
         "확진자수": 115,
         "사망자수": 7,
         "완치자수": 1
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 111,
-        "사망자수": 0,
-        "완치자수": 3
     },
     {
         "Name": "캄보디아",
