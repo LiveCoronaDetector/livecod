@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 270062,
-        "사망자수": 6927,
+        "확진자수": 271152,
+        "사망자수": 6946,
         "완치자수": 12015
     },
     {
@@ -28,8 +28,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 90964,
-        "사망자수": 1234,
+        "확진자수": 91159,
+        "사망자수": 1275,
         "완치자수": 24575
     },
     {
@@ -116,8 +116,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "",
         "Name_en": "Brazil",
-        "확진자수": 8261,
-        "사망자수": 344,
+        "확진자수": 9056,
+        "사망자수": 359,
         "완치자수": 127
     },
     {
@@ -342,7 +342,7 @@ var marker = [
         "Name_en": "Serbia",
         "확진자수": 1476,
         "사망자수": 39,
-        "완치자수": 42
+        "완치자수": 54
     },
     {
         "Name": "Panama",
@@ -761,6 +761,14 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "Ivory Coast",
+        "Name_ch": "",
+        "Name_en": "Ivory Coast",
+        "확진자수": 218,
+        "사망자수": 1,
+        "완치자수": 19
+    },
+    {
         "Name": "세네갈",
         "Name_ch": "",
         "Name_en": "Senegal",
@@ -783,14 +791,6 @@ var marker = [
         "확진자수": 202,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Ivory Coast",
-        "Name_ch": "",
-        "Name_en": "Ivory Coast",
-        "확진자수": 194,
-        "사망자수": 1,
-        "완치자수": 15
     },
     {
         "Name": "팔레스타인",
@@ -937,20 +937,20 @@ var marker = [
         "완치자수": 35
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 98,
+        "사망자수": 6,
+        "완치자수": 1
+    },
+    {
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
         "확진자수": 98,
         "사망자수": 5,
         "완치자수": 0
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 97,
-        "사망자수": 6,
-        "완치자수": 1
     },
     {
         "Name": "지브롤터",
