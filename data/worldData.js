@@ -100,7 +100,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "",
         "Name_en": "Austria",
-        "확진자수": 11171,
+        "확진자수": 11199,
         "사망자수": 158,
         "완치자수": 1749
     },
@@ -140,7 +140,7 @@ var marker = [
         "Name": "호주",
         "Name_ch": "",
         "Name_en": "Australia",
-        "확진자수": 5314,
+        "확진자수": 5350,
         "사망자수": 28,
         "완치자수": 585
     },
@@ -420,8 +420,8 @@ var marker = [
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "확진자수": 897,
-        "사망자수": 22,
+        "확진자수": 942,
+        "사망자수": 23,
         "완치자수": 19
     },
     {
@@ -473,6 +473,22 @@ var marker = [
         "완치자수": 202
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "",
+        "Name_en": "Armenia",
+        "확진자수": 736,
+        "사망자수": 7,
+        "완치자수": 43
+    },
+    {
+        "Name": "모로코",
+        "Name_ch": "",
+        "Name_en": "Morocco",
+        "확진자수": 735,
+        "사망자수": 47,
+        "완치자수": 34
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "",
         "Name_en": "Diamond Princess",
@@ -481,28 +497,12 @@ var marker = [
         "완치자수": 619
     },
     {
-        "Name": "모로코",
-        "Name_ch": "",
-        "Name_en": "Morocco",
-        "확진자수": 708,
-        "사망자수": 44,
-        "완치자수": 31
-    },
-    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
         "확진자수": 696,
         "사망자수": 9,
         "완치자수": 7
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "",
-        "Name_en": "Armenia",
-        "확진자수": 663,
-        "사망자수": 7,
-        "완치자수": 33
     },
     {
         "Name": "바레인",
@@ -825,6 +825,14 @@ var marker = [
         "완치자수": 18
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "확진자수": 160,
+        "사망자수": 2,
+        "완치자수": 0
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "",
         "Name_en": "Sri Lanka",
@@ -847,14 +855,6 @@ var marker = [
         "확진자수": 146,
         "사망자수": 5,
         "완치자수": 43
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "확진자수": 144,
-        "사망자수": 2,
-        "완치자수": 0
     },
     {
         "Name": "Martinique",
