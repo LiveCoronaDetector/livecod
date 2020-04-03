@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 274987,
-        "사망자수": 7063,
-        "완치자수": 12044
+        "확진자수": 275048,
+        "사망자수": 7067,
+        "완치자수": 12097
     },
     {
         "Name": "이탈리아",
@@ -852,9 +852,9 @@ var marker = [
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 146,
-        "사망자수": 5,
-        "완치자수": 43
+        "확진자수": 153,
+        "사망자수": 7,
+        "완치자수": 52
     },
     {
         "Name": "Martinique",
@@ -1265,6 +1265,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Antigua and Barbuda",
+        "Name_ch": "",
+        "Name_en": "Antigua and Barbuda",
+        "확진자수": 15,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
@@ -1393,14 +1401,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Antigua and Barbuda",
-        "Name_ch": "",
-        "Name_en": "Antigua and Barbuda",
-        "확진자수": 9,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Saint Kitts and Nevis",
         "Name_ch": "",
         "Name_en": "Saint Kitts and Nevis",
@@ -1497,6 +1497,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Montserrat",
+        "Name_ch": "",
+        "Name_en": "Montserrat",
+        "확진자수": 6,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
@@ -1519,14 +1527,6 @@ var marker = [
         "확진자수": 5,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Montserrat",
-        "Name_ch": "",
-        "Name_en": "Montserrat",
-        "확진자수": 5,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Turks and Caicos",
