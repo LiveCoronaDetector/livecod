@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 245193,
-        "사망자수": 6088,
+        "확진자수": 245373,
+        "사망자수": 6095,
         "완치자수": 10403
     },
     {
@@ -141,7 +141,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Australia",
         "확진자수": 5314,
-        "사망자수": 27,
+        "사망자수": 28,
         "완치자수": 585
     },
     {
@@ -244,9 +244,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "",
         "Name_en": "India",
-        "확진자수": 2543,
+        "확진자수": 2567,
         "사망자수": 72,
-        "완치자수": 191
+        "완치자수": 192
     },
     {
         "Name": "룩셈부르크",
@@ -265,20 +265,20 @@ var marker = [
         "완치자수": 125
     },
     {
+        "Name": "태국",
+        "Name_ch": "",
+        "Name_en": "Thailand",
+        "확진자수": 1978,
+        "사망자수": 19,
+        "완치자수": 581
+    },
+    {
         "Name": "사우디아라비아",
         "Name_ch": "",
         "Name_en": "Saudi Arabia",
         "확진자수": 1885,
         "사망자수": 21,
         "완치자수": 328
-    },
-    {
-        "Name": "태국",
-        "Name_ch": "",
-        "Name_en": "Thailand",
-        "확진자수": 1875,
-        "사망자수": 15,
-        "완치자수": 505
     },
     {
         "Name": "인도네시아",
@@ -326,7 +326,7 @@ var marker = [
         "Name_en": "South Africa",
         "확진자수": 1462,
         "사망자수": 5,
-        "완치자수": 50
+        "완치자수": 95
     },
     {
         "Name": "페루",
@@ -489,20 +489,20 @@ var marker = [
         "완치자수": 31
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 696,
+        "사망자수": 9,
+        "완치자수": 7
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "",
         "Name_en": "Armenia",
         "확진자수": 663,
         "사망자수": 7,
         "완치자수": 33
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 649,
-        "사망자수": 9,
-        "완치자수": 7
     },
     {
         "Name": "바레인",
@@ -516,9 +516,9 @@ var marker = [
         "Name": "헝가리",
         "Name_ch": "",
         "Name_en": "Hungary",
-        "확진자수": 585,
-        "사망자수": 21,
-        "완치자수": 42
+        "확진자수": 623,
+        "사망자수": 26,
+        "완치자수": 43
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -545,20 +545,20 @@ var marker = [
         "완치자수": 46
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 477,
+        "사망자수": 11,
+        "완치자수": 25
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "",
         "Name_en": "Latvia",
         "확진자수": 458,
         "사망자수": 0,
         "완치자수": 31
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 457,
-        "사망자수": 10,
-        "완치자수": 25
     },
     {
         "Name": "Tunisia",
@@ -726,7 +726,7 @@ var marker = [
         "Name_en": "Vietnam",
         "확진자수": 233,
         "사망자수": 0,
-        "완치자수": 75
+        "완치자수": 85
     },
     {
         "Name": "오만",
@@ -748,7 +748,7 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 205,
+        "확진자수": 221,
         "사망자수": 2,
         "완치자수": 25
     },
@@ -889,20 +889,20 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 130,
+        "사망자수": 1,
+        "완치자수": 5
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
         "확진자수": 128,
         "사망자수": 6,
         "완치자수": 24
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 125,
-        "사망자수": 1,
-        "완치자수": 5
     },
     {
         "Name": "Mayotte",
