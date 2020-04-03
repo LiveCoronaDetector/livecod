@@ -5,7 +5,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "United States",
         "확진자수": 245442,
-        "사망자수": 6098,
+        "사망자수": 6099,
         "완치자수": 10411
     },
     {
@@ -92,7 +92,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "",
         "Name_en": "Austria",
-        "확진자수": 11383,
+        "확진자수": 11412,
         "사망자수": 168,
         "완치자수": 2022
     },
@@ -116,8 +116,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "",
         "Name_en": "Brazil",
-        "확진자수": 8076,
-        "사망자수": 329,
+        "확진자수": 8165,
+        "사망자수": 332,
         "완치자수": 127
     },
     {
@@ -177,20 +177,20 @@ var marker = [
         "완치자수": 5
     },
     {
+        "Name": "칠레",
+        "Name_ch": "",
+        "Name_en": "Chile",
+        "확진자수": 3737,
+        "사망자수": 22,
+        "완치자수": 427
+    },
+    {
         "Name": "덴마크",
         "Name_ch": "",
         "Name_en": "Denmark",
         "확진자수": 3672,
         "사망자수": 139,
         "완치자수": 1193
-    },
-    {
-        "Name": "칠레",
-        "Name_ch": "",
-        "Name_en": "Chile",
-        "확진자수": 3404,
-        "사망자수": 18,
-        "완치자수": 335
     },
     {
         "Name": "말레이시아",
@@ -205,7 +205,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Romania",
         "확진자수": 3183,
-        "사망자수": 118,
+        "사망자수": 122,
         "완치자수": 283
     },
     {
@@ -313,6 +313,14 @@ var marker = [
         "완치자수": 633
     },
     {
+        "Name": "도미니카 공화국",
+        "Name_ch": "",
+        "Name_en": "Dominican Republic",
+        "확진자수": 1488,
+        "사망자수": 68,
+        "완치자수": 16
+    },
+    {
         "Name": "세르비아",
         "Name_ch": "",
         "Name_en": "Serbia",
@@ -343,14 +351,6 @@ var marker = [
         "확진자수": 1414,
         "사망자수": 55,
         "완치자수": 537
-    },
-    {
-        "Name": "도미니카 공화국",
-        "Name_ch": "",
-        "Name_en": "Dominican Republic",
-        "확진자수": 1380,
-        "사망자수": 60,
-        "완치자수": 16
     },
     {
         "Name": "Iceland",
@@ -556,8 +556,8 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 477,
-        "사망자수": 12,
+        "확진자수": 485,
+        "사망자수": 14,
         "완치자수": 30
     },
     {
@@ -737,6 +737,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "확진자수": 232,
+        "사망자수": 4,
+        "완치자수": 13
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
@@ -751,14 +759,6 @@ var marker = [
         "확진자수": 221,
         "사망자수": 2,
         "완치자수": 25
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "확진자수": 210,
-        "사망자수": 4,
-        "완치자수": 13
     },
     {
         "Name": "세네갈",
@@ -801,6 +801,14 @@ var marker = [
         "완치자수": 20
     },
     {
+        "Name": "Mauritius",
+        "Name_ch": "",
+        "Name_en": "Mauritius",
+        "확진자수": 186,
+        "사망자수": 7,
+        "완치자수": 0
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
@@ -815,14 +823,6 @@ var marker = [
         "확진자수": 171,
         "사망자수": 1,
         "완치자수": 18
-    },
-    {
-        "Name": "Mauritius",
-        "Name_ch": "",
-        "Name_en": "Mauritius",
-        "확진자수": 169,
-        "사망자수": 7,
-        "완치자수": 0
     },
     {
         "Name": "Montenegro",
@@ -1457,6 +1457,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Liberia",
+        "Name_ch": "",
+        "Name_en": "Liberia",
+        "확진자수": 7,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -1479,14 +1487,6 @@ var marker = [
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Liberia",
-        "Name_ch": "",
-        "Name_en": "Liberia",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "St. Barth",
