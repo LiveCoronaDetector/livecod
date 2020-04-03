@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 245442,
-        "사망자수": 6099,
+        "확진자수": 246919,
+        "사망자수": 6152,
         "완치자수": 10411
     },
     {
@@ -28,8 +28,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 87244,
-        "사망자수": 1138,
+        "확진자수": 88808,
+        "사망자수": 1193,
         "완치자수": 24575
     },
     {
@@ -524,7 +524,7 @@ var marker = [
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "",
         "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 568,
+        "확진자수": 574,
         "사망자수": 17,
         "완치자수": 27
     },
@@ -985,6 +985,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Madagascar",
+        "Name_ch": "",
+        "Name_en": "Madagascar",
+        "확진자수": 65,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
@@ -1007,14 +1015,6 @@ var marker = [
         "확진자수": 60,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Madagascar",
-        "Name_ch": "",
-        "Name_en": "Madagascar",
-        "확진자수": 59,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Guinea",
@@ -1553,17 +1553,17 @@ var marker = [
         "완치자수": 2
     },
     {
-        "Name": "Anguilla",
+        "Name": "Belize",
         "Name_ch": "",
-        "Name_en": "Anguilla",
-        "확진자수": 3,
+        "Name_en": "Belize",
+        "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
     },
     {
-        "Name": "Belize",
+        "Name": "Anguilla",
         "Name_ch": "",
-        "Name_en": "Belize",
+        "Name_en": "Anguilla",
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 0
