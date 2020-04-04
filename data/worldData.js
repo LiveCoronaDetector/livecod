@@ -4,16 +4,16 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1192962,
-        "사망자수": 64236,
+        "확진자수": 1193654,
+        "사망자수": 64278,
         "완치자수": 246110
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 306145,
-        "사망자수": 8310,
+        "확진자수": 306768,
+        "사망자수": 8347,
         "완치자수": 14686
     },
     {
@@ -545,6 +545,14 @@ var marker = [
         "완치자수": 30
     },
     {
+        "Name": "카메룬",
+        "Name_ch": "",
+        "Name_en": "Cameroon",
+        "확진자수": 555,
+        "사망자수": 9,
+        "완치자수": 17
+    },
+    {
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
@@ -575,14 +583,6 @@ var marker = [
         "확진자수": 520,
         "사망자수": 17,
         "완치자수": 54
-    },
-    {
-        "Name": "카메룬",
-        "Name_ch": "",
-        "Name_en": "Cameroon",
-        "확진자수": 509,
-        "사망자수": 8,
-        "완치자수": 17
     },
     {
         "Name": "라트비아",
@@ -685,7 +685,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Albania",
         "확진자수": 333,
-        "사망자수": 18,
+        "사망자수": 19,
         "완치자수": 99
     },
     {
@@ -873,6 +873,14 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "Niger",
+        "Name_ch": "",
+        "Name_en": "Niger",
+        "확진자수": 144,
+        "사망자수": 8,
+        "완치자수": 0
+    },
+    {
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
@@ -934,14 +942,6 @@ var marker = [
         "Name_en": "Isle of Man",
         "확진자수": 126,
         "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "Niger",
-        "Name_ch": "",
-        "Name_en": "Niger",
-        "확진자수": 120,
-        "사망자수": 5,
         "완치자수": 0
     },
     {
@@ -1249,20 +1249,20 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "New Caledonia",
-        "Name_ch": "",
-        "Name_en": "New Caledonia",
-        "확진자수": 18,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
         "확진자수": 17,
         "사망자수": 1,
         "완치자수": 0
+    },
+    {
+        "Name": "New Caledonia",
+        "Name_ch": "",
+        "Name_en": "New Caledonia",
+        "확진자수": 17,
+        "사망자수": 0,
+        "완치자수": 1
     },
     {
         "Name": "Syria",
