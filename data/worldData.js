@@ -713,6 +713,14 @@ var marker = [
         "완치자수": 15
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 264,
+        "사망자수": 15,
+        "완치자수": 3
+    },
+    {
         "Name": "오만",
         "Name_ch": "",
         "Name_en": "Oman",
@@ -751,14 +759,6 @@ var marker = [
         "확진자수": 227,
         "사망자수": 2,
         "완치자수": 25
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 222,
-        "사망자수": 15,
-        "완치자수": 3
     },
     {
         "Name": "Ivory Coast",
@@ -837,7 +837,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Sri Lanka",
         "확진자수": 159,
-        "사망자수": 4,
+        "사망자수": 5,
         "완치자수": 24
     },
     {
@@ -948,7 +948,7 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 98,
+        "확진자수": 100,
         "사망자수": 6,
         "완치자수": 1
     },
