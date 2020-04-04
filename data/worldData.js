@@ -4,16 +4,16 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1180952,
-        "사망자수": 63893,
-        "완치자수": 243871
+        "확진자수": 1182825,
+        "사망자수": 63924,
+        "완치자수": 244108
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 300443,
-        "사망자수": 8156,
+        "확진자수": 301147,
+        "사망자수": 8173,
         "완치자수": 14518
     },
     {
@@ -100,9 +100,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
-        "확진자수": 12956,
-        "사망자수": 214,
-        "완치자수": 2322
+        "확진자수": 13860,
+        "사망자수": 228,
+        "완치자수": 2559
     },
     {
         "Name": "오스트리아",
@@ -132,7 +132,7 @@ var marker = [
         "Name": "이스라엘",
         "Name_ch": "",
         "Name_en": "Israel",
-        "확진자수": 7589,
+        "확진자수": 7851,
         "사망자수": 44,
         "완치자수": 427
     },
@@ -1241,6 +1241,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Guinea-Bissau",
+        "Name_ch": "",
+        "Name_en": "Guinea-Bissau",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1284,14 +1292,6 @@ var marker = [
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "확진자수": 15,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Guinea-Bissau",
-        "Name_ch": "",
-        "Name_en": "Guinea-Bissau",
         "확진자수": 15,
         "사망자수": 0,
         "완치자수": 0
