@@ -4,9 +4,9 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1203941,
-        "사망자수": 64787,
-        "완치자수": 247301
+        "확진자수": 1204077,
+        "사망자수": 64797,
+        "완치자수": 247340
     },
     {
         "Name": "미국",
@@ -433,20 +433,20 @@ var marker = [
         "완치자수": 119
     },
     {
+        "Name": "에스토니아",
+        "Name_ch": "",
+        "Name_en": "Estonia",
+        "확진자수": 1097,
+        "사망자수": 15,
+        "완치자수": 62
+    },
+    {
         "Name": "이집트",
         "Name_ch": "",
         "Name_en": "Egypt",
         "확진자수": 1070,
         "사망자수": 71,
         "완치자수": 241
-    },
-    {
-        "Name": "에스토니아",
-        "Name_ch": "",
-        "Name_en": "Estonia",
-        "확진자수": 1039,
-        "사망자수": 13,
-        "완치자수": 59
     },
     {
         "Name": "New Zealand",
@@ -460,8 +460,8 @@ var marker = [
         "Name": "슬로베니아",
         "Name_ch": "",
         "Name_en": "Slovenia",
-        "확진자수": 977,
-        "사망자수": 22,
+        "확진자수": 997,
+        "사망자수": 28,
         "완치자수": 79
     },
     {
@@ -473,20 +473,20 @@ var marker = [
         "완치자수": 69
     },
     {
+        "Name": "홍콩",
+        "Name_ch": "",
+        "Name_en": "Hong Kong",
+        "확진자수": 890,
+        "사망자수": 4,
+        "완치자수": 206
+    },
+    {
         "Name": "이라크",
         "Name_ch": "",
         "Name_en": "Iraq",
         "확진자수": 878,
         "사망자수": 56,
         "완치자수": 259
-    },
-    {
-        "Name": "홍콩",
-        "Name_ch": "",
-        "Name_en": "Hong Kong",
-        "확진자수": 862,
-        "사망자수": 4,
-        "완치자수": 173
     },
     {
         "Name": "아르메니아",
@@ -510,7 +510,7 @@ var marker = [
         "Name_en": "Moldova",
         "확진자수": 752,
         "사망자수": 14,
-        "완치자수": 29
+        "완치자수": 30
     },
     {
         "Name": "헝가리",
@@ -540,7 +540,7 @@ var marker = [
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "",
         "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 629,
+        "확진자수": 632,
         "사망자수": 21,
         "완치자수": 30
     },
@@ -577,6 +577,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "레바논",
+        "Name_ch": "",
+        "Name_en": "Lebanon",
+        "확진자수": 527,
+        "사망자수": 18,
+        "완치자수": 54
+    },
+    {
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
@@ -591,14 +599,6 @@ var marker = [
         "확진자수": 521,
         "사망자수": 5,
         "완치자수": 32
-    },
-    {
-        "Name": "레바논",
-        "Name_ch": "",
-        "Name_en": "Lebanon",
-        "확진자수": 520,
-        "사망자수": 17,
-        "완치자수": 54
     },
     {
         "Name": "North Macedonia",
@@ -790,7 +790,7 @@ var marker = [
         "Name_en": "Palestine",
         "확진자수": 226,
         "사망자수": 1,
-        "완치자수": 21
+        "완치자수": 23
     },
     {
         "Name": "세네갈",
@@ -993,20 +993,20 @@ var marker = [
         "완치자수": 52
     },
     {
+        "Name": "Bangladesh",
+        "Name_ch": "",
+        "Name_en": "Bangladesh",
+        "확진자수": 88,
+        "사망자수": 9,
+        "완치자수": 30
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "",
         "Name_en": "Liechtenstein",
         "확진자수": 77,
         "사망자수": 1,
         "완치자수": 0
-    },
-    {
-        "Name": "Bangladesh",
-        "Name_ch": "",
-        "Name_en": "Bangladesh",
-        "확진자수": 70,
-        "사망자수": 8,
-        "완치자수": 30
     },
     {
         "Name": "Madagascar",
@@ -1289,6 +1289,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "확진자수": 16,
+        "사망자수": 0,
+        "완치자수": 3
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
@@ -1311,14 +1319,6 @@ var marker = [
         "확진자수": 14,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "확진자수": 14,
-        "사망자수": 0,
-        "완치자수": 3
     },
     {
         "Name": "Saint Lucia",
