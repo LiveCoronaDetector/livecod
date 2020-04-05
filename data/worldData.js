@@ -4,9 +4,9 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1202546,
-        "사망자수": 64732,
-        "완치자수": 246638
+        "확진자수": 1202715,
+        "사망자수": 64734,
+        "완치자수": 246648
     },
     {
         "Name": "미국",
@@ -100,9 +100,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
-        "확진자수": 13912,
-        "사망자수": 231,
-        "완치자수": 2595
+        "확진자수": 14018,
+        "사망자수": 233,
+        "완치자수": 2603
     },
     {
         "Name": "오스트리아",
@@ -564,7 +564,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 531,
+        "확진자수": 551,
         "사망자수": 5,
         "완치자수": 36
     },
@@ -673,6 +673,14 @@ var marker = [
         "완치자수": 50
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "",
+        "Name_en": "Afghanistan",
+        "확진자수": 337,
+        "사망자수": 7,
+        "완치자수": 10
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
@@ -703,14 +711,6 @@ var marker = [
         "확진자수": 318,
         "사망자수": 16,
         "완치자수": 66
-    },
-    {
-        "Name": "아프가니스탄",
-        "Name_ch": "",
-        "Name_en": "Afghanistan",
-        "확진자수": 299,
-        "사망자수": 7,
-        "완치자수": 10
     },
     {
         "Name": "Cuba",
@@ -1153,6 +1153,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "확진자수": 29,
+        "사망자수": 2,
+        "완치자수": 7
+    },
+    {
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
@@ -1183,14 +1191,6 @@ var marker = [
         "확진자수": 24,
         "사망자수": 4,
         "완치자수": 0
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "확진자수": 24,
-        "사망자수": 2,
-        "완치자수": 5
     },
     {
         "Name": "Congo",
