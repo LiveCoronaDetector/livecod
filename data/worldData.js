@@ -4,16 +4,16 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1268855,
-        "사망자수": 69332,
-        "완치자수": 261200
+        "확진자수": 1269313,
+        "사망자수": 69346,
+        "완치자수": 261207
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 334345,
-        "사망자수": 9558,
+        "확진자수": 334745,
+        "사망자수": 9572,
         "완치자수": 17242
     },
     {
@@ -180,7 +180,7 @@ var marker = [
         "Name": "체코",
         "Name_ch": "",
         "Name_en": "Czechia",
-        "확진자수": 4543,
+        "확진자수": 4587,
         "사망자수": 67,
         "완치자수": 96
     },
@@ -897,6 +897,14 @@ var marker = [
         "완치자수": 50
     },
     {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "확진자수": 147,
+        "사망자수": 2,
+        "완치자수": 14
+    },
+    {
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
@@ -913,28 +921,20 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "확진자수": 135,
+        "사망자수": 7,
+        "완치자수": 31
+    },
+    {
         "Name": "Brunei",
         "Name_ch": "",
         "Name_en": "Brunei",
         "확진자수": 135,
         "사망자수": 1,
         "완치자수": 73
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "확진자수": 134,
-        "사망자수": 7,
-        "완치자수": 24
-    },
-    {
-        "Name": "Mayotte",
-        "Name_ch": "",
-        "Name_en": "Mayotte",
-        "확진자수": 134,
-        "사망자수": 2,
-        "완치자수": 14
     },
     {
         "Name": "Isle of Man",
