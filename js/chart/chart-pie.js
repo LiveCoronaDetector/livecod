@@ -44,6 +44,22 @@ var myChart = new Chart(ctxD, {
         }]
     },
     options: {
+        maintainAspectRatio: false,
+        tooltips: {
+          backgroundColor: "rgb(255,255,255)",
+          bodyFontColor: "#858796",
+          borderColor: '#dddfeb',
+          borderWidth: 1,
+          xPadding: 15,
+          yPadding: 15,
+          displayColors: false,
+          caretPadding: 10,
+          // callbacks: {
+          //   label: function(tooltipItem, chart) {
+          //     return '확진자 : ' + tooltipItem.yLabel + '명' ;
+          //   }
+          // }
+        },
         scales: {
             yAxes: [{
                 ticks: {
@@ -82,6 +98,24 @@ var myChart = new Chart(ctxD_, {
         }]
     },
     options: {
+        maintainAspectRatio: false,
+        tooltips: {
+          backgroundColor: "rgb(255,255,255)",
+          bodyFontColor: "#858796",
+          borderColor: '#dddfeb',
+          borderWidth: 1,
+          xPadding: 15,
+          yPadding: 15,
+          displayColors: false,
+          caretPadding: 10,
+          // callbacks: {
+          //   label: function(tooltipItem, chart) {
+          //     console.log(tooltipItem);
+          //     console.log(chart);
+          //     return '치명율 : ' + tooltipItem.yLabel + '%' ;
+          //   }
+          // }
+        },
         scales: {
             yAxes: [{
                 ticks: {
