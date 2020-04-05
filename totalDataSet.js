@@ -209,7 +209,7 @@ var _marker = JSON.parse(JSON.stringify(marker));
 
 // 업데이트 시간
 var 지역별확진자_업데이트_시간 = "";
-var 지역별확진자_업데이트4시간 = ""3
+var 지역별확진자_업데이트4시간 = "";
 for (var i = 0; i < koreaRegionalData.length; i++) {
   if(koreaRegionalData[i]['업데이트날짜']){
     지역별확진자_업데이트_시간 = koreaRegionalData[i]['업데이트날짜'];
