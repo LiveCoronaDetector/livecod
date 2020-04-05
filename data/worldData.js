@@ -4,9 +4,9 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1213199,
-        "사망자수": 65600,
-        "완치자수": 253597
+        "확진자수": 1214487,
+        "사망자수": 65605,
+        "완치자수": 253626
     },
     {
         "Name": "미국",
@@ -37,7 +37,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Germany",
         "확진자수": 96108,
-        "사망자수": 1444,
+        "사망자수": 1446,
         "완치자수": 26400
     },
     {
@@ -76,7 +76,7 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "",
         "Name_en": "Switzerland",
-        "확진자수": 20510,
+        "확진자수": 21100,
         "사망자수": 666,
         "완치자수": 6415
     },
@@ -164,9 +164,9 @@ var marker = [
         "Name": "러시아",
         "Name_ch": "",
         "Name_en": "Russia",
-        "확진자수": 4731,
-        "사망자수": 43,
-        "완치자수": 333
+        "확진자수": 5389,
+        "사망자수": 45,
+        "완치자수": 355
     },
     {
         "Name": "아일랜드",
@@ -673,6 +673,14 @@ var marker = [
         "완치자수": 54
     },
     {
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "확진자수": 361,
+        "사망자수": 20,
+        "완치자수": 104
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "",
         "Name_en": "Afghanistan",
@@ -687,14 +695,6 @@ var marker = [
         "확진자수": 334,
         "사망자수": 0,
         "완치자수": 40
-    },
-    {
-        "Name": "Albania",
-        "Name_ch": "",
-        "Name_en": "Albania",
-        "확진자수": 333,
-        "사망자수": 20,
-        "완치자수": 99
     },
     {
         "Name": "요르단",
@@ -793,6 +793,14 @@ var marker = [
         "완치자수": 23
     },
     {
+        "Name": "나이지리아",
+        "Name_ch": "",
+        "Name_en": "Nigeria",
+        "확진자수": 224,
+        "사망자수": 5,
+        "완치자수": 27
+    },
+    {
         "Name": "세네갈",
         "Name_ch": "",
         "Name_en": "Senegal",
@@ -807,14 +815,6 @@ var marker = [
         "확진자수": 214,
         "사망자수": 5,
         "완치자수": 31
-    },
-    {
-        "Name": "나이지리아",
-        "Name_ch": "",
-        "Name_en": "Nigeria",
-        "확진자수": 214,
-        "사망자수": 4,
-        "완치자수": 25
     },
     {
         "Name": "Malta",
@@ -1529,6 +1529,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Sierra Leone",
+        "Name_ch": "",
+        "Name_en": "Sierra Leone",
+        "확진자수": 6,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Nicaragua",
         "Name_ch": "",
         "Name_en": "Nicaragua",
@@ -1580,14 +1588,6 @@ var marker = [
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "확진자수": 4,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Sierra Leone",
-        "Name_ch": "",
-        "Name_en": "Sierra Leone",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
