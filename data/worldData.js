@@ -4,8 +4,8 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1202435,
-        "사망자수": 64729,
+        "확진자수": 1202546,
+        "사망자수": 64732,
         "완치자수": 246638
     },
     {
@@ -281,20 +281,20 @@ var marker = [
         "완치자수": 420
     },
     {
+        "Name": "태국",
+        "Name_ch": "",
+        "Name_en": "Thailand",
+        "확진자수": 2169,
+        "사망자수": 23,
+        "완치자수": 674
+    },
+    {
         "Name": "인도네시아",
         "Name_ch": "",
         "Name_en": "Indonesia",
         "확진자수": 2092,
         "사망자수": 191,
         "완치자수": 150
-    },
-    {
-        "Name": "태국",
-        "Name_ch": "",
-        "Name_en": "Thailand",
-        "확진자수": 2067,
-        "사망자수": 20,
-        "완치자수": 674
     },
     {
         "Name": "멕시코",
@@ -881,6 +881,14 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 147,
+        "사망자수": 1,
+        "완치자수": 9
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
@@ -895,14 +903,6 @@ var marker = [
         "확진자수": 144,
         "사망자수": 8,
         "완치자수": 0
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 144,
-        "사망자수": 1,
-        "완치자수": 9
     },
     {
         "Name": "Brunei",
@@ -1033,6 +1033,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 62,
+        "사망자수": 3,
+        "완치자수": 2
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
@@ -1047,14 +1055,6 @@ var marker = [
         "확진자수": 61,
         "사망자수": 0,
         "완치자수": 22
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 56,
-        "사망자수": 3,
-        "완치자수": 2
     },
     {
         "Name": "Jamaica",
