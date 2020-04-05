@@ -4,7 +4,7 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1202433,
+        "확진자수": 1202435,
         "사망자수": 64729,
         "완치자수": 246638
     },
@@ -1169,6 +1169,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "확진자수": 25,
+        "사망자수": 4,
+        "완치자수": 6
+    },
+    {
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
@@ -1183,14 +1191,6 @@ var marker = [
         "확진자수": 24,
         "사망자수": 2,
         "완치자수": 5
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 23,
-        "사망자수": 4,
-        "완치자수": 6
     },
     {
         "Name": "Congo",
