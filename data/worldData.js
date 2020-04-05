@@ -4,16 +4,16 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1225009,
-        "사망자수": 66502,
-        "완치자수": 253855
+        "확진자수": 1225686,
+        "사망자수": 66520,
+        "완치자수": 253864
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 311656,
-        "사망자수": 8454,
+        "확진자수": 312206,
+        "사망자수": 8468,
         "완치자수": 14828
     },
     {
@@ -108,7 +108,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "",
         "Name_en": "Austria",
-        "확진자수": 11907,
+        "확진자수": 11920,
         "사망자수": 204,
         "완치자수": 2998
     },
@@ -124,8 +124,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "",
         "Name_en": "Brazil",
-        "확진자수": 10360,
-        "사망자수": 445,
+        "확진자수": 10431,
+        "사망자수": 446,
         "완치자수": 127
     },
     {
@@ -133,7 +133,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Israel",
         "확진자수": 8018,
-        "사망자수": 46,
+        "사망자수": 47,
         "완치자수": 477
     },
     {
@@ -381,7 +381,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Argentina",
         "확진자수": 1451,
-        "사망자수": 43,
+        "사망자수": 44,
         "완치자수": 279
     },
     {
@@ -430,7 +430,7 @@ var marker = [
         "Name_en": "Croatia",
         "확진자수": 1182,
         "사망자수": 15,
-        "완치자수": 119
+        "완치자수": 125
     },
     {
         "Name": "에스토니아",
@@ -540,7 +540,7 @@ var marker = [
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "",
         "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 641,
+        "확진자수": 654,
         "사망자수": 21,
         "완치자수": 30
     },
@@ -681,20 +681,20 @@ var marker = [
         "완치자수": 104
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "확진자수": 344,
+        "사망자수": 0,
+        "완치자수": 40
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "",
         "Name_en": "Afghanistan",
         "확진자수": 337,
         "사망자수": 7,
         "완치자수": 15
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "확진자수": 334,
-        "사망자수": 0,
-        "완치자수": 40
     },
     {
         "Name": "요르단",
@@ -905,6 +905,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Kenya",
+        "Name_ch": "",
+        "Name_en": "Kenya",
+        "확진자수": 142,
+        "사망자수": 4,
+        "완치자수": 4
+    },
+    {
         "Name": "Brunei",
         "Name_ch": "",
         "Name_en": "Brunei",
@@ -937,14 +945,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Kenya",
-        "Name_ch": "",
-        "Name_en": "Kenya",
-        "확진자수": 126,
-        "사망자수": 4,
-        "완치자수": 4
-    },
-    {
         "Name": "캄보디아",
         "Name_ch": "",
         "Name_en": "Cambodia",
@@ -961,20 +961,20 @@ var marker = [
         "완치자수": 5
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 104,
+        "사망자수": 7,
+        "완치자수": 1
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
         "확진자수": 104,
         "사망자수": 3,
         "완치자수": 12
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 103,
-        "사망자수": 6,
-        "완치자수": 1
     },
     {
         "Name": "Rwanda",
@@ -1097,6 +1097,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "토고",
+        "Name_ch": "",
+        "Name_en": "Togo",
+        "확진자수": 44,
+        "사망자수": 3,
+        "완치자수": 20
+    },
+    {
         "Name": "마카오",
         "Name_ch": "",
         "Name_en": "Macao",
@@ -1119,14 +1127,6 @@ var marker = [
         "확진자수": 41,
         "사망자수": 3,
         "완치자수": 1
-    },
-    {
-        "Name": "토고",
-        "Name_ch": "",
-        "Name_en": "Togo",
-        "확진자수": 41,
-        "사망자수": 3,
-        "완치자수": 17
     },
     {
         "Name": "French Polynesia",
