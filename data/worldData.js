@@ -4,9 +4,9 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1285261,
-        "사망자수": 70344,
-        "완치자수": 271847
+        "확진자수": 1286664,
+        "사망자수": 70446,
+        "완치자수": 271882
     },
     {
         "Name": "미국",
@@ -76,7 +76,7 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "",
         "Name_en": "Switzerland",
-        "확진자수": 21282,
+        "확진자수": 21652,
         "사망자수": 734,
         "완치자수": 7298
     },
@@ -92,8 +92,8 @@ var marker = [
         "Name": "네덜란드",
         "Name_ch": "",
         "Name_en": "Netherlands",
-        "확진자수": 17851,
-        "사망자수": 1766,
+        "확진자수": 18803,
+        "사망자수": 1867,
         "완치자수": 250
     },
     {
@@ -521,6 +521,14 @@ var marker = [
         "완치자수": 67
     },
     {
+        "Name": "바레인",
+        "Name_ch": "",
+        "Name_en": "Bahrain",
+        "확진자수": 723,
+        "사망자수": 4,
+        "완치자수": 451
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "",
         "Name_en": "Diamond Princess",
@@ -537,20 +545,12 @@ var marker = [
         "완치자수": 53
     },
     {
-        "Name": "바레인",
-        "Name_ch": "",
-        "Name_en": "Bahrain",
-        "확진자수": 700,
-        "사망자수": 4,
-        "완치자수": 431
-    },
-    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "",
         "Name_en": "Bosnia and Herzegovina",
         "확진자수": 667,
         "사망자수": 27,
-        "완치자수": 44
+        "완치자수": 47
     },
     {
         "Name": "쿠웨이트",
@@ -569,20 +569,20 @@ var marker = [
         "완치자수": 17
     },
     {
+        "Name": "아제르바이잔",
+        "Name_ch": "",
+        "Name_en": "Azerbaijan",
+        "확진자수": 641,
+        "사망자수": 7,
+        "완치자수": 44
+    },
+    {
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
         "확진자수": 629,
         "사망자수": 6,
         "완치자수": 45
-    },
-    {
-        "Name": "아제르바이잔",
-        "Name_ch": "",
-        "Name_en": "Azerbaijan",
-        "확진자수": 584,
-        "사망자수": 7,
-        "완치자수": 32
     },
     {
         "Name": "Tunisia",
@@ -1209,20 +1209,20 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Benin",
+        "Name_ch": "",
+        "Name_en": "Benin",
+        "확진자수": 22,
+        "사망자수": 1,
+        "완치자수": 5
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
         "확진자수": 22,
         "사망자수": 1,
         "완치자수": 3
-    },
-    {
-        "Name": "Benin",
-        "Name_ch": "",
-        "Name_en": "Benin",
-        "확진자수": 22,
-        "사망자수": 0,
-        "완치자수": 5
     },
     {
         "Name": "Haiti",
@@ -1644,7 +1644,7 @@ var marker = [
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "확진자수": 1,
+        "확진자수": 2,
         "사망자수": 0,
         "완치자수": 0
     },
