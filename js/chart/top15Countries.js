@@ -3,6 +3,8 @@ var 모든확진자수 = marker.reduce(function (a, b) {
   return a + (b.확진자수 || 0);
 }, 0);
 
+var 전세계확진자_Top15 = marker.shift()
+
 var topText = document.querySelectorAll("#Top5>h4"),
     topCases = document.querySelectorAll("#Top5>div>.bg-warning"),        //TOP 확진자
     topFullRecover = document.querySelectorAll("#Top5>div>.bg-success"),  //TOP 완치자
