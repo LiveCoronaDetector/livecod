@@ -4,16 +4,16 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1273499,
-        "사망자수": 69451,
-        "완치자수": 262351
+        "확진자수": 1273709,
+        "사망자수": 69456,
+        "완치자수": 262486
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 336673,
-        "사망자수": 9616,
+        "확진자수": 336830,
+        "사망자수": 9618,
         "완치자수": 17977
     },
     {
@@ -972,7 +972,7 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 104,
+        "확진자수": 105,
         "사망자수": 7,
         "완치자수": 1
     },
@@ -1177,6 +1177,14 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 29,
+        "사망자수": 4,
+        "완치자수": 0
+    },
+    {
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
@@ -1191,14 +1199,6 @@ var marker = [
         "확진자수": 25,
         "사망자수": 4,
         "완치자수": 1
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 24,
-        "사망자수": 4,
-        "완치자수": 0
     },
     {
         "Name": "Tanzania",
