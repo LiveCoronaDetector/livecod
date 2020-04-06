@@ -4,17 +4,17 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1312476,
-        "사망자수": 72636,
-        "완치자수": 275067
+        "확진자수": 1315989,
+        "사망자수": 72715,
+        "완치자수": 275373
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 349974,
-        "사망자수": 10327,
-        "완치자수": 19226
+        "확진자수": 350226,
+        "사망자수": 10331,
+        "완치자수": 19247
     },
     {
         "Name": "스페인",
@@ -36,7 +36,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 101089,
+        "확진자수": 101178,
         "사망자수": 1612,
         "완치자수": 28700
     },
@@ -68,9 +68,9 @@ var marker = [
         "Name": "Turkey",
         "Name_ch": "",
         "Name_en": "Turkey",
-        "확진자수": 27069,
-        "사망자수": 574,
-        "완치자수": 1042
+        "확진자수": 30217,
+        "사망자수": 649,
+        "완치자수": 1326
     },
     {
         "Name": "스위스",
@@ -569,20 +569,20 @@ var marker = [
         "완치자수": 17
     },
     {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+        "확진자수": 651,
+        "사망자수": 6,
+        "완치자수": 45
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "",
         "Name_en": "Azerbaijan",
         "확진자수": 641,
         "사망자수": 7,
         "완치자수": 44
-    },
-    {
-        "Name": "Kazakhstan",
-        "Name_ch": "",
-        "Name_en": "Kazakhstan",
-        "확진자수": 629,
-        "사망자수": 6,
-        "완치자수": 45
     },
     {
         "Name": "Tunisia",
@@ -1390,7 +1390,7 @@ var marker = [
         "Name_en": "Greenland",
         "확진자수": 11,
         "사망자수": 0,
-        "완치자수": 3
+        "완치자수": 4
     },
     {
         "Name": "Seychelles",
@@ -1473,6 +1473,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 7,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -1550,14 +1558,6 @@ var marker = [
         "Name_en": "Sierra Leone",
         "확진자수": 6,
         "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 5,
-        "사망자수": 1,
         "완치자수": 0
     },
     {
