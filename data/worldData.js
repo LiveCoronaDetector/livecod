@@ -4,8 +4,8 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1273712,
-        "사망자수": 69458,
+        "확진자수": 1273720,
+        "사망자수": 69459,
         "완치자수": 262486
     },
     {
@@ -204,8 +204,8 @@ var marker = [
         "Name": "인도",
         "Name_ch": "",
         "Name_en": "India",
-        "확진자수": 4288,
-        "사망자수": 117,
+        "확진자수": 4289,
+        "사망자수": 118,
         "완치자수": 328
     },
     {
@@ -1033,6 +1033,14 @@ var marker = [
         "완치자수": 15
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 69,
+        "사망자수": 3,
+        "완치자수": 2
+    },
+    {
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
@@ -1047,14 +1055,6 @@ var marker = [
         "확진자수": 64,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 62,
-        "사망자수": 3,
-        "완치자수": 2
     },
     {
         "Name": "Djibouti",
