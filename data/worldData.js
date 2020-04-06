@@ -4,8 +4,8 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1273709,
-        "사망자수": 69456,
+        "확진자수": 1273712,
+        "사망자수": 69458,
         "완치자수": 262486
     },
     {
@@ -965,7 +965,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Paraguay",
         "확진자수": 113,
-        "사망자수": 3,
+        "사망자수": 5,
         "완치자수": 12
     },
     {
@@ -1305,6 +1305,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Mongolia",
+        "Name_ch": "",
+        "Name_en": "Mongolia",
+        "확진자수": 15,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
@@ -1321,12 +1329,12 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Mongolia",
+        "Name": "Fiji",
         "Name_ch": "",
-        "Name_en": "Mongolia",
+        "Name_en": "Fiji",
         "확진자수": 14,
         "사망자수": 0,
-        "완치자수": 2
+        "완치자수": 0
     },
     {
         "Name": "Saint Lucia",
@@ -1351,14 +1359,6 @@ var marker = [
         "확진자수": 12,
         "사망자수": 2,
         "완치자수": 2
-    },
-    {
-        "Name": "Fiji",
-        "Name_ch": "",
-        "Name_en": "Fiji",
-        "확진자수": 12,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Grenada",
