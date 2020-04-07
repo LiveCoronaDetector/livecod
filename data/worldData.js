@@ -4,17 +4,17 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1423642,
-        "사망자수": 81857,
-        "완치자수": 301623
+        "확진자수": 1423999,
+        "사망자수": 81887,
+        "완치자수": 301707
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 394182,
-        "사망자수": 12716,
-        "완치자수": 21571
+        "확진자수": 394535,
+        "사망자수": 12746,
+        "완치자수": 21650
     },
     {
         "Name": "스페인",
@@ -1014,7 +1014,7 @@ var marker = [
         "Name_en": "Madagascar",
         "확진자수": 88,
         "사망자수": 0,
-        "완치자수": 2
+        "완치자수": 7
     },
     {
         "Name": "모나코",
@@ -1465,6 +1465,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Montserrat",
+        "Name_ch": "",
+        "Name_en": "Montserrat",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
@@ -1487,6 +1495,14 @@ var marker = [
         "확진자수": 8,
         "사망자수": 0,
         "완치자수": 0
+    },
+    {
+        "Name": "St. Vincent Grenadines",
+        "Name_ch": "",
+        "Name_en": "St. Vincent Grenadines",
+        "확진자수": 8,
+        "사망자수": 0,
+        "완치자수": 1
     },
     {
         "Name": "Somalia",
@@ -1521,14 +1537,6 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "St. Vincent Grenadines",
-        "Name_ch": "",
-        "Name_en": "St. Vincent Grenadines",
-        "확진자수": 7,
-        "사망자수": 0,
-        "완치자수": 1
-    },
-    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
@@ -1550,14 +1558,6 @@ var marker = [
         "Name_en": "Nicaragua",
         "확진자수": 6,
         "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "Montserrat",
-        "Name_ch": "",
-        "Name_en": "Montserrat",
-        "확진자수": 6,
-        "사망자수": 0,
         "완치자수": 0
     },
     {
