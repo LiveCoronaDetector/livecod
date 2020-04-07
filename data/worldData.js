@@ -4,8 +4,8 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1346482,
-        "사망자수": 74693,
+        "확진자수": 1346566,
+        "사망자수": 74697,
         "완치자수": 278695
     },
     {
@@ -761,6 +761,14 @@ var marker = [
         "완치자수": 6
     },
     {
+        "Name": "Ghana",
+        "Name_ch": "",
+        "Name_en": "Ghana",
+        "확진자수": 287,
+        "사망자수": 5,
+        "완치자수": 31
+    },
+    {
         "Name": "산마리노",
         "Name_ch": "",
         "Name_en": "San Marino",
@@ -841,12 +849,12 @@ var marker = [
         "완치자수": 33
     },
     {
-        "Name": "Ghana",
+        "Name": "Bolivia",
         "Name_ch": "",
-        "Name_en": "Ghana",
-        "확진자수": 214,
-        "사망자수": 5,
-        "완치자수": 31
+        "Name_en": "Bolivia",
+        "확진자수": 194,
+        "사망자수": 14,
+        "완치자수": 2
     },
     {
         "Name": "조지아",
@@ -855,14 +863,6 @@ var marker = [
         "확진자수": 188,
         "사망자수": 2,
         "완치자수": 39
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 183,
-        "사망자수": 11,
-        "완치자수": 2
     },
     {
         "Name": "Faeroe Islands",
@@ -1189,7 +1189,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Guyana",
         "확진자수": 31,
-        "사망자수": 4,
+        "사망자수": 5,
         "완치자수": 8
     },
     {
