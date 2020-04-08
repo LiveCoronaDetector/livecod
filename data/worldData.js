@@ -4,16 +4,16 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1496335,
-        "사망자수": 87617,
-        "완치자수": 319160
+        "확진자수": 1498013,
+        "사망자수": 87731,
+        "완치자수": 319192
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 420705,
-        "사망자수": 14369,
+        "확진자수": 422369,
+        "사망자수": 14463,
         "완치자수": 22187
     },
     {
@@ -100,7 +100,7 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
-        "확진자수": 19183,
+        "확진자수": 19195,
         "사망자수": 427,
         "완치자수": 4533
     },
@@ -221,7 +221,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Romania",
         "확진자수": 4761,
-        "사망자수": 215,
+        "사망자수": 220,
         "완치자수": 528
     },
     {
@@ -237,8 +237,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Peru",
         "확진자수": 4342,
-        "사망자수": 107,
-        "완치자수": 1301
+        "사망자수": 121,
+        "완치자수": 1333
     },
     {
         "Name": "일본",
@@ -1073,20 +1073,20 @@ var marker = [
         "완치자수": 23
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 63,
+        "사망자수": 4,
+        "완치자수": 10
+    },
+    {
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
         "확진자수": 63,
         "사망자수": 3,
         "완치자수": 6
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 63,
-        "사망자수": 3,
-        "완치자수": 10
     },
     {
         "Name": "Mali",
@@ -1289,6 +1289,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Equatorial Guinea",
+        "Name_ch": "",
+        "Name_en": "Equatorial Guinea",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 3
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1311,14 +1319,6 @@ var marker = [
         "확진자수": 17,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Equatorial Guinea",
-        "Name_ch": "",
-        "Name_en": "Equatorial Guinea",
-        "확진자수": 16,
-        "사망자수": 0,
-        "완치자수": 3
     },
     {
         "Name": "Mongolia",
