@@ -4,10 +4,12 @@
 - 본 소스는 자유롭게 사용하셔도 좋습니다. 데이터만 가져다 쓰실 경우 [`totalDataSet.js`](http://livecorona.co.kr/totalDataSet.js)를 참고해주세요.
 - [Update History](https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9)
 
+
 ## 취지와 목적
 
 - 코로나바이러스감염증-19(COVID-19)에 대한 **정확한** **정보의 전달**, **정보의 확산**을 위해 2020년 1월 28일 오후 1시 개시된 비영리 정보 공유 서비스
 - 감염병이 재창궐하였을 때 보다 적은 리소스로 해당 사이트를 구축 할 수 있도록 의료 정보 오픈 소스를 만드는데 목적
+
 
 ## 초창기 이슈
 
@@ -15,6 +17,7 @@
 - 확진자 이동 경로 표시 : 감염자 이동 경로를 표시하는 것은 매우 민감한 문제입니다. 초창기 텍스트로만 제공하였고, 질병관리본부에서 확인되지 않은 정보는 개시하지 않았습니다.
 - 초창기에는 확진자 인원에 매우 민감하기 때문에 속보를 잘 반영해주실 필요가 있습니다. 하지만, 실시간으로 반영되지 않는다는 것을 꼭 명시해주세요. 속보는 크롤러로 잡기 힘듭니다. 또 오보의 가능성도 있어서 질병관리본부의 발표를 듣고 나서 게시하시는 것이 좋습니다.
 - 초창기에는 크롤러가 잘못 작동할 확율이 높습니다. 크롤링 하는 사이트에서 잘못 집계하고 있을 확율이 높습니다. 또한 외국의 경우 시차가 있기 때문에 시차를 반영한 데이터가 필요합니다.
+
 
 ## 기술 스택
 
@@ -25,6 +28,7 @@
     - 백엔드 GitHub URL: [https://github.com/LiveCoronaDetector/livecod-backend](https://github.com/LiveCoronaDetector/livecod-backend)
     - 크롤러 GitHub URL: [https://github.com/LiveCoronaDetector/CoronaCrawler](https://github.com/LiveCoronaDetector/CoronaCrawler)
     - 제주 지정의료기관 GitHub URL: [https://github.com/LiveCoronaDetector/covid-19-jeju-hospital-map](https://github.com/LiveCoronaDetector/covid-19-jeju-hospital-map)
+
 
 ## 데이터 형식
 
@@ -124,12 +128,14 @@
 
     Estimation of the reproductive number of Novel Coronavirus
 
+
 ## 업데이트 방법
 
 - 크롤링 데이터 Slack으로 Push → 내용 확인(필요의 경우 내용 사실 여부 확인) → 자원 봉사자 중 1명이 Commit, Push
   -  [https://www.notion.so/84904afe278f4efc96c4fe0cdde0aae8](https://www.notion.so/84904afe278f4efc96c4fe0cdde0aae8) 에 적어놓았습니다.
 - Github Pull Request 보내기
   - [https://www.notion.so/Github-livecod-aa5be574c29e48febff9847263ca9bee](https://www.notion.so/Github-livecod-aa5be574c29e48febff9847263ca9bee) 에 적어두었습니다.
+
 
 ## 멤버
 
@@ -158,6 +164,7 @@
 - 우지호 : 자원봉사, gap year
 - 정다영 : 웹디자이너, GDG 부산 운영진
 
+
 ## 팀
 
 팀을 만들어 팀 별로 진행하시는 것을 권해드립니다.
@@ -181,6 +188,29 @@
 - 백엔드 : 김성진(PL), 백지오, 강태욱
 - 데이터 수집 : 황예진
 - 데이터 분석 : 백지오, 석찬희, 장성원, 송진영, Eden
+
+### 3기 Team
+
+- PM : 이호준
+- 프론트엔드 : 이수연(PL), 강태욱, 장근호, 강현욱, 김형규, 한종우, 조희주
+- 백엔드 : 강태욱(PL), 조희주
+- 데이터분석 : 강태욱(PL), 조희주
+- 크롤러 : 강태욱, 강현욱, 남수연, 강민철, 황예진, Eden
+- 데이터수집 : 백기승,송지영,남수연,전창삼,황예진,송진영,우지호
+- 디자인 : 한연희(PL)
+- 중국어 번역 : 변현홍
+
+### 4기 Team
+
+- PM : 이호준
+- 프론트엔드 : 강태욱, 장근호, 박현상, 정다영
+- 백엔드 : 홍길동
+- 데이터분석 : 태재성, 백기승, Eden
+- 크롤러 : 김경남, 태재성, 백기승, Eden
+- 글로벌 서비스 : 강태욱, 우지호, 변현홍
+- 데이터수집 : 백기승, 우지호
+- 디자인 : 정다영(PL)
+
 
 ## 도움을 주신 곳
 
