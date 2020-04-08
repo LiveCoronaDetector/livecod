@@ -4,16 +4,16 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1498013,
-        "사망자수": 87731,
-        "완치자수": 319192
+        "확진자수": 1501062,
+        "사망자수": 87830,
+        "완치자수": 319214
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 422369,
-        "사망자수": 14463,
+        "확진자수": 422800,
+        "사망자수": 14473,
         "완치자수": 22187
     },
     {
@@ -44,8 +44,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "",
         "Name_en": "Germany",
-        "확진자수": 110698,
-        "사망자수": 2192,
+        "확진자수": 111779,
+        "사망자수": 2196,
         "완치자수": 36081
     },
     {
@@ -108,8 +108,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "",
         "Name_en": "Brazil",
-        "확진자수": 14511,
-        "사망자수": 720,
+        "확진자수": 15927,
+        "사망자수": 800,
         "완치자수": 127
     },
     {
@@ -124,7 +124,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "",
         "Name_en": "Austria",
-        "확진자수": 12937,
+        "확진자수": 12941,
         "사망자수": 273,
         "완치자수": 4512
     },
@@ -556,9 +556,17 @@ var marker = [
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "",
         "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 803,
+        "확진자수": 804,
         "사망자수": 34,
         "완치자수": 79
+    },
+    {
+        "Name": "카메룬",
+        "Name_ch": "",
+        "Name_en": "Cameroon",
+        "확진자수": 730,
+        "사망자수": 10,
+        "완치자수": 60
     },
     {
         "Name": "Kazakhstan",
@@ -577,14 +585,6 @@ var marker = [
         "완치자수": 619
     },
     {
-        "Name": "카메룬",
-        "Name_ch": "",
-        "Name_en": "Cameroon",
-        "확진자수": 685,
-        "사망자수": 9,
-        "완치자수": 60
-    },
-    {
         "Name": "슬로바키아",
         "Name_ch": "",
         "Name_en": "Slovakia",
@@ -596,8 +596,8 @@ var marker = [
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
-        "확진자수": 623,
-        "사망자수": 23,
+        "확진자수": 628,
+        "사망자수": 24,
         "완치자수": 25
     },
     {
@@ -713,6 +713,14 @@ var marker = [
         "완치자수": 154
     },
     {
+        "Name": "Ivory Coast",
+        "Name_ch": "",
+        "Name_en": "Ivory Coast",
+        "확진자수": 384,
+        "사망자수": 3,
+        "완치자수": 48
+    },
+    {
         "Name": "대만",
         "Name_ch": "",
         "Name_en": "Taiwan",
@@ -743,14 +751,6 @@ var marker = [
         "확진자수": 351,
         "사망자수": 8,
         "완치자수": 38
-    },
-    {
-        "Name": "Ivory Coast",
-        "Name_ch": "",
-        "Name_en": "Ivory Coast",
-        "확진자수": 349,
-        "사망자수": 3,
-        "완치자수": 41
     },
     {
         "Name": "Ghana",
@@ -793,6 +793,14 @@ var marker = [
         "완치자수": 26
     },
     {
+        "Name": "나이지리아",
+        "Name_ch": "",
+        "Name_en": "Nigeria",
+        "확진자수": 276,
+        "사망자수": 6,
+        "완치자수": 44
+    },
+    {
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
@@ -814,14 +822,6 @@ var marker = [
         "Name_en": "Palestine",
         "확진자수": 263,
         "사망자수": 1,
-        "완치자수": 44
-    },
-    {
-        "Name": "나이지리아",
-        "Name_ch": "",
-        "Name_en": "Nigeria",
-        "확진자수": 254,
-        "사망자수": 6,
         "완치자수": 44
     },
     {
@@ -932,8 +932,8 @@ var marker = [
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
-        "확진자수": 152,
-        "사망자수": 4,
+        "확진자수": 154,
+        "사망자수": 6,
         "완치자수": 50
     },
     {
@@ -948,9 +948,9 @@ var marker = [
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
-        "확진자수": 139,
-        "사망자수": 7,
-        "완치자수": 31
+        "확진자수": 141,
+        "사망자수": 8,
+        "완치자수": 43
     },
     {
         "Name": "Brunei",
@@ -1086,7 +1086,7 @@ var marker = [
         "Name_en": "Barbados",
         "확진자수": 63,
         "사망자수": 3,
-        "완치자수": 6
+        "완치자수": 8
     },
     {
         "Name": "Mali",
@@ -1185,6 +1185,14 @@ var marker = [
         "완치자수": 8
     },
     {
+        "Name": "Eritrea",
+        "Name_ch": "",
+        "Name_en": "Eritrea",
+        "확진자수": 33,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
@@ -1207,14 +1215,6 @@ var marker = [
         "확진자수": 31,
         "사망자수": 4,
         "완치자수": 3
-    },
-    {
-        "Name": "Eritrea",
-        "Name_ch": "",
-        "Name_en": "Eritrea",
-        "확진자수": 31,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Gabon",
@@ -1265,6 +1265,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+        "확진자수": 19,
+        "사망자수": 2,
+        "완치자수": 2
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
@@ -1278,7 +1286,7 @@ var marker = [
         "Name_en": "Syria",
         "확진자수": 19,
         "사망자수": 2,
-        "완치자수": 3
+        "완치자수": 4
     },
     {
         "Name": "Maldives",
@@ -1303,14 +1311,6 @@ var marker = [
         "확진자수": 18,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Angola",
-        "Name_ch": "",
-        "Name_en": "Angola",
-        "확진자수": 17,
-        "사망자수": 2,
-        "완치자수": 2
     },
     {
         "Name": "Mozambique",
@@ -1369,20 +1369,20 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "확진자수": 14,
+        "사망자수": 1,
+        "완치자수": 7
+    },
+    {
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
         "확진자수": 14,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "확진자수": 13,
-        "사망자수": 1,
-        "완치자수": 7
     },
     {
         "Name": "Somalia",
