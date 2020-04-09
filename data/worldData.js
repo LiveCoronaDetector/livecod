@@ -4,17 +4,17 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1510088,
-        "사망자수": 88335,
-        "완치자수": 329684
+        "확진자수": 1513243,
+        "사망자수": 88403,
+        "완치자수": 329731
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 427101,
-        "사망자수": 14668,
-        "완치자수": 22314
+        "확진자수": 430210,
+        "사망자수": 14736,
+        "완치자수": 22356
     },
     {
         "Name": "스페인",
@@ -729,20 +729,20 @@ var marker = [
         "완치자수": 67
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "확진자수": 362,
+        "사망자수": 0,
+        "완치자수": 40
+    },
+    {
         "Name": "요르단",
         "Name_ch": "",
         "Name_en": "Jordan",
         "확진자수": 358,
         "사망자수": 6,
         "완치자수": 150
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "확진자수": 358,
-        "사망자수": 0,
-        "완치자수": 40
     },
     {
         "Name": "Channel Islands",
@@ -777,20 +777,20 @@ var marker = [
         "완치자수": 6
     },
     {
+        "Name": "산마리노",
+        "Name_ch": "",
+        "Name_en": "San Marino",
+        "확진자수": 308,
+        "사망자수": 34,
+        "완치자수": 45
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
         "확진자수": 299,
         "사망자수": 1,
         "완치자수": 16
-    },
-    {
-        "Name": "산마리노",
-        "Name_ch": "",
-        "Name_en": "San Marino",
-        "확진자수": 279,
-        "사망자수": 34,
-        "완치자수": 40
     },
     {
         "Name": "나이지리아",
@@ -881,6 +881,14 @@ var marker = [
         "완치자수": 44
     },
     {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "확진자수": 184,
+        "사망자수": 2,
+        "완치자수": 22
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
@@ -903,14 +911,6 @@ var marker = [
         "확진자수": 179,
         "사망자수": 6,
         "완치자수": 9
-    },
-    {
-        "Name": "Mayotte",
-        "Name_ch": "",
-        "Name_en": "Mayotte",
-        "확진자수": 171,
-        "사망자수": 2,
-        "완치자수": 22
     },
     {
         "Name": "Venezuela",
