@@ -398,7 +398,7 @@ var crawlWorldCumulativeData = [
     ],
     [
         "3/28",
-        660706,
+        660693,
         30648,
         139413
     ],
@@ -410,7 +410,7 @@ var crawlWorldCumulativeData = [
     ],
     [
         "3/30",
-        782395,
+        782389,
         37578,
         164564
     ],
@@ -428,7 +428,7 @@ var crawlWorldCumulativeData = [
     ],
     [
         "4/2",
-        1013320,
+        1013466,
         52977,
         210253
     ],
@@ -440,7 +440,7 @@ var crawlWorldCumulativeData = [
     ],
     [
         "4/4",
-        1197405,
+        1197408,
         64599,
         246142
     ],
@@ -467,5 +467,11 @@ var crawlWorldCumulativeData = [
         1511104,
         88324,
         328632
+    ],
+    [
+        "4/9",
+        1595350,
+        95440,
+        353943
     ]
 ];
