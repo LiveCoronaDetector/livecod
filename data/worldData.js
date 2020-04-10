@@ -4,15 +4,15 @@ var marker = [
         "Name": "North America",
         "Name_ch": "",
         "Name_en": "North America",
-        "확진자수": 534973,
-        "사망자수": 19718,
-        "완치자수": 34234
+        "확진자수": 535391,
+        "사망자수": 19753,
+        "완치자수": 34376
     },
     {
         "Name": "Europe",
         "Name_ch": "",
         "Name_en": "Europe",
-        "확진자수": 820102,
+        "확진자수": 820104,
         "사망자수": 70094,
         "완치자수": 196782
     },
@@ -28,8 +28,8 @@ var marker = [
         "Name": "South America",
         "Name_ch": "",
         "Name_en": "South America",
-        "확진자수": 44821,
-        "사망자수": 1798,
+        "확진자수": 44976,
+        "사망자수": 1809,
         "완치자수": 4619
     },
     {
@@ -44,9 +44,9 @@ var marker = [
         "Name": "Africa",
         "Name_ch": "",
         "Name_en": "Africa",
-        "확진자수": 13490,
-        "사망자수": 695,
-        "완치자수": 2229
+        "확진자수": 13531,
+        "사망자수": 697,
+        "완치자수": 2234
     },
     {
         "Name": "",
@@ -60,16 +60,16 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1696244,
-        "사망자수": 102594,
-        "완치자수": 375958
+        "확진자수": 1696860,
+        "사망자수": 102642,
+        "완치자수": 376105
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 501272,
-        "사망자수": 18664,
+        "확진자수": 501648,
+        "사망자수": 18686,
         "완치자수": 27239
     },
     {
@@ -156,16 +156,16 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "",
         "Name_en": "Canada",
-        "확진자수": 22108,
-        "사망자수": 556,
-        "완치자수": 5871
+        "확진자수": 22148,
+        "사망자수": 569,
+        "완치자수": 6013
     },
     {
         "Name": "브라질",
         "Name_ch": "",
         "Name_en": "Brazil",
-        "확진자수": 19638,
-        "사망자수": 1057,
+        "확진자수": 19789,
+        "사망자수": 1068,
         "완치자수": 173
     },
     {
@@ -745,6 +745,14 @@ var marker = [
         "완치자수": 109
     },
     {
+        "Name": "Ivory Coast",
+        "Name_ch": "",
+        "Name_en": "Ivory Coast",
+        "확진자수": 480,
+        "사망자수": 3,
+        "완치자수": 54
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
@@ -753,20 +761,12 @@ var marker = [
         "완치자수": 206
     },
     {
-        "Name": "Ivory Coast",
-        "Name_ch": "",
-        "Name_en": "Ivory Coast",
-        "확진자수": 444,
-        "사망자수": 3,
-        "완치자수": 52
-    },
-    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "확진자수": 443,
-        "사망자수": 24,
-        "완치자수": 146
+        "확진자수": 448,
+        "사망자수": 26,
+        "완치자수": 149
     },
     {
         "Name": "Niger",
@@ -905,20 +905,20 @@ var marker = [
         "완치자수": 137
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "확진자수": 257,
+        "사망자수": 2,
+        "완치자수": 4
+    },
+    {
         "Name": "베트남",
         "Name_ch": "",
         "Name_en": "Vietnam",
         "확진자수": 257,
         "사망자수": 0,
         "완치자수": 144
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "확진자수": 255,
-        "사망자수": 2,
-        "완치자수": 4
     },
     {
         "Name": "조지아",
@@ -988,7 +988,7 @@ var marker = [
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 171,
+        "확진자수": 175,
         "사망자수": 9,
         "완치자수": 84
     },
@@ -1321,6 +1321,14 @@ var marker = [
         "완치자수": 8
     },
     {
+        "Name": "Antigua and Barbuda",
+        "Name_ch": "",
+        "Name_en": "Antigua and Barbuda",
+        "확진자수": 21,
+        "사망자수": 2,
+        "완치자수": 0
+    },
+    {
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
@@ -1343,14 +1351,6 @@ var marker = [
         "확진자수": 19,
         "사망자수": 2,
         "완치자수": 2
-    },
-    {
-        "Name": "Antigua and Barbuda",
-        "Name_ch": "",
-        "Name_en": "Antigua and Barbuda",
-        "확진자수": 19,
-        "사망자수": 2,
-        "완치자수": 0
     },
     {
         "Name": "Syria",
