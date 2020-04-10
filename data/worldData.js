@@ -4,25 +4,25 @@ var marker = [
         "Name": "North America",
         "Name_ch": "",
         "Name_en": "North America",
-        "확진자수": 500879,
+        "확진자수": 500901,
         "사망자수": 17694,
-        "완치자수": 32298
+        "완치자수": 32299
     },
     {
         "Name": "Europe",
         "Name_ch": "",
         "Name_en": "Europe",
-        "확진자수": 778896,
-        "사망자수": 65818,
-        "완치자수": 185320
+        "확진자수": 779112,
+        "사망자수": 65829,
+        "완치자수": 185342
     },
     {
         "Name": "Asia",
         "Name_ch": "",
         "Name_en": "Asia",
-        "확진자수": 264372,
-        "사망자수": 9905,
-        "완치자수": 129248
+        "확진자수": 264444,
+        "사망자수": 9906,
+        "완치자수": 129477
     },
     {
         "Name": "South America",
@@ -60,15 +60,15 @@ var marker = [
         "Name": "World",
         "Name_ch": "",
         "Name_en": "World",
-        "확진자수": 1604967,
-        "사망자수": 95739,
-        "완치자수": 356673
+        "확진자수": 1605277,
+        "사망자수": 95751,
+        "완치자수": 356925
     },
     {
         "Name": "미국",
         "Name_ch": "",
         "Name_en": "United States",
-        "확진자수": 468887,
+        "확진자수": 468895,
         "사망자수": 16697,
         "완치자수": 25928
     },
@@ -212,8 +212,8 @@ var marker = [
         "Name": "인도",
         "Name_ch": "",
         "Name_en": "India",
-        "확진자수": 6742,
-        "사망자수": 227,
+        "확진자수": 6771,
+        "사망자수": 228,
         "완치자수": 635
     },
     {
@@ -310,7 +310,7 @@ var marker = [
         "Name_en": "Pakistan",
         "확진자수": 4601,
         "사망자수": 66,
-        "완치자수": 572
+        "완치자수": 727
     },
     {
         "Name": "말레이시아",
@@ -398,7 +398,7 @@ var marker = [
         "Name_en": "Thailand",
         "확진자수": 2473,
         "사망자수": 33,
-        "완치자수": 940
+        "완치자수": 1013
     },
     {
         "Name": "카타르",
@@ -545,6 +545,14 @@ var marker = [
         "완치자수": 83
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "",
+        "Name_en": "Hungary",
+        "확진자수": 1190,
+        "사망자수": 77,
+        "완치자수": 112
+    },
+    {
         "Name": "슬로베니아",
         "Name_ch": "",
         "Name_en": "Slovenia",
@@ -559,14 +567,6 @@ var marker = [
         "확진자수": 999,
         "사망자수": 16,
         "완치자수": 8
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "",
-        "Name_en": "Hungary",
-        "확진자수": 980,
-        "사망자수": 66,
-        "완치자수": 96
     },
     {
         "Name": "홍콩",
@@ -668,9 +668,17 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 618,
+        "확진자수": 624,
         "사망자수": 24,
-        "완치자수": 48
+        "완치자수": 54
+    },
+    {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 624,
+        "사망자수": 3,
+        "완치자수": 38
     },
     {
         "Name": "라트비아",
@@ -695,14 +703,6 @@ var marker = [
         "확진자수": 582,
         "사망자수": 19,
         "완치자수": 67
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 582,
-        "사망자수": 3,
-        "완치자수": 38
     },
     {
         "Name": "Cyprus",
@@ -1057,6 +1057,14 @@ var marker = [
         "완치자수": 72
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 117,
+        "사망자수": 6,
+        "완치자수": 15
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
@@ -1071,14 +1079,6 @@ var marker = [
         "확진자수": 109,
         "사망자수": 8,
         "완치자수": 1
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 103,
-        "사망자수": 6,
-        "완치자수": 14
     },
     {
         "Name": "Madagascar",
@@ -1721,17 +1721,17 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Saint Pierre Miquelon",
-        "Name_ch": "",
-        "Name_en": "Saint Pierre Miquelon",
-        "확진자수": 1,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
         "Name": "Timor-Leste",
         "Name_ch": "",
         "Name_en": "Timor-Leste",
+        "확진자수": 2,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
+        "Name": "Saint Pierre Miquelon",
+        "Name_ch": "",
+        "Name_en": "Saint Pierre Miquelon",
         "확진자수": 1,
         "사망자수": 0,
         "완치자수": 0
