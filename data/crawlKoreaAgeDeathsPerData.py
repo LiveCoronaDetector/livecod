@@ -45,6 +45,6 @@ if __name__ == '__main__':
     print("#####################################")
     print("############ 한국 나이별 치명율 데이터 #############")
     print("######## koreaAgeStatusData.js #########")
-    run("http://ncov.mohw.go.kr/bdBoardList_Real.do")
+    run("http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=")
     print("############### 완료!! ###############")
     print("#####################################")
