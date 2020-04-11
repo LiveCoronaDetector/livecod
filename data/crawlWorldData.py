@@ -1,142 +1,93 @@
-import requests
-import re
-from bs4 import BeautifulSoup
-import json
-from previousWorldData import previous_data
-import os
+"""아래 사이트에서 세계 데이터 수집
 
-# 대륙이름 삭제 
+https://www.worldometers.info/coronavirus/
+"""
+
+import json
+import requests
+from bs4 import BeautifulSoup
+from data.previousWorldData import previous_data
+
+
 def remove_continent(lst_of_dic, continent):
-    lst_of_dic = list(filter(lambda x: x['Name']!= continent, lst_of_dic))
+    """대륙 이름 삭제
+
+    Args:
+        lst_of_dic:
+        continent:
+
+    Returns:
+
+    """
+    lst_of_dic = list(filter(lambda x: x['Name'] != continent, lst_of_dic))
     return lst_of_dic
 
-# 세계 데이터 크롤링 함수
-def get_data(datas):
 
+def preprocess_text(num_text):
+    """데이터를 저장하기 전 필요한 전처리 실행
+
+    Args:
+        num_text: 크롤링한 string 숫자 데이터
+
+    Returns:
+        전처리가 끝난 int 숫자 데이터
+    """
+    new_text = num_text.strip().replace(',', '')
+    if not new_text:
+        return 0
+    return int(new_text)
+
+
+def get_data(data):
+    """데이터 수집 (크롤링 실행되는 함수)
+
+    Args:
+        data: worldometers에서 table의 row list
+
+    Returns:
+        (list) 새로 크롤링한 데이터  [{나라1}, {나라2}, ...]
+    """
     world_confirmed = []
 
-    for d in datas:
-        country = d.find_all('td')[0].text
-        if country.strip() == 'S. Korea':
+    for datum in data:
+        datum_values = datum.find_all("td")
+        country = datum_values[0].text
+        if country.strip() in ['S. Korea', 'Total:']:
+            print("skip [ {} ]".format(country))
             continue
-        confirmed = d.find_all('td')[1].text
-        deaths = d.find_all('td')[3].text
-        recovered = d.find_all('td')[5].text
+        confirmed = datum_values[1].text
+        deaths = datum_values[3].text
+        recovered = datum_values[5].text
 
         # test code : print("strip data : \t",country\t, confirmed\t, deaths\t, recovered)
 
         country_kr = ''
-        country_cn = ''
+        country_ch = ''
 
         for value in previous_data:
             if value['Name_en'] == country.strip():
                 country_kr = value['Name']
-                name_ch = value['Name_ch']
+                country_ch = value['Name_ch']
 
-        #지도 SVG 이름 동기화(아래 USA는 크롤링된 영어이름)
+        # 지도 SVG 이름 동기화 ('USA'는 크롤링된 영어 이름)
         if country.strip() == 'USA':
-            #여기에 SVG파일에 있는 국가명으로 변경
             country = 'United States'
 
-        #잘못된 영어이름 수정
-        if country.strip() == 'USA':
-            #여기에 SVG파일에 있는 국가명으로 변경
-            country = 'United States'
-
-        if country.strip() == 'Total:':
-          print("Skipping total")
-          continue
-
-        #한국어 이름이 필드에 없을 경우 영어이름 삽입
+        # 한국어 이름이 필드에 없을 경우 영어 이름 삽입
         if country_kr == '':
             country_kr = country.strip()
 
         world_confirmed.append({
-            'Name' : country_kr,
-            'Name_ch' : country_cn,
-            'Name_en' : country.strip(),
-            '확진자수' : int(0 if confirmed.strip().replace(',', '') == "" else confirmed.strip().replace(',', '')),
-            '사망자수' : int(0 if deaths.strip().replace(',', '') == "" else deaths.strip().replace(',', '')),
-            '완치자수' : int(0 if recovered.strip().replace(',', '') == "" else recovered.strip().replace(',', '')),
+            'Name': country_kr,
+            'Name_ch': country_ch,
+            'Name_en': country.strip(),
+            '확진자수': preprocess_text(confirmed),
+            '사망자수': preprocess_text(deaths),
+            '완치자수': preprocess_text(recovered)
+
         })
 
-    #대륙이름 필터링  
-    world_confirmed = remove_continent(world_confirmed, 'North America')
-    world_confirmed = remove_continent(world_confirmed, 'Europe')
-    world_confirmed = remove_continent(world_confirmed, 'Asia')
-    world_confirmed = remove_continent(world_confirmed, 'South America')
-    world_confirmed = remove_continent(world_confirmed, 'Oceania')
-    world_confirmed = remove_continent(world_confirmed, 'Africa')
-    world_confirmed = remove_continent(world_confirmed, 'World')
-  
-
-    return world_confirmed
-
-# 받아온 세계 현황 js로 내보내는 함수
-
-import requests
-import re
-from bs4 import BeautifulSoup
-import json
-from previousWorldData import previous_data
-import os
-
-# 대륙이름 삭제 
-def remove_continent(lst_of_dic, continent):
-    lst_of_dic = list(filter(lambda x: x['Name']!= continent, lst_of_dic))
-    return lst_of_dic
-
-# 세계 데이터 크롤링 함수
-def get_data(datas):
-
-    world_confirmed = []
-
-    for d in datas:
-        country = d.find_all('td')[0].text
-        if country.strip() == 'S. Korea':
-            continue
-        confirmed = d.find_all('td')[1].text
-        deaths = d.find_all('td')[3].text
-        recovered = d.find_all('td')[5].text
-
-        # test code : print("strip data : \t",country\t, confirmed\t, deaths\t, recovered)
-
-        country_kr = ''
-        country_cn = ''
-
-        for value in previous_data:
-            if value['Name_en'] == country.strip():
-                country_kr = value['Name']
-                name_ch = value['Name_ch']
-
-        #지도 SVG 이름 동기화(아래 USA는 크롤링된 영어이름)
-        if country.strip() == 'USA':
-            #여기에 SVG파일에 있는 국가명으로 변경
-            country = 'United States'
-
-        #잘못된 영어이름 수정
-        if country.strip() == 'USA':
-            #여기에 SVG파일에 있는 국가명으로 변경
-            country = 'United States'
-
-        if country.strip() == 'Total:':
-          print("Skipping total")
-          continue
-
-        #한국어 이름이 필드에 없을 경우 영어이름 삽입
-        if country_kr == '':
-            country_kr = country.strip()
-
-        world_confirmed.append({
-            'Name' : country_kr,
-            'Name_ch' : country_cn,
-            'Name_en' : country.strip(),
-            '확진자수' : int(0 if confirmed.strip().replace(',', '') == "" else confirmed.strip().replace(',', '')),
-            '사망자수' : int(0 if deaths.strip().replace(',', '') == "" else deaths.strip().replace(',', '')),
-            '완치자수' : int(0 if recovered.strip().replace(',', '') == "" else recovered.strip().replace(',', '')),
-        })
-
-    #대륙이름 필터링  
+    # 대륙 이름 필터링
     world_confirmed = remove_continent(world_confirmed, 'North America')
     world_confirmed = remove_continent(world_confirmed, 'Europe')
     world_confirmed = remove_continent(world_confirmed, 'Asia')
@@ -148,29 +99,45 @@ def get_data(datas):
 
     return world_confirmed
 
-# 받아온 세계 현황 js로 내보내는 함수
 
 def write_data(world_confirmed):
-    # cur_path = os.getcwd()       # test code for Windows
+    """크롤링한 데이터 저장
 
-    with open("./data/worldData.js", "w", encoding='UTF-8-sig') as json_file:
-    # with open(cur_path+"\worldData.js", "w", encoding='UTF-8-sig') as json_file:      # test code for Windows
-        json.dump(world_confirmed, json_file, ensure_ascii=False, indent=4)
+    Args:
+        world_confirmed: 크롤링한 데이터
+    """
+    # cur_path = os.getcwd()  # test code for Windows
+
+    # with open(cur_path+"\worldData.js", "w", encoding='UTF-8-sig') as jfile:  # test code for Windows
+    with open("./worldData.js", "w", encoding='UTF-8-sig') as jfile:
+        json.dump(world_confirmed, jfile, ensure_ascii=False, indent=4)
         # file.write(json.dumps(dict, ensure_ascii=False))
 
     data = ''
 
-    with open("./data/worldData.js", "r", encoding='UTF-8-sig') as f:
-    # with open(cur_path+"\worldData.js", "r", encoding='UTF-8-sig') as f:      # test code for Windows
+    # with open(cur_path+"\worldData.js", "r", encoding='UTF-8-sig') as f:  # test code for Windows
+    with open("./worldData.js", "r", encoding='UTF-8-sig') as f:
         while True:
             line = f.readline()
-            if not line: break
+            if not line:
+                break
             data += line
     data = '//Auto-generated by crawlWorldData.py\nvar marker = ' + data + ';'
 
-    with open("./data/worldData.js", "w", encoding='UTF-8-sig') as f_write:
-    # with open(cur_path+"\worldData.js", "w", encoding='UTF-8-sig') as f_write:        # test code for Windows
+    # with open(cur_path+"\worldData.js", "w", encoding='UTF-8-sig') as f_write:  # test code for Windows
+    with open("./worldData.js", "w", encoding='UTF-8-sig') as f_write:
         f_write.write(data)
+
+
+def run():
+    """전체 프로세스 실행"""
+    url = "https://www.worldometers.info/coronavirus/"
+    html = requests.get(url).text
+    soup = BeautifulSoup(html, "html.parser")
+    data = soup.select("#main_table_countries_today > tbody > tr")
+
+    world_confirmed = get_data(data)
+    write_data(world_confirmed)
 
 
 if __name__ == "__main__":
@@ -178,12 +145,7 @@ if __name__ == "__main__":
     print("############ 세계 데이터 #############")
     print("######## worldData.js #########")
 
-    html = requests.get("https://www.worldometers.info/coronavirus/").text
-    soup = BeautifulSoup(html, 'html.parser')
-    datas = soup.select('#main_table_countries_today > tbody > tr')
-
-    world_confirmed = get_data(datas)
-    write_data(world_confirmed)
+    run()
 
     print("############### 완료!! ###############")
     print("#####################################")
