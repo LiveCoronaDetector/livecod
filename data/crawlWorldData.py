@@ -68,7 +68,7 @@ def get_data(datas):
     world_confirmed = remove_continent(world_confirmed, 'Oceania')
     world_confirmed = remove_continent(world_confirmed, 'Africa')
     world_confirmed = remove_continent(world_confirmed, 'World')
-    world_confirmed = remove_continent(world_confirmed, '')
+  
 
     return world_confirmed
 
