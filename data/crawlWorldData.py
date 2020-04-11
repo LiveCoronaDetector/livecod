@@ -107,7 +107,7 @@ def write_data(world_confirmed):
         world_confirmed: 크롤링한 데이터
     """
     # cur_path = os.getcwd()  # test code for Windows
-
+    #./data/
     # with open(cur_path+"\worldData.js", "w", encoding='UTF-8-sig') as jfile:  # test code for Windows
     with open("./data/worldData.js", "w", encoding='UTF-8-sig') as jfile:
         json.dump(world_confirmed, jfile, ensure_ascii=False, indent=4)
