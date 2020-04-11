@@ -26,7 +26,7 @@ def run(url):
     ageDeathsPer = get_data(url)
 
     with open("./data/koreaAgeDeathsPerData.js", "w", encoding='UTF-8-sig') as json_file:
-    json.dump(ageDeathsPer, json_file, ensure_ascii=False, indent=4)
+        json.dump(ageDeathsPer, json_file, ensure_ascii=False, indent=4)
 
     data = ''
     with open("./data/koreaAgeDeathsPerData.js", "r", encoding='UTF-8-sig') as f:
