@@ -190,8 +190,8 @@ def run():
     world_confirmed = get_world_data()
     perday_data = get_perday_data()
 
-    write_data(world_confirmed, "./worldData.js")
-    write_data(perday_data, "./worldPerDayData.js")
+    write_data(world_confirmed, "./data/worldData.js")
+    write_data(perday_data, "./data/worldPerDayData.js")
 
 if __name__ == "__main__":
     print("#####################################")
