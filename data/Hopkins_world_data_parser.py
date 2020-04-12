@@ -1,7 +1,9 @@
-import requests
-import re
-import json
 import csv
+import json
+import re
+
+import requests
+
 import numpy as np
 import pandas as pd
 

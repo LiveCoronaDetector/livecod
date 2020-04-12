@@ -1,6 +1,8 @@
 import json
 import re
+
 import requests
+
 from bs4 import BeautifulSoup
 
 
@@ -22,8 +24,8 @@ def get_data(url):
     return ageDeathsPer
 
 
-def run(url):
-    ageDeathsPer = get_data(url)
+def run():
+    ageDeathsPer = get_data("http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=")
 
     with open("./data/koreaAgeDeathsPerData.js", "w", encoding='UTF-8-sig') as json_file:
         json.dump(ageDeathsPer, json_file, ensure_ascii=False, indent=4)
@@ -45,6 +47,6 @@ if __name__ == '__main__':
     print("#####################################")
     print("############ 한국 나이별 치명율 데이터 #############")
     print("######## koreaAgeStatusData.js #########")
-    run("http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=")
+    run()
     print("############### 완료!! ###############")
     print("#####################################")
