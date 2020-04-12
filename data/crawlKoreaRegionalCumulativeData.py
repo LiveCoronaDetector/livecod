@@ -5,7 +5,7 @@ import re
 import requests
 
 from bs4 import BeautifulSoup
-from data.utils import write_data
+from data.utils import get_raw_data, write_data
 
 
 def extract_data(total_data):
