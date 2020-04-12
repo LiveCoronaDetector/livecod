@@ -300,8 +300,8 @@ var marker = [
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "확진자수": 3380,
-        "사망자수": 74,
+        "확진자수": 3630,
+        "사망자수": 80,
         "완치자수": 118
     },
     {
@@ -428,9 +428,9 @@ var marker = [
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "확진자수": 1689,
+        "확진자수": 1701,
         "사망자수": 8,
-        "완치자수": 841
+        "완치자수": 889
     },
     {
         "Name": "모로코",
@@ -556,7 +556,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 897,
+        "확진자수": 911,
         "사망자수": 10,
         "완치자수": 86
     },
@@ -566,7 +566,7 @@ var marker = [
         "Name_en": "Uzbekistan",
         "확진자수": 833,
         "사망자수": 4,
-        "완치자수": 42
+        "완치자수": 65
     },
     {
         "Name": "North Macedonia",
@@ -625,20 +625,20 @@ var marker = [
         "완치자수": 16
     },
     {
+        "Name": "안도라",
+        "Name_ch": "安道尔",
+        "Name_en": "Andorra",
+        "확진자수": 638,
+        "사망자수": 29,
+        "완치자수": 128
+    },
+    {
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
         "확진자수": 630,
         "사망자수": 20,
         "완치자수": 77
-    },
-    {
-        "Name": "안도라",
-        "Name_ch": "安道尔",
-        "Name_en": "Andorra",
-        "확진자수": 622,
-        "사망자수": 28,
-        "완치자수": 71
     },
     {
         "Name": "Bangladesh",
@@ -889,6 +889,14 @@ var marker = [
         "완치자수": 112
     },
     {
+        "Name": "Djibouti",
+        "Name_ch": "",
+        "Name_en": "Djibouti",
+        "확진자수": 214,
+        "사망자수": 2,
+        "완치자수": 36
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
@@ -911,14 +919,6 @@ var marker = [
         "확진자수": 196,
         "사망자수": 3,
         "완치자수": 59
-    },
-    {
-        "Name": "Djibouti",
-        "Name_ch": "",
-        "Name_en": "Djibouti",
-        "확진자수": 187,
-        "사망자수": 2,
-        "완치자수": 36
     },
     {
         "Name": "Faeroe Islands",
