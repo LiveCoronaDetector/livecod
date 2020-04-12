@@ -1,4 +1,6 @@
 (function() {
+  let clicked_btn = false; // 버튼 중복 클릭 방지
+
   const recoverTime = 8; // 감염 후 완치까지 걸리는 시간(초)
   const totalCount = 200; // 전체 사람 수
   const stop_ratio = 0.6; // 멈춰있는 비율
@@ -341,7 +343,19 @@
     if (stop) {
       cancelAnimationFrame(rafId);
       canvasContainer.classList.add("stop");
+      clicked_btn = false;
     }
   }
-  simulationBtn_80.addEventListener("click", init);
+
+  function chk_btn_click(){
+    if(clicked_btn == true){
+        return;
+    }
+    else{
+        clicked_btn = true;
+        init();
+    }
+  }
+
+  simulationBtn_80.addEventListener("click", chk_btn_click);
 })();
