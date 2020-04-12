@@ -1,77 +1,74 @@
 import json
+import urllib.request
 from datetime import date
+from urllib.request import urlopen
+
+import pandas as pd
+from bs4 import BeautifulSoup
+from utils import write_data
+
+
+def get_past_data():
+    data = ''
+    switch = True
+
+    with open('./data/koreaTotalCumulativeData.js', 'r', encoding='UTF-8-sig') as f:
+        while True:
+            if switch:
+                data += f.readline()[34:]
+                switch = False
+            if not line:
+                break
+            data += f.readline()
+
+    past_data = json.loads(data.replace('\n', '').replace('\t', ''))
+
+    return past_data
+
+
+def get_today_data(url, data):
+    today = date.today()
+    day = today.strftime(f"{today.month}/{today.day}")
+
+    if data[-1][0] != day:
+        html = urlopen(url)
+        source = html.read()
+        html.close()
+
+        soup = BeautifulSoup(source, 'lxml')
+        tables = soup.find("div", class_="data_table mgt16").find_all("td")
+
+        num = [element.get_text() for element in tables]
+
+        before_tot = data[-1][1]
+        today_tot = int(num[0].replace(',', ''))
+        diff = today_tot - before_tot
+        death = int(num[3])
+        release = int(num[1].replace(',', ''))
+
+        data.append([day, today_tot, diff, death, release])
+
+    return data
+
+
+def run():
+    url = "http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun="
+
+    past_data = get_past_data()
+    data = get_today_data(url, past_data)
+
+    save_dir = './data/koreaTotalCumulativeData.js'
+    crawler_name = 'crawlKoreaTotalCumulativeData.py'
+    var_name = 'koreaRegionalCumulativeData'
+
+    write_data(data, save_dir, crawler_name, var_name)
+
 
 print("#####################################")
 print("############ 한국 누적 데이터 #############")
 print("######## crawlTotalCumulativeData.py #########")
 
-import json
-from datetime import date
-
-data = ''
-switch = True
-with open('./data/koreaTotalCumulativeData.js', 'r', encoding='UTF-8-sig') as f:
-    while True:
-        if switch == True:
-            line = f.readline()[34:]
-            data += line
-            switch = False
-        if not line: break
-        line = f.readline()
-        data += line
-
-data = json.loads(data.replace('\n', '').replace('\t', ''))
-
-today = date.today()
-day = today.strftime(f"{today.month}/{today.day}")
-
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
-import urllib.request
-import pandas as pd
-
-html = urlopen("http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=")
-source = html.read()
-html.close()
-
-soup = BeautifulSoup(source, 'lxml')
-table = soup.find("div", class_ = "data_table mgt16")
-tables2 = table.find_all("td")
-
-num=[]
-for i in range(0, len(tables2)) :
-    a = tables2[i].get_text()
-    num.append(a)
-
-before_tot = data[len(data)-1][1]
-today_tot = int(num[0].replace(',',''))
-diff=today_tot - before_tot
-death = int(num[3])
-release = int(num[1].replace(',',''))
-
-now = []
-now.append(day)
-now.append(today_tot)
-now.append(diff)
-now.append(death)
-now.append(release)
-
-if data[len(data)-1][0] != day :
-    data.append(now)
-
-    with open('./data/koreaTotalCumulativeData.js', 'w', encoding='utf-8') as make_file:
-        json.dump(data, make_file, indent="\t")
-
-    data = ''
-    with open("./data/koreaTotalCumulativeData.js", "r", encoding='UTF-8-sig') as f:
-        while True:
-            line = f.readline()
-            if not line: break
-            data += line
-    data = 'var koreaRegionalCumulativeData = ' + data
-
-    with open("./data/koreaTotalCumulativeData.js", "w", encoding='UTF-8-sig') as f_write:
-        f_write.write(data)
+run()
 
 print("############### 완료!! ###############")
 print("#####################################")
