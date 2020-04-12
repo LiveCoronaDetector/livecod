@@ -1,10 +1,9 @@
-import json
 import re
 
 import requests
 
 from bs4 import BeautifulSoup
-from .utils import write_data
+from data.utils import write_data
 
 
 def get_data(url):

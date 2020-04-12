@@ -5,18 +5,7 @@ import re
 import requests
 
 from bs4 import BeautifulSoup
-
-from .utils import write_data
-
-
-def get_raw_data(url):
-    with requests.Session() as s:
-        download = s.get(url)
-        decoded_content = download.content.decode('utf-8')
-        cr = csv.reader(decoded_content.splitlines(), delimiter=',')
-        my_list = list(cr)
-        total_data = [row for row in my_list]
-        return total_data
+from data.utils import get_raw_data, write_data
 
 
 def extract_data(total_data):
