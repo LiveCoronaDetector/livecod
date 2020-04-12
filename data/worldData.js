@@ -36,8 +36,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 126656,
-        "사망자수": 2908,
+        "확진자수": 126921,
+        "사망자수": 2945,
         "완치자수": 60300
     },
     {
@@ -92,7 +92,7 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 24283,
+        "확진자수": 24292,
         "사망자수": 713,
         "완치자수": 7106
     },
@@ -157,8 +157,8 @@ var marker = [
         "Name_ch": "印度",
         "Name_en": "India",
         "확진자수": 9205,
-        "사망자수": 325,
-        "완치자수": 1061
+        "사망자수": 331,
+        "완치자수": 1080
     },
     {
         "Name": "에콰도르",
@@ -564,7 +564,7 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 833,
+        "확진자수": 865,
         "사망자수": 4,
         "완치자수": 65
     },
@@ -692,9 +692,9 @@ var marker = [
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "확진자수": 533,
-        "사망자수": 4,
-        "완치자수": 58
+        "확진자수": 574,
+        "사망자수": 5,
+        "완치자수": 85
     },
     {
         "Name": "Uruguay",
@@ -729,20 +729,20 @@ var marker = [
         "완치자수": 217
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "확진자수": 431,
+        "사망자수": 9,
+        "완치자수": 48
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
         "확진자수": 408,
         "사망자수": 8,
         "완치자수": 4
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "확진자수": 407,
-        "사망자수": 9,
-        "완치자수": 48
     },
     {
         "Name": "Honduras",
@@ -828,7 +828,7 @@ var marker = [
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "확진자수": 288,
+        "확진자수": 290,
         "사망자수": 2,
         "완치자수": 58
     },
@@ -1105,6 +1105,14 @@ var marker = [
         "완치자수": 5
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "확진자수": 54,
+        "사망자수": 0,
+        "완치자수": 4
+    },
+    {
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
@@ -1113,18 +1121,10 @@ var marker = [
         "완치자수": 6
     },
     {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "확진자수": 53,
-        "사망자수": 0,
-        "완치자수": 4
-    },
-    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
-        "확진자수": 51,
+        "확진자수": 53,
         "사망자수": 0,
         "완치자수": 0
     },
