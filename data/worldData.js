@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 533115,
-        "사망자수": 20580,
-        "완치자수": 30502
+        "확진자수": 533470,
+        "사망자수": 20595,
+        "완치자수": 30523
     },
     {
         "Name": "스페인",
@@ -197,7 +197,7 @@ var marker = [
         "Name_ch": "挪威",
         "Name_en": "Norway",
         "확진자수": 6459,
-        "사망자수": 123,
+        "사망자수": 124,
         "완치자수": 32
     },
     {
@@ -453,8 +453,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Moldova",
         "확진자수": 1560,
-        "사망자수": 30,
-        "완치자수": 75
+        "사망자수": 31,
+        "완치자수": 94
     },
     {
         "Name": "헝가리",
@@ -548,7 +548,7 @@ var marker = [
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 986,
+        "확진자수": 1000,
         "사망자수": 38,
         "완치자수": 193
     },
@@ -558,7 +558,7 @@ var marker = [
         "Name_en": "Kazakhstan",
         "확진자수": 911,
         "사망자수": 10,
-        "완치자수": 86
+        "완치자수": 99
     },
     {
         "Name": "Uzbekistan",
@@ -845,7 +845,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Montenegro",
         "확진자수": 267,
-        "사망자수": 2,
+        "사망자수": 3,
         "완치자수": 5
     },
     {
@@ -1329,6 +1329,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Chad",
+        "Name_ch": "",
+        "Name_en": "Chad",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1417,19 +1425,19 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Malawi",
+        "Name_ch": "",
+        "Name_en": "Malawi",
+        "확진자수": 13,
+        "사망자수": 2,
+        "완치자수": 0
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "확진자수": 13,
         "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "Malawi",
-        "Name_ch": "",
-        "Name_en": "Malawi",
-        "확진자수": 12,
-        "사망자수": 2,
         "완치자수": 0
     },
     {
@@ -1455,14 +1463,6 @@ var marker = [
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Chad",
-        "Name_ch": "",
-        "Name_en": "Chad",
-        "확진자수": 11,
-        "사망자수": 0,
-        "완치자수": 2
     },
     {
         "Name": "Greenland",
