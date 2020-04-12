@@ -329,6 +329,14 @@ var marker = [
         "완치자수": 300
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "확진자수": 2777,
+        "사망자수": 83,
+        "완치자수": 89
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
@@ -359,14 +367,6 @@ var marker = [
         "확진자수": 2551,
         "사망자수": 38,
         "완치자수": 1218
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "확진자수": 2511,
-        "사망자수": 73,
-        "완치자수": 79
     },
     {
         "Name": "싱가포르",
@@ -613,7 +613,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Bulgaria",
         "확진자수": 669,
-        "사망자수": 28,
+        "사망자수": 29,
         "완치자수": 68
     },
     {
@@ -657,6 +657,14 @@ var marker = [
         "완치자수": 71
     },
     {
+        "Name": "오만",
+        "Name_ch": "阿曼",
+        "Name_en": "Oman",
+        "확진자수": 599,
+        "사망자수": 3,
+        "완치자수": 109
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
@@ -671,14 +679,6 @@ var marker = [
         "확진자수": 555,
         "사망자수": 18,
         "완치자수": 32
-    },
-    {
-        "Name": "오만",
-        "Name_ch": "阿曼",
-        "Name_en": "Oman",
-        "확진자수": 546,
-        "사망자수": 3,
-        "완치자수": 109
     },
     {
         "Name": "Ivory Coast",
@@ -857,20 +857,20 @@ var marker = [
         "완치자수": 144
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "확진자수": 252,
+        "사망자수": 3,
+        "완치자수": 60
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
         "확진자수": 250,
         "사망자수": 0,
         "완치자수": 17
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "확진자수": 242,
-        "사망자수": 3,
-        "완치자수": 60
     },
     {
         "Name": "Isle of Man",
@@ -988,9 +988,9 @@ var marker = [
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "확진자수": 124,
+        "확진자수": 125,
         "사망자수": 6,
-        "완치자수": 19
+        "완치자수": 21
     },
     {
         "Name": "캄보디아",
@@ -1374,7 +1374,7 @@ var marker = [
         "Name_en": "Saint Lucia",
         "확진자수": 15,
         "사망자수": 0,
-        "완치자수": 1
+        "완치자수": 4
     },
     {
         "Name": "Zimbabwe",
