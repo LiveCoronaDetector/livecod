@@ -59,6 +59,11 @@ def run():
     write_data(result, save_dir, crawler_name, var_name)
 
 
+print("#####################################")
+print("############ 한국 지역별 누적 데이터 #############")
+print("######## koreaRegionalCumulativeData.js #########")
+
 run()
+
 print("############### 완료!! ###############")
 print("#####################################")
