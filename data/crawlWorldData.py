@@ -5,7 +5,6 @@ https://www.worldometers.info/coronavirus/
 
 
 import ast
-import json
 import re
 
 import requests
