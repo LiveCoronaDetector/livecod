@@ -5,7 +5,7 @@ import re
 import requests
 
 from bs4 import BeautifulSoup
-from data.utils import get_raw_data, write_data
+from utils import get_raw_data, write_data
 
 
 def extract_data(total_data):
@@ -59,7 +59,6 @@ def run():
     write_data(result, save_dir, crawler_name, var_name)
 
 
-if __name__ == '__main__':
-    run()
-    print("############### 완료!! ###############")
-    print("#####################################")
+run()
+print("############### 완료!! ###############")
+print("#####################################")

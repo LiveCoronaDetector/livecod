@@ -3,7 +3,7 @@ import re
 import requests
 
 from bs4 import BeautifulSoup
-from data.utils import write_data
+from utils import write_data
 
 
 def get_data(url):
@@ -34,13 +34,11 @@ def run():
 
     write_data(ageDeathsPer, save_dir, crawler_name, var_name)
 
+print("#####################################")
+print("############ 한국 나이별 치명율 데이터 #############")
+print("######## koreaAgeStatusData.js #########")
 
-if __name__ == '__main__':
-    print("#####################################")
-    print("############ 한국 나이별 치명율 데이터 #############")
-    print("######## koreaAgeStatusData.js #########")
+run()
 
-    run()
-
-    print("############### 완료!! ###############")
-    print("#####################################")
+print("############### 완료!! ###############")
+print("#####################################")

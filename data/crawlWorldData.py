@@ -10,8 +10,8 @@ import re
 import requests
 
 from bs4 import BeautifulSoup
-from data.previousWorldData import previous_data
-from data.utils import write_data
+from previousWorldData import previous_data
+from utils import write_data
 
 URL = "https://www.worldometers.info/coronavirus/"
 TOP_NUM = 5  # 수집할 상위 국가 수
@@ -173,12 +173,11 @@ def run():
     write_data(perday_data, perday_save_dir, crawler_name, var_name)
 
 
-if __name__ == "__main__":
-    print("#####################################")
-    print("############ 세계 데이터 #############")
-    print("######## worldData.js #########")
+print("#####################################")
+print("############ 세계 데이터 #############")
+print("######## worldData.js #########")
 
-    run()
+run()
 
-    print("############### 완료!! ###############")
-    print("#####################################")
+print("############### 완료!! ###############")
+print("#####################################")
