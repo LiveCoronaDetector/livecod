@@ -11,10 +11,8 @@ import re
 import requests
 
 from bs4 import BeautifulSoup
-
-from .previousWorldData import previous_data
-from .utils import write_data
-
+from data.previousWorldData import previous_data
+from data.utils import write_data
 
 URL = "https://www.worldometers.info/coronavirus/"
 TOP_NUM = 5  # 수집할 상위 국가 수
