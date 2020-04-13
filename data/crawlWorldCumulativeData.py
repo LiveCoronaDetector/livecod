@@ -21,7 +21,7 @@ def run():
     deaths_result = build_dataframe(deaths_CSV_URL)
     recover_result = build_dataframe(recovered_CSV_URL)
 
-    resultData = list(zip(date, confirmed_result,
+    resultData = list(zip(dates, confirmed_result,
                           deaths_result, recover_result))
 
     save_dir = './data/worldCumulativeData.js'
