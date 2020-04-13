@@ -11,7 +11,7 @@ function number_format(number, decimals, dec_point, thousands_sep) {
     sep = (typeof thousands_sep === 'undefined') ? ',' : thousands_sep,
     dec = (typeof dec_point === 'undefined') ? '.' : dec_point,
     s = '',
-    toFixedFix = function(n, prec) {
+    toFixedFix = function (n, prec) {
       var k = Math.pow(10, prec);
       return '' + Math.round(n * k) / k;
     };
@@ -51,7 +51,7 @@ var myLineChart = new Chart(ctx, {
       lineTension: 0.3,
       backgroundColor: "rgba(78, 115, 223, .05)",
       borderColor: "rgba(78, 115, 223, 1)",
-      borderWidth:1,
+      borderWidth: 1,
       pointRadius: 3,
       pointBackgroundColor: "rgba(78, 115, 223, 1)",
       pointBorderColor: "rgba(78, 115, 223, 1)",
@@ -61,7 +61,7 @@ var myLineChart = new Chart(ctx, {
       pointHitRadius: 10,
       pointBorderWidth: 0,
       data: crawlWorldCumulativeData_confirmed_Array,
-    },{
+    }, {
       label: "사망자수 ",
       lineTension: 0.3,
       backgroundColor: "rgba(28, 200, 138, .05)",
@@ -69,14 +69,14 @@ var myLineChart = new Chart(ctx, {
       pointRadius: 3,
       pointBackgroundColor: "rgba(28, 200, 138, 1)",
       pointBorderColor: "rgba(28, 200, 138, 1)",
-      borderWidth:1,
+      borderWidth: 1,
       pointHoverRadius: 5,
       pointHoverBackgroundColor: "rgba(28, 200, 138, 1)",
       pointHoverBorderColor: "rgba(28, 200, 138, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 0,
       data: crawlWorldCumulativeData_deaths_Array,
-    },{
+    }, {
       label: "완치자수 ",
       lineTension: 0.3,
       backgroundColor: "rgba(54, 185, 204, .05)",
@@ -84,7 +84,7 @@ var myLineChart = new Chart(ctx, {
       pointRadius: 3,
       pointBackgroundColor: "rgba(54, 185, 204, 1)",
       pointBorderColor: "rgba(54, 185, 204, 1)",
-      borderWidth:1,
+      borderWidth: 1,
       pointHoverRadius: 5,
       pointHoverBackgroundColor: "rgba(54, 185, 204, 1)",
       pointHoverBorderColor: "rgba(54, 185, 204, 1)",
@@ -121,7 +121,7 @@ var myLineChart = new Chart(ctx, {
           maxTicksLimit: 5,
           padding: 10,
           // Include a dollar sign in the ticks
-          callback: function(value, index, values) {
+          callback: function (value, index, values) {
             return '' + number_format(value);
           }
         },
@@ -152,7 +152,7 @@ var myLineChart = new Chart(ctx, {
       mode: 'index',
       caretPadding: 10,
       callbacks: {
-        label: function(tooltipItem, chart) {
+        label: function (tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
           return datasetLabel + '' + number_format(tooltipItem.yLabel);
         }
@@ -175,7 +175,7 @@ var myLineChart = new Chart(ctx_two, {
       pointRadius: 3,
       pointBackgroundColor: "rgba(100, 115, 223, 1)",
       pointBorderColor: "rgba(111, 111, 111, 1)",
-      borderWidth:1,
+      borderWidth: 1,
       pointHoverRadius: 3,
       pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
@@ -212,7 +212,7 @@ var myLineChart = new Chart(ctx_two, {
           maxTicksLimit: 5,
           padding: 10,
           // Include a dollar sign in the ticks
-          callback: function(value, index, values) {
+          callback: function (value, index, values) {
             return '' + number_format(value);
           }
         },
@@ -243,7 +243,7 @@ var myLineChart = new Chart(ctx_two, {
       mode: 'index',
       caretPadding: 10,
       callbacks: {
-        label: function(tooltipItem, chart) {
+        label: function (tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
           return datasetLabel + '' + number_format(tooltipItem.yLabel);
         }
@@ -266,14 +266,14 @@ var myLineChart = new Chart(ctx_three, {
       pointRadius: 3,
       pointBackgroundColor: "rgba(78, 115, 223, 1)",
       pointBorderColor: "rgba(78, 115, 223, 1)",
-      borderWidth:1,
+      borderWidth: 1,
       pointHoverRadius: 5,
       pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 0,
       data: 입도객현황.내국인,
-    },{
+    }, {
       label: "외국인 ",
       lineTension: 0.3,
       backgroundColor: "rgba(28, 200, 138, 0.05)",
@@ -281,14 +281,14 @@ var myLineChart = new Chart(ctx_three, {
       pointRadius: 3,
       pointBackgroundColor: "rgba(28, 200, 138, 1)",
       pointBorderColor: "rgba(28, 200, 138, 1)",
-      borderWidth:1,
+      borderWidth: 1,
       pointHoverRadius: 5,
       pointHoverBackgroundColor: "rgba(28, 200, 138, 1)",
       pointHoverBorderColor: "rgba(28, 200, 138, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 0,
       data: 입도객현황.외국인,
-    },{
+    }, {
       label: "중국인 ",
       lineTension: 0.3,
       backgroundColor: "rgba(246, 194, 62, 0.05)",
@@ -296,7 +296,7 @@ var myLineChart = new Chart(ctx_three, {
       pointRadius: 3,
       pointBackgroundColor: "rgba(246, 194, 62, 1)",
       pointBorderColor: "rgba(246, 194, 62, 1)",
-      borderWidth:1,
+      borderWidth: 1,
       pointHoverRadius: 5,
       pointHoverBackgroundColor: "rgba(246, 194, 62, 1)",
       pointHoverBorderColor: "rgba(246, 194, 62, 1)",
@@ -333,7 +333,7 @@ var myLineChart = new Chart(ctx_three, {
           maxTicksLimit: 5,
           padding: 10,
           // Include a dollar sign in the ticks
-          callback: function(value, index, values) {
+          callback: function (value, index, values) {
             return '' + number_format(value);
           }
         },
@@ -364,7 +364,7 @@ var myLineChart = new Chart(ctx_three, {
       mode: 'index',
       caretPadding: 10,
       callbacks: {
-        label: function(tooltipItem, chart) {
+        label: function (tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
           return datasetLabel + '' + number_format(tooltipItem.yLabel);
         }
@@ -416,7 +416,7 @@ var myLineChart = new Chart(ctx_four, {
       pointHitRadius: 0,
       pointBorderWidth: 0,
       data: koreaRegionalCumulativeData_확진자_Array,
-    },{
+    }, {
       label: "전일대비 증가 ",
       lineTension: 0.3,
       backgroundColor: "rgba(28, 200, 138, 0.05)",
@@ -431,7 +431,7 @@ var myLineChart = new Chart(ctx_four, {
       pointHitRadius: 0,
       pointBorderWidth: 0,
       data: koreaRegionalCumulativeData_전일차_Array,
-    },{
+    }, {
       label: "사망자 ",
       lineTension: 0.3,
       backgroundColor: "rgba(54, 185, 204, 0.05)",
@@ -446,7 +446,7 @@ var myLineChart = new Chart(ctx_four, {
       pointHitRadius: 0,
       pointBorderWidth: 0,
       data: koreaRegionalCumulativeData_사망자_Array,
-    },{
+    }, {
       label: "완치자 ",
       lineTension: 0.3,
       backgroundColor: "rgba(246, 194, 62, 0.05)",
@@ -470,7 +470,7 @@ var myLineChart = new Chart(ctx_four, {
         left: 10,
         right: 25,
         top: 25,
-        bottom: 5
+        bottom: 30
       }
     },
     scales: {
@@ -491,7 +491,7 @@ var myLineChart = new Chart(ctx_four, {
           maxTicksLimit: 5,
           padding: 10,
           // Include a dollar sign in the ticks
-          callback: function(value, index, values) {
+          callback: function (value, index, values) {
             return '' + number_format(value);
           }
         },
@@ -522,7 +522,7 @@ var myLineChart = new Chart(ctx_four, {
       mode: 'index',
       caretPadding: 10,
       callbacks: {
-        label: function(tooltipItem, chart) {
+        label: function (tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
           return datasetLabel + '' + number_format(tooltipItem.yLabel);
         }
@@ -545,26 +545,26 @@ var 확진자추이그래프_한국확진자 = [];
 var 확진자추이그래프_한국확진자편차 = [];
 var 확진자추이그래프_한국비율 = [];
 
-for (let i = 0; i < koreaRegionalCumulativeData.length; i++){
+for (let i = 0; i < koreaRegionalCumulativeData.length; i++) {
   확진자추이그래프_date.push(koreaRegionalCumulativeData[i][0]);
   확진자추이그래프_한국확진자.push(koreaRegionalCumulativeData[i][1]);
   확진자추이그래프_한국확진자편차.push(koreaRegionalCumulativeData[i][2]);
-  확진자추이그래프_한국비율.push((확진자추이그래프_한국확진자편차[i]/확진자추이그래프_한국확진자[i])*100)
+  확진자추이그래프_한국비율.push((확진자추이그래프_한국확진자편차[i] / 확진자추이그래프_한국확진자[i]) * 100)
 }
 
 // console.log("test", marker2.labels.indexOf("2/1"))
 
-for (let i = crawlWorldCumulativeData_date_Array.indexOf("2/1"); i < crawlWorldCumulativeData_date_Array.length; i++){
+for (let i = crawlWorldCumulativeData_date_Array.indexOf("2/1"); i < crawlWorldCumulativeData_date_Array.length; i++) {
   확진자추이그래프_세계확진자.push(parseInt(crawlWorldCumulativeData_confirmed_Array[i], 10));
-  if (crawlWorldCumulativeData_confirmed_Array[i] - crawlWorldCumulativeData_confirmed_Array[i-1] < 0){
+  if (crawlWorldCumulativeData_confirmed_Array[i] - crawlWorldCumulativeData_confirmed_Array[i - 1] < 0) {
     확진자추이그래프_세계확진자편차.push(0);
-  } else{
-    확진자추이그래프_세계확진자편차.push(parseInt(crawlWorldCumulativeData_confirmed_Array[i] - crawlWorldCumulativeData_confirmed_Array[i-1], 10));
+  } else {
+    확진자추이그래프_세계확진자편차.push(parseInt(crawlWorldCumulativeData_confirmed_Array[i] - crawlWorldCumulativeData_confirmed_Array[i - 1], 10));
   }
 }
 
-for (let i = 0; i < 확진자추이그래프_세계확진자.length; i++){
-  확진자추이그래프_세계비율.push((확진자추이그래프_세계확진자편차[i]/확진자추이그래프_세계확진자[i])*100);
+for (let i = 0; i < 확진자추이그래프_세계확진자.length; i++) {
+  확진자추이그래프_세계비율.push((확진자추이그래프_세계확진자편차[i] / 확진자추이그래프_세계확진자[i]) * 100);
 }
 
 var ctx_five = document.getElementById("myAreaChart_five");
@@ -577,7 +577,7 @@ var myLineChart = new Chart(ctx_five, {
       lineTension: 0.3,
       backgroundColor: "rgba(78, 115, 223, 0.05)",
       borderColor: "rgba(78, 115, 223, 1)",
-      borderWidth:1,
+      borderWidth: 1,
       pointRadius: 3,
       pointBackgroundColor: "rgba(78, 115, 223, 1)",
       pointBorderColor: "rgba(78, 115, 223, 1)",
@@ -587,12 +587,12 @@ var myLineChart = new Chart(ctx_five, {
       pointHitRadius: 10,
       pointBorderWidth: 0,
       data: 확진자추이그래프_한국비율,
-    },{
+    }, {
       label: "세계 추이 ",
       lineTension: 0.3,
       backgroundColor: "rgba(28, 200, 138, 0.05)",
       borderColor: "rgba(28, 200, 138, 1)",
-      borderWidth:1,
+      borderWidth: 1,
       pointRadius: 3,
       pointBackgroundColor: "rgba(28, 200, 138, 1)",
       pointBorderColor: "rgba(28, 200, 138, 1)",
@@ -632,7 +632,7 @@ var myLineChart = new Chart(ctx_five, {
           maxTicksLimit: 5,
           padding: 10,
           // Include a dollar sign in the ticks
-          callback: function(value, index, values) {
+          callback: function (value, index, values) {
             return '' + number_format(value);
           }
         },
@@ -663,7 +663,7 @@ var myLineChart = new Chart(ctx_five, {
       mode: 'index',
       caretPadding: 10,
       callbacks: {
-        label: function(tooltipItem, chart) {
+        label: function (tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
           return datasetLabel + '' + number_format(tooltipItem.yLabel) + '%';
         }
@@ -711,7 +711,7 @@ var myChart = new Chart(ctx_six, {
           ticks: {
             min: 10,
             max: 100000,
-            callback: function(value, index, values) {
+            callback: function (value, index, values) {
               if (value === 1000000) return "1M";
               if (value === 100000) return "100K";
               if (value === 10000) return "10K";
