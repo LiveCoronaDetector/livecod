@@ -1,13 +1,4 @@
-import csv
-import json
-import re
-
-import requests
-
-import numpy as np
-import pandas as pd
-
-from .utils import get_raw_data, write_data
+from utils import get_raw_data, write_data
 
 
 def build_total_data(confirmed_total_data):
@@ -82,12 +73,12 @@ def run():
     write_data(final_data, save_dir, crawler_name, var_name)
 
 
-if __name__ == '__main__':
-    print("#####################################")
-    print("############ 홉킨스 국가별 데이터 #############")
-    print("######## HopkinsCoronaWorldData.js #########")
 
-    run()
+print("#####################################")
+print("############ 홉킨스 국가별 데이터 #############")
+print("######## HopkinsCoronaWorldData.js #########")
 
-    print("############### 완료!! ###############")
-    print("#####################################")
+run()
+
+print("############### 완료!! ###############")
+print("#####################################")
