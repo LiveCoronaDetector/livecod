@@ -146,14 +146,10 @@ def get_world_data():
         })
 
     # 대륙 이름 필터링
-    world_confirmed = remove_continent(world_confirmed, 'North America')
-    world_confirmed = remove_continent(world_confirmed, 'Europe')
-    world_confirmed = remove_continent(world_confirmed, 'Asia')
-    world_confirmed = remove_continent(world_confirmed, 'South America')
-    world_confirmed = remove_continent(world_confirmed, 'Oceania')
-    world_confirmed = remove_continent(world_confirmed, 'Africa')
-    world_confirmed = remove_continent(world_confirmed, 'World')
-    world_confirmed = remove_continent(world_confirmed, '')
+    continents = ['North America', 'Europe', 'Asia', 'South America', 'Oceania', 'Africa', 'World', '']
+    
+    for continent in continents:
+        world_confirmed = remove_continent(world_confirmed, continent)
 
     return world_confirmed
 
