@@ -8,9 +8,8 @@ def get_raw_data(url):
     with requests.Session() as s:
         download = s.get(url)
         decoded_content = download.content.decode("utf-8")
-        cr = csv.reader(decoded_content.splitlines(), delimiter=",")
-        total_data = [row for row in list(cr)]
-        return total_data
+        data = list(csv.reader(decoded_content.splitlines(), delimiter=","))
+        return data
 
 
 def write_data(total_data, save_dir, crawler_name, var_name):
