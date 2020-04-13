@@ -3,7 +3,6 @@ import urllib.request
 from datetime import date
 from urllib.request import urlopen
 
-import pandas as pd
 from bs4 import BeautifulSoup
 from utils import write_data
 
@@ -15,11 +14,13 @@ def get_past_data():
     with open('./data/koreaTotalCumulativeData.js', 'r', encoding='UTF-8-sig') as f:
         while True:
             if switch:
-                data += f.readline()[34:]
+                line = f.readline()[34:]
+                data += line
                 switch = False
             if not line:
                 break
-            data += f.readline()
+            line = f.readline()
+            data += line
 
     past_data = json.loads(data.replace('\n', '').replace('\t', ''))
 
