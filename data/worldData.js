@@ -237,8 +237,8 @@ var marker = [
         "Name_ch": "捷克",
         "Name_en": "Czechia",
         "확진자수": 6059,
-        "사망자수": 143,
-        "완치자수": 519
+        "사망자수": 147,
+        "완치자수": 527
     },
     {
         "Name": "파키스탄",
@@ -313,6 +313,14 @@ var marker = [
         "완치자수": 61
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "확진자수": 3372,
+        "사망자수": 98,
+        "완치자수": 119
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
@@ -335,14 +343,6 @@ var marker = [
         "확진자수": 3167,
         "사망자수": 177,
         "완치자수": 152
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "확진자수": 3102,
-        "사망자수": 93,
-        "완치자수": 97
     },
     {
         "Name": "핀란드",
@@ -437,8 +437,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Moldova",
         "확진자수": 1712,
-        "사망자수": 35,
-        "완치자수": 107
+        "사망자수": 36,
+        "완치자수": 134
     },
     {
         "Name": "Iceland",
@@ -585,6 +585,14 @@ var marker = [
         "완치자수": 98
     },
     {
+        "Name": "오만",
+        "Name_ch": "阿曼",
+        "Name_en": "Oman",
+        "확진자수": 813,
+        "사망자수": 4,
+        "완치자수": 130
+    },
+    {
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
@@ -599,14 +607,6 @@ var marker = [
         "확진자수": 769,
         "사망자수": 2,
         "완치자수": 107
-    },
-    {
-        "Name": "오만",
-        "Name_ch": "阿曼",
-        "Name_en": "Oman",
-        "확진자수": 727,
-        "사망자수": 4,
-        "완치자수": 124
     },
     {
         "Name": "Tunisia",
@@ -934,7 +934,7 @@ var marker = [
         "Name_en": "Faeroe Islands",
         "확진자수": 184,
         "사망자수": 0,
-        "완치자수": 157
+        "완치자수": 163
     },
     {
         "Name": "Guatemala",
@@ -1577,6 +1577,14 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "Timor-Leste",
+        "Name_ch": "",
+        "Name_en": "Timor-Leste",
+        "확진자수": 6,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Western Sahara",
         "Name_ch": "",
         "Name_en": "Western Sahara",
@@ -1623,14 +1631,6 @@ var marker = [
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Timor-Leste",
-        "Name_ch": "",
-        "Name_en": "Timor-Leste",
-        "확진자수": 4,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Anguilla",
