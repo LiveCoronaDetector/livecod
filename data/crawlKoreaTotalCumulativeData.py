@@ -36,7 +36,7 @@ def get_today_data(url, data):
         source = html.read()
         html.close()
 
-        soup = BeautifulSoup(source, 'lxml')
+        soup = BeautifulSoup(source, 'html.parser')
         tables = soup.find("div", class_="data_table mgt16").find_all("td")
 
         num = [element.get_text() for element in tables]
