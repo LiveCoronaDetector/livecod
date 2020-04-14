@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 610632,
-        "사망자수": 25856,
-        "완치자수": 38562
+        "확진자수": 611156,
+        "사망자수": 25924,
+        "완치자수": 38675
     },
     {
         "Name": "스페인",
@@ -100,8 +100,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 24920,
-        "사망자수": 1489,
+        "확진자수": 25262,
+        "사망자수": 1532,
         "완치자수": 3046
     },
     {
@@ -793,6 +793,14 @@ var marker = [
         "완치자수": 40
     },
     {
+        "Name": "나이지리아",
+        "Name_ch": "尼日利亚",
+        "Name_en": "Nigeria",
+        "확진자수": 373,
+        "사망자수": 11,
+        "완치자수": 99
+    },
+    {
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
@@ -815,14 +823,6 @@ var marker = [
         "확진자수": 363,
         "사망자수": 0,
         "완치자수": 31
-    },
-    {
-        "Name": "나이지리아",
-        "Name_ch": "尼日利亚",
-        "Name_en": "Nigeria",
-        "확진자수": 362,
-        "사망자수": 11,
-        "완치자수": 99
     },
     {
         "Name": "Bolivia",
@@ -1441,19 +1441,19 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Saint Kitts and Nevis",
+        "Name_ch": "",
+        "Name_en": "Saint Kitts and Nevis",
+        "확진자수": 14,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "확진자수": 13,
         "사망자수": 1,
-        "완치자수": 0
-    },
-    {
-        "Name": "Saint Kitts and Nevis",
-        "Name_ch": "",
-        "Name_en": "Saint Kitts and Nevis",
-        "확진자수": 12,
-        "사망자수": 0,
         "완치자수": 0
     },
     {
