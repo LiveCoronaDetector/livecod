@@ -125,8 +125,8 @@ var marker = [
         "Name_ch": "奥地利",
         "Name_en": "Austria",
         "확진자수": 14102,
-        "사망자수": 368,
-        "완치자수": 7343
+        "사망자수": 384,
+        "완치자수": 7633
     },
     {
         "Name": "이스라엘",
@@ -564,9 +564,17 @@ var marker = [
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "확진자수": 1010,
+        "확진자수": 1013,
         "사망자수": 4,
-        "완치자수": 397
+        "완치자수": 434
+    },
+    {
+        "Name": "Bangladesh",
+        "Name_ch": "",
+        "Name_en": "Bangladesh",
+        "확진자수": 1012,
+        "사망자수": 46,
+        "완치자수": 42
     },
     {
         "Name": "North Macedonia",
@@ -601,14 +609,6 @@ var marker = [
         "완치자수": 130
     },
     {
-        "Name": "Bangladesh",
-        "Name_ch": "",
-        "Name_en": "Bangladesh",
-        "확진자수": 803,
-        "사망자수": 39,
-        "완치자수": 42
-    },
-    {
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
@@ -625,6 +625,14 @@ var marker = [
         "완치자수": 121
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "阿富汗",
+        "Name_en": "Afghanistan",
+        "확진자수": 714,
+        "사망자수": 23,
+        "완치자수": 40
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "日本 邮轮",
         "Name_en": "Diamond Princess",
@@ -639,14 +647,6 @@ var marker = [
         "확진자수": 695,
         "사망자수": 35,
         "완치자수": 81
-    },
-    {
-        "Name": "아프가니스탄",
-        "Name_ch": "阿富汗",
-        "Name_en": "Afghanistan",
-        "확진자수": 665,
-        "사망자수": 21,
-        "완치자수": 32
     },
     {
         "Name": "Cyprus",
