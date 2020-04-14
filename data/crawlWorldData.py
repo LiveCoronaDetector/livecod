@@ -81,10 +81,12 @@ def preprocess_text(num_text):
     Returns:
         전처리가 끝난 int 숫자 데이터
     """
-    new_text = num_text.strip().replace(',', '')
-    if not new_text:
+    str_text = num_text.strip().replace(',', '')
+
+    try:
+        return int(str_text)
+    except ValueError:
         return 0
-    return int(new_text)
 
 
 def get_world_data():
@@ -146,8 +148,9 @@ def get_world_data():
         })
 
     # 대륙 이름 필터링
-    continents = ['North America', 'Europe', 'Asia', 'South America', 'Oceania', 'Africa', 'World', '']
-    
+    continents = ['North America', 'Europe', 'Asia',
+                  'South America', 'Oceania', 'Africa', 'World', '']
+
     for continent in continents:
         world_confirmed = remove_continent(world_confirmed, continent)
 
