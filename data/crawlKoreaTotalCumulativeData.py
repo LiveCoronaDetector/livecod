@@ -8,23 +8,16 @@ from utils import write_data
 
 
 def get_past_data():
-    data = ''
-    switch = True
-
+    data = ""
     with open('./data/koreaTotalCumulativeData.js', 'r', encoding='UTF-8-sig') as f:
-        while True:
-            if switch:
-                line = f.readline()[34:]
-                data += line
-                switch = False
-            if not line:
-                break
-            line = f.readline()
+        _ = f.readline()
+        line = f.readline()[34:]
+        while line:
             data += line
+            line = f.readline()
 
-    past_data = json.loads(data.replace('\n', '').replace('\t', ''))
-
-    return past_data
+    # ; 제거를 위해 [-1] 인덱싱
+    return json.loads(data[:-1].replace('\n', '').replace('\t', ''))
 
 
 def get_today_data(url, data):
