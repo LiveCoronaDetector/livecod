@@ -1,11 +1,12 @@
 import pandas as pd
+
 from utils import write_data
 
 
 def build_dataframe(url, return_dates=False):
     df = pd.read_csv(url)
     df.drop(df.columns[:4], axis=1, inplace=True)
-    series = df.sum()
+    series = df.sum().astype(str)
     if return_dates:
         dates = [date[:-3] for date in series.index]
         return series.values, dates
