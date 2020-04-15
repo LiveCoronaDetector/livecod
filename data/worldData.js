@@ -124,7 +124,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "확진자수": 14280,
+        "확진자수": 14286,
         "사망자수": 393,
         "완치자수": 8098
     },
@@ -437,7 +437,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Moldova",
         "확진자수": 1934,
-        "사망자수": 41,
+        "사망자수": 43,
         "완치자수": 171
     },
     {
@@ -553,20 +553,20 @@ var marker = [
         "완치자수": 297
     },
     {
+        "Name": "보스니아 헤르체고비나",
+        "Name_ch": "波斯尼亚和黑塞哥维那",
+        "Name_en": "Bosnia and Herzegovina",
+        "확진자수": 1110,
+        "사망자수": 41,
+        "완치자수": 253
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
         "확진자수": 1091,
         "사망자수": 29,
         "완치자수": 138
-    },
-    {
-        "Name": "보스니아 헤르체고비나",
-        "Name_ch": "波斯尼亚和黑塞哥维那",
-        "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 1083,
-        "사망자수": 40,
-        "완치자수": 236
     },
     {
         "Name": "홍콩",
@@ -598,7 +598,7 @@ var marker = [
         "Name_en": "Slovakia",
         "확진자수": 863,
         "사망자수": 2,
-        "완치자수": 113
+        "완치자수": 151
     },
     {
         "Name": "카메룬",
@@ -761,6 +761,14 @@ var marker = [
         "완치자수": 9
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "확진자수": 399,
+        "사망자수": 3,
+        "완치자수": 44
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
@@ -783,14 +791,6 @@ var marker = [
         "확진자수": 395,
         "사망자수": 6,
         "완치자수": 137
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "확진자수": 393,
-        "사망자수": 3,
-        "완치자수": 44
     },
     {
         "Name": "Réunion",
@@ -1193,20 +1193,20 @@ var marker = [
         "완치자수": 6
     },
     {
+        "Name": "Zambia",
+        "Name_ch": "",
+        "Name_en": "Zambia",
+        "확진자수": 48,
+        "사망자수": 2,
+        "완치자수": 30
+    },
+    {
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
         "확진자수": 47,
         "사망자수": 6,
         "완치자수": 8
-    },
-    {
-        "Name": "Zambia",
-        "Name_ch": "",
-        "Name_en": "Zambia",
-        "확진자수": 45,
-        "사망자수": 2,
-        "완치자수": 30
     },
     {
         "Name": "마카오",
