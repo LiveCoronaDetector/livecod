@@ -521,20 +521,20 @@ var marker = [
         "완치자수": 152
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 1214,
+        "사망자수": 4,
+        "완치자수": 99
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
         "확진자수": 1197,
         "사망자수": 13,
         "완치자수": 351
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 1165,
-        "사망자수": 4,
-        "완치자수": 99
     },
     {
         "Name": "Lithuania",
@@ -625,20 +625,20 @@ var marker = [
         "완치자수": 43
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 735,
+        "사망자수": 36,
+        "완치자수": 105
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
         "확진자수": 714,
         "사망자수": 23,
         "완치자수": 40
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 713,
-        "사망자수": 35,
-        "완치자수": 81
     },
     {
         "Name": "일본크루즈",
@@ -1324,7 +1324,7 @@ var marker = [
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "확진자수": 20,
+        "확진자수": 21,
         "사망자수": 0,
         "완치자수": 16
     },
