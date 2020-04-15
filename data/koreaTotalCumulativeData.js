@@ -517,5 +517,12 @@ var koreaRegionalCumulativeData = [
         27,
         222,
         7534
+    ],
+    [
+        "4/15",
+        10564,
+        0,
+        222,
+        7534
     ]
 ];
