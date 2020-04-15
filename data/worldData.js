@@ -76,8 +76,8 @@ var marker = [
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "확진자수": 27419,
-        "사망자수": 2945,
+        "확진자수": 28153,
+        "사망자수": 3134,
         "완치자수": 250
     },
     {
@@ -100,8 +100,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 25684,
-        "사망자수": 1552,
+        "확진자수": 25758,
+        "사망자수": 1557,
         "완치자수": 14026
     },
     {
@@ -321,20 +321,20 @@ var marker = [
         "완치자수": 203
     },
     {
+        "Name": "카타르",
+        "Name_ch": "卡塔尔",
+        "Name_en": "Qatar",
+        "확진자수": 3711,
+        "사망자수": 7,
+        "완치자수": 406
+    },
+    {
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
         "확진자수": 3574,
         "사망자수": 95,
         "완치자수": 72
-    },
-    {
-        "Name": "카타르",
-        "Name_ch": "卡塔尔",
-        "Name_en": "Qatar",
-        "확진자수": 3428,
-        "사망자수": 7,
-        "완치자수": 373
     },
     {
         "Name": "룩셈부르크",
@@ -508,7 +508,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 1275,
+        "확진자수": 1290,
         "사망자수": 15,
         "완치자수": 220
     },
@@ -662,7 +662,7 @@ var marker = [
         "Name_en": "Latvia",
         "확진자수": 666,
         "사망자수": 5,
-        "완치자수": 16
+        "완치자수": 44
     },
     {
         "Name": "안도라",
@@ -1457,6 +1457,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Sierra Leone",
+        "Name_ch": "",
+        "Name_en": "Sierra Leone",
+        "확진자수": 13,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
@@ -1508,14 +1516,6 @@ var marker = [
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
-        "확진자수": 11,
-        "사망자수": 0,
-        "완치자수": 0
-    },
-    {
-        "Name": "Sierra Leone",
-        "Name_ch": "",
-        "Name_en": "Sierra Leone",
         "확진자수": 11,
         "사망자수": 0,
         "완치자수": 0
