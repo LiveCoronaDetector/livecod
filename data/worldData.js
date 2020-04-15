@@ -180,9 +180,9 @@ var marker = [
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
-        "확진자수": 7645,
-        "사망자수": 143,
-        "완치자수": 799
+        "확진자수": 7885,
+        "사망자수": 146,
+        "완치자수": 853
     },
     {
         "Name": "에콰도르",
@@ -385,6 +385,14 @@ var marker = [
         "완치자수": 1405
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "확진자수": 2443,
+        "사망자수": 105,
+        "완치자수": 559
+    },
+    {
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
@@ -399,14 +407,6 @@ var marker = [
         "확진자수": 2350,
         "사망자수": 178,
         "완치자수": 589
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "확진자수": 2277,
-        "사망자수": 102,
-        "완치자수": 559
     },
     {
         "Name": "그리스",
@@ -481,20 +481,20 @@ var marker = [
         "완치자수": 766
     },
     {
+        "Name": "New Zealand",
+        "Name_ch": "",
+        "Name_en": "New Zealand",
+        "확진자수": 1386,
+        "사망자수": 9,
+        "완치자수": 728
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
         "확진자수": 1373,
         "사망자수": 31,
         "완치자수": 115
-    },
-    {
-        "Name": "New Zealand",
-        "Name_ch": "",
-        "Name_en": "New Zealand",
-        "확진자수": 1366,
-        "사망자수": 9,
-        "완치자수": 628
     },
     {
         "Name": "쿠웨이트",
@@ -924,9 +924,9 @@ var marker = [
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 189,
+        "확진자수": 193,
         "사망자수": 9,
-        "완치자수": 110
+        "완치자수": 111
     },
     {
         "Name": "Faeroe Islands",
@@ -940,7 +940,7 @@ var marker = [
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "확진자수": 167,
+        "확진자수": 180,
         "사망자수": 5,
         "완치자수": 19
     },
@@ -948,9 +948,9 @@ var marker = [
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "확진자수": 159,
-        "사망자수": 7,
-        "완치자수": 22
+        "확진자수": 161,
+        "사망자수": 8,
+        "완치자수": 23
     },
     {
         "Name": "Martinique",
