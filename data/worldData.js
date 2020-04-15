@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 624893,
-        "사망자수": 27771,
-        "완치자수": 47715
+        "확진자수": 637196,
+        "사망자수": 27866,
+        "완치자수": 47942
     },
     {
         "Name": "스페인",
@@ -625,20 +625,20 @@ var marker = [
         "완치자수": 43
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "확진자수": 780,
+        "사망자수": 35,
+        "완치자수": 43
+    },
+    {
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
         "확진자수": 747,
         "사망자수": 36,
         "완치자수": 105
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "확진자수": 747,
-        "사망자수": 34,
-        "완치자수": 43
     },
     {
         "Name": "Cyprus",
@@ -814,7 +814,7 @@ var marker = [
         "Name_en": "Réunion",
         "확진자수": 391,
         "사망자수": 0,
-        "완치자수": 40
+        "완치자수": 237
     },
     {
         "Name": "나이지리아",
@@ -1049,20 +1049,20 @@ var marker = [
         "완치자수": 21
     },
     {
+        "Name": "모나코",
+        "Name_ch": "摩纳哥",
+        "Name_en": "Monaco",
+        "확진자수": 93,
+        "사망자수": 3,
+        "완치자수": 12
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
         "확진자수": 93,
         "사망자수": 1,
         "완치자수": 39
-    },
-    {
-        "Name": "모나코",
-        "Name_ch": "摩纳哥",
-        "Name_en": "Monaco",
-        "확진자수": 93,
-        "사망자수": 1,
-        "완치자수": 6
     },
     {
         "Name": "Tanzania",
@@ -1188,7 +1188,7 @@ var marker = [
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "확진자수": 52,
+        "확진자수": 53,
         "사망자수": 9,
         "완치자수": 5
     },
