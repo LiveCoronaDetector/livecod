@@ -654,7 +654,7 @@ var marker = [
         "Name_en": "Diamond Princess",
         "확진자수": 712,
         "사망자수": 12,
-        "완치자수": 639
+        "완치자수": 644
     },
     {
         "Name": "안도라",
@@ -753,6 +753,14 @@ var marker = [
         "완치자수": 69
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 441,
+        "사망자수": 29,
+        "완치자수": 14
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -764,8 +772,8 @@ var marker = [
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "확진자수": 419,
-        "사망자수": 31,
+        "확진자수": 426,
+        "사망자수": 35,
         "완치자수": 9
     },
     {
@@ -799,14 +807,6 @@ var marker = [
         "확진자수": 399,
         "사망자수": 3,
         "완치자수": 44
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 397,
-        "사망자수": 28,
-        "완치자수": 7
     },
     {
         "Name": "대만",
@@ -929,20 +929,20 @@ var marker = [
         "완치자수": 111
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 196,
+        "사망자수": 5,
+        "완치자수": 19
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "확진자수": 184,
         "사망자수": 0,
         "완치자수": 166
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 180,
-        "사망자수": 5,
-        "완치자수": 19
     },
     {
         "Name": "Paraguay",
