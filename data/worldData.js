@@ -1313,20 +1313,20 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Antigua and Barbuda",
+        "Name_ch": "",
+        "Name_en": "Antigua and Barbuda",
+        "확진자수": 23,
+        "사망자수": 3,
+        "완치자수": 3
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
         "확진자수": 23,
         "사망자수": 3,
         "완치자수": 1
-    },
-    {
-        "Name": "Antigua and Barbuda",
-        "Name_ch": "",
-        "Name_en": "Antigua and Barbuda",
-        "확진자수": 23,
-        "사망자수": 2,
-        "완치자수": 3
     },
     {
         "Name": "Chad",
