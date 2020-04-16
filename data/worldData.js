@@ -257,20 +257,20 @@ var marker = [
         "완치자수": 931
     },
     {
+        "Name": "멕시코",
+        "Name_ch": "墨西哥",
+        "Name_en": "Mexico",
+        "확진자수": 5847,
+        "사망자수": 449,
+        "완치자수": 2125
+    },
+    {
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
         "확진자수": 5453,
         "사망자수": 349,
         "완치자수": 353
-    },
-    {
-        "Name": "멕시코",
-        "Name_ch": "墨西哥",
-        "Name_en": "Mexico",
-        "확진자수": 5399,
-        "사망자수": 406,
-        "완치자수": 2125
     },
     {
         "Name": "아랍에미리트",
@@ -948,9 +948,9 @@ var marker = [
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "확진자수": 161,
+        "확진자수": 174,
         "사망자수": 8,
-        "완치자수": 23
+        "완치자수": 30
     },
     {
         "Name": "El Salvador",
@@ -1129,20 +1129,20 @@ var marker = [
         "완치자수": 55
     },
     {
+        "Name": "Barbados",
+        "Name_ch": "",
+        "Name_en": "Barbados",
+        "확진자수": 75,
+        "사망자수": 5,
+        "완치자수": 15
+    },
+    {
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
         "확진자수": 74,
         "사망자수": 4,
         "완치자수": 2
-    },
-    {
-        "Name": "Barbados",
-        "Name_ch": "",
-        "Name_en": "Barbados",
-        "확진자수": 73,
-        "사망자수": 5,
-        "완치자수": 15
     },
     {
         "Name": "Cayman Islands",
@@ -1684,8 +1684,8 @@ var marker = [
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "확진자수": 82295,
+        "확진자수": 82341,
         "사망자수": 3342,
-        "완치자수": 77816
+        "완치자수": 77892
     }
 ];
