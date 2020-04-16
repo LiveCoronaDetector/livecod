@@ -198,7 +198,7 @@ var marker = [
         "Name_en": "Poland",
         "확진자수": 7582,
         "사망자수": 286,
-        "완치자수": 668
+        "완치자수": 774
     },
     {
         "Name": "루마니아",
@@ -1377,6 +1377,14 @@ var marker = [
         "완치자수": 1
     },
     {
+        "Name": "Timor-Leste",
+        "Name_ch": "",
+        "Name_en": "Timor-Leste",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Fiji",
         "Name_ch": "",
         "Name_en": "Fiji",
@@ -1567,14 +1575,6 @@ var marker = [
         "확진자수": 8,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Timor-Leste",
-        "Name_ch": "",
-        "Name_en": "Timor-Leste",
-        "확진자수": 8,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Mauritania",
