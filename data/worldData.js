@@ -657,20 +657,20 @@ var marker = [
         "완치자수": 644
     },
     {
+        "Name": "안도라",
+        "Name_ch": "安道尔",
+        "Name_en": "Andorra",
+        "확진자수": 682,
+        "사망자수": 33,
+        "완치자수": 169
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
         "확진자수": 675,
         "사망자수": 5,
         "완치자수": 57
-    },
-    {
-        "Name": "안도라",
-        "Name_ch": "安道尔",
-        "Name_en": "Andorra",
-        "확진자수": 673,
-        "사망자수": 33,
-        "완치자수": 169
     },
     {
         "Name": "레바논",
@@ -753,6 +753,14 @@ var marker = [
         "완치자수": 91
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 465,
+        "사망자수": 31,
+        "완치자수": 26
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
@@ -767,14 +775,6 @@ var marker = [
         "확진자수": 442,
         "사망자수": 13,
         "완치자수": 152
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 441,
-        "사망자수": 29,
-        "완치자수": 14
     },
     {
         "Name": "Guinea",
@@ -921,6 +921,14 @@ var marker = [
         "완치자수": 69
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 214,
+        "사망자수": 7,
+        "완치자수": 21
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
@@ -929,12 +937,12 @@ var marker = [
         "완치자수": 111
     },
     {
-        "Name": "Guatemala",
+        "Name": "Paraguay",
         "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 196,
-        "사망자수": 5,
-        "완치자수": 19
+        "Name_en": "Paraguay",
+        "확진자수": 199,
+        "사망자수": 8,
+        "완치자수": 30
     },
     {
         "Name": "Faeroe Islands",
@@ -943,14 +951,6 @@ var marker = [
         "확진자수": 184,
         "사망자수": 0,
         "완치자수": 169
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 174,
-        "사망자수": 8,
-        "완치자수": 30
     },
     {
         "Name": "Mali",
