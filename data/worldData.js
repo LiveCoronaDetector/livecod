@@ -505,20 +505,20 @@ var marker = [
         "완치자수": 133
     },
     {
+        "Name": "New Zealand",
+        "Name_ch": "",
+        "Name_en": "New Zealand",
+        "확진자수": 1409,
+        "사망자수": 11,
+        "완치자수": 816
+    },
+    {
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
         "확진자수": 1402,
         "사망자수": 17,
         "완치자수": 277
-    },
-    {
-        "Name": "New Zealand",
-        "Name_ch": "",
-        "Name_en": "New Zealand",
-        "확진자수": 1401,
-        "사망자수": 9,
-        "완치자수": 770
     },
     {
         "Name": "Uzbekistan",
@@ -705,20 +705,20 @@ var marker = [
         "완치자수": 83
     },
     {
+        "Name": "Niger",
+        "Name_ch": "",
+        "Name_en": "Niger",
+        "확진자수": 609,
+        "사망자수": 15,
+        "완치자수": 105
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
         "확진자수": 591,
         "사망자수": 2,
         "완치자수": 73
-    },
-    {
-        "Name": "Niger",
-        "Name_ch": "",
-        "Name_en": "Niger",
-        "확진자수": 584,
-        "사망자수": 14,
-        "완치자수": 90
     },
     {
         "Name": "Burkina Faso",
@@ -1684,8 +1684,8 @@ var marker = [
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "확진자수": 82341,
+        "확진자수": 82367,
         "사망자수": 3342,
-        "완치자수": 77892
+        "완치자수": 77944
     }
 ];
