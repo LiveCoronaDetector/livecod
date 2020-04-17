@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 677180,
-        "사망자수": 34594,
+        "확진자수": 677570,
+        "사망자수": 34617,
         "완치자수": 57508
     },
     {
@@ -84,9 +84,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 29929,
-        "사망자수": 1191,
-        "완치자수": 9674
+        "확진자수": 30106,
+        "사망자수": 1195,
+        "완치자수": 9729
     },
     {
         "Name": "네덜란드",
@@ -260,8 +260,8 @@ var marker = [
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "확진자수": 5847,
-        "사망자수": 449,
+        "확진자수": 6297,
+        "사망자수": 486,
         "완치자수": 2125
     },
     {
@@ -337,20 +337,20 @@ var marker = [
         "완치자수": 415
     },
     {
+        "Name": "Panama",
+        "Name_ch": "",
+        "Name_en": "Panama",
+        "확진자수": 4016,
+        "사망자수": 109,
+        "완치자수": 98
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
         "확진자수": 3755,
         "사망자수": 196,
         "완치자수": 215
-    },
-    {
-        "Name": "Panama",
-        "Name_ch": "",
-        "Name_en": "Panama",
-        "확진자수": 3751,
-        "사망자수": 103,
-        "완치자수": 75
     },
     {
         "Name": "룩셈부르크",
@@ -1148,9 +1148,9 @@ var marker = [
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "확진자수": 60,
+        "확진자수": 61,
         "사망자수": 1,
-        "완치자수": 6
+        "완치자수": 7
     },
     {
         "Name": "Liberia",
@@ -1329,20 +1329,20 @@ var marker = [
         "완치자수": 16
     },
     {
+        "Name": "Zimbabwe",
+        "Name_ch": "",
+        "Name_en": "Zimbabwe",
+        "확진자수": 24,
+        "사망자수": 3,
+        "완치자수": 2
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
         "확진자수": 23,
         "사망자수": 3,
         "완치자수": 3
-    },
-    {
-        "Name": "Zimbabwe",
-        "Name_ch": "",
-        "Name_en": "Zimbabwe",
-        "확진자수": 23,
-        "사망자수": 3,
-        "완치자수": 1
     },
     {
         "Name": "Angola",
