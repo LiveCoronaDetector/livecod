@@ -1057,6 +1057,14 @@ var marker = [
         "완치자수": 39
     },
     {
+        "Name": "Gabon",
+        "Name_ch": "",
+        "Name_en": "Gabon",
+        "확진자수": 95,
+        "사망자수": 1,
+        "완치자수": 6
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
@@ -1119,14 +1127,6 @@ var marker = [
         "확진자수": 80,
         "사망자수": 5,
         "완치자수": 2
-    },
-    {
-        "Name": "Gabon",
-        "Name_ch": "",
-        "Name_en": "Gabon",
-        "확진자수": 80,
-        "사망자수": 1,
-        "완치자수": 4
     },
     {
         "Name": "리히텐슈타인",
