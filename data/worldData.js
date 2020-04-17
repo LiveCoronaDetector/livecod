@@ -441,6 +441,14 @@ var marker = [
         "완치자수": 276
     },
     {
+        "Name": "Bangladesh",
+        "Name_ch": "",
+        "Name_en": "Bangladesh",
+        "확진자수": 1838,
+        "사망자수": 75,
+        "완치자수": 58
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
@@ -473,14 +481,6 @@ var marker = [
         "완치자수": 703
     },
     {
-        "Name": "Bangladesh",
-        "Name_ch": "",
-        "Name_en": "Bangladesh",
-        "확진자수": 1572,
-        "사망자수": 60,
-        "완치자수": 49
-    },
-    {
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
@@ -497,20 +497,20 @@ var marker = [
         "완치자수": 285
     },
     {
+        "Name": "에스토니아",
+        "Name_ch": "爱沙尼亚",
+        "Name_en": "Estonia",
+        "확진자수": 1459,
+        "사망자수": 38,
+        "완치자수": 145
+    },
+    {
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
         "확진자수": 1434,
         "사망자수": 80,
         "완치자수": 856
-    },
-    {
-        "Name": "에스토니아",
-        "Name_ch": "爱沙尼亚",
-        "Name_en": "Estonia",
-        "확진자수": 1434,
-        "사망자수": 36,
-        "완치자수": 133
     },
     {
         "Name": "New Zealand",
@@ -1145,20 +1145,20 @@ var marker = [
         "완치자수": 15
     },
     {
+        "Name": "Liberia",
+        "Name_ch": "",
+        "Name_en": "Liberia",
+        "확진자수": 73,
+        "사망자수": 6,
+        "완치자수": 4
+    },
+    {
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
         "확진자수": 61,
         "사망자수": 1,
         "완치자수": 7
-    },
-    {
-        "Name": "Liberia",
-        "Name_ch": "",
-        "Name_en": "Liberia",
-        "확진자수": 59,
-        "사망자수": 6,
-        "완치자수": 4
     },
     {
         "Name": "Sint Maarten",
@@ -1169,20 +1169,20 @@ var marker = [
         "완치자수": 12
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 57,
+        "사망자수": 6,
+        "완치자수": 9
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
         "확진자수": 56,
         "사망자수": 1,
         "완치자수": 1
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 55,
-        "사망자수": 6,
-        "완치자수": 8
     },
     {
         "Name": "French Polynesia",
