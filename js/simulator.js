@@ -1,5 +1,11 @@
+let prevBtn;
+let curBtn;
+
 (function () {
-		let clicked_btn = false; // 버튼 중복 클릭 방지
+    let clicked_btn = false; // 버튼 중복 클릭 방지
+
+    prevBtn="";  // 이전 버튼
+    curBtn="";   // 새로 눌린 버튼
 
 		const recoverTime = 8; // 감염 후 완치까지 걸리는 시간(초)
 		const totalCount = 200; // 사람 수
@@ -134,7 +140,7 @@
 
 			drawGraph(recoveredCount, healthyCount, sickCount);
 
-			if (sickCount === 0) {
+			if (sickCount === 0 || prevBtn=='simulation-btn') {
 				stop = true;
 			}
 		}
@@ -219,21 +225,27 @@
 			checkCollision();
 			checkCount();
 
-			rafId = requestAnimationFrame(loop);
+      rafId = requestAnimationFrame(loop);
 
 			if (stop) {
 				cancelAnimationFrame(rafId);
-				canvasContainer.classList.add('stop');
-				clicked_btn = false;
-			}
+        canvasContainer.classList.add('stop');
+        clicked_btn = false;
+      }
+     
 		}
 		
 		function chk_btn_click(){
 			if(clicked_btn == true){
-				return;
+        return;
+        
 			}
 			else{
-				clicked_btn = true;
+        clicked_btn = true;
+       
+        prevBtn = curBtn;
+        curBtn = "simulation-btn";
+        
 				init();
 			}
 		}

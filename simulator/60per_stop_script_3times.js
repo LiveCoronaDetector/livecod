@@ -1,5 +1,8 @@
 (function() {
     let clicked_btn = false; // 버튼 중복 클릭 방지
+    
+    prevBtn="";  // 이전 버튼
+    curBtn="";   // 새로 눌린 버튼
   
     const recoverTime = 8; // 감염 후 완치까지 걸리는 시간(초)
     const totalCount = 200; // 전체 사람 수
@@ -159,7 +162,7 @@
 
       drawGraph(recoveredCount, healthyCount, sickCount);
 
-      if (sickCount === 0) {
+      if (sickCount === 0 || prevBtn == "simulation-btn-60-3time") {
         stop = true;
       }
     }
@@ -355,6 +358,10 @@
       }
       else{
           clicked_btn = true;
+          
+          prevBtn = curBtn;
+          curBtn = "simulation-btn-60-3time";
+          
           init();
       }
     }
