@@ -260,9 +260,9 @@ var marker = [
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "확진자수": 6549,
-        "사망자수": 173,
-        "완치자수": 1174
+        "확진자수": 6553,
+        "사망자수": 176,
+        "완치자수": 1183
     },
     {
         "Name": "아랍에미리트",
@@ -305,6 +305,14 @@ var marker = [
         "완치자수": 2967
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "확진자수": 5106,
+        "사망자수": 133,
+        "완치자수": 275
+    },
+    {
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
@@ -327,14 +335,6 @@ var marker = [
         "확진자수": 4663,
         "사망자수": 7,
         "완치자수": 464
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "확진자수": 4662,
-        "사망자수": 125,
-        "완치자수": 246
     },
     {
         "Name": "Panama",
@@ -545,6 +545,14 @@ var marker = [
         "완치자수": 174
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 1239,
+        "사망자수": 33,
+        "완치자수": 228
+    },
+    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
@@ -559,14 +567,6 @@ var marker = [
         "확진자수": 1201,
         "사망자수": 19,
         "완치자수": 402
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 1149,
-        "사망자수": 33,
-        "완치자수": 210
     },
     {
         "Name": "North Macedonia",
@@ -844,9 +844,9 @@ var marker = [
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "확진자수": 370,
+        "확진자수": 385,
         "사망자수": 3,
-        "완치자수": 79
+        "완치자수": 84
     },
     {
         "Name": "세네갈",
@@ -868,7 +868,7 @@ var marker = [
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "확진자수": 303,
+        "확진자수": 305,
         "사망자수": 5,
         "완치자수": 55
     },
