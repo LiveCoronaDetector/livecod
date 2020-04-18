@@ -36,8 +36,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 141968,
-        "사망자수": 4377,
+        "확진자수": 142210,
+        "사망자수": 4381,
         "완치자수": 85400
     },
     {
@@ -84,8 +84,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 34221,
-        "사망자수": 2171,
+        "확진자수": 34485,
+        "사망자수": 2181,
         "완치자수": 14026
     },
     {
@@ -476,9 +476,9 @@ var marker = [
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "확진자수": 1754,
+        "확진자수": 1760,
         "사망자수": 9,
-        "완치자수": 1224
+        "완치자수": 1291
     },
     {
         "Name": "쿠웨이트",
@@ -828,7 +828,7 @@ var marker = [
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
-        "확진자수": 402,
+        "확진자수": 407,
         "사망자수": 0,
         "완치자수": 237
     },
@@ -860,7 +860,7 @@ var marker = [
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
-        "확진자수": 324,
+        "확진자수": 325,
         "사망자수": 9,
         "완치자수": 108
     },
@@ -905,20 +905,20 @@ var marker = [
         "완치자수": 60
     },
     {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "확진자수": 254,
+        "사망자수": 4,
+        "완치자수": 117
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
         "확진자수": 248,
         "사망자수": 7,
         "완치자수": 86
-    },
-    {
-        "Name": "Mayotte",
-        "Name_ch": "",
-        "Name_en": "Mayotte",
-        "확진자수": 245,
-        "사망자수": 4,
-        "완치자수": 117
     },
     {
         "Name": "Guatemala",
@@ -937,20 +937,20 @@ var marker = [
         "완치자수": 113
     },
     {
+        "Name": "Mali",
+        "Name_ch": "",
+        "Name_en": "Mali",
+        "확진자수": 216,
+        "사망자수": 13,
+        "완치자수": 41
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
         "확진자수": 202,
         "사망자수": 8,
         "완치자수": 35
-    },
-    {
-        "Name": "Mali",
-        "Name_ch": "",
-        "Name_en": "Mali",
-        "확진자수": 190,
-        "사망자수": 13,
-        "완치자수": 34
     },
     {
         "Name": "El Salvador",
@@ -1340,7 +1340,7 @@ var marker = [
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "확진자수": 26,
+        "확진자수": 30,
         "사망자수": 0,
         "완치자수": 0
     },
