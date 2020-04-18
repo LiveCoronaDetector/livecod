@@ -1193,20 +1193,20 @@ var marker = [
         "완치자수": 1
     },
     {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "확진자수": 56,
-        "사망자수": 0,
-        "완치자수": 20
-    },
-    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
         "확진자수": 55,
         "사망자수": 0,
         "완치자수": 2
+    },
+    {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "확진자수": 55,
+        "사망자수": 0,
+        "완치자수": 20
     },
     {
         "Name": "Bahamas",
@@ -1686,6 +1686,6 @@ var marker = [
         "Name_en": "China",
         "확진자수": 82719,
         "사망자수": 4632,
-        "완치자수": 77994
+        "완치자수": 77029
     }
 ];
