@@ -337,20 +337,20 @@ var marker = [
         "완치자수": 246
     },
     {
+        "Name": "Panama",
+        "Name_ch": "",
+        "Name_en": "Panama",
+        "확진자수": 4210,
+        "사망자수": 116,
+        "완치자수": 122
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
         "확진자수": 4126,
         "사망자수": 200,
         "완치자수": 268
-    },
-    {
-        "Name": "Panama",
-        "Name_ch": "",
-        "Name_en": "Panama",
-        "확진자수": 4016,
-        "사망자수": 109,
-        "완치자수": 98
     },
     {
         "Name": "핀란드",
@@ -516,9 +516,9 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1409,
+        "확진자수": 1422,
         "사망자수": 11,
-        "완치자수": 816
+        "완치자수": 867
     },
     {
         "Name": "Uzbekistan",
@@ -606,7 +606,7 @@ var marker = [
         "Name_en": "Cameroon",
         "확진자수": 1017,
         "사망자수": 22,
-        "완치자수": 168
+        "완치자수": 177
     },
     {
         "Name": "Cuba",
@@ -694,7 +694,7 @@ var marker = [
         "Name_en": "Lebanon",
         "확진자수": 668,
         "사망자수": 21,
-        "완치자수": 86
+        "완치자수": 94
     },
     {
         "Name": "코스타리카",
@@ -740,9 +740,9 @@ var marker = [
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "확진자수": 502,
+        "확진자수": 508,
         "사망자수": 9,
-        "완치자수": 286
+        "완치자수": 294
     },
     {
         "Name": "나이지리아",
@@ -921,6 +921,14 @@ var marker = [
         "완치자수": 77
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 227,
+        "사망자수": 9,
+        "완치자수": 111
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
@@ -929,20 +937,12 @@ var marker = [
         "완치자수": 21
     },
     {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 204,
-        "사망자수": 9,
-        "완치자수": 111
-    },
-    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "확진자수": 199,
+        "확진자수": 202,
         "사망자수": 8,
-        "완치자수": 30
+        "완치자수": 35
     },
     {
         "Name": "Faeroe Islands",
@@ -1206,7 +1206,7 @@ var marker = [
         "Name_en": "French Polynesia",
         "확진자수": 55,
         "사망자수": 0,
-        "완치자수": 0
+        "완치자수": 2
     },
     {
         "Name": "Bahamas",
