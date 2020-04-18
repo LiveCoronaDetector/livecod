@@ -1097,20 +1097,20 @@ var marker = [
         "완치자수": 61
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 94,
+        "사망자수": 5,
+        "완치자수": 5
+    },
+    {
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
         "확진자수": 94,
         "사망자수": 3,
         "완치자수": 20
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 88,
-        "사망자수": 4,
-        "완치자수": 5
     },
     {
         "Name": "Bermuda",
