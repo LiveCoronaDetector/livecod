@@ -16,10 +16,9 @@ def get_past_data():
             data += line
             line = f.readline()
 
-    # print(data[:-1])
+    semi_colon = data.index(';')
 
-    # ; 제거를 위해 [-1] 인덱싱
-    return json.loads(data[:-1].replace('\n', '').replace('\t', ''))
+    return json.loads(data[:semi_colon].replace('\n', '').replace('\t', ''))
 
 
 def get_today_data(url, data):
