@@ -1161,6 +1161,14 @@ var marker = [
         "완치자수": 15
     },
     {
+        "Name": "Sudan",
+        "Name_ch": "",
+        "Name_en": "Sudan",
+        "확진자수": 66,
+        "사망자수": 10,
+        "완치자수": 6
+    },
+    {
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
@@ -1295,14 +1303,6 @@ var marker = [
         "확진자수": 34,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Sudan",
-        "Name_ch": "",
-        "Name_en": "Sudan",
-        "확진자수": 33,
-        "사망자수": 6,
-        "완치자수": 4
     },
     {
         "Name": "Mongolia",
@@ -1566,7 +1566,7 @@ var marker = [
         "Name_en": "Nicaragua",
         "확진자수": 9,
         "사망자수": 1,
-        "완치자수": 4
+        "완치자수": 6
     },
     {
         "Name": "Vatican City",
