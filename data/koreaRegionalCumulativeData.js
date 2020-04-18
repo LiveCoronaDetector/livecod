@@ -8,13 +8,6 @@ var koreaRegionalCumulativeData = [
         0
     ],
     [
-        "2/1",
-        0,
-        -230,
-        12,
-        0
-    ],
-    [
         "2/2",
         0,
         0,
