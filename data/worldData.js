@@ -185,6 +185,14 @@ var marker = [
         "완치자수": 4035
     },
     {
+        "Name": "사우디아라비아",
+        "Name_ch": "沙特阿拉伯",
+        "Name_en": "Saudi Arabia",
+        "확진자수": 9362,
+        "사망자수": 97,
+        "완치자수": 1398
+    },
+    {
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
@@ -207,14 +215,6 @@ var marker = [
         "확진자수": 8746,
         "사망자수": 434,
         "완치자수": 1892
-    },
-    {
-        "Name": "사우디아라비아",
-        "Name_ch": "沙特阿拉伯",
-        "Name_en": "Saudi Arabia",
-        "확진자수": 8274,
-        "사망자수": 92,
-        "완치자수": 1329
     },
     {
         "Name": "파키스탄",
@@ -518,7 +518,7 @@ var marker = [
         "Name_en": "Uzbekistan",
         "확진자수": 1495,
         "사망자수": 5,
-        "완치자수": 214
+        "완치자수": 225
     },
     {
         "Name": "New Zealand",
@@ -889,6 +889,14 @@ var marker = [
         "완치자수": 180
     },
     {
+        "Name": "스리랑카",
+        "Name_ch": "斯里兰卡",
+        "Name_en": "Sri Lanka",
+        "확진자수": 269,
+        "사망자수": 7,
+        "완치자수": 91
+    },
+    {
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
@@ -911,14 +919,6 @@ var marker = [
         "확진자수": 257,
         "사망자수": 7,
         "완치자수": 21
-    },
-    {
-        "Name": "스리랑카",
-        "Name_ch": "斯里兰卡",
-        "Name_en": "Sri Lanka",
-        "확진자수": 256,
-        "사망자수": 7,
-        "완치자수": 91
     },
     {
         "Name": "Mayotte",
@@ -1281,6 +1281,14 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "확진자수": 39,
+        "사망자수": 0,
+        "완치자수": 8
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
@@ -1303,14 +1311,6 @@ var marker = [
         "확진자수": 35,
         "사망자수": 1,
         "완치자수": 18
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "확진자수": 35,
-        "사망자수": 0,
-        "완치자수": 4
     },
     {
         "Name": "Chad",
@@ -1637,7 +1637,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "British Virgin Islands",
         "확진자수": 4,
-        "사망자수": 0,
+        "사망자수": 1,
         "완치자수": 2
     },
     {
