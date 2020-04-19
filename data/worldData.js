@@ -84,8 +84,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 36722,
-        "사망자수": 2361,
+        "확진자수": 36760,
+        "사망자수": 2368,
         "완치자수": 14026
     },
     {
@@ -244,7 +244,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 7036,
+        "확진자수": 7069,
         "사망자수": 164,
         "완치자수": 32
     },
@@ -745,6 +745,14 @@ var marker = [
         "완치자수": 166
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 520,
+        "사망자수": 32,
+        "완치자수": 31
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
@@ -767,14 +775,6 @@ var marker = [
         "확진자수": 506,
         "사망자수": 5,
         "완치자수": 130
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 493,
-        "사망자수": 31,
-        "완치자수": 31
     },
     {
         "Name": "Channel Islands",
@@ -948,9 +948,9 @@ var marker = [
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "확진자수": 202,
+        "확진자수": 206,
         "사망자수": 8,
-        "완치자수": 35
+        "완치자수": 41
     },
     {
         "Name": "El Salvador",
@@ -1073,20 +1073,20 @@ var marker = [
         "완치자수": 7
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 107,
+        "사망자수": 5,
+        "완치자수": 5
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "확진자수": 105,
         "사망자수": 3,
         "완치자수": 16
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 98,
-        "사망자수": 5,
-        "완치자수": 5
     },
     {
         "Name": "Aruba",
