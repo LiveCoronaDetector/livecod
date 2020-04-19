@@ -524,9 +524,9 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1422,
+        "확진자수": 1431,
         "사망자수": 11,
-        "완치자수": 867
+        "완치자수": 912
     },
     {
         "Name": "아제르바이잔",
@@ -905,6 +905,14 @@ var marker = [
         "완치자수": 60
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 257,
+        "사망자수": 7,
+        "완치자수": 21
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
@@ -919,14 +927,6 @@ var marker = [
         "확진자수": 254,
         "사망자수": 4,
         "완치자수": 117
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 235,
-        "사망자수": 7,
-        "완치자수": 21
     },
     {
         "Name": "Venezuela",
@@ -969,20 +969,20 @@ var marker = [
         "완치자수": 173
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 173,
+        "사망자수": 5,
+        "완치자수": 25
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
         "확진자수": 163,
         "사망자수": 12,
         "완치자수": 73
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 163,
-        "사망자수": 5,
-        "완치자수": 25
     },
     {
         "Name": "Guadeloupe",
