@@ -108,7 +108,7 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "확진자수": 27404,
+        "확진자수": 27740,
         "사망자수": 1368,
         "완치자수": 17100
     },
@@ -140,7 +140,7 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "확진자수": 14681,
+        "확진자수": 14689,
         "사망자수": 443,
         "완치자수": 10501
     },
@@ -156,8 +156,8 @@ var marker = [
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "확진자수": 13822,
-        "사망자수": 1511,
+        "확진자수": 14385,
+        "사망자수": 1540,
         "완치자수": 550
     },
     {
@@ -236,9 +236,9 @@ var marker = [
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "확진자수": 7242,
-        "사망자수": 346,
-        "완치자수": 3847
+        "확진자수": 7384,
+        "사망자수": 355,
+        "완치자수": 4141
     },
     {
         "Name": "노르웨이",
@@ -437,7 +437,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Moldova",
         "확진자수": 2351,
-        "사망자수": 61,
+        "사망자수": 62,
         "완치자수": 457
     },
     {
@@ -468,9 +468,9 @@ var marker = [
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "확진자수": 1832,
-        "사망자수": 39,
-        "완치자수": 615
+        "확진자수": 1871,
+        "사망자수": 47,
+        "완치자수": 709
     },
     {
         "Name": "바레인",
@@ -492,9 +492,9 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 1661,
+        "확진자수": 1676,
         "사망자수": 17,
-        "완치자수": 382
+        "완치자수": 400
     },
     {
         "Name": "에스토니아",
@@ -549,7 +549,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Lithuania",
         "확진자수": 1298,
-        "사망자수": 34,
+        "사망자수": 35,
         "완치자수": 242
     },
     {
@@ -1625,6 +1625,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "확진자수": 5,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "British Virgin Islands",
         "Name_ch": "",
         "Name_en": "British Virgin Islands",
@@ -1655,14 +1663,6 @@ var marker = [
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 1
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "확진자수": 3,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Saint Pierre Miquelon",
