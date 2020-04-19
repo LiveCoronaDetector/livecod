@@ -425,6 +425,14 @@ var marker = [
         "완치자수": 894
     },
     {
+        "Name": "Bangladesh",
+        "Name_ch": "",
+        "Name_en": "Bangladesh",
+        "확진자수": 2456,
+        "사망자수": 91,
+        "완치자수": 75
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
@@ -439,14 +447,6 @@ var marker = [
         "확진자수": 2235,
         "사망자수": 110,
         "완치자수": 269
-    },
-    {
-        "Name": "Bangladesh",
-        "Name_ch": "",
-        "Name_en": "Bangladesh",
-        "확진자수": 2144,
-        "사망자수": 84,
-        "완치자수": 66
     },
     {
         "Name": "헝가리",
@@ -596,9 +596,9 @@ var marker = [
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "확진자수": 1024,
+        "확진자수": 1026,
         "사망자수": 4,
-        "완치자수": 568
+        "완치자수": 602
     },
     {
         "Name": "카메룬",
@@ -857,6 +857,14 @@ var marker = [
         "완치자수": 211
     },
     {
+        "Name": "DRC",
+        "Name_ch": "",
+        "Name_en": "DRC",
+        "확진자수": 327,
+        "사망자수": 25,
+        "완치자수": 26
+    },
+    {
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
@@ -871,14 +879,6 @@ var marker = [
         "확진자수": 308,
         "사망자수": 5,
         "완치자수": 55
-    },
-    {
-        "Name": "DRC",
-        "Name_ch": "",
-        "Name_en": "DRC",
-        "확진자수": 307,
-        "사망자수": 25,
-        "완치자수": 26
     },
     {
         "Name": "Isle of Man",
@@ -1113,20 +1113,20 @@ var marker = [
         "완치자수": 22
     },
     {
+        "Name": "Bermuda",
+        "Name_ch": "",
+        "Name_en": "Bermuda",
+        "확진자수": 86,
+        "사망자수": 5,
+        "완치자수": 35
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
         "확진자수": 84,
         "사망자수": 5,
         "완치자수": 49
-    },
-    {
-        "Name": "Bermuda",
-        "Name_ch": "",
-        "Name_en": "Bermuda",
-        "확진자수": 83,
-        "사망자수": 5,
-        "완치자수": 35
     },
     {
         "Name": "리히텐슈타인",
