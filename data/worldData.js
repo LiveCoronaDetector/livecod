@@ -729,6 +729,14 @@ var marker = [
         "완치자수": 321
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 554,
+        "사망자수": 5,
+        "완치자수": 133
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
@@ -767,14 +775,6 @@ var marker = [
         "확진자수": 517,
         "사망자수": 9,
         "완치자수": 298
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 506,
-        "사망자수": 5,
-        "완치자수": 130
     },
     {
         "Name": "Channel Islands",
