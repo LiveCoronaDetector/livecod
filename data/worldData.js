@@ -252,7 +252,7 @@ var marker = [
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "확진자수": 6606,
+        "확진자수": 6654,
         "사망자수": 181,
         "완치자수": 1227
     },
@@ -628,9 +628,9 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 878,
-        "사망자수": 41,
-        "완치자수": 153
+        "확진자수": 884,
+        "사망자수": 42,
+        "완치자수": 161
     },
     {
         "Name": "Tunisia",
@@ -956,9 +956,9 @@ var marker = [
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "확진자수": 190,
+        "확진자수": 201,
         "사망자수": 7,
-        "완치자수": 43
+        "완치자수": 44
     },
     {
         "Name": "Faeroe Islands",
