@@ -905,6 +905,14 @@ var marker = [
         "완치자수": 60
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 257,
+        "사망자수": 7,
+        "완치자수": 21
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
@@ -919,14 +927,6 @@ var marker = [
         "확진자수": 254,
         "사망자수": 4,
         "완치자수": 117
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 235,
-        "사망자수": 7,
-        "완치자수": 21
     },
     {
         "Name": "Venezuela",
