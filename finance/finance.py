@@ -5,7 +5,7 @@ from datetime import datetime as dt, date
 import time
 
 df = pd.DataFrame()
-tickers = ["^KS11", "^GSPC", "^N225", "^HSI", "^N100", "^FTSE", "^DJI"] 
+tickers = ["^KS11", "^GSPC", "^N225", "^HSI", "^N100", "^FTSE", "^DJI"]
 start_day = dt(2019, 12, 1)
 today = str(date.today())
 
@@ -16,7 +16,7 @@ def get_all_index_data(df, tickers, start_day, today):
         try:
             print('Stealing from Yahoo Finance ......................\n')
             print('Working on a ticker: ', ticker, '......................\n')
-            
+
             ticker_df = yf.download(ticker, start=start_day, end=today)
             time.sleep(1)
             df_temp = ticker_df.reset_index()
@@ -50,6 +50,79 @@ def plot(data):
     #plt.savefig('SMA-KOSPI.png')
     plt.show()
 
+
+#Interactive Graph 시각화 with plotly
+import plotly.express as px
+import plotly.graph_objects as go
+
+##로그 변화율 interactive 시각화(data_fill이용)
+
+log_data_fill = log_diff(data_fill)
+
+fig = go.Figure()
+fig.add_trace(go.Scatter(
+    x=log_data_fill.index,
+    y=log_data_fill.FTSE,
+    mode='lines',
+    name='FTSE'))
+
+fig.add_trace(go.Scatter(x=log_data_fill.index,
+                         y=log_data_fill.GSPC,
+                         mode='lines',
+                         name='GSPC(S&P 500)'))
+fig.add_trace(go.Scatter(x=log_data_fill.index,
+                         y=log_data_fill.HSI,
+                         mode='lines',
+                         name='HSI(Hangseng'))
+fig.add_trace(go.Scatter(x=log_data_fill.index,
+                         y=log_data_fill.KS11,
+                         mode='lines',
+                         name='KS11(KOSPI)'))
+fig.add_trace(go.Scatter(x=log_data_fill.index,
+                         y=log_data_fill.N100,
+                         mode='lines',
+                         name='N100(EuroNext100)'))
+fig.add_trace(go.Scatter(x=log_data_fill.index,
+                         y=log_data_fill.N225,
+                         mode='lines',
+                         name='N225(Nikkei225)'))
+
+
+#정규화 지표값 추이 interactive 시각화
+
+standardize_data_fill = standardize(data_fill)
+
+fig = go.Figure()
+fig.add_trace(go.Scatter(
+    x=standardize_data_fill.index,
+    y=standardize_data_fill.FTSE,
+    mode='lines',
+    name='FTSE'))
+
+fig.add_trace(go.Scatter(x=standardize_data_fill.index,
+                         y=standardize_data_fill.GSPC,
+                         mode='lines',
+                         name='GSPC(S&P 500)'))
+fig.add_trace(go.Scatter(x=standardize_data_fill.index,
+                         y=standardize_data_fill.HSI,
+                         mode='lines',
+                         name='HSI(Hangseng'))
+fig.add_trace(go.Scatter(x=standardize_data_fill.index,
+                         y=standardize_data_fill.KS11,
+                         mode='lines',
+                         name='KS11(KOSPI)'))
+fig.add_trace(go.Scatter(x=standardize_data_fill.index,
+                         y=standardize_data_fill.N100,
+                         mode='lines',
+                         name='N100(EuroNext100)'))
+fig.add_trace(go.Scatter(x=standardize_data_fill.index,
+                         y=standardize_data_fill.N225,
+                         mode='lines',
+                         name='N225(Nikkei225)'))
+
+
+
+
 world_aggregated = 'https://raw.githubusercontent.com/datasets/covid-19/master/data/worldwide-aggregated.csv'
 countries_aggregated= 'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'
 world = pd.read_csv(world_aggregated)
@@ -58,4 +131,3 @@ countries = pd.read_csv(countries_aggregated)
 #print(countries.head())
 korea = countries[countries['Country'].str.contains("Korea, South")]
 #print(korea.head())
-
