@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 781561,
-        "사망자수": 41586,
+        "확진자수": 782987,
+        "사망자수": 41777,
         "완치자수": 71770
     },
     {
@@ -684,9 +684,9 @@ var marker = [
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
-        "확진자수": 713,
+        "확진자수": 717,
         "사망자수": 36,
-        "완치자수": 235
+        "완치자수": 248
     },
     {
         "Name": "일본크루즈",
@@ -737,20 +737,20 @@ var marker = [
         "완치자수": 327
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 581,
+        "사망자수": 38,
+        "완치자수": 357
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
         "확진자수": 579,
         "사망자수": 5,
         "완치자수": 87
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 576,
-        "사망자수": 36,
-        "완치자수": 338
     },
     {
         "Name": "Kyrgyzstan",
