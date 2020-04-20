@@ -1409,6 +1409,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Fiji",
+        "Name_ch": "",
+        "Name_en": "Fiji",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1423,14 +1431,6 @@ var marker = [
         "확진자수": 17,
         "사망자수": 2,
         "완치자수": 3
-    },
-    {
-        "Name": "Fiji",
-        "Name_ch": "",
-        "Name_en": "Fiji",
-        "확진자수": 17,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Dominica",
