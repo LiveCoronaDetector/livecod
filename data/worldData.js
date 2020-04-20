@@ -745,6 +745,14 @@ var marker = [
         "완치자수": 338
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 568,
+        "사망자수": 7,
+        "완치자수": 201
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
@@ -759,14 +767,6 @@ var marker = [
         "확진자수": 562,
         "사망자수": 26,
         "완치자수": 314
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 554,
-        "사망자수": 5,
-        "완치자수": 133
     },
     {
         "Name": "Uruguay",
