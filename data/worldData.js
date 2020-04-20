@@ -36,7 +36,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 145742,
+        "확진자수": 145743,
         "사망자수": 4642,
         "완치자수": 91500
     },
@@ -68,9 +68,9 @@ var marker = [
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "확진자수": 42853,
-        "사망자수": 361,
-        "완치자수": 3291
+        "확진자수": 47121,
+        "사망자수": 405,
+        "완치자수": 3446
     },
     {
         "Name": "브라질",
@@ -1377,6 +1377,14 @@ var marker = [
         "완치자수": 8
     },
     {
+        "Name": "Timor-Leste",
+        "Name_ch": "",
+        "Name_en": "Timor-Leste",
+        "확진자수": 22,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
@@ -1391,14 +1399,6 @@ var marker = [
         "확진자수": 19,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Timor-Leste",
-        "Name_ch": "",
-        "Name_en": "Timor-Leste",
-        "확진자수": 19,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "Belize",
