@@ -116,8 +116,8 @@ var marker = [
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "확진자수": 20206,
-        "사망자수": 714,
+        "확진자수": 20863,
+        "사망자수": 735,
         "완치자수": 610
     },
     {
@@ -305,20 +305,20 @@ var marker = [
         "완치자수": 753
     },
     {
+        "Name": "카타르",
+        "Name_ch": "卡塔尔",
+        "Name_en": "Qatar",
+        "확진자수": 6015,
+        "사망자수": 9,
+        "완치자수": 555
+    },
+    {
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
         "확진자수": 5710,
         "사망자수": 151,
         "완치자수": 359
-    },
-    {
-        "Name": "카타르",
-        "Name_ch": "卡塔尔",
-        "Name_en": "Qatar",
-        "확진자수": 5448,
-        "사망자수": 8,
-        "완치자수": 518
     },
     {
         "Name": "말레이시아",
@@ -481,20 +481,20 @@ var marker = [
         "완치자수": 709
     },
     {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+        "확진자수": 1775,
+        "사망자수": 19,
+        "완치자수": 428
+    },
+    {
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
         "확진자수": 1771,
         "사망자수": 9,
         "완치자수": 1291
-    },
-    {
-        "Name": "Kazakhstan",
-        "Name_ch": "",
-        "Name_en": "Kazakhstan",
-        "확진자수": 1757,
-        "사망자수": 19,
-        "완치자수": 428
     },
     {
         "Name": "Uzbekistan",
@@ -1270,7 +1270,15 @@ var marker = [
         "Name_en": "Macao",
         "확진자수": 45,
         "사망자수": 0,
-        "완치자수": 17
+        "완치자수": 22
+    },
+    {
+        "Name": "Sierra Leone",
+        "Name_ch": "",
+        "Name_en": "Sierra Leone",
+        "확진자수": 43,
+        "사망자수": 0,
+        "완치자수": 6
     },
     {
         "Name": "Syria",
@@ -1311,14 +1319,6 @@ var marker = [
         "확진자수": 35,
         "사망자수": 1,
         "완치자수": 18
-    },
-    {
-        "Name": "Sierra Leone",
-        "Name_ch": "",
-        "Name_en": "Sierra Leone",
-        "확진자수": 35,
-        "사망자수": 0,
-        "완치자수": 6
     },
     {
         "Name": "Chad",
