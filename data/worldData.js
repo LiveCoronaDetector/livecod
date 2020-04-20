@@ -1332,7 +1332,7 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 32,
+        "확진자수": 33,
         "사망자수": 0,
         "완치자수": 7
     },
