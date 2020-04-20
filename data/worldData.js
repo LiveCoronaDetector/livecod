@@ -78,7 +78,7 @@ var marker = [
         "Name_en": "Brazil",
         "확진자수": 38654,
         "사망자수": 2462,
-        "완치자수": 14026
+        "완치자수": 22130
     },
     {
         "Name": "벨기에",
@@ -1609,6 +1609,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "British Virgin Islands",
+        "Name_ch": "",
+        "Name_en": "British Virgin Islands",
+        "확진자수": 5,
+        "사망자수": 1,
+        "완치자수": 3
+    },
+    {
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
@@ -1631,14 +1639,6 @@ var marker = [
         "확진자수": 5,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "British Virgin Islands",
-        "Name_ch": "",
-        "Name_en": "British Virgin Islands",
-        "확진자수": 4,
-        "사망자수": 1,
-        "완치자수": 2
     },
     {
         "Name": "Sao Tome and Principe",
