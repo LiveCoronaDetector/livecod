@@ -521,6 +521,14 @@ var marker = [
         "완치자수": 165
     },
     {
+        "Name": "New Zealand",
+        "Name_ch": "",
+        "Name_en": "New Zealand",
+        "확진자수": 1445,
+        "사망자수": 13,
+        "완치자수": 1006
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
@@ -591,14 +599,6 @@ var marker = [
         "확진자수": 1163,
         "사망자수": 42,
         "완치자수": 305
-    },
-    {
-        "Name": "New Zealand",
-        "Name_ch": "",
-        "Name_en": "New Zealand",
-        "확진자수": 1145,
-        "사망자수": 13,
-        "완치자수": 974
     },
     {
         "Name": "Cuba",
@@ -900,9 +900,9 @@ var marker = [
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "확진자수": 289,
+        "확진자수": 294,
         "사망자수": 7,
-        "완치자수": 21
+        "완치자수": 24
     },
     {
         "Name": "Venezuela",
