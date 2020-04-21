@@ -348,9 +348,9 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 4467,
-        "사망자수": 126,
-        "완치자수": 165
+        "확진자수": 4658,
+        "사망자수": 136,
+        "완치자수": 204
     },
     {
         "Name": "콜롬비아",
@@ -737,6 +737,14 @@ var marker = [
         "완치자수": 122
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 598,
+        "사망자수": 34,
+        "완치자수": 37
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
@@ -761,14 +769,6 @@ var marker = [
         "완치자수": 201
     },
     {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 564,
-        "사망자수": 33,
-        "완치자수": 31
-    },
-    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
@@ -777,20 +777,20 @@ var marker = [
         "완치자수": 313
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 494,
+        "사망자수": 46,
+        "완치자수": 25
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 488,
         "사망자수": 24,
         "완치자수": 73
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 477,
-        "사망자수": 46,
-        "완치자수": 25
     },
     {
         "Name": "산마리노",
