@@ -142,7 +142,7 @@ var marker = [
         "Name_en": "Ireland",
         "확진자수": 16040,
         "사망자수": 730,
-        "완치자수": 77
+        "완치자수": 9233
     },
     {
         "Name": "스웨덴",
@@ -745,6 +745,14 @@ var marker = [
         "완치자수": 345
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 600,
+        "사망자수": 38,
+        "완치자수": 362
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
@@ -759,14 +767,6 @@ var marker = [
         "확진자수": 590,
         "사망자수": 7,
         "완치자수": 216
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 581,
-        "사망자수": 38,
-        "완치자수": 357
     },
     {
         "Name": "Uruguay",
@@ -902,7 +902,7 @@ var marker = [
         "Name_en": "Isle of Man",
         "확진자수": 307,
         "사망자수": 9,
-        "완치자수": 200
+        "완치자수": 209
     },
     {
         "Name": "Kenya",
@@ -1345,6 +1345,14 @@ var marker = [
         "완치자수": 8
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "확진자수": 31,
+        "사망자수": 1,
+        "완치자수": 8
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
@@ -1359,14 +1367,6 @@ var marker = [
         "확진자수": 24,
         "사망자수": 2,
         "완치자수": 6
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "확진자수": 24,
-        "사망자수": 1,
-        "완치자수": 8
     },
     {
         "Name": "Antigua and Barbuda",
