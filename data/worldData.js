@@ -68,9 +68,9 @@ var marker = [
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "확진자수": 47121,
-        "사망자수": 405,
-        "완치자수": 3446
+        "확진자수": 52763,
+        "사망자수": 456,
+        "완치자수": 3873
     },
     {
         "Name": "브라질",
@@ -886,7 +886,7 @@ var marker = [
         "Name_en": "Sri Lanka",
         "확진자수": 309,
         "사망자수": 7,
-        "완치자수": 98
+        "완치자수": 100
     },
     {
         "Name": "Isle of Man",
@@ -1145,6 +1145,14 @@ var marker = [
         "완치자수": 53
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "확진자수": 82,
+        "사망자수": 0,
+        "완치자수": 16
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
@@ -1167,14 +1175,6 @@ var marker = [
         "확진자수": 75,
         "사망자수": 5,
         "완치자수": 23
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "확진자수": 69,
-        "사망자수": 0,
-        "완치자수": 16
     },
     {
         "Name": "Sint Maarten",
