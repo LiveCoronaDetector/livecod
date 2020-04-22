@@ -41,7 +41,7 @@ def run():
 
 print("#####################################")
 print("############ 한국 나이별 치명율 데이터 #############")
-print("######## koreaAgeStatusData.js #########")
+print("######## koreaAgeDeathsPerData.js #########")
 
 run()
 
