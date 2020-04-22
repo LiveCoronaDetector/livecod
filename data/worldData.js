@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 818744,
-        "사망자수": 45318,
+        "확진자수": 818892,
+        "사망자수": 45339,
         "완치자수": 82923
     },
     {
@@ -777,20 +777,20 @@ var marker = [
         "완치자수": 324
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 510,
+        "사망자수": 46,
+        "완치자수": 30
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 496,
         "사망자수": 24,
         "완치자수": 256
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 494,
-        "사망자수": 46,
-        "완치자수": 29
     },
     {
         "Name": "산마리노",
