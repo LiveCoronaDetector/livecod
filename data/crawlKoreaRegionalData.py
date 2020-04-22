@@ -17,14 +17,11 @@ def parse_data(data, updated):
 
     for i, d in enumerate(data):
         region = d.find_all('h4', class_='cityname')[0].text      # 지역이름
-        confirmed = int(d.find_all('span', class_='num')[
-                        0].text.replace(',', ''))    # 확진자수
-        recovered = int(d.find_all('span', class_='num')[
-                        2].text.replace(',', ''))   # 격리해제수
-        deaths = int(d.find_all('span', class_='num')[
-                     1].text.replace(',', ''))  # 사망자수
-        confirmed_rate = float(d.find_all('span', class_='num')[
-                               3].text.replace('-', '0'))   # 십만명당발생율
+        temp = d.find_all('span', class_='num')
+        confirmed = int(temp[0].text.replace(',', ''))    # 확진자수
+        recovered = int(temp[2].text.replace(',', ''))   # 격리해제수
+        deaths = int(temp[3].text.replace(',', ''))  # 사망자수
+        confirmed_rate = float(temp[4].text.replace('-', '0'))   # 십만명당발생율
 
         if i != 0:
             slicing = d.find_all('p', class_='citytit')[0].text
