@@ -21,7 +21,6 @@ jobs:
           python "data/crawlKoreaTotalCumulativeData.py"
           python "data/crawlKoreaRegionalCumulativeData.py"
           python "data/crawlWorldCumulativeData.py"
-          python "data/crawlKoreaTotalCumulativeData.py"
       - name: Commit files
         run: |
           git config --local user.email "commit-bot@taeuk.me"
