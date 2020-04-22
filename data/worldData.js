@@ -348,9 +348,9 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 4658,
-        "사망자수": 136,
-        "완치자수": 204
+        "확진자수": 4821,
+        "사망자수": 141,
+        "완치자수": 231
     },
     {
         "Name": "콜롬비아",
@@ -1105,6 +1105,14 @@ var marker = [
         "완치자수": 7
     },
     {
+        "Name": "Bermuda",
+        "Name_ch": "",
+        "Name_en": "Bermuda",
+        "확진자수": 98,
+        "사망자수": 5,
+        "완치자수": 39
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
@@ -1129,14 +1137,6 @@ var marker = [
         "완치자수": 26
     },
     {
-        "Name": "Bermuda",
-        "Name_ch": "",
-        "Name_en": "Bermuda",
-        "확진자수": 89,
-        "사망자수": 5,
-        "완치자수": 39
-    },
-    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
@@ -1145,20 +1145,20 @@ var marker = [
         "완치자수": 56
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "확진자수": 86,
+        "사망자수": 0,
+        "완치자수": 16
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
         "확진자수": 83,
         "사망자수": 0,
         "완치자수": 7
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "확진자수": 83,
-        "사망자수": 0,
-        "완치자수": 16
     },
     {
         "Name": "리히텐슈타인",
