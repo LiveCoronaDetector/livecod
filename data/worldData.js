@@ -860,9 +860,9 @@ var marker = [
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "확진자수": 350,
+        "확진자수": 359,
         "사망자수": 25,
-        "완치자수": 35
+        "완치자수": 45
     },
     {
         "Name": "Mauritius",
