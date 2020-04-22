@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 844440,
-        "사망자수": 47227,
-        "완치자수": 83759
+        "확진자수": 844992,
+        "사망자수": 47430,
+        "완치자수": 83910
     },
     {
         "Name": "스페인",
@@ -985,6 +985,14 @@ var marker = [
         "완치자수": 62
     },
     {
+        "Name": "Congo",
+        "Name_ch": "",
+        "Name_en": "Congo",
+        "확진자수": 186,
+        "사망자수": 6,
+        "완치자수": 16
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
@@ -999,14 +1007,6 @@ var marker = [
         "확진자수": 166,
         "사망자수": 1,
         "완치자수": 24
-    },
-    {
-        "Name": "Congo",
-        "Name_ch": "",
-        "Name_en": "Congo",
-        "확진자수": 165,
-        "사망자수": 6,
-        "완치자수": 16
     },
     {
         "Name": "Martinique",
