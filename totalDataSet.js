@@ -9,10 +9,10 @@ marker.push({
   "Name_ch": "韩国",
   "lat": 37.5456299,
   "lng": 126.9540667,
-  "확진자수": koreaRegionalData[0]['확진자수'],
-  "사망자수": koreaRegionalData[0]['사망자수'],
-  "완치자수": koreaRegionalData[0]['격리해제수'],
-  "십만명당발생율": koreaRegionalData[0]['십만명당발생율']
+  "확진자수": 10683, //koreaRegionalData[0]['확진자수'],
+  "사망자수": 237, //koreaRegionalData[0]['사망자수'],
+  "완치자수": 8213, //koreaRegionalData[0]['격리해제수'],
+  "십만명당발생율": 1.94 //koreaRegionalData[0]['십만명당발생율']
 })
 
 
