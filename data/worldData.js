@@ -540,9 +540,9 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1445,
-        "사망자수": 13,
-        "완치자수": 1006
+        "확진자수": 1451,
+        "사망자수": 14,
+        "완치자수": 1036
     },
     {
         "Name": "아르메니아",
@@ -737,6 +737,14 @@ var marker = [
         "완치자수": 127
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 609,
+        "사망자수": 37,
+        "완치자수": 44
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
@@ -751,14 +759,6 @@ var marker = [
         "확진자수": 600,
         "사망자수": 38,
         "완치자수": 362
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 598,
-        "사망자수": 34,
-        "완치자수": 37
     },
     {
         "Name": "Kyrgyzstan",
@@ -873,6 +873,14 @@ var marker = [
         "완치자수": 243
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 316,
+        "사망자수": 8,
+        "완치자수": 24
+    },
+    {
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
@@ -911,14 +919,6 @@ var marker = [
         "확진자수": 296,
         "사망자수": 14,
         "완치자수": 74
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 294,
-        "사망자수": 7,
-        "완치자수": 24
     },
     {
         "Name": "Venezuela",
@@ -964,7 +964,7 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 228,
+        "확진자수": 233,
         "사망자수": 6,
         "완치자수": 27
     },
@@ -1129,20 +1129,20 @@ var marker = [
         "완치자수": 26
     },
     {
+        "Name": "Bermuda",
+        "Name_ch": "",
+        "Name_en": "Bermuda",
+        "확진자수": 89,
+        "사망자수": 5,
+        "완치자수": 39
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
         "확진자수": 86,
         "사망자수": 6,
         "완치자수": 56
-    },
-    {
-        "Name": "Bermuda",
-        "Name_ch": "",
-        "Name_en": "Bermuda",
-        "확진자수": 86,
-        "사망자수": 5,
-        "완치자수": 37
     },
     {
         "Name": "Equatorial Guinea",
