@@ -25,8 +25,8 @@ for (var i = 0; i < koreaRegionalData.length; i++) {
       "lat": 33.50972,
       "lng": 126.52194,
       "확진자수": koreaRegionalData[i]['확진자수'], //
-      "사망자수": koreaRegionalData[i]['사망자수'],
-      "완치자수": koreaRegionalData[i]['격리해제수'] //,
+      "사망자수": 0, //koreaRegionalData[i]['사망자수']
+      "완치자수": 6 //koreaRegionalData[i]['격리해제수']
     })
     // console.log(koreaRegionalData[i]['확진자수'], koreaRegionalData[i]['사망자수'], koreaRegionalData[i]['격리해제수'])
   }
