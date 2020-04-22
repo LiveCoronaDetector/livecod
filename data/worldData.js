@@ -302,7 +302,7 @@ var marker = [
         "Name_en": "Australia",
         "확진자수": 6647,
         "사망자수": 74,
-        "완치자수": 4685
+        "완치자수": 4912
     },
     {
         "Name": "필리핀",
@@ -468,7 +468,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 1995,
+        "확진자수": 2025,
         "사망자수": 19,
         "완치자수": 489
     },
@@ -1332,7 +1332,7 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 34,
+        "확진자수": 35,
         "사망자수": 0,
         "완치자수": 8
     },
@@ -1361,20 +1361,20 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Antigua and Barbuda",
+        "Name_ch": "",
+        "Name_en": "Antigua and Barbuda",
+        "확진자수": 24,
+        "사망자수": 3,
+        "완치자수": 7
+    },
+    {
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
         "확진자수": 24,
         "사망자수": 2,
         "완치자수": 6
-    },
-    {
-        "Name": "Antigua and Barbuda",
-        "Name_ch": "",
-        "Name_en": "Antigua and Barbuda",
-        "확진자수": 23,
-        "사망자수": 3,
-        "완치자수": 7
     },
     {
         "Name": "Timor-Leste",
@@ -1492,9 +1492,9 @@ var marker = [
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
-        "확진자수": 12,
+        "확진자수": 13,
         "사망자수": 0,
-        "완치자수": 2
+        "완치자수": 3
     },
     {
         "Name": "Turks and Caicos",
