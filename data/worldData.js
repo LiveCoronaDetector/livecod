@@ -36,8 +36,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 148766,
-        "사망자수": 5102,
+        "확진자수": 148925,
+        "사망자수": 5117,
         "완치자수": 99400
     },
     {
@@ -502,7 +502,7 @@ var marker = [
         "Name_en": "Uzbekistan",
         "확진자수": 1692,
         "사망자수": 7,
-        "완치자수": 424
+        "완치자수": 450
     },
     {
         "Name": "오만",
@@ -876,9 +876,9 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 321,
+        "확진자수": 323,
         "사망자수": 7,
-        "완치자수": 104
+        "완치자수": 105
     },
     {
         "Name": "Guatemala",
@@ -1102,7 +1102,7 @@ var marker = [
         "Name_en": "Liberia",
         "확진자수": 101,
         "사망자수": 8,
-        "완치자수": 7
+        "완치자수": 20
     },
     {
         "Name": "Bermuda",
@@ -1305,20 +1305,20 @@ var marker = [
         "완치자수": 6
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "확진자수": 41,
+        "사망자수": 0,
+        "완치자수": 8
+    },
+    {
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
         "확진자수": 39,
         "사망자수": 0,
         "완치자수": 6
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "확진자수": 39,
-        "사망자수": 0,
-        "완치자수": 8
     },
     {
         "Name": "Saint Martin",
@@ -1396,7 +1396,7 @@ var marker = [
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
-        "확진자수": 20,
+        "확진자수": 22,
         "사망자수": 1,
         "완치자수": 0
     },
