@@ -316,9 +316,9 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 6654,
-        "사망자수": 74,
-        "완치자수": 5012
+        "확진자수": 6660,
+        "사망자수": 75,
+        "완치자수": 5034
     },
     {
         "Name": "Ukraine",
@@ -549,8 +549,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "New Zealand",
         "확진자수": 1451,
-        "사망자수": 15,
-        "완치자수": 1036
+        "사망자수": 16,
+        "완치자수": 1065
     },
     {
         "Name": "Lithuania",
@@ -729,6 +729,14 @@ var marker = [
         "완치자수": 180
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 672,
+        "사망자수": 40,
+        "완치자수": 44
+    },
+    {
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
@@ -761,14 +769,6 @@ var marker = [
         "완치자수": 389
     },
     {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 609,
-        "사망자수": 37,
-        "완치자수": 44
-    },
-    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
@@ -780,9 +780,9 @@ var marker = [
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "확진자수": 510,
-        "사망자수": 46,
-        "완치자수": 30
+        "확진자수": 519,
+        "사망자수": 47,
+        "완치자수": 31
     },
     {
         "Name": "Channel Islands",
@@ -973,7 +973,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 237,
-        "사망자수": 7,
+        "사망자수": 8,
         "완치자수": 63
     },
     {
@@ -1020,7 +1020,7 @@ var marker = [
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
-        "확진자수": 163,
+        "확진자수": 162,
         "사망자수": 13,
         "완치자수": 14
     },
@@ -1060,7 +1060,7 @@ var marker = [
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "확진자수": 123,
+        "확진자수": 127,
         "사망자수": 5,
         "완치자수": 7
     },
@@ -1185,20 +1185,20 @@ var marker = [
         "완치자수": 35
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "확진자수": 73,
+        "사망자수": 12,
+        "완치자수": 22
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
         "확진자수": 73,
         "사망자수": 1,
         "완치자수": 1
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 71,
-        "사망자수": 11,
-        "완치자수": 22
     },
     {
         "Name": "Guyana",
