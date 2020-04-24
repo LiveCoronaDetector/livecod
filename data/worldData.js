@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 880204,
-        "사망자수": 49845,
+        "확진자수": 886709,
+        "사망자수": 50243,
         "완치자수": 85922
     },
     {
@@ -116,7 +116,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 23039,
+        "확진자수": 23077,
         "사망자수": 721,
         "완치자수": 5012
     },
@@ -857,6 +857,14 @@ var marker = [
         "완치자수": 238
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 384,
+        "사망자수": 11,
+        "완치자수": 30
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
@@ -871,14 +879,6 @@ var marker = [
         "확진자수": 368,
         "사망자수": 7,
         "완치자수": 107
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 342,
-        "사망자수": 10,
-        "완치자수": 25
     },
     {
         "Name": "Mauritius",
@@ -1041,6 +1041,14 @@ var marker = [
         "완치자수": 76
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 139,
+        "사망자수": 5,
+        "완치자수": 9
+    },
+    {
         "Name": "Brunei",
         "Name_ch": "",
         "Name_en": "Brunei",
@@ -1055,14 +1063,6 @@ var marker = [
         "확진자수": 133,
         "사망자수": 0,
         "완치자수": 129
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 132,
-        "사망자수": 5,
-        "완치자수": 9
     },
     {
         "Name": "캄보디아",
@@ -1286,7 +1286,7 @@ var marker = [
         "Name_en": "Nepal",
         "확진자수": 48,
         "사망자수": 0,
-        "완치자수": 9
+        "완치자수": 10
     },
     {
         "Name": "Mozambique",
@@ -1332,9 +1332,9 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 35,
+        "확진자수": 36,
         "사망자수": 0,
-        "완치자수": 8
+        "완치자수": 9
     },
     {
         "Name": "Malawi",
@@ -1641,17 +1641,17 @@ var marker = [
         "완치자수": 0
     },
     {
-        "Name": "Sao Tome and Principe",
+        "Name": "South Sudan",
         "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 4,
+        "Name_en": "South Sudan",
+        "확진자수": 5,
         "사망자수": 0,
         "완치자수": 0
     },
     {
-        "Name": "South Sudan",
+        "Name": "Sao Tome and Principe",
         "Name_ch": "",
-        "Name_en": "South Sudan",
+        "Name_en": "Sao Tome and Principe",
         "확진자수": 4,
         "사망자수": 0,
         "완치자수": 0
