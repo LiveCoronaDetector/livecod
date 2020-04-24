@@ -308,9 +308,9 @@ var marker = [
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "확진자수": 7187,
-        "사망자수": 210,
-        "완치자수": 2152
+        "확진자수": 7188,
+        "사망자수": 213,
+        "완치자수": 2186
     },
     {
         "Name": "필리핀",
@@ -833,20 +833,20 @@ var marker = [
         "완치자수": 318
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "확진자수": 431,
+        "사망자수": 5,
+        "완치자수": 114
+    },
+    {
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
         "확진자수": 428,
         "사망자수": 6,
         "완치자수": 264
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "확진자수": 425,
-        "사망자수": 5,
-        "완치자수": 111
     },
     {
         "Name": "Réunion",
@@ -961,20 +961,20 @@ var marker = [
         "완치자수": 225
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 261,
+        "사망자수": 8,
+        "완치자수": 67
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
         "확진자수": 257,
         "사망자수": 6,
         "완치자수": 28
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 250,
-        "사망자수": 8,
-        "완치자수": 67
     },
     {
         "Name": "Paraguay",
@@ -1492,9 +1492,9 @@ var marker = [
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
-        "확진자수": 13,
+        "확진자수": 14,
         "사망자수": 0,
-        "완치자수": 3
+        "완치자수": 5
     },
     {
         "Name": "Falkland Islands",
