@@ -348,9 +348,9 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 5166,
-        "사망자수": 146,
-        "완치자수": 271
+        "확진자수": 5338,
+        "사망자수": 154,
+        "완치자수": 319
     },
     {
         "Name": "콜롬비아",
@@ -1337,20 +1337,20 @@ var marker = [
         "완치자수": 24
     },
     {
+        "Name": "Mongolia",
+        "Name_ch": "",
+        "Name_en": "Mongolia",
+        "확진자수": 37,
+        "사망자수": 0,
+        "완치자수": 9
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
         "확진자수": 36,
         "사망자수": 1,
         "완치자수": 10
-    },
-    {
-        "Name": "Mongolia",
-        "Name_ch": "",
-        "Name_en": "Mongolia",
-        "확진자수": 36,
-        "사망자수": 0,
-        "완치자수": 9
     },
     {
         "Name": "Malawi",
