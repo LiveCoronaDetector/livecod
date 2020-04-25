@@ -945,6 +945,14 @@ var marker = [
         "완치자수": 230
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 288,
+        "사망자수": 7,
+        "완치자수": 28
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
@@ -967,14 +975,6 @@ var marker = [
         "확진자수": 261,
         "사망자수": 8,
         "완치자수": 72
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 257,
-        "사망자수": 7,
-        "완치자수": 28
     },
     {
         "Name": "Paraguay",
@@ -1237,8 +1237,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Haiti",
         "확진자수": 72,
-        "사망자수": 5,
-        "완치자수": 2
+        "사망자수": 6,
+        "완치자수": 6
     },
     {
         "Name": "Cayman Islands",
