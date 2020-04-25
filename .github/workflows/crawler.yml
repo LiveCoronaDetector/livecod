@@ -25,7 +25,7 @@ jobs:
         run: |
           git config --local user.email "commit-bot@taeuk.me"
           git config --local user.name "LiveCoronaBot"
-          git add data/worldData.js data/koreaRegionalData.js
+          git add data/worldData.js data/koreaRegionalData.js data/worldPerDayData.js data/koreaAgeDeathsPerData.js
           git commit -m "Run crawler and update current data"
       - name: Push changes
         uses: ad-m/github-push-action@master
