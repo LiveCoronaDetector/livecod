@@ -413,8 +413,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Argentina",
         "확진자수": 3607,
-        "사망자수": 176,
-        "완치자수": 976
+        "사망자수": 179,
+        "완치자수": 1030
     },
     {
         "Name": "알제리",
@@ -881,6 +881,14 @@ var marker = [
         "완치자수": 300
     },
     {
+        "Name": "Somalia",
+        "Name_ch": "",
+        "Name_en": "Somalia",
+        "확진자수": 390,
+        "사망자수": 18,
+        "완치자수": 8
+    },
+    {
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
@@ -903,14 +911,6 @@ var marker = [
         "확진자수": 331,
         "사망자수": 9,
         "완치자수": 285
-    },
-    {
-        "Name": "Somalia",
-        "Name_ch": "",
-        "Name_en": "Somalia",
-        "확진자수": 328,
-        "사망자수": 16,
-        "완치자수": 8
     },
     {
         "Name": "Mali",
