@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 960896,
-        "사망자수": 54265,
-        "완치자수": 118162
+        "확진자수": 962478,
+        "사망자수": 54325,
+        "완치자수": 118305
     },
     {
         "Name": "스페인",
@@ -405,8 +405,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Argentina",
         "확진자수": 3780,
-        "사망자수": 185,
-        "완치자수": 1030
+        "사망자수": 187,
+        "완치자수": 1107
     },
     {
         "Name": "룩셈부르크",
@@ -628,8 +628,8 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 1290,
-        "사망자수": 55,
+        "확진자수": 1300,
+        "사망자수": 56,
         "완치자수": 205
     },
     {
@@ -910,7 +910,7 @@ var marker = [
         "Name_en": "Palestine",
         "확진자수": 342,
         "사망자수": 2,
-        "완치자수": 92
+        "완치자수": 83
     },
     {
         "Name": "Mauritius",
@@ -1009,6 +1009,14 @@ var marker = [
         "완치자수": 19
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "확진자수": 191,
+        "사망자수": 0,
+        "완치자수": 17
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
@@ -1023,14 +1031,6 @@ var marker = [
         "확진자수": 183,
         "사망자수": 0,
         "완치자수": 88
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "확진자수": 177,
-        "사망자수": 0,
-        "완치자수": 17
     },
     {
         "Name": "Gabon",
@@ -1198,7 +1198,7 @@ var marker = [
         "Name_en": "Barbados",
         "확진자수": 79,
         "사망자수": 6,
-        "완치자수": 31
+        "완치자수": 32
     },
     {
         "Name": "Bahamas",
