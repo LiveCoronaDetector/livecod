@@ -116,7 +116,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 26283,
+        "확진자수": 26496,
         "사망자수": 825,
         "완치자수": 5939
     },
@@ -964,9 +964,9 @@ var marker = [
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "확진자수": 274,
+        "확진자수": 298,
         "사망자수": 8,
-        "완치자수": 75
+        "완치자수": 83
     },
     {
         "Name": "베트남",
@@ -1348,7 +1348,7 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 37,
+        "확진자수": 38,
         "사망자수": 0,
         "완치자수": 9
     },
