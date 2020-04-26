@@ -36,8 +36,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 157114,
-        "사망자수": 5884,
+        "확진자수": 157120,
+        "사망자수": 5896,
         "완치자수": 112000
     },
     {
@@ -76,8 +76,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 59479,
-        "사망자수": 4062,
+        "확진자수": 59875,
+        "사망자수": 4077,
         "완치자수": 29160
     },
     {
@@ -1109,7 +1109,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Liberia",
         "확진자수": 120,
-        "사망자수": 11,
+        "사망자수": 12,
         "완치자수": 25
     },
     {
@@ -1497,20 +1497,20 @@ var marker = [
         "완치자수": 5
     },
     {
+        "Name": "Nicaragua",
+        "Name_ch": "",
+        "Name_en": "Nicaragua",
+        "확진자수": 13,
+        "사망자수": 3,
+        "완치자수": 7
+    },
+    {
         "Name": "Falkland Islands",
         "Name_ch": "",
         "Name_en": "Falkland Islands",
         "확진자수": 13,
         "사망자수": 0,
         "완치자수": 11
-    },
-    {
-        "Name": "Nicaragua",
-        "Name_ch": "",
-        "Name_en": "Nicaragua",
-        "확진자수": 12,
-        "사망자수": 3,
-        "완치자수": 7
     },
     {
         "Name": "Burundi",
