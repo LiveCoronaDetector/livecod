@@ -756,9 +756,9 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 665,
+        "확진자수": 682,
         "사망자수": 8,
-        "완치자수": 345
+        "완치자수": 370
     },
     {
         "Name": "Burkina Faso",
