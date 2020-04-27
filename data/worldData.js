@@ -817,20 +817,20 @@ var marker = [
         "완치자수": 120
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 500,
+        "사망자수": 15,
+        "완치자수": 49
+    },
+    {
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "확진자수": 486,
         "사망자수": 6,
         "완치자수": 149
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 473,
-        "사망자수": 13,
-        "완치자수": 45
     },
     {
         "Name": "Malta",
