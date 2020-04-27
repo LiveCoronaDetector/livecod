@@ -350,7 +350,7 @@ var marker = [
         "Name_en": "Panama",
         "확진자수": 5779,
         "사망자수": 165,
-        "완치자수": 338
+        "완치자수": 369
     },
     {
         "Name": "Bangladesh",
@@ -1350,7 +1350,7 @@ var marker = [
         "Name_en": "Mongolia",
         "확진자수": 38,
         "사망자수": 0,
-        "완치자수": 9
+        "완치자수": 10
     },
     {
         "Name": "Malawi",
