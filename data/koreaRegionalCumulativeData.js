@@ -10,7 +10,7 @@ var koreaRegionalCumulativeData = [
     [
         "2/1",
         0,
-        -243,
+        -244,
         12,
         0
     ],
@@ -601,5 +601,12 @@ var koreaRegionalCumulativeData = [
         2,
         10728,
         8717
+    ],
+    [
+        "4/26",
+        243,
+        1,
+        10738,
+        8764
     ]
 ];
