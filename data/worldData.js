@@ -76,8 +76,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 66501,
-        "사망자수": 4543,
+        "확진자수": 67446,
+        "사망자수": 4603,
         "완치자수": 31142
     },
     {
@@ -809,20 +809,20 @@ var marker = [
         "완치자수": 64
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 530,
+        "사망자수": 15,
+        "완치자수": 49
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 525,
         "사망자수": 35,
         "완치자수": 352
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 500,
-        "사망자수": 15,
-        "완치자수": 49
     },
     {
         "Name": "조지아",
