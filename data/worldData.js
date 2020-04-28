@@ -1156,9 +1156,17 @@ var marker = [
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "확진자수": 98,
+        "확진자수": 99,
         "사망자수": 6,
         "완치자수": 62
+    },
+    {
+        "Name": "Sierra Leone",
+        "Name_ch": "",
+        "Name_en": "Sierra Leone",
+        "확진자수": 99,
+        "사망자수": 4,
+        "완치자수": 10
     },
     {
         "Name": "모나코",
@@ -1167,14 +1175,6 @@ var marker = [
         "확진자수": 95,
         "사망자수": 4,
         "완치자수": 42
-    },
-    {
-        "Name": "Sierra Leone",
-        "Name_ch": "",
-        "Name_en": "Sierra Leone",
-        "확진자수": 93,
-        "사망자수": 4,
-        "완치자수": 10
     },
     {
         "Name": "Zambia",
