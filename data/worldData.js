@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1012147,
-        "사망자수": 56933,
+        "확진자수": 1013128,
+        "사망자수": 57037,
         "완치자수": 139419
     },
     {
@@ -36,8 +36,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 158768,
-        "사망자수": 6136,
+        "확진자수": 159038,
+        "사망자수": 6161,
         "완치자수": 117400
     },
     {
@@ -601,20 +601,20 @@ var marker = [
         "완치자수": 223
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 1399,
+        "사망자수": 58,
+        "완치자수": 222
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
         "확진자수": 1389,
         "사망자수": 56,
         "완치자수": 525
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 1387,
-        "사망자수": 58,
-        "완치자수": 222
     },
     {
         "Name": "슬로바키아",
@@ -796,7 +796,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 596,
+        "확진자수": 599,
         "사망자수": 7,
         "완치자수": 134
     },
@@ -934,7 +934,7 @@ var marker = [
         "Name_en": "Mauritius",
         "확진자수": 334,
         "사망자수": 10,
-        "완치자수": 302
+        "완치자수": 303
     },
     {
         "Name": "Venezuela",
@@ -1257,18 +1257,18 @@ var marker = [
         "완치자수": 18
     },
     {
-        "Name": "Cayman Islands",
+        "Name": "Eswatini",
         "Name_ch": "",
-        "Name_en": "Cayman Islands",
-        "확진자수": 70,
+        "Name_en": "Eswatini",
+        "확진자수": 71,
         "사망자수": 1,
         "완치자수": 10
     },
     {
-        "Name": "Eswatini",
+        "Name": "Cayman Islands",
         "Name_ch": "",
-        "Name_en": "Eswatini",
-        "확진자수": 65,
+        "Name_en": "Cayman Islands",
+        "확진자수": 70,
         "사망자수": 1,
         "완치자수": 10
     },
