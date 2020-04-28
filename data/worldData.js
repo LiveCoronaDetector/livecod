@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1024375,
-        "사망자수": 58123,
-        "완치자수": 139937
+        "확진자수": 1027024,
+        "사망자수": 58281,
+        "완치자수": 140138
     },
     {
         "Name": "스페인",
@@ -29,7 +29,7 @@ var marker = [
         "Name_ch": "法国",
         "Name_en": "France",
         "확진자수": 165842,
-        "사망자수": 23293,
+        "사망자수": 23660,
         "완치자수": 45513
     },
     {
@@ -118,7 +118,7 @@ var marker = [
         "Name_en": "Switzerland",
         "확진자수": 29264,
         "사망자수": 1699,
-        "완치자수": 22200
+        "완치자수": 22600
     },
     {
         "Name": "페루",
@@ -172,9 +172,9 @@ var marker = [
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "확진자수": 15589,
-        "사망자수": 208,
-        "완치자수": 7375
+        "확진자수": 15728,
+        "사망자수": 210,
+        "완치자수": 7746
     },
     {
         "Name": "멕시코",
@@ -460,9 +460,9 @@ var marker = [
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "확진자수": 2810,
+        "확진자수": 2811,
         "사망자수": 8,
-        "완치자수": 1246
+        "완치자수": 1310
     },
     {
         "Name": "헝가리",
@@ -961,6 +961,14 @@ var marker = [
         "완치자수": 31
     },
     {
+        "Name": "Equatorial Guinea",
+        "Name_ch": "",
+        "Name_en": "Equatorial Guinea",
+        "확진자수": 315,
+        "사망자수": 1,
+        "완치자수": 9
+    },
+    {
         "Name": "Isle of Man",
         "Name_ch": "",
         "Name_en": "Isle of Man",
@@ -985,18 +993,10 @@ var marker = [
         "완치자수": 225
     },
     {
-        "Name": "Equatorial Guinea",
-        "Name_ch": "",
-        "Name_en": "Equatorial Guinea",
-        "확진자수": 258,
-        "사망자수": 1,
-        "완치자수": 9
-    },
-    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "확진자수": 245,
+        "확진자수": 250,
         "사망자수": 0,
         "완치자수": 17
     },
@@ -1369,6 +1369,14 @@ var marker = [
         "완치자수": 5
     },
     {
+        "Name": "South Sudan",
+        "Name_ch": "",
+        "Name_en": "South Sudan",
+        "확진자수": 34,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
@@ -1631,14 +1639,6 @@ var marker = [
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 6
-    },
-    {
-        "Name": "South Sudan",
-        "Name_ch": "",
-        "Name_en": "South Sudan",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Western Sahara",
