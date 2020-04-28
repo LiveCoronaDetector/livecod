@@ -172,9 +172,9 @@ var marker = [
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "확진자수": 15555,
-        "사망자수": 204,
-        "완치자수": 7200
+        "확진자수": 15589,
+        "사망자수": 208,
+        "완치자수": 7375
     },
     {
         "Name": "멕시코",
@@ -316,9 +316,9 @@ var marker = [
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "확진자수": 7445,
+        "확진자수": 7449,
         "사망자수": 223,
-        "완치자수": 2834
+        "완치자수": 2842
     },
     {
         "Name": "호주",
@@ -745,6 +745,14 @@ var marker = [
         "완치자수": 145
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 708,
+        "사망자수": 8,
+        "완치자수": 416
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
@@ -767,14 +775,6 @@ var marker = [
         "확진자수": 697,
         "사망자수": 6,
         "완치자수": 287
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 695,
-        "사망자수": 8,
-        "완치자수": 395
     },
     {
         "Name": "Burkina Faso",
@@ -913,6 +913,14 @@ var marker = [
         "완치자수": 114
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 345,
+        "사망자수": 8,
+        "완치자수": 97
+    },
+    {
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
@@ -935,14 +943,6 @@ var marker = [
         "확진자수": 329,
         "사망자수": 10,
         "완치자수": 142
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 323,
-        "사망자수": 8,
-        "완치자수": 89
     },
     {
         "Name": "Montenegro",
@@ -1038,7 +1038,7 @@ var marker = [
         "Name_en": "Faeroe Islands",
         "확진자수": 187,
         "사망자수": 0,
-        "완치자수": 178
+        "완치자수": 181
     },
     {
         "Name": "Martinique",
@@ -1142,7 +1142,7 @@ var marker = [
         "Name_en": "Cabo Verde",
         "확진자수": 109,
         "사망자수": 1,
-        "완치자수": 1
+        "완치자수": 2
     },
     {
         "Name": "Aruba",
@@ -1398,7 +1398,7 @@ var marker = [
         "Name_en": "Timor-Leste",
         "확진자수": 24,
         "사망자수": 0,
-        "완치자수": 2
+        "완치자수": 6
     },
     {
         "Name": "Botswana",
