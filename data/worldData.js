@@ -318,7 +318,7 @@ var marker = [
         "Name_en": "Czechia",
         "확진자수": 7445,
         "사망자수": 223,
-        "완치자수": 2826
+        "완치자수": 2834
     },
     {
         "Name": "호주",
@@ -1017,20 +1017,20 @@ var marker = [
         "완치자수": 43
     },
     {
+        "Name": "Congo",
+        "Name_ch": "",
+        "Name_en": "Congo",
+        "확진자수": 207,
+        "사망자수": 8,
+        "완치자수": 19
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
         "확진자수": 207,
         "사망자수": 0,
         "완치자수": 93
-    },
-    {
-        "Name": "Congo",
-        "Name_ch": "",
-        "Name_en": "Congo",
-        "확진자수": 200,
-        "사망자수": 6,
-        "완치자수": 19
     },
     {
         "Name": "Faeroe Islands",
