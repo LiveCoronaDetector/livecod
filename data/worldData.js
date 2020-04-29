@@ -897,20 +897,20 @@ var marker = [
         "완치자수": 300
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 381,
+        "사망자수": 7,
+        "완치자수": 29
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
         "확진자수": 374,
         "사망자수": 14,
         "완치자수": 124
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 364,
-        "사망자수": 7,
-        "완치자수": 29
     },
     {
         "Name": "El Salvador",
