@@ -76,8 +76,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 72899,
-        "사망자수": 5063,
+        "확진자수": 73235,
+        "사망자수": 5083,
         "완치자수": 32544
     },
     {
@@ -990,7 +990,7 @@ var marker = [
         "Name_en": "Vietnam",
         "확진자수": 270,
         "사망자수": 0,
-        "완치자수": 225
+        "완치자수": 222
     },
     {
         "Name": "Maldives",
@@ -1001,20 +1001,20 @@ var marker = [
         "완치자수": 17
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 239,
+        "사망자수": 9,
+        "완치자수": 102
+    },
+    {
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
         "확진자수": 238,
         "사망자수": 3,
         "완치자수": 53
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 230,
-        "사망자수": 9,
-        "완치자수": 95
     },
     {
         "Name": "Rwanda",
@@ -1438,7 +1438,7 @@ var marker = [
         "Name_en": "Belize",
         "확진자수": 18,
         "사망자수": 2,
-        "완치자수": 6
+        "완치자수": 9
     },
     {
         "Name": "Fiji",
