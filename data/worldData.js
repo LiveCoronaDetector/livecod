@@ -905,20 +905,20 @@ var marker = [
         "완치자수": 29
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 377,
+        "사망자수": 9,
+        "완치자수": 106
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
         "확진자수": 374,
         "사망자수": 14,
         "완치자수": 124
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 345,
-        "사망자수": 9,
-        "완치자수": 97
     },
     {
         "Name": "팔레스타인",
