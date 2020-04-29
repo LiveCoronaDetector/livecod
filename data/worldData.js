@@ -321,20 +321,20 @@ var marker = [
         "완치자수": 2960
     },
     {
+        "Name": "Bangladesh",
+        "Name_ch": "",
+        "Name_en": "Bangladesh",
+        "확진자수": 7103,
+        "사망자수": 163,
+        "완치자수": 150
+    },
+    {
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
         "확진자수": 6738,
         "사망자수": 88,
         "완치자수": 5626
-    },
-    {
-        "Name": "Bangladesh",
-        "Name_ch": "",
-        "Name_en": "Bangladesh",
-        "확진자수": 6462,
-        "사망자수": 155,
-        "완치자수": 139
     },
     {
         "Name": "도미니카 공화국",
@@ -796,7 +796,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 619,
+        "확진자수": 622,
         "사망자수": 7,
         "완치자수": 134
     },
