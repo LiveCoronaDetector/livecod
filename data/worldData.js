@@ -345,20 +345,20 @@ var marker = [
         "완치자수": 1228
     },
     {
+        "Name": "Panama",
+        "Name_ch": "",
+        "Name_en": "Panama",
+        "확진자수": 6378,
+        "사망자수": 178,
+        "완치자수": 527
+    },
+    {
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
         "확진자수": 6207,
         "사망자수": 278,
         "완치자수": 1411
-    },
-    {
-        "Name": "Panama",
-        "Name_ch": "",
-        "Name_en": "Panama",
-        "확진자수": 6200,
-        "사망자수": 176,
-        "완치자수": 484
     },
     {
         "Name": "말레이시아",
@@ -657,20 +657,20 @@ var marker = [
         "완치자수": 557
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 1110,
+        "사망자수": 59,
+        "완치자수": 117
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
         "확진자수": 1077,
         "사망자수": 2,
         "완치자수": 599
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 1053,
-        "사망자수": 55,
-        "완치자수": 110
     },
     {
         "Name": "홍콩",
