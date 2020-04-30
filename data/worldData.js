@@ -220,8 +220,8 @@ var marker = [
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
-        "확진자수": 13895,
-        "사망자수": 413,
+        "확진자수": 13965,
+        "사망자수": 425,
         "완치자수": 2368
     },
     {
@@ -1337,6 +1337,14 @@ var marker = [
         "완치자수": 21
     },
     {
+        "Name": "Zimbabwe",
+        "Name_ch": "",
+        "Name_en": "Zimbabwe",
+        "확진자수": 40,
+        "사망자수": 4,
+        "완치자수": 5
+    },
+    {
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
@@ -1375,14 +1383,6 @@ var marker = [
         "확진자수": 34,
         "사망자수": 0,
         "완치자수": 0
-    },
-    {
-        "Name": "Zimbabwe",
-        "Name_ch": "",
-        "Name_en": "Zimbabwe",
-        "확진자수": 32,
-        "사망자수": 4,
-        "완치자수": 5
     },
     {
         "Name": "Angola",
