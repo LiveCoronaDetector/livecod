@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1089726,
-        "사망자수": 63592,
-        "완치자수": 151489
+        "확진자수": 1091067,
+        "사망자수": 63657,
+        "완치자수": 151774
     },
     {
         "Name": "스페인",
@@ -78,15 +78,15 @@ var marker = [
         "Name_en": "Brazil",
         "확진자수": 85380,
         "사망자수": 5901,
-        "완치자수": 34132
+        "완치자수": 35935
     },
     {
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 53013,
+        "확진자수": 53021,
         "사망자수": 3180,
-        "완치자수": 21187
+        "완치자수": 21198
     },
     {
         "Name": "벨기에",
@@ -873,6 +873,14 @@ var marker = [
         "완치자수": 167
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "확진자수": 468,
+        "사망자수": 1,
+        "완치자수": 17
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
@@ -929,20 +937,12 @@ var marker = [
         "완치자수": 29
     },
     {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "확진자수": 396,
-        "사망자수": 1,
-        "완치자수": 17
-    },
-    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 395,
         "사망자수": 9,
-        "완치자수": 118
+        "완치자수": 119
     },
     {
         "Name": "팔레스타인",
@@ -950,7 +950,7 @@ var marker = [
         "Name_en": "Palestine",
         "확진자수": 344,
         "사망자수": 2,
-        "완치자수": 71
+        "완치자수": 76
     },
     {
         "Name": "Mauritius",
@@ -1209,6 +1209,14 @@ var marker = [
         "완치자수": 55
     },
     {
+        "Name": "Barbados",
+        "Name_ch": "",
+        "Name_en": "Barbados",
+        "확진자수": 81,
+        "사망자수": 7,
+        "완치자수": 39
+    },
+    {
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
@@ -1223,14 +1231,6 @@ var marker = [
         "확진자수": 80,
         "사망자수": 11,
         "완치자수": 25
-    },
-    {
-        "Name": "Barbados",
-        "Name_ch": "",
-        "Name_en": "Barbados",
-        "확진자수": 80,
-        "사망자수": 7,
-        "완치자수": 39
     },
     {
         "Name": "Guyana",
