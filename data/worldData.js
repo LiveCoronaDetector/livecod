@@ -913,20 +913,20 @@ var marker = [
         "완치자수": 29
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 395,
+        "사망자수": 9,
+        "완치자수": 118
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
         "확진자수": 384,
         "사망자수": 15,
         "완치자수": 129
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 377,
-        "사망자수": 9,
-        "완치자수": 106
     },
     {
         "Name": "Sudan",
