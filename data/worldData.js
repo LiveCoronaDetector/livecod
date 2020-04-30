@@ -46,7 +46,7 @@ var marker = [
         "Name_en": "Germany",
         "확진자수": 161539,
         "사망자수": 6467,
-        "완치자수": 120400
+        "완치자수": 123500
     },
     {
         "Name": "Turkey",
@@ -268,9 +268,9 @@ var marker = [
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "확진자수": 9866,
-        "사망자수": 250,
-        "완치자수": 1103
+        "확진자수": 10406,
+        "사망자수": 261,
+        "완치자수": 1238
     },
     {
         "Name": "인도네시아",
@@ -497,20 +497,20 @@ var marker = [
         "완치자수": 1288
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 2017,
+        "사망자수": 9,
+        "완치자수": 1096
+    },
+    {
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
         "확진자수": 2003,
         "사망자수": 92,
         "완치자수": 1346
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 2002,
-        "사망자수": 9,
-        "완치자수": 1096
     },
     {
         "Name": "아프가니스탄",
@@ -585,6 +585,14 @@ var marker = [
         "완치자수": 236
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 1488,
+        "사망자수": 65,
+        "완치자수": 266
+    },
+    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
@@ -599,14 +607,6 @@ var marker = [
         "확진자수": 1467,
         "사망자수": 58,
         "완치자수": 617
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 1447,
-        "사망자수": 64,
-        "완치자수": 243
     },
     {
         "Name": "North Macedonia",
@@ -894,7 +894,7 @@ var marker = [
         "Name_en": "Taiwan",
         "확진자수": 429,
         "사망자수": 6,
-        "완치자수": 311
+        "완치자수": 322
     },
     {
         "Name": "Réunion",
@@ -1046,7 +1046,7 @@ var marker = [
         "Name_en": "Faeroe Islands",
         "확진자수": 187,
         "사망자수": 0,
-        "완치자수": 181
+        "완치자수": 184
     },
     {
         "Name": "Martinique",
