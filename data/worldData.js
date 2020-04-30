@@ -588,9 +588,9 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1474,
+        "확진자수": 1476,
         "사망자수": 19,
-        "완치자수": 1229
+        "완치자수": 1241
     },
     {
         "Name": "Cuba",
