@@ -252,9 +252,9 @@ var marker = [
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "확진자수": 11978,
+        "확진자수": 12240,
         "사망자수": 695,
-        "완치자수": 3569
+        "완치자수": 4017
     },
     {
         "Name": "아랍에미리트",
@@ -388,7 +388,7 @@ var marker = [
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "확진자수": 4906,
+        "확진자수": 4995,
         "사망자수": 206,
         "완치자수": 2800
     },
@@ -396,9 +396,9 @@ var marker = [
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "확진자수": 4321,
+        "확진자수": 4359,
         "사망자수": 168,
-        "완치자수": 928
+        "완치자수": 969
     },
     {
         "Name": "Argentina",
@@ -561,6 +561,14 @@ var marker = [
         "완치자수": 1267
     },
     {
+        "Name": "보스니아 헤르체고비나",
+        "Name_ch": "波斯尼亚和黑塞哥维那",
+        "Name_en": "Bosnia and Herzegovina",
+        "확진자수": 1757,
+        "사망자수": 69,
+        "완치자수": 727
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
@@ -575,14 +583,6 @@ var marker = [
         "확진자수": 1689,
         "사망자수": 52,
         "완치자수": 249
-    },
-    {
-        "Name": "보스니아 헤르체고비나",
-        "Name_ch": "波斯尼亚和黑塞哥维那",
-        "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 1677,
-        "사망자수": 65,
-        "완치자수": 710
     },
     {
         "Name": "Bulgaria",
@@ -1137,6 +1137,14 @@ var marker = [
         "완치자수": 72
     },
     {
+        "Name": "Sierra Leone",
+        "Name_ch": "",
+        "Name_en": "Sierra Leone",
+        "확진자수": 116,
+        "사망자수": 4,
+        "완치자수": 14
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -1159,14 +1167,6 @@ var marker = [
         "확진자수": 109,
         "사망자수": 7,
         "완치자수": 64
-    },
-    {
-        "Name": "Sierra Leone",
-        "Name_ch": "",
-        "Name_en": "Sierra Leone",
-        "확진자수": 104,
-        "사망자수": 4,
-        "완치자수": 12
     },
     {
         "Name": "Aruba",
@@ -1326,7 +1326,7 @@ var marker = [
         "Name_en": "Macao",
         "확진자수": 45,
         "사망자수": 0,
-        "완치자수": 34
+        "완치자수": 35
     },
     {
         "Name": "Syria",
@@ -1505,6 +1505,14 @@ var marker = [
         "완치자수": 6
     },
     {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 14,
+        "사망자수": 0,
+        "완치자수": 4
+    },
+    {
         "Name": "Nicaragua",
         "Name_ch": "",
         "Name_en": "Nicaragua",
@@ -1583,14 +1591,6 @@ var marker = [
         "확진자수": 10,
         "사망자수": 0,
         "완치자수": 2
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 10,
-        "사망자수": 0,
-        "완치자수": 4
     },
     {
         "Name": "MS Zaandam",
