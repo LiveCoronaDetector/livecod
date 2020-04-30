@@ -124,7 +124,7 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "확진자수": 29407,
+        "확진자수": 29586,
         "사망자수": 1716,
         "완치자수": 22600
     },
@@ -249,20 +249,20 @@ var marker = [
         "완치자수": 1243
     },
     {
+        "Name": "아랍에미리트",
+        "Name_ch": "阿拉伯联合酋长国",
+        "Name_en": "UAE",
+        "확진자수": 12481,
+        "사망자수": 105,
+        "완치자수": 2429
+    },
+    {
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
         "확진자수": 12240,
         "사망자수": 695,
         "완치자수": 4017
-    },
-    {
-        "Name": "아랍에미리트",
-        "Name_ch": "阿拉伯联合酋长国",
-        "Name_en": "UAE",
-        "확진자수": 11929,
-        "사망자수": 98,
-        "완치자수": 2329
     },
     {
         "Name": "Ukraine",
@@ -692,9 +692,9 @@ var marker = [
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "확진자수": 882,
+        "확진자수": 933,
         "사망자수": 9,
-        "완치자수": 315
+        "완치자수": 334
     },
     {
         "Name": "라트비아",
@@ -748,7 +748,7 @@ var marker = [
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "확진자수": 721,
+        "확진자수": 725,
         "사망자수": 24,
         "완치자수": 150
     },
@@ -833,6 +833,14 @@ var marker = [
         "완치자수": 178
     },
     {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "확진자수": 539,
+        "사망자수": 4,
+        "완치자수": 235
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
@@ -871,14 +879,6 @@ var marker = [
         "확진자수": 465,
         "사망자수": 4,
         "완치자수": 351
-    },
-    {
-        "Name": "Mayotte",
-        "Name_ch": "",
-        "Name_en": "Mayotte",
-        "확진자수": 460,
-        "사망자수": 4,
-        "완치자수": 235
     },
     {
         "Name": "요르단",
@@ -1052,9 +1052,17 @@ var marker = [
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
-        "확진자수": 175,
+        "확진자수": 178,
         "사망자수": 14,
         "완치자수": 83
+    },
+    {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "확진자수": 151,
+        "사망자수": 12,
+        "완치자수": 95
     },
     {
         "Name": "Myanmar",
@@ -1063,14 +1071,6 @@ var marker = [
         "확진자수": 150,
         "사망자수": 6,
         "완치자수": 27
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "확진자수": 149,
-        "사망자수": 12,
-        "완치자수": 82
     },
     {
         "Name": "Liberia",
@@ -1110,15 +1110,15 @@ var marker = [
         "Name_en": "Madagascar",
         "확진자수": 128,
         "사망자수": 0,
-        "완치자수": 90
+        "완치자수": 92
     },
     {
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "확진자수": 125,
+        "확진자수": 126,
         "사망자수": 1,
-        "완치자수": 93
+        "완치자수": 94
     },
     {
         "Name": "캄보디아",
@@ -1503,6 +1503,14 @@ var marker = [
         "확진자수": 15,
         "사망자수": 0,
         "완치자수": 6
+    },
+    {
+        "Name": "Tajikistan",
+        "Name_ch": "",
+        "Name_en": "Tajikistan",
+        "확진자수": 15,
+        "사망자수": 0,
+        "완치자수": 0
     },
     {
         "Name": "Sao Tome and Principe",
