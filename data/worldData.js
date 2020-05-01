@@ -660,9 +660,9 @@ var marker = [
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "확진자수": 1110,
-        "사망자수": 59,
-        "완치자수": 117
+        "확진자수": 1167,
+        "사망자수": 62,
+        "완치자수": 132
     },
     {
         "Name": "Djibouti",
@@ -713,20 +713,20 @@ var marker = [
         "완치자수": 296
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 804,
+        "사망자수": 75,
+        "완치자수": 112
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
         "확진자수": 773,
         "사망자수": 31,
         "완치자수": 470
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 771,
-        "사망자수": 71,
-        "완치자수": 79
     },
     {
         "Name": "Kyrgyzstan",
