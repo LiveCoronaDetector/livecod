@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1121543,
-        "사망자수": 65300,
+        "확진자수": 1124545,
+        "사망자수": 65509,
         "완치자수": 158921
     },
     {
@@ -84,9 +84,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 54784,
+        "확진자수": 54810,
         "사망자수": 3387,
-        "완치자수": 22095
+        "완치자수": 22515
     },
     {
         "Name": "벨기에",
@@ -1017,6 +1017,14 @@ var marker = [
         "완치자수": 113
     },
     {
+        "Name": "Guinea-Bissau",
+        "Name_ch": "",
+        "Name_en": "Guinea-Bissau",
+        "확진자수": 257,
+        "사망자수": 1,
+        "완치자수": 19
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
@@ -1030,14 +1038,6 @@ var marker = [
         "Name_en": "Congo",
         "확진자수": 220,
         "사망자수": 9,
-        "완치자수": 19
-    },
-    {
-        "Name": "Guinea-Bissau",
-        "Name_ch": "",
-        "Name_en": "Guinea-Bissau",
-        "확진자수": 205,
-        "사망자수": 1,
         "완치자수": 19
     },
     {
@@ -1142,7 +1142,7 @@ var marker = [
         "Name_en": "Cabo Verde",
         "확진자수": 122,
         "사망자수": 1,
-        "완치자수": 4
+        "완치자수": 18
     },
     {
         "Name": "캄보디아",
