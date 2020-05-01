@@ -588,9 +588,9 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 1506,
+        "확진자수": 1541,
         "사망자수": 66,
-        "완치자수": 266
+        "완치자수": 276
     },
     {
         "Name": "Cuba",
