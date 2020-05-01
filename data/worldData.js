@@ -261,7 +261,7 @@ var marker = [
         "Name_ch": "尼亚",
         "Name_en": "Romania",
         "확진자수": 12240,
-        "사망자수": 717,
+        "사망자수": 723,
         "완치자수": 4017
     },
     {
@@ -836,7 +836,7 @@ var marker = [
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "확진자수": 539,
+        "확진자수": 566,
         "사망자수": 6,
         "완치자수": 184
     },
@@ -1534,7 +1534,7 @@ var marker = [
         "Name_en": "Falkland Islands",
         "확진자수": 13,
         "사망자수": 0,
-        "완치자수": 11
+        "완치자수": 13
     },
     {
         "Name": "Turks and Caicos",
