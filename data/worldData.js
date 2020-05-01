@@ -241,20 +241,20 @@ var marker = [
         "완치자수": 1372
     },
     {
+        "Name": "아랍에미리트",
+        "Name_ch": "阿拉伯联合酋长国",
+        "Name_en": "UAE",
+        "확진자수": 13038,
+        "사망자수": 111,
+        "완치자수": 2543
+    },
+    {
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
         "확진자수": 12877,
         "사망자수": 644,
         "완치자수": 3236
-    },
-    {
-        "Name": "아랍에미리트",
-        "Name_ch": "阿拉伯联合酋长国",
-        "Name_en": "UAE",
-        "확진자수": 12481,
-        "사망자수": 105,
-        "완치자수": 2429
     },
     {
         "Name": "루마니아",
@@ -388,7 +388,7 @@ var marker = [
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "확진자수": 4995,
+        "확진자수": 5051,
         "사망자수": 211,
         "완치자수": 3000
     },
@@ -534,7 +534,7 @@ var marker = [
         "Name_en": "Uzbekistan",
         "확진자수": 2046,
         "사망자수": 9,
-        "완치자수": 1133
+        "완치자수": 1159
     },
     {
         "Name": "나이지리아",
@@ -1289,6 +1289,14 @@ var marker = [
         "완치자수": 33
     },
     {
+        "Name": "CAR",
+        "Name_ch": "",
+        "Name_en": "CAR",
+        "확진자수": 64,
+        "사망자수": 0,
+        "완치자수": 10
+    },
+    {
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
@@ -1311,14 +1319,6 @@ var marker = [
         "확진자수": 58,
         "사망자수": 0,
         "완치자수": 50
-    },
-    {
-        "Name": "CAR",
-        "Name_ch": "",
-        "Name_en": "CAR",
-        "확진자수": 50,
-        "사망자수": 0,
-        "완치자수": 10
     },
     {
         "Name": "마카오",
@@ -1473,6 +1473,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 16,
+        "사망자수": 1,
+        "완치자수": 4
+    },
+    {
         "Name": "Dominica",
         "Name_ch": "",
         "Name_en": "Dominica",
@@ -1519,14 +1527,6 @@ var marker = [
         "확진자수": 14,
         "사망자수": 3,
         "완치자수": 7
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 14,
-        "사망자수": 0,
-        "완치자수": 4
     },
     {
         "Name": "Falkland Islands",
