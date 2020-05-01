@@ -780,7 +780,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 663,
+        "확진자수": 665,
         "사망자수": 7,
         "완치자수": 154
     },
@@ -1158,7 +1158,7 @@ var marker = [
         "Name_en": "Trinidad and Tobago",
         "확진자수": 116,
         "사망자수": 8,
-        "완치자수": 72
+        "완치자수": 73
     },
     {
         "Name": "Bermuda",
