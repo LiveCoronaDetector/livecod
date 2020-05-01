@@ -812,9 +812,9 @@ var marker = [
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "확진자수": 585,
+        "확진자수": 599,
         "사망자수": 16,
-        "완치자수": 65
+        "완치자수": 66
     },
     {
         "Name": "DRC",
@@ -1012,9 +1012,9 @@ var marker = [
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "확진자수": 249,
-        "사망자수": 9,
-        "완치자수": 111
+        "확진자수": 266,
+        "사망자수": 10,
+        "완치자수": 113
     },
     {
         "Name": "Rwanda",
