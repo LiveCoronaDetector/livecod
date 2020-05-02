@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1129060,
-        "사망자수": 65724,
+        "확진자수": 1130851,
+        "사망자수": 65738,
         "완치자수": 161551
     },
     {
@@ -404,8 +404,8 @@ var marker = [
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "확진자수": 4428,
-        "사망자수": 220,
+        "확진자수": 4532,
+        "사망자수": 225,
         "완치자수": 1292
     },
     {
@@ -1292,7 +1292,7 @@ var marker = [
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "확진자수": 64,
+        "확진자수": 72,
         "사망자수": 0,
         "완치자수": 10
     },
@@ -1649,6 +1649,14 @@ var marker = [
         "완치자수": 3
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "확진자수": 6,
+        "사망자수": 0,
+        "완치자수": 0
+    },
+    {
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
@@ -1663,14 +1671,6 @@ var marker = [
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 5
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "확진자수": 5,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Anguilla",
