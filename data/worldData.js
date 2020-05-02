@@ -1361,20 +1361,20 @@ var marker = [
         "완치자수": 26
     },
     {
+        "Name": "Mongolia",
+        "Name_ch": "",
+        "Name_en": "Mongolia",
+        "확진자수": 39,
+        "사망자수": 0,
+        "완치자수": 10
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
         "확진자수": 38,
         "사망자수": 3,
         "완치자수": 27
-    },
-    {
-        "Name": "Mongolia",
-        "Name_ch": "",
-        "Name_en": "Mongolia",
-        "확진자수": 38,
-        "사망자수": 0,
-        "완치자수": 10
     },
     {
         "Name": "Malawi",
