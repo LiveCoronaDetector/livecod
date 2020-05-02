@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1146766,
-        "사망자수": 66621,
+        "확진자수": 1147358,
+        "사망자수": 66640,
         "완치자수": 162107
     },
     {
@@ -452,9 +452,9 @@ var marker = [
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "확진자수": 3273,
+        "확진자수": 3284,
         "사망자수": 8,
-        "완치자수": 1567
+        "완치자수": 1568
     },
     {
         "Name": "태국",
@@ -532,7 +532,7 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 2113,
+        "확진자수": 2118,
         "사망자수": 9,
         "완치자수": 1271
     },
@@ -1081,6 +1081,14 @@ var marker = [
         "완치자수": 95
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "확진자수": 152,
+        "사망자수": 2,
+        "완치자수": 18
+    },
+    {
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
@@ -1135,14 +1143,6 @@ var marker = [
         "확진자수": 123,
         "사망자수": 9,
         "완치자수": 66
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "확진자수": 122,
-        "사망자수": 1,
-        "완치자수": 18
     },
     {
         "Name": "캄보디아",
