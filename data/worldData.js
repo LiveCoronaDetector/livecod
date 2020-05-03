@@ -326,7 +326,7 @@ var marker = [
         "Name_en": "Czechia",
         "확진자수": 7755,
         "사망자수": 245,
-        "완치자수": 3461
+        "완치자수": 3471
     },
     {
         "Name": "도미니카 공화국",
@@ -1113,20 +1113,20 @@ var marker = [
         "완치자수": 126
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 135,
+        "사망자수": 3,
+        "완치자수": 75
+    },
+    {
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
         "확진자수": 135,
         "사망자수": 0,
         "완치자수": 97
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 133,
-        "사망자수": 3,
-        "완치자수": 69
     },
     {
         "Name": "French Guiana",
