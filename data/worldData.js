@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1187510,
-        "사망자수": 68581,
+        "확진자수": 1188029,
+        "사망자수": 68587,
         "완치자수": 178263
     },
     {
@@ -953,20 +953,20 @@ var marker = [
         "완치자수": 119
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 357,
+        "사망자수": 10,
+        "완치자수": 148
+    },
+    {
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
         "확진자수": 353,
         "사망자수": 2,
         "완치자수": 77
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 345,
-        "사망자수": 10,
-        "완치자수": 148
     },
     {
         "Name": "Gabon",
