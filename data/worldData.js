@@ -356,9 +356,9 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 6801,
+        "확진자수": 6822,
         "사망자수": 95,
-        "완치자수": 5817
+        "완치자수": 5849
     },
     {
         "Name": "남아프리카 공화국",
@@ -601,6 +601,14 @@ var marker = [
         "완치자수": 308
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 1594,
+        "사망자수": 76,
+        "완치자수": 166
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
@@ -623,14 +631,6 @@ var marker = [
         "확진자수": 1487,
         "사망자수": 20,
         "완치자수": 1276
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 1470,
-        "사망자수": 71,
-        "완치자수": 159
     },
     {
         "Name": "슬로베니아",
@@ -1257,20 +1257,20 @@ var marker = [
         "완치자수": 22
     },
     {
+        "Name": "Barbados",
+        "Name_ch": "",
+        "Name_en": "Barbados",
+        "확진자수": 82,
+        "사망자수": 7,
+        "완치자수": 44
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
         "확진자수": 82,
         "사망자수": 1,
         "완치자수": 55
-    },
-    {
-        "Name": "Barbados",
-        "Name_ch": "",
-        "Name_en": "Barbados",
-        "확진자수": 81,
-        "사망자수": 7,
-        "완치자수": 44
     },
     {
         "Name": "Mozambique",
