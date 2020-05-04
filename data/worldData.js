@@ -260,9 +260,9 @@ var marker = [
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "확진자수": 13163,
+        "확진자수": 13512,
         "사망자수": 803,
-        "완치자수": 4869
+        "완치자수": 5269
     },
     {
         "Name": "Ukraine",
@@ -429,8 +429,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Moldova",
         "확진자수": 4121,
-        "사망자수": 125,
-        "완치자수": 1382
+        "사망자수": 128,
+        "완치자수": 1423
     },
     {
         "Name": "Kazakhstan",
@@ -732,9 +732,9 @@ var marker = [
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "확진자수": 795,
+        "확진자수": 803,
         "사망자수": 31,
-        "완치자수": 531
+        "완치자수": 543
     },
     {
         "Name": "Niger",
@@ -1113,20 +1113,20 @@ var marker = [
         "완치자수": 132
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 140,
+        "사망자수": 3,
+        "완치자수": 75
+    },
+    {
         "Name": "Brunei",
         "Name_ch": "",
         "Name_en": "Brunei",
         "확진자수": 138,
         "사망자수": 1,
         "완치자수": 130
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 135,
-        "사망자수": 3,
-        "완치자수": 75
     },
     {
         "Name": "Tajikistan",
