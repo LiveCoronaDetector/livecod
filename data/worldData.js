@@ -108,7 +108,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 42505,
+        "확진자수": 42533,
         "사망자수": 1391,
         "완치자수": 11775
     },
@@ -865,6 +865,14 @@ var marker = [
         "완치자수": 213
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 555,
+        "사망자수": 12,
+        "완치자수": 180
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
@@ -879,14 +887,6 @@ var marker = [
         "확진자수": 527,
         "사망자수": 1,
         "완치자수": 18
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 490,
-        "사망자수": 11,
-        "완치자수": 154
     },
     {
         "Name": "Tanzania",
@@ -1353,6 +1353,14 @@ var marker = [
         "완치자수": 27
     },
     {
+        "Name": "Mongolia",
+        "Name_ch": "",
+        "Name_en": "Mongolia",
+        "확진자수": 40,
+        "사망자수": 0,
+        "완치자수": 12
+    },
+    {
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
@@ -1367,14 +1375,6 @@ var marker = [
         "확진자수": 39,
         "사망자수": 0,
         "완치자수": 26
-    },
-    {
-        "Name": "Mongolia",
-        "Name_ch": "",
-        "Name_en": "Mongolia",
-        "확진자수": 39,
-        "사망자수": 0,
-        "완치자수": 10
     },
     {
         "Name": "Saint Martin",
@@ -1414,7 +1414,7 @@ var marker = [
         "Name_en": "Timor-Leste",
         "확진자수": 24,
         "사망자수": 0,
-        "완치자수": 16
+        "완치자수": 20
     },
     {
         "Name": "Botswana",
@@ -1630,7 +1630,7 @@ var marker = [
         "Name_en": "Papua New Guinea",
         "확진자수": 8,
         "사망자수": 0,
-        "완치자수": 0
+        "완치자수": 6
     },
     {
         "Name": "부탄",
