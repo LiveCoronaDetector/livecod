@@ -721,20 +721,20 @@ var marker = [
         "완치자수": 296
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 830,
+        "사망자수": 10,
+        "완치자수": 575
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
         "확진자수": 795,
         "사망자수": 31,
         "완치자수": 531
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 795,
-        "사망자수": 10,
-        "완치자수": 564
     },
     {
         "Name": "Niger",
