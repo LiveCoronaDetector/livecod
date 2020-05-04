@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1189914,
-        "사망자수": 68636,
+        "확진자수": 1191849,
+        "사망자수": 68702,
         "완치자수": 178671
     },
     {
@@ -676,9 +676,9 @@ var marker = [
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "확진자수": 1112,
+        "확진자수": 1116,
         "사망자수": 2,
-        "완치자수": 686
+        "완치자수": 713
     },
     {
         "Name": "Honduras",
@@ -780,9 +780,9 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 719,
-        "사망자수": 7,
-        "완치자수": 187
+        "확진자수": 721,
+        "사망자수": 8,
+        "완치자수": 194
     },
     {
         "Name": "일본크루즈",
@@ -1065,6 +1065,22 @@ var marker = [
         "완치자수": 83
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "확진자수": 175,
+        "사망자수": 2,
+        "완치자수": 37
+    },
+    {
+        "Name": "Liberia",
+        "Name_ch": "",
+        "Name_en": "Liberia",
+        "확진자수": 166,
+        "사망자수": 18,
+        "완치자수": 58
+    },
+    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
@@ -1073,28 +1089,12 @@ var marker = [
         "완치자수": 29
     },
     {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "확진자수": 165,
-        "사망자수": 2,
-        "완치자수": 33
-    },
-    {
-        "Name": "Liberia",
-        "Name_ch": "",
-        "Name_en": "Liberia",
-        "확진자수": 158,
-        "사망자수": 18,
-        "완치자수": 58
-    },
-    {
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "확진자수": 155,
+        "확진자수": 161,
         "사망자수": 6,
-        "완치자수": 43
+        "완치자수": 49
     },
     {
         "Name": "Guadeloupe",
