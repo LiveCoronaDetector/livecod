@@ -681,6 +681,14 @@ var marker = [
         "완치자수": 686
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 1055,
+        "사망자수": 82,
+        "완치자수": 118
+    },
+    {
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
@@ -695,14 +703,6 @@ var marker = [
         "확진자수": 1013,
         "사망자수": 42,
         "완치자수": 328
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 1010,
-        "사망자수": 76,
-        "완치자수": 116
     },
     {
         "Name": "라트비아",
