@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1214732,
-        "사망자수": 70047,
+        "확진자수": 1215457,
+        "사망자수": 70129,
         "완치자수": 188069
     },
     {
@@ -44,7 +44,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 166199,
+        "확진자수": 166304,
         "사망자수": 6993,
         "완치자수": 135100
     },
@@ -333,7 +333,7 @@ var marker = [
         "Name_ch": "挪威",
         "Name_en": "Norway",
         "확진자수": 7904,
-        "사망자수": 214,
+        "사망자수": 215,
         "완치자수": 32
     },
     {
@@ -596,8 +596,8 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 1689,
-        "사망자수": 78,
+        "확진자수": 1704,
+        "사망자수": 80,
         "완치자수": 342
     },
     {
@@ -729,6 +729,14 @@ var marker = [
         "완치자수": 600
     },
     {
+        "Name": "Somalia",
+        "Name_ch": "",
+        "Name_en": "Somalia",
+        "확진자수": 835,
+        "사망자수": 38,
+        "완치자수": 75
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
@@ -751,14 +759,6 @@ var marker = [
         "확진자수": 760,
         "사망자수": 9,
         "완치자수": 197
-    },
-    {
-        "Name": "Somalia",
-        "Name_ch": "",
-        "Name_en": "Somalia",
-        "확진자수": 756,
-        "사망자수": 35,
-        "완치자수": 61
     },
     {
         "Name": "Niger",
@@ -1049,6 +1049,14 @@ var marker = [
         "완치자수": 26
     },
     {
+        "Name": "Sierra Leone",
+        "Name_ch": "",
+        "Name_en": "Sierra Leone",
+        "확진자수": 199,
+        "사망자수": 11,
+        "완치자수": 43
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
@@ -1071,14 +1079,6 @@ var marker = [
         "확진자수": 181,
         "사망자수": 14,
         "완치자수": 83
-    },
-    {
-        "Name": "Sierra Leone",
-        "Name_ch": "",
-        "Name_en": "Sierra Leone",
-        "확진자수": 178,
-        "사망자수": 9,
-        "완치자수": 37
     },
     {
         "Name": "Liberia",
@@ -1156,7 +1156,7 @@ var marker = [
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "확진자수": 126,
+        "확진자수": 128,
         "사망자수": 9,
         "완치자수": 74
     },
