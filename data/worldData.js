@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1214023,
-        "사망자수": 69974,
+        "확진자수": 1214732,
+        "사망자수": 70047,
         "완치자수": 188069
     },
     {
@@ -1406,7 +1406,7 @@ var marker = [
         "Name_en": "Antigua and Barbuda",
         "확진자수": 25,
         "사망자수": 3,
-        "완치자수": 15
+        "완치자수": 16
     },
     {
         "Name": "Timor-Leste",
