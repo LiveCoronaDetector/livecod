@@ -108,9 +108,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 46437,
-        "사망자수": 1566,
-        "완치자수": 12847
+        "확진자수": 46476,
+        "사망자수": 1571,
+        "완치자수": 12849
     },
     {
         "Name": "네덜란드",
@@ -593,6 +593,14 @@ var marker = [
         "완치자수": 259
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 1689,
+        "사망자수": 78,
+        "완치자수": 342
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
@@ -607,14 +615,6 @@ var marker = [
         "확진자수": 1668,
         "사망자수": 69,
         "완치자수": 876
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 1652,
-        "사망자수": 78,
-        "완치자수": 321
     },
     {
         "Name": "North Macedonia",
@@ -878,7 +878,7 @@ var marker = [
         "Name_en": "Maldives",
         "확진자수": 551,
         "사망자수": 1,
-        "완치자수": 18
+        "완치자수": 17
     },
     {
         "Name": "Channel Islands",
@@ -1022,7 +1022,7 @@ var marker = [
         "Name_en": "Vietnam",
         "확진자수": 271,
         "사망자수": 0,
-        "완치자수": 219
+        "완치자수": 232
     },
     {
         "Name": "Rwanda",
