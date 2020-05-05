@@ -980,7 +980,7 @@ var marker = [
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 357,
+        "확진자수": 361,
         "사망자수": 10,
         "완치자수": 158
     },
@@ -1332,7 +1332,7 @@ var marker = [
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "확진자수": 46,
+        "확진자수": 52,
         "사망자수": 0,
         "완치자수": 0
     },
