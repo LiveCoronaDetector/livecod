@@ -873,20 +873,20 @@ var marker = [
         "완치자수": 223
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "확진자수": 551,
+        "사망자수": 1,
+        "완치자수": 18
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 544,
         "사망자수": 41,
         "완치자수": 406
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "확진자수": 541,
-        "사망자수": 1,
-        "완치자수": 18
     },
     {
         "Name": "Kenya",
@@ -1366,7 +1366,7 @@ var marker = [
         "Name_en": "Mongolia",
         "확진자수": 41,
         "사망자수": 0,
-        "완치자수": 12
+        "완치자수": 13
     },
     {
         "Name": "Eritrea",
