@@ -769,6 +769,14 @@ var marker = [
         "완치자수": 543
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 763,
+        "사망자수": 19,
+        "완치자수": 79
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
@@ -799,14 +807,6 @@ var marker = [
         "확진자수": 739,
         "사망자수": 9,
         "완치자수": 352
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 730,
-        "사망자수": 19,
-        "완치자수": 79
     },
     {
         "Name": "일본크루즈",
@@ -1305,20 +1305,20 @@ var marker = [
         "완치자수": 19
     },
     {
+        "Name": "Cayman Islands",
+        "Name_ch": "",
+        "Name_en": "Cayman Islands",
+        "확진자수": 78,
+        "사망자수": 1,
+        "완치자수": 30
+    },
+    {
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
         "확진자수": 76,
         "사망자수": 14,
         "완치자수": 44
-    },
-    {
-        "Name": "Cayman Islands",
-        "Name_ch": "",
-        "Name_en": "Cayman Islands",
-        "확진자수": 75,
-        "사망자수": 1,
-        "완치자수": 14
     },
     {
         "Name": "Libya",
