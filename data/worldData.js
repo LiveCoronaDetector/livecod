@@ -676,8 +676,8 @@ var marker = [
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "확진자수": 1178,
-        "사망자수": 83,
+        "확진자수": 1270,
+        "사망자수": 93,
         "완치자수": 122
     },
     {
@@ -1198,7 +1198,7 @@ var marker = [
         "Name_en": "Trinidad and Tobago",
         "확진자수": 116,
         "사망자수": 8,
-        "완치자수": 102
+        "완치자수": 103
     },
     {
         "Name": "Bermuda",
@@ -1252,8 +1252,8 @@ var marker = [
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "확진자수": 92,
-        "사망자수": 9,
+        "확진자수": 93,
+        "사망자수": 10,
         "완치자수": 27
     },
     {
