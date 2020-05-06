@@ -68,8 +68,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 114715,
-        "사망자수": 7921,
+        "확진자수": 115455,
+        "사망자수": 7938,
         "완치자수": 48221
     },
     {
@@ -372,9 +372,9 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 6849,
-        "사망자수": 96,
-        "완치자수": 5889
+        "확진자수": 6875,
+        "사망자수": 97,
+        "완치자수": 5975
     },
     {
         "Name": "말레이시아",
@@ -577,6 +577,14 @@ var marker = [
         "완치자수": 498
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 1802,
+        "사망자수": 86,
+        "완치자수": 187
+    },
+    {
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
@@ -609,14 +617,6 @@ var marker = [
         "완치자수": 954
     },
     {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 1681,
-        "사망자수": 82,
-        "완치자수": 174
-    },
-    {
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
@@ -628,9 +628,9 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1486,
-        "사망자수": 20,
-        "완치자수": 1302
+        "확진자수": 1488,
+        "사망자수": 21,
+        "완치자수": 1316
     },
     {
         "Name": "Ivory Coast",
@@ -1700,8 +1700,8 @@ var marker = [
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "확진자수": 82881,
+        "확진자수": 82883,
         "사망자수": 4633,
-        "완치자수": 77853
+        "완치자수": 77911
     }
 ];
