@@ -109,8 +109,8 @@ var marker = [
         "Name_ch": "印度",
         "Name_en": "India",
         "확진자수": 49400,
-        "사망자수": 1693,
-        "완치자수": 14142
+        "사망자수": 1694,
+        "완치자수": 14183
     },
     {
         "Name": "네덜란드",
@@ -724,9 +724,9 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 843,
-        "사망자수": 11,
-        "완치자수": 600
+        "확진자수": 871,
+        "사망자수": 12,
+        "완치자수": 614
     },
     {
         "Name": "Somalia",
@@ -913,6 +913,14 @@ var marker = [
         "완치자수": 167
     },
     {
+        "Name": "Guinea-Bissau",
+        "Name_ch": "",
+        "Name_en": "Guinea-Bissau",
+        "확진자수": 475,
+        "사망자수": 2,
+        "완치자수": 24
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
@@ -948,17 +956,9 @@ var marker = [
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
-        "확진자수": 424,
+        "확진자수": 425,
         "사망자수": 0,
         "완치자수": 300
-    },
-    {
-        "Name": "Guinea-Bissau",
-        "Name_ch": "",
-        "Name_en": "Guinea-Bissau",
-        "확진자수": 413,
-        "사망자수": 1,
-        "완치자수": 19
     },
     {
         "Name": "Gabon",
@@ -1148,8 +1148,8 @@ var marker = [
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "확진자수": 138,
-        "사망자수": 3,
+        "확진자수": 139,
+        "사망자수": 4,
         "완치자수": 92
     },
     {
