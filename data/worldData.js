@@ -593,20 +593,20 @@ var marker = [
         "완치자수": 1733
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 1758,
+        "사망자수": 82,
+        "완치자수": 360
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
         "확진자수": 1711,
         "사망자수": 55,
         "완치자수": 261
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 1704,
-        "사망자수": 80,
-        "완치자수": 342
     },
     {
         "Name": "Cuba",
