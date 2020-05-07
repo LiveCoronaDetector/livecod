@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1288051,
-        "사망자수": 76729,
-        "완치자수": 215078
+        "확진자수": 1289105,
+        "사망자수": 76792,
+        "완치자수": 215598
     },
     {
         "Name": "스페인",
@@ -1308,9 +1308,9 @@ var marker = [
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "확진자수": 78,
+        "확진자수": 80,
         "사망자수": 1,
-        "완치자수": 30
+        "완치자수": 35
     },
     {
         "Name": "Sint Maarten",
