@@ -129,20 +129,20 @@ var marker = [
         "완치자수": 6783
     },
     {
-        "Name": "에콰도르",
-        "Name_ch": "厄瓜多尔",
-        "Name_en": "Ecuador",
-        "확진자수": 31881,
-        "사망자수": 1618,
-        "완치자수": 3433
-    },
-    {
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "확진자수": 30060,
         "사망자수": 1805,
         "완치자수": 25700
+    },
+    {
+        "Name": "에콰도르",
+        "Name_ch": "厄瓜多尔",
+        "Name_en": "Ecuador",
+        "확진자수": 29420,
+        "사망자수": 1618,
+        "완치자수": 3433
     },
     {
         "Name": "멕시코",
@@ -492,9 +492,9 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 2989,
+        "확진자수": 2992,
         "사망자수": 55,
-        "완치자수": 2761
+        "완치자수": 2772
     },
     {
         "Name": "오만",
@@ -713,6 +713,14 @@ var marker = [
         "완치자수": 464
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 895,
+        "사망자수": 12,
+        "완치자수": 637
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -727,14 +735,6 @@ var marker = [
         "확진자수": 873,
         "사망자수": 39,
         "완치자수": 87
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 871,
-        "사망자수": 12,
-        "완치자수": 614
     },
     {
         "Name": "Sudan",
@@ -833,20 +833,20 @@ var marker = [
         "완치자수": 645
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 695,
+        "사망자수": 15,
+        "완치자수": 245
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
         "확진자수": 673,
         "사망자수": 17,
         "완치자수": 486
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 633,
-        "사망자수": 15,
-        "완치자수": 219
     },
     {
         "Name": "Mali",
