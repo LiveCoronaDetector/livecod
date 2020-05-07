@@ -753,6 +753,14 @@ var marker = [
         "완치자수": 595
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 798,
+        "사망자수": 21,
+        "완치자수": 86
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
@@ -775,14 +783,6 @@ var marker = [
         "확진자수": 770,
         "사망자수": 38,
         "완치자수": 561
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 763,
-        "사망자수": 19,
-        "완치자수": 79
     },
     {
         "Name": "코스타리카",
@@ -1478,7 +1478,7 @@ var marker = [
         "Name_en": "New Caledonia",
         "확진자수": 18,
         "사망자수": 0,
-        "완치자수": 17
+        "완치자수": 18
     },
     {
         "Name": "Saint Lucia",
