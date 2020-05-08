@@ -60,8 +60,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 135693,
-        "사망자수": 9188,
+        "확진자수": 135773,
+        "사망자수": 9190,
         "완치자수": 55350
     },
     {
@@ -1465,6 +1465,14 @@ var marker = [
         "완치자수": 16
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "확진자수": 18,
+        "사망자수": 1,
+        "완치자수": 9
+    },
+    {
         "Name": "Fiji",
         "Name_ch": "",
         "Name_en": "Fiji",
@@ -1487,14 +1495,6 @@ var marker = [
         "확진자수": 18,
         "사망자수": 0,
         "완치자수": 17
-    },
-    {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "확진자수": 17,
-        "사망자수": 1,
-        "완치자수": 9
     },
     {
         "Name": "St. Vincent Grenadines",
