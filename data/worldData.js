@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1307430,
-        "사망자수": 77851,
-        "완치자수": 220554
+        "확진자수": 1308582,
+        "사망자수": 77902,
+        "완치자수": 220931
     },
     {
         "Name": "스페인",
@@ -45,7 +45,7 @@ var marker = [
         "Name_ch": "法国",
         "Name_en": "France",
         "확진자수": 174791,
-        "사망자수": 25987,
+        "사망자수": 26230,
         "완치자수": 55027
     },
     {
@@ -689,6 +689,14 @@ var marker = [
         "완치자수": 799
     },
     {
+        "Name": "Sudan",
+        "Name_ch": "",
+        "Name_en": "Sudan",
+        "확진자수": 1111,
+        "사망자수": 59,
+        "완치자수": 102
+    },
+    {
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
@@ -703,14 +711,6 @@ var marker = [
         "확진자수": 1026,
         "사망자수": 44,
         "완치자수": 600
-    },
-    {
-        "Name": "Sudan",
-        "Name_ch": "",
-        "Name_en": "Sudan",
-        "확진자수": 930,
-        "사망자수": 52,
-        "완치자수": 92
     },
     {
         "Name": "Somalia",
@@ -821,7 +821,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 742,
-        "사망자수": 15,
+        "사망자수": 16,
         "완치자수": 257
     },
     {
@@ -1281,6 +1281,14 @@ var marker = [
         "완치자수": 26
     },
     {
+        "Name": "South Sudan",
+        "Name_ch": "",
+        "Name_en": "South Sudan",
+        "확진자수": 90,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
@@ -1319,14 +1327,6 @@ var marker = [
         "확진자수": 76,
         "사망자수": 14,
         "완치자수": 44
-    },
-    {
-        "Name": "South Sudan",
-        "Name_ch": "",
-        "Name_en": "South Sudan",
-        "확진자수": 74,
-        "사망자수": 0,
-        "완치자수": 0
     },
     {
         "Name": "Libya",
@@ -1382,7 +1382,7 @@ var marker = [
         "Name_en": "Eritrea",
         "확진자수": 39,
         "사망자수": 0,
-        "완치자수": 30
+        "완치자수": 37
     },
     {
         "Name": "Saint Martin",
