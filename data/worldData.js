@@ -364,9 +364,9 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 7731,
-        "사망자수": 218,
-        "완치자수": 859
+        "확진자수": 7868,
+        "사망자수": 225,
+        "완치자수": 886
     },
     {
         "Name": "호주",
@@ -617,6 +617,14 @@ var marker = [
         "완치자수": 273
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 1685,
+        "사망자수": 105,
+        "완치자수": 154
+    },
+    {
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
@@ -644,17 +652,9 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1489,
+        "확진자수": 1490,
         "사망자수": 21,
-        "완치자수": 1332
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 1461,
-        "사망자수": 99,
-        "완치자수": 132
+        "완치자수": 1347
     },
     {
         "Name": "슬로베니아",
@@ -769,20 +769,20 @@ var marker = [
         "완치자수": 605
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 832,
+        "사망자수": 23,
+        "완치자수": 90
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
         "확진자수": 823,
         "사망자수": 9,
         "완치자수": 232
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 798,
-        "사망자수": 21,
-        "완치자수": 86
     },
     {
         "Name": "레바논",
