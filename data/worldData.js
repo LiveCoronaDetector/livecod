@@ -12,9 +12,9 @@ var marker = [
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
-        "확진자수": 256855,
-        "사망자수": 26070,
-        "완치자수": 163919
+        "확진자수": 260117,
+        "사망자수": 26299,
+        "완치자수": 168408
     },
     {
         "Name": "이탈리아",
@@ -140,7 +140,7 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "확진자수": 30126,
+        "확진자수": 30207,
         "사망자수": 1810,
         "완치자수": 25900
     },
@@ -217,20 +217,20 @@ var marker = [
         "완치자수": 2286
     },
     {
+        "Name": "아랍에미리트",
+        "Name_ch": "阿拉伯联合酋长国",
+        "Name_en": "UAE",
+        "확진자수": 16793,
+        "사망자수": 174,
+        "완치자수": 3837
+    },
+    {
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
         "확진자수": 16409,
         "사망자수": 245,
         "완치자수": 11007
-    },
-    {
-        "Name": "아랍에미리트",
-        "Name_ch": "阿拉伯联合酋长国",
-        "Name_en": "UAE",
-        "확진자수": 16240,
-        "사망자수": 165,
-        "완치자수": 3572
     },
     {
         "Name": "오스트리아",
@@ -628,9 +628,9 @@ var marker = [
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "확진자수": 1572,
-        "사망자수": 89,
-        "완치자수": 1079
+        "확진자수": 1586,
+        "사망자수": 90,
+        "완치자수": 1099
     },
     {
         "Name": "Ivory Coast",
@@ -1081,6 +1081,14 @@ var marker = [
         "완치자수": 38
     },
     {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 208,
+        "사망자수": 5,
+        "완치자수": 4
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
@@ -1103,14 +1111,6 @@ var marker = [
         "확진자수": 189,
         "사망자수": 20,
         "완치자수": 79
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 187,
-        "사망자수": 4,
-        "완치자수": 4
     },
     {
         "Name": "Faeroe Islands",
