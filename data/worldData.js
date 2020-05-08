@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1292212,
-        "사망자수": 76908,
-        "완치자수": 216863
+        "확진자수": 1292594,
+        "사망자수": 76926,
+        "완치자수": 217250
     },
     {
         "Name": "스페인",
@@ -60,7 +60,7 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 135106,
+        "확진자수": 135693,
         "사망자수": 9188,
         "완치자수": 55350
     },
@@ -700,9 +700,9 @@ var marker = [
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
-        "확진자수": 1025,
-        "사망자수": 43,
-        "완치자수": 591
+        "확진자수": 1026,
+        "사망자수": 44,
+        "완치자수": 600
     },
     {
         "Name": "Sudan",
@@ -1129,6 +1129,14 @@ var marker = [
         "완치자수": 62
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "확진자수": 153,
+        "사망자수": 13,
+        "완치자수": 104
+    },
+    {
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
@@ -1143,14 +1151,6 @@ var marker = [
         "확진자수": 153,
         "사망자수": 2,
         "완치자수": 12
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "확진자수": 152,
-        "사망자수": 13,
-        "완치자수": 104
     },
     {
         "Name": "지브롤터",
@@ -1214,7 +1214,7 @@ var marker = [
         "Name_en": "Bermuda",
         "확진자수": 118,
         "사망자수": 7,
-        "완치자수": 59
+        "완치자수": 61
     },
     {
         "Name": "Trinidad and Tobago",
@@ -1342,7 +1342,7 @@ var marker = [
         "Name_en": "French Polynesia",
         "확진자수": 60,
         "사망자수": 0,
-        "완치자수": 55
+        "완치자수": 56
     },
     {
         "Name": "Syria",
@@ -1430,7 +1430,7 @@ var marker = [
         "Name_en": "Timor-Leste",
         "확진자수": 24,
         "사망자수": 0,
-        "완치자수": 20
+        "완치자수": 21
     },
     {
         "Name": "Botswana",
