@@ -261,7 +261,7 @@ var marker = [
         "Name_ch": "尼亚",
         "Name_en": "Romania",
         "확진자수": 14499,
-        "사망자수": 888,
+        "사망자수": 891,
         "완치자수": 6144
     },
     {
@@ -425,20 +425,20 @@ var marker = [
         "완치자수": 2323
     },
     {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+        "확진자수": 4753,
+        "사망자수": 31,
+        "완치자수": 1518
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
         "확진자수": 4605,
         "사망자수": 145,
         "완치자수": 1747
-    },
-    {
-        "Name": "Kazakhstan",
-        "Name_ch": "",
-        "Name_en": "Kazakhstan",
-        "확진자수": 4578,
-        "사망자수": 30,
-        "완치자수": 1518
     },
     {
         "Name": "바레인",
