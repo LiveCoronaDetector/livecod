@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1335226,
-        "사망자수": 79335,
+        "확진자수": 1335668,
+        "사망자수": 79468,
         "완치자수": 224633
     },
     {
@@ -45,8 +45,8 @@ var marker = [
         "Name_ch": "法国",
         "Name_en": "France",
         "확진자수": 176079,
-        "사망자수": 26230,
-        "완치자수": 55782
+        "사망자수": 26310,
+        "완치자수": 56038
     },
     {
         "Name": "독일",
@@ -92,9 +92,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 62769,
-        "사망자수": 2089,
-        "완치자수": 18672
+        "확진자수": 62808,
+        "사망자수": 2101,
+        "완치자수": 19301
     },
     {
         "Name": "페루",
@@ -721,6 +721,14 @@ var marker = [
         "완치자수": 110
     },
     {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "확진자수": 988,
+        "사망자수": 11,
+        "완치자수": 492
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
@@ -767,14 +775,6 @@ var marker = [
         "확진자수": 856,
         "사망자수": 31,
         "완치자수": 627
-    },
-    {
-        "Name": "Mayotte",
-        "Name_ch": "",
-        "Name_en": "Mayotte",
-        "확진자수": 854,
-        "사망자수": 10,
-        "완치자수": 352
     },
     {
         "Name": "스리랑카",
@@ -836,9 +836,9 @@ var marker = [
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "확진자수": 744,
+        "확진자수": 748,
         "사망자수": 48,
-        "완치자수": 566
+        "완치자수": 569
     },
     {
         "Name": "일본크루즈",
@@ -863,6 +863,14 @@ var marker = [
         "확진자수": 692,
         "사망자수": 37,
         "완치자수": 298
+    },
+    {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 689,
+        "사망자수": 10,
+        "완치자수": 155
     },
     {
         "Name": "Kenya",
@@ -911,14 +919,6 @@ var marker = [
         "확진자수": 594,
         "사망자수": 2,
         "완치자수": 25
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 563,
-        "사망자수": 10,
-        "완치자수": 152
     },
     {
         "Name": "Channel Islands",
@@ -980,7 +980,7 @@ var marker = [
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
-        "확진자수": 426,
+        "확진자수": 431,
         "사망자수": 0,
         "완치자수": 354
     },
@@ -1025,6 +1025,14 @@ var marker = [
         "완치자수": 274
     },
     {
+        "Name": "Chad",
+        "Name_ch": "",
+        "Name_en": "Chad",
+        "확진자수": 322,
+        "사망자수": 31,
+        "완치자수": 53
+    },
+    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
@@ -1065,14 +1073,6 @@ var marker = [
         "완치자수": 136
     },
     {
-        "Name": "Chad",
-        "Name_ch": "",
-        "Name_en": "Chad",
-        "확진자수": 260,
-        "사망자수": 28,
-        "완치자수": 50
-    },
-    {
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
@@ -1084,7 +1084,7 @@ var marker = [
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "확진자수": 230,
+        "확진자수": 236,
         "사망자수": 2,
         "완치자수": 44
     },
