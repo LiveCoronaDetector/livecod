@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1321666,
-        "사망자수": 78599,
-        "완치자수": 223578
+        "확진자수": 1321785,
+        "사망자수": 78611,
+        "완치자수": 223603
     },
     {
         "Name": "스페인",
@@ -100,7 +100,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 59693,
+        "확진자수": 59695,
         "사망자수": 1985,
         "완치자수": 17887
     },
@@ -737,20 +737,20 @@ var marker = [
         "완치자수": 650
     },
     {
-        "Name": "DRC",
-        "Name_ch": "",
-        "Name_en": "DRC",
-        "확진자수": 897,
-        "사망자수": 36,
-        "완치자수": 119
-    },
-    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "확진자수": 891,
         "사망자수": 15,
         "완치자수": 400
+    },
+    {
+        "Name": "DRC",
+        "Name_ch": "",
+        "Name_en": "DRC",
+        "확진자수": 863,
+        "사망자수": 36,
+        "완치자수": 130
     },
     {
         "Name": "Mayotte",
@@ -889,6 +889,14 @@ var marker = [
         "완치자수": 202
     },
     {
+        "Name": "Gabon",
+        "Name_ch": "",
+        "Name_en": "Gabon",
+        "확진자수": 620,
+        "사망자수": 8,
+        "완치자수": 110
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
@@ -909,8 +917,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 545,
-        "사망자수": 40,
-        "완치자수": 445
+        "사망자수": 41,
+        "완치자수": 447
     },
     {
         "Name": "Tajikistan",
@@ -935,14 +943,6 @@ var marker = [
         "확진자수": 508,
         "사망자수": 9,
         "완치자수": 385
-    },
-    {
-        "Name": "Gabon",
-        "Name_ch": "",
-        "Name_en": "Gabon",
-        "확진자수": 504,
-        "사망자수": 8,
-        "완치자수": 110
     },
     {
         "Name": "Malta",
@@ -1582,7 +1582,7 @@ var marker = [
         "Name_en": "Montserrat",
         "확진자수": 11,
         "사망자수": 1,
-        "완치자수": 7
+        "완치자수": 8
     },
     {
         "Name": "Greenland",
