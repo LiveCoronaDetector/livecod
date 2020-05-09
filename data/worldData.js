@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1342356,
-        "사망자수": 79908,
-        "완치자수": 232827
+        "확진자수": 1342723,
+        "사망자수": 79926,
+        "완치자수": 232869
     },
     {
         "Name": "스페인",
@@ -428,9 +428,9 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 4946,
+        "확진자수": 4975,
         "사망자수": 31,
-        "완치자수": 1740
+        "완치자수": 1776
     },
     {
         "Name": "Moldova",
@@ -580,9 +580,9 @@ var marker = [
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "확진자수": 2009,
+        "확진자수": 2042,
         "사망자수": 11,
-        "완치자수": 663
+        "완치자수": 698
     },
     {
         "Name": "Bulgaria",
@@ -873,6 +873,14 @@ var marker = [
         "완치자수": 155
     },
     {
+        "Name": "Gabon",
+        "Name_ch": "",
+        "Name_en": "Gabon",
+        "확진자수": 661,
+        "사망자수": 8,
+        "완치자수": 110
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
@@ -903,14 +911,6 @@ var marker = [
         "확진자수": 626,
         "사망자수": 10,
         "완치자수": 297
-    },
-    {
-        "Name": "Gabon",
-        "Name_ch": "",
-        "Name_en": "Gabon",
-        "확진자수": 620,
-        "사망자수": 8,
-        "완치자수": 110
     },
     {
         "Name": "Tajikistan",
@@ -1577,6 +1577,14 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Comoros",
+        "Name_ch": "",
+        "Name_en": "Comoros",
+        "확진자수": 11,
+        "사망자수": 1,
+        "완치자수": 0
+    },
+    {
         "Name": "Montserrat",
         "Name_ch": "",
         "Name_en": "Montserrat",
@@ -1614,14 +1622,6 @@ var marker = [
         "Name_en": "MS Zaandam",
         "확진자수": 9,
         "사망자수": 2,
-        "완치자수": 0
-    },
-    {
-        "Name": "Comoros",
-        "Name_ch": "",
-        "Name_en": "Comoros",
-        "확진자수": 8,
-        "사망자수": 1,
         "완치자수": 0
     },
     {
