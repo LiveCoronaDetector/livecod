@@ -588,9 +588,9 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 1872,
-        "사망자수": 86,
-        "완치자수": 401
+        "확진자수": 1911,
+        "사망자수": 88,
+        "완치자수": 422
     },
     {
         "Name": "Iceland",
@@ -721,6 +721,14 @@ var marker = [
         "완치자수": 130
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 931,
+        "사망자수": 12,
+        "완치자수": 658
+    },
+    {
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
@@ -735,14 +743,6 @@ var marker = [
         "확진자수": 928,
         "사망자수": 18,
         "완치자수": 464
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 906,
-        "사망자수": 12,
-        "완치자수": 650
     },
     {
         "Name": "Guatemala",
