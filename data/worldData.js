@@ -1265,20 +1265,20 @@ var marker = [
         "완치자수": 89
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 97,
+        "사망자수": 10,
+        "완치자수": 35
+    },
+    {
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
         "확진자수": 96,
         "사망자수": 4,
         "완치자수": 82
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 94,
-        "사망자수": 10,
-        "완치자수": 35
     },
     {
         "Name": "Bahamas",
