@@ -593,20 +593,20 @@ var marker = [
         "완치자수": 422
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 1830,
+        "사망자수": 108,
+        "완치자수": 195
+    },
+    {
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
         "확진자수": 1801,
         "사망자수": 10,
         "완치자수": 1773
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 1771,
-        "사망자수": 107,
-        "완치자수": 192
     },
     {
         "Name": "Cuba",
@@ -1252,7 +1252,7 @@ var marker = [
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "확진자수": 109,
+        "확진자수": 110,
         "사망자수": 0,
         "완치자수": 31
     },
