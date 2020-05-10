@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1348485,
-        "사망자수": 80068,
+        "확진자수": 1349599,
+        "사망자수": 80101,
         "완치자수": 238081
     },
     {
@@ -428,9 +428,9 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 5056,
+        "확진자수": 5076,
         "사망자수": 31,
-        "완치자수": 1828
+        "완치자수": 1901
     },
     {
         "Name": "Moldova",
@@ -1044,9 +1044,9 @@ var marker = [
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "확진자수": 291,
+        "확진자수": 307,
         "사망자수": 18,
-        "완치자수": 58
+        "완치자수": 67
     },
     {
         "Name": "베트남",
@@ -1140,9 +1140,9 @@ var marker = [
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "확진자수": 178,
+        "확진자수": 180,
         "사망자수": 6,
-        "완치자수": 68
+        "완치자수": 72
     },
     {
         "Name": "Eswatini",
@@ -1292,7 +1292,7 @@ var marker = [
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "확진자수": 87,
+        "확진자수": 91,
         "사망자수": 0,
         "완치자수": 34
     },
