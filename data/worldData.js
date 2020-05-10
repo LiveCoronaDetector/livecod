@@ -380,7 +380,7 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 6929,
+        "확진자수": 6931,
         "사망자수": 97,
         "완치자수": 6135
     },
@@ -1550,7 +1550,7 @@ var marker = [
         "Name_en": "Saint Kitts and Nevis",
         "확진자수": 15,
         "사망자수": 0,
-        "완치자수": 13
+        "완치자수": 14
     },
     {
         "Name": "Falkland Islands",
