@@ -965,8 +965,8 @@ var marker = [
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
         "확진자수": 440,
-        "사망자수": 6,
-        "완치자수": 366
+        "사망자수": 7,
+        "완치자수": 368
     },
     {
         "Name": "Equatorial Guinea",
