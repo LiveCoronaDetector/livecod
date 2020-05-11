@@ -134,7 +134,7 @@ var marker = [
         "Name_en": "Mexico",
         "확진자수": 35022,
         "사망자수": 3465,
-        "완치자수": 21824
+        "완치자수": 23100
     },
     {
         "Name": "파키스탄",
@@ -1625,6 +1625,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "부탄",
+        "Name_ch": "不丹",
+        "Name_en": "Bhutan",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 5
+    },
+    {
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
@@ -1647,14 +1655,6 @@ var marker = [
         "확진자수": 7,
         "사망자수": 1,
         "완치자수": 4
-    },
-    {
-        "Name": "부탄",
-        "Name_ch": "不丹",
-        "Name_en": "Bhutan",
-        "확진자수": 7,
-        "사망자수": 0,
-        "완치자수": 5
     },
     {
         "Name": "Caribbean Netherlands",
