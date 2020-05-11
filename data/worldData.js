@@ -1121,20 +1121,20 @@ var marker = [
         "완치자수": 101
     },
     {
+        "Name": "Martinique",
+        "Name_ch": "",
+        "Name_en": "Martinique",
+        "확진자수": 187,
+        "사망자수": 14,
+        "완치자수": 83
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "확진자수": 187,
         "사망자수": 0,
         "완치자수": 187
-    },
-    {
-        "Name": "Martinique",
-        "Name_ch": "",
-        "Name_en": "Martinique",
-        "확진자수": 186,
-        "사망자수": 14,
-        "완치자수": 83
     },
     {
         "Name": "Haiti",
