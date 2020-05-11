@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1381337,
-        "사망자수": 81545,
+        "확진자수": 1381665,
+        "사망자수": 81552,
         "완치자수": 260188
     },
     {
@@ -404,8 +404,8 @@ var marker = [
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "확진자수": 6034,
-        "사망자수": 305,
+        "확진자수": 6265,
+        "사망자수": 314,
         "완치자수": 1837
     },
     {
@@ -529,20 +529,20 @@ var marker = [
         "완치자수": 1374
     },
     {
+        "Name": "카메룬",
+        "Name_ch": "喀麦隆",
+        "Name_en": "Cameroon",
+        "확진자수": 2689,
+        "사망자수": 125,
+        "완치자수": 1524
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
         "확진자수": 2589,
         "사망자수": 32,
         "완치자수": 1680
-    },
-    {
-        "Name": "카메룬",
-        "Name_ch": "喀麦隆",
-        "Name_en": "Cameroon",
-        "확진자수": 2579,
-        "사망자수": 114,
-        "완치자수": 1465
     },
     {
         "Name": "Bolivia",
@@ -1305,20 +1305,20 @@ var marker = [
         "완치자수": 57
     },
     {
+        "Name": "Cayman Islands",
+        "Name_ch": "",
+        "Name_en": "Cayman Islands",
+        "확진자수": 84,
+        "사망자수": 1,
+        "완치자수": 47
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
         "확진자수": 82,
         "사망자수": 1,
         "완치자수": 55
-    },
-    {
-        "Name": "Cayman Islands",
-        "Name_ch": "",
-        "Name_en": "Cayman Islands",
-        "확진자수": 81,
-        "사망자수": 1,
-        "완치자수": 41
     },
     {
         "Name": "Sint Maarten",
