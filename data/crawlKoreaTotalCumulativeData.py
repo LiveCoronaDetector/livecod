@@ -24,7 +24,7 @@ def get_today_data(url, data):
     source = urlopen(url).read()
     soup = BeautifulSoup(source, "html.parser")
     tables = soup.find("div", class_="data_table mgt16").find_all("td")
-    num = list(map(int, [element.get_text().replace(",", "") for element in tables]))
+    num = [int(element.get_text().replace(",", "")) for element in tables]
     total, release, _, death = num
 
     if data[-1][0] != day:
@@ -32,10 +32,11 @@ def get_today_data(url, data):
         diff = today_tot - before_tot
         data.append([day, total, diff, death, release])
 
-    elif total != data[-1][1]:
-        before_tot = data[-2][1]
-        diff = today_tot - before_tot
-        data[-1] = [day, total, diff, death, release]
+    else:
+        if total != data[-1][1]:
+            before_tot = data[-2][1]
+            diff = today_tot - before_tot
+            data[-1] = [day, total, diff, death, release]
 
     return data
 
