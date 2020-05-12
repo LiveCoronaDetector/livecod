@@ -20,12 +20,13 @@ def build_result(korea_data):
         if i == 1:
             diff = 1
         else:
-            diff = korea_data[i][0] - korea_data[i - 1][0]
+            diff = korea_data[i][1] - korea_data[i - 1][1]
         result.append([
             korea_data[i][0],
-            diff,
             korea_data[i][1],
-            korea_data[i][2]
+            diff,
+            korea_data[i][2],
+            korea_data[i][3]
         ])
     return result
 
@@ -41,10 +42,10 @@ def run():
 
     korea_deaths = extract_data(confirmed_total_data)
     korea_recovered = extract_data(recovered_total_data)
-    korea_confirmed, korea_deaths_date = extract_data(deaths_total_data, return_dates=True)
-    korea_data = list(zip(korea_confirmed, korea_deaths, korea_recovered))
+    korea_confirmed, date = extract_data(deaths_total_data, return_dates=True)
+    korea_data = list(zip(date, korea_confirmed, korea_deaths, korea_recovered))
 
-    result = list(zip(korea_deaths_date, build_result(korea_data)))
+    result = build_result(korea_data)
 
     save_dir = './data/koreaRegionalCumulativeData.js'
     crawler_name = 'crawlKoreaRegionalCumulativeData.py'
