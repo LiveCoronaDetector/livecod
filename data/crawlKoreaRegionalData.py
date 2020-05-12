@@ -24,7 +24,7 @@ def parse_data(data, updated):
         confirmed = int(confirmed)  # 확진자수
         recovered = int(recovered)  # 격리해제수
         deaths = int(deaths)  # 사망자수
-        confirmed_rate = float(confirmed)  # 십만명당발생율
+        confirmed_rate = float(confirmed_rate)  # 십만명당발생율
 
         if i != 0:
             slicing = d.find_all('p', class_='citytit')[0].text

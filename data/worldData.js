@@ -756,9 +756,9 @@ var marker = [
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "확진자수": 958,
+        "확진자수": 998,
         "사망자수": 18,
-        "완치자수": 325
+        "완치자수": 349
     },
     {
         "Name": "라트비아",
