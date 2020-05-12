@@ -726,7 +726,7 @@ var marker = [
         "Name_en": "Tunisia",
         "확진자수": 1032,
         "사망자수": 45,
-        "완치자수": 700
+        "완치자수": 727
     },
     {
         "Name": "DRC",
@@ -945,20 +945,20 @@ var marker = [
         "완치자수": 183
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 505,
+        "사망자수": 9,
+        "완치자수": 90
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
         "확진자수": 503,
         "사망자수": 5,
         "완치자수": 434
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 502,
-        "사망자수": 9,
-        "완치자수": 90
     },
     {
         "Name": "대만",
