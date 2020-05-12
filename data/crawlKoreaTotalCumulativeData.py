@@ -29,12 +29,12 @@ def get_today_data(url, data):
 
     if data[-1][0] != day:
         before_tot = data[-1][1]
-        diff = today_tot - before_tot
+        diff = total - before_tot
         data.append([day, total, diff, death, release])
 
     elif data[-1][1] != total:
         before_tot = data[-2][1]
-        diff = today_tot - before_tot
+        diff = total - before_tot
         data[-1] = [day, total, diff, death, release]
 
     return data
