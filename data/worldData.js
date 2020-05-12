@@ -1081,20 +1081,20 @@ var marker = [
         "완치자수": 117
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 261,
+        "사망자수": 5,
+        "완치자수": 106
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
         "확진자수": 260,
         "사망자수": 2,
         "완치자수": 58
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 250,
-        "사망자수": 5,
-        "완치자수": 105
     },
     {
         "Name": "Liberia",
