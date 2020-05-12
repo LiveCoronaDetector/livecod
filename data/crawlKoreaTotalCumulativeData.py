@@ -28,11 +28,11 @@ def get_today_data(url, data):
 
     if data[-1][0] != today:
         diff = total - data[-1][1]
-        data.append([day, total, diff, death, release])
+        data.append([today, total, diff, death, release])
 
     elif sum(data[-1][1], data[-1][3], data[-1][4]) != sum(total, death, release): 
         diff = total - data[-2][1]
-        data[-1] = [day, total, diff, death, release]
+        data[-1] = [today, total, diff, death, release]
 
     return data
 
