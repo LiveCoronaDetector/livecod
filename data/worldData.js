@@ -1126,7 +1126,7 @@ var marker = [
         "Name_en": "Martinique",
         "확진자수": 187,
         "사망자수": 14,
-        "완치자수": 83
+        "완치자수": 91
     },
     {
         "Name": "Faeroe Islands",
@@ -1593,6 +1593,14 @@ var marker = [
         "완치자수": 8
     },
     {
+        "Name": "부탄",
+        "Name_ch": "不丹",
+        "Name_en": "Bhutan",
+        "확진자수": 11,
+        "사망자수": 0,
+        "완치자수": 5
+    },
+    {
         "Name": "Greenland",
         "Name_ch": "",
         "Name_en": "Greenland",
@@ -1623,14 +1631,6 @@ var marker = [
         "확진자수": 9,
         "사망자수": 2,
         "완치자수": 0
-    },
-    {
-        "Name": "부탄",
-        "Name_ch": "不丹",
-        "Name_en": "Bhutan",
-        "확진자수": 9,
-        "사망자수": 0,
-        "완치자수": 5
     },
     {
         "Name": "Mauritania",
