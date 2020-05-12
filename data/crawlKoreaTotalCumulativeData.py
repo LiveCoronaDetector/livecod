@@ -11,7 +11,7 @@ def get_past_data():
     with open("./data/koreaTotalCumulativeData.js", "r", encoding="UTF-8-sig") as f:
         data = f.read()
         obj = (
-            data[data.find("[") : data.rfind("]") + 1]
+            data[data.find("["): data.rfind("]") + 1]
             .replace("\n", "")
             .replace("\t", "")
         )
@@ -21,24 +21,21 @@ def get_past_data():
 def get_today_data(url, data):
     today = date.today()
     day = today.strftime(f"{today.month}/{today.day}")
+    source = urlopen(url).read()
+    soup = BeautifulSoup(source, "html.parser")
+    tables = soup.find("div", class_="data_table mgt16").find_all("td")
+    num = list(map(int, [element.get_text().replace(",", "") for element in tables]))
+    total, release, _, death = num
 
     if data[-1][0] != day:
-        html = urlopen(url)
-        source = html.read()
-        html.close()
-
-        soup = BeautifulSoup(source, "html.parser")
-        tables = soup.find("div", class_="data_table mgt16").find_all("td")
-
-        num = [element.get_text() for element in tables]
-
         before_tot = data[-1][1]
-        today_tot = int(num[0].replace(",", ""))
         diff = today_tot - before_tot
-        death = int(num[3])
-        release = int(num[1].replace(",", ""))
+        data.append([day, total, diff, death, release])
 
-        data.append([day, today_tot, diff, death, release])
+    elif total != data[-1][1]:
+        before_tot = data[-2][1]
+        diff = today_tot - before_tot
+        data[-1] = [day, total, diff, death, release]
 
     return data
 
