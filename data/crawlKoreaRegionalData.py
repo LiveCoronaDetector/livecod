@@ -7,26 +7,29 @@ from utils import write_data
 def get_data(url):
     html = requests.get(url).text
     soup = BeautifulSoup(html, 'html.parser')
-    updated = soup.select('.timetable > .info > span')[0].text     # 업데이트날짜
+    updated = soup.select('.timetable > .info > span')[0].text  # 업데이트날짜
     data = soup.select('.rpsa_detail > div > div')
+    data.pop()
     return data, updated
 
 
 def parse_data(data, updated):
-    confirmed_region = []   # 시도별확진자
+    confirmed_region = []  # 시도별확진자
 
     for i, d in enumerate(data):
-        region = d.find_all('h4', class_='cityname')[0].text      # 지역이름
+        region = d.find_all('h4', class_='cityname')[0].text  # 지역이름
         temp = d.find_all('span', class_='num')
-        confirmed = int(temp[0].text.replace(',', ''))    # 확진자수
-        recovered = int(temp[2].text.replace(',', ''))   # 격리해제수
-        deaths = int(temp[3].text.replace(',', ''))  # 사망자수
-        confirmed_rate = float(temp[4].text.replace('-', '0'))   # 십만명당발생율
+        confirmed, _, recovered, deaths, confirmed_rate = [
+            element.text.replace(',', '') for element in temp]
+        confirmed = int(confirmed)  # 확진자수
+        recovered = int(recovered)  # 격리해제수
+        deaths = int(deaths)  # 사망자수
+        confirmed_rate = float(confirmed)  # 십만명당발생율
 
         if i != 0:
             slicing = d.find_all('p', class_='citytit')[0].text
             confirmed_region_rate = float(
-                slicing[:slicing.find('%')])    # 지역별확진자비율
+                slicing[:slicing.find('%')])  # 지역별확진자비율
         else:
             confirmed_region_rate = ''
 
@@ -39,8 +42,6 @@ def parse_data(data, updated):
             '지역별확진자비율': confirmed_region_rate,
         })
 
-    # 삭제된 데이터 확인
-    # print(f'삭제된 데이터 : {시도별확진자[0]}')
     confirmed_region.append({'업데이트날짜': updated})
 
     return confirmed_region
