@@ -1,7 +1,7 @@
 import json
-import urllib.request
 from datetime import date
-from urllib.request import urlopen
+
+import requests
 
 from bs4 import BeautifulSoup
 from utils import write_data
@@ -21,8 +21,8 @@ def get_past_data():
 def get_today_data(url, data):
     today = date.today()
     day = today.strftime(f"{today.month}/{today.day}")
-    source = urlopen(url).read()
-    soup = BeautifulSoup(source, "html.parser")
+    html = requests.get(url).text
+    soup = BeautifulSoup(html, "html.parser")
     tables = soup.find("div", class_="data_table mgt16").find_all("td")
     num = [int(element.get_text().replace(",", "")) for element in tables]
     total, release, _, death = num
