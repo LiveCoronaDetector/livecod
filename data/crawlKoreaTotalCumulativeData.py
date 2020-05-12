@@ -19,22 +19,19 @@ def get_past_data():
 
 
 def get_today_data(url, data):
-    today = date.today()
-    day = today.strftime(f"{today.month}/{today.day}")
+    today = date.today().strftime("%m/%d")
     html = requests.get(url).text
     soup = BeautifulSoup(html, "html.parser")
     tables = soup.find("div", class_="data_table mgt16").find_all("td")
     num = [int(element.get_text().replace(",", "")) for element in tables]
     total, release, _, death = num
 
-    if data[-1][0] != day:
-        before_tot = data[-1][1]
-        diff = total - before_tot
+    if data[-1][0] != today:
+        diff = total - data[-1][1]
         data.append([day, total, diff, death, release])
 
-    elif data[-1][1] != total:
-        before_tot = data[-2][1]
-        diff = total - before_tot
+    elif sum(data[-1][1], data[-1][3], data[-1][4]) != sum(total, death, release): 
+        diff = total - data[-2][1]
         data[-1] = [day, total, diff, death, release]
 
     return data
