@@ -17,7 +17,7 @@ def extract_data(total_data, return_dates=False):
 def build_result(korea_data):
     result = []
     for i, _ in enumerate(korea_data):
-        if i == 1:
+        if not i:
             diff = 1
         else:
             diff = korea_data[i][1] - korea_data[i - 1][1]
