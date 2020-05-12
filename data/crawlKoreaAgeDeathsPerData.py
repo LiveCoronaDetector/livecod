@@ -20,9 +20,8 @@ def get_data(url):
 
     for datum in data[start: end + 1]:
         temp = [i.text.replace("\xa0", "") for i in datum]
-        ageDeathsPer.append(
-            {"구분": temp[0], "확진자(%)": temp[1], "사망자(%)": temp[2], "치명율": temp[3]}
-        )
+        labels = ["구분", "확진자(%)", "사망자(%)", "치명율"]
+        ageDeathsPer.append(dict(zip(labels, temp)))
 
     return ageDeathsPer
 
