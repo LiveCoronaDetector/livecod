@@ -2,12 +2,12 @@ from utils import get_raw_data, write_data
 
 
 def extract_data(total_data, return_dates=False):
+    index = total_data[0].index('2/1/20')
     for i in total_data:
         if i[1] == 'Korea, South':
             korea_data = list(map(int, i[index:]))
             break
     if return_dates:
-        index = total_data[0].index('2/1/20')
         korea_date = total_data[0][index:]
         korea_date = [i[:-3] for i in korea_date]
         return korea_data, korea_date
