@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1424406,
-        "사망자수": 84909,
-        "완치자수": 306298
+        "확진자수": 1426389,
+        "사망자수": 84939,
+        "완치자수": 307354
     },
     {
         "Name": "스페인",
@@ -529,6 +529,14 @@ var marker = [
         "완치자수": 313
     },
     {
+        "Name": "카메룬",
+        "Name_ch": "喀麦隆",
+        "Name_en": "Cameroon",
+        "확진자수": 2800,
+        "사망자수": 136,
+        "완치자수": 1543
+    },
+    {
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
@@ -543,14 +551,6 @@ var marker = [
         "확진자수": 2758,
         "사망자수": 35,
         "완치자수": 1789
-    },
-    {
-        "Name": "카메룬",
-        "Name_ch": "喀麦隆",
-        "Name_en": "Cameroon",
-        "확진자수": 2689,
-        "사망자수": 125,
-        "완치자수": 1524
     },
     {
         "Name": "Uzbekistan",
@@ -828,7 +828,7 @@ var marker = [
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
-        "확진자수": 820,
+        "확진자수": 836,
         "사망자수": 3,
         "완치자수": 26
     },
@@ -1148,7 +1148,7 @@ var marker = [
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "확진자수": 194,
+        "확진자수": 203,
         "사망자수": 0,
         "완치자수": 2
     },
@@ -1502,7 +1502,7 @@ var marker = [
         "Name_en": "Saint Lucia",
         "확진자수": 18,
         "사망자수": 0,
-        "완치자수": 17
+        "완치자수": 18
     },
     {
         "Name": "St. Vincent Grenadines",
