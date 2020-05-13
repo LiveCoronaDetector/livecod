@@ -662,7 +662,7 @@ var marker = [
         "Name_en": "New Zealand",
         "확진자수": 1497,
         "사망자수": 21,
-        "완치자수": 1398
+        "완치자수": 1402
     },
     {
         "Name": "Lithuania",
