@@ -1452,7 +1452,7 @@ var marker = [
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "확진자수": 22,
+        "확진자수": 23,
         "사망자수": 1,
         "완치자수": 10
     },
