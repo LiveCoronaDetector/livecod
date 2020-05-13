@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1426389,
-        "사망자수": 84939,
-        "완치자수": 307354
+        "확진자수": 1427185,
+        "사망자수": 84971,
+        "완치자수": 307755
     },
     {
         "Name": "스페인",
@@ -44,8 +44,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 181518,
-        "사망자수": 12703,
+        "확진자수": 185562,
+        "사망자수": 13010,
         "완치자수": 72597
     },
     {
@@ -1228,7 +1228,7 @@ var marker = [
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "확진자수": 126,
+        "확진자수": 139,
         "사망자수": 0,
         "완치자수": 55
     },
@@ -1537,6 +1537,14 @@ var marker = [
         "완치자수": 11
     },
     {
+        "Name": "Mauritania",
+        "Name_ch": "",
+        "Name_en": "Mauritania",
+        "확진자수": 15,
+        "사망자수": 2,
+        "완치자수": 6
+    },
+    {
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
@@ -1623,14 +1631,6 @@ var marker = [
         "확진자수": 10,
         "사망자수": 1,
         "완치자수": 9
-    },
-    {
-        "Name": "Mauritania",
-        "Name_ch": "",
-        "Name_en": "Mauritania",
-        "확진자수": 9,
-        "사망자수": 2,
-        "완치자수": 6
     },
     {
         "Name": "MS Zaandam",
