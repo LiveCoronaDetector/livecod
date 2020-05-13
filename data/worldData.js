@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1410168,
-        "사망자수": 83491,
-        "완치자수": 298593
+        "확진자수": 1410267,
+        "사망자수": 83505,
+        "완치자수": 298641
     },
     {
         "Name": "스페인",
@@ -713,20 +713,20 @@ var marker = [
         "완치자수": 126
     },
     {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "확진자수": 1143,
+        "사망자수": 14,
+        "완치자수": 627
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
         "확진자수": 1102,
         "사망자수": 44,
         "완치자수": 146
-    },
-    {
-        "Name": "Mayotte",
-        "Name_ch": "",
-        "Name_en": "Mayotte",
-        "확진자수": 1095,
-        "사망자수": 12,
-        "완치자수": 492
     },
     {
         "Name": "홍콩",
@@ -1084,9 +1084,9 @@ var marker = [
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "확진자수": 267,
+        "확진자수": 270,
         "사망자수": 2,
-        "완치자수": 58
+        "완치자수": 61
     },
     {
         "Name": "Ethiopia",
@@ -1095,6 +1095,14 @@ var marker = [
         "확진자수": 263,
         "사망자수": 5,
         "완치자수": 108
+    },
+    {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 220,
+        "사망자수": 6,
+        "완치자수": 4
     },
     {
         "Name": "Haiti",
@@ -1119,14 +1127,6 @@ var marker = [
         "확진자수": 212,
         "사망자수": 20,
         "완치자수": 86
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 208,
-        "사망자수": 5,
-        "완치자수": 4
     },
     {
         "Name": "토고",
@@ -1625,20 +1625,20 @@ var marker = [
         "완치자수": 9
     },
     {
+        "Name": "Mauritania",
+        "Name_ch": "",
+        "Name_en": "Mauritania",
+        "확진자수": 9,
+        "사망자수": 2,
+        "완치자수": 6
+    },
+    {
         "Name": "MS Zaandam",
         "Name_ch": "",
         "Name_en": "MS Zaandam",
         "확진자수": 9,
         "사망자수": 2,
         "완치자수": 0
-    },
-    {
-        "Name": "Mauritania",
-        "Name_ch": "",
-        "Name_en": "Mauritania",
-        "확진자수": 9,
-        "사망자수": 1,
-        "완치자수": 6
     },
     {
         "Name": "Papua New Guinea",
