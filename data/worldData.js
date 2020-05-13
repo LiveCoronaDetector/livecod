@@ -1097,6 +1097,14 @@ var marker = [
         "완치자수": 106
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "확진자수": 219,
+        "사망자수": 18,
+        "완치자수": 17
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
@@ -1111,14 +1119,6 @@ var marker = [
         "확진자수": 211,
         "사망자수": 20,
         "완치자수": 85
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "확진자수": 209,
-        "사망자수": 16,
-        "완치자수": 17
     },
     {
         "Name": "Sao Tome and Principe",
