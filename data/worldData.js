@@ -20,9 +20,9 @@ var marker = [
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "확진자수": 232243,
-        "사망자수": 2116,
-        "완치자수": 43512
+        "확진자수": 242271,
+        "사망자수": 2212,
+        "완치자수": 48003
     },
     {
         "Name": "영국",
@@ -542,7 +542,7 @@ var marker = [
         "Name_en": "Azerbaijan",
         "확진자수": 2693,
         "사망자수": 33,
-        "완치자수": 1680
+        "완치자수": 1735
     },
     {
         "Name": "카메룬",
@@ -657,6 +657,14 @@ var marker = [
         "완치자수": 173
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 1505,
+        "사망자수": 54,
+        "완치자수": 908
+    },
+    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
@@ -665,20 +673,12 @@ var marker = [
         "완치자수": 1402
     },
     {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 1491,
-        "사망자수": 50,
-        "완치자수": 850
-    },
-    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
-        "확진자수": 1465,
+        "확진자수": 1469,
         "사망자수": 27,
-        "완치자수": 983
+        "완치자수": 1060
     },
     {
         "Name": "슬로베니아",
@@ -1662,7 +1662,7 @@ var marker = [
         "Name_en": "Caribbean Netherlands",
         "확진자수": 6,
         "사망자수": 0,
-        "완치자수": 0
+        "완치자수": 6
     },
     {
         "Name": "St. Barth",
