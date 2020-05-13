@@ -1193,20 +1193,20 @@ var marker = [
         "완치자수": 109
     },
     {
+        "Name": "French Guiana",
+        "Name_ch": "",
+        "Name_en": "French Guiana",
+        "확진자수": 153,
+        "사망자수": 1,
+        "완치자수": 124
+    },
+    {
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
         "확진자수": 148,
         "사망자수": 0,
         "완치자수": 144
-    },
-    {
-        "Name": "French Guiana",
-        "Name_ch": "",
-        "Name_en": "French Guiana",
-        "확진자수": 144,
-        "사망자수": 1,
-        "완치자수": 122
     },
     {
         "Name": "CAR",
