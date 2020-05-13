@@ -1116,9 +1116,9 @@ var marker = [
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "확진자수": 211,
+        "확진자수": 212,
         "사망자수": 20,
-        "완치자수": 85
+        "완치자수": 86
     },
     {
         "Name": "Sao Tome and Principe",
