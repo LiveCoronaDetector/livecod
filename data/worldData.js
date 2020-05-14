@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1430348,
-        "사망자수": 85197,
+        "확진자수": 1430653,
+        "사망자수": 85234,
         "완치자수": 310259
     },
     {
@@ -177,20 +177,20 @@ var marker = [
         "완치자수": 4971
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "확진자수": 28319,
+        "사망자수": 1184,
+        "완치자수": 3198
+    },
+    {
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
         "확진자수": 28272,
         "사망자수": 14,
         "완치자수": 3356
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "확진자수": 28132,
-        "사망자수": 1175,
-        "완치자수": 3182
     },
     {
         "Name": "벨라루스",
@@ -588,9 +588,9 @@ var marker = [
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 2181,
-        "사망자수": 120,
-        "완치자수": 1228
+        "확진자수": 2218,
+        "사망자수": 122,
+        "완치자수": 1272
     },
     {
         "Name": "세네갈",
@@ -793,6 +793,14 @@ var marker = [
         "완치자수": 445
     },
     {
+        "Name": "Tajikistan",
+        "Name_ch": "",
+        "Name_en": "Tajikistan",
+        "확진자수": 907,
+        "사망자수": 29,
+        "완치자수": 0
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -841,14 +849,6 @@ var marker = [
         "완치자수": 527
     },
     {
-        "Name": "Tajikistan",
-        "Name_ch": "",
-        "Name_en": "Tajikistan",
-        "확진자수": 801,
-        "사망자수": 23,
-        "완치자수": 0
-    },
-    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -873,20 +873,20 @@ var marker = [
         "완치자수": 412
     },
     {
+        "Name": "Kenya",
+        "Name_ch": "",
+        "Name_en": "Kenya",
+        "확진자수": 758,
+        "사망자수": 42,
+        "완치자수": 284
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
         "확진자수": 740,
         "사망자수": 11,
         "완치자수": 182
-    },
-    {
-        "Name": "Kenya",
-        "Name_ch": "",
-        "Name_en": "Kenya",
-        "확진자수": 737,
-        "사망자수": 40,
-        "완치자수": 281
     },
     {
         "Name": "Uruguay",
