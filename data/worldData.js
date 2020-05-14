@@ -1204,7 +1204,7 @@ var marker = [
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "확진자수": 148,
+        "확진자수": 147,
         "사망자수": 0,
         "완치자수": 144
     },
@@ -1553,6 +1553,14 @@ var marker = [
         "완치자수": 7
     },
     {
+        "Name": "부탄",
+        "Name_ch": "不丹",
+        "Name_en": "Bhutan",
+        "확진자수": 15,
+        "사망자수": 0,
+        "완치자수": 5
+    },
+    {
         "Name": "Saint Kitts and Nevis",
         "Name_ch": "",
         "Name_en": "Saint Kitts and Nevis",
@@ -1599,14 +1607,6 @@ var marker = [
         "확진자수": 11,
         "사망자수": 1,
         "완치자수": 8
-    },
-    {
-        "Name": "부탄",
-        "Name_ch": "不丹",
-        "Name_en": "Bhutan",
-        "확진자수": 11,
-        "사망자수": 0,
-        "완치자수": 5
     },
     {
         "Name": "Greenland",
