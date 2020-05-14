@@ -12,9 +12,9 @@ var marker = [
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
-        "확진자수": 271095,
-        "사망자수": 27104,
-        "완치자수": 183227
+        "확진자수": 272646,
+        "사망자수": 27321,
+        "완치자수": 186480
     },
     {
         "Name": "러시아",
@@ -652,9 +652,9 @@ var marker = [
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "확진자수": 1694,
+        "확진자수": 1723,
         "사망자수": 95,
-        "완치자수": 1229
+        "완치자수": 1235
     },
     {
         "Name": "Lithuania",
@@ -945,6 +945,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "확진자수": 522,
+        "사망자수": 6,
+        "완치자수": 443
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
@@ -959,14 +967,6 @@ var marker = [
         "확진자수": 509,
         "사망자수": 9,
         "완치자수": 113
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "확진자수": 508,
-        "사망자수": 6,
-        "완치자수": 436
     },
     {
         "Name": "Zambia",
@@ -1062,7 +1062,7 @@ var marker = [
         "Name_en": "Montenegro",
         "확진자수": 324,
         "사망자수": 9,
-        "완치자수": 307
+        "완치자수": 309
     },
     {
         "Name": "Cabo Verde",
