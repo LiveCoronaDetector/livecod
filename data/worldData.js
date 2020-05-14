@@ -505,6 +505,14 @@ var marker = [
         "완치자수": 1102
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 3148,
+        "사망자수": 142,
+        "완치자수": 339
+    },
+    {
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
@@ -519,14 +527,6 @@ var marker = [
         "확진자수": 3017,
         "사망자수": 56,
         "완치자수": 2844
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 2964,
-        "사망자수": 128,
-        "완치자수": 313
     },
     {
         "Name": "카메룬",
@@ -689,6 +689,14 @@ var marker = [
         "완치자수": 260
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 1342,
+        "사망자수": 29,
+        "완치자수": 121
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -703,14 +711,6 @@ var marker = [
         "확진자수": 1219,
         "사망자수": 52,
         "완치자수": 130
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 1199,
-        "사망자수": 27,
-        "완치자수": 120
     },
     {
         "Name": "DRC",
@@ -837,7 +837,7 @@ var marker = [
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "확진자수": 815,
-        "사망자수": 7,
+        "사망자수": 8,
         "완치자수": 527
     },
     {
@@ -1292,9 +1292,9 @@ var marker = [
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "확진자수": 93,
+        "확진자수": 94,
         "사망자수": 11,
-        "완치자수": 39
+        "완치자수": 41
     },
     {
         "Name": "Cayman Islands",
