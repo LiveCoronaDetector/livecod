@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1450539,
-        "사망자수": 86592,
+        "확진자수": 1451544,
+        "사망자수": 86599,
         "완치자수": 316181
     },
     {
@@ -60,8 +60,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 174909,
-        "사망자수": 7924,
+        "확진자수": 174950,
+        "사망자수": 7926,
         "완치자수": 150300
     },
     {
@@ -556,7 +556,7 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 2636,
+        "확진자수": 2645,
         "사망자수": 11,
         "완치자수": 2136
     },
@@ -697,6 +697,14 @@ var marker = [
         "완치자수": 121
     },
     {
+        "Name": "Somalia",
+        "Name_ch": "",
+        "Name_en": "Somalia",
+        "확진자수": 1284,
+        "사망자수": 53,
+        "완치자수": 135
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -713,19 +721,11 @@ var marker = [
         "완치자수": 157
     },
     {
-        "Name": "Somalia",
-        "Name_ch": "",
-        "Name_en": "Somalia",
-        "확진자수": 1219,
-        "사망자수": 52,
-        "완치자수": 130
-    },
-    {
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
-        "확진자수": 1143,
-        "사망자수": 14,
+        "확진자수": 1210,
+        "사망자수": 16,
         "완치자수": 627
     },
     {
@@ -1233,20 +1233,20 @@ var marker = [
         "완치자수": 134
     },
     {
+        "Name": "Bermuda",
+        "Name_ch": "",
+        "Name_en": "Bermuda",
+        "확진자수": 122,
+        "사망자수": 9,
+        "완치자수": 66
+    },
+    {
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
         "확진자수": 122,
         "사망자수": 0,
         "완치자수": 121
-    },
-    {
-        "Name": "Bermuda",
-        "Name_ch": "",
-        "Name_en": "Bermuda",
-        "확진자수": 121,
-        "사망자수": 8,
-        "완치자수": 66
     },
     {
         "Name": "Trinidad and Tobago",
@@ -1465,6 +1465,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Mauritania",
+        "Name_ch": "",
+        "Name_en": "Mauritania",
+        "확진자수": 20,
+        "사망자수": 2,
+        "완치자수": 6
+    },
+    {
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
@@ -1519,14 +1527,6 @@ var marker = [
         "확진자수": 17,
         "사망자수": 0,
         "완치자수": 12
-    },
-    {
-        "Name": "Mauritania",
-        "Name_ch": "",
-        "Name_en": "Mauritania",
-        "확진자수": 16,
-        "사망자수": 2,
-        "완치자수": 6
     },
     {
         "Name": "Curaçao",
