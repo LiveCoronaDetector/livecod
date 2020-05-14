@@ -356,9 +356,9 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 8783,
-        "사망자수": 252,
-        "완치자수": 6021
+        "확진자수": 8944,
+        "사망자수": 256,
+        "완치자수": 6067
     },
     {
         "Name": "체코",
@@ -569,6 +569,14 @@ var marker = [
         "완치자수": 856
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 2255,
+        "사망자수": 123,
+        "완치자수": 237
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
@@ -591,14 +599,6 @@ var marker = [
         "확진자수": 2105,
         "사망자수": 21,
         "완치자수": 782
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 2080,
-        "사망자수": 121,
-        "완치자수": 211
     },
     {
         "Name": "Bulgaria",
@@ -1038,7 +1038,7 @@ var marker = [
         "Name_en": "Isle of Man",
         "확진자수": 332,
         "사망자수": 23,
-        "완치자수": 272
+        "완치자수": 274
     },
     {
         "Name": "Mauritius",
