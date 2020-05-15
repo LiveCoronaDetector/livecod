@@ -205,20 +205,20 @@ def get_world_data():
 
     for datum in data:
         datum_values = datum.find_all("td")
-        country = datum_values[0].text
+        country = datum_values[1].text
         if country.strip() in ['S. Korea', 'Total:']:
             continue
 
         if len(SUB_URLS) < TOP_NUM:
             try:
-                sub_url = datum_values[0].find("a")["href"]
+                sub_url = datum_values[1].find("a")["href"]
                 SUB_URLS.append([country, "".join([URL, sub_url])])
             except:
                 pass
 
-        confirmed = datum_values[1].text
-        deaths = datum_values[3].text
-        recovered = datum_values[5].text
+        confirmed = datum_values[2].text
+        deaths = datum_values[4].text
+        recovered = datum_values[6].text
 
         # test code : print("strip data : \t",country\t, confirmed\t, deaths\t, recovered)
 
