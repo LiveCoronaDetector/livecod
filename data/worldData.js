@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1474939,
-        "사망자수": 87976,
-        "완치자수": 317739
+        "확진자수": 1480011,
+        "사망자수": 88265,
+        "완치자수": 319600
     },
     {
         "Name": "스페인",
@@ -52,7 +52,7 @@ var marker = [
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "확진자수": 178870,
+        "확진자수": 179433,
         "사망자수": 27529,
         "완치자수": 60448
     },
@@ -60,8 +60,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 175388,
-        "사망자수": 7951,
+        "확진자수": 175436,
+        "사망자수": 7960,
         "완치자수": 151700
     },
     {
@@ -556,9 +556,9 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 2652,
+        "확진자수": 2686,
         "사망자수": 11,
-        "완치자수": 2136
+        "완치자수": 2158
     },
     {
         "Name": "Guinea",
@@ -836,9 +836,9 @@ var marker = [
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "확진자수": 876,
-        "사망자수": 50,
-        "완치자수": 677
+        "확진자수": 885,
+        "사망자수": 51,
+        "완치자수": 684
     },
     {
         "Name": "코스타리카",
@@ -868,9 +868,9 @@ var marker = [
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "확진자수": 773,
+        "확진자수": 780,
         "사망자수": 51,
-        "완치자수": 592
+        "완치자수": 595
     },
     {
         "Name": "안도라",
@@ -1116,7 +1116,7 @@ var marker = [
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "확진자수": 238,
+        "확진자수": 263,
         "사망자수": 11,
         "완치자수": 96
     },
@@ -1129,20 +1129,20 @@ var marker = [
         "완치자수": 112
     },
     {
+        "Name": "South Sudan",
+        "Name_ch": "",
+        "Name_en": "South Sudan",
+        "확진자수": 236,
+        "사망자수": 4,
+        "완치자수": 4
+    },
+    {
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
         "확진자수": 235,
         "사망자수": 7,
         "완치자수": 4
-    },
-    {
-        "Name": "South Sudan",
-        "Name_ch": "",
-        "Name_en": "South Sudan",
-        "확진자수": 231,
-        "사망자수": 1,
-        "완치자수": 3
     },
     {
         "Name": "Liberia",
