@@ -25,14 +25,15 @@ def get_today_data(url, data):
     tables = soup.find("div", class_="data_table mgt16").find_all("td")
     num = [int(element.get_text().replace(",", "")) for element in tables]
     total, release, _, death = num
+    flag = data[-1][1] + sum(data[-1][3:]) != sum([total, death, release])
 
-    if data[-1][0] != today:
-        diff = total - data[-1][1]
-        data.append([today, total, diff, death, release])
-
-    elif sum(data[-1][1:]) != sum([total, death, release]): 
-        diff = total - data[-2][1]
-        data[-1] = [today, total, diff, death, release]
+    if flag:
+        if data[-1][0] != today:
+            diff = total - data[-1][1]
+            data.append([today, total, diff, death, release])
+        else:
+            diff = total - data[-2][1]
+            data[-1] = [today, total, diff, death, release]
 
     return data
 
