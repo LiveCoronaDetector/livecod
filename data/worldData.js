@@ -388,7 +388,7 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 7032,
+        "확진자수": 7035,
         "사망자수": 98,
         "완치자수": 6353
     },
@@ -657,20 +657,20 @@ var marker = [
         "완치자수": 1251
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 1643,
+        "사망자수": 30,
+        "완치자수": 135
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
         "확진자수": 1523,
         "사망자수": 54,
         "완치자수": 965
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 1518,
-        "사망자수": 29,
-        "완치자수": 129
     },
     {
         "Name": "New Zealand",
@@ -725,8 +725,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 1210,
-        "사망자수": 23,
-        "완치자수": 416
+        "사망자수": 25,
+        "완치자수": 417
     },
     {
         "Name": "Mayotte",
