@@ -1606,7 +1606,7 @@ var marker = [
         "Name_en": "Montserrat",
         "확진자수": 11,
         "사망자수": 1,
-        "완치자수": 8
+        "완치자수": 10
     },
     {
         "Name": "Greenland",
