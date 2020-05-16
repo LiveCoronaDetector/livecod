@@ -388,9 +388,9 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 7019,
+        "확진자수": 7032,
         "사망자수": 98,
-        "완치자수": 6337
+        "완치자수": 6353
     },
     {
         "Name": "말레이시아",
@@ -497,20 +497,20 @@ var marker = [
         "완치자수": 3682
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 3577,
+        "사망자수": 164,
+        "완치자수": 434
+    },
+    {
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
         "확진자수": 3417,
         "사망자수": 442,
         "완치자수": 1287
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 3372,
-        "사망자수": 152,
-        "완치자수": 356
     },
     {
         "Name": "이라크",
@@ -572,9 +572,9 @@ var marker = [
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "확진자수": 2318,
-        "사망자수": 133,
-        "완치자수": 253
+        "확진자수": 2460,
+        "사망자수": 134,
+        "완치자수": 264
     },
     {
         "Name": "세네갈",
@@ -678,7 +678,7 @@ var marker = [
         "Name_en": "New Zealand",
         "확진자수": 1498,
         "사망자수": 21,
-        "완치자수": 1421
+        "완치자수": 1428
     },
     {
         "Name": "슬로바키아",
@@ -961,6 +961,14 @@ var marker = [
         "완치자수": 458
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 511,
+        "사망자수": 9,
+        "완치자수": 121
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
@@ -969,20 +977,12 @@ var marker = [
         "완치자수": 183
     },
     {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 509,
-        "사망자수": 9,
-        "완치자수": 118
-    },
-    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 455,
+        "확진자수": 459,
         "사망자수": 10,
-        "완치자수": 220
+        "완치자수": 229
     },
     {
         "Name": "Sierra Leone",
