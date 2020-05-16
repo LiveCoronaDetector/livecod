@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1493630,
-        "사망자수": 88930,
-        "완치자수": 329823
+        "확진자수": 1494679,
+        "사망자수": 89065,
+        "완치자수": 328314
     },
     {
         "Name": "스페인",
@@ -60,7 +60,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 175813,
+        "확진자수": 175843,
         "사망자수": 8001,
         "완치자수": 152600
     },
@@ -68,9 +68,9 @@ var marker = [
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "확진자수": 146457,
-        "사망자수": 4055,
-        "완치자수": 106133
+        "확진자수": 148067,
+        "사망자수": 4096,
+        "완치자수": 108137
     },
     {
         "Name": "이란",
@@ -212,8 +212,8 @@ var marker = [
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "확진자수": 23956,
-        "사망자수": 1518,
+        "확진자수": 24048,
+        "사망자수": 1533,
         "완치자수": 19470
     },
     {
@@ -372,7 +372,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 8219,
+        "확진자수": 8226,
         "사망자수": 232,
         "완치자수": 32
     },
@@ -705,6 +705,14 @@ var marker = [
         "완치자수": 229
     },
     {
+        "Name": "Somalia",
+        "Name_ch": "",
+        "Name_en": "Somalia",
+        "확진자수": 1357,
+        "사망자수": 55,
+        "완치자수": 148
+    },
+    {
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
@@ -727,14 +735,6 @@ var marker = [
         "확진자수": 1309,
         "사망자수": 4,
         "완치자수": 935
-    },
-    {
-        "Name": "Somalia",
-        "Name_ch": "",
-        "Name_en": "Somalia",
-        "확진자수": 1284,
-        "사망자수": 53,
-        "완치자수": 135
     },
     {
         "Name": "El Salvador",
@@ -814,7 +814,7 @@ var marker = [
         "Name_en": "Cyprus",
         "확진자수": 914,
         "사망자수": 17,
-        "완치자수": 481
+        "완치자수": 515
     },
     {
         "Name": "Guinea-Bissau",
@@ -873,20 +873,20 @@ var marker = [
         "완치자수": 595
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 778,
+        "사망자수": 11,
+        "완치자수": 198
+    },
+    {
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
         "확진자수": 761,
         "사망자수": 51,
         "완치자수": 615
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 759,
-        "사망자수": 11,
-        "완치자수": 193
     },
     {
         "Name": "Uruguay",
@@ -932,9 +932,9 @@ var marker = [
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
-        "확진자수": 596,
+        "확진자수": 607,
         "사망자수": 9,
-        "완치자수": 401
+        "완치자수": 404
     },
     {
         "Name": "Equatorial Guinea",
@@ -977,6 +977,14 @@ var marker = [
         "완치자수": 183
     },
     {
+        "Name": "Chad",
+        "Name_ch": "",
+        "Name_en": "Chad",
+        "확진자수": 474,
+        "사망자수": 50,
+        "완치자수": 111
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
@@ -1007,14 +1015,6 @@ var marker = [
         "확진자수": 440,
         "사망자수": 7,
         "완치자수": 389
-    },
-    {
-        "Name": "Chad",
-        "Name_ch": "",
-        "Name_en": "Chad",
-        "확진자수": 428,
-        "사망자수": 48,
-        "완치자수": 88
     },
     {
         "Name": "Congo",
@@ -1169,20 +1169,20 @@ var marker = [
         "완치자수": 63
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "확진자수": 202,
+        "사망자수": 2,
+        "완치자수": 72
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
         "확진자수": 192,
         "사망자수": 14,
         "완치자수": 91
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "확진자수": 190,
-        "사망자수": 2,
-        "완치자수": 66
     },
     {
         "Name": "French Guiana",
