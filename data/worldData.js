@@ -1233,6 +1233,14 @@ var marker = [
         "완치자수": 135
     },
     {
+        "Name": "Mongolia",
+        "Name_ch": "",
+        "Name_en": "Mongolia",
+        "확진자수": 135,
+        "사망자수": 0,
+        "완치자수": 20
+    },
+    {
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
@@ -1287,14 +1295,6 @@ var marker = [
         "확진자수": 101,
         "사망자수": 3,
         "완치자수": 93
-    },
-    {
-        "Name": "Mongolia",
-        "Name_ch": "",
-        "Name_en": "Mongolia",
-        "확진자수": 98,
-        "사망자수": 0,
-        "완치자수": 20
     },
     {
         "Name": "Bahamas",
