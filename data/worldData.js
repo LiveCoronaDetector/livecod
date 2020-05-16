@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1502476,
-        "사망자수": 89409,
-        "완치자수": 337145
+        "확진자수": 1503569,
+        "사망자수": 89442,
+        "완치자수": 337495
     },
     {
         "Name": "스페인",
@@ -620,9 +620,9 @@ var marker = [
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "확진자수": 2017,
-        "사망자수": 24,
-        "완치자수": 942
+        "확진자수": 2061,
+        "사망자수": 25,
+        "완치자수": 987
     },
     {
         "Name": "Cuba",
@@ -1033,6 +1033,14 @@ var marker = [
         "완치자수": 329
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "확진자수": 358,
+        "사망자수": 20,
+        "완치자수": 29
+    },
+    {
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
@@ -1081,14 +1089,6 @@ var marker = [
         "완치자수": 260
     },
     {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "확진자수": 310,
-        "사망자수": 20,
-        "완치자수": 29
-    },
-    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
@@ -1103,6 +1103,14 @@ var marker = [
         "확진자수": 301,
         "사망자수": 0,
         "완치자수": 13
+    },
+    {
+        "Name": "토고",
+        "Name_ch": "多哥",
+        "Name_en": "Togo",
+        "확진자수": 298,
+        "사망자수": 11,
+        "완치자수": 99
     },
     {
         "Name": "Rwanda",
@@ -1127,14 +1135,6 @@ var marker = [
         "확진자수": 281,
         "사망자수": 1,
         "완치자수": 36
-    },
-    {
-        "Name": "토고",
-        "Name_ch": "多哥",
-        "Name_en": "Togo",
-        "확진자수": 263,
-        "사망자수": 11,
-        "완치자수": 96
     },
     {
         "Name": "South Sudan",
@@ -1302,7 +1302,7 @@ var marker = [
         "Name_en": "Bahamas",
         "확진자수": 96,
         "사망자수": 11,
-        "완치자수": 41
+        "완치자수": 42
     },
     {
         "Name": "모나코",
@@ -1345,20 +1345,20 @@ var marker = [
         "완치자수": 46
     },
     {
+        "Name": "Malawi",
+        "Name_ch": "",
+        "Name_en": "Malawi",
+        "확진자수": 65,
+        "사망자수": 3,
+        "완치자수": 24
+    },
+    {
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
         "확진자수": 64,
         "사망자수": 3,
         "완치자수": 28
-    },
-    {
-        "Name": "Malawi",
-        "Name_ch": "",
-        "Name_en": "Malawi",
-        "확진자수": 63,
-        "사망자수": 3,
-        "완치자수": 24
     },
     {
         "Name": "French Polynesia",
