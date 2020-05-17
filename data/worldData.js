@@ -1236,9 +1236,9 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 135,
+        "확진자수": 136,
         "사망자수": 0,
-        "완치자수": 20
+        "완치자수": 21
     },
     {
         "Name": "Mozambique",
