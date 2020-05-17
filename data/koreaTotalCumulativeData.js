@@ -741,5 +741,12 @@ var koreaRegionalCumulativeData = [
         19,
         262,
         9851
+    ],
+    [
+        "05/17",
+        11050,
+        13,
+        262,
+        9888
     ]
 ];
