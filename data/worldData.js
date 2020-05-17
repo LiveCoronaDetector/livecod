@@ -713,6 +713,14 @@ var marker = [
         "완치자수": 148
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 1338,
+        "사망자수": 27,
+        "완치자수": 462
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -743,14 +751,6 @@ var marker = [
         "확진자수": 1312,
         "사망자수": 18,
         "완치자수": 627
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 1265,
-        "사망자수": 26,
-        "완치자수": 443
     },
     {
         "Name": "Kyrgyzstan",
