@@ -373,7 +373,7 @@ var marker = [
         "Name_ch": "挪威",
         "Name_en": "Norway",
         "확진자수": 8249,
-        "사망자수": 232,
+        "사망자수": 233,
         "완치자수": 32
     },
     {
@@ -445,7 +445,7 @@ var marker = [
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "확진자수": 6380,
-        "사망자수": 298,
+        "사망자수": 300,
         "완치자수": 5000
     },
     {
@@ -945,20 +945,20 @@ var marker = [
         "완치자수": 22
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "확진자수": 558,
+        "사망자수": 6,
+        "완치자수": 456
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 554,
         "사망자수": 43,
         "완치자수": 458
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "확진자수": 553,
-        "사망자수": 6,
-        "완치자수": 454
     },
     {
         "Name": "Venezuela",
@@ -1108,9 +1108,9 @@ var marker = [
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "확진자수": 320,
+        "확진자수": 324,
         "사망자수": 0,
-        "완치자수": 260
+        "완치자수": 263
     },
     {
         "Name": "Madagascar",
