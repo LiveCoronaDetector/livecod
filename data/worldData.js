@@ -148,9 +148,9 @@ var marker = [
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "확진자수": 40151,
-        "사망자수": 873,
-        "완치자수": 11341
+        "확진자수": 42125,
+        "사망자수": 903,
+        "완치자수": 11922
     },
     {
         "Name": "에콰도르",
@@ -433,20 +433,20 @@ var marker = [
         "완치자수": 778
     },
     {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+        "확진자수": 6440,
+        "사망자수": 34,
+        "완치자수": 3256
+    },
+    {
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "확진자수": 6347,
         "사망자수": 298,
         "완치자수": 5000
-    },
-    {
-        "Name": "Kazakhstan",
-        "Name_ch": "",
-        "Name_en": "Kazakhstan",
-        "확진자수": 6157,
-        "사망자수": 34,
-        "완치자수": 3256
     },
     {
         "Name": "Moldova",
@@ -1105,6 +1105,14 @@ var marker = [
         "완치자수": 113
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "확진자수": 304,
+        "사망자수": 2,
+        "완치자수": 36
+    },
+    {
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
@@ -1119,14 +1127,6 @@ var marker = [
         "확진자수": 301,
         "사망자수": 11,
         "완치자수": 104
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "확진자수": 295,
-        "사망자수": 2,
-        "완치자수": 36
     },
     {
         "Name": "Rwanda",
@@ -1233,20 +1233,20 @@ var marker = [
         "완치자수": 136
     },
     {
+        "Name": "Mongolia",
+        "Name_ch": "",
+        "Name_en": "Mongolia",
+        "확진자수": 140,
+        "사망자수": 0,
+        "완치자수": 24
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
         "확진자수": 137,
         "사망자수": 0,
         "완치자수": 44
-    },
-    {
-        "Name": "Mongolia",
-        "Name_ch": "",
-        "Name_en": "Mongolia",
-        "확진자수": 136,
-        "사망자수": 0,
-        "완치자수": 21
     },
     {
         "Name": "Yemen",
