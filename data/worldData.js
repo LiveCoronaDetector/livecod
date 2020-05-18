@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1543765,
-        "사망자수": 91683,
-        "완치자수": 351907
+        "확진자수": 1544185,
+        "사망자수": 91717,
+        "완치자수": 352934
     },
     {
         "Name": "러시아",
@@ -553,20 +553,20 @@ var marker = [
         "완치자수": 1374
     },
     {
+        "Name": "Guinea",
+        "Name_ch": "",
+        "Name_en": "Guinea",
+        "확진자수": 2796,
+        "사망자수": 16,
+        "완치자수": 1263
+    },
+    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
         "확진자수": 2791,
         "사망자수": 13,
         "완치자수": 2314
-    },
-    {
-        "Name": "Guinea",
-        "Name_ch": "",
-        "Name_en": "Guinea",
-        "확진자수": 2658,
-        "사망자수": 16,
-        "완치자수": 1133
     },
     {
         "Name": "Honduras",
@@ -785,6 +785,14 @@ var marker = [
         "완치자수": 816
     },
     {
+        "Name": "Guinea-Bissau",
+        "Name_ch": "",
+        "Name_en": "Guinea-Bissau",
+        "확진자수": 1032,
+        "사망자수": 4,
+        "완치자수": 38
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
@@ -799,14 +807,6 @@ var marker = [
         "확진자수": 992,
         "사망자수": 9,
         "완치자수": 559
-    },
-    {
-        "Name": "Guinea-Bissau",
-        "Name_ch": "",
-        "Name_en": "Guinea-Bissau",
-        "확진자수": 990,
-        "사망자수": 4,
-        "완치자수": 26
     },
     {
         "Name": "Albania",
@@ -1036,7 +1036,7 @@ var marker = [
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "확진자수": 386,
+        "확진자수": 388,
         "사망자수": 2,
         "완치자수": 337
     },
@@ -1169,20 +1169,20 @@ var marker = [
         "완치자수": 123
     },
     {
+        "Name": "French Guiana",
+        "Name_ch": "",
+        "Name_en": "French Guiana",
+        "확진자수": 210,
+        "사망자수": 1,
+        "완치자수": 131
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
         "확진자수": 205,
         "사망자수": 2,
         "완치자수": 78
-    },
-    {
-        "Name": "French Guiana",
-        "Name_ch": "",
-        "Name_en": "French Guiana",
-        "확진자수": 197,
-        "사망자수": 1,
-        "완치자수": 125
     },
     {
         "Name": "Martinique",
