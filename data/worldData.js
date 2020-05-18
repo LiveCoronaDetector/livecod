@@ -37,7 +37,7 @@ var marker = [
         "Name_ch": "巴西",
         "Name_en": "Brazil",
         "확진자수": 241080,
-        "사망자수": 16118,
+        "사망자수": 16122,
         "완치자수": 94122
     },
     {
@@ -84,9 +84,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 95698,
-        "사망자수": 3025,
-        "완치자수": 36795
+        "확진자수": 96169,
+        "사망자수": 3029,
+        "완치자수": 36824
     },
     {
         "Name": "페루",
@@ -756,9 +756,9 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 1138,
+        "확진자수": 1216,
         "사망자수": 14,
-        "완치자수": 804
+        "완치자수": 827
     },
     {
         "Name": "Maldives",
@@ -1193,20 +1193,20 @@ var marker = [
         "완치자수": 91
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 187,
+        "사망자수": 6,
+        "완치자수": 97
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "확진자수": 187,
         "사망자수": 0,
         "완치자수": 187
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 184,
-        "사망자수": 6,
-        "완치자수": 97
     },
     {
         "Name": "Guadeloupe",
