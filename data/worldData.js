@@ -601,20 +601,20 @@ var marker = [
         "완치자수": 1436
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 2235,
+        "사망자수": 110,
+        "완치자수": 612
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
         "확진자수": 2226,
         "사망자수": 95,
         "완치자수": 1936
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 2211,
-        "사망자수": 108,
-        "완치자수": 598
     },
     {
         "Name": "Ivory Coast",
@@ -1622,7 +1622,7 @@ var marker = [
         "Name_en": "Seychelles",
         "확진자수": 11,
         "사망자수": 0,
-        "완치자수": 10
+        "완치자수": 11
     },
     {
         "Name": "Suriname",
