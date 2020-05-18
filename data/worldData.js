@@ -1409,6 +1409,14 @@ var marker = [
         "완치자수": 17
     },
     {
+        "Name": "Burundi",
+        "Name_ch": "",
+        "Name_en": "Burundi",
+        "확진자수": 42,
+        "사망자수": 1,
+        "완치자수": 20
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
@@ -1455,14 +1463,6 @@ var marker = [
         "확진자수": 24,
         "사망자수": 0,
         "완치자수": 24
-    },
-    {
-        "Name": "Burundi",
-        "Name_ch": "",
-        "Name_en": "Burundi",
-        "확진자수": 23,
-        "사망자수": 1,
-        "완치자수": 15
     },
     {
         "Name": "Gambia",
