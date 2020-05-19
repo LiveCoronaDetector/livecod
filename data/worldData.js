@@ -756,9 +756,9 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 1216,
+        "확진자수": 1243,
         "사망자수": 14,
-        "완치자수": 827
+        "완치자수": 898
     },
     {
         "Name": "Maldives",
@@ -1270,7 +1270,7 @@ var marker = [
         "Name_en": "Guyana",
         "확진자수": 124,
         "사망자수": 10,
-        "완치자수": 44
+        "완치자수": 45
     },
     {
         "Name": "캄보디아",
@@ -1566,7 +1566,7 @@ var marker = [
         "Name_en": "Saint Kitts and Nevis",
         "확진자수": 15,
         "사망자수": 0,
-        "완치자수": 14
+        "완치자수": 15
     },
     {
         "Name": "Falkland Islands",
