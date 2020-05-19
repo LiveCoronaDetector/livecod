@@ -628,9 +628,9 @@ var marker = [
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "확진자수": 1912,
-        "사망자수": 35,
-        "완치자수": 138
+        "확진자수": 2001,
+        "사망자수": 38,
+        "완치자수": 139
     },
     {
         "Name": "Cuba",
@@ -700,9 +700,9 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1499,
+        "확진자수": 1503,
         "사망자수": 21,
-        "완치자수": 1433
+        "완치자수": 1442
     },
     {
         "Name": "슬로바키아",
