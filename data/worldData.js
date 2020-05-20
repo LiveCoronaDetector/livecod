@@ -212,9 +212,9 @@ var marker = [
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "확진자수": 25121,
-        "사망자수": 370,
-        "완치자수": 4993
+        "확진자수": 26738,
+        "사망자수": 386,
+        "완치자수": 5207
     },
     {
         "Name": "아랍에미리트",
@@ -428,9 +428,9 @@ var marker = [
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "확진자수": 6978,
+        "확진자수": 7009,
         "사망자수": 114,
-        "완치자수": 5646
+        "완치자수": 5706
     },
     {
         "Name": "Kazakhstan",
@@ -1558,7 +1558,7 @@ var marker = [
         "Name_en": "Namibia",
         "확진자수": 16,
         "사망자수": 0,
-        "완치자수": 13
+        "완치자수": 14
     },
     {
         "Name": "Saint Kitts and Nevis",
