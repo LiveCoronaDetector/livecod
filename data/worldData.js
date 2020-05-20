@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1570075,
-        "사망자수": 93501,
-        "완치자수": 363063
+        "확진자수": 1570470,
+        "사망자수": 93521,
+        "완치자수": 361160
     },
     {
         "Name": "러시아",
@@ -28,8 +28,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 271628,
-        "사망자수": 17971,
+        "확진자수": 271885,
+        "사망자수": 17983,
         "완치자수": 106794
     },
     {
@@ -977,6 +977,14 @@ var marker = [
         "완치자수": 139
     },
     {
+        "Name": "Sierra Leone",
+        "Name_ch": "",
+        "Name_en": "Sierra Leone",
+        "확진자수": 534,
+        "사망자수": 33,
+        "완치자수": 167
+    },
+    {
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
@@ -990,15 +998,7 @@ var marker = [
         "Name_en": "Jamaica",
         "확진자수": 520,
         "사망자수": 9,
-        "완치자수": 131
-    },
-    {
-        "Name": "Sierra Leone",
-        "Name_ch": "",
-        "Name_en": "Sierra Leone",
-        "확진자수": 519,
-        "사망자수": 33,
-        "완치자수": 148
+        "완치자수": 145
     },
     {
         "Name": "Tanzania",
@@ -1156,8 +1156,8 @@ var marker = [
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "확진자수": 246,
-        "사망자수": 7,
+        "확진자수": 251,
+        "사망자수": 8,
         "완치자수": 4
     },
     {
@@ -1172,9 +1172,9 @@ var marker = [
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "확진자수": 210,
+        "확진자수": 218,
         "사망자수": 1,
-        "완치자수": 131
+        "완치자수": 136
     },
     {
         "Name": "Eswatini",
