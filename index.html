@@ -185,7 +185,7 @@
                 <!-- Card Body -->
                 <div class="card-body text-center">
                   <h6>국내확진자</h6>
-                  <div class="count-text mb-3"><span id="한국확진자"></span>명</div>
+                  <div class="count-text mb-3"><span id="한국확진자"></span>명<span id="한국확진자전일비"></span></div>
                   <h6>세계확진자</h6>
                   <div class="count-text"><span id="확진자수"></span>명</div>
                 </div>
@@ -1732,6 +1732,7 @@
     var 사망자수 = 0;
     var 완치자수 = 0;
     var 한국확진자수 = 0;
+
     for (var variable in data) {
       if (data[variable]["Name"] == "한국") {
         한국확진자수 = data[variable]["확진자수"];
@@ -1753,6 +1754,9 @@
     // 전 세계 완치자 ui 반영
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
     document.getElementById("한국확진자").innerHTML = Number(한국확진자수).toLocaleString();
+
+
+    document.getElementById("한국확진자전일비").innerHTML = '(전일대비) +' + Number(koreaRegionalCumulativeData[koreaRegionalCumulativeData.length-1][2]).toLocaleString() + '명';
 
     // 지역별확진자 업데이트 시간
     document.getElementById("지역별확진자_업데이트_시간_태그").innerHTML = 지역별확진자_업데이트_시간;
