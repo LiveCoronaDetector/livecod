@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1588666,
-        "사망자수": 94743,
-        "완치자수": 362135
+        "확진자수": 1589573,
+        "사망자수": 94823,
+        "완치자수": 369290
     },
     {
         "Name": "러시아",
@@ -20,9 +20,9 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 285418,
-        "사망자수": 18655,
-        "완치자수": 106794
+        "확진자수": 291579,
+        "사망자수": 18859,
+        "완치자수": 116683
     },
     {
         "Name": "스페인",
@@ -364,8 +364,8 @@ var marker = [
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "확진자수": 8809,
-        "사망자수": 394,
+        "확진자수": 9283,
+        "사망자수": 403,
         "완치자수": 2933
     },
     {
@@ -865,6 +865,14 @@ var marker = [
         "완치자수": 582
     },
     {
+        "Name": "Equatorial Guinea",
+        "Name_ch": "",
+        "Name_en": "Equatorial Guinea",
+        "확진자수": 890,
+        "사망자수": 7,
+        "완치자수": 22
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
@@ -879,14 +887,6 @@ var marker = [
         "확진자수": 832,
         "사망자수": 7,
         "완치자수": 197
-    },
-    {
-        "Name": "Equatorial Guinea",
-        "Name_ch": "",
-        "Name_en": "Equatorial Guinea",
-        "확진자수": 825,
-        "사망자수": 7,
-        "완치자수": 22
     },
     {
         "Name": "Burkina Faso",
