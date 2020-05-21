@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1618256,
-        "사망자수": 96206,
-        "완치자수": 381677
+        "확진자수": 1618687,
+        "사망자수": 96220,
+        "완치자수": 381774
     },
     {
         "Name": "러시아",
@@ -20,9 +20,9 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 298206,
-        "사망자수": 19271,
-        "완치자수": 116683
+        "확진자수": 310087,
+        "사망자수": 20047,
+        "완치자수": 125960
     },
     {
         "Name": "스페인",
@@ -372,9 +372,9 @@ var marker = [
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "확진자수": 8743,
+        "확진자수": 8754,
         "사망자수": 306,
-        "완치자수": 5922
+        "완치자수": 5926
     },
     {
         "Name": "아프가니스탄",
@@ -589,7 +589,7 @@ var marker = [
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
         "확진자수": 2812,
-        "사망자수": 32,
+        "사망자수": 33,
         "완치자수": 1251
     },
     {
@@ -1153,20 +1153,20 @@ var marker = [
         "완치자수": 4
     },
     {
+        "Name": "French Guiana",
+        "Name_ch": "",
+        "Name_en": "French Guiana",
+        "확진자수": 249,
+        "사망자수": 1,
+        "완치자수": 137
+    },
+    {
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
         "확진자수": 240,
         "사망자수": 23,
         "완치자수": 131
-    },
-    {
-        "Name": "French Guiana",
-        "Name_ch": "",
-        "Name_en": "French Guiana",
-        "확진자수": 237,
-        "사망자수": 1,
-        "완치자수": 136
     },
     {
         "Name": "Eswatini",
@@ -1297,20 +1297,20 @@ var marker = [
         "완치자수": 122
     },
     {
+        "Name": "Cayman Islands",
+        "Name_ch": "",
+        "Name_en": "Cayman Islands",
+        "확진자수": 121,
+        "사망자수": 1,
+        "완치자수": 55
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "확진자수": 116,
         "사망자수": 8,
         "완치자수": 107
-    },
-    {
-        "Name": "Cayman Islands",
-        "Name_ch": "",
-        "Name_en": "Cayman Islands",
-        "확진자수": 111,
-        "사망자수": 1,
-        "완치자수": 55
     },
     {
         "Name": "Aruba",
