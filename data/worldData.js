@@ -537,20 +537,20 @@ var marker = [
         "완치자수": 1509
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 3204,
+        "사망자수": 156,
+        "완치자수": 397
+    },
+    {
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
         "확진자수": 3138,
         "사망자수": 121,
         "완치자수": 309
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 3100,
-        "사망자수": 151,
-        "완치자수": 355
     },
     {
         "Name": "Guinea",
@@ -796,7 +796,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 1048,
+        "확진자수": 1055,
         "사망자수": 9,
         "완치자수": 604
     },
@@ -1310,7 +1310,7 @@ var marker = [
         "Name_en": "Trinidad and Tobago",
         "확진자수": 116,
         "사망자수": 8,
-        "완치자수": 107
+        "완치자수": 108
     },
     {
         "Name": "Aruba",
