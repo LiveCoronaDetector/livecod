@@ -572,7 +572,7 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 2967,
+        "확진자수": 3006,
         "사망자수": 13,
         "완치자수": 2407
     },
@@ -601,6 +601,14 @@ var marker = [
         "완치자수": 222
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 2372,
+        "사망자수": 125,
+        "완치자수": 769
+    },
+    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
@@ -615,14 +623,6 @@ var marker = [
         "확진자수": 2350,
         "사망자수": 44,
         "완치자수": 1008
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 2331,
-        "사망자수": 120,
-        "완치자수": 727
     },
     {
         "Name": "Ivory Coast",
