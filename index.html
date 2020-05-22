@@ -277,7 +277,7 @@
                     <div class="tab-pane fade" id="korea_semi_log_chart" role="tabpanel" style="height:35rem;">
                       <canvas id="myAreaChart_six"></canvas>
                     </div>
-                    <p style="margin-left: 2rem;">현재(<span id="치명률_날짜"></span>) 치명률(사망자/확진자 비율) | 국내: <span id="치명률"></span>%, 세계: <span id="세계치명률"></span>%</p>
+                    <p style="margin-left: 2rem;"><span id="치명률_날짜"></span> 기준 치명률 (사망자/확진자 비율): 국내 <span id="치명률"></span>%, 세계 <span id="세계치명률"></span>%</p>
                   </div>
                 </div>
               </div>
@@ -287,14 +287,14 @@
                 <div class="card shadow mb-4 height-2">
                   <!-- Card Header - Dropdown -->
                   <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                    <h6 class="m-0 font-weight-bold text-danger">국내 현황(클릭시 각 시도별 현황/확진자 이동경로로 이동)</h6>
+                    <h6 class="m-0 font-weight-bold text-danger">국내 현황 (클릭시 각 시도별 현황/확진자 이동경로로 이동)</h6>
                     <div class="right"><a class="new_window" href="http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=13&ncvContSeq=&contSeq=&board_id=&gubun=" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                   </div>
                   <!-- Card Body -->
                   <div class="card-body">
                     <div id="koreaMap" style="width:100%;height:508px;"></div>
                     <div class="update mt-2"><span class="title">업데이트</span><span id="지역별확진자_업데이트_시간_태그" class="desc"></span></div>
-                    <div class="source mt-2"><span class="title">출처</span><span class="desc">중앙방역대책본부, KBS(특정 시점 지자체별 집계와 다를 수 있음)</span></div>
+                    <div class="source mt-2"><span class="title">출처</span><span class="desc">중앙방역대책본부, KBS (특정 시점 지자체별 집계와 다를 수 있음)</span></div>
                   </div>
                 </div>
               </div>
@@ -322,7 +322,7 @@
                 <div class="card shadow mb-4">
                   <!-- Card Header - Dropdown -->
                   <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                    <h6 class="m-0 font-weight-bold text-danger">한국 연령대별 치명율 분석(사망자/확진자)</h6>
+                    <h6 class="m-0 font-weight-bold text-danger">한국 연령대별 치명율 분석 (사망자/확진자)</h6>
                     <div class="right"><a class="new_window" href="#" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                   </div>
                   <!-- Card Body -->
@@ -1556,7 +1556,6 @@
                         <li>해외 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data" target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/data/worldData.js" target="_blank">사용가능한 URL 바로가기</a></li>
                         <li>한국 누적 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data" target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/data/koreaRegionalCumulativeData.js" target="_blank">사용가능한 URL 바로가기</a></li>
                         <li>세계 누적 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data" target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/data/worldCumulativeData.js" target="_blank">사용가능한 URL 바로가기</a></li>
-                        <li>존스홉킨스 세계 확진자, 사망자, 완치자 누적 데이터 : <a href="https://github.com/LiveCoronaDetector/livecod/tree/master/data" target="_blank">저장소로 바로가기</a>, <a href="https://livecorona.co.kr/data/HopkinsCoronaWorldData.js" target="_blank">사용가능한 URL 바로가기</a></li>
                       </ul>
                       <p class="text-right">
                         <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/5a68695448fc4724b8e1e070e919508d">담당자 및 도움을 주신 분들</a> |
@@ -1669,8 +1668,8 @@
       // 전 세계 완치자 ui 반영
       document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
       document.getElementById("한국확진자").innerHTML = Number(한국확진자수).toLocaleString();
-      document.getElementById("한국확진자전일비").innerHTML = ' (전일대비) +' + Number(한국전일대비).toLocaleString() + '명';
-      document.getElementById("세계확진자전일비").innerHTML = ' (전일대비) +' + Number(세계전일대비).toLocaleString() + '명';
+      document.getElementById("한국확진자전일비").innerHTML = ' (전일대비) +' + Number(한국전일대비).toLocaleString();
+      document.getElementById("세계확진자전일비").innerHTML = ' (전일대비) +' + Number(세계전일대비).toLocaleString();
       
       
       // 지역별확진자 업데이트 시간
