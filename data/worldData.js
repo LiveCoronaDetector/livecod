@@ -614,7 +614,7 @@ var marker = [
         "Name_en": "Tajikistan",
         "확진자수": 2350,
         "사망자수": 44,
-        "완치자수": 470
+        "완치자수": 1008
     },
     {
         "Name": "Bulgaria",
@@ -1260,9 +1260,9 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 140,
+        "확진자수": 141,
         "사망자수": 0,
-        "완치자수": 26
+        "완치자수": 28
     },
     {
         "Name": "Benin",
@@ -1358,7 +1358,7 @@ var marker = [
         "Name_en": "Sint Maarten",
         "확진자수": 77,
         "사망자수": 15,
-        "완치자수": 54
+        "완치자수": 59
     },
     {
         "Name": "Malawi",
