@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1663787,
-        "사망자수": 98597,
-        "완치자수": 444994
+        "확진자수": 1665504,
+        "사망자수": 98642,
+        "완치자수": 445009
     },
     {
         "Name": "브라질",
@@ -100,9 +100,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 83593,
-        "사망자수": 6352,
-        "완치자수": 43222
+        "확진자수": 83621,
+        "사망자수": 6355,
+        "완치자수": 43305
     },
     {
         "Name": "사우디아라비아",
@@ -961,6 +961,14 @@ var marker = [
         "완치자수": 266
     },
     {
+        "Name": "South Sudan",
+        "Name_ch": "",
+        "Name_en": "South Sudan",
+        "확진자수": 655,
+        "사망자수": 8,
+        "완치자수": 6
+    },
+    {
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
@@ -991,14 +999,6 @@ var marker = [
         "확진자수": 584,
         "사망자수": 3,
         "완치자수": 70
-    },
-    {
-        "Name": "South Sudan",
-        "Name_ch": "",
-        "Name_en": "South Sudan",
-        "확진자수": 563,
-        "사망자수": 6,
-        "완치자수": 6
     },
     {
         "Name": "Channel Islands",
@@ -1148,9 +1148,9 @@ var marker = [
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "확진자수": 261,
+        "확진자수": 279,
         "사망자수": 1,
-        "완치자수": 141
+        "완치자수": 143
     },
     {
         "Name": "Liberia",
@@ -1201,6 +1201,14 @@ var marker = [
         "완치자수": 7
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "확진자수": 198,
+        "사망자수": 0,
+        "완치자수": 68
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
@@ -1215,14 +1223,6 @@ var marker = [
         "확진자수": 187,
         "사망자수": 0,
         "완치자수": 187
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "확진자수": 175,
-        "사망자수": 0,
-        "완치자수": 68
     },
     {
         "Name": "Mozambique",
