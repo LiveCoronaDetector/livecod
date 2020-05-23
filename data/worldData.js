@@ -444,9 +444,9 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 7108,
+        "확진자수": 7111,
         "사망자수": 102,
-        "완치자수": 6490
+        "완치자수": 6494
     },
     {
         "Name": "Moldova",
@@ -532,9 +532,9 @@ var marker = [
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "확진자수": 3678,
-        "사망자수": 476,
-        "완치자수": 1587
+        "확진자수": 3713,
+        "사망자수": 482,
+        "완치자수": 1655
     },
     {
         "Name": "Honduras",
@@ -564,9 +564,9 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 3037,
+        "확진자수": 3040,
         "사망자수": 56,
-        "완치자수": 2910
+        "완치자수": 2916
     },
     {
         "Name": "Uzbekistan",
@@ -609,20 +609,20 @@ var marker = [
         "완치자수": 1089
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 2408,
+        "사망자수": 126,
+        "완치자수": 808
+    },
+    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
         "확진자수": 2372,
         "사망자수": 141,
         "완치자수": 1614
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 2372,
-        "사망자수": 125,
-        "완치자수": 769
     },
     {
         "Name": "Ivory Coast",
@@ -1062,7 +1062,7 @@ var marker = [
         "Name_en": "Taiwan",
         "확진자수": 441,
         "사망자수": 7,
-        "완치자수": 408
+        "완치자수": 411
     },
     {
         "Name": "Ethiopia",
@@ -1185,20 +1185,20 @@ var marker = [
         "완치자수": 11
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 201,
+        "사망자수": 6,
+        "완치자수": 116
+    },
+    {
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
         "확진자수": 200,
         "사망자수": 6,
         "완치자수": 7
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 199,
-        "사망자수": 6,
-        "완치자수": 116
     },
     {
         "Name": "Martinique",
