@@ -702,7 +702,7 @@ var marker = [
         "Name_en": "El Salvador",
         "확진자수": 1725,
         "사망자수": 33,
-        "완치자수": 566
+        "완치자수": 570
     },
     {
         "Name": "Lithuania",
