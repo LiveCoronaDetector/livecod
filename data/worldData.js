@@ -465,6 +465,14 @@ var marker = [
         "완치자수": 3452
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "확진자수": 6661,
+        "사망자수": 81,
+        "완치자수": 3064
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
@@ -479,14 +487,6 @@ var marker = [
         "확진자수": 6568,
         "사망자수": 306,
         "완치자수": 4800
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "확진자수": 6302,
-        "사망자수": 77,
-        "완치자수": 2936
     },
     {
         "Name": "Bolivia",
@@ -820,7 +820,7 @@ var marker = [
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "확진자수": 1046,
+        "확진자수": 1047,
         "사망자수": 22,
         "완치자수": 712
     },
@@ -1273,20 +1273,20 @@ var marker = [
         "완치자수": 61
     },
     {
+        "Name": "Bermuda",
+        "Name_ch": "",
+        "Name_en": "Bermuda",
+        "확진자수": 133,
+        "사망자수": 9,
+        "완치자수": 81
+    },
+    {
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
         "확진자수": 129,
         "사망자수": 1,
         "완치자수": 61
-    },
-    {
-        "Name": "Bermuda",
-        "Name_ch": "",
-        "Name_en": "Bermuda",
-        "확진자수": 128,
-        "사망자수": 9,
-        "완치자수": 81
     },
     {
         "Name": "Guyana",
