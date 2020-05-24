@@ -84,9 +84,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 132674,
+        "확진자수": 132755,
         "사망자수": 3899,
-        "완치자수": 54729
+        "완치자수": 54819
     },
     {
         "Name": "페루",
@@ -205,7 +205,7 @@ var marker = [
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "확진자수": 30736,
-        "사망자수": 1905,
+        "사망자수": 1906,
         "완치자수": 28000
     },
     {
@@ -564,9 +564,9 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 3132,
+        "확진자수": 3150,
         "사망자수": 13,
-        "완치자수": 2532
+        "완치자수": 2565
     },
     {
         "Name": "Guatemala",
@@ -593,20 +593,20 @@ var marker = [
         "완치자수": 2921
     },
     {
+        "Name": "Tajikistan",
+        "Name_ch": "",
+        "Name_en": "Tajikistan",
+        "확진자수": 2929,
+        "사망자수": 46,
+        "완치자수": 1301
+    },
+    {
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
         "확진자수": 2876,
         "사망자수": 171,
         "완치자수": 1374
-    },
-    {
-        "Name": "Tajikistan",
-        "Name_ch": "",
-        "Name_en": "Tajikistan",
-        "확진자수": 2738,
-        "사망자수": 44,
-        "완치자수": 1223
     },
     {
         "Name": "Bulgaria",
@@ -1033,20 +1033,20 @@ var marker = [
         "완치자수": 200
     },
     {
+        "Name": "Madagascar",
+        "Name_ch": "",
+        "Name_en": "Madagascar",
+        "확진자수": 527,
+        "사망자수": 2,
+        "완치자수": 138
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
         "확진자수": 509,
         "사망자수": 21,
         "완치자수": 183
-    },
-    {
-        "Name": "Madagascar",
-        "Name_ch": "",
-        "Name_en": "Madagascar",
-        "확진자수": 488,
-        "사망자수": 2,
-        "완치자수": 138
     },
     {
         "Name": "Congo",
@@ -1078,7 +1078,7 @@ var marker = [
         "Name_en": "Palestine",
         "확진자수": 423,
         "사망자수": 3,
-        "완치자수": 348
+        "완치자수": 357
     },
     {
         "Name": "토고",
