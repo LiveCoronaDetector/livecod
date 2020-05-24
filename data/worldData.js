@@ -1006,7 +1006,7 @@ var marker = [
         "Name_en": "Channel Islands",
         "확진자수": 558,
         "사망자수": 45,
-        "완치자수": 515
+        "완치자수": 508
     },
     {
         "Name": "CAR",
