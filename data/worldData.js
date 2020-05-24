@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1676460,
-        "사망자수": 99013,
+        "확진자수": 1676944,
+        "사망자수": 99035,
         "완치자수": 451176
     },
     {
@@ -764,9 +764,9 @@ var marker = [
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "확진자수": 1313,
+        "확진자수": 1371,
         "사망자수": 4,
-        "완치자수": 128
+        "완치자수": 144
     },
     {
         "Name": "Kenya",
@@ -780,7 +780,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 1140,
+        "확진자수": 1141,
         "사망자수": 9,
         "완치자수": 674
     },
@@ -873,20 +873,20 @@ var marker = [
         "완치자수": 594
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "확진자수": 930,
+        "사망자수": 10,
+        "완치자수": 620
+    },
+    {
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
         "확진자수": 920,
         "사망자수": 7,
         "완치자수": 336
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "확진자수": 918,
-        "사망자수": 10,
-        "완치자수": 607
     },
     {
         "Name": "Haiti",
@@ -1182,7 +1182,7 @@ var marker = [
         "Name_en": "Mauritania",
         "확진자수": 227,
         "사망자수": 6,
-        "완치자수": 7
+        "완치자수": 15
     },
     {
         "Name": "Yemen",
@@ -1345,6 +1345,14 @@ var marker = [
         "완치자수": 70
     },
     {
+        "Name": "Comoros",
+        "Name_ch": "",
+        "Name_en": "Comoros",
+        "확진자수": 87,
+        "사망자수": 1,
+        "완치자수": 21
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
@@ -1367,14 +1375,6 @@ var marker = [
         "확진자수": 82,
         "사망자수": 1,
         "완치자수": 55
-    },
-    {
-        "Name": "Comoros",
-        "Name_ch": "",
-        "Name_en": "Comoros",
-        "확진자수": 78,
-        "사망자수": 1,
-        "완치자수": 18
     },
     {
         "Name": "Sint Maarten",
