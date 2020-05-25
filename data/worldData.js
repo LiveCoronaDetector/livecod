@@ -4,7 +4,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1688290,
+        "확진자수": 1688709,
         "사망자수": 99348,
         "완치자수": 451745
     },
@@ -76,9 +76,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 140146,
+        "확진자수": 140172,
         "사망자수": 4041,
-        "완치자수": 58174
+        "완치자수": 58185
     },
     {
         "Name": "이란",
@@ -404,7 +404,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 8352,
+        "확진자수": 8360,
         "사망자수": 235,
         "완치자수": 7727
     },
@@ -676,9 +676,9 @@ var marker = [
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
-        "확진자수": 1941,
+        "확진자수": 1947,
         "사망자수": 82,
-        "완치자수": 1689
+        "완치자수": 1704
     },
     {
         "Name": "Gabon",
@@ -713,20 +713,20 @@ var marker = [
         "완치자수": 1138
     },
     {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "확진자수": 1609,
+        "사망자수": 20,
+        "완치자수": 894
+    },
+    {
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
         "확진자수": 1594,
         "사망자수": 61,
         "완치자수": 204
-    },
-    {
-        "Name": "Mayotte",
-        "Name_ch": "",
-        "Name_en": "Mayotte",
-        "확진자수": 1587,
-        "사망자수": 20,
-        "완치자수": 894
     },
     {
         "Name": "슬로바키아",
@@ -817,6 +817,14 @@ var marker = [
         "완치자수": 1030
     },
     {
+        "Name": "Mali",
+        "Name_ch": "",
+        "Name_en": "Mali",
+        "확진자수": 1059,
+        "사망자수": 67,
+        "완치자수": 604
+    },
+    {
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
@@ -839,14 +847,6 @@ var marker = [
         "확진자수": 1043,
         "사망자수": 12,
         "완치자수": 165
-    },
-    {
-        "Name": "Mali",
-        "Name_ch": "",
-        "Name_en": "Mali",
-        "확진자수": 1030,
-        "사망자수": 65,
-        "완치자수": 597
     },
     {
         "Name": "Albania",
@@ -908,7 +908,7 @@ var marker = [
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "확진자수": 814,
+        "확진자수": 832,
         "사망자수": 52,
         "완치자수": 672
     },
@@ -1081,20 +1081,20 @@ var marker = [
         "완치자수": 357
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "확진자수": 390,
+        "사망자수": 3,
+        "완치자수": 155
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
         "확진자수": 381,
         "사망자수": 12,
         "완치자수": 141
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "확진자수": 380,
-        "사망자수": 3,
-        "완치자수": 155
     },
     {
         "Name": "Isle of Man",
@@ -1145,6 +1145,14 @@ var marker = [
         "완치자수": 315
     },
     {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 299,
+        "사망자수": 11,
+        "완치자수": 4
+    },
+    {
         "Name": "Nicaragua",
         "Name_ch": "",
         "Name_en": "Nicaragua",
@@ -1158,15 +1166,7 @@ var marker = [
         "Name_en": "Liberia",
         "확진자수": 265,
         "사망자수": 26,
-        "완치자수": 139
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 251,
-        "사망자수": 8,
-        "완치자수": 4
+        "완치자수": 141
     },
     {
         "Name": "Eswatini",
@@ -1321,6 +1321,14 @@ var marker = [
         "완치자수": 41
     },
     {
+        "Name": "Malawi",
+        "Name_ch": "",
+        "Name_en": "Malawi",
+        "확진자수": 101,
+        "사망자수": 4,
+        "완치자수": 33
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
@@ -1359,14 +1367,6 @@ var marker = [
         "확진자수": 87,
         "사망자수": 1,
         "완치자수": 21
-    },
-    {
-        "Name": "Malawi",
-        "Name_ch": "",
-        "Name_en": "Malawi",
-        "확진자수": 83,
-        "사망자수": 4,
-        "완치자수": 33
     },
     {
         "Name": "리히텐슈타인",
