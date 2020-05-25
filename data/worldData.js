@@ -454,7 +454,7 @@ var marker = [
         "Name_en": "Australia",
         "확진자수": 7114,
         "사망자수": 102,
-        "완치자수": 6508
+        "완치자수": 6531
     },
     {
         "Name": "Moldova",
@@ -1457,6 +1457,14 @@ var marker = [
         "완치자수": 19
     },
     {
+        "Name": "부탄",
+        "Name_ch": "不丹",
+        "Name_en": "Bhutan",
+        "확진자수": 27,
+        "사망자수": 0,
+        "완치자수": 6
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
@@ -1471,14 +1479,6 @@ var marker = [
         "확진자수": 25,
         "사망자수": 1,
         "완치자수": 13
-    },
-    {
-        "Name": "부탄",
-        "Name_ch": "不丹",
-        "Name_en": "Bhutan",
-        "확진자수": 24,
-        "사망자수": 0,
-        "완치자수": 6
     },
     {
         "Name": "Timor-Leste",
