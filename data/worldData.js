@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1685508,
-        "사망자수": 99286,
-        "완치자수": 451595
+        "확진자수": 1686442,
+        "사망자수": 99300,
+        "완치자수": 451702
     },
     {
         "Name": "브라질",
@@ -337,20 +337,20 @@ var marker = [
         "완치자수": 3249
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "확진자수": 12076,
+        "사망자수": 452,
+        "완치자수": 3732
+    },
+    {
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
         "확진자수": 11360,
         "사망자수": 562,
         "완치자수": 9900
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "확진자수": 11353,
-        "사망자수": 448,
-        "완치자수": 3732
     },
     {
         "Name": "세르비아",
@@ -1641,6 +1641,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Western Sahara",
+        "Name_ch": "",
+        "Name_en": "Western Sahara",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 6
+    },
+    {
         "Name": "British Virgin Islands",
         "Name_ch": "",
         "Name_en": "British Virgin Islands",
@@ -1668,14 +1676,6 @@ var marker = [
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
-        "확진자수": 6,
-        "사망자수": 0,
-        "완치자수": 6
-    },
-    {
-        "Name": "Western Sahara",
-        "Name_ch": "",
-        "Name_en": "Western Sahara",
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 6
