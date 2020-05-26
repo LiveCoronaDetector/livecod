@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1716235,
-        "사망자수": 100230,
-        "완치자수": 469064
+        "확진자수": 1717552,
+        "사망자수": 100269,
+        "완치자수": 469262
     },
     {
         "Name": "브라질",
@@ -60,8 +60,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 181238,
-        "사망자수": 8478,
+        "확진자수": 181245,
+        "사망자수": 8497,
         "완치자수": 162000
     },
     {
@@ -609,6 +609,14 @@ var marker = [
         "완치자수": 1374
     },
     {
+        "Name": "Ivory Coast",
+        "Name_ch": "",
+        "Name_en": "Ivory Coast",
+        "확진자수": 2477,
+        "사망자수": 30,
+        "완치자수": 1286
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -623,14 +631,6 @@ var marker = [
         "확진자수": 2443,
         "사망자수": 130,
         "완치자수": 880
-    },
-    {
-        "Name": "Ivory Coast",
-        "Name_ch": "",
-        "Name_en": "Ivory Coast",
-        "확진자수": 2423,
-        "사망자수": 30,
-        "완치자수": 1257
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1073,6 +1073,14 @@ var marker = [
         "완치자수": 411
     },
     {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 441,
+        "사망자수": 12,
+        "완치자수": 68
+    },
+    {
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
@@ -1151,14 +1159,6 @@ var marker = [
         "확진자수": 324,
         "사망자수": 9,
         "완치자수": 315
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 299,
-        "사망자수": 11,
-        "완치자수": 4
     },
     {
         "Name": "Mauritania",
