@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1744633,
-        "사망자수": 102019,
-        "완치자수": 486112
+        "확진자수": 1745535,
+        "사망자수": 102091,
+        "완치자수": 487841
     },
     {
         "Name": "브라질",
@@ -465,6 +465,14 @@ var marker = [
         "완치자수": 3884
     },
     {
+        "Name": "Ghana",
+        "Name_ch": "",
+        "Name_en": "Ghana",
+        "확진자수": 7303,
+        "사망자수": 34,
+        "완치자수": 2412
+    },
+    {
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
@@ -479,14 +487,6 @@ var marker = [
         "확진자수": 7136,
         "사망자수": 274,
         "완치자수": 677
-    },
-    {
-        "Name": "Ghana",
-        "Name_ch": "",
-        "Name_en": "Ghana",
-        "확진자수": 7117,
-        "사망자수": 34,
-        "완치자수": 2317
     },
     {
         "Name": "핀란드",
@@ -932,9 +932,9 @@ var marker = [
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "확진자수": 789,
+        "확진자수": 803,
         "사망자수": 22,
-        "완치자수": 638
+        "완치자수": 650
     },
     {
         "Name": "Sierra Leone",
@@ -1273,6 +1273,14 @@ var marker = [
         "완치자수": 137
     },
     {
+        "Name": "Cayman Islands",
+        "Name_ch": "",
+        "Name_en": "Cayman Islands",
+        "확진자수": 140,
+        "사망자수": 1,
+        "완치자수": 67
+    },
+    {
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
@@ -1287,14 +1295,6 @@ var marker = [
         "확진자수": 139,
         "사망자수": 9,
         "완치자수": 91
-    },
-    {
-        "Name": "Cayman Islands",
-        "Name_ch": "",
-        "Name_en": "Cayman Islands",
-        "확진자수": 137,
-        "사망자수": 1,
-        "완치자수": 63
     },
     {
         "Name": "Zimbabwe",
