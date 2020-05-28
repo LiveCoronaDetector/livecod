@@ -4,7 +4,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1745911,
+        "확진자수": 1745936,
         "사망자수": 102114,
         "완치자수": 490151
     },
@@ -76,9 +76,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 158970,
+        "확진자수": 159054,
         "사망자수": 4541,
-        "완치자수": 67926
+        "완치자수": 67929
     },
     {
         "Name": "이란",
@@ -188,8 +188,8 @@ var marker = [
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "확진자수": 35088,
-        "사망자수": 4220,
+        "확진자수": 35727,
+        "사망자수": 4266,
         "완치자수": 4971
     },
     {
@@ -772,7 +772,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 1469,
+        "확진자수": 1471,
         "사망자수": 10,
         "완치자수": 745
     },
@@ -814,7 +814,7 @@ var marker = [
         "Name_en": "Lebanon",
         "확진자수": 1168,
         "사망자수": 26,
-        "완치자수": 692
+        "완치자수": 699
     },
     {
         "Name": "Mali",
@@ -1481,6 +1481,14 @@ var marker = [
         "완치자수": 19
     },
     {
+        "Name": "St. Vincent Grenadines",
+        "Name_ch": "",
+        "Name_en": "St. Vincent Grenadines",
+        "확진자수": 25,
+        "사망자수": 0,
+        "완치자수": 14
+    },
+    {
         "Name": "Timor-Leste",
         "Name_ch": "",
         "Name_en": "Timor-Leste",
@@ -1551,14 +1559,6 @@ var marker = [
         "확진자수": 18,
         "사망자수": 0,
         "완치자수": 18
-    },
-    {
-        "Name": "St. Vincent Grenadines",
-        "Name_ch": "",
-        "Name_en": "St. Vincent Grenadines",
-        "확진자수": 18,
-        "사망자수": 0,
-        "완치자수": 14
     },
     {
         "Name": "Dominica",
