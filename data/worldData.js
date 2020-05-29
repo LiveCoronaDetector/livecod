@@ -433,20 +433,20 @@ var marker = [
         "완치자수": 7727
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 8387,
+        "사망자수": 293,
+        "완치자수": 738
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
         "확진자수": 8216,
         "사망자수": 113,
         "완치자수": 3287
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 7768,
-        "사망자수": 280,
-        "완치자수": 689
     },
     {
         "Name": "Moldova",
