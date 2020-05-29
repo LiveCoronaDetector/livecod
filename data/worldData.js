@@ -68,9 +68,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 165386,
+        "확진자수": 165799,
         "사망자수": 4711,
-        "완치자수": 70920
+        "완치자수": 71106
     },
     {
         "Name": "터키",
@@ -388,7 +388,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 9576,
+        "확진자수": 9932,
         "사망자수": 37,
         "완치자수": 4900
     },
@@ -1249,20 +1249,20 @@ var marker = [
         "완치자수": 187
     },
     {
+        "Name": "Mongolia",
+        "Name_ch": "",
+        "Name_en": "Mongolia",
+        "확진자수": 179,
+        "사망자수": 0,
+        "완치자수": 43
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
         "확진자수": 161,
         "사망자수": 14,
         "완치자수": 115
-    },
-    {
-        "Name": "Mongolia",
-        "Name_ch": "",
-        "Name_en": "Mongolia",
-        "확진자수": 161,
-        "사망자수": 0,
-        "완치자수": 43
     },
     {
         "Name": "지브롤터",
