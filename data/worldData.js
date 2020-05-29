@@ -670,7 +670,7 @@ var marker = [
         "Name_en": "El Salvador",
         "확진자수": 2194,
         "사망자수": 39,
-        "완치자수": 1002
+        "완치자수": 1015
     },
     {
         "Name": "North Macedonia",
@@ -785,20 +785,20 @@ var marker = [
         "완치자수": 1356
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "확진자수": 1443,
+        "사망자수": 35,
+        "완치자수": 22
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
         "확진자수": 1325,
         "사망자수": 11,
         "완치자수": 302
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "확진자수": 1320,
-        "사망자수": 34,
-        "완치자수": 22
     },
     {
         "Name": "Guinea-Bissau",
