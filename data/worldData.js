@@ -4,16 +4,16 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1792870,
-        "사망자수": 104525,
-        "완치자수": 519282
+        "확진자수": 1793263,
+        "사망자수": 104539,
+        "완치자수": 519381
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 466200,
-        "사망자수": 27923,
+        "확진자수": 468338,
+        "사망자수": 27944,
         "완치자수": 193181
     },
     {
@@ -356,9 +356,9 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 12131,
-        "사망자수": 320,
-        "완치자수": 7379
+        "확진자수": 12531,
+        "사망자수": 326,
+        "완치자수": 7540
     },
     {
         "Name": "덴마크",
@@ -956,9 +956,9 @@ var marker = [
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "확진자수": 811,
+        "확진자수": 816,
         "사망자수": 22,
-        "완치자수": 654
+        "완치자수": 680
     },
     {
         "Name": "안도라",
@@ -1260,9 +1260,9 @@ var marker = [
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
-        "확진자수": 161,
+        "확진자수": 162,
         "사망자수": 14,
-        "완치자수": 115
+        "완치자수": 138
     },
     {
         "Name": "지브롤터",
@@ -1465,6 +1465,14 @@ var marker = [
         "완치자수": 6
     },
     {
+        "Name": "St. Vincent Grenadines",
+        "Name_ch": "",
+        "Name_en": "St. Vincent Grenadines",
+        "확진자수": 26,
+        "사망자수": 0,
+        "완치자수": 14
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
@@ -1478,15 +1486,7 @@ var marker = [
         "Name_en": "Gambia",
         "확진자수": 25,
         "사망자수": 1,
-        "완치자수": 19
-    },
-    {
-        "Name": "St. Vincent Grenadines",
-        "Name_ch": "",
-        "Name_en": "St. Vincent Grenadines",
-        "확진자수": 25,
-        "사망자수": 0,
-        "완치자수": 14
+        "완치자수": 20
     },
     {
         "Name": "Timor-Leste",
