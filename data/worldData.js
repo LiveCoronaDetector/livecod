@@ -116,8 +116,8 @@ var marker = [
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "확진자수": 84627,
-        "사망자수": 9415,
+        "확진자수": 87512,
+        "사망자수": 9779,
         "완치자수": 59610
     },
     {
@@ -540,9 +540,9 @@ var marker = [
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "확진자수": 4607,
-        "사망자수": 90,
-        "완치자수": 648
+        "확진자수": 4739,
+        "사망자수": 102,
+        "완치자수": 706
     },
     {
         "Name": "룩셈부르크",
@@ -661,8 +661,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 2395,
-        "사망자수": 44,
-        "완치자수": 1026
+        "사망자수": 46,
+        "완치자수": 1031
     },
     {
         "Name": "크로아티아",
@@ -713,6 +713,14 @@ var marker = [
         "완치자수": 1622
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "확진자수": 1865,
+        "사망자수": 41,
+        "완치자수": 24
+    },
+    {
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
@@ -756,17 +764,9 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 1613,
+        "확진자수": 1620,
         "사망자수": 10,
         "완치자수": 781
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "확진자수": 1584,
-        "사망자수": 35,
-        "완치자수": 22
     },
     {
         "Name": "슬로바키아",
@@ -1340,7 +1340,7 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 116,
+        "확진자수": 117,
         "사망자수": 8,
         "완치자수": 108
     },
@@ -1577,6 +1577,14 @@ var marker = [
         "완치자수": 15
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "확진자수": 14,
+        "사망자수": 1,
+        "완치자수": 9
+    },
+    {
         "Name": "Falkland Islands",
         "Name_ch": "",
         "Name_en": "Falkland Islands",
@@ -1593,20 +1601,12 @@ var marker = [
         "완치자수": 11
     },
     {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "확진자수": 12,
-        "사망자수": 1,
-        "완치자수": 9
-    },
-    {
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
         "확진자수": 12,
         "사망자수": 1,
-        "완치자수": 10
+        "완치자수": 11
     },
     {
         "Name": "Vatican City",
@@ -1708,8 +1708,8 @@ var marker = [
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "확진자수": 82999,
+        "확진자수": 83001,
         "사망자수": 4634,
-        "완치자수": 78302
+        "완치자수": 78304
     }
 ];
