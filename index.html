@@ -21,12 +21,12 @@
     <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=default%2CArray.prototype.find%2CArray.prototype.forEach%2CArray.prototype.keys%2CArray.prototype.map%2CArray.prototype.reduce%2Ces2015"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      
+
       function gtag() {
         dataLayer.push(arguments);
       }
       gtag('js', new Date());
-      
+
       gtag('config', 'UA-157131634-1');
     </script>
     <!-- Custom fonts for this template-->
@@ -866,7 +866,7 @@
                 <div class="card shadow mb-4">
                   <!-- Card Header - Dropdown -->
                   <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                    <h6 class="m-0 font-weight-bold text-danger">마스크 5부제(1인당3매/1주)</h6>
+                    <h6 class="m-0 font-weight-bold text-danger">마스크 5부제(6/1부터 폐지)</h6>
                     <div class="right">공적마스크 정보&nbsp;<a class="new_window" href="https://www.mfds.go.kr/bogunMaskPanMae.jsp" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
                   </div>
                   <div class="card-body">
@@ -1564,14 +1564,14 @@
     <script src="data/koreaAgeDeathsPerData.js"></script>
     <script>
       var data = marker;
-      
+
       var 확진자수 = 0;
       var 사망자수 = 0;
       var 완치자수 = 0;
       var 한국확진자수 = 0;
       var 한국전일대비 = 0;
       var 세계전일대비 = 0;
-      
+
       for (var variable in data) {
         if (data[variable]["Name"] == "한국") {
           한국확진자수 = data[variable]["확진자수"];
@@ -1582,23 +1582,23 @@
           document.getElementById("제주완치").innerHTML = data[variable]["완치자수"];
         }
       }
-      
-      
+
+
       // 전세계 완치자 및 확진자 수 (marker2에서 불러옴)
       확진자수 = crawlWorldCumulativeData[crawlWorldCumulativeData.length - 1][1];
       사망자수 = crawlWorldCumulativeData[crawlWorldCumulativeData.length - 1][2];
       완치자수 = crawlWorldCumulativeData[crawlWorldCumulativeData.length - 1][3];
       한국전일대비 = koreaRegionalCumulativeData[koreaRegionalCumulativeData.length - 1][2]
       세계전일대비 = 확진자수 - crawlWorldCumulativeData[crawlWorldCumulativeData.length - 2][1];
-      
-      
+
+
       // 전 세계 완치자 ui 반영
       document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
       document.getElementById("한국확진자").innerHTML = Number(한국확진자수).toLocaleString();
       document.getElementById("한국확진자전일비").innerHTML = ' (전일대비) +' + Number(한국전일대비).toLocaleString();
       document.getElementById("세계확진자전일비").innerHTML = ' (전일대비) +' + Number(세계전일대비).toLocaleString();
-      
-      
+
+
       // 지역별확진자 업데이트 시간
       document.getElementById("지역별확진자_업데이트_시간_태그").innerHTML = 지역별확진자_업데이트_시간;
     </script>
@@ -1609,7 +1609,7 @@
       document.getElementById("세계_치명률").innerHTML = ((사망자수 / 확진자수) * 100).toFixed(2);
       document.getElementById("치명률_날짜").innerHTML = koreaRegionalCumulativeData[koreaRegionalCumulativeData.length - 1][0];
       document.getElementById("통계치_날짜").innerHTML = koreaRegionalCumulativeData[koreaRegionalCumulativeData.length - 1][0];
-      
+
     </script>
     <script>
       // 국내, 세계 상세현황 그래프 관련 스크립트
@@ -1617,12 +1617,12 @@
         return i.Name == "한국";
       });
       var 한국격리자수 = korea.확진자수 - korea.사망자수 - korea.완치자수;
-      
+
       var 모든확진자수 = 확진자수;
       var 모든사망자수 = 사망자수;
       var 모든완치자수 = 완치자수;
       var 모든격리자수 = 확진자수 - 사망자수 - 완치자수;
-      
+
       var koreanText = document.getElementsByClassName("koreanText");
       var worldText = document.getElementsByClassName("worldText");
       var koreanChart = document.getElementsByClassName("koreanChart");
@@ -1637,7 +1637,7 @@
       koreanChart[0].title = "격리자 " + 한국격리자수.toLocaleString() + "명";
       koreanChart[1].title = "완치자 " + korea.완치자수.toLocaleString() + "명";
       koreanChart[2].title = "사망자 " + korea.사망자수.toLocaleString() + "명";
-      
+
       worldText[0].innerText = 모든확진자수.toLocaleString();
       worldText[1].innerText = 모든격리자수.toLocaleString();
       worldText[2].innerText = 모든완치자수.toLocaleString();
@@ -1685,12 +1685,12 @@
         anchor.addEventListener('click', function(e) {
           e.preventDefault();
           var href_name = this.getAttribute('href')
-      
+
           // 한국 확진자수 증가추이의 탭 클릭시, 스크롤이 움직이지 않도록
           if(href_name == "#korea_line_chart" || href_name == "#korea_semi_log_chart"){
             return;
           }
-      
+
           $(this).parent().siblings().children('a').removeClass('active');
           $(this).addClass('active');
           document.querySelector(this.getAttribute('href')).scrollIntoView({
@@ -1709,7 +1709,7 @@
     <script>
       // 배너를 업데이트하면 bannerCount++ 해주세요. 기존 숫자보다 커야만 표시됩니다.
       var bannerCount = 5;
-      
+
       function getCookie(name) {
         name = name + "=";
         var decodedCookie = decodeURIComponent(document.cookie);
@@ -1725,40 +1725,40 @@
         }
         return "";
       }
-      
+
       function setCookie(name, value, expiryHours) {
         var d = new Date();
         d.setTime(d.getTime() + (expiryHours * 60 * 60 * 1000));
         var expires = "expires=" + d.toUTCString();
         document.cookie = name + "=" + value + ";" + expires + ";path=/";
       }
-      
+
       function showBanner() {
         var cookieItem = getCookie("alertBannerClosed");
         if (parseInt(cookieItem) < bannerCount || parseInt(cookieItem) === NaN || cookieItem === "" || !cookieItem) {
           $("#alertBanner").removeClass("d-none");
         }
       }
-      
+
       $("#btnAlertBannerClose").click(function() {
         // 맨 마지막 옵션인 "시간"만 변경하세요. 단위가 day -> hour로 변경되었습니다.
         setCookie("alertBannerClosed", bannerCount, 12);
       });
-      
+
       $(document).ready(function(){
         // Toggle the side navigation
         $("#sidebarToggle, #sidebarToggleTop").on('click', function(e) {
           $(".content").toggleClass("expended");
           $(this).children('i').toggleClass("fa-chevron-circle-left fa-bars");
         });
-      
+
         if($(window).width() < 760){
           $('#sidebarToggleTop').trigger('click');
         };
-      
+
         $('[data-toggle="tooltip"]').tooltip()
       });
-      
+
       // 배너를 숨기고 싶으면 아래 코드를 주석처리하세요
       //showBanner();
     </script>
