@@ -52,9 +52,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 190609,
+        "확진자수": 190622,
         "사망자수": 5408,
-        "완치자수": 91852
+        "완치자수": 91855
     },
     {
         "Name": "프랑스",
@@ -396,8 +396,8 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 10858,
-        "사망자수": 40,
+        "확진자수": 11308,
+        "사망자수": 41,
         "완치자수": 5404
     },
     {
@@ -721,6 +721,14 @@ var marker = [
         "완치자수": 1624
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 1817,
+        "사망자수": 16,
+        "완치자수": 1181
+    },
+    {
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
@@ -735,14 +743,6 @@ var marker = [
         "확진자수": 1773,
         "사망자수": 5,
         "완치자수": 453
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 1748,
-        "사망자수": 16,
-        "완치자수": 1170
     },
     {
         "Name": "Mayotte",
