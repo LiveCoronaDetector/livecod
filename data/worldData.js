@@ -316,9 +316,9 @@ var marker = [
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "확진자수": 17071,
+        "확진자수": 17106,
         "사망자수": 285,
-        "완치자수": 14812
+        "완치자수": 14826
     },
     {
         "Name": "일본",
@@ -577,20 +577,20 @@ var marker = [
         "완치자수": 2030
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 3662,
+        "사망자수": 15,
+        "완치자수": 2837
+    },
+    {
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
         "확진자수": 3645,
         "사망자수": 42,
         "완치자수": 1801
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 3623,
-        "사망자수": 15,
-        "완치자수": 2837
     },
     {
         "Name": "Djibouti",
@@ -641,20 +641,20 @@ var marker = [
         "완치자수": 722
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 2519,
+        "사망자수": 140,
+        "완치자수": 1090
+    },
+    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 2517,
         "사망자수": 46,
         "완치자수": 1040
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 2513,
-        "사망자수": 140,
-        "완치자수": 1074
     },
     {
         "Name": "보스니아 헤르체고비나",
