@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1876086,
-        "사망자수": 107891,
-        "완치자수": 621996
+        "확진자수": 1878306,
+        "사망자수": 107970,
+        "완치자수": 622092
     },
     {
         "Name": "브라질",
@@ -857,6 +857,14 @@ var marker = [
         "완치자수": 891
     },
     {
+        "Name": "Nicaragua",
+        "Name_ch": "",
+        "Name_en": "Nicaragua",
+        "확진자수": 1118,
+        "사망자수": 46,
+        "완치자수": 370
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
@@ -993,14 +1001,6 @@ var marker = [
         "완치자수": 634
     },
     {
-        "Name": "Nicaragua",
-        "Name_ch": "",
-        "Name_en": "Nicaragua",
-        "확진자수": 759,
-        "사망자수": 35,
-        "완치자수": 370
-    },
-    {
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
@@ -1061,7 +1061,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 560,
-        "사망자수": 45,
+        "사망자수": 46,
         "완치자수": 528
     },
     {
@@ -1137,6 +1137,14 @@ var marker = [
         "완치자수": 427
     },
     {
+        "Name": "Yemen",
+        "Name_ch": "",
+        "Name_en": "Yemen",
+        "확진자수": 399,
+        "사망자수": 87,
+        "완치자수": 15
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
@@ -1151,14 +1159,6 @@ var marker = [
         "확진자수": 358,
         "사망자수": 4,
         "완치자수": 42
-    },
-    {
-        "Name": "Yemen",
-        "Name_ch": "",
-        "Name_en": "Yemen",
-        "확진자수": 354,
-        "사망자수": 84,
-        "완치자수": 14
     },
     {
         "Name": "Isle of Man",
@@ -1300,9 +1300,9 @@ var marker = [
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "확진자수": 150,
+        "확진자수": 151,
         "사망자수": 1,
-        "완치자수": 75
+        "완치자수": 77
     },
     {
         "Name": "Bermuda",
