@@ -52,7 +52,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 199757,
+        "확진자수": 199785,
         "사망자수": 5612,
         "완치자수": 95875
     },
@@ -660,9 +660,9 @@ var marker = [
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "확진자수": 2524,
-        "사망자수": 154,
-        "완치자수": 1888
+        "확진자수": 2535,
+        "사망자수": 157,
+        "완치자수": 1910
     },
     {
         "Name": "North Macedonia",
@@ -809,6 +809,14 @@ var marker = [
         "완치자수": 1358
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 1344,
+        "사망자수": 14,
+        "완치자수": 231
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
@@ -833,20 +841,12 @@ var marker = [
         "완치자수": 200
     },
     {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 1257,
-        "사망자수": 12,
-        "완치자수": 217
-    },
-    {
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "확진자수": 1233,
+        "확진자수": 1242,
         "사망자수": 27,
-        "완치자수": 715
+        "완치자수": 719
     },
     {
         "Name": "Albania",
