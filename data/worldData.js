@@ -12,8 +12,8 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 556668,
-        "사망자수": 31278,
+        "확진자수": 558237,
+        "사망자수": 31309,
         "완치자수": 240627
     },
     {
@@ -76,9 +76,9 @@ var marker = [
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "확진자수": 170039,
-        "사망자수": 4634,
-        "완치자수": 68507
+        "확진자수": 174884,
+        "사망자수": 4767,
+        "완치자수": 69257
     },
     {
         "Name": "터키",
@@ -356,8 +356,8 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 13837,
-        "사망자수": 344,
+        "확진자수": 14095,
+        "사망자수": 352,
         "완치자수": 9514
     },
     {
@@ -521,20 +521,20 @@ var marker = [
         "완치자수": 3564
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 5586,
+        "사망자수": 123,
+        "완치자수": 824
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
         "확진자수": 5362,
         "사망자수": 217,
         "완치자수": 549
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 5336,
-        "사망자수": 116,
-        "완치자수": 795
     },
     {
         "Name": "Sudan",
@@ -1052,9 +1052,9 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 588,
+        "확진자수": 590,
         "사망자수": 9,
-        "완치자수": 322
+        "완치자수": 356
     },
     {
         "Name": "Channel Islands",
@@ -1478,7 +1478,7 @@ var marker = [
         "Name_en": "Antigua and Barbuda",
         "확진자수": 26,
         "사망자수": 3,
-        "완치자수": 19
+        "완치자수": 20
     },
     {
         "Name": "St. Vincent Grenadines",
