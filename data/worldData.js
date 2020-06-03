@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1897955,
-        "사망자수": 108974,
-        "완치자수": 651662
+        "확진자수": 1898498,
+        "사망자수": 108998,
+        "완치자수": 652021
     },
     {
         "Name": "브라질",
@@ -52,7 +52,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 216805,
+        "확진자수": 216824,
         "사망자수": 6088,
         "완치자수": 104071
     },
@@ -1289,20 +1289,20 @@ var marker = [
         "완치자수": 138
     },
     {
+        "Name": "Cayman Islands",
+        "Name_ch": "",
+        "Name_en": "Cayman Islands",
+        "확진자수": 156,
+        "사망자수": 1,
+        "완치자수": 78
+    },
+    {
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
         "확진자수": 153,
         "사망자수": 12,
         "완치자수": 70
-    },
-    {
-        "Name": "Cayman Islands",
-        "Name_ch": "",
-        "Name_en": "Cayman Islands",
-        "확진자수": 151,
-        "사망자수": 1,
-        "완치자수": 77
     },
     {
         "Name": "Bermuda",
