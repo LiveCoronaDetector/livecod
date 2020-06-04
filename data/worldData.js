@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1913463,
-        "사망자수": 109726,
-        "완치자수": 693456
+        "확진자수": 1916031,
+        "사망자수": 109900,
+        "완치자수": 693474
     },
     {
         "Name": "브라질",
@@ -52,7 +52,7 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 226634,
+        "확진자수": 226693,
         "사망자수": 6363,
         "완치자수": 108450
     },
@@ -60,8 +60,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 184835,
-        "사망자수": 8724,
+        "확진자수": 184912,
+        "사망자수": 8736,
         "완치자수": 167800
     },
     {
@@ -612,9 +612,9 @@ var marker = [
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "확진자수": 3110,
+        "확진자수": 3262,
         "사망자수": 35,
-        "완치자수": 1530
+        "완치자수": 1584
     },
     {
         "Name": "태국",
@@ -1129,20 +1129,20 @@ var marker = [
         "완치자수": 377
     },
     {
+        "Name": "Yemen",
+        "Name_ch": "",
+        "Name_en": "Yemen",
+        "확진자수": 453,
+        "사망자수": 103,
+        "완치자수": 17
+    },
+    {
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
         "확진자수": 443,
         "사망자수": 7,
         "완치자수": 428
-    },
-    {
-        "Name": "Yemen",
-        "Name_ch": "",
-        "Name_en": "Yemen",
-        "확진자수": 419,
-        "사망자수": 95,
-        "완치자수": 17
     },
     {
         "Name": "Rwanda",
@@ -1292,9 +1292,9 @@ var marker = [
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "확진자수": 156,
+        "확진자수": 160,
         "사망자수": 1,
-        "완치자수": 78
+        "완치자수": 85
     },
     {
         "Name": "Guyana",
@@ -1401,20 +1401,20 @@ var marker = [
         "완치자수": 55
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "확진자수": 82,
+        "사망자수": 1,
+        "완치자수": 9
+    },
+    {
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
         "확진자수": 77,
         "사망자수": 15,
         "완치자수": 60
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "확진자수": 74,
-        "사망자수": 1,
-        "완치자수": 9
     },
     {
         "Name": "Burundi",
