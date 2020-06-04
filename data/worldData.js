@@ -4,7 +4,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1902101,
+        "확진자수": 1902586,
         "사망자수": 109146,
         "완치자수": 688692
     },
@@ -313,20 +313,20 @@ var marker = [
         "완치자수": 5896
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "阿富汗",
+        "Name_en": "Afghanistan",
+        "확진자수": 18054,
+        "사망자수": 300,
+        "완치자수": 1585
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
         "확진자수": 18040,
         "사망자수": 516,
         "완치자수": 11224
-    },
-    {
-        "Name": "아프가니스탄",
-        "Name_ch": "阿富汗",
-        "Name_en": "Afghanistan",
-        "확진자수": 17891,
-        "사망자수": 299,
-        "완치자수": 1541
     },
     {
         "Name": "이스라엘",
@@ -598,7 +598,7 @@ var marker = [
         "Name_en": "Uzbekistan",
         "확진자수": 3874,
         "사망자수": 16,
-        "완치자수": 3018
+        "완치자수": 3082
     },
     {
         "Name": "DRC",
@@ -785,6 +785,14 @@ var marker = [
         "완치자수": 1273
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 1636,
+        "사망자수": 18,
+        "완치자수": 250
+    },
+    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
@@ -799,14 +807,6 @@ var marker = [
         "확진자수": 1504,
         "사망자수": 22,
         "완치자수": 1481
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 1486,
-        "사망자수": 17,
-        "완치자수": 246
     },
     {
         "Name": "슬로베니아",
@@ -945,20 +945,20 @@ var marker = [
         "완치자수": 790
     },
     {
+        "Name": "Madagascar",
+        "Name_ch": "",
+        "Name_en": "Madagascar",
+        "확진자수": 957,
+        "사망자수": 7,
+        "완치자수": 200
+    },
+    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
         "확진자수": 909,
         "사망자수": 47,
         "완치자수": 491
-    },
-    {
-        "Name": "Madagascar",
-        "Name_ch": "",
-        "Name_en": "Madagascar",
-        "확진자수": 908,
-        "사망자수": 6,
-        "완치자수": 195
     },
     {
         "Name": "Burkina Faso",
