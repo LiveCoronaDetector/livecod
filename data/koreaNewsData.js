@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5356089"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자, 어제와 같은 39명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006051016001&code=940100"
-    },
-    {
         "title": "서울아산병원, 코로나19 확진자 다녀가 일부 폐쇄·소독(종합)",
         "link": "http://yna.kr/AKR20200605085851017?did=1195m"
     },
@@ -21,23 +17,27 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006051113268410"
     },
     {
+        "title": "서울아산병원, 코로나 확진자 방문 심전도·채혈실 폐쇄",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006050296&t=NN"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자, 어제와 같은 39명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006051016001&code=940100"
+    },
+    {
         "title": "‘코로나19’ 39명 늘어 총 11,668명…수도권 34명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4463576&ref=A"
     },
     {
-        "title": "충남 아산서 2명 코로나 확진…1명은 방판업체 방문",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501983.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나 신규 확진자 39명…지역발생 34명 중 수도권 31명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200605500039&wlog_tag3=naver"
+        "title": "코로나 확진 39명…지역 34명 중 수도권 31명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501362.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "‘코로나19’ 확진 39명 늘어…이틀째 30명대",
         "link": "https://www.donga.com/news/article/all/20200605/101375390/1"
     },
     {
-        "title": "[단독] 현대 의왕연구소 코로나 확진자 발생",
-        "link": "http://it.chosun.com/site/data/html_dir/2020/06/05/2020060500604.html"
+        "title": "충남 아산서 2명 코로나 확진…1명은 방판업체 방문",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501983.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
