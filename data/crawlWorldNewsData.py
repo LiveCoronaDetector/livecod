@@ -15,14 +15,15 @@ def get_data(url):
 def parse_data(data, url):
     res = []
     for tag in data:
-        res.append({'title': tag.get_text(), 'link': url + tag['href']})
+        # raw_title = tag.get_text()
+        # title = raw_title if len(raw_title) < 80 else f'{raw_title[:70]}..'
+        res.append({'title': tag.get_text(), 'link': url + tag['href'][1:]})
     return res
 
 
 def run():
-    URL = 'https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZqY0hsNUVnSmxiaWdBUAE/sections/CAQqEAgAKgcICjCcuZcLMI_irgMwwLvMBg?hl=en-US&gl=US&ceid=US%3Aen'
-    data = get_data(URL)
-    parsed_data = parse_data(data, URL)
+    data = get_data('https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZqY0hsNUVnSmxiaWdBUAE/sections/CAQqEAgAKgcICjCcuZcLMI_irgMwwLvMBg?hl=en-US&gl=US&ceid=US%3Aen')
+    parsed_data = parse_data(data, 'https://news.google.com')
 
     save_dir = './data/worldNewsData.js'
     crawler_name = 'crawlWorldNewsData.py'

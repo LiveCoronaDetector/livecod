@@ -293,6 +293,40 @@
               </div>
               <!-- //국내 확진자 누적 현황 -->
             </div>
+            <!-- 코로나 뉴스 기사 -->
+            <div class="row">
+              <!-- 국내 뉴스 -->
+              <div class="col-xl-6 col-lg-12">
+                <div class="card shadow mb-4">
+                  <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                    <h6 class="m-0 font-weight-bold text-danger">국내 주요 뉴스</h6>
+                    <div class="right"><a class="new_window" href="https://search.naver.com/search.naver?query=코로나+확진자&where=news" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                  </div>
+                  <!-- Card Body -->
+                  <div class="card-body">
+                    <div class="accordion" id="koreaNewsDiv">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- 국내 뉴스 끝 -->
+              <!-- 해외 뉴스 -->
+              <div class="col-xl-6 col-lg-12">
+                <div class="card shadow mb-4">
+                  <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                    <h6 class="m-0 font-weight-bold text-danger">해외 주요 뉴스</h6>
+                    <div class="right"><a class="new_window" href="https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZqY0hsNUVnSmxiaWdBUAE/sections/CAQqEAgAKgcICjCcuZcLMI_irgMwwLvMBg?hl=en-US&gl=US&ceid=US%3Aen" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                  </div>
+                  <!-- Card Body -->
+                  <div class="card-body">
+                    <div class="accordion" id="worldNewsDiv">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- 해외 뉴스 끝 -->
+            </div>
+            <!-- 코로나 뉴스 기사 끝 -->
             <div class="row">
               <!-- 한국 연령대별 확진자 분석 -->
               <div class="col-xl-6 col-lg-12">
@@ -1571,6 +1605,8 @@
     <script src="data/worldCumulativeData.js"></script>
     <script src="totalDataSet.js"></script>
     <script src="data/koreaAgeDeathsPerData.js"></script>
+    <script src="data/koreaNewsData.js"></script>
+    <script src="data/worldNewsData.js"></script>
     <script>
       var data = marker;
 
@@ -1657,6 +1693,29 @@
       worldChart[0].title = "격리자 " + 모든격리자수.toLocaleString() + "명";
       worldChart[1].title = "완치자 " + 모든완치자수.toLocaleString() + "명";
       worldChart[2].title = "사망자 " + 모든사망자수.toLocaleString() + "명";
+    </script>
+    <script>
+      // 국내, 해외 뉴스 관련 스크립트
+      let left, middle, right
+      var worldNewsDiv, koreaNewsDiv
+      
+      left = "<div class='card'><div class='card-header' id='headingFifteen'><h2 class='mb-0 cases-title'><a target='_blank' href='"
+      middle = "'><button class='btn btn-link' type='button'>"
+      right = "</button></a></h2></div></div>"
+
+      worldNewsDiv = document.getElementById('worldNewsDiv');
+
+      worldNewsData.forEach(function(news) {
+        worldNewsDiv.innerHTML += left + news['link'] + middle + news['title'] + right
+      });
+
+      koreaNewsDiv = document.getElementById('koreaNewsDiv');
+
+      koreaNewsData.forEach(function(news) {
+        koreaNewsDiv.innerHTML += left + news['link'] + middle + news['title'] + right
+      });
+      
+      
     </script>
     <!-- 확진자 관련 table push 스크립트 : 확진자 이동경로 삭제에 따른 비활성화, 추후 다른 Table에 사용될 수도 있어 삭제하지 않음. -->
     <!-- <script src="js/renderTable.js"></script> -->
