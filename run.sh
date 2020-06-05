@@ -7,6 +7,7 @@ function run(){
     python data/crawlKoreaTotalCumulativeData.py
     python data/crawlWorldCumulativeData.py
     python data/crawlWorldData.py
+    python data/crawlKoreaNewsData.py
     echo "==========Crawling complete!=========="
 }
 

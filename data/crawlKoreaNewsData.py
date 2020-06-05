@@ -1,6 +1,6 @@
 import requests
-
 from bs4 import BeautifulSoup
+
 from utils import write_data
 
 
@@ -14,7 +14,7 @@ def get_data(url):
 def parse_data(data):
     res = []
     for tag in data:
-        res.append({'제목': tag.get_text(), '링크': tag['href']})
+        res.append({'title': tag.get_text(), 'link': tag['href']})
     return res
 
 
