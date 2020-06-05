@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjAvMDYvMDUvODcwMTkzNzE4L2luZGlhLXBha2lzdGFuLXJlY29yZC1iaWctanVtcC1pbi1jb3JvbmF2aXJ1cy1jYXNlc9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Brazil's death toll surpasses Italy's, Lancet retracts hydroxychloroquine study",
-        "link": "https://news.google.com/articles/CAIiENW1Msg5UL4mygLNKZe1wBoqGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus infections haven’t spiked since Europe loosened lockdowns. There are many theories about why.",
+        "link": "https://news.google.com/articles/CAIiEDyDjO0W-W7qb_OXzktDWT0qGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Indian Scientists: COVID-19 may have entered India in November, 2019 | WION",
-        "link": "https://news.google.com/articles/CCAiC2EtLV9udDRnbHBBmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Cases In India Cross 2.2 Lakh Mark",
+        "link": "https://news.google.com/articles/CCAiC0hpa2htVjhkbnpRmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "U.S. military commander says China pushing territorial claims under cover of coronavirus",
