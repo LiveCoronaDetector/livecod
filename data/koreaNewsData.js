@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006051016001&code=940100"
     },
     {
+        "title": "방문판매업체 확진자 증가…‘코로나 블루’ 극복 심리상담 지원",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4464253&ref=A"
+    },
+    {
         "title": "이집트 코로나19 누적 확진자 3만명 넘어…하루 1천348명 늘어",
         "link": "http://yna.kr/AKR20200606007200079?did=1195m"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200606001600085?did=1195m"
     },
     {
-        "title": "‘코로나19’ 39명 늘어 총 11,668명…수도권 34명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4463576&ref=A"
-    },
-    {
-        "title": "코로나 확진 39명…지역 34명 중 수도권 31명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501362.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "‘코로나19’ 확진 39명 늘어…이틀째 30명대",
         "link": "https://www.donga.com/news/article/all/20200605/101375390/1"
+    },
+    {
+        "title": "충남 아산서 2명 코로나 확진…1명은 방판업체 방문",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501983.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

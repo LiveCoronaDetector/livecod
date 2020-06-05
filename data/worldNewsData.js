@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjAvMDYvMDUvODcwMTkzNzE4L2luZGlhLXBha2lzdGFuLXJlY29yZC1iaWctanVtcC1pbi1jb3JvbmF2aXJ1cy1jYXNlc9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus infections haven’t spiked since Europe loosened lockdowns. There are many theories about why.",
-        "link": "https://news.google.com/articles/CAIiEDyDjO0W-W7qb_OXzktDWT0qGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Macron Beat Back the Coronavirus. France Is Not Impressed.",
+        "link": "https://news.google.com/articles/CAIiEFR5BERsRVJCXqWYCG68ptQqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: Cases In India Cross 2.2 Lakh Mark",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live updates: Fauci on schools reopening, viral spread at protests and health care inequities",
-        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Surgisphere: governments and WHO changed Covid-19 policy based on suspect data from tiny US company",
-        "link": "https://news.google.com/articles/CAIiEEJjxENN4kZ5J1yc-aTYd4EqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Surging Coronavirus Caseloads Put Strongmen on the Back Foot",
+        "link": "https://news.google.com/articles/CAIiEN1EThRuZSCWXlHyiGuV9ssqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Why President Trump is entirely right to give up on WHO",
-        "link": "https://news.google.com/articles/CAIiEOhFH3sd8tORwuQaS4WPkgAqGAgEKg8IACoHCAowhK-LAjD4ySww7NG0BQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "WHO changes COVID-19 mask guidance: Wear one if you can't keep your distance",
+        "link": "https://news.google.com/articles/CAIiELJtcsRDYKfgCJctvD2d4JwqGQgEKhAIACoHCAowvIaCCzDnxf4CMN2F8gU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
