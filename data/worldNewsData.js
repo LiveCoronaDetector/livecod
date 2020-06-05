@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEFR5BERsRVJCXqWYCG68ptQqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Cases In India Cross 2.2 Lakh Mark",
-        "link": "https://news.google.com/articles/CCAiC0hpa2htVjhkbnpRmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Indian Scientists: COVID-19 may have entered India in November, 2019 | WION",
+        "link": "https://news.google.com/articles/CCAiC2EtLV9udDRnbHBBmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "U.S. military commander says China pushing territorial claims under cover of coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEN1EThRuZSCWXlHyiGuV9ssqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "WHO changes COVID-19 mask guidance: Wear one if you can't keep your distance",
-        "link": "https://news.google.com/articles/CAIiELJtcsRDYKfgCJctvD2d4JwqGQgEKhAIACoHCAowvIaCCzDnxf4CMN2F8gU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
+        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
