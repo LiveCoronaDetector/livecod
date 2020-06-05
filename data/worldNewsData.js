@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjAvMDYvMDUvODcwMTkzNzE4L2luZGlhLXBha2lzdGFuLXJlY29yZC1iaWctanVtcC1pbi1jb3JvbmF2aXJ1cy1jYXNlc9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Brazil's death toll surpasses Italy's, Lancet retracts hydroxychloroquine study",
-        "link": "https://news.google.com/articles/CAIiENW1Msg5UL4mygLNKZe1wBoqGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live news: Sweden sees third consecutive day of over 1,000 new cases; virus 'under control' in France",
+        "link": "https://news.google.com/articles/CBMimgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vd29ybGQvbGl2ZS8yMDIwL2p1bi8wNS9jb3JvbmF2aXJ1cy1saXZlLW5ld3Mtc291dGgtYWZyaWNhLXNlZXMtcmVjb3JkLWp1bXAtaW4tY2FzZXMtYXMtbmV3LXlvcmstcHJvdGVzdG9ycy11cmdlZC10by1nZXQtdGVzdGVk0gGaAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9saXZlLzIwMjAvanVuLzA1L2Nvcm9uYXZpcnVzLWxpdmUtbmV3cy1zb3V0aC1hZnJpY2Etc2Vlcy1yZWNvcmQtanVtcC1pbi1jYXNlcy1hcy1uZXcteW9yay1wcm90ZXN0b3JzLXVyZ2VkLXRvLWdldC10ZXN0ZWQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "COVID-19 Crisis Continues To Escalate In Maharashtra With Close To 80000 Cases | News Epicentre",
-        "link": "https://news.google.com/articles/CCAiCzg4ZGZBLXBBbUE4mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Asia Today: India's daily virus cases surge by nearly 10,000",
+        "link": "https://news.google.com/articles/CBMiR2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hc2lhLXRvZGF5LTM5LWNhc2VzLWtvcmVhLTAzMTMwMzc4MS5odG1s0gFPaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvYXNpYS10b2RheS0zOS1jYXNlcy1rb3JlYS0wMzEzMDM3ODEuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Court bans Australian Black Lives Matter rally over coronavirus",
@@ -30,11 +30,11 @@ var worldNewsData = [
     },
     {
         "title": "Live Coronavirus Updates: Bleak Picture of Academic Loss",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live updates: NYC has first day with no confirmed deaths since March; Apple is testing staff",
-        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Surgisphere: governments and WHO changed Covid-19 policy based on suspect data from tiny US company",
