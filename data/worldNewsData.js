@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjAvMDYvMDUvODcwMTkzNzE4L2luZGlhLXBha2lzdGFuLXJlY29yZC1iaWctanVtcC1pbi1jb3JvbmF2aXJ1cy1jYXNlc9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Brazil's death toll surpasses Italy's, Lancet retracts hydroxychloroquine study",
-        "link": "https://news.google.com/articles/CAIiENW1Msg5UL4mygLNKZe1wBoqGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live news: WHO updates stance on masks and urges countries not to relax",
+        "link": "https://news.google.com/articles/CBMimgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vd29ybGQvbGl2ZS8yMDIwL2p1bi8wNS9jb3JvbmF2aXJ1cy1saXZlLW5ld3Mtc291dGgtYWZyaWNhLXNlZXMtcmVjb3JkLWp1bXAtaW4tY2FzZXMtYXMtbmV3LXlvcmstcHJvdGVzdG9ycy11cmdlZC10by1nZXQtdGVzdGVk0gGaAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9saXZlLzIwMjAvanVuLzA1L2Nvcm9uYXZpcnVzLWxpdmUtbmV3cy1zb3V0aC1hZnJpY2Etc2Vlcy1yZWNvcmQtanVtcC1pbi1jYXNlcy1hcy1uZXcteW9yay1wcm90ZXN0b3JzLXVyZ2VkLXRvLWdldC10ZXN0ZWQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus on June 4, 9304 cases in 24 hours | Covid19 India",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live Coronavirus Updates: Bleak Picture of Academic Loss",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Live Coronavirus Updates",
+        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live updates: Cases rise in some reopened states; NYC has first day with no confirmed deaths since March",
-        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Surgisphere: governments and WHO changed Covid-19 policy based on suspect data from tiny US company",
