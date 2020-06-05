@@ -5,24 +5,16 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005822119&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "천안서 '리치웨이' 관련 코로나19 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5356089"
+    },
+    {
         "title": "서울아산병원, 코로나19 확진자 다녀가 일부 폐쇄·소독(종합)",
         "link": "http://yna.kr/AKR20200605085851017?did=1195m"
     },
     {
         "title": "마켓컬리, 코로나19 추가 확진자 없어",
         "link": "http://www.fnnews.com/news/202006051113268410"
-    },
-    {
-        "title": "‘코로나19’ 39명 늘어 총 11,668명…수도권 34명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4463576&ref=A"
-    },
-    {
-        "title": "천안서 '리치웨이' 관련 코로나19 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5356089"
-    },
-    {
-        "title": "[단독] 현대 의왕연구소 코로나 확진자 발생",
-        "link": "http://it.chosun.com/site/data/html_dir/2020/06/05/2020060500604.html"
     },
     {
         "title": "[속보] 코로나19 신규 확진자, 어제와 같은 39명",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200606001600085?did=1195m"
     },
     {
-        "title": "충남 아산서 2명 코로나 확진…1명은 방판업체 방문",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501983.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "‘코로나19’ 39명 늘어 총 11,668명…수도권 34명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4463576&ref=A"
+    },
+    {
+        "title": "코로나 확진 39명…지역 34명 중 수도권 31명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501362.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "‘코로나19’ 확진 39명 늘어…이틀째 30명대",
+        "link": "https://www.donga.com/news/article/all/20200605/101375390/1"
     }
 ];
