@@ -1696,26 +1696,40 @@
     </script>
     <script>
       // 국내, 해외 뉴스 관련 스크립트
-      let left, middle, right
-      var worldNewsDiv, koreaNewsDiv
-      
-      left = "<div class='card'><div class='card-header' id='headingFifteen'><h2 class='mb-0 cases-title'><a target='_blank' href='"
-      middle = "'><button class='btn btn-link' type='button'>"
-      right = "</button></a></h2></div></div>"
+      function createNews(newsData, newsDiv) {
+        newsData.forEach(news => {
+          console.log(news['title']);
+          var cardElement = document.createElement('div');
+          cardElement.setAttribute('class', 'card');
 
-      worldNewsDiv = document.getElementById('worldNewsDiv');
+          var cardHeader = document.createElement('div');
+          cardHeader.setAttribute('class', 'card-header');
 
-      worldNewsData.forEach(function(news) {
-        worldNewsDiv.innerHTML += left + news['link'] + middle + news['title'] + right
-      });
+          var text = document.createElement('h2');
+          text.setAttribute('class', 'mb-0 cases-title');
 
-      koreaNewsDiv = document.getElementById('koreaNewsDiv');
+          var link = document.createElement('a');
+          link.setAttribute('href', news['link']);
 
-      koreaNewsData.forEach(function(news) {
-        koreaNewsDiv.innerHTML += left + news['link'] + middle + news['title'] + right
-      });
-      
-      
+          var button = document.createElement('button');
+          button.setAttribute('class', 'btn btn-link');
+          button.setAttribute('type', 'button');
+          var title = document.createTextNode(news['title']);
+
+          button.appendChild(title);
+          link.appendChild(button);
+          text.appendChild(link);
+          cardHeader.appendChild(text);
+          cardElement.appendChild(cardHeader);
+          newsDiv.appendChild(cardElement);
+        });
+      };
+
+      var worldNewsDiv = document.getElementById('worldNewsDiv');
+      var koreaNewsDiv = document.getElementById('koreaNewsDiv');
+
+      createNews(worldNewsData, worldNewsDiv)
+      createNews(koreaNewsData, koreaNewsDiv)
     </script>
     <!-- 확진자 관련 table push 스크립트 : 확진자 이동경로 삭제에 따른 비활성화, 추후 다른 Table에 사용될 수도 있어 삭제하지 않음. -->
     <!-- <script src="js/renderTable.js"></script> -->
