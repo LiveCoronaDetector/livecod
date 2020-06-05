@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006051016001&code=940100"
     },
     {
+        "title": "영국 코로나19 사망자 357명 늘어…4만명 넘었다",
+        "link": "http://yna.kr/AKR20200606001600085?did=1195m"
+    },
+    {
         "title": "‘코로나19’ 39명 늘어 총 11,668명…수도권 34명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4463576&ref=A"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[단독] 현대 의왕연구소 코로나 확진자 발생",
         "link": "http://it.chosun.com/site/data/html_dir/2020/06/05/2020060500604.html"
-    },
-    {
-        "title": "\"교회 활동 숨기려\"…'거짓말' 안양 확진자 들통",
-        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5799049_32531.html"
     }
 ];
