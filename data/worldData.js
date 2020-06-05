@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1923636,
+        "확진자수": 1923637,
         "사망자수": 110171,
-        "완치자수": 707150
+        "완치자수": 707651
     },
     {
         "Name": "브라질",
@@ -721,20 +721,20 @@ var marker = [
         "완치자수": 1839
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 2087,
+        "사망자수": 20,
+        "완치자수": 334
+    },
+    {
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
         "확진자수": 2058,
         "사망자수": 25,
         "완치자수": 1523
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 1952,
-        "사망자수": 20,
-        "완치자수": 334
     },
     {
         "Name": "Kyrgyzstan",
@@ -1225,20 +1225,20 @@ var marker = [
         "완치자수": 151
     },
     {
+        "Name": "Zimbabwe",
+        "Name_ch": "",
+        "Name_en": "Zimbabwe",
+        "확진자수": 237,
+        "사망자수": 4,
+        "완치자수": 31
+    },
+    {
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
         "확진자수": 236,
         "사망자수": 6,
         "완치자수": 148
-    },
-    {
-        "Name": "Zimbabwe",
-        "Name_ch": "",
-        "Name_en": "Zimbabwe",
-        "확진자수": 222,
-        "사망자수": 4,
-        "완치자수": 29
     },
     {
         "Name": "Libya",
