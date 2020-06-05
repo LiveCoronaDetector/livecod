@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live updates: Fauci on schools reopening, viral spread at protests and health care inequities",
-        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Surgisphere: governments and WHO changed Covid-19 policy based on suspect data from tiny US company",
         "link": "https://news.google.com/articles/CAIiEEJjxENN4kZ5J1yc-aTYd4EqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Hong Kong restaurant group's Covid-19 bible sweeps the world",
-        "link": "https://news.google.com/articles/CAIiELZR8mQSdQ-4kITJxLeAgxwqGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Why President Trump is entirely right to give up on WHO",
+        "link": "https://news.google.com/articles/CAIiEOhFH3sd8tORwuQaS4WPkgAqGAgEKg8IACoHCAowhK-LAjD4ySww7NG0BQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
