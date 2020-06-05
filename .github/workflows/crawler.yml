@@ -21,11 +21,13 @@ jobs:
           python "data/crawlWorldData.py"
           python "data/crawlKoreaRegionalData.py"
           python "data/crawlKoreaAgeDeathsPerData.py"
+          python "data/crawlKoreaNewsData.py"
+          python "data/crawlWorldNewsData.py"
       - name: Commit files
         run: |
           git config --local user.email "commit-bot@taeuk.me"
           git config --local user.name "LiveCoronaBot"
-          git add data/worldData.js data/koreaRegionalData.js data/worldPerDayData.js data/koreaAgeDeathsPerData.js
+          git add .
           git commit -m "Run crawler and update current data"
       - name: Push changes
         uses: ad-m/github-push-action@master
