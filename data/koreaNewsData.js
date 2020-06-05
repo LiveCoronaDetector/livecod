@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4463576&ref=A"
     },
     {
-        "title": "코로나 확진 39명…지역 34명 중 수도권 31명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501362.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "‘코로나19’ 확진 39명 늘어…이틀째 30명대",
         "link": "https://www.donga.com/news/article/all/20200605/101375390/1"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[단독] 현대 의왕연구소 코로나 확진자 발생",
         "link": "http://it.chosun.com/site/data/html_dir/2020/06/05/2020060500604.html"
+    },
+    {
+        "title": "\"교회 활동 숨기려\"…'거짓말' 안양 확진자 들통",
+        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5799049_32531.html"
     }
 ];
