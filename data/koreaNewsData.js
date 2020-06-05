@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006051113268410"
     },
     {
-        "title": "서울아산병원, 코로나 확진자 방문 심전도·채혈실 폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006050296&t=NN"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자, 어제와 같은 39명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006051016001&code=940100"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "충남 아산서 2명 코로나 확진…1명은 방판업체 방문",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501983.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[단독] 현대 의왕연구소 코로나 확진자 발생",
+        "link": "http://it.chosun.com/site/data/html_dir/2020/06/05/2020060500604.html"
     }
 ];

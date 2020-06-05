@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiENW1Msg5UL4mygLNKZe1wBoqGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus on June 4, 9304 cases in 24 hours | Covid19 India",
-        "link": "https://news.google.com/articles/CCAiC18zUE9tRnc4TS1VmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "COVID-19 Crisis Continues To Escalate In Maharashtra With Close To 80000 Cases | News Epicentre",
+        "link": "https://news.google.com/articles/CCAiCzg4ZGZBLXBBbUE4mAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Court bans Australian Black Lives Matter rally over coronavirus",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: WHO sees 'upticks' in cases amid reopening; global deaths cross 390,000",
-        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Live Coronavirus Updates: Bleak Picture of Academic Loss",
+        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live Coronavirus Updates: Bleak Picture of Academic Loss",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live updates: NYC has first day with no confirmed deaths since March; Apple is testing staff",
+        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Surgisphere: governments and WHO changed Covid-19 policy based on suspect data from tiny US company",
