@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEANvhAo9QJLVw9WCCNKC9yoqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Over 1,000 coronavirus deaths reported in the past 24 hours. Officials fear protests will drive up numbers",
-        "link": "https://news.google.com/articles/CAIiEDeH_LuT9iVayuF9cLtop5kqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Peruvians cry out for oxygen as coronavirus takes its toll",
+        "link": "https://news.google.com/articles/CAIiECboyEAZxZGgaCZSZ6Ishf0qGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "India, Pakistan Record Big Jump In Coronavirus Cases",
@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiENW1Msg5UL4mygLNKZe1wBoqGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Malaria Drug Didn't Help Virus Patients, Big UK Study Finds",
-        "link": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnVzbmV3cy5jb20vbmV3cy9idXNpbmVzcy9hcnRpY2xlcy8yMDIwLTA2LTA1L21hbGFyaWEtZHJ1Zy1kaWRudC1oZWxwLXZpcnVzLXBhdGllbnRzLWJpZy11ay1zdHVkeS1maW5kc9IBfmh0dHBzOi8vd3d3LnVzbmV3cy5jb20vbmV3cy9idXNpbmVzcy9hcnRpY2xlcy8yMDIwLTA2LTA1L21hbGFyaWEtZHJ1Zy1kaWRudC1oZWxwLXZpcnVzLXBhdGllbnRzLWJpZy11ay1zdHVkeS1maW5kcz9jb250ZXh0PWFtcA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus on June 4, 9304 cases in 24 hours | Covid19 India",
+        "link": "https://news.google.com/articles/CCAiC18zUE9tRnc4TS1VmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Court bans Australian Black Lives Matter rally over coronavirus",
-        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTI5MzE0MDnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01MjkzMTQwOQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "U.S. military commander says China pushing territorial claims under cover of coronavirus",
+        "link": "https://news.google.com/articles/CAIiEIaFmGz4FRWS676bjWfxwNcqFggEKg0IACoGCAowt6AMMLAmMLT5lwM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Confirmed coronavirus cases are rising faster than ever",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Live Coronavirus Updates",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA1LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wNS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live updates: Cases rise in some reopened states; NYC has first day with no confirmed deaths since March",
-        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Surgisphere: governments and WHO changed Covid-19 policy based on suspect data from tiny US company",
-        "link": "https://news.google.com/articles/CAIiEEJjxENN4kZ5J1yc-aTYd4EqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
