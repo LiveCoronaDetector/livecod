@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006061038360968"
     },
     {
-        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
-        "link": "http://www.bloter.net/archives/387890"
-    },
-    {
         "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823051&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
+        "link": "http://www.bloter.net/archives/387890"
     },
     {
         "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
+        "title": "양천구 탁구장 관련 확진자 7명 발생…총 13명",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020060613040230127"
+    },
+    {
         "title": "서울 방판업체 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
         "link": "http://yna.kr/AKR20200606038400530?did=1195m"
     },
     {
         "title": "[속보]코로나19 신규 확진자 51명···지역발생 43명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006061025001&code=940100"
-    },
-    {
-        "title": "G20 “코로나19 대응에 210억 달러 지원하겠다”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000985576?division=NAVER"
     }
 ];
