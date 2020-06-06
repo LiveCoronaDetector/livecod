@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
     },
     {
+        "title": "코로나 확진자 방문 서울아산병원, 폐쇄시설 운영재개",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200606007100038/?did=1825m"
+    },
+    {
         "title": "성남시 코로나19 확진자, 대전 한화연구소 다녀가",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "\"전세계 코로나19 확진자 700만명 넘어…사망은 40만명\"<로이터>",
+        "link": "http://yna.kr/AKR20200607002200071?did=1195m"
+    },
+    {
+        "title": "코로나19 확진자 700만-사망자 40만 넘어서(종합)",
+        "link": "https://www.news1.kr/articles/?3957460"
+    },
+    {
         "title": "방판업체발 확진자 최소 29명…아산병원도 일부 폐쇄",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005822119&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
-        "link": "http://www.bloter.net/archives/387890"
-    },
-    {
-        "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
-        "link": "http://yna.kr/AKR20200606039200530?did=1195m"
-    },
-    {
-        "title": "[브리핑] 서울 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823138&plink=ORI&cooper=NAVER"
     }
 ];
