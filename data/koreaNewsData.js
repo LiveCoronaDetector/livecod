@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823051&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[2보] 양천구 탁구장 관련 확진자 7명 추가 발생…총 13명",
-        "link": "http://yna.kr/AKR20200606031051004?did=1195m"
-    },
-    {
         "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
     },
@@ -34,10 +30,14 @@ var koreaNewsData = [
     },
     {
         "title": "서울 방판업체 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5800798_32633.html"
+        "link": "http://yna.kr/AKR20200606038400530?did=1195m"
     },
     {
         "title": "[속보]코로나19 신규 확진자 51명···지역발생 43명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006061025001&code=940100"
+    },
+    {
+        "title": "G20 “코로나19 대응에 210억 달러 지원하겠다”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000985576?division=NAVER"
     }
 ];
