@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006061038360968"
     },
     {
-        "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
     },
@@ -23,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "[코로나19] 고양시 53번째 확진자 60대 남성",
         "link": "http://www.fnnews.com/news/202006061326207145"
+    },
+    {
+        "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "방판업체발 확진자 최소 29명…아산병원도 일부 폐쇄",
