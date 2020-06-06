@@ -5,16 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200606025951530?did=1195m"
     },
     {
+        "title": "[속보]‘코로나19’ 신규 확진 51명…8일 만에 50명대로 증가",
+        "link": "https://www.donga.com/news/article/all/20200606/101388442/1"
+    },
+    {
         "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "'코로나19' 신규 확진자 51명…'리치웨이 여파'",
-        "link": "http://www.fnnews.com/news/202006061038360968"
+        "title": "마켓컬리, 코로나19 추가 확진자 없어",
+        "link": "http://www.fnnews.com/news/202006051113268410"
     },
     {
-        "title": "양천구 탁구장 관련 확진자 7명 발생…총 13명",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020060613040230127"
+        "title": "[속보]양천구 탁구장 관련 확진자 7명 추가…최소 13명 추정",
+        "link": "https://www.hankyung.com/society/article/2020060676567"
+    },
+    {
+        "title": "서울 양천구 탁구장 관련 누적 확진자 17명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4464356&ref=A"
     },
     {
         "title": "[속보] '리치웨이발' 집단감염 확산, 서울 신규확진자 28명",
@@ -25,16 +33,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006061025001&code=940100"
     },
     {
-        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
-        "link": "http://www.bloter.net/archives/387890"
-    },
-    {
         "title": "방판업체발 확진자 최소 29명…아산병원도 일부 폐쇄",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005822119&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "코로나19 신규 확진 51명…8일만에 다시 50명대",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000985574?division=NAVER"
     },
     {
         "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
