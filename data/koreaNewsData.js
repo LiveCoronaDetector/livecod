@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
     },
     {
-        "title": "코로나19 8일만에 다시 50명대로…수도권 집단감염 확산 비상(종합)",
-        "link": "http://yna.kr/AKR20200606025951530?did=1195m"
-    },
-    {
         "title": "성남시 코로나19 확진자, 대전 한화연구소 다녀가",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.bloter.net/archives/387890"
     },
     {
-        "title": "방역당국 “중소교회 확진자 증가…소모임 취소·연기 강력히 요청”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200606500041&wlog_tag3=naver"
+        "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
+        "link": "http://yna.kr/AKR20200606039200530?did=1195m"
+    },
+    {
+        "title": "양천구 탁구장 관련 확진자 7명 발생…총 13명",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020060613040230127"
     }
 ];
