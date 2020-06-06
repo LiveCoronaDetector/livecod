@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDYvb3RoZXJfc3BvcnRzLzE1OTE0MDEyMTNfODk0MDE4Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA2L290aGVyX3Nwb3J0cy8xNTkxNDAxMjEzXzg5NDAxOC5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: China warns of Covid-linked 'racial violence' overseas",
-        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
+        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: WHO advises to wear masks in public areas",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "'Do not travel to Australia': China warns of racism",
-        "link": "https://news.google.com/articles/CCAiC1VLdXFla2FkSDJBmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus latest: Bolsonaro threatens WHO exit as COVID-19 kills 'a Brazilian per minute'",
+        "link": "https://news.google.com/articles/CAIiEHH-WNBZvFF5PkGTk0U8kzsqGAgEKg8IACoHCAoww5LyAzD2zh0w_ru7Bg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Surging Coronavirus Caseloads Put Strongmen on the Back Foot",
