@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live Coronavirus Updates",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "India, Pakistan Record Big Jump In Coronavirus Cases",
@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEFR5BERsRVJCXqWYCG68ptQqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "India reports more than 2,26700 COVID-19 case, atleast 6300 deaths so far",
-        "link": "https://news.google.com/articles/CCAiC0xOd0pBTktoX213mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDYvb3RoZXJfc3BvcnRzLzE1OTE0MDEyMTNfODk0MDE4Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA2L290aGVyX3Nwb3J0cy8xNTkxNDAxMjEzXzg5NDAxOC5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "U.S. military commander says China pushing territorial claims under cover of coronavirus",
-        "link": "https://news.google.com/articles/CAIiEIaFmGz4FRWS676bjWfxwNcqFggEKg0IACoGCAowt6AMMLAmMLT5lwM?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live news: China warns of Covid-linked 'racial violence' overseas",
+        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Confirmed coronavirus cases are rising faster than ever",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
-        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "'Do not travel to Australia': China warns of racism",
+        "link": "https://news.google.com/articles/CCAiC1VLdXFla2FkSDJBmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Surging Coronavirus Caseloads Put Strongmen on the Back Foot",
-        "link": "https://news.google.com/articles/CAIiEN1EThRuZSCWXlHyiGuV9ssqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
+        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
