@@ -22,7 +22,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live updates: Black Lives Matter protests across Australia as China warns of Covid-linked 'racial violence' overseas",
-        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: WHO advises to wear masks in public areas",
