@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Biggest single day spike in COVID-19 deaths, What's behind the surge?",
-        "link": "https://news.google.com/articles/CCAiC2tDdEhocDl0cktZmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global report: India's Covid-19 case total surpasses Italy's",
+        "link": "https://news.google.com/articles/CAIiEHqb8eA4ZJWZHwXm8TFSVx8qFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "U.S. military commander says China pushing territorial claims under cover of coronavirus",
-        "link": "https://news.google.com/articles/CAIiEIaFmGz4FRWS676bjWfxwNcqFggEKg0IACoGCAowt6AMMLAmMLT5lwM?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Japan's Coronavirus Numbers Are Low. Are Masks the Reason?",
+        "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus: Wear mask in public, WHO's new advice",
+        "link": "https://news.google.com/articles/CAIiEC6cijP6ta8OG9BsTU4kGJUqGAgEKg8IACoHCAow-ZzLBzD77Ecw2ZSOBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Confirmed coronavirus cases are rising faster than ever",
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus: Wear mask in public, WHO's new advice",
-        "link": "https://news.google.com/articles/CAIiEC6cijP6ta8OG9BsTU4kGJUqFwgEKg8IACoHCAow-ZzLBzD77Ecwm8B5?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus Claims Some of World War II’s Last Witnesses",
