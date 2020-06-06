@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464327&ref=A"
     },
     {
-        "title": "코로나19 8일만에 다시 50명대로…수도권 집단감염 확산 비상(종합)",
-        "link": "http://yna.kr/AKR20200606025951530?did=1195m"
+        "title": "신규 확진자 51명…리치웨이·소모임 여파로 8일만에 50명대(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200606_0001050408&cID=10201&pID=10200"
     },
     {
         "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "'코로나19' 신규 확진자 51명…'리치웨이 여파'",
-        "link": "http://www.fnnews.com/news/202006061038360968"
+        "title": "코로나19 8일만에 다시 50명대로…수도권 집단감염 확산 비상(종합)",
+        "link": "http://yna.kr/AKR20200606025951530?did=1195m"
     },
     {
         "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
     },
     {
+        "title": "[코로나19] 고양시 53번째 확진자 60대 남성",
+        "link": "http://www.fnnews.com/news/202006061326207145"
+    },
+    {
+        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
+        "link": "http://www.bloter.net/archives/387890"
+    },
+    {
         "title": "[브리핑] 서울 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823138&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나 어제 신규확진 51명…수도권 집단감염 확산 비상",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/06/2020060690026.html"
-    },
-    {
-        "title": "성남시 코로나19 확진자, 대전 한화연구소 다녀가",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "[코로나19] 고양시 53번째 확진자 60대 남성",
-        "link": "http://www.fnnews.com/news/202006061326207145"
+        "title": "[속보]코로나19 신규 확진자 51명···지역발생 43명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006061025001&code=940100"
     }
 ];
