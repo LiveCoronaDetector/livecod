@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006061025001&code=940100"
     },
     {
-        "title": "코로나19, 신규 환자 51명…9일 만에 다시 50명 이상(상보)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020060610314518320"
-    },
-    {
         "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
     },
     {
-        "title": "코로나19 신규 확진 51명…8일 만에 다시 50명대[종합]",
-        "link": "https://www.hankyung.com/society/article/2020060675467"
+        "title": "코로나19, 신규 환자 51명…9일 만에 다시 50명 이상(상보)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020060610314518320"
     },
     {
         "title": "코로나19 신규 확진 51명…8일 만에 다시 50명대 급증",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11954016"
+    },
+    {
+        "title": "리치웨이 확진자, 자가격리 어기고 아산병원 찾아..일부 폐쇄",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01144726625799096"
     }
 ];
