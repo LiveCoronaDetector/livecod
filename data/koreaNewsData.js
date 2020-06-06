@@ -5,24 +5,28 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005822119&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "천안서 '리치웨이' 관련 코로나19 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5356089"
+        "title": "[종합] 코로나19 확진자 39명 증가...수도권서 34명 발생",
+        "link": "http://www.fnnews.com/news/202006051016072432"
     },
     {
         "title": "서울아산병원, 코로나19 확진자 다녀가 일부 폐쇄·소독(종합)",
         "link": "http://yna.kr/AKR20200605085851017?did=1195m"
     },
     {
-        "title": "마켓컬리, 코로나19 추가 확진자 없어",
-        "link": "http://www.fnnews.com/news/202006051113268410"
+        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
+        "link": "http://www.bloter.net/archives/387890"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자, 어제와 같은 39명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006051016001&code=940100"
+        "title": "천안서 '리치웨이' 관련 코로나19 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5356089"
     },
     {
         "title": "방문판매업체 확진자 증가…‘코로나 블루’ 극복 심리상담 지원",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464253&ref=A"
+    },
+    {
+        "title": "[속보] 방판업체 '리치웨이' 누적 확진자 34명…25명 고령자",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020060608555964677"
     },
     {
         "title": "이집트 코로나19 누적 확진자 3만명 넘어…하루 1천348명 늘어",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "‘코로나19’ 확진 39명 늘어…이틀째 30명대",
         "link": "https://www.donga.com/news/article/all/20200605/101375390/1"
-    },
-    {
-        "title": "충남 아산서 2명 코로나 확진…1명은 방판업체 방문",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/05/2020060501983.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

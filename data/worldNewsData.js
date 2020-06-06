@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEANvhAo9QJLVw9WCCNKC9yoqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Peruvians cry out for oxygen as coronavirus takes its toll",
-        "link": "https://news.google.com/articles/CAIiECboyEAZxZGgaCZSZ6Ishf0qGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Live Coronavirus Updates",
+        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "India, Pakistan Record Big Jump In Coronavirus Cases",
