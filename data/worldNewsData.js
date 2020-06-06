@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELFkhRKEES9OzrZ4EurdcvsqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: India overtakes Italy as sixth worst-hit country",
-        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live updates: Brazil threatens to quit WHO over 'ideological bias'",
+        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: UP becomes 6th state to cross 10,000 Covid cases",
-        "link": "https://news.google.com/articles/CBMimwFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS9jb3JvbmF2aXJ1cy1pbi1pbmRpYS1saXZlLXVwZGF0ZXMtNS1lZC1vZmZpY2lhbHMtdGVzdC1wb3NpdGl2ZS1oZWFkcXVhcnRlcnMtaW4tZGVsaGktc2VhbGVkL2xpdmVibG9nLzc2MjI2NTk2LmNtc9IBnwFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS9jb3JvbmF2aXJ1cy1pbi1pbmRpYS1saXZlLXVwZGF0ZXMtNS1lZC1vZmZpY2lhbHMtdGVzdC1wb3NpdGl2ZS1oZWFkcXVhcnRlcnMtaW4tZGVsaGktc2VhbGVkL2FtcF9saXZlYmxvZy83NjIyNjU5Ni5jbXM?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Biggest single day spike in COVID-19 deaths, What's behind the surge?",
+        "link": "https://news.google.com/articles/CCAiC2tDdEhocDl0cktZmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "India's coronavirus infections surpass Italy's: Live updates",
         "link": "https://news.google.com/articles/CAIiEDUiHQylmWBqERZYe4cVL9QqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: WHO advises to wear masks in public areas",
-        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Confirmed coronavirus cases are rising faster than ever",
+        "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Live Updates: Virus Fears Over Global Protests",
-        "link": "https://news.google.com/articles/CAIiELkJpOXkb6DL3h0KBJPqXg0qFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: WHO advises to wear masks in public areas",
+        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
         "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Sweden's top scientist admits response to virus was too lax",
-        "link": "https://news.google.com/articles/CAIiEJvUQv-j-XOAU3_TCpl8uyoqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
