@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEFR5BERsRVJCXqWYCG68ptQqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Indian Scientists: COVID-19 may have entered India in November, 2019 | WION",
-        "link": "https://news.google.com/articles/CCAiC2EtLV9udDRnbHBBmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDYvb3RoZXJfc3BvcnRzLzE1OTE0MDEyMTNfODk0MDE4Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA2L290aGVyX3Nwb3J0cy8xNTkxNDAxMjEzXzg5NDAxOC5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live updates: Black Lives Matter protests across Australia as China warns of Covid-linked 'racial violence' overseas",
-        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: WHO advises to wear masks in public areas",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
-        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Black Lives Matter: Australians protest Indigenous deaths in custody | SBS News",
+        "link": "https://news.google.com/articles/CCAiC3REclllTWJpRGpZmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Surging Coronavirus Caseloads Put Strongmen on the Back Foot",
-        "link": "https://news.google.com/articles/CAIiEN1EThRuZSCWXlHyiGuV9ssqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
+        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
