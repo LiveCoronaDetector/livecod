@@ -5,28 +5,28 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200606025951530?did=1195m"
     },
     {
-        "title": "[속보]‘코로나19’ 신규 확진 51명…8일 만에 50명대로 증가",
-        "link": "https://www.donga.com/news/article/all/20200606/101388442/1"
-    },
-    {
         "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "마켓컬리, 코로나19 추가 확진자 없어",
-        "link": "http://www.fnnews.com/news/202006051113268410"
+        "title": "'코로나19' 신규 확진자 51명…'리치웨이 여파'",
+        "link": "http://www.fnnews.com/news/202006061038360968"
+    },
+    {
+        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
+        "link": "http://www.bloter.net/archives/387890"
+    },
+    {
+        "title": "폐쇄된 코로나19 확진자 발생 목동탁구클럽",
+        "link": "https://www.news1.kr/photos/view/?4228045"
     },
     {
         "title": "[속보]양천구 탁구장 관련 확진자 7명 추가…최소 13명 추정",
         "link": "https://www.hankyung.com/society/article/2020060676567"
     },
     {
-        "title": "서울 양천구 탁구장 관련 누적 확진자 17명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4464356&ref=A"
-    },
-    {
-        "title": "[속보] '리치웨이발' 집단감염 확산, 서울 신규확진자 28명",
-        "link": "http://www.fnnews.com/news/202006061102045312"
+        "title": "서울 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823138&plink=ORI&cooper=NAVER"
     },
     {
         "title": "[속보]코로나19 신규 확진자 51명···지역발생 43명",

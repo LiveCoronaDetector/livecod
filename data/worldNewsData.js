@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEHIWvIFL05dtoiEeNWawxMQqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "India, Pakistan Record Big Jump In Coronavirus Cases",
-        "link": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjAvMDYvMDUvODcwMTkzNzE4L2luZGlhLXBha2lzdGFuLXJlY29yZC1iaWctanVtcC1pbi1jb3JvbmF2aXJ1cy1jYXNlc9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Iran braces for new coronavirus wave after surge in infections",
+        "link": "https://news.google.com/articles/CAIiELFkhRKEES9OzrZ4EurdcvsqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Macron Beat Back the Coronavirus. France Is Not Impressed.",
-        "link": "https://news.google.com/articles/CAIiEFR5BERsRVJCXqWYCG68ptQqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus infections haven’t spiked since Europe loosened lockdowns. There are many theories about why.",
+        "link": "https://news.google.com/articles/CAIiEDyDjO0W-W7qb_OXzktDWT0qGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news, today",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
-        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Australian officials move to block Black Lives Matter protest in Sydney",
+        "link": "https://news.google.com/articles/CCAiCzB5dUdDdWJ5endnmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Surging Coronavirus Caseloads Put Strongmen on the Back Foot",
-        "link": "https://news.google.com/articles/CAIiEN1EThRuZSCWXlHyiGuV9ssqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
+        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
