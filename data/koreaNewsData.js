@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200606039200530?did=1195m"
     },
     {
-        "title": "양천구 탁구장 관련 확진자 7명 발생…총 13명",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020060613040230127"
+        "title": "[브리핑] 서울 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823138&plink=ORI&cooper=NAVER"
     }
 ];
