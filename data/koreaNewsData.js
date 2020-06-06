@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200606025951530?did=1195m"
     },
     {
+        "title": "[속보] 양천구 탁구장 관련 확진자 속출…7명 늘어 '최소 13명'",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006060044&t=NN"
+    },
+    {
         "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -15,10 +19,6 @@ var koreaNewsData = [
     {
         "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
         "link": "http://www.bloter.net/archives/387890"
-    },
-    {
-        "title": "[속보] 양천구 탁구장 관련 확진자 속출…7명 늘어 '최소 13명'",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006060044&t=NN"
     },
     {
         "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "서울 방판업체 리치웨이 누적 확진자 42명…\"밀폐 공간서 행사\"",
-        "link": "https://www.nocutnews.co.kr/news/5356709"
+        "title": "서울 방판업체 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5800798_32633.html"
     },
     {
         "title": "[속보]코로나19 신규 확진자 51명···지역발생 43명",
