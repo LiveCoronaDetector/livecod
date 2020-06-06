@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823051&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006061326207145"
     },
     {
+        "title": "방판업체발 확진자 최소 29명…아산병원도 일부 폐쇄",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005822119&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
         "link": "http://www.bloter.net/archives/387890"
     },
     {
-        "title": "양천구 탁구장 관련 확진자 7명 발생…총 13명",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020060613040230127"
+        "title": "방역당국 “중소교회 확진자 증가…소모임 취소·연기 강력히 요청”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200606500041&wlog_tag3=naver"
     }
 ];
