@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1965912,
-        "사망자수": 111394,
+        "확진자수": 1966207,
+        "사망자수": 111395,
         "완치자수": 738729
     },
     {
@@ -621,7 +621,7 @@ var marker = [
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
         "확진자수": 3235,
-        "사망자수": 11,
+        "사망자수": 13,
         "완치자수": 365
     },
     {
@@ -745,6 +745,14 @@ var marker = [
         "완치자수": 1360
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 1934,
+        "사망자수": 20,
+        "완치자수": 281
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
@@ -769,18 +777,10 @@ var marker = [
         "완치자수": 1794
     },
     {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 1805,
-        "사망자수": 19,
-        "완치자수": 262
-    },
-    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 1801,
+        "확진자수": 1804,
         "사망자수": 11,
         "완치자수": 891
     },
@@ -1044,9 +1044,9 @@ var marker = [
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "확진자수": 625,
+        "확진자수": 627,
         "사망자수": 9,
-        "완치자수": 583
+        "완치자수": 596
     },
     {
         "Name": "Jamaica",
@@ -1473,6 +1473,14 @@ var marker = [
         "완치자수": 39
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "확진자수": 29,
+        "사망자수": 0,
+        "완치자수": 16
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
@@ -1495,14 +1503,6 @@ var marker = [
         "확진자수": 26,
         "사망자수": 0,
         "완치자수": 15
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "확진자수": 25,
-        "사망자수": 0,
-        "완치자수": 16
     },
     {
         "Name": "Timor-Leste",

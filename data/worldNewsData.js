@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEANvhAo9QJLVw9WCCNKC9yoqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Claims Some of World War II’s Last Witnesses",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Amid reopenings and street protests, coronavirus transmission remains high in much of the U.S.",
+        "link": "https://news.google.com/articles/CAIiEHIWvIFL05dtoiEeNWawxMQqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Iran braces for new coronavirus wave after surge in infections",
@@ -14,7 +14,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live updates: India overtakes Italy as sixth worst-hit country",
-        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "South Africa's COVID-19 Cases Rise and President Worries About Cape Town Region",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA2LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wNi0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: WHO advises to wear masks in public areas",
-        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Confirmed coronavirus cases are rising faster than ever",
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
-        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: WHO advises to wear masks in public areas",
+        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Why President Trump is entirely right to give up on WHO",
-        "link": "https://news.google.com/articles/CAIiEOhFH3sd8tORwuQaS4WPkgAqGAgEKg8IACoHCAowhK-LAjD4ySww7NG0BQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Covid-19 overtakes malaria to become the world's leading cause of death",
+        "link": "https://news.google.com/articles/CBMicWh0dHA6Ly93d3cuY2FwZXRhbGsuY28uemEvYXJ0aWNsZXMvMzg1OTUzL2NvdmlkLTE5LW92ZXJ0YWtlcy1tYWxhcmlhLXRvLWJlY29tZS10aGUtd29ybGQtcy1sZWFkaW5nLWNhdXNlLW9mLWRlYXRo0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Surging Coronavirus Caseloads Put Strongmen on the Back Foot",
+        "link": "https://news.google.com/articles/CAIiEN1EThRuZSCWXlHyiGuV9ssqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

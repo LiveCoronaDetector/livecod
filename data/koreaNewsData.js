@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823051&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
-        "link": "http://www.bloter.net/archives/387890"
-    },
-    {
-        "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
+        "title": "코로나19 다시 급증세...5월21일 이후 매일 10만 명씩 증가",
+        "link": "https://www.ytn.co.kr/_ln/0104_202006061701181594"
     },
     {
         "title": "성남시 코로나19 확진자, 대전 한화연구소 다녀가",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "양천구 탁구장 관련 확진자 7명 발생…총 13명",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020060613040230127"
+        "title": "코로나 어제 신규확진 51명…수도권 집단감염 확산 비상",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/06/2020060690026.html"
     },
     {
-        "title": "서울 방판업체 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
-        "link": "http://yna.kr/AKR20200606038400530?did=1195m"
+        "title": "인도, 코로나19 확진자 급격히 증가...이탈리아 넘어섰다",
+        "link": "https://www.sedaily.com/NewsView/1Z3X830S70"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 51명···지역발생 43명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006061025001&code=940100"
+        "title": "[코로나19] 고양시 53번째 확진자 60대 남성",
+        "link": "http://www.fnnews.com/news/202006061326207145"
+    },
+    {
+        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
+        "link": "http://www.bloter.net/archives/387890"
     }
 ];
