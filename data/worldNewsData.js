@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEANvhAo9QJLVw9WCCNKC9yoqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Claims Some of World War II’s Last Witnesses",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Amid reopenings and street protests, coronavirus transmission remains high in much of the U.S.",
+        "link": "https://news.google.com/articles/CAIiEHIWvIFL05dtoiEeNWawxMQqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Iran braces for new coronavirus wave after surge in infections",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "COVID-19: India Surpass Italy's Tally; WHO Warns Further Rise in Cases in South Asia",
-        "link": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd2VhdGhlci5jb20vZW4tSU4vaW5kaWEvY29yb25hdmlydXMvbmV3cy8yMDIwLTA2LTA2LWNvdmlkLTE5LWluZGlhLXN1cnBhc3MtaXRhbHlzLXRhbGx50gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "COVID-19 Cases On The Rise In India: Red Zone Districts Across the Country Are Increasing",
+        "link": "https://news.google.com/articles/CCAiC3luNUJnVjlPNmhBmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus: WHO advises to wear masks in public areas",
+        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Confirmed coronavirus cases are rising faster than ever",
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "India's sacred river breathes again as pollution drops with Covid-19 lockdown measures",
-        "link": "https://news.google.com/articles/CCAiCzAyY3ZVNXBkWGF3mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "COVID-19: India Surpass Italy's Tally; WHO Warns Further Rise in Cases in South Asia",
+        "link": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd2VhdGhlci5jb20vZW4tSU4vaW5kaWEvY29yb25hdmlydXMvbmV3cy8yMDIwLTA2LTA2LWNvdmlkLTE5LWluZGlhLXN1cnBhc3MtaXRhbHlzLXRhbGx50gEA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Surging Coronavirus Caseloads Put Strongmen on the Back Foot",
         "link": "https://news.google.com/articles/CAIiEN1EThRuZSCWXlHyiGuV9ssqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
-        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
