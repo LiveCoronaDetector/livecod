@@ -113,12 +113,10 @@
 
 ### 데이터 출처 및 참고논문
 
-1. 질병관리본부와 KBS 데이터 우선
-2. 기타 데이터셋
-    - 전세계 확진자 수 데이터셋: [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-    - 한국 확진자 Feature: [https://www.kaggle.com/kimjihoo/coronavirusdataset](https://www.kaggle.com/kimjihoo/coronavirusdataset)
-    - 지역 감염 현황: [https://docs.google.com/spreadsheets/d/1aOckl-xaijKHVD6liwTQI7nQZ4ez0Hqn-xPfDbHUhag/edit#gid=0](https://docs.google.com/spreadsheets/d/1aOckl-xaijKHVD6liwTQI7nQZ4ez0Hqn-xPfDbHUhag/edit#gid=0)
-3. 참고 논문
+1. [질병관리본부 코로나 국내발생 동향](http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=)
+2. [존스홉킨스 CSSE 코로나 데이터셋](https://github.com/CSSEGISandData/COVID-19)
+3. [월드오미터 코로나 데이터](https://www.worldometers.info/coronavirus/)
+4. 참고 논문
     - Early epidemiolobical analysis of the coronavirus disease
     - Estimation of the reproductive number of Novel Coronavirus
 
