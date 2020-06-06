@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 8일만에 다시 50명대로…수도권 집단감염 확산 비상(종합)",
-        "link": "http://yna.kr/AKR20200606025951530?did=1195m"
-    },
-    {
         "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823051&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 8일만에 다시 50명대로…수도권 집단감염 확산 비상(종합)",
+        "link": "http://yna.kr/AKR20200606025951530?did=1195m"
     },
     {
         "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
