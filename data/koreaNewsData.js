@@ -9,12 +9,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200606025951530?did=1195m"
     },
     {
-        "title": "코로나 확진 51명…8일 만에 50명대 급증",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600711.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "리치웨이 누적 확진자 34명 “73% 25명은 고령”(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200606500014&wlog_tag3=naver"
+        "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "'코로나19' 신규 확진자 51명…'리치웨이 여파'",
@@ -29,8 +25,8 @@ var koreaNewsData = [
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
     },
     {
-        "title": "코로나19 다시 급증세...5월21일 이후 매일 10만 명씩 증가",
-        "link": "https://www.ytn.co.kr/_ln/0104_202006061701181594"
+        "title": "[브리핑] 서울 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823138&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나 어제 신규확진 51명…수도권 집단감염 확산 비상",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "성남시 코로나19 확진자, 대전 한화연구소 다녀가",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "[코로나19] 고양시 53번째 확진자 60대 남성",
+        "link": "http://www.fnnews.com/news/202006061326207145"
     }
 ];
