@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELFkhRKEES9OzrZ4EurdcvsqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus infections haven’t spiked since Europe loosened lockdowns. There are many theories about why.",
-        "link": "https://news.google.com/articles/CAIiEDyDjO0W-W7qb_OXzktDWT0qGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live updates: India's cases top those of Italy; Brazil's Bolsonaro threatens to pull out of WHO",
+        "link": "https://news.google.com/articles/CAIiEPjHJjolItDBq2FUzt-7rGsqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "India, Pakistan Record Big Jump In Coronavirus Cases",
-        "link": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm5wci5vcmcvc2VjdGlvbnMvY29yb25hdmlydXMtbGl2ZS11cGRhdGVzLzIwMjAvMDYvMDUvODcwMTkzNzE4L2luZGlhLXBha2lzdGFuLXJlY29yZC1iaWctanVtcC1pbi1jb3JvbmF2aXJ1cy1jYXNlc9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDYvb3RoZXJfc3BvcnRzLzE1OTE0MDEyMTNfODk0MDE4Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA2L290aGVyX3Nwb3J0cy8xNTkxNDAxMjEzXzg5NDAxOC5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live updates: China warns of Covid-linked 'racial violence' overseas",
         "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Confirmed coronavirus cases are rising faster than ever",
-        "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Coronavirus: WHO advises to wear masks in public areas",
         "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
-        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Confirmed coronavirus cases are rising faster than ever",
+        "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Surging Coronavirus Caseloads Put Strongmen on the Back Foot",
         "link": "https://news.google.com/articles/CAIiEN1EThRuZSCWXlHyiGuV9ssqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
+        "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

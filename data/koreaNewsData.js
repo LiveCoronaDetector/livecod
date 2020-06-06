@@ -5,6 +5,26 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464327&ref=A"
     },
     {
+        "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823051&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "서울 방판업체 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
+        "link": "http://yna.kr/AKR20200606038400530?did=1195m"
+    },
+    {
+        "title": "성남시 코로나19 확진자, 대전 한화연구소 다녀가",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "(속보) 양천구 탁구장 관련 확진자 7명 추가 발생···총 13명",
+        "link": "https://www.sedaily.com/NewsView/1Z3X7DR6B1"
+    },
+    {
+        "title": "부천시청 \"중동·원종동서 코로나19 확진자 발생\"[속보]",
+        "link": "http://www.kjdaily.com/read.php3?aid=1591432470513058208"
+    },
+    {
         "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -17,27 +37,7 @@ var koreaNewsData = [
         "link": "http://www.bloter.net/archives/387890"
     },
     {
-        "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823051&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060602109919807003&ref=naver"
-    },
-    {
-        "title": "[속보] 양천구 탁구장 관련 확진자 속출…7명 늘어 '최소 13명'",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006060044&t=NN"
-    },
-    {
-        "title": "[속보]양천구 탁구장 관련 확진자 7명 추가…최소 13명 추정",
-        "link": "https://www.hankyung.com/society/article/2020060676567"
-    },
-    {
-        "title": "서울 방판업체 리치웨이 누적 확진자 42명…\"밀폐 공간서 노래\"",
-        "link": "http://yna.kr/AKR20200606038400530?did=1195m"
-    },
-    {
-        "title": "성남시 코로나19 확진자, 대전 한화연구소 다녀가",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
