@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live Coronavirus Updates",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "India, Pakistan Record Big Jump In Coronavirus Cases",
@@ -22,7 +22,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live news: China warns of Covid-linked 'racial violence' overseas",
-        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Confirmed coronavirus cases are rising faster than ever",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "'Do not travel to Australia': China warns of racism",
-        "link": "https://news.google.com/articles/CCAiC1VLdXFla2FkSDJBmAEB?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Experts Say Trump's Order To Pull US Out Of WHO Could Weaken Both : Goats and Soda",
         "link": "https://news.google.com/articles/CAIiEGkcw8wMYCrYsYkf37ThetsqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Australian officials move to block Black Lives Matter protest in Sydney",
+        "link": "https://news.google.com/articles/CCAiCzB5dUdDdWJ5endnmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
