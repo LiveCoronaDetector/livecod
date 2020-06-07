@@ -1262,7 +1262,7 @@ var marker = [
         "Name_en": "Mongolia",
         "확진자수": 193,
         "사망자수": 0,
-        "완치자수": 71
+        "완치자수": 75
     },
     {
         "Name": "Faeroe Islands",
