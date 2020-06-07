@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELFkhRKEES9OzrZ4EurdcvsqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Gradual economic reopening for Ireland – as it happened",
-        "link": "https://news.google.com/articles/CAIiEDWGUE2U1fgYZg5ajqTrPe4qFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global report: India's Covid-19 case total surpasses Italy's",
+        "link": "https://news.google.com/articles/CAIiEHqb8eA4ZJWZHwXm8TFSVx8qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: WHO advises to wear masks in public areas",
-        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Wear mask in public, WHO's new advice",
+        "link": "https://news.google.com/articles/CAIiEC6cijP6ta8OG9BsTU4kGJUqFwgEKg8IACoHCAow-ZzLBzD77Ecwm8B5?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Confirmed coronavirus cases are rising faster than ever",
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Bill Gates on coronavirus: 'The world needs more than breakthrough science'",
-        "link": "https://news.google.com/articles/CBMiXGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9iaWxsLWdhdGVzLW9uLWNvcm9uYXZpcnVzLWJyZWFrdGhyb3VnaC1zY2llbmNlLTE0MzAzMTIzMy5odG1s0gFkaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvYmlsbC1nYXRlcy1vbi1jb3JvbmF2aXJ1cy1icmVha3Rocm91Z2gtc2NpZW5jZS0xNDMwMzEyMzMuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus Claims Some of World War II’s Last Witnesses",
+        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
