@@ -529,20 +529,20 @@ var marker = [
         "완치자수": 1133
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 6155,
+        "사망자수": 250,
+        "완치자수": 697
+    },
+    {
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
         "확진자수": 6081,
         "사망자수": 359,
         "완치자수": 2014
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 5971,
-        "사망자수": 248,
-        "완치자수": 677
     },
     {
         "Name": "Tajikistan",
