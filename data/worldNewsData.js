@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus Live Updates: New Cases Are Increasing in U.S.",
-        "link": "https://news.google.com/articles/CAIiECcJz3MNYQzx_JASqLWDiIMqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiECcJz3MNYQzx_JASqLWDiIMqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Iran braces for new coronavirus wave after surge in infections",
@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "More than 2,36600 COVID-19 cases in India | Coronavirus Outbreak",
-        "link": "https://news.google.com/articles/CCAiC3pUcGRVUHZRT0p3mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDcvb3RoZXJfc3BvcnRzLzE1OTE0ODUzNzVfNTU5MDQyLmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA3L290aGVyX3Nwb3J0cy8xNTkxNDg1Mzc1XzU1OTA0Mi5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA2LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wNi0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Japan's Coronavirus Numbers Are Low. Are Masks the Reason?",
+        "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Confirmed coronavirus cases are rising faster than ever",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEC6cijP6ta8OG9BsTU4kGJUqFwgEKg8IACoHCAow-ZzLBzD77Ecwm8B5?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Bill Gates on coronavirus: 'The world needs more than breakthrough science'",
-        "link": "https://news.google.com/articles/CBMiXGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9iaWxsLWdhdGVzLW9uLWNvcm9uYXZpcnVzLWJyZWFrdGhyb3VnaC1zY2llbmNlLTE0MzAzMTIzMy5odG1s0gFkaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvYmlsbC1nYXRlcy1vbi1jb3JvbmF2aXJ1cy1icmVha3Rocm91Z2gtc2NpZW5jZS0xNDMwMzEyMzMuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global coronavirus death toll nears 400,000: live updates",
+        "link": "https://news.google.com/articles/CAIiEFYk8sricYhxcYgCkPObCEMqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Claims Some of World War II’s Last Witnesses",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "London protesters clash with police as thousands around world defy coronavirus bans to demonstrate",
+        "link": "https://news.google.com/articles/CAIiEJ1lEQWGwgEop_1v-DnVL4YqGQgEKhAIACoHCAowvIaCCzDnxf4CMN2F8gU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
