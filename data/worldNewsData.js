@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUw98bPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Zhong Nanshan: COVID-19 vaccine could be available this fall",
-        "link": "https://news.google.com/articles/CBMid2h0dHBzOi8vbmV3cy5jZ3RuLmNvbS9uZXdzLzIwMjAtMDYtMDcvWmhvbmctTmFuc2hhbi1DT1ZJRC0xOS12YWNjaW5lLWNvdWxkLWJlLWF2YWlsYWJsZS10aGlzLWZhbGwtUjg3NkwxOUVlay9pbmRleC5odG1s0gF7aHR0cHM6Ly9uZXdzLmNndG4uY29tL25ld3MvMjAyMC0wNi0wNy9aaG9uZy1OYW5zaGFuLUNPVklELTE5LXZhY2NpbmUtY291bGQtYmUtYXZhaWxhYmxlLXRoaXMtZmFsbC1SODc2TDE5RWVrL3NoYXJlX2FtcC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "China Vows to Share COVID-19 Vaccine Amid Claim of Sabotage by U.S Senator",
+        "link": "https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9jaGluYS11cy1jb3JvbmF2aXJ1cy1jb3ZpZDE5LXZhY2NpbmUtY3VyZS1zZW5hdG9yLXJpY2stc2NvdHQtMTUwOTIxMNIBY2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9jaGluYS11cy1jb3JvbmF2aXJ1cy1jb3ZpZDE5LXZhY2NpbmUtY3VyZS1zZW5hdG9yLXJpY2stc2NvdHQtMTUwOTIxMD9hbXA9MQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Global coronavirus death toll tops 400,000 as protesters continue to defy lockdowns",
         "link": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvZ2xvYmFsLWNvcm9uYXZpcnVzLWRlYXRoLXRvbGwtdG9wcy00MDAtMDAwLXByb3Rlc3RlcnMtY29udGludWUtZGVmeS1uMTIyNjk1MdIBLGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL25jbmExMjI2OTUx?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Brazil takes down months of Covid-19 data, hiding toll as deaths soar",
-        "link": "https://news.google.com/articles/CCAiC3B5ZDRFZVJ5RzZvmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
+        "link": "https://news.google.com/articles/CCAiC3RqOF8zYzBjaDlrmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Almost half the world is living through this pandemic without the internet",

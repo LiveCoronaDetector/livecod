@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200607049100004?did=1195m"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 57명···지역발생 53명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006071030001&code=940601"
+        "title": "文대통령 \"수도권 코로나 확진자 발생, 또다시 긴장…고비 이겨낼 것\"",
+        "link": "https://view.asiae.co.kr/article/2020060717463542768"
     }
 ];
