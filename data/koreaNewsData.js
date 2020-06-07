@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006071030001&code=940601"
     },
     {
-        "title": "\"코로나19 확진자 방문했다\" 허위사실 유포…벌금 300만원",
-        "link": "http://www.newsis.com/view/?id=NISX20200606_0001050597&cID=10810&pID=10800"
-    },
-    {
         "title": "코로나19 신규확진 57명·이틀째 50명대…수도권 집단감염 확산(종합)",
         "link": "http://yna.kr/AKR20200607015752530?did=1195m"
+    },
+    {
+        "title": "文대통령 \"수도권 코로나 확진자 발생, 또다시 긴장…고비 이겨낼 것\"",
+        "link": "https://view.asiae.co.kr/article/2020060717463542768"
     }
 ];

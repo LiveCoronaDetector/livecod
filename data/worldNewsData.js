@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "Global coronavirus death toll surpasses 400,000",
+        "link": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmFhLmNvbS50ci9lbi9sYXRlc3Qtb24tY29yb25hdmlydXMtb3V0YnJlYWsvZ2xvYmFsLWNvcm9uYXZpcnVzLWRlYXRoLXRvbGwtc3VycGFzc2VzLTQwMC0wMDAvMTg2ODIzMdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
+        "link": "https://news.google.com/articles/CCAiC3RqOF8zYzBjaDlrmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "Almost half the world is living through this pandemic without the internet",
         "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Breakthrough close on coronavirus antibody therapy: reports",
-        "link": "https://news.google.com/articles/CAIiEMvdn_pYC7sDFKizM7aDNtwqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Confirmed coronavirus cases are rising faster than ever",
-        "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
