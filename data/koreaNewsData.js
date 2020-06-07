@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464327&ref=A"
     },
     {
+        "title": "전세계 코로나19 확진자 700만명·사망자 40만명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070015&t=NN"
+    },
+    {
         "title": "'코로나19' 신규 확진자 51명…'리치웨이 여파'",
         "link": "http://www.fnnews.com/news/202006061038360968"
+    },
+    {
+        "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나환자 매일 10만명씩 \"다시 급증세\"",
@@ -17,20 +25,8 @@ var koreaNewsData = [
         "link": "http://www.yonhapnewstv.co.kr/MYH20200606007100038/?did=1825m"
     },
     {
-        "title": "성남시 코로나19 확진자, 대전 한화연구소 다녀가",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002647904&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "[코로나19] 고양시 53번째 확진자 60대 남성",
         "link": "http://www.fnnews.com/news/202006061326207145"
-    },
-    {
-        "title": "리치웨이 누적 확진자 34명으로 증가…25명이 고령자",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/06/2020060600635.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "\"전세계 코로나19 확진자 700만명 넘어…사망은 40만명\"<로이터>",
-        "link": "http://yna.kr/AKR20200607002200071?did=1195m"
     },
     {
         "title": "코로나19 확진자 700만-사망자 40만 넘어서(종합)",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "방판업체발 확진자 최소 29명…아산병원도 일부 폐쇄",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005822119&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
+        "link": "http://www.bloter.net/archives/387890"
     }
 ];
