@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200607037851030?did=1195m"
     },
     {
-        "title": "코로나19 신규확진 57명·이틀째 50명대…수도권 집단감염 확산(종합)",
-        "link": "http://yna.kr/AKR20200607015752530?did=1195m"
+        "title": "\"모두 퇴장하세요\" 롯데월드, 확진자 방문에 영업 조기 종료(종합)",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200607000207"
     },
     {
-        "title": "전세계 코로나19 확진자 700만명·사망자 40만명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070015&t=NN"
+        "title": "롯데월드, 지난 5일 '코로나 확진자' 방문…영업 조기종료",
+        "link": "http://www.etnews.com/20200607000042"
     },
     {
-        "title": "“수도권 감염 계속”...코로나19 신규 확진자 57명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200607500020&wlog_tag3=naver"
+        "title": "코로나19 신규 확진자 57명…이틀째 50명대 급증",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070025&t=NN"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 57명···지역발생 53명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006071030001&code=940601"
+        "title": "로이터 “전세계 코로나19 확진자 700만 명…사망은 40만 명”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4464541&ref=A"
     },
     {
-        "title": "“코로나 사태 99일만”...8일 중 1·초 5~6학년 등교 수업",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200607500007&wlog_tag3=naver"
-    },
-    {
-        "title": "[속보] 코로나19 확진 57명 늘어…52명은 ‘수도권’",
-        "link": "http://www.hani.co.kr/arti/society/health/948202.html"
-    },
-    {
-        "title": "[코로나19] 리치웨이 확진자 총 45명…쿠팡물류센터 3명 늘어난 133명(종합)",
-        "link": "http://www.newspim.com/news/view/20200607000114"
-    },
-    {
-        "title": "EPL, 코로나19 추가 확진자 '0'…연습경기도 개최",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823491&plink=ORI&cooper=NAVER"
+        "title": "롯데월드, 코로나19 확진자 방문으로 영업 종료···'9시간 체류'",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006071529001&code=940601"
     },
     {
         "title": "‘코로나19’ 신규 확진자 57명 추가…수도권만 52명",
         "link": "https://www.donga.com/news/article/all/20200607/101394732/1"
+    },
+    {
+        "title": "코로나19 확진자 700만-사망자 40만 넘어서(종합)",
+        "link": "https://www.news1.kr/articles/?3957460"
+    },
+    {
+        "title": "코로나19 어제 57명 신규확진…이틀 연속 50명 넘어",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/07/2020060790053.html"
+    },
+    {
+        "title": "코로나19 신규확진 57명·이틀째 50명대…수도권 집단감염 확산(종합)",
+        "link": "http://yna.kr/AKR20200607015752530?did=1195m"
     }
 ];
