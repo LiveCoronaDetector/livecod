@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: Bolsonaro hides Brazil death figures; minister criticises Australian BLM protests",
-        "link": "https://news.google.com/articles/CAIiEDvFdMYun60_PsJXXv2jaAYqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Confirmed coronavirus cases are rising faster than ever",
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Breakthrough close on coronavirus antibody therapy: reports",
+        "link": "https://news.google.com/articles/CAIiEMvdn_pYC7sDFKizM7aDNtwqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
