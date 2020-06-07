@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464541&ref=A"
     },
     {
-        "title": "‘코로나19’ 신규 확진자 57명 추가…수도권만 52명",
-        "link": "https://www.donga.com/news/article/all/20200607/101394732/1"
-    },
-    {
         "title": "롯데월드 방문 확진자는 고3…\"학생·교직원 600명 전수조사\"",
         "link": "http://yna.kr/AKR20200607049100004?did=1195m"
     },
     {
         "title": "文대통령 \"수도권 코로나 확진자 발생, 또다시 긴장…고비 이겨낼 것\"",
         "link": "https://view.asiae.co.kr/article/2020060717463542768"
+    },
+    {
+        "title": "‘확진자 9시간 머물렀다’…롯데월드, 7일 영업 조기 종료",
+        "link": "https://www.donga.com/news/article/all/20200607/101398487/2"
     }
 ];

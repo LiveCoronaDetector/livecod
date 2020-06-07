@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NTQ2OTfSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk1NDY5Nw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
-        "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Against coronavirus, Pakistan turns to a traditional remedy: Blame Ahmadis and Jews",
+        "link": "https://news.google.com/articles/CAIiEGupiOqt-SaaPDjUzXg1SogqMwgEKioIACIQo8MlfRp19vXTQjuzX4teDSoUCAoiEKPDJX0adfb100I7s1-LXg0w4ZfOBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus Depletes the Keepers of Europe’s Memory",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUw98bPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "China Hails Its Virus Triumphs, and Glosses Over Its Mistakes",
-        "link": "https://news.google.com/articles/CAIiEJQMJ3u-XejXKix44F0Ei2gqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "China says its coronavirus vaccine is 'a global public good' - Business Insider",
+        "link": "https://news.google.com/articles/CAIiEPj0ILN0K2rKi6t6V-qOZ6YqLQgEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJD-CQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global coronavirus death toll tops 400,000 as protesters continue to defy lockdowns",
-        "link": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvZ2xvYmFsLWNvcm9uYXZpcnVzLWRlYXRoLXRvbGwtdG9wcy00MDAtMDAwLXByb3Rlc3RlcnMtY29udGludWUtZGVmeS1uMTIyNjk1MdIBLGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL25jbmExMjI2OTUx?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
-        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
+        "link": "https://news.google.com/articles/CCAiC3RqOF8zYzBjaDlrmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Almost half the world is living through this pandemic without the internet",
         "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Are we underestimating how many people are resistant to Covid-19?",
