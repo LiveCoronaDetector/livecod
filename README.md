@@ -20,14 +20,10 @@
 
 
 ## 기술 스택
-
-**서비스 유지를 위해 사용한 기술 스택과 github 주소**
-
-- 사용 스택 : HTML, CSS, JS, JQeury, ChartJS, Bootstrap, Python
-    - 프론트엔드 GitHub URL: [https://github.com/LiveCoronaDetector/livecod](https://github.com/LiveCoronaDetector/livecod)
-    - 백엔드 GitHub URL: [https://github.com/LiveCoronaDetector/livecod-backend](https://github.com/LiveCoronaDetector/livecod-backend)
-    - 크롤러 GitHub URL: [https://github.com/LiveCoronaDetector/CoronaCrawler](https://github.com/LiveCoronaDetector/CoronaCrawler)
-    - 제주 지정의료기관 GitHub URL: [https://github.com/LiveCoronaDetector/covid-19-jeju-hospital-map](https://github.com/LiveCoronaDetector/covid-19-jeju-hospital-map)
+ 
+* Bootstrap CSS
+* Javascript (Vanilla JS, JQeury, ChartJS)
+* Python
 
 
 ## 데이터 형식
@@ -117,25 +113,12 @@
 
 ### 데이터 출처 및 참고논문
 
-1. 질병관리본부와 KBS 데이터 우선
-2. 기타 데이터셋
-    - 전세계 확진자 수 데이터셋: [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-    - 한국 확진자 Feature: [https://www.kaggle.com/kimjihoo/coronavirusdataset](https://www.kaggle.com/kimjihoo/coronavirusdataset)
-    - 지역 감염 현황: [https://docs.google.com/spreadsheets/d/1aOckl-xaijKHVD6liwTQI7nQZ4ez0Hqn-xPfDbHUhag/edit#gid=0](https://docs.google.com/spreadsheets/d/1aOckl-xaijKHVD6liwTQI7nQZ4ez0Hqn-xPfDbHUhag/edit#gid=0)
-3. 참고 논문
-
-    Early epidemiolobical analysis of the coronavirus disease
-
-    Estimation of the reproductive number of Novel Coronavirus
-
-
-## 업데이트 방법
-
-- 크롤링 데이터 Slack으로 Push → 내용 확인(필요의 경우 내용 사실 여부 확인) → 자원 봉사자 중 1명이 Commit, Push
-  -  [https://www.notion.so/84904afe278f4efc96c4fe0cdde0aae8](https://www.notion.so/84904afe278f4efc96c4fe0cdde0aae8) 에 적어놓았습니다.
-- Github Pull Request 보내기
-  - [https://www.notion.so/Github-livecod-aa5be574c29e48febff9847263ca9bee](https://www.notion.so/Github-livecod-aa5be574c29e48febff9847263ca9bee) 에 적어두었습니다.
-
+1. [질병관리본부 코로나 국내발생 동향](http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=)
+2. [존스홉킨스 CSSE 코로나 데이터셋](https://github.com/CSSEGISandData/COVID-19)
+3. [월드오미터 코로나 데이터](https://www.worldometers.info/coronavirus/)
+4. 참고 논문
+    - Early epidemiolobical analysis of the coronavirus disease
+    - Estimation of the reproductive number of Novel Coronavirus
 
 ## 멤버
 

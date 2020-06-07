@@ -368,7 +368,29 @@
             <div class="anchor" id="worldCasesStatus"></div>
             <!-- 전세계 추이 그래프 -->
             <div class="row">
-              <div class="col-xl-12 col-lg12">
+
+              <!-- 국내 추이 그래프 -->
+              <div class="col-xl-6 col-lg6">
+                <div class="card shadow mb-4">
+                  <!-- Card Header - Dropdown -->
+                  <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                    <h6 class="m-0 font-weight-bold text-danger">국내 확진자수 전일비 증가추이</h6>
+                    <div class="right"><a class="new_window" href="http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                  </div>
+                  <!-- Card Body -->
+                  <div class="card-body">
+                    <div class="chart-area" style="height:23rem;">
+                      <div class="korea_chart_tags">
+                        <span class="tag_01">전일대비</span>
+                      </div>
+                      <canvas id="전일대비그래프" style="display: block; padding: 25px 10px; height: 322px; width: 455px;" width="568" height="402" class="chartjs-render-monitor"></canvas>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 전세계 추이 그래프 -->
+              <div class="col-xl-6 col-lg6">
                 <div class="card shadow mb-4">
                   <!-- Card Header - Dropdown -->
                   <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
@@ -388,8 +410,10 @@
                   </div>
                 </div>
               </div>
+
             </div>
             <!-- 전세계 추이 그래프 끝 -->
+
             <div class ="row">
               <!-- 세계 발병지도 -->
               <div class="col-xl-12 col-lg-12">
@@ -990,6 +1014,9 @@
                           </h2>
                         </div>
                       </div>
+                      <ul style="margin-left: 2rem; margin-top: 2rem">
+                        <li>개인정보 보호를 위하여 2주가 지난 경로는 삭제하고 있습니다.</li>
+                      </ul>
                     </div>
                   </div>
                 </div>
@@ -1515,9 +1542,6 @@
                         <a href="mailto:paul-lab@naver.com">paul-lab@naver.com</a> 입니다. (번역의 경우 직접 도움을 주셔야 합니다.)
                       </li>
                       <li>
-                        <a href="https://www.ncloud.com" target="_blank">네이버 클라우드 플랫폼</a>에서 서버 및 지도 API를 무상 지원합니다.
-                      </li>
-                      <li>
                         모든 소스는 오픈되어 있습니다. 지역별 현황판을 만들고 싶으시거나 다음에도 비슷한 상황이 발생되었을 경우, 이 <a href="https://github.com/LiveCoronaDetector/livecod" target="_blank">프로젝트</a>를 사용해주세요.
                       </li>
                       <br>
@@ -1712,7 +1736,12 @@
           var button = document.createElement('button');
           button.setAttribute('class', 'btn btn-link');
           button.setAttribute('type', 'button');
-          var title = document.createTextNode(news['title']);
+
+          if (window.innerWidth > 500) {
+            var title = document.createTextNode(news['title']);
+          } else {
+            var title = document.createTextNode(news['title'].substring( 0, 20 ) + '...');
+          }
 
           button.appendChild(title);
           link.appendChild(button);
