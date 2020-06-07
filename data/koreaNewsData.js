@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200607015752530?did=1195m"
     },
     {
-        "title": "코로나 신규 확진 57명… 이틀째 50명대(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/07/2020060700339.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 57명···지역발생 53명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006071030001&code=940601"
-    },
-    {
-        "title": "전세계 코로나19 확진자 700만명·사망자 40만명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070015&t=NN"
-    },
-    {
-        "title": "[속보] 코로나19 확진 57명 늘어…52명은 ‘수도권’",
-        "link": "http://www.hani.co.kr/arti/society/health/948202.html"
     },
     {
         "title": "“코로나 사태 99일만”...8일 중 1·초 5~6학년 등교 수업",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200607500007&wlog_tag3=naver"
     },
     {
+        "title": "전세계 코로나19 확진자 700만명·사망자 40만명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070015&t=NN"
+    },
+    {
         "title": "메르스는 `새발의 피`...상상 못할 코로나19 피해규모",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020060702109919607001&ref=naver"
+    },
+    {
+        "title": "코로나 신규 확진 57명… 이틀째 50명대(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/07/2020060700339.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "신규 확진자 이틀째 50명대...수도권서 91.2% 발생[종합]",
         "link": "http://www.fnnews.com/news/202006071028472068"
     },
     {
+        "title": "[속보] 코로나 신규 확진자 하루새 57명···이틀 연속 50명대",
+        "link": "https://news.joins.com/article/olink/23390110"
+    },
+    {
         "title": "‘코로나19’ 신규 확진자 57명 추가…수도권만 52명",
         "link": "https://www.donga.com/news/article/all/20200607/101394732/1"
     },
     {
-        "title": "안양시청 \"코로나19 41번 확진자 발생\"[속보]",
-        "link": "http://www.kjdaily.com/read.php3?aid=1591497963513083208"
+        "title": "코로나19 확진자 700만-사망자 40만 넘어서(종합)",
+        "link": "https://www.news1.kr/articles/?3957460"
     }
 ];
