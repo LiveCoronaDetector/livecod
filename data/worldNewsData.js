@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELTBdw0muPOc7Knr6YbOLVUqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Rural India starts to record significant surge in Covid-19 cases",
+        "link": "https://news.google.com/articles/CAIiEE6kPKCJFiU7RThANtFTr3IqGQgEKhAIACoHCAowkreiCTC3h5gCMImzzQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Japan's Coronavirus Numbers Are Low. Are Masks the Reason?",
-        "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "White paper presser: China is racing to develop COVID-19 vaccines",
+        "link": "https://news.google.com/articles/CCAiC3ozd29IczE3NEV3mAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global coronavirus death toll surpasses 400,000",
-        "link": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmFhLmNvbS50ci9lbi9sYXRlc3Qtb24tY29yb25hdmlydXMtb3V0YnJlYWsvZ2xvYmFsLWNvcm9uYXZpcnVzLWRlYXRoLXRvbGwtc3VycGFzc2VzLTQwMC0wMDAvMTg2ODIzMdIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Earth Marks a Grim Toll",
+        "link": "https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3Lm5ld3Nlci5jb20vc3RvcnkvMjkxOTA3L2Nvcm9uYXZpcnVzLXBhc3Nlcy1ncmltLXRvbGwuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
