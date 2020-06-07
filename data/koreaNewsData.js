@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070015&t=NN"
     },
     {
+        "title": "코로나19 확진자 700만-사망자 40만 넘어서(종합)",
+        "link": "https://www.news1.kr/articles/?3957460"
+    },
+    {
         "title": "'코로나19' 신규 확진자 51명…'리치웨이 여파'",
         "link": "http://www.fnnews.com/news/202006061038360968"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006061326207145"
     },
     {
-        "title": "코로나19 확진자 700만-사망자 40만 넘어서(종합)",
-        "link": "https://www.news1.kr/articles/?3957460"
+        "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823051&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "방판업체발 확진자 최소 29명…아산병원도 일부 폐쇄",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005822119&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "마켓컬리 \"코로나19 확진자 나온 물류센터 관련 315명 '전원 음성'\"",
-        "link": "http://www.bloter.net/archives/387890"
+        "title": "\"모두 음성 나오길\"…확진자 등교한 인천 고교에 긴장감",
+        "link": "http://yna.kr/AKR20200606037100065?did=1195m"
     }
 ];
