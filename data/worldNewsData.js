@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiECcJz3MNYQzx_JASqLWDiIMqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Iran braces for new coronavirus wave after surge in infections",
-        "link": "https://news.google.com/articles/CAIiELFkhRKEES9OzrZ4EurdcvsqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
+        "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
