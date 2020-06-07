@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200607015752530?did=1195m"
     },
     {
+        "title": "전세계 코로나19 확진자 700만명·사망자 40만명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070015&t=NN"
+    },
+    {
+        "title": "[코로나19] 리치웨이 확진자 총 45명…쿠팡물류센터 3명 늘어난 133명(종합)",
+        "link": "http://www.newspim.com/news/view/20200607000114"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 57명···지역발생 53명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006071030001&code=940601"
     },
     {
-        "title": "이번엔 탁구클럽서만 17명...코로나 확진 이틀째 50명 넘어",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/07/2020060700343.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "전세계 코로나19 확진자 700만명·사망자 40만명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070015&t=NN"
+        "title": "[단독] 롯데월드 어드벤처, 코로나19 확진자 방문으로 7일 영업종료…입장객들...",
+        "link": "http://www.medigatenews.com/news/2797137279"
     },
     {
         "title": "메르스는 `새발의 피`...상상 못할 코로나19 피해규모",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464327&ref=A"
     },
     {
-        "title": "“코로나 사태 99일만”...8일 중 1·초 5~6학년 등교 수업",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200607500007&wlog_tag3=naver"
+        "title": "‘코로나19’ 신규 확진자 57명 추가…수도권만 52명",
+        "link": "https://www.donga.com/news/article/all/20200607/101394732/1"
     },
     {
         "title": "코로나 신규 확진 57명… 이틀째 50명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/07/2020060700339.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "‘코로나19’ 신규 확진자 57명 추가…수도권만 52명",
-        "link": "https://www.donga.com/news/article/all/20200607/101394732/1"
     }
 ];

@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus Depletes the Keepers of Europe’s Memory",
+        "link": "https://news.google.com/articles/CAIiELTBdw0muPOc7Knr6YbOLVUqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global report: India's Covid-19 case total surpasses Italy's",
-        "link": "https://news.google.com/articles/CAIiEHqb8eA4ZJWZHwXm8TFSVx8qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
+        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Japan's Coronavirus Numbers Are Low. Are Masks the Reason?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Wear mask in public, WHO's new advice",
-        "link": "https://news.google.com/articles/CAIiEC6cijP6ta8OG9BsTU4kGJUqFwgEKg8IACoHCAow-ZzLBzD77Ecwm8B5?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
         "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
-        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Wear mask in public, WHO's new advice",
+        "link": "https://news.google.com/articles/CAIiEC6cijP6ta8OG9BsTU4kGJUqGAgEKg8IACoHCAow-ZzLBzD77Ecwk4TKBg?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
