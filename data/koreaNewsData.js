@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020060717463542768"
     },
     {
-        "title": "‘확진자 9시간 머물렀다’…롯데월드, 7일 영업 조기 종료",
-        "link": "https://www.donga.com/news/article/all/20200607/101398487/2"
+        "title": "전세계 코로나19 확진자 700만명 넘어섰다",
+        "link": "https://www.sedaily.com/NewsView/1Z3XOT48OI"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 57명···지역발생 53명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006071030001&code=940601"
+        "title": "‘확진자 9시간 머물렀다’…롯데월드, 7일 영업 조기 종료",
+        "link": "https://www.donga.com/news/article/all/20200607/101398487/2"
     }
 ];

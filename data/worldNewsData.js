@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Scott: China trying to sabotage, slow COVID-19 vaccine development | TheHill",
-        "link": "https://news.google.com/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzUwMTU0OC1zY290dC1jaGluYS10cnlpbmctdG8tc2Fib3RhZ2Utc2xvdy1jb3ZpZC0xOS12YWNjaW5lLWRldmVsb3BtZW500gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNTAxNTQ4LXNjb3R0LWNoaW5hLXRyeWluZy10by1zYWJvdGFnZS1zbG93LWNvdmlkLTE5LXZhY2NpbmUtZGV2ZWxvcG1lbnQ_YW1w?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Fauci: China 'did a disservice' by withholding coronavirus info",
+        "link": "https://news.google.com/articles/CAIiENT94ib_Dpg5OxBIBR-JC2cqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
         "link": "https://news.google.com/articles/CCAiC3RqOF8zYzBjaDlrmAEB?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://news.google.com/articles/CAIiEEoCa38nAKkkiCyAQZQfY-MqFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Almost half the world is living through this pandemic without the internet",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Global COVID-19 Deaths Surpass 400,000 : Coronavirus Live Updates",
+        "link": "https://news.google.com/articles/CAIiEMlru0jQVmQYOnVMKiPGICgqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
