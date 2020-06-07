@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELTBdw0muPOc7Knr6YbOLVUqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Rural India starts to record significant surge in Covid-19 cases",
-        "link": "https://news.google.com/articles/CAIiEE6kPKCJFiU7RThANtFTr3IqGQgEKhAIACoHCAowkreiCTC3h5gCMImzzQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "‘Worse Than a War Zone’: Covid-19 Batters India’s Mumbai City",
+        "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUww8rPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "White paper presser: China is racing to develop COVID-19 vaccines",
-        "link": "https://news.google.com/articles/CCAiC3ozd29IczE3NEV3mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Fauci: China 'did a disservice' by withholding coronavirus info",
+        "link": "https://news.google.com/articles/CAIiENT94ib_Dpg5OxBIBR-JC2cqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Earth Marks a Grim Toll",
-        "link": "https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3Lm5ld3Nlci5jb20vc3RvcnkvMjkxOTA3L2Nvcm9uYXZpcnVzLXBhc3Nlcy1ncmltLXRvbGwuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global COVID-19 cases top 7 million; deaths approaching 400000: Reuters",
+        "link": "https://news.google.com/articles/CCAiC3Fnc2RwLWNQZFdjmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
-        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Breakthrough close on coronavirus antibody therapy: reports",
+        "link": "https://news.google.com/articles/CAIiEMvdn_pYC7sDFKizM7aDNtwqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
