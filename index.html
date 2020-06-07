@@ -1718,7 +1718,7 @@
     </script>
     <script>
       // 국내, 해외 뉴스 관련 스크립트
-      function createNews(newsData, newsDiv) {
+      function createNews(newsData, newsDiv, sliceValue) {
         newsData.forEach(news => {
           console.log(news['title']);
           var cardElement = document.createElement('div');
@@ -1740,7 +1740,7 @@
           if (window.innerWidth > 500) {
             var title = document.createTextNode(news['title']);
           } else {
-            var title = document.createTextNode(news['title'].substring( 0, 20 ) + '...');
+            var title = document.createTextNode(news['title'].substring( 0, sliceValue ) + '...');
           }
 
           button.appendChild(title);
@@ -1755,8 +1755,8 @@
       var worldNewsDiv = document.getElementById('worldNewsDiv');
       var koreaNewsDiv = document.getElementById('koreaNewsDiv');
 
-      createNews(worldNewsData, worldNewsDiv)
-      createNews(koreaNewsData, koreaNewsDiv)
+      createNews(worldNewsData, worldNewsDiv, 20)
+      createNews(koreaNewsData, koreaNewsDiv, 35)
     </script>
     <!-- 확진자 관련 table push 스크립트 : 확진자 이동경로 삭제에 따른 비활성화, 추후 다른 Table에 사용될 수도 있어 삭제하지 않음. -->
     <!-- <script src="js/renderTable.js"></script> -->
