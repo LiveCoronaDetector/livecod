@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus Live Updates: New Cases Are Increasing in U.S.",
-        "link": "https://news.google.com/articles/CAIiECcJz3MNYQzx_JASqLWDiIMqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiECcJz3MNYQzx_JASqLWDiIMqFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
