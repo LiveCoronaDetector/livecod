@@ -1738,7 +1738,12 @@
           var button = document.createElement('button');
           button.setAttribute('class', 'btn btn-link');
           button.setAttribute('type', 'button');
-          var title = document.createTextNode(news['title']);
+
+          if (window.innerWidth > 500) {
+            var title = document.createTextNode(news['title']);
+          } else {
+            var title = document.createTextNode(news['title'].substring( 0, 20 ) + '...');
+          }
 
           button.appendChild(title);
           link.appendChild(button);
