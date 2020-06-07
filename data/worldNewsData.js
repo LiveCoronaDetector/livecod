@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Against coronavirus, Pakistan turns to a traditional remedy: Blame Ahmadis and Jews",
-        "link": "https://news.google.com/articles/CAIiEGupiOqt-SaaPDjUzXg1SogqMwgEKioIACIQo8MlfRp19vXTQjuzX4teDSoUCAoiEKPDJX0adfb100I7s1-LXg0w4ZfOBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
+        "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus Depletes the Keepers of Europe’s Memory",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Fauci: China 'did a disservice' by withholding coronavirus info",
-        "link": "https://news.google.com/articles/CAIiENT94ib_Dpg5OxBIBR-JC2cqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "White paper presser: China is racing to develop COVID-19 vaccines",
+        "link": "https://news.google.com/articles/CCAiC3ozd29IczE3NEV3mAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
