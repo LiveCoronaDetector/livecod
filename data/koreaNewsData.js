@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464327&ref=A"
     },
     {
+        "title": "시흥시청 \"능곡동서 코로나19 추가확진자 발생\"[속보]",
+        "link": "http://www.kjdaily.com/read.php3?aid=1591490898513079208"
+    },
+    {
         "title": "전세계 코로나19 확진자 700만명·사망자 40만명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070015&t=NN"
+    },
+    {
+        "title": "\"전 세계 코로나19 확진자 700만 명 넘어…사망은 40만 명\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823428&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나19 확진자 700만-사망자 40만 넘어서(종합)",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "[코로나19] 고양시 53번째 확진자 60대 남성",
         "link": "http://www.fnnews.com/news/202006061326207145"
-    },
-    {
-        "title": "당국 \"중소교회 확진자 증가…소모임 취소·연기 강력히 요청\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823051&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "\"모두 음성 나오길\"…확진자 등교한 인천 고교에 긴장감",
-        "link": "http://yna.kr/AKR20200606037100065?did=1195m"
     }
 ];

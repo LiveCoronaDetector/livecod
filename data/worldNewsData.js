@@ -22,7 +22,7 @@ var worldNewsData = [
     },
     {
         "title": "Japan's Coronavirus Numbers Are Low. Are Masks the Reason?",
-        "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: WHO advises to wear masks in public areas",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Claims Some of World War II’s Last Witnesses",
-        "link": "https://news.google.com/articles/CAIiEKHVvYgvacaDCCF5efDxLb8qFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Bill Gates on coronavirus: 'The world needs more than breakthrough science'",
         "link": "https://news.google.com/articles/CBMiXGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9iaWxsLWdhdGVzLW9uLWNvcm9uYXZpcnVzLWJyZWFrdGhyb3VnaC1zY2llbmNlLTE0MzAzMTIzMy5odG1s0gFkaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvYmlsbC1nYXRlcy1vbi1jb3JvbmF2aXJ1cy1icmVha3Rocm91Z2gtc2NpZW5jZS0xNDMwMzEyMzMuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
