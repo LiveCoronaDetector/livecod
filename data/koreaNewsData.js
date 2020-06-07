@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200607049151004?did=1195m"
     },
     {
-        "title": "롯데월드 다녀간 코로나 확진자, 고3 여고생",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/07/2020060701510.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "롯데월드, 코로나19 확진자 방문에 영업 조기 종료",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005823955&plink=ORI&cooper=NAVER"
+        "title": "확진자가 8시간 놀다갔다, 롯데월드 대낮에 영업종료",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/07/2020060701155.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "\"저 거기 갔었어요\" 고3 확진자에게 온 전화, 롯데월드 문닫았다",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464541&ref=A"
     },
     {
-        "title": "文대통령 \"수도권 코로나 확진자 발생, 또다시 긴장…고비 이겨낼 것\"",
-        "link": "https://view.asiae.co.kr/article/2020060717463542768"
+        "title": "롯데월드 방문 확진자는 고3…\"학생·교직원 600명 전수조사\"",
+        "link": "http://yna.kr/AKR20200607049100004?did=1195m"
     },
     {
         "title": "‘확진자 9시간 머물렀다’…롯데월드, 7일 영업 조기 종료",
         "link": "https://www.donga.com/news/article/all/20200607/101398487/2"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 57명···지역발생 53명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006071030001&code=940601"
     }
 ];

@@ -18,15 +18,15 @@ var worldNewsData = [
     },
     {
         "title": "‘Worse Than a War Zone’: Covid-19 Batters India’s Mumbai City",
-        "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUww8rPBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUw98bPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Fauci: China 'did a disservice' by withholding coronavirus info",
         "link": "https://news.google.com/articles/CAIiENT94ib_Dpg5OxBIBR-JC2cqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global COVID-19 cases top 7 million; deaths approaching 400000: Reuters",
-        "link": "https://news.google.com/articles/CCAiC3Fnc2RwLWNQZFdjmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global coronavirus death toll passes 400,000",
+        "link": "https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZ2xvYmFsLWNvcm9uYXZpcnVzLWRlYXRoLXRvbGwtcGFzc2VzLTA5NTMxMTkwOC5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Breakthrough close on coronavirus antibody therapy: reports",
-        "link": "https://news.google.com/articles/CAIiEMvdn_pYC7sDFKizM7aDNtwqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: WHO advises to wear masks in public areas",
+        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
