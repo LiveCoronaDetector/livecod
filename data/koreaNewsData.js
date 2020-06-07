@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070015&t=NN"
     },
     {
+        "title": "[단독] 롯데월드 어드벤처, 코로나19 확진자 방문으로 7일 영업종료…입장객들...",
+        "link": "http://www.medigatenews.com/news/2797137279"
+    },
+    {
         "title": "[코로나19] 리치웨이 확진자 총 45명…쿠팡물류센터 3명 늘어난 133명(종합)",
         "link": "http://www.newspim.com/news/view/20200607000114"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006071030001&code=940601"
     },
     {
-        "title": "[단독] 롯데월드 어드벤처, 코로나19 확진자 방문으로 7일 영업종료…입장객들...",
-        "link": "http://www.medigatenews.com/news/2797137279"
-    },
-    {
-        "title": "메르스는 `새발의 피`...상상 못할 코로나19 피해규모",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020060702109919607001&ref=naver"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 하루새 57명···이틀 연속 50명대",
-        "link": "https://news.joins.com/article/olink/23390110"
-    },
-    {
-        "title": "코로나19 신규 확진자 51명 늘어…수도권 42명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4464327&ref=A"
+        "title": "“코로나 사태 99일만”...8일 중 1·초 5~6학년 등교 수업",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200607500007&wlog_tag3=naver"
     },
     {
         "title": "‘코로나19’ 신규 확진자 57명 추가…수도권만 52명",
         "link": "https://www.donga.com/news/article/all/20200607/101394732/1"
     },
     {
+        "title": "[종합] 국내 신규 확진자 이틀 연속 50명 이상…6월 6일 ‘코로나19’ 발생 현...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/07/2020060780031.html"
+    },
+    {
         "title": "코로나 신규 확진 57명… 이틀째 50명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/07/2020060700339.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 코로나19 확진 57명 늘어…52명은 ‘수도권’",
+        "link": "http://www.hani.co.kr/arti/society/health/948202.html"
     }
 ];
