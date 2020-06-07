@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Depletes the Keepers of Europe’s Memory",
-        "link": "https://news.google.com/articles/CAIiELTBdw0muPOc7Knr6YbOLVUqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
         "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "More than 2,36600 COVID-19 cases in India | Coronavirus Outbreak",
+        "link": "https://news.google.com/articles/CCAiC3pUcGRVUHZRT0p3mAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Japan's Coronavirus Numbers Are Low. Are Masks the Reason?",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus 'a devastating blow for world economy'",
-        "link": "https://news.google.com/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy01MjkzOTg0NtIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvYnVzaW5lc3MtNTI5Mzk4NDY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Almost half the world is living through this pandemic without the internet",
+        "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "What the coronavirus pandemic looks like when you don't have the internet",
-        "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Breakthrough close on coronavirus antibody therapy: reports",
+        "link": "https://news.google.com/articles/CAIiEMvdn_pYC7sDFKizM7aDNtwqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

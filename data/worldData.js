@@ -4,7 +4,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 1988697,
+        "확진자수": 1988700,
         "사망자수": 112101,
         "완치자수": 752048
     },
@@ -172,8 +172,8 @@ var marker = [
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "확진자수": 47335,
-        "사망자수": 6011,
+        "확진자수": 47574,
+        "사망자수": 6013,
         "완치자수": 0
     },
     {
@@ -204,9 +204,9 @@ var marker = [
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "확진자수": 38268,
-        "사망자수": 275,
-        "완치자수": 21061
+        "확진자수": 38808,
+        "사망자수": 276,
+        "완치자수": 21806
     },
     {
         "Name": "콜롬비아",
@@ -737,6 +737,14 @@ var marker = [
         "완치자수": 1523
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 2020,
+        "사망자수": 27,
+        "완치자수": 344
+    },
+    {
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
@@ -751,14 +759,6 @@ var marker = [
         "확진자수": 1939,
         "사망자수": 69,
         "완치자수": 1681
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 1934,
-        "사망자수": 20,
-        "완치자수": 281
     },
     {
         "Name": "Maldives",
@@ -945,6 +945,14 @@ var marker = [
         "완치자수": 867
     },
     {
+        "Name": "Sierra Leone",
+        "Name_ch": "",
+        "Name_en": "Sierra Leone",
+        "확진자수": 969,
+        "사망자수": 48,
+        "완치자수": 608
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -959,14 +967,6 @@ var marker = [
         "확진자수": 947,
         "사망자수": 49,
         "완치자수": 104
-    },
-    {
-        "Name": "Sierra Leone",
-        "Name_ch": "",
-        "Name_en": "Sierra Leone",
-        "확진자수": 946,
-        "사망자수": 48,
-        "완치자수": 600
     },
     {
         "Name": "Burkina Faso",
