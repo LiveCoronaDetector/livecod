@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUw98bPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Fauci: China 'did a disservice' by withholding coronavirus info",
-        "link": "https://news.google.com/articles/CAIiENT94ib_Dpg5OxBIBR-JC2cqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Zhong Nanshan: COVID-19 vaccine could be available this fall",
+        "link": "https://news.google.com/articles/CBMid2h0dHBzOi8vbmV3cy5jZ3RuLmNvbS9uZXdzLzIwMjAtMDYtMDcvWmhvbmctTmFuc2hhbi1DT1ZJRC0xOS12YWNjaW5lLWNvdWxkLWJlLWF2YWlsYWJsZS10aGlzLWZhbGwtUjg3NkwxOUVlay9pbmRleC5odG1s0gF7aHR0cHM6Ly9uZXdzLmNndG4uY29tL25ld3MvMjAyMC0wNi0wNy9aaG9uZy1OYW5zaGFuLUNPVklELTE5LXZhY2NpbmUtY291bGQtYmUtYXZhaWxhYmxlLXRoaXMtZmFsbC1SODc2TDE5RWVrL3NoYXJlX2FtcC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global coronavirus death toll passes 400,000",
-        "link": "https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZ2xvYmFsLWNvcm9uYXZpcnVzLWRlYXRoLXRvbGwtcGFzc2VzLTA5NTMxMTkwOC5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global coronavirus death toll tops 400,000 as protesters continue to defy lockdowns",
+        "link": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvZ2xvYmFsLWNvcm9uYXZpcnVzLWRlYXRoLXRvbGwtdG9wcy00MDAtMDAwLXByb3Rlc3RlcnMtY29udGludWUtZGVmeS1uMTIyNjk1MdIBLGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL25jbmExMjI2OTUx?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
-        "link": "https://news.google.com/articles/CCAiC3RqOF8zYzBjaDlrmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Brazil takes down months of Covid-19 data, hiding toll as deaths soar",
+        "link": "https://news.google.com/articles/CCAiC3B5ZDRFZVJ5RzZvmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Almost half the world is living through this pandemic without the internet",
         "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: WHO advises to wear masks in public areas",
-        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NDUyMTDSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk0NTIxMA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
