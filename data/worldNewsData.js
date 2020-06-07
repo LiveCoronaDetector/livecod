@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUw98bPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "China says its coronavirus vaccine is 'a global public good' - Business Insider",
-        "link": "https://news.google.com/articles/CAIiEPj0ILN0K2rKi6t6V-qOZ6YqLQgEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJD-CQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Scott: China trying to sabotage, slow COVID-19 vaccine development | TheHill",
+        "link": "https://news.google.com/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzUwMTU0OC1zY290dC1jaGluYS10cnlpbmctdG8tc2Fib3RhZ2Utc2xvdy1jb3ZpZC0xOS12YWNjaW5lLWRldmVsb3BtZW500gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNTAxNTQ4LXNjb3R0LWNoaW5hLXRyeWluZy10by1zYWJvdGFnZS1zbG93LWNvdmlkLTE5LXZhY2NpbmUtZGV2ZWxvcG1lbnQ_YW1w?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Are we underestimating how many people are resistant to Covid-19?",
-        "link": "https://news.google.com/articles/CAIiEFM049UtoQ-ga9XPdRPn7CcqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Antigen tests for Covid-19 are fast and easy – and could solve the testing problem",
+        "link": "https://news.google.com/articles/CAIiEJayFK7YKQNxk8A9mEok_w8qGQgEKhAIACoHCAowvfmRCzCeoqcDMNOwuwY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
