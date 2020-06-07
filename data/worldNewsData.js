@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live Coronavirus Updates: News and Analysis",
-        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Against coronavirus, Pakistan turns to a traditional remedy: Blame Ahmadis and Jews",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzUwMTU0OC1zY290dC1jaGluYS10cnlpbmctdG8tc2Fib3RhZ2Utc2xvdy1jb3ZpZC0xOS12YWNjaW5lLWRldmVsb3BtZW500gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNTAxNTQ4LXNjb3R0LWNoaW5hLXRyeWluZy10by1zYWJvdGFnZS1zbG93LWNvdmlkLTE5LXZhY2NpbmUtZGV2ZWxvcG1lbnQ_YW1w?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://news.google.com/articles/CAIiEEoCa38nAKkkiCyAQZQfY-MqFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
         "link": "https://news.google.com/articles/CCAiC3RqOF8zYzBjaDlrmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Live Coronavirus News Updates",
+        "link": "https://news.google.com/articles/CAIiEEoCa38nAKkkiCyAQZQfY-MqFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Almost half the world is living through this pandemic without the internet",
