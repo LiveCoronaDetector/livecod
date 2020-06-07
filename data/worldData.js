@@ -561,6 +561,14 @@ var marker = [
         "완치자수": 2512
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 4181,
+        "사망자수": 17,
+        "완치자수": 3268
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -575,14 +583,6 @@ var marker = [
         "확진자수": 4117,
         "사망자수": 23,
         "완치자수": 2857
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 4094,
-        "사망자수": 17,
-        "완치자수": 3268
     },
     {
         "Name": "룩셈부르크",
@@ -849,6 +849,14 @@ var marker = [
         "완치자수": 768
     },
     {
+        "Name": "South Sudan",
+        "Name_ch": "",
+        "Name_en": "South Sudan",
+        "확진자수": 1317,
+        "사망자수": 14,
+        "완치자수": 6
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
@@ -927,14 +935,6 @@ var marker = [
         "확진자수": 1026,
         "사망자수": 8,
         "완치자수": 212
-    },
-    {
-        "Name": "South Sudan",
-        "Name_ch": "",
-        "Name_en": "South Sudan",
-        "확진자수": 994,
-        "사망자수": 10,
-        "완치자수": 6
     },
     {
         "Name": "Niger",

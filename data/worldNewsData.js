@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus Live Updates: New Cases Are Increasing in U.S.",
-        "link": "https://news.google.com/articles/CAIiECcJz3MNYQzx_JASqLWDiIMqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiECcJz3MNYQzx_JASqLWDiIMqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDcvb3RoZXJfc3BvcnRzLzE1OTE0ODUzNzVfNTU5MDQyLmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA3L290aGVyX3Nwb3J0cy8xNTkxNDg1Mzc1XzU1OTA0Mi5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global report: India's Covid-19 case total surpasses Italy's",
+        "link": "https://news.google.com/articles/CAIiEHqb8eA4ZJWZHwXm8TFSVx8qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Japan's Coronavirus Numbers Are Low. Are Masks the Reason?",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEC6cijP6ta8OG9BsTU4kGJUqFwgEKg8IACoHCAow-ZzLBzD77Ecwm8B5?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global coronavirus death toll nears 400,000: live updates",
-        "link": "https://news.google.com/articles/CAIiEFYk8sricYhxcYgCkPObCEMqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
+        "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "London protesters clash with police as thousands around world defy coronavirus bans to demonstrate",
-        "link": "https://news.google.com/articles/CAIiEJ1lEQWGwgEop_1v-DnVL4YqGQgEKhAIACoHCAowvIaCCzDnxf4CMN2F8gU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
