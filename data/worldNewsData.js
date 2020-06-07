@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA3LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wNy0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Bolsonaro threatens to sever ties with WHO as COVID-19 kills 'a Brazilian per minute'",
-        "link": "https://news.google.com/articles/CCAiC25mVXo0aEVqc3kwmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
+        "link": "https://news.google.com/articles/CCAiC3RqOF8zYzBjaDlrmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Confirmed coronavirus cases are rising faster than ever",
-        "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus 'a devastating blow for world economy'",
+        "link": "https://news.google.com/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy01MjkzOTg0NtIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvYnVzaW5lc3MtNTI5Mzk4NDY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "What the coronavirus pandemic looks like when you don't have the internet",
+        "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
