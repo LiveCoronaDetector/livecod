@@ -6,11 +6,11 @@ var worldNewsData = [
     },
     {
         "title": "Live Coronavirus Updates: News and Analysis",
-        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
-        "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Against coronavirus, Pakistan turns to a traditional remedy: Blame Ahmadis and Jews",
+        "link": "https://news.google.com/articles/CAIiEGupiOqt-SaaPDjUzXg1SogqMwgEKioIACIQo8MlfRp19vXTQjuzX4teDSoUCAoiEKPDJX0adfb100I7s1-LXg0w4ZfOBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus Depletes the Keepers of Europe’s Memory",
@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "White paper presser: China is racing to develop COVID-19 vaccines",
-        "link": "https://news.google.com/articles/CCAiC3ozd29IczE3NEV3mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Fauci: China 'did a disservice' by withholding coronavirus info",
+        "link": "https://news.google.com/articles/CAIiENT94ib_Dpg5OxBIBR-JC2cqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
-        "link": "https://news.google.com/articles/CCAiC3RqOF8zYzBjaDlrmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
+        "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "F.D.A. Says Some Masks Made in China Shouldn’t Be Reused",
+        "link": "https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMDYvMDcvc2NpZW5jZS9tYXNrcy1jaGluYS1jb3JvbmF2aXJ1cy5odG1s0gFLaHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMC8wNi8wNy9zY2llbmNlL21hc2tzLWNoaW5hLWNvcm9uYXZpcnVzLmFtcC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Almost half the world is living through this pandemic without the internet",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Global COVID-19 Deaths Surpass 400,000 : Coronavirus Live Updates",
-        "link": "https://news.google.com/articles/CAIiEMlru0jQVmQYOnVMKiPGICgqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
