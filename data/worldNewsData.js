@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Bolsonaro threatens to sever ties with WHO as COVID-19 kills 'a Brazilian per minute'",
-        "link": "https://news.google.com/articles/CCAiC25mVXo0aEVqc3kwmAEB?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Breakthrough close on coronavirus antibody therapy: reports",
-        "link": "https://news.google.com/articles/CAIiEMvdn_pYC7sDFKizM7aDNtwqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global report: Bolsonaro hides Brazil's coronavirus death toll and case totals",
+        "link": "https://news.google.com/articles/CAIiEJgQZ4obzF2WEl2FqVLA5VUqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "London protesters clash with police as thousands around world defy coronavirus bans to demonstrate",
+        "link": "https://news.google.com/articles/CAIiEJ1lEQWGwgEop_1v-DnVL4YqGQgEKhAIACoHCAowvIaCCzDnxf4CMN2F8gU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
