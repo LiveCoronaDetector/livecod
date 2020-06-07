@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEMQjwS9Ou8oVNKgy4jmBTNwqGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Live Updates: New Cases Are Increasing in U.S.",
-        "link": "https://news.google.com/articles/CAIiECcJz3MNYQzx_JASqLWDiIMqFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
+        "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "Bolsonaro threatens to sever ties with WHO as COVID-19 kills 'a Brazilian per minute'",
+        "link": "https://news.google.com/articles/CCAiC25mVXo0aEVqc3kwmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "Confirmed coronavirus cases are rising faster than ever",
         "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global coronavirus death toll nears 400,000: live updates",
-        "link": "https://news.google.com/articles/CAIiEFYk8sricYhxcYgCkPObCEMqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus: Wear mask in public, WHO's new advice",
-        "link": "https://news.google.com/articles/CAIiEC6cijP6ta8OG9BsTU4kGJUqGAgEKg8IACoHCAow-ZzLBzD77Ecwk4TKBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "London protesters clash with police as thousands around world defy coronavirus bans to demonstrate",
+        "link": "https://news.google.com/articles/CAIiEJ1lEQWGwgEop_1v-DnVL4YqGQgEKhAIACoHCAowvIaCCzDnxf4CMN2F8gU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
