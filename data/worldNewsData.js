@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus Depletes the Keepers of Europe’s Memory",
+        "link": "https://news.google.com/articles/CAIiELTBdw0muPOc7Knr6YbOLVUqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "More than 2,36600 COVID-19 cases in India | Coronavirus Outbreak",
-        "link": "https://news.google.com/articles/CCAiC3pUcGRVUHZRT0p3mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: India overtakes Italy in cases amid easing of lockdown",
+        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTQ2NTA4?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Japan's Coronavirus Numbers Are Low. Are Masks the Reason?",
         "link": "https://news.google.com/articles/CAIiEBs9fc-tN6PW1n2Gzx3ibbsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "Bolsonaro threatens to sever ties with WHO as COVID-19 kills 'a Brazilian per minute'",
+        "link": "https://news.google.com/articles/CCAiC25mVXo0aEVqc3kwmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA3LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wNy0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Confirmed coronavirus cases are rising faster than ever",
-        "link": "https://news.google.com/articles/CAIiEKB-CXLqgg9j5wiaJHs87JYqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Global report: Bolsonaro hides Brazil's coronavirus death toll and case totals",
-        "link": "https://news.google.com/articles/CAIiEJgQZ4obzF2WEl2FqVLA5VUqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "London protesters clash with police as thousands around world defy coronavirus bans to demonstrate",
-        "link": "https://news.google.com/articles/CAIiEJ1lEQWGwgEop_1v-DnVL4YqGQgEKhAIACoHCAowvIaCCzDnxf4CMN2F8gU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Breakthrough close on coronavirus antibody therapy: reports",
+        "link": "https://news.google.com/articles/CAIiEMvdn_pYC7sDFKizM7aDNtwqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
