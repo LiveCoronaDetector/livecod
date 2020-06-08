@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus News: Live Updates",
-        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Against coronavirus, Pakistan turns to a traditional remedy: Blame Ahmadis and Jews",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3LndidXIub3JnL2NvbW1vbmhlYWx0aC8yMDIwLzA2LzA3L2ZkYS1uOTUtbWFza3Mtbm90LWJlLXJldXNlZNIBSGh0dHBzOi8vYW1wLndidXIub3JnL2NvbW1vbmhlYWx0aC8yMDIwLzA2LzA3L2ZkYS1uOTUtbWFza3Mtbm90LWJlLXJldXNlZA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
-        "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Global COVID-19 Deaths Surpass 400,000 : Coronavirus Live Updates",
         "link": "https://news.google.com/articles/CAIiEMlru0jQVmQYOnVMKiPGICgqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Almost half the world is living through this pandemic without the internet",
         "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
