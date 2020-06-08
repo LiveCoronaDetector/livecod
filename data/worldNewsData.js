@@ -26,18 +26,18 @@ var worldNewsData = [
     },
     {
         "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
-        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "De Blasio: NYC to cut NYPD funding, shift it to social services",
-        "link": "https://news.google.com/articles/CAIiEBtw_gpKazppFGzx2WGcHNQqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "The United States economy officially entered a recession in February",
         "link": "https://news.google.com/articles/CAIiEA2AijhZx65-mfsPFu1zQfgqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "WHO says pandemic 'far from over' as daily cases hit record high",
+        "link": "https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9hcnRpY2xlL3VzLWhlYWx0aC1jb3JvbmF2aXJ1cy13aG8vd2hvLXNheXMtcGFuZGVtaWMtZmFyLWZyb20tb3Zlci1hcy1kYWlseS1jYXNlcy1oaXQtcmVjb3JkLWhpZ2gtaWRVU0tCTjIzRjIzRdIBNGh0dHBzOi8vbW9iaWxlLnJldXRlcnMuY29tL2FydGljbGUvYW1wL2lkVVNLQk4yM0YyM0U?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
