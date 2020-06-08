@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500014&wlog_tag3=naver"
     },
     {
-        "title": "천안 109번 코로나 확진자 이용한 버스 승객 67명 음성",
-        "link": "https://www.nocutnews.co.kr/news/5357254"
+        "title": "[속보] 코로나 가리봉으로 번지나, 중국동포 쉼터 8명 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/08/2020060802344.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
