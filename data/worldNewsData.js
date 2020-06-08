@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "Live Coronavirus Updates: New York Reopens",
+        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The US economy is officially in recession",
-        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy91cy1lY29ub215LW9mZmljaWFsbHktaW4tcmVjZXNzaW9uLW5iZXItMTY1MjI2MTM5Lmh0bWzSAV1odHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy91cy1lY29ub215LW9mZmljaWFsbHktaW4tcmVjZXNzaW9uLW5iZXItMTY1MjI2MTM5Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "With no active Covid-19 cases, New Zealand is lifting almost all its coronavirus restrictions",
-        "link": "https://news.google.com/articles/CAIiECDrgSoPGLeZTyr1ry9mU24qGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://news.google.com/articles/CAIiEJ0hs1L6HrvPIppTwP4W6xcqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
