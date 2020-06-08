@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEPvtJgZHCQUs3Fr5IgjACAcqFAgEKg0IACoGCAowm_EEMKAiMItb?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA4LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wOC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
+        "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: Global cases top 7 million; Italy sees economy contracting 8.3% in 2020",
-        "link": "https://news.google.com/articles/CAIiEPEv2xBHZSKW1S7VG1PTJr0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Germany's economy had its 'worst month ever' at the height of lockdown",
+        "link": "https://news.google.com/articles/CAIiEAZ9tiKDkWQ7uMgameiaQ40qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "India coronavirus: Patients stranded as Delhi struggles with Covid",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "China's economic recovery could be 'very impressive' — but the U.S. stands in the way, Deutsche Bank says",
         "link": "https://news.google.com/articles/CAIiEBEUYKiWXOLqUbjsVJSFs60qGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Worldwide Coronavirus Death Toll Passes 400000 | Sunday TODAY",
-        "link": "https://news.google.com/articles/CCAiC1RacFlMWUlZam53mAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live news: New Zealand 'Covid-19 free' as UK travel quarantine rules begin",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Almost half the world is living through this pandemic without the internet",
+        "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
