@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDgvb3RoZXJfc3BvcnRzLzE1OTE2MDA1MjlfNTA4MDEzLmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA4L290aGVyX3Nwb3J0cy8xNTkxNjAwNTI5XzUwODAxMy5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Brazil Is in Coronavirus Free Fall",
-        "link": "https://news.google.com/articles/CAIiEMpsOhvongr9VeHPSoa2LOQqGAgEKg8IACoHCAowjuuKAzCWrzwworyzBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Furious Backlash in Brazil After Coronavirus Data Withheld by Ministry",
+        "link": "https://news.google.com/articles/CAIiEFtbiFxbw1PVplsW1GMt5zAqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Netanyahu: ‘We decided to hit the emergency brake’ as corona cases spike",
@@ -26,18 +26,18 @@ var worldNewsData = [
     },
     {
         "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
-        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "De Blasio: NYC to cut NYPD funding, shift it to social services",
         "link": "https://news.google.com/articles/CAIiEBtw_gpKazppFGzx2WGcHNQqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Worldwide Coronavirus Death Toll Passes 400000 | Sunday TODAY",
-        "link": "https://news.google.com/articles/CCAiC1RacFlMWUlZam53mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "The US economy is officially in recession",
+        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy91cy1lY29ub215LW9mZmljaWFsbHktaW4tcmVjZXNzaW9uLW5iZXItMTY1MjI2MTM5Lmh0bWzSAV1odHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy91cy1lY29ub215LW9mZmljaWFsbHktaW4tcmVjZXNzaW9uLW5iZXItMTY1MjI2MTM5Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
