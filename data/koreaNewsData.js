@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200608052452530?did=1195m"
     },
     {
-        "title": "서울 가리봉동 '중국동포 쉼터'서 확진자 8명 나왔다",
-        "link": "https://www.hankyung.com/life/article/2020060830867"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 38명···지역발생 33명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006081026001&code=940601"
-    },
-    {
         "title": "서울 확진자 1천명 돌파…中동포교회쉼터 무더기 감염(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052212&cID=10201&pID=10200"
     },
     {
-        "title": "[단독] 코로나로 멈춰선 韓 외교혈맥 이달 다시 뚫린다",
-        "link": "https://www.sedaily.com/NewsView/1Z3Y4SN85B"
-    },
-    {
-        "title": "코로나19 집단감염 완치자 21명 혈장 기증",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/948406.html"
-    },
-    {
-        "title": "인천 '거짓말' 학원강사 코로나 완치 후 재입원…경찰 조사 예정",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/08/2020060801897.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "충남 홍성·아산 코로나19 확진자 1명씩 추가 발생",
+        "link": "http://www.hani.co.kr/arti/area/chungcheong/948426.html"
     },
     {
         "title": "확진자 롯데월드 방문때 증상있어…800명 전수검사(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03968806625799752"
     },
     {
+        "title": "인천 '거짓말' 학원강사 코로나 완치 후 재입원…경찰 조사 예정",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/08/2020060801897.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "서울 구로구 중국동포쉼터서 확진자 8명 발생",
         "link": "https://www.donga.com/news/article/all/20200608/101413638/1"
+    },
+    {
+        "title": "코로나19 집단감염 완치자 21명 혈장 기증",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/948406.html"
+    },
+    {
+        "title": "[단독] 코로나로 멈춰선 韓 외교혈맥 이달 다시 뚫린다",
+        "link": "https://www.sedaily.com/NewsView/1Z3Y4SN85B"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 38명···지역발생 33명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006081026001&code=940601"
     }
 ];
