@@ -17,8 +17,16 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052212&cID=10201&pID=10200"
     },
     {
+        "title": "\"딸 앞에서 춤 췄다\" 뉴질랜드 총리 '코로나 0' 곧 종식선언",
+        "link": "https://news.joins.com/article/olink/23391078"
+    },
+    {
         "title": "[단독] 코로나로 멈춰선 韓 외교혈맥 이달 다시 뚫린다",
         "link": "https://www.sedaily.com/NewsView/1Z3Y4SN85B"
+    },
+    {
+        "title": "확진자 롯데월드 방문때 증상있어…800명 전수검사(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03968806625799752"
     },
     {
         "title": "코로나19 집단감염 완치자 21명 혈장 기증",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/08/2020060801897.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독] 코로나 수도권 집단감염 여파…'여행주간' 연기 논의",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03093046625799752"
-    },
-    {
         "title": "서울 구로구 중국동포쉼터서 확진자 8명 발생",
         "link": "https://www.donga.com/news/article/all/20200608/101413638/1"
-    },
-    {
-        "title": "서울시 탁구장 운영 자제 권고…코로나19 확진자 서울 997명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5802455_32633.html"
     }
 ];
