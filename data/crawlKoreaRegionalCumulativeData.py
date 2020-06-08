@@ -40,10 +40,10 @@ def run():
     deaths_total_data = get_raw_data(deaths_CSV_URL)
     recovered_total_data = get_raw_data(recovered_CSV_URL)
 
-    korea_deaths = extract_data(confirmed_total_data)
+    korea_confirmed = extract_data(confirmed_total_data)
     korea_recovered = extract_data(recovered_total_data)
-    korea_confirmed, date = extract_data(deaths_total_data, return_dates=True)
-    korea_data = list(zip(date, korea_confirmed, korea_deaths, korea_recovered))
+    korea_deaths, date = extract_data(deaths_total_data, return_dates=True)
+    korea_data = list(zip(date, korea_deaths, korea_confirmed, korea_recovered))
 
     result = build_result(korea_data)
 

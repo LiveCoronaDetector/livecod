@@ -1732,8 +1732,8 @@
       // 국내, 해외 뉴스 관련 스크립트
       function createNews(newsData, newsDiv, sliceValue) {
         newsData.forEach(news => {
-          console.log(news['title']);
-          console.log(news['title'].substring( 0, sliceValue ) + '...');
+          // console.log(news['title']);
+          // console.log(news['title'].substring( 0, sliceValue ) + '...');
           var cardElement = document.createElement('div');
           cardElement.setAttribute('class', 'card');
 
@@ -1788,6 +1788,7 @@
     <script src="js/chart/top15Countries.js"></script>
     <script src="js/chart/chart-bar.js"></script>
     <script src="js/chart/chart-pie.js"></script>
+    <script src="js/chart/top15Countries_graph.js"></script>
     <!-- Page level plugins -->
     <script src="vendor/datatables/jquery.dataTables.min.js"></script>
     <script src="vendor/datatables/dataTables.bootstrap4.min.js"></script>
@@ -1894,9 +1895,6 @@
     <script src="simulator/80per_stop_script_2times.js"></script>
     <script src="simulator/80per_stop_script_3times.js"></script>
     <script src="simulator/60per_stop_script_2times.js"></script>
-    <script src="simulator/60per_stop_script_3times.js"></script>
-    <!-- 존스홉킨스 전세계 누적데이터 -->
-    <!-- <script src="data/HopkinsCoronaWorldData.js"></script> -->
-    <script src="js/chart/top15Countries_graph.js"></script>
+    <script src="simulator/60per_stop_script_3times.js"></script?
   </body>
 </html>
