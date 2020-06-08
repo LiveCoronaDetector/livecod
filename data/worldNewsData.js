@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "De Blasio: NYC to cut NYPD funding, shift it to social services",
-        "link": "https://news.google.com/articles/CAIiEBtw_gpKazppFGzx2WGcHNQqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The United States economy officially entered a recession in February",
-        "link": "https://news.google.com/articles/CAIiEA2AijhZx65-mfsPFu1zQfgqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "The US economy is officially in recession",
+        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy91cy1lY29ub215LW9mZmljaWFsbHktaW4tcmVjZXNzaW9uLW5iZXItMTY1MjI2MTM5Lmh0bWzSAV1odHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy91cy1lY29ub215LW9mZmljaWFsbHktaW4tcmVjZXNzaW9uLW5iZXItMTY1MjI2MTM5Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "With no active Covid-19 cases, New Zealand is lifting almost all its coronavirus restrictions",
+        "link": "https://news.google.com/articles/CAIiECDrgSoPGLeZTyr1ry9mU24qGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
