@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "New York City enters phase one of reopening",
-        "link": "https://news.google.com/articles/CCAiC3VQa3JkZ1FTZnZJmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "De Blasio: NYC to cut NYPD funding, shift it to social services",
+        "link": "https://news.google.com/articles/CAIiEBtw_gpKazppFGzx2WGcHNQqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "China's exports drop in May as coronavirus pandemic hits",
-        "link": "https://news.google.com/articles/CCAiC0RXOHpQaTU0NERzmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "The United States economy officially entered a recession in February",
+        "link": "https://news.google.com/articles/CAIiEA2AijhZx65-mfsPFu1zQfgqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "With no active Covid-19 cases, New Zealand is lifting almost all its coronavirus restrictions",
