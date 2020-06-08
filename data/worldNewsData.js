@@ -13,16 +13,24 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: Global cases top 7 million; Italy sees economy contracting 8.3% in 2020",
-        "link": "https://news.google.com/articles/CAIiEPEv2xBHZSKW1S7VG1PTJr0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Germany's economy had its 'worst month ever' at the height of lockdown",
+        "link": "https://news.google.com/articles/CAIiEAZ9tiKDkWQ7uMgameiaQ40qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "‘Worse Than a War Zone’: Covid-19 Batters India’s Mumbai City",
-        "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "India coronavirus: Patients stranded as Delhi struggles with Covid",
+        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTYxNTg50gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTYxNTg5?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "China's economic recovery could be 'very impressive' — but the U.S. stands in the way, Deutsche Bank says",
         "link": "https://news.google.com/articles/CAIiEBEUYKiWXOLqUbjsVJSFs60qGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus live news: New Zealand 'Covid-19 free' as UK travel quarantine rules begin",
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
+        "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
@@ -31,13 +39,5 @@ var worldNewsData = [
     {
         "title": "Almost half the world is living through this pandemic without the internet",
         "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Global COVID-19 Deaths Surpass 400,000 : Coronavirus Live Updates",
-        "link": "https://news.google.com/articles/CAIiEMlru0jQVmQYOnVMKiPGICgqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "New Zealand drops Covid-19 restrictions after nation declared 'virus-free'",
-        "link": "https://news.google.com/articles/CAIiEHIH4iZPP5LTfX-8iN_rhXQqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
