@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus News: Live Updates",
-        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Against coronavirus, Pakistan turns to a traditional remedy: Blame Ahmadis and Jews",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "US sues Chinese firm for selling 'fake' N95 face masks | Coronavirus Outbreak",
-        "link": "https://news.google.com/articles/CCAiCzZnT1YyemQybFE0mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Scott: China trying to sabotage, slow COVID-19 vaccine development | TheHill",
+        "link": "https://news.google.com/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzUwMTU0OC1zY290dC1jaGluYS10cnlpbmctdG8tc2Fib3RhZ2Utc2xvdy1jb3ZpZC0xOS12YWNjaW5lLWRldmVsb3BtZW500gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNTAxNTQ4LXNjb3R0LWNoaW5hLXRyeWluZy10by1zYWJvdGFnZS1zbG93LWNvdmlkLTE5LXZhY2NpbmUtZGV2ZWxvcG1lbnQ_YW1w?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "FDA Reverses, Says Some N95 Medical Masks From China Should Not Be Reused",

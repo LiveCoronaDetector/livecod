@@ -13,22 +13,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200607037851030?did=1195m"
     },
     {
-        "title": "롯데월드, 지난 5일 '코로나 확진자' 방문…영업 조기종료",
-        "link": "http://www.etnews.com/20200607000042"
-    },
-    {
-        "title": "코로나19 신규 확진자 57명…이틀째 50명대 급증",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070025&t=NN"
-    },
-    {
-        "title": "로이터 “전세계 코로나19 확진자 700만 명…사망은 40만 명”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4464541&ref=A"
-    },
-    {
-        "title": "오늘 4차 등교…코로나 속 99일 만에 '전 학년 등교'",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005824382&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "재개 앞둔 英 2부리그, 코로나19 확진자 추가 발생",
         "link": "https://www.nocutnews.co.kr/news/5357025"
     },
@@ -37,7 +21,23 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001051066&cID=14001&pID=14000"
     },
     {
-        "title": "‘확진자 9시간 머물렀다’…롯데월드, 7일 영업 조기 종료",
-        "link": "https://www.donga.com/news/article/all/20200607/101398487/2"
+        "title": "롯데월드 방문 확진자…정부 “진단검사보다 거리두기 중요”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500014&wlog_tag3=naver"
+    },
+    {
+        "title": "롯데월드 다녀간 원묵고 3학년, 재검에서 나온 깜깜이 확진자",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014664321&code=61121211&cp=nv"
+    },
+    {
+        "title": "오늘 4차 등교…코로나 속 99일 만에 '전 학년 등교'",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005824382&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "롯데월드, 지난 5일 '코로나 확진자' 방문…영업 조기종료",
+        "link": "http://www.etnews.com/20200607000042"
+    },
+    {
+        "title": "코로나19 신규 확진자 57명…이틀째 50명대 급증",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006070025&t=NN"
     }
 ];
