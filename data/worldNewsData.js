@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEPEv2xBHZSKW1S7VG1PTJr0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "India coronavirus: Patients stranded as Delhi struggles with Covid",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTYxNTg50gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTYxNTg5?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "India Reopens Public Places Even As Coronavirus Cases Rise",
+        "link": "https://news.google.com/articles/CAIiEOqKue5qU1dz3_xK3XlcwV8qFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "China's economic recovery could be 'very impressive' — but the U.S. stands in the way, Deutsche Bank says",
         "link": "https://news.google.com/articles/CAIiEBEUYKiWXOLqUbjsVJSFs60qGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live Coronavirus Updates: Bailed-Out Hospitals Laid Off Staff",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live news: New Zealand 'Covid-19 free' as UK travel quarantine rules begin",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "With no active Covid-19 cases, New Zealand is lifting almost all its coronavirus restrictions",
         "link": "https://news.google.com/articles/CAIiECDrgSoPGLeZTyr1ry9mU24qGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
-        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global report: China hails coronavirus response as world death toll tops 400,000",
+        "link": "https://news.google.com/articles/CAIiEAUThuY-pL3_TTTEPx2LR-8qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
