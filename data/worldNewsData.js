@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMieGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9zYXRlbGxpdGUtZGF0YS1zdWdnZXN0cy1jb3JvbmF2aXJ1cy1oaXQtY2hpbmEtZWFybGllci1yZXNlYXJjaGVycy9zdG9yeT9pZD03MTEyMzI3MNIBfGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0ludGVybmF0aW9uYWwvc2F0ZWxsaXRlLWRhdGEtc3VnZ2VzdHMtY29yb25hdmlydXMtaGl0LWNoaW5hLWVhcmxpZXItcmVzZWFyY2hlcnMvc3Rvcnk_aWQ9NzExMjMyNzA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "De Blasio: NYC to cut NYPD funding, shift it to social services",
-        "link": "https://news.google.com/articles/CAIiEBtw_gpKazppFGzx2WGcHNQqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "China's exports drop in May as coronavirus pandemic hits",
         "link": "https://news.google.com/articles/CCAiC0RXOHpQaTU0NERzmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://news.google.com/articles/CAIiEJ0hs1L6HrvPIppTwP4W6xcqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
         "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://news.google.com/articles/CAIiEJ0hs1L6HrvPIppTwP4W6xcqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "With no active Covid-19 cases, New Zealand is lifting almost all its coronavirus restrictions",
+        "link": "https://news.google.com/articles/CAIiECDrgSoPGLeZTyr1ry9mU24qGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
