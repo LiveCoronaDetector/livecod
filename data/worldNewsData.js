@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEMpsOhvongr9VeHPSoa2LOQqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
-        "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Pakistan COVID-19 infections pass 100,000",
+        "link": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIwLzA2L3Bha2lzdGFuLWNvdmlkLTE5LWluZmVjdGlvbnMtcGFzcy0xMDAtMDAwLTIwMDYwODEwMTMzNjgyNC5odG1s0gFpaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIwLzA2L3Bha2lzdGFuLWNvdmlkLTE5LWluZmVjdGlvbnMtcGFzcy0xMDAtMDAwLTIwMDYwODEwMTMzNjgyNC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Global coronavirus cases top 7 million; Italy sees economy contracting 8.3% in 2020",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMieGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9zYXRlbGxpdGUtZGF0YS1zdWdnZXN0cy1jb3JvbmF2aXJ1cy1oaXQtY2hpbmEtZWFybGllci1yZXNlYXJjaGVycy9zdG9yeT9pZD03MTEyMzI3MNIBfGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0ludGVybmF0aW9uYWwvc2F0ZWxsaXRlLWRhdGEtc3VnZ2VzdHMtY29yb25hdmlydXMtaGl0LWNoaW5hLWVhcmxpZXItcmVzZWFyY2hlcnMvc3Rvcnk_aWQ9NzExMjMyNzA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "New York City Begins Reopening Monday After Weeks Of Coronavirus Lockdown | NBC Nightly News",
-        "link": "https://news.google.com/articles/CCAiC19kdlYtYjlhOE9vmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
+        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://news.google.com/articles/CAIiEJ0hs1L6HrvPIppTwP4W6xcqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "New York City enters phase one of reopening",
+        "link": "https://news.google.com/articles/CCAiC3VQa3JkZ1FTZnZJmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "China's exports drop in May as coronavirus pandemic hits",
