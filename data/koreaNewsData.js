@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006081026001&code=940601"
     },
     {
+        "title": "천안 109번 코로나 확진자 이용한 버스 승객 67명 음성",
+        "link": "https://www.nocutnews.co.kr/news/5357254"
+    },
+    {
         "title": "코로나 확진 38명…지역발생 33명 전원 수도권(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/08/2020060801093.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "\"저 거기 갔었어요\" 고3 확진자에게 온 전화, 롯데월드 문닫았다",
         "link": "https://news.joins.com/article/olink/23390276"
-    },
-    {
-        "title": "코로나19 신규 확진자 38명 늘어…지역 발생은 모두 ‘수도권’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4465067&ref=A"
     },
     {
         "title": "코로나19 어제 38명 확진…지역발생 33명",
