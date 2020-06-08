@@ -4,16 +4,16 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2006967,
-        "사망자수": 112466,
-        "완치자수": 758170
+        "확진자수": 2007232,
+        "사망자수": 112469,
+        "완치자수": 758512
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 690309,
-        "사망자수": 36411,
+        "확진자수": 691962,
+        "사망자수": 36499,
         "완치자수": 302084
     },
     {
@@ -292,8 +292,8 @@ var marker = [
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "확진자수": 22020,
-        "사망자수": 656,
+        "확진자수": 22794,
+        "사망자수": 664,
         "완치자수": 6909
     },
     {
@@ -990,7 +990,7 @@ var marker = [
         "Name_en": "Uruguay",
         "확진자수": 845,
         "사망자수": 23,
-        "완치자수": 726
+        "완치자수": 730
     },
     {
         "Name": "Chad",
@@ -1220,9 +1220,9 @@ var marker = [
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "확진자수": 279,
+        "확진자수": 282,
         "사망자수": 4,
-        "완치자수": 33
+        "완치자수": 34
     },
     {
         "Name": "Benin",
@@ -1481,6 +1481,14 @@ var marker = [
         "완치자수": 16
     },
     {
+        "Name": "St. Vincent Grenadines",
+        "Name_ch": "",
+        "Name_en": "St. Vincent Grenadines",
+        "확진자수": 27,
+        "사망자수": 0,
+        "완치자수": 16
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
@@ -1495,14 +1503,6 @@ var marker = [
         "확진자수": 26,
         "사망자수": 1,
         "완치자수": 21
-    },
-    {
-        "Name": "St. Vincent Grenadines",
-        "Name_ch": "",
-        "Name_en": "St. Vincent Grenadines",
-        "확진자수": 26,
-        "사망자수": 0,
-        "완치자수": 15
     },
     {
         "Name": "Timor-Leste",
@@ -1534,7 +1534,7 @@ var marker = [
         "Name_en": "New Caledonia",
         "확진자수": 20,
         "사망자수": 0,
-        "완치자수": 18
+        "완치자수": 19
     },
     {
         "Name": "Belize",

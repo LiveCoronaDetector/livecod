@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEMQjwS9Ou8oVNKgy4jmBTNwqGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live Coronavirus Updates: News and Analysis",
-        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Against coronavirus, Pakistan turns to a traditional remedy: Blame Ahmadis and Jews",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Scott: China trying to sabotage, slow COVID-19 vaccine development | TheHill",
-        "link": "https://news.google.com/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzUwMTU0OC1zY290dC1jaGluYS10cnlpbmctdG8tc2Fib3RhZ2Utc2xvdy1jb3ZpZC0xOS12YWNjaW5lLWRldmVsb3BtZW500gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNTAxNTQ4LXNjb3R0LWNoaW5hLXRyeWluZy10by1zYWJvdGFnZS1zbG93LWNvdmlkLTE5LXZhY2NpbmUtZGV2ZWxvcG1lbnQ_YW1w?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "FDA Reverses, Says Some N95 Medical Masks From China Should Not Be Reused",
+        "link": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3LndidXIub3JnL2NvbW1vbmhlYWx0aC8yMDIwLzA2LzA3L2ZkYS1uOTUtbWFza3Mtbm90LWJlLXJldXNlZNIBSGh0dHBzOi8vYW1wLndidXIub3JnL2NvbW1vbmhlYWx0aC8yMDIwLzA2LzA3L2ZkYS1uOTUtbWFza3Mtbm90LWJlLXJldXNlZA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Farmers Get Billions in Virus Aid, and Democrats Are Wary",
-        "link": "https://news.google.com/articles/CAIiEN2Sxco0-qqhh9RAuh-ZMgQqFwgEKg8IACoHCAowjuuKAzCWrzww9oAY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "F.D.A. Says Some Masks Made in China Shouldn’t Be Reused",
+        "link": "https://news.google.com/articles/CAIiEJx-_CQacTDHOfB24xGdVw8qFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "US closes in on 110000 coronavirus deaths, begins to reopen",
         "link": "https://news.google.com/articles/CCAiC0syUk1Kc3U5SmtNmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
-        "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Almost half the world is living through this pandemic without the internet",

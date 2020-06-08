@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200607037851030?did=1195m"
     },
     {
-        "title": "롯데월드 코로나19 확진자 방문으로 조기 영업 종료",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5801701_32633.html"
-    },
-    {
         "title": "롯데월드, 지난 5일 '코로나 확진자' 방문…영업 조기종료",
         "link": "http://www.etnews.com/20200607000042"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464541&ref=A"
     },
     {
+        "title": "롯데월드 다녀간 원묵고 3학년, 재검에서 나온 깜깜이 확진자",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014664321&code=61121211&cp=nv"
+    },
+    {
+        "title": "오늘 4차 등교…코로나 속 99일 만에 '전 학년 등교'",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005824382&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "로이터 \"전세계 코로나19 확진자 700만명·사망 40만명 육박\"",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5801801_32640.html"
+    },
+    {
         "title": "文대통령 \"수도권 코로나 확진자 발생, 또다시 긴장…고비 이겨낼 것\"",
         "link": "https://view.asiae.co.kr/article/2020060717463542768"
-    },
-    {
-        "title": "전세계 코로나19 확진자 700만명 넘어섰다",
-        "link": "https://www.sedaily.com/NewsView/1Z3XOT48OI"
-    },
-    {
-        "title": "‘확진자 9시간 머물렀다’…롯데월드, 7일 영업 조기 종료",
-        "link": "https://www.donga.com/news/article/all/20200607/101398487/2"
     }
 ];
