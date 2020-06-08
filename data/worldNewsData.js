@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEHGxJKat34hfy-Jz_i3LFmIqFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Against coronavirus, Pakistan turns to a traditional remedy: Blame Ahmadis and Jews",
-        "link": "https://news.google.com/articles/CAIiEGupiOqt-SaaPDjUzXg1SogqMwgEKioIACIQo8MlfRp19vXTQjuzX4teDSoUCAoiEKPDJX0adfb100I7s1-LXg0w4ZfOBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
+        "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus Depletes the Keepers of Europe’s Memory",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzUwMTU0OC1zY290dC1jaGluYS10cnlpbmctdG8tc2Fib3RhZ2Utc2xvdy1jb3ZpZC0xOS12YWNjaW5lLWRldmVsb3BtZW500gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zZW5hdGUvNTAxNTQ4LXNjb3R0LWNoaW5hLXRyeWluZy10by1zYWJvdGFnZS1zbG93LWNvdmlkLTE5LXZhY2NpbmUtZGV2ZWxvcG1lbnQ_YW1w?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "FDA Reverses, Says Some N95 Medical Masks From China Should Not Be Reused",
-        "link": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3LndidXIub3JnL2NvbW1vbmhlYWx0aC8yMDIwLzA2LzA3L2ZkYS1uOTUtbWFza3Mtbm90LWJlLXJldXNlZNIBSGh0dHBzOi8vYW1wLndidXIub3JnL2NvbW1vbmhlYWx0aC8yMDIwLzA2LzA3L2ZkYS1uOTUtbWFza3Mtbm90LWJlLXJldXNlZA?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Global COVID-19 Deaths Surpass 400,000 : Coronavirus Live Updates",
-        "link": "https://news.google.com/articles/CAIiEMlru0jQVmQYOnVMKiPGICgqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Almost half the world is living through this pandemic without the internet",
         "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
         "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus live news: New Zealand declares it has no remaining cases of Covid-19",
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus: Hundreds of Polish infections linked to mine",
+        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNTI5NTczMDXSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWV1cm9wZS01Mjk1NzMwNQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
