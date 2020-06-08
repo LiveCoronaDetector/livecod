@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEFtbiFxbw1PVplsW1GMt5zAqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Netanyahu: ‘We decided to hit the emergency brake’ as corona cases spike",
+        "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
         "link": "https://news.google.com/articles/CAIiEM_nfzlwBuruiZ6fWdbl7s4qGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
@@ -26,18 +26,18 @@ var worldNewsData = [
     },
     {
         "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
-        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "257 Cases of COVID-19 Confirmed in Moore County as State Catches Up With Local Data",
+        "link": "https://news.google.com/articles/CBMipQFodHRwczovL3d3dy50aGVwaWxvdC5jb20vY29yb25hdmlydXMvMjU3LWNhc2VzLW9mLWNvdmlkLTE5LWNvbmZpcm1lZC1pbi1tb29yZS1jb3VudHktYXMtc3RhdGUtY2F0Y2hlcy11cC13aXRoLWxvY2FsL2FydGljbGVfNzUxYmUyNDQtYTljMS0xMWVhLWI4YTktYTdiY2NhNTRhZDI5Lmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Even In A Pandemic, WHO Believes That Public Protests Are Important",
+        "link": "https://news.google.com/articles/CAIiEO7av4M29cFP3pJpkO4FVHwqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
         "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "The United States economy officially entered a recession in February",
-        "link": "https://news.google.com/articles/CAIiEA2AijhZx65-mfsPFu1zQfgqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "WHO says pandemic 'far from over' as daily cases hit record high",
-        "link": "https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9hcnRpY2xlL3VzLWhlYWx0aC1jb3JvbmF2aXJ1cy13aG8vd2hvLXNheXMtcGFuZGVtaWMtZmFyLWZyb20tb3Zlci1hcy1kYWlseS1jYXNlcy1oaXQtcmVjb3JkLWhpZ2gtaWRVU0tCTjIzRjIzRdIBNGh0dHBzOi8vbW9iaWxlLnJldXRlcnMuY29tL2FydGljbGUvYW1wL2lkVVNLQk4yM0YyM0U?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
