@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: US-China virus row flares with senator's comments",
-        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NTQ2OTfSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk1NDY5Nw?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "China's economic recovery could be 'very impressive' — but the U.S. stands in the way, Deutsche Bank says",
+        "link": "https://news.google.com/articles/CAIiEBEUYKiWXOLqUbjsVJSFs60qGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Farmers Get Billions in Virus Aid, and Democrats Are Wary",
         "link": "https://news.google.com/articles/CAIiEN2Sxco0-qqhh9RAuh-ZMgQqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "June 7 coronavirus news",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA3LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wNy0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "Coronavirus live news: New Zealand 'Covid-19 free' as UK travel quarantine rules begin",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global COVID-19 Deaths Surpass 400,000 : Coronavirus Live Updates",
-        "link": "https://news.google.com/articles/CAIiEMlru0jQVmQYOnVMKiPGICgqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
-        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
+        "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
