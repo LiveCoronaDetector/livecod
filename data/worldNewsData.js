@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOdABXYyDq2bxakf3Uu_aK4qGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "China Denies Covid Cover-Up",
-        "link": "https://news.google.com/articles/CCAiC2haRVpIVWd2cWUwmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: US-China virus row flares with senator's comments",
+        "link": "https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNTI5NTQ2OTfSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL2hlYWx0aC01Mjk1NDY5Nw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Farmers Get Billions in Virus Aid, and Democrats Are Wary",
         "link": "https://news.google.com/articles/CAIiEN2Sxco0-qqhh9RAuh-ZMgQqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "US closes in on 110000 coronavirus deaths, begins to reopen",
+        "link": "https://news.google.com/articles/CCAiC0syUk1Kc3U5SmtNmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "Coronavirus live news: New Zealand 'Covid-19 free' as global cases pass 7 million",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
         "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Almost half the world is living through this pandemic without the internet",
-        "link": "https://news.google.com/articles/CAIiEP--BmzQn44_A_NVktqFR1IqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/07/2020060701510.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[단독]인천공항 코로나19 확진 첫 발생…\"탁구클럽 갔다\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200608_0001051066&cID=14001&pID=14000"
-    },
-    {
         "title": "오늘 4차 등교…코로나 속 99일 만에 '전 학년 등교'",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005824382&plink=ORI&cooper=NAVER"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02050006625799424"
     },
     {
+        "title": "[단독]인천공항 코로나19 확진 첫 발생…\"탁구클럽 갔다\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200608_0001051066&cID=14001&pID=14000"
+    },
+    {
         "title": "\"저 거기 갔었어요\" 고3 확진자에게 온 전화, 롯데월드 문닫았다",
         "link": "https://news.joins.com/article/olink/23390276"
     },
     {
-        "title": "롯데월드, 지난 5일 '코로나 확진자' 방문…영업 조기종료",
-        "link": "http://www.etnews.com/20200607000042"
+        "title": "롯데월드 방문 확진자…정부 “진단검사보다 거리두기 중요”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500014&wlog_tag3=naver"
     }
 ];

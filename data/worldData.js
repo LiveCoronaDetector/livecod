@@ -661,8 +661,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 3015,
-        "사망자수": 53,
-        "완치자수": 1305
+        "사망자수": 55,
+        "완치자수": 1342
     },
     {
         "Name": "그리스",
@@ -737,20 +737,20 @@ var marker = [
         "완치자수": 1523
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 2032,
+        "사망자수": 23,
+        "완치자수": 1445
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "확진자수": 2020,
         "사망자수": 27,
         "완치자수": 344
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 2007,
-        "사망자수": 22,
-        "완치자수": 1425
     },
     {
         "Name": "에스토니아",
