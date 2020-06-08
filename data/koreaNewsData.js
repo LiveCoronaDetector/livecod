@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200608052452530?did=1195m"
     },
     {
-        "title": "서울 확진자 1천명 넘었다…중국동포교회 쉼터서 8명 확진",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500187&wlog_tag3=naver"
-    },
-    {
         "title": "인천 '거짓말' 학원강사 코로나 완치 후 재입원…경찰 조사 예정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/08/2020060801897.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/948433.html"
     },
     {
-        "title": "[속보] 코로나 가리봉으로 번지나, 중국동포 쉼터 8명 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/08/2020060802344.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "롯데월드 방문 확진자…정부 “진단검사보다 거리두기 중요”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500014&wlog_tag3=naver"
+    },
+    {
+        "title": "천안 109번 코로나 확진자 이용한 버스 승객 67명 음성",
+        "link": "https://www.nocutnews.co.kr/news/5357254"
     }
 ];
