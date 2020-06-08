@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
-        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "De Blasio: NYC to cut NYPD funding, shift it to social services",
@@ -34,7 +34,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "The United States economy officially entered a recession in February",
