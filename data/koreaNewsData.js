@@ -13,20 +13,24 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006081026001&code=940601"
     },
     {
-        "title": "코로나 종식 선언 뉴질랜드… N-방역을 아시나요?",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014665898&code=61131111&cp=nv"
+        "title": "뉴질랜드 코로나19 종식 선언…감염자 0명",
+        "link": "https://www.nocutnews.co.kr/news/5357478"
     },
     {
         "title": "[속보] 코로나 가리봉으로 번지나, 중국동포 쉼터 8명 확진",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/08/2020060802344.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "서울 구로구 중국동포쉼터서 확진자 8명 발생",
-        "link": "https://www.donga.com/news/article/all/20200608/101413638/1"
-    },
-    {
         "title": "서울 확진자 1천명 돌파…中동포교회쉼터 무더기 감염(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052212&cID=10201&pID=10200"
+    },
+    {
+        "title": "[단독] 코로나로 멈춰선 韓 외교혈맥 이달 다시 뚫린다",
+        "link": "https://www.sedaily.com/NewsView/1Z3Y4SN85B"
+    },
+    {
+        "title": "코로나19 집단감염 완치자 21명 혈장 기증",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/948406.html"
     },
     {
         "title": "[단독] 코로나 수도권 집단감염 여파…'여행주간' 연기 논의",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "롯데월드 방문 확진자…정부 “진단검사보다 거리두기 중요”",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500014&wlog_tag3=naver"
-    },
-    {
-        "title": "6월 8일, ‘코로나19’ 전세계 확진자 691만명…입국금지·검역 조치 184개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/08/2020060880137.html"
     }
 ];
