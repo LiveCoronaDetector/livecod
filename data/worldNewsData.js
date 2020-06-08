@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEPvtJgZHCQUs3Fr5IgjACAcqFAgEKg0IACoGCAowm_EEMKAiMItb?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "How the Coronavirus Crisis Exposed the False Promise of Iran-China Partnership",
-        "link": "https://news.google.com/articles/CAIiEIzMEqDAOq_o3ld2eKuYoH8qGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Against coronavirus, Pakistan turns to a traditional remedy: Blame Ahmadis and Jews",
+        "link": "https://news.google.com/articles/CAIiEGupiOqt-SaaPDjUzXg1SogqMwgEKioIACIQo8MlfRp19vXTQjuzX4teDSoUCAoiEKPDJX0adfb100I7s1-LXg0w4ZfOBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus Depletes the Keepers of Europe’s Memory",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEBEUYKiWXOLqUbjsVJSFs60qGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Farmers Get Billions in Virus Aid, and Democrats Are Wary",
-        "link": "https://news.google.com/articles/CAIiEN2Sxco0-qqhh9RAuh-ZMgQqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Bolsonaro threatens WHO exit as Brazil's coronavirus toll soars",
+        "link": "https://news.google.com/articles/CCAiC3RqOF8zYzBjaDlrmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus live news: New Zealand 'Covid-19 free' as UK travel quarantine rules begin",
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "June 7 coronavirus news",
         "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA3LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wNy0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live news: New Zealand 'Covid-19 free' as UK travel quarantine rules begin",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus: Hard-hit Brazil removes data amid rising death toll",
-        "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg20gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTUyNjg2?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Masks for Covid-19: The WHO now recommends cloth masks for all",
+        "link": "https://news.google.com/articles/CAIiEGmxVbQezoVxwAluqdqnPPIqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
