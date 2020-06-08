@@ -6,11 +6,11 @@ var worldNewsData = [
     },
     {
         "title": "Brazil Is in Coronavirus Free Fall",
-        "link": "https://news.google.com/articles/CAIiEMpsOhvongr9VeHPSoa2LOQqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEMpsOhvongr9VeHPSoa2LOQqGAgEKg8IACoHCAowjuuKAzCWrzwworyzBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Pakistan COVID-19 infections pass 100,000",
-        "link": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIwLzA2L3Bha2lzdGFuLWNvdmlkLTE5LWluZmVjdGlvbnMtcGFzcy0xMDAtMDAwLTIwMDYwODEwMTMzNjgyNC5odG1s0gFpaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIwLzA2L3Bha2lzdGFuLWNvdmlkLTE5LWluZmVjdGlvbnMtcGFzcy0xMDAtMDAwLTIwMDYwODEwMTMzNjgyNC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Netanyahu: ‘We decided to hit the emergency brake’ as corona cases spike",
+        "link": "https://news.google.com/articles/CAIiEM_nfzlwBuruiZ6fWdbl7s4qGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Global coronavirus cases top 7 million; Italy sees economy contracting 8.3% in 2020",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live Coronavirus Updates: New York Reopens",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "De Blasio: NYC to cut NYPD funding, shift it to social services",
+        "link": "https://news.google.com/articles/CAIiEBtw_gpKazppFGzx2WGcHNQqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Worldwide Coronavirus Death Toll Passes 400000 | Sunday TODAY",
+        "link": "https://news.google.com/articles/CCAiC1RacFlMWUlZam53mAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://news.google.com/articles/CAIiEJ0hs1L6HrvPIppTwP4W6xcqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
