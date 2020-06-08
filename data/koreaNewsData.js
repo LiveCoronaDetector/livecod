@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006081031049733"
     },
     {
-        "title": "[단독]인천공항 코로나19 확진 첫 발생…\"탁구클럽 갔다\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200608_0001051066&cID=14001&pID=14000"
-    },
-    {
-        "title": "오늘 4차 등교…코로나 속 99일 만에 '전 학년 등교'",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005824382&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "[단독] 코로나 수도권 집단감염 여파…'여행주간' 연기 논의",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03093046625799752"
     },
     {
-        "title": "코로나19 확진 38명 늘어...수도권 확산세 ‘주춤’",
-        "link": "http://www.hani.co.kr/arti/society/health/948335.html"
+        "title": "[단독]인천공항 코로나19 확진 첫 발생…\"탁구클럽 갔다\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200608_0001051066&cID=14001&pID=14000"
     },
     {
-        "title": "코로나19 신규 확진자 38명 늘어…지역 발생은 모두 ‘수도권’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4465067&ref=A"
+        "title": "서대문구청 \"북가좌2동서 코로나19 추가확진자 발생\"[속보]",
+        "link": "http://www.kjdaily.com/read.php3?aid=1591595623513240208"
+    },
+    {
+        "title": "[코로나19] 서울 관악구 리치웨이 관련 확진자 7명 추가…총 52명(종합)",
+        "link": "http://www.newspim.com/news/view/20200608000738"
+    },
+    {
+        "title": "오늘 4차 등교…코로나 속 99일 만에 '전 학년 등교'",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005824382&plink=ORI&cooper=NAVER"
     }
 ];
