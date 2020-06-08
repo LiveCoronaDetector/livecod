@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4464541&ref=A"
     },
     {
-        "title": "롯데월드 다녀간 원묵고 3학년, 재검에서 나온 깜깜이 확진자",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014664321&code=61121211&cp=nv"
-    },
-    {
         "title": "오늘 4차 등교…코로나 속 99일 만에 '전 학년 등교'",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005824382&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "로이터 \"전세계 코로나19 확진자 700만명·사망 40만명 육박\"",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5801801_32640.html"
+        "title": "재개 앞둔 英 2부리그, 코로나19 확진자 추가 발생",
+        "link": "https://www.nocutnews.co.kr/news/5357025"
     },
     {
-        "title": "文대통령 \"수도권 코로나 확진자 발생, 또다시 긴장…고비 이겨낼 것\"",
-        "link": "https://view.asiae.co.kr/article/2020060717463542768"
+        "title": "[단독]인천공항 코로나19 확진 첫 발생…\"탁구클럽 갔다\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200608_0001051066&cID=14001&pID=14000"
+    },
+    {
+        "title": "‘확진자 9시간 머물렀다’…롯데월드, 7일 영업 조기 종료",
+        "link": "https://www.donga.com/news/article/all/20200607/101398487/2"
     }
 ];
