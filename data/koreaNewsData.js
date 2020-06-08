@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200608052452530?did=1195m"
     },
     {
-        "title": "충남 홍성·아산 코로나19 확진자 1명씩 추가 발생",
-        "link": "http://www.hani.co.kr/arti/area/chungcheong/948426.html"
+        "title": "서울 확진자 1천명 넘었다…중국동포교회 쉼터서 8명 확진",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500187&wlog_tag3=naver"
     },
     {
         "title": "인천 '거짓말' 학원강사 코로나 완치 후 재입원…경찰 조사 예정",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5802455_32633.html"
     },
     {
-        "title": "[단독] 코로나로 멈춰선 韓 외교혈맥 이달 다시 뚫린다",
-        "link": "https://www.sedaily.com/NewsView/1Z3Y4SN85B"
+        "title": "코로나 위기에 더욱 빛난 쿠바 의료",
+        "link": "http://www.hani.co.kr/arti/international/international_general/948433.html"
     },
     {
-        "title": "롯데월드 방문 확진자…정부 “진단검사보다 거리두기 중요”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500014&wlog_tag3=naver"
+        "title": "[속보] 코로나 가리봉으로 번지나, 중국동포 쉼터 8명 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/08/2020060802344.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
