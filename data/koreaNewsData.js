@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23390276"
     },
     {
-        "title": "롯데월드 방문 확진자…정부 “진단검사보다 거리두기 중요”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500014&wlog_tag3=naver"
+        "title": "롯데월드, 지난 5일 '코로나 확진자' 방문…영업 조기종료",
+        "link": "http://www.etnews.com/20200607000042"
     }
 ];
