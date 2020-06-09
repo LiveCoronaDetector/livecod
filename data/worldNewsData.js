@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY30gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY3?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Satellite data suggests coronavirus may have hit China earlier: Researchers",
-        "link": "https://news.google.com/articles/CBMieGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9zYXRlbGxpdGUtZGF0YS1zdWdnZXN0cy1jb3JvbmF2aXJ1cy1oaXQtY2hpbmEtZWFybGllci1yZXNlYXJjaGVycy9zdG9yeT9pZD03MTEyMzI3MNIBfGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0ludGVybmF0aW9uYWwvc2F0ZWxsaXRlLWRhdGEtc3VnZ2VzdHMtY29yb25hdmlydXMtaGl0LWNoaW5hLWVhcmxpZXItcmVzZWFyY2hlcnMvc3Rvcnk_aWQ9NzExMjMyNzA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Satellite images and online searches indicate China had coronavirus in the fall, Harvard study finds",
+        "link": "https://news.google.com/articles/CAIiEKeDbVoRby9CVdr2KePsUJ0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
-        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Live Coronavirus Updates: Disease’s Peak Is Still Far Off in Some Places",
-        "link": "https://news.google.com/articles/CAIiELmEs0sUADRX91d9wLQ4-H8qFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiELmEs0sUADRX91d9wLQ4-H8qFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Satellite traffic images may suggest virus hit Wuhan earlier",
-        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTI5NzU5MzTSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01Mjk3NTkzNA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Satellite images of Wuhan may suggest coronavirus was spreading as early as August",
+        "link": "https://news.google.com/articles/CAIiEFo62hdz0feGIBKLDEKa9WUqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live news: 600 die in Nigeria outbreak; Madrid denies not treating care home residents",
-        "link": "https://news.google.com/articles/CAIiEEVHmmounkDOi1ssegZYBhoqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global Coronavirus Caseload Passes 7 Million",
+        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
