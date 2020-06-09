@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Live Coronavirus Updates: Disease’s Peak Is Still Far Off in Some Places",
-        "link": "https://news.google.com/articles/CAIiELmEs0sUADRX91d9wLQ4-H8qFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "More than 7 million infected with COVID-19 and over 400,000 dead worldwide, according to Johns Hopkins",
-        "link": "https://news.google.com/articles/CAIiEG-d1uvlCKoFZ8HS4vzMGlEqGQgEKhAIACoHCAow0Iz_CjD7__cCMOO75AU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiELmEs0sUADRX91d9wLQ4-H8qFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: Satellite traffic images may suggest virus hit Wuhan earlier",
         "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTI5NzU5MzTSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01Mjk3NTkzNA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus live news: 600 die in Nigeria outbreak; Madrid denies not treating care home residents",
+        "link": "https://news.google.com/articles/CAIiEEVHmmounkDOi1ssegZYBhoqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
