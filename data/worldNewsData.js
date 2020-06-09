@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEPSBNSaRfDJleiDEqqOb4wMqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Israel live: Health minister cautions over 'dramatic' rise in new cases",
-        "link": "https://news.google.com/articles/CAIiEKo0roPxBmdje2Zd9Ynl_qQqMwgEKioIACIQo8MlfRp19vXTQjuzX4teDSoUCAoiEKPDJX0adfb100I7s1-LXg0w4ZfOBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
+        "link": "https://news.google.com/articles/CAIiEM_nfzlwBuruiZ6fWdbl7s4qGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Brazil faces criticism over coronavirus data; Germany reports record plunge in exports",
         "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: How Covid-19 has changed the 'big fat Indian wedding'",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY30gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY3?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "COVID-19 cases spike in at least 20 states l GMA",
+        "link": "https://news.google.com/articles/CCAiC2tMNl9rZE83MjFVmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus may have been spreading in China since August 2019: study",
-        "link": "https://news.google.com/articles/CAIiEO-KkzOzdPtC8UqE8zs1f2gqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "WHO walks back comments on asymptomatic coronavirus spread, says much is still unknown",
-        "link": "https://news.google.com/articles/CAIiEOqSOciI2mEH-XeCZutaSF0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Satellite images and online searches indicate China had coronavirus in the fall, Harvard study finds",
+        "link": "https://news.google.com/articles/CAIiEKeDbVoRby9CVdr2KePsUJ0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Live Coronavirus Updates",
         "link": "https://news.google.com/articles/CAIiELmEs0sUADRX91d9wLQ4-H8qFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wOS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "WHO walks back comments on asymptomatic coronavirus spread, says much is still unknown",
+        "link": "https://news.google.com/articles/CAIiEOqSOciI2mEH-XeCZutaSF0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: Eiffel Tower sets reopening date; WHO clarifies remarks on asymptomatic spread",
-        "link": "https://news.google.com/articles/CAIiEORHCgLkFcctVsQiHeMlWtwqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global Coronavirus Caseload Passes 7 Million",
+        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus live updates: New Jersey lifts stay-at-home order; deadlines loom for airline workers to take buyouts",
+        "link": "https://news.google.com/articles/CAIiEORHCgLkFcctVsQiHeMlWtwqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

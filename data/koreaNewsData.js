@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091717001&code=940100"
     },
     {
-        "title": "서울 오늘 8시간만에 확진자 10명 추가…누계 1천28명",
-        "link": "http://yna.kr/AKR20200609164900004?did=1195m"
-    },
-    {
         "title": "6월 확진자 97%는 수도권서 발생…고속도로 휴게소도 점검",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4466251&ref=A"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
+    },
+    {
+        "title": "서울 오늘 8시간만에 확진자 10명 추가…누계 1천28명",
+        "link": "http://yna.kr/AKR20200609164900004?did=1195m"
     }
 ];
