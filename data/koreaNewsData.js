@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091717001&code=940100"
     },
     {
+        "title": "6월 확진자 97%는 수도권서 발생…고속도로 휴게소도 점검",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4466251&ref=A"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 '어제와 같은' 38명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/view.asp?aid=220060800148&s=501"
     },
     {
-        "title": "중국동포 쉼터서 코로나19 집단감염…방역 사각지대 '불안불안'",
-        "link": "http://yna.kr/AKR20200608158500530?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
     },
     {
-        "title": "서울 리치웨이발? 코로나19 확진자 성남서 8명이나",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014671514&code=61121211&cp=nv"
+        "title": "서울 오늘 8시간만에 확진자 10명 추가…누계 1천28명",
+        "link": "http://yna.kr/AKR20200609164900004?did=1195m"
     }
 ];
