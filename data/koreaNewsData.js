@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200609/101431007/2"
     },
     {
-        "title": "코로나 확진 38명…수도권 지역발병 33명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/09/2020060901256.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "\"6월 지역사회 코로나 확진자 313명 중 303명 수도권 발생\"",
         "link": "https://www.nocutnews.co.kr/news/5358012"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/view.asp?aid=220060800148&s=501"
     },
     {
+        "title": "중국동포 쉼터서 코로나19 집단감염…방역 사각지대 '불안불안'",
+        "link": "http://yna.kr/AKR20200608158500530?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
     },
     {
-        "title": "서울 오늘 8시간만에 확진자 10명 추가…누계 1천28명",
-        "link": "http://yna.kr/AKR20200609164900004?did=1195m"
+        "title": "코로나에 가장 덜 걸리는 혈액형은?",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/09/2020060901429.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

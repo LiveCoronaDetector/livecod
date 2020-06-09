@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEGYD0IW66hddlRCz7f1FG3UqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus triggers new American border debate — with Canada",
-        "link": "https://news.google.com/articles/CAIiEPSBNSaRfDJleiDEqqOb4wMqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Satellite traffic images may suggest virus hit Wuhan earlier",
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTI5NzU5MzTSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01Mjk3NTkzNA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEO-KkzOzdPtC8UqE8zs1f2gqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live Coronavirus Updates",
-        "link": "https://news.google.com/articles/CAIiELmEs0sUADRX91d9wLQ4-H8qFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "WHO walks back comments on asymptomatic coronavirus spread, says much is still unknown",
         "link": "https://news.google.com/articles/CAIiEOqSOciI2mEH-XeCZutaSF0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global Coronavirus Caseload Passes 7 Million",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://news.google.com/articles/CAIiEPfZAKV3ipIjPvds8Sn-TOMqFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: New Jersey lifts stay-at-home order; deadlines loom for airline workers to take buyouts",
-        "link": "https://news.google.com/articles/CAIiEORHCgLkFcctVsQiHeMlWtwqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Dr. Anthony Fauci says coronavirus turned 'out to be my worst nightmare' and it 'isn't over'",
+        "link": "https://news.google.com/articles/CAIiEKfM1bfcscaEfdRQUHWEJXkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Global Coronavirus Caseload Passes 7 Million",
+        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
