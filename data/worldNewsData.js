@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEGYD0IW66hddlRCz7f1FG3UqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Texas reports a record number of hospitalized coronavirus patients after state reopened early",
-        "link": "https://news.google.com/articles/CAIiEF0hci1q9PbVP1LoLgmcJU4qGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Live updates: Coronavirus infections hit record highs in 14 states and Puerto Rico",
+        "link": "https://news.google.com/articles/CAIiELYn3WgcDaBkozwXOJ2KVgUqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Live Coronavirus Updates: New York Reopens",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Pa. Reports 351 New Coronavirus Cases, 10 More Deaths",
-        "link": "https://news.google.com/articles/CCAiC09MNEpGdl9ieDlnmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Even In A Pandemic, WHO Believes That Public Protests Are Important",
+        "link": "https://news.google.com/articles/CAIiEO7av4M29cFP3pJpkO4FVHwqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: World Bank confirms deepest recession since World War Two",
-        "link": "https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZW4vc3RvcnkvMjAyMC8wNi8xMDY1OTAy0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "'Globally It's Worsening,' W.H.O. Says of Coronavirus Pandemic",
+        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3dvcmxkLzEwMDAwMDAwNzE4MDY1MC93aG8tY29yb25hdmlydXMtY2FzZXMtcmVjb3JkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
