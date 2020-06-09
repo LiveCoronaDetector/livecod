@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/09/2020060901256.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "서울시 코로나 누적 확진 1000명 넘었다…첫 확진 137일만",
+        "link": "https://news.joins.com/article/olink/23391964"
+    },
+    {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
-    },
-    {
-        "title": "코로나에 가장 덜 걸리는 혈액형은?",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/09/2020060901429.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "[종합] 양천 탁구장발 확진자 6명 늘어…수도권 지역감염 확산",
-        "link": "https://www.hankyung.com/society/article/2020060976527"
     },
     {
         "title": "[속보]코로나19 신규 확진자 '어제와 같은' 38명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
     },
     {
+        "title": "코로나에 가장 덜 걸리는 혈액형은?",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/09/2020060901429.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "코로나19 어제 신규 확진 38명…33명 수도권",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005826742&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나19 확진 38명 늘어…수도권서 33명",
-        "link": "http://www.hani.co.kr/arti/society/health/948522.html"
+        "title": "[종합] 양천 탁구장발 확진자 6명 늘어…수도권 지역감염 확산",
+        "link": "https://www.hankyung.com/society/article/2020060976527"
     }
 ];
