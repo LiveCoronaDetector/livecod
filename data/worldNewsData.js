@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "India Reopens Public Places Even As Coronavirus Cases Rise",
-        "link": "https://news.google.com/articles/CAIiEOqKue5qU1dz3_xK3XlcwV8qFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: How Covid-19 has changed the 'big fat Indian wedding'",
+        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY30gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY3?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The U.S.-China 'cold war' is here — and Beijing may start targeting Washington's allies, analysts say",
-        "link": "https://news.google.com/articles/CAIiELTd3QoGmlhbvOpcJy1w4FgqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Satellite data suggests coronavirus may have hit China earlier: Researchers",
+        "link": "https://news.google.com/articles/CBMieGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9zYXRlbGxpdGUtZGF0YS1zdWdnZXN0cy1jb3JvbmF2aXJ1cy1oaXQtY2hpbmEtZWFybGllci1yZXNlYXJjaGVycy9zdG9yeT9pZD03MTEyMzI3MNIBfGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0ludGVybmF0aW9uYWwvc2F0ZWxsaXRlLWRhdGEtc3VnZ2VzdHMtY29yb25hdmlydXMtaGl0LWNoaW5hLWVhcmxpZXItcmVzZWFyY2hlcnMvc3Rvcnk_aWQ9NzExMjMyNzA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global Coronavirus Caseload Passes 7 Million",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "New virus cases on the rise in almost half of US states",
         "link": "https://news.google.com/articles/CCAiC290ODZuRUljRDg4mAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "World Health Organization releases new COVID-19 guidelines",
-        "link": "https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3Lndpc2h0di5jb20vbmV3cy9jb3JvbmF2aXJ1cy93b3JsZC1oZWFsdGgtb3JnYW5pemF0aW9uLXJlbGVhc2VzLW5ldy1jb3ZpZC0xOS1ndWlkZWxpbmVzL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: World Bank confirms deepest recession since World War Two",
+        "link": "https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZW4vc3RvcnkvMjAyMC8wNi8xMDY1OTAy0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus spread by people with no symptoms 'appears to be rare,' WHO official says",
+        "link": "https://news.google.com/articles/CAIiEFpTcyZl7lP5MwMGb37aHSAqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/09/2020060901256.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울시 코로나 누적 확진 1000명 넘었다…첫 확진 137일만",
-        "link": "https://news.joins.com/article/olink/23391964"
-    },
-    {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "코로나에 가장 덜 걸리는 혈액형은?",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/09/2020060901429.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "중국동포 쉼터서 코로나19 집단감염…방역 사각지대 '불안불안'",
+        "link": "http://yna.kr/AKR20200608158500530?did=1195m"
     },
     {
         "title": "코로나19 어제 신규 확진 38명…33명 수도권",
