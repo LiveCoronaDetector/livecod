@@ -14,7 +14,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live updates: Brazil faces criticism over data; Germany reports record plunge in exports",
-        "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: How Covid-19 has changed the 'big fat Indian wedding'",
