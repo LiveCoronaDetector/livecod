@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02660086625800080"
     },
     {
-        "title": "코로나 확진 38명…수도권 지역발병 33명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/09/2020060901256.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "쿠팡 물류센터·요양원 관련 확진자 2명 사망…누적 276명",
+        "link": "https://www.donga.com/news/article/all/20200609/101431007/2"
     },
     {
-        "title": "서울 확진자 28명↑…'리치웨이' 10명 최다 증가(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5358108"
+        "title": "6월 9일, ‘코로나19’ 전세계 확진자 702만명…입국금지·검역 조치 184개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/09/2020060980190.html"
+    },
+    {
+        "title": "코로나 확진 38명…수도권 지역발병 33명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/09/2020060901256.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 '어제와 같은' 38명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
+        "title": "코로나에 가장 덜 걸리는 혈액형은?",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/09/2020060901429.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 확진 38명 늘어…수도권서 33명",
-        "link": "http://www.hani.co.kr/arti/society/health/948522.html"
+        "title": "[종합] 양천 탁구장발 확진자 6명 늘어…수도권 지역감염 확산",
+        "link": "https://www.hankyung.com/society/article/2020060976527"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 '어제와 같은' 38명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
     },
     {
         "title": "코로나19 어제 신규 확진 38명…33명 수도권",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005826742&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[단독] 이란, 세계 첫 코로나 `2차 파동` 왔다",
-        "link": "http://news.mk.co.kr/newsRead.php?no=588854&year=2020"
-    },
-    {
-        "title": "수원시청 \"영통3동서 코로나19 추가확진자 발생\"[속보]",
-        "link": "http://www.kjdaily.com/read.php3?aid=1591680205513392208"
-    },
-    {
-        "title": "먼저 코로나 종식 선언합니다, 환자 제로 이 국가",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/08/2020060801398.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "코로나19 확진 38명 늘어…수도권서 33명",
+        "link": "http://www.hani.co.kr/arti/society/health/948522.html"
     }
 ];

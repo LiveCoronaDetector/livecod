@@ -6,19 +6,19 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: Coronavirus infections hit record highs in 14 states and Puerto Rico",
-        "link": "https://news.google.com/articles/CAIiELYn3WgcDaBkozwXOJ2KVgUqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiELYn3WgcDaBkozwXOJ2KVgUqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
         "link": "https://news.google.com/articles/CAIiEM_nfzlwBuruiZ6fWdbl7s4qGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global coronavirus cases top 7 million; Italy sees economy contracting 8.3% in 2020",
-        "link": "https://news.google.com/articles/CAIiEPEv2xBHZSKW1S7VG1PTJr0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live updates: Brazil faces criticism over data; Germany reports record plunge in exports",
+        "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: How Covid-19 has changed the 'big fat Indian wedding'",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY30gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY3?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "India Reopens Public Places Even As Coronavirus Cases Rise",
+        "link": "https://news.google.com/articles/CAIiEOqKue5qU1dz3_xK3XlcwV8qFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "The U.S.-China 'cold war' is here — and Beijing may start targeting Washington's allies, analysts say",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Live Coronavirus Updates: New York Reopens",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: World Bank confirms deepest recession since World War Two",
-        "link": "https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZW4vc3RvcnkvMjAyMC8wNi8xMDY1OTAy0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live news: US Covid-19 deaths could reach 145,000 by August, study estimates",
+        "link": "https://news.google.com/articles/CAIiEEVHmmounkDOi1ssegZYBhoqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "'Globally It's Worsening,' W.H.O. Says of Coronavirus Pandemic",
-        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3dvcmxkLzEwMDAwMDAwNzE4MDY1MC93aG8tY29yb25hdmlydXMtY2FzZXMtcmVjb3JkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "New virus cases on the rise in almost half of US states",
+        "link": "https://news.google.com/articles/CCAiC290ODZuRUljRDg4mAEB?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
