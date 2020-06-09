@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200609/101431007/2"
     },
     {
-        "title": "서울시 코로나 누적 확진 1000명 넘었다…첫 확진 137일만",
-        "link": "https://news.joins.com/article/olink/23391964"
-    },
-    {
         "title": "(2보)춘천 9번째 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/view.asp?aid=220060800148&s=501"
+    },
+    {
+        "title": "서울시 코로나 누적 확진 1000명 넘었다…첫 확진 137일만",
+        "link": "https://news.joins.com/article/olink/23391964"
     },
     {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
     },
     {
-        "title": "코로나에 가장 덜 걸리는 혈액형은?",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/09/2020060901429.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "[속보] 정세균 “코로나 방역 방해… 신속 수사ㆍ엄정 처리”",
+        "link": "http://www.hankookilbo.com/news/npath/202006091185375958?did=NA"
     },
     {
         "title": "가족 2차 전파율 16.2%로 '경고등'…\"고령층 확진자 증가 우려\"(종합)",
