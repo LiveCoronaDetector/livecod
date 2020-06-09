@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKeDbVoRby9CVdr2KePsUJ0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Dr. Fauci talks coronavirus vaccine, reopening the country, and more",
-        "link": "https://news.google.com/articles/CCAiCzF1ZGcxNVRXLUtBmAEB?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global Coronavirus Caseload Passes 7 Million",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Dr. Anthony Fauci says coronavirus turned 'out to be my worst nightmare' and it 'isn't over'",
+        "link": "https://news.google.com/articles/CAIiEKfM1bfcscaEfdRQUHWEJXkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Burundi says President Pierre Nkurunziza has died of heart attack",
+        "link": "https://news.google.com/articles/CCAiCzJ4MXlDdC1nUVlVmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
