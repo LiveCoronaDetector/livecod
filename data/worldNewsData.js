@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKeDbVoRby9CVdr2KePsUJ0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
-        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Live Coronavirus Updates: Disease’s Peak Is Still Far Off in Some Places",
         "link": "https://news.google.com/articles/CAIiELmEs0sUADRX91d9wLQ4-H8qFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
+        "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Satellite images of Wuhan may suggest coronavirus was spreading as early as August",
         "link": "https://news.google.com/articles/CAIiEFo62hdz0feGIBKLDEKa9WUqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global Coronavirus Caseload Passes 7 Million",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Live updates: Coronavirus infections hit record highs in 14 states and Puerto Rico",
+        "link": "https://news.google.com/articles/CAIiELYn3WgcDaBkozwXOJ2KVgUqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
