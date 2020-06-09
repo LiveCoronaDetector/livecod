@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200609076651004?did=1195m"
     },
     {
-        "title": "코로나19 어제 신규 확진 38명…33명 수도권",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005826742&plink=ORI&cooper=NAVER"
+        "title": "중국동포 쉼터서 코로나19 집단감염…방역 사각지대 '불안불안'",
+        "link": "http://yna.kr/AKR20200608158500530?did=1195m"
     },
     {
         "title": "[단독] 이란, 세계 첫 코로나 `2차 파동` 왔다",
         "link": "http://news.mk.co.kr/newsRead.php?no=588854&year=2020"
     },
     {
-        "title": "[종합] 광명 어르신보호센터서 6명 코로나 무더기 확진",
-        "link": "https://www.hankyung.com/society/article/2020060955137"
+        "title": "코로나19 어제 신규 확진 38명…33명 수도권",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005826742&plink=ORI&cooper=NAVER"
     }
 ];

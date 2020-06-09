@@ -1340,7 +1340,7 @@ var marker = [
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "확진자수": 128,
+        "확진자수": 130,
         "사망자수": 2,
         "완치자수": 9
     },

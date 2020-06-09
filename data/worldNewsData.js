@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEO7av4M29cFP3pJpkO4FVHwqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "New Zealand lifts all Covid restrictions, declaring the nation virus-free",
-        "link": "https://news.google.com/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLTUyOTYxNTM50gEwaHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLTUyOTYxNTM5?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "'Globally It's Worsening,' W.H.O. Says of Coronavirus Pandemic",
+        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3dvcmxkLzEwMDAwMDAwNzE4MDY1MC93aG8tY29yb25hdmlydXMtY2FzZXMtcmVjb3JkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: World Bank confirms deepest recession since World War Two",
-        "link": "https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZW4vc3RvcnkvMjAyMC8wNi8xMDY1OTAy0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live news: Brazil passes 700,000 infections as WHO warns pandemic is worsening",
+        "link": "https://news.google.com/articles/CAIiEEVHmmounkDOi1ssegZYBhoqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
