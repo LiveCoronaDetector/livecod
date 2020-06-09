@@ -13,16 +13,20 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEM_nfzlwBuruiZ6fWdbl7s4qGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Brazil faces criticism over coronavirus data; Germany reports record plunge in exports",
-        "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Its Defenses Undone by a Virus, France Seeks Lessons From a Lost War",
+        "link": "https://news.google.com/articles/CAIiEG9CXZuqMDUlX_Wn4n8KWC0qFwgEKg8IACoHCAowjuuKAzCWrzww14QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus update: Experts watch cases in India, Brazil, South Africa",
-        "link": "https://news.google.com/articles/CAIiEGYD0IW66hddlRCz7f1FG3UqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wOS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Satellite images and online searches indicate China had coronavirus in the fall, Harvard study finds",
         "link": "https://news.google.com/articles/CAIiEKeDbVoRby9CVdr2KePsUJ0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "WHO believes protests important amid coronavirus pandemic",
+        "link": "https://news.google.com/articles/CAIiEG9ucVxC-dir3rLaLvXPN2AqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKfM1bfcscaEfdRQUHWEJXkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "WHO believes protests important amid coronavirus pandemic",
-        "link": "https://news.google.com/articles/CAIiEG9ucVxC-dir3rLaLvXPN2AqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Live updates: WHO walks back comment about asymptomatic coronavirus spread; U.S. nears 2 million cases",
-        "link": "https://news.google.com/articles/CAIiELYn3WgcDaBkozwXOJ2KVgUqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Global Coronavirus Caseload Passes 7 Million",
+        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

@@ -17,14 +17,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091717001&code=940100"
     },
     {
-        "title": "6월 확진자 97%는 수도권서 발생…고속도로 휴게소도 점검",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4466251&ref=A"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 '어제와 같은' 38명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
-    },
-    {
         "title": "코로나 확진 38명…수도권 지역발병 33명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/09/2020060901256.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,6 +27,14 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
+    },
+    {
+        "title": "6월 확진자 97%는 수도권서 발생…고속도로 휴게소도 점검",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4466251&ref=A"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 '어제와 같은' 38명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
     },
     {
         "title": "서울 오늘 8시간만에 확진자 10명 추가…누계 1천28명",
