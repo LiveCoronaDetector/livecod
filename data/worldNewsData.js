@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDkvb3RoZXJfc3BvcnRzLzE1OTE2ODM2ODZfMTU4OTkxLmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA5L290aGVyX3Nwb3J0cy8xNTkxNjgzNjg2XzE1ODk5MS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Satellite traffic images may suggest virus hit Wuhan earlier",
-        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTI5NzU5MzTSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01Mjk3NTkzNA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus triggers new American border debate — with Canada",
+        "link": "https://news.google.com/articles/CAIiEPSBNSaRfDJleiDEqqOb4wMqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKeDbVoRby9CVdr2KePsUJ0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "WHO believes protests important amid coronavirus pandemic",
-        "link": "https://news.google.com/articles/CAIiEG9ucVxC-dir3rLaLvXPN2AqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Dr. Fauci talks coronavirus vaccine, reopening the country, and more",
+        "link": "https://news.google.com/articles/CCAiCzF1ZGcxNVRXLUtBmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Dr. Anthony Fauci says coronavirus turned 'out to be my worst nightmare' and it 'isn't over'",
-        "link": "https://news.google.com/articles/CAIiEKfM1bfcscaEfdRQUHWEJXkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
+        "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Global Coronavirus Caseload Passes 7 Million",
