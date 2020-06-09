@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/08/2020060801398.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "[속보] 양산 일가족 3명 코로나19 확진",
+        "link": "http://www.newsis.com/view/?id=NISX20200609_0001052762&cID=10812&pID=10800"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 38명···지역발생 33명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006081026001&code=940601"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "코로나 위기에 더욱 빛난 쿠바 의료",
         "link": "http://www.hani.co.kr/arti/international/international_general/948433.html"
-    },
-    {
-        "title": "롯데월드 방문 확진자…정부 “진단검사보다 거리두기 중요”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200608500014&wlog_tag3=naver"
     },
     {
         "title": "[속보] 코로나 가리봉으로 번지나, 중국동포 쉼터 8명 확진",
