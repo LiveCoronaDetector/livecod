@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDkvb3RoZXJfc3BvcnRzLzE1OTE2ODM2ODZfMTU4OTkxLmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA5L290aGVyX3Nwb3J0cy8xNTkxNjgzNjg2XzE1ODk5MS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live updates: Coronavirus infections hit record highs in 14 states and Puerto Rico",
-        "link": "https://news.google.com/articles/CAIiELYn3WgcDaBkozwXOJ2KVgUqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "As more Americans head out, 22 states are seeing jumps in new coronavirus cases",
+        "link": "https://news.google.com/articles/CAIiEGH--ZeorPmzJkXDtnkAszkqGQgEKhAIACoHCAowocv1CjCSptoCMIrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: How Covid-19 has changed the 'big fat Indian wedding'",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY30gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY3?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaW5kZXguaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The U.S.-China 'cold war' is here — and Beijing may start targeting Washington's allies, analysts say",
-        "link": "https://news.google.com/articles/CAIiELTd3QoGmlhbvOpcJy1w4FgqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Satellite data suggests coronavirus may have hit China earlier: Researchers",
+        "link": "https://news.google.com/articles/CBMieGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9zYXRlbGxpdGUtZGF0YS1zdWdnZXN0cy1jb3JvbmF2aXJ1cy1oaXQtY2hpbmEtZWFybGllci1yZXNlYXJjaGVycy9zdG9yeT9pZD03MTEyMzI3MNIBfGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0ludGVybmF0aW9uYWwvc2F0ZWxsaXRlLWRhdGEtc3VnZ2VzdHMtY29yb25hdmlydXMtaGl0LWNoaW5hLWVhcmxpZXItcmVzZWFyY2hlcnMvc3Rvcnk_aWQ9NzExMjMyNzA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "Coronavirus live news: 600 die in Nigeria outbreak; Madrid denies not treating care home residents",
+        "link": "https://news.google.com/articles/CAIiEEVHmmounkDOi1ssegZYBhoqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "Global Coronavirus Caseload Passes 7 Million",
         "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "New virus cases on the rise in almost half of US states",
-        "link": "https://news.google.com/articles/CCAiC290ODZuRUljRDg4mAEB?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus updates: Asymptomatic spread is 'rare,' reports World Health Organization",
-        "link": "https://news.google.com/articles/CBMinQFodHRwczovL3d3dy5raW5nNS5jb20vYXJ0aWNsZS9uZXdzL2hlYWx0aC9jb3JvbmF2aXJ1cy93YXNoaW5ndG9uLXN0YXRlLXNlYXR0bGUtY29yb25hdmlydXMtY292aWQtMTktcGFuZGVtaWMtdXBkYXRlcy8yODEtMjU4YzRhNjYtYTc1Yy00NDk1LWE2YzQtZjRjN2IwYmU4ZTJi0gGhAWh0dHBzOi8vd3d3Lmtpbmc1LmNvbS9hbXAvYXJ0aWNsZS9uZXdzL2hlYWx0aC9jb3JvbmF2aXJ1cy93YXNoaW5ndG9uLXN0YXRlLXNlYXR0bGUtY29yb25hdmlydXMtY292aWQtMTktcGFuZGVtaWMtdXBkYXRlcy8yODEtMjU4YzRhNjYtYTc1Yy00NDk1LWE2YzQtZjRjN2IwYmU4ZTJi?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "WHO says coronavirus pandemic far from over as world sees largest daily increase",
+        "link": "https://news.google.com/articles/CAIiENgITu5Ywcn5r0rKB9CmbCgqGQgEKhAIACoHCAowwL2ICzCckocDMMWEqQY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
