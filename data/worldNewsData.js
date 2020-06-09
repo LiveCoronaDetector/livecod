@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDkvb3RoZXJfc3BvcnRzLzE1OTE2ODM2ODZfMTU4OTkxLmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA5L290aGVyX3Nwb3J0cy8xNTkxNjgzNjg2XzE1ODk5MS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "As more Americans head out, 22 states are seeing jumps in new coronavirus cases",
-        "link": "https://news.google.com/articles/CAIiEGH--ZeorPmzJkXDtnkAszkqGQgEKhAIACoHCAowocv1CjCSptoCMIrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Texas reports a record number of hospitalized coronavirus patients after state reopened early",
+        "link": "https://news.google.com/articles/CAIiEF0hci1q9PbVP1LoLgmcJU4qGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaW5kZXguaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: How Covid-19 has changed the 'big fat Indian wedding'",
+        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY30gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY3?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Satellite data suggests coronavirus may have hit China earlier: Researchers",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live news: 600 die in Nigeria outbreak; Madrid denies not treating care home residents",
-        "link": "https://news.google.com/articles/CAIiEEVHmmounkDOi1ssegZYBhoqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEEVHmmounkDOi1ssegZYBhoqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Global Coronavirus Caseload Passes 7 Million",
         "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "WHO says coronavirus pandemic far from over as world sees largest daily increase",
-        "link": "https://news.google.com/articles/CAIiENgITu5Ywcn5r0rKB9CmbCgqGQgEKhAIACoHCAowwL2ICzCckocDMMWEqQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "WHO believes protests important amid coronavirus pandemic",
+        "link": "https://news.google.com/articles/CAIiEG9ucVxC-dir3rLaLvXPN2AqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
