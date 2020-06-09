@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "257 Cases of COVID-19 Confirmed in Moore County as State Catches Up With Local Data",
-        "link": "https://news.google.com/articles/CBMipQFodHRwczovL3d3dy50aGVwaWxvdC5jb20vY29yb25hdmlydXMvMjU3LWNhc2VzLW9mLWNvdmlkLTE5LWNvbmZpcm1lZC1pbi1tb29yZS1jb3VudHktYXMtc3RhdGUtY2F0Y2hlcy11cC13aXRoLWxvY2FsL2FydGljbGVfNzUxYmUyNDQtYTljMS0xMWVhLWI4YTktYTdiY2NhNTRhZDI5Lmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Even In A Pandemic, WHO Believes That Public Protests Are Important",
         "link": "https://news.google.com/articles/CAIiEO7av4M29cFP3pJpkO4FVHwqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live news: lockdowns reduced infection rate by 81%, research shows",
+        "title": "Lockdowns reduced infection rate by 81%, research shows – As it happened",
         "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus: World Bank confirms deepest recession since World War Two",
+        "link": "https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZW4vc3RvcnkvMjAyMC8wNi8xMDY1OTAy0gEA?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
