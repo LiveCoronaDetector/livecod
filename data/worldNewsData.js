@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "Coronavirus Outbreak: Live Updates and News for Jun. 9, 2020",
+        "link": "https://news.google.com/articles/CAIiEJ-GixrfKTwbnZvKXBXLkv4qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Even In A Pandemic, WHO Believes That Public Protests Are Important",
+        "link": "https://news.google.com/articles/CAIiEO7av4M29cFP3pJpkO4FVHwqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "'Globally It's Worsening,' W.H.O. Says of Coronavirus Pandemic",
         "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3dvcmxkLzEwMDAwMDAwNzE4MDY1MC93aG8tY29yb25hdmlydXMtY2FzZXMtcmVjb3JkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Lockdowns reduced infection rate by 81%, research shows – As it happened",
-        "link": "https://news.google.com/articles/CAIiEIAnQKlNgAo-ZHcjIIkl5iAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus: World Bank confirms deepest recession since World War Two",
-        "link": "https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZW4vc3RvcnkvMjAyMC8wNi8xMDY1OTAy0gEA?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
