@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDkvb3RoZXJfc3BvcnRzLzE1OTE2ODM2ODZfMTU4OTkxLmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA5L290aGVyX3Nwb3J0cy8xNTkxNjgzNjg2XzE1ODk5MS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "More than half of states may be undercounting coronavirus cases by not following CDC guidelines",
-        "link": "https://news.google.com/articles/CAIiELMsBwI9Sfrnah8v_zDGTZ4qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus triggers new American border debate — with Canada",
+        "link": "https://news.google.com/articles/CAIiEPSBNSaRfDJleiDEqqOb4wMqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
-        "link": "https://news.google.com/articles/CAIiEM_nfzlwBuruiZ6fWdbl7s4qGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus Israel live: Health minister cautions over 'dramatic' rise in new cases",
+        "link": "https://news.google.com/articles/CAIiEKo0roPxBmdje2Zd9Ynl_qQqMwgEKioIACIQo8MlfRp19vXTQjuzX4teDSoUCAoiEKPDJX0adfb100I7s1-LXg0w4ZfOBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Brazil faces criticism over coronavirus data; Germany reports record plunge in exports",
         "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wOS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: How Covid-19 has changed the 'big fat Indian wedding'",
+        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY30gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyODkyOTY3?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus may have been spreading in China since August 2019: study",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEOqSOciI2mEH-XeCZutaSF0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live Coronavirus Updates: Disease’s Peak Is Still Far Off in Some Places",
-        "link": "https://news.google.com/articles/CAIiELmEs0sUADRX91d9wLQ4-H8qFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Live Coronavirus Updates",
+        "link": "https://news.google.com/articles/CAIiELmEs0sUADRX91d9wLQ4-H8qFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Satellite traffic images may suggest virus hit Wuhan earlier",
-        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTI5NzU5MzTSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01Mjk3NTkzNA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wOS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global Coronavirus Caseload Passes 7 Million",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live updates: Eiffel Tower sets reopening date; WHO clarifies remarks on asymptomatic spread",
+        "link": "https://news.google.com/articles/CAIiEORHCgLkFcctVsQiHeMlWtwqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
