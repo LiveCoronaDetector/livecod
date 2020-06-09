@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaW5kZXguaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The U.S.-China 'cold war' is here — and Beijing may start targeting Washington's allies, analysts say",
-        "link": "https://news.google.com/articles/CAIiELTd3QoGmlhbvOpcJy1w4FgqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Satellite data suggests coronavirus may have hit China earlier: Researchers",
+        "link": "https://news.google.com/articles/CBMieGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9zYXRlbGxpdGUtZGF0YS1zdWdnZXN0cy1jb3JvbmF2aXJ1cy1oaXQtY2hpbmEtZWFybGllci1yZXNlYXJjaGVycy9zdG9yeT9pZD03MTEyMzI3MNIBfGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0ludGVybmF0aW9uYWwvc2F0ZWxsaXRlLWRhdGEtc3VnZ2VzdHMtY29yb25hdmlydXMtaGl0LWNoaW5hLWVhcmxpZXItcmVzZWFyY2hlcnMvc3Rvcnk_aWQ9NzExMjMyNzA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Asymptomatic spread of coronavirus is 'very rare,' WHO says",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTI5NzU5MzTSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01Mjk3NTkzNA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global Coronavirus Caseload Passes 7 Million",
-        "link": "https://news.google.com/articles/CAIiEFoKkv4-nf1BytjGs_In7ooqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus live news: 600 die in Nigeria outbreak; Madrid denies not treating care home residents",
+        "link": "https://news.google.com/articles/CAIiEEVHmmounkDOi1ssegZYBhoqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
