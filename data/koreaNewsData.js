@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200609164900004?did=1195m"
     },
     {
-        "title": "서울 리치웨이발? 코로나19 확진자 성남서 8명이나",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014671514&code=61121211&cp=nv"
-    },
-    {
-        "title": "송파 강남대성학원 직원 코로나19 확진에 ‘비상’",
-        "link": "http://www.hani.co.kr/arti/area/capital/948629.html"
-    },
-    {
-        "title": "\"이란 코로나19 환자 1천500만명일 수도…인구의 19%\"(종합)",
-        "link": "http://yna.kr/AKR20200609180751111?did=1195m"
-    },
-    {
         "title": "6월 확진자 97%는 수도권서 발생…고속도로 휴게소도 점검",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4466251&ref=A"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 '어제와 같은' 38명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
+    },
+    {
+        "title": "(2보)춘천 9번째 코로나19 확진자 발생",
+        "link": "http://www.kwnews.co.kr/view.asp?aid=220060800148&s=501"
+    },
+    {
+        "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
+        "link": "http://www.fnnews.com/news/202006091023251933"
     }
 ];
