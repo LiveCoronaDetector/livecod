@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEGYD0IW66hddlRCz7f1FG3UqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Furious Backlash in Brazil After Coronavirus Data Withheld by Ministry",
-        "link": "https://news.google.com/articles/CAIiEFtbiFxbw1PVplsW1GMt5zAqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Texas reports a record number of hospitalized coronavirus patients after state reopened early",
+        "link": "https://news.google.com/articles/CAIiEF0hci1q9PbVP1LoLgmcJU4qGQgEKhAIACoHCAow2Nb3CjDivdcCMLvrngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Outbreak: Live Updates and News for Jun. 9, 2020",
-        "link": "https://news.google.com/articles/CAIiEJ-GixrfKTwbnZvKXBXLkv4qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Even In A Pandemic, WHO Believes That Public Protests Are Important",
-        "link": "https://news.google.com/articles/CAIiEO7av4M29cFP3pJpkO4FVHwqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "World Health Organization releases new COVID-19 guidelines",
+        "link": "https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3Lndpc2h0di5jb20vbmV3cy9jb3JvbmF2aXJ1cy93b3JsZC1oZWFsdGgtb3JnYW5pemF0aW9uLXJlbGVhc2VzLW5ldy1jb3ZpZC0xOS1ndWlkZWxpbmVzL9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "'Globally It's Worsening,' W.H.O. Says of Coronavirus Pandemic",
         "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3dvcmxkLzEwMDAwMDAwNzE4MDY1MC93aG8tY29yb25hdmlydXMtY2FzZXMtcmVjb3JkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Live updates: Once the coronavirus epicenter in the U.S., New York City begins to reopen",
+        "link": "https://news.google.com/articles/CAIiEA2AijhZx65-mfsPFu1zQfgqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

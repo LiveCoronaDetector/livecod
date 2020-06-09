@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
     },
     {
-        "title": "[종합] 광명 어르신보호센터서 6명 코로나 무더기 확진",
-        "link": "https://www.hankyung.com/society/article/2020060955137"
-    },
-    {
-        "title": "동작구청 \"노량진1동서 코로나19 추가확진자 발생\"[속보]",
-        "link": "http://www.kjdaily.com/read.php3?aid=1591667010513382208"
-    },
-    {
-        "title": "코로나 확진 38명…수도권 지역발병 33명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/09/2020060901256.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 38명…지역발생35명·해외유입 3명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5803849_32633.html"
+        "title": "서울서 직장 다니던 춘천 20대 코로나19 확진",
+        "link": "http://www.hani.co.kr/arti/area/gangwon/948526.html"
     },
     {
-        "title": "[속보] 코로나19 확진 38명 늘어…수도권서 33명",
-        "link": "http://www.hani.co.kr/arti/society/health/948522.html"
+        "title": "[속보] 양산 일가족 3명 코로나19 확진",
+        "link": "http://www.newsis.com/view/?id=NISX20200609_0001052762&cID=10812&pID=10800"
     },
     {
-        "title": "중국동포 쉼터서 코로나19 집단감염…방역 사각지대 '불안불안'",
-        "link": "http://yna.kr/AKR20200608158500530?did=1195m"
+        "title": "[종합] 광명 어르신보호센터서 6명 코로나 무더기 확진",
+        "link": "https://www.hankyung.com/society/article/2020060955137"
     },
     {
-        "title": "[속보] 코로나19 어제 신규 확진 38명…33명 수도권",
+        "title": "코로나19 어제 신규 확진 38명…33명 수도권",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005826742&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "먼저 코로나 종식 선언합니다, 환자 제로 이 국가",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/08/2020060801398.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "[단독] 이란, 세계 첫 코로나 `2차 파동` 왔다",
+        "link": "http://news.mk.co.kr/newsRead.php?no=588854&year=2020"
+    },
+    {
+        "title": "코로나19 확진자 38명 늘어 총 11,852명…수도권 35명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4466080&ref=A"
+    },
+    {
+        "title": "코로나19 서울 확진자 1천 명 돌파…부천 아울렛 직원 확진",
+        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5803348_32531.html"
+    },
+    {
+        "title": "'리치웨이' 무더기 확진, 서울 코로나19 누적 1000명 돌파(종합)",
+        "link": "http://www.fnnews.com/news/202006091111271422"
     }
 ];
