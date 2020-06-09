@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200609/101431007/2"
     },
     {
-        "title": "서울 확진자 28명↑…'리치웨이' 10명 최다 증가(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5358108"
+        "title": "서울시 코로나 누적 확진 1000명 넘었다…첫 확진 137일만",
+        "link": "https://news.joins.com/article/olink/23391964"
     },
     {
         "title": "(2보)춘천 9번째 코로나19 확진자 발생",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006091023251933"
     },
     {
-        "title": "[속보]강남대성학원 코로나19 확진자 발생…영통구 거주 조리보조원",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091717001&code=940100"
+        "title": "6월 9일, ‘코로나19’ 전세계 확진자 702만명…입국금지·검역 조치 184개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/09/2020060980190.html"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 '어제와 같은' 38명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
     },
     {
         "title": "코로나에 가장 덜 걸리는 혈액형은?",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/09/2020060901429.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "6월 9일, ‘코로나19’ 전세계 확진자 702만명…입국금지·검역 조치 184개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/09/2020060980190.html"
-    },
-    {
-        "title": "미 연구진 \"코로나19, 작년 8월 발생 가능성\"…중 \"황당한 주장\"(종합)",
-        "link": "http://yna.kr/AKR20200609141751009?did=1195m"
+        "title": "가족 2차 전파율 16.2%로 '경고등'…\"고령층 확진자 증가 우려\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200609_0001053716&cID=10201&pID=10200"
     }
 ];
