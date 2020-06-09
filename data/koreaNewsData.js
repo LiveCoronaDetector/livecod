@@ -9,20 +9,24 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02660086625800080"
     },
     {
-        "title": "서울 확진자 28명↑…'리치웨이' 10명 최다 증가(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5358108"
-    },
-    {
         "title": "쿠팡 물류센터·요양원 관련 확진자 2명 사망…누적 276명",
         "link": "https://www.donga.com/news/article/all/20200609/101431007/2"
     },
     {
-        "title": "[종합] 양천 탁구장발 확진자 6명 늘어…수도권 지역감염 확산",
-        "link": "https://www.hankyung.com/society/article/2020060976527"
+        "title": "서울 확진자 28명↑…'리치웨이' 10명 최다 증가(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5358108"
+    },
+    {
+        "title": "(2보)춘천 9번째 코로나19 확진자 발생",
+        "link": "http://www.kwnews.co.kr/view.asp?aid=220060800148&s=501"
     },
     {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
+    },
+    {
+        "title": "[속보]강남대성학원 코로나19 확진자 발생…영통구 거주 조리보조원",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091717001&code=940100"
     },
     {
         "title": "코로나에 가장 덜 걸리는 혈액형은?",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/09/2020060980190.html"
     },
     {
-        "title": "가족 2차 전파율 16.2%로 '경고등'…\"고령층 확진자 증가 우려\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200609_0001053716&cID=10201&pID=10200"
-    },
-    {
-        "title": "[속보]강남대성학원 코로나19 확진자 발생…영통구 거주 조리보조원",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091717001&code=940100"
+        "title": "미 연구진 \"코로나19, 작년 8월 발생 가능성\"…중 \"황당한 주장\"(종합)",
+        "link": "http://yna.kr/AKR20200609141751009?did=1195m"
     }
 ];
