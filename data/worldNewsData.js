@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEPEv2xBHZSKW1S7VG1PTJr0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDkvb3RoZXJfc3BvcnRzLzE1OTE2NTk1MjhfODMzOTI3Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA5L290aGVyX3Nwb3J0cy8xNTkxNjU5NTI4XzgzMzkyNy5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "India Reopens Public Places Even As Coronavirus Cases Rise",
+        "link": "https://news.google.com/articles/CAIiEOqKue5qU1dz3_xK3XlcwV8qFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Satellite data suggests coronavirus may have hit China earlier: Researchers",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELMnnIusTDk3Md1QipBRHGkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Even In A Pandemic, WHO Believes That Public Protests Are Important",
-        "link": "https://news.google.com/articles/CAIiEO7av4M29cFP3pJpkO4FVHwqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "'Globally It's Worsening,' W.H.O. Says of Coronavirus Pandemic",
-        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL3ZpZGVvL3dvcmxkLzEwMDAwMDAwNzE4MDY1MC93aG8tY29yb25hdmlydXMtY2FzZXMtcmVjb3JkLmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: World Bank confirms deepest recession since World War Two",
+        "link": "https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZW4vc3RvcnkvMjAyMC8wNi8xMDY1OTAy0gEA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live news: Brazil passes 700,000 infections as WHO warns pandemic is worsening",
         "link": "https://news.google.com/articles/CAIiEEVHmmounkDOi1ssegZYBhoqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Once the coronavirus epicenter in the U.S., New York City begins to reopen",
+        "link": "https://news.google.com/articles/CAIiEA2AijhZx65-mfsPFu1zQfgqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
