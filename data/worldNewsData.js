@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: Nine states report significant uptick in coronavirus hospitalizations after Memorial Day",
-        "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus Israel live: Health minister cautions over 'dramatic' rise in new cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Several states seeing rise in coronavirus cases",
-        "link": "https://news.google.com/articles/CCAiC3k3bXpzM1dDdWM4mAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
         "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
-        "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Brazil Must Be Open With Its Coronavirus Data, Supreme Court Justice Rules",
+        "link": "https://news.google.com/articles/CAIiEIoa95LKN3zh80tJV-r2KI4qFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
