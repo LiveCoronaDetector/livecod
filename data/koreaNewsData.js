@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
     {
-        "title": "6월 10일, ‘코로나19’ 전세계 확진자 715만명…입국금지·검역 조치 184개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/10/2020061080216.html"
+        "title": "삼성전자 수원사업장서 확진자 발생… 1200여 명 재택근무 돌입",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020061017200703415"
     },
     {
         "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
