@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Threat of Military Action Rattles Brazil as Virus Deaths Surge",
-        "link": "https://news.google.com/articles/CAIiECqgX97w6Ks2sj0q7T69fBsqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiECqgX97w6Ks2sj0q7T69fBsqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO says Pakistan should reimpose lockdown to curb coronavirus",
@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTg5NDUy0gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTg5NDUy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "U.S. Sends Aircraft Carriers as China Makes Waves in the Pacific",
-        "link": "https://news.google.com/articles/CAIiEDtExl57yE-qHrFxZIiTmSQqGAgEKg8IACoHCAow1tzJATDnyxUwxcrPBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Italy PM to be questioned over coronavirus response: Live updates",
+        "link": "https://news.google.com/articles/CAIiELYRRSygxoJAefFfjQTcln4qFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
-        "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
         "link": "https://news.google.com/articles/CAIiEJOs_TcRiQFnsO37zGeDH50qGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "How the Coronavirus Compares With 100 Years of Deadly Events",
+        "link": "https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjAvMDYvMTAvd29ybGQvY29yb25hdmlydXMtaGlzdG9yeS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
