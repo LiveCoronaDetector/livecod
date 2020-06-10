@@ -30,11 +30,11 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus Live Updates: As U.S. Reopens, 21 States See Cases Rise",
-        "link": "https://news.google.com/articles/CAIiEOeibjnhFx6A-arMUFYCS0wqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEOeibjnhFx6A-arMUFYCS0wqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
-        "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",

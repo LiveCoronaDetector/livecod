@@ -9,16 +9,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/10/2020061001178.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "'옛 기무사' 안보사 4명 코로나19 추가확진…부대원 전수검사(종합)",
-        "link": "http://yna.kr/AKR20200610056252504?did=1195m"
-    },
-    {
         "title": "'코로나 충격' 취업자 3개월째 감소…실업자 역대 최대(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
-    },
-    {
-        "title": "삼성전자 수원 연구동에서 코로나 확진자 발생.. 건물 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z3Z1VDV9T"
     },
     {
         "title": "\"쿠팡, 코로나19 확진자에 사과·책임져야\" 청와대 청원 올라와",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006100954001&code=940100"
     },
     {
+        "title": "삼성전자 수원 연구동에서 코로나 확진자 발생.. 건물 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z3Z1VDV9T"
+    },
+    {
         "title": "공개기한 지난 코로나19 확진자 동선정보 삭제…구체 지침 마련",
         "link": "http://yna.kr/AKR20200610088700530?did=1195m"
+    },
+    {
+        "title": "코로나19 덜 걸리는 혈액형 있다",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/06/10/2020061001170.html"
     }
 ];
