@@ -5,16 +5,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/10/2020061001300.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
-        "link": "http://www.fnnews.com/news/202006101017320517"
-    },
-    {
         "title": "‘코로나19’ 확진자 머리 손질한 미용실 직원도 감염",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006100954001&code=940100"
     },
     {
-        "title": "롯데월드 방문 원묵고 3학년생, 코로나19 '음성' 최종 판정",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
+        "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
+        "link": "http://www.fnnews.com/news/202006101017320517"
     },
     {
         "title": "확진자 동선 공개 '사생활 침해' 논란 없앤다…KAIST 앱 개발",
@@ -25,8 +21,12 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020061010433625664"
     },
     {
-        "title": "과천 군사안보지원사령부에서 코로나 집단 감염…확진자 4명 추가",
-        "link": "https://news.joins.com/article/olink/23392672"
+        "title": "롯데월드 방문 원묵고 3학년생, 코로나19 '음성' 최종 판정",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "“코로나19 확진자 동선 2차피해 우려” 정부, 삭제 조치 강화",
+        "link": "http://www.hankookilbo.com/news/npath/202006101174744580?did=NA"
     },
     {
         "title": "어제 신규 확진자 50명...수도권 'n차 감염' 확산",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
     {
-        "title": "코로나19 덜 걸리는 혈액형 있다",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/06/10/2020061001170.html"
+        "title": "동작구청 \"사당5동 코로나19 추가확진자 발생\"[속보]",
+        "link": "http://www.kjdaily.com/read.php3?aid=1591760709513541208"
     }
 ];
