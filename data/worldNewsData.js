@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTgwNjQy0gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTgwNjQy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Netanyahu ‘pulls emergency brake’ as coronavirus cases spike",
-        "link": "https://news.google.com/articles/CAIiEM_nfzlwBuruiZ6fWdbl7s4qGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Pakistan coronavirus: Concerns grow over use of low-quality masks",
+        "link": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIwLzA2L3Bha2lzdGFuLWNvcm9uYXZpcnVzLWNvbmNlcm5zLWdyb3ctbG93LXF1YWxpdHktbWFza3MtMjAwNjA5MDk1MzA4MjAxLmh0bWzSAXRodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjAvMDYvcGFraXN0YW4tY29yb25hdmlydXMtY29uY2VybnMtZ3Jvdy1sb3ctcXVhbGl0eS1tYXNrcy0yMDA2MDkwOTUzMDgyMDEuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Its Defenses Undone by a Virus, France Seeks Lessons From a Lost War",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKfM1bfcscaEfdRQUHWEJXkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Live updates: Hospitalizations in at least nine states are on the rise; U.S. nears 2 million cases",
+        "title": "Live updates: WHO walks back comment about asymptomatic coronavirus spread; U.S. nears 2 million cases",
         "link": "https://news.google.com/articles/CAIiELYn3WgcDaBkozwXOJ2KVgUqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
