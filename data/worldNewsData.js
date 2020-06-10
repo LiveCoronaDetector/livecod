@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: Nine states report significant uptick in coronavirus hospitalizations after Memorial Day",
-        "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Global report: WHO urges Pakistan to return to lockdown as hospitals struggle",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "WHO says virus 'worsening' globally",
-        "link": "https://news.google.com/articles/CCAiC2lVV1doaThyOF9jmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "The Pandemic Is Getting Worse | Coronavirus News for June 9, 2020",
+        "link": "https://news.google.com/articles/CCAiC2VxRFZEMnNicDFVmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
         "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Brazil Must Be Open With Its Coronavirus Data, Supreme Court Justice Rules",
-        "link": "https://news.google.com/articles/CAIiEIoa95LKN3zh80tJV-r2KI4qFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Inside Brazil's COVID-19 tragedy | ABCNews PRIME",
+        "link": "https://news.google.com/articles/CCAiC3ZoVHo5UE0xRjNFmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
