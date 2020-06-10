@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy93b3JsZC9jaGluYS1ydXNzaWEtYXJlLXNwcmVhZGluZy12aXJ1cy1taXNpbmZvcm1hdGlvbi1ldS1zYXlzL2FyLUJCMTVoV2xZ0gEA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
-        "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
-        "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Dr. Anthony Fauci says WHO's remark on asymptomatic coronavirus spread 'was not correct'",
+        "link": "https://news.google.com/articles/CAIiENyIf-YE7PlrFn6EPLyTR54qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Facebook, Twitter, Google to report monthly on fake news fight, EU says",

@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z3Z1VDV9T"
     },
     {
-        "title": "삼성전자 수원사업장서 확진자 발생… 1200여 명 재택근무 돌입",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020061017200703415"
-    },
-    {
         "title": "공개기한 지난 코로나19 확진자 동선정보 삭제…구체 지침 마련",
         "link": "http://yna.kr/AKR20200610088700530?did=1195m"
+    },
+    {
+        "title": "리치웨이發 확진자 100명 육박…SJ투자회사 콜센터도 관련",
+        "link": "https://www.donga.com/news/article/all/20200610/101456281/1"
     },
     {
         "title": "코로나19 덜 걸리는 혈액형 있다",
