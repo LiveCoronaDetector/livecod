@@ -21,6 +21,14 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006101026001&code=940601"
     },
     {
+        "title": "리치웨이·교회發 확산에…1주간 확진자 4명 중 1명 '노인'(상보)",
+        "link": "https://view.asiae.co.kr/article/2020061014531267470"
+    },
+    {
+        "title": "파우치의 경고 \"최악 악몽 코로나, 이제 시작···종식 멀었다\"",
+        "link": "https://news.joins.com/article/olink/23392778"
+    },
+    {
         "title": "'코로나 충격' 취업자 3개월째 감소…실업자 역대 최대(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
         "link": "http://www.fnnews.com/news/202006101017320517"
-    },
-    {
-        "title": "‘코로나19’ 확진자 머리 손질한 미용실 직원도 감염",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006100954001&code=940100"
-    },
-    {
-        "title": "코로나19 덜 걸리는 혈액형 있다",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/06/10/2020061001170.html"
     }
 ];

@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: Nine states report significant uptick in coronavirus hospitalizations after Memorial Day",
-        "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Global report: WHO urges Pakistan to return to lockdown as hospitals struggle",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEG9CXZuqMDUlX_Wn4n8KWC0qFwgEKg8IACoHCAowjuuKAzCWrzww14QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMTAvb3RoZXJfc3BvcnRzLzE1OTE3NDM4MjJfMDQyNDI5Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzEwL290aGVyX3Nwb3J0cy8xNTkxNzQzODIyXzA0MjQyOS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "India reports nearly 10,000 coronavirus cases in one day: Live",
+        "link": "https://news.google.com/articles/CAIiELYRRSygxoJAefFfjQTcln4qFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus may have been spreading in China since August 2019: study",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "Loosened coronavirus lockdowns spark new concerns in world's poorest regions",
+        "link": "https://news.google.com/articles/CAIiEKG3o-P8injSTMNq5Z6mThQqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
         "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Satellite images of Wuhan may suggest coronavirus was spreading as early as August",
         "link": "https://news.google.com/articles/CAIiEFo62hdz0feGIBKLDEKa9WUqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus update: Global infections climb above 7.2 million as health experts question WHO statement on asymptomatic carriers",
-        "link": "https://news.google.com/articles/CAIiENYjvK7kcW_tMQ2qZ7gNN4sqGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
