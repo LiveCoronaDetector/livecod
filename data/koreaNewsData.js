@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200610088700530?did=1195m"
     },
     {
-        "title": "리치웨이發 확진자 100명 육박…SJ투자회사 콜센터도 관련",
-        "link": "https://www.donga.com/news/article/all/20200610/101456281/1"
+        "title": "코로나19 덜 걸리는 혈액형 있다",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/06/10/2020061001170.html"
     }
 ];
