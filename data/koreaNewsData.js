@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "“쿠팡 확진자 은폐로 남편 사경 헤매” 청와대 청원까지 나온 쿠팡책임론",
-        "link": "https://www.sedaily.com/NewsView/1Z3Z1SOYR7"
+        "title": "삼성전자 수원 연구동에서 코로나 확진자 발생.. 건물 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z3Z1VDV9T"
     },
     {
-        "title": "'옛 기무사' 안보사 4명 코로나19 추가확진…부대원 전수검사(종합)",
-        "link": "http://yna.kr/AKR20200610056252504?did=1195m"
-    },
-    {
-        "title": "파우치의 경고 \"최악 악몽 코로나, 이제 시작···종식 멀었다\"",
-        "link": "https://news.joins.com/article/olink/23392778"
-    },
-    {
-        "title": "'코로나 충격' 취업자 3개월째 감소…실업자 역대 최대(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
-    },
-    {
-        "title": "삼성전자 수원사업장서 확진자 발생… 1200여 명 재택근무 돌입",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020061017200703415"
+        "title": "\"쿠팡, 코로나19 확진자에 사과·책임져야\" 청와대 청원 올라와",
+        "link": "http://yna.kr/AKR20200610116400030?did=1195m"
     },
     {
         "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
         "link": "http://www.fnnews.com/news/202006101017320517"
+    },
+    {
+        "title": "6월 10일, ‘코로나19’ 전세계 확진자 715만명…입국금지·검역 조치 184개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/10/2020061080216.html"
+    },
+    {
+        "title": "‘코로나19’ 확진자 머리 손질한 미용실 직원도 감염",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006100954001&code=940100"
+    },
+    {
+        "title": "공개 기한 지난 코로나19 확진자 동선 정보 삭제",
+        "link": "http://news.ebs.co.kr/ebsnews/allView/20300123/N"
     }
 ];
