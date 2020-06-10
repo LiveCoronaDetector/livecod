@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMTAvb3RoZXJfc3BvcnRzLzE1OTE3NjgwMDZfNDg0MTc5Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzEwL290aGVyX3Nwb3J0cy8xNTkxNzY4MDA2XzQ4NDE3OS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coup Threats Rattle Brazil as Virus Deaths Surge",
-        "link": "https://news.google.com/articles/CAIiECqgX97w6Ks2sj0q7T69fBsqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Threat of Military Action Rattles Brazil as Virus Deaths Surge",
+        "link": "https://news.google.com/articles/CAIiECqgX97w6Ks2sj0q7T69fBsqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO says Pakistan should reimpose lockdown to curb coronavirus",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEB9zKonySEkR_PXgrXsV5AgqGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live updates: Indonesia reports record spike; no-deal Brexit could damage UK recovery",
-        "link": "https://news.google.com/articles/CAIiEPG7HG88isdOYk_4BmxOqeoqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "The World Reopens, Despite Skyrocketing Coronavirus Cases",
+        "link": "https://news.google.com/articles/CAIiEIoH5GS2kg0av2RZC22T1y4qFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "China is not a military threat, EU top diplomat says",
-        "link": "https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjAvMDYvMDkvY2hpbmEtaXMtbm90LWEtbWlsaXRhcnktdGhyZWF0LWV1LXRvcC1kaXBsb21hdC1zYXlzLTMwOTI1N9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "China, Russia Are Spreading Virus Misinformation, EU Says",
+        "link": "https://news.google.com/articles/CAIiEGye7nilRfnygC7h8StH3O0qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus Live Updates: As U.S. Reopens, Some States See Cases Rise",
+        "link": "https://news.google.com/articles/CAIiEOeibjnhFx6A-arMUFYCS0wqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "How the Coronavirus Compares With 100 Years of Deadly Events",
-        "link": "https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjAvMDYvMTAvd29ybGQvY29yb25hdmlydXMtaGlzdG9yeS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "June 9 coronavirus news",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wOS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "China, Russia Are Spreading Virus Misinformation, EU Says",
-        "link": "https://news.google.com/articles/CBMiS2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9ldS1wb2ludHMtZmluZ2VyLWNoaW5hLXJ1c3NpYS0xMDAxMjI5MTQuaHRtbNIBU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL2V1LXBvaW50cy1maW5nZXItY2hpbmEtcnVzc2lhLTEwMDEyMjkxNC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
+        "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
