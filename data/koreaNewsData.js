@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
     {
-        "title": "‘코로나19’ 확진자 머리 손질한 미용실 직원도 감염",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006100954001&code=940100"
-    },
-    {
         "title": "6월 10일, ‘코로나19’ 전세계 확진자 715만명…입국금지·검역 조치 184개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/10/2020061080216.html"
     },
     {
         "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
         "link": "http://www.fnnews.com/news/202006101017320517"
+    },
+    {
+        "title": "‘코로나19’ 확진자 머리 손질한 미용실 직원도 감염",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006100954001&code=940100"
     },
     {
         "title": "코로나19 덜 걸리는 혈액형 있다",

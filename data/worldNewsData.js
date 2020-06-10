@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The Pandemic Is Getting Worse | Coronavirus News for June 9, 2020",
-        "link": "https://news.google.com/articles/CCAiC2VxRFZEMnNicDFVmAEB?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
         "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Inside Brazil's COVID-19 tragedy | ABCNews PRIME",
-        "link": "https://news.google.com/articles/CCAiC3ZoVHo5UE0xRjNFmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Satellite images of Wuhan may suggest coronavirus was spreading as early as August",
+        "link": "https://news.google.com/articles/CAIiEFo62hdz0feGIBKLDEKa9WUqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus update: Global infections climb above 7.2 million as health experts question WHO statement on asymptomatic carriers",
+        "link": "https://news.google.com/articles/CAIiENYjvK7kcW_tMQ2qZ7gNN4sqGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
