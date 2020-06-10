@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMDkvb3RoZXJfc3BvcnRzLzE1OTE2ODM2ODZfMTU4OTkxLmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzA5L290aGVyX3Nwb3J0cy8xNTkxNjgzNjg2XzE1ODk5MS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus triggers new American border debate — with Canada",
-        "link": "https://news.google.com/articles/CAIiEPSBNSaRfDJleiDEqqOb4wMqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Brazil resumes publishing Covid-19 data after court ruling",
+        "link": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTgwNjQy0gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1sYXRpbi1hbWVyaWNhLTUyOTgwNjQy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live news: WHO urges Pakistan to reimpose lockdown as Brazil restores Covid-19 data",
-        "link": "https://news.google.com/articles/CAIiEISTJEGDZsQQ7qZlUvVkYIMqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEISTJEGDZsQQ7qZlUvVkYIMqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Brazil faces criticism over coronavirus data; Germany reports record plunge in exports",
-        "link": "https://news.google.com/articles/CAIiEOiTzthR-Y4pxkUfi-QmtjsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Its Defenses Undone by a Virus, France Seeks Lessons From a Lost War",
+        "link": "https://news.google.com/articles/CAIiEG9CXZuqMDUlX_Wn4n8KWC0qFwgEKg8IACoHCAowjuuKAzCWrzww14QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news, today",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKeDbVoRby9CVdr2KePsUJ0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
-        "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
         "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Dr. Anthony Fauci says coronavirus turned 'out to be my worst nightmare' and it 'isn't over'",
-        "link": "https://news.google.com/articles/CAIiEKfM1bfcscaEfdRQUHWEJXkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: more than a dozen US states see record high of new cases",
+        "link": "https://news.google.com/articles/CAIiEHkwehkeef5-b1dHgFQQo2IqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Burundi says President Pierre Nkurunziza has died of heart attack",
-        "link": "https://news.google.com/articles/CCAiCzJ4MXlDdC1nUVlVmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
+        "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "WHO believes protests important amid coronavirus pandemic",
+        "link": "https://news.google.com/articles/CAIiEG9ucVxC-dir3rLaLvXPN2AqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
