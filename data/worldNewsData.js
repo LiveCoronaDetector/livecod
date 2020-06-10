@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
-        "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
-        "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "How the Coronavirus Compares With 100 Years of Deadly Events",
         "link": "https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjAvMDYvMTAvd29ybGQvY29yb25hdmlydXMtaGlzdG9yeS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
+        "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Live updates: Nine states report significant uptick in coronavirus hospitalizations after Memorial Day",
+        "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
