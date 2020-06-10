@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMimwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9hcnRpY2xlL3VzLWhlYWx0aC1oZWFsdGgtY29yb25hdmlydXMtZXUtZGlzaW5mb3IvZmFjZWJvb2stdHdpdHRlci1nb29nbGUtdG8tcmVwb3J0LW1vbnRobHktb24tZmFrZS1uZXdzLWZpZ2h0LWV1LXNheXMtaWRVU0tCTjIzSDFFSNIBNGh0dHBzOi8vbW9iaWxlLnJldXRlcnMuY29tL2FydGljbGUvYW1wL2lkVVNLQk4yM0gxRUg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
         "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
@@ -34,10 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
-        "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Live updates: Nine states report significant uptick in coronavirus hospitalizations after Memorial Day",
-        "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
