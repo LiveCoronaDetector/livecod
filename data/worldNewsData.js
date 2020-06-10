@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
-        "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Loosened coronavirus lockdowns spark new concerns in world's poorest regions",
+        "link": "https://news.google.com/articles/CAIiEKG3o-P8injSTMNq5Z6mThQqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "June 9 coronavirus news",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wOS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus may have hit Wuhan earlier than thought, Harvard study using satellite traffic images suggests",
         "link": "https://news.google.com/articles/CAIiELfuVUlDQv502-53M1Qe2OcqGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus update: Global infections climb above 7.2 million as health experts question WHO statement on asymptomatic carriers",
-        "link": "https://news.google.com/articles/CAIiENYjvK7kcW_tMQ2qZ7gNN4sqGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

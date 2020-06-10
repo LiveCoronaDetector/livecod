@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "안보지원사 코로나19 확진자 4명 추가(종합)",
-        "link": "https://view.asiae.co.kr/article/2020061010433625664"
-    },
-    {
         "title": "“쿠팡 확진자 은폐로 남편 사경 헤매” 청와대 청원까지 나온 쿠팡책임론",
         "link": "https://www.sedaily.com/NewsView/1Z3Z1SOYR7"
     },
     {
-        "title": "공개기한 지난 코로나19 확진자 동선정보 삭제…대응도 일원화",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5805503_32633.html"
+        "title": "'옛 기무사' 안보사 4명 코로나19 추가확진…부대원 전수검사(종합)",
+        "link": "http://yna.kr/AKR20200610056252504?did=1195m"
+    },
+    {
+        "title": "파우치의 경고 \"최악 악몽 코로나, 이제 시작···종식 멀었다\"",
+        "link": "https://news.joins.com/article/olink/23392778"
     },
     {
         "title": "'코로나 충격' 취업자 3개월째 감소…실업자 역대 최대(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
     {
-        "title": "[속보] 삼성 수원사업장서 확진자 발생…1200명 재택 돌입",
-        "link": "https://www.hankyung.com/society/article/2020061028177"
-    },
-    {
         "title": "6월 10일, ‘코로나19’ 전세계 확진자 715만명…입국금지·검역 조치 184개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/10/2020061080216.html"
+    },
+    {
+        "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
+        "link": "http://www.fnnews.com/news/202006101017320517"
     }
 ];
