@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Threat of Military Action Rattles Brazil as Virus Deaths Surge",
-        "link": "https://news.google.com/articles/CAIiECqgX97w6Ks2sj0q7T69fBsqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiECqgX97w6Ks2sj0q7T69fBsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO says Pakistan should reimpose lockdown to curb coronavirus",
@@ -22,15 +22,15 @@ var worldNewsData = [
     },
     {
         "title": "China, Russia Are Spreading Virus Misinformation, EU Says",
-        "link": "https://news.google.com/articles/CAIiEGye7nilRfnygC7h8StH3O0qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CBMiS2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9ldS1wb2ludHMtZmluZ2VyLWNoaW5hLXJ1c3NpYS0xMDAxMjI5MTQuaHRtbNIBU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL2V1LXBvaW50cy1maW5nZXItY2hpbmEtcnVzc2lhLTEwMDEyMjkxNC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Live Updates: As U.S. Reopens, Some States See Cases Rise",
-        "link": "https://news.google.com/articles/CAIiEOeibjnhFx6A-arMUFYCS0wqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus Live Updates: As U.S. Reopens, 21 States See Cases Rise",
+        "link": "https://news.google.com/articles/CAIiEOeibjnhFx6A-arMUFYCS0wqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
