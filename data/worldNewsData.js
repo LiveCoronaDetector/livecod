@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live news: WHO urges Pakistan to reimpose lockdown as Brazil restores Covid-19 data",
-        "link": "https://news.google.com/articles/CAIiEISTJEGDZsQQ7qZlUvVkYIMqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEISTJEGDZsQQ7qZlUvVkYIMqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Its Defenses Undone by a Virus, France Seeks Lessons From a Lost War",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMTAvb3RoZXJfc3BvcnRzLzE1OTE3NDM4MjJfMDQyNDI5Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzEwL290aGVyX3Nwb3J0cy8xNTkxNzQzODIyXzA0MjQyOS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Satellite images and online searches indicate China had coronavirus in the fall, Harvard study finds",
-        "link": "https://news.google.com/articles/CAIiEKeDbVoRby9CVdr2KePsUJ0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTA5LTIwLWludGwvaF82ODYyNzQ2Njg3NTRjOTNkZDVhM2NjYWZjZGYzM2U4YdIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0wOS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus may have been spreading in China since August 2019: study",
+        "link": "https://news.google.com/articles/CAIiEO-KkzOzdPtC8UqE8zs1f2gqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
         "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "Dr. Anthony Fauci says coronavirus turned 'out to be my worst nightmare' and it 'isn't over'",
+        "link": "https://news.google.com/articles/CAIiEKfM1bfcscaEfdRQUHWEJXkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: more than a dozen US states see record high of new cases",
-        "link": "https://news.google.com/articles/CAIiEHkwehkeef5-b1dHgFQQo2IqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Burundi president dies of illness suspected to be coronavirus",
+        "link": "https://news.google.com/articles/CAIiEMtHB-1NJQu6_wAxK928hCQqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
