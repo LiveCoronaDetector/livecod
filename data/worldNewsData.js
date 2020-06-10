@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live news: WHO urges Pakistan to reimpose lockdown as Brazil restores Covid-19 data",
-        "link": "https://news.google.com/articles/CAIiEISTJEGDZsQQ7qZlUvVkYIMqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEISTJEGDZsQQ7qZlUvVkYIMqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Its Defenses Undone by a Virus, France Seeks Lessons From a Lost War",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Dr. Anthony Fauci says coronavirus turned 'out to be my worst nightmare' and it 'isn't over'",
-        "link": "https://news.google.com/articles/CAIiEKfM1bfcscaEfdRQUHWEJXkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Inside Brazil's COVID-19 tragedy | ABCNews PRIME",
+        "link": "https://news.google.com/articles/CCAiC3ZoVHo5UE0xRjNFmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",
         "link": "https://news.google.com/articles/CAIiEHCxgwkBXR3_ttXmsGE3-LkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Burundi president dies of illness suspected to be coronavirus",
-        "link": "https://news.google.com/articles/CAIiEMtHB-1NJQu6_wAxK928hCQqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Dr. Anthony Fauci says coronavirus turned 'out to be my worst nightmare' and it 'isn't over'",
+        "link": "https://news.google.com/articles/CAIiEKfM1bfcscaEfdRQUHWEJXkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
