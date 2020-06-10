@@ -5,24 +5,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/10/2020061001178.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "삼성전자 수원 연구동에서 코로나 확진자 발생.. 건물 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z3Z1VDV9T"
+        "title": "롯데월드 방문 원묵고 3학년생, 코로나19 '음성' 최종 판정",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 50명···사흘 만에 다시 50명대로",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006101026001&code=940601"
     },
     {
-        "title": "공개기한 지난 코로나19 확진자 동선정보 삭제…구체 지침 마련",
-        "link": "http://yna.kr/AKR20200610088700530?did=1195m"
-    },
-    {
-        "title": "롯데월드 방문 원묵고 3학년생, 코로나19 '음성' 최종 판정",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "안보지원사령부 간부 코로나19 확진···인사사령부도 전면 통제",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006101051001&code=910302"
+        "title": "과천 안보지원사 코로나19 확진자 4명 추가…부대원 전수검사",
+        "link": "http://yna.kr/AKR20200610056251504?did=1195m"
     },
     {
         "title": "파우치의 경고 \"최악 악몽 코로나, 이제 시작···종식 멀었다\"",
@@ -33,11 +25,19 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
     {
-        "title": "\"쿠팡, 코로나19 확진자에 사과·책임져야\" 청와대 청원 올라와",
-        "link": "http://yna.kr/AKR20200610116400030?did=1195m"
+        "title": "삼성전자 수원 연구동에서 코로나 확진자 발생.. 건물 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z3Z1VDV9T"
     },
     {
-        "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
-        "link": "http://www.fnnews.com/news/202006101017320517"
+        "title": "서울시 코로나19 확진자 8시간만에 12명 추가… 누계 1041명(상보)",
+        "link": "https://view.asiae.co.kr/article/2020061019404662289"
+    },
+    {
+        "title": "확진자 동선 14일 후 인터넷 삭제...특별여행주간 7월1~19일로 축소",
+        "link": "http://www.fnnews.com/news/202006101151352258"
+    },
+    {
+        "title": "\"쿠팡, 코로나19 확진자에 사과·책임져야\" 청와대 청원 올라와",
+        "link": "http://yna.kr/AKR20200610116400030?did=1195m"
     }
 ];

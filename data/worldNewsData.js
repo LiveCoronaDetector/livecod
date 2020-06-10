@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global report: WHO urges Pakistan to return to lockdown as hospitals struggle",
-        "link": "https://news.google.com/articles/CAIiEBzaD494sL0jF_sTopmi_UoqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "WHO says Pakistan should reimpose lockdown to curb coronavirus",
+        "link": "https://news.google.com/articles/CAIiEDqnVi1rh3adLYZRPgc8fywqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
