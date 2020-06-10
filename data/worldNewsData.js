@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjAvMDYvMTAvd29ybGQvY29yb25hdmlydXMtaGlzdG9yeS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Dr. Anthony Fauci says WHO's remark on asymptomatic coronavirus spread 'was not correct'",
-        "link": "https://news.google.com/articles/CAIiENyIf-YE7PlrFn6EPLyTR54qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Virus disinformation: EU accuses China of running disinformation campaigns in the EU",
         "link": "https://news.google.com/articles/CCAiC3VEbmFCOFlDS3FvmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
+        "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
