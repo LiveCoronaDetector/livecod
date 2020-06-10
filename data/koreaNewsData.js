@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
     {
-        "title": "삼성전자 수원 연구동에서 코로나 확진자 발생.. 건물 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z3Z1VDV9T"
+        "title": "[속보] 삼성 수원사업장서 확진자 발생…1200명 재택 돌입",
+        "link": "https://www.hankyung.com/society/article/2020061028177"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 50명···사흘 만에 다시 50명대로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006101026001&code=940601"
+    },
+    {
+        "title": "확진자 동선 14일 후 인터넷 삭제...특별여행주간 7월1~19일로 축소",
+        "link": "http://www.fnnews.com/news/202006101151352258"
+    },
+    {
+        "title": "“쿠팡 확진자 은폐로 남편 사경 헤매” 청와대 청원까지 나온 쿠팡책임론",
+        "link": "https://www.sedaily.com/NewsView/1Z3Z1SOYR7"
+    },
+    {
+        "title": "‘코로나19’ 확진자 머리 손질한 미용실 직원도 감염",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006100954001&code=940100"
     },
     {
         "title": "삼성전자 수원사업장서 확진자 나와…직원 1200여명 재택근무",
         "link": "https://www.donga.com/news/article/all/20200610/101455090/2"
-    },
-    {
-        "title": "[속보] 안양서 30대 여성 코로나19 확진자 추가 발생",
-        "link": "https://www.hankyung.com/society/article/2020061037027"
-    },
-    {
-        "title": "[속보] 일본 코로나19 확진자 1만 8천명 넘어서",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200610500218&wlog_tag3=naver"
-    },
-    {
-        "title": "'리치웨이→명성하우징' 확진자 속출…서울 확진자 12명 늘어",
-        "link": "https://www.news1.kr/articles/?3961628"
-    },
-    {
-        "title": "\"뉴델리 확진자 내달말 55만명 예상\"…파키스탄선 신규확진 최대(종합)",
-        "link": "http://yna.kr/AKR20200610095151077?did=1195m"
     }
 ];
