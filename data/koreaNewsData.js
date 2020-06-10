@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200610023551002?did=1195m"
     },
     {
+        "title": "계양구청 \"효성2동서 코로나19 추가확진자 발생\"[속보]",
+        "link": "http://www.kjdaily.com/read.php3?aid=1591748306513534208"
+    },
+    {
         "title": "[보고]코로나 충격 석달…5월 취업 39만명 줄고 실업률 최악",
         "link": "https://news.joins.com/article/olink/23392546"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 38명...이틀연속 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006091023251933"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 '어제와 같은' 38명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006091024001&code=940601"
     }
 ];
