@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/10/2020061001300.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "'옛 기무사' 안보사 4명 코로나19 추가확진…부대원 전수검사(종합)",
-        "link": "http://yna.kr/AKR20200610056252504?did=1195m"
-    },
-    {
-        "title": "\"스마트폰 블랙박스로 건물 안 확진자 동선까지 파악\"(상보)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061011223728446"
+        "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
+        "link": "http://www.fnnews.com/news/202006101017320517"
     },
     {
         "title": "‘코로나19’ 확진자 머리 손질한 미용실 직원도 감염",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006100954001&code=940100"
     },
     {
-        "title": "방통위, 코로나19 확진자 동선정보 삭제 대응 강화키로",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020061002109931032009&ref=naver"
-    },
-    {
-        "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
-        "link": "http://www.fnnews.com/news/202006101017320517"
-    },
-    {
         "title": "롯데월드 방문 원묵고 3학년생, 코로나19 '음성' 최종 판정",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나19 신규확진 50명…사흘 만에 다시 50명대",
-        "link": "https://www.nocutnews.co.kr/news/5358617"
+        "title": "확진자 동선 공개 '사생활 침해' 논란 없앤다…KAIST 앱 개발",
+        "link": "http://yna.kr/AKR20200610055300063?did=1195m"
+    },
+    {
+        "title": "안보지원사 코로나19 확진자 4명 추가(종합)",
+        "link": "https://view.asiae.co.kr/article/2020061010433625664"
+    },
+    {
+        "title": "과천 군사안보지원사령부에서 코로나 집단 감염…확진자 4명 추가",
+        "link": "https://news.joins.com/article/olink/23392672"
+    },
+    {
+        "title": "어제 신규 확진자 50명...수도권 'n차 감염' 확산",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006101144027694"
     },
     {
         "title": "'코로나 충격' 취업자 3개월째 감소…실업자 역대 최대(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
     {
-        "title": "코로나19 신규환자 사흘만에 다시 50명대…'수도권 집중'(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02243526625800408"
+        "title": "코로나19 덜 걸리는 혈액형 있다",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/06/10/2020061001170.html"
     }
 ];
