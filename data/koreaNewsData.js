@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
     {
-        "title": "[코로나19] 리치웨이發 집단감염 총 93명...SJ콜센터 8명도 관련(종합)",
-        "link": "http://www.newspim.com/news/view/20200610000853"
-    },
-    {
         "title": "코로나19 덜 걸리는 혈액형 있다",
         "link": "http://health.chosun.com/site/data/html_dir/2020/06/10/2020061001170.html"
+    },
+    {
+        "title": "코로나19 신규확진 50명…사흘 만에 다시 50명대",
+        "link": "https://www.nocutnews.co.kr/news/5358617"
     }
 ];
