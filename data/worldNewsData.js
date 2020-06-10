@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Threat of Military Action Rattles Brazil as Virus Deaths Surge",
-        "link": "https://news.google.com/articles/CAIiECqgX97w6Ks2sj0q7T69fBsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiECqgX97w6Ks2sj0q7T69fBsqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO says Pakistan should reimpose lockdown to curb coronavirus",
@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTg5NDUy0gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTg5NDUy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Facebook, Twitter, Google to report monthly on fake news fight, EU says",
-        "link": "https://news.google.com/articles/CBMimwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9hcnRpY2xlL3VzLWhlYWx0aC1oZWFsdGgtY29yb25hdmlydXMtZXUtZGlzaW5mb3IvZmFjZWJvb2stdHdpdHRlci1nb29nbGUtdG8tcmVwb3J0LW1vbnRobHktb24tZmFrZS1uZXdzLWZpZ2h0LWV1LXNheXMtaWRVU0tCTjIzSDFFSNIBNGh0dHBzOi8vbW9iaWxlLnJldXRlcnMuY29tL2FydGljbGUvYW1wL2lkVVNLQk4yM0gxRUg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "U.S. Sends Aircraft Carriers as China Makes Waves in the Pacific",
+        "link": "https://news.google.com/articles/CAIiEDtExl57yE-qHrFxZIiTmSQqGAgEKg8IACoHCAow1tzJATDnyxUwxcrPBg?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
         "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Live updates: Nine states report significant uptick in coronavirus hospitalizations after Memorial Day",
-        "link": "https://news.google.com/articles/CAIiEMfDxYrV0dMD55N3DV_j5AoqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
