@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200610056252504?did=1195m"
     },
     {
-        "title": "코로나19 확진자 동선을 한눈에… 스마트폰 블랙박스로 사생활 보호",
-        "link": "http://www.fnnews.com/news/202006100943234708"
+        "title": "\"스마트폰 블랙박스로 건물 안 확진자 동선까지 파악\"(상보)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061011223728446"
     },
     {
         "title": "‘코로나19’ 확진자 머리 손질한 미용실 직원도 감염",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006100954001&code=940100"
     },
     {
-        "title": "대구 이틀·경북 나흘째 코로나19 신규 확진자 ‘0명’(종합)",
-        "link": "http://www.kukinews.com/news/article.html?no=797350"
+        "title": "방통위, 코로나19 확진자 동선정보 삭제 대응 강화키로",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2020061002109931032009&ref=naver"
     },
     {
         "title": "코로나19 확진자 사흘만에 50명으로...수도권 41명[종합]",
         "link": "http://www.fnnews.com/news/202006101017320517"
     },
     {
-        "title": "롯데월드 고3 확진자, 코로나19 '음성' 최종판정",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020061010035588248"
+        "title": "롯데월드 방문 원묵고 3학년생, 코로나19 '음성' 최종 판정",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나19 신규확진 50명…사흘 만에 다시 50명대",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200608_0001052119&cID=10401&pID=10400"
     },
     {
-        "title": "롯데월드 방문 원묵고 3학년생, 코로나19 '음성' 최종 판정",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
+        "title": "코로나19 신규환자 사흘만에 다시 50명대…'수도권 집중'(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02243526625800408"
     }
 ];

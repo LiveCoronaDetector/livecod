@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live news: WHO urges Pakistan to reimpose lockdown as Brazil restores Covid-19 data",
-        "link": "https://news.google.com/articles/CAIiEISTJEGDZsQQ7qZlUvVkYIMqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEISTJEGDZsQQ7qZlUvVkYIMqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Its Defenses Undone by a Virus, France Seeks Lessons From a Lost War",
@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMTAvb3RoZXJfc3BvcnRzLzE1OTE3NDM4MjJfMDQyNDI5Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzEwL290aGVyX3Nwb3J0cy8xNTkxNzQzODIyXzA0MjQyOS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus may have been spreading in China since August 2019: study",
-        "link": "https://news.google.com/articles/CAIiEO-KkzOzdPtC8UqE8zs1f2gqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
-        "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Satellite images and online searches indicate China had coronavirus in the fall, Harvard study finds",
+        "link": "https://news.google.com/articles/CAIiEKeDbVoRby9CVdr2KePsUJ0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Inside Brazil's COVID-19 tragedy | ABCNews PRIME",
         "link": "https://news.google.com/articles/CCAiC3ZoVHo5UE0xRjNFmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "UN warns 'food systems are failing' amid coronavirus pandemic",
+        "link": "https://news.google.com/articles/CAIiEMekE-LODscnaXxsOQTOEE4qGQgEKhAIACoHCAowwL2ICzCckocDMKi4uQM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much unknown'",

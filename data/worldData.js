@@ -1350,7 +1350,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 126,
         "사망자수": 0,
-        "완치자수": 124
+        "완치자수": 125
     },
     {
         "Name": "Trinidad and Tobago",
