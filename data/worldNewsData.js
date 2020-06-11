@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiENyIf-YE7PlrFn6EPLyTR54qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Facebook, Twitter, Google to report monthly on fake news fight, EU says",
-        "link": "https://news.google.com/articles/CAIiEMMI68544mOKLQb0MqR-hToqFggEKg0IACoGCAowt6AMMLAmMNT5lwM?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Europe Travel: EU Welcomes Tourists From July 1, What You Need To Know",
+        "link": "https://news.google.com/articles/CAIiEKHVejuHlbbVwBJfWd2fZE8qFQgEKg0IACoGCAowrqkBMKBFMJGBAg?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
