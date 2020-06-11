@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://edition.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Rare Photos from a Century Ago: The 1918 Spanish Flu Pandemic",
-        "link": "https://www.news18.com/photogallery/world/rare-photos-from-a-century-ago-the-1918-spanish-flu-pandemic-2663239.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/index.html"
     },
     {
-        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
-        "link": "https://www.theguardian.com/us-news/2020/jun/10/are-you-immune-the-new-class-system-that-could-shape-the-covid-19-world"
+        "title": "Fight disinformation to protect lives and democracy",
+        "link": "https://www.youtube.com/watch?v=a1-X-KT3CUY"
     },
     {
         "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
         "link": "https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html"
     },
     {
-        "title": "Fight disinformation to protect lives and democracy",
-        "link": "https://www.youtube.com/watch?v=a1-X-KT3CUY"
+        "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-death-toll-passes-412000-as-dr-fauci-warns-that-covid-19-is-far-from-over-2020-06-10"
     }
 ];
