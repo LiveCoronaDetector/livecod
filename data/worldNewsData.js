@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEDkSpeNHHCzNqoqiSEroBlMqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "June 10 coronavirus news",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
-        "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Fight disinformation to protect lives and democracy",
+        "link": "https://news.google.com/articles/CCAiC2ExLVgtS1QzQ1VZmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
         "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Facebook, Twitter, Google to report monthly on fake news fight, EU says",
-        "link": "https://news.google.com/articles/CAIiEMMI68544mOKLQb0MqR-hToqFggEKg0IACoGCAowt6AMMLAmMNT5lwM?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
+        "link": "https://news.google.com/articles/CAIiEJOs_TcRiQFnsO37zGeDH50qGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus live news: US cases pass 2 million as Mexico confirms record daily infections",
+        "link": "https://news.google.com/articles/CAIiEKicIpNlVgwoNEOpvOhI_RQqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
