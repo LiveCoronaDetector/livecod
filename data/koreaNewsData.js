@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200611041600530?did=1195m"
     },
     {
+        "title": "[속보]기아차 소하리공장 직원 코로나 확진, 공장 하루 휴무",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006111000001&code=940100"
+    },
+    {
+        "title": "기아차 소하리공장서 코로나19 확진자 발생…11일 휴업",
+        "link": "https://view.asiae.co.kr/article/2020061108455576570"
+    },
+    {
         "title": "“계속되는 수도권 감염”...코로나19 신규 확진 45명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200611500040&wlog_tag3=naver"
     },
@@ -21,23 +29,15 @@ var koreaNewsData = [
         "link": "http://www.kjdaily.com/read.php3?aid=1591840285513707208"
     },
     {
-        "title": "기아차 소하리공장서 코로나19 확진자 발생…11일 휴업",
-        "link": "https://view.asiae.co.kr/article/2020061108455576570"
-    },
-    {
-        "title": "대구·경북, 코로나19 안정세…신규 확진자 ‘0명’ 기록 이어가(종합)",
-        "link": "http://www.kukinews.com/news/article.html?no=797893"
-    },
-    {
         "title": "안보지원사 코로나19 추가 확진자 없어…최초감염자 경로 못밝혀(종합)",
         "link": "http://yna.kr/AKR20200611062451504?did=1195m"
     },
     {
-        "title": "리치웨이발 코로나19, 3군데 집단에 동시전염(종합)",
-        "link": "http://www.fnnews.com/news/202006111108122135"
+        "title": "카이스트, 코로나19 확산방지시스템 개발",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/10/2020061001178.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독]목동 학원가 또 코로나 비상···7세 확진 '무증상 감염'",
+        "title": "[단독] 목동 학원가 또 코로나 비상···7세 확진 '무증상 감염'",
         "link": "https://www.sedaily.com/NewsView/1Z3ZH5A9CZ"
     }
 ];

@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEDkSpeNHHCzNqoqiSEroBlMqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
+        "title": "June 10 coronavirus news",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
         "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Europe Travel: EU Welcomes Tourists From July 1, What You Need To Know",
         "link": "https://news.google.com/articles/CAIiEKHVejuHlbbVwBJfWd2fZE8qFQgEKg0IACoGCAowrqkBMKBFMJGBAg?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Dr. Anthony Fauci says WHO's remark on asymptomatic coronavirus spread 'was not correct'",
-        "link": "https://news.google.com/articles/CAIiENyIf-YE7PlrFn6EPLyTR54qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
