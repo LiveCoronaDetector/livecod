@@ -14,7 +14,7 @@ var worldNewsData = [
     },
     {
         "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
-        "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
+        "link": "https://edition.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
         "title": "India's richest city should have been its most prepared for coronavirus. So why does Mumbai have the country's highest infection rate?",
@@ -25,11 +25,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/index.html"
-    },
-    {
-        "title": "Global stocks retreat as coronavirus fears return",
+        "title": "Dow set to tumble 600 points as investors grow fearful about the economy",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
     },
     {
-        "title": "Dr. Anthony Fauci says WHO's remark on asymptomatic coronavirus spread 'was not correct'",
-        "link": "https://www.cnbc.com/2020/06/10/dr-anthony-fauci-says-whos-remark-on-asymptomatic-coronavirus-spread-was-not-correct.html"
+        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
+        "link": "https://www.theguardian.com/us-news/2020/jun/10/are-you-immune-the-new-class-system-that-could-shape-the-covid-19-world"
+    },
+    {
+        "title": "Fed says it will keep stimulus coming for years",
+        "link": "https://www.cnn.com/2020/06/10/economy/federal-reserve-june-meeting/index.html"
     }
 ];
