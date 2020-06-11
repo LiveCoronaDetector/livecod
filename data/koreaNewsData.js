@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200611184851089?did=1195m"
     },
     {
-        "title": "베이징서 코로나19 환자 또 발생...중국 초비상",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04182006625800736"
+        "title": "[속보]코로나19 신규 확진자 45명···지역발생 40명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006111027001&code=940601"
     },
     {
         "title": "美 확진자 200만 명 넘어 전 세계의 27%…사망자도 최다",
@@ -15,6 +15,14 @@ var koreaNewsData = [
     {
         "title": "깜깜이 확진자 또 나왔다…기아차 광명공장 가동 중단",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005831705&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "롯데시네마 월드타워 시사회에 코로나 19 확진자 참석",
+        "link": "https://imnews.imbc.com/news/2020/econo/article/5806951_32647.html"
+    },
+    {
+        "title": "베이징서 코로나19 환자 또 발생...중국 초비상",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04182006625800736"
     },
     {
         "title": "CJ대한통운 택배기사 코로나 확진···영등포지점 폐쇄",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006110939197320"
     },
     {
-        "title": "롯데시네마 월드타워 시사회에 코로나 19 확진자 참석",
-        "link": "https://imnews.imbc.com/news/2020/econo/article/5806951_32647.html"
-    },
-    {
         "title": "성남 ‘하나님의 교회’서 리치웨이발 연쇄감염 추정 확진자 4명 발생",
         "link": "http://www.hani.co.kr/arti/area/capital/948939.html"
-    },
-    {
-        "title": "서울시 코로나19 확진자, 8시간 만에 24명 늘어(상보)",
-        "link": "https://view.asiae.co.kr/article/2020061119472025501"
     }
 ];
