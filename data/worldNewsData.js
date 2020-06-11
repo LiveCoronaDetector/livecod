@@ -2,42 +2,42 @@
 var worldNewsData = [
     {
         "title": "Africa And The Coronavirus: Forecasters Have Different Scenarios : Goats and Soda",
-        "link": "https://news.google.com/articles/CAIiEIoeNwJv1rsCGXFkzX5Gdv4qFggEKg4IACoGCAow9vBNMK3UCDDq0Rc?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/06/10/872789379/why-forecasters-cant-make-up-their-mind-about-africa-and-the-coronavirus"
     },
     {
         "title": "Live updates: Fed chair says millions of Americans may never get their jobs back, predicts slow recovery from coronavirus",
-        "link": "https://news.google.com/articles/CAIiEPJ2R9tRK9VP8fnRk4uhNhQqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.washingtonpost.com/nation/2020/06/11/coronavirus-update-us/"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
-        "link": "https://news.google.com/articles/CAIiEDWIqvcRzkKQktui3LbnLQsqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.nytimes.com/2020/06/10/world/asia/reopening-before-coronavirus-ends.html"
     },
     {
         "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
-        "link": "https://news.google.com/articles/CAIiEB9zKonySEkR_PXgrXsV5AgqGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://edition.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
         "title": "Mumbai overtakes Wuhan peak as India Covid cases spike",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTg5NDUy0gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTg5NDUy?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-asia-india-52989452"
     },
     {
         "title": "China flexes military muscle amid coronavirus pandemic",
-        "link": "https://news.google.com/articles/CAIiEDkSpeNHHCzNqoqiSEroBlMqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://edition.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
+    },
+    {
+        "title": "Rare Photos from a Century Ago: The 1918 Spanish Flu Pandemic",
+        "link": "https://www.news18.com/photogallery/world/rare-photos-from-a-century-ago-the-1918-spanish-flu-pandemic-2663239.html"
     },
     {
         "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
-        "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTExLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "E.U. accuses China of waging pandemic disinformation campaign",
-        "link": "https://news.google.com/articles/CAIiEBmXPCxRtuiciELcbzK2hroqGAgEKg8IACoHCAowjtSUCjC30XQwn6G5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/us-news/2020/jun/10/are-you-immune-the-new-class-system-that-could-shape-the-covid-19-world"
     },
     {
         "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
-        "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html"
+    },
+    {
+        "title": "Fight disinformation to protect lives and democracy",
+        "link": "https://www.youtube.com/watch?v=a1-X-KT3CUY"
     }
 ];

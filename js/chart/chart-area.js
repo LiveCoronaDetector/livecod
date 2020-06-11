@@ -732,24 +732,24 @@ var myChart = new Chart(ctx_six, {
 
 var ctx_전일대비그래프 = document.getElementById("전일대비그래프");
 var myLineChart = new Chart(ctx_전일대비그래프, {
-  type: 'line',
+  type: 'bar',
   data: {
-    labels: 확진자추이그래프_date,
+    labels: 확진자추이그래프_date.slice(-10, -1),
     datasets: [{
       label: "한국 추이 ",
-      lineTension: 0.3,
-      backgroundColor: "rgba(78, 115, 223, 0.05)",
+      // lineTension: 0.3,
+      backgroundColor: "rgba(78, 115, 223, 0.5)",
       borderColor: "rgba(78, 115, 223, 1)",
       borderWidth: 1,
-      pointRadius: 3,
+      // pointRadius: 3,
       pointBackgroundColor: "rgba(78, 115, 223, 1)",
-      pointBorderColor: "rgba(78, 115, 223, 1)",
-      pointHoverRadius: 5,
-      pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
-      pointHoverBorderColor: "rgba(78, 115, 223, 1)",
-      pointHitRadius: 10,
-      pointBorderWidth: 0,
-      data: 확진자추이그래프_한국확진자편차,
+      // pointBorderColor: "rgba(78, 115, 223, 1)",
+      // pointHoverRadius: 5,
+      // pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
+      // pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+      // pointHitRadius: 10,
+      // pointBorderWidth: 0,
+      data: 확진자추이그래프_한국확진자편차.slice(-10, -1),
     }],
   },
   options: {
@@ -777,8 +777,10 @@ var myLineChart = new Chart(ctx_전일대비그래프, {
       }],
       yAxes: [{
         ticks: {
-          maxTicksLimit: 5,
-          padding: 10,
+          // maxTicksLimit: 5,
+          // padding: 10,
+          min: 0,
+          suggestedMax: 65,
           // Include a dollar sign in the ticks
           callback: function (value, index, values) {
             return '' + number_format(value);
