@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/asia/mumbai-coronavirus-crisis-intl-hnk/index.html"
     },
     {
-        "title": "EU accuses China of running coronavirus disinformation campaign",
-        "link": "https://www.foxnews.com/world/china-accused-of-running-disinformation-campaign-inside-eu-on-coronavirus"
+        "title": "South Korean doctors find risk factors for severe COVID-19 cases",
+        "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
     },
     {
-        "title": "Live Coronavirus Updates: Schools Face Hurdles",
-        "link": "https://www.nytimes.com/2020/06/11/world/coronavirus-live-updates.html"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/index.html"
+        "title": "Dow plummets 1,500 points as investors grow fearful about the economy",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
     },
     {
-        "title": "Dow plummets 1,500 points as investors grow fearful about the economy",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+        "title": "Coronavirus pandemic in Africa is 'accelerating,' WHO warns as cases surge",
+        "link": "https://www.foxnews.com/world/coronavirus-pandemic-in-africa-is-accelerating-who-warns-as-cases-surge"
+    },
+    {
+        "title": "Dr. Anthony Fauci says WHO's remark on asymptomatic coronavirus spread 'was not correct'",
+        "link": "https://www.cnbc.com/2020/06/10/dr-anthony-fauci-says-whos-remark-on-asymptomatic-coronavirus-spread-was-not-correct.html"
     }
 ];

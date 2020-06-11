@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z3ZI3GQ3G"
     },
     {
-        "title": "쿠팡 \"코로나19 자가격리 일용직 2600명에게 100만원씩 지급\"",
-        "link": "http://www.etnews.com/20200611000248"
-    },
-    {
         "title": "\"귀하의 동선이 코로나19와 겹칩니다\", AI가 이동경로 검증한다",
         "link": "http://www.fnnews.com/news/202006110939197320"
+    },
+    {
+        "title": "쿠팡 \"코로나19 자가격리 일용직 2600명에게 100만원씩 지급\"",
+        "link": "http://www.etnews.com/20200611000248"
     },
     {
         "title": "성남 ‘하나님의 교회’서 리치웨이발 연쇄감염 추정 확진자 4명 발생",
