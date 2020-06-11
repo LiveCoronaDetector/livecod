@@ -12,10 +12,7 @@ def get_data(url):
 
 
 def parse_data(data):
-    res = []
-    for tag in data:
-        res.append({'title': tag.get_text(), 'link': tag['href']})
-    return res
+    return [{'title': tag.get_text(), 'link': tag['href']} for tag in data]
 
 
 def run():
