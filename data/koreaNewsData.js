@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200611/101470416/2"
     },
     {
+        "title": "깜깜이 확진자 또 나왔다…기아차 광명공장 가동 중단",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005831705&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "CJ대한통운 택배기사 코로나 확진···영등포지점 폐쇄",
         "link": "https://www.sedaily.com/NewsView/1Z3ZI3GQ3G"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006110939197320"
     },
     {
-        "title": "깜깜이 확진자 또 나왔다…기아차 광명공장 가동 중단",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005831705&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "서울시 코로나19 확진자, 8시간 만에 24명 늘어(상보)",
-        "link": "https://view.asiae.co.kr/article/2020061119472025501"
-    },
-    {
         "title": "롯데시네마 월드타워 시사회에 코로나 19 확진자 참석",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5806951_32647.html"
     },
     {
         "title": "성남 ‘하나님의 교회’서 리치웨이발 연쇄감염 추정 확진자 4명 발생",
         "link": "http://www.hani.co.kr/arti/area/capital/948939.html"
+    },
+    {
+        "title": "서울시 코로나19 확진자, 8시간 만에 24명 늘어(상보)",
+        "link": "https://view.asiae.co.kr/article/2020061119472025501"
     }
 ];
