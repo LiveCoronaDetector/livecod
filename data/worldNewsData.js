@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: Fed chair says millions of Americans may never get their jobs back, predicts slow recovery from coronavirus",
-        "link": "https://news.google.com/articles/CAIiEPJ2R9tRK9VP8fnRk4uhNhQqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEPJ2R9tRK9VP8fnRk4uhNhQqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Europe Travel: EU Welcomes Tourists From July 1, What You Need To Know",
-        "link": "https://news.google.com/articles/CAIiEKHVejuHlbbVwBJfWd2fZE8qFQgEKg0IACoGCAowrqkBMKBFMJGBAg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Fight disinformation to protect lives and democracy",
+        "link": "https://news.google.com/articles/CCAiC2ExLVgtS1QzQ1VZmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
