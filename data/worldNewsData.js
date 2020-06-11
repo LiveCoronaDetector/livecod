@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: Fed chair says millions of Americans may never get their jobs back, predicts slow recovery from coronavirus",
-        "link": "https://news.google.com/articles/CAIiEPJ2R9tRK9VP8fnRk4uhNhQqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEPJ2R9tRK9VP8fnRk4uhNhQqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEDkSpeNHHCzNqoqiSEroBlMqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
-        "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTExLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "E.U. accuses China of waging pandemic disinformation campaign",
-        "link": "https://news.google.com/articles/CAIiEBmXPCxRtuiciELcbzK2hroqGAgEKg8IACoHCAowjtSUCjC30XQwn6G5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
+        "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
         "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Europe Travel: EU Welcomes Tourists From July 1, What You Need To Know",
+        "link": "https://news.google.com/articles/CAIiEKHVejuHlbbVwBJfWd2fZE8qFQgEKg0IACoGCAowrqkBMKBFMJGBAg?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

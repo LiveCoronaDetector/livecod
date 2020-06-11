@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4468142&ref=A"
     },
     {
-        "title": "기아차 소하리공장서 코로나19 확진자 발생…11일 휴업",
-        "link": "https://view.asiae.co.kr/article/2020061108455576570"
+        "title": "코로나19 확진 45명 늘어…지역감염 40명 모두 수도권",
+        "link": "http://www.hani.co.kr/arti/society/health/948862.html"
     },
     {
         "title": "중대본 \"리치웨이 누적확진자 106명으로 늘어…60대 이상이 69%\"",
@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020061111585674575"
     },
     {
-        "title": "[코로나19] 광명 기아차공장 확진자 자녀 ‘양성’",
-        "link": "http://www.fnnews.com/news/202006111137339945"
+        "title": "미국 코로나19 확진자 200만 명 넘어…전 세계 27%",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005831211&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "미국 코로나19 확진자 200만 명 돌파",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4468354&ref=A"
+        "title": "삼성전자 이어 기아차 공장도 확진자 나와…영화시사회까지 침투한 코로나19",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11954760"
     },
     {
         "title": "코로나 확진 45명…지역 40명 전원 수도권(종합)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006111027001&code=940601"
     },
     {
-        "title": "[단독]강서 영어유치원 조리사 확진···원생들은 코로나검사 안해 불안",
-        "link": "https://www.sedaily.com/NewsView/1Z3ZI2U72O"
+        "title": "6월 11일, 오스트리아·체코 등 일부 국가 입국 허용…코로나19 입국금지·검...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/11/2020061180129.html"
     }
 ];
