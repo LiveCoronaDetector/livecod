@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/06/10/872789379/why-forecasters-cant-make-up-their-mind-about-africa-and-the-coronavirus"
     },
     {
-        "title": "Live updates: Fed chair says millions of Americans may never get their jobs back, predicts slow recovery from coronavirus",
-        "link": "https://www.washingtonpost.com/nation/2020/06/11/coronavirus-update-us/"
+        "title": "Threat of Military Action Rattles Brazil as Virus Deaths Surge",
+        "link": "https://www.nytimes.com/2020/06/10/world/americas/bolsonaro-coup-coronavirus-brazil.html"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
     },
     {
+        "title": "Dow set to tumble 600 points as investors grow fearful about the economy",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+    },
+    {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/h_e16c73aa20f5553613df66c74e72aa1b"
+    },
+    {
         "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
         "link": "https://www.theguardian.com/us-news/2020/jun/10/are-you-immune-the-new-class-system-that-could-shape-the-covid-19-world"
-    },
-    {
-        "title": "What Will Greetings Look Like in a Post-Coronavirus World?",
-        "link": "https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html"
-    },
-    {
-        "title": "Dow set to tumble 600 points as investors grow fearful about the economy",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     }
 ];
