@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEB9zKonySEkR_PXgrXsV5AgqGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMTEvb3RoZXJfc3BvcnRzLzE1OTE4Mjg2MTVfOTk3MzA5Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzExL290aGVyX3Nwb3J0cy8xNTkxODI4NjE1Xzk5NzMwOS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Mumbai overtakes Wuhan peak as India Covid cases spike",
+        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUyOTg5NDUy0gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUyOTg5NDUy?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "China flexes military muscle amid coronavirus pandemic",
         "link": "https://news.google.com/articles/CAIiEDkSpeNHHCzNqoqiSEroBlMqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Fight disinformation to protect lives and democracy",
-        "link": "https://news.google.com/articles/CCAiC2ExLVgtS1QzQ1VZmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
+        "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
         "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
-        "link": "https://news.google.com/articles/CAIiEJOs_TcRiQFnsO37zGeDH50qGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "E.U. accuses China of waging pandemic disinformation campaign",
+        "link": "https://news.google.com/articles/CAIiEBmXPCxRtuiciELcbzK2hroqGAgEKg8IACoHCAowjtSUCjC30XQwn6G5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live news: US cases pass 2 million as Mexico confirms record daily infections",
-        "link": "https://news.google.com/articles/CAIiEKicIpNlVgwoNEOpvOhI_RQqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
+        "link": "https://news.google.com/articles/CAIiEJOs_TcRiQFnsO37zGeDH50qGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
