@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
-        "title": "Mumbai overtakes Wuhan peak as India Covid cases spike",
-        "link": "https://www.bbc.com/news/world-asia-india-52989452"
+        "title": "Coronavirus Explosion Forecast for One Indian State",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-06-10-2020-11591778782"
     },
     {
         "title": "China flexes military muscle amid coronavirus pandemic",
         "link": "https://www.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
-    },
-    {
-        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
-        "link": "https://www.theguardian.com/us-news/2020/jun/10/are-you-immune-the-new-class-system-that-could-shape-the-covid-19-world"
     },
     {
         "title": "Fed says it will keep stimulus coming for years",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
+    },
+    {
+        "title": "Europe Travel: EU Welcomes Tourists From July 1, What You Need To Know",
+        "link": "https://www.forbes.com/sites/tamarathiessen/2020/06/10/europe-travel-eu-welcomes-tourists-july-1-borders-reopen/"
     }
 ];
