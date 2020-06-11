@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEIoeNwJv1rsCGXFkzX5Gdv4qFggEKg4IACoGCAow9vBNMK3UCDDq0Rc?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus News and Live Updates: Cases Rising in 21 States",
-        "link": "https://news.google.com/articles/CAIiEOeibjnhFx6A-arMUFYCS0wqFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Live updates: Fed chair says millions of Americans may never get their jobs back, predicts slow recovery from coronavirus",
+        "link": "https://news.google.com/articles/CAIiEPJ2R9tRK9VP8fnRk4uhNhQqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEO4Qr28oxVFrIRjXWEx2_WAqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
-        "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTExLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "E.U. accuses China of waging pandemic disinformation campaign",
         "link": "https://news.google.com/articles/CAIiEBmXPCxRtuiciELcbzK2hroqGAgEKg8IACoHCAowjtSUCjC30XQwn6G5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
-        "link": "https://news.google.com/articles/CAIiEJOs_TcRiQFnsO37zGeDH50qGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
+        "link": "https://news.google.com/articles/CAIiEKBl96lAoZOh7rlVMzJAmogqFwgEKg8IACoHCAowjuuKAzCWrzwwpoEY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
