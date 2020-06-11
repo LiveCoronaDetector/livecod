@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53004631"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/index.html"
+        "title": "Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair",
+        "link": "https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
@@ -21,11 +21,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/11/global-report-india-reports-surge-in-covid-19-cases-as-lockdown-eased"
     },
     {
-        "title": "South Korean doctors find risk factors for severe COVID-19 cases",
-        "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
+        "title": "EU accuses China of running coronavirus disinformation campaign",
+        "link": "https://www.foxnews.com/world/china-accused-of-running-disinformation-campaign-inside-eu-on-coronavirus"
     },
     {
-        "title": "Dow plummets more than 1,800 points as investors grow fearful about the economy",
+        "title": "Stocks post their worst day since March",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {

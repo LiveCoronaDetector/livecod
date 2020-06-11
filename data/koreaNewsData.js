@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200611/101470416/2"
     },
     {
-        "title": "CJ대한통운 택배기사 코로나 확진···영등포지점 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z3ZI3GQ3G"
-    },
-    {
         "title": "깜깜이 확진자 또 나왔다…기아차 광명공장 가동 중단",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005831705&plink=ORI&cooper=NAVER"
     },
@@ -27,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "시진핑 집무실 2.5㎞ 거리서 코로나19 환자…중국 비상(종합)",
         "link": "http://yna.kr/AKR20200611184851089?did=1195m"
+    },
+    {
+        "title": "CJ대한통운 택배기사 코로나 확진···영등포지점 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z3ZI3GQ3G"
     },
     {
         "title": "\"귀하의 동선이 코로나19와 겹칩니다\", AI가 이동경로 검증한다",
