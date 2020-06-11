@@ -5,36 +5,36 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53004631"
     },
     {
-        "title": "Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair",
-        "link": "https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html"
+        "title": "Live updates: U.S. surpasses 2 million coronavirus cases",
+        "link": "https://www.washingtonpost.com/nation/2020/06/11/coronavirus-update-us/"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
         "link": "https://www.nytimes.com/2020/06/10/world/asia/reopening-before-coronavirus-ends.html"
     },
     {
-        "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
-        "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
+        "title": "Coronavirus cases fall in France despite easing of lockdown",
+        "link": "https://www.theguardian.com/world/2020/jun/11/coronavirus-cases-fall-in-france-despite-easing-of-lockdown"
     },
     {
         "title": "Global report: India reports surge in Covid-19 cases as lockdown eased",
         "link": "https://www.theguardian.com/world/2020/jun/11/global-report-india-reports-surge-in-covid-19-cases-as-lockdown-eased"
     },
     {
-        "title": "South Korean doctors find risk factors for severe COVID-19 cases",
-        "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
+        "title": "EU accuses China of running coronavirus disinformation campaign",
+        "link": "https://www.foxnews.com/world/china-accused-of-running-disinformation-campaign-inside-eu-on-coronavirus"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/index.html"
+        "title": "Stocks post their worst day since March",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
     },
     {
-        "title": "Stocks post their worst day since March",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+        "title": "Coronavirus: Fracas on Brazil's Copacabana over Covid-19 'graves'",
+        "link": "https://www.bbc.com/news/world-latin-america-53017086"
     },
     {
         "title": "Coronavirus pandemic in Africa is 'accelerating,' WHO warns as cases surge",
