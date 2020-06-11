@@ -14,22 +14,22 @@ var worldNewsData = [
     },
     {
         "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
-        "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
+        "link": "https://edition.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
         "title": "India's richest city should have been its most prepared for coronavirus. So why does Mumbai have the country's highest infection rate?",
         "link": "https://www.cnn.com/2020/06/11/asia/mumbai-coronavirus-crisis-intl-hnk/index.html"
     },
     {
-        "title": "China flexes military muscle amid coronavirus pandemic",
-        "link": "https://www.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
+        "title": "South Korean doctors find risk factors for severe COVID-19 cases",
+        "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
     },
     {
         "title": "Live Coronavirus Updates: Schools Face Hurdles",
         "link": "https://www.nytimes.com/2020/06/11/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Dow plummets more than 1,300 points as investors grow fearful about the economy",
+        "title": "Dow plummets more than 1,400 points as investors grow fearful about the economy",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
