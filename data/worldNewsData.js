@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53004631"
     },
     {
-        "title": "Live updates: U.S. surpasses 2 million coronavirus cases",
-        "link": "https://www.washingtonpost.com/nation/2020/06/11/coronavirus-update-us/"
+        "title": "Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair",
+        "link": "https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
     },
     {
-        "title": "Dow plummets 1,600 points as investors grow fearful about the economy",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/index.html"
     },
     {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
     },
     {
-        "title": "Coronavirus pandemic in Africa is 'accelerating,' WHO warns as cases surge",
-        "link": "https://www.foxnews.com/world/coronavirus-pandemic-in-africa-is-accelerating-who-warns-as-cases-surge"
+        "title": "Dow plummets 1,700 points as investors grow fearful about the economy",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
-        "title": "Dr. Anthony Fauci says WHO's remark on asymptomatic coronavirus spread 'was not correct'",
-        "link": "https://www.cnbc.com/2020/06/10/dr-anthony-fauci-says-whos-remark-on-asymptomatic-coronavirus-spread-was-not-correct.html"
+        "title": "Coronavirus pandemic in Africa is 'accelerating,' WHO warns as cases surge",
+        "link": "https://www.foxnews.com/world/coronavirus-pandemic-in-africa-is-accelerating-who-warns-as-cases-surge"
     }
 ];
