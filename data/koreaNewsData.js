@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200611184851089?did=1195m"
     },
     {
-        "title": "서울시 코로나19 확진자, 8시간 만에 24명 늘어(상보)",
-        "link": "https://view.asiae.co.kr/article/2020061119472025501"
-    },
-    {
-        "title": "베이징에 코로나 확진자 57일 만에 발생…중국 정부 비상",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006112142001&code=970204"
+        "title": "베이징서 코로나19 환자 또 발생...중국 초비상",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04182006625800736"
     },
     {
         "title": "美 확진자 200만 명 넘어 전 세계의 27%…사망자도 최다",
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200611000248"
     },
     {
+        "title": "\"귀하의 동선이 코로나19와 겹칩니다\", AI가 이동경로 검증한다",
+        "link": "http://www.fnnews.com/news/202006110939197320"
+    },
+    {
+        "title": "깜깜이 확진자 또 나왔다…기아차 광명공장 가동 중단",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005831705&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "서울시 코로나19 확진자, 8시간 만에 24명 늘어(상보)",
+        "link": "https://view.asiae.co.kr/article/2020061119472025501"
+    },
+    {
         "title": "롯데시네마 월드타워 시사회에 코로나 19 확진자 참석",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5806951_32647.html"
     },
     {
         "title": "성남 ‘하나님의 교회’서 리치웨이발 연쇄감염 추정 확진자 4명 발생",
         "link": "http://www.hani.co.kr/arti/area/capital/948939.html"
-    },
-    {
-        "title": "美 하버드 연구진 \"9월까지 코로나로 20만명 숨질 것\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/11/2020061103291.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "\"귀하의 동선이 코로나19와 겹칩니다\", AI가 이동경로 검증한다",
-        "link": "http://www.fnnews.com/news/202006110939197320"
     }
 ];
