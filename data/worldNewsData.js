@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53004631"
     },
     {
-        "title": "Live updates: Grim numbers and signs of hope signal a complicated economic recovery from coronavirus",
+        "title": "Live updates: U.S. surpasses 2 million coronavirus cases",
         "link": "https://www.washingtonpost.com/nation/2020/06/11/coronavirus-update-us/"
     },
     {
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/11/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Dow plummets more than 1,100 points as investors grow fearful about the economy",
+        "title": "Dow plummets more than 1,300 points as investors grow fearful about the economy",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
     },
     {
-        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
-        "link": "https://www.theguardian.com/us-news/2020/jun/10/are-you-immune-the-new-class-system-that-could-shape-the-covid-19-world"
+        "title": "Coronavirus pandemic in Africa is 'accelerating,' WHO warns as cases surge",
+        "link": "https://www.foxnews.com/world/coronavirus-pandemic-in-africa-is-accelerating-who-warns-as-cases-surge"
     }
 ];
