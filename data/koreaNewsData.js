@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200611000248"
     },
     {
-        "title": "성남 ‘하나님의 교회’서 리치웨이발 연쇄감염 추정 확진자 4명 발생",
-        "link": "http://www.hani.co.kr/arti/area/capital/948939.html"
+        "title": "쿠팡, 코로나19 격리직원에 총 26억원 지원",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04178726625800736"
     }
 ];
