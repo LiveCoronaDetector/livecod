@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53004631"
     },
     {
-        "title": "Live updates: U.S. surpasses 2 million coronavirus cases",
-        "link": "https://www.washingtonpost.com/nation/2020/06/11/coronavirus-update-us/"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/index.html"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
