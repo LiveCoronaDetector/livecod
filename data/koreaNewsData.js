@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200610088700530?did=1195m"
     },
     {
-        "title": "코로나19 덜 걸리는 혈액형 있다",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/06/10/2020061001170.html"
+        "title": "롯데월드 방문 원묵고 3학년생, 코로나19 '음성' 최종 판정",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5805650_32633.html"
     }
 ];

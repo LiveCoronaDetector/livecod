@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEIoeNwJv1rsCGXFkzX5Gdv4qFggEKg4IACoGCAow9vBNMK3UCDDq0Rc?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Threat of Military Action Rattles Brazil as Virus Deaths Surge",
-        "link": "https://news.google.com/articles/CAIiECqgX97w6Ks2sj0q7T69fBsqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus News and Live Updates: Cases Rising in 21 States",
+        "link": "https://news.google.com/articles/CAIiEOeibjnhFx6A-arMUFYCS0wqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Israeli researchers on road to new COVID-19 passive vaccine",
@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEB9zKonySEkR_PXgrXsV5AgqGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The World Reopens, Despite Skyrocketing Coronavirus Cases",
-        "link": "https://news.google.com/articles/CAIiEIoH5GS2kg0av2RZC22T1y4qFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus Explosion Forecast for One Indian State",
+        "link": "https://news.google.com/articles/CAIiEI8gwkoESD7YsUn3O7C9ZZAqGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Facebook, Twitter, Google to report monthly on fake news fight, EU says",
-        "link": "https://news.google.com/articles/CAIiEMMI68544mOKLQb0MqR-hToqFggEKg0IACoGCAowt6AMMLAmMNT5lwM?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "China, Russia Are Spreading Virus Misinformation, EU Says",
+        "link": "https://news.google.com/articles/CBMiS2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9ldS1wb2ludHMtZmluZ2VyLWNoaW5hLXJ1c3NpYS0xMDAxMjI5MTQuaHRtbNIBU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL2V1LXBvaW50cy1maW5nZXItY2hpbmEtcnVzc2lhLTEwMDEyMjkxNC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiENyIf-YE7PlrFn6EPLyTR54qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "China, Russia Are Spreading Virus Misinformation, EU Says",
-        "link": "https://news.google.com/articles/CBMiS2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9ldS1wb2ludHMtZmluZ2VyLWNoaW5hLXJ1c3NpYS0xMDAxMjI5MTQuaHRtbNIBU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL2V1LXBvaW50cy1maW5nZXItY2hpbmEtcnVzc2lhLTEwMDEyMjkxNC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Facebook, Twitter, Google to report monthly on fake news fight, EU says",
+        "link": "https://news.google.com/articles/CAIiEMMI68544mOKLQb0MqR-hToqFggEKg0IACoGCAowt6AMMLAmMNT5lwM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
