@@ -14,7 +14,7 @@ var worldNewsData = [
     },
     {
         "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
-        "link": "https://edition.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
+        "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
         "title": "India's richest city should have been its most prepared for coronavirus. So why does Mumbai have the country's highest infection rate?",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Dow set to tumble 600 points as investors grow fearful about the economy",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
-    },
-    {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/2020/jun/10/are-you-immune-the-new-class-system-that-could-shape-the-covid-19-world"
     },
     {
-        "title": "Fed says it will keep stimulus coming for years",
-        "link": "https://www.cnn.com/2020/06/10/economy/federal-reserve-june-meeting/index.html"
+        "title": "What Will Greetings Look Like in a Post-Coronavirus World?",
+        "link": "https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html"
+    },
+    {
+        "title": "Dow set to tumble 600 points as investors grow fearful about the economy",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     }
 ];
