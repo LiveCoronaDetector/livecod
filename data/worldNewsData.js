@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/asia/mumbai-coronavirus-crisis-intl-hnk/index.html"
     },
     {
-        "title": "South Korean doctors find risk factors for severe COVID-19 cases",
-        "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
+        "title": "EU accuses China of running coronavirus disinformation campaign",
+        "link": "https://www.foxnews.com/world/china-accused-of-running-disinformation-campaign-inside-eu-on-coronavirus"
     },
     {
         "title": "Live Coronavirus Updates: Schools Face Hurdles",
