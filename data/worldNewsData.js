@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus News and Live Updates: Cases Rising in 21 States",
-        "link": "https://news.google.com/articles/CAIiEOeibjnhFx6A-arMUFYCS0wqFwgEKg8IACoHCAowjuuKAzCWrzww5oEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://news.google.com/articles/CAIiEOeibjnhFx6A-arMUFYCS0wqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Israeli researchers on road to new COVID-19 passive vaccine",
@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiEB9zKonySEkR_PXgrXsV5AgqGQgEKhAIACoHCAowocv1CjCSptoCMMXoyQU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus Explosion Forecast for One Indian State",
-        "link": "https://news.google.com/articles/CAIiEI8gwkoESD7YsUn3O7C9ZZAqGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDYvMTEvb3RoZXJfc3BvcnRzLzE1OTE4Mjg2MTVfOTk3MzA5Lmh0bWzSAUdodHRwczovL2VuLmFzLmNvbS9lbi8yMDIwLzA2LzExL290aGVyX3Nwb3J0cy8xNTkxODI4NjE1Xzk5NzMwOS5hbXAuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "China, Russia Are Spreading Virus Misinformation, EU Says",
-        "link": "https://news.google.com/articles/CBMiS2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9ldS1wb2ludHMtZmluZ2VyLWNoaW5hLXJ1c3NpYS0xMDAxMjI5MTQuaHRtbNIBU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL2V1LXBvaW50cy1maW5nZXItY2hpbmEtcnVzc2lhLTEwMDEyMjkxNC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "China flexes military muscle amid coronavirus pandemic",
+        "link": "https://news.google.com/articles/CAIiEDkSpeNHHCzNqoqiSEroBlMqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "June 10 coronavirus news",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA2LTEwLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wNi0xMC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Facebook, Twitter, Google to report monthly on fake news fight, EU says",
         "link": "https://news.google.com/articles/CAIiEMMI68544mOKLQb0MqR-hToqFggEKg0IACoGCAowt6AMMLAmMNT5lwM?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
-        "link": "https://news.google.com/articles/CAIiEJOs_TcRiQFnsO37zGeDH50qGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
