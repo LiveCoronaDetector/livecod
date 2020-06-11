@@ -14,7 +14,7 @@ var worldNewsData = [
     },
     {
         "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
-        "link": "https://edition.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
+        "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
         "title": "India's richest city should have been its most prepared for coronavirus. So why does Mumbai have the country's highest infection rate?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/11/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Dow plummets more than 1,400 points as investors grow fearful about the economy",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/index.html"
     },
     {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
     },
     {
-        "title": "Coronavirus pandemic in Africa is 'accelerating,' WHO warns as cases surge",
-        "link": "https://www.foxnews.com/world/coronavirus-pandemic-in-africa-is-accelerating-who-warns-as-cases-surge"
+        "title": "Dow plummets 1,500 points as investors grow fearful about the economy",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     }
 ];

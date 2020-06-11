@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005831705&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "11일 확진자 최소 43명…리치웨이발 다수, 기아차서도 확진",
-        "link": "https://www.news1.kr/articles/?3962915"
-    },
-    {
         "title": "롯데시네마 월드타워 시사회에 코로나 19 확진자 참석",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5806951_32647.html"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "\"귀하의 동선이 코로나19와 겹칩니다\", AI가 이동경로 검증한다",
         "link": "http://www.fnnews.com/news/202006110939197320"
+    },
+    {
+        "title": "성남 ‘하나님의 교회’서 리치웨이발 연쇄감염 추정 확진자 4명 발생",
+        "link": "http://www.hani.co.kr/arti/area/capital/948939.html"
     }
 ];
