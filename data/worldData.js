@@ -396,9 +396,9 @@ var marker = [
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "확진자수": 14103,
-        "사망자수": 227,
-        "완치자수": 5226
+        "확진자수": 14669,
+        "사망자수": 245,
+        "완치자수": 5466
     },
     {
         "Name": "나이지리아",
@@ -460,9 +460,9 @@ var marker = [
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "확진자수": 9824,
+        "확진자수": 9826,
         "사망자수": 330,
-        "완치자수": 7117
+        "완치자수": 7124
     },
     {
         "Name": "카메룬",
@@ -932,9 +932,9 @@ var marker = [
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "확진자수": 1092,
+        "확진자수": 1094,
         "사망자수": 26,
-        "완치자수": 794
+        "완치자수": 818
     },
     {
         "Name": "Tunisia",
@@ -1065,20 +1065,20 @@ var marker = [
         "완치자수": 597
     },
     {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 632,
+        "사망자수": 12,
+        "완치자수": 146
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
         "확진자수": 615,
         "사망자수": 5,
         "완치자수": 294
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 611,
-        "사망자수": 12,
-        "완치자수": 135
     },
     {
         "Name": "Jamaica",

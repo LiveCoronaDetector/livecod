@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
-        "title": "Mumbai overtakes Wuhan peak as India Covid cases spike",
-        "link": "https://www.bbc.com/news/world-asia-india-52989452"
+        "title": "Coronavirus Explosion Forecast for One Indian State",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-06-10-2020-11591778782"
     },
     {
         "title": "China flexes military muscle amid coronavirus pandemic",
-        "link": "https://www.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
+        "link": "https://edition.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-11-20-intl/index.html"
-    },
-    {
-        "title": "China, Russia Are Spreading Virus Misinformation, EU Says",
-        "link": "https://finance.yahoo.com/news/eu-points-finger-china-russia-100122914.html"
+        "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
+        "link": "https://www.theguardian.com/us-news/2020/jun/10/are-you-immune-the-new-class-system-that-could-shape-the-covid-19-world"
     },
     {
         "title": "In the W.H.O.'s Coronavirus Stumbles, Some Scientists See a Pattern",
         "link": "https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html"
     },
     {
-        "title": "Coronavirus live news: US cases pass 2 million as Mexico confirms record daily infections",
-        "link": "https://www.theguardian.com/world/live/2020/jun/11/coronavirus-live-news-us-cases-near-2-million-as-mexico-city-ramps-up-testing-in-push-to-reopen"
+        "title": "The coronavirus pandemic isn’t ending — it’s surging",
+        "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
+    },
+    {
+        "title": "Coronavirus update: Global death toll passes 412,000, as Dr. Fauci warns that COVID-19 is far from over",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-death-toll-passes-412000-as-dr-fauci-warns-that-covid-19-is-far-from-over-2020-06-10"
     }
 ];
