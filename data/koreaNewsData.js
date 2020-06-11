@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200611173351030?did=1195m"
     },
     {
+        "title": "성남 ‘하나님의 교회’서 리치웨이발 연쇄감염 추정 확진자 4명 발생",
+        "link": "http://www.hani.co.kr/arti/area/capital/948939.html"
+    },
+    {
         "title": "신규 확진자 45명…“지역발생 40명 모두 수도권”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4468142&ref=A"
     },
@@ -15,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "\"2주간 지역발생 확진자 10명 중 9명이 수도권\"",
         "link": "https://news.imaeil.com/Society/2020061111585674575"
+    },
+    {
+        "title": "삼성전자 이어 기아차 공장도 확진자 나와…영화시사회까지 침투한 코로나19",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11954760"
     },
     {
         "title": "[속보]코로나19 신규 확진자 45명···지역발생 40명",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/11/2020061103291.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "\"귀하의 동선이 코로나19와 겹칩니다\", AI가 이동경로 검증한다",
-        "link": "http://www.fnnews.com/news/202006110939197320"
-    },
-    {
-        "title": "6월 지역발생 확진자중 97% 수도권…방역강화 조치 연장 가능성(종합)",
-        "link": "http://yna.kr/AKR20200611090051530?did=1195m"
-    },
-    {
-        "title": "코로나19 확진 45명 늘어…지역감염 40명 모두 수도권",
-        "link": "http://www.hani.co.kr/arti/society/health/948862.html"
+        "title": "美 확진자 200만 명 넘어 전 세계의 27%…사망자도 최다",
+        "link": "https://www.donga.com/news/article/all/20200611/101470416/2"
     }
 ];
