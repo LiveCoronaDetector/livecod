@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200611184851089?did=1195m"
     },
     {
-        "title": "신규 확진자 45명…“지역발생 40명 모두 수도권”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4468142&ref=A"
+        "title": "CJ대한통운 택배기사 코로나 확진···영등포지점 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z3ZI3GQ3G"
     }
 ];
