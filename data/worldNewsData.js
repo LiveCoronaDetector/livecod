@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/06/10/872789379/why-forecasters-cant-make-up-their-mind-about-africa-and-the-coronavirus"
     },
     {
-        "title": "Live updates: Grim numbers and signs of hope signal a complicated economic recovery from coronavirus",
-        "link": "https://www.washingtonpost.com/nation/2020/06/11/coronavirus-update-us/"
+        "title": "Coronavirus deaths are expected to go down before a sharp rise in September, model shows",
+        "link": "https://www.cnn.com/2020/06/11/health/us-coronavirus-thursday/index.html"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/asia/mumbai-coronavirus-crisis-intl-hnk/index.html"
     },
     {
-        "title": "China flexes military muscle amid coronavirus pandemic",
-        "link": "https://www.cnn.com/videos/world/2020/06/10/china-us-xi-jinping-military-moves-coronavirus-pkg-culver-intl-hnk-vpx.cnn"
-    },
-    {
-        "title": "Dow plummets as investors grow fearful about the economy",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+        "title": "South Korean doctors find risk factors for severe COVID-19 cases",
+        "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
     },
     {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
@@ -35,6 +31,10 @@ var worldNewsData = [
     {
         "title": "‘Are you immune?’ The new class system that could shape the Covid-19 world",
         "link": "https://www.theguardian.com/us-news/2020/jun/10/are-you-immune-the-new-class-system-that-could-shape-the-covid-19-world"
+    },
+    {
+        "title": "Dow plummets as investors grow fearful about the economy",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
         "title": "Dr. Anthony Fauci says WHO's remark on asymptomatic coronavirus spread 'was not correct'",
