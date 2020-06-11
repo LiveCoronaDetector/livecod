@@ -17,15 +17,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
-        "title": "India's richest city should have been its most prepared for coronavirus. So why does Mumbai have the country's highest infection rate?",
-        "link": "https://www.cnn.com/2020/06/11/asia/mumbai-coronavirus-crisis-intl-hnk/index.html"
+        "title": "Global report: India reports surge in Covid-19 cases as lockdown eased",
+        "link": "https://www.theguardian.com/world/2020/jun/11/global-report-india-reports-surge-in-covid-19-cases-as-lockdown-eased"
     },
     {
         "title": "South Korean doctors find risk factors for severe COVID-19 cases",
         "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
     },
     {
-        "title": "Dow plummets 1,500 points as investors grow fearful about the economy",
+        "title": "Dow plummets 1,600 points as investors grow fearful about the economy",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
