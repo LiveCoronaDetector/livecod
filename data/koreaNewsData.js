@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/11/2020061101409.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "수원시청 \"매탄2동서 코로나19 추가확진자 발생\"[속보]",
-        "link": "http://www.kjdaily.com/read.php3?aid=1591840285513707208"
-    },
-    {
         "title": "안보지원사 코로나19 추가 확진자 없어…최초감염자 경로 못밝혀(종합)",
         "link": "http://yna.kr/AKR20200611062451504?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[단독] 목동 학원가 또 코로나 비상···7세 확진 '무증상 감염'",
         "link": "https://www.sedaily.com/NewsView/1Z3ZH5A9CZ"
+    },
+    {
+        "title": "롯데월드 방문 원묵고 3학년생, 코로나19 '음성' 최종 판정",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005828706&plink=ORI&cooper=NAVER"
     }
 ];
