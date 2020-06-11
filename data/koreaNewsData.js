@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/econo/article/5806951_32647.html"
     },
     {
-        "title": "시진핑 집무실 2.5㎞ 거리서 코로나19 환자…중국 비상(종합)",
-        "link": "http://yna.kr/AKR20200611184851089?did=1195m"
+        "title": "베이징서 다시 코로나19 환자 나왔다…중국 초비상",
+        "link": "http://yna.kr/AKR20200611184800089?did=1195m"
     },
     {
-        "title": "베이징서 코로나19 환자 또 발생...중국 초비상",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04182006625800736"
+        "title": "시진핑 집무실 2.5㎞ 거리서 코로나19 환자…중국 비상(종합)",
+        "link": "http://yna.kr/AKR20200611184851089?did=1195m"
     },
     {
         "title": "CJ대한통운 택배기사 코로나 확진···영등포지점 폐쇄",
