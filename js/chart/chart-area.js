@@ -734,7 +734,7 @@ var ctx_전일대비그래프 = document.getElementById("전일대비그래프")
 var myLineChart = new Chart(ctx_전일대비그래프, {
   type: 'bar',
   data: {
-    labels: 확진자추이그래프_date.slice(-10, -1),
+    labels: 확진자추이그래프_date.slice(-10,),
     datasets: [{
       label: "한국 추이 ",
       // lineTension: 0.3,
@@ -749,7 +749,7 @@ var myLineChart = new Chart(ctx_전일대비그래프, {
       // pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       // pointHitRadius: 10,
       // pointBorderWidth: 0,
-      data: 확진자추이그래프_한국확진자편차.slice(-10, -1),
+      data: 확진자추이그래프_한국확진자편차.slice(-10,),
     }],
   },
   options: {
