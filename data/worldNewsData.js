@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/tech/twitter-removes-over-170000-china-linked-accounts-spreading-false-coronavirus-hong-kong-information"
     },
     {
-        "title": "Coronavirus Live News and Updates",
+        "title": "Coronavirus Updates and Live News",
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html"
     },
     {
