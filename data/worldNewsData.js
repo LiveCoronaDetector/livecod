@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/us/twitter-dismantles-china-backed-coronavirus-influence-operation"
     },
     {
+        "title": "Global COVID-19 cases top 7.5 million: Johns Hopkins University",
+        "link": "https://telanganatoday.com/global-covid-19-cases-top-7-5-million-johns-hopkins-university"
+    },
+    {
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html"
+    },
+    {
         "title": "The Post-Coronavirus Global Hunger Crisis",
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     },
     {
         "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
-    },
-    {
-        "title": "Coronavirus live news: prosecutors question Italian PM on decision not to lock down earlier",
-        "link": "https://www.theguardian.com/world/live/2020/jun/12/coronavirus-live-news-markets-fall-over-fears-of-long-us-recovery-as-brazil-cases-top-800000"
-    },
-    {
-        "title": "Live updates: Oregon pauses its reopening plans for one week after coronavirus cases hit new high",
-        "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
     }
 ];
