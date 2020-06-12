@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/global-report-who-warns-of-accelerating-infections-in-africa-but-says-severe-cases-not-going-undetected"
     },
     {
-        "title": "Live updates: U.S. surpasses 2 million coronavirus cases; bleak economic picture signals long road ahead",
-        "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
+        "title": "Coronavirus: Technicians held in Peru over false 5G Covid links",
+        "link": "https://www.bbc.com/news/world-latin-america-53021239"
     },
     {
         "title": "Pakistan PM warns of more coronavirus deaths: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     },
     {
-        "title": "Coronavirus live news: Trump rally attendees told they cannot sue if they contract Covid-19",
-        "link": "https://www.theguardian.com/world/live/2020/jun/12/coronavirus-live-news-markets-fall-over-fears-of-long-us-recovery-as-brazil-cases-top-800000"
+        "title": "Live updates: U.S. surpasses 2 million coronavirus cases; bleak economic picture signals long road ahead",
+        "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
     },
     {
-        "title": "Dow set to soar 600 points after biggest selloff since June",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks/index.html"
+        "title": "Coronavirus live news: Trump rally attendees told they cannot sue if they contract Covid-19",
+        "link": "https://www.theguardian.com/world/live/2020/jun/12/coronavirus-live-news-markets-fall-over-fears-of-long-us-recovery-as-brazil-cases-top-800000"
     }
 ];
