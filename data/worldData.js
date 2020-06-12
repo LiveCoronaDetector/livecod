@@ -412,7 +412,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 13558,
+        "확진자수": 13872,
         "사망자수": 67,
         "완치자수": 8593
     },
