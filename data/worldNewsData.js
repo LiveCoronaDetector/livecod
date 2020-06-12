@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/world-extreme-poor-rise-11-billion-live-updates-200611225207924.html"
     },
     {
-        "title": "Coronavirus: Italy prosecutors quiz PM Conte on crisis",
-        "link": "https://www.bbc.com/news/world-europe-53006166"
+        "title": "Prosecutors question Italy's PM over coronavirus response",
+        "link": "https://www.aljazeera.com/news/2020/06/prosecutors-question-italy-pm-coronavirus-response-200612004101820.html"
     },
     {
-        "title": "Coronavirus patients 'treated worse than animals': India court",
-        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-dead-treated-worse-animals-india-court-200612081132683.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/index.html"
     },
     {
         "title": "Twitter dismantles China-backed coronavirus 'influence operation'",
