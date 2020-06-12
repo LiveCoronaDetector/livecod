@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-in-china-cases-in-beijing-school-plans-canceled-meat-seafood-market-closed-fear-2nd-wave/"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
+        "title": "New CDC coronavirus guidelines advise caution with travel",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/h_98c46847adb11621b3cc2152921e0225"
     },
     {

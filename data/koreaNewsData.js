@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006120156&t=NN"
     },
     {
-        "title": "코로나19로 문닫았던 쿠팡 고양 물류센터 15일 만에 재가동",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469364&ref=A"
+        "title": "코로나19 확진 56명 늘어...수도권 감염 확산에 다시 50명대로",
+        "link": "http://www.hani.co.kr/arti/society/health/949070.html"
     },
     {
-        "title": "일본 코로나 신규 확진자 56명···14일만 최다",
-        "link": "https://www.sedaily.com/NewsView/1Z3ZZKZUNB"
+        "title": "코로나19로 문닫았던 쿠팡 고양 물류센터 15일 만에 재가동",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469364&ref=A"
     }
 ];
