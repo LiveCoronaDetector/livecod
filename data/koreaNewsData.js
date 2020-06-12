@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23394684"
     },
     {
+        "title": "[속보] 코로나19 확진 56명 늘어...수도권 감염 확산에 다시 50명대로",
+        "link": "http://www.hani.co.kr/arti/society/health/949070.html"
+    },
+    {
         "title": "[속보]서울 도봉구 데이케어센터서 코로나19 확진 13명 발생",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006120957001&code=940100"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19로 문닫았던 쿠팡 고양 물류센터 15일 만에 재가동",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469364&ref=A"
+        "title": "충남 논산서 '코로나19' 확진자 발생",
+        "link": "http://www.dtnews24.com/news/articleView.html?idxno=580432"
     },
     {
         "title": "[종합] 수도권 강화된 방역관리체계 연장...확진자 한 자리수 감소까지",
         "link": "http://www.fnnews.com/news/202006121150049552"
     },
     {
-        "title": "미국 코로나19 재유행 공포…경제재개 속 확진 200만명 돌파(종합)",
-        "link": "http://yna.kr/AKR20200612113800009?did=1195m"
+        "title": "리치웨이 확진자 하루새 23명 늘어 총 139명…8곳 이상으로 전파",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5807980_32633.html"
     },
     {
         "title": "수도권 방역강화 무기한 연장…확진자 한자리 안되면 사회적거리두기 전환(종...",
         "link": "http://www.newsis.com/view/?id=NISX20200612_0001057682&cID=10201&pID=10200"
-    },
-    {
-        "title": "“신규 확진자 한 자릿수까지” 수도권 방역 강화 무기한 연장",
-        "link": "http://www.hani.co.kr/arti/society/health/949100.html"
     }
 ];
