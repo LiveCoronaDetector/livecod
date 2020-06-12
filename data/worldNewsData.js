@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53004631"
     },
     {
-        "title": "Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair",
-        "link": "https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html"
+        "title": "Coronavirus: Fracas on Brazil's Copacabana over Covid-19 'graves'",
+        "link": "https://www.bbc.com/news/world-latin-america-53017086"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/11/global-report-india-reports-surge-in-covid-19-cases-as-lockdown-eased"
     },
     {
-        "title": "EU accuses China of running coronavirus disinformation campaign",
-        "link": "https://www.foxnews.com/world/china-accused-of-running-disinformation-campaign-inside-eu-on-coronavirus"
+        "title": "South Korean doctors find risk factors for severe COVID-19 cases",
+        "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
     },
     {
         "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
-        "title": "What Will Greetings Look Like in a Post-Coronavirus World?",
-        "link": "https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html"
-    },
-    {
         "title": "Stocks post their worst day since March",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+    },
+    {
+        "title": "What Will Greetings Look Like in a Post-Coronavirus World?",
+        "link": "https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html"
     },
     {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
