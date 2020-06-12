@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061204321.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "\"우크라이나 젤렌스키 대통령 부인 코로나19 양성 판정\"(종합)",
+        "link": "http://yna.kr/AKR20200612169151080?did=1195m"
+    },
+    {
         "title": "제주도, 이태원發 코로나19 상황 종식…확진자 1명 퇴원",
         "link": "http://www.fnnews.com/news/202006121742535994"
     },
@@ -13,8 +17,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "중국 베이징서 이틀 연속 코로나19 확진자 나와",
-        "link": "http://yna.kr/AKR20200612155100097?did=1195m"
+        "title": "中 베이징서 이틀 연속 '코로나19' 확진자 발생…재확산 우려 키워",
+        "link": "https://view.asiae.co.kr/article/2020061218484528266"
     },
     {
         "title": "'코로나19' 56명 늘어 1만2,003명…수도권서 45명",
@@ -23,10 +27,6 @@ var koreaNewsData = [
     {
         "title": "코로나19로 문닫았던 쿠팡 고양 물류센터 15일 만에 재가동",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4469364&ref=A"
-    },
-    {
-        "title": "중국 베이징서 이틀 연속 코로나19 확진자…감염경로 미궁(종합2보)",
-        "link": "http://yna.kr/AKR20200612155152097?did=1195m"
     },
     {
         "title": "일본 코로나 신규 확진자 56명···14일만 최다",
