@@ -26,11 +26,11 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus Updates and Live News",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html"
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/06/12/watch-live-world-health-organization-holds-press-briefing-on-coronavirus-pandemic.html"
+        "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
+        "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
