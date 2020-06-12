@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/949100.html"
     },
     {
-        "title": "코로나19 신규 확진 56명…이틀만에 다시 50명대",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000206910"
+        "title": "코로나 확진자 나왔던 기아차 소하리 공장, 정상 가동 재개",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "제주도, 이태원發 코로나19 상황 종식…확진자 1명 퇴원",
         "link": "http://www.fnnews.com/news/202006121742535994"
     },
     {
-        "title": "코로나로 문닫았던 쿠팡 고양 물류센터, 15일 만에 재가동",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061202841.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "'코로나 폐쇄' 쿠팡 고양 물류센터, 15일만에 재가동",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061202789.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "서울 확진자 누계 최소 1천93명…오늘 20명 추가(종합)",
@@ -23,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "리치웨이 확진자 하루새 23명 늘어 총 139명…8곳 이상으로 전파",
         "link": "https://imnews.imbc.com/news/2020/society/article/5807980_32633.html"
+    },
+    {
+        "title": "광주 유덕중·대광여고 코로나19 확진자 '양·음성 오락가락' 혼선",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006120364&t=NN"
     },
     {
         "title": "삼성, 코로나 극복 위해 2.6兆 조기 집행했다",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "중국 베이징에서 이틀 연속 코로나19 확진자 나와",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005833423&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "[전문] 성북구청 31번째 확진자 발생과 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=368343"
     }
 ];

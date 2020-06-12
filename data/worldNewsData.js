@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53006166"
     },
     {
-        "title": "Indonesia's suspected child coronavirus deaths highlight danger",
-        "link": "https://www.aljazeera.com/news/2020/06/indonesia-suspected-child-coronavirus-deaths-highlight-danger-200612013634559.html"
+        "title": "India Is Heading Toward a Coronavirus Crisis",
+        "link": "https://foreignpolicy.com/2020/06/11/india-coronavirus-crisis-pakistan-bangladesh-nepal-border/"
     },
     {
         "title": "Twitter dismantles China-backed coronavirus 'influence operation'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
-        "title": "Bolsonaro supporter desecrates Brazil beach memorial for 40,000 coronavirus victims",
-        "link": "https://www.theguardian.com/world/2020/jun/11/bolsonaro-supporter-destroys-brazil-beach-memorial-40000-coronavirus-victims"
-    },
-    {
-        "title": "Trump Fans Can’t Sue if They Contract Covid-19 at Rallies, Campaign Says",
-        "link": "https://www.nytimes.com/2020/06/11/world/coronavirus-live-updates.html"
-    },
-    {
         "title": "Global markets stabilize after coronavirus fears spark huge Wall Street sell-off",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks/index.html"
+    },
+    {
+        "title": "Middle East’s Coronavirus Surge Shows Pandemic’s Shift to Developing World",
+        "link": "https://www.wsj.com/articles/middle-easts-coronavirus-surge-shows-pandemics-shift-to-developing-world-11591893467"
+    },
+    {
+        "title": "Stocks post their worst day since March",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     }
 ];
