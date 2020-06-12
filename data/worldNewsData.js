@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/tech/twitter-removes-over-170000-china-linked-accounts-spreading-false-coronavirus-hong-kong-information"
     },
     {
-        "title": "Coronavirus Updates and Live News",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
-    },
-    {
-        "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
-        "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
-    },
-    {
         "title": "The Post-Coronavirus Global Hunger Crisis",
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/h_98c46847adb11621b3cc2152921e0225"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/06/12/watch-live-world-health-organization-holds-press-briefing-on-coronavirus-pandemic.html"
     },
     {
         "title": "Coronavirus update: Global case tally tops 7.6 million as countries push ahead toward phased reopenings — with mixed results",

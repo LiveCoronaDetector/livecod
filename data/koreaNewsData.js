@@ -5,8 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200612169151080?did=1195m"
     },
     {
-        "title": "\"코로나 걸리고 싶다\"던 우크라이나 대통령, 아내가 확진자 됐다",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061204321.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "'맘카페 수사대' 낙인, 코로나보다 무섭네",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/13/2020061300029.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "중국 베이징서 이틀 연속 코로나19 확진자…감염경로 미궁(종합2보)",
+        "link": "http://yna.kr/AKR20200612155152097?did=1195m"
     },
     {
         "title": "제주도, 이태원發 코로나19 상황 종식…확진자 1명 퇴원",
@@ -17,8 +21,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "中 베이징서 이틀 연속 '코로나19' 확진자 발생…재확산 우려 키워",
-        "link": "https://view.asiae.co.kr/article/2020061218484528266"
+        "title": "우크라이나 영부인 코로나19 확진 판정 받아",
+        "link": "https://view.asiae.co.kr/article/2020061221495260808"
+    },
+    {
+        "title": "中 베이징 다시 뚫렸다…이틀 연속 코로나 확진자 나와",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061219150095942"
     },
     {
         "title": "'코로나19' 56명 늘어 1만2,003명…수도권서 45명",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4469364&ref=A"
     },
     {
-        "title": "일본 코로나 신규 확진자 56명···14일만 최다",
-        "link": "https://www.sedaily.com/NewsView/1Z3ZZKZUNB"
-    },
-    {
-        "title": "[속보] 코로나 대폭발 중남미…누적 확진자 150만명 넘어",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014682568&code=61132411&cp=nv"
-    },
-    {
-        "title": "충남 논산 코로나19 확진자 추가…백제병원 응급실 폐쇄",
-        "link": "http://www.hani.co.kr/arti/area/chungcheong/949111.html"
+        "title": "러시아 코로나19 신규확진 11일째 8천명대…감소세 정체 길어져(종합)",
+        "link": "http://yna.kr/AKR20200612142151080?did=1195m"
     }
 ];
