@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     },
     {
-        "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
-        "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
+        "title": "Coronavirus update: Global case tally tops 7.6 million as countries push ahead toward phased reopenings — with mixed results",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-tops-75-million-as-countries-push-ahead-toward-phased-reopenings-with-mixed-results-2020-06-12"
     }
 ];
