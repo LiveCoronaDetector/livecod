@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/11/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair",
-        "link": "https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html"
+        "title": "Coronavirus: Fracas on Brazil's Copacabana over Covid-19 'graves'",
+        "link": "https://www.bbc.com/news/world-latin-america-53017086"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/11/coronavirus-cases-fall-in-france-despite-easing-of-lockdown"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/12/other_sports/1591918426_018418.html"
+        "title": "India Is Heading Toward a Coronavirus Crisis",
+        "link": "https://foreignpolicy.com/2020/06/11/india-coronavirus-crisis-pakistan-bangladesh-nepal-border/"
     },
     {
-        "title": "South Korean doctors find risk factors for severe COVID-19 cases",
-        "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
+        "title": "EU accuses China of running coronavirus disinformation campaign",
+        "link": "https://www.foxnews.com/world/china-accused-of-running-disinformation-campaign-inside-eu-on-coronavirus"
     },
     {
         "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
+        "title": "The coronavirus pandemic isn’t ending — it’s surging",
+        "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
+    },
+    {
         "title": "Stocks post their worst day since March",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
-        "title": "100 Graves Dug On Copacabana Beach To Protest Brazil's Coronavirus Response | NBC News",
-        "link": "https://www.youtube.com/watch?v=lh1xtGj0Cj4"
-    },
-    {
-        "title": "The coronavirus pandemic isn’t ending — it’s surging",
-        "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
+        "title": "Middle East’s Coronavirus Surge Shows Pandemic’s Shift to Developing World",
+        "link": "https://www.wsj.com/articles/middle-easts-coronavirus-surge-shows-pandemics-shift-to-developing-world-11591893467"
     }
 ];
