@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/11/coronavirus-cases-fall-in-france-despite-easing-of-lockdown"
     },
     {
-        "title": "Coronavirus: Patients turned away as India hospitals struggle",
-        "link": "https://www.bbc.com/news/av/world-asia-india-53014213/coronavirus-overwhelmed-india-hospitals-turn-covid-patients-away"
+        "title": "India Is Heading Toward a Coronavirus Crisis",
+        "link": "https://foreignpolicy.com/2020/06/11/india-coronavirus-crisis-pakistan-bangladesh-nepal-border/"
     },
     {
         "title": "Twitter dismantles China-backed coronavirus 'influence operation'",
         "link": "https://www.foxnews.com/us/twitter-dismantles-china-backed-coronavirus-influence-operation"
     },
     {
-        "title": "Coronavirus outbreak latest: June 12, 2020",
-        "link": "https://english.kyodonews.net/news/2020/06/683b8d75930d-coronavirus-outbreak-latest-june-11-2020.html"
+        "title": "Fears of second coronavirus outbreak hit global shares",
+        "link": "https://www.bbc.com/news/business-53015467"
     },
     {
         "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
-        "title": "Bolsonaro supporter desecrates Brazil beach memorial for 40,000 coronavirus victims",
-        "link": "https://www.theguardian.com/world/2020/jun/11/bolsonaro-supporter-destroys-brazil-beach-memorial-40000-coronavirus-victims"
+        "title": "The coronavirus pandemic isn’t ending — it’s surging",
+        "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
     },
     {
         "title": "Stocks post their worst day since March",
