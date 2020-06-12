@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-53021239"
     },
     {
-        "title": "Pakistan PM warns of more coronavirus deaths: Live updates",
+        "title": "UK economy takes 25 percent hit from coronavirus: Live updates",
         "link": "https://www.aljazeera.com/news/2020/06/world-extreme-poor-rise-11-billion-live-updates-200611225207924.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/06/12/watch-live-world-health-organization-holds-press-briefing-on-coronavirus-pandemic.html"
-    },
-    {
         "title": "The Post-Coronavirus Global Hunger Crisis",
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     },
     {
-        "title": "Live updates: Oregon pauses its reopening plans for one week after coronavirus cases hit new high",
-        "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
+        "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
+        "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/06/12/watch-live-world-health-organization-holds-press-briefing-on-coronavirus-pandemic.html"
     }
 ];
