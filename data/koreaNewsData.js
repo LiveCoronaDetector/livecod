@@ -9,12 +9,28 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006121742535994"
     },
     {
+        "title": "\"코로나 걸리고 싶다\"던 우크라이나 대통령, 아내가 확진자 됐다",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061204321.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "일본 코로나 신규 확진자 56명···14일만 최다",
+        "link": "https://www.sedaily.com/NewsView/1Z3ZZKZUNB"
+    },
+    {
+        "title": "[단독]\"지금 고강도 사회적 거리두기 안 하면, 7월 하루 800명 확진자 '2차 대...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006121740011&code=940100"
+    },
+    {
+        "title": "리치웨이발 80대 확진자, 자가격리 어기고 병원 방문(종합)",
+        "link": "http://yna.kr/AKR20200612169951065?did=1195m"
+    },
+    {
         "title": "[속보] 코로나 대폭발 중남미…누적 확진자 150만명 넘어",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014682568&code=61132411&cp=nv"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 56명... 지역발생 43명",
-        "link": "https://www.sedaily.com/NewsView/1Z3ZXSEZVH"
+        "title": "[종합] 코로나19 확진자 56명 증가...수도권 42명, 해외 13명",
+        "link": "http://www.fnnews.com/news/202006121015326844"
     },
     {
         "title": "코로나 확진자 나왔던 기아차 소하리 공장, 정상 가동 재개",
@@ -23,21 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보]코로나 환자 56명 증가…서울 성심데이케어센터서 13명",
         "link": "https://news.joins.com/article/olink/23394684"
-    },
-    {
-        "title": "'코로나19' 56명 늘어 1만2,003명…수도권서 45명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006120156&t=NN"
-    },
-    {
-        "title": "'코로나 폐쇄' 쿠팡 고양 물류센터, 15일만에 재가동",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061202789.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "수도권 방역강화 무기한 연장…확진자 한자리 안되면 사회적거리두기 전환(종...",
-        "link": "http://www.newsis.com/view/?id=NISX20200612_0001057682&cID=10201&pID=10200"
-    },
-    {
-        "title": "“신규 확진자 한 자릿수까지” 수도권 방역 강화 무기한 연장",
-        "link": "http://www.hani.co.kr/arti/society/health/949100.html"
     }
 ];

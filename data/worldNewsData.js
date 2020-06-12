@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/us/twitter-dismantles-china-backed-coronavirus-influence-operation"
     },
     {
-        "title": "Global COVID-19 cases top 7.5 million: Johns Hopkins University",
-        "link": "https://telanganatoday.com/global-covid-19-cases-top-7-5-million-johns-hopkins-university"
-    },
-    {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Live updates: Oregon pauses its reopening plans for one week after coronavirus cases hit new high",
+        "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
     },
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
