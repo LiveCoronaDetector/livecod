@@ -9,16 +9,24 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006121742535994"
     },
     {
+        "title": "[속보] 코로나 대폭발 중남미…누적 확진자 150만명 넘어",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014682568&code=61132411&cp=nv"
+    },
+    {
         "title": "코로나 확진자 나왔던 기아차 소하리 공장, 정상 가동 재개",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보]코로나 환자 56명 증가…서울 성심데이케어센터서 13명",
+        "link": "https://news.joins.com/article/olink/23394684"
     },
     {
         "title": "'코로나 폐쇄' 쿠팡 고양 물류센터, 15일만에 재가동",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061202789.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "이태원 발 제주 코로나19 14번 확진자 퇴원…제주서 현재 1명 치료 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469337&ref=A"
+        "title": "수도권 방역강화 무기한 연장…확진자 한자리 안되면 사회적거리두기 전환(종...",
+        "link": "http://www.newsis.com/view/?id=NISX20200612_0001057682&cID=10201&pID=10200"
     },
     {
         "title": "“신규 확진자 한 자릿수까지” 수도권 방역 강화 무기한 연장",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "리치웨이 확진자 하루새 23명 늘어 총 139명…8곳 이상으로 전파",
         "link": "https://imnews.imbc.com/news/2020/society/article/5807980_32633.html"
-    },
-    {
-        "title": "광주 유덕중·대광여고 코로나19 확진자 '양·음성 오락가락' 혼선",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006120364&t=NN"
-    },
-    {
-        "title": "[종합] 수도권 강화된 방역관리체계 연장...확진자 한 자리수 감소까지",
-        "link": "http://www.fnnews.com/news/202006121150049552"
     }
 ];

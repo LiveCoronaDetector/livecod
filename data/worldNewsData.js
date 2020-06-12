@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/global-report-who-warns-of-accelerating-infections-in-africa-but-says-severe-cases-not-going-undetected"
     },
     {
-        "title": "Coronavirus: Technicians held in Peru over false 5G Covid links",
-        "link": "https://www.bbc.com/news/world-latin-america-53021239"
+        "title": "Coronavirus Could Make America’s Gun Problem Even Deadlier",
+        "link": "https://www.nytimes.com/2020/06/11/opinion/coronavirus-gun-deaths-suicide.html"
     },
     {
         "title": "Pakistan PM warns of more coronavirus deaths: Live updates",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53006166"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/index.html"
+        "title": "Coronavirus patients 'treated worse than animals': India court",
+        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-dead-treated-worse-animals-india-court-200612081132683.html"
     },
     {
         "title": "Twitter dismantles China-backed coronavirus 'influence operation'",
         "link": "https://www.foxnews.com/us/twitter-dismantles-china-backed-coronavirus-influence-operation"
     },
     {
-        "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
-        "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
-    },
-    {
         "title": "The Post-Coronavirus Global Hunger Crisis",
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     },
     {
-        "title": "Live updates: U.S. surpasses 2 million coronavirus cases; bleak economic picture signals long road ahead",
+        "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
+        "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
+    },
+    {
+        "title": "Live updates: Oregon pauses its reopening plans for one week after coronavirus cases hit new high",
         "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
     },
     {
-        "title": "Coronavirus live news: Trump rally attendees told they cannot sue if they contract Covid-19",
-        "link": "https://www.theguardian.com/world/live/2020/jun/12/coronavirus-live-news-markets-fall-over-fears-of-long-us-recovery-as-brazil-cases-top-800000"
+        "title": "Dow set to soar 600 points after biggest selloff since June",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks/index.html"
     }
 ];
