@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53004631"
     },
     {
-        "title": "Coronavirus: Fracas on Brazil's Copacabana over Covid-19 'graves'",
-        "link": "https://www.bbc.com/news/world-latin-america-53017086"
+        "title": "Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair",
+        "link": "https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html"
     },
     {
-        "title": "As Virus Infections Surge, Countries End Lockdowns",
-        "link": "https://www.nytimes.com/2020/06/10/world/asia/reopening-before-coronavirus-ends.html"
+        "title": "Coronavirus: Has a second wave of infections hit Iran?",
+        "link": "https://www.bbc.com/news/52959756"
     },
     {
         "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
-        "title": "Bolsonaro supporter desecrates Brazil beach memorial for 40,000 coronavirus victims",
-        "link": "https://www.theguardian.com/world/2020/jun/11/bolsonaro-supporter-destroys-brazil-beach-memorial-40000-coronavirus-victims"
+        "title": "100 Graves Dug On Copacabana Beach To Protest Brazil's Coronavirus Response | NBC News",
+        "link": "https://www.youtube.com/watch?v=lh1xtGj0Cj4"
     },
     {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",

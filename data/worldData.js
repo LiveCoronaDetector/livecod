@@ -1260,9 +1260,9 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 194,
+        "확진자수": 197,
         "사망자수": 0,
-        "완치자수": 89
+        "완치자수": 95
     },
     {
         "Name": "Faeroe Islands",
