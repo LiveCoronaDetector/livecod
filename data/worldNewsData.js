@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/global-report-who-warns-of-accelerating-infections-in-africa-but-says-severe-cases-not-going-undetected"
     },
     {
-        "title": "Coronavirus: Technicians held in Peru over false 5G Covid links",
-        "link": "https://www.bbc.com/news/world-latin-america-53021239"
+        "title": "Live Coronavirus News",
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
         "title": "Pakistan hospitals struggle as coronavirus cases explode",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
     },
     {
-        "title": "Twitter removes over 170,000 China-linked accounts spreading false coronavirus, Hong Kong information",
-        "link": "https://www.foxnews.com/tech/twitter-removes-over-170000-china-linked-accounts-spreading-false-coronavirus-hong-kong-information"
+        "title": "New coronavirus cases see Beijing close 2 food markets, scrap plan to let some kids resume school",
+        "link": "https://www.cbsnews.com/news/coronavirus-in-china-cases-in-beijing-school-plans-canceled-meat-seafood-market-closed-fear-2nd-wave/"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/h_98c46847adb11621b3cc2152921e0225"
     },
     {
-        "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
-        "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
-    },
-    {
         "title": "The Post-Coronavirus Global Hunger Crisis",
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
+    },
+    {
+        "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
+        "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
         "title": "Coronavirus update: Global case tally tops 7.6 million as countries push ahead toward phased reopenings — with mixed results",
