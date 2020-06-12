@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/world-extreme-poor-rise-11-billion-live-updates-200611225207924.html"
     },
     {
-        "title": "Prosecutors question Italy's PM over coronavirus response",
-        "link": "https://www.aljazeera.com/news/2020/06/prosecutors-question-italy-pm-coronavirus-response-200612004101820.html"
+        "title": "Coronavirus live news: prosecutors question Italian PM on decision not to lock down earlier",
+        "link": "https://www.theguardian.com/world/live/2020/jun/12/coronavirus-live-news-markets-fall-over-fears-of-long-us-recovery-as-brazil-cases-top-800000"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/index.html"
+        "title": "India's coronavirus agony: 'I did everything to save my wife and baby'",
+        "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
     },
     {
-        "title": "Twitter dismantles China-backed coronavirus 'influence operation'",
-        "link": "https://www.foxnews.com/us/twitter-dismantles-china-backed-coronavirus-influence-operation"
+        "title": "Twitter removes over 170,000 China-linked accounts spreading false coronavirus, Hong Kong information",
+        "link": "https://www.foxnews.com/tech/twitter-removes-over-170000-china-linked-accounts-spreading-false-coronavirus-hong-kong-information"
     },
     {
         "title": "Coronavirus Live News and Updates",

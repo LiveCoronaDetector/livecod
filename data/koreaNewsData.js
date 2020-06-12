@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061204321.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[단독]\"지금 고강도 사회적 거리두기 안 하면, 7월 하루 800명 확진자 '2차 대...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006121740011&code=940100"
+        "title": "베이징서 이틀 연속 확진자 비상! 감염경로 ‘오리무중’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469571&ref=A"
     },
     {
         "title": "리치웨이발 80대 확진자, 자가격리 어기고 병원 방문(종합)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006120156&t=NN"
     },
     {
-        "title": "코로나19로 문닫았던 쿠팡 고양 물류센터 15일 만에 재가동",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469364&ref=A"
+        "title": "코로나로 문닫았던 쿠팡 고양 물류센터, 15일 만에 재가동",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061202841.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
