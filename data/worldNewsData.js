@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/10/world/asia/reopening-before-coronavirus-ends.html"
     },
     {
-        "title": "Coronavirus cases fall in France despite easing of lockdown",
-        "link": "https://www.theguardian.com/world/2020/jun/11/coronavirus-cases-fall-in-france-despite-easing-of-lockdown"
+        "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
+        "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
         "title": "India Is Heading Toward a Coronavirus Crisis",
         "link": "https://foreignpolicy.com/2020/06/11/india-coronavirus-crisis-pakistan-bangladesh-nepal-border/"
     },
     {
-        "title": "EU accuses China of running coronavirus disinformation campaign",
-        "link": "https://www.foxnews.com/world/china-accused-of-running-disinformation-campaign-inside-eu-on-coronavirus"
+        "title": "South Korean doctors find risk factors for severe COVID-19 cases",
+        "link": "https://news.yahoo.com/south-korean-doctors-risk-factors-020529753.html"
     },
     {
         "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
