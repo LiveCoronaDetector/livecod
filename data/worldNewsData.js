@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
     },
     {
-        "title": "Twitter dismantles China-backed coronavirus 'influence operation'",
-        "link": "https://www.foxnews.com/us/twitter-dismantles-china-backed-coronavirus-influence-operation"
+        "title": "Twitter removes over 170,000 China-linked accounts spreading false coronavirus, Hong Kong information",
+        "link": "https://www.foxnews.com/tech/twitter-removes-over-170000-china-linked-accounts-spreading-false-coronavirus-hong-kong-information"
     },
     {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/06/12/watch-live-world-health-organization-holds-press-briefing-on-coronavirus-pandemic.html"
     },
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
-    },
-    {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/06/12/watch-live-world-health-organization-holds-press-briefing-on-coronavirus-pandemic.html"
     }
 ];
