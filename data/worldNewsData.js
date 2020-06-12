@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/global-report-who-warns-of-accelerating-infections-in-africa-but-says-severe-cases-not-going-undetected"
     },
     {
-        "title": "Live updates: U.S. surpasses 2 million coronavirus cases; market rout reflects bleak economic picture",
+        "title": "Live updates: U.S. surpasses 2 million coronavirus cases; bleak economic picture signals long road ahead",
         "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/11/coronavirus-cases-fall-in-france-despite-easing-of-lockdown"
     },
     {
-        "title": "India Is Heading Toward a Coronavirus Crisis",
-        "link": "https://foreignpolicy.com/2020/06/11/india-coronavirus-crisis-pakistan-bangladesh-nepal-border/"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/index.html"
     },
     {
         "title": "Twitter dismantles China-backed coronavirus 'influence operation'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
-        "title": "Beijing confirms 1st new coronavirus case in almost 2 months amid concern over 2nd wave",
-        "link": "https://www.cbsnews.com/news/coronavirus-china-beijing-confirms-first-new-covid-19-case-two-months/"
-    },
-    {
-        "title": "100 Graves Dug On Copacabana Beach To Protest Brazil's Coronavirus Response | NBC News",
-        "link": "https://www.youtube.com/watch?v=lh1xtGj0Cj4"
+        "title": "Bolsonaro supporter desecrates Brazil beach memorial for 40,000 coronavirus victims",
+        "link": "https://www.theguardian.com/world/2020/jun/11/bolsonaro-supporter-destroys-brazil-beach-memorial-40000-coronavirus-victims"
     },
     {
         "title": "Stocks post their worst day since March",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+    },
+    {
+        "title": "Middle East’s Coronavirus Surge Shows Pandemic’s Shift to Developing World",
+        "link": "https://www.wsj.com/articles/middle-easts-coronavirus-surge-shows-pandemics-shift-to-developing-world-11591893467"
     }
 ];
