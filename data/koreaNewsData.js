@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4469364&ref=A"
     },
     {
-        "title": "러시아 코로나19 신규확진 11일째 8천명대…감소세 정체 길어져(종합)",
-        "link": "http://yna.kr/AKR20200612142151080?did=1195m"
+        "title": "일본 코로나 신규 확진자 56명···14일만 최다",
+        "link": "https://www.sedaily.com/NewsView/1Z3ZZKZUNB"
     }
 ];
