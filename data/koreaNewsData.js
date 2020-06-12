@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006121742535994"
     },
     {
-        "title": "일본 코로나 신규 확진자 56명···14일만 최다",
-        "link": "https://www.sedaily.com/NewsView/1Z3ZZKZUNB"
-    },
-    {
-        "title": "\"코로나 걸리고 싶다\"던 우크라이나 대통령, 아내가 확진자 됐다",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061204321.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "베이징서 이틀 연속 확진자 비상! 감염경로 ‘오리무중’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469571&ref=A"
-    },
-    {
-        "title": "리치웨이발 80대 확진자, 자가격리 어기고 병원 방문(종합)",
-        "link": "http://yna.kr/AKR20200612169951065?did=1195m"
-    },
-    {
         "title": "코로나 확진자 나왔던 기아차 소하리 공장, 정상 가동 재개",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보]코로나 환자 56명 증가…서울 성심데이케어센터서 13명",
-        "link": "https://news.joins.com/article/olink/23394684"
     },
     {
         "title": "'코로나19' 56명 늘어 1만2,003명…수도권서 45명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006120156&t=NN"
     },
     {
-        "title": "코로나로 문닫았던 쿠팡 고양 물류센터, 15일 만에 재가동",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061202841.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "'코로나 폐쇄' 쿠팡 고양 물류센터, 15일만에 재가동",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061202789.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "\"코로나 걸리고 싶다\"던 우크라이나 대통령, 아내가 확진자 됐다",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061204321.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "일본 코로나 신규 확진자 56명···14일만 최다",
+        "link": "https://www.sedaily.com/NewsView/1Z3ZZKZUNB"
+    },
+    {
+        "title": "[속보] 코로나 대폭발 중남미…누적 확진자 150만명 넘어",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014682568&code=61132411&cp=nv"
+    },
+    {
+        "title": "충남 논산 코로나19 확진자 추가…백제병원 응급실 폐쇄",
+        "link": "http://www.hani.co.kr/arti/area/chungcheong/949111.html"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 56명 증가...수도권 42명, 해외 13명",
+        "link": "http://www.fnnews.com/news/202006121015326844"
     }
 ];
