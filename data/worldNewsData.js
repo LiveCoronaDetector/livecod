@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/global-report-who-warns-of-accelerating-infections-in-africa-but-says-severe-cases-not-going-undetected"
     },
     {
-        "title": "Coronavirus: Fracas on Brazil's Copacabana over Covid-19 'graves'",
-        "link": "https://www.bbc.com/news/world-latin-america-53017086"
+        "title": "Live updates: U.S. surpasses 2 million coronavirus cases; market rout reflects bleak economic picture",
+        "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
     },
     {
-        "title": "As Virus Infections Surge, Countries End Lockdowns",
-        "link": "https://www.nytimes.com/2020/06/10/world/asia/reopening-before-coronavirus-ends.html"
+        "title": "Pakistan PM warns of more coronavirus deaths: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/world-extreme-poor-rise-11-billion-live-updates-200611225207924.html"
     },
     {
         "title": "Coronavirus cases fall in France despite easing of lockdown",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
+        "title": "Beijing confirms 1st new coronavirus case in almost 2 months amid concern over 2nd wave",
+        "link": "https://www.cbsnews.com/news/coronavirus-china-beijing-confirms-first-new-covid-19-case-two-months/"
+    },
+    {
+        "title": "100 Graves Dug On Copacabana Beach To Protest Brazil's Coronavirus Response | NBC News",
+        "link": "https://www.youtube.com/watch?v=lh1xtGj0Cj4"
+    },
+    {
         "title": "Stocks post their worst day since March",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
-    },
-    {
-        "title": "Middle East’s Coronavirus Surge Shows Pandemic’s Shift to Developing World",
-        "link": "https://www.wsj.com/articles/middle-easts-coronavirus-surge-shows-pandemics-shift-to-developing-world-11591893467"
-    },
-    {
-        "title": "Bolsonaro supporter desecrates Brazil beach memorial for 40,000 coronavirus victims",
-        "link": "https://www.theguardian.com/world/2020/jun/11/bolsonaro-supporter-destroys-brazil-beach-memorial-40000-coronavirus-victims"
     }
 ];
