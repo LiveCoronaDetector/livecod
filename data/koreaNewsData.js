@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200612155151097?did=1195m"
     },
     {
+        "title": "\"코로나 걸리고 싶다\"던 우크라이나 대통령, 아내가 확진자 됐다",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061204321.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "제주도, 이태원發 코로나19 상황 종식…확진자 1명 퇴원",
         "link": "http://www.fnnews.com/news/202006121742535994"
     },
     {
         "title": "코로나 확진자 나왔던 기아차 소하리 공장, 정상 가동 재개",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "\"코로나 걸리고 싶다\"던 우크라이나 대통령, 아내가 확진자 됐다",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061204321.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "베이징서 이틀 연속 확진자 비상! 감염경로 ‘오리무중’",

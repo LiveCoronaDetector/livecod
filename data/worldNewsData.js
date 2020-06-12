@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-53021239"
     },
     {
-        "title": "UK economy takes 25 percent hit from coronavirus: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/world-extreme-poor-rise-11-billion-live-updates-200611225207924.html"
+        "title": "Pakistan hospitals struggle as coronavirus cases explode",
+        "link": "https://www.aljazeera.com/indepth/features/pakistan-hospitals-struggle-coronavirus-cases-explode-200612084123797.html"
     },
     {
         "title": "Coronavirus live news: Germany set to lift land border checks; Italian PM questioned on decision not to lock down earlier",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
     },
     {
-        "title": "Twitter removes over 170,000 China-linked accounts spreading false coronavirus, Hong Kong information",
-        "link": "https://www.foxnews.com/tech/twitter-removes-over-170000-china-linked-accounts-spreading-false-coronavirus-hong-kong-information"
+        "title": "Twitter dismantles China-backed coronavirus 'influence operation'",
+        "link": "https://www.foxnews.com/us/twitter-dismantles-china-backed-coronavirus-influence-operation"
     },
     {
         "title": "Coronavirus Live News and Updates",
