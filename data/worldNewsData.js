@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
-        "title": "Brazil's symbolic COVID-19 'graveyard'",
-        "link": "https://www.youtube.com/watch?v=xvgDjCUxLUM"
+        "title": "Stocks post their worst day since March",
+        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
         "title": "Middle East’s Coronavirus Surge Shows Pandemic’s Shift to Developing World",
         "link": "https://www.wsj.com/articles/middle-easts-coronavirus-surge-shows-pandemics-shift-to-developing-world-11591893467"
     },
     {
-        "title": "Stocks post their worst day since March",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+        "title": "Bolsonaro supporter desecrates Brazil beach memorial for 40,000 coronavirus victims",
+        "link": "https://www.theguardian.com/world/2020/jun/11/bolsonaro-supporter-destroys-brazil-beach-memorial-40000-coronavirus-victims"
     }
 ];
