@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53006166"
     },
     {
-        "title": "India Is Heading Toward a Coronavirus Crisis",
-        "link": "https://foreignpolicy.com/2020/06/11/india-coronavirus-crisis-pakistan-bangladesh-nepal-border/"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/index.html"
     },
     {
         "title": "Twitter dismantles China-backed coronavirus 'influence operation'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
-        "title": "Global markets stabilize after coronavirus fears spark huge Wall Street sell-off",
+        "title": "The Post-Coronavirus Global Hunger Crisis",
+        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
+    },
+    {
+        "title": "Coronavirus live news: Trump rally attendees told they cannot sue if they contract Covid-19",
+        "link": "https://www.theguardian.com/world/live/2020/jun/12/coronavirus-live-news-markets-fall-over-fears-of-long-us-recovery-as-brazil-cases-top-800000"
+    },
+    {
+        "title": "Dow set to soar 600 points after biggest selloff since June",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks/index.html"
-    },
-    {
-        "title": "Middle East’s Coronavirus Surge Shows Pandemic’s Shift to Developing World",
-        "link": "https://www.wsj.com/articles/middle-easts-coronavirus-surge-shows-pandemics-shift-to-developing-world-11591893467"
-    },
-    {
-        "title": "Stocks post their worst day since March",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     }
 ];
