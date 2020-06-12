@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/us/twitter-dismantles-china-backed-coronavirus-influence-operation"
     },
     {
-        "title": "Fears of second coronavirus outbreak hit global shares",
-        "link": "https://www.bbc.com/news/business-53015467"
-    },
-    {
         "title": "Fauci voices support for World Health Organization after Trump terminates US relationship",
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
-        "title": "The coronavirus pandemic isn’t ending — it’s surging",
-        "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
+        "title": "Coronavirus live news: markets fall over fears of long US recovery as Brazil cases top 800,000",
+        "link": "https://www.theguardian.com/world/live/2020/jun/12/coronavirus-live-news-markets-fall-over-fears-of-long-us-recovery-as-brazil-cases-top-800000"
     },
     {
         "title": "Stocks post their worst day since March",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+    },
+    {
+        "title": "Beijing logs first local coronavirus case in weeks: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/world-extreme-poor-rise-11-billion-live-updates-200611225207924.html"
     }
 ];
