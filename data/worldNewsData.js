@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/world-extreme-poor-rise-11-billion-live-updates-200611225207924.html"
     },
     {
-        "title": "Coronavirus cases fall in France despite easing of lockdown",
-        "link": "https://www.theguardian.com/world/2020/jun/11/coronavirus-cases-fall-in-france-despite-easing-of-lockdown"
+        "title": "Coronavirus: Italy prosecutors quiz PM Conte on crisis",
+        "link": "https://www.bbc.com/news/world-europe-53006166"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
-        "title": "Bolsonaro supporter desecrates Brazil beach memorial for 40,000 coronavirus victims",
-        "link": "https://www.theguardian.com/world/2020/jun/11/bolsonaro-supporter-destroys-brazil-beach-memorial-40000-coronavirus-victims"
+        "title": "Why Donald Trump's 'Juneteenth' speech will be a disaster",
+        "link": "https://www.cnn.com/2020/06/11/politics/donald-trump-tulsa-juneteenth-race/index.html"
     },
     {
-        "title": "Stocks post their worst day since March",
-        "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
+        "title": "Brazil's symbolic COVID-19 'graveyard'",
+        "link": "https://www.youtube.com/watch?v=xvgDjCUxLUM"
     },
     {
         "title": "Middle East’s Coronavirus Surge Shows Pandemic’s Shift to Developing World",
