@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53004631"
     },
     {
-        "title": "Coronavirus: Fracas on Brazil's Copacabana over Covid-19 'graves'",
-        "link": "https://www.bbc.com/news/world-latin-america-53017086"
+        "title": "Counting the Days Under Virus Lockdown by the Length of Trudeau’s Hair",
+        "link": "https://www.nytimes.com/2020/06/11/world/canada/trudeau-coronavirus-hair.html"
     },
     {
         "title": "As Virus Infections Surge, Countries End Lockdowns",
         "link": "https://www.nytimes.com/2020/06/10/world/asia/reopening-before-coronavirus-ends.html"
     },
     {
-        "title": "Coronavirus cases fall in France despite easing of lockdown",
-        "link": "https://www.theguardian.com/world/2020/jun/11/coronavirus-cases-fall-in-france-despite-easing-of-lockdown"
+        "title": "Cinquefrondi: the 'Covid-free' Italian town selling $1 houses",
+        "link": "https://www.cnn.com/travel/article/one-euro-homes-cinquefrondi-covid-19/index.html"
     },
     {
-        "title": "Global report: India reports surge in Covid-19 cases as lockdown eased",
-        "link": "https://www.theguardian.com/world/2020/jun/11/global-report-india-reports-surge-in-covid-19-cases-as-lockdown-eased"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/12/other_sports/1591918426_018418.html"
     },
     {
         "title": "South Korean doctors find risk factors for severe COVID-19 cases",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
-        "title": "What Will Greetings Look Like in a Post-Coronavirus World?",
-        "link": "https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html"
+        "title": "100 Graves Dug On Copacabana Beach To Protest Brazil's Coronavirus Response | NBC News",
+        "link": "https://www.youtube.com/watch?v=lh1xtGj0Cj4"
     },
     {
-        "title": "The coronavirus pandemic isn’t ending — it’s surging",
-        "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
+        "title": "What Will Greetings Look Like in a Post-Coronavirus World?",
+        "link": "https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html"
     }
 ];
