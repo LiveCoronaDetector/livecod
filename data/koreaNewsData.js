@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006120156&t=NN"
     },
     {
-        "title": "[속보] 코로나 대폭발 중남미…누적 확진자 150만명 넘어",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014682568&code=61132411&cp=nv"
-    },
-    {
         "title": "[속보]코로나 환자 56명 증가…서울 성심데이케어센터서 13명",
         "link": "https://news.joins.com/article/olink/23394684"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/949070.html"
     },
     {
-        "title": "[속보]서울 도봉구 데이케어센터서 코로나19 확진 13명 발생",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006120957001&code=940100"
-    },
-    {
-        "title": "코로나 확진자 나왔던 기아차 소하리 공장, 정상 가동 재개",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "충남 논산서 '코로나19' 확진자 발생",
         "link": "http://www.dtnews24.com/news/articleView.html?idxno=580432"
     },
     {
-        "title": "[종합] 수도권 강화된 방역관리체계 연장...확진자 한 자리수 감소까지",
-        "link": "http://www.fnnews.com/news/202006121150049552"
+        "title": "제주서 수도권 클럽방문 코로나19 확진자 완치·퇴원",
+        "link": "http://yna.kr/AKR20200612102900056?did=1195m"
+    },
+    {
+        "title": "[종합] 코로나19 수도권 리치웨이 중심 확산...23명 추가된 총 139명",
+        "link": "http://www.fnnews.com/news/202006121439077264"
+    },
+    {
+        "title": "[속보] 코로나 대폭발 중남미…누적 확진자 150만명 넘어",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014682568&code=61132411&cp=nv"
+    },
+    {
+        "title": "코로나로 문닫았던 쿠팡 고양 물류센터, 15일 만에 재가동",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061202841.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "리치웨이 확진자 하루새 23명 늘어 총 139명…8곳 이상으로 전파",
         "link": "https://imnews.imbc.com/news/2020/society/article/5807980_32633.html"
     },
     {
-        "title": "수도권 방역강화 무기한 연장…확진자 한자리 안되면 사회적거리두기 전환(종...",
-        "link": "http://www.newsis.com/view/?id=NISX20200612_0001057682&cID=10201&pID=10200"
+        "title": "[속보]서울 도봉구 데이케어센터서 코로나19 확진 13명 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006120957001&code=940100"
     }
 ];
