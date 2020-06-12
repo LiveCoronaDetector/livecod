@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/11/politics/fauci-world-health-organization-coronavirus/index.html"
     },
     {
+        "title": "What Will Greetings Look Like in a Post-Coronavirus World?",
+        "link": "https://www.nytimes.com/2020/06/10/smarter-living/coronavirus-greetings-handshakes-hugs.html"
+    },
+    {
         "title": "Stocks post their worst day since March",
         "link": "https://www.cnn.com/2020/06/11/investing/global-stocks-coronavirus-fed/index.html"
     },
     {
         "title": "The coronavirus pandemic isn’t ending — it’s surging",
         "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
-    },
-    {
-        "title": "Middle East’s Coronavirus Surge Shows Pandemic’s Shift to Developing World",
-        "link": "https://www.wsj.com/articles/middle-easts-coronavirus-surge-shows-pandemics-shift-to-developing-world-11591893467"
     }
 ];

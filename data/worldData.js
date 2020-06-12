@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2088963,
-        "사망자수": 116024,
-        "완치자수": 813868
+        "확진자수": 2089402,
+        "사망자수": 116029,
+        "완치자수": 814115
     },
     {
         "Name": "브라질",
@@ -337,20 +337,20 @@ var marker = [
         "완치자수": 6623
     },
     {
+        "Name": "Panama",
+        "Name_ch": "",
+        "Name_en": "Panama",
+        "확진자수": 18586,
+        "사망자수": 418,
+        "완치자수": 10977
+    },
+    {
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
         "확진자수": 18569,
         "사망자수": 300,
         "완치자수": 15250
-    },
-    {
-        "Name": "Panama",
-        "Name_ch": "",
-        "Name_en": "Panama",
-        "확진자수": 17889,
-        "사망자수": 413,
-        "완치자수": 10977
     },
     {
         "Name": "일본",
@@ -700,7 +700,7 @@ var marker = [
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 2738,
+        "확진자수": 2814,
         "사망자수": 23,
         "완치자수": 487
     },
@@ -1289,6 +1289,14 @@ var marker = [
         "완치자수": 171
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "확진자수": 168,
+        "사망자수": 2,
+        "완치자수": 9
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
@@ -1321,20 +1329,12 @@ var marker = [
         "완치자수": 92
     },
     {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "확진자수": 144,
-        "사망자수": 2,
-        "완치자수": 9
-    },
-    {
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
         "확진자수": 141,
         "사망자수": 9,
-        "완치자수": 125
+        "완치자수": 127
     },
     {
         "Name": "Brunei",
@@ -1374,7 +1374,7 @@ var marker = [
         "Name_en": "Bahamas",
         "확진자수": 103,
         "사망자수": 11,
-        "완치자수": 67
+        "완치자수": 68
     },
     {
         "Name": "Aruba",
