@@ -13,20 +13,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/indepth/features/pakistan-hospitals-struggle-coronavirus-cases-explode-200612084123797.html"
     },
     {
-        "title": "Italian scientists develop model to show how sun’s rays can kill the coronavirus",
-        "link": "https://www.scmp.com/news/world/europe/article/3088818/italian-scientists-develop-model-show-how-solar-radiation-can"
+        "title": "Prosecutors Question Italy's Top Leaders Over Coronavirus Response",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/12/876143187/prosecutors-question-italys-top-leaders-over-coronavirus-response"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/13/other_sports/1592003794_533468.html"
+        "title": "India's coronavirus agony: 'I did everything to save my wife and baby'",
+        "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
     },
     {
         "title": "Coronavirus live news: Beijing back into partial lockdown as new cluster emerges",
         "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     },
     {
-        "title": "Parts of Beijing shut down due to COVID-19 clusters: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
+        "title": "Beijing district in 'wartime emergency mode' after spike in local Covid-19 cases",
+        "link": "https://www.youtube.com/watch?v=YS9Mlf_OSyE"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     },
     {
-        "title": "Italian prosecutors question PM Conte over Covid-19 response",
-        "link": "https://www.youtube.com/watch?v=QSYWAyIwWw4"
+        "title": "New CDC coronavirus guidelines advise caution with travel",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/h_98c46847adb11621b3cc2152921e0225"
     }
 ];
