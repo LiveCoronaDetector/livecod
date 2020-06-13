@@ -5,16 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200613038151530?did=1195m"
     },
     {
-        "title": "리치웨이 관련 확진자 14명 추가…\"n차 감염, 방심 때문\"[종합]",
-        "link": "https://www.hankyung.com/society/article/2020061333117"
-    },
-    {
-        "title": "베이징 이틀째 코로나 신규확진 7명…“전시 비상사태”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200613500053&wlog_tag3=naver"
-    },
-    {
         "title": "서울 '입원 격리' 확진자 408명 역대 최대…전국의 38% 차지",
         "link": "http://yna.kr/AKR20200613030700004?did=1195m"
+    },
+    {
+        "title": "리치웨이 관련 확진자 14명 추가…\"n차 감염, 방심 때문\"[종합]",
+        "link": "https://www.hankyung.com/society/article/2020061333117"
     },
     {
         "title": "강남 어학원발 코로나 집단감염에 서초구 주점 직원도 '확진'",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "신규 확진자 49명…집단감염 수도권 집중",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5808800_32496.html"
+    },
+    {
+        "title": "방역 강화해도…신규확진자 49명중 44명 수도권",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006131121001&code=940100"
     }
 ];

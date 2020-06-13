@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
-        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
+        "title": "Virus Exposes Weak Links in Peru’s Success Story",
+        "link": "https://www.nytimes.com/2020/06/12/world/americas/coronavirus-peru-inequality-corruption.html"
     },
     {
         "title": "Pakistan hospitals struggle as coronavirus cases explode",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
-    },
-    {
-        "title": "New coronavirus hotspots emerge as state cases spike amid reopening l ABC News",
-        "link": "https://www.youtube.com/watch?v=o06IdOuUKFc"
+        "title": "Beijing district in 'wartime emergency' after virus spike shuts market",
+        "link": "https://www.cnbc.com/2020/06/13/beijing-district-in-wartime-emergency-after-virus-spike-shuts-market.html"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
+    },
+    {
+        "title": "Rio cartels go from running drugs to pushing medication",
+        "link": "https://www.cnn.com/2020/06/13/americas/brazil-rio-favela-coronavirus-care/index.html"
     }
 ];
