@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200612155152097?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 49명 증가...44명 수도권 발생",
-        "link": "http://www.fnnews.com/news/202006131015378333"
-    },
-    {
         "title": "강남 어학원 확진자 헬스장 방문 연쇄감염 우려",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4469873&ref=A"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 49명 증가...44명 수도권 발생",
+        "link": "http://www.fnnews.com/news/202006131015378333"
     },
     {
         "title": "방역 강화해도…신규확진자 49명중 44명 수도권",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006130024&t=NN"
     },
     {
-        "title": "[속보] 서울 '입원 격리' 확진자 408명 '최대', 전국 38% 차지",
-        "link": "https://www.hankyung.com/society/article/2020061330467"
+        "title": "서울 내 코로나19 입원 환자 408명…전국 38% 차지",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000986382?division=NAVER"
     },
     {
-        "title": "코로나19 신규 확진자 49명…서울만 29명 '집중'(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01495686625801392"
+        "title": "코로나19 신규 확진 환자 49명…수도권 감염 계속",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5808699_32633.html"
     },
     {
-        "title": "[속보] 코로나19 의심자 나온 광주 중·고교 전원 음성",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014686224&code=61121211&cp=nv"
+        "title": "제주도, 이태원發 코로나19 상황 종식…확진자 1명 퇴원",
+        "link": "http://www.fnnews.com/news/202006121742535994"
     }
 ];
