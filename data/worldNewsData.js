@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Coronavirus live updates: Cuomo urges caution in reopening; small town businesses face uncertain restarts",
+        "title": "Coronavirus live updates: European nations sign deal with AstraZeneca for 400 million vaccine doses",
         "link": "https://www.cnbc.com/2020/06/13/coronavirus-live-updates.html"
     },
     {

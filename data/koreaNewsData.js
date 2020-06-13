@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200613030700004?did=1195m"
     },
     {
-        "title": "리치웨이 확진자 153명-실내체육관까지 전파…\"폭발적증가 염두\"(종합)",
-        "link": "http://yna.kr/AKR20200613038151530?did=1195m"
-    },
-    {
         "title": "방역 강화해도…신규확진자 49명중 44명 수도권",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006131121001&code=940100"
     },
@@ -23,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "강남 어학원발 코로나 집단감염에 서초구 주점 직원도 '확진'",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/13/2020061301658.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "수도권 코로나 지뢰밭…리치웨이발 확진자 153명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006131756001&code=940100"
     },
     {
         "title": "코로나19 신규 확진자 49명…수도권에서만 44명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006131522036217"
     },
     {
-        "title": "13일 확진자 최소 21명…리치웨이, 헬스장·버스회사로 불똥",
-        "link": "https://www.news1.kr/articles/?3964371"
+        "title": "코로나19 확진자 49명 추가…누적 확진자 1만2051명",
+        "link": "https://www.donga.com/news/article/all/20200613/101491444/1"
     }
 ];
