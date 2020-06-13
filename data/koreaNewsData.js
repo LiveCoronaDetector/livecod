@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/13/2020061301658.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "입원 중인 서울 코로나 환자 408명..역대 최대",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01577686625801392"
-    },
-    {
-        "title": "리치웨이 관련 확진자 14명 추가…\"n차 감염, 방심 때문\"[종합]",
-        "link": "https://www.hankyung.com/society/article/2020061333117"
-    },
-    {
         "title": "코로나19 신규 확진자 49명…수도권에서만 44명",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000986379?division=NAVER"
     },
     {
+        "title": "입원 중인 서울 코로나 환자 408명..역대 최대",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01577686625801392"
+    },
+    {
         "title": "강남 어학원 확진자 헬스장 방문 연쇄감염 우려",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4469873&ref=A"
+    },
+    {
+        "title": "리치웨이발 코로나19, 강남 어학원 거쳐 중랑 헬스장까지",
+        "link": "http://www.fnnews.com/news/202006131522036217"
     }
 ];
