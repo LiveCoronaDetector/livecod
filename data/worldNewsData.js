@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
     },
     {
-        "title": "Coronavirus in China: Beijing Seafood Market Shuts Down",
-        "link": "https://www.nytimes.com/2020/06/13/world/asia/beijing-market-coronavirus.html"
+        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
-        "title": "Cemeteries in Brazil’s biggest metropolis plan to dig up graves to free up space for coronavirus patients",
-        "link": "https://ktla.com/news/cemeteries-in-brazils-biggest-metropolis-plan-to-dig-up-graves-to-free-up-space-for-coronavirus-patients/"
+        "title": "Politics looms large in Brazil's response to pandemic",
+        "link": "https://www.youtube.com/watch?v=HXFpXw5iTFE"
     },
     {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "Researchers makes new revelations on COVID-19 | Coronavirus Outbreak",
-        "link": "https://www.youtube.com/watch?v=NKjHPSUw818"
+        "title": "Coronavirus live news: Beijing back into partial lockdown as new cluster emerges",
+        "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     }
 ];
