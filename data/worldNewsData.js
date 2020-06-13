@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/12/other_sports/1591944709_490647.html"
     },
     {
-        "title": "Live Coronavirus News",
+        "title": "West Point Cadets to Emerge From Quarantine for Trump’s Graduation Speech",
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
     },
     {
-        "title": "Beijing shuts markets due to coronavirus clusters: Live updates",
+        "title": "Parts of Beijing shut down due to COVID-19 clusters: Live updates",
         "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "Black Lives Matter protest fails to attract sizeable crowd",
-        "link": "https://www.youtube.com/watch?v=yVmwE2IAsTE"
+        "title": "The Post-Coronavirus Global Hunger Crisis",
+        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     }
 ];
