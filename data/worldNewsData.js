@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Brazil's COVID-19 deaths surge past UK",
-        "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
+        "title": "A frantic search for scarce hospital beds as pandemic rages in India",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-hospital-beds/2020/06/12/7b538a8a-ab4d-11ea-a43b-be9f6494a87d_story.html"
     },
     {
         "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
-    },
-    {
-        "title": "Politics looms large in Brazil's response to pandemic",
-        "link": "https://www.youtube.com/watch?v=HXFpXw5iTFE"
     },
     {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
@@ -35,6 +31,10 @@ var worldNewsData = [
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
+    },
+    {
+        "title": "Coronavirus hitting the Americas hardest says World Health Organization",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who/coronavirus-hitting-the-americas-hardest-says-world-health-organization-idUSKBN23J2K3"
     },
     {
         "title": "Florida fired its coronavirus data scientist. Now she’s publishing the statistics on her own.",
