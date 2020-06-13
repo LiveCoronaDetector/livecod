@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/global-report-who-warns-of-accelerating-infections-in-africa-but-says-severe-cases-not-going-undetected"
     },
     {
-        "title": "Coronavirus: How pandemic turned political in Brazil",
-        "link": "https://www.bbc.com/news/world-latin-america-53021248"
+        "title": "Live Coronavirus News",
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
         "title": "Pakistan hospitals struggle as coronavirus cases explode",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     },
     {
-        "title": "Brazil coronavirus toll now world's second highest: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
     },
     {
-        "title": "Anthony Fauci: Rise in Covid-19 hospitalizations concerning",
-        "link": "https://www.youtube.com/watch?v=AFA8u_8bx_I"
+        "title": "Brazil coronavirus toll now world's second highest: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
     }
 ];
