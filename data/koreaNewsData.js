@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200612155152097?did=1195m"
     },
     {
-        "title": "미국 코로나19 환자 급증 '비상'...봉쇄령 해제 제동·연기",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006130018&t=NN"
-    },
-    {
-        "title": "美 국방부, 코로나19 이동 제한 지역서 한국 제외",
-        "link": "http://www.newsis.com/view/?id=NISX20200613_0001058422&cID=10101&pID=10100"
-    },
-    {
         "title": "\"우크라이나 젤렌스키 대통령 부인 코로나19 양성 판정\"(종합)",
         "link": "http://yna.kr/AKR20200612169151080?did=1195m"
     },
     {
-        "title": "제주도, 이태원發 코로나19 상황 종식…확진자 1명 퇴원",
-        "link": "http://www.fnnews.com/news/202006121742535994"
+        "title": "[속보] 코로나19 확진자 49명 늘어 총 12,051명…수도권 44명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469852&ref=A"
     },
     {
-        "title": "코로나 확진자 나왔던 기아차 소하리 공장, 정상 가동 재개",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나19 확진자 49명 증가한 1만 2051명",
+        "link": "http://www.fnnews.com/news/202006131010422720"
     },
     {
-        "title": "\"코로나 걸리고 싶다\"던 우크라이나 대통령, 아내가 확진자 됐다",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/12/2020061204321.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "브라질, 코로나19 확진자 이어 사망자 수도 세계 2번째",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006130024&t=NN"
     },
     {
-        "title": "中 베이징 다시 뚫렸다…이틀 연속 코로나 확진자 나와",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061219150095942"
+        "title": "[속보]코로나19 확진자 49명 추가…누적 확진자 1만2051명",
+        "link": "https://www.donga.com/news/article/all/20200613/101491444/1"
     },
     {
-        "title": "코로나19 56명 신규확진…집단감염 확산에 다시 50명대로",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/12/2020061290057.html"
+        "title": "[속보] 용인시, 코로나19 92번째 확진자 발생",
+        "link": "http://www.joongboo.com/news/articleView.html?idxno=363426253"
     },
     {
-        "title": "코로나19로 문닫았던 쿠팡 고양 물류센터 15일 만에 재가동",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469364&ref=A"
+        "title": "[속보]춘천 코로나 확진자 발생, 20대 여성 파악",
+        "link": "http://www.getnews.co.kr/view.php?ud=202006131022196854fab1982f6a_16"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 49명 증가...44명 수도권 발생",
+        "link": "http://www.fnnews.com/news/202006131015378333"
+    },
+    {
+        "title": "[속보] 코로나 바이러스 49명 신규확진, 수도권은 44명",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/13/2020061300466.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

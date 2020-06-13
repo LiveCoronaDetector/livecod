@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592003794_533468.html"
     },
     {
-        "title": "New coronavirus cases see Beijing close 2 food markets, scrap plan to let some kids resume school",
-        "link": "https://www.cbsnews.com/news/coronavirus-in-china-cases-in-beijing-school-plans-canceled-meat-seafood-market-closed-fear-2nd-wave/"
+        "title": "Coronavirus live news: Fauci warns against Trump rallies; health fears in Australia over BLM protests",
+        "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     },
     {
-        "title": "Coronavirus live news and updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/h_98c46847adb11621b3cc2152921e0225"
+        "title": "US reported more than 22000 new Covid-19 cases on Thursday",
+        "link": "https://www.youtube.com/watch?v=0nDrP8p7gYw"
     },
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
