@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/12/global-report-who-warns-of-accelerating-infections-in-africa-but-says-severe-cases-not-going-undetected"
     },
     {
-        "title": "Live Coronavirus News",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
+        "title": "Coronavirus: How pandemic turned political in Brazil",
+        "link": "https://www.bbc.com/news/world-latin-america-53021248"
     },
     {
         "title": "Pakistan hospitals struggle as coronavirus cases explode",
