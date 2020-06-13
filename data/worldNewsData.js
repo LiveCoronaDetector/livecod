@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/europe/article/3088818/italian-scientists-develop-model-show-how-solar-radiation-can"
     },
     {
-        "title": "India's coronavirus agony: 'I did everything to save my wife and baby'",
-        "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/13/other_sports/1592003794_533468.html"
     },
     {
         "title": "Coronavirus live news: Beijing back into partial lockdown as new cluster emerges",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     },
     {
-        "title": "Brazil overtakes UK with world's second-highest Covid-19 death toll",
-        "link": "https://www.theguardian.com/world/2020/jun/12/brazil-coronavirus-death-toll-second-highest"
+        "title": "Italian prosecutors question PM Conte over Covid-19 response",
+        "link": "https://www.youtube.com/watch?v=QSYWAyIwWw4"
     }
 ];
