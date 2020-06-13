@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/12/watch-live-world-health-organization-holds-press-briefing-on-coronavirus-pandemic.html"
     },
     {
-        "title": "Live updates: As coronavirus cases spike, Fauci warns Trump rally attendees that large gatherings are ‘risky’",
+        "title": "As coronavirus cases spike, Fauci warns Trump rally attendees that large gatherings are ‘risky’",
         "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
     }
 ];
