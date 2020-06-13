@@ -17,16 +17,20 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/12/876143187/prosecutors-question-italys-top-leaders-over-coronavirus-response"
     },
     {
-        "title": "India's coronavirus agony: 'I did everything to save my wife and baby'",
-        "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
+        "title": "A frantic search for scarce hospital beds as pandemic rages in India",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-hospital-beds/2020/06/12/7b538a8a-ab4d-11ea-a43b-be9f6494a87d_story.html"
     },
     {
         "title": "Coronavirus live news: Beijing back into partial lockdown as new cluster emerges",
         "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     },
     {
-        "title": "Beijing district in 'wartime emergency mode' after spike in local Covid-19 cases",
-        "link": "https://www.youtube.com/watch?v=YS9Mlf_OSyE"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
+    },
+    {
+        "title": "New coronavirus hotspots emerge as state cases spike amid reopening l ABC News",
+        "link": "https://www.youtube.com/watch?v=o06IdOuUKFc"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
-    },
-    {
-        "title": "New CDC coronavirus guidelines advise caution with travel",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/h_98c46847adb11621b3cc2152921e0225"
     }
 ];

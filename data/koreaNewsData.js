@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200613030700004?did=1195m"
     },
     {
-        "title": "입원 중인 서울 코로나 환자 408명..역대 최대",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01577686625801392"
-    },
-    {
         "title": "강남 어학원발 코로나 집단감염에 서초구 주점 직원도 '확진'",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/13/2020061301658.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "입원 중인 서울 코로나 환자 408명..역대 최대",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01577686625801392"
     },
     {
         "title": "강남 어학원 확진자들, 중랑구 헬스장 방문…“젊은층 방심, 수도권 차단 걸림...",
