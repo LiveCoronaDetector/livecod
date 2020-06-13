@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200612169151080?did=1195m"
     },
     {
-        "title": "중국 베이징서 이틀 연속 코로나19 확진자…감염경로 미궁(종합2보)",
-        "link": "http://yna.kr/AKR20200612155152097?did=1195m"
-    },
-    {
         "title": "강남 어학원 확진자 헬스장 방문 연쇄감염 우려",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4469873&ref=A"
     },
     {
-        "title": "[종합] 코로나19 확진자 49명 증가...44명 수도권 발생",
-        "link": "http://www.fnnews.com/news/202006131015378333"
+        "title": "중국 베이징서 이틀 연속 코로나19 확진자…감염경로 미궁(종합2보)",
+        "link": "http://yna.kr/AKR20200612155152097?did=1195m"
+    },
+    {
+        "title": "서울 '입원 격리' 확진자 408명 역대 최대…전국의 38% 차지",
+        "link": "http://yna.kr/AKR20200613030700004?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 49명…수도권에서만 44명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000986379?division=NAVER"
     },
     {
         "title": "방역 강화해도…신규확진자 49명중 44명 수도권",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006130024&t=NN"
     },
     {
-        "title": "서울 내 코로나19 입원 환자 408명…전국 38% 차지",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000986382?division=NAVER"
+        "title": "코로나19 확진자 49명 추가…누적 확진자 1만2051명",
+        "link": "https://www.donga.com/news/article/all/20200613/101491444/1"
     },
     {
         "title": "코로나19 신규 확진 환자 49명…수도권 감염 계속",
         "link": "https://imnews.imbc.com/news/2020/society/article/5808699_32633.html"
-    },
-    {
-        "title": "제주도, 이태원發 코로나19 상황 종식…확진자 1명 퇴원",
-        "link": "http://www.fnnews.com/news/202006121742535994"
     }
 ];
