@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     },
     {
-        "title": "The new rules of buying and selling a house in a coronavirus world",
-        "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
-    },
-    {
-        "title": "The Post-Coronavirus Global Hunger Crisis",
-        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
-    },
-    {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
     },
     {
-        "title": "Brazil coronavirus toll now world's second highest: Live updates",
+        "title": "Beijing shuts markets due to coronavirus clusters: Live updates",
         "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
+    },
+    {
+        "title": "The new rules of buying and selling a house in a coronavirus world",
+        "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
+    },
+    {
+        "title": "19 states see rise in Covid-19 cases amid reopening and protests",
+        "link": "https://www.youtube.com/watch?v=FBiSQakXbjI"
     }
 ];
