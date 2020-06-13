@@ -17,11 +17,11 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/europe/article/3088818/italian-scientists-develop-model-show-how-solar-radiation-can"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/13/other_sports/1592003794_533468.html"
+        "title": "India's coronavirus agony: 'I did everything to save my wife and baby'",
+        "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
     },
     {
-        "title": "Coronavirus live news: Fauci warns against Trump rallies; 11 cases in Beijing raise fears of new wave",
+        "title": "Coronavirus live news: Beijing back into partial lockdown as new cluster emerges",
         "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
     },
     {
-        "title": "Parts of Beijing shut down due to COVID-19 clusters: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
+        "title": "The Post-Coronavirus Global Hunger Crisis",
+        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "The Post-Coronavirus Global Hunger Crisis",
-        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
+        "title": "New coronavirus cases see Beijing close 2 food markets, scrap plan to let some kids resume school",
+        "link": "https://www.cbsnews.com/news/coronavirus-in-china-cases-in-beijing-school-plans-canceled-meat-seafood-market-closed-fear-2nd-wave/"
     }
 ];
