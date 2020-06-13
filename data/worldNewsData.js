@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
-        "title": "Coronavirus World News and Live Updates",
+        "title": "Coronavirus News and Live Updates: Florida Cases Increase",
         "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-updates.html"
     },
     {
