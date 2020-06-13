@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
-        "title": "Coronavirus World News and Live Updates",
-        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-updates.html"
+        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
         "title": "Pakistan hospitals struggle as coronavirus cases explode",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/13/world/asia/beijing-market-coronavirus.html"
     },
     {
-        "title": "Brazil reopens as coronavirus death toll tops Britain's | DW News",
-        "link": "https://www.youtube.com/watch?v=ixuhKNGSoQw"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "Coronavirus live news: Beijing back into partial lockdown as new cluster emerges",
-        "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
+        "title": "Researchers makes new revelations on COVID-19 | Coronavirus Outbreak",
+        "link": "https://www.youtube.com/watch?v=NKjHPSUw818"
     },
     {
-        "title": "Confusion reigns as countries loosen coronavirus lockdowns and cases rise",
-        "link": "https://www.cnn.com/2020/06/13/world/coronavirus-confusion-lockdowns-lifting-gbr-intl/index.html"
+        "title": "Coronavirus hitting the Americas hardest says World Health Organization",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who/coronavirus-hitting-the-americas-hardest-says-world-health-organization-idUSKBN23J2K3"
     }
 ];
