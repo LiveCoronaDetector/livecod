@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Uganda, Ghana... cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/12/other_sports/1591944709_490647.html"
+        "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
         "title": "West Point Cadets to Emerge From Quarantine for Trump’s Graduation Speech",
@@ -17,11 +17,11 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/europe/article/3088818/italian-scientists-develop-model-show-how-solar-radiation-can"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/13/other_sports/1592003794_533468.html"
+        "title": "India's coronavirus agony: 'I did everything to save my wife and baby'",
+        "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
     },
     {
-        "title": "Coronavirus live news: Fauci warns against Trump rallies; health fears in Australia over BLM protests",
+        "title": "Coronavirus live news: Fauci warns against Trump rallies; 11 cases in Beijing raise fears of new wave",
         "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "19 states see rise in Covid-19 cases amid reopening and protests",
-        "link": "https://www.youtube.com/watch?v=FBiSQakXbjI"
+        "title": "The Post-Coronavirus Global Hunger Crisis",
+        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     }
 ];
