@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
-        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
+        "title": "Coronavirus World News and Live Updates",
+        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-updates.html"
     },
     {
         "title": "Pakistan hospitals struggle as coronavirus cases explode",
@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Coronavirus live updates: European nations sign deal with AstraZeneca for 400 million vaccine doses",
-        "link": "https://www.cnbc.com/2020/06/13/coronavirus-live-updates.html"
+        "title": "Brazil's COVID-19 deaths surge past UK",
+        "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
     },
     {
         "title": "Coronavirus in China: Beijing Seafood Market Shuts Down",
         "link": "https://www.nytimes.com/2020/06/13/world/asia/beijing-market-coronavirus.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
+        "title": "Cemeteries in Brazil’s biggest metropolis plan to dig up graves to free up space for coronavirus patients",
+        "link": "https://ktla.com/news/cemeteries-in-brazils-biggest-metropolis-plan-to-dig-up-graves-to-free-up-space-for-coronavirus-patients/"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=NKjHPSUw818"
     },
     {
-        "title": "Coronavirus hitting the Americas hardest says World Health Organization",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who/coronavirus-hitting-the-americas-hardest-says-world-health-organization-idUSKBN23J2K3"
+        "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
+        "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     }
 ];
