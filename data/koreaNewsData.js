@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006130018&t=NN"
     },
     {
+        "title": "美 국방부, 코로나19 이동 제한 지역서 한국 제외",
+        "link": "http://www.newsis.com/view/?id=NISX20200613_0001058422&cID=10101&pID=10100"
+    },
+    {
         "title": "\"우크라이나 젤렌스키 대통령 부인 코로나19 양성 판정\"(종합)",
         "link": "http://yna.kr/AKR20200612169151080?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19로 문닫았던 쿠팡 고양 물류센터 15일 만에 재가동",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4469364&ref=A"
-    },
-    {
-        "title": "일본 코로나 신규 확진자 56명···14일만 최다",
-        "link": "https://www.sedaily.com/NewsView/1Z3ZZKZUNB"
     }
 ];
