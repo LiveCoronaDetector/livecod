@@ -396,9 +396,9 @@ var marker = [
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "확진자수": 15281,
-        "사망자수": 258,
-        "완치자수": 5639
+        "확진자수": 16004,
+        "사망자수": 264,
+        "완치자수": 6081
     },
     {
         "Name": "나이지리아",
@@ -433,20 +433,20 @@ var marker = [
         "완치자수": 10993
     },
     {
+        "Name": "Ghana",
+        "Name_ch": "",
+        "Name_en": "Ghana",
+        "확진자수": 11118,
+        "사망자수": 48,
+        "완치자수": 3979
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
         "확진자수": 11093,
         "사망자수": 385,
         "완치자수": 6229
-    },
-    {
-        "Name": "Ghana",
-        "Name_ch": "",
-        "Name_en": "Ghana",
-        "확진자수": 10856,
-        "사망자수": 48,
-        "완치자수": 3921
     },
     {
         "Name": "알제리",
@@ -609,20 +609,20 @@ var marker = [
         "완치자수": 3106
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "확진자수": 4064,
+        "사망자수": 559,
+        "완치자수": 2476
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
         "확진자수": 4055,
         "사망자수": 110,
         "완치자수": 3918
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "확진자수": 4053,
-        "사망자수": 555,
-        "완치자수": 2447
     },
     {
         "Name": "Haiti",
@@ -1065,20 +1065,20 @@ var marker = [
         "완치자수": 161
     },
     {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 650,
+        "사망자수": 12,
+        "완치자수": 168
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
         "확진자수": 645,
         "사망자수": 9,
         "완치자수": 600
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 639,
-        "사망자수": 12,
-        "완치자수": 156
     },
     {
         "Name": "Yemen",
