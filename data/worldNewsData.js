@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
-        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
+        "title": "Virus Exposes Weak Links in Peru’s Success Story",
+        "link": "https://www.nytimes.com/2020/06/12/world/americas/coronavirus-peru-inequality-corruption.html"
     },
     {
         "title": "Pakistan hospitals struggle as coronavirus cases explode",
         "link": "https://www.aljazeera.com/indepth/features/pakistan-hospitals-struggle-coronavirus-cases-explode-200612084123797.html"
     },
     {
-        "title": "Astrazeneca wins coronavirus vaccine deal with Germany, France, Italy and the Netherlands",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines/astrazeneca-wins-coronavirus-vaccine-deal-with-germany-france-italy-and-the-netherlands-idUSKBN23K0HW"
+        "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
+        "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
         "title": "A frantic search for scarce hospital beds as pandemic rages in India",
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-hospital-beds/2020/06/12/7b538a8a-ab4d-11ea-a43b-be9f6494a87d_story.html"
     },
     {
-        "title": "China: Beijing orders 'wartime mode' after coronavirus found in market - Business Insider",
-        "link": "https://www.businessinsider.com/china-beijing-orders-wartime-mode-after-coronavirus-found-in-market-2020-6"
+        "title": "Coronavirus in China: Beijing Seafood Market Shuts Down",
+        "link": "https://www.nytimes.com/2020/06/13/world/asia/beijing-market-coronavirus.html"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "Coronavirus latest: Fresh cluster prompts partial Beijing lockdown",
-        "link": "https://www.dw.com/en/coronavirus-latest-fresh-cluster-prompts-partial-beijing-lockdown/a-53793212"
-    },
-    {
-        "title": "The Post-Coronavirus Global Hunger Crisis",
-        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
+        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
         "title": "Coronavirus hitting the Americas hardest says World Health Organization",
         "link": "https://www.reuters.com/article/us-health-coronavirus-who/coronavirus-hitting-the-americas-hardest-says-world-health-organization-idUSKBN23J2K3"
+    },
+    {
+        "title": "Confusion reigns as countries loosen coronavirus lockdowns and cases rise",
+        "link": "https://www.cnn.com/2020/06/13/world/coronavirus-confusion-lockdowns-lifting-gbr-intl/index.html"
     }
 ];
