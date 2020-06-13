@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200612169151080?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 49명 증가...44명 수도권 발생",
-        "link": "http://www.fnnews.com/news/202006131015378333"
+        "title": "중국 베이징서 이틀 연속 코로나19 확진자…감염경로 미궁(종합2보)",
+        "link": "http://yna.kr/AKR20200612155152097?did=1195m"
     },
     {
-        "title": "코로나19 신규확진 49명 중 44명이 수도권 감염",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/13/2020061300473.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "신규 확진자 49명…집단감염 수도권 집중",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5808800_32496.html"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 49명 증가...44명 수도권 발생",
+        "link": "http://www.fnnews.com/news/202006131015378333"
     },
     {
         "title": "브라질, 코로나19 확진자 이어 사망자 수도 세계 2번째",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006130024&t=NN"
     },
     {
-        "title": "코로나 49명 신규 확진…집단감염 곳곳서 확산 '비상'",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005834116&plink=ORI&cooper=NAVER"
+        "title": "강남 어학원 확진자들 중랑구 헬스장에…\"수백 명 이용\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005834112&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나19 신규 확진 환자 49명…수도권 감염 계속",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5808699_32633.html"
+        "title": "코로나19 신규 확진자 49명…서울만 29명 '집중'(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01495686625801392"
     },
     {
-        "title": "이태원 발 제주 코로나19 14번 확진자 퇴원…제주서 현재 1명 치료 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469337&ref=A"
+        "title": "[속보] 코로나19 의심자 나온 광주 중·고교 전원 음성",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014686224&code=61121211&cp=nv"
     },
     {
         "title": "코로나19 확진자 49명 추가…누적 확진자 1만2051명",
         "link": "https://www.donga.com/news/article/all/20200613/101491444/1"
     },
     {
-        "title": "“신규 확진자 한 자릿수까지” 수도권 방역 강화 무기한 연장",
-        "link": "http://www.hani.co.kr/arti/society/health/949100.html"
-    },
-    {
-        "title": "코로나 확진자 나왔던 기아차 소하리 공장, 정상 가동 재개",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/12/2020061200614.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보]서울 '입원 격리' 확진자 408명 '최대', 전국 38% 차지",
+        "link": "https://www.hankyung.com/society/article/2020061330467"
     }
 ];
