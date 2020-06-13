@@ -17,15 +17,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/12/876143187/prosecutors-question-italys-top-leaders-over-coronavirus-response"
     },
     {
-        "title": "India's coronavirus agony: 'I did everything to save my wife and baby'",
-        "link": "https://www.theguardian.com/world/2020/jun/12/india-coronavirus-agony-i-did-everything-to-save-my-wife-and-baby"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/13/other_sports/1592003794_533468.html"
     },
     {
         "title": "New coronavirus cases see Beijing close 2 food markets, scrap plan to let some kids resume school",
         "link": "https://www.cbsnews.com/news/coronavirus-in-china-cases-in-beijing-school-plans-canceled-meat-seafood-market-closed-fear-2nd-wave/"
     },
     {
-        "title": "New CDC coronavirus guidelines advise caution with travel",
+        "title": "Coronavirus live news and updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/h_98c46847adb11621b3cc2152921e0225"
     },
     {
