@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/indepth/features/pakistan-hospitals-struggle-coronavirus-cases-explode-200612084123797.html"
     },
     {
-        "title": "Italian scientists develop model to show how sun’s rays can kill the coronavirus",
-        "link": "https://www.scmp.com/news/world/europe/article/3088818/italian-scientists-develop-model-show-how-solar-radiation-can"
+        "title": "Prosecutors Question Italy's Top Leaders Over Coronavirus Response",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/12/876143187/prosecutors-question-italys-top-leaders-over-coronavirus-response"
     },
     {
         "title": "A frantic search for scarce hospital beds as pandemic rages in India",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
-        "title": "Coronavirus World News and Live Updates",
-        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Beijing district in 'wartime emergency' after virus spike shuts market",
-        "link": "https://www.cnbc.com/2020/06/13/beijing-district-in-wartime-emergency-after-virus-spike-shuts-market.html"
+        "title": "Coronavirus latest: Fresh cluster prompts partial Beijing lockdown",
+        "link": "https://www.dw.com/en/coronavirus-latest-fresh-cluster-prompts-partial-beijing-lockdown/a-53793212"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "Brazil overtakes UK with world's second-highest Covid-19 death toll",
-        "link": "https://www.theguardian.com/world/2020/jun/12/brazil-coronavirus-death-toll-second-highest"
+        "title": "Beijing district in 'wartime emergency' after virus spike shuts market",
+        "link": "https://www.cnbc.com/2020/06/13/beijing-district-in-wartime-emergency-after-virus-spike-shuts-market.html"
+    },
+    {
+        "title": "The Post-Coronavirus Global Hunger Crisis",
+        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     }
 ];

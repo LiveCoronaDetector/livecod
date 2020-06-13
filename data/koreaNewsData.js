@@ -5,6 +5,18 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200613038151530?did=1195m"
     },
     {
+        "title": "강남 어학원발 코로나 집단감염에 서초구 주점 직원도 '확진'",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/13/2020061301658.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "성남시 코로나로 3개 버스 운행 중단…운전기사 2명 리치웨이발 확진",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006132304001&code=940100"
+    },
+    {
+        "title": "[종합] 중랑구 헬스장 확진자 3명째…\"마스크 안 쓰고 함께 운동\"",
+        "link": "https://www.hankyung.com/society/article/2020061337967"
+    },
+    {
         "title": "신규 확진자 49명…집단감염 수도권 집중",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5808800_32496.html"
     },
@@ -13,16 +25,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200613030700004?did=1195m"
     },
     {
-        "title": "방역 강화해도…신규확진자 49명중 44명 수도권",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006131121001&code=940100"
+        "title": "코로나 확산세 여전···어제 신규확진자 49명",
+        "link": "https://www.sedaily.com/NewsView/1Z40FBZFZX"
     },
     {
         "title": "브라질, 코로나19 확진자 이어 사망자 수도 세계 2번째",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006130024&t=NN"
-    },
-    {
-        "title": "강남 어학원발 코로나 집단감염에 서초구 주점 직원도 '확진'",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/13/2020061301658.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나19 신규 확진자 49명…수도권에서만 44명",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "입원 중인 서울 코로나 환자 408명..역대 최대",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01577686625801392"
-    },
-    {
-        "title": "강남 어학원 확진자 헬스장 방문 연쇄감염 우려",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4469873&ref=A"
-    },
-    {
-        "title": "리치웨이발 코로나19, 강남 어학원 거쳐 중랑 헬스장까지",
-        "link": "http://www.fnnews.com/news/202006131522036217"
     }
 ];
