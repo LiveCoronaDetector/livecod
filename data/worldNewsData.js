@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
-        "title": "Politics looms large in Brazil's response to pandemic",
-        "link": "https://www.youtube.com/watch?v=HXFpXw5iTFE"
-    },
-    {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "Coronavirus live news: Beijing back into partial lockdown as new cluster emerges",
-        "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
+        "title": "Politics looms large in Brazil's response to pandemic",
+        "link": "https://www.youtube.com/watch?v=HXFpXw5iTFE"
+    },
+    {
+        "title": "Florida fired its coronavirus data scientist. Now she’s publishing the statistics on her own.",
+        "link": "https://www.washingtonpost.com/nation/2020/06/12/rebekah-jones-florida-coronavirus/"
     }
 ];
