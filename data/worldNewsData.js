@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
+        "title": "Politics looms large in Brazil's response to pandemic",
+        "link": "https://www.youtube.com/watch?v=HXFpXw5iTFE"
+    },
+    {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
-    },
-    {
-        "title": "Politics looms large in Brazil's response to pandemic",
-        "link": "https://www.youtube.com/watch?v=HXFpXw5iTFE"
     },
     {
         "title": "Florida fired its coronavirus data scientist. Now she’s publishing the statistics on her own.",
