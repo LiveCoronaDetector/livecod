@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/indepth/features/pakistan-hospitals-struggle-coronavirus-cases-explode-200612084123797.html"
     },
     {
-        "title": "Prosecutors Question Italy's Top Leaders Over Coronavirus Response",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/12/876143187/prosecutors-question-italys-top-leaders-over-coronavirus-response"
+        "title": "Italian scientists develop model to show how sun’s rays can kill the coronavirus",
+        "link": "https://www.scmp.com/news/world/europe/article/3088818/italian-scientists-develop-model-show-how-solar-radiation-can"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news, today",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "The Post-Coronavirus Global Hunger Crisis",
-        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
+        "title": "19 states see rise in Covid-19 cases amid reopening and protests",
+        "link": "https://www.youtube.com/watch?v=FBiSQakXbjI"
     }
 ];
