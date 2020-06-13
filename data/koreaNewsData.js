@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200613030751004?did=1195m"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 49명·수도권서 집단감염 속출",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014686338&code=61121111&cp=nv"
+    },
+    {
         "title": "수도권 코로나 지뢰밭…리치웨이발 확진자 153명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006131756001&code=940100"
     },
@@ -17,8 +21,8 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z40FIWNCE"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 49명·수도권서 집단감염 속출",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014686338&code=61121111&cp=nv"
+        "title": "베이징 시장서 코로나19 발병에 '비상'…이틀간 신규확진 7명(종합)",
+        "link": "http://yna.kr/AKR20200613051000083?did=1195m"
     },
     {
         "title": "서울 '입원 격리' 확진자 408명 역대 최대…전국의 38% 차지",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4469852&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 49명…수도권에서만 44명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000986379?division=NAVER"
-    },
-    {
         "title": "브라질, 코로나19 확진자 이어 사망자 수도 세계 2번째",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006130024&t=NN"
     },
     {
-        "title": "리치웨이발 코로나19, 강남 어학원 거쳐 중랑 헬스장까지",
-        "link": "http://www.fnnews.com/news/202006131522036217"
+        "title": "코로나19 신규 확진자 49명…수도권에서만 44명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000986379?division=NAVER"
     }
 ];

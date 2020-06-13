@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
-    },
-    {
         "title": "Parts of Beijing shut down due to COVID-19 clusters: Live updates",
         "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
         "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
+    },
+    {
+        "title": "Brazil overtakes UK with world's second-highest Covid-19 death toll",
+        "link": "https://www.theguardian.com/world/2020/jun/12/brazil-coronavirus-death-toll-second-highest"
     }
 ];
