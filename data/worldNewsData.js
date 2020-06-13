@@ -5,36 +5,36 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
-        "title": "Coronavirus: Brazil virus death toll now world's second worst",
-        "link": "https://www.bbc.com/news/live/world-53033071"
+        "title": "Virus Exposes Weak Links in Peru’s Success Story",
+        "link": "https://www.nytimes.com/2020/06/12/world/americas/coronavirus-peru-inequality-corruption.html"
     },
     {
         "title": "Pakistan hospitals struggle as coronavirus cases explode",
         "link": "https://www.aljazeera.com/indepth/features/pakistan-hospitals-struggle-coronavirus-cases-explode-200612084123797.html"
     },
     {
-        "title": "Prosecutors Question Italy's Top Leaders Over Coronavirus Response",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/12/876143187/prosecutors-question-italys-top-leaders-over-coronavirus-response"
+        "title": "Astrazeneca wins coronavirus vaccine deal with Germany, France, Italy and the Netherlands",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines/italy-germany-france-and-netherlands-sign-contract-with-astrazeneca-for-covid-vaccine-idUSKBN23K0HW"
     },
     {
-        "title": "A frantic search for scarce hospital beds as pandemic rages in India",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-hospital-beds/2020/06/12/7b538a8a-ab4d-11ea-a43b-be9f6494a87d_story.html"
+        "title": "Coronavirus live updates: Small town businesses face uncertain restarts; doctors issue a warning",
+        "link": "https://www.cnbc.com/2020/06/13/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus in China: Beijing Seafood Market Shuts Down",
-        "link": "https://www.nytimes.com/2020/06/13/world/asia/beijing-market-coronavirus.html"
+        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
     },
     {
-        "title": "Coronavirus latest: Fresh cluster prompts partial Beijing lockdown",
-        "link": "https://www.dw.com/en/coronavirus-latest-fresh-cluster-prompts-partial-beijing-lockdown/a-53793212"
-    },
-    {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
+    },
+    {
+        "title": "Greece will open all airports on July 1",
+        "link": "https://greekcitytimes.com/2020/06/13/greece-will-open-all-airports-on-july-1/"
     },
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
