@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/13/coronavirus-live-news-fauci-warns-against-trump-rallies-health-fears-in-australia-over-blm-protests"
     },
     {
-        "title": "US reported more than 22000 new Covid-19 cases on Thursday",
-        "link": "https://www.youtube.com/watch?v=0nDrP8p7gYw"
+        "title": "The new rules of buying and selling a house in a coronavirus world",
+        "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/12/watch-live-world-health-organization-holds-press-briefing-on-coronavirus-pandemic.html"
     },
     {
-        "title": "The new rules of buying and selling a house in a coronavirus world",
-        "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
+        "title": "Live updates: As coronavirus cases spike, Fauci warns Trump rally attendees that large gatherings are ‘risky’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/"
     }
 ];
