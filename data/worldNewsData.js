@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
-        "title": "West Point Cadets to Emerge From Quarantine for Trump’s Graduation Speech",
+        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
         "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
     },
     {
-        "title": "The Post-Coronavirus Global Hunger Crisis",
-        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
+        "title": "Parts of Beijing shut down due to COVID-19 clusters: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
     },
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "New coronavirus cases see Beijing close 2 food markets, scrap plan to let some kids resume school",
-        "link": "https://www.cbsnews.com/news/coronavirus-in-china-cases-in-beijing-school-plans-canceled-meat-seafood-market-closed-fear-2nd-wave/"
+        "title": "The Post-Coronavirus Global Hunger Crisis",
+        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     }
 ];
