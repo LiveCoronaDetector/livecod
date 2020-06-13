@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
-        "title": "Virus Exposes Weak Links in Peru’s Success Story",
-        "link": "https://www.nytimes.com/2020/06/12/world/americas/coronavirus-peru-inequality-corruption.html"
+        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
         "title": "Pakistan hospitals struggle as coronavirus cases explode",
@@ -14,15 +14,19 @@ var worldNewsData = [
     },
     {
         "title": "Astrazeneca wins coronavirus vaccine deal with Germany, France, Italy and the Netherlands",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines/italy-germany-france-and-netherlands-sign-contract-with-astrazeneca-for-covid-vaccine-idUSKBN23K0HW"
+        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines/astrazeneca-wins-coronavirus-vaccine-deal-with-germany-france-italy-and-the-netherlands-idUSKBN23K0HW"
     },
     {
         "title": "Coronavirus live updates: Small town businesses face uncertain restarts; doctors issue a warning",
         "link": "https://www.cnbc.com/2020/06/13/coronavirus-live-updates.html"
     },
     {
-        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
+        "title": "China: Beijing orders 'wartime mode' after coronavirus found in market - Business Insider",
+        "link": "https://www.businessinsider.com/china-beijing-orders-wartime-mode-after-coronavirus-found-in-market-2020-6"
+    },
+    {
+        "title": "Coronavirus: How pandemic turned political in Brazil",
+        "link": "https://www.bbc.com/news/world-latin-america-53021248"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
-    },
-    {
-        "title": "Greece will open all airports on July 1",
-        "link": "https://greekcitytimes.com/2020/06/13/greece-will-open-all-airports-on-july-1/"
     },
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",

@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200613038151530?did=1195m"
     },
     {
+        "title": "신규 확진자 49명…집단감염 수도권 집중",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5808800_32496.html"
+    },
+    {
         "title": "강남 어학원발 코로나 집단감염에 서초구 주점 직원도 '확진'",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/13/2020061301658.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -15,10 +19,6 @@ var koreaNewsData = [
     {
         "title": "[종합] 중랑구 헬스장 확진자 3명째…\"마스크 안 쓰고 함께 운동\"",
         "link": "https://www.hankyung.com/society/article/2020061337967"
-    },
-    {
-        "title": "신규 확진자 49명…집단감염 수도권 집중",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5808800_32496.html"
     },
     {
         "title": "서울 '입원 격리' 확진자 408명 역대 최대…전국의 38% 차지",
