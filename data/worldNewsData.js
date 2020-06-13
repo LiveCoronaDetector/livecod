@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://ktla.com/news/cemeteries-in-brazils-biggest-metropolis-plan-to-dig-up-graves-to-free-up-space-for-coronavirus-patients/"
     },
     {
+        "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
+        "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
+    },
+    {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
         "title": "Researchers makes new revelations on COVID-19 | Coronavirus Outbreak",
         "link": "https://www.youtube.com/watch?v=NKjHPSUw818"
-    },
-    {
-        "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
-        "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     }
 ];
