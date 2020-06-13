@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-hospital-beds/2020/06/12/7b538a8a-ab4d-11ea-a43b-be9f6494a87d_story.html"
     },
     {
-        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
+        "title": "Coronavirus in China: Beijing Seafood Market Shuts Down",
+        "link": "https://www.nytimes.com/2020/06/13/world/asia/beijing-market-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-13-20-intl/index.html"
     },
     {
         "title": "Coronavirus latest: Fresh cluster prompts partial Beijing lockdown",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
-    },
-    {
-        "title": "Beijing district in 'wartime emergency' after virus spike shuts market",
-        "link": "https://www.cnbc.com/2020/06/13/beijing-district-in-wartime-emergency-after-virus-spike-shuts-market.html"
     },
     {
         "title": "The Post-Coronavirus Global Hunger Crisis",
