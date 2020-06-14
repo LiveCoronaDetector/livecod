@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006140017&t=NN"
     },
     {
-        "title": "'양성→음성 4차례' 광주 학생 2명...확진자냐 아니냐?",
-        "link": "https://www.ytn.co.kr/_ln/0115_202006141515047407"
-    },
-    {
         "title": "\"코로나에 발길 끊겨 혈액 수급 비상\"···슬픈 세계 헌혈자의 날",
         "link": "https://news.joins.com/article/olink/23395691"
+    },
+    {
+        "title": "코로나19 확진자 5일 만에 30명대...수도권 확산세는 지속",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006141202367827"
     },
     {
         "title": "서울 확진자 3명 증가…성심데이케어센터·해외접촉 각 1명",

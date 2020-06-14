@@ -10,31 +10,31 @@ var worldNewsData = [
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/news/articles/2020-06-14/greece-beat-the-coronavirus-can-tourists-now-save-its-economy"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4ddd5f50-ae58-11ea-b486-bd4f21192cc7&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
-        "title": "Coronavirus live news: Spain set to open borders to most countries in EU’s Schengen area",
-        "link": "https://www.theguardian.com/world/live/2020/jun/14/coronavirus-live-news-ew-beijing-cluster-sparks-fears-of-second-wave-as-brazil-cases-top-850000"
+        "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
+        "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
-    },
-    {
-        "title": "China Reports 57 New Coronavirus Cases Amid Beijing Outbreak",
-        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
-    },
-    {
-        "title": "Global COVID-19 cases surge to over 7.7 million: Johns Hopkins University",
-        "link": "https://telanganatoday.com/global-covid-19-cases-surge-to-over-7-7-million-johns-hopkins-university"
+        "title": "Indian holy man who offered 'COVID exorcisms' gets infected and dies",
+        "link": "https://nypost.com/2020/06/14/indian-holy-man-who-offered-covid-exorcisms-gets-infected-and-dies/"
     },
     {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
     {
-        "title": "Spain brings forward reopening of borders to Schengen area",
-        "link": "https://www.euronews.com/2020/06/14/spain-brings-forward-reopening-of-borders-to-schengen-area"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
+    },
+    {
+        "title": "Beijing district on alert after new virus cluster",
+        "link": "https://www.youtube.com/watch?v=Cw_2z2VADJw"
+    },
+    {
+        "title": "Trump Rescheduling June 19 Rally 'Out Of Respect' For Juneteenth | MSNBC",
+        "link": "https://www.youtube.com/watch?v=_0wMHvQrQG8"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
