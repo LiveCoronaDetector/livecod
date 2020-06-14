@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/13/other_sports/1592031377_618500.html"
     },
     {
-        "title": "Coronavirus News and Live Updates: Florida Cases Increase",
-        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-updates.html"
+        "title": "Live Coronavirus News Updates: Chile, Florida and NY",
+        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
     },
     {
         "title": "Coronavirus: Island isolation over as Greece lets tourists back",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592090445_091246.html"
     },
     {
-        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
+        "title": "Beijing In 'Wartime Emergency Mode' Amid Fresh Cluster Of Coronavirus Cases",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/13/876544822/beijing-in-wartime-emergency-mode-amid-fresh-cluster-of-coronavirus-cases"
     },
     {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
     {
-        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
-        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+        "title": "Coronavirus World News and Live Updates",
+        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
     },
     {
-        "title": "The new rules of buying and selling a house in a coronavirus world",
-        "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
+        "title": "Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states",
+        "link": "https://www.cnn.com/2020/06/13/health/us-coronavirus-saturday/index.html"
     },
     {
-        "title": "Coronavirus hitting the Americas hardest says World Health Organization",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who/coronavirus-hitting-the-americas-hardest-says-world-health-organization-idUSKBN23J2K3"
+        "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=bae3fcf0-adde-11ea-8412-3dce36e6aa59&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
     }
 ];
