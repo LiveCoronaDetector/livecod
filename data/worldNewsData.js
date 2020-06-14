@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Chile health minister resigns amid coronavirus row: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/14/other_sports/1592090445_091246.html"
     },
     {
         "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
     {
+        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
+        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+    },
+    {
         "title": "The new rules of buying and selling a house in a coronavirus world",
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
         "title": "Coronavirus hitting the Americas hardest says World Health Organization",
         "link": "https://www.reuters.com/article/us-health-coronavirus-who/coronavirus-hitting-the-americas-hardest-says-world-health-organization-idUSKBN23J2K3"
-    },
-    {
-        "title": "The Post-Coronavirus Global Hunger Crisis",
-        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     }
 ];
