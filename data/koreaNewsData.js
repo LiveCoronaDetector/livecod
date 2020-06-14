@@ -9,20 +9,20 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
     },
     {
+        "title": "일본 코로나 신규 확진 75명…한 달 만에 최다",
+        "link": "http://yna.kr/AKR20200614061200073?did=1195m"
+    },
+    {
         "title": "봉천동 길거리서 쓰러진 60대, 코로나 확진판정",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/14/2020061401269.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "'종식 초읽기' 중국 다시 위태…세계곳곳 코로나19 재유행 공포",
-        "link": "http://yna.kr/AKR20200614045800009?did=1195m"
-    },
-    {
-        "title": "日도 코로나 재확산… 신규 확진 75명 '한 달만에 최다'",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/14/2020061402259.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "80대 모친·60대 딸 나란히 확진…\"목사 확진자 접촉\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006140017&t=NN"
+    },
+    {
+        "title": "'종식 초읽기' 중국 다시 위태…세계곳곳 코로나19 재유행 공포",
+        "link": "http://yna.kr/AKR20200614045800009?did=1195m"
     },
     {
         "title": "\"코로나에 발길 끊겨 혈액 수급 비상\"···슬픈 세계 헌혈자의 날",

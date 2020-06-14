@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
     },
     {
-        "title": "Coronavirus Live News Updates and Analysis",
-        "link": "https://www.nytimes.com/2020/06/14/world/coronavirus-updates.html"
+        "title": "'The country is adrift': echoes of Spanish flu as Brazil's Covid-19 catastrophe deepens",
+        "link": "https://www.theguardian.com/world/2020/jun/14/brazil-coronavirus-spanish-flu"
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0f05aa10-ae69-11ea-838e-ad342b50ad02&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3980c4b0-ae6d-11ea-be33-b5da7b0bb258&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/china-reports-highest-coronavirus-case-rise-two-months-lockdowns-ease-n1231030"
     },
     {
-        "title": "Infected deportees sent back to Guatemala cause a rise in COVID-19 cases",
-        "link": "https://www.youtube.com/watch?v=EhosHRDdMNw"
-    },
-    {
         "title": "Trump Rescheduling June 19 Rally 'Out Of Respect' For Juneteenth | MSNBC",
         "link": "https://www.youtube.com/watch?v=_0wMHvQrQG8"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
+    },
+    {
+        "title": "Scientists report flaws in WHO-funded study on 2-metre distancing",
+        "link": "https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing"
     }
 ];
