@@ -10,11 +10,11 @@ var worldNewsData = [
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9df1d620-ae75-11ea-806b-9566d73eebae&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=dfb728e0-ae79-11ea-b24f-2d13df89a303&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
-        "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
-        "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
+        "title": "Coronavirus live updates: Germany's contact tracing app to go live, France to reopen Paris restaurants",
+        "link": "https://www.cnbc.com/2020/06/14/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
@@ -23,6 +23,10 @@ var worldNewsData = [
     {
         "title": "China reports highest coronavirus case rise for two months, as lockdowns ease globally",
         "link": "https://www.nbcnews.com/news/world/china-reports-highest-coronavirus-case-rise-two-months-lockdowns-ease-n1231030"
+    },
+    {
+        "title": "Infected deportees sent back to Guatemala cause a rise in COVID-19 cases",
+        "link": "https://www.youtube.com/watch?v=EhosHRDdMNw"
     },
     {
         "title": "Trump Rescheduling June 19 Rally 'Out Of Respect' For Juneteenth | MSNBC",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Scientists report flaws in WHO-funded study on 2-metre distancing",
         "link": "https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing"
-    },
-    {
-        "title": "N.Y. Fatalities Down; France to Accelerate Opening: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9f38ae00-ae75-11ea-87bd-8d9d23ee4d01&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy91LXMtY2FzZXMtdXAtbW9zdC1pbi10d28td2Vla3Mtd2FzaGluZ3Rvbi13YXJucy12aXJ1cy11cGRhdGU="
     }
 ];
