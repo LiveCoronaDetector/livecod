@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/14/other_sports/1592090445_091246.html"
+        "title": "Beijing on partial lockdown after new coronavirus cluster emerges | DW News",
+        "link": "https://www.youtube.com/watch?v=yArDaBN2tw0"
     },
     {
-        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
-        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
+        "title": "Beijing Cancels Reopening Theaters as Capital Enters ‘Wartime’ Mode Amid New Cases",
+        "link": "https://www.indiewire.com/2020/06/beijing-movie-theaters-china-coronavirus-1202237400/"
     },
     {
-        "title": "Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states",
-        "link": "https://www.cnn.com/2020/06/13/health/us-coronavirus-saturday/index.html"
+        "title": "Beijing district in 'wartime emergency' after virus spike shuts market",
+        "link": "https://www.cnbc.com/2020/06/13/beijing-district-in-wartime-emergency-after-virus-spike-shuts-market.html"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     },
     {
-        "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=40f6a380-ae00-11ea-adb3-7dc42f0523b1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
-    },
-    {
         "title": "Brazil's COVID-19 deaths surge past UK",
         "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
+    },
+    {
+        "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=79f08710-ae04-11ea-8a69-ed595ba1e35c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
     }
 ];

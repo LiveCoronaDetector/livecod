@@ -348,9 +348,9 @@ var marker = [
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "확진자수": 18972,
+        "확진자수": 19008,
         "사망자수": 300,
-        "완치자수": 15357
+        "완치자수": 15360
     },
     {
         "Name": "이라크",
@@ -561,20 +561,20 @@ var marker = [
         "완치자수": 3228
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 4994,
+        "사망자수": 19,
+        "완치자수": 3874
+    },
+    {
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
         "확진자수": 4971,
         "사망자수": 50,
         "완치자수": 3288
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 4966,
-        "사망자수": 19,
-        "완치자수": 3874
     },
     {
         "Name": "Ivory Coast",
