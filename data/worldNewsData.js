@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2689ad80-ae82-11ea-bce5-b9d1b64127ae&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=64fe9cc0-ae86-11ea-8388-d98f20cbdf32&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "Coronavirus live updates: Germany's contact tracing app to go live, France to reopen Paris restaurants",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     },
     {
-        "title": "Scientists report flaws in WHO-funded study on 2-metre distancing",
-        "link": "https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing"
+        "title": "Macron says France won't remove statues, erase history",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-france-macron-stat/macron-says-france-wont-remove-statues-erase-history-idUSKBN23L0QP"
     },
     {
-        "title": "U.S. Cases Rise 1.1%; France Speeds Up Reopening: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=27a9c380-ae82-11ea-8dac-a90034074723&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy91LXMtY2FzZXMtdXAtbW9zdC1pbi10d28td2Vla3Mtd2FzaGluZ3Rvbi13YXJucy12aXJ1cy11cGRhdGU="
+        "title": "Dozens of new coronavirus cases tracked to Beijing food market | DW News",
+        "link": "https://www.youtube.com/watch?v=UfKne2VfIvw"
     }
 ];
