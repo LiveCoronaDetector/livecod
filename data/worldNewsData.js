@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
     },
     {
-        "title": "Fauci says US might not see 'second wave' of Covid-19 cases",
-        "link": "https://www.theguardian.com/us-news/2020/jun/13/anthony-fauci-second-wave-coronavirus-cases"
+        "title": "Coronavirus Cases Spike Across Sun Belt as Economy Lurches into Motion",
+        "link": "https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html"
     },
     {
-        "title": "Study: Dominant form of virus '10 times' more infectious than original strain",
-        "link": "https://www.timesofisrael.com/study-dominant-form-of-virus-10-times-more-infectious-than-original-strain/"
+        "title": "Coronavirus: Island isolation over as Greece lets tourists back",
+        "link": "https://www.bbc.com/news/world-europe-53006794"
     },
     {
         "title": "Coronavirus live news: Spain set to open borders to most countries in EU’s Schengen area",
