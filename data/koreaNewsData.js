@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141509001&code=940100"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
-    },
-    {
         "title": "일본 코로나 신규 확진 75명…한 달 만에 최다",
         "link": "http://yna.kr/AKR20200614061200073?did=1195m"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
     },
     {
         "title": "봉천동 길거리서 쓰러진 60대, 코로나 확진판정",

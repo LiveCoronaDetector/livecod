@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6e2c0ea0-ae71-11ea-8e3d-09e971e06e00&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9df1d620-ae75-11ea-806b-9566d73eebae&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/china-reports-highest-coronavirus-case-rise-two-months-lockdowns-ease-n1231030"
     },
     {
-        "title": "Infected deportees sent back to Guatemala cause a rise in COVID-19 cases",
-        "link": "https://www.youtube.com/watch?v=EhosHRDdMNw"
-    },
-    {
         "title": "Trump Rescheduling June 19 Rally 'Out Of Respect' For Juneteenth | MSNBC",
         "link": "https://www.youtube.com/watch?v=_0wMHvQrQG8"
     },
     {
-        "title": "Spain to open borders on June 21 to most European visitors, including British",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spain-to-open-borders-to-most-european-visitors-on-june-21-idUSKBN23L0FE"
-    },
-    {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+    },
+    {
+        "title": "Scientists report flaws in WHO-funded study on 2-metre distancing",
+        "link": "https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing"
+    },
+    {
+        "title": "N.Y. Fatalities Down; France to Accelerate Opening: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9f38ae00-ae75-11ea-87bd-8d9d23ee4d01&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy91LXMtY2FzZXMtdXAtbW9zdC1pbi10d28td2Vla3Mtd2FzaGluZ3Rvbi13YXJucy12aXJ1cy11cGRhdGU="
     }
 ];
