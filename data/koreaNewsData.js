@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141509001&code=940100"
     },
     {
-        "title": "일본 코로나 신규 확진 75명…한 달 만에 최다",
-        "link": "http://yna.kr/AKR20200614061200073?did=1195m"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
     },
     {
+        "title": "일본 코로나 신규 확진 75명…한 달 만에 최다",
+        "link": "http://yna.kr/AKR20200614061200073?did=1195m"
+    },
+    {
         "title": "봉천동 길거리서 쓰러진 60대, 코로나 확진판정",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/14/2020061401269.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "中베이징, 최대 농수산물 시장 코로나 비상…관련 확진자 51명",
+        "link": "https://view.asiae.co.kr/article/2020061420532033686"
     },
     {
         "title": "80대 모친·60대 딸 나란히 확진…\"목사 확진자 접촉\"",
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 확진자 5일 만에 30명대...수도권 확산세는 지속",
         "link": "https://www.ytn.co.kr/_ln/0103_202006141202367827"
-    },
-    {
-        "title": "서울 확진자 3명 증가…성심데이케어센터·해외접촉 각 1명",
-        "link": "http://www.newsis.com/view/?id=NISX20200614_0001058978&cID=14001&pID=14000"
     },
     {
         "title": "확진자 나온 인천 효성초 등교 중단…26일까지 원격수업",
