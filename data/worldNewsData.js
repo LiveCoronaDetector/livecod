@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592090445_091246.html"
     },
     {
-        "title": "Beijing In 'Wartime Emergency Mode' Amid Fresh Cluster Of Coronavirus Cases",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/13/876544822/beijing-in-wartime-emergency-mode-amid-fresh-cluster-of-coronavirus-cases"
+        "title": "Coronavirus live news: China reports most cases since April as Chile minister resigns",
+        "link": "https://www.theguardian.com/world/live/2020/jun/14/coronavirus-live-news-ew-beijing-cluster-sparks-fears-of-second-wave-as-brazil-cases-top-850000"
+    },
+    {
+        "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=28154d70-adfc-11ea-9cf3-4718f3deb505&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
     },
     {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
     {
-        "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f1c68cb0-adf7-11ea-a9a5-3138bcb6c9ab&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
+        "title": "Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states",
+        "link": "https://www.cnn.com/2020/06/13/health/us-coronavirus-saturday/index.html"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
-    },
-    {
-        "title": "Brazil's COVID-19 deaths surge past UK",
-        "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
     }
 ];
