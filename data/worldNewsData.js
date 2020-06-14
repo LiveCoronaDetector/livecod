@@ -10,27 +10,23 @@ var worldNewsData = [
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=dfb728e0-ae79-11ea-b24f-2d13df89a303&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0addc5c0-ae7e-11ea-86f7-15df1a77051f&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "Coronavirus live updates: Germany's contact tracing app to go live, France to reopen Paris restaurants",
         "link": "https://www.cnbc.com/2020/06/14/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
+        "title": "Indian holy man who offered 'COVID exorcisms' gets infected and dies",
+        "link": "https://nypost.com/2020/06/14/indian-holy-man-who-offered-covid-exorcisms-gets-infected-and-dies/"
     },
     {
         "title": "China reports highest coronavirus case rise for two months, as lockdowns ease globally",
         "link": "https://www.nbcnews.com/news/world/china-reports-highest-coronavirus-case-rise-two-months-lockdowns-ease-n1231030"
     },
     {
-        "title": "Infected deportees sent back to Guatemala cause a rise in COVID-19 cases",
-        "link": "https://www.youtube.com/watch?v=EhosHRDdMNw"
-    },
-    {
-        "title": "Trump Rescheduling June 19 Rally 'Out Of Respect' For Juneteenth | MSNBC",
-        "link": "https://www.youtube.com/watch?v=_0wMHvQrQG8"
+        "title": "Trump campaign claims record number of ticket requests for rescheduled Tulsa rally",
+        "link": "https://www.foxnews.com/politics/trump-campaign-claims-record-number-of-ticket-requests-for-rescheduled-tulsa-rally"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Scientists report flaws in WHO-funded study on 2-metre distancing",
         "link": "https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing"
+    },
+    {
+        "title": "U.S. Cases Rise 1.1%; France Speeds Up Reopening: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0bf88490-ae7e-11ea-bbf9-cfe6ae6a61b6&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy91LXMtY2FzZXMtdXAtbW9zdC1pbi10d28td2Vla3Mtd2FzaGluZ3Rvbi13YXJucy12aXJ1cy11cGRhdGU="
     }
 ];
