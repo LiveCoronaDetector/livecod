@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
     },
     {
-        "title": "[속보] 인천서 80대 모친·60대 딸 나란히 확진…\"목사 확진자 접촉\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006140017&t=NN"
-    },
-    {
-        "title": "中베이징 코로나 확진자 하루만에 36명 늘어…\"비상시기 진입\"(종합)",
-        "link": "http://yna.kr/AKR20200614021000083?did=1195m"
-    },
-    {
         "title": "中베이징 코로나19 환자 급증…하루 만에 36명 발생",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200614500013&wlog_tag3=naver"
+    },
+    {
+        "title": "[속보] 여의도성모병원 장례식장에 7·8일 확진자 방문",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006140035&t=NN"
     },
     {
         "title": "베이징, 3일만에 확진자 43명 폭증...제2 우한 되나",
         "link": "https://www.pressian.com/pages/articles/2020061412480524581?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "여의도성모병원 장례식장에 7·8일 확진자 방문…10여명 접촉",
-        "link": "https://www.nocutnews.co.kr/news/5360824"
+        "title": "[코로나19] 신규 확진자 닷새 만 30명대…34명 중 수도권 30명",
+        "link": "http://www.inews24.com/view/1273226"
     },
     {
-        "title": "[속보] 리치웨이발 코로나 확진 11명 늘어 총 164명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014688518&code=61121111&cp=nv"
+        "title": "中베이징 코로나 확진자 하루만에 36명 늘어…\"비상시기 진입\"(종합)",
+        "link": "http://yna.kr/AKR20200614021000083?did=1195m"
     },
     {
-        "title": "코로나19 어제 신규확진 34명…리치웨이발 집단감염 지속",
-        "link": "https://www.dailian.co.kr/news/view/897439?sc=Naver"
+        "title": "인천 연수구서 확진자 2명 추가···인천 개척교회 관련",
+        "link": "https://www.sedaily.com/NewsView/1Z40VR55FT"
     },
     {
-        "title": "코로나19 확진자 5일 만에 30명대...수도권 확산세는 지속",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006141202367827"
+        "title": "서울 코로나 확진자 12명 증가…1113명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014688165&code=61121111&cp=nv"
+    },
+    {
+        "title": "우한 악몽 베이징에서 다시?…'신파디시장' 코로나 확진자 45명",
+        "link": "https://www.nocutnews.co.kr/news/5360799"
     }
 ];
