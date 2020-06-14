@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-pandemic-exposes-south-africa-brutal-inequality-200612161408571.html"
     },
     {
-        "title": "Fauci says US might not see 'second wave' of Covid-19 cases",
-        "link": "https://www.theguardian.com/us-news/2020/jun/13/anthony-fauci-second-wave-coronavirus-cases"
+        "title": "China Reports 57 New Coronavirus Cases Amid Beijing Outbreak",
+        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
     },
     {
         "title": "Coronavirus: Island isolation over as Greece lets tourists back",
@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Record rise in coronavirus cases in India: Live Updates",
-        "link": "https://www.aljazeera.com/news/2020/06/egypt-day-coronavirus-infections-high-live-updates-200613232000550.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
     },
     {
-        "title": "Beijing In 'Wartime Emergency Mode' Amid Fresh Cluster Of Coronavirus Cases",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/13/876544822/beijing-in-wartime-emergency-mode-amid-fresh-cluster-of-coronavirus-cases"
+        "title": "Beijing district on alert after new virus cluster",
+        "link": "https://www.youtube.com/watch?v=Cw_2z2VADJw"
+    },
+    {
+        "title": "Politics looms large in Brazil's response to pandemic",
+        "link": "https://www.youtube.com/watch?v=HXFpXw5iTFE"
     },
     {
         "title": "Live Coronavirus News Updates: Chile, Florida and NY",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Chile health minister resigns amid coronavirus row: Live updates",
         "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
-    },
-    {
-        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
-        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     }
 ];
