@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f218ef00-ae92-11ea-a9da-85d27eecab21&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=24eba860-ae97-11ea-866e-37b2f99813f5&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "Coronavirus live updates: Germany's contact tracing app to go live, France to reopen Paris restaurants",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/trump-campaign-claims-record-number-of-ticket-requests-for-rescheduled-tulsa-rally"
     },
     {
-        "title": "Scientists report flaws in WHO-funded study on 2-metre distancing",
-        "link": "https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing"
-    },
-    {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     },
     {
-        "title": "U.S. Cases Up 1.1%; Ghana Health Minister Infected: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f3817fb0-ae92-11ea-8a8e-0d91d050e108&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy91LXMtY2FzZXMtdXAtbW9zdC1pbi10d28td2Vla3Mtd2FzaGluZ3Rvbi13YXJucy12aXJ1cy11cGRhdGU="
+        "title": "Dozens of new coronavirus cases tracked to Beijing food market | DW News",
+        "link": "https://www.youtube.com/watch?v=UfKne2VfIvw"
+    },
+    {
+        "title": "Wake County tops 3,000 coronavirus cases, lockdown restrictions ease across the world",
+        "link": "https://www.wral.com/coronavirus/wake-county-tops-3-000-coronavirus-cases-lockdown-restrictions-ease-across-the-world/19144285/"
     }
 ];
