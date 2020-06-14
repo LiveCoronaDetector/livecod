@@ -10,34 +10,34 @@ var worldNewsData = [
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5b4dd210-ae43-11ea-a242-dbc90083d1c1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=870ba5e0-ae47-11ea-8aa2-696227fd9411&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
-        "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
-        "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
+        "title": "Coronavirus live news: Spain set to open borders to most countries in EU’s Schengen area",
+        "link": "https://www.theguardian.com/world/live/2020/jun/14/coronavirus-live-news-ew-beijing-cluster-sparks-fears-of-second-wave-as-brazil-cases-top-850000"
     },
     {
-        "title": "Trump rally amid coronavirus spread deemed 'dangerous': Live",
-        "link": "https://www.aljazeera.com/news/2020/06/egypt-day-coronavirus-infections-high-live-updates-200613232000550.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
     },
     {
-        "title": "Spain brings forward reopening of borders to Schengen area",
-        "link": "https://www.euronews.com/2020/06/14/spain-brings-forward-reopening-of-borders-to-schengen-area"
+        "title": "Coronavirus cases linked to Beijing market climbs to 36, China sees highest daily total in 2 months",
+        "link": "https://www.foxnews.com/world/coronavirus-china-beijing-xinfadi-market-lockdown-virus-highest-daily-total-two-months"
+    },
+    {
+        "title": "Global COVID-19 cases surge to over 7.7 million: Johns Hopkins University",
+        "link": "https://telanganatoday.com/global-covid-19-cases-surge-to-over-7-7-million-johns-hopkins-university"
     },
     {
         "title": "Spain brings forward border opening for Schengen countries to June 21",
         "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spain-brings-forward-border-opening-for-schengen-countries-to-june-21-idUSKBN23L0FE"
     },
     {
-        "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
-        "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
+        "title": "Beijing district on alert after new virus cluster",
+        "link": "https://www.youtube.com/watch?v=Cw_2z2VADJw"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
-    },
-    {
-        "title": "Live updates: As coronavirus cases rise across U.S., Fauci says some ‘normality’ could be a year away",
-        "link": "https://www.washingtonpost.com/nation/2020/06/14/coronavirus-live-updates-us/"
     }
 ];
