@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-updates.html"
     },
     {
-        "title": "Pakistan hospitals struggle as coronavirus cases explode",
-        "link": "https://www.aljazeera.com/indepth/features/pakistan-hospitals-struggle-coronavirus-cases-explode-200612084123797.html"
+        "title": "Coronavirus: Island isolation over as Greece lets tourists back",
+        "link": "https://www.bbc.com/news/world-europe-53006794"
     },
     {
         "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "A frantic search for scarce hospital beds as pandemic rages in India",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-hospital-beds/2020/06/12/7b538a8a-ab4d-11ea-a43b-be9f6494a87d_story.html"
+        "title": "Chile health minister resigns amid coronavirus row: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
     },
     {
         "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-who/coronavirus-hitting-the-americas-hardest-says-world-health-organization-idUSKBN23J2K3"
     },
     {
-        "title": "Florida fired its coronavirus data scientist. Now she’s publishing the statistics on her own.",
-        "link": "https://www.washingtonpost.com/nation/2020/06/12/rebekah-jones-florida-coronavirus/"
+        "title": "The Post-Coronavirus Global Hunger Crisis",
+        "link": "https://www.nytimes.com/2020/06/12/opinion/coronavirus-global-hunger.html"
     }
 ];
