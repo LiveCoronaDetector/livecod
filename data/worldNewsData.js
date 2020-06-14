@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-hospital-beds/2020/06/12/7b538a8a-ab4d-11ea-a43b-be9f6494a87d_story.html"
     },
     {
-        "title": "Coronavirus in China: Beijing Seafood Market Shuts Down",
-        "link": "https://www.nytimes.com/2020/06/13/world/asia/beijing-market-coronavirus.html"
+        "title": "China Shuts Vast Beijing Market as It Hunts Coronavirus Cluster",
+        "link": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html"
     },
     {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/12/success/real-estate-home-buying-and-selling-coronavirus/index.html"
     },
     {
-        "title": "Brazil's COVID-19 deaths surge past UK",
-        "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
-    },
-    {
         "title": "Coronavirus hitting the Americas hardest says World Health Organization",
         "link": "https://www.reuters.com/article/us-health-coronavirus-who/coronavirus-hitting-the-americas-hardest-says-world-health-organization-idUSKBN23J2K3"
+    },
+    {
+        "title": "Florida fired its coronavirus data scientist. Now she’s publishing the statistics on her own.",
+        "link": "https://www.washingtonpost.com/nation/2020/06/12/rebekah-jones-florida-coronavirus/"
     }
 ];
