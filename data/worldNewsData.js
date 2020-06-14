@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
     {
-        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
-        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+        "title": "Coronavirus News and Live Updates: Florida Cases Increase",
+        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
     },
     {
-        "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2940e1b0-ade7-11ea-96e1-c3f3fb0732c2&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
+        "title": "Australian sentenced to death in China over drug offences",
+        "link": "https://www.youtube.com/watch?v=YVCYcW0c0X0"
     },
     {
-        "title": "Brazil's COVID-19 deaths surge past UK",
-        "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
+        "title": "Chile President Replaces Health Minister Amid COVID-19 Deaths Controversy",
+        "link": "https://www.nytimes.com/reuters/2020/06/13/world/americas/13reuters-chile-politics-reshuffle.html"
     }
 ];
