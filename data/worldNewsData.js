@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html"
     },
     {
-        "title": "Coronavirus: Island isolation over as Greece lets tourists back",
-        "link": "https://www.bbc.com/news/world-europe-53006794"
+        "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5b4dd210-ae43-11ea-a242-dbc90083d1c1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Thailand, Malaysia, Vietnam... How some countries kept Covid at bay",
-        "link": "https://www.theguardian.com/world/2020/jun/14/thailand-malaysia-vietnam-how-some-countries-kept-covid-at-bay"
+        "title": "Trump rally amid coronavirus spread deemed 'dangerous': Live",
+        "link": "https://www.aljazeera.com/news/2020/06/egypt-day-coronavirus-infections-high-live-updates-200613232000550.html"
     },
     {
-        "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
-        "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
+        "title": "Spain brings forward reopening of borders to Schengen area",
+        "link": "https://www.euronews.com/2020/06/14/spain-brings-forward-reopening-of-borders-to-schengen-area"
     },
     {
         "title": "Spain brings forward border opening for Schengen countries to June 21",
         "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spain-brings-forward-border-opening-for-schengen-countries-to-june-21-idUSKBN23L0FE"
     },
     {
-        "title": "Beijing district on alert after new virus cluster",
-        "link": "https://www.youtube.com/watch?v=Cw_2z2VADJw"
+        "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
+        "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     },
     {
-        "title": "Brazil is exhuming graveyards to make room for increased burials amid coronavirus",
-        "link": "https://www.foxnews.com/world/brazil-exhuming-graveyards-make-room-coronavirus-victims"
+        "title": "Live updates: As coronavirus cases rise across U.S., Fauci says some ‘normality’ could be a year away",
+        "link": "https://www.washingtonpost.com/nation/2020/06/14/coronavirus-live-updates-us/"
     }
 ];

@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141509001&code=940100"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
-    },
-    {
         "title": "봉천동 길거리서 쓰러진 60대, 코로나 확진판정",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/14/2020061401269.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "베이징 하루 확진자 36명 ‘비상시기’ 선언…“우한 초기 비슷”",
+        "link": "http://www.hani.co.kr/arti/international/china/949247.html"
     },
     {
         "title": "80대 모친·60대 딸 나란히 확진…\"목사 확진자 접촉\"",
@@ -21,12 +21,8 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202006141515047407"
     },
     {
-        "title": "'종식 초읽기' 중국 다시 위태…세계곳곳 코로나19 재유행 공포",
-        "link": "http://yna.kr/AKR20200614045800009?did=1195m"
-    },
-    {
-        "title": "서울 확진자 3명 증가…성심데이케어센터·해외접촉 각 1명",
-        "link": "http://www.newsis.com/view/?id=NISX20200614_0001058978&cID=14001&pID=14000"
+        "title": "봉천동 길거리서 쓰러진 채 발견된 60대 남성···코로나19 확진",
+        "link": "https://news.joins.com/article/olink/23395807"
     },
     {
         "title": "확진자 나온 인천 효성초 등교 중단…26일까지 원격수업",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/14/2020061402188.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "아산 42세 남성 자가격리 중 코로나19 확진…2살 아들은 음성(종합)",
-        "link": "http://yna.kr/AKR20200614030451063?did=1195m"
+        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
+    },
+    {
+        "title": "서울 확진자 3명 증가…성심데이케어센터·해외접촉 각 1명",
+        "link": "http://www.newsis.com/view/?id=NISX20200614_0001058978&cID=14001&pID=14000"
     }
 ];
