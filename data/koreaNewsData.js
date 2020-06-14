@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/14/2020061401269.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "베이징 하루 확진자 36명 ‘비상시기’ 선언…“우한 초기 비슷”",
+        "link": "http://www.hani.co.kr/arti/international/china/949247.html"
+    },
+    {
         "title": "中베이징, 최대 농수산물 시장 코로나 비상…관련 확진자 51명",
         "link": "https://view.asiae.co.kr/article/2020061420532033686"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "확진자 나온 인천 효성초 등교 중단…26일까지 원격수업",
         "link": "http://yna.kr/AKR20200614035400065?did=1195m"
-    },
-    {
-        "title": "베이징 코로나 확진자 나흘새 51명… 전원 농수산시장 관련자",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/14/2020061402188.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
