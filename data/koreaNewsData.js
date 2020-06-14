@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/14/2020061400351.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
+        "title": "[종합] 코로나19 확진자 34명 증가...서울 12명, 경기 10명, 인천 8명",
+        "link": "http://www.fnnews.com/news/202006141013422313"
+    },
+    {
+        "title": "[속보]中 베이징 코로나 확진 36명 급증",
+        "link": "http://www.hankookilbo.com/news/npath/202006140955049854?did=NA"
     },
     {
         "title": "코로나19 신규 확진 34명…닷새 만에 30명대지만 '불안'[종합]",
         "link": "https://www.hankyung.com/society/article/2020061444337"
     },
     {
-        "title": "[속보]13일 코로나 신규 확진자 34명...수도권에만 30명",
-        "link": "https://news.joins.com/article/olink/23395551"
-    },
-    {
         "title": "인천 연수구서 확진자 2명 추가···인천 개척교회 관련",
         "link": "https://www.sedaily.com/NewsView/1Z40VR55FT"
     },
     {
-        "title": "[종합] 코로나19 확진자 34명 증가...서울 12명, 경기 10명, 인천 8명",
-        "link": "http://www.fnnews.com/news/202006141013422313"
-    },
-    {
-        "title": "中베이징 코로나 확진자 하루만에 36명 늘어…\"비상시기 진입\"(종합)",
-        "link": "http://yna.kr/AKR20200614021000083?did=1195m"
+        "title": "[속보]13일 코로나 신규 확진자 34명...수도권에만 30명",
+        "link": "https://news.joins.com/article/olink/23395551"
     },
     {
         "title": "서울 코로나 확진자 12명 증가…1113명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014688165&code=61121111&cp=nv"
     },
     {
-        "title": "코로나19 확진자 닷새만에 30명대…리치웨이 여진 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01479286625801720"
+        "title": "中베이징 코로나 확진자 하루만에 36명 늘어…\"비상시기 진입\"(종합)",
+        "link": "http://yna.kr/AKR20200614021000083?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자, 닷새 만에 30명 대로",
         "link": "https://www.pressian.com/pages/articles/2020061410510121546?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "코로나19 확진자 닷새만에 30명대…리치웨이 여진 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01479286625801720"
     }
 ];
