@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Beijing marketplace infections trigger 'wartime emergency mode'",
-        "link": "https://www.youtube.com/watch?v=4OJJ4Up7Uc0"
-    },
-    {
         "title": "Beijing district in 'wartime emergency' after virus spike shuts market",
         "link": "https://www.cnbc.com/2020/06/13/beijing-district-in-wartime-emergency-after-virus-spike-shuts-market.html"
     },
     {
-        "title": "Beijing Cancels Reopening Theaters as Capital Enters ‘Wartime’ Mode Amid New Cases",
-        "link": "https://www.indiewire.com/2020/06/beijing-movie-theaters-china-coronavirus-1202237400/"
+        "title": "Coronavirus latest: Germany's infection rate climbs again",
+        "link": "https://www.dw.com/en/coronavirus-latest-germanys-infection-rate-climbs-again/a-53799322"
+    },
+    {
+        "title": "China reports highest number of new Covid-19 cases in two months",
+        "link": "https://www.france24.com/en/20200614-china-reports-highest-number-of-new-covid-19-cases-in-two-months"
+    },
+    {
+        "title": "More than 700 coronavirus deaths in US in 24 hours",
+        "link": "https://timesofindia.indiatimes.com/world/us/more-than-700-coronavirus-deaths-in-us-in-24-hours/articleshow/76366150.cms"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     },
     {
-        "title": "Brazil's COVID-19 deaths surge past UK",
-        "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
-    },
-    {
-        "title": "Chile health minister resigns amid coronavirus row: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
+        "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e55d50c0-ae0c-11ea-bbdc-ed5de441c2e7&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
     }
 ];
