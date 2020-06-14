@@ -10,34 +10,34 @@ var worldNewsData = [
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3980c4b0-ae6d-11ea-be33-b5da7b0bb258&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6e2c0ea0-ae71-11ea-8e3d-09e971e06e00&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Indian holy man who offered 'COVID exorcisms' gets infected and dies",
-        "link": "https://nypost.com/2020/06/14/indian-holy-man-who-offered-covid-exorcisms-gets-infected-and-dies/"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
     },
     {
         "title": "China reports highest coronavirus case rise for two months, as lockdowns ease globally",
         "link": "https://www.nbcnews.com/news/world/china-reports-highest-coronavirus-case-rise-two-months-lockdowns-ease-n1231030"
     },
     {
+        "title": "Infected deportees sent back to Guatemala cause a rise in COVID-19 cases",
+        "link": "https://www.youtube.com/watch?v=EhosHRDdMNw"
+    },
+    {
         "title": "Trump Rescheduling June 19 Rally 'Out Of Respect' For Juneteenth | MSNBC",
         "link": "https://www.youtube.com/watch?v=_0wMHvQrQG8"
     },
     {
+        "title": "Spain to open borders on June 21 to most European visitors, including British",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spain-to-open-borders-to-most-european-visitors-on-june-21-idUSKBN23L0FE"
+    },
+    {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
-    },
-    {
-        "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
-        "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
-    },
-    {
-        "title": "Scientists report flaws in WHO-funded study on 2-metre distancing",
-        "link": "https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing"
     }
 ];

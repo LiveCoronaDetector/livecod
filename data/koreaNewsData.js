@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006140017&t=NN"
     },
     {
-        "title": "'종식 초읽기' 중국 다시 위태…세계곳곳 코로나19 재유행 공포",
-        "link": "http://yna.kr/AKR20200614045800009?did=1195m"
-    },
-    {
         "title": "\"코로나에 발길 끊겨 혈액 수급 비상\"···슬픈 세계 헌혈자의 날",
         "link": "https://news.joins.com/article/olink/23395691"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "확진자 나온 인천 효성초 등교 중단…26일까지 원격수업",
         "link": "http://yna.kr/AKR20200614035400065?did=1195m"
+    },
+    {
+        "title": "베이징 코로나 확진자 나흘새 51명… 전원 농수산시장 관련자",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/14/2020061402188.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
