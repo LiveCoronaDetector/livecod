@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006141013422313"
     },
     {
-        "title": "[속보]中 베이징 코로나 확진 36명 급증",
-        "link": "http://www.hankookilbo.com/news/npath/202006140955049854?did=NA"
+        "title": "[속보] 인천서 80대 모친·60대 딸 나란히 확진…\"목사 확진자 접촉\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006140017&t=NN"
     },
     {
-        "title": "코로나19 신규 확진 34명…닷새 만에 30명대지만 '불안'[종합]",
-        "link": "https://www.hankyung.com/society/article/2020061444337"
+        "title": "中베이징 코로나 확진자 하루만에 36명 늘어…\"비상시기 진입\"(종합)",
+        "link": "http://yna.kr/AKR20200614021000083?did=1195m"
     },
     {
-        "title": "인천 연수구서 확진자 2명 추가···인천 개척교회 관련",
-        "link": "https://www.sedaily.com/NewsView/1Z40VR55FT"
+        "title": "베이징 신파디 시장, ‘제2의 우한 화난시장’ 되나…하루 확진자 36명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141010001&code=970204"
+    },
+    {
+        "title": "코로나19, 신규확진 34명…수도권서 30명 발생(종합)",
+        "link": "https://view.asiae.co.kr/article/2020061410513264793"
     },
     {
         "title": "[속보]13일 코로나 신규 확진자 34명...수도권에만 30명",
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "서울 코로나 확진자 12명 증가…1113명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014688165&code=61121111&cp=nv"
-    },
-    {
-        "title": "中베이징 코로나 확진자 하루만에 36명 늘어…\"비상시기 진입\"(종합)",
-        "link": "http://yna.kr/AKR20200614021000083?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자, 닷새 만에 30명 대로",

@@ -721,6 +721,14 @@ var marker = [
         "완치자수": 559
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 2285,
+        "사망자수": 27,
+        "완치자수": 1791
+    },
+    {
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
@@ -743,14 +751,6 @@ var marker = [
         "확진자수": 2238,
         "사망자수": 84,
         "완치자수": 1923
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 2207,
-        "사망자수": 27,
-        "완치자수": 1722
     },
     {
         "Name": "CAR",

@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b0b372f0-adf3-11ea-baad-f1c776040681&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f1c68cb0-adf7-11ea-a9a5-3138bcb6c9ab&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
         "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     },
     {
-        "title": "Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states",
-        "link": "https://www.cnn.com/2020/06/13/health/us-coronavirus-saturday/index.html"
+        "title": "Brazil's COVID-19 deaths surge past UK",
+        "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
     }
 ];
