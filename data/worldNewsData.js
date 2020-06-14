@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus live news: China reports most cases since April as Chile minister resigns",
-        "link": "https://www.theguardian.com/world/live/2020/jun/14/coronavirus-live-news-ew-beijing-cluster-sparks-fears-of-second-wave-as-brazil-cases-top-850000"
-    },
-    {
-        "title": "Live Coronavirus News Updates: Chile, Florida and NY",
-        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
+        "title": "Record rise in coronavirus cases in India: Live Updates",
+        "link": "https://www.aljazeera.com/news/2020/06/egypt-day-coronavirus-infections-high-live-updates-200613232000550.html"
     },
     {
         "title": "Beijing In 'Wartime Emergency Mode' Amid Fresh Cluster Of Coronavirus Cases",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/13/876544822/beijing-in-wartime-emergency-mode-amid-fresh-cluster-of-coronavirus-cases"
     },
     {
-        "title": "Brazil's COVID-19 deaths surge past UK",
-        "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
+        "title": "Live Coronavirus News Updates: Chile, Florida and NY",
+        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
+    },
+    {
+        "title": "Coronavirus latest: Germany's infection rate climbs again",
+        "link": "https://www.dw.com/en/coronavirus-latest-germanys-infection-rate-climbs-again/a-53799322"
+    },
+    {
+        "title": "Chile health minister resigns amid coronavirus row: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",
