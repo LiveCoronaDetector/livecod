@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141509001&code=940100"
     },
     {
+        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
+    },
+    {
         "title": "봉천동 길거리서 쓰러진 60대, 코로나 확진판정",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/14/2020061401269.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -13,12 +17,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200614045800009?did=1195m"
     },
     {
-        "title": "일본 코로나19 신규 확진자 75명…한 달 만에 최다",
-        "link": "https://www.hankyung.com/international/article/2020061458017"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
+        "title": "日도 코로나 재확산… 신규 확진 75명 '한 달만에 최다'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/14/2020061402259.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "80대 모친·60대 딸 나란히 확진…\"목사 확진자 접촉\"",
