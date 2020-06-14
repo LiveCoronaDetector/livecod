@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
     },
     {
-        "title": "Coronavirus Cases Spike Across Sun Belt as Economy Lurches into Motion",
-        "link": "https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html"
+        "title": "Coronavirus Live News Updates and Analysis",
+        "link": "https://www.nytimes.com/2020/06/14/world/coronavirus-updates.html"
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cf5c3270-ae64-11ea-ac7f-abeb441ac3c3&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0f05aa10-ae69-11ea-838e-ad342b50ad02&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
