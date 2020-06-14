@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
     },
     {
-        "title": "'The country is adrift': echoes of Spanish flu as Brazil's Covid-19 catastrophe deepens",
-        "link": "https://www.theguardian.com/world/2020/jun/14/brazil-coronavirus-spanish-flu"
+        "title": "Live updates: As coronavirus cases rise, Fauci says some ‘normality’ could be a year away",
+        "link": "https://www.washingtonpost.com/nation/2020/06/14/coronavirus-live-updates-us/"
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=aa6e3170-ae4b-11ea-81fd-9b096006aa4e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e751f960-ae4f-11ea-95e4-8fe25ea78c03&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://telanganatoday.com/global-covid-19-cases-surge-to-over-7-7-million-johns-hopkins-university"
     },
     {
-        "title": "Live updates: As coronavirus cases rise, Fauci says some ‘normality’ could be a year away",
-        "link": "https://www.washingtonpost.com/nation/2020/06/14/coronavirus-live-updates-us/"
-    },
-    {
-        "title": "Spain brings forward border opening for Schengen countries to June 21",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spain-brings-forward-border-opening-for-schengen-countries-to-june-21-idUSKBN23L0FE"
-    },
-    {
         "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
+    },
+    {
+        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
+        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+    },
+    {
+        "title": "Global report: China reports most cases since April as pandemic gathers pace in Latin America",
+        "link": "https://www.theguardian.com/world/2020/jun/14/global-report-china-reports-most-cases-since-april-as-pandemic-gathers-pace-in-latin-america"
     }
 ];
