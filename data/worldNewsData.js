@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
     },
     {
-        "title": "Coronavirus Cases Spike Across Sun Belt as Economy Lurches into Motion",
-        "link": "https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html"
+        "title": "'The country is adrift': echoes of Spanish flu as Brazil's Covid-19 catastrophe deepens",
+        "link": "https://www.theguardian.com/world/2020/jun/14/brazil-coronavirus-spanish-flu"
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=870ba5e0-ae47-11ea-8aa2-696227fd9411&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=aa6e3170-ae4b-11ea-81fd-9b096006aa4e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
-        "title": "Coronavirus live news: Spain set to open borders to most countries in EU’s Schengen area",
-        "link": "https://www.theguardian.com/world/live/2020/jun/14/coronavirus-live-news-ew-beijing-cluster-sparks-fears-of-second-wave-as-brazil-cases-top-850000"
+        "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
+        "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://telanganatoday.com/global-covid-19-cases-surge-to-over-7-7-million-johns-hopkins-university"
     },
     {
+        "title": "Live updates: As coronavirus cases rise, Fauci says some ‘normality’ could be a year away",
+        "link": "https://www.washingtonpost.com/nation/2020/06/14/coronavirus-live-updates-us/"
+    },
+    {
         "title": "Spain brings forward border opening for Schengen countries to June 21",
         "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spain-brings-forward-border-opening-for-schengen-countries-to-june-21-idUSKBN23L0FE"
     },
     {
-        "title": "Beijing district on alert after new virus cluster",
-        "link": "https://www.youtube.com/watch?v=Cw_2z2VADJw"
-    },
-    {
-        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
-        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+        "title": "Beijing closes food market, locks down district after new coronavirus outbreak",
+        "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     }
 ];
