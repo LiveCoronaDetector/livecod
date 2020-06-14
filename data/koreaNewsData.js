@@ -13,8 +13,12 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/14/2020061401269.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "일본 코로나 신규 확진 75명…한 달 만에 최다",
-        "link": "http://yna.kr/AKR20200614061200073?did=1195m"
+        "title": "'종식 초읽기' 중국 다시 위태…세계곳곳 코로나19 재유행 공포",
+        "link": "http://yna.kr/AKR20200614045800009?did=1195m"
+    },
+    {
+        "title": "日도 코로나 재확산… 신규 확진 75명 '한 달만에 최다'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/14/2020061402259.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "80대 모친·60대 딸 나란히 확진…\"목사 확진자 접촉\"",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "확진자 나온 인천 효성초 등교 중단…26일까지 원격수업",
         "link": "http://yna.kr/AKR20200614035400065?did=1195m"
-    },
-    {
-        "title": "베이징 코로나 확진자 나흘새 51명… 전원 농수산시장 관련자",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/14/2020061402188.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
