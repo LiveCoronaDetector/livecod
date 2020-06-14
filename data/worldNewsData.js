@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
     {
-        "title": "Coronavirus News and Live Updates: Florida Cases Increase",
-        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
+        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
+        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     },
     {
         "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f78564b0-ade2-11ea-b07f-ddb5d4d3073e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2940e1b0-ade7-11ea-96e1-c3f3fb0732c2&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
     },
     {
-        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
-        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+        "title": "Brazil's COVID-19 deaths surge past UK",
+        "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
     }
 ];
