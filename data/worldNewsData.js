@@ -9,32 +9,32 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/2020/jun/13/anthony-fauci-second-wave-coronavirus-cases"
     },
     {
-        "title": "Coronavirus: Island isolation over as Greece lets tourists back",
-        "link": "https://www.bbc.com/news/world-europe-53006794"
+        "title": "Study: Dominant form of virus '10 times' more infectious than original strain",
+        "link": "https://www.timesofisrael.com/study-dominant-form-of-virus-10-times-more-infectious-than-original-strain/"
     },
     {
-        "title": "AstraZeneca agrees to make COVID-19 vaccine for Europe",
-        "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
-    },
-    {
-        "title": "Record rise in coronavirus cases in India: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/egypt-day-coronavirus-infections-high-live-updates-200613232000550.html"
-    },
-    {
-        "title": "Fact-checking claims coronavirus might have started in August 2019",
-        "link": "https://www.bbc.com/news/world-asia-china-53005768"
+        "title": "Coronavirus live news: Spain set to open borders to most countries in EU’s Schengen area",
+        "link": "https://www.theguardian.com/world/live/2020/jun/14/coronavirus-live-news-ew-beijing-cluster-sparks-fears-of-second-wave-as-brazil-cases-top-850000"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
     },
     {
+        "title": "Beijing Cancels Reopening Theaters as Capital Enters ‘Wartime’ Mode Amid New Cases",
+        "link": "https://www.indiewire.com/2020/06/beijing-movie-theaters-china-coronavirus-1202237400/"
+    },
+    {
+        "title": "Global COVID-19 cases surge to over 7.7 million: Johns Hopkins University",
+        "link": "https://telanganatoday.com/global-covid-19-cases-surge-to-over-7-7-million-johns-hopkins-university"
+    },
+    {
         "title": "Spain to Open Borders to EU Schengen Countries on June 21: Reports",
         "link": "https://www.nytimes.com/reuters/2020/06/14/world/europe/14reuters-health-coronavirus-spain-borders.html"
     },
     {
-        "title": "Beijing district in 'wartime emergency' after virus spike shuts market",
-        "link": "https://www.cnbc.com/2020/06/13/beijing-district-in-wartime-emergency-after-virus-spike-shuts-market.html"
+        "title": "Beijing district on alert after new virus cluster",
+        "link": "https://www.youtube.com/watch?v=Cw_2z2VADJw"
     },
     {
         "title": "Are Nations Safer From the Coronavirus When Women Lead?",

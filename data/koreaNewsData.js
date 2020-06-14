@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200614035400065?did=1195m"
     },
     {
+        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
+    },
+    {
         "title": "코로나19 확진자 5일 만에 30명대...수도권 확산세는 지속",
         "link": "https://www.ytn.co.kr/_ln/0103_202006141202367827"
     },
     {
         "title": "서울 확진자 3명 증가…성심데이케어센터·해외접촉 각 1명",
         "link": "http://www.newsis.com/view/?id=NISX20200614_0001058978&cID=14001&pID=14000"
-    },
-    {
-        "title": "리치웨이 관련 확진자 164명…수도권 확산세 지속(종합)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061418185998393"
     },
     {
         "title": "코로나19 리치웨이 관련 확진자 11명 추가돼 총 164명...확진자 34명 중 30명...",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200614030451063?did=1195m"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
+        "title": "베이징, 3일만에 확진자 43명 폭증...제2 우한 되나",
+        "link": "https://www.pressian.com/pages/articles/2020061412480524581?utm_source=naver&utm_medium=search"
     }
 ];
