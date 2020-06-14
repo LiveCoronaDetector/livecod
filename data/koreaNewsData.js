@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
     },
     {
-        "title": "中베이징 코로나 확진자 하루만에 36명 늘어…\"비상시기 진입\"(종합)",
-        "link": "http://yna.kr/AKR20200614021000083?did=1195m"
+        "title": "中 베이징,코로나확진 1명→6명→36명 폭증 추세,재확산 ‘초비상’",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014688050&code=61131111&cp=nv"
     },
     {
-        "title": "[속보] 여의도성모병원 장례식장에 7·8일 확진자 방문",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006140035&t=NN"
+        "title": "코로나 확진자, 7·8일 서울 여의도성모 장례식장 방문",
+        "link": "http://www.hani.co.kr/arti/area/capital/949273.html"
+    },
+    {
+        "title": "中베이징 코로나 확진자 하루만에 36명 늘어…\"비상시기 진입\"(종합)",
+        "link": "http://yna.kr/AKR20200614021000083?did=1195m"
     },
     {
         "title": "'양성→음성 4차례' 광주 학생 2명...확진자냐 아니냐?",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020061410510121546?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "\"한달새 13명에서 134명으로\"…고령층 확진자 급증",
+        "link": "https://www.hankyung.com/society/article/2020061450707"
+    },
+    {
         "title": "리치웨이발 코로나, 지역 사회 감염이 3배 넘어",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/14/2020061400796.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나19 어제 신규확진 34명…리치웨이발 집단감염 지속",
         "link": "https://www.dailian.co.kr/news/view/897439?sc=Naver"
-    },
-    {
-        "title": "서울 코로나 확진자 12명 증가…1113명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014688165&code=61121111&cp=nv"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 34명 증가...서울 12명, 경기 10명, 인천 8명",
-        "link": "http://www.fnnews.com/news/202006141013422313"
     }
 ];
