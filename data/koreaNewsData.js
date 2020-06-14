@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4470340&ref=A"
     },
     {
+        "title": "베이징 도매시장 확진자 50명 넘어...\"베이징 방문 자제\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202006150115347579"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020061420532033686"
     },
     {
-        "title": "80대 모친·60대 딸 나란히 확진…\"목사 확진자 접촉\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006140017&t=NN"
-    },
-    {
         "title": "\"코로나에 발길 끊겨 혈액 수급 비상\"···슬픈 세계 헌혈자의 날",
         "link": "https://news.joins.com/article/olink/23395691"
     },
     {
-        "title": "코로나19 확진자 5일 만에 30명대...수도권 확산세는 지속",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006141202367827"
+        "title": "확진자 나온 인천 효성초 등교 중단…26일까지 원격수업",
+        "link": "http://yna.kr/AKR20200614035400065?did=1195m"
     }
 ];
