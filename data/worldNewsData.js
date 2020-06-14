@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
+        "title": "Record rise in coronavirus cases in India: Live Updates",
+        "link": "https://www.aljazeera.com/news/2020/06/egypt-day-coronavirus-infections-high-live-updates-200613232000550.html"
     },
     {
-        "title": "Beijing district on alert after new virus cluster",
-        "link": "https://www.youtube.com/watch?v=Cw_2z2VADJw"
+        "title": "Beijing closes market, locks down area in new virus outbreak",
+        "link": "https://abcnews.go.com/Health/wireStory/beijing-closes-market-locks-area-virus-outbreak-71233774"
     },
     {
-        "title": "Politics looms large in Brazil's response to pandemic",
-        "link": "https://www.youtube.com/watch?v=HXFpXw5iTFE"
+        "title": "Spain to Open Borders to EU Schengen Countries on June 21: Reports",
+        "link": "https://www.nytimes.com/reuters/2020/06/14/world/europe/14reuters-health-coronavirus-spain-borders.html"
     },
     {
-        "title": "Live Coronavirus News Updates: Chile, Florida and NY",
-        "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
-    },
-    {
-        "title": "Coronavirus latest: Germany's infection rate climbs again",
-        "link": "https://www.dw.com/en/coronavirus-latest-germanys-infection-rate-climbs-again/a-53799322"
+        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
+        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     },
     {
         "title": "Chile health minister resigns amid coronavirus row: Live updates",
         "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-toll-world-highest-live-updates-200613002420511.html"
+    },
+    {
+        "title": "As coronavirus infections surge nationwide, 21 states see increase in average daily new cases",
+        "link": "https://www.washingtonpost.com/nation/2020/06/13/coronavirus-live-updates-us/"
     }
 ];

@@ -5,18 +5,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141509001&code=940100"
     },
     {
-        "title": "中베이징 코로나19 환자 급증…하루 만에 36명 발생",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200614500013&wlog_tag3=naver"
-    },
-    {
-        "title": "코로나19 신규 확진자, 닷새 만에 30명 대로",
-        "link": "https://www.pressian.com/pages/articles/2020061410510121546?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "봉천동 길거리서 쓰러진 60대, 코로나 확진판정",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/14/2020061401269.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "80대 모친·60대 딸 나란히 확진…\"목사 확진자 접촉\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006140017&t=NN"
     },
@@ -25,19 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200614024851054?did=1195m"
     },
     {
-        "title": "리치웨이 관련 확진자 164명…수도권 확산세 지속(종합)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061418185998393"
+        "title": "봉천동 길거리서 쓰러진 60대, 코로나 확진판정",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/14/2020061401269.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나19 확진자 5일 만에 30명대...수도권 확산세는 지속",
         "link": "https://www.ytn.co.kr/_ln/0103_202006141202367827"
     },
     {
+        "title": "리치웨이 관련 확진자 164명…수도권 확산세 지속(종합)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061418185998393"
+    },
+    {
         "title": "코로나19 리치웨이 관련 확진자 11명 추가돼 총 164명...확진자 34명 중 30명...",
         "link": "http://www.fnnews.com/news/202006141416470646"
     },
     {
+        "title": "서울 확진자 3명 증가…성심데이케어센터·해외접촉 각 1명",
+        "link": "http://www.newsis.com/view/?id=NISX20200614_0001058978&cID=14001&pID=14000"
+    },
+    {
         "title": "아산 42세 남성 자가격리 중 코로나19 확진…2살 아들은 음성(종합)",
         "link": "http://yna.kr/AKR20200614030451063?did=1195m"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
     }
 ];
