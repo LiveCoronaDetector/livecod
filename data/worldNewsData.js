@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/beijing-fresh-coronavirus-outbreak"
     },
     {
-        "title": "Coronavirus World News and Live Updates",
+        "title": "Coronavirus News and Live Updates: Florida Cases Increase",
         "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
     },
     {
-        "title": "Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states",
-        "link": "https://www.cnn.com/2020/06/13/health/us-coronavirus-saturday/index.html"
+        "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f78564b0-ade2-11ea-b07f-ddb5d4d3073e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
     },
     {
-        "title": "Chile Health Minister Resigns as Covid-19 Deaths Hit Record",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=bae3fcf0-adde-11ea-8412-3dce36e6aa59&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xMy9jaGlsZS1zLWhlYWx0aC1taW5pc3Rlci1yZXNpZ25zLWFzLWNvcm9uYXZpcnVzLWRlYXRocy1oaXQtcmVjb3Jk"
+        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
+        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     }
 ];

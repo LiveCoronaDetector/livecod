@@ -1646,7 +1646,7 @@ var marker = [
         "Name_en": "Western Sahara",
         "확진자수": 9,
         "사망자수": 1,
-        "완치자수": 6
+        "완치자수": 8
     },
     {
         "Name": "British Virgin Islands",
