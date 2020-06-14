@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141509001&code=940100"
     },
     {
+        "title": "법원 등기소 직원, 코로나19 확진…성남 대명운수 직원 전원 음성",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4470340&ref=A"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 34명... 닷새 만에 30명대로",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006141026001&code=940100"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 확진자 5일 만에 30명대...수도권 확산세는 지속",
         "link": "https://www.ytn.co.kr/_ln/0103_202006141202367827"
-    },
-    {
-        "title": "확진자 나온 인천 효성초 등교 중단…26일까지 원격수업",
-        "link": "http://yna.kr/AKR20200614035400065?did=1195m"
     }
 ];
