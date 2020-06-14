@@ -17,15 +17,15 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/astrazeneca-agrees-to-make-covid-19-vaccine-for-europe"
     },
     {
-        "title": "US Covid-19 survivor receives $1.1 million hospital bill",
-        "link": "https://timesofindia.indiatimes.com/world/us/us-covid-19-survivor-receives-1-1-million-hospital-bill/articleshow/76366476.cms"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
     },
     {
         "title": "Coronavirus live news: China reports most cases since April as Chile minister resigns",
         "link": "https://www.theguardian.com/world/live/2020/jun/14/coronavirus-live-news-ew-beijing-cluster-sparks-fears-of-second-wave-as-brazil-cases-top-850000"
     },
     {
-        "title": "Coronavirus World News and Live Updates",
+        "title": "Live Coronavirus News Updates: Chile, Florida and NY",
         "link": "https://www.nytimes.com/2020/06/13/world/coronavirus-usa-world.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/13/876544822/beijing-in-wartime-emergency-mode-amid-fresh-cluster-of-coronavirus-cases"
     },
     {
-        "title": "Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states",
-        "link": "https://www.cnn.com/2020/06/13/health/us-coronavirus-saturday/index.html"
-    },
-    {
         "title": "Brazil's COVID-19 deaths surge past UK",
         "link": "https://www.youtube.com/watch?v=cpJLpYMP7lI"
+    },
+    {
+        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
+        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     }
 ];
