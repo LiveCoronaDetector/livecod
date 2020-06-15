@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
     },
     {
-        "title": "Asia stocks little changed as virus fears resurface; China's industrial output misses expectations",
+        "title": "Asia stocks lower as virus fears resurface; China's industrial output misses expectations",
         "link": "https://www.cnbc.com/2020/06/15/asia-markets-coronavirus-china-economy-currencies-in-focus.html"
     },
     {
