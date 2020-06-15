@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2172692,
-        "사망자수": 118068,
+        "확진자수": 2174666,
+        "사망자수": 118122,
         "완치자수": 875189
     },
     {
@@ -132,9 +132,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 99070,
+        "확진자수": 99073,
         "사망자수": 8174,
-        "완치자수": 60524
+        "완치자수": 60999
     },
     {
         "Name": "Bangladesh",
@@ -1097,20 +1097,20 @@ var marker = [
         "완치자수": 420
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "확진자수": 612,
+        "사망자수": 2,
+        "완치자수": 338
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
         "확진자수": 609,
         "사망자수": 3,
         "완치자수": 157
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "확진자수": 582,
-        "사망자수": 2,
-        "완치자수": 332
     },
     {
         "Name": "Channel Islands",
@@ -1294,7 +1294,7 @@ var marker = [
         "Name_en": "Syria",
         "확진자수": 177,
         "사망자수": 6,
-        "완치자수": 74
+        "완치자수": 78
     },
     {
         "Name": "Comoros",
@@ -1332,7 +1332,7 @@ var marker = [
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "확진자수": 142,
+        "확진자수": 144,
         "사망자수": 9,
         "완치자수": 127
     },
@@ -1484,7 +1484,7 @@ var marker = [
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "확진자수": 28,
+        "확진자수": 30,
         "사망자수": 1,
         "완치자수": 24
     },

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "Live Coronavirus Updates: Leaders Threaten New Lockdowns",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-live-updates.html"
+        "title": "U.S. doctor warns on recent uptick in virus cases, says medical system may be stressed if people aren't careful",
+        "link": "https://www.cnbc.com/2020/06/15/coronavirus-us-doctor-says-the-second-wave-has-begun.html"
     },
     {
         "title": "Coronavirus live updates: San Francisco moves further into reopening; former FDA chief warns about hot spots",
