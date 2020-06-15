@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "Mom and children hike hundreds of miles to escape lockdown",
-        "link": "https://www.cnn.com/videos/world/2020/06/15/peru-coronavirus-covid-19-pandemic-lockdown-galdos-pkg-intl-ldn-vpx.cnn"
+        "title": "Live Coronavirus Global News Updates",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
         "title": "Coronavirus live updates: San Francisco moves further into reopening; former FDA chief warns about hot spots",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Live Coronavirus Global News Updates",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
-    },
-    {
-        "title": "Nurses Were Not Equipped to Handle Coronavirus, Says Johns Hopkins",
-        "link": "https://www.youtube.com/watch?v=-Mjm7G-tvv0"
-    },
-    {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+        "title": "China's New Virus Outbreak Underscores Continued Threat",
+        "link": "https://www.huffpost.com/entry/china-new-virus-outbreak_n_5ee73f99c5b662f5854f84d4"
     },
     {
         "title": "Covid-19 can damage lungs of victims beyond recognition, expert says",
         "link": "https://www.theguardian.com/world/2020/jun/15/covid-19-can-damage-lungs-victims-beyond-recognition-expert-says"
+    },
+    {
+        "title": "As control measures lift, the coronavirus pandemic continues to grow. Here are the global hot spots.",
+        "link": "https://www.washingtonpost.com/world/2020/06/15/coronavirus-surge-new-global-hotspots/"
+    },
+    {
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     }
 ];
