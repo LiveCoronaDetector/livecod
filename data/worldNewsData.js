@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/14/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/15/other_sports/1592174675_474258.html"
+        "title": "Indian holy man who offered 'COVID exorcisms' gets infected and dies",
+        "link": "https://nypost.com/2020/06/14/indian-holy-man-who-offered-covid-exorcisms-gets-infected-and-dies/"
     },
     {
         "title": "China sees two-month high in confirmed cases of coronavirus",
         "link": "https://www.vox.com/2020/6/14/21290738/china-coronvirus-beijing-market-covid"
     },
     {
-        "title": "Trump moved Tulsa rally date after learning about Juneteenth",
-        "link": "https://www.msn.com/en-us/news/elections-2020/trump-moved-tulsa-rally-date-after-learning-about-juneteenth/ar-BB15sIyr"
+        "title": "Trump campaign claims record number of ticket requests for rescheduled Tulsa rally",
+        "link": "https://www.foxnews.com/politics/trump-campaign-claims-record-number-of-ticket-requests-for-rescheduled-tulsa-rally"
     },
     {
         "title": "Slowing the Coronavirus Is Speeding the Spread of Other Diseases",
         "link": "https://www.nytimes.com/2020/06/14/health/coronavirus-vaccines-measles.html"
     },
     {
-        "title": "Harvard study that claims coronavirus emerged last August is flawed",
-        "link": "https://news.cgtn.com/news/2020-06-14/Harvard-study-that-claims-coronavirus-emerged-last-August-is-flawed-RjIbMOmLJK/index.html"
+        "title": "Coronavirus live news: Beijing enters 'extraordinary period' as it races to contain new Covid-19 outbreak",
+        "link": "https://www.theguardian.com/world/live/2020/jun/15/coronavirus-live-news-beijing-enters-extraordinary-period-as-it-races-to-contain-new-covid-19-outbreak"
     },
     {
-        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
-        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+        "title": "Harvard study that claims coronavirus emerged last August is flawed",
+        "link": "https://news.cgtn.com/news/2020-06-14/Harvard-study-that-claims-coronavirus-emerged-last-August-is-flawed-RjIbMOmLJK/index.html"
     }
 ];
