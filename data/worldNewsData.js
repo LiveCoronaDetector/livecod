@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-15-20-intl/index.html"
+    },
+    {
         "title": "Dow set to fall 600 points as fears of a coronavirus surge grow in the US and China",
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Coronavirus live news: Covid-19 impact could kill over 50,000 children in Middle East and North Africa",
-        "link": "https://www.theguardian.com/world/live/2020/jun/15/coronavirus-live-news-beijing-enters-extraordinary-period-as-it-races-to-contain-new-covid-19-outbreak"
+        "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
+        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
     },
     {
-        "title": "NBC News called out over tweets about Trump’s Tulsa event and a 'packed' rally in Brooklyn",
-        "link": "https://www.foxnews.com/media/nbc-news-called-out-over-tweet-about-trump-rally-and-packed-crowd-in-brooklyn"
-    },
-    {
-        "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
-        "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
+        "title": "France Speeding Up Post-Lockdown Restart",
+        "link": "https://www.youtube.com/watch?v=Blw_CweTmQc"
     }
 ];
