@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "U.S. doctor warns on recent uptick in virus cases, says medical system may be stressed if people aren't careful",
-        "link": "https://www.cnbc.com/2020/06/15/coronavirus-us-doctor-says-the-second-wave-has-begun.html"
+        "title": "Live Coronavirus Updates: Leaders Threaten New Lockdowns",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus live updates: San Francisco moves further into reopening; former FDA chief warns about hot spots",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
-        "title": "China's New Virus Outbreak Underscores Continued Threat",
-        "link": "https://www.huffpost.com/entry/china-new-virus-outbreak_n_5ee73f99c5b662f5854f84d4"
-    },
-    {
         "title": "Stocks recover from coronavirus selloff",
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
+        "title": "Live updates: Top White House official says spikes in coronavirus cases are ‘small bumps’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+    },
+    {
+        "title": "Covid-19 can damage lungs of victims beyond recognition, expert says",
+        "link": "https://www.theguardian.com/world/2020/jun/15/covid-19-can-damage-lungs-victims-beyond-recognition-expert-says"
     }
 ];
