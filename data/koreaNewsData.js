@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200615063151004?did=1195m"
     },
     {
-        "title": "[속보]롯데택배 송파 물류센터 확진자 발생… ‘쿠팡’ 때 보다 직원 수 많다",
-        "link": "http://www.hankookilbo.com/news/npath/202006151198315915?did=NA"
+        "title": "롯데택배 송파 물류센터서 확진자 발생…\"같은날 근무자 159명\"(종합2보)",
+        "link": "http://yna.kr/AKR20200615063152004?did=1195m"
     },
     {
         "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
         "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
     },
     {
-        "title": "[속보] '코로나19' 37명 늘어 1만2,121명…수도권서 25명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
+        "title": "\"한 달 뒤 확진자 800명대\"…수도권 코로나 2차 대유행 경고",
+        "link": "https://www.hankyung.com/society/article/2020061580417"
     },
     {
-        "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
-        "link": "https://www.hankyung.com/life/article/2020061583117"
+        "title": "'리치웨이' 관련 코로나19 확진자 5명 추가…누적 169명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5811118_32633.html"
     },
     {
         "title": "코로나 확진 37명…수도권 지역발생 22명(종합)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200615100251530?did=1195m"
     },
     {
-        "title": "서울 확진자 오늘 9명 추가…대부분 50∼70대(종합)",
-        "link": "http://yna.kr/AKR20200615100051004?did=1195m"
+        "title": "[속보]롯데택배 송파 물류센터 확진자 발생… ‘쿠팡’ 때 보다 직원 수 많다",
+        "link": "http://www.hankookilbo.com/news/npath/202006151198315915?did=NA"
     }
 ];

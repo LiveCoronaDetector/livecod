@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
-        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+        "title": "'The second wave has begun': U.S. doctor says medical system may be stressed if people aren't careful",
+        "link": "https://www.cnbc.com/2020/06/15/coronavirus-us-doctor-says-the-second-wave-has-begun.html"
     },
     {
         "title": "Israel deports US billionaire's son for breaking virus rules",
         "link": "https://abcnews.go.com/International/wireStory/israel-deports-us-billionaires-son-breaking-virus-rules-71246139"
     },
     {
-        "title": "Coronavirus live updates: U.S. second wave could stress medical system; India cases spike despite lockdown",
-        "link": "https://www.cnbc.com/2020/06/14/coronavirus-live-updates.html"
+        "title": "Coronavirus: France announces significant lifting of restrictions",
+        "link": "https://www.bbc.com/news/world-europe-52978327"
     },
     {
         "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-15-20-intl/index.html"
+        "title": "Dow futures sink 500 points as market pullback continues, airline and retail shares decline",
+        "link": "https://www.cnbc.com/2020/06/14/stock-market-futures-open-to-close-news.html"
     },
     {
         "title": "NBC News called out over tweets about Trump’s Tulsa event and a 'packed' rally in Brooklyn",
         "link": "https://www.foxnews.com/media/nbc-news-called-out-over-tweet-about-trump-rally-and-packed-crowd-in-brooklyn"
     },
     {
-        "title": "Global stocks plunge as fears of a coronavirus surge grow in the US and China",
-        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
+        "title": "Coronavirus live news: Beijing locks down 10 residential compounds amid new outbreak",
+        "link": "https://www.theguardian.com/world/live/2020/jun/15/coronavirus-live-news-beijing-enters-extraordinary-period-as-it-races-to-contain-new-covid-19-outbreak"
     },
     {
-        "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
-        "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
+        "title": "France Speeding Up Post-Lockdown Restart",
+        "link": "https://www.youtube.com/watch?v=Blw_CweTmQc"
     }
 ];
