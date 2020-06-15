@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Beijing Coronavirus Outbreak Tied to Market Sparks Fear of Resurgence",
-        "link": "https://www.msn.com/en-us/news/world/beijing-coronavirus-outbreak-tied-to-market-sparks-fear-of-resurgence/ar-BB15sNn5"
+        "title": "Beijing reinstates some coronavirus restrictions amid new outbreak",
+        "link": "https://www.youtube.com/watch?v=TDZNQF5b8qY"
     },
     {
         "title": "Dow dives as coronavirus resurgence fears grow in the US and China",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
     },
     {
-        "title": "France Speeding Up Post-Lockdown Restart",
-        "link": "https://www.youtube.com/watch?v=Blw_CweTmQc"
+        "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
     }
 ];

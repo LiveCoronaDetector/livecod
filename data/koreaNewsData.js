@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 37명...국내 발생은 24명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006151021001&code=940601"
-    },
-    {
         "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
         "link": "https://www.hankyung.com/life/article/2020061583117"
     },
     {
         "title": "롯데택배 송파 물류센터서 확진자 발생…근무자 159명 검사",
         "link": "http://www.newsis.com/view/?id=NISX20200615_0001059745&cID=10201&pID=10200"
+    },
+    {
+        "title": "부산 코로나 확진자 1명 추가 발생",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/15/2020061501891.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
