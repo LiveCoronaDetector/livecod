@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200615063151004?did=1195m"
     },
     {
-        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
-        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
+        "title": "[속보] 확진자 나온 인천 효성·명현초 300명 전원 음성",
+        "link": "https://www.hankyung.com/life/article/2020061567137"
     },
     {
         "title": "[종합] 코로나19 확진자 37명 증가...해외 13명, 지역 24명 발생",
@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005835338&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "롯데택배 송파 물류센터서도 코로나19 확진자 발생",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02643686625802048"
+    },
+    {
+        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
+    },
+    {
         "title": "코로나19 확진 37명 증가, 수도권 중심 확산 계속",
         "link": "https://www.nocutnews.co.kr/news/5361077"
     },
     {
-        "title": "확진자 나온 인천 효성초 학생 등 300명 '전원 음성'",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061501150.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "롯데택배 송파 물류센터서 확진자…쿠팡보다 직원 많아(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200615500045&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 재확산 조짐에 또 '남 탓'하는 중국",
-        "link": "https://www.hankyung.com/international/article/202006157401i"
+        "title": "6월 15일 ‘코로나19’ 전세계 확진자 782만명…입국금지·검역 조치 182개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/15/2020061580129.html"
     },
     {
-        "title": "베이징 확진자 36명 추가 발생…총 49명(상보)",
-        "link": "https://www.news1.kr/articles/?3965078"
-    },
-    {
-        "title": "롯데택배 송파 물류센터서 확진자 발생…근무자 159명 검사",
-        "link": "http://www.newsis.com/view/?id=NISX20200615_0001059745&cID=10201&pID=10200"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 37명...국내 발생은 24명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006151021001&code=940601"
+        "title": "코로나 확진 37명…수도권 지역발생 22명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061501318.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
