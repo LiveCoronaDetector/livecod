@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200615063151004?did=1195m"
     },
     {
-        "title": "롯데택배 확진자, 8일부터 이틀간 '상차작업'…24시간 폐쇄(종합)",
-        "link": "https://www.news1.kr/articles/?3965403"
+        "title": "롯데택배 송파 물류센터서 확진자 발생…\"같은날 근무자 159명\"(종합2보)",
+        "link": "http://yna.kr/AKR20200615063152004?did=1195m"
     },
     {
-        "title": "[속보] 확진자 나온 인천 효성·명현초 300명 전원 음성",
-        "link": "https://www.hankyung.com/life/article/2020061567137"
+        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
     },
     {
-        "title": "코로나19 확진 37명 늘어…25명이 수도권",
-        "link": "http://www.hani.co.kr/arti/society/health/949358.html"
+        "title": "[속보] '코로나19' 37명 늘어 1만2,121명…수도권서 25명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
     },
     {
-        "title": "쿠팡 사태 끝나기도 전에···이번엔 롯데택배 물류센터서 확진자",
-        "link": "https://www.sedaily.com/NewsView/1Z41CIIFMF"
+        "title": "일본, 코로나19 신규 확진자 하루 75명…한 달 만에 최다",
+        "link": "http://www.hani.co.kr/arti/international/japan/949394.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 37명...국내 발생은 24명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006151021001&code=940601"
+        "title": "[종합] 코로나19 확진자 37명 중 지역 24명...리치웨이 등 꾸준히 발생",
+        "link": "http://www.fnnews.com/news/202006151440476477"
     },
     {
-        "title": "[종합] 코로나19 확진자 37명 증가...해외 13명, 지역 24명 발생",
-        "link": "http://www.fnnews.com/news/202006151019238623"
-    },
-    {
-        "title": "롯데택배 물류센터에 확진자...쿠팡보다 근무 인원 많아",
-        "link": "https://www.ytn.co.kr/_ln/0102_202006151700032278"
+        "title": "확진자 나온 인천 효성초 학생 등 300명 '전원 음성'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061501150.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "부산 코로나 확진자 1명 추가 발생",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/15/2020061501891.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
+        "link": "https://www.hankyung.com/life/article/2020061583117"
     },
     {
         "title": "리치웨이 확진자 5명 늘어 총 169명…'깜깜이 환자' 10% 넘어(종합)",

@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Record spikes in new coronavirus cases, hospitalizations sweep parts of U.S.",
-        "link": "https://www.youtube.com/watch?v=7WYjPoHl4Uk"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-15-20-intl/index.html"
     },
     {
-        "title": "Global stocks plunge as fears of a coronavirus surge grow in the US and China",
-        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
+        "title": "NBC News called out over tweets about Trump’s Tulsa event and a 'packed' rally in Brooklyn",
+        "link": "https://www.foxnews.com/media/nbc-news-called-out-over-tweet-about-trump-rally-and-packed-crowd-in-brooklyn"
     },
     {
         "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
         "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
     },
     {
-        "title": "Health Experts Link Rise In Arizona Coronavirus Cases To End Of Stay-At-Home Order",
-        "link": "https://www.npr.org/2020/06/14/876786952/health-experts-link-rise-in-arizona-coronavirus-cases-to-end-of-stay-at-home-ord"
+        "title": "Global stocks plunge as fears of a coronavirus surge grow in the US and China",
+        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     }
 ];
