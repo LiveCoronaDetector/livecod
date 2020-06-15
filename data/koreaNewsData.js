@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200615063151004?did=1195m"
     },
     {
-        "title": "롯데택배 송파 물류센터서 확진자 발생…\"같은날 근무자 159명\"(종합2보)",
-        "link": "http://yna.kr/AKR20200615063152004?did=1195m"
+        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
     },
     {
         "title": "日 코로나 신규 확진자 72명…도쿄도만 48명",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z41CIIFMF"
     },
     {
-        "title": "코로나19 확진 37명 늘어…25명이 수도권",
-        "link": "http://www.hani.co.kr/arti/society/health/949358.html"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 37명 중 지역 24명...리치웨이 등 꾸준히 발생",
-        "link": "http://www.fnnews.com/news/202006151440476477"
+        "title": "[속보] '코로나19' 37명 늘어 1만2,121명…수도권서 25명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
     },
     {
         "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
         "link": "https://www.hankyung.com/life/article/2020061583117"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 37명 중 지역 24명...리치웨이 등 꾸준히 발생",
+        "link": "http://www.fnnews.com/news/202006151440476477"
     }
 ];
