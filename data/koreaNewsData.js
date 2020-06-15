@@ -5,24 +5,28 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200615063151004?did=1195m"
     },
     {
+        "title": "'도매시장발' 베이징 확진자 급증…\"우한 때와 유사\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005835338&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "[종합] 코로나19 확진자 37명 증가...해외 13명, 지역 24명 발생",
         "link": "http://www.fnnews.com/news/202006151019238623"
+    },
+    {
+        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
     },
     {
         "title": "[속보] 코로나19 전날 37명 신규확진…수도권 25명",
         "link": "https://www.hankyung.com/society/article/2020061570517"
     },
     {
-        "title": "'도매시장발' 베이징 확진자 급증…\"우한 때와 유사\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005835338&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "확진자 나온 인천 효성초 학생 등 300명 '전원 음성'",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061501150.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "인근 허베이성도 코로나 확진자 발생···커지는 中베이징발 재확산 우려",
-        "link": "https://www.sedaily.com/NewsView/1Z41CE6PI8"
+        "title": "중국 베이징서 우한과 닮은꼴 코로나2차 확산 발생",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200615500024&wlog_tag3=naver"
     },
     {
         "title": "베이징 확진자 36명 추가 발생…총 49명(상보)",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006151021001&code=940601"
     },
     {
-        "title": "신규 확진자 37명…24명이 지역 사회 감염",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4470581&ref=A"
-    },
-    {
-        "title": "코로나19 어제 37명 신규확진…수도권 25명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020061510111971972"
+        "title": "법원 등기소 직원, 코로나19 확진…성남 대명운수 직원 전원 음성",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4470340&ref=A"
     }
 ];
