@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061504388.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]롯데택배 송파 물류센터 확진자 발생… ‘쿠팡’ 때 보다 직원 수 많다",
-        "link": "http://www.hankookilbo.com/news/npath/202006151198315915?did=NA"
+        "title": "구로 일가족 코로나19 감염…서울 확진자 12명 늘어 1132명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200615_0001060635&cID=14001&pID=14000"
+    },
+    {
+        "title": "쿠팡 사태 끝나기도 전에···이번엔 롯데택배 물류센터서 확진자",
+        "link": "https://www.sedaily.com/NewsView/1Z41CIIFMF"
     },
     {
         "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
         "link": "https://www.hankyung.com/life/article/2020061583117"
     },
     {
-        "title": "서울 확진자 오늘 9명 추가…대부분 50∼70대(종합)",
-        "link": "http://yna.kr/AKR20200615100051004?did=1195m"
+        "title": "롯데택배 물류센터에 확진자...쿠팡보다 근무 인원 많아",
+        "link": "https://www.ytn.co.kr/_ln/0102_202006151700032278"
     },
     {
         "title": "[속보] '코로나19' 37명 늘어 1만2,121명…수도권서 25명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
-    },
-    {
-        "title": "부산 코로나 확진자 1명 추가 발생",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/15/2020061501891.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
