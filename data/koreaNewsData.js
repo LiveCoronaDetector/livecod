@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
-        "title": "롯데택배 송파 물류센터서 코로나19 확진자 발생(종합)",
-        "link": "http://yna.kr/AKR20200615063151004?did=1195m"
-    },
-    {
         "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
         "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
+    },
+    {
+        "title": "롯데택배 송파 물류센터서 코로나19 확진자 발생(종합)",
+        "link": "http://yna.kr/AKR20200615063151004?did=1195m"
     },
     {
         "title": "日 코로나 신규 확진자 72명…도쿄도만 48명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061504388.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "롯데택배 서울 송파 물류센터서 확진자 발생…센터 폐쇄",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5810866_32633.html"
-    },
-    {
         "title": "쿠팡 사태 끝나기도 전에···이번엔 롯데택배 물류센터서 확진자",
         "link": "https://www.sedaily.com/NewsView/1Z41CIIFMF"
+    },
+    {
+        "title": "롯데택배 송파 물류센터서 확진자 발생…\"같은날 근무자 159명\"(종합2보)",
+        "link": "http://yna.kr/AKR20200615063152004?did=1195m"
     },
     {
         "title": "[속보] '코로나19' 37명 늘어 1만2,121명…수도권서 25명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020061583117"
     },
     {
-        "title": "[종합] 코로나19 확진자 37명 중 지역 24명...리치웨이 등 꾸준히 발생",
-        "link": "http://www.fnnews.com/news/202006151440476477"
+        "title": "코로나19 확진자에 서울중부등기소 '폐쇄' 조치",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/15/2020061590063.html"
     }
 ];
