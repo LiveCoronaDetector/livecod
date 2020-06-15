@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/15/asia-markets-coronavirus-china-economy-currencies-in-focus.html"
     },
     {
-        "title": "Coronavirus live news: Beijing enters 'extraordinary period' as it races to contain new Covid-19 outbreak",
+        "title": "Coronavirus live news: Beijing locks down 10 residential compounds amid new outbreak",
         "link": "https://www.theguardian.com/world/live/2020/jun/15/coronavirus-live-news-beijing-enters-extraordinary-period-as-it-races-to-contain-new-covid-19-outbreak"
     },
     {
-        "title": "Trump moved Tulsa rally date after learning about Juneteenth",
-        "link": "https://www.msn.com/en-us/news/elections-2020/trump-moved-tulsa-rally-date-after-learning-about-juneteenth/ar-BB15sIyr"
+        "title": "Trump campaign claims record number of ticket requests for rescheduled Tulsa rally",
+        "link": "https://www.foxnews.com/politics/trump-campaign-claims-record-number-of-ticket-requests-for-rescheduled-tulsa-rally"
     },
     {
         "title": "US stock futures fall, suggesting the continued fear of a coronavirus second wave",
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
-        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+        "title": "Health Experts Link Rise In Arizona Coronavirus Cases To End Of Stay-At-Home Order",
+        "link": "https://www.npr.org/2020/06/14/876786952/health-experts-link-rise-in-arizona-coronavirus-cases-to-end-of-stay-at-home-ord"
     }
 ];
