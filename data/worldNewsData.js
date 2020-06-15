@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "Live Coronavirus Global News Updates",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Europe reopens, Beijing outbreak revives need for vigilance",
+        "link": "https://www.live5news.com/2020/06/15/chinas-new-virus-outbreak-underscores-continued-threat/"
     },
     {
         "title": "Coronavirus live updates: San Francisco moves further into reopening; former FDA chief warns about hot spots",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/15/covid-19-can-damage-lungs-victims-beyond-recognition-expert-says"
     },
     {
-        "title": "As control measures lift, the coronavirus pandemic continues to grow. Here are the global hot spots.",
-        "link": "https://www.washingtonpost.com/world/2020/06/15/coronavirus-surge-new-global-hotspots/"
+        "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+        "title": "Live updates: Top White House official says spikes in coronavirus cases are ‘small bumps’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
     }
 ];
