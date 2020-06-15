@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/International/wireStory/israel-deports-us-billionaires-son-breaking-virus-rules-71246139"
     },
     {
-        "title": "Coronavirus live updates: India cases spike despite lockdown; France to reopen Paris restaurants",
+        "title": "Coronavirus live updates: U.S. second wave could stress medical system; India cases spike despite lockdown",
         "link": "https://www.cnbc.com/2020/06/14/coronavirus-live-updates.html"
     },
     {
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=7WYjPoHl4Uk"
     },
     {
-        "title": "Dow futures plunge more than 800 points as fears of a coronavirus second wave grow",
-        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
-    },
-    {
         "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
         "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
+    },
+    {
+        "title": "Dow futures plunge more than 800 points as fears of a coronavirus second wave grow",
+        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
         "title": "Health Experts Link Rise In Arizona Coronavirus Cases To End Of Stay-At-Home Order",
