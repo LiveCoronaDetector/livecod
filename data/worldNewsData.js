@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
     },
     {
-        "title": "Coronavirus: Beijing lockdown spreads in race to control outbreak",
-        "link": "https://www.scmp.com/news/china/society/article/3089042/coronavirus-beijing-market-outbreak-cases-rise-79"
+        "title": "China's new coronavirus outbreak sees Beijing adopt 'wartime' measures as capital races to contain spread",
+        "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
         "title": "Record spikes in new coronavirus cases, hospitalizations sweep parts of U.S.",
         "link": "https://www.youtube.com/watch?v=7WYjPoHl4Uk"
     },
     {
-        "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
-        "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
+        "title": "Global stocks plunge as fears of a coronavirus surge grow in the US and China",
+        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Dow futures plunge more than 800 points as fears of a coronavirus second wave grow",
-        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
+        "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
+        "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
     },
     {
         "title": "Health Experts Link Rise In Arizona Coronavirus Cases To End Of Stay-At-Home Order",
