@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
     },
     {
-        "title": "'The country is adrift': echoes of Spanish flu as Brazil's Covid-19 catastrophe deepens",
-        "link": "https://www.theguardian.com/world/2020/jun/14/brazil-coronavirus-spanish-flu"
+        "title": "Coronavirus US live updates: cases, deaths and stimulus checks today",
+        "link": "https://en.as.com/en/2020/06/15/other_sports/1592173530_866068.html"
     },
     {
-        "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6fd22b70-ae9b-11ea-8ee3-4f3ac1ab7f08&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "title": "Israel deports US billionaire's son for breaking virus rules",
+        "link": "https://abcnews.go.com/International/wireStory/israel-deports-us-billionaires-son-breaking-virus-rules-71246139"
     },
     {
         "title": "Coronavirus live updates: Germany's contact tracing app to go live, France to reopen Paris restaurants",
         "link": "https://www.cnbc.com/2020/06/14/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/15/other_sports/1592174675_474258.html"
     },
     {
         "title": "China sees two-month high in confirmed cases of coronavirus",
         "link": "https://www.vox.com/2020/6/14/21290738/china-coronvirus-beijing-market-covid"
     },
     {
-        "title": "Trump's Walk Down Ramp at West Point Raises Health Questions",
-        "link": "https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html"
+        "title": "Trump moved Tulsa rally date after learning about Juneteenth",
+        "link": "https://www.msn.com/en-us/news/elections-2020/trump-moved-tulsa-rally-date-after-learning-about-juneteenth/ar-BB15sIyr"
     },
     {
         "title": "Slowing the Coronavirus Is Speeding the Spread of Other Diseases",
         "link": "https://www.nytimes.com/2020/06/14/health/coronavirus-vaccines-measles.html"
     },
     {
-        "title": "Scientists report flaws in WHO-funded study on 2-metre distancing",
-        "link": "https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing"
+        "title": "Harvard study that claims coronavirus emerged last August is flawed",
+        "link": "https://news.cgtn.com/news/2020-06-14/Harvard-study-that-claims-coronavirus-emerged-last-August-is-flawed-RjIbMOmLJK/index.html"
     },
     {
-        "title": "Wake County tops 3,000 coronavirus cases, lockdown restrictions ease across the world",
-        "link": "https://www.wral.com/coronavirus/wake-county-tops-3-000-coronavirus-cases-lockdown-restrictions-ease-across-the-world/19144285/"
+        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
+        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     }
 ];
