@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
-        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
-        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
-    },
-    {
         "title": "롯데택배 송파 물류센터서 코로나19 확진자 발생(종합)",
         "link": "http://yna.kr/AKR20200615063151004?did=1195m"
+    },
+    {
+        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
     },
     {
         "title": "日 코로나 신규 확진자 72명…도쿄도만 48명",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
     },
     {
+        "title": "WHO “베이징 코로나19 집단감염, 중요 사건”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200616000006"
+    },
+    {
         "title": "[유럽증시] 코로나19 재확산 우려 속 일제히 하락",
         "link": "http://yna.kr/AKR20200616003100098?did=1195m"
     },
     {
         "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
         "link": "https://www.hankyung.com/life/article/2020061583117"
-    },
-    {
-        "title": "코로나19 확진자에 서울중부등기소 '폐쇄' 조치",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/15/2020061590063.html"
     }
 ];
