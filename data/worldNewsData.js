@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.msn.com/en-us/news/world/beijing-coronavirus-outbreak-tied-to-market-sparks-fear-of-resurgence/ar-BB15sNn5"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-15-20-intl/index.html"
+        "title": "Dow dives as coronavirus resurgence fears grow in the US and China",
+        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
         "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
         "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
     },
     {
-        "title": "Dow dives as coronavirus resurgence fears grow in the US and China",
-        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
+        "title": "France Speeding Up Post-Lockdown Restart",
+        "link": "https://www.youtube.com/watch?v=Blw_CweTmQc"
     }
 ];
