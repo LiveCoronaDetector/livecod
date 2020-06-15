@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
     },
     {
-        "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
-        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+        "title": "'The second wave has begun': U.S. doctor says medical system may be stressed if people aren't careful",
+        "link": "https://www.cnbc.com/2020/06/15/coronavirus-us-doctor-says-the-second-wave-has-begun.html"
     },
     {
         "title": "Israel deports US billionaire's son for breaking virus rules",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
     },
     {
-        "title": "Asia stocks lower as virus fears resurface; China's industrial output misses expectations",
-        "link": "https://www.cnbc.com/2020/06/15/asia-markets-coronavirus-china-economy-currencies-in-focus.html"
-    },
-    {
-        "title": "US records 382 virus deaths in 24 hours, lowest in weeks: Johns Hopkins",
-        "link": "https://timesofindia.indiatimes.com/world/us/us-records-382-virus-deaths-in-24-hours-lowest-in-weeks-johns-hopkins/articleshow/76378014.cms"
-    },
-    {
-        "title": "Health Expert Calls Trump's Tulsa Rally 'Extraordinarily Dangerous Move’",
-        "link": "https://www.huffpost.com/entry/trump-tulsa-rally-coronavirus-dangerous_n_5ee61910c5b6734d8c9112ce"
+        "title": "Coronavirus: Beijing lockdown spreads in race to control outbreak",
+        "link": "https://www.scmp.com/news/china/society/article/3089042/coronavirus-beijing-market-outbreak-cases-rise-79"
     },
     {
         "title": "Dow futures fall 600 points, suggesting the continued fear of a coronavirus second wave",
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
+        "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
+        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+    },
+    {
         "title": "Health Experts Link Rise In Arizona Coronavirus Cases To End Of Stay-At-Home Order",
         "link": "https://www.npr.org/2020/06/14/876786952/health-experts-link-rise-in-arizona-coronavirus-cases-to-end-of-stay-at-home-ord"
+    },
+    {
+        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
+        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     }
 ];
