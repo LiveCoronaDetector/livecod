@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/trump-campaign-claims-record-number-of-ticket-requests-for-rescheduled-tulsa-rally"
     },
     {
-        "title": "Amid Growing Death Toll in Brazil, Bolsonaro's Handling of the Covid-19 Pandemic Condemned as 'Pitiful'",
-        "link": "https://www.commondreams.org/news/2020/06/14/amid-growing-death-toll-brazil-bolsonaros-handling-covid-19-pandemic-condemned"
-    },
-    {
         "title": "Health Experts Link Rise In Arizona Coronavirus Cases To End Of Stay-At-Home Order",
         "link": "https://www.npr.org/2020/06/14/876786952/health-experts-link-rise-in-arizona-coronavirus-cases-to-end-of-stay-at-home-ord"
+    },
+    {
+        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
+        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     }
 ];
