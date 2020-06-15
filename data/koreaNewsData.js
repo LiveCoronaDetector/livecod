@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200615063151004?did=1195m"
     },
     {
+        "title": "롯데택배 물류센터서 코로나 확진자… “같은날 일한 159명 전수 검사”(종합...",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061501569.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
+    },
+    {
         "title": "[종합] 코로나19 확진자 37명 증가...해외 13명, 지역 24명 발생",
         "link": "http://www.fnnews.com/news/202006151019238623"
     },
     {
-        "title": "코로나19 확진 37명 늘어…25명이 수도권",
-        "link": "http://www.hani.co.kr/arti/society/health/949358.html"
-    },
-    {
-        "title": "'도매시장발' 베이징 확진자 급증…\"우한 때와 유사\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005835338&plink=ORI&cooper=NAVER"
+        "title": "[속보] 코로나19 신규 확진자 37명...국내 발생은 24명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006151021001&code=940601"
     },
     {
         "title": "[속보] 확진자 나온 인천 효성·명현초 300명 전원 음성",
         "link": "https://www.hankyung.com/life/article/2020061567137"
     },
     {
-        "title": "롯데택배 물류센터서 코로나 확진자… “같은날 일한 159명 전수 검사”(종합...",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061501569.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "송파구 롯데택배 물류센터에서 확진자 발생",
-        "link": "https://www.ytn.co.kr/_ln/0102_202006151119556124"
-    },
-    {
-        "title": "베이징 신규 코로나19 또 36명 늘어…허베이 확진자도 신파디 관련",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006151012001&code=970204"
-    },
-    {
         "title": "6월 15일 ‘코로나19’ 전세계 확진자 782만명…입국금지·검역 조치 182개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/15/2020061580129.html"
     },
     {
-        "title": "[속보] '코로나19' 37명 늘어 1만2,121명…수도권서 25명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
+        "title": "동작구청 \"사당1동서 코로나19 확진자 발생\"[속보]",
+        "link": "http://www.kjdaily.com/read.php3?aid=1592181320514061208"
+    },
+    {
+        "title": "신규 확진자 37명…24명이 지역 사회 감염",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4470581&ref=A"
+    },
+    {
+        "title": "부산 코로나 확진자 1명 추가 발생",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/15/2020061501891.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
