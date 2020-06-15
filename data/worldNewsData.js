@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "U.S. doctor warns on recent uptick in virus cases, says medical system may be stressed if people aren't careful",
-        "link": "https://www.cnbc.com/2020/06/15/coronavirus-us-doctor-says-the-second-wave-has-begun.html"
+        "title": "Live Coronavirus Updates: Leaders Threaten New Lockdowns",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus live updates: Red Cross to test donations, U.S. restaurant industry lost $120 billion in sales",
+        "title": "Coronavirus live updates: U.S. restaurant industry took $120 billion hit; former FDA chief warns about hot spots",
         "link": "https://www.cnbc.com/2020/06/15/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus: France announces significant lifting of restrictions",
-        "link": "https://www.bbc.com/news/world-europe-52978327"
+        "title": "Four European nations to pay $843 million for AstraZeneca's coronavirus vaccine",
+        "link": "https://www.cnbc.com/2020/06/15/italy-france-the-netherlands-germany-to-pay-843-million-vaccine.html"
     },
     {
         "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Beijing reinstates some coronavirus restrictions amid new outbreak",
-        "link": "https://www.youtube.com/watch?v=TDZNQF5b8qY"
+        "title": "FDA ends emergency use of hydroxychloroquine for coronavirus",
+        "link": "https://www.politico.com/news/2020/06/15/fda-ends-emergency-use-of-hydroxychloroquine-319872"
     },
     {
         "title": "Dow dives as coronavirus resurgence fears grow in the US and China",
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
-        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
-    },
-    {
         "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
+    },
+    {
+        "title": "Live updates: FDA pulls emergency authorization for hydroxychloroquine as covid-19 treatment",
+        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
     }
 ];
