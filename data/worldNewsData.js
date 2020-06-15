@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/15/asia-markets-coronavirus-china-economy-currencies-in-focus.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-15-20-intl/index.html"
+        "title": "US records 382 virus deaths in 24 hours, lowest in weeks: Johns Hopkins",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-records-382-virus-deaths-in-24-hours-lowest-in-weeks-johns-hopkins/articleshow/76378014.cms"
     },
     {
-        "title": "Record spikes in new coronavirus cases, hospitalizations sweep parts of U.S.",
-        "link": "https://www.youtube.com/watch?v=7WYjPoHl4Uk"
+        "title": "Health Expert Calls Trump's Tulsa Rally 'Extraordinarily Dangerous Move’",
+        "link": "https://www.huffpost.com/entry/trump-tulsa-rally-coronavirus-dangerous_n_5ee61910c5b6734d8c9112ce"
     },
     {
         "title": "Dow futures fall 600 points, suggesting the continued fear of a coronavirus second wave",
