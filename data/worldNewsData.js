@@ -10,31 +10,31 @@ var worldNewsData = [
     },
     {
         "title": "Greece Beat the Coronavirus. Can Tourists Now Save Its Economy?",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=24eba860-ae97-11ea-866e-37b2f99813f5&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6fd22b70-ae9b-11ea-8ee3-4f3ac1ab7f08&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNC9ncmVlY2UtYmVhdC10aGUtY29yb25hdmlydXMtY2FuLXRvdXJpc3RzLW5vdy1zYXZlLWl0cy1lY29ub215"
     },
     {
         "title": "Coronavirus live updates: Germany's contact tracing app to go live, France to reopen Paris restaurants",
         "link": "https://www.cnbc.com/2020/06/14/coronavirus-live-updates.html"
     },
     {
-        "title": "Indian holy man who offered 'COVID exorcisms' gets infected and dies",
-        "link": "https://nypost.com/2020/06/14/indian-holy-man-who-offered-covid-exorcisms-gets-infected-and-dies/"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-14-20-intl/index.html"
     },
     {
         "title": "China sees two-month high in confirmed cases of coronavirus",
         "link": "https://www.vox.com/2020/6/14/21290738/china-coronvirus-beijing-market-covid"
     },
     {
-        "title": "Trump campaign claims record number of ticket requests for rescheduled Tulsa rally",
-        "link": "https://www.foxnews.com/politics/trump-campaign-claims-record-number-of-ticket-requests-for-rescheduled-tulsa-rally"
+        "title": "Trump's Walk Down Ramp at West Point Raises Health Questions",
+        "link": "https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html"
     },
     {
-        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
-        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
+        "title": "Slowing the Coronavirus Is Speeding the Spread of Other Diseases",
+        "link": "https://www.nytimes.com/2020/06/14/health/coronavirus-vaccines-measles.html"
     },
     {
-        "title": "Dozens of new coronavirus cases tracked to Beijing food market | DW News",
-        "link": "https://www.youtube.com/watch?v=UfKne2VfIvw"
+        "title": "Scientists report flaws in WHO-funded study on 2-metre distancing",
+        "link": "https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing"
     },
     {
         "title": "Wake County tops 3,000 coronavirus cases, lockdown restrictions ease across the world",

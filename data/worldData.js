@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2161447,
+        "확진자수": 2161598,
         "사망자수": 117853,
-        "완치자수": 867074
+        "완치자수": 867723
     },
     {
         "Name": "브라질",
@@ -433,20 +433,20 @@ var marker = [
         "완치자수": 11068
     },
     {
+        "Name": "Ghana",
+        "Name_ch": "",
+        "Name_en": "Ghana",
+        "확진자수": 11964,
+        "사망자수": 54,
+        "완치자수": 4258
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
         "확진자수": 11740,
         "사망자수": 406,
         "완치자수": 6623
-    },
-    {
-        "Name": "Ghana",
-        "Name_ch": "",
-        "Name_en": "Ghana",
-        "확진자수": 11422,
-        "사망자수": 51,
-        "완치자수": 4156
     },
     {
         "Name": "알제리",
@@ -500,7 +500,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 8629,
+        "확진자수": 8631,
         "사망자수": 242,
         "완치자수": 8138
     },
@@ -801,6 +801,14 @@ var marker = [
         "완치자수": 1088
     },
     {
+        "Name": "Mauritania",
+        "Name_ch": "",
+        "Name_en": "Mauritania",
+        "확진자수": 1783,
+        "사망자수": 87,
+        "완치자수": 332
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
@@ -823,14 +831,6 @@ var marker = [
         "확진자수": 1693,
         "사망자수": 27,
         "완치자수": 49
-    },
-    {
-        "Name": "Mauritania",
-        "Name_ch": "",
-        "Name_en": "Mauritania",
-        "확진자수": 1682,
-        "사망자수": 83,
-        "완치자수": 311
     },
     {
         "Name": "슬로바키아",
@@ -966,7 +966,7 @@ var marker = [
         "Name_en": "Niger",
         "확진자수": 980,
         "사망자수": 66,
-        "완치자수": 881
+        "완치자수": 885
     },
     {
         "Name": "Cyprus",
@@ -1020,9 +1020,9 @@ var marker = [
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "확진자수": 847,
+        "확진자수": 848,
         "사망자수": 23,
-        "완치자수": 784
+        "완치자수": 788
     },
     {
         "Name": "Cabo Verde",
