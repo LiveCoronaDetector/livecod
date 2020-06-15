@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "China braced for coronavirus resurgence amid fresh cases",
-        "link": "https://uk.news.yahoo.com/china-braced-coronavirus-resurgence-amid-064218287.html"
-    },
-    {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
-        "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
+        "title": "China's New Virus Outbreak Underscores Continued Threat",
+        "link": "https://www.huffpost.com/entry/china-new-virus-outbreak_n_5ee73f99c5b662f5854f84d4"
     },
     {
-        "title": "Live updates: Top White House official says spikes in coronavirus cases are ‘small bumps’",
-        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+        "title": "Stocks recover from coronavirus selloff",
+        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
+    },
+    {
+        "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
     }
 ];
