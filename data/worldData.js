@@ -1092,7 +1092,7 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 615,
+        "확진자수": 617,
         "사망자수": 10,
         "완치자수": 420
     },

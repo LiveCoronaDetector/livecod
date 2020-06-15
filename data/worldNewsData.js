@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
     },
     {
-        "title": "Coronavirus US live updates: cases, deaths and stimulus checks today",
-        "link": "https://en.as.com/en/2020/06/15/other_sports/1592173530_866068.html"
+        "title": "'The country is adrift': echoes of Spanish flu as Brazil's Covid-19 catastrophe deepens",
+        "link": "https://www.theguardian.com/world/2020/jun/14/brazil-coronavirus-spanish-flu"
     },
     {
         "title": "Israel deports US billionaire's son for breaking virus rules",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/14/coronavirus-live-updates.html"
     },
     {
-        "title": "Indian holy man who offered 'COVID exorcisms' gets infected and dies",
-        "link": "https://nypost.com/2020/06/14/indian-holy-man-who-offered-covid-exorcisms-gets-infected-and-dies/"
+        "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
+        "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
     },
     {
         "title": "China sees two-month high in confirmed cases of coronavirus",
         "link": "https://www.vox.com/2020/6/14/21290738/china-coronvirus-beijing-market-covid"
     },
     {
-        "title": "Trump campaign claims record number of ticket requests for rescheduled Tulsa rally",
-        "link": "https://www.foxnews.com/politics/trump-campaign-claims-record-number-of-ticket-requests-for-rescheduled-tulsa-rally"
-    },
-    {
-        "title": "Slowing the Coronavirus Is Speeding the Spread of Other Diseases",
-        "link": "https://www.nytimes.com/2020/06/14/health/coronavirus-vaccines-measles.html"
-    },
-    {
         "title": "Coronavirus live news: Beijing enters 'extraordinary period' as it races to contain new Covid-19 outbreak",
         "link": "https://www.theguardian.com/world/live/2020/jun/15/coronavirus-live-news-beijing-enters-extraordinary-period-as-it-races-to-contain-new-covid-19-outbreak"
     },
     {
-        "title": "Harvard study that claims coronavirus emerged last August is flawed",
-        "link": "https://news.cgtn.com/news/2020-06-14/Harvard-study-that-claims-coronavirus-emerged-last-August-is-flawed-RjIbMOmLJK/index.html"
+        "title": "Trump campaign claims record number of ticket requests for rescheduled Tulsa rally",
+        "link": "https://www.foxnews.com/politics/trump-campaign-claims-record-number-of-ticket-requests-for-rescheduled-tulsa-rally"
+    },
+    {
+        "title": "Amid Growing Death Toll in Brazil, Bolsonaro's Handling of the Covid-19 Pandemic Condemned as 'Pitiful'",
+        "link": "https://www.commondreams.org/news/2020/06/14/amid-growing-death-toll-brazil-bolsonaros-handling-covid-19-pandemic-condemned"
+    },
+    {
+        "title": "US stock futures fall, suggesting continued fear of a coronavirus second wave",
+        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     }
 ];
