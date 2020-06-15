@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus live updates: U.S. restaurant industry took $120 billion hit; former FDA chief warns about hot spots",
+        "title": "Coronavirus live updates: U.S. restaurant industry takes $120 billion hit; former FDA chief warns about hot spots",
         "link": "https://www.cnbc.com/2020/06/15/coronavirus-live-updates.html"
     },
     {
@@ -25,11 +25,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "FDA ends emergency use of hydroxychloroquine for coronavirus",
-        "link": "https://www.politico.com/news/2020/06/15/fda-ends-emergency-use-of-hydroxychloroquine-319872"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-15-20-intl/index.html"
     },
     {
-        "title": "Dow dives as coronavirus resurgence fears grow in the US and China",
+        "title": "Dow slides as coronavirus resurgence fears grow in the US and China",
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: FDA pulls emergency authorization for hydroxychloroquine as covid-19 treatment",
-        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+        "link": "https://www.washingtonpost.com/nation/2020/06/14/coronavirus-live-updates-us/?rand=4"
     }
 ];
