@@ -2,19 +2,19 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Uganda, Ghana... cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
+        "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "'The second wave has begun': U.S. doctor says medical system may be stressed if people aren't careful",
-        "link": "https://www.cnbc.com/2020/06/15/coronavirus-us-doctor-says-the-second-wave-has-begun.html"
+        "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
+        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
     },
     {
         "title": "Israel deports US billionaire's son for breaking virus rules",
         "link": "https://abcnews.go.com/International/wireStory/israel-deports-us-billionaires-son-breaking-virus-rules-71246139"
     },
     {
-        "title": "Coronavirus: France announces significant lifting of restrictions",
-        "link": "https://www.bbc.com/news/world-europe-52978327"
+        "title": "Coronavirus live updates: India cases spike despite lockdown; France to reopen Paris restaurants",
+        "link": "https://www.cnbc.com/2020/06/14/coronavirus-live-updates.html"
     },
     {
         "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/society/article/3089042/coronavirus-beijing-market-outbreak-cases-rise-79"
     },
     {
-        "title": "Dow futures fall 600 points, suggesting the continued fear of a coronavirus second wave",
+        "title": "Record spikes in new coronavirus cases, hospitalizations sweep parts of U.S.",
+        "link": "https://www.youtube.com/watch?v=7WYjPoHl4Uk"
+    },
+    {
+        "title": "Dow futures plunge more than 800 points as fears of a coronavirus second wave grow",
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
-        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+        "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
+        "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
     },
     {
         "title": "Health Experts Link Rise In Arizona Coronavirus Cases To End Of Stay-At-Home Order",
         "link": "https://www.npr.org/2020/06/14/876786952/health-experts-link-rise-in-arizona-coronavirus-cases-to-end-of-stay-at-home-ord"
-    },
-    {
-        "title": "Are Nations Safer From the Coronavirus When Women Lead?",
-        "link": "https://www.nytimes.com/2020/06/13/opinion/sunday/women-leaders-coronavirus.html"
     }
 ];
