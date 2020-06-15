@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "'The second wave has begun': U.S. doctor says medical system may be stressed if people aren't careful",
+        "title": "U.S. doctor warns on recent uptick in virus cases, says medical system may be stressed if people aren't careful",
         "link": "https://www.cnbc.com/2020/06/15/coronavirus-us-doctor-says-the-second-wave-has-begun.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "The next once-a-century pandemic is coming sooner than you think — but COVID-19 can help us get ready",
-        "link": "https://www.downtoearth.org.in/blog/health/the-next-once-a-century-pandemic-is-coming-sooner-than-you-think-but-covid-19-can-help-us-get-ready-71755"
-    },
-    {
         "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
         "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+    },
+    {
+        "title": "Coronavirus: Beijing spike continues with 36 new cases",
+        "link": "https://www.bbc.com/news/world-asia-china-53046454"
     }
 ];
