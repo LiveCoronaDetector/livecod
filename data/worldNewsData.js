@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-15-20-intl/index.html"
-    },
-    {
         "title": "Dow slides as coronavirus resurgence fears grow in the US and China",
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
@@ -38,6 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: FDA pulls emergency authorization for hydroxychloroquine as covid-19 treatment",
-        "link": "https://www.washingtonpost.com/nation/2020/06/14/coronavirus-live-updates-us/?rand=4"
+        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+    },
+    {
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     }
 ];
