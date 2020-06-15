@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061501569.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 확진자 오늘 9명 추가…대부분 50∼70대(종합)",
-        "link": "http://yna.kr/AKR20200615100051004?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 37명...국내 발생은 24명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006151021001&code=940601"
+    },
+    {
+        "title": "코로나19 확진 37명 증가, 수도권 중심 확산 계속",
+        "link": "https://www.nocutnews.co.kr/news/5361077"
     }
 ];

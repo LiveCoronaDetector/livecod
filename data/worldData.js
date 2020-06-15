@@ -4,7 +4,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2162406,
+        "확진자수": 2162484,
         "사망자수": 117859,
         "완치자수": 870077
     },
@@ -124,9 +124,9 @@ var marker = [
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "확진자수": 127541,
-        "사망자수": 972,
-        "완치자수": 84720
+        "확진자수": 132048,
+        "사망자수": 1011,
+        "완치자수": 87890
     },
     {
         "Name": "캐나다",
@@ -269,8 +269,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Argentina",
         "확진자수": 31577,
-        "사망자수": 833,
-        "완치자수": 9564
+        "사망자수": 842,
+        "완치자수": 9891
     },
     {
         "Name": "스위스",
@@ -657,20 +657,20 @@ var marker = [
         "완치자수": 1286
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 3521,
+        "사망자수": 60,
+        "완치자수": 620
+    },
+    {
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
         "확진자수": 3463,
         "사망자수": 23,
         "완치자수": 1024
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 3345,
-        "사망자수": 57,
-        "완치자수": 545
     },
     {
         "Name": "Bulgaria",
@@ -945,20 +945,20 @@ var marker = [
         "완치자수": 1067
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "확진자수": 1110,
+        "사망자수": 49,
+        "완치자수": 999
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
         "확진자수": 1097,
         "사망자수": 28,
         "완치자수": 845
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "확진자수": 1096,
-        "사망자수": 49,
-        "완치자수": 998
     },
     {
         "Name": "Cyprus",
@@ -1529,20 +1529,20 @@ var marker = [
         "완치자수": 16
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 21,
+        "사망자수": 2,
+        "완치자수": 16
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
         "확진자수": 21,
         "사망자수": 0,
         "완치자수": 20
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 20,
-        "사망자수": 2,
-        "완치자수": 16
     },
     {
         "Name": "Laos",

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/15/coronavirus-us-doctor-says-the-second-wave-has-begun.html"
     },
     {
-        "title": "Israel deports US billionaire's son for breaking virus rules",
-        "link": "https://abcnews.go.com/International/wireStory/israel-deports-us-billionaires-son-breaking-virus-rules-71246139"
+        "title": "Coronavirus live updates: Greece restarts tourism; European vaccine deal totals $843 million",
+        "link": "https://www.cnbc.com/2020/06/15/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus: France announces significant lifting of restrictions",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
-        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
+        "title": "The next once-a-century pandemic is coming sooner than you think — but COVID-19 can help us get ready",
+        "link": "https://www.downtoearth.org.in/blog/health/the-next-once-a-century-pandemic-is-coming-sooner-than-you-think-but-covid-19-can-help-us-get-ready-71755"
     },
     {
-        "title": "France Speeding Up Post-Lockdown Restart",
-        "link": "https://www.youtube.com/watch?v=Blw_CweTmQc"
+        "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
+        "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
     }
 ];
