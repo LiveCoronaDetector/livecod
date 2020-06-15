@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/nbc-news-called-out-over-tweet-about-trump-rally-and-packed-crowd-in-brooklyn"
     },
     {
-        "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
-        "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
-    },
-    {
         "title": "Global stocks plunge as fears of a coronavirus surge grow in the US and China",
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
+    },
+    {
+        "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
+        "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
     }
 ];

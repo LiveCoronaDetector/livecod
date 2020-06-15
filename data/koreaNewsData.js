@@ -17,8 +17,16 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
     },
     {
+        "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
+        "link": "https://www.hankyung.com/life/article/2020061583117"
+    },
+    {
         "title": "일본, 코로나19 신규 확진자 하루 75명…한 달 만에 최다",
         "link": "http://www.hani.co.kr/arti/international/japan/949394.html"
+    },
+    {
+        "title": "롯데택배 송파 물류센터서 확진자…\"같은 날 근무 159명\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005836048&plink=ORI&cooper=NAVER"
     },
     {
         "title": "[종합] 코로나19 확진자 37명 중 지역 24명...리치웨이 등 꾸준히 발생",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "부산 코로나 확진자 1명 추가 발생",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/15/2020061501891.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
-        "link": "https://www.hankyung.com/life/article/2020061583117"
-    },
-    {
-        "title": "리치웨이 확진자 5명 늘어 총 169명…'깜깜이 환자' 10% 넘어(종합)",
-        "link": "http://yna.kr/AKR20200615100251530?did=1195m"
     }
 ];
