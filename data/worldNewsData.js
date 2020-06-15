@@ -5,11 +5,11 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "Live Coronavirus Updates: Leaders Threaten New Lockdowns",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-live-updates.html"
+        "title": "U.S. doctor warns on recent uptick in virus cases, says medical system may be stressed if people aren't careful",
+        "link": "https://www.cnbc.com/2020/06/15/coronavirus-us-doctor-says-the-second-wave-has-begun.html"
     },
     {
-        "title": "Coronavirus live updates: Greece restarts tourism; European vaccine deal totals $843 million",
+        "title": "Coronavirus live updates: Red Cross to test donations, U.S. restaurant industry lost $120 billion in sales",
         "link": "https://www.cnbc.com/2020/06/15/coronavirus-live-updates.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Beijing lockdown tightens as new coronavirus outbreak spreads",
-        "link": "https://www.theguardian.com/world/2020/jun/15/beijing-lockdown-tightens-as-new-coronavirus-outbreak-spreads"
-    },
-    {
         "title": "Live updates: Public health experts warn of coronavirus risks at Trump’s Tulsa rally",
         "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
     },
     {
-        "title": "Coronavirus: Beijing spike continues with 36 new cases",
-        "link": "https://www.bbc.com/news/world-asia-china-53046454"
+        "title": "France Speeding Up Post-Lockdown Restart",
+        "link": "https://www.youtube.com/watch?v=Blw_CweTmQc"
+    },
+    {
+        "title": "China's response to COVID-19 better than U.S.'s, global poll finds",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-democracy/chinas-response-to-covid-19-better-than-u-s-s-global-poll-finds-idUSKBN23M1LE"
     }
 ];
