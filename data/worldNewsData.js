@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/14/other_sports/1592113836_951484.html"
     },
     {
-        "title": "'The country is adrift': echoes of Spanish flu as Brazil's Covid-19 catastrophe deepens",
-        "link": "https://www.theguardian.com/world/2020/jun/14/brazil-coronavirus-spanish-flu"
+        "title": "Live updates: Trump’s upcoming rally presents coronavirus risks, health experts warn",
+        "link": "https://www.washingtonpost.com/nation/2020/06/14/coronavirus-live-updates-us/"
     },
     {
         "title": "Israel deports US billionaire's son for breaking virus rules",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.commondreams.org/news/2020/06/14/amid-growing-death-toll-brazil-bolsonaros-handling-covid-19-pandemic-condemned"
     },
     {
-        "title": "US stock futures fall, suggesting continued fear of a coronavirus second wave",
-        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
+        "title": "Health Experts Link Rise In Arizona Coronavirus Cases To End Of Stay-At-Home Order",
+        "link": "https://www.npr.org/2020/06/14/876786952/health-experts-link-rise-in-arizona-coronavirus-cases-to-end-of-stay-at-home-ord"
     }
 ];

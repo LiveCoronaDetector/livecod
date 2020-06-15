@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006151019238623"
     },
     {
-        "title": "'도매시장발' 베이징 확진자 급증…\"우한 때와 유사\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005835338&plink=ORI&cooper=NAVER"
+        "title": "[속보] '코로나19' 37명 늘어 1만2,121명…수도권서 25명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
     },
     {
-        "title": "확진자 나온 인천 효성초 학생 등 300명 '전원 음성'",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061501150.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보]'코로나19' 확진자 37명 추가, 누적 1만2121명…이틀째 30명대",
-        "link": "https://www.news1.kr/articles/?3965173"
-    },
-    {
-        "title": "마크롱 \"바이러스와 첫 싸움 승리\"…이날 확진자 407명",
-        "link": "https://news.imaeil.com/Society/2020061509351002884"
-    },
-    {
-        "title": "中 베이징 신규 확진자 36명 추가, 나흘만에 79명",
-        "link": "http://www.fnnews.com/news/202006150918160677"
-    },
-    {
-        "title": "중국 베이징 코로나19 확진자 11일 이후 80명 육박",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4470553&ref=A"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 37명...지역발생 24명",
-        "link": "https://www.sedaily.com/NewsView/1Z41BT6WAC"
+        "title": "[속보] 코로나19 확진 37명 늘어…25명이 수도권",
+        "link": "http://www.hani.co.kr/arti/society/health/949358.html"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 37명...국내 발생은 24명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006151021001&code=940601"
     },
     {
-        "title": "동작구청 \"사당1동서 코로나19 확진자 발생\"[속보]",
-        "link": "http://www.kjdaily.com/read.php3?aid=1592181320514061208"
+        "title": "확진자 나온 인천 효성초 학생 등 300명 '전원 음성'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061501150.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "법원 등기소 직원, 코로나19 확진…성남 대명운수 직원 전원 음성",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4470340&ref=A"
+    },
+    {
+        "title": "[속보]코로나 신규 37명 늘어…이틀 연속 30명대",
+        "link": "https://news.joins.com/article/olink/23396170"
+    },
+    {
+        "title": "베이징 확진자 36명 추가 발생…총 49명(상보)",
+        "link": "https://www.news1.kr/articles/?3965078"
+    },
+    {
+        "title": "중국 베이징 코로나19 확진자 11일 이후 80명 육박",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4470553&ref=A"
+    },
+    {
+        "title": "롯데택배 송파 물류센터서 확진자 발생",
+        "link": "http://yna.kr/AKR20200615063100004?did=1195m"
     }
 ];
