@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus live updates: U.S. restaurant industry takes $120 billion hit; former FDA chief warns about hot spots",
+        "title": "Coronavirus live updates: San Francisco moves further into reopening; former FDA chief warns about hot spots",
         "link": "https://www.cnbc.com/2020/06/15/coronavirus-live-updates.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Dow slides as coronavirus resurgence fears grow in the US and China",
-        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
+        "title": "China braced for coronavirus resurgence amid fresh cases",
+        "link": "https://uk.news.yahoo.com/china-braced-coronavirus-resurgence-amid-064218287.html"
+    },
+    {
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
         "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "Live updates: FDA pulls emergency authorization for hydroxychloroquine as covid-19 treatment",
+        "title": "Live updates: Top White House official says spikes in coronavirus cases are ‘small bumps’",
         "link": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/"
-    },
-    {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     }
 ];
