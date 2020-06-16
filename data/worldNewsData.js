@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
+        "title": "Twenty Indian soldiers dead after clash with China along disputed border",
+        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
         "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Beijing in lockdown as China confronts second coronavirus wave",
-        "link": "https://www.youtube.com/watch?v=Fx29Ea3hpR4"
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
         "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
