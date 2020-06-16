@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
     },
     {
-        "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
-        "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
+        "title": "Coronavirus speeds up American suppliers' exodus from China",
+        "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
+    },
+    {
+        "title": "Cheap, Widely Used Steroid Dexamethasone Reduces Risk of Death from Covid-19: Study",
+        "link": "https://www.youtube.com/watch?v=P0Ydkvpi95I"
     },
     {
         "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Don't blame public for Covid-19 spread, says UK scientist",
         "link": "https://www.theguardian.com/world/2020/jun/16/dont-blame-public-for-covid-19-spread-says-uk-scientist"
-    },
-    {
-        "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
-        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
     }
 ];
