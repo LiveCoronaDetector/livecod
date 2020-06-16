@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/15/874850445/greece-reopens-to-tourism-but-some-coronavirus-restrictions-apply"
     },
     {
-        "title": "Trump says he wants major troop reduction in Germany",
-        "link": "https://www.foxnews.com/politics/trump-confirms-desire-to-reduce-troop-number-in-germany"
+        "title": "In Europe, Travel Returns, but Not Confidence About What Comes Next",
+        "link": "https://www.nytimes.com/2020/06/15/world/europe/coronavirus-europe-borders-reopen.html"
     },
     {
-        "title": "Three Indian soldiers killed in clashes along border with China in the Himalayas",
-        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
+        "title": "WHO warning as 100,000 new coronavirus cases logged daily: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/measures-beijing-coronavirus-cases-spike-live-200614233622226.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
         "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
-    },
-    {
         "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
         "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
-        "title": "Coronavirus: Dexamethasone proves first life-saving drug",
-        "link": "https://www.bbc.com/news/health-53061281"
+        "title": "Live Coronavirus Updates",
+        "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
     {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+    },
+    {
+        "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
+        "link": "https://www.theguardian.com/world/2020/jun/16/steroid-found-to-help-prevent-deaths-of-sickest-coronavirus-patients"
     }
 ];
