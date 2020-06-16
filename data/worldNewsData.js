@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Hoping to flush out coronavirus, Israeli firm takes to the sewers",
-        "link": "https://www.timesofisrael.com/israeli-firm-monitors-sewers-in-fight-against-coronavirus/"
+        "title": "Oscars 2021 postponed due to coronavirus outbreak",
+        "link": "https://www.nme.com/en_au/news/film/oscars-2021-postponed-due-to-coronavirus-outbreak-2689136"
     },
     {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+        "title": "Covid-19 can damage lungs of victims beyond recognition, expert says",
+        "link": "https://www.theguardian.com/world/2020/jun/15/covid-19-can-damage-lungs-victims-beyond-recognition-expert-says"
     },
     {
         "title": "Patients with underlying conditions were 12 times as likely to die of covid-19 as otherwise healthy people, CDC finds",
         "link": "https://www.washingtonpost.com/health/2020/06/15/patients-with-underlying-conditions-were-12-times-more-likely-die-covid-19-than-otherwise-healthy-people-cdc-finds/"
     },
     {
-        "title": "Coronavirus cases exceed 8 million worldwide: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-cases-exceed-8-million-worldwide-live-updates-200616003326282.html"
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     }
 ];
