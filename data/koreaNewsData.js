@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
-        "title": "코로나19 확진자 34명 증가…수도권 지역감염 17명",
-        "link": "https://www.nocutnews.co.kr/news/5361853"
+        "title": "대전서 코로나19 확진자 3명 발생",
+        "link": "http://www.fnnews.com/news/202006160956107196"
     },
     {
         "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
@@ -17,6 +17,18 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005838086&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "서울 코로나19 확진자 1132명…\"확진자 나온 강남 가라오케 폐쇄\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200616_0001061354&cID=14001&pID=14000"
+    },
+    {
+        "title": "대구시 \"이틀연속 신규 확진자·사망자 '0명'\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020061610345596484"
+    },
+    {
+        "title": "대구·경북 코로나19 신규 확진자 ‘0명’(종합)",
+        "link": "http://www.kukinews.com/news/article.html?no=799495"
+    },
+    {
         "title": "코로나19 신규 확진자 34명...3일째 30명대[종합]",
         "link": "http://www.fnnews.com/news/202006161028132548"
     },
@@ -25,19 +37,7 @@ var koreaNewsData = [
         "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
     },
     {
-        "title": "고양시 코로나19 56번째 확진자 발생",
-        "link": "http://www.kyeongin.com/main/view.php?key=20200616010003833"
-    },
-    {
         "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "서울 코로나19 확진자 1132명…\"확진자 나온 강남 가라오케 폐쇄\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200616_0001061354&cID=14001&pID=14000"
-    },
-    {
-        "title": "대구시 \"이틀연속 신규 확진자·사망자 '0명'\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020061610345596484"
     }
 ];
