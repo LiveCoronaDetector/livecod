@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Germany appeals to nation to download coronavirus app",
-        "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
+        "title": "Coronavirus live news: Beijing says outbreak 'extremely severe'; French police fire teargas at protest",
+        "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
     },
     {
-        "title": "Twenty Indian soldiers dead after clash with China along disputed border",
-        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
+        "title": "Covid-19: The woman who has become India's 'corona voice'",
+        "link": "https://www.bbc.com/news/world-asia-india-53047296"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
-        "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
-        "link": "https://www.theguardian.com/world/2020/jun/16/steroid-found-to-help-prevent-deaths-of-sickest-coronavirus-patients"
+        "title": "Don't blame public for Covid-19 spread, says UK scientist",
+        "link": "https://www.theguardian.com/world/2020/jun/16/dont-blame-public-for-covid-19-spread-says-uk-scientist"
     },
     {
         "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
