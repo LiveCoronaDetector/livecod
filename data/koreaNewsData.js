@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
     },
     {
-        "title": "접촉자 없는 코로나19 확진자도 있다",
-        "link": "http://www.hani.co.kr/arti/area/jeju/949622.html"
+        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
         "title": "\"코로나19 매우 교활해 언제든 전파가능…확진자 증가할수 있어\"(종합)",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
-        "title": "[종합] 中 코로나19 재확산 '초비상'…다급한 베이징 지도부",
-        "link": "https://www.hankyung.com/international/article/2020061618657"
+        "title": "베이징 신파디 시장발 코로나19 확산…닷새만에 확진자 100명 넘어섰다",
+        "link": "http://www.hani.co.kr/arti/international/china/949628.html"
+    },
+    {
+        "title": "롯데택배 송파 물류센터서 코로나19 확진자 발생(종합)",
+        "link": "http://yna.kr/AKR20200615063151004?did=1195m"
     },
     {
         "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
-    },
-    {
-        "title": "\"전 세계 코로나19 감염 800만명·사망 43만명 넘어\"(종합)",
-        "link": "http://yna.kr/AKR20200616023751009?did=1195m"
     }
 ];

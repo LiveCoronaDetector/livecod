@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Live updates: FDA yanks emergency authorization for drug touted by Trump as covid-19 treatment",
-        "link": "https://www.washingtonpost.com/nation/2020/06/16/coronavirus-update-us/"
+        "title": "Mexico temporarily forbids workers from going to Canada due to coronavirus",
+        "link": "https://www.cnn.com/2020/06/16/americas/mexico-workers-canada-coronavirus/index.html"
     },
     {
         "title": "Greece Reopens To Tourists, But Some Coronavirus Restrictions Apply",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/15/874850445/greece-reopens-to-tourism-but-some-coronavirus-restrictions-apply"
     },
     {
-        "title": "Trump says he wants major troop reduction in Germany",
-        "link": "https://www.foxnews.com/politics/trump-confirms-desire-to-reduce-troop-number-in-germany"
+        "title": "Germany investing in coronavirus vaccine maker that it accused the Trump administration of trying to poach",
+        "link": "https://www.marketwatch.com/story/germany-investing-in-coronavirus-vaccine-maker-that-it-accused-the-trump-administration-of-trying-to-poach-2020-06-15"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
+        "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
+        "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
     },
     {
         "title": "China's new coronavirus outbreak sees Beijing adopt 'wartime' measures as capital races to contain spread",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
-        "title": "Disease puts 1 in 5 globally at severe COVID-19 risk: study",
-        "link": "https://egyptindependent.com/disease-puts-1-in-5-globally-at-severe-covid-19-risk-study/"
+        "title": "Trump dismisses uptick in US coronavirus cases and suggests a 'stop' to testing",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-latest-coronavirus-cases-usa-update-testing-numbers-a9567566.html"
     },
     {
         "title": "Covid-19 can damage lungs of victims beyond recognition, expert says",
         "link": "https://www.theguardian.com/world/2020/jun/15/covid-19-can-damage-lungs-victims-beyond-recognition-expert-says"
     },
     {
-        "title": "Trump dismisses uptick in US coronavirus cases and suggests a 'stop' to testing",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-latest-coronavirus-cases-usa-update-testing-numbers-a9567566.html"
+        "title": "Coronavirus cases exceed 8 million worldwide: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-cases-exceed-8-million-worldwide-live-updates-200616003326282.html"
     }
 ];
