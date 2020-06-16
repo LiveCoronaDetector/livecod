@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
+        "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
+        "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
     },
     {
-        "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
-        "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
+        "title": "Beijing businesses must ‘wait and see’ amid second wave of virus restrictions",
+        "link": "https://www.scmp.com/economy/china-economy/article/3089274/chinas-economic-recovery-coronavirus-doubt-beijing-outbreak"
     },
     {
-        "title": "Beijing Shuts City Schools Again Over New Virus Outbreak",
-        "link": "https://www.ndtv.com/world-news/coronavirus-in-china-beijing-shuts-city-schools-again-over-new-virus-outbreak-2247347"
-    },
-    {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+        "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
+        "link": "https://www.theguardian.com/world/2020/jun/16/steroid-found-to-help-prevent-deaths-of-sickest-coronavirus-patients"
     },
     {
         "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
         "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
-        "title": "Coronavirus live updates: Reopened states see new cases climb, Tenet Healthcare says spikes are manageable",
-        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+    },
+    {
+        "title": "Coronavirus live news: Beijing says outbreak 'extremely severe' as dozens more cases emerge",
+        "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
     }
 ];
