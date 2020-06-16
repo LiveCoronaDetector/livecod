@@ -1542,7 +1542,7 @@ var marker = [
         "Name_en": "New Caledonia",
         "확진자수": 21,
         "사망자수": 0,
-        "완치자수": 20
+        "완치자수": 21
     },
     {
         "Name": "Laos",
