@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "Coronavirus Live Updates: Most Colleges Won’t Require SAT or ACT Scores",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Coronavirus: US withdraws emergency use of hydroxychloroquine",
+        "link": "https://www.bbc.com/news/world-us-canada-53054476"
     },
     {
         "title": "Greece Reopens To Tourists, But Some Coronavirus Restrictions Apply",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Global Cases Top 8 Million as Beijing Shuts Areas: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c71a4a70-af68-11ea-9939-b14b9af8a8ca&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNS91LXMtY2FzZXMtcmlzZS0wLTktc2luZ2Fwb3JlLXRvLWVhc2UtbGltaXRzLXZpcnVzLXVwZGF0ZQ=="
+        "title": "Dow swings more than 1,000 points in turbulent trading",
+        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates on cases, deaths and reopenings around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-15-20-intl/h_590a1536f54c9a48c1eead5ea1c7f2e6"
-    },
-    {
-        "title": "Coronavirus Study: 1 in 5 People Worldwide at Risk",
-        "link": "https://www.nytimes.com/2020/06/15/health/coronavirus-underlying-conditions.html"
+        "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
     },
     {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+    },
+    {
+        "title": "Arizona bars are packed. The state is a coronavirus hot spot",
+        "link": "https://www.latimes.com/world-nation/story/2020-06-15/partygoers-have-been-packing-arizona-bars-and-nightclubs-now-the-state-is-a-coronavirus-hot-spot"
     }
 ];
