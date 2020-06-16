@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주 코로나19 16번째 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020061619120579338?utm_source=naver&utm_medium=search"
+        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
     },
     {
-        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
+        "title": "접촉자 없는 코로나19 확진자도 있다",
+        "link": "http://www.hani.co.kr/arti/area/jeju/949622.html"
     },
     {
         "title": "\"코로나19 매우 교활해 언제든 전파가능…확진자 증가할수 있어\"(종합)",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
-        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
-    },
-    {
         "title": "[종합] 中 코로나19 재확산 '초비상'…다급한 베이징 지도부",
         "link": "https://www.hankyung.com/international/article/2020061618657"
     },
     {
-        "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
-        "link": "http://www.hani.co.kr/arti/society/health/949532.html"
+        "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
+    },
+    {
+        "title": "\"전 세계 코로나19 감염 800만명·사망 43만명 넘어\"(종합)",
+        "link": "http://yna.kr/AKR20200616023751009?did=1195m"
     }
 ];
