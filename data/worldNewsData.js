@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Model projects 200000 people in the US could die from coronavirus by October",
+        "title": "Model projects 200,000 people in the US could die from coronavirus by October",
         "link": "https://www.cnn.com/2020/06/16/health/us-coronavirus-tuesday/index.html"
     },
     {
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/trump-confirms-desire-to-reduce-troop-number-in-germany"
     },
     {
-        "title": "WHO warning as 100,000 new coronavirus cases logged daily: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/measures-beijing-coronavirus-cases-spike-live-200614233622226.html"
+        "title": "Three Indian soldiers killed in clashes along border with China in the Himalayas",
+        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
         "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Live Coronavirus Updates: U.S. Prisons See Spike in Cases",
-        "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
+        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
         "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
         "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+        "title": "Coronavirus: Dexamethasone proves first life-saving drug",
+        "link": "https://www.bbc.com/news/health-53061281"
     },
     {
-        "title": "Coronavirus live updates: Trial shows a steroid reduces deaths from severe cases; global cases top 8 million",
-        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     }
 ];
