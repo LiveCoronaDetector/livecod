@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006160956107196"
     },
     {
-        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
-    },
-    {
         "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
     },
@@ -29,6 +25,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
+        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
+    },
+    {
         "title": "[종합] 中 코로나19 재확산 '초비상'…다급한 베이징 지도부",
         "link": "https://www.hankyung.com/international/article/2020061618657"
     },
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     },
     {
-        "title": "베이징 확진자 100명 넘었다…\"우한보다 전염력 강해\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005838086&plink=ORI&cooper=NAVER"
+        "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
     }
 ];

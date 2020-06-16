@@ -1,6 +1,6 @@
 import requests
-from bs4 import BeautifulSoup
 
+from bs4 import BeautifulSoup
 from utils import write_data
 
 
@@ -12,27 +12,28 @@ def get_data(url):
 
 
 def parse_data(data):
-    return [{'title': tag.get_text(), 'link': tag['href']} for tag in data]
+    return [{"title": tag.get_text(), "link": tag["href"]} for tag in data]
 
 
 def run():
-    data = get_data("https://search.naver.com/search.naver?query=코로나+확진자&where=news")
+    data = get_data(
+        "https://search.naver.com/search.naver?query=코로나+확진자&where=news"
+    )
     parsed_data = parse_data(data)
 
-    save_dir = './data/koreaNewsData.js'
-    crawler_name = 'crawlKoreaNewsData.py'
-    var_name = 'koreaNewsData'
+    save_dir = "./data/koreaNewsData.js"
+    crawler_name = "crawlKoreaNewsData.py"
+    var_name = "koreaNewsData"
 
     write_data(parsed_data, save_dir, crawler_name, var_name)
 
 
+if __name__ == "__main__":
+    print("#####################################")
+    print("############ 한국 뉴스 데이터 #############")
+    print("######## koreaNewsData.js #########")
 
+    run()
 
-print("#####################################")
-print("############ 한국 뉴스 데이터 #############")
-print("######## koreaNewsData.js #########")
-
-run()
-
-print("############### 완료!! ###############")
-print("#####################################")
+    print("############### 완료!! ###############")
+    print("#####################################")
