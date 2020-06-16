@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "Coronavirus: US withdraws emergency use of hydroxychloroquine",
-        "link": "https://www.bbc.com/news/world-us-canada-53054476"
+        "title": "Mexico temporarily forbids workers from going to Canada due to coronavirus",
+        "link": "https://www.cnn.com/2020/06/16/americas/mexico-workers-canada-coronavirus/index.html"
     },
     {
         "title": "Greece Reopens To Tourists, But Some Coronavirus Restrictions Apply",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus cases exceed 8 million worldwide: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-cases-exceed-8-million-worldwide-live-updates-200616003326282.html"
-    },
-    {
-        "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing bans high-risk travellers from leaving city",
-        "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
-    },
-    {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
-        "title": "Covid-19 can damage lungs of victims beyond recognition, expert says",
-        "link": "https://www.theguardian.com/world/2020/jun/15/covid-19-can-damage-lungs-victims-beyond-recognition-expert-says"
+        "title": "Coronavirus Outbreak: Live Updates and News for Jun. 16, 2020",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=fe10ce00-af9a-11ea-9cf1-8ffb9d1b682c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNS91LXMtY2FzZXMtcmlzZS0wLTktc2luZ2Fwb3JlLXRvLWVhc2UtbGltaXRzLXZpcnVzLXVwZGF0ZQ=="
+    },
+    {
+        "title": "Coronavirus cases exceed 8 million worldwide: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-cases-exceed-8-million-worldwide-live-updates-200616003326282.html"
+    },
+    {
+        "title": "Trump dismisses uptick in US coronavirus cases and suggests a 'stop' to testing",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-latest-coronavirus-cases-usa-update-testing-numbers-a9567566.html"
     }
 ];

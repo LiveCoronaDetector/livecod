@@ -5,16 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
+        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
+    },
+    {
         "title": "대전서 코로나19 확진자 3명 발생",
         "link": "http://www.fnnews.com/news/202006160956107196"
+    },
+    {
+        "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
     },
     {
         "title": "베이징 확진자 100명 넘었다…\"우한보다 전염력 강해\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005838086&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
+        "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "6월 16일 ‘코로나19’ 전세계 확진자 794만명…그리스 입국허용 잠정 중단 등...",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200616_0001061354&cID=14001&pID=14000"
     },
     {
-        "title": "대구시 \"이틀연속 신규 확진자·사망자 '0명'\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020061610345596484"
+        "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
+        "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     },
     {
-        "title": "코로나19 신규 확진자 34명...3일째 30명대[종합]",
-        "link": "http://www.fnnews.com/news/202006161028132548"
-    },
-    {
-        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
-    },
-    {
-        "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[종합] 中 코로나19 재확산 '초비상'…다급한 베이징 지도부",
+        "link": "https://www.hankyung.com/international/article/2020061618657"
     }
 ];
