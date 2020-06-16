@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
     },
     {
-        "title": "China's new coronavirus outbreak sees Beijing adopt 'wartime' measures as capital races to contain spread",
-        "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
+        "title": "China coronavirus cases in Beijing keep climbing today with more areas locked down amid fear of COVID-19 second wave",
+        "link": "https://www.cbsnews.com/news/coronavirus-china-cases-beijing-cluster-areas-locked-down-fears-covid-19-second-wave-today-2020-06-15/"
     },
     {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
         "title": "Hoping to flush out coronavirus, Israeli firm takes to the sewers",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/health/2020/06/15/patients-with-underlying-conditions-were-12-times-more-likely-die-covid-19-than-otherwise-healthy-people-cdc-finds/"
     },
     {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+        "title": "Trump dismisses uptick in US coronavirus cases and suggests a 'stop' to testing",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-latest-coronavirus-cases-usa-update-testing-numbers-a9567566.html"
     }
 ];
