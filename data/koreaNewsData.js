@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주 코로나19 16번째 확진자 발생…접촉자 ‘0명’?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471970&ref=A"
+        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
         "title": "\"코로나19 매우 교활해 언제든 전파가능…확진자 증가할수 있어\"(종합)",
         "link": "http://yna.kr/AKR20200616114651530?did=1195m"
     },
     {
+        "title": "[속보]대전서 코로나19 확진자 5명 추가 발생… 이틀 사이 9명 확진",
+        "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2076347"
+    },
+    {
+        "title": "대구·경북 코로나19 신규 확진자 ‘0명’(종합)",
+        "link": "http://www.kukinews.com/news/article.html?no=799495"
+    },
+    {
         "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
-    },
-    {
-        "title": "대전·충남서 목사 부부 등 4명 코로나19 확진…접촉자 30여명(종합)",
-        "link": "http://yna.kr/AKR20200616046751063?did=1195m"
-    },
-    {
-        "title": "WHO \"중국 베이징 코로나19 집단감염, 중요 사건\"(종합)",
-        "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     }
 ];
