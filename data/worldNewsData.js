@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
+        "title": "WHO warning as 100,000 new coronavirus cases logged daily: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/measures-beijing-coronavirus-cases-spike-live-200614233622226.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
         "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
-    },
-    {
         "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
         "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
-        "title": "Coronavirus live updates: Tenet Healthcare says spikes in cases are manageable; global cases top 8 million",
-        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+    },
+    {
+        "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
+        "link": "https://www.theguardian.com/world/2020/jun/16/steroid-found-to-help-prevent-deaths-of-sickest-coronavirus-patients"
     },
     {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
