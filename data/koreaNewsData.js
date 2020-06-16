@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006161028132548"
     },
     {
-        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
-    },
-    {
-        "title": "[속보] 베이징 코로나19 집단감염 100명 넘었다…하루새 27명 증가",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006160120&t=NN"
-    },
-    {
-        "title": "고양 일산병원 30대 간호사 코로나19 확진",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014695099&code=61121111&cp=nv"
+        "title": "전세계 코로나19 감염자 800만명 넘어…사망자는 43만명",
+        "link": "https://www.hankyung.com/international/article/2020061606987"
     },
     {
         "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
+    },
+    {
+        "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
+        "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     }
 ];
