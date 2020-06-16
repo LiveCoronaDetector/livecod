@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Model projects 200,000 people in the US could die from coronavirus by October",
+        "title": "Model projects 200000 people in the US could die from coronavirus by October",
         "link": "https://www.cnn.com/2020/06/16/health/us-coronavirus-tuesday/index.html"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/trump-confirms-desire-to-reduce-troop-number-in-germany"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
+        "title": "Three Indian soldiers killed in clashes along border with China in the Himalayas",
+        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
     },
     {
-        "title": "Coronavirus Study: 1 in 5 People Worldwide at Risk",
-        "link": "https://www.nytimes.com/2020/06/15/health/coronavirus-underlying-conditions.html"
+        "title": "Patients with underlying conditions were 12 times as likely to die of covid-19 as otherwise healthy people, CDC finds",
+        "link": "https://www.washingtonpost.com/health/2020/06/15/patients-with-underlying-conditions-were-12-times-more-likely-die-covid-19-than-otherwise-healthy-people-cdc-finds/"
     }
 ];
