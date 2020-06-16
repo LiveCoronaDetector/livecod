@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616046751063?did=1195m"
     },
     {
-        "title": "\"코로나19 매우 교활해 언제든 전파가능…확진자 증가할수 있어\"(종합)",
-        "link": "http://yna.kr/AKR20200616114651530?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
+    },
+    {
+        "title": "\"코로나19 매우 교활해 언제든 전파가능…확진자 증가할수 있어\"(종합)",
+        "link": "http://yna.kr/AKR20200616114651530?did=1195m"
     }
 ];
