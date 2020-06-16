@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
-        "title": "\"코로나19 전 세계 210개국서 800만명 감염\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006160039&t=NN"
+        "title": "전세계 코로나19 감염자 800만명 넘어…사망자는 43만명",
+        "link": "https://www.hankyung.com/international/article/2020061606987"
     },
     {
         "title": "롯데택배 송파 물류센터서 코로나19 확진자 발생(종합)",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003100098?did=1195m"
     },
     {
-        "title": "코로나19 확진 37명 늘어…25명이 수도권",
-        "link": "http://www.hani.co.kr/arti/society/health/949358.html"
+        "title": "[속보] '코로나19' 37명 늘어 1만2,121명…수도권서 25명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
     },
     {
         "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
