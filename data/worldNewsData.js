@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Mexico temporarily forbids workers from going to Canada due to coronavirus",
-        "link": "https://www.cnn.com/2020/06/16/americas/mexico-workers-canada-coronavirus/index.html"
+        "title": "Model projects 200,000 people in the US could die from coronavirus by October",
+        "link": "https://www.cnn.com/2020/06/16/health/us-coronavirus-tuesday/index.html"
     },
     {
         "title": "Greece Reopens To Tourists, But Some Coronavirus Restrictions Apply",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/15/874850445/greece-reopens-to-tourism-but-some-coronavirus-restrictions-apply"
     },
     {
-        "title": "In Europe, Travel Returns, but Not Confidence About What Comes Next",
-        "link": "https://www.nytimes.com/2020/06/15/world/europe/coronavirus-europe-borders-reopen.html"
+        "title": "Trump says he wants major troop reduction in Germany",
+        "link": "https://www.foxnews.com/politics/trump-confirms-desire-to-reduce-troop-number-in-germany"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news, today",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
-        "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing bans high-risk travellers from leaving city",
-        "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
-    },
-    {
         "title": "Live Coronavirus Updates: U.S. Prisons See Spike in Cases",
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+        "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing bans high-risk travellers from leaving city",
+        "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
+    },
+    {
+        "title": "Coronavirus Study: 1 in 5 People Worldwide at Risk",
+        "link": "https://www.nytimes.com/2020/06/15/health/coronavirus-underlying-conditions.html"
     }
 ];
