@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
-        "title": "[종합] 대전 코로나19 확진자 50~55번 추가 발생",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1394309"
-    },
-    {
-        "title": "대전서 하루새 9명 무더기 감염…아산에선 사흘연속 확진자 나와(종합3보)",
-        "link": "http://yna.kr/AKR20200616046753063?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
-    },
-    {
-        "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
-    },
-    {
-        "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "대전·충남서 목사 부부 등 4명 코로나19 확진…접촉자 30여명(종합)",
-        "link": "http://yna.kr/AKR20200616046751063?did=1195m"
     },
     {
         "title": "WHO \"중국 베이징 코로나19 집단감염, 중요 사건\"(종합)",
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
-        "title": "롯데택배 송파 물류센터서 코로나19 확진자 발생(종합)",
-        "link": "http://yna.kr/AKR20200615063151004?did=1195m"
+        "title": "송파구 롯데택배 물류센터에서 확진자 발생",
+        "link": "https://www.ytn.co.kr/_ln/0102_202006151119556124"
+    },
+    {
+        "title": "‘코로나 청정국’ 뉴질랜드, 신규 확진자 2명 발생",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02781446625802376"
+    },
+    {
+        "title": "룸살롱 '방역 빗장' 풀자마자 가라오케서 확진자 발생",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/16/2020061690068.html"
+    },
+    {
+        "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
+        "link": "http://www.hani.co.kr/arti/society/health/949532.html"
+    },
+    {
+        "title": "[종합] 대전 코로나19 확진자 50~55번 추가 발생",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1394309"
+    },
+    {
+        "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
     }
 ];

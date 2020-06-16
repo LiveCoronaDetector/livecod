@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Model projects 200,000 people in the US could die from coronavirus by October",
-        "link": "https://www.cnn.com/2020/06/16/health/us-coronavirus-tuesday/index.html"
+        "title": "Brazil ignored the warnings. Now, while other countries fret over a second coronavirus wave, it can’t get past its first.",
+        "link": "https://www.washingtonpost.com/world/the_americas/brazil-bolsonaro-coronavirus-cases-deaths-reopening-second-wave/2020/06/15/3282d27e-ae4b-11ea-856d-5054296735e5_story.html"
     },
     {
         "title": "Greece Reopens To Tourists, But Some Coronavirus Restrictions Apply",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
     },
     {
-        "title": "WHO warning as 100,000 new coronavirus cases logged daily: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/measures-beijing-coronavirus-cases-spike-live-200614233622226.html"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
         "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Beijing Shuts City Schools Again Over New Virus Outbreak",
+        "link": "https://www.ndtv.com/world-news/coronavirus-in-china-beijing-shuts-city-schools-again-over-new-virus-outbreak-2247347"
     },
     {
         "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
         "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
-        "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
-        "link": "https://www.theguardian.com/world/2020/jun/16/steroid-found-to-help-prevent-deaths-of-sickest-coronavirus-patients"
+        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+        "title": "Coronavirus live updates: Reopened states see new cases climb, Tenet Healthcare says spikes are manageable",
+        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
     }
 ];
