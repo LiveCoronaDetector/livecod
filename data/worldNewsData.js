@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
     },
     {
-        "title": "Three Indian soldiers killed in clashes along border with China in the Himalayas",
-        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
+        "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
+        "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
-        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
-        "title": "Scientists hail dexamethasone as 'major breakthrough' in treating coronavirus",
-        "link": "https://www.cnbc.com/2020/06/16/steroid-dexamethasone-reduces-deaths-from-severe-covid-19-trial.html"
+        "title": "Coronavirus live updates: Reopened states see new cases climb; U.S. Open to be held without fans",
+        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
     }
 ];
