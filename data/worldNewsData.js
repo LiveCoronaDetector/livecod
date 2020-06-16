@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Vice President Mike Pence to visit Sterling Heights Thursday",
-        "link": "https://www.clickondetroit.com/news/local/2020/06/15/vice-president-mike-pence-to-visit-sterling-heights-thursday/"
-    },
-    {
         "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing bans high-risk travellers from leaving city",
         "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
     },
     {
-        "title": "Coronavirus Study: 1 in 5 People Worldwide at Risk",
-        "link": "https://www.nytimes.com/2020/06/15/health/coronavirus-underlying-conditions.html"
+        "title": "Coronavirus cases exceed 8 million worldwide: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-cases-exceed-8-million-worldwide-live-updates-200616003326282.html"
     },
     {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+    },
+    {
+        "title": "Arizona bars are packed. The state is a coronavirus hot spot",
+        "link": "https://www.latimes.com/world-nation/story/2020-06-15/partygoers-have-been-packing-arizona-bars-and-nightclubs-now-the-state-is-a-coronavirus-hot-spot"
     }
 ];

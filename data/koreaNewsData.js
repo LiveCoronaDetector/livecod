@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006160956107196"
     },
     {
-        "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
-    },
-    {
         "title": "베이징 확진자 100명 넘었다…\"우한보다 전염력 강해\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005838086&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
     },
     {
         "title": "서울 코로나19 확진자 1132명…\"확진자 나온 강남 가라오케 폐쇄\"(종합)",
@@ -23,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "대구시 \"이틀연속 신규 확진자·사망자 '0명'\"(전문)",
         "link": "https://news.imaeil.com/Society/2020061610345596484"
-    },
-    {
-        "title": "대구·경북 코로나19 신규 확진자 ‘0명’(종합)",
-        "link": "http://www.kukinews.com/news/article.html?no=799495"
     },
     {
         "title": "코로나19 신규 확진자 34명...3일째 30명대[종합]",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
+        "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     }
 ];
