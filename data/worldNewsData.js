@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
     },
     {
-        "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
-        "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
+        "title": "Three Indian soldiers killed in clashes along border with China in the Himalayas",
+        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
     },
     {
-        "title": "Beijing businesses must ‘wait and see’ amid second wave of virus restrictions",
-        "link": "https://www.scmp.com/economy/china-economy/article/3089274/chinas-economic-recovery-coronavirus-doubt-beijing-outbreak"
+        "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
+        "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
-        "link": "https://www.theguardian.com/world/2020/jun/16/steroid-found-to-help-prevent-deaths-of-sickest-coronavirus-patients"
-    },
-    {
-        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Steroid breakthrough raises virus hopes, despite China outbreak",
+        "link": "https://www.yahoo.com/news/virus-outbreak-china-stokes-second-wave-fears-005852493.html"
     },
     {
         "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
         "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
-        "title": "Coronavirus live news: Beijing says outbreak 'extremely severe' as dozens more cases emerge",
-        "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
+        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+    },
+    {
+        "title": "Scientists hail dexamethasone as 'major breakthrough' in treating coronavirus",
+        "link": "https://www.cnbc.com/2020/06/16/steroid-dexamethasone-reduces-deaths-from-severe-covid-19-trial.html"
     }
 ];
