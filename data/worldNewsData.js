@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=sV5dh1W80Zc"
     },
     {
-        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Brazil's Bolsonaro says military will not remove elected president",
+        "link": "https://www.msn.com/en-us/news/world/brazils-bolsonaro-says-military-will-not-remove-elected-president/ar-BB15x4eM"
     },
     {
-        "title": "Scientists hail dexamethasone as 'major breakthrough' in treating coronavirus",
-        "link": "https://www.cnbc.com/2020/06/16/steroid-dexamethasone-reduces-deaths-from-severe-covid-19-trial.html"
+        "title": "One in five people worldwide is at risk of developing 'severe' cases of Covid-19, scientists claim",
+        "link": "https://www.cnbc.com/2020/06/16/one-in-five-people-worldwide-at-risk-of-severe-covid-19-study-says.html"
     },
     {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+        "title": "Coronavirus: Dexamethasone proves first life-saving drug",
+        "link": "https://www.bbc.com/news/health-53061281"
     }
 ];

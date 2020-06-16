@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02781446625802376"
     },
     {
-        "title": "룸살롱 '방역 빗장' 풀자마자 가라오케서 확진자 발생",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/16/2020061690068.html"
-    },
-    {
         "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
         "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
+    },
+    {
+        "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
