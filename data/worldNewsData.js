@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/trump-confirms-desire-to-reduce-troop-number-in-germany"
     },
     {
-        "title": "India China border: At least three soldiers killed in clashes in the Aksai Chin-Ladakh area",
-        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
+        "title": "WHO warning as 100,000 new coronavirus cases logged daily: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/measures-beijing-coronavirus-cases-spike-live-200614233622226.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
         "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
-    },
-    {
         "title": "Live Coronavirus Updates: U.S. Prisons See Spike in Cases",
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
-        "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing bans high-risk travellers from leaving city",
-        "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
+        "title": "Coronavirus live updates: Trial shows a steroid reduces deaths from severe cases; global cases top 8 million",
+        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
     }
 ];
