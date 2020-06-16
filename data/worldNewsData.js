@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Uganda, Ghana... cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
+        "link": "https://en.as.com/en/2020/06/16/other_sports/1592291414_694604.html"
     },
     {
         "title": "Mexico temporarily forbids workers from going to Canada due to coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-china-cases-beijing-cluster-areas-locked-down-fears-covid-19-second-wave-today-2020-06-15/"
     },
     {
-        "title": "Coronavirus Outbreak: Live Updates and News for Jun. 16, 2020",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=40be0fc0-af9f-11ea-b68a-39bb0d917ac8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0xNS91LXMtY2FzZXMtcmlzZS0wLTktc2luZ2Fwb3JlLXRvLWVhc2UtbGltaXRzLXZpcnVzLXVwZGF0ZQ=="
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+    },
+    {
+        "title": "Israeli firm monitors sewers in fight against coronavirus",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/israeli-firm-monitors-sewers-in-fight-against-coronavirus/articleshow/76399780.cms"
     },
     {
         "title": "Patients with underlying conditions were 12 times as likely to die of covid-19 as otherwise healthy people, CDC finds",
         "link": "https://www.washingtonpost.com/health/2020/06/15/patients-with-underlying-conditions-were-12-times-more-likely-die-covid-19-than-otherwise-healthy-people-cdc-finds/"
     },
     {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
-    },
-    {
-        "title": "Coronavirus cases exceed 8 million worldwide: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-cases-exceed-8-million-worldwide-live-updates-200616003326282.html"
+        "title": "Trump dismisses uptick in US coronavirus cases and suggests a 'stop' to testing",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-latest-coronavirus-cases-usa-update-testing-numbers-a9567566.html"
     }
 ];
