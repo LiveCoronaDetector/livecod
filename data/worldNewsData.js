@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/15/874850445/greece-reopens-to-tourism-but-some-coronavirus-restrictions-apply"
     },
     {
-        "title": "Germany investing in coronavirus vaccine maker that it accused the Trump administration of trying to poach",
-        "link": "https://www.marketwatch.com/story/germany-investing-in-coronavirus-vaccine-maker-that-it-accused-the-trump-administration-of-trying-to-poach-2020-06-15"
+        "title": "In Europe, Travel Returns, but Not Confidence About What Comes Next",
+        "link": "https://www.nytimes.com/2020/06/15/world/europe/coronavirus-europe-borders-reopen.html"
     },
     {
         "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
         "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
     },
     {
-        "title": "China's new coronavirus outbreak sees Beijing adopt 'wartime' measures as capital races to contain spread",
-        "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
+        "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
+        "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
+    },
+    {
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+    },
+    {
+        "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing bans high-risk travellers from leaving city",
+        "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
     },
     {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
-        "title": "Trump dismisses uptick in US coronavirus cases and suggests a 'stop' to testing",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-latest-coronavirus-cases-usa-update-testing-numbers-a9567566.html"
-    },
-    {
-        "title": "Covid-19 can damage lungs of victims beyond recognition, expert says",
-        "link": "https://www.theguardian.com/world/2020/jun/15/covid-19-can-damage-lungs-victims-beyond-recognition-expert-says"
-    },
-    {
-        "title": "Coronavirus cases exceed 8 million worldwide: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-cases-exceed-8-million-worldwide-live-updates-200616003326282.html"
+        "title": "Beijing reinstates some coronavirus restrictions amid new outbreak",
+        "link": "https://www.youtube.com/watch?v=TDZNQF5b8qY"
     }
 ];
