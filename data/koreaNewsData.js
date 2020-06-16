@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
+        "title": "\"코로나19 전 세계 210개국서 800만명 감염\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006160039&t=NN"
+    },
+    {
         "title": "롯데택배 송파 물류센터서 코로나19 확진자 발생(종합)",
         "link": "http://yna.kr/AKR20200615063151004?did=1195m"
     },
@@ -21,20 +25,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z41CIIFMF"
     },
     {
-        "title": "롯데택배 송파 물류센터서 확진자 발생…\"같은날 근무자 159명\"(종합2보)",
-        "link": "http://yna.kr/AKR20200615063152004?did=1195m"
-    },
-    {
-        "title": "[속보] '코로나19' 37명 늘어 1만2,121명…수도권서 25명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006150157&t=NN"
-    },
-    {
-        "title": "WHO “베이징 코로나19 집단감염, 중요 사건”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200616000006"
+        "title": "롯데택배 서울 송파 물류센터서 확진자 발생…센터 폐쇄",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5810866_32633.html"
     },
     {
         "title": "[유럽증시] 코로나19 재확산 우려 속 일제히 하락",
         "link": "http://yna.kr/AKR20200616003100098?did=1195m"
+    },
+    {
+        "title": "코로나19 확진 37명 늘어…25명이 수도권",
+        "link": "http://www.hani.co.kr/arti/society/health/949358.html"
     },
     {
         "title": "리치웨이발 코로나 확진자 5명 더…누적 169명",
