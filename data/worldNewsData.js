@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+        "title": "Beijing shuts down over coronavirus outbreak",
+        "link": "https://www.youtube.com/watch?v=sV5dh1W80Zc"
     },
     {
         "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
         "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
-        "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
-        "link": "https://www.theguardian.com/world/2020/jun/16/steroid-found-to-help-prevent-deaths-of-sickest-coronavirus-patients"
+        "title": "Scientists hail dexamethasone as 'major breakthrough' in treating coronavirus",
+        "link": "https://www.cnbc.com/2020/06/16/steroid-dexamethasone-reduces-deaths-from-severe-covid-19-trial.html"
     },
     {
-        "title": "Coronavirus live updates: Reopened states see new cases climb; U.S. Open to be held without fans",
-        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     }
 ];

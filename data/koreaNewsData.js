@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     },
     {
-        "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
+        "title": "롯데택배 송파 물류센터서 확진자…\"같은 날 근무 159명\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005836048&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
     }
 ];
