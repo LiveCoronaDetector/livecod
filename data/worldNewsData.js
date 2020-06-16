@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
     },
     {
-        "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
-        "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
+        "title": "Twenty Indian soldiers dead after clash with China along disputed border",
+        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
         "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Steroid breakthrough raises virus hopes, despite China outbreak",
-        "link": "https://www.yahoo.com/news/virus-outbreak-china-stokes-second-wave-fears-005852493.html"
-    },
-    {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+        "title": "Beijing in lockdown as China confronts second coronavirus wave",
+        "link": "https://www.youtube.com/watch?v=Fx29Ea3hpR4"
     },
     {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+    },
+    {
+        "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
+        "link": "https://www.theguardian.com/world/2020/jun/16/steroid-found-to-help-prevent-deaths-of-sickest-coronavirus-patients"
     },
     {
         "title": "Coronavirus live updates: Reopened states see new cases climb; U.S. Open to be held without fans",
