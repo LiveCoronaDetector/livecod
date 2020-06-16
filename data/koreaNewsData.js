@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "제주 코로나19 16번째 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020061619120579338?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
         "link": "http://www.hani.co.kr/arti/society/health/949532.html"
-    },
-    {
-        "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
     }
 ];

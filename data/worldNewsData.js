@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/15/874850445/greece-reopens-to-tourism-but-some-coronavirus-restrictions-apply"
     },
     {
-        "title": "Germany investing in coronavirus vaccine maker that it accused the Trump administration of trying to poach",
-        "link": "https://www.marketwatch.com/story/germany-investing-in-coronavirus-vaccine-maker-that-it-accused-the-trump-administration-of-trying-to-poach-2020-06-15"
+        "title": "Trump says he wants major troop reduction in Germany",
+        "link": "https://www.foxnews.com/politics/trump-confirms-desire-to-reduce-troop-number-in-germany"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news, today",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Oscars 2021 postponed due to coronavirus outbreak",
-        "link": "https://www.nme.com/news/film/oscars-2021-postponed-due-to-coronavirus-outbreak-2689038"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
         "title": "Hoping to flush out coronavirus, Israeli firm takes to the sewers",
