@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Brazil ignored the warnings. Now, while other countries fret over a second coronavirus wave, it can’t get past its first.",
-        "link": "https://www.washingtonpost.com/world/the_americas/brazil-bolsonaro-coronavirus-cases-deaths-reopening-second-wave/2020/06/15/3282d27e-ae4b-11ea-856d-5054296735e5_story.html"
+        "title": "They came to Canada as essential workers. Hundreds were infected with the coronavirus on the job",
+        "link": "https://www.cnn.com/2020/06/16/americas/canada-mexico-migrants-covid-19-intl/"
     },
     {
         "title": "The battle to become Europe's safest holiday destination",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
     },
     {
-        "title": "Twenty Indian soldiers dead after clash with China along disputed border",
-        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
         "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
     },
     {
-        "title": "Beijing shuts down over coronavirus outbreak",
-        "link": "https://www.youtube.com/watch?v=sV5dh1W80Zc"
+        "title": "Beijing in lockdown as China confronts second coronavirus wave",
+        "link": "https://www.youtube.com/watch?v=Fx29Ea3hpR4"
     },
     {
-        "title": "Brazil's Bolsonaro says military will not remove elected president",
-        "link": "https://www.msn.com/en-us/news/world/brazils-bolsonaro-says-military-will-not-remove-elected-president/ar-BB15x4eM"
+        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
-        "title": "One in five people worldwide is at risk of developing 'severe' cases of Covid-19, scientists claim",
-        "link": "https://www.cnbc.com/2020/06/16/one-in-five-people-worldwide-at-risk-of-severe-covid-19-study-says.html"
+        "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
+        "link": "https://www.theguardian.com/world/2020/jun/16/steroid-found-to-help-prevent-deaths-of-sickest-coronavirus-patients"
     },
     {
-        "title": "Coronavirus: Dexamethasone proves first life-saving drug",
-        "link": "https://www.bbc.com/news/health-53061281"
+        "title": "Coronavirus live updates: Reopened states see new cases climb; U.S. Open to be held without fans",
+        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
     }
 ];
