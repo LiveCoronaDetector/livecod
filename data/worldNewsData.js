@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/the_americas/brazil-bolsonaro-coronavirus-cases-deaths-reopening-second-wave/2020/06/15/3282d27e-ae4b-11ea-856d-5054296735e5_story.html"
     },
     {
-        "title": "Greece Reopens To Tourists, But Some Coronavirus Restrictions Apply",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/15/874850445/greece-reopens-to-tourism-but-some-coronavirus-restrictions-apply"
+        "title": "The battle to become Europe's safest holiday destination",
+        "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
         "title": "Germany appeals to nation to download coronavirus app",
         "link": "https://www.theguardian.com/world/2020/jun/16/germany-appeals-to-nation-to-download-coronavirus-app"
     },
     {
-        "title": "Twenty Indian soldiers dead after clash with China along disputed border",
-        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
     },
     {
         "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Fx29Ea3hpR4"
     },
     {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
         "title": "Steroid found to help prevent deaths of sickest coronavirus patients",
