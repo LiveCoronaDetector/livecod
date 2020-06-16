@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "‘코로나19 청정국’ 뉴질랜드도 24일만에 확진자 발생",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200616000716"
+        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
-        "title": "\"코로나19 매우 교활해 언제든 전파가능…확진자 증가할수 있어\"(종합)",
-        "link": "http://yna.kr/AKR20200616114651530?did=1195m"
+        "title": "‘코로나19 청정국’ 뉴질랜드도 24일만에 확진자 발생",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200616000716"
     },
     {
         "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
         "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     },
     {
+        "title": "\"코로나19 매우 교활해 언제든 전파가능…확진자 증가할수 있어\"(종합)",
+        "link": "http://yna.kr/AKR20200616114651530?did=1195m"
+    },
+    {
         "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200616500031&wlog_tag3=naver"
     },
     {
-        "title": "[종합] 中 코로나19 재확산 '초비상'…다급한 베이징 지도부",
-        "link": "https://www.hankyung.com/international/article/2020061618657"
-    },
-    {
-        "title": "서울시 유흥업소 집합금지 풀자, 女종업원 코로나19 확진(종합)",
-        "link": "http://www.fnnews.com/news/202006161122489539"
+        "title": "코로나 종식 선언한 뉴질랜드, 일주일 만에 신규 확진자 2명 발생",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020061611010850766"
     }
 ];
