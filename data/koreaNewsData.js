@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
-        "title": "[속보] 베이징 코로나19 집단감염 100명 넘었다…하루새 27명 증가",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006160120&t=NN"
+        "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
     },
     {
-        "title": "롯데택배 송파 물류센터서 코로나19 확진자 발생(종합)",
-        "link": "http://yna.kr/AKR20200615063151004?did=1195m"
+        "title": "베이징, 코로나19 신규확진 27명 추가…닷새간 100명 넘어(상보)",
+        "link": "https://view.asiae.co.kr/article/2020061609203476720"
     },
     {
-        "title": "전세계 코로나19 감염자 800만명 넘어…사망자는 43만명",
-        "link": "https://www.hankyung.com/international/article/2020061606987"
+        "title": "[속보] '코로나19' 국내 현황…총 1만2155명, 신규확진 34명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=400220&class=33&grp="
     },
     {
-        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
-        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
+        "title": "[속보] 코로나19 확진자 34명 늘어 12,155명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471576&ref=A"
     },
     {
-        "title": "日 코로나 신규 확진자 72명…도쿄도만 48명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061504388.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보]'코로나19' 확진자 34명 추가, 누적 1만2155…3일째 30명대",
+        "link": "https://www.news1.kr/articles/?3966455"
     },
     {
-        "title": "롯데택배 송파 물류센터서 확진자 발생",
-        "link": "http://yna.kr/AKR20200615063100004?did=1195m"
+        "title": "[속보] 코로나19 신규확진 34명…총 1만2천155명",
+        "link": "https://news.imaeil.com/Society/2020061610105697838"
     },
     {
-        "title": "[속보] 베이징 코로나19 신규확진 27명 또 늘어",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014694679&code=61131811&cp=nv"
+        "title": "[속보] 국내 코로나19 확진자 34명 추가...지역발생 21명",
+        "link": "https://www.sedaily.com/NewsView/1Z41SZ2MK3"
     },
     {
-        "title": "[속보] 대전서 코로나19 확진자 3명 발생",
-        "link": "http://www.joongdo.co.kr/web/view.php?key=20200616010005385"
+        "title": "[속보] 코로나19 확진 34명 늘어…사흘 연속 30명대",
+        "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     },
     {
-        "title": "롯데택배 서울 송파 물류센터서 확진자 발생…센터 폐쇄",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5810866_32633.html"
+        "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/15/874850445/greece-reopens-to-tourism-but-some-coronavirus-restrictions-apply"
     },
     {
-        "title": "Four European nations to pay $843 million for AstraZeneca's coronavirus vaccine",
-        "link": "https://www.cnbc.com/2020/06/15/italy-france-the-netherlands-germany-to-pay-843-million-vaccine.html"
+        "title": "Coronavirus: France announces significant lifting of restrictions",
+        "link": "https://www.bbc.com/news/world-europe-52978327"
     },
     {
-        "title": "India shut down its economy to contain the coronavirus. It's now one of the most affected countries",
-        "link": "https://www.cnbc.com/2020/06/15/despite-lockdown-india-coronavirus-cases-ris-hurting-economy.html"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/16/other_sports/1592267524_511633.html"
     },
     {
         "title": "China's new coronavirus outbreak sees Beijing adopt 'wartime' measures as capital races to contain spread",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     },
     {
-        "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
+        "title": "Arizona bars are packed. The state is a coronavirus hot spot",
+        "link": "https://www.latimes.com/world-nation/story/2020-06-15/partygoers-have-been-packing-arizona-bars-and-nightclubs-now-the-state-is-a-coronavirus-hot-spot"
     },
     {
         "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
         "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     },
     {
-        "title": "Arizona bars are packed. The state is a coronavirus hot spot",
-        "link": "https://www.latimes.com/world-nation/story/2020-06-15/partygoers-have-been-packing-arizona-bars-and-nightclubs-now-the-state-is-a-coronavirus-hot-spot"
+        "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
     }
 ];
