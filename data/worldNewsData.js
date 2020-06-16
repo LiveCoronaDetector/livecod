@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/15/other_sports/1592201687_891582.html"
     },
     {
-        "title": "Coronavirus: US withdraws emergency use of hydroxychloroquine",
-        "link": "https://www.bbc.com/news/world-us-canada-53054476"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
         "title": "Greece Reopens To Tourists, But Some Coronavirus Restrictions Apply",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.clickondetroit.com/news/local/2020/06/15/vice-president-mike-pence-to-visit-sterling-heights-thursday/"
     },
     {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
-    },
-    {
-        "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing closes sports halls",
+        "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing bans high-risk travellers from leaving city",
         "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
     },
     {
         "title": "Coronavirus Study: 1 in 5 People Worldwide at Risk",
         "link": "https://www.nytimes.com/2020/06/15/health/coronavirus-underlying-conditions.html"
+    },
+    {
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     }
 ];

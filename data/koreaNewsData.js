@@ -5,12 +5,32 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200616003051088?did=1195m"
     },
     {
+        "title": "코로나19 확진자 34명 증가…수도권 지역감염 17명",
+        "link": "https://www.nocutnews.co.kr/news/5361853"
+    },
+    {
         "title": "[속보] 코로나19 확진자 34명 증가···국내 발생 21명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
     },
     {
-        "title": "대전서 코로나19 확진자 3명 발생",
-        "link": "http://www.fnnews.com/news/202006160956107196"
+        "title": "베이징 확진자 100명 넘었다…\"우한보다 전염력 강해\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005838086&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 신규 확진자 34명...3일째 30명대[종합]",
+        "link": "http://www.fnnews.com/news/202006161028132548"
+    },
+    {
+        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
+    },
+    {
+        "title": "고양시 코로나19 56번째 확진자 발생",
+        "link": "http://www.kyeongin.com/main/view.php?key=20200616010003833"
+    },
+    {
+        "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "서울 코로나19 확진자 1132명…\"확진자 나온 강남 가라오케 폐쇄\"(종합)",
@@ -19,25 +39,5 @@ var koreaNewsData = [
     {
         "title": "대구시 \"이틀연속 신규 확진자·사망자 '0명'\"(전문)",
         "link": "https://news.imaeil.com/Society/2020061610345596484"
-    },
-    {
-        "title": "코로나19 신규 확진자 34명...3일째 30명대[종합]",
-        "link": "http://www.fnnews.com/news/202006161028132548"
-    },
-    {
-        "title": "전세계 코로나19 감염자 800만명 넘어…사망자는 43만명",
-        "link": "https://www.hankyung.com/international/article/2020061606987"
-    },
-    {
-        "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[단독]강남 룸살롱 다시 문연지 하루만에…직원 코로나 확진",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061609270550233"
-    },
-    {
-        "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
-        "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     }
 ];
