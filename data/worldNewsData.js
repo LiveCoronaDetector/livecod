@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/15/874850445/greece-reopens-to-tourism-but-some-coronavirus-restrictions-apply"
     },
     {
-        "title": "Coronavirus: France announces significant lifting of restrictions",
-        "link": "https://www.bbc.com/news/world-europe-52978327"
+        "title": "Germany investing in coronavirus vaccine maker that it accused the Trump administration of trying to poach",
+        "link": "https://www.marketwatch.com/story/germany-investing-in-coronavirus-vaccine-maker-that-it-accused-the-trump-administration-of-trying-to-poach-2020-06-15"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news, today",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
-        "title": "Dow swings more than 1,000 points in turbulent trading",
-        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
-    },
-    {
-        "title": "Arizona bars are packed. The state is a coronavirus hot spot",
-        "link": "https://www.latimes.com/world-nation/story/2020-06-15/partygoers-have-been-packing-arizona-bars-and-nightclubs-now-the-state-is-a-coronavirus-hot-spot"
-    },
-    {
-        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
-        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
+        "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing closes sports halls",
+        "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
     },
     {
         "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
+    },
+    {
+        "title": "Trump dismisses uptick in US coronavirus cases and suggests a 'stop' to testing",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-latest-coronavirus-cases-usa-update-testing-numbers-a9567566.html"
+    },
+    {
+        "title": "Dow swings more than 1,000 points in turbulent trading",
+        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
     }
 ];
