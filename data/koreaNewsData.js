@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006161022001&code=940601"
     },
     {
+        "title": "6월 16일 ‘코로나19’ 전세계 확진자 794만명…그리스 입국허용 잠정 중단 등...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/16/2020061680149.html"
+    },
+    {
         "title": "서울 코로나19 확진자 1132명…\"확진자 나온 강남 가라오케 폐쇄\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200616_0001061354&cID=14001&pID=14000"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 확진 34명…수도권 지역환자 16일 만에 10명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/16/2020061601381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 확진 34명 늘어…사흘 연속 30명대",
-        "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     }
 ];
