@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/15/asia/coronavirus-beijing-outbreak-intl-hnk/index.html"
     },
     {
+        "title": "Readout from the Vice President's Governors Briefing on COVID-19 Response & Recovery & Supporting America's Workers",
+        "link": "https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-governors-briefing-covid-19-response-recovery-supporting-americas-workers/"
+    },
+    {
         "title": "Coronavirus live news: New Zealand records first new cases for weeks as Beijing closes sports halls",
         "link": "https://www.theguardian.com/world/live/2020/jun/16/coronavirus-live-news-covid-19-update-global-cases-pass-8-million-beijing-china-partial-lockdown-latest-updates"
     },
     {
-        "title": "Watch: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/06/15/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
+        "title": "Coronavirus Study: 1 in 5 People Worldwide at Risk",
+        "link": "https://www.nytimes.com/2020/06/15/health/coronavirus-underlying-conditions.html"
     },
     {
-        "title": "Trump dismisses uptick in US coronavirus cases and suggests a 'stop' to testing",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-latest-coronavirus-cases-usa-update-testing-numbers-a9567566.html"
-    },
-    {
-        "title": "Dow swings more than 1,000 points in turbulent trading",
-        "link": "https://www.cnn.com/2020/06/14/investing/global-stocks/index.html"
+        "title": "Republicans urge Trump not to terminate relationship with World Health Organization",
+        "link": "https://www.cnn.com/2020/06/15/politics/house-republican-coronavirus-origin-investigation-who/index.html"
     }
 ];
