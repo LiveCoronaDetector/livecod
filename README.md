@@ -1,5 +1,7 @@
 # LiveCorona
 
+![crawl current data](https://github.com/LiveCoronaDetector/livecod/workflows/crawl%20current%20data/badge.svg) ![crawl cumulative data](https://github.com/LiveCoronaDetector/livecod/workflows/crawl%20cumulative%20data/badge.svg)
+
 - **사이트 주소: https://livecorona.co.kr**
 - 본 소스는 자유롭게 사용하셔도 좋습니다. 데이터만 가져다 쓰실 경우 [`totalDataSet.js`](http://livecorona.co.kr/totalDataSet.js)를 참고해주세요.
 - [Update History](https://www.notion.so/fc332cf039fd4f61b38a80bc2fc8acb9)
