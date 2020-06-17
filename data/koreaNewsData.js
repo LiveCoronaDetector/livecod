@@ -17,14 +17,6 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020061719365578913"
     },
     {
-        "title": "[단독] 정부의 코로나 방역비 후려치기",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/18/2020061800076.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "푸틴 지켜라…모스크바 외곽 관저·크렘린에 '코로나 살균터널'(종합)",
-        "link": "http://yna.kr/AKR20200617068451009?did=1195m"
-    },
-    {
         "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
         "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
     },
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
         "link": "http://www.fnnews.com/news/202006171103318613"
+    },
+    {
+        "title": "대전시, 코로나19 56~59번 확진자 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002650865&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "세종하이텍고 등교수업 중지…교직원이 확진자 밀접접촉",
+        "link": "http://yna.kr/AKR20200617058200063?did=1195m"
     }
 ];
