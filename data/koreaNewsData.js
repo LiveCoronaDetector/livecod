@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     },
     {
+        "title": "대전서 4명 더 코로나19 감염…모두 49번 확진자와 관련(종합)",
+        "link": "http://yna.kr/AKR20200617048751063?did=1195m"
+    },
+    {
         "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     },
@@ -21,16 +25,12 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020061719365578913"
     },
     {
-        "title": "대전서 4명 더 코로나19 감염…모두 49번 확진자와 관련(종합)",
-        "link": "http://yna.kr/AKR20200617048751063?did=1195m"
-    },
-    {
         "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
         "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
     },
     {
-        "title": "[속보] 키움증권 리서치센터장 코로나19 확진…증권가 첫 사례",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006170422&t=NN"
+        "title": "전주에서 등교개학후 고3 확진자 나와",
+        "link": "http://www.hani.co.kr/arti/area/honam/949740.html"
     },
     {
         "title": "[종합] 코로나19 확진자 43명 증가...대전도 신규 확진자 증가",

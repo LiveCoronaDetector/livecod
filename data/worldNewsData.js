@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Coronavirus live updates: How national responses stack up; firm says UV light can 'degrade' virus",
-        "link": "https://www.cnbc.com/2020/06/17/coronavirus-live-updates.html"
+        "title": "Dexamethasone Reduces Coronavirus Deaths, Scientists Say",
+        "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
     },
     {
         "title": "5 things to know for June 17: Coronavirus, police, White House, India-China, Apple",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
-        "title": "Don't blame public for Covid-19 spread, says UK scientist",
-        "link": "https://www.theguardian.com/world/2020/jun/16/dont-blame-public-for-covid-19-spread-says-uk-scientist"
+        "title": "New Zealand prime minister assigns military to oversee coronavirus quarantines after 2 new cases",
+        "link": "https://www.foxnews.com/world/new-zealand-prime-minister-assigns-military-to-oversee-coronavirus-quarantines-after-2-leave-early-test-positive"
     }
 ];
