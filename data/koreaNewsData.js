@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     },
     {
-        "title": "제주 코로나19 16번째 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020061619120579338?utm_source=naver&utm_medium=search"
+        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
-        "title": "롯데택배 송파 물류센터서 확진자…\"같은 날 근무 159명\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005836048&plink=ORI&cooper=NAVER"
+        "title": "롯데택배 송파 물류센터서 코로나 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/capital/949370.html"
     },
     {
         "title": "트럼프 대통령 압박에 효과없는 코로나 백신 가능성 우려",

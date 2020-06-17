@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
     },
     {
-        "title": "Twenty Indian soldiers dead after clash with China along disputed border",
-        "link": "https://www.cnn.com/2020/06/16/asia/china-india-border-clash-intl-hnk/index.html"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/17/other_sports/1592348292_857622.html"
     },
     {
         "title": "Coronavirus speeds up American suppliers' exodus from China",
         "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
     },
     {
-        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
+        "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+        "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
+        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Live updates: Pence calls concerns about coronavirus spike ‘overblown’ as cases surge in a dozen states",
+        "link": "https://www.washingtonpost.com/nation/2020/06/16/coronavirus-update-us/"
     },
     {
         "title": "Don't blame public for Covid-19 spread, says UK scientist",
         "link": "https://www.theguardian.com/world/2020/jun/16/dont-blame-public-for-covid-19-spread-says-uk-scientist"
-    },
-    {
-        "title": "Coronavirus: Dexamethasone proves first life-saving drug",
-        "link": "https://www.bbc.com/news/health-53061281"
     }
 ];
