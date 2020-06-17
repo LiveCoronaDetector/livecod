@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     },
     {
-        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
+        "title": "전주여고 3학년 '중간고사 마지막 날' 코로나19 확진…학생·교사 전수검사(종...",
+        "link": "http://www.fnnews.com/news/202006171555339222"
     },
     {
         "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061701822.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
-        "link": "http://www.fnnews.com/news/202006171103318613"
+        "title": "'코로나19' 확진자 나온 전주여고, 조사 대상만 '960명'",
+        "link": "https://www.nocutnews.co.kr/news/5362970"
     },
     {
-        "title": "“수도권 집단감염 계속”...코로나19 신규 확진자 43명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200617500044&wlog_tag3=naver"
+        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
+        "link": "http://www.fnnews.com/news/202006171103318613"
     },
     {
         "title": "온두라스 대통령도 코로나19 확진…“원격 근무할 수 있어”",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1274091"
     },
     {
-        "title": "'코로나19' 확진자 나온 전주여고, 조사 대상만 '960명'",
-        "link": "https://www.nocutnews.co.kr/news/5362970"
+        "title": "“수도권 집단감염 계속”...코로나19 신규 확진자 43명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200617500044&wlog_tag3=naver"
     },
     {
-        "title": "[단독]\"유흥업소 방치해 코로나 확산\"…보수단체, 박원순 서울시장 고발",
-        "link": "https://view.asiae.co.kr/article/2020061710141945278"
+        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
     }
 ];

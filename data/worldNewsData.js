@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thai-pilot-food-deliveries-covid-19/index.html"
     },
     {
-        "title": "China bans salmon imports over new outbreak as consumers leap to conclusions",
-        "link": "https://www.scmp.com/news/china/society/article/3089320/coronavirus-china-halts-salmon-imports-over-possible-link"
+        "title": "Coronavirus speeds up American suppliers' exodus from China",
+        "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
+    },
+    {
+        "title": "Trump Hydroxychloroquine Push Secured Millions of Likely Useless Coronavirus Pills",
+        "link": "https://www.nytimes.com/2020/06/16/us/politics/trump-hydroxychloroquine-coronavirus.html"
     },
     {
         "title": "New Zealand puts Covid-19 quarantine in hands of military after border fiasco",
         "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
     },
     {
-        "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
-        "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
+        "title": "WHO cheers COVID-19 trial results of dexamethasone",
+        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     },
     {
-        "title": "Live Coronavirus Updates",
+        "title": "Honduran President Tests Positive",
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
-    },
-    {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     }
 ];
