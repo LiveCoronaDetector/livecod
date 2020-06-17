@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     },
     {
-        "title": "China's 'grave' new coronavirus outbreak raises fears for rest of the world",
-        "link": "https://www.foxbusiness.com/lifestyle/chinas-new-coronavirus-outbreak-raises-fears-for-rest-of-the-world"
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     }
 ];
