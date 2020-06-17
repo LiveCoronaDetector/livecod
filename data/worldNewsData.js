@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/17/other_sports/1592348292_857622.html"
+        "title": "Thai pilot, grounded by Covid-19, shifts to motorbike food deliveries",
+        "link": "https://www.cnn.com/travel/article/thai-pilot-food-deliveries-covid-19/index.html"
     },
     {
         "title": "Pentagon warns China is exploiting the coronavirus pandemic to wage 'economic warfare' on the US",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+        "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
+        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
     }
 ];
