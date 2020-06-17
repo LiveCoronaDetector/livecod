@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
     },
     {
-        "title": "20 Indian soldiers killed in border clashes with Chinese troops",
-        "link": "https://abcnews.go.com/International/20-indian-soldiers-killed-border-clashes-chinese-troops/story?id=71282895"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/17/other_sports/1592348292_857622.html"
     },
     {
         "title": "Coronavirus speeds up American suppliers' exodus from China",
         "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
     },
     {
+        "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
+        "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
+    },
+    {
         "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
         "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
     {
+        "title": "New Zealand no longer coronavirus-free as new cases appear",
+        "link": "https://www.foxnews.com/world/new-zealand-no-longer-coronavirus-free"
+    },
+    {
         "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
         "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
-    },
-    {
-        "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
-        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
-    },
-    {
-        "title": "Don't blame public for Covid-19 spread, says UK scientist",
-        "link": "https://www.theguardian.com/world/2020/jun/16/dont-blame-public-for-covid-19-spread-says-uk-scientist"
     }
 ];
