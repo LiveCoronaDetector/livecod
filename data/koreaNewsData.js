@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061704216.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 확진자 21명 오늘 추가…요양시설 사망자 나와",
-        "link": "http://yna.kr/AKR20200617104951004?did=1195m"
+        "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
+        "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     },
     {
         "title": "푸틴 지켜라…모스크바 외곽 관저·크렘린에 '코로나 살균터널'(종합)",
         "link": "http://yna.kr/AKR20200617068451009?did=1195m"
     },
     {
-        "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
-        "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
-    },
-    {
         "title": "베이징 코로나 확진자 31명 추가 발생…모든 지역 ‘봉쇄식 관리’",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014699737&code=61131111&cp=nv"
+    },
+    {
+        "title": "서울 코로나 확진자 21명 추가…확진자 누계 1166명",
+        "link": "https://view.asiae.co.kr/article/2020061719365578913"
     },
     {
         "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",

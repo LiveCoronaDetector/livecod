@@ -13,24 +13,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Coronavirus live news: WHO halts trial of hydroxychloroquine; Germany bans all major events until October",
-        "link": "https://www.theguardian.com/world/live/2020/jun/17/coronavirus-live-news-brazil-adds-record-35000-covid-19-cases-as-infections-surge-in-six-us-states-latest-updates"
+        "title": "Germany reports 657 new coronavirus cases linked to slaughterhouse",
+        "link": "https://www.foxnews.com/world/germany-657-new-coronavirus-cases-slaughterhouse"
     },
     {
         "title": "5 things to know for June 17: Coronavirus, police, White House, India-China, Apple",
         "link": "https://www.cnn.com/2020/06/17/us/five-things-june-17-trnd/index.html"
     },
     {
-        "title": "China races to contain a second wave of coronavirus cases in Beijing",
-        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-second-wave-surge/"
+        "title": "Coronavirus speeds up American suppliers' exodus from China",
+        "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
     },
     {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
-    },
-    {
-        "title": "New Zealand officials admit two women with Covid-19 met friends",
-        "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
     },
     {
         "title": "World Health Organization drops hydroxychloroquine from its coronavirus trial",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "China's 'grave' new coronavirus outbreak raises fears for rest of the world",
         "link": "https://www.foxbusiness.com/lifestyle/chinas-new-coronavirus-outbreak-raises-fears-for-rest-of-the-world"
+    },
+    {
+        "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
+        "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
     }
 ];

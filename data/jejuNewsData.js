@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=316849"
     },
     {
-        "title": "“확진자 나왔는데”…계명대 대면시험 강행 ‘논란’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471996&ref=A"
+        "title": "제주도 코로나 15번 확진자 퇴원...격리 입원환자 '0명'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=419678"
     }
 ];
