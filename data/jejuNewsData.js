@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4472297&ref=A"
     },
     {
-        "title": "제주도, 7월1일 해수욕장 11곳 일제 개장...코로나 대응반 운영",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=316849"
+        "title": "“확진자 나왔는데”…계명대 대면시험 강행 ‘논란’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4472341&ref=A"
     }
 ];
