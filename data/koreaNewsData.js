@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617068451009?did=1195m"
     },
     {
-        "title": "경기 의왕시 롯데제과 물류센터서 확진자 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061704216.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     },
     {
-        "title": "베이징 코로나 확진자 31명 추가 발생…모든 지역 ‘봉쇄식 관리’",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014699737&code=61131111&cp=nv"
+        "title": "위기의 베이징, 엿새만에 확진자 140명 육박",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061701822.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "롯데제과 물류센터서 코로나19 확진자 발생 '운영중단'",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061721590199855"
     },
     {
         "title": "서울 코로나 확진자 21명 추가…확진자 누계 1166명",
