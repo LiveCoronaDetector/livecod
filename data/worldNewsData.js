@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
     },
     {
-        "title": "Cheap, Widely Used Steroid Dexamethasone Reduces Risk of Death from Covid-19: Study",
-        "link": "https://www.youtube.com/watch?v=P0Ydkvpi95I"
-    },
-    {
         "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
         "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Don't blame public for Covid-19 spread, says UK scientist",
         "link": "https://www.theguardian.com/world/2020/jun/16/dont-blame-public-for-covid-19-spread-says-uk-scientist"
+    },
+    {
+        "title": "Coronavirus: Dexamethasone proves first life-saving drug",
+        "link": "https://www.bbc.com/news/health-53061281"
     }
 ];

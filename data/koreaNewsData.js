@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/949532.html"
     },
     {
-        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
+        "title": "제주 코로나19 16번째 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020061619120579338?utm_source=naver&utm_medium=search"
     },
     {
         "title": "롯데택배 송파 물류센터서 확진자…\"같은 날 근무 159명\"",
