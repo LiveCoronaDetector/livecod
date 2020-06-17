@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     },
     {
-        "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
-        "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
-    },
-    {
-        "title": "위기의 베이징, 엿새만에 확진자 140명 육박",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061701822.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
         "link": "http://www.fnnews.com/news/202006171103318613"
     },
@@ -21,23 +13,31 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
     },
     {
-        "title": "전주서 확진자 발생…전주여고 3학년생",
-        "link": "https://www.nocutnews.co.kr/news/5362689"
+        "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
+        "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     },
     {
-        "title": "[종합] 코로나19 확진자 43명 증가...대전도 신규 확진자 증가",
-        "link": "http://www.fnnews.com/news/202006171445118494"
-    },
-    {
-        "title": "'코로나 종식선언' 뉴질랜드, 해외유입 확진자 나오자 군대 동원(종합)",
-        "link": "http://yna.kr/AKR20200617099451009?did=1195m"
+        "title": "위기의 베이징, 엿새만에 확진자 140명 육박",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061701822.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 확진 43명 늘어…수도권 28명, 대전·충남 6명",
         "link": "http://www.hani.co.kr/arti/society/health/949725.html"
     },
     {
+        "title": "전주에서 등교개학후 고3 확진자 나와",
+        "link": "http://www.hani.co.kr/arti/area/honam/949740.html"
+    },
+    {
         "title": "[종합] 서울 지하철2호선 시청역 안전요원 3명 코로나 확진",
         "link": "https://www.hankyung.com/society/article/2020061777967"
+    },
+    {
+        "title": "전주서 확진자 발생…전주여고 3학년생",
+        "link": "https://www.nocutnews.co.kr/news/5362689"
+    },
+    {
+        "title": "코로나19 신규 확진 43명…“수도권 28명·대전 5명·검역 7명”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4472501&ref=A"
     }
 ];
