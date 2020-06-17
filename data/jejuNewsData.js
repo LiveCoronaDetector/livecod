@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006162012283868"
     },
     {
+        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
+    },
+    {
         "title": "'코로나' 접촉자 격리장소 옮겨주자 마트행…무단이탈 2명 적발",
         "link": "https://www.news1.kr/articles/?3966700"
     },
@@ -23,10 +27,6 @@ var jejuNewsData = [
     {
         "title": "제주지역 16번째 코로나19 확진자 발생… 접촉자 0명",
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=322720"
-    },
-    {
-        "title": "18일부터 제주도내 공공시설 재개방",
-        "link": "http://www.jemin.com/news/articleView.html?idxno=661200"
     },
     {
         "title": "“확진자 나왔는데”…계명대 대면시험 강행 ‘논란’",

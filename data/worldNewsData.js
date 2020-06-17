@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Germany reports 657 new coronavirus cases linked to slaughterhouse",
-        "link": "https://www.foxnews.com/world/germany-657-new-coronavirus-cases-slaughterhouse"
+        "title": "Germany Sees Largest Local Covid-19 Outbreak Since Lifting Lockdown",
+        "link": "https://www.wsj.com/articles/germany-sees-largest-local-covid-19-outbreak-since-lifting-lockdown-11592415003"
     },
     {
         "title": "5 things to know for June 17: Coronavirus, police, White House, India-China, Apple",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
-        "title": "World Health Organization drops hydroxychloroquine from its coronavirus trial",
-        "link": "https://www.cnbc.com/2020/06/17/world-health-organization-drops-hydroxychloroquine-from-covid-trial.html"
-    },
-    {
-        "title": "WHO cheers COVID-19 trial results of dexamethasone",
-        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
+        "title": "New Zealand officials admit two women with Covid-19 met friends",
+        "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
     },
     {
         "title": "Coronavirus: Trudeau says Canada-U.S. border measures extended to July 21",
         "link": "https://www.youtube.com/watch?v=g2D1wZYqWPY"
+    },
+    {
+        "title": "WHO cheers COVID-19 trial results of dexamethasone",
+        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     }
 ];

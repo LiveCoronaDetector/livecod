@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1274091"
     },
     {
-        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
-        "link": "http://www.fnnews.com/news/202006171103318613"
+        "title": "[종합] 코로나19 확진자 43명 증가...대전도 신규 확진자 증가",
+        "link": "http://www.fnnews.com/news/202006171445118494"
     },
     {
         "title": "대전시, 코로나19 56~59번 확진자 동선 공개",
