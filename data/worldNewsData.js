@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Record spike in new coronavirus cases reported in six U.S. states as reopening accelerates",
-        "link": "https://www.cnbc.com/2020/06/17/record-spike-in-new-coronavirus-cases-reported-in-six-us-states-as-reopening-accelerates.html"
+        "title": "Americans reportedly find 'loophole' to violate Canada's Covid-19 border closure",
+        "link": "https://www.theguardian.com/world/2020/jun/17/americans-reportedly-find-loophole-violate-canadas-covid-19-border-closure"
     },
     {
         "title": "The battle to become Europe's safest holiday destination",
