@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus: 'India's healthcare system failed my family'",
-        "link": "https://www.bbc.com/news/world-asia-india-52990324"
+        "title": "Thai pilot, grounded by Covid-19, shifts to motorbike food deliveries",
+        "link": "https://www.cnn.com/travel/article/thai-pilot-food-deliveries-covid-19/index.html"
     },
     {
-        "title": "Coronavirus speeds up American suppliers' exodus from China",
-        "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
+        "title": "Pentagon warns China is exploiting the coronavirus pandemic to wage 'economic warfare' on the US",
+        "link": "https://www.cnn.com/2020/06/16/politics/pentagon-china-economic-warfare/index.html"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
-        "link": "https://www.washingtonpost.com/nation/2020/06/17/coronavirus-live-updates-us/"
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     },
     {
         "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
