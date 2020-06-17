@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
     },
     {
+        "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
+        "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
+    },
+    {
+        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+    },
+    {
         "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
         "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
     },
     {
         "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
         "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
-    },
-    {
-        "title": "Live updates: Pence calls concerns about coronavirus spike ‘overblown’ as cases surge in a dozen states",
-        "link": "https://www.washingtonpost.com/nation/2020/06/16/coronavirus-update-us/"
-    },
-    {
-        "title": "Don't blame public for Covid-19 spread, says UK scientist",
-        "link": "https://www.theguardian.com/world/2020/jun/16/dont-blame-public-for-covid-19-spread-says-uk-scientist"
     }
 ];
