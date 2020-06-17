@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/17/other_sports/1592348292_857622.html"
     },
     {
-        "title": "Coronavirus speeds up American suppliers' exodus from China",
-        "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
-    },
-    {
-        "title": "Beijing coronavirus outbreak: travel restricted to tackle 'extremely severe' situation",
-        "link": "https://www.theguardian.com/world/2020/jun/16/beijing-coronavirus-outbreak-travel-restricted-china-severe-measures"
-    },
-    {
-        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Pentagon warns China is exploiting the coronavirus pandemic to wage 'economic warfare' on the US",
+        "link": "https://www.cnn.com/2020/06/16/politics/pentagon-china-economic-warfare/index.html"
     },
     {
         "title": "New Zealand no longer coronavirus-free as new cases appear",
         "link": "https://www.foxnews.com/world/new-zealand-no-longer-coronavirus-free"
     },
     {
+        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+    },
+    {
         "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
         "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
+    },
+    {
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     }
 ];

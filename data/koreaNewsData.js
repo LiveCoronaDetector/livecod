@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061701822.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 확진에 대전과 세종서 잇달아 등교 중지",
-        "link": "https://news.joins.com/article/olink/23398248"
-    },
-    {
-        "title": "대전서 4명 더 코로나19 감염…모두 49번 확진자와 관련(종합)",
-        "link": "http://yna.kr/AKR20200617048751063?did=1195m"
+        "title": "대전시, 코로나19 56~59번 확진자 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002650865&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "올들어 사이버 공격 310만건 발생…코로나19 영향",
         "link": "http://www.inews24.com/view/1274091"
     },
     {
+        "title": "코로나19 대전 집단확산 중심에 49번 확진자…9명 추가 감염",
+        "link": "http://yna.kr/AKR20200617089900063?did=1195m"
+    },
+    {
         "title": "[종합] 코로나19 확진자 43명 증가...수도권 25명, 대전 5명, 해외 12명",
         "link": "http://www.fnnews.com/news/202006171015415172"
     },
     {
-        "title": "도봉구 요양시설 확진자 11명 속출…서울서 5번째 사망자(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200617_0001062964&cID=14001&pID=14000"
+        "title": "대전 확진자, 수도권과 연관성 찾는중…방판업체 가능성 높아(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02853606625802704"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 43명...사흘만에 다시 40명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006171022001&code=940601"
+        "title": "도봉구 요양시설 확진자 11명 속출…서울서 5번째 사망자(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200617_0001062964&cID=14001&pID=14000"
     }
 ];
