@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     },
     {
-        "title": "Beijing coronavirus outbreak: city raises emergency level and grounds hundreds of flights",
-        "link": "https://www.theguardian.com/world/2020/jun/17/beijing-coronavirus-outbreak-city-raises-emergency-level-and-grounds-hundreds-of-flights"
+        "title": "China's 'grave' new coronavirus outbreak raises fears for rest of the world",
+        "link": "https://www.foxbusiness.com/lifestyle/chinas-new-coronavirus-outbreak-raises-fears-for-rest-of-the-world"
     },
     {
-        "title": "New Zealand prime minister assigns military to oversee coronavirus quarantines after 2 new cases",
-        "link": "https://www.foxnews.com/world/new-zealand-prime-minister-assigns-military-to-oversee-coronavirus-quarantines-after-2-leave-early-test-positive"
+        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     }
 ];

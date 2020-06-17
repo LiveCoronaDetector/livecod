@@ -9,8 +9,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     },
     {
-        "title": "서울 확진자 21명 오늘 추가…요양시설 사망자 나와",
-        "link": "http://yna.kr/AKR20200617104951004?did=1195m"
+        "title": "베이징 집단감염 140명 육박…신규 확진자 31명 또 늘어",
+        "link": "http://yna.kr/AKR20200617051900083?did=1195m"
+    },
+    {
+        "title": "서울 코로나 확진자 21명 추가…확진자 누계 1166명",
+        "link": "https://view.asiae.co.kr/article/2020061719365578913"
     },
     {
         "title": "[단독] 정부의 코로나 방역비 후려치기",
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617068451009?did=1195m"
     },
     {
-        "title": "베이징 코로나 확진자 31명 추가 발생…모든 지역 ‘봉쇄식 관리’",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014699737&code=61131111&cp=nv"
+        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
     },
     {
         "title": "전주여고 3학년 코로나19 확진…학생들 검사 후 귀가 예정(종합)",
         "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     },
     {
-        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
-    },
-    {
-        "title": "대전서 4명 더 코로나19 감염…모두 49번 확진자와 관련(종합)",
-        "link": "http://yna.kr/AKR20200617048751063?did=1195m"
-    },
-    {
         "title": "올들어 사이버 공격 310만건 발생…코로나19 영향",
         "link": "http://www.inews24.com/view/1274091"
+    },
+    {
+        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
+        "link": "http://www.fnnews.com/news/202006171103318613"
     }
 ];
