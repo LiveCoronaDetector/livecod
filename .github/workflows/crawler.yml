@@ -23,6 +23,7 @@ jobs:
           python "data/crawlKoreaAgeDeathsPerData.py"
           python "data/crawlKoreaNewsData.py"
           python "data/crawlWorldNewsData.py"
+          python "data/crawlJejuNewsData.py"
       - name: Commit files
         run: |
           git config --local user.email "commit-bot@taeuk.me"
