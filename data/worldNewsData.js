@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/16/politics/pentagon-china-economic-warfare/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-17-20-intl/index.html"
-    },
-    {
         "title": "Live Coronavirus Updates",
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
         "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
+    },
+    {
+        "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
+        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
     }
 ];
