@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-second-wave-surge/"
     },
     {
-        "title": "Coronavirus Live Updates: Millions of Doses of Malaria Drugs in Limbo",
+        "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     },
     {
-        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
-        "link": "https://www.washingtonpost.com/nation/2020/06/17/coronavirus-live-updates-us/"
+        "title": "Coronavirus live news: Sweden to lift advice against non-essential travel as death toll passes 5,000",
+        "link": "https://www.theguardian.com/world/live/2020/jun/17/coronavirus-live-news-brazil-adds-record-35000-covid-19-cases-as-infections-surge-in-six-us-states-latest-updates"
     },
     {
-        "title": "New Zealand prime minister assigns military to oversee coronavirus quarantines after 2 new cases",
-        "link": "https://www.foxnews.com/world/new-zealand-prime-minister-assigns-military-to-oversee-coronavirus-quarantines-after-2-leave-early-test-positive"
+        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/17/coronavirus-live-updates-us/"
     }
 ];
