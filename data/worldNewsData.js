@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Brazil Reports Big Surge In Coronavirus Infections : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/17/879038308/brazil-reports-big-surge-in-coronavirus-infections"
+        "title": "Record spike in new coronavirus cases reported in six U.S. states as reopening accelerates",
+        "link": "https://www.cnbc.com/2020/06/17/record-spike-in-new-coronavirus-cases-reported-in-six-us-states-as-reopening-accelerates.html"
     },
     {
         "title": "The battle to become Europe's safest holiday destination",
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Coronavirus live updates: New York City to enter next reopening phase Monday, Oklahoma sees spike ahead of Trump rally",
-        "link": "https://www.cnbc.com/2020/06/17/coronavirus-live-updates.html"
+        "title": "Coronavirus live news: WHO halts trial of hydroxychloroquine; Germany bans all major events until October",
+        "link": "https://www.theguardian.com/world/live/2020/jun/17/coronavirus-live-news-brazil-adds-record-35000-covid-19-cases-as-infections-surge-in-six-us-states-latest-updates"
     },
     {
         "title": "5 things to know for June 17: Coronavirus, police, White House, India-China, Apple",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
     },
     {
-        "title": "WHO cheers COVID-19 trial results of dexamethasone",
-        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
+        "title": "World Health Organization drops hydroxychloroquine from its coronavirus trial",
+        "link": "https://www.cnbc.com/2020/06/17/world-health-organization-drops-hydroxychloroquine-from-covid-trial.html"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+        "title": "WHO cheers COVID-19 trial results of dexamethasone",
+        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     }
 ];
