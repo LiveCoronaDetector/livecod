@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "She walked hundreds of miles with her daughters to the Amazon to escape Covid-19",
-        "link": "https://www.cnn.com/2020/06/17/americas/peru-coronavirus-walk-home-intl/index.html"
+        "title": "Brazil Reports Big Surge In Coronavirus Infections : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/17/879038308/brazil-reports-big-surge-in-coronavirus-infections"
     },
     {
         "title": "The battle to become Europe's safest holiday destination",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-second-wave-surge/"
     },
     {
-        "title": "Honduran President Tests Positive",
-        "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
-    },
-    {
         "title": "WHO cheers COVID-19 trial results of dexamethasone",
         "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     },
     {
-        "title": "Coronavirus Live Updates: Millions of Doses of Malaria Drugs in Limbo",
-        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+        "title": "Honduran President Tests Positive",
+        "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
-        "link": "https://www.washingtonpost.com/nation/2020/06/17/coronavirus-live-updates-us/"
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+    },
+    {
+        "title": "Don't blame public for Covid-19 spread, says UK scientist",
+        "link": "https://www.theguardian.com/world/2020/jun/16/dont-blame-public-for-covid-19-spread-says-uk-scientist"
     }
 ];
