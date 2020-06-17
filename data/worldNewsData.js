@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Coronavirus live updates: Oklahoma sees spike ahead of Trump rally, Target makes $15 minimum wage permanent",
+        "title": "Coronavirus live updates: New York City to enter next reopening phase Monday, Oklahoma sees spike ahead of Trump rally",
         "link": "https://www.cnbc.com/2020/06/17/coronavirus-live-updates.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     },
     {
-        "title": "China's 'grave' new coronavirus outbreak raises fears for rest of the world",
-        "link": "https://www.foxbusiness.com/lifestyle/chinas-new-coronavirus-outbreak-raises-fears-for-rest-of-the-world"
+        "title": "Beijing coronavirus outbreak: city raises emergency level and grounds hundreds of flights",
+        "link": "https://www.theguardian.com/world/2020/jun/17/beijing-coronavirus-outbreak-city-raises-emergency-level-and-grounds-hundreds-of-flights"
     },
     {
-        "title": "Coronavirus live news: Sweden to lift advice against non-essential travel as death toll passes 5,000",
-        "link": "https://www.theguardian.com/world/live/2020/jun/17/coronavirus-live-news-brazil-adds-record-35000-covid-19-cases-as-infections-surge-in-six-us-states-latest-updates"
+        "title": "New Zealand prime minister assigns military to oversee coronavirus quarantines after 2 new cases",
+        "link": "https://www.foxnews.com/world/new-zealand-prime-minister-assigns-military-to-oversee-coronavirus-quarantines-after-2-leave-early-test-positive"
     }
 ];
