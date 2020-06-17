@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Coronavirus live news: New Zealand to trace 320 'close contacts' of virus pair who stopped to meet friends",
-        "link": "https://www.theguardian.com/world/live/2020/jun/17/coronavirus-live-news-brazil-adds-record-35000-covid-19-cases-as-infections-surge-in-six-us-states-latest-updates"
+        "title": "They came to Canada as essential workers. Hundreds were infected with the coronavirus on the job",
+        "link": "https://www.cnn.com/2020/06/16/americas/canada-mexico-migrants-covid-19-intl/"
     },
     {
         "title": "The battle to become Europe's safest holiday destination",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
     },
     {
-        "title": "Thai pilot, grounded by Covid-19, shifts to motorbike food deliveries",
-        "link": "https://www.cnn.com/travel/article/thai-pilot-food-deliveries-covid-19/index.html"
+        "title": "New warnings as COVID infections rise in the US",
+        "link": "https://www.youtube.com/watch?v=kuM3Lr-bVBU"
     },
     {
         "title": "Coronavirus speeds up American suppliers' exodus from China",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     },
     {
-        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/16/coronavirus-update-us/"
     }
 ];
