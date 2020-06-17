@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     },
     {
-        "title": "Coronavirus live news: Sweden to lift advice against non-essential travel as death toll passes 5,000",
-        "link": "https://www.theguardian.com/world/live/2020/jun/17/coronavirus-live-news-brazil-adds-record-35000-covid-19-cases-as-infections-surge-in-six-us-states-latest-updates"
+        "title": "China's 'grave' new coronavirus outbreak raises fears for rest of the world",
+        "link": "https://www.foxbusiness.com/lifestyle/chinas-new-coronavirus-outbreak-raises-fears-for-rest-of-the-world"
     },
     {
-        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
-        "link": "https://www.washingtonpost.com/nation/2020/06/17/coronavirus-live-updates-us/"
+        "title": "Coronavirus live news: Sweden to lift advice against non-essential travel as death toll passes 5,000",
+        "link": "https://www.theguardian.com/world/live/2020/jun/17/coronavirus-live-news-brazil-adds-record-35000-covid-19-cases-as-infections-surge-in-six-us-states-latest-updates"
     }
 ];
