@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Germany Sees Largest Local Covid-19 Outbreak Since Lifting Lockdown",
-        "link": "https://www.wsj.com/articles/germany-sees-largest-local-covid-19-outbreak-since-lifting-lockdown-11592415003"
+        "title": "Germany reports 657 new coronavirus cases linked to slaughterhouse",
+        "link": "https://www.foxnews.com/world/germany-657-new-coronavirus-cases-slaughterhouse"
     },
     {
         "title": "5 things to know for June 17: Coronavirus, police, White House, India-China, Apple",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
     },
     {
-        "title": "Coronavirus: Trudeau says Canada-U.S. border measures extended to July 21",
-        "link": "https://www.youtube.com/watch?v=g2D1wZYqWPY"
+        "title": "US extends border closure agreements with Canada, Mexico into July",
+        "link": "https://www.usatoday.com/story/travel/news/2020/06/16/when-us-canada-border-open-july-us-mexico-border/3199173001/"
     },
     {
-        "title": "WHO cheers COVID-19 trial results of dexamethasone",
-        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
+        "title": "World Health Organization drops hydroxychloroquine from its coronavirus trial",
+        "link": "https://www.cnbc.com/2020/06/17/world-health-organization-drops-hydroxychloroquine-from-covid-trial.html"
     }
 ];
