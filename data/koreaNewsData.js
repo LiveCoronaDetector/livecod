@@ -5,16 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     },
     {
-        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
-        "link": "http://www.fnnews.com/news/202006171103318613"
-    },
-    {
         "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
         "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
-    },
-    {
-        "title": "코로나 확진에 대전과 세종서 잇달아 등교 중지",
-        "link": "https://news.joins.com/article/olink/23398248"
     },
     {
         "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
@@ -25,19 +17,27 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061701822.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "온두라스 대통령도 코로나19 확진…“원격 근무할 수 있어”",
-        "link": "http://www.hani.co.kr/arti/international/international_general/949758.html"
-    },
-    {
-        "title": "전주에서 등교개학후 고3 확진자 나와",
-        "link": "http://www.hani.co.kr/arti/area/honam/949740.html"
+        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
+        "link": "http://www.fnnews.com/news/202006171103318613"
     },
     {
         "title": "“수도권 집단감염 계속”...코로나19 신규 확진자 43명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200617500044&wlog_tag3=naver"
     },
     {
+        "title": "온두라스 대통령도 코로나19 확진…“원격 근무할 수 있어”",
+        "link": "http://www.hani.co.kr/arti/international/international_general/949758.html"
+    },
+    {
         "title": "올들어 사이버 공격 310만건 발생…코로나19 영향",
         "link": "http://www.inews24.com/view/1274091"
+    },
+    {
+        "title": "'코로나19' 확진자 나온 전주여고, 조사 대상만 '960명'",
+        "link": "https://www.nocutnews.co.kr/news/5362970"
+    },
+    {
+        "title": "[단독]\"유흥업소 방치해 코로나 확산\"…보수단체, 박원순 서울시장 고발",
+        "link": "https://view.asiae.co.kr/article/2020061710141945278"
     }
 ];

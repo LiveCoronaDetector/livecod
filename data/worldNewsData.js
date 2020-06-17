@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
     },
     {
-        "title": "Brazil ignored the warnings. Now, while other countries fret over a second coronavirus wave, it can't get past its first.",
-        "link": "https://www.msn.com/en-us/news/world/brazil-ignored-the-warnings-now-while-other-countries-fret-over-a-second-coronavirus-wave-it-cant-get-past-its-first/ar-BB15ym9T?li=BBnb7Kz"
+        "title": "Thai pilot, grounded by Covid-19, shifts to motorbike food deliveries",
+        "link": "https://www.cnn.com/travel/article/thai-pilot-food-deliveries-covid-19/index.html"
     },
     {
-        "title": "Coronavirus speeds up American suppliers' exodus from China",
-        "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
+        "title": "China bans salmon imports over new outbreak as consumers leap to conclusions",
+        "link": "https://www.scmp.com/news/china/society/article/3089320/coronavirus-china-halts-salmon-imports-over-possible-link"
     },
     {
         "title": "New Zealand puts Covid-19 quarantine in hands of military after border fiasco",
         "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
     },
     {
-        "title": "WHO cheers COVID-19 trial results of dexamethasone",
-        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
+        "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
+        "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
     },
     {
         "title": "Live Coronavirus Updates",
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     }
 ];
