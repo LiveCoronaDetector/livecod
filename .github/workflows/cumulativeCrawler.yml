@@ -23,10 +23,12 @@ jobs:
           python "data/crawlWorldCumulativeData.py"
       - name: Commit files
         run: |
-          git config --local user.email "commit-bot@taeuk.me"
-          git config --local user.name "LiveCoronaBot"
-          git add data/koreaTotalCumulativeData.js data/koreaRegionalCumulativeData.js data/worldCumulativeData.js data/koreaTotalCumulativeData.js
-          git commit -m "Run crawler and update cumulative data"
+          if [[ -n $(git status --porcelain) ]]; then
+              git config --local user.email "commit-bot@taeuk.me"
+              git config --local user.name "LiveCoronaBot"
+              git add .
+              git commit -m "Run crawler and update cumulative data"
+          fi
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

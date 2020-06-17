@@ -26,10 +26,12 @@ jobs:
           python "data/crawlJejuNewsData.py"
       - name: Commit files
         run: |
-          git config --local user.email "commit-bot@taeuk.me"
-          git config --local user.name "LiveCoronaBot"
-          git add .
-          git commit -m "Run crawler and update current data"
+          if [[ -n $(git status --porcelain) ]]; then
+              git config --local user.email "commit-bot@taeuk.me"
+              git config --local user.name "LiveCoronaBot"
+              git add .
+              git commit -m "Run crawler and update current data"
+          fi
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
