@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
     },
     {
-        "title": "New Zealand puts Covid-19 quarantine in hands of military after border fiasco",
+        "title": "New Zealand officials admit two women with Covid-19 met friends",
         "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
     },
     {
