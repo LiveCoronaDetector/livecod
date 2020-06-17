@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     },
     {
+        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
+    },
+    {
         "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006171103318613"
     },
     {
-        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
-    },
-    {
         "title": "“수도권 집단감염 계속”...코로나19 신규 확진자 43명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200617500044&wlog_tag3=naver"
     },
     {
-        "title": "전주서 확진자 발생…전주여고 3학년생",
-        "link": "https://www.nocutnews.co.kr/news/5362689"
+        "title": "온두라스 대통령도 코로나19 확진…“원격 근무할 수 있어”",
+        "link": "http://www.hani.co.kr/arti/international/international_general/949758.html"
     },
     {
         "title": "전주에서 등교개학후 고3 확진자 나와",
         "link": "http://www.hani.co.kr/arti/area/honam/949740.html"
     },
     {
-        "title": "[종합] 서울 지하철2호선 시청역 안전요원 3명 코로나 확진",
-        "link": "https://www.hankyung.com/society/article/2020061777967"
+        "title": "올들어 사이버 공격 310만건 발생…코로나19 영향",
+        "link": "http://www.inews24.com/view/1274091"
     },
     {
-        "title": "베이징 코로나19 재확산 조짐에 긴장…\"입국제한 논의 시기상조\"(종합)",
-        "link": "http://yna.kr/AKR20200616169051530?did=1195m"
+        "title": "전주서 확진자 발생…전주여고 3학년생",
+        "link": "https://www.nocutnews.co.kr/news/5362689"
     }
 ];
