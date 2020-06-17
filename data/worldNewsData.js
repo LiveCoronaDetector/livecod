@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Coronavirus live updates: Target makes $15 minimum wage permanent, Google offers nonprofits ad grants",
+        "title": "Coronavirus live updates: Oklahoma sees spike ahead of Trump rally, Target makes $15 minimum wage permanent",
         "link": "https://www.cnbc.com/2020/06/17/coronavirus-live-updates.html"
     },
     {
