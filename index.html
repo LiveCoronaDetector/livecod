@@ -998,7 +998,8 @@
             <div class="anchor" id="jejuStatus"></div>
             <div class="row">
               <div class="col-xl-6 col-lg-12">
-                <!-- 제주 최신 정보(최근 중국인 이동 경로) -->
+
+                <!-- 제주 최신 정보 -->
                 <div class="card shadow mb-4">
                   <!-- Card Header - Dropdown -->
                   <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
@@ -1011,7 +1012,7 @@
                       <!-- <div class="card">
                         <div class="card-header" id="headingFifteen">
                           <h2 class="mb-0 cases-title">
-                            <a target="_blank" href="https://www.jeju.go.kr/files/convert/202005/c48ef636-a0a2-428b-b11d-38a2699875e6.hwp.htm">
+                            <a target="_blank" href="#">
                               <button class="btn btn-link" type="button">열다섯번째 확진자</button>
                             </a>
                           </h2>
@@ -1020,7 +1021,7 @@
                       <div class="card">
                         <div class="card-header" id="headingGunpo">
                           <h2 class="mb-0 cases-title">
-                            <a target="_blank" href="https://www.jeju.go.kr/files/convert/202005/8e0d0370-29d1-4f23-815a-b4abdf674313.hwp.htm">
+                            <a target="_blank" href="#">
                               <button class="btn btn-link" type="button">군포시 확진자 A씨 일행 제주도 동선</button>
                             </a>
                           </h2>
@@ -1032,7 +1033,28 @@
                     </div>
                   </div>
                 </div>
-                <!-- //제주 최신 정보(최근 중국인 이동 경로) -->
+                <!-- //제주 최신 정보 -->
+
+                <!-- 제주 뉴스 -->
+                  <div class="card shadow mb-4">
+                    <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                      <h6 class="m-0 font-weight-bold text-danger">제주 주요 뉴스</h6>
+                      <div class="right"><a class="new_window" href="https://search.naver.com/search.naver?query=제주+코로나+확진자&where=news" target="_blank" alt="상세보기"><i class="fas fa-external-link-alt"></i></a></div>
+                    </div>
+                    <!-- Card Body -->
+                    <div class="card-body">
+                      <div class="accordion" id="JejuNewsDiv">
+                      </div>
+                      <div class="source mt-2">
+                        <span class="title">출처</span>
+                        <span class="desc">
+                        <a href="https://search.naver.com/search.naver?query=제주+코로나+확진자&where=news">네이버 뉴스 "제주 코로나 확진자" 검색(실시간, 주제에 대한 선별 작업은 하지 않음)</a>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                <!-- 제주 뉴스 끝 -->
+
                 <!-- 주 입도 현황(2월 4일 무사증 중단) -->
                 <div class="card shadow mb-4">
                   <!-- Card Header - Dropdown -->
@@ -1048,6 +1070,7 @@
                   </div>
                 </div>
                 <!-- //중국관광객 제주 입도 현황(2월 4일 무사증 중단) -->
+
                 <!-- 중국인 일일 입도 현황 -->
                 <div class="card shadow mb-4 jeju_in">
                   <!-- Card Header - Dropdown -->
@@ -1068,6 +1091,7 @@
                   </div>
                 </div>
                 <!-- //중국인 일일 입도 현황 -->
+
               </div>
               <div class="col-xl-6 col-lg-12">
                 <!-- 제주지역선별진료소 -->
@@ -1641,6 +1665,7 @@
     <script src="data/koreaAgeDeathsPerData.js"></script>
     <script src="data/koreaNewsData.js"></script>
     <script src="data/worldNewsData.js"></script>
+    <script src="data/jejuNewsData.js"></script>
     <script>
       var data = marker;
 
@@ -1767,9 +1792,12 @@
 
       var worldNewsDiv = document.getElementById('worldNewsDiv');
       var koreaNewsDiv = document.getElementById('koreaNewsDiv');
+      var JejuNewsDiv = document.getElementById('JejuNewsDiv');
 
       createNews(worldNewsData, worldNewsDiv, 30)
       createNews(koreaNewsData, koreaNewsDiv, 19)
+      createNews(jejuNewsData, JejuNewsDiv, 19)
+
     </script>
     <!-- 확진자 관련 table push 스크립트 : 확진자 이동경로 삭제에 따른 비활성화, 추후 다른 Table에 사용될 수도 있어 삭제하지 않음. -->
     <!-- <script src="js/renderTable.js"></script> -->
