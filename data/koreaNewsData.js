@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     },
     {
-        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
-        "link": "http://www.fnnews.com/news/202006171103318613"
-    },
-    {
         "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     },
@@ -17,16 +13,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061701822.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "“수도권 집단감염 계속”...코로나19 신규 확진자 43명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200617500044&wlog_tag3=naver"
+        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
+        "link": "http://www.fnnews.com/news/202006171103318613"
     },
     {
         "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
         "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
-    },
-    {
-        "title": "[속보]‘코로나19’ 확진자 43명 추가…나흘만에 40명대로 증가",
-        "link": "https://www.donga.com/news/article/all/20200617/101546636/1"
     },
     {
         "title": "전주서 확진자 발생…전주여고 3학년생",
@@ -35,6 +27,14 @@ var koreaNewsData = [
     {
         "title": "[종합] 코로나19 확진자 43명 증가...대전도 신규 확진자 증가",
         "link": "http://www.fnnews.com/news/202006171445118494"
+    },
+    {
+        "title": "'코로나 종식선언' 뉴질랜드, 해외유입 확진자 나오자 군대 동원(종합)",
+        "link": "http://yna.kr/AKR20200617099451009?did=1195m"
+    },
+    {
+        "title": "코로나19 확진 43명 늘어…수도권 28명, 대전·충남 6명",
+        "link": "http://www.hani.co.kr/arti/society/health/949725.html"
     },
     {
         "title": "[종합] 서울 지하철2호선 시청역 안전요원 3명 코로나 확진",

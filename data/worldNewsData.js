@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thai-pilot-food-deliveries-covid-19/index.html"
     },
     {
-        "title": "Pentagon warns China is exploiting the coronavirus pandemic to wage 'economic warfare' on the US",
-        "link": "https://www.cnn.com/2020/06/16/politics/pentagon-china-economic-warfare/index.html"
+        "title": "Coronavirus speeds up American suppliers' exodus from China",
+        "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
     },
     {
         "title": "Live Coronavirus Updates",
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
-    },
-    {
         "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
         "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
     },
     {
-        "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
-        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
+        "title": "New Zealand puts Covid-19 quarantine in hands of military after border fiasco",
+        "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
+    },
+    {
+        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
+        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
     }
 ];
