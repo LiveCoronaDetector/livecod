@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Dexamethasone Reduces Coronavirus Deaths, Scientists Say",
-        "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
+        "title": "Coronavirus live updates: Target makes $15 minimum wage permanent, Google offers nonprofits ad grants",
+        "link": "https://www.cnbc.com/2020/06/17/coronavirus-live-updates.html"
     },
     {
         "title": "5 things to know for June 17: Coronavirus, police, White House, India-China, Apple",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     },
     {
-        "title": "Honduran President Tests Positive",
-        "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
+        "title": "Coronavirus Live Updates: Millions of Doses of Malaria Drugs in Limbo",
+        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/17/coronavirus-live-updates-us/"
     },
     {
         "title": "New Zealand prime minister assigns military to oversee coronavirus quarantines after 2 new cases",
