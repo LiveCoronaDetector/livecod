@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "They came to Canada as essential workers. Hundreds were infected with the coronavirus on the job",
-        "link": "https://www.cnn.com/2020/06/16/americas/canada-mexico-migrants-covid-19-intl/"
+        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/17/coronavirus-live-updates-us/"
     },
     {
-        "title": "The battle to become Europe's safest holiday destination",
-        "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
+        "title": "India, Pakistan see deadliest day: Coronavirus live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-cases-hit-daily-record-live-updates-200617002826411.html"
     },
     {
         "title": "Dexamethasone Reduces Coronavirus Deaths, Scientists Say",

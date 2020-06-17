@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     },
     {
-        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
-        "link": "http://www.fnnews.com/news/202006171103318613"
-    },
-    {
-        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
-    },
-    {
         "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     },
@@ -21,8 +13,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061701822.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 확진 43명 늘어…수도권 28명, 대전·충남 6명",
-        "link": "http://www.hani.co.kr/arti/society/health/949725.html"
+        "title": "[속보] 전북 22번째 코로나19 확진자 발생...전주여고 3학년 추정",
+        "link": "http://www.fnnews.com/news/202006171103318613"
+    },
+    {
+        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
+    },
+    {
+        "title": "“수도권 집단감염 계속”...코로나19 신규 확진자 43명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200617500044&wlog_tag3=naver"
+    },
+    {
+        "title": "전주서 확진자 발생…전주여고 3학년생",
+        "link": "https://www.nocutnews.co.kr/news/5362689"
     },
     {
         "title": "전주에서 등교개학후 고3 확진자 나와",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020061777967"
     },
     {
-        "title": "전주서 확진자 발생…전주여고 3학년생",
-        "link": "https://www.nocutnews.co.kr/news/5362689"
-    },
-    {
-        "title": "코로나19 신규 확진 43명…“수도권 28명·대전 5명·검역 7명”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4472501&ref=A"
+        "title": "베이징 코로나19 재확산 조짐에 긴장…\"입국제한 논의 시기상조\"(종합)",
+        "link": "http://yna.kr/AKR20200616169051530?did=1195m"
     }
 ];
