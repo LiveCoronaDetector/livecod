@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-second-wave-surge/"
     },
     {
-        "title": "New Zealand officials admit two women with Covid-19 met friends",
-        "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
-    },
-    {
         "title": "Honduran President Tests Positive",
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Russia's Putin protected from coronavirus by disinfection tunnel - RIA",
-        "link": "https://www.yahoo.com/news/russias-putin-protected-coronavirus-disinfection-203906949.html"
-    },
-    {
         "title": "WHO cheers COVID-19 trial results of dexamethasone",
         "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
+    },
+    {
+        "title": "Coronavirus Live Updates: Millions of Doses of Malaria Drugs in Limbo",
+        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/17/coronavirus-live-updates-us/"
     }
 ];
