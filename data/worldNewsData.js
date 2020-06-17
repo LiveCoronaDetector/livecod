@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.who.int/news-room/detail/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients"
     },
     {
-        "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
-        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
-    },
-    {
         "title": "Brazil ignored the warnings. Now, while other countries fret over a second coronavirus wave, it can't get past its first.",
         "link": "https://www.msn.com/en-us/news/world/brazil-ignored-the-warnings-now-while-other-countries-fret-over-a-second-coronavirus-wave-it-cant-get-past-its-first/ar-BB15ym9T?li=BBnb7Kz"
+    },
+    {
+        "title": "Coronavirus live updates: Missouri, Georgia make big strides in reopening; U.S. Open to be held without fans",
+        "link": "https://www.cnbc.com/2020/06/16/coronavirus-live-updates.html"
     }
 ];
