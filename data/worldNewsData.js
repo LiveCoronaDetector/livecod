@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
     },
     {
-        "title": "Thai pilot, grounded by Covid-19, shifts to motorbike food deliveries",
-        "link": "https://www.cnn.com/travel/article/thai-pilot-food-deliveries-covid-19/index.html"
+        "title": "Brazil ignored the warnings. Now, while other countries fret over a second coronavirus wave, it can't get past its first.",
+        "link": "https://www.msn.com/en-us/news/world/brazil-ignored-the-warnings-now-while-other-countries-fret-over-a-second-coronavirus-wave-it-cant-get-past-its-first/ar-BB15ym9T?li=BBnb7Kz"
     },
     {
         "title": "Coronavirus speeds up American suppliers' exodus from China",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Should the World Be Worried About the 'Explosive' New Outbreak of Coronavirus in Beijing?",
-        "link": "https://news.yahoo.com/world-worried-explosive-outbreak-coronavirus-082326918.html"
+        "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html"
     }
 ];
