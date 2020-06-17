@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/17/world-health-organization-drops-hydroxychloroquine-from-covid-trial.html"
     },
     {
-        "title": "WHO cheers COVID-19 trial results of dexamethasone",
-        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
+        "title": "China's 'grave' new coronavirus outbreak raises fears for rest of the world",
+        "link": "https://www.foxbusiness.com/lifestyle/chinas-new-coronavirus-outbreak-raises-fears-for-rest-of-the-world"
     }
 ];
