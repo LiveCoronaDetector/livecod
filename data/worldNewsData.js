@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
     },
     {
-        "title": "Dexamethasone Reduces Coronavirus Deaths, Scientists Say",
-        "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
+        "title": "Coronavirus live updates: How national responses stack up; firm says UV light can 'degrade' virus",
+        "link": "https://www.cnbc.com/2020/06/17/coronavirus-live-updates.html"
     },
     {
         "title": "5 things to know for June 17: Coronavirus, police, White House, India-China, Apple",
