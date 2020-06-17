@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "They came to Canada as essential workers. Hundreds were infected with the coronavirus on the job",
-        "link": "https://www.cnn.com/2020/06/16/americas/canada-mexico-migrants-covid-19-intl/"
+        "title": "She walked hundreds of miles with her daughters to the Amazon to escape Covid-19",
+        "link": "https://www.cnn.com/2020/06/17/americas/peru-coronavirus-walk-home-intl/index.html"
     },
     {
         "title": "The battle to become Europe's safest holiday destination",
@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/europe/dexamethasone-coronavirus-covid.html"
     },
     {
-        "title": "New warnings as COVID infections rise in the US",
-        "link": "https://www.youtube.com/watch?v=kuM3Lr-bVBU"
+        "title": "5 things to know for June 17: Coronavirus, police, White House, India-China, Apple",
+        "link": "https://www.cnn.com/2020/06/17/us/five-things-june-17-trnd/index.html"
     },
     {
-        "title": "Coronavirus speeds up American suppliers' exodus from China",
-        "link": "https://www.foxbusiness.com/markets/coronavirus-speeds-up-china-supply-chain-exodus"
+        "title": "China races to contain a second wave of coronavirus cases in Beijing",
+        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-second-wave-surge/"
     },
     {
         "title": "New Zealand officials admit two women with Covid-19 met friends",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html"
     },
     {
-        "title": "WHO cheers COVID-19 trial results of dexamethasone",
-        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
+        "title": "Russia's Putin protected from coronavirus by disinfection tunnel - RIA",
+        "link": "https://www.yahoo.com/news/russias-putin-protected-coronavirus-disinfection-203906949.html"
     },
     {
-        "title": "Live updates: Nine states hit record highs for covid-19 cases as Pence calls fear of a second wave ‘overblown’",
-        "link": "https://www.washingtonpost.com/nation/2020/06/16/coronavirus-update-us/"
+        "title": "WHO cheers COVID-19 trial results of dexamethasone",
+        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     }
 ];
