@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3966700"
     },
     {
+        "title": "세종서 대전 확진자 접촉 40대 여성 확진…직장폐쇄",
+        "link": "http://www.newspim.com/news/view/20200618000389"
+    },
+    {
         "title": "대전 세종 충남 코로나19 확산세 지속",
         "link": "https://www.wikitree.co.kr/articles/543751"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 제주 16번째 확진자 발생…“접촉자 없는 듯”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4472169&ref=A"
-    },
-    {
-        "title": "코로나19 확산 위기 속 연찬회 떠나는 경북도의원들",
-        "link": "http://www.breaknews.com/737006"
     }
 ];

@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/chungcheong/949953.html"
     },
     {
+        "title": "코로나19 대전·충남·세종 확산세 '무섭다'…나흘간 22명 확진(종합2보)",
+        "link": "http://yna.kr/AKR20200618091851063?did=1195m"
+    },
+    {
         "title": "경기 의왕시 롯데제과 물류센터서 확진자 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061704216.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 확진자 21명 오늘 추가…요양시설 사망자 나와",
-        "link": "http://yna.kr/AKR20200617104951004?did=1195m"
+        "title": "서울 코로나 확진자 21명 추가…확진자 누계 1166명",
+        "link": "https://view.asiae.co.kr/article/2020061719365578913"
     },
     {
         "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
         "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
-    },
-    {
-        "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
-        "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     }
 ];

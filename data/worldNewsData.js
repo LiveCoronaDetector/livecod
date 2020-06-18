@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
     },
     {
-        "title": "Iran’s underground church surfaces, offering aid during coronavirus spike: report",
-        "link": "https://www.foxnews.com/world/coronavirus-iran-christian-church-relief"
+        "title": "5 things to know for June 18: Rayshard Brooks, police, Covid-19, John Bolton, Syria",
+        "link": "https://www.cnn.com/2020/06/18/us/five-things-june-18-trnd/index.html"
     },
     {
         "title": "Coronavirus: Hundreds of abattoir workers test positive in Germany",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "A new threat to global trade: Exhausted crews want off cargo ships now",
-        "link": "https://www.cnn.com/2020/06/18/business/seafarers-shipping-coronavirus/index.html"
-    },
-    {
-        "title": "Coronavirus news: The president of Honduras is the latest world leader to test positive for Covid-19",
-        "link": "https://www.vox.com/world/2020/6/17/21294280/honduras-president-coronavirus-positive-covid-19-latin-america-pandemic"
-    },
-    {
         "title": "World Health Organization halts hydroxychloroquine study",
         "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
+    },
+    {
+        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
+        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
+    },
+    {
+        "title": "A new threat to global trade: Exhausted crews want off cargo ships now",
+        "link": "https://www.cnn.com/2020/06/18/business/seafarers-shipping-coronavirus/index.html"
     }
 ];
