@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/17/americans-reportedly-find-loophole-violate-canadas-covid-19-border-closure"
     },
     {
-        "title": "The battle to become Europe's safest holiday destination",
-        "link": "https://www.cnn.com/travel/article/portugal-greece-safest-destination-coronavirus/index.html"
+        "title": "Iran’s underground church surfaces, offering aid during coronavirus spike: report",
+        "link": "https://www.foxnews.com/world/coronavirus-iran-christian-church-relief"
     },
     {
         "title": "Coronavirus: Hundreds of abattoir workers test positive in Germany",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
-        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
+        "title": "New Zealand officials admit two women with Covid-19 met friends",
+        "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
     },
     {
         "title": "World Health Organization halts hydroxychloroquine study",
         "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
     },
     {
-        "title": "WHO cheers COVID-19 trial results of dexamethasone",
-        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
+        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
+        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
     }
 ];

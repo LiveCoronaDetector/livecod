@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617068451009?did=1195m"
     },
     {
-        "title": "베이징, 코로나 신규확진 21명 추가…확진자 158명 치료중(상보)",
-        "link": "https://view.asiae.co.kr/article/2020061809523124287"
+        "title": "[속보] 코로나19 신규 확진자 59명…수도권 42명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
     },
     {
-        "title": "뉴욕증시, 혼조 마감…\"코로나19 다시 유행하나\"",
-        "link": "https://www.hankyung.com/economy/article/2020061802457"
+        "title": "[속보]국내 코로나19 신규확진 59명···엿새 만에 다시 50명대",
+        "link": "https://www.sedaily.com/NewsView/1Z42PMALE9"
     },
     {
-        "title": "[속보]중국 코로나19 확진자 24명…베이징 21명",
-        "link": "https://www.nocutnews.co.kr/news/5363314"
+        "title": "[속보] '코로나19' 국내 현황…총 1만2257명, 신규확진 59명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=400397&class=33&grp="
     },
     {
-        "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
-        "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
+        "title": "[속보] 코로나19 확진 59명 늘어…수도권 39명, 대전·충남 10명",
+        "link": "http://www.hani.co.kr/arti/society/health/949907.html"
     },
     {
-        "title": "경기 의왕시 롯데제과 물류센터서 확진자 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061704216.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 확진 59명…수도권 지역 39명·대전권 12명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/18/2020061801491.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "베이징 코로나 확진자 31명 추가 발생…모든 지역 ‘봉쇄식 관리’",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014699737&code=61131111&cp=nv"
+        "title": "[속보] 코로나 신규 확진자 59명…지역사회 감염이 51명",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/18/2020061801480.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "서울 확진자 21명 오늘 추가…요양시설 사망자 나와",
-        "link": "http://yna.kr/AKR20200617104951004?did=1195m"
+        "title": "코로나19 확진자 나온 인천 숭의초 검사 453명 전원 '음성'",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
     },
     {
-        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
+        "title": "롯데제과 물류센터서 코로나19 확진자 발생 '운영중단'",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061721590199855"
     },
     {
-        "title": "전주여고 3학년 코로나19 확진…학생들 검사 후 귀가 예정(종합)",
-        "link": "http://yna.kr/AKR20200617086551055?did=1195m"
+        "title": "서울 코로나 확진자 21명 추가…확진자 누계 1166명",
+        "link": "https://view.asiae.co.kr/article/2020061719365578913"
     }
 ];
