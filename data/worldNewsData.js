@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
-        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
-    },
-    {
         "title": "A new threat to global trade: Exhausted crews want off cargo ships now",
         "link": "https://www.cnn.com/2020/06/18/business/seafarers-shipping-coronavirus/index.html"
     },
     {
-        "title": "Covid Cases Rise as Trump Says Virus Is ‘Fading’: Live Updates",
-        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
+        "title": "Coronavirus live updates: Staggering jobless claims persist; global deaths near 450,000",
+        "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Coronavirus cases rise rapidly in Tulsa days before President Trump's campaign rally",
+        "link": "https://www.youtube.com/watch?v=j6e2NF2uhSU"
     }
 ];

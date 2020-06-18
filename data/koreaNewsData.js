@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
-        "title": "코로나19 확진자 방문에 정부서울청사 식당 운영 중단",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006182304432725"
-    },
-    {
         "title": "대전시, 코로나19 63·64번 확진자 이동 동선 공개",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651286&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
+    },
+    {
+        "title": "대전 코로나19 62번째 확진자 발생",
+        "link": "http://www.fnnews.com/news/202006181046250541"
     }
 ];
