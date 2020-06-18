@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53093832"
     },
     {
-        "title": "Live updates: Coronavirus cases surge in Florida and California, while Trump’s Tulsa rally will go on as planned",
-        "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
+        "title": "Coronavirus cases are spiking across the country and experts say Florida has the makings of the next epicenter",
+        "link": "https://www.cnn.com/2020/06/18/us/us-coronavirus-thursday/index.html"
     },
     {
         "title": "5 things to know for June 18: Rayshard Brooks, police, Covid-19, John Bolton, Syria",
@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/honduran-president-hospitalised-coronavirus-live-updates-200617233150900.html"
     },
     {
-        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-china-beijing-soft-lockdown-limited-outbreak/"
+        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Coronavirus cases rise rapidly in Tulsa days before President Trump's campaign rally",
-        "link": "https://www.youtube.com/watch?v=j6e2NF2uhSU"
+        "title": "Covid-19 Worldwide: Live Updates on Cases and Deaths",
+        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
         "title": "Coronavirus: What is the true death toll of the pandemic?",

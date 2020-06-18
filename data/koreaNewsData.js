@@ -21,6 +21,14 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
     },
     {
+        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
+    },
+    {
+        "title": "대전 코로나19 62번째 확진자 발생",
+        "link": "http://www.fnnews.com/news/202006181046250541"
+    },
+    {
         "title": "제주도 17·18번째 코로나19 확진자 발생",
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "시흥서 50대 남성 확진…\"관악구 확진자 접촉\"(종합)",
         "link": "http://yna.kr/AKR20200618091351061?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
-    },
-    {
-        "title": "대전 코로나19 62번째 확진자 발생",
-        "link": "http://www.fnnews.com/news/202006181046250541"
     }
 ];
