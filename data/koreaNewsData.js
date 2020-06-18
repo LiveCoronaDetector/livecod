@@ -17,16 +17,20 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
     },
     {
+        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
+    },
+    {
         "title": "[속보] 코로나19 확진자 59명 늘어...국내 발생 51명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
     },
     {
-        "title": "[종합] 코로나19 확진자 59명 증가...서울 24명, 경기 15명, 대전 7명 등",
-        "link": "http://www.fnnews.com/news/202006181016576418"
+        "title": "대전 코로나19 62번째 확진자 발생",
+        "link": "http://www.fnnews.com/news/202006181046250541"
     },
     {
-        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
+        "title": "세종시 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020061811424539229?utm_source=naver&utm_medium=search"
     },
     {
         "title": "대구시 \"영국 입국 20대 여성, 코로나19 확진\"(전문)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "6월 18일 카메룬 입국금지 연장 등 ‘코로나19’ 입국금지·검역 조치 183개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/18/2020061880124.html"
-    },
-    {
-        "title": "베이징, 코로나 신규확진 21명 추가…확진자 158명 치료중(상보)",
-        "link": "https://view.asiae.co.kr/article/2020061809523124287"
     }
 ];
