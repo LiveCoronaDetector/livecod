@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/18/2020061804949.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "코로나19 신규확진자 59명 늘어…수도권 39명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000207754"
+    },
+    {
+        "title": "대전 다단계 관련자 또 추가…확진자 입원 의원서도 감염",
+        "link": "http://www.hani.co.kr/arti/area/chungcheong/949953.html"
+    },
+    {
         "title": "제주도 17·18번째 코로나19 확진자 발생",
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
@@ -15,14 +23,6 @@ var koreaNewsData = [
     {
         "title": "시흥서 50대 남성 확진…\"관악구 확진자 접촉\"(종합)",
         "link": "http://yna.kr/AKR20200618091351061?did=1195m"
-    },
-    {
-        "title": "코로나19 신규확진자 59명 늘어…수도권 39명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000207754"
-    },
-    {
-        "title": "대전 다단계 관련자 또 추가…확진자 입원 의원서도 감염",
-        "link": "http://www.hani.co.kr/arti/area/chungcheong/949953.html"
     },
     {
         "title": "[속보] 코로나19 확진자 59명 늘어...국내 발생 51명",

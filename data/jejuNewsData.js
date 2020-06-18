@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
-        "title": "제주 입도한 방글라데시 유학생 2명 코로나 19 확진",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200618500239&wlog_tag3=naver"
+        "title": "[속보] 제주도 코로나19 확진자 2명 추가…누적 18명",
+        "link": "https://www.hankyung.com/society/article/2020061846397"
     },
     {
         "title": "세종시 코로나19 확진자 발생",
@@ -21,8 +21,8 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
-        "title": "제주, 방글라데시 유학생 1명 코로나19 추가 확진",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=420122"
+        "title": "제주, 방글라데시 유학생 1명 추가 확진…확진자 총 3명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200618_0001065316&cID=10899&pID=10800"
     },
     {
         "title": "“무증상·무접촉” 제주도 코로나19 16번째 확진자 발생",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4474295&ref=A"
     },
     {
-        "title": "'코로나' 접촉자 격리장소 옮겨주자 마트행…무단이탈 2명 적발",
-        "link": "https://www.news1.kr/articles/?3966700"
+        "title": "제주 하루새 확진자 3명 늘어…방글라데시 유학생",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4474328&ref=A"
     }
 ];
