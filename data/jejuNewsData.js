@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4472297&ref=A"
     },
     {
-        "title": "제주도, 7월1일 해수욕장 11곳 일제 개장...코로나 대응반 운영",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=316849"
+        "title": "세종서 대전 확진자 접촉 40대 여성 확진…직장폐쇄",
+        "link": "http://www.newspim.com/news/view/20200618000389"
     }
 ];
