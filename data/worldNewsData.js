@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
-        "title": "US extends border closure agreements with Canada, Mexico into July",
-        "link": "https://www.usatoday.com/story/travel/news/2020/06/16/when-us-canada-border-open-july-us-mexico-border/3199173001/"
+        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
+        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
     },
     {
         "title": "World Health Organization halts hydroxychloroquine study",
