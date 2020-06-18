@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=317027"
     },
     {
-        "title": "세종 48번 확진자 유나이티드제약 직장동료 230명 모두 음성",
-        "link": "https://www.news1.kr/articles/?3970080"
+        "title": "제주 관광지 둘러 보니…곳곳에 '코로나 불감증' 만연",
+        "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=4189498"
     },
     {
-        "title": "세종시 확진자 접촉 관광객 최종 ‘음성’ 판정",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4474295&ref=A"
+        "title": "세종 48번 확진자 유나이티드제약 직장동료 230명 모두 음성",
+        "link": "https://www.news1.kr/articles/?3970080"
     }
 ];

@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53093832"
     },
     {
-        "title": "Coronavirus cases are spiking across the country and experts say Florida has the makings of the next epicenter",
+        "title": "Coronavirus cases spike across the country, with Florida showing signs of the next epicenter",
         "link": "https://www.cnn.com/2020/06/18/us/us-coronavirus-thursday/index.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
-        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
-    },
-    {
         "title": "Coronavirus live updates: Real estate deals are surging in Florida, and so are new virus cases",
         "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
+    },
+    {
+        "title": "A new threat to global trade: Exhausted crews want off cargo ships now",
+        "link": "https://www.cnn.com/2020/06/18/business/seafarers-shipping-coronavirus/index.html"
     }
 ];
