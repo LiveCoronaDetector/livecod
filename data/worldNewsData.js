@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Americans reportedly find 'loophole' to violate Canada's Covid-19 border closure",
-        "link": "https://www.theguardian.com/world/2020/jun/17/americans-reportedly-find-loophole-violate-canadas-covid-19-border-closure"
+        "title": "Live updates: Coronavirus case loads surge leading to new debate over masks as Trump dismisses any new lockdown",
+        "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
     },
     {
         "title": "Iran’s underground church surfaces, offering aid during coronavirus spike: report",
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-china-beijing-outbreak-flights-cancelled-soft-lockdown/"
     },
     {
-        "title": "Coronavirus Live News and Updates",
+        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
