@@ -5,20 +5,28 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617068451009?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 59명 증가...서울 24명, 경기 15명, 대전 7명 등",
-        "link": "http://www.fnnews.com/news/202006181016576418"
+        "title": "[속보] 코로나19 확진자 59명 늘어...국내 발생 51명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
     },
     {
         "title": "코로나19 신규확진자 59명 늘어…수도권 39명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000207754"
     },
     {
+        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
+    },
+    {
         "title": "'코로나19' 신규 확진자 59명 중 42명이 '수도권'…대전서 7명 '무더기 감염'",
         "link": "http://www.inews24.com/view/1274533"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 59명 증가...서울 24명, 경기 15명, 대전 7명 등",
+        "link": "http://www.fnnews.com/news/202006181016576418"
+    },
+    {
+        "title": "대전서 1명 더 코로나19 확진···사흘 만에 16명 감염",
+        "link": "https://www.sedaily.com/NewsView/1Z42PA2CTM"
     },
     {
         "title": "코로나19 확진자 나온 인천 숭의초 검사 453명 전원 '음성'",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "6월 18일 카메룬 입국금지 연장 등 ‘코로나19’ 입국금지·검역 조치 183개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/18/2020061880124.html"
-    },
-    {
-        "title": "[속보] 코로나19 확진자 59명 늘어...국내 발생 51명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
-    },
-    {
-        "title": "베이징, 코로나 신규확진 21명 추가…확진자 158명 치료중(상보)",
-        "link": "https://view.asiae.co.kr/article/2020061809523124287"
     }
 ];

@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3966700"
     },
     {
+        "title": "세종시, 코로나19 확진자 발생",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=548204"
+    },
+    {
         "title": "제주도, 이태원 클럽발 코로나19 확진자",
         "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=265122"
     },
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4472169&ref=A"
     },
     {
+        "title": "코로나19 확산 위기 속 연찬회 떠나는 경북도의원들",
+        "link": "http://www.breaknews.com/737006"
+    },
+    {
         "title": "제주지역 16번째 코로나19 확진자 발생… 접촉자 0명",
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=322720"
-    },
-    {
-        "title": "“확진자 나왔는데”…계명대 대면시험 강행 ‘논란’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4472297&ref=A"
-    },
-    {
-        "title": "제주도, 7월1일 해수욕장 11곳 일제 개장...코로나 대응반 운영",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=316849"
     }
 ];

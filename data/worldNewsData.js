@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/germany-sees-largest-local-covid-19-outbreak-since-lifting-lockdown-11592415003"
     },
     {
-        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
-        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-18-20-intl/index.html"
     },
     {
         "title": "World Health Organization halts hydroxychloroquine study",
