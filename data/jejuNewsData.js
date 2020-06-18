@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006162012283868"
     },
     {
-        "title": "'코로나' 접촉자 격리장소 옮겨주자 마트행…무단이탈 2명 적발",
-        "link": "https://www.news1.kr/articles/?3966700"
+        "title": "세종 48번 확진자 근무 ‘한국유나이티드제약’ 직장 폐쇄",
+        "link": "http://www.newsis.com/view/?id=NISX20200618_0001064795&cID=10899&pID=10800"
     },
     {
-        "title": "세종서 대전 확진자 접촉 40대 여성 확진…직장폐쇄",
-        "link": "http://www.newspim.com/news/view/20200618000389"
+        "title": "'코로나' 접촉자 격리장소 옮겨주자 마트행…무단이탈 2명 적발",
+        "link": "https://www.news1.kr/articles/?3966700"
     },
     {
         "title": "대전 세종 충남 코로나19 확산세 지속",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=265122"
     },
     {
-        "title": "접촉자 없는 코로나19 확진자도 있다",
-        "link": "http://www.hani.co.kr/arti/area/jeju/949622.html"
+        "title": "제주 관광지 둘러 보니…곳곳에 '코로나 불감증' 만연",
+        "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=4189498"
     },
     {
-        "title": "코로나19 제주 16번째 확진자 발생…“접촉자 없는 듯”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4472169&ref=A"
+        "title": "접촉자 없는 코로나19 확진자도 있다",
+        "link": "http://www.hani.co.kr/arti/area/jeju/949622.html"
     }
 ];
