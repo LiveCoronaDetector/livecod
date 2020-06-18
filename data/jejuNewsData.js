@@ -5,28 +5,20 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020061811424539229?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
+        "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
+        "link": "http://www.sjsori.com/news/articleView.html?idxno=43805"
     },
     {
-        "title": "타지역 확진자 접촉자 16일 제주 입도…음성 판정",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166014"
+        "title": "제주지역 16번째 코로나19 확진자 발생…접촉자 0명",
+        "link": "https://www.nocutnews.co.kr/news/5362301"
     },
     {
         "title": "“무증상·무접촉” 제주도 코로나19 16번째 확진자 발생",
         "link": "http://www.fnnews.com/news/202006162012283868"
     },
     {
-        "title": "세종 48번 확진자 근무 ‘한국유나이티드제약’ 직장 폐쇄",
-        "link": "http://www.newsis.com/view/?id=NISX20200618_0001064795&cID=10899&pID=10800"
-    },
-    {
         "title": "'코로나' 접촉자 격리장소 옮겨주자 마트행…무단이탈 2명 적발",
         "link": "https://www.news1.kr/articles/?3966700"
-    },
-    {
-        "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
-        "link": "http://www.sjsori.com/news/articleView.html?idxno=43805"
     },
     {
         "title": "대전 세종 충남 코로나19 확산세 지속",
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "접촉자 없는 코로나19 확진자도 있다",
         "link": "http://www.hani.co.kr/arti/area/jeju/949622.html"
+    },
+    {
+        "title": "코로나19 제주 16번째 확진자 발생…“접촉자 없는 듯”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4472169&ref=A"
+    },
+    {
+        "title": "코로나19 확산 위기 속 연찬회 떠나는 경북도의원들",
+        "link": "http://www.breaknews.com/737006"
     }
 ];

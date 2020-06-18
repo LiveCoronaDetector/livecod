@@ -5,28 +5,28 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000207754"
     },
     {
-        "title": "푸틴 지켜라…모스크바 외곽 관저·크렘린에 '코로나 살균터널'(종합)",
-        "link": "http://yna.kr/AKR20200617068451009?did=1195m"
+        "title": "[속보] 코로나19 확진자 59명 늘어...국내 발생 51명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
     },
     {
-        "title": "[속보] '코로나19' 59명 늘어 1만2,257명…수도권 42명·대전 7명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006180178&t=NN"
+        "title": "'코로나19' 신규 확진자 59명 중 42명이 '수도권'…대전서 7명 '무더기 감염'",
+        "link": "http://www.inews24.com/view/1274533"
+    },
+    {
+        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
     },
     {
         "title": "코로나19 확진자 나온 인천 숭의초 검사 453명 전원 '음성'",
         "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
     },
     {
-        "title": "[속보] 코로나19 확진자 59명 늘어...국내 발생 51명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
-    },
-    {
         "title": "대전 코로나19 62번째 확진자 발생",
         "link": "http://www.fnnews.com/news/202006181046250541"
     },
     {
-        "title": "`교회·학원·버스`…일상 곳곳에 파고든 코로나19(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03552246625803032"
+        "title": "푸틴 지켜라…모스크바 외곽 관저·크렘린에 '코로나 살균터널'(종합)",
+        "link": "http://yna.kr/AKR20200617068451009?did=1195m"
     },
     {
         "title": "경기 의왕시 롯데제과 물류센터서 확진자 발생",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020061719365578913"
     },
     {
-        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
+        "title": "전주여고 3학년 코로나19 확진…학생들 검사 후 귀가 예정(종합)",
+        "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     }
 ];
