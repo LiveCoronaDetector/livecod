@@ -13,8 +13,8 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020061846397"
     },
     {
-        "title": "세종시 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020061811424539229?utm_source=naver&utm_medium=search"
+        "title": "세종시, 코로나19 확진자 발생",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=548204"
     },
     {
         "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
