@@ -5,24 +5,24 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
+        "title": "제주도내 코로나19 확진자 18일 하루만 3명 나와",
+        "link": "https://www.pressian.com/pages/articles/2020061902410290002?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "[속보] 제주도 코로나19 확진자 2명 추가…누적 18명",
         "link": "https://www.hankyung.com/society/article/2020061846397"
     },
     {
-        "title": "세종시 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020061811424539229?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주 하루새 확진자 3명 늘어…방글라데시 유학생",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4474328&ref=A"
+        "title": "세종시, 코로나19 확진자 발생",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=548204"
     },
     {
         "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
         "link": "http://www.sjsori.com/news/articleView.html?idxno=43805"
     },
     {
-        "title": "제주지역 16번째 코로나19 확진자 발생…접촉자 0명",
-        "link": "https://www.nocutnews.co.kr/news/5362301"
+        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
         "title": "“무증상·무접촉” 제주도 코로나19 16번째 확진자 발생",

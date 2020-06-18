@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53093832"
     },
     {
-        "title": "Live updates: Coronavirus cases surge in Florida and California; Trump says testing is ‘overrated’",
-        "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
+        "title": "Coronavirus cases are spiking across the country and experts say Florida has the makings of the next epicenter",
+        "link": "https://www.cnn.com/2020/06/18/us/us-coronavirus-thursday/index.html"
     },
     {
         "title": "Surging COVID-19 Cases In Pakistan Overwhelm Hospitals",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/18/europe/germany-meat-processing-plant-coronavirus-cases-intl/index.html"
     },
     {
-        "title": "LIVE: Indonesia reports biggest daily rise in coronavirus cases",
-        "link": "https://www.aljazeera.com/news/2020/06/honduran-president-hospitalised-coronavirus-live-updates-200617233150900.html"
+        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
     },
     {
         "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Coronavirus: What is the true death toll of the pandemic?",
-        "link": "https://www.bbc.com/news/world-53073046"
-    },
-    {
         "title": "Covid-19 Worldwide: Live Updates on Cases and Deaths",
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
-        "title": "Coronavirus live updates: Real estate deals are surging in Florida, and so are new virus cases",
-        "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
+        "title": "Coronavirus: What is the true death toll of the pandemic?",
+        "link": "https://www.bbc.com/news/world-53073046"
     },
     {
         "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Coronavirus live updates: Real estate deals are surging in Florida, and so are new virus cases",
+        "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
     }
 ];
