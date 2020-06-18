@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
-        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
+        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
+        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
         "title": "A new threat to global trade: Exhausted crews want off cargo ships now",
         "link": "https://www.cnn.com/2020/06/18/business/seafarers-shipping-coronavirus/index.html"
     },
     {
-        "title": "World Health Organization halts hydroxychloroquine study",
-        "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
+        "title": "Covid Cases Rise as Trump Says Virus Is ‘Fading’: Live Updates",
+        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     }
 ];

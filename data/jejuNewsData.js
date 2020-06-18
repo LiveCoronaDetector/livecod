@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4474295&ref=A"
     },
     {
-        "title": "세종 48번 확진자 근무 ‘한국유나이티드제약’ 직장 폐쇄",
-        "link": "http://www.newsis.com/view/?id=NISX20200618_0001064795&cID=10899&pID=10800"
-    },
-    {
         "title": "'코로나' 접촉자 격리장소 옮겨주자 마트행…무단이탈 2명 적발",
         "link": "https://www.news1.kr/articles/?3966700"
+    },
+    {
+        "title": "제주도, 이태원發 코로나19 상황 종식…확진자 1명 퇴원",
+        "link": "http://www.fnnews.com/news/202006121742535994"
     },
     {
         "title": "대전 세종 충남 코로나19 확산세 지속",
         "link": "https://www.wikitree.co.kr/articles/543751"
     },
     {
-        "title": "제주도, 이태원發 코로나19 상황 종식…확진자 1명 퇴원",
-        "link": "http://www.fnnews.com/news/202006121742535994"
+        "title": "코로나19 확산 위기 속 연찬회 떠나는 경북도의원들",
+        "link": "http://www.breaknews.com/737006"
     }
 ];
