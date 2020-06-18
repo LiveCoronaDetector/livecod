@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
     },
     {
-        "title": "A new threat to global trade: Exhausted crews want off cargo ships now",
-        "link": "https://www.cnn.com/2020/06/18/business/seafarers-shipping-coronavirus/index.html"
+        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
+        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
     }
 ];
