@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Live updates: Coronavirus cases surge, leading to new mask rules, as Trump dismisses any new lockdowns",
+        "title": "Live updates: Coronavirus cases surge, leading to new mask rules, as Trump dismisses any new shutdowns",
         "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
+        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
+        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+    },
+    {
         "title": "A new threat to global trade: Exhausted crews want off cargo ships now",
         "link": "https://www.cnn.com/2020/06/18/business/seafarers-shipping-coronavirus/index.html"
     },
     {
         "title": "Trump's Inter-American Development Bank nomination shakes up hemispheric diplomacy | TheHill",
         "link": "https://thehill.com/latino/503131-trumps-inter-american-development-bank-nomination-shakes-up-hemispheric-diplomacy"
-    },
-    {
-        "title": "World Health Organization halts hydroxychloroquine study",
-        "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
     }
 ];
