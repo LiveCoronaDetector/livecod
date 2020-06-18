@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus: Trudeau says Canada-U.S. border measures extended to July 21",
-        "link": "https://www.youtube.com/watch?v=g2D1wZYqWPY"
+        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
+        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
     },
     {
         "title": "World Health Organization halts hydroxychloroquine study",
         "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
     },
     {
-        "title": "WHO cheers COVID-19 trial results of dexamethasone",
-        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
+        "title": "Coronavirus news: The president of Honduras is the latest world leader to test positive for Covid-19",
+        "link": "https://www.vox.com/world/2020/6/17/21294280/honduras-president-coronavirus-positive-covid-19-latin-america-pandemic"
     }
 ];
