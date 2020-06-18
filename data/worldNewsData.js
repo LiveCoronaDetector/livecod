@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
     },
     {
-        "title": "Covid-19 Worldwide: Live Updates on Cases and Deaths",
-        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
-    },
-    {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
         "link": "https://www.bbc.com/news/world-53073046"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Beijing’s new coronavirus outbreak carries an urgent message for the world",
+        "link": "https://www.washingtonpost.com/world/2020/06/18/beijing-coronavirus-outbreak-meaning/"
     }
 ];

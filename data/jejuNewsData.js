@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
-        "title": "코로나19 확진자 3명 발생…방글라데시 국적 유학생",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5814961_32633.html"
-    },
-    {
         "title": "“무증상·무접촉” 제주도 코로나19 16번째 확진자 발생",
         "link": "http://www.fnnews.com/news/202006162012283868"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주 관광지 둘러 보니…곳곳에 '코로나 불감증' 만연",
         "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=4189498"
+    },
+    {
+        "title": "세종 48번 확진자 유나이티드제약 직장동료 230명 모두 음성",
+        "link": "https://www.news1.kr/articles/?3970080"
     }
 ];
