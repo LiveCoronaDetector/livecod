@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Live updates: Coronavirus case loads surge leading to new debate over masks as Trump dismisses any new lockdown",
+        "title": "Live updates: Coronavirus cases surge leading to new mask rules as Trump dismisses any new lockdown",
         "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
     },
     {
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
-        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+        "title": "Coronavirus live news: New Zealand reports another new case as Brazil nears 1m infections",
+        "link": "https://www.theguardian.com/world/live/2020/jun/18/coronavirus-live-news-brazil-cases-near-1m-as-who-hails-steroid-treatment-hope"
     },
     {
         "title": "World Health Organization halts hydroxychloroquine study",

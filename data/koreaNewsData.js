@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
     },
     {
-        "title": "'코로나19' 신규 확진자 59명 중 42명이 '수도권'…대전서 7명 '무더기 감염'",
-        "link": "http://www.inews24.com/view/1274533"
+        "title": "군포서 코로나19 확진자 2명 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200618_0001064354&cID=10803&pID=14000"
     },
     {
-        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
+        "title": "사흘새 16명 ‘대전 코로나 확산’ 다단계 시설이 연결고리",
+        "link": "http://www.hani.co.kr/arti/area/chungcheong/949953.html"
+    },
+    {
+        "title": "'코로나19' 신규 확진자 59명 중 42명이 '수도권'…대전서 7명 '무더기 감염'",
+        "link": "http://www.inews24.com/view/1274533"
     },
     {
         "title": "코로나19 확진자 나온 인천 숭의초 검사 453명 전원 '음성'",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "서울 코로나 확진자 21명 추가…확진자 누계 1166명",
         "link": "https://view.asiae.co.kr/article/2020061719365578913"
-    },
-    {
-        "title": "전주여고 3학년 코로나19 확진…학생들 검사 후 귀가 예정(종합)",
-        "link": "http://yna.kr/AKR20200617086551055?did=1195m"
     }
 ];
