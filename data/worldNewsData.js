@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
-        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
-    },
-    {
         "title": "Coronavirus live updates: White House task force silent as cases increase, New York considers quarantine on Florida travelers",
         "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
+        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     }
 ];
