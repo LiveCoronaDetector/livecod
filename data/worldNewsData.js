@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53093832"
     },
     {
-        "title": "Coronavirus cases are spiking across the country and experts say Florida has the makings of the next epicenter",
-        "link": "https://www.cnn.com/2020/06/18/us/us-coronavirus-thursday/index.html"
+        "title": "Live updates: Coronavirus cases surge in Florida and California; Trump says testing is ‘overrated’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
     },
     {
-        "title": "5 things to know for June 18: Rayshard Brooks, police, Covid-19, John Bolton, Syria",
-        "link": "https://www.cnn.com/2020/06/18/us/five-things-june-18-trnd/index.html"
+        "title": "Surging COVID-19 Cases In Pakistan Overwhelm Hospitals",
+        "link": "https://www.npr.org/2020/06/18/879892170/surging-covid-19-cases-in-pakistan-overwhelm-hospitals"
     },
     {
         "title": "Germany reports 650 new coronavirus cases in a meat processing plant",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Covid-19 Worldwide: Live Updates on Cases and Deaths",
-        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
-    },
-    {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
         "link": "https://www.bbc.com/news/world-53073046"
+    },
+    {
+        "title": "Covid-19 Worldwide: Live Updates on Cases and Deaths",
+        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
         "title": "Coronavirus live updates: Real estate deals are surging in Florida, and so are new virus cases",
         "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
     },
     {
-        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
-        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
+        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
+        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     }
 ];
