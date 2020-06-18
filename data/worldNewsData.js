@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
+        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
+        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Germany reports 657 new coronavirus cases linked to slaughterhouse",
+        "link": "https://www.foxnews.com/world/germany-657-new-coronavirus-cases-slaughterhouse"
+    },
+    {
         "title": "World Health Organization halts hydroxychloroquine study",
         "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
-    },
-    {
-        "title": "Coronavirus news: The president of Honduras is the latest world leader to test positive for Covid-19",
-        "link": "https://www.vox.com/world/2020/6/17/21294280/honduras-president-coronavirus-positive-covid-19-latin-america-pandemic"
-    },
-    {
-        "title": "England’s ‘World Beating’ System to Track Coronavirus Is Anything But",
-        "link": "https://www.nytimes.com/2020/06/17/world/europe/uk-contact-tracing-coronavirus.html"
     }
 ];
