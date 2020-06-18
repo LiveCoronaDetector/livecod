@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
-        "title": "World Health Organization halts hydroxychloroquine study",
-        "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
+        "title": "Live updates: Surging coronavirus caseloads lead to new wave of mask requirements",
+        "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
     },
     {
         "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
         "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
     },
     {
-        "title": "Coronavirus: What is the true death toll of the pandemic?",
-        "link": "https://www.bbc.com/news/world-53073046"
+        "title": "World Health Organization drops hydroxychloroquine from its coronavirus trial",
+        "link": "https://www.cnbc.com/2020/06/17/world-health-organization-drops-hydroxychloroquine-from-covid-trial.html"
     }
 ];
