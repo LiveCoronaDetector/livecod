@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/16/world/africa/coronavirus-africa.html"
     },
     {
-        "title": "Live updates: Coronavirus cases surge leading to new mask rules as Trump dismisses any new lockdown",
+        "title": "Live updates: Coronavirus cases surge, leading to new mask rules, as Trump dismisses any new lockdown",
         "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
     },
     {
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
-        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+        "title": "Germany Sees Largest Local Covid-19 Outbreak Since Lifting Lockdown",
+        "link": "https://www.wsj.com/articles/germany-sees-largest-local-covid-19-outbreak-since-lifting-lockdown-11592415003"
     },
     {
-        "title": "Germany reports 657 new coronavirus cases linked to slaughterhouse",
-        "link": "https://www.foxnews.com/world/germany-657-new-coronavirus-cases-slaughterhouse"
+        "title": "A new threat to global trade: Exhausted crews want off cargo ships now",
+        "link": "https://www.cnn.com/2020/06/18/business/seafarers-shipping-coronavirus/index.html"
     },
     {
         "title": "World Health Organization halts hydroxychloroquine study",
