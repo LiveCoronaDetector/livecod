@@ -9,14 +9,6 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000207754"
     },
     {
-        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
-    },
-    {
-        "title": "정부서울청사 방문한 설비기사 코로나 확진··· 구내식당 운영 중단",
-        "link": "https://www.sedaily.com/NewsView/1Z42RO1CEB"
-    },
-    {
         "title": "대전 다단계 관련자 또 추가…확진자 입원 의원서도 감염",
         "link": "http://www.hani.co.kr/arti/area/chungcheong/949953.html"
     },
@@ -25,8 +17,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
     },
     {
+        "title": "'코로나19' 신규 확진자 59명 중 42명이 '수도권'…대전서 7명 '무더기 감염'",
+        "link": "http://www.inews24.com/view/1274533"
+    },
+    {
         "title": "코로나19 확진자 나온 인천 숭의초 검사 453명 전원 '음성'",
         "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
     },
     {
         "title": "대전 코로나19 62번째 확진자 발생",

@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020061811424539229?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주, 방글라데시 유학생 1명 추가 확진…확진자 총 3명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200618_0001065316&cID=10899&pID=10800"
+        "title": "제주 하루새 확진자 3명 늘어…방글라데시 유학생",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4474328&ref=A"
     },
     {
         "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
         "link": "http://www.sjsori.com/news/articleView.html?idxno=43805"
     },
     {
-        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
+        "title": "제주지역 16번째 코로나19 확진자 발생…접촉자 0명",
+        "link": "https://www.nocutnews.co.kr/news/5362301"
     },
     {
         "title": "“무증상·무접촉” 제주도 코로나19 16번째 확진자 발생",
