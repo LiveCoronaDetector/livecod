@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
-        "title": "'코로나' 접촉자 격리장소 옮겨주자 마트행…무단이탈 2명 적발",
-        "link": "https://www.news1.kr/articles/?3966700"
+        "title": "세종시 48번 확진자, 청주 교회 기도원서 감염 추정",
+        "link": "http://www.dtnews24.com/news/articleView.html?idxno=580837"
     },
     {
-        "title": "세종시, 코로나19 확진자 발생",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=548204"
+        "title": "'코로나' 접촉자 격리장소 옮겨주자 마트행…무단이탈 2명 적발",
+        "link": "https://www.news1.kr/articles/?3966700"
     },
     {
         "title": "제주도, 이태원 클럽발 코로나19 확진자",

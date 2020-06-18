@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Germany Sees Largest Local Covid-19 Outbreak Since Lifting Lockdown",
-        "link": "https://www.wsj.com/articles/germany-sees-largest-local-covid-19-outbreak-since-lifting-lockdown-11592415003"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-18-20-intl/index.html"
-    },
-    {
         "title": "World Health Organization halts hydroxychloroquine study",
         "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
+    },
+    {
+        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
+        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
+    },
+    {
+        "title": "Coronavirus: What is the true death toll of the pandemic?",
+        "link": "https://www.bbc.com/news/world-53073046"
     }
 ];
