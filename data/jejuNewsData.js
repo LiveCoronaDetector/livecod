@@ -17,16 +17,16 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3966700"
     },
     {
+        "title": "제주도, 이태원 클럽발 코로나19 확진자",
+        "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=265122"
+    },
+    {
         "title": "접촉자 없는 코로나19 확진자도 있다",
         "link": "http://www.hani.co.kr/arti/area/jeju/949622.html"
     },
     {
         "title": "코로나19 제주 16번째 확진자 발생…“접촉자 없는 듯”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4472169&ref=A"
-    },
-    {
-        "title": "제주도, 이태원 클럽발 코로나19 확진자",
-        "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=265122"
     },
     {
         "title": "제주지역 16번째 코로나19 확진자 발생… 접촉자 0명",
