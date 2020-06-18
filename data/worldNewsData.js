@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
     },
     {
-        "title": "Coronavirus news: The president of Honduras is the latest world leader to test positive for Covid-19",
-        "link": "https://www.vox.com/world/2020/6/17/21294280/honduras-president-coronavirus-positive-covid-19-latin-america-pandemic"
+        "title": "Germany Sees Largest Local Covid-19 Outbreak Since Lifting Lockdown",
+        "link": "https://www.wsj.com/articles/germany-sees-largest-local-covid-19-outbreak-since-lifting-lockdown-11592415003"
     }
 ];

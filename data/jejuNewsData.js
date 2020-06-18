@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3966700"
     },
     {
-        "title": "세종시, 17일 ‘코로나19’ 40대 여성 ‘확진’… 48번째",
-        "link": "http://cc.newdaily.co.kr/site/data/html/2020/06/18/2020061800107.html"
-    },
-    {
         "title": "접촉자 없는 코로나19 확진자도 있다",
         "link": "http://www.hani.co.kr/arti/area/jeju/949622.html"
     },
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=265122"
     },
     {
-        "title": "세종시 48번 확진자, 청주 교회 기도원서 감염 추정",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=580837"
+        "title": "제주지역 16번째 코로나19 확진자 발생… 접촉자 0명",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=322720"
     },
     {
-        "title": "세종서 대전 확진자 접촉 40대 여성 확진…직장폐쇄",
-        "link": "http://www.newspim.com/news/view/20200618000389"
+        "title": "18일부터 제주도내 공공시설 재개방",
+        "link": "http://www.jemin.com/news/articleView.html?idxno=661200"
+    },
+    {
+        "title": "“확진자 나왔는데”…계명대 대면시험 강행 ‘논란’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4472297&ref=A"
     }
 ];
