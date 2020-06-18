@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000207754"
     },
     {
-        "title": "화성시 확진자, 정부서울청사 구내식당 방문…\"임시폐쇄 후 방역\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200618_0001065271&cID=14001&pID=14000"
-    },
-    {
         "title": "[속보] 코로나19 확진자 59명 늘어...국내 발생 51명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
-    },
-    {
         "title": "대전 다단계 관련자 또 추가…확진자 입원 의원서도 감염",
         "link": "http://www.hani.co.kr/arti/area/chungcheong/949953.html"
     },
     {
-        "title": "롯데제과 물류센터서 코로나19 확진자 발생 '운영중단'",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061721590199855"
+        "title": "대전시, 코로나19 63·64번 확진자 이동 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651286&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "[종합] 전주여고발 '코로나19'에 인접 학교 '노심초사'...전일중, 온라인 수업",
+        "link": "https://www.pressian.com/pages/articles/2020061814352631983?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "\"5성급 호화호텔 대할인\"…UAE, 코로나 진정세에 관광 재시동(종합)",
+        "link": "http://yna.kr/AKR20200618161651111?did=1195m"
     }
 ];
