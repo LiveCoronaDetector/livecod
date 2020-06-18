@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006162012283868"
     },
     {
-        "title": "세종 48번 확진자 근무 ‘한국유나이티드제약’ 직장 폐쇄",
-        "link": "http://www.newsis.com/view/?id=NISX20200618_0001064795&cID=10899&pID=10800"
-    },
-    {
         "title": "'코로나' 접촉자 격리장소 옮겨주자 마트행…무단이탈 2명 적발",
         "link": "https://www.news1.kr/articles/?3966700"
     },
@@ -31,6 +27,10 @@ var jejuNewsData = [
     {
         "title": "제주도, 이태원 클럽발 코로나19 확진자",
         "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=265122"
+    },
+    {
+        "title": "제주 코로나19 17․18번째 확진자 발생...\"외국인 유학생 2명\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=420119"
     },
     {
         "title": "제주 관광지 둘러 보니…곳곳에 '코로나 불감증' 만연",
