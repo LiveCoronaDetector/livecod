@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/18/us/us-coronavirus-thursday/index.html"
     },
     {
-        "title": "Surging COVID-19 Cases In Pakistan Overwhelm Hospitals",
-        "link": "https://www.npr.org/2020/06/18/879892170/surging-covid-19-cases-in-pakistan-overwhelm-hospitals"
+        "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
+        "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
     },
     {
         "title": "Germany reports 650 new coronavirus cases in a meat processing plant",
         "link": "https://www.cnn.com/2020/06/18/europe/germany-meat-processing-plant-coronavirus-cases-intl/index.html"
     },
     {
-        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
+        "title": "COVID-19: India reports more than 12000 new cases",
+        "link": "https://www.youtube.com/watch?v=uJCh-PRzbHQ"
     },
     {
         "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
     },
     {
-        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
-        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+        "title": "Live updates: Californians required to cover their faces in ‘most settings outside the home’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
     },
     {
-        "title": "Beijing’s new coronavirus outbreak carries an urgent message for the world",
-        "link": "https://www.washingtonpost.com/world/2020/06/18/beijing-coronavirus-outbreak-meaning/"
+        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
+        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     }
 ];
