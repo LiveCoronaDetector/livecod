@@ -9,20 +9,16 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
     },
     {
+        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
+    },
+    {
         "title": "'코로나19' 신규 확진자 59명 중 42명이 '수도권'…대전서 7명 '무더기 감염'",
         "link": "http://www.inews24.com/view/1274533"
     },
     {
         "title": "대전 코로나19 62번째 확진자 발생",
         "link": "http://www.fnnews.com/news/202006181046250541"
-    },
-    {
-        "title": "군포서 코로나19 확진자 2명 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200618_0001064354&cID=10803&pID=14000"
-    },
-    {
-        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
     },
     {
         "title": "대전 다단계 관련자 또 추가…확진자 입원 의원서도 감염",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
         "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
+    },
+    {
+        "title": "삼성전자 기흥사업장서 확진자 발생…\"공장 정상가동\"",
+        "link": "https://imnews.imbc.com/news/2020/econo/article/5813050_32647.html"
     }
 ];

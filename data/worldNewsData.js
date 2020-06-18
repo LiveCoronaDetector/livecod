@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "Germany Sees Largest Local Covid-19 Outbreak Since Lifting Lockdown",
-        "link": "https://www.wsj.com/articles/germany-sees-largest-local-covid-19-outbreak-since-lifting-lockdown-11592415003"
-    },
-    {
         "title": "A new threat to global trade: Exhausted crews want off cargo ships now",
         "link": "https://www.cnn.com/2020/06/18/business/seafarers-shipping-coronavirus/index.html"
+    },
+    {
+        "title": "Coronavirus news: The president of Honduras is the latest world leader to test positive for Covid-19",
+        "link": "https://www.vox.com/world/2020/6/17/21294280/honduras-president-coronavirus-positive-covid-19-latin-america-pandemic"
     },
     {
         "title": "World Health Organization halts hydroxychloroquine study",
