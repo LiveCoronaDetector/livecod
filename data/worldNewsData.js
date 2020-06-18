@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53087139"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/18/latest_news/1592434890_694250.html"
+        "title": "5 things to know for June 17: Coronavirus, police, White House, India-China, Apple",
+        "link": "https://www.cnn.com/2020/06/17/us/five-things-june-17-trnd/index.html"
     },
     {
         "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
-        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
+        "title": "World Health Organization drops hydroxychloroquine from its coronavirus trial",
+        "link": "https://www.cnbc.com/2020/06/17/world-health-organization-drops-hydroxychloroquine-from-covid-trial.html"
     },
     {
-        "title": "World Health Organization halts hydroxychloroquine study",
-        "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
+        "title": "Extension of U.S., Canada border closure bad news for many Maine businesses",
+        "link": "https://www.wmtw.com/article/extension-of-us-canada-border-closure-bad-news-for-many-maine-businesses/32896231"
     },
     {
         "title": "Germany Sees Largest Local Covid-19 Outbreak Since Lifting Lockdown",

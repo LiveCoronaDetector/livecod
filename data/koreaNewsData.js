@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200617068451009?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 확진자 59명 늘어...국내 발생 51명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
-    },
-    {
         "title": "[종합] 코로나19 확진자 59명 증가...서울 24명, 경기 15명, 대전 7명 등",
         "link": "http://www.fnnews.com/news/202006181016576418"
     },
     {
         "title": "코로나19 하루새 59명 신규 확진…수도권 42명 무더기 감염(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200618500034&wlog_tag3=naver"
+    },
+    {
+        "title": "'코로나19' 신규 확진자 59명 중 42명이 '수도권'…대전서 7명 '무더기 감염'",
+        "link": "http://www.inews24.com/view/1274533"
     },
     {
         "title": "대구시 \"영국 입국 20대 여성, 코로나19 확진\"(전문)",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
     },
     {
+        "title": "[속보] 코로나19 확진자 59명 늘어...국내 발생 51명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
+    },
+    {
         "title": "코로나 확진 59명…수도권 지역 39명·대전권 12명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/18/2020061801491.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "롯데제과 물류센터서 코로나19 확진자 발생 '운영중단'",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061721590199855"
-    },
-    {
-        "title": "서울 코로나 확진자 21명 추가…확진자 누계 1166명",
-        "link": "https://view.asiae.co.kr/article/2020061719365578913"
+        "title": "대전 코로나19 62번째 확진자 발생",
+        "link": "http://www.fnnews.com/news/202006181046250541"
     }
 ];
