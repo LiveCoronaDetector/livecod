@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     },
     {
-        "title": "New Zealand officials admit two women with Covid-19 met friends",
-        "link": "https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco"
+        "title": "US extends border closure agreements with Canada, Mexico into July",
+        "link": "https://www.usatoday.com/story/travel/news/2020/06/16/when-us-canada-border-open-july-us-mexico-border/3199173001/"
     },
     {
         "title": "World Health Organization halts hydroxychloroquine study",
         "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
     },
     {
-        "title": "US extends border closure agreements with Canada, Mexico into July",
-        "link": "https://www.usatoday.com/story/travel/news/2020/06/16/when-us-canada-border-open-july-us-mexico-border/3199173001/"
+        "title": "WHO cheers COVID-19 trial results of dexamethasone",
+        "link": "https://www.foxnews.com/health/who-applauds-initial-covid-19-trial-results-of-first-drug-shown-to-reduce"
     }
 ];
