@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006181029001&code=940601"
     },
     {
-        "title": "군포서 코로나19 확진자 2명 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200618_0001064354&cID=10803&pID=14000"
+        "title": "코로나19 확진자 나온 인천 숭의초 검사 453명 전원 '음성'",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
     },
     {
-        "title": "사흘새 16명 ‘대전 코로나 확산’ 다단계 시설이 연결고리",
-        "link": "http://www.hani.co.kr/arti/area/chungcheong/949953.html"
+        "title": "군포서 코로나19 확진자 2명 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200618_0001064354&cID=10803&pID=14000"
     },
     {
         "title": "'코로나19' 신규 확진자 59명 중 42명이 '수도권'…대전서 7명 '무더기 감염'",
         "link": "http://www.inews24.com/view/1274533"
     },
     {
-        "title": "코로나19 확진자 나온 인천 숭의초 검사 453명 전원 '음성'",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
-    },
-    {
         "title": "대전 코로나19 62번째 확진자 발생",
         "link": "http://www.fnnews.com/news/202006181046250541"
     },
     {
-        "title": "푸틴 지켜라…모스크바 외곽 관저·크렘린에 '코로나 살균터널'(종합)",
-        "link": "http://yna.kr/AKR20200617068451009?did=1195m"
+        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
     },
     {
         "title": "경기 의왕시 롯데제과 물류센터서 확진자 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/17/2020061704216.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 코로나 확진자 21명 추가…확진자 누계 1166명",
-        "link": "https://view.asiae.co.kr/article/2020061719365578913"
+        "title": "서울 확진자 21명 오늘 추가…요양시설 사망자 나와",
+        "link": "http://yna.kr/AKR20200617104951004?did=1195m"
+    },
+    {
+        "title": "[속보]여의도 나이스그룹 사옥서 코로나19 확진자 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z4298X3ZF"
     }
 ];

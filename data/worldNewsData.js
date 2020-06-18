@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/17/us/five-things-june-17-trnd/index.html"
     },
     {
-        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-china-beijing-outbreak-flights-cancelled-soft-lockdown/"
+        "title": "Coronavirus Fears in China Find a New Target: Salmon",
+        "link": "https://www.nytimes.com/2020/06/18/world/asia/coronavirus-china-salmon.html"
     },
     {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
         "link": "https://www.bbc.com/news/world-53073046"
-    },
-    {
-        "title": "Coronavirus live news: New Zealand reports another new case as Brazil nears 1m infections",
-        "link": "https://www.theguardian.com/world/live/2020/jun/18/coronavirus-live-news-brazil-cases-near-1m-as-who-hails-steroid-treatment-hope"
     },
     {
         "title": "World Health Organization halts hydroxychloroquine study",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus news: The president of Honduras is the latest world leader to test positive for Covid-19",
         "link": "https://www.vox.com/world/2020/6/17/21294280/honduras-president-coronavirus-positive-covid-19-latin-america-pandemic"
+    },
+    {
+        "title": "England’s ‘World Beating’ System to Track Coronavirus Is Anything But",
+        "link": "https://www.nytimes.com/2020/06/17/world/europe/uk-contact-tracing-coronavirus.html"
     }
 ];
