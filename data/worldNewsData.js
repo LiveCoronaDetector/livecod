@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Cof86j62rqU"
     },
     {
-        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
-        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
+        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
         "title": "Italy Had Coronavirus in Sewage as Early as December, Study Says",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
-        "title": "The highest number of coronavirus cases were reported to WHO in a single day yesterday",
-        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-06-19-20-intl/h_b6db1f017a3cfd664b763404d5827389"
+        "title": "Global COVID-19 cases top 8.4 million: Johns Hopkins University",
+        "link": "https://telanganatoday.com/global-covid-19-cases-top-8-4-million-johns-hopkins-university"
     }
 ];
