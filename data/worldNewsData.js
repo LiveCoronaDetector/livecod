@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
-        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
+        "title": "Brazil tops 1 million Covid-19 cases. It may pass the US next, becoming the worst-hit country on the planet",
+        "link": "https://www.cnn.com/2020/06/19/americas/brazil-one-million-coronavirus-jair-bolsonaro-cases-intl/index.html"
     },
     {
         "title": "Pakistan Roiled By COVID-19 As Cases Surge And Health Care Lags : Goats and Soda",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.inquirer.com/health/coronavirus/coronavirus-reopening-united-states-new-zealand-china-20200619.html"
     },
     {
-        "title": "How coronavirus has created a new split in American life",
-        "link": "https://www.theguardian.com/world/2020/jun/19/coronavirus-bars-restaurants-two-americas"
+        "title": "Coronavirus: Is the pandemic getting worse in the US?",
+        "link": "https://www.bbc.com/news/world-us-canada-53088354"
     }
 ];
