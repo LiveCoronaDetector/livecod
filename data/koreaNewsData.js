@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z437SYK23"
     },
     {
-        "title": "[속보] 日 코로나19 신규 확진 57명 증가…누적 1만8,528명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006190399&t=NN"
+        "title": "롯데제과, 의왕 이어 수원공장서도 코로나19 확진자 발생",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03286566625803360"
     }
 ];

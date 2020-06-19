@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "How coronavirus has created a new split in American life",
+        "link": "https://www.theguardian.com/world/2020/jun/19/coronavirus-bars-restaurants-two-americas"
+    },
+    {
         "title": "Trump Superfans Line Up Early for Tulsa Rally",
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
         "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
         "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
-    },
-    {
-        "title": "Coronavirus: What is the true death toll of the pandemic?",
-        "link": "https://www.bbc.com/news/world-53073046"
-    },
-    {
-        "title": "Coronavirus live news: Spain says decision on travel corridor with UK expected within hours",
-        "link": "https://www.theguardian.com/world/live/2020/jun/19/coronavirus-covid-19-live-news-update-us-questions-beijing-cluster-figures-who-vaccine-doses-latest-updates"
     }
 ];
