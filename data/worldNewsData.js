@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
-        "title": "Daily activity is causing spikes in coronavirus cases: Professor",
-        "link": "https://www.youtube.com/watch?v=Cof86j62rqU"
+        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
     },
     {
         "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53106444"
     },
     {
-        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
-        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
+        "title": "In countries keeping coronavirus at bay, experts watch U.S. case numbers with alarm",
+        "link": "https://www.inquirer.com/health/coronavirus/coronavirus-reopening-united-states-new-zealand-china-20200619.html"
     },
     {
         "title": "WHO says coronavirus enters 'new and dangerous phase' as daily cases hit record high",
