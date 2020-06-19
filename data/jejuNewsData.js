@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "강남구 코로나 확진자, 제주도서 3박 4일 관광",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061904321.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나19 한창인데 수백명 모여 포커대회…주최 측 “직원 교육” 변명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
+    },
+    {
+        "title": "[속보] 제주도 코로나19 확진자 2명 추가…누적 18명",
+        "link": "https://www.hankyung.com/society/article/2020061846397"
     }
 ];
