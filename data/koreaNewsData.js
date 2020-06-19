@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/18/2020061804949.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대전 코로나19 62번째 확진자 발생",
-        "link": "http://www.fnnews.com/news/202006181046250541"
+        "title": "제주서 하루새 코로나19 확진자 3명 발생",
+        "link": "https://www.nocutnews.co.kr/news/5363896"
     },
     {
-        "title": "코로나19 신규 확진자 6일 만에 50명대…수도권 42명·대전 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4473503&ref=A"
+        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
+        "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
         "title": "코로나19 어제 59명 신규확진…수도권 42명",
         "link": "http://www.busan.com/view/busan/view.php?code=2020061810111070252"
     },
     {
-        "title": "제주도 17·18번째 코로나19 확진자 발생",
-        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
+        "title": "대전 코로나19 62번째 확진자 발생",
+        "link": "http://www.fnnews.com/news/202006181046250541"
     },
     {
-        "title": "롯데제과 물류센터서 코로나19 확진자 발생 '운영중단'",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020061721590199855"
+        "title": "대전 18일 밤 코로나19 3명 추가 확진",
+        "link": "http://www.fnnews.com/news/202006190731335584"
     }
 ];
