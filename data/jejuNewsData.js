@@ -21,8 +21,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/950089.html"
     },
     {
-        "title": "타지역 확진자 접촉자 16일 제주 입도…음성 판정",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166014"
+        "title": "코로나19 확진자 3명 발생…방글라데시 국적 유학생",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5814961_32633.html"
+    },
+    {
+        "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
+        "link": "http://www.sjsori.com/news/articleView.html?idxno=43805"
     },
     {
         "title": "[뉴스라이브] \"코로나19 전국 대유행 대비\"...'강화된 방역' 전국 확대되나?",
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
     },
     {
-        "title": "방글라데시인 제주한라대 유학생 3명 제주 코로나 17~19번 확진",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=317027"
-    },
-    {
-        "title": "제주 17·18번 확진자 발생…모두 방글라데시 유학생",
-        "link": "https://www.news1.kr/articles/?3970040"
+        "title": "제주지역 16번째 코로나19 확진자 발생…접촉자 0명",
+        "link": "https://www.nocutnews.co.kr/news/5362301"
     }
 ];

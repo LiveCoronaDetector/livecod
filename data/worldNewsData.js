@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=uJCh-PRzbHQ"
     },
     {
-        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
+        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
+        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
     },
     {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "Coronavirus live updates: White House task force silent as cases increase, New York considers quarantine on Florida travelers",
+        "title": "Coronavirus live updates: China publishes virus genome data from Beijing outbreak as capital city reports 25 cases",
         "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
-    },
-    {
-        "title": "Beijing’s new coronavirus outbreak carries an urgent message for the world",
-        "link": "https://www.washingtonpost.com/world/2020/06/18/beijing-coronavirus-outbreak-meaning/"
     },
     {
         "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
         "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Beijing’s new coronavirus outbreak carries an urgent message for the world",
+        "link": "https://www.washingtonpost.com/world/2020/06/18/beijing-coronavirus-outbreak-meaning/"
     }
 ];
