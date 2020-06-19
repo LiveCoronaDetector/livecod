@@ -21,14 +21,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006191043546427"
     },
     {
-        "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
-    },
-    {
-        "title": "대전시, 코로나19 69번·70번 확진자 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651649&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "대전서 2명 추가 확진…확진자 근무 노인요양원 직원들은 '음성'",
         "link": "https://www.nocutnews.co.kr/news/5364425"
     },
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z437SYK23"
     },
     {
-        "title": "中베이징 코로나19 25명 늘어…한 식당서 8명 집단감염도(종합3보)",
-        "link": "http://yna.kr/AKR20200619041353083?did=1195m"
+        "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",
+        "link": "http://yna.kr/AKR20200620001200088?did=1195m"
+    },
+    {
+        "title": "[대전] 코로나19 확진자 1명 추가 발생... 찜질방 접촉자",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651442&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
     }
 ];

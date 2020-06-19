@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Israel records nearly 350 new coronavirus cases in one day, in first since April",
-        "link": "https://www.timesofisrael.com/israel-records-over-300-new-cases-in-one-day-in-first-since-april/"
+        "title": "Pakistan Roiled By COVID-19 As Cases Surge And Health Care Lags : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/06/19/878896370/pandemic-panic-in-pakistan-people-are-just-literally-fighting-for-beds"
     },
     {
         "title": "Coronavirus was already in Italy by December, waste water study finds",
         "link": "https://www.bbc.com/news/world-europe-53106444"
     },
     {
-        "title": "Global COVID-19 cases top 8.4 million: Johns Hopkins University",
-        "link": "https://telanganatoday.com/global-covid-19-cases-top-8-4-million-johns-hopkins-university"
+        "title": "Daily activity is causing spikes in coronavirus cases: Professor",
+        "link": "https://www.youtube.com/watch?v=Cof86j62rqU"
     },
     {
         "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
+        "title": "Global COVID-19 cases top 8.4 million: Johns Hopkins University",
+        "link": "https://telanganatoday.com/global-covid-19-cases-top-8-4-million-johns-hopkins-university"
+    },
+    {
         "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
         "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
     },
     {
-        "title": "Johns Hopkins University Faculty, Students Speak Out Against Racism; Call For Change During Protest",
-        "link": "https://www.youtube.com/watch?v=nUvOhKwMh4o"
-    },
-    {
-        "title": "This drug may be the secret behind Portugal's low Covid-19 death rate",
-        "link": "https://www.cnn.com/videos/world/2020/06/19/portugal-coronavirus-covid-19-pandemic-steroids-treatment-pleitgen-pkg-intl-ldn-vpx.cnn"
+        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
+        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
     }
 ];

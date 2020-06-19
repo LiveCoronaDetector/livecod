@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23400209"
     },
     {
+        "title": "코로나19 강남 확진자, 유증상 상태로 제주 여행 확인",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4475088&ref=A"
+    },
+    {
         "title": "방글라데시서 입국 인천·경기·전북 확진자 5명 '같은 항공기 탑승'",
         "link": "https://www.news1.kr/articles/?3970825"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 한창인데 수백명 모여 포커대회…주최 측 “직원 교육” 변명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
-    },
-    {
-        "title": "[속보] 제주도 코로나19 확진자 2명 추가…누적 18명",
-        "link": "https://www.hankyung.com/society/article/2020061846397"
     }
 ];
