@@ -17,16 +17,20 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-genes/blood-type-genes-tied-to-risk-of-severe-covid-19-european-study-idUSKBN23P38C"
     },
     {
-        "title": "Village Life in India Won’t Be the Same as Coronavirus Chases Migrants Out of Cities",
-        "link": "https://www.wsj.com/articles/village-life-in-india-wont-be-the-same-as-coronavirus-chases-migrants-out-of-cities-11592478003"
+        "title": "India is planning to build the world's largest temporary Covid-19 hospital",
+        "link": "https://www.youtube.com/watch?v=4csf9QRNM38"
     },
     {
-        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
+        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
+        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
     },
     {
         "title": "Trump Superfans Line Up Early for Tulsa Rally",
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
+    },
+    {
+        "title": "Coronavirus map of the US: latest cases state by state",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/jun/18/coronavirus-map-us-latest-cases-state-by-state"
     },
     {
         "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "WHO: Hundreds of millions of coronavirus vaccine doses could be ready for 2021",
         "link": "https://www.foxnews.com/health/who-coronavirus-vaccine-doses-ready-2021"
-    },
-    {
-        "title": "Coronavirus: What is the true death toll of the pandemic?",
-        "link": "https://www.bbc.com/news/world-53073046"
     }
 ];
