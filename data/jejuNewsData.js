@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
+        "title": "제주 도착 방글라데시 유학생 3명 코로나 확진",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950089.html"
+    },
+    {
         "title": "[속보] 제주도 코로나19 확진자 2명 추가…누적 18명",
         "link": "https://www.hankyung.com/society/article/2020061846397"
     },
     {
         "title": "세종시 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020061811424539229?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주 도착 방글라데시 유학생 3명 코로나 확진",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950089.html"
     },
     {
         "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
