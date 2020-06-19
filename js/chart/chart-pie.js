@@ -10,11 +10,6 @@ for (var i = 0; i < ageDeathsPer.length; i++) {
   ageDeathsPer_치명율.push(parseFloat(ageDeathsPer[i]['치명율'].replace(',','')));
 }
 
-console.log(ageDeathsPer_구분);
-console.log(ageDeathsPer_확진자);
-console.log(ageDeathsPer_사망자);
-console.log(ageDeathsPer_치명율);
-
 
 var ctxD = document.getElementById('koreaDeathsPerPieChart').getContext('2d');
 var myChart = new Chart(ctxD, {
