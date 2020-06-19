@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Covid-19 Worldwide: Live Updates on Cases and Deaths",
-        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
-    },
-    {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
         "title": "Coronavirus live updates: White House task force silent as cases increase, New York considers quarantine on Florida travelers",
         "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Beijing’s new coronavirus outbreak carries an urgent message for the world",
+        "link": "https://www.washingtonpost.com/world/2020/06/18/beijing-coronavirus-outbreak-meaning/"
     },
     {
         "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",

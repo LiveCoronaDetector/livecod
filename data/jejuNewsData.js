@@ -13,12 +13,16 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020061846397"
     },
     {
+        "title": "코로나19 확진자 3명 발생…방글라데시 국적 유학생",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5814961_32633.html"
+    },
+    {
         "title": "세종시 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020061811424539229?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나19 확진자 3명 발생…방글라데시 국적 유학생",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5814961_32633.html"
+        "title": "제주 입국 유학생 3명 코로나19 확진",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014709027&code=61121911&cp=nv"
     },
     {
         "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "방글라데시인 제주한라대 유학생 3명 제주 코로나 17~19번 확진",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=317027"
-    },
-    {
-        "title": "세종 48번 확진자 유나이티드제약 직장동료 230명 모두 음성",
-        "link": "https://www.news1.kr/articles/?3970080"
     }
 ];
