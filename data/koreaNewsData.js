@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/chungcheong/949953.html"
     },
     {
-        "title": "'코로나19' 신규 확진자 59명 중 42명이 '수도권'…대전서 7명 '무더기 감염'",
-        "link": "http://www.inews24.com/view/1274533"
-    },
-    {
         "title": "코로나19 확진자 나온 인천 숭의초 검사 453명 전원 '음성'",
         "link": "https://imnews.imbc.com/news/2020/society/article/5814097_32633.html"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "제주도 17·18번째 코로나19 확진자 발생",
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
+    },
+    {
+        "title": "롯데제과 물류센터서 코로나19 확진자 발생 '운영중단'",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020061721590199855"
     }
 ];

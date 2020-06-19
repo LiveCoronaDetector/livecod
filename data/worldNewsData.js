@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53093832"
     },
     {
-        "title": "Florida shows signs as next coronavirus epicenter as cases spike across the country",
-        "link": "https://www.cnn.com/2020/06/18/us/us-coronavirus-thursday/index.html"
+        "title": "Covid-19 Worldwide: Live Updates on Cases and Deaths",
+        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
         "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/18/europe/germany-meat-processing-plant-coronavirus-cases-intl/index.html"
     },
     {
-        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
+        "title": "India reports highest single-day spike of 12,881 new COVID-19 cases in 24 hours",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/india-reports-highest-single-day-spike-of-12881-new-covid-19-cases-in-24-hours/videoshow/76442784.cms"
     },
     {
         "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
     },
     {
-        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
-        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+        "title": "Coronavirus: Covid-denying priest Father Sergei Romanov seizes Russian monastery",
+        "link": "https://www.bbc.com/news/world-europe-53091295"
     },
     {
         "title": "Beijing’s new coronavirus outbreak carries an urgent message for the world",
