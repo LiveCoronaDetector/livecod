@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://telanganatoday.com/global-covid-19-cases-top-8-4-million-johns-hopkins-university"
     },
     {
-        "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
-        "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
-    },
-    {
         "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
         "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
+    },
+    {
+        "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
+        "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
     }
 ];
