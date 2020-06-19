@@ -5,8 +5,32 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200619047851063?did=1195m"
     },
     {
+        "title": "[속보] 코로나19 강남구 추가 확진자 제주서 패키지 관광",
+        "link": "https://www.hankyung.com/society/article/2020061984767"
+    },
+    {
+        "title": "대전시, 코로나19 69번·70번 확진자 이동 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651649&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "美中 연구진 \"코로나19 완치돼도 항체 사라질 수 있어\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061904090.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 49명...국내 발생은 32명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006191030001&code=940601"
+    },
+    {
+        "title": "[종합] 코로나19 신규 확진자 49명...수도권 29명",
+        "link": "http://www.fnnews.com/news/202006191043546427"
     },
     {
         "title": "코로나 확진 49명…수도권·대전 지역감염 계속(종합)",
@@ -15,29 +39,5 @@ var koreaNewsData = [
     {
         "title": "‘코로나19’ 확진자 49명 추가…수도권 29명·대전 6명",
         "link": "https://www.donga.com/news/article/all/20200619/101583568/1"
-    },
-    {
-        "title": "[종합] 코로나19 신규 확진자 49명...수도권 29명",
-        "link": "http://www.fnnews.com/news/202006191043546427"
-    },
-    {
-        "title": "[속보] 코로나19 강남구 추가 확진자 제주서 패키지 관광",
-        "link": "https://www.hankyung.com/society/article/2020061984767"
-    },
-    {
-        "title": "[대전] 코로나19 확진자 1명 추가 발생... 찜질방 접촉자",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651442&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "대전지역 '코로나19' 69·70번 확진자 발생",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1395055"
-    },
-    {
-        "title": "이란, 코로나19 확진자 20만명 돌파...세계 10번째",
-        "link": "https://www.sedaily.com/NewsView/1Z437SYK23"
-    },
-    {
-        "title": "롯데제과, 의왕 이어 수원공장서도 코로나19 확진자 발생",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03286566625803360"
     }
 ];

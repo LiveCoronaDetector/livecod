@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Live updates: Mask rules confront pushback as coronavirus infections surge",
-        "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
+        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
+        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
     },
     {
         "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
-    },
-    {
-        "title": "How coronavirus has created a new split in American life",
-        "link": "https://www.theguardian.com/world/2020/jun/19/coronavirus-bars-restaurants-two-americas"
-    },
-    {
         "title": "Trump Superfans Line Up Early for Tulsa Rally",
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
+        "title": "Live updates: Mask rules confront pushback as coronavirus infections surge",
+        "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
+    },
+    {
         "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
         "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
+    },
+    {
+        "title": "Coronavirus: What is the true death toll of the pandemic?",
+        "link": "https://www.bbc.com/news/world-53073046"
     }
 ];
