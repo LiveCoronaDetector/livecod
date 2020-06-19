@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.inquirer.com/health/coronavirus/coronavirus-reopening-united-states-new-zealand-china-20200619.html"
     },
     {
-        "title": "Trump Superfans Line Up Early for Tulsa Rally",
-        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
+        "title": "How coronavirus has created a new split in American life",
+        "link": "https://www.theguardian.com/world/2020/jun/19/coronavirus-bars-restaurants-two-americas"
     }
 ];
