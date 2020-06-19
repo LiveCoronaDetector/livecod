@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=uJCh-PRzbHQ"
     },
     {
-        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
-        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
+        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/18/coronavirus-live-updates.html"
     },
     {
-        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
-        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
+        "title": "Live updates: Californians required to cover their faces in ‘most settings outside the home’",
+        "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
     },
     {
-        "title": "Beijing’s new coronavirus outbreak carries an urgent message for the world",
-        "link": "https://www.washingtonpost.com/world/2020/06/18/beijing-coronavirus-outbreak-meaning/"
+        "title": "Britain’s Contact Tracing for Coronavirus Falls Short of Promises",
+        "link": "https://www.nytimes.com/2020/06/17/world/coronavirus-live-updates.html"
     }
 ];

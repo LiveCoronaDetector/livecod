@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006191043546427"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 49명...국내 발생은 32명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006191030001&code=940601"
-    },
-    {
         "title": "[속보]‘코로나19’ 확진자 49명 추가…수도권 29명·대전 6명",
         "link": "https://www.donga.com/news/article/all/20200619/101583568/1"
     },
@@ -21,23 +17,27 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006190023&t=NN"
     },
     {
-        "title": "[속보] \"동남아·인도·파키스탄서 코로나19 확산…입국 확진자 증가\"",
-        "link": "http://yna.kr/AKR20200619069400530?did=1195m"
+        "title": "코로나19 확진자 들른 중앙대병원 의료진·직원 전원 '음성'",
+        "link": "http://yna.kr/AKR20200619069000017?did=1195m"
     },
     {
-        "title": "베이징 코로나19 확진자 25명…허베이·랴오닝에서도 3명",
-        "link": "https://www.nocutnews.co.kr/news/5363966"
+        "title": "대전 다단계發 코로나19 확진자 2명 추가…공주 찜질방서 확진자 접촉",
+        "link": "https://view.asiae.co.kr/article/2020061910290355255"
     },
     {
         "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
     },
     {
-        "title": "코로나19 신규 확진자 49명…서울·경기·대전 '집중'(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02220566625803360"
+        "title": "[속보] 코로나19 신규 확진 49명… 지역발생 32명·해외유입 17명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/06/19/2020061901509.html"
     },
     {
-        "title": "제주도내 코로나19 확진자 18일 하루만 3명 나와",
-        "link": "https://www.pressian.com/pages/articles/2020061902410290002?utm_source=naver&utm_medium=search"
+        "title": "베이징 코로나19 확진자 25명…허베이·랴오닝에서도 3명",
+        "link": "https://www.nocutnews.co.kr/news/5363966"
+    },
+    {
+        "title": "부산 코로나19 해외입국 2명 확진(19일 오전 10시)",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020061910145490381"
     }
 ];
