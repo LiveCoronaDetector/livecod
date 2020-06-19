@@ -564,9 +564,9 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 5767,
+        "확진자수": 5855,
         "사망자수": 19,
-        "완치자수": 4166
+        "완치자수": 4199
     },
     {
         "Name": "세네갈",
