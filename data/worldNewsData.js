@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
     },
     {
-        "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
-        "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
+        "title": "Israel records nearly 350 new coronavirus cases in one day, in first since April",
+        "link": "https://www.timesofisrael.com/israel-records-over-300-new-cases-in-one-day-in-first-since-april/"
     },
     {
-        "title": "Italy Had Coronavirus in Sewage as Early as December, Study Says",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ced39470-b228-11ea-a327-c7f07acdd1f2&url=L2FtcC9uZXdzL2FydGljbGVzLzIwMjAtMDYtMTkvaXRhbHktaGFkLWNvcm9uYXZpcnVzLWluLXNld2FnZS1hcy1lYXJseS1hcy1kZWNlbWJlci1zdHVkeS1zYXlz"
+        "title": "Coronavirus was already in Italy by December, waste water study finds",
+        "link": "https://www.bbc.com/news/world-europe-53106444"
     },
     {
         "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
         "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
-    },
-    {
-        "title": "Live Coronavirus Updates: Tensions Grow Over Masks",
-        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
     },
     {
         "title": "Trump Superfans Line Up Early for Tulsa Rally",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
         "link": "https://www.bbc.com/news/world-53073046"
+    },
+    {
+        "title": "Coronavirus live news: EU leaders meet virtually to discuss €750bn recovery fund",
+        "link": "https://www.theguardian.com/world/live/2020/jun/19/coronavirus-covid-19-live-news-update-us-questions-beijing-cluster-figures-who-vaccine-doses-latest-updates"
     }
 ];
