@@ -17,12 +17,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200619081451530?did=1195m"
     },
     {
-        "title": "제주도내 코로나19 확진자 18일 하루만 3명 나와",
-        "link": "https://www.pressian.com/pages/articles/2020061902410290002?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주도 17·18번째 코로나19 확진자 발생",
-        "link": "http://news.mk.co.kr/newsRead.php?no=628350&year=2020"
+        "title": "제주도, 17-18번째 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020061822523328982?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진…18명 접촉",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "세종시 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020061811424539229?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
+        "link": "http://www.sjsori.com/news/articleView.html?idxno=43805"
     }
 ];

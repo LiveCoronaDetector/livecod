@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
     },
     {
+        "title": "Trump Superfans Line Up Early for Tulsa Rally",
+        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
+    },
+    {
         "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
         "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
     },
     {
+        "title": "Live Coronavirus Updates: Tensions Grow Over Masks",
+        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
+    },
+    {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
         "link": "https://www.bbc.com/news/world-53073046"
-    },
-    {
-        "title": "Coronavirus: American Airlines passenger removed for not wearing mask",
-        "link": "https://www.bbc.com/news/world-us-canada-53091426"
-    },
-    {
-        "title": "World Health Organization halts hydroxychloroquine study",
-        "link": "https://www.nbcnews.com/health/health-news/world-health-organization-halts-hydroxychloroquine-study-n1231348"
     }
 ];

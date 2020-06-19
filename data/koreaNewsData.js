@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061901324.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "‘코로나19’ 확진자 49명 추가…수도권 29명·대전 6명",
+        "link": "https://www.donga.com/news/article/all/20200619/101583568/1"
+    },
+    {
         "title": "[대전] 코로나19 확진자 1명 추가 발생... 찜질방 접촉자",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651442&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 확진자 49명 증가, 지역발생이 32명",
         "link": "https://www.nocutnews.co.kr/news/5363993"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 49명...국내 발생은 32명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006191030001&code=940601"
     }
 ];
