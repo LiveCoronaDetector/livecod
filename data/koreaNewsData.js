@@ -13,16 +13,20 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
     },
     {
+        "title": "코로나 확진 49명…수도권·대전 지역감염 계속(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061901324.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[대전] 코로나19 확진자 1명 추가 발생... 찜질방 접촉자",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651442&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "코로나19 확진자 방문했던 중앙대병원 검진센터 운영 재개",
-        "link": "https://jhealthmedia.joins.com/article/article_view.asp?pno=21999"
-    },
-    {
         "title": "대전지역 '코로나19' 69·70번 확진자 발생",
         "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1395055"
+    },
+    {
+        "title": "코로나19 확진자 방문했던 중앙대병원 검진센터 운영 재개",
+        "link": "https://jhealthmedia.joins.com/article/article_view.asp?pno=21999"
     },
     {
         "title": "CGV, 코로나 역학조사용 전자출입명부 도입",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "코로나 확진자 49명 증가, 지역발생이 32명",
         "link": "https://www.nocutnews.co.kr/news/5363993"
-    },
-    {
-        "title": "[단독] 송파구 롯데택배 확진자 발생 엿새째… 접촉자 5명 검사 안 받아",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061902705.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 49명...국내 발생은 32명",

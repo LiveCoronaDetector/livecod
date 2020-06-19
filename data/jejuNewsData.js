@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
-        "title": "[종합] 제주 17~19번 확진자 방글라데시인 유학생 접촉자 72명",
-        "link": "http://www.jemin.com/news/articleView.html?idxno=661640"
-    },
-    {
         "title": "방글라데시서 입국한 7명 무더기 확진...추가 확진자 나올 가능성도",
         "link": "https://www.sedaily.com/NewsView/1Z4373T81A"
     },
@@ -21,16 +17,20 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200619081451530?did=1195m"
     },
     {
-        "title": "제주도, 17-18번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020061822523328982?utm_source=naver&utm_medium=search"
+        "title": "제주도내 코로나19 확진자 18일 하루만 3명 나와",
+        "link": "https://www.pressian.com/pages/articles/2020061902410290002?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나19 한창인데 수백명 모여 포커대회…주최 측 “직원 교육” 변명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
+        "title": "제주도 17·18번째 코로나19 확진자 발생",
+        "link": "http://news.mk.co.kr/newsRead.php?no=628350&year=2020"
     },
     {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진…18명 접촉",
         "link": "https://news.joins.com/article/olink/23400209"
+    },
+    {
+        "title": "코로나19 한창인데 수백명 모여 포커대회…주최 측 “직원 교육” 변명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
     },
     {
         "title": "[속보] 제주도 코로나19 확진자 2명 추가…누적 18명",
