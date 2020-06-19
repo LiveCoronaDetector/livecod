@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53106444"
     },
     {
-        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
+        "title": "Daily activity is causing spikes in coronavirus cases: Professor",
+        "link": "https://www.youtube.com/watch?v=Cof86j62rqU"
     },
     {
-        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
+        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
+        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
     },
     {
         "title": "Italy Had Coronavirus in Sewage as Early as December, Study Says",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
-        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
-        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
+        "title": "The highest number of coronavirus cases were reported to WHO in a single day yesterday",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-06-19-20-intl/h_b6db1f017a3cfd664b763404d5827389"
     }
 ];

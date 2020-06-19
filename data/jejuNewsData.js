@@ -9,12 +9,24 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
+        "title": "[속보] 코로나19 강남구 추가 확진자 제주서 패키지 관광",
+        "link": "https://www.hankyung.com/society/article/2020061984767"
+    },
+    {
         "title": "제주도 17·18번째 코로나19 확진자 발생",
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
+        "title": "제주도, 안산코로나19 확진자 팩키지여행 세부 동선 공개",
+        "link": "http://www.fnnews.com/news/202006200325116171"
+    },
+    {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진…18명 접촉",
         "link": "https://news.joins.com/article/olink/23400209"
+    },
+    {
+        "title": "코로나19 확진 방글라데시 국적 유학생 3명… 제주도 입도 후 72명 접촉",
+        "link": "https://www.dailian.co.kr/news/view/899104?sc=Naver"
     },
     {
         "title": "코로나19 강남 확진자, 유증상 상태로 제주 여행 확인",
@@ -27,17 +39,5 @@ var jejuNewsData = [
     {
         "title": "해외유입 확진자 증가 '비상'…방글라데시발 항공편 무더기 확진(종합)",
         "link": "http://yna.kr/AKR20200619081451530?did=1195m"
-    },
-    {
-        "title": "도내 17·18·19번째 확진자 접촉자 총 72명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166093"
-    },
-    {
-        "title": "방글라데시서 입국한 7명 무더기 확진...추가 확진자 나올 가능성도",
-        "link": "https://www.sedaily.com/NewsView/1Z4373T81A"
-    },
-    {
-        "title": "코로나19 한창인데 수백명 모여 포커대회…주최 측 “직원 교육” 변명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
     }
 ];
