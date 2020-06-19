@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200619047851063?did=1195m"
     },
     {
+        "title": "‘코로나19’ 확진자 49명 추가…수도권 29명·대전 6명",
+        "link": "https://www.donga.com/news/article/all/20200619/101583568/1"
+    },
+    {
         "title": "대전 코로나19 68번 확진자 발생",
         "link": "http://www.fnnews.com/news/202006191340334605"
     },
     {
-        "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
+        "title": "코로나19 확진자 방문했던 중앙대병원 검진센터 운영 재개",
+        "link": "https://jhealthmedia.joins.com/article/article_view.asp?pno=21999"
     },
     {
         "title": "[단독] 송파구 롯데택배 확진자 발생 엿새째… 접촉자 5명 검사 안 받아",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061902705.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "‘코로나19’ 확진자 49명 추가…수도권 29명·대전 6명",
-        "link": "https://www.donga.com/news/article/all/20200619/101583568/1"
-    },
-    {
-        "title": "경북 구미, 19일 마지막 확진자 퇴원…\"100% 완치\"",
-        "link": "https://news.imaeil.com/Society/2020061915092513561"
+        "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 49명...국내 발생은 32명",

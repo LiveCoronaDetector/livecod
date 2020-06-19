@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
-        "title": "해외유입 확진자 증가 '비상'…방글라데시발 항공편 무더기 확진(종합)",
-        "link": "http://yna.kr/AKR20200619081451530?did=1195m"
+        "title": "제주도 17·18번째 코로나19 확진자 발생",
+        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
-        "title": "제주도, 17-18번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020061822523328982?utm_source=naver&utm_medium=search"
+        "title": "해외유입 확진자 증가 '비상'…방글라데시발 항공편 무더기 확진(종합)",
+        "link": "http://yna.kr/AKR20200619081451530?did=1195m"
     },
     {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진…18명 접촉",
@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020061846397"
     },
     {
-        "title": "세종시, 코로나19 확진자 발생",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=548204"
+        "title": "세종시 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020061811424539229?utm_source=naver&utm_medium=search"
     },
     {
         "title": "[단독] 인천 서구의원들, '이 시국에' 제주도로 의정연수",

@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
     },
     {
-        "title": "Blood type, genes tied to risk of severe COVID-19: European study",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-genes/blood-type-genes-tied-to-risk-of-severe-covid-19-european-study-idUSKBN23P38C"
+        "title": "Germany reports 650 new coronavirus cases in a meat processing plant",
+        "link": "https://www.cnn.com/2020/06/18/europe/germany-meat-processing-plant-coronavirus-cases-intl/index.html"
     },
     {
-        "title": "India is planning to build the world's largest temporary Covid-19 hospital",
-        "link": "https://www.youtube.com/watch?v=4csf9QRNM38"
+        "title": "COVID-19: India reports more than 12000 new cases",
+        "link": "https://www.youtube.com/watch?v=uJCh-PRzbHQ"
     },
     {
         "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
-        "title": "Coronavirus map of the US: latest cases state by state",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/jun/18/coronavirus-map-us-latest-cases-state-by-state"
-    },
-    {
         "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
         "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
     },
     {
         "title": "WHO: Hundreds of millions of coronavirus vaccine doses could be ready for 2021",
         "link": "https://www.foxnews.com/health/who-coronavirus-vaccine-doses-ready-2021"
+    },
+    {
+        "title": "Coronavirus: What is the true death toll of the pandemic?",
+        "link": "https://www.bbc.com/news/world-53073046"
     }
 ];
