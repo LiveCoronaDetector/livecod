@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/06/19/878896370/pandemic-panic-in-pakistan-people-are-just-literally-fighting-for-beds"
     },
     {
-        "title": "Coronavirus was already in Italy by December, waste water study finds",
-        "link": "https://www.bbc.com/news/world-europe-53106444"
+        "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
+        "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
         "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
-        "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
+        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
+    },
+    {
+        "title": "Coronavirus was already in Italy by December, waste water study finds",
+        "link": "https://www.bbc.com/news/world-europe-53106444"
     },
     {
         "title": "In countries keeping coronavirus at bay, experts watch U.S. case numbers with alarm",
         "link": "https://www.inquirer.com/health/coronavirus/coronavirus-reopening-united-states-new-zealand-china-20200619.html"
-    },
-    {
-        "title": "WHO says coronavirus enters 'new and dangerous phase' as daily cases hit record high",
-        "link": "https://www.cnbc.com/2020/06/19/who-says-coronavirus-enters-new-and-dangerous-phase-as-daily-cases-hits-record.html"
     },
     {
         "title": "Trump Superfans Line Up Early for Tulsa Rally",
