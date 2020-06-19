@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/18/europe/germany-meat-processing-plant-coronavirus-cases-intl/index.html"
     },
     {
-        "title": "India's Covid-19 deaths double in 15 days as major states adjust data backlog",
-        "link": "https://www.indiatoday.in/diu/story/india-s-covid-19-deaths-double-in-15-days-as-major-states-adjust-data-backlog-1690446-2020-06-18"
+        "title": "COVID-19: India reports more than 12000 new cases",
+        "link": "https://www.youtube.com/watch?v=uJCh-PRzbHQ"
     },
     {
-        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
-        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
+        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
         "title": "Covid-19 Worldwide: Live Updates on Cases and Deaths",
