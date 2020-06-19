@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z4373T81A"
     },
     {
+        "title": "[단독] 인천 서구의원들, '이 시국에' 제주도로 의정연수",
+        "link": "http://www.incheontoday.com/news/articleView.html?idxno=200430"
+    },
+    {
         "title": "세종시 48번 확진자 딸 '음성', 14일간 제주도 격리",
         "link": "http://www.sjsori.com/news/articleView.html?idxno=43805"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
-    },
-    {
-        "title": "제주지역 16번째 코로나19 확진자 발생…접촉자 0명",
-        "link": "https://www.nocutnews.co.kr/news/5362301"
     }
 ];

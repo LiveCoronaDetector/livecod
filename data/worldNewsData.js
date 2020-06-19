@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53093832"
     },
     {
-        "title": "Florida shows signs as next coronavirus epicenter as cases spike across the country",
-        "link": "https://www.cnn.com/2020/06/18/us/us-coronavirus-thursday/index.html"
+        "title": "Live updates: Mask rules face pushback as coronavirus infections surge",
+        "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
     },
     {
         "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-genes/blood-type-genes-tied-to-risk-of-severe-covid-19-european-study-idUSKBN23P38C"
     },
     {
-        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
+        "title": "COVID-19: India reports more than 12000 new cases",
+        "link": "https://www.youtube.com/watch?v=uJCh-PRzbHQ"
     },
     {
-        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
-        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
-    },
-    {
-        "title": "Covid-19 Worldwide: Live Updates on Cases and Deaths",
-        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
-    },
-    {
-        "title": "Coronavirus map of the US: latest cases state by state",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/jun/18/coronavirus-map-us-latest-cases-state-by-state"
+        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
         "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
         "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
     },
     {
-        "title": "WHO: Hundreds of millions of coronavirus vaccine doses could be ready for 2021",
-        "link": "https://www.foxnews.com/health/who-coronavirus-vaccine-doses-ready-2021"
+        "title": "Coronavirus live news: US questions Beijing cluster figures as WHO eyes 2bn Covid-19 vaccine doses by end of 2021",
+        "link": "https://www.theguardian.com/world/live/2020/jun/19/coronavirus-covid-19-live-news-update-us-questions-beijing-cluster-figures-who-vaccine-doses-latest-updates"
+    },
+    {
+        "title": "Coronavirus: What is the true death toll of the pandemic?",
+        "link": "https://www.bbc.com/news/world-53073046"
+    },
+    {
+        "title": "Coronavirus: American Airlines passenger removed for not wearing mask",
+        "link": "https://www.bbc.com/news/world-us-canada-53091426"
     }
 ];
