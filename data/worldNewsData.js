@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53106444"
     },
     {
-        "title": "Daily activity is causing spikes in coronavirus cases: Professor",
-        "link": "https://www.youtube.com/watch?v=Cof86j62rqU"
+        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
     },
     {
         "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Italy Had Coronavirus in Sewage as Early as December, Study Says",
-        "link": "https://www.msn.com/en-us/news/world/italy-had-coronavirus-in-sewage-as-early-as-december-study-says/ar-BB15HNOs?li=BBnbcA1"
+        "title": "Virus already in Italy by December, sewers show",
+        "link": "https://medicalxpress.com/news/2020-06-virus-italy-december.html"
     },
     {
         "title": "WHO says coronavirus enters 'new and dangerous phase' as daily cases hit record high",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
-        "title": "Global COVID-19 cases top 8.4 million: Johns Hopkins University",
-        "link": "https://telanganatoday.com/global-covid-19-cases-top-8-4-million-johns-hopkins-university"
+        "title": "This drug may be the secret behind Portugal's low Covid-19 death rate",
+        "link": "https://www.cnn.com/videos/world/2020/06/19/portugal-coronavirus-covid-19-pandemic-steroids-treatment-pleitgen-pkg-intl-ldn-vpx.cnn"
     }
 ];
