@@ -17,20 +17,20 @@ var koreaNewsData = [
         "link": "https://jhealthmedia.joins.com/article/article_view.asp?pno=21999"
     },
     {
-        "title": "[단독] 송파구 롯데택배 확진자 발생 엿새째… 접촉자 5명 검사 안 받아",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061902705.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 확진자 49명 증가, 지역발생이 32명",
+        "link": "https://www.nocutnews.co.kr/news/5363993"
     },
     {
         "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 49명...국내 발생은 32명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006191030001&code=940601"
+        "title": "[단독] 송파구 롯데택배 확진자 발생 엿새째… 접촉자 5명 검사 안 받아",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061902705.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "6월 19일 ‘코로나19’ 세계 확진자 839만명…입국금지·검역 조치 183개국(종...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/19/2020061980153.html"
+        "title": "[속보] 코로나19 신규 확진자 49명...국내 발생은 32명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006191030001&code=940601"
     },
     {
         "title": "[종합] 코로나19 신규 확진자 49명...수도권 29명",

@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
     },
     {
-        "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
-        "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
+        "title": "Israel's 'coronavirus cabinet' faces a tough dilemma – and public disobedience",
+        "link": "https://www.haaretz.com/israel-news/.premium-israel-s-coronavirus-cabinet-faces-a-tough-dilemma-and-public-disobedience-1.8932332"
     },
     {
-        "title": "Germany reports 650 new coronavirus cases in a meat processing plant",
-        "link": "https://www.cnn.com/2020/06/18/europe/germany-meat-processing-plant-coronavirus-cases-intl/index.html"
+        "title": "Blood type may play role in which coronavirus patients get sickest",
+        "link": "https://www.cbsnews.com/news/coronavirus-blood-type-patients-sickest-covid-19/"
     },
     {
-        "title": "COVID-19: India reports more than 12000 new cases",
-        "link": "https://www.youtube.com/watch?v=uJCh-PRzbHQ"
+        "title": "Coronavirus latest: India sees little sign of slowing down outbreak",
+        "link": "https://asia.nikkei.com/Spotlight/Coronavirus/Coronavirus-Free-to-read/Coronavirus-latest-India-sees-little-sign-of-slowing-down-outbreak"
     },
     {
         "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
         "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
     },
     {
-        "title": "Trump Superfans Line Up Early for Tulsa Rally",
-        "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
-    },
-    {
         "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
         "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
     },
     {
-        "title": "WHO: Hundreds of millions of coronavirus vaccine doses could be ready for 2021",
-        "link": "https://www.foxnews.com/health/who-coronavirus-vaccine-doses-ready-2021"
-    },
-    {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
         "link": "https://www.bbc.com/news/world-53073046"
+    },
+    {
+        "title": "How Long Will Coronavirus Last? Pandemic Will Stretch Into 2021",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a6a13de0-b20f-11ea-9c21-97ea454e438c&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wNi0xOC93ZS13aWxsLWJlLWxpdmluZy13aXRoLXRoZS1jb3JvbmF2aXJ1cy1wYW5kZW1pYy13ZWxsLWludG8tMjAyMQ=="
+    },
+    {
+        "title": "Coronavirus: American Airlines passenger removed for not wearing mask",
+        "link": "https://www.bbc.com/news/world-us-canada-53091426"
     }
 ];
