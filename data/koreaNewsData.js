@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006191043546427"
     },
     {
+        "title": "[대전] 코로나19 확진자 1명 추가 발생... 찜질방 접촉자",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651442&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
         "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "‘코로나19’ 확진자 49명 추가…수도권 29명·대전 6명",
         "link": "https://www.donga.com/news/article/all/20200619/101583568/1"
-    },
-    {
-        "title": "[대전] 코로나19 확진자 1명 추가 발생... 찜질방 접촉자",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651442&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "대전지역 '코로나19' 69·70번 확진자 발생",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://it.chosun.com/site/data/html_dir/2020/06/19/2020061902323.html"
     },
     {
-        "title": "코로나 확진자 49명 증가, 지역발생이 32명",
-        "link": "https://www.nocutnews.co.kr/news/5363993"
+        "title": "이란, 코로나19 확진자 20만명 돌파...세계 10번째",
+        "link": "https://www.sedaily.com/NewsView/1Z437SYK23"
     }
 ];

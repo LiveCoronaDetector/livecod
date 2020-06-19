@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
     },
     {
-        "title": "Blood type, genes tied to risk of severe COVID-19: European study",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-genes/blood-type-genes-tied-to-risk-of-severe-covid-19-european-study-idUSKBN23P38C"
+        "title": "Italy Had Coronavirus in Sewage as Early as December, Study Says",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ced39470-b228-11ea-a327-c7f07acdd1f2&url=L2FtcC9uZXdzL2FydGljbGVzLzIwMjAtMDYtMTkvaXRhbHktaGFkLWNvcm9uYXZpcnVzLWluLXNld2FnZS1hcy1lYXJseS1hcy1kZWNlbWJlci1zdHVkeS1zYXlz"
     },
     {
         "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
     },
     {
+        "title": "Live Coronavirus Updates: Tensions Grow Over Masks",
+        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
+    },
+    {
         "title": "Trump Superfans Line Up Early for Tulsa Rally",
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
         "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
         "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
-    },
-    {
-        "title": "Live Coronavirus Updates: Tensions Grow Over Masks",
-        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus: What is the true death toll of the pandemic?",
