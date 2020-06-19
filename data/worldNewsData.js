@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/06/19/878896370/pandemic-panic-in-pakistan-people-are-just-literally-fighting-for-beds"
     },
     {
-        "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
-        "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
+        "title": "Coronavirus was already in Italy by December, waste water study finds",
+        "link": "https://www.bbc.com/news/world-europe-53106444"
     },
     {
         "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Coronavirus was already in Italy by December, waste water study finds",
-        "link": "https://www.bbc.com/news/world-europe-53106444"
+        "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
+        "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
         "title": "In countries keeping coronavirus at bay, experts watch U.S. case numbers with alarm",
