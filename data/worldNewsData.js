@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
     },
     {
-        "title": "Blood type, genes tied to risk of severe COVID-19: European study",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-genes/blood-type-genes-tied-to-risk-of-severe-covid-19-european-study-idUSKBN23P38C"
+        "title": "Germany reports 650 new coronavirus cases in a meat processing plant",
+        "link": "https://www.cnn.com/2020/06/18/europe/germany-meat-processing-plant-coronavirus-cases-intl/index.html"
     },
     {
         "title": "COVID-19: India reports more than 12000 new cases",

@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23400209"
     },
     {
+        "title": "해외유입 확진자 증가 '비상'…방글라데시발 항공편 무더기 확진(종합)",
+        "link": "http://yna.kr/AKR20200619081451530?did=1195m"
+    },
+    {
         "title": "[속보] 제주도 코로나19 확진자 2명 추가…누적 18명",
         "link": "https://www.hankyung.com/society/article/2020061846397"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://www.sjsori.com/news/articleView.html?idxno=43805"
     },
     {
-        "title": "[뉴스라이브] \"코로나19 전국 대유행 대비\"...'강화된 방역' 전국 확대되나?",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006191036518705"
-    },
-    {
-        "title": "제주 코로나19 16번째 확진자 발생…접촉자 0명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4471897&ref=A"
+        "title": "방글라데시서 입국 인천·경기·전북 확진자 5명 '같은 항공기 탑승'",
+        "link": "https://www.news1.kr/articles/?3970825"
     }
 ];
