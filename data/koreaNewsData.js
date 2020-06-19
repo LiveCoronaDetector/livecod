@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "[속보] 코로나19 강남구 추가 확진자 제주서 패키지 관광",
+        "link": "https://www.hankyung.com/society/article/2020061984767"
+    },
+    {
         "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",
         "link": "http://yna.kr/AKR20200620001200088?did=1195m"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006191043546427"
     },
     {
-        "title": "[대전] 코로나19 확진자 1명 추가 발생... 찜질방 접촉자",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651442&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "대전지역 '코로나19' 69·70번 확진자 발생",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1395055"
+        "title": "롯데제과, 의왕 이어 수원공장서도 코로나19 확진자 발생",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03286566625803360"
     }
 ];

@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2286492,
-        "사망자수": 121247,
-        "완치자수": 934307
+        "확진자수": 2289338,
+        "사망자수": 121292,
+        "완치자수": 935276
     },
     {
         "Name": "브라질",
@@ -62,7 +62,7 @@ var marker = [
         "Name_en": "Italy",
         "확진자수": 238011,
         "사망자수": 34561,
-        "완치자수": 181097
+        "완치자수": 181907
     },
     {
         "Name": "칠레",
@@ -70,7 +70,7 @@ var marker = [
         "Name_en": "Chile",
         "확진자수": 231393,
         "사망자수": 4093,
-        "완치자수": 186441
+        "완치자수": 191491
     },
     {
         "Name": "이란",
@@ -604,9 +604,9 @@ var marker = [
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "확진자수": 4841,
-        "사망자수": 26,
-        "완치자수": 3467
+        "확진자수": 4904,
+        "사망자수": 27,
+        "완치자수": 3522
     },
     {
         "Name": "North Macedonia",
@@ -1209,6 +1209,14 @@ var marker = [
         "완치자수": 434
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "확진자수": 355,
+        "사망자수": 9,
+        "완치자수": 315
+    },
+    {
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
@@ -1223,14 +1231,6 @@ var marker = [
         "확진자수": 337,
         "사망자수": 10,
         "완치자수": 325
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "확진자수": 337,
-        "사망자수": 9,
-        "완치자수": 315
     },
     {
         "Name": "Isle of Man",
@@ -1465,20 +1465,20 @@ var marker = [
         "완치자수": 45
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "확진자수": 45,
+        "사망자수": 0,
+        "완치자수": 19
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
         "확진자수": 42,
         "사망자수": 3,
         "완치자수": 36
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "확진자수": 40,
-        "사망자수": 0,
-        "완치자수": 19
     },
     {
         "Name": "Gambia",
