@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
+        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
+        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
     },
     {
         "title": "Pakistan Roiled By COVID-19 As Cases Surge And Health Care Lags : Goats and Soda",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Virus already in Italy by December, sewers show",
-        "link": "https://medicalxpress.com/news/2020-06-virus-italy-december.html"
+        "title": "Italy Had Coronavirus in Sewage as Early as December, Study Says",
+        "link": "https://www.msn.com/en-us/news/world/italy-had-coronavirus-in-sewage-as-early-as-december-study-says/ar-BB15HNOs"
     },
     {
         "title": "WHO says coronavirus enters 'new and dangerous phase' as daily cases hit record high",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
-        "title": "This drug may be the secret behind Portugal's low Covid-19 death rate",
-        "link": "https://www.cnn.com/videos/world/2020/06/19/portugal-coronavirus-covid-19-pandemic-steroids-treatment-pleitgen-pkg-intl-ldn-vpx.cnn"
+        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
+        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
     }
 ];
