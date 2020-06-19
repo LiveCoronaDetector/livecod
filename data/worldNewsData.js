@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/06/19/878896370/pandemic-panic-in-pakistan-people-are-just-literally-fighting-for-beds"
     },
     {
-        "title": "Coronavirus was already in Italy by December, waste water study finds",
-        "link": "https://www.bbc.com/news/world-europe-53106444"
+        "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
+        "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
         "title": "Daily activity is causing spikes in coronavirus cases: Professor",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
-        "title": "Italy Had Coronavirus in Sewage as Early as December, Study Says",
-        "link": "https://www.msn.com/en-us/news/world/italy-had-coronavirus-in-sewage-as-early-as-december-study-says/ar-BB15HNOs"
+        "title": "Coronavirus was already in Italy by December, waste water study finds",
+        "link": "https://www.bbc.com/news/world-europe-53106444"
+    },
+    {
+        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
+        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
     },
     {
         "title": "WHO says coronavirus enters 'new and dangerous phase' as daily cases hit record high",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Trump Superfans Line Up Early for Tulsa Rally",
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
-    },
-    {
-        "title": "Global COVID-19 cases top 8.4 million: Johns Hopkins University",
-        "link": "https://telanganatoday.com/global-covid-19-cases-top-8-4-million-johns-hopkins-university"
     }
 ];
