@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
     },
     {
-        "title": "Israel records nearly 350 new coronavirus cases in one day, in first since April",
-        "link": "https://www.timesofisrael.com/israel-records-over-300-new-cases-in-one-day-in-first-since-april/"
+        "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
+        "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
     },
     {
         "title": "Coronavirus was already in Italy by December, waste water study finds",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
     },
     {
-        "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
-        "link": "https://www.cbsnews.com/news/china-coronavirus-beijing-soft-lockdown/"
+        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
         "title": "Trump Superfans Line Up Early for Tulsa Rally",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "Coronavirus live news: EU leaders meet virtually to discuss €750bn recovery fund",
+        "title": "Coronavirus live news: Spain says decision on travel corridor with UK expected within hours",
         "link": "https://www.theguardian.com/world/live/2020/jun/19/coronavirus-covid-19-live-news-update-us-questions-beijing-cluster-figures-who-vaccine-doses-latest-updates"
     }
 ];
