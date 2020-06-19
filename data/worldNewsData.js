@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
     },
     {
+        "title": "Italy Had Coronavirus in Sewage as Early as December, Study Says",
+        "link": "https://www.msn.com/en-us/news/world/italy-had-coronavirus-in-sewage-as-early-as-december-study-says/ar-BB15HNOs?li=BBnbcA1"
+    },
+    {
+        "title": "WHO says coronavirus enters 'new and dangerous phase' as daily cases hit record high",
+        "link": "https://www.cnbc.com/2020/06/19/who-says-coronavirus-enters-new-and-dangerous-phase-as-daily-cases-hits-record.html"
+    },
+    {
         "title": "Trump Superfans Line Up Early for Tulsa Rally",
         "link": "https://www.nytimes.com/2020/06/18/world/coronavirus-cases-usa-world.html"
     },
     {
         "title": "Global COVID-19 cases top 8.4 million: Johns Hopkins University",
         "link": "https://telanganatoday.com/global-covid-19-cases-top-8-4-million-johns-hopkins-university"
-    },
-    {
-        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
-        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
-    },
-    {
-        "title": "Beijing's new outbreak is a reminder to the world that coronavirus can return at anytime",
-        "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
     }
 ];
