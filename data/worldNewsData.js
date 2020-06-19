@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
     },
     {
-        "title": "Israel's 'coronavirus cabinet' faces a tough dilemma – and public disobedience",
-        "link": "https://www.haaretz.com/israel-news/.premium-israel-s-coronavirus-cabinet-faces-a-tough-dilemma-and-public-disobedience-1.8932332"
+        "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
+        "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
     },
     {
-        "title": "Blood type may play role in which coronavirus patients get sickest",
-        "link": "https://www.cbsnews.com/news/coronavirus-blood-type-patients-sickest-covid-19/"
+        "title": "Germany reports 650 new coronavirus cases in a meat processing plant",
+        "link": "https://www.cnn.com/2020/06/18/europe/germany-meat-processing-plant-coronavirus-cases-intl/index.html"
     },
     {
-        "title": "Coronavirus latest: India sees little sign of slowing down outbreak",
-        "link": "https://asia.nikkei.com/Spotlight/Coronavirus/Coronavirus-Free-to-read/Coronavirus-latest-India-sees-little-sign-of-slowing-down-outbreak"
+        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
     },
     {
         "title": "Flights canceled, communities fenced off as coronavirus' return plunges Beijing into \"soft lockdown\"",
@@ -34,7 +34,7 @@ var worldNewsData = [
     },
     {
         "title": "How Long Will Coronavirus Last? Pandemic Will Stretch Into 2021",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a6a13de0-b20f-11ea-9c21-97ea454e438c&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wNi0xOC93ZS13aWxsLWJlLWxpdmluZy13aXRoLXRoZS1jb3JvbmF2aXJ1cy1wYW5kZW1pYy13ZWxsLWludG8tMjAyMQ=="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=da396a20-b213-11ea-bb61-bb47d94414e1&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wNi0xOC93ZS13aWxsLWJlLWxpdmluZy13aXRoLXRoZS1jb3JvbmF2aXJ1cy1wYW5kZW1pYy13ZWxsLWludG8tMjAyMQ=="
     },
     {
         "title": "Coronavirus: American Airlines passenger removed for not wearing mask",

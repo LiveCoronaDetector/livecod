@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006191340334605"
     },
     {
-        "title": "코로나19 확진자 방문했던 중앙대병원 검진센터 운영 재개",
-        "link": "https://jhealthmedia.joins.com/article/article_view.asp?pno=21999"
-    },
-    {
         "title": "코로나 확진자 49명 증가, 지역발생이 32명",
         "link": "https://www.nocutnews.co.kr/news/5363993"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나 확진 49명…수도권·대전 지역감염 계속(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061901324.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 확진자 방문했던 중앙대병원 검진센터 운영 재개",
+        "link": "https://jhealthmedia.joins.com/article/article_view.asp?pno=21999"
     }
 ];
