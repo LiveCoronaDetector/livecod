@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
     },
     {
-        "title": "COVID-19 Deaths, Patients Grossly Under-Reported in Pakistan",
-        "link": "https://www.voanews.com/covid-19-pandemic/covid-19-deaths-patients-grossly-under-reported-pakistan"
+        "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
+        "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
     },
     {
-        "title": "Germany reports 650 new coronavirus cases in a meat processing plant",
-        "link": "https://www.cnn.com/2020/06/18/europe/germany-meat-processing-plant-coronavirus-cases-intl/index.html"
+        "title": "Blood type may play role in which coronavirus patients get sickest",
+        "link": "https://www.cbsnews.com/news/coronavirus-blood-type-patients-sickest-covid-19/"
     },
     {
         "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53073046"
     },
     {
-        "title": "How Long Will Coronavirus Last? Pandemic Will Stretch Into 2021",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0120afa0-b218-11ea-8845-eda3a6d81c4a&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wNi0xOC93ZS13aWxsLWJlLWxpdmluZy13aXRoLXRoZS1jb3JvbmF2aXJ1cy1wYW5kZW1pYy13ZWxsLWludG8tMjAyMQ=="
+        "title": "Coronavirus: American Airlines passenger removed for not wearing mask",
+        "link": "https://www.bbc.com/news/world-us-canada-53091426"
     }
 ];
