@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
     },
     {
-        "title": "As coronavirus second wave approaches, why isn't Israel shutting down?",
-        "link": "https://www.jpost.com/israel-news/coronavirus-cases-are-climbing-why-isnt-israel-shutting-down-again-632003"
+        "title": "Israel records nearly 350 new coronavirus cases in one day, in first since April",
+        "link": "https://www.timesofisrael.com/israel-records-over-300-new-cases-in-one-day-in-first-since-april/"
     },
     {
         "title": "Coronavirus was already in Italy by December, waste water study finds",
         "link": "https://www.bbc.com/news/world-europe-53106444"
     },
     {
-        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
+        "title": "Global COVID-19 cases top 8.4 million: Johns Hopkins University",
+        "link": "https://telanganatoday.com/global-covid-19-cases-top-8-4-million-johns-hopkins-university"
     },
     {
         "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/18/asia/beijing-coronavirus-reminder-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: What is the true death toll of the pandemic?",
-        "link": "https://www.bbc.com/news/world-53073046"
+        "title": "Johns Hopkins University Faculty, Students Speak Out Against Racism; Call For Change During Protest",
+        "link": "https://www.youtube.com/watch?v=nUvOhKwMh4o"
     },
     {
-        "title": "Californians required to cover their faces in ‘most settings outside the home’",
-        "link": "https://www.washingtonpost.com/nation/2020/06/18/coronavirus-live-updates-us/"
+        "title": "This drug may be the secret behind Portugal's low Covid-19 death rate",
+        "link": "https://www.cnn.com/videos/world/2020/06/19/portugal-coronavirus-covid-19-pandemic-steroids-treatment-pleitgen-pkg-intl-ldn-vpx.cnn"
     }
 ];

@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
-    },
-    {
         "title": "코로나 확진 49명…수도권·대전 지역감염 계속(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061901324.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -23,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "[종합] 코로나19 신규 확진자 49명...수도권 29명",
         "link": "http://www.fnnews.com/news/202006191043546427"
+    },
+    {
+        "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
     },
     {
         "title": "대전시, 코로나19 69번·70번 확진자 이동 동선 공개",
