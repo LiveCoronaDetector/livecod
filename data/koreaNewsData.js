@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061901324.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 코로나19 신규 확진자 49명...수도권 29명",
-        "link": "http://www.fnnews.com/news/202006191043546427"
-    },
-    {
-        "title": "[속보]‘코로나19’ 확진자 49명 추가…수도권 29명·대전 6명",
-        "link": "https://www.donga.com/news/article/all/20200619/101583568/1"
-    },
-    {
         "title": "\"5월 보다 6월 확진자 늘어\"…코로나 '여름 재유행' 현실로",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006190023&t=NN"
     },
     {
-        "title": "코로나19 확진자 들른 중앙대병원 의료진·직원 전원 '음성'",
-        "link": "http://yna.kr/AKR20200619069000017?did=1195m"
+        "title": "[종합] 코로나19 신규 확진자 49명...수도권 29명",
+        "link": "http://www.fnnews.com/news/202006191043546427"
     },
     {
         "title": "대전 다단계發 코로나19 확진자 2명 추가…공주 찜질방서 확진자 접촉",
         "link": "https://view.asiae.co.kr/article/2020061910290355255"
     },
     {
+        "title": "코로나19 대전 확산 지속…확진자 근무 요양병원 환자 전수검사(종합)",
+        "link": "http://yna.kr/AKR20200619047851063?did=1195m"
+    },
+    {
         "title": "공주 2번째 코로나19 확진자 60대 반포면 거주(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200619_0001065744&cID=10899&pID=10800"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 49명… 지역발생 32명·해외유입 17명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/06/19/2020061901509.html"
+        "title": "코로나19 확진자 3명 발생…방글라데시 국적 유학생",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5814961_32633.html"
     },
     {
         "title": "베이징 코로나19 확진자 25명…허베이·랴오닝에서도 3명",
         "link": "https://www.nocutnews.co.kr/news/5363966"
     },
     {
-        "title": "부산 코로나19 해외입국 2명 확진(19일 오전 10시)",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020061910145490381"
+        "title": "[속보]‘코로나19’ 확진자 49명 추가…수도권 29명·대전 6명",
+        "link": "https://www.donga.com/news/article/all/20200619/101583568/1"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 49명...국내 발생은 32명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006191030001&code=940601"
     }
 ];
