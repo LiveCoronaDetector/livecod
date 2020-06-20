@@ -716,9 +716,9 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 2789,
-        "사망자수": 32,
-        "완치자수": 1961
+        "확진자수": 2981,
+        "사망자수": 35,
+        "완치자수": 1981
     },
     {
         "Name": "Somalia",

@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
-        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
-        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
+        "title": "LOCKED DOWN AGAIN: Restrictions reimposed in Victoria as COVID-19 cases spike",
+        "link": "https://www.youtube.com/watch?v=5MiUpjnH5qg"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
+        "title": "Is the pandemic getting worse in the US?",
+        "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp?li=BBnb7Kz"
     },
     {
         "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
