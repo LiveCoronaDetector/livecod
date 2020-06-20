@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200620018100094?did=1195m"
     },
     {
+        "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
+        "link": "http://yna.kr/AKR20200620001251088?did=1195m"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 67명으로 급증...23일만에 최대치",
         "link": "https://www.sedaily.com/NewsView/1Z43NA0GQB"
     },
     {
-        "title": "[코로나19] 신규 확진자 67명…해외유입 31명·지역발생 36명(종합)",
-        "link": "http://www.newspim.com/news/view/20200620000059"
-    },
-    {
-        "title": "코로나19 확진자 67명↑…해외유입 31·지역감염 36명(종합)",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=416918"
-    },
-    {
-        "title": "(속보) 전북 여고생 확진자 감염원 찾아… 대전 50번, 55번 확진자 동선 5분 ...",
-        "link": "http://www.jjan.kr/news/articleView.html?idxno=2085505"
+        "title": "코로나19 신규 확진자 67명 급증…23일 만에 최대",
+        "link": "http://news.tf.co.kr/read/life/1798488.htm"
     },
     {
         "title": "[종합] 코로나19 확진자 67명 급증...해외유입 31명, 국내 36명",
         "link": "http://www.fnnews.com/news/202006201048504916"
     },
     {
-        "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
-        "link": "http://yna.kr/AKR20200620001251088?did=1195m"
+        "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     },
     {
-        "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "롯데제과 의왕물류센터 뇌관 되나…확진자 4명 추가 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200620_0001066741&cID=10803&pID=14000"
+    },
+    {
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
