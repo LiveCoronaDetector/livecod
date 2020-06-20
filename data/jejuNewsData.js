@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006200325116171"
     },
     {
-        "title": "제주도 17·18번째 코로나19 확진자 발생",
-        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
-    },
-    {
         "title": "관광 다녀간 코로나19 확진자에 뒤집힌 제주, 56명 자가격리",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200620500012&wlog_tag3=naver"
+    },
+    {
+        "title": "제주도 17·18번째 코로나19 확진자 발생",
+        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
         "title": "해외유입 확진자 증가 '비상'…방글라데시발 항공편 무더기 확진(종합)",

@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006201418379721"
     },
     {
+        "title": "롯데제과 의왕물류센터 뇌관 되나…확진자 4명 추가 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200620_0001066741&cID=10803&pID=14000"
+    },
+    {
         "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "신규 확진자 67명 늘어...23일 만에 최대치",
         "link": "https://www.ytn.co.kr/_ln/0103_202006201051189335"
-    },
-    {
-        "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
-        "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     }
 ];
