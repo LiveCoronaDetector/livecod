@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
-        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
+        "title": "Tulsa mayor declares civil emergency ahead of Trump rally, stragglers face arrest",
+        "link": "https://www.foxnews.com/politics/tulsa-mayor-implements-federal-exclusion-zone-curfew-ahead-of-trumps-rally"
     },
     {
-        "title": "Letter to the Editor: Trump rally will be good for Tulsa",
-        "link": "https://www.tulsaworld.com/opinion/letters/letter-to-the-editor-trump-rally-will-be-good-for-tulsa/article_e03fd272-ab4f-52a5-84cf-58ff0cf2c358.html"
+        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
+        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     },
     {
         "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
