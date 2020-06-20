@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/06/19/878896370/pandemic-panic-in-pakistan-people-are-just-literally-fighting-for-beds"
     },
     {
-        "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
-        "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
+        "title": "From Oxford to an Italian lab, one race for coronavirus vaccine is gaining backers",
+        "link": "https://www.washingtonpost.com/world/europe/vaccine-coronavirus-oxford-italy-trials/2020/06/20/4b8f5e0a-af1c-11ea-98b5-279a6479a1e4_story.html"
     },
     {
-        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
+        "title": "India reports record rise in coronavirus cases; Delhi cancels all medical staff leave",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-india/india-reports-record-rise-in-coronavirus-cases-delhi-cancels-all-medical-staff-leave-idUSKBN23R0JP"
     },
     {
         "title": "Why Japan’s Jobless Rate Is Just 2.6% While the U.S.’s Has Soared",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Coronavirus: Is the pandemic getting worse in the US?",
-        "link": "https://www.bbc.com/news/world-us-canada-53088354"
+        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
+        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     }
 ];
