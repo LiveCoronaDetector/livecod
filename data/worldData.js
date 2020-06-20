@@ -356,9 +356,9 @@ var marker = [
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "확진자수": 21499,
-        "사망자수": 697,
-        "완치자수": 4002
+        "확진자수": 22476,
+        "사망자수": 715,
+        "완치자수": 4670
     },
     {
         "Name": "바레인",
@@ -1113,20 +1113,20 @@ var marker = [
         "완치자수": 351
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 652,
+        "사망자수": 10,
+        "완치자수": 458
+    },
+    {
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
         "확진자수": 650,
         "사망자수": 11,
         "완치자수": 247
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 638,
-        "사망자수": 10,
-        "완치자수": 458
     },
     {
         "Name": "Eswatini",
