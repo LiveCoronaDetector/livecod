@@ -17,20 +17,16 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
-        "title": "Coronavirus: South Asian people most likely to die in hospital",
-        "link": "https://www.bbc.com/news/health-53097676"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
-        "title": "In Beijing's Coronavirus Wave, China Tries Something New: Restraint",
-        "link": "https://www.nytimes.com/2020/06/19/world/asia/coronavirus-china-beijing.html"
+        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
+        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
-    },
-    {
-        "title": "Is the pandemic getting worse in the US?",
-        "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp?li=BBnb7Kz"
     },
     {
         "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
         "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
+    },
+    {
+        "title": "How the Coronavirus Will Reshape World Trade",
+        "link": "https://www.wsj.com/articles/how-the-coronavirus-will-reshape-world-trade-11592592995"
     }
 ];

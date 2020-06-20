@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200619081451530?did=1195m"
     },
     {
+        "title": "해외유입 확진자 31명… 당국 \"크게 우려할 상황 아니다\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006200041&t=NN"
+    },
+    {
         "title": "방글라데시서 입국한 7명 무더기 확진...추가 확진자 나올 가능성도",
         "link": "https://www.sedaily.com/NewsView/1Z4373T81A"
     },
     {
         "title": "코로나19 한창인데 수백명 모여 포커대회…주최 측 “직원 교육” 변명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
-    },
-    {
-        "title": "안산시 코로나19 확진자, 3박 4일 제주도 여행...\"56명 접촉\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006200129396033"
     }
 ];
