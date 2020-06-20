@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006201622544817"
     },
     {
-        "title": "코로나 다발적 연쇄감염 전국 확산, 주말 없이 방역 필요 (종합)",
-        "link": "http://www.fnnews.com/news/202006201418379721"
-    },
-    {
         "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "제주도 3박4일 여행한 코로나 확진자… 함께 간 지인도 양성",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001888.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나 다발적 연쇄감염 전국 확산, 주말 없이 방역 필요 (종합)",
+        "link": "http://www.fnnews.com/news/202006201418379721"
     },
     {
         "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
