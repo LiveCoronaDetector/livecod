@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5364457"
     },
     {
-        "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
-        "link": "http://yna.kr/AKR20200620001251088?did=1195m"
-    },
-    {
-        "title": "코로나19 국내 신규 확진자 67명… 23일 만에 최대, 왜?",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020062010382481346"
-    },
-    {
-        "title": "신규 확진자 67명, 해외 유입이 31명… 23일 만에 최대치",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000629.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "브리질 코로나 확진자 100만명 넘어…미국 이어 두번째",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "브라질 코로나19 확진자 100만명 넘어…하루에 5만5천명 증가(종합)",
+        "link": "http://yna.kr/AKR20200620018100094?did=1195m"
     },
     {
         "title": "[속보]코로나19 신규 확진자 67명으로 급증...23일만에 최대치",
         "link": "https://www.sedaily.com/NewsView/1Z43NA0GQB"
     },
     {
+        "title": "[코로나19] 신규 확진자 67명…해외유입 31명·지역발생 36명(종합)",
+        "link": "http://www.newspim.com/news/view/20200620000059"
+    },
+    {
+        "title": "코로나19 확진자 67명↑…해외유입 31·지역감염 36명(종합)",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=416918"
+    },
+    {
+        "title": "(속보) 전북 여고생 확진자 감염원 찾아… 대전 50번, 55번 확진자 동선 5분 ...",
+        "link": "http://www.jjan.kr/news/articleView.html?idxno=2085505"
+    },
+    {
         "title": "[종합] 코로나19 확진자 67명 급증...해외유입 31명, 국내 36명",
         "link": "http://www.fnnews.com/news/202006201048504916"
+    },
+    {
+        "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
+        "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     },
     {
         "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     },
     {
-        "title": "中베이징 코로나19 25명 늘어…한 식당서 8명 집단감염도(종합3보)",
-        "link": "http://yna.kr/AKR20200619041353083?did=1195m"
-    },
-    {
-        "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",
-        "link": "http://yna.kr/AKR20200620001200088?did=1195m"
+        "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
