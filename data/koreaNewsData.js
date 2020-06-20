@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006201622544817"
     },
     {
-        "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",
+        "link": "http://yna.kr/AKR20200620001200088?did=1195m"
     },
     {
         "title": "제주도 3박4일 여행한 코로나 확진자… 함께 간 지인도 양성",

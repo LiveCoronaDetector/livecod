@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "Pakistan Roiled By COVID-19 As Cases Surge And Health Care Lags : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/06/19/878896370/pandemic-panic-in-pakistan-people-are-just-literally-fighting-for-beds"
+        "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
     },
     {
-        "title": "From Oxford to an Italian lab, one race for coronavirus vaccine is gaining backers",
-        "link": "https://www.washingtonpost.com/world/europe/vaccine-coronavirus-oxford-italy-trials/2020/06/20/4b8f5e0a-af1c-11ea-98b5-279a6479a1e4_story.html"
+        "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
+        "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
         "title": "India reports record rise in coronavirus cases; Delhi cancels all medical staff leave",
         "link": "https://www.reuters.com/article/us-health-coronavirus-india/india-reports-record-rise-in-coronavirus-cases-delhi-cancels-all-medical-staff-leave-idUSKBN23R0JP"
     },
     {
-        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
-        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
+        "title": "Why Japan’s Jobless Rate Is Just 2.6% While the U.S.’s Has Soared",
+        "link": "https://www.nytimes.com/2020/06/20/business/japan-unemployment.html"
     },
     {
         "title": "Trump tempts fate with Tulsa rally during a pandemic and a national racial reckoning",
