@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     },
     {
-        "title": "신규 확진자 67명 늘어...23일 만에 최대치",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006201051189335"
+        "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
+        "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     }
 ];

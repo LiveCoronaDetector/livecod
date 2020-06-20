@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
-        "title": "Zimbabwe's Health Minister Arrested in COVID-19 Graft Case",
-        "link": "https://www.usnews.com/news/world/articles/2020-06-20/zimbabwes-health-minister-arrested-in-covid-19-graft-case"
+        "title": "Trump threatens protesters ahead of Tulsa rally",
+        "link": "https://www.cnn.com/2020/06/19/politics/donald-trump-tulsa-protesters/index.html"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "New Covid-19 cases in the U.S. hit two-week high",
-        "link": "https://www.youtube.com/watch?v=Zk4KKxuDwdk"
+        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
+        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     },
     {
-        "title": "Brazil Passes 1 Million Coronavirus Cases, Adding 54,000 in a Day",
-        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
+        "title": "Letter to the Editor: Trump rally will be good for Tulsa",
+        "link": "https://www.tulsaworld.com/opinion/letters/letter-to-the-editor-trump-rally-will-be-good-for-tulsa/article_e03fd272-ab4f-52a5-84cf-58ff0cf2c358.html"
     },
     {
-        "title": "Brazil: Police arrests ex-aide to Bolsonaro's son | Fineprint",
-        "link": "https://www.youtube.com/watch?v=2-jEL4jvRW0"
+        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
+        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
     }
 ];
