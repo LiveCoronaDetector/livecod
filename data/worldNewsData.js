@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
-        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
-        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
+        "title": "In Beijing's Coronavirus Wave, China Tries Something New: Restraint",
+        "link": "https://www.nytimes.com/2020/06/19/world/asia/coronavirus-china-beijing.html"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-20-20-intl/index.html"
-    },
-    {
         "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
         "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
+    },
+    {
+        "title": "How the Coronavirus Will Reshape World Trade",
+        "link": "https://www.wsj.com/articles/how-the-coronavirus-will-reshape-world-trade-11592592995"
     }
 ];
