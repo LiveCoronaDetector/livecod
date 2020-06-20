@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
-        "title": "India Reports Record Spike In COVID-19 Cases, But Nixes Another Nationwide Lockdown",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
         "title": "Coronavirus live news: Brazil passes 1 million cases as Australia seeks to prevent second wave",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53106444"
     },
     {
-        "title": "How coronavirus has created a new split in American life",
-        "link": "https://www.theguardian.com/world/2020/jun/19/coronavirus-bars-restaurants-two-americas"
+        "title": "Live updates: WHO warns of ‘new and dangerous phase’ as coronavirus accelerates; Americas now hardest hit",
+        "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
     }
 ];

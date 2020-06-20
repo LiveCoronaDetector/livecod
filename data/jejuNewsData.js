@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "강남구 코로나 확진자, 제주도서 3박 4일 관광",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061904321.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
@@ -21,10 +25,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4475088&ref=A"
     },
     {
-        "title": "제주 17·18·19번째 확진자 접촉자 총 72명으로 확인",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=323027"
-    },
-    {
         "title": "해외유입 확진자 증가 '비상'…방글라데시발 항공편 무더기 확진(종합)",
         "link": "http://yna.kr/AKR20200619081451530?did=1195m"
     },
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 확진자 3명 발생…방글라데시 국적 유학생",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5814961_32633.html"
+        "title": "안산시 코로나19 확진자, 3박 4일 제주도 여행...\"56명 접촉\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006200129396033"
     }
 ];
