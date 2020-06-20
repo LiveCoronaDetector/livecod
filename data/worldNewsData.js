@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Usher calls for Juneteenth to be national holiday: It would 'affirm that Black Lives Matter!'",
-        "link": "https://www.yahoo.com/entertainment/usher-juneteenth-national-holiday-affirm-black-lives-matter-170312624.html"
+        "title": "Inside the Trump Administration’s Decision to Leave the World Health Organization",
+        "link": "https://www.propublica.org/article/inside-the-trump-administrations-decision-to-leave-the-world-health-organization"
     }
 ];
