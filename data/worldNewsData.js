@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
-        "title": "Coronavirus live news: Brazil passes 1 million cases as Australia seeks to prevent second wave",
+        "title": "Coronavirus live news: asymptomatic cases in New Zealand as Australia seeks to prevent second wave",
         "link": "https://www.theguardian.com/world/live/2020/jun/20/coronavirus-live-news-brazil-passes-1-million-cases-as-australia-seeks-to-prevent-second-wave"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
+    },
+    {
+        "title": "Is the pandemic getting worse in the US?",
+        "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp?li=BBnb7Kz"
     },
     {
         "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus was already in Italy by December, waste water study finds",
         "link": "https://www.bbc.com/news/world-europe-53106444"
-    },
-    {
-        "title": "Live updates: WHO warns of ‘new and dangerous phase’ as coronavirus accelerates; Americas now hardest hit",
-        "link": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/"
     }
 ];

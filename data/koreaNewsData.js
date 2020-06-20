@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200620018100094?did=1195m"
     },
     {
-        "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "“음식점 갔는데 옆자리에 확진자가?” 감염 잇따라",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4475318&ref=A"
-    },
-    {
         "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
         "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     },
     {
-        "title": "코로나19 대전 확산 지속…확진자 근무 요양병원 환자 전수검사(종합)",
-        "link": "http://yna.kr/AKR20200619047851063?did=1195m"
+        "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 67명 늘어…누적 12,373명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4475367&ref=A"
+    },
+    {
+        "title": "[속보] 코로나19 해외유입 신규확진자 31명 급증…지역발생은 36명",
+        "link": "https://www.hankyung.com/society/article/2020062090387"
+    },
+    {
+        "title": "[속보] 코로나19 어제 67명 신규 확진… 해외유입 31명 급증",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000631.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] WHO 사무총장 “코로나19 확산 가속화…하루 만에 15만여명”",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014711886&code=61131111&cp=nv"
     },
     {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "대전 코로나19 68번 확진자 발생",
-        "link": "http://www.fnnews.com/news/202006191340334605"
+        "title": "[속보]‘코로나19’ 확진자 67명 추가, 누적 1만2373…연일 급증세",
+        "link": "https://www.donga.com/news/article/all/20200620/101596208/1"
     },
     {
-        "title": "쿠팡, 계속된 코로나19 확진자 은폐 의혹 ‘정면 반박’",
-        "link": "https://www.zdnet.co.kr/view/?no=20200619171702"
-    },
-    {
-        "title": "‘코로나19’ 확진자 49명 추가…수도권 29명·대전 6명",
-        "link": "https://www.donga.com/news/article/all/20200619/101583568/1"
-    },
-    {
-        "title": "코로나 확진 49명…수도권·대전 지역감염 계속(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/19/2020061901324.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나19 신규확진 67명…총 1만2천373명",
+        "link": "https://news.imaeil.com/Society/2020062010120646725"
     }
 ];
