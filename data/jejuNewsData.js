@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006200041&t=NN"
     },
     {
+        "title": "방글라데시發 확진자, 국내 입국 후 제주행… 같은 항공편 54명 격리",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001038.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "\"방글라데시발 확진자 탄 제주행 비행기 탄 54명 자가격리\"",
         "link": "https://news.joins.com/article/olink/23400940"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 17·18번째 코로나19 확진자 발생",
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
-    },
-    {
-        "title": "관광 다녀간 코로나19 확진자에 뒤집힌 제주, 56명 자가격리",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200620500012&wlog_tag3=naver"
     }
 ];

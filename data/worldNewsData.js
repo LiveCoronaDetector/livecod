@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-india/india-reports-record-rise-in-coronavirus-cases-delhi-cancels-all-medical-staff-leave-idUSKBN23R0JP"
     },
     {
-        "title": "Germany's confirmed coronavirus cases rise by 601 to 189,135: RKI",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-germany-cases/germanys-confirmed-coronavirus-cases-rise-by-601-to-189135-rki-idUSKBN23R037"
+        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
+        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
     },
     {
-        "title": "Trump threatens protesters ahead of Tulsa rally",
-        "link": "https://www.cnn.com/2020/06/19/politics/donald-trump-tulsa-protesters/index.html"
+        "title": "Tulsa's Weekend Of Contrasts: Juneteenth Commemorations Friday, MAGA Rally On Saturday | MSNBC",
+        "link": "https://www.youtube.com/watch?v=q_MHEafK-z0"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Inside the Trump Administration’s Decision to Leave the World Health Organization",
-        "link": "https://www.propublica.org/article/inside-the-trump-administrations-decision-to-leave-the-world-health-organization"
+        "title": "Coronavirus: Is the pandemic getting worse in the US?",
+        "link": "https://www.bbc.com/news/world-us-canada-53088354"
     }
 ];
