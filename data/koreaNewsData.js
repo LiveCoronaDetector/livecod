@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5364457"
     },
     {
-        "title": "브라질 코로나 확진자 100만명 넘어…미국 이어 두번째",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "\"유럽 코로나19 확진자 250만명 넘어\"<AFP>",
         "link": "http://yna.kr/AKR20200620055000085?did=1195m"
     },
@@ -19,6 +15,10 @@ var koreaNewsData = [
     {
         "title": "신규 확진자 67명...지역감염·해외유입 '비상'",
         "link": "https://www.ytn.co.kr/_ln/0103_202006201622544817"
+    },
+    {
+        "title": "브라질 코로나 확진자 100만명 넘어…미국 이어 두번째",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",

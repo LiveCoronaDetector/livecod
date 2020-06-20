@@ -13,20 +13,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
     },
     {
-        "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
-        "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
+        "title": "From Oxford to an Italian lab, one race for coronavirus vaccine is gaining backers",
+        "link": "https://www.washingtonpost.com/world/europe/vaccine-coronavirus-oxford-italy-trials/2020/06/20/4b8f5e0a-af1c-11ea-98b5-279a6479a1e4_story.html"
     },
     {
-        "title": "India reports record rise in coronavirus cases; Delhi cancels all medical staff leave",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-india/india-reports-record-rise-in-coronavirus-cases-delhi-cancels-all-medical-staff-leave-idUSKBN23R0JP"
+        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Why Japan’s Jobless Rate Is Just 2.6% While the U.S.’s Has Soared",
-        "link": "https://www.nytimes.com/2020/06/20/business/japan-unemployment.html"
+        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
+        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
     },
     {
-        "title": "Trump tempts fate with Tulsa rally during a pandemic and a national racial reckoning",
-        "link": "https://www.cnn.com/2020/06/20/politics/donald-trump-rally-tulsa-coronavirus/index.html"
+        "title": "Six Trump campaign staffers working on Tulsa rally test positive for coronavirus",
+        "link": "https://www.cnn.com/2020/06/20/politics/trump-campaign-staffers/index.html"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
