@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/18/879927134/india-reports-record-spike-in-covid-19-cases-but-nixes-another-nationwide-lockdo"
     },
     {
-        "title": "China finds heavy coronavirus traces in seafood, meat sections of Beijing food market",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-seafood/china-finds-heavy-coronavirus-traces-in-seafood-meat-sections-of-beijing-food-market-idUSKBN23P20T"
+        "title": "Coronavirus live news: Brazil passes 1 million cases as Australia seeks to prevent second wave",
+        "link": "https://www.theguardian.com/world/live/2020/jun/20/coronavirus-live-news-brazil-passes-1-million-cases-as-australia-seeks-to-prevent-second-wave"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Is the pandemic getting worse in the US?",
-        "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp"
-    },
-    {
-        "title": "In countries keeping coronavirus at bay, experts watch U.S. case numbers with alarm",
-        "link": "https://www.inquirer.com/health/coronavirus/coronavirus-reopening-united-states-new-zealand-china-20200619.html"
+        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
+        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
     },
     {
         "title": "Coronavirus was already in Italy by December, waste water study finds",
         "link": "https://www.bbc.com/news/world-europe-53106444"
+    },
+    {
+        "title": "How coronavirus has created a new split in American life",
+        "link": "https://www.theguardian.com/world/2020/jun/19/coronavirus-bars-restaurants-two-americas"
     }
 ];

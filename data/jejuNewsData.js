@@ -21,8 +21,8 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4475088&ref=A"
     },
     {
-        "title": "방글라데시서 입국 인천·경기·전북 확진자 5명 '같은 항공기 탑승'",
-        "link": "https://www.news1.kr/articles/?3970825"
+        "title": "제주 17·18·19번째 확진자 접촉자 총 72명으로 확인",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=323027"
     },
     {
         "title": "해외유입 확진자 증가 '비상'…방글라데시발 항공편 무더기 확진(종합)",
