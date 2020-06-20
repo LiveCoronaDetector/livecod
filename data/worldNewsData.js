@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
+        "title": "Coronavirus: South Asian people most likely to die in hospital",
+        "link": "https://www.bbc.com/news/health-53097676"
     },
     {
-        "title": "LOCKED DOWN AGAIN: Restrictions reimposed in Victoria as COVID-19 cases spike",
-        "link": "https://www.youtube.com/watch?v=5MiUpjnH5qg"
+        "title": "In Beijing's Coronavirus Wave, China Tries Something New: Restraint",
+        "link": "https://www.nytimes.com/2020/06/19/world/asia/coronavirus-china-beijing.html"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     },
     {
-        "title": "Coronavirus was already in Italy by December, waste water study finds",
-        "link": "https://www.bbc.com/news/world-europe-53106444"
+        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
+        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
     }
 ];

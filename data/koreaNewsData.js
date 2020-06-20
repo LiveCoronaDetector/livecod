@@ -5,6 +5,18 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5364457"
     },
     {
+        "title": "코로나19 확진 67명…국내외 감염 확산",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5816303_32496.html"
+    },
+    {
+        "title": "대전시, 코로나19 확진자 73~79번 이동 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651741&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "서울-의왕-대전 곳곳 감염속출…\"코로나19로부터 안전한곳 없다\"(종합)",
+        "link": "http://yna.kr/AKR20200620038051530?did=1195m"
+    },
+    {
         "title": "브라질 코로나 확진자 100만명 넘어…미국 이어 두번째",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4475342&ref=A"
     },
@@ -17,27 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "전주 여고생 확진자 감염원, 대전 50·55번 추정",
-        "link": "https://www.nocutnews.co.kr/news/5364468"
-    },
-    {
         "title": "코로나 다발적 연쇄감염 전국 확산, 주말 없이 방역 필요 (종합)",
         "link": "http://www.fnnews.com/news/202006201418379721"
     },
     {
-        "title": "롯데제과 의왕물류센터 뇌관 되나…확진자 4명 추가 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200620_0001066741&cID=10803&pID=14000"
+        "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
-    },
-    {
-        "title": "신규 확진자 67명 늘어...23일 만에 최대치",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006201051189335"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 67명...국외 유입 31명 ‘급증’",
-        "link": "http://www.hani.co.kr/arti/society/health/950191.html"
     }
 ];
