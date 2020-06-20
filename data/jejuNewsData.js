@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
+        "link": "http://www.fnnews.com/news/202006190709270776"
+    },
+    {
         "title": "제주 여행한 관광객 2명 코로나 19 확진에 제주도 비상",
         "link": "http://www.hani.co.kr/arti/area/jeju/950210.html"
     },
@@ -21,16 +25,12 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001888.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
-        "link": "http://www.fnnews.com/news/202006190709270776"
+        "title": "제주 관광객 2명 코로나19 확진…유증상 상태로 여행",
+        "link": "https://www.nocutnews.co.kr/news/5364588"
     },
     {
         "title": "제주도, 안산 코로나19 확진자 팩키지여행 세부 동선 공개",
         "link": "http://www.fnnews.com/news/202006200325116171"
-    },
-    {
-        "title": "제주 관광객 2명 코로나19 확진…유증상 상태로 여행",
-        "link": "https://www.nocutnews.co.kr/news/5364588"
     },
     {
         "title": "제주도 17·18번째 코로나19 확진자 발생",

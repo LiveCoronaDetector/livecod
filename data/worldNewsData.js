@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
-        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
+        "title": "India reports record rise in coronavirus cases; Delhi cancels all medical staff leave",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-india/india-reports-record-rise-in-coronavirus-cases-delhi-cancels-all-medical-staff-leave-idUSKBN23R0JP"
     },
     {
         "title": "Coronavirus live news: pandemic is accelerating, says WHO chief",
         "link": "https://www.theguardian.com/world/live/2020/jun/20/coronavirus-live-news-brazil-passes-1-million-cases-as-australia-seeks-to-prevent-second-wave"
+    },
+    {
+        "title": "Coronavirus Updates: Latest News and Analysis",
+        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
-        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
-    },
-    {
-        "title": "Coronavirus: Brazil becomes second country to hit one million cases",
-        "link": "https://www.bbc.com/news/world-latin-america-53092196"
+        "title": "Usher calls for Juneteenth to be national holiday: It would 'affirm that Black Lives Matter!'",
+        "link": "https://www.yahoo.com/entertainment/usher-juneteenth-national-holiday-affirm-black-lives-matter-170312624.html"
     }
 ];
