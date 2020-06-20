@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006200301595422"
     },
     {
-        "title": "3박4일 제주 여행 확진자, 전세버스 타고 19곳 다녀…56명 접촉",
-        "link": "https://www.news1.kr/articles/?3971226"
+        "title": "또 확진자 관광객에 뚫린 제주…주요 관광지 돌아·56명 자가격리",
+        "link": "https://www.hankyung.com/society/article/2020062091627"
     }
 ];

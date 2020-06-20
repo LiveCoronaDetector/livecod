@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp?li=BBnb7Kz"
     },
     {
-        "title": "In countries keeping the coronavirus at bay, experts watch US case numbers with alarm",
-        "link": "https://www.msn.com/en-us/news/world/in-countries-keeping-the-coronavirus-at-bay-experts-watch-us-case-numbers-with-alarm/ar-BB15HYrB"
+        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
+        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
     },
     {
-        "title": "Coronavirus was already in Italy by December, waste water study finds",
-        "link": "https://www.bbc.com/news/world-europe-53106444"
+        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
+        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     }
 ];
