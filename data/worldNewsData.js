@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
+        "title": "Coronavirus updates: Black-owned businesses hit hardest; new record high cases in some states",
+        "link": "https://www.cnbc.com/2020/06/19/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus live news: pandemic is accelerating, says WHO chief",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Brazil Passes 1 Million Coronavirus Cases, Adding 54,000 in a Day",
-        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
-    },
-    {
         "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
-        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
+        "title": "Live updates: Mask requirements take hold across the country as coronavirus cases spike",
+        "link": "https://www.washingtonpost.com/nation/2020/06/20/coronavirus-live-updates-us/"
+    },
+    {
+        "title": "Coronavirus: Brazil becomes second country to hit one million cases",
+        "link": "https://www.bbc.com/news/world-latin-america-53092196"
     }
 ];

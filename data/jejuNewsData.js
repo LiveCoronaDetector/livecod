@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23400940"
     },
     {
-        "title": "코로나19 확진 관광객 다녀간 제주, 접촉자 57명 자가격리(종합)",
-        "link": "http://yna.kr/AKR20200620012451056?did=1195m"
-    },
-    {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
         "link": "http://www.fnnews.com/news/202006190709270776"
+    },
+    {
+        "title": "코로나19 확진 관광객 다녀간 제주, 접촉자 57명 자가격리(종합)",
+        "link": "http://yna.kr/AKR20200620012451056?did=1195m"
     },
     {
         "title": "제주 여행한 관광객 2명 코로나 19 확진에 제주도 비상",
