@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
-        "title": "In Beijing's Coronavirus Wave, China Tries Something New: Restraint",
-        "link": "https://www.nytimes.com/2020/06/19/world/asia/coronavirus-china-beijing.html"
+        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
+        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
+        "title": "Brazil Passes 1 Million Coronavirus Cases, Adding 54,000 in a Day",
+        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
+    },
+    {
         "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
         "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     },
     {
-        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
-        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
-    },
-    {
-        "title": "How the Coronavirus Will Reshape World Trade",
-        "link": "https://www.wsj.com/articles/how-the-coronavirus-will-reshape-world-trade-11592592995"
+        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
+        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
     }
 ];
