@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
     },
     {
-        "title": "How coronavirus has created a new split in American life",
-        "link": "https://www.theguardian.com/world/2020/jun/19/coronavirus-bars-restaurants-two-americas"
+        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
+        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     }
 ];

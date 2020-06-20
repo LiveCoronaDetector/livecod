@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200620038051530?did=1195m"
     },
     {
-        "title": "해외유입 코로나 확진자 급증에도 방역당국 \"입국 제한 없다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나19 확진자 발생, MLB 캠프 시설 모두 문 닫는다(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200620_0001066850&cID=10522&pID=10500"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
+    },
+    {
+        "title": "브라질 코로나 확진자 100만명 넘어…미국 이어 두번째",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
