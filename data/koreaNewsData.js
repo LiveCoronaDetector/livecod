@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     },
     {
+        "title": "코로나19 신규확진자 67명…23일만에 최대(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5364457"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     },
     {
-        "title": "[속보] 코로나19 어제 67명 신규 확진… 해외유입 31명 급증",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000631.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "브리질 코로나 확진자 100만명 넘어…미국 이어 두번째",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 코로나19 확진자 67명 급증...해외유입 31명, 국내 36명",
-        "link": "http://www.fnnews.com/news/202006201048504916"
-    },
-    {
-        "title": "브라질 코로나19 확진자 100만명 넘어…미국 이어 두번째(종합)",
-        "link": "http://yna.kr/AKR20200620018100094?did=1195m"
-    },
-    {
-        "title": "[속보] 어제 코로나 신규확진자 67명… 해외유입 31명 '급증'",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000629.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "롯데제과 의왕물류센터 뇌관 되나…확진자 3명 추가 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200620_0001066741&cID=10803&pID=14000"
     },
     {
         "title": "[속보]코로나19 신규 확진자 67명으로 급증...23일만에 최대치",
         "link": "https://www.sedaily.com/NewsView/1Z43NA0GQB"
     },
     {
-        "title": "[속보] 신규 확진자 67명…해외유입 31명·지역감염 36명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4475367&ref=A"
+        "title": "코로나19 확진자 67명 증가, 23일 만에 최대 증가치",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23806279"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 67명...국외 유입 31명 ‘급증’",
-        "link": "http://www.hani.co.kr/arti/society/health/950191.html"
+        "title": "[종합] 코로나19 확진자 67명 급증...해외유입 31명, 국내 36명",
+        "link": "http://www.fnnews.com/news/202006201048504916"
     },
     {
-        "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",
-        "link": "http://yna.kr/AKR20200620001200088?did=1195m"
+        "title": "[속보] WHO 사무총장 “코로나19 확산 가속화…하루 만에 15만여명”",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014711886&code=61131111&cp=nv"
+    },
+    {
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

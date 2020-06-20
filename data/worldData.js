@@ -1340,9 +1340,9 @@ var marker = [
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "확진자수": 144,
+        "확진자수": 146,
         "사망자수": 9,
-        "완치자수": 128
+        "완치자수": 132
     },
     {
         "Name": "Eritrea",
