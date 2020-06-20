@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",
         "link": "http://yna.kr/AKR20200620001200088?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
-    },
-    {
-        "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
-        "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     }
 ];
