@@ -21,6 +21,14 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "광주서 코로나19 추가확진자 발생[속보]",
+        "link": "http://www.kjdaily.com/read.php3?aid=1592658917514735005"
+    },
+    {
+        "title": "AFP \"유럽 코로나19 확진자 250만 명 넘어\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005845474&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "신규 확진자 67명...지역감염·해외유입 '비상'",
         "link": "https://www.ytn.co.kr/_ln/0103_202006201622544817"
     },
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 확진자 발생, MLB 캠프 시설 모두 문 닫는다(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200620_0001066850&cID=10522&pID=10500"
-    },
-    {
         "title": "코로나19 신규 확진자 67명 급증…23일 만에 최대",
         "link": "http://news.tf.co.kr/read/life/1798488.htm"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     }
 ];

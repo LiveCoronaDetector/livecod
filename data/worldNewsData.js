@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
-        "title": "Coronavirus updates: Black-owned businesses hit hardest; new record high cases in some states",
-        "link": "https://www.cnbc.com/2020/06/19/coronavirus-live-updates.html"
+        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Coronavirus live news: pandemic is accelerating, says WHO chief",
-        "link": "https://www.theguardian.com/world/live/2020/jun/20/coronavirus-live-news-brazil-passes-1-million-cases-as-australia-seeks-to-prevent-second-wave"
+        "title": "Tulsa Trump Rally Attendees Don't Have to Wear Masks",
+        "link": "https://time.com/5856421/tulsa-trump-rally-mask-ruling/"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
-        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
+        "title": "Live updates: Daily U.S. coronavirus cases top 30,000 for first time in seven weeks",
+        "link": "https://www.washingtonpost.com/nation/2020/06/20/coronavirus-live-updates-us/"
     },
     {
-        "title": "Live updates: Mask requirements take hold across the country as coronavirus cases spike",
-        "link": "https://www.washingtonpost.com/nation/2020/06/20/coronavirus-live-updates-us/"
+        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
+        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
         "title": "Coronavirus: Brazil becomes second country to hit one million cases",

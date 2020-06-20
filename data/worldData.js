@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2298108,
-        "사망자수": 121424,
+        "확진자수": 2299184,
+        "사망자수": 121451,
         "완치자수": 956077
     },
     {
@@ -420,8 +420,8 @@ var marker = [
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "확진자수": 13556,
-        "사망자수": 458,
+        "확진자수": 13953,
+        "사망자수": 464,
         "완치자수": 7745
     },
     {
@@ -593,6 +593,14 @@ var marker = [
         "완치자수": 3894
     },
     {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "확진자수": 5005,
+        "사망자수": 233,
+        "완치자수": 1904
+    },
+    {
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
@@ -609,14 +617,6 @@ var marker = [
         "완치자수": 3522
     },
     {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "확진자수": 4820,
-        "사망자수": 222,
-        "완치자수": 1863
-    },
-    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -629,7 +629,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Kenya",
         "확진자수": 4478,
-        "사망자수": 119,
+        "사망자수": 121,
         "완치자수": 1586
     },
     {
@@ -996,7 +996,7 @@ var marker = [
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "확진자수": 900,
+        "확진자수": 901,
         "사망자수": 53,
         "완치자수": 810
     },
@@ -1015,6 +1015,14 @@ var marker = [
         "확진자수": 883,
         "사망자수": 27,
         "완치자수": 391
+    },
+    {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "확진자수": 863,
+        "사망자수": 8,
+        "완치자수": 377
     },
     {
         "Name": "Chad",
@@ -1039,14 +1047,6 @@ var marker = [
         "확진자수": 853,
         "사망자수": 24,
         "완치자수": 814
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "확진자수": 848,
-        "사망자수": 8,
-        "완치자수": 377
     },
     {
         "Name": "Uganda",
@@ -1252,9 +1252,9 @@ var marker = [
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "확진자수": 286,
+        "확진자수": 287,
         "사망자수": 6,
-        "완치자수": 192
+        "완치자수": 196
     },
     {
         "Name": "Martinique",
