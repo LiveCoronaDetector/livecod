@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "\"방글라데시발 확진자 탄 제주행 비행기 탄 54명 자가격리\"",
+        "link": "https://news.joins.com/article/olink/23400940"
+    },
+    {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
@@ -15,6 +19,10 @@ var jejuNewsData = [
     {
         "title": "제주도 17·18번째 코로나19 확진자 발생",
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
+    },
+    {
+        "title": "해외유입 확진자 31명… 당국 \"크게 우려할 상황 아니다\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006200041&t=NN"
     },
     {
         "title": "관광 다녀간 코로나19 확진자에 뒤집힌 제주, 56명 자가격리",
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200619081451530?did=1195m"
     },
     {
-        "title": "해외유입 확진자 31명… 당국 \"크게 우려할 상황 아니다\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006200041&t=NN"
-    },
-    {
         "title": "방글라데시서 입국한 7명 무더기 확진...추가 확진자 나올 가능성도",
         "link": "https://www.sedaily.com/NewsView/1Z4373T81A"
-    },
-    {
-        "title": "코로나19 한창인데 수백명 모여 포커대회…주최 측 “직원 교육” 변명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
     }
 ];

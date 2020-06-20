@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5364457"
     },
     {
+        "title": "수도권·비수도권 안가리는 코로나19…\"완전히 안전한 곳 없다\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01620326625803688"
+    },
+    {
         "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
         "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     },
@@ -17,10 +21,6 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000629.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",
-        "link": "http://yna.kr/AKR20200620001200088?did=1195m"
-    },
-    {
         "title": "브리질 코로나 확진자 100만명 넘어…미국 이어 두번째",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4475395&ref=A"
     },
     {
-        "title": "대전시, 코로나19 확진자 73~79번 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651741&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "코로나 다발적 연쇄감염 전국 확산, 주말 없이 방역 필요 (종합)",
+        "link": "http://www.fnnews.com/news/202006201418379721"
     },
     {
-        "title": "해외유입 코로나 확진자 급증에도 방영당국 \"입국 제한 없다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",
+        "link": "http://yna.kr/AKR20200620001200088?did=1195m"
     },
     {
-        "title": "리치웨이·요양시설 감염 등 14명 증가…서울 확진자 1202명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200620_0001066832&cID=10201&pID=10200"
+        "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     }
 ];
