@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/americas/brazil-one-million-coronavirus-jair-bolsonaro-cases-intl/index.html"
     },
     {
-        "title": "Pakistan registers record single-day coronavirus deaths: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
+        "title": "Pakistan Roiled By COVID-19 As Cases Surge And Health Care Lags : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/06/19/878896370/pandemic-panic-in-pakistan-people-are-just-literally-fighting-for-beds"
     },
     {
         "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-india/india-reports-record-rise-in-coronavirus-cases-delhi-cancels-all-medical-staff-leave-idUSKBN23R0JP"
     },
     {
-        "title": "Coronavirus live news: pandemic is accelerating, says WHO chief",
-        "link": "https://www.theguardian.com/world/live/2020/jun/20/coronavirus-live-news-brazil-passes-1-million-cases-as-australia-seeks-to-prevent-second-wave"
-    },
-    {
-        "title": "Coronavirus Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
+        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
+        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Inside the Trump Administration’s Decision to Leave the World Health Organization",
         "link": "https://www.propublica.org/article/inside-the-trump-administrations-decision-to-leave-the-world-health-organization"
+    },
+    {
+        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
+        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
     }
 ];

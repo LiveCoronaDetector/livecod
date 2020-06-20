@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001888.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 다발적 연쇄감염 전국 확산, 주말 없이 방역 필요 (종합)",
-        "link": "http://www.fnnews.com/news/202006201418379721"
-    },
-    {
         "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
         "link": "http://yna.kr/AKR20200620001251088?did=1195m"
+    },
+    {
+        "title": "해외 입국 확진자 증가…“크게 우려할 사항은 아니야”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4475425&ref=A"
     }
 ];
