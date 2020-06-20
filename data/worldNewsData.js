@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/20/latest_news/1592636921_883325.html"
     },
     {
-        "title": "Brazil tops 1 million Covid-19 cases. It may pass the US next, becoming the worst-hit country on the planet",
-        "link": "https://www.cnn.com/2020/06/19/americas/brazil-one-million-coronavirus-jair-bolsonaro-cases-intl/index.html"
+        "title": "Coronavirus Updates: Latest News and Analysis",
+        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
         "title": "Pakistan Roiled By COVID-19 As Cases Surge And Health Care Lags : Goats and Soda",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-india/india-reports-record-rise-in-coronavirus-cases-delhi-cancels-all-medical-staff-leave-idUSKBN23R0JP"
     },
     {
-        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
-        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
+        "title": "Germany's confirmed coronavirus cases rise by 601 to 189,135: RKI",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-germany-cases/germanys-confirmed-coronavirus-cases-rise-by-601-to-189135-rki-idUSKBN23R037"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",

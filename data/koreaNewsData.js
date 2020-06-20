@@ -13,12 +13,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200620055000085?did=1195m"
     },
     {
+        "title": "코로나 전국 ‘확산기’…“안전한 곳은 없다”",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014712861&code=61141111&cp=nv"
+    },
+    {
         "title": "신규 확진자 67명...지역감염·해외유입 '비상'",
         "link": "https://www.ytn.co.kr/_ln/0103_202006201622544817"
     },
     {
         "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "제주도 3박4일 여행한 코로나 확진자… 함께 간 지인도 양성",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001888.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 신규 확진자 67명 급증…23일 만에 최대",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     },
     {
-        "title": "제주도 3박4일 여행한 코로나 확진자… 함께 간 지인도 양성",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001888.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
         "link": "http://yna.kr/AKR20200620001251088?did=1195m"
-    },
-    {
-        "title": "해외 입국 확진자 증가…“크게 우려할 사항은 아니야”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4475425&ref=A"
     }
 ];
