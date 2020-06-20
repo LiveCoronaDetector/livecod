@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
-        "title": "Trump threatens protesters ahead of Tulsa rally",
-        "link": "https://www.cnn.com/2020/06/19/politics/donald-trump-tulsa-protesters/index.html"
+        "title": "Coronavirus live news: pandemic is accelerating, says WHO chief",
+        "link": "https://www.theguardian.com/world/live/2020/jun/20/coronavirus-live-news-brazil-passes-1-million-cases-as-australia-seeks-to-prevent-second-wave"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
-    },
-    {
-        "title": "Tulsa mayor declares civil emergency ahead of Trump rally, stragglers face arrest",
-        "link": "https://www.foxnews.com/politics/tulsa-mayor-implements-federal-exclusion-zone-curfew-ahead-of-trumps-rally"
     },
     {
         "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
         "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
+    },
+    {
+        "title": "How coronavirus has created a new split in American life",
+        "link": "https://www.theguardian.com/world/2020/jun/19/coronavirus-bars-restaurants-two-americas"
     }
 ];
