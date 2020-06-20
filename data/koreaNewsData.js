@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200620038051530?did=1195m"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
-    },
-    {
         "title": "해외유입 코로나 확진자 급증에도 방역당국 \"입국 제한 없다\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,12 +21,16 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "브라질, 확진자 100만 명 넘어…사망자 5만 명 육박",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987123?division=NAVER"
+    },
+    {
         "title": "코로나19 신규 확진자 67명 급증…23일 만에 최대",
         "link": "http://news.tf.co.kr/read/life/1798488.htm"
     },
     {
-        "title": "브라질, 확진자 100만 명 넘어…사망자 5만 명 육박",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000987123?division=NAVER"
+        "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     },
     {
         "title": "신규 확진자 67명 늘어...23일 만에 최대치",

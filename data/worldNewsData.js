@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Brazil tops 1 million Covid-19 cases. It may pass the US next, becoming the worst-hit country on the planet",
-        "link": "https://www.cnn.com/2020/06/19/americas/brazil-one-million-coronavirus-jair-bolsonaro-cases-intl/index.html"
+        "title": "Coronavirus: Brazil becomes second country to hit one million cases",
+        "link": "https://www.bbc.com/news/world-latin-america-53092196"
     },
     {
         "title": "Pakistan registers record single-day coronavirus deaths: Live",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-20-20-intl/index.html"
+        "title": "U.S. coronavirus cases surge by more than 27,700 in a day as 7-day average jumps 15% from week ago",
+        "link": "https://www.cnbc.com/2020/06/19/us-coronavirus-cases-surge-by-nearly-27700-in-a-day.html"
     },
     {
-        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
-        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
+        "title": "Brazil: Police arrests ex-aide to Bolsonaro's son | Fineprint",
+        "link": "https://www.youtube.com/watch?v=2-jEL4jvRW0"
     },
     {
         "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",

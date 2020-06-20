@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
+        "title": "제주 여행한 관광객 2명 코로나 19 확진에 제주도 비상",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950210.html"
+    },
+    {
         "title": "제주도, 안산 코로나19 확진자 팩키지여행 세부 동선 공개",
         "link": "http://www.fnnews.com/news/202006200325116171"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "해외유입 확진자 증가 '비상'…방글라데시발 항공편 무더기 확진(종합)",
         "link": "http://yna.kr/AKR20200619081451530?did=1195m"
-    },
-    {
-        "title": "코로나19 한창인데 수백명 모여 포커대회…주최 측 “직원 교육” 변명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
     }
 ];
