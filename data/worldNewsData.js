@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Coronavirus was already in Italy by December, waste water study finds",
-        "link": "https://www.bbc.com/news/world-europe-53106444"
+        "title": "Is the pandemic getting worse in the US?",
+        "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp"
     },
     {
         "title": "In countries keeping coronavirus at bay, experts watch U.S. case numbers with alarm",
         "link": "https://www.inquirer.com/health/coronavirus/coronavirus-reopening-united-states-new-zealand-china-20200619.html"
     },
     {
-        "title": "Coronavirus: Is the pandemic getting worse in the US?",
-        "link": "https://www.bbc.com/news/world-us-canada-53088354"
+        "title": "Coronavirus was already in Italy by December, waste water study finds",
+        "link": "https://www.bbc.com/news/world-europe-53106444"
     }
 ];

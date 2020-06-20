@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
-        "title": "제주도 17·18번째 코로나19 확진자 발생",
-        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
-    },
-    {
         "title": "제주도, 안산 코로나19 확진자 팩키지여행 세부 동선 공개",
         "link": "http://www.fnnews.com/news/202006200325116171"
+    },
+    {
+        "title": "제주도 17·18번째 코로나19 확진자 발생",
+        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
         "title": "코로나19 강남 확진자, 유증상 상태로 제주 여행 확인",
