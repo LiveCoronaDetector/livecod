@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Tulsa Trump Rally Attendees Don't Have to Wear Masks",
-        "link": "https://time.com/5856421/tulsa-trump-rally-mask-ruling/"
+        "title": "Greta Thunberg: Climate change 'as urgent' as coronavirus",
+        "link": "https://www.bbc.com/news/science-environment-53100800"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Live updates: Daily U.S. coronavirus cases top 30,000 for first time in seven weeks",
-        "link": "https://www.washingtonpost.com/nation/2020/06/20/coronavirus-live-updates-us/"
-    },
-    {
         "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to hit one million cases",
-        "link": "https://www.bbc.com/news/world-latin-america-53092196"
+        "title": "Greta Thunberg has hope for climate: ‘There are signs of change, of awakening’",
+        "link": "https://www.boston.com/news/politics/2020/06/20/greta-thunberg-has-hope-for-climate-there-are-signs-of-change-of-awakening"
+    },
+    {
+        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
+        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
     }
 ];
