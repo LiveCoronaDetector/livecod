@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 강남구 확진자…3박4일 제주 팩키지 관광 나서",
-        "link": "http://www.fnnews.com/news/202006200301595422"
+        "title": "관광 다녀간 코로나19 확진자에 뒤집힌 제주, 56명 자가격리",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200620500012&wlog_tag3=naver"
     },
     {
-        "title": "또 확진자 관광객에 뚫린 제주…주요 관광지 돌아·56명 자가격리",
-        "link": "https://www.hankyung.com/society/article/2020062091627"
+        "title": "안산시 코로나19 확진자, 3박 4일 제주도 여행...\"56명 접촉\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006200129396033"
     }
 ];

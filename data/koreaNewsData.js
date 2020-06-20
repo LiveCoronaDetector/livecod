@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 67명으로 급증...23일만에 최대치",
-        "link": "https://www.sedaily.com/NewsView/1Z43NA0GQB"
+        "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     },
     {
         "title": "코로나19 신규 확진자 67명 급증…23일 만에 최대",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/20/2020062000172.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 67명, 23일 만 최대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "롯데제과 의왕물류센터 뇌관 되나…확진자 4명 추가 발생(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200620_0001066741&cID=10803&pID=14000"
     },
     {
-        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "코로나19 국내 신규 확진자 67명… 23일 만에 최대, 왜?",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020062010382481346"
     }
 ];

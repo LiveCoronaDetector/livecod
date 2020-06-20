@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Is the pandemic getting worse in the US?",
-        "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp?li=BBnb7Kz"
-    },
-    {
         "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
         "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     },
     {
-        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
-        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Is the pandemic getting worse in the US?",
+        "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp?li=BBnb7Kz"
     }
 ];
