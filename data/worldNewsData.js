@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
-        "title": "India reports record rise in coronavirus cases; Delhi cancels all medical staff leave",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-india/india-reports-record-rise-in-coronavirus-cases-delhi-cancels-all-medical-staff-leave-idUSKBN23R0JP"
+        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
-        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
+        "title": "Why Japan’s Jobless Rate Is Just 2.6% While the U.S.’s Has Soared",
+        "link": "https://www.nytimes.com/2020/06/20/business/japan-unemployment.html"
     },
     {
         "title": "Tulsa's Weekend Of Contrasts: Juneteenth Commemorations Friday, MAGA Rally On Saturday | MSNBC",
