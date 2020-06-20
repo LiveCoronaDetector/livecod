@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/americas/brazil-one-million-coronavirus-jair-bolsonaro-cases-intl/index.html"
     },
     {
-        "title": "Pakistan Roiled By COVID-19 As Cases Surge And Health Care Lags : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/06/19/878896370/pandemic-panic-in-pakistan-people-are-just-literally-fighting-for-beds"
+        "title": "Pakistan registers record single-day coronavirus deaths: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
     },
     {
         "title": "Italy sees Covid-19 'warning signs' after Rome outbreaks",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-20-20-intl/index.html"
+    },
+    {
         "title": "Brazil Passes 1 Million Coronavirus Cases, Adding 54,000 in a Day",
         "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
     },
     {
         "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
         "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
-    },
-    {
-        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
-        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
     }
 ];
