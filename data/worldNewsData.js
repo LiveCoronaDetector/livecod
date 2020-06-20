@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     },
     {
-        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
-        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
+        "title": "Coronavirus was already in Italy by December, waste water study finds",
+        "link": "https://www.bbc.com/news/world-europe-53106444"
     }
 ];

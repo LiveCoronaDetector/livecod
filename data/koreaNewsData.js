@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5364457"
     },
     {
-        "title": "브라질 코로나19 확진자 100만명 넘어…하루에 5만5천명 증가(종합)",
-        "link": "http://yna.kr/AKR20200620018100094?did=1195m"
+        "title": "브라질 코로나 확진자 100만명 넘어…미국 이어 두번째",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4475342&ref=A"
     },
     {
         "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
         "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     },
     {
-        "title": "[대전] 확진자 7명 추가... 확산되는 n차감염",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651724&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "브리질 코로나 확진자 100만명 넘어…미국 이어 두번째",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062000538.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 67명...국외 유입 31명 ‘급증’",
-        "link": "http://www.hani.co.kr/arti/society/health/950191.html"
+        "title": "전주 여고생 확진자 감염원, 대전 50·55번 추정",
+        "link": "https://www.nocutnews.co.kr/news/5364468"
     },
     {
         "title": "코로나 다발적 연쇄감염 전국 확산, 주말 없이 방역 필요 (종합)",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     },
     {
-        "title": "코로나19 국내 신규 확진자 67명… 23일 만에 최대, 왜?",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020062010382481346"
+        "title": "신규 확진자 67명 늘어...23일 만에 최대치",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006201051189335"
     },
     {
-        "title": "[종합] 코로나19 확진자 67명 급증...해외유입 31명, 국내 36명",
-        "link": "http://www.fnnews.com/news/202006201048504916"
+        "title": "[속보] 코로나 신규 확진자 67명...국외 유입 31명 ‘급증’",
+        "link": "http://www.hani.co.kr/arti/society/health/950191.html"
     }
 ];
