@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 확진 관광객 다녀간 제주, 접촉자 57명 자가격리(종합)",
-        "link": "http://yna.kr/AKR20200620012451056?did=1195m"
-    },
-    {
         "title": "해외유입 확진자 31명… 당국 \"크게 우려할 상황 아니다\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006200041&t=NN"
     },
@@ -19,6 +15,10 @@ var jejuNewsData = [
     {
         "title": "\"방글라데시발 확진자 탄 제주행 비행기 탄 54명 자가격리\"",
         "link": "https://news.joins.com/article/olink/23400940"
+    },
+    {
+        "title": "코로나19 확진 관광객 다녀간 제주, 접촉자 57명 자가격리(종합)",
+        "link": "http://yna.kr/AKR20200620012451056?did=1195m"
     },
     {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",

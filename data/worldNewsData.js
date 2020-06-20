@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to hit one million cases",
-        "link": "https://www.bbc.com/news/world-latin-america-53092196"
+        "title": "Brazil tops 1 million Covid-19 cases. It may pass the US next, becoming the worst-hit country on the planet",
+        "link": "https://www.cnn.com/2020/06/19/americas/brazil-one-million-coronavirus-jair-bolsonaro-cases-intl/index.html"
     },
     {
         "title": "Pakistan registers record single-day coronavirus deaths: Live",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
-        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
-    },
-    {
-        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
-        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
+        "title": "Brazil Passes 1 Million Coronavirus Cases, Adding 54,000 in a Day",
+        "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
     },
     {
         "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
+    },
+    {
+        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
+        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     }
 ];
