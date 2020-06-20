@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
-        "title": "Restrictions to ease across Victoria from Monday",
-        "link": "https://www.youtube.com/watch?v=8ErSWH6Olz4"
+        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
+        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Is the pandemic getting worse in the US?",
-        "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp?li=BBnb7Kz"
-    },
-    {
         "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
         "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
+    },
+    {
+        "title": "Allies ‘alarmed’ by increase in US COVID-19 cases: Feels ‘like the US has given up’",
+        "link": "https://www.rawstory.com/2020/06/allies-alarmed-by-increase-in-us-covid-19-cases-feels-like-the-us-has-given-up/"
     }
 ];

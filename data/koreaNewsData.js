@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200620018100094?did=1195m"
     },
     {
+        "title": "브라질 코로나 확진자 100만명 넘어…미국 이어 두번째",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4475342&ref=A"
+    },
+    {
         "title": "WHO \"베이징 코로나19, 유럽형 유입 가능성\"(종합)",
         "link": "http://yna.kr/AKR20200620001251088?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 67명 급증…23일 만에 최대",
-        "link": "http://news.tf.co.kr/read/life/1798488.htm"
-    },
-    {
         "title": "[종합] 코로나19 확진자 67명 급증...해외유입 31명, 국내 36명",
         "link": "http://www.fnnews.com/news/202006201048504916"
+    },
+    {
+        "title": "리치웨이·요양시설 감염 등 14명 증가…서울 확진자 1202명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200620_0001066832&cID=10201&pID=10200"
     },
     {
         "title": "WHO \"코로나 신규 확진자 15만명...하루 기준 최대\"",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006201017001&code=940100"
     },
     {
-        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "코로나19 국내 신규 확진자 67명… 23일 만에 최대, 왜?",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020062010382481346"
     },
     {
-        "title": "롯데제과 의왕물류센터 뇌관 되나…확진자 4명 추가 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200620_0001066741&cID=10803&pID=14000"
-    },
-    {
-        "title": "쿠팡, 계속된 코로나19 확진자 은폐 의혹 ‘정면 반박’",
-        "link": "https://www.zdnet.co.kr/view/?no=20200619171702"
+        "title": "신규 확진자 67명 늘어...23일 만에 최대치",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006201051189335"
     }
 ];

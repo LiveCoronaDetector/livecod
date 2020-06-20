@@ -17,8 +17,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
+        "title": "관광 다녀간 코로나19 확진자에 뒤집힌 제주, 56명 자가격리",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200620500012&wlog_tag3=naver"
+    },
+    {
         "title": "코로나19 강남 확진자, 유증상 상태로 제주 여행 확인",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4475088&ref=A"
+    },
+    {
+        "title": "방글라데시서 입국 인천·경기·전북 확진자 5명 '같은 항공기 탑승'",
+        "link": "https://www.news1.kr/articles/?3970825"
     },
     {
         "title": "해외유입 확진자 증가 '비상'…방글라데시발 항공편 무더기 확진(종합)",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 한창인데 수백명 모여 포커대회…주최 측 “직원 교육” 변명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200619500176&wlog_tag3=naver"
-    },
-    {
-        "title": "관광 다녀간 코로나19 확진자에 뒤집힌 제주, 56명 자가격리",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200620500012&wlog_tag3=naver"
-    },
-    {
-        "title": "안산시 코로나19 확진자, 3박 4일 제주도 여행...\"56명 접촉\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006200129396033"
     }
 ];
