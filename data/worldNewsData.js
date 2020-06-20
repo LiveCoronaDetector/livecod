@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-germany-cases/germanys-confirmed-coronavirus-cases-rise-by-601-to-189135-rki-idUSKBN23R037"
     },
     {
+        "title": "Trump threatens protesters ahead of Tulsa rally",
+        "link": "https://www.cnn.com/2020/06/19/politics/donald-trump-tulsa-protesters/index.html"
+    },
+    {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Inside the Trump Administration’s Decision to Leave the World Health Organization",
         "link": "https://www.propublica.org/article/inside-the-trump-administrations-decision-to-leave-the-world-health-organization"
-    },
-    {
-        "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
-        "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
     }
 ];
