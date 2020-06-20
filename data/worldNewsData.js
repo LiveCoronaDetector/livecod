@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/20/latest_news/1592609739_784243.html"
     },
     {
-        "title": "Coronavirus live news: asymptomatic cases in New Zealand as Australia seeks to prevent second wave",
-        "link": "https://www.theguardian.com/world/live/2020/jun/20/coronavirus-live-news-brazil-passes-1-million-cases-as-australia-seeks-to-prevent-second-wave"
+        "title": "Restrictions to ease across Victoria from Monday",
+        "link": "https://www.youtube.com/watch?v=8ErSWH6Olz4"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
-    },
-    {
-        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
-        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     },
     {
         "title": "Coronavirus Live News and Updates",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Is the pandemic getting worse in the US?",
         "link": "https://www.msn.com/en-us/news/us/is-the-pandemic-getting-worse-in-the-us/ar-BB15JjCp?li=BBnb7Kz"
+    },
+    {
+        "title": "Brazil's coronavirus cases top 1 million as the virus spreads",
+        "link": "https://www.foxnews.com/world/brazils-coronavirus-cases-top-million"
     }
 ];
