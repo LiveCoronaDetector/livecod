@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200619-italy-sees-covid-19-warning-signs-after-rome-outbreaks"
     },
     {
-        "title": "Coronavirus updates: Black-owned businesses hit hardest; new record high cases in some states",
-        "link": "https://www.cnbc.com/2020/06/19/coronavirus-live-updates.html"
+        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
         "title": "Coronavirus live news: pandemic is accelerating, says WHO chief",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Greta Thunberg: Climate change 'as urgent' as coronavirus",
-        "link": "https://www.bbc.com/news/science-environment-53100800"
-    },
-    {
         "title": "In countries keeping the coronavirus at bay, experts watch U.S. case numbers with alarm",
         "link": "https://www.washingtonpost.com/world/2020/06/19/countries-keeping-coronavirus-bay-experts-watch-us-case-numbers-with-alarm/"
+    },
+    {
+        "title": "Coronavirus: Brazil becomes second country to hit one million cases",
+        "link": "https://www.bbc.com/news/world-latin-america-53092196"
     }
 ];
