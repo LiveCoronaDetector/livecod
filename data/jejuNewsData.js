@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
-        "title": "\"방글라데시발 확진자 탄 제주행 비행기 탄 54명 자가격리\"",
-        "link": "https://news.joins.com/article/olink/23400940"
-    },
-    {
         "title": "제주도 3박4일 여행한 코로나 확진자… 함께 간 지인도 양성",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001888.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "\"방글라데시발 확진자 탄 제주행 비행기 탄 54명 자가격리\"",
+        "link": "https://news.joins.com/article/olink/23400940"
     },
     {
         "title": "제주여행 후 관광객 2명 코로나 확진…57명 자가격리",
