@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "China needs to be held accountable for Covid-19's destruction",
-        "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
+        "title": "Jake Tapper pushes back on White House adviser's coronavirus claim",
+        "link": "https://www.youtube.com/watch?v=ccwyE_0fvrg"
     },
     {
-        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
-        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
+        "title": "White House's Navarro 'never heard' Trump ask China's Xi for help winning election",
+        "link": "https://news.yahoo.com/white-houses-navarro-never-heard-140218082.html"
     },
     {
         "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
         "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
     },
     {
-        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
-        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
+        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
+        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
-        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
+        "title": "Spain opens border to tourists; Trump wants less testing",
+        "link": "https://wtop.com/coronavirus/2020/06/china-korea-report-new-infections-trump-wants-less-testing/"
     }
 ];

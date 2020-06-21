@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/21/2020062100861.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "제주관광 코로나19 안산시 확진자 이용했던 택시 오리무중",
+        "link": "https://www.nocutnews.co.kr/news/5364679"
+    },
+    {
         "title": "코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",
         "link": "http://www.hani.co.kr/arti/society/health/950229.html"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "'재학생 코로나 확진' 경기 안산 와동초 709명 모두 음성",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100311.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "정부, 코로나19 확진자 급증 국가 대상 비자·항공편 제한",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5817655_32633.html"
     }
 ];
