@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/21/881408578/china-suspends-poultry-imports-from-tyson-foods-plant-in-arkansas"
     },
     {
-        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
-        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
+        "title": "Six Members of Trump's Tulsa Advance Team Test Positive For Coronavirus | MSNBC",
+        "link": "https://www.youtube.com/watch?v=84IeszUa4yU"
     },
     {
         "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
-        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
+        "title": "Donald Trump: Tulsa rally fails to draw expected crowds amid virus fears",
+        "link": "https://www.bbc.com/news/world-us-canada-53121488"
     }
 ];
