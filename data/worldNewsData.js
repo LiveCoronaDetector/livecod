@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
     },
     {
-        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
-        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
+        "title": "Spain opens border to tourists; Trump wants less testing",
+        "link": "https://wtop.com/coronavirus/2020/06/china-korea-report-new-infections-trump-wants-less-testing/"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
