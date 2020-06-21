@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53121488"
     },
     {
-        "title": "Coronavirus surge imperils Israel's chance to get green light for travel abroad",
-        "link": "https://www.haaretz.com/israel-news/.premium-coronavirus-surge-imperils-israel-s-chance-to-get-green-light-for-travel-abroad-1.8935968"
+        "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
     },
     {
         "title": "Coronavirus: Spain welcomes tourists back as emergency ends",
         "link": "https://www.bbc.com/news/world-europe-53126112"
     },
     {
-        "title": "Morocco opens field hospital after spike in virus cases",
-        "link": "https://www.arabnews.com/node/1693171/middle-east"
+        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
         "title": "China needs to be held accountable for Covid-19's destruction",
         "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "More young people across the South are testing positive for coronavirus, officials warn",
-        "link": "https://www.cnn.com/2020/06/21/us/us-coronavirus-sunday/index.html"
+        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
+        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
         "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
         "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
     },
     {
-        "title": "Coronavirus live news: Brazil's death toll passes 50,000",
-        "link": "https://www.theguardian.com/world/live/2020/jun/21/coronavirus-live-news-chile-raises-death-toll-by-thousands-as-victoria-cases-hit-two-month-high"
+        "title": "Spain opens border to tourists; Trump wants less testing",
+        "link": "https://wtop.com/coronavirus/2020/06/china-korea-report-new-infections-trump-wants-less-testing/"
     },
     {
-        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
-        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
+        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     }
 ];
