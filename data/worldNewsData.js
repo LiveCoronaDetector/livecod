@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Trump campaign manager Brad Parscale in spotlight over Tulsa rally flop – live",
+        "title": "Trump plans border visit and speech in aftermath of Tulsa rally flop – live",
         "link": "https://www.theguardian.com/us-news/live/2020/jun/21/donald-trump-tulsa-rally-latest-updates-berman-bolton-protests-coronavirus-live"
     },
     {
-        "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
-        "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
+        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
+        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
     },
     {
-        "title": "Coronavirus live news: Latin America and Caribbean exceed 2m cases as Brazil's death toll passes 50,000",
-        "link": "https://www.theguardian.com/world/live/2020/jun/21/coronavirus-live-news-chile-raises-death-toll-by-thousands-as-victoria-cases-hit-two-month-high"
+        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
+        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
+        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
+        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
     },
     {
         "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
