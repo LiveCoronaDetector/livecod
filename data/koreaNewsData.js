@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
     },
     {
+        "title": "[단독] 브라질 코로나19 통계 축소 의혹 증폭···\"실제 확진자 600만명\"",
+        "link": "https://www.sedaily.com/NewsView/1Z44IPKS6W"
+    },
+    {
         "title": "중대본 \"수도권 밖으로 코로나19 감염 확산…상황 매우 엄중\"(종합)",
         "link": "http://yna.kr/AKR20200621045651530?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 48명 늘어...산발적 집단 감염",
         "link": "https://www.ytn.co.kr/_ln/0103_202006211201591555"
-    },
-    {
-        "title": "'재학생 코로나 확진' 경기 안산 와동초 709명 모두 음성",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100311.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

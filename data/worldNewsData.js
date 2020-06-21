@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Trump plans border visit and speech in aftermath of Tulsa rally flop – live",
-        "link": "https://www.theguardian.com/us-news/live/2020/jun/21/donald-trump-tulsa-rally-latest-updates-berman-bolton-protests-coronavirus-live"
+        "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
+        "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "'Slow The Testing Down, Please' President Mocks COVID-19 As 26 States See Spike In Infections",
-        "link": "https://www.youtube.com/watch?v=baHR5E952H8"
+        "title": "Full Panel: Trump 'Is Playing Defense' With Rally in Tulsa | Meet The Press | NBC News",
+        "link": "https://www.youtube.com/watch?v=Ai3Peik87d4"
     },
     {
-        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
-        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
+        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
+        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
     },
     {
-        "title": "Coronavirus live news: Latin America and Caribbean exceed 2m cases as Brazil's death toll passes 50,000",
-        "link": "https://www.theguardian.com/world/live/2020/jun/21/coronavirus-live-news-chile-raises-death-toll-by-thousands-as-victoria-cases-hit-two-month-high"
+        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Donald Trump: Tulsa rally fails to draw expected crowds amid virus fears",
-        "link": "https://www.bbc.com/news/world-us-canada-53121488"
+        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
+        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
     }
 ];
