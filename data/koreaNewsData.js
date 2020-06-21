@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500010&wlog_tag3=naver"
     },
     {
+        "title": "[속보] 도봉구 요양시설 확진자 최소 43명…13세 소년도",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006210030&t=NN"
+    },
+    {
         "title": "코로나19 신규 확진자 48명 늘어...산발적 감염 여전",
         "link": "https://www.ytn.co.kr/_ln/0103_202006211112541194"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006211013580518"
     },
     {
-        "title": "21일 0시 기준 코로나19 48명 신규확진…수도권 27명 발생",
-        "link": "http://www.kwnews.co.kr/view.asp?aid=220062000001&s=501"
-    },
-    {
-        "title": "수성구 30대 여성 확진 \"달서구 확진자 부부 가족\" (전문)",
-        "link": "https://news.imaeil.com/Society/2020062110314829405"
+        "title": "코로나19 신규확진자 67명…23일만에 최대(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5364457"
     }
 ];

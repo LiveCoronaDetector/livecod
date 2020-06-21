@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "Daily U.S. Coronavirus Cases Hit 30,000 For First Time Since May",
-        "link": "https://www.forbes.com/sites/carlieporterfield/2020/06/20/daily-us-coronavirus-cases-hit-30000-for-first-time-since-may/"
-    },
-    {
-        "title": "Covid-19 unmasks what cancer patients have long known: The world needs a better and more equitable health system",
-        "link": "https://www.cnn.com/2020/06/20/opinions/covid-19-unmasks-what-cancer-patients-have-long-known/index.html"
+        "title": "Covid data shows dangerous trend in US South",
+        "link": "https://www.youtube.com/watch?v=47oe-LL0x5c"
     },
     {
         "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Donald Trump: Tulsa rally fails to draw expected crowds amid virus fears",
-        "link": "https://www.bbc.com/news/world-us-canada-53121488"
+        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
+        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
+    },
+    {
+        "title": "Covid-19 unmasks what cancer patients have long known: The world needs a better and more equitable health system",
+        "link": "https://www.cnn.com/2020/06/20/opinions/covid-19-unmasks-what-cancer-patients-have-long-known/index.html"
     }
 ];
