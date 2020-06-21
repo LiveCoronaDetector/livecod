@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062102157.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "중대본 \"수도권 밖으로 코로나19 감염 확산…상황 매우 엄중\"(종합)",
-        "link": "http://yna.kr/AKR20200621045651530?did=1195m"
-    },
-    {
         "title": "베이징 코로나19 확진자 22명 늘어…열흘 만에 227명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/21/2020062190021.html"
+    },
+    {
+        "title": "중대본 \"수도권 밖으로 코로나19 감염 확산…상황 매우 엄중\"(종합)",
+        "link": "http://yna.kr/AKR20200621045651530?did=1195m"
     },
     {
         "title": "임상위 “코로나19 중증 환자에 ‘렘데시비르’ 투여” 공식 권고",
