@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "Live updates: Trump says he told officials to slow coronavirus testing to find fewer cases",
-        "link": "https://www.washingtonpost.com/nation/2020/06/21/coronavirus-live-updates-us/"
+        "title": "Local officials hit roadblocks on the way to enacting measures to curb coronavirus spikes",
+        "link": "https://www.cnn.com/2020/06/20/health/us-coronavirus-saturday/index.html"
+    },
+    {
+        "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
+        "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
     },
     {
         "title": "Coronavirus live news: Brazil's death toll passes 50,000",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
-    },
-    {
-        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
-        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
     }
 ];
