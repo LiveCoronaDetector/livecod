@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "China Suspends Poultry Imports From Tyson Foods Plant In Arkansas",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/21/881408578/china-suspends-poultry-imports-from-tyson-foods-plant-in-arkansas"
+        "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
+        "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "Trump draws fire for saying he wanted coronavirus testing slowed down",
-        "link": "https://news.yahoo.com/trump-slow-coronavirus-testing-tulsa-rally-171549242.html"
+        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
+        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
+    },
+    {
+        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
+        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
         "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
         "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
-    },
-    {
-        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
         "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
