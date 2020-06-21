@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100276.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "\"코로나19 경증환자 50명 퇴원시키면 신규환자 500명 치료 가능\"(종합)",
-        "link": "http://yna.kr/AKR20200621031951017?did=1195m"
-    },
-    {
-        "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
-        "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
+        "title": "광주 22일만 확진자 발생… 동선 주변 39개교 등교 중단",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062102157.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "임상위 “코로나19 중증 환자에 ‘렘데시비르’ 투여” 공식 권고",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500065&wlog_tag3=naver"
     },
     {
+        "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
+        "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
+    },
+    {
         "title": "정부, 코로나19 확진자 급증 국가 대상 비자·항공편 제한",
         "link": "https://imnews.imbc.com/news/2020/society/article/5817655_32633.html"
     },
     {
+        "title": "\"코로나 종식? 비현실적...50세 미만 경증은 입원 필요없어\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/21/2020062100861.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "제주관광 코로나19 안산시 확진자 이용했던 택시 오리무중",
+        "link": "https://www.nocutnews.co.kr/news/5364679"
+    },
+    {
+        "title": "\"지금 상태론 병상 부족…확진자 입퇴원 기준 완화해야\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01925366625804016"
+    },
+    {
         "title": "코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",
         "link": "http://www.hani.co.kr/arti/society/health/950229.html"
-    },
-    {
-        "title": "코로나19 신규 확진자 48명 늘어...산발적 집단 감염",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006211201591555"
-    },
-    {
-        "title": "'재학생 코로나 확진' 경기 안산 와동초 709명 모두 음성",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100311.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 신규확진자 67명…23일만에 최대(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5364457"
     }
 ];
