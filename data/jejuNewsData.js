@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
-        "link": "http://www.fnnews.com/news/202006190709270776"
-    },
-    {
         "title": "“코로나19 확진자가 탑승했던 택시 찾습니다”...경로 보니",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500073&wlog_tag3=naver"
+    },
+    {
+        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
+        "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
         "title": "\"방글라데시발 확진자 탄 제주행 비행기 탄 54명 자가격리\"",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5364588"
     },
     {
-        "title": "제주 여행한 관광객 2명 코로나 19 확진에 제주도 비상",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950210.html"
-    },
-    {
         "title": "비수도권 확진자 사흘새 2배로…대전발 '전국 확산' 시작됐나",
         "link": "https://www.news1.kr/articles/?3971743"
+    },
+    {
+        "title": "제주관광 나선 안산시 확진자 2명 탔던 택시 '오리무중'",
+        "link": "http://www.fnnews.com/news/202006211759423700"
     }
 ];
