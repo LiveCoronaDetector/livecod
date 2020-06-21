@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53121488"
     },
     {
-        "title": "‘Israel in second wave of coronavirus, death toll may soar’",
-        "link": "https://www.jpost.com/health-science/israel-is-in-coronavirus-second-wave-dead-could-reach-hundreds-report-632147"
+        "title": "'Recovered' COVID-19 patients suffer major ongoing physical, cognitive problems",
+        "link": "https://www.timesofisrael.com/recovered-covid-19-patients-suffer-major-ongoing-physical-cognitive-problems/"
     },
     {
         "title": "From Oxford to an Italian lab, one race for coronavirus vaccine is gaining backers",
         "link": "https://www.washingtonpost.com/world/europe/vaccine-coronavirus-oxford-italy-trials/2020/06/20/4b8f5e0a-af1c-11ea-98b5-279a6479a1e4_story.html"
     },
     {
-        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
+        "title": "(1) India crosses 400,000 mark with 15,000 new Covid-19 cases",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-06-21-20-intl/h_8144ac480d43a3368de415af9c3ba7f9"
     },
     {
         "title": "China needs to be held accountable for Covid-19's destruction",
