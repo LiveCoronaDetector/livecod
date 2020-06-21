@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
-        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
+        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
+        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
         "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
