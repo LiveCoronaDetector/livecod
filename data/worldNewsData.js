@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "'Recovered' COVID-19 patients suffer major ongoing physical, cognitive problems",
-        "link": "https://www.timesofisrael.com/recovered-covid-19-patients-suffer-major-ongoing-physical-cognitive-problems/"
+        "title": "‘Israel in second wave of coronavirus, death toll may soar’",
+        "link": "https://www.jpost.com/health-science/israel-is-in-coronavirus-second-wave-dead-could-reach-hundreds-report-632147"
     },
     {
         "title": "From Oxford to an Italian lab, one race for coronavirus vaccine is gaining backers",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
-    },
-    {
         "title": "Covid-19 unmasks what cancer patients have long known: The world needs a better and more equitable health system",
         "link": "https://www.cnn.com/2020/06/20/opinions/covid-19-unmasks-what-cancer-patients-have-long-known/index.html"
+    },
+    {
+        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     }
 ];

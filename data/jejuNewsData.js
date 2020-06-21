@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001888.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "해외유입 확진자 31명… 당국 \"크게 우려할 상황 아니다\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006200041&t=NN"
-    },
-    {
         "title": "\"방글라데시발 확진자 탄 제주행 비행기 탄 54명 자가격리\"",
         "link": "https://news.joins.com/article/olink/23400940"
     },
@@ -27,6 +23,10 @@ var jejuNewsData = [
     {
         "title": "제주 여행한 관광객 2명 코로나 19 확진에 제주도 비상",
         "link": "http://www.hani.co.kr/arti/area/jeju/950210.html"
+    },
+    {
+        "title": "제주도 17·18번째 코로나19 확진자 발생",
+        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     },
     {
         "title": "안산시 코로나19 확진자, 3박 4일 제주도 여행...\"56명 접촉\"",
