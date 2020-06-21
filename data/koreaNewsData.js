@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/21/2020062190021.html"
     },
     {
-        "title": "중대본 \"수도권 밖으로 코로나19 감염 확산…상황 매우 엄중\"(종합)",
-        "link": "http://yna.kr/AKR20200621045651530?did=1195m"
-    },
-    {
-        "title": "임상위 “코로나19 중증 환자에 ‘렘데시비르’ 투여” 공식 권고",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500065&wlog_tag3=naver"
+        "title": "임상위 \"중증 코로나19 렘데시비르로 치료…클로로퀸은 안돼\"",
+        "link": "http://yna.kr/AKR20200621033300017?did=1195m"
     },
     {
         "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
         "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
     },
     {
+        "title": "중대본 \"수도권 밖으로 코로나19 감염 확산…상황 매우 엄중\"(종합)",
+        "link": "http://yna.kr/AKR20200621045651530?did=1195m"
+    },
+    {
         "title": "\"코로나 종식? 비현실적...50세 미만 경증은 입원 필요없어\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/21/2020062100861.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주관광 코로나19 안산시 확진자 이용했던 택시 오리무중",
-        "link": "https://www.nocutnews.co.kr/news/5364679"
+        "title": "“코로나19 확진자가 탑승했던 택시 찾습니다”...경로 보니",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500073&wlog_tag3=naver"
     },
     {
         "title": "코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",

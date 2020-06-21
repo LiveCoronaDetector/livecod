@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
     },
     {
-        "title": "Coronavirus: Spain welcomes tourists back as emergency ends",
-        "link": "https://www.bbc.com/news/world-europe-53126112"
+        "title": "Coronavirus is weakening, could disappear on its own: Italian doctor",
+        "link": "https://nypost.com/2020/06/21/coronavirus-is-weakening-could-disappear-on-its-own-italian-doctor/"
     },
     {
         "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
