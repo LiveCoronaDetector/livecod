@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Trump plans border visit and speech in aftermath of Tulsa rally flop – live",
-        "link": "https://www.theguardian.com/us-news/live/2020/jun/21/donald-trump-tulsa-rally-latest-updates-berman-bolton-protests-coronavirus-live"
+        "title": "China Suspends Poultry Imports From Tyson Foods Plant In Arkansas",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/21/881408578/china-suspends-poultry-imports-from-tyson-foods-plant-in-arkansas"
     },
     {
         "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
