@@ -356,9 +356,9 @@ var marker = [
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "확진자수": 22476,
-        "사망자수": 715,
-        "완치자수": 4670
+        "확진자수": 23512,
+        "사망자수": 740,
+        "완치자수": 5086
     },
     {
         "Name": "바레인",
@@ -1081,20 +1081,20 @@ var marker = [
         "완치자수": 357
     },
     {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 698,
+        "사망자수": 12,
+        "완치자수": 203
+    },
+    {
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
         "확진자수": 696,
         "사망자수": 42,
         "완치자수": 610
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 693,
-        "사망자수": 12,
-        "완치자수": 199
     },
     {
         "Name": "Mozambique",
