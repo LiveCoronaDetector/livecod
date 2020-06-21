@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "China Suspends Poultry Imports From Tyson Foods Plant In Arkansas",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/21/881408578/china-suspends-poultry-imports-from-tyson-foods-plant-in-arkansas"
+        "title": "Trump plans border visit and speech in aftermath of Tulsa rally flop – live",
+        "link": "https://www.theguardian.com/us-news/live/2020/jun/21/donald-trump-tulsa-rally-latest-updates-berman-bolton-protests-coronavirus-live"
     },
     {
-        "title": "Six Members of Trump's Tulsa Advance Team Test Positive For Coronavirus | MSNBC",
-        "link": "https://www.youtube.com/watch?v=84IeszUa4yU"
+        "title": "'Slow The Testing Down, Please' President Mocks COVID-19 As 26 States See Spike In Infections",
+        "link": "https://www.youtube.com/watch?v=baHR5E952H8"
     },
     {
         "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
         "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
-        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
+        "title": "Coronavirus live news: Latin America and Caribbean exceed 2m cases as Brazil's death toll passes 50,000",
+        "link": "https://www.theguardian.com/world/live/2020/jun/21/coronavirus-live-news-chile-raises-death-toll-by-thousands-as-victoria-cases-hit-two-month-high"
     },
     {
         "title": "Donald Trump: Tulsa rally fails to draw expected crowds amid virus fears",
