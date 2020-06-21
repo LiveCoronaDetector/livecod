@@ -13,20 +13,24 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
     },
     {
+        "title": "[속보] 도봉구 요양시설 확진자 최소 43명…13세 소년도",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006210030&t=NN"
+    },
+    {
         "title": "[속보] 베이징 코로나 확진자 22명 늘어…열흘간 227명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100276.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 대전서 코로나 확진자 3명 추가…1주일새 36명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014714184&code=61121111&cp=nv"
     },
     {
         "title": "코로나19 신규 확진자 48명 늘어...산발적 감염 여전",
         "link": "https://www.ytn.co.kr/_ln/0103_202006211112541194"
     },
     {
-        "title": "대전시, 80·81·82번 코로나19 확진자 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651849&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "전북 24번째 '코로나19' 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5364640"
+        "title": "[대전] 코로나19 확진자 3명 추가 발생... 15일 이후 36명째",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651840&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "[종합] 코로나19 확진자 48명 증가...서울 16명, 대전 10명 급증",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규확진 50명 육박…수도권·대전 'n차 전염'[종합]",
         "link": "https://www.hankyung.com/society/article/2020062102827"
-    },
-    {
-        "title": "수성구 30대 여성 확진 \"달서구 확진자 부부 가족\" (전문)",
-        "link": "https://news.imaeil.com/Society/2020062110314829405"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Coronavirus Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
+        "title": "Brazil coronavirus death toll nears 50,000: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-death-toll-nears-50000-live-updates-200620230549593.html"
     },
     {
         "title": "‘Israel in second wave of coronavirus, death toll may soar’",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "Covid data shows dangerous trend in US South",
-        "link": "https://www.youtube.com/watch?v=47oe-LL0x5c"
+        "title": "Daily U.S. Coronavirus Cases Hit 30,000 For First Time Since May",
+        "link": "https://www.forbes.com/sites/carlieporterfield/2020/06/20/daily-us-coronavirus-cases-hit-30000-for-first-time-since-may/"
     },
     {
         "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/20/opinions/covid-19-unmasks-what-cancer-patients-have-long-known/index.html"
     },
     {
-        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
+        "title": "Donald Trump: Tulsa rally fails to draw expected crowds amid virus fears",
+        "link": "https://www.bbc.com/news/world-us-canada-53121488"
     }
 ];
