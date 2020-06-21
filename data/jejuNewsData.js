@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3971743"
     },
     {
-        "title": "[코로나19]제주여행 확진자, 이용 택시는 4대...3대는 현금 결제로 '오리무중...",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=992372"
+        "title": "제주관광 나선 안산시 확진자 2명 탔던 택시 '오리무중'",
+        "link": "http://www.fnnews.com/news/202006211759423700"
     }
 ];

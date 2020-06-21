@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
     },
     {
-        "title": "Spain opens border to tourists; Trump wants less testing",
-        "link": "https://wtop.com/coronavirus/2020/06/china-korea-report-new-infections-trump-wants-less-testing/"
+        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
+        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
+        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
+        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
     }
 ];
