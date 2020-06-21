@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020062102827"
     },
     {
-        "title": "코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",
-        "link": "http://www.hani.co.kr/arti/society/health/950229.html"
-    },
-    {
         "title": "[속보] 베이징 코로나 확진자 22명 늘어…열흘간 227명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100276.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "파키스탄·방글라데시 비자·항공편 일시 제한…확진자 급증",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500108&wlog_tag3=naver"
+        "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
+        "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
+    },
+    {
+        "title": "임상위 “코로나19 중증 환자에 ‘렘데시비르’ 투여” 공식 권고",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500065&wlog_tag3=naver"
+    },
+    {
+        "title": "정부, 코로나19 확진자 급증 국가 대상 비자·항공편 제한",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5817655_32633.html"
     },
     {
         "title": "중남미 코로나19 빠른 확산세… 20일 사이 확진자 배",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200621_0001067321&cID=10201&pID=10200"
     },
     {
-        "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
-        "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
+        "title": "코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",
+        "link": "http://www.hani.co.kr/arti/society/health/950229.html"
     },
     {
-        "title": "임상위 \"중증 코로나19 렘데시비르로 치료…클로로퀸은 안돼\"",
-        "link": "http://yna.kr/AKR20200621033300017?did=1195m"
-    },
-    {
-        "title": "(종합) 전북 코로나19 24번째 확진자…대전發 2차 감염 추정",
-        "link": "http://www.jjan.kr/news/articleView.html?idxno=2085507"
+        "title": "코로나19 신규 확진자 48명 늘어...산발적 집단 감염",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006211201591555"
     }
 ];
