@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Brazil tops 1 million Covid-19 cases. It may pass the US next, becoming the worst-hit country on the planet",
-        "link": "https://www.cnn.com/2020/06/19/americas/brazil-one-million-coronavirus-jair-bolsonaro-cases-intl/index.html"
+        "title": "Coronavirus Updates: Latest News and Analysis",
+        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
+        "title": "‘Israel in second wave of coronavirus, death toll may soar’",
+        "link": "https://www.jpost.com/health-science/israel-is-in-coronavirus-second-wave-dead-could-reach-hundreds-report-632147"
     },
     {
         "title": "From Oxford to an Italian lab, one race for coronavirus vaccine is gaining backers",
@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Epidemiologists warn it’s too early to relax amid Beijing Covid-19 outbreak",
-        "link": "https://www.scmp.com/news/china/society/article/3089888/coronavirus-epidemiologists-warn-its-too-early-relax-amid"
+        "title": "China needs to be held accountable for Covid-19's destruction",
+        "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "Coronavirus Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
+        "title": "Six Trump campaign staffers working on Tulsa rally test positive for coronavirus",
+        "link": "https://www.cnn.com/2020/06/20/politics/trump-campaign-staffers/index.html"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Republican governors blame familiar targets as coronavirus rates soar",
-        "link": "https://www.theguardian.com/world/2020/jun/20/coronavirus-republican-governors-blame-florida-texas-arizona"
+        "title": "Coronavirus: Is the pandemic getting worse in the US?",
+        "link": "https://www.bbc.com/news/world-us-canada-53088354"
     }
 ];
