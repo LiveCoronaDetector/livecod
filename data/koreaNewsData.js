@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100276.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "오명돈 \"무증상자, 확진자의 10배 이상…코로나19 종식시킬 수 없어\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200621_0001067321&cID=10201&pID=10200"
+    },
+    {
         "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
         "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006211201591555"
     },
     {
+        "title": "코로나19 신규확진자 67명…23일만에 최대(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5364457"
+    },
+    {
+        "title": "유세 준비하던 트럼프 캠프 6명, 코로나19 확진",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200621003500038/?did=1825m"
+    },
+    {
         "title": "[종합] 코로나19 확진자 48명 증가...서울 16명, 대전 10명 급증",
         "link": "http://www.fnnews.com/news/202006211013580518"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 48명…지역발생 40명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211012001&code=940601"
-    },
-    {
-        "title": "\"코로나 종식? 비현실적...50세 미만 경증은 입원 필요없어\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/21/2020062100861.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "\"지금 상태론 병상 부족…확진자 입퇴원 기준 완화해야\"(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01925366625804016"
-    },
-    {
-        "title": "광주 확진자 다녀간 PC방 이용자 193명…'전자출입명부제' 시행(종합)",
-        "link": "http://yna.kr/AKR20200621016751054?did=1195m"
     }
 ];

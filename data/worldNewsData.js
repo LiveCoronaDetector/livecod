@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
-        "title": "Covid-19 unmasks what cancer patients have long known: The world needs a better and more equitable health system",
-        "link": "https://www.cnn.com/2020/06/20/opinions/covid-19-unmasks-what-cancer-patients-have-long-known/index.html"
+        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     }
 ];

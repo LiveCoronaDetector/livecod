@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211053001&code=620117"
     },
     {
+        "title": "농·어촌 투입되는 해외유입 확진자…\"검사없이 격리해제 위험\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200620_0001066947&cID=10201&pID=10200"
+    },
+    {
         "title": "제주 여행한 관광객 2명 코로나 19 확진에 제주도 비상",
         "link": "http://www.hani.co.kr/arti/area/jeju/950210.html"
     },
     {
         "title": "비수도권 확진자 사흘새 2배로…대전발 '전국 확산' 시작됐나",
         "link": "https://www.news1.kr/articles/?3971743"
-    },
-    {
-        "title": "제주도 17·18번째 코로나19 확진자 발생",
-        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     }
 ];
