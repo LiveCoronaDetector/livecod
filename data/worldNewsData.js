@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
-        "title": "Coronavirus: Is the pandemic getting worse in the US?",
-        "link": "https://www.bbc.com/news/world-us-canada-53088354"
+        "title": "Covid-19 unmasks what cancer patients have long known: The world needs a better and more equitable health system",
+        "link": "https://www.cnn.com/2020/06/20/opinions/covid-19-unmasks-what-cancer-patients-have-long-known/index.html"
     }
 ];
