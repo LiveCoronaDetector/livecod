@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200621045651530?did=1195m"
     },
     {
+        "title": "코로나 신규확진 50명 육박…수도권·대전 'n차 전염'[종합]",
+        "link": "https://www.hankyung.com/society/article/2020062102827"
+    },
+    {
         "title": "코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",
         "link": "http://www.hani.co.kr/arti/society/health/950229.html"
+    },
+    {
+        "title": "[속보] 도봉구 요양시설 확진자 최소 43명…13세 소년도",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006210030&t=NN"
     },
     {
         "title": "확진자多 파키스탄·방글라데시 비자·항공편 일시제한… \"사전적 방역조치\"",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
     },
     {
-        "title": "임상위 “코로나19 중증 환자에 ‘렘데시비르’ 투여” 공식 권고",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500065&wlog_tag3=naver"
-    },
-    {
         "title": "(종합) 전북 코로나19 24번째 확진자…대전發 2차 감염 추정",
         "link": "http://www.jjan.kr/news/articleView.html?idxno=2085507"
-    },
-    {
-        "title": "광주에서 20일 코로나19 33번째 확진자 발생…전주 확진자와 ‘접촉’",
-        "link": "http://www.hani.co.kr/arti/area/honam/950214.html"
     }
 ];
