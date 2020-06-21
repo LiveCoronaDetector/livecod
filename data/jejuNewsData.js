@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006200041&t=NN"
     },
     {
-        "title": "제주 관광 안산시 확진자 A씨와 동행한 B씨 '확진'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=317075"
-    },
-    {
         "title": "\"방글라데시발 확진자 탄 제주행 비행기 탄 54명 자가격리\"",
         "link": "https://news.joins.com/article/olink/23400940"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주도, 안산 코로나19 확진자 팩키지여행 세부 동선 공개",
         "link": "http://www.fnnews.com/news/202006200325116171"
+    },
+    {
+        "title": "제주도 17·18번째 코로나19 확진자 발생",
+        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
     }
 ];

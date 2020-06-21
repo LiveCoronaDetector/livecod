@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "Six Trump campaign staffers working on Tulsa rally test positive for coronavirus",
-        "link": "https://www.cnn.com/2020/06/20/politics/trump-campaign-staffers/index.html"
+        "title": "Arizona, Florida, Texas, California and South Carolina see surge in new coronavirus cases",
+        "link": "https://www.youtube.com/watch?v=dS2zBSnhOhU"
     },
     {
         "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
