@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3971743"
     },
     {
-        "title": "\"'코로나19 확진자' 제주 여행하며 탄 택시 찾아요\"",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324140"
+        "title": "제주관광 나선 안산시 확진자 2명 탔던 택시 '오리무중'",
+        "link": "http://www.fnnews.com/news/202006211759423700"
     }
 ];
