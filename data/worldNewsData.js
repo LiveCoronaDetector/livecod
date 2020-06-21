@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
-        "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
+        "title": "China Suspends Poultry Imports From Tyson Foods Plant In Arkansas",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/21/881408578/china-suspends-poultry-imports-from-tyson-foods-plant-in-arkansas"
     },
     {
-        "title": "Full Panel: Trump 'Is Playing Defense' With Rally in Tulsa | Meet The Press | NBC News",
-        "link": "https://www.youtube.com/watch?v=Ai3Peik87d4"
+        "title": "Trump draws fire for saying he wanted coronavirus testing slowed down",
+        "link": "https://news.yahoo.com/trump-slow-coronavirus-testing-tulsa-rally-171549242.html"
     },
     {
         "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",

@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23400940"
     },
     {
+        "title": "배우 정우성, \"코로나 이후 난민문제 잊지 말아야 할 것은...\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202006220735299767"
+    },
+    {
         "title": "제주여행 후 관광객 2명 코로나 확진…57명 자가격리",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211053001&code=620117"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "비수도권 확진자 사흘새 2배로…대전발 '전국 확산' 시작됐나",
         "link": "https://www.news1.kr/articles/?3971743"
-    },
-    {
-        "title": "제주관광 나선 안산시 확진자 2명 탔던 택시 '오리무중'",
-        "link": "http://www.fnnews.com/news/202006211759423700"
     }
 ];
