@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/europe/vaccine-coronavirus-oxford-italy-trials/2020/06/20/4b8f5e0a-af1c-11ea-98b5-279a6479a1e4_story.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-21-20-intl/index.html"
+        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
         "title": "China needs to be held accountable for Covid-19's destruction",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/carlieporterfield/2020/06/20/daily-us-coronavirus-cases-hit-30000-for-first-time-since-may/"
     },
     {
-        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
-        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
+        "title": "Trump torches media coverage of West Point ramp walk in fiery rant at rally",
+        "link": "https://www.youtube.com/watch?v=JdiqyKm0UwU"
     },
     {
         "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",

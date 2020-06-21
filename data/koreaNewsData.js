@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100276.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "오명돈 \"무증상자, 확진자의 10배 이상…코로나19 종식시킬 수 없어\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200621_0001067321&cID=10201&pID=10200"
-    },
-    {
         "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
         "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.yonhapnewstv.co.kr/MYH20200621003500038/?did=1825m"
     },
     {
-        "title": "[종합] 코로나19 확진자 48명 증가...서울 16명, 대전 10명 급증",
-        "link": "http://www.fnnews.com/news/202006211013580518"
+        "title": "[속보] 대전 코로나 집단감염 확진자 7명 늘어…누적 47명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014714704&code=61121111&cp=nv"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 48명…지역발생 40명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211012001&code=940601"
+        "title": "\"코로나 종식? 비현실적...50세 미만 경증은 입원 필요없어\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/21/2020062100861.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 48명 증가...서울 16명, 대전 10명 급증",
+        "link": "http://www.fnnews.com/news/202006211013580518"
     }
 ];
