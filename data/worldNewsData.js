@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Donald Trump: Tulsa rally fails to draw expected crowds amid virus fears",
-        "link": "https://www.bbc.com/news/world-us-canada-53121488"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
     },
     {
         "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/live/2020/jun/21/donald-trump-tulsa-rally-latest-updates-berman-bolton-protests-coronavirus-live"
     },
     {
-        "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
-        "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
+        "title": "Live updates: Trump says he told officials to slow coronavirus testing to keep case numbers low",
+        "link": "https://www.washingtonpost.com/nation/2020/06/21/coronavirus-live-updates-us/"
     },
     {
         "title": "Spain opens border to tourists; Trump wants less testing",
