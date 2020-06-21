@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/950229.html"
     },
     {
-        "title": "[속보] 베이징 코로나 확진자 22명 늘어…열흘간 227명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100276.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "확진자多 파키스탄·방글라데시 비자·항공편 일시제한… \"사전적 방역조치\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062101248.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "오명돈 \"무증상자, 확진자의 10배 이상…코로나19 종식시킬 수 없어\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200621_0001067321&cID=10201&pID=10200"
+    },
+    {
+        "title": "베이징 코로나19 확진자 22명 늘어…열흘 만에 227명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/21/2020062190021.html"
     },
     {
         "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200621033300017?did=1195m"
     },
     {
-        "title": "(종합) 전북 코로나19 24번째 확진자…대전發 2차 감염 추정",
-        "link": "http://www.jjan.kr/news/articleView.html?idxno=2085507"
+        "title": "\"지금 상태론 병상 부족…확진자 입퇴원 기준 완화해야\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01925366625804016"
     },
     {
         "title": "코로나19 신규 확진자 48명 늘어...산발적 집단 감염",
         "link": "https://www.ytn.co.kr/_ln/0103_202006211201591555"
     },
     {
-        "title": "코로나19 신규확진자 67명…23일만에 최대(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5364457"
+        "title": "(종합) 전북 코로나19 24번째 확진자…대전發 2차 감염 추정",
+        "link": "http://www.jjan.kr/news/articleView.html?idxno=2085507"
     },
     {
-        "title": "오명돈 \"무증상자, 확진자의 10배 이상…코로나19 종식시킬 수 없어\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200621_0001067321&cID=10201&pID=10200"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 48명…지역발생 40명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211012001&code=940601"
-    },
-    {
-        "title": "“코로나19 확진자가 탑승했던 택시 찾습니다”...경로 보니",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500073&wlog_tag3=naver"
+        "title": "수성구 30대 여성 확진 \"달서구 확진자 부부 가족\" (전문)",
+        "link": "https://news.imaeil.com/Society/2020062110314829405"
     }
 ];

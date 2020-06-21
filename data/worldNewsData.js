@@ -9,15 +9,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53121488"
     },
     {
-        "title": "'Recovered' COVID-19 patients suffer major ongoing physical, cognitive problems",
-        "link": "https://www.timesofisrael.com/recovered-covid-19-patients-suffer-major-ongoing-physical-cognitive-problems/"
+        "title": "‘Israel in second wave of coronavirus, death toll may soar’",
+        "link": "https://www.jpost.com/health-science/israel-is-in-coronavirus-second-wave-dead-could-reach-hundreds-report-632147"
     },
     {
         "title": "From Oxford to an Italian lab, one race for coronavirus vaccine is gaining backers",
         "link": "https://www.washingtonpost.com/world/europe/vaccine-coronavirus-oxford-italy-trials/2020/06/20/4b8f5e0a-af1c-11ea-98b5-279a6479a1e4_story.html"
     },
     {
-        "title": "(1) India crosses 400,000 mark with 15,000 new Covid-19 cases",
+        "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-06-21-20-intl/h_8144ac480d43a3368de415af9c3ba7f9"
     },
     {
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/carlieporterfield/2020/06/20/daily-us-coronavirus-cases-hit-30000-for-first-time-since-may/"
     },
     {
-        "title": "Trump torches media coverage of West Point ramp walk in fiery rant at rally",
-        "link": "https://www.youtube.com/watch?v=JdiqyKm0UwU"
+        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
+        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
     },
     {
         "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",

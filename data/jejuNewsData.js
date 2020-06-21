@@ -21,16 +21,16 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001888.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주 관광객 2명 코로나19 확진…유증상 상태로 여행",
-        "link": "https://www.nocutnews.co.kr/news/5364588"
-    },
-    {
         "title": "제주여행 후 관광객 2명 코로나 확진…57명 자가격리",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211053001&code=620117"
     },
     {
         "title": "농·어촌 투입되는 해외유입 확진자…\"검사없이 격리해제 위험\"",
         "link": "http://www.newsis.com/view/?id=NISX20200620_0001066947&cID=10201&pID=10200"
+    },
+    {
+        "title": "제주 관광객 2명 코로나19 확진…유증상 상태로 여행",
+        "link": "https://www.nocutnews.co.kr/news/5364588"
     },
     {
         "title": "제주 여행한 관광객 2명 코로나 19 확진에 제주도 비상",
