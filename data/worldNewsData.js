@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
     },
     {
-        "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
+        "title": "Israel is entering second coronavirus wave, reopening risks hundreds more deaths, government agency says",
+        "link": "https://www.haaretz.com/israel-news/.premium-israel-is-entering-second-coronavirus-wave-government-agency-says-1.8934937"
     },
     {
         "title": "Coronavirus: Spain welcomes tourists back as emergency ends",
@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
     },
     {
-        "title": "Trump adviser makes unfounded claim that Covid-19 was 'spawned' by China – live",
+        "title": "Trump campaign manager Brad Parscale in spotlight over Tulsa rally flop – live",
         "link": "https://www.theguardian.com/us-news/live/2020/jun/21/donald-trump-tulsa-rally-latest-updates-berman-bolton-protests-coronavirus-live"
     },
     {
         "title": "Live updates: Trump says he told officials to slow coronavirus testing to keep case numbers low",
         "link": "https://www.washingtonpost.com/nation/2020/06/21/coronavirus-live-updates-us/"
+    },
+    {
+        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
+        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
     },
     {
         "title": "Spain opens border to tourists; Trump wants less testing",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
-    },
-    {
-        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
-        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
     }
 ];
