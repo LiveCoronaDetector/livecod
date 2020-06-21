@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Brazil coronavirus death toll nears 50,000: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-coronavirus-death-toll-nears-50000-live-updates-200620230549593.html"
+        "title": "Donald Trump: Tulsa rally fails to draw expected crowds amid virus fears",
+        "link": "https://www.bbc.com/news/world-us-canada-53121488"
     },
     {
         "title": "‘Israel in second wave of coronavirus, death toll may soar’",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/europe/vaccine-coronavirus-oxford-italy-trials/2020/06/20/4b8f5e0a-af1c-11ea-98b5-279a6479a1e4_story.html"
     },
     {
-        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-21-20-intl/index.html"
     },
     {
         "title": "China needs to be held accountable for Covid-19's destruction",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/carlieporterfield/2020/06/20/daily-us-coronavirus-cases-hit-30000-for-first-time-since-may/"
     },
     {
+        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
+        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
+    },
+    {
+        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
+        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
+    },
+    {
         "title": "Covid-19 unmasks what cancer patients have long known: The world needs a better and more equitable health system",
         "link": "https://www.cnn.com/2020/06/20/opinions/covid-19-unmasks-what-cancer-patients-have-long-known/index.html"
-    },
-    {
-        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
-    },
-    {
-        "title": "Donald Trump: Tulsa rally fails to draw expected crowds amid virus fears",
-        "link": "https://www.bbc.com/news/world-us-canada-53121488"
     }
 ];
