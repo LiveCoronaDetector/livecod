@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200621045651530?did=1195m"
     },
     {
-        "title": "코로나 신규확진 50명 육박…수도권·대전 'n차 전염'[종합]",
-        "link": "https://www.hankyung.com/society/article/2020062102827"
-    },
-    {
         "title": "[속보] 베이징 코로나 확진자 22명 늘어…열흘간 227명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100276.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나 신규확진 50명 육박…수도권·대전 'n차 전염'[종합]",
+        "link": "https://www.hankyung.com/society/article/2020062102827"
     },
     {
         "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020062117514055631"
     },
     {
-        "title": "오명돈 \"무증상자, 확진자의 10배 이상…코로나19 종식시킬 수 없어\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200621_0001067321&cID=10201&pID=10200"
+        "title": "\"지금 상태론 병상 부족…확진자 입퇴원 기준 완화해야\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01925366625804016"
     },
     {
         "title": "코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",
         "link": "http://www.hani.co.kr/arti/society/health/950229.html"
     },
     {
-        "title": "코로나19 신규 확진자 48명 늘어...산발적 집단 감염",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006211201591555"
+        "title": "오명돈 \"무증상자, 확진자의 10배 이상…코로나19 종식시킬 수 없어\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200621_0001067321&cID=10201&pID=10200"
     }
 ];

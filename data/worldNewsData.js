@@ -13,20 +13,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
     },
     {
-        "title": "From Oxford to an Italian lab, one race for coronavirus vaccine is gaining backers",
-        "link": "https://www.washingtonpost.com/world/europe/vaccine-coronavirus-oxford-italy-trials/2020/06/20/4b8f5e0a-af1c-11ea-98b5-279a6479a1e4_story.html"
+        "title": "Coronavirus: Spain welcomes tourists back as emergency ends",
+        "link": "https://www.bbc.com/news/world-europe-53126112"
     },
     {
-        "title": "Iraqi Football Legend Ahmed Radhi Dies Of Coronavirus",
-        "link": "https://sports.ndtv.com/football/iraqi-football-legend-ahmed-radhi-dies-of-coronavirus-2249810"
+        "title": "Morocco opens field hospital after spike in virus cases",
+        "link": "https://www.arabnews.com/node/1693171/middle-east"
     },
     {
         "title": "China needs to be held accountable for Covid-19's destruction",
         "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
-        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
+        "title": "More young people across the South are testing positive for coronavirus, officials warn",
+        "link": "https://www.cnn.com/2020/06/21/us/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
