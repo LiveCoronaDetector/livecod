@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200620055000085?did=1195m"
     },
     {
-        "title": "코로나 전국 ‘확산기’…“안전한 곳은 없다”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014712861&code=61141111&cp=nv"
-    },
-    {
         "title": "신규 확진자 67명...지역감염·해외유입 '비상'",
         "link": "https://www.ytn.co.kr/_ln/0103_202006201622544817"
     },
@@ -27,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "WHO \"코로나19 신규 확진자 15만여명…하루 기준 최다\"",
         "link": "http://yna.kr/AKR20200620001200088?did=1195m"
+    },
+    {
+        "title": "광주에서 22일만에 코로나19 환자 발생…33번째 확진자",
+        "link": "http://www.hani.co.kr/arti/area/honam/950214.html"
     },
     {
         "title": "제주도 3박4일 여행한 코로나 확진자… 함께 간 지인도 양성",

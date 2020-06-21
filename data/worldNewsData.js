@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/20/politics/trump-campaign-staffers/index.html"
     },
     {
-        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
-    },
-    {
         "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
         "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
+    },
+    {
+        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
     },
     {
         "title": "Coronavirus: Is the pandemic getting worse in the US?",
