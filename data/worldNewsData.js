@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/europe/vaccine-coronavirus-oxford-italy-trials/2020/06/20/4b8f5e0a-af1c-11ea-98b5-279a6479a1e4_story.html"
     },
     {
-        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-06-21-20-intl/h_8144ac480d43a3368de415af9c3ba7f9"
     },
     {
         "title": "China needs to be held accountable for Covid-19's destruction",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/carlieporterfield/2020/06/20/daily-us-coronavirus-cases-hit-30000-for-first-time-since-may/"
     },
     {
-        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
-        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
-    },
-    {
-        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
-        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
+        "title": "Coronavirus live news: Brazil's death toll passes 50,000",
+        "link": "https://www.theguardian.com/world/live/2020/jun/21/coronavirus-live-news-chile-raises-death-toll-by-thousands-as-victoria-cases-hit-two-month-high"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
+    },
+    {
+        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
+        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
     }
 ];
