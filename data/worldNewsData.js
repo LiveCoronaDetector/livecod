@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "‘Israel in second wave of coronavirus, death toll may soar’",
-        "link": "https://www.jpost.com/health-science/israel-is-in-coronavirus-second-wave-dead-could-reach-hundreds-report-632147"
+        "title": "'Recovered' COVID-19 patients suffer major ongoing physical, cognitive problems",
+        "link": "https://www.timesofisrael.com/recovered-covid-19-patients-suffer-major-ongoing-physical-cognitive-problems/"
     },
     {
         "title": "From Oxford to an Italian lab, one race for coronavirus vaccine is gaining backers",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "Covid data shows dangerous trend in US South",
-        "link": "https://www.youtube.com/watch?v=47oe-LL0x5c"
+        "title": "WHO Warns of 'Dangerous Phase' of Pandemic as Outbreaks Widen",
+        "link": "https://www.msn.com/en-us/news/us/who-warns-of-dangerous-phase-of-pandemic-as-outbreaks-widen/ar-BB15JO7r"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
