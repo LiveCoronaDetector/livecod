@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006200325116171"
     },
     {
-        "title": "제주도 17·18번째 코로나19 확진자 발생",
-        "link": "http://yna.kr/AKR20200618181900056?did=1195m"
+        "title": "제주여행 후 관광객 2명 코로나 확진…57명 자가격리",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211053001&code=620117"
     }
 ];

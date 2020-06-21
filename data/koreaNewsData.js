@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/21/2020062100276.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
-        "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
-    },
-    {
-        "title": "코로나19 신규 확진자 48명 늘어...산발적 감염 여전",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006211112541194"
-    },
-    {
-        "title": "밤새 대전서 3명 더 코로나19 확진…1주일새 36명 감염",
-        "link": "http://yna.kr/AKR20200621012100063?did=1195m"
-    },
-    {
-        "title": "'집단감염 지속' 여파 코로나19 확진자 48명 늘어…수도권 27명(종합)",
-        "link": "https://view.asiae.co.kr/article/2020062111470217586"
+        "title": "[종합] 코로나19 확진자 48명 증가...서울 16명, 대전 10명 급증",
+        "link": "http://www.fnnews.com/news/202006211013580518"
     },
     {
         "title": "코로나 신규확진 50명 육박…수도권·대전 'n차 전염'[종합]",
         "link": "https://www.hankyung.com/society/article/2020062102827"
     },
     {
+        "title": "코로나19 신규 확진자 48명 늘어...산발적 집단 감염",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006211201591555"
+    },
+    {
         "title": "대전시, 80·81·82번 코로나19 확진자 이동 동선 공개",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002651849&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "21일 0시 기준 코로나19 48명 신규확진…수도권 27명 발생",
-        "link": "http://www.kwnews.co.kr/view.asp?aid=220062000001&s=501"
+        "title": "전북 24번째 '코로나19' 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5364640"
+    },
+    {
+        "title": "수성구 30대 여성 확진 \"달서구 확진자 부부 가족\" (전문)",
+        "link": "https://news.imaeil.com/Society/2020062110314829405"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 48명…지역발생 40명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211012001&code=940601"
     }
 ];

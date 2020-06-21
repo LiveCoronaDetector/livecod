@@ -540,9 +540,9 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 7436,
+        "확진자수": 7461,
         "사망자수": 102,
-        "완치자수": 6881
+        "완치자수": 6896
     },
     {
         "Name": "Ivory Coast",
@@ -1276,7 +1276,7 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 204,
+        "확진자수": 206,
         "사망자수": 0,
         "완치자수": 139
     },
@@ -1446,7 +1446,7 @@ var marker = [
         "Name_en": "Bhutan",
         "확진자수": 68,
         "사망자수": 0,
-        "완치자수": 28
+        "완치자수": 30
     },
     {
         "Name": "French Polynesia",
