@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500065&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
-        "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
-    },
-    {
         "title": "정부, 코로나19 확진자 급증 국가 대상 비자·항공편 제한",
         "link": "https://imnews.imbc.com/news/2020/society/article/5817655_32633.html"
     },
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01925366625804016"
     },
     {
-        "title": "코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",
-        "link": "http://www.hani.co.kr/arti/society/health/950229.html"
+        "title": "중남미 코로나19 빠른 확산세… 20일 사이 확진자 배",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020062117514055631"
+    },
+    {
+        "title": "\"국내 확인 안된 감염자 10만명…코로나 종식은 불가능\"",
+        "link": "https://www.hankyung.com/society/article/2020062114521"
     }
 ];

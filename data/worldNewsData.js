@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53121488"
     },
     {
-        "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
+        "title": "Coronavirus surge imperils Israel's chance to get green light for travel abroad",
+        "link": "https://www.haaretz.com/israel-news/.premium-coronavirus-surge-imperils-israel-s-chance-to-get-green-light-for-travel-abroad-1.8935968"
     },
     {
         "title": "Coronavirus: Spain welcomes tourists back as emergency ends",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "Local officials hit roadblocks on the way to enacting measures to curb coronavirus spikes",
-        "link": "https://www.cnn.com/2020/06/20/health/us-coronavirus-saturday/index.html"
+        "title": "More young people across the South are testing positive for coronavirus, officials warn",
+        "link": "https://www.cnn.com/2020/06/21/us/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/21/coronavirus-live-news-chile-raises-death-toll-by-thousands-as-victoria-cases-hit-two-month-high"
     },
     {
-        "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says"
+        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
+        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
     }
 ];
