@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006211013580518"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",
-        "link": "http://www.hani.co.kr/arti/society/health/950229.html"
+        "title": "코로나 신규확진 50명 육박…수도권·대전 'n차 전염'[종합]",
+        "link": "https://www.hankyung.com/society/article/2020062102827"
     },
     {
-        "title": "[속보] 도봉구 요양시설 확진자 최소 43명…13세 소년도",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006210030&t=NN"
+        "title": "코로나 신규 확진자 48명...수도권 27명, 대전 10명 추가",
+        "link": "http://www.hani.co.kr/arti/society/health/950229.html"
     },
     {
         "title": "경남 김해 32세 방글라데시인 코로나19 확진(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200621_0001067132&cID=10812&pID=10800"
     },
     {
-        "title": "코로나 신규확진 50명 육박…수도권·대전 'n차 전염'[종합]",
-        "link": "https://www.hankyung.com/society/article/2020062102827"
+        "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
+        "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
     },
     {
-        "title": "[속보] 21일 코로나19 신규확진자 48명…수도권 27명·대전 10명",
-        "link": "http://www.cnbnews.com/news/article.html?no=450975"
+        "title": "'집단감염 지속' 여파 코로나19 확진자 48명 늘어…수도권 27명(종합)",
+        "link": "https://view.asiae.co.kr/article/2020062111470217586"
     },
     {
         "title": "대전시, 80·81·82번 코로나19 확진자 이동 동선 공개",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020062110314829405"
     },
     {
-        "title": "코로나19 신규확진자 67명…23일만에 최대(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5364457"
+        "title": "[속보] 코로나19 신규 확진자 48명…지역발생 40명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211012001&code=940601"
     }
 ];

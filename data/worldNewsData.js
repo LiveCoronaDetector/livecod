@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/20/opinions/china-needs-to-be-held-accountable-for-covid-19s-destruction/index.html"
     },
     {
-        "title": "WHO Warns of 'Dangerous Phase' of Pandemic as Outbreaks Widen",
-        "link": "https://www.msn.com/en-us/news/us/who-warns-of-dangerous-phase-of-pandemic-as-outbreaks-widen/ar-BB15JO7r"
+        "title": "Covid data shows dangerous trend in US South",
+        "link": "https://www.youtube.com/watch?v=47oe-LL0x5c"
+    },
+    {
+        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
+        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
         "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Covid-19 unmasks what cancer patients have long known: The world needs a better and more equitable health system",
         "link": "https://www.cnn.com/2020/06/20/opinions/covid-19-unmasks-what-cancer-patients-have-long-known/index.html"
-    },
-    {
-        "title": "Coronavirus: Is the pandemic getting worse in the US?",
-        "link": "https://www.bbc.com/news/world-us-canada-53088354"
     }
 ];
