@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/carlieporterfield/2020/06/20/daily-us-coronavirus-cases-hit-30000-for-first-time-since-may/"
     },
     {
-        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
-        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
-    },
-    {
         "title": "Covid-19 unmasks what cancer patients have long known: The world needs a better and more equitable health system",
         "link": "https://www.cnn.com/2020/06/20/opinions/covid-19-unmasks-what-cancer-patients-have-long-known/index.html"
+    },
+    {
+        "title": "Florida’s Covid-19 surge shows the state's reopening plan is not working",
+        "link": "https://www.theguardian.com/world/2020/jun/20/florida-covid19-surge-reopening-governor-desantis-coronavirus"
     },
     {
         "title": "Donald Trump: Tulsa rally fails to draw expected crowds amid virus fears",

@@ -29,7 +29,7 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006211053001&code=620117"
     },
     {
-        "title": "비수도권 확진자 '급증'…우려하던 '전국 확산' 촉발시키나?",
+        "title": "비수도권 확진자 사흘새 2배로…대전발 '전국 확산' 시작됐나",
         "link": "https://www.news1.kr/articles/?3971743"
     },
     {
