@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
-        "link": "https://www.bbc.com/news/world-latin-america-53132225"
+        "title": "Live updates: More than two dozen states report coronavirus surges as Trump administration prepares for possible second wave",
+        "link": "https://www.washingtonpost.com/nation/2020/06/22/coronavirus-live-updates-us/"
     },
     {
         "title": "What happened on Santorini when the tourism 'machine' stopped",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/21/tech/india-privacy-app-hnk-intl/index.html"
     },
     {
-        "title": "Coronavirus News: Live Updates",
-        "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
+        "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
+        "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "Germany struggles to impose local lockdowns as coronavirus infections spike",
-        "link": "https://www.msn.com/en-us/news/world/germany-struggles-to-impose-local-lockdowns-as-coronavirus-infections-spike/ar-BB15N82n"
-    },
-    {
-        "title": "White House announces plans for ‘2020 Salute to America’ July 4th celebration",
-        "link": "https://fox8.com/news/white-house-announces-plans-for-2020-salute-to-america-july-4th-celebration/"
+        "title": "Jake Tapper: Once again, Trump is revealing this",
+        "link": "https://www.youtube.com/watch?v=udd4Zjiv4vA"
     },
     {
         "title": "WHO reports largest single-day increase in coronavirus cases",
         "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
+    },
+    {
+        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
+        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
     }
 ];

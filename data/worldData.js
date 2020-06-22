@@ -316,9 +316,9 @@ var marker = [
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "확진자수": 28833,
-        "사망자수": 581,
-        "완치자수": 8764
+        "확진자수": 29143,
+        "사망자수": 598,
+        "완치자수": 8841
     },
     {
         "Name": "도미니카 공화국",
@@ -564,7 +564,7 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 6315,
+        "확진자수": 6358,
         "사망자수": 19,
         "완치자수": 4377
     },
@@ -1633,20 +1633,20 @@ var marker = [
         "완치자수": 11
     },
     {
+        "Name": "Western Sahara",
+        "Name_ch": "",
+        "Name_en": "Western Sahara",
+        "확진자수": 10,
+        "사망자수": 1,
+        "완치자수": 8
+    },
+    {
         "Name": "MS Zaandam",
         "Name_ch": "",
         "Name_en": "MS Zaandam",
         "확진자수": 9,
         "사망자수": 2,
         "완치자수": 0
-    },
-    {
-        "Name": "Western Sahara",
-        "Name_ch": "",
-        "Name_en": "Western Sahara",
-        "확진자수": 9,
-        "사망자수": 1,
-        "완치자수": 8
     },
     {
         "Name": "British Virgin Islands",

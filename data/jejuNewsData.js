@@ -17,27 +17,27 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014717077&code=61121911&cp=nv"
     },
     {
+        "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
+        "link": "https://www.hankyung.com/life/article/2020062242417"
+    },
+    {
         "title": "제주서 자가격리 하던 코로나19 접촉자 20대 극단적 선택",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4476185&ref=A"
-    },
-    {
-        "title": "제주서 코로나 격리중 20대 여성 숨진 채 발견",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/22/2020062202240.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "제주서 코로나19 격리 중이던 20대 여성 숨진 채 발견(1보)",
-        "link": "https://www.news1.kr/articles/?3972275"
-    },
-    {
-        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     },
     {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
         "link": "https://news.joins.com/article/olink/23401744"
     },
     {
-        "title": "코로나 격리 제주 20대 여성 사망 \"평소 우울증 앓아\"",
-        "link": "http://www.fnnews.com/news/202006221123390755"
+        "title": "제주서 코로나 격리중 20대 여성 숨진 채 발견",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/22/2020062202240.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
+    },
+    {
+        "title": "제주 '코로나19' 격리시설서 20대 여성, 숨진 채 발견…경찰 \"극단 선택 추정...",
+        "link": "http://www.inews24.com/view/1275412"
     }
 ];
