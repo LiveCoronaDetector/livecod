@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/22/coronavirus-live-updates-us/"
     },
     {
-        "title": "What happened on Santorini when the tourism 'machine' stopped",
-        "link": "https://www.cnn.com/travel/article/santorini-tourism-coronavirus/index.html"
+        "title": "Health Ministry D-G: 'I don't think we should close down'",
+        "link": "https://www.jpost.com/israel-news/health-ministry-d-g-israel-does-not-need-to-lockdown-632290"
     },
     {
         "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "Germany struggles to impose local lockdowns as coronavirus infections spike",
-        "link": "https://www.msn.com/en-us/news/world/germany-struggles-to-impose-local-lockdowns-as-coronavirus-infections-spike/ar-BB15N82n"
+        "title": "WHO reports largest single-day increase in coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
     },
     {
         "title": "Jake Tapper pushes back on White House adviser's coronavirus claim",

@@ -13,8 +13,8 @@ var jejuNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "해열제 먹으며 제주 여행한 안산 확진자… 제주도 ‘손배 소송’",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014717077&code=61121911&cp=nv"
+        "title": "코로나19 증상 있는데도 해열제 복용 제주관광 강행",
+        "link": "http://www.fnnews.com/news/202006221519151261"
     },
     {
         "title": "제주서 자가격리 하던 코로나19 접촉자 20대 극단적 선택",
@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23401744"
     },
     {
-        "title": "제주서 코로나 격리중 20대 여성 숨진 채 발견",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/22/2020062202240.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
         "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     },
@@ -37,7 +33,11 @@ var jejuNewsData = [
         "link": "http://www.inews24.com/view/1275412"
     },
     {
-        "title": "코로나 격리 제주 20대 여성 사망 \"평소 우울증 앓아\"",
-        "link": "http://www.fnnews.com/news/202006221123390755"
+        "title": "제주서 코로나 격리 20대 여성 사망…'우울증' 있었다는데(상보)",
+        "link": "https://www.news1.kr/articles/?3972382"
+    },
+    {
+        "title": "제주서 코로나 격리 중이던 20대 여성 숨진 채 발견...극단적 선택",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062201444.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
