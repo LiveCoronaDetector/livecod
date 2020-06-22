@@ -6,38 +6,38 @@ var jejuNewsData = [
     },
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
+        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
+        "title": "제주서 코로나 확진자 접촉…격리시설에서 20대 여성 숨진채 발견",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500034&wlog_tag3=naver"
+    },
+    {
+        "title": "제주서 코로나 격리 중이던 20대 여성 숨진 채 발견...극단적 선택",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062201444.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "해열제 먹으며 제주 여행한 안산 확진자… 제주도 ‘손배 소송’",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014717077&code=61121911&cp=nv"
     },
     {
+        "title": "제주서 자가격리 하던 코로나19 접촉자 20대 극단적 선택",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4476185&ref=A"
+    },
+    {
+        "title": "코로나19 확진자 접촉 여성, 제주서 자가격리중 극단적 선택",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200622000267"
+    },
+    {
+        "title": "코로나 격리 제주 관광객 극단적 선택…당국 관리 소홀",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
+    },
+    {
+        "title": "코로나 격리 제주 20대 여성 사망 \"평소 우울증 앓아\"",
+        "link": "http://www.fnnews.com/news/202006221123390755"
+    },
+    {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
         "link": "https://news.joins.com/article/olink/23401744"
-    },
-    {
-        "title": "“코로나19 확진자가 탑승했던 택시 찾습니다”...경로 보니",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500073&wlog_tag3=naver"
-    },
-    {
-        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "제주서 코로나 격리 20대 여성 사망…'우울증' 있었다는데(상보)",
-        "link": "https://www.news1.kr/articles/?3972382"
-    },
-    {
-        "title": "제주도에서 코로나19 격리 중이었던 20대 여성이 숨진 채 발견됐다",
-        "link": "https://www.huffingtonpost.kr/entry/quarantined-woman-died_kr_5ef00d89c5b676360572de9e?utm_id=naver"
-    },
-    {
-        "title": "제주서 격리 중이던 20대 여성 사망…방글라데시 확진자와 접촉(2보)",
-        "link": "https://www.news1.kr/articles/?3972313"
     }
 ];
