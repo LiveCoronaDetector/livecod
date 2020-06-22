@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     },
     {
-        "title": "제주서 코로나 격리 20대 여성 사망…'우울증' 있었다는데(상보)",
-        "link": "https://www.news1.kr/articles/?3972382"
+        "title": "제주 자가격리 중 극단적 선택 20대 여성, 코로나19 음성판정",
+        "link": "http://www.newsis.com/view/?id=NISX20200622_0001068583&cID=10899&pID=10800"
     }
 ];

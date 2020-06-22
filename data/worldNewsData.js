@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "WHO chief says COVID-19 pandemic still accelerating: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-deaths-120000-live-updates-200621231628063.html"
+        "title": "Live Global Coronavirus News: White House Says It’s Bracing for an Autumn Wave",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-live-updates.html"
     }
 ];

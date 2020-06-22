@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2357667,
-        "사망자수": 122269,
+        "확진자수": 2360593,
+        "사망자수": 122281,
         "완치자수": 980367
     },
     {
@@ -28,9 +28,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 427046,
-        "사망자수": 13717,
-        "완치자수": 237929
+        "확진자수": 430708,
+        "사망자수": 13780,
+        "완치자수": 240289
     },
     {
         "Name": "영국",
@@ -84,8 +84,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 191689,
-        "사망자수": 8963,
+        "확진자수": 191718,
+        "사망자수": 8964,
         "완치자수": 174900
     },
     {
@@ -517,7 +517,7 @@ var marker = [
         "Name_ch": "挪威",
         "Name_en": "Norway",
         "확진자수": 8745,
-        "사망자수": 244,
+        "사망자수": 248,
         "완치자수": 8138
     },
     {
@@ -564,9 +564,9 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 6358,
+        "확진자수": 6401,
         "사망자수": 19,
-        "완치자수": 4377
+        "완치자수": 4450
     },
     {
         "Name": "세네갈",
@@ -1054,7 +1054,7 @@ var marker = [
         "Name_en": "Andorra",
         "확진자수": 855,
         "사망자수": 52,
-        "완치자수": 792
+        "완치자수": 796
     },
     {
         "Name": "Benin",
@@ -1657,20 +1657,20 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 8
+    },
+    {
         "Name": "British Virgin Islands",
         "Name_ch": "",
         "Name_en": "British Virgin Islands",
         "확진자수": 8,
         "사망자수": 1,
         "완치자수": 7
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 8,
-        "사망자수": 0,
-        "완치자수": 8
     },
     {
         "Name": "Caribbean Netherlands",
