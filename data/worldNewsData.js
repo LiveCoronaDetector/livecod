@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/22/coronavirus-cases-surge-in-us-brazil-and-rise-in-germany.html"
     },
     {
-        "title": "Coronavirus in Israel's cities: Where is the virus spreading the most?",
-        "link": "https://www.jpost.com/health-science/coronavirus-in-israels-cities-where-is-the-virus-spreading-the-most-632361"
+        "title": "Greece COVID-19 fight prompts Athens to free public space of cars",
+        "link": "https://www.aljazeera.com/news/2020/06/greece-covid-19-fight-prompts-athens-free-public-space-cars-200622100351874.html"
     },
     {
         "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.huffpost.com/entry/virus-cases-surge-in-us-india-but-slow-in-china-korea_n_5ef07653c5b6532b509758d2"
     },
     {
-        "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
-        "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
+        "title": "WHO warns of 'accelerating' pandemic as Brazil reaches 50000 deaths",
+        "link": "https://www.bangkokpost.com/world/1939172/who-warns-of-accelerating-pandemic-as-brazil-reaches-50-000-deaths"
     },
     {
-        "title": "Brazil coronavirus death toll nears 50000",
-        "link": "https://www.youtube.com/watch?v=_MC3NNRgbEE"
+        "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
+        "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
         "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
