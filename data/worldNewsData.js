@@ -21,8 +21,16 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-cases/global-coronavirus-cases-top-9-million-as-outbreak-surges-in-brazil-india-idUSKBN23T279"
     },
     {
-        "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
-        "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
+        "title": "Coronavirus: South Korea confirms second wave of infections",
+        "link": "https://www.bbc.com/news/world-asia-53135626"
+    },
+    {
+        "title": "South Korea says it is battling 'second wave'",
+        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
+    },
+    {
+        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
+        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
     },
     {
         "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
@@ -31,13 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
         "link": "https://www.bbc.com/news/world-latin-america-53132225"
-    },
-    {
-        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
-        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
-    },
-    {
-        "title": "Brazil and the U.S. Drive New Coronavirus Infections",
-        "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
     }
 ];
