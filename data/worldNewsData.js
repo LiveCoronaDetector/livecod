@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jun/22/the-power-of-volume-africa-unites-to-lower-cost-of-covid-19-tests-and-ppe"
     },
     {
-        "title": "Coronavirus cases surge in U.S. and Brazil as Germany reports more outbreaks, but markets don't seem worried",
-        "link": "https://www.cnbc.com/2020/06/22/coronavirus-cases-surge-in-us-brazil-and-rise-in-germany.html"
+        "title": "Graph shows stark difference in US and EU responses to Covid-19",
+        "link": "https://www.cnn.com/videos/us/2020/06/22/united-states-europe-coronavirus-covid-19-pandemic-comparison-sanjay-gupta-ldn-vpx.cnn"
     },
     {
         "title": "Global report: South Korea has Covid-19 second wave as Israel ponders new lockdown",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
-        "title": "Live Global Coronavirus News",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
-    },
-    {
-        "title": "South Korea says it is battling 'second wave'",
-        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
-    },
-    {
         "title": "Brazil's COVID-19 crisis spirals out of control",
         "link": "https://www.youtube.com/watch?v=DZ8-KDg2uJM"
+    },
+    {
+        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
+        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
+    },
+    {
+        "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
+        "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
         "title": "WHO reports largest single-day increase in coronavirus cases",
