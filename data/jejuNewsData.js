@@ -5,18 +5,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
-        "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
-        "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
-    },
-    {
-        "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
-        "link": "https://www.hankyung.com/life/article/2020062242417"
-    },
-    {
-        "title": "코로나 격리 제주 20대 여성 사망 \"평소 우울증 앓아\"",
-        "link": "http://www.fnnews.com/news/202006221123390755"
-    },
-    {
         "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,19 +13,31 @@ var jejuNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
+        "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
+    },
+    {
+        "title": "제주서 코로나 확진자 접촉…격리시설에서 20대 여성 숨진채 발견",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500034&wlog_tag3=naver"
+    },
+    {
         "title": "제주서 코로나 격리 20대 여성 극단적 선택한 듯(종합)",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014718115&code=61121211&cp=nv"
     },
     {
-        "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
-        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
+        "title": "코로나19 증상 있는데도 해열제 복용 제주관광 강행",
+        "link": "http://www.fnnews.com/news/202006221519151261"
     },
     {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
         "link": "https://news.joins.com/article/olink/23401744"
     },
     {
-        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
+        "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
+        "link": "https://www.hankyung.com/life/article/2020062242417"
+    },
+    {
+        "title": "제주서 코로나 격리 20대 여성 사망…'우울증' 있었다는데(상보)",
+        "link": "https://www.news1.kr/articles/?3972382"
     }
 ];

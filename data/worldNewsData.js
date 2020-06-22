@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jun/22/the-power-of-volume-africa-unites-to-lower-cost-of-covid-19-tests-and-ppe"
     },
     {
-        "title": "Coronavirus cases surge in U.S. and Brazil as Germany reports more outbreaks, but markets don't seem worried",
-        "link": "https://www.cnbc.com/2020/06/22/coronavirus-cases-surge-in-us-brazil-and-rise-in-germany.html"
+        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
+        "link": "https://www.bbc.com/news/world-latin-america-53132225"
     },
     {
-        "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
+        "title": "Coronavirus Israel live: Netanyahu weighs 'dramatic' steps as cases spike",
+        "link": "https://www.haaretz.com/israel-news/coronavirus-live-government-agency-warns-against-events-in-closed-spaces-1.8936142"
     },
     {
         "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
     },
     {
-        "title": "White House's Navarro 'never heard' Trump ask China's Xi for help winning election",
-        "link": "https://news.yahoo.com/white-houses-navarro-never-heard-140218082.html"
+        "title": "Brazil coronavirus death toll nears 50000",
+        "link": "https://www.youtube.com/watch?v=_MC3NNRgbEE"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
-        "link": "https://www.bbc.com/news/world-latin-america-53132225"
+        "title": "White House's Navarro 'never heard' Trump ask China's Xi for help winning election",
+        "link": "https://news.yahoo.com/white-houses-navarro-never-heard-140218082.html"
     },
     {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",

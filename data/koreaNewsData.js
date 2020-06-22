@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200622077900004?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 17명…6월 들어 첫 10명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006221012001&code=940601"
-    },
-    {
-        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
-    },
-    {
-        "title": "베이징 코로나 집단감염 240명 육박, 신규 확진 9명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014716515&code=61131811&cp=nv"
-    },
-    {
         "title": "전세계 코로나19 신규확진자 사상 최고 경신...18만3000명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062200398.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대전 22일 오전 코로나19 2명 추가 확진",
-        "link": "http://www.fnnews.com/news/202006221015274303"
+        "title": "코로나19 신규 확진자 17명…6월 들어 첫 10명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006221012001&code=940601"
+    },
+    {
+        "title": "제주서 코로나19로 자가격리하던 20대 여성 숨진 채 발견",
+        "link": "https://www.ytn.co.kr/_ln/0115_202006221206289462"
+    },
+    {
+        "title": "中 베이징 확진자 240명 육박...9일 만에 한 자릿수",
+        "link": "http://www.fnnews.com/news/202006221359316053"
+    },
+    {
+        "title": "대전서 코로나19 확진자 2명 추가…n차감염 어디까지",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014716779&code=61122015&cp=nv"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 17명...지역발생 11명",
+        "link": "https://www.sedaily.com/NewsView/1Z44JJ6M5V"
     },
     {
         "title": "대전시, 동선 숨긴 코로나19 확진자 고발... “방역 방해”",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500043&wlog_tag3=naver"
-    },
-    {
-        "title": "코로나19 신규 확진자 17명…이달 들어 첫 10명대",
-        "link": "http://www.hani.co.kr/arti/society/health/950354.html"
     }
 ];
