@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/21/coronavirus-is-weakening-could-disappear-on-its-own-italian-doctor/"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/22/latest_news/1592786332_067685.html"
+        "title": "Many Indian citizens believe their government is trying to steal and sell their data. Here's why",
+        "link": "https://www.cnn.com/2020/06/21/tech/india-privacy-app-hnk-intl/index.html"
     },
     {
         "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
+        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
+        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Public Health Experts Reject President’s View of Fading Pandemic",
+        "link": "https://www.nytimes.com/2020/06/21/health/coronavirus-pandemic-spread-trump.html"
+    },
+    {
         "title": "WHO reports highest single-day increase in confirmed coronavirus cases",
         "link": "https://www.axios.com/coronavirus-cases-record-world-health-organization-ceb13820-2dcd-4044-8e16-68850e0a38f6.html"
-    },
-    {
-        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
-        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
-    },
-    {
-        "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
-        "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
     }
 ];

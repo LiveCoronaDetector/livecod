@@ -5,20 +5,32 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
+        "title": "제주서 코로나 확진자 접촉…격리시설에서 20대 여성 숨진채 발견",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500034&wlog_tag3=naver"
+    },
+    {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "제주도, 해열제 먹으며 여행한 코로나 확진자에 손해배상 소송",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950365.html"
+        "title": "해열제 먹으며 제주 여행한 안산 확진자… 제주도 ‘손배 소송’",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014717077&code=61121911&cp=nv"
     },
     {
-        "title": "제주도, 해열제 먹고 제주 관광한 안산시 확진자에 손해배상 제기",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4476187&ref=A"
+        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
+        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "“코로나19 확진자가 탑승했던 택시 찾습니다”...경로 보니",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500073&wlog_tag3=naver"
+        "title": "제주도 해열제 복용하며 제주여행 안산시 확진자에 손해배상 소송",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500053&wlog_tag3=naver"
+    },
+    {
+        "title": "제주서 자가격리 하던 코로나19 접촉자 20대 극단적 선택",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4476185&ref=A"
+    },
+    {
+        "title": "제주관광 코로나19 안산시 확진자 이용했던 택시 오리무중",
+        "link": "https://www.nocutnews.co.kr/news/5364679"
     },
     {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
@@ -27,17 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주서 격리 중이던 20대 여성 사망…방글라데시 확진자와 접촉(2보)",
         "link": "https://www.news1.kr/articles/?3972313"
-    },
-    {
-        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
-        "link": "http://www.fnnews.com/news/202006190709270776"
-    },
-    {
-        "title": "'확진자 접촉' 격리된 20대 여성, 제주 시설서 변사체로 발견",
-        "link": "https://news.joins.com/article/olink/23401759"
-    },
-    {
-        "title": "제주도 3박4일 여행한 코로나 확진자… 함께 간 지인도 양성",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/20/2020062001888.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
