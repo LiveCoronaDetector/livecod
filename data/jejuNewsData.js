@@ -9,28 +9,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "제주서 코로나 확진자 접촉…격리시설에서 20대 여성 숨진채 발견",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500034&wlog_tag3=naver"
-    },
-    {
-        "title": "제주서 코로나 격리 중이던 20대 여성 숨진 채 발견...극단적 선택",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062201444.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "해열제 먹으며 제주 여행한 안산 확진자… 제주도 ‘손배 소송’",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014717077&code=61121911&cp=nv"
     },
     {
+        "title": "제주도, 해열제 먹으며 여행한 코로나 확진자에 손해배상 소송",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950365.html"
+    },
+    {
         "title": "제주서 자가격리 하던 코로나19 접촉자 20대 극단적 선택",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4476185&ref=A"
-    },
-    {
-        "title": "코로나19 확진자 접촉 여성, 제주서 자가격리중 극단적 선택",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200622000267"
-    },
-    {
-        "title": "코로나 격리 제주 관광객 극단적 선택…당국 관리 소홀",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     },
     {
         "title": "코로나 격리 제주 20대 여성 사망 \"평소 우울증 앓아\"",
@@ -39,5 +27,17 @@ var jejuNewsData = [
     {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
         "link": "https://news.joins.com/article/olink/23401744"
+    },
+    {
+        "title": "제주서 코로나19 격리 중이던 20대 여성 숨진 채 발견(1보)",
+        "link": "https://www.news1.kr/articles/?3972275"
+    },
+    {
+        "title": "[종합] 제주, 코로나19 격리조치 20대 여성 숨진채 발견",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=420341"
+    },
+    {
+        "title": "배우 정우성, \"코로나 이후 난민문제 잊지 말아야 할 것은...\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202006220735299767"
     }
 ];
