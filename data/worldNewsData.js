@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/19/africa/south-africa-gender-violence-pandemic-intl/index.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
+        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
+        "link": "https://www.bbc.com/news/world-latin-america-53132225"
     },
     {
         "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/21/tech/india-privacy-app-hnk-intl/index.html"
     },
     {
-        "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
-        "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
+        "title": "Boss of Chinese pharmacy chain gets 15 years for selling fake face masks",
+        "link": "https://www.scmp.com/coronavirus/greater-china/article/3089977/coronavirus-boss-chinese-pharmacy-chain-gets-15-years"
     },
     {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
+        "title": "WHO reports highest single-day increase in confirmed coronavirus cases",
+        "link": "https://www.axios.com/coronavirus-cases-record-world-health-organization-ceb13820-2dcd-4044-8e16-68850e0a38f6.html"
+    },
+    {
         "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
         "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "Public Health Experts Reject President’s View of Fading Pandemic",
-        "link": "https://www.nytimes.com/2020/06/21/health/coronavirus-pandemic-spread-trump.html"
-    },
-    {
-        "title": "WHO reports highest single-day increase in confirmed coronavirus cases",
-        "link": "https://www.axios.com/coronavirus-cases-record-world-health-organization-ceb13820-2dcd-4044-8e16-68850e0a38f6.html"
+        "title": "Pelosi on Trump testing remarks: 'The American people are owed answers' | TheHill",
+        "link": "https://thehill.com/homenews/house/503798-pelosi-on-trump-testing-remarks-americans-are-owed-answers"
     }
 ];
