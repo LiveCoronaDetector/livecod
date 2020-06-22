@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2378201,
-        "사망자수": 122530,
-        "완치자수": 985746
+        "확진자수": 2383841,
+        "사망자수": 122563,
+        "완치자수": 989443
     },
     {
         "Name": "브라질",
@@ -364,9 +364,9 @@ var marker = [
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "확진자수": 21764,
+        "확진자수": 22407,
         "사망자수": 65,
-        "완치자수": 16419
+        "완치자수": 16862
     },
     {
         "Name": "이스라엘",
@@ -1065,6 +1065,14 @@ var marker = [
         "완치자수": 253
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "확진자수": 787,
+        "사망자수": 2,
+        "완치자수": 370
+    },
+    {
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
@@ -1087,14 +1095,6 @@ var marker = [
         "확진자수": 737,
         "사망자수": 5,
         "완치자수": 181
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "확진자수": 728,
-        "사망자수": 2,
-        "완치자수": 359
     },
     {
         "Name": "일본크루즈",
@@ -1177,6 +1177,14 @@ var marker = [
         "완치자수": 375
     },
     {
+        "Name": "Zimbabwe",
+        "Name_ch": "",
+        "Name_en": "Zimbabwe",
+        "확진자수": 512,
+        "사망자수": 6,
+        "완치자수": 64
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
@@ -1191,14 +1199,6 @@ var marker = [
         "확진자수": 507,
         "사망자수": 1,
         "완치자수": 460
-    },
-    {
-        "Name": "Zimbabwe",
-        "Name_ch": "",
-        "Name_en": "Zimbabwe",
-        "확진자수": 489,
-        "사망자수": 6,
-        "완치자수": 64
     },
     {
         "Name": "대만",
@@ -1289,6 +1289,14 @@ var marker = [
         "완치자수": 153
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 205,
+        "사망자수": 12,
+        "완치자수": 103
+    },
+    {
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
@@ -1311,14 +1319,6 @@ var marker = [
         "확진자수": 186,
         "사망자수": 10,
         "완치자수": 77
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 184,
-        "사망자수": 12,
-        "완치자수": 103
     },
     {
         "Name": "지브롤터",

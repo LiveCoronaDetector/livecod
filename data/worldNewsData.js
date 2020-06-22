@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/22/coronavirus-global-report-new-covid-19-cases-surge-south-korea-israel"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
-        "link": "https://www.bbc.com/news/world-latin-america-53132225"
+        "title": "'The U.S. has hamstrung itself': How America became the new Italy on coronavirus",
+        "link": "https://www.politico.com/news/2020/06/22/united-states-italy-traded-places-coronavirus-333122"
     },
     {
         "title": "Four charts show how India's coronavirus lockdown affected its economy",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
-        "title": "South Korea says it is battling 'second wave'",
-        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
+        "title": "1400 corona cases at a meat factory: Is Germany unable to get working conditions under control?",
+        "link": "https://www.youtube.com/watch?v=SHaBsb-0LEs"
     },
     {
-        "title": "Brazil's COVID-19 crisis spirals out of control",
-        "link": "https://www.youtube.com/watch?v=DZ8-KDg2uJM"
+        "title": "Coronavirus is getting weaker, could disappear without vaccine, doctor suggests",
+        "link": "https://whdh.com/news/coronavirus-is-getting-weaker-could-disappear-without-vaccine-doctor-suggests/"
     },
     {
         "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
