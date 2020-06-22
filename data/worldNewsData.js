@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jun/22/the-power-of-volume-africa-unites-to-lower-cost-of-covid-19-tests-and-ppe"
     },
     {
-        "title": "Brazil and the U.S. Drive New Coronavirus Infections",
-        "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
+        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
+        "link": "https://www.bbc.com/news/world-latin-america-53132225"
     },
     {
-        "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
+        "title": "Health Ministry D-G: 'I don't think we should close down'",
+        "link": "https://www.jpost.com/israel-news/health-ministry-d-g-israel-does-not-need-to-lockdown-632290"
     },
     {
         "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "Coronavirus updates: WHO records biggest one-day increase in global cases",
-        "link": "https://www.bbc.com/news/live/world-53132774"
+        "title": "WHO reports largest single-day increase in coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
-        "link": "https://www.bbc.com/news/world-latin-america-53132225"
+        "title": "Germany coronavirus: Extra police enforce German tower block quarantine",
+        "link": "https://www.bbc.com/news/world-europe-53131941"
     },
     {
         "title": "Live updates: More than two dozen states report coronavirus surges as Trump administration prepares for possible second wave",
