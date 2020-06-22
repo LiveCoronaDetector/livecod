@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
-        "title": "Live Global Coronavirus News: White House Says It’s Bracing for an Autumn Wave",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-live-updates.html"
+        "title": "Live Global Coronavirus News",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
-        "title": "Virus Cases Surge In U.S., India, But Slow In China, Korea",
-        "link": "https://www.huffpost.com/entry/virus-cases-surge-in-us-india-but-slow-in-china-korea_n_5ef07653c5b6532b509758d2"
+        "title": "South Korea says it is battling 'second wave'",
+        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
     },
     {
         "title": "Brazil's COVID-19 crisis spirals out of control",

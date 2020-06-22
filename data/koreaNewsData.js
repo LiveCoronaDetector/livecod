@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200622_0001068927&cID=10899&pID=10800"
     },
     {
-        "title": "코로나19 통제에 불만 폭발했나…독일서 수백명 폭동(종합)",
-        "link": "http://yna.kr/AKR20200622159251082?did=1195m"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 17명...지역발생 11명",
         "link": "https://www.sedaily.com/NewsView/1Z44JJ6M5V"
+    },
+    {
+        "title": "코로나19 통제에 불만 폭발했나…독일서 수백명 폭동(종합)",
+        "link": "http://yna.kr/AKR20200622159251082?did=1195m"
     },
     {
         "title": "대전 22일 오전 코로나19 2명 추가 확진",
