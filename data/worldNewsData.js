@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jun/22/the-power-of-volume-africa-unites-to-lower-cost-of-covid-19-tests-and-ppe"
     },
     {
-        "title": "Live Global Coronavirus News",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
+        "title": "Young people in the US South and West are increasingly getting coronavirus",
+        "link": "https://www.cnn.com/2020/06/22/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "Global report: South Korea has Covid-19 second wave as Israel ponders new lockdown",
@@ -25,11 +25,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
-        "title": "Coronavirus is getting weaker, could disappear without vaccine, doctor suggests",
-        "link": "https://whdh.com/news/coronavirus-is-getting-weaker-could-disappear-without-vaccine-doctor-suggests/"
-    },
-    {
-        "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
+        "title": "Coronavirus: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/coronavirus-cases-climbing-u-s-brazil-germany-after-biggest-global-n1231684"
     },
     {
-        "title": "Brazil and the U.S. Drive New Coronavirus Infections",
-        "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
+        "title": "Half of US states see coronavirus surge as officials warn first wave far from over",
+        "link": "https://www.theguardian.com/world/2020/jun/22/us-coronavirus-spikes-first-wave-not-over"
+    },
+    {
+        "title": "WHO reports biggest one-day rise in coronavirus cases to date",
+        "link": "https://www.cbsnews.com/news/coronavirus-cases-daily-record-world-health-organization/"
     }
 ];

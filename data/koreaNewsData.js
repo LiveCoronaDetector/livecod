@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200622_0001068927&cID=10899&pID=10800"
     },
     {
+        "title": "美 10개주서 신규 확진자 최대치…\"코로나 산불처럼 번져\"",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/23/2020062390015.html"
+    },
+    {
         "title": "코로나19 통제에 불만 폭발했나…독일서 수백명 폭동(종합)",
         "link": "http://yna.kr/AKR20200622159251082?did=1195m"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200622077900004?did=1195m"
     },
     {
+        "title": "\"전세계 코로나19 누적 확진자 900만명 돌파\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/23/2020062300563.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "영국 코로나19 신규 확진자 1천명 밑으로…봉쇄조치 이후 최소",
         "link": "http://yna.kr/AKR20200623003300085?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진자 17명…6월 들어 첫 10명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006221012001&code=940601"
-    },
-    {
-        "title": "제주서 코로나19로 자가격리하던 20대 여성 숨진 채 발견",
-        "link": "https://www.ytn.co.kr/_ln/0115_202006221206289462"
     }
 ];
