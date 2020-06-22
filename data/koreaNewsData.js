@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z44JJ6M5V"
     },
     {
-        "title": "코로나19 통제에 불만 폭발했나…독일서 수백명 폭동(종합)",
-        "link": "http://yna.kr/AKR20200622159251082?did=1195m"
-    },
-    {
         "title": "대전 22일 오전 코로나19 2명 추가 확진",
         "link": "http://www.fnnews.com/news/202006221015274303"
     },
     {
         "title": "박원순 \"한달 후 하루 확진자 800여명 우려\"",
         "link": "http://yna.kr/AKR20200622077900004?did=1195m"
+    },
+    {
+        "title": "코로나19 통제에 불만 폭발했나…독일서 수백명 폭동(종합)",
+        "link": "http://yna.kr/AKR20200622159251082?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 17명…6월 들어 첫 10명대",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202006221206289462"
     },
     {
-        "title": "WHO \"코로나19 일일 신규 확진자 역대 최고 18만3천명\"",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5817999_32640.html"
+        "title": "영국 코로나19 신규 확진자 1천명 밑으로…봉쇄조치 이후 최소",
+        "link": "http://yna.kr/AKR20200623003300085?did=1195m"
     },
     {
-        "title": "전세계 코로나19 신규확진자 사상 최고 경신...18만3000명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062200398.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "WHO \"코로나19 일일 신규 확진자 역대 최고 18만3천명\"",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5817999_32640.html"
     }
 ];
