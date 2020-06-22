@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
-        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
-        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
+        "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
+        "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
     },
     {
         "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
         "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
+    },
+    {
+        "title": "WHO reports highest single-day increase in confirmed coronavirus cases",
+        "link": "https://www.axios.com/coronavirus-cases-record-world-health-organization-ceb13820-2dcd-4044-8e16-68850e0a38f6.html"
     }
 ];

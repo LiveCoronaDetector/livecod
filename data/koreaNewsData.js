@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200621057900054?did=1195m"
     },
     {
-        "title": "[단독] 브라질 코로나19 통계 축소 의혹 증폭···\"실제 감염자 600만명\"",
-        "link": "https://www.sedaily.com/NewsView/1Z44IPKS6W"
-    },
-    {
         "title": "베이징 코로나19 확진자 22명 늘어…열흘 만에 227명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/21/2020062190021.html"
+    },
+    {
+        "title": "[단독] 브라질 코로나19 통계 축소 의혹 증폭···\"실제 감염자 600만명\"",
+        "link": "https://www.sedaily.com/NewsView/1Z44IPKS6W"
     },
     {
         "title": "임상위 “코로나19 중증 환자에 ‘렘데시비르’ 투여” 공식 권고",
