@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014716515&code=61131811&cp=nv"
     },
     {
-        "title": "이낙연 \"호남 코로나19 대책 모범적…미래 산업으로 이후 준비\"(종합)",
-        "link": "http://yna.kr/AKR20200622110751055?did=1195m"
-    },
-    {
         "title": "대전 22일 오전 코로나19 2명 추가 확진",
         "link": "http://www.fnnews.com/news/202006221015274303"
+    },
+    {
+        "title": "이낙연 \"호남 코로나19 대책 모범적…미래 산업으로 이후 준비\"(종합)",
+        "link": "http://yna.kr/AKR20200622110751055?did=1195m"
     }
 ];

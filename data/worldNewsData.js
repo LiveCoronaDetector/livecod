@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/coronavirus-in-israels-cities-where-is-the-virus-spreading-the-most-632361"
     },
     {
-        "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
-        "link": "https://www.foxnews.com/world/italian-doctor-says-coronavirus-weakening-may-disappear-on-its-own-report"
+        "title": "Spain lifts national state of emergency after 3-month coronavirus lockdown",
+        "link": "https://www.cbsnews.com/news/coronavirus-spain-lockdown-lifted-national-state-emergency/"
     },
     {
         "title": "Four charts show how India's coronavirus lockdown affected its economy",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "WHO reports largest single-day increase in coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
-    },
-    {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "Peter Navarro: Trump call to slow Covid-19 testing was 'tongue-in-cheek'",
-        "link": "https://www.theguardian.com/us-news/2020/jun/21/peter-navarro-trump-covid-19-testing"
+        "title": "Why Trump Is Both Right and Wrong About U.S. Coronavirus Testing Numbers",
+        "link": "https://www.newsweek.com/why-trump-right-wrong-about-us-coronavirus-testing-1512472"
     },
     {
-        "title": "Germany's coronavirus reproduction rate soars after massive outbreak at meat plant",
-        "link": "https://www.cnn.com/2020/06/22/europe/germany-coronavirus-reproduction-rate-intl-grm/index.html"
+        "title": "Virus cases surge in US, India, but slow in China, Korea",
+        "link": "https://www.yahoo.com/lifestyle/virus-cases-surge-us-worldwide-060039038.html"
+    },
+    {
+        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
+        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
     }
 ];
