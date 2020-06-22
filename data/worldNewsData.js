@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/21/coronavirus-is-weakening-could-disappear-on-its-own-italian-doctor/"
     },
     {
-        "title": "Are more women dying of Covid-19 in India?",
-        "link": "https://www.bbc.com/news/world-asia-india-53104634"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/22/latest_news/1592786332_067685.html"
     },
     {
         "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
-        "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
+        "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
+        "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
         "title": "WHO reports highest single-day increase in confirmed coronavirus cases",
         "link": "https://www.axios.com/coronavirus-cases-record-world-health-organization-ceb13820-2dcd-4044-8e16-68850e0a38f6.html"
     },
     {
-        "title": "Germany coronavirus: Extra police enforce German tower block quarantine",
-        "link": "https://www.bbc.com/news/world-europe-53131941"
+        "title": "COVID-19 surge in South, Southwest poses growing threat",
+        "link": "https://www.latimes.com/politics/story/2020-06-21/covid-19-surge-in-south-and-southwest-poses-threat"
     },
     {
-        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
-        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
+        "title": "Germany coronavirus: Extra police enforce German tower block quarantine",
+        "link": "https://www.bbc.com/news/world-europe-53131941"
     }
 ];
