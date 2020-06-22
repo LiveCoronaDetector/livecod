@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/22/coronavirus-global-report-new-covid-19-cases-surge-south-korea-israel"
     },
     {
-        "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
-        "link": "https://www.foxnews.com/world/italian-doctor-says-coronavirus-weakening-may-disappear-on-its-own-report"
+        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
+        "link": "https://www.bbc.com/news/world-latin-america-53132225"
     },
     {
         "title": "Four charts show how India's coronavirus lockdown affected its economy",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.huffpost.com/entry/virus-cases-surge-in-us-india-but-slow-in-china-korea_n_5ef07653c5b6532b509758d2"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
-        "link": "https://www.bbc.com/news/world-latin-america-53132225"
+        "title": "WHO warns of 'accelerating' pandemic as Brazil reaches 50,000 deaths",
+        "link": "https://news.yahoo.com/warns-accelerating-pandemic-brazil-reaches-50-000-deaths-131501173.html"
     },
     {
-        "title": "WHO reports largest single-day increase in coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
+        "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
+        "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     }
 ];
