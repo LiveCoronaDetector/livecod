@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
+        "title": "Live Global Coronavirus News: White House Says It’s Bracing for an Autumn Wave",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-live-updates.html"
+    },
+    {
         "title": "Threat of Brazil military coup unfounded, retired generals say",
         "link": "https://www.reuters.com/article/us-brazil-politics-military-analysis/threat-of-brazil-military-coup-unfounded-retired-generals-say-idUSKBN23T1JW"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus live news: WHO reports record daily global case increase; New York shops and bars reopen",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
-    },
-    {
-        "title": "World Health Organization Reports Largest Single-Day Increase in Coronavirus Cases",
-        "link": "https://time.com/5856953/world-health-organization-coronavirus-largest-daily-spike/"
     }
 ];

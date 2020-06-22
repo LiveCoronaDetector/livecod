@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006221015274303"
     },
     {
-        "title": "수도권-대전 방판업체 6곳 확진자 총 254명…리치웨이 4명 추가(종합)",
-        "link": "http://yna.kr/AKR20200622103551530?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 17명…6월 들어 첫 10명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006221012001&code=940601"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "대전시, 동선 숨긴 코로나19 확진자 고발... “방역 방해”",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500043&wlog_tag3=naver"
+    },
+    {
+        "title": "보건당국, 해외유입 확진자 심상찮자 비자 제한 '초강수'",
+        "link": "https://www.hankyung.com/life/article/2020062226107"
     }
 ];
