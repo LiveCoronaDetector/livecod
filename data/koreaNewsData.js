@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006221035128899"
     },
     {
-        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
-        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
-    },
-    {
-        "title": "베이징 코로나 집단감염 240명 육박, 신규 확진 9명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014716515&code=61131811&cp=nv"
-    },
-    {
         "title": "코로나19 신규 확진자 17명…6월 들어 첫 10명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006221012001&code=940601"
     },
@@ -21,23 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200622077900004?did=1195m"
     },
     {
-        "title": "전세계 코로나19 신규확진자 사상 최고 경신...18만3000명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062200398.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
+        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
-        "title": "대전 코로나19 신규 확진자 2명 추가",
-        "link": "http://www.daejonilbo.com/news/newsitem.asp?pk_no=1427834"
+        "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
+        "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
-        "title": "제주서 코로나19로 자가격리하던 20대 여성 숨진 채 발견",
-        "link": "https://www.ytn.co.kr/_ln/0115_202006221206289462"
+        "title": "해열제 먹으며 제주 여행한 안산 확진자… 제주도 ‘손배 소송’",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014717077&code=61121911&cp=nv"
+    },
+    {
+        "title": "베이징 11일째 코로나 집단감염…누적 확진 240명 육박(종합)",
+        "link": "http://yna.kr/AKR20200622063200083?did=1195m"
     },
     {
         "title": "대전시, 동선 숨긴 코로나19 확진자 고발... “방역 방해”",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500043&wlog_tag3=naver"
     },
     {
-        "title": "[속보] GKL 본사 확진자와 접촉한 직원 42명, 전원 음성 판정",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200622000689"
+        "title": "보건당국, 해외유입 확진자 심상찮자 비자 제한 '초강수'",
+        "link": "https://www.hankyung.com/life/article/2020062226107"
+    },
+    {
+        "title": "전세계 코로나19 신규확진자 사상 최고 경신...18만3000명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062200398.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
