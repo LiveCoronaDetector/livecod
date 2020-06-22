@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
-        "title": "Brazil's COVID-19 crisis spirals out of control",
-        "link": "https://www.youtube.com/watch?v=DZ8-KDg2uJM"
+        "title": "South Korea says it is battling 'second wave'",
+        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
     },
     {
-        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
-        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
+        "title": "Brazil's COVID-19 crisis spirals out of control",
+        "link": "https://www.youtube.com/watch?v=DZ8-KDg2uJM"
     },
     {
         "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
