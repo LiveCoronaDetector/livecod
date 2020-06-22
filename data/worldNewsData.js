@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/22/latest_news/1592805052_928188.html"
     },
     {
-        "title": "Live updates: More than two dozen states report coronavirus surges as Trump administration prepares for possible second wave",
-        "link": "https://www.washingtonpost.com/nation/2020/06/22/coronavirus-live-updates-us/"
+        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
+        "link": "https://www.bbc.com/news/world-latin-america-53132225"
     },
     {
-        "title": "What happened on Santorini when the tourism 'machine' stopped",
-        "link": "https://www.cnn.com/travel/article/santorini-tourism-coronavirus/index.html"
+        "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/brazil-passes-1-million-coronavirus-cases-live-updates-200620000614904.html"
     },
     {
         "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
+        "title": "Brazil coronavirus death toll nears 50000",
+        "link": "https://www.youtube.com/watch?v=_MC3NNRgbEE"
+    },
+    {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=ccwyE_0fvrg"
     },
     {
-        "title": "WHO records largest single-day increase in confirmed COVID-19 cases",
-        "link": "https://theweek.com/speedreads/921375/who-records-largest-singleday-increase-confirmed-covid19-cases"
-    },
-    {
-        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
-        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
+        "title": "WHO reports largest single-day increase in coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
     }
 ];
