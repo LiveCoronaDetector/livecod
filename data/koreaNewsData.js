@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z44IPKS6W"
     },
     {
+        "title": "베이징 코로나19 확진자 22명 늘어…열흘 만에 227명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/21/2020062190021.html"
+    },
+    {
         "title": "임상위 “코로나19 중증 환자에 ‘렘데시비르’ 투여” 공식 권고",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200621500065&wlog_tag3=naver"
     },
@@ -23,10 +27,6 @@ var koreaNewsData = [
     {
         "title": "중대본 \"수도권 밖으로 코로나19 감염 확산…상황 매우 엄중\"(종합)",
         "link": "http://yna.kr/AKR20200621045651530?did=1195m"
-    },
-    {
-        "title": "베이징 코로나19 확진자 22명 늘어…열흘 만에 227명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/21/2020062190021.html"
     },
     {
         "title": "광주에서 20일 코로나19 33번째 확진자 발생…전주 확진자와 ‘접촉’",

@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
-        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
+        "title": "Coronavirus live news: World Health Organization reports record daily global case increase",
+        "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
         "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
         "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
     },
     {
-        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
-        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
+        "title": "Trump back in rally form in Tulsa, but the promised crowd doesn't show",
+        "link": "https://news.yahoo.com/trump-back-in-rally-form-in-tulsa-but-the-promised-crowd-doesnt-show-014255164.html"
     },
     {
-        "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
-        "link": "https://www.independent.co.uk/news/world/americas/us-election/trump-rally-speech-tonight-coronavirus-testing-tulsa-covid-19-a9577576.html"
+        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
+        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
     }
 ];
