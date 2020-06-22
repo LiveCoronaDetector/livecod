@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/coronavirus-in-israels-cities-where-is-the-virus-spreading-the-most-632361"
     },
     {
-        "title": "Spain lifts national state of emergency after 3-month coronavirus lockdown",
-        "link": "https://www.cbsnews.com/news/coronavirus-spain-lockdown-lifted-national-state-emergency/"
+        "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
+        "link": "https://www.foxnews.com/world/italian-doctor-says-coronavirus-weakening-may-disappear-on-its-own-report"
     },
     {
         "title": "Four charts show how India's coronavirus lockdown affected its economy",
         "link": "https://www.cnbc.com/2020/06/22/economic-impact-of-indias-coronavirus-lockdown-in-four-charts.html"
     },
     {
-        "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
-        "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
+        "title": "Coronavirus: South Korea confirms second wave of infections",
+        "link": "https://www.bbc.com/news/world-asia-53135626"
+    },
+    {
+        "title": "Coronavirus live updates: South Korea sees 'second wave;' WHO reports record spike in global cases",
+        "link": "https://www.cnbc.com/2020/06/22/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "Why Trump Is Both Right and Wrong About U.S. Coronavirus Testing Numbers",
-        "link": "https://www.newsweek.com/why-trump-right-wrong-about-us-coronavirus-testing-1512472"
+        "title": "Brazil coronavirus death toll nears 50000",
+        "link": "https://www.youtube.com/watch?v=_MC3NNRgbEE"
     },
     {
-        "title": "Virus cases surge in US, India, but slow in China, Korea",
-        "link": "https://www.yahoo.com/lifestyle/virus-cases-surge-us-worldwide-060039038.html"
-    },
-    {
-        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
-        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
+        "title": "Global report: China suspends US poultry imports from Covid-19-affected business",
+        "link": "https://www.theguardian.com/world/2020/jun/22/china-suspends-us-poultry-imports-from-covid-19-affected-business"
     }
 ];
