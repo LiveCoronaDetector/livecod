@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jun/22/the-power-of-volume-africa-unites-to-lower-cost-of-covid-19-tests-and-ppe"
     },
     {
-        "title": "Graph shows stark difference in US and EU responses to Covid-19",
-        "link": "https://www.cnn.com/videos/us/2020/06/22/united-states-europe-coronavirus-covid-19-pandemic-comparison-sanjay-gupta-ldn-vpx.cnn"
+        "title": "Live Global Coronavirus News",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
         "title": "Global report: South Korea has Covid-19 second wave as Israel ponders new lockdown",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
-        "title": "South Korea says it is battling 'second wave'",
-        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
-    },
-    {
-        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
-        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
+        "title": "Coronavirus is getting weaker, could disappear without vaccine, doctor suggests",
+        "link": "https://whdh.com/news/coronavirus-is-getting-weaker-could-disappear-without-vaccine-doctor-suggests/"
     },
     {
         "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
-        "link": "https://www.bbc.com/news/world-latin-america-53132225"
+        "title": "Coronavirus cases climbing in US, Brazil and Germany after biggest global one-day rise",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-cases-climbing-u-s-brazil-germany-after-biggest-global-n1231684"
+    },
+    {
+        "title": "Brazil and the U.S. Drive New Coronavirus Infections",
+        "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
     }
 ];
