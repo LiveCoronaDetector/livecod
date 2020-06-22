@@ -13,16 +13,20 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "코로나19 증상 있는데도 해열제 복용 제주관광 강행",
-        "link": "http://www.fnnews.com/news/202006221519151261"
-    },
-    {
-        "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
-        "link": "https://news.joins.com/article/olink/23401744"
+        "title": "[속보] 제주서 자가격리 20대 극단적선택 \"방글라데시 확진자 접촉\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006220205&t=NN"
     },
     {
         "title": "제주서 자가격리 하던 코로나19 접촉자 20대 극단적 선택",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4476185&ref=A"
+    },
+    {
+        "title": "코로나 격리 제주 20대 여성 사망 \"평소 우울증 앓아\"",
+        "link": "http://www.fnnews.com/news/202006221123390755"
+    },
+    {
+        "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
+        "link": "https://www.hankyung.com/life/article/2020062242417"
     },
     {
         "title": "제주서 코로나 격리중 20대 여성 숨진 채 발견",
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     },
     {
-        "title": "제주서 코로나 격리 20대 여성 사망…'우울증' 있었다는데(상보)",
-        "link": "https://www.news1.kr/articles/?3972382"
-    },
-    {
-        "title": "제주 자가격리 중 극단적 선택 20대 여성, 코로나19 음성판정",
-        "link": "http://www.newsis.com/view/?id=NISX20200622_0001068583&cID=10899&pID=10800"
+        "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

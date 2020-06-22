@@ -278,7 +278,7 @@ var marker = [
         "Name_en": "Poland",
         "확진자수": 31931,
         "사망자수": 1356,
-        "완치자수": 16683
+        "완치자수": 17076
     },
     {
         "Name": "스위스",
@@ -372,9 +372,9 @@ var marker = [
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "확진자수": 20778,
-        "사망자수": 306,
-        "완치자수": 15694
+        "확진자수": 20869,
+        "사망자수": 307,
+        "완치자수": 15714
     },
     {
         "Name": "아르메니아",
@@ -993,6 +993,14 @@ var marker = [
         "완치자수": 347
     },
     {
+        "Name": "팔레스타인",
+        "Name_ch": "巴勒斯坦",
+        "Name_en": "Palestine",
+        "확진자수": 915,
+        "사망자수": 3,
+        "완치자수": 439
+    },
+    {
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
@@ -1047,14 +1055,6 @@ var marker = [
         "확진자수": 855,
         "사망자수": 52,
         "완치자수": 792
-    },
-    {
-        "Name": "팔레스타인",
-        "Name_ch": "巴勒斯坦",
-        "Name_en": "Palestine",
-        "확진자수": 833,
-        "사망자수": 3,
-        "완치자수": 439
     },
     {
         "Name": "Uganda",
@@ -1449,20 +1449,20 @@ var marker = [
         "완치자수": 32
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "확진자수": 63,
+        "사망자수": 0,
+        "완치자수": 21
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
         "확진자수": 60,
         "사망자수": 0,
         "완치자수": 60
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "확진자수": 55,
-        "사망자수": 0,
-        "완치자수": 19
     },
     {
         "Name": "마카오",
@@ -1617,6 +1617,14 @@ var marker = [
         "완치자수": 12
     },
     {
+        "Name": "Lesotho",
+        "Name_ch": "",
+        "Name_en": "Lesotho",
+        "확진자수": 12,
+        "사망자수": 0,
+        "완치자수": 2
+    },
+    {
         "Name": "Montserrat",
         "Name_ch": "",
         "Name_en": "Montserrat",
@@ -1679,14 +1687,6 @@ var marker = [
         "확진자수": 6,
         "사망자수": 0,
         "완치자수": 6
-    },
-    {
-        "Name": "Lesotho",
-        "Name_ch": "",
-        "Name_en": "Lesotho",
-        "확진자수": 4,
-        "사망자수": 0,
-        "완치자수": 2
     },
     {
         "Name": "Anguilla",
