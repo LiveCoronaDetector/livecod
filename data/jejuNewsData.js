@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5364588"
     },
     {
-        "title": "안산시민 확진자 택시 이용…추가조사 실시",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4476081&ref=A"
+        "title": "(1보) 제주서 코로나19로 격리 중이던 20대女 숨진 채 발견",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166197"
     }
 ];

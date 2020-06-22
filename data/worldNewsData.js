@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/21/coronavirus-is-weakening-could-disappear-on-its-own-italian-doctor/"
     },
     {
-        "title": "Coronavirus, not border clash, to top agenda at China-India-Russia talks",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3089908/coronavirus-not-border-clash-top-agenda-china-india-russia"
+        "title": "Are more women dying of Covid-19 in India?",
+        "link": "https://www.bbc.com/news/world-asia-india-53104634"
     },
     {
         "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "White House announces plans for ‘2020 Salute to America’ July 4th celebration",
-        "link": "https://fox8.com/news/white-house-announces-plans-for-2020-salute-to-america-july-4th-celebration/"
+        "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
+        "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
     },
     {
-        "title": "Florida and South Carolina Again Set Records as U.S. Coronavirus Cases Surge",
-        "link": "https://www.nytimes.com/2020/06/20/world/coronavirus-updates.html"
+        "title": "WHO reports highest single-day increase in confirmed coronavirus cases",
+        "link": "https://www.axios.com/coronavirus-cases-record-world-health-organization-ceb13820-2dcd-4044-8e16-68850e0a38f6.html"
     },
     {
-        "title": "Coronavirus live news: World Health Organization reports record daily global case increase",
-        "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
+        "title": "Germany coronavirus: Extra police enforce German tower block quarantine",
+        "link": "https://www.bbc.com/news/world-europe-53131941"
     },
     {
         "title": "Trump says he asked for coronavirus testing to be slowed down because there were so many cases",
