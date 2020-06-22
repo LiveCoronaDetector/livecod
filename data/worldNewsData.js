@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jun/22/the-power-of-volume-africa-unites-to-lower-cost-of-covid-19-tests-and-ppe"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
-        "link": "https://www.bbc.com/news/world-latin-america-53132225"
+        "title": "Coronavirus cases surge in U.S. and Brazil as Germany reports more outbreaks, but markets don't seem worried",
+        "link": "https://www.cnbc.com/2020/06/22/coronavirus-cases-surge-in-us-brazil-and-rise-in-germany.html"
     },
     {
         "title": "Coronavirus in Israel's cities: Where is the virus spreading the most?",
         "link": "https://www.jpost.com/health-science/coronavirus-in-israels-cities-where-is-the-virus-spreading-the-most-632361"
     },
     {
-        "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
-        "link": "https://www.foxnews.com/world/italian-doctor-says-coronavirus-weakening-may-disappear-on-its-own-report"
+        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
+        "link": "https://www.bbc.com/news/world-latin-america-53132225"
     },
     {
         "title": "Four charts show how India's coronavirus lockdown affected its economy",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
-        "title": "Coronavirus live updates: South Korea sees 'second wave;' WHO reports record spike in global cases",
-        "link": "https://www.cnbc.com/2020/06/22/coronavirus-live-updates.html"
+        "title": "Virus Cases Surge In U.S., India, But Slow In China, Korea",
+        "link": "https://www.huffpost.com/entry/virus-cases-surge-in-us-india-but-slow-in-china-korea_n_5ef07653c5b6532b509758d2"
     },
     {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=_MC3NNRgbEE"
     },
     {
-        "title": "Global report: China suspends US poultry imports from Covid-19-affected business",
-        "link": "https://www.theguardian.com/world/2020/jun/22/china-suspends-us-poultry-imports-from-covid-19-affected-business"
+        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
+        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
     }
 ];
