@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.axios.com/coronavirus-cases-record-world-health-organization-ceb13820-2dcd-4044-8e16-68850e0a38f6.html"
     },
     {
-        "title": "COVID-19 surge in South, Southwest poses growing threat",
-        "link": "https://www.latimes.com/politics/story/2020-06-21/covid-19-surge-in-south-and-southwest-poses-threat"
+        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
+        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
     },
     {
-        "title": "Germany coronavirus: Extra police enforce German tower block quarantine",
-        "link": "https://www.bbc.com/news/world-europe-53131941"
+        "title": "Sick staff and empty seats: How Trump's triumphant return to the campaign trail went from bad to worse",
+        "link": "https://www.cnn.com/2020/06/21/politics/trump-campaign-trail-coronavirus/index.html"
     }
 ];
