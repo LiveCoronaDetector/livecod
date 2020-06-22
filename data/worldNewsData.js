@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-53132225"
     },
     {
-        "title": "Coronavirus Israel live: Netanyahu weighs 'dramatic' steps as cases spike",
-        "link": "https://www.haaretz.com/israel-news/coronavirus-live-government-agency-warns-against-events-in-closed-spaces-1.8936142"
+        "title": "Coronavirus in Israel's cities: Where is the virus spreading the most?",
+        "link": "https://www.jpost.com/health-science/coronavirus-in-israels-cities-where-is-the-virus-spreading-the-most-632361"
     },
     {
         "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
     },
     {
-        "title": "Brazil coronavirus death toll nears 50000",
-        "link": "https://www.youtube.com/watch?v=_MC3NNRgbEE"
-    },
-    {
-        "title": "White House's Navarro 'never heard' Trump ask China's Xi for help winning election",
-        "link": "https://news.yahoo.com/white-houses-navarro-never-heard-140218082.html"
-    },
-    {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
+    },
+    {
+        "title": "Peter Navarro: Trump call to slow Covid-19 testing was 'tongue-in-cheek'",
+        "link": "https://www.theguardian.com/us-news/2020/jun/21/peter-navarro-trump-covid-19-testing"
+    },
+    {
+        "title": "Germany's coronavirus reproduction rate soars after massive outbreak at meat plant",
+        "link": "https://www.cnn.com/2020/06/22/europe/germany-coronavirus-reproduction-rate-intl-grm/index.html"
     }
 ];

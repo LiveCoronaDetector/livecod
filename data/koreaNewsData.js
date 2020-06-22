@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202006221206289462"
     },
     {
-        "title": "中 베이징 확진자 240명 육박...9일 만에 한 자릿수",
-        "link": "http://www.fnnews.com/news/202006221359316053"
+        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
+        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "대전서 코로나19 확진자 2명 추가…n차감염 어디까지",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014716779&code=61122015&cp=nv"
+        "title": "베이징 코로나 집단감염 240명 육박, 신규 확진 9명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014716515&code=61131811&cp=nv"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 17명...지역발생 11명",
-        "link": "https://www.sedaily.com/NewsView/1Z44JJ6M5V"
+        "title": "이낙연 \"호남 코로나19 대책 모범적…미래 산업으로 이후 준비\"(종합)",
+        "link": "http://yna.kr/AKR20200622110751055?did=1195m"
     },
     {
-        "title": "대전시, 동선 숨긴 코로나19 확진자 고발... “방역 방해”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500043&wlog_tag3=naver"
+        "title": "대전 22일 오전 코로나19 2명 추가 확진",
+        "link": "http://www.fnnews.com/news/202006221015274303"
     }
 ];
