@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/22/coronavirus-global-report-new-covid-19-cases-surge-south-korea-israel"
     },
     {
-        "title": "'The U.S. has hamstrung itself': How America became the new Italy on coronavirus",
-        "link": "https://www.politico.com/news/2020/06/22/united-states-italy-traded-places-coronavirus-333122"
+        "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
+        "link": "https://www.foxnews.com/world/italian-doctor-says-coronavirus-weakening-may-disappear-on-its-own-report"
     },
     {
         "title": "Four charts show how India's coronavirus lockdown affected its economy",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=SHaBsb-0LEs"
     },
     {
-        "title": "Coronavirus is getting weaker, could disappear without vaccine, doctor suggests",
-        "link": "https://whdh.com/news/coronavirus-is-getting-weaker-could-disappear-without-vaccine-doctor-suggests/"
+        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
+        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
     },
     {
         "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "WHO reports largest single-day increase in coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
+        "title": "Live updates: 29 states report coronavirus spikes as government prepares for possible second wave",
+        "link": "https://www.washingtonpost.com/nation/2020/06/22/coronavirus-live-updates-us/"
     }
 ];

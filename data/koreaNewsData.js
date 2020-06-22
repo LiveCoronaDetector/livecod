@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623002200109?did=1195m"
     },
     {
+        "title": "WHO “韓, 코로나 잘 통제 중…확진자 수 매우 안정”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987349?division=NAVER"
+    },
+    {
         "title": "부산항 코로나19 집단감염…러시아 선원 16명 확진(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200622_0001068927&cID=10899&pID=10800"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "WHO \"코로나19 일일 신규 확진자 역대 최고 18만3천명\"",
         "link": "https://imnews.imbc.com/news/2020/world/article/5817999_32640.html"
-    },
-    {
-        "title": "전세계 코로나19 신규확진자 사상 최고 경신...18만3000명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062200398.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
