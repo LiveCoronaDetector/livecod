@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/22/coronavirus-global-report-new-covid-19-cases-surge-south-korea-israel"
     },
     {
-        "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
-        "link": "https://www.foxnews.com/world/italian-doctor-says-coronavirus-weakening-may-disappear-on-its-own-report"
+        "title": "‘The U.S. has hamstrung itself’: How America became the new Italy on coronavirus",
+        "link": "https://www.politico.com/news/2020/06/22/united-states-italy-traded-places-coronavirus-333122"
     },
     {
-        "title": "Four charts show how India's coronavirus lockdown affected its economy",
-        "link": "https://www.cnbc.com/2020/06/22/economic-impact-of-indias-coronavirus-lockdown-in-four-charts.html"
+        "title": "Global coronavirus cases top 9 million as outbreak surges in Brazil, India",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-cases/global-coronavirus-cases-top-9-million-as-outbreak-surges-in-brazil-india-idUSKBN23T279"
     },
     {
-        "title": "Coronavirus: South Korea confirms second wave of infections",
-        "link": "https://www.bbc.com/news/world-asia-53135626"
-    },
-    {
-        "title": "1400 corona cases at a meat factory: Is Germany unable to get working conditions under control?",
-        "link": "https://www.youtube.com/watch?v=SHaBsb-0LEs"
-    },
-    {
-        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
-        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
+        "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
+        "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
         "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "Live updates: 29 states report coronavirus spikes as government prepares for possible second wave",
-        "link": "https://www.washingtonpost.com/nation/2020/06/22/coronavirus-live-updates-us/"
+        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
+        "link": "https://www.bbc.com/news/world-latin-america-53132225"
+    },
+    {
+        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
+        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
+    },
+    {
+        "title": "Brazil and the U.S. Drive New Coronavirus Infections",
+        "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
     }
 ];
