@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Threat of Brazil military coup unfounded, retired generals say",
-        "link": "https://www.reuters.com/article/us-brazil-politics-military-analysis/threat-of-brazil-military-coup-unfounded-retired-generals-say-idUSKBN23T1JW"
+        "title": "Brazil's COVID-19 crisis spirals out of control",
+        "link": "https://www.youtube.com/watch?v=DZ8-KDg2uJM"
     },
     {
         "title": "Virus Cases Surge In U.S., India, But Slow In China, Korea",
         "link": "https://www.huffpost.com/entry/virus-cases-surge-in-us-india-but-slow-in-china-korea_n_5ef07653c5b6532b509758d2"
     },
     {
-        "title": "Coronavirus live news: WHO reports record daily global case increase; New York shops and bars reopen",
-        "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
+        "title": "White House Preparing For 2nd Wave Of Coronavirus As 12 States Hit Daily Records | TODAY",
+        "link": "https://www.youtube.com/watch?v=E6lXkGXFbCo"
     }
 ];

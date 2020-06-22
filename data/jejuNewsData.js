@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
-        "title": "제주서 코로나 격리중 20대 여성 숨진 채 발견",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/22/2020062202240.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
         "link": "https://news.joins.com/article/olink/23401744"
     },
     {
         "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
         "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
+    },
+    {
+        "title": "제주서 코로나 격리 20대 여성 사망…'우울증' 있었다는데(상보)",
+        "link": "https://www.news1.kr/articles/?3972382"
     }
 ];
