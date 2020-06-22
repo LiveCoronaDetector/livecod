@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/italian-doctor-says-coronavirus-weakening-may-disappear-on-its-own-report"
     },
     {
-        "title": "Many Indian citizens believe their government is trying to steal and sell their data. Here's why",
-        "link": "https://www.cnn.com/2020/06/21/tech/india-privacy-app-hnk-intl/index.html"
+        "title": "Four charts show how India's coronavirus lockdown affected its economy",
+        "link": "https://www.cnbc.com/2020/06/22/economic-impact-of-indias-coronavirus-lockdown-in-four-charts.html"
     },
     {
         "title": "Recovered Covid-19 patients might be defenceless against mutation, study says",
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-22-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "Jake Tapper: Once again, Trump is revealing this",
-        "link": "https://www.youtube.com/watch?v=udd4Zjiv4vA"
+        "title": "Germany struggles to impose local lockdowns as coronavirus infections spike",
+        "link": "https://www.msn.com/en-us/news/world/germany-struggles-to-impose-local-lockdowns-as-coronavirus-infections-spike/ar-BB15N82n"
     },
     {
-        "title": "WHO reports largest single-day increase in coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
-    },
-    {
-        "title": "Daughter speaks out after her father dies of Covid-19: 'It was preventable'",
-        "link": "https://www.theguardian.com/world/2020/jun/21/covid-19-arizona-daughter-speaks-out-father-dies"
+        "title": "Jake Tapper pushes back on White House adviser's coronavirus claim",
+        "link": "https://www.youtube.com/watch?v=ccwyE_0fvrg"
     }
 ];
