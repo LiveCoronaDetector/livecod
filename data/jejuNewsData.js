@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단 선택",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005847566&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "코로나19 증상 있는데도 해열제 복용 제주관광 강행",
         "link": "http://www.fnnews.com/news/202006221519151261"
     },
@@ -27,6 +23,10 @@ var jejuNewsData = [
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
+        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
