@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/22/coronavirus-global-report-new-covid-19-cases-surge-south-korea-israel"
     },
     {
-        "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
-        "link": "https://www.bbc.com/news/world-latin-america-53132225"
+        "title": "Germany's coronavirus reproduction rate soars after massive outbreak at meat plant",
+        "link": "https://www.cnn.com/2020/06/22/europe/germany-coronavirus-reproduction-rate-intl-grm/index.html"
     },
     {
         "title": "Four charts show how India's coronavirus lockdown affected its economy",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Brazil's COVID-19 crisis spirals out of control",
-        "link": "https://www.youtube.com/watch?v=DZ8-KDg2uJM"
-    },
-    {
         "title": "Virus Cases Surge In U.S., India, But Slow In China, Korea",
         "link": "https://www.huffpost.com/entry/virus-cases-surge-in-us-india-but-slow-in-china-korea_n_5ef07653c5b6532b509758d2"
     },
     {
-        "title": "White House Preparing For 2nd Wave Of Coronavirus As 12 States Hit Daily Records | TODAY",
-        "link": "https://www.youtube.com/watch?v=E6lXkGXFbCo"
+        "title": "WHO warns of 'accelerating' pandemic as Brazil reaches 50,000 deaths",
+        "link": "https://news.yahoo.com/warns-accelerating-pandemic-brazil-reaches-50-000-deaths-131501173.html"
+    },
+    {
+        "title": "WHO reports largest single-day increase in coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
     }
 ];
