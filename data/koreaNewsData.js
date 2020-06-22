@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z44JJ6M5V"
     },
     {
-        "title": "박원순 \"한달 후 하루 확진자 800여명 우려\"",
-        "link": "http://yna.kr/AKR20200622077900004?did=1195m"
-    },
-    {
         "title": "대전 22일 오전 코로나19 2명 추가 확진",
         "link": "http://www.fnnews.com/news/202006221015274303"
+    },
+    {
+        "title": "박원순 \"한달 후 하루 확진자 800여명 우려\"",
+        "link": "http://yna.kr/AKR20200622077900004?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 17명…6월 들어 첫 10명대",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5817999_32640.html"
     },
     {
-        "title": "대전시, 동선 숨긴 코로나19 확진자 고발... “방역 방해”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500043&wlog_tag3=naver"
+        "title": "전세계 코로나19 신규확진자 사상 최고 경신...18만3000명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062200398.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

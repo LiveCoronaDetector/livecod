@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.huffpost.com/entry/virus-cases-surge-in-us-india-but-slow-in-china-korea_n_5ef07653c5b6532b509758d2"
     },
     {
-        "title": "WHO warns of 'accelerating' pandemic as Brazil reaches 50,000 deaths",
-        "link": "https://news.yahoo.com/warns-accelerating-pandemic-brazil-reaches-50-000-deaths-131501173.html"
+        "title": "Brazil's COVID-19 crisis spirals out of control",
+        "link": "https://www.youtube.com/watch?v=DZ8-KDg2uJM"
     },
     {
         "title": "Coronavirus live news: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million",
