@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5364588"
     },
     {
-        "title": "비수도권 확진자 사흘새 2배로…대전발 '전국 확산' 시작됐나",
-        "link": "https://www.news1.kr/articles/?3971743"
+        "title": "안산시민 확진자 택시 이용…추가조사 실시",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4476081&ref=A"
     }
 ];

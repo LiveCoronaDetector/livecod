@@ -9,12 +9,28 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200621057900054?did=1195m"
     },
     {
-        "title": "베이징 코로나19 확진자 22명 늘어…열흘 만에 227명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/21/2020062190021.html"
+        "title": "WHO \"코로나 하루 신규확진자 역대 최대, 18만3000명\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/22/2020062200614.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "보건당국, 해외유입 확진자 심상찮자 비자 제한 '초강수'",
+        "link": "https://www.hankyung.com/life/article/2020062226107"
+    },
+    {
+        "title": "[속보] 해외유입 확진자 지난주 90명…\"직전 1주의 배 수준\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006220072&t=NN"
     },
     {
         "title": "[단독] 브라질 코로나19 통계 축소 의혹 증폭···\"실제 감염자 600만명\"",
         "link": "https://www.sedaily.com/NewsView/1Z44IPKS6W"
+    },
+    {
+        "title": "코스피, 코로나19 재확산 우려에 하락…2,130선 등락(종합)",
+        "link": "http://yna.kr/AKR20200622030151002?did=1195m"
+    },
+    {
+        "title": "베이징 코로나19 확진자 22명 늘어…열흘 만에 227명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/21/2020062190021.html"
     },
     {
         "title": "임상위 “코로나19 중증 환자에 ‘렘데시비르’ 투여” 공식 권고",
@@ -23,21 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 확진자 48명 추가…지역 40명·해외유입 8명",
         "link": "https://www.donga.com/news/article/all/20200621/101611702/1"
-    },
-    {
-        "title": "중대본 \"수도권 밖으로 코로나19 감염 확산…상황 매우 엄중\"(종합)",
-        "link": "http://yna.kr/AKR20200621045651530?did=1195m"
-    },
-    {
-        "title": "광주에서 20일 코로나19 33번째 확진자 발생…전주 확진자와 ‘접촉’",
-        "link": "http://www.hani.co.kr/arti/area/honam/950214.html"
-    },
-    {
-        "title": "\"코로나 종식? 비현실적...50세 미만 경증은 입원 필요없어\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/21/2020062100861.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "코로나19 신규 확진자 48명 늘어...산발적 집단 감염",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006211201591555"
     }
 ];
