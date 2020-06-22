@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jun/22/the-power-of-volume-africa-unites-to-lower-cost-of-covid-19-tests-and-ppe"
     },
     {
-        "title": "Live updates: More than two dozen states report coronavirus surges as Trump administration prepares for possible second wave",
-        "link": "https://www.washingtonpost.com/nation/2020/06/22/coronavirus-live-updates-us/"
+        "title": "Brazil and the U.S. Drive New Coronavirus Infections",
+        "link": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html"
     },
     {
         "title": "Spain PM urges caution as coronavirus movement limit lifts: Live",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "WHO records largest single-day increase in confirmed COVID-19 cases",
-        "link": "https://theweek.com/speedreads/921375/who-records-largest-singleday-increase-confirmed-covid19-cases"
-    },
-    {
-        "title": "White House adviser: Trump administration preparing for possible second wave of coronavirus in the fall",
-        "link": "https://www.cnn.com/2020/06/21/politics/trump-administration-preparing-coronavirus-second-wave-cnntv/index.html"
+        "title": "Coronavirus updates: WHO records biggest one-day increase in global cases",
+        "link": "https://www.bbc.com/news/live/world-53132774"
     },
     {
         "title": "Coronavirus: Brazil becomes second country to pass 50,000 deaths",
         "link": "https://www.bbc.com/news/world-latin-america-53132225"
+    },
+    {
+        "title": "Live updates: More than two dozen states report coronavirus surges as Trump administration prepares for possible second wave",
+        "link": "https://www.washingtonpost.com/nation/2020/06/22/coronavirus-live-updates-us/"
     },
     {
         "title": "Coronavirus live news: WHO reports record daily global case increase as known infections pass 8.9m",

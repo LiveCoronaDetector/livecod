@@ -13,12 +13,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062200398.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합]신규 확진자 17명...6월 들어 처음 10명대",
-        "link": "http://www.fnnews.com/news/202006221035128899"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 17명...지역발생 11명",
-        "link": "https://www.sedaily.com/NewsView/1Z44JJ6M5V"
+        "title": "코로나19 신규 확진자 17명…6월 들어 첫 10명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006221012001&code=940601"
     },
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014716515&code=61131811&cp=nv"
     },
     {
-        "title": "수도권-대전 방판업체 6곳 확진자 총 254명…리치웨이 4명 추가(종합)",
-        "link": "http://yna.kr/AKR20200622103551530?did=1195m"
+        "title": "대전 22일 오전 코로나19 2명 추가 확진",
+        "link": "http://www.fnnews.com/news/202006221015274303"
     },
     {
-        "title": "제주서 코로나19로 자가격리하던 20대 여성 숨진 채 발견",
-        "link": "https://www.ytn.co.kr/_ln/0115_202006221206289462"
+        "title": "[속보] GKL 본사 확진자와 접촉한 직원 42명, 전원 음성 판정",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200622000689"
     },
     {
-        "title": "박원순 “최근 추세라면 한달 뒤엔 하루 확진자 800명”",
-        "link": "http://www.hani.co.kr/arti/area/capital/950411.html"
+        "title": "대전시, 동선 숨긴 코로나19 확진자 고발... “방역 방해”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500043&wlog_tag3=naver"
+    },
+    {
+        "title": "코로나19 신규 확진자 17명…이달 들어 첫 10명대",
+        "link": "http://www.hani.co.kr/arti/society/health/950354.html"
     }
 ];
