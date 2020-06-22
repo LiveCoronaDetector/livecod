@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014718115&code=61121211&cp=nv"
     },
     {
-        "title": "제주서 격리 중 숨진 20대 관광객 \"평소 우울증\"…코로나19 음성 판정",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020062217082252037"
-    },
-    {
         "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
         "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
     },
     {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
         "link": "https://news.joins.com/article/olink/23401744"
+    },
+    {
+        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     }
 ];

@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006221015274303"
     },
     {
-        "title": "제주서 코로나19로 자가격리하던 20대 여성 숨진 채 발견",
-        "link": "https://www.ytn.co.kr/_ln/0115_202006221206289462"
+        "title": "대전시, 동선 숨긴 코로나19 확진자 고발... “방역 방해”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500043&wlog_tag3=naver"
     },
     {
-        "title": "제주서 코로나 격리중 20대 여성 숨진 채 발견",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/22/2020062202240.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "코로나19 신규 확진자 17명…이달 들어 첫 10명대",
+        "link": "http://www.hani.co.kr/arti/society/health/950354.html"
     }
 ];
