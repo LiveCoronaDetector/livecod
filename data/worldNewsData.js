@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     },
     {
-        "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
-        "link": "https://www.foxnews.com/world/italian-doctor-says-coronavirus-weakening-may-disappear-on-its-own-report"
+        "title": "South Korea says it is battling 'second wave'",
+        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
     },
     {
-        "title": "Half of US states see coronavirus surge as officials warn first wave far from over",
-        "link": "https://www.theguardian.com/world/2020/jun/22/us-coronavirus-spikes-first-wave-not-over"
+        "title": "Coronavirus cases climbing in US, Brazil and Germany after biggest global one-day rise",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-cases-climbing-u-s-brazil-germany-after-biggest-global-n1231684"
     }
 ];

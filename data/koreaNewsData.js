@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006231014401853"
     },
     {
-        "title": "코로나 확진 46명…해외유입 30명 폭증·지역발생 16명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/23/2020062301416.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "WHO \"한국, 코로나19 통제 조치 잘 조정 중\"(종합)",
         "link": "http://yna.kr/AKR20200623001851088?did=1195m"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z450B8TDD"
     },
     {
-        "title": "코로나19 신규 확진자 46명···해외유입 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231013001&code=940601"
-    },
-    {
         "title": "'코로나19' 국내 신규 확진자 46명...해외유입이 30명",
         "link": "https://www.ytn.co.kr/_ln/0103_202006231031470672"
+    },
+    {
+        "title": "대전서 5명 더 코로나19 확진…사우나·상가 등서 확진자 접촉",
+        "link": "http://yna.kr/AKR20200623056700063?did=1195m"
+    },
+    {
+        "title": "文대통령 “코로나, 통제 범위…자신 있게 말씀드린다”(상보)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02338646625804672"
     }
 ];
