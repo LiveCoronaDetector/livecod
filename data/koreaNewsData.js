@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3974138"
     },
     {
-        "title": "남아공 코로나19 누적 확진 10만명 넘어서(종합)",
-        "link": "http://yna.kr/AKR20200623165051099?did=1195m"
-    },
-    {
         "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
         "link": "http://www.fnnews.com/news/202006231433278998"
+    },
+    {
+        "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
     }
 ];
