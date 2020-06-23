@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "Live updates: Coronavirus cases are rising in most states, but many leaders still insist on lifting restrictions",
-        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
+        "title": "America Is Too Broken to Fight the Coronavirus",
+        "link": "https://www.nytimes.com/2020/06/22/opinion/us-coronavirus-trump.html"
     },
     {
         "title": "Global report: South Korea has Covid-19 second wave as Israel ponders new lockdown",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53133843"
     },
     {
-        "title": "White House scrambles to deny Trump trade adviser's claim that China deal is 'over'",
-        "link": "https://www.theguardian.com/world/2020/jun/23/china-trade-deal-is-over-says-white-house-adviser-navarro-amid-coronavirus-anger"
+        "title": "Coronavirus: South Korea confirms second wave of infections",
+        "link": "https://www.bbc.com/news/world-asia-53135626"
+    },
+    {
+        "title": "University of Michigan to Drop Out as Presidential Debate Host",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus live news: Saudi Arabia closes borders to hajj attendees as global Covid-19 cases pass 9m",
         "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     },
     {
-        "title": "Coronavirus cases surge in U.S. and Brazil as Germany reports more outbreaks, but markets don't seem worried",
-        "link": "https://www.cnbc.com/2020/06/22/coronavirus-cases-surge-in-us-brazil-and-rise-in-germany.html"
+        "title": "Coronavirus latest: German reproduction rate spikes 60% in a day",
+        "link": "https://www.dw.com/en/coronavirus-latest-german-reproduction-rate-spikes-60-in-a-day/a-53886880"
     },
     {
         "title": "WHO reports biggest one-day rise in coronavirus cases to date",
         "link": "https://www.cbsnews.com/news/coronavirus-cases-daily-record-world-health-organization/"
-    },
-    {
-        "title": "Coronavirus cases top 9 million as WHO says pandemic is accelerating",
-        "link": "https://www.scmp.com/news/world/europe/article/3090157/coronavirus-worldwide-cases-top-9-million-who-pushes-more-life"
     }
 ];

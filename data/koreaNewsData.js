@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623056700063?did=1195m"
     },
     {
-        "title": "\"코로나 확진자 없다\" 제출 서류만 믿다 부산항 검역망 뚫려",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "文대통령, 박원순·이재명 불러 \"코로나 안정 수도권에 달려\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200623_0001070036&cID=10301&pID=10300"
     },
     {
         "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
     },
     {
-        "title": "文대통령, 박원순·이재명 불러 \"코로나 안정 수도권에 달려\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200623_0001070036&cID=10301&pID=10300"
-    },
-    {
-        "title": "중국 베이징 12일째 코로나19 초비상…확진자 250명 육박",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005848545&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
         "link": "http://www.fnnews.com/news/202006231433278998"
+    },
+    {
+        "title": "신천지 \"코로나 완치자 4천명 혈장 공여\"",
+        "link": "http://yna.kr/AKR20200623118500005?did=1195m"
     },
     {
         "title": "신천지 대구교회 \"코로나 완치 신도 4000명 혈장 공여하겠다\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/23/2020062303166.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "WHO “韓, 코로나 잘 통제 중…확진자 수 매우 안정”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000987349?division=NAVER"
+        "title": "[대전] 밤새 확진자 6명 발생 \"상황 엄중, 일주일이 중대기로\"",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002652402&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "文대통령 \"코로나19 통제 관리·범위 안에 있다\"",
-        "link": "https://www.pressian.com/pages/articles/2020062311014351835?utm_source=naver&utm_medium=search"
+        "title": "[단독]서울 영등포 건보공단 콜센터에서 코로나19 확진…직원 전원 검사 후 귀...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231611001&code=940702"
+    },
+    {
+        "title": "WHO “韓, 코로나 잘 통제 중…확진자 수 매우 안정”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987349?division=NAVER"
     }
 ];
