@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/22/coronavirus-global-report-new-covid-19-cases-surge-south-korea-israel"
     },
     {
-        "title": "‘The U.S. has hamstrung itself’: How America became the new Italy on coronavirus",
-        "link": "https://www.politico.com/news/2020/06/22/united-states-italy-traded-places-coronavirus-333122"
+        "title": "Germany scrambles to contain coronavirus outbreak at slaughterhouse; more than 1,300 infected",
+        "link": "https://www.foxnews.com/world/germany-contain-coronavirus-outbreak-slaughterhouse"
     },
     {
         "title": "Global coronavirus cases top 9 million as outbreak surges in Brazil, India",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
+        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
+        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
+    },
+    {
+        "title": "Coronavirus latest: German reproduction rate spikes 60% in a day",
+        "link": "https://www.dw.com/en/coronavirus-latest-german-reproduction-rate-spikes-60-in-a-day/a-53886880"
+    },
+    {
         "title": "Coronavirus: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
     },
     {
-        "title": "Coronavirus cases climbing in US, Brazil and Germany after biggest global one-day rise",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-cases-climbing-u-s-brazil-germany-after-biggest-global-n1231684"
-    },
-    {
-        "title": "Half of US states see coronavirus surge as officials warn first wave far from over",
-        "link": "https://www.theguardian.com/world/2020/jun/22/us-coronavirus-spikes-first-wave-not-over"
-    },
-    {
-        "title": "WHO reports biggest one-day rise in coronavirus cases to date",
-        "link": "https://www.cbsnews.com/news/coronavirus-cases-daily-record-world-health-organization/"
+        "title": "WHO reports largest single-day increase in coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
     }
 ];

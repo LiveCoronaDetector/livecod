@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
-        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
+        "title": "제주서 코로나19 자가격리하던 20대 여성 숨진 채 발견",
+        "link": "https://www.ytn.co.kr/_ln/0115_202006221643005172"
     },
     {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
         "link": "https://news.joins.com/article/olink/23401744"
     },
     {
-        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
+        "title": "제주도, 해열제 복용하며 여행한 안산시 확진자에 손해배상 소송",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500053&wlog_tag3=naver"
     },
     {
-        "title": "제주서 코로나 격리 20대 여성 사망…'우울증' 있었다는데(상보)",
-        "link": "https://www.news1.kr/articles/?3972382"
+        "title": "제주서 코로나 격리중 20대 여성 숨진 채 발견",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/22/2020062202240.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

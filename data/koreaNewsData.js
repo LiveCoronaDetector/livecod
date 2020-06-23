@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623001851088?did=1195m"
     },
     {
+        "title": "부산항 코로나19 집단감염…러시아 선원 16명 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200622_0001068927&cID=10899&pID=10800"
+    },
+    {
         "title": "\"전 세계 코로나19 확진자 900만명 넘었다\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006230006&t=NN"
     },
     {
-        "title": "부산항 코로나19 집단감염…러시아 선원 16명 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200622_0001068927&cID=10899&pID=10800"
+        "title": "뉴욕증시, 코로나19 재확산 우려에도 상승…나스닥 사상 최고치",
+        "link": "http://news.tf.co.kr/read/economy/1798757.htm"
     },
     {
         "title": "美 10개주서 신규 확진자 최대치…\"코로나 산불처럼 번져\"",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "박원순 \"한달 후 하루 확진자 800여명 우려\"",
         "link": "http://yna.kr/AKR20200622077900004?did=1195m"
-    },
-    {
-        "title": "\"전세계 코로나19 누적 확진자 900만명 돌파\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/23/2020062300563.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "영국 코로나19 신규 확진자 1천명 밑으로…봉쇄조치 이후 최소",
