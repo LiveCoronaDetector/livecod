@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     },
     {
-        "title": "Live Global Coronavirus News: Anthony Fauci to Testify",
+        "title": "Live Global Coronavirus News: Novak Djokovic Tests Positive",
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Fugaku, the world's fastest computer, is researching the spread of Covid-19",
-        "link": "https://www.cnn.com/2020/06/23/tech/fugaku-fastest-supercomputer-covid-hnk-intl/index.html"
+        "title": "WHO reports biggest one-day rise in coronavirus cases to date",
+        "link": "https://www.cbsnews.com/news/coronavirus-cases-daily-record-world-health-organization/"
     }
 ];
