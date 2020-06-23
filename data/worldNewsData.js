@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "America Is Too Broken to Fight the Coronavirus",
-        "link": "https://www.nytimes.com/2020/06/22/opinion/us-coronavirus-trump.html"
+        "title": "Bars, Strip Clubs and Churches: U.S. Virus Outbreaks Enter Unwieldy Phase",
+        "link": "https://www.nytimes.com/2020/06/22/us/new-coronavirus-phase.html"
     },
     {
         "title": "Global report: South Korea has Covid-19 second wave as Israel ponders new lockdown",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     },
     {
-        "title": "Coronavirus latest: German reproduction rate spikes 60% in a day",
-        "link": "https://www.dw.com/en/coronavirus-latest-german-reproduction-rate-spikes-60-in-a-day/a-53886880"
+        "title": "South Korea says it is battling 'second wave'",
+        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
     },
     {
-        "title": "WHO reports biggest one-day rise in coronavirus cases to date",
-        "link": "https://www.cbsnews.com/news/coronavirus-cases-daily-record-world-health-organization/"
+        "title": "Coronavirus cases top 9 million as WHO says pandemic is accelerating",
+        "link": "https://www.scmp.com/news/world/europe/article/3090157/coronavirus-worldwide-cases-top-9-million-who-pushes-more-life"
     }
 ];
