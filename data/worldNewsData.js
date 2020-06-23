@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "Live updates: FDA warns against hand sanitizers that contain the toxic substance methanol",
-        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
         "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=q6zGkk2rB5M"
     },
     {
-        "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
-        "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
+        "title": "Japanese supercomputer, crowned world's fastest, is fighting coronavirus",
+        "link": "https://www.bbc.com/news/world-asia-53147684"
     },
     {
         "title": "Coronavirus Live Updates: U.S. Accounts for 20% of New Cases Globally",
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
-        "title": "Japanese supercomputer, crowned world's fastest, is fighting coronavirus",
-        "link": "https://www.bbc.com/news/world-asia-53147684"
+        "title": "Coronavirus live news: French app alerts only 14 people in three weeks; judge orders Bolsonaro to wear mask",
+        "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     }
 ];

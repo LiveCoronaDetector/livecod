@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623056700063?did=1195m"
     },
     {
-        "title": "\"코로나 확진자 없다\" 제출 서류만 믿다 부산항 검역망 뚫려",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "신천지 \"코로나 완치자 4천명 혈장 공여\"",
+        "link": "http://yna.kr/AKR20200623118500005?did=1195m"
     },
     {
-        "title": "[단독]서울 영등포 건보공단 콜센터에서 코로나19 확진…직원 전원 검사 후 귀...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231611001&code=940702"
+        "title": "\"코로나 확진자 없다\" 제출 서류만 믿다 부산항 검역망 뚫려",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
         "link": "http://www.fnnews.com/news/202006231433278998"
     },
     {
-        "title": "'코로나 심각' 수도권 '등교인원 3분의 1 이하' 무기한 연장(종합)",
-        "link": "https://www.news1.kr/articles/?3974138"
-    },
-    {
-        "title": "[단독] 이시언, 코로나19 의료진 도움 요청 응답한 유일한 연예인",
-        "link": "https://www.hankyung.com/entertainment/article/202006238036H"
-    },
-    {
-        "title": "신천지 \"코로나 완치자 4천명 혈장 공여\"",
-        "link": "http://yna.kr/AKR20200623118500005?did=1195m"
-    },
-    {
-        "title": "‘코로나19’ 신규 확진자 46명…“해외유입 30명·지역발생 16명”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4477144&ref=A"
-    },
-    {
-        "title": "신천지 대구교회 \"코로나 완치 신도 4000명 혈장 공여하겠다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/23/2020062303166.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규 확진자 46명···해외유입 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231013001&code=940601"
     },
     {
         "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
         "link": "http://www.hani.co.kr/arti/society/health/950540.html"
+    },
+    {
+        "title": "WHO “韓, 코로나 잘 통제 중…확진자 수 매우 안정”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987349?division=NAVER"
+    },
+    {
+        "title": "[단독]서울 영등포 건보공단 콜센터에서 코로나19 확진…직원 전원 검사 후 귀...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231611001&code=940702"
+    },
+    {
+        "title": "'코로나 심각' 수도권 '등교인원 3분의 1 이하' 무기한 연장(종합)",
+        "link": "https://www.news1.kr/articles/?3974138"
+    },
+    {
+        "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
     }
 ];
