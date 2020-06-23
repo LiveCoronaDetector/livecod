@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "America Is Too Broken to Fight the Coronavirus",
-        "link": "https://www.nytimes.com/2020/06/22/opinion/us-coronavirus-trump.html"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
         "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "Live: Fauci, CDC chief testify on coronavirus response | NBC News",
-        "link": "https://www.youtube.com/watch?v=xcCeTlnjCbM"
+        "title": "WATCH: Fauci testifies in House hearing on coronavirus response",
+        "link": "https://www.youtube.com/watch?v=q6zGkk2rB5M"
     },
     {
-        "title": "World No. 1 Novak Djokovic tests positive for the coronavirus",
-        "link": "https://www.tennis.com/pro-game/2020/06/world-no-1-novak-djokovic-tests-positive-coronavirus/89329/"
+        "title": "Japanese supercomputer, crowned world's fastest, is fighting coronavirus",
+        "link": "https://www.bbc.com/news/world-asia-53147684"
     },
     {
         "title": "University of Michigan to Drop Out as Presidential Debate Host",
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
-        "title": "Japanese supercomputer, crowned world's fastest, is fighting coronavirus",
-        "link": "https://www.bbc.com/news/world-asia-53147684"
+        "title": "Coronavirus live news: Brazilian judge orders Bolsonaro to wear mask; German district put in local lockdown",
+        "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     }
 ];
