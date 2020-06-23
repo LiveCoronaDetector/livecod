@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53133843"
     },
     {
-        "title": "Coronavirus: South Korea confirms second wave of infections",
-        "link": "https://www.bbc.com/news/world-asia-53135626"
+        "title": "White House scrambles to deny Trump trade adviser's claim that China deal is 'over'",
+        "link": "https://www.theguardian.com/world/2020/jun/23/china-trade-deal-is-over-says-white-house-adviser-navarro-amid-coronavirus-anger"
     },
     {
         "title": "Live Global Coronavirus News",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     },
     {
-        "title": "Coronavirus cases climbing in US, Brazil and Germany after biggest global one-day rise",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-cases-climbing-u-s-brazil-germany-after-biggest-global-n1231684"
+        "title": "Coronavirus cases surge in U.S. and Brazil as Germany reports more outbreaks, but markets don't seem worried",
+        "link": "https://www.cnbc.com/2020/06/22/coronavirus-cases-surge-in-us-brazil-and-rise-in-germany.html"
     },
     {
         "title": "WHO reports biggest one-day rise in coronavirus cases to date",

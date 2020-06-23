@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006231014401853"
     },
     {
-        "title": "대전서 5명 더 코로나19 확진…사우나·상가 등서 확진자 접촉",
-        "link": "http://yna.kr/AKR20200623056700063?did=1195m"
-    },
-    {
         "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
+    },
+    {
+        "title": "대전서 확진자 다녀간 사우나 방문객 등 5명 더 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200623056751063?did=1195m"
+    },
+    {
+        "title": "[단독] 확진자 병동만 쏙 빼고 소독… 구로구 병원 ‘황당’",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014722793&code=61121111&cp=nv"
     },
     {
         "title": "6월 23일 ‘코로나19’ 전세계 확진자 899만명…입국금지·검역 조치 182개국...",
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020062311014351835?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "러시아 선박 코로나19 확진자 밀접접촉 61명으로 늘어",
-        "link": "https://www.sedaily.com/NewsView/1Z450B8TDD"
+        "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
+        "link": "http://www.hani.co.kr/arti/society/health/950540.html"
     },
     {
         "title": "'코로나19' 국내 신규 확진자 46명...해외유입이 30명",
         "link": "https://www.ytn.co.kr/_ln/0103_202006231031470672"
     },
     {
-        "title": "감천항 러 선원 확진자 16명, 부산의료원 이송(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5365776"
-    },
-    {
-        "title": "문 대통령, “코로나 현 상황 통제 범위 안에 있다고 자신”",
-        "link": "http://www.hani.co.kr/arti/politics/bluehouse/950557.html"
-    },
-    {
         "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
         "link": "http://www.fnnews.com/news/202006231433278998"
+    },
+    {
+        "title": "대전서 5명 더 코로나19 확진…사우나·상가 등서 확진자 접촉",
+        "link": "http://yna.kr/AKR20200623056700063?did=1195m"
     }
 ];
