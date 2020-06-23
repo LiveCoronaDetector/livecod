@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=_KQdEWefW2o"
     },
     {
-        "title": "India allows religious festival to go ahead in 'limited' capacity as coronavirus cases surge",
-        "link": "https://www.cnn.com/2020/06/23/asia/india-coronavirus-rath-yatra-intl-hnk-scli/index.html"
+        "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
+        "link": "https://www.washingtonpost.com/opinions/2020/06/23/an-exploding-coronavirus-crisis-shows-modi-is-not-up-task-leading-india/"
     },
     {
         "title": "Live Stock Market Updates During the Coronavirus Pandemic",
         "link": "https://www.nytimes.com/2020/06/23/business/stock-market-today-coronavirus.html"
     },
     {
-        "title": "Dr. Fauci responds to Trump's comment about slowing coronavirus testing",
-        "link": "https://www.youtube.com/watch?v=uKtbQ6fewrA"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
         "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
         "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
     },
     {
-        "title": "University of Michigan to Drop Out as Presidential Debate Host",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
-    },
-    {
         "title": "Countries around the world scramble to contain coronavirus flare-ups as U.S. states remain open",
         "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
+    },
+    {
+        "title": "American Travelers Likely Won’t Be Allowed Into EU Anytime Soon",
+        "link": "https://skift.com/2020/06/23/american-travelers-likely-wont-be-allowed-into-eu-anytime-soon/"
     }
 ];
