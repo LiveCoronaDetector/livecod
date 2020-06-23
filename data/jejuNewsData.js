@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
-        "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
-        "link": "https://news.joins.com/article/olink/23401744"
-    },
-    {
         "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
         "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
+    },
+    {
+        "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
+        "link": "https://news.joins.com/article/olink/23401744"
     },
     {
         "title": "'발생 155일' 봇물 터진 '코로나 소송'…서초동 '뉴노멀'?",
