@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/business/stock-market-today-coronavirus.html"
     },
     {
-        "title": "Fauci says institutional racism contributes to coronavirus impact in black communities",
-        "link": "https://www.foxnews.com/politics/fauci-says-institutional-racism-contributes-to-coronavirus-impacting-black-communities"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
         "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
         "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
     },
     {
-        "title": "American Travelers Likely Won’t Be Allowed Into EU Anytime Soon",
-        "link": "https://skift.com/2020/06/23/american-travelers-likely-wont-be-allowed-into-eu-anytime-soon/"
-    },
-    {
         "title": "Countries around the world scramble to contain coronavirus flare-ups as U.S. states remain open",
         "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
+    },
+    {
+        "title": "European Union eyes tariffs on American coal, farm goods over trade dispute",
+        "link": "https://nypost.com/2020/06/23/european-union-eyes-tariffs-on-american-coal-farm-goods/"
     }
 ];
