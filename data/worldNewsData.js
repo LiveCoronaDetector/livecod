@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "Live Global Coronavirus News: Anthony Fauci to Testify",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "University of Michigan to Drop Out as Presidential Debate Host",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus live news: German district placed in local lockdown after meat plant outbreak",
         "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     },
     {
-        "title": "University of Michigan to Drop Out as Presidential Debate Host",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
+        "title": "Live Global Coronavirus News: Anthony Fauci to Testify",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
         "title": "Fugaku, the world's fastest computer, is researching the spread of Covid-19",
