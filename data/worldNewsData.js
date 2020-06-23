@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "Live updates: Fauci to testify before Congress on U.S. coronavirus response as states continue to lift restrictions",
-        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
+        "title": "Bars, Strip Clubs and Churches: U.S. Virus Outbreaks Enter Unwieldy Phase",
+        "link": "https://www.nytimes.com/2020/06/22/us/new-coronavirus-phase.html"
     },
     {
         "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3089983/coronavirus-recovered-chinese-patients-may-be-defenceless"
     },
     {
-        "title": "Live Global Coronavirus News: Novak Djokovic Tests Positive",
+        "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
