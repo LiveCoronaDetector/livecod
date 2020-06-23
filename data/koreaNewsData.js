@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623001851088?did=1195m"
     },
     {
+        "title": "미국 증시, 나스닥 사상 최고...애플·MS, 코로나 공포 잠재워",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006230015&t=NN"
+    },
+    {
         "title": "부산항 코로나19 집단감염…러시아 선원 16명 확진(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200622_0001068927&cID=10899&pID=10800"
     },
@@ -13,16 +17,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/23/2020062300563.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 17명...지역발생 11명",
-        "link": "https://www.sedaily.com/NewsView/1Z44JJ6M5V"
-    },
-    {
         "title": "부산항 입항 러시아 선박에서 코로나19 집단 확진자 발생",
         "link": "http://www.kwnews.co.kr/view.asp?aid=220062200146&s=501"
     },
     {
+        "title": "[속보]코로나19 신규 확진자 17명...지역발생 11명",
+        "link": "https://www.sedaily.com/NewsView/1Z44JJ6M5V"
+    },
+    {
         "title": "美 10개주서 신규 확진자 최대치…\"코로나 산불처럼 번져\"",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/23/2020062390015.html"
+    },
+    {
+        "title": "(2보)철원서 코로나19 확진자 1명 발생...현재 역학조사 진행 중",
+        "link": "http://www.kwnews.co.kr/view.asp?aid=220062200145&s=501"
     },
     {
         "title": "대전 22일 오전 코로나19 2명 추가 확진",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "박원순 \"한달 후 하루 확진자 800여명 우려\"",
         "link": "http://yna.kr/AKR20200622077900004?did=1195m"
-    },
-    {
-        "title": "미국 증시, 나스닥 사상 최고...애플·MS, 코로나 공포 잠재워",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006230015&t=NN"
-    },
-    {
-        "title": "영국 코로나19 신규 확진자 1천명 밑으로…봉쇄조치 이후 최소",
-        "link": "http://yna.kr/AKR20200623003300085?did=1195m"
     }
 ];
