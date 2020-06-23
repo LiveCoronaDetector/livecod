@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "Coronavirus: Germany outbreak sparks fresh local lockdown",
-        "link": "https://www.bbc.com/news/world-europe-53149762"
+        "title": "Germany scrambles to contain coronavirus outbreak at slaughterhouse; more than 1,300 infected",
+        "link": "https://www.foxnews.com/world/germany-contain-coronavirus-outbreak-slaughterhouse"
     },
     {
-        "title": "India allows religious festival to go ahead in 'limited' capacity as coronavirus cases surge",
-        "link": "https://www.cnn.com/2020/06/23/asia/india-coronavirus-rath-yatra-intl-hnk-scli/index.html"
+        "title": "How Asia's biggest slum contained the coronavirus",
+        "link": "https://www.bbc.com/news/world-asia-india-53133843"
     },
     {
         "title": "Coronavirus: South Korea confirms second wave of infections",
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
-        "title": "University of Michigan to Drop Out as Presidential Debate Host",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
+        "title": "Live Global Coronavirus News: Anthony Fauci to Testify",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus live news: German district placed in local lockdown after meat plant outbreak",
         "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     },
     {
-        "title": "Coronavirus cases surge in U.S. and Brazil as Germany reports more outbreaks, but markets don't seem worried",
-        "link": "https://www.cnbc.com/2020/06/22/coronavirus-cases-surge-in-us-brazil-and-rise-in-germany.html"
+        "title": "University of Michigan to Drop Out as Presidential Debate Host",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
-        "title": "South Korea says it is battling 'second wave'",
-        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
+        "title": "Fugaku, the world's fastest computer, is researching the spread of Covid-19",
+        "link": "https://www.cnn.com/2020/06/23/tech/fugaku-fastest-supercomputer-covid-hnk-intl/index.html"
     }
 ];
