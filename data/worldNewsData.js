@@ -9,24 +9,24 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
     },
     {
-        "title": "Gov’t: Elad, parts of Tiberias ‘restricted,’ coronavirus cases soar",
-        "link": "https://www.jpost.com/israel-news/israel-tops-5000-coronavirus-patients-377-newly-infected-in-last-day-632487"
+        "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
+        "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
         "title": "American Travelers Won’t Be Allowed Into EU Anytime Soon",
         "link": "https://skift.com/2020/06/23/american-travelers-wont-be-allowed-into-eu-anytime-soon/"
     },
     {
-        "title": "How Asia's biggest slum contained the coronavirus",
-        "link": "https://www.bbc.com/news/world-asia-india-53133843"
+        "title": "India allows religious festival to go ahead in 'limited' capacity as coronavirus cases surge",
+        "link": "https://www.cnn.com/2020/06/23/asia/india-coronavirus-rath-yatra-intl-hnk-scli/index.html"
     },
     {
-        "title": "In Fight to Ban Dog Meat, China's Activists Find an Ally: The Coronavirus",
-        "link": "https://www.nytimes.com/2020/06/23/world/asia/china-dog-meat.html"
+        "title": "Live Stock Market Updates During the Coronavirus Pandemic",
+        "link": "https://www.nytimes.com/2020/06/23/business/stock-market-today-coronavirus.html"
     },
     {
-        "title": "WATCH: Fauci testifies in House hearing on coronavirus response",
-        "link": "https://www.youtube.com/watch?v=q6zGkk2rB5M"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
         "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
