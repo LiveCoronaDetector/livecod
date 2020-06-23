@@ -9,14 +9,6 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "文대통령, 박원순·이재명 불러 \"코로나 안정 수도권에 달려\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200623_0001070036&cID=10301&pID=10300"
-    },
-    {
-        "title": "文대통령 \"코로나19 통제 관리·범위 안에 있다\"",
-        "link": "https://www.pressian.com/pages/articles/2020062311014351835?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
         "link": "http://www.fnnews.com/news/202006231433278998"
     },
@@ -25,19 +17,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623118500005?did=1195m"
     },
     {
-        "title": "[대전] 밤새 확진자 6명 발생 \"상황 엄중, 일주일이 중대기로\"",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002652402&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "코로나19 신규 확진자 46명···해외유입 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231013001&code=940601"
     },
     {
-        "title": "[단독]서울 영등포 건보공단 콜센터에서 코로나19 확진…직원 전원 검사 후 귀...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231611001&code=940702"
+        "title": "'코로나 심각' 수도권 '등교인원 3분의 1 이하' 무기한 연장(종합)",
+        "link": "https://www.news1.kr/articles/?3974138"
     },
     {
-        "title": "‘코로나19’ 신규 확진자 46명…“해외유입 30명·지역발생 16명”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4477144&ref=A"
+        "title": "文대통령, 박원순·이재명 불러 \"코로나 안정 수도권에 달려\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200623_0001070036&cID=10301&pID=10300"
+    },
+    {
+        "title": "베이징 12일째 코로나19 초비상…핵산검사 300만명 육박(종합2보)",
+        "link": "http://yna.kr/AKR20200623183300083?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
         "link": "http://www.hani.co.kr/arti/society/health/950540.html"
+    },
+    {
+        "title": "[대전] 밤새 확진자 6명 발생 \"상황 엄중, 일주일이 중대기로\"",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002652402&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
