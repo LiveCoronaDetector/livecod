@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/germany-contain-coronavirus-outbreak-slaughterhouse"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/23/other_sports/1592871522_531589.html"
+        "title": "Global coronavirus cases top 9 million as outbreak surges in Brazil, India",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-cases/global-coronavirus-cases-top-9-million-as-outbreak-surges-in-brazil-india-idUSKBN23T279"
     },
     {
         "title": "Coronavirus: South Korea confirms second wave of infections",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-cases-daily-record-world-health-organization/"
     },
     {
-        "title": "Coronavirus: Bolsonaro silent as Brazil passes 50,000 deaths; global cases reach 9 million – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/jun/22/coronavirus-live-news-covid-19-update-china-us-uk-brazil-latest-updates"
+        "title": "WHO reports largest single-day increase in coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
     }
 ];
