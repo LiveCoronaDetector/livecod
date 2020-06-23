@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623118500005?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
-        "link": "http://www.hani.co.kr/arti/society/health/950540.html"
-    },
-    {
         "title": "대전, 다단계 방문판매업소·사우나 관련 확진자 추가…'n차 감염' 이어져",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/23/2020062302651.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
+        "link": "http://www.hani.co.kr/arti/society/health/950540.html"
     },
     {
         "title": "\"코로나 확진자 없다\" 제출 서류만 믿다 부산항 검역망 뚫려",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "文대통령, 박원순·이재명 불러 \"코로나 안정 수도권에 달려\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200623_0001070036&cID=10301&pID=10300"
-    },
-    {
         "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
+    },
+    {
+        "title": "文대통령, 박원순·이재명 불러 \"코로나 안정 수도권에 달려\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200623_0001070036&cID=10301&pID=10300"
     },
     {
         "title": "文대통령 \"코로나19 통제 관리·범위 안에 있다\"",
