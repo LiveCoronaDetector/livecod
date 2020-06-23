@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "Dr. Anthony Fauci tells Congress parts of U.S. are seeing a 'disturbing surge' of coronavirus infections",
-        "link": "https://www.cnbc.com/2020/06/23/fauci-says-parts-of-us-are-seeing-a-distrubing-surge-of-coronavirus.html"
+        "title": "E.U. May Exclude U.S. as It Reopens Borders, Citing Failures on Virus",
+        "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
     },
     {
         "title": "Gov’t shuts down Elad, parts of Tiberias as coronavirus cases soar",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
+        "title": "South Korea reports 46 new virus cases as it tackles 'second wave' - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/06/23/south-korea-reports-46-new-virus-cases-as-it-tackles-second-wave.html"
+    },
+    {
         "title": "Coronavirus Live Updates: U.S. Accounts for 20% of New Cases Globally",
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
         "title": "World's No. 1 tennis player Novak Djokovic tests positive for coronavirus after hosting tournament | TheHill",
         "link": "https://thehill.com/homenews/media/504032-worlds-1-tennis-player-novak-djokovic-tests-positive-for-coronavirus-after"
-    },
-    {
-        "title": "Coronavirus live news: French app alerts only 14 people in three weeks; judge orders Bolsonaro to wear mask",
-        "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
     }
 ];

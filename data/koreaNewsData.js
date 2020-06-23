@@ -13,20 +13,20 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "남아공 코로나19 누적 확진 10만명 넘어서(종합)",
-        "link": "http://yna.kr/AKR20200623165051099?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 46명···해외유입 30명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231013001&code=940601"
     },
     {
-        "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
-        "link": "http://www.fnnews.com/news/202006231433278998"
+        "title": "남아공 코로나19 누적 확진 10만명 넘어서(종합)",
+        "link": "http://yna.kr/AKR20200623165051099?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
         "link": "http://www.hani.co.kr/arti/society/health/950540.html"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
+        "link": "http://www.fnnews.com/news/202006231433278998"
     },
     {
         "title": "WHO “韓, 코로나 잘 통제 중…확진자 수 매우 안정”",
