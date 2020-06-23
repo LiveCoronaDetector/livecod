@@ -14,7 +14,7 @@ var marker = [
         "Name_en": "Brazil",
         "확진자수": 1111348,
         "사망자수": 51407,
-        "완치자수": 579226
+        "완치자수": 594104
     },
     {
         "Name": "러시아",
@@ -673,20 +673,20 @@ var marker = [
         "완치자수": 2590
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 4048,
+        "사망자수": 35,
+        "완치자수": 1327
+    },
+    {
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
         "확진자수": 3984,
         "사망자수": 207,
         "완치자수": 2171
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 3917,
-        "사망자수": 33,
-        "완치자수": 835
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -908,9 +908,9 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1513,
+        "확진자수": 1515,
         "사망자수": 22,
-        "완치자수": 1482
+        "완치자수": 1483
     },
     {
         "Name": "Zambia",

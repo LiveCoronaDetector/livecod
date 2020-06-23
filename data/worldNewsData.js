@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/coronavirus-latest-german-reproduction-rate-spikes-60-in-a-day/a-53886880"
     },
     {
-        "title": "WHO reports biggest one-day rise in coronavirus cases to date",
-        "link": "https://www.cbsnews.com/news/coronavirus-cases-daily-record-world-health-organization/"
-    },
-    {
         "title": "WHO reports largest single-day increase in coronavirus cases",
         "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
+    },
+    {
+        "title": "WHO reports biggest one-day rise in coronavirus cases to date",
+        "link": "https://www.cbsnews.com/news/coronavirus-cases-daily-record-world-health-organization/"
     }
 ];
