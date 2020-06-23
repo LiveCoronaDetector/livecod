@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/950540.html"
     },
     {
-        "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
-        "link": "http://www.fnnews.com/news/202006231433278998"
-    },
-    {
         "title": "WHO “韓, 코로나 잘 통제 중…확진자 수 매우 안정”",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987349?division=NAVER"
+    },
+    {
+        "title": "코로나19 확진자 정보 유출한 청주시청 공무원 기소",
+        "link": "https://www.nocutnews.co.kr/news/5366122"
     },
     {
         "title": "'코로나 심각' 수도권 '등교인원 3분의 1 이하' 무기한 연장(종합)",
         "link": "https://www.news1.kr/articles/?3974138"
     },
     {
-        "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
+        "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
+        "link": "http://www.fnnews.com/news/202006231433278998"
     }
 ];

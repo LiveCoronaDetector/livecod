@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/israel-tops-5000-coronavirus-patients-377-newly-infected-in-last-day-632487"
     },
     {
-        "title": "Coronavirus: German outbreak sparks fresh local lockdowns",
-        "link": "https://www.bbc.com/news/world-europe-53149762"
+        "title": "EU countries may bar U.S. travelers because of coronavirus failures: NY Times",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-eu/eu-countries-may-bar-u-s-travelers-because-of-coronavirus-failures-ny-times-idUSKBN23U2YQ"
     },
     {
         "title": "India allows religious festival to go ahead in 'limited' capacity as coronavirus cases surge",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "South Korea reports 46 new virus cases as it tackles 'second wave' - The Jakarta Post",
-        "link": "https://www.thejakartapost.com/news/2020/06/23/south-korea-reports-46-new-virus-cases-as-it-tackles-second-wave.html"
+        "title": "World's No. 1 tennis player Novak Djokovic tests positive for coronavirus after hosting tournament | TheHill",
+        "link": "https://thehill.com/homenews/media/504032-worlds-1-tennis-player-novak-djokovic-tests-positive-for-coronavirus-after"
     },
     {
         "title": "Coronavirus Live Updates: U.S. Accounts for 20% of New Cases Globally",
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
-        "title": "World's No. 1 tennis player Novak Djokovic tests positive for coronavirus after hosting tournament | TheHill",
-        "link": "https://thehill.com/homenews/media/504032-worlds-1-tennis-player-novak-djokovic-tests-positive-for-coronavirus-after"
+        "title": "South Korea reports 46 new virus cases as it tackles 'second wave' - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/06/23/south-korea-reports-46-new-virus-cases-as-it-tackles-second-wave.html"
     }
 ];
