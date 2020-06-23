@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/22/us/new-coronavirus-phase.html"
     },
     {
-        "title": "Global report: South Korea has Covid-19 second wave as Israel ponders new lockdown",
-        "link": "https://www.theguardian.com/world/2020/jun/22/coronavirus-global-report-new-covid-19-cases-surge-south-korea-israel"
+        "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
+        "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
         "title": "Coronavirus: Germany outbreak sparks fresh local lockdown",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus live news: Saudi Arabia closes borders to hajj attendees as global Covid-19 cases pass 9m",
+        "title": "Coronavirus live news: German district placed in local lockdown after meat plant outbreak",
         "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
+    },
+    {
+        "title": "Coronavirus cases surge in U.S. and Brazil as Germany reports more outbreaks, but markets don't seem worried",
+        "link": "https://www.cnbc.com/2020/06/22/coronavirus-cases-surge-in-us-brazil-and-rise-in-germany.html"
     },
     {
         "title": "South Korea says it is battling 'second wave'",
         "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
-    },
-    {
-        "title": "Coronavirus cases top 9 million as WHO says pandemic is accelerating",
-        "link": "https://www.scmp.com/news/world/europe/article/3090157/coronavirus-worldwide-cases-top-9-million-who-pushes-more-life"
     }
 ];
