@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "코로나19 확진자 정보 유출한 청주시청 공무원 기소",
+        "link": "https://www.nocutnews.co.kr/news/5366122"
+    },
+    {
         "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
         "link": "http://www.fnnews.com/news/202006231433278998"
     },
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "WHO “韓, 코로나 잘 통제 중…확진자 수 매우 안정”",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987349?division=NAVER"
-    },
-    {
-        "title": "[단독]서울 영등포 건보공단 콜센터에서 코로나19 확진…직원 전원 검사 후 귀...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231611001&code=940702"
     },
     {
         "title": "'코로나 심각' 수도권 '등교인원 3분의 1 이하' 무기한 연장(종합)",

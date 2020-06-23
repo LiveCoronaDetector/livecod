@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23401744"
     },
     {
-        "title": "제주서 시설격리 중 숨진 20대 여성, 코로나19 검사 결과 '음성'",
-        "link": "http://www.inews24.com/view/1275554"
-    },
-    {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "제주서 시설격리 중 숨진 20대 여성, 코로나19 검사 결과 '음성'",
+        "link": "http://www.inews24.com/view/1275554"
     },
     {
         "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단 선택",
