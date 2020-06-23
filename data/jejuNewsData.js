@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
         "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     },
     {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
         "link": "https://news.joins.com/article/olink/23401744"
-    },
-    {
-        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
