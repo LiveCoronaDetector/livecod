@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53133843"
     },
     {
-        "title": "Coronavirus: South Korea confirms second wave of infections",
-        "link": "https://www.bbc.com/news/world-asia-53135626"
+        "title": "White House scrambles to deny Trump trade adviser's claim that China deal is 'over'",
+        "link": "https://www.theguardian.com/world/2020/jun/23/china-trade-deal-is-over-says-white-house-adviser-navarro-amid-coronavirus-anger"
     },
     {
         "title": "Live Global Coronavirus News",

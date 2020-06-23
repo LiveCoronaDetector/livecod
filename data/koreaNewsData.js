@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z450B8TDD"
     },
     {
-        "title": "'코로나19' 국내 신규 확진자 46명...해외유입이 30명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006231031470672"
-    },
-    {
         "title": "감천항 러 선원 확진자 16명, 부산의료원 이송(종합)",
         "link": "https://www.nocutnews.co.kr/news/5365776"
+    },
+    {
+        "title": "'코로나19' 국내 신규 확진자 46명...해외유입이 30명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006231031470672"
     },
     {
         "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
         "link": "http://www.fnnews.com/news/202006231433278998"
     },
     {
-        "title": "文대통령 “코로나, 통제 범위…자신 있게 말씀드린다”(상보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02338646625804672"
+        "title": "부산항 코로나19 집단감염…러시아 선원 16명 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200622_0001068927&cID=10899&pID=10800"
     }
 ];
