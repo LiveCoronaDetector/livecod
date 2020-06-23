@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006231014401853"
     },
     {
-        "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
+        "title": "대전서 5명 더 코로나19 확진…사우나·상가 등서 확진자 접촉",
+        "link": "http://yna.kr/AKR20200623056700063?did=1195m"
     },
     {
-        "title": "대전서 확진자 다녀간 사우나 방문객 등 5명 더 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200623056751063?did=1195m"
+        "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
     },
     {
         "title": "[단독] 확진자 병동만 쏙 빼고 소독… 구로구 병원 ‘황당’",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014722793&code=61121111&cp=nv"
     },
     {
-        "title": "6월 23일 ‘코로나19’ 전세계 확진자 899만명…입국금지·검역 조치 182개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/23/2020062380166.html"
+        "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
+        "link": "http://www.hani.co.kr/arti/society/health/950540.html"
     },
     {
         "title": "文대통령 \"코로나19 통제 관리·범위 안에 있다\"",
         "link": "https://www.pressian.com/pages/articles/2020062311014351835?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
-        "link": "http://www.hani.co.kr/arti/society/health/950540.html"
+        "title": "6월 23일 ‘코로나19’ 전세계 확진자 899만명…입국금지·검역 조치 182개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/23/2020062380166.html"
     },
     {
-        "title": "'코로나19' 국내 신규 확진자 46명...해외유입이 30명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006231031470672"
+        "title": "文대통령, 박원순·이재명 불러 \"코로나 안정 수도권에 달려\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200623_0001070036&cID=10301&pID=10300"
     },
     {
         "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
         "link": "http://www.fnnews.com/news/202006231433278998"
     },
     {
-        "title": "대전서 5명 더 코로나19 확진…사우나·상가 등서 확진자 접촉",
-        "link": "http://yna.kr/AKR20200623056700063?did=1195m"
+        "title": "신천지의 '속죄'?…코로나 완치 신도 4000명 혈장 공여",
+        "link": "https://www.hankyung.com/life/article/2020062398357"
     }
 ];

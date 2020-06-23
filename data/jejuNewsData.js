@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "제주 코로나19 격리시설서 20대 여성 숨진 채 발견",
-        "link": "https://view.asiae.co.kr/article/2020062213024570811"
-    },
-    {
         "title": "코로나19 증상 있는데도 해열제 복용 제주관광 강행",
         "link": "http://www.fnnews.com/news/202006221519151261"
     },
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
-        "title": "제주도, 해열제 복용하며 여행한 안산시 확진자에 손해배상 소송",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500053&wlog_tag3=naver"
-    },
-    {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
         "link": "https://news.joins.com/article/olink/23401744"
+    },
+    {
+        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
+    },
+    {
+        "title": "'발생 155일' 봇물 터진 '코로나 소송'…서초동 '뉴노멀'?",
+        "link": "https://www.news1.kr/articles/?3973068"
     }
 ];
