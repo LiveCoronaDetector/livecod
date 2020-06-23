@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23401744"
     },
     {
-        "title": "'발생 155일' 봇물 터진 '코로나 소송'…서초동 '뉴노멀'?",
-        "link": "https://www.news1.kr/articles/?3973068"
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
