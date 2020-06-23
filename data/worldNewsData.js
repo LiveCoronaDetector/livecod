@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jun/22/the-power-of-volume-africa-unites-to-lower-cost-of-covid-19-tests-and-ppe"
     },
     {
-        "title": "Young people in the US South and West are increasingly getting coronavirus",
-        "link": "https://www.cnn.com/2020/06/22/health/us-coronavirus-monday/index.html"
+        "title": "Live updates: Coronavirus cases are rising in most states, but many leaders still insist on lifting restrictions",
+        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
     },
     {
         "title": "Global report: South Korea has Covid-19 second wave as Israel ponders new lockdown",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus live news: Saudi Arabia closes borders to hajj attendees as global Covid-19 cases pass 9m",
-        "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-23-20-intl/index.html"
     },
     {
-        "title": "South Korea says it is battling 'second wave'",
-        "link": "https://www.youtube.com/watch?v=IxiZ64x-ICQ"
+        "title": "Half of US states see coronavirus surge as officials warn first wave far from over",
+        "link": "https://www.theguardian.com/world/2020/jun/22/us-coronavirus-spikes-first-wave-not-over"
     },
     {
         "title": "Coronavirus cases climbing in US, Brazil and Germany after biggest global one-day rise",
