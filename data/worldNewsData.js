@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
     },
     {
-        "title": "Countries around the world scramble to contain coronavirus flare-ups as U.S. states remain open",
-        "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
+        "title": "New Survey Highlights Travelers' Desire to Visit Europe When It Reopens",
+        "link": "https://www.travelpulse.com/news/features/new-survey-highlights-travelers-desire-to-visit-europe-when-it-reopens.html"
     },
     {
-        "title": "American Travelers Likely Won’t Be Allowed Into EU Anytime Soon",
-        "link": "https://skift.com/2020/06/23/american-travelers-likely-wont-be-allowed-into-eu-anytime-soon/"
+        "title": "Countries around the world scramble to contain coronavirus flare-ups as U.S. states remain open",
+        "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
     }
 ];
