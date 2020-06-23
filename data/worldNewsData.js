@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
     },
     {
-        "title": "Gov’t shuts down Elad, parts of Tiberias as coronavirus cases soar",
+        "title": "Gov’t: Elad, parts of Tiberias ‘restricted,’ coronavirus cases soar",
         "link": "https://www.jpost.com/israel-news/israel-tops-5000-coronavirus-patients-377-newly-infected-in-last-day-632487"
     },
     {
-        "title": "EU countries may bar U.S. travelers because of coronavirus failures: NY Times",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-eu/eu-countries-may-bar-u-s-travelers-because-of-coronavirus-failures-ny-times-idUSKBN23U2YQ"
+        "title": "American Travelers Won’t Be Allowed Into EU Anytime Soon",
+        "link": "https://skift.com/2020/06/23/american-travelers-wont-be-allowed-into-eu-anytime-soon/"
     },
     {
         "title": "India allows religious festival to go ahead in 'limited' capacity as coronavirus cases surge",

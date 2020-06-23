@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231013001&code=940601"
     },
     {
-        "title": "남아공 코로나19 누적 확진 10만명 넘어서(종합)",
-        "link": "http://yna.kr/AKR20200623165051099?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
         "link": "http://www.hani.co.kr/arti/society/health/950540.html"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "'코로나 심각' 수도권 '등교인원 3분의 1 이하' 무기한 연장(종합)",
         "link": "https://www.news1.kr/articles/?3974138"
+    },
+    {
+        "title": "남아공 코로나19 누적 확진 10만명 넘어서(종합)",
+        "link": "http://yna.kr/AKR20200623165051099?did=1195m"
     },
     {
         "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
