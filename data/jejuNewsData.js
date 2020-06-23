@@ -17,20 +17,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006221519151261"
     },
     {
-        "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
-        "link": "https://www.hankyung.com/life/article/2020062242417"
-    },
-    {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
-        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
+        "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
+        "link": "https://www.hankyung.com/life/article/2020062242417"
     },
     {
-        "title": "'발생 155일' 봇물 터진 '코로나 소송'…서초동 '뉴노멀'?",
-        "link": "https://www.news1.kr/articles/?3973068"
+        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
+        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
         "title": "제주서 코로나로 자가격리하던 20대 관광객 극단적 선택",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
         "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
+    },
+    {
+        "title": "'발생 155일' 봇물 터진 '코로나 소송'…서초동 '뉴노멀'?",
+        "link": "https://www.news1.kr/articles/?3973068"
     }
 ];

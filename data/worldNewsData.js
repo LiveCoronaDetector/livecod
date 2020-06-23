@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/germany-contain-coronavirus-outbreak-slaughterhouse"
     },
     {
-        "title": "Global coronavirus cases top 9 million as outbreak surges in Brazil, India",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-cases/global-coronavirus-cases-top-9-million-as-outbreak-surges-in-brazil-india-idUSKBN23T279"
+        "title": "How Asia's biggest slum contained the coronavirus",
+        "link": "https://www.bbc.com/news/world-asia-india-53133843"
     },
     {
         "title": "Coronavirus: South Korea confirms second wave of infections",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
-        "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
-        "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
+        "title": "Coronavirus live news: Saudi Arabia closes borders to hajj attendees as global Covid-19 cases pass 9m",
+        "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
+    },
+    {
+        "title": "Coronavirus weakening, may disappear on its own, Italian doctor says",
+        "link": "https://www.foxnews.com/world/italian-doctor-says-coronavirus-weakening-may-disappear-on-its-own-report"
     },
     {
         "title": "Half of US states see coronavirus surge as officials warn first wave far from over",
         "link": "https://www.theguardian.com/world/2020/jun/22/us-coronavirus-spikes-first-wave-not-over"
-    },
-    {
-        "title": "Coronavirus cases climbing in US, Brazil and Germany after biggest global one-day rise",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-cases-climbing-u-s-brazil-germany-after-biggest-global-n1231684"
     }
 ];
