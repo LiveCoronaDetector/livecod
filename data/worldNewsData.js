@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53135626"
     },
     {
+        "title": "Live Global Coronavirus News",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Half of US states see coronavirus surge as officials warn first wave far from over",
+        "link": "https://www.theguardian.com/world/2020/jun/22/us-coronavirus-spikes-first-wave-not-over"
+    },
+    {
         "title": "COVID-19 is weakening, could die out without vaccine, specialist claims",
         "link": "https://www.jpost.com/health-science/covid-19-is-weakening-could-die-out-without-vaccine-specialist-claims-632324"
     },
     {
         "title": "Coronavirus latest: German reproduction rate spikes 60% in a day",
         "link": "https://www.dw.com/en/coronavirus-latest-german-reproduction-rate-spikes-60-in-a-day/a-53886880"
-    },
-    {
-        "title": "WHO reports largest single-day increase in coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/who-reports-largest-single-day-increase-coronavirus-cases-n1231681"
-    },
-    {
-        "title": "WHO reports biggest one-day rise in coronavirus cases to date",
-        "link": "https://www.cbsnews.com/news/coronavirus-cases-daily-record-world-health-organization/"
     }
 ];
