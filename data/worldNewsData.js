@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "American Travelers Won’t Be Allowed Into EU Anytime Soon",
-        "link": "https://skift.com/2020/06/23/american-travelers-wont-be-allowed-into-eu-anytime-soon/"
+        "title": "EU considers blocking US travelers due to coronavirus surge",
+        "link": "https://www.youtube.com/watch?v=_KQdEWefW2o"
     },
     {
         "title": "India allows religious festival to go ahead in 'limited' capacity as coronavirus cases surge",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/business/stock-market-today-coronavirus.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "Dr. Fauci responds to Trump's comment about slowing coronavirus testing",
+        "link": "https://www.youtube.com/watch?v=uKtbQ6fewrA"
     },
     {
         "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
