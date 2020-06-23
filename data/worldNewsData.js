@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "Live updates: FDA warns against hand sanitizers that contain the toxic substance methanol",
-        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
-        "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
+        "title": "Israel tops 5,000 coronavirus patients, more cities to be named red zones",
+        "link": "https://www.jpost.com/israel-news/israel-tops-5000-coronavirus-patients-377-newly-infected-in-last-day-632487"
     },
     {
         "title": "Coronavirus: German outbreak sparks fresh local lockdowns",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=xcCeTlnjCbM"
     },
     {
+        "title": "World No. 1 Novak Djokovic tests positive for the coronavirus",
+        "link": "https://www.tennis.com/pro-game/2020/06/world-no-1-novak-djokovic-tests-positive-coronavirus/89329/"
+    },
+    {
         "title": "Coronavirus Live Updates: U.S. Accounts for 20% of New Cases Globally",
         "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus live news: French app alerts only 14 people in three weeks; judge orders Bolsonaro to wear mask",
-        "link": "https://www.theguardian.com/world/live/2020/jun/23/coronavirus-live-news-update-saudi-arabia-closes-borders-hajj-global-covid-19-cases-pass-9m-latest-updates"
-    },
-    {
-        "title": "World's No. 1 tennis player Novak Djokovic tests positive for coronavirus after hosting tournament | TheHill",
-        "link": "https://thehill.com/homenews/media/504032-worlds-1-tennis-player-novak-djokovic-tests-positive-for-coronavirus-after"
+        "title": "Japanese supercomputer, crowned world's fastest, is fighting coronavirus",
+        "link": "https://www.bbc.com/news/world-asia-53147684"
     }
 ];
