@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/950710.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006241013001&code=940601"
-    },
-    {
         "title": "대전서 5명 더 코로나19 확진…사우나·상가 등서 확진자 접촉",
         "link": "http://yna.kr/AKR20200623056700063?did=1195m"
     },
@@ -21,12 +17,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623118500005?did=1195m"
     },
     {
-        "title": "[속보]코로나19 확진자 어제 51명 늘어…‘50명선’ 또 넘었다",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208533"
+        "title": "한 시름 던 KLPGA, 코로나19 확진자 밀접접촉 캐디 음성 판정",
+        "link": "https://news.joins.com/article/olink/23403703"
     },
     {
-        "title": "[속보]코로나 환자 51명 늘어…6일 만에 다시 50명대, 누적 1만2535명",
-        "link": "https://news.joins.com/article/olink/23403722"
+        "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006241013001&code=940601"
+    },
+    {
+        "title": "코로나19 확진자 어제 51명 늘어…‘50명선’ 또 넘었다",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208533"
     },
     {
         "title": "\"코로나 확진자 없다\" 제출 서류만 믿다 부산항 검역망 뚫려",
