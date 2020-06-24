@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Americans urged to stick to guidelines as Covid-19 cases increase",
-        "link": "https://www.theguardian.com/us-news/2020/jun/24/americans-coronavirus-covid-19-cases-increase"
+        "title": "Trump administration ending support for 7 Texas testing sites as coronavirus cases spike | TheHill",
+        "link": "https://thehill.com/policy/healthcare/504270-trump-admin-ending-support-for-7-texas-testing-sites-as-cases-spike-in"
     }
 ];
