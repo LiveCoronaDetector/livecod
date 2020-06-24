@@ -5,19 +5,19 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/24/latest_news/1592980987_738993.html"
     },
     {
-        "title": "5 things to know for June 24: Coronavirus, Justice Department, NASCAR, Mexico, Canada",
-        "link": "https://www.cnn.com/2020/06/24/us/five-things-june-24-trnd/index.html"
+        "title": "E.U. May Exclude U.S. as It Reopens Borders, Citing Failures on Virus",
+        "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
     },
     {
-        "title": "Pakistan Plane Crash Due To Human Error, Pilots Were Discussing Coronavirus: Report",
-        "link": "https://www.ndtv.com/world-news/human-error-caused-pakistan-plane-crash-pilots-were-discussing-coronavirus-report-2251437"
+        "title": "Cabinet approves Shin Bet tracking, bill to head to Knesset",
+        "link": "https://www.jpost.com/breaking-news/154-new-coronavirus-patients-in-israel-632601"
     },
     {
-        "title": "EU Considers Barring US, Brazilian & Russian Travellers When it Opens Borders from July 1",
-        "link": "https://www.euroweeklynews.com/2020/06/24/eu-considers-barring-us-brazilian-russian-travellers-when-it-opens-borders-from-july-1/"
+        "title": "The EU is discussing reopening its borders, and U.S. citizens could remain barred",
+        "link": "https://www.cnbc.com/2020/06/24/eu-to-open-external-borders-but-us-visitors-could-be-banned.html"
     },
     {
-        "title": "Coronavirus live updates: India reports record spike in cases, U.S. citizens could remain barred from EU",
+        "title": "Coronavirus live updates: Restrictions could ding U.S. economy as more states seeing rising case totals",
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/24/business/china-nationalist-students-coronavirus.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
-    },
-    {
-        "title": "COVID-19 death toll keeps rising — and the media should hold Trump accountable",
-        "link": "https://www.salon.com/2020/06/23/covid-19-death-toll-keeps-rising--and-the-media-should-hold-trump-accountable/"
-    },
-    {
         "title": "IMF slashes its forecasts for the global economy and warns of soaring debt levels",
         "link": "https://www.cnbc.com/2020/06/24/imf-global-economy-to-contract-with-coronavirus-recovery-slow.html"
     },
     {
-        "title": "Beijing officials declare outbreak 'under control': Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/fauci-warns-coronavirus-cases-surge-live-updates-200623235547181.html"
+        "title": "Global report: seven US states report record Covid-19 hospitalisations",
+        "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
+    },
+    {
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Coronavirus Live Updates: U.S. Accounts for 20% of New Cases Globally",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     }
 ];

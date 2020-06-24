@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200624000154"
     },
     {
-        "title": "코로나 신규 확진 51명...지역감염 31명·해외유입 20명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401449.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "대구 대표축제 치맥페스티벌, 너 마저…‘코로나19’ 여파로 결국 취소",
         "link": "https://www.donga.com/news/article/all/20200624/101671424/2"
+    },
+    {
+        "title": "코로나 신규 확진 51명...지역감염 31명·해외유입 20명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401449.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나 확진자의 절규 \"나는 죄인입니다\"",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200624055451063?did=1195m"
     },
     {
-        "title": "대한항공, 객실승무원 이어 운항승무원도 코로나 확진",
-        "link": "https://www.hankyung.com/society/article/202006245136g"
-    },
-    {
-        "title": "인천 확진자와 접촉한 부천 거주 30대 코로나19 감염(종합)",
-        "link": "http://yna.kr/AKR20200624150851065?did=1195m"
-    },
-    {
         "title": "코로나 신규 확진자 51명…검역 과정서 국외 유입 12명 확인",
         "link": "http://www.hani.co.kr/arti/society/health/950710.html"
+    },
+    {
+        "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "대한항공 기장도 당했다…항공업계 드리운 코로나19 그림자",
+        "link": "https://news.joins.com/article/olink/23404357"
     }
 ];
