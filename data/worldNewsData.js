@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/us/five-things-june-24-trnd/index.html"
     },
     {
-        "title": "Pilots in Pakistan Crash Were Chatting About Coronavirus, Says Aviation Minister",
-        "link": "https://www.wsj.com/articles/pilots-in-pakistan-crash-were-chatting-about-coronavirus-says-aviation-minister-11592997842"
+        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
+        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
     },
     {
         "title": "Welcome to the whack-a-mole stage of coronavirus",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "China Students Trapped Abroad by the Coronavirus Are Criticized at Home",
-        "link": "https://www.nytimes.com/2020/06/24/business/china-nationalist-students-coronavirus.html"
+        "title": "Inside a mass Covid-19 testing site in Beijing",
+        "link": "https://www.cnn.com/videos/world/2020/06/24/china-beijing-coronavirus-testing-site-culver-lkl-intl-hnk-vpx.cnn"
     },
     {
         "title": "Live Coronavirus Updates: Nations Scramble to Fend Off Outbreaks",
         "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     },
     {
-        "title": "IMF slashes its forecasts for the global economy and warns of soaring debt levels",
-        "link": "https://www.cnbc.com/2020/06/24/imf-global-economy-to-contract-with-coronavirus-recovery-slow.html"
+        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
+        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
-        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
+        "title": "Texas governor urges people to stay home as states report surges of new Covid-19 cases",
+        "link": "https://www.cnn.com/2020/06/24/health/us-coronavirus-wednesday/index.html"
     }
 ];

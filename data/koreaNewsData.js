@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200625002551088?did=1195m"
     },
     {
+        "title": "쿠팡 또 확진자 발생, 덕평 물류센터 폐쇄",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062402379.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "코로나 신규 확진자 51명…검역 과정서 국외 유입 12명 확인",
         "link": "http://www.hani.co.kr/arti/society/health/950710.html"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23404357"
     },
     {
+        "title": "“코로나19에 감염됐다, 죄인이 됐다” 확진자의 편지",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014727413&code=61121211&cp=nv"
+    },
+    {
         "title": "경주서 해외유입 코로나19 확진자 발생…전체 환자 51명",
         "link": "https://www.nocutnews.co.kr/news/5366311"
-    },
-    {
-        "title": "코로나19 대전 확진자 \"나도 피해자인데 지탄받는 죄인 돼\"",
-        "link": "http://yna.kr/AKR20200624114700063?did=1195m"
-    },
-    {
-        "title": "25일부터 코로나19 확진자 격리해제 기준 완화",
-        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23809678"
     }
 ];
