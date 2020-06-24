@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "Who Wants an American Tourist Now?",
-        "link": "https://skift.com/2020/06/23/who-wants-an-american-tourist-now/"
+        "title": "EU considers blocking US travelers due to coronavirus surge",
+        "link": "https://www.youtube.com/watch?v=_KQdEWefW2o"
     },
     {
         "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
         "link": "https://www.washingtonpost.com/opinions/2020/06/23/an-exploding-coronavirus-crisis-shows-modi-is-not-up-task-leading-india/"
     },
     {
-        "title": "Disney Exits Language School Business in China, Citing Coronavirus",
-        "link": "https://www.nytimes.com/2020/06/23/business/media/disney-china-schools-closing.html"
+        "title": "Australians' trust in China falls to record low, nationwide poll shows",
+        "link": "https://www.cnbc.com/2020/06/24/australia-lowy-poll-shows-trust-in-china-has-declined-amid-coronavirus.html"
     },
     {
         "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
         "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
     },
     {
-        "title": "Coronavirus Races Across Brazil and Latin America, a Warning to Poor Nations",
-        "link": "https://www.wsj.com/articles/coronavirus-races-across-latin-america-a-warning-to-poor-nations-11592950314"
+        "title": "Who Wants an American Tourist Now?",
+        "link": "https://skift.com/2020/06/23/who-wants-an-american-tourist-now/"
+    },
+    {
+        "title": "Coronavirus live news: deaths in Latin America pass 100,000 as Fauci warns of 'disturbing' US cases surge",
+        "link": "https://www.theguardian.com/world/live/2020/jun/24/coronavirus-live-news-update-dr-fauci-disturbing-us-case-surge-brazil-covid-19-infections-cases-latest-updates"
     },
     {
         "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
         "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
-    },
-    {
-        "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
-        "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
     }
 ];
