@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "America out, China in as EU looks to reopen external borders",
-        "link": "https://www.politico.com/news/2020/06/24/coronavirus-america-china-europe-337376"
+        "title": "Europe Could Ban US Tourists When It Reopens",
+        "link": "https://simpleflying.com/europe-could-ban-us-tourists/"
     },
     {
-        "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
-        "link": "https://www.washingtonpost.com/opinions/2020/06/23/an-exploding-coronavirus-crisis-shows-modi-is-not-up-task-leading-india/"
+        "title": "UNICEF: Pandemic Raises Concern About Youth Suicide In South Asia : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/06/23/882338481/bleak-unicef-report-on-kids-and-covid-19-but-there-is-hope"
     },
     {
         "title": "Australians' trust in China falls to record low, nationwide poll shows",
