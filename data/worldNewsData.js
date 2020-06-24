@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Live Coronavirus Updates: Nations Scramble to Fend Off Outbreaks",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+        "title": "Live updates: New coronavirus cases in the U.S. soar to highest single-day total",
+        "link": "https://www.washingtonpost.com/nation/2020/06/24/coronavirus-live-updates-us/"
     },
     {
-        "title": "Pilots in Pakistan Crash Were Chatting About Coronavirus, Says Aviation Minister",
-        "link": "https://www.wsj.com/articles/pilots-in-pakistan-crash-were-chatting-about-coronavirus-says-aviation-minister-11592997842"
+        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
+        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
     },
     {
         "title": "Welcome to the whack-a-mole stage of coronavirus",
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "Coronavirus: US cases at highest level for two months",
+        "title": "Coronavirus: New York imposes quarantine on nine US states",
         "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {

@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200624000154"
     },
     {
+        "title": "미국, 코로나 확진자 다시 급증…다우지수 710P 급락 마감",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250012&t=NN"
+    },
+    {
         "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 대전 확진자 \"나도 피해자인데 지탄받는 죄인 돼\"",
         "link": "http://yna.kr/AKR20200624114700063?did=1195m"
-    },
-    {
-        "title": "25일부터 코로나19 확진자 격리해제 기준 완화",
-        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23809678"
     }
 ];
