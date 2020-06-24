@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/24/latest_news/1592980987_738993.html"
     },
     {
-        "title": "EU May Ban Travel from US as it Reopens Borders, Citing Coronavirus Failures",
+        "title": "E.U. May Exclude U.S. as It Reopens Borders, Citing Failures on Virus",
         "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
     },
     {
@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.ndtv.com/world-news/human-error-caused-pakistan-plane-crash-pilots-were-discussing-coronavirus-report-2251437"
     },
     {
-        "title": "EU is discussing reopening its borders, and US citizens could remain barred",
+        "title": "The EU is discussing reopening its borders, and U.S. citizens could remain barred",
         "link": "https://www.cnbc.com/2020/06/24/eu-to-open-external-borders-but-us-visitors-could-be-banned.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Seven states report new highs for coronavirus hospitalizations",
-        "link": "https://nypost.com/2020/06/23/seven-states-report-new-highs-for-coronavirus-hospitalizations/"
-    },
-    {
-        "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
-        "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
-    },
-    {
         "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
         "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
+    },
+    {
+        "title": "Global report: seven US states report record Covid-19 hospitalisations",
+        "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
+    },
+    {
+        "title": "University of Michigan to Drop Out as Presidential Debate Host",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     }
 ];
