@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/south-africa-start-continent-coronavirus-vaccine-pilot-200623162759120.html"
     },
     {
-        "title": "Brazil's Jair Bolsonaro ordered to wear mask in public",
-        "link": "https://www.bbc.com/news/world-latin-america-53154890"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
         "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-24-20-intl/index.html"
     },
     {
-        "title": "New Survey Highlights Travelers' Desire to Visit Europe When It Reopens",
-        "link": "https://www.travelpulse.com/news/features/new-survey-highlights-travelers-desire-to-visit-europe-when-it-reopens.html"
-    },
-    {
-        "title": "Coronavirus live news: deaths in Latin America pass 100,000 as Fauci warns of 'disturbing' US cases surge",
-        "link": "https://www.theguardian.com/world/live/2020/jun/24/coronavirus-live-news-update-dr-fauci-disturbing-us-case-surge-brazil-covid-19-infections-cases-latest-updates"
-    },
-    {
         "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
         "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
+    },
+    {
+        "title": "Coronavirus Races Across Brazil and Latin America, a Warning to Poor Nations",
+        "link": "https://www.wsj.com/articles/coronavirus-races-across-latin-america-a-warning-to-poor-nations-11592950314"
+    },
+    {
+        "title": "Who Wants an American Tourist Now?",
+        "link": "https://skift.com/2020/06/23/who-wants-an-american-tourist-now/"
     }
 ];
