@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
     },
     {
-        "title": "European Union eyes tariffs on American coal, farm goods over trade dispute",
-        "link": "https://nypost.com/2020/06/23/european-union-eyes-tariffs-on-american-coal-farm-goods/"
+        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
+        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
     }
 ];

@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006231433278998"
     },
     {
-        "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
+        "title": "코로나19 확진자에 더 벌벌 떠는 PGA 투어",
+        "link": "https://news.joins.com/article/olink/23403475"
     }
 ];
