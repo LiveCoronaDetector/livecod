@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/south-africa-start-continent-coronavirus-vaccine-pilot-200623162759120.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "Live updates: Federal government to scale back testing support even as hospitalizations reach new highs",
+        "link": "https://www.washingtonpost.com/nation/2020/06/24/coronavirus-live-updates-us/"
     },
     {
         "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "EU considers blocking US travelers due to coronavirus surge",
-        "link": "https://www.youtube.com/watch?v=_KQdEWefW2o"
+        "title": "Who Wants an American Tourist Now?",
+        "link": "https://skift.com/2020/06/23/who-wants-an-american-tourist-now/"
     },
     {
         "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/business/media/disney-china-schools-closing.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-24-20-intl/index.html"
-    },
-    {
-        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
-        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
+        "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
+        "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
     },
     {
         "title": "Coronavirus Races Across Brazil and Latin America, a Warning to Poor Nations",
         "link": "https://www.wsj.com/articles/coronavirus-races-across-latin-america-a-warning-to-poor-nations-11592950314"
     },
     {
-        "title": "Who Wants an American Tourist Now?",
-        "link": "https://skift.com/2020/06/23/who-wants-an-american-tourist-now/"
+        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
+        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
+    },
+    {
+        "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
+        "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
     }
 ];
