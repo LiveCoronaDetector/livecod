@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "EU considers blocking US travelers due to coronavirus surge",
-        "link": "https://www.youtube.com/watch?v=_KQdEWefW2o"
+        "title": "Who Wants an American Tourist Now?",
+        "link": "https://skift.com/2020/06/23/who-wants-an-american-tourist-now/"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news, today",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/business/stock-market-today-coronavirus.html"
     },
     {
-        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
-        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
+        "title": "Live updates: Seven states report highest coronavirus hospitalizations since pandemic began",
+        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
     },
     {
-        "title": "Who Wants an American Tourist Now?",
-        "link": "https://skift.com/2020/06/23/who-wants-an-american-tourist-now/"
+        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
+        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
     },
     {
         "title": "Countries around the world scramble to contain coronavirus flare-ups as U.S. states remain open",
         "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
     },
     {
-        "title": "World's No. 1 tennis player Novak Djokovic tests positive for coronavirus after hosting tournament | TheHill",
-        "link": "https://thehill.com/homenews/media/504032-worlds-1-tennis-player-novak-djokovic-tests-positive-for-coronavirus-after"
+        "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
+        "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
     }
 ];
