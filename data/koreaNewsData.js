@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5821157_32633.html"
     },
     {
-        "title": "\"쿠팡發 코로나 확산 또?\"…덕평물류센터서 확진자 나와",
-        "link": "http://www.inews24.com/view/1276232"
-    },
-    {
         "title": "코로나 확진자의 절규 \"나는 죄인입니다\"",
         "link": "https://www.sedaily.com/NewsView/1Z45I3XRF6"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "대한항공 기장도 당했다…항공업계 드리운 코로나19 그림자",
         "link": "https://news.joins.com/article/olink/23404357"
+    },
+    {
+        "title": "코로나19 대전 확진자 \"나도 피해자인데 지탄받는 죄인 돼\"",
+        "link": "http://yna.kr/AKR20200624114700063?did=1195m"
     }
 ];
