@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
     },
     {
-        "title": "American Travelers Won’t Be Allowed Into EU Anytime Soon",
-        "link": "https://skift.com/2020/06/23/american-travelers-wont-be-allowed-into-eu-anytime-soon/"
-    },
-    {
         "title": "Countries around the world scramble to contain coronavirus flare-ups as U.S. states remain open",
         "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
+    },
+    {
+        "title": "American Travelers Won’t Be Allowed Into EU Anytime Soon",
+        "link": "https://skift.com/2020/06/23/american-travelers-wont-be-allowed-into-eu-anytime-soon/"
     }
 ];
