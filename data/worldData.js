@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2447449,
-        "사망자수": 123934,
-        "완치자수": 1025350
+        "확진자수": 2449476,
+        "사망자수": 124029,
+        "완치자수": 1026252
     },
     {
         "Name": "브라질",
@@ -68,9 +68,9 @@ var marker = [
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "확진자수": 238833,
-        "사망자수": 34675,
-        "완치자수": 184585
+        "확진자수": 239410,
+        "사망자수": 34644,
+        "완치자수": 186111
     },
     {
         "Name": "이란",
@@ -169,20 +169,20 @@ var marker = [
         "완치자수": 30459
     },
     {
+        "Name": "스웨덴",
+        "Name_ch": "瑞典语",
+        "Name_en": "Sweden",
+        "확진자수": 62324,
+        "사망자수": 5209,
+        "완치자수": 0
+    },
+    {
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
         "확진자수": 60898,
         "사망자수": 9722,
         "완치자수": 16771
-    },
-    {
-        "Name": "스웨덴",
-        "Name_ch": "瑞典语",
-        "Name_en": "Sweden",
-        "확진자수": 60837,
-        "사망자수": 5161,
-        "완치자수": 0
     },
     {
         "Name": "벨라루스",
@@ -1017,6 +1017,14 @@ var marker = [
         "완치자수": 824
     },
     {
+        "Name": "Malawi",
+        "Name_ch": "",
+        "Name_en": "Malawi",
+        "확진자수": 941,
+        "사망자수": 11,
+        "완치자수": 259
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -1065,12 +1073,12 @@ var marker = [
         "완치자수": 797
     },
     {
-        "Name": "Malawi",
+        "Name": "Rwanda",
         "Name_ch": "",
-        "Name_en": "Malawi",
-        "확진자수": 848,
-        "사망자수": 11,
-        "완치자수": 259
+        "Name_en": "Rwanda",
+        "확진자수": 830,
+        "사망자수": 2,
+        "완치자수": 376
     },
     {
         "Name": "Uganda",
@@ -1079,14 +1087,6 @@ var marker = [
         "확진자수": 805,
         "사망자수": 0,
         "완치자수": 717
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "확진자수": 798,
-        "사망자수": 2,
-        "완치자수": 371
     },
     {
         "Name": "Mozambique",
@@ -1649,20 +1649,20 @@ var marker = [
         "완치자수": 8
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 10,
+        "사망자수": 0,
+        "완치자수": 8
+    },
+    {
         "Name": "MS Zaandam",
         "Name_ch": "",
         "Name_en": "MS Zaandam",
         "확진자수": 9,
         "사망자수": 2,
         "완치자수": 0
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 9,
-        "사망자수": 0,
-        "완치자수": 8
     },
     {
         "Name": "British Virgin Islands",

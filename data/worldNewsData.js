@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/24/coronavirus-live-news-update-dr-fauci-disturbing-us-case-surge-brazil-covid-19-infections-cases-latest-updates"
     },
     {
-        "title": "Coronavirus: US cases at highest level for two months",
-        "link": "https://www.bbc.com/news/world-us-canada-53167780"
+        "title": "Live Coronavirus Updates: Nations Scramble to Fend Off Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     },
     {
         "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/europe/coronavirus-germany-outbreaks-intl-grm/index.html"
     },
     {
-        "title": "Coronavirus live updates: New York activates quarantine for travelers from hotspots as Florida shatters daily record",
+        "title": "Coronavirus live updates: California, Florida report record cases as NY orders quarantine for some travelers",
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "Inside a mass Covid-19 testing site in Beijing",
-        "link": "https://www.cnn.com/videos/world/2020/06/24/china-beijing-coronavirus-testing-site-culver-lkl-intl-hnk-vpx.cnn"
-    },
-    {
-        "title": "US coronavirus cases at highest level since April | TheHill",
-        "link": "https://thehill.com/policy/healthcare/504253-us-coronavirus-cases-at-highest-level-since-april"
+        "title": "China Students Trapped Abroad by the Coronavirus Are Criticized at Home",
+        "link": "https://www.nytimes.com/2020/06/24/business/china-nationalist-students-coronavirus.html"
     },
     {
         "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "Coronavirus: US cases at highest level for two months",
+        "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
-        "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
-        "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
+        "title": "IMF slashes its forecasts for the global economy and warns of soaring debt levels",
+        "link": "https://www.cnbc.com/2020/06/24/imf-global-economy-to-contract-with-coronavirus-recovery-slow.html"
+    },
+    {
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     }
 ];
