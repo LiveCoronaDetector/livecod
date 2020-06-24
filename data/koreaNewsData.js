@@ -21,16 +21,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200624078900065?did=1195m"
     },
     {
-        "title": "대구 대표축제 치맥페스티벌, 너 마저…‘코로나19’ 여파로 결국 취소",
-        "link": "https://www.donga.com/news/article/all/20200624/101671424/2"
-    },
-    {
         "title": "대한항공 기장도 당했다…항공업계 드리운 코로나19 그림자",
         "link": "https://news.joins.com/article/olink/23404357"
-    },
-    {
-        "title": "쿠팡 덕평물류센터, 코로나19 확진자 발생으로 폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200624120251030?did=1195m"
     },
     {
         "title": "경주서 해외유입 코로나19 확진자 발생…전체 환자 51명",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "코로나19 대전 확진자 \"나도 피해자인데 지탄받는 죄인 돼\"",
         "link": "http://yna.kr/AKR20200624114700063?did=1195m"
+    },
+    {
+        "title": "25일부터 코로나19 확진자 격리해제 기준 완화",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23809678"
+    },
+    {
+        "title": "대구 대표축제 치맥페스티벌, 너 마저…‘코로나19’ 여파로 결국 취소",
+        "link": "https://www.donga.com/news/article/all/20200624/101671424/2"
     }
 ];

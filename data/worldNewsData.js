@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/europe/coronavirus-germany-outbreaks-intl-grm/index.html"
     },
     {
-        "title": "Coronavirus live updates: NYC Marathon canceled as more states see rising case totals",
+        "title": "Coronavirus live updates: New York activates quarantine for travelers from hotspots as Florida shatters daily record",
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "China Students Trapped Abroad by the Coronavirus Are Criticized at Home",
-        "link": "https://www.nytimes.com/2020/06/24/business/china-nationalist-students-coronavirus.html"
+        "title": "Inside a mass Covid-19 testing site in Beijing",
+        "link": "https://www.cnn.com/videos/world/2020/06/24/china-beijing-coronavirus-testing-site-culver-lkl-intl-hnk-vpx.cnn"
     },
     {
         "title": "Live Coronavirus Updates: Nations Scramble to Fend Off Outbreaks",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Trump administration ending support for 7 Texas testing sites as coronavirus cases spike | TheHill",
-        "link": "https://thehill.com/policy/healthcare/504270-trump-admin-ending-support-for-7-texas-testing-sites-as-cases-spike-in"
+        "title": "By the Numbers: The state of COVID-19 testing",
+        "link": "https://www.youtube.com/watch?v=YWHq5tOFP-g"
     }
 ];
