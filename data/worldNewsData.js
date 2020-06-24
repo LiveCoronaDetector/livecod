@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.ndtv.com/world-news/human-error-caused-pakistan-plane-crash-pilots-were-discussing-coronavirus-report-2251437"
     },
     {
-        "title": "Europe Could Ban US Tourists When It Reopens",
-        "link": "https://simpleflying.com/europe-could-ban-us-tourists/"
+        "title": "EU is discussing reopening its borders, and US citizens could remain barred",
+        "link": "https://www.cnbc.com/2020/06/24/eu-to-open-external-borders-but-us-visitors-could-be-banned.html"
     },
     {
-        "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
-        "link": "https://www.washingtonpost.com/opinions/2020/06/23/an-exploding-coronavirus-crisis-shows-modi-is-not-up-task-leading-india/"
+        "title": "Coronavirus live updates: India reports record spike in cases, U.S. citizens could remain barred from EU",
+        "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "Australians' trust in China falls to record low, nationwide poll shows",
-        "link": "https://www.cnbc.com/2020/06/24/australia-lowy-poll-shows-trust-in-china-has-declined-amid-coronavirus.html"
+        "title": "China Students Trapped Abroad by the Coronavirus Are Criticized at Home",
+        "link": "https://www.nytimes.com/2020/06/24/business/china-nationalist-students-coronavirus.html"
     },
     {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Global report: seven US states report record Covid-19 hospitalisations",
-        "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
+        "title": "Seven states report new highs for coronavirus hospitalizations",
+        "link": "https://nypost.com/2020/06/23/seven-states-report-new-highs-for-coronavirus-hospitalizations/"
     },
     {
         "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
         "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
     },
     {
-        "title": "Global coronavirus death toll surges past 475,000: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/fauci-warns-coronavirus-cases-surge-live-updates-200623235547181.html"
+        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
+        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
     }
 ];
