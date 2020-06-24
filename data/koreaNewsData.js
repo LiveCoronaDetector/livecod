@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200624000154"
     },
     {
-        "title": "\"쿠팡發 코로나 확산 또?\"…덕평물류센터서 확진자 나와",
-        "link": "http://www.inews24.com/view/1276232"
+        "title": "경기도 이천 쿠팡물류센터 확진자 발생해 폐쇄조치",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5821157_32633.html"
     },
     {
         "title": "[단독]대한항공 운항승무원 1명 코로나19 첫 확진 발생",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z45I3XRF6"
     },
     {
-        "title": "쿠팡 덕평물류센터, 코로나19 확진자 발생으로 폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200624120251030?did=1195m"
-    },
-    {
-        "title": "쿠팡 덕평 물류센터 근무자 코로나19 확진...즉각 폐쇄",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200624500170&wlog_tag3=naver"
-    },
-    {
-        "title": "쿠팡 덕평 물류센터도 코로나 확진자로 폐쇄",
-        "link": "http://www.hani.co.kr/arti/society/society_general/950732.html"
+        "title": "日 도쿄 코로나19 신규 확진 55명…\"비상사태 해제 이후 최다\"",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/24/2020062490076.html"
     },
     {
         "title": "인천 확진자와 접촉한 부천 거주 30대 코로나19 감염(종합)",
         "link": "http://yna.kr/AKR20200624150851065?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진자 51명…검역 과정서 국외 유입 12명 확인",
+        "link": "http://www.hani.co.kr/arti/society/health/950710.html"
+    },
+    {
+        "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

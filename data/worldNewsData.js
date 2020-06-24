@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "American Travelers Likely Won’t Be Allowed Into EU Anytime Soon",
-        "link": "https://skift.com/2020/06/23/american-travelers-likely-wont-be-allowed-into-eu-anytime-soon/"
+        "title": "America out, China in as EU looks to reopen external borders",
+        "link": "https://www.politico.com/news/2020/06/24/coronavirus-america-china-europe-337376"
     },
     {
         "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
-        "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
-    },
-    {
         "title": "Global report: seven US states report record Covid-19 hospitalisations",
         "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
+    },
+    {
+        "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
+        "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
     },
     {
         "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
