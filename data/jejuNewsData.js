@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23401744"
     },
     {
-        "title": "제주서 시설격리 중 숨진 20대 여성, 코로나19 검사 결과 '음성'",
-        "link": "http://www.inews24.com/view/1275554"
-    },
-    {
         "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단 선택",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005847566&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     }
 ];

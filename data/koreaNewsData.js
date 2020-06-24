@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623056700063?did=1195m"
     },
     {
+        "title": "코로나19 확진자에 더 벌벌 떠는 PGA 투어",
+        "link": "https://news.joins.com/article/olink/23403475"
+    },
+    {
+        "title": "남아공 코로나19 누적 확진 10만명 넘어서(종합)",
+        "link": "http://yna.kr/AKR20200623165051099?did=1195m"
+    },
+    {
         "title": "신천지 \"코로나 완치자 4천명 혈장 공여\"",
         "link": "http://yna.kr/AKR20200623118500005?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006241013001&code=940601"
     },
     {
         "title": "\"코로나 확진자 없다\" 제출 서류만 믿다 부산항 검역망 뚫려",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 신규 확진자 46명···해외유입 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006231013001&code=940601"
+        "title": "‘코로나19’ 신규 확진자 46명…“해외유입 30명·지역발생 16명”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4477144&ref=A"
+    },
+    {
+        "title": "경주서 해외유입 코로나19 확진자 발생…전체 환자 51명",
+        "link": "https://www.nocutnews.co.kr/news/5366311"
+    },
+    {
+        "title": "[속보]'코로나19' 확진자 51명 추가…3일 연속 증가",
+        "link": "https://www.news1.kr/articles/?3974814"
     },
     {
         "title": "코로나19 신규 확진자 46명…국외유입 30명 > 지역 16명",
         "link": "http://www.hani.co.kr/arti/society/health/950540.html"
-    },
-    {
-        "title": "코로나19 확진자에 더 벌벌 떠는 PGA 투어",
-        "link": "https://news.joins.com/article/olink/23403475"
-    },
-    {
-        "title": "WHO “韓, 코로나 잘 통제 중…확진자 수 매우 안정”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000987349?division=NAVER"
-    },
-    {
-        "title": "'코로나 심각' 수도권 '등교인원 3분의 1 이하' 무기한 연장(종합)",
-        "link": "https://www.news1.kr/articles/?3974138"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 46명 중 해외 30명...러시아 16명 등",
-        "link": "http://www.fnnews.com/news/202006231433278998"
-    },
-    {
-        "title": "“러시아 화물선서 16명 확진”...코로나19 신규 확진자 46명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200623500028&wlog_tag3=naver"
     }
 ];

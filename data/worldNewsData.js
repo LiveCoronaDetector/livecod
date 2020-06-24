@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "EU May Ban Travel from US as it Reopens Borders, Citing Coronavirus Failures",
-        "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
         "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "American Travelers Likely Won’t Be Allowed Into EU Anytime Soon",
-        "link": "https://skift.com/2020/06/23/american-travelers-likely-wont-be-allowed-into-eu-anytime-soon/"
+        "title": "EU considers blocking US travelers due to coronavirus surge",
+        "link": "https://www.youtube.com/watch?v=_KQdEWefW2o"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news, today",
         "link": "https://en.as.com/en/2020/06/24/latest_news/1592955434_045157.html"
     },
     {
-        "title": "In Fight to Ban Dog Meat, China’s Activists Find an Ally: The Coronavirus",
-        "link": "https://www.nytimes.com/2020/06/23/world/asia/china-dog-meat.html"
-    },
-    {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
-        "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
-    },
-    {
-        "title": "University of Michigan to Drop Out as Presidential Debate Host",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
+        "title": "Live Stock Market Updates During the Coronavirus Pandemic",
+        "link": "https://www.nytimes.com/2020/06/23/business/stock-market-today-coronavirus.html"
     },
     {
         "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
         "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
+    },
+    {
+        "title": "Who Wants an American Tourist Now?",
+        "link": "https://skift.com/2020/06/23/who-wants-an-american-tourist-now/"
+    },
+    {
+        "title": "Countries around the world scramble to contain coronavirus flare-ups as U.S. states remain open",
+        "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
+    },
+    {
+        "title": "World's No. 1 tennis player Novak Djokovic tests positive for coronavirus after hosting tournament | TheHill",
+        "link": "https://thehill.com/homenews/media/504032-worlds-1-tennis-player-novak-djokovic-tests-positive-for-coronavirus-after"
     }
 ];
