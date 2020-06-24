@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z45I3XRF6"
     },
     {
+        "title": "경주서 해외유입 코로나19 확진자 발생…전체 환자 51명",
+        "link": "https://www.nocutnews.co.kr/news/5366311"
+    },
+    {
         "title": "대전서 코로나19 5명 더 확진…찜질방 등 이어 콜센터서도 발생(종합)",
         "link": "http://yna.kr/AKR20200624055451063?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "인천 확진자와 접촉한 부천 거주 30대 코로나19 감염(종합)",
         "link": "http://yna.kr/AKR20200624150851065?did=1195m"
-    },
-    {
-        "title": "쿠팡, 덕평 물류센터 코로나19 확진자 발생...즉각 폐쇄",
-        "link": "http://www.etnews.com/20200624000154"
     }
 ];

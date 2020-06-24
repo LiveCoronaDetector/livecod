@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.ndtv.com/world-news/human-error-caused-pakistan-plane-crash-pilots-were-discussing-coronavirus-report-2251437"
     },
     {
-        "title": "The EU is discussing reopening its borders, and U.S. citizens could remain barred",
-        "link": "https://www.cnbc.com/2020/06/24/eu-to-open-external-borders-but-us-visitors-could-be-banned.html"
+        "title": "EU Considers Barring US, Brazilian & Russian Travellers When it Opens Borders from July 1",
+        "link": "https://www.euroweeklynews.com/2020/06/24/eu-considers-barring-us-brazilian-russian-travellers-when-it-opens-borders-from-july-1/"
     },
     {
         "title": "Coronavirus live updates: India reports record spike in cases, U.S. citizens could remain barred from EU",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
-        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
+        "title": "University of Michigan to Drop Out as Presidential Debate Host",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
         "title": "Global report: seven US states report record Covid-19 hospitalisations",
         "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
     },
     {
-        "title": "University of Michigan to Drop Out as Presidential Debate Host",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
+        "title": "Beijing officials declare outbreak 'under control': Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/fauci-warns-coronavirus-cases-surge-live-updates-200623235547181.html"
     }
 ];
