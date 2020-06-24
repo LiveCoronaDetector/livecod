@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
     },
     {
-        "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
-        "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
+        "title": "Pakistan Plane Crash Due To Human Error, Pilots Were Discussing Coronavirus: Report",
+        "link": "https://www.ndtv.com/world-news/human-error-caused-pakistan-plane-crash-pilots-were-discussing-coronavirus-report-2251437"
     },
     {
         "title": "Europe Could Ban US Tourists When It Reopens",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/24/australia-lowy-poll-shows-trust-in-china-has-declined-amid-coronavirus.html"
     },
     {
-        "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
-        "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
-    },
-    {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
-        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
+        "title": "Global report: seven US states report record Covid-19 hospitalisations",
+        "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
     },
     {
         "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
         "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
+    },
+    {
+        "title": "Global coronavirus death toll surges past 475,000: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/fauci-warns-coronavirus-cases-surge-live-updates-200623235547181.html"
     }
 ];
