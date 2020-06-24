@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/950710.html"
     },
     {
+        "title": "코로나19 확진자 접촉한 KLPGA 대회장 캐디, 음성 판정",
+        "link": "http://yna.kr/AKR20200624052500007?did=1195m"
+    },
+    {
+        "title": "[종합]대전서 코로나 확진자 5명 늘어…열흘 사이 50명 감염",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062401995.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "대전서 5명 더 코로나19 확진…사우나·상가 등서 확진자 접촉",
         "link": "http://yna.kr/AKR20200623056700063?did=1195m"
     },
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623118500005?did=1195m"
     },
     {
-        "title": "한 시름 던 KLPGA, 코로나19 확진자 밀접접촉 캐디 음성 판정",
-        "link": "https://news.joins.com/article/olink/23403703"
+        "title": "코로나19 확진 51명 증가…서울 11·대전 8·해외유입 20명",
+        "link": "https://www.nocutnews.co.kr/news/5366379"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006241013001&code=940601"
     },
     {
-        "title": "코로나19 확진자 어제 51명 늘어…‘50명선’ 또 넘었다",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208533"
-    },
-    {
         "title": "\"코로나 확진자 없다\" 제출 서류만 믿다 부산항 검역망 뚫려",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 확진자에 더 벌벌 떠는 PGA 투어",
-        "link": "https://news.joins.com/article/olink/23403475"
-    },
-    {
-        "title": "남아공 코로나19 누적 확진 10만명 넘어서(종합)",
-        "link": "http://yna.kr/AKR20200623165051099?did=1195m"
+        "title": "코로나19 확진자 어제 51명 늘어…‘50명선’ 또 넘었다",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208533"
     }
 ];

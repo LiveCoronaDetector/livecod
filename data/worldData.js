@@ -1428,9 +1428,9 @@ var marker = [
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "확진자수": 83,
-        "사망자수": 1,
-        "완치자수": 69
+        "확진자수": 86,
+        "사망자수": 2,
+        "완치자수": 72
     },
     {
         "Name": "Sint Maarten",
@@ -1484,7 +1484,7 @@ var marker = [
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "확진자수": 41,
+        "확진자수": 42,
         "사망자수": 2,
         "완치자수": 26
     },

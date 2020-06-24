@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "Brazil's Jair Bolsonaro ordered to wear mask in public",
-        "link": "https://www.bbc.com/news/world-latin-america-53154890"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
         "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=_KQdEWefW2o"
     },
     {
-        "title": "UNICEF: Pandemic Raises Concern About Youth Suicide In South Asia : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/06/23/882338481/bleak-unicef-report-on-kids-and-covid-19-but-there-is-hope"
+        "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
+        "link": "https://www.washingtonpost.com/opinions/2020/06/23/an-exploding-coronavirus-crisis-shows-modi-is-not-up-task-leading-india/"
     },
     {
         "title": "Live Stock Market Updates During the Coronavirus Pandemic",
