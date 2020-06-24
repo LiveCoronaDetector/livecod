@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/24/latest_news/1592980987_738993.html"
     },
     {
-        "title": "E.U. May Exclude U.S. as It Reopens Borders, Citing Failures on Virus",
-        "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
+        "title": "5 things to know for June 24: Coronavirus, Justice Department, NASCAR, Mexico, Canada",
+        "link": "https://www.cnn.com/2020/06/24/us/five-things-june-24-trnd/index.html"
     },
     {
         "title": "Cabinet approves Shin Bet tracking, bill to head to Knesset",
@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/24/eu-to-open-external-borders-but-us-visitors-could-be-banned.html"
     },
     {
-        "title": "Coronavirus live updates: Restrictions could ding U.S. economy as more states seeing rising case totals",
+        "title": "Coronavirus live updates: NYC Marathon canceled as more states see rising case totals",
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/24/business/china-nationalist-students-coronavirus.html"
     },
     {
-        "title": "IMF slashes its forecasts for the global economy and warns of soaring debt levels",
-        "link": "https://www.cnbc.com/2020/06/24/imf-global-economy-to-contract-with-coronavirus-recovery-slow.html"
+        "title": "Live Coronavirus Updates: Nations Scramble to Fend Off Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     },
     {
-        "title": "Global report: seven US states report record Covid-19 hospitalisations",
-        "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
+        "title": "IMF slashes its forecasts for the global economy and warns of soaring debt levels",
+        "link": "https://www.cnbc.com/2020/06/24/imf-global-economy-to-contract-with-coronavirus-recovery-slow.html"
     },
     {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Accounts for 20% of New Cases Globally",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
+        "title": "Trump swing state allies break with White House on Covid-19",
+        "link": "https://www.politico.com/news/2020/06/23/trump-republican-governors-coronavirus-335834"
     }
 ];
