@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/business/media/disney-china-schools-closing.html"
     },
     {
-        "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
-        "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-24-20-intl/index.html"
     },
     {
         "title": "New Survey Highlights Travelers' Desire to Visit Europe When It Reopens",
         "link": "https://www.travelpulse.com/news/features/new-survey-highlights-travelers-desire-to-visit-europe-when-it-reopens.html"
     },
     {
-        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
-        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
+        "title": "Coronavirus live news: deaths in Latin America pass 100,000 as Fauci warns of 'disturbing' US cases surge",
+        "link": "https://www.theguardian.com/world/live/2020/jun/24/coronavirus-live-news-update-dr-fauci-disturbing-us-case-surge-brazil-covid-19-infections-cases-latest-updates"
     },
     {
-        "title": "Seven states report highest coronavirus hospitalizations since pandemic began",
-        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
+        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
+        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
     }
 ];
