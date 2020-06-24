@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401449.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대전서 코로나19 5명 더 확진…찜질방 등 이어 콜센터서도 발생(종합)",
-        "link": "http://yna.kr/AKR20200624055451063?did=1195m"
+        "title": "[종합]대전서 코로나 확진자 5명 늘어…열흘 사이 50명 감염",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062401995.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "김포서 유치원생 코로나19 양성 판정…확진자 친척",
+        "link": "http://yna.kr/AKR20200624078900065?did=1195m"
     },
     {
         "title": "코로나19 확진자 어제 51명 늘어…‘50명선’ 또 넘었다",

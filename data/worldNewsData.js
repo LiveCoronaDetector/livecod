@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
     },
     {
+        "title": "New Survey Highlights Travelers' Desire to Visit Europe When It Reopens",
+        "link": "https://www.travelpulse.com/news/features/new-survey-highlights-travelers-desire-to-visit-europe-when-it-reopens.html"
+    },
+    {
         "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
         "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
     },
     {
-        "title": "EU considers coronavirus travel ban from US as Europe begins to reopen",
-        "link": "https://www.youtube.com/watch?v=E2QhpCL9qmA"
-    },
-    {
-        "title": "Countries around the world scramble to contain coronavirus flare-ups as U.S. states remain open",
-        "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
+        "title": "Seven states report highest coronavirus hospitalizations since pandemic began",
+        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
     }
 ];
