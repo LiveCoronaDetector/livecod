@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/950710.html"
     },
     {
-        "title": "[단독]대한항공 운항승무원 1명 코로나19 첫 확진 발생",
-        "link": "http://www.sportsseoul.com/news/read/930076?ref=naver"
+        "title": "김포서 유치원생 코로나19 양성 판정…확진자 친척",
+        "link": "http://yna.kr/AKR20200624078900065?did=1195m"
     },
     {
         "title": "코로나 확진자의 절규 \"나는 죄인입니다\"",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/24/2020062490076.html"
     },
     {
-        "title": "인천 확진자와 접촉한 부천 거주 30대 코로나19 감염(종합)",
-        "link": "http://yna.kr/AKR20200624150851065?did=1195m"
+        "title": "[단독]대한항공 운항승무원 1명 코로나19 첫 확진 발생",
+        "link": "http://www.sportsseoul.com/news/read/930076?ref=naver"
     },
     {
-        "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "인천 확진자와 접촉한 부천 거주 30대 코로나19 감염(종합)",
+        "link": "http://yna.kr/AKR20200624150851065?did=1195m"
     }
 ];

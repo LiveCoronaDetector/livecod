@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://simpleflying.com/europe-could-ban-us-tourists/"
     },
     {
-        "title": "UNICEF: Pandemic Raises Concern About Youth Suicide In South Asia : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/06/23/882338481/bleak-unicef-report-on-kids-and-covid-19-but-there-is-hope"
+        "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
+        "link": "https://www.washingtonpost.com/opinions/2020/06/23/an-exploding-coronavirus-crisis-shows-modi-is-not-up-task-leading-india/"
     },
     {
         "title": "Australians' trust in China falls to record low, nationwide poll shows",
         "link": "https://www.cnbc.com/2020/06/24/australia-lowy-poll-shows-trust-in-china-has-declined-amid-coronavirus.html"
     },
     {
+        "title": "Novak Djokovic tests positive for coronavirus after Adria Tour event",
+        "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
+    },
+    {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Global report: seven US states report record Covid-19 hospitalisations",
-        "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
+        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
+        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
     },
     {
         "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
         "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
-    },
-    {
-        "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
-        "link": "https://www.nbcnews.com/health/health-news/not-care-world-hard-hit-states-younger-adults-increasingly-bear-n1231748"
     }
 ];
