@@ -5,28 +5,24 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "Brazil's Jair Bolsonaro ordered to wear mask in public",
+        "link": "https://www.bbc.com/news/world-latin-america-53154890"
     },
     {
         "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "Who Wants an American Tourist Now?",
-        "link": "https://skift.com/2020/06/23/who-wants-an-american-tourist-now/"
+        "title": "EU May Ban Travel from US as it Reopens Borders, Citing Coronavirus Failures",
+        "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news, today",
-        "link": "https://en.as.com/en/2020/06/24/latest_news/1592955434_045157.html"
+        "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
+        "link": "https://www.washingtonpost.com/opinions/2020/06/23/an-exploding-coronavirus-crisis-shows-modi-is-not-up-task-leading-india/"
     },
     {
         "title": "Live Stock Market Updates During the Coronavirus Pandemic",
         "link": "https://www.nytimes.com/2020/06/23/business/stock-market-today-coronavirus.html"
-    },
-    {
-        "title": "Live updates: Seven states report highest coronavirus hospitalizations since pandemic began",
-        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
     },
     {
         "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
     },
     {
-        "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
-        "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
+        "title": "University of Michigan to Drop Out as Presidential Debate Host",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Live updates: Seven states report highest coronavirus hospitalizations since pandemic began",
+        "link": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/"
     }
 ];
