@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Coronavirus: New York imposes quarantine on nine US states",
-        "link": "https://www.bbc.com/news/world-us-canada-53167780"
+        "title": "Live updates: New coronavirus cases in the U.S. soar to highest single-day total",
+        "link": "https://www.washingtonpost.com/nation/2020/06/24/coronavirus-live-updates-us/"
     },
     {
         "title": "Pilots in Pakistan air crash distracted by coronavirus concerns, aviation minister says",
         "link": "https://www.nbcnews.com/news/world/pilots-pakistan-air-crash-distracted-coronavirus-concerns-aviation-minister-says-n1231982"
     },
     {
-        "title": "Welcome to the whack-a-mole stage of coronavirus",
-        "link": "https://www.cnn.com/2020/06/24/europe/coronavirus-germany-outbreaks-intl-grm/index.html"
+        "title": "'I am angry': Germans back in lockdown demand accountability",
+        "link": "https://www.theguardian.com/world/2020/jun/24/west-germany-district-re-enters-lockdown-after-new-covid-19-outbreak"
     },
     {
         "title": "Coronavirus live updates: California, Florida report record cases as NY orders quarantine for some travelers",
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "China Students Trapped Abroad by the Coronavirus Are Criticized at Home",
-        "link": "https://www.nytimes.com/2020/06/24/business/china-nationalist-students-coronavirus.html"
+        "title": "Inside a mass Covid-19 testing site in Beijing",
+        "link": "https://www.cnn.com/videos/world/2020/06/24/china-beijing-coronavirus-testing-site-culver-lkl-intl-hnk-vpx.cnn"
+    },
+    {
+        "title": "Coronavirus: New York imposes quarantine on nine US states",
+        "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
         "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
-        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "New coronavirus cases in the US soar to highest single-day total with 36,000 infected",
-        "link": "https://www.thesun.co.uk/news/11947824/new-coronavirus-cases-united-states-soar-infected/"
-    },
-    {
-        "title": "Coronavirus: Gütersloh mayor Henning Schulz slams Tönnies meat producer after massive outbreak forces lockdown",
-        "link": "https://www.dw.com/en/coronavirus-g%C3%BCtersloh-mayor-henning-schulz-slams-t%C3%B6nnies-meat-producer-after-massive-outbreak-forces-lockdown/a-53932101"
+        "title": "New coronavirus cases in U.S. jump to highest level in 2 months, since peak of outbreak",
+        "link": "https://www.cbsnews.com/news/coronavirus-cases-united-states-highest-peak/"
     }
 ];

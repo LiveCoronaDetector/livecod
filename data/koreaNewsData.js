@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200625002551088?did=1195m"
     },
     {
-        "title": "쿠팡 덕평 물류센터, 코로나19 확진자 나와 폐쇄",
-        "link": "https://www.zdnet.co.kr/view/?no=20200624132645"
-    },
-    {
-        "title": "경기도 이천 쿠팡물류센터 확진자 발생해 폐쇄조치",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5821157_32633.html"
+        "title": "쿠팡 또 확진자 발생, 덕평 물류센터 폐쇄",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062402379.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "쿠팡, 덕평 물류센터 코로나19 확진자 발생...즉각 폐쇄",
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/950710.html"
     },
     {
+        "title": "경기도 이천 쿠팡물류센터 확진자 발생해 폐쇄조치",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5821157_32633.html"
+    },
+    {
+        "title": "\"쿠팡發 코로나 확산 또?\"…덕평물류센터서 확진자 나와",
+        "link": "http://www.inews24.com/view/1276232"
+    },
+    {
+        "title": "코로나 확진자의 절규 \"나는 죄인입니다\"",
+        "link": "https://www.sedaily.com/NewsView/1Z45I3XRF6"
+    },
+    {
         "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "대한항공 기장도 당했다…항공업계 드리운 코로나19 그림자",
         "link": "https://news.joins.com/article/olink/23404357"
-    },
-    {
-        "title": "경주서 해외유입 코로나19 확진자 발생…전체 환자 51명",
-        "link": "https://www.nocutnews.co.kr/news/5366311"
-    },
-    {
-        "title": "코로나19 대전 확진자 \"나도 피해자인데 지탄받는 죄인 돼\"",
-        "link": "http://yna.kr/AKR20200624114700063?did=1195m"
     }
 ];
