@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/24/latest_news/1592980987_738993.html"
     },
     {
-        "title": "E.U. May Exclude U.S. as It Reopens Borders, Citing Failures on Virus",
-        "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
+        "title": "5 things to know for June 24: Coronavirus, Justice Department, NASCAR, Mexico, Canada",
+        "link": "https://www.cnn.com/2020/06/24/us/five-things-june-24-trnd/index.html"
     },
     {
         "title": "Pakistan Plane Crash Due To Human Error, Pilots Were Discussing Coronavirus: Report",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "University of Michigan to Drop Out as Presidential Debate Host",
-        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
+        "title": "COVID-19 death toll keeps rising — and the media should hold Trump accountable",
+        "link": "https://www.salon.com/2020/06/23/covid-19-death-toll-keeps-rising--and-the-media-should-hold-trump-accountable/"
     },
     {
-        "title": "Global report: seven US states report record Covid-19 hospitalisations",
-        "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
+        "title": "IMF slashes its forecasts for the global economy and warns of soaring debt levels",
+        "link": "https://www.cnbc.com/2020/06/24/imf-global-economy-to-contract-with-coronavirus-recovery-slow.html"
     },
     {
         "title": "Beijing officials declare outbreak 'under control': Live updates",
