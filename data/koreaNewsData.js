@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401449.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "또 쿠팡…덕평물류센터서 확진자 나와 폐쇄(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200624_0001071277&cID=10201&pID=10200"
-    },
-    {
-        "title": "쿠팡 덕평 물류센터, 코로나19 확진자 나와 폐쇄",
-        "link": "https://www.zdnet.co.kr/view/?no=20200624132645"
+        "title": "쿠팡 또 확진자 발생, 덕평 물류센터 폐쇄",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062402379.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "쿠팡, 덕평 물류센터 코로나19 확진자 발생...즉각 폐쇄",
         "link": "http://www.etnews.com/20200624000154"
     },
     {
+        "title": "\"쿠팡發 코로나 확산 또?\"…덕평물류센터서 확진자 나와",
+        "link": "http://www.inews24.com/view/1276232"
+    },
+    {
+        "title": "[단독]대한항공 운항승무원 1명 코로나19 첫 확진 발생",
+        "link": "http://www.sportsseoul.com/news/read/930076?ref=naver"
+    },
+    {
         "title": "코로나 확진자의 절규 \"나는 죄인입니다\"",
         "link": "https://www.sedaily.com/NewsView/1Z45I3XRF6"
     },
     {
-        "title": "日 도쿄 코로나19 신규 확진 55명…\"비상사태 해제 이후 최다\"",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/24/2020062490076.html"
+        "title": "쿠팡 덕평물류센터, 코로나19 확진자 발생으로 폐쇄(종합)",
+        "link": "http://yna.kr/AKR20200624120251030?did=1195m"
+    },
+    {
+        "title": "쿠팡 덕평 물류센터 근무자 코로나19 확진...즉각 폐쇄",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200624500170&wlog_tag3=naver"
+    },
+    {
+        "title": "쿠팡 덕평 물류센터도 코로나 확진자로 폐쇄",
+        "link": "http://www.hani.co.kr/arti/society/society_general/950732.html"
     },
     {
         "title": "인천 확진자와 접촉한 부천 거주 30대 코로나19 감염(종합)",
         "link": "http://yna.kr/AKR20200624150851065?did=1195m"
-    },
-    {
-        "title": "코로나 신규 확진자 51명…검역 과정서 국외 유입 12명 확인",
-        "link": "http://www.hani.co.kr/arti/society/health/950710.html"
-    },
-    {
-        "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "내일부터 무증상 코로나19 환자 10일간 증상 없으면 격리해제",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5821312_32633.html"
     }
 ];
