@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/us/five-things-june-24-trnd/index.html"
     },
     {
-        "title": "Cabinet approves Shin Bet tracking, bill to head to Knesset",
-        "link": "https://www.jpost.com/breaking-news/154-new-coronavirus-patients-in-israel-632601"
+        "title": "Pilots in Pakistan Crash Were Chatting About Coronavirus, Says Aviation Minister",
+        "link": "https://www.wsj.com/articles/pilots-in-pakistan-crash-were-chatting-about-coronavirus-says-aviation-minister-11592997842"
     },
     {
-        "title": "The EU is discussing reopening its borders, and U.S. citizens could remain barred",
-        "link": "https://www.cnbc.com/2020/06/24/eu-to-open-external-borders-but-us-visitors-could-be-banned.html"
+        "title": "Welcome to the whack-a-mole stage of coronavirus",
+        "link": "https://www.cnn.com/2020/06/24/europe/coronavirus-germany-outbreaks-intl-grm/index.html"
     },
     {
         "title": "Coronavirus live updates: NYC Marathon canceled as more states see rising case totals",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Trump swing state allies break with White House on Covid-19",
-        "link": "https://www.politico.com/news/2020/06/23/trump-republican-governors-coronavirus-335834"
+        "title": "Americans urged to stick to guidelines as Covid-19 cases increase",
+        "link": "https://www.theguardian.com/us-news/2020/jun/24/americans-coronavirus-covid-19-cases-increase"
     }
 ];
