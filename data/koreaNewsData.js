@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200625002551088?did=1195m"
     },
     {
-        "title": "코로나 신규 확진자 51명…검역 과정서 국외 유입 12명 확인",
-        "link": "http://www.hani.co.kr/arti/society/health/950710.html"
-    },
-    {
-        "title": "쿠팡 또 코로나 확진자 발생, 덕평 물류센터 폐쇄",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062402788.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "쿠팡 덕평 물류센터, 코로나19 확진자 나와 폐쇄",
+        "link": "https://www.zdnet.co.kr/view/?no=20200624132645"
     },
     {
         "title": "경기도 이천 쿠팡물류센터 확진자 발생해 폐쇄조치",
@@ -23,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "미국, 코로나 확진자 다시 급증…다우지수 710P 급락 마감",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250012&t=NN"
+    },
+    {
+        "title": "코로나 신규 확진자 51명…검역 과정서 국외 유입 12명 확인",
+        "link": "http://www.hani.co.kr/arti/society/health/950710.html"
     },
     {
         "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",

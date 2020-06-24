@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Live updates: New coronavirus cases in the U.S. soar to highest single-day total",
-        "link": "https://www.washingtonpost.com/nation/2020/06/24/coronavirus-live-updates-us/"
+        "title": "Coronavirus: New York imposes quarantine on nine US states",
+        "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
-        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
-        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
+        "title": "Pilots in Pakistan air crash distracted by coronavirus concerns, aviation minister says",
+        "link": "https://www.nbcnews.com/news/world/pilots-pakistan-air-crash-distracted-coronavirus-concerns-aviation-minister-says-n1231982"
     },
     {
         "title": "Welcome to the whack-a-mole stage of coronavirus",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "Coronavirus: New York imposes quarantine on nine US states",
-        "link": "https://www.bbc.com/news/world-us-canada-53167780"
+        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
+        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
-        "title": "IMF slashes its forecasts for the global economy and warns of soaring debt levels",
-        "link": "https://www.cnbc.com/2020/06/24/imf-global-economy-to-contract-with-coronavirus-recovery-slow.html"
+        "title": "New coronavirus cases in the US soar to highest single-day total with 36,000 infected",
+        "link": "https://www.thesun.co.uk/news/11947824/new-coronavirus-cases-united-states-soar-infected/"
     },
     {
         "title": "Coronavirus: Gütersloh mayor Henning Schulz slams Tönnies meat producer after massive outbreak forces lockdown",
