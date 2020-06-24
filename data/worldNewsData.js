@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "EU considers blocking US travelers due to coronavirus surge",
-        "link": "https://www.youtube.com/watch?v=_KQdEWefW2o"
+        "title": "American Travelers Likely Won’t Be Allowed Into EU Anytime Soon",
+        "link": "https://skift.com/2020/06/23/american-travelers-likely-wont-be-allowed-into-eu-anytime-soon/"
     },
     {
-        "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
-        "link": "https://www.washingtonpost.com/opinions/2020/06/23/an-exploding-coronavirus-crisis-shows-modi-is-not-up-task-leading-india/"
+        "title": "Coronavirus India live updates: cases, deaths and news, today",
+        "link": "https://en.as.com/en/2020/06/24/latest_news/1592955434_045157.html"
     },
     {
-        "title": "Live Stock Market Updates During the Coronavirus Pandemic",
-        "link": "https://www.nytimes.com/2020/06/23/business/stock-market-today-coronavirus.html"
+        "title": "In Fight to Ban Dog Meat, China’s Activists Find an Ally: The Coronavirus",
+        "link": "https://www.nytimes.com/2020/06/23/world/asia/china-dog-meat.html"
     },
     {
         "title": "Coronavirus Live News and Updates",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://edition.cnn.com/2020/06/23/tennis/novak-djokovic-coronavirus-adria-tour-spt-intl/index.html"
     },
     {
-        "title": "Countries around the world scramble to contain coronavirus flare-ups as U.S. states remain open",
-        "link": "https://www.washingtonpost.com/world/2020/06/23/countries-around-world-scramble-contain-coronavirus-flare-ups-us-states-remain-open/"
+        "title": "University of Michigan to Drop Out as Presidential Debate Host",
+        "link": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html"
     },
     {
         "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",
