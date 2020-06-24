@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Coronavirus: US cases at highest level for two months",
-        "link": "https://www.bbc.com/news/world-us-canada-53167780"
+        "title": "Live Coronavirus Updates: Nations Scramble to Fend Off Outbreaks",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     },
     {
-        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
-        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
+        "title": "Pilots in Pakistan Crash Were Chatting About Coronavirus, Says Aviation Minister",
+        "link": "https://www.wsj.com/articles/pilots-in-pakistan-crash-were-chatting-about-coronavirus-says-aviation-minister-11592997842"
     },
     {
         "title": "Welcome to the whack-a-mole stage of coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "Texas governor urges people to stay home as states report surges of new Covid-19 cases",
-        "link": "https://www.cnn.com/2020/06/24/health/us-coronavirus-wednesday/index.html"
+        "title": "Coronavirus: US cases at highest level for two months",
+        "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
         "title": "IMF slashes its forecasts for the global economy and warns of soaring debt levels",
         "link": "https://www.cnbc.com/2020/06/24/imf-global-economy-to-contract-with-coronavirus-recovery-slow.html"
     },
     {
-        "title": "Germany: Over 600,000 re-enter 'soft lockdown' after Gütersloh meat plant outbreak",
-        "link": "https://www.dw.com/en/germany-over-600000-re-enter-soft-lockdown-after-g%C3%BCtersloh-meat-plant-outbreak/a-53924892"
+        "title": "Coronavirus: Gütersloh mayor Henning Schulz slams Tönnies meat producer after massive outbreak forces lockdown",
+        "link": "https://www.dw.com/en/coronavirus-g%C3%BCtersloh-mayor-henning-schulz-slams-t%C3%B6nnies-meat-producer-after-massive-outbreak-forces-lockdown/a-53932101"
     }
 ];
