@@ -5,36 +5,36 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/south-africa-start-continent-coronavirus-vaccine-pilot-200623162759120.html"
     },
     {
-        "title": "Live updates: Federal government to scale back testing support even as hospitalizations reach new highs",
-        "link": "https://www.washingtonpost.com/nation/2020/06/24/coronavirus-live-updates-us/"
+        "title": "EU May Ban Travel from US as it Reopens Borders, Citing Coronavirus Failures",
+        "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
     },
     {
         "title": "'Smart lockdown' in Pakistan to target 500 coronavirus hotspots",
         "link": "https://www.aljazeera.com/news/2020/06/lockdown-pakistan-target-500-coronavirus-hotspots-200623072202544.html"
     },
     {
-        "title": "New Survey Highlights Travelers' Desire to Visit Europe When It Reopens",
-        "link": "https://www.travelpulse.com/news/features/new-survey-highlights-travelers-desire-to-visit-europe-when-it-reopens.html"
+        "title": "American Travelers Won’t Be Allowed Into EU Anytime Soon",
+        "link": "https://skift.com/2020/06/23/american-travelers-wont-be-allowed-into-eu-anytime-soon/"
     },
     {
         "title": "An exploding coronavirus crisis shows Modi is not up to the task of leading India",
         "link": "https://www.washingtonpost.com/opinions/2020/06/23/an-exploding-coronavirus-crisis-shows-modi-is-not-up-task-leading-india/"
     },
     {
-        "title": "Here's how to trade Chinese stocks during rising tensions with the U.S. and a pandemic",
-        "link": "https://www.cnbc.com/2020/06/24/investing-in-chinese-stocks-amid-coronavirus-and-tensions-with-the-us.html"
+        "title": "Australians' trust in China falls to record low, nationwide poll shows",
+        "link": "https://www.cnbc.com/2020/06/24/australia-lowy-poll-shows-trust-in-china-has-declined-amid-coronavirus.html"
     },
     {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "CDC director: Covid-19 has 'brought this nation to its knees'",
-        "link": "https://www.cnn.com/2020/06/23/us/us-coronavirus-tuesday/index.html"
-    },
-    {
         "title": "Europe is mulling a ban on American travelers. Have we ‘transitioned to greatness’ yet?",
         "link": "https://www.washingtonpost.com/opinions/2020/06/23/europe-is-mulling-ban-american-travelers-have-we-transitioned-greatness-yet/"
+    },
+    {
+        "title": "Global report: seven US states report record Covid-19 hospitalisations",
+        "link": "https://www.theguardian.com/world/2020/jun/24/global-report-seven-us-states-report-record-covid-19-hospitalisations"
     },
     {
         "title": "'Not a care in the world': In hard-hit states, younger adults increasingly bear brunt of COVID-19 cases",

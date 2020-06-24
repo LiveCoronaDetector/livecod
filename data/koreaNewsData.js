@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200624000154"
     },
     {
-        "title": "김포서 유치원생 코로나19 양성 판정…확진자 친척",
-        "link": "http://yna.kr/AKR20200624078900065?did=1195m"
-    },
-    {
-        "title": "내일부터 무증상 코로나19 환자 10일간 증상 없으면 격리해제",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5821312_32633.html"
+        "title": "코로나 확진자의 절규 \"나는 죄인입니다\"",
+        "link": "https://www.sedaily.com/NewsView/1Z45I3XRF6"
     },
     {
         "title": "日 도쿄 코로나19 신규 확진 55명…\"비상사태 해제 이후 최다\"",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/24/2020062490076.html"
     },
     {
-        "title": "신규 확진자 51명…2주간 일평균 45.4명(상보)",
-        "link": "https://www.news1.kr/articles/?3974844"
+        "title": "인천 확진자와 접촉한 부천 거주 30대 코로나19 감염(종합)",
+        "link": "http://yna.kr/AKR20200624150851065?did=1195m"
     },
     {
-        "title": "코로나19 확진자 어제 51명 늘어…‘50명선’ 또 넘었다",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208533"
+        "title": "코로나 신규 확진자 51명…검역 과정서 국외 유입 12명 확인",
+        "link": "http://www.hani.co.kr/arti/society/health/950710.html"
     },
     {
-        "title": "6월 24일 ‘코로나19’ 전세계 확진자 916만명…입국금지·검역 조치 182개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/24/2020062480169.html"
+        "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "내일부터 무증상 코로나19 환자 10일간 증상 없으면 격리해제",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5821312_32633.html"
     }
 ];
