@@ -5,6 +5,26 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401449.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "대전서 코로나19 5명 더 확진…찜질방 등 이어 콜센터서도 발생(종합)",
+        "link": "http://yna.kr/AKR20200624055451063?did=1195m"
+    },
+    {
+        "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 확진자 어제 51명 늘어…‘50명선’ 또 넘었다",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208533"
+    },
+    {
+        "title": "신규 확진자 51명…2주간 일평균 45.4명(상보)",
+        "link": "https://www.news1.kr/articles/?3974844"
+    },
+    {
+        "title": "코로나19 확진자 접촉한 KLPGA 대회장 캐디, 음성 판정",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005850705&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "[속보] 코로나 신규 확진자 51명…국외 유입이 지역 감염 넘어서",
         "link": "http://www.hani.co.kr/arti/society/health/950710.html"
     },
@@ -13,31 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200623056700063?did=1195m"
     },
     {
-        "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "신천지 \"코로나 완치자 4천명 혈장 공여\"",
         "link": "http://yna.kr/AKR20200623118500005?did=1195m"
     },
     {
-        "title": "[대전] 확진자 5명 늘어... 모두 다단계발 n차 감염",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002652775&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "코로나19 확진자 접촉한 KLPGA 대회장 캐디, 음성 판정",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005850705&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006241013001&code=940601"
-    },
-    {
-        "title": "\"코로나 확진자 없다\" 제출 서류만 믿다 부산항 검역망 뚫려",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/23/2020062303300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "코로나19 확진자 어제 51명 늘어…‘50명선’ 또 넘었다",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208533"
+        "title": "코로나19 확진 51명 증가…서울 11·대전 8·해외유입 20명",
+        "link": "https://www.nocutnews.co.kr/news/5366379"
     }
 ];
