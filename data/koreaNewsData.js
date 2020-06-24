@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401449.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "쿠팡 덕평 물류센터, 코로나19 확진자 나와 폐쇄",
+        "link": "https://www.zdnet.co.kr/view/?no=20200624132645"
+    },
+    {
         "title": "쿠팡 덕평물류센터, 코로나19 확진자 발생으로 폐쇄(종합)",
         "link": "http://yna.kr/AKR20200624120251030?did=1195m"
     },
@@ -13,31 +17,27 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200624000154"
     },
     {
-        "title": "코로나 신규 확진자 51명…검역 과정서 국외 유입 12명 확인",
-        "link": "http://www.hani.co.kr/arti/society/health/950710.html"
+        "title": "또 쿠팡…덕평물류센터서 확진자 나와 폐쇄(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200624_0001071277&cID=10201&pID=10200"
     },
     {
-        "title": "김포서 유치원생 코로나 양성 판정… 확진자 조카",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/24/2020062401907.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 확진자 어제 51명 늘어…‘50명선’ 또 넘었다",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208533"
-    },
-    {
-        "title": "6월 24일 ‘코로나19’ 전세계 확진자 916만명…입국금지·검역 조치 182개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/24/2020062480169.html"
+        "title": "김포서 유치원생 코로나19 양성 판정…확진자의 친척",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4478445&ref=A"
     },
     {
         "title": "무증상 확진자, 10일 동안 증상 없으면 격리해제",
         "link": "https://www.nocutnews.co.kr/news/5366531"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006241013001&code=940601"
+        "title": "日 도쿄 코로나19 신규 확진 55명…\"비상사태 해제 이후 최다\"",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/24/2020062490076.html"
     },
     {
         "title": "코로나19 신규 확진 51명…지역감염 31명·해외유입 20명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/24/2020062490054.html"
+    },
+    {
+        "title": "신규 확진자 51명…2주간 일평균 45.4명(상보)",
+        "link": "https://www.news1.kr/articles/?3974844"
     }
 ];
