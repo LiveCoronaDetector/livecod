@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200625/101680641/2"
     },
     {
-        "title": "오늘 서울서 코로나19 확진자 7명 추가 발생…누계 1천257명(종합)",
-        "link": "http://yna.kr/AKR20200625148551004?did=1195m"
-    },
-    {
         "title": "'열일하는 AI' 경남 코로나 신규 확진자 40% 발견",
         "link": "http://www.bloter.net/archives/392064"
+    },
+    {
+        "title": "오늘 서울서 코로나19 확진자 7명 추가 발생…누계 1천257명(종합)",
+        "link": "http://yna.kr/AKR20200625148551004?did=1195m"
     },
     {
         "title": "서울 관악구서 코로나19 신규 확진자 5명 발생",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/25/2020062580124.html"
     },
     {
-        "title": "[종합] 서울 역삼동, 대전 서구 등 방문판매서 확진자 지속 증가",
-        "link": "http://www.fnnews.com/news/202006251427381849"
-    },
-    {
         "title": "대전 요양원 등서 5명 더 코로나19 확진…논산·아산서도 1명씩(종합)",
         "link": "http://yna.kr/AKR20200625060151063?did=1195m"
     },
     {
         "title": "코로나 신규 확진자 28명…지역발생 23명",
         "link": "http://www.hani.co.kr/arti/society/health/950875.html"
+    },
+    {
+        "title": "PGA투어에 퍼진 코로나 공포… 기권자 속출",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503701.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

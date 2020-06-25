@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
-        "title": "Pakistan airliner crashed after pilots were distracted by coronavirus",
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+        "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
+        "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
+    },
+    {
+        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
+        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
     },
     {
         "title": "These are the countries seeing a surge in coronavirus cases",
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
-        "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
-    },
-    {
-        "title": "Congo’s Deadliest Ebola Outbreak Is Declared Over",
-        "link": "https://www.nytimes.com/2020/06/25/world/africa/ebola-congo-who.html"
+        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     }
 ];
