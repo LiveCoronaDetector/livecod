@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200625060151063?did=1195m"
     },
     {
+        "title": "6월 25일 ‘코로나19’ 전세계 확진자 932만명…입국금지·검역 조치 182개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/25/2020062580124.html"
+    },
+    {
         "title": "[종합] 서울 역삼동, 대전 서구 등 방문판매서 확진자 지속 증가",
         "link": "http://www.fnnews.com/news/202006251427381849"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "PGA투어에 퍼진 코로나 공포… 기권자 속출",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503701.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "WHO \"코로나19 누적 확진자, 다음주 1천만명\"",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20200625000400038/?did=1825m"
     }
 ];

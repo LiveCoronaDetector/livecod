@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
-        "title": "Pakistan airliner crashed after pilots were distracted by coronavirus",
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
-        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
-    },
-    {
         "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
         "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
+    },
+    {
+        "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
         "title": "These are the countries seeing a surge in coronavirus cases",
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+        "title": "COVID outbreak in German meat plant reveals appalling living conditions | DW News",
+        "link": "https://www.youtube.com/watch?v=gsLj3bi1p0M"
     }
 ];
