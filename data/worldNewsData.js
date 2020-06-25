@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
-        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
-        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
+        "title": "Pakistan plane crashed after pilots distracted by coronavirus fears",
+        "link": "https://www.theguardian.com/world/2020/jun/25/pakistan-plane-crashed-after-pilots-distracted-by-coronavirus-fears"
     },
     {
         "title": "'I am angry': Germans back in lockdown demand accountability",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
-        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
-        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
+        "title": "Germany put 500,000 people back under lockdown after a spike in coronavirus cases - Business Insider",
+        "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
     },
     {
         "title": "Coronavirus Live News and Updates",

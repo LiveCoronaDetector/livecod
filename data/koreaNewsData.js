@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200625/101680641/2"
     },
     {
-        "title": "코로나 신규 확진자 28명…지역발생 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/950875.html"
+        "title": "'열일하는 AI' 경남 코로나 신규 확진자 40% 발견",
+        "link": "http://www.bloter.net/archives/392064"
     },
     {
         "title": "美 코로나 다시 '정점'…\"내주 확진자 1천만 명 달할 것\"",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987609?division=NAVER"
     },
     {
-        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
+        "title": "서울 관악구서 코로나19 신규 확진자 5명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503724.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "SK텔레콤, ‘누구 케어콜’로 경남 신규 코로나 확진자 40% 확인",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062501282.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
     },
     {
         "title": "“집단 감염 2주째”...베이징 코로나19 확진자 270명 육박",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500024&wlog_tag3=naver"
     },
     {
-        "title": "미국, 코로나 신규확진자 '최다'…커지는 재유행 공포",
-        "link": "https://www.hankyung.com/international/article/2020062565197"
-    },
-    {
         "title": "대전 요양원 등서 5명 더 코로나19 확진…논산·아산서도 1명씩(종합)",
         "link": "http://yna.kr/AKR20200625060151063?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진자 28명…지역발생 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/950875.html"
     },
     {
         "title": "[종합] 서울 역삼동, 대전 서구 등 방문판매서 확진자 지속 증가",
         "link": "http://www.fnnews.com/news/202006251427381849"
     },
     {
-        "title": "'열일하는 AI' 경남 코로나 신규 확진자 40% 발견",
-        "link": "http://www.bloter.net/archives/392064"
+        "title": "코로나19 국내 확진자 28명 늘어…지역발생 23명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208705"
     }
 ];
