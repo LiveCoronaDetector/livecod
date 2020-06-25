@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+        "title": "Coronavirus: New York imposes quarantine on eight US states",
+        "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
-        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
-        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
+        "title": "Pakistan plane crashed after pilots distracted by coronavirus fears",
+        "link": "https://www.theguardian.com/world/2020/jun/25/pakistan-plane-crashed-after-pilots-distracted-by-coronavirus-fears"
     },
     {
         "title": "'I am angry': Germans back in lockdown demand accountability",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-25-20-intl/index.html"
+        "title": "Coronavirus Live Updates: U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     },
     {
-        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
-        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
+        "title": "New York, Connecticut, New Jersey to require 14-day quarantine for individuals traveling from states hit wi...",
+        "link": "https://www.foxnews.com/politics/new-york-connecticut-new-jersey-14-day-quarantine-states-coronavirus"
     },
     {
-        "title": "Coronavirus: Gütersloh mayor Henning Schulz slams Tönnies meat producer after massive outbreak forces lockdown",
-        "link": "https://www.dw.com/en/coronavirus-g%C3%BCtersloh-mayor-henning-schulz-slams-t%C3%B6nnies-meat-producer-after-massive-outbreak-forces-lockdown/a-53932101"
+        "title": "COVID-19 (novel coronavirus) update – 25 June, 2020",
+        "link": "https://www.youtube.com/watch?v=VSEnB8fRMck"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
+        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     }
 ];
