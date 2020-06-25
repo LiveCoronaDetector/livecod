@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Live updates: State officials, companies delay reopening measures after record high in new infections",
-        "link": "https://www.washingtonpost.com/nation/2020/06/25/coronavirus-live-updates-us/"
+        "title": "Coronavirus: New York imposes quarantine on eight US states",
+        "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
         "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
+        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
         "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "'Stay away from us': New Zealanders returning home to Covid 'lifeboat' face backlash",
-        "link": "https://www.theguardian.com/world/2020/jun/25/stay-away-from-us-hostile-response-for-new-zealanders-returning-home-to-covid-lifeboat"
+        "title": "IMF says global economic collapse caused by coronavirus will be even worse than feared",
+        "link": "https://www.washingtonpost.com/business/2020/06/24/imf-global-economy-coronavirus/"
     }
 ];
