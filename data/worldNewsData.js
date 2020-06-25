@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
-        "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
-    },
-    {
-        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
-        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
-    },
-    {
         "title": "These are the countries seeing a surge in coronavirus cases",
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
+        "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
+        "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
+    },
+    {
         "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
         "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Sweden's Covid Expert Says 'World Went Mad' With Lockdowns",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a9c21900-b709-11ea-b2d1-59157f6cb751&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNC9zd2VkZW4tcy1lcGlkZW1pb2xvZ2lzdC1zYXlzLXdvcmxkLXdlbnQtbWFkLWltcG9zaW5nLWxvY2tkb3ducw=="
     }
 ];
