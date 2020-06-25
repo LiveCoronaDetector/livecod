@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "'I am angry': Germans back in lockdown demand accountability",
-        "link": "https://www.theguardian.com/world/2020/jun/24/west-germany-district-re-enters-lockdown-after-new-covid-19-outbreak"
+        "title": "EU May Ban Travel from US as it Reopens Borders, Citing Coronavirus Failures",
+        "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
     },
     {
         "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
     },
     {
-        "title": "Coronavirus outbreak in German meat plant reveals appalling living conditions | DW News",
-        "link": "https://www.youtube.com/watch?v=gsLj3bi1p0M"
+        "title": "'I am angry': Germans back in lockdown demand accountability",
+        "link": "https://www.theguardian.com/world/2020/jun/24/west-germany-district-re-enters-lockdown-after-new-covid-19-outbreak"
     },
     {
         "title": "Coronavirus update: Global case tally climbs to 9.5 million and rising cases in U.S., Brazil and others show pandemic is far from over",

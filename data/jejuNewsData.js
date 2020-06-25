@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02410806625804344"
     },
     {
-        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
-        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
+        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
+        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     }
 ];
