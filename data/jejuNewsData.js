@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "제주 코로나19 격리시설서 20대 여성 숨진 채 발견…경찰 수사",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02410806625804344"
+    },
+    {
         "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
         "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
         "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
         "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
-    },
-    {
-        "title": "제주 '코로나19' 격리시설서 20대 여성, 숨진 채 발견…경찰 \"극단 선택 추정...",
-        "link": "http://www.inews24.com/view/1275412"
     }
 ];
