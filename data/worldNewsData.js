@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus live news: cases worldwide growing by 1m per week as Australian state deploys army",
-        "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
-    },
-    {
-        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
-        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
+        "title": "Bolton casts light on Trump’s deference to China on coronavirus",
+        "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
         "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
         "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+    },
+    {
+        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
+        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
         "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
