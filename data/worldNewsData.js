@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "As COVID cases fall in Europe, calls to ban travel from America rise. What the EU got right about controlling coronavirus.",
-        "link": "https://news.yahoo.com/as-covid-cases-fall-in-europe-calls-to-ban-travel-from-america-what-the-eu-got-right-about-controlling-coronavirus-164627926.html"
+        "title": "Coronavirus: 'Very significant' resurgences in Europe alarm WHO",
+        "link": "https://www.bbc.com/news/world-europe-53175459"
     },
     {
         "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "Coronavirus: 'Very significant' resurgences in Europe alarm WHO",
-        "link": "https://www.bbc.com/news/world-europe-53175459"
+        "title": "How well did the global coronavirus lockdown work? | COVID-19 Special",
+        "link": "https://www.youtube.com/watch?v=MVOr5zjn5Ec"
     },
     {
         "title": "These are the countries seeing a surge in coronavirus cases",
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
-        "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
-    },
-    {
         "title": "Thousands flocking to English beaches trigger 'major incident' response as coronavirus rules ignored",
         "link": "https://www.foxnews.com/world/england-beaches-coronavirus-crowding"
+    },
+    {
+        "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
+        "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
     }
 ];
