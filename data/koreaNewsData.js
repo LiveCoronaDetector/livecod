@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503724.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
-    },
-    {
         "title": "“집단 감염 2주째”...베이징 코로나19 확진자 270명 육박",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500024&wlog_tag3=naver"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 28명…지역발생 23명",
         "link": "http://www.hani.co.kr/arti/society/health/950875.html"
+    },
+    {
+        "title": "PGA투어에 퍼진 코로나 공포… 기권자 속출",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503701.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "WHO \"코로나19 누적 확진자, 다음주 1천만명\"",

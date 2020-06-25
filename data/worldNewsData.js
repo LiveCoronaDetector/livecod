@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
-        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
-        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
+        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "'I am angry': Germans back in lockdown demand accountability",
-        "link": "https://www.theguardian.com/world/2020/jun/24/west-germany-district-re-enters-lockdown-after-new-covid-19-outbreak"
+        "title": "As COVID cases fall in Europe, calls to ban travel from America rise. What the EU got right about controlling coronavirus.",
+        "link": "https://news.yahoo.com/as-covid-cases-fall-in-europe-calls-to-ban-travel-from-america-what-the-eu-got-right-about-controlling-coronavirus-164627926.html"
     },
     {
-        "title": "Eiffel Tower reopens to tourists; Disney delays reopening for California parks",
-        "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
+        "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
+        "link": "https://www.cnn.com/2020/06/25/india/delhi-hospital-crisis-coronavirus-hnk-intl/index.html"
     },
     {
         "title": "Bolton casts light on Trump’s deference to China on coronavirus",
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
-    },
-    {
         "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
         "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
-        "title": "COVID outbreak in German meat plant reveals appalling living conditions | DW News",
-        "link": "https://www.youtube.com/watch?v=gsLj3bi1p0M"
+        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
+        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
         "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
         "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
+    },
+    {
+        "title": "These are the countries seeing a surge in coronavirus cases",
+        "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     }
 ];
