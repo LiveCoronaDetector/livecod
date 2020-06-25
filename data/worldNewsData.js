@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "EU May Ban Travel from US as it Reopens Borders, Citing Coronavirus Failures",
-        "link": "https://www.nytimes.com/2020/06/23/world/europe/coronavirus-EU-American-travel-ban.html"
+        "title": "As COVID cases fall in Europe, calls to ban travel from America rise. What the EU got right about controlling coronavirus.",
+        "link": "https://news.yahoo.com/as-covid-cases-fall-in-europe-calls-to-ban-travel-from-america-what-the-eu-got-right-about-controlling-coronavirus-164627926.html"
     },
     {
         "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "Coronavirus update: Global case tally climbs to 9.5 million and rising cases in U.S., Brazil and others show pandemic is far from over",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-climbs-to-95-million-and-rising-cases-in-us-brazil-and-others-show-pandemic-is-far-from-over-2020-06-25"
-    },
-    {
         "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
         "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
+    },
+    {
+        "title": "Thousands flocking to English beaches trigger 'major incident' response as coronavirus rules ignored",
+        "link": "https://www.foxnews.com/world/england-beaches-coronavirus-crowding"
     }
 ];
