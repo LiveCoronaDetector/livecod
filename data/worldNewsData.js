@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
-        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
+        "title": "How well did the global coronavirus lockdown work? | COVID-19 Special",
+        "link": "https://www.youtube.com/watch?v=MVOr5zjn5Ec"
     },
     {
         "title": "These are the countries seeing a surge in coronavirus cases",
