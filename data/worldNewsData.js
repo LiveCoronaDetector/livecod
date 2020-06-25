@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Coronavirus: New York imposes quarantine on eight US states",
-        "link": "https://www.bbc.com/news/world-us-canada-53167780"
+        "title": "Live updates: State officials, companies delay reopening measures after record high in new infections",
+        "link": "https://www.washingtonpost.com/nation/2020/06/25/coronavirus-live-updates-us/"
     },
     {
-        "title": "Pakistan plane crashed after pilots distracted by coronavirus fears",
-        "link": "https://www.theguardian.com/world/2020/jun/25/pakistan-plane-crashed-after-pilots-distracted-by-coronavirus-fears"
+        "title": "Pilots in Pakistan air crash distracted by coronavirus concerns, aviation minister says",
+        "link": "https://www.nbcnews.com/news/world/pilots-pakistan-air-crash-distracted-coronavirus-concerns-aviation-minister-says-n1231982"
     },
     {
         "title": "'I am angry': Germans back in lockdown demand accountability",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "Bolton casts light on Trump’s deference to China on coronavirus",
-        "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
+        "title": "Coronavirus live news: cases worldwide growing by 1m per week as Australian state deploys army",
+        "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
     },
     {
         "title": "Coronavirus Live Updates: U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/new-york-connecticut-new-jersey-14-day-quarantine-states-coronavirus"
     },
     {
-        "title": "COVID-19 (novel coronavirus) update – 25 June, 2020",
-        "link": "https://www.youtube.com/watch?v=VSEnB8fRMck"
+        "title": "Coronavirus: Gütersloh mayor Henning Schulz slams Tönnies meat producer after massive outbreak forces lockdown",
+        "link": "https://www.dw.com/en/coronavirus-g%C3%BCtersloh-mayor-henning-schulz-slams-t%C3%B6nnies-meat-producer-after-massive-outbreak-forces-lockdown/a-53932101"
     },
     {
-        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
-        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     }
 ];
