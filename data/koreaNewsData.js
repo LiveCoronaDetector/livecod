@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/950710.html"
     },
     {
+        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
+    },
+    {
         "title": "경기도 이천 쿠팡물류센터 확진자 발생해 폐쇄조치",
         "link": "https://imnews.imbc.com/news/2020/society/article/5821157_32633.html"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "대한항공 기장도 당했다…항공업계 드리운 코로나19 그림자",
         "link": "https://news.joins.com/article/olink/23404357"
-    },
-    {
-        "title": "코로나19 대전 확진자 \"나도 피해자인데 지탄받는 죄인 돼\"",
-        "link": "http://yna.kr/AKR20200624114700063?did=1195m"
     }
 ];
