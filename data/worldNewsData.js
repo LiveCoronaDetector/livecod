@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "Coronavirus: 'Very significant' resurgences in Europe alarm WHO",
-        "link": "https://www.bbc.com/news/world-europe-53175459"
+        "title": "'I am angry': Germans back in lockdown demand accountability",
+        "link": "https://www.theguardian.com/world/2020/jun/24/west-germany-district-re-enters-lockdown-after-new-covid-19-outbreak"
     },
     {
         "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "Bolton casts light on Trump’s deference to China on coronavirus",
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
-    },
-    {
-        "title": "How well did the global coronavirus lockdown work? | COVID-19 Special",
-        "link": "https://www.youtube.com/watch?v=MVOr5zjn5Ec"
     },
     {
         "title": "These are the countries seeing a surge in coronavirus cases",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus outbreak in German meat plant reveals appalling living conditions | DW News",
         "link": "https://www.youtube.com/watch?v=gsLj3bi1p0M"
+    },
+    {
+        "title": "Coronavirus update: Global case tally climbs to 9.5 million and rising cases in U.S., Brazil and others show pandemic is far from over",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-climbs-to-95-million-and-rising-cases-in-us-brazil-and-others-show-pandemic-is-far-from-over-2020-06-25"
     }
 ];
