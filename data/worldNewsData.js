@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
-        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
-        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
-    },
-    {
         "title": "These are the countries seeing a surge in coronavirus cases",
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "COVID outbreak in German meat plant reveals appalling living conditions | DW News",
-        "link": "https://www.youtube.com/watch?v=gsLj3bi1p0M"
+        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
+        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
+    },
+    {
+        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     }
 ];

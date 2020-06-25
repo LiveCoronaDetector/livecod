@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
+        "link": "http://www.fnnews.com/news/202006190709270776"
+    },
+    {
         "title": "제주 코로나19 격리시설서 20대 여성 숨진 채 발견…경찰 수사",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02410806625804344"
     },
     {
         "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
         "link": "http://yna.kr/AKR20200622054152056?did=1195m"
-    },
-    {
-        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     }
 ];
