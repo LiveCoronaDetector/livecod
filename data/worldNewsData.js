@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/25/coronavirus-live-updates-us/"
     },
     {
-        "title": "Pilots in Pakistan air crash distracted by coronavirus concerns, aviation minister says",
-        "link": "https://www.nbcnews.com/news/world/pilots-pakistan-air-crash-distracted-coronavirus-concerns-aviation-minister-says-n1231982"
+        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
+        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
     },
     {
         "title": "'I am angry': Germans back in lockdown demand accountability",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
     },
     {
+        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
+        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
+    },
+    {
         "title": "Coronavirus Live Updates: U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
         "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     },
     {
-        "title": "New York, Connecticut, New Jersey to require 14-day quarantine for individuals traveling from states hit wi...",
-        "link": "https://www.foxnews.com/politics/new-york-connecticut-new-jersey-14-day-quarantine-states-coronavirus"
+        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
+        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "Coronavirus: Gütersloh mayor Henning Schulz slams Tönnies meat producer after massive outbreak forces lockdown",
-        "link": "https://www.dw.com/en/coronavirus-g%C3%BCtersloh-mayor-henning-schulz-slams-t%C3%B6nnies-meat-producer-after-massive-outbreak-forces-lockdown/a-53932101"
-    },
-    {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "'Stay away from us': New Zealanders returning home to Covid 'lifeboat' face backlash",
+        "link": "https://www.theguardian.com/world/2020/jun/25/stay-away-from-us-hostile-response-for-new-zealanders-returning-home-to-covid-lifeboat"
     }
 ];
