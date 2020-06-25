@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
+        "title": "COVID outbreak in German meat plant reveals appalling living conditions | DW News",
+        "link": "https://www.youtube.com/watch?v=gsLj3bi1p0M"
+    },
+    {
+        "title": "Mexico City Tames Covid-19 in One of World’s Largest Food Markets",
+        "link": "https://www.wsj.com/articles/mexico-city-tames-covid-19-in-one-of-worlds-largest-food-markets-11593097826"
+    },
+    {
         "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
         "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
-    },
-    {
-        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Sweden's Covid Expert Says 'World Went Mad' With Lockdowns",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a9c21900-b709-11ea-b2d1-59157f6cb751&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNC9zd2VkZW4tcy1lcGlkZW1pb2xvZ2lzdC1zYXlzLXdvcmxkLXdlbnQtbWFkLWltcG9zaW5nLWxvY2tkb3ducw=="
     }
 ];

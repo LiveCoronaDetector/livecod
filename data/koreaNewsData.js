@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.yonhapnewstv.co.kr/MYH20200625000400038/?did=1825m"
     },
     {
-        "title": "“집단 감염 2주째”...베이징 코로나19 확진자 270명 육박",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500024&wlog_tag3=naver"
+        "title": "신규 확진자 28명…쿠팡 덕평물류센터 189명 자가격리",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987682?division=NAVER"
     }
 ];
