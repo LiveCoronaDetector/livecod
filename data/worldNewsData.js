@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "Bolton casts light on Trump’s deference to China on coronavirus",
-        "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
+        "title": "Coronavirus live news: cases worldwide growing by 1m per week with surge in the United States and Latin America",
+        "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
     },
     {
         "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
