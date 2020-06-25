@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Coronavirus: New York imposes quarantine on nine US states",
-        "link": "https://www.bbc.com/news/world-us-canada-53167780"
+        "title": "Coronavirus Live Updates: U.S. Cases Near Record Level as Virus Surges in South and West",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     },
     {
         "title": "Pilots in Pakistan Crash Were Chatting About Coronavirus, Says Aviation Minister",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "Virus review: COVID-19 resurgence 'coming back and biting us'",
-        "link": "https://www.roanoke.com/news/national/virus-review-covid-19-resurgence-coming-back-and-biting-us/article_21f14fb9-34b0-523f-924d-a464a57cf761.html"
-    },
-    {
         "title": "Coronavirus live news: WHO warns of global oxygen shortage as cases rise by 1m per week",
         "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
+    },
+    {
+        "title": "Sweden's Covid Expert Says 'World Went Mad' With Lockdowns",
+        "link": "https://www.bloomberg.com/news/articles/2020-06-24/sweden-s-epidemiologist-says-world-went-mad-imposing-lockdowns"
     }
 ];

@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006251015337085"
     },
     {
-        "title": "[속보] 코로나19 신규확진 28명...수도권 19명",
-        "link": "https://hankookilbo.com/News/Read/A202006250954000032?did=NA"
+        "title": "코로나 확진 28명…지역발생 23명 중 수도권 18명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062501448.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 국내 코로나 신규 28명… 지역 발생 23명·총 1만2563명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/06/25/2020062501510.html"
-    },
-    {
-        "title": "쿠팡 또 확진자 발생, 덕평 물류센터 폐쇄",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062402379.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "[속보]'코로나19' 확진자 28명 추가…수도권·대전에 집중",
-        "link": "https://www.news1.kr/articles/?3976115"
-    },
-    {
-        "title": "美 코로나19 재확산 공포...\"10월까지 6만명 더 사망할 수도\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062500630.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나 신규 확진자 28명…지역발생 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/950875.html"
     },
     {
         "title": "'열일하는 AI' 경남 코로나 신규 확진자 40% 발견",
         "link": "http://www.bloter.net/archives/392064"
     },
     {
-        "title": "[속보] '코로나19' 28명 늘어 1만2,563명…수도권서 19명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250169&t=NN"
+        "title": "쿠팡 또 확진자 발생, 덕평 물류센터 폐쇄",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062402379.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[속보] '코로나19' 국내 현황…총 1만2563명, 신규확진 28명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=400828&class=33&grp="
+        "title": "코로나19 신규확진 28명…수도권 19명·대전 4명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/25/2020062590044.html"
+    },
+    {
+        "title": "미국, 코로나 신규확진자 '최다'…커지는 재유행 공포",
+        "link": "https://www.hankyung.com/international/article/2020062565197"
+    },
+    {
+        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
+    },
+    {
+        "title": "코로나 확진자 5500명 임상역학정보, 연구자에 공개된다",
+        "link": "https://view.asiae.co.kr/article/2020062510064489991"
     }
 ];
