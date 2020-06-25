@@ -5,11 +5,11 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-vaccine-trial-oxford-expands-south-africa-brazil/"
     },
     {
-        "title": "Trump Is Feeding America’s Coronavirus Nightmare",
-        "link": "https://www.nytimes.com/2020/06/24/opinion/trump-coronavirus.html"
+        "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
-        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
+        "title": "Pakistan airliner crashed after pilots were distracted by coronavirus",
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
-        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
+        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+    },
+    {
+        "title": "These are the countries seeing a surge in coronavirus cases",
+        "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
         "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
         "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
     },
     {
-        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Sweden's Covid Expert Says 'World Went Mad' With Lockdowns",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=262aed30-b6fd-11ea-a60e-bbe9b43b1b64&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNC9zd2VkZW4tcy1lcGlkZW1pb2xvZ2lzdC1zYXlzLXdvcmxkLXdlbnQtbWFkLWltcG9zaW5nLWxvY2tkb3ducw=="
+        "title": "Congo’s Deadliest Ebola Outbreak Is Declared Over",
+        "link": "https://www.nytimes.com/2020/06/25/world/africa/ebola-congo-who.html"
     }
 ];

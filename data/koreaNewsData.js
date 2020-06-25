@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503724.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "“집단 감염 2주째”...베이징 코로나19 확진자 270명 육박",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500024&wlog_tag3=naver"
+    },
+    {
         "title": "대구 의료인 코로나19 수당 갈등…정부 \"지원 힘들다\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250290&t=NN"
     },
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "[종합] 서울 역삼동, 대전 서구 등 방문판매서 확진자 지속 증가",
         "link": "http://www.fnnews.com/news/202006251427381849"
-    },
-    {
-        "title": "“집단 감염 2주째”...베이징 코로나19 확진자 270명 육박",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500024&wlog_tag3=naver"
     },
     {
         "title": "대전 요양원 등서 5명 더 코로나19 확진…논산·아산서도 1명씩(종합)",
