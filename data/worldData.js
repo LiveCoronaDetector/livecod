@@ -1284,9 +1284,9 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 215,
+        "확진자수": 216,
         "사망자수": 0,
-        "완치자수": 168
+        "완치자수": 169
     },
     {
         "Name": "Guyana",
@@ -1585,20 +1585,20 @@ var marker = [
         "완치자수": 2
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 15,
+        "사망자수": 1,
+        "완치자수": 11
+    },
+    {
         "Name": "Saint Kitts and Nevis",
         "Name_ch": "",
         "Name_en": "Saint Kitts and Nevis",
         "확진자수": 15,
         "사망자수": 0,
         "완치자수": 15
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 14,
-        "사망자수": 1,
-        "완치자수": 11
     },
     {
         "Name": "Falkland Islands",

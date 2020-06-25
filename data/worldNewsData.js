@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/as-covid-cases-fall-in-europe-calls-to-ban-travel-from-america-what-the-eu-got-right-about-controlling-coronavirus-164627926.html"
     },
     {
-        "title": "Coronavirus live updates: California, Florida report record cases as NY orders quarantine for some travelers",
+        "title": "Coronavirus live updates: Disney delays reopening for California parks as state reports record new cases",
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {

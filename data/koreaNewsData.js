@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200625/101680641/2"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 28명…지역발생 23명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006251012001&code=940601"
-    },
-    {
         "title": "美 코로나19 재확산 공포...\"10월까지 6만명 더 사망할 수도\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062500630.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,12 +21,16 @@ var koreaNewsData = [
         "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
     },
     {
-        "title": "“집단 감염 2주째”...베이징 코로나19 확진자 270명 육박",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500024&wlog_tag3=naver"
+        "title": "대전 요양원 등서 5명 더 코로나19 확진…논산·아산서도 1명씩(종합)",
+        "link": "http://yna.kr/AKR20200625060151063?did=1195m"
     },
     {
         "title": "서울 코로나 확진 9명 늘어 1250명…기저질환 앓던 70대 男 사망(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02542006625805328"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 28명…지역발생 23명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006251012001&code=940601"
     },
     {
         "title": "코로나19 국내 확진자 28명 늘어…지역발생 23명",
