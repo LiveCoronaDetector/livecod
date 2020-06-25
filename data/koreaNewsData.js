@@ -21,20 +21,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200625002551088?did=1195m"
     },
     {
+        "title": "미국 CDC \"美 코로나 감염자 2,000만명 가능성\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
+    },
+    {
         "title": "신규 확진자 28명…쿠팡 덕평물류센터 189명 자가격리",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987682?division=NAVER"
     },
     {
-        "title": "대구 의료인 코로나19 수당 갈등…정부 \"지원 힘들다\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250290&t=NN"
+        "title": "정부 “대구 현지 의료진 ‘코로나19 별도수당’ 힘들다”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500122&wlog_tag3=naver"
     },
     {
         "title": "PGA투어에 퍼진 코로나 공포… 기권자 속출",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503701.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "CDC국장 \"美 코로나19 감염자, 통계 보다 10배 많은 듯\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200626_0001073610&cID=10101&pID=10100"
     },
     {
         "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
