@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-vaccine-trial-oxford-expands-south-africa-brazil/"
     },
     {
-        "title": "Trump Is Feeding America’s Coronavirus Nightmare",
-        "link": "https://www.nytimes.com/2020/06/24/opinion/trump-coronavirus.html"
+        "title": "Live Global Coronavirus News",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
-        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
-        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
+        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
         "title": "EU May Ban Travel from US as it Reopens Borders, Citing Coronavirus Failures",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/25/india/delhi-hospital-crisis-coronavirus-hnk-intl/index.html"
     },
     {
-        "title": "Coronavirus: Qantas to axe 6,000 jobs due to pandemic",
-        "link": "https://www.bbc.com/news/world-australia-53173929"
+        "title": "Bolton casts light on Trump’s deference to China on coronavirus",
+        "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+        "title": "Coronavirus: 'Very significant' resurgences in Europe alarm WHO",
+        "link": "https://www.bbc.com/news/world-europe-53175459"
     },
     {
         "title": "These are the countries seeing a surge in coronavirus cases",
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
-        "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
-    },
-    {
         "title": "Coronavirus update: Global case tally climbs to 9.5 million and rising cases in U.S., Brazil and others show pandemic is far from over",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-climbs-to-95-million-and-rising-cases-in-us-brazil-and-others-show-pandemic-is-far-from-over-2020-06-25"
+    },
+    {
+        "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
+        "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
     }
 ];
