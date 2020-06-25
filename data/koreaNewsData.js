@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
     },
     {
-        "title": "미국, 코로나 신규확진자 '최다'…커지는 재유행 공포",
-        "link": "https://www.hankyung.com/international/article/2020062565197"
-    },
-    {
         "title": "“집단 감염 2주째”...베이징 코로나19 확진자 270명 육박",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500024&wlog_tag3=naver"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 28명…지역발생 23명",
         "link": "http://www.hani.co.kr/arti/society/health/950875.html"
+    },
+    {
+        "title": "WHO \"코로나19 누적 확진자, 다음주 1천만명\"",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200625000400038/?did=1825m"
     }
 ];

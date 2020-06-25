@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/24/west-germany-district-re-enters-lockdown-after-new-covid-19-outbreak"
     },
     {
-        "title": "Coronavirus live updates: Eiffel Tower reopens to tourists; Disney delays reopening for California parks",
+        "title": "Eiffel Tower reopens to tourists; Disney delays reopening for California parks",
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
-        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
-        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
+        "title": "COVID outbreak in German meat plant reveals appalling living conditions | DW News",
+        "link": "https://www.youtube.com/watch?v=gsLj3bi1p0M"
     },
     {
         "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
