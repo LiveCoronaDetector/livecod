@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "How well did the global coronavirus lockdown work? | COVID-19 Special",
-        "link": "https://www.youtube.com/watch?v=MVOr5zjn5Ec"
+        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
+        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
     },
     {
         "title": "These are the countries seeing a surge in coronavirus cases",
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "Thousands flocking to English beaches trigger 'major incident' response as coronavirus rules ignored",
-        "link": "https://www.foxnews.com/world/england-beaches-coronavirus-crowding"
-    },
-    {
         "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
         "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
+    },
+    {
+        "title": "Thousands flocking to English beaches trigger 'major incident' response as coronavirus rules ignored",
+        "link": "https://www.foxnews.com/world/england-beaches-coronavirus-crowding"
     }
 ];
