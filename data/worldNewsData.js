@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
-        "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
-        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
-    },
-    {
         "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
+    },
+    {
+        "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     }
 ];

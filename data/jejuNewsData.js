@@ -21,16 +21,12 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
-        "title": "16번째 확진자 퇴원…‘미결정’ 유학생 최종 ‘음성’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4478886&ref=A"
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "제주 코로나19 격리시설서 20대 여성 숨진 채 발견…경찰 수사",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
         "link": "http://yna.kr/AKR20200622054152056?did=1195m"
+    },
+    {
+        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
     }
 ];
