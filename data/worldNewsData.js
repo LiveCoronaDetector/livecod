@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
-        "title": "Pilots in Pakistan Crash Were Chatting About Coronavirus, Says Aviation Minister",
-        "link": "https://www.wsj.com/articles/pilots-in-pakistan-crash-were-chatting-about-coronavirus-says-aviation-minister-11592997842"
+        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
+        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
     },
     {
-        "title": "As COVID cases fall in Europe, calls to ban travel from America rise. What the EU got right about controlling coronavirus.",
-        "link": "https://news.yahoo.com/as-covid-cases-fall-in-europe-calls-to-ban-travel-from-america-what-the-eu-got-right-about-controlling-coronavirus-164627926.html"
+        "title": "'I am angry': Germans back in lockdown demand accountability",
+        "link": "https://www.theguardian.com/world/2020/jun/24/west-germany-district-re-enters-lockdown-after-new-covid-19-outbreak"
     },
     {
         "title": "Coronavirus live updates: Disney delays reopening for California parks as state reports record new cases",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
     },
     {
-        "title": "Outbreak: Surge of cases in the young could endanger the elderly",
-        "link": "https://www.mercurynews.com/2020/06/24/outbreak-surge-of-cases-in-the-young-could-endanger-the-elderly/"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-25-20-intl/index.html"
     },
     {
         "title": "Coronavirus Live News and Updates",
