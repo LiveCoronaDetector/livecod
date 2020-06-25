@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Cases Near Record Level as Virus Surges in South and West",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+        "title": "Coronavirus: New York imposes quarantine on nine US states",
+        "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
         "title": "Pilots in Pakistan Crash Were Chatting About Coronavirus, Says Aviation Minister",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "Virus review: COVID-19 resurgence 'coming back and biting us'",
+        "link": "https://missoulian.com/news/national/virus-review-covid-19-resurgence-coming-back-and-biting-us/article_a632f995-2550-5a1b-bebb-87b448dd9576.html"
     },
     {
         "title": "Coronavirus live news: WHO warns of global oxygen concentrator shortage as cases rise by 1m per week",
