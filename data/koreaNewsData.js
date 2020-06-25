@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/25/2020062580124.html"
     },
     {
-        "title": "코로나 신규 확진자 28명…지역발생 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/950875.html"
-    },
-    {
         "title": "[종합] 서울 역삼동, 대전 서구 등 방문판매서 확진자 지속 증가",
         "link": "http://www.fnnews.com/news/202006251427381849"
     },
     {
-        "title": "PGA투어에 퍼진 코로나 공포… 기권자 속출",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503701.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "오늘 서울서 코로나19 확진자 7명 추가 발생…누계 1천257명(종합)",
+        "link": "http://yna.kr/AKR20200625148551004?did=1195m"
+    },
+    {
+        "title": "코스피, 코로나 재확산 우려에 2%대 급락…2,110선 위태(종합)",
+        "link": "http://yna.kr/AKR20200625134251002?did=1195m"
     }
 ];

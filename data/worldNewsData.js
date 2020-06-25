@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Coronavirus: New York imposes quarantine on eight US states",
-        "link": "https://www.bbc.com/news/world-us-canada-53167780"
+        "title": "Trump Is Feeding America’s Coronavirus Nightmare",
+        "link": "https://www.nytimes.com/2020/06/24/opinion/trump-coronavirus.html"
     },
     {
         "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
-        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
-    },
-    {
         "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
         "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
+    },
+    {
+        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
+        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
         "title": "These are the countries seeing a surge in coronavirus cases",
