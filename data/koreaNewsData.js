@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250290&t=NN"
     },
     {
-        "title": "6월 25일 ‘코로나19’ 전세계 확진자 932만명…입국금지·검역 조치 182개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/25/2020062580124.html"
-    },
-    {
         "title": "PGA투어에 퍼진 코로나 공포… 기권자 속출",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503701.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "CDC국장 \"美 코로나19 감염자, 통계 보다 10배 많은 듯\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200626_0001073610&cID=10101&pID=10100"
     },
     {
         "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",

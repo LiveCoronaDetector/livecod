@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
-        "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
+        "title": "Germany And France Promise New Financial Support To World Health Organization",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
     },
     {
         "title": "Thousands flocking to English beaches trigger 'major incident' response as coronavirus rules ignored",

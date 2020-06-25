@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006241639297869"
     },
     {
+        "title": "코로나 시국에 부산서 또 포커대회…이번엔 집합금지 명령?",
+        "link": "http://yna.kr/AKR20200625097300051?did=1195m"
+    },
+    {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 격리시설서 20대 여성 숨진 채 발견…경찰 수사",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02410806625804344"
-    },
-    {
-        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     }
 ];
