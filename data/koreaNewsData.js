@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250290&t=NN"
     },
     {
-        "title": "오늘 서울서 코로나19 확진자 7명 추가 발생…누계 1천257명(종합)",
-        "link": "http://yna.kr/AKR20200625148551004?did=1195m"
+        "title": "대전 요양원 등서 5명 더 코로나19 확진…논산·아산서도 1명씩(종합)",
+        "link": "http://yna.kr/AKR20200625060151063?did=1195m"
     },
     {
         "title": "6월 25일 ‘코로나19’ 전세계 확진자 932만명…입국금지·검역 조치 182개국...",

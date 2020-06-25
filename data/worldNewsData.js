@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-vaccine-trial-oxford-expands-south-africa-brazil/"
     },
     {
-        "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
+        "title": "Live Global Coronavirus News",
         "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
+        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
+        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
+    },
+    {
         "title": "These are the countries seeing a surge in coronavirus cases",
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "COVID outbreak in German meat plant reveals appalling living conditions | DW News",
-        "link": "https://www.youtube.com/watch?v=gsLj3bi1p0M"
-    },
-    {
-        "title": "Mexico City Tames Covid-19 in One of World’s Largest Food Markets",
-        "link": "https://www.wsj.com/articles/mexico-city-tames-covid-19-in-one-of-worlds-largest-food-markets-11593097826"
-    },
-    {
         "title": "Coronavirus being exploited to undermine democracies, former world leaders warn",
         "link": "https://www.cnn.com/2020/06/25/europe/coronavirus-authoritarian-threat-open-letter-intl/index.html"
+    },
+    {
+        "title": "Coronavirus outbreak in German meat plant reveals appalling living conditions | DW News",
+        "link": "https://www.youtube.com/watch?v=gsLj3bi1p0M"
     }
 ];
