@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "New coronavirus cases in U.S. jump to highest level in 2 months, since peak of outbreak",
-        "link": "https://www.cbsnews.com/news/coronavirus-cases-united-states-highest-peak/"
+        "title": "Virus review: COVID-19 resurgence 'coming back and biting us'",
+        "link": "https://www.roanoke.com/news/national/virus-review-covid-19-resurgence-coming-back-and-biting-us/article_21f14fb9-34b0-523f-924d-a464a57cf761.html"
     },
     {
-        "title": "Germany put 500,000 people back under lockdown after a spike in coronavirus cases - Business Insider",
-        "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
+        "title": "Coronavirus live news: WHO warns of global oxygen shortage as cases rise by 1m per week",
+        "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
     }
 ];

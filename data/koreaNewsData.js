@@ -5,16 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200625002551088?did=1195m"
     },
     {
-        "title": "WHO \"코로나19 누적 확진자, 다음주 1천만명\"",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20200625000400038/?did=1825m"
+        "title": "[종합] 코로나19 확진자 28명 증가...서울 8명, 경기 9명, 해외 5명",
+        "link": "http://www.fnnews.com/news/202006251015337085"
+    },
+    {
+        "title": "[속보] 코로나19 신규확진 28명...수도권 19명",
+        "link": "https://hankookilbo.com/News/Read/A202006250954000032?did=NA"
+    },
+    {
+        "title": "[속보] 국내 코로나 신규 28명… 지역 발생 23명·총 1만2563명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/06/25/2020062501510.html"
     },
     {
         "title": "쿠팡 또 확진자 발생, 덕평 물류센터 폐쇄",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062402379.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "쿠팡 덕평물류센터 확진자와 밀접접촉한 189명 자가격리·진단 검사(상보)",
-        "link": "https://view.asiae.co.kr/article/2020062508232739851"
+        "title": "[속보]'코로나19' 확진자 28명 추가…수도권·대전에 집중",
+        "link": "https://www.news1.kr/articles/?3976115"
     },
     {
         "title": "美 코로나19 재확산 공포...\"10월까지 6만명 더 사망할 수도\"",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://www.bloter.net/archives/392064"
     },
     {
-        "title": "미국, 코로나 확진자 다시 급증…다우지수 710P 급락 마감",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250012&t=NN"
+        "title": "[속보] '코로나19' 28명 늘어 1만2,563명…수도권서 19명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250169&t=NN"
     },
     {
-        "title": "쿠팡, 덕평 물류센터 코로나19 확진자 발생...즉각 폐쇄",
-        "link": "http://www.etnews.com/20200624000154"
-    },
-    {
-        "title": "WHO, 코로나19 세계 확진자 곧 1000만명 돌파",
-        "link": "http://www.fnnews.com/news/202006250742249997"
-    },
-    {
-        "title": "[유럽증시] 코로나19 재확산 우려 속 일제히 하락",
-        "link": "http://yna.kr/AKR20200625002600098?did=1195m"
+        "title": "[속보] '코로나19' 국내 현황…총 1만2563명, 신규확진 28명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=400828&class=33&grp="
     }
 ];
