@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006251427381849"
     },
     {
-        "title": "코로나19 국내 확진자 28명 늘어…지역발생 23명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208705"
+        "title": "[속보] 경주시 52번 확진자 동선 공개 \"51번 아들\"",
+        "link": "https://news.imaeil.com/Society/2020062518304357091"
     }
 ];

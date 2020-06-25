@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/24/west-germany-district-re-enters-lockdown-after-new-covid-19-outbreak"
     },
     {
-        "title": "Coronavirus live updates: Disney delays reopening for California parks as state reports record new cases",
+        "title": "Coronavirus live updates: Eiffel Tower reopens to tourists; Disney delays reopening for California parks",
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "U.S. hits highest single day of new coronavirus cases with more than 45,500, breaking April record",
+        "link": "https://www.nbcnews.com/news/us-news/u-s-hits-highest-single-day-coronavirus-cases-36-358-n1232065"
     }
 ];
