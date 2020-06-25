@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006251015337085"
     },
     {
-        "title": "WHO \"코로나19 누적 확진자, 내주 1천만명 달할 것\"(종합)",
-        "link": "http://yna.kr/AKR20200625002551088?did=1195m"
-    },
-    {
         "title": "“코로나 재유행 대비한다…확진자 5500명 임상정보 공개”",
         "link": "https://www.donga.com/news/article/all/20200625/101680641/2"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "http://www.bloter.net/archives/392064"
     },
     {
-        "title": "“집단 감염 2주째”...베이징 코로나19 확진자 270명 육박",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500024&wlog_tag3=naver"
-    },
-    {
-        "title": "6월 25일 ‘코로나19’ 전세계 확진자 932만명…입국금지·검역 조치 182개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/25/2020062580124.html"
-    },
-    {
-        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
+        "title": "신규 확진자 28명…쿠팡 덕평물류센터 189명 자가격리",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987682?division=NAVER"
     },
     {
         "title": "美 코로나19 재확산 공포...\"10월까지 6만명 더 사망할 수도\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062500630.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 신규 확진자 28명…지역발생 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/950875.html"
+        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
     },
     {
-        "title": "코로나 19 신규 확진자 28명 늘어…지역 감염 주로 ‘수도권, 대전’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4479223&ref=A"
+        "title": "“집단 감염 2주째”...베이징 코로나19 확진자 270명 육박",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500024&wlog_tag3=naver"
+    },
+    {
+        "title": "대전 요양원 등서 5명 더 코로나19 확진…논산·아산서도 1명씩(종합)",
+        "link": "http://yna.kr/AKR20200625060151063?did=1195m"
+    },
+    {
+        "title": "WHO \"코로나19 누적 확진자, 다음주 1천만명\"",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200625000400038/?did=1825m"
+    },
+    {
+        "title": "6월 25일 ‘코로나19’ 전세계 확진자 932만명…입국금지·검역 조치 182개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/25/2020062580124.html"
     }
 ];

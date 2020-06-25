@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Coronavirus: New York imposes quarantine on eight US states",
-        "link": "https://www.bbc.com/news/world-us-canada-53167780"
+        "title": "Coronavirus Live Updates: U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     },
     {
         "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-25-20-intl/index.html"
+    },
+    {
         "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
         "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
-        "title": "Germany put 500,000 people back under lockdown after a spike in coronavirus cases - Business Insider",
-        "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-25-20-intl/index.html"
+        "title": "Coronavirus: Gütersloh mayor Henning Schulz slams Tönnies meat producer after massive outbreak forces lockdown",
+        "link": "https://www.dw.com/en/coronavirus-g%C3%BCtersloh-mayor-henning-schulz-slams-t%C3%B6nnies-meat-producer-after-massive-outbreak-forces-lockdown/a-53932101"
     },
     {
         "title": "Coronavirus Live News and Updates",
