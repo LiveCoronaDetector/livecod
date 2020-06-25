@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
-        "title": "Pilots in Pakistan Crash Were Chatting About Coronavirus, Says Aviation Minister",
-        "link": "https://www.wsj.com/articles/pilots-in-pakistan-crash-were-chatting-about-coronavirus-says-aviation-minister-11592997842"
+        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
+        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
     },
     {
         "title": "As COVID cases fall in Europe, calls to ban travel from America rise. What the EU got right about controlling coronavirus.",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
     },
     {
-        "title": "Virus review: COVID-19 resurgence 'coming back and biting us'",
-        "link": "https://missoulian.com/news/national/virus-review-covid-19-resurgence-coming-back-and-biting-us/article_a632f995-2550-5a1b-bebb-87b448dd9576.html"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus live news: WHO warns of global oxygen concentrator shortage as cases rise by 1m per week",
-        "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
+        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
+        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     }
 ];
