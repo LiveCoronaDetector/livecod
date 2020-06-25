@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.bloter.net/archives/392064"
     },
     {
-        "title": "美 코로나 다시 '정점'…\"내주 확진자 1천만 명 달할 것\"",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000987609?division=NAVER"
-    },
-    {
         "title": "서울 관악구서 코로나19 신규 확진자 5명 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503724.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[종합] 서울 역삼동, 대전 서구 등 방문판매서 확진자 지속 증가",
         "link": "http://www.fnnews.com/news/202006251427381849"
+    },
+    {
+        "title": "코로나 신규 확진자 28명…지역발생 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/950875.html"
     }
 ];

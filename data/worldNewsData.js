@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus live news: cases worldwide growing by 1m per week with surge in the United States and Latin America",
-        "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
+        "title": "Bolton casts light on Trump’s deference to China on coronavirus",
+        "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
         "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
-        "title": "Germany put 500,000 people back under lockdown after a spike in coronavirus cases - Business Insider",
-        "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
+        "title": "Live Global Coronavirus News: U.S. Sets a Daily Record for New Cases",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
+        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     }
 ];
