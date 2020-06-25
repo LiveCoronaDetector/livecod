@@ -5,28 +5,28 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/coronavirus-stricken-u-s-faces-another-problem-massive-dust-cloud-n1231985"
     },
     {
-        "title": "Live updates: New coronavirus cases in the U.S. soar to highest single-day total",
-        "link": "https://www.washingtonpost.com/nation/2020/06/24/coronavirus-live-updates-us/"
+        "title": "Coronavirus: New York imposes quarantine on nine US states",
+        "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
         "title": "Pilots in Pakistan Crash Were Chatting About Coronavirus, Says Aviation Minister",
         "link": "https://www.wsj.com/articles/pilots-in-pakistan-crash-were-chatting-about-coronavirus-says-aviation-minister-11592997842"
     },
     {
-        "title": "'I am angry': Germans back in lockdown demand accountability",
-        "link": "https://www.theguardian.com/world/2020/jun/24/west-germany-district-re-enters-lockdown-after-new-covid-19-outbreak"
+        "title": "As COVID cases fall in Europe, calls to ban travel from America rise. What the EU got right about controlling coronavirus.",
+        "link": "https://news.yahoo.com/as-covid-cases-fall-in-europe-calls-to-ban-travel-from-america-what-the-eu-got-right-about-controlling-coronavirus-164627926.html"
     },
     {
         "title": "Coronavirus live updates: California, Florida report record cases as NY orders quarantine for some travelers",
         "link": "https://www.cnbc.com/2020/06/24/coronavirus-live-updates.html"
     },
     {
-        "title": "China Students Trapped Abroad by the Coronavirus Are Criticized at Home",
-        "link": "https://www.nytimes.com/2020/06/24/business/china-nationalist-students-coronavirus.html"
+        "title": "Bolton casts light on Trump’s deference to China on coronavirus",
+        "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "Coronavirus: New York imposes quarantine on nine US states",
-        "link": "https://www.bbc.com/news/world-us-canada-53167780"
+        "title": "NY, NJ and CT require travelers from states with high coronavirus rates to quarantine for two weeks",
+        "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
         "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-cases-united-states-highest-peak/"
     },
     {
-        "title": "Coronavirus: EU considers barring Americans from travel list",
-        "link": "https://www.bbc.com/news/world-europe-53161447"
+        "title": "Germany put 500,000 people back under lockdown after a spike in coronavirus cases - Business Insider",
+        "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
     }
 ];

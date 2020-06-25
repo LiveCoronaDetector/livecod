@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062402379.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
+        "title": "쿠팡 덕평물류센터 확진자와 밀접접촉한 189명 자가격리·진단 검사(상보)",
+        "link": "https://view.asiae.co.kr/article/2020062508232739851"
     },
     {
-        "title": "[속보]거제 방문한 고양시 60번 확진자 접촉자 전원 ‘음성’",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020062509175022757"
+        "title": "美 코로나19 재확산 공포...\"10월까지 6만명 더 사망할 수도\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062500630.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "'열일하는 AI' 경남 코로나 신규 확진자 40% 발견",
+        "link": "http://www.bloter.net/archives/392064"
     },
     {
         "title": "미국, 코로나 확진자 다시 급증…다우지수 710P 급락 마감",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200624000154"
     },
     {
-        "title": "코로나 신규 확진자 51명…검역 과정서 국외 유입 12명 확인",
-        "link": "http://www.hani.co.kr/arti/society/health/950710.html"
+        "title": "WHO, 코로나19 세계 확진자 곧 1000만명 돌파",
+        "link": "http://www.fnnews.com/news/202006250742249997"
     },
     {
-        "title": "경기도 이천 쿠팡물류센터 확진자 발생해 폐쇄조치",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5821157_32633.html"
-    },
-    {
-        "title": "코로나 확진자의 절규 \"나는 죄인입니다\"",
-        "link": "https://www.sedaily.com/NewsView/1Z45I3XRF6"
+        "title": "[유럽증시] 코로나19 재확산 우려 속 일제히 하락",
+        "link": "http://yna.kr/AKR20200625002600098?did=1195m"
     }
 ];
