@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53167780"
     },
     {
-        "title": "Pakistan plane crashed after pilots distracted by coronavirus fears",
-        "link": "https://www.theguardian.com/world/2020/jun/25/pakistan-plane-crashed-after-pilots-distracted-by-coronavirus-fears"
+        "title": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
+        "link": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html"
     },
     {
         "title": "'I am angry': Germans back in lockdown demand accountability",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
     },
     {
-        "title": "U.S. hits highest single day of new coronavirus cases with more than 45,500, breaking April record",
-        "link": "https://www.nbcnews.com/news/us-news/u-s-hits-highest-single-day-coronavirus-cases-36-358-n1232065"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     }
 ];
