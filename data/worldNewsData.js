@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/24/us/new-york-coronavirus-travel-restriction/index.html"
     },
     {
-        "title": "Countries across world reimpose restrictions due to coronavirus spikes as US remains adamant about avoiding...",
-        "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
+        "title": "Germany put 500,000 people back under lockdown after a spike in coronavirus cases - Business Insider",
+        "link": "https://www.businessinsider.com/germany-resumes-lockdown-for-500000-people-after-covid-19-spike-2020-6"
     },
     {
-        "title": "Coronavirus live news: WHO warns of global oxygen shortage as cases rise by 1m per week",
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Coronavirus live news: WHO warns of global oxygen concentrator shortage as cases rise by 1m per week",
         "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
-    },
-    {
-        "title": "Sweden's Covid Expert Says 'World Went Mad' With Lockdowns",
-        "link": "https://www.bloomberg.com/news/articles/2020-06-24/sweden-s-epidemiologist-says-world-went-mad-imposing-lockdowns"
     }
 ];

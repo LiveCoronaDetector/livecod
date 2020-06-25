@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200625002551088?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 28명 증가...서울 8명, 경기 9명, 해외 5명",
-        "link": "http://www.fnnews.com/news/202006251015337085"
-    },
-    {
-        "title": "코로나 확진 28명…지역발생 23명 중 수도권 18명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062501448.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "[속보] 코로나 신규 확진자 28명…지역발생 23명",
         "link": "http://www.hani.co.kr/arti/society/health/950875.html"
     },
@@ -21,23 +13,31 @@ var koreaNewsData = [
         "link": "http://www.bloter.net/archives/392064"
     },
     {
-        "title": "쿠팡 또 확진자 발생, 덕평 물류센터 폐쇄",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/24/2020062402379.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "코로나19 신규확진 28명…수도권 19명·대전 4명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/06/25/2020062590044.html"
-    },
-    {
-        "title": "미국, 코로나 신규확진자 '최다'…커지는 재유행 공포",
-        "link": "https://www.hankyung.com/international/article/2020062565197"
+        "title": "“코로나 재유행 대비한다…확진자 5500명 임상정보 공개”",
+        "link": "https://www.donga.com/news/article/all/20200625/101680641/2"
     },
     {
         "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
     },
     {
-        "title": "코로나 확진자 5500명 임상역학정보, 연구자에 공개된다",
-        "link": "https://view.asiae.co.kr/article/2020062510064489991"
+        "title": "[종합] 코로나19 확진자 28명 증가...서울 8명, 경기 9명, 해외 5명",
+        "link": "http://www.fnnews.com/news/202006251015337085"
+    },
+    {
+        "title": "美 코로나19 재확산 공포...\"10월까지 6만명 더 사망할 수도\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062500630.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나 19 신규 확진자 28명 늘어…지역 감염 주로 ‘수도권, 대전’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4479223&ref=A"
+    },
+    {
+        "title": "코로나19 국내 확진자 28명 늘어…지역발생 23명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000208705"
+    },
+    {
+        "title": "미국, 코로나 확진자 다시 급증…다우지수 710P 급락 마감",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006250012&t=NN"
     }
 ];
