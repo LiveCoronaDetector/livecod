@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/world-restrictions-coronavirus-new-spike-cases-us-avoid-lockdowns"
     },
     {
-        "title": "IMF says global economic collapse caused by coronavirus will be even worse than feared",
-        "link": "https://www.washingtonpost.com/business/2020/06/24/imf-global-economy-coronavirus/"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html"
     }
 ];
