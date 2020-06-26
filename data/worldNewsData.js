@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/26/japan-suspects-kim-jong-un-may-be-ailing-amid-coronavirus/"
     },
     {
-        "title": "Coronavirus pandemic: The latest updates from around the world",
+        "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/index.html"
     },
     {
@@ -34,7 +34,7 @@ var worldNewsData = [
     },
     {
         "title": "Swedish Expert Says WHO Made ‘Total Mistake’ in Covid List",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6a8b91f0-b7ca-11ea-a204-a3bbde8a051b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNi9zd2VkZW4tcy1jb3ZpZC1leHBlcnQtc2F5cy13aG8tbWFkZS10b3RhbC1taXN0YWtlLWluLW5ldy1saXN0"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ba916c20-b7ce-11ea-a6ad-e5b40b65c1de&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNi9zd2VkZW4tcy1jb3ZpZC1leHBlcnQtc2F5cy13aG8tbWFkZS10b3RhbC1taXN0YWtlLWluLW5ldy1saXN0"
     },
     {
         "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
