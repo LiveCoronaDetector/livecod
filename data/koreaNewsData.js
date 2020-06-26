@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006261014029064"
     },
     {
-        "title": "[속보] '코로나19' 39명 늘어 1만2,602명…지역 27명·해외유입 12명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260162&t=NN"
-    },
-    {
         "title": "전북 26번째 코로나 확진자 발생",
         "link": "https://www.nocutnews.co.kr/news/5367898"
     },
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200625/101680641/2"
     },
     {
-        "title": "코로나19 신규 확진자 39명…지역사회 감염 수도권·대전·충남 집중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4480279&ref=A"
-    },
-    {
         "title": "서울 도심 덮친 코로나… 광화문 포시즌스호텔 사우나 직원 확진",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/26/2020062601166.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "CDC 국장 \"현재 美 코로나19 확진자 2000만명 넘을수도\"",
-        "link": "http://news.mk.co.kr/newsRead.php?no=654548&year=2020"
+        "title": "코로나19 신규 확진자 39명…지역사회 감염 수도권·대전·충남 집중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4480279&ref=A"
+    },
+    {
+        "title": "미국 CDC \"美 코로나 감염자 2,000만명 가능성\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
     },
     {
         "title": "코로나 신규 확진자 28명…지역발생 23명",
         "link": "http://www.hani.co.kr/arti/society/health/950875.html"
+    },
+    {
+        "title": "'열일하는 AI' 경남 코로나 신규 확진자 40% 발견",
+        "link": "http://www.bloter.net/archives/392064"
     }
 ];
