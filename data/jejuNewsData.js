@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020062505511168299?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
-        "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
-    },
-    {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
+        "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
