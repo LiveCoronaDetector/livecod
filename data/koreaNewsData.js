@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200625/101680641/2"
     },
     {
-        "title": "'열일하는 AI' 경남 코로나 신규 확진자 40% 발견",
-        "link": "http://www.bloter.net/archives/392064"
-    },
-    {
         "title": "미국 CDC \"美 코로나 감염자 2,000만명 가능성\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
     },
     {
-        "title": "코로나 신규 확진자 28명…지역발생 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/950875.html"
+        "title": "'열일하는 AI' 경남 코로나 신규 확진자 40% 발견",
+        "link": "http://www.bloter.net/archives/392064"
     },
     {
-        "title": "[속보]전북 26번째 확진자 발생...60대 여성, 대전 방판 관련자 접촉",
-        "link": "http://www.fnnews.com/news/202006260911287992"
+        "title": "코로나 신규 확진자 28명…지역발생 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/950875.html"
     },
     {
         "title": "WHO \"코로나19 누적 확진자, 내주 1천만명 달할 것\"(종합)",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987682?division=NAVER"
     },
     {
-        "title": "정부, 대구 코로나 의료진 수당 사실상 거부",
-        "link": "https://news.imaeil.com/Society/2020062518593449984"
-    },
-    {
         "title": "PGA투어에 퍼진 코로나 공포… 기권자 속출",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503701.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
+    },
+    {
+        "title": "미국, 코로나 신규확진자 '최다'…커지는 재유행 공포",
+        "link": "https://www.hankyung.com/international/article/2020062565197"
     }
 ];

@@ -13,16 +13,24 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "COVID-19's impact documented by satellite imagery in new initiative from NASA, Japan and Europe",
-        "link": "https://www.foxnews.com/science/covid-19-impact-documented-satellites-nasa-japan-europe"
+        "title": "Coronavirus: 'Very significant' resurgences in Europe alarm WHO",
+        "link": "https://www.bbc.com/news/world-europe-53175459"
     },
     {
         "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
         "link": "https://www.cnn.com/2020/06/25/india/delhi-hospital-crisis-coronavirus-hnk-intl/index.html"
     },
     {
-        "title": "Bolton casts light on Trump’s deference to China on coronavirus",
-        "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
+        "title": "COVID-19 Earth Observation Dashboard Tutorial",
+        "link": "https://www.youtube.com/watch?v=3jjaJcSl9GI"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-25-20-intl/index.html"
+    },
+    {
+        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
+        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
     },
     {
         "title": "Germany And France Promise New Financial Support To World Health Organization",
@@ -31,13 +39,5 @@ var worldNewsData = [
     {
         "title": "CDC adds 3 new coronavirus symptoms to list",
         "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
-    },
-    {
-        "title": "These are the countries seeing a surge in coronavirus cases",
-        "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
-    },
-    {
-        "title": "Thousands flocking to English beaches trigger 'major incident' response as coronavirus rules ignored",
-        "link": "https://www.foxnews.com/world/england-beaches-coronavirus-crowding"
     }
 ];
