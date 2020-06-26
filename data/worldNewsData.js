@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/science/covid-19-impact-documented-satellites-nasa-japan-europe"
     },
     {
-        "title": "Will Coronavirus end India's tapri chai culture?",
-        "link": "https://www.bbc.com/worklife/article/20200626-will-coronavirus-end-indias-tapri-chai-culture"
+        "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
+        "link": "https://www.cnn.com/2020/06/25/india/delhi-hospital-crisis-coronavirus-hnk-intl/index.html"
     },
     {
         "title": "COVID-19 Earth Observation Dashboard Tutorial",

@@ -21,6 +21,14 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
+        "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
+        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
+    },
+    {
+        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
+        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
+    },
+    {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "극단적 선택 이어 담배 소동까지 제주 코로나 격리 '끙끙'",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=317290"
-    },
-    {
-        "title": "제주도, 해열제 복용하며 여행한 안산시 확진자에 손해배상 소송",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200622500053&wlog_tag3=naver"
-    },
-    {
-        "title": "제주도, 해열제 먹으며 여행한 코로나 확진자에 손해배상 소송",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950365.html"
     }
 ];
