@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/science/covid-19-impact-documented-satellites-nasa-japan-europe"
     },
     {
-        "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
-        "link": "https://www.cnn.com/2020/06/25/india/delhi-hospital-crisis-coronavirus-hnk-intl/index.html"
+        "title": "Will Coronavirus end India's tapri chai culture?",
+        "link": "https://www.bbc.com/worklife/article/20200626-will-coronavirus-end-indias-tapri-chai-culture"
     },
     {
-        "title": "US coronavirus cases may be 10 times higher than data shows: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/australia-sends-troops-tackle-coronavirus-surge-live-updates-200625002236379.html"
+        "title": "COVID-19 Earth Observation Dashboard Tutorial",
+        "link": "https://www.youtube.com/watch?v=3jjaJcSl9GI"
     },
     {
         "title": "CDC adds 3 new coronavirus symptoms to list",
         "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
     },
     {
-        "title": "Coronavirus live news: Bolsonaro says he may have had Covid-19 as cases rise in 27 US states",
+        "title": "Germany And France Promise New Financial Support To World Health Organization",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
+    },
+    {
+        "title": "Coronavirus live news: CDC says US infections may be ten times official toll as Australian outbreak grows",
         "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
     },
     {
-        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
-        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
-    },
-    {
-        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
-        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/index.html"
     }
 ];

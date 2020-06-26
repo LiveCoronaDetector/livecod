@@ -89,6 +89,14 @@ var marker = [
         "완치자수": 116862
     },
     {
+        "Name": "파키스탄",
+        "Name_ch": "巴基斯坦",
+        "Name_en": "Pakistan",
+        "확진자수": 195745,
+        "사망자수": 3962,
+        "완치자수": 84168
+    },
+    {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
@@ -103,14 +111,6 @@ var marker = [
         "확진자수": 193115,
         "사망자수": 5046,
         "완치자수": 165706
-    },
-    {
-        "Name": "파키스탄",
-        "Name_ch": "巴基斯坦",
-        "Name_en": "Pakistan",
-        "확진자수": 192970,
-        "사망자수": 3903,
-        "완치자수": 81307
     },
     {
         "Name": "사우디아라비아",
@@ -396,7 +396,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 19285,
+        "확진자수": 19750,
         "사망자수": 140,
         "완치자수": 12220
     },
@@ -673,6 +673,14 @@ var marker = [
         "완치자수": 2370
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 4204,
+        "사망자수": 43,
+        "완치자수": 2162
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
@@ -687,14 +695,6 @@ var marker = [
         "확진자수": 4123,
         "사망자수": 577,
         "완치자수": 2640
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 3954,
-        "사망자수": 43,
-        "완치자수": 2112
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1481,20 +1481,20 @@ var marker = [
         "완치자수": 45
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "확진자수": 43,
+        "사망자수": 2,
+        "완치자수": 26
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
         "확진자수": 42,
         "사망자수": 3,
         "완치자수": 36
-    },
-    {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "확진자수": 42,
-        "사망자수": 2,
-        "완치자수": 26
     },
     {
         "Name": "St. Vincent Grenadines",
