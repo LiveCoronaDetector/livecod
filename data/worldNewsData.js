@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-vaccine-trial-oxford-expands-south-africa-brazil/"
     },
     {
-        "title": "Coronavirus: US cases ‘may have topped 20 million’",
-        "link": "https://www.bbc.com/news/world-us-canada-53186075"
+        "title": "Coronavirus Live Updates: U.S. and Global News",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
         "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "CDC adds 3 new coronavirus symptoms to list",
-        "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
+        "title": "Coronavirus: US cases ‘may have topped 20 million’",
+        "link": "https://www.bbc.com/news/world-us-canada-53186075"
     },
     {
         "title": "Germany And France Promise New Financial Support To World Health Organization",
