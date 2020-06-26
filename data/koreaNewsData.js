@@ -9,32 +9,32 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/26/2020062602291.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 도심 덮친 왕성교회發 코로나…광화문 포시즌스호텔 사우나 직원 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/26/2020062601166.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "광화문 포시즌스 호텔서 코로나19 확진자 발생",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02089366625805656"
     },
     {
-        "title": "코로나19 신규 확진자 39명…서울·대전·충남에 집중",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500047&wlog_tag3=naver"
+        "title": "인도, 코로나19 하루 신규 확진 1만7000여명...3일 연속 최고 기록",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006261516001&code=970100"
     },
     {
-        "title": "서울 왕성교회 관련 확진자 12명…이대부고 교사 등 포함",
-        "link": "https://www.hankyung.com/society/article/2020062625707"
-    },
-    {
-        "title": "\"왕성교회, 대부도 MT서 전파 가능성\"…확진자 12명 8명 MT 참석(종합)",
+        "title": "\"왕성교회, 대부도 MT서 전파 가능성\"…확진자 12명 중 8명 MT 참석(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200626_0001074415&cID=10201&pID=10200"
+    },
+    {
+        "title": "[속보] 배달앱 '요기요' 서초본사에 확진자…2주간 전체 재택",
+        "link": "https://www.hankyung.com/life/article/202006263674g"
     },
     {
         "title": "전북 26번째 코로나 확진자 발생",
         "link": "https://www.nocutnews.co.kr/news/5367898"
     },
     {
-        "title": "대전서 2명 더 코로나19 확진…천안서도 1명 추가(종합)",
-        "link": "http://yna.kr/AKR20200626041851063?did=1195m"
+        "title": "“1696명 예배 참석”…코로나 검사 줄 선 왕성교회 교인들(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500121&wlog_tag3=naver"
     },
     {
-        "title": "[속보] 관악구 왕성교회 신도 4명 코로나 확진... 국내 확진자 39명 추가",
-        "link": "https://www.sedaily.com/NewsView/1Z46DRCRR7"
+        "title": "대전서 2명 더 코로나19 확진…천안서도 1명 추가(종합)",
+        "link": "http://yna.kr/AKR20200626041851063?did=1195m"
     },
     {
         "title": "[종합] 서울 관악구 왕성교회 확진자 12명으로 증가",
