@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006261014029064"
     },
     {
+        "title": "‘서울 관악구 왕성교회’ 확진자 12명으로 늘어",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006261602001&code=940601"
+    },
+    {
         "title": "현대카드 여의도 본사서 코로나 확진자 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/26/2020062602291.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "광화문 포시즌스 호텔서 코로나19 확진자 발생",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02089366625805656"
-    },
-    {
-        "title": "인도, 코로나19 하루 신규 확진 1만7000여명...3일 연속 최고 기록",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006261516001&code=970100"
-    },
-    {
-        "title": "\"왕성교회, 대부도 MT서 전파 가능성\"…확진자 12명 중 8명 MT 참석(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200626_0001074415&cID=10201&pID=10200"
-    },
-    {
-        "title": "[속보] 배달앱 '요기요' 서초본사에 확진자…2주간 전체 재택",
-        "link": "https://www.hankyung.com/life/article/202006263674g"
-    },
-    {
-        "title": "전북 26번째 코로나 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5367898"
     },
     {
         "title": "“1696명 예배 참석”…코로나 검사 줄 선 왕성교회 교인들(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500121&wlog_tag3=naver"
     },
     {
-        "title": "대전서 2명 더 코로나19 확진…천안서도 1명 추가(종합)",
-        "link": "http://yna.kr/AKR20200626041851063?did=1195m"
+        "title": "13억 인도, 코로나 하루 확진 1만 7300명…사흘 연속 '최고치' 경신",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020062615130732630"
     },
     {
-        "title": "[종합] 서울 관악구 왕성교회 확진자 12명으로 증가",
-        "link": "http://www.fnnews.com/news/202006261454253714"
+        "title": "신규 확진자 39명, 서울·대전·충남에 집중…2주 일평균 42.9명(상보)",
+        "link": "https://www.news1.kr/articles/?3977413"
+    },
+    {
+        "title": "\"소독제 분사 말고 천에 묻혀 닦아야\"…코로나19 소독 이렇게(종합)",
+        "link": "http://yna.kr/AKR20200626103951530?did=1195m"
+    },
+    {
+        "title": "\"왕성교회, 대부도 MT서 전파 가능성\"…확진자 12명 중 8명 MT 참석(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200626_0001074415&cID=10201&pID=10200"
+    },
+    {
+        "title": "미국 CDC \"美 코로나 감염자 2,000만명 가능성\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
+    },
+    {
+        "title": "전북 26번째 코로나 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5367898"
     }
 ];
