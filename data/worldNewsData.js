@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/26/japan-suspects-kim-jong-un-may-be-ailing-amid-coronavirus/"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
+        "title": "Coronavirus pandemic: The latest updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/index.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Swedes rapidly losing trust in Covid-19 strategy, poll finds",
-        "link": "https://www.theguardian.com/world/2020/jun/26/swedes-rapidly-losing-trust-in-covid-19-strategy-poll-finds"
+        "title": "Swedish Expert Says WHO Made ‘Total Mistake’ in Covid List",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6a8b91f0-b7ca-11ea-a204-a3bbde8a051b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNi9zd2VkZW4tcy1jb3ZpZC1leHBlcnQtc2F5cy13aG8tbWFkZS10b3RhbC1taXN0YWtlLWluLW5ldy1saXN0"
     },
     {
-        "title": "Inside India's 10000-Bed Coronavirus Mega-Hospital in New Delhi",
-        "link": "https://www.youtube.com/watch?v=NcbpGiKqYnU"
+        "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     }
 ];

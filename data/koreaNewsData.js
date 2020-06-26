@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500047&wlog_tag3=naver"
     },
     {
-        "title": "또 종교시설에서..왕성교회 코로나19 최초확진자 교회 MT참석",
-        "link": "http://www.fnnews.com/news/202006261113459933"
-    },
-    {
         "title": "전북 26번째 코로나 확진자 발생",
         "link": "https://www.nocutnews.co.kr/news/5367898"
     },
     {
         "title": "코로나19 신규 확진자 39명…지역사회 감염 수도권·대전·충남 집중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4480279&ref=A"
+    },
+    {
+        "title": "[종합] 서울 관악구 왕성교회 확진자 12명으로 증가",
+        "link": "http://www.fnnews.com/news/202006261454253714"
     }
 ];
