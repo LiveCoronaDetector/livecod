@@ -732,9 +732,9 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 3158,
+        "확진자수": 3162,
         "사망자수": 58,
-        "완치자수": 3038
+        "완치자수": 3040
     },
     {
         "Name": "French Guiana",

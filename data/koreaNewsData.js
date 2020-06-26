@@ -13,16 +13,20 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/26/2020062601166.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "서울 왕성교회 관련 확진자 12명…이대부고 교사 등 포함",
-        "link": "https://www.hankyung.com/society/article/2020062625707"
-    },
-    {
         "title": "코로나19 신규 확진자 39명…서울·대전·충남에 집중",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500047&wlog_tag3=naver"
     },
     {
         "title": "대전서 2명 더 코로나19 확진…천안서도 1명 추가(종합)",
         "link": "http://yna.kr/AKR20200626041851063?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 39명…지역사회 감염 수도권·대전·충남 집중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4480279&ref=A"
+    },
+    {
+        "title": "미국 CDC \"美 코로나 감염자 2,000만명 가능성\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
     },
     {
         "title": "WHO \"다음주 확진자 1000만-사망자 50만 돌파할 것\"(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 관악구 왕성교회 신도 4명 코로나 확진... 국내 확진자 39명 추가",
         "link": "https://www.sedaily.com/NewsView/1Z46DRCRR7"
-    },
-    {
-        "title": "익산 다단계판매업 60대 코로나19 확진…대전 확진자 접촉(종합)",
-        "link": "http://yna.kr/AKR20200626043251055?did=1195m"
     }
 ];
