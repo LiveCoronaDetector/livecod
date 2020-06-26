@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2502397,
-        "사망자수": 126730,
-        "완치자수": 1050419
+        "확진자수": 2504588,
+        "사망자수": 126780,
+        "완치자수": 1052293
     },
     {
         "Name": "브라질",
@@ -84,8 +84,8 @@ var marker = [
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "확진자수": 196847,
-        "사망자수": 24324,
+        "확진자수": 202951,
+        "사망자수": 25060,
         "완치자수": 149318
     },
     {
@@ -417,6 +417,14 @@ var marker = [
         "완치자수": 16320
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 15619,
+        "사망자수": 623,
+        "완치자수": 2949
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
@@ -439,14 +447,6 @@ var marker = [
         "확진자수": 14852,
         "사망자수": 180,
         "완치자수": 8059
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 14819,
-        "사망자수": 601,
-        "완치자수": 2930
     },
     {
         "Name": "Honduras",
@@ -825,6 +825,14 @@ var marker = [
         "완치자수": 1602
     },
     {
+        "Name": "Equatorial Guinea",
+        "Name_ch": "",
+        "Name_en": "Equatorial Guinea",
+        "확진자수": 2001,
+        "사망자수": 32,
+        "완치자수": 515
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
@@ -863,14 +871,6 @@ var marker = [
         "확진자수": 1806,
         "사망자수": 78,
         "완치자수": 1494
-    },
-    {
-        "Name": "Equatorial Guinea",
-        "Name_ch": "",
-        "Name_en": "Equatorial Guinea",
-        "확진자수": 1664,
-        "사망자수": 32,
-        "완치자수": 515
     },
     {
         "Name": "레바논",
@@ -941,7 +941,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Sierra Leone",
         "확진자수": 1354,
-        "사망자수": 55,
+        "사망자수": 56,
         "완치자수": 869
     },
     {
@@ -1137,20 +1137,20 @@ var marker = [
         "완치자수": 140
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 684,
+        "사망자수": 10,
+        "완치자수": 526
+    },
+    {
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
         "확진자수": 681,
         "사망자수": 34,
         "완치자수": 278
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 678,
-        "사망자수": 10,
-        "완치자수": 521
     },
     {
         "Name": "Malta",
@@ -1708,7 +1708,7 @@ var marker = [
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "확진자수": 83449,
+        "확진자수": 83462,
         "사망자수": 4634,
         "완치자수": 78443
     }
