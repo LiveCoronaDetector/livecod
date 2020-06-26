@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/science/covid-19-impact-documented-satellites-nasa-japan-europe"
     },
     {
-        "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
-        "link": "https://www.cnn.com/2020/06/25/india/delhi-hospital-crisis-coronavirus-hnk-intl/index.html"
+        "title": "Will Coronavirus end India's tapri chai culture?",
+        "link": "https://www.bbc.com/worklife/article/20200626-will-coronavirus-end-indias-tapri-chai-culture"
     },
     {
         "title": "COVID-19 Earth Observation Dashboard Tutorial",
         "link": "https://www.youtube.com/watch?v=3jjaJcSl9GI"
     },
     {
-        "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
-        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
-    },
-    {
         "title": "CDC adds 3 new coronavirus symptoms to list",
         "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
+    },
+    {
+        "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
         "title": "Germany And France Promise New Financial Support To World Health Organization",
