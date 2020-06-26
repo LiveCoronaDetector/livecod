@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006261014029064"
     },
     {
-        "title": "관악구 왕성교회에서 12명 확진…서울 코로나19 신규확진자 17명 증가",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4480372&ref=A"
+        "title": "“1696명 예배 참석”…코로나 검사 줄 선 왕성교회 교인들(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500121&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 신규 확진자 39명…서울·대전·충남에 집중",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500047&wlog_tag3=naver"
+        "title": "서울 도심 덮친 왕성교회發 코로나…광화문 포시즌스호텔 사우나 직원 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/26/2020062601166.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "신규 확진자 39명, 서울·대전·충남에 집중…2주 일평균 42.9명(상보)",
+        "link": "https://www.news1.kr/articles/?3977413"
     },
     {
         "title": "\"왕성교회, 대부도 MT서 전파 가능성\"…확진자 12명 중 8명 MT 참석(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "전북 26번째 코로나 확진자 발생",
         "link": "https://www.nocutnews.co.kr/news/5367898"
-    },
-    {
-        "title": "인도, 코로나19 하루 신규 확진 1만7000여명...3일 연속 최고 기록",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006261516001&code=970100"
     }
 ];
