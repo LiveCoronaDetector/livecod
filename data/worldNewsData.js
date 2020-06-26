@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/worklife/article/20200626-will-coronavirus-end-indias-tapri-chai-culture"
     },
     {
-        "title": "COVID-19 Earth Observation Dashboard Tutorial",
-        "link": "https://www.youtube.com/watch?v=3jjaJcSl9GI"
+        "title": "Coronavirus live news: France plans 1.3m tests to find 'hidden clusters'; 40% of people in Austrian ski resort have antibodies",
+        "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
     },
     {
-        "title": "CDC adds 3 new coronavirus symptoms to list",
-        "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
+        "title": "CDC says COVID-19 cases in U.S. may be 10 times higher than reported",
+        "link": "https://www.aol.com/article/news/2020/06/25/cdc-says-covid-19-cases-in-us-may-be-10-times-higher-than-reported/24537120/"
     },
     {
         "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",

@@ -5,24 +5,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/26/2020062602291.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 서울 관악구 왕성교회 확진자 12명으로 증가",
-        "link": "http://www.fnnews.com/news/202006261454253714"
-    },
-    {
         "title": "[속보] 배달앱 '요기요' 서초본사에 확진자…2주간 전체 재택",
         "link": "https://www.hankyung.com/life/article/202006263674g"
     },
     {
-        "title": "또 종교시설에서..왕성교회 코로나19 최초확진자 교회 MT참석",
-        "link": "http://www.fnnews.com/news/202006261113459933"
+        "title": "[종합] 서울 관악구 왕성교회 확진자 12명으로 증가",
+        "link": "http://www.fnnews.com/news/202006261454253714"
     },
     {
-        "title": "서울 도심 덮친 왕성교회發 코로나…광화문 포시즌스호텔 사우나 직원 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/26/2020062601166.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "“1696명 예배 참석”…코로나 검사 줄 선 왕성교회 교인들(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500121&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 신규 확진자 39명…서울·대전·충남에 집중",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500047&wlog_tag3=naver"
+        "title": "신규 확진자 39명, 서울·대전·충남에 집중…2주 일평균 42.9명(상보)",
+        "link": "https://www.news1.kr/articles/?3977413"
     },
     {
         "title": "인도, 코로나19 하루 신규 확진 1만7000여명...3일 연속 최고 기록",
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "1박2일 MT, 확진자 쏟아졌다…왕성교회 집단감염(종합)",
         "link": "http://news.mt.co.kr/mtview.php?no=2020062617081759964"
+    },
+    {
+        "title": "코로나19 대전 확진자 옥천·청주 방문…접촉자 6명 '음성'(종합)",
+        "link": "http://yna.kr/AKR20200626111751064?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 39명…지역발생 27명",
