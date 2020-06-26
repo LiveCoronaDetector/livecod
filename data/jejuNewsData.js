@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
-        "title": "코로나 격리중 제주 관광객 극단적 선택…공황장애 등 앓아",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950360.html"
+        "title": "제주서 코로나19 격리자 극단적 선택한 듯",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014716952&code=61122027&cp=nv"
     },
     {
-        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
+        "title": "제주도, 코로나증상에도 해열제 먹고 여행한 확진자에 손배소송",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062202567.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "“무증상·무접촉” 제주도 코로나19 16번째 확진자 발생",
-        "link": "http://www.fnnews.com/news/202006162012283868"
+        "title": "제주도, 해열제 먹으며 여행한 코로나 확진자에 손해배상 소송",
+        "link": "http://www.hani.co.kr/arti/area/jeju/950365.html"
     }
 ];

@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
     },
     {
-        "title": "These are the countries seeing a surge in coronavirus cases",
-        "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
+        "title": "Coronavirus live news: Bolsonaro says he may have had Covid-19 as cases rise in 27 US states",
+        "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
     },
     {
-        "title": "Coronavirus: US cases ‘may have topped 20 million’",
-        "link": "https://www.bbc.com/news/world-us-canada-53186075"
+        "title": "Coronavirus Updates: Texas Pauses Reopening Amid Covid-19 Surge; New California Cases Break Records",
+        "link": "https://www.youtube.com/watch?v=hUqWX8BSsko"
     },
     {
         "title": "Germany And France Promise New Financial Support To World Health Organization",
