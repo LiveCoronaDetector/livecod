@@ -5,24 +5,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006261014029064"
     },
     {
+        "title": "대전서 2명 더 코로나19 확진…천안서도 1명 추가(종합)",
+        "link": "http://yna.kr/AKR20200626041851063?did=1195m"
+    },
+    {
         "title": "전북 26번째 코로나 확진자 발생",
         "link": "https://www.nocutnews.co.kr/news/5367898"
     },
     {
-        "title": "서울 도심 덮친 코로나… 광화문 포시즌스호텔 사우나 직원 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/26/2020062601166.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "‘코로나19’ 신규 확진자 39명 증가…서울·대전·충남 확산세",
         "link": "https://www.donga.com/news/article/all/20200626/101699167/1"
-    },
-    {
-        "title": "[속보] 서울 대형교회 '왕성교회'서 집단감염...확진자 12명으로 늘어",
-        "link": "https://www.sedaily.com/NewsView/1Z46E5IKKH"
-    },
-    {
-        "title": "대전서 2명 더 코로나19 확진…천안서도 1명 추가(종합)",
-        "link": "http://yna.kr/AKR20200626041851063?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 39명…지역사회 감염 수도권·대전·충남 집중",
@@ -33,11 +25,19 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3977163"
     },
     {
-        "title": "익산 다단계판매업 60대 코로나19 확진…대전 확진자 접촉(종합)",
-        "link": "http://yna.kr/AKR20200626043251055?did=1195m"
+        "title": "[속보] 관악구 왕성교회 신도 4명 코로나 확진... 국내 확진자 39명 추가",
+        "link": "https://www.sedaily.com/NewsView/1Z46DRCRR7"
     },
     {
-        "title": "“코로나 재유행 대비한다…확진자 5500명 임상정보 공개”",
-        "link": "https://www.donga.com/news/article/all/20200625/101680641/2"
+        "title": "광화문 포시즌스 호텔서 코로나19 확진자 발생",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02089366625805656"
+    },
+    {
+        "title": "미 CDC “코로나19 확진자 10배일 수도”…재확산 비상",
+        "link": "http://www.hani.co.kr/arti/international/international_general/951090.html"
+    },
+    {
+        "title": "익산 다단계판매업 60대 코로나19 확진…대전 확진자 접촉(종합)",
+        "link": "http://yna.kr/AKR20200626043251055?did=1195m"
     }
 ];

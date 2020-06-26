@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/25/india/delhi-hospital-crisis-coronavirus-hnk-intl/index.html"
     },
     {
-        "title": "COVID-19 Earth Observation Dashboard Tutorial",
-        "link": "https://www.youtube.com/watch?v=3jjaJcSl9GI"
+        "title": "US coronavirus cases may be 10 times higher than data shows: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/australia-sends-troops-tackle-coronavirus-surge-live-updates-200625002236379.html"
     },
     {
         "title": "CDC adds 3 new coronavirus symptoms to list",
         "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
     },
     {
-        "title": "Germany And France Promise New Financial Support To World Health Organization",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
-    },
-    {
         "title": "Coronavirus live news: Bolsonaro says he may have had Covid-19 as cases rise in 27 US states",
         "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
     },
     {
-        "title": "Thousands flocking to English beaches trigger 'major incident' response as coronavirus rules ignored",
-        "link": "https://www.foxnews.com/world/england-beaches-coronavirus-crowding"
+        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
+        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
+    },
+    {
+        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     }
 ];
