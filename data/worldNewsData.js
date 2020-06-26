@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-vaccine-trial-oxford-expands-south-africa-brazil/"
     },
     {
-        "title": "America Didn’t Give Up on Covid-19. Republicans Did.",
-        "link": "https://www.nytimes.com/2020/06/25/opinion/coronavirus-republicans.html"
+        "title": "Coronavirus: US cases ‘may have topped 20 million’",
+        "link": "https://www.bbc.com/news/world-us-canada-53186075"
     },
     {
-        "title": "Coronavirus: Lockdown Iran | Iran",
-        "link": "https://www.aljazeera.com/programmes/peopleandpower/2020/06/coronavirus-lockdown-iran-200624123524679.html"
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
+        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
         "title": "COVID-19's impact documented by satellite imagery in new initiative from NASA, Japan and Europe",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
     },
     {
-        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
-        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
+        "title": "United States, Europe battle resurgence of Covid-19 cases",
+        "link": "https://www.france24.com/en/20200626-united-states-europe-battle-fresh-covid-19-surges"
     },
     {
         "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
