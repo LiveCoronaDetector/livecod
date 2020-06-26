@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/26/japan-suspects-kim-jong-un-may-be-ailing-amid-coronavirus/"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus Live Updates: Texas Bars Must Close, Governor Says",
+        "title": "Coronavirus Live Updates: Florida Reports More Than 8,900 New Daily Cases",
         "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Swedish Expert Says WHO Made ‘Total Mistake’ in Covid List",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e0da75d0-b7d2-11ea-b903-ed317f4b30f0&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNi9zd2VkZW4tcy1jb3ZpZC1leHBlcnQtc2F5cy13aG8tbWFkZS10b3RhbC1taXN0YWtlLWluLW5ldy1saXN0"
+        "title": "Germany And France Promise New Financial Support To World Health Organization",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
     },
     {
-        "title": "Florida reports nearly 9,000 more coronavirus cases, a new single-day high",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_623cc39216aac14124c4653ab2c71fe3"
+        "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
+    },
+    {
+        "title": "Fauci is at today's coronavirus task force briefing",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_90a1b0887f86200119469fca659c5750"
     }
 ];
