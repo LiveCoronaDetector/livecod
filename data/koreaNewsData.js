@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202006263674g"
     },
     {
-        "title": "[종합] 서울 관악구 왕성교회 확진자 12명으로 증가",
-        "link": "http://www.fnnews.com/news/202006261454253714"
+        "title": "[속보] 코로나19 신규 확진자 39명…지역발생 27명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006261012001&code=940601"
     },
     {
-        "title": "“1696명 예배 참석”…코로나 검사 줄 선 왕성교회 교인들(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500121&wlog_tag3=naver"
+        "title": "미국 CDC \"美 코로나 감염자 2,000만명 가능성\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
     },
     {
-        "title": "신규 확진자 39명, 서울·대전·충남에 집중…2주 일평균 42.9명(상보)",
-        "link": "https://www.news1.kr/articles/?3977413"
+        "title": "또 종교시설에서..왕성교회 코로나19 최초확진자 교회 MT참석",
+        "link": "http://www.fnnews.com/news/202006261113459933"
     },
     {
-        "title": "인도, 코로나19 하루 신규 확진 1만7000여명...3일 연속 최고 기록",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006261516001&code=970100"
+        "title": "코로나19 신규 확진자 39명…서울·대전·충남에 집중",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500047&wlog_tag3=naver"
+    },
+    {
+        "title": "전북 26번째 코로나 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5367898"
+    },
+    {
+        "title": "‘서울 관악구 왕성교회’ 확진자 12명으로 늘어",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006261602001&code=940601"
+    },
+    {
+        "title": "코로나19 확산 속도 빨라지는 印…3일 연속 신규 확진자 '최다' 기록",
+        "link": "https://view.asiae.co.kr/article/2020062614100471357"
     },
     {
         "title": "대전서 2명 더 코로나19 확진…천안서도 1명 추가(종합)",
         "link": "http://yna.kr/AKR20200626041851063?did=1195m"
-    },
-    {
-        "title": "1박2일 MT, 확진자 쏟아졌다…왕성교회 집단감염(종합)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020062617081759964"
-    },
-    {
-        "title": "코로나19 대전 확진자 옥천·청주 방문…접촉자 6명 '음성'(종합)",
-        "link": "http://yna.kr/AKR20200626111751064?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 39명…지역발생 27명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006261012001&code=940601"
     }
 ];
