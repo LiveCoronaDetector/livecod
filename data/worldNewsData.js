@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53191287"
     },
     {
-        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
-        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
+        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
+        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Sweden says WHO made 'total mistake' by including it in warning",
-        "link": "https://www.bbc.com/news/world-europe-53190008"
+        "title": "Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought",
+        "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
         "title": "As coronavirus sweeps through India's capital, experts say plans to stop it are \"a waste of time\"",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/26/883931594/swedish-disease-expert-says-who-covid-19-warning-is-a-total-mistake"
     },
     {
-        "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
-        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
-    },
-    {
         "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
         "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
+    },
+    {
+        "title": "Germany And France Promise New Financial Support To World Health Organization",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
     }
 ];
