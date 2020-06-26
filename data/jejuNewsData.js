@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
+        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
+        "link": "http://www.fnnews.com/news/202006190709270776"
+    },
+    {
         "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
         "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
-    },
-    {
-        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
-        "link": "http://www.fnnews.com/news/202006190709270776"
     },
     {
         "title": "극단적 선택 이어 담배 소동까지 제주 코로나 격리 '끙끙'",
