@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53191287"
     },
     {
-        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
-        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
+        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
         "title": "Coronavirus: Sweden says WHO made 'total mistake' by including it in warning",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
     },
     {
-        "title": "Coronavirus Live Updates: Florida Reports More Than 8,900 New Daily Cases",
+        "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
         "title": "Germany And France Promise New Financial Support To World Health Organization",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
         "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_a7c96d40058684912bc493dec54ddd50"
     }
 ];

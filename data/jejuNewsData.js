@@ -17,12 +17,8 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주도 16번째 환자 퇴원…‘미결정’ 방글라데시 유학생 ‘음성’",
-        "link": "http://www.fnnews.com/news/202006241639297869"
-    },
-    {
-        "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
-        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
+        "title": "제주도내 16번째 코로나19 확진자 8일만에 퇴원",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
     },
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
+    },
+    {
+        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
+        "link": "http://www.fnnews.com/news/202006190709270776"
     }
 ];
