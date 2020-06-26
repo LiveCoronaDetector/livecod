@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020062505511168299?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도 16번째 환자 퇴원…‘미결정’ 방글라데시 유학생 ‘음성’",
-        "link": "http://www.fnnews.com/news/202006241639297869"
-    },
-    {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "제주도 16번째 환자 퇴원…‘미결정’ 방글라데시 유학생 ‘음성’",
+        "link": "http://www.fnnews.com/news/202006241639297869"
     },
     {
         "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
