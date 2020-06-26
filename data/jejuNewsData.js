@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
     },
     {
-        "title": "코로나 시국에 부산서 또 포커대회…이번엔 집합금지 명령?",
-        "link": "http://yna.kr/AKR20200625097300051?did=1195m"
-    },
-    {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
+    },
+    {
+        "title": "코로나 시국에 부산서 또 포커대회…이번엔 집합금지 명령?",
+        "link": "http://yna.kr/AKR20200625097300051?did=1195m"
     }
 ];

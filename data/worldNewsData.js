@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53191287"
     },
     {
-        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
-        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
+        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
         "title": "Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/india-coronavirus-delhi-experts-say-screening-plan-to-stop-covid-spread-a-waste-of-time/"
     },
     {
-        "title": "China to Fast-Track Coronavirus Vaccine Trial Based on Advanced Genetics Technology",
-        "link": "https://www.wsj.com/articles/china-to-fast-track-coronavirus-vaccine-trial-based-on-advanced-genetics-technology-11593180841"
+        "title": "Coronavirus live news: global death toll exceeds 490,000; soldiers sent to Italian town amid tension over new outbreak",
+        "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
     },
     {
         "title": "Coronavirus Live News and Updates",
