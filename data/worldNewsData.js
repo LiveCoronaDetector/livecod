@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "Coronavirus: 'Very significant' resurgences in Europe alarm WHO",
-        "link": "https://www.bbc.com/news/world-europe-53175459"
+        "title": "COVID-19's impact documented by satellite imagery in new initiative from NASA, Japan and Europe",
+        "link": "https://www.foxnews.com/science/covid-19-impact-documented-satellites-nasa-japan-europe"
     },
     {
         "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "Uruguay and Paraguay buck Latin America coronavirus trend",
-        "link": "https://www.theguardian.com/world/2020/jun/25/uruguay-and-paraguay-buck-latin-america-coronavirus-trend"
+        "title": "Thousands flocking to English beaches trigger 'major incident' response as coronavirus rules ignored",
+        "link": "https://www.foxnews.com/world/england-beaches-coronavirus-crowding"
     }
 ];

@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.bloter.net/archives/392064"
     },
     {
+        "title": "미국 CDC \"美 코로나 감염자 2,000만명 가능성\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
+    },
+    {
         "title": "코로나 신규 확진자 28명…지역발생 23명",
         "link": "http://www.hani.co.kr/arti/society/health/950875.html"
     },
     {
-        "title": "서울 관악구서 코로나19 신규 확진자 5명 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503724.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보]전북 26번째 확진자 발생...60대 여성, 대전 방판 관련자 접촉",
+        "link": "http://www.fnnews.com/news/202006260911287992"
     },
     {
         "title": "WHO \"코로나19 누적 확진자, 내주 1천만명 달할 것\"(종합)",
         "link": "http://yna.kr/AKR20200625002551088?did=1195m"
     },
     {
-        "title": "미국 CDC \"美 코로나 감염자 2,000만명 가능성\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
+        "title": "서울 관악구서 코로나19 신규 확진자 5명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503724.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "신규 확진자 28명…쿠팡 덕평물류센터 189명 자가격리",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987682?division=NAVER"
     },
     {
-        "title": "정부 “대구 현지 의료진 ‘코로나19 별도수당’ 힘들다”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200625500122&wlog_tag3=naver"
+        "title": "정부, 대구 코로나 의료진 수당 사실상 거부",
+        "link": "https://news.imaeil.com/Society/2020062518593449984"
     },
     {
         "title": "PGA투어에 퍼진 코로나 공포… 기권자 속출",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/25/2020062503701.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "전세계 코로나19 확진자 다음주 1000만 명 육박",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=400793&class=42&grp="
     }
 ];
