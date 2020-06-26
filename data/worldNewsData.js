@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/india-coronavirus-delhi-experts-say-screening-plan-to-stop-covid-spread-a-waste-of-time/"
     },
     {
-        "title": "Coronavirus live news: global death toll exceeds 490,000; soldiers sent to Italian town amid tension over new outbreak",
-        "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
+        "title": "China to Fast-Track Coronavirus Vaccine Trial Based on Advanced Genetics Technology",
+        "link": "https://www.wsj.com/articles/china-to-fast-track-coronavirus-vaccine-trial-based-on-advanced-genetics-technology-11593180841"
     },
     {
         "title": "Coronavirus Live News and Updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/26/883931594/swedish-disease-expert-says-who-covid-19-warning-is-a-total-mistake"
     },
     {
-        "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
+        "title": "Pence claims Americans are seeing \"encouraging news\" as cases surge",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
     },
     {
-        "title": "Germany And France Promise New Financial Support To World Health Organization",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
+        "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
     }
 ];

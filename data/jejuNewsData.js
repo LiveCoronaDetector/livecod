@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
     },
     {
-        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
+        "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
+        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
     },
     {
-        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
-        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
+        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
     },
     {
         "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
         "link": "https://www.hankyung.com/life/article/2020062242417"
     },
     {
-        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
+        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
+        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
     },
     {
-        "title": "코로나 시국에 부산서 또 포커대회…이번엔 집합금지 명령?",
-        "link": "http://yna.kr/AKR20200625097300051?did=1195m"
+        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
+        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     }
 ];
