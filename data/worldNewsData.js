@@ -13,20 +13,16 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "COVID-19's impact documented by satellite imagery in new initiative from NASA, Japan and Europe",
-        "link": "https://www.foxnews.com/science/covid-19-impact-documented-satellites-nasa-japan-europe"
+        "title": "Coronavirus: 'Very significant' resurgences in Europe alarm WHO",
+        "link": "https://www.bbc.com/news/world-europe-53175459"
     },
     {
         "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
         "link": "https://www.cnn.com/2020/06/25/india/delhi-hospital-crisis-coronavirus-hnk-intl/index.html"
     },
     {
-        "title": "COVID-19 Earth Observation Dashboard Tutorial",
-        "link": "https://www.youtube.com/watch?v=3jjaJcSl9GI"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/index.html"
+        "title": "Coronavirus live news: CDC says US infections may be ten times official toll as Australian outbreak grows",
+        "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
     },
     {
         "title": "Coronavirus Live Updates: U.S. and Global News",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
     },
     {
-        "title": "June 25 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-25-20-intl/index.html"
+        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
+        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
+    },
+    {
+        "title": "Germany And France Promise New Financial Support To World Health Organization",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
     }
 ];

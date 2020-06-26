@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006261014029064"
     },
     {
-        "title": "전북 26번째 코로나 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5367898"
-    },
-    {
         "title": "서울 도심 덮친 코로나… 광화문 포시즌스호텔 사우나 직원 확진",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/26/2020062601166.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "전북 26번째 코로나 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5367898"
     },
     {
         "title": "코로나19 신규 확진자 39명…서울·대전·충남에 집중",
@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200626041851063?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 39명…지역사회 감염 수도권·대전·충남 집중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4480279&ref=A"
-    },
-    {
         "title": "미국 CDC \"美 코로나 감염자 2,000만명 가능성\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3977163"
     },
     {
-        "title": "광화문 포시즌스 호텔서 코로나19 확진자 발생",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02089366625805656"
+        "title": "인도 코로나19 하루 확진 1만7296명... 3일 째 최다 기록(상보)",
+        "link": "https://view.asiae.co.kr/article/2020062614054144761"
     },
     {
         "title": "[속보] 관악구 왕성교회 신도 4명 코로나 확진... 국내 확진자 39명 추가",
         "link": "https://www.sedaily.com/NewsView/1Z46DRCRR7"
+    },
+    {
+        "title": "광화문 포시즌스 호텔서 코로나19 확진자 발생",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02089366625805656"
     }
 ];
