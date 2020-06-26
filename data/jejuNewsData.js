@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
+        "title": "극단적 선택 이어 담배 소동까지 제주 코로나 격리 '끙끙'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=317290"
+    },
+    {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
         "link": "http://www.fnnews.com/news/202006190709270776"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 코로나증상에도 해열제 먹고 여행한 확진자에 손배소송",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062202567.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "제주도, 해열제 먹으며 여행한 코로나 확진자에 손해배상 소송",
-        "link": "http://www.hani.co.kr/arti/area/jeju/950365.html"
     }
 ];

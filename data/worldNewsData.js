@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=3jjaJcSl9GI"
     },
     {
-        "title": "9 Million Global confirmed Covid-19 Cases & More Than 400000 Deaths",
-        "link": "https://www.youtube.com/watch?v=QFCA3U27k_U"
+        "title": "CDC adds 3 new coronavirus symptoms to list",
+        "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
     },
     {
         "title": "Germany And France Promise New Financial Support To World Health Organization",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
     },
     {
-        "title": "These are the countries seeing a surge in coronavirus cases",
-        "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
+        "title": "Thousands flocking to English beaches trigger 'major incident' response as coronavirus rules ignored",
+        "link": "https://www.foxnews.com/world/england-beaches-coronavirus-crowding"
     }
 ];
