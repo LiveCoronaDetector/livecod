@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
-        "title": "제주도 16번째 환자 퇴원…‘미결정’ 방글라데시 유학생 ‘음성’",
-        "link": "http://www.fnnews.com/news/202006241639297869"
-    },
-    {
         "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "제주도내 16번째 코로나19 확진자 퇴원",
         "link": "https://www.pressian.com/pages/articles/2020062505511168299?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주도 16번째 환자 퇴원…‘미결정’ 방글라데시 유학생 ‘음성’",
+        "link": "http://www.fnnews.com/news/202006241639297869"
     },
     {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",

@@ -34,10 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Swedish Expert Says WHO Made ‘Total Mistake’ in Covid List",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ba916c20-b7ce-11ea-a6ad-e5b40b65c1de&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNi9zd2VkZW4tcy1jb3ZpZC1leHBlcnQtc2F5cy13aG8tbWFkZS10b3RhbC1taXN0YWtlLWluLW5ldy1saXN0"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e0da75d0-b7d2-11ea-b903-ed317f4b30f0&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNi9zd2VkZW4tcy1jb3ZpZC1leHBlcnQtc2F5cy13aG8tbWFkZS10b3RhbC1taXN0YWtlLWluLW5ldy1saXN0"
     },
     {
-        "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
-        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
+        "title": "Florida reports nearly 9,000 more coronavirus cases, a new single-day high",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_623cc39216aac14124c4653ab2c71fe3"
     }
 ];
