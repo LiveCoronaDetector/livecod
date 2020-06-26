@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-vaccine-trial-oxford-expands-south-africa-brazil/"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. and Global News",
-        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
+        "title": "Coronavirus: US cases ‘may have topped 20 million’",
+        "link": "https://www.bbc.com/news/world-us-canada-53186075"
     },
     {
         "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "As COVID cases fall in Europe, calls to ban travel from America rise. What the EU got right about controlling coronavirus.",
-        "link": "https://news.yahoo.com/as-covid-cases-fall-in-europe-calls-to-ban-travel-from-america-what-the-eu-got-right-about-controlling-coronavirus-164627926.html"
+        "title": "Coronavirus: 'Very significant' resurgences in Europe alarm WHO",
+        "link": "https://www.bbc.com/news/world-europe-53175459"
     },
     {
         "title": "As Delhi becomes India's coronavirus capital, its hospitals are struggling to cope",
         "link": "https://www.cnn.com/2020/06/25/india/delhi-hospital-crisis-coronavirus-hnk-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: more than 9.5m cases worldwide",
-        "link": "https://www.theguardian.com/world/live/2020/jun/25/coronavirus-live-news-who-warns-of-global-oxygen-shortage-as-cases-rise-by-1m-per-week"
+        "title": "Bolton casts light on Trump’s deference to China on coronavirus",
+        "link": "https://www.politico.com/news/2020/06/24/bolton-trump-china-coronavirus-338647"
     },
     {
-        "title": "Coronavirus: 'Very significant' resurgences in Europe alarm WHO",
-        "link": "https://www.bbc.com/news/world-europe-53175459"
+        "title": "Germany And France Promise New Financial Support To World Health Organization",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
+    },
+    {
+        "title": "CDC adds 3 new coronavirus symptoms to list",
+        "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
     },
     {
         "title": "These are the countries seeing a surge in coronavirus cases",
         "link": "https://www.cnbc.com/2020/06/25/countries-seeing-a-surge-spike-in-coronavirus-cases.html"
     },
     {
-        "title": "Germany, France shore up political, financial aid to beleaguered WHO",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who-idUSKBN23W1PX"
-    },
-    {
-        "title": "Coronavirus Updates: Texas Pauses Reopening Amid Covid-19 Surge; New California Cases Break Records",
-        "link": "https://www.youtube.com/watch?v=hUqWX8BSsko"
+        "title": "Uruguay and Paraguay buck Latin America coronavirus trend",
+        "link": "https://www.theguardian.com/world/2020/jun/25/uruguay-and-paraguay-buck-latin-america-coronavirus-trend"
     }
 ];
