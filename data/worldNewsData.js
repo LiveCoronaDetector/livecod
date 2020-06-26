@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53191287"
     },
     {
-        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
-        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
+        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
         "title": "Coronavirus: Sweden says WHO made 'total mistake' by including it in warning",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/china-to-fast-track-coronavirus-vaccine-trial-based-on-advanced-genetics-technology-11593180841"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
-    },
-    {
-        "title": "Swedish Disease Expert Calls WHO's COVID-19 Warning 'A Total Mistake'",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/26/883931594/swedish-disease-expert-says-who-covid-19-warning-is-a-total-mistake"
+        "title": "Texas and Florida restrict businesses to slow Covid-19 spread",
+        "link": "https://www.cnn.com/2020/06/26/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Germany And France Promise New Financial Support To World Health Organization",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
+    },
+    {
+        "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",
+        "link": "https://www.nytimes.com/2020/06/24/world/coronavirus-updates.html"
     }
 ];
