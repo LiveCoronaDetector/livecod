@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/26/latest_news/1593152885_512618.html"
     },
     {
-        "title": "America Didn’t Give Up on Covid-19. Republicans Did.",
-        "link": "https://www.nytimes.com/2020/06/25/opinion/coronavirus-republicans.html"
+        "title": "Coronavirus: US hits record high in daily cases",
+        "link": "https://www.bbc.com/news/world-us-canada-53191287"
     },
     {
-        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
-        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
+        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
+        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
     },
     {
         "title": "Coronavirus: Sweden says WHO made 'total mistake' by including it in warning",
         "link": "https://www.bbc.com/news/world-europe-53190008"
     },
     {
-        "title": "India coronavirus cases spike to near half-million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/coronavirus-deaths-children-extremely-rare-live-updates-200626000914304.html"
+        "title": "As coronavirus sweeps through India's capital, experts say plans to stop it are \"a waste of time\"",
+        "link": "https://www.cbsnews.com/news/india-coronavirus-delhi-experts-say-screening-plan-to-stop-covid-spread-a-waste-of-time/"
     },
     {
         "title": "Japan minister suspects Kim Jong Un's health is behind 'strange' actions",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/index.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
+        "title": "Coronavirus Live Updates: Texas Bars Must Close, Governor Says",
         "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Swedes rapidly losing trust in Covid-19 strategy, poll finds",
+        "link": "https://www.theguardian.com/world/2020/jun/26/swedes-rapidly-losing-trust-in-covid-19-strategy-poll-finds"
     },
     {
         "title": "Inside India's 10000-Bed Coronavirus Mega-Hospital in New Delhi",
         "link": "https://www.youtube.com/watch?v=NcbpGiKqYnU"
-    },
-    {
-        "title": "Germany And France Promise New Financial Support To World Health Organization",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
     }
 ];

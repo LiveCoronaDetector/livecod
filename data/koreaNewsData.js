@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3978173"
     },
     {
-        "title": "1박2일 MT, 확진자 쏟아졌다…왕성교회 집단감염(종합)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020062617081759964"
-    },
-    {
         "title": "[속보] 배달앱 '요기요' 서초본사에 확진자…2주간 전체 재택",
         "link": "https://www.hankyung.com/life/article/202006263674g"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "전북 26번째 코로나 확진자 발생",
         "link": "https://www.nocutnews.co.kr/news/5367898"
+    },
+    {
+        "title": "코로나19 신규 확진자 39명…지역사회 감염 수도권·대전·충남 집중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4480279&ref=A"
     }
 ];
