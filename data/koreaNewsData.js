@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/26/2020062602291.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "또 교회발 집단감염…왕성교회 관련 확진자 17명으로 '급증'",
-        "link": "https://www.news1.kr/articles/?3978173"
-    },
-    {
-        "title": "[속보] 배달앱 '요기요' 서초본사에 확진자…2주간 전체 재택",
-        "link": "https://www.hankyung.com/life/article/202006263674g"
-    },
-    {
         "title": "왕성교회 집단감염 이어져…서울 확진자 오늘 13명 추가",
         "link": "http://yna.kr/AKR20200626165600004?did=1195m"
     },
     {
-        "title": "[속보] 성남서 코로나19 확진자 추가…서울 왕성교회 신도",
-        "link": "https://www.hankyung.com/society/article/2020062649107"
+        "title": "또 교회발 집단감염…왕성교회 관련 확진자 17명으로 '급증'",
+        "link": "https://www.news1.kr/articles/?3978173"
+    },
+    {
+        "title": "1박2일 MT, 확진자 쏟아졌다…왕성교회 집단감염(종합)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020062617081759964"
+    },
+    {
+        "title": "[속보] 배달앱 '요기요' 서초본사에 확진자…2주간 전체 재택",
+        "link": "https://www.hankyung.com/life/article/202006263674g"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 39명…지역발생 27명",
@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006260011&t=NN"
     },
     {
-        "title": "'방심은 금물'..현대카드 여의도 본사서 코로나 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z46EHRH9H"
-    },
-    {
         "title": "코로나19 신규 확진자 39명…서울·대전·충남에 집중",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200626500047&wlog_tag3=naver"
+    },
+    {
+        "title": "또 종교시설에서..왕성교회 코로나19 최초확진자 교회 MT참석",
+        "link": "http://www.fnnews.com/news/202006261113459933"
     },
     {
         "title": "전북 26번째 코로나 확진자 발생",
