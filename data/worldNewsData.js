@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/worklife/article/20200626-will-coronavirus-end-indias-tapri-chai-culture"
     },
     {
-        "title": "Coronavirus live news: US infections 'may be 10 times official toll'; France plans 1.3m tests to find 'hidden clusters'",
-        "link": "https://www.theguardian.com/world/live/2020/jun/26/coronavirus-live-news-cases-rise-in-27-us-states-as-cdc-estimates-20m-americans-may-have-been-infected"
+        "title": "COVID-19 Earth Observation Dashboard Tutorial",
+        "link": "https://www.youtube.com/watch?v=3jjaJcSl9GI"
     },
     {
-        "title": "CDC says COVID-19 cases in U.S. may be 10 times higher than reported",
-        "link": "https://www.aol.com/article/news/2020/06/25/cdc-says-covid-19-cases-in-us-may-be-10-times-higher-than-reported/24537120/"
+        "title": "CDC adds 3 new coronavirus symptoms to list",
+        "link": "https://www.foxnews.com/health/cdc-adds-3-new-coronavirus-symptoms-to-list"
     },
     {
         "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
         "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
     },
     {
-        "title": "Germany And France Promise New Financial Support To World Health Organization",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
+        "title": "Germany, France shore up political, financial aid to beleaguered WHO",
+        "link": "https://news.yahoo.com/germany-france-shore-political-financial-112612603.html"
     },
     {
         "title": "U.S. Sets Record for Daily New Cases as Virus Surges in South and West",

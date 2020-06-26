@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202006263674g"
     },
     {
+        "title": "또 종교시설에서..왕성교회 코로나19 최초확진자 교회 MT참석",
+        "link": "http://www.fnnews.com/news/202006261113459933"
+    },
+    {
         "title": "서울 도심 덮친 왕성교회發 코로나…광화문 포시즌스호텔 사우나 직원 확진",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/26/2020062601166.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 39명…지역발생 27명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006261012001&code=940601"
-    },
-    {
-        "title": "\"왕성교회, 대부도 MT서 전파 가능성\"…확진자 12명 중 8명 MT 참석(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200626_0001074415&cID=10201&pID=10200"
     }
 ];
