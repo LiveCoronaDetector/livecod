@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
-        "title": "As coronavirus sweeps through India's capital, experts say plans to stop it are \"a waste of time\"",
-        "link": "https://www.cbsnews.com/news/india-coronavirus-delhi-experts-say-screening-plan-to-stop-covid-spread-a-waste-of-time/"
+        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports biggest surge in local outbreak",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
     },
     {
-        "title": "International travellers refusing a third of COVID-19 tests in Vic",
-        "link": "https://www.youtube.com/watch?v=eiFjtiSN_NA"
+        "title": "Vic records 41 new cases as testing blitz begins",
+        "link": "https://www.youtube.com/watch?v=UpfNCEUMefg"
+    },
+    {
+        "title": "Fact check: As pandemic situation worsens, Pence paints a deceptively rosy picture",
+        "link": "https://www.cnn.com/2020/06/26/politics/fact-check-pence-briefing-coronavirus-june/index.html"
     },
     {
         "title": "Coronavirus Live News and Updates",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
-    },
-    {
-        "title": "Fact check: As pandemic situation worsens, Pence paints a deceptively rosy picture",
-        "link": "https://www.cnn.com/2020/06/26/politics/fact-check-pence-briefing-coronavirus-june/index.html"
     }
 ];

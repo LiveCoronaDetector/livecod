@@ -621,8 +621,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 5517,
-        "사망자수": 133,
-        "완치자수": 3291
+        "사망자수": 143,
+        "완치자수": 3330
     },
     {
         "Name": "Ethiopia",
@@ -676,9 +676,9 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 4446,
+        "확진자수": 4513,
         "사망자수": 46,
-        "완치자수": 2194
+        "완치자수": 2212
     },
     {
         "Name": "룩셈부르크",
