@@ -6,7 +6,15 @@ var koreaNewsData = [
     },
     {
         "title": "[단독] 이마트24 양지물류센터에서 확진자 발생...센터 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006271035473518"
+        "link": "https://www.ytn.co.kr/_ln/0103_202006270929094132"
+    },
+    {
+        "title": "최근 코로나19 환자, 10명 중 1명 '깜깜이'",
+        "link": "https://www.nocutnews.co.kr/news/5368544"
+    },
+    {
+        "title": "서울 왕성교회발 감염 확산…이마트24 물류센터서도 확진자 발생·폐쇄",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481070&ref=A"
     },
     {
         "title": "코로나19 일일 신규 확진자 51명…교회 집단감염 영향",
@@ -21,23 +29,15 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951188.html"
     },
     {
-        "title": "결혼식 간 왕성교회 20대 확진자…7명 밀접 접촉 [종합]",
-        "link": "https://www.hankyung.com/society/article/2020062756607"
+        "title": "[속보] 왕성교회 확진자 총 21명으로 증가…난우초 강사·구청 직원도",
+        "link": "https://www.hankyung.com/society/article/2020062758957"
     },
     {
-        "title": "美, 코로나 하루 확진 4만 명…경제 재개 제동",
-        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5823824_32531.html"
+        "title": "광주·목포서 코로나19 비상…자매 부부·손자 등 일가족 확진(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500065&wlog_tag3=naver"
     },
     {
-        "title": "군포서 확진자 7명 무더기 발생…모두 안양 주영광교회 신도",
-        "link": "https://www.donga.com/news/article/all/20200627/101711550/2"
-    },
-    {
-        "title": "대전시, 105번 코로나19 확진자 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002653720&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "[단독] 이마트24 양지물류센터에서 확진자 발생...센터 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006270929094132"
+        "title": "충북 옥천 첫 코로나 확진자…야간엔 편의점 근무",
+        "link": "https://www.hankyung.com/society/article/2020062759197"
     }
 ];

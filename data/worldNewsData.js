@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-spain-science-idUSKBN23X2HQ"
     },
     {
-        "title": "India coronavirus cases surpass 500,000: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/eu-bar-travellers-brazil-coronavirus-live-updates-200627002953075.html"
+        "title": "As coronavirus sweeps through India's capital, experts say plans to stop it are \"a waste of time\"",
+        "link": "https://www.cbsnews.com/news/india-coronavirus-delhi-experts-say-screening-plan-to-stop-covid-spread-a-waste-of-time/"
     },
     {
-        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports surge",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
+        "title": "Roche not yet meeting demand for molecular COVID-19 tests, says chairman",
+        "link": "https://www.thestar.com.my/news/world/2020/06/27/roche-not-yet-meeting-demand-for-molecular-covid-19-tests-says-chairman"
     },
     {
         "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Texas orders bars closed, reduces restaurant capacity as coronavirus cases hit all-time high",
-        "link": "https://www.foxnews.com/us/texas-orders-bars-closed-reduces-restaurant-capacity-as-coronavirus-cases-hit-all-time-high"
-    },
-    {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
+    },
+    {
+        "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
     }
 ];
