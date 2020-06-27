@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
-        "title": "India tops 500000 coronavirus cases with record one-day tally",
-        "link": "https://www.youtube.com/watch?v=Dz0t8KbjHd0"
+        "title": "June 26 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
     },
     {
-        "title": "Coronavirus live news: Egypt loosens lockdown despite surging infections as India passes 500,000 cases",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
+        "title": "South Korea distributes 'pet plants' to fight COVID depression",
+        "link": "https://www.nbcnews.com/news/world/south-korea-distributes-pet-plants-fight-covid-depression-n1231695"
     },
     {
-        "title": "Dr. Anthony Fauci's blunt assessment of U.S. coronavirus spikes",
-        "link": "https://www.youtube.com/watch?v=Fxa_aCEDfbk"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
     },
     {
         "title": "How the World Missed Covid-19’s Silent Spread",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "Coronavirus cases in India cross 500,000 as big cities reel from surge",
-        "link": "https://www.msn.com/en-us/news/world/coronavirus-cases-in-india-cross-500000-as-big-cities-reel-from-surge/ar-BB161IG7"
+        "title": "From coronavirus doctor to Mr Gay World",
+        "link": "https://www.bbc.com/news/av/world-europe-53127128/from-coronavirus-doctor-to-mr-gay-world"
     }
 ];
