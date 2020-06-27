@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/26/883931594/swedish-disease-expert-says-who-covid-19-warning-is-a-total-mistake"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
+        "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
+        "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
         "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
