@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951188.html"
     },
     {
+        "title": "인도, 코로나19 누적 확진자 50만명…'판지 병상'도 등장",
+        "link": "http://yna.kr/AKR20200627034600104?did=1195m"
+    },
+    {
         "title": "결혼식 간 왕성교회 20대 확진자…7명 밀접 접촉 [종합]",
         "link": "https://www.hankyung.com/society/article/2020062756607"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "충남대병원 코로나 확진자 방문… 응급실 부분 폐쇄",
         "link": "https://www.news1.kr/articles/?3978635"
-    },
-    {
-        "title": "충북 옥천서 첫 코로나19 확진자 발생…충북 64번째",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481110&ref=A"
     }
 ];
