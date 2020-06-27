@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200627026751061?did=1195m"
     },
     {
-        "title": "도쿄 코로나 확진자 이틀째 50명 넘어… 재확산 조짐",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/27/2020062701916.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006271019001&code=940100"
+    },
+    {
+        "title": "도쿄 코로나 확진자 이틀째 50명 넘어… 재확산 조짐",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/27/2020062701916.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "충남대병원 코로나 확진자 방문… 응급실 부분 폐쇄",
