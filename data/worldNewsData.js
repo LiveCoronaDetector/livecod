@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Fxa_aCEDfbk"
     },
     {
-        "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
-        "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
+        "title": "Coronavirus Live Updates: Latest News and Analysis",
+        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
-        "title": "Restrictions leave US travelers high and dry",
-        "link": "https://www.cnn.com/travel/article/us-citizens-international-travel-problems-covid-19/index.html"
+        "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
+        "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     }
 ];
