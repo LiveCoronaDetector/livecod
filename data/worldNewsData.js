@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/india-coronavirus-delhi-experts-say-screening-plan-to-stop-covid-spread-a-waste-of-time/"
     },
     {
-        "title": "Coronavirus live news: US hits record daily case rise as Australian state of Victoria reports biggest surge in local outbreak, with 41 new cases",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
+        "title": "International travellers refusing a third of COVID-19 tests in Vic",
+        "link": "https://www.youtube.com/watch?v=eiFjtiSN_NA"
+    },
+    {
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
     },
     {
         "title": "Swedish Disease Expert Calls WHO's COVID-19 Warning 'A Total Mistake'",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "June 26 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
-    },
-    {
-        "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
+        "title": "Fact check: As pandemic situation worsens, Pence paints a deceptively rosy picture",
+        "link": "https://www.cnn.com/2020/06/26/politics/fact-check-pence-briefing-coronavirus-june/index.html"
     }
 ];
