@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987900?division=NAVER"
     },
     {
+        "title": "코로나19 확진자 1000만명 넘어…사망자 50만명(종합)",
+        "link": "https://view.asiae.co.kr/article/2020062806402153664"
+    },
+    {
         "title": "안양 주영광교회 관련 확진자 무더기 발생…이틀새 11명(종합)",
         "link": "http://yna.kr/AKR20200627026751061?did=1195m"
     },
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "목포에서 코로나19 확진자 일가족 3명 발생",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500066&wlog_tag3=naver"
-    },
-    {
-        "title": "충북 옥천서 첫 코로나19 확진자 발생…충북 64번째",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481110&ref=A"
     },
     {
         "title": "서울 확진자 오늘 15명 늘어…누계 최소 1천299명",

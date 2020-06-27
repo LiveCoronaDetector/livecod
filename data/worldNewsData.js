@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/why-china-will-emerge-from-covid-19-stronger-than-the-us-115030619.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus Live Updates: Latest News and Analysis",
+        "title": "Coronavirus Global News: Live Updates",
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
-        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – live",
+        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
+    },
+    {
+        "title": "Coronavirus: Florida and Texas reverse reopening as infections surge",
+        "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",

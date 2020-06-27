@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "제주도내 16번째 코로나19 확진자 8일만에 퇴원",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
+        "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
+        "link": "http://www.fnnews.com/news/202006190709270776"
     }
 ];
