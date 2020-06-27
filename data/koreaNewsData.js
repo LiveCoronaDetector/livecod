@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006270929094132"
     },
     {
-        "title": "광주·목포서 코로나19 비상…자매 부부·손자 등 일가족 확진(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500065&wlog_tag3=naver"
-    },
-    {
         "title": "교회 집단감염 여파…신규 확진자 사흘만에 다시 50명대로",
         "link": "http://www.hani.co.kr/arti/society/health/951188.html"
+    },
+    {
+        "title": "광주·목포서 코로나19 비상…자매 부부·손자 등 일가족 확진(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500065&wlog_tag3=naver"
     },
     {
         "title": "최근 코로나19 환자, 10명 중 1명 '깜깜이'",

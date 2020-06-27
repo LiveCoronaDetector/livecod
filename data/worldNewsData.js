@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/china-to-fast-track-coronavirus-vaccine-trial-based-on-advanced-genetics-technology-11593180841"
     },
     {
-        "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
-        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
     },
     {
         "title": "How the World Missed Covid-19’s Silent Spread",
         "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
-        "title": "New warnings, closures as COVID cases rise in 23 states | WNT",
-        "link": "https://www.youtube.com/watch?v=Tmulu7Lb9y8"
+        "title": "US reports highest number of new coronavirus cases in a single day",
+        "link": "https://www.cnn.com/2020/06/26/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
