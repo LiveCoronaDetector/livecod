@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주도내 16번째 코로나19 확진자 8일만에 퇴원",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
-    },
-    {
         "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
         "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
+    },
+    {
+        "title": "제주도내 16번째 코로나19 확진자 8일만에 퇴원",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
     }
 ];
