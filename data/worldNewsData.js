@@ -21,16 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/eu-bar-travellers-brazil-coronavirus-live-updates-200627002953075.html"
     },
     {
-        "title": "Vic records 41 new cases as testing blitz begins",
-        "link": "https://www.youtube.com/watch?v=UpfNCEUMefg"
-    },
-    {
-        "title": "Dr. Anthony Fauci's blunt assessment of U.S. coronavirus spikes",
-        "link": "https://www.youtube.com/watch?v=Fxa_aCEDfbk"
-    },
-    {
-        "title": "Swedish Disease Expert Calls WHO's COVID-19 Warning 'A Total Mistake'",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/26/883931594/swedish-disease-expert-says-who-covid-19-warning-is-a-total-mistake"
+        "title": "Australian Virus Hot Spot Victoria Reports Spike in New Cases",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=91547ff0-b850-11ea-a058-fd841938a7b8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNy9hdXN0cmFsaWFuLXZpcnVzLWhvdC1zcG90LXZpY3RvcmlhLXJlcG9ydHMtc3Bpa2UtaW4tbmV3LWNhc2Vz"
     },
     {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
@@ -39,5 +31,13 @@ var worldNewsData = [
     {
         "title": "June 26 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
+    },
+    {
+        "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
+        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
     }
 ];
