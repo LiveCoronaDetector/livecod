@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought",
-        "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
+        "title": "Coronavirus traces found in March 2019 sewage sample, Spanish study shows",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-spain-science-idUSKBN23X2HQ"
     },
     {
         "title": "India coronavirus cases surpass 500,000: Live updates",
@@ -22,22 +22,22 @@ var worldNewsData = [
     },
     {
         "title": "Australian Virus Hot Spot Victoria Reports Spike in New Cases",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=91547ff0-b850-11ea-a058-fd841938a7b8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNy9hdXN0cmFsaWFuLXZpcnVzLWhvdC1zcG90LXZpY3RvcmlhLXJlcG9ydHMtc3Bpa2UtaW4tbmV3LWNhc2Vz"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cc1a9800-b854-11ea-9b82-a950737bbed1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNy9hdXN0cmFsaWFuLXZpcnVzLWhvdC1zcG90LXZpY3RvcmlhLXJlcG9ydHMtc3Bpa2UtaW4tbmV3LWNhc2Vz"
+    },
+    {
+        "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
+        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0?li=BBnb7Kz"
+    },
+    {
+        "title": "Coronavirus: Sweden says WHO made 'total mistake' by including it in warning",
+        "link": "https://www.bbc.com/news/world-europe-53190008"
     },
     {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "June 26 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
-    },
-    {
-        "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
-        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
+        "title": "Vic records 41 new cases as testing blitz begins",
+        "link": "https://www.youtube.com/watch?v=UpfNCEUMefg"
     }
 ];
