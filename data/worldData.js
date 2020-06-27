@@ -76,9 +76,9 @@ var marker = [
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "확진자수": 217724,
-        "사망자수": 10239,
-        "완치자수": 177852
+        "확진자수": 220180,
+        "사망자수": 10364,
+        "완치자수": 180661
     },
     {
         "Name": "멕시코",
@@ -412,9 +412,9 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "확진자수": 17522,
-        "사망자수": 698,
-        "완치자수": 16348
+        "확진자수": 17580,
+        "사망자수": 700,
+        "완치자수": 16371
     },
     {
         "Name": "Honduras",
@@ -564,7 +564,7 @@ var marker = [
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "확진자수": 7191,
+        "확진자수": 7198,
         "사망자수": 328,
         "완치자수": 6600
     },
@@ -777,6 +777,14 @@ var marker = [
         "완치자수": 2218
     },
     {
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "확진자수": 2330,
+        "사망자수": 53,
+        "완치자수": 1346
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -791,14 +799,6 @@ var marker = [
         "확진자수": 2283,
         "사망자수": 8,
         "완치자수": 1863
-    },
-    {
-        "Name": "Albania",
-        "Name_ch": "",
-        "Name_en": "Albania",
-        "확진자수": 2269,
-        "사망자수": 51,
-        "완치자수": 1298
     },
     {
         "Name": "Nicaragua",
@@ -825,6 +825,14 @@ var marker = [
         "완치자수": 1639
     },
     {
+        "Name": "Madagascar",
+        "Name_ch": "",
+        "Name_en": "Madagascar",
+        "확진자수": 2005,
+        "사망자수": 16,
+        "완치자수": 907
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
@@ -847,14 +855,6 @@ var marker = [
         "확진자수": 1942,
         "사망자수": 36,
         "완치자수": 224
-    },
-    {
-        "Name": "Madagascar",
-        "Name_ch": "",
-        "Name_en": "Madagascar",
-        "확진자수": 1922,
-        "사망자수": 16,
-        "완치자수": 862
     },
     {
         "Name": "Iceland",
@@ -948,9 +948,9 @@ var marker = [
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "확진자수": 1197,
+        "확진자수": 1198,
         "사망자수": 7,
-        "완치자수": 1091
+        "완치자수": 1095
     },
     {
         "Name": "Tunisia",
@@ -1332,7 +1332,7 @@ var marker = [
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "확진자수": 176,
+        "확진자수": 177,
         "사망자수": 0,
         "완치자수": 176
     },

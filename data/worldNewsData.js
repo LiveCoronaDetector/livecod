@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/india-coronavirus-delhi-experts-say-screening-plan-to-stop-covid-spread-a-waste-of-time/"
     },
     {
-        "title": "Roche not yet meeting demand for molecular COVID-19 tests, says chairman",
-        "link": "https://www.thestar.com.my/news/world/2020/06/27/roche-not-yet-meeting-demand-for-molecular-covid-19-tests-says-chairman"
+        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports surge",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
     },
     {
         "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
+        "title": "Coronavirus Is Breaking India's Public Health System",
+        "link": "https://www.youtube.com/watch?v=0Ot6MK6fciA"
     }
 ];
