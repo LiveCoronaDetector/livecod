@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200627026751061?did=1195m"
     },
     {
+        "title": "도쿄 코로나 확진자 이틀째 50명 넘어… 재확산 조짐",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/27/2020062701916.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나19 신규 확진자 51명...이마트24 양지 물류센터 폐쇄",
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "광주·목포서 코로나19 비상…자매 부부·손자 등 일가족 확진(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500065&wlog_tag3=naver"
-    },
-    {
-        "title": "도쿄 코로나 확진자 이틀째 50명 넘어… 재확산 조짐",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/27/2020062701916.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "대전발 옥천 거주 30대 코로나19 확진…충북 64번째 환자(종합)",

@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
-        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports surge",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
+        "title": "Global report: India Covid-19 cases pass 500,000 as US records highest daily increase",
+        "link": "https://www.theguardian.com/world/2020/jun/27/global-report-india-covid-19-cases-pass-500000-as-us-records-highest-daily-increase"
     },
     {
-        "title": "Coronavirus: More care urged for pregnant BAME patients",
-        "link": "https://www.bbc.com/news/health-53191235"
-    },
-    {
-        "title": "Cornavirus task force addresses spikes in Covid-19",
-        "link": "https://www.youtube.com/watch?v=gb5ID69CsfM"
+        "title": "South Korea distributes 'pet plants' to fight COVID depression",
+        "link": "https://www.nbcnews.com/news/world/south-korea-distributes-pet-plants-fight-covid-depression-n1231695"
     },
     {
         "title": "How the World Missed Covid-19’s Silent Spread",
         "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
+        "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
+        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0"
+    },
+    {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "Four specific actions maternity units told to take after young Erdington mum's coronavirus death",
-        "link": "https://www.birminghammail.co.uk/news/midlands-news/four-specific-actions-maternity-units-18497700"
+        "title": "Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet",
+        "link": "https://www.bbc.com/news/world-asia-53196009"
     }
 ];
