@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/eu-bar-travellers-brazil-coronavirus-live-updates-200627002953075.html"
     },
     {
-        "title": "Australian Virus Hot Spot Victoria Reports Spike in New Cases",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cc1a9800-b854-11ea-9b82-a950737bbed1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNi0yNy9hdXN0cmFsaWFuLXZpcnVzLWhvdC1zcG90LXZpY3RvcmlhLXJlcG9ydHMtc3Bpa2UtaW4tbmV3LWNhc2Vz"
+        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports surge",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
     },
     {
         "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
-        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0?li=BBnb7Kz"
+        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0"
     },
     {
-        "title": "Coronavirus: Sweden says WHO made 'total mistake' by including it in warning",
-        "link": "https://www.bbc.com/news/world-europe-53190008"
+        "title": "U.S. Hits Another Record for New Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Texas orders bars closed, reduces restaurant capacity as coronavirus cases hit all-time high",
+        "link": "https://www.foxnews.com/us/texas-orders-bars-closed-reduces-restaurant-capacity-as-coronavirus-cases-hit-all-time-high"
     },
     {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
-    },
-    {
-        "title": "Vic records 41 new cases as testing blitz begins",
-        "link": "https://www.youtube.com/watch?v=UpfNCEUMefg"
     }
 ];
