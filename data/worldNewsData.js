@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
-        "title": "Global report: India Covid-19 cases pass 500,000 as US records highest daily increase",
-        "link": "https://www.theguardian.com/world/2020/jun/27/global-report-india-covid-19-cases-pass-500000-as-us-records-highest-daily-increase"
+        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports surge",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
     },
     {
         "title": "South Korea distributes 'pet plants' to fight COVID depression",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
-        "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
-        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0"
+        "title": "Dr. Anthony Fauci's blunt assessment of U.S. coronavirus spikes",
+        "link": "https://www.youtube.com/watch?v=Fxa_aCEDfbk"
     },
     {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "Patient 91: How Vietnam saved a British pilot and kept a clean Covid-19 sheet",
-        "link": "https://www.bbc.com/news/world-asia-53196009"
+        "title": "From coronavirus doctor to Mr Gay World",
+        "link": "https://www.bbc.com/news/av/world-europe-53127128/from-coronavirus-doctor-to-mr-gay-world"
     }
 ];
