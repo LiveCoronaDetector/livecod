@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/why-china-will-emerge-from-covid-19-stronger-than-the-us-115030619.html"
     },
     {
-        "title": "How the World Missed Covid-19’s Silent Spread",
-        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
-    },
-    {
-        "title": "Dr. Anthony Fauci's blunt assessment of U.S. coronavirus spikes",
-        "link": "https://www.youtube.com/watch?v=Fxa_aCEDfbk"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
     },
     {
         "title": "Coronavirus Live Updates: Latest News and Analysis",
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/jun/27/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
+        "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
+        "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
+    },
+    {
+        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – live",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
     }
 ];
