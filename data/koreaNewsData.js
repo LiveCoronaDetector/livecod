@@ -13,20 +13,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006271019001&code=940100"
     },
     {
-        "title": "왕성교회 집담감염에 수도권 ‘집중’…신규 확진자 51명",
-        "link": "https://www.donga.com/news/article/all/20200627/101711509/1"
-    },
-    {
         "title": "美, 코로나 하루 확진 4만 명…경제 재개 제동",
         "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5823824_32531.html"
     },
     {
-        "title": "대전서 30대 코로나19 확진…24일 교회서 예배(종합)",
-        "link": "http://yna.kr/AKR20200627018351063?did=1195m"
-    },
-    {
         "title": "뉴욕증시, 코로나19 확진자 최다 소식에 2% 넘게 급락",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987888?division=NAVER"
+    },
+    {
+        "title": "대전서 30대 코로나19 확진…24일 교회서 예배(종합)",
+        "link": "http://yna.kr/AKR20200627018351063?did=1195m"
     },
     {
         "title": "현대카드 여의도 본사서 코로나 확진자 발생",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "배달앱 ‘요기요’ 서초사옥서 코로나 확진자 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/26/2020062603184.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "군포서 코로나19 7명 발생…모두 안양 주영광교회 신도(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200627_0001075034&cID=10803&pID=14000"
     }
 ];

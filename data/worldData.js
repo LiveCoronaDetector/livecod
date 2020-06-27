@@ -396,7 +396,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 19750,
+        "확진자수": 20319,
         "사망자수": 150,
         "완치자수": 12548
     },
@@ -649,20 +649,20 @@ var marker = [
         "완치자수": 2327
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 4779,
+        "사망자수": 41,
+        "완치자수": 1327
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
         "확진자수": 4643,
         "사망자수": 52,
         "완치자수": 4348
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 4563,
-        "사망자수": 39,
-        "완치자수": 1327
     },
     {
         "Name": "Bulgaria",
@@ -1708,8 +1708,8 @@ var marker = [
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "확진자수": 83462,
+        "확진자수": 83483,
         "사망자수": 4634,
-        "완치자수": 78439
+        "완치자수": 78444
     }
 ];
