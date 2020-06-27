@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
     {
-        "title": "도쿄 코로나 신규확진 57명…긴급사태 해제 후 최다(종합)",
-        "link": "http://yna.kr/AKR20200627047851073?did=1195m"
-    },
-    {
         "title": "코로나19 일일 신규 확진자 51명…교회 집단감염 영향",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987900?division=NAVER"
     },
     {
         "title": "안양 주영광교회 관련 확진자 무더기 발생…이틀새 11명(종합)",
         "link": "http://yna.kr/AKR20200627026751061?did=1195m"
+    },
+    {
+        "title": "도쿄 코로나 확진자 이틀째 50명 넘어… 재확산 조짐",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/27/2020062701916.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
