@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=UpfNCEUMefg"
     },
     {
-        "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
-        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0?li=BBnb7Kz"
+        "title": "Dr. Anthony Fauci's blunt assessment of U.S. coronavirus spikes",
+        "link": "https://www.youtube.com/watch?v=Fxa_aCEDfbk"
     },
     {
         "title": "Swedish Disease Expert Calls WHO's COVID-19 Warning 'A Total Mistake'",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
+        "title": "June 26 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
     }
 ];
