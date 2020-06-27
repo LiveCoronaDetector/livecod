@@ -13,20 +13,8 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987900?division=NAVER"
     },
     {
-        "title": "신규 확진자 다시 50명대…왕성교회 16명으로 급증 [종합]",
-        "link": "https://www.hankyung.com/society/article/2020062753417"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006271019001&code=940100"
-    },
-    {
-        "title": "코로나19 신규 확진 51명…총 1만 2,653명 확진",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005855955&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "군포서 확진자 7명 무더기 발생…모두 안양 주영광교회 신도",
-        "link": "https://www.donga.com/news/article/all/20200627/101711550/2"
     },
     {
         "title": "[속보] 왕성교회 20대 확진자, 21일 합정동 결혼식장 방문",
@@ -37,7 +25,19 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5823824_32531.html"
     },
     {
+        "title": "교회 집단감염 여파…신규 확진자 사흘만에 다시 50명대로",
+        "link": "http://www.hani.co.kr/arti/society/health/951188.html"
+    },
+    {
         "title": "뉴욕증시, 美 코로나19 확진자 최다 기록에 급락…다우 2.8% 하락",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/27/2020062700245.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 신규 확진 51명…총 1만 2,653명 확진",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005855955&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "뉴욕증시, 코로나19 확진자 최다 소식에 2% 넘게 급락",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987888?division=NAVER"
     }
 ];
