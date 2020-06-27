@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
-        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports surge",
+        "title": "Coronavirus live news: Egypt loosens lockdown despite surging infections as India passes 500,000 cases",
         "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
-        "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
-        "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
+        "title": "Coronavirus Is Breaking India's Public Health System",
+        "link": "https://www.youtube.com/watch?v=0Ot6MK6fciA"
     },
     {
-        "title": "U.S. Hits Another Record for New Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
+        "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
+        "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     }
 ];
