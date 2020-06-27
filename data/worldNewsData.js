@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/africa/article/3090579/coronavirus-africa-risk-being-pushed-back-line-vaccine"
     },
     {
-        "title": "Coronavirus: US hits record high in daily cases",
-        "link": "https://www.bbc.com/news/world-us-canada-53191287"
+        "title": "Coronavirus: US has 'serious problem', says Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53200834"
     },
     {
         "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/china-to-fast-track-coronavirus-vaccine-trial-based-on-advanced-genetics-technology-11593180841"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
-    },
-    {
         "title": "Swedish Disease Expert Calls WHO's COVID-19 Warning 'A Total Mistake'",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/26/883931594/swedish-disease-expert-says-who-covid-19-warning-is-a-total-mistake"
     },
     {
-        "title": "Pence claims Americans are seeing \"encouraging news\" as cases surge",
+        "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
     },
     {
         "title": "Special Report: As world approaches 10 million coronavirus cases, doctors see hope in new treatments",
         "link": "https://www.reuters.com/article/us-health-coronavirus-lessons-special-re/special-report-as-world-approaches-10-million-coronavirus-cases-doctors-see-hope-in-new-treatments-idUSKBN23X1I5"
+    },
+    {
+        "title": "Germany And France Promise New Financial Support To World Health Organization",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
     }
 ];
