@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
     {
+        "title": "코로나19 확진자 1000만명 넘어…사망자 50만명(종합)",
+        "link": "https://view.asiae.co.kr/article/2020062806402153664"
+    },
+    {
         "title": "코로나19 일일 신규 확진자 51명…교회 집단감염 영향",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987900?division=NAVER"
     },
     {
         "title": "안양 주영광교회 관련 확진자 무더기 발생…이틀새 11명(종합)",
         "link": "http://yna.kr/AKR20200627026751061?did=1195m"
-    },
-    {
-        "title": "코로나19 확진자 1000만명 넘어…사망자 50만명(종합)",
-        "link": "https://view.asiae.co.kr/article/2020062806402153664"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/27/2020062701916.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "서울 왕성교회발 감염 확산…이마트24 물류센터서도 확진자 발생·폐쇄",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481070&ref=A"
+    },
+    {
         "title": "충남대병원 코로나 확진자 방문… 응급실 부분 폐쇄",
         "link": "https://www.news1.kr/articles/?3978635"
     },
     {
         "title": "목포에서 코로나19 확진자 일가족 3명 발생",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500066&wlog_tag3=naver"
-    },
-    {
-        "title": "서울 확진자 오늘 15명 늘어…누계 최소 1천299명",
-        "link": "http://yna.kr/AKR20200627054300004?did=1195m"
     }
 ];
