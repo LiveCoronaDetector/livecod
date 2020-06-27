@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4481070&ref=A"
     },
     {
-        "title": "최근 코로나19 환자, 10명 중 1명 '깜깜이'",
-        "link": "https://www.nocutnews.co.kr/news/5368544"
-    },
-    {
-        "title": "광주·전남서 코로나19 확진 잇따라(종합)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=575864"
+        "title": "광주전남 거주 60대 자매 일가족 5명 코로나19 무더기 확진(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5368565"
     },
     {
         "title": "교회 집단감염 여파…신규 확진자 사흘만에 다시 50명대로",
         "link": "http://www.hani.co.kr/arti/society/health/951188.html"
     },
     {
-        "title": "[속보] 왕성교회 확진자 총 21명으로 증가…난우초 강사·구청 직원도",
-        "link": "https://www.hankyung.com/society/article/2020062758957"
+        "title": "왕성교회 19명-주영광교회 11명 감염…양지물류센터서도 확진자(종합)",
+        "link": "http://yna.kr/AKR20200627029951530?did=1195m"
     },
     {
         "title": "충북 옥천 첫 코로나 확진자…야간엔 편의점 근무",
         "link": "https://www.hankyung.com/society/article/2020062759197"
     },
     {
+        "title": "왕성교회 관련 코로나19 확진자 21명...난우초 강사·관악구청 직원 포함",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500057&wlog_tag3=naver"
+    },
+    {
         "title": "6월 27일 ‘코로나19’ 전세계 확진자 969만명…입국금지·검역 조치 179개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/27/2020062780051.html"
     },
     {
-        "title": "결혼식 간 왕성교회 20대 확진자…7명 밀접 접촉 [종합]",
-        "link": "https://www.hankyung.com/society/article/2020062756607"
+        "title": "왕성교회 확진자 총 22명… 반나절 만에 3명 늘어(종합)",
+        "link": "https://view.asiae.co.kr/article/2020062719422655529"
     }
 ];
