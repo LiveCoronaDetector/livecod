@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53200834"
     },
     {
-        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
-        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
+        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
         "title": "Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "UK to ditch quarantine for arrivals from Greece | Kathimerini",
-        "link": "https://www.ekathimerini.com/254144/article/ekathimerini/business/uk-to-ditch-quarantine--for-arrivals-from-greece"
+        "title": "UK ditches quarantine for arrivals from low COVID-19 risk countries",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-britain-quarantine/uk-ditches-quarantine-for-arrivals-from-low-covid-19-risk-countries-idUSKBN23X2VA"
     }
 ];

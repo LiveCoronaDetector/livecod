@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주도내 16번째 코로나19 확진자 퇴원",
-        "link": "https://www.pressian.com/pages/articles/2020062505511168299?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "제주도내 16번째 코로나19 확진자 퇴원",
+        "link": "https://www.pressian.com/pages/articles/2020062505511168299?utm_source=naver&utm_medium=search"
     },
     {
         "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
