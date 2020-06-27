@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/india-coronavirus-delhi-experts-say-screening-plan-to-stop-covid-spread-a-waste-of-time/"
     },
     {
-        "title": "China to Fast-Track Coronavirus Vaccine Trial Based on Advanced Genetics Technology",
-        "link": "https://www.wsj.com/articles/china-to-fast-track-coronavirus-vaccine-trial-based-on-advanced-genetics-technology-11593180841"
+        "title": "Coronavirus live news: US hits record daily case rise as Australia's testing blitz of clusters continues",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
     },
     {
         "title": "Swedish Disease Expert Calls WHO's COVID-19 Warning 'A Total Mistake'",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "As New Coronavirus Cases Hit Another Record in the U.S., Some States Delay Reopenings",
-        "link": "https://www.nytimes.com/2020/06/25/world/coronavirus-updates.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
     },
     {
-        "title": "Coronavirus pandemic: The latest updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-26-20-intl/h_5218fd02b7ef18940277beb6a18bde02"
+        "title": "Germany And France Promise New Financial Support To World Health Organization",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/25/883302474/germany-and-france-promise-new-financial-support-to-world-health-organization"
     }
 ];
