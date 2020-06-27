@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006271019001&code=940100"
     },
     {
-        "title": "교회 집단감염 여파…신규 확진자 사흘만에 다시 50명대로",
-        "link": "http://www.hani.co.kr/arti/society/health/951188.html"
-    },
-    {
-        "title": "인도, 코로나19 누적 확진자 50만명…'판지 병상'도 등장",
-        "link": "http://yna.kr/AKR20200627034600104?did=1195m"
-    },
-    {
-        "title": "결혼식 간 왕성교회 20대 확진자…7명 밀접 접촉 [종합]",
-        "link": "https://www.hankyung.com/society/article/2020062756607"
-    },
-    {
-        "title": "[단독] 이마트24 양지물류센터에서 확진자 발생...센터 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006270929094132"
-    },
-    {
         "title": "충남대병원 코로나 확진자 방문… 응급실 부분 폐쇄",
         "link": "https://www.news1.kr/articles/?3978635"
+    },
+    {
+        "title": "목포에서 코로나19 확진자 일가족 3명 발생",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500066&wlog_tag3=naver"
+    },
+    {
+        "title": "충북 옥천서 첫 코로나19 확진자 발생…충북 64번째",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481110&ref=A"
+    },
+    {
+        "title": "서울 확진자 오늘 15명 늘어…누계 최소 1천299명",
+        "link": "http://yna.kr/AKR20200627054300004?did=1195m"
+    },
+    {
+        "title": "교회 집단감염 여파…신규 확진자 사흘만에 다시 50명대로",
+        "link": "http://www.hani.co.kr/arti/society/health/951188.html"
     }
 ];

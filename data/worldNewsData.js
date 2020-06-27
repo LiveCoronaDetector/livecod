@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/south-korea-distributes-pet-plants-fight-covid-depression-n1231695"
     },
     {
+        "title": "How the World Missed Covid-19’s Silent Spread",
+        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
+    },
+    {
         "title": "Dr. Anthony Fauci's blunt assessment of U.S. coronavirus spikes",
         "link": "https://www.youtube.com/watch?v=Fxa_aCEDfbk"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
-    },
-    {
-        "title": "Restrictions leave US travelers high and dry",
-        "link": "https://www.cnn.com/travel/article/us-citizens-international-travel-problems-covid-19/index.html"
     }
 ];
