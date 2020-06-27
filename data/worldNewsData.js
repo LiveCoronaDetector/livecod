@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
+        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports surge",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
+    },
+    {
         "title": "Coronavirus cases in India cross 500,000 as big cities reel from surge",
         "link": "https://www.msn.com/en-us/news/world/coronavirus-cases-in-india-cross-500000-as-big-cities-reel-from-surge/ar-BB161IG7"
     },
     {
-        "title": "China to Fast-Track Coronavirus Vaccine Trial Based on Advanced Genetics Technology",
-        "link": "https://www.wsj.com/articles/china-to-fast-track-coronavirus-vaccine-trial-based-on-advanced-genetics-technology-11593180841"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
+        "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
+        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0"
     },
     {
         "title": "How the World Missed Covid-19’s Silent Spread",
         "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
-        "title": "US reports highest number of new coronavirus cases in a single day",
-        "link": "https://www.cnn.com/2020/06/26/health/us-coronavirus-friday/index.html"
-    },
-    {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
+    },
+    {
+        "title": "U.S. Hits Another Record for New Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
     }
 ];

@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500065&wlog_tag3=naver"
     },
     {
-        "title": "최근 코로나19 환자, 10명 중 1명 '깜깜이'",
-        "link": "https://www.nocutnews.co.kr/news/5368544"
-    },
-    {
         "title": "충북 옥천 첫 코로나 확진자…야간엔 편의점 근무",
         "link": "https://www.hankyung.com/society/article/2020062759197"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014738803&code=61121111&cp=nv"
     },
     {
-        "title": "서울 왕성교회발 감염 확산…이마트24 물류센터서도 확진자 발생·폐쇄",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481070&ref=A"
-    },
-    {
-        "title": "왕성교회 확진자 총 22명… 반나절 만에 3명 늘어(종합)",
-        "link": "https://view.asiae.co.kr/article/2020062719422655529"
-    },
-    {
         "title": "6월 27일 ‘코로나19’ 전세계 확진자 969만명…입국금지·검역 조치 179개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/27/2020062780051.html"
+    },
+    {
+        "title": "왕성교회-주영광교회 2곳 30여명 감염…양지물류센터서도 확진자(종합)",
+        "link": "http://yna.kr/AKR20200627029951530?did=1195m"
+    },
+    {
+        "title": "대전서 30대 코로나19 확진…24일 교회서 예배(종합)",
+        "link": "http://yna.kr/AKR20200627018351063?did=1195m"
+    },
+    {
+        "title": "서울 왕성교회발 감염 확산…이마트24 물류센터서도 확진자 발생·폐쇄",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481070&ref=A"
     }
 ];
