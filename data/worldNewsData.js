@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53200834"
     },
     {
-        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
-        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
+        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
+        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
     },
     {
         "title": "Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought",
         "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
-        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports surge",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
+        "title": "Coronavirus: Delhi struggles to cope with Covid-19 surge",
+        "link": "https://www.bbc.com/news/world-asia-india-53205718"
     },
     {
-        "title": "South Korea distributes 'pet plants' to fight COVID depression",
-        "link": "https://www.nbcnews.com/news/world/south-korea-distributes-pet-plants-fight-covid-depression-n1231695"
+        "title": "Coronavirus: UK to open up European holidays from 6 July - Covid-19: Top stories this morning - BBC",
+        "link": "https://www.youtube.com/watch?v=-esgSo-Lxls"
     },
     {
         "title": "How the World Missed Covid-19’s Silent Spread",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
-        "title": "From coronavirus doctor to Mr Gay World",
-        "link": "https://www.bbc.com/news/av/world-europe-53127128/from-coronavirus-doctor-to-mr-gay-world"
+        "title": "UK to ditch quarantine for arrivals from Greece | Kathimerini",
+        "link": "https://www.ekathimerini.com/254144/article/ekathimerini/business/uk-to-ditch-quarantine--for-arrivals-from-greece"
     }
 ];

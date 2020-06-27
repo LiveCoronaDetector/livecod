@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006270929094132"
     },
     {
-        "title": "대전발 옥천 거주 30대 코로나19 확진…충북 64번째 환자(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200627_0001075177&cID=10806&pID=10800"
-    },
-    {
         "title": "충남대병원 코로나 확진자 방문… 응급실 부분 폐쇄",
         "link": "https://www.news1.kr/articles/?3978635"
+    },
+    {
+        "title": "대전발 옥천 거주 30대 코로나19 확진…충북 64번째 환자(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200627_0001075177&cID=10806&pID=10800"
     }
 ];
