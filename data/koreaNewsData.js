@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006270929094132"
     },
     {
-        "title": "최근 코로나19 환자, 10명 중 1명 '깜깜이'",
-        "link": "https://www.nocutnews.co.kr/news/5368544"
+        "title": "광주·목포서 코로나19 비상…자매 부부·손자 등 일가족 확진(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500065&wlog_tag3=naver"
     },
     {
         "title": "대전서 30대 코로나19 확진…24일 교회서 예배(종합)",
         "link": "http://yna.kr/AKR20200627018351063?did=1195m"
     },
     {
-        "title": "광주·목포서 코로나19 비상…자매 부부·손자 등 일가족 확진(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500065&wlog_tag3=naver"
+        "title": "대전발 옥천 거주 30대 코로나19 확진…충북 64번째 환자(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200627_0001075177&cID=10806&pID=10800"
     }
 ];

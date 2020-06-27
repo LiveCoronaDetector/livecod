@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
-        "title": "Coronavirus cases in India cross 500,000 as big cities reel from surge",
-        "link": "https://www.msn.com/en-us/news/world/coronavirus-cases-in-india-cross-500000-as-big-cities-reel-from-surge/ar-BB161IG7"
+        "title": "India tops 500000 coronavirus cases with record one-day tally",
+        "link": "https://www.youtube.com/watch?v=Dz0t8KbjHd0"
     },
     {
         "title": "Coronavirus live news: Egypt loosens lockdown despite surging infections as India passes 500,000 cases",
         "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
     },
     {
-        "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
-        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0"
+        "title": "Dr. Anthony Fauci's blunt assessment of U.S. coronavirus spikes",
+        "link": "https://www.youtube.com/watch?v=Fxa_aCEDfbk"
     },
     {
         "title": "How the World Missed Covid-19’s Silent Spread",
         "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
-        "title": "Coronavirus Is Breaking India's Public Health System",
-        "link": "https://www.youtube.com/watch?v=0Ot6MK6fciA"
-    },
-    {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
+    },
+    {
+        "title": "Coronavirus cases in India cross 500,000 as big cities reel from surge",
+        "link": "https://www.msn.com/en-us/news/world/coronavirus-cases-in-india-cross-500000-as-big-cities-reel-from-surge/ar-BB161IG7"
     }
 ];
