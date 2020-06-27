@@ -17,20 +17,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
-        "title": "Coronavirus live news: India passes 500,000 cases as Australian state of Victoria reports biggest surge in local outbreak",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-live-news-us-records-biggest-daily-case-rise-as-australia-continues-cluster-testing-blitz-brazil-eu-travel-ban-us"
+        "title": "India coronavirus cases surpass 500,000: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/eu-bar-travellers-brazil-coronavirus-live-updates-200627002953075.html"
     },
     {
         "title": "Vic records 41 new cases as testing blitz begins",
         "link": "https://www.youtube.com/watch?v=UpfNCEUMefg"
     },
     {
-        "title": "Fact check: As pandemic situation worsens, Pence paints a deceptively rosy picture",
-        "link": "https://www.cnn.com/2020/06/26/politics/fact-check-pence-briefing-coronavirus-june/index.html"
-    },
-    {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/06/26/world/coronavirus-live-updates.html"
+        "title": "Coronavirus testing: Anthony Fauci says task force 'seriously considering' new strategy",
+        "link": "https://www.msn.com/en-us/health/health-news/coronavirus-testing-anthony-fauci-says-task-force-seriously-considering-new-strategy/ar-BB160vg0?li=BBnb7Kz"
     },
     {
         "title": "Swedish Disease Expert Calls WHO's COVID-19 Warning 'A Total Mistake'",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
     }
 ];
