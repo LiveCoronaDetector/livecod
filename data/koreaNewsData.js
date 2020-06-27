@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500065&wlog_tag3=naver"
     },
     {
-        "title": "도쿄 코로나 신규확진 57명…긴급사태 해제 후 최다(종합)",
-        "link": "http://yna.kr/AKR20200627047851073?did=1195m"
+        "title": "도쿄 코로나 확진자 이틀째 50명 넘어… 재확산 조짐",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/27/2020062701916.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "왕성교회·역삼동모임發 감염 속출…서울 확진자 13명 증가(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200627_0001075218&cID=10201&pID=10200"
+        "title": "대전발 옥천 거주 30대 코로나19 확진…충북 64번째 환자(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200627_0001075177&cID=10806&pID=10800"
     }
 ];
