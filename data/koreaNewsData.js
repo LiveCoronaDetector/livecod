@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
     {
-        "title": "코로나19 확진자 1000만명 넘어…사망자 50만명(종합)",
-        "link": "https://view.asiae.co.kr/article/2020062806402153664"
-    },
-    {
         "title": "코로나19 일일 신규 확진자 51명…교회 집단감염 영향",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987900?division=NAVER"
+    },
+    {
+        "title": "코로나19 확진자 1000만명 넘어…사망자 50만명(종합)",
+        "link": "https://view.asiae.co.kr/article/2020062806402153664"
     },
     {
         "title": "안양 주영광교회 관련 확진자 무더기 발생…이틀새 11명(종합)",

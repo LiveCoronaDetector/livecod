@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/26/latest_news/1593152885_512618.html"
     },
     {
-        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
+        "title": "Live updates: As four states hit new highs in daily coronavirus cases, Pence postpones two campaign events",
+        "link": "https://www.washingtonpost.com/nation/2020/06/27/coronavirus-live-updates-us/"
     },
     {
         "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
         "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
-        "title": "Americans likely to be barred from Europe when borders reopen next week due to coronavirus surge",
-        "link": "https://www.foxnews.com/world/americans-unwelcome-eu-borders-reopen-coronavirus"
+        "title": "Study Suggests Coronavirus Emerged In Spain Much Earlier Than Thought",
+        "link": "https://www.nytimes.com/2020/06/26/health/coronavirus-spain.html"
     },
     {
         "title": "Coronavirus: Delhi struggles to cope with Covid-19 surge",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
-        "title": "Workers removed thousands of social distancing stickers before Trump’s Tulsa rally, according to video and a person familiar with the set-up",
-        "link": "https://www.washingtonpost.com/politics/workers-removed-thousands-of-social-distancing-stickers-before-trumps-tulsa-rally-according-to-video-and-a-person-familiar-with-the-set-up/2020/06/27/f429c3be-b801-11ea-9b0f-c797548c1154_story.html"
-    },
-    {
         "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
         "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
     },
     {
         "title": "Coronavirus: Florida and Texas reverse reopening as infections surge",
         "link": "https://www.bbc.com/news/world-us-canada-53205720"
+    },
+    {
+        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/jun/27/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     }
 ];
