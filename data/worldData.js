@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2586601,
-        "사망자수": 128059,
+        "확진자수": 2587451,
+        "사망자수": 128074,
         "완치자수": 1075697
     },
     {
@@ -212,9 +212,9 @@ var marker = [
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "확진자수": 53856,
+        "확진자수": 54574,
         "사망자수": 4424,
-        "완치자수": 26493
+        "완치자수": 26920
     },
     {
         "Name": "인도네시아",
@@ -1121,20 +1121,20 @@ var marker = [
         "완치자수": 142
     },
     {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+        "확진자수": 713,
+        "사망자수": 13,
+        "완치자수": 219
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "日本 邮轮",
         "Name_en": "Diamond Princess",
         "확진자수": 712,
         "사망자수": 13,
         "완치자수": 651
-    },
-    {
-        "Name": "Sao Tome and Principe",
-        "Name_ch": "",
-        "Name_en": "Sao Tome and Principe",
-        "확진자수": 712,
-        "사망자수": 13,
-        "완치자수": 219
     },
     {
         "Name": "산마리노",
@@ -1350,7 +1350,7 @@ var marker = [
         "Name_en": "Bermuda",
         "확진자수": 146,
         "사망자수": 9,
-        "완치자수": 133
+        "완치자수": 134
     },
     {
         "Name": "Burundi",
