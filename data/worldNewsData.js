@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/26/latest_news/1593152885_512618.html"
     },
     {
-        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
+        "title": "Coronavirus: US has 'serious problem', says Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53200834"
     },
     {
         "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/why-china-will-emerge-from-covid-19-stronger-than-the-us-115030619.html"
     },
     {
-        "title": "5 states reported their highest number of coronavirus cases in one day",
-        "link": "https://www.cnn.com/2020/06/27/health/us-coronavirus-saturday/index.html"
+        "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
+        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
     },
     {
-        "title": "Workers removed thousands of social distancing stickers before Trump’s Tulsa rally, according to video and a person familiar with the set-up",
-        "link": "https://www.washingtonpost.com/politics/workers-removed-thousands-of-social-distancing-stickers-before-trumps-tulsa-rally-according-to-video-and-a-person-familiar-with-the-set-up/2020/06/27/f429c3be-b801-11ea-9b0f-c797548c1154_story.html"
+        "title": "Coronavirus: Florida and Texas reverse reopening as infections surge",
+        "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
-        "title": "UN says the world cannot return to ‘previous normal’ after coronavirus",
-        "link": "https://www.foxnews.com/world/un-world-cannot-return-to-previous-normal-coronavirus"
+        "title": "AAP-BJP Twitter War Before Amit Shah and Arvind Kejriwal's COVID Care Center Visit",
+        "link": "https://www.youtube.com/watch?v=reRW8RKDY7I"
     }
 ];
