@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006281015001&code=940601"
     },
     {
-        "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
-    },
-    {
         "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
         "link": "http://yna.kr/AKR20200629003300055?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
     },
     {
         "title": "국내 코로나19 신규 확진자, 8일 만에 60명대로 늘어",

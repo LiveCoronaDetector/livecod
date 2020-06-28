@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/28/asia/india-largest-coronavirus-hospital-delhi-scli-intl/index.html"
     },
     {
-        "title": "Global coronavirus death toll approaches half a million: Live",
+        "title": "Global coronavirus death toll exceeds half a million: Live",
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/h_6eaf6801d14f795636689111e14b2cbd"
-    },
-    {
-        "title": "China puts half a million people in lockdown as Beijing fights new cluster",
-        "link": "https://www.msn.com/en-us/news/world/china-puts-half-a-million-people-in-lockdown-as-beijing-fights-new-cluster/ar-BB163Mig"
+        "title": "39848 confirmed cases of COVID-19 in TN",
+        "link": "https://www.youtube.com/watch?v=URJnnF2b554"
     },
     {
         "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
         "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
+    },
+    {
+        "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
+        "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
     }
 ];
