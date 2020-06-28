@@ -9,20 +9,24 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
-        "title": "Israel has lost control of coronavirus outbreak, experts warn Netanyahu",
-        "link": "https://www.haaretz.com/israel-news/.premium-israel-has-lost-control-of-coronavirus-outbreak-experts-warn-netanyahu-1.8952795"
+        "title": "Leaders of Greece, Turkey discuss COVID-19 in rare call",
+        "link": "https://www.aljazeera.com/news/2020/06/leaders-greece-turkey-discuss-covid-19-rare-call-200626161744423.html"
     },
     {
         "title": "Americans likely to be barred from Europe when borders reopen next week due to coronavirus surge",
         "link": "https://www.foxnews.com/world/americans-unwelcome-eu-borders-reopen-coronavirus"
     },
     {
-        "title": "Coronavirus: Delhi struggles to cope with Covid-19 surge",
-        "link": "https://www.bbc.com/news/world-asia-india-53205718"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: US cases pass 2.5m as Australia considers new lockdown in Melbourne",
+        "title": "Coronavirus live news: confirmed Covid-19 cases exceed 10m globally",
         "link": "https://www.theguardian.com/world/live/2020/jun/28/coronavirus-live-news-global-deaths-near-500000-as-australian-state-of-victoria-steps-up-efforts-to-fight-outbreak"
+    },
+    {
+        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
+        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
         "title": "Texas, Florida Reverse Reopenings As Coronavirus Cases Surge | TODAY",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
-        "title": "Global coronavirus cases exceed 10 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
-    },
-    {
-        "title": "How community transmission is very different to locally acquired coronavirus",
-        "link": "https://www.abc.net.au/news/health/2020-06-28/what-exactly-is-community-transmission-and-how-is-it-curbed/12397296"
+        "title": "Sacha Baron Cohen Pulls Epic Prank on Far-Right Militia",
+        "link": "https://www.thedailybeast.com/sacha-baron-cohen-pulls-epic-prank-on-right-wing-militia-event-in-olympia-washington"
     }
 ];
