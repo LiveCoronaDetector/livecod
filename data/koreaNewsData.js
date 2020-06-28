@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
     {
+        "title": "전 세계 코로나 확진자 1000만명 넘겨...사망자 50만명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/28/2020062800207.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나19 일일 신규 확진자 51명…교회 집단감염 영향",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987900?division=NAVER"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006271019001&code=940100"
     },
     {
+        "title": "충북 옥천 '뚫렸다'...대전 확진자 접촉한 30대 '양성'",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800225.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "확진자 다녀간 충남대병원 응급실 폐쇄…대전서 5명 추가 확진(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200628500010&wlog_tag3=naver"
+    },
+    {
         "title": "서울 왕성교회발 감염 확산…이마트24 물류센터서도 확진자 발생·폐쇄",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4481070&ref=A"
     },
     {
-        "title": "도쿄 코로나 확진자 이틀째 50명 넘어… 재확산 조짐",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/27/2020062701916.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "충남대병원 코로나 확진자 방문… 응급실 부분 폐쇄",
-        "link": "https://www.news1.kr/articles/?3978635"
-    },
-    {
-        "title": "목포에서 코로나19 확진자 일가족 3명 발생",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500066&wlog_tag3=naver"
-    },
-    {
-        "title": "서울 확진자 오늘 15명 늘어…누계 최소 1천299명",
-        "link": "http://yna.kr/AKR20200627054300004?did=1195m"
+        "title": "도쿄 코로나 신규확진 57명…긴급사태 해제 후 최다(종합)",
+        "link": "http://yna.kr/AKR20200627047851073?did=1195m"
     }
 ];
