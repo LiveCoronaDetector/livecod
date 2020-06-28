@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
     {
-        "title": "서울 여의도 현대카드 사옥서 20대 확진자 추가 발생",
-        "link": "https://view.asiae.co.kr/article/2020062819341171146"
-    },
-    {
         "title": "베이징 코로나19 집단 감염 확산…누적 확진자 300명 넘어서",
         "link": "https://www.hankyung.com/international/article/2020062867477"
     },
     {
         "title": "전남 코로나19 24번째 확진자 발생...해외 입국 40대 남성",
         "link": "http://www.fnnews.com/news/202006281508340553"
+    },
+    {
+        "title": "전세계 코로나19 확진자 1천만명 돌파…사망자 50만명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006280010&t=NN"
     }
 ];
