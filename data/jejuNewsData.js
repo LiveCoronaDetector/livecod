@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "제주도내 16번째 코로나19 확진자 퇴원",
-        "link": "https://www.pressian.com/pages/articles/2020062505511168299?utm_source=naver&utm_medium=search"
+        "title": "제주도내 16번째 코로나19 확진자 8일만에 퇴원",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
     }
 ];

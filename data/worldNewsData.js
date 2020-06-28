@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/26/latest_news/1593152885_512618.html"
     },
     {
-        "title": "Coronavirus: Florida and Texas reverse reopening as US cases pass 2.5m",
-        "link": "https://www.bbc.com/news/world-us-canada-53205720"
+        "title": "Live updates: U.S. coronavirus cases near 2.5 million as global infections surpass 10 million",
+        "link": "https://www.washingtonpost.com/nation/2020/06/28/coronavirus-live-updates-us/"
     },
     {
         "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/americans-unwelcome-eu-borders-reopen-coronavirus"
     },
     {
-        "title": "Coronavirus: How Delhi 'wasted' lockdown to become India's biggest hotspot",
-        "link": "https://news.yahoo.com/coronavirus-delhi-wasted-lockdown-become-032221324.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
         "title": "China puts half a million in lockdown after COVID-19 spike: Live",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
-        "title": "How the World Missed Covid-19’s Silent Spread",
-        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
+        "title": "U.S. coronavirus cases surge by more than 45,000 in one day, total surpasses 2.5 million",
+        "link": "https://www.cnbc.com/2020/06/27/us-coronavirus-cases-surge-by-more-than-45000-as-states-roll-back-reopenings.html"
+    },
+    {
+        "title": "Only two US states are reporting a decline in new coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/28/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "China puts half a million people in lockdown as Beijing fights new cluster",
         "link": "https://news.yahoo.com/half-million-lockdown-beijing-fights-virus-cluster-083616636.html"
-    },
-    {
-        "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
     }
 ];
