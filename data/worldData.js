@@ -1252,7 +1252,7 @@ var marker = [
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "확진자수": 293,
+        "확진자수": 296,
         "사망자수": 6,
         "완치자수": 216
     },

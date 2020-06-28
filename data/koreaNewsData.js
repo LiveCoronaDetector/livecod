@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
     },
     {
-        "title": "코로나19 신규 확진자 51명...이마트24 양지 물류센터 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
-    },
-    {
         "title": "전 세계 코로나 확진자 1000만명 넘겨...사망자 50만명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/28/2020062800207.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020062809460356304"
     },
     {
+        "title": "[속보] 부산 해운대 거주 40대 코로나19 확진…대전 확진자 직장 동료",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020062812422443742"
+    },
+    {
+        "title": "코로나19 신규 확진자 51명...이마트24 양지 물류센터 폐쇄",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
+    },
+    {
         "title": "코로나 신규 확진자 62명, 8일 만에 60명대",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800377.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "전 세계 코로나19 확진자…1천만 명 넘어",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5824850_32496.html"
-    },
-    {
-        "title": "대구시 \"28일 신규확진자·사망자 '0명'\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020062810395561370"
+        "title": "[종합] '코로나19' 확진 익산거주 60대 여성 접촉자 553명 '음성'",
+        "link": "https://www.pressian.com/pages/articles/2020062812534046808?utm_source=naver&utm_medium=search"
     }
 ];
