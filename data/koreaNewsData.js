@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006281508340553"
     },
     {
-        "title": "코로나19 확진자 1000만명 넘어…사망자 50만명(종합)",
-        "link": "https://view.asiae.co.kr/article/2020062806402153664"
-    },
-    {
         "title": "‘코로나19’ 확진자 62명 추가…서울·경기서 무더기 감염",
         "link": "https://www.donga.com/news/article/all/20200628/101716125/1"
     },
     {
         "title": "[속보] 부산 해운대 거주 40대 코로나19 확진…대전 확진자 직장 동료",
         "link": "http://www.busan.com/view/busan/view.php?code=2020062812422443742"
+    },
+    {
+        "title": "코로나19 확진자 1000만명 넘어…사망자 50만명(종합)",
+        "link": "https://view.asiae.co.kr/article/2020062806402153664"
     },
     {
         "title": "전세계 코로나19 확진자 1000만명 돌파…2차 봉쇄 현실화?",

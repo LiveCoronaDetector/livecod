@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
-        "title": "Leaders of Greece, Turkey discuss COVID-19 in rare call",
-        "link": "https://www.aljazeera.com/news/2020/06/leaders-greece-turkey-discuss-covid-19-rare-call-200626161744423.html"
+        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
+        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
     },
     {
         "title": "Americans likely to be barred from Europe when borders reopen next week due to coronavirus surge",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/28/coronavirus-live-news-global-deaths-near-500000-as-australian-state-of-victoria-steps-up-efforts-to-fight-outbreak"
     },
     {
-        "title": "Coronavirus Global News: Live Updates",
-        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
-    },
-    {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
-        "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
+        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
+        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
         "title": "Global coronavirus cases exceed 10 million: Live updates",
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
+    },
+    {
+        "title": "How community transmission is very different to locally acquired coronavirus",
+        "link": "https://www.abc.net.au/news/health/2020-06-28/what-exactly-is-community-transmission-and-how-is-it-curbed/12397296"
     }
 ];
