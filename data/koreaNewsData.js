@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/international/article/2020062867477"
     },
     {
-        "title": "美 코로나19 신규 확진자 사흘 연속 최고…누적 250만명 넘어",
-        "link": "https://view.asiae.co.kr/article/2020062809460356304"
+        "title": "전남 코로나19 24번째 확진자 발생...해외 입국 40대 남성",
+        "link": "http://www.fnnews.com/news/202006281508340553"
     },
     {
-        "title": "[코로나19] 서울 왕성교회 확진자 8명 늘어 총 27명…서울 23명·경기 4명(종...",
-        "link": "http://www.newspim.com/news/view/20200628000137"
+        "title": "코로나19 확진자 1000만명 넘어…사망자 50만명(종합)",
+        "link": "https://view.asiae.co.kr/article/2020062806402153664"
     },
     {
-        "title": "[종합] '코로나19' 확진 익산거주 60대 여성 접촉자 553명 '음성'",
-        "link": "https://www.pressian.com/pages/articles/2020062812534046808?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "[코로나19] 구리시 지역감염 확진자 최초 발생",
-        "link": "http://www.fnnews.com/news/202006280838030670"
+        "title": "‘코로나19’ 확진자 62명 추가…서울·경기서 무더기 감염",
+        "link": "https://www.donga.com/news/article/all/20200628/101716125/1"
     },
     {
         "title": "[속보] 부산 해운대 거주 40대 코로나19 확진…대전 확진자 직장 동료",
         "link": "http://www.busan.com/view/busan/view.php?code=2020062812422443742"
+    },
+    {
+        "title": "전세계 코로나19 확진자 1000만명 돌파…2차 봉쇄 현실화?",
+        "link": "http://www.hani.co.kr/arti/international/international_general/951275.html"
     }
 ];
