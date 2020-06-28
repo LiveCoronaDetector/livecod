@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/covid-19-tens-thousands-migrants-stranded-africa-200628121804421.html"
     },
     {
-        "title": "Live updates: Arizona, Florida, Texas are latest coronavirus epicenters",
-        "link": "https://www.washingtonpost.com/nation/2020/06/28/coronavirus-live-updates-us/"
+        "title": "Only two US states are reporting a decline in new coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/28/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Coronavirus Israel live: Health minister calls for new restrictions to contain 'second wave'",
-        "link": "https://www.haaretz.com/israel-news/israel-coronavirus-second-wave-news-breaking-updates-1.8949982"
+        "title": "Infectious disease head: Israel 'about to lose control' of pandemic",
+        "link": "https://www.jpost.com/health-science/netanyahu-coronavirus-cabinet-to-roll-out-new-restrictions-633052"
     },
     {
         "title": "A covid-free town in Italy reopens to travelers and coronavirus risk",

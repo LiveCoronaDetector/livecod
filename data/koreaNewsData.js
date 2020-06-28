@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
     },
     {
+        "title": "국내 코로나19 신규 확진자, 8일 만에 60명대로 늘어",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987938?division=NAVER"
+    },
+    {
         "title": "여의도 현대카드에서 ‘코로나19’ 추가 확진자…왕성교회발 감염 추정",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4481410&ref=A"
     },
     {
         "title": "광주서 코로나19 추가 확진 3명…주말 광주·전남서만 12명(종합)",
         "link": "http://yna.kr/AKR20200628063300054?did=1195m"
-    },
-    {
-        "title": "국내 코로나19 신규 확진자, 8일 만에 60명대로 늘어",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000987938?division=NAVER"
     },
     {
         "title": "코로나 전세계 1000만명 감염, 50만명이 사망했다",
