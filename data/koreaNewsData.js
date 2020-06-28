@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/28/2020062800400.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 서울 누계 확진자 1300명 넘었다…TK 이어 세번째",
-        "link": "https://www.hankyung.com/society/article/2020062877677"
-    },
-    {
         "title": "전세계 코로나19 확진자 1천만명 넘었다(종합)",
         "link": "http://yna.kr/AKR20200628005000009?did=1195m"
     },
@@ -17,8 +13,8 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800072.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "교회발 집단감염 확산세…수원 대형교회도 코로나 확진(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5368690"
+        "title": "[속보] 서울 누계 확진자 1300명 넘었다…TK 이어 세번째",
+        "link": "https://www.hankyung.com/society/article/2020062877677"
     },
     {
         "title": "中 베이징 신규 확진자 14명 늘어 311명",
@@ -27,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "“확진자 62명이지만…” 현재는 ‘사회적 거리두기’ 1단계(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200628500092&wlog_tag3=naver"
+    },
+    {
+        "title": "[코로나19] 서울 왕성교회 확진자 8명 늘어 총 27명…서울 23명·경기 4명(종...",
+        "link": "http://www.newspim.com/news/view/20200628000137"
     },
     {
         "title": "대전서 코로나19 확진 2명 더…15일 재확산 이후 65명째(종합)",
