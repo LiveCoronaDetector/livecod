@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/covid-19-tens-thousands-migrants-stranded-africa-200628121804421.html"
     },
     {
-        "title": "Live updates: Texas, Arizona face record coronavirus hospitalizations as U.S. cases surpass 2.5 million",
+        "title": "Live updates: Texas, Arizona face record coronavirus hospitalizations as U.S. surpass 2.5 million cases",
         "link": "https://www.washingtonpost.com/nation/2020/06/28/coronavirus-live-updates-us/"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/h_6eaf6801d14f795636689111e14b2cbd"
     },
     {
-        "title": "China puts half a million people in lockdown as Beijing fights new cluster",
-        "link": "https://www.msn.com/en-us/news/world/china-puts-half-a-million-people-in-lockdown-as-beijing-fights-new-cluster/ar-BB163Mig"
+        "title": "How the World Missed Covid-19’s Silent Spread",
+        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     }
 ];
