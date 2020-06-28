@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
     },
     {
-        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
+        "title": "Coronavirus: Florida and Texas reverse reopening as US cases pass 2.5m",
+        "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
-        "title": "Coronavirus: Florida and Texas reverse reopening as infections surge",
-        "link": "https://www.bbc.com/news/world-us-canada-53205720"
+        "title": "What You Need To Know About COVID-19: Six States Reported Their Highest Number Of Cases In One Day",
+        "link": "https://www.wbal.com/article/466288/2/what-you-need-to-know-about-covid-19-six-states-reported-their-highest-number-of-cases-in-one-day"
     },
     {
         "title": "AAP-BJP Twitter War Before Amit Shah and Arvind Kejriwal's COVID Care Center Visit",

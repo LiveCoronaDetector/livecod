@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200628005000009?did=1195m"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 62명···지역발생 40명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006281015001&code=940601"
+    },
+    {
+        "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
+    },
+    {
         "title": "코로나19 신규 확진자 51명...이마트24 양지 물류센터 폐쇄",
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987900?division=NAVER"
     },
     {
-        "title": "안양 주영광교회 관련 확진자 무더기 발생…이틀새 11명(종합)",
-        "link": "http://yna.kr/AKR20200627026751061?did=1195m"
+        "title": "[속보] 코로나19 신규 확진자 62명…지역발생 40명·해외유입 22명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481309&ref=A"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 51명…지역발생 31명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006271019001&code=940100"
+        "title": "베이징 코로나19 집단 감염 확산…누적 확진자 300명 넘어서",
+        "link": "https://www.hankyung.com/international/article/2020062867477"
     },
     {
-        "title": "서울 왕성교회발 감염 확산…이마트24 물류센터서도 확진자 발생·폐쇄",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481070&ref=A"
+        "title": "[속보] 코로나19 신규확진 62명…서울·경기에서 무더기 감염",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200628500022&wlog_tag3=naver"
     },
     {
-        "title": "도쿄 코로나 신규확진 57명…긴급사태 해제 후 최다(종합)",
-        "link": "http://yna.kr/AKR20200627047851073?did=1195m"
-    },
-    {
-        "title": "충남대병원 코로나 확진자 방문… 응급실 부분 폐쇄",
-        "link": "https://www.news1.kr/articles/?3978635"
-    },
-    {
-        "title": "목포에서 코로나19 확진자 일가족 3명 발생",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200627500066&wlog_tag3=naver"
+        "title": "美 코로나19 신규 확진자 사흘 연속 최고…누적 250만명 넘어",
+        "link": "https://view.asiae.co.kr/article/2020062809460356304"
     }
 ];
