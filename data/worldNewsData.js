@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
-        "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
+        "title": "How the World Missed Covid-19’s Silent Spread",
+        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
-        "title": "Coronavirus Australia: Why Covid-19 isn't going anywhere soon",
-        "link": "https://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12343595"
+        "title": "Global coronavirus cases exceed 10 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     }
 ];

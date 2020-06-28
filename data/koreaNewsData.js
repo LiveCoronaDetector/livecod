@@ -13,12 +13,8 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
     },
     {
-        "title": "전세계 코로나19 확진자 1000만명 넘어",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006280949001&code=970100"
-    },
-    {
-        "title": "[코로나19] 서울 왕성교회 확진자 8명 늘어 총 27명…서울 23명·경기 4명(종...",
-        "link": "http://www.newspim.com/news/view/20200628000137"
+        "title": "코로나 신규 확진자 62명, 8일 만에 60명대",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800377.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "베이징 코로나19 집단 감염 확산…누적 확진자 300명 넘어서",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020062809460356304"
     },
     {
-        "title": "[속보] 부산 해운대 거주 40대 코로나19 확진…대전 확진자 직장 동료",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020062812422443742"
-    },
-    {
-        "title": "코로나 신규 확진자 62명, 8일 만에 60명대",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800377.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "[코로나19] 서울 왕성교회 확진자 8명 늘어 총 27명…서울 23명·경기 4명(종...",
+        "link": "http://www.newspim.com/news/view/20200628000137"
     },
     {
         "title": "[종합] '코로나19' 확진 익산거주 60대 여성 접촉자 553명 '음성'",
         "link": "https://www.pressian.com/pages/articles/2020062812534046808?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "[코로나19] 구리시 지역감염 확진자 최초 발생",
+        "link": "http://www.fnnews.com/news/202006280838030670"
+    },
+    {
+        "title": "[속보] 부산 해운대 거주 40대 코로나19 확진…대전 확진자 직장 동료",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020062812422443742"
     }
 ];
