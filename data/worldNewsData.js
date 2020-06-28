@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/netanyahu-coronavirus-cabinet-to-roll-out-new-restrictions-633052"
     },
     {
-        "title": "A covid-free town in Italy reopens to travelers and coronavirus risk",
-        "link": "https://www.washingtonpost.com/world/2020/06/27/this-italian-hilltown-is-covid-free-it-reopens-visitors-will-it-lose-that-status/?arc404=true"
+        "title": "How the World Missed Covid-19’s Silent Spread",
+        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
         "title": "India opens one of the world's largest hospitals to fight coronavirus",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
-        "title": "Coronavirus Live Updates: Global Cases Pass 10 Million",
-        "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
+        "title": "Global COVID-19 cases surpasses 10 million mark",
+        "link": "https://www.youtube.com/watch?v=OaQjgdTBtQo"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
