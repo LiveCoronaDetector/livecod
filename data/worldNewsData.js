@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/26/latest_news/1593152885_512618.html"
     },
     {
-        "title": "New U.S. coronavirus cases break record; Pence cancels campaign events in Arizona, Florida",
-        "link": "https://www.nbcnews.com/politics/politics-news/u-s-coronavirus-infections-break-record-hit-nearly-46k-single-n1232335"
+        "title": "Coronavirus: Florida and Texas reverse reopening as US cases pass 2.5m",
+        "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
         "title": "Following coronavirus surge, Palestinians in Israel banned from West Bank",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
     },
     {
-        "title": "Global coronavirus death toll nears 500,000: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
+        "title": "12 states are pausing reopening over the surge in US coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/27/health/us-coronavirus-saturday/index.html"
     },
     {
-        "title": "Emergency nurse among 41 new COVID-19 cases in Victoria",
-        "link": "https://www.youtube.com/watch?v=vfsGv0fgfu4"
+        "title": "Global coronavirus cases exceed 10 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     }
 ];
