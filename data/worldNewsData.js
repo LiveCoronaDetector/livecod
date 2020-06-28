@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/28/coronavirus-live-updates-us/"
     },
     {
-        "title": "Infectious disease head: Israel 'about to lose control' of pandemic",
-        "link": "https://www.jpost.com/health-science/netanyahu-coronavirus-cabinet-to-roll-out-new-restrictions-633052"
+        "title": "Coronavirus Israel live: Health minister calls for new restrictions to contain 'second wave'",
+        "link": "https://www.haaretz.com/israel-news/israel-coronavirus-second-wave-news-breaking-updates-1.8949982"
     },
     {
         "title": "A covid-free town in Italy reopens to travelers and coronavirus risk",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/28/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/h_6eaf6801d14f795636689111e14b2cbd"
+        "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
+        "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
     },
     {
         "title": "Coronavirus Live Updates: Latest News and Analysis",

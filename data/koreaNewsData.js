@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006281015001&code=940601"
     },
     {
+        "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
+    },
+    {
         "title": "여의도 현대카드에서 ‘코로나19’ 추가 확진자…왕성교회발 감염 추정",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4481410&ref=A"
     },
     {
         "title": "광주서 코로나19 추가 확진 3명…주말 광주·전남서만 12명(종합)",
         "link": "http://yna.kr/AKR20200628063300054?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
     },
     {
         "title": "국내 코로나19 신규 확진자, 8일 만에 60명대로 늘어",

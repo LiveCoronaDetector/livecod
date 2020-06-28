@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주도, 코로나19 2차 대유행 대비 매뉴얼 구축",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166639"
-    },
-    {
         "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
         "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
     },
@@ -35,6 +31,10 @@ var jejuNewsData = [
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
+    },
+    {
+        "title": "제주도, 코로나19 2차 대유행 대비 매뉴얼 구축",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166639"
     },
     {
         "title": "제주도내 16번째 코로나19 확진자 8일만에 퇴원",
