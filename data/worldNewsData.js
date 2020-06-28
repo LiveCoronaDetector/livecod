@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
-        "title": "Leaders of Greece, Turkey discuss COVID-19 in rare call",
-        "link": "https://www.aljazeera.com/news/2020/06/leaders-greece-turkey-discuss-covid-19-rare-call-200626161744423.html"
+        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
+        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
     },
     {
         "title": "Americans likely to be barred from Europe when borders reopen next week due to coronavirus surge",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: confirmed Covid-19 cases exceed 10m globally",
-        "link": "https://www.theguardian.com/world/live/2020/jun/28/coronavirus-live-news-global-deaths-near-500000-as-australian-state-of-victoria-steps-up-efforts-to-fight-outbreak"
+        "title": "Why China will emerge from COVID-19 stronger than the US",
+        "link": "https://finance.yahoo.com/news/why-china-will-emerge-from-covid-19-stronger-than-the-us-115030619.html"
     },
     {
         "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
-        "title": "Texas, Florida Reverse Reopenings As Coronavirus Cases Surge | TODAY",
-        "link": "https://www.youtube.com/watch?v=4kQfv3y5CgI"
+        "title": "China puts half a million people in lockdown as Beijing fights new cluster",
+        "link": "https://news.yahoo.com/half-million-lockdown-beijing-fights-virus-cluster-083616636.html"
     },
     {
-        "title": "How the World Missed Covid-19’s Silent Spread",
-        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
+        "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
     },
     {
-        "title": "Sacha Baron Cohen Pulls Epic Prank on Far-Right Militia",
-        "link": "https://www.thedailybeast.com/sacha-baron-cohen-pulls-epic-prank-on-right-wing-militia-event-in-olympia-washington"
+        "title": "Global report: worldwide Covid-19 cases near 10m as US again hits record daily rise",
+        "link": "https://www.theguardian.com/world/2020/jun/28/global-report-worldwide-covid-19-cases-near-10m-as-us-again-records-record-daily-rise"
     }
 ];

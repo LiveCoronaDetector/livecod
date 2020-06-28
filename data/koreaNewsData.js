@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
     },
     {
+        "title": "서울 누계 확진자 1천300명 넘어…왕성교회발 연쇄감염도(종합)",
+        "link": "http://yna.kr/AKR20200628038351004?did=1195m"
+    },
+    {
         "title": "교회발 집단감염 확산세…수원 대형교회도 코로나 확진(종합)",
         "link": "https://www.nocutnews.co.kr/news/5368690"
     },
@@ -17,20 +21,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200628005000009?did=1195m"
     },
     {
-        "title": "[속보] 서울 누계 확진자 1300명 넘었다…TK 이어 세번째",
-        "link": "https://www.hankyung.com/society/article/2020062877677"
-    },
-    {
-        "title": "코로나 전세계 1000만명 감염, 50만명이 사망했다",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800072.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "中 베이징 신규 확진자 14명 늘어 311명",
-        "link": "http://www.fnnews.com/news/202006281019515182"
+        "title": "베이징 코로나19 집단 감염 확산…누적 확진자 300명 넘어서",
+        "link": "https://www.hankyung.com/international/article/2020062867477"
     },
     {
         "title": "“확진자 62명이지만…” 현재는 ‘사회적 거리두기’ 1단계(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200628500092&wlog_tag3=naver"
+    },
+    {
+        "title": "전남 코로나19 24번째 확진자 발생...해외 입국 40대 남성",
+        "link": "http://www.fnnews.com/news/202006281508340553"
     },
     {
         "title": "‘코로나19’ 확진자 62명 추가…서울·경기서 무더기 감염",
