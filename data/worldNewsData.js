@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jun/28/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     },
     {
-        "title": "AAP-BJP Twitter War Before Amit Shah and Arvind Kejriwal's COVID Care Center Visit",
-        "link": "https://www.youtube.com/watch?v=reRW8RKDY7I"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/h_6eaf6801d14f795636689111e14b2cbd"
     },
     {
-        "title": "China puts half a million people in lockdown as Beijing fights new cluster",
-        "link": "https://www.msn.com/en-us/news/world/china-puts-half-a-million-people-in-lockdown-as-beijing-fights-new-cluster/ar-BB163Mig"
+        "title": "Coronavirus Live Updates: Latest News and Analysis",
+        "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
     }
 ];
