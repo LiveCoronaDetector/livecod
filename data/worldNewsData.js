@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
-        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
-        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
+        "title": "Pakistan plane crashed after pilots distracted by coronavirus fears",
+        "link": "https://www.theguardian.com/world/2020/jun/25/pakistan-plane-crashed-after-pilots-distracted-by-coronavirus-fears"
     },
     {
         "title": "Americans likely to be barred from Europe when borders reopen next week due to coronavirus surge",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
-        "title": "Why China will emerge from COVID-19 stronger than the US",
-        "link": "https://finance.yahoo.com/news/why-china-will-emerge-from-covid-19-stronger-than-the-us-115030619.html"
+        "title": "China puts half a million in lockdown after COVID-19 spike: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
         "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "China puts half a million people in lockdown as Beijing fights new cluster",
-        "link": "https://news.yahoo.com/half-million-lockdown-beijing-fights-virus-cluster-083616636.html"
+        "link": "https://www.msn.com/en-us/news/world/china-puts-half-a-million-people-in-lockdown-as-beijing-fights-new-cluster/ar-BB163Mig?li=BBnb4R7"
+    },
+    {
+        "title": "How the World Missed Covid-19’s Silent Spread",
+        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
     },
     {
         "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
-    },
-    {
-        "title": "Global report: worldwide Covid-19 cases near 10m as US again hits record daily rise",
-        "link": "https://www.theguardian.com/world/2020/jun/28/global-report-worldwide-covid-19-cases-near-10m-as-us-again-records-record-daily-rise"
     }
 ];

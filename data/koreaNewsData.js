@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5368690"
     },
     {
-        "title": "전세계 코로나19 확진자 1천만명 넘었다(종합)",
-        "link": "http://yna.kr/AKR20200628005000009?did=1195m"
-    },
-    {
         "title": "베이징 코로나19 집단 감염 확산…누적 확진자 300명 넘어서",
         "link": "https://www.hankyung.com/international/article/2020062867477"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "대전서 코로나19 확진 2명 더…15일 재확산 이후 65명째(종합)",
         "link": "http://yna.kr/AKR20200628018451063?did=1195m"
+    },
+    {
+        "title": "전세계 코로나19 확진자 1천만명 돌파…사망자 50만명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006280010&t=NN"
     }
 ];
