@@ -948,9 +948,9 @@ var marker = [
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "확진자수": 1198,
+        "확진자수": 1200,
         "사망자수": 7,
-        "완치자수": 1095
+        "완치자수": 1104
     },
     {
         "Name": "Tunisia",
@@ -1012,9 +1012,9 @@ var marker = [
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "확진자수": 1062,
+        "확진자수": 1068,
         "사망자수": 67,
-        "완치자수": 924
+        "완치자수": 937
     },
     {
         "Name": "Malawi",
@@ -1505,6 +1505,14 @@ var marker = [
         "완치자수": 29
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 28,
+        "사망자수": 1,
+        "완치자수": 11
+    },
+    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
@@ -1591,14 +1599,6 @@ var marker = [
         "확진자수": 18,
         "사망자수": 0,
         "완치자수": 18
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 16,
-        "사망자수": 1,
-        "완치자수": 11
     },
     {
         "Name": "Saint Kitts and Nevis",

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
-        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
-        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
+        "title": "Israel has lost control of coronavirus outbreak, experts warn Netanyahu",
+        "link": "https://www.haaretz.com/israel-news/.premium-israel-has-lost-control-of-coronavirus-outbreak-experts-warn-netanyahu-1.8952795"
     },
     {
         "title": "Americans likely to be barred from Europe when borders reopen next week due to coronavirus surge",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/28/coronavirus-live-news-global-deaths-near-500000-as-australian-state-of-victoria-steps-up-efforts-to-fight-outbreak"
     },
     {
-        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
-        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Florida and Texas struggle with surging coronavirus cases",
-        "link": "https://www.youtube.com/watch?v=ewgF5SMjZS4"
+        "title": "Texas, Florida Reverse Reopenings As Coronavirus Cases Surge | TODAY",
+        "link": "https://www.youtube.com/watch?v=4kQfv3y5CgI"
     },
     {
         "title": "How the World Missed Covid-19’s Silent Spread",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Global coronavirus cases exceed 10 million: Live updates",
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
+    },
+    {
+        "title": "How community transmission is very different to locally acquired coronavirus",
+        "link": "https://www.abc.net.au/news/health/2020-06-28/what-exactly-is-community-transmission-and-how-is-it-curbed/12397296"
     }
 ];
