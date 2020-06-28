@@ -17,20 +17,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/americans-unwelcome-eu-borders-reopen-coronavirus"
     },
     {
-        "title": "Florida sets new record in daily coronavirus cases: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/eu-bar-travellers-brazil-coronavirus-live-updates-200627002953075.html"
+        "title": "Coronavirus: Delhi struggles to cope with Covid-19 surge",
+        "link": "https://www.bbc.com/news/world-asia-india-53205718"
     },
     {
-        "title": "Coronavirus live news: global deaths near 500,000 as Australian state of Victoria steps up efforts to fight outbreak",
+        "title": "Coronavirus live news: global deaths near 500,000 as Australia considers new lockdown in Melbourne",
         "link": "https://www.theguardian.com/world/live/2020/jun/28/coronavirus-live-news-global-deaths-near-500000-as-australian-state-of-victoria-steps-up-efforts-to-fight-outbreak"
     },
     {
         "title": "Coronavirus Global News: Live Updates",
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
     },
     {
         "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
+    },
+    {
+        "title": "Restrictions leave US travelers high and dry",
+        "link": "https://www.cnn.com/travel/article/us-citizens-international-travel-problems-covid-19/index.html"
     }
 ];

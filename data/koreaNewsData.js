@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200628005000009?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 62명…지역발생 40명·해외유입 22명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4481309&ref=A"
+        "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
     },
     {
         "title": "코로나19 신규 확진자 51명...이마트24 양지 물류센터 폐쇄",
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
     {
-        "title": "전 세계 코로나 확진자 1000만명 넘겨...사망자 50만명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/28/2020062800207.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "전세계 코로나19 확진자 1000만명 넘어",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006280949001&code=970100"
     },
     {
-        "title": "베이징 코로나19 집단 감염 확산…누적 확진자 300명 넘어서",
-        "link": "https://www.hankyung.com/international/article/2020062867477"
+        "title": "中 베이징 신규 확진자 14명 늘어 311명",
+        "link": "http://www.fnnews.com/news/202006281019515182"
     },
     {
-        "title": "코로나19 확진자 1000만명 넘어…사망자 50만명(종합)",
-        "link": "https://view.asiae.co.kr/article/2020062806402153664"
-    },
-    {
-        "title": "[속보]‘코로나19’ 확진자 62명 추가…서울·경기서 무더기 감염",
+        "title": "‘코로나19’ 확진자 62명 추가…서울·경기서 무더기 감염",
         "link": "https://www.donga.com/news/article/all/20200628/101716125/1"
     },
     {
-        "title": "코로나19 일일 신규 확진자 51명…교회 집단감염 영향",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000987900?division=NAVER"
+        "title": "美 코로나19 신규 확진자 사흘 연속 최고…누적 250만명 넘어",
+        "link": "https://view.asiae.co.kr/article/2020062809460356304"
     },
     {
-        "title": "안양 주영광교회 관련 확진자 무더기 발생…이틀새 11명(종합)",
-        "link": "http://yna.kr/AKR20200627026751061?did=1195m"
+        "title": "대구시 \"28일 신규확진자·사망자 '0명'\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020062810395561370"
+    },
+    {
+        "title": "[속보] 코로나 신규 확진자 62명...종교시설 다시 집단감염 고리로",
+        "link": "http://www.hani.co.kr/arti/society/health/951234.html"
     }
 ];

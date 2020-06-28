@@ -1092,9 +1092,9 @@ var marker = [
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "확진자수": 816,
+        "확진자수": 839,
         "사망자수": 5,
-        "완치자수": 223
+        "완치자수": 225
     },
     {
         "Name": "Eswatini",
