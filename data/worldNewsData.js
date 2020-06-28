@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/americans-unwelcome-eu-borders-reopen-coronavirus"
     },
     {
-        "title": "The Indian state that got its Covid-19 response right",
-        "link": "https://www.cnn.com/2020/06/27/opinions/kerala-coronavirus-strategy-success-mathew/index.html"
+        "title": "Coronavirus: How Delhi 'wasted' lockdown to become India's biggest hotspot",
+        "link": "https://news.yahoo.com/coronavirus-delhi-wasted-lockdown-become-032221324.html"
     },
     {
         "title": "Coronavirus live news: US cases pass 2.5m as Australia considers new lockdown in Melbourne",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
-        "title": "Texas, Florida Reverse Reopenings As Coronavirus Cases Surge | TODAY",
-        "link": "https://www.youtube.com/watch?v=4kQfv3y5CgI"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
         "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
+        "title": "Coronavirus Australia: Why Covid-19 isn't going anywhere soon",
+        "link": "https://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12343595"
     }
 ];
