@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4481410&ref=A"
     },
     {
-        "title": "광주서 코로나19 추가 확진 3명…주말 광주·전남서만 12명(종합)",
-        "link": "http://yna.kr/AKR20200628063300054?did=1195m"
-    },
-    {
         "title": "국내 코로나19 신규 확진자, 8일 만에 60명대로 늘어",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000987938?division=NAVER"
     },
     {
-        "title": "전남 코로나19 24번째 확진자 발생...해외 입국 40대 남성",
-        "link": "http://www.fnnews.com/news/202006281508340553"
-    },
-    {
-        "title": "안산발 코로나19 원주 30대 여성 추가 확진",
-        "link": "http://www.kwnews.co.kr/view.asp?aid=220062700005&s=501"
-    },
-    {
-        "title": "서울 여의도 현대카드 사옥서 20대 확진자 추가 발생",
-        "link": "https://view.asiae.co.kr/article/2020062819341171146"
-    },
-    {
-        "title": "부산 40대 확진자 해운대 마린시티 등 음식점·주점 방문(종합)",
-        "link": "http://yna.kr/AKR20200628027051051?did=1195m"
+        "title": "광주서 코로나19 추가 확진 3명…주말 광주·전남서만 12명(종합)",
+        "link": "http://yna.kr/AKR20200628063300054?did=1195m"
     },
     {
         "title": "코로나 전세계 1000만명 감염, 50만명이 사망했다",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800072.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "[속보] 서울 누계 확진자 1300명 넘었다…TK 이어 세번째",
+        "link": "https://www.hankyung.com/society/article/2020062877677"
+    },
+    {
+        "title": "中 베이징 신규 확진자 14명 늘어 311명",
+        "link": "http://www.fnnews.com/news/202006281019515182"
+    },
+    {
+        "title": "“확진자 62명이지만…” 현재는 ‘사회적 거리두기’ 1단계(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200628500092&wlog_tag3=naver"
+    },
+    {
+        "title": "서울 여의도 현대카드 사옥서 20대 확진자 추가 발생",
+        "link": "https://view.asiae.co.kr/article/2020062819341171146"
     }
 ];
