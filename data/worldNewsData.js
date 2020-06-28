@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/06/26/latest_news/1593152885_512618.html"
     },
     {
-        "title": "Coronavirus: US has 'serious problem', says Fauci",
-        "link": "https://www.bbc.com/news/world-us-canada-53200834"
+        "title": "New U.S. coronavirus cases break record; Pence cancels campaign events in Arizona, Florida",
+        "link": "https://www.nbcnews.com/politics/politics-news/u-s-coronavirus-infections-break-record-hit-nearly-46k-single-n1232335"
     },
     {
-        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
-        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
+        "title": "Following coronavirus surge, Palestinians in Israel banned from West Bank",
+        "link": "https://www.jpost.com/middle-east/following-coronavirus-surge-palestinians-in-israel-banned-from-west-bank-633006"
     },
     {
         "title": "Americans likely to be barred from Europe when borders reopen next week due to coronavirus surge",
         "link": "https://www.foxnews.com/world/americans-unwelcome-eu-borders-reopen-coronavirus"
     },
     {
-        "title": "Coronavirus: Delhi struggles to cope with Covid-19 surge",
-        "link": "https://www.bbc.com/news/world-asia-india-53205718"
+        "title": "Florida sets new record in daily coronavirus cases: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/eu-bar-travellers-brazil-coronavirus-live-updates-200627002953075.html"
     },
     {
-        "title": "Why China will emerge from COVID-19 stronger than the US",
-        "link": "https://finance.yahoo.com/news/why-china-will-emerge-from-covid-19-stronger-than-the-us-115030619.html"
+        "title": "Coronavirus live news: global deaths near 500,000 as Australian state of Victoria steps up efforts to fight outbreak",
+        "link": "https://www.theguardian.com/world/live/2020/jun/28/coronavirus-live-news-global-deaths-near-500000-as-australian-state-of-victoria-steps-up-efforts-to-fight-outbreak"
+    },
+    {
+        "title": "Coronavirus Global News: Live Updates",
+        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-27-20-intl/index.html"
     },
     {
         "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
     },
     {
-        "title": "Coronavirus: Florida and Texas reverse reopening as US cases pass 2.5m",
-        "link": "https://www.bbc.com/news/world-us-canada-53205720"
-    },
-    {
-        "title": "What You Need To Know About COVID-19: Six States Reported Their Highest Number Of Cases In One Day",
-        "link": "https://www.wbal.com/article/466288/2/what-you-need-to-know-about-covid-19-six-states-reported-their-highest-number-of-cases-in-one-day"
-    },
-    {
-        "title": "AAP-BJP Twitter War Before Amit Shah and Arvind Kejriwal's COVID Care Center Visit",
-        "link": "https://www.youtube.com/watch?v=reRW8RKDY7I"
+        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
     }
 ];
