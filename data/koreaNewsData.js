@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
     },
     {
-        "title": "코로나19 신규 확진자 51명...이마트24 양지 물류센터 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
-    },
-    {
         "title": "전세계 코로나19 확진자 1000만명 넘어",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006280949001&code=970100"
     },
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006281019515182"
     },
     {
-        "title": "[속보] 부산 해운대 거주 40대 코로나19 확진…대전 확진자 직장 동료",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020062812422443742"
+        "title": "美 코로나19 신규 확진자 사흘 연속 최고…누적 250만명 넘어",
+        "link": "https://view.asiae.co.kr/article/2020062809460356304"
+    },
+    {
+        "title": "[속보] 관악구 왕성교회 5명 추가… 서울 확진자 ‘1300명’ 육박",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014740180&code=61121911&cp=nv"
+    },
+    {
+        "title": "코로나19 신규 확진자 51명...이마트24 양지 물류센터 폐쇄",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
     {
         "title": "코로나 신규 확진자 62명, 8일 만에 60명대",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800377.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[종합] '코로나19' 확진 익산거주 60대 여성 접촉자 553명 '음성'",
-        "link": "https://www.pressian.com/pages/articles/2020062812534046808?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "[속보] 관악구 왕성교회 5명 추가… 서울 확진자 ‘1300명’ 육박",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014740180&code=61121911&cp=nv"
+        "title": "[속보] 부산 해운대 거주 40대 코로나19 확진…대전 확진자 직장 동료",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020062812422443742"
     }
 ];

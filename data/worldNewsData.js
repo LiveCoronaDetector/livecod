@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/americans-unwelcome-eu-borders-reopen-coronavirus"
     },
     {
-        "title": "Florida sets new record in daily coronavirus cases: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/eu-bar-travellers-brazil-coronavirus-live-updates-200627002953075.html"
+        "title": "The Indian state that got its Covid-19 response right",
+        "link": "https://www.cnn.com/2020/06/27/opinions/kerala-coronavirus-strategy-success-mathew/index.html"
     },
     {
         "title": "Coronavirus live news: US cases pass 2.5m as Australia considers new lockdown in Melbourne",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
     },
     {
-        "title": "12 states are pausing reopening over the surge in US coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/27/health/us-coronavirus-saturday/index.html"
+        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
     },
     {
-        "title": "Global coronavirus cases exceed 10 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
+        "title": "Restrictions leave US travelers high and dry",
+        "link": "https://www.cnn.com/travel/article/us-citizens-international-travel-problems-covid-19/index.html"
     }
 ];
