@@ -17,27 +17,27 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020062505511168299?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
-        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
-    },
-    {
-        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
-        "link": "https://www.hankyung.com/life/article/2020062242417"
-    },
-    {
-        "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
-        "link": "http://yna.kr/AKR20200622054152056?did=1195m"
-    },
-    {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
         "title": "제주도서 방글라데시 유학생 3명 코로나19 확진",
         "link": "http://www.fnnews.com/news/202006190709270776"
+    },
+    {
+        "title": "제주도내 16번째 코로나19 확진자 8일만에 퇴원",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
+    },
+    {
+        "title": "[부산시] 코로나19 2차 대유행 방역 사각지대 없게 적극 대비 外",
+        "link": "http://ilyo.co.kr/?ac=article_view&entry_id=373302"
+    },
+    {
+        "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
+        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
+    },
+    {
+        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
     }
 ];
