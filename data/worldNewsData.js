@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/netanyahu-coronavirus-cabinet-to-roll-out-new-restrictions-633052"
     },
     {
-        "title": "A covid-free town in Italy reopens to travelers and coronavirus risk",
-        "link": "https://www.washingtonpost.com/world/2020/06/27/this-italian-hilltown-is-covid-free-it-reopens-visitors-will-it-lose-that-status/?arc404=true"
+        "title": "Amazon workers in Germany will strike over COVID-19 infected workplace",
+        "link": "https://nypost.com/2020/06/28/amazon-workers-in-germany-will-strike-over-covid-19-infections/"
     },
     {
         "title": "India opens one of the world's largest hospitals to fight coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
-        "title": "Coronavirus Live Updates: Global Cases Pass 10 Million",
-        "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
+        "title": "Global coronavirus cases exceed 10 million",
+        "link": "https://www.msn.com/en-us/news/world/global-coronavirus-cases-exceed-10-million/ar-BB163999"
     },
     {
-        "title": "Tennessee Dept. of Health not releasing COVID-19 update on Sunday due to system issues",
-        "link": "https://www.wkrn.com/community/health/coronavirus/tennessee-dept-of-health-not-releasing-covid-19-update-on-sunday-due-to-system-issues/"
-    },
-    {
-        "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
-        "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
         "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
         "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
+    },
+    {
+        "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
+        "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
     }
 ];
