@@ -9,12 +9,24 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4481410&ref=A"
     },
     {
-        "title": "부산 40대 확진자 해운대 마린시티 등 음식점·주점 방문(종합)",
-        "link": "http://yna.kr/AKR20200628027051051?did=1195m"
+        "title": "광주서 코로나19 추가 확진 3명…주말 광주·전남서만 12명(종합)",
+        "link": "http://yna.kr/AKR20200628063300054?did=1195m"
     },
     {
         "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
         "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
+    },
+    {
+        "title": "전남 코로나19 24번째 확진자 발생...해외 입국 40대 남성",
+        "link": "http://www.fnnews.com/news/202006281508340553"
+    },
+    {
+        "title": "부산 40대 확진자 해운대 마린시티 등 음식점·주점 방문(종합)",
+        "link": "http://yna.kr/AKR20200628027051051?did=1195m"
+    },
+    {
+        "title": "국내 코로나19 신규 확진자, 8일 만에 60명대로 늘어",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987938?division=NAVER"
     },
     {
         "title": "코로나 전세계 1000만명 감염, 50만명이 사망했다",
@@ -25,19 +37,7 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020062877677"
     },
     {
-        "title": "전세계 코로나19 확진자 1천만명 넘었다(종합)",
-        "link": "http://yna.kr/AKR20200628005000009?did=1195m"
-    },
-    {
-        "title": "中 베이징 신규 확진자 14명 늘어 311명",
-        "link": "http://www.fnnews.com/news/202006281019515182"
-    },
-    {
-        "title": "“확진자 62명이지만…” 현재는 ‘사회적 거리두기’ 1단계(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200628500092&wlog_tag3=naver"
-    },
-    {
-        "title": "대전서 코로나19 확진 2명 더…15일 재확산 이후 65명째(종합)",
-        "link": "http://yna.kr/AKR20200628018451063?did=1195m"
+        "title": "베이징 코로나19 집단 감염 확산…누적 확진자 300명 넘어서",
+        "link": "https://www.hankyung.com/international/article/2020062867477"
     }
 ];
