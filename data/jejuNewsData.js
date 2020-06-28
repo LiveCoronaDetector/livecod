@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "제주도, 코로나19 2차 대유행 대비 매뉴얼 구축",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166639"
+    },
+    {
         "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
         "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
     },
@@ -27,10 +31,6 @@ var jejuNewsData = [
     {
         "title": "\"지인과 있게 해달라\" 불안감 호소 코로나 격리자 극단선택(종합2보)",
         "link": "http://yna.kr/AKR20200622054152056?did=1195m"
-    },
-    {
-        "title": "제주서 코로나 격리 20대 여성 사망…'우울증' 있었다는데(상보)",
-        "link": "https://www.news1.kr/articles/?3972382"
     },
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
