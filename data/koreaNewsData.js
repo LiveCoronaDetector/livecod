@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4481410&ref=A"
     },
     {
+        "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
+        "link": "http://yna.kr/AKR20200629003300055?did=1195m"
+    },
+    {
         "title": "코로나 전세계 1000만명 감염, 50만명이 사망했다",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800072.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "서울 누계 확진자 1천300명 넘어…경북 수준 근접",
-        "link": "http://yna.kr/AKR20200628038300004?did=1195m"
+        "title": "[속보] 서울 누계 확진자 1300명 넘었다…TK 이어 세번째",
+        "link": "https://www.hankyung.com/society/article/2020062877677"
     },
     {
         "title": "코로나19 신규 확진자 51명...이마트24 양지 물류센터 폐쇄",
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
     {
-        "title": "베이징 코로나19 집단 감염 확산…누적 확진자 300명 넘어서",
-        "link": "https://www.hankyung.com/international/article/2020062867477"
+        "title": "中 베이징 신규 확진자 14명 늘어 311명",
+        "link": "http://www.fnnews.com/news/202006281019515182"
     },
     {
-        "title": "전남 코로나19 24번째 확진자 발생...해외 입국 40대 남성",
-        "link": "http://www.fnnews.com/news/202006281508340553"
-    },
-    {
-        "title": "전세계 코로나19 확진자 1천만명 돌파…사망자 50만명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006280010&t=NN"
+        "title": "“확진자 62명이지만…” 현재는 ‘사회적 거리두기’ 1단계(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200628500092&wlog_tag3=naver"
     }
 ];

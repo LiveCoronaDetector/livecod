@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
-        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
-        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
+        "title": "Coronavirus Live Updates: Global Cases Pass 10 Million",
+        "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
     },
     {
-        "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
-        "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/h_6eaf6801d14f795636689111e14b2cbd"
     },
     {
         "title": "China puts half a million people in lockdown as Beijing fights new cluster",
         "link": "https://www.msn.com/en-us/news/world/china-puts-half-a-million-people-in-lockdown-as-beijing-fights-new-cluster/ar-BB163Mig"
     },
     {
-        "title": "How the World Missed Covid-19’s Silent Spread",
-        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
+        "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
+        "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
     }
 ];
