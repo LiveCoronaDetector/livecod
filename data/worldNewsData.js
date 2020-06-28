@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
     },
     {
+        "title": "Tennessee Dept. of Health not releasing COVID-19 update on Sunday due to system issues",
+        "link": "https://www.wkrn.com/community/health/coronavirus/tennessee-dept-of-health-not-releasing-covid-19-update-on-sunday-due-to-system-issues/"
+    },
+    {
+        "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
+        "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
+    },
+    {
         "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
         "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
-    },
-    {
-        "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
-        "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
-    },
-    {
-        "title": "Coronavirus death toll surpasses 500,000 worldwide",
-        "link": "https://www.cbsnews.com/news/coronavirus-death-toll-surpasses-500000-worldwide/"
     }
 ];
