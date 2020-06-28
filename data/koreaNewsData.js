@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006280949001&code=970100"
     },
     {
-        "title": "中 베이징 신규 확진자 14명 늘어 311명",
-        "link": "http://www.fnnews.com/news/202006281019515182"
+        "title": "코로나19 일일 신규 확진자 51명…교회 집단감염 영향",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000987900?division=NAVER"
     },
     {
-        "title": "‘코로나19’ 확진자 62명 추가…서울·경기서 무더기 감염",
-        "link": "https://www.donga.com/news/article/all/20200628/101716125/1"
+        "title": "中 베이징 신규 확진자 14명 늘어 311명",
+        "link": "http://www.fnnews.com/news/202006281019515182"
     },
     {
         "title": "美 코로나19 신규 확진자 사흘 연속 최고…누적 250만명 넘어",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020062810395561370"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 62명...종교시설 다시 집단감염 고리로",
-        "link": "http://www.hani.co.kr/arti/society/health/951234.html"
+        "title": "‘코로나19’ 확진자 62명 추가…서울·경기서 무더기 감염",
+        "link": "https://www.donga.com/news/article/all/20200628/101716125/1"
     }
 ];
