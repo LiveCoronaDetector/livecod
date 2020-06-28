@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
+        "title": "Texas, Florida Reverse Reopenings As Coronavirus Cases Surge | TODAY",
+        "link": "https://www.youtube.com/watch?v=4kQfv3y5CgI"
+    },
+    {
         "title": "COVID-19 Has Killed Almost Half A Million People : Coronavirus Live Updates",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/27/884297509/global-coronavirus-death-toll-nears-500-000"
     },
     {
-        "title": "Trump campaign reportedly ordered removal of social-distancing stickers in Tulsa – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/jun/27/coronavirus-us-miami-close-beaches-cases-rise-more-than-30-states-trump-live-latest-news-updates"
-    },
-    {
-        "title": "Restrictions leave US travelers high and dry",
-        "link": "https://www.cnn.com/travel/article/us-citizens-international-travel-problems-covid-19/index.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     }
 ];
