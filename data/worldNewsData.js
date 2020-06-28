@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/06/27/this-italian-hilltown-is-covid-free-it-reopens-visitors-will-it-lose-that-status/?arc404=true"
     },
     {
-        "title": "Florida sets new record in daily coronavirus cases: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/eu-bar-travellers-brazil-coronavirus-live-updates-200627002953075.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
         "title": "China puts half a million in lockdown after COVID-19 spike: Live",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
+        "title": "Only two US states are reporting a decline in new coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/28/health/us-coronavirus-sunday/index.html"
+    },
+    {
         "title": "China puts half a million people in lockdown as Beijing fights new cluster",
         "link": "https://www.msn.com/en-us/news/world/china-puts-half-a-million-people-in-lockdown-as-beijing-fights-new-cluster/ar-BB163Mig"
     },
     {
-        "title": "How the World Missed Covid-19’s Silent Spread",
-        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
-    },
-    {
-        "title": "Only two US states are reporting a decline in new coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/28/health/us-coronavirus-sunday/index.html"
+        "title": "Global coronavirus infections pass 10M mark, data show",
+        "link": "https://www.foxnews.com/health/global-coronavirus-infections-pass-10m-mark-data-show"
     }
 ];
