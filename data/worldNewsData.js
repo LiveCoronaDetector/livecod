@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
-        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
-        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/jun/28/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
+        "title": "Coronavirus Live Updates: Global Cases Pass 10 Million",
+        "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
     },
     {
         "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
         "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
     },
     {
-        "title": "Coronavirus Live Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
+        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
+        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
+    },
+    {
+        "title": "China puts half a million people in lockdown as Beijing fights new cluster",
+        "link": "https://www.msn.com/en-us/news/world/china-puts-half-a-million-people-in-lockdown-as-beijing-fights-new-cluster/ar-BB163Mig"
     }
 ];

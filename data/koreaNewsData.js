@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4481410&ref=A"
     },
     {
-        "title": "광주서 코로나19 추가 확진 3명…주말 광주·전남서만 12명(종합)",
-        "link": "http://yna.kr/AKR20200628063300054?did=1195m"
-    },
-    {
         "title": "코로나 전세계 1000만명 감염, 50만명이 사망했다",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800072.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[속보] 서울 누계 확진자 1300명 넘었다…TK 이어 세번째",
-        "link": "https://www.hankyung.com/society/article/2020062877677"
+        "title": "서울 누계 확진자 1천300명 넘어…경북 수준 근접",
+        "link": "http://yna.kr/AKR20200628038300004?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 51명...이마트24 양지 물류센터 폐쇄",
         "link": "https://www.ytn.co.kr/_ln/0103_202006271048330159"
     },
     {
-        "title": "中 베이징 신규 확진자 14명 늘어 311명",
-        "link": "http://www.fnnews.com/news/202006281019515182"
+        "title": "서울 여의도 현대카드 사옥서 20대 확진자 추가 발생",
+        "link": "https://view.asiae.co.kr/article/2020062819341171146"
     },
     {
-        "title": "“확진자 62명이지만…” 현재는 ‘사회적 거리두기’ 1단계(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200628500092&wlog_tag3=naver"
+        "title": "베이징 코로나19 집단 감염 확산…누적 확진자 300명 넘어서",
+        "link": "https://www.hankyung.com/international/article/2020062867477"
+    },
+    {
+        "title": "전남 코로나19 24번째 확진자 발생...해외 입국 40대 남성",
+        "link": "http://www.fnnews.com/news/202006281508340553"
     }
 ];
