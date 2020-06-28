@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
-        "title": "Israel Announces Partnership With U.A.E., Which Throws Cold Water On It",
-        "link": "https://www.nytimes.com/2020/06/25/world/middleeast/israel-united-arab-emirates-coronavirus.html"
+        "title": "Israel has lost control of coronavirus outbreak, experts warn Netanyahu",
+        "link": "https://www.haaretz.com/israel-news/.premium-israel-has-lost-control-of-coronavirus-outbreak-experts-warn-netanyahu-1.8952795"
     },
     {
         "title": "Americans likely to be barred from Europe when borders reopen next week due to coronavirus surge",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jun/28/coronavirus-live-news-global-deaths-near-500000-as-australian-state-of-victoria-steps-up-efforts-to-fight-outbreak"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
-    },
-    {
         "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
         "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
-        "title": "Global coronavirus cases exceed 10 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
+        "title": "Texas, Florida Reverse Reopenings As Coronavirus Cases Surge | TODAY",
+        "link": "https://www.youtube.com/watch?v=4kQfv3y5CgI"
     },
     {
-        "title": "Emergency nurse among 41 new COVID-19 cases in Victoria",
-        "link": "https://www.youtube.com/watch?v=vfsGv0fgfu4"
+        "title": "How the World Missed Covid-19’s Silent Spread",
+        "link": "https://www.nytimes.com/2020/06/27/world/europe/coronavirus-spread-asymptomatic.html"
+    },
+    {
+        "title": "Global coronavirus cases exceed 10 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     }
 ];
