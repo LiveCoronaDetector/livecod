@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/politics/politics-news/u-s-coronavirus-infections-break-record-hit-nearly-46k-single-n1232335"
     },
     {
-        "title": "Following coronavirus surge, Palestinians in Israel banned from West Bank",
-        "link": "https://www.jpost.com/middle-east/following-coronavirus-surge-palestinians-in-israel-banned-from-west-bank-633006"
+        "title": "Pilots in Pakistan airliner crash were reportedly distracted by coronavirus",
+        "link": "https://nypost.com/2020/06/25/pakistan-airliner-crashed-after-pilots-were-distracted-by-coronavirus/"
     },
     {
         "title": "Americans likely to be barred from Europe when borders reopen next week due to coronavirus surge",
