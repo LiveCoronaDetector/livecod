@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/06/27/this-italian-hilltown-is-covid-free-it-reopens-visitors-will-it-lose-that-status/?arc404=true"
     },
     {
-        "title": "Coronavirus: How Delhi 'wasted' lockdown to become India's biggest hotspot",
-        "link": "https://news.yahoo.com/coronavirus-delhi-wasted-lockdown-become-032221324.html"
+        "title": "Florida sets new record in daily coronavirus cases: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/eu-bar-travellers-brazil-coronavirus-live-updates-200627002953075.html"
     },
     {
         "title": "China puts half a million in lockdown after COVID-19 spike: Live",
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
+    },
+    {
+        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
+        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     },
     {
         "title": "China puts half a million people in lockdown as Beijing fights new cluster",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Only two US states are reporting a decline in new coronavirus cases",
         "link": "https://www.cnn.com/2020/06/28/health/us-coronavirus-sunday/index.html"
-    },
-    {
-        "title": "Global coronavirus infections pass 10M mark, data show",
-        "link": "https://www.foxnews.com/health/global-coronavirus-infections-pass-10m-mark-data-show"
     }
 ];
