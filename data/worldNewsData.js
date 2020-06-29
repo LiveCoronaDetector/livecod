@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/28/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Infectious disease head: Israel 'about to lose control' of pandemic",
-        "link": "https://www.jpost.com/health-science/netanyahu-coronavirus-cabinet-to-roll-out-new-restrictions-633052"
+        "title": "Coronavirus Israel live: Health minister calls for new restrictions to contain 'second wave'",
+        "link": "https://www.haaretz.com/israel-news/israel-coronavirus-second-wave-news-breaking-updates-1.8949982"
     },
     {
         "title": "Amazon workers in Germany will strike over COVID-19 infected workplace",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=OezppaFym4I"
     },
     {
-        "title": "Coronavirus updates: 7 states hit record high for new cases of COVID-19",
-        "link": "https://www.yahoo.com/gma/coronavirus-updates-4-states-hit-record-high-number-084834028--abc-news-topstories.html"
+        "title": "Coronavirus updates: Worldwide death toll passes 500,000 and cases exceed 10 million; California bars shut down; New York death rate drops",
+        "link": "https://www.usatoday.com/story/news/health/2020/06/28/coronavirus-updates-cases-10-million-worldwide/3271630001/"
+    },
+    {
+        "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
+        "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
     },
     {
         "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
         "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
-    },
-    {
-        "title": "India opens one of the world's largest hospitals to fight coronavirus",
-        "link": "https://www.cnn.com/2020/06/28/asia/india-largest-coronavirus-hospital-delhi-scli-intl/index.html"
     }
 ];
