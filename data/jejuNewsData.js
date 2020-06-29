@@ -5,14 +5,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200629109100065?did=1195m"
     },
     {
-        "title": "코로나19 사태에 여행 시장 '플렉스' 지고 '힐링' 떴다",
-        "link": "http://www.inews24.com/view/1277350"
-    },
-    {
-        "title": "[쇼맥] 코로나 블루 누적…심리방역도 체계적으로",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4482209&ref=A"
-    },
-    {
         "title": "[36.5˚C] 코로나19 한가하게 있다가 당한다",
         "link": "https://hankookilbo.com/News/Read/A202006291333000052?did=NA"
     },
@@ -21,8 +13,16 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
+        "title": "코로나19 사태에 여행 시장 '플렉스' 지고 '힐링' 떴다",
+        "link": "http://www.inews24.com/view/1277350"
+    },
+    {
         "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[쇼맥] 코로나 블루 누적…심리방역도 체계적으로",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4482209&ref=A"
     },
     {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",

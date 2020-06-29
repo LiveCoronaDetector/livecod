@@ -9,28 +9,28 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     },
     {
-        "title": "[단독]이라크 韓근로자 사망…3월에도 코로나 사망자 있었다",
-        "link": "https://news.joins.com/article/olink/23407806"
-    },
-    {
         "title": "서울 코로나19 확진자 7명 추가…총 1312명",
         "link": "https://view.asiae.co.kr/article/2020062919380132350"
     },
     {
-        "title": "이라크 주재 한국 대사관 \"코로나19 관련 한국인 1명 사망\"",
-        "link": "https://www.ytn.co.kr/_ln/0104_202006300505207799"
+        "title": "[단독]이라크 韓근로자 사망…3월에도 코로나 사망자 있었다",
+        "link": "https://news.joins.com/article/olink/23407806"
     },
     {
         "title": "뉴욕증시, 코로나19 확산 주시 속 혼조 출발",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062903608.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독]코로나 아닌데 코로나탓 숨졌다···'억울한 죽음' 187명",
-        "link": "https://news.joins.com/article/olink/23407929"
+        "title": "이라크 주재 한국 대사관 \"코로나19 관련 한국인 1명 사망\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202006300505207799"
     },
     {
-        "title": "[속보] '코로나19' 42명 늘어 1만2,757명…지역 30명·해외유입 12명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290158&t=NN"
+        "title": "이라크 공사 현장서 한국인 1명 코로나19 관련 사망",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200630500004&wlog_tag3=naver"
+    },
+    {
+        "title": "[단독]코로나 아닌데 코로나탓 숨졌다···'억울한 죽음' 187명",
+        "link": "https://news.joins.com/article/olink/23407929"
     },
     {
         "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
