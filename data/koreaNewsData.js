@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23407806"
     },
     {
+        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
+    },
+    {
         "title": "뉴욕증시, 코로나19 확산 주시 속 혼조 출발",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062903608.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[단독]코로나 아닌데 코로나탓 숨졌다···'억울한 죽음' 187명",
         "link": "https://news.joins.com/article/olink/23407929"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     },
     {
         "title": "서울 코로나19 확진자 7명 추가…총 1312명",
