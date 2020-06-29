@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53215501"
     },
     {
-        "title": "Pakistan producing own ventilators as COVID-19 cases rise",
-        "link": "https://www.aljazeera.com/news/2020/06/pakistan-producing-ventilators-covid-19-cases-rise-200628091242236.html"
+        "title": "Coronavirus Israel live: Health minister calls for new restrictions to contain 'second wave'",
+        "link": "https://www.haaretz.com/israel-news/israel-coronavirus-second-wave-news-breaking-updates-1.8949982"
     },
     {
         "title": "Covid Comparisons, Europe and U.S.",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
+        "title": "Pence: Wearing Mask a Good Idea, Will Slow Virus Spread",
+        "link": "https://www.youtube.com/watch?v=SJRM2LDag_w"
+    },
+    {
         "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
         "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
+        "title": "Choir of more than 100 people perform without masks at Pence event",
+        "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
     },
     {
-        "title": "Coronavirus: How Delhi 'wasted' lockdown to become India's biggest hotspot",
-        "link": "https://news.yahoo.com/coronavirus-delhi-wasted-lockdown-become-032221324.html"
-    },
-    {
-        "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
-        "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
+        "title": "Live updates: Global death toll from coronavirus surpasses 500,000",
+        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     }
 ];
