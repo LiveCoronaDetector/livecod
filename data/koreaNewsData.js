@@ -5,20 +5,24 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062901317.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 코로나19 확진자 42명 증가...경기 14명, 서울 6명, 해외 12명",
-        "link": "http://www.fnnews.com/news/202006291016204094"
+        "title": "교회발 집단감염으로 국내 신규 확진자 42명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5825559_32633.html"
     },
     {
         "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     },
     {
-        "title": "옥천 코로나19 확진자 일한 편의점 손님 신원파악 난항",
-        "link": "https://www.nocutnews.co.kr/news/5368966"
+        "title": "[속보] '코로나19' 42명 늘어 1만2,757명…지역 30명·해외유입 12명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290158&t=NN"
     },
     {
-        "title": "전세계 코로나 일일 확진자 19만…또 사상 최고(상보)",
-        "link": "https://www.news1.kr/articles/?3979180"
+        "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
+        "link": "http://yna.kr/AKR20200629003300055?did=1195m"
+    },
+    {
+        "title": "옥천 코로나19 확진자 일한 편의점 손님 신원파악 난항",
+        "link": "https://www.nocutnews.co.kr/news/5368966"
     },
     {
         "title": "서울 코로나19 신규 확진자 7명…용산구 어린이집서 3살 원생 감염",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020062910514650102"
     },
     {
-        "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
-        "link": "http://yna.kr/AKR20200629003300055?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 62명···지역발생 40명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006281015001&code=940601"
     },
     {
-        "title": "'확진자 접촉' 김포시보건소 직원 10명 자가격리(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200629_0001076307&cID=14001&pID=14000"
+        "title": "전세계 코로나 일일 확진자 19만…또 사상 최고(상보)",
+        "link": "https://www.news1.kr/articles/?3979180"
     }
 ];
