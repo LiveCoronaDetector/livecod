@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
     },
     {
-        "title": "Live updates: Global death toll from coronavirus surpasses half a million",
-        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
-    },
-    {
-        "title": "More than 500,000 dead worldwide from coronavirus: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/06/500000-dead-coronavirus-live-updates-200628233313992.html"
-    },
-    {
         "title": "The coronavirus is mutating - The Washington Post",
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
-        "title": "CDC Antibody Studies Confirm Huge Gap Between COVID-19 Infections and Known Cases",
-        "link": "https://reason.com/2020/06/28/cdc-antibody-studies-confirm-huge-gap-between-covid-19-infections-and-known-cases/"
+        "title": "Live Coronavirus Updates: Global Death Toll Surpasses Half a Million",
+        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Live updates: Global death toll from coronavirus surpasses half a million",
+        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
+    },
+    {
+        "title": "Choir of more than 100 people perform without masks at Pence event",
+        "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
     }
 ];
