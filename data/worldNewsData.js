@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://theconversation.com/covid-19-africas-conservation-and-trophy-hunting-dilemma-140029"
     },
     {
-        "title": "Coronavirus: Florida and Texas reverse reopening as US cases pass 2.5m",
-        "link": "https://www.bbc.com/news/world-us-canada-53205720"
+        "title": "Only two US states are reporting a decline in new coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/28/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Pakistan producing own ventilators as COVID-19 cases rise",
-        "link": "https://www.aljazeera.com/news/2020/06/pakistan-producing-ventilators-covid-19-cases-rise-200628091242236.html"
+        "title": "Coronavirus Israel live: Health minister calls for new restrictions to contain 'second wave'",
+        "link": "https://www.haaretz.com/israel-news/israel-coronavirus-second-wave-news-breaking-updates-1.8949982"
     },
     {
         "title": "Amazon workers in Germany will strike over COVID-19 infected workplace",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
+        "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
+        "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
     }
 ];

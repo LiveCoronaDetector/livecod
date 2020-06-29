@@ -5,24 +5,28 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062901317.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
-    },
-    {
-        "title": "[속보]코로나 확진자 42명 추가…“수원 중앙침례교회서도 집단감염”",
-        "link": "https://www.donga.com/news/article/all/20200629/101727746/1"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 42명...8개 시·도에서 발생",
-        "link": "http://www.hani.co.kr/arti/society/health/951375.html"
-    },
-    {
         "title": "[종합] 코로나19 확진자 42명 증가...경기 14명, 서울 6명, 해외 12명",
         "link": "http://www.fnnews.com/news/202006291016204094"
     },
     {
+        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
+    },
+    {
+        "title": "교회발 집단감염으로 국내 신규 확진자 42명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5825559_32633.html"
+    },
+    {
+        "title": "\"대구 신규확진 2명…감염경로 미확인 6세·확진자 접촉자\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020062910514650102"
+    },
+    {
         "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
         "link": "http://yna.kr/AKR20200629003300055?did=1195m"
+    },
+    {
+        "title": "美 확진자 급증에 마스크 착용 의무화 또 정치적 논쟁",
+        "link": "https://www.ytn.co.kr/_ln/0104_202006290844337435"
     },
     {
         "title": "광주서 코로나19 확진 3명 추가 발생…39·40·41번 환자(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
         "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
-    },
-    {
-        "title": "\"대구 신규확진 2명…감염경로 미확인 6세·대전확진자 접촉자\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020062910514650102"
     }
 ];
