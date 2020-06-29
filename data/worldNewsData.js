@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://theconversation.com/covid-19-africas-conservation-and-trophy-hunting-dilemma-140029"
     },
     {
-        "title": "Coronavirus: 'Swift and dangerous turn' in Texas cases, says governor",
-        "link": "https://www.bbc.com/news/world-us-canada-53215501"
+        "title": "Live updates: Texas, Arizona face record coronavirus hospitalizations as U.S. surpass 2.5 million cases",
+        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     },
     {
         "title": "Pakistan producing own ventilators as COVID-19 cases rise",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/28/asia/india-largest-coronavirus-hospital-delhi-scli-intl/index.html"
     },
     {
-        "title": "Covid-19: China pushes traditional remedies amid outbreak",
-        "link": "https://www.bbc.com/news/world-asia-53094603"
+        "title": "Global coronavirus death toll exceeds half a million: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
         "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-delhi-wasted-lockdown-become-032221324.html"
     },
     {
-        "title": "Choir of more than 100 people perform without masks at Pence event",
-        "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
+        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
+        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     }
 ];
