@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "Some US states return to previous restrictions to slow surge of coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/29/health/us-coronavirus-monday/index.html"
+        "title": "People with coronavirus are crossing the US-Mexico border for medical care",
+        "link": "https://www.cnn.com/2020/06/29/health/border-hospitals-coronavirus/index.html"
     },
     {
         "title": "5 things to know for June 29: Coronavirus, Russia, police reform, Facebook, Pakistan",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/29/amazon-strike-germany-warehouse-coronavirus.html"
     },
     {
-        "title": "India opens one of the world's largest hospitals to fight coronavirus",
-        "link": "https://www.cnn.com/2020/06/28/asia/india-largest-coronavirus-hospital-delhi-scli-intl/index.html"
+        "title": "Coronavirus cases hit 10 million as outbreaks surge in the US, Brazil and India",
+        "link": "https://www.cnet.com/news/coronavirus-cases-hit-10-million-as-outbreaks-surge-in-the-us-brazil-and-india/"
     },
     {
         "title": "China locks down county amid coronavirus surge linked to Beijing market",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
     },
     {
-        "title": "CDC adds three new possible COVID-19 symptoms",
-        "link": "https://wgxa.tv/news/coronavirus/cdc-adds-three-new-possible-covid-19-symptoms"
+        "title": "Live updates: Arizona’s hospitalizations hit record high as WHO warns that coronavirus outbreak is far from over",
+        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     }
 ];
