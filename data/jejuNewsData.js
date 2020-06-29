@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
-        "title": "코로나19로 길어지는 여행·관광업 '보릿고개'",
-        "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=165237"
-    },
-    {
         "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19로 길어지는 여행·관광업 '보릿고개'",
+        "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=165237"
     },
     {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
