@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
-        "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
+        "title": "Some US states return to previous restrictions to slow surge of coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/29/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "5 things to know for June 29: Coronavirus, Russia, police reform, Facebook, Pakistan",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
+    },
+    {
         "title": "WHO warns coronavirus pandemic is speeding up as countries ease lockdown rules: 'The worst is yet to come'",
         "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
     },
     {
-        "title": "Live Coronavirus Updates: Cases and Deaths",
-        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
-    },
-    {
-        "title": "CDC adds three new possible COVID-19 symptoms",
-        "link": "https://wgxa.tv/news/coronavirus/cdc-adds-three-new-possible-covid-19-symptoms"
+        "title": "Live updates: Arizona’s hospitalizations hit record high as WHO warns that coronavirus outbreak is far from over",
+        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     }
 ];

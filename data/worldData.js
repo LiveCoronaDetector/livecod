@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2664011,
-        "사망자수": 128646,
-        "완치자수": 1101134
+        "확진자수": 2666746,
+        "사망자수": 128659,
+        "완치자수": 1103003
     },
     {
         "Name": "브라질",
@@ -1025,6 +1025,14 @@ var marker = [
         "완치자수": 939
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "확진자수": 1001,
+        "사망자수": 2,
+        "완치자수": 443
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -1055,14 +1063,6 @@ var marker = [
         "확진자수": 926,
         "사망자수": 15,
         "완치자수": 791
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "확진자수": 900,
-        "사망자수": 2,
-        "완치자수": 443
     },
     {
         "Name": "Mozambique",
@@ -1353,6 +1353,14 @@ var marker = [
         "완치자수": 176
     },
     {
+        "Name": "Botswana",
+        "Name_ch": "",
+        "Name_en": "Botswana",
+        "확진자수": 175,
+        "사망자수": 1,
+        "완치자수": 25
+    },
+    {
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
@@ -1423,14 +1431,6 @@ var marker = [
         "확진자수": 97,
         "사망자수": 7,
         "완치자수": 90
-    },
-    {
-        "Name": "Botswana",
-        "Name_ch": "",
-        "Name_en": "Botswana",
-        "확진자수": 92,
-        "사망자수": 1,
-        "완치자수": 25
     },
     {
         "Name": "리히텐슈타인",
