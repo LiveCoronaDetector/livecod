@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2166695"
     },
     {
-        "title": "\"제 아들은 코로나19 환자 아닌데…\"",
-        "link": "http://www.idaegu.co.kr/news/articleView.html?idxno=315761"
+        "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
+        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
     }
 ];

@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
-    },
-    {
         "title": "WHO warns coronavirus pandemic is speeding up as countries ease lockdown rules: 'The worst is yet to come'",
         "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
     },
     {
         "title": "Live Coronavirus Updates: Cases and Deaths",
         "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
+    },
+    {
+        "title": "CDC adds three new possible COVID-19 symptoms",
+        "link": "https://wgxa.tv/news/coronavirus/cdc-adds-three-new-possible-covid-19-symptoms"
     }
 ];

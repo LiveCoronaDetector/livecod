@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200630002951088?did=1195m"
     },
     {
+        "title": "뉴욕증시, 코로나19 확산 주시 속 혼조 출발",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062903608.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[단독]코로나 안걸려도 코로나탓 숨져…'억울한 죽음' 187명",
+        "link": "https://news.joins.com/article/olink/23407929"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     },
@@ -21,10 +29,6 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290158&t=NN"
     },
     {
-        "title": "대전서 2명 더 코로나 확진… 재확산 후 67명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062901341.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
         "link": "http://yna.kr/AKR20200629003300055?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "도쿄서 유흥업소 중심 코로나19 확산…신규 확진자 ‘최다’",
         "link": "http://www.hani.co.kr/arti/international/japan/951429.html"
-    },
-    {
-        "title": "주이라크 대사관 \"코로나19 관련 한국인 사망자 발생\"",
-        "link": "http://yna.kr/AKR20200629176800111?did=1195m"
     }
 ];
