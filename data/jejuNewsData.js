@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200629109100065?did=1195m"
     },
     {
-        "title": "코로나19로 길어지는 여행·관광업 '보릿고개'",
-        "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=165237"
-    },
-    {
         "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
+    },
+    {
+        "title": "코로나19로 길어지는 여행·관광업 '보릿고개'",
+        "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=165237"
     },
     {
         "title": "코로나 2차 대유행에 제대로 대비해야",

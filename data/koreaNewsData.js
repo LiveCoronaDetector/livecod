@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202006291445446448"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
+        "title": "[전문]文대통령 “코로나 통제 가능…국내 관광 활성화되길”",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02974966625806640"
     }
 ];
