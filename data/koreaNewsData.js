@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     },
     {
-        "title": "日 코로나19 신규 확진 110명…연일 세자릿수 확진[종합]",
-        "link": "https://www.hankyung.com/international/article/2020062927737"
+        "title": "[속보] '코로나19' 42명 늘어 1만2,757명…지역 30명·해외유입 12명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290158&t=NN"
+    },
+    {
+        "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
+        "link": "http://yna.kr/AKR20200629003300055?did=1195m"
     },
     {
         "title": "현대카드 코로나 확진자 \"3살 딸도 확진\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04129526625806640"
     },
     {
+        "title": "日 코로나19 신규 확진 110명…연일 세자릿수 확진[종합]",
+        "link": "https://www.hankyung.com/international/article/2020062927737"
+    },
+    {
+        "title": "도쿄서 유흥업소 중심 코로나19 확산…신규 확진자 ‘최다’",
+        "link": "http://www.hani.co.kr/arti/international/japan/951429.html"
+    },
+    {
         "title": "주이라크 대사관 \"코로나19 관련 한국인 사망자 발생\"",
         "link": "http://yna.kr/AKR20200629176800111?did=1195m"
     },
     {
-        "title": "[단독]이라크 韓근로자 코로나 사망…3월에도 사망자 있었다",
-        "link": "https://news.joins.com/article/olink/23407806"
-    },
-    {
-        "title": "[속보] '코로나19' 42명 늘어 1만2,757명…지역 30명·해외유입 12명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290158&t=NN"
-    },
-    {
-        "title": "대전서 2명 더 코로나 확진… 재확산 후 67명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062901341.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
-        "link": "http://yna.kr/AKR20200629003300055?did=1195m"
+        "title": "미 코로나19 급증에 또 마스크 논쟁…\"의무화\" vs \"주가 판단\"",
+        "link": "http://yna.kr/AKR20200629002300071?did=1195m"
     }
 ];

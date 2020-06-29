@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Swift and dangerous turn in Texas cases, says governor",
-        "link": "https://www.bbc.com/news/world-us-canada-53215501"
+        "title": "Some US states return to previous restrictions to slow surges of coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/29/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "5 things to know for June 29: Coronavirus, Russia, police reform, Facebook, Pakistan",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
     },
     {
-        "title": "Live Coronavirus Updates: Global Death Toll Surpasses Half a Million",
-        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-live-updates.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
     },
     {
         "title": "Live updates: Global death toll from coronavirus surpasses half a million",
         "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     },
     {
-        "title": "Choir of more than 100 people perform without masks at Pence event",
-        "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
+        "title": "More than 500,000 dead worldwide from coronavirus: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/06/500000-dead-coronavirus-live-updates-200628233313992.html"
     },
     {
-        "title": "Coronavirus death toll surpasses 500,000 worldwide",
-        "link": "https://www.cbsnews.com/news/coronavirus-death-toll-500000-worldwide-pandemic/"
+        "title": "Choir of more than 100 people perform without masks at Pence event",
+        "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
     }
 ];
