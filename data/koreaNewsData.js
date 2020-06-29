@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     },
     {
-        "title": "코로나19 서울 확진자 오늘 7명 추가…누계 1천312명(종합)",
-        "link": "http://yna.kr/AKR20200629165751004?did=1195m"
+        "title": "코로나19 서울 확진자 오늘 7명 추가…누계 1천312명",
+        "link": "http://yna.kr/AKR20200629165700004?did=1195m"
     },
     {
         "title": "[속보] '코로나19' 42명 늘어 1만2,757명…지역 30명·해외유입 12명",
