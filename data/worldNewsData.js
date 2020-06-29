@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
     },
     {
-        "title": "Live updates: Arizona’s hospitalizations hit record high as WHO warns that coronavirus outbreak is far from over",
-        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
+        "title": "Thousands flock to beaches in Florida amid fears it will become the next epicenter of coronavirus",
+        "link": "https://www.dailymail.co.uk/news/article-8468159/Thousands-flock-beaches-Florida-amid-fears-epicenter-coronavirus.html"
     }
 ];
