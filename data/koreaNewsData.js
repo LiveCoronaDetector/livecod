@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3979180"
     },
     {
+        "title": "[속보] 대전서 밤사이 코로나19 확진자 2명 발생… 동구 천동 거주, 누적 확진...",
+        "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2078671"
+    },
+    {
         "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
         "link": "http://yna.kr/AKR20200629003300055?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 전세계 1000만명 감염, 50만명이 사망했다",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/28/2020062800072.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "국내 코로나19 신규 확진자, 8일 만에 60명대로 늘어",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000987938?division=NAVER"
     }
 ];

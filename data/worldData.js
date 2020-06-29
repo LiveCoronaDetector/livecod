@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2637039,
+        "확진자수": 2637077,
         "사망자수": 128437,
-        "완치자수": 1093227
+        "완치자수": 1093456
     },
     {
         "Name": "브라질",
@@ -84,9 +84,9 @@ var marker = [
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "확진자수": 212802,
-        "사망자수": 26381,
-        "완치자수": 123797
+        "확진자수": 216852,
+        "사망자수": 26648,
+        "완치자수": 126843
     },
     {
         "Name": "파키스탄",
@@ -425,6 +425,14 @@ var marker = [
         "완치자수": 1767
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 16930,
+        "사망자수": 727,
+        "완치자수": 3152
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
@@ -439,14 +447,6 @@ var marker = [
         "확진자수": 16424,
         "사망자수": 198,
         "완치자수": 9026
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 16397,
-        "사망자수": 706,
-        "완치자수": 3123
     },
     {
         "Name": "Moldova",
@@ -1148,7 +1148,7 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 690,
+        "확진자수": 696,
         "사망자수": 10,
         "완치자수": 552
     },
@@ -1457,6 +1457,14 @@ var marker = [
         "완치자수": 38
     },
     {
+        "Name": "Seychelles",
+        "Name_ch": "",
+        "Name_en": "Seychelles",
+        "확진자수": 70,
+        "사망자수": 0,
+        "완치자수": 11
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
@@ -1559,14 +1567,6 @@ var marker = [
         "확진자수": 21,
         "사망자수": 0,
         "완치자수": 21
-    },
-    {
-        "Name": "Seychelles",
-        "Name_ch": "",
-        "Name_en": "Seychelles",
-        "확진자수": 20,
-        "사망자수": 0,
-        "완치자수": 11
     },
     {
         "Name": "Laos",

@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/28/amazon-workers-in-germany-will-strike-over-covid-19-infections/"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
+        "title": "India opens one of the world's largest hospitals to fight coronavirus",
+        "link": "https://www.cnn.com/2020/06/28/asia/india-largest-coronavirus-hospital-delhi-scli-intl/index.html"
     },
     {
         "title": "Global coronavirus death toll exceeds half a million: Live",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=OezppaFym4I"
     },
     {
-        "title": "Coronavirus updates: Worldwide death toll passes 500,000 and cases exceed 10 million; California bars shut down; New York death rate drops",
-        "link": "https://www.usatoday.com/story/news/health/2020/06/28/coronavirus-updates-cases-10-million-worldwide/3271630001/"
-    },
-    {
         "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
         "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
     },
     {
         "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
         "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
+    },
+    {
+        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
+        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
     }
 ];
