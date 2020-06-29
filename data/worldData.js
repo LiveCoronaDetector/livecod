@@ -20,9 +20,9 @@ var marker = [
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "확진자수": 634437,
-        "사망자수": 9073,
-        "완치자수": 399087
+        "확진자수": 641156,
+        "사망자수": 9166,
+        "완치자수": 403430
     },
     {
         "Name": "인도",
@@ -884,9 +884,9 @@ var marker = [
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "확진자수": 1815,
+        "확진자수": 1816,
         "사망자수": 78,
-        "완치자수": 1503
+        "완치자수": 1512
     },
     {
         "Name": "레바논",
@@ -900,9 +900,9 @@ var marker = [
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
-        "확진자수": 1664,
+        "확진자수": 1665,
         "사망자수": 28,
-        "완치자수": 1461
+        "완치자수": 1464
     },
     {
         "Name": "Guinea-Bissau",
@@ -1004,7 +1004,7 @@ var marker = [
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "확진자수": 1116,
+        "확진자수": 1117,
         "사망자수": 30,
         "완치자수": 932
     },
@@ -1505,20 +1505,20 @@ var marker = [
         "완치자수": 37
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 41,
+        "사망자수": 1,
+        "완치자수": 11
+    },
+    {
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
         "확진자수": 29,
         "사망자수": 0,
         "완치자수": 29
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 28,
-        "사망자수": 1,
-        "완치자수": 11
     },
     {
         "Name": "Lesotho",
