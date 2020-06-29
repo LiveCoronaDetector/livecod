@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4482209&ref=A"
     },
     {
+        "title": "[36.5˚C] 코로나19 한가하게 있다가 당한다",
+        "link": "https://hankookilbo.com/News/Read/A202006291333000052?did=NA"
+    },
+    {
         "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "\"제 아들은 코로나19 환자 아닌데…\"",
         "link": "http://www.idaegu.co.kr/news/articleView.html?idxno=315761"
-    },
-    {
-        "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
-        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
     }
 ];

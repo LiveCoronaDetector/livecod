@@ -5,18 +5,6 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23407806"
     },
     {
-        "title": "주이라크 대사관 \"코로나19 관련 한국인 사망자 발생\"",
-        "link": "http://yna.kr/AKR20200629176800111?did=1195m"
-    },
-    {
-        "title": "뉴욕증시, 코로나19 확산 주시 속 혼조 출발",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062903608.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "日 코로나19 이틀 연속 100명대…또 '긴급사태' 가나",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290383&t=NN"
-    },
-    {
         "title": "WHO \"내주 중국에 연구팀 파견…코로나19 기원 조사\"(종합)",
         "link": "http://yna.kr/AKR20200630002951088?did=1195m"
     },
@@ -29,6 +17,14 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020062919380132350"
     },
     {
+        "title": "[속보] '코로나19' 42명 늘어 1만2,757명…지역 30명·해외유입 12명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290158&t=NN"
+    },
+    {
+        "title": "대전서 2명 더 코로나 확진… 재확산 후 67명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062901341.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
         "link": "http://yna.kr/AKR20200629003300055?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "도쿄서 유흥업소 중심 코로나19 확산…신규 확진자 ‘최다’",
         "link": "http://www.hani.co.kr/arti/international/japan/951429.html"
+    },
+    {
+        "title": "주이라크 대사관 \"코로나19 관련 한국인 사망자 발생\"",
+        "link": "http://yna.kr/AKR20200629176800111?did=1195m"
     }
 ];
