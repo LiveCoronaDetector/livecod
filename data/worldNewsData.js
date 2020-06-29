@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
+        "title": "Live Coronavirus Updates: Global Death Toll Surpasses Half a Million",
+        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus Live Updates: Global Deaths Pass 500,000",
-        "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
     },
     {
         "title": "Live updates: Global death toll from coronavirus surpasses half a million",
         "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     },
     {
-        "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
-        "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
+        "title": "Coronavirus death toll surpasses 500,000 worldwide",
+        "link": "https://www.cbsnews.com/news/coronavirus-death-toll-500000-worldwide-pandemic/"
     }
 ];
