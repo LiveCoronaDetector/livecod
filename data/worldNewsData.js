@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://theconversation.com/covid-19-africas-conservation-and-trophy-hunting-dilemma-140029"
     },
     {
-        "title": "Live updates: Texas, Arizona face record coronavirus hospitalizations as U.S. surpass 2.5 million cases",
-        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
+        "title": "Coronavirus: 'Swift and dangerous turn' in Texas cases, says governor",
+        "link": "https://www.bbc.com/news/world-us-canada-53215501"
     },
     {
         "title": "Pakistan producing own ventilators as COVID-19 cases rise",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
     },
     {
-        "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
-        "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
     },
     {
         "title": "Coronavirus: How Delhi 'wasted' lockdown to become India's biggest hotspot",
         "link": "https://news.yahoo.com/coronavirus-delhi-wasted-lockdown-become-032221324.html"
     },
     {
-        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
-        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
+        "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
+        "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
     }
 ];
