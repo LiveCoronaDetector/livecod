@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://theconversation.com/covid-19-africas-conservation-and-trophy-hunting-dilemma-140029"
     },
     {
-        "title": "Only two US states are reporting a decline in new coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/28/health/us-coronavirus-sunday/index.html"
+        "title": "'Window is closing' for US to get coronavirus under control, Trump's HHS secretary warns",
+        "link": "https://www.cnn.com/2020/06/28/politics/hhs-alex-azar-coronavirus-rise-in-cases-cnntv/index.html"
     },
     {
-        "title": "Coronavirus Israel live: Health minister calls for new restrictions to contain 'second wave'",
-        "link": "https://www.haaretz.com/israel-news/israel-coronavirus-second-wave-news-breaking-updates-1.8949982"
+        "title": "Infectious disease head: Israel 'about to lose control' of pandemic",
+        "link": "https://www.jpost.com/health-science/netanyahu-coronavirus-cabinet-to-roll-out-new-restrictions-633052"
     },
     {
         "title": "Amazon workers in Germany will strike over COVID-19 infected workplace",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
-        "title": "Pence: 'Truly Remarkable Progress' On COVID Despite Spike In Infections | Meet The Press | NBC News",
-        "link": "https://www.youtube.com/watch?v=OezppaFym4I"
+        "title": "Full interview: Vice President Mike Pence on \"Face the Nation\"",
+        "link": "https://www.youtube.com/watch?v=u7irrvn9vtY"
     },
     {
-        "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
-        "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
         "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
         "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
     },
     {
-        "title": "U.S. States Backtrack on Reopening as Coronavirus Cases Climb",
-        "link": "https://www.nytimes.com/2020/06/27/world/coronavirus-updates.html"
+        "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
+        "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
     }
 ];

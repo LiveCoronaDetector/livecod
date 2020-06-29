@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     },
     {
-        "title": "제주도, 코로나19 2차 대유행 대비 매뉴얼 구축",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166639"
+        "title": "제주도내 16번째 코로나19 확진자 8일만에 퇴원",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
     }
 ];
