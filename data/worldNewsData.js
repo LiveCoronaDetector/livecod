@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
+    },
+    {
         "title": "Live Coronavirus Updates: Global Death Toll Surpasses Half a Million",
         "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-live-updates.html"
     },
     {
         "title": "Live updates: Global death toll from coronavirus surpasses half a million",
         "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
-    },
-    {
-        "title": "Coronavirus death toll surpasses 500,000 worldwide",
-        "link": "https://www.cbsnews.com/news/coronavirus-death-toll-500000-worldwide-pandemic/"
     },
     {
         "title": "Choir of more than 100 people perform without masks at Pence event",
