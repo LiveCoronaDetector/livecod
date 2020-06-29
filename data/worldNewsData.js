@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://theconversation.com/covid-19-africas-conservation-and-trophy-hunting-dilemma-140029"
     },
     {
-        "title": "Coronavirus: Florida and Texas reverse reopening as US cases pass 2.5m",
-        "link": "https://www.bbc.com/news/world-us-canada-53205720"
+        "title": "Coronavirus: 'Swift and dangerous turn' in Texas cases, says governor",
+        "link": "https://www.bbc.com/news/world-us-canada-53215501"
     },
     {
         "title": "Pakistan producing own ventilators as COVID-19 cases rise",
@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/28/asia/india-largest-coronavirus-hospital-delhi-scli-intl/index.html"
     },
     {
-        "title": "Global coronavirus death toll exceeds half a million: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
+        "title": "Covid-19: China pushes traditional remedies amid outbreak",
+        "link": "https://www.bbc.com/news/world-asia-53094603"
     },
     {
         "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
         "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
-    },
-    {
-        "title": "Allegheny Co. bars, restaurants banned from selling alcohol for on-site consumption",
-        "link": "https://www.youtube.com/watch?v=VMNfCX3i0X0"
     },
     {
         "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: How Delhi 'wasted' lockdown to become India's biggest hotspot",
         "link": "https://news.yahoo.com/coronavirus-delhi-wasted-lockdown-become-032221324.html"
+    },
+    {
+        "title": "Choir of more than 100 people perform without masks at Pence event",
+        "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
     }
 ];

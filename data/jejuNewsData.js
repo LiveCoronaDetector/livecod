@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
-        "title": "학원은 고위험시설인데 워터파크가 아니라고… '황당'한 코로나 기준",
-        "link": "http://www.newdaily.co.kr/site/data/html/2020/06/26/2020062600163.html"
-    },
-    {
         "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "학원은 고위험시설인데 워터파크가 아니라고… '황당'한 코로나 기준",
+        "link": "http://www.newdaily.co.kr/site/data/html/2020/06/26/2020062600163.html"
     },
     {
         "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",

@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062901317.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "교회발 집단감염으로 국내 신규 확진자 42명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5825559_32633.html"
+        "title": "[종합] 코로나19 확진자 42명 증가...경기 14명, 서울 6명, 해외 12명",
+        "link": "http://www.fnnews.com/news/202006291016204094"
     },
     {
         "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006281015001&code=940601"
     },
     {
-        "title": "전세계 코로나 일일 확진자 19만…또 사상 최고(상보)",
-        "link": "https://www.news1.kr/articles/?3979180"
+        "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
     }
 ];
