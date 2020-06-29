@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "Some US states return to previous restrictions to slow surges of coronavirus cases",
+        "title": "Some US states return to previous restrictions to slow surge of coronavirus cases",
         "link": "https://www.cnn.com/2020/06/29/health/us-coronavirus-monday/index.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     },
     {
-        "title": "Choir of more than 100 people perform without masks at Pence event",
-        "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
+        "title": "CDC Antibody Studies Confirm Huge Gap Between COVID-19 Infections and Known Cases",
+        "link": "https://reason.com/2020/06/28/cdc-antibody-studies-confirm-huge-gap-between-covid-19-infections-and-known-cases/"
     }
 ];
