@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.inews24.com/view/1277350"
     },
     {
+        "title": "코로나19 해수욕장 '뉴노멀'…발열체크·손목밴드에 QR코드까지",
+        "link": "http://yna.kr/AKR20200629109100065?did=1195m"
+    },
+    {
         "title": "코로나19로 길어지는 여행·관광업 '보릿고개'",
         "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=165237"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
-    },
-    {
-        "title": "학원은 고위험시설인데 워터파크가 아니라고… '황당'한 코로나 기준",
-        "link": "http://www.newdaily.co.kr/site/data/html/2020/06/26/2020062600163.html"
     }
 ];

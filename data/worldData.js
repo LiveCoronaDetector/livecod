@@ -825,6 +825,14 @@ var marker = [
         "완치자수": 1065
     },
     {
+        "Name": "팔레스타인",
+        "Name_ch": "巴勒斯坦",
+        "Name_en": "Palestine",
+        "확진자수": 2087,
+        "사망자수": 5,
+        "완치자수": 447
+    },
+    {
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
@@ -847,14 +855,6 @@ var marker = [
         "확진자수": 2001,
         "사망자수": 32,
         "완치자수": 515
-    },
-    {
-        "Name": "팔레스타인",
-        "Name_ch": "巴勒斯坦",
-        "Name_en": "Palestine",
-        "확진자수": 1990,
-        "사망자수": 4,
-        "완치자수": 447
     },
     {
         "Name": "South Sudan",
@@ -1052,9 +1052,9 @@ var marker = [
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "확진자수": 924,
+        "확진자수": 926,
         "사망자수": 15,
-        "완치자수": 785
+        "완치자수": 791
     },
     {
         "Name": "Rwanda",
