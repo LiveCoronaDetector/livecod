@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "Some US states return to previous restrictions to slow surge of coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/29/health/us-coronavirus-monday/index.html"
+        "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
+        "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
         "title": "5 things to know for June 29: Coronavirus, Russia, police reform, Facebook, Pakistan",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Live updates: Global death toll from coronavirus surpasses half a million",
-        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
+        "title": "WHO warns coronavirus pandemic is speeding up as countries ease lockdown rules: 'The worst is yet to come'",
+        "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
     }
 ];
