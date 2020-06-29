@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://theconversation.com/covid-19-africas-conservation-and-trophy-hunting-dilemma-140029"
     },
     {
-        "title": "Only two US states are reporting a decline in new coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/28/health/us-coronavirus-sunday/index.html"
+        "title": "Coronavirus Live Updates: Global Deaths Pass 500,000",
+        "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus Israel live: Health minister calls for new restrictions to contain 'second wave'",
-        "link": "https://www.haaretz.com/israel-news/israel-coronavirus-second-wave-news-breaking-updates-1.8949982"
+        "title": "Infectious disease head: Israel 'about to lose control' of pandemic",
+        "link": "https://www.jpost.com/health-science/netanyahu-coronavirus-cabinet-to-roll-out-new-restrictions-633052"
     },
     {
         "title": "Amazon workers in Germany will strike over COVID-19 infected workplace",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
     },
     {
-        "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
-        "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
-    },
-    {
         "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
         "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
     },
     {
-        "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
-        "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
+        "title": "Coronavirus India News LIVE Updates: Delhi’s COVID-19 tally at 83,077; global death toll crosses 5 lakh",
+        "link": "https://www.moneycontrol.com/news/india/coronavirus-india-news-live-updates-covid-19-statewise-tally-delhi-mumbai-maharashtra-tamil-nadu-gujarat-lockdown-extension-uddhav-thackeray-5470051.html"
+    },
+    {
+        "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
+        "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
     }
 ];

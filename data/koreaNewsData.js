@@ -13,8 +13,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     },
     {
-        "title": "교회발 집단감염으로 국내 신규 확진자 42명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5825559_32633.html"
+        "title": "옥천 코로나19 확진자 일한 편의점 손님 신원파악 난항",
+        "link": "https://www.nocutnews.co.kr/news/5368966"
+    },
+    {
+        "title": "전세계 코로나 일일 확진자 19만…또 사상 최고(상보)",
+        "link": "https://www.news1.kr/articles/?3979180"
+    },
+    {
+        "title": "서울 코로나19 신규 확진자 7명…용산구 어린이집서 3살 원생 감염",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02443606625806640"
     },
     {
         "title": "\"대구 신규확진 2명…감염경로 미확인 6세·확진자 접촉자\"(전문)",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200629003300055?did=1195m"
     },
     {
-        "title": "美 확진자 급증에 마스크 착용 의무화 또 정치적 논쟁",
-        "link": "https://www.ytn.co.kr/_ln/0104_202006290844337435"
-    },
-    {
-        "title": "광주서 코로나19 확진 3명 추가 발생…39·40·41번 환자(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5368796"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 62명···지역발생 40명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006281015001&code=940601"
     },
     {
-        "title": "[속보] 코로나19 확진자 62명 추가...지역 발생 40명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006281014404144"
+        "title": "'확진자 접촉' 김포시보건소 직원 10명 자가격리(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200629_0001076307&cID=14001&pID=14000"
     }
 ];
