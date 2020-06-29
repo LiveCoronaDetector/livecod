@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0104_202006300505207799"
     },
     {
-        "title": "이라크 공사 현장서 한국인 1명 코로나19 관련 사망",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200630500004&wlog_tag3=naver"
-    },
-    {
         "title": "[단독]코로나 아닌데 코로나탓 숨졌다···'억울한 죽음' 187명",
         "link": "https://news.joins.com/article/olink/23407929"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "현대카드 코로나 확진자 \"3살 딸도 확진\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04129526625806640"
+    },
+    {
+        "title": "도쿄서 유흥업소 중심 코로나19 확산…신규 확진자 ‘최다’",
+        "link": "http://www.hani.co.kr/arti/international/japan/951429.html"
     }
 ];

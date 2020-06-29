@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
     },
     {
-        "title": "Live updates: Arizona’s hospitalizations hit record high as WHO warns that coronavirus outbreak is far from over",
-        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
+        "title": "CDC adds three new possible COVID-19 symptoms",
+        "link": "https://wgxa.tv/news/coronavirus/cdc-adds-three-new-possible-covid-19-symptoms"
     }
 ];
