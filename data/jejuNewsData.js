@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.inews24.com/view/1277350"
     },
     {
+        "title": "[쇼맥] 코로나 블루 누적…심리방역도 체계적으로",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4482209&ref=A"
+    },
+    {
         "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
-        "link": "https://www.hankyung.com/life/article/2020062242417"
     }
 ];
