@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/us/five-things-june-29-trnd/index.html"
     },
     {
-        "title": "Covid Comparisons, Europe and U.S.",
-        "link": "https://www.wsj.com/articles/covid-comparisons-europe-and-u-s-11593381626"
+        "title": "Amazon warehouse workers go on strike in Germany over coronavirus infections",
+        "link": "https://www.cnbc.com/2020/06/29/amazon-strike-germany-warehouse-coronavirus.html"
     },
     {
         "title": "India opens one of the world's largest hospitals to fight coronavirus",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "As coronavirus spikes in US, China locks down 400,000 people ... over 18 cases",
         "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
     },
     {
         "title": "Live Coronavirus Updates: Global Death Toll Surpasses Half a Million",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Choir of more than 100 people perform without masks at Pence event",
         "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
+    },
+    {
+        "title": "Coronavirus death toll surpasses 500,000 worldwide",
+        "link": "https://www.cbsnews.com/news/coronavirus-death-toll-500000-worldwide-pandemic/"
     }
 ];
