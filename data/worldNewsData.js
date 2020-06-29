@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/06/28/amazon-workers-in-germany-will-strike-over-covid-19-infections/"
     },
     {
-        "title": "India opens one of the world's largest hospitals to fight coronavirus",
-        "link": "https://www.cnn.com/2020/06/28/asia/india-largest-coronavirus-hospital-delhi-scli-intl/index.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     },
     {
         "title": "Global coronavirus death toll exceeds half a million: Live",
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
-        "title": "Global coronavirus cases exceed 10 million",
-        "link": "https://www.msn.com/en-us/news/world/global-coronavirus-cases-exceed-10-million/ar-BB163999"
+        "title": "Pence: 'Truly Remarkable Progress' On COVID Despite Spike In Infections | Meet The Press | NBC News",
+        "link": "https://www.youtube.com/watch?v=OezppaFym4I"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
-    },
-    {
-        "title": "Gottlieb expects COVID deaths to rise again amid \"major epidemics\" across the South",
-        "link": "https://www.cbsnews.com/news/scott-gottlieb-coronavirus-covid-deaths-face-the-nation/"
+        "title": "Coronavirus updates: 7 states hit record high for new cases of COVID-19",
+        "link": "https://www.yahoo.com/gma/coronavirus-updates-4-states-hit-record-high-number-084834028--abc-news-topstories.html"
     },
     {
         "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
         "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
+    },
+    {
+        "title": "India opens one of the world's largest hospitals to fight coronavirus",
+        "link": "https://www.cnn.com/2020/06/28/asia/india-largest-coronavirus-hospital-delhi-scli-intl/index.html"
     }
 ];
