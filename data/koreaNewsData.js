@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062901317.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[전문]文대통령 “코로나 통제 가능…국내 관광 활성화되길”",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02974966625806640"
+    },
+    {
+        "title": "교회발 집단감염으로 국내 신규 확진자 42명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5825559_32633.html"
+    },
+    {
         "title": "[종합] 코로나19 확진자 42명 증가...경기 14명, 서울 6명, 해외 12명",
         "link": "http://www.fnnews.com/news/202006291016204094"
-    },
-    {
-        "title": "'코로나19' 신규 확진자, 하루새 42명 발생…교회 집단감염 영향",
-        "link": "http://www.inews24.com/view/1277331"
-    },
-    {
-        "title": "옥천 코로나19 확진자 일한 편의점 손님 신원파악 난항",
-        "link": "https://www.nocutnews.co.kr/news/5368966"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 42명...전국 곳곳에서 ‘확진’",
-        "link": "http://www.hani.co.kr/arti/society/health/951375.html"
-    },
-    {
-        "title": "6월 29일 ‘코로나19’ 전세계 확진자 1003만명…입국금지·검역 조치 179개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/29/2020062980120.html"
     },
     {
         "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
         "link": "http://yna.kr/AKR20200629003300055?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 62명···지역발생 40명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006281015001&code=940601"
+        "title": "옥천 코로나19 확진자 일한 편의점 손님 신원파악 난항",
+        "link": "https://www.nocutnews.co.kr/news/5368966"
     },
     {
-        "title": "미 코로나19 급증에 또 마스크 논쟁…\"의무화\" vs \"주가 판단\"",
-        "link": "http://yna.kr/AKR20200629002300071?did=1195m"
+        "title": "왕성교회발 3명 늘어 총 28명... 서울 확진자 1,300명 넘어",
+        "link": "https://hankookilbo.com/News/Read/A202006291047000042?did=NA"
     },
     {
-        "title": "[속보] '코로나19' 42명 늘어 1만2,757명…지역 30명·해외유입 12명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290158&t=NN"
+        "title": "6월 29일 ‘코로나19’ 전세계 확진자 1003만명…입국금지·검역 조치 179개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/29/2020062980120.html"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
+    },
+    {
+        "title": "코로나 신규 확진자 42명...전국 곳곳에서 ‘확진’",
+        "link": "http://www.hani.co.kr/arti/society/health/951375.html"
     }
 ];
