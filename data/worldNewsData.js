@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/28/asia/india-largest-coronavirus-hospital-delhi-scli-intl/index.html"
     },
     {
-        "title": "Covid-19: China pushes traditional remedies amid outbreak",
-        "link": "https://www.bbc.com/news/world-asia-53094603"
+        "title": "As coronavirus spikes in US, China locks down 400,000 people ... over 18 cases",
+        "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
+    },
+    {
+        "title": "COVID-19 Global Roundup: 10 million infections and 500,000 deaths",
+        "link": "https://news.cgtn.com/news/2020-06-29/Global-COVID-19-Roundup-10-million-infections-and-500-000-deaths-RI0G0sz77a/index.html"
     },
     {
         "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
         "link": "https://www.theguardian.com/world/2020/jun/28/us-health-secretary-window-closing-stop-coronavirus-cases-pass-25m"
-    },
-    {
-        "title": "Coronavirus: How Delhi 'wasted' lockdown to become India's biggest hotspot",
-        "link": "https://news.yahoo.com/coronavirus-delhi-wasted-lockdown-become-032221324.html"
     },
     {
         "title": "Choir of more than 100 people perform without masks at Pence event",

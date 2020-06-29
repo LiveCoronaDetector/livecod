@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
     {
+        "title": "코로나 2차 대유행에 제대로 대비해야",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166695"
+    },
+    {
         "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'이틀간 해열제 10알'…제주도, 코로나 확진 관광객에 손배소",
         "link": "https://www.hankyung.com/life/article/2020062242417"
-    },
-    {
-        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "http://yna.kr/AKR20200622054100056?did=1195m"
     }
 ];

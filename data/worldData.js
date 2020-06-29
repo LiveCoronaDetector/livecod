@@ -302,7 +302,7 @@ var marker = [
         "Name_en": "Poland",
         "확진자수": 33907,
         "사망자수": 1438,
-        "완치자수": 20548
+        "완치자수": 20897
     },
     {
         "Name": "Panama",
@@ -585,6 +585,14 @@ var marker = [
         "완치자수": 4291
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 6173,
+        "사망자수": 164,
+        "완치자수": 3648
+    },
+    {
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
@@ -599,14 +607,6 @@ var marker = [
         "확진자수": 6070,
         "사망자수": 143,
         "완치자수": 1971
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 5934,
-        "사망자수": 164,
-        "완치자수": 3566
     },
     {
         "Name": "Tajikistan",
@@ -916,7 +916,7 @@ var marker = [
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "확진자수": 1581,
+        "확진자수": 1585,
         "사망자수": 111,
         "완치자수": 1384
     },
