@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290158&t=NN"
     },
     {
+        "title": "대전서 2명 더 코로나 확진… 재확산 후 67명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062901341.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
         "link": "http://yna.kr/AKR20200629003300055?did=1195m"
     },
     {
         "title": "현대카드 코로나 확진자 \"3살 딸도 확진\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04129526625806640"
-    },
-    {
-        "title": "日 코로나19 신규 확진 110명…연일 세자릿수 확진[종합]",
-        "link": "https://www.hankyung.com/international/article/2020062927737"
     },
     {
         "title": "도쿄서 유흥업소 중심 코로나19 확산…신규 확진자 ‘최다’",
