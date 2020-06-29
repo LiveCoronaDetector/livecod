@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23407806"
     },
     {
-        "title": "주이라크 대사관 \"코로나19 관련 한국인 사망자 발생\"",
-        "link": "http://yna.kr/AKR20200629176800111?did=1195m"
+        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     },
     {
-        "title": "日 코로나19 이틀 연속 100명대…또 '긴급사태' 가나",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290383&t=NN"
+        "title": "코로나19 서울 확진자 오늘 7명 추가…누계 1천312명",
+        "link": "http://yna.kr/AKR20200629165700004?did=1195m"
+    },
+    {
+        "title": "주이라크 대사관 \"코로나19 한국인 사망자 발생\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04168886625806640"
     },
     {
         "title": "뉴욕증시, 코로나19 확산 주시 속 혼조 출발",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/29/2020062903608.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "日 코로나19 이틀 연속 100명대…또 '긴급사태' 가나",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006290383&t=NN"
+    },
+    {
         "title": "WHO \"내주 중국에 연구팀 파견…코로나19 기원 조사\"(종합)",
         "link": "http://yna.kr/AKR20200630002951088?did=1195m"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
-    },
-    {
-        "title": "서울 코로나19 확진자 7명 추가…총 1312명",
-        "link": "https://view.asiae.co.kr/article/2020062919380132350"
     },
     {
         "title": "전북 27번째 코로나 확진자 발생…전주 50대 여성",
         "link": "http://yna.kr/AKR20200629003300055?did=1195m"
     },
     {
-        "title": "현대카드 코로나 확진자 \"3살 딸도 확진\"",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04129526625806640"
+        "title": "“어머니 함께 입원” 현대카드 사옥, 확진자 3살 딸도 확진",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200629500227&wlog_tag3=naver"
     },
     {
         "title": "도쿄서 유흥업소 중심 코로나19 확산…신규 확진자 ‘최다’",

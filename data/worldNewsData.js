@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
+        "title": "Coronavirus News: Live Global Tracker",
+        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Live Coronavirus Updates: Global Death Toll Surpasses Half a Million",
-        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-live-updates.html"
+        "title": "Coronavirus live updates: Jacksonville, host of GOP convention, orders mask-wearing",
+        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     },
     {
         "title": "WHO warns coronavirus pandemic is speeding up as countries ease lockdown rules: 'The worst is yet to come'",
