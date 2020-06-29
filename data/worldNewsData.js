@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://theconversation.com/covid-19-africas-conservation-and-trophy-hunting-dilemma-140029"
     },
     {
-        "title": "'Window is closing' for US to get coronavirus under control, Trump's HHS secretary warns",
-        "link": "https://www.cnn.com/2020/06/28/politics/hhs-alex-azar-coronavirus-rise-in-cases-cnntv/index.html"
+        "title": "Coronavirus: Florida and Texas reverse reopening as US cases pass 2.5m",
+        "link": "https://www.bbc.com/news/world-us-canada-53205720"
     },
     {
-        "title": "Infectious disease head: Israel 'about to lose control' of pandemic",
-        "link": "https://www.jpost.com/health-science/netanyahu-coronavirus-cabinet-to-roll-out-new-restrictions-633052"
+        "title": "Pakistan producing own ventilators as COVID-19 cases rise",
+        "link": "https://www.aljazeera.com/news/2020/06/pakistan-producing-ventilators-covid-19-cases-rise-200628091242236.html"
     },
     {
         "title": "Amazon workers in Germany will strike over COVID-19 infected workplace",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/global-coronavirus-death-toll-nears-500000-live-updates-200627234018796.html"
     },
     {
-        "title": "Full interview: Vice President Mike Pence on \"Face the Nation\"",
-        "link": "https://www.youtube.com/watch?v=u7irrvn9vtY"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
+        "title": "Choir of more than 100 people perform without masks at Pence event",
+        "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
     },
     {
         "title": "Health secretary: ‘Window is closing’ to stop coronavirus as US cases pass 2.5m",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
         "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-28-20-intl/index.html"
     }
 ];

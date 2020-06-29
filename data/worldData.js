@@ -932,7 +932,7 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1526,
+        "확진자수": 1528,
         "사망자수": 22,
         "완치자수": 1484
     },

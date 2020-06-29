@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=165237"
     },
     {
+        "title": "학원은 고위험시설인데 워터파크가 아니라고… '황당'한 코로나 기준",
+        "link": "http://www.newdaily.co.kr/site/data/html/2020/06/26/2020062600163.html"
+    },
+    {
         "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
         "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
         "link": "http://yna.kr/AKR20200622054100056?did=1195m"
-    },
-    {
-        "title": "제주도내 16번째 코로나19 확진자 8일만에 퇴원",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324231"
     }
 ];
