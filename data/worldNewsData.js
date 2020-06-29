@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/28/world/coronavirus-updates.html"
     },
     {
-        "title": "Live updates: Global death toll from coronavirus surpasses half a million",
-        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
-    },
-    {
         "title": "More than 500,000 people have died from coronavirus worldwide as infections continue to surge",
         "link": "https://www.cnbc.com/2020/06/28/more-than-500000-people-have-died-from-coronavirus-worldwide-as-infections-continue-to-surge.html"
     },
     {
         "title": "Choir of more than 100 people perform without masks at Pence event",
         "link": "https://www.cnn.com/2020/06/28/politics/mike-pence-dallas-choir-no-masks-church-event/index.html"
+    },
+    {
+        "title": "Live updates: Global death toll from coronavirus surpasses half a million",
+        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     }
 ];
