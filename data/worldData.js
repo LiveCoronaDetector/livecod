@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2637909,
-        "사망자수": 128451,
+        "확진자수": 2638462,
+        "사망자수": 128460,
         "완치자수": 1093612
     },
     {
@@ -36,8 +36,8 @@ var marker = [
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "확진자수": 311151,
-        "사망자수": 43550,
+        "확진자수": 311965,
+        "사망자수": 43575,
         "완치자수": 0
     },
     {
@@ -585,28 +585,28 @@ var marker = [
         "완치자수": 4341
     },
     {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "확진자수": 6209,
+        "사망자수": 298,
+        "완치자수": 2427
+    },
+    {
+        "Name": "Kenya",
+        "Name_ch": "",
+        "Name_en": "Kenya",
+        "확진자수": 6190,
+        "사망자수": 144,
+        "완치자수": 2013
+    },
+    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 6173,
         "사망자수": 164,
         "완치자수": 3648
-    },
-    {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "확진자수": 6080,
-        "사망자수": 286,
-        "완치자수": 2315
-    },
-    {
-        "Name": "Kenya",
-        "Name_ch": "",
-        "Name_en": "Kenya",
-        "확진자수": 6070,
-        "사망자수": 143,
-        "완치자수": 1971
     },
     {
         "Name": "Tajikistan",
