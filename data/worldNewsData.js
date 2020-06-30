@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/us/five-things-june-29-trnd/index.html"
     },
     {
-        "title": "Amazon warehouse workers go on strike in Germany over coronavirus infections",
-        "link": "https://www.cnbc.com/2020/06/29/amazon-strike-germany-warehouse-coronavirus.html"
+        "title": "Italy was a cautionary tale. Now, it's returning to normal",
+        "link": "https://www.cnn.com/videos/world/2020/06/30/italy-reopening-us-coronavirus-surge-wedeman-pkg-ebof-vpx.cnn"
     },
     {
         "title": "Coronavirus: Secrecy surrounds India PM Narendra Modi's '$1bn' Covid-19 fund",
         "link": "https://www.bbc.com/news/world-asia-india-53151308"
     },
     {
-        "title": "Coronavirus live updates: WHO team to search for Covid-19 origin in China as chief says he fears 'worst to come'",
-        "link": "https://www.theguardian.com/world/live/2020/jun/30/coronavirus-live-updates-news-who-team-to-search-for-covid-19-origin-in-china-as-chief-says-he-fears-worst-to-come"
+        "title": "China locks down county amid coronavirus surge linked to Beijing market",
+        "link": "https://www.foxnews.com/world/china-locks-down-county-amid-coronavirus-surge-linked-to-beijing-market"
     },
     {
         "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",

@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951546.html"
     },
     {
-        "title": "WHO \"코로나19 최악 아직 안 왔다\"",
-        "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 43명···지역발생 23명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006301019011&code=940100"
     },
@@ -21,16 +17,20 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300169&t=NN"
     },
     {
-        "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "서울시 민주노총에 집회 자제 촉구…\"확진자 발생시 구상권 청구\"(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02686326625806968"
     },
     {
+        "title": "WHO \"코로나19 최악 아직 안 왔다\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
+    },
+    {
         "title": "광주 확진자 3명, 다단계 사무실로 알려진 오피스텔서 모임(종합)",
         "link": "http://yna.kr/AKR20200629103754054?did=1195m"
+    },
+    {
+        "title": "이용섭 광주시장, 코로나19 브리핑…확진자 세부 동선(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=576176"
     },
     {
         "title": "서울 확진자 7명 늘어 1312명…\"민주노총 집회자제 권고\"(종합)",
