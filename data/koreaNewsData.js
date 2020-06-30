@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "전국 첫 교내 전파…대전 초등학교서 확진자 동급생 2명 확진(종합2보)",
-        "link": "http://yna.kr/AKR20200630047352063?did=1195m"
-    },
-    {
         "title": "코로나 신규 확진자 43명...강원·충북에서도 발생",
         "link": "http://www.hani.co.kr/arti/society/health/951546.html"
     },
     {
         "title": "WHO \"코로나19 최악 아직 안 왔다\"",
         "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
+    },
+    {
+        "title": "전국 첫 교내 전파…대전 초등학교서 확진자 동급생 2명 확진(종합2보)",
+        "link": "http://yna.kr/AKR20200630047352063?did=1195m"
     },
     {
         "title": "충남 금산서 첫 지역 코로나 확진자 나와…대전 확진자 접촉",
