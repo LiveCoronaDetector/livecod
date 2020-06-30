@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53237824"
     },
     {
-        "title": "Coronavirus live updates: Greece faces 'huge difficulties' when flights resume; Toronto makes masks mandatory",
+        "title": "Coronavirus live updates: Greece faces 'huge difficulties' when flights resume; 'irregularities' in Slovenia PPE purchase",
         "link": "https://www.theguardian.com/world/live/2020/jun/30/coronavirus-live-updates-news-who-team-to-search-for-covid-19-origin-in-china-as-chief-says-he-fears-worst-to-come"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
-        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
-    },
-    {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
+    },
+    {
+        "title": "The coronavirus is mutating - The Washington Post",
+        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     }
 ];
