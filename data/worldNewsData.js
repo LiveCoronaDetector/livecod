@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "CDC says U.S. has 'way too much virus' to control pandemic as cases surge across country",
-        "link": "https://www.cnbc.com/2020/06/29/cdc-says-us-has-way-too-much-virus-to-control-pandemic-as-cases-surge-across-country.html"
+        "title": "Live updates: Reopening grinds to a halt as Sunbelt states witness surge in coronavirus hospitalizations",
+        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
     },
     {
         "title": "5 things to know for June 29: Coronavirus, Russia, police reform, Facebook, Pakistan",
@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53151308"
     },
     {
-        "title": "Flu virus with 'pandemic potential' found in China",
-        "link": "https://www.bbc.com/news/health-53218704"
+        "title": "China locks down county amid coronavirus surge linked to Beijing market",
+        "link": "https://www.foxnews.com/world/china-locks-down-county-amid-coronavirus-surge-linked-to-beijing-market"
     },
     {
-        "title": "Covid-19 death toll passes 500000 worldwide - BBC News",
-        "link": "https://www.youtube.com/watch?v=PCXCr4N7DTc"
+        "title": "New York Announces Lowest Number Of Hospitalizations During The Pandemic",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/884860049/new-york-announces-lowest-number-of-hospitalizations-during-the-pandemic"
     },
     {
         "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",

@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951546.html"
     },
     {
+        "title": "WHO \"코로나19 최악 아직 안 왔다\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
+    },
+    {
+        "title": "[속보] '코로나19' 43명 늘어 1만2800명…지역 23명·해외유입 20명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300169&t=NN"
+    },
+    {
         "title": "서울시 민주노총에 집회 자제 촉구…\"확진자 발생시 구상권 청구\"(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02686326625806968"
     },
@@ -17,24 +25,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4482763&ref=A"
     },
     {
-        "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "종교모임 관련 확진자 잇따라…왕성교회 31명·광륵사 14명 [종합]",
+        "link": "https://www.hankyung.com/society/article/2020063058707"
     },
     {
         "title": "6월 30일 ‘코로나19’ 전세계 확진자 1019만명…입국금지·검역 조치 179개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/30/2020063080167.html"
     },
     {
-        "title": "[속보] WHO \"코로나19 종식 근처도 못 가…최악 아직 안왔다\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300083&t=NN"
-    },
-    {
-        "title": "'코로나19' 신규 확진자, 하루새 43명 발생…지역감염 23명·해외유입 20명",
-        "link": "http://www.inews24.com/view/1277729"
-    },
-    {
-        "title": "광주 확진자 3명, 다단계 사무실로 알려진 오피스텔서 모임(종합)",
-        "link": "http://yna.kr/AKR20200629103754054?did=1195m"
+        "title": "인니서 한국인 첫 코로나19 확진자 발생…현대엔지니어링 인력(종합)",
+        "link": "http://yna.kr/AKR20200630092451104?did=1195m"
     },
     {
         "title": "서울 확진자 7명 늘어 1312명…\"민주노총 집회자제 권고\"(종합)",
