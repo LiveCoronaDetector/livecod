@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53229560"
     },
     {
-        "title": "WHO says worst of pandemic 'yet to come': Coronavirus latest",
-        "link": "https://www.aljazeera.com/news/2020/06/500000-dead-coronavirus-live-updates-200628233313992.html"
+        "title": "‘It’s frightening’: Doctors say half of ‘cured’ COVID patients still suffer",
+        "link": "https://www.timesofisrael.com/its-frightening-doctors-say-half-of-cured-covid-patients-still-suffer/"
     },
     {
         "title": "Italy was a cautionary tale. Now, it's returning to normal",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-53218704"
     },
     {
+        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
+    },
+    {
         "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Live Coronavirus News Updates: Fauci to Testify",
         "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-live-updates.html"
-    },
-    {
-        "title": "Live updates: Reopening grinds to a halt as coronavirus hospitalizations surge in Sun Belt states",
-        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
     }
 ];
