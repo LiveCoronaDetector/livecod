@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2702415,
-        "사망자수": 129149,
+        "확진자수": 2704289,
+        "사망자수": 129170,
         "완치자수": 1124142
     },
     {
@@ -108,8 +108,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 195565,
-        "사망자수": 9041,
+        "확진자수": 195688,
+        "사망자수": 9044,
         "완치자수": 179100
     },
     {
@@ -126,7 +126,7 @@ var marker = [
         "Name_en": "France",
         "확진자수": 164801,
         "사망자수": 29843,
-        "완치자수": 75649
+        "완치자수": 76274
     },
     {
         "Name": "Bangladesh",
@@ -724,9 +724,9 @@ var marker = [
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "확진자수": 3613,
+        "확진자수": 3745,
         "사망자수": 47,
-        "완치자수": 773
+        "완치자수": 787
     },
     {
         "Name": "그리스",
@@ -756,7 +756,7 @@ var marker = [
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
-        "확진자수": 2904,
+        "확진자수": 2924,
         "사망자수": 90,
         "완치자수": 910
     },
@@ -924,9 +924,9 @@ var marker = [
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "확진자수": 1568,
-        "사망자수": 22,
-        "완치자수": 1311
+        "확진자수": 1594,
+        "사망자수": 24,
+        "완치자수": 1329
     },
     {
         "Name": "New Zealand",
@@ -948,9 +948,9 @@ var marker = [
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "확진자수": 1226,
-        "사망자수": 14,
-        "완치자수": 608
+        "확진자수": 1227,
+        "사망자수": 15,
+        "완치자수": 629
     },
     {
         "Name": "Malawi",
@@ -1124,9 +1124,9 @@ var marker = [
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "확진자수": 713,
+        "확진자수": 714,
         "사망자수": 13,
-        "완치자수": 235
+        "완치자수": 236
     },
     {
         "Name": "일본크루즈",
@@ -1313,6 +1313,14 @@ var marker = [
         "완치자수": 175
     },
     {
+        "Name": "Eritrea",
+        "Name_ch": "",
+        "Name_en": "Eritrea",
+        "확진자수": 203,
+        "사망자수": 0,
+        "완치자수": 53
+    },
+    {
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
@@ -1327,14 +1335,6 @@ var marker = [
         "확진자수": 199,
         "사망자수": 1,
         "완치자수": 189
-    },
-    {
-        "Name": "Eritrea",
-        "Name_ch": "",
-        "Name_en": "Eritrea",
-        "확진자수": 191,
-        "사망자수": 0,
-        "완치자수": 53
     },
     {
         "Name": "Faeroe Islands",

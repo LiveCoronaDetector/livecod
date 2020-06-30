@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200630197000004?did=1195m"
     },
     {
-        "title": "전국 첫 교내 전파…대전 초등학교서 확진자 동급생 2명 확진(종합2보)",
-        "link": "http://yna.kr/AKR20200630047352063?did=1195m"
-    },
-    {
         "title": "코로나 신규 확진 43명…지역감염 지속·해외유입 증가(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/30/2020063001465.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "전국 첫 교내 전파…대전 초등학교서 확진자 동급생 2명 확진(종합2보)",
+        "link": "http://yna.kr/AKR20200630047352063?did=1195m"
     },
     {
         "title": "코로나 신규 확진자 43명...강원·충북에서도 발생",

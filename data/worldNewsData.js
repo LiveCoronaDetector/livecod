@@ -5,24 +5,24 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "CDC director pleads with younger Americans to wear masks while many states pause reopenings",
-        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-tuesday/index.html"
+        "title": "Coronavirus: Fauci warns of 100,000 US cases per day",
+        "link": "https://www.bbc.com/news/world-us-canada-53237824"
     },
     {
         "title": "Coronavirus live updates: Greece faces 'huge difficulties' when flights resume; Toronto makes masks mandatory",
         "link": "https://www.theguardian.com/world/live/2020/jun/30/coronavirus-live-updates-news-who-team-to-search-for-covid-19-origin-in-china-as-chief-says-he-fears-worst-to-come"
     },
     {
-        "title": "One graphic explains why Americans are facing an EU travel ban",
-        "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
+        "title": "Italy was a cautionary tale. Now, it's returning to normal",
+        "link": "https://www.cnn.com/videos/world/2020/06/30/italy-reopening-us-coronavirus-surge-wedeman-pkg-ebof-vpx.cnn"
     },
     {
         "title": "US could see 100,000 coronavirus daily cases, says Fauci: Live",
         "link": "https://www.aljazeera.com/news/2020/06/states-hit-pause-coronavirus-reopening-live-updates-200629235549222.html"
     },
     {
-        "title": "Australia sees highest new coronavirus caseload since mid-April, successful virus fight overall",
-        "link": "https://www.foxnews.com/health/australia-highest-new-coronavirus-case-load-since-mid-april-successful-fight-overall"
+        "title": "Flu virus with 'pandemic potential' found in China",
+        "link": "https://www.bbc.com/news/health-53218704"
     },
     {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     },
     {
-        "title": "Global Coronavirus Cases Top 10 Million, Texas Is New Epicenter in U.S.",
-        "link": "https://www.youtube.com/watch?v=mjXuwktfaEo"
+        "title": "Fauci, Redfield testify on Covid-19 reopening: Live updates",
+        "link": "https://www.cnn.com/politics/live-news/covid-19-school-work-reopening-testimony-06-30-20/index.html"
     },
     {
-        "title": "The coronavirus is mutating - The Washington Post",
-        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
+        "title": "States Pause Plans to Reopen as Cases Soar",
+        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
     }
 ];
