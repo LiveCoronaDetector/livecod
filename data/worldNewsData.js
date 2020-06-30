@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-53218704"
     },
     {
+        "title": "Covid-19 death toll passes 500000 worldwide - BBC News",
+        "link": "https://www.youtube.com/watch?v=PCXCr4N7DTc"
+    },
+    {
         "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
     },
     {
-        "title": "Live updates: Reopening grinds to a halt as Sunbelt states witness surge in coronavirus hospitalizations",
-        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
+        "title": "The coronavirus is mutating - The Washington Post",
+        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
         "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
         "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
-    },
-    {
-        "title": "The coronavirus is mutating - The Washington Post",
-        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     }
 ];
