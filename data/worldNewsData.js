@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
+        "title": "Fauci, Redfield testify on Covid-19 reopening: Live updates",
+        "link": "https://www.cnn.com/politics/live-news/covid-19-school-work-reopening-testimony-06-30-20/index.html"
     },
     {
-        "title": "States Pause Plans to Reopen as Cases Soar",
-        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
+        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     },
     {
         "title": "The coronavirus is mutating - The Washington Post",
