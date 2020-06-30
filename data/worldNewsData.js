@@ -5,32 +5,32 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus: Fauci warns of 100,000 US cases per day",
-        "link": "https://www.bbc.com/news/world-us-canada-53237824"
+        "title": "Coronavirus Live Updates: Fauci Warns U.S. Could Hit 100,000 Daily Cases if Surge Continues",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus live updates: Greece faces 'huge difficulties' when flights resume; 'irregularities' in Slovenia PPE purchase",
         "link": "https://www.theguardian.com/world/live/2020/jun/30/coronavirus-live-updates-news-who-team-to-search-for-covid-19-origin-in-china-as-chief-says-he-fears-worst-to-come"
     },
     {
-        "title": "Italy was a cautionary tale. Now, it's returning to normal",
-        "link": "https://www.cnn.com/videos/world/2020/06/30/italy-reopening-us-coronavirus-surge-wedeman-pkg-ebof-vpx.cnn"
+        "title": "One graphic explains why Americans are facing an EU travel ban",
+        "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
     },
     {
         "title": "US could see 100,000 coronavirus daily cases, says Fauci: Live",
         "link": "https://www.aljazeera.com/news/2020/06/states-hit-pause-coronavirus-reopening-live-updates-200629235549222.html"
     },
     {
-        "title": "Flu virus with 'pandemic potential' found in China",
-        "link": "https://www.bbc.com/news/health-53218704"
+        "title": "Dr. Anthony Fauci says new virus in China has traits of 2009 swine flu and 1918 pandemic flu",
+        "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
     },
     {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "Dr. Anthony Fauci: U.S. coronavirus outbreak could top 100000 new cases a day",
-        "link": "https://www.youtube.com/watch?v=MR73uTTVof0"
+        "title": "Coronavirus: California travelers must quarantine upon arrival in New York; barred from European Union",
+        "link": "https://www.mercurynews.com/2020/06/30/coronavirus-california-travelers-must-quarantine-upon-arrival-in-new-york-barred-from-european-union/"
     },
     {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
