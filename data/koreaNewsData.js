@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951546.html"
     },
     {
+        "title": "WHO \"코로나19 최악 아직 안 왔다\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
+    },
+    {
         "title": "대전 다단계發 코로나 재확산…학교까지 확진자 속출",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03191446625806968"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200630047351063?did=1195m"
     },
     {
-        "title": "WHO \"코로나19 최악 아직 안 왔다\"",
-        "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
-    },
-    {
-        "title": "일본 코로나 신규 확진 138명…사흘째 100명대(종합)",
-        "link": "http://yna.kr/AKR20200630173851073?did=1195m"
+        "title": "[속보] 국내 코로나19 확진자 43명 추가...지역발생 23명",
+        "link": "https://www.sedaily.com/NewsView/1Z487Z5YX9"
     }
 ];
