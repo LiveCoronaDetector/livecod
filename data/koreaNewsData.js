@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
     },
     {
+        "title": "충남 금산서 첫 지역 코로나 확진자 나와…대전 확진자 접촉",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/30/2020063004886.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "대전 다단계發 코로나 재확산…학교까지 확진자 속출",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03191446625806968"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "대전서 기존 확진자 접촉한 2명 코로나19 확진…보름새 71명째(종합)",
         "link": "http://yna.kr/AKR20200630047351063?did=1195m"
-    },
-    {
-        "title": "[속보] 국내 코로나19 확진자 43명 추가...지역발생 23명",
-        "link": "https://www.sedaily.com/NewsView/1Z487Z5YX9"
     }
 ];

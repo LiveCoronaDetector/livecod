@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus: US officials warn 'this is just the beginning'",
-        "link": "https://www.bbc.com/news/world-us-canada-53237824"
+        "title": "Coronavirus: Swift and dangerous turn in Texas cases, says governor",
+        "link": "https://www.bbc.com/news/world-us-canada-53215501"
     },
     {
         "title": "Coronavirus live updates: Greece faces 'huge difficulties' when flights resume; Toronto makes masks mandatory",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     },
     {
-        "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
-    },
-    {
-        "title": "Live Coronavirus News Updates: E.U. Will Bar Americans",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Coronavirus: Worst could be yet to come, WHO warns",
+        "link": "https://www.bbc.com/news/world-53227219"
     },
     {
         "title": "The coronavirus is mutating - The Washington Post",
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
+    },
+    {
+        "title": "CDC says U.S. has 'way too much virus' to control pandemic as cases surge across country",
+        "link": "https://www.cnbc.com/2020/06/29/cdc-says-us-has-way-too-much-virus-to-control-pandemic-as-cases-surge-across-country.html"
     }
 ];
