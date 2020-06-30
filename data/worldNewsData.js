@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/its-frightening-doctors-say-half-of-cured-covid-patients-still-suffer/"
     },
     {
-        "title": "European Union bars travelers from U.S. citing coronavirus concerns",
-        "link": "https://www.nbcnews.com/news/world/european-union-bars-travelers-u-s-citing-coronavirus-concerns-n1232333"
+        "title": "Americans will remain barred from European travel as the EU gradually reopens its borders",
+        "link": "https://www.cnbc.com/2020/06/30/americans-to-remain-barred-from-european-travel.html"
     },
     {
-        "title": "Coronavirus: Secrecy surrounds India PM Narendra Modi's '$1bn' Covid-19 fund",
-        "link": "https://www.bbc.com/news/world-asia-india-53151308"
+        "title": "Modi says India's coronavirus spread at critical juncture – Live",
+        "link": "https://www.aljazeera.com/news/2020/06/states-hit-pause-coronavirus-reopening-live-updates-200629235549222.html"
     },
     {
         "title": "Flu virus with 'pandemic potential' found in China",
