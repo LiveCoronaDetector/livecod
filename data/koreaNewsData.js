@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/30/2020063001465.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대전서 기존 확진자 접촉한 2명 코로나19 확진…보름새 71명째(종합)",
-        "link": "http://yna.kr/AKR20200630047351063?did=1195m"
+        "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5370139"
     },
     {
         "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
+        "title": "호주, 멜버른 10개 지역 대상 코로나19 2차 봉쇄령(종합)",
+        "link": "http://yna.kr/AKR20200630103951093?did=1195m"
     },
     {
-        "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5370139"
+        "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
     },
     {
         "title": "종교모임 관련 확진자 잇따라…왕성교회 31명·광륵사 14명 [종합]",

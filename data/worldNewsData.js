@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "CDC says U.S. has 'way too much virus' to control pandemic as cases surge across country",
-        "link": "https://www.cnbc.com/2020/06/29/cdc-says-us-has-way-too-much-virus-to-control-pandemic-as-cases-surge-across-country.html"
+        "title": "Coronavirus-hit Arizona reverses course on reopening",
+        "link": "https://www.bbc.com/news/world-us-canada-53229560"
     },
     {
-        "title": "5 things to know for June 29: Coronavirus, Russia, police reform, Facebook, Pakistan",
-        "link": "https://www.cnn.com/2020/06/29/us/five-things-june-29-trnd/index.html"
+        "title": "‘It’s frightening’: Doctors say half of ‘cured’ COVID patients still suffer",
+        "link": "https://www.timesofisrael.com/its-frightening-doctors-say-half-of-cured-covid-patients-still-suffer/"
     },
     {
         "title": "Italy was a cautionary tale. Now, it's returning to normal",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
-        "title": "Indian Prime Minister Narendra Modi to Address the Nation on Tuesday",
-        "link": "https://www.nytimes.com/reuters/2020/06/29/world/asia/29reuters-india-modi.html"
+        "title": "As coronavirus spikes, Kansas and Oregon order face masks; Arizona closes bars, gyms, theaters",
+        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
     }
 ];

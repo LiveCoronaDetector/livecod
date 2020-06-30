@@ -5,14 +5,6 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5370139"
     },
     {
-        "title": "광주서 코로나 45번 확진자 발생…70대 여성, 2차 검사 중",
-        "link": "https://www.news1.kr/articles/?3981478"
-    },
-    {
-        "title": "[전문] 광주광역시청 45번째 확진자 발생...제주도 여행",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=370283"
-    },
-    {
         "title": "'지역확산에서 깜깜이 감염까지'…광주 45번 확진자 추가(종합)",
         "link": "http://yna.kr/AKR20200630179300054?did=1195m"
     },
@@ -25,6 +17,14 @@ var jejuNewsData = [
         "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4200105"
     },
     {
+        "title": "[전문] 광주광역시청 45번째 확진자 발생...제주도 여행",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=370283"
+    },
+    {
+        "title": "코로나19 지역사회 감염 확산",
+        "link": "http://www.jndn.com/article.php?aid=1593513333302854001"
+    },
+    {
         "title": "‘제주도 여행 이력’ 70대 여성 병원에서 확진…광주·전남 확진자 16명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483133&ref=A"
     },
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.honam.co.kr/detail/0kIA7d/607243"
     },
     {
-        "title": "제주도 다녀온 광주 70대 최종 양성…지역 45번째",
-        "link": "http://www.gjdream.com/news/articleView.html?idxno=600747"
+        "title": "계속되는 광륵사발 확진자 발생…광주·전남 나흘 간 16명 확진",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483138&ref=A"
     },
     {
-        "title": "감염경로 모르는 광주 확진자 속출… 제주도 다녀오기도",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014749776&code=61121111&cp=nv"
+        "title": "코로나19 사태에 여행 시장 '플렉스' 지고 '힐링' 떴다",
+        "link": "http://www.inews24.com/view/1277350"
     }
 ];
