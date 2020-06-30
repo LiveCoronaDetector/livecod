@@ -401,20 +401,20 @@ var marker = [
         "완치자수": 13008
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 18818,
+        "사망자수": 485,
+        "완치자수": 1961
+    },
+    {
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
         "확진자수": 18476,
         "사망자수": 972,
         "완치자수": 16557
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 18082,
-        "사망자수": 479,
-        "완치자수": 1875
     },
     {
         "Name": "오스트리아",
@@ -556,7 +556,7 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 7767,
+        "확진자수": 7836,
         "사망자수": 104,
         "완치자수": 7008
     },
@@ -1449,20 +1449,20 @@ var marker = [
         "완치자수": 62
     },
     {
+        "Name": "부탄",
+        "Name_ch": "不丹",
+        "Name_en": "Bhutan",
+        "확진자수": 77,
+        "사망자수": 0,
+        "완치자수": 44
+    },
+    {
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
         "확진자수": 77,
         "사망자수": 0,
         "완치자수": 11
-    },
-    {
-        "Name": "부탄",
-        "Name_ch": "不丹",
-        "Name_en": "Bhutan",
-        "확진자수": 76,
-        "사망자수": 0,
-        "완치자수": 44
     },
     {
         "Name": "Antigua and Barbuda",

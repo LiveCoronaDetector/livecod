@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/29/amazon-strike-germany-warehouse-coronavirus.html"
     },
     {
-        "title": "Coronavirus cases hit 10 million as outbreaks surge in the US, Brazil and India",
-        "link": "https://www.cnet.com/news/coronavirus-cases-hit-10-million-as-outbreaks-surge-in-the-us-brazil-and-india/"
+        "title": "Coronavirus: Secrecy surrounds India PM Narendra Modi's '$1bn' Covid-19 fund",
+        "link": "https://www.bbc.com/news/world-asia-india-53151308"
     },
     {
-        "title": "Flu virus with 'pandemic potential' found in China",
-        "link": "https://www.bbc.com/news/health-53218704"
-    },
-    {
-        "title": "The coronavirus is mutating - The Washington Post",
-        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
+        "title": "Coronavirus live updates: WHO team to search for Covid-19 origin in China as chief says he fears 'worst to come'",
+        "link": "https://www.theguardian.com/world/live/2020/jun/30/coronavirus-live-updates-news-who-team-to-search-for-covid-19-origin-in-china-as-chief-says-he-fears-worst-to-come"
     },
     {
         "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
     },
     {
-        "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
-        "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
+        "title": "The coronavirus is mutating - The Washington Post",
+        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
+    },
+    {
+        "title": "June 29 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
     },
     {
         "title": "Live updates: As coronavirus spikes, Kansas and Oregon order face masks; Arizona closes bars, gyms, theaters",
