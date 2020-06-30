@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/italy-reopening-us-coronavirus-surge-wedeman-pkg-ebof-vpx.cnn"
     },
     {
-        "title": "Coronavirus: Secrecy surrounds India PM Narendra Modi's '$1bn' Covid-19 fund",
-        "link": "https://www.bbc.com/news/world-asia-india-53151308"
+        "title": "Modi says India's coronavirus spread at critical juncture – Live",
+        "link": "https://www.aljazeera.com/news/2020/06/states-hit-pause-coronavirus-reopening-live-updates-200629235549222.html"
     },
     {
         "title": "Flu virus with 'pandemic potential' found in China",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
-        "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
-        "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
+        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     },
     {
-        "title": "Live updates: Reopening grinds to a halt as coronavirus hospitalizations surge in Sun Belt states",
-        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
+        "title": "Live Coronavirus News Updates: Fauci to Testify",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-live-updates.html"
     }
 ];
