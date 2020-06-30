@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2714886,
-        "사망자수": 129984,
-        "완치자수": 1127369
+        "확진자수": 2718108,
+        "사망자수": 129972,
+        "완치자수": 1129033
     },
     {
         "Name": "브라질",
@@ -668,9 +668,9 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 4831,
-        "사망자수": 223,
-        "완치자수": 2582
+        "확진자수": 4989,
+        "사망자수": 230,
+        "완치자수": 2676
     },
     {
         "Name": "Djibouti",
@@ -789,7 +789,7 @@ var marker = [
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
         "확진자수": 2428,
-        "사망자수": 7,
+        "사망자수": 8,
         "완치자수": 451
     },
     {
@@ -849,6 +849,14 @@ var marker = [
         "완치자수": 1711
     },
     {
+        "Name": "South Sudan",
+        "Name_ch": "",
+        "Name_en": "South Sudan",
+        "확진자수": 2007,
+        "사망자수": 38,
+        "완치자수": 279
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
@@ -863,14 +871,6 @@ var marker = [
         "확진자수": 1989,
         "사망자수": 69,
         "완치자수": 1829
-    },
-    {
-        "Name": "South Sudan",
-        "Name_ch": "",
-        "Name_en": "South Sudan",
-        "확진자수": 1989,
-        "사망자수": 36,
-        "완치자수": 246
     },
     {
         "Name": "Iceland",
@@ -1332,9 +1332,9 @@ var marker = [
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "확진자수": 199,
+        "확진자수": 200,
         "사망자수": 1,
-        "완치자수": 189
+        "완치자수": 191
     },
     {
         "Name": "Faeroe Islands",

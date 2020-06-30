@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
     },
     {
+        "title": "미 다우, 2분기 17.8% 뛰었다…코로나 우려 덮은 경제지표",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007010016&t=NN"
+    },
+    {
         "title": "전국 첫 교내 전파…대전 초등학교서 확진자 동급생 2명 확진(종합2보)",
         "link": "http://yna.kr/AKR20200630047352063?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 국내 코로나19 확진자 43명 추가...지역발생 23명",
         "link": "https://www.sedaily.com/NewsView/1Z487Z5YX9"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     }
 ];

@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "NY, NJ and CT expand quarantine advisories for travelers from 8 more states with high coronavirus rates",
-        "link": "https://www.cnn.com/2020/06/30/politics/travel-advisory-coronavirus-new-york-new-jersey-connecticut-massachusetts/index.html"
+        "title": "Coronavirus Live Updates: Fauci Warns U.S. Could Hit 100,000 Daily Cases if Surge Continues",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
         "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
