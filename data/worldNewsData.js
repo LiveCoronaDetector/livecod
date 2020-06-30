@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "Coronavirus Live Updates: Fauci Warns U.S. Could Hit 100,000 Daily Cases if Surge Continues",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Dr. Anthony Fauci: U.S. coronavirus outbreak could top 100000 new cases a day",
+        "link": "https://www.youtube.com/watch?v=MR73uTTVof0"
     },
     {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
