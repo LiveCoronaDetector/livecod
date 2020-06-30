@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200630047352063?did=1195m"
     },
     {
-        "title": "코로나 신규 확진 43명…지역감염 지속·해외유입 증가(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/30/2020063001465.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "서울서 코로나19 확진자 7명 늘어…총 1319명",
         "link": "https://www.hankyung.com/society/article/2020063073957"
+    },
+    {
+        "title": "코로나 신규 확진 43명…지역감염 지속·해외유입 증가(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/30/2020063001465.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
