@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-53218704"
     },
     {
-        "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
+        "title": "WHO warns coronavirus pandemic is speeding up as countries ease lockdown rules: 'The worst is yet to come'",
+        "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
     },
     {
         "title": "The coronavirus is mutating - The Washington Post",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
-        "title": "Gave befitting reply in Ladakh: PM",
-        "link": "https://www.tribuneindia.com/news/nation/gave-befitting-reply-in-ladakh-pm-105964"
+        "title": "Indian Prime Minister Narendra Modi to Address the Nation on Tuesday",
+        "link": "https://www.nytimes.com/reuters/2020/06/29/world/asia/29reuters-india-modi.html"
     }
 ];
