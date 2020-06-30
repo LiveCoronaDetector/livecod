@@ -17,16 +17,16 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A202006291333000052?did=NA"
     },
     {
-        "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[쇼맥] 코로나 블루 누적…심리방역도 체계적으로",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4482209&ref=A"
     },
     {
-        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "전세계 확진자 1천만명 넘어 … 한국 '해외유입' 5.86명 →15.4명 급증",

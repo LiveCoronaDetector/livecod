@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/coronavirus-cases-hit-10-million-as-outbreaks-surge-in-the-us-brazil-and-india/"
     },
     {
-        "title": "China locks down county amid coronavirus surge linked to Beijing market",
-        "link": "https://www.foxnews.com/world/china-locks-down-county-amid-coronavirus-surge-linked-to-beijing-market"
+        "title": "As coronavirus spikes in US, China locks down 400,000 people ... over 18 cases",
+        "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
     },
     {
         "title": "The coronavirus is mutating - The Washington Post",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
     },
     {
-        "title": "World Health Organization warns pandemic is “speeding up”",
-        "link": "https://www.cbsnews.com/video/world-health-organization-warns-pandemic-is-speeding-up/"
+        "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
+        "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
         "title": "Coronavirus update: Global COVID-19 case tally tops 10 million and Florida, South Carolina and Nevada set daily records",
