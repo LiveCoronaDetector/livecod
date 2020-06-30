@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
-    },
-    {
         "title": "WHO warns coronavirus pandemic is speeding up as countries ease lockdown rules: 'The worst is yet to come'",
         "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
     },
     {
-        "title": "Live updates: Arizona’s hospitalizations hit record high as WHO warns that coronavirus outbreak is far from over",
-        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
+        "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
+        "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
+    },
+    {
+        "title": "Coronavirus update: Global COVID-19 case tally tops 10 million and Florida, South Carolina and Nevada set daily records",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-covid-19-case-tally-tops-10-million-and-florida-south-carolina-and-nevada-set-daily-records-2020-06-29"
     }
 ];
