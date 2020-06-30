@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "Some US states return to previous restrictions to slow surge of coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/29/health/us-coronavirus-monday/index.html"
+        "title": "CDC says U.S. has 'way too much virus' to control pandemic as cases surge across country",
+        "link": "https://www.cnbc.com/2020/06/29/cdc-says-us-has-way-too-much-virus-to-control-pandemic-as-cases-surge-across-country.html"
     },
     {
         "title": "5 things to know for June 29: Coronavirus, Russia, police reform, Facebook, Pakistan",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53151308"
     },
     {
-        "title": "China locks down county amid coronavirus surge linked to Beijing market",
-        "link": "https://www.foxnews.com/world/china-locks-down-county-amid-coronavirus-surge-linked-to-beijing-market"
+        "title": "Flu virus with 'pandemic potential' found in China",
+        "link": "https://www.bbc.com/news/health-53218704"
     },
     {
         "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
     },
     {
-        "title": "The coronavirus is mutating - The Washington Post",
-        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
+        "title": "Live updates: Reopening grinds to a halt as Sunbelt states witness surge in coronavirus hospitalizations",
+        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
     },
     {
         "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
         "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
-        "title": "World Health Organization warns pandemic is “speeding up”",
-        "link": "https://www.cbsnews.com/video/world-health-organization-warns-pandemic-is-speeding-up/"
+        "title": "The coronavirus is mutating - The Washington Post",
+        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     }
 ];

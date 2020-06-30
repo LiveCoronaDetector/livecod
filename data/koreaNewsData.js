@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/30/2020063001465.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보] WHO \"코로나19 종식 근처도 못 가…최악 아직 안왔다\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300083&t=NN"
+    },
+    {
         "title": "코로나 신규 확진자 43명...강원·충북에서도 발생",
         "link": "http://www.hani.co.kr/arti/society/health/951546.html"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 43명···지역발생 23명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006301019011&code=940100"
-    },
-    {
-        "title": "[속보] '코로나19' 43명 늘어 1만2800명…지역 23명·해외유입 20명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300169&t=NN"
+        "title": "신규 확진자 이틀째 40명 대…지역발생 23명·해외유입 20명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4482763&ref=A"
     },
     {
         "title": "서울시 민주노총에 집회 자제 촉구…\"확진자 발생시 구상권 청구\"(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02686326625806968"
     },
     {
-        "title": "WHO \"코로나19 최악 아직 안 왔다\"",
-        "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
+        "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "광주 확진자 3명, 다단계 사무실로 알려진 오피스텔서 모임(종합)",
