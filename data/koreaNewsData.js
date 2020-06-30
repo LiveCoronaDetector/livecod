@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/30/2020063001465.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5370139"
-    },
-    {
         "title": "대전서 기존 확진자 접촉한 2명 코로나19 확진…보름새 71명째(종합)",
         "link": "http://yna.kr/AKR20200630047351063?did=1195m"
     },
@@ -21,6 +17,10 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5370139"
+    },
+    {
         "title": "종교모임 관련 확진자 잇따라…왕성교회 31명·광륵사 14명 [종합]",
         "link": "https://www.hankyung.com/society/article/2020063058707"
     },
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202006301605455116"
     },
     {
+        "title": "“코로나19와의 장기전…정점을 향해가고 있다”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483061&ref=A"
+    },
+    {
         "title": "인천공항 입국 카자흐스탄인 2명 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20200630096551065?did=1195m"
     },
     {
         "title": "코로나 신규 확진자 43명...강원·충북에서도 발생",
         "link": "http://www.hani.co.kr/arti/society/health/951546.html"
-    },
-    {
-        "title": "호주, 멜버른 10개 지역 대상 코로나19 2차 봉쇄령(종합)",
-        "link": "http://yna.kr/AKR20200630103951093?did=1195m"
     }
 ];

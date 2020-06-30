@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
-        "title": "Live updates: Reopening grinds to a halt as Sunbelt states witness surge in coronavirus hospitalizations",
-        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
+        "title": "Indian Prime Minister Narendra Modi to Address the Nation on Tuesday",
+        "link": "https://www.nytimes.com/reuters/2020/06/29/world/asia/29reuters-india-modi.html"
     }
 ];
