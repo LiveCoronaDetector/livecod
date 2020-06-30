@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
-        "title": "WHO warns coronavirus pandemic is speeding up as countries ease lockdown rules: 'The worst is yet to come'",
-        "link": "https://www.cnbc.com/2020/06/29/who-warns-coronavirus-pandemic-is-speeding-up-as-countries-ease-lockdown-rules.html"
+        "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
     },
     {
-        "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
-        "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus update: Global COVID-19 case tally tops 10 million and Florida, South Carolina and Nevada set daily records",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-covid-19-case-tally-tops-10-million-and-florida-south-carolina-and-nevada-set-daily-records-2020-06-29"
+        "title": "June 29 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
     }
 ];
