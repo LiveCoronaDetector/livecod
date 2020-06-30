@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "People with coronavirus are crossing the US-Mexico border for medical care",
-        "link": "https://www.cnn.com/2020/06/29/health/border-hospitals-coronavirus/index.html"
+        "title": "Some US states return to previous restrictions to slow surge of coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/29/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "5 things to know for June 29: Coronavirus, Russia, police reform, Facebook, Pakistan",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/coronavirus-cases-hit-10-million-as-outbreaks-surge-in-the-us-brazil-and-india/"
     },
     {
-        "title": "As coronavirus spikes in US, China locks down 400,000 people ... over 18 cases",
-        "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
+        "title": "Flu virus with 'pandemic potential' found in China",
+        "link": "https://www.bbc.com/news/health-53218704"
     },
     {
         "title": "The coronavirus is mutating - The Washington Post",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
     },
     {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
+        "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
+        "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
-        "title": "June 29 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
+        "title": "Live updates: As coronavirus spikes, Kansas and Oregon order face masks; Arizona closes bars, gyms, theaters",
+        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
     }
 ];
