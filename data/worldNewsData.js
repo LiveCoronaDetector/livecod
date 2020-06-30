@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53151308"
     },
     {
-        "title": "China locks down county amid coronavirus surge linked to Beijing market",
-        "link": "https://www.foxnews.com/world/china-locks-down-county-amid-coronavirus-surge-linked-to-beijing-market"
-    },
-    {
-        "title": "New York Announces Lowest Number Of Hospitalizations During The Pandemic",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/884860049/new-york-announces-lowest-number-of-hospitalizations-during-the-pandemic"
+        "title": "As coronavirus spikes in US, China locks down 400,000 people ... over 18 cases",
+        "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
     },
     {
         "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
         "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
+    },
+    {
+        "title": "Gave befitting reply in Ladakh: PM",
+        "link": "https://www.tribuneindia.com/news/nation/gave-befitting-reply-in-ladakh-pm-105964"
     }
 ];
