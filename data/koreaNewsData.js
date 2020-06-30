@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/30/2020063001465.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5370139"
-    },
-    {
         "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "호주, 멜버른 10개 지역 대상 코로나19 2차 봉쇄령(종합)",
-        "link": "http://yna.kr/AKR20200630103951093?did=1195m"
+        "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5370139"
+    },
+    {
+        "title": "확진자 급증 속 印 봉쇄 해제 2단계 실시…해제 속도는 조절(종합)",
+        "link": "http://yna.kr/AKR20200630105651077?did=1195m"
     },
     {
         "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483061&ref=A"
     },
     {
-        "title": "인천공항 입국 카자흐스탄인 2명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200630096551065?did=1195m"
+        "title": "호주, 멜버른 10개 지역 대상 코로나19 2차 봉쇄령(종합)",
+        "link": "http://yna.kr/AKR20200630103951093?did=1195m"
     },
     {
-        "title": "코로나 신규 확진자 43명...강원·충북에서도 발생",
-        "link": "http://www.hani.co.kr/arti/society/health/951546.html"
+        "title": "인천공항 입국 카자흐스탄인 2명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200630096551065?did=1195m"
     }
 ];

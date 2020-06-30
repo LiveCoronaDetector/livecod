@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "Coronavirus-hit Arizona reverses course on reopening",
-        "link": "https://www.bbc.com/news/world-us-canada-53229560"
+        "title": "More Americans, especially Republicans, say coronavirus outbreak exaggerated, poll finds",
+        "link": "https://www.foxnews.com/us/americans-republicans-coronavirus-outbreak-exaggerated"
     },
     {
         "title": "‘It’s frightening’: Doctors say half of ‘cured’ COVID patients still suffer",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
-        "title": "As coronavirus spikes, Kansas and Oregon order face masks; Arizona closes bars, gyms, theaters",
+        "title": "Live updates: Reopening grinds to a halt as coronavirus hospitalizations surge in Sun Belt states",
         "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
     }
 ];

@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.jndn.com/article.php?aid=1593513333302854001"
     },
     {
+        "title": "광주서 코로나 45번 확진자 발생…70대 여성, 2차 검사 중",
+        "link": "https://www.news1.kr/articles/?3981478"
+    },
+    {
         "title": "‘제주도 여행 이력’ 70대 여성 병원에서 확진…광주·전남 확진자 16명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483133&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "계속되는 광륵사발 확진자 발생…광주·전남 나흘 간 16명 확진",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483138&ref=A"
-    },
-    {
-        "title": "코로나19 사태에 여행 시장 '플렉스' 지고 '힐링' 떴다",
-        "link": "http://www.inews24.com/view/1277350"
     }
 ];
