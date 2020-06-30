@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-53218704"
     },
     {
-        "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
+        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-worst-yet-to-come-world-health-organization/"
     },
     {
         "title": "The coronavirus is mutating - The Washington Post",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
-        "title": "World Health Organization warns pandemic is “speeding up”",
-        "link": "https://www.cbsnews.com/video/world-health-organization-warns-pandemic-is-speeding-up/"
+        "title": "Live updates: Reopening grinds to a halt as Sunbelt states witness surge in coronavirus hospitalizations",
+        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
     }
 ];
