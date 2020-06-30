@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006301019011&code=940100"
     },
     {
-        "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "대전서 기존 확진자 접촉한 2명 코로나19 확진…보름새 71명째(종합)",
-        "link": "http://yna.kr/AKR20200630047351063?did=1195m"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
-    },
-    {
         "title": "[속보] '코로나19' 43명 늘어 1만2800명…지역 23명·해외유입 20명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300169&t=NN"
     },
     {
-        "title": "서울 코로나19 확진자 7명 추가…총 1312명",
-        "link": "https://view.asiae.co.kr/article/2020062919380132350"
+        "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "서울시 민주노총에 집회 자제 촉구…\"확진자 발생시 구상권 청구\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02686326625806968"
+    },
+    {
+        "title": "광주 확진자 3명, 다단계 사무실로 알려진 오피스텔서 모임(종합)",
+        "link": "http://yna.kr/AKR20200629103754054?did=1195m"
     },
     {
         "title": "서울 확진자 7명 늘어 1312명…\"민주노총 집회자제 권고\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200630_0001077994&cID=14001&pID=14000"
+    },
+    {
+        "title": "인니서 한국인 첫 코로나19 확진자 발생…현대엔지니어링 인력(종합)",
+        "link": "http://yna.kr/AKR20200630092451104?did=1195m"
     }
 ];
