@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03191446625806968"
     },
     {
-        "title": "신규 확진자 이틀째 40명 대…지역발생 23명·해외유입 20명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4482763&ref=A"
+        "title": "[속보] 국내 코로나19 확진자 43명 추가...지역발생 23명",
+        "link": "https://www.sedaily.com/NewsView/1Z487Z5YX9"
     },
     {
-        "title": "대전서 기존 확진자 접촉한 2명 코로나19 확진…보름새 71명째(종합)",
-        "link": "http://yna.kr/AKR20200630047351063?did=1195m"
+        "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
     }
 ];

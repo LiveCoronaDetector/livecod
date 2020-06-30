@@ -9,8 +9,8 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5370139"
     },
     {
-        "title": "광주 45번 확진자, 2박3일 제주여행 첫 날부터 유증상",
-        "link": "https://www.news1.kr/articles/?3981853"
+        "title": "[1보]광주시 확진자 A씨, 코로나19 확진 전제주여행",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166846"
     },
     {
         "title": "광주 코로나19 확진자 제주 관광했다…배편으로 입·출도",
@@ -21,8 +21,16 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200630_0001078556&cID=10201&pID=10200"
     },
     {
+        "title": "광주서 50대 요양보호사 코로나19 확진…방역 비상",
+        "link": "https://www.news1.kr/articles/?3981807"
+    },
+    {
         "title": "‘또 확진…’ 광주·전남 나흘 새 코로나19 확진자 17명 발생",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483382&ref=A"
+    },
+    {
+        "title": "코로나19 확산 방지에 전국 해수욕장, 손목밴드·QR코드 등장",
+        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4200105"
     },
     {
         "title": "광주 45번째 확진자··· 제주 다녀온 70대女",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나 ‘양성’ 광주 70대 여성, 재검사서 최종 ‘확진’",
         "link": "https://view.asiae.co.kr/article/2020063018120559136"
-    },
-    {
-        "title": "광주서 50대 요양보호사 코로나19 확진…방역 비상",
-        "link": "https://www.news1.kr/articles/?3981807"
-    },
-    {
-        "title": "코로나19 확산 방지에 전국 해수욕장, 손목밴드·QR코드 등장",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4200105"
     }
 ];

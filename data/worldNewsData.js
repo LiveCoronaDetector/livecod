@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus: Swift and dangerous turn in Texas cases, says governor",
-        "link": "https://www.bbc.com/news/world-us-canada-53215501"
+        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     },
     {
         "title": "Coronavirus live updates: Greece faces 'huge difficulties' when flights resume; Toronto makes masks mandatory",
         "link": "https://www.theguardian.com/world/live/2020/jun/30/coronavirus-live-updates-news-who-team-to-search-for-covid-19-origin-in-china-as-chief-says-he-fears-worst-to-come"
     },
     {
-        "title": "Americans will remain barred from European travel as the EU gradually reopens its borders",
-        "link": "https://www.cnbc.com/2020/06/30/americans-to-remain-barred-from-european-travel.html"
+        "title": "Italy was a cautionary tale. Now, it's returning to normal",
+        "link": "https://www.cnn.com/videos/world/2020/06/30/italy-reopening-us-coronavirus-surge-wedeman-pkg-ebof-vpx.cnn"
     },
     {
         "title": "Modi says India's coronavirus spread at critical juncture – Live",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-53218704"
     },
     {
-        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
+        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "Coronavirus: Worst could be yet to come, WHO warns",
-        "link": "https://www.bbc.com/news/world-53227219"
+        "title": "Coronavirus: US officials warn 'this is just the beginning'",
+        "link": "https://www.bbc.com/news/world-us-canada-53237824"
     },
     {
         "title": "The coronavirus is mutating - The Washington Post",
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
-        "title": "CDC says U.S. has 'way too much virus' to control pandemic as cases surge across country",
-        "link": "https://www.cnbc.com/2020/06/29/cdc-says-us-has-way-too-much-virus-to-control-pandemic-as-cases-surge-across-country.html"
+        "title": "Live Coronavirus News Updates",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     }
 ];
