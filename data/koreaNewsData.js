@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/30/2020063001465.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 43명···지역발생 23명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006301019011&code=940100"
-    },
-    {
         "title": "코로나 신규 확진자 43명...강원·충북에서도 발생",
         "link": "http://www.hani.co.kr/arti/society/health/951546.html"
     },
@@ -17,8 +13,8 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
     },
     {
-        "title": "[속보] '코로나19' 43명 늘어 1만2800명…지역 23명·해외유입 20명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300169&t=NN"
+        "title": "[속보]코로나19 신규 확진자 43명···지역발생 23명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006301019011&code=940100"
     },
     {
         "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "[속보]코로나19 신규 확진자 42명···지역발생 30명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202006291014001&code=940601"
+    },
+    {
+        "title": "[속보] '코로나19' 43명 늘어 1만2800명…지역 23명·해외유입 20명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300169&t=NN"
     },
     {
         "title": "서울 코로나19 확진자 7명 추가…총 1312명",

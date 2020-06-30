@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53151308"
     },
     {
-        "title": "Coronavirus live updates: WHO team to search for Covid-19 origin in China as chief says he fears 'worst to come'",
-        "link": "https://www.theguardian.com/world/live/2020/jun/30/coronavirus-live-updates-news-who-team-to-search-for-covid-19-origin-in-china-as-chief-says-he-fears-worst-to-come"
+        "title": "Flu virus with 'pandemic potential' found in China",
+        "link": "https://www.bbc.com/news/health-53218704"
     },
     {
         "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     },
     {
-        "title": "June 29 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html"
+        "title": "More than 500,000 people have been killed by Covid-19. A quarter of them are Americans",
+        "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
-        "title": "Live updates: As coronavirus spikes, Kansas and Oregon order face masks; Arizona closes bars, gyms, theaters",
-        "link": "https://www.washingtonpost.com/nation/2020/06/29/coronavirus-live-updates-us/"
+        "title": "World Health Organization warns pandemic is “speeding up”",
+        "link": "https://www.cbsnews.com/video/world-health-organization-warns-pandemic-is-speeding-up/"
     }
 ];
