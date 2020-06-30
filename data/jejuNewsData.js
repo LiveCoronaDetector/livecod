@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5370139"
     },
     {
-        "title": "광주시 코로나19 확진자, 배편으로 2박3일 제주여행 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421164"
-    },
-    {
         "title": "광주 45번 확진자, 2박3일 제주여행 첫 날부터 유증상",
         "link": "https://www.news1.kr/articles/?3981853"
     },
     {
         "title": "광주 코로나19 확진자 제주 관광했다…배편으로 입·출도",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300436&t=NN"
+    },
+    {
+        "title": "광주 코로나19 확진자, 배편으로 2박3일 제주여행 확인",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421164"
     },
     {
         "title": "제주도 다녀온 광주 북구 70대 주민, 코로나 1차 양성반응",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483382&ref=A"
     },
     {
-        "title": "광주시 확진자 A씨 코로나19 확진 전 제주여행",
-        "link": "http://www.ihalla.com/read.php3?aid=1593523614686415073"
-    },
-    {
         "title": "광주 45번째 확진자··· 제주 다녀온 70대女",
         "link": "http://www.honam.co.kr/detail/c3QycN/607218"
     },
     {
         "title": "코로나 ‘양성’ 광주 70대 여성, 재검사서 최종 ‘확진’",
         "link": "https://view.asiae.co.kr/article/2020063018120559136"
+    },
+    {
+        "title": "광주서 50대 요양보호사 코로나19 확진…방역 비상",
+        "link": "https://www.news1.kr/articles/?3981807"
     }
 ];

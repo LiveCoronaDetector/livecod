@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483322&ref=A"
     },
     {
-        "title": "[속보] 금산서 첫 코로나19 확진자 발생",
-        "link": "https://www.hankyung.com/society/article/2020063076517"
+        "title": "서울서 코로나19 확진자 7명 늘어…총 1319명",
+        "link": "https://www.hankyung.com/society/article/2020063073957"
+    },
+    {
+        "title": "[속보]우려가 현실로, 학교갔다 같은반 친구에게 코로나 옮았다",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/30/2020063005138.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5370139"
-    },
-    {
         "title": "대전 다단계發 코로나 재확산…학교까지 확진자 속출",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03191446625806968"
     },
     {
-        "title": "'지역확산에서 깜깜이 감염까지'…광주 45번 확진자 추가(종합)",
-        "link": "http://yna.kr/AKR20200630179300054?did=1195m"
+        "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5370139"
     },
     {
         "title": "수도권 교회 중심 확진자 최소 62명...\"강제 조치 검토\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202006301605455116"
     },
     {
-        "title": "코로나19 서울 확진자 오늘 7명 늘어…누계 1천319명",
-        "link": "http://yna.kr/AKR20200630197000004?did=1195m"
+        "title": "광주 확진자 3명, 다단계 사무실로 알려진 오피스텔서 모임(종합)",
+        "link": "http://yna.kr/AKR20200629103754054?did=1195m"
     },
     {
-        "title": "호주, 멜버른 10개 지역 대상 코로나19 2차 봉쇄령(종합)",
-        "link": "http://yna.kr/AKR20200630103951093?did=1195m"
+        "title": "[속보] 대전 확진 초등생 접촉 동급생 2명 코로나19 감염…전국 첫 교내 확산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020063022440584043"
     }
 ];
