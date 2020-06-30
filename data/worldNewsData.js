@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "More Americans, especially Republicans, say coronavirus outbreak exaggerated, poll finds",
-        "link": "https://www.foxnews.com/us/americans-republicans-coronavirus-outbreak-exaggerated"
+        "title": "Coronavirus-hit Arizona reverses course on reopening",
+        "link": "https://www.bbc.com/news/world-us-canada-53229560"
     },
     {
         "title": "‘It’s frightening’: Doctors say half of ‘cured’ COVID patients still suffer",
@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-worst-yet-to-come-world-health-organization/"
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
         "title": "The coronavirus is mutating - The Washington Post",

@@ -9,20 +9,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200630179300054?did=1195m"
     },
     {
-        "title": "제주도 다녀온 광주 북구 70대 주민, 코로나 1차 양성반응",
-        "link": "http://www.newsis.com/view/?id=NISX20200630_0001078556&cID=10201&pID=10200"
-    },
-    {
-        "title": "코로나19 확산 방지에 전국 해수욕장, 손목밴드·QR코드 등장",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4200105"
-    },
-    {
         "title": "[전문] 광주광역시청 45번째 확진자 발생...제주도 여행",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=370283"
-    },
-    {
-        "title": "코로나19 지역사회 감염 확산",
-        "link": "http://www.jndn.com/article.php?aid=1593513333302854001"
     },
     {
         "title": "광주서 코로나 45번 확진자 발생…70대 여성, 2차 검사 중",
@@ -37,7 +25,19 @@ var jejuNewsData = [
         "link": "http://www.honam.co.kr/detail/0kIA7d/607243"
     },
     {
-        "title": "계속되는 광륵사발 확진자 발생…광주·전남 나흘 간 16명 확진",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483138&ref=A"
+        "title": "광주 확진자 감염경로 ‘미궁’…‘조용한 확산’ 우려",
+        "link": "http://www.kjdaily.com/read.php3?aid=1593514553515945005"
+    },
+    {
+        "title": "'다단계에서 병원까지' 대량확산 우려…광주 확진자 2명 추가(종합2보)",
+        "link": "http://yna.kr/AKR20200630179351054?did=1195m"
+    },
+    {
+        "title": "제주도 다녀온 광주 북구 70대 주민, 코로나 1차 양성반응",
+        "link": "http://www.newsis.com/view/?id=NISX20200630_0001078556&cID=10201&pID=10200"
+    },
+    {
+        "title": "코로나19 확산 방지에 전국 해수욕장, 손목밴드·QR코드 등장",
+        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4200105"
     }
 ];
