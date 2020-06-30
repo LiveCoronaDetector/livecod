@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200630173851073?did=1195m"
     },
     {
-        "title": "서울서 코로나19 확진자 7명 늘어…총 1319명",
-        "link": "https://www.hankyung.com/society/article/2020063073957"
-    },
-    {
-        "title": "[속보]우려가 현실로, 학교갔다 같은반 친구에게 코로나 옮았다",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/30/2020063005138.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "[종합] 대전 초등학교서 확진자 동급생 2명 확진…전국 첫 교내 확산",
         "link": "https://www.hankyung.com/society/article/2020063079077"
-    },
-    {
-        "title": "'지역확산에서 깜깜이 감염까지'…광주 45번 확진자 추가(종합)",
-        "link": "http://yna.kr/AKR20200630179300054?did=1195m"
-    },
-    {
-        "title": "대전 다단계發 코로나 재확산…학교까지 확진자 속출",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03191446625806968"
-    },
-    {
-        "title": "대전서 기존 확진자 접촉한 2명 코로나19 확진…보름새 71명째(종합)",
-        "link": "http://yna.kr/AKR20200630047351063?did=1195m"
-    },
-    {
-        "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
     },
     {
         "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
         "link": "https://www.nocutnews.co.kr/news/5370139"
     },
     {
-        "title": "수도권 교회 중심 확진자 최소 62명...\"강제 조치 검토\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202006301605455116"
+        "title": "전국 첫 교내 전파…대전 초등학교서 확진자 동급생 2명 확진(종합2보)",
+        "link": "http://yna.kr/AKR20200630047352063?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진 43명…지역감염 지속·해외유입 증가(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/06/30/2020063001465.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "대전 다단계發 코로나 재확산…학교까지 확진자 속출",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03191446625806968"
+    },
+    {
+        "title": "코로나19 서울 확진자 오늘 7명 늘어…누계 1천319명",
+        "link": "http://yna.kr/AKR20200630197000004?did=1195m"
+    },
+    {
+        "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "신규 확진자 이틀째 40명 대…지역발생 23명·해외유입 20명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4482763&ref=A"
+    },
+    {
+        "title": "대전서 기존 확진자 접촉한 2명 코로나19 확진…보름새 71명째(종합)",
+        "link": "http://yna.kr/AKR20200630047351063?did=1195m"
     }
 ];

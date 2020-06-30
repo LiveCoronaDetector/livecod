@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/its-frightening-doctors-say-half-of-cured-covid-patients-still-suffer/"
     },
     {
-        "title": "Italy was a cautionary tale. Now, it's returning to normal",
-        "link": "https://www.cnn.com/videos/world/2020/06/30/italy-reopening-us-coronavirus-surge-wedeman-pkg-ebof-vpx.cnn"
+        "title": "European Union bars travelers from U.S. citing coronavirus concerns",
+        "link": "https://www.nbcnews.com/news/world/european-union-bars-travelers-u-s-citing-coronavirus-concerns-n1232333"
     },
     {
-        "title": "India's first COVID-19 vaccine candidate cleared for human trials",
-        "link": "https://www.aljazeera.com/news/2020/06/india-covid-19-vaccine-candidate-cleared-human-trials-200630030355733.html"
+        "title": "Coronavirus: Secrecy surrounds India PM Narendra Modi's '$1bn' Covid-19 fund",
+        "link": "https://www.bbc.com/news/world-asia-india-53151308"
     },
     {
         "title": "Flu virus with 'pandemic potential' found in China",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "The coronavirus is mutating - The Washington Post",
-        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
+        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     },
     {
-        "title": "Live Coronavirus News Updates: Fauci to Testify",
+        "title": "Live Coronavirus News Updates: E.U. Will Bar Americans",
         "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Live updates: Fauci to testify to Senate committee on reopening schools amid coronavirus surge",
-        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
+        "title": "The coronavirus is mutating - The Washington Post",
+        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     }
 ];
