@@ -9,24 +9,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951546.html"
     },
     {
-        "title": "WHO \"코로나19 최악 아직 안 왔다\"",
-        "link": "https://www.ytn.co.kr/_ln/0104_202006300923154339"
-    },
-    {
-        "title": "[속보] '코로나19' 43명 늘어 1만2800명…지역 23명·해외유입 20명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300169&t=NN"
-    },
-    {
-        "title": "신규 확진자 이틀째 40명 대…지역발생 23명·해외유입 20명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4482763&ref=A"
-    },
-    {
-        "title": "서울시 민주노총에 집회 자제 촉구…\"확진자 발생시 구상권 청구\"(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02686326625806968"
-    },
-    {
-        "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "방역당국 \"안전한 곳 없어…누구든 확진자·격리자 될 수 있어\"",
+        "link": "http://yna.kr/AKR20200630146800530?did=1195m"
     },
     {
         "title": "종교모임 관련 확진자 잇따라…왕성교회 31명·광륵사 14명 [종합]",
@@ -37,7 +21,23 @@ var koreaNewsData = [
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/06/30/2020063080167.html"
     },
     {
-        "title": "인니서 한국인 첫 코로나19 확진자 발생…현대엔지니어링 인력(종합)",
-        "link": "http://yna.kr/AKR20200630092451104?did=1195m"
+        "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "이용섭 광주시장, 코로나19 브리핑…확진자 세부 동선(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=576176"
+    },
+    {
+        "title": "대전 다단계發 코로나 재확산…학교까지 확진자 속출",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03191446625806968"
+    },
+    {
+        "title": "인천공항 입국 카자흐스탄인 2명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200630096551065?did=1195m"
+    },
+    {
+        "title": "신규 확진자 이틀째 40명 대…지역발생 23명·해외유입 20명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4482763&ref=A"
     }
 ];

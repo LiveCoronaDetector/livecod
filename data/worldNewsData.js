@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53151308"
     },
     {
-        "title": "As coronavirus spikes in US, China locks down 400,000 people ... over 18 cases",
-        "link": "https://www.cnn.com/2020/06/29/asia/china-coronavirus-lockdown-hebei-intl-hnk/index.html"
+        "title": "Flu virus with 'pandemic potential' found in China",
+        "link": "https://www.bbc.com/news/health-53218704"
     },
     {
         "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",

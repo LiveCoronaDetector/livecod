@@ -5,39 +5,39 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200629109100065?did=1195m"
     },
     {
-        "title": "제주 다녀온 광주 70대 코로나19 1차 양성…2차 검사의뢰",
-        "link": "http://yna.kr/AKR20200630149000054?did=1195m"
+        "title": "광주광역시 북구 거주 70대 코로나19 1차 양성…2차 검사의뢰",
+        "link": "http://www.ajunews.com/view/20200630154159096"
     },
     {
-        "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
-        "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
-    },
-    {
-        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "제주도 다녀온 광주 북구 70대 주민, 코로나 1차 양성반응",
+        "link": "http://www.newsis.com/view/?id=NISX20200630_0001078556&cID=10201&pID=10200"
     },
     {
         "title": "코로나19 사태에 여행 시장 '플렉스' 지고 '힐링' 떴다",
         "link": "http://www.inews24.com/view/1277350"
     },
     {
+        "title": "광주 70대女 코로나19 1차 '양성'··· 45번째",
+        "link": "http://www.honam.co.kr/detail/c3QycN/607206"
+    },
+    {
+        "title": "광주 70대 여성 코로나19 ‘양성’…보건연서 재검사 중",
+        "link": "https://view.asiae.co.kr/article/2020063016231269189"
+    },
+    {
+        "title": "제주서 ‘시설 격리’ 20대女 숨진 채 발견…확진자와 비행기 접촉",
+        "link": "https://www.donga.com/news/article/all/20200622/101624815/2"
+    },
+    {
         "title": "[쇼맥] 코로나 블루 누적…심리방역도 체계적으로",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4482209&ref=A"
     },
     {
-        "title": "[36.5˚C] 코로나19 한가하게 있다가 당한다",
-        "link": "https://hankookilbo.com/News/Read/A202006291333000052?did=NA"
+        "title": "강남구 코로나 확진자, 제주도에서 패키지 관광",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "제주서 자가격리 중 숨진 20대 女 코로나 음성 판정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/06/22/2020062203277.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "전세계 확진자 1천만명 넘어 … 한국 '해외유입' 5.86명 →15.4명 급증",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=337438"
-    },
-    {
-        "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
-        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
     }
 ];
