@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/06/19/2020061904459.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "전세계 확진자 1천만명 넘어 … 한국 '해외유입' 5.86명 →15.4명 급증",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=337438"
+    },
+    {
         "title": "코로나19로 길어지는 여행·관광업 '보릿고개'",
         "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=165237"
     },
     {
         "title": "해열제 10알 먹고 제주여행 강행한 확진자… 제주도, 손배소 제기",
         "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200126"
-    },
-    {
-        "title": "제주서 자가격리 코로나19 접촉자 극단적 선택",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005846736&plink=ORI&cooper=NAVER"
     }
 ];
