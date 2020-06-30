@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus: US officials warn 'this is just the beginning'",
+        "title": "Coronavirus: Fauci warns of 100,000 US cases per day",
         "link": "https://www.bbc.com/news/world-us-canada-53237824"
     },
     {
-        "title": "Coronavirus live updates: Greece faces 'huge difficulties' when flights resume; Toronto makes masks mandatory",
-        "link": "https://www.theguardian.com/world/live/2020/jun/30/coronavirus-live-updates-news-who-team-to-search-for-covid-19-origin-in-china-as-chief-says-he-fears-worst-to-come"
+        "title": "‘It’s frightening’: Doctors say half of ‘cured’ COVID patients still suffer",
+        "link": "https://www.timesofisrael.com/its-frightening-doctors-say-half-of-cured-covid-patients-still-suffer/"
     },
     {
         "title": "One graphic explains why Americans are facing an EU travel ban",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-53218704"
     },
     {
+        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
+    },
+    {
         "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
         "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/29/cdc-says-us-has-way-too-much-virus-to-control-pandemic-as-cases-surge-across-country.html"
     },
     {
-        "title": "WHO Chief On COVID-19 Pandemic: 'The Worst Is Yet To Come'",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/29/885049691/who-chief-on-covid-19-pandemic-the-worst-is-yet-to-come"
-    },
-    {
-        "title": "The coronavirus is mutating - The Washington Post",
-        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
+        "title": "Live Coronavirus News Updates",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     }
 ];
