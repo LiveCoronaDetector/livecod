@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300436&t=NN"
     },
     {
-        "title": "광주 코로나19 확진자, 배편으로 2박3일 제주여행 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421164"
-    },
-    {
         "title": "제주도 다녀온 광주 북구 70대 주민, 코로나 1차 양성반응",
         "link": "http://www.newsis.com/view/?id=NISX20200630_0001078556&cID=10201&pID=10200"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "광주서 50대 요양보호사 코로나19 확진…방역 비상",
         "link": "https://www.news1.kr/articles/?3981807"
+    },
+    {
+        "title": "코로나19 확산 방지에 전국 해수욕장, 손목밴드·QR코드 등장",
+        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4200105"
     }
 ];
