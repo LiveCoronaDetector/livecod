@@ -9,35 +9,35 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200630179300054?did=1195m"
     },
     {
-        "title": "[속보] 광주 코로나 확진자 제주서 관광…“22일부터 기력저하”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200630500236&wlog_tag3=naver"
+        "title": "광주 코로나19 확진자 제주 관광했다…배편으로 입·출도",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300436&t=NN"
     },
     {
-        "title": "[1보]광주시 확진자 A씨, 코로나19 확진 전제주여행",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166846"
-    },
-    {
-        "title": "광주 코로나19 확진자 제주서 관광…배편으로 입·출도",
-        "link": "http://yna.kr/AKR20200630210500056?did=1195m"
+        "title": "광주 45번 확진자, 2박3일 제주여행 첫 날부터 유증상",
+        "link": "https://www.news1.kr/articles/?3981853"
     },
     {
         "title": "제주도 다녀온 광주 북구 70대 주민, 코로나 1차 양성반응",
         "link": "http://www.newsis.com/view/?id=NISX20200630_0001078556&cID=10201&pID=10200"
     },
     {
-        "title": "광주서 50대 요양보호사 코로나19 확진…방역 비상",
-        "link": "https://www.news1.kr/articles/?3981807"
-    },
-    {
-        "title": "코로나19 확산 방지에 전국 해수욕장, 손목밴드·QR코드 등장",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4200105"
-    },
-    {
-        "title": "코로나19 지역사회 감염 확산",
-        "link": "http://www.jndn.com/article.php?aid=1593513333302854001"
+        "title": "[속보] 광주 코로나 확진자 제주서 관광…“22일부터 기력저하”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200630500236&wlog_tag3=naver"
     },
     {
         "title": "‘제주도 여행 이력’ 70대 여성 병원에서 확진…광주·전남 확진자 16명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483133&ref=A"
+    },
+    {
+        "title": "광주 45번째 확진자··· 제주 다녀온 70대女",
+        "link": "http://www.honam.co.kr/detail/c3QycN/607218"
+    },
+    {
+        "title": "코로나 ‘양성’ 광주 70대 여성, 재검사서 최종 ‘확진’",
+        "link": "https://view.asiae.co.kr/article/2020063018120559136"
+    },
+    {
+        "title": "광주서 50대 요양보호사 코로나19 확진…방역 비상",
+        "link": "https://www.news1.kr/articles/?3981807"
     }
 ];

@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200630047351063?did=1195m"
     },
     {
-        "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "[Pick][Q&A] 코로나 치료제가 공짜라고?…미국은 375만 원",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005860473&plink=ORI&cooper=NAVER"
     },
@@ -23,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "수도권 교회 중심 확진자 최소 62명...\"강제 조치 검토\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202006301605455116"
+    },
+    {
+        "title": "대전시 116번·117번 코로나19 확진자 이동 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002654446&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "“코로나19와의 장기전…정점을 향해가고 있다”",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200630103951093?did=1195m"
     },
     {
-        "title": "'지역확산에서 깜깜이 감염까지'…광주 45번 확진자 추가(종합)",
-        "link": "http://yna.kr/AKR20200630179300054?did=1195m"
+        "title": "코로나19 서울 확진자 오늘 7명 늘어…누계 1천319명",
+        "link": "http://yna.kr/AKR20200630197000004?did=1195m"
     }
 ];
