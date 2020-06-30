@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/06/29/world/africa/Africa-middle-class-coronavirus.html"
     },
     {
-        "title": "Live updates: Reopening grinds to a halt as Sunbelt states witness surge in coronavirus hospitalizations",
-        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
+        "title": "CDC says U.S. has 'way too much virus' to control pandemic as cases surge across country",
+        "link": "https://www.cnbc.com/2020/06/29/cdc-says-us-has-way-too-much-virus-to-control-pandemic-as-cases-surge-across-country.html"
     },
     {
         "title": "5 things to know for June 29: Coronavirus, Russia, police reform, Facebook, Pakistan",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/29/world/coronavirus-death-toll-cases-intl/index.html"
     },
     {
-        "title": "Indian Prime Minister Narendra Modi to Address the Nation on Tuesday",
-        "link": "https://www.nytimes.com/reuters/2020/06/29/world/asia/29reuters-india-modi.html"
+        "title": "World Health Organization warns pandemic is “speeding up”",
+        "link": "https://www.cbsnews.com/video/world-health-organization-warns-pandemic-is-speeding-up/"
     }
 ];
