@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23409359"
     },
     {
-        "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
-        "link": "https://www.nocutnews.co.kr/news/5370904"
-    },
-    {
         "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
         "link": "https://imnews.imbc.com/news/2020/society/article/5827962_32633.html"
+    },
+    {
+        "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
+        "link": "https://www.nocutnews.co.kr/news/5370904"
     },
     {
         "title": "코로나19 확진자 51명…광주 12명·경기 11명·서울 9명",
