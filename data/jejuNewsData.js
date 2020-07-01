@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
-        "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
-    },
-    {
         "title": "광주서 하루새 코로나19 확진자 12명 발생...누적 확진자 56명",
         "link": "http://www.fnnews.com/news/202007010800011547"
     },
@@ -31,6 +27,10 @@ var jejuNewsData = [
     {
         "title": "[1보]광주시 확진자 A씨, 코로나19 확진 전제주여행",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2166846"
+    },
+    {
+        "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
     },
     {
         "title": "광주 코로나19 확진자 제주 관광했다…배편으로 입·출도",
