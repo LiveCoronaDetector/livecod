@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "U.S. Cases Reach New Record",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Live updates: Fauci warns that U.S. is ‘going in the wrong direction’ and could see 100,000 coronavirus cases a day",
+        "link": "https://www.washingtonpost.com/nation/2020/07/01/coronavirus-live-updates-us/"
     },
     {
         "title": "Greece faces 'huge difficulties' when flights resume; 'irregularities' in Slovenia PPE purchase – as it happened",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
+        "title": "U.S. Cases Reach New Record",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
-        "title": "Americans not welcome: E.U. bars U.S. travelers over coronavirus",
-        "link": "https://news.yahoo.com/americans-not-welcome-e-u-133926887.html"
+        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
         "title": "States Pause Plans to Reopen as Cases Soar",
