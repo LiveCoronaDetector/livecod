@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Official U.S. coronavirus death toll is 'a substantial undercount' of actual tally, Yale study finds",
-        "link": "https://www.cnbc.com/2020/07/01/official-us-coronavirus-death-toll-is-a-substantial-undercount-of-actual-tally-new-yale-study-finds.html"
+        "title": "Coronavirus Live Updates: Some States Halt Reopenings and Indoor Dining as Cases Surge",
+        "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
     },
     {
         "title": "Turkey's coronavirus cases surpass 200,000: Live updates",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/07/01/australia-to-lock-down-300000-in-melbourne-suburbs-after-coronavirus-spike/"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-01-20-intl/index.html"
+    },
+    {
         "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Fauci warns of 100,000 US cases per day",
         "link": "https://www.bbc.com/news/world-us-canada-53237824"
-    },
-    {
-        "title": "US buys nearly all global stock of coronavirus drug remdesivir",
-        "link": "https://nypost.com/2020/07/01/us-buys-nearly-all-global-stock-of-coronavirus-drug-remdesivir/"
     }
 ];
