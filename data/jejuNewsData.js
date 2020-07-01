@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
-        "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
-    },
-    {
         "title": "[전문] 원희룡 지사, 여름 휴가철 제주도 방문 관광객 예방수칙 관련 담화",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421223"
     },
@@ -21,23 +17,27 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007010800011547"
     },
     {
-        "title": "코로나19 확진자 입원에...'외래 진료 휴진'",
-        "link": "https://www.news1.kr/photos/view/?4267032"
+        "title": "5일만에 코로나 공포에 휩싸인 광주…최초 감염자는?(종합)",
+        "link": "https://www.news1.kr/articles/?3982484"
     },
     {
         "title": "코로나19 확진자 입원에...출입문 폐쇄",
         "link": "https://www.news1.kr/photos/view/?4267027"
     },
     {
-        "title": "지역사회 감염 확산…광주·전남 확진자 20명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483572&ref=A"
-    },
-    {
-        "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5370139"
+        "title": "코로나19 확진자 입원에...'외래 진료 휴진'",
+        "link": "https://www.news1.kr/photos/view/?4267032"
     },
     {
         "title": "[종합] 광주 확진자 2명 추가…깜깜이 전파 우려",
         "link": "https://www.hankyung.com/society/article/2020063076847"
+    },
+    {
+        "title": "제주신화월드, 제주도 학생들 위해 마스크 1만장 기부",
+        "link": "https://sports.donga.com/article/all/20200701/101764119/1"
+    },
+    {
+        "title": "지역사회 감염 확산…광주·전남 확진자 20명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483572&ref=A"
     }
 ];
