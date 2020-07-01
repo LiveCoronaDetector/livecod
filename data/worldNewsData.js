@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
     },
     {
-        "title": "Coronavirus live updates: Pfizer's early-stage vaccine sees positive results; thousands attend Prague street party",
-        "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
+        "title": "One graphic explains why Americans are facing an EU travel ban",
+        "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
     },
     {
         "title": "Groom may have been coronavirus super-spreader at his own big Indian wedding",

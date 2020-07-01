@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020070115322446274"
     },
     {
-        "title": "광주 코로나 브리핑…57번~71번 확진자 발생 개요(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=576460"
-    },
-    {
         "title": "코로나19 신규환자 잇따라 추가파악…서울 누계 최소 1천333명(종합)",
         "link": "http://yna.kr/AKR20200701191151004?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "“내가 코로나19에 감염된다면 누구 탓일까?”…국내최초 인식조사 실시",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4484086&ref=A"
+    },
+    {
+        "title": "코로나 신규 확진자 51명...광주에서만 12명",
+        "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     }
 ];
