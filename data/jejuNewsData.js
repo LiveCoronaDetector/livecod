@@ -5,6 +5,18 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
+        "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
+    },
+    {
+        "title": "광주 추가 확진자 7명 중 4명 함께 '제주여행'한 가족·지인",
+        "link": "https://www.news1.kr/articles/?3982265"
+    },
+    {
+        "title": "광주 금양오피스텔 확진자들 마스크 없이 밀착 접촉(종합)",
+        "link": "http://yna.kr/AKR20200701054651054?did=1195m"
+    },
+    {
         "title": "광주서 하루새 코로나19 확진자 12명 발생...누적 확진자 56명",
         "link": "http://www.fnnews.com/news/202007010800011547"
     },
@@ -27,17 +39,5 @@ var jejuNewsData = [
     {
         "title": "[1보]광주시 확진자 A씨, 코로나19 확진 전제주여행",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2166846"
-    },
-    {
-        "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
-    },
-    {
-        "title": "광주 코로나19 확진자 제주 관광했다…배편으로 입·출도",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300436&t=NN"
-    },
-    {
-        "title": "제주 다녀온 광주 70대 코로나19 1차 양성…2차 검사의뢰",
-        "link": "http://yna.kr/AKR20200630149000054?did=1195m"
     }
 ];
