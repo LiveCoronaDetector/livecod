@@ -1137,20 +1137,20 @@ var marker = [
         "완치자수": 651
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 702,
+        "사망자수": 10,
+        "완치자수": 553
+    },
+    {
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
         "확진자수": 698,
         "사망자수": 42,
         "완치자수": 656
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 698,
-        "사망자수": 10,
-        "완치자수": 553
     },
     {
         "Name": "Malta",

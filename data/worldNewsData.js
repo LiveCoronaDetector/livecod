@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "Coronavirus: California travelers must quarantine upon arrival in New York; barred from European Union",
-        "link": "https://www.mercurynews.com/2020/06/30/coronavirus-california-travelers-must-quarantine-upon-arrival-in-new-york-barred-from-european-union/"
+        "title": "Dr. Anthony Fauci: U.S. coronavirus outbreak could top 100000 new cases a day",
+        "link": "https://www.youtube.com/watch?v=MR73uTTVof0"
     },
     {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "Live updates: Massachusetts reports zero new covid-related deaths while infections soar in South and West",
-        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
+        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     }
 ];
