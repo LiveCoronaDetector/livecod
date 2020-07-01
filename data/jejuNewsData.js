@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483382&ref=A"
     },
     {
-        "title": "광주시 70대 확진자 코로나19 확진 전 제주여행",
-        "link": "http://www.ihalla.com/read.php3?aid=1593523614686415073"
+        "title": "제주신화월드, 제주도 학생들 위해 마스크 1만장 기부",
+        "link": "https://sports.donga.com/article/all/20200701/101764119/1"
     }
 ];
