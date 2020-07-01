@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/01/health/us-coronavirus-wednesday/index.html"
     },
     {
-        "title": "Coronavirus live news: Australia puts 300,000 back into lockdown; tourist flights to Greece resume",
+        "title": "Coronavirus live news: global tourism stands to lose up to $3.3tn, says UN",
         "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
     },
     {
@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
-        "title": "India coronavirus: Officials sorry after video shows bodies flung into pit",
-        "link": "https://www.bbc.com/news/world-asia-india-53246134"
+        "title": "Groom may have been coronavirus super-spreader at his own big Indian wedding",
+        "link": "https://www.cbsnews.com/news/groom-may-have-been-coronavirus-super-spreader-at-his-own-big-indian-wedding/"
     },
     {
-        "title": "Dr. Anthony Fauci says new virus in China has traits of 2009 swine flu and 1918 pandemic flu",
-        "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
-    },
-    {
-        "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",
-        "link": "https://www.bbc.com/news/world-europe-53244688"
+        "title": "Australia to put 300,000 under lockdown: Coronavirus live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-cases-14-states-double-live-updates-200701003734077.html"
     },
     {
         "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
         "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
+    },
+    {
+        "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",
+        "link": "https://www.bbc.com/news/world-europe-53244688"
     },
     {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
