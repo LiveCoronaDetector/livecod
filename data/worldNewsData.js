@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
     },
     {
-        "title": "Coronavirus: Secrecy surrounds India PM Narendra Modi's '$1bn' Covid-19 fund",
-        "link": "https://www.bbc.com/news/world-asia-india-53151308"
+        "title": "US could see 100,000 coronavirus daily cases, says Fauci: Live",
+        "link": "https://www.aljazeera.com/news/2020/06/states-hit-pause-coronavirus-reopening-live-updates-200629235549222.html"
     },
     {
-        "title": "Coronavirus live news: Australia locks down 300,000 as global cases near 10.5m",
+        "title": "Coronavirus live news: Australia puts 300,000 back into lockdown; US reports another record increase in cases",
         "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Cases Reach New Record",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-01-20-intl/index.html"
     },
     {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "US buys up world stock of key Covid-19 drug remdesivir",
-        "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
+        "title": "More states halt reopenings as COVID-19 cases surge",
+        "link": "https://www.youtube.com/watch?v=B0VEAPwde9I"
     },
     {
-        "title": "The coronavirus is mutating - The Washington Post",
-        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
+        "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",
+        "link": "https://www.bbc.com/news/world-europe-53244688"
     }
 ];
