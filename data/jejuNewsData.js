@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
-        "title": "광주 추가 확진자 7명 중 4명 함께 '제주여행'한 가족·지인",
-        "link": "https://www.news1.kr/articles/?3982265"
-    },
-    {
         "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
     },
@@ -25,6 +21,14 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007010800011547"
     },
     {
+        "title": "코로나19 확진자 입원에...'외래 진료 휴진'",
+        "link": "https://www.news1.kr/photos/view/?4267032"
+    },
+    {
+        "title": "코로나19 확진자 입원에...출입문 폐쇄",
+        "link": "https://www.news1.kr/photos/view/?4267027"
+    },
+    {
         "title": "지역사회 감염 확산…광주·전남 확진자 20명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483572&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[종합] 광주 확진자 2명 추가…깜깜이 전파 우려",
         "link": "https://www.hankyung.com/society/article/2020063076847"
-    },
-    {
-        "title": "오피스텔 관련 3명 확진…광주·전남 확진자 20명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483747&ref=A"
     }
 ];

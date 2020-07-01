@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     },
     {
-        "title": "\"오늘부터 코로나 검역관리 모든 국가로 확대\"(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070101815.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "‘코로나19’ 확진자 51명 추가…서울·경기·광주에 집중",
         "link": "https://www.donga.com/news/article/all/20200701/101764883/1"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[속보] '코로나19' 51명 늘어 1만2,851명…지역 36명·해외유입 15명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007010164&t=NN"
+    },
+    {
+        "title": "\"오늘부터 코로나 검역관리 모든 국가로 확대\"(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070101815.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
     },
     {
-        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
-    },
-    {
         "title": "Dr. Anthony Fauci: U.S. coronavirus outbreak could top 100000 new cases a day",
         "link": "https://www.youtube.com/watch?v=MR73uTTVof0"
+    },
+    {
+        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
