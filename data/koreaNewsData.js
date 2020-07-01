@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5370904"
     },
     {
+        "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",
+        "link": "https://news.joins.com/article/olink/23409359"
+    },
+    {
+        "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5827962_32633.html"
+    },
+    {
         "title": "“나흘 연속 100명대”...일본 코로나19 신규 확진자 126명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500209&wlog_tag3=naver"
     },
     {
         "title": "당뇨병 환자가 코로나19 특히 주의해야 하는 이유",
         "link": "http://health.chosun.com/site/data/html_dir/2020/07/01/2020070102999.html"
-    },
-    {
-        "title": "[속보] 광주 종교시설서 코로나19 확진자 7명 추가",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020070115322446274"
-    },
-    {
-        "title": "광주서 코로나 6명 추가 ‘확진’…하루 15명 발생(종합)",
-        "link": "https://view.asiae.co.kr/article/2020070120351096623"
     }
 ];

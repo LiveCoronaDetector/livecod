@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/coronavirus-outbreak-among-university-washington-greek-life-state-sees-second-highest-daily-case-jump"
     },
     {
-        "title": "Coronavirus live updates: Pfizer's early stage vaccine sees positive results as new U.S. cases continue to climb",
+        "title": "Coronavirus live updates: Study finds U.S. death toll is undercounted by up to 28% as new daily cases continue to climb",
         "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-01-20-intl/index.html"
+    },
+    {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
+        "title": "‘No thank you, Dr. Fauci.’ Lt. Gov. Patrick says he won’t listen to nation’s top COVID-19 expert",
+        "link": "https://www.kxan.com/news/coronavirus/no-thank-you-dr-fauci-lt-gov-patrick-says-he-wont-listen-to-nations-top-covid-19-expert/"
+    },
+    {
         "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
         "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
-    },
-    {
-        "title": "Watch live: World Health Organization holds press conference as coronavirus pandemic accelerates",
-        "link": "https://www.cnbc.com/2020/07/01/watch-live-world-health-organization-holds-press-conference-as-coronavirus-pandemic-accelerates.html"
-    },
-    {
-        "title": "Now, It's Americans Facing a Coronavirus Travel Ban",
-        "link": "https://www.nytimes.com/2020/07/01/opinion/us-travel-ban-europe.html"
     }
 ];
