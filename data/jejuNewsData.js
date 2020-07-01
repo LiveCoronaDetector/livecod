@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007010800011547"
     },
     {
+        "title": "제주도, 안산시 코로나19 확진자 일행 접촉자 총 56명",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=125918"
+    },
+    {
         "title": "코로나19 확진자 입원에...출입문 폐쇄",
         "link": "https://www.news1.kr/photos/view/?4267027"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주신화월드, 제주도 학생들 위해 마스크 1만장 기부",
         "link": "https://sports.donga.com/article/all/20200701/101764119/1"
-    },
-    {
-        "title": "지역사회 감염 확산…광주·전남 확진자 20명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483572&ref=A"
     }
 ];

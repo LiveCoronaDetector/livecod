@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
     },
     {
-        "title": "One graphic explains why Americans are facing an EU travel ban",
-        "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
+        "title": "Coronavirus live updates: Pfizer's early-stage vaccine sees positive results; thousands attend Prague street party",
+        "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
         "title": "Groom may have been coronavirus super-spreader at his own big Indian wedding",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
-        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
+        "title": "U.S. Cases Reach New Record",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",
-        "link": "https://www.bbc.com/news/world-europe-53244688"
+        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
+        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     }
 ];
