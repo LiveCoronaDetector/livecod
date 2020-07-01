@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
     },
     {
-        "title": "Coronavirus: The human cost of fake news in India",
-        "link": "https://www.bbc.com/news/world-asia-india-53165436"
+        "title": "India coronavirus: Officials sorry after video shows bodies flung into pit",
+        "link": "https://www.bbc.com/news/world-asia-india-53246134"
     },
     {
         "title": "Dr. Anthony Fauci says new virus in China has traits of 2009 swine flu and 1918 pandemic flu",
