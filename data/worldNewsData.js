@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
     },
     {
-        "title": "US buys up world stock of key Covid-19 drug remdesivir",
-        "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
-    },
-    {
         "title": "U.S. Cases Reach New Record",
         "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
-        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
+        "title": "US buys up world stock of key Covid-19 drug remdesivir",
+        "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "States Pause Plans to Reopen as Cases Soar",
-        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
+        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
+    },
+    {
+        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     }
 ];
