@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
-        "title": "US secures world stock of key Covid-19 drug remdesivir",
-        "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
-    },
-    {
         "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
         "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
+    },
+    {
+        "title": "US buys nearly all global stock of coronavirus drug remdesivir",
+        "link": "https://nypost.com/2020/07/01/us-buys-nearly-all-global-stock-of-coronavirus-drug-remdesivir/"
     }
 ];
