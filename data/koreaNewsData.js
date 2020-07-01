@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     },
     {
-        "title": "확진자 다녀간 광주 교회서 7명 확진",
-        "link": "http://yna.kr/AKR20200701144700054?did=1195m"
-    },
-    {
         "title": "전남 코로나19 25번째 확진자 발생...해외입국 30대",
         "link": "http://www.fnnews.com/news/202007011105026220"
     },
     {
-        "title": "광주 코로나 확진자 ‘급증’에 사회적 거리두기 2단계로 \"격상\"",
-        "link": "https://www.pressian.com/pages/articles/2020070116595033085?utm_source=naver&utm_medium=search"
+        "title": "확진자 다녀간 광주 교회서 7명 확진",
+        "link": "http://yna.kr/AKR20200701144700054?did=1195m"
+    },
+    {
+        "title": "대전서 70대 남성 코로나19 확진…기존 확진자 남편 (상보)",
+        "link": "https://view.asiae.co.kr/article/2020070117210903744"
+    },
+    {
+        "title": "광주 코로나19 확진자 폭증...사회적 거리두기 2단계로 상향",
+        "link": "http://www.fnnews.com/news/202007011545571360"
     },
     {
         "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020070115322446274"
     },
     {
-        "title": "광주 코로나 서면 브리핑…46번~56번 확진자 발생 개요(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=576294"
-    },
-    {
         "title": "[종합] 코로나19 학교내 감염 확산..확진자 비난 말아야",
         "link": "http://www.fnnews.com/news/202007011425435198"
     },
     {
-        "title": "경기도 코로나 확진자에 물어 보니…10명 중 4명이 '무증상'",
-        "link": "https://news.joins.com/article/olink/23409222"
+        "title": "“내가 코로나19에 감염된다면 누구 탓일까?”…국내최초 인식조사 실시",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484086&ref=A"
     }
 ];
