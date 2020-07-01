@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus live news: Brazil death toll exceeds 60,000; West Bank goes into lockdown",
-        "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
+        "title": "Coronavirus outbreak among University of Washington Greek life; state sees 2nd-highest daily case jump",
+        "link": "https://www.foxnews.com/health/coronavirus-outbreak-among-university-washington-greek-life-state-sees-second-highest-daily-case-jump"
     },
     {
-        "title": "Italy keeps coronavirus pandemic under control, but many staying home to be safe",
-        "link": "https://www.foxnews.com/world/italy-coronavirus-pandemic-work-home-office"
+        "title": "Coronavirus live updates: California rolls back reopening, NYC pauses indoor dining plans",
+        "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
-        "title": "Groom dies after infecting over 100 wedding guests with coronavirus in India",
-        "link": "https://nypost.com/2020/07/01/groom-infects-100-guests-with-coronavirus-dies-two-days-later/"
+        "title": "Groom may have been coronavirus super-spreader at his own big Indian wedding",
+        "link": "https://www.cbsnews.com/news/groom-may-have-been-coronavirus-super-spreader-at-his-own-big-indian-wedding/"
     },
     {
-        "title": "Dr. Anthony Fauci says new virus in China has traits of 2009 swine flu and 1918 pandemic flu",
-        "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
+        "title": "Australia to lock down 300,000 in Melbourne suburbs after coronavirus spike",
+        "link": "https://nypost.com/2020/07/01/australia-to-lock-down-300000-in-melbourne-suburbs-after-coronavirus-spike/"
     },
     {
         "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     },
     {
-        "title": "Coronavirus: Fauci warns of 100,000 US cases per day",
-        "link": "https://www.bbc.com/news/world-us-canada-53237824"
+        "title": "US buys nearly all global stock of coronavirus drug remdesivir",
+        "link": "https://nypost.com/2020/07/01/us-buys-nearly-all-global-stock-of-coronavirus-drug-remdesivir/"
     },
     {
-        "title": "5 Things We Need to Keep Children Safe from COVID-19 | Save the Children",
-        "link": "https://www.youtube.com/watch?v=0nUViPRm8mE"
+        "title": "Covid-19 vaccine from Pfizer and BioNTech shows positive results",
+        "link": "https://www.cnbc.com/2020/07/01/coronavirus-vaccine-from-pfizer-and-biontech-shows-positive-results-report-says.html"
     }
 ];

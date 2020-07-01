@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5370904"
     },
     {
-        "title": "코로나19 확진자 51명…광주 12명·경기 11명·서울 9명",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020070102109919711009&ref=naver"
-    },
-    {
         "title": "브라질 코로나 사망자 6만명 눈앞...확진자 140만명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070100646.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "‘렘데시비르’ 코로나19 치료제로 오늘부터 국내 공급",
+        "link": "http://www.hani.co.kr/arti/society/health/951719.html"
     }
 ];
