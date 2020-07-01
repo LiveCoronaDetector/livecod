@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-01-20-intl/index.html"
     },
     {
+        "title": "Dr. Anthony Fauci: U.S. coronavirus outbreak could top 100000 new cases a day",
+        "link": "https://www.youtube.com/watch?v=MR73uTTVof0"
+    },
+    {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "More states halt reopenings as COVID-19 cases surge",
-        "link": "https://www.youtube.com/watch?v=B0VEAPwde9I"
-    },
-    {
-        "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",
-        "link": "https://www.bbc.com/news/world-europe-53244688"
+        "title": "Coronavirus patients not likely to pay out of pocket for treatment drug remdesivir: HHS secretary",
+        "link": "https://www.foxbusiness.com/money/remdesivir-cost-hospital-gilead-coronavirus-drug"
     }
 ];

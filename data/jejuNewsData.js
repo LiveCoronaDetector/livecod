@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007010800011547"
     },
     {
-        "title": "코로나19 확진자 입원에...'외래 진료 휴진'",
-        "link": "https://www.news1.kr/photos/view/?4267032"
-    },
-    {
         "title": "코로나19 확진자 입원에...출입문 폐쇄",
         "link": "https://www.news1.kr/photos/view/?4267027"
+    },
+    {
+        "title": "코로나19 확진자 입원에...'외래 진료 휴진'",
+        "link": "https://www.news1.kr/photos/view/?4267032"
     },
     {
         "title": "[종합] 광주 확진자 2명 추가…깜깜이 전파 우려",

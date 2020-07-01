@@ -620,9 +620,9 @@ var marker = [
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "확진자수": 5900,
+        "확진자수": 5954,
         "사망자수": 52,
-        "완치자수": 4506
+        "완치자수": 4568
     },
     {
         "Name": "Ethiopia",
@@ -1390,7 +1390,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 141,
         "사망자수": 0,
-        "완치자수": 130
+        "완치자수": 131
     },
     {
         "Name": "Trinidad and Tobago",
@@ -1508,7 +1508,7 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 41,
+        "확진자수": 42,
         "사망자수": 2,
         "완치자수": 11
     },
