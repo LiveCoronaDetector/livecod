@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200701072600054?did=1195m"
     },
     {
-        "title": "\"오늘부터 코로나 검역관리 모든 국가로 확대\"(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070101815.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 치료제 ‘렘데시비르’ 오늘부터 국내 공급된다",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988275?division=NAVER"
+    },
+    {
+        "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",
+        "link": "https://news.joins.com/article/olink/23409359"
+    },
+    {
+        "title": "브라질 코로나 사망자 6만명 눈앞...확진자 140만명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070100646.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "확진자 \"완치보다 낙인효과가 더 걱정\"",
+        "link": "http://www.naeil.com/news_view/?id_art=354303"
     },
     {
         "title": "7월 1일 ‘코로나19’ 전세계 확진자 1036만명…입국금지·검역 조치 179개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/01/2020070180127.html"
     },
     {
-        "title": "[속보] 코로나19 어제 51명 신규확진…광주 첫 두자릿수",
-        "link": "https://www.hankyung.com/society/article/2020070192337"
-    },
-    {
         "title": "‘코로나19’ 확진자 51명 증가…수도권 27명·광주 12명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483797&ref=A"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 51명···지역발생 36명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007011015001&code=940100"
-    },
-    {
         "title": "[속보]밤새 광주서 코로나 확진자 7명 추가…지역감염 비상",
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
-    },
-    {
-        "title": "[속보] '코로나19' 51명 늘어 1만2,851명…지역 36명·해외유입 15명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007010164&t=NN"
     }
 ];

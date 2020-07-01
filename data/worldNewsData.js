@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
     },
     {
-        "title": "Dr. Anthony Fauci: U.S. coronavirus outbreak could top 100000 new cases a day",
-        "link": "https://www.youtube.com/watch?v=MR73uTTVof0"
+        "title": "Coronavirus Live Updates: U.S. Cases Reach New Record",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "Coronavirus Latest Update: India's Covid Tally Rises To 5,66840 A Unlock 2.0 Begins",
-        "link": "https://www.youtube.com/watch?v=LMB29zldtsE"
+        "title": "The coronavirus is mutating - The Washington Post",
+        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
     }
 ];
