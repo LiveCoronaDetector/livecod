@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-01-20-intl/index.html"
-    },
-    {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Watch live: World Health Organization holds press conference as coronavirus pandemic accelerates",
         "link": "https://www.cnbc.com/2020/07/01/watch-live-world-health-organization-holds-press-conference-as-coronavirus-pandemic-accelerates.html"
+    },
+    {
+        "title": "Now, It's Americans Facing a Coronavirus Travel Ban",
+        "link": "https://www.nytimes.com/2020/07/01/opinion/us-travel-ban-europe.html"
     }
 ];

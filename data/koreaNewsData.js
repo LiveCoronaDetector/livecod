@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/07/01/2020070102999.html"
     },
     {
-        "title": "광주서 코로나 6명 추가 ‘확진’…하루 15명 발생(종합)",
-        "link": "https://view.asiae.co.kr/article/2020070120351096623"
-    },
-    {
         "title": "[속보] 광주 종교시설서 코로나19 확진자 7명 추가",
         "link": "http://www.busan.com/view/busan/view.php?code=2020070115322446274"
+    },
+    {
+        "title": "광주서 코로나 6명 추가 ‘확진’…하루 15명 발생(종합)",
+        "link": "https://view.asiae.co.kr/article/2020070120351096623"
     }
 ];
