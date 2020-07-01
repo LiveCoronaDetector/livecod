@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://apnews.com/2e4da5fca36da1b1defbd96120db247e"
     },
     {
-        "title": "Live Coronavirus Updates: Global Tracker",
-        "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-live-updates.html"
+        "title": "Official U.S. coronavirus death toll is 'a substantial undercount' of actual tally, Yale study finds",
+        "link": "https://www.cnbc.com/2020/07/01/official-us-coronavirus-death-toll-is-a-substantial-undercount-of-actual-tally-new-yale-study-finds.html"
     },
     {
         "title": "Coronavirus outbreak among University of Washington Greek life; state sees 2nd-highest daily case jump",
@@ -21,11 +21,11 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/07/01/groom-infects-100-guests-with-coronavirus-dies-two-days-later/"
     },
     {
-        "title": "Dr. Anthony Fauci says new virus in China has traits of 2009 swine flu and 1918 pandemic flu",
-        "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
+        "title": "Australia to lock down 300,000 in Melbourne suburbs after coronavirus spike",
+        "link": "https://nypost.com/2020/07/01/australia-to-lock-down-300000-in-melbourne-suburbs-after-coronavirus-spike/"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
+        "title": "Coronavirus pandemic: The latest updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-01-20-intl/index.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     },
     {
-        "title": "US buys nearly all global stock of coronavirus drug remdesivir",
-        "link": "https://nypost.com/2020/07/01/us-buys-nearly-all-global-stock-of-coronavirus-drug-remdesivir/"
+        "title": "Coronavirus: Fauci warns of 100,000 US cases per day",
+        "link": "https://www.bbc.com/news/world-us-canada-53237824"
     }
 ];
