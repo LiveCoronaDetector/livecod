@@ -9,28 +9,28 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/01/health/us-coronavirus-wednesday/index.html"
     },
     {
-        "title": "Outbreak of coronavirus cases reported on UW's Greek Row",
-        "link": "https://komonews.com/news/coronavirus/outbreak-of-coronavirus-cases-reported-on-uws-campus"
+        "title": "Coronavirus live news: Australia puts 300,000 back into lockdown; tourist flights to Greece resume",
+        "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
     },
     {
         "title": "One graphic explains why Americans are facing an EU travel ban",
         "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
     },
     {
-        "title": "Coronavirus: The human cost of fake news in India",
-        "link": "https://www.bbc.com/news/world-asia-india-53165436"
+        "title": "India coronavirus: Officials sorry after video shows bodies flung into pit",
+        "link": "https://www.bbc.com/news/world-asia-india-53246134"
     },
     {
         "title": "Dr. Anthony Fauci says new virus in China has traits of 2009 swine flu and 1918 pandemic flu",
         "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-01-20-intl/index.html"
-    },
-    {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
+    },
+    {
+        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     },
     {
         "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",

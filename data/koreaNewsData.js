@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     },
     {
+        "title": "“내가 코로나19에 감염된다면 누구 탓일까?”…국내최초 인식조사 실시",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484086&ref=A"
+    },
+    {
         "title": "광주 코로나 확진자 ‘급증’에 사회적 거리두기 2단계로 \"격상\"",
         "link": "https://www.pressian.com/pages/articles/2020070116595033085?utm_source=naver&utm_medium=search"
     },
@@ -25,12 +29,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070101815.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대전서 70대 남성 코로나19 확진…기존 확진자 남편 (상보)",
-        "link": "https://view.asiae.co.kr/article/2020070117210903744"
-    },
-    {
-        "title": "“내가 코로나19에 감염된다면 누구 탓일까?”…국내최초 인식조사 실시",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484086&ref=A"
+        "title": "광주서 코로나 6명 추가 ‘확진’…하루 15명 발생(종합)",
+        "link": "https://view.asiae.co.kr/article/2020070120351096623"
     },
     {
         "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",
