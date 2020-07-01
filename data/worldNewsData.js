@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53151308"
     },
     {
-        "title": "Dr. Anthony Fauci says new virus in China has traits of 2009 swine flu and 1918 pandemic flu",
-        "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
+        "title": "Coronavirus live news: Australia locks down 300,000 as global cases near 10.5m",
+        "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
     },
     {
         "title": "Coronavirus Live Updates: U.S. Cases Reach New Record",
