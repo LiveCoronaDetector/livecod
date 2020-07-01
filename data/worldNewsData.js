@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Live updates: Fauci warns that U.S. is ‘going in the wrong direction’ and could see 100,000 coronavirus cases a day",
-        "link": "https://www.washingtonpost.com/nation/2020/07/01/coronavirus-live-updates-us/"
+        "title": "U.S. Cases Reach New Record",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
         "title": "Greece faces 'huge difficulties' when flights resume; 'irregularities' in Slovenia PPE purchase – as it happened",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/06/states-hit-pause-coronavirus-reopening-live-updates-200629235549222.html"
     },
     {
-        "title": "Coronavirus live news: Australia puts 300,000 back into lockdown; US reports another record increase in cases",
-        "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
-    },
-    {
-        "title": "U.S. Cases Reach New Record",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "'Chasing the virus': How India's largest slum overcame a pandemic",
+        "link": "https://www.aljazeera.com/news/2020/07/virus-india-largest-slum-overcame-pandemic-200701070816284.html"
     },
     {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
+        "title": "Americans not welcome: E.U. bars U.S. travelers over coronavirus",
+        "link": "https://news.yahoo.com/americans-not-welcome-e-u-133926887.html"
+    },
+    {
+        "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",
+        "link": "https://www.bbc.com/news/world-europe-53244688"
     },
     {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
