@@ -5,11 +5,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus Live Updates: Fauci Warns U.S. Could Hit 100,000 Daily Cases if Surge Continues",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Coronavirus: Fauci warns of 100,000 US cases per day",
+        "link": "https://www.bbc.com/news/world-us-canada-53237824"
     },
     {
-        "title": "Coronavirus live updates: Greece faces 'huge difficulties' when flights resume; 'irregularities' in Slovenia PPE purchase",
+        "title": "Greece faces 'huge difficulties' when flights resume; 'irregularities' in Slovenia PPE purchase – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/jun/30/coronavirus-live-updates-news-who-team-to-search-for-covid-19-origin-in-china-as-chief-says-he-fears-worst-to-come"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "Coronavirus: California travelers must quarantine upon arrival in New York; barred from European Union",
-        "link": "https://www.mercurynews.com/2020/06/30/coronavirus-california-travelers-must-quarantine-upon-arrival-in-new-york-barred-from-european-union/"
+        "title": "Coronavirus Live Updates: Midwest May No Longer Be a U.S. Bright Spot",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "The coronavirus is mutating - The Washington Post",
-        "link": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true"
+        "title": "States Pause Plans to Reopen as Cases Soar",
+        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
     }
 ];
