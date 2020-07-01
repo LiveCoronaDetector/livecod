@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "U.S. Cases Reach New Record",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Coronavirus: Fauci warns of 100,000 US cases per day",
+        "link": "https://www.bbc.com/news/world-us-canada-53237824"
     },
     {
         "title": "Coronavirus live news: Australia puts 300,000 back into lockdown; tourist flights to Greece resume",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
     },
     {
-        "title": "US could see 100,000 coronavirus daily cases, says Fauci: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/states-hit-pause-coronavirus-reopening-live-updates-200629235549222.html"
+        "title": "India coronavirus: Officials sorry after video shows bodies flung into pit",
+        "link": "https://www.bbc.com/news/world-asia-india-53246134"
     },
     {
         "title": "'Chasing the virus': How India's largest slum overcame a pandemic",
         "link": "https://www.aljazeera.com/news/2020/07/virus-india-largest-slum-overcame-pandemic-200701070816284.html"
     },
     {
-        "title": "Dr. Anthony Fauci: U.S. coronavirus outbreak could top 100000 new cases a day",
-        "link": "https://www.youtube.com/watch?v=MR73uTTVof0"
-    },
-    {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
+        "title": "U.S. Cases Reach New Record",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
-        "title": "Chasing the virus: How India's largest slum beat back a pandemic",
-        "link": "https://www.bangkokpost.com/world/1944028/chasing-the-virus-how-indias-largest-slum-beat-back-a-pandemic"
+        "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",
+        "link": "https://www.bbc.com/news/world-europe-53244688"
+    },
+    {
+        "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     }
 ];
