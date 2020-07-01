@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/07/01/2020070102999.html"
     },
     {
-        "title": "광주 코로나 브리핑…57번~71번 확진자 발생 개요(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=576460"
-    },
-    {
         "title": "[속보] 광주 종교시설서 코로나19 확진자 7명 추가",
         "link": "http://www.busan.com/view/busan/view.php?code=2020070115322446274"
+    },
+    {
+        "title": "광주 코로나 브리핑…57번~71번 확진자 발생 개요(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=576460"
     },
     {
         "title": "코로나19 신규환자 잇따라 추가파악…서울 누계 최소 1천333명(종합)",
