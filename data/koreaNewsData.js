@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007011015001&code=940100"
     },
     {
-        "title": "“내가 코로나19에 감염된다면 누구 탓일까?”…국내최초 인식조사 실시",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484086&ref=A"
-    },
-    {
         "title": "인도 결혼식서 코로나 참사…신랑 숨지고 하객 100명 감염",
         "link": "http://www.hani.co.kr/arti/international/asiapacific/951774.html"
+    },
+    {
+        "title": "“내가 코로나19에 감염된다면 누구 탓일까?”…국내최초 인식조사 실시",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484086&ref=A"
     },
     {
         "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070100646.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]밤새 광주서 코로나 확진자 7명 추가…지역감염 비상",
-        "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
-    },
-    {
         "title": "코로나 신규 확진자 51명...광주에서만 12명",
         "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     },
     {
         "title": "전남 코로나19 25번째 확진자 발생...해외입국 30대",
         "link": "http://www.fnnews.com/news/202007011105026220"
+    },
+    {
+        "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
+        "link": "https://www.nocutnews.co.kr/news/5370904"
     }
 ];
