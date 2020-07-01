@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus: Fauci warns of 100,000 US cases per day",
-        "link": "https://www.bbc.com/news/world-us-canada-53237824"
+        "title": "U.S. Cases Reach New Record",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
         "title": "Greece faces 'huge difficulties' when flights resume; 'irregularities' in Slovenia PPE purchase – as it happened",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-01-20-intl/index.html"
-    },
-    {
-        "title": "Dr. Anthony Fauci: U.S. coronavirus outbreak could top 100000 new cases a day",
-        "link": "https://www.youtube.com/watch?v=MR73uTTVof0"
+        "title": "US buys up world stock of key Covid-19 drug remdesivir",
+        "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "Coronavirus patients not likely to pay out of pocket for treatment drug remdesivir: HHS secretary",
-        "link": "https://www.foxbusiness.com/money/remdesivir-cost-hospital-gilead-coronavirus-drug"
+        "title": "Americans not welcome: E.U. bars U.S. travelers over coronavirus",
+        "link": "https://news.yahoo.com/americans-not-welcome-e-u-133926887.html"
+    },
+    {
+        "title": "States Pause Plans to Reopen as Cases Soar",
+        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
     }
 ];

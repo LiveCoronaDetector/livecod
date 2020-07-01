@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
     },
     {
-        "title": "[전문] 원희룡 지사, 여름 휴가철 제주도 방문 관광객 예방수칙 관련 담화",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421223"
-    },
-    {
         "title": "광주 금양오피스텔 확진자들 마스크 없이 밀착 접촉(종합)",
         "link": "http://yna.kr/AKR20200701054651054?did=1195m"
     },
@@ -23,6 +19,10 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진자 입원에...출입문 폐쇄",
         "link": "https://www.news1.kr/photos/view/?4267027"
+    },
+    {
+        "title": "광주 코로나19 확진자 제주도 여행 이동동선 공개",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421264"
     },
     {
         "title": "코로나19 확진자 입원에...'외래 진료 휴진'",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://sports.donga.com/article/all/20200701/101764119/1"
     },
     {
-        "title": "지역사회 감염 확산…광주·전남 확진자 20명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483572&ref=A"
+        "title": "제주도 해수욕장 전면 개장 “방역 지침 지켜주세요!”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484039&ref=A"
     }
 ];
