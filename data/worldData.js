@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2751571,
-        "사망자수": 130390,
+        "확진자수": 2751995,
+        "사망자수": 130395,
         "완치자수": 1146785
     },
     {
@@ -124,8 +124,8 @@ var marker = [
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "확진자수": 164801,
-        "사망자수": 29843,
+        "확진자수": 165719,
+        "사망자수": 29861,
         "완치자수": 76274
     },
     {
@@ -692,9 +692,9 @@ var marker = [
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "확진자수": 4363,
+        "확진자수": 4472,
         "사망자수": 129,
-        "완치자수": 1622
+        "완치자수": 1677
     },
     {
         "Name": "룩셈부르크",
@@ -828,9 +828,9 @@ var marker = [
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "확진자수": 2221,
-        "사망자수": 17,
-        "완치자수": 1089
+        "확진자수": 2260,
+        "사망자수": 19,
+        "완치자수": 1102
     },
     {
         "Name": "Mali",
@@ -852,9 +852,9 @@ var marker = [
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "확진자수": 2007,
+        "확진자수": 2021,
         "사망자수": 38,
-        "완치자수": 279
+        "완치자수": 333
     },
     {
         "Name": "Equatorial Guinea",
@@ -1097,20 +1097,20 @@ var marker = [
         "완치자수": 799
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "확진자수": 840,
+        "사망자수": 11,
+        "완치자수": 418
+    },
+    {
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
         "확진자수": 824,
         "사망자수": 24,
         "완치자수": 209
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "확진자수": 812,
-        "사망자수": 11,
-        "완치자수": 408
     },
     {
         "Name": "Liberia",

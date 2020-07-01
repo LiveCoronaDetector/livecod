@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
-        "title": "Groom may have been coronavirus super-spreader at his own big Indian wedding",
-        "link": "https://www.cbsnews.com/news/groom-may-have-been-coronavirus-super-spreader-at-his-own-big-indian-wedding/"
+        "title": "Groom dies after infecting over 100 wedding guests with coronavirus in India",
+        "link": "https://nypost.com/2020/07/01/groom-infects-100-guests-with-coronavirus-dies-two-days-later/"
     },
     {
         "title": "Dr. Anthony Fauci says new virus in China has traits of 2009 swine flu and 1918 pandemic flu",
         "link": "https://www.cnbc.com/2020/06/30/dr-anthony-fauci-says-new-virus-in-china-has-traits-of-2009-h1n1-and-1918-pandemic-flu.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-01-20-intl/index.html"
+    },
+    {
         "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
+        "title": "US secures world stock of key Covid-19 drug remdesivir",
+        "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
+    },
+    {
         "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
         "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
-    },
-    {
-        "title": "Covid-19 vaccine from Pfizer and BioNTech shows positive results",
-        "link": "https://www.cnbc.com/2020/07/01/coronavirus-vaccine-from-pfizer-and-biontech-shows-positive-results-report-says.html"
-    },
-    {
-        "title": "US buys nearly all global stock of coronavirus drug remdesivir",
-        "link": "https://nypost.com/2020/07/01/us-buys-nearly-all-global-stock-of-coronavirus-drug-remdesivir/"
     }
 ];
