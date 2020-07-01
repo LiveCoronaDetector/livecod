@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007011105026220"
     },
     {
-        "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
-        "link": "https://www.nocutnews.co.kr/news/5370904"
-    },
-    {
         "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",
         "link": "https://news.joins.com/article/olink/23409359"
+    },
+    {
+        "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
+        "link": "https://www.nocutnews.co.kr/news/5370904"
     },
     {
         "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
         "link": "https://imnews.imbc.com/news/2020/society/article/5827962_32633.html"
     },
     {
-        "title": "“나흘 연속 100명대”...일본 코로나19 신규 확진자 126명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500209&wlog_tag3=naver"
+        "title": "코로나19 확진자 51명…광주 12명·경기 11명·서울 9명",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2020070102109919711009&ref=naver"
     },
     {
-        "title": "당뇨병 환자가 코로나19 특히 주의해야 하는 이유",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/07/01/2020070102999.html"
+        "title": "브라질 코로나 사망자 6만명 눈앞...확진자 140만명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070100646.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
