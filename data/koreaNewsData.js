@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200701144700054?did=1195m"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 51명···지역발생 36명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007011015001&code=940100"
+        "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
+        "link": "https://www.nocutnews.co.kr/news/5370904"
     },
     {
-        "title": "인도 결혼식서 코로나 참사…신랑 숨지고 하객 100명 감염",
-        "link": "http://www.hani.co.kr/arti/international/asiapacific/951774.html"
+        "title": "광주서 코로나 6명 추가 ‘확진’…하루 15명 발생(종합)",
+        "link": "https://view.asiae.co.kr/article/2020070120351096623"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 51명···지역발생 36명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007011015001&code=940100"
     },
     {
         "title": "“내가 코로나19에 감염된다면 누구 탓일까?”…국내최초 인식조사 실시",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4484086&ref=A"
     },
     {
-        "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5827962_32633.html"
-    },
-    {
-        "title": "[속보] 광주 종교시설서 코로나19 확진자 7명 추가",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020070115322446274"
-    },
-    {
-        "title": "브라질 코로나 사망자 6만명 눈앞...확진자 140만명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070100646.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나 신규 확진자 51명...광주에서만 12명",
         "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     },
     {
-        "title": "전남 코로나19 25번째 확진자 발생...해외입국 30대",
-        "link": "http://www.fnnews.com/news/202007011105026220"
+        "title": "광주 코로나 브리핑…57번~71번 확진자 발생 개요(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=576460"
     },
     {
-        "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
-        "link": "https://www.nocutnews.co.kr/news/5370904"
+        "title": "“나흘 연속 100명대”...일본 코로나19 신규 확진자 126명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500209&wlog_tag3=naver"
+    },
+    {
+        "title": "일본 코로나 신규 확진 126명…나흘째 100명대(종합)",
+        "link": "http://yna.kr/AKR20200701190751073?did=1195m"
+    },
+    {
+        "title": "전남 코로나19 25번째 확진자 발생...해외입국 30대",
+        "link": "http://www.fnnews.com/news/202007011105026220"
     }
 ];
