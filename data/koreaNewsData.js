@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     },
     {
-        "title": "전남 코로나19 25번째 확진자 발생...해외입국 30대",
-        "link": "http://www.fnnews.com/news/202007011105026220"
-    },
-    {
         "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",
         "link": "https://news.joins.com/article/olink/23409359"
+    },
+    {
+        "title": "전남 코로나19 25번째 확진자 발생...해외입국 30대",
+        "link": "http://www.fnnews.com/news/202007011105026220"
     },
     {
         "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5370904"
     },
     {
-        "title": "브라질 코로나 사망자 6만명 눈앞...확진자 140만명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/01/2020070100646.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "당뇨병 환자가 코로나19 특히 주의해야 하는 이유",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/07/01/2020070102999.html"
     },
     {
-        "title": "‘렘데시비르’ 코로나19 치료제로 오늘부터 국내 공급",
-        "link": "http://www.hani.co.kr/arti/society/health/951719.html"
+        "title": "전체 코로나19 확진자의 60%가 지난 1달 새 발생",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=401275&class=42&grp="
     }
 ];
