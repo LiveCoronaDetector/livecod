@@ -9,8 +9,8 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
-        "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
+        "title": "코로나19 확진자 입원에...출입문 폐쇄",
+        "link": "https://www.news1.kr/photos/view/?4267027"
     },
     {
         "title": "광주 금양오피스텔 확진자들 마스크 없이 밀착 접촉(종합)",
@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421295"
     },
     {
-        "title": "광주서 하루새 코로나19 확진자 12명 발생...누적 확진자 56명",
-        "link": "http://www.fnnews.com/news/202007010800011547"
+        "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 확진자 입원에...출입문 폐쇄",
-        "link": "https://www.news1.kr/photos/view/?4267027"
+        "title": "광주서 하루새 코로나19 확진자 12명 발생...누적 확진자 56명",
+        "link": "http://www.fnnews.com/news/202007010800011547"
     },
     {
         "title": "코로나19 확진자 입원에...'외래 진료 휴진'",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://sports.donga.com/article/all/20200701/101764119/1"
     },
     {
-        "title": "[종합] 광주 확진자 2명 추가…깜깜이 전파 우려",
-        "link": "https://www.hankyung.com/society/article/2020063076847"
+        "title": "지역사회 감염 확산…광주·전남 확진자 20명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483572&ref=A"
     }
 ];

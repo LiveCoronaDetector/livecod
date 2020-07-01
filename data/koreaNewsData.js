@@ -13,20 +13,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     },
     {
-        "title": "광주 5일만에 확진자 32명…사회적 거리두기 '2단계'로 격상",
-        "link": "https://www.news1.kr/articles/?3982971"
-    },
-    {
-        "title": "“내가 코로나19에 감염된다면 누구 탓일까?”…국내최초 인식조사 실시",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484086&ref=A"
+        "title": "광주 코로나 확진자 ‘급증’에 사회적 거리두기 2단계로 \"격상\"",
+        "link": "https://www.pressian.com/pages/articles/2020070116595033085?utm_source=naver&utm_medium=search"
     },
     {
         "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
         "link": "https://www.nocutnews.co.kr/news/5370904"
-    },
-    {
-        "title": "제주 여행 광주 45번 확진자 동선 공개",
-        "link": "https://www.pressian.com/pages/articles/2020070117113118921?utm_source=naver&utm_medium=search"
     },
     {
         "title": "\"오늘부터 코로나 검역관리 모든 국가로 확대\"(종합)",
@@ -35,6 +27,14 @@ var koreaNewsData = [
     {
         "title": "대전서 70대 남성 코로나19 확진…기존 확진자 남편 (상보)",
         "link": "https://view.asiae.co.kr/article/2020070117210903744"
+    },
+    {
+        "title": "“내가 코로나19에 감염된다면 누구 탓일까?”…국내최초 인식조사 실시",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484086&ref=A"
+    },
+    {
+        "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",
+        "link": "https://news.joins.com/article/olink/23409359"
     },
     {
         "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
