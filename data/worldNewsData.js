@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
     },
     {
-        "title": "India coronavirus: Officials sorry after video shows bodies flung into pit",
-        "link": "https://www.bbc.com/news/world-asia-india-53246134"
+        "title": "Coronavirus: The human cost of fake news in India",
+        "link": "https://www.bbc.com/news/world-asia-india-53165436"
     },
     {
         "title": "Dr. Anthony Fauci says new virus in China has traits of 2009 swine flu and 1918 pandemic flu",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
-        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
-    },
-    {
         "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",
         "link": "https://www.bbc.com/news/world-europe-53244688"
     },
     {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
+    },
+    {
+        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
+        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     }
 ];

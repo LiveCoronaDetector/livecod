@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
+        "title": "광주 추가 확진자 7명 중 4명 함께 '제주여행'한 가족·지인",
+        "link": "https://www.news1.kr/articles/?3982265"
+    },
+    {
         "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주신화월드, 제주도 학생들 위해 마스크 1만장 기부",
         "link": "https://sports.donga.com/article/all/20200701/101764119/1"
-    },
-    {
-        "title": "지역사회 감염 확산…광주·전남 확진자 20명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483572&ref=A"
     }
 ];
