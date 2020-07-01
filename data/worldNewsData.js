@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/06/30/europe/european-union-travel-us-graphic-intl/index.html"
     },
     {
-        "title": "US could see 100,000 coronavirus daily cases, says Fauci: Live",
-        "link": "https://www.aljazeera.com/news/2020/06/states-hit-pause-coronavirus-reopening-live-updates-200629235549222.html"
+        "title": "Coronavirus: The human cost of fake news in India",
+        "link": "https://www.bbc.com/news/world-asia-india-53165436"
     },
     {
         "title": "'Chasing the virus': How India's largest slum overcame a pandemic",
         "link": "https://www.aljazeera.com/news/2020/07/virus-india-largest-slum-overcame-pandemic-200701070816284.html"
     },
     {
+        "title": "Health experts sound alarm on rising COVID cases | WNT",
+        "link": "https://www.youtube.com/watch?v=ugHBTnEC3wo"
+    },
+    {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "Americans not welcome: E.U. bars U.S. travelers over coronavirus",
-        "link": "https://news.yahoo.com/americans-not-welcome-e-u-133926887.html"
-    },
-    {
-        "title": "Coronavirus: Czechs hold 'farewell party' for pandemic",
-        "link": "https://www.bbc.com/news/world-europe-53244688"
-    },
-    {
         "title": "After 500,000 deaths, WHO warns worst of coronavirus pandemic is \"yet to come\"",
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
+    },
+    {
+        "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+        "link": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html"
     }
 ];

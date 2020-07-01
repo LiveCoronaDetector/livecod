@@ -9,20 +9,16 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
-        "title": "광주 금양오피스텔 확진자들 마스크 없이 밀착 접촉(종합)",
-        "link": "http://yna.kr/AKR20200701054651054?did=1195m"
-    },
-    {
         "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
     },
     {
-        "title": "광주서 하루새 코로나19 확진자 12명 발생...누적 확진자 56명",
-        "link": "http://www.fnnews.com/news/202007010800011547"
+        "title": "광주 금양오피스텔 확진자들 마스크 없이 밀착 접촉(종합)",
+        "link": "http://yna.kr/AKR20200701054651054?did=1195m"
     },
     {
-        "title": "제주 관광 45번 광주 확진자 2박 3일 동선 공개",
-        "link": "https://www.nocutnews.co.kr/news/5371062"
+        "title": "광주서 하루새 코로나19 확진자 12명 발생...누적 확진자 56명",
+        "link": "http://www.fnnews.com/news/202007010800011547"
     },
     {
         "title": "제주도, 안산 코로나 확진자 일행  접촉자 56명 '격리'",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주신화월드, 제주도 학생들 위해 마스크 1만장 기부",
         "link": "https://sports.donga.com/article/all/20200701/101764119/1"
+    },
+    {
+        "title": "[종합] 광주 확진자 2명 추가…깜깜이 전파 우려",
+        "link": "https://www.hankyung.com/society/article/2020063076847"
     }
 ];

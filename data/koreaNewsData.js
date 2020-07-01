@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020070116595033085?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "대전서 70대 남성 코로나19 확진…기존 확진자 남편 (상보)",
-        "link": "https://view.asiae.co.kr/article/2020070117210903744"
-    },
-    {
         "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
         "link": "https://imnews.imbc.com/news/2020/society/article/5827962_32633.html"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020070115322446274"
     },
     {
+        "title": "광주 코로나 서면 브리핑…46번~56번 확진자 발생 개요(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=576294"
+    },
+    {
         "title": "[종합] 코로나19 학교내 감염 확산..확진자 비난 말아야",
         "link": "http://www.fnnews.com/news/202007011425435198"
     },
     {
-        "title": "코로나19 치료제 ‘렘데시비르’ 오늘부터 국내 공급된다",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988275?division=NAVER"
+        "title": "경기도 코로나 확진자에 물어 보니…10명 중 4명이 '무증상'",
+        "link": "https://news.joins.com/article/olink/23409222"
     }
 ];
