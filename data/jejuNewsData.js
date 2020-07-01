@@ -5,8 +5,16 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
+        "title": "광주 추가 확진자 7명 중 4명 함께 '제주여행'한 가족·지인",
+        "link": "https://www.news1.kr/articles/?3982265"
+    },
+    {
         "title": "광주 코로나 확진자 속출, 30일 하루동안 12명 급증하면서 초긴장",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200701500030&wlog_tag3=naver"
+    },
+    {
+        "title": "[전문] 원희룡 지사, 여름 휴가철 제주도 방문 관광객 예방수칙 관련 담화",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421223"
     },
     {
         "title": "광주 금양오피스텔 확진자들 마스크 없이 밀착 접촉(종합)",
@@ -17,27 +25,19 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007010800011547"
     },
     {
-        "title": "[종합] 광주 확진자 2명 추가…깜깜이 전파 우려",
-        "link": "https://www.hankyung.com/society/article/2020063076847"
-    },
-    {
         "title": "지역사회 감염 확산…광주·전남 확진자 20명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483572&ref=A"
-    },
-    {
-        "title": "제주신화월드, 제주도 학생들 위해 마스크 1만장 기부",
-        "link": "https://sports.donga.com/article/all/20200701/101764119/1"
     },
     {
         "title": "광주서 70대 여성 코로나19 확진…45번째(종합)",
         "link": "https://www.nocutnews.co.kr/news/5370139"
     },
     {
-        "title": "[1보]광주시 확진자 A씨, 코로나19 확진 전제주여행",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2166846"
+        "title": "[종합] 광주 확진자 2명 추가…깜깜이 전파 우려",
+        "link": "https://www.hankyung.com/society/article/2020063076847"
     },
     {
-        "title": "광주 코로나19 확진자 제주 관광했다…배편으로 입·출도",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202006300436&t=NN"
+        "title": "오피스텔 관련 3명 확진…광주·전남 확진자 20명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4483747&ref=A"
     }
 ];

@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Cases Reach New Record",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Dr. Anthony Fauci: U.S. coronavirus outbreak could top 100000 new cases a day",
+        "link": "https://www.youtube.com/watch?v=MR73uTTVof0"
     },
     {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "Live updates: Massachusetts reports zero new covid-related deaths while infections soar in South and West",
+        "title": "Massachusetts reports zero new covid-related deaths while infections soar in South and West",
         "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
     }
 ];
