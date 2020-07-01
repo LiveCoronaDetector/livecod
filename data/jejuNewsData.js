@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4483382&ref=A"
     },
     {
-        "title": "밤새 광주서 코로나 확진자 7명 추가…지역감염 비상 (종합)",
-        "link": "https://www.news1.kr/articles/?3981960"
+        "title": "광주시 70대 확진자 코로나19 확진 전 제주여행",
+        "link": "http://www.ihalla.com/read.php3?aid=1593523614686415073"
     }
 ];

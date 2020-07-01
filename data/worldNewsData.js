@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-world-health-organization-worst-yet-to-come/"
     },
     {
-        "title": "Coronavirus Live Updates: Midwest May No Longer Be a U.S. Bright Spot",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Coronavirus: California travelers must quarantine upon arrival in New York; barred from European Union",
+        "link": "https://www.mercurynews.com/2020/06/30/coronavirus-california-travelers-must-quarantine-upon-arrival-in-new-york-barred-from-european-union/"
     },
     {
         "title": "US buys up world stock of key Covid-19 drug remdesivir",
         "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
     },
     {
-        "title": "States Pause Plans to Reopen as Cases Soar",
-        "link": "https://www.nytimes.com/2020/06/29/world/coronavirus-updates.html"
+        "title": "Live updates: Massachusetts reports zero new covid-related deaths while infections soar in South and West",
+        "link": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/"
     }
 ];
