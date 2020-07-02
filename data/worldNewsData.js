@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53258792"
     },
     {
-        "title": "El Al cancels all flights until further notice",
-        "link": "https://www.jpost.com/israel-news/el-al-cancels-all-flights-until-further-notice-633391"
+        "title": "Coronavirus outbreak among University of Washington Greek life; state sees 2nd-highest daily case jump",
+        "link": "https://www.foxnews.com/health/coronavirus-outbreak-among-university-washington-greek-life-state-sees-second-highest-daily-case-jump"
     },
     {
         "title": "Coronavirus live updates: California rolls back reopening, NYC pauses indoor dining plans",
         "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
-        "title": "Groom dies after infecting over 100 wedding guests with coronavirus in India",
-        "link": "https://nypost.com/2020/07/01/groom-infects-100-guests-with-coronavirus-dies-two-days-later/"
+        "title": "They were arrested for breaking lockdown rules. Then they died in police custody",
+        "link": "https://www.cnn.com/2020/07/01/asia/tamil-nadu-deaths-custody-intl-hnk/index.html"
     },
     {
         "title": "As the coronavirus pandemic persists, here's one encouraging sign for Chinese exports",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
-        "title": "U.S. Cases Reach New Record",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
+        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
     },
     {
         "title": "Coronavirus live news: US reports 50,000 new cases as WHO warns on Middle East",
