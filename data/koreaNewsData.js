@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200702084651017?did=1195m"
     },
     {
+        "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "日 코로나19 신규 확진자 194명···두 달만에 최다",
         "link": "https://www.sedaily.com/NewsView/1Z55DFQLPT"
     },
@@ -23,10 +27,6 @@ var koreaNewsData = [
     {
         "title": "의정부 장암주공아파트 확진자 3명 추가…누적 9명(종합)",
         "link": "http://yna.kr/AKR20200702099051060?did=1195m"
-    },
-    {
-        "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
