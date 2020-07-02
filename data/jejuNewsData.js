@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007010800011547"
     },
     {
-        "title": "코로나19 확진자 입원에...출입문 폐쇄",
-        "link": "https://www.news1.kr/photos/view/?4267027"
+        "title": "\"제발 오지마세요\" 여름 해수욕장 개장…코로나19 확산하나",
+        "link": "https://view.asiae.co.kr/article/2020070209315791442"
     },
     {
         "title": "코로나19 확진자 입원에...'외래 진료 휴진'",
         "link": "https://www.news1.kr/photos/view/?4267032"
     },
     {
-        "title": "제주신화월드, 제주도 학생들 위해 마스크 1만장 기부",
-        "link": "https://sports.donga.com/article/all/20200701/101764119/1"
+        "title": "코로나19 확진자 입원에...출입문 폐쇄",
+        "link": "https://www.news1.kr/photos/view/?4267027"
     }
 ];

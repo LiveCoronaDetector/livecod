@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020070244337"
     },
     {
-        "title": "[속보] 박능후 \"광주지역 코로나19 확산세 심상치 않다\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007020113&t=NN"
-    },
-    {
-        "title": "[종합]신규 확진자 54명...이틀 연속 50명대",
-        "link": "http://www.fnnews.com/news/202007021034080931"
+        "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
+        "link": "http://www.inews24.com/view/1278532"
     },
     {
         "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무 조치",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "‘코로나19’ 54명 신규 확진…광주 22명·수도권 23명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484785&ref=A"
+        "title": "KT, 코로나19 확진자 발생…광화문 사옥 폐쇄",
+        "link": "http://it.chosun.com/site/data/html_dir/2020/07/02/2020070201581.html"
     },
     {
         "title": "WHO “6월 확진자 수가 코로나19 누적 확진자 수의 60%”",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200702500011&wlog_tag3=naver"
     },
     {
+        "title": "‘코로나19’ 54명 신규 확진…광주 22명·수도권 23명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484785&ref=A"
+    },
+    {
         "title": "`코로나19` 확진자 54명중 광주 22명 `초비상`",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020070202109919711016&ref=naver"
     },
     {
-        "title": "KT, 코로나19로 광화문 사옥 폐쇄",
-        "link": "https://zdnet.co.kr/view/?no=20200702100629"
+        "title": "[종합]신규 확진자 54명...이틀 연속 50명대",
+        "link": "http://www.fnnews.com/news/202007021034080931"
     },
     {
-        "title": "대구시 \"확진자 3명…지역발생 1명·해외유입 2명\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020070210310545072"
+        "title": "코로나 신규 확진자 54명...광주서 하루동안 22명 발생해",
+        "link": "http://www.hani.co.kr/arti/society/health/951908.html"
     }
 ];
