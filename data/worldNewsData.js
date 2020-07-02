@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
-        "title": "US sees record 52,000 new virus cases in 24 hours: Johns Hopkins",
-        "link": "https://timesofindia.indiatimes.com/world/us/us-sees-record-52000-new-virus-cases-in-24-hours-johns-hopkins/articleshow/76740967.cms"
+        "title": "European Union bars travelers from US citing coronavirus concerns",
+        "link": "https://www.valleynewslive.com/2020/07/01/european-union-bars-travelers-from-us-citing-coronavirus-concerns/"
     },
     {
-        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
+        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
+        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
     }
 ];
