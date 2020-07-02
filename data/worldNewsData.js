@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/pakistan-central-bank-governor-on-economic-challenges-during-coronavirus-pandemic.html"
     },
     {
-        "title": "India's coronavirus cases cross 600,000; demand for China's medical products surge",
-        "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
+        "title": "U.S. Reports Nearly 50,000 New Coronavirus Cases, Another Single-Day Record",
+        "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
     },
     {
         "title": "Groom dies two days after Indian wedding, 80 people infected with coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
-        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
-        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
-    },
-    {
         "title": "US virus cases smash daily record as global infections soar - The Jakarta Post",
         "link": "https://www.thejakartapost.com/news/2020/07/02/us-virus-cases-smash-daily-record-as-global-infections-soar.html"
     },
     {
-        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
+        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
+        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
+    },
+    {
+        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
+        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     }
 ];
