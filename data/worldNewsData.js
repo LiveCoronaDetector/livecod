@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=5fAAqF5zu94"
     },
     {
-        "title": "U.S. Cases Reach New Record",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
+        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     },
     {
         "title": "Trump says Covid-19 will 'disappear' after US reports record one-day increase",
