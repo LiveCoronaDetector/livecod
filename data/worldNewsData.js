@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
+        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
     {
         "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
-        "title": "European Union bars travelers from US citing coronavirus concerns",
-        "link": "https://www.valleynewslive.com/2020/07/01/european-union-bars-travelers-from-us-citing-coronavirus-concerns/"
+        "title": "New coronavirus cases in U.S. top 50,000 in one day, setting record",
+        "link": "https://www.cbsnews.com/news/us-coronavirus-cases-record-50000-in-one-day/"
     },
     {
-        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
-        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
+        "title": "Coronavirus live news: Sweden's cases pass 70,000; Tokyo confirms highest new case tally in two months",
+        "link": "https://www.theguardian.com/world/live/2020/jul/02/coronavirus-live-updates-latest-news-new-zealand-health-minister-quits-who-middle-east-us-trump-brazil"
     }
 ];

@@ -13,16 +13,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200702084651017?did=1195m"
     },
     {
-        "title": "광주, 확진자 급증에 비상…“현재 가용 병상 17개 뿐”",
-        "link": "https://www.donga.com/news/article/all/20200702/101790790/2"
-    },
-    {
         "title": "日 코로나19 신규 확진자 194명···두 달만에 최다",
         "link": "https://www.sedaily.com/NewsView/1Z55DFQLPT"
     },
     {
-        "title": "광주 확진자 4명 추가 발생…누적 환자 82명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200702_0001082109&cID=10809&pID=10800"
+        "title": "광주, 확진자 급증에 비상…“현재 가용 병상 17개 뿐”",
+        "link": "https://www.donga.com/news/article/all/20200702/101790790/2"
     },
     {
         "title": "의정부 장암주공아파트 확진자 3명 추가…누적 9명(종합)",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 확진자 54명↑…광주에서만 22명",
         "link": "https://www.nocutnews.co.kr/news/5371372"
+    },
+    {
+        "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
+        "link": "http://www.inews24.com/view/1278532"
     }
 ];
