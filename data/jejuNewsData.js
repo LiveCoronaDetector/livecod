@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014758335&code=61121911&cp=nv"
     },
     {
+        "title": "[코로나19-중앙방역대책본부] “광주 광륵사 확진자 30명 추가…‘렘데시비르...",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485079&ref=A"
+    },
+    {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
         "link": "https://www.ytn.co.kr/_ln/0115_202007021404532249"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
-        "title": "광주시, 코로나19 매개지로 '금양오피스텔' 지목",
-        "link": "https://www.nocutnews.co.kr/news/5371689"
-    },
-    {
-        "title": "'스텔스 코로나' 에 속수무책…KT·삼성SDS 사옥 폐쇄",
-        "link": "https://www.hankyung.com/society/article/202007026178i"
+        "title": "절·방판업체 연쇄감염 확산…광주 누적확진자 49명(종합)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020070217195662604"
     }
 ];
