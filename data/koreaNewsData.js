@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5371372"
     },
     {
+        "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
+        "link": "http://www.inews24.com/view/1278532"
+    },
+    {
         "title": "日 코로나19 신규 확진자 194명···두 달만에 최다",
         "link": "https://www.sedaily.com/NewsView/1Z55DFQLPT"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "의정부 장암주공아파트 확진자 3명 추가…누적 9명(종합)",
         "link": "http://yna.kr/AKR20200702099051060?did=1195m"
-    },
-    {
-        "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
-        "link": "http://www.inews24.com/view/1278532"
     }
 ];

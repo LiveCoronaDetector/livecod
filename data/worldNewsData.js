@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
     {
+        "title": "Florida shatters records with over 10,000 new COVID-19 cases in single day",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-usa-florida/florida-shatters-records-with-over-10000-new-covid-19-cases-in-single-day-idUSKBN243299"
+    },
+    {
         "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
-    },
-    {
-        "title": "Coronavirus: Florida reports single-day record of more than 10K new COVID-19 cases",
-        "link": "https://www.wesh.com/article/florida-coronavirus-cases-thursday/33078499"
-    },
-    {
-        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
-        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
     }
 ];
