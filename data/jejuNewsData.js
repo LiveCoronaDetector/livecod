@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200701054651054?did=1195m"
     },
     {
+        "title": "광주 하룻새 22명 증가...확진자 예식장 3곳 방문",
+        "link": "https://www.ytn.co.kr/_ln/0115_202007021141231188"
+    },
+    {
         "title": "광주서 하루새 코로나19 확진자 12명 발생...누적 확진자 56명",
         "link": "http://www.fnnews.com/news/202007010800011547"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진자 입원에...'외래 진료 휴진'",
         "link": "https://www.news1.kr/photos/view/?4267032"
-    },
-    {
-        "title": "광주 하룻새 22명 증가...확진자 예식장 3곳 방문",
-        "link": "https://www.ytn.co.kr/_ln/0115_202007021141231188"
     },
     {
         "title": "제주신화월드, 제주도 학생들 위해 마스크 1만장 기부",

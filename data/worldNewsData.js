@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/chinese-health-product-exports-on-the-rise-as-coronavirus-pandemic-persists.html"
     },
     {
-        "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
-        "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
-    },
-    {
         "title": "Coronavirus Updates: Trump Says He's 'All For Masks,' But Believes Covid-19 Will 'Disappear'",
         "link": "https://www.youtube.com/watch?v=5fAAqF5zu94"
     },
     {
-        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
-        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
+        "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
+        "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
-        "title": "Trump says Covid-19 will 'disappear' after US reports record one-day increase",
+        "title": "US reports daily case record of 52,000 after Trump says Covid-19 will 'disappear'",
         "link": "https://www.theguardian.com/world/2020/jul/01/us-coronavirus-cases-record-one-day-increase-trump-silent"
+    },
+    {
+        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
+        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     }
 ];
