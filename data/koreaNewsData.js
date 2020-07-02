@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200702125622"
     },
     {
+        "title": "코로나19 확진자 54명↑…광주에서만 22명",
+        "link": "https://www.nocutnews.co.kr/news/5371372"
+    },
+    {
         "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "KT서 코로나19 확진자 나와…광화문 사옥 폐쇄 결정",
+        "link": "http://news.tf.co.kr/read/economy/1800173.htm"
+    },
+    {
+        "title": "하루 확진자 5만 명 쏟아지자…트럼프 \"마스크 대찬성\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005864871&plink=ORI&cooper=NAVER"
     },
     {
         "title": "7월 2일 ‘코로나19’ 전세계 확진자 1057만명…입국금지·검역 조치 178개국...",
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/02/2020070280242.html"
     },
     {
-        "title": "코로나19 확진자 54명↑…광주에서만 22명",
-        "link": "https://www.nocutnews.co.kr/news/5371372"
+        "title": "광주, 확진자 급증에 비상…“현재 가용 병상 17개 뿐”",
+        "link": "https://www.donga.com/news/article/all/20200702/101790790/2"
     },
     {
-        "title": "[속보]코로나 확진자로 KT 광화문 사옥 이틀간 폐쇄···일부 직원들 사측 초...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007021002011&code=920100"
+        "title": "광주 확진자 4명 추가 발생…누적 환자 82명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200702_0001082109&cID=10809&pID=10800"
     },
     {
-        "title": "삼성SDS서 코로나19 확진자 발생…사옥 폐쇄·직원 귀가 조치",
-        "link": "http://news.tf.co.kr/read/economy/1800188.htm"
-    },
-    {
-        "title": "‘코로나19’ 54명 신규 확진…광주 22명·수도권 23명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484785&ref=A"
-    },
-    {
-        "title": "`코로나19` 확진자 54명중 광주 22명 `초비상`",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020070202109919711016&ref=naver"
-    },
-    {
-        "title": "하루 확진자 5만 명 쏟아지자…트럼프 \"마스크 대찬성\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005864871&plink=ORI&cooper=NAVER"
+        "title": "의정부 장암주공아파트 확진자 3명 추가…누적 9명(종합)",
+        "link": "http://yna.kr/AKR20200702099051060?did=1195m"
     }
 ];
