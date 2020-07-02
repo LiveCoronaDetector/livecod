@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/pakistan-central-bank-governor-on-economic-challenges-during-coronavirus-pandemic.html"
     },
     {
-        "title": "Coronavirus live updates: India's cases cross 600,000; demand for China's medical products surge",
-        "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
+        "title": "U.S. Reports Nearly 50,000 New Coronavirus Cases, Another Single-Day Record",
+        "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
     },
     {
         "title": "They were arrested for breaking lockdown rules. Then they died in police custody",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
     },
     {
-        "title": "Coronavirus live news: Russia cases pass 660,000; US reports 50,000 new cases",
+        "title": "Coronavirus live news: Russia cases pass 660,000; Indonesia reports record daily infections rise",
         "link": "https://www.theguardian.com/world/live/2020/jul/02/coronavirus-live-updates-latest-news-new-zealand-health-minister-quits-who-middle-east-us-trump-brazil"
     }
 ];
