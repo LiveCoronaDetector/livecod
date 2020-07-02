@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
-        "title": "Gov. Greg Abbott requires masks statewide to fight COVID-19, limits size of gatherings",
-        "link": "https://www.dallasnews.com/news/public-health/2020/07/02/gov-greg-abbott-requires-masks-statewide-to-fight-covid-19-limits-size-of-gatherings/"
+        "title": "Young People Spreading Covid-19; Florida Cases Rise Most Ever; Trump Hails June U.S. Jobs Report",
+        "link": "https://www.youtube.com/watch?v=1IF9g6vj3ig"
     },
     {
         "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
     {
-        "title": "Trump's anti-mask crusade is coming back to bite him",
-        "link": "https://www.cnn.com/2020/07/02/politics/donald-trump-coronavirus-masks-politics-joe-biden-election-2020/index.html"
+        "title": "Texas Mandates Face Coverings as Coronavirus Cases Surge",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/h_fa914077a7e53a9636a144e228865a08"
+        "title": "Why Texas is seeing a surge in coronavirus cases",
+        "link": "https://www.bbc.com/news/av/world-us-canada-53256821/why-texas-is-seeing-a-surge-in-coronavirus-cases"
     }
 ];
