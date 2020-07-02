@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200702084651017?did=1195m"
     },
     {
+        "title": "[속보] 오늘 전국 522개교 등교 못 해...확진자 급증",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007020341&t=NN"
+    },
+    {
         "title": "[종합]신규 확진자 54명...이틀 연속 50명대",
         "link": "http://www.fnnews.com/news/202007021034080931"
     },
@@ -13,28 +17,24 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200702125622"
     },
     {
+        "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[속보]코로나 확진자로 KT 광화문 사옥 이틀간 폐쇄···일부 직원들 사측 초...",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007021002011&code=920100"
     },
     {
-        "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
-        "link": "http://www.inews24.com/view/1278532"
-    },
-    {
-        "title": "KT 광화문 사옥 코로나19 확진자 발생…전원 재택 근무",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485038&ref=A"
-    },
-    {
-        "title": "`코로나19` 확진자 54명중 광주 22명 `초비상`",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020070202109919711016&ref=naver"
-    },
-    {
-        "title": "코로나 신규 확진자 54명...광주서 하루동안 22명 발생해",
-        "link": "http://www.hani.co.kr/arti/society/health/951908.html"
+        "title": "코로나19 신규 확진자 54명 늘어…이틀 연속 50명대",
+        "link": "http://news.tf.co.kr/read/life/1800202.htm"
     },
     {
         "title": "‘코로나19’ 54명 신규 확진…광주 22명·수도권 23명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4484785&ref=A"
+    },
+    {
+        "title": "`코로나19` 확진자 54명중 광주 22명 `초비상`",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2020070202109919711016&ref=naver"
     },
     {
         "title": "WHO “6월 확진자 수가 코로나19 누적 확진자 수의 60%”",
