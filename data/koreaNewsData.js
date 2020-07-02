@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200702084651017?did=1195m"
     },
     {
-        "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
-        "link": "https://zdnet.co.kr/view/?no=20200702125622"
-    },
-    {
         "title": "광주 확진자 4명 추가 발생…누적 환자 82명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200702_0001082109&cID=10809&pID=10800"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
+        "link": "https://zdnet.co.kr/view/?no=20200702125622"
     },
     {
         "title": "코로나19 확진자 54명↑…광주에서만 22명",
