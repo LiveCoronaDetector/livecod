@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007021002011&code=920100"
     },
     {
-        "title": "삼성SDS에서 코로나19 확진자 발생…잠실 사옥 폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200702084651017?did=1195m"
-    },
-    {
         "title": "`코로나19` 확진자 54명중 광주 22명 `초비상`",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020070202109919711016&ref=naver"
+    },
+    {
+        "title": "삼성SDS에서 코로나19 확진자 발생…잠실 사옥 폐쇄(종합)",
+        "link": "http://yna.kr/AKR20200702084651017?did=1195m"
     },
     {
         "title": "광주, 확진자 급증에 비상…“현재 가용 병상 17개 뿐”",
