@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020070274497"
     },
     {
-        "title": "삼성SDS에서 코로나19 확진자 발생…잠실 사옥 폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200702084651017?did=1195m"
-    },
-    {
         "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
         "link": "https://zdnet.co.kr/view/?no=20200702125622"
+    },
+    {
+        "title": "삼성SDS에서 코로나19 확진자 발생…잠실 사옥 폐쇄(종합)",
+        "link": "http://yna.kr/AKR20200702084651017?did=1195m"
     },
     {
         "title": "코로나19 확진자 54명↑…광주에서만 22명",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007021002011&code=920100"
     },
     {
-        "title": "日 코로나19 신규 확진자 194명···두 달만에 최다",
-        "link": "https://www.sedaily.com/NewsView/1Z55DFQLPT"
+        "title": "`코로나19` 확진자 54명중 광주 22명 `초비상`",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2020070202109919711016&ref=naver"
     },
     {
         "title": "광주, 확진자 급증에 비상…“현재 가용 병상 17개 뿐”",
