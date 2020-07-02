@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/coronavirus-outbreak-among-university-washington-greek-life-state-sees-second-highest-daily-case-jump"
     },
     {
-        "title": "Coronavirus live updates: California rolls back reopening, NYC pauses indoor dining plans",
-        "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
+        "title": "Italy keeps coronavirus pandemic under control, but many staying home to be safe",
+        "link": "https://www.foxnews.com/world/italy-coronavirus-pandemic-work-home-office"
     },
     {
         "title": "Groom dies after infecting over 100 wedding guests with coronavirus in India",
         "link": "https://nypost.com/2020/07/01/groom-infects-100-guests-with-coronavirus-dies-two-days-later/"
     },
     {
-        "title": "Australia to lock down 300,000 in Melbourne suburbs after coronavirus spike",
-        "link": "https://nypost.com/2020/07/01/australia-to-lock-down-300000-in-melbourne-suburbs-after-coronavirus-spike/"
+        "title": "As the coronavirus pandemic persists, here's one encouraging sign for Chinese exports",
+        "link": "https://www.cnbc.com/2020/07/02/chinese-health-product-exports-on-the-rise-as-coronavirus-pandemic-persists.html"
     },
     {
         "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
-        "title": "Trump says Covid-19 will 'disappear' after US reports record one-day increase",
-        "link": "https://www.theguardian.com/world/2020/jul/01/us-coronavirus-cases-record-one-day-increase-trump-silent"
+        "title": "Coronavirus: 'I'm all for masks,' says Trump in change of tone",
+        "link": "https://www.bbc.com/news/world-us-canada-53258792"
     },
     {
         "title": "U.S. Cases Reach New Record",
         "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
-        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
-        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
+        "title": "Trump says Covid-19 will 'disappear' after US reports record one-day increase",
+        "link": "https://www.theguardian.com/world/2020/jul/01/us-coronavirus-cases-record-one-day-increase-trump-silent"
     }
 ];

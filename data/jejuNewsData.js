@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200701054651054?did=1195m"
     },
     {
-        "title": "제주도, 안산시 코로나19 확진자 일행 접촉자 총 56명",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=125918"
-    },
-    {
         "title": "광주서 하루새 코로나19 확진자 12명 발생...누적 확진자 56명",
         "link": "http://www.fnnews.com/news/202007010800011547"
+    },
+    {
+        "title": "광주 확진자 제주여행 동선 공개…원 지사, 관광객 방역수칙 준수 당부",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007011846001&code=620117"
     },
     {
         "title": "코로나19 확진자 입원에...출입문 폐쇄",
