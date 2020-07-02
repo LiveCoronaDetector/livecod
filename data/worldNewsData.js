@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Inside a South African field hospital coping with Covid-19",
-        "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
+        "link": "https://news.google.com/articles/CAIiEC6Pe7lNLGzBmlKelktxG_YqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: 'I'm all for masks,' says Trump in change of tone",
@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/pakistan-central-bank-governor-on-economic-challenges-during-coronavirus-pandemic.html"
     },
     {
-        "title": "Coronavirus live updates: India's cases cross 600,000; demand for China's medical products surge",
+        "title": "India's coronavirus cases cross 600,000; demand for China's medical products surge",
         "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/01/asia/tamil-nadu-deaths-custody-intl-hnk/index.html"
     },
     {
-        "title": "Ending poverty in 2020 was going to be Xi's crowning achievement. Coronavirus might have ruined it",
-        "link": "https://www.cnn.com/2020/07/01/economy/china-xi-coronavirus-poverty-alleviation-intl-hnk/index.html"
+        "title": "Quarantine hotel sex scandal linked to coronavirus outbreak in Australian city of Melbourne",
+        "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
     },
     {
         "title": "Trump says he's 'all for masks,' but believes coronavirus will 'disappear'",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
         "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
-    },
-    {
-        "title": "US sets new daily record of coronavirus cases: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/urges-halt-conflict-coronavirus-pandemic-live-update-200701231825751.html"
     }
 ];
