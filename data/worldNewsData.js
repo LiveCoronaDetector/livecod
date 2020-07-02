@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
-        "title": "U.S. Cases Reach New Record",
-        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
+        "title": "Trump says Covid-19 will 'disappear' after US reports record one-day increase",
+        "link": "https://www.theguardian.com/world/2020/jul/01/us-coronavirus-cases-record-one-day-increase-trump-silent"
     },
     {
         "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
         "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     },
     {
-        "title": "Trump says Covid-19 will 'disappear' after US reports record one-day increase",
-        "link": "https://www.theguardian.com/world/2020/jul/01/us-coronavirus-cases-record-one-day-increase-trump-silent"
+        "title": "Brazil death toll exceeds 60,000; West Bank goes into lockdown – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
     }
 ];

@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     },
     {
-        "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",
-        "link": "https://news.joins.com/article/olink/23409359"
+        "title": "전체 코로나19 확진자의 60%가 지난 1달 새 발생",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=401275&class=42&grp="
+    },
+    {
+        "title": "WHO \"지난달 코로나 환자가 전체 누적확진자의 60%\"",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200702000400038/?did=1825m"
+    },
+    {
+        "title": "[속보] 미국 코로나19 확진자 6일 연속 하루 4만명 넘어",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200702500007&wlog_tag3=naver"
     },
     {
         "title": "전남 코로나19 25번째 확진자 발생...해외입국 30대",
         "link": "http://www.fnnews.com/news/202007011105026220"
     },
     {
-        "title": "서울시 코로나 확진자 1,321명…\"민주노총 집회 강행하면 '집회 금지' 명령 내...",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5827962_32633.html"
+        "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",
+        "link": "https://news.joins.com/article/olink/23409359"
     },
     {
         "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
         "link": "https://www.nocutnews.co.kr/news/5370904"
-    },
-    {
-        "title": "당뇨병 환자가 코로나19 특히 주의해야 하는 이유",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/07/01/2020070102999.html"
-    },
-    {
-        "title": "전체 코로나19 확진자의 60%가 지난 1달 새 발생",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=401275&class=42&grp="
     }
 ];

@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://sports.donga.com/article/all/20200701/101764119/1"
     },
     {
-        "title": "[종합] 광주 확진자 2명 추가…깜깜이 전파 우려",
-        "link": "https://www.hankyung.com/society/article/2020063076847"
+        "title": "제주도 해수욕장 전면 개장 “방역 지침 지켜주세요!”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484039&ref=A"
     }
 ];
