@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53258792"
     },
     {
-        "title": "Coronavirus outbreak among University of Washington Greek life; state sees 2nd-highest daily case jump",
-        "link": "https://www.foxnews.com/health/coronavirus-outbreak-among-university-washington-greek-life-state-sees-second-highest-daily-case-jump"
+        "title": "Pakistan central bank governor says coronavirus lockdowns are a 'luxury of the rich'",
+        "link": "https://www.cnbc.com/2020/07/02/pakistan-central-bank-governor-on-economic-challenges-during-coronavirus-pandemic.html"
     },
     {
-        "title": "Coronavirus live updates: California rolls back reopening, NYC pauses indoor dining plans",
+        "title": "Coronavirus live updates: Demand for China's medical products surge",
         "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {

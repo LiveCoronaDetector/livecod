@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007021034080931"
     },
     {
-        "title": "‘코로나19’ 54명 신규 확진…광주 22명·수도권 23명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4484785&ref=A"
-    },
-    {
         "title": "삼성SDS에서 코로나19 확진자 발생…잠실 사옥 폐쇄(종합)",
         "link": "http://yna.kr/AKR20200702084651017?did=1195m"
+    },
+    {
+        "title": "KT 광화문 사옥서 코로나 확진자…\"전원 재택근무\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007020220&t=NN"
+    },
+    {
+        "title": "[속보]코로나 확진자로 KT 광화문 사옥 이틀간 폐쇄···일부 직원들 사측 초...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007021002011&code=920100"
     },
     {
         "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
         "link": "http://www.inews24.com/view/1278532"
     },
     {
-        "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무 조치",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "`코로나19` 확진자 54명중 광주 22명 `초비상`",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2020070202109919711016&ref=naver"
     },
     {
         "title": "WHO “6월 확진자 수가 코로나19 누적 확진자 수의 60%”",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200702500011&wlog_tag3=naver"
     },
     {
-        "title": "`코로나19` 확진자 54명중 광주 22명 `초비상`",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020070202109919711016&ref=naver"
-    },
-    {
-        "title": "삼성SDS서 코로나19 확진자 발생…잠실 사옥 폐쇄",
-        "link": "https://www.dailian.co.kr/news/view/902193?sc=Naver"
+        "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[종합] 코로나19 신규 확진자 이틀 연속 50명대…지역감염 확산",
         "link": "https://www.hankyung.com/society/article/2020070244337"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 54명···지역발생 44명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007021018001&code=940601"
+        "title": "[전문] 광주시 2일 코로나19 확진자 브리핑",
+        "link": "http://www.betanews.net:8080/article/1201225.html"
     }
 ];
