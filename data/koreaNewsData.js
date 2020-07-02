@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200702084651017?did=1195m"
     },
     {
+        "title": "[속보] 대구 중구 연기학원 7명 확진자 발생 \"역학조사중\"",
+        "link": "https://news.imaeil.com/Society/2020070219450263196"
+    },
+    {
         "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
         "link": "https://zdnet.co.kr/view/?no=20200702125622"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/economy/1800173.htm"
     },
     {
-        "title": "하루 확진자 5만 명 쏟아지자…트럼프 \"마스크 대찬성\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005864871&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "7월 2일 ‘코로나19’ 전세계 확진자 1057만명…입국금지·검역 조치 178개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/02/2020070280242.html"
-    },
-    {
-        "title": "광주, 확진자 급증에 비상…“현재 가용 병상 17개 뿐”",
-        "link": "https://www.donga.com/news/article/all/20200702/101790790/2"
+        "title": "KT 광화문 사옥서 코로나 확진자 발생… 전원 재택근무",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/02/2020070201890.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "광주 확진자 4명 추가 발생…누적 환자 82명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200702_0001082109&cID=10809&pID=10800"
     },
     {
-        "title": "의정부 장암주공아파트 확진자 3명 추가…누적 9명(종합)",
-        "link": "http://yna.kr/AKR20200702099051060?did=1195m"
+        "title": "7월 2일 ‘코로나19’ 전세계 확진자 1057만명…입국금지·검역 조치 178개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/02/2020070280242.html"
+    },
+    {
+        "title": "[속보] 대구 확진자 다닌 연기학원서 7명 코로나19 추가 확진",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020070219501039426"
     }
 ];

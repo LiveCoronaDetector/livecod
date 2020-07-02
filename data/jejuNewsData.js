@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007011755302345"
     },
     {
+        "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
+    },
+    {
         "title": "절·방판업체 연쇄감염 확산…광주 누적확진자 49명(종합)",
         "link": "http://news.mt.co.kr/mtview.php?no=2020070217195662604"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[속보]밤새 광주서 코로나 확진자 7명 추가…지역감염 비상",
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
-    },
-    {
-        "title": "'집단 발병' 광주 코로나19 매개지는 어디?",
-        "link": "https://www.nocutnews.co.kr/news/5371856"
     }
 ];
