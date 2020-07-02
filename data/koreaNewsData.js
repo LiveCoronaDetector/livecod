@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1278532"
     },
     {
+        "title": "[속보]코로나 확진자로 KT 광화문 사옥 이틀간 폐쇄···일부 직원들 사측 초...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007021002011&code=920100"
+    },
+    {
         "title": "日 코로나19 신규 확진자 194명···두 달만에 최다",
         "link": "https://www.sedaily.com/NewsView/1Z55DFQLPT"
     },
     {
         "title": "광주, 확진자 급증에 비상…“현재 가용 병상 17개 뿐”",
         "link": "https://www.donga.com/news/article/all/20200702/101790790/2"
-    },
-    {
-        "title": "의정부 장암주공아파트 확진자 3명 추가…누적 9명(종합)",
-        "link": "http://yna.kr/AKR20200702099051060?did=1195m"
     }
 ];
