@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200702125622"
     },
     {
-        "title": "삼성SDS에서 코로나19 확진자 발생…잠실 사옥 폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200702084651017?did=1195m"
-    },
-    {
         "title": "코로나19 확진자 54명↑…광주에서만 22명",
         "link": "https://www.nocutnews.co.kr/news/5371372"
     },
     {
         "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
         "link": "http://www.inews24.com/view/1278532"
+    },
+    {
+        "title": "삼성SDS에서 코로나19 확진자 발생…잠실 사옥 폐쇄(종합)",
+        "link": "http://yna.kr/AKR20200702084651017?did=1195m"
     },
     {
         "title": "[속보]코로나 확진자로 KT 광화문 사옥 이틀간 폐쇄···일부 직원들 사측 초...",
