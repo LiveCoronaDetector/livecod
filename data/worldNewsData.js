@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/coronavirus-outbreak-among-university-washington-greek-life-state-sees-second-highest-daily-case-jump"
     },
     {
-        "title": "Coronavirus live updates: California rolls back reopening, NYC pauses indoor dining plans",
-        "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
+        "title": "Italy keeps coronavirus pandemic under control, but many staying home to be safe",
+        "link": "https://www.foxnews.com/world/italy-coronavirus-pandemic-work-home-office"
     },
     {
         "title": "Groom dies after infecting over 100 wedding guests with coronavirus in India",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     },
     {
-        "title": "Covid-19 vaccine from Pfizer and BioNTech shows positive results",
-        "link": "https://www.cnbc.com/2020/07/01/coronavirus-vaccine-from-pfizer-and-biontech-shows-positive-results-report-says.html"
+        "title": "Coronavirus: US buys nearly all of Gilead's Covid-19 drug remdesivir",
+        "link": "https://www.bbc.com/news/world-us-canada-53254487"
     }
 ];

@@ -21,20 +21,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007011105026220"
     },
     {
-        "title": "WHO, \"지난달 신규 코로나 확진자, 누적확진자의 60%…다음 주 코로나 조사단...",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070200870.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "전체 코로나19 확진자의 60%가 지난 1달 새 발생",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=401275&class=42&grp="
     },
     {
-        "title": "WHO “6월 확진자 수가 코로나19 누적 확진자 수의 60%”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200702500011&wlog_tag3=naver"
+        "title": "박능후 \"광주지역 코로나19 확산세 심각…거리두기 철저히\"",
+        "link": "https://www.hankyung.com/society/article/2020070237757"
     },
     {
-        "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",
-        "link": "https://news.joins.com/article/olink/23409359"
+        "title": "[속보] 박능후 \"광주지역 코로나19 확산세 심상치 않다\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007020113&t=NN"
+    },
+    {
+        "title": "WHO “6월 확진자 수가 코로나19 누적 확진자 수의 60%”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200702500011&wlog_tag3=naver"
     },
     {
         "title": "\"코로나 중증 이상 환자 33명, 렘데시비르 우선투약 대상\"",
