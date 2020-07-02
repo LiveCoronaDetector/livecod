@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus Live Updates: As U.S. Cases Surge, More Republicans Embrace Masks",
+        "title": "Coronavirus Live Updates: U.S. Sets New Single-Day Case Record",
         "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/coronavirus-outbreak-among-university-washington-greek-life-state-sees-second-highest-daily-case-jump"
     },
     {
-        "title": "Italy keeps coronavirus pandemic under control, but many staying home to be safe",
-        "link": "https://www.foxnews.com/world/italy-coronavirus-pandemic-work-home-office"
+        "title": "Coronavirus live updates: California rolls back reopening, NYC pauses indoor dining plans",
+        "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
         "title": "Groom dies after infecting over 100 wedding guests with coronavirus in India",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/01/us-coronavirus-cases-record-one-day-increase-trump-silent"
     },
     {
-        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
-        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
+        "title": "U.S. Cases Reach New Record",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus: US buys nearly all of Gilead's Covid-19 drug remdesivir",
-        "link": "https://www.bbc.com/news/world-us-canada-53254487"
+        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
+        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     }
 ];
