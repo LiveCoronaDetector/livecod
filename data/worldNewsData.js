@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Sets New Single-Day Case Record",
-        "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
+        "title": "Coronavirus: 'I'm all for masks,' says Trump in change of tone",
+        "link": "https://www.bbc.com/news/world-us-canada-53258792"
     },
     {
         "title": "Coronavirus outbreak among University of Washington Greek life; state sees 2nd-highest daily case jump",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/chinese-health-product-exports-on-the-rise-as-coronavirus-pandemic-persists.html"
     },
     {
-        "title": "Coronavirus Updates: Trump Says He's 'All For Masks,' But Believes Covid-19 Will 'Disappear'",
-        "link": "https://www.youtube.com/watch?v=5fAAqF5zu94"
-    },
-    {
         "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/01/us-coronavirus-cases-record-one-day-increase-trump-silent"
     },
     {
-        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
-        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
+        "title": "Coronavirus live news: US reports 50,000 new cases as WHO warns on Middle East",
+        "link": "https://www.theguardian.com/world/live/2020/jul/02/coronavirus-live-updates-latest-news-new-zealand-health-minister-quits-who-middle-east-us-trump-brazil"
+    },
+    {
+        "title": "U.S. Cases Reach New Record",
+        "link": "https://www.nytimes.com/2020/06/30/world/coronavirus-updates.html"
     }
 ];
