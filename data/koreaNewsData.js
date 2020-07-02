@@ -17,20 +17,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/951722.html"
     },
     {
+        "title": "전남 코로나19 25번째 확진자 발생...해외입국 30대",
+        "link": "http://www.fnnews.com/news/202007011105026220"
+    },
+    {
+        "title": "WHO, \"지난달 신규 코로나 확진자, 누적확진자의 60%…다음 주 코로나 조사단...",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070200870.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "전체 코로나19 확진자의 60%가 지난 1달 새 발생",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=401275&class=42&grp="
     },
     {
-        "title": "WHO \"지난달 코로나 환자가 전체 누적확진자의 60%\"",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20200702000400038/?did=1825m"
-    },
-    {
-        "title": "[속보] 미국 코로나19 확진자 6일 연속 하루 4만명 넘어",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200702500007&wlog_tag3=naver"
-    },
-    {
-        "title": "전남 코로나19 25번째 확진자 발생...해외입국 30대",
-        "link": "http://www.fnnews.com/news/202007011105026220"
+        "title": "WHO “6월 확진자 수가 코로나19 누적 확진자 수의 60%”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200702500011&wlog_tag3=naver"
     },
     {
         "title": "인도 결혼식 비극…신랑 사망, 하객 100여명 코로나 확진",

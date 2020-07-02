@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus Live Updates: Some States Pause Reopenings as U.S. Cases Surge",
+        "title": "Coronavirus Live Updates: As U.S. Cases Surge, More Republicans Embrace Masks",
         "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     },
     {
-        "title": "Brazil death toll exceeds 60,000; West Bank goes into lockdown – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/jul/01/coronavirus-live-updates-latest-news-us-buys-global-remdesivir-stocks-brazil-deaths-near-60000"
+        "title": "Covid-19 vaccine from Pfizer and BioNTech shows positive results",
+        "link": "https://www.cnbc.com/2020/07/01/coronavirus-vaccine-from-pfizer-and-biontech-shows-positive-results-report-says.html"
     }
 ];
