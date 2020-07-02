@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Inside a South African field hospital coping with Covid-19",
-        "link": "https://news.google.com/articles/CAIiEC6Pe7lNLGzBmlKelktxG_YqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/videos/world/2020/06/30/south-africa-coronavirus-covid-19-pandemic-field-hospital-mckenzie-walk-and-talk-intl-ldn-vpx.cnn"
     },
     {
         "title": "Coronavirus: 'I'm all for masks,' says Trump in change of tone",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
-    },
-    {
         "title": "Trump says he's 'all for masks,' but believes coronavirus will 'disappear'",
         "link": "https://www.cnn.com/2020/07/01/politics/donald-trump-masks-coronavirus/index.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
         "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
+    },
+    {
+        "title": "Coronavirus tally: Global cases of COVID-19 above 10.7 million and U.S. cases top 50,000 in a day for first time",
+        "link": "https://www.marketwatch.com/story/coronavirus-tally-global-cases-of-covid-19-above-107-million-and-us-cases-top-50000-in-a-day-for-first-time-2020-07-02"
     }
 ];
