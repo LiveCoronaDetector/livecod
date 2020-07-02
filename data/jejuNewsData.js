@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     },
     {
-        "title": "광주도 '방판發' 집단감염…빌딩 확진자 주변서 30명 '우르르'",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020070214261633250"
-    },
-    {
         "title": "광주시, 코로나19 매개지로 '금양오피스텔' 지목",
         "link": "https://www.nocutnews.co.kr/news/5371689"
+    },
+    {
+        "title": "'스텔스 코로나' 에 속수무책…KT·삼성SDS 사옥 폐쇄",
+        "link": "https://www.hankyung.com/society/article/202007026178i"
     }
 ];

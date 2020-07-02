@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/01/economy/china-xi-coronavirus-poverty-alleviation-intl-hnk/index.html"
     },
     {
-        "title": "Hundreds of teens at 'pong fest' party in Texas were exposed to coronavirus, officials say",
-        "link": "https://www.msn.com/en-us/news/us/hundreds-of-teens-at-pong-fest-party-in-texas-were-exposed-to-coronavirus-officials-say/ar-BB16e34D"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
     },
     {
         "title": "Trump says he's 'all for masks,' but believes coronavirus will 'disappear'",
