@@ -25,16 +25,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007011755302345"
     },
     {
-        "title": "해열제 복용하며 제주여행…제주도, 접촉자 56명 격리",
-        "link": "http://www.fnnews.com/news/202007011943450254"
-    },
-    {
         "title": "수도권 넘은 코로나19, 광주서 닷새 만에 45명 환자 급증",
         "link": "https://www.pressian.com/pages/articles/2020070215335061648?utm_source=naver&utm_medium=search"
     },
     {
         "title": "[속보]밤새 광주서 코로나 확진자 7명 추가…지역감염 비상",
         "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
+    },
+    {
+        "title": "제주도, 안산 코로나 확진자 일행  접촉자 56명 '격리'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421295"
     },
     {
         "title": "'집단 발병' 광주 코로나19 매개지는 어디?",

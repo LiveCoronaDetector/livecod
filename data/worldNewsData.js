@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
-        "title": "Young People Spreading Covid-19; Florida Cases Rise Most Ever; Trump Hails June U.S. Jobs Report",
-        "link": "https://www.youtube.com/watch?v=1IF9g6vj3ig"
-    },
-    {
         "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
     {
         "title": "Texas Mandates Face Coverings as Coronavirus Cases Surge",
         "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
+    },
+    {
+        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
+        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
     },
     {
         "title": "Why Texas is seeing a surge in coronavirus cases",
