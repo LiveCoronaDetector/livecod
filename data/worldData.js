@@ -596,7 +596,7 @@ var marker = [
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "확진자수": 6673,
+        "확진자수": 6941,
         "사망자수": 149,
         "완치자수": 2089
     },
@@ -964,7 +964,7 @@ var marker = [
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "확진자수": 1267,
+        "확진자수": 1301,
         "사망자수": 15,
         "완치자수": 629
     },

@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
-        "title": "They were arrested for breaking lockdown rules. Then they died in police custody",
-        "link": "https://www.cnn.com/2020/07/01/asia/tamil-nadu-deaths-custody-intl-hnk/index.html"
+        "title": "Groom dies two days after Indian wedding, 80 people infected with coronavirus",
+        "link": "https://www.cnn.com/2020/07/02/asia/india-wedding-coronavirus-infections-scli-intl/index.html"
     },
     {
         "title": "Quarantine hotel sex scandal linked to coronavirus outbreak in Australian city of Melbourne",
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
     },
     {
         "title": "Trump says he's 'all for masks,' but believes coronavirus will 'disappear'",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
         "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
-    },
-    {
-        "title": "Coronavirus tally: Global cases of COVID-19 above 10.7 million and U.S. cases top 50,000 in a day for first time",
-        "link": "https://www.marketwatch.com/story/coronavirus-tally-global-cases-of-covid-19-above-107-million-and-us-cases-top-50000-in-a-day-for-first-time-2020-07-02"
     }
 ];
