@@ -17,6 +17,14 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
+        "link": "https://zdnet.co.kr/view/?no=20200702125622"
+    },
+    {
+        "title": "코로나19 확진자 54명↑…광주에서만 22명",
+        "link": "https://www.nocutnews.co.kr/news/5371372"
+    },
+    {
         "title": "日 코로나19 신규 확진자 194명···두 달만에 최다",
         "link": "https://www.sedaily.com/NewsView/1Z55DFQLPT"
     },
@@ -27,14 +35,6 @@ var koreaNewsData = [
     {
         "title": "의정부 장암주공아파트 확진자 3명 추가…누적 9명(종합)",
         "link": "http://yna.kr/AKR20200702099051060?did=1195m"
-    },
-    {
-        "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
-        "link": "https://zdnet.co.kr/view/?no=20200702125622"
-    },
-    {
-        "title": "코로나19 확진자 54명↑…광주에서만 22명",
-        "link": "https://www.nocutnews.co.kr/news/5371372"
     },
     {
         "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
