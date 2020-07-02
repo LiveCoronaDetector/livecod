@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/01/economy/china-xi-coronavirus-poverty-alleviation-intl-hnk/index.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
+    },
+    {
         "title": "Trump says he's 'all for masks,' but believes coronavirus will 'disappear'",
         "link": "https://www.cnn.com/2020/07/01/politics/donald-trump-masks-coronavirus/index.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
         "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
-    },
-    {
-        "title": "Where Are Coronavirus Cases Getting Worse? Explore Risk Levels County By County : Shots - Health News",
-        "link": "https://www.npr.org/sections/health-shots/2020/07/01/885263658/green-yellow-orange-or-red-this-new-tool-shows-covid-19-risk-in-your-county"
     }
 ];
