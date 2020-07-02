@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://apnews.com/0468a60b64947879926d2a16e45c00ee"
     },
     {
-        "title": "US hits another bleak coronavirus milestone while FDA chief is 'cautiously optimistic' about finding vaccine",
+        "title": "Texas governor orders most residents to wear a face covering in public",
         "link": "https://www.cnn.com/2020/07/02/health/us-coronavirus-thursday/index.html"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/pakistan-central-bank-governor-on-economic-challenges-during-coronavirus-pandemic.html"
     },
     {
-        "title": "U.S. Reports Nearly 50,000 New Coronavirus Cases, Another Single-Day Record",
-        "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
+        "title": "E.U. coronavirus safe list: This is why the U.S. was nowhere near making the cut",
+        "link": "https://www.nbcnews.com/news/world/e-u-coronavirus-safe-list-why-u-s-was-nowhere-n1232741"
     },
     {
         "title": "Groom dies two days after Indian wedding, 80 people infected with coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/h_fa914077a7e53a9636a144e228865a08"
+        "title": "Trump's anti-mask crusade is coming back to bite him",
+        "link": "https://www.cnn.com/2020/07/02/politics/donald-trump-coronavirus-masks-politics-joe-biden-election-2020/index.html"
     },
     {
-        "title": "U.S. coronavirus cases rise by nearly 50,000 in biggest one-day spike of pandemic",
-        "link": "https://news.yahoo.com/u-coronavirus-cases-rise-nearly-013221004.html"
-    },
-    {
-        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
-        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
+        "title": "Texas Mandates Face Coverings as Coronavirus Cases Surge",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
     }
 ];
