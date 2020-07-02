@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/coronavirus-outbreak-among-university-washington-greek-life-state-sees-second-highest-daily-case-jump"
     },
     {
-        "title": "Italy keeps coronavirus pandemic under control, but many staying home to be safe",
-        "link": "https://www.foxnews.com/world/italy-coronavirus-pandemic-work-home-office"
+        "title": "Coronavirus live updates: California rolls back reopening, NYC pauses indoor dining plans",
+        "link": "https://www.cnbc.com/2020/07/01/coronavirus-live-updates.html"
     },
     {
         "title": "Groom dies after infecting over 100 wedding guests with coronavirus in India",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
-        "title": "Coronavirus: 'I'm all for masks,' says Trump in change of tone",
-        "link": "https://www.bbc.com/news/world-us-canada-53258792"
+        "title": "Coronavirus Updates: Trump Says He's 'All For Masks,' But Believes Covid-19 Will 'Disappear'",
+        "link": "https://www.youtube.com/watch?v=5fAAqF5zu94"
     },
     {
         "title": "U.S. Cases Reach New Record",
