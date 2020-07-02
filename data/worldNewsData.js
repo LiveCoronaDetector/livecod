@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
-    },
-    {
-        "title": "Trump says he's 'all for masks,' but believes coronavirus will 'disappear'",
-        "link": "https://www.cnn.com/2020/07/01/politics/donald-trump-masks-coronavirus/index.html"
-    },
-    {
         "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
         "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
     },
     {
         "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
         "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
+    },
+    {
+        "title": "US virus cases smash daily record as global infections soar - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/07/02/us-virus-cases-smash-daily-record-as-global-infections-soar.html"
+    },
+    {
+        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     }
 ];

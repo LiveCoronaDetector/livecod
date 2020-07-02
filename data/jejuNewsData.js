@@ -17,16 +17,16 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202007021404532249"
     },
     {
-        "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",
-        "link": "http://www.fnnews.com/news/202007011755302345"
-    },
-    {
         "title": "절·방판업체 연쇄감염 확산…광주 누적확진자 49명(종합)",
         "link": "http://news.mt.co.kr/mtview.php?no=2020070217195662604"
     },
     {
         "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
+    },
+    {
+        "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",
+        "link": "http://www.fnnews.com/news/202007011755302345"
     },
     {
         "title": "해열제 복용하며 제주여행…제주도, 접촉자 56명 격리",
