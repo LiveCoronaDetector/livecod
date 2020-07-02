@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/u-coronavirus-cases-rise-nearly-013221004.html"
     },
     {
-        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
-        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
+        "title": "U.S. Daily Coronavirus-Case Count Crosses 50,000",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
     },
     {
-        "title": "WHO warns some countries may have to reinstate lockdowns as coronavirus pandemic accelerates",
-        "link": "https://www.cnbc.com/2020/07/01/who-warns-some-countries-may-have-to-reinstate-lockdowns-as-coronavirus-pandemic-accelerates.html"
+        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
+        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
     }
 ];
