@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
     {
-        "title": "U.S. coronavirus cases rise by nearly 50,000 in biggest one-day spike of pandemic",
-        "link": "https://news.yahoo.com/u-coronavirus-cases-rise-nearly-013221004.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/h_fa914077a7e53a9636a144e228865a08"
     },
     {
-        "title": "U.S. Daily Coronavirus-Case Count Crosses 50,000",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
+        "title": "U.S. coronavirus cases rise by nearly 50,000 in biggest one-day spike of pandemic",
+        "link": "https://news.yahoo.com/u-coronavirus-cases-rise-nearly-013221004.html"
     },
     {
         "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",

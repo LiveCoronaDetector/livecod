@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200702125622"
     },
     {
-        "title": "대구 확진 여고생 다닌 연기학원서 7명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200702185600053?did=1195m"
-    },
-    {
         "title": "코로나19 확진자 54명↑…광주에서만 22명",
         "link": "https://www.nocutnews.co.kr/news/5371372"
     },
     {
         "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
         "link": "http://www.inews24.com/view/1278532"
+    },
+    {
+        "title": "대구 확진 여고생 다닌 연기학원서 7명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200702185600053?did=1195m"
     },
     {
         "title": "[종합] 대구 코로나19 확진자 다닌 학원서 7명 확진",
