@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/pakistan-central-bank-governor-on-economic-challenges-during-coronavirus-pandemic.html"
     },
     {
-        "title": "E.U. coronavirus safe list: This is why the U.S. was nowhere near making the cut",
-        "link": "https://www.nbcnews.com/news/world/e-u-coronavirus-safe-list-why-u-s-was-nowhere-n1232741"
+        "title": "Here’s why U.S. struggles with the coronavirus could lead to Europe’s stock market taking the lead",
+        "link": "https://www.marketwatch.com/story/heres-why-us-struggles-with-the-coronavirus-could-lead-to-europes-stock-market-taking-the-lead-2020-07-02"
     },
     {
         "title": "Groom dies two days after Indian wedding, 80 people infected with coronavirus",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
     },
     {
-        "title": "Texas Mandates Face Coverings as Coronavirus Cases Surge",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
+        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
     {
-        "title": "U.S. sets record for new coronavirus cases, surpassing 55,000",
-        "link": "https://www.washingtonpost.com/nation/2020/07/02/coronavirus-live-updates-us/"
+        "title": "Texas Mandates Face Coverings as Coronavirus Cases Surge",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
     }
 ];
