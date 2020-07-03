@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
     },
     {
+        "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
+        "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
+    },
+    {
         "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",
         "link": "http://www.fnnews.com/news/202007011755302345"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 안산 코로나 확진자 일행  접촉자 56명 '격리'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421295"
-    },
-    {
-        "title": "'집단 발병' 광주 코로나19 매개지는 어디?",
-        "link": "https://www.nocutnews.co.kr/news/5371856"
     }
 ];

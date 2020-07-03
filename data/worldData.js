@@ -1497,20 +1497,20 @@ var marker = [
         "완치자수": 45
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 44,
+        "사망자수": 2,
+        "완치자수": 11
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
         "확진자수": 43,
         "사망자수": 3,
         "완치자수": 37
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 42,
-        "사망자수": 2,
-        "완치자수": 11
     },
     {
         "Name": "Lesotho",

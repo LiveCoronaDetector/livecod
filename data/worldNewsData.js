@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
     },
     {
-        "title": "Coronavirus: Texas governor mandates wearing of face masks",
-        "link": "https://www.bbc.com/news/world-us-canada-53273281"
+        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
+        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
     }
 ];
