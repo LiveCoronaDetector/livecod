@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
     },
     {
+        "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
+        "link": "https://www.nocutnews.co.kr/news/5372167"
+    },
+    {
         "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
         "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "수도권 넘은 코로나19, 광주서 닷새 만에 45명 환자 급증",
         "link": "https://www.pressian.com/pages/articles/2020070215335061648?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "[속보]밤새 광주서 코로나 확진자 7명 추가…지역감염 비상",
-        "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     }
 ];
