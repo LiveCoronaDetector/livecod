@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200703009151504?did=1195m"
     },
     {
+        "title": "이낙연 또 자가격리···오영환, 확진자 접촉에 민주당 ‘발칵’",
+        "link": "https://www.sedaily.com/NewsView/1Z55RSEXPT"
+    },
+    {
         "title": "민주당 오영환 \"코로나19 확진자와 악수\"…국회 비상",
         "link": "https://news.joins.com/article/olink/23411371"
     },
     {
-        "title": "\"코로나 확진자와 악수\"…이낙연 등 의원 30명 격리에 與 '비상'",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302357.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "광주 코로나 확진자 총 86명…이용섭 시장, 대시민 호소문 발표…주말 고비(전...",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=576637"
+        "title": "[속보] 경주 53번 확진자 동선(이동경로) 공개",
+        "link": "https://news.imaeil.com/Society/2020070319304480297"
     },
     {
         "title": "대구 '코로나19' 확진자 86일만 두자릿수 증가",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200703073151073?did=1195m"
     },
     {
-        "title": "[속보] 국내 코로나19 확진자 63명 추가...지역발생 52명",
-        "link": "https://www.sedaily.com/NewsView/1Z55R7GL5L"
+        "title": "[종합]신규 확진자 63명...지역발생 52명·해외유입 11명",
+        "link": "http://www.fnnews.com/news/202007031027250102"
     },
     {
         "title": "광주서 코로나 확진자 2명 추가…금양오피스텔·사랑교회 연관",
