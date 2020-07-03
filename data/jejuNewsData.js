@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
     },
     {
-        "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
-    },
-    {
         "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
         "link": "https://www.nocutnews.co.kr/news/5372167"
+    },
+    {
+        "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
     },
     {
         "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",

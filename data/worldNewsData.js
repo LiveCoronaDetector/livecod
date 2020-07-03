@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53256879"
     },
     {
-        "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
-        "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
+        "title": "The US, Brazil and others lifted lockdowns early. These charts show just how deadly that decision was",
+        "link": "https://www.cnn.com/2020/07/03/health/coronavirus-lockdown-lifting-deadly-charts-intl/index.html"
     },
     {
-        "title": "Israel's Rafael, IAI work with UAE counterpart to combat coronavirus",
-        "link": "https://www.jpost.com/jpost-tech/israels-rafael-iai-work-with-uae-counterpart-to-combat-coronavirus-633704"
+        "title": "Israel passes 1,000 new daily corona cases for first time",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-70-patients-in-serious-condition-death-toll-hits-325-633733"
     },
     {
-        "title": "Coronavirus: England's quarantine scrapped for arrivals from 50 'low risk' countries",
-        "link": "https://www.bbc.com/news/uk-53273048"
+        "title": "Prospect of a coronavirus vaccine unites anti-vaxxers, conspiracy theorists and hippie moms in Germany",
+        "link": "https://www.washingtonpost.com/world/europe/coronavirus-vaccine-anti-vaxx-germany/2020/07/02/da7efc7e-acba-11ea-a43b-be9f6494a87d_story.html"
     },
     {
-        "title": "Groom dies two days after Indian wedding, 80 people infected with coronavirus",
-        "link": "https://www.cnn.com/2020/07/02/asia/india-wedding-coronavirus-infections-scli-intl/index.html"
+        "title": "Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding",
+        "link": "https://www.nytimes.com/2020/07/02/world/asia/india-coronavirus-wedding-groom.html"
     },
     {
         "title": "Quarantine hotel sex scandal linked to coronavirus outbreak in Australian city of Melbourne",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
     },
     {
-        "title": "Gov. Greg Abbott issues statewide mask order",
-        "link": "https://abc13.com/harris-county-judge-lina-hidalgo-coronavirus-self-quarantine-stay-at-home-order/6292458/"
+        "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
     }
 ];
