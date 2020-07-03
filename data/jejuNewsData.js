@@ -5,8 +5,12 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020070259817"
     },
     {
-        "title": "광주 금양빌딩 30명 코로나19 집단감염…광륵사 관련 누적 49명(상보)",
-        "link": "https://view.asiae.co.kr/article/2020070214543758822"
+        "title": "[코로나19-중앙방역대책본부] “광주 광륵사 확진자 30명 추가…‘렘데시비르...",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485079&ref=A"
+    },
+    {
+        "title": "[속보] 광륵사 관련 확진자 하루새 30명 늘어… 누적 49명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014758335&code=61121911&cp=nv"
     },
     {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'집단 발병' 광주 코로나19 매개지는 어디?",
         "link": "https://www.nocutnews.co.kr/news/5371856"
-    },
-    {
-        "title": "[속보] 광륵사 관련 확진자 하루새 30명 늘어… 누적 49명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014758335&code=61121911&cp=nv"
     }
 ];
