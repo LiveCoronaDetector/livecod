@@ -5,8 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200703009151504?did=1195m"
     },
     {
-        "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
-        "link": "https://zdnet.co.kr/view/?no=20200702125622"
+        "title": "광주 동부경찰서 수사과 폐쇄…경찰관 3명 확진자와 접촉",
+        "link": "https://news.joins.com/article/olink/23411126"
+    },
+    {
+        "title": "[속보] 광주 동부경찰서 일부 폐쇄...경찰관, 확진자 접촉",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030043&t=NN"
+    },
+    {
+        "title": "北코로나 변수…김정은, 대남군사행동 언급없이 ‘방역강화 지시’(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01551446625830912"
+    },
+    {
+        "title": "[속보] 전북 28번째 확진자 발생…고창거주 60대",
+        "link": "http://www.fnnews.com/news/202007030842499828"
     },
     {
         "title": "코로나19 확진자 54명↑…광주에서만 22명",
@@ -21,23 +33,11 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1278532"
     },
     {
-        "title": "대구 확진 여고생 다닌 연기학원서 7명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200702185600053?did=1195m"
+        "title": "삼성SDS에서 코로나19 확진자 발생…사옥 폐쇄",
+        "link": "https://www.hankyung.com/society/article/2020070248167"
     },
     {
-        "title": "[종합] 대구 코로나19 확진자 다닌 학원서 7명 확진",
-        "link": "https://www.hankyung.com/society/article/2020070274497"
-    },
-    {
-        "title": "KT 광화문 사옥서 코로나 확진자 발생… 전원 재택근무",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/02/2020070201890.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "`코로나19` 확진자 54명중 광주 22명 `초비상`",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020070202109919711016&ref=naver"
-    },
-    {
-        "title": "[속보] 광주 동부경찰서 일부 폐쇄...경찰관, 확진자 접촉",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030043&t=NN"
+        "title": "[속보]코로나 확진자로 KT 광화문 사옥 이틀간 폐쇄···일부 직원들 사측 초...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007021002011&code=920100"
     }
 ];
