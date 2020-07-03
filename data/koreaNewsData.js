@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200703009151504?did=1195m"
     },
     {
-        "title": "오영환 의원, 확진자와 악수 뒤 자가격리…국회 본회의도 연기",
-        "link": "http://www.hani.co.kr/arti/politics/assembly/952152.html"
+        "title": "국회, 코로나 우려에 '추경 본회의' 밤 10시로 연기(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200703_0001083457&cID=10301&pID=10300"
     },
     {
         "title": "민주당 오영환 \"코로나19 확진자와 악수\"…국회 비상",
         "link": "https://news.joins.com/article/olink/23411371"
     },
     {
-        "title": "오영환 \"코로나 확진자와 악수\"…이낙연 등 30여명 격리에 본회의 취소 '위기...",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302357.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "국회, 코로나 우려에 '추경 본회의' 밤 10시로 연기(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200703_0001083457&cID=10301&pID=10300"
+        "title": "광주 코로나 확진자 총 86명…이용섭 시장, 대시민 호소문 발표…주말 고비(전...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=576637"
     },
     {
         "title": "대구 '코로나19' 확진자 86일만 두자릿수 증가",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200703073151073?did=1195m"
     },
     {
-        "title": "[속보] 광주 동부경찰서 일부 폐쇄...경찰관, 확진자 접촉",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030043&t=NN"
-    },
-    {
         "title": "[속보] 국내 코로나19 확진자 63명 추가...지역발생 52명",
         "link": "https://www.sedaily.com/NewsView/1Z55R7GL5L"
     },
     {
-        "title": "금양오피스텔·광주사랑교회 관련 추가 확진자 2명 발생",
-        "link": "https://view.asiae.co.kr/article/2020070309191796122"
+        "title": "광주서 코로나 확진자 2명 추가…금양오피스텔·사랑교회 연관",
+        "link": "http://yna.kr/AKR20200703024200054?did=1195m"
+    },
+    {
+        "title": "\"감염되면 돈 준다\" 미국 대학생들, 코로나19 전파 파티 논란",
+        "link": "https://www.ytn.co.kr/_ln/0134_202007031130021012"
+    },
+    {
+        "title": "[속보] 광주 동부경찰서 일부 폐쇄...경찰관, 확진자 접촉",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030043&t=NN"
     }
 ];

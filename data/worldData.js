@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2837189,
+        "확진자수": 2837237,
         "사망자수": 131485,
-        "완치자수": 1191091
+        "완치자수": 1191306
     },
     {
         "Name": "브라질",
@@ -548,17 +548,17 @@ var marker = [
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "확진자수": 8643,
+        "확진자수": 8648,
         "사망자수": 121,
-        "완치자수": 8437
+        "완치자수": 8446
     },
     {
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 8066,
+        "확진자수": 8255,
         "사망자수": 104,
-        "완치자수": 7132
+        "완치자수": 7319
     },
     {
         "Name": "DRC",
@@ -1076,9 +1076,9 @@ var marker = [
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "확진자수": 902,
+        "확진자수": 911,
         "사망자수": 0,
-        "완치자수": 847
+        "완치자수": 849
     },
     {
         "Name": "Libya",
@@ -1561,6 +1561,14 @@ var marker = [
         "완치자수": 23
     },
     {
+        "Name": "Saint Lucia",
+        "Name_ch": "",
+        "Name_en": "Saint Lucia",
+        "확진자수": 22,
+        "사망자수": 0,
+        "완치자수": 19
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1572,14 +1580,6 @@ var marker = [
         "Name": "Laos",
         "Name_ch": "",
         "Name_en": "Laos",
-        "확진자수": 19,
-        "사망자수": 0,
-        "완치자수": 19
-    },
-    {
-        "Name": "Saint Lucia",
-        "Name_ch": "",
-        "Name_en": "Saint Lucia",
         "확진자수": 19,
         "사망자수": 0,
         "완치자수": 19
