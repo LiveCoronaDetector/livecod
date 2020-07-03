@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200703009151504?did=1195m"
     },
     {
-        "title": "민주당 오영환 \"코로나19 확진자와 악수\"…국회 비상",
-        "link": "https://news.joins.com/article/olink/23411371"
+        "title": "\"코로나 확진자와 악수\"…이낙연 등 의원 30명 격리에 與 '비상'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302357.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 광주이어 대구까지…신규 확진자 60명대",
