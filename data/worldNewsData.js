@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
     },
     {
+        "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
+        "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
+    },
+    {
         "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
         "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
     },
     {
         "title": "Pelosi: 'I'm trying to save the world from coronavirus'",
         "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
-    },
-    {
-        "title": "Global report: horror week for US as coronavirus records tumble",
-        "link": "https://www.theguardian.com/world/2020/jul/03/global-report-horror-week-for-us-as-coronavirus-records-tumble"
     }
 ];

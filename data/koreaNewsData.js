@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302357.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "與 오영환, 코로나 음성 판정…국회 밤 10시 추경 처리 본회의",
-        "link": "http://www.newsis.com/view/?id=NISX20200703_0001083563&cID=10301&pID=10300"
-    },
-    {
         "title": "코로나19 광주이어 대구까지…신규 확진자 60명대",
         "link": "https://news.imaeil.com/Society/2020070310565836644"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "광주서 코로나 확진자 2명 추가…금양오피스텔·사랑교회 연관",
         "link": "http://yna.kr/AKR20200703024200054?did=1195m"
+    },
+    {
+        "title": "與 오영환, 코로나 음성 판정…국회 밤 10시 추경 처리 본회의",
+        "link": "http://www.newsis.com/view/?id=NISX20200703_0001083563&cID=10301&pID=10300"
     },
     {
         "title": "코로나19 신규확진 63명…국내 52명·해외유입 11명",
