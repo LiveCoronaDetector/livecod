@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
     },
     {
-        "title": "Coronavirus live news: Brazil nears 1.5 million infections; Nigeria lifts lockdown in Kano",
+        "title": "Coronavirus live news: Brazil nears 1.5 million infections; South Africa cases surge month after restrictions lifted",
         "link": "https://www.theguardian.com/world/live/2020/jul/03/coronavirus-live-news-cases-rising-us-states-update-brazil-covid-19-infections-latest-updates"
     },
     {
-        "title": "Coronavirus: Texas governor mandates wearing of face masks",
-        "link": "https://www.bbc.com/news/world-us-canada-53273281"
+        "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
     }
 ];

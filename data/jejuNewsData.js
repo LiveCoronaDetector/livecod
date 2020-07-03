@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200703_0001083446&cID=10899&pID=10800"
     },
     {
+        "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
+    },
+    {
         "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
     },
@@ -23,10 +27,6 @@ var jejuNewsData = [
     {
         "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
         "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
-    },
-    {
-        "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
     },
     {
         "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
