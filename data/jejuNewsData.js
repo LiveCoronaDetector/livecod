@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
     },
     {
-        "title": "대구 '경북 신규 확진자 15명…연기학원서 10명 확진(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007030172"
-    },
-    {
         "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",
         "link": "http://www.fnnews.com/news/202007011755302345"
+    },
+    {
+        "title": "대구 '경북 신규 확진자 15명…연기학원서 10명 확진(종합)",
+        "link": "http://www.kukinews.com/newsView/kuk202007030172"
     },
     {
         "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",

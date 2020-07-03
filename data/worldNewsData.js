@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53273281"
     },
     {
-        "title": "U.S. Reports Nearly 50,000 New Coronavirus Cases, Another Single-Day Record",
-        "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
+        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     }
 ];
