@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://apnews.com/0468a60b64947879926d2a16e45c00ee"
     },
     {
-        "title": "Live Coronavirus News: Updates and Video",
+        "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
         "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/pakistan-central-bank-governor-on-economic-challenges-during-coronavirus-pandemic.html"
     },
     {
-        "title": "E.U. coronavirus safe list: This is why the U.S. was nowhere near making the cut",
-        "link": "https://www.nbcnews.com/news/world/e-u-coronavirus-safe-list-why-u-s-was-nowhere-n1232741"
+        "title": "Coronavirus: Quarantine scrapped for arrivals from 'low risk' countries to England",
+        "link": "https://www.bbc.com/news/uk-53273048"
     },
     {
         "title": "Groom dies two days after Indian wedding, 80 people infected with coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
-        "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
-        "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
-    },
-    {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-03-20-intl/index.html"
+    },
+    {
+        "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
+        "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
     },
     {
         "title": "Pelosi: 'I'm trying to save the world from coronavirus'",
         "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
     },
     {
-        "title": "Coronavirus: Texas governor mandates wearing of face masks",
-        "link": "https://www.bbc.com/news/world-us-canada-53273281"
+        "title": "U.S. Reports Nearly 50,000 New Coronavirus Cases, Another Single-Day Record",
+        "link": "https://www.nytimes.com/2020/07/01/world/coronavirus-updates.html"
     }
 ];

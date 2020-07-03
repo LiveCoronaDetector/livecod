@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007011755302345"
     },
     {
-        "title": "대구 '경북 신규 확진자 15명…연기학원서 10명 확진(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007030172"
+        "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
     },
     {
         "title": "수도권 넘은 코로나19, 광주서 닷새 만에 45명 환자 급증",
