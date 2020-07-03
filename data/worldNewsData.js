@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
     },
     {
-        "title": "Gov. Greg Abbott issues statewide mask order",
-        "link": "https://abc13.com/harris-county-judge-lina-hidalgo-coronavirus-self-quarantine-stay-at-home-order/6292458/"
+        "title": "Global report: horror week for US as coronavirus records tumble",
+        "link": "https://www.theguardian.com/world/2020/jul/03/global-report-horror-week-for-us-as-coronavirus-records-tumble"
     }
 ];
