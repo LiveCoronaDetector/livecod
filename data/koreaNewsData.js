@@ -17,16 +17,20 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23411371"
     },
     {
-        "title": "[속보] 수도권 확진자 접촉 경주 53번 확진자 동선 공개",
-        "link": "https://news.imaeil.com/Society/2020070319304480297"
+        "title": "코로나19 광주이어 대구까지…신규 확진자 60명대",
+        "link": "https://news.imaeil.com/Society/2020070310565836644"
     },
     {
-        "title": "광주서 코로나19 확진자 4명 추가 발생...1주일새 57명·누적 90명",
-        "link": "http://www.fnnews.com/news/202007031855300688"
+        "title": "[속보] 광주 동부경찰서 일부 폐쇄...경찰관, 확진자 접촉",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030043&t=NN"
     },
     {
-        "title": "도쿄 코로나 급격히 재확산…신규 확진 이틀째 100명대(종합)",
-        "link": "http://yna.kr/AKR20200703073151073?did=1195m"
+        "title": "대구 '코로나19' 확진자 86일만 두자릿수 증가",
+        "link": "http://www.fnnews.com/news/202007031033088136"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 63명···지역발생 52명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007031019001&code=940601"
     },
     {
         "title": "광주서 코로나 확진자 2명 추가…금양오피스텔·사랑교회 연관",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규확진 63명…국내 52명·해외유입 11명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5830148_32633.html"
-    },
-    {
-        "title": "\"감염되면 돈 준다\" 미국 대학생들, 코로나19 전파 파티 논란",
-        "link": "https://www.ytn.co.kr/_ln/0134_202007031130021012"
     }
 ];
