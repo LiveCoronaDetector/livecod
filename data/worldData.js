@@ -140,9 +140,9 @@ var marker = [
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "확진자수": 153277,
-        "사망자수": 1926,
-        "완치자수": 66442
+        "확진자수": 156391,
+        "사망자수": 1968,
+        "완치자수": 68048
     },
     {
         "Name": "콜롬비아",
@@ -561,6 +561,14 @@ var marker = [
         "완치자수": 7132
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "확진자수": 7267,
+        "사망자수": 202,
+        "완치자수": 4268
+    },
+    {
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
@@ -583,14 +591,6 @@ var marker = [
         "확진자수": 7054,
         "사망자수": 121,
         "완치자수": 4599
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "확진자수": 7000,
-        "사망자수": 200,
-        "완치자수": 4137
     },
     {
         "Name": "Kenya",
@@ -756,9 +756,9 @@ var marker = [
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "확진자수": 3080,
-        "사망자수": 9,
-        "완치자수": 460
+        "확진자수": 3148,
+        "사망자수": 10,
+        "완치자수": 463
     },
     {
         "Name": "Equatorial Guinea",
@@ -884,9 +884,9 @@ var marker = [
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "확진자수": 1825,
-        "사망자수": 78,
-        "완치자수": 1536
+        "확진자수": 1828,
+        "사망자수": 79,
+        "완치자수": 1539
     },
     {
         "Name": "레바논",
@@ -916,7 +916,7 @@ var marker = [
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "확진자수": 1634,
+        "확진자수": 1650,
         "사망자수": 111,
         "완치자수": 1384
     },
@@ -1249,6 +1249,14 @@ var marker = [
         "완치자수": 312
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "확진자수": 335,
+        "사망자수": 0,
+        "완치자수": 25
+    },
+    {
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
@@ -1279,14 +1287,6 @@ var marker = [
         "확진자수": 303,
         "사망자수": 7,
         "완치자수": 200
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "확진자수": 293,
-        "사망자수": 0,
-        "완치자수": 24
     },
     {
         "Name": "Guyana",

@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-03-20-intl/index.html"
+    },
+    {
         "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
         "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Texas governor mandates wearing of face masks",
         "link": "https://www.bbc.com/news/world-us-canada-53273281"
-    },
-    {
-        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     }
 ];
