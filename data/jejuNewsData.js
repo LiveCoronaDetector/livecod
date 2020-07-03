@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200703_0001083446&cID=10899&pID=10800"
     },
     {
-        "title": "제주도내 18‧19번 코로나19 확진자 15일만에 퇴원",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324447"
-    },
-    {
         "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
     },
     {
         "title": "[속보] 광륵사 관련 확진자 하루새 30명 늘어… 누적 49명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014758335&code=61121911&cp=nv"
+    },
+    {
+        "title": "[코로나19-중앙방역대책본부] “광주 광륵사 확진자 30명 추가…‘렘데시비르...",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485079&ref=A"
     },
     {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
     },
     {
-        "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
-        "link": "https://www.nocutnews.co.kr/news/5372167"
-    },
-    {
         "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
+    },
+    {
+        "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
+        "link": "https://www.nocutnews.co.kr/news/5372167"
     },
     {
         "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",
