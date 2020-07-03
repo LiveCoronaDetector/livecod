@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200703094051001?did=1195m"
     },
     {
+        "title": "\"코로나 확진자와 악수\"…이낙연 등 의원 30명 격리에 與 '비상'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302357.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "與 오영환, 코로나 음성 판정…국회 밤 10시 추경 처리 본회의(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200703_0001083569&cID=10301&pID=10300"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "일본 코로나 신규 확진 236명…누적 2만명 넘어(종합)",
         "link": "http://yna.kr/AKR20200703158351073?did=1195m"
-    },
-    {
-        "title": "\"코로나 확진자와 악수\"…이낙연 등 의원 30명 격리에 與 '비상'",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302357.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 광주이어 대구까지…신규 확진자 60명대",
