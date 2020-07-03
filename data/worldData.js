@@ -305,6 +305,14 @@ var marker = [
         "완치자수": 10673
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 35528,
+        "사망자수": 1271,
+        "완치자수": 10358
+    },
+    {
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
@@ -319,14 +327,6 @@ var marker = [
         "확진자수": 35146,
         "사망자수": 1492,
         "완치자수": 22209
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 34227,
-        "사망자수": 1201,
-        "완치자수": 9764
     },
     {
         "Name": "도미니카 공화국",
@@ -556,9 +556,9 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 8001,
+        "확진자수": 8066,
         "사망자수": 104,
-        "완치자수": 7090
+        "완치자수": 7132
     },
     {
         "Name": "핀란드",
@@ -761,6 +761,14 @@ var marker = [
         "완치자수": 460
     },
     {
+        "Name": "Equatorial Guinea",
+        "Name_ch": "",
+        "Name_en": "Equatorial Guinea",
+        "확진자수": 3071,
+        "사망자수": 51,
+        "완치자수": 842
+    },
+    {
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
@@ -855,14 +863,6 @@ var marker = [
         "확진자수": 2021,
         "사망자수": 38,
         "완치자수": 333
-    },
-    {
-        "Name": "Equatorial Guinea",
-        "Name_ch": "",
-        "Name_en": "Equatorial Guinea",
-        "확진자수": 2001,
-        "사망자수": 32,
-        "완치자수": 515
     },
     {
         "Name": "에스토니아",

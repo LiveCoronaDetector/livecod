@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200703009151504?did=1195m"
     },
     {
-        "title": "[속보] 국내 코로나19 확진자 63명 추가...지역발생 52명",
-        "link": "https://www.sedaily.com/NewsView/1Z55R7GL5L"
+        "title": "코로나 신규 확진 63명...지역발생 52명·해외유입 11명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070301226.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 63명···지역발생 52명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007031019001&code=940601"
+        "title": "[종합]신규 확진자 63명...지역발생 52명·해외유입 11명",
+        "link": "http://www.fnnews.com/news/202007031027250102"
+    },
+    {
+        "title": "[속보] 코로나 신규 확진자 63명…대구, 연기학원발 재유행 우려",
+        "link": "http://www.hani.co.kr/arti/society/health/952106.html"
+    },
+    {
+        "title": "[속보] 광주 동부경찰서 일부 폐쇄...경찰관, 확진자 접촉",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030043&t=NN"
     },
     {
         "title": "금양오피스텔·광주사랑교회 관련 추가 확진자 2명 발생",
         "link": "https://view.asiae.co.kr/article/2020070309191796122"
     },
     {
+        "title": "광주서 코로나19 확진자 2명 추가 발생…누적 확진자 84명",
+        "link": "https://www.nocutnews.co.kr/news/5372020"
+    },
+    {
+        "title": "[속보] 코로나19 63명 신규 확진…수도권 31명·대구 13명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485800&ref=A"
+    },
+    {
         "title": "[속보] 대구 유가초등학교 학생 코로나19 확진 판정",
         "link": "https://news.imaeil.com/Society/2020070309015344316"
     },
     {
-        "title": "[속보]'코로나19' 확진자 63명 추가…대구 87일만에 두 자릿수",
-        "link": "https://www.news1.kr/articles/?3984885"
-    },
-    {
-        "title": "[속보] '코로나19' 국내 현황…총 1만2967명, 신규확진 63명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=401384&class=33&grp="
-    },
-    {
-        "title": "丁총리 \"광주에서 코로나 확산세 심상치 않아…취약시설 방문 자제\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070301006.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "광주 코로나19 확진자 2명 추가 발생...누적확진자 84명",
-        "link": "http://www.fnnews.com/news/202007030823590804"
-    },
-    {
-        "title": "김정은, 한달 만에 모습 공개...北에서도 '코로나 비상'인 듯",
-        "link": "https://www.pressian.com/pages/articles/2020070308170156115?utm_source=naver&utm_medium=search"
+        "title": "경남 코로나 확진자 2명 추가…멕시코 입국 직장동료(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200703_0001082624&cID=10812&pID=10800"
     }
 ];
