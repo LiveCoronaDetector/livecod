@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
     },
     {
-        "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
-        "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
+        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
+        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
     },
     {
-        "title": "Pelosi: 'I'm trying to save the world from coronavirus'",
-        "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
+        "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
+        "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
     }
 ];
