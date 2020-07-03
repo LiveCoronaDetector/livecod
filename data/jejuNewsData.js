@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "http://www.kukinews.com/newsView/kuk202007030172"
     },
     {
-        "title": "광주 광륵사 '제2이태원 클럽'될라…관련 확진자 49명 쏟아져",
-        "link": "https://www.hankyung.com/life/article/2020070259817"
-    },
-    {
-        "title": "[코로나19-중앙방역대책본부] “광주 광륵사 확진자 30명 추가…‘렘데시비르...",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485079&ref=A"
+        "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
+        "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
     },
     {
         "title": "[속보] 광륵사 관련 확진자 하루새 30명 늘어… 누적 49명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014758335&code=61121911&cp=nv"
+    },
+    {
+        "title": "[코로나19-중앙방역대책본부] “광주 광륵사 확진자 30명 추가…‘렘데시비르...",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485079&ref=A"
     },
     {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5372167"
     },
     {
-        "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
+        "title": "절·방판업체 연쇄감염 확산…광주 누적확진자 49명(종합)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020070217195662604"
     },
     {
-        "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
-        "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
+        "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
     },
     {
         "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",

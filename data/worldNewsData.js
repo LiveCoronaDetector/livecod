@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/pakistan-central-bank-governor-on-economic-challenges-during-coronavirus-pandemic.html"
     },
     {
-        "title": "July 2 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/h_fa914077a7e53a9636a144e228865a08"
+        "title": "E.U. coronavirus safe list: This is why the U.S. was nowhere near making the cut",
+        "link": "https://www.nbcnews.com/news/world/e-u-coronavirus-safe-list-why-u-s-was-nowhere-n1232741"
     },
     {
         "title": "Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
     {
-        "title": "Coronavirus: Texas governor mandates wearing of face masks",
-        "link": "https://www.bbc.com/news/world-us-canada-53273281"
+        "title": "Texas Mandates Face Coverings as Coronavirus Cases Surge",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
     }
 ];
