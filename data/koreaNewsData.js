@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007031855300688"
     },
     {
+        "title": "\"먼저 걸리면 상금\"…확진자 불러 '코로나 파티'",
+        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5830811_32524.html"
+    },
+    {
         "title": "일본 코로나 신규 확진 236명…누적 2만명 넘어(종합)",
         "link": "http://yna.kr/AKR20200703158351073?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "광주서 코로나 확진자 2명 추가…금양오피스텔·사랑교회 연관",
         "link": "http://yna.kr/AKR20200703024200054?did=1195m"
-    },
-    {
-        "title": "김정은, 3개월만 '코로나' 정치국회의…\"방역완화시 치명적위기\"(종합)",
-        "link": "http://yna.kr/AKR20200703009151504?did=1195m"
     }
 ];
