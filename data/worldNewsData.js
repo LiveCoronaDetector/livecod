@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-03-20-intl/index.html"
+    },
+    {
         "title": "Pelosi: 'I'm trying to save the world from coronavirus'",
         "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
     },
     {
         "title": "Coronavirus: Texas governor mandates wearing of face masks",
         "link": "https://www.bbc.com/news/world-us-canada-53273281"
-    },
-    {
-        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     }
 ];
