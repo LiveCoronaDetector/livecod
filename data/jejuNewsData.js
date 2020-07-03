@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014758335&code=61121911&cp=nv"
     },
     {
-        "title": "[코로나19-중앙방역대책본부] “광주 광륵사 확진자 30명 추가…‘렘데시비르...",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485079&ref=A"
-    },
-    {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
         "link": "https://www.ytn.co.kr/_ln/0115_202007021404532249"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "대구 석 달 만에 확진자 '두 자릿수', 재유행 우려",
         "link": "https://news.imaeil.com/Society/2020070316521339134"
+    },
+    {
+        "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
     }
 ];

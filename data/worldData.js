@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2872042,
-        "사망자수": 131885,
-        "완치자수": 1201130
+        "확진자수": 2875579,
+        "사망자수": 131952,
+        "완치자수": 1201802
     },
     {
         "Name": "브라질",
@@ -516,9 +516,9 @@ var marker = [
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "확진자수": 9992,
-        "사망자수": 68,
-        "완치자수": 4660
+        "확진자수": 10244,
+        "사망자수": 70,
+        "완치자수": 4726
     },
     {
         "Name": "Sudan",
@@ -649,20 +649,20 @@ var marker = [
         "완치자수": 2430
     },
     {
+        "Name": "Guinea",
+        "Name_ch": "",
+        "Name_en": "Guinea",
+        "확진자수": 5521,
+        "사망자수": 33,
+        "완치자수": 4446
+    },
+    {
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
         "확진자수": 5513,
         "사망자수": 42,
         "완치자수": 2508
-    },
-    {
-        "Name": "Guinea",
-        "Name_ch": "",
-        "Name_en": "Guinea",
-        "확진자수": 5450,
-        "사망자수": 33,
-        "완치자수": 4392
     },
     {
         "Name": "Bulgaria",
@@ -897,20 +897,20 @@ var marker = [
         "완치자수": 1539
     },
     {
+        "Name": "Guinea-Bissau",
+        "Name_ch": "",
+        "Name_en": "Guinea-Bissau",
+        "확진자수": 1765,
+        "사망자수": 25,
+        "완치자수": 676
+    },
+    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
         "확진자수": 1720,
         "사망자수": 28,
         "완치자수": 1466
-    },
-    {
-        "Name": "Guinea-Bissau",
-        "Name_ch": "",
-        "Name_en": "Guinea-Bissau",
-        "확진자수": 1654,
-        "사망자수": 24,
-        "완치자수": 317
     },
     {
         "Name": "슬로베니아",
