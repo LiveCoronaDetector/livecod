@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
     },
     {
-        "title": "대구 '경북 신규 확진자 15명…연기학원서 10명 확진(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007030172"
-    },
-    {
         "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
         "link": "https://www.nocutnews.co.kr/news/5372167"
     },
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
     },
     {
+        "title": "대구 '경북 신규 확진자 15명…연기학원서 10명 확진(종합)",
+        "link": "http://www.kukinews.com/newsView/kuk202007030172"
+    },
+    {
         "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",
         "link": "http://www.fnnews.com/news/202007011755302345"
     },
     {
-        "title": "수도권 넘은 코로나19, 광주서 닷새 만에 45명 환자 급증",
-        "link": "https://www.pressian.com/pages/articles/2020070215335061648?utm_source=naver&utm_medium=search"
+        "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
     }
 ];
