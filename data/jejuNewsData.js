@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202007021404532249"
     },
     {
-        "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
-    },
-    {
         "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
         "link": "https://www.nocutnews.co.kr/news/5372167"
+    },
+    {
+        "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
     },
     {
         "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
