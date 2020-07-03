@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030084&t=NN"
     },
     {
+        "title": "금양오피스텔·광주사랑교회 관련 추가 확진자 2명 발생",
+        "link": "https://view.asiae.co.kr/article/2020070309191796122"
+    },
+    {
         "title": "광주 동부경찰서 수사과 폐쇄…경찰관 3명 확진자와 접촉",
         "link": "https://news.joins.com/article/olink/23411126"
     },
     {
-        "title": "[속보] 전북 28번째 확진자 발생…고창거주 60대",
-        "link": "http://www.fnnews.com/news/202007030842499828"
-    },
-    {
-        "title": "광주서 코로나 확진자 2명 추가…금양오피스텔·사랑교회 연관",
-        "link": "http://yna.kr/AKR20200703024200054?did=1195m"
+        "title": "丁총리 \"광주에서 코로나 확산세 심상치 않아…취약시설 방문 자제\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070301006.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
@@ -29,8 +29,8 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5371372"
     },
     {
-        "title": "KT 광화문 사옥 코로나 확진자 발생... 전 직원 다시 재택근무",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/02/2020070201384.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "KT서 코로나19 확진자 나와…광화문 사옥 폐쇄 결정",
+        "link": "http://news.tf.co.kr/read/economy/1800173.htm"
     },
     {
         "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",

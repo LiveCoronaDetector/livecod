@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
-        "title": "July 2 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Why Texas is seeing a surge in coronavirus cases",
         "link": "https://www.bbc.com/news/av/world-us-canada-53256821/why-texas-is-seeing-a-surge-in-coronavirus-cases"
+    },
+    {
+        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
+        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
     }
 ];
