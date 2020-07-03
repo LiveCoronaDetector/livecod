@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007011755302345"
     },
     {
-        "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
-    },
-    {
         "title": "수도권 넘은 코로나19, 광주서 닷새 만에 45명 환자 급증",
         "link": "https://www.pressian.com/pages/articles/2020070215335061648?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "[속보]밤새 광주서 코로나 확진자 7명 추가…지역감염 비상",
+        "link": "https://www.donga.com/news/article/all/20200701/101762931/1"
     }
 ];
