@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
+        "title": "Pelosi: 'I'm trying to save the world from coronavirus'",
+        "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
+    },
+    {
         "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-02-2020-11593675909"
     },
     {
-        "title": "Why Texas is seeing a surge in coronavirus cases",
-        "link": "https://www.bbc.com/news/av/world-us-canada-53256821/why-texas-is-seeing-a-surge-in-coronavirus-cases"
-    },
-    {
-        "title": "Groom may have infected 100 people with coronavirus at wedding he wanted put off",
-        "link": "https://www.foxnews.com/world/groom-may-have-infected-100-people-coronavirus-wedding"
+        "title": "Coronavirus: Texas governor mandates wearing of face masks",
+        "link": "https://www.bbc.com/news/world-us-canada-53273281"
     }
 ];

@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200703009151504?did=1195m"
     },
     {
-        "title": "[속보] 광주 코로나19 확진 2명 추가…누적 50명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030084&t=NN"
+        "title": "[속보] 국내 코로나19 확진자 63명 추가...지역발생 52명",
+        "link": "https://www.sedaily.com/NewsView/1Z55R7GL5L"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 63명···지역발생 52명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007031019001&code=940601"
     },
     {
         "title": "금양오피스텔·광주사랑교회 관련 추가 확진자 2명 발생",
         "link": "https://view.asiae.co.kr/article/2020070309191796122"
     },
     {
-        "title": "광주 동부경찰서 수사과 폐쇄…경찰관 3명 확진자와 접촉",
-        "link": "https://news.joins.com/article/olink/23411126"
+        "title": "[속보] 대구 유가초등학교 학생 코로나19 확진 판정",
+        "link": "https://news.imaeil.com/Society/2020070309015344316"
+    },
+    {
+        "title": "[속보]'코로나19' 확진자 63명 추가…대구 87일만에 두 자릿수",
+        "link": "https://www.news1.kr/articles/?3984885"
+    },
+    {
+        "title": "[속보] '코로나19' 국내 현황…총 1만2967명, 신규확진 63명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=401384&class=33&grp="
     },
     {
         "title": "丁총리 \"광주에서 코로나 확산세 심상치 않아…취약시설 방문 자제\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070301006.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "삼성SDS, 코로나19 확진자 발생...사옥 폐쇄",
-        "link": "https://zdnet.co.kr/view/?no=20200702125622"
+        "title": "광주 코로나19 확진자 2명 추가 발생...누적확진자 84명",
+        "link": "http://www.fnnews.com/news/202007030823590804"
     },
     {
-        "title": "코로나19 확진자 54명↑…광주에서만 22명",
-        "link": "https://www.nocutnews.co.kr/news/5371372"
-    },
-    {
-        "title": "KT서 코로나19 확진자 나와…광화문 사옥 폐쇄 결정",
-        "link": "http://news.tf.co.kr/read/economy/1800173.htm"
-    },
-    {
-        "title": "KT, 코로나19 확진자 발생…전직원 재택 돌입",
-        "link": "http://www.inews24.com/view/1278532"
-    },
-    {
-        "title": "대구 확진 여고생 다닌 연기학원서 7명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200702185600053?did=1195m"
+        "title": "김정은, 한달 만에 모습 공개...北에서도 '코로나 비상'인 듯",
+        "link": "https://www.pressian.com/pages/articles/2020070308170156115?utm_source=naver&utm_medium=search"
     }
 ];
