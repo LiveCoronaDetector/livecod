@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070301226.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합]신규 확진자 63명...지역발생 52명·해외유입 11명",
-        "link": "http://www.fnnews.com/news/202007031027250102"
-    },
-    {
         "title": "김정은, 3개월만 '코로나' 정치국회의…\"방역완화시 치명적위기\"(종합)",
         "link": "http://yna.kr/AKR20200703009151504?did=1195m"
     },
     {
-        "title": "[속보] 광주 동부경찰서 일부 폐쇄...경찰관, 확진자 접촉",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030043&t=NN"
+        "title": "[종합]신규 확진자 63명...지역발생 52명·해외유입 11명",
+        "link": "http://www.fnnews.com/news/202007031027250102"
     },
     {
-        "title": "광주서 코로나19 확진자 2명 추가 발생…누적 확진자 84명",
-        "link": "https://www.nocutnews.co.kr/news/5372020"
+        "title": "[속보] 광주 코로나19 확진 2명 추가…누적 50명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007030084&t=NN"
     },
     {
-        "title": "김정은, 한달 만에 모습 공개...北에서도 '코로나 비상'인 듯",
-        "link": "https://www.pressian.com/pages/articles/2020070308170156115?utm_source=naver&utm_medium=search"
+        "title": "광주 동부경찰서 수사과 폐쇄…경찰관 3명 확진자와 접촉",
+        "link": "https://news.joins.com/article/olink/23411126"
     },
     {
         "title": "경남 코로나 확진자 2명 추가…멕시코 입국 직장동료(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200703_0001082624&cID=10812&pID=10800"
     },
     {
-        "title": "[속보] 국내 코로나19 확진자 63명 추가...지역발생 52명",
-        "link": "https://www.sedaily.com/NewsView/1Z55R7GL5L"
+        "title": "[속보] 광주 코로나 확진자 급증에…중환자 병상 다 찼다",
+        "link": "https://hankookilbo.com/News/Read/A2020070311360004357?did=NA"
     },
     {
-        "title": "의정부 아파트 관련 코로나 확진자 1명 늘어…총 17명째",
-        "link": "https://www.hankyung.com/life/article/2020070384997"
+        "title": "코로나19 서울 확진자 12명 증가…누계 1천346명",
+        "link": "http://yna.kr/AKR20200703055600004?did=1195m"
     },
     {
         "title": "광주서 코로나 확진자 2명 추가…금양오피스텔·사랑교회 연관",
         "link": "http://yna.kr/AKR20200703024200054?did=1195m"
+    },
+    {
+        "title": "대구 '코로나19' 확진자 86일만 두자릿수 증가",
+        "link": "http://www.fnnews.com/news/202007031033088136"
     }
 ];

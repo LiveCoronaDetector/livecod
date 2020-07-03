@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/02/pakistan-central-bank-governor-on-economic-challenges-during-coronavirus-pandemic.html"
     },
     {
-        "title": "E.U. coronavirus safe list: This is why the U.S. was nowhere near making the cut",
-        "link": "https://www.nbcnews.com/news/world/e-u-coronavirus-safe-list-why-u-s-was-nowhere-n1232741"
+        "title": "July 2 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-02-20-intl/h_fa914077a7e53a9636a144e228865a08"
     },
     {
         "title": "Groom dies two days after Indian wedding, 80 people infected with coronavirus",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
-        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
-    },
-    {
         "title": "Pelosi: 'I'm trying to save the world from coronavirus'",
         "link": "https://www.foxnews.com/politics/pelosi-coronavirus-trying-to-save-the-world"
+    },
+    {
+        "title": "Coronavirus vaccine tracker: How close are we to a vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/jul/02/coronavirus-vaccine-tracker-how-close-are-we-to-a-vaccine"
     },
     {
         "title": "Texas Mandates Face Coverings as Coronavirus Cases Surge",
