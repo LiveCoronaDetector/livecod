@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/africa-sees-biggest-daily-jump-covid-19-cases-200703093405125.html"
     },
     {
-        "title": "The US, Brazil and others lifted lockdowns early. These charts show just how deadly that decision was",
-        "link": "https://www.cnn.com/2020/07/03/health/coronavirus-lockdown-lifting-deadly-charts-intl/index.html"
+        "title": "See how Canada crushed the curve while the US struggles",
+        "link": "https://www.cnn.com/videos/health/2020/07/03/canada-flattens-coronavirus-curve-newton-newday-vpx.cnn"
     },
     {
-        "title": "Coronavirus: Israel hits 1,130 new patients in a single day",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-70-patients-in-serious-condition-death-toll-hits-325-633733"
+        "title": "More Than 100 Students in Greek System at University Of Washington Positive for COVID-19",
+        "link": "https://people.com/health/more-than-100-students-at-u-of-washington-frat-houses-positive-for-covid-19/"
     },
     {
-        "title": "Prospect of a coronavirus vaccine unites anti-vaxxers, conspiracy theorists and hippie moms in Germany",
-        "link": "https://www.washingtonpost.com/world/europe/coronavirus-vaccine-anti-vaxx-germany/2020/07/02/da7efc7e-acba-11ea-a43b-be9f6494a87d_story.html"
+        "title": "Coronavirus: 'Don't wear deodorant,' says Berlin's transport company",
+        "link": "https://www.dw.com/en/coronavirus-dont-wear-deodorant-says-berlins-transport-company/a-54036674"
     },
     {
         "title": "Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
     },
     {
-        "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
+        "title": "Surgeon General Jerome Adams: If You Go Out For July 4, Wear A Mask | TODAY",
+        "link": "https://www.youtube.com/watch?v=JCncn41-xlk"
     },
     {
         "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
         "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
     },
     {
-        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
-        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
+        "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
     },
     {
         "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
