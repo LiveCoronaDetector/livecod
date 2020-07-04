@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.cgtn.com/news/2020-07-03/Tokyo-s-first-woman-governor-set-to-secure-another-term-in-re-election-RPe3MLM1JC/index.html"
     },
     {
-        "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
-        "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
-    },
-    {
         "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
     },
     {
-        "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
-        "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
+        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
+        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
+    },
+    {
+        "title": "WHO sees first results from COVID drug trials within two weeks",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who/who-sees-first-results-from-covid-drug-trials-within-two-weeks-idUSKBN244219"
     }
 ];
