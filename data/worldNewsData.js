@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=ZAGwZ9DjuQk"
     },
     {
-        "title": "Coronavirus Cases in U.S. Are Rising, Even as Death Rates Trend Down",
-        "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
+        "title": "Live Coronavirus Updates: A More Subdued Fourth",
+        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     },
     {
         "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
