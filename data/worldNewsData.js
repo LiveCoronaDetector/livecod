@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/02/world/asia/india-coronavirus-wedding-groom.html"
     },
     {
-        "title": "Quarantine hotel sex scandal linked to coronavirus outbreak in Australian city of Melbourne",
-        "link": "https://www.cnn.com/2020/07/02/asia/victoria-quarantine-coronavirus-breach-intl-hnk-scli/index.html"
+        "title": "Coronavirus: Japan's mysteriously low virus death rate",
+        "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
-    },
-    {
-        "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
-        "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
+        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
+        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
     },
     {
         "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "WHO sees first results from COVID drug trials within two weeks",
         "link": "https://www.reuters.com/article/us-health-coronavirus-who/who-sees-first-results-from-covid-drug-trials-within-two-weeks-idUSKBN244219"
+    },
+    {
+        "title": "Coronavirus cases exceed 11 million worldwide",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-cases-exceed-11-million-worldwide-n1232880"
     }
 ];
