@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
     },
     {
+        "title": "\"올해도 물놀이 꼭 해야되나\"… 휴가철 '풀파티'에 코로나 방역 비상",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302921.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
         "link": "https://www.ytn.co.kr/_ln/0115_202007021404532249"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
         "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
-    },
-    {
-        "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
-        "link": "https://www.nocutnews.co.kr/news/5372167"
     }
 ];

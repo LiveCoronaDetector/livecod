@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
-        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
-    },
-    {
         "title": "World Health Organization reports new coronavirus cases reach all-time high",
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-japan/tokyo-seeks-travel-curbs-as-new-infections-tops-100-for-third-day-says-nhk-idUSKCN24507R"
+        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
+        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
-        "title": "WHO halts malaria drug in COVID-19 trials",
-        "link": "https://www.youtube.com/watch?v=D9Il2nYJ-Tk"
+        "title": "Watch live: White House hosts July 4th 'Salute to America' celebration",
+        "link": "https://www.youtube.com/watch?v=EDOnmRzllOc"
+    },
+    {
+        "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
+        "link": "https://www.who.int/news-room/detail/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19"
     }
 ];
