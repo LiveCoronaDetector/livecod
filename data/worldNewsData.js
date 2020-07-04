@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
     },
     {
-        "title": "Japan and beyond: Week in Photos - June 27~July 3",
-        "link": "https://english.kyodonews.net/news/2020/07/779e499e091f-japan-and-beyond-week-in-photos---june-26july-3.html"
+        "title": "Coronavirus outbreak latest: July 4, 2020",
+        "link": "https://english.kyodonews.net/news/2020/07/09201043c762-coronavirus-outbreak-latest-july-4-2020.html"
     },
     {
         "title": "COVID-19 update, July 3: India reports highest daily spike of over 20000 new cases",
         "link": "https://www.youtube.com/watch?v=1OLlRftMLAQ"
     },
     {
-        "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
+        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
+        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
     }
 ];

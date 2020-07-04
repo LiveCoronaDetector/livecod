@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4486675&ref=A"
     },
     {
+        "title": "도쿄 코로나 신규 확진자 사흘 연속 100명대",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005868135&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "7월 4일 ‘코로나19’ 전세계 확진자 1096만명…입국금지·검역 조치 172개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/04/2020070480047.html"
+    },
+    {
         "title": "트럼프 장남 여친 사우디 출장 中 코로나 확진",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/04/2020070400793.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 신규 확진자 63명 늘어...해외 유입 27명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007041208131599"
-    },
-    {
-        "title": "광주서 코로나19 확진자 6명 추가 발생...최근 8일 63명·누적 96명",
-        "link": "http://www.fnnews.com/news/202007040824005538"
-    },
-    {
-        "title": "이용섭 시장, 주말 광주 코로나 브리핑…일곡중앙교회 폐쇄·총 확진자 96명(...",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=576659"
     }
 ];
