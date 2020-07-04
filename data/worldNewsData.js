@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
     },
     {
-        "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
-        "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
+        "title": "Koike set to be re-elected Tokyo governor even as coronavirus cases rise",
+        "link": "https://japantoday.com/category/politics/update-1-tokyo's-first-woman-governor-set-for-re-election-even-as-coronavirus-cases-rise"
+    },
+    {
+        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
+        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
     },
     {
         "title": "WHO sees first results from COVID drug trials within two weeks",
         "link": "https://www.reuters.com/article/us-health-coronavirus-who/who-sees-first-results-from-covid-drug-trials-within-two-weeks-idUSKBN244219"
-    },
-    {
-        "title": "Coronavirus cases exceed 11 million worldwide",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-cases-exceed-11-million-worldwide-n1232880"
     }
 ];
