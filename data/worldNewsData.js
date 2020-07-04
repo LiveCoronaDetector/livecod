@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/04/europe/lockdown-lleida-province-spain-coronavirus-outbreaks-intl/index.html"
     },
     {
-        "title": "WHO halts hydroxychloroquine in COVID-19 trials: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-exceed-11-million-live-updates-200704000334633.html"
+        "title": "Indian man wears gold face mask to ward off coronavirus",
+        "link": "https://news.yahoo.com/indian-man-wears-gold-face-mask-ward-off-134617710.html"
     },
     {
         "title": "Coronavirus: Japan's mysteriously low virus death rate",
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-04-20-intl/index.html"
+        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
+        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
         "title": "Coronavirus Live Updates: Trump Moves Forward With D.C. Event",
         "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     },
     {
-        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
-        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
+        "title": "WHO halts hydroxychloroquine trials after failure to reduce death | TheHill",
+        "link": "https://thehill.com/policy/healthcare/505867-who-halts-hydroxychloroquine-trials-after-failure-to-reduce-death"
     },
     {
-        "title": "W.H.O expects COVID-19 drug trial in two weeks, nearly 5500 patients recruited for trial",
-        "link": "https://www.youtube.com/watch?v=iKGFhFITqP4"
+        "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-japan/tokyo-seeks-travel-curbs-as-new-infections-tops-100-for-third-day-says-nhk-idUSKCN24507R"
     }
 ];
