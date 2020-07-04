@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "Tokyo's first woman governor set to secure another term in re-election",
-        "link": "https://news.cgtn.com/news/2020-07-03/Tokyo-s-first-woman-governor-set-to-secure-another-term-in-re-election-RPe3MLM1JC/index.html"
+        "title": "Japan Insists This Time Is Different Even as Virus Cases Surge",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8ce90e10-bdb7-11ea-8c32-b799b073c793&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0wMy9qYXBhbi1pbnNpc3RzLXRoaXMtdGltZS1pcy1kaWZmZXJlbnQtZXZlbi1hcy12aXJ1cy1jYXNlcy1zdXJnZQ=="
     },
     {
-        "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
+        "title": "Global coronavirus cases exceed 11 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-exceed-11-million-live-updates-200704000334633.html"
     },
     {
         "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
         "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
     },
     {
-        "title": "Bolsonaro dilutes law requiring face masks be worn in Brazil",
-        "link": "https://www.msn.com/en-us/news/world/bolsonaro-dilutes-law-requiring-face-masks-be-worn-in-brazil/ar-BB16je1v"
+        "title": "WHO sees first results from COVID drug trials within two weeks",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who/who-sees-first-results-from-covid-drug-trials-within-two-weeks-idUSKBN244219"
     }
 ];
