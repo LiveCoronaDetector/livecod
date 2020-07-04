@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/anthony-fauci-claims-that-coronavirus-may-have-mutated-and-spreads-faster-633771"
     },
     {
-        "title": "Coronavirus: 'Don't wear deodorant,' says Berlin's transport company",
-        "link": "https://www.dw.com/en/coronavirus-dont-wear-deodorant-says-berlins-transport-company/a-54036674"
+        "title": "European Workers Draw Paychecks. American Workers Scrounge for Food.",
+        "link": "https://www.nytimes.com/2020/07/03/business/economy/europe-us-jobless-coronavirus.html"
     },
     {
         "title": "Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
     },
     {
-        "title": "WHO sees first results from COVID drug trials within two weeks",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who/who-sees-first-results-from-covid-drug-trials-within-two-weeks-idUSKBN244219"
+        "title": "Bolsonaro dilutes law requiring face masks be worn in Brazil",
+        "link": "https://www.msn.com/en-us/news/world/bolsonaro-dilutes-law-requiring-face-masks-be-worn-in-brazil/ar-BB16je1v"
     }
 ];
