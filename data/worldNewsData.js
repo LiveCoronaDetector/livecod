@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://japantoday.com/category/politics/update-1-tokyo's-first-woman-governor-set-for-re-election-even-as-coronavirus-cases-rise"
     },
     {
+        "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
+        "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
+    },
+    {
         "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
     },
     {
-        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
-        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
-    },
-    {
-        "title": "U.S. Coronavirus Cases Hit New Single-Day High Ahead of July 4th Weekend",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-03-2020-11593768976"
+        "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
+        "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
     }
 ];
