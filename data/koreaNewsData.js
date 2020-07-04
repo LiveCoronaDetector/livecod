@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4486764&ref=A"
     },
     {
+        "title": "광주 코로나 확진자 일주일새 63명…\"'교회 예배' 제발 자제를\"",
+        "link": "https://www.pressian.com/pages/articles/2020070415292739483?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "왕성교회·NH농협·묵현초 학생 감염…서울 확진자 11명 증가(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200704_0001083935&cID=10201&pID=10200"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200704036751073?did=1195m"
     },
     {
-        "title": "골프장도 뚫렸다…경기 광주서 확진자와 골프 친 2명 감염",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005867973&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "광주 코로나 확진자 일주일새 63명…\"'교회 예배' 제발 자제를\"",
-        "link": "https://www.pressian.com/pages/articles/2020070415292739483?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "대전서 6명 코로나19 추가 확진…정림동 의원서만 3명 늘어(종합)",
-        "link": "http://yna.kr/AKR20200704013851063?did=1195m"
-    },
-    {
         "title": "[속보] '코로나19' 신규 확진자 63명...'국내 발생'은 경기 15명 등 36명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007041035001&code=940100"
+    },
+    {
+        "title": "코로나19 신규 확진 63명…수도권‧호남 중심 확산세",
+        "link": "https://www.nocutnews.co.kr/news/5372621"
+    },
+    {
+        "title": "신종 코로나 신규 확진자 63명 증가… 이틀 연속 60명대",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/04/2020070400580.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
