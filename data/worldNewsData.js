@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/anthony-fauci-claims-that-coronavirus-may-have-mutated-and-spreads-faster-633771"
     },
     {
-        "title": "European Workers Draw Paychecks. American Workers Scrounge for Food.",
-        "link": "https://www.nytimes.com/2020/07/03/business/economy/europe-us-jobless-coronavirus.html"
+        "title": "Spain puts 200,000 under coronavirus lockdown: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-exceed-11-million-live-updates-200704000334633.html"
     },
     {
         "title": "Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
     },
     {
-        "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
-        "link": "https://news.yahoo.com/tokyo-coronavirus-infections-over-100-062149712.html"
+        "title": "Coronavirus Spain: Catalonia locks down area of 210,000 people",
+        "link": "https://www.bbc.com/news/world-europe-53291281"
     },
     {
         "title": "Global report: WHO changes timeline on virus alert as cases top 11m",
