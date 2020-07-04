@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-04-20-intl/index.html"
-    },
-    {
-        "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-japan/tokyo-seeks-travel-curbs-as-new-infections-tops-100-for-third-day-says-nhk-idUSKCN24507R"
+        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
+        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
         "title": "Catalonia places 200000 people under new lockdown following Covid-19 surge",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus Cases in U.S. Are Rising, Even as Death Rates Trend Down",
         "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-japan/tokyo-seeks-travel-curbs-as-new-infections-tops-100-for-third-day-says-nhk-idUSKCN24507R"
     }
 ];
