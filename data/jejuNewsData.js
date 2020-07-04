@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
     {
+        "title": "제주지역 20번째 코로나19 확진자 발생",
+        "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
+    },
+    {
         "title": "제주, 코로나19 20번 확진자 발생…카자흐스탄 국적 20대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4486764&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
         "link": "https://www.nocutnews.co.kr/news/5372167"
-    },
-    {
-        "title": "제주도, \"도내 18·19번 확진자 퇴원\"",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=324263"
     }
 ];
