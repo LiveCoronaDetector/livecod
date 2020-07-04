@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
+        "title": "Coronavirus Cases in U.S. Are Rising, Even as Death Rates Trend Down",
+        "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
+    },
+    {
         "title": "Japan and beyond: Week in Photos - June 27~July 3",
         "link": "https://english.kyodonews.net/news/2020/07/779e499e091f-japan-and-beyond-week-in-photos---june-26july-3.html"
     },
     {
-        "title": "LIVE: India reports record 22,000 coronavirus cases in a day",
-        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-exceed-11-million-live-updates-200704000334633.html"
+        "title": "COVID-19 update, July 3: India reports highest daily spike of over 20000 new cases",
+        "link": "https://www.youtube.com/watch?v=1OLlRftMLAQ"
     },
     {
         "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
-    },
-    {
-        "title": "U.S. Coronavirus Cases Hit New Single-Day High Ahead of July Fourth Weekend",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-03-2020-11593768976"
     }
 ];
