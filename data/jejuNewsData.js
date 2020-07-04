@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
     },
     {
-        "title": "제주서 코로나19 확진자 나와…20대 카자흐스탄 여성",
-        "link": "https://kizmom.hankyung.com/news/view.html?aid=202007043067o"
-    },
-    {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
         "link": "https://www.ytn.co.kr/_ln/0115_202007021404532249"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
         "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
+    },
+    {
+        "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
+        "link": "https://www.nocutnews.co.kr/news/5372167"
     }
 ];

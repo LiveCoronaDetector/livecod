@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005867973&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "제주, 코로나19 20번 확진자 발생…카자흐스탄 국적 20대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4486764&ref=A"
+        "title": "제주 코로나 20번째 확진자 발생…20대 카자흐스탄인",
+        "link": "http://www.newsis.com/view/?id=NISX20200704_0001083881&cID=10813&pID=10800"
     },
     {
         "title": "삼성SDS “코로나19 확진자 접촉 임직원 전원 음성”",
