@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/04/2020070400793.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 63명 늘어… 이틀 연속 60명대",
-        "link": "http://www.segye.com/content/html/2020/07/04/20200704505791.html?OutUrl=naver"
+        "title": "코로나19 신규 확진 63명…수도권‧호남 중심 확산세",
+        "link": "https://www.nocutnews.co.kr/news/5372621"
     },
     {
         "title": "[속보] 코로나 신규 확진자 63명…해외 유입도 다시 늘어 ‘빨간불’",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007041035001&code=940100"
     },
     {
-        "title": "확진자와 골프친 뒤 감염… 골프장 전파 추정 첫 사례",
-        "link": "https://view.asiae.co.kr/article/2020070412011329412"
-    },
-    {
-        "title": "광주서 코로나19 확진자 6명 추가 발생...최근 8일 63명·누적 96명",
-        "link": "http://www.fnnews.com/news/202007040824005538"
-    },
-    {
         "title": "코로나19 신규 확진자 63명 늘어...지역 감염 36명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007041050550531"
     },
     {
         "title": "이용섭 시장, 주말 광주 코로나 브리핑…일곡중앙교회 폐쇄·총 확진자 96명(...",
         "link": "http://www.namdonews.com/news/articleView.html?idxno=576659"
+    },
+    {
+        "title": "광주서 코로나19 확진자 6명 추가 발생...최근 8일 63명·누적 96명",
+        "link": "http://www.fnnews.com/news/202007040824005538"
+    },
+    {
+        "title": "브라질, 코로나19 확진자 150만명 넘어서",
+        "link": "https://view.asiae.co.kr/article/2020070408245884093"
     }
 ];

@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://english.kyodonews.net/news/2020/07/779e499e091f-japan-and-beyond-week-in-photos---june-26july-3.html"
     },
     {
-        "title": "Global coronavirus cases exceed 11 million: Live updates",
+        "title": "LIVE: India reports record 22,000 coronavirus cases in a day",
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-exceed-11-million-live-updates-200704000334633.html"
     },
     {
