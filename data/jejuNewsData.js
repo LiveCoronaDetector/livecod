@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202007021404532249"
     },
     {
+        "title": "코로나 재확산...여름휴가 설렘 대신 고민 커진다",
+        "link": "https://www.sedaily.com/NewsView/1Z5670E4DR"
+    },
+    {
         "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
         "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "대구 석 달 만에 확진자 '두 자릿수', 재유행 우려",
         "link": "https://news.imaeil.com/Society/2020070316521339134"
-    },
-    {
-        "title": "마스크 벗었던 확진자→2명 감염…\"통화 시에도 주의\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005867771&plink=ORI&cooper=NAVER"
     }
 ];

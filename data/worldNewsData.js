@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
-        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
-    },
-    {
         "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
         "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
+    },
+    {
+        "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
+        "link": "https://www.nytimes.com/2020/07/02/world/coronavirus-us.html"
     },
     {
         "title": "WHO sees first results from COVID drug trials within two weeks",
