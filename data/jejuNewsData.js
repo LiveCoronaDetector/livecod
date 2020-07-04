@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://news.imaeil.com/Society/2020070316521339134"
     },
     {
-        "title": "“빈 병상 없나요?”…광주 확진자 급증에 ‘도움 절실’",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4485172&ref=A"
+        "title": "마스크 벗었던 확진자→2명 감염…\"통화 시에도 주의\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005867771&plink=ORI&cooper=NAVER"
     }
 ];
