@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007041018025579"
     },
     {
+        "title": "코로나19 신규 확진자 63명 늘어...지역 감염 36명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007041050550531"
+    },
+    {
         "title": "“美 코로나19 확진자 중 절반 감염경로 모른다”",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988629?division=NAVER"
     },
@@ -13,31 +17,27 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020070422407"
     },
     {
-        "title": "\"코로나 확진자와 악수\"…이낙연 등 의원 30명 격리에 與 '비상'",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302357.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "신종 코로나 신규 확진자 63명 증가… 이틀 연속 60명대",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/04/2020070400580.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "오영환 확진자 접촉에 국회 비상…본회의 시간도 연기(종합)",
+        "link": "http://yna.kr/AKR20200703094051001?did=1195m"
     },
     {
         "title": "광주 코로나19 누적 확진자 96명…일곡중앙교회 확산",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4486611&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 63명 늘어...지역 감염 36명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007041050550531"
+        "title": "이틀째 확진자 60명대…지역발생 36명·해외 27명(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01469446625831240"
     },
     {
-        "title": "[속보] 코로나19 신규확진 63명·사망 1명…치명률 2.17%",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014765031&code=61121211&cp=nv"
+        "title": "코로나19 광주이어 대구까지…신규 확진자 60명대",
+        "link": "https://news.imaeil.com/Society/2020070310565836644"
     },
     {
-        "title": "[속보]'코로나19' 확진자 63명 추가…이틀 연속 60명대",
-        "link": "https://www.news1.kr/articles/?3985833"
-    },
-    {
-        "title": "[속보] 코로나 신규 이틀 연속 60명대…해외유입 27명",
-        "link": "https://news.joins.com/article/olink/23411757"
-    },
-    {
-        "title": "[속보] 대전서 밤사이 코로나19 무더기 확진…확진자 5명 추가, 정림동 의원서...",
-        "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2079878"
+        "title": "광주서 코로나 확진자 2명 추가…금양오피스텔·사랑교회 연관",
+        "link": "http://yna.kr/AKR20200703024200054?did=1195m"
     }
 ];

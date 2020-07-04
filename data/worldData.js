@@ -1521,20 +1521,20 @@ var marker = [
         "완치자수": 11
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 30,
+        "사망자수": 2,
+        "완치자수": 19
+    },
+    {
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
         "확진자수": 29,
         "사망자수": 0,
         "완치자수": 29
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 28,
-        "사망자수": 2,
-        "완치자수": 18
     },
     {
         "Name": "Timor-Leste",
