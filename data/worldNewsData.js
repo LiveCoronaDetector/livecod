@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
     },
     {
-        "title": "The Virus: The latest on the world's fight against the coronavirus | ABC News",
-        "link": "https://www.youtube.com/watch?v=XeV0kPk2j7E"
-    },
-    {
         "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
         "link": "https://news.yahoo.com/tokyo-coronavirus-infections-over-100-062149712.html"
+    },
+    {
+        "title": "Global report: WHO changes timeline on virus alert as cases top 11m",
+        "link": "https://www.theguardian.com/world/2020/jul/04/global-report-who-changes-timeline-on-virus-alert-as-cases-top-11m"
     }
 ];
