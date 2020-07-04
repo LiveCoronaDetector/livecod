@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
     },
     {
-        "title": "제주, 코로나19 20번 확진자 발생…카자흐스탄 국적 20대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4486764&ref=A"
-    },
-    {
         "title": "대구 연기학원발 코로나19 추가 확진 없어",
         "link": "http://www.newsis.com/view/?id=NISX20200704_0001083755&cID=10899&pID=10800"
     },
@@ -23,6 +19,10 @@ var jejuNewsData = [
     {
         "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
+    },
+    {
+        "title": "제주서 코로나19 확진자 나와…20대 카자흐스탄 여성",
+        "link": "https://kizmom.hankyung.com/news/view.html?aid=202007043067o"
     },
     {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",

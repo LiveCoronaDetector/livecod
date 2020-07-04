@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/03/health/covid-patient-fourth-of-july/index.html"
     },
     {
-        "title": "Commander of Israel's Border Police tests positive for coronavirus",
-        "link": "https://www.jpost.com/breaking-news/commander-of-israels-border-police-tests-positive-for-coronavirus-633837"
+        "title": "Israel's ultra-Orthodox Jews 'least stressed' by Covid-19, says study",
+        "link": "https://www.theguardian.com/world/2020/jul/04/israels-ultra-orthodox-jews-least-stressed-by-covid-19-says-study"
     },
     {
-        "title": "Catalonia places 200000 people under new lockdown following Covid-19 surge",
-        "link": "https://www.youtube.com/watch?v=ZAGwZ9DjuQk"
+        "title": "Coronavirus: Italy blocks Americans on private jet due to travel ban - Business Insider",
+        "link": "https://www.businessinsider.com/italy-americas-tourists-unable-enter-sardinia-coronavirus-high-in-us-2020-7"
     },
     {
         "title": "Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
-        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-04-20-intl/index.html"
     },
     {
         "title": "Coronavirus Cases in U.S. Are Rising, Even as Death Rates Trend Down",
         "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
     },
     {
-        "title": "Catalonia curbs movement of 200,000 people after new coronavirus outbreak",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-spain-catalonia/catalonia-curbs-movement-of-200000-people-after-new-coronavirus-outbreak-idUSKBN2450E5"
+        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
+        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
-        "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-japan/tokyo-seeks-travel-curbs-as-new-infections-tops-100-for-third-day-says-nhk-idUSKCN24507R"
+        "title": "Catalonia places 200000 people under new lockdown following Covid-19 surge",
+        "link": "https://www.youtube.com/watch?v=ZAGwZ9DjuQk"
     }
 ];
