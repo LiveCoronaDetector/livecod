@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 2912749,
-        "사망자수": 132196,
-        "완치자수": 1237836
+        "확진자수": 2913666,
+        "사망자수": 132224,
+        "완치자수": 1244877
     },
     {
         "Name": "브라질",
@@ -636,9 +636,9 @@ var marker = [
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "확진자수": 6058,
+        "확진자수": 6159,
         "사망자수": 52,
-        "완치자수": 4690
+        "완치자수": 4809
     },
     {
         "Name": "Ethiopia",
@@ -820,7 +820,7 @@ var marker = [
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "확진자수": 2410,
+        "확진자수": 2435,
         "사망자수": 10,
         "완치자수": 1976
     },
@@ -964,9 +964,9 @@ var marker = [
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "확진자수": 1382,
-        "사망자수": 15,
-        "완치자수": 629
+        "확진자수": 1421,
+        "사망자수": 16,
+        "완치자수": 654
     },
     {
         "Name": "홍콩",
@@ -1409,20 +1409,20 @@ var marker = [
         "완치자수": 95
     },
     {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+        "확진자수": 105,
+        "사망자수": 3,
+        "완치자수": 98
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
         "확진자수": 104,
         "사망자수": 11,
         "완치자수": 89
-    },
-    {
-        "Name": "Aruba",
-        "Name_ch": "",
-        "Name_en": "Aruba",
-        "확진자수": 104,
-        "사망자수": 3,
-        "완치자수": 98
     },
     {
         "Name": "Barbados",
