@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
     },
     {
-        "title": "Tokyo reports 131 new coronavirus cases, nationwide tally tops 20,000",
-        "link": "https://english.kyodonews.net/news/2020/07/d9713cc3afda-breaking-news-around-130-new-daily-coronavirus-cases-reported-in-tokyo.html"
+        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
+        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
+    },
+    {
+        "title": "What's happened during 100 days of the coronavirus lockdown? | LBC",
+        "link": "https://www.youtube.com/watch?v=mRzHi_XZpoA"
     },
     {
         "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
         "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
-    },
-    {
-        "title": "Britain has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
-        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     }
 ];

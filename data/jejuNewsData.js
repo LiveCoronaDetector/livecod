@@ -13,16 +13,12 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200704_0001083755&cID=10899&pID=10800"
     },
     {
-        "title": "제주, 20번째 코로나 확진자 발생...'카자흐스탄서 입국'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421474"
+        "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
     },
     {
         "title": "코로나19, 대구 집단감염 때보다 전파 빨라졌다(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01646566625831240"
-    },
-    {
-        "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
     },
     {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
         "link": "https://www.nocutnews.co.kr/news/5372167"
+    },
+    {
+        "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",
+        "link": "http://www.fnnews.com/news/202007011755302345"
     }
 ];
