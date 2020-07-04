@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324447"
     },
     {
+        "title": "'연기학원'發 집단감염 대구 추가 확진자 없어(종합)",
+        "link": "https://www.news1.kr/articles/?3985940"
+    },
+    {
         "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "대구서 하룻사이 코로나 확진 14명…유가초등학교 등",
         "link": "https://www.nocutnews.co.kr/news/5372167"
-    },
-    {
-        "title": "코로나19 증상 속 제주여행…광주 확진자 5명 동선 공개",
-        "link": "http://www.fnnews.com/news/202007011755302345"
     }
 ];

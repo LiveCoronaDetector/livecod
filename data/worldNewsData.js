@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "Japan Insists This Time Is Different Even as Virus Cases Surge",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f590c450-bdbf-11ea-a117-17d65346fe08&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0wMy9qYXBhbi1pbnNpc3RzLXRoaXMtdGltZS1pcy1kaWZmZXJlbnQtZXZlbi1hcy12aXJ1cy1jYXNlcy1zdXJnZQ=="
+        "title": "Japan and beyond: Week in Photos - June 27~July 3",
+        "link": "https://english.kyodonews.net/news/2020/07/779e499e091f-japan-and-beyond-week-in-photos---june-26july-3.html"
     },
     {
         "title": "Global coronavirus cases exceed 11 million: Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-exceed-11-million-live-updates-200704000334633.html"
     },
     {
-        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
-        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
+        "title": "U.S. Surpasses Global Record For New COVID-19 Cases Recorded In A Day",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/03/887014363/u-s-surpasses-global-record-for-new-covid-19-cases-recorded-in-a-day"
     },
     {
-        "title": "WHO sees first results from COVID drug trials within two weeks",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who/who-sees-first-results-from-covid-drug-trials-within-two-weeks-idUSKBN244219"
+        "title": "U.S. Coronavirus Cases Hit New Single-Day High Ahead of July Fourth Weekend",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-03-2020-11593768976"
     }
 ];
