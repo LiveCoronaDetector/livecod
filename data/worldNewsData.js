@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/07/03/canada-flattens-coronavirus-curve-newton-newday-vpx.cnn"
     },
     {
-        "title": "Cyprus, UK, degrade Israel’s coronavirus status",
-        "link": "https://www.jpost.com/breaking-news/cyprus-uk-degrade-israels-coronavirus-status-633800"
+        "title": "Anthony Fauci claims that coronavirus may have mutated and spreads faster",
+        "link": "https://www.jpost.com/health-science/anthony-fauci-claims-that-coronavirus-may-have-mutated-and-spreads-faster-633771"
     },
     {
         "title": "Coronavirus: 'Don't wear deodorant,' says Berlin's transport company",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "Koike set to be re-elected Tokyo governor even as coronavirus cases rise",
-        "link": "https://japantoday.com/category/politics/update-1-tokyo's-first-woman-governor-set-for-re-election-even-as-coronavirus-cases-rise"
+        "title": "Tokyo's first woman governor set to secure another term in re-election",
+        "link": "https://news.cgtn.com/news/2020-07-03/Tokyo-s-first-woman-governor-set-to-secure-another-term-in-re-election-RPe3MLM1JC/index.html"
     },
     {
         "title": "Daily Coronavirus Cases in the U.S. Soar Past 50,000 for the First Time",
