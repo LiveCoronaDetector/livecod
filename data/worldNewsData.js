@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
     },
     {
-        "title": "Scientists say strain of coronavirus dominant around the world is different than what was seen in Wuhan | TheHill",
-        "link": "https://thehill.com/policy/healthcare/public-global-health/505762-scientists-say-strain-of-coronavirus-dominant-around"
+        "title": "U.S. Coronavirus Cases Hit New Single-Day High Ahead of July 4th Weekend",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-07-03-2020-11593768976"
     }
 ];

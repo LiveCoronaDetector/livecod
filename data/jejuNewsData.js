@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324447"
     },
     {
+        "title": "대구 연기학원발 코로나19 추가 확진 없어",
+        "link": "http://www.newsis.com/view/?id=NISX20200704_0001083755&cID=10899&pID=10800"
+    },
+    {
         "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
     },
     {
         "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
-    },
-    {
-        "title": "[속보] 광륵사 관련 확진자 하루새 30명 늘어… 누적 49명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014758335&code=61121911&cp=nv"
     },
     {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
