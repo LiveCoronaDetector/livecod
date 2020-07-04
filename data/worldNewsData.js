@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/04/israels-ultra-orthodox-jews-least-stressed-by-covid-19-says-study"
     },
     {
-        "title": "Spain puts 200,000 under coronavirus lockdown: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-exceed-11-million-live-updates-200704000334633.html"
+        "title": "Coronavirus Spain: Catalonia locks down area of 210,000 people",
+        "link": "https://www.bbc.com/news/world-europe-53291281"
     },
     {
-        "title": "Catalonia places 200000 people under new lockdown following Covid-19 surge",
-        "link": "https://www.youtube.com/watch?v=ZAGwZ9DjuQk"
+        "title": "Spain puts 200,000 under coronavirus lockdown: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-exceed-11-million-live-updates-200704000334633.html"
     },
     {
         "title": "Coronavirus: Japan's mysteriously low virus death rate",
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-04-20-intl/index.html"
+        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
+        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
+    },
+    {
+        "title": "Catalonia places 200000 people under new lockdown following Covid-19 surge",
+        "link": "https://www.youtube.com/watch?v=ZAGwZ9DjuQk"
     },
     {
         "title": "Coronavirus Cases in U.S. Are Rising, Even as Death Rates Trend Down",
         "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
     },
     {
-        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
-        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
-    },
-    {
-        "title": "Coronavirus Spain: Catalonia locks down area of 210,000 people",
-        "link": "https://www.bbc.com/news/world-europe-53291281"
+        "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-japan/tokyo-seeks-travel-curbs-as-new-infections-tops-100-for-third-day-says-nhk-idUSKCN24507R"
     }
 ];
