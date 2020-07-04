@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5372621"
     },
     {
+        "title": "[속보] 코로나 신규 확진자 63명…해외 유입도 다시 늘어 ‘빨간불’",
+        "link": "http://www.hani.co.kr/arti/society/health/952230.html"
+    },
+    {
         "title": "[속보] '코로나19' 신규 확진자 63명...'국내 발생'은 경기 15명 등 36명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007041035001&code=940100"
     },
     {
-        "title": "광주 코로나19 누적 확진자 96명…일곡중앙교회 확산",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4486611&ref=A"
+        "title": "광주서 코로나19 확진자 6명 추가 발생...최근 8일 63명·누적 96명",
+        "link": "http://www.fnnews.com/news/202007040824005538"
     },
     {
         "title": "확진자와 골프친 뒤 감염… 골프장 전파 추정 첫 사례",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/04/2020070400580.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "오영환 확진자 접촉에 국회 비상…본회의 시간도 연기(종합)",
-        "link": "http://yna.kr/AKR20200703094051001?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 63명 늘어...지역 감염 36명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007041050550531"
     },
     {
-        "title": "이용섭 시장, 주말 광주 코로나 브리핑…일곡중앙교회 폐쇄·총 확진자 96명(...",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=576659"
+        "title": "오영환 확진자 접촉에 국회 비상…본회의 시간도 연기(종합)",
+        "link": "http://yna.kr/AKR20200703094051001?did=1195m"
     },
     {
-        "title": "국내 코로나19 신규확진 63명 늘어 총 1만3천30명…사망자 총 283명",
-        "link": "http://www.kwnews.co.kr/view.asp?aid=220070300001&s=501"
+        "title": "이용섭 시장, 주말 광주 코로나 브리핑…일곡중앙교회 폐쇄·총 확진자 96명(...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=576659"
     }
 ];
