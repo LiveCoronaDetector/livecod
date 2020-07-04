@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/04/israels-ultra-orthodox-jews-least-stressed-by-covid-19-says-study"
     },
     {
-        "title": "Coronavirus: Italy blocks Americans on private jet due to travel ban - Business Insider",
-        "link": "https://www.businessinsider.com/italy-americas-tourists-unable-enter-sardinia-coronavirus-high-in-us-2020-7"
+        "title": "Spain puts 200,000 under coronavirus lockdown: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-exceed-11-million-live-updates-200704000334633.html"
     },
     {
-        "title": "Groom Dead, at Least 100 Sick With Coronavirus After Indian Wedding",
-        "link": "https://www.nytimes.com/2020/07/02/world/asia/india-coronavirus-wedding-groom.html"
+        "title": "Catalonia places 200000 people under new lockdown following Covid-19 surge",
+        "link": "https://www.youtube.com/watch?v=ZAGwZ9DjuQk"
     },
     {
         "title": "Coronavirus: Japan's mysteriously low virus death rate",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
-        "title": "Catalonia places 200000 people under new lockdown following Covid-19 surge",
-        "link": "https://www.youtube.com/watch?v=ZAGwZ9DjuQk"
+        "title": "Coronavirus Spain: Catalonia locks down area of 210,000 people",
+        "link": "https://www.bbc.com/news/world-europe-53291281"
     }
 ];
