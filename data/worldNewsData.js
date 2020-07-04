@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53188847"
     },
     {
-        "title": "Coronavirus Cases in U.S. Are Rising, Even as Death Rates Trend Down",
-        "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
-    },
-    {
         "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
         "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
-        "title": "What's happened during 100 days of the coronavirus lockdown? | LBC",
-        "link": "https://www.youtube.com/watch?v=mRzHi_XZpoA"
+        "title": "Coronavirus Cases in U.S. Are Rising, Even as Death Rates Trend Down",
+        "link": "https://www.nytimes.com/2020/07/03/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus: US reports world's biggest daily increase in cases with 55,000",
-        "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
+        "title": "The Virus: The latest on the world's fight against the coronavirus | ABC News",
+        "link": "https://www.youtube.com/watch?v=XeV0kPk2j7E"
+    },
+    {
+        "title": "Tokyo seeks travel curbs as new infections tops 100 for third day, says NHK",
+        "link": "https://news.yahoo.com/tokyo-coronavirus-infections-over-100-062149712.html"
     }
 ];
