@@ -5,20 +5,12 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988629?division=NAVER"
     },
     {
-        "title": "[속보] '코로나19' 신규 확진자 63명...'국내 발생'은 경기 15명 등 36명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007041035001&code=940100"
-    },
-    {
         "title": "코로나19 신규 확진 63명…수도권‧호남 중심 확산세",
         "link": "https://www.nocutnews.co.kr/news/5372621"
     },
     {
-        "title": "코로나19 국내 신규 확진자 63명…해외 27명·지역 발생 36명",
-        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=200493"
-    },
-    {
-        "title": "신규확진 63명 수도권·광주 집중…해외유입 확진자 급증[종합]",
-        "link": "https://www.hankyung.com/society/article/2020070422407"
+        "title": "[속보] '코로나19' 신규 확진자 63명...'국내 발생'은 경기 15명 등 36명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007041035001&code=940100"
     },
     {
         "title": "광주 코로나19 누적 확진자 96명…일곡중앙교회 확산",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 63명 늘어...지역 감염 36명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007041050550531"
+    },
+    {
+        "title": "이용섭 시장, 주말 광주 코로나 브리핑…일곡중앙교회 폐쇄·총 확진자 96명(...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=576659"
+    },
+    {
+        "title": "국내 코로나19 신규확진 63명 늘어 총 1만3천30명…사망자 총 283명",
+        "link": "http://www.kwnews.co.kr/view.asp?aid=220070300001&s=501"
     }
 ];
