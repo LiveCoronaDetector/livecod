@@ -340,9 +340,9 @@ var marker = [
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "확진자수": 32672,
-        "사망자수": 826,
-        "완치자수": 19164
+        "확진자수": 32951,
+        "사망자수": 864,
+        "완치자수": 19366
     },
     {
         "Name": "스위스",
@@ -1473,6 +1473,14 @@ var marker = [
         "완치자수": 23
     },
     {
+        "Name": "Lesotho",
+        "Name_ch": "",
+        "Name_en": "Lesotho",
+        "확진자수": 63,
+        "사망자수": 0,
+        "완치자수": 11
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
@@ -1511,14 +1519,6 @@ var marker = [
         "확진자수": 43,
         "사망자수": 3,
         "완치자수": 37
-    },
-    {
-        "Name": "Lesotho",
-        "Name_ch": "",
-        "Name_en": "Lesotho",
-        "확진자수": 35,
-        "사망자수": 0,
-        "완치자수": 11
     },
     {
         "Name": "Belize",

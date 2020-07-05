@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/05/2020070500326.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "광주서 초등학생 코로나19 첫 확진...엄마와 교회갔다 걸려(상보)",
-        "link": "https://view.asiae.co.kr/article/2020070509084005823"
+        "title": "광주 광륵사 관련 코로나19 확진자 80명으로 늘어(상보)",
+        "link": "https://view.asiae.co.kr/article/2020070514575404510"
     },
     {
         "title": "KT, 코로나19 추가 확진자 발생…전직원 재택 연장",
@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007051023001&code=940100"
     },
     {
+        "title": "KT 광화문사옥 코로나19 확진자 1명 추가…재택근무 연장",
+        "link": "http://yna.kr/AKR20200705014200017?did=1195m"
+    },
+    {
+        "title": "광주 초등학생 확진자 첫 발생…광주 일곡중앙교회 확진자 가족",
+        "link": "http://www.hani.co.kr/arti/area/honam/952257.html"
+    },
+    {
+        "title": "코로나19 신규 확진 61명…추가 사망자는 없어",
+        "link": "http://news.tf.co.kr/read/life/1800549.htm"
+    },
+    {
         "title": "코로나19 신규 확진자 61명…누적 1만 3091명",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988673?division=NAVER"
-    },
-    {
-        "title": "코로나19 추가 확진자 발생한 KT",
-        "link": "http://www.newsis.com/view/?id=NISI20200705_0016452185"
-    },
-    {
-        "title": "세계 코로나19 들불…하루 21만명 확진 '팬데믹 이후 최다'(종합)",
-        "link": "http://yna.kr/AKR20200705005051009?did=1195m"
-    },
-    {
-        "title": "광주서 초등생 코로나19 첫 확진…누적 확진자 108명",
-        "link": "https://www.nocutnews.co.kr/news/5372712"
     },
     {
         "title": "전남 확진자 잇따라…사회적 거리두기 2단계로 격상",
         "link": "https://imnews.imbc.com/news/2020/society/article/5832049_32633.html"
     },
     {
-        "title": "코로나19 신규 확진자 61명 늘어...사흘 연속 60명대",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007051058507408"
+        "title": "광주서 초등생 코로나19 첫 확진…누적 확진자 108명",
+        "link": "https://www.nocutnews.co.kr/news/5372712"
     }
 ];

@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
-        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
+        "title": "Trump: \"China Must Be Held Fully Accountable\" for Allowing Covid-19 to Spread \"All Over the World\"",
+        "link": "https://www.youtube.com/watch?v=FDZtbUpK6zM"
     },
     {
-        "title": "239 Experts With 1 Big Claim: The Coronavirus Is Airborne",
-        "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html"
+        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
+        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     }
 ];
