@@ -5,32 +5,32 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/05/2020070500326.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "일본 코로나 신규 확진 207명…사흘째 200명대(종합)",
-        "link": "http://yna.kr/AKR20200705033751073?did=1195m"
-    },
-    {
-        "title": "[속보] 박능후 “코로나 확산속도 증가, 빠른 검사 영향”",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050069&t=NN"
+        "title": "코로나19 신규 확진 61명 늘어...사흘 연속 60명대",
+        "link": "http://www.hani.co.kr/arti/society/health/952263.html"
     },
     {
         "title": "광주서 초등학생 코로나19 첫 확진...엄마와 교회갔다 걸려(상보)",
         "link": "https://view.asiae.co.kr/article/2020070509084005823"
     },
     {
-        "title": "코로나19 신규 확진 61명 늘어...사흘 연속 60명대",
-        "link": "http://www.hani.co.kr/arti/society/health/952263.html"
-    },
-    {
-        "title": "KT 광화문 사옥 코로나19 확진자 1명 추가…재택근무 연장",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4486883&ref=A"
+        "title": "KT 광화문사옥 코로나19 확진자 1명 추가…재택근무 연장",
+        "link": "http://yna.kr/AKR20200705014200017?did=1195m"
     },
     {
         "title": "전남 확진자 잇따라…사회적 거리두기 2단계로 격상",
         "link": "https://imnews.imbc.com/news/2020/society/article/5832049_32633.html"
     },
     {
+        "title": "일본 코로나19 신규 확진자 207명…사흘 연속 200명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487007&ref=A"
+    },
+    {
         "title": "광주 코로나19 집단 감염 발상지는?",
         "link": "https://www.nocutnews.co.kr/news/5372847"
+    },
+    {
+        "title": "[속보] 박능후 “코로나 확산속도 증가, 빠른 검사 영향”",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050069&t=NN"
     },
     {
         "title": "대전에서 코로나19 확진자 '사망'... 3일 전 확진",
