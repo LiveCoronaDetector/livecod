@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
     },
     {
+        "title": "제주, 코로나19 20번 확진자 접촉자 '28명' 확인",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421494"
+    },
+    {
         "title": "제주도내 18‧19번 코로나19 확진자 15일만에 퇴원",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324447"
     },
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "http://www.beyondpost.co.kr/view.php?ud=20200705112214987846a9e4dd7f_30"
     },
     {
+        "title": "제주 코로나19 20번째 확진자 발생…카자흐스탄서 입국",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=147325"
+    },
+    {
         "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
     },
     {
         "title": "대구 석 달 만에 확진자 '두 자릿수', 재유행 우려",
         "link": "https://news.imaeil.com/Society/2020070316521339134"
-    },
-    {
-        "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
-    },
-    {
-        "title": "\"올해도 물놀이 꼭 해야되나\"… 휴가철 '풀파티'에 코로나 방역 비상",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302921.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
