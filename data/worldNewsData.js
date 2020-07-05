@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "Trump doubles down on divisive messaging in speech to honor Independence Day",
-        "link": "https://www.cnn.com/2020/07/04/politics/trump-july-fourth-remarks/index.html"
+        "title": "At Mt. Rushmore and the White House, Trump Updates ‘American Carnage’ Message for 2020",
+        "link": "https://www.nytimes.com/2020/07/04/us/politics/trump-mt-rushmore.html"
     }
 ];
