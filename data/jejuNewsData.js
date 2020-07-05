@@ -13,12 +13,16 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/952260.html"
     },
     {
+        "title": "제주지역 20번째 코로나19 확진자 발생",
+        "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
+    },
+    {
         "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",
         "link": "https://www.news1.kr/articles/?3986323"
     },
     {
-        "title": "제주지역 20번째 코로나19 확진자 발생",
-        "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
+        "title": "코로나19 제주 20번 확진자 접촉 28명 격리",
+        "link": "https://www.hankyung.com/society/article/2020070537937"
     },
     {
         "title": "광주일곡중앙교회 코로나 집단감염 '태풍의 눈'으로",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진자 사흘 연속 60명대…유행 이후 3개월만",
         "link": "http://www.mediapen.com/news/view/538452"
-    },
-    {
-        "title": "코로나19 재확산에 잔뜩 움추린 휴일…해수욕장 등 한산",
-        "link": "http://yna.kr/AKR20200705034200060?did=1195m"
     }
 ];
