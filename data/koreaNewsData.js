@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/05/2020070500326.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "도쿄도 코로나19 신규 확진 111명…나흘째 100명대",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5832204_32640.html"
-    },
-    {
         "title": "코로나19 신규 확진 61명 늘어...사흘 연속 60명대",
         "link": "http://www.hani.co.kr/arti/society/health/952263.html"
     },
@@ -19,6 +15,10 @@ var koreaNewsData = [
     {
         "title": "[속보]코로나19 신규 확진자 61명…사흘연속 60명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007051023001&code=940100"
+    },
+    {
+        "title": "도쿄도 코로나19 신규 확진 111명…나흘째 100명대",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5832204_32640.html"
     },
     {
         "title": "코로나19 신규 확진자 61명 늘어...사흘 연속 60명대",
