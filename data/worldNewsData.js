@@ -5,24 +5,24 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "Coronavirus updates: Texas, Florida and Arizona officials say early reopenings fueled explosion of cases",
-        "link": "https://www.washingtonpost.com/nation/2020/07/05/coronavirus-update-us/"
+        "title": "Here are five charts tracking the U.S. economy amid the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/07/05/here-are-five-charts-tracking-the-us-economy-amid-the-coronavirus.html"
     },
     {
-        "title": "'Israel has days to contain coronavirus outbreak, or health services could collapse'",
-        "link": "https://www.haaretz.com/israel-news/.premium-israel-has-days-to-contain-coronavirus-outbreak-or-health-services-could-collapse-1.8971233"
+        "title": "Palestinians, Israelis face new lockdowns amid coronavirus surge",
+        "link": "https://www.aljazeera.com/news/2020/07/palestinians-israelis-face-lockdowns-coronavirus-surge-200705092454034.html"
     },
     {
         "title": "Coronavirus: Spain imposes local lockdown in Galicia",
         "link": "https://www.bbc.com/news/world-europe-53299544"
     },
     {
-        "title": "Indian man wears gold face mask to ward off coronavirus",
-        "link": "https://news.yahoo.com/indian-man-wears-gold-face-mask-ward-off-134617710.html"
+        "title": "The 17-member family that lived together, ate together and got coronavirus together",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
-        "title": "Up to 8,000 Chinese nationals came into US after Trump banned travel due to coronavirus: AP",
-        "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
+        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
     },
     {
         "title": "US cases dip as world sets record for new coronavirus cases in 24-hour period",
