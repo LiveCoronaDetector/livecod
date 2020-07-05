@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
     {
-        "title": "제주지역 20번째 코로나19 확진자 발생",
-        "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
+        "title": "제주지역 20번째 코로나19 확진자 발생…외국서 입국",
+        "link": "http://www.hani.co.kr/arti/area/jeju/952260.html"
     },
     {
-        "title": "제주지역 코로나19 20번째 확진자 발생",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167043"
+        "title": "제주지역 20번째 코로나19 확진자 발생",
+        "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
     },
     {
         "title": "제주도내 18‧19번 코로나19 확진자 15일만에 퇴원",
@@ -19,6 +19,14 @@ var jejuNewsData = [
     {
         "title": "대구 연기학원발 코로나19 추가 확진 없어",
         "link": "http://www.newsis.com/view/?id=NISX20200704_0001083755&cID=10899&pID=10800"
+    },
+    {
+        "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
+    },
+    {
+        "title": "대구 석 달 만에 확진자 '두 자릿수', 재유행 우려",
+        "link": "https://news.imaeil.com/Society/2020070316521339134"
     },
     {
         "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "광주 코로나19 확산세...초·중·고 등교 중지",
         "link": "https://www.ytn.co.kr/_ln/0115_202007021404532249"
-    },
-    {
-        "title": "코로나 재확산...여름휴가 설렘 대신 고민 커진다",
-        "link": "https://www.sedaily.com/NewsView/1Z5670E4DR"
-    },
-    {
-        "title": "대구 유가초등학교 확진자 발생… 원격수업 전환",
-        "link": "http://www.segye.com/content/html/2020/07/03/20200703508319.html?OutUrl=naver"
     }
 ];

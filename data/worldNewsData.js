@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "'We need to live with it': White House readies new message for the nation on coronavirus",
-        "link": "https://www.nbcnews.com/politics/politics-news/we-need-live-it-white-house-readies-new-message-nation-n1232884"
+        "title": "Coronavirus Updates: Trump Hosts July 4 Event at White House",
+        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     },
     {
         "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
         "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
-        "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
-        "link": "https://www.who.int/news-room/detail/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19"
+        "title": "Coronavirus Spain: Catalonia locks down area of 210,000 people",
+        "link": "https://www.bbc.com/news/world-europe-53291281"
     }
 ];

@@ -5,12 +5,28 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020070509084005823"
     },
     {
+        "title": "골프장도 뚫렸다…경기 광주서 확진자와 골프 친 2명 감염",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005867973&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "삼성SDS “코로나19 확진자 접촉 임직원 전원 음성”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988652?division=NAVER"
+    },
+    {
         "title": "[속보] '코로나19' 신규 확진자 63명...'국내 발생'은 경기 15명 등 36명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007041035001&code=940100"
     },
     {
         "title": "코로나19 신규 확진 63명…수도권‧호남 중심 확산세",
         "link": "https://www.nocutnews.co.kr/news/5372621"
+    },
+    {
+        "title": "신종 코로나 신규 확진자 63명 증가… 이틀 연속 60명대",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/04/2020070400580.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 신규 확진자 63명 늘어...해외 유입 27명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007041208131599"
     },
     {
         "title": "“美 코로나19 확진자 중 절반 감염경로 모른다”",
@@ -21,23 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200704032900009?did=1195m"
     },
     {
-        "title": "골프장도 뚫렸다…경기 광주서 확진자와 골프 친 2명 감염",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005867973&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "삼성SDS “코로나19 확진자 접촉 임직원 전원 음성”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988652?division=NAVER"
-    },
-    {
         "title": "광주 코로나 확진자 일주일새 63명…\"'교회 예배' 제발 자제를\"",
         "link": "https://www.pressian.com/pages/articles/2020070415292739483?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "대전서 코로나19 확진자 2명 더 추가…기존 확진자 가족",
-        "link": "http://yna.kr/AKR20200704049500063?did=1195m"
-    },
-    {
-        "title": "신종 코로나 신규 확진자 63명 증가… 이틀 연속 60명대",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/04/2020070400580.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
