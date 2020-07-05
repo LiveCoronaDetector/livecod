@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
     },
     {
+        "title": "제주지역 코로나19 20번째 확진자 발생",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167043"
+    },
+    {
         "title": "제주도내 18‧19번 코로나19 확진자 15일만에 퇴원",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324447"
     },
     {
         "title": "대구 연기학원발 코로나19 추가 확진 없어",
         "link": "http://www.newsis.com/view/?id=NISX20200704_0001083755&cID=10899&pID=10800"
-    },
-    {
-        "title": "제주지역 코로나19 20번째 확진자 발생",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167043"
     },
     {
         "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",

@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
-        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
+        "title": "'We need to live with it': White House readies new message for the nation on coronavirus",
+        "link": "https://www.nbcnews.com/politics/politics-news/we-need-live-it-white-house-readies-new-message-nation-n1232884"
     },
     {
-        "title": "July 4, 2020: Watch Live - White House Independence Day Celebration - Trump hosts Salute to America",
-        "link": "https://www.youtube.com/watch?v=Jjz9rv7r0_U"
+        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
+        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
         "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
