@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050069&t=NN"
     },
     {
-        "title": "도쿄도 코로나19 신규 확진 111명…나흘째 100명대",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5832204_32640.html"
+        "title": "대전에서 코로나19 확진자 '사망'... 3일 전 확진",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655870&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
