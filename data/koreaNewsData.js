@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/05/2020070500326.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 광주 광륵사발 확진자 80명으로 껑충...하룻새 13명 추가",
-        "link": "https://hankookilbo.com/News/Read/A2020070514230002968?did=NA"
+        "title": "수도권·광주·대전 집단감염 확산…광륵사 관련 확진자 총 80명",
+        "link": "http://yna.kr/AKR20200705031100530?did=1195m"
+    },
+    {
+        "title": "코로나19 확진자 발생 성남시 탄천초 폐쇄, 교직원·학생 전수조사(종합)",
+        "link": "http://www.kyeongin.com/main/view.php?key=20200705010001017"
     },
     {
         "title": "경기 광주 골프장 확진→서울로 확산…서울 확진자 최소 1372명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200705_0001084317&cID=14001&pID=14000"
     },
     {
-        "title": "광주서 초등학생 코로나19 첫 확진...엄마와 교회갔다 걸려(상보)",
-        "link": "https://view.asiae.co.kr/article/2020070509084005823"
+        "title": "코로나19 신규 확진 61명 늘어...사흘 연속 60명대",
+        "link": "http://www.hani.co.kr/arti/society/health/952263.html"
     },
     {
-        "title": "KT 광화문사옥 코로나19 확진자 1명 추가…재택근무 연장",
-        "link": "http://yna.kr/AKR20200705014200017?did=1195m"
-    },
-    {
-        "title": "광주 초등학생 확진자 첫 발생…광주 일곡중앙교회 확진자 가족",
-        "link": "http://www.hani.co.kr/arti/area/honam/952257.html"
+        "title": "KT 광화문 사옥 코로나19 확진자 1명 추가…재택근무 연장",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4486883&ref=A"
     },
     {
         "title": "전남 확진자 잇따라…사회적 거리두기 2단계로 격상",
         "link": "https://imnews.imbc.com/news/2020/society/article/5832049_32633.html"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 61명…사흘연속 60명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007051023001&code=940100"
+        "title": "[속보] 광주 초등생 첫 확진…일곡중앙교회 확진자 자녀",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050016&t=NN"
     },
     {
-        "title": "코로나19 신규 확진 61명…추가 사망자는 없어",
-        "link": "http://news.tf.co.kr/read/life/1800549.htm"
+        "title": "광주서 초등생 코로나19 첫 확진…누적 확진자 108명",
+        "link": "https://www.nocutnews.co.kr/news/5372712"
     },
     {
         "title": "코로나19 신규 확진자 61명 늘어...사흘 연속 60명대",

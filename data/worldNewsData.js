@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "Donald Trump rushed to reopen America – now Covid is closing in on him",
-        "link": "https://www.theguardian.com/commentisfree/2020/jul/05/donald-trump-reopen-america-covid-19-coronavirus"
+        "title": "See how Canada crushed the curve while the US struggles",
+        "link": "https://www.cnn.com/videos/health/2020/07/03/canada-flattens-coronavirus-curve-newton-newday-vpx.cnn"
     },
     {
         "title": "Greece PM says won't accept strict EU conditions on COVID-19 aid - FT",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
-    },
-    {
         "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
         "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "At Mt. Rushmore and the White House, Trump Updates ‘American Carnage’ Message for 2020",
-        "link": "https://www.nytimes.com/2020/07/04/us/politics/trump-mt-rushmore.html"
+        "title": "239 Experts With 1 Big Claim: The Coronavirus Is Airborne",
+        "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html"
+    },
+    {
+        "title": "Trump doubles down on divisive messaging in speech to honor Independence Day",
+        "link": "https://www.cnn.com/2020/07/04/politics/trump-july-fourth-remarks/index.html"
     }
 ];
