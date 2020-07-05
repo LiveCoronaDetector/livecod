@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.daejeontoday.com/news/articleView.html?idxno=590388"
     },
     {
-        "title": "코로나19 확진자 사흘 연속 60명대…유행 이후 3개월만",
-        "link": "http://www.mediapen.com/news/view/538452"
+        "title": "코로나19 재확산에 잔뜩 움추린 휴일…해수욕장 등 한산",
+        "link": "http://yna.kr/AKR20200705034200060?did=1195m"
     }
 ];
