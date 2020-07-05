@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200705033751073?did=1195m"
     },
     {
-        "title": "광주서 초등학생 코로나19 첫 확진...엄마와 교회갔다 걸려(상보)",
-        "link": "https://view.asiae.co.kr/article/2020070509084005823"
+        "title": "[속보] 박능후 “코로나 확산속도 증가, 빠른 검사 영향”",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050069&t=NN"
     },
     {
-        "title": "중랑구 묵현초 확진자 형제 2명도 추가 확진…총 3명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200705_0001084356&cID=14001&pID=14000"
+        "title": "광주서 초등학생 코로나19 첫 확진...엄마와 교회갔다 걸려(상보)",
+        "link": "https://view.asiae.co.kr/article/2020070509084005823"
     },
     {
         "title": "코로나19 신규 확진 61명 늘어...사흘 연속 60명대",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5832049_32633.html"
     },
     {
-        "title": "코로나19 신규 확진자 61명 늘어...사흘 연속 60명대",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007051058507408"
-    },
-    {
         "title": "광주 코로나19 집단 감염 발상지는?",
         "link": "https://www.nocutnews.co.kr/news/5372847"
     },
     {
-        "title": "KT, 코로나19 추가 확진자 발생…전직원 재택 연장",
-        "link": "http://www.inews24.com/view/1279107"
+        "title": "대전에서 코로나19 확진자 '사망'... 3일 전 확진",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655870&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "도쿄도 코로나19 신규 확진 111명…나흘째 100명대",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5832204_32640.html"
     }
 ];
