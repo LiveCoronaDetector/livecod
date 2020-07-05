@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200704_0001083755&cID=10899&pID=10800"
     },
     {
+        "title": "코로나19 신규확진 61명, 누적 확진자 1만3091명…사흘째 60명대",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20200705112214987846a9e4dd7f_30"
+    },
+    {
         "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "\"올해도 물놀이 꼭 해야되나\"… 휴가철 '풀파티'에 코로나 방역 비상",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302921.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "광주 코로나19 확산세...초·중·고 등교 중지",
-        "link": "https://www.ytn.co.kr/_ln/0115_202007021404532249"
     }
 ];

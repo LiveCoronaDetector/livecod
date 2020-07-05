@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007051020487338"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 61명…사흘연속 60명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007051023001&code=940100"
-    },
-    {
         "title": "[속보] 광주 초등생 첫 확진…일곡중앙교회 확진자 가족",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014766439&code=61121211&cp=nv"
     },
     {
-        "title": "코로나19 신규확진자 61명…3개월만에 3일 연속 60명대 확진(상보)",
-        "link": "https://view.asiae.co.kr/article/2020070510395584441"
+        "title": "코로나19 신규 확진자 61명 늘어...사흘 연속 60명대",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007051058507408"
+    },
+    {
+        "title": "코로나19 신규 확진자 61명…누적 1만 3091명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988673?division=NAVER"
+    },
+    {
+        "title": "KT 광화문사옥 코로나19 확진자 1명 추가…재택근무 연장",
+        "link": "https://imnews.imbc.com/news/2020/econo/article/5832019_32647.html"
+    },
+    {
+        "title": "[속보] 코로나 5일 신규 확진자 61명...사흘 연속 60명대",
+        "link": "http://www.hani.co.kr/arti/society/health/952263.html"
+    },
+    {
+        "title": "어제 코로나19 신규확진 61명… 수도권 18명·강원 1명",
+        "link": "http://www.kwnews.co.kr/view.asp?aid=220070400000&s=501"
     },
     {
         "title": "세계 코로나19 들불…하루 21만명 확진 '팬데믹 이후 최다'(종합)",
         "link": "http://yna.kr/AKR20200705005051009?did=1195m"
     },
     {
-        "title": "[속보] 국내 코로나19 확진자 61명 추가...지역발생 43명",
-        "link": "https://www.sedaily.com/NewsView/1Z56NYFLH6"
-    },
-    {
         "title": "광주 코로나19 확진자 9명 추가 발생...누적 환자 106명",
         "link": "https://www.nocutnews.co.kr/news/5372679"
-    },
-    {
-        "title": "광주서 초등학생 코로나19 첫 확진자 나와",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988674?division=NAVER"
-    },
-    {
-        "title": "골프장도 뚫렸다…경기 광주서 확진자와 골프 친 2명 감염",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005867973&plink=ORI&cooper=NAVER"
     }
 ];
