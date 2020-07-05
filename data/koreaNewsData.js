@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020070509084005823"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 61명…사흘연속 60명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007051023001&code=940100"
+        "title": "[속보] 광주 초등생 첫 확진…일곡중앙교회 확진자 자녀",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050016&t=NN"
     },
     {
         "title": "[종합]신규 확진자 61명...사흘연속 60명대",
@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1279107"
     },
     {
+        "title": "코로나19 신규확진자 61명…3개월만에 3일 연속 60명대 확진(상보)",
+        "link": "https://view.asiae.co.kr/article/2020070510395584441"
+    },
+    {
+        "title": "코로나19 신규 확진 61명…추가 사망자는 없어",
+        "link": "http://news.tf.co.kr/read/life/1800549.htm"
+    },
+    {
+        "title": "코로나19 신규 확진자 61명…누적 1만 3091명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988673?division=NAVER"
+    },
+    {
+        "title": "세계 코로나19 들불…하루 21만명 확진 '팬데믹 이후 최다'(종합)",
+        "link": "http://yna.kr/AKR20200705005051009?did=1195m"
+    },
+    {
         "title": "삼성SDS “코로나19 확진자 접촉 임직원 전원 음성”",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988652?division=NAVER"
-    },
-    {
-        "title": "광주 코로나19 확진자 9명 추가 발생...누적 환자 106명",
-        "link": "https://www.nocutnews.co.kr/news/5372679"
-    },
-    {
-        "title": "[속보] 국내 코로나19 확진자 61명 추가...지역발생 43명",
-        "link": "https://www.sedaily.com/NewsView/1Z56NYFLH6"
-    },
-    {
-        "title": "코로나19 신규 확진자 61명 늘어...사흘 연속 60명대",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007051058507408"
-    },
-    {
-        "title": "중랑구 묵현초 코로나19 확진자 발생",
-        "link": "http://www.newsis.com/view/?id=NISI20200705_0016452108"
     }
 ];

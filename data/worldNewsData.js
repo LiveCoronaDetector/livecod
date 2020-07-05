@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
-        "title": "World Health Organization reports new coronavirus cases reach all-time high",
-        "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
-    },
-    {
         "title": "Coronavirus Updates: Trump Hosts July 4 Event at White House",
         "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
+    },
+    {
+        "title": "World Health Organization reports new coronavirus cases reach all-time high",
+        "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
         "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
