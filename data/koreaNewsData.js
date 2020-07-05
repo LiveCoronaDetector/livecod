@@ -5,28 +5,28 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/05/2020070500326.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "광주서 초등학생 코로나19 첫 확진...엄마와 교회갔다 걸려(상보)",
-        "link": "https://view.asiae.co.kr/article/2020070509084005823"
-    },
-    {
-        "title": "[속보] 광주 초등생 첫 확진…일곡중앙교회 확진자 자녀",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050016&t=NN"
+        "title": "KT, 코로나19 추가 확진자 발생…전직원 재택 연장",
+        "link": "http://www.inews24.com/view/1279107"
     },
     {
         "title": "[종합]신규 확진자 61명...사흘연속 60명대",
         "link": "http://www.fnnews.com/news/202007051020487338"
     },
     {
-        "title": "KT, 코로나19 추가 확진자 발생…전직원 재택 연장",
-        "link": "http://www.inews24.com/view/1279107"
+        "title": "광주서 초등학생 코로나19 첫 확진...엄마와 교회갔다 걸려(상보)",
+        "link": "https://view.asiae.co.kr/article/2020070509084005823"
+    },
+    {
+        "title": "코로나19 신규 확진 61명…추가 사망자는 없어",
+        "link": "http://news.tf.co.kr/read/life/1800549.htm"
     },
     {
         "title": "코로나19 신규확진자 61명…3개월만에 3일 연속 60명대 확진(상보)",
         "link": "https://view.asiae.co.kr/article/2020070510395584441"
     },
     {
-        "title": "코로나19 신규 확진 61명…추가 사망자는 없어",
-        "link": "http://news.tf.co.kr/read/life/1800549.htm"
+        "title": "경주 확진자, 의심증상 뒤에도 카페·식당 등 7일간 외부활동(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200705500045&wlog_tag3=naver"
     },
     {
         "title": "코로나19 신규 확진자 61명…누적 1만 3091명",

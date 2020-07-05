@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
-        "title": "Who's first in line for a coronavirus vaccine? New info shows prioritization fraught with peril",
-        "link": "https://www.foxnews.com/science/coronavirus-vaccine-prioritization"
+        "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
+        "link": "https://www.who.int/news-room/detail/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19"
     }
 ];
