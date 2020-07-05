@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "Coronavirus updates: Early reopenings fueled explosion in cases that could overwhelm hospitals, local officials warn",
-        "link": "https://www.washingtonpost.com/nation/2020/07/05/coronavirus-update-us/"
+        "title": "With inflammatory July 4 message, Trump distracts from the real threat to America",
+        "link": "https://www.cnn.com/2020/07/05/politics/donald-trump-july-4-coronavirus/index.html"
     },
     {
         "title": "Coronavirus Israel live: Restrictions on religious services, bars reimposed",
         "link": "https://www.haaretz.com/israel-news/.premium-coronavirus-israel-breaking-live-updates-july-1.8970693"
     },
     {
-        "title": "Lockdown ordered for 200,000 in northeastern Spain due to Covid-19 outbreaks",
-        "link": "https://www.cnn.com/2020/07/04/europe/lockdown-lleida-province-spain-coronavirus-outbreaks-intl/index.html"
+        "title": "Italy denies entry to American vacationers after landing on private plane",
+        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
     },
     {
         "title": "Indian man wears gold face mask to ward off coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html"
     },
     {
-        "title": "WHO timeline revision does not overturn China's virus alert: experts",
-        "link": "https://www.globaltimes.cn/content/1193577.shtml"
+        "title": "World Health Organization reports new coronavirus cases reach all-time high",
+        "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     }
 ];
