@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/04/south-africa-covid-tuberculosis-mckenzie-pkg-vpx.cnn"
     },
     {
-        "title": "If the United States were my patient: We aren't ready to celebrate yet",
-        "link": "https://www.cnn.com/2020/07/03/health/covid-patient-fourth-of-july/index.html"
+        "title": "Donald Trump rushed to reopen America – now Covid is closing in on him",
+        "link": "https://www.theguardian.com/commentisfree/2020/jul/05/donald-trump-reopen-america-covid-19-coronavirus"
     },
     {
         "title": "Israel's ultra-Orthodox Jews 'least stressed' by Covid-19, says study",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
-        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
-        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
-    },
-    {
         "title": "World Health Organization reports new coronavirus cases reach all-time high",
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "White House hosts a party in the midst of a pandemic",
-        "link": "https://www.cnn.com/2020/07/04/politics/white-house-july-4-party-pandemic/index.html"
+        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
+        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Trump to speak at Mount Rushmore as COVID-19 cases trend upward",
+        "link": "https://www.youtube.com/watch?v=3ukPcqH97x4"
     },
     {
         "title": "239 Experts With 1 Big Claim: The Coronavirus Is Airborne",
