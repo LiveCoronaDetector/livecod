@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/04/south-africa-covid-tuberculosis-mckenzie-pkg-vpx.cnn"
     },
     {
-        "title": "If the United States were my patient: We aren't ready to celebrate yet",
-        "link": "https://www.cnn.com/2020/07/03/health/covid-patient-fourth-of-july/index.html"
+        "title": "Donald Trump rushed to reopen America – now Covid is closing in on him",
+        "link": "https://www.theguardian.com/commentisfree/2020/jul/05/donald-trump-reopen-america-covid-19-coronavirus"
     },
     {
-        "title": "Israel's ultra-Orthodox Jews 'least stressed' by Covid-19, says study",
-        "link": "https://www.theguardian.com/world/2020/jul/04/israels-ultra-orthodox-jews-least-stressed-by-covid-19-says-study"
+        "title": "Greece PM says won't accept strict EU conditions on COVID-19 aid - FT",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-greece-pm/greece-pm-says-wont-accept-strict-eu-conditions-on-covid-19-aid-ft-idUSKBN24604W"
     },
     {
         "title": "Lockdown ordered for 200,000 in northeastern Spain due to Covid-19 outbreaks",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     },
     {
-        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
-        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
+        "title": "Trump doubles down on divisive messaging in speech to honor Independence Day",
+        "link": "https://www.cnn.com/2020/07/04/politics/trump-july-fourth-remarks/index.html"
     },
     {
         "title": "239 Experts With 1 Big Claim: The Coronavirus Is Airborne",

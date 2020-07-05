@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.beyondpost.co.kr/view.php?ud=20200705112214987846a9e4dd7f_30"
     },
     {
+        "title": "코로나 전파속도가 빨라진다는데",
+        "link": "http://www.daejeontoday.com/news/articleView.html?idxno=590388"
+    },
+    {
+        "title": "코로나19 확진자 사흘 연속 60명대…유행 이후 3개월만",
+        "link": "http://www.mediapen.com/news/view/538452"
+    },
+    {
         "title": "코로나19 재확산에 잔뜩 움추린 휴일…해수욕장 등 한산",
         "link": "http://yna.kr/AKR20200705034200060?did=1195m"
-    },
-    {
-        "title": "\"올해도 물놀이 꼭 해야되나\"… 휴가철 '풀파티'에 코로나 방역 비상",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302921.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "제주도내 18‧19번 코로나19 확진자 15일만에 퇴원",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324447"
     }
 ];
