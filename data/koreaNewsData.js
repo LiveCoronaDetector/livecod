@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020070513253743725"
     },
     {
-        "title": "대전에서 코로나19 확진자 '사망'... 3일 전 확진",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655870&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "전남 확진자 잇따라…사회적 거리두기 2단계로 격상",
         "link": "https://imnews.imbc.com/news/2020/society/article/5832049_32633.html"
+    },
+    {
+        "title": "FDA 국장, 트럼프 '코로나 99% 무해' 발언 동조 안해(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200706_0001084420&cID=10101&pID=10100"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/05/americas/americans-fined-canada-quarantine-trnd/index.html"
     },
     {
-        "title": "Global report: second local lockdown in Spain; second wave in Israel",
-        "link": "https://www.theguardian.com/world/2020/jul/05/global-report-second-local-lockdown-in-spain-second-wave-in-israel"
+        "title": "Iran reports new record one-day coronavirus death toll - Live",
+        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-deaths-130000-july-4-fete-live-updates-200704231820246.html"
     },
     {
         "title": "Italy denies entry to American vacationers after landing on private plane",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
     },
     {
-        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
     },
     {
-        "title": "Coronavirus updates: Phoenix mayor says Arizona opened too soon; Trump set to hold rally in N.H. next week",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/05/covid-cases-surge-fourth-of-july-donald-trump-beaches/5367010002/"
+        "title": "WHO reports record rise in global coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-record-increase-global-coronavirus-cases-n1232922"
     },
     {
-        "title": "WHO underplaying risk of airborne spread of Covid-19, say scientists",
-        "link": "https://www.theguardian.com/world/2020/jul/05/who-underplaying-risk-of-airborne-spread-of-covid-19-say-scientists"
+        "title": "Trump claims victory as US nears 130,000 Covid-19 deaths – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/jul/05/donald-trump-coronavirus-testing-fauci-fourth-july-kanye-west-protests-latest-news-live-updates"
     },
     {
-        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
-        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
+        "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
     }
 ];
