@@ -5,28 +5,28 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "US cases dip as world sets record for new coronavirus cases in 24-hour period",
+        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
-        "title": "Palestinians, Israelis face new lockdowns amid coronavirus surge",
-        "link": "https://www.aljazeera.com/news/2020/07/palestinians-israelis-face-lockdowns-coronavirus-surge-200705092454034.html"
+        "title": "Global report: second local lockdown in Spain; second wave in Israel",
+        "link": "https://www.theguardian.com/world/2020/jul/05/global-report-second-local-lockdown-in-spain-second-wave-in-israel"
     },
     {
-        "title": "Italy denies entry to American vacationers after landing on private plane",
-        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
+        "title": "Coronavirus: Spain imposes local lockdown in Galicia",
+        "link": "https://www.bbc.com/news/world-europe-53299544"
     },
     {
         "title": "The 17-member family that lived together, ate together and got coronavirus together",
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
-        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
+        "title": "Up to 8,000 Chinese nationals came into US after Trump banned travel due to coronavirus: AP",
+        "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
-        "title": "WHO account revision not denial of China's fastest response",
-        "link": "https://www.globaltimes.cn/content/1193577.shtml"
+        "title": "WHO reports record rise in global coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-record-increase-global-coronavirus-cases-n1232922"
     },
     {
         "title": "Trump claims victory as US nears 130,000 coronavirus deaths – live",
