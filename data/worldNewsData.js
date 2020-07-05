@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "Coronavirus updates: Texas, Florida and Arizona officials say early reopenings fueled explosion of coronavirus cases",
+        "title": "Coronavirus updates: Texas, Florida and Arizona officials say early reopenings fueled explosion of cases",
         "link": "https://www.washingtonpost.com/nation/2020/07/05/coronavirus-update-us/"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
+    },
+    {
         "title": "US cases dip as world sets record for new coronavirus cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
-        "title": "A 2013 bat virus may have been manipulated to create COVID-19",
-        "link": "https://www.youtube.com/watch?v=mNnGTzgEVjA"
+        "title": "Trump claims victory as US nears 130,000 coronavirus deaths – live",
+        "link": "https://www.theguardian.com/world/live/2020/jul/05/donald-trump-coronavirus-testing-fauci-fourth-july-kanye-west-protests-latest-news-live-updates"
     },
     {
         "title": "239 Experts With 1 Big Claim: The Coronavirus Is Airborne",
         "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html"
-    },
-    {
-        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
-        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     }
 ];
