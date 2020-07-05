@@ -5,11 +5,11 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "Coronavirus updates: Trump touts ‘progress’ against coronavirus after another day of record infections",
+        "title": "Coronavirus updates: Early reopenings fueled explosion in cases that could overwhelm hospitals, local officials warn",
         "link": "https://www.washingtonpost.com/nation/2020/07/05/coronavirus-update-us/"
     },
     {
-        "title": "Coronavirus Israel live: Hospitalizations jump by 13 percent in less than a day",
+        "title": "Coronavirus Israel live: Restrictions on religious services, bars reimposed",
         "link": "https://www.haaretz.com/israel-news/.premium-coronavirus-israel-breaking-live-updates-july-1.8970693"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
-        "title": "WHO reports record rise in global coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/who-reports-record-increase-global-coronavirus-cases-n1232922"
+        "title": "US cases dip as world sets record for new coronavirus cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
-        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Trump claims 99% of US Covid-19 cases are 'totally harmless' as infections surge",
-        "link": "https://www.theguardian.com/world/2020/jul/05/trump-claims-99-of-us-covid-19-cases-are-totally-harmless-as-infections-surge"
+        "title": "Trump claims victory as US nears 130,000 coronavirus deaths – live",
+        "link": "https://www.theguardian.com/world/live/2020/jul/05/donald-trump-coronavirus-testing-fauci-fourth-july-kanye-west-protests-latest-news-live-updates"
     },
     {
         "title": "239 Experts With 1 Big Claim: The Coronavirus Is Airborne",
         "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html"
+    },
+    {
+        "title": "WHO timeline revision does not overturn China's virus alert: experts",
+        "link": "https://www.globaltimes.cn/content/1193577.shtml"
     }
 ];
