@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+        "title": "Two Americans fined for breaking Canada's quarantine rules",
+        "link": "https://www.cnn.com/2020/07/05/americas/americans-fined-canada-quarantine-trnd/index.html"
     },
     {
         "title": "Palestinians, Israelis face new lockdowns amid coronavirus surge",
         "link": "https://www.aljazeera.com/news/2020/07/palestinians-israelis-face-lockdowns-coronavirus-surge-200705092454034.html"
     },
     {
-        "title": "Coronavirus: Spain imposes local lockdown in Galicia",
-        "link": "https://www.bbc.com/news/world-europe-53299544"
+        "title": "Italy denies entry to American vacationers after landing on private plane",
+        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
     },
     {
         "title": "The 17-member family that lived together, ate together and got coronavirus together",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
     },
     {
-        "title": "WHO reports record rise in global coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/who-reports-record-increase-global-coronavirus-cases-n1232922"
+        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
         "title": "Trump claims victory as US nears 130,000 Covid-19 deaths – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/jul/05/donald-trump-coronavirus-testing-fauci-fourth-july-kanye-west-protests-latest-news-live-updates"
     },
     {
-        "title": "WHO underplaying risk of airborne spread of Covid-19, say scientists",
-        "link": "https://www.theguardian.com/world/2020/jul/05/who-underplaying-risk-of-airborne-spread-of-covid-19-say-scientists"
+        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
+        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     }
 ];
