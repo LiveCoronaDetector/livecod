@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/05/2020070500326.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "도쿄도 코로나19 신규 확진 111명…나흘째 100명대",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5832204_32640.html"
+    },
+    {
         "title": "코로나19 신규 확진 61명 늘어...사흘 연속 60명대",
         "link": "http://www.hani.co.kr/arti/society/health/952263.html"
     },
@@ -13,12 +17,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200705014200017?did=1195m"
     },
     {
-        "title": "전남 확진자 잇따라…사회적 거리두기 2단계로 격상",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5832049_32633.html"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 61명…사흘연속 60명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007051023001&code=940100"
+    },
+    {
+        "title": "코로나19 신규 확진자 61명 늘어...사흘 연속 60명대",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007051058507408"
     },
     {
         "title": "광주 코로나19 집단 감염 발상지는?",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020070513253743725"
     },
     {
-        "title": "[속보] 박능후 “코로나 확산속도 증가, 빠른 검사 영향”",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050069&t=NN"
-    },
-    {
-        "title": "AI, 코로나19 방역 최전선 투입…확진자도 직접 포착",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4486994&ref=A"
-    },
-    {
         "title": "대전에서 코로나19 확진자 '사망'... 3일 전 확진",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655870&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "전남 확진자 잇따라…사회적 거리두기 2단계로 격상",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5832049_32633.html"
     }
 ];

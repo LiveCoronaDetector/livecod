@@ -9,24 +9,20 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/05/coronavirus-update-us/"
     },
     {
-        "title": "Coronavirus Israel live: Restrictions on religious services, bars reimposed",
-        "link": "https://www.haaretz.com/israel-news/.premium-coronavirus-israel-breaking-live-updates-july-1.8970693"
+        "title": "'Israel has days to contain coronavirus outbreak, or health services could collapse'",
+        "link": "https://www.haaretz.com/israel-news/.premium-israel-has-days-to-contain-coronavirus-outbreak-or-health-services-could-collapse-1.8971233"
     },
     {
-        "title": "Italy denies entry to American vacationers after landing on private plane",
-        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
+        "title": "Coronavirus: Spain imposes local lockdown in Galicia",
+        "link": "https://www.bbc.com/news/world-europe-53299544"
     },
     {
         "title": "Indian man wears gold face mask to ward off coronavirus",
         "link": "https://news.yahoo.com/indian-man-wears-gold-face-mask-ward-off-134617710.html"
     },
     {
-        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
+        "title": "Up to 8,000 Chinese nationals came into US after Trump banned travel due to coronavirus: AP",
+        "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
         "title": "US cases dip as world sets record for new coronavirus cases in 24-hour period",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "239 Experts With 1 Big Claim: The Coronavirus Is Airborne",
         "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html"
+    },
+    {
+        "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
+        "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     }
 ];
