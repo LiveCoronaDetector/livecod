@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/indian-man-wears-gold-face-mask-ward-off-134617710.html"
     },
     {
-        "title": "Coronavirus: Japan's mysteriously low virus death rate",
-        "link": "https://www.bbc.com/news/world-asia-53188847"
+        "title": "Up to 8,000 Chinese nationals came into US after Trump banned travel due to coronavirus: AP",
+        "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
         "title": "World Health Organization reports new coronavirus cases reach all-time high",
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "Trump uses July 4 speech to defend \"American heroes\"",
-        "link": "https://www.youtube.com/watch?v=FVuyaVMlhJI"
+        "title": "Coronavirus Updates: Trump Hosts July 4 Event at White House",
+        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     },
     {
         "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
         "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
-        "title": "WHO halts hydroxychloroquine trials after failure to reduce death",
-        "link": "https://www.msn.com/en-us/news/world/who-halts-hydroxychloroquine-trials-after-failure-to-reduce-death/ar-BB16l2Ba"
+        "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
+        "link": "https://www.who.int/news-room/detail/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19"
     }
 ];
