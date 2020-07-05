@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "Here are five charts tracking the U.S. economy amid the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/07/05/here-are-five-charts-tracking-the-us-economy-amid-the-coronavirus.html"
+        "title": "US cases dip as world sets record for new coronavirus cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
         "title": "Palestinians, Israelis face new lockdowns amid coronavirus surge",
         "link": "https://www.aljazeera.com/news/2020/07/palestinians-israelis-face-lockdowns-coronavirus-surge-200705092454034.html"
     },
     {
-        "title": "Coronavirus: Spain imposes local lockdown in Galicia",
-        "link": "https://www.bbc.com/news/world-europe-53299544"
+        "title": "Italy denies entry to American vacationers after landing on private plane",
+        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
     },
     {
         "title": "The 17-member family that lived together, ate together and got coronavirus together",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
     },
     {
-        "title": "US cases dip as world sets record for new coronavirus cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+        "title": "WHO account revision not denial of China's fastest response",
+        "link": "https://www.globaltimes.cn/content/1193577.shtml"
     },
     {
         "title": "Trump claims victory as US nears 130,000 coronavirus deaths – live",
