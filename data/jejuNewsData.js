@@ -21,8 +21,8 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3986323"
     },
     {
-        "title": "코로나19 제주 20번 확진자 접촉 28명 격리",
-        "link": "https://www.hankyung.com/society/article/2020070537937"
+        "title": "제주 20번째 확진자와 접촉한 28명 자가격리",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487011&ref=A"
     },
     {
         "title": "광주일곡중앙교회 코로나 집단감염 '태풍의 눈'으로",

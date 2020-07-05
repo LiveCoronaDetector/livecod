@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
+        "title": "239 Experts With 1 Big Claim: The Coronavirus Is Airborne",
+        "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html"
     },
     {
         "title": "World Health Organization reports new coronavirus cases reach all-time high",
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "239 Experts With 1 Big Claim: The Coronavirus Is Airborne",
-        "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-1-big-claim-the-coronavirus-is-airborne.html"
+        "title": "In Fourth of July remarks, Trump goes after 'radical left' and media",
+        "link": "https://www.youtube.com/watch?v=4Gj1Z8RLbnE"
     },
     {
-        "title": "Trump claims 99% of US Covid-19 cases are 'totally harmless' as infections surge",
-        "link": "https://www.theguardian.com/world/2020/jul/05/trump-claims-99-of-us-covid-19-cases-are-totally-harmless-as-infections-surge"
+        "title": "The Pandemic’s Big Mystery: How Deadly Is the Coronavirus?",
+        "link": "https://www.nytimes.com/2020/07/04/health/coronavirus-death-rate.html"
     }
 ];
