@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
-        "title": "Watch live: White House hosts July 4th 'Salute to America' celebration",
-        "link": "https://www.youtube.com/watch?v=EDOnmRzllOc"
+        "title": "July 4, 2020: Watch Live - White House Independence Day Celebration - Trump hosts Salute to America",
+        "link": "https://www.youtube.com/watch?v=Jjz9rv7r0_U"
     },
     {
         "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
