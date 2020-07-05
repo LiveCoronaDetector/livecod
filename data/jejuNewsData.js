@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
     {
-        "title": "광주 광륵사 관련 확진자 9일새 80명…수도권·대전 소규모 확산",
-        "link": "http://www.newsis.com/view/?id=NISX20200705_0001084185&cID=10201&pID=10200"
-    },
-    {
         "title": "제주지역 20번째 코로나19 확진자 발생…외국서 입국",
         "link": "http://www.hani.co.kr/arti/area/jeju/952260.html"
     },
@@ -17,8 +13,20 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421494"
     },
     {
+        "title": "꼬리 무는 광주 집단감염…광륵사發 확진자 80명",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020070514504220917"
+    },
+    {
+        "title": "광주 광륵사 관련 확진자 9일새 80명…수도권·대전 소규모 확산",
+        "link": "http://www.newsis.com/view/?id=NISX20200705_0001084185&cID=10201&pID=10200"
+    },
+    {
         "title": "제주지역 20번째 코로나19 확진자 발생",
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
+    },
+    {
+        "title": "광주 광륵사 관련 확진자 9일새 80명…수도권·대전 소규모 확산",
+        "link": "https://www.sisa-news.com/news/article.html?no=129076"
     },
     {
         "title": "코로나19 신규확진 61명, 누적 확진자 1만3091명…사흘째 60명대",
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200705034200060?did=1195m"
     },
     {
-        "title": "제주도내 18‧19번 코로나19 확진자 15일만에 퇴원",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324447"
-    },
-    {
-        "title": "'연기학원'發 집단감염 대구 추가 확진자 없어(종합)",
-        "link": "https://www.news1.kr/articles/?3985940"
-    },
-    {
-        "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
+        "title": "\"올해도 물놀이 꼭 해야되나\"… 휴가철 '풀파티'에 코로나 방역 비상",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/03/2020070302921.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
