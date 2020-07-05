@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020070509084005823"
     },
     {
-        "title": "코로나 신규 확진 사흘째 60명대… 수도권·광주 등 집단감염 확산(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/05/2020070500326.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 대전서 코로나19 확진 70대 여성 치료중 숨져",
+        "link": "https://www.hankyung.com/society/article/2020070543807"
     },
     {
-        "title": "중랑구 묵현초 확진자 형제 2명도 추가 확진…총 3명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200705_0001084356&cID=14001&pID=14000"
+        "title": "[속보] 박능후 “코로나 확산속도 증가, 빠른 검사 영향”",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050069&t=NN"
+    },
+    {
+        "title": "코로나 신규 확진 사흘째 60명대… 수도권·광주 등 집단감염 확산(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/05/2020070500326.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 신규 확진 61명 늘어...사흘 연속 60명대",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5832049_32633.html"
     },
     {
+        "title": "중랑구 묵현초 확진자 형제 2명도 추가 확진…총 3명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200705_0001084356&cID=14001&pID=14000"
+    },
+    {
         "title": "코로나19 확진자 발생 성남시 탄천초 폐쇄, 교직원·학생 전수조사(종합)",
         "link": "http://www.kyeongin.com/main/view.php?key=20200705010001017"
     },
     {
         "title": "광주 코로나19 집단 감염 발상지는?",
         "link": "https://www.nocutnews.co.kr/news/5372847"
-    },
-    {
-        "title": "물폭탄에 코로나까지···엎친 데 덮친 日",
-        "link": "https://www.sedaily.com/NewsView/1Z56PFIXKI"
-    },
-    {
-        "title": "경기 광주 골프장 확진→서울로 확산…서울 확진자 최소 1372명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200705_0001084317&cID=14001&pID=14000"
     }
 ];
