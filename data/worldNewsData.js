@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "Here are five charts tracking the U.S. economy amid the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/07/05/here-are-five-charts-tracking-the-us-economy-amid-the-coronavirus.html"
+        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
-        "title": "Global report: second local lockdown in Spain; second wave in Israel",
-        "link": "https://www.theguardian.com/world/2020/jul/05/global-report-second-local-lockdown-in-spain-second-wave-in-israel"
+        "title": "Palestinians, Israelis face new lockdowns amid coronavirus surge",
+        "link": "https://www.aljazeera.com/news/2020/07/palestinians-israelis-face-lockdowns-coronavirus-surge-200705092454034.html"
     },
     {
         "title": "Coronavirus: Spain imposes local lockdown in Galicia",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
-        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
     },
     {
-        "title": "Trump claims victory as US nears 130,000 coronavirus deaths – live",
+        "title": "WHO reports record rise in global coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-record-increase-global-coronavirus-cases-n1232922"
+    },
+    {
+        "title": "Trump claims victory as US nears 130,000 Covid-19 deaths – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/jul/05/donald-trump-coronavirus-testing-fauci-fourth-july-kanye-west-protests-latest-news-live-updates"
-    },
-    {
-        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
-        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     },
     {
         "title": "WHO underplaying risk of airborne spread of Covid-19, say scientists",
