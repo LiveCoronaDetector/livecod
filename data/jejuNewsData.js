@@ -13,8 +13,8 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/952260.html"
     },
     {
-        "title": "제주, 코로나19 20번 확진자 접촉자 '28명' 격리",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421494"
+        "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",
+        "link": "https://www.news1.kr/articles/?3986323"
     },
     {
         "title": "제주지역 20번째 코로나19 확진자 발생",
