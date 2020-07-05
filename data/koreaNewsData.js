@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/life/1800549.htm"
     },
     {
-        "title": "코로나19 신규확진자 61명…3개월만에 3일 연속 60명대 확진(상보)",
-        "link": "https://view.asiae.co.kr/article/2020070510395584441"
+        "title": "코로나19 신규 확진자 61명…누적 1만 3091명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988673?division=NAVER"
     },
     {
         "title": "경주 확진자, 의심증상 뒤에도 카페·식당 등 7일간 외부활동(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200705500045&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 신규 확진자 61명…누적 1만 3091명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988673?division=NAVER"
+        "title": "코로나19 신규확진자 61명…3개월만에 3일 연속 60명대 확진(상보)",
+        "link": "https://view.asiae.co.kr/article/2020070510395584441"
+    },
+    {
+        "title": "코로나19 추가 확진자 발생한 KT",
+        "link": "http://www.newsis.com/view/?id=NISI20200705_0016452185"
     },
     {
         "title": "세계 코로나19 들불…하루 21만명 확진 '팬데믹 이후 최다'(종합)",
         "link": "http://yna.kr/AKR20200705005051009?did=1195m"
-    },
-    {
-        "title": "삼성SDS “코로나19 확진자 접촉 임직원 전원 음성”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988652?division=NAVER"
     }
 ];

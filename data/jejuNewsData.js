@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
     },
     {
-        "title": "제주지역 코로나19 20번째 확진자 발생",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167043"
-    },
-    {
         "title": "제주도내 18‧19번 코로나19 확진자 15일만에 퇴원",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324447"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "대구 석 달 만에 확진자 '두 자릿수', 재유행 우려",
         "link": "https://news.imaeil.com/Society/2020070316521339134"
+    },
+    {
+        "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
     }
 ];
