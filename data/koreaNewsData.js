@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007051023001&code=940100"
     },
     {
-        "title": "일본 코로나19 신규 확진자 207명…사흘 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487007&ref=A"
-    },
-    {
         "title": "광주 코로나19 집단 감염 발상지는?",
         "link": "https://www.nocutnews.co.kr/news/5372847"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "[속보] 박능후 “코로나 확산속도 증가, 빠른 검사 영향”",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007050069&t=NN"
+    },
+    {
+        "title": "AI, 코로나19 방역 최전선 투입…확진자도 직접 포착",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4486994&ref=A"
     },
     {
         "title": "대전에서 코로나19 확진자 '사망'... 3일 전 확진",
