@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/952260.html"
     },
     {
-        "title": "제주, 코로나19 20번 확진자 접촉자 '28명' 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421494"
-    },
-    {
         "title": "제주지역 20번째 코로나19 확진자 발생",
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
+    },
+    {
+        "title": "제주, 코로나19 20번 확진자 접촉자 '28명' 확인",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421494"
     },
     {
         "title": "제주도내 18‧19번 코로나19 확진자 15일만에 퇴원",
