@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.beyondpost.co.kr/view.php?ud=20200705112214987846a9e4dd7f_30"
     },
     {
-        "title": "제주 코로나19 20번째 확진자 발생…카자흐스탄서 입국",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=147325"
-    },
-    {
         "title": "광주 코로나19 ‘광륵사→방판업체→제주도 여행→사랑교회’ 순으로 전파",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200703500191&wlog_tag3=naver"
     },
     {
         "title": "대구 석 달 만에 확진자 '두 자릿수', 재유행 우려",
         "link": "https://news.imaeil.com/Society/2020070316521339134"
+    },
+    {
+        "title": "대구서 하루 14명 확진자 발생…다시 확산 추세",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/952139.html"
     }
 ];

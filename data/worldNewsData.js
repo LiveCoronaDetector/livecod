@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/8000-chinese-nationals-came-into-us-after-trump-travel-ban-coronavirus"
     },
     {
+        "title": "World Health Organization reports new coronavirus cases reach all-time high",
+        "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
+    },
+    {
         "title": "Coronavirus Updates: Trump Hosts July 4 Event at White House",
         "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Who's first in line for a coronavirus vaccine? New info shows prioritization fraught with peril",
         "link": "https://www.foxnews.com/science/coronavirus-vaccine-prioritization"
-    },
-    {
-        "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
-        "link": "https://www.who.int/news-room/detail/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19"
     }
 ];

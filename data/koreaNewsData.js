@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/05/2020070500326.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 광주 초등생 첫 확진…일곡중앙교회 확진자 가족",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014766439&code=61121211&cp=nv"
-    },
-    {
-        "title": "코로나19 신규 확진자 61명 늘어...사흘 연속 60명대",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007051058507408"
-    },
-    {
-        "title": "KT, 코로나19 추가 확진자 발생…전직원 재택 연장",
-        "link": "http://www.inews24.com/view/1279107"
+        "title": "광주서 초등학생 코로나19 첫 확진...엄마와 교회갔다 걸려(상보)",
+        "link": "https://view.asiae.co.kr/article/2020070509084005823"
     },
     {
         "title": "[속보]코로나19 신규 확진자 61명…사흘연속 60명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007051023001&code=940100"
     },
     {
-        "title": "광주서 초등학생 코로나19 첫 확진자 나와",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988674?division=NAVER"
+        "title": "[종합]신규 확진자 61명...사흘연속 60명대",
+        "link": "http://www.fnnews.com/news/202007051020487338"
     },
     {
-        "title": "코로나19 신규 확진 61명…추가 사망자는 없어",
-        "link": "http://news.tf.co.kr/read/life/1800549.htm"
+        "title": "KT, 코로나19 추가 확진자 발생…전직원 재택 연장",
+        "link": "http://www.inews24.com/view/1279107"
+    },
+    {
+        "title": "삼성SDS “코로나19 확진자 접촉 임직원 전원 음성”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988652?division=NAVER"
+    },
+    {
+        "title": "광주 코로나19 확진자 9명 추가 발생...누적 환자 106명",
+        "link": "https://www.nocutnews.co.kr/news/5372679"
     },
     {
         "title": "[속보] 국내 코로나19 확진자 61명 추가...지역발생 43명",
         "link": "https://www.sedaily.com/NewsView/1Z56NYFLH6"
     },
     {
-        "title": "[종합]신규 확진자 61명...사흘연속 60명대",
-        "link": "http://www.fnnews.com/news/202007051020487338"
+        "title": "코로나19 신규 확진자 61명 늘어...사흘 연속 60명대",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007051058507408"
     },
     {
-        "title": "세계 코로나19 들불…하루 21만명 확진 '팬데믹 이후 최다'(종합)",
-        "link": "http://yna.kr/AKR20200705005051009?did=1195m"
+        "title": "중랑구 묵현초 코로나19 확진자 발생",
+        "link": "http://www.newsis.com/view/?id=NISI20200705_0016452108"
     }
 ];
