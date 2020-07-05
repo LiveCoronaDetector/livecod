@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/04/world-health-organization-reports-new-coronavirus-cases-reach-all-time-high.html"
     },
     {
-        "title": "Coronavirus Updates: Trump Hosts July 4 Event at White House",
-        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
+        "title": "Trump uses July 4 speech to defend \"American heroes\"",
+        "link": "https://www.youtube.com/watch?v=FVuyaVMlhJI"
     },
     {
         "title": "England has one of the world's worst Covid death rates. Now many fear it's about to drink itself into chaos",
         "link": "https://www.cnn.com/travel/article/england-pub-opening-coronavirus-chaos/index.html"
     },
     {
-        "title": "Coronavirus Spain: Catalonia locks down area of 210,000 people",
-        "link": "https://www.bbc.com/news/world-europe-53291281"
+        "title": "WHO halts hydroxychloroquine trials after failure to reduce death",
+        "link": "https://www.msn.com/en-us/news/world/who-halts-hydroxychloroquine-trials-after-failure-to-reduce-death/ar-BB16l2Ba"
     }
 ];
