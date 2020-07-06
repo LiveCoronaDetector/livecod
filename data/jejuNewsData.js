@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=317601"
     },
     {
-        "title": "제주지역 20번째 코로나19 확진자 발생… 카자흐스탄서 입국",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=324277"
+        "title": "제주도, 20번째 확진자 역학조사 결과 공개...28명 전원 자가격리 조치",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=324285"
     },
     {
         "title": "관광객 몰리는 제주, 도 전역 코로나19 방역 강화",
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=147405"
     },
     {
-        "title": "광주일곡중앙교회 코로나 집단감염 '태풍의 눈'으로",
-        "link": "https://www.jnilbo.com/view/media/view?code=2020070516373127789"
+        "title": "대구 유가초 확진자 등 2명 ‘양성→음성’…위양성 확인",
+        "link": "http://www.kukinews.com/newsView/kuk202007060161"
     }
 ];

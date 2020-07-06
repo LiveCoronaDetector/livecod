@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
-        "title": "U.S. COVID-19 Deaths Near 130000; Florida And Texas Report Record Case Numbers",
-        "link": "https://www.npr.org/2020/07/05/887445479/u-s-covid-19-deaths-near-130-000-florida-and-texas-report-record-case-numbers"
+        "title": "Two Americans fined for breaking Canada's quarantine rules",
+        "link": "https://www.cnn.com/2020/07/05/americas/americans-fined-canada-quarantine-trnd/index.html"
     },
     {
         "title": "121 University Of Washington Students Infected In Greek Row Outbreak",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
     },
     {
-        "title": "Coronavirus: Spain imposes local lockdown in Galicia",
-        "link": "https://www.bbc.com/news/world-europe-53299544"
+        "title": "Italy denies entry to American vacationers after landing on private plane",
+        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
     },
     {
         "title": "The 17-member family that lived together, ate together and got coronavirus together",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
     },
     {
-        "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
-        "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
-    },
-    {
-        "title": "WHO reports new global record for new coronavirus cases",
-        "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-who-global-record-new-cases-day-20200705-klkx5l44sza23onawzq3gihg2y-story.html"
+        "title": "WHO reports record rise in global coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-record-increase-global-coronavirus-cases-n1232922"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
     },
     {
-        "title": "WHO underplaying risk of airborne spread of Covid-19, say scientists",
-        "link": "https://www.theguardian.com/world/2020/jul/05/who-underplaying-risk-of-airborne-spread-of-covid-19-say-scientists"
+        "title": "239 Experts With One Big Claim: The Coronavirus Is Airborne",
+        "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html"
+    },
+    {
+        "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
     }
 ];
