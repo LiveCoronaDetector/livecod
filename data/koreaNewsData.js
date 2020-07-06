@@ -21,14 +21,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대전서 코로나19 확진자 2명 추가 발생",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4488043&ref=A"
-    },
-    {
-        "title": "일본 코로나19 신규확진 174명…도쿄, 닷새째 100명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200706161500073?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진 48명…지역 발생·해외 유입 각각 24명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5832999_32633.html"
     },
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "광주서 코로나19 확진자 1명 추가 발생...누적 116명",
         "link": "http://www.fnnews.com/news/202007061502465233"
+    },
+    {
+        "title": "[속보] '코로나19' 48명 늘어 1만3,137명…사망 1명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007060154&t=NN"
+    },
+    {
+        "title": "코로나19 신규 확진 48명…광주 7명 등 국내발생 24명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487333&ref=A"
     }
 ];
