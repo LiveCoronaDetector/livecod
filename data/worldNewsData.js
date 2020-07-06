@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
     },
     {
-        "title": "Italy denies entry to American vacationers after landing on private plane",
-        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
+        "title": "Italy's problem with working women made worse by coronavirus",
+        "link": "https://www.politico.com/news/2020/07/05/italys-problem-with-working-women-made-worse-by-coronavirus-349561"
     },
     {
         "title": "Coronavirus live news: India cases third-highest globally as Australian state of Victoria closes border",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
-        "title": "WHO reports new global record for new coronavirus cases",
-        "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-who-global-record-new-cases-day-20200705-klkx5l44sza23onawzq3gihg2y-story.html"
+        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
         "title": "Thousands of Melb residents locked down in 'prison-like' conditions",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
     },
     {
-        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
-        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
+        "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
+        "link": "https://www.bbc.com/news/world-us-canada-53302766"
     }
 ];

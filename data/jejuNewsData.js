@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007061144204775"
     },
     {
-        "title": "광주 광륵사 관련 확진자 9일새 80명…수도권·대전 소규모 확산",
-        "link": "http://www.newsis.com/view/?id=NISX20200705_0001084185&cID=10201&pID=10200"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "광주 광륵사 관련 확진자 9일새 80명…수도권·대전 소규모 확산",
+        "link": "http://www.newsis.com/view/?id=NISX20200705_0001084185&cID=10201&pID=10200"
     },
     {
         "title": "제주지역 20번째 코로나19 확진자 발생…외국서 입국",
