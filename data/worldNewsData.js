@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/07/05/887445479/u-s-covid-19-deaths-near-130-000-florida-and-texas-report-record-case-numbers"
     },
     {
-        "title": "Iran reports new record one-day coronavirus death toll - Live",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-deaths-130000-july-4-fete-live-updates-200704231820246.html"
+        "title": "121 University Of Washington Students Infected In Greek Row Outbreak",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
     },
     {
         "title": "Italy denies entry to American vacationers after landing on private plane",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
-        "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
-        "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
+        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
-        "title": "WHO underplaying risk of airborne spread of Covid-19, say scientists",
-        "link": "https://www.theguardian.com/world/2020/jul/05/who-underplaying-risk-of-airborne-spread-of-covid-19-say-scientists"
+        "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
     },
     {
-        "title": "Coronavirus updates: Phoenix mayor says Arizona opened too soon; Trump set to hold rally in N.H. next week",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/05/covid-cases-surge-fourth-of-july-donald-trump-beaches/5367010002/"
+        "title": "Coronavirus: Texas mayors warn of 'serious trouble' as cases surge across US",
+        "link": "https://www.theguardian.com/world/2020/jul/05/coronavirus-texas-mayors-serious-trouble-hospital-beds-florida-trump"
     }
 ];
