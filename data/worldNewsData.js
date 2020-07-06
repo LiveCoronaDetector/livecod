@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
-        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
-    },
-    {
         "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
         "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
+    },
+    {
+        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
         "title": "WHO underplaying risk of airborne spread of Covid-19, say scientists",
         "link": "https://www.theguardian.com/world/2020/jul/05/who-underplaying-risk-of-airborne-spread-of-covid-19-say-scientists"
     },
     {
-        "title": "Coronavirus: Texas mayors warn of 'serious trouble' as cases surge across US",
-        "link": "https://www.theguardian.com/world/2020/jul/05/coronavirus-texas-mayors-serious-trouble-hospital-beds-florida-trump"
-    },
-    {
-        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
-        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
+        "title": "Coronavirus updates: Phoenix mayor says Arizona opened too soon; Trump set to hold rally in N.H. next week",
+        "link": "https://www.usatoday.com/story/news/health/2020/07/05/covid-cases-surge-fourth-of-july-donald-trump-beaches/5367010002/"
     }
 ];
