@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23412467"
     },
     {
-        "title": "“코로나 확진자 계속나온다” 광주지역 코로나 확진자 누적 116명",
-        "link": "https://view.asiae.co.kr/article/2020070615495715659"
-    },
-    {
         "title": "韓코로나19 치료제 해외 임상 봇물…”U턴 전략도”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "미국 코로나 환자 300만명 돌파…100명 중 1명 꼴",
+        "title": "미국 코로나 환자 300만명 돌파…\"전체 인구 1% 감염\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007070015&t=NN"
+    },
+    {
+        "title": "美증시, 코로나19 재확산에도 지표 개선에 강세…다우, 1.78%↑",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200707000006"
+    },
+    {
+        "title": "코로나 확진 판정받자 잠적…보건당국 60대 감염자 추적(종합)",
+        "link": "http://yna.kr/AKR20200707016151054?did=1195m"
     },
     {
         "title": "골드만삭스, 코로나19 확진자 급증에 미국 경제성장 전망 하향",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=401538&class=42&grp="
-    },
-    {
-        "title": "\"美 코로나 확진자 300만명…7월에만 25만명 확진\" 월드오미터",
-        "link": "http://www.newsis.com/view/?id=NISX20200707_0001085876&cID=10101&pID=10100"
     },
     {
         "title": "세계 확진자 수 1위 美, 등교 재개 실현되나",

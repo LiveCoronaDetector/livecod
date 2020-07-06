@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/africa/western-cape-south-africa-coronavirus-epicenter-intl/index.html"
     },
     {
-        "title": "To keep coronavirus out, Canada’s smallest province kept the rest of the country away. Now outsiders are returning.",
-        "link": "https://www.washingtonpost.com/world/2020/07/06/prince-edward-island-canada-coronavirus-atlantic-bubble-reopening-travel/"
+        "title": "US is still 'knee-deep' in the first wave of the coronavirus pandemic, Fauci says",
+        "link": "https://www.cnn.com/2020/07/06/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "Gov’t imposes partial lockdown as coronavirus cases spike",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
     },
     {
-        "title": "Scientists urge WHO to address airborne spread of coronavirus",
-        "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
+        "title": "Is the coronavirus airborne? Hundreds of scientists say it's \"a real risk\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-airborne-scientists-open-letter/"
     },
     {
-        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+        "title": "Live updates: U.S. reports record-high average of new coronavirus cases for 28th day",
+        "link": "https://www.washingtonpost.com/nation/2020/07/06/coronavirus-live-updates-us/"
     }
 ];
