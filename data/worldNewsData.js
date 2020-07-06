@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
     },
     {
-        "title": "The 17-member family that lived together, ate together and got coronavirus together",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
+        "title": "Coronavirus live news: India cases third-highest globally as Australian state of Victoria closes border",
+        "link": "https://www.theguardian.com/world/live/2020/jul/06/coronavirus-live-news-india-sees-record-new-cases-as-texas-warns-of-overwhelmed-hospitals"
     },
     {
         "title": "Coronavirus: Australia to close Victoria-New South Wales border",
         "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
-        "title": "WHO reports new global record for new coronavirus cases",
-        "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-who-global-record-new-cases-day-20200705-klkx5l44sza23onawzq3gihg2y-story.html"
+        "title": "US setting records as Covid-19 cases soar",
+        "link": "https://www.youtube.com/watch?v=4oXMM2L88W4"
     },
     {
         "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
         "link": "https://www.bbc.com/news/world-us-canada-53302766"
     },
     {
-        "title": "Thousands of Melb residents locked down in 'prison-like' conditions",
-        "link": "https://www.youtube.com/watch?v=ntoc5ho5WTk"
+        "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
+        "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
     },
     {
-        "title": "Coronavirus: Texas mayors warn of 'serious trouble' as cases surge across US",
-        "link": "https://www.theguardian.com/world/2020/jul/05/coronavirus-texas-mayors-serious-trouble-hospital-beds-florida-trump"
+        "title": "Melbourne: Thousands in public housing towers asked to lock down",
+        "link": "https://www.youtube.com/watch?v=5iRoc67Gzzc"
     }
 ];

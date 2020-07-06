@@ -13,12 +13,20 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007060154&t=NN"
     },
     {
+        "title": "코로나19 신규 확진 48명…광주 7명 등 국내발생 24명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487333&ref=A"
+    },
+    {
         "title": "코로나19 신규 확진자 48명 ...지역감염24명·해외감염 24명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007061028333622"
     },
     {
         "title": "초교생이어 미취학 아동까지…광주 코로나19 확진자",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014768649&code=61121111&cp=nv"
+    },
+    {
+        "title": "트럼프 선거 캠프, 코로나 위험에도 \"이번 주말 유세 행사 개최\"",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007060654001&code=970100"
     },
     {
         "title": "대전서 코로나19 확진자 2명 더 늘어…기존 확진자 접촉",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "[종합]신규 확진자 48명...7월 들어 처음 50명 아래",
         "link": "http://www.fnnews.com/news/202007061026500301"
-    },
-    {
-        "title": "韓코로나19 치료제 해외 임상 봇물…”U턴 전략도”",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 신규 확진 48명…광주 7명 등 국내발생 24명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487333&ref=A"
     }
 ];
