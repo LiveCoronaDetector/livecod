@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
     },
     {
-        "title": "Italy denies entry to American vacationers after landing on private plane",
-        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
+        "title": "Coronavirus: Spain imposes local lockdown in Galicia",
+        "link": "https://www.bbc.com/news/world-europe-53299544"
     },
     {
         "title": "The 17-member family that lived together, ate together and got coronavirus together",
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
+        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
+    },
+    {
         "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
         "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
     },
     {
+        "title": "WHO reports new global record for new coronavirus cases",
+        "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-who-global-record-new-cases-day-20200705-klkx5l44sza23onawzq3gihg2y-story.html"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
+    },
+    {
         "title": "WHO underplaying risk of airborne spread of Covid-19, say scientists",
         "link": "https://www.theguardian.com/world/2020/jul/05/who-underplaying-risk-of-airborne-spread-of-covid-19-say-scientists"
-    },
-    {
-        "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
-        "link": "https://www.bbc.com/news/world-us-canada-53302766"
-    },
-    {
-        "title": "Coronavirus updates: Phoenix mayor says Arizona opened too soon; Florida surpasses 200,000 cases",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/05/covid-cases-surge-fourth-of-july-donald-trump-beaches/5367010002/"
-    },
-    {
-        "title": "Coronavirus: Texas mayors warn of 'serious trouble' as cases surge across US",
-        "link": "https://www.theguardian.com/world/2020/jul/05/coronavirus-texas-mayors-serious-trouble-hospital-beds-florida-trump"
     }
 ];

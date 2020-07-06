@@ -118,7 +118,7 @@ var marker = [
         "Name_en": "Germany",
         "확진자수": 197558,
         "사망자수": 9086,
-        "완치자수": 181700
+        "완치자수": 182200
     },
     {
         "Name": "남아프리카 공화국",
@@ -628,9 +628,9 @@ var marker = [
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "확진자수": 6294,
+        "확진자수": 6333,
         "사망자수": 113,
-        "완치자수": 1408
+        "완치자수": 1549
     },
     {
         "Name": "Tajikistan",
@@ -1348,7 +1348,7 @@ var marker = [
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "확진자수": 187,
+        "확진자수": 188,
         "사망자수": 0,
         "완치자수": 187
     },
