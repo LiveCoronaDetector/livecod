@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/h_f3005c39fdd5e19c7fd68148baef68e8"
     },
     {
-        "title": "FDA commissioner refuses to defend Trump claim",
-        "link": "https://www.youtube.com/watch?v=nVUnAgGboNE"
+        "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
+        "link": "https://www.bbc.com/news/world-us-canada-53302766"
     },
     {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
