@@ -26,18 +26,18 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/h_f3005c39fdd5e19c7fd68148baef68e8"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
-        "link": "https://www.bbc.com/news/world-us-canada-53302766"
+        "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
+    },
+    {
+        "title": "When the President's own medical advisers refuse to correct his misleading claim, the coronavirus trust gap grows",
+        "link": "https://www.cnn.com/2020/07/05/politics/trump-medical-advisers-fda-commissioner/index.html"
     },
     {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
-    },
-    {
-        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
-        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
     }
 ];
