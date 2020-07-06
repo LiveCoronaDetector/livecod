@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
-        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
-    },
-    {
-        "title": "WHO reports record rise in global coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/who-reports-record-increase-global-coronavirus-cases-n1232922"
+        "title": "Coronavirus: Australia to close Victoria-New South Wales border",
+        "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
     },
     {
-        "title": "239 Experts With One Big Claim: The Coronavirus Is Airborne",
-        "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html"
+        "title": "WHO reports record rise in global coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/who-reports-record-increase-global-coronavirus-cases-n1232922"
     },
     {
-        "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
-        "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
+        "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
+        "link": "https://www.bbc.com/news/world-us-canada-53302766"
+    },
+    {
+        "title": "239 Experts With One Big Claim: The Coronavirus Is Airborne",
+        "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html"
     }
 ];
