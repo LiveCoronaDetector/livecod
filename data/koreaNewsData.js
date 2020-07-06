@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/capital/952376.html"
     },
     {
+        "title": "대전시, 138번·139번 코로나 확진자 이동 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655997&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
         "title": "대전, 코로나19 확진자 2명 더 나와...누적 139명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007060050&t=NN"
     },
     {
-        "title": "대전시, 138번·139번 코로나 확진자 이동 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655997&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "초교생이어 미취학 아동까지…광주 코로나19 확진자",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014768649&code=61121111&cp=nv"
     },
     {
         "title": "“코로나 확진자 계속나온다” 광주지역 코로나 확진자 누적 116명",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진 48명…광주 7명 등 국내발생 24명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4487333&ref=A"
-    },
-    {
-        "title": "코로나19 신규 확진자 48명 ...지역감염24명·해외감염 24명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007061028333622"
     }
 ];
