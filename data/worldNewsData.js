@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
     },
     {
-        "title": "Scientists urge WHO to address airborne spread of coronavirus",
-        "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
+        "title": "Italy denies entry to American vacationers after landing on private plane",
+        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
     },
     {
-        "title": "Coronavirus live news: India cases third-highest globally as Australian state of Victoria closes border",
-        "link": "https://www.theguardian.com/world/live/2020/jul/06/coronavirus-live-news-india-sees-record-new-cases-as-texas-warns-of-overwhelmed-hospitals"
+        "title": "India coronavirus cases third-highest globally: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-threatens-overwhelm-texas-hospitals-live-updates-200706000338082.html"
     },
     {
         "title": "Coronavirus: Australia to close Victoria-New South Wales border",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
     },
     {
+        "title": "FDA commissioner refuses to defend Trump claim",
+        "link": "https://www.youtube.com/watch?v=nVUnAgGboNE"
+    },
+    {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
         "title": "Thousands of Melb residents locked down in 'prison-like' conditions",
         "link": "https://www.youtube.com/watch?v=ntoc5ho5WTk"
-    },
-    {
-        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
-        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
     }
 ];
