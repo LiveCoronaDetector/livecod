@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
-        "title": "FDA commissioner refuses to defend Trump claim that 99% of Covid-19 cases are 'harmless'",
-        "link": "https://www.cnn.com/2020/07/05/politics/fda-commissioner-coronavirus-trump-cnntv/index.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
     },
     {
         "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
         "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
     },
     {
-        "title": "WHO reports new global record for new coronavirus cases",
-        "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-who-global-record-new-cases-day-20200705-klkx5l44sza23onawzq3gihg2y-story.html"
+        "title": "FDA commissioner refuses to defend Trump claim",
+        "link": "https://www.youtube.com/watch?v=nVUnAgGboNE"
     },
     {
-        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
-        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
+        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     }
 ];

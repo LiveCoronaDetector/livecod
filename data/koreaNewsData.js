@@ -5,16 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200706106200530?did=1195m"
     },
     {
-        "title": "인천 방판설명회 6명 확진…‘동선 진술 거부’ 확진자 탓에 확산",
-        "link": "http://www.hani.co.kr/arti/area/capital/952376.html"
-    },
-    {
         "title": "대전시, 138번·139번 코로나 확진자 이동 동선 공개",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655997&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "초교생이어 미취학 아동까지…광주 코로나19 확진자",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014768649&code=61121111&cp=nv"
     },
     {
         "title": "대전, 코로나19 확진자 2명 더 나와...누적 139명",
@@ -29,15 +21,23 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진 48명…지역 발생·해외 유입 각각 24명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5832999_32633.html"
+        "title": "인천 방판설명회 6명 확진…‘동선 진술 거부’ 확진자 탓에 확산",
+        "link": "http://www.hani.co.kr/arti/area/capital/952376.html"
     },
     {
         "title": "광주서 코로나19 확진자 1명 추가 발생...누적 116명",
         "link": "http://www.fnnews.com/news/202007061502465233"
     },
     {
-        "title": "코로나19 신규 확진 48명…광주 7명 등 국내발생 24명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487333&ref=A"
+        "title": "코로나19 신규 확진자 48명 ...지역감염24명·해외감염 24명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007061028333622"
+    },
+    {
+        "title": "중대본 “국내 코로나19 소규모 감염들 이어져…감염경로 알 수 없는 사례도 ...",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487255&ref=A"
+    },
+    {
+        "title": "대구시 '양성' 발표한 확진자 알고 보니 '음성'(종합)",
+        "link": "http://yna.kr/AKR20200706058851053?did=1195m"
     }
 ];
