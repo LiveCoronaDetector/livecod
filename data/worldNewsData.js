@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
-        "title": "What you need to know about the coronavirus right now",
-        "link": "https://news.yahoo.com/know-coronavirus-now-060106423.html"
+        "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
     },
     {
         "title": "FDA commissioner refuses to defend Trump claim",
         "link": "https://www.youtube.com/watch?v=nVUnAgGboNE"
     },
     {
-        "title": "The Dow is set to open 400 points higher as Wall Street builds on last week's gains, airlines rise",
-        "link": "https://www.cnbc.com/2020/07/05/stock-market-futures-open-to-close-news.html"
+        "title": "WHO reports new global record for new coronavirus cases",
+        "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-who-global-record-new-cases-day-20200705-klkx5l44sza23onawzq3gihg2y-story.html"
     },
     {
-        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
-        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
+        "title": "Thousands of Melb residents locked down in 'prison-like' conditions",
+        "link": "https://www.youtube.com/watch?v=ntoc5ho5WTk"
     }
 ];
