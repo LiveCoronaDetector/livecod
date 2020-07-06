@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Uganda, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
+        "link": "https://en.as.com/en/2020/07/06/latest_news/1594019187_905453.html"
     },
     {
         "title": "As Trump gaslights America about coronavirus, Republicans face a critical choice",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
     },
     {
-        "title": "India coronavirus cases third-highest globally: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-threatens-overwhelm-texas-hospitals-live-updates-200706000338082.html"
+        "title": "Coronavirus live news: India cases third-highest globally as Australian state of Victoria closes border",
+        "link": "https://www.theguardian.com/world/live/2020/jul/06/coronavirus-live-news-india-sees-record-new-cases-as-texas-warns-of-overwhelmed-hospitals"
     },
     {
         "title": "Coronavirus: Australia to close Victoria-New South Wales border",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
-        "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
-        "link": "https://www.bbc.com/news/world-us-canada-53302766"
+        "title": "Thousands of Melb residents locked down in 'prison-like' conditions",
+        "link": "https://www.youtube.com/watch?v=ntoc5ho5WTk"
     },
     {
-        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
-        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
+        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
+        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
     }
 ];
