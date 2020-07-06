@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/australia-coronavirus-outbreak"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
         "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
     },
     {
-        "title": "Experts: Coronavirus can float and transmit in air droplets",
-        "link": "https://wrex.com/2020/07/06/experts-coronavirus-can-float-and-transmit-in-air-droplets/"
+        "title": "Coronavirus can float and transmit in air droplets, experts say",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/h_f3005c39fdd5e19c7fd68148baef68e8"
     },
     {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
-    },
-    {
-        "title": "A Global Comparison of Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/07/06/briefing/a-global-comparison-of-coronavirus-cases.html"
     }
 ];
