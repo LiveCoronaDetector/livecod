@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200706106200530?did=1195m"
     },
     {
-        "title": "이태원 클럽부터 최근 광주·대전까지 GH그룹 코로나19 유행",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007061721001&code=940100"
-    },
-    {
         "title": "인천 방판설명회 6명 확진…‘동선 진술 거부’ 확진자 탓에 확산",
         "link": "http://www.hani.co.kr/arti/area/capital/952376.html"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "중대본 “국내 코로나19 소규모 감염들 이어져…감염경로 알 수 없는 사례도 ...",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4487255&ref=A"
+    },
+    {
+        "title": "코로나19 신규 확진 48명…소규모 집단 감염 지속",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5833204_32496.html"
     }
 ];

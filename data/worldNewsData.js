@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
     },
     {
-        "title": "Scientists urge WHO to address airborne spread of coronavirus",
-        "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
+        "title": "Spain's coronavirus antibodies study adds evidence against herd immunity",
+        "link": "https://www.cnn.com/2020/07/06/health/spain-coronavirus-antibody-study-lancet-intl/index.html"
     },
     {
-        "title": "Kenya announces phased reopening: Coronavirus live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-threatens-overwhelm-texas-hospitals-live-updates-200706000338082.html"
+        "title": "The 17-member family that lived together, ate together and got coronavirus together",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
         "title": "Coronavirus: Australia to close Victoria-New South Wales border",
         "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
-        "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
+        "title": "What you need to know about the coronavirus right now",
+        "link": "https://news.yahoo.com/know-coronavirus-now-060106423.html"
     },
     {
         "title": "FDA commissioner refuses to defend Trump claim",
         "link": "https://www.youtube.com/watch?v=nVUnAgGboNE"
     },
     {
-        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+        "title": "The Dow is set to open 400 points higher as Wall Street builds on last week's gains, airlines rise",
+        "link": "https://www.cnbc.com/2020/07/05/stock-market-futures-open-to-close-news.html"
     },
     {
-        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
-        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
+        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
+        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     }
 ];
