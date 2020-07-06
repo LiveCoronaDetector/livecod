@@ -5,11 +5,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/africa/western-cape-south-africa-coronavirus-epicenter-intl/index.html"
     },
     {
-        "title": "As Trump gaslights America about coronavirus, Republicans face a critical choice",
-        "link": "https://www.cnn.com/2020/07/06/politics/us-election-trump-coronavirus-republicans/index.html"
+        "title": "Live Coronavirus Updates: Miami Reverses Course on Reopening",
+        "link": "https://www.nytimes.com/2020/07/06/world/coronavirus-updates.html"
     },
     {
-        "title": "Government imposes partial lockdown as coronavirus cases spike",
+        "title": "Gov’t imposes partial lockdown as coronavirus cases spike",
         "link": "https://www.jpost.com/breaking-news/coronavirus-israel-passes-30000-cases-634021"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/asia/australia-victoria-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
+        "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
+        "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
     },
     {
         "title": "What you need to know about the coronavirus right now",
         "link": "https://news.yahoo.com/know-coronavirus-now-060106423.html"
     },
     {
-        "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
-        "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
-    },
-    {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+    },
+    {
+        "title": "Live updates: U.S. reports record-high average of new coronavirus cases for 28th day",
+        "link": "https://www.washingtonpost.com/nation/2020/07/06/coronavirus-live-updates-us/"
     }
 ];
