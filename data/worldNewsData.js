@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/politics/us-election-trump-coronavirus-republicans/index.html"
     },
     {
-        "title": "121 University Of Washington Students Infected In Greek Row Outbreak",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
+        "title": "Government imposes partial lockdown as coronavirus cases spike",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-israel-passes-30000-cases-634021"
     },
     {
         "title": "Spain's coronavirus antibodies study adds evidence against herd immunity",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/asia/australia-victoria-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "What you need to know about the coronavirus right now",
-        "link": "https://news.yahoo.com/know-coronavirus-now-060106423.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
+    },
+    {
+        "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
     },
     {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Live updates: As U.S. coronavirus cases soar, White House digs in despite criticism",
         "link": "https://www.washingtonpost.com/nation/2020/07/06/coronavirus-live-updates-us/"
-    },
-    {
-        "title": "US is an \"outlier\" in global virus fight, ex-CDC director says",
-        "link": "https://www.msn.com/en-us/news/us/us-is-an-outlier-in-global-virus-fight-ex-cdc-director-says/ar-BB16oEBr?li=BBnb7Kz"
     }
 ];
