@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
     },
     {
-        "title": "India coronavirus cases third-highest globally: Live updates",
+        "title": "Kenya announces phased reopening: Coronavirus live updates",
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-threatens-overwhelm-texas-hospitals-live-updates-200706000338082.html"
     },
     {
         "title": "Coronavirus: Australia to close Victoria-New South Wales border",
         "link": "https://www.bbc.com/news/world-australia-53303317"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
     },
     {
         "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+    },
+    {
+        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
+        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
     }
 ];
