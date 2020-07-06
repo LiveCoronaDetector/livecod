@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3986323"
     },
     {
+        "title": "제주공항 워크스루 가동 100일, 코로나19 잡는 선봉장",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=317601"
+    },
+    {
         "title": "제주지역 20번째 코로나19 확진자 발생",
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "관광객 몰리는 제주, 도 전역 코로나19 방역 강화",
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=147405"
-    },
-    {
-        "title": "대구 유가초 확진자 등 2명 ‘양성→음성’…위양성 확인",
-        "link": "http://www.kukinews.com/newsView/kuk202007060161"
     }
 ];
