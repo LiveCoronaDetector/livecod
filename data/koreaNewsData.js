@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202007061028333622"
     },
     {
+        "title": "이용섭 시장, 광주 코로나 기자회견…확진자 거주 아파트 공개(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=576853"
+    },
+    {
         "title": "대전시, 138번·139번 코로나 확진자 이동 동선 공개",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655997&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "대전서 코로나19 확진자 2명 더 늘어…기존 확진자 접촉",
-        "link": "http://yna.kr/AKR20200706014400063?did=1195m"
+        "title": "이태원 클럽부터 최근 광주·대전까지 GH그룹 코로나19 유행",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007061721001&code=940100"
+    },
+    {
+        "title": "대구시 '양성' 발표한 확진자 알고 보니 '음성'(종합)",
+        "link": "http://yna.kr/AKR20200706058851053?did=1195m"
     },
     {
         "title": "韓코로나19 치료제 해외 임상 봇물…”U턴 전략도”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "국내 코로나 바이러스 달라졌다 \"이태원 이후 GH그룹 유행\"",
-        "link": "https://news.joins.com/article/olink/23412831"
-    },
-    {
         "title": "광주서 코로나19 확진자 1명 추가 발생...누적 116명",
         "link": "http://www.fnnews.com/news/202007061502465233"
-    },
-    {
-        "title": "이용섭 시장, 광주 코로나 기자회견…확진자 거주 아파트 공개(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=576853"
     }
 ];

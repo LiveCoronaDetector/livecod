@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Uganda, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/07/06/latest_news/1594019187_905453.html"
+        "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
     },
     {
         "title": "As Trump gaslights America about coronavirus, Republicans face a critical choice",
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
     },
     {
-        "title": "Italy's problem with working women made worse by coronavirus",
-        "link": "https://www.politico.com/news/2020/07/05/italys-problem-with-working-women-made-worse-by-coronavirus-349561"
+        "title": "Scientists urge WHO to address airborne spread of coronavirus",
+        "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
     },
     {
         "title": "India coronavirus cases third-highest globally: Live updates",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
+        "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
     },
     {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
-        "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
-    },
-    {
         "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
         "link": "https://www.bbc.com/news/world-us-canada-53302766"
+    },
+    {
+        "title": "Trump Hosts July 4 Event at White House as U.S. Coronavirus Cases Soar",
+        "link": "https://www.nytimes.com/2020/07/04/world/coronavirus-updates.html"
     }
 ];
