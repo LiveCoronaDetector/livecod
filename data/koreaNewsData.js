@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보] 미국 코로나 누적 확진자 300만명 돌파",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/07/2020070700090.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "코로나19 신규 확진 48명…지역 발생·해외 유입 각각 24명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5832999_32633.html"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] '코로나19' 48명 늘어 1만3,137명…사망 1명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007060154&t=NN"
-    },
-    {
-        "title": "코로나19 신규 확진 48명…광주 7명 등 국내발생 24명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487333&ref=A"
     }
 ];

@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/health/spain-coronavirus-antibody-study-lancet-intl/index.html"
     },
     {
-        "title": "Coronavirus updates: Scientists call on WHO to recognize airborne virus risk, global cases near 11.5 million",
+        "title": "Coronavirus updates: California asks more counties to close indoor businesses as cases grow",
         "link": "https://www.cnbc.com/2020/07/06/coronavirus-live-updates.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/australia-coronavirus-outbreak"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
         "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
     },
     {
-        "title": "Coronavirus can float and transmit in air droplets, experts say",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/h_f3005c39fdd5e19c7fd68148baef68e8"
+        "title": "Experts: Coronavirus can float and transmit in air droplets",
+        "link": "https://wrex.com/2020/07/06/experts-coronavirus-can-float-and-transmit-in-air-droplets/"
     },
     {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+    },
+    {
+        "title": "Live updates: U.S. reports record-high average of new coronavirus cases for 28th day",
+        "link": "https://www.washingtonpost.com/nation/2020/07/06/coronavirus-live-updates-us/"
     }
 ];
