@@ -257,20 +257,20 @@ var marker = [
         "완치자수": 40463
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "확진자수": 49043,
+        "사망자수": 1262,
+        "완치자수": 21703
+    },
+    {
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
         "확진자수": 48574,
         "사망자수": 188,
         "완치자수": 27334
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "확진자수": 48500,
-        "사망자수": 1249,
-        "완치자수": 21376
     },
     {
         "Name": "오만",
