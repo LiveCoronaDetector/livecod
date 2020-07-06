@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007061144204775"
     },
     {
+        "title": "제주공항 워킹스루 선별진료소 '코로나19' 차단 효과",
+        "link": "https://www.news1.kr/articles/?3986952"
+    },
+    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
@@ -21,8 +25,8 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/952260.html"
     },
     {
-        "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",
-        "link": "https://www.news1.kr/articles/?3986323"
+        "title": "제주, 코로나19 20번 카자흐스탄 확진자 접촉자 '28명' 격리",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421494"
     },
     {
         "title": "\"두려움에 떨었다\" 코로나 오판정받은 초등생 아버지의 절규",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 20번째 확진자와 접촉한 28명 자가격리",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4487011&ref=A"
-    },
-    {
-        "title": "제주지역 20번째 코로나19 확진자 발생… 카자흐스탄서 입국",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=324277"
     }
 ];

@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/health/spain-coronavirus-antibody-study-lancet-intl/index.html"
     },
     {
-        "title": "Coronavirus updates: Scientists call on WHO to recognize airborne threat; India's cases surpass Russia's",
-        "link": "https://www.cnbc.com/2020/07/06/coronavirus-live-updates.html"
+        "title": "The 17-member family that lived together, ate together and got coronavirus together",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
         "title": "Coronavirus: Australia to close Victoria-New South Wales border",
         "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
-        "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/h_f3005c39fdd5e19c7fd68148baef68e8"
     },
     {
         "title": "FDA commissioner refuses to defend Trump claim",
