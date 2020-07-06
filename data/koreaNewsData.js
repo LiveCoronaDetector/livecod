@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "미국 코로나 환자 300만명 돌파…100명 중 1명 꼴",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007070015&t=NN"
+    },
+    {
+        "title": "골드만삭스, 코로나19 확진자 급증에 미국 경제성장 전망 하향",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=401538&class=42&grp="
+    },
+    {
+        "title": "\"美 코로나 확진자 300만명…7월에만 25만명 확진\" 월드오미터",
+        "link": "http://www.newsis.com/view/?id=NISX20200707_0001085876&cID=10101&pID=10100"
+    },
+    {
+        "title": "세계 확진자 수 1위 美, 등교 재개 실현되나",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070700370.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나19 신규 확진 48명…지역 발생·해외 유입 각각 24명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5832999_32633.html"
     },
     {
         "title": "초교생이어 미취학 아동까지…광주 코로나19 확진자",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014768649&code=61121111&cp=nv"
-    },
-    {
-        "title": "인천 방판설명회 6명 확진…‘동선 진술 거부’ 확진자 탓에 확산",
-        "link": "http://www.hani.co.kr/arti/area/capital/952376.html"
-    },
-    {
-        "title": "광주서 코로나19 확진자 1명 추가 발생...누적 116명",
-        "link": "http://www.fnnews.com/news/202007061502465233"
-    },
-    {
-        "title": "[속보] '코로나19' 48명 늘어 1만3,137명…사망 1명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007060154&t=NN"
-    },
-    {
-        "title": "코로나19 신규 확진 48명…광주 7명 등 국내발생 24명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487333&ref=A"
     }
 ];

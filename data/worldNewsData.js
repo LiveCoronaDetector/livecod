@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/africa/western-cape-south-africa-coronavirus-epicenter-intl/index.html"
     },
     {
-        "title": "Doctors say the US is in a 'free fall' with coronavirus as 32 states struggle with higher rates of infection",
-        "link": "https://www.cnn.com/2020/07/06/health/us-coronavirus-monday/index.html"
+        "title": "To keep coronavirus out, Canada’s smallest province kept the rest of the country away. Now outsiders are returning.",
+        "link": "https://www.washingtonpost.com/world/2020/07/06/prince-edward-island-canada-coronavirus-atlantic-bubble-reopening-travel/"
     },
     {
         "title": "Gov’t imposes partial lockdown as coronavirus cases spike",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
     },
     {
-        "title": "Experts: Coronavirus can float and transmit in air droplets",
-        "link": "https://wrex.com/2020/07/06/experts-coronavirus-can-float-and-transmit-in-air-droplets/"
+        "title": "Scientists urge WHO to address airborne spread of coronavirus",
+        "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
     },
     {
-        "title": "A Global Comparison of Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/07/06/briefing/a-global-comparison-of-coronavirus-cases.html"
+        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     }
 ];
