@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/asia/australia-victoria-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
     },
     {
-        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
+        "title": "When the President's own medical advisers refuse to correct his misleading claim, the coronavirus trust gap grows",
+        "link": "https://www.cnn.com/2020/07/05/politics/trump-medical-advisers-fda-commissioner/index.html"
     },
     {
-        "title": "Coronavirus: Australia to close Victoria-New South Wales border",
-        "link": "https://www.bbc.com/news/world-australia-53303317"
+        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
+        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
     },
     {
-        "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
-        "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
+        "title": "Live updates: As U.S. coronavirus cases soar, White House digs in despite criticism",
+        "link": "https://www.washingtonpost.com/nation/2020/07/06/coronavirus-live-updates-us/"
     }
 ];
