@@ -257,20 +257,20 @@ var marker = [
         "완치자수": 40463
     },
     {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+        "확진자수": 48574,
+        "사망자수": 188,
+        "완치자수": 27334
+    },
+    {
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
         "확진자수": 48500,
         "사망자수": 1249,
         "완치자수": 21376
-    },
-    {
-        "Name": "Kazakhstan",
-        "Name_ch": "",
-        "Name_en": "Kazakhstan",
-        "확진자수": 47171,
-        "사망자수": 188,
-        "완치자수": 27030
     },
     {
         "Name": "오만",
@@ -401,20 +401,20 @@ var marker = [
         "완치자수": 23364
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 23943,
+        "사망자수": 639,
+        "완치자수": 2490
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
         "확진자수": 23248,
         "사망자수": 947,
         "완치자수": 3382
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 22921,
-        "사망자수": 629,
-        "완치자수": 2387
     },
     {
         "Name": "아제르바이잔",

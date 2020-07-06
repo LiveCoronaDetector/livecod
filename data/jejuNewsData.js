@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3986323"
     },
     {
-        "title": "제주 20번째 확진자와 접촉한 28명 자가격리",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487011&ref=A"
-    },
-    {
         "title": "제주공항 워크스루 가동 100일, 코로나19 잡는 선봉장",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=317601"
+    },
+    {
+        "title": "제주 20번째 확진자와 접촉한 28명 자가격리",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487011&ref=A"
     },
     {
         "title": "제주도, 20번째 확진자 역학조사 결과 공개...28명 전원 자가격리 조치",
