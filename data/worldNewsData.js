@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
     },
     {
-        "title": "Coronavirus: Spain imposes local lockdown in Galicia",
-        "link": "https://www.bbc.com/news/world-europe-53299544"
+        "title": "Italy denies entry to American vacationers after landing on private plane",
+        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
     },
     {
         "title": "The 17-member family that lived together, ate together and got coronavirus together",
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
-        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
+        "title": "Coronavirus: Australia to close Victoria-New South Wales border",
+        "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
-        "title": "239 Experts With One Big Claim: The Coronavirus Is Airborne",
-        "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html"
+        "title": "WHO reports new global record for new coronavirus cases",
+        "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-who-global-record-new-cases-day-20200705-klkx5l44sza23onawzq3gihg2y-story.html"
+    },
+    {
+        "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
+        "link": "https://www.bbc.com/news/world-us-canada-53302766"
+    },
+    {
+        "title": "Thousands of Melb residents locked down in 'prison-like' conditions",
+        "link": "https://www.youtube.com/watch?v=ntoc5ho5WTk"
     },
     {
         "title": "Coronavirus: Texas mayors warn of 'serious trouble' as cases surge across US",
         "link": "https://www.theguardian.com/world/2020/jul/05/coronavirus-texas-mayors-serious-trouble-hospital-beds-florida-trump"
-    },
-    {
-        "title": "The Pandemic’s Big Mystery: How Deadly Is the Coronavirus?",
-        "link": "https://www.nytimes.com/2020/07/04/health/coronavirus-death-rate.html"
-    },
-    {
-        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
-        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
     }
 ];
