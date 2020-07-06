@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/06/coronavirus-live-updates.html"
     },
     {
-        "title": "Australia to seal off 6.6 million people in virus-hit state as outbreak worsens",
-        "link": "https://www.cnn.com/2020/07/06/asia/australia-victoria-coronavirus-intl-hnk/index.html"
+        "title": "Australia coronavirus outbreak forces states' border closure for first time in a century",
+        "link": "https://www.foxnews.com/world/australia-coronavirus-outbreak"
     },
     {
         "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
         "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
     },
     {
-        "title": "What you need to know about the coronavirus right now",
-        "link": "https://news.yahoo.com/know-coronavirus-now-060106423.html"
+        "title": "Experts: Coronavirus can float and transmit in air droplets",
+        "link": "https://wrex.com/2020/07/06/experts-coronavirus-can-float-and-transmit-in-air-droplets/"
     },
     {
         "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
         "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
-        "title": "Live updates: U.S. reports record-high average of new coronavirus cases for 28th day",
-        "link": "https://www.washingtonpost.com/nation/2020/07/06/coronavirus-live-updates-us/"
+        "title": "A Global Comparison of Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/07/06/briefing/a-global-comparison-of-coronavirus-cases.html"
     }
 ];
