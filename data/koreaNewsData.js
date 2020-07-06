@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/capital/952376.html"
     },
     {
+        "title": "“코로나 확진자 계속나온다” 광주지역 코로나 확진자 누적 116명",
+        "link": "https://view.asiae.co.kr/article/2020070615495715659"
+    },
+    {
         "title": "韓코로나19 치료제 해외 임상 봇물…”U턴 전략도”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "대전서 코로나19 확진자 2명 추가 발생",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4488043&ref=A"
-    },
-    {
-        "title": "[속보] 미국 코로나 누적 확진자 300만명 돌파",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/07/2020070700090.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "일본 코로나19 신규확진 174명…도쿄, 닷새째 100명 넘어(종합)",
