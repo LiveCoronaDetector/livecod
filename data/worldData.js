@@ -305,20 +305,20 @@ var marker = [
         "완치자수": 29017
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 39297,
+        "사망자수": 1434,
+        "완치자수": 11667
+    },
+    {
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
         "확진자수": 38149,
         "사망자수": 747,
         "완치자수": 17986
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 38071,
-        "사망자수": 1378,
-        "완치자수": 11272
     },
     {
         "Name": "도미니카 공화국",
@@ -1577,6 +1577,14 @@ var marker = [
         "완치자수": 21
     },
     {
+        "Name": "Fiji",
+        "Name_ch": "",
+        "Name_en": "Fiji",
+        "확진자수": 19,
+        "사망자수": 0,
+        "완치자수": 18
+    },
+    {
         "Name": "Laos",
         "Name_ch": "",
         "Name_en": "Laos",
@@ -1588,14 +1596,6 @@ var marker = [
         "Name": "Dominica",
         "Name_ch": "",
         "Name_en": "Dominica",
-        "확진자수": 18,
-        "사망자수": 0,
-        "완치자수": 18
-    },
-    {
-        "Name": "Fiji",
-        "Name_ch": "",
-        "Name_en": "Fiji",
         "확진자수": 18,
         "사망자수": 0,
         "완치자수": 18

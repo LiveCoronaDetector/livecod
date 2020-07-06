@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
     },
     {
-        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
-    },
-    {
         "title": "WHO underplaying risk of airborne spread of Covid-19, say scientists",
         "link": "https://www.theguardian.com/world/2020/jul/05/who-underplaying-risk-of-airborne-spread-of-covid-19-say-scientists"
+    },
+    {
+        "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
+        "link": "https://www.bbc.com/news/world-us-canada-53302766"
     },
     {
         "title": "Coronavirus updates: Phoenix mayor says Arizona opened too soon; Florida surpasses 200,000 cases",
         "link": "https://www.usatoday.com/story/news/health/2020/07/05/covid-cases-surge-fourth-of-july-donald-trump-beaches/5367010002/"
     },
     {
-        "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
-        "link": "https://www.bbc.com/news/world-us-canada-53302766"
+        "title": "Coronavirus: Texas mayors warn of 'serious trouble' as cases surge across US",
+        "link": "https://www.theguardian.com/world/2020/jul/05/coronavirus-texas-mayors-serious-trouble-hospital-beds-florida-trump"
     }
 ];

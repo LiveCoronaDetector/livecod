@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4487011&ref=A"
     },
     {
-        "title": "광주일곡중앙교회 코로나 집단감염 '태풍의 눈'으로",
-        "link": "https://www.jnilbo.com/view/media/view?code=2020070516373127789"
+        "title": "제주지역 20번째 코로나19 확진자 발생… 카자흐스탄서 입국",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=324277"
     },
     {
-        "title": "코로나19 신규확진 61명, 누적 확진자 1만3091명…사흘째 60명대",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=20200705112214987846a9e4dd7f_30"
+        "title": "관광객 몰리는 제주, 도 전역 코로나19 방역 강화",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=147405"
     },
     {
-        "title": "코로나 전파속도가 빨라진다는데",
-        "link": "http://www.daejeontoday.com/news/articleView.html?idxno=590388"
+        "title": "제주공항 워크스루 가동 100일, 코로나19 잡는 선봉장",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=317601"
     },
     {
-        "title": "코로나19 재확산에 잔뜩 움추린 휴일…해수욕장 등 한산",
-        "link": "http://yna.kr/AKR20200705034200060?did=1195m"
+        "title": "제주공항 워킹스루 선별진료소 '코로나19' 차단 효과",
+        "link": "https://www.news1.kr/articles/?3986952"
     }
 ];
