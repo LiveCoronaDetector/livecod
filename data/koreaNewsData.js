@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4487255&ref=A"
     },
     {
-        "title": "코로나19 신규 확진 48명…소규모 집단 감염 지속",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5833204_32496.html"
+        "title": "대구시 '양성' 발표한 확진자 알고 보니 '음성'(종합)",
+        "link": "http://yna.kr/AKR20200706058851053?did=1195m"
     }
 ];

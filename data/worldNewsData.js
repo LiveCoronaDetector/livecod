@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
+    },
+    {
         "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
         "link": "https://www.reuters.com/article/us-health-coronavirus-airborne/hundreds-of-scientists-say-coronavirus-is-airborne-ask-who-to-revise-recommendations-nyt-idUSKBN2460O7"
     },
     {
+        "title": "Live Coronavirus Updates: Federal Workers in the U.S. Return to Offices",
+        "link": "https://www.nytimes.com/2020/07/06/world/coronavirus-updates.html"
+    },
+    {
         "title": "FDA commissioner refuses to defend Trump claim",
         "link": "https://www.youtube.com/watch?v=nVUnAgGboNE"
-    },
-    {
-        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
-    },
-    {
-        "title": "Thousands of Melb residents locked down in 'prison-like' conditions",
-        "link": "https://www.youtube.com/watch?v=ntoc5ho5WTk"
     }
 ];
