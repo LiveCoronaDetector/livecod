@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200706106200530?did=1195m"
     },
     {
+        "title": "대전 개인병원발 집단감염…6일 하루에만 4명 코로나19 확진",
+        "link": "https://news.joins.com/article/olink/23412467"
+    },
+    {
         "title": "인천 방판설명회 6명 확진…‘동선 진술 거부’ 확진자 탓에 확산",
         "link": "http://www.hani.co.kr/arti/area/capital/952376.html"
     },
     {
         "title": "대전시, 138번·139번 코로나 확진자 이동 동선 공개",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655997&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "대전, 코로나19 확진자 2명 더 나와...누적 139명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007060050&t=NN"
     },
     {
         "title": "“코로나 확진자 계속나온다” 광주지역 코로나 확진자 누적 116명",
