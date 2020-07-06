@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/africa/western-cape-south-africa-coronavirus-epicenter-intl/index.html"
     },
     {
-        "title": "Live Coronavirus Updates: Miami Reverses Course on Reopening",
-        "link": "https://www.nytimes.com/2020/07/06/world/coronavirus-updates.html"
+        "title": "Doctors say the US is in a 'free fall' with coronavirus as 32 states struggle with higher rates of infection",
+        "link": "https://www.cnn.com/2020/07/06/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "Gov’t imposes partial lockdown as coronavirus cases spike",
@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/health/spain-coronavirus-antibody-study-lancet-intl/index.html"
     },
     {
-        "title": "Coronavirus updates: California asks more counties to close indoor businesses as cases grow",
+        "title": "Coronavirus live updates: California asks more counties to close indoor businesses as cases grow",
         "link": "https://www.cnbc.com/2020/07/06/coronavirus-live-updates.html"
     },
     {
-        "title": "Australia coronavirus outbreak forces states' border closure for first time in a century",
-        "link": "https://www.foxnews.com/world/australia-coronavirus-outbreak"
+        "title": "Australia to seal off 6.6 million people in virus-hit state as outbreak worsens",
+        "link": "https://www.cnn.com/2020/07/06/asia/australia-victoria-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
     },
     {
         "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://wrex.com/2020/07/06/experts-coronavirus-can-float-and-transmit-in-air-droplets/"
     },
     {
-        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
-        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
-    },
-    {
-        "title": "Live updates: U.S. reports record-high average of new coronavirus cases for 28th day",
-        "link": "https://www.washingtonpost.com/nation/2020/07/06/coronavirus-live-updates-us/"
+        "title": "A Global Comparison of Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/07/06/briefing/a-global-comparison-of-coronavirus-cases.html"
     }
 ];

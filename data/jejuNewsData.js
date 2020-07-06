@@ -13,12 +13,16 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
     },
     {
+        "title": "제주공항 워킹스루 선별진료소 '코로나19' 차단 효과",
+        "link": "https://www.news1.kr/articles/?3986952"
+    },
+    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
     {
-        "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",
-        "link": "https://www.news1.kr/articles/?3986323"
+        "title": "제주, 코로나19 20번 카자흐스탄 확진자 접촉자 '28명' 격리",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=421494"
     },
     {
         "title": "꼬리 무는 광주 집단감염…광륵사發 확진자 80명",
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23412955"
     },
     {
-        "title": "제주지역 20번째 코로나19 확진자 발생",
-        "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
-    },
-    {
-        "title": "제주 20번째 확진자와 접촉한 28명 자가격리",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487011&ref=A"
+        "title": "국내 바이러스 전파력 6배…확진자에 구상권 청구 이어져",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988822?division=NAVER"
     }
 ];

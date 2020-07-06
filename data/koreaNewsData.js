@@ -9,20 +9,12 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23412467"
     },
     {
-        "title": "인천 방판설명회 6명 확진…‘동선 진술 거부’ 확진자 탓에 확산",
-        "link": "http://www.hani.co.kr/arti/area/capital/952376.html"
-    },
-    {
         "title": "“코로나 확진자 계속나온다” 광주지역 코로나 확진자 누적 116명",
         "link": "https://view.asiae.co.kr/article/2020070615495715659"
     },
     {
         "title": "韓코로나19 치료제 해외 임상 봇물…”U턴 전략도”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] 미국 코로나 누적 확진자 300만명 돌파",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/07/2020070700090.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나19 신규 확진 48명…지역 발생·해외 유입 각각 24명",
@@ -33,11 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014768649&code=61121111&cp=nv"
     },
     {
+        "title": "인천 방판설명회 6명 확진…‘동선 진술 거부’ 확진자 탓에 확산",
+        "link": "http://www.hani.co.kr/arti/area/capital/952376.html"
+    },
+    {
         "title": "광주서 코로나19 확진자 1명 추가 발생...누적 116명",
         "link": "http://www.fnnews.com/news/202007061502465233"
     },
     {
         "title": "[속보] '코로나19' 48명 늘어 1만3,137명…사망 1명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007060154&t=NN"
+    },
+    {
+        "title": "코로나19 신규 확진 48명…광주 7명 등 국내발생 24명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4487333&ref=A"
     }
 ];
