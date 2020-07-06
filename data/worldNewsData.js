@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53299544"
     },
     {
-        "title": "Coronavirus live news: record new cases in India as Australian state of Victoria closes border",
-        "link": "https://www.theguardian.com/world/live/2020/jul/06/coronavirus-live-news-india-sees-record-new-cases-as-texas-warns-of-overwhelmed-hospitals"
+        "title": "The 17-member family that lived together, ate together and got coronavirus together",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-garg-family/2020/07/04/22b59514-b4e2-11ea-9a1d-d3db1cbe07ce_story.html"
     },
     {
-        "title": "Coronavirus: Australia to close Victoria-New South Wales border",
-        "link": "https://www.bbc.com/news/world-australia-53303317"
+        "title": "Assessing the Real Coronavirus Death Rate: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/05/world/coronavirus-updates.html"
     },
     {
-        "title": "New COVID-19 cases worldwide top 210000/day: WHO",
-        "link": "https://www.youtube.com/watch?v=0oKJaORsLGM"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-05-20-intl/index.html"
-    },
-    {
-        "title": "Phoenix mayor: 'We opened way too early in Arizona' | TheHill",
-        "link": "https://thehill.com/homenews/sunday-talk-shows/505912-phoenix-mayor-we-opened-way-too-early-in-arizona"
+        "title": "239 Experts With One Big Claim: The Coronavirus Is Airborne",
+        "link": "https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html"
     },
     {
         "title": "Coronavirus: Texas mayors warn of 'serious trouble' as cases surge across US",
         "link": "https://www.theguardian.com/world/2020/jul/05/coronavirus-texas-mayors-serious-trouble-hospital-beds-florida-trump"
+    },
+    {
+        "title": "The Pandemic’s Big Mystery: How Deadly Is the Coronavirus?",
+        "link": "https://www.nytimes.com/2020/07/04/health/coronavirus-death-rate.html"
+    },
+    {
+        "title": "Nick Cordero: Broadway star dies aged 41 of coronavirus complications",
+        "link": "https://www.theguardian.com/world/2020/jul/06/nick-cordero-broadway-star-dies-aged-41-of-coronavirus-complications"
     }
 ];
