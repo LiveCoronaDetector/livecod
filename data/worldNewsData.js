@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Uganda, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/07/05/latest_news/1593930167_619597.html"
+        "link": "https://en.as.com/en/2020/07/06/latest_news/1594019187_905453.html"
     },
     {
         "title": "As Trump gaslights America about coronavirus, Republicans face a critical choice",
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/05/887458298/121-university-of-washington-students-infected-in-greek-row-outbreak"
     },
     {
-        "title": "Italy denies entry to American vacationers after landing on private plane",
-        "link": "https://www.foxnews.com/us/italy-denies-entry-to-american-vacationers-after-landing-on-private-plane"
+        "title": "Italy's problem with working women made worse by coronavirus",
+        "link": "https://www.politico.com/news/2020/07/05/italys-problem-with-working-women-made-worse-by-coronavirus-349561"
     },
     {
         "title": "India coronavirus cases third-highest globally: Live updates",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53303317"
     },
     {
-        "title": "World Health Organization reports new global record for coronavirus cases",
-        "link": "https://www.fltimes.com/news/nation/world-health-organization-reports-new-global-record-for-coronavirus-cases/article_b0940990-c71b-5221-bae0-ae2357d29f67.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
+    },
+    {
+        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
         "title": "Hundreds of scientists say coronavirus is airborne, ask WHO to revise recommendations: NYT",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: FDA chief refuses to back Trump's vaccine prediction",
         "link": "https://www.bbc.com/news/world-us-canada-53302766"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
     }
 ];
