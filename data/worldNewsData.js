@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=nVUnAgGboNE"
     },
     {
-        "title": "WHO reports new global record for new coronavirus cases",
-        "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-who-global-record-new-cases-day-20200705-klkx5l44sza23onawzq3gihg2y-story.html"
+        "title": "US coronavirus cases dip as world sets record for new cases in 24-hour period",
+        "link": "https://www.foxnews.com/health/cases-dip-world-sets-record"
     },
     {
         "title": "Thousands of Melb residents locked down in 'prison-like' conditions",
