@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007061144204775"
     },
     {
-        "title": "코로나 20번째 확진자, 28명 접촉",
-        "link": "http://www.jejumaeil.net/news/articleView.html?idxno=210243"
-    },
-    {
         "title": "클럽 이후 국내 코로나19, GH그룹…\"3~4월 해외유입이 유행 주도\"(종합2보)",
         "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주 20번째 확진자와 접촉한 28명 자가격리",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4487011&ref=A"
+    },
+    {
+        "title": "코로나 20번째 확진자, 28명 접촉",
+        "link": "http://www.jejumaeil.net/news/articleView.html?idxno=210243"
     }
 ];
