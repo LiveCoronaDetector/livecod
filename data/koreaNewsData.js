@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/08/2020070800050.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "브라질 대통령, 코로나19 확진…\"이게 인생, 공포에 떨 이유 없다\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
+    },
+    {
         "title": "미, '코로나19 대응 불만' WHO 탈퇴 공식통보…1년뒤 탈퇴 완료(종합)",
         "link": "http://yna.kr/AKR20200708006051071?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
         "link": "http://yna.kr/AKR20200707117400056?did=1195m"
-    },
-    {
-        "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
-        "link": "http://www.hani.co.kr/arti/society/health/952552.html"
     }
 ];

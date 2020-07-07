@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
     },
     {
-        "title": "코로나19 차단 ‘첨병’…제주공항 워크스루 선별진료소 ‘주목’",
-        "link": "http://www.fnnews.com/news/202007061144204775"
-    },
-    {
         "title": "국내 바이러스 전파력 6배…확진자에 구상권 청구 이어져",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988822?division=NAVER"
+    },
+    {
+        "title": "코로나19 차단 ‘첨병’…제주공항 워크스루 선별진료소 ‘주목’",
+        "link": "http://www.fnnews.com/news/202007061144204775"
     },
     {
         "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",

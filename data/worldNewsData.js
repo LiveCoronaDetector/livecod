@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888104453/india-surpasses-russia-in-reported-coronavirus-infections"
     },
     {
-        "title": "Australia to reimpose six-week coronavirus lockdown in second largest city as country battles potential second wave",
-        "link": "https://www.cnn.com/2020/07/07/asia/melbourne-coronavirus-lockdown-intl-hnk/index.html"
+        "title": "Melbourne Resumes Lockdown As Coronavirus Cases Surge : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888093075/melbourne-resumes-lockdown-as-covid-19-cases-surge"
     },
     {
         "title": "Trump administration begins formal withdrawal from World Health Organization",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
     },
     {
-        "title": "Trump officially pulls US out of World Health Organization amid pandemic – live",
+        "title": "US officially begins withdrawal from World Health Organization amid pandemic – live",
         "link": "https://www.theguardian.com/us-news/live/2020/jul/07/joe-biden-donald-trump-delaware-new-jersey-primaries-coronavirus-live-updates"
     }
 ];
