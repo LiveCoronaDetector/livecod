@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주도, 해열제 복용하며 여행한 안산 확진자에 손해배상 소송",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
-    },
-    {
         "title": "코로나19로 올 여름 국내여행객 2배 '껑충'",
         "link": "http://www.inews24.com/view/1279592"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "꼬리 무는 광주 집단감염…광륵사發 확진자 80명",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020070514504220917"
     }
 ];
