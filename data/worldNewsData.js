@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "Trump administration begins formal withdrawal from World Health Organization",
-        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-trade-organization/index.html"
+        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
         "title": "Sweden Has Become the World’s Cautionary Tale",
