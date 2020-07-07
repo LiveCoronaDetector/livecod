@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53315983"
     },
     {
-        "title": "Coronavirus: How fast is it spreading in Africa?",
-        "link": "https://www.bbc.com/news/world-africa-53181555"
+        "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
+        "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
     }
 ];
