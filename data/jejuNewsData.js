@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3986323"
     },
     {
-        "title": "\"두려움에 떨었다\" 코로나 오판정받은 초등생 아버지의 절규",
-        "link": "https://news.joins.com/article/olink/23412955"
+        "title": "'해열제 복용' 제주여행 확진자에 1억3000만원대 손배 청구",
+        "link": "https://www.news1.kr/articles/?3988212"
     }
 ];

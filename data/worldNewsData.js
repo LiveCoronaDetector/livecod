@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/06/coronavirus-live-updates.html"
     },
     {
-        "title": "Australia Closes Interstate Border Because Of Coronavirus Outbreak",
-        "link": "https://www.npr.org/2020/07/06/887659557/australia-closes-interstate-border-because-of-coronavirus-outbreak"
+        "title": "WHO alters timeline to indicate it first learned of coronavirus from Internet, not Chinese officials",
+        "link": "https://www.foxnews.com/world/who-quietly-alters-coronavirus-timeline-to-indicate-it-first-learned-of-coronavirus-from-the-internet-not-the-chinese-government"
     },
     {
-        "title": "July 6 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
-    },
-    {
-        "title": "China changed its coronavirus origin story again – you won’t believe the new claims",
-        "link": "https://bgr.com/2020/07/06/coronavirus-origin-story-china-point-to-spain-who-investigation/"
+        "title": "Scientists suggest coronavirus is airborne, ask WHO to change recommendations",
+        "link": "https://www.youtube.com/watch?v=vMVdZWJWZA0"
     },
     {
         "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Spanish study casts doubt on herd immunity",
         "link": "https://www.bbc.com/news/world-europe-53315983"
+    },
+    {
+        "title": "Lakeland Regional Health using overflow ICU beds as COVID-19 hospitalizations climb",
+        "link": "https://www.wfla.com/community/health/coronavirus/lakeland-regional-health-using-overflow-icu-beds-as-covid-19-hospitalizations-climb/"
     }
 ];
