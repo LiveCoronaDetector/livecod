@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/americas/brazil-bolsonaro-positive-coronavirus-intl/index.html"
     },
     {
-        "title": "Israel public health chief quits amid rise in coronavirus cases",
-        "link": "https://www.theguardian.com/world/2020/jul/07/israeli-public-health-chief-quits-amid-rise-in-coronavirus-cases"
+        "title": "Amid New Surge In Virus Cases, Israel's Top Public Health Official Resigns",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888148317/amid-new-surge-in-virus-cases-israels-top-public-health-official-resigns"
     },
     {
         "title": "Herd immunity strategies called into question after coronavirus antibody study in Spain",

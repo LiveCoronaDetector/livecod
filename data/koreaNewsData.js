@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
     },
     {
-        "title": "[속보] '코로나19' 44명 늘어 1만3,181명…지역 20명·해외유입 24명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007070159&t=NN"
-    },
-    {
         "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
         "link": "http://yna.kr/AKR20200707117400056?did=1195m"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200707082951054?did=1195m"
     },
     {
-        "title": "[단독]전파력 6배 강한 변이 '코로나19', 국내서 천적 항체 찾았다",
-        "link": "https://www.news1.kr/articles/?3988971"
+        "title": "[속보] '코로나19' 44명 늘어 1만3,181명…지역 20명·해외유입 24명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007070159&t=NN"
     },
     {
         "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
         "link": "http://www.hani.co.kr/arti/society/health/952552.html"
+    },
+    {
+        "title": "[단독]전파력 6배 강한 변이 '코로나19', 국내서 천적 항체 찾았다",
+        "link": "https://www.news1.kr/articles/?3988971"
     }
 ];
