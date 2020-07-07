@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
+    },
+    {
         "title": "국내외 코로나19 유행 확산 이유는 뭘까…G그룹 변이에 주목",
         "link": "http://www.newsis.com/view/?id=NISX20200707_0001086674&cID=10201&pID=10200"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",
         "link": "https://www.news1.kr/articles/?3986323"
-    },
-    {
-        "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
-        "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     }
 ];
