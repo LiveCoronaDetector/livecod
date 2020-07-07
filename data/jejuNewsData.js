@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007061144204775"
     },
     {
+        "title": "코로나19로 올 여름 국내여행객 2배 '껑충'",
+        "link": "http://www.inews24.com/view/1279592"
+    },
+    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
@@ -27,10 +31,6 @@ var jejuNewsData = [
     {
         "title": "꼬리 무는 광주 집단감염…광륵사發 확진자 80명",
         "link": "http://news.mt.co.kr/mtview.php?no=2020070514504220917"
-    },
-    {
-        "title": "코로나19로 올 여름 국내여행객 2배 '껑충'",
-        "link": "http://www.inews24.com/view/1279592"
     },
     {
         "title": "제주지역 20번째 코로나19 확진자 발생…외국서 입국",

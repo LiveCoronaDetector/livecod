@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/africa/western-cape-south-africa-coronavirus-epicenter-intl/index.html"
     },
     {
-        "title": "US is still 'knee-deep' in the first wave of the coronavirus pandemic, Fauci says",
-        "link": "https://www.cnn.com/2020/07/06/health/us-coronavirus-monday/index.html"
+        "title": "Dr. Anthony Fauci says the average age of U.S. coronavirus patients has dropped by 15 years as Sun Belt states gets hit",
+        "link": "https://www.cnbc.com/2020/07/06/dr-anthony-fauci-says-the-average-age-of-us-coronavirus-patients-has-dropped-by-15-years-as-sun-belt-states-gets-hit.html"
     },
     {
         "title": "Gov’t imposes partial lockdown as coronavirus cases spike",
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/asia/australia-victoria-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
+        "title": "July 6 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
     },
     {
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
     },
     {
-        "title": "Is the coronavirus airborne? Hundreds of scientists say it's \"a real risk\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-airborne-scientists-open-letter/"
+        "title": "Scientists urge WHO to address airborne spread of coronavirus",
+        "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
     },
     {
         "title": "A Global Comparison of Coronavirus Cases",

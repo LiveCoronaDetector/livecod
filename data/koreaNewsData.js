@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "美 인구 100명중 1명 코로나19 감염…확진자 300만명 돌파",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200707000001"
+        "title": "[속보] 보건 당국 \"광주서 잠적한 코로나 확진자 신병 확보\"",
+        "link": "https://www.hankyung.com/society/article/2020070703057"
+    },
+    {
+        "title": "미 코로나19 환자 300만명 넘겨…전체인구 약 100명중 1명 감염",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5833938_32640.html"
     },
     {
         "title": "골드만삭스, 코로나19 확진자 급증에 미국 경제성장 전망 하향",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=401538&class=42&grp="
     },
     {
+        "title": "美증시, 코로나19 재확산에도 지표 개선에 강세…다우, 1.78%↑",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200707000006"
+    },
+    {
         "title": "광주 60대 남성 확진자, 양성 통보 뒤 잠적",
         "link": "http://www.newsis.com/view/?id=NISX20200707_0001085919&cID=10201&pID=10200"
     },
     {
-        "title": "세계 확진자 수 1위 美, 등교 재개 실현되나",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070700370.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 신규 확진 48명…지역 발생·해외 유입 각각 24명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5832999_32633.html"
-    },
-    {
-        "title": "초교생이어 미취학 아동까지…광주 코로나19 확진자",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014768649&code=61121111&cp=nv"
+        "title": "대전시, 140번·141번 코로나19 확진자 동선 공개",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002656327&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
