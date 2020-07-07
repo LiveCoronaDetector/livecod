@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/americas/brazil-bolsonaro-positive-coronavirus-intl/index.html"
     },
     {
-        "title": "Coronavirus Israel live: 1,137 new cases confirmed in 24 hours in biggest daily rise",
-        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-breaking-live-updates-july-1.8970693"
+        "title": "Second Coronavirus Wave Slams Israel",
+        "link": "https://www.wsj.com/articles/second-coronavirus-wave-slams-israel-11594057852"
     },
     {
         "title": "Herd immunity strategies called into question after coronavirus antibody study in Spain",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
     },
     {
-        "title": "NH Governor Asks Anyone Attending President Trump's Rally To Wear Mask",
-        "link": "https://www.youtube.com/watch?v=J8zreovAKAw"
-    },
-    {
         "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
+    },
+    {
+        "title": "The data on coronavirus deaths doesn’t tell the story Trump claims it does",
+        "link": "https://www.washingtonpost.com/politics/2020/07/07/trump-is-angry-media-wont-report-false-or-cherry-picked-coronavirus-death-data/"
     }
 ];
