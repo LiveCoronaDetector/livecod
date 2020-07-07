@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53181555"
     },
     {
-        "title": "Live updates: Coronavirus hospitalizations skyrocket across Sun Belt as Fauci warns nation is ‘still knee deep in the first wave’",
-        "link": "https://www.washingtonpost.com/nation/2020/07/07/coronavirus-live-updates-us/"
+        "title": "US and Brazil lead in Covid cases as leaders downplay the virus",
+        "link": "https://www.cnn.com/videos/world/2020/07/06/bill-weir-brazil-trump-coronavirus-dnt-vpx.cnn"
     },
     {
         "title": "Second Coronavirus Wave Slams Israel",
@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/health/spain-coronavirus-antibody-study-lancet-intl/index.html"
     },
     {
-        "title": "India's coronavirus death toll crosses 20,000: Live updates",
+        "title": "Melbourne placed on 6-week coronavirus lockdown: Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/brazil-bolsonaro-tested-coronavirus-live-updates-200706234641953.html"
     },
     {
         "title": "Australia Closes Interstate Border Because Of Coronavirus Outbreak",
         "link": "https://www.npr.org/2020/07/06/887659557/australia-closes-interstate-border-because-of-coronavirus-outbreak"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-07-20-intl/index.html"
     },
     {
         "title": "Live Coronavirus Updates: Miami Reverses Course on Reopening",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Fineprint: Virus was sent to Wuhan lab in 2013 | RaBtCoV/4991 is 96% similar to COVID-19",
         "link": "https://www.youtube.com/watch?v=elWG2x8IW2k"
-    },
-    {
-        "title": "Aerosols, Droplets, Fomites: What We Know About Transmission Of COVID-19",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/06/887919633/aerosols-droplets-fomites-what-we-know-about-transmission-of-covid-19"
     }
 ];
