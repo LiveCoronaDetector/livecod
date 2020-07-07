@@ -13,20 +13,20 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4488481&ref=A"
     },
     {
-        "title": "광주서 60대 '코로나19' 확진자 잠적 \"삶에 의지 없다\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007070092&t=NN"
+        "title": "광주서 60대 남성 코로나19 확진자 잠적…경찰 행방 추적",
+        "link": "https://www.nocutnews.co.kr/news/5373670"
     },
     {
-        "title": "국내 유행 코로나19는 '전파력 6배 높다'는 GH 그룹 바이러스",
-        "link": "http://yna.kr/AKR20200706106200530?did=1195m"
+        "title": "방역당국 \"최근 국내 코로나19, '전파력 6배' GH 바이러스\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007060329&t=NN"
     },
     {
         "title": "韓코로나19 치료제 해외 임상 봇물…”U턴 전략도”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 코로나19 확진 3명↑…중랑구 일가족 확진 늘어",
-        "link": "https://www.nocutnews.co.kr/news/5373788"
+        "title": "증가세 주춤한 서울 코로나19 확진자…3명 늘어 1375명",
+        "link": "http://www.newsis.com/view/?id=NISX20200707_0001086349&cID=14001&pID=14000"
     },
     {
         "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071024001&code=940100"
     },
     {
-        "title": "코로나19로 폐쇄된 KT 광화문 사옥 다시 열었다",
-        "link": "http://www.bloter.net/archives/394313"
+        "title": "미 코로나19 환자 300만명 넘겨…전체인구 약 100명중 1명 감염",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5833938_32640.html"
     }
 ];
