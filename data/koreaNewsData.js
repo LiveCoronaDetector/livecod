@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04260726625832224"
     },
     {
-        "title": "오늘 서울 코로나19 확진자 9명 추가…누계 1384명",
-        "link": "https://view.asiae.co.kr/article/2020070719270214274"
-    },
-    {
-        "title": "대전 추가 확진자 3명 발생…144명째(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200707_0001087267&cID=10899&pID=10800"
-    },
-    {
-        "title": "일 코로나 신규확진 200명 넘어…일주일새 1천440명↑(종합)",
-        "link": "http://yna.kr/AKR20200707177800073?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진 44명…아시아 지역 유입 환자 증가",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4488481&ref=A"
     },
     {
-        "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
-        "link": "http://yna.kr/AKR20200707117400056?did=1195m"
+        "title": "오늘 서울 코로나19 확진자 9명 추가…누계 1384명",
+        "link": "https://view.asiae.co.kr/article/2020070719270214274"
     },
     {
         "title": "카자흐스탄發 확진자 일주일간 53명… 해외유입의 40% 넘어",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702852.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "대전 추가 확진자 3명 발생…144명째(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200707_0001087267&cID=10899&pID=10800"
+    },
+    {
         "title": "'돈 벌어야 한다'…잠적 확진자, 코로나 심각성 뒤늦게 인지",
         "link": "http://yna.kr/AKR20200707082951054?did=1195m"
     },
     {
-        "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
-        "link": "http://www.hani.co.kr/arti/society/health/952552.html"
+        "title": "목포 40대 여성 코로나19 확진…전남 29번째(종합)",
+        "link": "http://yna.kr/AKR20200707138200054?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 44명 ...\"해외 유입 24명\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007071146139973"
+    },
+    {
+        "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
+        "link": "http://yna.kr/AKR20200707117400056?did=1195m"
     }
 ];
