@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888104453/india-surpasses-russia-in-reported-coronavirus-infections"
     },
     {
-        "title": "Melbourne Resumes Lockdown As Coronavirus Cases Surge : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888093075/melbourne-resumes-lockdown-as-covid-19-cases-surge"
+        "title": "Battling second virus wave, Australia puts city of Melbourne under lockdown",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/melbourne-lockdown-coronavirus-australia-covid-19-pandemic/2020/07/07/38ff2934-c018-11ea-8908-68a2b9eae9e0_story.html"
     },
     {
         "title": "Trump administration begins formal withdrawal from World Health Organization",
