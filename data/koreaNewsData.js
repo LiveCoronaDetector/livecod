@@ -5,20 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007071013013735"
     },
     {
-        "title": "코로나 확진 44명…해외유입 24명·국내 20명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070701323.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "'돈 벌어야 한다' 광주서 잠적한 확진자, 전남 영광서 신병확보(종합)",
+        "link": "http://yna.kr/AKR20200707082900054?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 44명...\"해외 유입 24명\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007071032337023"
-    },
-    {
-        "title": "코로나 확진 판정받자 잠적…보건당국 60대 감염자 추적(종합)",
-        "link": "http://yna.kr/AKR20200707016151054?did=1195m"
-    },
-    {
-        "title": "\"코로나 걸리면 죽겠다\" 광주 60대 확진자 전남 영광서 발견",
-        "link": "https://news.joins.com/article/olink/23413504"
+        "title": "코로나 확진 60대 남성 자살 암시 후 잠적",
+        "link": "https://hankookilbo.com/News/Read/A2020070708270004245?did=NA"
     },
     {
         "title": "방역당국 \"최근 국내 코로나19, '전파력 6배' GH 바이러스\"",
@@ -29,6 +21,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "'코로나19' 신규 확진자, 하루새 44명 발생…절반 이상이 해외입국자",
+        "link": "http://www.inews24.com/view/1279732"
+    },
+    {
         "title": "서울 코로나19 확진 3명↑…중랑구 일가족 확진 늘어",
         "link": "https://www.nocutnews.co.kr/news/5373788"
     },
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/952552.html"
     },
     {
-        "title": "미 코로나19 환자 300만명 넘겨…전체인구 약 100명중 1명 감염",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5833938_32640.html"
+        "title": "[속보]코로나 신규 확진 44명...해외유입 24명·지역발생 20명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071024001&code=940100"
+    },
+    {
+        "title": "코로나19로 폐쇄된 KT 광화문 사옥 다시 열었다",
+        "link": "http://www.bloter.net/archives/394313"
     }
 ];

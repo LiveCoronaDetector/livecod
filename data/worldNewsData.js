@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/who-quietly-alters-coronavirus-timeline-to-indicate-it-first-learned-of-coronavirus-from-the-internet-not-the-chinese-government"
     },
     {
-        "title": "July 6 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
+        "title": "Live Coronavirus Updates: Miami Reverses Course on Reopening",
+        "link": "https://www.nytimes.com/2020/07/06/world/coronavirus-updates.html"
     },
     {
-        "title": "China changed its coronavirus origin story again – you won’t believe the new claims",
-        "link": "https://bgr.com/2020/07/06/coronavirus-origin-story-china-point-to-spain-who-investigation/"
+        "title": "U.S. coronavirus case top 2.8M as scientists claim WHO is downplaying the virus' airborne risk",
+        "link": "https://www.youtube.com/watch?v=izQ4AK_SuWU"
     },
     {
         "title": "Coronavirus: Spanish study casts doubt on herd immunity",
