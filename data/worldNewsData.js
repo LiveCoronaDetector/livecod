@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
     },
     {
-        "title": "Scientists urge WHO to address airborne spread of coronavirus",
-        "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
+        "title": "Is the coronavirus airborne? Hundreds of scientists say it's \"a real risk\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-airborne-scientists-open-letter/"
     },
     {
         "title": "A Global Comparison of Coronavirus Cases",

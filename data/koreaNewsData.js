@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 보건 당국 \"광주서 잠적한 코로나 확진자 신병 확보\"",
-        "link": "https://www.hankyung.com/society/article/2020070703057"
-    },
-    {
         "title": "미 코로나19 환자 300만명 넘겨…전체인구 약 100명중 1명 감염",
         "link": "https://imnews.imbc.com/news/2020/world/article/5833938_32640.html"
+    },
+    {
+        "title": "광주서 코로나19 확진자 4명 추가 발생...누적 121명",
+        "link": "http://www.fnnews.com/news/202007070801277230"
     },
     {
         "title": "골드만삭스, 코로나19 확진자 급증에 미국 경제성장 전망 하향",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200707_0001085919&cID=10201&pID=10200"
     },
     {
-        "title": "대전시, 140번·141번 코로나19 확진자 동선 공개",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002656327&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "세계 확진자 수 1위 美, 등교 재개 실현되나",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070700370.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
