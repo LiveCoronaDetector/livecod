@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/06/bill-weir-brazil-trump-coronavirus-dnt-vpx.cnn"
     },
     {
-        "title": "Coronavirus Israel live: Public health services chief resigns amid spike in cases",
-        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-breaking-live-updates-july-1.8970693"
+        "title": "Second Coronavirus Wave Slams Israel",
+        "link": "https://www.wsj.com/articles/second-coronavirus-wave-slams-israel-11594057852"
     },
     {
         "title": "Coronavirus: Spanish study casts doubt on herd immunity feasibility",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/07/06/887659557/australia-closes-interstate-border-because-of-coronavirus-outbreak"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-07-20-intl/index.html"
-    },
-    {
         "title": "Live Coronavirus Updates: Miami Reverses Course on Reopening",
         "link": "https://www.nytimes.com/2020/07/06/world/coronavirus-updates.html"
     },
     {
-        "title": "Spain's coronavirus antibodies study adds evidence against herd immunity",
-        "link": "https://www.cnn.com/2020/07/06/health/spain-coronavirus-antibody-study-lancet-intl/index.html"
+        "title": "No COVID-19 herd immunity without vaccine, study finds | Connect the Dots",
+        "link": "https://www.youtube.com/watch?v=2SX8nORbXHk"
     },
     {
         "title": "Fineprint: Virus was sent to Wuhan lab in 2013 | RaBtCoV/4991 is 96% similar to COVID-19",
         "link": "https://www.youtube.com/watch?v=elWG2x8IW2k"
+    },
+    {
+        "title": "Aerosols, Droplets, Fomites: What We Know About Transmission Of COVID-19",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/06/887919633/aerosols-droplets-fomites-what-we-know-about-transmission-of-covid-19"
     }
 ];
