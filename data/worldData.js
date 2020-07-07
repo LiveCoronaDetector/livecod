@@ -1462,7 +1462,7 @@ var marker = [
         "Name_en": "Bhutan",
         "확진자수": 80,
         "사망자수": 0,
-        "완치자수": 53
+        "완치자수": 54
     },
     {
         "Name": "Sint Maarten",
