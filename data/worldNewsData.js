@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. and Global News",
-        "link": "https://www.nytimes.com/2020/07/07/world/coronavirus-updates.html"
+        "title": "Trump administration formally withdraws US from WHO | TheHill",
+        "link": "https://thehill.com/homenews/administration/506214-trump-administration-formally-withdraws-us-from-WHO-"
     },
     {
-        "title": "The data on coronavirus deaths doesn’t tell the story Trump claims it does",
-        "link": "https://www.washingtonpost.com/politics/2020/07/07/trump-is-angry-media-wont-report-false-or-cherry-picked-coronavirus-death-data/"
+        "title": "Brazilian president Jair Bolsonaro tests positive for coronavirus",
+        "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
     }
 ];

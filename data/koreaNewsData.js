@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/952552.html"
     },
     {
-        "title": "마스크 착용 거부하더니…보우소나루 브라질 대통령, 코로나19 확진",
-        "link": "https://www.donga.com/news/article/all/20200708/101865461/1"
+        "title": "\"코로나 걸리면 죽겠다\" 광주 60대 확진자 전남 영광서 발견",
+        "link": "https://news.joins.com/article/olink/23413504"
     },
     {
-        "title": "브라질 대통령, 코로나19 확진…\"이게 인생, 공포에 떨 이유 없다\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
+        "title": "마스크 착용 거부하더니…보우소나루 브라질 대통령, 코로나19 확진",
+        "link": "https://www.donga.com/news/article/all/20200708/101865461/1"
     }
 ];
