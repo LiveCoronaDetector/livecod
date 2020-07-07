@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/africa/western-cape-south-africa-coronavirus-epicenter-intl/index.html"
     },
     {
-        "title": "Dr. Anthony Fauci says the average age of U.S. coronavirus patients has dropped by 15 years as Sun Belt states gets hit",
-        "link": "https://www.cnbc.com/2020/07/06/dr-anthony-fauci-says-the-average-age-of-us-coronavirus-patients-has-dropped-by-15-years-as-sun-belt-states-gets-hit.html"
+        "title": "Brazil's Bolsonaro tested for coronavirus after feeling unwell, reporting a high temperature",
+        "link": "https://www.cnbc.com/2020/07/07/coronavirus-brazils-bolsonaro-tested-for-covid-19-after-feeling-ill.html"
     },
     {
         "title": "Coronavirus Israel live: Public health services chief resigns amid spike in cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-07-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Former FDA chief Scott Gottlieb on achieving herd immunity",
-        "link": "https://www.youtube.com/watch?v=EjPRnEBIWSI"
-    },
-    {
-        "title": "The data on coronavirus deaths doesn’t tell the story Trump claims it does",
-        "link": "https://www.washingtonpost.com/politics/2020/07/07/trump-is-angry-media-wont-report-false-or-cherry-picked-coronavirus-death-data/"
-    },
-    {
         "title": "Fineprint: Virus was sent to Wuhan lab in 2013 | RaBtCoV/4991 is 96% similar to COVID-19",
         "link": "https://www.youtube.com/watch?v=elWG2x8IW2k"
+    },
+    {
+        "title": "Coronavirus: How fast is it spreading in Africa?",
+        "link": "https://www.bbc.com/news/world-africa-53181555"
+    },
+    {
+        "title": "World Health Organization holds briefing today after scientists say airborne transmission of coronavirus is a \"real risk\" - watch live stream",
+        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-airborne-transmission-risk-today-2020-07-07/"
     }
 ];

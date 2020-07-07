@@ -5,24 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200707081751060?did=1195m"
     },
     {
-        "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
-        "link": "http://yna.kr/AKR20200707117400056?did=1195m"
-    },
-    {
-        "title": "대전 코로나 확진자 5명 추가…6월 15일 이후 100명 감염",
-        "link": "https://news.joins.com/article/olink/23414112"
-    },
-    {
-        "title": "목포서 40대 여성 코로나19 확진...광주 117번 확진자의 접촉자",
-        "link": "http://www.fnnews.com/news/202007071623193249"
+        "title": "대전, 코로나19 확진자 5명 추가…충남 6명 양성",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04260726625832224"
     },
     {
         "title": "코로나19 신규 확진 44명…아시아 지역 유입 환자 증가",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4488481&ref=A"
     },
     {
-        "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
-        "link": "http://www.hani.co.kr/arti/society/health/952552.html"
+        "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
+        "link": "http://yna.kr/AKR20200707117400056?did=1195m"
     },
     {
         "title": "오늘 서울 코로나19 확진자 9명 추가…누계 1384명",
@@ -33,11 +25,19 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200707_0001087267&cID=10899&pID=10800"
     },
     {
+        "title": "카자흐스탄發 확진자 일주일간 53명… 해외유입의 40% 넘어",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702852.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "'돈 벌어야 한다'…잠적 확진자, 코로나 심각성 뒤늦게 인지",
+        "link": "http://yna.kr/AKR20200707082951054?did=1195m"
+    },
+    {
         "title": "일 코로나 신규확진 200명 넘어…일주일새 1천440명↑(종합)",
         "link": "http://yna.kr/AKR20200707177800073?did=1195m"
     },
     {
-        "title": "\"삶에 미련없다\" 잠적한 60대 확진자, 공사현장서 발견",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=202223"
+        "title": "목포 40대 여성 코로나19 확진…전남 29번째(종합)",
+        "link": "http://yna.kr/AKR20200707138200054?did=1195m"
     }
 ];
