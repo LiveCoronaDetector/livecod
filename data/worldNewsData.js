@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-trade-organization/index.html"
     },
     {
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+    },
+    {
         "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
     },
     {
-        "title": "Masks are effective only if you wear them properly. Here's the right (and wrong) way",
-        "link": "https://www.cnn.com/2020/07/07/health/how-to-wear-mask-properly-wellness-trnd/index.html"
-    },
-    {
-        "title": "International Student Visas at Risk as Schools Go Solely Online",
-        "link": "https://www.youtube.com/watch?v=g2wqflJiCuU"
+        "title": "Brazilian president Jair Bolsonaro tests positive for coronavirus",
+        "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
     }
 ];

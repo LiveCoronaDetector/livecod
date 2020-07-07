@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23413504"
     },
     {
-        "title": "광주서 60대 남성 코로나19 확진자 잠적…경찰 행방 추적",
-        "link": "https://www.nocutnews.co.kr/news/5373670"
+        "title": "[속보] 마스크 거부하던 브라질 대통령, 코로나 양성판정",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/08/2020070800050.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
