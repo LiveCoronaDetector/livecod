@@ -620,9 +620,9 @@ var marker = [
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "확진자수": 7124,
-        "사망자수": 346,
-        "완치자수": 3199
+        "확진자수": 7244,
+        "사망자수": 351,
+        "완치자수": 3324
     },
     {
         "Name": "Haiti",

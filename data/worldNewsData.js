@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/06/africa/western-cape-south-africa-coronavirus-epicenter-intl/index.html"
     },
     {
-        "title": "US and Brazil lead the world in Covid-19 cases as leaders downplay the virus",
-        "link": "https://www.cnn.com/videos/world/2020/07/06/bill-weir-brazil-trump-coronavirus-dnt-vpx.cnn"
+        "title": "Dr. Anthony Fauci says the average age of U.S. coronavirus patients has dropped by 15 years as Sun Belt states gets hit",
+        "link": "https://www.cnbc.com/2020/07/06/dr-anthony-fauci-says-the-average-age-of-us-coronavirus-patients-has-dropped-by-15-years-as-sun-belt-states-gets-hit.html"
     },
     {
         "title": "Coronavirus Israel live: Public health services chief resigns amid spike in cases",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-07-20-intl/index.html"
     },
     {
-        "title": "Live Coronavirus Updates: Miami Reverses Course on Reopening",
-        "link": "https://www.nytimes.com/2020/07/06/world/coronavirus-updates.html"
+        "title": "Coronavirus: Former FDA chief Scott Gottlieb on achieving herd immunity",
+        "link": "https://www.youtube.com/watch?v=EjPRnEBIWSI"
     },
     {
-        "title": "No COVID-19 herd immunity without vaccine, study finds | Connect the Dots",
-        "link": "https://www.youtube.com/watch?v=2SX8nORbXHk"
+        "title": "The data on coronavirus deaths doesn’t tell the story Trump claims it does",
+        "link": "https://www.washingtonpost.com/politics/2020/07/07/trump-is-angry-media-wont-report-false-or-cherry-picked-coronavirus-death-data/"
     },
     {
         "title": "Fineprint: Virus was sent to Wuhan lab in 2013 | RaBtCoV/4991 is 96% similar to COVID-19",

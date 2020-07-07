@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주도, 해열제 복용하며 여행한 안산 확진자에 손해배상 소송",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
-    },
-    {
-        "title": "해열제 10알 먹고 제주여행한 확진자…1억3000만원 손배 소송",
-        "link": "https://news.joins.com/article/olink/23413935"
-    },
-    {
         "title": "국내외 코로나19 유행 확산 이유는 뭘까…G그룹 변이에 주목",
         "link": "http://www.newsis.com/view/?id=NISX20200707_0001086674&cID=10201&pID=10200"
+    },
+    {
+        "title": "[이지 보고서] 코로나가 바꾼 여름휴가 트렌드, 국내 여행 예약 전년比 109%↑",
+        "link": "http://www.ezyeconomy.com/news/articleView.html?idxno=102774"
+    },
+    {
+        "title": "[슬기로운라디오] 코로나 이후 멈춘 방과 후 교실, 방과 후 강사들은?",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007071129044004"
     },
     {
         "title": "코로나19로 올 여름 국내여행객 2배 '껑충'",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejumaeil.net/news/articleView.html?idxno=210243"
     },
     {
-        "title": "클럽 이후 국내 코로나19, GH그룹…\"3~4월 해외유입이 유행 주도\"(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
+        "title": "광주 광륵사 관련 코로나19 신규확진 7명 추가…87명으로 늘어",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=337910"
     }
 ];
