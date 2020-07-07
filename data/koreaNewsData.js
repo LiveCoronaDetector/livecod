@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200707081751060?did=1195m"
     },
     {
+        "title": "목포서 40대 여성 코로나19 확진...광주 117번 확진자의 접촉자",
+        "link": "http://www.fnnews.com/news/202007071623193249"
+    },
+    {
         "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
         "link": "http://yna.kr/AKR20200707117400056?did=1195m"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/952552.html"
     },
     {
-        "title": "'확진자 인권보호'…고양시, 코로나19 인터넷 방역단 운영",
-        "link": "http://yna.kr/AKR20200707073400060?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진자 44명 ...\"해외 유입 24명\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007071146139973"
+        "title": "\"코로나 걸리면 죽겠다\" 광주 60대 확진자 전남 영광서 발견",
+        "link": "https://news.joins.com/article/olink/23413504"
     }
 ];
