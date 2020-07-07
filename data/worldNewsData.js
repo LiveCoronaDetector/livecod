@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/who-quietly-alters-coronavirus-timeline-to-indicate-it-first-learned-of-coronavirus-from-the-internet-not-the-chinese-government"
     },
     {
-        "title": "Scientists suggest coronavirus is airborne, ask WHO to change recommendations",
-        "link": "https://www.youtube.com/watch?v=vMVdZWJWZA0"
+        "title": "July 6 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-06-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: world treating symptoms, not cause of pandemics, says UN",
-        "link": "https://www.theguardian.com/world/2020/jul/06/coronavirus-world-treating-symptoms-not-cause-pandemics-un-report"
+        "title": "China changed its coronavirus origin story again – you won’t believe the new claims",
+        "link": "https://bgr.com/2020/07/06/coronavirus-origin-story-china-point-to-spain-who-investigation/"
     },
     {
         "title": "Coronavirus: Spanish study casts doubt on herd immunity",
         "link": "https://www.bbc.com/news/world-europe-53315983"
     },
     {
-        "title": "Lakeland Regional Health using overflow ICU beds as COVID-19 hospitalizations climb",
-        "link": "https://www.wfla.com/community/health/coronavirus/lakeland-regional-health-using-overflow-icu-beds-as-covid-19-hospitalizations-climb/"
+        "title": "Aerosols, Droplets, Fomites: What We Know About Transmission Of COVID-19",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/06/887919633/aerosols-droplets-fomites-what-we-know-about-transmission-of-covid-19"
     }
 ];

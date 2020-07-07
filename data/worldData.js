@@ -401,20 +401,20 @@ var marker = [
         "완치자수": 23364
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 24665,
+        "사망자수": 656,
+        "완치자수": 2585
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
         "확진자수": 23972,
         "사망자수": 981,
         "완치자수": 3429
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 23943,
-        "사망자수": 639,
-        "완치자수": 2490
     },
     {
         "Name": "Ghana",
@@ -1569,20 +1569,20 @@ var marker = [
         "완치자수": 19
     },
     {
+        "Name": "Fiji",
+        "Name_ch": "",
+        "Name_en": "Fiji",
+        "확진자수": 21,
+        "사망자수": 0,
+        "완치자수": 18
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
         "확진자수": 21,
         "사망자수": 0,
         "완치자수": 21
-    },
-    {
-        "Name": "Fiji",
-        "Name_ch": "",
-        "Name_en": "Fiji",
-        "확진자수": 19,
-        "사망자수": 0,
-        "완치자수": 18
     },
     {
         "Name": "Laos",
