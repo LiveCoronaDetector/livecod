@@ -22,9 +22,16 @@ def get_today_data(url, data):
     today = date.today().strftime("%m/%d")
     html = requests.get(url).text
     soup = BeautifulSoup(html, "html.parser")
-    tables = soup.find("div", class_="data_table mgt16").find_all("td")
-    num = [int(element.get_text().replace(",", "")) for element in tables]
-    total, release, _, death = num
+    table = soup.find("div", class_="caseTable").find_all("dd", class_="ca_value")
+
+    res = []
+    for tag in table:
+        try:
+            res.append(int(tag.text.strip().replace(",", "")))
+        except ValueError:
+            pass
+    
+    total, release, _, death = res
     flag = data[-1][1] + sum(data[-1][3:]) != sum([total, death, release])
 
     if flag:
