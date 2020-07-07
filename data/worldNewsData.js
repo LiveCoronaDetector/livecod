@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/brazil-bolsonaro-tested-coronavirus-live-updates-200706234641953.html"
     },
     {
-        "title": "WHO alters timeline to indicate it first learned of coronavirus from Internet, not Chinese officials",
-        "link": "https://www.foxnews.com/world/who-quietly-alters-coronavirus-timeline-to-indicate-it-first-learned-of-coronavirus-from-the-internet-not-the-chinese-government"
+        "title": "Australia Closes Interstate Border Because Of Coronavirus Outbreak",
+        "link": "https://www.npr.org/2020/07/06/887659557/australia-closes-interstate-border-because-of-coronavirus-outbreak"
     },
     {
         "title": "Coronavirus pandemic: Updates from around the world",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53315983"
     },
     {
-        "title": "Aerosols, Droplets, Fomites: What We Know About Transmission Of COVID-19",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/06/887919633/aerosols-droplets-fomites-what-we-know-about-transmission-of-covid-19"
+        "title": "Coronavirus: How fast is it spreading in Africa?",
+        "link": "https://www.bbc.com/news/world-africa-53181555"
     }
 ];
