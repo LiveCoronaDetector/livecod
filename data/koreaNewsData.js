@@ -9,12 +9,20 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4488481&ref=A"
     },
     {
-        "title": "[종합] 목포 40대 여성 코로나19 확진…전남 29번째",
-        "link": "http://www.newspim.com/news/view/20200707001036"
+        "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
+        "link": "http://yna.kr/AKR20200707117400056?did=1195m"
+    },
+    {
+        "title": "[속보]코로나 신규 확진 44명...해외유입 24명·지역발생 20명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071024001&code=940100"
     },
     {
         "title": "[종합] 코로나19 확진자 44명 증가...해외 24명, 경기 7명, 광주 6명",
         "link": "http://www.fnnews.com/news/202007071013013735"
+    },
+    {
+        "title": "[종합] 목포 40대 여성 코로나19 확진…전남 29번째",
+        "link": "http://www.newspim.com/news/view/20200707001036"
     },
     {
         "title": "코로나19 신규 확진자 44명 ...\"해외 유입 24명\"",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/07/2020070780148.html"
     },
     {
-        "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
-        "link": "http://www.hani.co.kr/arti/society/health/952552.html"
+        "title": "카자흐스탄發 확진자 일주일간 53명… 해외유입의 40% 넘어",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702852.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "목포 40대 여성 코로나19 확진…전남 29번째(종합)",
         "link": "http://yna.kr/AKR20200707138200054?did=1195m"
-    },
-    {
-        "title": "광주서 60대 '코로나19' 확진자 잠적 \"삶에 의지 없다\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007070092&t=NN"
-    },
-    {
-        "title": "코로나 확진 44명…해외유입 24명·국내 20명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070701323.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
