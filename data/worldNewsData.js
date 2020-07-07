@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/brazil-bolsonaro-tested-coronavirus-live-updates-200706234641953.html"
     },
     {
-        "title": "Australia Closes Interstate Border Because Of Coronavirus Outbreak",
-        "link": "https://www.npr.org/2020/07/06/887659557/australia-closes-interstate-border-because-of-coronavirus-outbreak"
+        "title": "WHO alters timeline to indicate it first learned of coronavirus from Internet, not Chinese officials",
+        "link": "https://www.foxnews.com/world/who-quietly-alters-coronavirus-timeline-to-indicate-it-first-learned-of-coronavirus-from-the-internet-not-the-chinese-government"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-07-20-intl/index.html"
     },
     {
         "title": "Fineprint: Virus was sent to Wuhan lab in 2013 | RaBtCoV/4991 is 96% similar to COVID-19",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Aerosols, Droplets, Fomites: What We Know About Transmission Of COVID-19",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/06/887919633/aerosols-droplets-fomites-what-we-know-about-transmission-of-covid-19"
-    },
-    {
-        "title": "Lakeland Regional Health using overflow ICU beds as COVID-19 hospitalizations climb",
-        "link": "https://www.wfla.com/community/health/coronavirus/lakeland-regional-health-using-overflow-icu-beds-as-covid-19-hospitalizations-climb/"
     }
 ];

@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5373788"
     },
     {
-        "title": "[속보] 코로나 신규 확진 44명... 지역발생 주춤",
-        "link": "https://hankookilbo.com/News/Read/A2020070710110003247?did=NA"
-    },
-    {
-        "title": "광주 60대 남성 확진자, 양성 통보 뒤 잠적",
-        "link": "http://www.newsis.com/view/?id=NISX20200707_0001085919&cID=10201&pID=10200"
-    },
-    {
         "title": "[종합] 코로나19 확진자 44명 증가...해외 24명, 경기 7명, 광주 6명",
         "link": "http://www.fnnews.com/news/202007071013013735"
     },
     {
-        "title": "코로나 확진 44명…해외유입 24명·국내 20명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070701323.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19로 폐쇄된 KT 광화문 사옥 다시 열었다",
-        "link": "http://www.bloter.net/archives/394313"
+        "title": "7월 7일 ‘코로나19’ 전세계 확진자 1150만명…입국금지·검역 조치 173개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/07/2020070780148.html"
     },
     {
         "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
         "link": "http://www.hani.co.kr/arti/society/health/952552.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 44명...\"해외 유입 24명\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007071032337023"
+    },
+    {
+        "title": "중수본 \"지역사회 확진자 감소…거리두기 2단계 전환 수준 아냐\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200707_0001086222&cID=10201&pID=10200"
+    },
+    {
+        "title": "'돈 벌어야 한다'…잠적 확진자, 코로나 심각성 뒤늦게 인지",
+        "link": "http://yna.kr/AKR20200707082951054?did=1195m"
     }
 ];

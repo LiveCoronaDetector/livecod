@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
     },
     {
+        "title": "제주도, 해열제 10알 복용→여행…\"1억3000만원 배상하라\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02850326625832224"
+    },
+    {
         "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",
         "link": "https://www.news1.kr/articles/?3986323"
     },
     {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
-    },
-    {
-        "title": "꼬리 무는 광주 집단감염…광륵사發 확진자 80명",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020070514504220917"
     }
 ];
