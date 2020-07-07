@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200707082951054?did=1195m"
     },
     {
-        "title": "[코로나19] 고양시 원당성당발 확진자 6명 발생",
-        "link": "http://www.fnnews.com/news/202007072210127993"
-    },
-    {
         "title": "목포서 40대 여성 코로나19 확진...광주 117번 확진자의 접촉자",
         "link": "http://www.fnnews.com/news/202007071623193249"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
         "link": "http://www.hani.co.kr/arti/society/health/952552.html"
+    },
+    {
+        "title": "\"코로나 걸리면 죽겠다\" 광주 60대 확진자 전남 영광서 발견",
+        "link": "https://news.joins.com/article/olink/23413504"
     }
 ];
