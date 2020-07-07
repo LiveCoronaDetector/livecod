@@ -5,16 +5,8 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4488481&ref=A"
     },
     {
-        "title": "대전서 코로나19 확진자 3명 더 나와…당진·금산도 4명 추가(종합)",
-        "link": "http://yna.kr/AKR20200707133251063?did=1195m"
-    },
-    {
         "title": "오늘 서울 코로나19 확진자 9명 추가…누계 1384명",
         "link": "https://view.asiae.co.kr/article/2020070719270214274"
-    },
-    {
-        "title": "카자흐스탄發 확진자 일주일간 53명… 해외유입의 40% 넘어",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702852.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "'돈 벌어야 한다'…잠적 확진자, 코로나 심각성 뒤늦게 인지",
@@ -23,6 +15,10 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 44명 ...\"해외 유입 24명\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202007071146139973"
+    },
+    {
+        "title": "카자흐스탄發 확진자 일주일간 53명… 해외유입의 40% 넘어",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702852.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "목포서 40대 여성 코로나19 확진...광주 117번 확진자의 접촉자",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/952552.html"
     },
     {
-        "title": "\"코로나 걸리면 죽겠다\" 광주 60대 확진자 전남 영광서 발견",
-        "link": "https://news.joins.com/article/olink/23413504"
+        "title": "마스크 착용 거부하더니…보우소나루 브라질 대통령, 코로나19 확진",
+        "link": "https://www.donga.com/news/article/all/20200708/101865461/1"
+    },
+    {
+        "title": "브라질 대통령, 코로나19 확진…\"이게 인생, 공포에 떨 이유 없다\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
     }
 ];

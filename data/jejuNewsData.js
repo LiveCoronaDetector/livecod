@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.jejumaeil.net/news/articleView.html?idxno=210243"
     },
     {
-        "title": "광주 광륵사 관련 코로나19 신규확진 7명 추가…87명으로 늘어",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=337910"
-    },
-    {
         "title": "클럽 이후 국내 코로나19, GH그룹…\"3~4월 해외유입이 유행 주도\"(종합2보)",
         "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",
         "link": "https://www.news1.kr/articles/?3986323"
+    },
+    {
+        "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
+        "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     }
 ];
