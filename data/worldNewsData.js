@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-53319517"
     },
     {
-        "title": "Coronavirus live: Palestinian health minister calls to extend West Bank lockdown",
+        "title": "Coronavirus Israel live: 1,137 new cases confirmed in 24 hours in biggest daily rise",
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-breaking-live-updates-july-1.8970693"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/asia/melbourne-coronavirus-lockdown-intl-hnk/index.html"
     },
     {
-        "title": "Yes, COVID-19 Deaths Are Down. But There Are Worrying Signs of a Major Spike Ahead",
-        "link": "https://www.msn.com/en-us/news/us/yes-covid-19-deaths-are-down-but-there-are-worrying-signs-of-a-major-spike-ahead/ar-BB16rtUw"
-    },
-    {
-        "title": "International Student Visas at Risk as Schools Go Solely Online",
-        "link": "https://www.youtube.com/watch?v=g2wqflJiCuU"
-    },
-    {
-        "title": "World Health Organization holds briefing after scientists say airborne transmission of coronavirus is a \"real risk\"",
-        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     },
     {
         "title": "Brazilian president Jair Bolsonaro tests positive for coronavirus",
         "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
+    },
+    {
+        "title": "International students may need to leave U.S.",
+        "link": "https://www.youtube.com/watch?v=rCb7Arozn9o"
+    },
+    {
+        "title": "World Health Organization holds briefing after scientists say airborne transmission of coronavirus is a \"real risk\"",
+        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
     }
 ];
