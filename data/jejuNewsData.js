@@ -9,14 +9,6 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[이지 보고서] 코로나가 바꾼 여름휴가 트렌드, 국내 여행 예약 전년比 109%↑",
-        "link": "http://www.ezyeconomy.com/news/articleView.html?idxno=102774"
-    },
-    {
-        "title": "[슬기로운라디오] 코로나 이후 멈춘 방과 후 교실, 방과 후 강사들은?",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007071129044004"
-    },
-    {
         "title": "코로나19로 올 여름 국내여행객 2배 '껑충'",
         "link": "http://www.inews24.com/view/1279592"
     },
@@ -37,7 +29,15 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
     },
     {
-        "title": "제주도, `해열제 복용·여행 강행` 확진자에 1억3000만원 손배소 제기",
-        "link": "http://news.mk.co.kr/newsRead.php?no=695777&year=2020"
+        "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",
+        "link": "https://www.news1.kr/articles/?3986323"
+    },
+    {
+        "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
+        "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "꼬리 무는 광주 집단감염…광륵사發 확진자 80명",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020070514504220917"
     }
 ];
