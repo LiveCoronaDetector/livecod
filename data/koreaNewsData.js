@@ -9,27 +9,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200707082900054?did=1195m"
     },
     {
-        "title": "코로나 확진 60대 남성 자살 암시 후 잠적",
-        "link": "https://hankookilbo.com/News/Read/A2020070708270004245?did=NA"
+        "title": "코로나19 신규 확진 44명…아시아 지역 유입 환자 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4488481&ref=A"
     },
     {
-        "title": "방역당국 \"최근 국내 코로나19, '전파력 6배' GH 바이러스\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007060329&t=NN"
+        "title": "광주서 60대 '코로나19' 확진자 잠적 \"삶에 의지 없다\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007070092&t=NN"
+    },
+    {
+        "title": "국내 유행 코로나19는 '전파력 6배 높다'는 GH 그룹 바이러스",
+        "link": "http://yna.kr/AKR20200706106200530?did=1195m"
     },
     {
         "title": "韓코로나19 치료제 해외 임상 봇물…”U턴 전략도”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/06/2020070601452.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "'코로나19' 신규 확진자, 하루새 44명 발생…절반 이상이 해외입국자",
-        "link": "http://www.inews24.com/view/1279732"
-    },
-    {
         "title": "서울 코로나19 확진 3명↑…중랑구 일가족 확진 늘어",
         "link": "https://www.nocutnews.co.kr/news/5373788"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 44명…수도권 12명, 광주 6명",
+        "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
         "link": "http://www.hani.co.kr/arti/society/health/952552.html"
     },
     {

@@ -9,28 +9,28 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/06/dr-anthony-fauci-says-the-average-age-of-us-coronavirus-patients-has-dropped-by-15-years-as-sun-belt-states-gets-hit.html"
     },
     {
-        "title": "Gov’t imposes partial lockdown as coronavirus cases spike",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-israel-passes-30000-cases-634021"
+        "title": "Second Coronavirus Wave Slams Israel",
+        "link": "https://www.wsj.com/articles/second-coronavirus-wave-slams-israel-11594057852"
     },
     {
         "title": "Spain's coronavirus antibodies study adds evidence against herd immunity",
         "link": "https://www.cnn.com/2020/07/06/health/spain-coronavirus-antibody-study-lancet-intl/index.html"
     },
     {
-        "title": "Coronavirus live updates: California asks more counties to close indoor businesses as cases grow",
+        "title": "Coronavirus live updates: Australia closes interstate border; California asks indoor businesses to close",
         "link": "https://www.cnbc.com/2020/07/06/coronavirus-live-updates.html"
     },
     {
-        "title": "WHO alters timeline to indicate it first learned of coronavirus from Internet, not Chinese officials",
-        "link": "https://www.foxnews.com/world/who-quietly-alters-coronavirus-timeline-to-indicate-it-first-learned-of-coronavirus-from-the-internet-not-the-chinese-government"
+        "title": "Australia Closes Interstate Border Because Of Coronavirus Outbreak",
+        "link": "https://www.npr.org/2020/07/06/887659557/australia-closes-interstate-border-because-of-coronavirus-outbreak"
     },
     {
         "title": "Live Coronavirus Updates: Miami Reverses Course on Reopening",
         "link": "https://www.nytimes.com/2020/07/06/world/coronavirus-updates.html"
     },
     {
-        "title": "U.S. coronavirus case top 2.8M as scientists claim WHO is downplaying the virus' airborne risk",
-        "link": "https://www.youtube.com/watch?v=izQ4AK_SuWU"
+        "title": "WHO alters timeline to indicate it first learned of coronavirus from Internet, not Chinese officials",
+        "link": "https://www.foxnews.com/world/who-quietly-alters-coronavirus-timeline-to-indicate-it-first-learned-of-coronavirus-from-the-internet-not-the-chinese-government"
     },
     {
         "title": "Coronavirus: Spanish study casts doubt on herd immunity",
