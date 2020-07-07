@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-breaking-live-updates-july-1.8970693"
     },
     {
-        "title": "Coronavirus: Spanish study casts doubt on herd immunity feasibility",
-        "link": "https://www.bbc.com/news/world-europe-53315983"
+        "title": "Herd immunity strategies called into question after coronavirus antibody study in Spain",
+        "link": "https://www.cnbc.com/2020/07/07/herd-immunity-questioned-after-spanish-coronavirus-antibody-study.html"
     },
     {
         "title": "India Surpasses Russia In Reported Coronavirus Infections : Coronavirus Live Updates",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=elWG2x8IW2k"
     },
     {
-        "title": "Coronavirus: How fast is it spreading in Africa?",
-        "link": "https://www.bbc.com/news/world-africa-53181555"
+        "title": "Don't count on ever seeing Trump's 'Garden of American Heroes'",
+        "link": "https://news.yahoo.com/dont-count-on-ever-seeing-trumps-garden-of-american-heroes-184919316.html"
     },
     {
         "title": "World Health Organization holds briefing today after scientists say airborne transmission of coronavirus is a \"real risk\" - watch live stream",

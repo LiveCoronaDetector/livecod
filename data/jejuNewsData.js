@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "제주도, 해열제 복용하며 여행한 안산 확진자에 손해배상 소송",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
+    },
+    {
         "title": "국내외 코로나19 유행 확산 이유는 뭘까…G그룹 변이에 주목",
         "link": "http://www.newsis.com/view/?id=NISX20200707_0001086674&cID=10201&pID=10200"
     },
@@ -27,10 +31,6 @@ var jejuNewsData = [
     {
         "title": "코로나 20번째 확진자, 28명 접촉",
         "link": "http://www.jejumaeil.net/news/articleView.html?idxno=210243"
-    },
-    {
-        "title": "광주 광륵사 관련 코로나19 신규확진 7명 추가…87명으로 늘어",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=337910"
     },
     {
         "title": "클럽 이후 국내 코로나19, GH그룹…\"3~4월 해외유입이 유행 주도\"(종합2보)",
