@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/06/coronavirus-live-updates.html"
     },
     {
-        "title": "Australia to seal off 6.6 million people in virus-hit state as outbreak worsens",
-        "link": "https://www.cnn.com/2020/07/06/asia/australia-victoria-coronavirus-intl-hnk/index.html"
+        "title": "Australia Closes Interstate Border Because Of Coronavirus Outbreak",
+        "link": "https://www.npr.org/2020/07/06/887659557/australia-closes-interstate-border-because-of-coronavirus-outbreak"
     },
     {
         "title": "July 6 coronavirus news",
