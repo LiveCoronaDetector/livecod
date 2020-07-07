@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/indepth/interactive/2020/07/infographic-south-africa-reached-200000-coronavirus-cases-200706085320935.html"
     },
     {
-        "title": "Brazil's Jair Bolsonaro tests positive for Covid-19 after months of dismissing the seriousness of the virus",
-        "link": "https://www.cnn.com/2020/07/07/americas/brazil-bolsonaro-positive-coronavirus-intl/index.html"
+        "title": "Brazil’s Bolsonaro tests positive for coronavirus",
+        "link": "https://www.washingtonpost.com/world/the_americas/coronavirus-brazil-bolsonaro-tests-positive/2020/07/07/5fa71548-c049-11ea-b4f6-cb39cd8940fb_story.html"
     },
     {
-        "title": "Second Coronavirus Wave Slams Israel",
-        "link": "https://www.wsj.com/articles/second-coronavirus-wave-slams-israel-11594057852"
+        "title": "Israel public health chief quits amid rise in coronavirus cases",
+        "link": "https://www.theguardian.com/world/2020/jul/07/israeli-public-health-chief-quits-amid-rise-in-coronavirus-cases"
     },
     {
         "title": "Herd immunity strategies called into question after coronavirus antibody study in Spain",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/asia/melbourne-coronavirus-lockdown-intl-hnk/index.html"
     },
     {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+        "title": "Trump administration begins formal withdrawal from World Health Organization",
+        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-trade-organization/index.html"
     },
     {
         "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
     },
     {
-        "title": "Trump administration formally withdraws US from WHO | TheHill",
-        "link": "https://thehill.com/homenews/administration/506214-trump-administration-formally-withdraws-us-from-WHO-"
+        "title": "Masks are effective only if you wear them properly. Here's the right (and wrong) way",
+        "link": "https://www.cnn.com/2020/07/07/health/how-to-wear-mask-properly-wellness-trnd/index.html"
     },
     {
-        "title": "Brazilian president Jair Bolsonaro tests positive for coronavirus",
-        "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
+        "title": "International Student Visas at Risk as Schools Go Solely Online",
+        "link": "https://www.youtube.com/watch?v=g2wqflJiCuU"
     }
 ];

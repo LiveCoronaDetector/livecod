@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23413504"
     },
     {
-        "title": "마스크 착용 거부하더니…보우소나루 브라질 대통령, 코로나19 확진",
-        "link": "https://www.donga.com/news/article/all/20200708/101865461/1"
+        "title": "광주서 60대 남성 코로나19 확진자 잠적…경찰 행방 추적",
+        "link": "https://www.nocutnews.co.kr/news/5373670"
     }
 ];
