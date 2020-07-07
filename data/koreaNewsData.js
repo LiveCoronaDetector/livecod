@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200707117400056?did=1195m"
     },
     {
-        "title": "코로나 신규 확진자 44명…수도권 12명, 광주 6명",
-        "link": "http://www.hani.co.kr/arti/society/health/952552.html"
+        "title": "마스크 착용 거부하더니…보우소나루 브라질 대통령, 코로나19 확진",
+        "link": "https://www.donga.com/news/article/all/20200708/101865461/1"
     },
     {
-        "title": "\"코로나 걸리면 죽겠다\" 광주 60대 확진자 전남 영광서 발견",
-        "link": "https://news.joins.com/article/olink/23413504"
+        "title": "브라질 대통령, 코로나19 확진…\"이게 인생, 공포에 떨 이유 없다\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
     },
     {
-        "title": "[속보] 마스크 거부하던 브라질 대통령, 코로나 양성판정",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/08/2020070800050.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "미, '코로나19 대응 불만' WHO 탈퇴 공식통보…1년뒤 탈퇴 완료(종합)",
+        "link": "http://yna.kr/AKR20200708006051071?did=1195m"
     }
 ];

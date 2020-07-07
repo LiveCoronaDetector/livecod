@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/indepth/interactive/2020/07/infographic-south-africa-reached-200000-coronavirus-cases-200706085320935.html"
     },
     {
-        "title": "Brazil’s Bolsonaro tests positive for coronavirus",
-        "link": "https://www.washingtonpost.com/world/the_americas/coronavirus-brazil-bolsonaro-tests-positive/2020/07/07/5fa71548-c049-11ea-b4f6-cb39cd8940fb_story.html"
+        "title": "Brazil's Jair Bolsonaro tests positive for Covid-19 after months of dismissing the seriousness of the virus",
+        "link": "https://www.cnn.com/2020/07/07/americas/brazil-bolsonaro-positive-coronavirus-intl/index.html"
     },
     {
         "title": "Israel public health chief quits amid rise in coronavirus cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
     },
     {
-        "title": "Brazilian president Jair Bolsonaro tests positive for coronavirus",
-        "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
+        "title": "Trump officially pulls US out of World Health Organization amid pandemic – live",
+        "link": "https://www.theguardian.com/us-news/live/2020/jul/07/joe-biden-donald-trump-delaware-new-jersey-primaries-coronavirus-live-updates"
     }
 ];
