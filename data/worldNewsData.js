@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/asia/melbourne-coronavirus-lockdown-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: Former FDA chief Scott Gottlieb on achieving herd immunity",
-        "link": "https://www.youtube.com/watch?v=EjPRnEBIWSI"
+        "title": "Live Coronavirus Updates: Miami Reverses Course on Reopening",
+        "link": "https://www.nytimes.com/2020/07/06/world/coronavirus-updates.html"
     },
     {
-        "title": "U.S. coronavirus case top 2.8M as scientists claim WHO is downplaying the virus' airborne risk",
-        "link": "https://www.youtube.com/watch?v=izQ4AK_SuWU"
-    },
-    {
-        "title": "US and Brazil lead the world in Covid-19 cases as leaders downplay the virus",
-        "link": "https://www.cnn.com/videos/world/2020/07/06/bill-weir-brazil-trump-coronavirus-dnt-vpx.cnn"
+        "title": "Fineprint: Virus was sent to Wuhan lab in 2013 | RaBtCoV/4991 is 96% similar to COVID-19",
+        "link": "https://www.youtube.com/watch?v=elWG2x8IW2k"
     },
     {
         "title": "Aerosols, Droplets, Fomites: What We Know About Transmission Of COVID-19",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/06/887919633/aerosols-droplets-fomites-what-we-know-about-transmission-of-covid-19"
+    },
+    {
+        "title": "Scientists urge WHO to address airborne spread of coronavirus",
+        "link": "https://www.washingtonpost.com/world/europe/coronavirus-airborne-spread-world-health-organization/2020/07/05/9de19c38-bed8-11ea-b4f6-cb39cd8940fb_story.html"
     }
 ];
