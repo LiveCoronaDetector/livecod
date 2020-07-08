@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
     },
     {
-        "title": "Why Israel is seeing a coronavirus spike after initially crushing the outbreak",
-        "link": "https://www.washingtonpost.com/world/middlle_east/why-israel-is-seeing-a-coronavirus-spike-after-initially-crushing-the-outbreak/2020/07/07/dd141158-bfbc-11ea-8908-68a2b9eae9e0_story.html"
+        "title": "The man who had coronavirus firmly in his grasp, only to see it slip through his fingers",
+        "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
     },
     {
         "title": "Herd immunity strategies called into question after coronavirus antibody study in Spain",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     },
     {
-        "title": "I’m a U.S. Citizen. Where in the World Can I Go?",
-        "link": "https://www.nytimes.com/2020/07/07/travel/american-travelers-restrictions-coronavirus.html"
+        "title": "Coronavirus: WHO rethinking how Covid-19 spreads in air",
+        "link": "https://www.bbc.com/news/world-53329946"
     }
 ];
