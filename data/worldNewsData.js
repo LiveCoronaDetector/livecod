@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Airborne transmission cannot be ruled out, WHO says",
-        "link": "https://www.bbc.com/news/world-53329946"
+        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
+        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     },
     {
         "title": "As Coronavirus Cases Top 3 Million, Fauci Warns Against Misreading a Falling Death Rate",
