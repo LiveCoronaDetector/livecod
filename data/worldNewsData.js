@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888104453/india-surpasses-russia-in-reported-coronavirus-infections"
     },
     {
-        "title": "China's jobs problem runs deeper than the coronavirus",
-        "link": "https://www.cnbc.com/2020/07/08/chinas-jobs-problem-runs-deeper-than-the-coronavirus.html"
+        "title": "Coronavirus in Australia: Melbourne begins new shutdown",
+        "link": "https://www.bbc.com/news/world-australia-53335745"
     },
     {
         "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
     },
     {
-        "title": "Trump trashes CDC school-reopening guidelines -- then CDC updates them",
-        "link": "https://www.cnn.com/2020/07/08/politics/trump-cdc-school-guidelines-funding/index.html"
+        "title": "Trump threatens to cut funding of schools that don't reopen",
+        "link": "https://www.youtube.com/watch?v=QOoEcviBNCU"
+    },
+    {
+        "title": "Trump administration begins formal withdrawal from World Health Organization",
+        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
     }
 ];
