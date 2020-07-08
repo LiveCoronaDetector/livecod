@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200707_0001086674&cID=10201&pID=10200"
     },
     {
+        "title": "제주도 공공기관 직원 통합채용 '14.3대1' 경쟁 치열",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=317676"
+    },
+    {
         "title": "제주도 공공기관 통합채용…제주신용보증재단 45대1",
         "link": "http://www.fnnews.com/news/202007081118344934"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "국내 바이러스 전파력 6배…확진자에 구상권 청구 이어져",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988822?division=NAVER"
-    },
-    {
-        "title": "제주공항 워킹스루 선별진료소 '코로나19' 차단 효과",
-        "link": "https://www.news1.kr/articles/?3986952"
     }
 ];
