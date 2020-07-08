@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007081118344934"
     },
     {
+        "title": "제주도, 해열제 먹으며 여행한 코로나19 확진자에 손해배상 청구",
+        "link": "https://www.vop.co.kr/A00001499258.html"
+    },
+    {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
@@ -21,16 +25,12 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200707_0001086674&cID=10201&pID=10200"
     },
     {
-        "title": "[이지 보고서] 코로나가 바꾼 여름휴가 트렌드, 국내 여행 예약 전년比 109%↑",
-        "link": "http://www.ezyeconomy.com/news/articleView.html?idxno=102774"
-    },
-    {
-        "title": "[슬기로운라디오] 코로나 이후 멈춘 방과 후 교실, 방과 후 강사들은?",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007071129044004"
-    },
-    {
         "title": "코로나19로 올 여름 국내여행객 2배 '껑충'",
         "link": "http://www.inews24.com/view/1279592"
+    },
+    {
+        "title": "코로나 20번째 확진자, 28명 접촉",
+        "link": "http://www.jejumaeil.net/news/articleView.html?idxno=210243"
     },
     {
         "title": "클럽 이후 국내 코로나19, GH그룹…\"3~4월 해외유입이 유행 주도\"(종합2보)",
