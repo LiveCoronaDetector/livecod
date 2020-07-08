@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/08/2020070801365.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "\"코로나19로 남편 의식불명인데 쿠팡 측은 연락도 없어\"(종합)",
-        "link": "http://yna.kr/AKR20200708093851004?did=1195m"
-    },
-    {
         "title": "국내 코로나19 확진자 10명 중 9명 ‘경증’",
         "link": "http://www.fnnews.com/news/202007081512283164"
     },
     {
-        "title": "당진 코로나19 확진자 역학조사 결과 및 동선 공개",
-        "link": "https://www.pressian.com/pages/articles/2020070811264341072?utm_source=naver&utm_medium=search"
+        "title": "'확진자 100명 육박' 광주 재확산 시작은 광륵사 아닌 방문판매",
+        "link": "http://yna.kr/AKR20200708080400054?did=1195m"
     },
     {
         "title": "[단독]LS엠트론 전주사업장서 코로나19 확진자 발생...사택 자가격리 '논란'",
         "link": "http://www.newsis.com/view/?id=NISX20200708_0001088550&cID=13001&pID=13000"
     },
     {
-        "title": "[속보] 대전서 신종 코로나19 확진자 1명 추가 발생…누적 확진자151명",
-        "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2080941"
-    },
-    {
-        "title": "전남도 코로나 초비상, 도 공무원 확진자와 골프(종합)",
-        "link": "http://yna.kr/AKR20200708153400054?did=1195m"
-    },
-    {
         "title": "KDI “코로나19 재확산에 경기위축 지속…회복에 발목”",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000989050?division=NAVER"
     },
     {
-        "title": "광주 확진자 8명 늘어 129명…고시학원·사우나 등에서 전파",
-        "link": "http://yna.kr/AKR20200708027500054?did=1195m"
+        "title": "코로나19 신규 확진자 63명...\"정규 예배외 교회 모임 금지\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007081028271664"
     },
     {
-        "title": "광주 코로나 확진자 6명 추가…'광주고시학원' 집단 감염 우려",
-        "link": "https://www.nocutnews.co.kr/news/5374696"
+        "title": "\"코로나19 걸려도, 일하다 죽어도 쿠팡은 사과를 모른다\"",
+        "link": "https://www.pressian.com/pages/articles/2020070815255540172?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "\"코로나19로 남편 의식불명인데 쿠팡 측은 연락도 없어\"(종합)",
+        "link": "http://yna.kr/AKR20200708093851004?did=1195m"
+    },
+    {
+        "title": "국내 코로나 확진자 90%가 경증…생활치료센터 입소자 64%가 무증상",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/08/2020070890095.html"
+    },
+    {
+        "title": "전남도 코로나 초비상, 도 공무원 확진자와 골프(종합)",
+        "link": "http://yna.kr/AKR20200708153400054?did=1195m"
     }
 ];

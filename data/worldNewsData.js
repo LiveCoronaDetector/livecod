@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/887797945/trudeau-wont-visit-trump-most-canadians-don-t-want-to-cross-the-border-either"
     },
     {
-        "title": "The man who had coronavirus firmly in his grasp, only to see it slip through his fingers",
+        "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
         "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/08/chinas-jobs-problem-runs-deeper-than-the-coronavirus.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
+        "title": "Trump administration begins formal withdrawal from World Health Organization",
+        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     },
     {
-        "title": "Trump administration begins formal withdrawal from World Health Organization",
-        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
-    },
-    {
         "title": "Sweden Has Become the World’s Cautionary Tale",
         "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus: WHO rethinking how Covid-19 spreads in air",
+        "link": "https://www.bbc.com/news/world-53329946"
     }
 ];
