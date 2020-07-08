@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000989050?division=NAVER"
     },
     {
-        "title": "당진 코로나19 확진자 역학조사 결과 및 동선 공개",
-        "link": "https://www.pressian.com/pages/articles/2020070811264341072?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "[단독]LS엠트론 전주사업장서 코로나19 확진자 발생...사택 자가격리 '논란'",
         "link": "http://www.newsis.com/view/?id=NISX20200708_0001088550&cID=13001&pID=13000"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "고양 원당성당서 집단감염…잠적 확진자 10시간 만에 검거",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/08/2020070890024.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 63명...지역 발생 30명",
+        "link": "https://www.sedaily.com/NewsView/1Z5820K2O9"
     }
 ];

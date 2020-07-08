@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
     },
     {
-        "title": "국내 바이러스 전파력 6배…확진자에 구상권 청구 이어져",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988822?division=NAVER"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "국내 바이러스 전파력 6배…확진자에 구상권 청구 이어져",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988822?division=NAVER"
     }
 ];
