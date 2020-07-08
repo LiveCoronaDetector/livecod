@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     },
     {
-        "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
-        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
-    },
-    {
         "title": "US officially begins withdrawal from World Health Organization amid pandemic – live",
         "link": "https://www.theguardian.com/us-news/live/2020/jul/07/joe-biden-donald-trump-delaware-new-jersey-primaries-coronavirus-live-updates"
+    },
+    {
+        "title": "Coronavirus Live Updates: U.S. and Global News",
+        "link": "https://www.nytimes.com/2020/07/07/world/coronavirus-updates.html"
     }
 ];

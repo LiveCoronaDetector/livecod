@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200708006051071?did=1195m"
     },
     {
+        "title": "[속보]대전서 의원·백화점 근무 3명 더 코로나19 확진",
+        "link": "https://view.asiae.co.kr/article/2020070807561552631"
+    },
+    {
         "title": "브라질 대통령, 코로나19 확진…\"이게 인생, 공포에 떨 이유 없다\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
     },
@@ -13,8 +17,12 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4489074&ref=A"
     },
     {
-        "title": "오늘 서울 코로나19 확진자 9명 추가…누계 1384명",
-        "link": "https://view.asiae.co.kr/article/2020070719270214274"
+        "title": "고시학원, 광륵사, 사우나 등에서 감염된 광주 코로나19 확진자 8명 추가",
+        "link": "http://www.kwnews.co.kr/view.asp?aid=220070700144&s=501"
+    },
+    {
+        "title": "마포구서 확진자 4명 무더기 감염…서울서 확진자 9명 늘어(종합)",
+        "link": "https://www.news1.kr/articles/?3988940"
     },
     {
         "title": "카자흐스탄發 확진자 일주일간 53명… 해외유입의 40% 넘어",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 44명 ...\"해외 유입 24명\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202007071146139973"
-    },
-    {
-        "title": "목포서 40대 여성 코로나19 확진...광주 117번 확진자의 접촉자",
-        "link": "http://www.fnnews.com/news/202007071623193249"
-    },
-    {
-        "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
-        "link": "http://yna.kr/AKR20200707117400056?did=1195m"
     }
 ];
