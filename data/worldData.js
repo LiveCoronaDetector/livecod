@@ -244,9 +244,9 @@ var marker = [
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "확진자수": 51245,
-        "사망자수": 377,
-        "완치자수": 41515
+        "확진자수": 52007,
+        "사망자수": 379,
+        "완치자수": 42108
     },
     {
         "Name": "Kazakhstan",
@@ -556,9 +556,9 @@ var marker = [
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "확진자수": 8674,
+        "확진자수": 8677,
         "사망자수": 121,
-        "완치자수": 8481
+        "완치자수": 8486
     },
     {
         "Name": "El Salvador",
@@ -777,20 +777,20 @@ var marker = [
         "완치자수": 3074
     },
     {
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "확진자수": 3106,
+        "사망자수": 83,
+        "완치자수": 1791
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
         "확진자수": 3071,
         "사망자수": 51,
         "완치자수": 842
-    },
-    {
-        "Name": "Albania",
-        "Name_ch": "",
-        "Name_en": "Albania",
-        "확진자수": 3038,
-        "사망자수": 81,
-        "완치자수": 1744
     },
     {
         "Name": "Somalia",
@@ -852,9 +852,9 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 2081,
+        "확진자수": 2084,
         "사망자수": 11,
-        "완치자수": 1955
+        "완치자수": 1967
     },
     {
         "Name": "South Sudan",

@@ -9,20 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200708093851004?did=1195m"
     },
     {
-        "title": "코로나19 확진자 41% 주요증상 '기침'…확진자 90%가 경증",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03158646625832552"
-    },
-    {
-        "title": "정부대전청사에서 첫 코로나19 확진자 발생",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014778450&code=61122015&cp=nv"
-    },
-    {
         "title": "국내 코로나19 확진자 10명 중 9명 ‘경증’",
         "link": "http://www.fnnews.com/news/202007081512283164"
     },
     {
         "title": "[단독]LS엠트론 전주사업장서 코로나19 확진자 발생...사택 자가격리 '논란'",
         "link": "http://www.newsis.com/view/?id=NISX20200708_0001088550&cID=13001&pID=13000"
+    },
+    {
+        "title": "국내 코로나19 확진자 90%는 경증",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007081832001&code=940100"
     },
     {
         "title": "전남도 코로나 초비상, 도 공무원 확진자와 골프(종합)",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200708027500054?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 63명...지역 발생 30명",
-        "link": "https://www.sedaily.com/NewsView/1Z5820K2O9"
+        "title": "코로나 신규 확진자 63명...국외유입 33명, 국내발생 30명",
+        "link": "http://www.hani.co.kr/arti/society/health/952729.html"
     },
     {
         "title": "[단독]전파력 6배 강한 '변이 코로나' 천적 항체 국내서 찾았다",
         "link": "https://www.news1.kr/articles/?3988971"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 63명...지역 발생 30명",
+        "link": "https://www.sedaily.com/NewsView/1Z5820K2O9"
     }
 ];
