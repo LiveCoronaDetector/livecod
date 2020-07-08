@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020070807561552631"
     },
     {
-        "title": "브라질 대통령, 코로나19 확진…\"이게 인생, 공포에 떨 이유 없다\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
-    },
-    {
         "title": "브라질 대통령 코로나19 양성…논란 중인 ‘클로로퀸’ 복용",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4489074&ref=A"
     },
     {
-        "title": "고시학원, 광륵사, 사우나 등에서 감염된 광주 코로나19 확진자 8명 추가",
-        "link": "http://www.kwnews.co.kr/view.asp?aid=220070700144&s=501"
+        "title": "광주서 밤새 7명 코로나19 확진 판정...누적 129명",
+        "link": "http://www.fnnews.com/news/202007080822179113"
     },
     {
-        "title": "마포구서 확진자 4명 무더기 감염…서울서 확진자 9명 늘어(종합)",
-        "link": "https://www.news1.kr/articles/?3988940"
+        "title": "중남미 코로나19 누적 확진자 300만 명 넘어서",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005873229&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[단독]전파력 6배 강한 '변이 코로나' 천적 항체 국내서 찾았다",
+        "link": "https://www.news1.kr/articles/?3988971"
+    },
+    {
+        "title": "베이징 코로나19 집단감염 종식 수순…이틀째 신규 확진'0'(종합)",
+        "link": "http://yna.kr/AKR20200708050000083?did=1195m"
+    },
+    {
+        "title": "브라질 대통령, 코로나19 확진…\"이게 인생, 공포에 떨 이유 없다\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
+    },
+    {
+        "title": "오늘 서울 코로나19 확진자 9명 추가…누계 1384명",
+        "link": "https://view.asiae.co.kr/article/2020070719270214274"
     },
     {
         "title": "카자흐스탄發 확진자 일주일간 53명… 해외유입의 40% 넘어",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702852.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "'돈 벌어야 한다'…잠적 확진자, 코로나 심각성 뒤늦게 인지",
-        "link": "http://yna.kr/AKR20200707082951054?did=1195m"
-    },
-    {
-        "title": "[속보] '코로나19' 44명 늘어 1만3,181명…지역 20명·해외유입 24명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007070159&t=NN"
-    },
-    {
-        "title": "코로나19 신규 확진자 44명 ...\"해외 유입 24명\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007071146139973"
     }
 ];

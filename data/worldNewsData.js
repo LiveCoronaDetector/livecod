@@ -33,7 +33,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     },
     {
-        "title": "US officially begins withdrawal from World Health Organization amid pandemic – live",
+        "title": "US officially begins withdrawal from World Health Organization amid pandemic – as it happened",
         "link": "https://www.theguardian.com/us-news/live/2020/jul/07/joe-biden-donald-trump-delaware-new-jersey-primaries-coronavirus-live-updates"
     },
     {
