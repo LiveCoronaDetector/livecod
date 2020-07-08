@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/08/coronavirus-live-updates.html"
     },
     {
-        "title": "Trudeau led his country out of a pandemic while Trump's lack of leadership leaves the US in deep crisis",
-        "link": "https://www.cnn.com/2020/07/08/politics/trump-justin-trudeau-coronavirus-north-american-trade-agreement/index.html"
+        "title": "Confirmed coronavirus cases in the US top 3 million",
+        "link": "https://www.foxnews.com/us/coronavirus-cases-usa-3-million"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
     },
     {
-        "title": "Trump trashes CDC school-reopening guidelines -- then CDC updates them",
-        "link": "https://www.cnn.com/2020/07/08/politics/trump-cdc-school-guidelines-funding/index.html"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
     },
     {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",

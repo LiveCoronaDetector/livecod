@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/08/2020070801365.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "美 코로나19 누적 확진자 '300만명' 넘었다(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01394006625832880"
-    },
-    {
         "title": "\"코로나19 걸려도, 일하다 죽어도 쿠팡은 사과를 모른다\"",
         "link": "https://www.pressian.com/pages/articles/2020070815255540172?utm_source=naver&utm_medium=search"
     },
     {
         "title": "KDI “코로나19 재확산에 경기위축 지속…회복에 발목”",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000989050?division=NAVER"
+    },
+    {
+        "title": "美 코로나19 누적 확진자 '300만명' 넘었다(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01394006625832880"
     },
     {
         "title": "광주 확진자 8명 늘어 129명…고시학원·사우나 등에서 전파",
