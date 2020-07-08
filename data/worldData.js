@@ -401,20 +401,20 @@ var marker = [
         "완치자수": 23364
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 25428,
+        "사망자수": 677,
+        "완치자수": 2637
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
         "확진자수": 24787,
         "사망자수": 1004,
         "완치자수": 3575
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 24665,
-        "사망자수": 656,
-        "완치자수": 2585
     },
     {
         "Name": "Ghana",

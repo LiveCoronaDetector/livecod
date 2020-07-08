@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/indepth/interactive/2020/07/infographic-south-africa-reached-200000-coronavirus-cases-200706085320935.html"
     },
     {
-        "title": "Brazil's Jair Bolsonaro tests positive for Covid-19 after months of dismissing the seriousness of the virus",
-        "link": "https://www.cnn.com/2020/07/07/americas/brazil-bolsonaro-positive-coronavirus-intl/index.html"
+        "title": "Coronavirus Brazil: president Jair Bolsonaro tests positive",
+        "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
     },
     {
         "title": "Amid New Surge In Virus Cases, Israel's Top Public Health Official Resigns",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     },
     {
-        "title": "Brazilian president Jair Bolsonaro tests positive for coronavirus",
-        "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
+        "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
+        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
     },
     {
         "title": "Coronavirus Live Updates: U.S. and Global News",
