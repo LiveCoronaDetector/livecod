@@ -13,20 +13,24 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007081512283164"
     },
     {
-        "title": "KDI “코로나19 재확산에 경기위축 지속…회복에 발목”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000989050?division=NAVER"
+        "title": "당진 코로나19 확진자 역학조사 결과 및 동선 공개",
+        "link": "https://www.pressian.com/pages/articles/2020070811264341072?utm_source=naver&utm_medium=search"
     },
     {
         "title": "[단독]LS엠트론 전주사업장서 코로나19 확진자 발생...사택 자가격리 '논란'",
         "link": "http://www.newsis.com/view/?id=NISX20200708_0001088550&cID=13001&pID=13000"
     },
     {
-        "title": "코로나19 확진자 41% 주요증상 '기침'…확진자 90%가 경증",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03158646625832552"
+        "title": "[속보] 대전서 신종 코로나19 확진자 1명 추가 발생…누적 확진자151명",
+        "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2080941"
     },
     {
         "title": "전남도 코로나 초비상, 도 공무원 확진자와 골프(종합)",
         "link": "http://yna.kr/AKR20200708153400054?did=1195m"
+    },
+    {
+        "title": "KDI “코로나19 재확산에 경기위축 지속…회복에 발목”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000989050?division=NAVER"
     },
     {
         "title": "광주 확진자 8명 늘어 129명…고시학원·사우나 등에서 전파",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "광주 코로나 확진자 6명 추가…'광주고시학원' 집단 감염 우려",
         "link": "https://www.nocutnews.co.kr/news/5374696"
-    },
-    {
-        "title": "정부대전청사에서 첫 코로나19 확진자 발생",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014778450&code=61122015&cp=nv"
     }
 ];
