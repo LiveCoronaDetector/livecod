@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/08/coronavirus-live-updates.html"
     },
     {
-        "title": "Confirmed coronavirus cases in the US top 3 million",
-        "link": "https://www.foxnews.com/us/coronavirus-cases-usa-3-million"
+        "title": "Trudeau led his country out of a pandemic while Trump's lack of leadership leaves the US in deep crisis",
+        "link": "https://www.cnn.com/2020/07/08/politics/trump-justin-trudeau-coronavirus-north-american-trade-agreement/index.html"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
         "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
     },
     {
-        "title": "Coronavirus strain did not necessarily mutate to be more contagious - Business Insider",
-        "link": "https://www.businessinsider.com/coronavirus-did-not-necessarily-mutate-to-be-more-contagious-2020-7"
+        "title": "Covid-19 has exposed the limits of 'fact-denying populism', Merkel tells European Parliament",
+        "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
     },
     {
         "title": "India Surpasses Russia In Reported Coronavirus Infections : Coronavirus Live Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     },
     {
-        "title": "Trump administration begins formal withdrawal from World Health Organization",
-        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     }
 ];
