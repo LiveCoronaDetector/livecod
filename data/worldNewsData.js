@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     },
     {
-        "title": "President Trump rips Harvard: “They ought to be ashamed of themselves”",
-        "link": "https://www.youtube.com/watch?v=8lfpKh6zvf4"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
     }
 ];
