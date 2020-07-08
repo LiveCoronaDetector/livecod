@@ -5,28 +5,28 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/08/2020070801365.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나 신규확진 63명...해외유입 33명으로 3개월 만에 최다",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007081023001&code=940100"
-    },
-    {
         "title": "국내 코로나19 확진자 10명 중 9명 ‘경증’",
         "link": "http://www.fnnews.com/news/202007081512283164"
-    },
-    {
-        "title": "정부대전청사서 코로나19 첫 확진자 나와…40대 조달청 직원",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02820806625832552"
     },
     {
         "title": "확진자 다수 발생 광주고시학원 수강생 대부분 마스크 미착용",
         "link": "http://yna.kr/AKR20200708079400054?did=1195m"
     },
     {
-        "title": "'확진자 100명 육박' 광주 재확산 시작은 광륵사 아닌 방문판매",
-        "link": "http://yna.kr/AKR20200708080400054?did=1195m"
+        "title": "정부대전청사서 코로나19 첫 확진자 나와…40대 조달청 직원",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02820806625832552"
+    },
+    {
+        "title": "[단독]LS엠트론 전주사업장서 코로나19 확진자 발생...사택 자가격리 '논란'",
+        "link": "http://www.newsis.com/view/?id=NISX20200708_0001088550&cID=13001&pID=13000"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 63명...지역 발생 30명",
         "link": "https://www.sedaily.com/NewsView/1Z5820K2O9"
+    },
+    {
+        "title": "코로나19 국내 확진자 10명 중 4명 무증상 감염",
+        "link": "https://hankookilbo.com/News/Read/A2020070815360004631?did=NA"
     },
     {
         "title": "코로나19 신규 확진자 63명...\"정규 예배외 교회 모임 금지\"",

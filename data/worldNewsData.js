@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus: Airborne transmission cannot be ruled out, WHO says",
+        "link": "https://www.bbc.com/news/world-53329946"
     },
     {
         "title": "As Coronavirus Cases Top 3 Million, Fauci Warns Against Misreading a Falling Death Rate",
         "link": "https://www.nytimes.com/2020/07/07/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Global report: WHO says 'evidence emerging' of airborne coronavirus spread",
-        "link": "https://www.theguardian.com/world/2020/jul/08/who-says-evidence-emerging-of-airborne-coronavirus-spread"
     }
 ];
