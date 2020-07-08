@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200708006051071?did=1195m"
     },
     {
+        "title": "코로나19 신규 확진자 63명...\"정규 예배외 교회 모임 금지\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007081028271664"
+    },
+    {
         "title": "베이징 코로나19 이틀째 신규 확진 ‘0’",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4489307&ref=A"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200708027500054?did=1195m"
     },
     {
-        "title": "[속보] 마스크 거부하던 브라질 대통령, 코로나 양성판정",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/08/2020070800050.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "브라질 대통령, 코로나19 확진…\"이게 인생, 공포에 떨 이유 없다\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
+        "title": "[속보] 코로나19 신규 확진자 63명...지역 발생 30명",
+        "link": "https://www.sedaily.com/NewsView/1Z5820K2O9"
     },
     {
         "title": "[속보]대전서 의원·백화점 근무 3명 더 코로나19 확진",
         "link": "https://view.asiae.co.kr/article/2020070807561552631"
     },
     {
-        "title": "독감에 불과하다던 보우소나루 브라질대통령 코로나 확진…\"이게 인생\"(종합)",
-        "link": "https://www.news1.kr/articles/?3989071"
+        "title": "브라질 대통령 코로나19 양성…논란 중인 ‘클로로퀸’ 복용",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4489074&ref=A"
     },
     {
-        "title": "중남미 코로나19 누적 확진자 300만 명 넘어서",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005873229&plink=ORI&cooper=NAVER"
+        "title": "코로나 진앙 중남미로 이동, 확진자 300만 넘었다",
+        "link": "https://www.news1.kr/articles/?3989126"
     },
     {
-        "title": "코로나19 신규 확진자 63명...\"정규 예배외 교회 모임 금지\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007081028271664"
+        "title": "WHO \"코로나 공기전파 새 증거 찾았다\" 방역지침 바뀌나",
+        "link": "https://news.joins.com/article/olink/23414312"
     }
 ];
