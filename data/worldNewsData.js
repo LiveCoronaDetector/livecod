@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
-    },
-    {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
+    },
+    {
+        "title": "I’m a U.S. Citizen. Where in the World Can I Go?",
+        "link": "https://www.nytimes.com/2020/07/07/travel/american-travelers-restrictions-coronavirus.html"
     }
 ];
