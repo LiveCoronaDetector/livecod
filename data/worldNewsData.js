@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
     },
     {
-        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
-        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
+        "title": "Trump administration begins formal withdrawal from World Health Organization",
+        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
+        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     }
 ];
