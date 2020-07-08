@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
     },
     {
-        "title": "Trump Pressures Schools To Reopen Despite Coronavirus Surge | TODAY",
-        "link": "https://www.youtube.com/watch?v=oY-kdVjGt8E"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
+        "title": "Trump trashes CDC school-reopening guidelines -- then CDC updates them",
+        "link": "https://www.cnn.com/2020/07/08/politics/trump-cdc-school-guidelines-funding/index.html"
     },
     {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
     }
 ];
