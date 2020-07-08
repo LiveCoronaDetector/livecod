@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988822?division=NAVER"
     },
     {
-        "title": "제주공항 워킹스루 선별진료소 '코로나19' 차단 효과",
-        "link": "https://www.news1.kr/articles/?3986952"
+        "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
+        "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     }
 ];

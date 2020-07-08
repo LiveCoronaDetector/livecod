@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/08/coronavirus-live-updates.html"
     },
     {
-        "title": "Trudeau's White House Snub Reflects Canada's Fears Of Coronavirus In US : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/887797945/trudeau-wont-visit-trump-most-canadians-don-t-want-to-cross-the-border-either"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",

@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200708093851004?did=1195m"
     },
     {
+        "title": "KDI “코로나19 재확산에 경기위축 지속…회복에 발목”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000989050?division=NAVER"
+    },
+    {
         "title": "당진 코로나19 확진자 역학조사 결과 및 동선 공개",
         "link": "https://www.pressian.com/pages/articles/2020070811264341072?utm_source=naver&utm_medium=search"
     },
     {
         "title": "[단독]LS엠트론 전주사업장서 코로나19 확진자 발생...사택 자가격리 '논란'",
         "link": "http://www.newsis.com/view/?id=NISX20200708_0001088550&cID=13001&pID=13000"
-    },
-    {
-        "title": "KDI “코로나19 재확산에 경기위축 지속…회복에 발목”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000989050?division=NAVER"
     },
     {
         "title": "광주 확진자 8명 늘어 129명…고시학원·사우나 등에서 전파",
