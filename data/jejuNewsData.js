@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.inews24.com/view/1279592"
     },
     {
-        "title": "클럽 이후 국내 코로나19, GH그룹…\"3~4월 해외유입이 유행 주도\"(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "클럽 이후 국내 코로나19, GH그룹…\"3~4월 해외유입이 유행 주도\"(종합2보)",
+        "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
     },
     {
         "title": "국내 바이러스 전파력 6배…확진자에 구상권 청구 이어져",

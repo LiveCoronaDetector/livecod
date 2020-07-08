@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
+        "title": "Trump Pressures Schools To Reopen Despite Coronavirus Surge | TODAY",
+        "link": "https://www.youtube.com/watch?v=oY-kdVjGt8E"
     },
     {
-        "title": "Trump administration begins formal withdrawal from World Health Organization",
-        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
     },
     {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
