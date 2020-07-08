@@ -9,32 +9,32 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200708027500054?did=1195m"
     },
     {
-        "title": "[속보]코로나 신규확진 63명...해외유입 33명으로 3개월 만에 최다",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007081023001&code=940100"
+        "title": "독감에 불과하다던 보우소나루 브라질대통령 코로나 확진…\"이게 인생\"(종합)",
+        "link": "https://www.news1.kr/articles/?3989071"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 63명...지역 발생 30명",
         "link": "https://www.sedaily.com/NewsView/1Z5820K2O9"
     },
     {
-        "title": "광주서 밤새 7명 코로나19 확진 판정...누적 129명",
-        "link": "http://www.fnnews.com/news/202007080822179113"
-    },
-    {
-        "title": "독감에 불과하다던 보우소나루 브라질대통령 코로나 확진…\"이게 인생\"(종합)",
-        "link": "https://www.news1.kr/articles/?3989071"
+        "title": "코로나19 신규 확진자 63명...\"정규 예배외 교회 모임 금지\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007081028271664"
     },
     {
         "title": "브라질 대통령, 코로나19 확진…\"이게 인생, 공포에 떨 이유 없다\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200708_0001087354&cID=10101&pID=10100"
     },
     {
-        "title": "코로나19 신규 확진자 63명...\"정규 예배외 교회 모임 금지\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007081028271664"
+        "title": "서울시, 80대 기저질환자 코로나19로 사망..9번째",
+        "link": "http://www.fnnews.com/news/202007081108377639"
     },
     {
         "title": "WHO \"코로나 공기전파 새 증거 찾았다\" 방역지침 바뀌나",
         "link": "https://news.joins.com/article/olink/23414312"
+    },
+    {
+        "title": "브라질 대통령 코로나19 양성…논란 중인 ‘클로로퀸’ 복용",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4489074&ref=A"
     },
     {
         "title": "미, '코로나19 대응 불만' WHO 탈퇴 공식통보…1년뒤 탈퇴 완료(종합)",

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
     },
     {
-        "title": "Amid New Surge In Virus Cases, Israel's Top Public Health Official Resigns",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888148317/amid-new-surge-in-virus-cases-israels-top-public-health-official-resigns"
+        "title": "Why Israel is seeing a coronavirus spike after initially crushing the outbreak",
+        "link": "https://www.washingtonpost.com/world/middlle_east/why-israel-is-seeing-a-coronavirus-spike-after-initially-crushing-the-outbreak/2020/07/07/dd141158-bfbc-11ea-8908-68a2b9eae9e0_story.html"
     },
     {
         "title": "Herd immunity strategies called into question after coronavirus antibody study in Spain",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus Live Updates: U.S. and Global News",
         "link": "https://www.nytimes.com/2020/07/07/world/coronavirus-updates.html"
-    },
-    {
-        "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
-        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
-    },
-    {
-        "title": "I’m a U.S. Citizen, Where in the World Can I Go?",
-        "link": "https://www.nytimes.com/2020/07/07/travel/american-travelers-restrictions-coronavirus.html"
     }
 ];
