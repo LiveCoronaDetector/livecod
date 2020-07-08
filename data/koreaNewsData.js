@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/08/2020070801365.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보] '코로나19' 63명 늘어 1만3,244명…해외유입 33명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007080146&t=NN"
+    },
+    {
         "title": "광주 확진자 8명 늘어 129명…고시학원·사우나 등에서 전파",
         "link": "http://yna.kr/AKR20200708027500054?did=1195m"
     },
@@ -13,20 +17,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5820K2O9"
     },
     {
-        "title": "브라질 대통령 코로나19 양성…논란 중인 ‘클로로퀸’ 복용",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4489074&ref=A"
+        "title": "베이징 코로나19 이틀째 신규 확진 ‘0’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4489307&ref=A"
     },
     {
         "title": "[속보]대전서 의원·백화점 근무 3명 더 코로나19 확진",
         "link": "https://view.asiae.co.kr/article/2020070807561552631"
     },
     {
-        "title": "베이징 코로나19 집단감염 종식 수순…이틀째 신규 확진'0'(종합)",
-        "link": "http://yna.kr/AKR20200708050000083?did=1195m"
-    },
-    {
-        "title": "독감에 불과하다던 보우소나루 브라질대통령 코로나 확진…\"이게 인생\"(종합)",
-        "link": "https://www.news1.kr/articles/?3989071"
+        "title": "[단독]전파력 6배 강한 '변이 코로나' 천적 항체 국내서 찾았다",
+        "link": "https://www.news1.kr/articles/?3988971"
     },
     {
         "title": "코로나19 신규 확진자 63명...\"정규 예배외 교회 모임 금지\"",
