@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/08/coronavirus-live-updates.html"
     },
     {
-        "title": "U.S. reports record single-day spike of 60,000 new coronavirus cases",
-        "link": "https://www.cnbc.com/2020/07/08/us-reports-record-single-day-spike-of-60000-new-coronavirus-cases.html"
+        "title": "Confirmed coronavirus cases in the US top 3 million",
+        "link": "https://www.foxnews.com/us/coronavirus-cases-usa-3-million"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
         "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
     },
     {
-        "title": "Covid-19 has exposed the limits of 'fact-denying populism', Merkel tells European Parliament",
-        "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
+        "title": "Coronavirus strain did not necessarily mutate to be more contagious - Business Insider",
+        "link": "https://www.businessinsider.com/coronavirus-did-not-necessarily-mutate-to-be-more-contagious-2020-7"
     },
     {
         "title": "India Surpasses Russia In Reported Coronavirus Infections : Coronavirus Live Updates",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
     },
     {
-        "title": "Trump Pressures Schools To Reopen Despite Coronavirus Surge | TODAY",
-        "link": "https://www.youtube.com/watch?v=oY-kdVjGt8E"
+        "title": "Trump trashes CDC school-reopening guidelines -- then CDC updates them",
+        "link": "https://www.cnn.com/2020/07/08/politics/trump-cdc-school-guidelines-funding/index.html"
+    },
+    {
+        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
+        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     },
     {
         "title": "Trump administration begins formal withdrawal from World Health Organization",
         "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
-    },
-    {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     }
 ];

@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3144791,
-        "사망자수": 134685,
-        "완치자수": 1379647
+        "확진자수": 3146831,
+        "사망자수": 134725,
+        "완치자수": 1384621
     },
     {
         "Name": "브라질",
@@ -97,20 +97,20 @@ var marker = [
         "완치자수": 140965
     },
     {
+        "Name": "남아프리카 공화국",
+        "Name_ch": "南非共和国",
+        "Name_en": "South Africa",
+        "확진자수": 224665,
+        "사망자수": 3600,
+        "완치자수": 106842
+    },
+    {
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
         "확진자수": 220144,
         "사망자수": 2059,
         "완치자수": 158050
-    },
-    {
-        "Name": "남아프리카 공화국",
-        "Name_ch": "南非共和国",
-        "Name_en": "South Africa",
-        "확진자수": 215855,
-        "사망자수": 3502,
-        "완치자수": 102299
     },
     {
         "Name": "터키",
@@ -625,6 +625,14 @@ var marker = [
         "완치자수": 6800
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "확진자수": 6774,
+        "사망자수": 120,
+        "완치자수": 2430
+    },
+    {
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
@@ -649,6 +657,14 @@ var marker = [
         "완치자수": 3037
     },
     {
+        "Name": "Gabon",
+        "Name_ch": "",
+        "Name_en": "Gabon",
+        "확진자수": 5871,
+        "사망자수": 46,
+        "완치자수": 2682
+    },
+    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
@@ -657,28 +673,12 @@ var marker = [
         "완치자수": 2769
     },
     {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "확진자수": 5846,
-        "사망자수": 103,
-        "완치자수": 2430
-    },
-    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "확진자수": 5836,
         "사망자수": 24,
         "완치자수": 1929
-    },
-    {
-        "Name": "Gabon",
-        "Name_ch": "",
-        "Name_en": "Gabon",
-        "확진자수": 5743,
-        "사망자수": 46,
-        "완치자수": 2574
     },
     {
         "Name": "Guinea",
@@ -953,20 +953,20 @@ var marker = [
         "완치자수": 1122
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "확진자수": 1542,
+        "사망자수": 18,
+        "완치자수": 730
+    },
+    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
         "확진자수": 1537,
         "사망자수": 22,
         "완치자수": 1492
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "확진자수": 1499,
-        "사망자수": 18,
-        "완치자수": 724
     },
     {
         "Name": "홍콩",
@@ -1113,6 +1113,14 @@ var marker = [
         "완치자수": 395
     },
     {
+        "Name": "Zimbabwe",
+        "Name_ch": "",
+        "Name_en": "Zimbabwe",
+        "확진자수": 885,
+        "사망자수": 9,
+        "완치자수": 206
+    },
+    {
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
@@ -1129,14 +1137,6 @@ var marker = [
         "완치자수": 800
     },
     {
-        "Name": "Zimbabwe",
-        "Name_ch": "",
-        "Name_en": "Zimbabwe",
-        "확진자수": 787,
-        "사망자수": 9,
-        "완치자수": 201
-    },
-    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
@@ -1150,7 +1150,7 @@ var marker = [
         "Name_en": "Sao Tome and Principe",
         "확진자수": 724,
         "사망자수": 13,
-        "완치자수": 279
+        "완치자수": 283
     },
     {
         "Name": "일본크루즈",
