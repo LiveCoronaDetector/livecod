@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/07/herd-immunity-questioned-after-spanish-coronavirus-antibody-study.html"
     },
     {
-        "title": "Anti-lockdown protesters storm Serbian Parliament - Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/brazil-bolsonaro-tested-coronavirus-live-updates-200706234641953.html"
+        "title": "India Surpasses Russia In Reported Coronavirus Infections : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888104453/india-surpasses-russia-in-reported-coronavirus-infections"
     },
     {
         "title": "China's jobs problem runs deeper than the coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
     },
     {
+        "title": "Trump ignores recent calamities in his push to open schools",
+        "link": "https://www.cnn.com/2020/07/08/politics/donald-trump-schools-coronavirus-education/index.html"
+    },
+    {
         "title": "Trump administration begins formal withdrawal from World Health Organization",
         "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
-    },
-    {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     }
 ];

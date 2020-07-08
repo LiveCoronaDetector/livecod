@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/08/2020070801365.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "\"코로나19로 남편 의식불명인데 쿠팡 측은 연락도 없어\"(종합)",
-        "link": "http://yna.kr/AKR20200708093851004?did=1195m"
-    },
-    {
         "title": "국내 코로나19 확진자 10명 중 9명 ‘경증’",
         "link": "http://www.fnnews.com/news/202007081512283164"
+    },
+    {
+        "title": "\"코로나19로 남편 의식불명인데 쿠팡 측은 연락도 없어\"(종합)",
+        "link": "http://yna.kr/AKR20200708093851004?did=1195m"
     },
     {
         "title": "당진 코로나19 확진자 역학조사 결과 및 동선 공개",
