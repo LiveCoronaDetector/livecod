@@ -9,6 +9,18 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "제주도, 해열제 복용하며 여행한 안산 확진자에 손해배상 소송",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
+    },
+    {
+        "title": "해열제 먹고 제주여행 확진자에 억대 손배소",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/08/2020070800168.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "제주도 공공기관 직원 통합채용 '13.7대1' 경쟁 치열",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=317676"
+    },
+    {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
@@ -21,23 +33,11 @@ var jejuNewsData = [
         "link": "http://www.inews24.com/view/1279592"
     },
     {
-        "title": "코로나 20번째 확진자, 28명 접촉",
-        "link": "http://www.jejumaeil.net/news/articleView.html?idxno=210243"
-    },
-    {
         "title": "클럽 이후 국내 코로나19, GH그룹…\"3~4월 해외유입이 유행 주도\"(종합2보)",
         "link": "http://www.newsis.com/view/?id=NISX20200706_0001085780&cID=10201&pID=10200"
     },
     {
-        "title": "국내 바이러스 전파력 6배…확진자에 구상권 청구 이어져",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988822?division=NAVER"
-    },
-    {
-        "title": "코로나19 차단 ‘첨병’…제주공항 워크스루 선별진료소 ‘주목’",
-        "link": "http://www.fnnews.com/news/202007061144204775"
-    },
-    {
-        "title": "제주 20번 카자흐 국적 확진자와 같은 항공기 28명 자가격리",
-        "link": "https://www.news1.kr/articles/?3986323"
+        "title": "해열제 10알 먹고 제주여행한 확진자…1억3000만원 손배 소송",
+        "link": "https://news.joins.com/article/olink/23413935"
     }
 ];
