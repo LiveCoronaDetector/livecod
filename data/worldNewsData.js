@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53181555"
     },
     {
-        "title": "Brazilian president Jair Bolsonaro tests positive for coronavirus",
-        "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
+        "title": "Trudeau's White House Snub Reflects Canada's Fears Of Coronavirus In US : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/887797945/trudeau-wont-visit-trump-most-canadians-don-t-want-to-cross-the-border-either"
     },
     {
         "title": "The man who had coronavirus firmly in his grasp, only to see it slip through his fingers",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
-    },
-    {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
+    },
+    {
+        "title": "Tourism: One of the sectors hardest hit by COVID-19",
+        "link": "https://www.arabnews.com/node/1701466"
     },
     {
         "title": "Coronavirus: WHO rethinking how Covid-19 spreads in air",
