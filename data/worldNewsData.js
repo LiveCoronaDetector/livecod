@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
     },
     {
-        "title": "Merkel looks east as ties fray between Germany and U.S.",
-        "link": "https://www.politico.com/news/2020/07/07/germany-china-trade-coronavirus-us-351922"
+        "title": "Covid-19 has exposed the limits of 'fact-denying populism', Merkel tells European Parliament",
+        "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
     },
     {
         "title": "India Surpasses Russia In Reported Coronavirus Infections : Coronavirus Live Updates",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=oY-kdVjGt8E"
     },
     {
-        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
-        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
+        "title": "Trump administration begins formal withdrawal from World Health Organization",
+        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
         "title": "Sweden Has Become the World’s Cautionary Tale",
