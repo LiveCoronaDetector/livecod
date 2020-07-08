@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007081512283164"
     },
     {
+        "title": "당진 코로나19 확진자 역학조사 결과 및 동선 공개",
+        "link": "https://www.pressian.com/pages/articles/2020070811264341072?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "[단독]LS엠트론 전주사업장서 코로나19 확진자 발생...사택 자가격리 '논란'",
         "link": "http://www.newsis.com/view/?id=NISX20200708_0001088550&cID=13001&pID=13000"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "고양 원당성당서 집단감염…잠적 확진자 10시간 만에 검거",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/08/2020070890024.html"
-    },
-    {
-        "title": "전남도 코로나 초비상, 도 공무원 확진자와 골프(종합)",
-        "link": "http://yna.kr/AKR20200708153400054?did=1195m"
     }
 ];

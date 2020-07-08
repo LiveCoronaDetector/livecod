@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/07/herd-immunity-questioned-after-spanish-coronavirus-antibody-study.html"
     },
     {
-        "title": "India coronavirus: Life-saving Covid-19 drugs sold on Delhi black market",
-        "link": "https://www.bbc.com/news/world-asia-india-53304160"
+        "title": "Anti-lockdown protesters storm Serbian Parliament - Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/brazil-bolsonaro-tested-coronavirus-live-updates-200706234641953.html"
     },
     {
         "title": "China's jobs problem runs deeper than the coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-08-20-intl/index.html"
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     }
 ];
