@@ -5,18 +5,6 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007080146&t=NN"
     },
     {
-        "title": "정부대전청사서 코로나19 첫 확진자 나와…40대 조달청 직원",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02820806625832552"
-    },
-    {
-        "title": "국내 코로나19 확진자 10명 중 9명 ‘경증’",
-        "link": "http://www.fnnews.com/news/202007081512283164"
-    },
-    {
-        "title": "7월 8일 ‘코로나19’ 전세계 확진자 1170만명…입국금지·검역 조치 171개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/08/2020070880147.html"
-    },
-    {
         "title": "광주 확진자 8명 늘어 129명…고시학원·사우나 등에서 전파",
         "link": "http://yna.kr/AKR20200708027500054?did=1195m"
     },
@@ -39,5 +27,17 @@ var koreaNewsData = [
     {
         "title": "[단독]전파력 6배 강한 '변이 코로나' 천적 항체 국내서 찾았다",
         "link": "https://www.news1.kr/articles/?3988971"
+    },
+    {
+        "title": "광주서 밤새 7명 코로나19 확진 판정...누적 129명",
+        "link": "http://www.fnnews.com/news/202007080822179113"
+    },
+    {
+        "title": "WHO \"코로나 공기전파 새 증거 찾았다\" 방역지침 바뀌나",
+        "link": "https://news.joins.com/article/olink/23414312"
+    },
+    {
+        "title": "미, '코로나19 대응 불만' WHO 탈퇴 공식통보…1년뒤 탈퇴 완료(종합)",
+        "link": "http://yna.kr/AKR20200708006051071?did=1195m"
     }
 ];
