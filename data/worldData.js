@@ -772,9 +772,9 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 3195,
+        "확진자수": 3197,
         "사망자수": 58,
-        "완치자수": 3072
+        "완치자수": 3074
     },
     {
         "Name": "Equatorial Guinea",

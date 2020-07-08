@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53181555"
     },
     {
-        "title": "Coronavirus Brazil: president Jair Bolsonaro tests positive",
+        "title": "Brazilian president Jair Bolsonaro tests positive for coronavirus",
         "link": "https://www.theguardian.com/world/2020/jul/07/jair-bolsonaro-coronavirus-positive-test-brazil-president"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
     },
     {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
-    },
-    {
-        "title": "Bolsonaro, Students in the U.S., Arctic Fires:Your Wednesday Briefing",
-        "link": "https://www.nytimes.com/2020/07/07/briefing/brazil-bolsonaro-students-us-tiktok.html"
-    },
-    {
         "title": "Coronavirus Live Updates: U.S. and Global News",
         "link": "https://www.nytimes.com/2020/07/07/world/coronavirus-updates.html"
+    },
+    {
+        "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
+        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-briefing-today-2020-07-07/"
+    },
+    {
+        "title": "I’m a U.S. Citizen, Where in the World Can I Go?",
+        "link": "https://www.nytimes.com/2020/07/07/travel/american-travelers-restrictions-coronavirus.html"
     }
 ];
