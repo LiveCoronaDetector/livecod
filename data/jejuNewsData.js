@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "국내외 코로나19 유행 확산 이유는 뭘까…G그룹 변이에 주목",
-        "link": "http://www.newsis.com/view/?id=NISX20200707_0001086674&cID=10201&pID=10200"
-    },
-    {
         "title": "제주도 공공기관 통합채용…제주신용보증재단 45대1",
         "link": "http://www.fnnews.com/news/202007081118344934"
+    },
+    {
+        "title": "국내외 코로나19 유행 확산 이유는 뭘까…G그룹 변이에 주목",
+        "link": "http://www.newsis.com/view/?id=NISX20200707_0001086674&cID=10201&pID=10200"
     },
     {
         "title": "코로나19로 올 여름 국내여행객 2배 '껑충'",
