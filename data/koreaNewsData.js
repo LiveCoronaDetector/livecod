@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200709001951072?did=1195m"
     },
     {
+        "title": "‘코로나19’ 신규 확진 50명…“국내 발생 28명 중 광주서 15명”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4490249&ref=A"
+    },
+    {
         "title": "코로나19 신규 확진자 50명 발생...국내발생 28명, 해외 유입 22명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007091033340978"
     },
@@ -17,16 +21,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007081512283164"
     },
     {
-        "title": "‘코로나19’ 신규 확진 50명…“국내 발생 28명 중 광주서 15명”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4490249&ref=A"
+        "title": "[속보] '코로나19' 63명 늘어 1만3,244명…해외유입 33명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007080146&t=NN"
     },
     {
         "title": "광주 코로나19 확진자 또 다시 확산세…어제 하루 15명 발생",
         "link": "http://www.hani.co.kr/arti/area/honam/952924.html"
-    },
-    {
-        "title": "[속보]코로나 신규확진 50명...지역발생 28명·광주 최다",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007091025001&code=940100"
     },
     {
         "title": "대전 확진자 4명 추가...모두 더조은의원 감염자 접촉",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200709084743"
     },
     {
-        "title": "美 확진자 300만 돌파…전국민의 1% 감염",
-        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5836100_32531.html"
+        "title": "[속보]코로나 신규확진 50명...지역발생 28명·광주 최다",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007091025001&code=940100"
     }
 ];
