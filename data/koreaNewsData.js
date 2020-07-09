@@ -9,20 +9,8 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3991036"
     },
     {
-        "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
-    },
-    {
         "title": "[경남] 코로나19 확진자 2명 추가 발생, 모두 해외유입",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657030&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "코로나19 확산에 보성 율포해수욕장 폐쇄",
-        "link": "http://yna.kr/AKR20200709102100054?did=1195m"
-    },
-    {
-        "title": "정부, 코로나19 치료제·백신 개발에 1936억 원 투입",
-        "link": "https://www.nocutnews.co.kr/news/5375632"
     },
     {
         "title": "코로나19, 국내 숨겨진 확진자 없었다…`집단면역`도 불가능",
@@ -31,6 +19,18 @@ var koreaNewsData = [
     {
         "title": "“무증상에 전파 속도 빨라” 광주 코로나 확진자 급증",
         "link": "https://www.pressian.com/pages/articles/2020070912472986772?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
+    },
+    {
+        "title": "코로나19 확산에 보성 율포해수욕장 폐쇄",
+        "link": "http://yna.kr/AKR20200709102100054?did=1195m"
+    },
+    {
+        "title": "정부, 코로나19 치료제·백신 개발에 1936억 원 투입",
+        "link": "https://www.nocutnews.co.kr/news/5375632"
     },
     {
         "title": "전남서 코로나19 확진자 1명 추가 발생...누적 32명",
