@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
-        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
-    },
-    {
         "title": "Coronavirus live news: Melbourne locks down as global cases pass 12m",
         "link": "https://www.theguardian.com/world/live/2020/jul/09/coronavirus-live-news-us-cases-rise-by-world-record-60000-as-melbourne-locks-down"
+    },
+    {
+        "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
+        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
     }
 ];
