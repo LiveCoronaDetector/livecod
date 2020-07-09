@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
+        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
+        "link": "https://www.news1.kr/articles/?3991019"
+    },
+    {
         "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
         "link": "http://yna.kr/AKR20200707117400056?did=1195m"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주도 공공기관 통합채용…제주신용보증재단 45대1",
         "link": "http://www.fnnews.com/news/202007081118344934"
-    },
-    {
-        "title": "해열제 먹으며 여행한 확진자, 제주 손배 청구",
-        "link": "https://www.news1.kr/photos/view/?4280523"
     },
     {
         "title": "국내외 코로나19 유행 확산 이유는 뭘까…G그룹 변이에 주목",

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/09/latest_news/1594275484_475155.html"
     },
     {
-        "title": "Coronavirus: US surpasses three million cases",
-        "link": "https://www.bbc.com/news/world-us-canada-53342222"
+        "title": "Special Report: Bolsonaro bets 'miraculous cure' for COVID-19 can save Brazil - and his life",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-brazil-hydroxychlo/special-report-bolsonaro-bets-miraculous-cure-for-covid-19-can-save-brazil-and-his-life-idUSKBN249396"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "US sets record for single-day coronavirus surge",
-        "link": "https://www.youtube.com/watch?v=0l4EnsiZ3gI"
+        "title": "Hong Kong Reports Record Spike; Respite for Dubai: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9c053a70-c1d3-11ea-a415-db2ea74264d0&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0wOC91LXMtY2FzZXMtdG9wLTMtbWlsbGlvbi1pdnktbGVhZ3VlLXNjcmFwcy1zcG9ydHMtdmlydXMtdXBkYXRl"
+    },
+    {
+        "title": "U.S. Coronavirus Cases Reach Another Daily Record, Passing 59,000",
+        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
     },
     {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
-    },
-    {
-        "title": "Sweden has become the world’s cautionary tale",
-        "link": "https://www.boston.com/news/coronavirus/2020/07/08/sweden-coronavirus-cautionary-tale"
     }
 ];
