@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/09/latest_news/1594275484_475155.html"
     },
     {
-        "title": "Live updates: Hospitals again face shortages of protective gear as U.S. surpasses 3 million coronavirus cases",
-        "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
+        "title": "Coronavirus: US surpasses three million cases",
+        "link": "https://www.bbc.com/news/world-us-canada-53342222"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Nearly 3 million coronavirus cases in the US",
-        "link": "https://www.youtube.com/watch?v=V_dBLnnz_qc"
+        "title": "COVID-19 News | Texas reports record-breaking 10K cases in one day, Trump formally leaves WHO",
+        "link": "https://www.youtube.com/watch?v=ATZECowqXRg"
     },
     {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
