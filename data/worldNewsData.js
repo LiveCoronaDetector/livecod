@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/active-coronavirus-cases-worldwide-hit-55-million-live-updates-200709011623258.html"
     },
     {
-        "title": "62000 new coronavirus cases in a day",
-        "link": "https://www.youtube.com/watch?v=pbQuNaaa2-c"
+        "title": "Fetal coronavirus infection may be possible, Italian study suggests",
+        "link": "https://www.foxnews.com/health/fetal-coronavirus-infection-possible-italy-study"
     },
     {
         "title": "Coronavirus: Is India the next global hotspot?",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/who-warns-the-coronavirus-is-getting-worse-continues-to-accelerate.html"
     },
     {
-        "title": "Live updates: Fauci says states with major outbreaks should ‘seriously look at shutting down’ again",
+        "title": "Live updates: As coronavirus hospitalizations climb, Trump sidelines health advisors",
         "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
     },
     {
-        "title": "WHO boss forms coronavirus response panel with former Liberia, New Zealand leaders in charge",
-        "link": "https://www.foxnews.com/world/who-coronavirus-response-panel-liberia-new-zealand-leaders"
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     }
 ];
