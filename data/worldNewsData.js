@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53335745"
     },
     {
-        "title": "Analysis | The Daily 202: Some U.S. health officials lament a coronavirus crisis that didn't need to happen",
-        "link": "https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2020/07/08/daily-202-some-u-s-health-officials-lament-a-coronavirus-crisis-that-didn-t-need-to-happen/5f04d82e602ff10807196d65/"
+        "title": "Trump contradicts health experts amid push to reopen schools",
+        "link": "https://www.youtube.com/watch?v=yGETlqT-3fI"
     },
     {
         "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",

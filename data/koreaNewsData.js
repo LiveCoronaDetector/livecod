@@ -9,28 +9,28 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200709001951072?did=1195m"
     },
     {
-        "title": "[종합]코로나19 신규확진 50명 중 광주 15명 최다…해외유입 22명",
-        "link": "https://www.hankyung.com/society/article/2020070902267"
-    },
-    {
         "title": "코로나19 신규 확진자 50명 발생...국내발생 28명, 해외 유입 22명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007091033340978"
+    },
+    {
+        "title": "[속보]코로나 신규확진 50명...지역발생 28명·광주 최다",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007091025001&code=940100"
     },
     {
         "title": "‘코로나19’ 신규 확진 50명…“국내 발생 28명 중 광주서 15명”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4490249&ref=A"
     },
     {
-        "title": "코로나 신규확진 50명…지역발생 28명·해외유입 22명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/09/2020070990047.html"
+        "title": "광주 코로나19 확진자 또 다시 확산세…어제 하루 15명 발생",
+        "link": "http://www.hani.co.kr/arti/area/honam/952924.html"
+    },
+    {
+        "title": "쿠팡, 코로나19 안전감시단 2400명 고용...\"月 수십억 쓴다”",
+        "link": "https://zdnet.co.kr/view/?no=20200709084743"
     },
     {
         "title": "대전 확진자 4명 추가...모두 더조은의원 감염자 접촉",
         "link": "https://www.sedaily.com/NewsView/1Z58J7LM54"
-    },
-    {
-        "title": "광주 코로나19 확진자 또 다시 확산세…어제 하루 15명 발생",
-        "link": "http://www.hani.co.kr/arti/area/honam/952924.html"
     },
     {
         "title": "광주 코로나19 확진자 11명 추가..12개월 유아도",
