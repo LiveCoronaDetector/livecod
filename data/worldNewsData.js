@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus live news: US cases rise by world record 60,000 as Melbourne locks down",
-        "link": "https://www.theguardian.com/world/live/2020/jul/09/coronavirus-live-news-us-cases-rise-by-world-record-60000-as-melbourne-locks-down"
-    },
-    {
         "title": "Europe reacts to US withdrawing from WHO, calls for reform instead",
         "link": "https://www.foxnews.com/world/europe-reacts-us-withdrawing-world-health-organization"
     },
     {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
+    },
+    {
+        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
+        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     }
 ];
