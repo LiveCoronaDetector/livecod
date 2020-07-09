@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Mara Gay: Trump's COVID-19 Failure Is 'Literally Killing Americans' | The 11th Hour | MSNBC",
-        "link": "https://www.youtube.com/watch?v=Z1nq7U0wiSM"
+        "title": "Nearly 3 million coronavirus cases in the US",
+        "link": "https://www.youtube.com/watch?v=V_dBLnnz_qc"
     },
     {
-        "title": "Coronavirus live news: Melbourne locks down as global cases pass 12m",
-        "link": "https://www.theguardian.com/world/live/2020/jul/09/coronavirus-live-news-us-cases-rise-by-world-record-60000-as-melbourne-locks-down"
+        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
+        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     },
     {
         "title": "Sweden Has Become the World’s Cautionary Tale",
