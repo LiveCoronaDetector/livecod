@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/08/coronavirus-live-updates.html"
     },
     {
-        "title": "Confirmed coronavirus cases in the US top 3 million",
-        "link": "https://www.foxnews.com/us/coronavirus-cases-usa-3-million"
+        "title": "Trudeau led his country out of a pandemic while Trump's lack of leadership leaves the US in deep crisis",
+        "link": "https://www.cnn.com/2020/07/08/politics/trump-justin-trudeau-coronavirus-north-american-trade-agreement/index.html"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
