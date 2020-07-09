@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007081512283164"
     },
     {
+        "title": "동작구청 \"상도1동서 코로나19 추가확진자 발생\"[속보]",
+        "link": "http://www.kjdaily.com/read.php3?aid=1594256075516877208"
+    },
+    {
         "title": "코로나 확진 63명…사흘 만에 60명대·지역감염 30명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/08/2020070801365.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "광주 확진자 8명 늘어 129명…고시학원·사우나 등에서 전파",
         "link": "http://yna.kr/AKR20200708027500054?did=1195m"
-    },
-    {
-        "title": "'확진자 100명 육박' 광주 재확산 시작은 광륵사 아닌 방문판매",
-        "link": "http://yna.kr/AKR20200708080400054?did=1195m"
     }
 ];
