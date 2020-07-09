@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5375632"
     },
     {
-        "title": "화순군, 확진자 가족 코로나 검사 결과 '모두 음성'",
-        "link": "http://www.sportsseoul.com/news/read/935310?ref=naver"
+        "title": "헬스장서 스치기만 했는데…대전서 20대 남성 2명 코로나19 감염(종합)",
+        "link": "http://yna.kr/AKR20200709032451063?did=1195m"
     }
 ];
