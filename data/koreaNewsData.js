@@ -13,6 +13,18 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/08/2020070801365.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "광주 코로나19 확진자 또 다시 확산세…어제 하루 15명 발생",
+        "link": "http://www.hani.co.kr/arti/area/honam/952924.html"
+    },
+    {
+        "title": "美 확진자 300만 돌파…전국민의 1% 감염",
+        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5836100_32531.html"
+    },
+    {
+        "title": "광주 코로나19 확진자 11명 추가..12개월 유아도",
+        "link": "http://www.fnnews.com/news/202007090751133032"
+    },
+    {
         "title": "\"코로나19 걸려도, 일하다 죽어도 쿠팡은 사과를 모른다\"",
         "link": "https://www.pressian.com/pages/articles/2020070815255540172?utm_source=naver&utm_medium=search"
     },
@@ -27,17 +39,5 @@ var koreaNewsData = [
     {
         "title": "'확진자 100명 육박' 광주 재확산 시작은 광륵사 아닌 방문판매",
         "link": "http://yna.kr/AKR20200708080400054?did=1195m"
-    },
-    {
-        "title": "광주 코로나 확진자 6명 추가…'광주고시학원' 집단 감염 우려",
-        "link": "https://www.nocutnews.co.kr/news/5374696"
-    },
-    {
-        "title": "정부대전청사서 코로나19 첫 확진자 나와…40대 조달청 직원",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02820806625832552"
-    },
-    {
-        "title": "고양 원당성당서 집단감염…잠적 확진자 10시간 만에 검거",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/08/2020070890024.html"
     }
 ];

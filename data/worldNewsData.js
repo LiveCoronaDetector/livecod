@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/08/coronavirus-live-updates.html"
     },
     {
-        "title": "Trudeau led his country out of a pandemic while Trump's lack of leadership leaves the US in deep crisis",
-        "link": "https://www.cnn.com/2020/07/08/politics/trump-justin-trudeau-coronavirus-north-american-trade-agreement/index.html"
+        "title": "Confirmed coronavirus cases in the US top 3 million",
+        "link": "https://www.foxnews.com/us/coronavirus-cases-usa-3-million"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53335745"
     },
     {
+        "title": "Trump contradicts health experts amid push to reopen schools",
+        "link": "https://www.youtube.com/watch?v=yGETlqT-3fI"
+    },
+    {
+        "title": "Europe reacts to US withdrawing from WHO, calls for reform instead",
+        "link": "https://www.foxnews.com/world/europe-reacts-us-withdrawing-world-health-organization"
+    },
+    {
         "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
-    },
-    {
         "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
         "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
-    },
-    {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     }
 ];
