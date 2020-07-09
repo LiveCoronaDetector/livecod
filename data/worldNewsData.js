@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "US sets global record for daily coronavirus cases, prompting tough actions",
-        "link": "https://www.ynetnews.com/article/BkvHj7Vkw"
+        "title": "US sets record for single-day coronavirus surge",
+        "link": "https://www.youtube.com/watch?v=0l4EnsiZ3gI"
+    },
+    {
+        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
+        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     },
     {
         "title": "Sweden has become the world’s cautionary tale",
         "link": "https://www.boston.com/news/coronavirus/2020/07/08/sweden-coronavirus-cautionary-tale"
-    },
-    {
-        "title": "Europe reacts to US withdrawing from WHO, calls for reform instead",
-        "link": "https://www.foxnews.com/world/europe-reacts-us-withdrawing-world-health-organization"
     }
 ];

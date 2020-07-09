@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4490249&ref=A"
     },
     {
-        "title": "[속보] 국내 코로나19 확진자 50명 추가...지역발생 28명",
-        "link": "https://www.sedaily.com/NewsView/1Z58HTJRUX"
-    },
-    {
         "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
     },
     {
-        "title": "[경남] 코로나19 확진자 2명 추가 발생, 모두 해외유입",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657030&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "[속보] 국내 코로나19 확진자 50명 추가...지역발생 28명",
+        "link": "https://www.sedaily.com/NewsView/1Z58HTJRUX"
     },
     {
-        "title": "정부, 코로나19 치료제·백신 개발에 1936억 원 투입",
-        "link": "https://www.nocutnews.co.kr/news/5375632"
+        "title": "코로나19, 국내 숨겨진 확진자 없었다…`집단면역`도 불가능",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03496486625832880"
+    },
+    {
+        "title": "[경남] 코로나19 확진자 2명 추가 발생, 모두 해외유입",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657030&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "헬스장서 스치기만 했는데…대전서 20대 남성 2명 코로나19 감염(종합)",
@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020070912472986772?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나 확진 50명…지역 28명·광주 15명 최다(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/09/2020070901325.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "전남서 코로나19 확진자 1명 추가 발생...누적 32명",
+        "link": "http://www.fnnews.com/news/202007091655579724"
     },
     {
-        "title": "국민 3055명 대상 코로나19 항체검사...1명만 항체확인",
-        "link": "http://www.fnnews.com/news/202007091413030197"
+        "title": "코로나 확진 50명…지역 28명·광주 15명 최다(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/09/2020070901325.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "\"공무원이 이래서야\" 전남 지역사회 코로나 확산(종합)",
