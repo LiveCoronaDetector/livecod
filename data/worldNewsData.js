@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Coronavirus: Belgrade protesters storm Serb parliament over curfew - BBC News",
-        "link": "https://www.youtube.com/watch?v=zVxiN06GZ6Y"
+        "title": "Coronavirus: Things US has got wrong - and right",
+        "link": "https://www.bbc.com/news/world-us-canada-53337483"
+    },
+    {
+        "title": "Live Music And Live Sports Look To Outlast COVID-19 | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=9h4D5hHeVI8"
     },
     {
         "title": "Live updates: Fauci says states with major outbreaks should ‘seriously look at shutting down’ again",
         "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
-    },
-    {
-        "title": "Sweden has become the world’s cautionary tale",
-        "link": "https://www.boston.com/news/coronavirus/2020/07/08/sweden-coronavirus-cautionary-tale"
     }
 ];

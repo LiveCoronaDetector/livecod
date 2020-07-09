@@ -9,16 +9,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
     },
     {
-        "title": "광주 일주일 새 확진자 64명 추가…끊이지 않는 해외 유입 확진자",
-        "link": "https://www.donga.com/news/article/all/20200709/101902130/1"
+        "title": "[경남] 코로나19 확진자 2명 추가 발생, 모두 해외유입",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657030&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "코로나19 확산에 보성 율포해수욕장 폐쇄",
         "link": "http://yna.kr/AKR20200709102100054?did=1195m"
-    },
-    {
-        "title": "[경남] 코로나19 확진자 2명 추가 발생, 모두 해외유입",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657030&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "정부, 코로나19 치료제·백신 개발에 1936억 원 투입",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "헬스장서 스치기만 했는데…대전서 20대 남성 2명 코로나19 감염(종합)",
         "link": "http://yna.kr/AKR20200709032451063?did=1195m"
+    },
+    {
+        "title": "日코로나 재확산…신규 확진 68일만에 300명 넘어(종합)",
+        "link": "http://yna.kr/AKR20200709178200073?did=1195m"
     }
 ];
