@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53335745"
     },
     {
-        "title": "Trump contradicts health experts amid push to reopen schools",
-        "link": "https://www.youtube.com/watch?v=yGETlqT-3fI"
+        "title": "\"Explosively large\" coronavirus surge in states like Florida, Texas, Arizona",
+        "link": "https://www.youtube.com/watch?v=dOzNIYoDruE"
     },
     {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
