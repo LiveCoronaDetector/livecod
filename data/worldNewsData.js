@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/08/asia/australia-hong-kong-coronavirus-intl-hnk/index.html"
     },
     {
+        "title": "US COVID-19 cases crosses 3 Million mark | US Top news | WION",
+        "link": "https://www.youtube.com/watch?v=Cl5IAprHS1A"
+    },
+    {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
         "title": "WHO sets up panel to review handling of COVID-19 pandemic",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who/who-sets-up-panel-to-review-handling-of-covid-19-pandemic-idUSKBN24A1O9"
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who/who-sets-up-panel-to-review-handling-of-pandemic-idUSKBN24A1O9"
     },
     {
         "title": "Sweden has become the world’s cautionary tale",
         "link": "https://www.boston.com/news/coronavirus/2020/07/08/sweden-coronavirus-cautionary-tale"
-    },
-    {
-        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
-        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     }
 ];
