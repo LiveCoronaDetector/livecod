@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
     },
     {
-        "title": "Burial traditions clash with coronavirus safety in Indonesia",
-        "link": "https://apnews.com/22764fc02d1974e78c844605a5170df1"
+        "title": "Coronavirus Cases Show No Sign of Slowing in Worst-Hit U.S., Brazil and India",
+        "link": "https://time.com/5864653/coronavirus-cases-india-u-s-brazil/"
     },
     {
         "title": "As parts of Australia go back into lockdown, what hope is there for the rest of the world?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Hong Kong Reports Record Spike; Respite for Dubai: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9c053a70-c1d3-11ea-a415-db2ea74264d0&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0wOC91LXMtY2FzZXMtdG9wLTMtbWlsbGlvbi1pdnktbGVhZ3VlLXNjcmFwcy1zcG9ydHMtdmlydXMtdXBkYXRl"
+        "title": "Hong Kong Marks Record Spike; Hungary Mulls Curbs: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ac6ebf90-c1d7-11ea-8384-776bedd93dcc&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0wOC91LXMtY2FzZXMtdG9wLTMtbWlsbGlvbi1pdnktbGVhZ3VlLXNjcmFwcy1zcG9ydHMtdmlydXMtdXBkYXRl"
     },
     {
-        "title": "U.S. Coronavirus Cases Reach Another Daily Record, Passing 59,000",
-        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
+        "title": "Mixed messages about reopening schools as U.S. hits 3 million COVID-19 cases",
+        "link": "https://www.youtube.com/watch?v=uP0G9QGVYPU"
     },
     {
-        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
-        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
+        "title": "Sweden has become the world’s cautionary tale",
+        "link": "https://www.boston.com/news/coronavirus/2020/07/08/sweden-coronavirus-cautionary-tale"
     }
 ];
