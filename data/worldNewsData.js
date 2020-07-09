@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
     },
     {
-        "title": "Burial traditions clash with coronavirus safety in Indonesia",
-        "link": "https://apnews.com/22764fc02d1974e78c844605a5170df1"
+        "title": "A Guide To Investing In The Indian Stock Market During Coronavirus",
+        "link": "https://www.forbes.com/sites/advisorindia/2020/07/08/a-guide-to-investing-in-the-indian-stock-market-during-coronavirus/"
     },
     {
         "title": "As parts of Australia go back into lockdown, what hope is there for the rest of the world?",
