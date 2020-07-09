@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020070912472986772?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "전남서 코로나19 확진자 1명 추가 발생...누적 32명",
+        "link": "http://www.fnnews.com/news/202007091655579724"
+    },
+    {
         "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "정부, 코로나19 치료제·백신 개발에 1936억 원 투입",
         "link": "https://www.nocutnews.co.kr/news/5375632"
-    },
-    {
-        "title": "전남서 코로나19 확진자 1명 추가 발생...누적 32명",
-        "link": "http://www.fnnews.com/news/202007091655579724"
     },
     {
         "title": "헬스장서 스치기만 했는데…대전서 20대 남성 2명 코로나19 감염(종합)",

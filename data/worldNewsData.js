@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
-        "title": "Live Coronavirus Updates: U.S. Daily Cases Surpass 59,000",
+        "title": "W.H.O., in Reversal, Affirms Virus May Be Airborne Indoors: Live Updates",
         "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3092563/chinese-embassy-warns-deadly-unknown-pneumonia-kazakhstan"
     },
     {
-        "title": "More grim job losses as U.S. hits record high on new COVID cases",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/more-grim-job-losses-as-us-hits-record-high-on-new-covid-cases-idUSKBN24A28B"
+        "title": "Trump boasted of falling COVID-19 deaths as a sign of success. Now they're rising again.",
+        "link": "https://news.yahoo.com/trump-boasted-of-falling-covid-19-deaths-as-a-sign-of-success-now-theyre-rising-again-141322491.html"
     },
     {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+        "title": "WHO warns the coronavirus is 'getting worse,' continues to accelerate",
+        "link": "https://www.cnbc.com/2020/07/09/who-warns-the-coronavirus-is-getting-worse-continues-to-accelerate.html"
     },
     {
         "title": "Coronavirus: Things US has got wrong - and right",
