@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
-        "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
-        "link": "http://yna.kr/AKR20200707117400056?did=1195m"
-    },
-    {
         "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
         "link": "https://www.news1.kr/articles/?3991019"
+    },
+    {
+        "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
+        "link": "http://yna.kr/AKR20200707117400056?did=1195m"
     },
     {
         "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007081118344934"
     },
     {
-        "title": "'해열제 복용' 제주여행 후 코로나19 확진 1억원대 소송",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=317758"
-    },
-    {
-        "title": "해열제 먹으며 여행한 확진자 1억대 손배 청구",
-        "link": "https://www.news1.kr/photos/view/?4280555"
-    },
-    {
         "title": "국내외 코로나19 유행 확산 이유는 뭘까…G그룹 변이에 주목",
         "link": "http://www.newsis.com/view/?id=NISX20200707_0001086674&cID=10201&pID=10200"
+    },
+    {
+        "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
+        "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "코로나19로 올 여름 국내여행객 2배 '껑충'",
+        "link": "http://www.inews24.com/view/1279592"
     }
 ];

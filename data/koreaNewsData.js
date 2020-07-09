@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z58HTJRUX"
     },
     {
-        "title": "코로나19 항체 양성률 조사 막바지…방어력·지속력 중요",
-        "link": "http://www.newsis.com/view/?id=NISX20200708_0001088773&cID=10201&pID=10200"
+        "title": "“무증상에 전파 속도 빨라” 광주 코로나 확진자 급증",
+        "link": "https://www.pressian.com/pages/articles/2020070912472986772?utm_source=naver&utm_medium=search"
     },
     {
         "title": "‘코로나19’ 신규 확진 50명…“국내 발생 28명 중 광주서 15명”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4490249&ref=A"
     },
     {
-        "title": "“무증상에 전파 속도 빨라” 광주 코로나 확진자 급증",
-        "link": "https://www.pressian.com/pages/articles/2020070912472986772?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
+    },
+    {
+        "title": "[경남] 코로나19 확진자 2명 추가 발생, 모두 해외유입",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657030&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "'더조은의원發' 대전서 4명 코로나19 추가 확진",
         "link": "https://view.asiae.co.kr/article/2020070909295232203"
     },
     {
-        "title": "중국 대입시험 속 베이징 코로나19 사흘째 신규 확진'0'(종합)",
-        "link": "http://yna.kr/AKR20200709059700083?did=1195m"
+        "title": "화순군, 확진자 가족 코로나 검사 결과 '모두 음성'",
+        "link": "http://www.sportsseoul.com/news/read/935310?ref=naver"
     },
     {
-        "title": "국내 코로나19 확진자 10명 중 9명 ‘경증’",
-        "link": "http://www.fnnews.com/news/202007081512283164"
+        "title": "중국 대입시험 속 베이징 코로나19 사흘째 신규 확진'0'(종합)",
+        "link": "http://yna.kr/AKR20200709059700083?did=1195m"
     }
 ];

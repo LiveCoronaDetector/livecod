@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/08/asia/australia-hong-kong-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "\"Explosively large\" coronavirus surge in states like Florida, Texas, Arizona",
-        "link": "https://www.youtube.com/watch?v=dOzNIYoDruE"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-09-20-intl/index.html"
+        "title": "U.S. reports record single-day spike of 60,000 new coronavirus cases",
+        "link": "https://www.cnbc.com/2020/07/08/us-reports-record-single-day-spike-of-60000-new-coronavirus-cases.html"
     },
     {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
+    },
+    {
+        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
+        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     }
 ];
