@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/08/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
+        "title": "Live updates: Hospitals again face shortages of protective gear as U.S. surpasses 3 million coronavirus cases",
+        "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888104453/india-surpasses-russia-in-reported-coronavirus-infections"
     },
     {
-        "title": "Coronavirus in Australia: Melbourne begins new shutdown",
-        "link": "https://www.bbc.com/news/world-australia-53335745"
+        "title": "As parts of Australia go back into lockdown, what hope is there for the rest of the world?",
+        "link": "https://www.cnn.com/2020/07/08/asia/australia-hong-kong-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "\"Explosively large\" coronavirus surge in states like Florida, Texas, Arizona",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Coronavirus live news: Melbourne locks down as global cases pass 12m",
-        "link": "https://www.theguardian.com/world/live/2020/jul/09/coronavirus-live-news-us-cases-rise-by-world-record-60000-as-melbourne-locks-down"
-    },
-    {
         "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
         "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
+    },
+    {
+        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
+        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     }
 ];

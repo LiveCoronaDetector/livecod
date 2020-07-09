@@ -126,7 +126,7 @@ var marker = [
         "Name_en": "Germany",
         "확진자수": 198765,
         "사망자수": 9115,
-        "완치자수": 182700
+        "완치자수": 183600
     },
     {
         "Name": "Bangladesh",
@@ -1481,20 +1481,20 @@ var marker = [
         "완치자수": 57
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "확진자수": 63,
+        "사망자수": 3,
+        "완치자수": 32
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
         "확진자수": 62,
         "사망자수": 0,
         "완치자수": 60
-    },
-    {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "확진자수": 61,
-        "사망자수": 3,
-        "완치자수": 27
     },
     {
         "Name": "Turks and Caicos",
