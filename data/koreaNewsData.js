@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
     },
     {
+        "title": "코로나19 확산에 보성 율포해수욕장 폐쇄",
+        "link": "http://yna.kr/AKR20200709102100054?did=1195m"
+    },
+    {
         "title": "정부, 코로나19 치료제·백신 개발에 1936억 원 투입",
         "link": "https://www.nocutnews.co.kr/news/5375632"
     },
     {
-        "title": "헬스장서 스치기만 했는데…대전서 20대 남성 2명 코로나19 감염(종합)",
-        "link": "http://yna.kr/AKR20200709032451063?did=1195m"
-    },
-    {
-        "title": "‘코로나19’ 신규 확진 50명…“국내 발생 28명 중 광주서 15명”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4490249&ref=A"
+        "title": "화순군, 확진자 가족 코로나 검사 결과 '모두 음성'",
+        "link": "http://www.sportsseoul.com/news/read/935310?ref=naver"
     }
 ];
