@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/active-coronavirus-cases-worldwide-hit-55-million-live-updates-200709011623258.html"
     },
     {
-        "title": "Covid-19 has exposed the limits of 'fact-denying populism', Merkel tells European Parliament",
-        "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
+        "title": "62000 new coronavirus cases in a day",
+        "link": "https://www.youtube.com/watch?v=pbQuNaaa2-c"
     },
     {
         "title": "Coronavirus: Is India the next global hotspot?",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Things US has got wrong - and right",
-        "link": "https://www.bbc.com/news/world-us-canada-53337483"
+        "title": "Coronavirus update: Global cases of COVID-19 top 12 million, and WHO warns pandemic is ‘not under control’",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-top-12-million-and-who-warns-pandemic-is-not-under-control-2020-07-09"
     }
 ];
