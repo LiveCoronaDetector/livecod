@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Hong Kong Marks Record Spike; Hungary Mulls Curbs: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ac6ebf90-c1d7-11ea-8384-776bedd93dcc&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0wOC91LXMtY2FzZXMtdG9wLTMtbWlsbGlvbi1pdnktbGVhZ3VlLXNjcmFwcy1zcG9ydHMtdmlydXMtdXBkYXRl"
+        "title": "WHO investigation into COVID-19 origins 'already letting China off the hook'",
+        "link": "https://www.youtube.com/watch?v=cMdk4u3XzHg"
     },
     {
-        "title": "Mixed messages about reopening schools as U.S. hits 3 million COVID-19 cases",
-        "link": "https://www.youtube.com/watch?v=uP0G9QGVYPU"
+        "title": "At Least 5 States Set Single-Day Coronavirus Case Records",
+        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
     },
     {
-        "title": "Sweden has become the world’s cautionary tale",
-        "link": "https://www.boston.com/news/coronavirus/2020/07/08/sweden-coronavirus-cautionary-tale"
+        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
+        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     }
 ];
