@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
     },
     {
-        "title": "India Surpasses Russia In Reported Coronavirus Infections : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/07/888104453/india-surpasses-russia-in-reported-coronavirus-infections"
+        "title": "Burial traditions clash with coronavirus safety in Indonesia",
+        "link": "https://apnews.com/22764fc02d1974e78c844605a5170df1"
     },
     {
         "title": "As parts of Australia go back into lockdown, what hope is there for the rest of the world?",
         "link": "https://www.cnn.com/2020/07/08/asia/australia-hong-kong-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Florida Hospitals Struggle To Keep Up As Coronavirus Cases Spike | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=SpES-FQOQMU"
+        "title": "\"Explosively large\" coronavirus surge in states like Florida, Texas, Arizona",
+        "link": "https://www.youtube.com/watch?v=dOzNIYoDruE"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-09-20-intl/index.html"
     },
     {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
-        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-09-20-intl/index.html"
+        "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
+        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
     }
 ];

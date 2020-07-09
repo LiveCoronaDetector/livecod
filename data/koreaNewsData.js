@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/09/2020070901325.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 50명... 광주에서만 15명 발생",
-        "link": "https://hankookilbo.com/News/Read/A2020070910100002605?did=NA"
+        "title": "코로나19 신규 확진자 50명 발생...국내발생 28명, 해외 유입 22명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007091033340978"
     },
     {
         "title": "[속보] 국내 코로나19 확진자 50명 추가...지역발생 28명",
@@ -21,16 +21,12 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4490249&ref=A"
     },
     {
-        "title": "[속보] '코로나19' 50명 늘어 1만3,293명…지역 28명·해외유입22명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090131&t=NN"
-    },
-    {
         "title": "“무증상에 전파 속도 빨라” 광주 코로나 확진자 급증",
         "link": "https://www.pressian.com/pages/articles/2020070912472986772?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보]도쿄 코로나 환자 224명 무더기 확인… 역대 최대",
-        "link": "https://news.joins.com/article/olink/23415603"
+        "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
     },
     {
         "title": "'더조은의원發' 대전서 4명 코로나19 추가 확진",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "중국 대입시험 속 베이징 코로나19 사흘째 신규 확진'0'(종합)",
         "link": "http://yna.kr/AKR20200709059700083?did=1195m"
+    },
+    {
+        "title": "국내 코로나19 확진자 10명 중 9명 ‘경증’",
+        "link": "http://www.fnnews.com/news/202007081512283164"
     }
 ];
