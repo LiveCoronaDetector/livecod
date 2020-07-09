@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/International/wireStory/covid-19-pandemic-africa-now-reaching-full-speed-71687998"
     },
     {
-        "title": "W.H.O., in Reversal, Affirms Covid May Be Airborne Indoors: Live Updates",
+        "title": "Coronavirus Live Updates: Global Tracker",
         "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/who-warns-the-coronavirus-is-getting-worse-continues-to-accelerate.html"
     },
     {
-        "title": "At Least 5 States Set Single-Day Coronavirus Case Records",
-        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     },
     {
-        "title": "Trump administration begins formal withdrawal from World Health Organization",
-        "link": "https://www.cnn.com/2020/07/07/politics/us-withdrawing-world-health-organization/index.html"
+        "title": "Coronavirus: Things US has got wrong - and right",
+        "link": "https://www.bbc.com/news/world-us-canada-53337483"
     }
 ];

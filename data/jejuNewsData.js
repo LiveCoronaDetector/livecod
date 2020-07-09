@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007081118344934"
     },
     {
-        "title": "국내외 코로나19 유행 확산 이유는 뭘까…G그룹 변이에 주목",
-        "link": "http://www.newsis.com/view/?id=NISX20200707_0001086674&cID=10201&pID=10200"
+        "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
+        "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     }
 ];
