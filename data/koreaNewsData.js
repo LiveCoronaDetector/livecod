@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z58HTJRUX"
     },
     {
+        "title": "국민 항체율 0.03%, 확진자 비율과 일치…숨은 감염 적을듯(종합)",
+        "link": "https://www.news1.kr/articles/?3991036"
+    },
+    {
         "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "헬스장서 스치기만 했는데…대전서 20대 남성 2명 코로나19 감염(종합)",
         "link": "http://yna.kr/AKR20200709032451063?did=1195m"
-    },
-    {
-        "title": "日코로나 재확산…신규 확진 68일만에 300명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200709178200073?did=1195m"
     }
 ];
