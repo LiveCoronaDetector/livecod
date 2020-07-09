@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/08/asia/australia-hong-kong-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Worsening U.S. outbreak prompts tough actions as new coronavirus cases hit record",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/new-jersey-to-make-face-masks-mandatory-outdoors-as-u-s-outbreak-widens-idUSKBN2492HG"
-    },
-    {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Whistleblower equates coronavirus transmission to ‘secondhand smoke,’ suggests stores, restaurants mandate masks",
-        "link": "https://www.yahoo.com/lifestyle/whistleblower-says-coronavirus-transmission-is-like-secondhand-smoke-164829282.html"
+        "title": "Coronavirus: Belgrade protesters storm Serb parliament over curfew - BBC News",
+        "link": "https://www.youtube.com/watch?v=zVxiN06GZ6Y"
+    },
+    {
+        "title": "Live updates: Fauci says states with major outbreaks should ‘seriously look at shutting down’ again",
+        "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
     },
     {
         "title": "Sweden has become the world’s cautionary tale",

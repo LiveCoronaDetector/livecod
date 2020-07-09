@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
-        "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
+        "title": "제주도, 해열제 먹으며 여행한 코로나19 확진자에 손해배상 청구",
+        "link": "https://www.vop.co.kr/A00001499258.html"
     },
     {
-        "title": "‘해열제 복용’ 제주여행 확진자에 1억 대 소송 청구",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4490913&ref=A"
+        "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
         "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",

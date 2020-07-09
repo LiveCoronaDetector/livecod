@@ -5,20 +5,28 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z58HTJRUX"
     },
     {
-        "title": "코로나19, 국내 숨겨진 확진자 없었다…`집단면역`도 불가능",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03496486625832880"
-    },
-    {
         "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
+    },
+    {
+        "title": "광주 일주일 새 확진자 64명 추가…끊이지 않는 해외 유입 확진자",
+        "link": "https://www.donga.com/news/article/all/20200709/101902130/1"
+    },
+    {
+        "title": "코로나19 확산에 보성 율포해수욕장 폐쇄",
+        "link": "http://yna.kr/AKR20200709102100054?did=1195m"
     },
     {
         "title": "[경남] 코로나19 확진자 2명 추가 발생, 모두 해외유입",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657030&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "코로나19 확산에 보성 율포해수욕장 폐쇄",
-        "link": "http://yna.kr/AKR20200709102100054?did=1195m"
+        "title": "정부, 코로나19 치료제·백신 개발에 1936억 원 투입",
+        "link": "https://www.nocutnews.co.kr/news/5375632"
+    },
+    {
+        "title": "코로나19, 국내 숨겨진 확진자 없었다…`집단면역`도 불가능",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03496486625832880"
     },
     {
         "title": "“무증상에 전파 속도 빨라” 광주 코로나 확진자 급증",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "헬스장서 스치기만 했는데…대전서 20대 남성 2명 코로나19 감염(종합)",
         "link": "http://yna.kr/AKR20200709032451063?did=1195m"
-    },
-    {
-        "title": "日코로나 재확산…신규 확진 68일만에 300명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200709178200073?did=1195m"
-    },
-    {
-        "title": "러시아 코로나19 일일 신규확진, 2주째 6천명대 유지(종합)",
-        "link": "http://yna.kr/AKR20200709160251080?did=1195m"
     }
 ];
