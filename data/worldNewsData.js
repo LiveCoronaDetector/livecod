@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/active-coronavirus-cases-worldwide-hit-55-million-live-updates-200709011623258.html"
     },
     {
-        "title": "Covid-19 has exposed the limits of 'fact-denying populism', Merkel tells European Parliament",
-        "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
+        "title": "Serbia Protests Meet Violent Response in Europe’s 1st Major Virus Unrest",
+        "link": "https://www.nytimes.com/2020/07/08/world/europe/serbia-protests-coronavirus.html"
     },
     {
         "title": "Coronavirus: Is India the next global hotspot?",
@@ -23,6 +23,10 @@ var worldNewsData = [
     {
         "title": "As parts of Australia go back into lockdown, what hope is there for the rest of the world?",
         "link": "https://www.cnn.com/2020/07/08/asia/australia-hong-kong-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "More grim job losses as U.S. hits record high on new COVID cases",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/more-grim-job-losses-as-us-hits-record-high-on-new-covid-cases-idUSKBN24A28B"
     },
     {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Things US has got wrong - and right",
         "link": "https://www.bbc.com/news/world-us-canada-53337483"
-    },
-    {
-        "title": "Sweden has become the world’s cautionary tale",
-        "link": "https://www.boston.com/news/coronavirus/2020/07/08/sweden-coronavirus-cautionary-tale"
     }
 ];
