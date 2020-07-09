@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus Live Updates: Global Tracker",
+        "title": "Surge in Covid Cases Driven Largely by States That Reopened Early: Live Updates",
         "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
