@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/active-coronavirus-cases-worldwide-hit-55-million-live-updates-200709011623258.html"
     },
     {
-        "title": "Coronavirus antibodies disappear in some patients, Spanish study finds - Business Insider",
-        "link": "https://www.businessinsider.com/coronavirus-antibodies-study-herd-immunity-unachievable-spain-2020-7"
+        "title": "Covid-19 has exposed the limits of 'fact-denying populism', Merkel tells European Parliament",
+        "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
     },
     {
         "title": "Coronavirus: Is India the next global hotspot?",
         "link": "https://www.bbc.com/news/world-asia-india-53284144"
     },
     {
-        "title": "As parts of Australia go back into lockdown, what hope is there for the rest of the world?",
-        "link": "https://www.cnn.com/2020/07/08/asia/australia-hong-kong-coronavirus-intl-hnk/index.html"
+        "title": "Deadlier than Covid-19? China warns of unknown pneumonia in Kazakhstan",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3092563/chinese-embassy-warns-deadly-unknown-pneumonia-kazakhstan"
     },
     {
         "title": "More grim job losses as U.S. hits record high on new COVID cases",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Coronavirus: Things US has got wrong - and right",
-        "link": "https://www.bbc.com/news/world-us-canada-53337483"
-    },
-    {
         "title": "Sweden Has Become the World’s Cautionary Tale",
         "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus: Things US has got wrong - and right",
+        "link": "https://www.bbc.com/news/world-us-canada-53337483"
     }
 ];
