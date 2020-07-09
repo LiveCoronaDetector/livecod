@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4490249&ref=A"
     },
     {
+        "title": "[속보] 국내 코로나19 확진자 50명 추가...지역발생 28명",
+        "link": "https://www.sedaily.com/NewsView/1Z58HTJRUX"
+    },
+    {
         "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
     },
@@ -21,20 +25,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200709032451063?did=1195m"
     },
     {
-        "title": "코로나 확진 50명…지역 28명·광주 15명 최다(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/09/2020070901325.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "“무증상에 전파 속도 빨라” 광주 코로나 확진자 급증",
         "link": "https://www.pressian.com/pages/articles/2020070912472986772?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보] 국내 코로나19 확진자 50명 추가...지역발생 28명",
-        "link": "https://www.sedaily.com/NewsView/1Z58HTJRUX"
+        "title": "코로나 확진 50명…지역 28명·광주 15명 최다(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/09/2020070901325.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 50명 발생...국내발생 28명, 해외 유입 22명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007091033340978"
+        "title": "국민 3055명 대상 코로나19 항체검사...1명만 항체확인",
+        "link": "http://www.fnnews.com/news/202007091413030197"
     },
     {
         "title": "\"공무원이 이래서야\" 전남 지역사회 코로나 확산(종합)",
