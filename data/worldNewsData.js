@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.france24.com/en/20200708-covid-19-has-exposed-the-limits-of-fact-denying-populism-merkel-tells-european-parliament"
     },
     {
-        "title": "A Guide To Investing In The Indian Stock Market During Coronavirus",
-        "link": "https://www.forbes.com/sites/advisorindia/2020/07/08/a-guide-to-investing-in-the-indian-stock-market-during-coronavirus/"
+        "title": "Burial traditions clash with coronavirus safety in Indonesia",
+        "link": "https://apnews.com/22764fc02d1974e78c844605a5170df1"
     },
     {
         "title": "As parts of Australia go back into lockdown, what hope is there for the rest of the world?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "U.S. Coronavirus Cases Reach Another Daily Record, Passing 59,000",
-        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
+        "title": "Mara Gay: Trump's COVID-19 Failure Is 'Literally Killing Americans' | The 11th Hour | MSNBC",
+        "link": "https://www.youtube.com/watch?v=Z1nq7U0wiSM"
     },
     {
-        "title": "World Health Organization chief says coronavirus outbreak is \"accelerating\"",
-        "link": "https://www.cbsnews.com/news/world-health-organization-coronavirus-outbreak-accelerating/"
+        "title": "Coronavirus live news: Melbourne locks down as global cases pass 12m",
+        "link": "https://www.theguardian.com/world/live/2020/jul/09/coronavirus-live-news-us-cases-rise-by-world-record-60000-as-melbourne-locks-down"
     },
     {
-        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
-        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     }
 ];
