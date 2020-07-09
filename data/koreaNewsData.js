@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202007091033340978"
     },
     {
-        "title": "[속보]코로나 신규확진 50명...지역발생 28명·광주 최다",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007091025001&code=940100"
+        "title": "국내 코로나19 확진자 10명 중 9명 ‘경증’",
+        "link": "http://www.fnnews.com/news/202007081512283164"
     },
     {
         "title": "‘코로나19’ 신규 확진 50명…“국내 발생 28명 중 광주서 15명”",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/honam/952924.html"
     },
     {
-        "title": "쿠팡, 코로나19 안전감시단 2400명 고용...\"月 수십억 쓴다”",
-        "link": "https://zdnet.co.kr/view/?no=20200709084743"
+        "title": "[속보]코로나 신규확진 50명...지역발생 28명·광주 최다",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007091025001&code=940100"
     },
     {
         "title": "대전 확진자 4명 추가...모두 더조은의원 감염자 접촉",
         "link": "https://www.sedaily.com/NewsView/1Z58J7LM54"
     },
     {
-        "title": "광주 코로나19 확진자 11명 추가..12개월 유아도",
-        "link": "http://www.fnnews.com/news/202007090751133032"
+        "title": "쿠팡, 코로나19 안전감시단 2400명 고용...\"月 수십억 쓴다”",
+        "link": "https://zdnet.co.kr/view/?no=20200709084743"
     },
     {
-        "title": "대구시 \"코로나19 확진자 0명·사망자 0명\" [전문]",
-        "link": "https://news.imaeil.com/Society/2020070910360226448"
+        "title": "美 확진자 300만 돌파…전국민의 1% 감염",
+        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5836100_32531.html"
     }
 ];
