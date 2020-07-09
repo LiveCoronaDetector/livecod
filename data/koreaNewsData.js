@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/09/2020070901325.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 50명 발생...국내발생 28명, 해외 유입 22명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007091033340978"
-    },
-    {
         "title": "[속보] 국내 코로나19 확진자 50명 추가...지역발생 28명",
         "link": "https://www.sedaily.com/NewsView/1Z58HTJRUX"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020070912472986772?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "[속보] 日도쿄 코로나 224명...사상 최대치",
+        "link": "http://www.fnnews.com/news/202007091409562914"
+    },
+    {
         "title": "‘코로나19’ 신규 확진 50명…“국내 발생 28명 중 광주서 15명”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4490249&ref=A"
     },
     {
-        "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
+        "title": "[속보]코로나 신규확진 50명...지역발생 28명·광주 최다",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007091025001&code=940100"
     },
     {
         "title": "[경남] 코로나19 확진자 2명 추가 발생, 모두 해외유입",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657030&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "'더조은의원發' 대전서 4명 코로나19 추가 확진",
-        "link": "https://view.asiae.co.kr/article/2020070909295232203"
+        "title": "헬스장서 스치기만 했는데…대전서 20대 남성 2명 코로나19 감염(종합)",
+        "link": "http://yna.kr/AKR20200709032451063?did=1195m"
     },
     {
         "title": "화순군, 확진자 가족 코로나 검사 결과 '모두 음성'",
         "link": "http://www.sportsseoul.com/news/read/935310?ref=naver"
     },
     {
-        "title": "중국 대입시험 속 베이징 코로나19 사흘째 신규 확진'0'(종합)",
-        "link": "http://yna.kr/AKR20200709059700083?did=1195m"
+        "title": "[단독] 건양대병원, 환자에게 코로나 검사비용 '전가' 논란",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657007&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
