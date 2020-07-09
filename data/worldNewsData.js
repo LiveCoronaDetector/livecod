@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/who-warns-the-coronavirus-is-getting-worse-continues-to-accelerate.html"
     },
     {
-        "title": "Live updates: As coronavirus hospitalizations climb, Trump sidelines health advisors",
-        "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
+        "title": "WHO boss forms coronavirus response panel with former Liberia, New Zealand leaders in charge",
+        "link": "https://www.foxnews.com/world/who-coronavirus-response-panel-liberia-new-zealand-leaders"
     },
     {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+        "title": "Live updates: As coronavirus hospitalizations climb, Trump sidelines health advisors",
+        "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
     }
 ];
