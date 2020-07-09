@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
-        "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
-        "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
+        "title": "Greece ready to reimpose coronavirus restrictions: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/active-coronavirus-cases-worldwide-hit-55-million-live-updates-200709011623258.html"
     },
     {
         "title": "Covid-19 has exposed the limits of 'fact-denying populism', Merkel tells European Parliament",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
+        "title": "Live updates: Fauci says states with major outbreaks should ‘seriously look at shutting down’ again",
+        "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
+    },
+    {
         "title": "Coronavirus: Things US has got wrong - and right",
         "link": "https://www.bbc.com/news/world-us-canada-53337483"
     },
     {
         "title": "Sweden has become the world’s cautionary tale",
         "link": "https://www.boston.com/news/coronavirus/2020/07/08/sweden-coronavirus-cautionary-tale"
-    },
-    {
-        "title": "Warning of serious brain disorders in people with mild coronavirus symptoms",
-        "link": "https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms"
     }
 ];
