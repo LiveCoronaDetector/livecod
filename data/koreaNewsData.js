@@ -9,6 +9,18 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     },
     {
+        "title": "코로나 중국서 시작? 진실 밝혀낼 WHO팀 베이징에 뜬다",
+        "link": "https://news.joins.com/article/olink/23416767"
+    },
+    {
+        "title": "뉴욕증시, 코로나 지속 확산과 치료제 기대 엇갈리며 혼조 출발",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071003924.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "WHO \"현 상황에선 코로나19 사라질 것 같지 않다\"(종합)",
+        "link": "http://yna.kr/AKR20200711003151088?did=1195m"
+    },
+    {
         "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
         "link": "http://www.fnnews.com/news/202007100812507456"
     },
@@ -23,18 +35,6 @@ var koreaNewsData = [
     {
         "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
-    },
-    {
-        "title": "코로나 중국서 시작? 진실 밝혀낼 WHO팀 베이징에 뜬다",
-        "link": "https://news.joins.com/article/olink/23416767"
-    },
-    {
-        "title": "뉴욕증시, 코로나 지속 확산과 치료제 기대 엇갈리며 혼조 출발",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071003924.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "WHO \"현 상황에선 코로나19 사라질 것 같지 않다\"(종합)",
-        "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
     {
         "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
