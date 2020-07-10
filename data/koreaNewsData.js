@@ -17,6 +17,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200710037351530?did=1195m"
     },
     {
+        "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
+    },
+    {
+        "title": "WHO \"카자흐스탄 폐렴, 코로나19일 듯…제대로 진단 안돼\"",
+        "link": "https://www.news1.kr/articles/?3992682"
+    },
+    {
         "title": "코로나 중국서 시작? 진실 밝혀낼 WHO팀 베이징에 뜬다",
         "link": "https://news.joins.com/article/olink/23416767"
     },
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200710151951080?did=1195m"
     },
     {
-        "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
-    },
-    {
         "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
         "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
-    },
-    {
-        "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
-        "link": "http://www.fnnews.com/news/202007100812507456"
     }
 ];
