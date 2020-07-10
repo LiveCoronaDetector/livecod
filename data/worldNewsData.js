@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+        "title": "WHO says it's 'very unlikely' countries can eradicate the coronavirus right now",
+        "link": "https://www.cnbc.com/2020/07/10/who-says-its-very-unlikely-countries-can-eradicate-the-coronavirus-right-now.html"
     }
 ];
