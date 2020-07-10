@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/german-biotech-sees-its-coronavirus-vaccine-ready-for-approval-by-december-11594373400"
     },
     {
-        "title": "Coronavirus: Is India the next global hotspot?",
-        "link": "https://www.bbc.com/news/world-asia-india-53284144"
+        "title": "Coronavirus: India sees record daily rise in cases, Hong Kong to close all schools",
+        "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
         "title": "Kazakhstan denies Chinese government report that country has 'unknown pneumonia' outbreak more deadly than Covid-19",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "U.S. Hits Another Record for New Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
+        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
+        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     }
 ];
