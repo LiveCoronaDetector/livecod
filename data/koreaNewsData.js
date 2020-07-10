@@ -5,28 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200710037351530?did=1195m"
     },
     {
-        "title": "[속보]코로나19 신규확진자 45명...해외유입이 더 많아",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007101021001&code=940100"
-    },
-    {
-        "title": "코로나19 확진 45명 증가…국외유입 23명·지역 22명",
+        "title": "[속보] 코로나 신규 확진자 45명 증가...국외유입 23명",
         "link": "http://www.hani.co.kr/arti/society/health/953116.html"
-    },
-    {
-        "title": "베이징 집단감염 나흘째 확진자 0명...사실상 종식단계",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "카자흐서 정체불명 폐렴 확산…\"코로나보다 치사율 훨씬 높아\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877331&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "서울시 코로나19 확진자 8명 증가…코인노래방 선별적 영업 허용",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491306&ref=A"
+        "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
+        "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
     },
     {
-        "title": "미 코로나19 일일 확진자 6만 5천 명…또 역대 최다",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877242&plink=ORI&cooper=NAVER"
+        "title": "베이징 집단감염 나흘째 확진자 0명...사실상 종식단계",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "서울시 코로나19 확진자 8명 증가…코인노래방 선별적 영업 허용",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491306&ref=A"
     },
     {
         "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007100812507456"
     },
     {
-        "title": "볼리비아 대통령도 코로나19 확진",
-        "link": "https://www.sedaily.com/NewsView/1Z58ZBRHCN"
+        "title": "'코로나'에 데인 쿠팡, 자체 기술로 확진자 방지 나선다",
+        "link": "http://www.inews24.com/view/1280783"
+    },
+    {
+        "title": "미국 증시, 코로나 '재확산' 우려에 혼조…나스닥 또 최고치",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007100016&t=NN"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/mexico-south-africa-post-record-coronavirus-cases-live-updates-200710000611381.html"
     },
     {
-        "title": "Americans made 'tremendous sacrifices.' The great reopening of the pandemic summer still got derailed",
-        "link": "https://www.cnn.com/2020/07/09/us/us-coronavirus-summer-reopening/index.html"
+        "title": "U.S. Hits Another Record for New Cases, Passing 59,460",
+        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
         "title": "Italy bans entry from 13 countries over coronavirus fears: Live",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
-    },
-    {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
+    },
+    {
+        "title": "Global National: July 8, 2020 | Canada's fiscal snapshot projects $343B deficit",
+        "link": "https://www.youtube.com/watch?v=G71ek7n9l20"
     }
 ];

@@ -1116,9 +1116,9 @@ var marker = [
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "확진자수": 885,
-        "사망자수": 9,
-        "완치자수": 206
+        "확진자수": 926,
+        "사망자수": 12,
+        "완치자수": 306
     },
     {
         "Name": "Chad",
@@ -1484,9 +1484,9 @@ var marker = [
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "확진자수": 63,
+        "확진자수": 64,
         "사망자수": 3,
-        "완치자수": 32
+        "완치자수": 34
     },
     {
         "Name": "French Polynesia",
@@ -1524,9 +1524,9 @@ var marker = [
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "확진자수": 30,
+        "확진자수": 33,
         "사망자수": 2,
-        "완치자수": 19
+        "완치자수": 20
     },
     {
         "Name": "St. Vincent Grenadines",
