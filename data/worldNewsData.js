@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3092563/chinese-embassy-warns-deadly-unknown-pneumonia-kazakhstan"
     },
     {
-        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
-        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
-    },
-    {
         "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
+    },
+    {
+        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
+        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
         "title": "Fears as first Covid-19 case reported in rebel-held Syrian camps – as it happened",

@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007100812507456"
     },
     {
+        "title": "[속보] 미 코로나19 일일 확진자 6만5천명 또 역대 최고",
+        "link": "http://yna.kr/AKR20200710049900009?did=1195m"
+    },
+    {
         "title": "[속보] 국내 코로나19 확진자 50명 추가...지역발생 28명",
         "link": "https://www.sedaily.com/NewsView/1Z58HTJRUX"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020070912472986772?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나19, 국내 숨겨진 확진자 없었다…`집단면역`도 불가능",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03496486625832880"
-    },
-    {
         "title": "전남서 코로나19 확진자 1명 추가 발생...누적 32명",
         "link": "http://www.fnnews.com/news/202007091655579724"
     },
     {
-        "title": "볼리비아 임시 대통령 코로나19 확진…\"격리상태로 업무 계속\"",
-        "link": "http://yna.kr/AKR20200710021300087?did=1195m"
+        "title": "볼리비아 대통령도 코로나19 확진",
+        "link": "https://www.sedaily.com/NewsView/1Z58ZBRHCN"
     },
     {
-        "title": "일본 도쿄, 코로나19 신규 확진 최다…224명 급증",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007090259&t=NN"
+        "title": "미국 증시, 코로나 '재확산' 우려에 혼조…나스닥 또 최고치",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007100016&t=NN"
     },
     {
-        "title": "코로나19 확산에 보성 율포해수욕장 폐쇄",
-        "link": "http://yna.kr/AKR20200709102100054?did=1195m"
+        "title": "日 도쿄 하루사이 224명 코로나19 신규 확진…최다",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200709000737"
     }
 ];
