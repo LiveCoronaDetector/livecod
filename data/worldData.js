@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3279026,
-        "사망자수": 136474,
+        "확진자수": 3279729,
+        "사망자수": 136476,
         "완치자수": 1450355
     },
     {
@@ -633,20 +633,20 @@ var marker = [
         "완치자수": 2430
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 6964,
+        "사망자수": 267,
+        "완치자수": 3308
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "확진자수": 6845,
         "사망자수": 26,
         "완치자수": 2110
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 6672,
-        "사망자수": 262,
-        "완치자수": 3229
     },
     {
         "Name": "Haiti",
@@ -684,9 +684,9 @@ var marker = [
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "확진자수": 5871,
+        "확진자수": 5942,
         "사망자수": 46,
-        "완치자수": 2682
+        "완치자수": 3004
     },
     {
         "Name": "French Guiana",
@@ -1052,9 +1052,9 @@ var marker = [
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "확진자수": 1097,
+        "확진자수": 1099,
         "사망자수": 68,
-        "완치자수": 976
+        "완치자수": 978
     },
     {
         "Name": "Burkina Faso",
@@ -1308,8 +1308,8 @@ var marker = [
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
-        "확진자수": 249,
-        "사망자수": 14,
+        "확진자수": 255,
+        "사망자수": 15,
         "완치자수": 98
     },
     {
@@ -1345,20 +1345,20 @@ var marker = [
         "완치자수": 118
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "확진자수": 190,
+        "사망자수": 14,
+        "완치자수": 157
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "확진자수": 188,
         "사망자수": 0,
         "완치자수": 188
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "확진자수": 184,
-        "사망자수": 14,
-        "완치자수": 157
     },
     {
         "Name": "지브롤터",
