@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3218570,
-        "사망자수": 135720,
-        "완치자수": 1426120
+        "확진자수": 3219778,
+        "사망자수": 135915,
+        "완치자수": 1426170
     },
     {
         "Name": "브라질",
@@ -1313,20 +1313,20 @@ var marker = [
         "완치자수": 98
     },
     {
+        "Name": "Eritrea",
+        "Name_ch": "",
+        "Name_en": "Eritrea",
+        "확진자수": 232,
+        "사망자수": 0,
+        "완치자수": 107
+    },
+    {
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
         "확진자수": 227,
         "사망자수": 0,
         "완치자수": 197
-    },
-    {
-        "Name": "Eritrea",
-        "Name_ch": "",
-        "Name_en": "Eritrea",
-        "확진자수": 215,
-        "사망자수": 0,
-        "완치자수": 56
     },
     {
         "Name": "Cayman Islands",
@@ -1393,12 +1393,20 @@ var marker = [
         "완치자수": 131
     },
     {
+        "Name": "Lesotho",
+        "Name_ch": "",
+        "Name_en": "Lesotho",
+        "확진자수": 134,
+        "사망자수": 1,
+        "완치자수": 11
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "확진자수": 133,
         "사망자수": 8,
-        "완치자수": 117
+        "완치자수": 120
     },
     {
         "Name": "모나코",
@@ -1406,7 +1414,7 @@ var marker = [
         "Name_en": "Monaco",
         "확진자수": 108,
         "사망자수": 4,
-        "완치자수": 95
+        "완치자수": 96
     },
     {
         "Name": "Bahamas",
@@ -1433,18 +1441,10 @@ var marker = [
         "완치자수": 90
     },
     {
-        "Name": "Lesotho",
-        "Name_ch": "",
-        "Name_en": "Lesotho",
-        "확진자수": 91,
-        "사망자수": 0,
-        "완치자수": 11
-    },
-    {
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
-        "확진자수": 91,
+        "확진자수": 94,
         "사망자수": 0,
         "완치자수": 11
     },

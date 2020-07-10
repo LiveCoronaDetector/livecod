@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "WHO warns the coronavirus is 'getting worse,' continues to accelerate",
-        "link": "https://www.cnbc.com/2020/07/09/who-warns-the-coronavirus-is-getting-worse-continues-to-accelerate.html"
+        "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
     },
     {
-        "title": "WHO boss forms coronavirus response panel with former Liberia, New Zealand leaders in charge",
-        "link": "https://www.foxnews.com/world/who-coronavirus-response-panel-liberia-new-zealand-leaders"
+        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
+        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "Live updates: As coronavirus hospitalizations climb, Trump sidelines health advisors",
-        "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
+        "title": "At Least 5 States Set Single-Day Coronavirus Case Records",
+        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
     }
 ];
