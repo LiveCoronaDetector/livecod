@@ -13,11 +13,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
     },
     {
-        "title": "German Biotech Sees Its Coronavirus Vaccine Ready for Approval by December",
-        "link": "https://www.wsj.com/articles/german-biotech-sees-its-coronavirus-vaccine-ready-for-approval-by-december-11594373400"
+        "title": "Fetal coronavirus infection may be possible, Italian study suggests",
+        "link": "https://www.foxnews.com/health/fetal-coronavirus-infection-possible-italy-study"
     },
     {
-        "title": "Coronavirus live updates: India sees record daily rise in cases, Hong Kong to close all schools",
+        "title": "Coronavirus: India sees record daily rise in cases, Hong Kong to close all schools",
         "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.latimes.com/world-nation/story/2020-07-09/coronavirus-airborne-transmission-world-health-organization"
     },
     {
+        "title": "U.S. Hits Another Record for New Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
+    },
+    {
         "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
         "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
-    },
-    {
-        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
-        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     }
 ];

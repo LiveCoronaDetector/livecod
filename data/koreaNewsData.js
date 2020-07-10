@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200710_0001091581&cID=10807&pID=10800"
     },
     {
-        "title": "코로나19 서울 확진자 오늘 6명 늘어…총 1407명",
-        "link": "https://www.hankyung.com/society/article/2020071068337"
+        "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
+        "link": "http://www.fnnews.com/news/202007100812507456"
     },
     {
-        "title": "주한미군, 하루새 확진자 9명↑…미국서 입국직후 양성(상보)",
-        "link": "https://view.asiae.co.kr/article/2020071019444089864"
+        "title": "코로나19 서울 확진자 오늘 6명 늘어…총 1407명",
+        "link": "https://www.hankyung.com/society/article/2020071068337"
     },
     {
         "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200710106051073?did=1195m"
     },
     {
-        "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
-        "link": "http://www.fnnews.com/news/202007100812507456"
+        "title": "미 코로나19 일일 확진자 6만 5천 명…또 역대 최다",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877242&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "카자흐서 정체불명 폐렴 확산…\"코로나보다 치사율 훨씬 높아\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877331&plink=ORI&cooper=NAVER"
+        "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
     },
     {
         "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
