@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/10/world/africa/coronavirus-capetown-south-africa.html"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Nears 60,000 New Daily Cases",
-        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
+        "title": "U.S. reports record single-day spike of 63,200 new cases of coronavirus",
+        "link": "https://www.cnbc.com/2020/07/10/us-reports-record-single-day-spike-of-63200-new-coronavirus-cases.html"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "WHO advance team on way to China to set up probe into virus origin",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who-china/who-advance-team-on-way-to-china-to-set-up-probe-into-virus-origin-idUSKBN24B16V"
+        "title": "U.S. Hits Another Record for New Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     }
 ];
