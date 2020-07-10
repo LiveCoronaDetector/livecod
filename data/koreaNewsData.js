@@ -21,16 +21,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
+        "link": "https://www.nocutnews.co.kr/news/5376363"
+    },
+    {
         "title": "서울시 코로나19 확진자 8명 증가…코인노래방 선별적 영업 허용",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491306&ref=A"
     },
     {
-        "title": "질본 \"국내 입국 카자흐스탄 확진자 중 '폐렴' 증상자 없어\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200710_0001091222&cID=10201&pID=10200"
-    },
-    {
-        "title": "부천에서 10일 코로나 19 확진자 1명 추가 발생",
-        "link": "http://www.kyeongin.com/main/view.php?key=20200710010002298"
+        "title": "[문답]카자흐스탄, 원인불명 폐렴 유행…국내입국 확진자는 증상 없어",
+        "link": "https://www.news1.kr/articles/?3992368"
     },
     {
         "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",

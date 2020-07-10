@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/active-coronavirus-cases-worldwide-hit-55-million-live-updates-200709011623258.html"
     },
     {
-        "title": "Fetal coronavirus infection may be possible, Italian study suggests",
-        "link": "https://www.foxnews.com/health/fetal-coronavirus-infection-possible-italy-study"
+        "title": "Italian hospital in Bergamo coronavirus-free for first time in 137 days",
+        "link": "https://nypost.com/2020/07/09/italian-hospital-coronavirus-free-for-first-time-in-137-days/"
     },
     {
-        "title": "U.S. Army Chief Welcomed to Thailand – With a Coronavirus Test",
-        "link": "https://time.com/5865383/army-chief-thailand-coronavirus/"
+        "title": "Coronavirus: Is India the next global hotspot?",
+        "link": "https://www.bbc.com/news/world-asia-india-53284144"
     },
     {
         "title": "Deadlier than Covid-19? China warns of unknown pneumonia in Kazakhstan",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
-        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
+        "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
     },
     {
-        "title": "WHO boss forms coronavirus response panel with former Liberia, New Zealand leaders in charge",
-        "link": "https://www.foxnews.com/world/who-coronavirus-response-panel-liberia-new-zealand-leaders"
+        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
+        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     }
 ];
