@@ -5,7 +5,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200710037351530?did=1195m"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 45명 증가...국외유입 23명",
+        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
         "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     },
     {
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491306&ref=A"
     },
     {
+        "title": "질본 \"국내 입국 카자흐스탄 확진자 중 '폐렴' 증상자 없어\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200710_0001091222&cID=10201&pID=10200"
+    },
+    {
+        "title": "부천에서 10일 코로나 19 확진자 1명 추가 발생",
+        "link": "http://www.kyeongin.com/main/view.php?key=20200710010002298"
+    },
+    {
         "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",
         "link": "https://news.imaeil.com/Society/2020071010360661923"
     },
     {
-        "title": "확진자 접촉했다 연이어…더조은의원 관련 감염 17명으로(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5376333"
-    },
-    {
         "title": "'코로나'에 데인 쿠팡, 자체 기술로 확진자 방지 나선다",
         "link": "http://www.inews24.com/view/1280783"
-    },
-    {
-        "title": "미국 증시, 코로나 '재확산' 우려에 혼조…나스닥 또 최고치",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007100016&t=NN"
     }
 ];

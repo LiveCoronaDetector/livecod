@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/mexico-south-africa-post-record-coronavirus-cases-live-updates-200710000611381.html"
     },
     {
-        "title": "U.S. Hits Another Record for New Cases, Passing 59,460",
+        "title": "U.S. Hits Another Record for New Coronavirus Cases",
         "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
-    },
-    {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
+    },
+    {
+        "title": "WHO boss forms coronavirus response panel with former Liberia, New Zealand leaders in charge",
+        "link": "https://www.foxnews.com/world/who-coronavirus-response-panel-liberia-new-zealand-leaders"
     }
 ];
