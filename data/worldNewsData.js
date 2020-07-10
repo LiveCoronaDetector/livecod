@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/active-coronavirus-cases-worldwide-hit-55-million-live-updates-200709011623258.html"
     },
     {
-        "title": "Fetal coronavirus infection may be possible, Italian study suggests",
-        "link": "https://www.foxnews.com/health/fetal-coronavirus-infection-possible-italy-study"
+        "title": "62000 new coronavirus cases in a day",
+        "link": "https://www.youtube.com/watch?v=pbQuNaaa2-c"
     },
     {
         "title": "Coronavirus: Is India the next global hotspot?",

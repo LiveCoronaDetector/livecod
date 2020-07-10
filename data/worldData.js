@@ -308,9 +308,9 @@ var marker = [
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "확진자수": 42984,
-        "사망자수": 1577,
-        "완치자수": 12883
+        "확진자수": 44113,
+        "사망자수": 1638,
+        "완치자수": 13354
     },
     {
         "Name": "Panama",
@@ -1398,7 +1398,7 @@ var marker = [
         "Name_en": "Lesotho",
         "확진자수": 134,
         "사망자수": 1,
-        "완치자수": 11
+        "완치자수": 20
     },
     {
         "Name": "Trinidad and Tobago",
@@ -1537,20 +1537,20 @@ var marker = [
         "완치자수": 29
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "확진자수": 25,
+        "사망자수": 1,
+        "완치자수": 24
+    },
+    {
         "Name": "Timor-Leste",
         "Name_ch": "",
         "Name_en": "Timor-Leste",
         "확진자수": 24,
         "사망자수": 0,
         "완치자수": 24
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "확진자수": 23,
-        "사망자수": 1,
-        "완치자수": 19
     },
     {
         "Name": "Grenada",
