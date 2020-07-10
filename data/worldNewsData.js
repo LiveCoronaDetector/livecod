@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/mexico-south-africa-post-record-coronavirus-cases-live-updates-200710000611381.html"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Nears 60,000 New Daily Cases",
-        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
+        "title": "U.S. reports record single-day spike of 63,200 new cases of coronavirus",
+        "link": "https://www.cnbc.com/2020/07/10/us-reports-record-single-day-spike-of-63200-new-coronavirus-cases.html"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/food-drink/kfc-australia-18g-fine-coronavirus-violation"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-10-20-intl/index.html"
+    },
+    {
         "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
         "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
-        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
-    },
-    {
-        "title": "U.S. Hits Another Record for New Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
+        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
     }
 ];
