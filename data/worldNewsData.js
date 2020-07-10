@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=pbQuNaaa2-c"
     },
     {
-        "title": "Deadlier than Covid-19? China warns of unknown pneumonia in Kazakhstan",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3092563/chinese-embassy-warns-deadly-unknown-pneumonia-kazakhstan"
+        "title": "Chinese officials warn of 'unknown pneumonia' in Kazakhstan that is deadlier than coronavirus",
+        "link": "https://www.cnn.com/2020/07/10/asia/kazakhstan-pneumonia-intl-hnk-scli-scn/index.html"
     },
     {
         "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
