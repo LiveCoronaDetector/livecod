@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200710037351530?did=1195m"
     },
     {
-        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
-    },
-    {
         "title": "카자흐스탄 정체불명 폐렴 확산…“코로나19보다 치사율 높아”(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200710500088&wlog_tag3=naver"
+    },
+    {
+        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     },
     {
         "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대전, 코로나19 확진자 1명 추가 발생... 157명 째",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657348&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
+        "link": "https://www.nocutnews.co.kr/news/5376363"
     },
     {
         "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
     },
     {
-        "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
-        "link": "https://www.nocutnews.co.kr/news/5376363"
+        "title": "'코로나'에 데인 쿠팡, 자체 기술로 확진자 방지 나선다",
+        "link": "http://www.inews24.com/view/1280783"
     }
 ];
