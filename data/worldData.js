@@ -884,7 +884,7 @@ var marker = [
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "확진자수": 1942,
+        "확진자수": 1984,
         "사망자수": 25,
         "완치자수": 369
     },
@@ -1100,9 +1100,9 @@ var marker = [
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "확진자수": 968,
+        "확진자수": 973,
         "사망자수": 15,
-        "완치자수": 844
+        "완치자수": 846
     },
     {
         "Name": "Liberia",
@@ -1481,6 +1481,14 @@ var marker = [
         "완치자수": 57
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 66,
+        "사망자수": 2,
+        "완치자수": 11
+    },
+    {
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
@@ -1495,14 +1503,6 @@ var marker = [
         "확진자수": 62,
         "사망자수": 0,
         "완치자수": 60
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 55,
-        "사망자수": 2,
-        "완치자수": 11
     },
     {
         "Name": "마카오",

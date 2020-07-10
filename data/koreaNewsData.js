@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     },
     {
-        "title": "카자흐스탄 정체불명 폐렴 확산…“코로나19보다 치사율 높아”(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200710500088&wlog_tag3=naver"
+        "title": "카자흐서 정체불명 폐렴 확산…\"코로나보다 치사율 훨씬 높아\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877331&plink=ORI&cooper=NAVER"
     },
     {
         "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
         "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
     },
     {
-        "title": "베이징 집단감염 나흘째 확진자 0명...사실상 종식단계",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "정부 “13일부터 코로나 위험국 입국자 ‘음성’ 확인서 의무 제출”(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001475.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "볼리비아 대통령도 코로나19 확진",
-        "link": "https://www.sedaily.com/NewsView/1Z58ZBRHCN"
+        "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
+        "link": "http://www.fnnews.com/news/202007100812507456"
+    },
+    {
+        "title": "베이징 집단감염 나흘째 확진자 0명...사실상 종식단계",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "서울시 코로나19 확진자 8명 증가…코인노래방 선별적 영업 허용",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491306&ref=A"
     },
     {
-        "title": "광주 코로나19 누적확진자 147명으로 늘어",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014787101&code=61121111&cp=nv"
-    },
-    {
         "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",
         "link": "https://news.imaeil.com/Society/2020071010360661923"
     },
     {
-        "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
-        "link": "http://www.fnnews.com/news/202007100812507456"
+        "title": "'코로나'에 데인 쿠팡, 자체 기술로 확진자 방지 나선다",
+        "link": "http://www.inews24.com/view/1280783"
     }
 ];
