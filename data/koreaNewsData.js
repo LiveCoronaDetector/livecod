@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
     },
     {
+        "title": "WHO \"카자흐스탄 폐렴, 코로나19일 듯…제대로 진단 안돼\"",
+        "link": "https://www.news1.kr/articles/?3992682"
+    },
+    {
         "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
         "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "WHO \"카자흐스탄 폐렴, 코로나19일 듯…제대로 진단 안돼\"",
-        "link": "https://www.news1.kr/articles/?3992682"
-    },
-    {
         "title": "코로나 중국서 시작? 진실 밝혀낼 WHO팀 베이징에 뜬다",
         "link": "https://news.joins.com/article/olink/23416767"
     },
     {
-        "title": "러시아 코로나19 신규확진 15일째 6천명대…누적 71만명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200710151951080?did=1195m"
+        "title": "정세균 \"해외유입 위험국 '코로나 음성 확인' 의무화\"",
+        "link": "http://www.fnnews.com/news/202007100924396871"
     }
 ];
