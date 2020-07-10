@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/10/us-reports-record-single-day-spike-of-63200-new-coronavirus-cases.html"
     },
     {
-        "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
-        "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
+        "title": "Senior Pakistan Officials Contract Coronavirus",
+        "link": "https://www.wsj.com/articles/pakistan-denies-minister-died-of-coronavirus-as-cabinet-members-test-positive-11594382356"
     },
     {
         "title": "German Biotech Sees Its Coronavirus Vaccine Ready for Approval by December",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/food-drink/kfc-australia-18g-fine-coronavirus-violation"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-10-20-intl/index.html"
-    },
-    {
         "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
         "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "WHO says it's 'very unlikely' countries can eradicate the coronavirus right now",
-        "link": "https://www.cnbc.com/2020/07/10/who-says-its-very-unlikely-countries-can-eradicate-the-coronavirus-right-now.html"
+        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+    },
+    {
+        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
+        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     }
 ];
