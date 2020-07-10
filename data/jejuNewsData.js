@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200709/101896301/2"
     },
     {
-        "title": "제주도, 유증상에도 제주여행 강행한 A씨 상대 손해배상청구",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=324771"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "제주도, 유증상에도 제주여행 강행한 A씨 상대 손해배상청구",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=324771"
     }
 ];
