@@ -17,18 +17,6 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200710_0001091581&cID=10807&pID=10800"
     },
     {
-        "title": "코로나19 서울 확진자 오늘 6명 늘어…총 1407명",
-        "link": "https://www.hankyung.com/society/article/2020071068337"
-    },
-    {
-        "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
-        "link": "https://www.nocutnews.co.kr/news/5376363"
-    },
-    {
-        "title": "남아공 코로나19 신규확진 또 경신 1만3천674명(종합)",
-        "link": "http://yna.kr/AKR20200710131851099?did=1195m"
-    },
-    {
         "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
         "link": "http://www.fnnews.com/news/202007100812507456"
     },
@@ -37,7 +25,19 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
     },
     {
-        "title": "미 코로나19 일일 확진자 6만 5천 명…또 역대 최다",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877242&plink=ORI&cooper=NAVER"
+        "title": "코로나19 서울 확진자 오늘 6명 늘어…총 1407명",
+        "link": "https://www.hankyung.com/society/article/2020071068337"
+    },
+    {
+        "title": "[단독]박원순 아들 내일 귀국…코로나 음성일땐 빈소 지킨다",
+        "link": "https://news.joins.com/article/olink/23416763"
+    },
+    {
+        "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
+        "link": "https://www.nocutnews.co.kr/news/5376363"
+    },
+    {
+        "title": "남아공 코로나19 신규확진 또 경신 1만3천674명(종합)",
+        "link": "http://yna.kr/AKR20200710131851099?did=1195m"
     }
 ];
