@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus in the World: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
+        "title": "Live updates: As coronavirus hospitalizations climb, Trump sidelines health advisers",
+        "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
     },
     {
         "title": "Italy bans entry from 13 countries over coronavirus fears: Live",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Sweden Has Become the World’s Cautionary Tale",
-        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
+        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
     }
 ];
