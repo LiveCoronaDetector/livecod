@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
     },
     {
+        "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
+    },
+    {
         "title": "코로나 중국서 시작? 진실 밝혀낼 WHO팀 베이징에 뜬다",
         "link": "https://news.joins.com/article/olink/23416767"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "WHO \"현 상황에선 코로나19 사라질 것 같지 않다\"(종합)",
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
-    },
-    {
-        "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
     },
     {
         "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
