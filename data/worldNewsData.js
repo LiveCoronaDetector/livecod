@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/10/world/africa/coronavirus-capetown-south-africa.html"
     },
     {
-        "title": "The US is diving into a dark Covid hole -- and there's no plan to get out",
-        "link": "https://www.cnn.com/2020/07/10/politics/donald-trump-coronavirus-no-plan/index.html"
+        "title": "U.S. reports record single-day spike of 63,200 new cases of coronavirus",
+        "link": "https://www.cnbc.com/2020/07/10/us-reports-record-single-day-spike-of-63200-new-coronavirus-cases.html"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
