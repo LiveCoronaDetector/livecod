@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
     },
     {
-        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
-        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
+        "title": "Fears as first Covid-19 case reported in rebel-held Syrian camps – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/jul/09/coronavirus-live-news-us-cases-rise-by-world-record-60000-as-melbourne-locks-down"
     },
     {
-        "title": "At Least 5 States Set Single-Day Coronavirus Case Records",
-        "link": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html"
+        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
+        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     }
 ];
