@@ -21,6 +21,14 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
     },
     {
+        "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
+        "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
+    },
+    {
+        "title": "베이징 집단감염 나흘째 확진자 0명...사실상 종식단계",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "WHO \"카자흐스탄 폐렴, 코로나19일 듯…제대로 진단 안돼\"",
         "link": "https://www.news1.kr/articles/?3992682"
     },
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23416767"
     },
     {
-        "title": "뉴욕증시, 코로나 지속 확산과 치료제 기대 엇갈리며 혼조 출발",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071003924.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "러시아 코로나19 신규확진 15일째 6천명대…누적 71만명 넘어(종합)",
         "link": "http://yna.kr/AKR20200710151951080?did=1195m"
-    },
-    {
-        "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
-        "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
     }
 ];

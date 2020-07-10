@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/food-drink/kfc-australia-18g-fine-coronavirus-violation"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-10-20-intl/index.html"
+    },
+    {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     },
     {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
-    },
-    {
-        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
-        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
+        "title": "WHO says it's 'very unlikely' countries can eradicate the coronavirus right now",
+        "link": "https://www.cnbc.com/2020/07/10/who-says-its-very-unlikely-countries-can-eradicate-the-coronavirus-right-now.html"
     }
 ];

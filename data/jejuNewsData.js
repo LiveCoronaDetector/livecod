@@ -17,24 +17,24 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
-        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
-        "link": "https://www.news1.kr/articles/?3991019"
-    },
-    {
         "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
         "link": "http://yna.kr/AKR20200707117400056?did=1195m"
+    },
+    {
+        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
+        "link": "https://www.news1.kr/articles/?3991019"
     },
     {
         "title": "12개월 영아까지 감염… 광주 코로나 12일 만에 100명 돌파",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014784328&code=61121111&cp=nv"
     },
     {
-        "title": "제주도, ‘해열제 10알’ 먹고 여행한 확진자에 억대 손해배상 청구",
-        "link": "https://www.donga.com/news/article/all/20200709/101896301/2"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "제주도, ‘해열제 10알’ 먹고 여행한 확진자에 억대 손해배상 청구",
+        "link": "https://www.donga.com/news/article/all/20200709/101896301/2"
     },
     {
         "title": "제주도, 유증상에도 제주여행 강행한 A씨 상대 손해배상청구",
