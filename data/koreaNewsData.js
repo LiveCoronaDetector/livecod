@@ -9,16 +9,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     },
     {
-        "title": "카자흐서 정체불명 폐렴 확산…\"코로나보다 치사율 훨씬 높아\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877331&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
         "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
-    },
-    {
-        "title": "정부 “13일부터 코로나 위험국 입국자 ‘음성’ 확인서 의무 제출”(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001475.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020071010360661923"
     },
     {
+        "title": "확진자 접촉했다 연이어…더조은의원 관련 감염 17명으로(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5376333"
+    },
+    {
         "title": "'코로나'에 데인 쿠팡, 자체 기술로 확진자 방지 나선다",
         "link": "http://www.inews24.com/view/1280783"
+    },
+    {
+        "title": "미국 증시, 코로나 '재확산' 우려에 혼조…나스닥 또 최고치",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007100016&t=NN"
     }
 ];
