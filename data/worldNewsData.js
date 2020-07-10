@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus in the World: Live Updates",
+        "title": "U.S. Hits Another Record for New Cases, Passing 59,460",
         "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/fetal-coronavirus-infection-possible-italy-study"
     },
     {
-        "title": "Outbreak of dengue fever in Southeast Asia is 'exploding' amid the coronavirus fight",
-        "link": "https://www.cnbc.com/2020/07/10/outbreak-of-dengue-fever-in-southeast-asia-is-exploding-amid-the-coronavirus-fight.html"
+        "title": "Coronavirus: Is India the next global hotspot?",
+        "link": "https://www.bbc.com/news/world-asia-india-53284144"
     },
     {
         "title": "Deadlier than Covid-19? China warns of unknown pneumonia in Kazakhstan",
         "link": "https://www.scmp.com/news/china/diplomacy/article/3092563/chinese-embassy-warns-deadly-unknown-pneumonia-kazakhstan"
+    },
+    {
+        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
     },
     {
         "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
-    },
-    {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
     }
 ];

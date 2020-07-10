@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주도 공공기관 통합채용…제주신용보증재단 45대1",
-        "link": "http://www.fnnews.com/news/202007081118344934"
+        "title": "제주 코로나19 확산 방지 '관광방역앱' 개발 추진",
+        "link": "http://www.ihalla.com/read.php3?aid=1594352547687207121"
     },
     {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
