@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     },
     {
-        "title": "대전서 코로나19 확진자 2명 추가 발생…누적 158명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200710_0001091581&cID=10807&pID=10800"
-    },
-    {
         "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
         "link": "http://www.fnnews.com/news/202007100812507456"
+    },
+    {
+        "title": "대전서 코로나19 확진자 2명 추가 발생…누적 158명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200710_0001091581&cID=10807&pID=10800"
     },
     {
         "title": "코로나19 서울 확진자 오늘 6명 늘어…총 1407명",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200710106051073?did=1195m"
     },
     {
+        "title": "남아공 코로나19 신규확진 또 갱신 1만3천674명(종합)",
+        "link": "http://yna.kr/AKR20200710131851099?did=1195m"
+    },
+    {
         "title": "미 코로나19 일일 확진자 6만 5천 명…또 역대 최다",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877242&plink=ORI&cooper=NAVER"
     },
     {
         "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
-    },
-    {
-        "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
-        "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
     }
 ];
