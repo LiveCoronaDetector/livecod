@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/10/coronavirus-live-news-global-update-cases-bolivia-president-covid-19-positive-south-africa-brazil-president-jair-bolsonaro-latest-updatescoronavirus-live-news-bolivia-president-tests-positive-as-south-africa-sees-record-case-rise"
     },
     {
-        "title": "U.S. Hits Another Record for New Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
+        "title": "The US is diving into a dark Covid hole -- and there's no plan to get out",
+        "link": "https://www.cnn.com/2020/07/10/politics/donald-trump-coronavirus-no-plan/index.html"
     },
     {
         "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
         "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
     },
     {
-        "title": "Italian hospital in Bergamo coronavirus-free for first time in 137 days",
-        "link": "https://nypost.com/2020/07/09/italian-hospital-coronavirus-free-for-first-time-in-137-days/"
+        "title": "German Biotech Sees Its Coronavirus Vaccine Ready for Approval by December",
+        "link": "https://www.wsj.com/articles/german-biotech-sees-its-coronavirus-vaccine-ready-for-approval-by-december-11594373400"
     },
     {
         "title": "Coronavirus live updates: India sees record daily rise in cases, Hong Kong to close all schools",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
-        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
+        "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
     },
     {
-        "title": "Hong Kong to Shut Schools Again as Covid-19 Cases Jump",
-        "link": "https://www.youtube.com/watch?v=6xdNX_AgiI8"
+        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
+        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     }
 ];
