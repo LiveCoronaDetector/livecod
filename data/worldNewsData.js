@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
-        "title": "Surge in Covid Cases Driven Largely by States That Reopened Early: Live Updates",
+        "title": "Coronavirus in the World: Live Updates",
         "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3092563/chinese-embassy-warns-deadly-unknown-pneumonia-kazakhstan"
     },
     {
+        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
+        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
+    },
+    {
         "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     },
     {
-        "title": "Fears as first Covid-19 case reported in rebel-held Syrian camps – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/jul/09/coronavirus-live-news-us-cases-rise-by-world-record-60000-as-melbourne-locks-down"
-    },
-    {
-        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
-        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
+        "title": "Sweden Has Become the World’s Cautionary Tale",
+        "link": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html"
     }
 ];
