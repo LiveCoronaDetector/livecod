@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     },
     {
+        "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
+        "link": "http://www.fnnews.com/news/202007100812507456"
+    },
+    {
         "title": "일본 코로나19 재확산…유흥업소 종사자 확진",
         "link": "https://imnews.imbc.com/news/2020/world/article/5838303_32640.html"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200710_0001091581&cID=10807&pID=10800"
     },
     {
-        "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
-        "link": "http://www.fnnews.com/news/202007100812507456"
-    },
-    {
         "title": "코로나보다 세다? 카자흐스탄 '원인 불명' 폐렴",
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
     },
     {
-        "title": "코로나19 서울 확진자 오늘 6명 늘어…총 1407명",
-        "link": "https://www.hankyung.com/society/article/2020071068337"
+        "title": "미 코로나19 일일 확진자 6만 5천 명…또 역대 최다",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877242&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[단독]박원순 아들 내일 귀국…코로나 음성일땐 빈소 지킨다",
-        "link": "https://news.joins.com/article/olink/23416763"
+        "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
     },
     {
-        "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
-        "link": "https://www.nocutnews.co.kr/news/5376363"
+        "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
+        "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
     },
     {
-        "title": "남아공 코로나19 신규확진 또 경신 1만3천674명(종합)",
-        "link": "http://yna.kr/AKR20200710131851099?did=1195m"
+        "title": "베이징 집단감염 나흘째 확진자 0명...사실상 종식단계",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
