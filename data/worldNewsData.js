@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     },
     {
+        "title": "U.S. Hits Another Record for New Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
+    },
+    {
         "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "WHO advance team on way to China to set up probe into virus origin",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who-china/who-advance-team-on-way-to-china-to-set-up-probe-into-virus-origin-idUSKBN24B16V"
-    },
-    {
         "title": "A New World Order for the Coronavirus Era Is Emerging",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=68cc7b50-c2d7-11ea-8c2e-05f28e28b069&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xMC9hLW5ldy13b3JsZC1vcmRlci1mb3ItdGhlLWNvcm9uYXZpcnVzLWVyYS1pcy1lbWVyZ2luZw=="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=86b9eea0-c2db-11ea-8db0-87e6fe611785&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xMC9hLW5ldy13b3JsZC1vcmRlci1mb3ItdGhlLWNvcm9uYXZpcnVzLWVyYS1pcy1lbWVyZ2luZw=="
     }
 ];
