@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/10/asia/kazakhstan-pneumonia-intl-hnk-scli-scn/index.html"
     },
     {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
-    },
-    {
         "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
         "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     },
     {
-        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
-        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
-    },
-    {
         "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
         "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
+    },
+    {
+        "title": "U.S. Hits Another Record for New Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
+    },
+    {
+        "title": "'It's the heart of the brand': Disney World reopens as coronavirus cases spike in Florida",
+        "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     }
 ];
