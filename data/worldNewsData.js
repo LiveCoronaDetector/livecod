@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
-        "title": "Italy bans entry from 13 countries over coronavirus fears: Live",
-        "link": "https://www.aljazeera.com/news/2020/07/active-coronavirus-cases-worldwide-hit-55-million-live-updates-200709011623258.html"
+        "title": "Israel had coronavirus firmly in its grasp, only to see it slip away",
+        "link": "https://www.cnn.com/2020/07/08/middleeast/israel-coronavirus-second-wave-netanyahu-intl/index.html"
     },
     {
-        "title": "Italian hospital in Bergamo coronavirus-free for first time in 137 days",
-        "link": "https://nypost.com/2020/07/09/italian-hospital-coronavirus-free-for-first-time-in-137-days/"
+        "title": "Fetal coronavirus infection may be possible, Italian study suggests",
+        "link": "https://www.foxnews.com/health/fetal-coronavirus-infection-possible-italy-study"
     },
     {
-        "title": "U.S. Army Chief Welcomed to Thailand – With a Coronavirus Test",
-        "link": "https://time.com/5865383/army-chief-thailand-coronavirus/"
+        "title": "62000 new coronavirus cases in a day",
+        "link": "https://www.youtube.com/watch?v=pbQuNaaa2-c"
     },
     {
         "title": "Kazakhstan denies Chinese government report that country has 'unknown pneumonia' outbreak more deadly than Covid-19",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
-        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
-    },
-    {
         "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
+    },
+    {
+        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
+        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     }
 ];
