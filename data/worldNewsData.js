@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/fetal-coronavirus-infection-possible-italy-study"
     },
     {
-        "title": "Coronavirus: Is India the next global hotspot?",
-        "link": "https://www.bbc.com/news/world-asia-india-53284144"
+        "title": "Italy bars entry from 13 'high-risk' countries",
+        "link": "https://www.thelocal.it/20200709/italy-bars-entry-to-13-high-risk-countries"
     },
     {
         "title": "Deadlier than Covid-19? China warns of unknown pneumonia in Kazakhstan",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/09/media/disney-world-reopening/index.html"
     },
     {
-        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
-        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
+        "title": "Lack Of Unity Is A Bigger Threat Than Coronavirus, WHO Chief Says In Emotional Speech",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/09/889411047/lack-of-unity-is-a-bigger-threat-than-coronavirus-who-chief-says-in-emotional-sp"
     },
     {
-        "title": "Global National: July 8, 2020 | Canada's fiscal snapshot projects $343B deficit",
-        "link": "https://www.youtube.com/watch?v=G71ek7n9l20"
+        "title": "Florida emerges as world's new epicenter for COVID-19 | TheHill",
+        "link": "https://thehill.com/homenews/state-watch/506492-florida-emerges-as-worlds-new-epicenter-for-covid-19"
     }
 ];
