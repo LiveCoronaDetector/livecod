@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
     },
     {
+        "title": "정부 “13일부터 코로나 위험국 입국자 ‘음성’ 확인서 의무 제출”(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001475.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
         "link": "http://www.fnnews.com/news/202007100812507456"
     },
     {
         "title": "베이징 집단감염 나흘째 확진자 0명...사실상 종식단계",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
-        "link": "https://www.nocutnews.co.kr/news/5376363"
     },
     {
         "title": "서울시 코로나19 확진자 8명 증가…코인노래방 선별적 영업 허용",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3992368"
     },
     {
-        "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",
-        "link": "https://news.imaeil.com/Society/2020071010360661923"
+        "title": "대전, 코로나19 확진자 1명 추가 발생... 157명 째",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657348&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "'코로나'에 데인 쿠팡, 자체 기술로 확진자 방지 나선다",
-        "link": "http://www.inews24.com/view/1280783"
+        "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",
+        "link": "https://news.imaeil.com/Society/2020071010360661923"
     }
 ];

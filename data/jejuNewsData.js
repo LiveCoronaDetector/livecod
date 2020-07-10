@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200709/101896301/2"
     },
     {
-        "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
     {
-        "title": "제주도 공공기관 통합채용…제주신용보증재단 45대1",
-        "link": "http://www.fnnews.com/news/202007081118344934"
+        "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "제주도, 유증상에도 제주여행 강행한 A씨 상대 손해배상청구",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=324771"
     }
 ];
