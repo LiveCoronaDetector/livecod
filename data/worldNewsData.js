@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
-        "title": "Live updates: As coronavirus hospitalizations climb, Trump sidelines health advisers",
-        "link": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/"
+        "title": "Coronavirus in the World: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html"
     },
     {
         "title": "Italy bans entry from 13 countries over coronavirus fears: Live",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/fetal-coronavirus-infection-possible-italy-study"
     },
     {
-        "title": "Coronavirus: Is India the next global hotspot?",
-        "link": "https://www.bbc.com/news/world-asia-india-53284144"
+        "title": "Outbreak of dengue fever in Southeast Asia is 'exploding' amid the coronavirus fight",
+        "link": "https://www.cnbc.com/2020/07/10/outbreak-of-dengue-fever-in-southeast-asia-is-exploding-amid-the-coronavirus-fight.html"
     },
     {
         "title": "Deadlier than Covid-19? China warns of unknown pneumonia in Kazakhstan",

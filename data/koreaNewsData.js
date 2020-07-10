@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200710037351530?did=1195m"
     },
     {
+        "title": "정부 “13일부터 코로나 위험국 입국자 ‘음성’ 확인서 의무 제출”(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001475.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[속보]코로나19 신규확진자 45명...해외유입이 더 많아",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007101021001&code=940100"
     },
     {
-        "title": "베이징 집단감염 나흘째 확진자 0명...사실상 종식단계",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "베이징 코로나 감염 종식 단계…나흘째 신규 확진 ‘0’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491268&ref=A"
     },
     {
-        "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
-        "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
-    },
-    {
-        "title": "코로나19 어제 신규확진 45명…지역발생 22명 늘어",
-        "link": "https://www.donga.com/news/article/all/20200710/101908310/1"
+        "title": "[코로나19] 서울 확진자 8명↑, 코인노래방 조건부 영업재개",
+        "link": "http://www.newspim.com/news/view/20200710000374"
     },
     {
         "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",
         "link": "https://news.imaeil.com/Society/2020071010360661923"
     },
     {
-        "title": "코로나19 확진 45명 증가…국외유입 23명·지역 22명",
-        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
-    },
-    {
         "title": "광주서 코로나19 확진자 2명 추가 발생...누적 147명",
         "link": "http://www.fnnews.com/news/202007100812507456"
     },
     {
-        "title": "코로나19 신규확진자 45명… 지방이 수도권보다 많다(종합)",
-        "link": "http://moneys.mt.co.kr/news/mwView.php?no=2020071010548069268"
+        "title": "'코로나'에 데인 쿠팡, 자체 기술로 확진자 방지 나선다",
+        "link": "http://www.inews24.com/view/1280783"
     },
     {
         "title": "대구 이틀째 확진자 ‘0’…경북 나흘연속 확진자 없어(종합)",
         "link": "http://www.kukinews.com/newsView/kuk202007100141"
+    },
+    {
+        "title": "코로나 확진 45명…서울 확진자 경북 넘었다(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001182.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
