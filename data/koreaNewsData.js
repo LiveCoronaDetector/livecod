@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200710500088&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
-        "link": "https://www.nocutnews.co.kr/news/5376363"
+        "title": "주한미군, 하루새 확진자 9명↑…미국서 입국직후 양성(상보)",
+        "link": "https://view.asiae.co.kr/article/2020071019444089864"
     },
     {
         "title": "대전서 코로나19 확진자 2명 추가 발생…누적 158명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200710_0001091581&cID=10807&pID=10800"
+    },
+    {
+        "title": "코로나19 위험 속 198명 집합예배한 광주 교회 '고발'",
+        "link": "https://www.nocutnews.co.kr/news/5376363"
     },
     {
         "title": "일본 코로나19 재확산…유흥업소 종사자 확진(종합)",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007100812507456"
     },
     {
-        "title": "서울시 코로나19 확진자 8명 증가…코인노래방 선별적 영업 허용",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491306&ref=A"
-    },
-    {
-        "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",
-        "link": "https://news.imaeil.com/Society/2020071010360661923"
-    },
-    {
         "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
         "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
+    },
+    {
+        "title": "서울시 코로나19 확진자 8명 증가…코인노래방 선별적 영업 허용",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491306&ref=A"
     }
 ];
