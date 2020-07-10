@@ -540,9 +540,17 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 9074,
+        "확진자수": 9374,
         "사망자수": 106,
         "완치자수": 7576
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 9358,
+        "사망자수": 122,
+        "완치자수": 3134
     },
     {
         "Name": "Kenya",
@@ -559,14 +567,6 @@ var marker = [
         "확진자수": 8965,
         "사망자수": 252,
         "완치자수": 8138
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 8847,
-        "사망자수": 116,
-        "완치자수": 3053
     },
     {
         "Name": "El Salvador",
@@ -588,9 +588,9 @@ var marker = [
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 8008,
-        "사망자수": 75,
-        "완치자수": 2100
+        "확진자수": 8372,
+        "사망자수": 80,
+        "완치자수": 2544
     },
     {
         "Name": "DRC",

@@ -21,14 +21,6 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877331&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "서울시 코로나19 확진자 8명 증가…코인노래방 선별적 영업 허용",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491306&ref=A"
-    },
-    {
-        "title": "코로나19 어제 신규확진 45명…지역발생 22명 늘어",
-        "link": "https://www.donga.com/news/article/all/20200710/101908310/1"
-    },
-    {
         "title": "[전문] 대구시, 이틀 연속 \"코로나19 확진자 0명·사망자 0명\"",
         "link": "https://news.imaeil.com/Society/2020071010360661923"
     },
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "볼리비아 대통령도 코로나19 확진",
         "link": "https://www.sedaily.com/NewsView/1Z58ZBRHCN"
+    },
+    {
+        "title": "서울시 코로나19 확진자 8명 증가…코인노래방 선별적 영업 허용",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491306&ref=A"
+    },
+    {
+        "title": "'코로나'에 데인 쿠팡, 자체 기술로 확진자 방지 나선다",
+        "link": "http://www.inews24.com/view/1280783"
     }
 ];

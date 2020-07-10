@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주 코로나19 확산 방지 '관광방역앱' 개발 추진",
-        "link": "http://www.ihalla.com/read.php3?aid=1594352547687207121"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "제주 코로나19 확산 방지 '관광방역앱' 개발 추진",
+        "link": "http://www.ihalla.com/read.php3?aid=1594352547687207121"
     }
 ];
