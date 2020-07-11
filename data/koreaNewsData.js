@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
     },
     {
-        "title": "일본 코로나 신규 확진 383명…사흘째 300~400명대(종합)",
-        "link": "http://yna.kr/AKR20200711038651073?did=1195m"
-    },
-    {
         "title": "코로나 신규 확진자 35명 증가…서울 6명·광주 9명",
         "link": "http://www.hani.co.kr/arti/society/health/953216.html"
     },
     {
         "title": "베이징 닷새째 코로나19 확진자 0명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "일본 코로나 신규 확진 383명…사흘째 300~400명대(종합)",
+        "link": "http://yna.kr/AKR20200711038651073?did=1195m"
     },
     {
         "title": "WHO \"현 상황에선 코로나19 사라질 것 같지 않다\"(종합)",
