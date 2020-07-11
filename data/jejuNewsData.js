@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3991019"
     },
     {
-        "title": "12개월 영아까지 감염… 광주 코로나 12일 만에 100명 돌파",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014784328&code=61121111&cp=nv"
+        "title": "제주지역 20번째 코로나19 확진자 발생…외국서 입국",
+        "link": "http://www.hani.co.kr/arti/area/jeju/952260.html"
     }
 ];

@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/japanese-governor-demands-u-s-military-meeting-after-coronavirus-outbreak-n1233574"
     },
     {
-        "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
-        "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
+        "title": "Virologist who fled to US from Hong Kong accuses China of covering up coronavirus",
+        "link": "https://www.deccanherald.com/international/virologist-who-fled-to-us-from-hong-kong-accuses-china-of-covering-up-coronavirus-859879.html"
     },
     {
         "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus",

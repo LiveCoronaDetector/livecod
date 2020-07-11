@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
     },
     {
-        "title": "코로나 신규 확진자 35명 증가…서울 6명·광주 9명",
-        "link": "http://www.hani.co.kr/arti/society/health/953216.html"
-    },
-    {
         "title": "베이징 닷새째 코로나19 확진자 0명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -23,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "카자흐에 원인 불명 폐렴 확산…“확진 안 된 코로나?”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491992&ref=A"
+    },
+    {
+        "title": "코로나 신규 확진자 35명 증가…서울 6명·광주 9명",
+        "link": "http://www.hani.co.kr/arti/society/health/953216.html"
     },
     {
         "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
