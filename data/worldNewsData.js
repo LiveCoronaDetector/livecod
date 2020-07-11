@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/10/world/africa/coronavirus-capetown-south-africa.html"
     },
     {
-        "title": "U.S. Nears 60,000 New Daily Covid-19 Cases: Live Updates",
+        "title": "U.S. Passes 68,000 New Daily Covid-19 Cases: Live Updates",
         "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
     },
     {

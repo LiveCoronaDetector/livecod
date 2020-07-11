@@ -9,32 +9,32 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
     },
     {
-        "title": "베이징 닷새째 코로나19 확진자 0명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "[종합] 코로나19 확진자 35명 증가...해외 15명, 광주 9명, 서울 6명",
         "link": "http://www.fnnews.com/news/202007111014117797"
     },
     {
-        "title": "(속보) 코로나19 신규확진자 35명 ···지역발생 20명·해외유입 15명",
-        "link": "https://www.sedaily.com/NewsView/1Z59F508WM"
+        "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "광주서 확진자 8명 추가…배드민턴 클럽·고시학원 확진자 접촉자",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100516.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "베이징 닷새째 코로나19 확진자 0명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 전북 34, 35번째 확진자...20대 미군, 도내 접촉자 없어",
-        "link": "http://www.fnnews.com/news/202007110928435440"
+        "title": "국내 코로나19 신규확진 35명…해외유입 15명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/11/2020071190016.html"
     },
     {
         "title": "미국 신규 확진자 6만9000명 '또 기록'…\"사망자도 상승세\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007110040&t=NN"
     },
     {
-        "title": "코로나19 신규 확진 35명…누적 1만 3,338명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878701&plink=ORI&cooper=NAVER"
+        "title": "코로나19 어제 신규확진 35명…지역발생 20명",
+        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
+    },
+    {
+        "title": "대전, 코로나19 확진자 1명 발생... 157번 접촉자",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657484&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "대구·경북 코로나19 추가 확진자 ‘0’(종합)",
