@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/10/world/africa/coronavirus-capetown-south-africa.html"
     },
     {
-        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
-        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
+        "title": "Ghislaine Maxwell requests bail due to 'significant' coronavirus risk",
+        "link": "https://www.bbc.com/news/world-us-canada-53370960"
     },
     {
         "title": "Senior Pakistan Officials Contract Coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
     },
     {
-        "title": "Chinese virologist accuses Beijing of hiding details on coronavirus",
-        "link": "https://www.youtube.com/watch?v=NUbrE1v4kuQ"
-    },
-    {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
-        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
+        "title": "How coronavirus affects the entire body",
+        "link": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html"
     },
     {
-        "title": "New developments in the case against Ghislaine Maxwell | WNT",
-        "link": "https://www.youtube.com/watch?v=G1MorthNXBM"
+        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+    },
+    {
+        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
+        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     }
 ];

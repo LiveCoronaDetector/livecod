@@ -17,8 +17,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "신규 확진자 35명…수도권 3일째 10명 이하, 광주 9명(종합)",
-        "link": "https://www.news1.kr/articles/?3992771"
+        "title": "광주 방문판매 관련 확진자 6명 늘어…누적 환자 127명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5839099_32633.html"
+    },
+    {
+        "title": "서울 거주 확진자 다녀간 충주 골프장 접촉자 1명 검사(종합)",
+        "link": "http://yna.kr/AKR20200711047251064?did=1195m"
+    },
+    {
+        "title": "코로나 어제 신규확진 35명…지역발생 20명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000210996"
     },
     {
         "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 35명…지역발생 20명",
         "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
-    },
-    {
-        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
-    },
-    {
-        "title": "코로나보다 세다? 카자흐스탄 '원인 불명' 폐렴",
-        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
     }
 ];
