@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "일본 코로나 신규 확진 383명…사흘째 300~400명대(종합)",
-        "link": "http://yna.kr/AKR20200711038651073?did=1195m"
-    },
-    {
         "title": "WHO \"현 상황에선 코로나19 사라질 것 같지 않다\"(종합)",
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
+    },
+    {
+        "title": "일본 코로나 신규 확진 383명…사흘째 300~400명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4492113&ref=A"
     },
     {
         "title": "카자흐에 원인 불명 폐렴 확산…“확진 안 된 코로나?”",

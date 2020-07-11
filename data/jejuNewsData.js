@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
-        "title": "교회 관련 확진자, 대부분 소모임·식사 과정에서 발생",
-        "link": "http://www.newsnjoy.or.kr/news/articleView.html?idxno=300993"
-    },
-    {
         "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
         "link": "http://yna.kr/AKR20200707117400056?did=1195m"
+    },
+    {
+        "title": "교회 관련 확진자, 대부분 소모임·식사 과정에서 발생",
+        "link": "http://www.newsnjoy.or.kr/news/articleView.html?idxno=300993"
     },
     {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
