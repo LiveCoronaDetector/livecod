@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-11-20-intl/index.html"
     },
     {
-        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
-        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
+        "title": "The world this week - Summer without Americans, EU divided over Hong Kong & China, TikTok under fire, Notre-Dame restoration",
+        "link": "https://www.france24.com/en/20200710-the-world-this-week-summer-without-americans-eu-divided-over-hong-kong-china-tiktok-under-fire-notre-dame-restoration"
     },
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "New developments in the case against Ghislaine Maxwell | WNT",
-        "link": "https://www.youtube.com/watch?v=G1MorthNXBM"
+        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
+        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     }
 ];
