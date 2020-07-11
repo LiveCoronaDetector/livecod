@@ -143,4 +143,9 @@ div.anchor {
   font-size: 0.4em;
 }
 
-
+/**
+ * Remove excessive padding for accordion news headers
+ */
+.news-accordion > .card > .card-header {
+  padding: 0;
+}
