@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200711018100007?did=1195m"
     },
     {
-        "title": "대전, 코로나19 확진자 1명 발생... 157번 접촉자",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657484&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "WHO \"현 상황에선 코로나19 사라질 것 같지 않다\"(종합)",
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
@@ -17,16 +13,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
     },
     {
-        "title": "코로나19 신규 확진자 35명…지역발생 20명·해외유입 15명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491931&ref=A"
-    },
-    {
         "title": "베이징 닷새째 코로나19 확진자 0명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "미국 신규 확진자 6만9000명 '또 기록'…\"사망자도 상승세\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007110040&t=NN"
+    },
+    {
+        "title": "대전, 코로나19 확진자 1명 발생... 157번 접촉자",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657484&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "코로나19 신규 확진자 35명…지역발생 20명",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나보다 세다? 카자흐스탄 '원인 불명' 폐렴",
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
+    },
+    {
+        "title": "광주 코로나 주말 브리핑, 확진자 확산 주말 분수령(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=577428"
     }
 ];
