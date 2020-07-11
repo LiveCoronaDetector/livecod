@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "국내 코로나19 신규확진 35명…해외유입 15명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/11/2020071190016.html"
+        "title": "코로나19 어제 신규확진 35명…지역발생 20명",
+        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
     },
     {
         "title": "미국 신규 확진자 6만9000명 '또 기록'…\"사망자도 상승세\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007110040&t=NN"
     },
     {
-        "title": "코로나19 어제 신규확진 35명…지역발생 20명",
-        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
-    },
-    {
         "title": "대전, 코로나19 확진자 1명 발생... 157번 접촉자",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657484&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "대구·경북 코로나19 추가 확진자 ‘0’(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007110024"
+        "title": "[속보] 대구시 \"사흘 연속 신규확진자 0명\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020071110360413121"
+    },
+    {
+        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     }
 ];

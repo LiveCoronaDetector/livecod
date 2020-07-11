@@ -513,20 +513,20 @@ var marker = [
         "완치자수": 12077
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 12206,
+        "사망자수": 55,
+        "완치자수": 7530
+    },
+    {
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
         "확진자수": 12052,
         "사망자수": 81,
         "완치자수": 6080
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 12027,
-        "사망자수": 54,
-        "완치자수": 7530
     },
     {
         "Name": "Sudan",
@@ -780,9 +780,9 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 3202,
+        "확진자수": 3216,
         "사망자수": 58,
-        "완치자수": 3087
+        "완치자수": 3088
     },
     {
         "Name": "Equatorial Guinea",
@@ -1460,9 +1460,9 @@ var marker = [
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "확진자수": 80,
+        "확진자수": 82,
         "사망자수": 0,
-        "완치자수": 55
+        "완치자수": 57
     },
     {
         "Name": "Sint Maarten",
