@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
     },
     {
+        "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 치료제·백신 기대에...뉴욕증시 다우·나스닥 등 상승 마감",
+        "link": "https://www.sedaily.com/NewsView/1Z59ESXFQL"
+    },
+    {
+        "title": "대전서 159번째 코로나19 확진자 발생…157번 접촉자",
+        "link": "https://www.news1.kr/articles/?3992723"
+    },
+    {
+        "title": "[속보] 전북 34, 35번째 확진자...20대 미군, 도내 접촉자 없어",
+        "link": "http://www.fnnews.com/news/202007110928435440"
+    },
+    {
         "title": "신규확진 45명 수도권-대전 집중…서울 누적확진자 경북 넘어서(종합)",
         "link": "http://yna.kr/AKR20200710037351530?did=1195m"
     },
     {
         "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
-    },
-    {
-        "title": "WHO \"카자흐스탄 폐렴, 코로나19일 듯…제대로 진단 안돼\"",
-        "link": "https://www.news1.kr/articles/?3992682"
-    },
-    {
-        "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "광주서 확진자 8명 추가…배드민턴 클럽·고시학원 확진자 접촉자",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100516.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
-        "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
     }
 ];

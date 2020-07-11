@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
     },
     {
-        "title": "Senior Pakistan Officials Contract Coronavirus",
-        "link": "https://www.wsj.com/articles/pakistan-denies-minister-died-of-coronavirus-as-cabinet-members-test-positive-11594382356"
+        "title": "Coronavirus: Idlib's first Covid-19 case raises fears for Syria camps",
+        "link": "https://www.bbc.com/news/world-middle-east-53358569"
     },
     {
         "title": "German Biotech Sees Its Coronavirus Vaccine Ready for Approval by December",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     },
     {
+        "title": "Chinese Virologist Details Beijing’s Lies about the Contagiousness of the Coronavirus",
+        "link": "https://www.nationalreview.com/corner/chinese-virologist-details-beijings-lies-about-the-contagiousness-of-the-coronavirus/"
+    },
+    {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
         "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
-    },
-    {
-        "title": "Chinese Virologist Details Beijing’s Lies about the Contagiousness of the Coronavirus",
-        "link": "https://www.nationalreview.com/corner/chinese-virologist-details-beijings-lies-about-the-contagiousness-of-the-coronavirus/"
     }
 ];
