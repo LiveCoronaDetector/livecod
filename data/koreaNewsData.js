@@ -5,8 +5,28 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
     {
+        "title": "[속보]코로나19 어제 신규확진 35명…지역발생 20명",
+        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
+    },
+    {
+        "title": "WHO \"카자흐스탄 폐렴, 코로나19일 듯…제대로 진단 안돼\"",
+        "link": "https://www.news1.kr/articles/?3992682"
+    },
+    {
         "title": "러시아 코로나19 신규확진 15일째 6천명대…누적 71만명 넘어(종합)",
         "link": "http://yna.kr/AKR20200710151951080?did=1195m"
+    },
+    {
+        "title": "베이징 닷새째 코로나19 확진자 0명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 35명 증가...해외 15명, 광주 9명, 서울 6명",
+        "link": "http://www.fnnews.com/news/202007111014117797"
     },
     {
         "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
@@ -17,27 +37,7 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
     },
     {
-        "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "코로나19 치료제·백신 기대에...뉴욕증시 다우·나스닥 등 상승 마감",
-        "link": "https://www.sedaily.com/NewsView/1Z59ESXFQL"
-    },
-    {
-        "title": "대전서 159번째 코로나19 확진자 발생…157번 접촉자",
-        "link": "https://www.news1.kr/articles/?3992723"
-    },
-    {
-        "title": "[속보] 전북 34, 35번째 확진자...20대 미군, 도내 접촉자 없어",
-        "link": "http://www.fnnews.com/news/202007110928435440"
-    },
-    {
-        "title": "신규확진 45명 수도권-대전 집중…서울 누적확진자 경북 넘어서(종합)",
-        "link": "http://yna.kr/AKR20200710037351530?did=1195m"
-    },
-    {
-        "title": "수도권·대전·광주 확산세 여전…신규 확진자는 45명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491237&ref=A"
+        "title": "11일 코로나19 신규 확진자 35명…누적 1만3373명(속보)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01426806625833536"
     }
 ];

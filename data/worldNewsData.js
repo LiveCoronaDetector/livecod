@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
-        "title": "Large KFC order lands group $18G fine for violating coronavirus lockdown order in Australia",
-        "link": "https://www.foxnews.com/food-drink/kfc-australia-18g-fine-coronavirus-violation"
+        "title": "EXCLUSIVE: Chinese virologist accuses Beijing of coronavirus cover-up, flees Hong Kong: 'I know how they tr...",
+        "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
     },
     {
-        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
-        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
-    },
-    {
-        "title": "Chinese Virologist Details Beijing’s Lies about the Contagiousness of the Coronavirus",
-        "link": "https://www.nationalreview.com/corner/chinese-virologist-details-beijings-lies-about-the-contagiousness-of-the-coronavirus/"
+        "title": "Chinese virologist in hiding after accusing Beijing of coronavirus cover-up",
+        "link": "https://nypost.com/2020/07/10/chinese-virologist-flees-after-accusing-beijing-of-covid-19-cover-up/"
     },
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
+        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
+    },
+    {
+        "title": "Georgia governor reopens coronavirus field hospital at Atlanta convention center",
+        "link": "https://www.cnbc.com/2020/07/10/georgia-governor-reopens-coronavirus-field-hospital-at-atlanta-convention-center.html"
     }
 ];
