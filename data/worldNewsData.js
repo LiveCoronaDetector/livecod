@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
     },
     {
-        "title": "Iran says not possible to shut economy: Coronavirus live updates",
+        "title": "Indian actor Amitabh Bachchan hospitalised with coronavirus: Live",
         "link": "https://www.aljazeera.com/news/2020/07/brazil-coronavirus-death-toll-exceeds-70000-live-updates-200710233726278.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
-        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
-    },
-    {
         "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+    },
+    {
+        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
+        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     }
 ];
