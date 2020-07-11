@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
     },
     {
-        "title": "[종합] 코로나19 확진자 35명 증가...해외 15명, 광주 9명, 서울 6명",
-        "link": "http://www.fnnews.com/news/202007111014117797"
-    },
-    {
         "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 35명 증가...해외 15명, 광주 9명, 서울 6명",
+        "link": "http://www.fnnews.com/news/202007111014117797"
     },
     {
         "title": "베이징 닷새째 코로나19 확진자 0명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "국내 코로나19 신규확진 35명…해외유입 15명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/11/2020071190016.html"
+        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
+    },
+    {
+        "title": "코로나보다 세다? 카자흐스탄 '원인 불명' 폐렴",
+        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
     },
     {
         "title": "미국 신규 확진자 6만9000명 '또 기록'…\"사망자도 상승세\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007110040&t=NN"
     },
     {
+        "title": "국내 코로나19 신규확진 35명…해외유입 15명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/11/2020071190016.html"
+    },
+    {
         "title": "대전, 코로나19 확진자 1명 발생... 157번 접촉자",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657484&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "[속보] 대구시 \"사흘 연속 신규확진자 0명\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020071110360413121"
-    },
-    {
-        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     }
 ];
