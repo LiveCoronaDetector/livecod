@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
     {
-        "title": "코로나19 혈장 치료제 다음주 생산 뒤 바로 임상 시험",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007111758349667"
-    },
-    {
-        "title": "확진자 보름만에 30명대…집단감염 연결고리는 '방문판매'",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020071115315444344"
-    },
-    {
-        "title": "'가족·무증상 감염' 서울 확진자 6명 증가…사우나·병원 방문(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200711_0001091941&cID=10201&pID=10200"
-    },
-    {
-        "title": "서울 거주 확진자 다녀간 충주 골프장 접촉자 1명 검사(종합)",
-        "link": "http://yna.kr/AKR20200711047251064?did=1195m"
-    },
-    {
         "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "미국 신규 확진자 6만9000명 '또 기록'…\"사망자도 상승세\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007110040&t=NN"
+    },
+    {
+        "title": "코로나19 신규 확진자 35명…지역발생 20명",
+        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
+    },
+    {
+        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
+    },
+    {
+        "title": "코로나보다 세다? 카자흐스탄 '원인 불명' 폐렴",
+        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
     }
 ];

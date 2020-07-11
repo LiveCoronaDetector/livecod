@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/10/world/africa/coronavirus-capetown-south-africa.html"
     },
     {
-        "title": "Coronavirus update: U.S. death toll rises as new infections reach record levels",
-        "link": "https://www.washingtonpost.com/nation/2020/07/11/coronavirus-update-us/"
+        "title": "Coronavirus Live Updates: U.S. Cases on the Rise, States Weigh New Restrictions",
+        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
     },
     {
-        "title": "Senior Pakistan Officials Contract Coronavirus",
-        "link": "https://www.wsj.com/articles/pakistan-denies-minister-died-of-coronavirus-as-cabinet-members-test-positive-11594382356"
+        "title": "Iran says not possible to shut economy: Coronavirus live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/brazil-coronavirus-death-toll-exceeds-70000-live-updates-200710233726278.html"
     },
     {
         "title": "'You cannot fight the pandemic with lies' -- Angela Merkel knows how to insert a dagger",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "How coronavirus affects the entire body",
-        "link": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html"
-    },
-    {
         "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
     },
     {
         "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
         "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
+    },
+    {
+        "title": "How coronavirus affects the entire body",
+        "link": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html"
     }
 ];
