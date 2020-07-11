@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     },
     {
+        "title": "Disney World reopens even as coronavirus cases soar in Florida and across U.S.",
+        "link": "https://www.nbcnews.com/news/us-news/disney-world-reopens-even-coronavirus-cases-rise-florida-across-u-n1233579"
+    },
+    {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
-    },
-    {
-        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
-        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
+        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
+        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
     }
 ];
