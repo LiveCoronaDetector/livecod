@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://us.cnn.com/2020/07/10/world/meanwhile-in-america-july-10-intl/index.html"
     },
     {
-        "title": "Coronavirus latest: WHO logs new daily record in global virus cases",
-        "link": "https://www.dw.com/en/coronavirus-latest-who-logs-new-daily-record-in-global-virus-cases/a-54118866"
+        "title": "Coronavirus: India sees record daily rise in cases, Hong Kong to close all schools",
+        "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
     },
     {
         "title": "EXCLUSIVE: Chinese virologist accuses Beijing of coronavirus cover-up, flees Hong Kong: 'I know how they tr...",
