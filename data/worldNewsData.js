@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://us.cnn.com/2020/07/10/world/meanwhile-in-america-july-10-intl/index.html"
     },
     {
-        "title": "Iran says not possible to shut economy: Coronavirus live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/brazil-coronavirus-death-toll-exceeds-70000-live-updates-200710233726278.html"
+        "title": "Virologist who fled to US from Hong Kong accuses China of coronavirus cover-up",
+        "link": "https://timesofindia.indiatimes.com/world/us/virologist-who-fled-to-us-from-hong-kong-accuses-china-of-coronavirus-cover-up/articleshow/76905704.cms"
     },
     {
         "title": "EXCLUSIVE: Chinese virologist accuses Beijing of coronavirus cover-up, flees Hong Kong: 'I know how they tr...",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=NUbrE1v4kuQ"
     },
     {
-        "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
-        "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
-    },
-    {
         "title": "How coronavirus affects the entire body",
         "link": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html"
+    },
+    {
+        "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
+        "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     }
 ];
