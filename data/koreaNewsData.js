@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "WHO \"카자흐스탄 폐렴, 코로나19일 듯…제대로 진단 안돼\"",
-        "link": "https://www.news1.kr/articles/?3992682"
-    },
-    {
-        "title": "러시아 코로나19 신규확진 15일째 6천명대…누적 71만명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200710151951080?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 보름만에 30명대…광주 9명 등 지역감염은 20명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4491911&ref=A"
     },
     {
-        "title": "코로나19 어제 신규확진 35명…지역발생 20명",
-        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
+        "title": "코로나19 신규 확진 35명…누적 1만 3,338명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878701&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
+        "title": "[속보] 전북 34, 35번째 확진자...20대 미군, 도내 접촉자 없어",
+        "link": "http://www.fnnews.com/news/202007110928435440"
     },
     {
-        "title": "[속보] 대구시 \"사흘 연속 신규확진자 0명\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020071110360413121"
+        "title": "MLB 30개 구단 중 28개 구단서 코로나 확진자 나와",
+        "link": "https://www.sedaily.com/NewsView/1Z59FUV938"
+    },
+    {
+        "title": "미국 코로나19 신규 환자 6만9,000명...또 최고 기록",
+        "link": "https://www.sedaily.com/NewsView/1Z59FPNRL8"
     },
     {
         "title": "코로나19 해외유입 감소로 30명대…지역발생 20명(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01449766625833536"
+    },
+    {
+        "title": "WHO \"카자흐스탄 폐렴, 코로나19일 듯…제대로 진단 안돼\"",
+        "link": "https://www.news1.kr/articles/?3992682"
     }
 ];

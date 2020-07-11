@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
     },
     {
-        "title": "Here’s How China’s Law is Already Changing the Face of Hong Kong",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9dff7060-c31e-11ea-8a73-b7f5af790aeb&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xMC9oZXJlLXMtaG93LWNoaW5hLXMtbGF3LWlzLWFscmVhZHktY2hhbmdpbmctdGhlLWZhY2Utb2YtaG9uZy1rb25n"
+        "title": "In Hong Kong Security Law, China Asserts Legal Jurisdiction over the Entire World",
+        "link": "https://news.yahoo.com/hong-kong-security-law-china-204811220.html"
     },
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
