@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
     },
     {
+        "title": "코로나 신규 확진자 35명 증가…서울 6명·광주 9명",
+        "link": "http://www.hani.co.kr/arti/society/health/953216.html"
+    },
+    {
         "title": "베이징 닷새째 코로나19 확진자 0명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나보다 세다? 카자흐스탄 '원인 불명' 폐렴",
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
-    },
-    {
-        "title": "[속보] 수도권·대전·광주 코로나19 감염 지속",
-        "link": "https://www.hankyung.com/society/article/2020071178087"
     }
 ];

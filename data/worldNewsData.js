@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-11-20-intl/index.html"
     },
     {
-        "title": "China Says Samples of Imported Shrimp Tested Positive for Coronavirus",
-        "link": "https://www.youtube.com/watch?v=KyIpvfhlToQ"
-    },
-    {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
         "title": "How coronavirus affects the entire body",
         "link": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html"
+    },
+    {
+        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
     }
 ];
