@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://us.cnn.com/2020/07/10/world/meanwhile-in-america-july-10-intl/index.html"
     },
     {
-        "title": "AP EXPLAINS: Why India cases are rising to multiple peaks",
-        "link": "https://apnews.com/ffaba06510effa43d82f31c1d341fff7"
+        "title": "Iran says not possible to shut economy: Coronavirus live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/brazil-coronavirus-death-toll-exceeds-70000-live-updates-200710233726278.html"
     },
     {
         "title": "EXCLUSIVE: Chinese virologist accuses Beijing of coronavirus cover-up, flees Hong Kong: 'I know how they tr...",
         "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-11-20-intl/index.html"
+        "title": "Chinese virologist accuses Beijing of hiding details on coronavirus",
+        "link": "https://www.youtube.com/watch?v=NUbrE1v4kuQ"
     },
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "How coronavirus affects the entire body",
-        "link": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html"
+        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
+        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     },
     {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+        "title": "New developments in the case against Ghislaine Maxwell | WNT",
+        "link": "https://www.youtube.com/watch?v=G1MorthNXBM"
     }
 ];
