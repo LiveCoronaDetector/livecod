@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-middle-east-53358569"
     },
     {
-        "title": "German Biotech Sees Its Coronavirus Vaccine Ready for Approval by December",
-        "link": "https://www.wsj.com/articles/german-biotech-sees-its-coronavirus-vaccine-ready-for-approval-by-december-11594373400"
+        "title": "'You cannot fight the pandemic with lies' -- Angela Merkel knows how to insert a dagger",
+        "link": "https://us.cnn.com/2020/07/10/world/meanwhile-in-america-july-10-intl/index.html"
     },
     {
-        "title": "Coronavirus: India sees record daily rise in cases, Hong Kong to close all schools",
-        "link": "https://www.cnbc.com/2020/07/09/coronavirus-live-updates.html"
+        "title": "Coronavirus latest: WHO logs new daily record in global virus cases",
+        "link": "https://www.dw.com/en/coronavirus-latest-who-logs-new-daily-record-in-global-virus-cases/a-54118866"
     },
     {
         "title": "EXCLUSIVE: Chinese virologist accuses Beijing of coronavirus cover-up, flees Hong Kong: 'I know how they tr...",
         "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
     },
     {
-        "title": "In Hong Kong Security Law, China Asserts Legal Jurisdiction over the Entire World",
-        "link": "https://www.nationalreview.com/2020/07/in-hong-kong-security-law-china-asserts-legal-jurisdiction-over-the-entire-world/"
-    },
-    {
-        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
-        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
+        "title": "Here’s How China’s Law is Already Changing the Face of Hong Kong",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9dff7060-c31e-11ea-8a73-b7f5af790aeb&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xMC9oZXJlLXMtaG93LWNoaW5hLXMtbGF3LWlzLWFscmVhZHktY2hhbmdpbmctdGhlLWZhY2Utb2YtaG9uZy1rb25n"
     },
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
+        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
+    },
+    {
+        "title": "Georgia governor reopens coronavirus field hospital at Atlanta convention center",
+        "link": "https://www.cnbc.com/2020/07/10/georgia-governor-reopens-coronavirus-field-hospital-at-atlanta-convention-center.html"
     }
 ];

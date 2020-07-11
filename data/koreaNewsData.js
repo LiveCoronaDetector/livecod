@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007111014117797"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 보름만에 30명대…광주 9명 등 지역감염은 20명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491911&ref=A"
-    },
-    {
         "title": "베이징 닷새째 코로나19 확진자 0명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200710151951080?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 35명…누적 1만 3,338명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878701&plink=ORI&cooper=NAVER"
+        "title": "코로나19 신규 확진자 보름만에 30명대…광주 9명 등 지역감염은 20명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491911&ref=A"
     },
     {
-        "title": "MLB 30개 구단 중 28개 구단서 코로나 확진자 나와",
-        "link": "https://www.sedaily.com/NewsView/1Z59FUV938"
+        "title": "코로나19 어제 신규확진 35명…지역발생 20명",
+        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
+    },
+    {
+        "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보] 대구시 \"사흘 연속 신규확진자 0명\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020071110360413121"
     },
     {
         "title": "코로나19 해외유입 감소로 30명대…지역발생 20명(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01449766625833536"
-    },
-    {
-        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     }
 ];
