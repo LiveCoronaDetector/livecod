@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/10/world/africa/coronavirus-capetown-south-africa.html"
     },
     {
-        "title": "U.S. Passes 68,000 New Daily Covid-19 Cases: Live Updates",
+        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
         "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/hong-kong-security-law-china-204811220.html"
     },
     {
-        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
-        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
-    },
-    {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
+    },
+    {
+        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
+        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     }
 ];
