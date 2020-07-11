@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014784328&code=61121111&cp=nv"
     },
     {
-        "title": "제주도, ‘해열제 10알’ 먹고 여행한 확진자에 억대 손해배상 청구",
-        "link": "https://www.donga.com/news/article/all/20200709/101896301/2"
+        "title": "제주지역 20번째 코로나19 확진자 발생",
+        "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
     }
 ];

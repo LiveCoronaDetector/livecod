@@ -17,20 +17,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
     {
-        "title": "40대 남성 연결고리, 코로나19 확진자 1명 추가",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491972&ref=A"
-    },
-    {
-        "title": "광주 방문판매 관련 확진자 6명 늘어…누적 환자 127명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5839099_32633.html"
-    },
-    {
-        "title": "서울 거주 확진자 다녀간 충주 골프장 접촉자 1명 검사(종합)",
-        "link": "http://yna.kr/AKR20200711047251064?did=1195m"
-    },
-    {
         "title": "코로나 어제 신규확진 35명…지역발생 20명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000210996"
+    },
+    {
+        "title": "서울 동작구 코로나 확진자, 강릉 주문진·양양 다녀가",
+        "link": "https://www.nocutnews.co.kr/news/5376549"
     },
     {
         "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "미국 신규 확진자 6만9000명 '또 기록'…\"사망자도 상승세\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007110040&t=NN"
+    },
+    {
+        "title": "코로나19 신규 확진자 35명…지역발생 20명",
+        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
+    },
+    {
+        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     }
 ];
