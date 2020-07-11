@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/10/world/africa/coronavirus-capetown-south-africa.html"
     },
     {
-        "title": "Expert warns the US is approaching 'one of the most unstable times in the history of our country'",
-        "link": "https://www.cnn.com/2020/07/11/health/us-coronavirus-saturday/index.html"
+        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
+        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
     },
     {
         "title": "Senior Pakistan Officials Contract Coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
     },
     {
-        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
-        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Chinese virologist accuses Beijing of hiding details on coronavirus",
-        "link": "https://www.youtube.com/watch?v=NUbrE1v4kuQ"
+        "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
+        "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
         "title": "How coronavirus affects the entire body",
         "link": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html"
     },
     {
-        "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
-        "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
+        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+    },
+    {
+        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
+        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     }
 ];
