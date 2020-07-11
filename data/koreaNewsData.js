@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
     {
+        "title": "러시아 코로나19 신규확진 15일째 6천명대…누적 71만명 넘어(종합)",
+        "link": "http://yna.kr/AKR20200710151951080?did=1195m"
+    },
+    {
         "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
         "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3992682"
     },
     {
+        "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "광주서 확진자 8명 추가…배드민턴 클럽·고시학원 확진자 접촉자",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100516.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[속보]국내 코로나19 신규 확진 45명...지역발생 22명",
         "link": "https://www.sedaily.com/NewsView/1Z58YX3084"
-    },
-    {
-        "title": "베이징 집단감염 나흘째 확진자 0명...사실상 종식단계",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/10/2020071001198.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나 중국서 시작? 진실 밝혀낼 WHO팀 베이징에 뜬다",
-        "link": "https://news.joins.com/article/olink/23416767"
-    },
-    {
-        "title": "정세균 \"해외유입 위험국 '코로나 음성 확인' 의무화\"",
-        "link": "http://www.fnnews.com/news/202007100924396871"
     }
 ];
