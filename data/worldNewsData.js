@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/11/health/us-coronavirus-saturday/index.html"
     },
     {
-        "title": "Indian actor Amitabh Bachchan hospitalised with coronavirus: Live",
-        "link": "https://www.aljazeera.com/news/2020/07/brazil-coronavirus-death-toll-exceeds-70000-live-updates-200710233726278.html"
+        "title": "Israelis protest against government response to coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-israel-protests/israelis-protest-against-government-response-to-coronavirus-idUSKCN24C0RC"
     },
     {
         "title": "Reopened schools in Europe and Asia have largely avoided coronavirus outbreaks. They have lessons for the U.S.",
         "link": "https://www.washingtonpost.com/world/europe/schools-reopening-coronavirus/2020/07/10/865fb3e6-c122-11ea-8908-68a2b9eae9e0_story.html"
     },
     {
-        "title": "Coronavirus report: India reports record spike as cases double in South Africa",
-        "link": "https://www.theguardian.com/world/2020/jul/11/coronavirus-report-india-reports-record-spike-as-cases-double-in-south-africa"
+        "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
+        "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
         "title": "Japanese governor demands U.S. military meeting after coronavirus outbreak at Okinawa bases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.live5news.com/2020/07/11/dhec-confirms-first-death-child-highest-reported-number-daily-cases-south-carolina/"
     },
     {
-        "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
-        "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
-    },
-    {
-        "title": "Disney World reopens even as coronavirus cases soar in Florida and across U.S.",
-        "link": "https://www.nbcnews.com/news/us-news/disney-world-reopens-even-coronavirus-cases-rise-florida-across-u-n1233579"
+        "title": "New wave of coronavirus infections in Hong Kong hits fast, wide",
+        "link": "https://english.kyodonews.net/news/2020/07/d0e38dadcb52-new-wave-of-coronavirus-infections-in-hong-kong-hits-fast-wide.html"
     },
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
+    },
+    {
+        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
     }
 ];
