@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 어제 신규확진 35명…지역발생 20명",
-        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
+        "title": "국내 코로나19 신규확진 35명…해외유입 15명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/11/2020071190016.html"
     },
     {
         "title": "미국 신규 확진자 6만9000명 '또 기록'…\"사망자도 상승세\"",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020071110360413121"
     },
     {
-        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
+        "title": "코로나19 해외유입 감소로 30명대…지역발생 20명(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01449766625833536"
     }
 ];

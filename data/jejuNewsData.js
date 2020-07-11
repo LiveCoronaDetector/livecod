@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
     },
     {
-        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
-        "link": "https://www.news1.kr/articles/?3991019"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
+        "link": "https://www.news1.kr/articles/?3991019"
     },
     {
         "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
