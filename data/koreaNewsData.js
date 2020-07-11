@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
     {
+        "title": "카자흐에 원인 불명 폐렴 확산…“확진 안 된 코로나?”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491992&ref=A"
+    },
+    {
         "title": "MLB 30개 구단 중 28곳에서 코로나19 확진자 발생",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005878581&plink=ORI&cooper=NAVER"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 35명…지역발생 20명",
         "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
-    },
-    {
-        "title": "카자흐에 원인 불명 폐렴 확산…“확진 안 된 코로나?”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491992&ref=A"
     },
     {
         "title": "코로나 신규 확진자 45명 증가...국외유입 23명",

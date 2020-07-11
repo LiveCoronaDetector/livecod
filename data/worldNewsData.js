@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
     },
     {
-        "title": "Chinese virologist accuses Beijing of coronavirus cover-up after fleeing Hong Kong",
-        "link": "https://www.taiwannews.com.tw/en/news/3964663"
-    },
-    {
-        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
-        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
+        "title": "The world must give Hong Kong activists a path to safety",
+        "link": "https://hongkongfp.com/2020/07/11/the-world-must-give-hong-kong-activists-a-path-to-safety/"
     },
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     },
     {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
+        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
+    },
+    {
+        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
+        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
     }
 ];
