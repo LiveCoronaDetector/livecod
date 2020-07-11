@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africa-coronavirus-oxygen-supplies-low"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. and World News",
-        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
+        "title": "Expert warns the US is approaching 'one of the most unstable times in the history of our country'",
+        "link": "https://www.cnn.com/2020/07/11/health/us-coronavirus-saturday/index.html"
     },
     {
         "title": "Indian actor Amitabh Bachchan hospitalised with coronavirus: Live",
