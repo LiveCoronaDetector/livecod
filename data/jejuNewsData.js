@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.newsnjoy.or.kr/news/articleView.html?idxno=300993"
     },
     {
-        "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
-    },
-    {
         "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
         "link": "http://yna.kr/AKR20200707117400056?did=1195m"
+    },
+    {
+        "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",

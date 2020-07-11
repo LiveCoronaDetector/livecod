@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
     },
     {
-        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
+        "title": "카자흐에 원인 불명 폐렴 확산…“확진 안 된 코로나?”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4491992&ref=A"
     },
     {
-        "title": "코로나보다 세다? 카자흐스탄 '원인 불명' 폐렴",
-        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
+        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     }
 ];
