@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007110040&t=NN"
     },
     {
-        "title": "대전, 코로나19 확진자 1명 발생... 157번 접촉자",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657484&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "코로나19 신규 확진자 35명…지역발생 20명",
         "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
     },
     {
-        "title": "광주 코로나 주말 브리핑, 확진자 확산 주말 분수령(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=577428"
-    },
-    {
         "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
         "link": "http://www.hani.co.kr/arti/society/health/953116.html"
+    },
+    {
+        "title": "코로나보다 세다? 카자흐스탄 '원인 불명' 폐렴",
+        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5838325_32524.html"
+    },
+    {
+        "title": "[속보] 수도권·대전·광주 코로나19 감염 지속",
+        "link": "https://www.hankyung.com/society/article/2020071178087"
     }
 ];
