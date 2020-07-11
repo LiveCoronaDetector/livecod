@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/japanese-governor-demands-u-s-military-meeting-after-coronavirus-outbreak-n1233574"
     },
     {
+        "title": "DHEC confirms first death of a child, highest reported number of daily cases in South Carolina",
+        "link": "https://www.live5news.com/2020/07/11/dhec-confirms-first-death-child-highest-reported-number-daily-cases-south-carolina/"
+    },
+    {
         "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
         "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
-    },
-    {
-        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
-        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
     }
 ];
