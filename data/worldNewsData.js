@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/10/world/africa/coronavirus-capetown-south-africa.html"
     },
     {
-        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
-        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
+        "title": "Coronavirus update: U.S. death toll rises as new infections reach record levels",
+        "link": "https://www.washingtonpost.com/nation/2020/07/11/coronavirus-update-us/"
     },
     {
         "title": "Senior Pakistan Officials Contract Coronavirus",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://timesofindia.indiatimes.com/world/us/virologist-who-fled-to-us-from-hong-kong-accuses-china-of-coronavirus-cover-up/articleshow/76905704.cms"
     },
     {
-        "title": "EXCLUSIVE: Chinese virologist accuses Beijing of coronavirus cover-up, flees Hong Kong: 'I know how they tr...",
-        "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
+        "title": "A Takeout Order At KFC At 1:30 A.M. Raised Suspicions. It Led To A $26,000 Coronavirus Fine.",
+        "link": "https://www.buzzfeednews.com/article/davidmack/kfc-takeout-order-australia-coronavirus-lockdown-party"
     },
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
