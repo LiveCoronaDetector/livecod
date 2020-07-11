@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3321900,
-        "사망자수": 137073,
-        "완치자수": 1475551
+        "확진자수": 3323312,
+        "사망자수": 137089,
+        "완치자수": 1475567
     },
     {
         "Name": "브라질",
@@ -20,9 +20,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 849785,
-        "사망자수": 22684,
-        "완치자수": 536223
+        "확진자수": 849823,
+        "사망자수": 22687,
+        "완치자수": 536228
     },
     {
         "Name": "러시아",
@@ -836,7 +836,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 2464,
+        "확진자수": 2468,
         "사망자수": 11,
         "완치자수": 1980
     },
@@ -945,20 +945,20 @@ var marker = [
         "완치자수": 1429
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "확진자수": 1623,
+        "사망자수": 19,
+        "완치자수": 748
+    },
+    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
         "확진자수": 1618,
         "사망자수": 63,
         "완치자수": 1141
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "확진자수": 1591,
-        "사망자수": 19,
-        "완치자수": 730
     },
     {
         "Name": "New Zealand",
@@ -1041,6 +1041,14 @@ var marker = [
         "완치자수": 1019
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "확진자수": 1164,
+        "사망자수": 19,
+        "완치자수": 325
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
@@ -1063,14 +1071,6 @@ var marker = [
         "확진자수": 1020,
         "사망자수": 53,
         "완치자수": 864
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "확진자수": 1019,
-        "사망자수": 19,
-        "완치자수": 320
     },
     {
         "Name": "Cyprus",
@@ -1126,7 +1126,7 @@ var marker = [
         "Name_en": "Chad",
         "확진자수": 874,
         "사망자수": 74,
-        "완치자수": 789
+        "완치자수": 790
     },
     {
         "Name": "안도라",

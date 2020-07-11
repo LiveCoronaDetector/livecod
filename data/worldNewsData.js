@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africa-coronavirus-oxygen-supplies-low"
     },
     {
-        "title": "Coronavirus Live Updates: As U.S. Cases Rise, States Weigh New Restrictions",
-        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
+        "title": "Coronavirus update: U.S. death toll rises as new infections reach record levels",
+        "link": "https://www.washingtonpost.com/nation/2020/07/11/coronavirus-update-us/"
     },
     {
         "title": "Iran says not possible to shut economy: Coronavirus live updates",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
     },
     {
-        "title": "Teachers threatening to walk out due to COVID-19 concerns",
-        "link": "https://www.youtube.com/watch?v=Rd3TU3opd-U"
+        "title": "Coronavirus live updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-11-20-intl/index.html"
     },
     {
         "title": "Hong Kong Security Law Helps China Tighten Grip Over Schools",
         "link": "https://www.nytimes.com/2020/07/11/world/asia/china-hong-kong-security-schools.html"
     },
     {
-        "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
-        "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
+        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
+        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
     },
     {
-        "title": "WHO chief blasts 'lack of leadership' and calls for global unity as coronavirus cases mount worldwide",
-        "link": "https://www.cnn.com/2020/07/10/world/who-tedros-adhanom-unity-plea-intl-scli/index.html"
+        "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
+        "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
     }
 ];
