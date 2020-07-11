@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africa-coronavirus-oxygen-supplies-low"
     },
     {
-        "title": "Coronavirus update: U.S. death toll rises as new infections reach record levels",
-        "link": "https://www.washingtonpost.com/nation/2020/07/11/coronavirus-update-us/"
+        "title": "Coronavirus Live Updates: U.S. and World News",
+        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
     },
     {
         "title": "Iran says not possible to shut economy: Coronavirus live updates",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-11-20-intl/index.html"
     },
     {
-        "title": "Hong Kong Security Law Helps China Tighten Grip Over Schools",
-        "link": "https://www.nytimes.com/2020/07/11/world/asia/china-hong-kong-security-schools.html"
-    },
-    {
-        "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
-        "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
+        "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
+        "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     },
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
+    },
+    {
+        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
     }
 ];

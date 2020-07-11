@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
-        "link": "https://www.news1.kr/articles/?3991019"
-    },
-    {
         "title": "제주지역 20번째 코로나19 확진자 발생",
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
+    },
+    {
+        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
+        "link": "https://www.news1.kr/articles/?3991019"
     },
     {
         "title": "12개월 영아까지 감염… 광주 코로나 12일 만에 100명 돌파",
