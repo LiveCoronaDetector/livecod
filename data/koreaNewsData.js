@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020071110360413121"
     },
     {
-        "title": "코로나19 해외유입 감소로 30명대…지역발생 20명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01449766625833536"
+        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     }
 ];

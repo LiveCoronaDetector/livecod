@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://us.cnn.com/2020/07/10/world/meanwhile-in-america-july-10-intl/index.html"
     },
     {
-        "title": "Brazil's coronavirus death toll exceeds 70,000: Live updates",
+        "title": "India logs daily record as coronavirus cases exceed 800,000: Live",
         "link": "https://www.aljazeera.com/news/2020/07/brazil-coronavirus-death-toll-exceeds-70000-live-updates-200710233726278.html"
     },
     {
         "title": "EXCLUSIVE: Chinese virologist accuses Beijing of coronavirus cover-up, flees Hong Kong: 'I know how they tr...",
         "link": "https://www.foxnews.com/world/chinese-virologist-coronavirus-cover-up-flee-hong-kong-whistleblower"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-11-20-intl/index.html"
     },
     {
         "title": "In Hong Kong Security Law, China Asserts Legal Jurisdiction over the Entire World",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
         "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-11-20-intl/index.html"
     }
 ];
