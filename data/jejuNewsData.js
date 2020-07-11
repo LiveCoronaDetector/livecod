@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
     {
+        "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "12개월 영아까지 감염… 광주 코로나 12일 만에 100명 돌파",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014784328&code=61121111&cp=nv"
     },
     {
         "title": "제주도, ‘해열제 10알’ 먹고 여행한 확진자에 억대 손해배상 청구",
         "link": "https://www.donga.com/news/article/all/20200709/101896301/2"
-    },
-    {
-        "title": "제주도, 유증상에도 제주여행 강행한 A씨 상대 손해배상청구",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=324771"
     }
 ];

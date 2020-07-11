@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 35명 증가...해외 15명, 광주 9명, 서울 6명",
-        "link": "http://www.fnnews.com/news/202007111014117797"
-    },
-    {
         "title": "코로나19 신규 확진자 35명…보름 만에 30명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
     },
@@ -19,6 +15,10 @@ var koreaNewsData = [
     {
         "title": "베이징 닷새째 코로나19 확진자 0명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 35명 증가...해외 15명, 광주 9명, 서울 6명",
+        "link": "http://www.fnnews.com/news/202007111014117797"
     },
     {
         "title": "코로나19 어제 신규확진 35명…지역발생 20명",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z59FPNRL8"
     },
     {
-        "title": "대전서 159번째 코로나19 확진자 발생…157번 접촉자",
-        "link": "https://www.news1.kr/articles/?3992723"
-    },
-    {
         "title": "코로나19 해외유입 감소로 30명대…지역발생 20명(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01449766625833536"
+    },
+    {
+        "title": "WHO \"카자흐스탄 폐렴, 코로나19일 듯…제대로 진단 안돼\"",
+        "link": "https://www.news1.kr/articles/?3992682"
     }
 ];
