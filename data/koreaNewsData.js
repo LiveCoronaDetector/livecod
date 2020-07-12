@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007121018001&code=940601"
     },
     {
-        "title": "日코로나 신규확진 또 400명 넘어…대형행사 속속 재개(종합)",
-        "link": "http://yna.kr/AKR20200712039151073?did=1195m"
-    },
-    {
         "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
+    },
+    {
+        "title": "코로나19 비수도권 일평균 확진자 수도권 추월…6.7명→16.7명",
+        "link": "https://view.asiae.co.kr/article/2020071217400180576"
+    },
+    {
+        "title": "日코로나 신규확진 또 400명 넘어…대형행사 속속 재개(종합)",
+        "link": "http://yna.kr/AKR20200712039151073?did=1195m"
     },
     {
         "title": "'코로나19' 신규확진 보름만에 30명대로",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "‘코로나19 비상’ 광주시, 보름새 128명 추가 발생",
         "link": "https://www.pressian.com/pages/articles/2020071210050091055?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "코로나19 신규 확진 44명…국내 발생 21명",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5839756_32496.html"
     }
 ];

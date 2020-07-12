@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
-        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
-        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
-    },
-    {
         "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches",
         "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
     },
     {
-        "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
-        "link": "https://www.bbc.com/news/world-asia-india-53375744"
+        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
+        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
+    },
+    {
+        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
+        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
     }
 ];
