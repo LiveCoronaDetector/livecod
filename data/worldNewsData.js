@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-storm-hits-south-africa-live-updates-200711230513471.html"
     },
     {
-        "title": "Coronavirus: Donald Trump finally wears mask in public",
+        "title": "Coronavirus: Donald Trump wears face mask for the first time",
         "link": "https://www.bbc.com/news/world-us-canada-53378439"
     },
     {
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/12/coronavirus-brings-tension-prejudice-italy-beaches"
     },
     {
-        "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
-        "link": "https://www.bbc.com/news/world-asia-india-53375744"
+        "title": "Bollywood stars hospitalized as coronavirus cases spike in India",
+        "link": "https://www.cnn.com/2020/07/12/india/india-bollywood-coronavirus-cases-scli-intl/index.html"
     },
     {
         "title": "Japan: Anger at coronavirus outbreaks at US Marine bases in Okinawa - Business Insider",
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
-        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
-    },
-    {
-        "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
-        "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
-    },
-    {
-        "title": "Will Republicans ditch Trump to save the Senate as support nosedives?",
-        "link": "https://www.theguardian.com/us-news/2020/jul/11/donald-trump-republicans-election-senate-biden"
-    },
-    {
         "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
         "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
+    },
+    {
+        "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
+        "link": "https://www.bbc.com/news/world-asia-india-53375744"
+    },
+    {
+        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
+        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
+    },
+    {
+        "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
     }
 ];
