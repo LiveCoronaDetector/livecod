@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Trump wears mask in public for first time",
-        "link": "https://www.youtube.com/watch?v=KiWWvO5jm9c"
-    },
-    {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-12-20-intl/index.html"
-    },
-    {
         "title": "Bollywood megastar Amitabh Bachchan hospitalized with COVID-19",
         "link": "https://news.yahoo.com/bollywood-megastar-bachchan-hospitalized-covid-19-183327969.html"
     },
     {
         "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
         "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
+    },
+    {
+        "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
+    },
+    {
+        "title": "Bill Gates warns against coronavirus vaccine going to highest bidder — 'We'll have a deadlier pandemic'",
+        "link": "https://www.cnbc.com/2020/07/11/bill-gates-warns-coronavirus-vaccine-shouldnt-go-to-highest-bidder.html"
     }
 ];

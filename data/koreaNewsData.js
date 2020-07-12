@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071210475988459"
     },
     {
-        "title": "코로나 신규 확진자 44명 증가…수도권 15명 · 광주 5명",
-        "link": "http://www.hani.co.kr/arti/society/health/953256.html"
-    },
-    {
-        "title": "코로나19 신규 확진자 35명…보름 만에 30명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
-    },
-    {
-        "title": "배드민턴 클럽 등 광주 코로나19 확진 5명 늘어…누적 161명",
-        "link": "http://yna.kr/AKR20200712007800054?did=1195m"
-    },
-    {
-        "title": "[속보] 서초동 제일기획에서 확진자 발생…GT타워 사업장 폐쇄",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014792309&code=61121111&cp=nv"
-    },
-    {
-        "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
+        "title": "코로나19, 신규 확진자 44명 발생…\"지역발생‧해외유입 지속\"",
+        "link": "http://www.inews24.com/view/1281054"
     },
     {
         "title": "중국 \"수도 베이징 코로나19 확진자, 6일째 0명\"",
         "link": "https://view.asiae.co.kr/article/2020071209513370671"
     },
     {
-        "title": "[속보]전북 36번째 확진자 발생 …필린핀서 입국 30대 여성",
-        "link": "http://www.fnnews.com/news/202007121003380454"
+        "title": "‘코로나19 비상’ 광주시, 보름새 128명 추가 발생",
+        "link": "https://www.pressian.com/pages/articles/2020071210050091055?utm_source=naver&utm_medium=search"
     },
     {
         "title": "日, 도쿄 200명대 확진자에 오키나와 주일미군 집단감염으로 비상",
         "link": "https://hankookilbo.com/News/Read/A2020071211150002100?did=NA"
     },
     {
-        "title": "대구·경북 코로나19 신규 확진자 0명 기록 이어가(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007120049"
+        "title": "[속보]코로나19 신규 확진자 44명, 이틀 만에 다시 40명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007121018001&code=940601"
+    },
+    {
+        "title": "'코로나19' 신규확진 보름만에 30명대로",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100683.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "배드민턴 클럽 등 광주 코로나19 확진 5명 늘어…누적 161명",
+        "link": "http://yna.kr/AKR20200712007800054?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진 44명…국내 발생 21명",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5839756_32496.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 35명…지역발생 20명",
+        "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
     }
 ];
