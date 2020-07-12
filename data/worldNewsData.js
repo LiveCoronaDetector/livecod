@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
     },
     {
-        "title": "Bollywood megastar Amitabh Bachchan hospitalized with COVID-19",
-        "link": "https://news.yahoo.com/bollywood-megastar-bachchan-hospitalized-covid-19-183327969.html"
+        "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
+        "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
     },
     {
         "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
