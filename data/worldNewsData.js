@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Coronavirus live news: Australia vaccine human trials to start, Trump wears mask in public",
+        "title": "Coronavirus live news: Okinawa anger over US base cases, Australia vaccine trial to begin",
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
         "title": "Amitabh Bachchan, son Abhishek in hospital with coronavirus",
         "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-son-abhishek-in-hospital-with-coronavirus/articleshow/76916466.cms"
+    },
+    {
+        "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
+        "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     },
     {
         "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
-    },
-    {
-        "title": "Bill Gates warns against coronavirus vaccine going to highest bidder — 'We'll have a deadlier pandemic'",
-        "link": "https://www.cnbc.com/2020/07/11/bill-gates-warns-coronavirus-vaccine-shouldnt-go-to-highest-bidder.html"
     }
 ];
