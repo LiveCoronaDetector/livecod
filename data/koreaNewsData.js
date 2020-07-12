@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953256.html"
     },
     {
+        "title": "WHO \"코로나19 신규 확진자 23만명\"…일일 기준 최다",
+        "link": "http://yna.kr/AKR20200713001800088?did=1195m"
+    },
+    {
         "title": "日, 도쿄 200명대 확진자에 오키나와 주일미군 집단감염으로 비상",
         "link": "https://hankookilbo.com/News/Read/A2020071211150002100?did=NA"
     },
     {
         "title": "[속보]코로나19 신규 확진자 44명, 이틀 만에 다시 40명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007121018001&code=940601"
-    },
-    {
-        "title": "WHO \"코로나19 신규 확진자 23만명\"…일일 기준 최다",
-        "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
         "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
