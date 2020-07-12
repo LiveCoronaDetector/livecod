@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53378439"
     },
     {
-        "title": "Inventor of Israel's Iron Dome seeks coronavirus 'game-changer'",
-        "link": "https://news.yahoo.com/inventor-israels-iron-dome-seeks-coronavirus-game-changer-021708086.html"
+        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
+        "link": "https://www.bbc.com/news/world-middle-east-53378442"
     },
     {
-        "title": "Reopened schools in Europe and Asia have largely avoided coronavirus outbreaks. They have lessons for the U.S.",
-        "link": "https://www.washingtonpost.com/world/europe/schools-reopening-coronavirus/2020/07/10/865fb3e6-c122-11ea-8908-68a2b9eae9e0_story.html"
+        "title": "Coronavirus brings tension and prejudice to Italy's beaches",
+        "link": "https://www.theguardian.com/world/2020/jul/12/coronavirus-brings-tension-prejudice-italy-beaches"
     },
     {
         "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Trump Wears a Mask Publicly for the First Time",
-        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
+        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
+        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
     },
     {
         "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=bR9FD1bHU_k"
     },
     {
-        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
-        "link": "https://www.bbc.com/news/world-middle-east-53378442"
+        "title": "Doug Collins: Trump will ultimately prevail against Biden and 'leftist takeover' bid",
+        "link": "https://www.foxnews.com/media/doug-collins-trump-will-ultimately-prevail-against-biden-and-leftist-takeover-bid"
     }
 ];
