@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Japanese governor demands U.S. military meeting after coronavirus outbreak at Okinawa bases",
-        "link": "https://www.nbcnews.com/news/world/japanese-governor-demands-u-s-military-meeting-after-coronavirus-outbreak-n1233574"
+        "title": "Coronavirus live news: Australia vaccine human trials to start, Trump wears mask in public",
+        "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "President Trump wears mask for 1st time in public during coronavirus pandemic",
-        "link": "https://abc7.com/amp/president-donald-trump-face-mask-wears-covid/6313164/"
+        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
+        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
     },
     {
         "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus",
