@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "WHO \"현 상황에선 코로나19 사라질 것 같지 않다\"(종합)",
-        "link": "http://yna.kr/AKR20200711003151088?did=1195m"
+        "title": "배드민턴 클럽 등 광주 코로나19 확진 5명 늘어…누적 161명",
+        "link": "http://yna.kr/AKR20200712007800054?did=1195m"
     },
     {
-        "title": "“배드민턴 클럽 관련” 코로나19 광주 확진자 3명 추가 발생",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200712500010&wlog_tag3=naver"
+        "title": "WHO \"현 상황에선 코로나19 사라질 것 같지 않다\"(종합)",
+        "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
     {
         "title": "일본 코로나 신규 확진 383명…사흘째 300~400명대",
