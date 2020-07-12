@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Coronavirus live news: UK minister says people should return to work; Afghanistan death toll passes 1,000",
+        "title": "Coronavirus live news: 73 test positive in English farm outbreak; Hungary imposes partial visitor ban",
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
     },
     {
-        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
-        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
+        "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
     },
     {
         "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
