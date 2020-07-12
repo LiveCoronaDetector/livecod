@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-storm-hits-south-africa-live-updates-200711230513471.html"
     },
     {
-        "title": "Coronavirus update: Florida shatters single-day infection record with 15,300 new cases",
-        "link": "https://www.washingtonpost.com/nation/2020/07/12/coronavirus-update-us/"
+        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
+        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
-        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
+        "title": "Florida shatters record for new single-day Covid-19 cases from any state",
+        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches | KyivPost - Ukraine's Global Voice",
         "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
     },
     {
-        "title": "Coronavirus: Three generations of Bollywood Bachchan family infected",
-        "link": "https://www.bbc.com/news/world-asia-india-53380291"
+        "title": "'No one is safe until everyone is safe': Vaccine nationalism threatens global coronavirus effort",
+        "link": "https://www.usatoday.com/story/news/health/2020/07/12/vaccine-nationalism-threatens-global-efforts-race-stop-coronavirus/5384850002/"
     },
     {
         "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
