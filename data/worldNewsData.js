@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Trump wears mask in public for first time during pandemic",
-        "link": "https://www.sfgate.com/news/article/Trump-wears-mask-in-public-for-first-time-during-15401962.php"
+        "title": "BREAKING: President Trump wears mask during visit to Walter Reed hospital",
+        "link": "https://www.youtube.com/watch?v=FNon7eth9Oc"
     },
     {
-        "title": "Michael Gove: 'We want to see more people back at work'",
-        "link": "https://www.youtube.com/watch?v=OgEuXE2QdqY"
+        "title": "Michael Gove says wearing face masks in shops is NOT mandatory as coronavirus lockdown is eased",
+        "link": "https://www.youtube.com/watch?v=bR9FD1bHU_k"
     },
     {
         "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
         "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
     },
     {
-        "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
-        "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
+        "title": "Trump wears mask in public for first time",
+        "link": "https://www.youtube.com/watch?v=KiWWvO5jm9c"
     }
 ];
