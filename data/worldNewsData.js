@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Coronavirus live news: 73 test positive in English farm outbreak; Hungary imposes partial visitor ban",
-        "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
+        "title": "Japan: Anger at coronavirus outbreaks at US Marine bases in Okinawa - Business Insider",
+        "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Coronavirus: Trump wears face mask in public for the first time",
-        "link": "https://www.brusselstimes.com/all-news/121192/coronavirus-trump-wears-face-mask-in-public-for-the-first-time/"
+        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
+        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
     },
     {
-        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
-        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
+        "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
+        "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
     },
     {
-        "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
+        "title": "Will Republicans ditch Trump to save the Senate as support nosedives?",
+        "link": "https://www.theguardian.com/us-news/2020/jul/11/donald-trump-republicans-election-senate-biden"
     },
     {
-        "title": "Bill Gates warns against coronavirus vaccine going to highest bidder — 'We'll have a deadlier pandemic'",
-        "link": "https://www.cnbc.com/2020/07/11/bill-gates-warns-coronavirus-vaccine-shouldnt-go-to-highest-bidder.html"
+        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
+        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
     }
 ];

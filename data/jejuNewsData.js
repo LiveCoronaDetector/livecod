@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
     },
     {
-        "title": "제주도, 교회 소규모 대면 모임 전면 금지 안내…위반 시 과태료",
-        "link": "http://yna.kr/AKR20200710125100056?did=1195m"
-    },
-    {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
+    },
+    {
+        "title": "제주도, 교회 소규모 대면 모임 전면 금지 안내…위반 시 과태료",
+        "link": "http://yna.kr/AKR20200710125100056?did=1195m"
     },
     {
         "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
