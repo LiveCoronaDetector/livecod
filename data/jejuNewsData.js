@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
     {
-        "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
-    },
-    {
         "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
         "title": "제주지역 20번째 코로나19 확진자 발생",

@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.yahoo.com/news/florida-reports-over-15-000-151825722.html"
     },
     {
-        "title": "Coronavirus: Three generations of Bollywood Bachchan family infected",
-        "link": "https://www.bbc.com/news/world-asia-india-53380291"
+        "title": "'No one is safe until everyone is safe': Vaccine nationalism threatens global coronavirus effort",
+        "link": "https://www.usatoday.com/story/news/health/2020/07/12/vaccine-nationalism-threatens-global-efforts-race-stop-coronavirus/5384850002/"
     },
     {
-        "title": "Japan Demands Action as 61 US Marines Infected With COVID | Time",
-        "link": "https://time.com/5865962/okinawa-island-coronavirus-marines/"
+        "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
+        "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
     },
     {
         "title": "Leaving World Health Organization marks major foreign policy blunder | TheHill",
