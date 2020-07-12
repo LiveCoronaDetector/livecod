@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071210475988459"
     },
     {
-        "title": "[속보] 서초동 제일기획에서 확진자 발생…GT타워 사업장 폐쇄",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014792309&code=61121111&cp=nv"
-    },
-    {
         "title": "중국 \"수도 베이징 코로나19 확진자, 6일째 0명\"",
         "link": "https://view.asiae.co.kr/article/2020071209513370671"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020071211150002100?did=NA"
     },
     {
+        "title": "[속보] 서초동 제일기획에서 확진자 발생…GT타워 사업장 폐쇄",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014792309&code=61121111&cp=nv"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 44명, 이틀 만에 다시 40명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007121018001&code=940601"
     },
     {
-        "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
-    },
-    {
-        "title": "'코로나19' 신규확진 보름만에 30명대로",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100683.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "배드민턴 클럽 등 광주 코로나19 확진 5명 늘어…누적 161명",
-        "link": "http://yna.kr/AKR20200712007800054?did=1195m"
+        "title": "코로나19, 신규 확진자 44명 발생…\"지역발생‧해외유입 지속\"",
+        "link": "http://www.inews24.com/view/1281054"
     },
     {
         "title": "코로나19 신규 확진 44명…국내 발생 21명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5839756_32496.html"
     },
     {
-        "title": "이용섭 시장, 광주 코로나 휴일 브리핑…n차 감염 확진자 확산(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=577480"
+        "title": "도쿄 코로나 확진 나흘째 200명 넘어…누적 8천명 육박",
+        "link": "http://yna.kr/AKR20200712039100073?did=1195m"
+    },
+    {
+        "title": "제일기획 강남사업장, 코로나19 확진자 발생... 4개층 폐쇄",
+        "link": "http://www.newsis.com/view/?id=NISI20200712_0016470515"
+    },
+    {
+        "title": "코로나19 신규확진 다시 40명대로 늘어...해외 유입이 더 많아",
+        "link": "http://www.fnnews.com/news/202007121457543469"
     }
 ];
