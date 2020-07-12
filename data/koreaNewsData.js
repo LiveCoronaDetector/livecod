@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071210475988459"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 44명 증가…수도권 15명, 광주 5명",
-        "link": "http://www.hani.co.kr/arti/society/health/953256.html"
+        "title": "코로나19 신규 확진자 35명…보름 만에 30명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
     },
     {
-        "title": "[속보]코로나19 신규 확진 44명...해외유입 23명 지역발생 21명",
-        "link": "https://www.sedaily.com/NewsView/1Z59VVG6TV"
+        "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
+    },
+    {
+        "title": "코로나19 신규확진 44명… 수도권·광주·대전에 집중 (종합)",
+        "link": "http://moneys.mt.co.kr/news/mwView.php?no=2020071211128065977"
     },
     {
         "title": "배드민턴 클럽 등 광주 코로나19 확진 5명 늘어…누적 161명",
@@ -21,16 +25,8 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071209513370671"
     },
     {
-        "title": "코로나19 어제(11일) 44명 신규확진…해외유입 23명·지역발생 21명",
-        "link": "https://www.donga.com/news/article/all/20200712/101926640/1"
-    },
-    {
         "title": "[속보]전북 36번째 확진자 발생 …필린핀서 입국 30대 여성",
         "link": "http://www.fnnews.com/news/202007121003380454"
-    },
-    {
-        "title": "코로나19 신규 확진자 35명…보름 만에 30명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
     },
     {
         "title": "코로나 신규 확진자 35명 증가…서울 6명·광주 9명",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "미국 신규 확진자 6만9000명 '또 기록'…\"사망자도 상승세\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007110040&t=NN"
+    },
+    {
+        "title": "베이징 닷새째 코로나19 확진자 0명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100678.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

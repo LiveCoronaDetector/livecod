@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Amitabh Bachchan, son Abhishek in hospital with coronavirus",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-son-abhishek-in-hospital-with-coronavirus/articleshow/76916466.cms"
+        "title": "Conservatives rally around Goya amid calls for boycott over CEO's pro-Trump remarks",
+        "link": "https://www.foxnews.com/politics/conservatives-rally-around-goya-amid-boycott"
     },
     {
         "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
         "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     },
     {
-        "title": "Disney World reopens even as coronavirus cases soar in Florida and across U.S.",
-        "link": "https://www.nbcnews.com/news/us-news/disney-world-reopens-even-coronavirus-cases-rise-florida-across-u-n1233579"
+        "title": "Amitabh Bachchan, son Abhishek in hospital with coronavirus",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-son-abhishek-in-hospital-with-coronavirus/articleshow/76916466.cms"
     },
     {
-        "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
+        "title": "Disney World reopens even as coronavirus cases soar in Florida and across U.S.",
+        "link": "https://www.nbcnews.com/news/us-news/disney-world-reopens-even-coronavirus-cases-rise-florida-across-u-n1233579"
     }
 ];

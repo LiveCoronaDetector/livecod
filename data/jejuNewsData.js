@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
     },
     {
-        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
-        "link": "https://www.news1.kr/articles/?3991019"
-    },
-    {
         "title": "제주지역 20번째 코로나19 확진자 발생…외국서 입국",
         "link": "http://www.hani.co.kr/arti/area/jeju/952260.html"
+    },
+    {
+        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
+        "link": "https://www.news1.kr/articles/?3991019"
     }
 ];
