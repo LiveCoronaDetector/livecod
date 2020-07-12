@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Will Republicans ditch Trump to save the Senate as support nosedives?",
-        "link": "https://www.theguardian.com/us-news/2020/jul/11/donald-trump-republicans-election-senate-biden"
+        "title": "Amitabh Bachchan, son Abhishek in hospital with coronavirus",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-son-abhishek-in-hospital-with-coronavirus/articleshow/76916466.cms"
     },
     {
         "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
         "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     },
     {
-        "title": "Disney World reopens even as coronavirus cases soar in Florida and across U.S.",
-        "link": "https://www.nbcnews.com/news/us-news/disney-world-reopens-even-coronavirus-cases-rise-florida-across-u-n1233579"
-    },
-    {
         "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
+    },
+    {
+        "title": "How coronavirus affects the entire body",
+        "link": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html"
     }
 ];
