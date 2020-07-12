@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953256.html"
     },
     {
-        "title": "日, 도쿄 200명대 확진자에 오키나와 주일미군 집단감염으로 비상",
-        "link": "https://hankookilbo.com/News/Read/A2020071211150002100?did=NA"
+        "title": "일본 코로나19신규확진 408명…정부 \"경계감 가지고 대응\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200713_0001092394&cID=10101&pID=10100"
     },
     {
         "title": "[속보]코로나19 신규 확진자 44명, 이틀 만에 다시 40명대",
@@ -19,10 +19,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
-    },
-    {
-        "title": "일본 코로나19신규확진 408명…정부 \"경계감 가지고 대응\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200713_0001092394&cID=10101&pID=10100"
     },
     {
         "title": "'코로나19' 신규확진 보름만에 30명대로",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "‘코로나19 비상’ 광주시, 보름새 128명 추가 발생",
         "link": "https://www.pressian.com/pages/articles/2020071210050091055?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "코로나19 신규 확진 44명…국내 발생 21명",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5839756_32496.html"
     }
 ];

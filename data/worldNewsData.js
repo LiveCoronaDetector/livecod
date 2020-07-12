@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53382797"
     },
     {
-        "title": "Coronavirus update: Florida shatters single-day infection record with 15,300 new cases",
-        "link": "https://www.washingtonpost.com/nation/2020/07/12/coronavirus-update-us/"
+        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
+        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
-        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
+        "title": "Florida shatters US record for new single-day Covid-19 cases",
+        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
     },
     {
-        "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches | KyivPost - Ukraine's Global Voice",
-        "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
+        "title": "Japan Demands Action as 61 US Marines Infected With COVID | Time",
+        "link": "https://time.com/5865962/okinawa-island-coronavirus-marines/"
     }
 ];
