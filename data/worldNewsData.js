@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
-        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
+        "title": "Trump claims ‘nobody ever heard’ Abraham Lincoln was a Republican until he pointed it out",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-abraham-lincoln-president-doral-golf-resort-venezuela-a9613666.html"
+    },
+    {
+        "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches",
+        "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
     },
     {
         "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
-        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
-    },
-    {
-        "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
+        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
+        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
     }
 ];
