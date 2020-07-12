@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
-        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
+        "title": "Polls show Trump is losing to Joe Biden. They said the same thing 4 years ago against Hillary Clinton",
+        "link": "https://www.usatoday.com/story/news/politics/elections/2020/07/12/election-2020-trump-trails-biden-polling-he-trailed-clinton-too/5398025002/"
     },
     {
         "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Bill Gates warns against coronavirus vaccine going to highest bidder — 'We'll have a deadlier pandemic'",
-        "link": "https://www.cnbc.com/2020/07/11/bill-gates-warns-coronavirus-vaccine-shouldnt-go-to-highest-bidder.html"
+        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
+        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
     }
 ];

@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5839756_32496.html"
     },
     {
-        "title": "마스크 쓰고 카메라 선 트럼프, 하루 확진자 7만명에 결국 백기",
-        "link": "https://news.joins.com/article/olink/23417318"
+        "title": "제일기획 직원 코로나 확진…강남사업장 폐쇄",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01974566625833864"
     }
 ];
