@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Coronavirus live news: Okinawa anger over US base cases, Australia vaccine trial to begin",
+        "title": "Coronavirus live news: Russia reports over 6,600 new cases; UK Labour signals support for stricter mask rules",
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Trump Wears a Mask Publicly for the First Time",
-        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
-        "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
+        "title": "Trump wears mask in public for first time",
+        "link": "https://www.youtube.com/watch?v=KiWWvO5jm9c"
     },
     {
         "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
         "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     },
     {
-        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
-        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
+        "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
+        "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
+    },
+    {
+        "title": "Enough coronavirus vaccine doses for everyone in UK 'in first half of next year' if trials succeed, research chief says",
+        "link": "https://www.independent.co.uk/news/uk/politics/coronavirus-uk-vaccine-when-covid-imperial-college-a9614336.html"
     }
 ];
