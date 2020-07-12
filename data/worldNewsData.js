@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Amitabh Bachchan, son Abhishek in hospital with coronavirus",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-son-abhishek-in-hospital-with-coronavirus/articleshow/76916466.cms"
+        "title": "Trump Wears a Mask Publicly for the First Time",
+        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Bollywood megastar Amitabh Bachchan hospitalized with COVID-19",
+        "link": "https://news.yahoo.com/bollywood-megastar-bachchan-hospitalized-covid-19-183327969.html"
     },
     {
         "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
         "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     },
     {
-        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
-        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
-    },
-    {
-        "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
+        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
+        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
     }
 ];
