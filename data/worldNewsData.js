@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/12/india/india-bollywood-coronavirus-cases-scli-intl/index.html"
     },
     {
-        "title": "Japan: Anger at coronavirus outbreaks at US Marine bases in Okinawa - Business Insider",
-        "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
+        "title": "Coronavirus live news: Florida sees fresh record rise in infections; 73 test positive in English farm outbreak",
+        "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Trump claims ‘nobody ever heard’ Abraham Lincoln was a Republican until he pointed it out",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-abraham-lincoln-president-doral-golf-resort-venezuela-a9613666.html"
+        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
+        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
     },
     {
         "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
-        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
+        "title": "Bill Gates warns against coronavirus vaccine going to highest bidder — 'We'll have a deadlier pandemic'",
+        "link": "https://www.cnbc.com/2020/07/11/bill-gates-warns-coronavirus-vaccine-shouldnt-go-to-highest-bidder.html"
     }
 ];

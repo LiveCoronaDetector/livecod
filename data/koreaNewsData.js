@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007121018001&code=940601"
     },
     {
-        "title": "[속보] ‘필리핀서 입국’ 3명 코로나19 신규 확진",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200712500096&wlog_tag3=naver"
-    },
-    {
         "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진 44명…국내 발생 21명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5839756_32496.html"
+    },
+    {
+        "title": "마스크 쓰고 카메라 선 트럼프, 하루 확진자 7만명에 결국 백기",
+        "link": "https://news.joins.com/article/olink/23417318"
     }
 ];
