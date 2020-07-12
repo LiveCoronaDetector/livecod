@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
-        "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
-    },
-    {
         "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
         "link": "http://yna.kr/AKR20200707117400056?did=1195m"
+    },
+    {
+        "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
         "title": "교회 관련 확진자, 대부분 소모임·식사 과정에서 발생",
