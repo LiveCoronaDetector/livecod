@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
-        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
+        "title": "Florida reports over 15,000 COVID-19 cases in single-day record",
+        "link": "https://www.yahoo.com/news/florida-reports-over-15-000-151825722.html"
     },
     {
-        "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches",
-        "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
+        "title": "Coronavirus: Three generations of Bollywood Bachchan family infected",
+        "link": "https://www.bbc.com/news/world-asia-india-53380291"
     },
     {
-        "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
-        "link": "https://www.bbc.com/news/world-asia-india-53375744"
+        "title": "Japan Demands Action as 61 US Marines Infected With COVID | Time",
+        "link": "https://time.com/5865962/okinawa-island-coronavirus-marines/"
     },
     {
-        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
-        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
+        "title": "Leaving World Health Organization marks major foreign policy blunder | TheHill",
+        "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
     }
 ];

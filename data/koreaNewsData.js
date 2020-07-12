@@ -5,18 +5,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953256.html"
     },
     {
-        "title": "日, 도쿄 200명대 확진자에 오키나와 주일미군 집단감염으로 비상",
-        "link": "https://hankookilbo.com/News/Read/A2020071211150002100?did=NA"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 44명, 이틀 만에 다시 40명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007121018001&code=940601"
-    },
-    {
-        "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
-    },
-    {
         "title": "WHO \"코로나19 신규 확진자 23만명\"…일일 기준 최다",
         "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
@@ -25,12 +13,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100683.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19, 신규 확진자 44명 발생…\"지역발생‧해외유입 지속\"",
-        "link": "http://www.inews24.com/view/1281054"
-    },
-    {
-        "title": "레바논서 코로나19 확진자 급증…하루 최다 166명",
-        "link": "http://yna.kr/AKR20200713001100079?did=1195m"
+        "title": "광주서 코로나19 확진자 5명 추가 발생...누적확진자 161명",
+        "link": "http://www.fnnews.com/news/202007120852264830"
     },
     {
         "title": "코로나19 비수도권 일평균 확진자 수도권 추월…6.7명→16.7명",
@@ -39,5 +23,21 @@ var koreaNewsData = [
     {
         "title": "경북도 코로나19 확산 당시 의료인 초청 관광 지원",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657643&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "WHO \"코로나19 신규 확진자 23만 명\"…일일 기준 최다",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005880000&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "日코로나 신규확진 또 400명 넘어…대형행사 속속 재개(종합)",
+        "link": "http://yna.kr/AKR20200712039151073?did=1195m"
+    },
+    {
+        "title": "제일기획 직원 코로나 확진…강남사업장 폐쇄",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01974566625833864"
+    },
+    {
+        "title": "도쿄 코로나 확진 나흘째 200명 넘어…누적 8천명 육박",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5840100_32640.html"
     }
 ];
