@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Coronavirus Live Updates: Trump Wears Mask Publicly for First Time",
+        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
         "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
-        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
-        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
+        "title": "Are Young People Responsible for Increasing Coronavirus Cases?",
+        "link": "https://www.youtube.com/watch?v=eBTZAwE6IEc"
     },
     {
-        "title": "Okinawa demands answers from US after 61 marines contract coronavirus",
-        "link": "https://www.theguardian.com/world/2020/jul/12/okinawa-demands-answers-from-us-after-61-marines-contract-coronovirus"
+        "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches",
+        "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
     },
     {
         "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
