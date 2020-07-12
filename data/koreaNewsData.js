@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071210475988459"
     },
     {
+        "title": "[속보] 서초동 제일기획에서 확진자 발생…GT타워 사업장 폐쇄",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014792309&code=61121111&cp=nv"
+    },
+    {
         "title": "코로나19, 신규 확진자 44명 발생…\"지역발생‧해외유입 지속\"",
         "link": "http://www.inews24.com/view/1281054"
     },
     {
         "title": "배드민턴 클럽 등 광주 코로나19 확진 5명 늘어…누적 161명",
         "link": "http://yna.kr/AKR20200712007800054?did=1195m"
-    },
-    {
-        "title": "[속보] 서초동 제일기획에서 확진자 발생…GT타워 사업장 폐쇄",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014792309&code=61121111&cp=nv"
     },
     {
         "title": "코로나19 신규 확진 44명…국내 발생 21명",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007121003380454"
     },
     {
-        "title": "이용섭 시장, 광주 코로나 휴일 브리핑…n차 감염 확진자 확산(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=577480"
-    },
-    {
         "title": "코로나19 신규 확진자 35명…보름 만에 30명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007111016001&code=940601"
+    },
+    {
+        "title": "이용섭 시장, 광주 코로나 휴일 브리핑…n차 감염 확진자 확산(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=577480"
     }
 ];

@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
-        "title": "교회 관련 확진자, 대부분 소모임·식사 과정에서 발생",
-        "link": "http://www.newsnjoy.or.kr/news/articleView.html?idxno=300993"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "교회 관련 확진자, 대부분 소모임·식사 과정에서 발생",
+        "link": "http://www.newsnjoy.or.kr/news/articleView.html?idxno=300993"
     },
     {
         "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
