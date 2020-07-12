@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/11/health/us-coronavirus-saturday/index.html"
     },
     {
-        "title": "Israelis protest against government response to coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-israel-protests/israelis-protest-against-government-response-to-coronavirus-idUSKCN24C0RC"
+        "title": "Fears high as first four coronavirus cases confirmed in Idlib",
+        "link": "https://www.aljazeera.com/news/2020/07/fears-high-coronavirus-cases-confirmed-idlib-200711181238241.html"
     },
     {
         "title": "Reopened schools in Europe and Asia have largely avoided coronavirus outbreaks. They have lessons for the U.S.",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/japanese-governor-demands-u-s-military-meeting-after-coronavirus-outbreak-n1233574"
     },
     {
-        "title": "Virologist who fled to US from Hong Kong accuses China of covering up coronavirus",
-        "link": "https://www.deccanherald.com/international/virologist-who-fled-to-us-from-hong-kong-accuses-china-of-covering-up-coronavirus-859879.html"
+        "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
+        "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     },
     {
         "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus",
         "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
     },
     {
-        "title": "A new coronavirus mutation is taking over the world. Here's what that means.",
-        "link": "https://www.livescience.com/new-coronavirus-mutation-explained.html"
+        "title": "Disney World reopens even as coronavirus cases soar in Florida and across U.S.",
+        "link": "https://www.nbcnews.com/news/us-news/disney-world-reopens-even-coronavirus-cases-rise-florida-across-u-n1233579"
     },
     {
-        "title": "WHO: Aerosols Likely Not Significant Source Of COVID-19 Transmission : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/09/889526937/who-report-aerosols-not-likely-to-be-significant-source-of-covid-19-transmission"
+        "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
     }
 ];

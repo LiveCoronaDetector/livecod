@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200711003151088?did=1195m"
     },
     {
+        "title": "“배드민턴 클럽 관련” 코로나19 광주 확진자 3명 추가 발생",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200712500010&wlog_tag3=naver"
+    },
+    {
         "title": "일본 코로나 신규 확진 383명…사흘째 300~400명대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4492113&ref=A"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 35명…지역발생 20명",
         "link": "https://www.donga.com/news/article/all/20200711/101920735/1"
-    },
-    {
-        "title": "코로나 신규 확진자 45명 증가...국외유입 23명",
-        "link": "http://www.hani.co.kr/arti/society/health/953116.html"
     }
 ];
