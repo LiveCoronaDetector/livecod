@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953256.html"
     },
     {
+        "title": "日, 도쿄 200명대 확진자에 오키나와 주일미군 집단감염으로 비상",
+        "link": "https://hankookilbo.com/News/Read/A2020071211150002100?did=NA"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 44명, 이틀 만에 다시 40명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007121018001&code=940601"
+    },
+    {
         "title": "日코로나 신규확진 또 400명 넘어…대형행사 속속 재개(종합)",
         "link": "http://yna.kr/AKR20200712039151073?did=1195m"
+    },
+    {
+        "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
     },
     {
         "title": "'코로나19' 신규확진 보름만에 30명대로",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100683.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "광주서 코로나19 확진자 5명 추가 발생...누적확진자 161명",
-        "link": "http://www.fnnews.com/news/202007120852264830"
+        "title": "코로나19, 신규 확진자 44명 발생…\"지역발생‧해외유입 지속\"",
+        "link": "http://www.inews24.com/view/1281054"
     },
     {
-        "title": "제일기획 직원 코로나 확진…강남사업장 폐쇄",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01974566625833864"
+        "title": "레바논서 코로나19 확진자 급증…하루 최다 166명",
+        "link": "http://yna.kr/AKR20200713001100079?did=1195m"
     },
     {
-        "title": "코로나19 비수도권 일평균 확진자 수도권 추월…6.7명→16.7명",
-        "link": "https://view.asiae.co.kr/article/2020071217400180576"
+        "title": "‘코로나19 비상’ 광주시, 보름새 128명 추가 발생",
+        "link": "https://www.pressian.com/pages/articles/2020071210050091055?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "도쿄 코로나 확진 나흘째 200명 넘어…누적 8천명 육박",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5840100_32640.html"
-    },
-    {
-        "title": "인천 코로나19 확진자 3명 추가",
-        "link": "http://www.kyeongin.com/main/view.php?key=20200712010002629"
-    },
-    {
-        "title": "경북도 코로나19 확산 당시 의료인 초청 관광 지원",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657643&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "필리핀서 입국한 40대 코로나19 확진…서산 10명째",
-        "link": "http://yna.kr/AKR20200712057600063?did=1195m"
+        "title": "코로나19 신규 확진 44명…국내 발생 21명",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5839756_32496.html"
     }
 ];

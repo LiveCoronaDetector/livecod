@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
-        "title": "Are Young People Responsible for Increasing Coronavirus Cases?",
-        "link": "https://www.youtube.com/watch?v=eBTZAwE6IEc"
+        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
+        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
         "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches",
