@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53378439"
     },
     {
-        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
-        "link": "https://www.bbc.com/news/world-middle-east-53378442"
+        "title": "Inventor of Israel's Iron Dome seeks coronavirus 'game-changer'",
+        "link": "https://news.yahoo.com/inventor-israels-iron-dome-seeks-coronavirus-game-changer-021708086.html"
     },
     {
         "title": "Reopened schools in Europe and Asia have largely avoided coronavirus outbreaks. They have lessons for the U.S.",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
-        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
+        "title": "Will Republicans ditch Trump to save the Senate as support nosedives?",
+        "link": "https://www.theguardian.com/us-news/2020/jul/11/donald-trump-republicans-election-senate-biden"
     },
     {
-        "title": "Coronavirus: 'Low possibility' of vaccine by September",
-        "link": "https://www.youtube.com/watch?v=PpUI6r5gQhY"
+        "title": "Michael Gove: 'We want to see more people back at work'",
+        "link": "https://www.youtube.com/watch?v=OgEuXE2QdqY"
     },
     {
         "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
         "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
     },
     {
-        "title": "Trump wears mask in public for first time during pandemic",
-        "link": "https://apnews.com/7651589ac439646e5cf873d021f1f4b6"
+        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
+        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
     }
 ];
