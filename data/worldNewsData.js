@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-storm-hits-south-africa-live-updates-200711230513471.html"
     },
     {
-        "title": "Coronavirus: Donald Trump wears face mask for the first time",
-        "link": "https://www.bbc.com/news/world-us-canada-53378439"
+        "title": "Coronavirus update: Florida shatters single-day infection record with 15,300 new cases",
+        "link": "https://www.washingtonpost.com/nation/2020/07/12/coronavirus-update-us/"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/12/india/india-bollywood-coronavirus-cases-scli-intl/index.html"
     },
     {
-        "title": "Japan: Anger at coronavirus outbreaks at US Marine bases in Okinawa - Business Insider",
-        "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
+        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
+        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
     },
     {
-        "title": "Donald Trump openly wears face mask for first time during hospital visit",
-        "link": "https://www.youtube.com/watch?v=RolxZKerA4k"
-    },
-    {
-        "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches",
-        "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
+        "title": "Coronavirus Live Updates: Trump Wears Mask Publicly for First Time",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",
-        "link": "https://news.yahoo.com/dozens-us-marines-japans-okinawa-114553528.html"
+        "title": "Japan: Anger at coronavirus outbreaks at US Marine bases in Okinawa - Business Insider",
+        "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
+    },
+    {
+        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
+        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
     }
 ];
