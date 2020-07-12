@@ -17,8 +17,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200710125100056?did=1195m"
     },
     {
-        "title": "'해열제 복용'하며 제주여행 확진자에 1억3천만원 손배소송",
-        "link": "http://yna.kr/AKR20200707117400056?did=1195m"
+        "title": "제주도, 해열제 복용하며 여행한 안산 확진자에 손해배상 소송",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
     },
     {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
