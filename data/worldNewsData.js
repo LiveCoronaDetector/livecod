@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "BREAKING: President Trump wears mask during visit to Walter Reed hospital",
-        "link": "https://www.youtube.com/watch?v=FNon7eth9Oc"
-    },
-    {
-        "title": "Michael Gove says wearing face masks in shops is NOT mandatory as coronavirus lockdown is eased",
-        "link": "https://www.youtube.com/watch?v=bR9FD1bHU_k"
+        "title": "Trump Wears a Mask Publicly for the First Time",
+        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
     },
     {
         "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
         "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
     },
     {
-        "title": "Trump wears mask in public for first time",
-        "link": "https://www.youtube.com/watch?v=KiWWvO5jm9c"
+        "title": "Michael Gove says wearing face masks in shops is NOT mandatory as coronavirus lockdown is eased",
+        "link": "https://www.youtube.com/watch?v=bR9FD1bHU_k"
+    },
+    {
+        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
+        "link": "https://www.bbc.com/news/world-middle-east-53378442"
     }
 ];
