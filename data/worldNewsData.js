@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Historians will likely rank Trump as one of the worst presidents",
-        "link": "https://www.cnn.com/2020/07/12/politics/trump-president-rankings/index.html"
+        "title": "Coronavirus: Trump wears face mask in public for the first time",
+        "link": "https://www.brusselstimes.com/all-news/121192/coronavirus-trump-wears-face-mask-in-public-for-the-first-time/"
     },
     {
-        "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
-        "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
+        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
+        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
     },
     {
         "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
     },
     {
-        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
-        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
+        "title": "Bill Gates warns against coronavirus vaccine going to highest bidder — 'We'll have a deadlier pandemic'",
+        "link": "https://www.cnbc.com/2020/07/11/bill-gates-warns-coronavirus-vaccine-shouldnt-go-to-highest-bidder.html"
     }
 ];
