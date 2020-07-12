@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007121018001&code=940601"
     },
     {
+        "title": "'코로나19' 신규확진 보름만에 30명대로",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100683.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나19, 신규 확진자 44명 발생…\"지역발생‧해외유입 지속\"",
         "link": "http://www.inews24.com/view/1281054"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5839756_32496.html"
     },
     {
-        "title": "도쿄 코로나 확진 나흘째 200명 넘어…누적 8천명 육박",
-        "link": "http://yna.kr/AKR20200712039100073?did=1195m"
+        "title": "도쿄 코로나19 일일 신규 확진자 200명 이상…누적 8천명 육박",
+        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=4213799"
     },
     {
         "title": "제일기획 강남사업장, 코로나19 확진자 발생... 4개층 폐쇄",
         "link": "http://www.newsis.com/view/?id=NISI20200712_0016470515"
-    },
-    {
-        "title": "코로나19 신규확진 다시 40명대로 늘어...해외 유입이 더 많아",
-        "link": "http://www.fnnews.com/news/202007121457543469"
     }
 ];

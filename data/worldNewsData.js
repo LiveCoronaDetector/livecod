@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Coronavirus live news: UK minister stops short of committing to stricter face mask rules, Russia cases jump",
+        "title": "Coronavirus live news: UK minister says face masks should not be mandatory; Russia cases jump",
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Conservatives rally around Goya amid calls for boycott over CEO's pro-Trump remarks",
-        "link": "https://www.foxnews.com/politics/conservatives-rally-around-goya-amid-boycott"
+        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
+        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
     },
     {
-        "title": "BREAKING: President Trump wears mask during visit to Walter Reed hospital",
-        "link": "https://www.youtube.com/watch?v=FNon7eth9Oc"
+        "title": "Coronavirus: 'Low possibility' of vaccine by September",
+        "link": "https://www.youtube.com/watch?v=PpUI6r5gQhY"
     },
     {
         "title": "Bollywood superstar Amitabh Bachchan hospitalized for coronavirus with mild symptoms",
         "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
     },
     {
-        "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
-        "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
+        "title": "Trump wears mask in public for first time during pandemic",
+        "link": "https://apnews.com/7651589ac439646e5cf873d021f1f4b6"
     }
 ];
