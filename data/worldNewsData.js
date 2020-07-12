@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
-        "title": "Coronavirus live news: UK minister says face masks should not be mandatory; Russia cases jump",
+        "title": "Coronavirus live news: UK minister says people should return to work; Afghanistan death toll passes 1,000",
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Will Republicans ditch Trump to save the Senate as support nosedives?",
-        "link": "https://www.theguardian.com/us-news/2020/jul/11/donald-trump-republicans-election-senate-biden"
+        "title": "Trump wears mask in public for first time during pandemic",
+        "link": "https://www.sfgate.com/news/article/Trump-wears-mask-in-public-for-first-time-during-15401962.php"
     },
     {
         "title": "Michael Gove: 'We want to see more people back at work'",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/11/entertainment/amitabh-bachchan-bollywood-superstar-coronavirus-trnd/index.html"
     },
     {
-        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
-        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
+        "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
+        "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
     }
 ];
