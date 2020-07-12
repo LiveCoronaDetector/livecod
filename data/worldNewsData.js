@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-storm-hits-south-africa-live-updates-200711230513471.html"
     },
     {
-        "title": "Coronavirus update: Florida shatters single-day infection record with 15,300 new cases",
-        "link": "https://www.washingtonpost.com/nation/2020/07/12/coronavirus-update-us/"
+        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
+        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
     },
     {
-        "title": "Thousands Protest in Tel Aviv Against Israeli Government's Response to Covid-19",
-        "link": "https://www.youtube.com/watch?v=XnZIW8n7JoA"
+        "title": "Coronavirus: Bollywood star Amitabh Bachchan tests positive",
+        "link": "https://www.bbc.com/news/world-asia-india-53375744"
     },
     {
         "title": "Dozens of US Marines in Japan's Okinawa get coronavirus",

@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "교회 관련 확진자, 대부분 소모임·식사 과정에서 발생",
-        "link": "http://www.newsnjoy.or.kr/news/articleView.html?idxno=300993"
-    },
-    {
         "title": "제주지역 20번째 코로나19 확진자 발생",
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
+    },
+    {
+        "title": "교회 관련 확진자, 대부분 소모임·식사 과정에서 발생",
+        "link": "http://www.newsnjoy.or.kr/news/articleView.html?idxno=300993"
     }
 ];

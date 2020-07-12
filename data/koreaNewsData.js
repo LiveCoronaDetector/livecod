@@ -17,12 +17,8 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
     },
     {
-        "title": "코로나19 비수도권 일평균 확진자 수도권 추월…6.7명→16.7명",
-        "link": "https://view.asiae.co.kr/article/2020071217400180576"
-    },
-    {
-        "title": "日코로나 신규확진 또 400명 넘어…대형행사 속속 재개(종합)",
-        "link": "http://yna.kr/AKR20200712039151073?did=1195m"
+        "title": "WHO \"코로나19 신규 확진자 23만명\"…일일 기준 최다",
+        "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
         "title": "'코로나19' 신규확진 보름만에 30명대로",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200713001100079?did=1195m"
     },
     {
-        "title": "‘코로나19 비상’ 광주시, 보름새 128명 추가 발생",
-        "link": "https://www.pressian.com/pages/articles/2020071210050091055?utm_source=naver&utm_medium=search"
+        "title": "코로나19 비수도권 일평균 확진자 수도권 추월…6.7명→16.7명",
+        "link": "https://view.asiae.co.kr/article/2020071217400180576"
+    },
+    {
+        "title": "경북도 코로나19 확산 당시 의료인 초청 관광 지원",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657643&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
