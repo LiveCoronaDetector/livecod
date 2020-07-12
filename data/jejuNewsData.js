@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/952260.html"
     },
     {
-        "title": "제주도, 해열제 먹어가며 제주여행 확진자에게 1억대 손배 청구",
-        "link": "https://www.news1.kr/articles/?3991019"
+        "title": "코로나19 차단 ‘첨병’…제주공항 워크스루 선별진료소 ‘주목’",
+        "link": "http://www.fnnews.com/news/202007061144204775"
     }
 ];

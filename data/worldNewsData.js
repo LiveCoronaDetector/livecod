@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-storm-hits-south-africa-live-updates-200711230513471.html"
     },
     {
-        "title": "Expert warns the US is approaching 'one of the most unstable times in the history of our country'",
-        "link": "https://www.cnn.com/2020/07/11/health/us-coronavirus-saturday/index.html"
+        "title": "Coronavirus Live Updates: U.S. and World News",
+        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
     },
     {
-        "title": "Trump wears a mask during visit to wounded service members at Walter Reed",
-        "link": "https://www.cnn.com/2020/07/11/politics/trump-walter-reed-visit-mask/index.html"
+        "title": "Trump wears mask in public for first time",
+        "link": "https://www.youtube.com/watch?v=KiWWvO5jm9c"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-12-20-intl/index.html"
+    },
+    {
+        "title": "Bollywood megastar Amitabh Bachchan hospitalized with COVID-19",
+        "link": "https://news.yahoo.com/bollywood-megastar-bachchan-hospitalized-covid-19-183327969.html"
     },
     {
         "title": "Virologist Who Fled Hong Kong for US Claims China Covered up Coronavirus Spread: Report",
         "link": "https://in.news.yahoo.com/virologist-fled-us-hong-kong-135400889.html"
-    },
-    {
-        "title": "Amitabh Bachchan, son Abhishek in hospital with coronavirus",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-son-abhishek-in-hospital-with-coronavirus/articleshow/76916466.cms"
-    },
-    {
-        "title": "How To Protect Yourself From The Risk Of Airborne Coronavirus Transmission? : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/11/889716534/coronavirus-faq-how-do-i-protect-myself-if-the-coronavirus-can-linger-in-the-air"
     }
 ];
