@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1281054"
     },
     {
-        "title": "레바논서 코로나19 확진자 급증…하루 최다 166명",
-        "link": "http://yna.kr/AKR20200713001100079?did=1195m"
+        "title": "WHO \"코로나 신규 확진자 23만명\"…하루 기준 최다",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/13/2020071300288.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "일본 코로나19신규확진 408명…정부 \"경계감 가지고 대응\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200713_0001092394&cID=10101&pID=10100"
+        "title": "레바논서 코로나19 확진자 급증…하루 최다 166명",
+        "link": "http://yna.kr/AKR20200713001100079?did=1195m"
     },
     {
         "title": "‘코로나19 비상’ 광주시, 보름새 128명 추가 발생",

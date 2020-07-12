@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Florida shatters record for new single-day Covid-19 cases from any state",
-        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
+        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Japan Demands Action as 61 US Marines Infected With COVID | Time",
+        "link": "https://time.com/5865962/okinawa-island-coronavirus-marines/"
+    },
+    {
+        "title": "Leaving World Health Organization marks major foreign policy blunder | TheHill",
+        "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
     },
     {
         "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches | KyivPost - Ukraine's Global Voice",
         "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
-    },
-    {
-        "title": "'No one is safe until everyone is safe': Vaccine nationalism threatens global coronavirus effort",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/12/vaccine-nationalism-threatens-global-efforts-race-stop-coronavirus/5384850002/"
-    },
-    {
-        "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
-        "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
     }
 ];
