@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/12/india/india-bollywood-coronavirus-cases-scli-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: Florida sees fresh record rise in infections; 73 test positive in English farm outbreak",
-        "link": "https://www.theguardian.com/world/live/2020/jul/12/coronavirus-live-news-australia-vaccine-human-trials-to-start-trump-wears-mask-in-public"
+        "title": "Japan: Anger at coronavirus outbreaks at US Marine bases in Okinawa - Business Insider",
+        "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Polls show Trump is losing to Joe Biden. They said the same thing 4 years ago against Hillary Clinton",
-        "link": "https://www.usatoday.com/story/news/politics/elections/2020/07/12/election-2020-trump-trails-biden-polling-he-trailed-clinton-too/5398025002/"
+        "title": "Donald Trump openly wears face mask for first time during hospital visit",
+        "link": "https://www.youtube.com/watch?v=RolxZKerA4k"
     },
     {
         "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches",
