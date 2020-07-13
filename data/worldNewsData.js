@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "WHO chief: Pandemic 'going to get worse and worse and worse' | TheHill",
-        "link": "https://thehill.com/policy/healthcare/public-global-health/507033-who-chief-pandemic-going-to-get-worse-and-worse-and"
+        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
+        "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
     },
     {
         "title": "White House cites this interview in attempt to discredit Dr. Fauci",

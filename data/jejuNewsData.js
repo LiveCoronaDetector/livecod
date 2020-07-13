@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
     },
     {
-        "title": "광주 코로나, 꼬리 문 N차 감염…\"시민 각자 방역 주체돼야\"",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
-    },
-    {
         "title": "코로나'가족이 위험해진다' 가족 간 감염 30%",
         "link": "https://news.kjmbc.co.kr/node/315545"
+    },
+    {
+        "title": "광주 코로나, 꼬리 문 N차 감염…\"시민 각자 방역 주체돼야\"",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
     },
     {
         "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
