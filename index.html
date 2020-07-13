@@ -15,10 +15,10 @@
   <meta name="author" content="LIVECoD">
   <link rel="shortcut icon" href="#">
   <title>코로나19 맵</title>
-  <link rel='icon' href='img/favicon.png' type='image/x-icon'>
+  <link rel="icon" href="img/favicon.png" type="image/x-icon">
   <link rel="stylesheet" type="text/css"
     href="https://cdn.jsdelivr.net/gh/innks/NanumSquareRound@master/nanumsquareround.min.css">
-  <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=26ba2oaskk"></script>
+  <script src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=26ba2oaskk"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157131634-1"></script>
   <script crossorigin="anonymous"
     src="https://polyfill.io/v3/polyfill.min.js?features=default%2CArray.prototype.find%2CArray.prototype.forEach%2CArray.prototype.keys%2CArray.prototype.map%2CArray.prototype.reduce%2Ces2015"></script>
@@ -28,9 +28,9 @@
     function gtag() {
       dataLayer.push(arguments);
     }
-    gtag('js', new Date());
+    gtag("js", new Date());
 
-    gtag('config', 'UA-157131634-1');
+    gtag("config", "UA-157131634-1");
   </script>
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -56,7 +56,7 @@
   </div>
   <header>
     <h1 class="title float-left">
-      <img src='img/live.svg' /> 라이브 코로나 맵
+      <img src="img/live.svg" /> 라이브 코로나 맵
     </h1>
     <div class="float-right text-right">
       <div class="m-update">UPDATE: <span id="text-update-datetime" class="text-update"></span></div>
@@ -1058,8 +1058,8 @@
                   <p style="margin-top:1rem">
                     <a target="_blank" class="btn btn-primary" href="http://www.mohw.go.kr/react/popup_200128.html"
                       role="button">코로나19 선별진료소 및 안심병원(전국)</a>
-                    <button type="button" class="btn btn-primary m-mt-1" data-toggle="modal"
-                      onclick="location.href='https://jeju.livecorona.co.kr'">자세한 지도 확인</button>
+                    <a type="button" class="btn btn-primary m-mt-1"
+                      href="https://jeju.livecorona.co.kr" target="_blank" >자세한 지도 확인</a>
                     <button type="button" class="btn btn-primary m-mt-1" data-toggle="modal"
                       data-target="#jejuHealthCenter">제주 보건지소현황</button>
                     <!-- Modal -->
@@ -1506,7 +1506,6 @@
                       </div>
                     </div>
                   </div>
-                  </p>
                 </div>
               </div>
               <!-- notice -->
@@ -1667,8 +1666,8 @@
     // 전 세계 완치자 ui 반영
     document.getElementById("확진자수").innerHTML = Number(확진자수).toLocaleString();
     document.getElementById("한국확진자").innerHTML = Number(한국확진자수).toLocaleString();
-    document.getElementById("한국확진자전일비").innerHTML = ' (전일대비) +' + Number(한국전일대비).toLocaleString();
-    document.getElementById("세계확진자전일비").innerHTML = ' (전일대비) +' + Number(세계전일대비).toLocaleString();
+    document.getElementById("한국확진자전일비").innerHTML = " (전일대비) +" + Number(한국전일대비).toLocaleString();
+    document.getElementById("세계확진자전일비").innerHTML = " (전일대비) +" + Number(세계전일대비).toLocaleString();
 
 
     // 지역별확진자 업데이트 시간
@@ -1725,28 +1724,28 @@
     // 국내, 해외 뉴스 관련 스크립트
     function createNews(newsData, newsDiv, sliceValue) {
       newsData.forEach(news => {
-        // console.log(news['title']);
-        // console.log(news['title'].substring( 0, sliceValue ) + '...');
-        var cardElement = document.createElement('div');
-        cardElement.setAttribute('class', 'card');
+        // console.log(news["title"]);
+        // console.log(news["title"].substring( 0, sliceValue ) + "...");
+        var cardElement = document.createElement("div");
+        cardElement.setAttribute("class", "card");
 
-        var cardHeader = document.createElement('div');
-        cardHeader.setAttribute('class', 'card-header');
+        var cardHeader = document.createElement("div");
+        cardHeader.setAttribute("class", "card-header");
 
-        var text = document.createElement('h2');
-        text.setAttribute('class', 'mb-0 cases-title');
+        var text = document.createElement("h2");
+        text.setAttribute("class", "mb-0 cases-title");
 
-        var link = document.createElement('a');
-        link.setAttribute('href', news['link']);
+        var link = document.createElement("a");
+        link.setAttribute("href", news["link"]);
 
-        var button = document.createElement('button');
-        button.setAttribute('class', 'btn btn-link');
-        button.setAttribute('type', 'button');
+        var button = document.createElement("button");
+        button.setAttribute("class", "btn btn-link");
+        button.setAttribute("type", "button");
 
         if (window.innerWidth > 500) {
-          var title = document.createTextNode(news['title']);
+          var title = document.createTextNode(news["title"]);
         } else {
-          var title = document.createTextNode(news['title'].substring(0, sliceValue) + '...');
+          var title = document.createTextNode(news["title"].substring(0, sliceValue) + "...");
         }
 
         button.appendChild(title);
@@ -1758,9 +1757,9 @@
       });
     };
 
-    var worldNewsDiv = document.getElementById('worldNewsDiv');
-    var koreaNewsDiv = document.getElementById('koreaNewsDiv');
-    var JejuNewsDiv = document.getElementById('JejuNewsDiv');
+    var worldNewsDiv = document.getElementById("worldNewsDiv");
+    var koreaNewsDiv = document.getElementById("koreaNewsDiv");
+    var JejuNewsDiv = document.getElementById("JejuNewsDiv");
 
     createNews(worldNewsData, worldNewsDiv, 30)
     createNews(koreaNewsData, koreaNewsDiv, 19)
@@ -1800,20 +1799,20 @@
   <script src="js/worldmap.js"></script>
   <!-- A 태그 #앵커 부드러운 이동 -->
   <script>
-    document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
-      anchor.addEventListener('click', function (e) {
+    document.querySelectorAll("a[href^=\"#\"]").forEach(function (anchor) {
+      anchor.addEventListener("click", function (e) {
         e.preventDefault();
-        var href_name = this.getAttribute('href')
+        var href_name = this.getAttribute("href")
 
         // 한국 확진자수 증가추이의 탭 클릭시, 스크롤이 움직이지 않도록
         if (href_name == "#korea_line_chart" || href_name == "#korea_semi_log_chart") {
           return;
         }
 
-        $(this).parent().siblings().children('a').removeClass('active');
-        $(this).addClass('active');
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-          behavior: 'smooth'
+        $(this).parent().siblings().children("a").removeClass("active");
+        $(this).addClass("active");
+        document.querySelector(this.getAttribute("href")).scrollIntoView({
+          behavior: "smooth"
         });
       });
     });
@@ -1832,10 +1831,10 @@
     function getCookie(name) {
       name = name + "=";
       var decodedCookie = decodeURIComponent(document.cookie);
-      var ca = decodedCookie.split(';');
+      var ca = decodedCookie.split(";");
       for (var i = 0; i < ca.length; i++) {
         var c = ca[i];
-        while (c.charAt(0) == ' ') {
+        while (c.charAt(0) == " ") {
           c = c.substring(1);
         }
         if (c.indexOf(name) == 0) {
@@ -1866,16 +1865,16 @@
 
     $(document).ready(function () {
       // Toggle the side navigation
-      $("#sidebarToggle, #sidebarToggleTop").on('click', function (e) {
+      $("#sidebarToggle, #sidebarToggleTop").on("click", function (e) {
         $(".content").toggleClass("expended");
-        $(this).children('i').toggleClass("fa-chevron-circle-left fa-bars");
+        $(this).children("i").toggleClass("fa-chevron-circle-left fa-bars");
       });
 
       if ($(window).width() < 760) {
-        $('#sidebarToggleTop').trigger('click');
+        $("#sidebarToggleTop").trigger("click");
       };
 
-      $('[data-toggle="tooltip"]').tooltip()
+      $("[data-toggle=\"tooltip\"]").tooltip()
     });
 
       // 배너를 숨기고 싶으면 아래 코드를 주석처리하세요
@@ -1891,6 +1890,6 @@
   <script src="simulator/80per_stop_script_2times.js"></script>
   <script src="simulator/80per_stop_script_3times.js"></script>
   <script src="simulator/60per_stop_script_2times.js"></script>
-  <script src="simulator/60per_stop_script_3times.js"></script?
+  <script src="simulator/60per_stop_script_3times.js"></script>
   </body>
 </html>
