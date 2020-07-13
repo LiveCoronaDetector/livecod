@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007122056159173"
     },
     {
+        "title": "코로나 신규 확진 62명, 10명 중 7명이 해외발",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/13/2020071301224.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "광주 코로나, 꼬리 문 N차 감염…\"시민 각자 방역 주체돼야\"",
         "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
         "title": "제주지역 20번째 코로나19 확진자 발생",

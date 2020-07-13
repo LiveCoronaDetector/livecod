@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/12/india/india-bollywood-coronavirus-cases-scli-intl/index.html"
     },
     {
-        "title": "Okinawa demands answers from US after 61 marines contract coronavirus",
-        "link": "https://www.theguardian.com/world/2020/jul/12/okinawa-demands-answers-from-us-after-61-marines-contract-coronovirus"
+        "title": "Japan: Anger at coronavirus outbreaks at US Marine bases in Okinawa - Business Insider",
+        "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Coronavirus: Florida sets new state daily case record of 15,299",
-        "link": "https://www.bbc.com/news/world-us-canada-53382540"
-    },
-    {
-        "title": "Pressley hits DeVos over reopening schools: 'I wouldn't trust you to care for a house plant let alone my child' | TheHill",
-        "link": "https://thehill.com/homenews/house/506985-pressley-hits-devos-over-reopening-schools-i-wouldnt-trust-you-to-care-for-a"
+        "title": "Florida shatters US record for new single-day Covid-19 cases",
+        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
         "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
     },
     {
-        "title": "Leaving World Health Organization marks major foreign policy blunder | TheHill",
-        "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
+        "title": "Louisiana Orders Bars Closed and Masks for Most",
+        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Aishwarya Rai Bachchan and daughter have tested positive for coronavirus",
+        "link": "https://www.cnn.com/2020/07/12/entertainment/aishwarya-rai-aradhya-bachchan-coronavvirus/index.html"
     }
 ];
