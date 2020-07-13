@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/13/coronavirus-live-news-who-reports-record-global-cases-as-south-africa-reinstates-alcohol-ban"
     },
     {
-        "title": "Live Coronavirus Updates: Trump Aides Target Fauci",
-        "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
+        "title": "Live updates: Coronavirus deaths on the rise in almost every region of the U.S.",
+        "link": "https://www.washingtonpost.com/nation/2020/07/13/coronavirus-live-updates-us/"
     },
     {
         "title": "Coronavirus committee votes against Netanyahu, reopens gyms, pools",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
-        "title": "Protect With Heart project helps those on frontline of virus outbreak",
-        "link": "https://www.youtube.com/watch?v=PoCAIFEDbc4"
-    },
-    {
         "title": "30-year-old dies after attending 'Covid party' in Texas",
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
+    },
+    {
+        "title": "Florida Tops US Record With Over 15,000 New Cases",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
         "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
