@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53382797"
     },
     {
-        "title": "Coronavirus: Florida sets new state daily case record of 15,299",
-        "link": "https://www.bbc.com/news/world-us-canada-53382540"
+        "title": "The two reasons Covid-19 is getting worse in the US",
+        "link": "https://www.cnn.com/2020/07/12/opinions/covid-worse-trump-economy-ghitis/index.html"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
-        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
-    },
-    {
-        "title": "News from around the world",
-        "link": "https://www.newcastleherald.com.au/story/6829855/news-from-around-the-world/?cs=7579"
-    },
-    {
-        "title": "Coronavirus: Three generations of Bollywood Bachchan family infected",
-        "link": "https://www.bbc.com/news/world-asia-india-53380291"
+        "title": "Florida shatters US record for new single-day Covid-19 cases",
+        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "30-year-old dies after attending 'Covid party' in Texas",
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
+    },
+    {
+        "title": "Aishwarya Rai Bachchan and daughter have tested positive for coronavirus",
+        "link": "https://www.cnn.com/2020/07/12/entertainment/aishwarya-rai-aradhya-bachchan-coronavvirus/index.html"
+    },
+    {
+        "title": "WHO reports record over 230000 global coronavirus cases",
+        "link": "https://www.youtube.com/watch?v=BvVkyFC4zRQ"
     }
 ];
