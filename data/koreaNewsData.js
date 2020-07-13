@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
+        "title": "전 세계 코로나19 확진자 23만명, 최다 기록 경신",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007130943001&code=940100"
+    },
+    {
         "title": "코로나 신규 확진자 44명 증가…수도권 15명 · 광주 5명",
         "link": "http://www.hani.co.kr/arti/society/health/953256.html"
+    },
+    {
+        "title": "전 세계 코로나19 확진자 1300만명 돌파…사망자도 57만명 넘어서",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200713000007"
     },
     {
         "title": "광주서 코로나19 확진자 6명 추가 발생...누적확진자 168명",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0104_202007130721247549"
     },
     {
-        "title": "“내년까지 코로나19 백신 나올 가능성 ‘희박’”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200713000061"
-    },
-    {
-        "title": "美 플로리다주 1만5,000명 신규 확진자···단일 주 기준 '역대 최다'",
-        "link": "https://www.sedaily.com/NewsView/1Z5ABQ25G9"
+        "title": "‘23만 명’ 일일 최다…오늘 세계 코로나19 상황은?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4492566&ref=A"
     },
     {
         "title": "코스피, 코로나19 치료제 기대에 상승 출발…2,160대(종합)",
         "link": "http://yna.kr/AKR20200713028751002?did=1195m"
-    },
-    {
-        "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
-        "title": "Patient dies after catching coronavirus at 'COVID party' in Texas",
-        "link": "https://www.jpost.com/health-science/patient-dies-after-catching-coronavirus-at-covid-party-in-texas-634767"
+        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
+        "link": "https://www.bbc.com/news/world-middle-east-53378442"
     },
     {
         "title": "Germany sex workers demand return to work after coronavirus shutdown",
@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/12/india/india-bollywood-coronavirus-cases-scli-intl/index.html"
     },
     {
-        "title": "Japan: Anger at coronavirus outbreaks at US Marine bases in Okinawa - Business Insider",
-        "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
+        "title": "Okinawa demands answers from US after 61 marines contract coronavirus",
+        "link": "https://www.theguardian.com/world/2020/jul/12/okinawa-demands-answers-from-us-after-61-marines-contract-coronovirus"
     },
     {
-        "title": "Florida breaks New York's record for biggest one-day jump in coronavirus cases",
-        "link": "https://theweek.com/speedreads/925106/florida-breaks-new-yorks-record-biggest-oneday-jump-coroanvirus-cases"
+        "title": "Coronavirus: Florida sets new state daily case record of 15,299",
+        "link": "https://www.bbc.com/news/world-us-canada-53382540"
+    },
+    {
+        "title": "Pressley hits DeVos over reopening schools: 'I wouldn't trust you to care for a house plant let alone my child' | TheHill",
+        "link": "https://thehill.com/homenews/house/506985-pressley-hits-devos-over-reopening-schools-i-wouldnt-trust-you-to-care-for-a"
     },
     {
         "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Leaving World Health Organization marks major foreign policy blunder | TheHill",
         "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
-    },
-    {
-        "title": "Okinawa demands answers from US after 61 marines contract coronavirus",
-        "link": "https://www.theguardian.com/world/2020/jul/12/okinawa-demands-answers-from-us-after-61-marines-contract-coronovirus"
     }
 ];
