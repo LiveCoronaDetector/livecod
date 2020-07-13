@@ -660,9 +660,9 @@ var marker = [
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "확진자수": 6690,
+        "확진자수": 6727,
         "사망자수": 139,
-        "완치자수": 2590
+        "완치자수": 2924
     },
     {
         "Name": "Tajikistan",

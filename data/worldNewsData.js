@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53382797"
     },
     {
-        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
-        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
+        "title": "The two reasons Covid-19 is getting worse in the US",
+        "link": "https://www.cnn.com/2020/07/12/opinions/covid-worse-trump-economy-ghitis/index.html"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
-        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
+        "title": "DeVos doubles down on push to reopen schools despite coronavirus surge",
+        "link": "https://www.youtube.com/watch?v=oX4Qfv4sfWc"
     },
     {
-        "title": "WHO reports record daily increase of 230370 COVID-19 cases on Sunday",
-        "link": "https://www.youtube.com/watch?v=1dP71KZ5aFI"
+        "title": "Florida shatters single day coronavirus record",
+        "link": "https://www.youtube.com/watch?v=AXUxqGS1Jkw"
     },
     {
-        "title": "Leaving World Health Organization marks major foreign policy blunder | TheHill",
-        "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
+        "title": "WHO reports record over 230000 global coronavirus cases",
+        "link": "https://www.youtube.com/watch?v=BvVkyFC4zRQ"
     },
     {
-        "title": "As Covid-19 persists around the world, death is not the only outcome to fear",
-        "link": "https://www.theguardian.com/world/commentisfree/2020/jul/13/as-covid-19-persists-around-the-world-death-is-not-the-only-outcome-to-fear"
+        "title": "Aishwarya Rai Bachchan and daughter have tested positive for coronavirus",
+        "link": "https://www.cnn.com/2020/07/12/entertainment/aishwarya-rai-aradhya-bachchan-coronavvirus/index.html"
     }
 ];
