@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
+        "title": "이탈리아 코로나19 사망자 유족 \"정부 부실 대응은 반인류 범죄\"(종합)",
+        "link": "http://yna.kr/AKR20200713164351109?did=1195m"
+    },
+    {
+        "title": "WHO \"코로나19 기원 조사차 중국 파견된 전문가들, 격리 중\"(종합)",
+        "link": "http://yna.kr/AKR20200714002351088?did=1195m"
+    },
+    {
         "title": "'선원 교대 목적' 해외입국자 중 코로나19 확진자 증가추세",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131548001&code=940100"
     },
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "광주서 코로나19 확진자 6명 추가 발생...누적확진자 168명",
         "link": "http://www.fnnews.com/news/202007130827140440"
-    },
-    {
-        "title": "서울 코로나19 신규확진 13명..누적 1429명",
-        "link": "http://www.fnnews.com/news/202007131050289325"
-    },
-    {
-        "title": "이라크 건설현장서 韓근로자 1명 코로나19 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200713_0001092834&cID=10301&pID=10300"
     }
 ];

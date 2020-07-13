@@ -5,8 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53382797"
     },
     {
-        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
-        "link": "https://www.bbc.com/news/world-middle-east-53378442"
+        "title": "How Canada is fighting Covid-19: Ramping up PPE production, travel ban from the U.S. and Bonnie Henry",
+        "link": "https://www.cnbc.com/2020/07/13/how-canada-is-fighting-covid-19-ppe-travel-ban-bonnie-henry.html"
+    },
+    {
+        "title": "Coronavirus committee votes against Netanyahu, reopens gyms, pools",
+        "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/netanyahu-to-deri-nobody-wants-to-discriminate-against-haredi-community-634891"
     },
     {
         "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
@@ -21,23 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
-        "title": "30-year-old dies after attending 'Covid party' in Texas",
-        "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
+        "title": "Florida Tops US Record With Over 15,000 New Cases",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
-        "title": "Live updates: Coronavirus deaths on the rise in almost every region of the U.S.",
-        "link": "https://www.washingtonpost.com/nation/2020/07/13/coronavirus-live-updates-us/"
+        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
+        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
-        "title": "Coronavirus: WHO chief says \"too many countries headed in wrong direction\"",
-        "link": "https://www.youtube.com/watch?v=gO6hbweXv8A"
+        "title": "Latin America OVERTAKES US & Canada as second-worst affected region in Covid-19 pandemic – AFP tally",
+        "link": "https://www.rt.com/news/494588-latin-america-coronavirus-spread/"
     },
     {
-        "title": "WHO says U.S. and Brazil accounted for half of new daily coronavirus cases: 'Too many countries are headed in the wrong direction'",
-        "link": "https://www.cnbc.com/2020/07/13/who-says-us-and-brazil-accounted-for-half-of-new-daily-coronavirus-cases.html"
-    },
-    {
-        "title": "‘The beginning of a horror movie’? Disney World slammed as doors reopen amid spiking coronavirus cases",
-        "link": "https://www.marketwatch.com/story/the-beginning-of-a-horror-movie-disney-world-slammed-as-doors-reopen-amid-spiking-coronavirus-cases-2020-07-12"
+        "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
+        "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
     }
 ];
