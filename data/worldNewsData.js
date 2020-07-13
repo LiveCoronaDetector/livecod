@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
-        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
-        "link": "https://www.bbc.com/news/world-middle-east-53378442"
+        "title": "Patient dies after catching coronavirus at 'COVID party' in Texas",
+        "link": "https://www.jpost.com/health-science/patient-dies-after-catching-coronavirus-at-covid-party-in-texas-634767"
     },
     {
-        "title": "Coronavirus brings tension and prejudice to Italy's beaches",
-        "link": "https://www.theguardian.com/world/2020/jul/12/coronavirus-brings-tension-prejudice-italy-beaches"
+        "title": "Germany sex workers demand return to work after coronavirus shutdown",
+        "link": "https://www.foxnews.com/world/hamburg-sex-workers-coronavirus"
     },
     {
         "title": "Bollywood stars hospitalized as coronavirus cases spike in India",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Florida shatters US record for new single-day Covid-19 cases",
-        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
+        "title": "Florida breaks New York's record for biggest one-day jump in coronavirus cases",
+        "link": "https://theweek.com/speedreads/925106/florida-breaks-new-yorks-record-biggest-oneday-jump-coroanvirus-cases"
     },
     {
         "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
     },
     {
-        "title": "Okinawa governor wants tougher action as 61 Marines infected",
-        "link": "https://news.yahoo.com/okinawa-governor-wants-tougher-action-023745625.html"
+        "title": "Okinawa demands answers from US after 61 marines contract coronavirus",
+        "link": "https://www.theguardian.com/world/2020/jul/12/okinawa-demands-answers-from-us-after-61-marines-contract-coronovirus"
     }
 ];

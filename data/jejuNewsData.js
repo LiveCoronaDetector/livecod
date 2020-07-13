@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
+        "title": "[김찬영의 Law포유] 코로나19 지침 어긴 강남 유학생, 손해배상 책임 있나?",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=510662"
+    },
+    {
         "title": "제주도, 해열제 복용하며 여행한 안산 확진자에 손해배상 소송",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주지역 20번째 코로나19 확진자 발생",
         "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
-    },
-    {
-        "title": "교회 관련 확진자, 대부분 소모임·식사 과정에서 발생",
-        "link": "http://www.newsnjoy.or.kr/news/articleView.html?idxno=300993"
     }
 ];

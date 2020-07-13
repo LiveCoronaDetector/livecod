@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
+        "title": "코로나 신규 확진자 44명 증가…수도권 15명 · 광주 5명",
+        "link": "http://www.hani.co.kr/arti/society/health/953256.html"
+    },
+    {
         "title": "광주서 코로나19 확진자 6명 추가 발생...누적확진자 168명",
         "link": "http://www.fnnews.com/news/202007130827140440"
     },
@@ -13,31 +17,27 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200713_0001092394&cID=10101&pID=10100"
     },
     {
-        "title": "코로나 신규 확진자 44명 증가…수도권 15명 · 광주 5명",
-        "link": "http://www.hani.co.kr/arti/society/health/953256.html"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 44명, 이틀 만에 다시 40명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007121018001&code=940601"
     },
     {
+        "title": "코로나 19 전 세계 하루 신규 확진자 23만 명 넘어서 최다 기록",
+        "link": "https://www.ytn.co.kr/_ln/0104_202007130721247549"
+    },
+    {
+        "title": "“내년까지 코로나19 백신 나올 가능성 ‘희박’”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200713000061"
+    },
+    {
+        "title": "美 플로리다주 1만5,000명 신규 확진자···단일 주 기준 '역대 최다'",
+        "link": "https://www.sedaily.com/NewsView/1Z5ABQ25G9"
+    },
+    {
+        "title": "코스피, 코로나19 치료제 기대에 상승 출발…2,160대(종합)",
+        "link": "http://yna.kr/AKR20200713028751002?did=1195m"
+    },
+    {
         "title": "코로나19 어제 44명 신규 확진…지역발생 21명·해외유입 23명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/12/2020071290020.html"
-    },
-    {
-        "title": "'코로나19' 신규확진 보름만에 30명대로",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/11/2020071100683.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19, 신규 확진자 44명 발생…\"지역발생‧해외유입 지속\"",
-        "link": "http://www.inews24.com/view/1281054"
-    },
-    {
-        "title": "레바논서 코로나19 확진자 급증…하루 최다 166명",
-        "link": "http://yna.kr/AKR20200713001100079?did=1195m"
-    },
-    {
-        "title": "‘코로나19 비상’ 광주시, 보름새 128명 추가 발생",
-        "link": "https://www.pressian.com/pages/articles/2020071210050091055?utm_source=naver&utm_medium=search"
     }
 ];
