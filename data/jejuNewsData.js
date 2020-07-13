@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
-        "title": "코로나'가족이 위험해진다' 가족 간 감염 30%",
-        "link": "https://news.kjmbc.co.kr/node/315545"
-    },
-    {
         "title": "광주 코로나, 꼬리 문 N차 감염…\"시민 각자 방역 주체돼야\"",
         "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
+    },
+    {
+        "title": "코로나'가족이 위험해진다' 가족 간 감염 30%",
+        "link": "https://news.kjmbc.co.kr/node/315545"
     },
     {
         "title": "제주도, 해열제 복용하며 여행한 안산 확진자에 손해배상 소송",
