@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
-        "title": "제주도, 교회 소규모 대면 모임 전면 금지 안내…위반 시 과태료",
-        "link": "http://yna.kr/AKR20200710125100056?did=1195m"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "제주도, 교회 소규모 대면 모임 전면 금지 안내…위반 시 과태료",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877832&plink=ORI&cooper=NAVER"
     }
 ];

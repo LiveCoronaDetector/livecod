@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4492617&ref=A"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 62명, 이틀 연속 증가",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
+        "title": "WHO \"코로나19 신규 확진자 23만명\"…일일 기준 최다",
+        "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
-        "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
-        "link": "http://yna.kr/AKR20200713071700530?did=1195m"
+        "title": "[속보]코로나19 신규 확진자 62명, 이틀 연속 증가",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
     {
         "title": "서울 코로나19 신규확진 13명..누적 1429명",
@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071301201.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "WHO \"코로나19 신규 확진자 23만명\"…일일 기준 최다",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5840208_32640.html"
-    },
-    {
         "title": "코로나 확진 장병 입국에 손놓은 주한미군…격리·치료 주력",
         "link": "http://www.newsis.com/view/?id=NISX20200713_0001093546&cID=10301&pID=10300"
     },
@@ -33,8 +29,12 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071309551276509"
     },
     {
-        "title": "대전·충남서 해외입국 외국인 3명 잇따라 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200713150500063?did=1195m"
+        "title": "홍콩서 코로나19 격리 이송되던 한국인 차량서 뛰어내려",
+        "link": "http://yna.kr/AKR20200713153600074?did=1195m"
+    },
+    {
+        "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
+        "link": "http://yna.kr/AKR20200713071700530?did=1195m"
     },
     {
         "title": "[속보] 코로나19 62명 신규 확진...지역발생 19명",
