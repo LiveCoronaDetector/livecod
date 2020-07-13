@@ -5,12 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53382797"
     },
     {
-        "title": "Live updates: Coronavirus deaths on the rise in almost every region of the U.S.",
-        "link": "https://www.washingtonpost.com/nation/2020/07/13/coronavirus-live-updates-us/"
-    },
-    {
-        "title": "Coronavirus committee votes against Netanyahu, reopens gyms, pools",
-        "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/netanyahu-to-deri-nobody-wants-to-discriminate-against-haredi-community-634891"
+        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
+        "link": "https://www.bbc.com/news/world-middle-east-53378442"
     },
     {
         "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
@@ -29,15 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
-        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
+        "title": "Live updates: Coronavirus deaths on the rise in almost every region of the U.S.",
+        "link": "https://www.washingtonpost.com/nation/2020/07/13/coronavirus-live-updates-us/"
     },
     {
-        "title": "Florida Tops US Record With Over 15,000 New Cases",
-        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
+        "title": "Coronavirus: WHO chief says \"too many countries headed in wrong direction\"",
+        "link": "https://www.youtube.com/watch?v=gO6hbweXv8A"
     },
     {
-        "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
-        "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
+        "title": "WHO says U.S. and Brazil accounted for half of new daily coronavirus cases: 'Too many countries are headed in the wrong direction'",
+        "link": "https://www.cnbc.com/2020/07/13/who-says-us-and-brazil-accounted-for-half-of-new-daily-coronavirus-cases.html"
+    },
+    {
+        "title": "‘The beginning of a horror movie’? Disney World slammed as doors reopen amid spiking coronavirus cases",
+        "link": "https://www.marketwatch.com/story/the-beginning-of-a-horror-movie-disney-world-slammed-as-doors-reopen-amid-spiking-coronavirus-cases-2020-07-12"
     }
 ];

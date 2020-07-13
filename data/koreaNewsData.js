@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
     {
-        "title": "하루새 서울서 코로나19 확진자 7명 추가…종로·금천·동작 등에서 발생",
-        "link": "https://www.news1.kr/articles/?3994642"
-    },
-    {
         "title": "홍콩서 코로나19 격리 이송되던 한국인 차량서 뛰어내려",
         "link": "http://yna.kr/AKR20200713153600074?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "서울 코로나19 신규확진 13명..누적 1429명",
         "link": "http://www.fnnews.com/news/202007131050289325"
+    },
+    {
+        "title": "이라크 건설현장서 韓근로자 1명 코로나19 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200713_0001092834&cID=10301&pID=10300"
     }
 ];
