@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
+        "title": "[종합]신규 확진자 62명...해외유입 43명 110일만에 최다",
+        "link": "http://www.fnnews.com/news/202007131033572491"
+    },
+    {
+        "title": "광주지역 코로나 확진자 하루 7명…배드민턴 클럽·T월드 등",
+        "link": "https://view.asiae.co.kr/article/2020071309551276509"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 62명, 이틀 연속 증가",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
@@ -21,23 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071303187.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "광주서 해외 입국자 1명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200713147151054?did=1195m"
-    },
-    {
         "title": "홍콩서 코로나19 격리 이송되던 한국인 차량서 뛰어내려",
         "link": "http://yna.kr/AKR20200713153600074?did=1195m"
     },
     {
+        "title": "인천서 코로나19 치료받던 90대 사망…요양원 입소자",
+        "link": "http://yna.kr/AKR20200713073600065?did=1195m"
+    },
+    {
         "title": "서울 코로나19 신규확진 13명..누적 1429명",
         "link": "http://www.fnnews.com/news/202007131050289325"
-    },
-    {
-        "title": "이라크 건설현장서 韓근로자 1명 코로나19 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200713_0001092834&cID=10301&pID=10300"
-    },
-    {
-        "title": "코로나 확진 62명…해외유입 43명·지역 19명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071301201.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53382797"
     },
     {
-        "title": "Live updates: Coronavirus deaths on the rise in almost every region of the U.S.",
-        "link": "https://www.washingtonpost.com/nation/2020/07/13/coronavirus-live-updates-us/"
+        "title": "Live Coronavirus Updates: Trump Aides Target Fauci",
+        "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
-        "title": "Coronavirus cases associated with US Marine Corps bases have climbed to 94, Okinawa prefecture says",
-        "link": "https://www.stripes.com/news/pacific/coronavirus-cases-associated-with-marine-base-clusters-have-climbed-to-94-okinawa-prefecture-says-1.637301"
+        "title": "The Latest: Hong Kong increases social distancing measures",
+        "link": "https://apnews.com/84a345b8e13745dd9af60d6b1948055a"
     },
     {
         "title": "30-year-old dies after attending 'Covid party' in Texas",
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "How countries around the world have responded to Covid-19",
-        "link": "https://www.youtube.com/watch?v=Y1pPvka93JM"
+        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
+        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
         "title": "Florida Tops US Record With Over 15,000 New Cases",
