@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
-        "title": "Coronavirus Live Updates: Trump Aides Target Fauci",
-        "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
-    },
-    {
         "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
+    },
+    {
+        "title": "Coronavirus Live Updates: Trump Aides Target Fauci",
+        "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",

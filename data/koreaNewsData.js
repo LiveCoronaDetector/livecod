@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200714002300088?did=1195m"
     },
     {
-        "title": "“전 세계 코로나19 누적 확진자 1천300만명 넘어”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4493304&ref=A"
-    },
-    {
         "title": "충북 영동서 첫 코로나19 확진…충북 70번째(종합)",
         "link": "https://www.nocutnews.co.kr/news/5377653"
-    },
-    {
-        "title": "\"전 세계 코로나19 누적 확진자 1천300만명 넘어\"",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5841450_32640.html"
     },
     {
         "title": "WHO \"코로나19 기원 조사차 중국 파견된 전문가들, 격리 중\"(종합)",
         "link": "http://yna.kr/AKR20200714002351088?did=1195m"
     },
     {
-        "title": "하루새 서울서 코로나19 확진자 7명 추가…종로·금천·동작 등에서 발생",
-        "link": "https://www.news1.kr/articles/?3994642"
+        "title": "이탈리아 코로나19 사망자 유족 \"정부 부실 대응은 반인류 범죄\"(종합)",
+        "link": "http://yna.kr/AKR20200713164351109?did=1195m"
     },
     {
-        "title": "대전 코로나19 확진자 1명 발생... 해외입국자",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002657996&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "\"전 세계 코로나19 누적 확진자 1천300만명 넘어\"",
-        "link": "http://yna.kr/AKR20200713164500098?did=1195m"
+        "title": "코로나19 확진자 60명대로 증가…해외유입 43명으로 급증",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4492617&ref=A"
     },
     {
         "title": "전 세계 코로나19 확진자 23만명, 최다 기록 경신",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007130943001&code=940100"
     },
     {
-        "title": "코로나19 확진자 60명대로 증가…해외유입 43명으로 급증",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4492617&ref=A"
+        "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
+        "link": "http://yna.kr/AKR20200713071700530?did=1195m"
+    },
+    {
+        "title": "미국서 입국한 주한미군 11명 또 코로나 확진",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071303187.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 62명, 이틀 연속 증가",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
+    },
+    {
+        "title": "강남구, 코로나19 확진자 2명 추가 발생",
+        "link": "https://view.asiae.co.kr/article/2020071321404378555"
     }
 ];
