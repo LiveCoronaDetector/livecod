@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
-        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
+        "title": "DeVos defends push to reopen schools as Trump admin is accused of 'messing with' children's health",
+        "link": "https://news.yahoo.com/devos-defends-push-reopen-schools-155100058.html"
     },
     {
-        "title": "Are Young People Responsible for Increasing Coronavirus Cases?",
-        "link": "https://www.youtube.com/watch?v=eBTZAwE6IEc"
+        "title": "Florida shatters US record for new single-day Covid-19 cases",
+        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Leaving World Health Organization marks major foreign policy blunder | TheHill",
-        "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
+        "title": "South Africa reimposes liquor ban amid coronavirus surge to free up hospital space",
+        "link": "https://www.foxnews.com/world/south-africa-liquor-ban-coronavirus-hospital-space"
     },
     {
-        "title": "South Africa re-imposes curfew, booze ban as coronavirus cases spike",
-        "link": "https://www.yahoo.com/news/south-africa-imposes-curfew-booze-ban-coronavirus-cases-203009682.html"
+        "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches | KyivPost - Ukraine's Global Voice",
+        "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
     }
 ];

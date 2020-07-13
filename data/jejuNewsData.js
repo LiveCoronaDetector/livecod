@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200710125100056?did=1195m"
     },
     {
+        "title": "코로나19로 닫힌 하늘길 열려 이달 제주도에 '중국인 관광객' 쏟아진다",
+        "link": "https://www.insight.co.kr/news/293504"
+    },
+    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
     {
         "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "제주지역 20번째 코로나19 확진자 발생",
-        "link": "https://hankookilbo.com/News/Read/A2020070418300002773?did=NA"
     }
 ];
