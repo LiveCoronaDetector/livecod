@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
-        "title": "Understanding the trend following a record-breaking weekend of COVID-19 cases in Florida",
-        "link": "https://www.fox13news.com/news/understanding-the-trend-following-a-record-breaking-weekend-of-covid-19-cases-in-florida"
+        "title": "Live Coronavirus Updates: 17 States Sue Trump Administration",
+        "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
     },
     {
         "title": "30-year-old dies after attending 'Covid party' in Texas",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-07-13-20-intl/h_bd77f11095a3930c53817f06c86592d3"
     },
     {
-        "title": "Florida Tops US Record With Over 15,000 New Cases",
-        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
+        "title": "Pres. Trump Holds Roundtable Discussion on Positive Experiences with Law Enforcement | LIVE | NowThi",
+        "link": "https://www.youtube.com/watch?v=tMpxt4G_qLE"
     }
 ];
