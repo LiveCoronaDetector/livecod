@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "Are Young People Responsible for Increasing Coronavirus Cases?",
-        "link": "https://www.youtube.com/watch?v=eBTZAwE6IEc"
+        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
-        "title": "White House seeks to discredit Fauci amid coronavirus surge",
-        "link": "https://news.yahoo.com/white-house-seeks-discredit-fauci-184700526.html"
+        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
+        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
         "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
