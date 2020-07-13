@@ -17,15 +17,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/13/german-study-covid-19-infection-rate-schools-saxony"
     },
     {
-        "title": "Bollywood stars hospitalized as coronavirus cases spike in India",
-        "link": "https://www.cnn.com/2020/07/12/india/india-bollywood-coronavirus-cases-scli-intl/index.html"
+        "title": "Indian Bollywood stars diagnosed with COVID-19 as WHO registers record global cases",
+        "link": "https://www.nbcnews.com/news/world/indian-bollywood-stars-diagnosed-covid-19-who-registers-record-global-n1233622"
     },
     {
         "title": "Japan has long accepted COVID's airborne spread, and scientists say ventilation is key",
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
-        "title": "Live Coronavirus Updates: 17 States Sue Trump Administration",
+        "title": "17 States Sue Trump Administration: Live Updates",
         "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
     },
     {
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "\"There will be no return to the old normal for the foreseeable future,\" WHO director-general says",
-        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-07-13-20-intl/h_bd77f11095a3930c53817f06c86592d3"
+        "title": "WHO chief: Pandemic 'going to get worse and worse and worse' | TheHill",
+        "link": "https://thehill.com/policy/healthcare/public-global-health/507033-who-chief-pandemic-going-to-get-worse-and-worse-and"
     },
     {
         "title": "White House cites this interview in attempt to discredit Dr. Fauci",
