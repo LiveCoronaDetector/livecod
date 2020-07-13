@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200713_0001093546&cID=10301&pID=10300"
     },
     {
-        "title": "7월 13일 ‘코로나19’ 전세계 확진자 1278만명…입국금지·검역 조치 170개국...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/13/2020071380144.html"
+        "title": "광주지역 코로나 확진자 하루 7명…배드민턴 클럽·T월드 등",
+        "link": "https://view.asiae.co.kr/article/2020071309551276509"
     },
     {
         "title": "광주서 해외 입국자 1명 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20200713147151054?did=1195m"
     },
     {
-        "title": "광주지역 코로나 확진자 하루 7명…배드민턴 클럽·T월드 등",
-        "link": "https://view.asiae.co.kr/article/2020071309551276509"
+        "title": "[속보] 코로나19 62명 신규 확진...지역발생 19명",
+        "link": "https://www.sedaily.com/NewsView/1Z5ACWP45C"
     }
 ];
