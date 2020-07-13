@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "DeVos defends push to reopen schools as Trump admin is accused of 'messing with' children's health",
-        "link": "https://news.yahoo.com/devos-defends-push-reopen-schools-155100058.html"
+        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
-        "title": "Florida shatters US record for new single-day Covid-19 cases",
-        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
+        "title": "WHO reports record daily increase of 230370 COVID-19 cases on Sunday",
+        "link": "https://www.youtube.com/watch?v=1dP71KZ5aFI"
     },
     {
-        "title": "South Africa reimposes liquor ban amid coronavirus surge to free up hospital space",
-        "link": "https://www.foxnews.com/world/south-africa-liquor-ban-coronavirus-hospital-space"
+        "title": "Leaving World Health Organization marks major foreign policy blunder | TheHill",
+        "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
     },
     {
-        "title": "The Guardian: Coronavirus brings tension and prejudice to Italy's beaches | KyivPost - Ukraine's Global Voice",
-        "link": "https://www.kyivpost.com/world/the-guardian-coronavirus-brings-tension-and-prejudice-to-italys-beaches.html"
+        "title": "As Covid-19 persists around the world, death is not the only outcome to fear",
+        "link": "https://www.theguardian.com/world/commentisfree/2020/jul/13/as-covid-19-persists-around-the-world-death-is-not-the-only-outcome-to-fear"
     }
 ];

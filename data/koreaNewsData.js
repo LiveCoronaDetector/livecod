@@ -21,16 +21,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007130827140440"
     },
     {
-        "title": "(속보) 목에 통증...용인시, 기흥구서 110번 째 코로나19 확진자 발생",
-        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=209565"
+        "title": "[종합] 서산시 확진자 지인 차량으로 이동해",
+        "link": "https://www.pressian.com/pages/articles/2020071309560223171?utm_source=naver&utm_medium=search"
     },
     {
         "title": "일본 코로나19신규확진 408명…정부 \"경계감 가지고 대응\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200713_0001092394&cID=10101&pID=10100"
-    },
-    {
-        "title": "[종합] 서산시 확진자 지인 차량으로 이동해",
-        "link": "https://www.pressian.com/pages/articles/2020071309560223171?utm_source=naver&utm_medium=search"
     },
     {
         "title": "[속보] 코로나19 62명 신규 확진...지역발생 19명",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 44명 증가…수도권 15명 · 광주 5명",
         "link": "http://www.hani.co.kr/arti/society/health/953256.html"
+    },
+    {
+        "title": "광주 코로나 163~168번 확진자 발생 개요(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=577565"
     }
 ];
