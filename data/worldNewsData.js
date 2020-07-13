@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
+        "title": "Understanding the trend following a record-breaking weekend of COVID-19 cases in Florida",
+        "link": "https://www.fox13news.com/news/understanding-the-trend-following-a-record-breaking-weekend-of-covid-19-cases-in-florida"
+    },
+    {
+        "title": "30-year-old dies after attending 'Covid party' in Texas",
+        "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-07-13-20-intl/h_bd77f11095a3930c53817f06c86592d3"
+    },
+    {
         "title": "Florida Tops US Record With Over 15,000 New Cases",
         "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
-        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
-    },
-    {
-        "title": "Latin America OVERTAKES US & Canada as second-worst affected region in Covid-19 pandemic – AFP tally",
-        "link": "https://www.rt.com/news/494588-latin-america-coronavirus-spread/"
-    },
-    {
-        "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
-        "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
     }
 ];
