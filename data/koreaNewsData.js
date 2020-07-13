@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007131050289325"
     },
     {
+        "title": "코로나19 신규 확진 62명…해외유입 43명 급증",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4492765&ref=A"
+    },
+    {
         "title": "코로나 확진 62명…해외유입 43명·지역 19명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071301201.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5840208_32640.html"
     },
     {
-        "title": "미 본토서 날아온 주한미군 11명 또 코로나19 무더기 확진(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200713500120&wlog_tag3=naver"
+        "title": "코로나 확진 장병 입국에 손놓은 주한미군…격리·치료 주력",
+        "link": "http://www.newsis.com/view/?id=NISX20200713_0001093546&cID=10301&pID=10300"
+    },
+    {
+        "title": "7월 13일 ‘코로나19’ 전세계 확진자 1278만명…입국금지·검역 조치 170개국...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/13/2020071380144.html"
     },
     {
         "title": "코로나19 확진자 60명대로 증가…해외유입 43명으로 급증",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4492617&ref=A"
-    },
-    {
-        "title": "광주지역 코로나 확진자 하루 7명…배드민턴 클럽·T월드 등",
-        "link": "https://view.asiae.co.kr/article/2020071309551276509"
-    },
-    {
-        "title": "이라크 건설현장서 韓근로자 1명 코로나19 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200713_0001092834&cID=10301&pID=10300"
     }
 ];

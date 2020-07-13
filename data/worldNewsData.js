@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/13/coronavirus-live-updates-us/"
     },
     {
-        "title": "Inventor of Israel's Iron Dome seeks coronavirus 'game-changer'",
-        "link": "https://news.yahoo.com/inventor-israels-iron-dome-seeks-coronavirus-game-changer-021708086.html"
+        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
+        "link": "https://www.bbc.com/news/world-middle-east-53378442"
     },
     {
         "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/13/kevin-rudd-says-china-stepping-into-coronavirus-leadership-vacuum.html"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-13-20-intl/index.html"
+        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
         "title": "30-year-old dies after attending 'Covid party' in Texas",
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
-        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
-    },
-    {
         "title": "Florida shatters US record for new single-day Covid-19 cases",
         "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
+    },
+    {
+        "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
+        "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
     }
 ];
