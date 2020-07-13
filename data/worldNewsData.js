@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
     },
     {
-        "title": "Japan Demands Action as 61 US Marines Infected With COVID | Time",
-        "link": "https://time.com/5865962/okinawa-island-coronavirus-marines/"
+        "title": "Okinawa governor wants tougher action as 61 Marines infected",
+        "link": "https://news.yahoo.com/okinawa-governor-wants-tougher-action-023745625.html"
     }
 ];
