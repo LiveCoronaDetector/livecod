@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
     },
     {
-        "title": "Indian Bollywood stars diagnosed with COVID-19 as WHO registers record global cases",
-        "link": "https://www.nbcnews.com/news/world/indian-bollywood-stars-diagnosed-covid-19-who-registers-record-global-n1233622"
+        "title": "Florida breaks U.S. record for new coronavirus cases in a single day",
+        "link": "https://www.youtube.com/watch?v=1r08xHsDW2U"
     },
     {
         "title": "Japan has long accepted COVID's airborne spread, and scientists say ventilation is key",
