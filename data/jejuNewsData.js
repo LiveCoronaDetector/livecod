@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
-        "title": "[김찬영의 Law포유] 코로나19 지침 어긴 강남 유학생, 손해배상 책임 있나?",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=510662"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "[김찬영의 Law포유] 코로나19 지침 어긴 강남 유학생, 손해배상 책임 있나?",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=510662"
     }
 ];

@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200714002351088?did=1195m"
     },
     {
-        "title": "이탈리아 코로나19 사망자 유족 \"정부 부실 대응은 반인류 범죄\"(종합)",
-        "link": "http://yna.kr/AKR20200713164351109?did=1195m"
-    },
-    {
         "title": "코로나19 확진자 60명대로 증가…해외유입 43명으로 급증",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4492617&ref=A"
     },
@@ -17,8 +13,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007130943001&code=940100"
     },
     {
-        "title": "WHO \"12일 코로나19 신규 확진자 절반, 두 나라서 발생\"",
-        "link": "http://yna.kr/AKR20200714002300088?did=1195m"
+        "title": "강남구, 코로나19 확진자 2명 추가 발생",
+        "link": "https://view.asiae.co.kr/article/2020071321404378555"
+    },
+    {
+        "title": "이탈리아 코로나19 사망자 유족 \"정부 부실 대응은 반인류 범죄\"(종합)",
+        "link": "http://yna.kr/AKR20200713164351109?did=1195m"
     },
     {
         "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
     {
-        "title": "홍콩서 코로나19 격리 이송되던 한국인 차량서 뛰어내려",
-        "link": "http://yna.kr/AKR20200713153600074?did=1195m"
+        "title": "WHO \"12일 코로나19 신규 확진자 절반, 두 나라서 발생\"",
+        "link": "http://yna.kr/AKR20200714002300088?did=1195m"
     },
     {
-        "title": "인천서 코로나19 치료받던 90대 사망…요양원 입소자",
-        "link": "http://yna.kr/AKR20200713073600065?did=1195m"
+        "title": "홍콩서 코로나19 격리 이송되던 한국인 차량서 뛰어내려",
+        "link": "http://yna.kr/AKR20200713153600074?did=1195m"
     }
 ];
