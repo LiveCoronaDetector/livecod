@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/13/how-canada-is-fighting-covid-19-ppe-travel-ban-bonnie-henry.html"
     },
     {
-        "title": "Coronavirus committee votes against Netanyahu, reopens gyms, pools",
-        "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/netanyahu-to-deri-nobody-wants-to-discriminate-against-haredi-community-634891"
+        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
+        "link": "https://www.bbc.com/news/world-middle-east-53378442"
     },
     {
-        "title": "German study finds low Covid-19 infection rate in schools",
-        "link": "https://www.theguardian.com/world/2020/jul/13/german-study-covid-19-infection-rate-schools-saxony"
+        "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
+        "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
     },
     {
         "title": "Indian Bollywood stars diagnosed with COVID-19 as WHO registers record global cases",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
     },
     {
-        "title": "30-year-old dies after attending 'Covid party' in Texas",
-        "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
+        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
+        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
         "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
