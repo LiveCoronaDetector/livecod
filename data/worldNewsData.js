@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
     },
     {
-        "title": "Florida breaks U.S. record for new coronavirus cases in a single day",
-        "link": "https://www.youtube.com/watch?v=1r08xHsDW2U"
+        "title": "COVID-19 cases soar in US, grow in India, South Africa and Brazil",
+        "link": "https://www.aljazeera.com/news/2020/07/covid-19-cases-soar-grow-india-south-africa-brazil-200713145223397.html"
     },
     {
-        "title": "Japan has long accepted COVID's airborne spread, and scientists say ventilation is key",
-        "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
+        "title": "Hong Kong virologist claiming coronavirus cover-up tells 'Bill Hemmer Reports': 'We don't have much time'",
+        "link": "https://www.foxnews.com/media/li-meng-yan-virologist-china-coronavirus-coverup"
     },
     {
         "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
     },
     {
-        "title": "White House cites this interview in attempt to discredit Dr. Fauci",
-        "link": "https://www.youtube.com/watch?v=jJh0i84LtBY"
+        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
+        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     }
 ];

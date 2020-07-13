@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
     {
-        "title": "강남구, 코로나19 확진자 2명 추가 발생",
-        "link": "https://view.asiae.co.kr/article/2020071321404378555"
+        "title": "[속보] 전북 37, 38번째 확진자발생..군산 거주(50대 60대) ‘부천 확진자 접...",
+        "link": "http://www.fnnews.com/news/202007140819548778"
     }
 ];

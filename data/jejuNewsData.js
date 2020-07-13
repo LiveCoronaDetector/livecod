@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23418436"
     },
     {
+        "title": "코로나, 가족까지 위험하다",
+        "link": "http://www.mpmbc.co.kr/bbs/board.php?bo_table=news&wr_id=190472&sca=%EB%89%B4%EC%8A%A4%ED%88%AC%EB%8D%B0%EC%9D%B4"
+    },
+    {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
-    },
-    {
-        "title": "[김찬영의 Law포유] 코로나19 지침 어긴 강남 유학생, 손해배상 책임 있나?",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=510662"
     }
 ];
