@@ -9,20 +9,20 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007122056159173"
     },
     {
-        "title": "광주 코로나, 꼬리 문 N차 감염…\"시민 각자 방역 주체돼야\"",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
-    },
-    {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
-        "title": "[김찬영의 Law포유] 코로나19 지침 어긴 강남 유학생, 손해배상 책임 있나?",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=510662"
+        "title": "광주 코로나, 꼬리 문 N차 감염…\"시민 각자 방역 주체돼야\"",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
     },
     {
         "title": "제주도, 해열제 복용하며 여행한 안산 확진자에 손해배상 소송",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
+    },
+    {
+        "title": "[김찬영의 Law포유] 코로나19 지침 어긴 강남 유학생, 손해배상 책임 있나?",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=510662"
     },
     {
         "title": "제주도, 교회 소규모 대면 모임 전면 금지 안내…위반 시 과태료",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.insight.co.kr/news/293504"
     },
     {
-        "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
-        "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+        "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     },
     {
-        "title": "제주, 유증상에도 여행강행 확진자에 1억3000만원대 손해배상 청구",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/07/2020070702196.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
+        "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     }
 ];
