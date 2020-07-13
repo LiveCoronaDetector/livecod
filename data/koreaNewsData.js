@@ -9,24 +9,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
-        "title": "[종합]신규 확진자 62명...해외유입 43명 110일만에 최다",
-        "link": "http://www.fnnews.com/news/202007131033572491"
+        "title": "'선원 교대 목적' 해외입국자 중 코로나19 확진자 증가추세",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131548001&code=940100"
     },
     {
-        "title": "광주지역 코로나 확진자 하루 7명…배드민턴 클럽·T월드 등",
-        "link": "https://view.asiae.co.kr/article/2020071309551276509"
+        "title": "미국서 입국한 주한미군 11명 또 코로나 확진",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071303187.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[속보]코로나19 신규 확진자 62명, 이틀 연속 증가",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
     {
-        "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
-        "link": "http://yna.kr/AKR20200713071700530?did=1195m"
-    },
-    {
-        "title": "미국서 입국한 주한미군 11명 또 코로나 확진",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071303187.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "하루새 서울서 코로나19 확진자 7명 추가…종로·금천·동작 등에서 발생",
+        "link": "https://www.news1.kr/articles/?3994642"
     },
     {
         "title": "홍콩서 코로나19 격리 이송되던 한국인 차량서 뛰어내려",
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "인천서 코로나19 치료받던 90대 사망…요양원 입소자",
         "link": "http://yna.kr/AKR20200713073600065?did=1195m"
+    },
+    {
+        "title": "광주서 코로나19 확진자 6명 추가 발생...누적확진자 168명",
+        "link": "http://www.fnnews.com/news/202007130827140440"
     },
     {
         "title": "서울 코로나19 신규확진 13명..누적 1429명",

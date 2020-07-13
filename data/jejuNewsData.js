@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/13/2020071301224.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "‘코로나 호황’ 제주, 골프장 캐디난…강릉은 쓰레기 몸살",
+        "link": "https://news.joins.com/article/olink/23418436"
+    },
+    {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
-    },
-    {
-        "title": "제주도, 교회 소규모 대면 모임 전면 금지 안내…위반 시 과태료",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005877832&plink=ORI&cooper=NAVER"
     }
 ];
