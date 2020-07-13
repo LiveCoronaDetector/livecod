@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "DeVos asked if she has a plan to reopen schools. See her response",
-        "link": "https://www.youtube.com/watch?v=6b8Kg_a4Omo"
-    },
-    {
         "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
         "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
-        "title": "New Zealand's free quarantine accommodation status up for debate as NSW begins charging",
-        "link": "https://www.youtube.com/watch?v=iYK3apwwXU0"
+        "title": "News from around the world",
+        "link": "https://www.newcastleherald.com.au/story/6829855/news-from-around-the-world/?cs=7579"
     },
     {
-        "title": "Aishwarya Rai Bachchan and daughter have tested positive for coronavirus",
-        "link": "https://www.cnn.com/2020/07/12/entertainment/aishwarya-rai-aradhya-bachchan-coronavvirus/index.html"
+        "title": "Coronavirus: Three generations of Bollywood Bachchan family infected",
+        "link": "https://www.bbc.com/news/world-asia-india-53380291"
+    },
+    {
+        "title": "30-year-old dies after attending 'Covid party' in Texas",
+        "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     }
 ];
