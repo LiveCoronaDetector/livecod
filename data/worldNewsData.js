@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/12/india/india-bollywood-coronavirus-cases-scli-intl/index.html"
     },
     {
-        "title": "China is stepping into global leadership vacuum as U.S. struggles with coronavirus, says Kevin Rudd",
-        "link": "https://www.cnbc.com/2020/07/13/kevin-rudd-says-china-stepping-into-coronavirus-leadership-vacuum.html"
+        "title": "Japan has long accepted COVID's airborne spread, and scientists say ventilation is key",
+        "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
         "title": "30-year-old dies after attending 'Covid party' in Texas",
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "Florida Tops U.S. Record With Over 15,000 New Cases",
-        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
-    },
-    {
         "title": "Are Young People Responsible for Increasing Coronavirus Cases?",
         "link": "https://www.youtube.com/watch?v=eBTZAwE6IEc"
     },
     {
-        "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
-        "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
+        "title": "Aishwarya Rai Bachchan and daughter have tested positive for coronavirus",
+        "link": "https://www.cnn.com/2020/07/12/entertainment/aishwarya-rai-aradhya-bachchan-coronavvirus/index.html"
+    },
+    {
+        "title": "Florida Tops US Record With Over 15,000 New Cases",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     }
 ];
