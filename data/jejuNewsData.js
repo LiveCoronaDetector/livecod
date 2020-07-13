@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://news.kjmbc.co.kr/node/315545"
     },
     {
-        "title": "[김찬영의 Law포유] 코로나19 지침 어긴 강남 유학생, 손해배상 책임 있나?",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=510662"
-    },
-    {
         "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
+    },
+    {
+        "title": "[김찬영의 Law포유] 코로나19 지침 어긴 강남 유학생, 손해배상 책임 있나?",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=510662"
     },
     {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
