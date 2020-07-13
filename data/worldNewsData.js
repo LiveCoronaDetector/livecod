@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "Florida shatters US record for new single-day Covid-19 cases",
-        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
+        "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
-        "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
-        "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
+        "title": "Are Young People Responsible for Increasing Coronavirus Cases?",
+        "link": "https://www.youtube.com/watch?v=eBTZAwE6IEc"
     },
     {
-        "title": "Louisiana Orders Bars Closed and Masks for Most",
-        "link": "https://www.nytimes.com/2020/07/11/world/coronavirus-updates.html"
+        "title": "Leaving World Health Organization marks major foreign policy blunder | TheHill",
+        "link": "https://thehill.com/opinion/international/506964-leaving-world-health-organization-marks-major-foreign-policy-blunder"
     },
     {
-        "title": "Aishwarya Rai Bachchan and daughter have tested positive for coronavirus",
-        "link": "https://www.cnn.com/2020/07/12/entertainment/aishwarya-rai-aradhya-bachchan-coronavvirus/index.html"
+        "title": "South Africa re-imposes curfew, booze ban as coronavirus cases spike",
+        "link": "https://www.yahoo.com/news/south-africa-imposes-curfew-booze-ban-coronavirus-cases-203009682.html"
     }
 ];
