@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
+        "title": "'선원 교대 목적' 해외입국자 중 코로나19 확진자 증가추세",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131548001&code=940100"
+    },
+    {
+        "title": "미국서 입국한 주한미군 11명 또 코로나 확진",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071303187.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 62명, 이틀 연속 증가",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
     {
-        "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
-        "link": "http://yna.kr/AKR20200713071700530?did=1195m"
+        "title": "서울 코로나19 신규확진 13명..누적 1429명",
+        "link": "http://www.fnnews.com/news/202007131050289325"
+    },
+    {
+        "title": "이라크 건설현장서 韓근로자 1명 코로나19 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200713_0001092834&cID=10301&pID=10300"
     },
     {
         "title": "코로나 확진 62명…해외유입 43명·지역 19명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071301201.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 확진 장병 입국에 손놓은 주한미군…격리·치료 주력",
-        "link": "http://www.newsis.com/view/?id=NISX20200713_0001093546&cID=10301&pID=10300"
-    },
-    {
-        "title": "광주서 코로나19 확진자 6명 추가 발생...누적확진자 168명",
-        "link": "http://www.fnnews.com/news/202007130827140440"
+        "title": "광주지역 코로나 확진자 하루 7명…배드민턴 클럽·T월드 등",
+        "link": "https://view.asiae.co.kr/article/2020071309551276509"
     },
     {
         "title": "홍콩서 코로나19 격리 이송되던 한국인 차량서 뛰어내려",
         "link": "http://yna.kr/AKR20200713153600074?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 62명 신규 확진...지역발생 19명",
-        "link": "https://www.sedaily.com/NewsView/1Z5ACWP45C"
-    },
-    {
-        "title": "인천서 코로나19 치료받던 90대 사망…요양원 입소자",
-        "link": "http://yna.kr/AKR20200713073600065?did=1195m"
     }
 ];

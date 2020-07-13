@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3414582,
-        "사망자수": 137795,
+        "확진자수": 3415664,
+        "사망자수": 137797,
         "완치자수": 1517570
     },
     {
@@ -1020,9 +1020,9 @@ var marker = [
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
-        "확진자수": 1263,
+        "확진자수": 1302,
         "사망자수": 50,
-        "완치자수": 1076
+        "완치자수": 1082
     },
     {
         "Name": "Montenegro",
@@ -1145,20 +1145,20 @@ var marker = [
         "완치자수": 803
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "확진자수": 762,
+        "사망자수": 18,
+        "완치자수": 509
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
         "확진자수": 758,
         "사망자수": 10,
         "완치자수": 620
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "확진자수": 741,
-        "사망자수": 18,
-        "완치자수": 495
     },
     {
         "Name": "Sao Tome and Principe",

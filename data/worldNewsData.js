@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
+        "title": "Japan, U.S. discuss coronavirus cases at military bases in Okinawa",
+        "link": "https://japantoday.com/category/national/japan-u.s.-discussing-jump-in-coronavirus-cases-at-u.s.-military-bases"
+    },
+    {
         "title": "30-year-old dies after attending 'Covid party' in Texas",
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "Are Young People Responsible for Increasing Coronavirus Cases?",
-        "link": "https://www.youtube.com/watch?v=eBTZAwE6IEc"
+        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
+        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
         "title": "Aishwarya Rai Bachchan and daughter have tested positive for coronavirus",
         "link": "https://www.cnn.com/2020/07/12/entertainment/aishwarya-rai-aradhya-bachchan-coronavvirus/index.html"
-    },
-    {
-        "title": "Florida Tops US Record With Over 15,000 New Cases",
-        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     }
 ];
