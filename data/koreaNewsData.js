@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
     {
-        "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
-        "link": "http://yna.kr/AKR20200713071700530?did=1195m"
-    },
-    {
         "title": "서울 코로나19 신규확진 13명..누적 1429명",
         "link": "http://www.fnnews.com/news/202007131050289325"
     },
@@ -22,7 +18,7 @@ var koreaNewsData = [
     },
     {
         "title": "WHO \"코로나19 신규 확진자 23만명\"…일일 기준 최다",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5840208_32640.html"
+        "link": "http://yna.kr/AKR20200713001800088?did=1195m"
     },
     {
         "title": "코로나 확진 장병 입국에 손놓은 주한미군…격리·치료 주력",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071309551276509"
     },
     {
-        "title": "광주서 해외 입국자 1명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200713147151054?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 62명 신규 확진...지역발생 19명",
         "link": "https://www.sedaily.com/NewsView/1Z5ACWP45C"
+    },
+    {
+        "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
+        "link": "http://yna.kr/AKR20200713071700530?did=1195m"
+    },
+    {
+        "title": "광주서 해외 입국자 1명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200713147151054?did=1195m"
     }
 ];

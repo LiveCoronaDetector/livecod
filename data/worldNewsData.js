@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
-        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
+        "title": "Are Young People Responsible for Increasing Coronavirus Cases?",
+        "link": "https://www.youtube.com/watch?v=eBTZAwE6IEc"
+    },
+    {
+        "title": "White House seeks to discredit Fauci amid coronavirus surge",
+        "link": "https://news.yahoo.com/white-house-seeks-discredit-fauci-184700526.html"
     },
     {
         "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
         "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
-    },
-    {
-        "title": "Aishwarya Rai Bachchan and daughter have tested positive for coronavirus",
-        "link": "https://www.cnn.com/2020/07/12/entertainment/aishwarya-rai-aradhya-bachchan-coronavvirus/index.html"
     }
 ];
