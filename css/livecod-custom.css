@@ -6,6 +6,11 @@ h1.title {
   color: #04253a;
 }
 
+h1.title > a {
+  text-decoration: none;
+  color: inherit;
+}
+
 #page-top > header {
   /* padding: 0 0.75rem; */
 }
