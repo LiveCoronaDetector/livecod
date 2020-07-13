@@ -1578,36 +1578,60 @@
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
-          <div class="modal-body text-center">
-            <div class="row">
-              <div class="col-6">
-                <a href="https://together.kakao.com/tags/%EC%BD%94%EB%A1%9C%EB%82%9819" target="_blank"><span
-                    class="tag">모금</span><img src="./img/kakao.png" alt=""></a>
-                <h6>카카오 같이가치</h6>
+          <div class="modal-body text-center p-0">
+            <div class="accordion" id="donationAccordion">
+              <div class="card rounded-0">
+                <div class="card-header" id="activeDonationsHeader">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#activeDonations" aria-expanded="true" aria-controls="activeDonations">
+                      진행 중인 후원 및 모금
+                    </button>
+                  </h2>
+                </div>
+                <div id="activeDonations" class="collapse show" aria-labelledby="activeDonationsHeader" data-parent="#donationAccordion">
+                  <div class="card-body">
+                    <div class="row">
+                      <div class="col-6">
+                        <a href="http://www.jejuilbo.net/news/articleView.html?idxno=140662" target="_blank"><span
+                            class="tag color2">무료앱</span><img src="./img/logo_cie.png" alt=""></a>
+                        <h6>캐치잇 잉글리시</h6>
+                      </div>
+                      <div class="col-6">
+                        <a href="https://foldingathome.org/" target="_blank"><span class="tag color2">기부</span><img
+                            src="./img/FAH_protein+explanation_image.png" alt="protein folding+F@H explanation image"></a>
+                        <h6>시스템자원 기부 Folding@Home—Live Corona Korea (#263595)</h6>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <div class="col-6">
-                <a href="https://www.wadiz.kr/web/campaign/detail/61863" target="_blank"><span class="tag">모금</span><img
-                    src="./img/wadiz.png" alt=""></a>
-                <h6>대구/경북에 희망을! Hope Together with 신한</h6>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-6">
-                <a href="http://www.jejuilbo.net/news/articleView.html?idxno=140662" target="_blank"><span
-                    class="tag color2">무료앱</span><img src="./img/logo_cie.png" alt=""></a>
-                <h6>캐치잇 잉글리시</h6>
-              </div>
-              <div class="col-6">
-                <a href="https://foldingathome.org/" target="_blank"><span class="tag color2">기부</span><img
-                    src="./img/FAH_protein+explanation_image.png" alt="protein folding+F@H explanation image"></a>
-                <h6>시스템자원(GPU/CPU) 기부 :<br>Folding@Home-Live Corona Korea<br><a
-                    href="https://news.chosun.com/site/data/html_dir/2020/04/21/2020042104554.html?utm_source=naver&utm_medium=original&utm_campaign=news">설명&관련기사</a><br>
-                  Team# : 263595</h6>
+              <div class="card rounded-0">
+                <div class="card-header" id="endedDonationsHeader">
+                  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#endedDonations" aria-expanded="true" aria-controls="endedDonations">
+                    종료된 후원 및 모금
+                  </button>
+                </div>
+                <div id="endedDonations" class="collapse" aria-labelledby="endedDonationsHeader" data-parent="#donationAccordion">
+                  <div class="card-body">
+                    <div class="row">
+                      <div class="col-6">
+                        <a href="https://together.kakao.com/tags/%EC%BD%94%EB%A1%9C%EB%82%9819" target="_blank"><span
+                            class="tag">모금</span><img src="./img/kakao.png" alt=""></a>
+                        <h6>카카오 같이가치</h6>
+                      </div>
+                      <div class="col-6">
+                        <a href="https://www.wadiz.kr/web/campaign/detail/61863" target="_blank"><span class="tag">모금</span><img
+                            src="./img/wadiz.png" alt=""></a>
+                        <h6>대구/경북에 희망을! Hope Together with 신한</h6>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">닫기</button>
           </div>
         </div>
       </div>
