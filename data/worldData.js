@@ -1228,8 +1228,8 @@ var marker = [
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "확진자수": 483,
-        "사망자수": 25,
+        "확진자수": 506,
+        "사망자수": 26,
         "완치자수": 118
     },
     {
@@ -1334,7 +1334,7 @@ var marker = [
         "Name_en": "Mongolia",
         "확진자수": 230,
         "사망자수": 0,
-        "완치자수": 202
+        "완치자수": 203
     },
     {
         "Name": "Cayman Islands",

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53382797"
     },
     {
-        "title": "The two reasons Covid-19 is getting worse in the US",
-        "link": "https://www.cnn.com/2020/07/12/opinions/covid-worse-trump-economy-ghitis/index.html"
+        "title": "Coronavirus: Florida sets new state daily case record of 15,299",
+        "link": "https://www.bbc.com/news/world-us-canada-53382540"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/coronavirus-outbreaks-us-marine-bases-in-japan-anger-authorities-2020-7"
     },
     {
-        "title": "DeVos doubles down on push to reopen schools despite coronavirus surge",
-        "link": "https://www.youtube.com/watch?v=oX4Qfv4sfWc"
+        "title": "DeVos asked if she has a plan to reopen schools. See her response",
+        "link": "https://www.youtube.com/watch?v=6b8Kg_a4Omo"
     },
     {
-        "title": "Florida shatters single day coronavirus record",
-        "link": "https://www.youtube.com/watch?v=AXUxqGS1Jkw"
+        "title": "Florida shatters largest single-day record of coronavirus infections in US while world sees cases spike",
+        "link": "https://www.foxnews.com/health/florida-coronavirus-record"
     },
     {
-        "title": "WHO reports record over 230000 global coronavirus cases",
-        "link": "https://www.youtube.com/watch?v=BvVkyFC4zRQ"
+        "title": "New Zealand's free quarantine accommodation status up for debate as NSW begins charging",
+        "link": "https://www.youtube.com/watch?v=iYK3apwwXU0"
     },
     {
         "title": "Aishwarya Rai Bachchan and daughter have tested positive for coronavirus",
