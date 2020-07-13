@@ -134,9 +134,6 @@ header h6 {
   margin: 0;
   margin-top: 10px;
 }
-header .m-update, header .m-none{
-  display: inline-block;
-}
 header .m-update{
   font-weight: bold
 }
@@ -446,7 +443,7 @@ footer{
   header h1 img{
     width: 18px;
   }
-  header h6.float-right .m-none{
+  header .float-right .m-none{
     display: none;
   }
   header .m-update{
