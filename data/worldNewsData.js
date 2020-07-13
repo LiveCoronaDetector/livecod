@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
-        "title": "Live Coronavirus Updates: 17 States Sue Trump Administration",
-        "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
-    },
-    {
         "title": "30-year-old dies after attending 'Covid party' in Texas",
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
+        "title": "\"There will be no return to the old normal for the foreseeable future,\" WHO director-general says",
         "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-07-13-20-intl/h_bd77f11095a3930c53817f06c86592d3"
     },
     {
-        "title": "Pres. Trump Holds Roundtable Discussion on Positive Experiences with Law Enforcement | LIVE | NowThi",
-        "link": "https://www.youtube.com/watch?v=tMpxt4G_qLE"
+        "title": "Coronavirus: White House targets US disease chief Dr Anthony Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53392817"
+    },
+    {
+        "title": "Florida Tops US Record With Over 15,000 New Cases",
+        "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     }
 ];
