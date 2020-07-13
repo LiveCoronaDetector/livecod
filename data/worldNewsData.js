@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/13/kevin-rudd-says-china-stepping-into-coronavirus-leadership-vacuum.html"
     },
     {
+        "title": "30-year-old dies after attending 'Covid party' in Texas",
+        "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
+    },
+    {
         "title": "Coronavirus Live Updates: Florida Tops U.S. Record With Over 15,000 New Cases",
         "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
         "title": "Florida shatters single day coronavirus record",
         "link": "https://www.youtube.com/watch?v=AXUxqGS1Jkw"
-    },
-    {
-        "title": "30-year-old dies after attending 'Covid party' in Texas",
-        "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
     {
         "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
