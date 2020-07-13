@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
+        "title": "코로나'가족이 위험해진다' 가족 간 감염 30%",
+        "link": "https://news.kjmbc.co.kr/node/315545"
+    },
+    {
         "title": "광주 코로나, 꼬리 문 N차 감염…\"시민 각자 방역 주체돼야\"",
         "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
-    },
-    {
-        "title": "코로나19로 닫힌 하늘길 열려 이달 제주도에 '중국인 관광객' 쏟아진다",
-        "link": "https://www.insight.co.kr/news/293504"
     }
 ];

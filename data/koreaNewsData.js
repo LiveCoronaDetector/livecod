@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200713071700530?did=1195m"
     },
     {
+        "title": "서울 코로나19 신규확진 13명..누적 1429명",
+        "link": "http://www.fnnews.com/news/202007131050289325"
+    },
+    {
         "title": "코로나 확진 62명…해외유입 43명·지역 19명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/13/2020071301201.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200713_0001093546&cID=10301&pID=10300"
     },
     {
-        "title": "광주서 코로나19 확진자 6명 추가 발생...누적확진자 168명",
-        "link": "http://www.fnnews.com/news/202007130827140440"
+        "title": "광주지역 코로나 확진자 하루 7명…배드민턴 클럽·T월드 등",
+        "link": "https://view.asiae.co.kr/article/2020071309551276509"
+    },
+    {
+        "title": "대전·충남서 해외입국 외국인 3명 잇따라 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200713150500063?did=1195m"
     },
     {
         "title": "[속보] 코로나19 62명 신규 확진...지역발생 19명",
         "link": "https://www.sedaily.com/NewsView/1Z5ACWP45C"
-    },
-    {
-        "title": "인천서 코로나19 치료받던 90대 사망…요양원 입소자",
-        "link": "http://yna.kr/AKR20200713073600065?did=1195m"
-    },
-    {
-        "title": "서울 코로나19 신규확진 13명..누적 1429명",
-        "link": "http://www.fnnews.com/news/202007131050289325"
     }
 ];
