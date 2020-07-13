@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007130943001&code=940100"
     },
     {
+        "title": "WHO \"12일 코로나19 신규 확진자 절반, 두 나라서 발생\"",
+        "link": "http://yna.kr/AKR20200714002300088?did=1195m"
+    },
+    {
         "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
         "link": "http://yna.kr/AKR20200713071700530?did=1195m"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
     {
+        "title": "충북 영동서 첫 코로나19 확진…충북 70번째(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5377653"
+    },
+    {
         "title": "강남구, 코로나19 확진자 2명 추가 발생",
         "link": "https://view.asiae.co.kr/article/2020071321404378555"
     },
     {
         "title": "이탈리아 코로나19 사망자 유족 \"정부 부실 대응은 반인류 범죄\"(종합)",
         "link": "http://yna.kr/AKR20200713164351109?did=1195m"
-    },
-    {
-        "title": "WHO \"12일 코로나19 신규 확진자 절반, 두 나라서 발생\"",
-        "link": "http://yna.kr/AKR20200714002300088?did=1195m"
-    },
-    {
-        "title": "홍콩서 코로나19 격리 이송되던 한국인 차량서 뛰어내려",
-        "link": "http://yna.kr/AKR20200713153600074?did=1195m"
     }
 ];

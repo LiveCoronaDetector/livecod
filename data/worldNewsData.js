@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/"
     },
     {
-        "title": "17 States Sue Trump Administration: Live Updates",
+        "title": "Coronavirus Live Updates: Trump Aides Target Fauci",
         "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
     },
     {
