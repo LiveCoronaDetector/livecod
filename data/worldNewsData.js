@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/inventor-israels-iron-dome-seeks-coronavirus-game-changer-021708086.html"
     },
     {
-        "title": "Germany sex workers demand return to work after coronavirus shutdown",
-        "link": "https://www.foxnews.com/world/hamburg-sex-workers-coronavirus"
+        "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
+        "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
     },
     {
         "title": "Bollywood stars hospitalized as coronavirus cases spike in India",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/13/kevin-rudd-says-china-stepping-into-coronavirus-leadership-vacuum.html"
     },
     {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-13-20-intl/index.html"
+    },
+    {
         "title": "30-year-old dies after attending 'Covid party' in Texas",
         "link": "https://www.theguardian.com/world/2020/jul/13/30-year-old-dies-covid-party-texas"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/12/world/coronavirus-updates.html"
     },
     {
-        "title": "Florida shatters single day coronavirus record",
-        "link": "https://www.youtube.com/watch?v=AXUxqGS1Jkw"
-    },
-    {
-        "title": "Immunity to Covid-19 could be lost in months, UK study suggests",
-        "link": "https://www.theguardian.com/world/2020/jul/12/immunity-to-covid-19-could-be-lost-in-months-uk-study-suggests"
+        "title": "Florida shatters US record for new single-day Covid-19 cases",
+        "link": "https://www.cnn.com/2020/07/12/health/us-coronavirus-sunday/index.html"
     }
 ];
