@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020071410461520186"
     },
     {
-        "title": "\"신규 확진자 절반이 미국·브라질\"...볼리비아 장·차관 10여 명 감염",
-        "link": "https://www.ytn.co.kr/_ln/0104_202007141300063937"
-    },
-    {
         "title": "[종합] 코로나19 확진자 33명 증가...해외 19명, 서울 7명, 경기 4명",
         "link": "http://www.fnnews.com/news/202007141016236112"
+    },
+    {
+        "title": "전 세계 코로나19 확진자 23만명, 최다 기록 경신",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007130943001&code=940100"
     }
 ];
