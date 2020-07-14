@@ -13,12 +13,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200714069400002?did=1195m"
     },
     {
+        "title": "부천 확진자 군산 방문 5시간 마스크 미착용",
+        "link": "http://www.fnnews.com/news/202007141200064657"
+    },
+    {
         "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
     },
     {
-        "title": "부천 확진자 군산 방문 5시간 마스크 미착용",
-        "link": "http://www.fnnews.com/news/202007141200064657"
+        "title": "부산 감천항 또 '비상'... 원양어선서 확진자 1명",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002658206&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진 33명···해외 유입 19명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007141028001&code=940100"
     },
     {
         "title": "신규 확진자 33명…지역발생 14명·해외유입 19명",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "\"신규 확진자 절반이 미국·브라질\"...볼리비아 장·차관 10여 명 감염",
         "link": "https://www.ytn.co.kr/_ln/0104_202007141300063937"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 33명 증가...해외 19명, 서울 7명, 경기 4명",
-        "link": "http://www.fnnews.com/news/202007141016236112"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진 33명···해외 유입 19명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007141028001&code=940100"
     }
 ];

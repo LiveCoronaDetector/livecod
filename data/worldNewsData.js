@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/13/890406907/south-africa-introduces-alcohol-ban-and-curfew-as-coronavirus-surges"
     },
     {
-        "title": "Live updates: California backtracks on reopening as rise in coronavirus cases spreads beyond Sun Belt",
-        "link": "https://www.washingtonpost.com/nation/2020/07/14/coronavirus-live-updates-us/"
+        "title": "Coronavirus: White House targets US disease chief Dr Anthony Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53392817"
     },
     {
         "title": "The coronavirus effect on Pakistan's digital divide",
