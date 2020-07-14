@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     },
     {
-        "title": "White House takes aim at Fauci as Trump touts their relationship",
-        "link": "https://www.youtube.com/watch?v=3Y0Q0LhQ-NA"
+        "title": "Global coronavirus cases top 13 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     }
 ];

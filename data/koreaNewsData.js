@@ -5,32 +5,32 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007141016236112"
     },
     {
-        "title": "코로나19 신규확진 33명…해외유입·지역감염 지속",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5841651_32633.html"
-    },
-    {
-        "title": "코로나 확진 33명…해외유입 19명·지역발생 14명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/14/2020071401207.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나 확산한 2∼5월 카드이용 2%↓…역대 네 번째 감소",
         "link": "http://yna.kr/AKR20200714069400002?did=1195m"
     },
     {
-        "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
-    },
-    {
-        "title": "부산 입항 어선서 또 코로나 확진···집단감염 우려(종합)",
-        "link": "https://www.sedaily.com/NewsView/1Z5AT2ATO5"
+        "title": "코로나19 신규확진 33명…해외유입·지역감염 지속",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5841651_32633.html"
     },
     {
         "title": "군산 방문 부천 확진자 \"마스크 착용하지 않았다\"",
         "link": "http://www.newsis.com/view/?id=NISX20200714_0001094244&cID=10808&pID=10800"
     },
     {
-        "title": "[속보] '코로나19' 33명 늘어 1만3,512명…지역 14명·해외유입 19명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007140139&t=NN"
+        "title": "코로나 확진 33명…해외유입 19명·지역발생 14명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/14/2020071401207.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "부산 입항 어선서 또 코로나 확진···집단감염 우려(종합)",
+        "link": "https://www.sedaily.com/NewsView/1Z5AT2ATO5"
+    },
+    {
+        "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
+    },
+    {
+        "title": "7월 14일 헝가리 입국허용 등 ‘코로나19’ 입국금지·검역 조치 170개국(종합...",
+        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/14/2020071480162.html"
     },
     {
         "title": "[속보] 대구시 \"11일째 지역발생 확진자 0명\"(전문)",
