@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     },
     {
-        "title": "Coronavirus cases soar by more than 1 million over 5 days",
-        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
+        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
+        "link": "https://www.bbc.com/news/world-us-canada-53357742"
     },
     {
         "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
         "link": "https://www.bbc.com/news/world-53393037"
     },
     {
-        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
-        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
+        "title": "WHO sounds alarm as coronavirus cases rise by one million in five days",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global/who-sounds-alarm-as-coronavirus-cases-rise-by-one-million-in-five-days-idUSKCN24E1US"
     }
 ];
