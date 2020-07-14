@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/13/890406907/south-africa-introduces-alcohol-ban-and-curfew-as-coronavirus-surges"
     },
     {
-        "title": "How Canada is fighting Covid-19: Ramping up PPE production, travel ban from the U.S. and Bonnie Henry",
-        "link": "https://www.cnbc.com/2020/07/13/how-canada-is-fighting-covid-19-ppe-travel-ban-bonnie-henry.html"
+        "title": "Coronavirus Surge Is Killing America's Small Businesses",
+        "link": "https://www.nytimes.com/2020/07/13/business/small-businesses-coronavirus.html"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
         "link": "https://www.bbc.com/news/world-middle-east-53378442"
     },
     {
-        "title": "German study finds low Covid-19 infection rate in schools",
-        "link": "https://www.theguardian.com/world/2020/jul/13/german-study-covid-19-infection-rate-schools-saxony"
+        "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
+        "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
     },
     {
         "title": "COVID-19 cases soar in US, grow in India, South Africa and Brazil",

@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200714002300088?did=1195m"
     },
     {
-        "title": "美 30대 남성이 남긴 유언 \"코로나, 거짓말인 줄...\"",
-        "link": "https://www.ytn.co.kr/_ln/0104_202007140622030889"
-    },
-    {
         "title": "WHO \"코로나19 기원 조사차 중 파견 전문가, 절차따라 격리중\"(종합)",
         "link": "http://yna.kr/AKR20200714002351088?did=1195m"
+    },
+    {
+        "title": "전북 군산에서 코로나19 2명 확진…‘부천 확진자 접촉’",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4493397&ref=A"
     },
     {
         "title": "이탈리아 코로나19 사망자 유족 \"정부 부실 대응은 반인류 범죄\"(종합)",
