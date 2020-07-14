@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
     },
     {
-        "title": "COVID-19 cases soar in US, grow in India, South Africa and Brazil",
-        "link": "https://www.aljazeera.com/news/2020/07/covid-19-cases-soar-grow-india-south-africa-brazil-200713145223397.html"
+        "title": "Florida breaks U.S. record for new coronavirus cases in a single day",
+        "link": "https://www.youtube.com/watch?v=1r08xHsDW2U"
     },
     {
         "title": "Hong Kong virologist claiming coronavirus cover-up tells 'Bill Hemmer Reports': 'We don't have much time'",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
-        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
-        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
+        "title": "July 13 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-13-20-intl/index.html"
     },
     {
-        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
-        "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
+        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
+        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     },
     {
         "title": "White House takes aim at Fauci as Trump touts their relationship",
