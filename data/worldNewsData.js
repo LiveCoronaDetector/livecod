@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
-        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
-        "link": "https://www.bbc.com/news/world-us-canada-53357742"
+        "title": "A Shutdown May Be Needed to Stop the Coronavirus",
+        "link": "https://www.nytimes.com/2020/07/14/opinion/coronavirus-shutdown.html"
     },
     {
         "title": "Israel took strong early steps against Covid-19, but now the virus is resurging and some say the country reopened too soon",
         "link": "https://www.cnbc.com/2020/07/14/israel-fights-coronavirus-early-progress-stalled-by-early-reopening.html"
     },
     {
-        "title": "Schools have low coronavirus infection rate, German study finds",
-        "link": "https://www.cnbc.com/2020/07/14/schools-coronavirus-infection-rate-low-german-study-finds.html"
+        "title": "First known recorded case of baby contracting COVID-19 in womb - Business Insider",
+        "link": "https://www.businessinsider.com/unborn-baby-contracting-coronavirus-mother-womb-france-2020-7"
     },
     {
         "title": "Coronavirus update: Global cases of COVID-19 climb above 13 million as California, Hong Kong and India reimpose restrictions on movement",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
-        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
-        "link": "https://www.bbc.com/news/world-53393037"
+        "title": "What you need to know about coronavirus on Tuesday, July 14",
+        "link": "https://www.cnn.com/2020/07/14/world/coronavirus-newsletter-07-14-20-intl/index.html"
     }
 ];
