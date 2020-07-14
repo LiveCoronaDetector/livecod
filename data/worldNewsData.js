@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
+        "title": "Live Coronavirus News Updates",
+        "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
+    },
+    {
         "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
         "link": "https://www.bbc.com/news/world-53393037"
     },
     {
         "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
         "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
-    },
-    {
-        "title": "Global coronavirus cases top 13 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     }
 ];
