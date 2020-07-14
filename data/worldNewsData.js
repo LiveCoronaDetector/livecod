@@ -5,15 +5,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/13/890406907/south-africa-introduces-alcohol-ban-and-curfew-as-coronavirus-surges"
     },
     {
-        "title": "Coronavirus: White House targets US disease chief Dr Anthony Fauci",
-        "link": "https://www.bbc.com/news/world-us-canada-53392817"
+        "title": "America shuts down again -- choosing reality over Trump's false claims",
+        "link": "https://www.cnn.com/2020/07/14/politics/donald-trump-states-economy-coronavirus/index.html"
     },
     {
         "title": "The coronavirus effect on Pakistan's digital divide",
         "link": "https://www.bbc.com/worklife/article/20200713-the-coronavirus-effect-on-pakistans-digital-divide"
     },
     {
-        "title": "Coronavirus live updates: California's two largest school districts to return online in the fall",
+        "title": "California's two largest school districts to return online in the fall",
         "link": "https://www.cnbc.com/2020/07/13/coronavirus-live-updates.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
-        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
-        "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
+        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
+        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     }
 ];
