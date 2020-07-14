@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53392817"
     },
     {
-        "title": "Coronavirus: Thousands protest in Israel over handling of economy",
-        "link": "https://www.bbc.com/news/world-middle-east-53378442"
+        "title": "The coronavirus effect on Pakistan's digital divide",
+        "link": "https://www.bbc.com/worklife/article/20200713-the-coronavirus-effect-on-pakistans-digital-divide"
     },
     {
         "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
-        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
-        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
-    },
-    {
         "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
         "link": "https://www.bbc.com/news/world-53393037"
+    },
+    {
+        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
+        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     },
     {
         "title": "Global coronavirus cases top 13 million: Live updates",
