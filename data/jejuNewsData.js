@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.honam.co.kr/detail/c3QycN/608394"
     },
     {
-        "title": "코로나, 가족까지 위험하다",
-        "link": "http://www.mpmbc.co.kr/bbs/board.php?bo_table=news&wr_id=190472&sca=%EB%89%B4%EC%8A%A4%ED%88%AC%EB%8D%B0%EC%9D%B4"
+        "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     }
 ];

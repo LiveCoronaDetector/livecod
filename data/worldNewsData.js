@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/worklife/article/20200713-the-coronavirus-effect-on-pakistans-digital-divide"
     },
     {
-        "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
-        "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
+        "title": "Coronavirus live updates: California's two largest school districts to return online in the fall",
+        "link": "https://www.cnbc.com/2020/07/13/coronavirus-live-updates.html"
     },
     {
         "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53393037"
     },
     {
-        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
-        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
+        "title": "Hong Kong braces for toughest ever coronavirus curbs: Live",
+        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
         "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
