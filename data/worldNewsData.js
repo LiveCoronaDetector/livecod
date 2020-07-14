@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/14/israel-fights-coronavirus-early-progress-stalled-by-early-reopening.html"
     },
     {
-        "title": "First known recorded case of baby contracting COVID-19 in womb - Business Insider",
-        "link": "https://www.businessinsider.com/unborn-baby-contracting-coronavirus-mother-womb-france-2020-7"
+        "title": "Schools have low coronavirus infection rate, German study finds",
+        "link": "https://www.cnbc.com/2020/07/14/schools-coronavirus-infection-rate-low-german-study-finds.html"
     },
     {
-        "title": "Coronavirus update: Global cases of COVID-19 climb above 13 million as California, Hong Kong and India reimpose restrictions on movement",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-climb-above-13-million-as-california-hong-kong-and-india-reimpose-restrictions-on-movement-2020-07-14"
+        "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
+        "link": "https://www.cnn.com/2020/07/14/asia/india-coronavirus-cases-rise-intl-hnk/index.html"
     },
     {
         "title": "Hong Kong virologist claiming coronavirus cover-up tells 'Bill Hemmer Reports': 'We don't have much time'",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
-        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
-        "link": "https://www.bbc.com/news/world-53393037"
+        "title": "Africa's coronavirus caseload climbs past 600,000: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     }
 ];

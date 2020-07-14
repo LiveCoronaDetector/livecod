@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200714069400002?did=1195m"
     },
     {
-        "title": "대전, 코로나19 확진자 1명 추가 발생... 161번 째",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002658235&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
+    },
+    {
+        "title": "대전, 코로나19 확진자 1명 추가 발생... 161번 째",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002658235&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "부산 감천항 국외 선박서 코로나 확진자 1명 나와",
