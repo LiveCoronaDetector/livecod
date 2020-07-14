@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/speier-trump-china-discipline"
     },
     {
-        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
-        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
+        "title": "Coronavirus cases soar by more than 1 million over 5 days",
+        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
     },
     {
         "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
-        "title": "What you need to know about coronavirus on Tuesday, July 14",
-        "link": "https://www.cnn.com/2020/07/14/world/coronavirus-newsletter-07-14-20-intl/index.html"
+        "title": "Curbs are back as coronavirus infections spike",
+        "link": "https://www.youtube.com/watch?v=rsglBkBLPKI"
     }
 ];
