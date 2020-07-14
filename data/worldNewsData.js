@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
-        "title": "Coronavirus Live: Updates From Around the Globe",
-        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-updates.html"
+        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
+        "link": "https://www.bbc.com/news/world-us-canada-53357742"
     },
     {
         "title": "Israel took strong early steps against Covid-19, but now the virus is resurging and some say the country reopened too soon",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     },
     {
-        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
-        "link": "https://www.bbc.com/news/world-us-canada-53357742"
-    },
-    {
-        "title": "Curbs are back as coronavirus infections spike",
-        "link": "https://www.youtube.com/watch?v=rsglBkBLPKI"
-    },
-    {
         "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
         "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
+    },
+    {
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
+    },
+    {
+        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
+        "link": "https://www.bbc.com/news/world-53393037"
     }
 ];

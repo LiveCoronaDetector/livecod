@@ -13,16 +13,20 @@ var jejuNewsData = [
         "link": "http://news.mk.co.kr/newsRead.php?no=721270&year=2020"
     },
     {
+        "title": "병원인 50만명 \"코로나19 종식 최선, 국민 건강권 수호”",
+        "link": "http://www.dailymedi.com/detail.php?number=858195&thread=22r02"
+    },
+    {
         "title": "코로나 신규 확진 62명, 10명 중 7명이 해외발",
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/13/2020071301224.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "(주)제이케이컴퍼니, 고향 제주에 코로나-19 예방 마스크 기탁  ",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422225"
-    },
-    {
         "title": "광주 코로나19 확진자 1명 늘어, T월드 대리점 관련",
         "link": "http://www.gjdream.com/news/articleView.html?idxno=601100"
+    },
+    {
+        "title": "(주)제이케이컴퍼니, 고향 제주에 코로나-19 예방 마스크 기탁  ",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422225"
     },
     {
         "title": "코로나19로 닫힌 제주-중국 하늘길…진에어, 이달 중 재개",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "광주 코로나 1명 추가 확진…집단감염 확산은 주춤세",
         "link": "http://www.honam.co.kr/detail/c3QycN/608394"
-    },
-    {
-        "title": "[LTE]코로나 지역감염 추가발생..검사 대기 7천여 건",
-        "link": "http://ikbc.co.kr/kor/news?mode=view&nwCd=main_news_04&menuId=56_65_75&nwid=360301"
     }
 ];
