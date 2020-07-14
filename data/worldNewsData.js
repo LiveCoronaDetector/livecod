@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/13/890406907/south-africa-introduces-alcohol-ban-and-curfew-as-coronavirus-surges"
     },
     {
-        "title": "Coronavirus Surge Is Killing America's Small Businesses",
-        "link": "https://www.nytimes.com/2020/07/13/business/small-businesses-coronavirus.html"
+        "title": "Coronavirus: White House targets US disease chief Dr Anthony Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53392817"
     },
     {
         "title": "Coronavirus: Thousands protest in Israel over handling of economy",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
     },
     {
-        "title": "Coronavirus: White House targets US disease chief Dr Anthony Fauci",
-        "link": "https://www.bbc.com/news/world-us-canada-53392817"
+        "title": "As Virus Surges, WH Seeks To Discredit Dr. Fauci | Morning Joe | MSNBC",
+        "link": "https://www.youtube.com/watch?v=rE1GWerPSkA"
     }
 ];
