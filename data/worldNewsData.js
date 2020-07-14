@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/worklife/article/20200713-the-coronavirus-effect-on-pakistans-digital-divide"
     },
     {
-        "title": "Coronavirus live updates: California's two largest school districts to return online in the fall",
-        "link": "https://www.cnbc.com/2020/07/13/coronavirus-live-updates.html"
+        "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
+        "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
     },
     {
         "title": "Florida breaks U.S. record for new coronavirus cases in a single day",

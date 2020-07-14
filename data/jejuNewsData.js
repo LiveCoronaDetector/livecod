@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23418436"
     },
     {
+        "title": "광주 코로나 1명 추가 확진…집단감염 확산은 주춤세",
+        "link": "http://www.honam.co.kr/detail/c3QycN/608394"
+    },
+    {
         "title": "코로나, 가족까지 위험하다",
         "link": "http://www.mpmbc.co.kr/bbs/board.php?bo_table=news&wr_id=190472&sca=%EB%89%B4%EC%8A%A4%ED%88%AC%EB%8D%B0%EC%9D%B4"
     },
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007071739001&code=620117"
     },
     {
-        "title": "코로나'가족이 위험해진다' 가족 간 감염 30%",
-        "link": "https://news.kjmbc.co.kr/node/315545"
-    },
-    {
-        "title": "광주 코로나, 꼬리 문 N차 감염…\"시민 각자 방역 주체돼야\"",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
     },
     {
         "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
+    },
+    {
+        "title": "코로나'가족이 위험해진다' 가족 간 감염 30%",
+        "link": "https://news.kjmbc.co.kr/node/315545"
     }
 ];
