@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
     },
     {
-        "title": "Coronavirus News: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
+        "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
+        "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     },
     {
         "title": "Tunisia woman gets 6 months in jail for COVID-Koran post",
