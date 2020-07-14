@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/li-meng-yan-virologist-china-coronavirus-coverup"
     },
     {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
-    },
-    {
         "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
         "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
+    },
+    {
+        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
+        "link": "https://www.bbc.com/news/world-us-canada-53357742"
     }
 ];

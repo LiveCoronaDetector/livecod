@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5841651_32633.html"
     },
     {
-        "title": "코로나 확산한 2∼5월 카드이용 2%↓…역대 네 번째 감소",
-        "link": "http://yna.kr/AKR20200714069400002?did=1195m"
-    },
-    {
         "title": "부천 확진자 군산 방문 5시간 마스크 미착용",
         "link": "http://www.fnnews.com/news/202007141200064657"
+    },
+    {
+        "title": "코로나 확산한 2∼5월 카드이용 2%↓…역대 네 번째 감소",
+        "link": "http://yna.kr/AKR20200714069400002?did=1195m"
     },
     {
         "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4493564&ref=A"
     },
     {
-        "title": "[심층분석] '코로나19' 한국발 입국 제한 170개국...각국 조치 살펴보니",
-        "link": "http://www.newspim.com/news/view/20200713000996"
+        "title": "전세계 코로나19 신규 확진자 23만명…세계 최다 기록",
+        "link": "https://www.nocutnews.co.kr/news/5376844"
     },
     {
-        "title": "\"신규 확진자 절반이 미국·브라질\"...볼리비아 장·차관 10여 명 감염",
-        "link": "https://www.ytn.co.kr/_ln/0104_202007141300063937"
+        "title": "[심층분석] '코로나19' 한국발 입국 제한 170개국...각국 조치 살펴보니",
+        "link": "http://www.newspim.com/news/view/20200713000996"
     }
 ];
