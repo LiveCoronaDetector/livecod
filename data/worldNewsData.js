@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
-        "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
-    },
-    {
         "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
         "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
+    },
+    {
+        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
+        "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
     }
 ];

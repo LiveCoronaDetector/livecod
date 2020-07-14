@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200714002300088?did=1195m"
     },
     {
-        "title": "충북 영동서 첫 코로나19 확진…충북 70번째(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5377653"
-    },
-    {
         "title": "WHO \"코로나19 기원 조사차 중국 파견된 전문가들, 격리 중\"(종합)",
         "link": "http://yna.kr/AKR20200714002351088?did=1195m"
     },
@@ -25,8 +21,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007130943001&code=940100"
     },
     {
-        "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
-        "link": "http://yna.kr/AKR20200713071700530?did=1195m"
+        "title": "[속보] 전북 37, 38번째 확진자발생.. ‘부천 확진자 접촉’",
+        "link": "http://www.fnnews.com/news/202007140819548778"
+    },
+    {
+        "title": "미 보건당국 \"올 여름 말까지 코로나19 백신 생산 개시\"(종합)",
+        "link": "http://yna.kr/AKR20200714026251009?did=1195m"
     },
     {
         "title": "미국서 입국한 주한미군 11명 또 코로나 확진",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007131019001&code=940100"
     },
     {
-        "title": "[속보] 전북 37, 38번째 확진자발생..군산 거주(50대 60대) ‘부천 확진자 접...",
-        "link": "http://www.fnnews.com/news/202007140819548778"
+        "title": "정부 \"6월 이후 선원 교대 목적 입국자 중 확진자 다수 발생\"",
+        "link": "http://yna.kr/AKR20200713071700530?did=1195m"
     }
 ];
