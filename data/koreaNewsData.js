@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5376844"
     },
     {
-        "title": "[심층분석] '코로나19' 한국발 입국 제한 170개국...각국 조치 살펴보니",
-        "link": "http://www.newspim.com/news/view/20200713000996"
+        "title": "코로나19 확진자 60명대로 증가…해외유입 43명으로 급증",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4492617&ref=A"
     }
 ];
