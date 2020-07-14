@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/worklife/article/20200713-the-coronavirus-effect-on-pakistans-digital-divide"
     },
     {
-        "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
-        "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
+        "title": "Coronavirus live updates: California's two largest school districts to return online in the fall",
+        "link": "https://www.cnbc.com/2020/07/13/coronavirus-live-updates.html"
     },
     {
-        "title": "California shuts down again as coronavirus crisis expands",
-        "link": "https://timesofindia.indiatimes.com/world/us/california-shuts-down-again-as-coronavirus-crisis-expands/articleshow/76951662.cms"
+        "title": "Florida breaks U.S. record for new coronavirus cases in a single day",
+        "link": "https://www.youtube.com/watch?v=1r08xHsDW2U"
     },
     {
         "title": "Hong Kong virologist claiming coronavirus cover-up tells 'Bill Hemmer Reports': 'We don't have much time'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
+        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
+        "link": "https://www.bbc.com/news/world-53393037"
+    },
+    {
         "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
         "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     },
     {
         "title": "White House takes aim at Fauci as Trump touts their relationship",
         "link": "https://www.youtube.com/watch?v=3Y0Q0LhQ-NA"
-    },
-    {
-        "title": "Global coronavirus cases top 13 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     }
 ];
