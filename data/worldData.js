@@ -292,9 +292,9 @@ var marker = [
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "확진자수": 48187,
-        "사망자수": 1807,
-        "완치자수": 14843
+        "확진자수": 49250,
+        "사망자수": 1866,
+        "완치자수": 15294
     },
     {
         "Name": "Panama",
@@ -1156,9 +1156,9 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 758,
+        "확진자수": 759,
         "사망자수": 10,
-        "완치자수": 620
+        "완치자수": 628
     },
     {
         "Name": "Sao Tome and Principe",

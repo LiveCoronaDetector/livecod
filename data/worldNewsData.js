@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
+        "title": "White House takes aim at Fauci as Trump touts their relationship",
+        "link": "https://www.youtube.com/watch?v=3Y0Q0LhQ-NA"
+    },
+    {
         "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
         "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     },
     {
         "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
         "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
-    },
-    {
-        "title": "As Virus Surges, WH Seeks To Discredit Dr. Fauci | Morning Joe | MSNBC",
-        "link": "https://www.youtube.com/watch?v=rE1GWerPSkA"
     }
 ];
