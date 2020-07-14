@@ -5,12 +5,24 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007141016236112"
     },
     {
-        "title": "WHO \"12일 코로나19 신규 확진자 절반, 두 나라서 발생\"",
-        "link": "http://yna.kr/AKR20200714002300088?did=1195m"
-    },
-    {
         "title": "WHO \"코로나19 기원 조사차 중 파견 전문가, 절차따라 격리중\"(종합)",
         "link": "http://yna.kr/AKR20200714002351088?did=1195m"
+    },
+    {
+        "title": "[속보] 대구시 \"11일째 지역발생 확진자 0명\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020071410461520186"
+    },
+    {
+        "title": "영동 1번 코로나19 확진자 밀접접촉 9명 '음성' 판정(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200714_0001094293&cID=10806&pID=10800"
+    },
+    {
+        "title": "전북 방문판매업 여성 2명 코로나19 확진…부천 확진자와 접촉(종합)",
+        "link": "http://yna.kr/AKR20200714039851055?did=1195m"
+    },
+    {
+        "title": "코로나 확진 33명…해외유입 19명·지역발생 14명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/14/2020071401207.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[속보]코로나19 신규 확진 33명···해외 유입 19명",
@@ -21,23 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953557.html"
     },
     {
-        "title": "코로나 확진 33명…해외유입 19명·지역발생 14명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/14/2020071401207.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "WHO \"코로나19 신규 확진자 23만명\"…일일 기준 최다",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5840208_32640.html"
     },
     {
-        "title": "[속보] 대구시 \"11일째 지역발생 확진자 0명\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020071410461520186"
-    },
-    {
-        "title": "신규 확진자 33명…지역발생 14명·해외유입 19명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4493564&ref=A"
-    },
-    {
-        "title": "영동 1번 코로나19 확진자 밀접접촉 9명 '음성' 판정(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200714_0001094293&cID=10806&pID=10800"
-    },
-    {
-        "title": "(종합) 전북 코로나19 확진자 2명 발생 … 부천 방문판매發",
-        "link": "http://www.jjan.kr/news/articleView.html?idxno=2087206"
+        "title": "[속보] '코로나19' 33명 늘어 1만3,512명…지역 14명·해외유입 19명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007140139&t=NN"
     }
 ];
