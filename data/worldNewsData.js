@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/14/politics/donald-trump-states-economy-coronavirus/index.html"
     },
     {
-        "title": "Israeli Data Show School Openings Were a Disaster That Wiped Out Lockdown Gains",
-        "link": "https://www.thedailybeast.com/israeli-data-show-school-openings-were-a-disaster-that-wiped-out-lockdown-gains"
+        "title": "Israel took strong early steps against Covid-19, but now the virus is resurging and some say the country reopened too soon",
+        "link": "https://www.cnbc.com/2020/07/14/israel-fights-coronavirus-early-progress-stalled-by-early-reopening.html"
     },
     {
         "title": "First known recorded case of baby contracting COVID-19 in womb - Business Insider",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     },
     {
+        "title": "Coronavirus Live: Updates From Around the Globe",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-updates.html"
+    },
+    {
         "title": "Miami is now the coronavirus epicenter as cases surge, expert says",
         "link": "https://www.cnn.com/2020/07/14/health/us-coronavirus-tuesday/index.html"
     },
     {
         "title": "Africa's coronavirus caseload climbs past 600,000: Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
-    },
-    {
-        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
-        "link": "https://www.bbc.com/news/world-53393037"
     }
 ];
