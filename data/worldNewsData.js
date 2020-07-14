@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/israeli-data-show-school-openings-were-a-disaster-that-wiped-out-lockdown-gains"
     },
     {
-        "title": "Florida records more new COVID-19 cases than all of Europe combined",
-        "link": "https://www.wfla.com/community/health/coronavirus/florida-records-more-new-covid-19-cases-than-all-of-europe-combined/"
+        "title": "Mexico surpasses Italy to post world's fourth-highest coronavirus death toll",
+        "link": "https://www.nbcnews.com/news/latino/mexico-surpasses-italy-post-world-s-fourth-highest-coronavirus-death-n1233627"
     },
     {
         "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
     },
     {
-        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
-        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
-    },
-    {
         "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
         "link": "https://www.bbc.com/news/world-53393037"
+    },
+    {
+        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
+        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     }
 ];

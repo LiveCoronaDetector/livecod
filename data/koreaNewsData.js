@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200714069400002?did=1195m"
     },
     {
+        "title": "방역당국 \"코로나19 백신 내년 말 대량생산 목표\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005883009&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[심층분석] '코로나19' 한국발 입국 제한 170개국...각국 조치 살펴보니",
         "link": "http://www.newspim.com/news/view/20200713000996"
-    },
-    {
-        "title": "영동 1번 코로나19 확진자 밀접접촉 9명 '음성' 판정(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200714_0001094293&cID=10806&pID=10800"
     }
 ];
