@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953557.html"
     },
     {
-        "title": "대전서 해외입국 부부 등 3명 더 감염…기존 확진자 접촉자도(종합2보)",
-        "link": "http://yna.kr/AKR20200714102652063?did=1195m"
+        "title": "코로나19 확진자 60명대로 증가…해외유입 43명으로 급증",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4492617&ref=A"
     }
 ];
