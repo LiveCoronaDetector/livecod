@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=rsglBkBLPKI"
     },
     {
-        "title": "Coronavirus: Blogger Emna Charqui given jail term over Koran-style post",
-        "link": "https://www.bbc.com/news/world-africa-53408262"
+        "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
+        "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     }
 ];
