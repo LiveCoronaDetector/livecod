@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/13/2020071301224.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "광주 코로나19 확진자 1명 늘어, T월드 대리점 관련",
-        "link": "http://www.gjdream.com/news/articleView.html?idxno=601100"
-    },
-    {
         "title": "(주)제이케이컴퍼니, 고향 제주에 코로나-19 예방 마스크 기탁  ",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422225"
+    },
+    {
+        "title": "광주 코로나19 확진자 1명 늘어, T월드 대리점 관련",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=601100"
     },
     {
         "title": "코로나19로 닫힌 제주-중국 하늘길…진에어, 이달 중 재개",
