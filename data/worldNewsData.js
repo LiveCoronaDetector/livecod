@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-middle-east-53378442"
     },
     {
-        "title": "Germany's sex workers demand to go back to work as coronavirus ban continues",
-        "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
+        "title": "German study finds low Covid-19 infection rate in schools",
+        "link": "https://www.theguardian.com/world/2020/jul/13/german-study-covid-19-infection-rate-schools-saxony"
     },
     {
         "title": "COVID-19 cases soar in US, grow in India, South Africa and Brazil",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
-        "title": "Coronavirus Live Updates: Trump Aides Target Fauci",
-        "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
-    },
-    {
         "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
         "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     },
     {
         "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
         "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
+    },
+    {
+        "title": "Coronavirus: White House targets US disease chief Dr Anthony Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53392817"
     }
 ];
