@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5841651_32633.html"
     },
     {
-        "title": "부천 확진자 군산 방문 5시간 마스크 미착용",
-        "link": "http://www.fnnews.com/news/202007141200064657"
-    },
-    {
         "title": "코로나 확산한 2∼5월 카드이용 2%↓…역대 네 번째 감소",
         "link": "http://yna.kr/AKR20200714069400002?did=1195m"
     },
     {
         "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
+    },
+    {
+        "title": "부천 확진자 군산 방문 5시간 마스크 미착용",
+        "link": "http://www.fnnews.com/news/202007141200064657"
     },
     {
         "title": "신규 확진자 33명…지역발생 14명·해외유입 19명",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.newspim.com/news/view/20200713000996"
     },
     {
-        "title": "[속보] 대구시 \"11일째 지역발생 확진자 0명\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020071410461520186"
+        "title": "\"신규 확진자 절반이 미국·브라질\"...볼리비아 장·차관 10여 명 감염",
+        "link": "https://www.ytn.co.kr/_ln/0104_202007141300063937"
     },
     {
         "title": "[종합] 코로나19 확진자 33명 증가...해외 19명, 서울 7명, 경기 4명",
         "link": "http://www.fnnews.com/news/202007141016236112"
     },
     {
-        "title": "전 세계 코로나19 확진자 23만명, 최다 기록 경신",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007130943001&code=940100"
+        "title": "[속보]코로나19 신규 확진 33명···해외 유입 19명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007141028001&code=940100"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/13/890406907/south-africa-introduces-alcohol-ban-and-curfew-as-coronavirus-surges"
     },
     {
-        "title": "Coronavirus: White House targets US disease chief Dr Anthony Fauci",
-        "link": "https://www.bbc.com/news/world-us-canada-53392817"
+        "title": "Live updates: California backtracks on reopening as rise in coronavirus cases spreads beyond Sun Belt",
+        "link": "https://www.washingtonpost.com/nation/2020/07/14/coronavirus-live-updates-us/"
     },
     {
         "title": "The coronavirus effect on Pakistan's digital divide",
@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/13/germanys-sex-workers-protest-to-go-back-to-work-amid-coronavirus-ban.html"
     },
     {
-        "title": "Florida breaks U.S. record for new coronavirus cases in a single day",
-        "link": "https://www.youtube.com/watch?v=1r08xHsDW2U"
+        "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
+        "link": "https://www.cnn.com/2020/07/14/asia/india-coronavirus-cases-rise-intl-hnk/index.html"
     },
     {
         "title": "Hong Kong virologist claiming coronavirus cover-up tells 'Bill Hemmer Reports': 'We don't have much time'",
         "link": "https://www.foxnews.com/media/li-meng-yan-virologist-china-coronavirus-coverup"
     },
     {
-        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
-        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
-    },
-    {
         "title": "Live Coronavirus News Updates",
         "link": "https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
+        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
         "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
