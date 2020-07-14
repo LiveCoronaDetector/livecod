@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/israeli-data-show-school-openings-were-a-disaster-that-wiped-out-lockdown-gains"
     },
     {
-        "title": "Mexico surpasses Italy to post world's fourth-highest coronavirus death toll",
-        "link": "https://www.nbcnews.com/news/latino/mexico-surpasses-italy-post-world-s-fourth-highest-coronavirus-death-n1233627"
+        "title": "First known recorded case of baby contracting COVID-19 in womb - Business Insider",
+        "link": "https://www.businessinsider.com/unborn-baby-contracting-coronavirus-mother-womb-france-2020-7"
     },
     {
         "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     },
     {
-        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
-        "link": "https://www.bbc.com/news/world-us-canada-53357742"
+        "title": "Miami is now the coronavirus epicenter as cases surge, expert says",
+        "link": "https://www.cnn.com/2020/07/14/health/us-coronavirus-tuesday/index.html"
     },
     {
         "title": "Africa's coronavirus caseload climbs past 600,000: Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
-        "title": "Coronavirus: California reimposes sweeping restrictions amid virus spike",
-        "link": "https://www.bbc.com/news/world-us-canada-53399080"
+        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
+        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     }
 ];
