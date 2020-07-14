@@ -13,6 +13,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200714002351088?did=1195m"
     },
     {
+        "title": "[속보]코로나19 신규 확진 33명···해외 유입 19명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007141028001&code=940100"
+    },
+    {
+        "title": "코로나19 신규 확진 33명…국내 14명, 국외 19명",
+        "link": "http://www.hani.co.kr/arti/society/health/953557.html"
+    },
+    {
         "title": "코로나 확진 33명…해외유입 19명·지역발생 14명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/14/2020071401207.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -21,23 +29,15 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020071410461520186"
     },
     {
+        "title": "신규 확진자 33명…지역발생 14명·해외유입 19명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4493564&ref=A"
+    },
+    {
         "title": "영동 1번 코로나19 확진자 밀접접촉 9명 '음성' 판정(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200714_0001094293&cID=10806&pID=10800"
     },
     {
         "title": "(종합) 전북 코로나19 확진자 2명 발생 … 부천 방문판매發",
         "link": "http://www.jjan.kr/news/articleView.html?idxno=2087206"
-    },
-    {
-        "title": "대구·경북 코로나19 신규 확진자 없어…경북은 8일째 ‘0명’(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007140095"
-    },
-    {
-        "title": "전북 방문판매업 여성 2명 코로나19 확진…부천 확진자와 접촉(종합)",
-        "link": "http://yna.kr/AKR20200714039851055?did=1195m"
-    },
-    {
-        "title": "코로나19 확진자 60명대로 증가…해외유입 43명으로 급증",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4492617&ref=A"
     }
 ];

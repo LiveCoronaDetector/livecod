@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
-        "title": "July 13 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-13-20-intl/index.html"
-    },
-    {
         "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
         "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
     },
     {
-        "title": "White House takes aim at Fauci as Trump touts their relationship",
-        "link": "https://www.youtube.com/watch?v=3Y0Q0LhQ-NA"
+        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
+        "link": "https://www.bbc.com/news/world-53393037"
+    },
+    {
+        "title": "Global coronavirus cases top 13 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     }
 ];
