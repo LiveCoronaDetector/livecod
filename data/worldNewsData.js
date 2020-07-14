@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53357742"
     },
     {
-        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
-        "link": "https://www.bbc.com/news/world-53393037"
+        "title": "Africa's coronavirus caseload climbs past 600,000: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
-        "title": "WHO sounds alarm as coronavirus cases rise by one million in five days",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global/who-sounds-alarm-as-coronavirus-cases-rise-by-one-million-in-five-days-idUSKCN24E1US"
+        "title": "Coronavirus: California reimposes sweeping restrictions amid virus spike",
+        "link": "https://www.bbc.com/news/world-us-canada-53399080"
     }
 ];
