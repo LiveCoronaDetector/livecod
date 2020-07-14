@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
     },
     {
-        "title": "부산 감천항 국외 선박서 코로나 확진자 1명 나와",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014800082&code=61121211&cp=nv"
+        "title": "부산 감천항 또 '비상'... 원양어선서 확진자 1명",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002658206&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "[속보]코로나19 신규 확진 33명···해외 유입 19명",

@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/unborn-baby-contracting-coronavirus-mother-womb-france-2020-7"
     },
     {
-        "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
-        "link": "https://www.cnn.com/2020/07/14/asia/india-coronavirus-cases-rise-intl-hnk/index.html"
+        "title": "Coronavirus update: Global cases of COVID-19 climb above 13 million as California, Hong Kong and India reimpose restrictions on movement",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-climb-above-13-million-as-california-hong-kong-and-india-reimpose-restrictions-on-movement-2020-07-14"
     },
     {
         "title": "Hong Kong virologist claiming coronavirus cover-up tells 'Bill Hemmer Reports': 'We don't have much time'",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
-        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
-        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
+        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
+        "link": "https://www.bbc.com/news/world-53393037"
     }
 ];
