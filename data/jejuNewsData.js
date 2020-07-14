@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.namdonews.com/news/articleView.html?idxno=577555"
     },
     {
-        "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
-    },
-    {
         "title": "제주도 20번째 코로나19 확진자 발생…카자흐스탄서 입국",
         "link": "http://yna.kr/AKR20200704044300056?did=1195m"
+    },
+    {
+        "title": "제주도, 안산시 코로나19 확진자에 1억 3천 손배 청구",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347136"
     }
 ];
