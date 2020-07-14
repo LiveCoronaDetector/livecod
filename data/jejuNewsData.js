@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.honam.co.kr/detail/c3QycN/608394"
     },
     {
-        "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
+        "title": "[LTE]코로나 지역감염 추가발생..검사 대기 7천여 건",
+        "link": "http://ikbc.co.kr/kor/news?mode=view&nwCd=main_news_04&menuId=56_65_75&nwid=360301"
     }
 ];

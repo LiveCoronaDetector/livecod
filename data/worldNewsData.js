@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
-        "title": "Dozens of world’s richest people demand higer taxes to pay for coronavirus economic recovery",
-        "link": "https://www.foxnews.com/world/worlds-richest-demand-higher-taxes-coronavirus-economy"
+        "title": "Trump's New Coronavirus Plan: Threaten America's Schools, Trash Dr. Fauci In The Press",
+        "link": "https://www.youtube.com/watch?v=MO-NFvb-qzY"
     }
 ];
