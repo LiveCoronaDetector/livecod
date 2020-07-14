@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/speier-trump-china-discipline"
     },
     {
-        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
-        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
         "title": "Coronavirus cases soar by more than 1 million over 5 days",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     },
     {
-        "title": "Tunisia woman gets 6 months in jail for COVID-Koran post",
-        "link": "https://www.rfi.fr/en/wires/20200714-tunisia-woman-gets-6-months-jail-covid-koran-post"
+        "title": "Curbs are back as coronavirus infections spike",
+        "link": "https://www.youtube.com/watch?v=rsglBkBLPKI"
     }
 ];
