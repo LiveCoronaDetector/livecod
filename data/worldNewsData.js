@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/unborn-baby-contracting-coronavirus-mother-womb-france-2020-7"
     },
     {
-        "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
-        "link": "https://www.cnn.com/2020/07/14/asia/india-coronavirus-cases-rise-intl-hnk/index.html"
+        "title": "Coronavirus update: Global cases of COVID-19 climb above 13 million as California, Hong Kong and India reimpose restrictions on movement",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-climb-above-13-million-as-california-hong-kong-and-india-reimpose-restrictions-on-movement-2020-07-14"
     },
     {
         "title": "Hong Kong virologist claiming coronavirus cover-up tells 'Bill Hemmer Reports': 'We don't have much time'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     },
     {
-        "title": "Heckler shames Florida governor during Covid-19 press conference",
-        "link": "https://www.youtube.com/watch?v=-n6ZN-UeRL8"
+        "title": "Coronavirus Live: Updates From Around the Globe",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus Outbreak: Live Updates and News for Jul. 14, 2020",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0e40a710-c5fc-11ea-9de4-417e8ff76b66&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xMy93aG8tc2F5cy1wYW5kZW1pYy10by1saW5nZXItY2FzZXMtcGFzcy0xMy1taWxsaW9uLXZpcnVzLXVwZGF0ZQ=="
+        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
+        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
-        "title": "WHO sounds alarm as coronavirus cases rise by one million in five days",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global/who-sounds-alarm-as-coronavirus-cases-rise-by-one-million-in-five-days-idUSKCN24E1US"
+        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
+        "link": "https://www.bbc.com/news/world-53393037"
     }
 ];
