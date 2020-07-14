@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
-        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
-        "link": "https://www.bbc.com/news/world-us-canada-53357742"
+        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
+        "link": "https://www.cbsnews.com/news/coronavirus-crisis-may-get-worse-and-worse-world-health-organization-chief-warns/"
     }
 ];

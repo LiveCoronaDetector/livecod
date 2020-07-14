@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953557.html"
     },
     {
-        "title": "코로나19 신규확진 33명…해외유입·지역감염 지속",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5841651_32633.html"
-    },
-    {
         "title": "부천 확진자 군산 방문 5시간 마스크 미착용",
         "link": "http://www.fnnews.com/news/202007141200064657"
     },
     {
         "title": "코로나 확산한 2∼5월 카드이용 2%↓…역대 네 번째 감소",
         "link": "http://yna.kr/AKR20200714069400002?did=1195m"
+    },
+    {
+        "title": "코로나19 신규확진 33명…해외유입·지역감염 지속",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5841651_32633.html"
     },
     {
         "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5376844"
     },
     {
-        "title": "코로나19 확진자 60명대로 증가…해외유입 43명으로 급증",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4492617&ref=A"
+        "title": "[심층분석] '코로나19' 한국발 입국 제한 170개국...각국 조치 살펴보니",
+        "link": "http://www.newspim.com/news/view/20200713000996"
     }
 ];
