@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/worklife/article/20200713-the-coronavirus-effect-on-pakistans-digital-divide"
     },
     {
-        "title": "California's two largest school districts to return online in the fall",
-        "link": "https://www.cnbc.com/2020/07/13/coronavirus-live-updates.html"
+        "title": "Florida records more new COVID-19 cases than all of Europe combined",
+        "link": "https://www.wfla.com/community/health/coronavirus/florida-records-more-new-covid-19-cases-than-all-of-europe-combined/"
     },
     {
         "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/li-meng-yan-virologist-china-coronavirus-coverup"
     },
     {
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-updates.html"
+    },
+    {
         "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
         "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     },
     {
-        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
-        "link": "https://www.bbc.com/news/world-53393037"
+        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     },
     {
-        "title": "Hong Kong braces for toughest ever coronavirus curbs: Live",
-        "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
-    },
-    {
-        "title": "Trump's New Coronavirus Plan: Threaten America's Schools, Trash Dr. Fauci In The Press",
-        "link": "https://www.youtube.com/watch?v=MO-NFvb-qzY"
+        "title": "Coronavirus cases soar by more than 1 million over 5 days",
+        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
     }
 ];
