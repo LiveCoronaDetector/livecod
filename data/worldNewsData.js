@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/global-coronavirus-cases-top-13-million-live-updates-200713235726804.html"
     },
     {
-        "title": "A Shutdown May Be Needed to Stop the Coronavirus",
-        "link": "https://www.nytimes.com/2020/07/14/opinion/coronavirus-shutdown.html"
+        "title": "Brazil's President Bolsonaro bitten by ostrich-like bird during coronavirus quarantine: local media",
+        "link": "https://www.foxnews.com/world/brazil-bolsonaro-bitten-bird-emu-ostrich-coronavirus-quarantine"
     },
     {
         "title": "Israel took strong early steps against Covid-19, but now the virus is resurging and some say the country reopened too soon",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/unborn-baby-contracting-coronavirus-mother-womb-france-2020-7"
     },
     {
-        "title": "Coronavirus update: Global cases of COVID-19 climb above 13 million as California, Hong Kong and India reimpose restrictions on movement",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-climb-above-13-million-as-california-hong-kong-and-india-reimpose-restrictions-on-movement-2020-07-14"
+        "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
+        "link": "https://www.cnn.com/2020/07/14/asia/india-coronavirus-cases-rise-intl-hnk/index.html"
     },
     {
         "title": "House Dem praises China's 'discipline' on coronavirus, says Trump brings US into 'parallel universe'",
