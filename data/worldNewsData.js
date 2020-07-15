@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
-        "title": "House Dem praises China's 'discipline' on coronavirus, says Trump brings US into 'parallel universe'",
-        "link": "https://www.foxnews.com/media/speier-trump-china-discipline"
+        "title": "Japan \"extremely concerned\" as 136 COVID cases reported on U.S. bases",
+        "link": "https://www.cbsnews.com/news/japan-okinawa-covid-extremely-concerned-growing-coronavirus-outbreak-on-us-military-bases/"
     },
     {
         "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
-        "title": "Coronavirus Success Story: How Rwanda Is Curbing COVID-19 : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/15/889802561/a-covid-19-success-story-in-rwanda-free-testing-robot-caregivers"
+        "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
+        "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     }
 ];
