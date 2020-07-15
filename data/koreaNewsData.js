@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
+        "title": "한화생명 관련 확진자 5명으로 늘어…추가 감염 가능성",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000989765?division=NAVER"
+    },
+    {
         "title": "[단독] '마주앉지 않겠다'는 北…코로나 지원은 받았다",
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5843555_32524.html"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "‘코로나19’ 신규 확진 39명…해외 유입 28명·국내 발생 11명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4494530&ref=A"
-    },
-    {
-        "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
-        "link": "http://www.fnnews.com/news/202007151133366873"
     }
 ];
