@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007151349122952"
     },
     {
-        "title": "[단독] '마주앉지 않겠다'는 北…코로나 지원은 받았다",
-        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5843555_32524.html"
-    },
-    {
         "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
         "link": "http://www.fnnews.com/news/202007151133366873"
+    },
+    {
+        "title": "[단독] '마주앉지 않겠다'는 北…코로나 지원은 받았다",
+        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5843555_32524.html"
     },
     {
         "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
