@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/15/coronavirus-live-news-update-covid-19-cases-latest-updates-india-lockdown"
     },
     {
-        "title": "House Dem praises China's 'discipline' on coronavirus, says Trump brings US into 'parallel universe'",
-        "link": "https://www.foxnews.com/media/speier-trump-china-discipline"
+        "title": "China has just contained the coronavirus. Now it's battling some of the worst floods in decades",
+        "link": "https://www.cnn.com/2020/07/14/asia/china-flood-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53408262"
     },
     {
-        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
-        "link": "https://www.bbc.com/news/world-us-canada-53357742"
+        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
+        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     }
 ];
