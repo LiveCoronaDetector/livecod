@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Ex-Broward sheriff and current candidate Scott Israel hospitalized with COVID-19 - South Florida Sun Sentinel",
-        "link": "https://www.sun-sentinel.com/news/politics/fl-ne-scott-israel-covid-hospitalization-20200715-l554qwxzevh45lqjpnbe6qwdmi-story.html"
+        "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
+        "link": "https://www.cnn.com/2020/07/15/world/protests-israel-serbia-bulgaria-coronavirus-intl/index.html"
     },
     {
         "title": "As rowdy tourists flout coronavirus laws, residents in some Spanish resorts fear new surge in cases",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/15/889802561/a-covid-19-success-story-in-rwanda-free-testing-robot-caregivers"
     },
     {
-        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
-        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
+        "title": "Pompeo expects 'completely whitewashed' WHO China investigation",
+        "link": "https://news.yahoo.com/pompeo-expects-completely-whitewashed-china-160129104.html"
     },
     {
         "title": "'Things have not gone according to plan': America's coronavirus reopening falls apart",
