@@ -17,14 +17,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007151018001&code=940601"
     },
     {
-        "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
-        "link": "https://view.asiae.co.kr/article/2020071509161027461"
-    },
-    {
-        "title": "청주 코로나19 확진자 발생…이라크 입국 40대",
-        "link": "https://www.news1.kr/articles/?3996096"
-    },
-    {
         "title": "코로나19로 119구조·구급출동 늘었다",
         "link": "http://www.fnnews.com/news/202007151349122952"
     },
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007151133366873"
     },
     {
+        "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
+        "link": "https://view.asiae.co.kr/article/2020071509161027461"
+    },
+    {
         "title": "\"테슬라 프리몬트공장서 130여명 코로나 확진\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071500667.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 완치자 혈장 'SOS'…대구·경북이 응답했다",
+        "link": "http://yna.kr/AKR20200714164000017?did=1195m"
     }
 ];
