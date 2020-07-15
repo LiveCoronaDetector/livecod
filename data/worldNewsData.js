@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
-        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
-    },
-    {
         "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
         "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
+    },
+    {
+        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
+        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     },
     {
         "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
