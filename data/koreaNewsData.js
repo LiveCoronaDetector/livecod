@@ -9,12 +9,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
-        "title": "일본 오키나와 미군기지 코로나 확산…누적확진자 136명",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5843257_32640.html"
-    },
-    {
-        "title": "청주 코로나19 확진자 발생…이라크 입국 40대",
-        "link": "https://www.news1.kr/articles/?3996096"
+        "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
+        "link": "http://www.fnnews.com/news/202007151133366873"
     },
     {
         "title": "방문판매 모이고, 확진자 잠적…코로나19 경각심 어디갔나(종합)",
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4494530&ref=A"
     },
     {
-        "title": "[현장영상] 정세균 총리 \"세계 코로나19 확진자 최고치 경신\"",
-        "link": "https://www.ytn.co.kr/_ln/0101_202007150901097187"
+        "title": "광주소방본부 상반기 코로나 환자 2126명 이송",
+        "link": "https://www.news1.kr/articles/?3996714"
     },
     {
-        "title": "20일부터 코로나19 방역강화 대상 국가 2개국 추가",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007151317001&code=940100"
+        "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
+        "link": "https://view.asiae.co.kr/article/2020071509161027461"
     },
     {
-        "title": "광주 상반기 코로나19 구조·구급출동 많아",
-        "link": "https://www.nocutnews.co.kr/news/5378800"
+        "title": "한 자릿수로 떨어진 수도권 확진자…\"이번 주말 방역조치 완화 논의\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02673206625834848"
     },
     {
-        "title": "'혼잡 빨간불' 뜬 해수욕장 못 간다…확진자 발생땐 폐쇄 검토(종합)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020071511303885478"
+        "title": "\"테슬라 프리몬트공장서 130여명 코로나 확진\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071500667.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보]코로나 신규 환자 39명 늘어…해외 유입만 28명",
+        "link": "https://news.joins.com/article/olink/23419643"
     }
 ];

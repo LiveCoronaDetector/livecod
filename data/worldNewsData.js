@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     },
     {
-        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
-        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
+        "title": "Coronavirus: Blogger Emna Charqui given jail term over Koran-style post",
+        "link": "https://www.bbc.com/news/world-africa-53408262"
     }
 ];
