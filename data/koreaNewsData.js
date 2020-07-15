@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071500667.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나 신규 환자 39명 늘어…해외 유입만 28명",
-        "link": "https://news.joins.com/article/olink/23419643"
+        "title": "코로나19 완치자 혈장 'SOS'…대구·경북이 응답했다",
+        "link": "http://yna.kr/AKR20200714164000017?did=1195m"
     }
 ];

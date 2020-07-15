@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.gjdream.com/news/articleView.html?idxno=601100"
     },
     {
-        "title": "< What >‘S’ ‘L’ 유형만 존재하던 코로나, 6가지 그룹으로 변이",
-        "link": "http://www.munhwa.com/news/view.html?no=2020071501031709040001"
+        "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     }
 ];
