@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
-        "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
-        "link": "http://www.fnnews.com/news/202007151133366873"
-    },
-    {
         "title": "방문판매 모이고, 확진자 잠적…코로나19 경각심 어디갔나(종합)",
         "link": "http://yna.kr/AKR20200715087151054?did=1195m"
     },
@@ -25,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3996714"
     },
     {
+        "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
+        "link": "http://www.fnnews.com/news/202007151133366873"
+    },
+    {
         "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
         "link": "https://view.asiae.co.kr/article/2020071509161027461"
     },
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23419662"
     },
     {
-        "title": "한 자릿수로 떨어진 수도권 확진자…\"이번 주말 방역조치 완화 논의\"(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02673206625834848"
-    },
-    {
         "title": "\"테슬라 프리몬트공장서 130여명 코로나 확진\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071500667.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "한 자릿수로 떨어진 수도권 확진자…\"이번 주말 방역조치 완화 논의\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02673206625834848"
     }
 ];

@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/germany-considers-local-coronavirus-quarantines-second-wave-virus"
     },
     {
-        "title": "Coronavirus live news: 160,000 Catalans back into lockdown; Florida records new daily death toll high",
-        "link": "https://www.theguardian.com/world/live/2020/jul/15/coronavirus-live-news-update-covid-19-cases-latest-updates-india-lockdown"
+        "title": "India could see a current account surplus again. But it's for 'all the wrong reasons'",
+        "link": "https://www.cnbc.com/2020/07/15/india-current-account-could-be-in-surplus-as-coronavirus-hurts-exports.html"
     },
     {
         "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
     },
     {
-        "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
-        "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
-    },
-    {
         "title": "Coronavirus: Blogger Emna Charqui given jail term over Koran-style post",
         "link": "https://www.bbc.com/news/world-africa-53408262"
+    },
+    {
+        "title": "Live updates: Coronavirus caseloads soar outside hot spots as states report record fatalities",
+        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
     }
 ];
