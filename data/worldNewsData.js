@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "Lockdowns return in Catalonia as coronavirus cases surge: Live",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-vaccine-poised-final-testing-live-updates-200714232458235.html"
+        "title": "India sees lockdowns reimposed as coronavirus surge nears 1 million cases",
+        "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
         "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
         "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
     },
     {
-        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
-        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
+        "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
+        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
         "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     },
     {
-        "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
-        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
+        "title": "What you need to know about coronavirus on Wednesday, July 15",
+        "link": "https://www.cnn.com/2020/07/15/world/coronavirus-newsletter-07-15-20-intl/index.html"
     },
     {
-        "title": "Live updates: Coronavirus caseloads soar outside hot spots as states report record fatalities",
-        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
+        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     }
 ];
