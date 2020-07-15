@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
-        "title": "청주 코로나19 확진자 발생…이라크 입국 40대",
-        "link": "https://www.news1.kr/articles/?3996096"
-    },
-    {
-        "title": "방문판매 모이고, 확진자 잠적…코로나19 경각심 어디갔나(종합)",
-        "link": "http://yna.kr/AKR20200715087151054?did=1195m"
-    },
-    {
         "title": "[단독] '마주앉지 않겠다'는 北…코로나 지원은 받았다",
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5843555_32524.html"
     },
@@ -25,8 +17,16 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071509161027461"
     },
     {
+        "title": "청주 코로나19 확진자 발생…이라크 입국 40대",
+        "link": "https://www.news1.kr/articles/?3996096"
+    },
+    {
         "title": "[단독]\"혈장공여 하고싶다\" 31번 대구 신천지 확진자의 전화",
         "link": "https://news.joins.com/article/olink/23419662"
+    },
+    {
+        "title": "방문판매 모이고, 확진자 잠적…코로나19 경각심 어디갔나(종합)",
+        "link": "http://yna.kr/AKR20200715087151054?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 39명···해외 유입 28명",

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "Los Angeles County has more cases of coronavirus than entire country of Canada, mayor says",
-        "link": "https://www.cbsnews.com/news/coronavirus-los-angeles-county-california-cases-entire-country-canada/"
+        "title": "U.S. reports record 67,400 single-day spike of new coronavirus cases",
+        "link": "https://www.cnbc.com/2020/07/15/us-reports-record-67400-single-day-spike-of-new-coronavirus-cases.html"
     },
     {
         "title": "Israelis Fear Schools Reopened Too Soon as Covid-19 Cases Climb",
