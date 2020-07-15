@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "Live updates: Coronavirus caseloads soar outside of hot spots as states report record numbers of fatalities",
-        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
+        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
         "title": "Israelis Fear Schools Reopened Too Soon as Covid-19 Cases Climb",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/germany-considers-local-coronavirus-quarantines-second-wave-virus"
     },
     {
-        "title": "India could see a current account surplus again. But it's for 'all the wrong reasons'",
-        "link": "https://www.cnbc.com/2020/07/15/india-current-account-could-be-in-surplus-as-coronavirus-hurts-exports.html"
+        "title": "Coronavirus live news: 160,000 Catalans back into lockdown; Florida records new daily death toll high",
+        "link": "https://www.theguardian.com/world/live/2020/jul/15/coronavirus-live-news-update-covid-19-cases-latest-updates-india-lockdown"
     },
     {
         "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
