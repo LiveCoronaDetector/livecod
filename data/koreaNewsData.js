@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4494530&ref=A"
     },
     {
+        "title": "광주소방본부 상반기 코로나 환자 2126명 이송",
+        "link": "https://www.news1.kr/articles/?3996714"
+    },
+    {
         "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
         "link": "https://view.asiae.co.kr/article/2020071509161027461"
+    },
+    {
+        "title": "[단독]\"혈장공여 하고싶다\" 31번 대구 신천지 확진자의 전화",
+        "link": "https://news.joins.com/article/olink/23419662"
     },
     {
         "title": "한 자릿수로 떨어진 수도권 확진자…\"이번 주말 방역조치 완화 논의\"(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02673206625834848"
     },
     {
-        "title": "이용섭 시장, 광주 코로나 기자회견…확진자·자가격리자 생활비 지원(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=577911"
-    },
-    {
         "title": "\"테슬라 프리몬트공장서 130여명 코로나 확진\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071500667.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "'혼잡 빨간불' 뜬 해수욕장 못 간다…확진자 발생땐 폐쇄 검토(종합)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020071511303885478"
     }
 ];
