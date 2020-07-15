@@ -17,6 +17,18 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5843555_32524.html"
     },
     {
+        "title": "코로나19로 119구조·구급출동 늘었다",
+        "link": "http://www.fnnews.com/news/202007151349122952"
+    },
+    {
+        "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
+        "link": "https://view.asiae.co.kr/article/2020071509161027461"
+    },
+    {
+        "title": "[단독]\"혈장공여 하고싶다\" 31번 대구 신천지 확진자의 전화",
+        "link": "https://news.joins.com/article/olink/23419662"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 39명···해외 유입 28명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007151018001&code=940601"
     },
@@ -25,19 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4494530&ref=A"
     },
     {
-        "title": "코로나19로 119구조·구급출동 늘었다",
-        "link": "http://www.fnnews.com/news/202007151349122952"
-    },
-    {
         "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
         "link": "http://www.fnnews.com/news/202007151133366873"
-    },
-    {
-        "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
-        "link": "https://view.asiae.co.kr/article/2020071509161027461"
-    },
-    {
-        "title": "\"테슬라 프리몬트공장서 130여명 코로나 확진\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071500667.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
