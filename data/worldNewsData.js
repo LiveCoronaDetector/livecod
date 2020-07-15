@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/germany-considers-local-coronavirus-quarantines-second-wave-virus"
     },
     {
-        "title": "India could see a current account surplus again. But it's for 'all the wrong reasons'",
-        "link": "https://www.cnbc.com/2020/07/15/india-current-account-could-be-in-surplus-as-coronavirus-hurts-exports.html"
+        "title": "Coronavirus live news: India Covid-19 cases top 900,000 as 133m re-enter lockdown",
+        "link": "https://www.theguardian.com/world/live/2020/jul/15/coronavirus-live-news-update-covid-19-cases-latest-updates-india-lockdown"
     },
     {
-        "title": "House Dem praises China's 'discipline' on coronavirus, says Trump brings US into 'parallel universe'",
-        "link": "https://www.foxnews.com/media/speier-trump-china-discipline"
+        "title": "China has just contained the coronavirus. Now it's battling some of the worst floods in decades",
+        "link": "https://www.cnn.com/2020/07/14/asia/china-flood-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
         "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     },
     {
-        "title": "Coronavirus cases soar by more than 1 million over 5 days",
-        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
-    },
-    {
         "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
         "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     },
     {
-        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
-        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
+        "title": "Coronavirus cases soar by more than 1 million over 5 days",
+        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
+        "link": "https://www.bbc.com/news/world-53393037"
     }
 ];
