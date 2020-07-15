@@ -5,16 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007151013437476"
     },
     {
-        "title": "[속보]코로나 신규 환자 39명 늘어…해외 유입만 28명",
-        "link": "https://news.joins.com/article/olink/23419643"
+        "title": "[속보] 코로나 신규 확진자 39명...지역감염 사흘 연속 10명대",
+        "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
         "title": "‘코로나19’ 신규 확진 39명…해외 유입 28명·국내 발생 11명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4494530&ref=A"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 39명...지역감염 사흘 연속 10명대",
-        "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
         "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020071510315034963"
     },
     {
+        "title": "[단독]\"혈장공여 하고싶다\" 31번 대구 신천지 확진자의 전화",
+        "link": "https://news.joins.com/article/olink/23419662"
+    },
+    {
         "title": "코로나19 완치자 혈장 'SOS'…대구·경북이 응답했다",
         "link": "http://yna.kr/AKR20200714164000017?did=1195m"
     },
     {
-        "title": "대구 이틀연속 확진자 없어…경북 9일째 ‘0’(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007150087"
+        "title": "코로나19 신규확진 33명…해외유입·지역감염 지속",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5841651_32633.html"
     },
     {
-        "title": "[단독]\"혈장공여 하고싶다\" 31번 대구 신천지 확진자의 전화",
-        "link": "https://news.joins.com/article/olink/23419662"
+        "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
     }
 ];

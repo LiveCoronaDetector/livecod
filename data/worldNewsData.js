@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "Coronavirus News: Live Updates",
+        "title": "Florida Breaks Its Record for Most Covid Deaths in a Day: Live Updates",
         "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
