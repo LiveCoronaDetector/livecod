@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23419662"
     },
     {
-        "title": "이용섭 시장, 광주 코로나 기자회견…확진자·자가격리자 생활비 지원(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=577911"
+        "title": "\"테슬라 프리몬트공장서 130여명 코로나 확진\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071500667.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[현장영상] 정세균 총리 \"세계 코로나19 확진자 최고치 경신\"",
-        "link": "https://www.ytn.co.kr/_ln/0101_202007150901097187"
+        "title": "코로나19 완치자 혈장 'SOS'…대구·경북이 응답했다",
+        "link": "http://yna.kr/AKR20200714164000017?did=1195m"
     }
 ];
