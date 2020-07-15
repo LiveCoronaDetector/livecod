@@ -21,8 +21,16 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/15/india-current-account-could-be-in-surplus-as-coronavirus-hurts-exports.html"
     },
     {
-        "title": "China has just contained the coronavirus. Now it's battling some of the worst floods in decades",
-        "link": "https://www.cnn.com/2020/07/14/asia/china-flood-coronavirus-intl-hnk/index.html"
+        "title": "House Dem praises China's 'discipline' on coronavirus, says Trump brings US into 'parallel universe'",
+        "link": "https://www.foxnews.com/media/speier-trump-china-discipline"
+    },
+    {
+        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
+        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
+    },
+    {
+        "title": "Coronavirus cases soar by more than 1 million over 5 days",
+        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
     },
     {
         "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
@@ -31,13 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
-    },
-    {
-        "title": "Coronavirus cases soar by more than 1 million over 5 days",
-        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
-    },
-    {
-        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
-        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     }
 ];
