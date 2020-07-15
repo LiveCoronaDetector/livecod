@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
-        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
+        "title": "Coronavirus: US disease chief Dr Anthony Fauci calls White House attacks 'bizarre'",
+        "link": "https://www.bbc.com/news/world-us-canada-53423927"
     },
     {
         "title": "Israel, Serbia and Bulgaria coronavirus protests show rage against governments",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
-        "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
-        "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
+        "title": "Japan \"extremely concerned\" as 136 COVID cases reported on U.S. bases",
+        "link": "https://www.cbsnews.com/news/japan-okinawa-covid-extremely-concerned-growing-coronavirus-outbreak-on-us-military-bases/"
+    },
+    {
+        "title": "Live updates: ‘Let’s stop this nonsense,’ Fauci says of federal coronavirus response as he comes under fire",
+        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
+    },
+    {
+        "title": "Huawei: China attacks UK's 'groundless' ban of 5G kit",
+        "link": "https://www.bbc.com/news/technology-53412678"
     },
     {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
         "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     },
     {
-        "title": "Coronavirus Success Story: How Rwanda Is Curbing COVID-19 : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/15/889802561/a-covid-19-success-story-in-rwanda-free-testing-robot-caregivers"
-    },
-    {
-        "title": "State Sec. Mike Pompeo: Decision to ban TikTok and other Chinese apps could come 'shortly'",
-        "link": "https://www.youtube.com/watch?v=d_D8MiJQEdE"
-    },
-    {
-        "title": "'Things have not gone according to plan': America's coronavirus reopening falls apart",
-        "link": "https://www.theguardian.com/world/2020/jul/15/things-have-not-gone-according-to-plan-americas-coronavirus-reopening-falls-apart"
+        "title": "Fauci holds his ground against Navarro broadside",
+        "link": "https://www.cnn.com/2020/07/15/politics/donald-trump-peter-navarro-anthony-fauci/index.html"
     }
 ];

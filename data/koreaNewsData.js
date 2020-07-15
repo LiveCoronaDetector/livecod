@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007151349122952"
     },
     {
+        "title": "뉴욕증시, 코로나 백신 기대감·골드만삭스 실적효과 강세(종합)",
+        "link": "https://view.asiae.co.kr/article/2020071606433349124"
+    },
+    {
         "title": "‘코로나19’ 신규 확진 39명…해외 유입 28명·국내 발생 11명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4494530&ref=A"
     },
     {
-        "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
-        "link": "https://view.asiae.co.kr/article/2020071509161027461"
+        "title": "[현장영상] 정세균 총리 \"세계 코로나19 확진자 최고치 경신\"",
+        "link": "https://www.ytn.co.kr/_ln/0101_202007150901097187"
     },
     {
         "title": "청주 코로나19 확진자 발생…이라크 입국 40대",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "한화생명 관련 확진자 5명으로 늘어…추가 감염 가능성",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000989765?division=NAVER"
-    },
-    {
-        "title": "남아공 코로나19 확진자 수, 영국 앞질러…세계 9위(종합)",
-        "link": "http://yna.kr/AKR20200715160351099?did=1195m"
     }
 ];
