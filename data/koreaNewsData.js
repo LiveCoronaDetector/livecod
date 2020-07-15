@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
-        "title": "‘코로나19’ 신규 확진 39명…해외 유입 28명·국내 발생 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4494530&ref=A"
+        "title": "방문판매 모이고, 확진자 잠적…코로나19 경각심 어디갔나(종합)",
+        "link": "http://yna.kr/AKR20200715087151054?did=1195m"
     },
     {
-        "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
-        "link": "http://www.fnnews.com/news/202007151133366873"
+        "title": "‘코로나19’ 신규 확진 39명…해외 유입 28명·국내 발생 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4494530&ref=A"
     },
     {
         "title": "[속보]코로나 신규 환자 39명 늘어…해외 유입만 28명",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071509161027461"
     },
     {
-        "title": "코로나19 완치자 혈장 'SOS'…대구·경북이 응답했다",
-        "link": "http://yna.kr/AKR20200714164000017?did=1195m"
+        "title": "코로나 확진 39명…지역발생 11명으로 둔화(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071501329.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규확진 33명…해외유입·지역감염 지속",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5841651_32633.html"
+        "title": "이용섭 시장, 광주 코로나 기자회견…확진자·자가격리자 생활비 지원(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=577911"
     },
     {
-        "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
+        "title": "코로나19 신규 39명 중 28명 해외유입…20일째 두 자릿수",
+        "link": "http://www.dongascience.com/news/view/38198"
     },
     {
-        "title": "[속보]코로나19 신규 확진 33명···해외 유입 19명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007141028001&code=940100"
+        "title": "'혼잡 빨간불' 뜬 해수욕장 못 간다…확진자 발생땐 폐쇄 검토(종합)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020071511303885478"
     }
 ];
