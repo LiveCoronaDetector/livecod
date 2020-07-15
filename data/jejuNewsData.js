@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167705"
     },
     {
+        "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
+        "link": "https://www.pressian.com/pages/articles/2020071509430311747?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "극단적 선택 하루 37.5명…`코로나 블루`로 악화일로",
         "link": "http://news.mk.co.kr/newsRead.php?no=721270&year=2020"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "‘코로나 호황’ 제주, 골프장 캐디난…강릉은 쓰레기 몸살",
         "link": "https://news.joins.com/article/olink/23418436"
-    },
-    {
-        "title": "광주 코로나 1명 추가 확진…집단감염 확산은 주춤세",
-        "link": "http://www.honam.co.kr/detail/c3QycN/608394"
     }
 ];
