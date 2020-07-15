@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=325074"
     },
     {
-        "title": "극단적 선택 하루 37.5명…`코로나 블루`로 악화일로",
-        "link": "http://news.mk.co.kr/newsRead.php?no=721270&year=2020"
-    },
-    {
         "title": "(주)제이케이컴퍼니, 고향 제주에 코로나-19 예방 마스크 기탁  ",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422225"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "< What >‘S’ ‘L’ 유형만 존재하던 코로나, 6가지 그룹으로 변이",
         "link": "http://www.munhwa.com/news/view.html?no=2020071501031709040001"
+    },
+    {
+        "title": "[LTE]코로나 지역감염 추가발생..검사 대기 7천여 개",
+        "link": "http://ikbc.co.kr/kor/news?mode=view&nwCd=main_news_06&menuId=56_65_435&nwid=360332"
     }
 ];
