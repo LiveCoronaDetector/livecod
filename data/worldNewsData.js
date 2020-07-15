@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "Live updates: Oklahoma governor tests positive for coronavirus as Alabama becomes latest state to require masks",
+        "title": "Live updates: Alabama mandates masks, while Walmart will require them in all stores",
         "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
     },
     {
-        "title": "Israelis Fear Schools Reopened Too Soon as Covid-19 Cases Climb",
-        "link": "https://www.wsj.com/articles/israelis-fear-schools-reopened-too-soon-as-covid-19-cases-climb-11594760001"
+        "title": "Ex-Broward sheriff and current candidate Scott Israel hospitalized with COVID-19 - South Florida Sun Sentinel",
+        "link": "https://www.sun-sentinel.com/news/politics/fl-ne-scott-israel-covid-hospitalization-20200715-l554qwxzevh45lqjpnbe6qwdmi-story.html"
     },
     {
         "title": "As rowdy tourists flout coronavirus laws, residents in some Spanish resorts fear new surge in cases",
