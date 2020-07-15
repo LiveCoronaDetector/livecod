@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0101_202007150901097187"
     },
     {
-        "title": "이용섭 시장, 광주 코로나 기자회견…확진자·자가격리자 생활비 지원(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=577911"
-    },
-    {
         "title": "20일부터 코로나19 방역강화 대상 국가 2개국 추가",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007151317001&code=940100"
     },
     {
         "title": "광주 상반기 코로나19 구조·구급출동 많아",
         "link": "https://www.nocutnews.co.kr/news/5378800"
+    },
+    {
+        "title": "'혼잡 빨간불' 뜬 해수욕장 못 간다…확진자 발생땐 폐쇄 검토(종합)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020071511303885478"
     }
 ];

@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/germany-considers-local-coronavirus-quarantines-second-wave-virus"
     },
     {
-        "title": "Coronavirus live news: India Covid-19 cases top 900,000 as 133m re-enter lockdown",
-        "link": "https://www.theguardian.com/world/live/2020/jul/15/coronavirus-live-news-update-covid-19-cases-latest-updates-india-lockdown"
+        "title": "India could see a current account surplus again. But it's for 'all the wrong reasons'",
+        "link": "https://www.cnbc.com/2020/07/15/india-current-account-could-be-in-surplus-as-coronavirus-hurts-exports.html"
     },
     {
         "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     },
     {
-        "title": "Fauci warns young of Covid-19 risks and says crisis could match 1918 flu",
-        "link": "https://www.theguardian.com/world/2020/jul/14/fauci-covid-19-risks-coronavirus-trump-white-house"
+        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
+        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     }
 ];
