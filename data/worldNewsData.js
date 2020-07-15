@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India sees lockdowns reimposed as coronavirus surge nears 1 million cases",
-        "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
+        "title": "Brazil’s Bolsonaro tests positive for coronavirus again - Live",
+        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-vaccine-poised-final-testing-live-updates-200714232458235.html"
     },
     {
-        "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
-        "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
+        "title": "Japan \"extremely concerned\" as 136 COVID cases reported on U.S. bases",
+        "link": "https://www.cbsnews.com/news/japan-okinawa-covid-extremely-concerned-growing-coronavirus-outbreak-on-us-military-bases/"
     },
     {
-        "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
-        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
+        "title": "Pompeo says China will 'absolutely' pay a price for pandemic | TheHill",
+        "link": "https://thehill.com/policy/international/507470-pompeo-says-china-will-absolutely-pay-a-price-for-pandemic"
     },
     {
-        "title": "U.S. to impose visa restrictions on Huawei, employees of other Chinese tech companies",
-        "link": "https://www.youtube.com/watch?v=JAU2DHXhjjU"
+        "title": "Live updates: ‘Let’s stop this nonsense,’ Fauci says of federal coronavirus response as he comes under fire",
+        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
     },
     {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
