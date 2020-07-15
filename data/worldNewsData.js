@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/germany-considers-local-coronavirus-quarantines-second-wave-virus"
     },
     {
-        "title": "India could see a current account surplus again. But it's for 'all the wrong reasons'",
-        "link": "https://www.cnbc.com/2020/07/15/india-current-account-could-be-in-surplus-as-coronavirus-hurts-exports.html"
+        "title": "Lockdowns return in India as coronavirus cases surge: Live",
+        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-vaccine-poised-final-testing-live-updates-200714232458235.html"
     },
     {
         "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
     },
     {
-        "title": "Coronavirus: Blogger Emna Charqui given jail term over Koran-style post",
-        "link": "https://www.bbc.com/news/world-africa-53408262"
+        "title": "Tunisian blogger gets jail time for mocking Koran",
+        "link": "https://www.nydailynews.com/news/world/ny-tunisian-blogger-20200715-6aokcfkw3bbijklgjb6yetp3vu-story.html"
     },
     {
-        "title": "Live updates: Coronavirus caseloads soar outside hot spots as states report record fatalities",
-        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
+        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
+        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     }
 ];
