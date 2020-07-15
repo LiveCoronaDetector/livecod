@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53423927"
     },
     {
-        "title": "Israel, Serbia and Bulgaria coronavirus protests show rage against governments",
+        "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
         "link": "https://www.cnn.com/2020/07/15/world/protests-israel-serbia-bulgaria-coronavirus-intl/index.html"
     },
     {
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
-        "title": "Japan \"extremely concerned\" as 136 COVID cases reported on U.S. bases",
-        "link": "https://www.cbsnews.com/news/japan-okinawa-covid-extremely-concerned-growing-coronavirus-outbreak-on-us-military-bases/"
+        "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
+        "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
     },
     {
-        "title": "Live updates: ‘Let’s stop this nonsense,’ Fauci says of federal coronavirus response as he comes under fire",
-        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
+        "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
+        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Huawei: China attacks UK's 'groundless' ban of 5G kit",
-        "link": "https://www.bbc.com/news/technology-53412678"
+        "title": "U.S. to impose visa restrictions on Huawei, employees of other Chinese tech companies",
+        "link": "https://www.youtube.com/watch?v=JAU2DHXhjjU"
     },
     {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
         "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     },
     {
-        "title": "Fauci holds his ground against Navarro broadside",
-        "link": "https://www.cnn.com/2020/07/15/politics/donald-trump-peter-navarro-anthony-fauci/index.html"
+        "title": "Trade adviser Peter Navarro tears into Fauci in blistering op-ed: ‘Wrong about everything’",
+        "link": "https://www.foxnews.com/politics/trade-adviser-peter-navarro-tears-into-fauci-in-blistering-op-ed-wrong-about-everything"
     }
 ];
