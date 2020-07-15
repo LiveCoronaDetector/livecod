@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
+        "title": "Israel, Serbia and Bulgaria coronavirus protests show rage against governments",
         "link": "https://www.cnn.com/2020/07/15/world/protests-israel-serbia-bulgaria-coronavirus-intl/index.html"
     },
     {
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/15/889802561/a-covid-19-success-story-in-rwanda-free-testing-robot-caregivers"
     },
     {
-        "title": "Pompeo expects 'completely whitewashed' WHO China investigation",
-        "link": "https://news.yahoo.com/pompeo-expects-completely-whitewashed-china-160129104.html"
+        "title": "State Sec. Mike Pompeo: Decision to ban TikTok and other Chinese apps could come 'shortly'",
+        "link": "https://www.youtube.com/watch?v=d_D8MiJQEdE"
     },
     {
         "title": "'Things have not gone according to plan': America's coronavirus reopening falls apart",
