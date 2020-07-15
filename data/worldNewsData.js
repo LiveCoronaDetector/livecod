@@ -13,16 +13,20 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/israelis-fear-schools-reopened-too-soon-as-covid-19-cases-climb-11594760001"
     },
     {
-        "title": "Germany considers local coronavirus quarantines to avoid second wave",
-        "link": "https://www.foxnews.com/world/germany-considers-local-coronavirus-quarantines-second-wave-virus"
+        "title": "As rowdy tourists flout coronavirus laws, residents in some Spanish resorts fear new surge in cases",
+        "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India could see a current account surplus again. But it's for 'all the wrong reasons'",
-        "link": "https://www.cnbc.com/2020/07/15/india-current-account-could-be-in-surplus-as-coronavirus-hurts-exports.html"
+        "title": "Lockdowns return in Catalonia as coronavirus cases surge: Live",
+        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-vaccine-poised-final-testing-live-updates-200714232458235.html"
     },
     {
         "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
         "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
+    },
+    {
+        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
-        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
-    },
-    {
-        "title": "Coronavirus cases soar by more than 1 million over 5 days",
-        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
+        "title": "Live updates: Coronavirus caseloads soar outside hot spots as states report record fatalities",
+        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
     }
 ];
