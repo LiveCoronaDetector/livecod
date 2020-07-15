@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000989765?division=NAVER"
     },
     {
-        "title": "[단독] '마주앉지 않겠다'는 北…코로나 지원은 받았다",
-        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5843555_32524.html"
+        "title": "남아공 코로나19 확진자 수, 영국 앞질러…세계 9위(종합)",
+        "link": "http://yna.kr/AKR20200715160351099?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 39명···해외 유입 28명",
@@ -19,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "코로나19로 119구조·구급출동 늘었다",
         "link": "http://www.fnnews.com/news/202007151349122952"
+    },
+    {
+        "title": "[단독] '마주앉지 않겠다'는 北…코로나 지원은 받았다",
+        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5843555_32524.html"
     },
     {
         "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "[단독]\"혈장공여 하고싶다\" 31번 대구 신천지 확진자의 전화",
         "link": "https://news.joins.com/article/olink/23419662"
-    },
-    {
-        "title": "방문판매 모이고, 확진자 잠적…코로나19 경각심 어디갔나(종합)",
-        "link": "http://yna.kr/AKR20200715087151054?did=1195m"
     },
     {
         "title": "‘코로나19’ 신규 확진 39명…해외 유입 28명·국내 발생 11명",

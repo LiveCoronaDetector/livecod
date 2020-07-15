@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
-        "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
-        "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
+        "title": "House Dem praises China's 'discipline' on coronavirus, says Trump brings US into 'parallel universe'",
+        "link": "https://www.foxnews.com/media/speier-trump-china-discipline"
     },
     {
         "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
-        "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
-        "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
+        "title": "Coronavirus Success Story: How Rwanda Is Curbing COVID-19 : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/15/889802561/a-covid-19-success-story-in-rwanda-free-testing-robot-caregivers"
     }
 ];
