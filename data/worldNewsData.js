@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/brazil-bolsonaro-bitten-bird-emu-ostrich-coronavirus-quarantine"
     },
     {
-        "title": "Israel took strong early steps against Covid-19, but now the virus is resurging and some say the country reopened too soon",
-        "link": "https://www.cnbc.com/2020/07/14/israel-fights-coronavirus-early-progress-stalled-by-early-reopening.html"
+        "title": "Israelis Fear Schools Reopened Too Soon as Covid-19 Cases Climb",
+        "link": "https://www.wsj.com/articles/israelis-fear-schools-reopened-too-soon-as-covid-19-cases-climb-11594760001"
     },
     {
         "title": "First known recorded case of baby contracting COVID-19 in womb - Business Insider",
         "link": "https://www.businessinsider.com/unborn-baby-contracting-coronavirus-mother-womb-france-2020-7"
     },
     {
-        "title": "India could soon reach 1 million coronavirus cases as it struggles to contain outbreak",
-        "link": "https://www.cnn.com/2020/07/14/asia/india-coronavirus-cases-rise-intl-hnk/index.html"
+        "title": "Coronavirus live news: India Covid-19 cases top 900,000 as 133m re-enter lockdown",
+        "link": "https://www.theguardian.com/world/live/2020/jul/15/coronavirus-live-news-update-covid-19-cases-latest-updates-india-lockdown"
     },
     {
         "title": "House Dem praises China's 'discipline' on coronavirus, says Trump brings US into 'parallel universe'",
         "link": "https://www.foxnews.com/media/speier-trump-china-discipline"
     },
     {
-        "title": "Coronavirus News: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
-    },
-    {
-        "title": "Coronavirus cases soar by more than 1 million over 5 days",
-        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
+        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     },
     {
         "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
         "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     },
     {
-        "title": "Curbs are back as coronavirus infections spike",
-        "link": "https://www.youtube.com/watch?v=rsglBkBLPKI"
+        "title": "Tunisia woman gets 6 months in jail for COVID-Koran post",
+        "link": "https://www.rfi.fr/en/wires/20200714-tunisia-woman-gets-6-months-jail-covid-koran-post"
+    },
+    {
+        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
+        "link": "https://www.bbc.com/news/world-us-canada-53357742"
     }
 ];

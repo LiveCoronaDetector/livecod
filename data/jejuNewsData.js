@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167705"
     },
     {
-        "title": "병원인 50만명 \"코로나19 종식 최선, 국민 건강권 수호”",
-        "link": "http://www.dailymedi.com/detail.php?number=858195&thread=22r02"
-    },
-    {
         "title": "극단적 선택 하루 37.5명…`코로나 블루`로 악화일로",
         "link": "http://news.mk.co.kr/newsRead.php?no=721270&year=2020"
+    },
+    {
+        "title": "병원인 50만명 \"코로나19 종식 최선, 국민 건강권 수호”",
+        "link": "http://www.dailymedi.com/detail.php?number=858195&thread=22r02"
     },
     {
         "title": "코로나 신규 확진 62명, 10명 중 7명이 해외발",
