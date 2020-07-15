@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "22 states and two territories have set a daily coronavirus record since July 1",
-        "link": "https://www.nbcnews.com/news/us-news/july-2020-united-states-coronavirus-records-n1233828"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
         "title": "Israelis Fear Schools Reopened Too Soon as Covid-19 Cases Climb",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/speier-trump-china-discipline"
     },
     {
-        "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
-        "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
-    },
-    {
         "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
         "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     },
     {
-        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
-        "link": "https://www.bbc.com/news/world-us-canada-53357742"
+        "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
+        "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     },
     {
-        "title": "Coronavirus: Nations heading in wrong direction with Covid-19, says WHO",
-        "link": "https://www.bbc.com/news/world-53393037"
+        "title": "Coronavirus: Blogger Emna Charqui given jail term over Koran-style post",
+        "link": "https://www.bbc.com/news/world-africa-53408262"
+    },
+    {
+        "title": "Coronavirus: How did Florida get so badly hit by Covid-19?",
+        "link": "https://www.bbc.com/news/world-us-canada-53357742"
     }
 ];
