@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
-        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
+        "title": "Live updates: Coronavirus caseloads soar outside hot spots as states report record fatalities",
+        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
     },
     {
         "title": "Israelis Fear Schools Reopened Too Soon as Covid-19 Cases Climb",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
     },
     {
+        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
+    },
+    {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
         "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Tunisian blogger gets jail time for mocking Koran",
         "link": "https://www.nydailynews.com/news/world/ny-tunisian-blogger-20200715-6aokcfkw3bbijklgjb6yetp3vu-story.html"
-    },
-    {
-        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
-        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     }
 ];

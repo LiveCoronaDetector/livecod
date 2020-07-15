@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167705"
     },
     {
+        "title": "극단적 선택 하루 37.5명…`코로나 블루`로 악화일로",
+        "link": "http://news.mk.co.kr/newsRead.php?no=721270&year=2020"
+    },
+    {
         "title": "병원인 50만명 \"코로나19 종식 최선, 국민 건강권 수호”",
         "link": "http://www.dailymedi.com/detail.php?number=858195&thread=22r02"
     },
     {
         "title": "(주)제이케이컴퍼니, 코로나-19 예방... 고향사랑 마스크 기탁",
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=325074"
-    },
-    {
-        "title": "극단적 선택 하루 37.5명…`코로나 블루`로 악화일로",
-        "link": "http://news.mk.co.kr/newsRead.php?no=721270&year=2020"
     },
     {
         "title": "(주)제이케이컴퍼니, 고향 제주에 코로나-19 예방 마스크 기탁  ",
