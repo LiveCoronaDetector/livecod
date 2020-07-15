@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Edelstein says Israel could face total corona lockdown within four days",
-        "link": "https://www.jpost.com/health-science/edelstein-will-know-if-country-needs-total-lockdown-within-four-days-635195"
+        "title": "Ex-Broward sheriff and current candidate Scott Israel hospitalized with COVID-19 - South Florida Sun Sentinel",
+        "link": "https://www.sun-sentinel.com/news/politics/fl-ne-scott-israel-covid-hospitalization-20200715-l554qwxzevh45lqjpnbe6qwdmi-story.html"
     },
     {
         "title": "As rowdy tourists flout coronavirus laws, residents in some Spanish resorts fear new surge in cases",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/japan-okinawa-covid-extremely-concerned-growing-coronavirus-outbreak-on-us-military-bases/"
     },
     {
-        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
-        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
-    },
-    {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
         "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
+    },
+    {
+        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
     },
     {
         "title": "'Things have not gone according to plan': America's coronavirus reopening falls apart",

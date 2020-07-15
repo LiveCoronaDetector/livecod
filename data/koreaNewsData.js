@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
-        "title": "한화생명 관련 확진자 5명으로 늘어…추가 감염 가능성",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000989765?division=NAVER"
-    },
-    {
-        "title": "남아공 코로나19 확진자 수, 영국 앞질러…세계 9위(종합)",
-        "link": "http://yna.kr/AKR20200715160351099?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 39명···해외 유입 28명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007151018001&code=940601"
     },
     {
         "title": "코로나19로 119구조·구급출동 늘었다",
         "link": "http://www.fnnews.com/news/202007151349122952"
+    },
+    {
+        "title": "한화생명 관련 확진자 5명으로 늘어…추가 감염 가능성",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000989765?division=NAVER"
+    },
+    {
+        "title": "남아공 코로나19 확진자 수, 영국 앞질러…세계 9위(종합)",
+        "link": "http://yna.kr/AKR20200715160351099?did=1195m"
     },
     {
         "title": "‘코로나19’ 신규 확진 39명…해외 유입 28명·국내 발생 11명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071500667.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 완치자 혈장 'SOS'…대구·경북이 응답했다",
-        "link": "http://yna.kr/AKR20200714164000017?did=1195m"
+        "title": "[속보]코로나 신규 환자 39명 늘어…해외 유입만 28명",
+        "link": "https://news.joins.com/article/olink/23419643"
     }
 ];
