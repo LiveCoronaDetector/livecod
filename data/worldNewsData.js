@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "U.S. reports record 67,400 single-day spike of new coronavirus cases",
-        "link": "https://www.cnbc.com/2020/07/15/us-reports-record-67400-single-day-spike-of-new-coronavirus-cases.html"
+        "title": "Live updates: Oklahoma governor tests positive for coronavirus as Alabama becomes latest state to require masks",
+        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
     },
     {
         "title": "Israelis Fear Schools Reopened Too Soon as Covid-19 Cases Climb",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
-        "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
-        "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
+        "title": "Japan \"extremely concerned\" as 136 COVID cases reported on U.S. bases",
+        "link": "https://www.cbsnews.com/news/japan-okinawa-covid-extremely-concerned-growing-coronavirus-outbreak-on-us-military-bases/"
     },
     {
         "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",

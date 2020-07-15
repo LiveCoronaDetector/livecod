@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071509161027461"
     },
     {
-        "title": "청주 코로나19 확진자 발생…이라크 입국 40대",
-        "link": "https://www.news1.kr/articles/?3996096"
+        "title": "\"테슬라 프리몬트공장서 130여명 코로나 확진\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/15/2020071500667.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
