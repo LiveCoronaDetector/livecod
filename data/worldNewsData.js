@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
-        "title": "Japan \"extremely concerned\" as 136 COVID cases reported on U.S. bases",
-        "link": "https://www.cbsnews.com/news/japan-okinawa-covid-extremely-concerned-growing-coronavirus-outbreak-on-us-military-bases/"
+        "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
+        "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
     },
     {
         "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
-        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
-    },
-    {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
         "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     },
     {
-        "title": "Florida, Texas and California account for about one-fifth of the world's new coronavirus cases",
-        "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
+        "title": "Florida Breaks Its Record for Most Coronavirus Deaths in a Day",
+        "link": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html"
+    },
+    {
+        "title": "What you need to know about coronavirus on Wednesday, July 15",
+        "link": "https://www.cnn.com/2020/07/15/world/coronavirus-newsletter-07-15-20-intl/index.html"
     }
 ];
