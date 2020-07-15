@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/15/india-current-account-could-be-in-surplus-as-coronavirus-hurts-exports.html"
     },
     {
-        "title": "Floods and the coronavirus create more uncertainty for China as food prices climb",
-        "link": "https://www.cnbc.com/2020/07/15/floods-coronavirus-create-more-uncertainty-for-china-as-food-prices-climb.html"
+        "title": "Trump’s Falsehoods on Police Shootings, Biden, Coronavirus and China",
+        "link": "https://www.nytimes.com/2020/07/14/us/politics/trump-fact-check-biden-police-coronavirus-china.html"
     },
     {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/florida-texas-california-account-about-one-fifth-world-s-new-n1233793"
     },
     {
-        "title": "Trump says U.S. would have half the number of coronavirus cases if it did half the testing",
-        "link": "https://www.cnbc.com/2020/07/14/trump-says-us-would-have-half-the-number-of-coronavirus-cases-if-it-did-half-the-testing.html"
+        "title": "Florida has more Covid-19 than most countries in the world. These stats show how serious the problem is",
+        "link": "https://www.cnn.com/2020/07/13/health/florida-coronavirus-cases-comparisons/index.html"
     }
 ];

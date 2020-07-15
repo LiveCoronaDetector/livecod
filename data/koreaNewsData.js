@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4494530&ref=A"
     },
     {
+        "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
+        "link": "http://www.fnnews.com/news/202007151133366873"
+    },
+    {
+        "title": "[속보]코로나 신규 환자 39명 늘어…해외 유입만 28명",
+        "link": "https://news.joins.com/article/olink/23419643"
+    },
+    {
+        "title": "정 총리 \"코로나19 리스크 국가, 방역강화 대상국 추가 지정\"",
+        "link": "https://view.asiae.co.kr/article/2020071509161027461"
+    },
+    {
         "title": "코로나19 완치자 혈장 'SOS'…대구·경북이 응답했다",
         "link": "http://yna.kr/AKR20200714164000017?did=1195m"
     },
     {
-        "title": "[단독]\"혈장공여 하고싶다\" 31번 대구 신천지 확진자의 전화",
-        "link": "https://news.joins.com/article/olink/23419662"
+        "title": "코로나19 신규확진 33명…해외유입·지역감염 지속",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5841651_32633.html"
     },
     {
-        "title": "코로나19 신규 39명 중 28명 해외유입…20일째 두 자릿수",
-        "link": "http://www.dongascience.com/news/view/38198"
+        "title": "부산항 입항 외국 선박서 또 코로나19 확진자 발생",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200714500069&wlog_tag3=naver"
     },
     {
-        "title": "[속보] 대구시 \"12일째 지역발생 확진자 0명\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020071510315034963"
-    },
-    {
-        "title": "한 자릿수로 떨어진 수도권 확진자…\"이번 주말 방역조치 완화 논의\"(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02673206625834848"
-    },
-    {
-        "title": "모더나 \"코로나 백신 임상1상서 전원 항체\"(종합)",
-        "link": "https://view.asiae.co.kr/article/2020071511262781836"
-    },
-    {
-        "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
-        "link": "http://www.fnnews.com/news/202007151133366873"
+        "title": "[속보]코로나19 신규 확진 33명···해외 유입 19명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007141028001&code=940100"
     }
 ];
