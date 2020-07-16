@@ -5,24 +5,24 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
-        "title": "제주서 코로나19 확진자 3명 추가 발생…서울 방문객 접촉자",
-        "link": "http://yna.kr/AKR20200716176800056?did=1195m"
+        "title": "제주도 코로나 확진자 3명 발생...'사우나'에서도 감염 '초비상'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422468"
     },
     {
-        "title": "제주서 코로나 19 확진자 3명 발생,제주방문 광진구 확진자와 접촉",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200716500217&wlog_tag3=naver"
-    },
-    {
-        "title": "제주 가족 만나고 간 70대 여성 코로나 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "제주도, 코로나 확진자(광진구)의 접촉자 3명 '양성' 판정",
-        "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=272306"
+        "title": "광진구 코로나19 확진자에 제주도민 3명 추가 감염",
+        "link": "https://www.nocutnews.co.kr/news/5379957"
     },
     {
         "title": "“서울 확진자와 접촉” 제주서 코로나 3명 확진",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007162047001&code=620117"
+    },
+    {
+        "title": "서울 광진구 70대 코로나19 확진자 접촉자 20명 확인",
+        "link": "http://www.ihalla.com/read.php3?aid=1594896438687729073"
+    },
+    {
+        "title": "제주 가족 만나고 간 70대 여성 코로나 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=317989"
     },
     {
-        "title": "제주도, 식품대전·전기화학회학술대회 '집합제한 조치'",
-        "link": "http://www.newsis.com/view/?id=NISX20200714_0001095059&cID=10813&pID=10800"
+        "title": "제주식품대전·전기화학회학술대회에 코로나 방역 집합제한 조치",
+        "link": "http://yna.kr/AKR20200714152100056?did=1195m"
     }
 ];

@@ -9,8 +9,20 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202007161119450620"
     },
     {
+        "title": "日, 코로나19 신규 확진자 석 달만에 500명 넘어",
+        "link": "https://view.asiae.co.kr/article/2020071620060282973"
+    },
+    {
         "title": "광주서 코로나19 확진자 2명 추가 발생...누적확진자 173명",
         "link": "http://www.fnnews.com/news/202007161419095142"
+    },
+    {
+        "title": "광진구 코로나19 확진자에 제주도민 3명 추가 감염",
+        "link": "https://www.nocutnews.co.kr/news/5379957"
+    },
+    {
+        "title": "서울 광진구 확진자 제주여행 중 접촉자 3명도 확진",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4495956&ref=A"
     },
     {
         "title": "확진자 3명 나온 부산 러시아 선박서 14명 추가 코로나19 양성…오늘만 19명째",
@@ -27,17 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 61명···해외 유입 47명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007161018001&code=940601"
-    },
-    {
-        "title": "코로나19, 신규 확진자 61명…해외유입 사례 급증",
-        "link": "http://www.inews24.com/view/1282332"
-    },
-    {
-        "title": "코로나 신규 확진자 39명...지역감염 사흘 연속 10명대",
-        "link": "http://www.hani.co.kr/arti/society/health/953717.html"
-    },
-    {
-        "title": "광주서 코로나19 확진자 첫 사망...90대 요양원 입소자",
-        "link": "http://www.fnnews.com/news/202007160939115320"
     }
 ];

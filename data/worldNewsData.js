@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India Sets New Record For Its Daily Coronavirus Count",
+        "title": "India Sets Record For Its Daily Coronavirus Count",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/16/891744546/india-sets-new-record-for-its-daily-coronavirus-count"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
     {
-        "title": "Singapore's economic situation is 'dire' as global coronavirus resurgence looms, central bank says",
-        "link": "https://www.cnbc.com/2020/07/16/singapore-economy-still-dire-amid-global-resurgence-in-coronavirus-mas-says.html"
+        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
+        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     }
 ];
