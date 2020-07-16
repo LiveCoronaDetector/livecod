@@ -5,32 +5,28 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
-        "title": "제주 코로나 비상…서울 광진구 70대 확진자 접촉한 3명 확진",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020071620505913486"
+        "title": "“서울 확진자와 접촉” 제주서 코로나 3명 확진",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007162047001&code=620117"
     },
     {
-        "title": "제주서 서울 확진자 접촉자 3명 ‘확진’…동선·접촉자는?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496053&ref=A"
+        "title": "광진구 코로나19 확진자...확진 전 4박5일 제주 여행",
+        "link": "https://www.pressian.com/pages/articles/2020071622313225327?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주서 코로나19 확진자 3명 추가 발생…서울 방문객 접촉자",
+        "link": "http://yna.kr/AKR20200716176800056?did=1195m"
     },
     {
         "title": "제주 가족 만나고 간 70대 여성 코로나 확진",
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주, 광진구 코로나19 확진자 접촉자 3명 확진",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126401"
-    },
-    {
-        "title": "광진구 코로나19 확진자, 4박 5일 제주 방문",
-        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10466?feed=na"
+        "title": "서울 광진구 코로나 확진자, 제주 여행 중 11~14일 이상 증상",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=317989"
     },
     {
         "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
         "link": "https://www.pressian.com/pages/articles/2020071509430311747?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "서울 광진구 코로나 확진자, 제주 여행 중 11~14일 이상 증상",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=317989"
     },
     {
         "title": "강경택팀장 \"제주도내 해수욕장, 유증상자 격리시설과 방역 지원 완비해\"",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주 다녀간 70대, 서울서 코로나19 확진",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347514"
+    },
+    {
+        "title": "제주도청 “해빈사우나·흑돈본가·사랑방다방 방문자는 진단검사”",
+        "link": "http://www.segye.com/content/html/2020/07/16/20200716525525.html?OutUrl=naver"
     }
 ];

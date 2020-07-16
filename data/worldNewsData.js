@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
+        "title": "Coronavirus: Russian hackers target Covid-19 vaccine research",
+        "link": "https://www.bbc.com/news/technology-53429506"
+    },
+    {
         "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
         "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
         "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
-    },
-    {
-        "title": "Coronavirus crisis may get \"worse and worse and worse,\" WHO chief warns",
-        "link": "https://www.cbsnews.com/news/coronavirus-pandemic-crisis-worse-world-health-organization-chief-warns/"
     }
 ];
