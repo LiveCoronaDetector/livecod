@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/travel/news/2020/07/16/eu-extends-travel-ban-americans-amid-spike-us-coronavirus-cases/5450198002/"
     },
     {
-        "title": "Coronavirus live updates: Florida faces remdesivir shortages, Republicans cap convention size",
-        "link": "https://www.cnbc.com/2020/07/16/coronavirus-live-updates.html"
+        "title": "No One Knows What Thailand Is Doing Right, but So Far, It’s Working",
+        "link": "https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html"
     },
     {
-        "title": "Melbourne, On COVID-19 Lockdown, Reports Record Case Count",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/16/891731364/melbourne-on-covid-19-lockdown-reports-record-case-count"
+        "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
+        "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
         "title": "Live Coronavirus News Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Iceland offering coronavirus stress relief by broadcasting world's screams",
-        "link": "https://www.foxnews.com/world/iceland-broadcasting-worlds-screams"
+        "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
+        "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
     }
 ];

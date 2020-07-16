@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5844016_32633.html"
     },
     {
-        "title": "日, 코로나19 신규 확진자 600명 넘어…도쿄는 최다치 경신(종합)",
-        "link": "https://view.asiae.co.kr/article/2020071621411700680"
+        "title": "일본 코로나 하루 확진 600명 넘었는데, '여행장려' 캠페인 강행(종합2보)",
+        "link": "http://yna.kr/AKR20200716173852073?did=1195m"
     },
     {
         "title": "확진자 3명 나온 부산 러시아 선박서 14명 추가 코로나19 양성…오늘만 19명째",
