@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "Coronavirus live updates: Disappearing hospital data raise concerns; J&J eyes vaccine trial in September",
+        "title": "Coronavirus live updates: Florida faces remdesivir shortages, Republicans cap convention size",
         "link": "https://www.cnbc.com/2020/07/16/coronavirus-live-updates.html"
     },
     {
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
-        "title": "Russian hackers behind cyberattacks on coronavirus vaccine developers: US, UK, Canada intel",
-        "link": "https://www.foxnews.com/world/russia-hackers-cyber-attacks-coronavirus-vaccine"
+        "title": "Russian hackers target COVID-19 vaccine research in Canada, U.S. and U.K.: intelligence agency",
+        "link": "https://www.youtube.com/watch?v=diZ-GA_Oz4I"
     },
     {
-        "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
-        "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
+        "title": "Dr. Fauci holds ground against Trump official's attack",
+        "link": "https://www.youtube.com/watch?v=qBL82ekVa5o"
     },
     {
         "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
