@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "제주서 코로나19 확진자 3명 동시 발생, 광진구 확진자에서 감염",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318000"
+    },
+    {
         "title": "광진구 코로나19 확진자, 4박 5일 제주 방문",
         "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10466?feed=na"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'코로나19 사태' 속 휴가철 신풍속도",
         "link": "http://www.ilyosisa.co.kr/news/articleView.html?idxno=219944"
-    },
-    {
-        "title": "[풍향계]코로나로 미뤄왔던 科技소통 기지개 켠다",
-        "link": "http://hellodd.com/?md=news&mt=view&pid=72333"
     }
 ];
