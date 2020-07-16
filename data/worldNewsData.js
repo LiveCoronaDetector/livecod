@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html"
     },
     {
-        "title": "Protesters demanding Netanyahu's resignation plan to camp outside official residence",
-        "link": "https://www.haaretz.com/israel-news/.premium-protesters-demanding-netanyahu-s-resignation-plan-to-camp-outside-official-residence-1.8999239"
+        "title": "Russian hackers behind cyberattacks on coronavirus vaccine developers: US, UK, Canada intel",
+        "link": "https://www.foxnews.com/world/russia-hackers-cyber-attacks-coronavirus-vaccine"
     },
     {
         "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
-        "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
+        "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
+        "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
     }
 ];
