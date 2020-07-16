@@ -13,8 +13,16 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318000"
     },
     {
+        "title": "서울 광진구 확진자 가족 등 3명 코로나19 확진 판정",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324670"
+    },
+    {
         "title": "광진구 코로나19 확진자, 4박 5일 제주 방문",
         "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10466?feed=na"
+    },
+    {
+        "title": "제주, 광진구 확진자 접촉 3명 코로나 '양성'...방역당국 '비상'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422467"
     },
     {
         "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주식품대전·전기화학회학술대회에 코로나 방역 집합제한 조치",
         "link": "http://yna.kr/AKR20200714152100056?did=1195m"
-    },
-    {
-        "title": "코로나19 고통 분담...도민과 함께 위기 이겨낸다",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167705"
-    },
-    {
-        "title": "'코로나19 사태' 속 휴가철 신풍속도",
-        "link": "http://www.ilyosisa.co.kr/news/articleView.html?idxno=219944"
     }
 ];
