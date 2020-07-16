@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "https://www.insight.co.kr/news/294169"
     },
     {
-        "title": "제주 가족 만나고 간 70대 여성 코로나 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "제주, 코로나19 확산 또 비상…제주시 긴급대책회의 열어",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007170030&t=NN"
-    },
-    {
         "title": "서울 확진자 여행한 '제주 한림읍' 비상…전 학교 등교중지",
         "link": "https://www.news1.kr/articles/?3998472"
     },
     {
+        "title": "제주 가족 만나고 간 70대 여성 코로나 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "제주서 코로나19 확진자 1명 추가 발생 총 4명으로 늘어",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318007"
+    },
+    {
+        "title": "제주 1명 추가 확진…'해열제' 먹고 제주여행 광진구 확진자 접촉",
+        "link": "https://www.news1.kr/articles/?3998512"
     }
 ];

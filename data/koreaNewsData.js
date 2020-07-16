@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007161018001&code=940601"
     },
     {
+        "title": "[특파원 시선] EU 회원국, 코로나19 국경통제 해제도 제각각",
+        "link": "http://yna.kr/AKR20200716186100098?did=1195m"
+    },
+    {
         "title": "코로나19, 신규 확진자 61명…해외유입 사례 급증",
         "link": "http://www.inews24.com/view/1282332"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5844016_32633.html"
     },
     {
-        "title": "일본 코로나 하루 확진 600명 넘었는데, '여행장려' 캠페인 강행(종합2보)",
-        "link": "http://yna.kr/AKR20200716173852073?did=1195m"
-    },
-    {
-        "title": "제주서 코로나 3명 '한꺼번에' 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071604089.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "日, 코로나19 신규 확진자 600명 넘어…도쿄는 최다치 경신(종합)",
+        "link": "https://view.asiae.co.kr/article/2020071621411700680"
     }
 ];
