@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007161018001&code=940601"
     },
     {
-        "title": "광주 코로나19 첫 사망…90대 요양원 입소자(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200716_0001096977&cID=10809&pID=10800"
-    },
-    {
-        "title": "박능후 \"나도 모르게 확진자 접촉 가능…마스크 한장 위력 대단\"",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5844005_32633.html"
-    },
-    {
-        "title": "광주서 코로나19 확진자 치료 받던 중 사망",
-        "link": "http://www.hani.co.kr/arti/area/honam/953874.html"
-    },
-    {
         "title": "[종합] 코로나19 확진자 61명 증가...해외 47명, 서울 6명, 경기 3명",
         "link": "http://www.fnnews.com/news/202007161014467036"
+    },
+    {
+        "title": "\"확진자와 같은 차량 탔지만\"...박능후가 소개한 마스크의 위력",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007161119450620"
+    },
+    {
+        "title": "日 도쿄, 코로나19 신규 확진자 역대 최다···280명대 전망",
+        "link": "https://www.sedaily.com/NewsView/1Z5BR74NZ5"
     },
     {
         "title": "코로나 신규 확진자 39명...지역감염 사흘 연속 10명대",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4495476&ref=A"
     },
     {
+        "title": "광주서 코로나19 확진자 2명 추가 발생…누적 환자 173명",
+        "link": "https://www.nocutnews.co.kr/news/5379587"
+    },
+    {
+        "title": "광주 코로나19 첫 사망…90대 요양원 입소자(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200716_0001096977&cID=10809&pID=10800"
+    },
+    {
         "title": "코로나19 재확산…사흘만에 다시 60명대로 증가",
         "link": "http://www.kwnews.co.kr/view.asp?aid=220071500157&s=501"
     },
     {
-        "title": "대구서 해외유입 코로나19 확진자 2명 추가",
-        "link": "http://yna.kr/AKR20200716069500053?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진자 61명…국내 14명·해외 47명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5844016_32633.html"
+        "title": "광주 코로나19 확진자 사망",
+        "link": "http://www.jndn.com/article.php?aid=1594861804303511001"
     }
 ];

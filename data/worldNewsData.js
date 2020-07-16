@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/16/coronavirus-live-news-fauci-says-us-must-stop-nonsense-south-africa-cases-top-300000"
     },
     {
-        "title": "Coronavirus: US disease chief Dr Anthony Fauci calls White House attacks 'bizarre'",
-        "link": "https://www.bbc.com/news/world-us-canada-53423927"
+        "title": "Live updates: Georgia strikes down local mask mandates as U.S. approaches 3.5 million coronavirus cases",
+        "link": "https://www.washingtonpost.com/nation/2020/07/16/coronavirus-live-updates-us/"
     },
     {
         "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=wLHMLVzlC8g"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-16-20-intl/index.html"
-    },
-    {
         "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
         "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
+    },
+    {
+        "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
+        "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
     {
         "title": "Tokyo declares coronavirus red alert as situation 'rather severe'",
