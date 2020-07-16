@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "UK, US and Canada allege Russian cyberattacks on Covid-19 research centers",
-        "link": "https://www.cnn.com/2020/07/16/politics/russia-cyberattack-covid-vaccine-research/index.html"
+        "title": "Russian hackers behind cyberattacks on coronavirus vaccine developers: US, UK, Canada intel",
+        "link": "https://www.foxnews.com/world/russia-hackers-cyber-attacks-coronavirus-vaccine"
     },
     {
         "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
-        "title": "Russian hackers target COVID-19 vaccine research in Canada, U.S. and U.K.: intelligence agency",
-        "link": "https://www.youtube.com/watch?v=diZ-GA_Oz4I"
+        "title": "UK, US and Canada allege Russian cyberattacks on Covid-19 research centers",
+        "link": "https://www.cnn.com/2020/07/16/politics/russia-cyberattack-covid-vaccine-research/index.html"
     },
     {
         "title": "Dr. Fauci holds ground against Trump official's attack",
