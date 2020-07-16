@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/15/world/protests-israel-serbia-bulgaria-coronavirus-intl/index.html"
     },
     {
-        "title": "Schools have low coronavirus infection rate, German study finds",
-        "link": "https://www.cnbc.com/2020/07/14/schools-coronavirus-infection-rate-low-german-study-finds.html"
+        "title": "As rowdy tourists flout coronavirus laws, residents in some Spanish resorts fear new surge in cases",
+        "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India sees lockdowns reimposed as coronavirus surge nears 1 million cases",
-        "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
+        "title": "Bolsonaro tests positive for coronavirus again: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-vaccine-poised-final-testing-live-updates-200714232458235.html"
     },
     {
         "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
-        "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
-        "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
+        "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
+        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
         "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
         "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
     {
-        "title": "Fauci holds his ground against Navarro broadside",
-        "link": "https://www.cnn.com/2020/07/15/politics/donald-trump-peter-navarro-anthony-fauci/index.html"
+        "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
+        "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
     },
     {
-        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
-        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
+        "title": "Fauci holds his ground against Navarro broadside",
+        "link": "https://www.cnn.com/2020/07/15/politics/donald-trump-peter-navarro-anthony-fauci/index.html"
     }
 ];

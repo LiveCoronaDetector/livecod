@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167705"
     },
     {
+        "title": "'코로나19 사태' 속 휴가철 신풍속도",
+        "link": "http://www.ilyosisa.co.kr/news/articleView.html?idxno=219944"
+    },
+    {
         "title": "극단적 선택 하루 37.5명…`코로나 블루`로 악화일로",
         "link": "http://news.mk.co.kr/newsRead.php?no=721270&year=2020"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "광주 코로나19 확진자 1명 늘어, T월드 대리점 관련",
         "link": "http://www.gjdream.com/news/articleView.html?idxno=601100"
-    },
-    {
-        "title": "< What >‘S’ ‘L’ 유형만 존재하던 코로나, 6가지 그룹으로 변이",
-        "link": "http://www.munhwa.com/news/view.html?no=2020071501031709040001"
     }
 ];
