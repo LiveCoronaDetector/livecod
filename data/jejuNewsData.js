@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=325074"
     },
     {
+        "title": "코로나19로 닫힌 제주-중국 하늘길…진에어, 이달 중 재개",
+        "link": "http://www.fnnews.com/news/202007122056159173"
+    },
+    {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
     },
     {
         "title": "(주)제이케이컴퍼니, 고향 제주에 코로나-19 예방 마스크 기탁  ",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422225"
-    },
-    {
-        "title": "광주 코로나19 확진자 1명 늘어, T월드 대리점 관련",
-        "link": "http://www.gjdream.com/news/articleView.html?idxno=601100"
     }
 ];

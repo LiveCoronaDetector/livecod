@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
-        "title": "Dr. Fauci holds ground against Trump official's attack",
-        "link": "https://www.youtube.com/watch?v=qBL82ekVa5o"
-    },
-    {
-        "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
-        "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
+        "title": "Coronavirus Updates: White House Redirects CDC Virus Data to HHS; Fauci Says Trump Attacks Bizarre",
+        "link": "https://www.youtube.com/watch?v=wLHMLVzlC8g"
     },
     {
         "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
         "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
     },
     {
-        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
-        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
+        "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
+        "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
+    },
+    {
+        "title": "Tokyo declares coronavirus red alert as situation 'rather severe'",
+        "link": "https://www.youtube.com/watch?v=HeW1qBMMcY4"
     }
 ];
