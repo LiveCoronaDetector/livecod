@@ -1084,7 +1084,7 @@ var marker = [
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "확진자수": 1037,
+        "확진자수": 1038,
         "사망자수": 53,
         "완치자수": 882
     },
