@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html"
     },
     {
-        "title": "Melbourne, On COVID-19 Lockdown, Reports Record Case Count",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/16/891731364/melbourne-on-covid-19-lockdown-reports-record-case-count"
+        "title": "Pompeo says China 'was aware' of human coronavirus transmission before telling world, WHO was 'co-opted'",
+        "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html"
+        "title": "India, US, Brazil, S.Africa: Virus spikes hit big countries hardest",
+        "link": "https://news.abs-cbn.com/overseas/07/17/20/india-us-brazil-safrica-virus-spikes-hit-big-countries-hardest"
     },
     {
         "title": "Russian hackers behind cyberattacks on coronavirus vaccine developers: US, UK, Canada intel",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "U.S. Weighs Sweeping Travel Ban on Chinese Communist Party Members",
-        "link": "https://www.nytimes.com/2020/07/15/us/politics/china-travel-ban.html"
+        "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
+        "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
     }
 ];

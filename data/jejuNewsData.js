@@ -17,8 +17,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200717008400056?did=1195m"
     },
     {
-        "title": "제주 코로나19 확진자 잇따라…서울 방문객 접촉자 4명",
-        "link": "http://yna.kr/AKR20200717012100056?did=1195m"
+        "title": "제주 코로나19 확진자 추가, 신규 환자 4명 발생",
+        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10494?feed=na"
     },
     {
         "title": "해열제 먹으며 제주도 5박6일 활보한 서울 확진자···\"접촉 도민 3명 동시 ...",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주 코로나19 확진자 추가, 신규 환자 4명 발생",
-        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10494?feed=na"
+        "title": "제주, 코로나19 확산 또 비상…제주시 긴급대책회의 열어",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007170030&t=NN"
     },
     {
-        "title": "아파트 현관문 나서면 코로나19와 전쟁 시작…사생활 침해 논란 시끌",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200717004010&wlog_tag3=naver"
+        "title": "서울 확진자 여행한 '제주 한림읍' 비상…전 학교 등교중지",
+        "link": "https://www.news1.kr/articles/?3998472"
     },
     {
-        "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
-        "link": "https://www.pressian.com/pages/articles/2020071509430311747?utm_source=naver&utm_medium=search"
+        "title": "제주서 코로나19 확진자 1명 추가 발생 총 4명으로 늘어",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318007"
     }
 ];
