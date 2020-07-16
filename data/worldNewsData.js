@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India sees lockdowns reimposed as coronavirus surge nears 1 million cases",
-        "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
+        "title": "India coronavirus: Kuwait's new expat bill has Indians worried",
+        "link": "https://news.yahoo.com/india-coronavirus-kuwaits-expat-bill-230125349.html"
     },
     {
         "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=wLHMLVzlC8g"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-16-20-intl/index.html"
+    },
+    {
         "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
         "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
     },
     {
-        "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
-        "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
-    },
-    {
-        "title": "Japan tourism plan in doubt as coronavirus surges: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/bolsonaro-backs-unproven-drug-coronavirus-battle-live-updates-200716001526677.html"
+        "title": "Tokyo declares coronavirus red alert as situation 'rather severe'",
+        "link": "https://www.youtube.com/watch?v=HeW1qBMMcY4"
     }
 ];

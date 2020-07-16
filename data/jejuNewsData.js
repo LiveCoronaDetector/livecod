@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167705"
     },
     {
+        "title": "제주 다녀간 70대, 서울서 코로나19 확진",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347514"
+    },
+    {
         "title": "'코로나19 사태' 속 휴가철 신풍속도",
         "link": "http://www.ilyosisa.co.kr/news/articleView.html?idxno=219944"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
-    },
-    {
-        "title": "(주)제이케이컴퍼니, 고향 제주에 코로나-19 예방 마스크 기탁  ",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422225"
     }
 ];
