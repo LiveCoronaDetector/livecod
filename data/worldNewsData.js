@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/travel/news/2020/07/16/eu-extends-travel-ban-americans-amid-spike-us-coronavirus-cases/5450198002/"
     },
     {
-        "title": "Coronavirus live updates: India nears 1 million cases after record spike; Georgia Gov. Kemp scraps local mask mandates",
+        "title": "Coronavirus live updates: Florida faces remdesivir shortages, Republicans cap convention size",
         "link": "https://www.cnbc.com/2020/07/16/coronavirus-live-updates.html"
     },
     {
-        "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
-        "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
+        "title": "Melbourne, On COVID-19 Lockdown, Reports Record Case Count",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/16/891731364/melbourne-on-covid-19-lockdown-reports-record-case-count"
     },
     {
-        "title": "Russian hackers behind cyberattacks on coronavirus vaccine developers: US, UK, Canada intel",
-        "link": "https://www.foxnews.com/world/russia-hackers-cyber-attacks-coronavirus-vaccine"
+        "title": "Live Coronavirus News Updates",
+        "link": "https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html"
     },
     {
-        "title": "Ministers said to agree on nationwide lockdown over weekends to contain virus",
-        "link": "https://www.timesofisrael.com/ministers-said-to-agree-on-nationwide-lockdown-over-weekends-to-contain-virus/"
+        "title": "Protesters demanding Netanyahu's resignation plan to camp outside official residence",
+        "link": "https://www.haaretz.com/israel-news/.premium-protesters-demanding-netanyahu-s-resignation-plan-to-camp-outside-official-residence-1.8999239"
     },
     {
         "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus: England's face mask law could backfire, says EU expert",
-        "link": "https://www.theguardian.com/world/2020/jul/16/coronavirus-englands-face-mask-law-could-backfire-says-eu-expert"
+        "title": "Iceland offering coronavirus stress relief by broadcasting world's screams",
+        "link": "https://www.foxnews.com/world/iceland-broadcasting-worlds-screams"
     }
 ];

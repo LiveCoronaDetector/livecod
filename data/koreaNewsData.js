@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
-        "title": "日, 코로나19 신규 확진자 600명 넘어…도쿄는 최다치 경신(종합)",
-        "link": "https://view.asiae.co.kr/article/2020071621411700680"
-    },
-    {
         "title": "\"확진자와 같은 차량 탔지만\"...박능후가 소개한 마스크의 위력",
         "link": "https://www.ytn.co.kr/_ln/0103_202007161119450620"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 61명…국내 14명·해외 47명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5844016_32633.html"
+    },
+    {
+        "title": "日, 코로나19 신규 확진자 600명 넘어…도쿄는 최다치 경신(종합)",
+        "link": "https://view.asiae.co.kr/article/2020071621411700680"
     },
     {
         "title": "확진자 3명 나온 부산 러시아 선박서 14명 추가 코로나19 양성…오늘만 19명째",
