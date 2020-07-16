@@ -17,20 +17,20 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
-        "title": "코로나19 신규 확진 61명 중 해외 유입 47명",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5844110_32496.html"
+        "title": "日 하루 확진자 600명↑ '비상'…재유행 돌입했나",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887355&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "광주서 코로나19 확진자 치료 받던 중 사망",
-        "link": "http://www.hani.co.kr/arti/area/honam/953874.html"
+        "title": "예측과 달랐다, 서서히 드러나는 코로나19 비밀",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002658330&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "광주서 코로나19 확진자 2명 추가 발생...누적확진자 173명",
-        "link": "http://www.fnnews.com/news/202007161419095142"
+        "title": "美코로나19 하루 확진자 7만1229명...역대 최대",
+        "link": "http://www.newsis.com/view/?id=NISX20200717_0001098366&cID=10101&pID=10100"
     },
     {
-        "title": "국내 코로나19 신규 확진 61명…해외 유입 47명·국내 발생 14명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4495476&ref=A"
+        "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
+        "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 61명…국내 14명·해외 47명",

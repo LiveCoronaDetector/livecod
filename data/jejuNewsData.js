@@ -5,6 +5,14 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
+        "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
+        "link": "http://yna.kr/AKR20200717012100056?did=1195m"
+    },
+    {
+        "title": "제주 코로나 확진자 여파···한림읍 모든 학교, 원격 수업",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347522"
+    },
+    {
         "title": "광진구 코로나19 확진자...확진 전 4박5일 제주 여행",
         "link": "https://www.pressian.com/pages/articles/2020071622313225327?utm_source=naver&utm_medium=search"
     },
@@ -13,31 +21,23 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007162047001&code=620117"
     },
     {
-        "title": "코로나19 확진자 발생 제주 한림읍 전 학교 원격수업 전환",
-        "link": "http://yna.kr/AKR20200717008400056?did=1195m"
-    },
-    {
-        "title": "제주 코로나19 확진자 추가, 신규 환자 4명 발생",
-        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10494?feed=na"
+        "title": "제주 1명 추가 확진…'해열제' 먹고 제주여행 광진구 확진자 접촉",
+        "link": "https://www.news1.kr/articles/?3998512"
     },
     {
         "title": "해열제 먹으며 제주도 5박6일 활보한 서울 확진자···\"접촉 도민 3명 동시 ...",
         "link": "https://www.insight.co.kr/news/294169"
     },
     {
-        "title": "서울 확진자 여행한 '제주 한림읍' 비상…전 학교 등교중지",
-        "link": "https://www.news1.kr/articles/?3998472"
-    },
-    {
-        "title": "제주 가족 만나고 간 70대 여성 코로나 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "제주서 코로나19 확진자 잇따라 발생…서울 방문객 접촉자 4명",
+        "link": "http://news.mk.co.kr/newsRead.php?no=732317&year=2020"
     },
     {
         "title": "제주서 코로나19 확진자 1명 추가 발생 총 4명으로 늘어",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318007"
     },
     {
-        "title": "제주 1명 추가 확진…'해열제' 먹고 제주여행 광진구 확진자 접촉",
-        "link": "https://www.news1.kr/articles/?3998512"
+        "title": "서울 확진자 다녀간 제주서 4번째 확진자 나와…‘등교중지’ 조치",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496287&ref=A"
     }
 ];
