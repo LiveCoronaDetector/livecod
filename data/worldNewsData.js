@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "Russian hackers behind cyberattacks on coronavirus vaccine developers: US, UK, Canada intel",
-        "link": "https://www.foxnews.com/world/russia-hackers-cyber-attacks-coronavirus-vaccine"
+        "title": "UK, US and Canada allege Russian cyberattacks on Covid-19 research centers",
+        "link": "https://www.cnn.com/2020/07/16/politics/russia-cyberattack-covid-vaccine-research/index.html"
     },
     {
         "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
-        "title": "UK, US and Canada allege Russian cyberattacks on Covid-19 research centers",
-        "link": "https://www.cnn.com/2020/07/16/politics/russia-cyberattack-covid-vaccine-research/index.html"
+        "title": "Russian hackers behind cyberattacks on coronavirus vaccine developers: US, UK, Canada intel",
+        "link": "https://www.foxnews.com/world/russia-hackers-cyber-attacks-coronavirus-vaccine"
     },
     {
-        "title": "Dr. Fauci holds ground against Trump official's attack",
-        "link": "https://www.youtube.com/watch?v=qBL82ekVa5o"
+        "title": "As anti-PM protest skews younger, clash with cops raises query: Who started it?",
+        "link": "https://www.timesofisrael.com/as-anti-pm-protest-skews-younger-clash-with-cops-raises-query-who-started-it/"
     },
     {
         "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Check your privilege: 5 things to know for July 16",
-        "link": "https://www.timesofisrael.com/check-your-privilege-5-things-to-know-for-july-16/"
+        "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
+        "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
     }
 ];
