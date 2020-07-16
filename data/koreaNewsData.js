@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953896.html"
     },
     {
-        "title": "제주 방문 코로나19 확진자…\"11일부터 증상 해열제 복용\"(종합)",
-        "link": "http://yna.kr/AKR20200716138951056?did=1195m"
-    },
-    {
         "title": "\"확진자와 같은 차량 탔지만\"...박능후가 소개한 마스크의 위력",
         "link": "https://www.ytn.co.kr/_ln/0103_202007161119450620"
     },
     {
-        "title": "시흥 ‘서울대효요양병원’ 코로나19 확진자 3명으로 늘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4495715&ref=A"
+        "title": "시흥 요양병원 확진자 1명 늘어 총 3명…183명 전수 검사(종합)",
+        "link": "http://yna.kr/AKR20200716118151061?did=1195m"
+    },
+    {
+        "title": "제주 방문 코로나19 확진자…\"11일부터 증상 해열제 복용\"",
+        "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
         "title": "[종합] 코로나19 확진자 61명 증가...해외 47명, 서울 6명, 경기 3명",
