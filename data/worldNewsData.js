@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
-        "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
-        "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
+        "title": "U.S. Weighs Sweeping Travel Ban on Chinese Communist Party Members",
+        "link": "https://www.nytimes.com/2020/07/15/us/politics/china-travel-ban.html"
     },
     {
         "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
         "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
     {
-        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
-        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
+        "title": "Coronavirus Success Story: How Rwanda Is Curbing COVID-19 : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/15/889802561/a-covid-19-success-story-in-rwanda-free-testing-robot-caregivers"
     },
     {
         "title": "Singapore's economic situation is 'dire' as global coronavirus resurgence looms, central bank says",

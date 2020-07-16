@@ -9,24 +9,16 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1282332"
     },
     {
-        "title": "광주서 코로나19 확진자 2명 추가 발생...누적확진자 173명",
-        "link": "http://www.fnnews.com/news/202007161419095142"
-    },
-    {
         "title": "국내 코로나19 신규 확진 61명…해외 유입 47명·국내 발생 14명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4495476&ref=A"
-    },
-    {
-        "title": "[속보] 코로나19 치료받던 90대 할머니 숨져…광주 첫 사망자",
-        "link": "https://hankookilbo.com/News/Read/A2020071608270003195?did=NA"
     },
     {
         "title": "\"확진자와 같은 차량 탔지만\"...박능후가 소개한 마스크의 위력",
         "link": "https://www.ytn.co.kr/_ln/0103_202007161119450620"
     },
     {
-        "title": "日 도쿄, 코로나19 신규 확진자 역대 최다···280명대 전망",
-        "link": "https://www.sedaily.com/NewsView/1Z5BR74NZ5"
+        "title": "[속보] 日 도쿄, 코로나 확진자 280명대...사상 최대치",
+        "link": "http://www.fnnews.com/news/202007161227524579"
     },
     {
         "title": "일본 코로나19 신규 확진 450명…긴급사태 해제후 최다(종합)",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "광주서 코로나19 확진자 첫 사망...90대 요양원 입소자",
         "link": "http://www.fnnews.com/news/202007160939115320"
+    },
+    {
+        "title": "광주 코로나19 확진자 사망",
+        "link": "http://www.jndn.com/article.php?aid=1594861804303511001"
+    },
+    {
+        "title": "코로나19 신규 확진자 61명…국내 14명·해외 47명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5844016_32633.html"
     }
 ];
