@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
-        "title": "제주도 코로나 확진자 3명 발생...'사우나'에서도 감염 '초비상'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422468"
-    },
-    {
         "title": "광진구 코로나19 확진자에 제주도민 3명 추가 감염",
         "link": "https://www.nocutnews.co.kr/news/5379957"
     },
@@ -17,12 +13,12 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007162047001&code=620117"
     },
     {
-        "title": "서울 광진구 70대 코로나19 확진자 접촉자 20명 확인",
-        "link": "http://www.ihalla.com/read.php3?aid=1594896438687729073"
-    },
-    {
         "title": "제주 가족 만나고 간 70대 여성 코로나 확진",
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "광진구 코로나19 확진자, 4박 5일 제주 방문",
+        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10466?feed=na"
     },
     {
         "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
@@ -35,6 +31,10 @@ var jejuNewsData = [
     {
         "title": "서울 광진구 코로나 확진자, 제주 여행 중 11~14일 이상 증상",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=317989"
+    },
+    {
+        "title": "강경택팀장 \"제주도내 해수욕장, 유증상자 격리시설과 방역 지원 완비해\"",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=996229"
     },
     {
         "title": "제주식품대전·전기화학회학술대회에 코로나 방역 집합제한 조치",

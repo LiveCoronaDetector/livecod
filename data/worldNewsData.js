@@ -5,15 +5,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "Coronavirus outbreaks in Arizona, Texas and Florida account for nearly half of new US daily reported cases",
-        "link": "https://www.foxnews.com/us/coronavirus-arizona-texas-florida-nearly-half-new-us-cases"
+        "title": "Live updates: Georgia strikes down local mask mandates as U.S. approaches 3.5 million coronavirus cases",
+        "link": "https://www.washingtonpost.com/nation/2020/07/16/coronavirus-live-updates-us/"
     },
     {
         "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
         "link": "https://www.cnn.com/2020/07/15/world/protests-israel-serbia-bulgaria-coronavirus-intl/index.html"
     },
     {
-        "title": "As rowdy tourists flout coronavirus laws, residents in some Spanish resorts fear new surge in cases",
+        "title": "Spanish island closes party strip after rowdy tourists flout coronavirus laws",
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
-        "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
-        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
-    },
-    {
         "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
         "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
+    },
+    {
+        "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
+        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
         "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
