@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53396057"
     },
     {
-        "title": "Live updates: Georgia strikes down local mask mandates as U.S. approaches 3.5 million coronavirus cases",
-        "link": "https://www.washingtonpost.com/nation/2020/07/16/coronavirus-live-updates-us/"
+        "title": "UK, US and Canada allege Russian cyberattacks on Covid-19 research centers",
+        "link": "https://www.cnn.com/2020/07/16/politics/russia-cyberattack-covid-vaccine-research/index.html"
     },
     {
         "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India Sets Record For Its Daily Coronavirus Count",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/16/891744546/india-sets-new-record-for-its-daily-coronavirus-count"
+        "title": "Coronavirus live updates: India nears 1 million cases after record spike; Georgia Gov. Kemp scraps local mask mandates",
+        "link": "https://www.cnbc.com/2020/07/16/coronavirus-live-updates.html"
     },
     {
         "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
