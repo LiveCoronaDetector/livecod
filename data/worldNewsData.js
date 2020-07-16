@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html"
     },
     {
-        "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
-        "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
+        "title": "Melbourne, On COVID-19 Lockdown, Reports Record Case Count",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/16/891731364/melbourne-on-covid-19-lockdown-reports-record-case-count"
     },
     {
         "title": "Live Coronavirus News Updates",
