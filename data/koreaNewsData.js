@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200716138951056?did=1195m"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 61명···해외 유입 47명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007161018001&code=940601"
+    },
+    {
         "title": "\"확진자와 같은 차량 탔지만\"...박능후가 소개한 마스크의 위력",
         "link": "https://www.ytn.co.kr/_ln/0103_202007161119450620"
     },
@@ -17,12 +21,12 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4495715&ref=A"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 61명···해외 유입 47명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007161018001&code=940601"
-    },
-    {
         "title": "코로나 신규 확진자 61명…국외유입 47명 ‘가파른 증가’",
         "link": "http://www.hani.co.kr/arti/society/health/953896.html"
+    },
+    {
+        "title": "제주 방문 코로나19 확진자…\"11일부터 증상 해열제 복용\"",
+        "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
         "title": "코로나 신규 확진자 39명...지역감염 사흘 연속 10명대",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "광주 코로나19 확진자 사망",
         "link": "http://www.jndn.com/article.php?aid=1594861804303511001"
-    },
-    {
-        "title": "코로나19 신규 확진자 61명…국내 14명·해외 47명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5844016_32633.html"
     }
 ];

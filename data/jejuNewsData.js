@@ -5,20 +5,28 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
+        "title": "광진구 코로나19 확진자 제주도 방문 동선 공개",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422466"
+    },
+    {
         "title": "“서울 확진자와 접촉” 제주서 코로나 3명 확진",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007162047001&code=620117"
+    },
+    {
+        "title": "제주서 코로나 3명 '한꺼번에' 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071604089.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "제주서 코로나19 확진자 3명 추가 발생…서울 방문객 접촉자",
         "link": "http://yna.kr/AKR20200716176800056?did=1195m"
     },
     {
-        "title": "광진구 코로나19 확진자...확진 전 4박5일 제주 여행",
-        "link": "https://www.pressian.com/pages/articles/2020071622313225327?utm_source=naver&utm_medium=search"
+        "title": "광진구 70대 5박6일간 제주방문후 '코로나19' 확진",
+        "link": "https://www.news1.kr/articles/?3998109"
     },
     {
-        "title": "제주 가족 만나고 간 70대 여성 코로나 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "서울 광진구 코로나 확진자, 제주 여행 중 11~14일 이상 증상",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=317989"
     },
     {
         "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=996229"
     },
     {
-        "title": "제주 다녀간 70대, 서울서 코로나19 확진",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347514"
-    },
-    {
-        "title": "제주도, 식품대전·전기화학회학술대회 '집합제한 조치'",
-        "link": "http://www.newsis.com/view/?id=NISX20200714_0001095059&cID=10813&pID=10800"
-    },
-    {
-        "title": "코로나19 고통 분담...도민과 함께 위기 이겨낸다",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167705"
+        "title": "'코로나 확산 비상' 제주 한림지역 학교, 17일 원격수업 전환",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167913"
     }
 ];
