@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
-        "title": "Coronavirus: Russian hackers target Covid-19 vaccine research",
-        "link": "https://www.bbc.com/news/technology-53429506"
+        "title": "Russian hackers behind cyber attacks on coronavirus vaccine developers: US, UK and Canada claim",
+        "link": "https://www.foxnews.com/world/russia-hackers-cyber-attacks-coronavirus-vaccine"
     },
     {
         "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
-        "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
+        "title": "Check your privilege: 5 things to know for July 16",
+        "link": "https://www.timesofisrael.com/check-your-privilege-5-things-to-know-for-july-16/"
     }
 ];

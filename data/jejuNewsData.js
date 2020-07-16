@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007162047001&code=620117"
     },
     {
-        "title": "광진구 코로나19 확진자...확진 전 4박5일 제주 여행",
-        "link": "https://www.pressian.com/pages/articles/2020071622313225327?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "제주서 코로나19 확진자 3명 추가 발생…서울 방문객 접촉자",
         "link": "http://yna.kr/AKR20200716176800056?did=1195m"
     },
@@ -21,8 +17,12 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "서울 광진구 코로나 확진자, 제주 여행 중 11~14일 이상 증상",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=317989"
+        "title": "광진구 코로나19 확진자...확진 전 4박5일 제주 여행",
+        "link": "https://www.pressian.com/pages/articles/2020071622313225327?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "광진구 A씨 5박6일 여행 뒤 제주도 3명 코로나19 확진",
+        "link": "https://news.joins.com/article/olink/23421389"
     },
     {
         "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347514"
     },
     {
-        "title": "제주도청 “해빈사우나·흑돈본가·사랑방다방 방문자는 진단검사”",
-        "link": "http://www.segye.com/content/html/2020/07/16/20200716525525.html?OutUrl=naver"
+        "title": "제주도, 식품대전·전기화학회학술대회 '집합제한 조치'",
+        "link": "http://www.newsis.com/view/?id=NISX20200714_0001095059&cID=10813&pID=10800"
     }
 ];
