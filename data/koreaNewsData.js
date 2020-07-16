@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
+        "title": "[종합]광주서 확진자 첫 사망...요양원 입소 90대 여성",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071600723.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 39명···해외 유입 28명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007151018001&code=940601"
     },
     {
         "title": "코로나19로 119구조·구급출동 늘었다",
         "link": "http://www.fnnews.com/news/202007151349122952"
-    },
-    {
-        "title": "[속보] 코로나19 치료 받던 90대 숨져… 광주 첫 사망자",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014806984&code=61121111&cp=nv"
     },
     {
         "title": "‘코로나19’ 신규 확진 39명…해외 유입 28명·국내 발생 11명",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200714164000017?did=1195m"
     },
     {
-        "title": "정부, 해외 코로나 확진자 관리 위해 방역대상 국가 4개국에서 2개국 추가 지...",
-        "link": "http://www.fnnews.com/news/202007151133366873"
+        "title": "'트럼프 유세 강행' 오클라호마서 주지사 코로나19 감염",
+        "link": "http://www.newsis.com/view/?id=NISX20200716_0001096812&cID=10101&pID=10100"
     },
     {
-        "title": "美 50개주 주지사 중 첫 확진자는 오클라호마 주지사",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071600512.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "일본 코로나19 신규 확진 450명…긴급사태 해제후 최다(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200716_0001096920&cID=10101&pID=10100"
     }
 ];

@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-vaccine-poised-final-testing-live-updates-200714232458235.html"
     },
     {
+        "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
+        "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
+    },
+    {
         "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
         "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
     },
     {
-        "title": "Pompeo says China will 'absolutely' pay a price for pandemic | TheHill",
-        "link": "https://thehill.com/policy/international/507470-pompeo-says-china-will-absolutely-pay-a-price-for-pandemic"
+        "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
+        "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
     {
         "title": "Fauci holds his ground against Navarro broadside",
         "link": "https://www.cnn.com/2020/07/15/politics/donald-trump-peter-navarro-anthony-fauci/index.html"
-    },
-    {
-        "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
-        "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
     {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
