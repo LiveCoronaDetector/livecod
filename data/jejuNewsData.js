@@ -5,16 +5,8 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
-        "title": "광진구 코로나19 확진자 제주도 방문 동선 공개",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422466"
-    },
-    {
         "title": "광진구 코로나19 확진자...확진 전 4박5일 제주 여행",
         "link": "https://www.pressian.com/pages/articles/2020071622313225327?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "서울 광진구 확진자 가족 등 3명 코로나19 확진 판정",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324670"
     },
     {
         "title": "“서울 확진자와 접촉” 제주서 코로나 3명 확진",
@@ -29,15 +21,23 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "광진구 A씨 5박6일 여행 뒤 제주도 3명 코로나19 확진",
-        "link": "https://news.joins.com/article/olink/23421389"
-    },
-    {
-        "title": "광진구 70대 5박6일간 제주방문후 '코로나19' 확진",
-        "link": "https://www.news1.kr/articles/?3998109"
-    },
-    {
         "title": "서울 확진자 여행한 '제주 한림읍' 비상…전 학교 등교중지",
         "link": "https://www.news1.kr/articles/?3998472"
+    },
+    {
+        "title": "제주 코로나 확진자 여파···한림읍 모든 학교, 원격 수업",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347522"
+    },
+    {
+        "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
+        "link": "https://www.pressian.com/pages/articles/2020071509430311747?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "강경택팀장 \"제주도내 해수욕장, 유증상자 격리시설과 방역 지원 완비해\"",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=996229"
+    },
+    {
+        "title": "'코로나19 사태' 속 휴가철 신풍속도",
+        "link": "http://www.ilyosisa.co.kr/news/articleView.html?idxno=219944"
     }
 ];

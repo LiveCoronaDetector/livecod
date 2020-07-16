@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007161014467036"
     },
     {
+        "title": "코로나19 신규 확진 61명 중 해외 유입 47명",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5844110_32496.html"
+    },
+    {
         "title": "광주 코로나19 확진자 사망",
         "link": "http://www.jndn.com/article.php?aid=1594861804303511001"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5844016_32633.html"
     },
     {
-        "title": "광진구 코로나19 확진자에 제주도민 3명 추가 감염",
-        "link": "https://www.nocutnews.co.kr/news/5379957"
-    },
-    {
-        "title": "일주일새 입국 주한미군 관련 14명 코로나19 확진…100명 육박",
-        "link": "http://yna.kr/AKR20200716165600504?did=1195m"
+        "title": "확진자 3명 나온 부산 러시아 선박서 14명 추가 코로나19 양성…오늘만 19명째",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020071618093689904"
     }
 ];
