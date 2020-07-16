@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/16/coronavirus-live-news-fauci-says-us-must-stop-nonsense-south-africa-cases-top-300000"
     },
     {
-        "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
-        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
+        "title": "Coronavirus: US disease chief Dr Anthony Fauci calls White House attacks 'bizarre'",
+        "link": "https://www.bbc.com/news/world-us-canada-53423927"
     },
     {
         "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
+        "title": "Dr. Fauci holds ground against Trump official's attack",
+        "link": "https://www.youtube.com/watch?v=qBL82ekVa5o"
+    },
+    {
         "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
         "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
     {
         "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
         "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
-    },
-    {
-        "title": "Coronavirus: US disease chief Dr Anthony Fauci calls White House attacks 'bizarre'",
-        "link": "https://www.bbc.com/news/world-us-canada-53423927"
     },
     {
         "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
