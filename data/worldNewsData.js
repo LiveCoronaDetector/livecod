@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India coronavirus: Kuwait's new expat bill has Indians worried",
-        "link": "https://news.yahoo.com/india-coronavirus-kuwaits-expat-bill-230125349.html"
+        "title": "India cases near 1m after new daily record: Coronavirus latest",
+        "link": "https://www.aljazeera.com/news/2020/07/bolsonaro-backs-unproven-drug-coronavirus-battle-live-updates-200716001526677.html"
     },
     {
         "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
     {
-        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
-        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
-    },
-    {
         "title": "More than 150 countries engaged in COVID-19 vaccine global access facility",
         "link": "https://www.who.int/news-room/detail/15-07-2020-more-than-150-countries-engaged-in-covid-19-vaccine-global-access-facility"
+    },
+    {
+        "title": "Coronavirus cases soar by more than 1 million over 5 days",
+        "link": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html"
     }
 ];
