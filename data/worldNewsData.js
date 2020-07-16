@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India coronavirus: Kuwait's new expat bill has Indians worried",
-        "link": "https://news.yahoo.com/india-coronavirus-kuwaits-expat-bill-230125349.html"
+        "title": "India sees lockdowns reimposed as coronavirus surge nears 1 million cases",
+        "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
         "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
     {
-        "title": "Tokyo declares coronavirus red alert as situation 'rather severe'",
-        "link": "https://www.youtube.com/watch?v=HeW1qBMMcY4"
+        "title": "Japan tourism plan in doubt as coronavirus surges: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/bolsonaro-backs-unproven-drug-coronavirus-battle-live-updates-200716001526677.html"
     }
 ];
