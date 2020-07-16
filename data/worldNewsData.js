@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "Bolsonaro tests positive for coronavirus again: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-vaccine-poised-final-testing-live-updates-200714232458235.html"
+        "title": "India sees lockdowns reimposed as coronavirus surge nears 1 million cases",
+        "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
         "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
