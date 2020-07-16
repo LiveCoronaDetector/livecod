@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-china-will-pay-a-price-for-coronavirus-pandemic"
     },
     {
-        "title": "Coronavirus Live Updates: Virus Resurgence Threatens U.S. Economy",
-        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
-    },
-    {
         "title": "Israel Protests: Demonstrators unhappy with Netanyahu's economic policies",
         "link": "https://www.youtube.com/watch?v=UTYpqdJtPn0"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Fauci holds his ground against Navarro broadside",
         "link": "https://www.cnn.com/2020/07/15/politics/donald-trump-peter-navarro-anthony-fauci/index.html"
+    },
+    {
+        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
+        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     }
 ];

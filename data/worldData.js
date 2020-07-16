@@ -993,20 +993,20 @@ var marker = [
         "완치자수": 694
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "확진자수": 1489,
+        "사망자수": 20,
+        "완치자수": 724
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
         "확진자수": 1435,
         "사망자수": 4,
         "완치자수": 752
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "확진자수": 1434,
-        "사망자수": 20,
-        "완치자수": 695
     },
     {
         "Name": "Benin",
@@ -1060,9 +1060,9 @@ var marker = [
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "확진자수": 1099,
-        "사망자수": 68,
-        "완치자수": 992
+        "확진자수": 1100,
+        "사망자수": 69,
+        "완치자수": 993
     },
     {
         "Name": "Zimbabwe",
