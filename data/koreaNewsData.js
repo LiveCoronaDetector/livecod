@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200716_0001096977&cID=10809&pID=10800"
     },
     {
-        "title": "광주서 코로나19 확진자 치료 받던 중 사망",
-        "link": "http://www.hani.co.kr/arti/area/honam/953874.html"
-    },
-    {
         "title": "[종합]광주서 확진자 첫 사망...요양원 입소 90대 여성",
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071600723.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -17,12 +13,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007160303193304"
     },
     {
+        "title": "박능후 \"나도 모르게 확진자 접촉 가능…마스크 한장 위력 대단\"",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5844005_32633.html"
+    },
+    {
+        "title": "광주서 치료받던 90대 확진자 숨져...광주 첫 사망자",
+        "link": "https://www.sedaily.com/NewsView/1Z5BPTDC9P"
+    },
+    {
         "title": "광주 코로나19 확진자 1명 추가…격리 해제 전 확진",
         "link": "https://www.news1.kr/articles/?3997266"
     },
     {
-        "title": "뉴욕증시, 코로나 백신 기대감·골드만삭스 실적효과 강세(종합)",
-        "link": "https://view.asiae.co.kr/article/2020071606433349124"
+        "title": "[코로나 6개월] 가을 대유행 우려…\"유일한 무기는 생활방역\"",
+        "link": "http://yna.kr/AKR20200715147400530?did=1195m"
     },
     {
         "title": "일본 코로나19 신규 확진 450명…긴급사태 해제후 최다(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 39명···해외 유입 28명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007151018001&code=940601"
-    },
-    {
-        "title": "코로나19로 119구조·구급출동 늘었다",
-        "link": "http://www.fnnews.com/news/202007151349122952"
     }
 ];

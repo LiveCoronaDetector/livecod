@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/15/world/protests-israel-serbia-bulgaria-coronavirus-intl/index.html"
     },
     {
-        "title": "As rowdy tourists flout coronavirus laws, residents in some Spanish resorts fear new surge in cases",
-        "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
+        "title": "Schools have low coronavirus infection rate, German study finds",
+        "link": "https://www.cnbc.com/2020/07/14/schools-coronavirus-infection-rate-low-german-study-finds.html"
     },
     {
         "title": "India sees lockdowns reimposed as coronavirus surge nears 1 million cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/15/politics/donald-trump-peter-navarro-anthony-fauci/index.html"
     },
     {
-        "title": "Live updates: ‘Let’s stop this nonsense,’ Fauci says of federal coronavirus response as he comes under fire",
-        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
+        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
+        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     }
 ];
