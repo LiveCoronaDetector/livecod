@@ -1148,7 +1148,7 @@ var marker = [
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "확진자수": 837,
+        "확진자수": 849,
         "사망자수": 18,
         "완치자수": 573
     },

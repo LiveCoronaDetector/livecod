@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/16/coronavirus-live-news-fauci-says-us-must-stop-nonsense-south-africa-cases-top-300000"
     },
     {
-        "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
-        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
+        "title": "Coronavirus outbreaks in Arizona, Texas and Florida account for nearly half of new US daily reported cases",
+        "link": "https://www.foxnews.com/us/coronavirus-arizona-texas-florida-nearly-half-new-us-cases"
     },
     {
         "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
     },
     {
-        "title": "More than 150 countries engaged in COVID-19 vaccine global access facility",
-        "link": "https://www.who.int/news-room/detail/15-07-2020-more-than-150-countries-engaged-in-covid-19-vaccine-global-access-facility"
+        "title": "Singapore's economic situation is 'dire' as global coronavirus resurgence looms, central bank says",
+        "link": "https://www.cnbc.com/2020/07/16/singapore-economy-still-dire-amid-global-resurgence-in-coronavirus-mas-says.html"
     }
 ];

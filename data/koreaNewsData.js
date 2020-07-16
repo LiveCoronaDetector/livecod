@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1282332"
     },
     {
-        "title": "광주 코로나19 첫 사망…90대 요양원 입소자(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200716_0001096977&cID=10809&pID=10800"
-    },
-    {
         "title": "광주서 코로나19 확진자 2명 추가 발생...누적확진자 173명",
         "link": "http://www.fnnews.com/news/202007161419095142"
     },
@@ -21,8 +17,8 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4495476&ref=A"
     },
     {
-        "title": "코로나19 신규 확진 61명 중 해외 유입 47명",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5844110_32496.html"
+        "title": "[속보] 코로나19 치료받던 90대 할머니 숨져…광주 첫 사망자",
+        "link": "https://hankookilbo.com/News/Read/A2020071608270003195?did=NA"
     },
     {
         "title": "\"확진자와 같은 차량 탔지만\"...박능후가 소개한 마스크의 위력",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5BR74NZ5"
     },
     {
-        "title": "대구 코로나19 2차 긴급생계자금 1인당 10만원씩 준다",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/953917.html"
-    },
-    {
         "title": "일본 코로나19 신규 확진 450명…긴급사태 해제후 최다(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200716_0001096920&cID=10101&pID=10100"
+    },
+    {
+        "title": "코로나 신규 확진자 39명...지역감염 사흘 연속 10명대",
+        "link": "http://www.hani.co.kr/arti/society/health/953717.html"
+    },
+    {
+        "title": "광주서 코로나19 확진자 첫 사망...90대 요양원 입소자",
+        "link": "http://www.fnnews.com/news/202007160939115320"
     }
 ];
