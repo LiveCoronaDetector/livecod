@@ -13,11 +13,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/15/world/protests-israel-serbia-bulgaria-coronavirus-intl/index.html"
     },
     {
-        "title": "Spanish island closes party strip after rowdy tourists flout coronavirus laws",
-        "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
+        "title": "EU extends travel ban on Americans amid spike in US coronavirus cases",
+        "link": "https://www.usatoday.com/story/travel/news/2020/07/16/eu-extends-travel-ban-americans-amid-spike-us-coronavirus-cases/5450198002/"
     },
     {
-        "title": "Coronavirus live updates: Florida faces remdesivir shortages, Republicans cap convention size",
+        "title": "Coronavirus live updates: India nears 1 million cases after record spike; Georgia Gov. Kemp scraps local mask mandates",
         "link": "https://www.cnbc.com/2020/07/16/coronavirus-live-updates.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/russia-hackers-cyber-attacks-coronavirus-vaccine"
     },
     {
+        "title": "Ministers said to agree on nationwide lockdown over weekends to contain virus",
+        "link": "https://www.timesofisrael.com/ministers-said-to-agree-on-nationwide-lockdown-over-weekends-to-contain-virus/"
+    },
+    {
         "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Check your privilege: 5 things to know for July 16",
-        "link": "https://www.timesofisrael.com/check-your-privilege-5-things-to-know-for-july-16/"
-    },
-    {
-        "title": "The world will make China 'pay a price' over coronavirus outbreak, Mike Pompeo says",
-        "link": "https://www.cnbc.com/2020/07/15/the-world-will-make-china-pay-a-price-over-coronavirus-outbreak-mike-pompeo-says.html"
+        "title": "Coronavirus: England's face mask law could backfire, says EU expert",
+        "link": "https://www.theguardian.com/world/2020/jul/16/coronavirus-englands-face-mask-law-could-backfire-says-eu-expert"
     }
 ];

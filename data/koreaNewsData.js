@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953896.html"
     },
     {
-        "title": "日, 코로나19 신규 확진자 600명 넘어…도쿄는 최다치 경신(종합)",
-        "link": "https://view.asiae.co.kr/article/2020071621411700680"
-    },
-    {
         "title": "제주 방문 코로나19 확진자…\"11일부터 증상 해열제 복용\"",
         "link": "https://www.hankyung.com/society/article/2020071683227"
+    },
+    {
+        "title": "日, 코로나19 신규 확진자 600명 넘어…도쿄는 최다치 경신(종합)",
+        "link": "https://view.asiae.co.kr/article/2020071621411700680"
     },
     {
         "title": "\"확진자와 같은 차량 탔지만\"...박능후가 소개한 마스크의 위력",
