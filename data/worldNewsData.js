@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
-        "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
-        "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
+        "title": "U.S. Weighs Sweeping Travel Ban on Chinese Communist Party Members",
+        "link": "https://www.nytimes.com/2020/07/15/us/politics/china-travel-ban.html"
     }
 ];
