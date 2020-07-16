@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422225"
     },
     {
-        "title": "광주 코로나19 확진자 1명 늘어, T월드 대리점 관련",
-        "link": "http://www.gjdream.com/news/articleView.html?idxno=601100"
-    },
-    {
         "title": "“코로나19 공기감염 증거 인정”…美, WHO 공식탈퇴",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000988941?division=NAVER"
+    },
+    {
+        "title": "광주 코로나19 확진자 1명 늘어, T월드 대리점 관련",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=601100"
     },
     {
         "title": "< What >‘S’ ‘L’ 유형만 존재하던 코로나, 6가지 그룹으로 변이",

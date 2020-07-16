@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "Brazil’s Bolsonaro tests positive for coronavirus again - Live",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-vaccine-poised-final-testing-live-updates-200714232458235.html"
+        "title": "India sees lockdowns reimposed as coronavirus surge nears 1 million cases",
+        "link": "https://www.foxnews.com/world/india-lockdowns-reimposed-coronavirus-1-million"
     },
     {
         "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/15/politics/donald-trump-peter-navarro-anthony-fauci/index.html"
     },
     {
-        "title": "Global surge in coronavirus cases is being fed by the developing world — and the U.S.",
-        "link": "https://www.washingtonpost.com/national/global-surge-in-coronavirus-cases-is-being-fed-by-the-developing-world--and-the-us/2020/07/14/1e9ca48e-c605-11ea-8ffe-372be8d82298_story.html"
+        "title": "Live updates: ‘Let’s stop this nonsense,’ Fauci says of federal coronavirus response as he comes under fire",
+        "link": "https://www.washingtonpost.com/nation/2020/07/15/coronavirus-live-updates-us/"
     }
 ];
