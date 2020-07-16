@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India Sets Record For Its Daily Coronavirus Count",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/16/891744546/india-sets-new-record-for-its-daily-coronavirus-count"
+        "title": "Coronavirus live updates: Disappearing hospital data raise concerns; J&J eyes vaccine trial in September",
+        "link": "https://www.cnbc.com/2020/07/16/coronavirus-live-updates.html"
     },
     {
         "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
