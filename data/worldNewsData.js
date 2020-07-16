@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/majorca-travel-incidents-scli-intl/index.html"
     },
     {
-        "title": "India cases near 1m after new daily record: Coronavirus latest",
-        "link": "https://www.aljazeera.com/news/2020/07/bolsonaro-backs-unproven-drug-coronavirus-battle-live-updates-200716001526677.html"
+        "title": "India Sets New Record For Its Daily Coronavirus Count",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/16/891744546/india-sets-new-record-for-its-daily-coronavirus-count"
     },
     {
         "title": "Pompeo: China will 'pay a price' for coronavirus pandemic",
