@@ -5,20 +5,28 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?3998109"
     },
     {
-        "title": "서울 광진구 코로나 확진자, 5박6일 '제주 방문' 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422437"
-    },
-    {
-        "title": "서울 광진구 코로나 확진자, 제주 여행 중 11~14일 이상 증상",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=317989"
+        "title": "제주 가족 만나고 간 70대 여성 코로나 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/16/2020071603041.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
         "link": "https://www.pressian.com/pages/articles/2020071509430311747?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "광진구 코로나19 확진자, 4박 5일 제주 방문",
+        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10466?feed=na"
+    },
+    {
+        "title": "서울 광진구 코로나 확진자, 제주 여행 중 11~14일 이상 증상",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=317989"
+    },
+    {
         "title": "제주 다녀간 70대, 서울서 코로나19 확진",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347514"
+    },
+    {
+        "title": "서울 광진구 코로나19 확진자 확진전 제주 여행…도 역학조사 진행",
+        "link": "http://www.jemin.com/news/articleView.html?idxno=665185"
     },
     {
         "title": "제주식품대전·전기화학회학술대회에 코로나 방역 집합제한 조치",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "'코로나19 사태' 속 휴가철 신풍속도",
         "link": "http://www.ilyosisa.co.kr/news/articleView.html?idxno=219944"
-    },
-    {
-        "title": "극단적 선택 하루 37.5명…`코로나 블루`로 악화일로",
-        "link": "http://news.mk.co.kr/newsRead.php?no=721270&year=2020"
-    },
-    {
-        "title": "병원인 50만명 \"코로나19 종식 최선, 국민 건강권 수호”",
-        "link": "http://www.dailymedi.com/detail.php?number=858195&thread=22r02"
     }
 ];

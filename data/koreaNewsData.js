@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007161018001&code=940601"
     },
     {
+        "title": "코로나19, 신규 확진자 61명…해외유입 사례 급증",
+        "link": "http://www.inews24.com/view/1282332"
+    },
+    {
+        "title": "광주 코로나19 첫 사망…90대 요양원 입소자(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200716_0001096977&cID=10809&pID=10800"
+    },
+    {
         "title": "코로나 신규 확진자 39명...지역감염 사흘 연속 10명대",
         "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5379587"
     },
     {
-        "title": "광주서 코로나19 확진자 첫 사망…90대 여성",
-        "link": "http://www.newsis.com/view/?id=NISX20200716_0001096953&cID=10809&pID=10800"
-    },
-    {
-        "title": "코로나19 재확산…사흘만에 다시 60명대로 증가",
-        "link": "http://www.kwnews.co.kr/view.asp?aid=220071500157&s=501"
-    },
-    {
         "title": "광주 코로나19 확진자 사망",
         "link": "http://www.jndn.com/article.php?aid=1594861804303511001"
     },
     {
-        "title": "코로나19 신규 확진 61명 중 해외 유입 47명",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5844110_32496.html"
+        "title": "[속보] 정부 “어제 해외유입 확진자중 20명 가량은 이라크 현장 근로자”",
+        "link": "https://www.sedaily.com/NewsView/1Z5BQJSXB8"
     }
 ];
