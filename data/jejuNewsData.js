@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020071622313225327?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "광진구 A씨 5박6일 여행 뒤 제주도 3명 코로나19 확진",
-        "link": "https://news.joins.com/article/olink/23421389"
+        "title": "강경택팀장 \"제주도내 해수욕장, 유증상자 격리시설과 방역 지원 완비해\"",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=996229"
+    },
+    {
+        "title": "사랑방다방, \"제주 코로나, 방문한 광진구 확진자 접촉자 3명 확진자 발생…흑...",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=128919"
+    },
+    {
+        "title": "제주 코로나19 확진 하루 3명 발생...지역 감염우려 현실 되나",
+        "link": "https://www.pressian.com/pages/articles/2020071623303793296?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주도, 컨벤션센터 행사 집합제한조치 발동",
         "link": "https://www.pressian.com/pages/articles/2020071509430311747?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "강경택팀장 \"제주도내 해수욕장, 유증상자 격리시설과 방역 지원 완비해\"",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=996229"
-    },
-    {
         "title": "제주 다녀간 70대, 서울서 코로나19 확진",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347514"
-    },
-    {
-        "title": "제주도, 식품대전·전기화학회학술대회 '집합제한 조치'",
-        "link": "http://www.newsis.com/view/?id=NISX20200714_0001095059&cID=10813&pID=10800"
     }
 ];

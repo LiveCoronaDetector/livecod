@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200716138951056?did=1195m"
     },
     {
+        "title": "\"확진자와 같은 차량 탔지만\"...박능후가 소개한 마스크의 위력",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007161119450620"
+    },
+    {
+        "title": "시흥 ‘서울대효요양병원’ 코로나19 확진자 3명으로 늘어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4495715&ref=A"
+    },
+    {
         "title": "日, 코로나19 신규 확진자 600명 넘어…도쿄는 최다치 경신(종합)",
         "link": "https://view.asiae.co.kr/article/2020071621411700680"
     },
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/953896.html"
     },
     {
-        "title": "\"확진자와 같은 차량 탔지만\"...박능후가 소개한 마스크의 위력",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007161119450620"
+        "title": "코로나 신규 확진자 39명...지역감염 사흘 연속 10명대",
+        "link": "http://www.hani.co.kr/arti/society/health/953717.html"
     },
     {
-        "title": "[속보] 제주서 코로나19 확진자 3명 추가 발생…서울 방문객 접촉자",
-        "link": "https://www.hankyung.com/society/article/2020071683437"
+        "title": "[종합] 코로나19 확진자 61명 증가...해외 47명, 서울 6명, 경기 3명",
+        "link": "http://www.fnnews.com/news/202007161014467036"
     },
     {
-        "title": "확진자 3명 나온 부산 러시아 선박서 14명 추가 코로나19 양성…오늘만 19명째",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020071618093689904"
+        "title": "광주 코로나19 확진자 사망",
+        "link": "http://www.jndn.com/article.php?aid=1594861804303511001"
     },
     {
-        "title": "광주서 코로나19 확진자 2명 추가 발생...누적확진자 173명",
-        "link": "http://www.fnnews.com/news/202007161419095142"
-    },
-    {
-        "title": "시흥 요양병원 확진자 1명 늘어 총 3명…183명 전수 검사(종합)",
-        "link": "http://yna.kr/AKR20200716118151061?did=1195m"
-    },
-    {
-        "title": "일본 코로나 하루 확진 600명 넘었는데, '여행장려' 캠페인 강행(종합2보)",
-        "link": "http://yna.kr/AKR20200716173852073?did=1195m"
+        "title": "코로나19 신규 확진자 61명…국내 14명·해외 47명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5844016_32633.html"
     }
 ];
