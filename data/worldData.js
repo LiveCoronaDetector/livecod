@@ -1073,6 +1073,14 @@ var marker = [
         "완치자수": 395
     },
     {
+        "Name": "Liberia",
+        "Name_ch": "",
+        "Name_en": "Liberia",
+        "확진자수": 1056,
+        "사망자수": 51,
+        "완치자수": 447
+    },
+    {
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
@@ -1095,14 +1103,6 @@ var marker = [
         "확진자수": 1025,
         "사망자수": 19,
         "완치자수": 839
-    },
-    {
-        "Name": "Liberia",
-        "Name_ch": "",
-        "Name_en": "Liberia",
-        "확진자수": 1024,
-        "사망자수": 51,
-        "완치자수": 439
     },
     {
         "Name": "Uruguay",
@@ -1140,7 +1140,7 @@ var marker = [
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
-        "확진자수": 861,
+        "확진자수": 862,
         "사망자수": 52,
         "완치자수": 803
     },
@@ -1172,9 +1172,9 @@ var marker = [
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "확진자수": 732,
+        "확진자수": 737,
         "사망자수": 14,
-        "완치자수": 286
+        "완치자수": 322
     },
     {
         "Name": "일본크루즈",
