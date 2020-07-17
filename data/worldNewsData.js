@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
     },
     {
-        "title": "5 things to know for July 15: Coronavirus, election 2020, Iran, stimulus, Washington football",
-        "link": "https://www.cnn.com/2020/07/17/us/five-things-july-17-trnd/index.html"
+        "title": "Israel reimposes sweeping restrictions after surge in coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/israel-re-imposes-sweeping-lockdown-restrictions-after-surge-coronavirus-cases-n1234135"
     },
     {
         "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-53429430"
     },
     {
-        "title": "Mask Rules Expand Across U.S. as Clashes Over the Mandates Intensify",
-        "link": "https://www.nytimes.com/2020/07/16/us/coronavirus-masks.html"
+        "title": "Mask rules expand across U.S. as clashes over mandates intensify",
+        "link": "https://www.startribune.com/mask-rules-expand-across-u-s-as-clashes-over-mandates-intensify/571801742/"
     },
     {
         "title": "Coronavirus live news: Barcelona residents told to stay home after cases rise",
         "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
     },
     {
-        "title": "US to impose visa restrictions on Huawei employees",
-        "link": "http://www.phayul.com/2020/07/16/43957/"
+        "title": "Gravitas: Mike Pompeo mocks Xi Jinping with Winnie the Pooh",
+        "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
     }
 ];

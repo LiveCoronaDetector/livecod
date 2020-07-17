@@ -21,8 +21,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200717008400056?did=1195m"
     },
     {
-        "title": "수도권 거리두기 2단계 격상 기준 '일일 확진자 수 40명'",
-        "link": "http://www.viva100.com/main/view.php?key=20200717010003525"
+        "title": "수도권 일일확진자 주간 평균 40명 넘으면 거리두기 2단계",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200717000533"
     },
     {
         "title": "제주 1명 추가 확진…'해열제' 먹고 제주여행 광진구 확진자 접촉",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007171104298774"
     },
     {
-        "title": "여름철 관광객 붐비는 제주서 코로나 n차 감염 '비상'",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887845&plink=ORI&cooper=NAVER"
+        "title": "서울 확진자 접촉자 4명 감염에 ‘긴장’…등교중지 결정",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496857&ref=A"
     }
 ];
