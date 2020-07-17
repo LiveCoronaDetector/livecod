@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171029001&code=940601"
     },
     {
-        "title": "[속보] 코로나19 60명 늘어 1만3,672명…해외유입 39명·지역 21명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007170157&t=NN"
+        "title": "[속보]강동구 산후조리원 산모 코로나19 확진…신생아 등 73명 전수검사",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171106001&code=940100"
     },
     {
         "title": "[속보] 코로나 신규 확진자 60명…지역사회 21명, 국외유입 39명",

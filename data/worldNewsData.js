@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "Trump administration weighs travel ban for Chinese Communist Party members, source says",
-        "link": "https://www.cnbc.com/2020/07/17/us-weighs-travel-ban-for-chinese-communist-party-members-source-says.html"
+        "title": "Brazil Passes 75000 Coronavirus Deaths As Bolsonaro Stands By Hydroxychloroquine | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=Xf9FVlGw9lg"
+    },
+    {
+        "title": "U.S. weighs China Communist Party visa ban: source",
+        "link": "https://www.youtube.com/watch?v=WLILdayJZZg"
     },
     {
         "title": "Coronavirus live news: US records world record 77,300 new infections in one day",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
         "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
-    },
-    {
-        "title": "Spain to cull nearly 100,000 mink in coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/jul/17/spain-to-cull-nearly-100000-mink-in-coronavirus-outbreak"
     }
 ];
