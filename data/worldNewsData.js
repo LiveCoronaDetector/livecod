@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.vox.com/2020/7/15/21326028/israel-netanyahu-coronavirus-covid-19"
     },
     {
-        "title": "EU extends travel ban on Americans amid spike in US coronavirus cases",
-        "link": "https://www.usatoday.com/story/travel/news/2020/07/16/eu-extends-travel-ban-americans-amid-spike-us-coronavirus-cases/5450198002/"
+        "title": "Coronavirus: Spain orders culling of almost 100,000 mink",
+        "link": "https://www.bbc.com/news/world-europe-53439263"
     },
     {
         "title": "No One Knows What Thailand Is Doing Right, but So Far, It’s Working",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "U.S. Weighs Sweeping Travel Ban on Chinese Communist Party Members",
-        "link": "https://www.nytimes.com/2020/07/15/us/politics/china-travel-ban.html"
+        "title": "White House to impose visa restrictions on Huawei workers",
+        "link": "https://www.ft.com/content/e53c3495-8c38-4a25-b350-1208e79eff93"
     },
     {
-        "title": "In pictures: How coronavirus swept through Brazil",
-        "link": "https://www.bbc.com/news/world-latin-america-53429430"
+        "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
+        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     },
     {
         "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
         "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
     },
     {
-        "title": "Coronavirus update: Global COVID-19 cases climb to 13.6 million after record one-day tally of 230,400 new infections",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-covid-19-cases-climb-to-136-million-after-record-one-day-tally-of-230400-new-infections-2020-07-16"
+        "title": "Brazil's President Bolsonaro gets new positive coronavirus test result",
+        "link": "https://www.foxnews.com/world/brazils-bolsonaro-gets-new-positive-coronavirus-test-result"
     }
 ];
