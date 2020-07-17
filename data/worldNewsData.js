@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/brazil-coronavirus-2-million-cases-more-than-76000-dead/"
     },
     {
+        "title": "California schools will move to full-time remote learning, Gov. Gavin Newsom orders",
+        "link": "https://www.youtube.com/watch?v=KZaXGMaeegM"
+    },
+    {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak as pandemic worsens",
         "link": "https://www.cnbc.com/2020/07/17/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak-as-pandemic-worsens.html"
-    },
-    {
-        "title": "Pompeo says U.S. should limit which human rights it defends",
-        "link": "https://www.nbcnews.com/feature/nbc-out/pompeo-says-u-s-should-limit-which-human-rights-it-n1234152"
     }
 ];

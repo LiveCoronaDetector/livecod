@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954067.html"
     },
     {
+        "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
+    },
+    {
         "title": "제주 코로나 확진자 동선과 접촉자 공개...한림오일시장 방문 등",
         "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171106001&code=940100"
     },
     {
-        "title": "[속보] 코로나19 60명 늘어 1만3,672명…해외유입 39명·지역 21명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007170157&t=NN"
+        "title": "코로나 신규 확진자 이틀째 60명대",
+        "link": "https://www.nocutnews.co.kr/news/5380129"
     },
     {
         "title": "부산 찾은 러시아 선박에서 코로나19 확진자 속출",
         "link": "https://www.ytn.co.kr/_ln/0115_202007170951488317"
-    },
-    {
-        "title": "'마스크의 위력'…확진자와 같이 예배 본 교인 9천명 모두 음성",
-        "link": "http://yna.kr/AKR20200717102200530?did=1195m"
     }
 ];
