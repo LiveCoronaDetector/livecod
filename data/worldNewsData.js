@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/australian-researchers-invent-20-minute-064725254.html"
     },
     {
-        "title": "Brazil surpasses 2 million coronavirus cases, with more than 76,000 dead",
-        "link": "https://www.cbsnews.com/news/brazil-coronavirus-2-million-cases-more-than-76000-dead/"
+        "title": "Brazil's Bolsonaro backs Trump reelection",
+        "link": "https://news.yahoo.com/brazils-bolsonaro-backs-trump-reelection-082653173.html"
     },
     {
-        "title": "California schools will move to full-time remote learning, Gov. Gavin Newsom orders",
-        "link": "https://www.youtube.com/watch?v=KZaXGMaeegM"
+        "title": "Military medics sent to California, Texas amid scaling coronavirus cases",
+        "link": "https://www.foxnews.com/us/military-medics-california-texas-coronavirus"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak as pandemic worsens",
-        "link": "https://www.cnbc.com/2020/07/17/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak-as-pandemic-worsens.html"
+        "title": "Coronavirus update: Global cases of COVID-19 edge closer to 14 million as U.S. sets record case tally, Brazil tops 2 million",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-edge-closer-to-14-million-as-us-sets-record-case-tally-brazil-tops-2-million-2020-07-17"
     }
 ];
