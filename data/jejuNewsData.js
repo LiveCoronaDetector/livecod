@@ -25,16 +25,16 @@ var jejuNewsData = [
         "link": "http://www.tbs.seoul.kr/news/bunya.do?method=daum_html2&typ_800=7&idx_800=3396656&seq_800=20389233"
     },
     {
+        "title": "\"해열제 먹고 여행\" 제주도 확진자 4명 추가 발생…2차 감염 '비상'",
+        "link": "http://news.tf.co.kr/read/life/1802452.htm"
+    },
+    {
         "title": "제주도 코로나 19 확산 우려 병상 추가 확보 나서",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200717500112&wlog_tag3=naver"
     },
     {
-        "title": "[종합] 제주도 신규 확진자 3명 추가, 해외유입 비중은 65%…7월 17일 ‘코로...",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2020/07/17/2020071780179.html"
-    },
-    {
-        "title": "\"해열제 먹고 여행\" 제주도 확진자 4명 추가 발생…2차 감염 '비상'",
-        "link": "http://news.tf.co.kr/read/life/1802452.htm"
+        "title": "제주 여행 확진자 접촉 4명 확진…한림 지역 등교 중단",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496539&ref=A"
     },
     {
         "title": "“서울 광진구 20번 확진자…방역관리 부실 대표사례\" [전문]",

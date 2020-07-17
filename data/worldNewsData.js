@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "Brazil Passes 75000 Coronavirus Deaths As Bolsonaro Stands By Hydroxychloroquine | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=Xf9FVlGw9lg"
+        "title": "Coronavirus Live News Updates",
+        "link": "https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html"
     },
     {
         "title": "Trump administration weighs travel ban for Chinese Communist Party members, source says",
         "link": "https://www.cnbc.com/2020/07/17/us-weighs-travel-ban-for-chinese-communist-party-members-source-says.html"
     },
     {
-        "title": "Spain to cull nearly 100,000 mink in coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/jul/17/spain-to-cull-nearly-100000-mink-in-coronavirus-outbreak"
+        "title": "Brazil Passes 75000 Coronavirus Deaths As Bolsonaro Stands By Hydroxychloroquine | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=Xf9FVlGw9lg"
     },
     {
         "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
