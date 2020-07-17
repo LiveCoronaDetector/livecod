@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
     },
     {
-        "title": "Global report: US reports daily record of 77,300 new coronavirus cases",
-        "link": "https://www.theguardian.com/world/2020/jul/17/global-report-us-democrats-urged-to-skip-convention-as-covid-19-cases-surge"
+        "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
+        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
     }
 ];

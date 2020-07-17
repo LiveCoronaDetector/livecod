@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
     },
     {
-        "title": "광진구 코로나19 확진자에 제주 2차감염 '확산'",
-        "link": "https://www.nocutnews.co.kr/news/5379993"
-    },
-    {
-        "title": "여름철 관광객 붐비는 제주서 코로나 n차 감염 '비상'",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887845&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "확진자 4명 나온 제주 초비상…선별진료소에 수백명 줄서",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007170247&t=NN"
-    },
-    {
         "title": "코로나19 확진자 발생 제주 한림읍 전 학교 원격수업 전환",
         "link": "http://yna.kr/AKR20200717008400056?did=1195m"
     },
     {
-        "title": "서울 확진자 접촉자 4명 감염에 ‘긴장’…등교중지 결정",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496857&ref=A"
+        "title": "수도권 일일확진자 주간 평균 40명 넘으면 거리두기 2단계",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200717000533"
+    },
+    {
+        "title": "제주도 코로나 19 확산 우려 병상 추가 확보 나서",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200717500112&wlog_tag3=naver"
+    },
+    {
+        "title": "제주여행 온 서울 확진자, 60명 접촉…4명, 2차 감염",
+        "link": "http://www.fnnews.com/news/202007171104298774"
+    },
+    {
+        "title": "여름철 관광객 붐비는 제주서 코로나 n차 감염 '비상'",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887845&plink=ORI&cooper=NAVER"
     }
 ];

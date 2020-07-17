@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171106001&code=940100"
     },
     {
-        "title": "미 신규 코로나 환자 7만7천여명 또 최다…\"하루 10만명도 가능\"(종합2보)",
-        "link": "http://yna.kr/AKR20200717043551091?did=1195m"
-    },
-    {
         "title": "일본 코로나19 신규 확진자 623명, 도쿄는 286명으로 사상 최다",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=402240&class=42&grp="
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
+    },
+    {
+        "title": "미국, 코로나 신규 확진자 7만5천명 또 최다",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5845248_32640.html"
     }
 ];
