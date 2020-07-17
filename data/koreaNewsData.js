@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171029001&code=940601"
     },
     {
-        "title": "전남서 33번째 코로나19 확진자 발생...해외입국 50대",
-        "link": "http://www.fnnews.com/news/202007170829587209"
+        "title": "미국 코로나 신규환자 7만5천명 또 최다…호텔, 병원 개조도(종합)",
+        "link": "http://yna.kr/AKR20200717043500091?did=1195m"
     },
     {
-        "title": "미국 코로나19 일일 확진자 7만5천명으로 또 최다",
-        "link": "http://yna.kr/AKR20200717044800009?did=1195m"
+        "title": "中, 신장에서 신규 확진자 1명 발생...방역 당국 비상",
+        "link": "http://www.fnnews.com/news/202007170951278847"
     },
     {
-        "title": "코로나 신규 확진자 이틀째 60명대",
-        "link": "https://www.nocutnews.co.kr/news/5380129"
+        "title": "[전문] 이용섭 광주시장 코로나19 확진자 브리핑",
+        "link": "http://www.betanews.net:8080/article/1208701.html"
     },
     {
         "title": "부산 찾은 러시아 선박에서 코로나19 확진자 속출",
         "link": "https://www.ytn.co.kr/_ln/0115_202007170951488317"
     },
     {
-        "title": "美코로나19 하루 확진자 7만1229명...역대 최대",
-        "link": "http://www.newsis.com/view/?id=NISX20200717_0001098366&cID=10101&pID=10100"
+        "title": "[종합] 코로나19 확진자 해외 39명 등 60명 발생...러시아 20명, 미국 8명 등",
+        "link": "http://www.fnnews.com/news/202007171448566982"
     },
     {
-        "title": "인천 거주 70대 코로나19 양성 판정…확진자 가족(종합)",
-        "link": "http://yna.kr/AKR20200717033151065?did=1195m"
+        "title": "'코로나19' 전남 33번째 확진자 발생…이라크 입국 50대",
+        "link": "https://www.news1.kr/articles/?3998620"
     },
     {
-        "title": "[속보]강동구 산후조리원 산모 코로나19 확진…신생아 등 73명 전수검사",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171106001&code=940100"
+        "title": "[속보] 코로나19 60명 늘어 1만3,672명…해외유입 39명·지역 21명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007170157&t=NN"
     },
     {
-        "title": "코로나 신규 확진 60명…지역발생 수도권 12명·광주 5명, 해외유입 39명(종합...",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/17/2020071701320.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "마스크 안쓰고 해열제복용 제주 방문 확진자, n차감염 촉발(종합)",
+        "link": "http://yna.kr/AKR20200717067451056?did=1195m"
     }
 ];
