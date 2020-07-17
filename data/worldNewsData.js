@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-53429430"
     },
     {
+        "title": "Mask Rules Expand Across U.S. as Clashes Over the Mandates Intensify",
+        "link": "https://www.nytimes.com/2020/07/16/us/coronavirus-masks.html"
+    },
+    {
         "title": "Coronavirus live news: Barcelona residents told to stay home after cases rise",
         "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
     },
     {
-        "title": "Gravitas: Mike Pompeo mocks Xi Jinping with Winnie the Pooh",
-        "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
-    },
-    {
-        "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
-        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
+        "title": "US to impose visa restrictions on Huawei employees",
+        "link": "http://www.phayul.com/2020/07/16/43957/"
     }
 ];
