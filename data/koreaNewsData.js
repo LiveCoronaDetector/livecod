@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007171014141400"
     },
     {
-        "title": "미국 코로나 신규환자 7만5천명 또 최다…호텔, 병원 개조도(종합)",
-        "link": "http://yna.kr/AKR20200717043500091?did=1195m"
-    },
-    {
         "title": "'이번엔 신장' 중국 코로나 또 비상…11일만에 신규 확진(종합)",
         "link": "http://yna.kr/AKR20200717033251083?did=1195m"
     },
@@ -27,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "'코로나19' 전남 33번째 확진자 발생…이라크 입국 50대",
         "link": "https://www.news1.kr/articles/?3998620"
+    },
+    {
+        "title": "미 신규 코로나 환자 7만7천여명 또 최다…\"하루 10만명도 가능\"(종합2보)",
+        "link": "http://yna.kr/AKR20200717043551091?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 60명···해외 유입 39명",
