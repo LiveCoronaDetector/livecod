@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53439263"
     },
     {
-        "title": "No One Knows What Thailand Is Doing Right, but So Far, It’s Working",
-        "link": "https://www.nytimes.com/2020/07/16/world/asia/coronavirus-thailand-photos.html"
+        "title": "India records 1 million cases of Covid-19 ... and it's the poorest who are hardest hit",
+        "link": "https://www.cnn.com/2020/07/16/asia/india-wealth-gap-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Pompeo says China 'was aware' of human coronavirus transmission before telling world, WHO was 'co-opted'",
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "Live Global Coronavirus News",
-        "link": "https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html"
+        "title": "Brazil Passes 75000 Coronavirus Deaths As Bolsonaro Stands By Hydroxychloroquine | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=Xf9FVlGw9lg"
     },
     {
         "title": "Trump administration weighs travel ban for Chinese Communist Party members, source says",
         "link": "https://www.cnbc.com/2020/07/17/us-weighs-travel-ban-for-chinese-communist-party-members-source-says.html"
     },
     {
-        "title": "Brazil's President Bolsonaro gets new positive coronavirus test result",
-        "link": "https://www.foxnews.com/world/brazils-bolsonaro-gets-new-positive-coronavirus-test-result"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-17-20-intl/index.html"
     },
     {
         "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",

@@ -17,27 +17,27 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200717008400056?did=1195m"
     },
     {
-        "title": "“서울 광진구 20번 확진자…방역관리 부실 대표사례\" [전문]",
-        "link": "http://www.fnnews.com/news/202007171147277463"
-    },
-    {
         "title": "광진구 확진자·2차감염자 밀접접촉 97명…제주 감염 우려 확산",
         "link": "https://www.nocutnews.co.kr/news/5380125"
     },
     {
-        "title": "광진구 확진자, 제주도 이동동선 '60명' 접촉 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422540"
+        "title": "제주여행 온 서울 확진자, 60명 접촉…4명, 2차 감염",
+        "link": "http://www.fnnews.com/news/202007171104298774"
     },
     {
-        "title": "여름철 관광객 붐비는 제주서 코로나 n차 감염 '비상'",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887845&plink=ORI&cooper=NAVER"
+        "title": "서울 광진구 코로나19 확진자 제주 방문해 4명 감염",
+        "link": "http://www.tbs.seoul.kr/news/bunya.do?method=daum_html2&typ_800=7&idx_800=3396656&seq_800=20389233"
     },
     {
-        "title": "‘모두의 휴가지’ 제주도, 갑작스런 코로나 경보",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014813030&code=61121111&cp=nv"
+        "title": "제주도 코로나 19 확산 우려 병상 추가 확보 나서",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200717500112&wlog_tag3=naver"
     },
     {
-        "title": "수도권 거리두기 2단계 격상 기준 '일일 확진자 수 40명'",
-        "link": "http://www.viva100.com/main/view.php?key=20200717010003525"
+        "title": "\"해열제 먹고 여행\" 제주도 확진자 4명 추가 발생…2차 감염 '비상'",
+        "link": "http://news.tf.co.kr/read/life/1802452.htm"
+    },
+    {
+        "title": "제주 여행 확진자 접촉 4명 확진…한림 지역 등교 중단",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496539&ref=A"
     }
 ];
