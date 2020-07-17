@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "Is U.S. Secretary of State Pompeo's Tweet Taking Aim at Chinese President Xi?",
-        "link": "https://www.youtube.com/watch?v=YJsa9rJwpzs"
+        "title": "Live Global Coronavirus News",
+        "link": "https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html"
+    },
+    {
+        "title": "Trump administration weighs travel ban for Chinese Communist Party members, source says",
+        "link": "https://www.cnbc.com/2020/07/17/us-weighs-travel-ban-for-chinese-communist-party-members-source-says.html"
     },
     {
         "title": "Brazil's President Bolsonaro gets new positive coronavirus test result",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
         "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
-    },
-    {
-        "title": "Spain to cull nearly 100,000 mink in coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/jul/17/spain-to-cull-nearly-100000-mink-in-coronavirus-outbreak"
     }
 ];

@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     },
     {
+        "title": "신규 확진자 60명…'서울→제주' 여름 휴가철 방역 비상(종합)",
+        "link": "https://www.news1.kr/articles/?3998793"
+    },
+    {
         "title": "제주 1명 추가 확진…'해열제' 먹고 제주여행 광진구 확진자 접촉",
         "link": "https://www.news1.kr/articles/?3998512"
     },
@@ -21,20 +25,16 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5380125"
     },
     {
-        "title": "마스크 안쓰고 해열제로 버티고… 서울 확진자에 제주 초비상",
-        "link": "https://hankookilbo.com/News/Read/A2020071711050005901?did=NA"
-    },
-    {
-        "title": "서울→제주 코로나 확진자 다수 발생, 휴가철 위험하다(종합)",
-        "link": "http://moneys.mt.co.kr/news/mwView.php?no=2020071711168077283"
+        "title": "광진구 확진자, 제주도 이동동선 '60명' 접촉 확인",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422540"
     },
     {
         "title": "여름철 관광객 붐비는 제주서 코로나 n차 감염 '비상'",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887845&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "제주 방문 코로나19 확진자…\"11일부터 증상 해열제 복용\"",
-        "link": "https://www.hankyung.com/society/article/2020071683227"
+        "title": "‘모두의 휴가지’ 제주도, 갑작스런 코로나 경보",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014813030&code=61121111&cp=nv"
     },
     {
         "title": "수도권 거리두기 2단계 격상 기준 '일일 확진자 수 40명'",
