@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/politics/2020/07/16/russia-cyberattack-covid-19-coronavirus-vaccine-research-vpx.cnn"
     },
     {
-        "title": "Israel’s second coronavirus wave threatens Netanyahu’s hold on power",
-        "link": "https://www.vox.com/2020/7/15/21326028/israel-netanyahu-coronavirus-covid-19"
+        "title": "5 things to know for July 15: Coronavirus, election 2020, Iran, stimulus, Washington football",
+        "link": "https://www.cnn.com/2020/07/17/us/five-things-july-17-trnd/index.html"
     },
     {
         "title": "Coronavirus: Spain orders culling of almost 100,000 mink",
@@ -25,11 +25,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "Brazil Passes 75000 Coronavirus Deaths As Bolsonaro Stands By Hydroxychloroquine | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=Xf9FVlGw9lg"
+        "title": "Brazil's coronavirus chaos provides a global laboratory for the vaccine race",
+        "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: record 77,300 new daily infections in US; Barcelona residents told to stay home after spike",
+        "title": "Coronavirus live news: record 77,300 new daily infections in US; Barcelona residents told to stay home after cases rise",
         "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=bOGRl71lycs"
     },
     {
-        "title": "Brazil's coronavirus chaos provides a global laboratory for the vaccine race",
-        "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
+        "title": "Coronavirus: Spain's King, European leaders honour COVID-19 victims",
+        "link": "https://www.youtube.com/watch?v=XTzE6kizxE4"
     }
 ];
