@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/africa/article/3093354/coronavirus-after-surge-cases-south-africa-becomes-africas-clear"
     },
     {
-        "title": "UK, US and Canada allege Russian cyberattacks on Covid-19 research centers",
-        "link": "https://www.cnn.com/2020/07/16/politics/russia-cyberattack-covid-vaccine-research/index.html"
+        "title": "Live updates: U.S. sets new single-day record with more than 70,000 new coronavirus cases",
+        "link": "https://www.washingtonpost.com/nation/2020/07/17/coronavirus-live-updates-us/"
     },
     {
         "title": "Israel’s second coronavirus wave threatens Netanyahu’s hold on power",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "China calls report that U.S. is planning to ban Chinese citizens “pathetic”",
-        "link": "https://www.youtube.com/watch?v=bOGRl71lycs"
+        "title": "Is U.S. Secretary of State Pompeo's Tweet Taking Aim at Chinese President Xi?",
+        "link": "https://www.youtube.com/watch?v=YJsa9rJwpzs"
     },
     {
         "title": "Brazil's President Bolsonaro gets new positive coronavirus test result",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
     },
     {
-        "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
-        "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
+        "title": "Spain to cull nearly 100,000 mink in coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/jul/17/spain-to-cull-nearly-100000-mink-in-coronavirus-outbreak"
     }
 ];
