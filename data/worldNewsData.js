@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "Pompeo claims private property and religious freedom are 'foremost' human rights",
-        "link": "https://www.theguardian.com/us-news/2020/jul/16/pompeo-claims-private-property-and-religious-freedom-are-foremost-human-rights"
+        "title": "Gravitas: Mike Pompeo mocks Xi Jinping with Winnie the Pooh",
+        "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
     }
 ];

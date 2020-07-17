@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007171448566982"
     },
     {
-        "title": "[속보]강동구 산후조리원 산모 코로나19 확진…신생아 등 73명 전수검사",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171106001&code=940100"
-    },
-    {
-        "title": "일본 코로나19 신규 확진자 623명, 도쿄는 286명으로 사상 최다",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=402240&class=42&grp="
-    },
-    {
-        "title": "“서울 광진구 20번 확진자…방역관리 부실 대표사례\" [전문]",
-        "link": "http://www.fnnews.com/news/202007171147277463"
-    },
-    {
         "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     },
     {
         "title": "미국, 코로나 신규 확진자 7만5천명 또 최다",
         "link": "https://imnews.imbc.com/news/2020/world/article/5845248_32640.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 60명···해외 유입 39명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171029001&code=940601"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 60명 증가...해외 39명, 서울 7명, 경기 5명, 광주 5...",
+        "link": "http://www.fnnews.com/news/202007171014141400"
+    },
+    {
+        "title": "[속보] 코로나 신규 확진자 60명…지역사회 21명, 국외유입 39명",
+        "link": "http://www.hani.co.kr/arti/society/health/954067.html"
     }
 ];
