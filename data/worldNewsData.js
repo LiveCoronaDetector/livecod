@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/australian-researchers-invent-20-minute-064725254.html"
     },
     {
-        "title": "In pictures: How coronavirus swept through Brazil",
-        "link": "https://www.bbc.com/news/world-latin-america-53429430"
+        "title": "Brazil surpasses 2 million coronavirus cases, with more than 76,000 dead",
+        "link": "https://www.cbsnews.com/news/brazil-coronavirus-2-million-cases-more-than-76000-dead/"
     },
     {
-        "title": "Mask rules expand across U.S. as clashes over mandates intensify",
-        "link": "https://www.startribune.com/mask-rules-expand-across-u-s-as-clashes-over-mandates-intensify/571801742/"
+        "title": "A Detailed Map of Who Is Wearing Masks in the U.S.",
+        "link": "https://www.nytimes.com/interactive/2020/07/17/upshot/coronavirus-face-mask-map.html"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "Gravitas: Mike Pompeo mocks Xi Jinping with Winnie the Pooh",
-        "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
+        "title": "Pompeo claims private property and religious freedom are 'foremost' human rights",
+        "link": "https://www.theguardian.com/us-news/2020/jul/16/pompeo-claims-private-property-and-religious-freedom-are-foremost-human-rights"
     }
 ];
