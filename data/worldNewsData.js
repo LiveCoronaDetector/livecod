@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
     },
     {
-        "title": "Israel reimposes sweeping restrictions after surge in coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/israel-re-imposes-sweeping-lockdown-restrictions-after-surge-coronavirus-cases-n1234135"
+        "title": "5 things to know for July 15: Coronavirus, election 2020, Iran, stimulus, Washington football",
+        "link": "https://www.cnn.com/2020/07/17/us/five-things-july-17-trnd/index.html"
     },
     {
         "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.startribune.com/mask-rules-expand-across-u-s-as-clashes-over-mandates-intensify/571801742/"
     },
     {
-        "title": "Coronavirus live news: Barcelona residents told to stay home after cases rise",
-        "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
+        "title": "Coronavirus symptoms fall into six different groupings, study finds",
+        "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "Gravitas: Mike Pompeo mocks Xi Jinping with Winnie the Pooh",
-        "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
+        "title": "Pompeo claims private property and religious freedom are 'foremost' human rights",
+        "link": "https://www.theguardian.com/us-news/2020/jul/16/pompeo-claims-private-property-and-religious-freedom-are-foremost-human-rights"
     }
 ];
