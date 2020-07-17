@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
     },
     {
-        "title": "5 things to know for July 15: Coronavirus, election 2020, Iran, stimulus, Washington football",
-        "link": "https://www.cnn.com/2020/07/17/us/five-things-july-17-trnd/index.html"
+        "title": "Israel reimposes sweeping restrictions after surge in coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/israel-re-imposes-sweeping-lockdown-restrictions-after-surge-coronavirus-cases-n1234135"
     },
     {
         "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
