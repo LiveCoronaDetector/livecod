@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3737841,
-        "사망자수": 141617,
-        "완치자수": 1696628
+        "확진자수": 3745994,
+        "사망자수": 141679,
+        "완치자수": 1697910
     },
     {
         "Name": "브라질",
@@ -20,9 +20,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 1039045,
+        "확진자수": 1040457,
         "사망자수": 26285,
-        "완치자수": 654056
+        "완치자수": 654078
     },
     {
         "Name": "러시아",
@@ -188,9 +188,9 @@ var marker = [
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "확진자수": 85771,
-        "사망자수": 4120,
-        "완치자수": 26691
+        "확진자수": 86474,
+        "사망자수": 4188,
+        "완치자수": 27302
     },
     {
         "Name": "인도네시아",
@@ -1342,7 +1342,7 @@ var marker = [
         "Name_en": "Eritrea",
         "확진자수": 251,
         "사망자수": 0,
-        "완치자수": 149
+        "완치자수": 155
     },
     {
         "Name": "Cayman Islands",
@@ -1609,6 +1609,14 @@ var marker = [
         "완치자수": 15
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 15,
+        "사망자수": 0,
+        "완치자수": 8
+    },
+    {
         "Name": "Falkland Islands",
         "Name_ch": "",
         "Name_en": "Falkland Islands",
@@ -1639,14 +1647,6 @@ var marker = [
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 12
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 11,
-        "사망자수": 0,
-        "완치자수": 8
     },
     {
         "Name": "Western Sahara",
@@ -1689,20 +1689,20 @@ var marker = [
         "완치자수": 6
     },
     {
+        "Name": "Saint Pierre Miquelon",
+        "Name_ch": "",
+        "Name_en": "Saint Pierre Miquelon",
+        "확진자수": 4,
+        "사망자수": 0,
+        "완치자수": 1
+    },
+    {
         "Name": "Anguilla",
         "Name_ch": "",
         "Name_en": "Anguilla",
         "확진자수": 3,
         "사망자수": 0,
         "완치자수": 3
-    },
-    {
-        "Name": "Saint Pierre Miquelon",
-        "Name_ch": "",
-        "Name_en": "Saint Pierre Miquelon",
-        "확진자수": 2,
-        "사망자수": 0,
-        "완치자수": 1
     },
     {
         "Name": "중국",

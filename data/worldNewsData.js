@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
     },
     {
-        "title": "Israel reimposes sweeping restrictions after surge in coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/israel-re-imposes-sweeping-lockdown-restrictions-after-surge-coronavirus-cases-n1234135"
+        "title": "5 things to know for July 15: Coronavirus, election 2020, Iran, stimulus, Washington football",
+        "link": "https://www.cnn.com/2020/07/17/us/five-things-july-17-trnd/index.html"
     },
     {
         "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
         "link": "https://www.cnn.com/2020/07/17/europe/spain-culls-mink-scli-intl/index.html"
     },
     {
-        "title": "India records 1 million cases of Covid-19 ... and it's the poorest who are hardest hit",
-        "link": "https://www.cnn.com/2020/07/16/asia/india-wealth-gap-coronavirus-intl-hnk/index.html"
+        "title": "India Now Has More Than 1 Million Confirmed Coronavirus Cases : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/17/892275311/india-surpasses-1-million-confirmed-coronavirus-cases"
     },
     {
         "title": "Australian researchers invent 20-minute coronavirus blood test",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/17/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak-as-pandemic-worsens.html"
     },
     {
-        "title": "Coronavirus live news: Barcelona residents told to stay home after cases rise",
-        "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
+        "title": "Russia's attempt to steal coronavirus vaccine research foreshadows a global 'scramble'",
+        "link": "https://www.nbcnews.com/news/world/russia-s-attempt-steal-coronavirus-vaccine-research-foreshadows-global-scramble-n1234165"
     }
 ];
