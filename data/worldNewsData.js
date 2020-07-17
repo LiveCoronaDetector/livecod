@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/brazil-coronavirus-2-million-cases-more-than-76000-dead/"
     },
     {
-        "title": "A Detailed Map of Who Is Wearing Masks in the U.S.",
-        "link": "https://www.nytimes.com/interactive/2020/07/17/upshot/coronavirus-face-mask-map.html"
-    },
-    {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "Pompeo claims private property and religious freedom are 'foremost' human rights",
-        "link": "https://www.theguardian.com/us-news/2020/jul/16/pompeo-claims-private-property-and-religious-freedom-are-foremost-human-rights"
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak as pandemic worsens",
+        "link": "https://www.cnbc.com/2020/07/17/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak-as-pandemic-worsens.html"
+    },
+    {
+        "title": "Coronavirus live news: Barcelona residents told to stay home after cases rise",
+        "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
     }
 ];
