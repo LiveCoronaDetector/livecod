@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "U.S. targets all Chinese Communist Party members for possible travel ban: source",
-        "link": "https://www.reuters.com/article/us-usa-china-travel/u-s-targets-all-chinese-communist-party-members-for-possible-travel-ban-source-idUSKCN24H2TQ"
+        "title": "China calls report that U.S. is planning to ban Chinese citizens “pathetic”",
+        "link": "https://www.youtube.com/watch?v=bOGRl71lycs"
     },
     {
         "title": "Brazil's President Bolsonaro gets new positive coronavirus test result",
