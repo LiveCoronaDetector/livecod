@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/australian-researchers-invent-20-minute-064725254.html"
     },
     {
-        "title": "Brazil's Bolsonaro backs Trump reelection",
-        "link": "https://news.yahoo.com/brazils-bolsonaro-backs-trump-reelection-082653173.html"
-    },
-    {
-        "title": "Military medics sent to California, Texas amid scaling coronavirus cases",
-        "link": "https://www.foxnews.com/us/military-medics-california-texas-coronavirus"
+        "title": "Coronavirus Live Updates: Newsom Announces Rules Forcing Most California Schools to Start Remotely",
+        "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus update: Global cases of COVID-19 edge closer to 14 million as U.S. sets record case tally, Brazil tops 2 million",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-edge-closer-to-14-million-as-us-sets-record-case-tally-brazil-tops-2-million-2020-07-17"
+    },
+    {
+        "title": "Russia's attempt to steal coronavirus vaccine research foreshadows a global 'scramble'",
+        "link": "https://www.nbcnews.com/news/world/russia-s-attempt-steal-coronavirus-vaccine-research-foreshadows-global-scramble-n1234165"
     }
 ];
