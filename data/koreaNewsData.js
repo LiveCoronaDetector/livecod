@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071683227"
     },
     {
-        "title": "日 하루 확진자 600명↑ '비상'…재유행 돌입했나",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887355&plink=ORI&cooper=NAVER"
+        "title": "광진구 코로나19 확진자에 제주 2차감염 '확산'",
+        "link": "https://www.nocutnews.co.kr/news/5379993"
     },
     {
-        "title": "예측과 달랐다, 서서히 드러나는 코로나19 비밀",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002658330&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "[종합] 제주도 확진자 4명 추가 발생 '초비상'...사우나.다방에서도 감염",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422476"
     },
     {
         "title": "美코로나19 하루 확진자 7만1229명...역대 최대",
         "link": "http://www.newsis.com/view/?id=NISX20200717_0001098366&cID=10101&pID=10100"
     },
     {
-        "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
-        "link": "http://yna.kr/AKR20200717012100056?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 61명…국내 14명·해외 47명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5844016_32633.html"
     },
     {
-        "title": "日, 코로나19 신규 확진자 600명 넘어…도쿄는 최다치 경신(종합)",
-        "link": "https://view.asiae.co.kr/article/2020071621411700680"
+        "title": "日 하루 확진자 600명↑ '비상'…재유행 돌입했나",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887355&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "예측과 달랐다, 서서히 드러나는 코로나19 비밀",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002658330&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
