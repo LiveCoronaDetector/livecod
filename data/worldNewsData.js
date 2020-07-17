@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=p-qyGzJU8i8"
     },
     {
-        "title": "U.S. Weighs Sweeping Travel Ban on Chinese Communist Party Members",
-        "link": "https://www.nytimes.com/2020/07/15/us/politics/china-travel-ban.html"
+        "title": "Trump Administration Discussing Travel Ban on China’s Communist Party Members",
+        "link": "https://www.wsj.com/articles/trump-administration-discussing-travel-ban-on-china-s-communist-party-members-11594914737"
     },
     {
         "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
