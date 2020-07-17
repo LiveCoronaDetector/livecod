@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/17/us-weighs-travel-ban-for-chinese-communist-party-members-source-says.html"
     },
     {
-        "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
-        "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
-    },
-    {
         "title": "Coronavirus live news: US records world record 77,300 new infections in one day",
         "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
+    },
+    {
+        "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
+        "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
     }
 ];
