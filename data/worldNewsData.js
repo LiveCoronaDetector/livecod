@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
     },
     {
-        "title": "Israel reimposes sweeping restrictions after surge in coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/israel-re-imposes-sweeping-lockdown-restrictions-after-surge-coronavirus-cases-n1234135"
+        "title": "Israel imposes sweeping new coronavirus restrictions",
+        "link": "https://www.foxnews.com/world/israel-new-coronavirus-restrictions"
     },
     {
         "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/17/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak-as-pandemic-worsens.html"
     },
     {
-        "title": "Russia's attempt to steal coronavirus vaccine research foreshadows a global 'scramble'",
-        "link": "https://www.nbcnews.com/news/world/russia-s-attempt-steal-coronavirus-vaccine-research-foreshadows-global-scramble-n1234165"
+        "title": "Pompeo says U.S. should limit which human rights it defends",
+        "link": "https://www.nbcnews.com/feature/nbc-out/pompeo-says-u-s-should-limit-which-human-rights-it-n1234152"
     }
 ];

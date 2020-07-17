@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     },
     {
-        "title": "미국, 코로나 신규 확진자 7만5천명 또 최다",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5845248_32640.html"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 60명···해외 유입 39명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171029001&code=940601"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "부산 찾은 러시아 선박에서 코로나19 확진자 속출",
         "link": "https://www.ytn.co.kr/_ln/0115_202007170951488317"
+    },
+    {
+        "title": "'마스크의 위력'…확진자와 같이 예배 본 교인 9천명 모두 음성",
+        "link": "http://yna.kr/AKR20200717102200530?did=1195m"
     }
 ];
