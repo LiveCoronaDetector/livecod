@@ -1292,9 +1292,9 @@ var marker = [
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
-        "확진자수": 321,
+        "확진자수": 328,
         "사망자수": 7,
-        "완치자수": 302
+        "완치자수": 311
     },
     {
         "Name": "Guyana",
@@ -1308,7 +1308,7 @@ var marker = [
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "확진자수": 269,
+        "확진자수": 303,
         "사망자수": 1,
         "완치자수": 207
     },

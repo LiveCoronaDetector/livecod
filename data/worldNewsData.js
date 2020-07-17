@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
+        "title": "U.S. targets all Chinese Communist Party members for possible travel ban: source",
+        "link": "https://www.reuters.com/article/us-usa-china-travel/u-s-targets-all-chinese-communist-party-members-for-possible-travel-ban-source-idUSKCN24H2TQ"
+    },
+    {
         "title": "Brazil's President Bolsonaro gets new positive coronavirus test result",
         "link": "https://www.foxnews.com/world/brazils-bolsonaro-gets-new-positive-coronavirus-test-result"
     },
     {
+        "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
+        "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
+    },
+    {
         "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
         "link": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Spain to cull nearly 100,000 mink with coronavirus",
-        "link": "https://www.france24.com/en/20200716-spain-to-cull-nearly-100-000-mink-with-coronavirus"
-    },
-    {
-        "title": "Coronavirus update: Global COVID-19 cases climb to 13.6 million after record one-day tally of 230,400 new infections",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-covid-19-cases-climb-to-136-million-after-record-one-day-tally-of-230400-new-infections-2020-07-16"
     }
 ];
