@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200717043551091?did=1195m"
     },
     {
-        "title": "'이번엔 신장' 중국 코로나 또 비상…우루무치 항공편 결항(종합2보)",
-        "link": "http://yna.kr/AKR20200717033252083?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 60명…지역사회 21명, 국외유입 39명",
-        "link": "http://www.hani.co.kr/arti/society/health/954067.html"
-    },
-    {
         "title": "[속보]강동구 산후조리원 산모 코로나19 확진…신생아 등 73명 전수검사",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171106001&code=940100"
-    },
-    {
-        "title": "[속보] 코로나19 60명 늘어 1만3,672명…해외유입 39명·지역 21명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007170157&t=NN"
     },
     {
         "title": "부산 찾은 러시아 선박에서 코로나19 확진자 속출",
         "link": "https://www.ytn.co.kr/_ln/0115_202007170951488317"
     },
     {
-        "title": "'마스크의 위력'…확진자와 같이 예배 본 교인 9천명 모두 음성",
-        "link": "http://yna.kr/AKR20200717102200530?did=1195m"
+        "title": "“서울 광진구 20번 확진자…방역관리 부실 대표사례\" [전문]",
+        "link": "http://www.fnnews.com/news/202007171147277463"
+    },
+    {
+        "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
+        "link": "http://yna.kr/AKR20200717012100056?did=1195m"
+    },
+    {
+        "title": "미국, 코로나 신규 확진자 7만5천명 또 최다",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5845248_32640.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 60명···해외 유입 39명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171029001&code=940601"
     }
 ];

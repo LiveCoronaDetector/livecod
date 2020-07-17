@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/africa/article/3093354/coronavirus-after-surge-cases-south-africa-becomes-africas-clear"
     },
     {
-        "title": "Live Coronavirus Cases Updates",
-        "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-updates.html"
+        "title": "US, UK and Canada accuse Russia of Covid-19 hack",
+        "link": "https://www.cnn.com/videos/politics/2020/07/16/russia-cyberattack-covid-19-coronavirus-vaccine-research-vpx.cnn"
     },
     {
         "title": "5 things to know for July 15: Coronavirus, election 2020, Iran, stimulus, Washington football",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
     },
     {
-        "title": "BREAKING: PM to drop 'work from home' advice – UK COVID-19 update",
-        "link": "https://www.youtube.com/watch?v=sgjXLqmY2nQ"
-    },
-    {
-        "title": "Coronavirus live news: record 77,300 new daily infections in US; Barcelona residents told to stay home after cases rise",
-        "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
-    },
-    {
         "title": "Gravitas: Mike Pompeo mocks Xi Jinping with Winnie the Pooh",
         "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
+    },
+    {
+        "title": "Premier League crowds back by October - UK prime minister",
+        "link": "https://www.espn.com/soccer/english-premier-league/story/4138886/premier-league-crowds-back-by-october-uk-prime-minister"
+    },
+    {
+        "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
+        "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
     }
 ];
