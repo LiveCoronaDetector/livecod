@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/africa/article/3093354/coronavirus-after-surge-cases-south-africa-becomes-africas-clear"
     },
     {
-        "title": "US, UK and Canada accuse Russia of Covid-19 hack",
-        "link": "https://www.cnn.com/videos/politics/2020/07/16/russia-cyberattack-covid-19-coronavirus-vaccine-research-vpx.cnn"
+        "title": "Live Coronavirus Cases Updates",
+        "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-updates.html"
     },
     {
         "title": "5 things to know for July 15: Coronavirus, election 2020, Iran, stimulus, Washington football",
         "link": "https://www.cnn.com/2020/07/17/us/five-things-july-17-trnd/index.html"
     },
     {
-        "title": "Coronavirus: Spain orders culling of almost 100,000 mink",
-        "link": "https://www.bbc.com/news/world-europe-53439263"
+        "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
+        "link": "https://www.cnn.com/2020/07/17/europe/spain-culls-mink-scli-intl/index.html"
     },
     {
         "title": "India records 1 million cases of Covid-19 ... and it's the poorest who are hardest hit",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
     },
     {
+        "title": "BREAKING: PM to drop 'work from home' advice – UK COVID-19 update",
+        "link": "https://www.youtube.com/watch?v=sgjXLqmY2nQ"
+    },
+    {
         "title": "Coronavirus live news: record 77,300 new daily infections in US; Barcelona residents told to stay home after cases rise",
         "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
     },
     {
-        "title": "China calls report that U.S. is planning to ban Chinese citizens “pathetic”",
-        "link": "https://www.youtube.com/watch?v=bOGRl71lycs"
-    },
-    {
-        "title": "Coronavirus: Spain's King, European leaders honour COVID-19 victims",
-        "link": "https://www.youtube.com/watch?v=XTzE6kizxE4"
+        "title": "Gravitas: Mike Pompeo mocks Xi Jinping with Winnie the Pooh",
+        "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
     }
 ];
