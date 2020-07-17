@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?3998620"
     },
     {
-        "title": "미 신규 코로나 환자 7만7천여명 또 최다…\"하루 10만명도 가능\"(종합2보)",
-        "link": "http://yna.kr/AKR20200717043551091?did=1195m"
-    },
-    {
         "title": "[속보]강동구 산후조리원 산모 코로나19 확진…신생아 등 73명 전수검사",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007171106001&code=940100"
+    },
+    {
+        "title": "미 신규 코로나 환자 7만7천여명 또 최다…\"하루 10만명도 가능\"(종합2보)",
+        "link": "http://yna.kr/AKR20200717043551091?did=1195m"
     },
     {
         "title": "일본 코로나19 신규 확진자 623명, 도쿄는 286명으로 사상 최다",

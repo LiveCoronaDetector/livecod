@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-53429430"
     },
     {
-        "title": "Boris Johnson axes work from home advice as he announces back to work changes from August",
-        "link": "https://www.youtube.com/watch?v=3etgnxLqvgc"
-    },
-    {
         "title": "Coronavirus live news: Barcelona residents told to stay home after cases rise",
         "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
     },
     {
         "title": "Gravitas: Mike Pompeo mocks Xi Jinping with Winnie the Pooh",
         "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
+    },
+    {
+        "title": "Global report: US reports daily record of 77,300 new coronavirus cases",
+        "link": "https://www.theguardian.com/world/2020/jul/17/global-report-us-democrats-urged-to-skip-convention-as-covid-19-cases-surge"
     }
 ];
