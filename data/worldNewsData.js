@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/17/us-weighs-travel-ban-for-chinese-communist-party-members-source-says.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-17-20-intl/index.html"
+        "title": "Spain to cull nearly 100,000 mink in coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/jul/17/spain-to-cull-nearly-100000-mink-in-coronavirus-outbreak"
     },
     {
         "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
