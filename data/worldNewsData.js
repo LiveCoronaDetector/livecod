@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/politics/2020/07/16/russia-cyberattack-covid-19-coronavirus-vaccine-research-vpx.cnn"
     },
     {
-        "title": "Israel’s second coronavirus wave threatens Netanyahu’s hold on power",
-        "link": "https://www.vox.com/2020/7/15/21326028/israel-netanyahu-coronavirus-covid-19"
+        "title": "Huge protests rock several countries as coronavirus ignites rage against governments",
+        "link": "https://www.cnn.com/2020/07/15/world/protests-israel-serbia-bulgaria-coronavirus-intl/index.html"
     },
     {
         "title": "Coronavirus: Spain orders culling of almost 100,000 mink",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "Brazil Passes 75000 Coronavirus Deaths As Bolsonaro Stands By Hydroxychloroquine | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=Xf9FVlGw9lg"
+        "title": "Brazil's President Bolsonaro gets new positive coronavirus test result",
+        "link": "https://www.foxnews.com/world/brazils-bolsonaro-gets-new-positive-coronavirus-test-result"
     },
     {
         "title": "U.S. weighs China Communist Party visa ban: source",
         "link": "https://www.youtube.com/watch?v=WLILdayJZZg"
     },
     {
-        "title": "Coronavirus live news: US records world record 77,300 new infections in one day",
-        "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
+        "title": "A million mink culled in Netherlands and Spain as coronavirus causes havoc for fur farmers",
+        "link": "https://www.theguardian.com/world/2020/jul/17/spain-to-cull-nearly-100000-mink-in-coronavirus-outbreak"
     },
     {
         "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
