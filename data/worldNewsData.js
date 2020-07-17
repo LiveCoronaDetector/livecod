@@ -25,7 +25,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "Coronavirus live news: US records world record 77,300 new infections in one day",
+        "title": "Brazil Passes 75000 Coronavirus Deaths As Bolsonaro Stands By Hydroxychloroquine | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=Xf9FVlGw9lg"
+    },
+    {
+        "title": "Coronavirus live news: record 77,300 new daily infections in US; Barcelona residents told to stay home after spike",
         "link": "https://www.theguardian.com/world/live/2020/jul/17/coronavirus-live-news-brazil-cases-near-2m-as-more-countries-re-introduce-restrictions"
     },
     {
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=bOGRl71lycs"
     },
     {
-        "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
-        "link": "https://www.cnn.com/2020/07/17/europe/spain-culls-mink-scli-intl/index.html"
-    },
-    {
-        "title": "Colombian cartels killing anyone who doesn't obey coronavirus lockdown orders: report",
-        "link": "https://www.foxnews.com/world/colombian-cartels-coronavirus-lockdown-orders"
+        "title": "Brazil's coronavirus chaos provides a global laboratory for the vaccine race",
+        "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
     }
 ];

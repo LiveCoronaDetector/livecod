@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007171147277463"
     },
     {
-        "title": "여름철 관광객 붐비는 제주서 코로나 n차 감염 '비상'",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887845&plink=ORI&cooper=NAVER"
+        "title": "제주 코로나 21.22번 확진자, 한림오일시장 등 방문",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422583"
     },
     {
-        "title": "확진자 4명 나온 제주 초비상…선별진료소에 수백명 줄서",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007170247&t=NN"
+        "title": "여름철 관광객 붐비는 제주서 코로나 n차 감염 '비상'",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887845&plink=ORI&cooper=NAVER"
     }
 ];
