@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887845&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나 확진 60명…지역발생 수도권 12명·광주 5명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/17/2020071701320.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "광진구 확진자, 제주도 이동동선 '60명' 접촉 확인",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422540"
     }
 ];

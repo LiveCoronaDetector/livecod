@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/mike-pompeo-china-coronavirus-human-transmission-who"
     },
     {
-        "title": "China calls report that U.S. is planning to ban Chinese citizens “pathetic”",
-        "link": "https://www.youtube.com/watch?v=bOGRl71lycs"
+        "title": "Gravitas: Mike Pompeo mocks Xi Jinping with Winnie the Pooh",
+        "link": "https://www.youtube.com/watch?v=mCKKJn09fSY"
     },
     {
         "title": "Brazil's President Bolsonaro gets new positive coronavirus test result",
