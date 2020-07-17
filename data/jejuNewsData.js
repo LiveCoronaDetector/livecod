@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200717500112&wlog_tag3=naver"
     },
     {
-        "title": "\"해열제 먹고 여행\" 제주도 확진자 4명 추가 발생…2차 감염 '비상'",
-        "link": "http://news.tf.co.kr/read/life/1802452.htm"
-    },
-    {
         "title": "“서울 광진구 20번 확진자…방역관리 부실 대표사례\" [전문]",
         "link": "http://www.fnnews.com/news/202007171147277463"
     },
     {
         "title": "여름철 관광객 붐비는 제주서 코로나 n차 감염 '비상'",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005887845&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "제주 코로나 21.22번 확진자, 한림오일시장 등 방문",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422583"
     }
 ];
