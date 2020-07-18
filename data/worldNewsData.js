@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
-        "title": "Trump faces rising disapproval and widespread distrust on coronavirus, Post-ABC poll finds",
-        "link": "https://www.washingtonpost.com/politics/trump-faces-rising-disapproval-and-widespread-distrust-on-coronavirus-post-abc-poll-finds/2020/07/16/04aa9db2-c79d-11ea-a99f-3bbdffb1af38_story.html"
+        "title": "For first time, world records one million coronavirus cases in 100 hours: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "For first time, world records one million coronavirus cases in 100 hours: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
-    },
-    {
         "title": "Coronavirus: 'Vaccine produced in UK for fear US will take it'",
         "link": "https://www.youtube.com/watch?v=LKlioK3Lmc8"
+    },
+    {
+        "title": "U.S. Coronavirus Cases Hit Another Daily Record as State GOP Officials Target Mask Orders",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-updates-07-17-2020-11594976178"
     }
 ];

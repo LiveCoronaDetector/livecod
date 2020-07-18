@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071829037"
     },
     {
+        "title": "[종합] 코로나19 확진자 39명 증가...해외 28명, 서울 6명, 경기 2명",
+        "link": "http://www.fnnews.com/news/202007181013037006"
+    },
+    {
         "title": "코로나19 신규 확진 39명…국내 발생 11명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5846201_32496.html"
     },
     {
-        "title": "코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
-        "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
+        "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 기준 최다",
+        "link": "http://yna.kr/AKR20200718006800071?did=1195m"
     },
     {
-        "title": "코로나19 확진자 나온 성수고…\"학생 포함 388명 음성\"",
-        "link": "http://yna.kr/AKR20200718033300004?did=1195m"
+        "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대구서 해외유입 코로나19 확진자 3명 발생",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014815616&code=61122020&cp=nv"
-    },
-    {
-        "title": "WHO “코로나19 신규 확진자 23만7천743명”…일일 기준 최다",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497075&ref=A"
-    },
-    {
-        "title": "미국 코로나19 신규환자 7만5천여 명…확산세 여전",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005889274&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "[경남] '해외유입' 코로나19 확진자 발생, 창원 10대 남성",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002659368&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "전남서 코로나19 34번째 확진자 발생…해외입국 50대",
-        "link": "http://www.fnnews.com/news/202007181031398274"
+        "title": "확진자 사흘 만에 30명대…39명 중 28명 해외발",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200718002200641/?did=1825m"
     },
     {
         "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
+    },
+    {
+        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
+        "link": "https://view.asiae.co.kr/article/2020071814582771933"
+    },
+    {
+        "title": "수도권 지역감염 이어져, 일일 확진자 수 39명",
+        "link": "https://www.nocutnews.co.kr/news/5380583"
+    },
+    {
+        "title": "코로나 확진자 나온 서울 성수고…학생·교직원 388명은 음성",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/18/2020071800840.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

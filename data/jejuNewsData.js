@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
-        "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
+        "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
+        "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
         "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007171147277463"
     },
     {
-        "title": "제주 추가 확진자 없어…지역 감염 우려 여전",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497164&ref=A"
-    },
-    {
-        "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
-        "link": "http://www.fnnews.com/news/202007181454304153"
-    },
-    {
-        "title": "제주 방문 코로나19 확진자…\"11일부터 증상 해열제 복용\"",
-        "link": "https://www.hankyung.com/society/article/2020071683227"
-    },
-    {
         "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     },
     {
+        "title": "제주 코로나 확진자 동선과 접촉자 공개...한림오일시장 방문 등",
+        "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
+    },
+    {
+        "title": "제주지역 25번째 코로나19 확진자 발생... 일본서 입국",
+        "link": "http://www.ihalla.com/read.php3?aid=1595064259687806073"
+    },
+    {
         "title": "수도권 일일확진자 주간 평균 40명 넘으면 거리두기 2단계",
         "link": "http://news.heraldcorp.com/view.php?ud=20200717000533"
+    },
+    {
+        "title": "제주여행 온 서울 확진자, 60명 접촉…4명, 2차 감염",
+        "link": "http://www.fnnews.com/news/202007171104298774"
     }
 ];
