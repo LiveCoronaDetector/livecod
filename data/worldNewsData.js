@@ -34,7 +34,7 @@ var worldNewsData = [
     },
     {
         "title": "Most of the World May Face Covid Without a Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=80f26090-c931-11ea-bb3d-15999fb55e8c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=af1833b0-c935-11ea-9660-ada654dd732e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
     },
     {
         "title": "U.S. Reports More Than 70,000 New Coronavirus Cases for the Second Time",
