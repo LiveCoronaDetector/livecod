@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3764029,
-        "사망자수": 141930,
-        "완치자수": 1710567
+        "확진자수": 3764961,
+        "사망자수": 141943,
+        "완치자수": 1711176
     },
     {
         "Name": "브라질",
@@ -124,7 +124,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 202337,
+        "확진자수": 202345,
         "사망자수": 9160,
         "완치자수": 186900
     },
@@ -300,9 +300,9 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 50373,
-        "사망자수": 1000,
-        "완치자수": 25842
+        "확진자수": 51408,
+        "사망자수": 1038,
+        "완치자수": 26520
     },
     {
         "Name": "도미니카 공화국",
@@ -1105,20 +1105,20 @@ var marker = [
         "완치자수": 887
     },
     {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "확진자수": 1037,
+        "사망자수": 32,
+        "완치자수": 917
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "확진자수": 1033,
         "사망자수": 19,
         "완치자수": 845
-    },
-    {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "확진자수": 1026,
-        "사망자수": 32,
-        "완치자수": 916
     },
     {
         "Name": "조지아",
@@ -1300,7 +1300,7 @@ var marker = [
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "확진자수": 315,
+        "확진자수": 320,
         "사망자수": 19,
         "완치자수": 156
     },
@@ -1484,7 +1484,7 @@ var marker = [
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "확진자수": 74,
+        "확진자수": 76,
         "사망자수": 3,
         "완치자수": 57
     },
@@ -1505,20 +1505,20 @@ var marker = [
         "완치자수": 60
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "확진자수": 46,
+        "사망자수": 3,
+        "완치자수": 39
+    },
+    {
         "Name": "마카오",
         "Name_ch": "澳门",
         "Name_en": "Macao",
         "확진자수": 46,
         "사망자수": 0,
         "완치자수": 45
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "확진자수": 43,
-        "사망자수": 3,
-        "완치자수": 37
     },
     {
         "Name": "Belize",

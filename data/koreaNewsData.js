@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
     },
     {
+        "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 최다 기록 갱신",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5845925_32640.html"
+    },
+    {
         "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 이틀째 60명대",
         "link": "https://www.nocutnews.co.kr/news/5380129"
-    },
-    {
-        "title": "부산 찾은 러시아 선박에서 코로나19 확진자 속출",
-        "link": "https://www.ytn.co.kr/_ln/0115_202007170951488317"
     }
 ];

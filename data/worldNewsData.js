@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/australian-researchers-invent-20-minute-064725254.html"
     },
     {
-        "title": "Coronavirus Live Updates: Newsom Announces Rules Forcing Most California Schools to Start Remotely",
-        "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html"
+        "title": "Analysis: How Evangelical Churches in Brazil Are Using the Coronavirus Crisis",
+        "link": "https://riotimesonline.com/brazil-news/brazil/life-brazil/how-the-evangelical-churches-are-using-the-coronavirus-crisis-in-brazil/"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-edge-closer-to-14-million-as-us-sets-record-case-tally-brazil-tops-2-million-2020-07-17"
     },
     {
-        "title": "Russia's attempt to steal coronavirus vaccine research foreshadows a global 'scramble'",
-        "link": "https://www.nbcnews.com/news/world/russia-s-attempt-steal-coronavirus-vaccine-research-foreshadows-global-scramble-n1234165"
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak as pandemic worsens",
+        "link": "https://www.cnbc.com/2020/07/17/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak-as-pandemic-worsens.html"
     }
 ];
