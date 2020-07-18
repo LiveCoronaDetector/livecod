@@ -17,16 +17,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200718006800071?did=1195m"
     },
     {
-        "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "확진자 사흘 만에 30명대…39명 중 28명 해외발",
         "link": "http://www.yonhapnewstv.co.kr/MYH20200718002200641/?did=1825m"
-    },
-    {
-        "title": "대구서 해외유입 코로나19 확진자 3명 발생",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014815616&code=61122020&cp=nv"
     },
     {
         "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071814582771933"
     },
     {
-        "title": "코로나 확진자 나온 서울 성수고…학생·교직원 388명은 음성",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/18/2020071800840.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "코로나19 하루 확진자 30명대로 떨어져…해외유입 많고 산발적 지역감염 지속",
+        "link": "http://www.dongascience.com/news/view/38310"
+    },
+    {
+        "title": "코로나 19 확진자 발생한 서울 성수고, 학생·교직원 388명은 음성",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800828.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "전남서 코로나19 34번째 확진자 발생…해외입국 50대",
+        "link": "http://www.fnnews.com/news/202007181031398274"
     }
 ];
