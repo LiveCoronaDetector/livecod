@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/iran-estimates-25-million-coronavirus-cases"
     },
     {
-        "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
-        "link": "https://www.cnn.com/2020/07/17/europe/spain-culls-mink-scli-intl/index.html"
+        "title": "Coronavirus spike continues amid new Catalonia restrictions",
+        "link": "https://www.bbc.com/news/world-europe-53458426"
     },
     {
         "title": "Coronavirus: Bollywood actress Aishwarya Rai Bachchan in hospital",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
-        "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
-    },
-    {
         "title": "Former Miss World Aishwarya Rai Bachchan hospitalized with COVID-19",
         "link": "https://nypost.com/2020/07/18/miss-world-aishwarya-rai-bachchan-hospitalized-with-covid-19/"
     },
     {
+        "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
+        "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
+    },
+    {
         "title": "Most of the World May Face Covid Without a Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=dface3f0-c939-11ea-bde6-cb1f8d7293f3&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=14870610-c93e-11ea-959b-cd92fc072e10&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
     }
 ];

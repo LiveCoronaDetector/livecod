@@ -13,6 +13,14 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
+        "title": "제주 25번째 코로나19 확진자 발생…일본서 온 무증상자",
+        "link": "https://www.news1.kr/articles/?3999733"
+    },
+    {
+        "title": "수도권 코로나 확산세 지속…관악구 사무실 6명·성수고 학생 1명 확진",
+        "link": "http://www.hani.co.kr/arti/society/health/954182.html"
+    },
+    {
         "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
         "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나 확진자 동선과 접촉자 공개...한림오일시장 방문 등",
         "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
-    },
-    {
-        "title": "서울 확진자 접촉자 4명 감염에 ‘긴장’…등교중지 결정",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496857&ref=A"
-    },
-    {
-        "title": "서울 광진구 코로나19 확진자 제주 방문해 4명 감염",
-        "link": "http://www.tbs.seoul.kr/news/bunya.do?method=daum_html2&typ_800=7&idx_800=3396656&seq_800=20389233"
     }
 ];
