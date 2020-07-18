@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071829037"
     },
     {
-        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
-        "link": "https://view.asiae.co.kr/article/2020071814582771933"
-    },
-    {
-        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
-    },
-    {
-        "title": "코로나19 확진자 나온 성수고…\"학생 포함 388명 음성\"",
-        "link": "http://yna.kr/AKR20200718033300004?did=1195m"
-    },
-    {
-        "title": "코로나19 어제 신규확진 39명…해외유입 28명·지역발생 11명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/18/2020071890031.html"
+        "title": "코로나19 신규 확진 39명…국내 발생 11명",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5846201_32496.html"
     },
     {
         "title": "당국 \"코로나19 유행의 끝 알 수 없어…위기경보 '심각' 유지\"(종합)",
         "link": "http://yna.kr/AKR20200718038851530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진 39명…국내 발생 11명",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5846201_32496.html"
-    },
-    {
         "title": "WHO “코로나19 신규 확진자 23만7천743명”…일일 기준 최다",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497075&ref=A"
     },
     {
+        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
+        "link": "https://view.asiae.co.kr/article/2020071814582771933"
+    },
+    {
+        "title": "코로나 19 확진자 발생한 서울 성수고, 학생·교직원 388명은 음성",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800828.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "전남서 코로나19 34번째 확진자 발생…해외입국 50대",
         "link": "http://www.fnnews.com/news/202007181031398274"
+    },
+    {
+        "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
     }
 ];
