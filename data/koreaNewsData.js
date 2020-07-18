@@ -21,6 +21,14 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "확진자 사흘 만에 30명대…39명 중 28명 해외발",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200718002200641/?did=1825m"
+    },
+    {
+        "title": "대구서 해외유입 코로나19 확진자 3명 발생",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014815616&code=61122020&cp=nv"
+    },
+    {
         "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
     },
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020071814582771933"
     },
     {
-        "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
-        "link": "http://www.fnnews.com/news/202007181454304153"
-    },
-    {
         "title": "코로나 확진자 나온 서울 성수고…학생·교직원 388명은 음성",
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/18/2020071800840.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "전 세계 확진자 폭증하는데…‘도쿄올림픽’ 종목·경기수 그대로",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990071?division=NAVER"
     }
 ];

@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/israel-new-coronavirus-restrictions"
     },
     {
-        "title": "Coronavirus: Spain orders culling of almost 100,000 mink",
-        "link": "https://www.bbc.com/news/world-europe-53439263"
+        "title": "Italy Finds Tens of Thousands of COVID-19 Cases—Literally at Random",
+        "link": "https://www.thedailybeast.com/italy-finds-tens-of-thousands-of-covid-19-casesliterally-at-random"
     },
     {
         "title": "India Now Has More Than 1 Million Confirmed Coronavirus Cases : Coronavirus Live Updates",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
-        "title": "Hear what Fauci's boss would do if asked by Trump to fire him",
-        "link": "https://www.cnn.com/videos/health/2020/07/17/francis-collins-anthony-fauci-boss-fire-white-house-nih-coronavirus-tsr-vpx.cnn"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-18-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
         "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8c633ac0-c8c4-11ea-8709-27ef00c92b01&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b44beab0-c8c8-11ea-a795-61b86083062b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+    },
+    {
+        "title": "For first time, world records one million coronavirus cases in 100 hours: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-18-20-intl/index.html"
     }
 ];
