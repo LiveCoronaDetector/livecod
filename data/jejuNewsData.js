@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007171104298774"
     },
     {
-        "title": "해열제 먹어가며 제주여행…제주 접촉자 1명 코로나19 확진",
-        "link": "https://news.joins.com/article/olink/23421710"
-    },
-    {
         "title": "마스크 안쓰고 해열제복용 제주 방문 확진자, n차감염 촉발(종합)",
         "link": "http://yna.kr/AKR20200717067451056?did=1195m"
+    },
+    {
+        "title": "서울 확진자 접촉자 4명 감염에 ‘긴장’…등교중지 결정",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496857&ref=A"
     }
 ];
