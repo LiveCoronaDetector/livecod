@@ -5,16 +5,28 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200718038851530?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 39명 증가...해외 28명, 서울 6명, 경기 2명",
-        "link": "http://www.fnnews.com/news/202007181013037006"
-    },
-    {
         "title": "코로나19 신규 확진 39명…국내 발생 11명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5846201_32496.html"
     },
     {
+        "title": "코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
+        "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
+    },
+    {
+        "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
+        "link": "http://www.fnnews.com/news/202007181454304153"
+    },
+    {
+        "title": "광주서 확진자 7명 추가 발생…\"송파구 60번과 식사 모임\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180052&t=NN"
+    },
+    {
         "title": "WHO “코로나19 신규 확진자 23만7천743명”…일일 기준 최다",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497075&ref=A"
+    },
+    {
+        "title": "코로나 19 확진자 발생한 서울 성수고, 학생·교직원 388명은 음성",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800828.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
@@ -25,19 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007181031398274"
     },
     {
-        "title": "[종합] '서울 송파 60번'과 식사한 후…광주 7명 코로나 감염",
-        "link": "https://www.hankyung.com/society/article/2020071829037"
-    },
-    {
-        "title": "‘송파 60번 확진자 접촉’ 광주 코로나19 신규 확진자 9명 집계 (종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500055&wlog_tag3=naver"
-    },
-    {
-        "title": "제주 25번째 코로나19 확진자 발생…일본서 온 무증상자",
-        "link": "https://www.news1.kr/articles/?3999733"
-    },
-    {
-        "title": "서울 확진자 광주 친인척 9명 코로나19 확진",
-        "link": "http://www.gjdream.com/news/articleView.html?idxno=601212"
+        "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

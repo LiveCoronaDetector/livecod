@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
     },
     {
-        "title": "수도권 일일확진자 주간 평균 40명 넘으면 거리두기 2단계",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200717000533"
-    },
-    {
         "title": "제주여행 온 서울 확진자, 60명 접촉…4명, 2차 감염",
         "link": "http://www.fnnews.com/news/202007171104298774"
+    },
+    {
+        "title": "제주 추가 확진자 없어…지역 감염 우려 여전",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497164&ref=A"
     }
 ];
