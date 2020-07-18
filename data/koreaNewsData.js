@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5845925_32640.html"
     },
     {
+        "title": "전남 34번째 코로나19 확진자 발생…이라크 입국자",
+        "link": "https://www.news1.kr/articles/?3999582"
+    },
+    {
         "title": "대구서 해외 입국 코로나19 확진자 3명 추가",
         "link": "http://yna.kr/AKR20200718027100053?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "전남서 33번째 코로나19 확진자 발생...해외입국 50대",
         "link": "http://www.fnnews.com/news/202007170829587209"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 60명…지역사회 21명, 국외유입 39명",
-        "link": "http://www.hani.co.kr/arti/society/health/954067.html"
     }
 ];
