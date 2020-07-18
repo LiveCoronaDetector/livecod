@@ -26,18 +26,18 @@ var worldNewsData = [
     },
     {
         "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ba6dafc0-c89e-11ea-93f6-4b328a1a6ca1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0a2ae830-c8a3-11ea-b405-2b7af00d8a31&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "Coronavirus: Donald Trump vows not to order Americans to wear masks",
-        "link": "https://www.bbc.com/news/world-us-canada-53453468"
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak as pandemic worsens",
+        "link": "https://www.cnbc.com/2020/07/17/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak-as-pandemic-worsens.html"
     },
     {
-        "title": "Covid-19 Update: Victorian Premier Daniel Andrews | SBS News",
-        "link": "https://www.youtube.com/watch?v=gAMBcvBVSWs"
+        "title": "Coronavirus update: Global cases of COVID-19 edge closer to 14 million as U.S. sets record case tally, Brazil tops 2 million",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-edge-closer-to-14-million-as-us-sets-record-case-tally-brazil-tops-2-million-2020-07-17"
     }
 ];

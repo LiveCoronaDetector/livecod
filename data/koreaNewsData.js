@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01443206625835832"
     },
     {
-        "title": "코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
-        "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
-    },
-    {
         "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 최다 기록 갱신",
         "link": "https://imnews.imbc.com/news/2020/world/article/5845925_32640.html"
-    },
-    {
-        "title": "대구서 우즈베키스탄 입국 가족 3명 코로나19 확진…경북 12일째 ‘0’(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007180026"
-    },
-    {
-        "title": "美 코로나19 하루 신규 확진자 또 7만5천여 명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497152&ref=A"
     },
     {
         "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
     },
     {
+        "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "전남서 33번째 코로나19 확진자 발생...해외입국 50대",
         "link": "http://www.fnnews.com/news/202007170829587209"
     },
     {
-        "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
-        "link": "http://yna.kr/AKR20200717012100056?did=1195m"
+        "title": "[속보] 코로나 신규 확진자 60명…지역사회 21명, 국외유입 39명",
+        "link": "http://www.hani.co.kr/arti/society/health/954067.html"
+    },
+    {
+        "title": "북한, \"'코로나19' 백신 개발해 임상시험 시작\" 주장",
+        "link": "https://www.ytn.co.kr/_ln/0101_202007180955379650"
+    },
+    {
+        "title": "'마스크의 위력'…확진자와 같이 예배 본 교인 9천명 모두 음성",
+        "link": "http://yna.kr/AKR20200717102200530?did=1195m"
     }
 ];
