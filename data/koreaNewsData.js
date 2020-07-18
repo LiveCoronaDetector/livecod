@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
     },
     {
-        "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 기준 최다",
-        "link": "http://yna.kr/AKR20200718006800071?did=1195m"
+        "title": "코로나19 확진자 나온 성수고…\"학생 포함 388명 음성\"",
+        "link": "http://yna.kr/AKR20200718033300004?did=1195m"
     },
     {
-        "title": "확진자 사흘 만에 30명대…39명 중 28명 해외발",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20200718002200641/?did=1825m"
+        "title": "대구서 해외유입 코로나19 확진자 3명 발생",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014815616&code=61122020&cp=nv"
     },
     {
-        "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
+        "title": "WHO “코로나19 신규 확진자 23만7천743명”…일일 기준 최다",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497075&ref=A"
     },
     {
-        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
-        "link": "https://view.asiae.co.kr/article/2020071814582771933"
+        "title": "미국 코로나19 신규환자 7만5천여 명…확산세 여전",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005889274&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나19 하루 확진자 30명대로 떨어져…해외유입 많고 산발적 지역감염 지속",
-        "link": "http://www.dongascience.com/news/view/38310"
-    },
-    {
-        "title": "코로나 19 확진자 발생한 서울 성수고, 학생·교직원 388명은 음성",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800828.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[경남] '해외유입' 코로나19 확진자 발생, 창원 10대 남성",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002659368&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "전남서 코로나19 34번째 확진자 발생…해외입국 50대",
         "link": "http://www.fnnews.com/news/202007181031398274"
+    },
+    {
+        "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
     }
 ];

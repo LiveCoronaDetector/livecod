@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/israel-new-coronavirus-restrictions"
     },
     {
-        "title": "Coronavirus: Spain orders culling of almost 100,000 mink",
-        "link": "https://www.bbc.com/news/world-europe-53439263"
+        "title": "Italy Finds Tens of Thousands of COVID-19 Cases—Literally at Random",
+        "link": "https://www.thedailybeast.com/italy-finds-tens-of-thousands-of-covid-19-casesliterally-at-random"
     },
     {
         "title": "India Now Has More Than 1 Million Confirmed Coronavirus Cases : Coronavirus Live Updates",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
+        "title": "Trump faces rising disapproval and widespread distrust on coronavirus, Post-ABC poll finds",
+        "link": "https://www.washingtonpost.com/politics/trump-faces-rising-disapproval-and-widespread-distrust-on-coronavirus-post-abc-poll-finds/2020/07/16/04aa9db2-c79d-11ea-a99f-3bbdffb1af38_story.html"
+    },
+    {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
     },
     {
-        "title": "U.S. Coronavirus Cases Hit Another Daily Record as State GOP Officials Target Mask Orders",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-updates-07-17-2020-11594976178"
-    },
-    {
-        "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
-        "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
+        "title": "Coronavirus: 'Vaccine produced in UK for fear US will take it'",
+        "link": "https://www.youtube.com/watch?v=LKlioK3Lmc8"
     }
 ];
