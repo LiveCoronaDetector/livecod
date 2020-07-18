@@ -29,8 +29,8 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
     },
     {
-        "title": "제주지역 25번째 코로나19 확진자 발생... 일본서 입국",
-        "link": "http://www.ihalla.com/read.php3?aid=1595064259687806073"
+        "title": "제주도 “서울시, 확진자 접촉자 관리 누락 해명 유감”",
+        "link": "http://www.newsis.com/view/?id=NISX20200718_0001099804&cID=10813&pID=10800"
     },
     {
         "title": "수도권 일일확진자 주간 평균 40명 넘으면 거리두기 2단계",
