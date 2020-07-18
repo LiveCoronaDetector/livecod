@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/australian-researchers-invent-20-minute-064725254.html"
     },
     {
-        "title": "Analysis: How Evangelical Churches in Brazil Are Using the Coronavirus Crisis",
-        "link": "https://riotimesonline.com/brazil-news/brazil/life-brazil/how-the-evangelical-churches-are-using-the-coronavirus-crisis-in-brazil/"
+        "title": "Coronavirus Live Updates: Newsom Announces Rules Forcing Most California Schools to Start Remotely",
+        "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html"
+    },
+    {
+        "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a8a84520-c88f-11ea-b224-9117030f1b5d&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus update: Global cases of COVID-19 edge closer to 14 million as U.S. sets record case tally, Brazil tops 2 million",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-edge-closer-to-14-million-as-us-sets-record-case-tally-brazil-tops-2-million-2020-07-17"
-    },
-    {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak as pandemic worsens",
-        "link": "https://www.cnbc.com/2020/07/17/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak-as-pandemic-worsens.html"
     }
 ];
