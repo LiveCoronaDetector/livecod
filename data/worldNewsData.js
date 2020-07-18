@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/africa/article/3093354/coronavirus-after-surge-cases-south-africa-becomes-africas-clear"
     },
     {
-        "title": "Brazil's coronavirus chaos provides a global laboratory for the vaccine race",
-        "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
+        "title": "Coronavirus: Donald Trump vows not to order Americans to wear masks",
+        "link": "https://www.bbc.com/news/world-us-canada-53453468"
     },
     {
-        "title": "Israel imposes sweeping new coronavirus restrictions",
-        "link": "https://www.foxnews.com/world/israel-new-coronavirus-restrictions"
+        "title": "Israel reimposes sweeping restrictions after surge in coronavirus cases",
+        "link": "https://www.nbcnews.com/news/world/israel-re-imposes-sweeping-lockdown-restrictions-after-surge-coronavirus-cases-n1234135"
     },
     {
         "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
-        "title": "What is Antifa?",
-        "link": "https://www.youtube.com/watch?v=pnbctP-Cco8"
+        "title": "Hear what Fauci's boss would do if asked by Trump to fire him",
+        "link": "https://www.cnn.com/videos/health/2020/07/17/francis-collins-anthony-fauci-boss-fire-white-house-nih-coronavirus-tsr-vpx.cnn"
     },
     {
         "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=262a1380-c8bc-11ea-90b8-495ea2a42299&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4a3cb530-c8c0-11ea-8a78-8365788050dd&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",

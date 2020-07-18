@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007171147277463"
     },
     {
+        "title": "수도권 확진자 계속 나오는중…관악구 사무실 6명 추가",
+        "link": "https://www.hankyung.com/society/article/2020071829637"
+    },
+    {
         "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     },
@@ -27,10 +31,6 @@ var jejuNewsData = [
     {
         "title": "신규 확진자 60명…'서울→제주' 여름 휴가철 방역 비상(종합)",
         "link": "https://www.news1.kr/articles/?3998793"
-    },
-    {
-        "title": "제주도 코로나 19 확산 우려 병상 추가 확보 나서",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200717500112&wlog_tag3=naver"
     },
     {
         "title": "제주여행 온 서울 확진자, 60명 접촉…4명, 2차 감염",
