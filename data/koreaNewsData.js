@@ -9,24 +9,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
     },
     {
-        "title": "당국 \"코로나19 유행의 끝 알 수 없어…위기경보 '심각' 유지\"(종합)",
-        "link": "http://yna.kr/AKR20200718038851530?did=1195m"
-    },
-    {
         "title": "광주서 확진자 7명 추가 발생…\"송파구 60번과 식사 모임\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180052&t=NN"
-    },
-    {
-        "title": "코로나 19 확진자 발생한 서울 성수고, 학생·교직원 388명은 음성",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800828.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "전남서 코로나19 34번째 확진자 발생…해외입국 50대",
         "link": "http://www.fnnews.com/news/202007181031398274"
     },
     {
-        "title": "WHO “코로나19 신규 확진자 23만7천743명”…일일 기준 최다",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497075&ref=A"
+        "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 기준 최다",
+        "link": "http://yna.kr/AKR20200718006800071?did=1195m"
+    },
+    {
+        "title": "“코로나 유행 끝 언제인지 몰라… 여전히 ‘심각’ 단계”",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014816121&code=61121911&cp=nv"
     },
     {
         "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "수도권 지역감염 이어져, 일일 확진자 수 39명",
         "link": "https://www.nocutnews.co.kr/news/5380583"
+    },
+    {
+        "title": "제주 코로나 비상…25번째 확진자는 일본서 입국",
+        "link": "https://www.hankyung.com/society/article/2020071831107"
     }
 ];

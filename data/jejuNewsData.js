@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007171147277463"
     },
     {
-        "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
-        "link": "http://yna.kr/AKR20200717012100056?did=1195m"
+        "title": "광진구 코로나19 확진자에 제주 2차감염 '확산'",
+        "link": "https://www.nocutnews.co.kr/news/5379993"
     },
     {
         "title": "제주 코로나 확진자 동선과 접촉자 공개...한림오일시장 방문 등",
         "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
     },
     {
-        "title": "제주여행 온 서울 확진자, 60명 접촉…4명, 2차 감염",
-        "link": "http://www.fnnews.com/news/202007171104298774"
+        "title": "서울 확진자 접촉자 4명 감염에 ‘긴장’…등교중지 결정",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496857&ref=A"
     },
     {
-        "title": "제주 추가 확진자 없어…지역 감염 우려 여전",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497164&ref=A"
+        "title": "서울 광진구 코로나19 확진자 제주 방문해 4명 감염",
+        "link": "http://www.tbs.seoul.kr/news/bunya.do?method=daum_html2&typ_800=7&idx_800=3396656&seq_800=20389233"
     }
 ];

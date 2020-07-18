@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
-        "title": "Coronavirus: Worldwide COVID-19 case toll quickly nearing 14 million",
-        "link": "https://www.youtube.com/watch?v=g3NA-rmqkCg"
+        "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
+        "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
     },
     {
         "title": "U.S. Reports More Than 70,000 New Coronavirus Cases for the Second Time",
         "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html"
     },
     {
-        "title": "For first time, world records one million coronavirus cases in 100 hours: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
-    },
-    {
         "title": "Brazil's coronavirus chaos provides a global laboratory for the vaccine race",
         "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
+    },
+    {
+        "title": "Coronavirus symptoms fall into six different groupings, study finds",
+        "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     }
 ];
