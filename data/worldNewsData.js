@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
     },
     {
-        "title": "Coronavirus: 'Vaccine produced in UK for fear US will take it'",
-        "link": "https://www.youtube.com/watch?v=LKlioK3Lmc8"
+        "title": "Brazil Tops 2 Million Covid-19 Cases",
+        "link": "https://www.youtube.com/watch?v=NsJ4NGYS2aE"
     },
     {
         "title": "U.S. Coronavirus Cases Hit Another Daily Record as State GOP Officials Target Mask Orders",

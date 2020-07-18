@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     },
     {
-        "title": "제주 코로나 확진자 동선과 접촉자 공개...한림오일시장 방문 등",
-        "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
-    },
-    {
         "title": "제주도 “서울시, 확진자 접촉자 관리 누락 해명 유감”",
         "link": "http://www.newsis.com/view/?id=NISX20200718_0001099804&cID=10813&pID=10800"
+    },
+    {
+        "title": "제주 코로나 확진자 동선과 접촉자 공개...한림오일시장 방문 등",
+        "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
     },
     {
         "title": "수도권 일일확진자 주간 평균 40명 넘으면 거리두기 2단계",

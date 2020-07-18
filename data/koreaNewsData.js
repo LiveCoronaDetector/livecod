@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071829037"
     },
     {
-        "title": "코로나19 확진자 나온 성수고…\"학생 포함 388명 음성\"",
-        "link": "http://yna.kr/AKR20200718033300004?did=1195m"
+        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
+        "link": "https://view.asiae.co.kr/article/2020071814582771933"
     },
     {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
-        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
-        "link": "https://view.asiae.co.kr/article/2020071814582771933"
+        "title": "코로나19 확진자 나온 성수고…\"학생 포함 388명 음성\"",
+        "link": "http://yna.kr/AKR20200718033300004?did=1195m"
     },
     {
         "title": "코로나19 어제 신규확진 39명…해외유입 28명·지역발생 11명",
