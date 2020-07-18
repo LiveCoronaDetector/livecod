@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497075&ref=A"
     },
     {
-        "title": "코로나 19 확진자 발생한 서울 성수고, 학생·교직원 388명은 음성",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800828.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
         "link": "https://view.asiae.co.kr/article/2020071814582771933"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007181031398274"
     },
     {
-        "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
-    },
-    {
         "title": "[종합] '서울 송파 60번'과 식사한 후…광주 7명 코로나 감염",
         "link": "https://www.hankyung.com/society/article/2020071829037"
+    },
+    {
+        "title": "‘송파 60번 확진자 접촉’ 광주 코로나19 신규 확진자 9명 집계 (종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500055&wlog_tag3=naver"
+    },
+    {
+        "title": "제주 25번째 코로나19 확진자 발생…일본서 온 무증상자",
+        "link": "https://www.news1.kr/articles/?3999733"
+    },
+    {
+        "title": "서울 확진자 광주 친인척 9명 코로나19 확진",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=601212"
     }
 ];
