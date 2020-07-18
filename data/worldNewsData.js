@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
-        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
-        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
-    },
-    {
-        "title": "EU leaders discuss COVID funding deal in first face-to-face summit since pandemic | World News",
-        "link": "https://www.youtube.com/watch?v=uwB-Nz-S9JM"
+        "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
+        "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
     },
     {
         "title": "Former Miss World Aishwarya Rai Bachchan hospitalized with COVID-19",
@@ -38,6 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Most of the World May Face Covid Without a Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4136e790-c92d-11ea-ba52-cb55ac2c8dbb&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=80f26090-c931-11ea-bb3d-15999fb55e8c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
+    },
+    {
+        "title": "U.S. Reports More Than 70,000 New Coronavirus Cases for the Second Time",
+        "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html"
     }
 ];
