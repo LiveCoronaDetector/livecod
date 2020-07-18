@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5845925_32640.html"
     },
     {
-        "title": "전남서 33번째 코로나19 확진자 발생...해외입국 50대",
-        "link": "http://www.fnnews.com/news/202007170829587209"
-    },
-    {
         "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
+    },
+    {
+        "title": "전남서 33번째 코로나19 확진자 발생...해외입국 50대",
+        "link": "http://www.fnnews.com/news/202007170829587209"
     },
     {
         "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
