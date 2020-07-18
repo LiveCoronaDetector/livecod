@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53453468"
     },
     {
-        "title": "Israel reimposes sweeping restrictions after surge in coronavirus cases",
-        "link": "https://www.nbcnews.com/news/world/israel-re-imposes-sweeping-lockdown-restrictions-after-surge-coronavirus-cases-n1234135"
+        "title": "Israel imposes sweeping new coronavirus restrictions",
+        "link": "https://www.foxnews.com/world/israel-new-coronavirus-restrictions"
     },
     {
-        "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
-        "link": "https://www.cnn.com/2020/07/17/europe/spain-culls-mink-scli-intl/index.html"
+        "title": "Coronavirus: Spain orders culling of almost 100,000 mink",
+        "link": "https://www.bbc.com/news/world-europe-53439263"
     },
     {
         "title": "India Now Has More Than 1 Million Confirmed Coronavirus Cases : Coronavirus Live Updates",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/07/17/francis-collins-anthony-fauci-boss-fire-white-house-nih-coronavirus-tsr-vpx.cnn"
     },
     {
-        "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4a3cb530-c8c0-11ea-8a78-8365788050dd&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-18-20-intl/index.html"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "For first time, world records one million coronavirus cases in 100 hours: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
+        "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8c633ac0-c8c4-11ea-8709-27ef00c92b01&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
     }
 ];
