@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5846201_32496.html"
     },
     {
-        "title": "당국 \"코로나19 유행의 끝 알 수 없어…위기경보 '심각' 유지\"(종합)",
-        "link": "http://yna.kr/AKR20200718038851530?did=1195m"
-    },
-    {
         "title": "코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
         "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
+    },
+    {
+        "title": "당국 \"코로나19 유행의 끝 알 수 없어…위기경보 '심각' 유지\"(종합)",
+        "link": "http://yna.kr/AKR20200718038851530?did=1195m"
     },
     {
         "title": "광주서 확진자 7명 추가 발생…\"송파구 60번과 식사 모임\"",
