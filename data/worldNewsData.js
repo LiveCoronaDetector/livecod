@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/17/892275311/india-surpasses-1-million-confirmed-coronavirus-cases"
     },
     {
-        "title": "Australian researchers invent 20-minute coronavirus blood test",
-        "link": "https://news.yahoo.com/australian-researchers-invent-20-minute-064725254.html"
+        "title": "State Department releases cable that launched claims that coronavirus escaped from Chinese lab",
+        "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
         "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=23ad6040-c8a7-11ea-98d8-b1ea90e886cf&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6974da50-c8ab-11ea-97f5-a1fd2788d692&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+    },
+    {
+        "title": "What is Antifa?",
+        "link": "https://www.youtube.com/watch?v=pnbctP-Cco8"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "For first time, world records one million coronavirus cases in 100 hours: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
-    },
-    {
-        "title": "Aishwarya Rai Bachchan: Indian actress taken to hospital with Covid-19",
-        "link": "https://news.yahoo.com/aishwarya-rai-bachchan-indian-actress-221534249.html"
     }
 ];
