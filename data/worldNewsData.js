@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/18/coronavirus-updates-us-infections-top-76000-day-virus-spread-continues-unabated/"
     },
     {
-        "title": "Israel imposes sweeping new coronavirus restrictions",
-        "link": "https://www.foxnews.com/world/israel-new-coronavirus-restrictions"
+        "title": "Iran estimates up to 25 million coronavirus cases since outbreak; nearly doubling the total worldwide caseload: report",
+        "link": "https://www.foxnews.com/world/iran-estimates-25-million-coronavirus-cases"
     },
     {
         "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
         "link": "https://www.cnn.com/2020/07/17/europe/spain-culls-mink-scli-intl/index.html"
     },
     {
-        "title": "India Now Has More Than 1 Million Confirmed Coronavirus Cases : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/17/892275311/india-surpasses-1-million-confirmed-coronavirus-cases"
+        "title": "Coronavirus: Bollywood actress Aishwarya Rai Bachchan in hospital",
+        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-bollywood-actress-aishwarya-rai-bachchan-hospital-200718085330695.html"
     },
     {
         "title": "State Department releases cable that launched claims that coronavirus escaped from Chinese lab",
