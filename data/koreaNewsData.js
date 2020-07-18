@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
     },
     {
-        "title": "[종합] '서울 송파 60번'과 식사한 후…광주 7명 코로나 감염",
-        "link": "https://www.hankyung.com/society/article/2020071829037"
-    },
-    {
         "title": "수도권 지역감염 이어져, 일일 확진자 수 39명",
         "link": "https://www.nocutnews.co.kr/news/5380583"
+    },
+    {
+        "title": "제주 코로나 비상…25번째 확진자는 일본서 입국",
+        "link": "https://www.hankyung.com/society/article/2020071831107"
     }
 ];

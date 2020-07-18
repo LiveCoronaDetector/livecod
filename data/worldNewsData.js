@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/18/coronavirus-updates-us-infections-top-76000-day-virus-spread-continues-unabated/"
     },
     {
-        "title": "LIVE: Rouhani says 35 million Iranians face coronavirus infection",
-        "link": "https://www.aljazeera.com/news/2020/07/trump-rules-national-mask-mandate-coronavirus-live-updates-200718002639885.html"
+        "title": "Israel imposes sweeping new coronavirus restrictions",
+        "link": "https://www.foxnews.com/world/israel-new-coronavirus-restrictions"
     },
     {
         "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
         "link": "https://www.cnn.com/2020/07/17/europe/spain-culls-mink-scli-intl/index.html"
     },
     {
-        "title": "Coronavirus: Bollywood actress Aishwarya Rai Bachchan in hospital",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-bollywood-actress-aishwarya-rai-bachchan-hospital-200718085330695.html"
+        "title": "India Now Has More Than 1 Million Confirmed Coronavirus Cases : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/17/892275311/india-surpasses-1-million-confirmed-coronavirus-cases"
     },
     {
         "title": "State Department releases cable that launched claims that coronavirus escaped from Chinese lab",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.pbs.org/newshour/health/remote-region-of-brazils-amazon-experiences-first-deaths-by-coronavirus"
     },
     {
-        "title": "Coronavirus symptoms fall into six different groupings, study finds",
-        "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
+        "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
+        "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
     }
 ];
