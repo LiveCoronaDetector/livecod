@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/israel-new-coronavirus-restrictions"
     },
     {
-        "title": "Italy Finds Tens of Thousands of COVID-19 Cases—Literally at Random",
-        "link": "https://www.thedailybeast.com/italy-finds-tens-of-thousands-of-covid-19-casesliterally-at-random"
+        "title": "Spain orders cull of nearly 100,000 farmed mink after animals test positive for Covid-19",
+        "link": "https://www.cnn.com/2020/07/17/europe/spain-culls-mink-scli-intl/index.html"
     },
     {
         "title": "India Now Has More Than 1 Million Confirmed Coronavirus Cases : Coronavirus Live Updates",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
     },
     {
-        "title": "Coronavirus symptoms fall into six different groupings, study finds",
-        "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
-    },
-    {
         "title": "Remote region of Brazil’s Amazon experiences first deaths by coronavirus",
         "link": "https://www.pbs.org/newshour/health/remote-region-of-brazils-amazon-experiences-first-deaths-by-coronavirus"
     },
     {
-        "title": "U.S. Coronavirus Cases Hit Another Daily Record as State GOP Officials Target Mask Orders",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-updates-07-17-2020-11594976178"
+        "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
+        "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
+    },
+    {
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak as pandemic worsens",
+        "link": "https://www.cnbc.com/2020/07/17/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak-as-pandemic-worsens.html"
     }
 ];

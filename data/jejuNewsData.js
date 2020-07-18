@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
+        "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
+        "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
+    },
+    {
         "title": "코로나19 확진자 발생 제주 한림읍 전 학교 원격수업 전환",
         "link": "http://yna.kr/AKR20200717008400056?did=1195m"
     },
@@ -21,23 +25,19 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007171147277463"
     },
     {
-        "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
-        "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
-    },
-    {
-        "title": "제주 추가 확진자 없어…지역 감염 우려 여전",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497164&ref=A"
-    },
-    {
-        "title": "제주 방문 코로나19 확진자…\"11일부터 증상 해열제 복용\"",
-        "link": "https://www.hankyung.com/society/article/2020071683227"
-    },
-    {
         "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     },
     {
+        "title": "제주 코로나 확진자 동선과 접촉자 공개...한림오일시장 방문 등",
+        "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
+    },
+    {
         "title": "수도권 일일확진자 주간 평균 40명 넘으면 거리두기 2단계",
         "link": "http://news.heraldcorp.com/view.php?ud=20200717000533"
+    },
+    {
+        "title": "제주여행 온 서울 확진자, 60명 접촉…4명, 2차 감염",
+        "link": "http://www.fnnews.com/news/202007171104298774"
     }
 ];
