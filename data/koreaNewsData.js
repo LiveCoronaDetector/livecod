@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007181013037006"
     },
     {
-        "title": "[속보] 코로나19, 39명 늘어 1만3,711명…해외유입 28명·지역 11명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180036&t=NN"
+        "title": "일일 확진자 수 사흘만에 30명대로…산발적 지역감염 지속 [종합]",
+        "link": "https://www.hankyung.com/society/article/2020071826877"
     },
     {
         "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 최다 기록 갱신",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5845925_32640.html"
-    },
-    {
         "title": "전남 34번째 코로나19 확진자 발생…이라크 입국자",
         "link": "https://www.news1.kr/articles/?3999582"
+    },
+    {
+        "title": "코로나19 지역발생 11명·해외유입 28명…수도권 집중(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01443206625835832"
     },
     {
         "title": "대구서 해외 입국 코로나19 확진자 3명 추가",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497152&ref=A"
     },
     {
+        "title": "[종합] '서울 송파 60번'과 식사한 후…광주 7명 코로나 감염",
+        "link": "https://www.hankyung.com/society/article/2020071829037"
+    },
+    {
+        "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 최다 기록 갱신",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5845925_32640.html"
+    },
+    {
         "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
-    },
-    {
-        "title": "코로나19 지역발생 11명·해외유입 28명…수도권 집중(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01443206625835832"
-    },
-    {
-        "title": "전남서 33번째 코로나19 확진자 발생...해외입국 50대",
-        "link": "http://www.fnnews.com/news/202007170829587209"
     }
 ];

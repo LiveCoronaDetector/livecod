@@ -30,7 +30,7 @@ var worldNewsData = [
     },
     {
         "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f55992c0-c8b7-11ea-b922-936681b02af3&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=262a1380-c8bc-11ea-90b8-495ea2a42299&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
