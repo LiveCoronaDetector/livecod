@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
-        "title": "Remote region of Brazil’s Amazon experiences first deaths by coronavirus",
-        "link": "https://www.pbs.org/newshour/health/remote-region-of-brazils-amazon-experiences-first-deaths-by-coronavirus"
-    },
-    {
-        "title": "Coronavirus symptoms fall into six different groupings, study finds",
-        "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
+        "title": "U.S. Reports More Than 70,000 New Coronavirus Cases for the Second Time",
+        "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html"
     },
     {
         "title": "For first time, world records one million coronavirus cases in 100 hours: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/for-first-time-world-records-one-million-coronavirus-cases-in-100-hours-reuters-tally-idUSKCN24I2W9"
     },
     {
-        "title": "U.S. Coronavirus Cases Hit Another Daily Record as State GOP Officials Target Mask Orders",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-updates-07-17-2020-11594976178"
+        "title": "Remote region of Brazil’s Amazon experiences first deaths by coronavirus",
+        "link": "https://www.pbs.org/newshour/health/remote-region-of-brazils-amazon-experiences-first-deaths-by-coronavirus"
+    },
+    {
+        "title": "Coronavirus symptoms fall into six different groupings, study finds",
+        "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     }
 ];
