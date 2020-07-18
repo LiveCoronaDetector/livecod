@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
     },
     {
-        "title": "Former Miss World Aishwarya Rai Bachchan hospitalized with COVID-19",
-        "link": "https://nypost.com/2020/07/18/miss-world-aishwarya-rai-bachchan-hospitalized-with-covid-19/"
+        "title": "Most of the World May Face Covid Without a Vaccine",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a6879e10-c94a-11ea-9263-c3ecf07a5f61&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
     },
     {
-        "title": "Most of the World May Face Covid Without a Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6588cfa0-c946-11ea-8235-c506dd3e66be&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
+        "title": "Former Miss World Aishwarya Rai Bachchan hospitalized with COVID-19",
+        "link": "https://nypost.com/2020/07/18/miss-world-aishwarya-rai-bachchan-hospitalized-with-covid-19/"
     }
 ];
