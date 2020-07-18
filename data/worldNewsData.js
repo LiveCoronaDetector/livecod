@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
+        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
+        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
+    },
+    {
         "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
         "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
     },
@@ -34,10 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Most of the World May Face Covid Without a Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=af1833b0-c935-11ea-9660-ada654dd732e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
-    },
-    {
-        "title": "U.S. Reports More Than 70,000 New Coronavirus Cases for the Second Time",
-        "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=dface3f0-c939-11ea-bde6-cb1f8d7293f3&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
     }
 ];

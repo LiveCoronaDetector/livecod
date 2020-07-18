@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
     },
     {
+        "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
+        "link": "http://www.fnnews.com/news/202007181454304153"
+    },
+    {
         "title": "광주서 확진자 7명 추가 발생…\"송파구 60번과 식사 모임\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180052&t=NN"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
-    },
-    {
-        "title": "수도권 지역감염 이어져, 일일 확진자 수 39명",
-        "link": "https://www.nocutnews.co.kr/news/5380583"
     },
     {
         "title": "제주 코로나 비상…25번째 확진자는 일본서 입국",
