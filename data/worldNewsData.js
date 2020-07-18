@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "Coronavirus: 'Vaccine produced in UK for fear US will take it'",
-        "link": "https://www.youtube.com/watch?v=LKlioK3Lmc8"
+        "title": "Remote region of Brazil’s Amazon experiences first deaths by coronavirus",
+        "link": "https://www.pbs.org/newshour/health/remote-region-of-brazils-amazon-experiences-first-deaths-by-coronavirus"
     },
     {
-        "title": "Rouhani says 25 million Iranians infected with COVID-19",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-iran/rouhani-says-25-million-iranians-infected-with-covid-19-idUSKBN24J07V"
+        "title": "U.S. Coronavirus Cases Hit Another Daily Record as State GOP Officials Target Mask Orders",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-updates-07-17-2020-11594976178"
     }
 ];

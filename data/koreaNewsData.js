@@ -5,6 +5,26 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007181013037006"
     },
     {
+        "title": "코로나19 확진자 나온 성수고…\"학생 포함 388명 음성\"",
+        "link": "http://yna.kr/AKR20200718033300004?did=1195m"
+    },
+    {
+        "title": "[종합] '서울 송파 60번'과 식사한 후…광주 7명 코로나 감염",
+        "link": "https://www.hankyung.com/society/article/2020071829037"
+    },
+    {
+        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+    },
+    {
+        "title": "대전, 코로나19 확진자 추가 발생... 확진자 가족",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002659425&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "\"살균 표백제가 코로나 치료\" 소문…볼리비아 무슨 일?",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005889595&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "당국 \"코로나19 유행의 끝 알 수 없어…위기경보 '심각' 유지\"(종합)",
         "link": "http://yna.kr/AKR20200718038851530?did=1195m"
     },
@@ -13,31 +33,11 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5846201_32496.html"
     },
     {
-        "title": "[종합] '서울 송파 60번'과 식사한 후…광주 7명 코로나 감염",
-        "link": "https://www.hankyung.com/society/article/2020071829037"
+        "title": "대구서 해외유입 코로나19 확진자 3명 발생",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014815616&code=61122020&cp=nv"
     },
     {
-        "title": "WHO “코로나19 신규 확진자 23만7천743명”…일일 기준 최다",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497075&ref=A"
-    },
-    {
-        "title": "코로나 19 확진자 발생한 서울 성수고, 학생·교직원 388명은 음성",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800828.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
-        "link": "https://view.asiae.co.kr/article/2020071814582771933"
-    },
-    {
-        "title": "전남서 코로나19 34번째 확진자 발생…해외입국 50대",
-        "link": "http://www.fnnews.com/news/202007181031398274"
-    },
-    {
-        "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
+        "title": "전남 34번째 코로나19 확진자 발생…이라크 입국자",
+        "link": "https://www.news1.kr/articles/?3999582"
     }
 ];
