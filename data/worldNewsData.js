@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/18/latest_news/1595050761_231308.html"
     },
     {
-        "title": "Coronavirus updates: U.S. infections top 76,000 in a day as virus’s spread continues unabated",
-        "link": "https://www.washingtonpost.com/nation/2020/07/18/coronavirus-updates-us-infections-top-76000-day-virus-spread-continues-unabated/"
+        "title": "Coronavirus: Donald Trump vows not to order Americans to wear masks",
+        "link": "https://www.bbc.com/news/world-us-canada-53453468"
     },
     {
         "title": "Iran estimates up to 25 million coronavirus cases since outbreak; nearly doubling the total worldwide caseload: report",
@@ -17,16 +17,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/17/europe/spain-culls-mink-scli-intl/index.html"
     },
     {
-        "title": "Coronavirus: Bollywood actress Aishwarya Rai Bachchan in hospital",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-bollywood-actress-aishwarya-rai-bachchan-hospital-200718085330695.html"
+        "title": "India Now Has More Than 1 Million Confirmed Coronavirus Cases : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/17/892275311/india-surpasses-1-million-confirmed-coronavirus-cases"
     },
     {
         "title": "State Department releases cable that launched claims that coronavirus escaped from Chinese lab",
         "link": "https://www.washingtonpost.com/national-security/state-department-releases-cable-that-launched-claims-that-coronavirus-escaped-from-chinese-lab/2020/07/17/63deae58-c861-11ea-a9d3-74640f25b953_story.html"
     },
     {
-        "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
-        "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
+        "title": "Coronavirus: Worldwide COVID-19 case toll quickly nearing 14 million",
+        "link": "https://www.youtube.com/watch?v=g3NA-rmqkCg"
+    },
+    {
+        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
+        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
         "title": "U.S. Reports More Than 70,000 New Coronavirus Cases for the Second Time",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Brazil's coronavirus chaos provides a global laboratory for the vaccine race",
         "link": "https://www.cnn.com/2020/07/17/americas/brazil-covid-19-vaccine-trials-intl/index.html"
-    },
-    {
-        "title": "Coronavirus symptoms fall into six different groupings, study finds",
-        "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     }
 ];
