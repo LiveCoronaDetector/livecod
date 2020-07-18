@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=616a0890-c896-11ea-ac1c-99d351b0e857&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a4d961d0-c89a-11ea-880a-f5a9bb5cc0d4&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/17/covid-19-symptoms-falls-into-six-different-groupings-study-finds-coronavirus"
     },
     {
-        "title": "Coronavirus update: Global cases of COVID-19 edge closer to 14 million as U.S. sets record case tally, Brazil tops 2 million",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-of-covid-19-edge-closer-to-14-million-as-us-sets-record-case-tally-brazil-tops-2-million-2020-07-17"
+        "title": "Coronavirus: Donald Trump vows not to order Americans to wear masks",
+        "link": "https://www.bbc.com/news/world-us-canada-53453468"
     }
 ];
