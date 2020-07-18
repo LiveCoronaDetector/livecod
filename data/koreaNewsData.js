@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071826877"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 39명···해외유입 28명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007181021001&code=940100"
+        "title": "코로나19 지역발생 11명·해외유입 28명…수도권 집중(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01443206625835832"
+    },
+    {
+        "title": "코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
+        "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
     },
     {
         "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 최다 기록 갱신",
         "link": "https://imnews.imbc.com/news/2020/world/article/5845925_32640.html"
     },
     {
+        "title": "대구서 우즈베키스탄 입국 가족 3명 코로나19 확진…경북 12일째 ‘0’(종합)",
+        "link": "http://www.kukinews.com/newsView/kuk202007180026"
+    },
+    {
+        "title": "美 코로나19 하루 신규 확진자 또 7만5천여 명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497152&ref=A"
+    },
+    {
         "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
-        "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
-    },
-    {
-        "title": "코로나 신규 확진 39명… 해외유입 28명·지역발생 11명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800611.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 60명 증가...해외 39명, 서울 7명, 경기 5명, 광주 5...",
-        "link": "http://www.fnnews.com/news/202007171014141400"
     },
     {
         "title": "전남서 33번째 코로나19 확진자 발생...해외입국 50대",
         "link": "http://www.fnnews.com/news/202007170829587209"
     },
     {
-        "title": "코로나19 지역발생 11명·해외유입 28명…수도권 집중(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01443206625835832"
+        "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
+        "link": "http://yna.kr/AKR20200717012100056?did=1195m"
     }
 ];

@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/australian-researchers-invent-20-minute-064725254.html"
     },
     {
-        "title": "Coronavirus Live Updates: Newsom Announces Rules Forcing Most California Schools to Start Remotely",
-        "link": "https://www.nytimes.com/2020/07/17/world/coronavirus-cases-update.html"
-    },
-    {
         "title": "WHO Says Brazil’s Covid-19 Curve Has Plateaued",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a4d961d0-c89a-11ea-880a-f5a9bb5cc0d4&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ba6dafc0-c89e-11ea-93f6-4b328a1a6ca1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xNy93aG8tc2F5cy1icmF6aWwtcy1jb3ZpZC0xOS1jdXJ2ZS1oYXMtcGxhdGVhdWVk"
     },
     {
         "title": "Coronavirus symptoms fall into six different groupings, study finds",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Donald Trump vows not to order Americans to wear masks",
         "link": "https://www.bbc.com/news/world-us-canada-53453468"
+    },
+    {
+        "title": "Covid-19 Update: Victorian Premier Daniel Andrews | SBS News",
+        "link": "https://www.youtube.com/watch?v=gAMBcvBVSWs"
     }
 ];
