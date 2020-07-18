@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
     },
     {
+        "title": "광주서 확진자 7명 추가 발생…\"송파구 60번과 식사 모임\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180052&t=NN"
+    },
+    {
         "title": "코로나 19 확진자 발생한 서울 성수고, 학생·교직원 388명은 음성",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800828.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "수도권 지역감염 이어져, 일일 확진자 수 39명",
         "link": "https://www.nocutnews.co.kr/news/5380583"
-    },
-    {
-        "title": "제주 코로나 비상…25번째 확진자는 일본서 입국",
-        "link": "https://www.hankyung.com/society/article/2020071831107"
     }
 ];
