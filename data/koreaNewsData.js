@@ -5,28 +5,28 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007181013037006"
     },
     {
-        "title": "[종합] '서울 송파 60번'과 식사한 후…광주 7명 코로나 감염",
-        "link": "https://www.hankyung.com/society/article/2020071829037"
+        "title": "당국 \"코로나19 유행의 끝 알 수 없어…위기경보 '심각' 유지\"(종합)",
+        "link": "http://yna.kr/AKR20200718038851530?did=1195m"
     },
     {
         "title": "코로나19 신규 확진 39명…국내 발생 11명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5846201_32496.html"
     },
     {
-        "title": "당국 \"코로나19 유행의 끝 알 수 없어…위기경보 '심각' 유지\"(종합)",
-        "link": "http://yna.kr/AKR20200718038851530?did=1195m"
+        "title": "[종합] '서울 송파 60번'과 식사한 후…광주 7명 코로나 감염",
+        "link": "https://www.hankyung.com/society/article/2020071829037"
     },
     {
         "title": "WHO “코로나19 신규 확진자 23만7천743명”…일일 기준 최다",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497075&ref=A"
     },
     {
-        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
-        "link": "https://view.asiae.co.kr/article/2020071814582771933"
-    },
-    {
         "title": "코로나 19 확진자 발생한 서울 성수고, 학생·교직원 388명은 음성",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800828.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
+        "link": "https://view.asiae.co.kr/article/2020071814582771933"
     },
     {
         "title": "전남서 코로나19 34번째 확진자 발생…해외입국 50대",

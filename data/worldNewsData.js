@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=LKlioK3Lmc8"
     },
     {
-        "title": "LIVE: Rouhani says 35 million Iranians face coronavirus infection",
-        "link": "https://www.aljazeera.com/news/2020/07/trump-rules-national-mask-mandate-coronavirus-live-updates-200718002639885.html"
+        "title": "Rouhani says 25 million Iranians infected with COVID-19",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-iran/rouhani-says-25-million-iranians-infected-with-covid-19-idUSKBN24J07V"
     }
 ];

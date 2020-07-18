@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
+        "title": "제주도 “서울시가 놓친 광진구 확진자…지역감염 발단” 유감",
+        "link": "http://www.fnnews.com/news/202007181756553297"
+    },
+    {
         "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
@@ -23,10 +27,6 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 확진자 잇따라…광진구 여성 접촉자 4명 확진",
         "link": "http://yna.kr/AKR20200717012100056?did=1195m"
-    },
-    {
-        "title": "제주도 “서울시, 확진자 접촉자 관리 누락 해명 유감”",
-        "link": "http://www.newsis.com/view/?id=NISX20200718_0001099804&cID=10813&pID=10800"
     },
     {
         "title": "제주 코로나 확진자 동선과 접촉자 공개...한림오일시장 방문 등",
