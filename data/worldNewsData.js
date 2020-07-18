@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "Global COVID-19 cases see biggest-ever daily increase of 237743",
-        "link": "https://www.youtube.com/watch?v=JV1e6uXbJWs"
+        "title": "EU leaders discuss COVID funding deal in first face-to-face summit since pandemic | World News",
+        "link": "https://www.youtube.com/watch?v=uwB-Nz-S9JM"
     },
     {
         "title": "Former Miss World Aishwarya Rai Bachchan hospitalized with COVID-19",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Most of the World May Face Covid Without a Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=229abdb0-c929-11ea-9263-c3ecf07a5f61&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4136e790-c92d-11ea-ba52-cb55ac2c8dbb&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
     }
 ];
