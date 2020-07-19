@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007191234174304"
     },
     {
+        "title": "제주도 \"서울 광진구 20번 확진자 관련 서울시 해명 유감\"",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167930"
+    },
+    {
         "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
         "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
     },
@@ -15,10 +19,6 @@ var jejuNewsData = [
     {
         "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
         "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
-    },
-    {
-        "title": "제주도 \"서울 광진구 20번 확진자 관련 서울시 해명 유감\"",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167930"
     },
     {
         "title": "한림 추가 확진자 없으면 등교중지 조기 해제",

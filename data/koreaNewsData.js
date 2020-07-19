@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200719044800054?did=1195m"
     },
     {
-        "title": "[문답]교회 소모임 금지 곧 풀린다…박능후 \"종교 확진자 현저히 줄어\"",
-        "link": "https://www.news1.kr/articles/?4000246"
+        "title": "홍콩 코로나 재확산에 '실내 마스크 의무화·공무원 재택근무'(종합)",
+        "link": "http://yna.kr/AKR20200719031251074?did=1195m"
     },
     {
-        "title": "중대본 \"코로나19 모든 관리지표 개선…긴장 늦출 시기는 아냐\"(종합)",
-        "link": "http://yna.kr/AKR20200719042751530?did=1195m"
+        "title": "코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
+        "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
     }
 ];
