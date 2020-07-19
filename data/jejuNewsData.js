@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
+        "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
+    },
+    {
         "title": "제주도 \"서울 광진구 20번 확진자 관련 서울시 해명 유감\"",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167930"
     },
     {
         "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
         "link": "https://www.nocutnews.co.kr/news/5380769"
-    },
-    {
-        "title": "제주도 25번째 확진자 접촉자 단 '5명'...적었던 이유는?",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422650"
     },
     {
         "title": "코로나19 감염 경로 둘러싼 지방정부간 미묘한 신경전",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
+        "title": "해외 입국자 '항공좌석 분리'로 코로나19 기내 접촉 최소화",
+        "link": "http://yna.kr/AKR20200719041200056?did=1195m"
+    },
+    {
+        "title": "[종합] 코로나19에 제주시 한림읍 풍비박산",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2168012"
+    },
+    {
         "title": "“서울 광진구 20번 확진자…방역관리 부실 대표사례\" [전문]",
         "link": "http://www.fnnews.com/news/202007171147277463"
-    },
-    {
-        "title": "'코로나19 비상' 제주 한림읍 학교 등교수업 24일까지 중단",
-        "link": "http://yna.kr/AKR20200719038800056?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
-        "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
     }
 ];

@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://abc3340.com/news/nation-world/south-africa-now-5th-in-the-world-for-infections"
     },
     {
-        "title": "Canada Says No To Home Games For Toronto Blue Jays",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892668974/canada-says-no-to-home-games-for-toronto-blue-jays"
+        "title": "The US broke its single-day record of new cases at least 9 times in a month. Here's how we got here",
+        "link": "https://www.cnn.com/2020/07/19/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Iran estimates up to 25 million coronavirus cases since outbreak; nearly doubling the total worldwide caseload: report",
         "link": "https://www.foxnews.com/world/iran-estimates-25-million-coronavirus-cases"
     },
     {
-        "title": "Coronavirus spike continues amid new Catalonia restrictions",
-        "link": "https://www.bbc.com/news/world-europe-53458426"
+        "title": "Brain fog, fatigue, breathlessness. Rehab centers set up across Europe to treat long-term effects of coronavirus",
+        "link": "https://www.cnn.com/2020/07/19/health/long-covid-italy-uk-gbr-intl/index.html"
     },
     {
         "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
+        "title": "Coronavirus: Scotland sees biggest daily rise in cases in almost a month",
+        "link": "https://www.bbc.com/news/uk-scotland-53458045"
+    },
+    {
         "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
     },
     {
-        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
-        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
-    },
-    {
-        "title": "Coronavirus Scotland: No Covid-19 deaths for second day in a row but 21 new cases overnight in biggest spike",
-        "link": "https://www.thescottishsun.co.uk/news/5826421/coronavirus-scotland-latest-update-deaths-cases/"
+        "title": "COVID-19: India's Coronavirus Tally Stands at 10,77618; Death Toll at 26816",
+        "link": "https://weather.com/en-IN/india/coronavirus/news/2020-07-19-covid-19-india-coronavirus-tally-death-toll"
     }
 ];
