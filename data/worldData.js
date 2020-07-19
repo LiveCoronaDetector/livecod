@@ -684,9 +684,9 @@ var marker = [
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "확진자수": 6834,
+        "확진자수": 6878,
         "사망자수": 57,
-        "완치자수": 5529
+        "완치자수": 5578
     },
     {
         "Name": "French Guiana",
@@ -1212,7 +1212,7 @@ var marker = [
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
-        "확진자수": 624,
+        "확진자수": 628,
         "사망자수": 3,
         "완치자수": 472
     },

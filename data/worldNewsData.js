@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "Trump Administration Aims to Block New Funding for Coronavirus Testing and Tracing",
-        "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
-    },
-    {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
+        "title": "Former Miss World Aishwarya Rai Bachchan hospitalized with COVID-19",
+        "link": "https://nypost.com/2020/07/18/miss-world-aishwarya-rai-bachchan-hospitalized-with-covid-19/"
+    },
+    {
+        "title": "Coronavirus and deforestation rip through Brazil's people and the world's lungs",
+        "link": "https://www.cnn.com/2020/07/19/americas/brazil-coronavirus-amazon-deforestation-bolsonaro-weir/index.html"
     }
 ];
