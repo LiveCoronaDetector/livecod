@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
-        "title": "State Department releases cable that helped spread claims coronavirus emerged from Chinese lab",
-        "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
+        "title": "Older Children Spread the Coronavirus Just as Much as Adults, New Study Finds",
+        "link": "https://www.nytimes.com/2020/07/18/health/coronavirus-children-schools.html"
     },
     {
-        "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
-    },
-    {
-        "title": "Pandemic denial puts India in fatal peril",
-        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-19-20-intl/index.html"
     },
     {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "Coronavirus in Scotland: No new deaths but spike in cases for second day as 23 recorded overnight",
-        "link": "https://www.dailyrecord.co.uk/news/scottish-news/coronavirus-scotland-no-new-deaths-22379965"
+        "title": "Pandemic denial puts India in fatal peril",
+        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
+    },
+    {
+        "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
     }
 ];
