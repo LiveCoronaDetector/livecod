@@ -13,6 +13,14 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
+        "title": "제주 코로나 19 2차감염두고 제주도 서울시 공방",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200719500051&wlog_tag3=naver"
+    },
+    {
+        "title": "수도권 지역감염 연쇄고리 전남 보성에서도 첫 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/honam/954221.html"
+    },
+    {
         "title": "코로나19 확진자 발생 제주 한림읍 전 학교 원격수업 전환",
         "link": "http://yna.kr/AKR20200717008400056?did=1195m"
     },
@@ -25,19 +33,11 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
     },
     {
-        "title": "수도권 지역감염 연쇄고리 전남 보성에서도 첫 확진자 발생",
-        "link": "http://www.hani.co.kr/arti/area/honam/954221.html"
+        "title": "“우린 다들 자주 만나고 사는데…” ‘광진구 확진자’ 2차 감염 제주 나흘째...",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014817505&code=61121111&cp=nv"
     },
     {
         "title": "[그래픽] 코로나19 확진자 지역별 현황(19일)",
         "link": "https://www.news1.kr/photos/view/?4295463"
-    },
-    {
-        "title": "“혹시 나도?” 2차 감염 우려…코로나19 검사 긴 행렬",
-        "link": "http://www.fnnews.com/news/202007191234174304"
-    },
-    {
-        "title": "광진구 코로나19 확진자에 제주 2차감염 '확산'",
-        "link": "https://www.nocutnews.co.kr/news/5379993"
     }
 ];

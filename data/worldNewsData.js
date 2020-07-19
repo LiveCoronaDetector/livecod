@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/07/18/miss-world-aishwarya-rai-bachchan-hospitalized-with-covid-19/"
     },
     {
-        "title": "Coronavirus: The slow death of the American all-you-can-eat buffet",
-        "link": "https://www.bbc.com/news/world-us-canada-53410931"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-19-20-intl/index.html"
     }
 ];
