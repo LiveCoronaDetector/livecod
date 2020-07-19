@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53458426"
     },
     {
-        "title": "Covid-19 has exposed India's failure to deliver even the most basic obligations to its people",
-        "link": "https://www.cnn.com/2020/07/18/opinions/india-coronavirus-failures-opinion-intl-hnk/index.html"
+        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
+        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
         "title": "State Department releases cable that helped spread claims coronavirus emerged from Chinese lab",
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
-        "title": "World Sets Daily Record In New Coronavirus Cases",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
-    },
-    {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
+    },
+    {
+        "title": "World Sets Daily Record In New Coronavirus Cases",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
     },
     {
         "title": "Former Miss World Aishwarya Rai Bachchan hospitalized with COVID-19",

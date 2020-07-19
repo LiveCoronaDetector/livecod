@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
     },
     {
+        "title": "수도권 지역감염 연쇄고리 전남 보성에서도 첫 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/honam/954221.html"
+    },
+    {
         "title": "[그래픽] 코로나19 확진자 지역별 현황(19일)",
         "link": "https://www.news1.kr/photos/view/?4295463"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "광진구 코로나19 확진자에 제주 2차감염 '확산'",
         "link": "https://www.nocutnews.co.kr/news/5379993"
-    },
-    {
-        "title": "서울 확진자 접촉자 4명 감염에 ‘긴장’…등교중지 결정",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4496857&ref=A"
     }
 ];
