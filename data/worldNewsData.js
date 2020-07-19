@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53458426"
     },
     {
-        "title": "Coronavirus: Bollywood actress Aishwarya Rai Bachchan in hospital",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-bollywood-actress-aishwarya-rai-bachchan-hospital-200718085330695.html"
+        "title": "Covid-19 has exposed India's failure to deliver even the most basic obligations to its people",
+        "link": "https://www.cnn.com/2020/07/18/opinions/india-coronavirus-failures-opinion-intl-hnk/index.html"
     },
     {
         "title": "State Department releases cable that helped spread claims coronavirus emerged from Chinese lab",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Most of the World May Face Covid Without a Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2a4f3dd0-c959-11ea-9c32-8fbd55dfb2bf&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=63e39e90-c95b-11ea-900d-7f4d49e4869b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
     }
 ];
