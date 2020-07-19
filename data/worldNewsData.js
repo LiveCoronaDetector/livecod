@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
     },
     {
-        "title": "Pandemic Puts India in 'Precarious Position'",
-        "link": "https://www.newsclick.in/Pandemic-has-hit-India-hard-in-difficult-situation"
+        "title": "COVID-19: India's Coronavirus Tally Stands at 10,77618; Death Toll at 26816",
+        "link": "https://weather.com/en-IN/india/coronavirus/news/2020-07-19-covid-19-india-coronavirus-tally-death-toll"
     },
     {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",

@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200719038800056?did=1195m"
     },
     {
-        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
-        "link": "https://www.nocutnews.co.kr/news/5380769"
-    },
-    {
         "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318086"
-    },
-    {
-        "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
     },
     {
         "title": "제주 25번째 코로나19 확진자 발생…일본서 입국 ",
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=148046"
     },
     {
+        "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
+    },
+    {
         "title": "코로나19 감염 경로 둘러싼 지방정부간 미묘한 신경전",
         "link": "http://www.hani.co.kr/arti/area/honam/954237.html"
+    },
+    {
+        "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
+        "link": "http://www.fnnews.com/news/202007181454304153"
     }
 ];
