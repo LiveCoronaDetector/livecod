@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "Brazil's Bolsonaro Tells Supporters Anti-Virus Measures Kill",
-        "link": "https://www.msn.com/en-us/news/world/brazils-bolsonaro-tells-supporters-anti-virus-measures-kill/ar-BB16UKvy"
+        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
+        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     }
 ];
