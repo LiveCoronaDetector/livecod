@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
-        "title": "Older Children Spread the Coronavirus Just as Much as Adults, New Study Finds",
-        "link": "https://www.nytimes.com/2020/07/18/health/coronavirus-children-schools.html"
+        "title": "State Department releases cable that helped spread claims coronavirus emerged from Chinese lab",
+        "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
         "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "Trump Administration Aims to Block New Funding for Coronavirus Testing and Tracing",
-        "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
+        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
+        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "Coronavirus in Scotland: new infections rise again to 23",
-        "link": "https://www.scotsman.com/health/coronavirus/coronavirus-scotland-new-infections-rise-again-23-2917940"
+        "title": "Coronavirus in Scotland: No new deaths but spike in cases for second day as 23 recorded overnight",
+        "link": "https://www.dailyrecord.co.uk/news/scottish-news/coronavirus-scotland-no-new-deaths-22379965"
     }
 ];

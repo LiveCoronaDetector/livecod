@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000990121?division=NAVER"
     },
     {
-        "title": "\"10대의 코로나19 전파력, 성인만큼 강해\"",
-        "link": "https://www.ytn.co.kr/_ln/0104_202007192201395532"
-    },
-    {
         "title": "광주서 코로나19 치료받던 70대 숨져…광주 두 번째 사망",
         "link": "http://yna.kr/AKR20200719044800054?did=1195m"
     },
     {
         "title": "홍콩 코로나 재확산에 '실내 마스크 의무화·공무원 재택근무'(종합)",
         "link": "http://yna.kr/AKR20200719031251074?did=1195m"
+    },
+    {
+        "title": "\"10대의 코로나19 전파력, 성인만큼 강해\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202007192201395532"
     },
     {
         "title": "코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
