@@ -17,12 +17,20 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180052&t=NN"
     },
     {
+        "title": "코로나19 확진자 나온 성수고…\"학생 포함 388명 음성\"",
+        "link": "http://yna.kr/AKR20200718033300004?did=1195m"
+    },
+    {
+        "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
+        "link": "https://view.asiae.co.kr/article/2020071814582771933"
+    },
+    {
         "title": "전남서 코로나19 34번째 확진자 발생…해외입국 50대",
         "link": "http://www.fnnews.com/news/202007181031398274"
     },
     {
-        "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 기준 최다",
-        "link": "http://yna.kr/AKR20200718006800071?did=1195m"
+        "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 최다 기록 갱신",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5845925_32640.html"
     },
     {
         "title": "“코로나 유행 끝 언제인지 몰라… 여전히 ‘심각’ 단계”",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/18/2020071800664.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "미 증시, 코로나 확진자 폭증에 '주춤'…다우 0.23% 하락",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180015&t=NN"
-    },
-    {
-        "title": "제주 코로나 비상…25번째 확진자는 일본서 입국",
-        "link": "https://www.hankyung.com/society/article/2020071831107"
     }
 ];
