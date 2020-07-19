@@ -20,9 +20,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 1081477,
-        "사망자수": 26873,
-        "완치자수": 680594
+        "확진자수": 1086476,
+        "사망자수": 26951,
+        "완치자수": 684662
     },
     {
         "Name": "러시아",
@@ -1025,20 +1025,20 @@ var marker = [
         "완치자수": 819
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "확진자수": 1491,
+        "사망자수": 10,
+        "완치자수": 472
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
         "확진자수": 1478,
         "사망자수": 25,
         "완치자수": 439
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "확진자수": 1435,
-        "사망자수": 10,
-        "완치자수": 408
     },
     {
         "Name": "Tunisia",
@@ -1364,7 +1364,7 @@ var marker = [
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "확진자수": 188,
+        "확진자수": 191,
         "사망자수": 0,
         "완치자수": 188
     },
