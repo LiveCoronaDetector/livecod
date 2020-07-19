@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
     },
     {
-        "title": "Coronavirus India update: State-wise total number of confirmed cases, deaths on July 19",
-        "link": "https://www.deccanherald.com/national/coronavirus-india-update-state-wise-total-number-of-confirmed-cases-deaths-on-july-19-862947.html"
+        "title": "Trump Administration Aims to Block New Funding for Coronavirus Testing and Tracing",
+        "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
+    },
+    {
+        "title": "Pandemic Puts India in 'Precarious Position'",
+        "link": "https://www.newsclick.in/Pandemic-has-hit-India-hard-in-difficult-situation"
     },
     {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
-    },
-    {
-        "title": "Coronavirus Scotland: No Covid-19 deaths for second day in a row but 21 new cases overnight in biggest spike",
-        "link": "https://www.thescottishsun.co.uk/news/5826421/coronavirus-scotland-latest-update-deaths-cases/"
     }
 ];
