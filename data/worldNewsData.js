@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
-        "title": "Trump Administration Aims to Block New Funding for Coronavirus Testing and Tracing",
-        "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
-    },
-    {
-        "title": "New cases of coronavirus confirmed in Somerset and where they are",
-        "link": "https://www.somersetlive.co.uk/news/somerset-news/covid-cases-somerset-coronavirus-latest-4341545"
+        "title": "Coronavirus Scotland: No Covid-19 deaths for second day in a row but 21 new cases overnight in biggest spike",
+        "link": "https://www.thescottishsun.co.uk/news/5826421/coronavirus-scotland-latest-update-deaths-cases/"
     },
     {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "Record single-day spike of 38,902 Covid-19 cases in country, 6,77,422 people recover",
-        "link": "https://www.tribuneindia.com/news/nation/record-single-day-spike-of-38-902-covid-19-cases-in-country-6-77-422-people-recover-115023"
+        "title": "India records biggest 1-day surge in new coronavirus cases",
+        "link": "https://www.arabnews.com/node/1706886/world"
+    },
+    {
+        "title": "Coronavirus: The slow death of the American all-you-can-eat buffet",
+        "link": "https://www.bbc.com/news/world-us-canada-53410931"
     }
 ];

@@ -9,8 +9,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181756553297"
     },
     {
-        "title": "제주도 \"서울시, 확진자 접촉자 관리 누락 해명 유감\"",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=148050"
+        "title": "제주여행 확진자 2차 감염두고 제주도·서울시 공방",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200719500051&wlog_tag3=naver"
+    },
+    {
+        "title": "제주 코로나 25번 확진자 접촉자 5명...격리 조치",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167969"
+    },
+    {
+        "title": "코로나 2차감염 '날벼락' 제주 한림…1343명 음성 판정",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318082"
     },
     {
         "title": "코로나19 감염 경로 둘러싼 지방정부간 미묘한 신경전",
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007171147277463"
     },
     {
-        "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
-        "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
-    },
-    {
-        "title": "제주 코로나19 지역감염 한림 학교 정상등교 빨라질까",
-        "link": "https://www.nocutnews.co.kr/news/5380719"
-    },
-    {
-        "title": "제주 코로나 25번 확진자 접촉자 5명...격리 조치",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167969"
+        "title": "광진구 20번發 제주 추가 확진자 없어…등교 재개 검토",
+        "link": "https://www.news1.kr/articles/?4000164"
     }
 ];
