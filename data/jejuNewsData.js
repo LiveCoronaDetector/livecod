@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
-        "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
-        "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
-    },
-    {
         "title": "코로나19 확진자 발생 제주 한림읍 전 학교 원격수업 전환",
         "link": "http://yna.kr/AKR20200717008400056?did=1195m"
     },
     {
         "title": "“서울 광진구 20번 확진자…방역관리 부실 대표사례\" [전문]",
         "link": "http://www.fnnews.com/news/202007171147277463"
+    },
+    {
+        "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
+        "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
     },
     {
         "title": "광진구 코로나19 확진자에 제주 2차감염 '확산'",
