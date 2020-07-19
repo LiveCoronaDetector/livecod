@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
+        "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
+    },
+    {
         "title": "Trump Administration Aims to Block New Funding for Coronavirus Testing and Tracing",
         "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
     },
     {
+        "title": "WHO reports record daily increase in global coronavirus cases for second day in a row",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who-cases/who-reports-record-daily-increase-in-global-coronavirus-cases-for-second-day-in-a-row-idUSKCN24J0T6"
+    },
+    {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
-    },
-    {
-        "title": "Coronavirus Scotland LIVE: Death and infection rate updates as lockdown relaxes",
-        "link": "https://www.edinburghlive.co.uk/news/edinburgh-news/coronavirus-scotland-deaths-infections-lockdown-18622894"
-    },
-    {
-        "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
     }
 ];

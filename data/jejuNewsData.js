@@ -21,8 +21,8 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167930"
     },
     {
-        "title": "'코로나19 비상' 제주 한림읍 학교 등교수업 24일까지 중단",
-        "link": "http://yna.kr/AKR20200719038800056?did=1195m"
+        "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497514&ref=A"
     },
     {
         "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/honam/954237.html"
     },
     {
-        "title": "방문판매발 광주 70대 확진자 사망…\"무증상 입원 18일 만\"",
-        "link": "https://news.joins.com/article/olink/23422738"
+        "title": "'코로나19 비상' 제주 한림읍 학교 등교수업 24일까지 중단",
+        "link": "http://yna.kr/AKR20200719038800056?did=1195m"
     }
 ];
