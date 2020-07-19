@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/19/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Iran estimates up to 25 million coronavirus cases since outbreak; nearly doubling the total worldwide caseload: report",
-        "link": "https://www.foxnews.com/world/iran-estimates-25-million-coronavirus-cases"
+        "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
+        "link": "https://www.jpost.com/health-science/israeli-doctor-reinfected-with-coronavirus-3-months-after-recovering-635550"
     },
     {
         "title": "Brain fog, fatigue, breathlessness. Rehab centers set up across Europe to treat long-term effects of coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/18/health/coronavirus-children-schools.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-19-20-intl/index.html"
+        "title": "Pandemic denial puts India in fatal peril",
+        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "Pandemic denial puts India in fatal peril",
-        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
-    },
-    {
         "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
+    },
+    {
+        "title": "Brazil's Bolsonaro Tells Supporters Anti-Virus Measures Kill",
+        "link": "https://www.msn.com/en-us/news/world/brazils-bolsonaro-tells-supporters-anti-virus-measures-kill/ar-BB16UKvy"
     }
 ];
