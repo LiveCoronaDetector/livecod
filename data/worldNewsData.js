@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
+        "title": "Coronavirus Scotland: No Covid-19 deaths for second day in a row but 21 new cases overnight in biggest spike",
+        "link": "https://www.thescottishsun.co.uk/news/5826421/coronavirus-scotland-latest-update-deaths-cases/"
+    },
+    {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
+        "title": "1,276 new Illinois coronavirus cases raise state total over 160K",
+        "link": "https://chicago.suntimes.com/coronavirus/2020/7/18/21329776/illinois-coronavirus-covid-cases-deaths-uptick-july-18"
+    },
+    {
         "title": "World Sets Daily Record In New Coronavirus Cases",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
-    },
-    {
-        "title": "Coronavirus: The slow death of the American all-you-can-eat buffet",
-        "link": "https://www.bbc.com/news/world-us-canada-53410931"
-    },
-    {
-        "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
-        "link": "https://www.theguardian.com/world/2020/jul/18/us-coronavirus-fall-second-wave-autumn"
     }
 ];

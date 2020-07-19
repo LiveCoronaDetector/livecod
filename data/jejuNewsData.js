@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200719500051&wlog_tag3=naver"
     },
     {
-        "title": "수도권 지역감염 연쇄고리 전남 보성에서도 첫 확진자 발생",
-        "link": "http://www.hani.co.kr/arti/area/honam/954221.html"
-    },
-    {
         "title": "“우린 다들 자주 만나고 사는데…” ‘광진구 확진자’ 2차 감염 제주 나흘째...",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014817505&code=61121111&cp=nv"
+    },
+    {
+        "title": "수도권 지역감염 연쇄고리…전남 보성에서도 첫 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/honam/954221.html"
     },
     {
         "title": "[그래픽] 코로나19 확진자 지역별 현황(19일)",
