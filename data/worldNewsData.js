@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/19/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
-        "link": "https://www.jpost.com/health-science/israeli-doctor-reinfected-with-coronavirus-3-months-after-recovering-635550"
+        "title": "Iran estimates up to 25 million coronavirus cases since outbreak; nearly doubling the total worldwide caseload: report",
+        "link": "https://www.foxnews.com/world/iran-estimates-25-million-coronavirus-cases"
     },
     {
         "title": "Brain fog, fatigue, breathlessness. Rehab centers set up across Europe to treat long-term effects of coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
     },
     {
-        "title": "Iran estimates up to 25 million coronavirus cases since outbreak; nearly doubling the total worldwide caseload: report",
-        "link": "https://www.foxnews.com/world/iran-estimates-25-million-coronavirus-cases"
+        "title": "Coronavirus in Scotland: new infections rise again to 23",
+        "link": "https://www.scotsman.com/health/coronavirus/coronavirus-scotland-new-infections-rise-again-23-2917940"
     }
 ];
