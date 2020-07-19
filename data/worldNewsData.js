@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-19-20-intl/index.html"
     },
     {
+        "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
+        "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
+    },
+    {
         "title": "Pandemic denial puts India in fatal peril",
         "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "WHO reports record number of new coronavirus cases as death toll nears 600,000",
-        "link": "https://www.nbcnews.com/news/world/who-reports-record-number-new-coronavirus-cases-death-toll-nears-n1234305"
-    },
-    {
-        "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
+        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
+        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     }
 ];
