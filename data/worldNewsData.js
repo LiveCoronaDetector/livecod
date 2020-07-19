@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
-        "title": "Coronavirus Scotland: No Covid-19 deaths for second day in a row but 21 new cases overnight in biggest spike",
-        "link": "https://www.thescottishsun.co.uk/news/5826421/coronavirus-scotland-latest-update-deaths-cases/"
+        "title": "Trump Administration Aims to Block New Funding for Coronavirus Testing and Tracing",
+        "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
+    },
+    {
+        "title": "New cases of coronavirus confirmed in Somerset and where they are",
+        "link": "https://www.somersetlive.co.uk/news/somerset-news/covid-cases-somerset-coronavirus-latest-4341545"
     },
     {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "1,276 new Illinois coronavirus cases raise state total over 160K",
-        "link": "https://chicago.suntimes.com/coronavirus/2020/7/18/21329776/illinois-coronavirus-covid-cases-deaths-uptick-july-18"
-    },
-    {
-        "title": "World Sets Daily Record In New Coronavirus Cases",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
+        "title": "Record single-day spike of 38,902 Covid-19 cases in country, 6,77,422 people recover",
+        "link": "https://www.tribuneindia.com/news/nation/record-single-day-spike-of-38-902-covid-19-cases-in-country-6-77-422-people-recover-115023"
     }
 ];
