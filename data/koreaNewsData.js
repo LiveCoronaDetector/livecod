@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000990121?division=NAVER"
     },
     {
-        "title": "광주서 코로나19 치료받던 70대 숨져…광주 두 번째 사망",
-        "link": "http://yna.kr/AKR20200719044800054?did=1195m"
-    },
-    {
         "title": "\"10대의 코로나19 전파력, 성인만큼 강해\"",
         "link": "https://www.ytn.co.kr/_ln/0104_202007192201395532"
+    },
+    {
+        "title": "광주서 코로나19 치료받던 70대 숨져…광주 두 번째 사망",
+        "link": "http://yna.kr/AKR20200719044800054?did=1195m"
     },
     {
         "title": "[문답]교회 소모임 금지 곧 풀린다…박능후 \"종교 확진자 현저히 줄어\"",

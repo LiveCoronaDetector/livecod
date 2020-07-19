@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/19/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Iran estimates up to 25 million coronavirus cases since outbreak; nearly doubling the total worldwide caseload: report",
-        "link": "https://www.foxnews.com/world/iran-estimates-25-million-coronavirus-cases"
+        "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
+        "link": "https://www.jpost.com/health-science/israeli-doctor-reinfected-with-coronavirus-3-months-after-recovering-635550"
     },
     {
         "title": "Brain fog, fatigue, breathlessness. Rehab centers set up across Europe to treat long-term effects of coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
+        "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
+    },
+    {
         "title": "Pandemic denial puts India in fatal peril",
         "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
-        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
+        "title": "Trump Administration Aims to Block New Funding for Coronavirus Testing and Tracing",
+        "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
     },
     {
-        "title": "Former Miss World Aishwarya Rai Bachchan hospitalized with COVID-19",
-        "link": "https://nypost.com/2020/07/18/miss-world-aishwarya-rai-bachchan-hospitalized-with-covid-19/"
-    },
-    {
-        "title": "Coronavirus and deforestation rip through Brazil's people and the world's lungs",
-        "link": "https://www.cnn.com/2020/07/19/americas/brazil-coronavirus-amazon-deforestation-bolsonaro-weir/index.html"
+        "title": "Iran estimates up to 25 million coronavirus cases since outbreak; nearly doubling the total worldwide caseload: report",
+        "link": "https://www.foxnews.com/world/iran-estimates-25-million-coronavirus-cases"
     }
 ];
