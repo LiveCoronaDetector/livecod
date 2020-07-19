@@ -13,14 +13,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
-        "title": "제주여행 확진자 2차 감염두고 제주도·서울시 공방",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200719500051&wlog_tag3=naver"
-    },
-    {
-        "title": "수도권 지역감염 연쇄고리 전남 보성에서도 첫 확진자 발생",
-        "link": "http://www.hani.co.kr/arti/area/honam/954221.html"
-    },
-    {
         "title": "코로나19 확진자 발생 제주 한림읍 전 학교 원격수업 전환",
         "link": "http://yna.kr/AKR20200717008400056?did=1195m"
     },
@@ -31,6 +23,14 @@ var jejuNewsData = [
     {
         "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
         "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
+    },
+    {
+        "title": "제주여행 확진자 2차 감염두고 제주도·서울시 공방",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200719500051&wlog_tag3=naver"
+    },
+    {
+        "title": "수도권 지역감염 연쇄고리 전남 보성에서도 첫 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/honam/954221.html"
     },
     {
         "title": "“우린 다들 자주 만나고 사는데…” ‘광진구 확진자’ 2차 감염 제주 나흘째...",
