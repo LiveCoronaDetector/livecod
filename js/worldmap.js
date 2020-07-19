@@ -29,15 +29,15 @@ window.onload = function () {
 
           // 카운터 수에 따른 클래스 삽입
           // 시기에 따라 해당 값을 크게 할 필요가 있습니다.
-          if(counter < 10){
+          if(counter < 1){
             land[j].setAttribute("class", land[j].getAttribute("class") + " low");
-          }else if(counter >= 10 && counter < 50){
+          }else if(counter >= 1 && counter < 10000){
             land[j].setAttribute("class", land[j].getAttribute("class") + " middle");
-          }else if(counter >= 50 && counter < 100){
+          }else if(counter >= 10000 && counter < 50000){
             land[j].setAttribute("class", land[j].getAttribute("class") + " high");
-          }else if(counter >= 100 && counter < 200){
+          }else if(counter >= 50000 && counter < 100000){
             land[j].setAttribute("class", land[j].getAttribute("class") + " veryhigh");
-          }else if(counter >= 200){
+          }else if(counter >= 100000){
             land[j].setAttribute("class", land[j].getAttribute("class") + " highest");
           }
         }
