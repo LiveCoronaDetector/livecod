@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.deccanherald.com/national/coronavirus-india-update-state-wise-total-number-of-confirmed-cases-deaths-on-july-19-862947.html"
     },
     {
-        "title": "Coronavirus: Scotland sees biggest daily rise in cases in almost a month",
-        "link": "https://www.bbc.com/news/uk-scotland-53458045"
-    },
-    {
         "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
+    },
+    {
+        "title": "Coronavirus Scotland: No Covid-19 deaths for second day in a row but 21 new cases overnight in biggest spike",
+        "link": "https://www.thescottishsun.co.uk/news/5826421/coronavirus-scotland-latest-update-deaths-cases/"
     }
 ];
