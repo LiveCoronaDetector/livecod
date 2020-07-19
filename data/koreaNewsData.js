@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
     },
     {
+        "title": "WHO \"일일 기준 최다\"…코로나19 신규 확진자 25만9848명",
+        "link": "https://www.hankyung.com/international/article/2020071937057"
+    },
+    {
         "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
@@ -17,12 +21,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007180052&t=NN"
     },
     {
-        "title": "코로나19 확진자 나온 성수고…\"학생 포함 388명 음성\"",
-        "link": "http://yna.kr/AKR20200718033300004?did=1195m"
-    },
-    {
         "title": "광주 코로나 확진자 7명 발생…서울 송파 60번 접촉",
         "link": "https://view.asiae.co.kr/article/2020071814582771933"
+    },
+    {
+        "title": "광주서 확진자 격리해제 후 바이러스 재검출…\"감염 위험 없어\"",
+        "link": "http://yna.kr/AKR20200718027900054?did=1195m"
     },
     {
         "title": "전남서 코로나19 34번째 확진자 발생…해외입국 50대",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "WHO \"코로나19 신규 확진자 23만7천743명\"…일일 최다 기록 갱신",
         "link": "https://imnews.imbc.com/news/2020/world/article/5845925_32640.html"
-    },
-    {
-        "title": "“코로나 유행 끝 언제인지 몰라… 여전히 ‘심각’ 단계”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014816121&code=61121911&cp=nv"
     },
     {
         "title": "中 코로나 하루 확진자 22명… 신장에서만 16명 발생",
