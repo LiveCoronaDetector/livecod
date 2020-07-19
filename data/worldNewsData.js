@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/18/latest_news/1595050761_231308.html"
     },
     {
-        "title": "Trump administration pushing to block new money for testing, tracing and CDC in upcoming coronavirus relief bill",
-        "link": "https://www.washingtonpost.com/us-policy/2020/07/18/white-house-testing-budget-cdc-coronavirus/"
+        "title": "Canada Says No To Home Games For Toronto Blue Jays",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892668974/canada-says-no-to-home-games-for-toronto-blue-jays"
     },
     {
         "title": "Iran estimates up to 25 million coronavirus cases since outbreak; nearly doubling the total worldwide caseload: report",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
+        "title": "Former Miss World Aishwarya Rai Bachchan hospitalized with COVID-19",
+        "link": "https://nypost.com/2020/07/18/miss-world-aishwarya-rai-bachchan-hospitalized-with-covid-19/"
     },
     {
         "title": "'The virus doesn't care about excuses': US faces terrifying autumn as Covid-19 surges",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Most of the World May Face Covid Without a Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=63e39e90-c95b-11ea-900d-7f4d49e4869b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=868bdad0-c95f-11ea-bf85-31d0b5cae48e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9jb3ZpZC1tb3N0LW9mLXdvcmxkLXRvLWZhY2UtdmlydXMtd2l0aG91dC12YWNjaW5lLWV4cGVydC1zYXlz"
     }
 ];
