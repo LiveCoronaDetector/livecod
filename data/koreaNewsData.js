@@ -5,32 +5,24 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020071940107"
     },
     {
-        "title": "[속보] 전남 보성 첫 코로나 확진자는 보험회사 직원",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200719500009&wlog_tag3=naver"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 34명···해외유입 13명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007191030001&code=940100"
     },
     {
-        "title": "코로나 신규 확진자 34명…서울·광주 10명 등 지역감염 21명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/19/2020071900393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "中 신장서 사흘 연속 신규 확진자...당국 의료진 파견",
+        "link": "http://www.fnnews.com/news/202007191036383184"
+    },
+    {
+        "title": "[속보] 전남 보성 첫 코로나 확진자는 보험회사 직원",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200719500009&wlog_tag3=naver"
     },
     {
         "title": "WHO \"코로나19 신규 확진자 26만명\"…일일 기준 최다",
         "link": "http://www.inews24.com/view/1282933"
     },
     {
-        "title": "[속보]동선 숨긴 슈퍼전파자 ‘송파 60번’…이틀새 관련 확진자 12명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212048"
-    },
-    {
-        "title": "‘코로나19’ 서울·광주 10명씩…해외유입 13명 등 34명 신규 확진",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497393&ref=A"
-    },
-    {
-        "title": "중국 신장서 코로나19 초비상…신규 확진 13명 쏟아져",
-        "link": "http://yna.kr/AKR20200719014300083?did=1195m"
+        "title": "코로나 신규 확진자 34명…서울·광주 10명 등 지역감염 21명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/19/2020071900393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[속보] 대구시 \"지역발생 16일째 0명…해외유입 확진자도 無\"(전문)",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진 39명…국내 발생 11명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5846201_32496.html"
+    },
+    {
+        "title": "코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
+        "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
+    },
+    {
+        "title": "[종합]코로나19 송파발 광주전남 밤새 추가 포함 12명 확진",
+        "link": "http://www.honam.co.kr/detail/c3QycN/608721"
     }
 ];
