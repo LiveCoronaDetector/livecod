@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
+        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
+        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
+    },
+    {
         "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
         "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 25번째 코로나19 확진자 발생…일본서 입국 ",
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=148046"
-    },
-    {
-        "title": "코로나19 감염 경로 둘러싼 지방정부간 미묘한 신경전",
-        "link": "http://www.hani.co.kr/arti/area/honam/954237.html"
     }
 ];
