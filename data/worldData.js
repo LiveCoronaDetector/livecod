@@ -1494,7 +1494,7 @@ var marker = [
         "Name_en": "Turks and Caicos",
         "확진자수": 75,
         "사망자수": 2,
-        "완치자수": 12
+        "완치자수": 22
     },
     {
         "Name": "French Polynesia",
@@ -1532,7 +1532,7 @@ var marker = [
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
-        "확진자수": 35,
+        "확진자수": 38,
         "사망자수": 0,
         "완치자수": 29
     },
