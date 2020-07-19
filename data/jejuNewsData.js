@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
+        "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
+        "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
+    },
+    {
         "title": "코로나19 확진자 발생 제주 한림읍 전 학교 원격수업 전환",
         "link": "http://yna.kr/AKR20200717008400056?did=1195m"
     },
@@ -21,16 +25,8 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007171147277463"
     },
     {
-        "title": "코로나19 신규 확진 39명…해외유입 29명·지역사회 11명",
-        "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
-    },
-    {
         "title": "광진구 코로나19 확진자에 제주 2차감염 '확산'",
         "link": "https://www.nocutnews.co.kr/news/5379993"
-    },
-    {
-        "title": "제주 코로나 확진자 동선과 접촉자 공개...한림오일시장 방문 등",
-        "link": "https://hankookilbo.com/News/Read/A2020071720260001608?did=NA"
     },
     {
         "title": "서울 확진자 접촉자 4명 감염에 ‘긴장’…등교중지 결정",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "서울 광진구 코로나19 확진자 제주 방문해 4명 감염",
         "link": "http://www.tbs.seoul.kr/news/bunya.do?method=daum_html2&typ_800=7&idx_800=3396656&seq_800=20389233"
+    },
+    {
+        "title": "제주여행 온 서울 확진자, 60명 접촉…4명, 2차 감염",
+        "link": "http://www.fnnews.com/news/202007171104298774"
     }
 ];
