@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007191030001&code=940100"
     },
     {
+        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
+    },
+    {
         "title": "광주서 코로나19 치료받던 70대 숨져…광주 두 번째 사망",
         "link": "http://yna.kr/AKR20200719044800054?did=1195m"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "\"10대의 코로나19 전파력, 성인만큼 강해\"",
         "link": "https://www.ytn.co.kr/_ln/0104_202007192201395532"
-    },
-    {
-        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     },
     {
         "title": "경남 코로나19 확진자 2명 늘어 누적 확진자 151명",
