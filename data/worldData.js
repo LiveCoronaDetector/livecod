@@ -126,7 +126,7 @@ var marker = [
         "Name_en": "Germany",
         "확진자수": 202572,
         "사망자수": 9162,
-        "완치자수": 187500
+        "완치자수": 187800
     },
     {
         "Name": "Bangladesh",
@@ -545,20 +545,20 @@ var marker = [
         "완치자수": 4440
     },
     {
+        "Name": "호주",
+        "Name_ch": "澳大利亚",
+        "Name_en": "Australia",
+        "확진자수": 11784,
+        "사망자수": 122,
+        "완치자수": 8272
+    },
+    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 11508,
         "사망자수": 324,
         "완치자수": 6560
-    },
-    {
-        "Name": "호주",
-        "Name_ch": "澳大利亚",
-        "Name_en": "Australia",
-        "확진자수": 11441,
-        "사망자수": 118,
-        "완치자수": 8161
     },
     {
         "Name": "Venezuela",
