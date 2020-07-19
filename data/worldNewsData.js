@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1882297/south-africa-struggles-with-covid-19-as-it-shows-inequalities/"
     },
     {
-        "title": "The US broke its single-day record of new cases at least 9 times in a month. Here's how we got here",
+        "title": "Florida reports more than 12,000 new Covid-19 cases, again, as governor declines to mandate masks",
         "link": "https://www.cnn.com/2020/07/19/health/us-coronavirus-sunday/index.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
-        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
-    },
-    {
         "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
     },
     {
-        "title": "Brazil's Bolsonaro Tells Supporters Anti-Virus Measures Kill",
-        "link": "https://www.msn.com/en-us/news/world/brazils-bolsonaro-tells-supporters-anti-virus-measures-kill/ar-BB16UKvy"
+        "title": "Coronavirus and deforestation rip through Brazil's people and the world's lungs",
+        "link": "https://www.cnn.com/2020/07/19/americas/brazil-coronavirus-amazon-deforestation-bolsonaro-weir/index.html"
+    },
+    {
+        "title": "Coronavirus: WHO reports record single-day global increase in cases",
+        "link": "https://www.bbc.com/news/world-53454558"
     }
 ];
