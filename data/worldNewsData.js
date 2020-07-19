@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
-        "title": "Coronavirus: Scotland sees biggest daily rise in cases in almost a month",
-        "link": "https://www.bbc.com/news/uk-scotland-53458045"
-    },
-    {
         "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
     },
     {
-        "title": "Trump Administration Aims to Block New Funding for Coronavirus Testing and Tracing",
-        "link": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html"
+        "title": "Coronavirus India update: State-wise total number of confirmed cases, deaths on July 19",
+        "link": "https://www.deccanherald.com/national/coronavirus-india-update-state-wise-total-number-of-confirmed-cases-deaths-on-july-19-862947.html"
     },
     {
-        "title": "COVID-19: India's Coronavirus Tally Stands at 10,77618; Death Toll at 26816",
-        "link": "https://weather.com/en-IN/india/coronavirus/news/2020-07-19-covid-19-india-coronavirus-tally-death-toll"
+        "title": "Coronavirus: Scotland sees biggest daily rise in cases in almost a month",
+        "link": "https://www.bbc.com/news/uk-scotland-53458045"
+    },
+    {
+        "title": "Iran's President Rouhani says 35 million Iranians face COVID-19 infection",
+        "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     }
 ];

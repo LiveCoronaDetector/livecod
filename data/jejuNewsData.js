@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5380769"
     },
     {
+        "title": "제주 25번째 코로나19 확진자 발생…일본서 입국 ",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=148046"
+    },
+    {
         "title": "코로나19 감염 경로 둘러싼 지방정부간 미묘한 신경전",
         "link": "http://www.hani.co.kr/arti/area/honam/954237.html"
     },
@@ -29,12 +33,8 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
-        "title": "해외 입국자 '항공좌석 분리'로 코로나19 기내 접촉 최소화",
-        "link": "http://yna.kr/AKR20200719041200056?did=1195m"
-    },
-    {
-        "title": "[종합] 코로나19에 제주시 한림읍 풍비박산",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2168012"
+        "title": "'코로나19 비상' 제주 한림읍 학교 등교수업 24일까지 중단",
+        "link": "http://yna.kr/AKR20200719038800056?did=1195m"
     },
     {
         "title": "“서울 광진구 20번 확진자…방역관리 부실 대표사례\" [전문]",
