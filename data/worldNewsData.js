@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=4H-MyAcfbn0"
     },
     {
-        "title": "Coronavirus Scotland: No new deaths but highest daily increases in cases for almost a month",
-        "link": "https://www.edinburghlive.co.uk/news/edinburgh-news/coronavirus-scotland-no-new-deaths-18624212"
+        "title": "U.S. Coronavirus Deaths Top 140000 As World Sets Daily Record In New Cases",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases"
     }
 ];
