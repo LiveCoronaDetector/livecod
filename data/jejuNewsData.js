@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200718/102028768/1"
     },
     {
+        "title": "[그래픽] 코로나19 확진자 지역별 현황(19일)",
+        "link": "https://www.news1.kr/photos/view/?4295463"
+    },
+    {
+        "title": "“혹시 나도?” 2차 감염 우려…코로나19 검사 긴 행렬",
+        "link": "http://www.fnnews.com/news/202007191234174304"
+    },
+    {
         "title": "광진구 코로나19 확진자에 제주 2차감염 '확산'",
         "link": "https://www.nocutnews.co.kr/news/5379993"
     },
     {
         "title": "서울 확진자 접촉자 4명 감염에 ‘긴장’…등교중지 결정",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4496857&ref=A"
-    },
-    {
-        "title": "서울 광진구 코로나19 확진자 제주 방문해 4명 감염",
-        "link": "http://www.tbs.seoul.kr/news/bunya.do?method=daum_html2&typ_800=7&idx_800=3396656&seq_800=20389233"
-    },
-    {
-        "title": "제주여행 온 서울 확진자, 60명 접촉…4명, 2차 감염",
-        "link": "http://www.fnnews.com/news/202007171104298774"
     }
 ];
