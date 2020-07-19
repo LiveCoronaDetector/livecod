@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0104_202007192201395532"
     },
     {
+        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
+    },
+    {
         "title": "경남 코로나19 확진자 2명 늘어 누적 확진자 151명",
         "link": "http://www.busan.com/view/busan/view.php?code=2020071911195312310"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 34명…서울·광주 10명 등 지역감염 21명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/19/2020071900393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나 신규 확진자 39명…해외유입 28명, 지역발생 11명",
-        "link": "http://www.hani.co.kr/arti/society/rights/954176.html"
     }
 ];
