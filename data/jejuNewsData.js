@@ -13,7 +13,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007181454304153"
     },
     {
-        "title": "제주 코로나 19 2차감염두고 제주도 서울시 공방",
+        "title": "제주여행 확진자 2차 감염두고 제주도·서울시 공방",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200719500051&wlog_tag3=naver"
     },
     {
