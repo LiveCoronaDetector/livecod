@@ -13,12 +13,16 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
+        "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
+    },
+    {
         "title": "제주도 \"서울 광진구 20번 확진자 관련 서울시 해명 유감\"",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167930"
     },
     {
-        "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
+        "title": "'코로나19 비상' 제주 한림읍 학교 등교수업 24일까지 중단",
+        "link": "http://yna.kr/AKR20200719038800056?did=1195m"
     },
     {
         "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/honam/954237.html"
     },
     {
-        "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
-        "link": "http://www.fnnews.com/news/202007181454304153"
-    },
-    {
-        "title": "'코로나19 비상' 제주 한림읍 학교 등교수업 24일까지 중단",
-        "link": "http://yna.kr/AKR20200719038800056?did=1195m"
+        "title": "방문판매발 광주 70대 확진자 사망…\"무증상 입원 18일 만\"",
+        "link": "https://news.joins.com/article/olink/23422738"
     }
 ];
