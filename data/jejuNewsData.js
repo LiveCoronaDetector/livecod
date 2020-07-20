@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5380769"
     },
     {
-        "title": "코로나 '날벼락' 제주 한림…1471명 전원 '음성', 추가 n차 감염無",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318118"
-    },
-    {
         "title": "광주시, 송파 60번 확진자 '2억2200만원' 구상권 검토",
         "link": "https://www.jnilbo.com/view/media/view?code=2020072015410973986"
     },
@@ -25,19 +21,23 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498108&ref=A"
     },
     {
-        "title": "코로나19 위기에 제주 관광경제 vs 방역 '딜레마'",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225010"
+        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
+        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
     },
     {
-        "title": "광주시, 코로나19 송파 60번 손해배상 추산액 '2억2200만원'",
-        "link": "http://www.newsis.com/view/?id=NISX20200720_0001101337&cID=10201&pID=10200"
-    },
-    {
-        "title": "코로나19, 송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…고발",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=20200720074918544746a9e4dd7f_30"
+        "title": "코로나 '날벼락' 제주 한림…1471명 전원 '음성', 추가 n차 감염無",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318118"
     },
     {
         "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
         "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
+    },
+    {
+        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+    },
+    {
+        "title": "수도권 코로나 확진자 지속..관악구 사무실 6명 추가·성수고 학생 확진",
+        "link": "http://www.fnnews.com/news/202007181454304153"
     }
 ];

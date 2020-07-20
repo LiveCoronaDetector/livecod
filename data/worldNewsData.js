@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
-        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
-        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
+        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
+        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
         "title": "Why North Korea says it's joining the coronavirus vaccine race, even though it has no cases",
         "link": "https://www.cnn.com/2020/07/20/asia/north-korea-covid-vaccine-intl-hnk/index.html"
-    },
-    {
-        "title": "Coronavirus Global Updates, 20 July: Chile to gradually reopen after cases decline; Mexican president pledges better health care after pandemic",
-        "link": "https://indianexpress.com/article/world/coronavirus-global-updates-20-july-6514472/"
     },
     {
         "title": "Live updates: U.S. marks another record-setting day as Trump complains about coronavirus case counting",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
+        "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
+    },
+    {
+        "title": "Coronavirus and deforestation rip through Brazil's people and the world's lungs",
+        "link": "https://www.cnn.com/2020/07/19/americas/brazil-coronavirus-amazon-deforestation-bolsonaro-weir/index.html"
     }
 ];
