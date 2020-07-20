@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israeli-doctor-reinfected-with-coronavirus-3-months-after-recovering-635550"
     },
     {
-        "title": "Brain fog, fatigue, breathlessness. Rehab centers set up across Europe to treat long-term effects of coronavirus",
-        "link": "https://www.cnn.com/2020/07/19/health/long-covid-italy-uk-gbr-intl/index.html"
+        "title": "Germany's Economy Will Triumph in the Post-Covid-19 World",
+        "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
         "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
-        "title": "The crisis that shocked the world: America's response to the coronavirus",
-        "link": "https://www.msn.com/en-us/health/health-news/the-crisis-that-shocked-the-world-americas-response-to-the-coronavirus/ar-BB16WaBS?li=BBnb7Kz"
-    },
-    {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
     },
     {
-        "title": "US protests: Researchers say no link to rise in COVID-19 cases",
-        "link": "https://www.youtube.com/watch?v=3VtJlkgM4Ls"
+        "title": "WHO reports record single-day increase in COVID-19 cases",
+        "link": "https://news.cgtn.com/news/2020-07-19/WHO-reports-record-single-day-increase-in-COVID-19-cases-SgdxEA7ND2/index.html"
     },
     {
         "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
         "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
+    },
+    {
+        "title": "COVID-19 cases cross 14 million worldwide",
+        "link": "https://www.youtube.com/watch?v=ZiRN-wMwXRA"
     }
 ];

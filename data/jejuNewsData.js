@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
     },
     {
-        "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
-    },
-    {
         "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497514&ref=A"
+    },
+    {
+        "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
     },
     {
         "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",

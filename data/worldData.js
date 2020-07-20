@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3893964,
-        "사망자수": 143263,
-        "완치자수": 1802123
+        "확진자수": 3896855,
+        "사망자수": 143269,
+        "완치자수": 1802338
     },
     {
         "Name": "브라질",
@@ -166,7 +166,7 @@ var marker = [
         "Name_en": "Canada",
         "확진자수": 110338,
         "사망자수": 8852,
-        "완치자수": 97026
+        "완치자수": 97051
     },
     {
         "Name": "카타르",
@@ -348,7 +348,7 @@ var marker = [
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "확진자수": 38667,
+        "확진자수": 38677,
         "사망자수": 1485,
         "완치자수": 23365
     },
@@ -1521,20 +1521,20 @@ var marker = [
         "완치자수": 46
     },
     {
+        "Name": "St. Vincent Grenadines",
+        "Name_ch": "",
+        "Name_en": "St. Vincent Grenadines",
+        "확진자수": 44,
+        "사망자수": 0,
+        "완치자수": 29
+    },
+    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
         "확진자수": 40,
         "사망자수": 2,
         "완치자수": 22
-    },
-    {
-        "Name": "St. Vincent Grenadines",
-        "Name_ch": "",
-        "Name_en": "St. Vincent Grenadines",
-        "확진자수": 38,
-        "사망자수": 0,
-        "완치자수": 29
     },
     {
         "Name": "Curaçao",

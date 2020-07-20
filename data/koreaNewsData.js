@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954204.html"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 34명···해외유입 13명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007191030001&code=940100"
-    },
-    {
         "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 34명···해외유입 13명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007191030001&code=940100"
     },
     {
         "title": "광주서 코로나19 치료받던 70대 숨져…광주 두 번째 사망",
