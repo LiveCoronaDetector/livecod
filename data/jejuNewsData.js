@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200719038800056?did=1195m"
     },
     {
-        "title": "코로나19 감염 경로 둘러싼 지방정부간 미묘한 신경전",
-        "link": "http://www.hani.co.kr/arti/area/honam/954237.html"
+        "title": "제주 25번째 코로나19 확진자 발생…일본서 입국 ",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=148046"
     }
 ];
