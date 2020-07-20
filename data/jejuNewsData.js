@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202007201025220260"
     },
     {
-        "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497869&ref=A"
+        "title": "여름 성수기 맞은 제주도, 코로나19 전파 우려 '현실화'",
+        "link": "http://www.segye.com/content/html/2020/07/20/20200720511724.html?OutUrl=naver"
     },
     {
-        "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318086"
+        "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497869&ref=A"
     }
 ];

@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497846&ref=A"
     },
     {
-        "title": "강서중앙데이케어센터 확진자 9명 발생…서울 11명 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200720_0001101002&cID=14001&pID=14000"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 34명···해외유입 13명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007191030001&code=940100"
     },
     {
-        "title": "[속보] 코로나19, 26명 늘어 1만3,771명…사망자 1명 증가",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007200175&t=NN"
+        "title": "[속보]文대통령 \"지역감염 4명...코로나와 전쟁서 승리하자\"",
+        "link": "http://www.fnnews.com/news/202007201114579956"
     },
     {
-        "title": "[속보]文 \"지역감염 확진자 수 4명...코로나 전쟁 반드시 승리하자\"",
-        "link": "https://www.sedaily.com/NewsView/1Z5DKF0MST"
+        "title": "강서중앙데이케어센터 확진자 9명 발생…서울 11명 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200720_0001101002&cID=14001&pID=14000"
+    },
+    {
+        "title": "[속보] 코로나19, 26명 늘어 1만3,771명…사망자 1명 증가",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007200175&t=NN"
     }
 ];
