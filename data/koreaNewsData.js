@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/life/1802660.htm"
     },
     {
-        "title": "브라질 각료들 코로나19 양성반응 잇따라…장관급 4명째(종합)",
-        "link": "http://yna.kr/AKR20200721005500094?did=1195m"
+        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
+        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     }
 ];

@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23423462"
     },
     {
-        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
-        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
-    },
-    {
         "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
         "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
+    },
+    {
+        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
+        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
     }
 ];
