@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200721002451109?did=1195m"
     },
     {
+        "title": "코로나로 증명된 공공의료의 힘…병상 10% 미만, 아직 갈 길 멀다",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007210600015&code=940601"
+    },
+    {
+        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
+        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+    },
+    {
         "title": "文 \"지역감염 확진자 수 4명...코로나 전쟁 반드시 승리하자\"",
         "link": "https://www.sedaily.com/NewsView/1Z5DKF0MST"
     },
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
-    },
-    {
-        "title": "코로나19 신규 확진자 34명…이틀째 30명대 유지",
-        "link": "http://news.tf.co.kr/read/life/1802660.htm"
-    },
-    {
-        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
-        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     }
 ];
