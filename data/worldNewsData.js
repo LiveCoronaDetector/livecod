@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1882297/south-africa-struggles-with-covid-19-as-it-shows-inequalities/"
     },
     {
-        "title": "The crisis that shocked the world: America’s response to the coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
+        "title": "Live updates: U.S. marks another record-setting day as Trump complains about coronavirus case counting",
+        "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
     },
     {
         "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/asia/north-korea-covid-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
+        "title": "Coronavirus Live Updates: Top Republicans to Meet With Trump Ahead of Negotiations Over Next Virus Aid Bill",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-updates.html"
-    },
-    {
-        "title": "Pandemic denial puts India in fatal peril",
-        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
         "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
         "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
+    },
+    {
+        "title": "Coronavirus: Protein treatment trial 'a breakthrough'",
+        "link": "https://www.bbc.com/news/health-53467022"
     },
     {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
