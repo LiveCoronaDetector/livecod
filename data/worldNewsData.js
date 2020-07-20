@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1882297/south-africa-struggles-with-covid-19-as-it-shows-inequalities/"
     },
     {
-        "title": "The crisis that shocked the world: America’s response to the coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
+        "title": "We blew it",
+        "link": "https://www.axios.com/coronavirus-america-blew-it-b3d84ea3-78b3-4fe0-8dce-1c4ed0ec0a4c.html"
     },
     {
         "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
-        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
-        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
+        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
+        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
         "title": "Why North Korea says it's joining the coronavirus vaccine race, even though it has no cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "Coronavirus vaccine from Oxford and AstraZeneca shows positive response in early trial",
-        "link": "https://www.cnbc.com/2020/07/20/oxford-universitys-coronavirus-vaccine-shows-positive-immune-response-in-an-early-trial.html"
+        "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
     }
 ];
