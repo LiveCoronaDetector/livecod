@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
     },
     {
-        "title": "브라질 각료들 코로나19 양성반응 잇따라…장관급 4명째(종합)",
-        "link": "http://yna.kr/AKR20200721005500094?did=1195m"
-    },
-    {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 34명…이틀째 30명대 유지",
         "link": "http://news.tf.co.kr/read/life/1802660.htm"
+    },
+    {
+        "title": "브라질 각료들 코로나19 양성반응 잇따라…장관급 4명째(종합)",
+        "link": "http://yna.kr/AKR20200721005500094?did=1195m"
     }
 ];
