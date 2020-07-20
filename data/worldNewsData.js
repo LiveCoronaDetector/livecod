@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israeli-doctor-reinfected-with-coronavirus-3-months-after-recovering-635550"
     },
     {
-        "title": "Germany's Economy Will Triumph in the Post-Covid-19 World",
-        "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
+        "title": "Brain fog, fatigue, breathlessness. Rehab centers set up across Europe to treat long-term effects of coronavirus",
+        "link": "https://www.cnn.com/2020/07/19/health/long-covid-italy-uk-gbr-intl/index.html"
     },
     {
         "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.sfgate.com/news/article/Virus-is-crushing-United-States-15419073.php"
     },
     {
-        "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
-    },
-    {
         "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Pandemic Puts India in 'Precarious Position'",
-        "link": "https://www.newsclick.in/Pandemic-has-hit-India-hard-in-difficult-situation"
+        "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
+    },
+    {
+        "title": "600,000 dead as coronavirus rebounds around the world: Live",
+        "link": "https://www.aljazeera.com/news/2020/07/worldwide-coronavirus-death-toll-nears-600000-live-updates-200718232028622.html"
     }
 ];
