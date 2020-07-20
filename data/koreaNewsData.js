@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200721005500094?did=1195m"
     },
     {
-        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
-        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
-    },
-    {
         "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "제넥신, 와이바이오로직스 코로나19치료제 공동개발협약 체결",
         "link": "http://www.speconomy.com/news/newsview.php?ncode=1065592226624810"
+    },
+    {
+        "title": "문 대통령 \"코로나 6개월, 확진자 4명…코로나 이겨가고 있다\"",
+        "link": "https://imnews.imbc.com/news/2020/politics/article/5848056_32626.html"
     }
 ];

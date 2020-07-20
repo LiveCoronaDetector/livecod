@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/20/coronavirus-live-news-trump-says-fauci-alarmist-as-hong-kong-makes-masks-mandatory-indoors"
     },
     {
-        "title": "Live updates: As U.S. breaks case records Trump says he’s resurrecting daily coronavirus briefings",
-        "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
+        "title": "Some states keep smashing unwanted Covid-19 records as a Trump official says the surge is real",
+        "link": "https://www.cnn.com/2020/07/20/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
         "link": "https://www.jpost.com/health-science/israeli-doctor-reinfected-with-coronavirus-3-months-after-recovering-635550"
     },
     {
-        "title": "How Europe Kept Coronavirus Cases Low Even After Reopening",
-        "link": "https://www.wsj.com/articles/how-europe-slowed-its-coronavirus-cases-from-a-torrent-to-a-trickle-11595240731"
+        "title": "Germany's Economy Will Triumph in the Post-Covid-19 World",
+        "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
         "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
+        "title": "Watch live: World Health Organization briefs public on the coronavirus outbreak as pandemic spreads",
+        "link": "https://www.cnbc.com/2020/07/20/watch-live-world-health-organization-briefs-public-on-the-coronavirus-outbreak-as-pandemic-spreads.html"
+    },
+    {
+        "title": "Oxford coronavirus vaccine safe and promising, according to early human trial results published in the Lancet",
+        "link": "https://www.washingtonpost.com/world/europe/oxford-coronavirus-vaccine-phase-1-lancet/2020/07/20/12fbbc92-c857-11ea-a825-8722004e4150_story.html"
+    },
+    {
         "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
-    },
-    {
-        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
-        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
-    },
-    {
-        "title": "How to get a COVID-19 vaccine faster | TheHill",
-        "link": "https://thehill.com/opinion/healthcare/508122-how-to-get-a-covid-19-vaccine-faster"
     }
 ];
