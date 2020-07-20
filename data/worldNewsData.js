@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
-        "title": "Hong Kong leader says coronavirus now spreading 'out of control'",
-        "link": "https://news.yahoo.com/hong-kong-leader-says-coronavirus-critical-100-cases-085636893.html"
-    },
-    {
-        "title": "Pandemic Puts India in 'Precarious Position'",
-        "link": "https://www.newsclick.in/Pandemic-has-hit-India-hard-in-difficult-situation"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html"
     },
     {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
     },
     {
-        "title": "Coronavirus: WHO reports record single-day global increase in cases",
-        "link": "https://www.bbc.com/news/world-53454558"
+        "title": "Pandemic Puts India in 'Precarious Position'",
+        "link": "https://www.newsclick.in/Pandemic-has-hit-India-hard-in-difficult-situation"
+    },
+    {
+        "title": "Hong Kong leader says coronavirus now spreading 'out of control'",
+        "link": "https://news.yahoo.com/hong-kong-leader-says-coronavirus-critical-100-cases-085636893.html"
     }
 ];
