@@ -9,8 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
     },
     {
-        "title": "에이브럼스 “코로나 누적 확진자 98명… 상황 심각”",
-        "link": "https://view.asiae.co.kr/article/2020072017063328050"
+        "title": "일본 코로나 신규 확진 419명…누적 사망자 1천명 넘어(종합)",
+        "link": "http://yna.kr/AKR20200720148651073?did=1195m"
+    },
+    {
+        "title": "<속보> 코로나19 제주 26번째 확진자 발생, 한림 호박유흥주점 방문",
+        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10545?feed=na"
     },
     {
         "title": "코로나19 확진자 오늘 서울서 16명 늘어…누계 1천493명",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     },
     {
-        "title": "코로나19 어제 26명 확진…해외유입 22명, 지역발생 4명보다 5배 이상",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497846&ref=A"
+        "title": "제넥신, 와이바이오로직스 코로나19치료제 공동개발협약 체결",
+        "link": "http://www.speconomy.com/news/newsview.php?ncode=1065592226624810"
     },
     {
         "title": "문 대통령 “지역감염 확진자 드디어 4명…코로나 이겨가고 있다”",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819863&code=61111211&cp=nv"
     },
     {
-        "title": "[속보] 코로나19, 26명 늘어 1만3,771명…사망자 1명 증가",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007200175&t=NN"
-    },
-    {
-        "title": "제넥신, 와이바이오로직스 코로나19치료제 공동개발협약 체결",
-        "link": "http://www.speconomy.com/news/newsview.php?ncode=1065592226624810"
+        "title": "서정진 \"9월 코로나 항체치료제 상업생산\"",
+        "link": "http://news.mk.co.kr/newsRead.php?no=742048&year=2020"
     }
 ];
