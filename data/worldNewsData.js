@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/hong-kong-teachers-fired-and-afraid-as-china-targets-liberal-thinkers-11595175839"
     },
     {
-        "title": "Pandemic denial puts India in fatal peril",
-        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
-    },
-    {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
+    },
+    {
+        "title": "Senior doctors warn second coronavirus wave could 'devastate' NHS",
+        "link": "https://www.theguardian.com/world/2020/jul/19/coronavirus-senior-doctors-warn-second-wave-could-cripple-nhs"
     }
 ];
