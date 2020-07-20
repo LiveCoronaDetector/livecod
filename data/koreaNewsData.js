@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0104_202007192201395532"
     },
     {
+        "title": "美 아기 85명 코로나 감염…트럼프는 '방역 자랑'",
+        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5847721_32531.html"
+    },
+    {
         "title": "경남 코로나19 확진자 2명 늘어 누적 확진자 151명",
         "link": "http://www.busan.com/view/busan/view.php?code=2020071911195312310"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "WHO \"코로나19 신규 확진자 26만명\"…일일 기준 최다",
         "link": "http://www.inews24.com/view/1282933"
-    },
-    {
-        "title": "코로나 신규 확진자 34명…서울·광주 10명 등 지역감염 21명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/19/2020071900393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
