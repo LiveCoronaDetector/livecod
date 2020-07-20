@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
-        "title": "The crisis that shocked the world: America's response to the coronavirus",
-        "link": "https://www.msn.com/en-us/health/health-news/the-crisis-that-shocked-the-world-americas-response-to-the-coronavirus/ar-BB16WaBS?li=BBnb7Kz"
+        "title": "Virus is crushing United States",
+        "link": "https://www.sfgate.com/news/article/Virus-is-crushing-United-States-15419073.php"
     },
     {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
