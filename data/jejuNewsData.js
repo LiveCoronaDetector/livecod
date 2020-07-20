@@ -5,14 +5,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
-        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
-        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
-    },
-    {
-        "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497869&ref=A"
-    },
-    {
         "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
         "link": "https://www.nocutnews.co.kr/news/5380769"
     },
@@ -21,8 +13,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720136400056?did=1195m"
     },
     {
-        "title": "이해찬 “코로나, 전반적으로 관리 가능한 상태”",
-        "link": "https://news.joins.com/article/olink/23423462"
+        "title": "광주시, 송파 60번 확진자 '2억2200만원' 구상권 검토",
+        "link": "https://www.jnilbo.com/view/media/view?code=2020072015410973986"
+    },
+    {
+        "title": "이해찬 “코로나19 전반적으로 관리 가능한 상태”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498108&ref=A"
+    },
+    {
+        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
+        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
     },
     {
         "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",

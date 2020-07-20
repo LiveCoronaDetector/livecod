@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3898550,
+        "확진자수": 3898639,
         "사망자수": 143289,
-        "완치자수": 1802338
+        "완치자수": 1802391
     },
     {
         "Name": "브라질",
@@ -84,9 +84,9 @@ var marker = [
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "확진자수": 273788,
-        "사망자수": 14188,
-        "완치자수": 237788
+        "확진자수": 276202,
+        "사망자수": 14405,
+        "완치자수": 240087
     },
     {
         "Name": "파키스탄",
@@ -404,7 +404,7 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "확진자수": 33591,
+        "확진자수": 33634,
         "사망자수": 1969,
         "완치자수": 30300
     },
@@ -609,6 +609,14 @@ var marker = [
         "완치자수": 8138
     },
     {
+        "Name": "팔레스타인",
+        "Name_ch": "巴勒斯坦",
+        "Name_en": "Palestine",
+        "확진자수": 8916,
+        "사망자수": 62,
+        "완치자수": 1921
+    },
+    {
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
@@ -631,14 +639,6 @@ var marker = [
         "확진자수": 8733,
         "사망자수": 300,
         "완치자수": 4106
-    },
-    {
-        "Name": "팔레스타인",
-        "Name_ch": "巴勒斯坦",
-        "Name_en": "Palestine",
-        "확진자수": 8549,
-        "사망자수": 62,
-        "완치자수": 1921
     },
     {
         "Name": "DRC",
@@ -862,7 +862,7 @@ var marker = [
         "Name_en": "Sri Lanka",
         "확진자수": 2724,
         "사망자수": 11,
-        "완치자수": 2035
+        "완치자수": 2041
     },
     {
         "Name": "Congo",
@@ -1473,6 +1473,14 @@ var marker = [
         "완치자수": 81
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 81,
+        "사망자수": 2,
+        "완치자수": 22
+    },
+    {
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
@@ -1487,14 +1495,6 @@ var marker = [
         "확진자수": 76,
         "사망자수": 3,
         "완치자수": 57
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 75,
-        "사망자수": 2,
-        "완치자수": 22
     },
     {
         "Name": "French Polynesia",
