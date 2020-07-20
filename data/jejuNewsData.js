@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
     },
     {
+        "title": "[뉴스라이브] 국내 코로나19 발생 6개월...\"긴장 늦출 시기 아냐\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007201025220260"
+    },
+    {
+        "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497869&ref=A"
+    },
+    {
         "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318086"
-    },
-    {
-        "title": "'코로나19 비상' 제주 한림읍 학교 등교수업 24일까지 중단",
-        "link": "http://yna.kr/AKR20200719038800056?did=1195m"
-    },
-    {
-        "title": "제주 25번째 코로나19 확진자 발생…일본서 입국 ",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=148046"
     }
 ];

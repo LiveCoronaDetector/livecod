@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
     },
     {
-        "title": "Pandemic Puts India in 'Precarious Position'",
-        "link": "https://www.newsclick.in/Pandemic-has-hit-India-hard-in-difficult-situation"
+        "title": "Merkel and Macron Walk Out on Rutte in EU Stimulus Dispute",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d8868140-ca41-11ea-9045-a14e1c945be1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0xOC9ldS10YWxrcy1nby1pbnRvLW92ZXJ0aW1lLXdpdGgtc3RpbXVsdXMtcHVzaC1mYWNpbmctaGVhZHdpbmRz"
     },
     {
-        "title": "Hong Kong leader says coronavirus now spreading 'out of control'",
-        "link": "https://news.yahoo.com/hong-kong-leader-says-coronavirus-critical-100-cases-085636893.html"
+        "title": "Coronavirus and deforestation rip through Brazil's people and the world's lungs",
+        "link": "https://www.cnn.com/2020/07/19/americas/brazil-coronavirus-amazon-deforestation-bolsonaro-weir/index.html"
     }
 ];
