@@ -5,16 +5,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
-        "link": "http://www.fnnews.com/news/202007201526312777"
-    },
-    {
         "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
         "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     },
     {
-        "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497869&ref=A"
+        "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
+        "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
         "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
@@ -25,8 +21,8 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/954457.html"
     },
     {
-        "title": "이해찬 “코로나, 전반적으로 관리 가능한 상태”",
-        "link": "https://news.joins.com/article/olink/23423462"
+        "title": "이해찬 “코로나19 전반적으로 관리 가능한 상태”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498108&ref=A"
     },
     {
         "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "광진구 확진자 다녀간 제주 한림, 5일간 1524명 검사",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014821692&code=61122027&cp=nv"
+    },
+    {
+        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     }
 ];
