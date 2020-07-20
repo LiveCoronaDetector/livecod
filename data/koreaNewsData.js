@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "일본 코로나 신규 확진 419명…누적 사망자 1천명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200720148651073?did=1195m"
-    },
-    {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "문 대통령 \"코로나 6개월, 확진자 4명…코로나 이겨가고 있다\"",
         "link": "https://imnews.imbc.com/news/2020/politics/article/5848056_32626.html"
+    },
+    {
+        "title": "에이브럼스 “코로나 누적 확진자 98명… 상황 심각”",
+        "link": "https://view.asiae.co.kr/article/2020072017063328050"
     }
 ];

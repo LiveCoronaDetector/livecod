@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Greece's tourist reopening brings more infections but no economic panacea",
-        "link": "https://www.politico.com/news/2020/07/19/greece-tourism-coronavirus-372413"
+        "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
+        "link": "https://www.jpost.com/health-science/israeli-doctor-reinfected-with-coronavirus-3-months-after-recovering-635550"
     },
     {
         "title": "Germany's Economy Will Triumph in the Post-Covid-19 World",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/asia/north-korea-covid-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus Cases Live Updates: Republicans Meet with Trump Over Stimulus Bill",
-        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-updates.html"
+        "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
+        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
         "title": "The crisis that shocked the world: America’s response to the coronavirus",
         "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
     },
     {
-        "title": "Oxford coronavirus vaccine triggers immune response, trial shows",
-        "link": "https://www.theguardian.com/world/2020/jul/20/oxford-coronavirus-vaccine-triggers-immune-response-trial-shows"
+        "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
+        "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
     },
     {
-        "title": "Pandemic denial puts India in fatal peril",
-        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
+        "title": "Coronavirus vaccine from Oxford and AstraZeneca shows positive response in early trial",
+        "link": "https://www.cnbc.com/2020/07/20/oxford-universitys-coronavirus-vaccine-shows-positive-immune-response-in-an-early-trial.html"
     }
 ];
