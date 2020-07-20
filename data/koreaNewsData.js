@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200721002451109?did=1195m"
     },
     {
+        "title": "브라질 각료들 코로나19 양성반응 잇따라…장관급 4명째(종합)",
+        "link": "http://yna.kr/AKR20200721005500094?did=1195m"
+    },
+    {
         "title": "[속보] 강서구 요양시설서 코로나19 확진자 9명 발생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819820&code=61121111&cp=nv"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
+        "title": "코로나19 확진자 오늘 서울서 16명 늘어…누계 1천493명",
+        "link": "http://yna.kr/AKR20200720149100004?did=1195m"
     },
     {
-        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
-        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+        "title": "서정진 \"9월 코로나 항체치료제 상업생산\"",
+        "link": "http://news.mk.co.kr/newsRead.php?no=742048&year=2020"
     },
     {
-        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
-    },
-    {
-        "title": "코로나 신규 확진 26명…국외 유입 22명",
-        "link": "http://www.hani.co.kr/arti/society/health/954329.html"
+        "title": "코로나 신규 확진자 34명 증가…서울·광주에서 각 10명",
+        "link": "http://www.hani.co.kr/arti/society/health/954204.html"
     },
     {
         "title": "[속보] 코로나 국내 신규 26명… 해외유입 22명·아시아유입 18명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.speconomy.com/news/newsview.php?ncode=1065592226624810"
     },
     {
-        "title": "문 대통령 \"코로나 6개월, 확진자 4명…코로나 이겨가고 있다\"",
-        "link": "https://imnews.imbc.com/news/2020/politics/article/5848056_32626.html"
+        "title": "美 1살 미만 영아 85명 코로나19 무더기 감염",
+        "link": "http://www.fnnews.com/news/202007200816412272"
     }
 ];

@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1882297/south-africa-struggles-with-covid-19-as-it-shows-inequalities/"
     },
     {
-        "title": "Live updates: U.S. marks another record-setting day as Trump complains about coronavirus case counting",
+        "title": "Live updates: Trump says he’s resurrecting daily coronavirus briefings as U.S. breaks case records",
         "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/asia/north-korea-covid-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus Live Updates: Teachers Unions Sue DeSantis Over Order Pushing Florida Schools to Fully Reopen",
+        "title": "Coronavirus Live News Updates",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
-        "title": "The crisis that shocked the world: America’s response to the coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
+        "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
+        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
-        "title": "Pandemic denial puts India in fatal peril",
-        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
+        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
+        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
-        "title": "Oxford coronavirus vaccine safe and promising, according to early human trial results published in the Lancet",
-        "link": "https://www.washingtonpost.com/world/europe/oxford-coronavirus-vaccine-phase-1-lancet/2020/07/20/12fbbc92-c857-11ea-a825-8722004e4150_story.html"
+        "title": "Coronavirus vaccine from Oxford and AstraZeneca shows positive response in early trial",
+        "link": "https://www.cnbc.com/2020/07/20/oxford-universitys-coronavirus-vaccine-shows-positive-immune-response-in-an-early-trial.html"
     }
 ];
