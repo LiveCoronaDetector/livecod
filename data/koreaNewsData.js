@@ -5,8 +5,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
     },
     {
-        "title": "[속보] 제주 한림서 코로나19 5번째 확진자 발생 '유흥주점 방문자'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318126"
+        "title": "서울 강서 요양시설서 ‘코로나19’ 9명 확진",
+        "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
+    },
+    {
+        "title": "제주 코로나19 감염 26번째 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
         "title": "에이브럼스 “코로나 누적 확진자 98명… 상황 심각”",
@@ -15,10 +19,6 @@ var koreaNewsData = [
     {
         "title": "일본 코로나 신규 확진 419명…누적 사망자 1천명 넘어(종합)",
         "link": "http://yna.kr/AKR20200720148651073?did=1195m"
-    },
-    {
-        "title": "서울 강서 요양시설서 ‘코로나19’ 9명 확진",
-        "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
     },
     {
         "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954204.html"
     },
     {
-        "title": "서정진 \"9월 코로나 항체치료제 상업생산\"",
-        "link": "http://news.mk.co.kr/newsRead.php?no=742048&year=2020"
-    },
-    {
         "title": "코로나19 어제 26명 확진…해외유입 22명, 지역발생 4명보다 5배 이상",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497846&ref=A"
+    },
+    {
+        "title": "[속보] 코로나 국내 신규 26명… 해외유입 22명·아시아유입 18명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/07/20/2020072001394.html"
     }
 ];

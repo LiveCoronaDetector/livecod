@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
-        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
-        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
+        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
+        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
         "title": "Why North Korea says it's joining the coronavirus vaccine race, even though it has no cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-updates.html"
     },
     {
-        "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
+        "title": "July 19 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-19-20-intl/h_381832c424ecde06b5ac2fdf22d8642d"
+    },
+    {
+        "title": "Pandemic denial puts India in fatal peril",
+        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
-    },
-    {
-        "title": "Senior doctors warn second coronavirus wave could 'devastate' NHS",
-        "link": "https://www.theguardian.com/world/2020/jul/19/coronavirus-senior-doctors-warn-second-wave-could-cripple-nhs"
     }
 ];
