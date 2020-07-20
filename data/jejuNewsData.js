@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167930"
     },
     {
-        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+        "title": "코로나19 위기에 제주 관광경제 vs 방역 '딜레마'",
+        "link": "http://yna.kr/AKR20200720096600056?did=1195m"
     },
     {
-        "title": "광진구 20번發 제주 추가 확진자 없어…등교 재개 검토",
-        "link": "https://www.news1.kr/articles/?4000164"
+        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
         "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
         "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
     },
     {
-        "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318086"
+        "title": "광진구 20번發 제주 추가 확진자 없어…등교 재개 검토",
+        "link": "https://www.news1.kr/articles/?4000164"
     },
     {
-        "title": "'코로나19 비상' 제주 한림읍 학교 등교수업 24일까지 중단",
-        "link": "http://yna.kr/AKR20200719038800056?did=1195m"
+        "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318086"
     }
 ];

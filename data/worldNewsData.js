@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
-        "title": "Trump talks less about virus, states look inward for answers",
-        "link": "https://www.msn.com/en-us/news/politics/trump-talks-less-about-virus-states-look-inward-for-answers/ar-BB16Up35"
+        "title": "Virus is crushing United States",
+        "link": "https://www.sfgate.com/news/article/Virus-is-crushing-United-States-15419073.php"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html"
+        "title": "Hong Kong Teachers Fired and Afraid as China Targets Liberal Thinkers",
+        "link": "https://www.wsj.com/articles/hong-kong-teachers-fired-and-afraid-as-china-targets-liberal-thinkers-11595175839"
     },
     {
         "title": "Pandemic denial puts India in fatal peril",
