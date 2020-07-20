@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007191234174304"
     },
     {
+        "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
+        "link": "http://www.fnnews.com/news/202007201526312777"
+    },
+    {
         "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
         "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
         "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
-    },
-    {
-        "title": "광진구 20번發 제주 추가 확진자 없어…등교 재개 검토",
-        "link": "https://www.news1.kr/articles/?4000164"
     },
     {
         "title": "이해찬 “코로나, 전반적으로 관리 가능한 상태”",

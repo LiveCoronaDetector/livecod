@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
     },
     {
-        "title": "Senior doctors warn second coronavirus wave could 'devastate' NHS",
-        "link": "https://www.theguardian.com/world/2020/jul/19/coronavirus-senior-doctors-warn-second-wave-could-cripple-nhs"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-20-20-intl/index.html"
     }
 ];
