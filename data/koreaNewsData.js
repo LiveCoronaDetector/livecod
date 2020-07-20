@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819820&code=61121111&cp=nv"
     },
     {
+        "title": "문 대통령 \"코로나 6개월, 확진자 4명…코로나 이겨가고 있다\"",
+        "link": "https://imnews.imbc.com/news/2020/politics/article/5848056_32626.html"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
+    },
+    {
+        "title": "코로나19 확진자 오늘 서울서 16명 늘어…누계 1천493명",
+        "link": "http://yna.kr/AKR20200720149100004?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진자 34명 증가…서울·광주에서 각 10명",
+        "link": "http://www.hani.co.kr/arti/society/health/954204.html"
     },
     {
         "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     },
     {
-        "title": "[속보] 코로나 국내 신규 26명… 해외유입 22명·아시아유입 18명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/07/20/2020072001394.html"
+        "title": "코로나19 어제 26명 확진…해외유입 22명, 지역발생 4명보다 5배 이상",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497846&ref=A"
     },
     {
-        "title": "제넥신, 와이바이오로직스 코로나19치료제 공동개발협약 체결",
-        "link": "http://www.speconomy.com/news/newsview.php?ncode=1065592226624810"
-    },
-    {
-        "title": "문 대통령 \"코로나 6개월, 확진자 4명…코로나 이겨가고 있다\"",
-        "link": "https://imnews.imbc.com/news/2020/politics/article/5848056_32626.html"
+        "title": "서정진 \"9월 코로나 항체치료제 상업생산\"",
+        "link": "http://news.mk.co.kr/newsRead.php?no=742048&year=2020"
     },
     {
         "title": "[속보] 코로나19, 26명 늘어 1만3,771명…사망자 1명 증가",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007200175&t=NN"
     },
     {
-        "title": "코로나19 어제 26명 확진…해외유입 22명, 지역발생 4명보다 5배 이상",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497846&ref=A"
-    },
-    {
-        "title": "코로나 신규 확진 26명…국외 유입 22명",
-        "link": "http://www.hani.co.kr/arti/society/health/954329.html"
-    },
-    {
-        "title": "[속보] 제주 방문 광진구 확진자 접촉자 추가돼…총 62명 격리조치",
-        "link": "https://view.asiae.co.kr/article/2020072017420801457"
+        "title": "제넥신, 와이바이오로직스 코로나19치료제 공동개발협약 체결",
+        "link": "http://www.speconomy.com/news/newsview.php?ncode=1065592226624810"
     }
 ];
