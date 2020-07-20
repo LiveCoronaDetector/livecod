@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1882297/south-africa-struggles-with-covid-19-as-it-shows-inequalities/"
     },
     {
-        "title": "The crisis that shocked the world: America’s response to the coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
+        "title": "Live updates: U.S. marks 41st record-setting day as global coronavirus death toll surpasses 600,000",
+        "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
     },
     {
         "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.sfgate.com/news/article/Virus-is-crushing-United-States-15419073.php"
     },
     {
-        "title": "Pandemic Puts India in 'Precarious Position'",
-        "link": "https://www.newsclick.in/Pandemic-has-hit-India-hard-in-difficult-situation"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-19-20-intl/h_4568646d74f57c7a13f0215b05bb0054"
     },
     {
-        "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
+        "title": "Pandemic denial puts India in fatal peril",
+        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     }
 ];

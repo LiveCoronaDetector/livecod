@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
     },
     {
-        "title": "코로나 신규 확진자 34명 증가…서울·광주에서 각 10명",
-        "link": "http://www.hani.co.kr/arti/society/health/954204.html"
+        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     },
     {
         "title": "[속보]문대통령 “코로나 이겨내고 있다…지역감염 4명”",
         "link": "http://news.heraldcorp.com/view.php?ud=20200720000415"
     },
     {
-        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
+        "title": "서울 강서구 데이케어센터서 확진자 9명 나와…93명 검사",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497986&ref=A"
+    },
+    {
+        "title": "[속보] 코로나19, 26명 늘어 1만3,771명…사망자 1명 증가",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007200175&t=NN"
     },
     {
         "title": "코로나19 어제 26명 확진…해외유입 22명, 지역발생 4명보다 5배 이상",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497846&ref=A"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 34명···해외유입 13명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007191030001&code=940100"
+        "title": "코로나 신규 확진 26명…국외 유입 22명",
+        "link": "http://www.hani.co.kr/arti/society/health/954329.html"
     },
     {
-        "title": "[속보]文대통령 \"지역감염 4명...코로나와 전쟁서 승리하자\"",
-        "link": "http://www.fnnews.com/news/202007201114579956"
+        "title": "코로나 신규 확진자 34명 증가…서울·광주에서 각 10명",
+        "link": "http://www.hani.co.kr/arti/society/health/954204.html"
     },
     {
-        "title": "강서중앙데이케어센터 확진자 9명 발생…서울 11명 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200720_0001101002&cID=14001&pID=14000"
-    },
-    {
-        "title": "[속보] 코로나19, 26명 늘어 1만3,771명…사망자 1명 증가",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007200175&t=NN"
+        "title": "서울 강서구 요양시설서 확진자 9명 발생",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212176"
     }
 ];

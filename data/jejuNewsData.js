@@ -9,35 +9,35 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
     },
     {
-        "title": "제주도 \"서울 광진구 20번 확진자 관련 서울시 해명 유감\"",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167930"
-    },
-    {
         "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
         "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
+    },
+    {
+        "title": "제주도 \"서울 광진구 20번 확진자 관련 서울시 해명 유감\"",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2167930"
     },
     {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
+        "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318086"
+    },
+    {
         "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4497514&ref=A"
     },
     {
+        "title": "허걱! 제주도 25번 코로나19 환자 접촉자 단 5명",
+        "link": "http://www.fnnews.com/news/202007192100521787"
+    },
+    {
+        "title": "'코로나19 비상' 제주 한림읍 학교 등교수업 24일까지 중단",
+        "link": "http://yna.kr/AKR20200719038800056?did=1195m"
+    },
+    {
         "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
         "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
-    },
-    {
-        "title": "[뉴스라이브] 국내 코로나19 발생 6개월...\"긴장 늦출 시기 아냐\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007201025220260"
-    },
-    {
-        "title": "여름 성수기 맞은 제주도, 코로나19 전파 우려 '현실화'",
-        "link": "http://www.segye.com/content/html/2020/07/20/20200720511724.html?OutUrl=naver"
-    },
-    {
-        "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497869&ref=A"
     }
 ];
