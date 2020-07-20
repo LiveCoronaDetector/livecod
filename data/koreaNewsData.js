@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
+        "title": "WHO \"아프리카의 코로나19 빠른 확산에 큰 우려\"(종합)",
+        "link": "http://yna.kr/AKR20200721002451109?did=1195m"
+    },
+    {
         "title": "[속보] 강서구 요양시설서 코로나19 확진자 9명 발생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819820&code=61121111&cp=nv"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "문 대통령 \"코로나 6개월, 확진자 4명…코로나 이겨가고 있다\"",
         "link": "https://imnews.imbc.com/news/2020/politics/article/5848056_32626.html"
-    },
-    {
-        "title": "에이브럼스 “코로나 누적 확진자 98명… 상황 심각”",
-        "link": "https://view.asiae.co.kr/article/2020072017063328050"
     }
 ];

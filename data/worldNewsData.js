@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
-        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
-        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
+        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
+        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
         "title": "Why North Korea says it's joining the coronavirus vaccine race, even though it has no cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
-        "title": "The crisis that shocked the world: America’s response to the coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
+        "title": "Pandemic denial puts India in fatal peril",
+        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
+        "title": "Watch live: World Health Organization briefs public on the coronavirus outbreak as pandemic spreads",
+        "link": "https://www.cnbc.com/2020/07/20/watch-live-world-health-organization-briefs-public-on-the-coronavirus-outbreak-as-pandemic-spreads.html"
     },
     {
-        "title": "Coronavirus vaccine from Oxford and AstraZeneca shows positive response in early trial",
-        "link": "https://www.cnbc.com/2020/07/20/oxford-universitys-coronavirus-vaccine-shows-positive-immune-response-in-an-early-trial.html"
+        "title": "Coronavirus Live Updates: Teachers Unions Sue DeSantis Over His Order Pushing Florida Schools to Fully Reopen",
+        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     }
 ];

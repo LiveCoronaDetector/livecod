@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
-        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
-        "link": "https://www.nocutnews.co.kr/news/5380769"
-    },
-    {
         "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
@@ -29,15 +25,19 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/954457.html"
     },
     {
+        "title": "제주도·의회, 코로나19 위기 극복 '동감' 방법은 '시각차'",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=148193"
+    },
+    {
+        "title": "제주도, 서울 광진구發 '코로나19' 감염 'n차'로 가나?",
+        "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
+        "link": "https://www.nocutnews.co.kr/news/5380769"
+    },
+    {
         "title": "이해찬 “코로나, 전반적으로 관리 가능한 상태”",
         "link": "https://news.joins.com/article/olink/23423462"
-    },
-    {
-        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
-        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
-    },
-    {
-        "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
     }
 ];
