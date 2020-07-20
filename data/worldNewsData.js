@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/politics/state-department-cable-coronavirus-chinese-lab/index.html"
     },
     {
-        "title": "The crisis that shocked the world: America's response to the coronavirus",
-        "link": "https://www.msn.com/en-us/health/health-news/the-crisis-that-shocked-the-world-americas-response-to-the-coronavirus/ar-BB16WaBS?li=BBnb7Kz"
+        "title": "Virus is crushing United States",
+        "link": "https://www.sfgate.com/news/article/Virus-is-crushing-United-States-15419073.php"
     },
     {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
     },
     {
-        "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus: WHO reports record single-day global increase in cases",
-        "link": "https://www.bbc.com/news/world-53454558"
+        "title": "Pandemic Puts India in 'Precarious Position'",
+        "link": "https://www.newsclick.in/Pandemic-has-hit-India-hard-in-difficult-situation"
     }
 ];
