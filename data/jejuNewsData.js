@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007191234174304"
     },
     {
+        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
+        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
+    },
+    {
         "title": "제주도 \"서울 광진구 20번 확진자 관련 서울시 해명 유감\"",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2167930"
     },
@@ -23,10 +27,6 @@ var jejuNewsData = [
     {
         "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
         "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
-    },
-    {
-        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
-        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
     },
     {
         "title": "코로나 '2차 감염' 제주 한림 어린이집 휴원 연장",
