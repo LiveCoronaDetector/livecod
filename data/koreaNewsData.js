@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
-        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
-    },
-    {
         "title": "WHO \"아프리카의 코로나19 빠른 확산에 큰 우려\"(종합)",
         "link": "http://yna.kr/AKR20200721002451109?did=1195m"
+    },
+    {
+        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
+        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
         "title": "[속보] 강서구 요양시설서 코로나19 확진자 9명 발생",

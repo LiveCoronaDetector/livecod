@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
-        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
-        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
+        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
+        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
         "title": "Why North Korea says it's joining the coronavirus vaccine race, even though it has no cases",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
-        "title": "Watch live: World Health Organization briefs public on the coronavirus outbreak as pandemic spreads",
-        "link": "https://www.cnbc.com/2020/07/20/watch-live-world-health-organization-briefs-public-on-the-coronavirus-outbreak-as-pandemic-spreads.html"
+        "title": "Oxford coronavirus vaccine safe and promising, according to early human trial results published in the Lancet",
+        "link": "https://www.washingtonpost.com/world/europe/oxford-coronavirus-vaccine-phase-1-lancet/2020/07/20/12fbbc92-c857-11ea-a825-8722004e4150_story.html"
     },
     {
         "title": "Coronavirus Live Updates: Teachers Unions Sue DeSantis Over His Order Pushing Florida Schools to Fully Reopen",
