@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
-        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
-        "link": "https://www.nocutnews.co.kr/news/5380769"
-    },
-    {
         "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
+    },
+    {
+        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
+        "link": "https://www.nocutnews.co.kr/news/5380769"
     },
     {
         "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",

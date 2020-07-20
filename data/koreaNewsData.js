@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200721002451109?did=1195m"
     },
     {
-        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
-        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
-    },
-    {
         "title": "[속보] 강서구 요양시설서 코로나19 확진자 9명 발생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819820&code=61121111&cp=nv"
     },
     {
         "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
+    },
+    {
+        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
+        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
         "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",

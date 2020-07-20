@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1882297/south-africa-struggles-with-covid-19-as-it-shows-inequalities/"
     },
     {
-        "title": "Some states keep smashing unwanted Covid-19 records as a Trump official says the surge is real",
-        "link": "https://www.cnn.com/2020/07/20/health/us-coronavirus-monday/index.html"
+        "title": "Live updates: U.S. marks another record-setting day as Trump complains about coronavirus case counting",
+        "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
     },
     {
         "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/asia/north-korea-covid-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
+        "title": "Coronavirus Live Updates: Teachers Unions Sue DeSantis Over Order Pushing Florida Schools to Fully Reopen",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
+    },
+    {
+        "title": "The crisis that shocked the world: America’s response to the coronavirus",
+        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
     },
     {
         "title": "Pandemic denial puts India in fatal peril",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Oxford coronavirus vaccine safe and promising, according to early human trial results published in the Lancet",
         "link": "https://www.washingtonpost.com/world/europe/oxford-coronavirus-vaccine-phase-1-lancet/2020/07/20/12fbbc92-c857-11ea-a825-8722004e4150_story.html"
-    },
-    {
-        "title": "Coronavirus Live Updates: Teachers Unions Sue DeSantis Over His Order Pushing Florida Schools to Fully Reopen",
-        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     }
 ];
