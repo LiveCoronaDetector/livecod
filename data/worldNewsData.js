@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1882297/south-africa-struggles-with-covid-19-as-it-shows-inequalities/"
     },
     {
-        "title": "Live updates: U.S. marks 41st record-setting day as global coronavirus death toll surpasses 600,000",
-        "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
+        "title": "The crisis that shocked the world: America’s response to the coronavirus",
+        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
     },
     {
         "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
-        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
-        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
+        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
+        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
         "title": "Why North Korea says it's joining the coronavirus vaccine race, even though it has no cases",
         "link": "https://www.cnn.com/2020/07/20/asia/north-korea-covid-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Merkel slammed for 'refusing to learn Brexit lesson' as Germany backs Brussels power-grab",
-        "link": "https://www.express.co.uk/news/politics/1311514/Angela-Merkel-European-Parliament-Brussels-Brexit-Germany-latest-news"
+        "title": "Live updates: U.S. marks 41st record-setting day as global coronavirus death toll surpasses 600,000",
+        "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
     },
     {
-        "title": "Hong Kong Teachers Fired and Afraid as China Targets Liberal Thinkers",
-        "link": "https://www.wsj.com/articles/hong-kong-teachers-fired-and-afraid-as-china-targets-liberal-thinkers-11595175839"
+        "title": "Hong Kong tightens coronavirus restrictions and makes face masks mandatory indoors as cases surge",
+        "link": "https://www.sbs.com.au/news/hong-kong-tightens-coronavirus-restrictions-and-makes-face-masks-mandatory-indoors-as-cases-surge"
+    },
+    {
+        "title": "July 19 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-19-20-intl/h_381832c424ecde06b5ac2fdf22d8642d"
     },
     {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
-    },
-    {
-        "title": "Senior doctors warn second coronavirus wave could 'devastate' NHS",
-        "link": "https://www.theguardian.com/world/2020/jul/19/coronavirus-senior-doctors-warn-second-wave-could-cripple-nhs"
     }
 ];
