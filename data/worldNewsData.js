@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/asia/north-korea-covid-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Live updates: U.S. marks 41st record-setting day as global coronavirus death toll surpasses 600,000",
-        "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
+        "title": "Coronavirus Global Updates, 20 July: Chile to gradually reopen after cases decline; Mexican president pledges better health care after pandemic",
+        "link": "https://indianexpress.com/article/world/coronavirus-global-updates-20-july-6514472/"
+    },
+    {
+        "title": "Pandemic denial puts India in fatal peril",
+        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
     },
     {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
     },
     {
-        "title": "Hong Kong tightens coronavirus restrictions and makes face masks mandatory indoors as cases surge",
-        "link": "https://www.sbs.com.au/news/hong-kong-tightens-coronavirus-restrictions-and-makes-face-masks-mandatory-indoors-as-cases-surge"
-    },
-    {
-        "title": "600,000 dead as coronavirus rebounds around the world: Live",
-        "link": "https://www.aljazeera.com/news/2020/07/worldwide-coronavirus-death-toll-nears-600000-live-updates-200718232028622.html"
+        "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
+        "link": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/"
     }
 ];

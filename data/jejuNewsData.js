@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
-        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
-        "link": "https://www.nocutnews.co.kr/news/5380769"
+        "title": "[속보] 제주 방문 광진구 확진자 접촉자 추가돼…총 62명 격리조치",
+        "link": "https://view.asiae.co.kr/article/2020072017420801457"
     },
     {
-        "title": "제주 방문 광진구 확진자 접촉자 추가돼…총 62명 격리조치",
-        "link": "http://yna.kr/AKR20200720136400056?did=1195m"
+        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
+        "link": "https://www.nocutnews.co.kr/news/5380769"
     },
     {
         "title": "광주시, 송파 60번 확진자 '2억2200만원' 구상권 검토",
