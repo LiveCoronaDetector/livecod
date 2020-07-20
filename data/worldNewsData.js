@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
-        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
-        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
+        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
+        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
-        "title": "China's property market is rebounding from the coronavirus crisis, but some warn it may overheat",
-        "link": "https://www.cnbc.com/2020/07/20/china-property-market-recovers-post-coronavirus-crisis-but-beware-bubble-risk.html"
+        "title": "Older Children Spread the Coronavirus Just as Much as Adults, New Study Finds",
+        "link": "https://www.nytimes.com/2020/07/18/health/coronavirus-children-schools.html"
     },
     {
         "title": "Virus is crushing United States",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/hong-kong-teachers-fired-and-afraid-as-china-targets-liberal-thinkers-11595175839"
     },
     {
-        "title": "Pandemic denial puts India in fatal peril",
-        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
+        "title": "July 19 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-19-20-intl/h_381832c424ecde06b5ac2fdf22d8642d"
     },
     {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
