@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007210600015&code=940601"
     },
     {
-        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
-        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
-        "title": "文 \"지역감염 확진자 수 4명...코로나 전쟁 반드시 승리하자\"",
-        "link": "https://www.sedaily.com/NewsView/1Z5DKF0MST"
+        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
+        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
         "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
@@ -23,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "서울 강서 요양시설서 ‘코로나19’ 9명 확진",
         "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
+    },
+    {
+        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     },
     {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 확진자 오늘 서울서 16명 늘어…누계 1천493명",
         "link": "http://yna.kr/AKR20200720149100004?did=1195m"
-    },
-    {
-        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     }
 ];

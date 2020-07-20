@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
-        "title": "Why North Korea says it's joining the coronavirus vaccine race, even though it has no cases",
-        "link": "https://www.cnn.com/2020/07/20/asia/north-korea-covid-vaccine-intl-hnk/index.html"
+        "title": "China uses Muslim Uighur forced labor to mass produce coronavirus PPE exported globally: report",
+        "link": "https://www.foxnews.com/world/china-muslim-uighur-forced-labor-coronavirus-ppe-masks"
     },
     {
-        "title": "Trump said Covid-19 testing 'creates more cases.' We did the math",
-        "link": "https://www.statnews.com/2020/07/20/trump-said-more-covid19-testing-creates-more-cases-we-did-the-math/"
+        "title": "Coronavirus Live News Updates",
+        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
         "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
-        "title": "The crisis that shocked the world: America’s response to the coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
+        "title": "Oxford coronavirus vaccine safe and promising, according to early human trial results published in the Lancet",
+        "link": "https://www.washingtonpost.com/world/europe/oxford-coronavirus-vaccine-phase-1-lancet/2020/07/20/12fbbc92-c857-11ea-a825-8722004e4150_story.html"
     }
 ];
