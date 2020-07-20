@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Israeli doctor reinfected with coronavirus 3 months after recovering",
-        "link": "https://www.jpost.com/health-science/israeli-doctor-reinfected-with-coronavirus-3-months-after-recovering-635550"
+        "title": "Greece's tourist reopening brings more infections but no economic panacea",
+        "link": "https://www.politico.com/news/2020/07/19/greece-tourism-coronavirus-372413"
     },
     {
         "title": "Germany's Economy Will Triumph in the Post-Covid-19 World",

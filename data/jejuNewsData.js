@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
-        "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497869&ref=A"
-    },
-    {
         "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
         "link": "https://www.nocutnews.co.kr/news/5380769"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
         "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
+    },
+    {
+        "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
     }
 ];

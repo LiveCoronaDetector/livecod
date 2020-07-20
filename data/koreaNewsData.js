@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954329.html"
     },
     {
+        "title": "[속보] 코로나 국내 신규 26명… 해외유입 22명·아시아유입 18명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/07/20/2020072001394.html"
+    },
+    {
         "title": "제넥신, 와이바이오로직스 코로나19치료제 공동개발협약 체결",
         "link": "http://www.speconomy.com/news/newsview.php?ncode=1065592226624810"
     },
     {
         "title": "문 대통령 \"코로나 6개월, 확진자 4명…코로나 이겨가고 있다\"",
         "link": "https://imnews.imbc.com/news/2020/politics/article/5848056_32626.html"
-    },
-    {
-        "title": "에이브럼스 “코로나 누적 확진자 98명… 상황 심각”",
-        "link": "https://view.asiae.co.kr/article/2020072017063328050"
     }
 ];
