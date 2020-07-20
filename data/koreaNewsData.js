@@ -5,16 +5,24 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
     },
     {
-        "title": "서울 강서 요양시설서 ‘코로나19’ 9명 확진",
-        "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
+        "title": "[속보] 제주 한림서 코로나19 5번째 확진자 발생 '유흥주점 방문자'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318126"
+    },
+    {
+        "title": "에이브럼스 “코로나 누적 확진자 98명… 상황 심각”",
+        "link": "https://view.asiae.co.kr/article/2020072017063328050"
     },
     {
         "title": "일본 코로나 신규 확진 419명…누적 사망자 1천명 넘어(종합)",
         "link": "http://yna.kr/AKR20200720148651073?did=1195m"
     },
     {
-        "title": "<속보> 코로나19 제주 26번째 확진자 발생, 한림 호박유흥주점 방문",
-        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10545?feed=na"
+        "title": "서울 강서 요양시설서 ‘코로나19’ 9명 확진",
+        "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
+    },
+    {
+        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     },
     {
         "title": "코로나19 확진자 오늘 서울서 16명 늘어…누계 1천493명",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954204.html"
     },
     {
-        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
-    },
-    {
-        "title": "제넥신, 와이바이오로직스 코로나19치료제 공동개발협약 체결",
-        "link": "http://www.speconomy.com/news/newsview.php?ncode=1065592226624810"
-    },
-    {
-        "title": "문 대통령 “지역감염 확진자 드디어 4명…코로나 이겨가고 있다”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819863&code=61111211&cp=nv"
-    },
-    {
         "title": "서정진 \"9월 코로나 항체치료제 상업생산\"",
         "link": "http://news.mk.co.kr/newsRead.php?no=742048&year=2020"
+    },
+    {
+        "title": "코로나19 어제 26명 확진…해외유입 22명, 지역발생 4명보다 5배 이상",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497846&ref=A"
     }
 ];

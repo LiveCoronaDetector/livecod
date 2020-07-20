@@ -17,20 +17,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
-        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
-        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
+        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
+        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
         "title": "Why North Korea says it's joining the coronavirus vaccine race, even though it has no cases",
         "link": "https://www.cnn.com/2020/07/20/asia/north-korea-covid-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Live updates: U.S. marks another record-setting day as Trump complains about coronavirus case counting",
-        "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
-    },
-    {
-        "title": "Pandemic denial puts India in fatal peril",
-        "link": "https://asiatimes.com/2020/07/pandemic-denial-puts-india-in-fatal-peril/"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-updates.html"
     },
     {
         "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless benefit; Trump says 'I'll be right eventually' as records fall",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Global Coronavirus Deaths Surpass 600000, With U.S. Accounting For Nearly A Quarter",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/19/892817304/global-coronavirus-deaths-surpass-600-000-with-u-s-accounting-for-nearly-a-quart"
+    },
+    {
+        "title": "Senior doctors warn second coronavirus wave could 'devastate' NHS",
+        "link": "https://www.theguardian.com/world/2020/jul/19/coronavirus-senior-doctors-warn-second-wave-could-cripple-nhs"
     }
 ];
