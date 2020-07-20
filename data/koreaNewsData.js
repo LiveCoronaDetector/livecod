@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     },
     {
+        "title": "제넥신, 와이바이오로직스 코로나19치료제 공동개발협약 체결",
+        "link": "http://www.speconomy.com/news/newsview.php?ncode=1065592226624810"
+    },
+    {
         "title": "문 대통령 “지역감염 확진자 드디어 4명…코로나 이겨가고 있다”",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819863&code=61111211&cp=nv"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007200175&t=NN"
     },
     {
-        "title": "코로나19 어제 26명 확진…해외유입 22명, 지역발생 4명보다 5배 이상",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497846&ref=A"
-    },
-    {
         "title": "[속보] 코로나 국내 신규 26명… 해외유입 22명·아시아유입 18명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/07/20/2020072001394.html"
     },
     {
-        "title": "코로나 신규 확진자 34명 증가…서울·광주에서 각 10명",
-        "link": "http://www.hani.co.kr/arti/society/health/954204.html"
+        "title": "강서중앙데이케어센터 확진자 9명 발생…서울 11명 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200720_0001101002&cID=14001&pID=14000"
     }
 ];

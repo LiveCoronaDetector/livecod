@@ -13,8 +13,8 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007191234174304"
     },
     {
-        "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
-        "link": "http://www.fnnews.com/news/202007201526312777"
+        "title": "이해찬 “코로나, 전반적으로 관리 가능한 상태”",
+        "link": "https://news.joins.com/article/olink/23423462"
     },
     {
         "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
-        "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
+        "title": "여름 성수기 맞은 제주도, 코로나19 전파 우려 '현실화'",
+        "link": "http://www.segye.com/content/html/2020/07/20/20200720511724.html?OutUrl=naver"
     },
     {
-        "title": "이해찬 “코로나, 전반적으로 관리 가능한 상태”",
-        "link": "https://news.joins.com/article/olink/23423462"
+        "title": "코로나19 사태 6개월...수도권 '집단 감염 발생지' 현재 상황은?",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007201147291139"
     }
 ];
