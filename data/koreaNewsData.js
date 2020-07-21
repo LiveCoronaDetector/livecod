@@ -17,14 +17,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
-        "title": "러시아서도 한인 건설사 직원 코로나 사망",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894105&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "[단독]이라크 韓건설현장, 40명 코로나 확진·2명 사망…집단감염 번져",
-        "link": "https://www.news1.kr/articles/?4002862"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
     },
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200721002451109?did=1195m"
     },
     {
+        "title": "러시아서도 한인 건설사 직원 코로나 사망",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894105&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "‘코로나 음성’ 확인돼야 중국 입국…증명서 없으면 탑승 거부",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072103442.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "제주 26번 코로나19 확진자 1차동선 공개",
+        "link": "https://www.nocutnews.co.kr/news/5381824"
     }
 ];

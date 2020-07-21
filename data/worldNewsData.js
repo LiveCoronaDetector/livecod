@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/live/2020/jul/21/coronavirus-covid-19-donald-trump-mike-pompeo-china-joe-biden-portland-live-updates"
     },
     {
-        "title": "WHO to fight 'dangerous' coronavirus fake news - Live updates",
+        "title": "California coronavirus cases top 400,000 – Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-outbreak-australia-victoria-grows-live-updates-200720235536147.html"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
     },
     {
-        "title": "India coronavirus: Nearly one in four in Delhi had Covid-19, study says",
-        "link": "https://www.bbc.com/news/world-asia-india-53485039"
+        "title": "India coronavirus: How Kerala's Covid 'success story' came undone",
+        "link": "https://www.bbc.com/news/world-asia-india-53431672"
     },
     {
         "title": "Chinese hackers charged by Justice Department with trying to steal US coronavirus research",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
-        "title": "Live updates: U.S. likely has 10 times more coronavirus cases than reported; Walmart will close on Thanksgiving",
+        "title": "Live updates: U.S. may have 10 times more coronavirus cases than reported; Walmart to close on Thanksgiving",
         "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
     },
     {
-        "title": "Trump embraces face masks as U.S. breaks coronavirus case records",
-        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
+        "title": "The crisis that shocked the world: America’s response to the coronavirus",
+        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
     }
 ];
