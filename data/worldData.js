@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3960583,
-        "사망자수": 143792,
-        "완치자수": 1847869
+        "확진자수": 3961205,
+        "사망자수": 143826,
+        "완치자수": 1849479
     },
     {
         "Name": "브라질",
@@ -221,7 +221,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Kazakhstan",
         "확진자수": 71838,
-        "사망자수": 375,
+        "사망자수": 585,
         "완치자수": 43029
     },
     {
@@ -1377,20 +1377,20 @@ var marker = [
         "완치자수": 180
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 174,
+        "사망자수": 11,
+        "완치자수": 91
+    },
+    {
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
         "확진자수": 171,
         "사망자수": 0,
         "완치자수": 136
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 153,
-        "사망자수": 11,
-        "완치자수": 91
     },
     {
         "Name": "Bermuda",
@@ -1593,20 +1593,20 @@ var marker = [
         "완치자수": 19
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 19,
+        "사망자수": 0,
+        "완치자수": 8
+    },
+    {
         "Name": "Dominica",
         "Name_ch": "",
         "Name_en": "Dominica",
         "확진자수": 18,
         "사망자수": 0,
         "완치자수": 18
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 17,
-        "사망자수": 0,
-        "완치자수": 8
     },
     {
         "Name": "Saint Kitts and Nevis",

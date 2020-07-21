@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
     },
     {
-        "title": "서울 강서 요양시설서 ‘코로나19’ 9명 확진",
-        "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
+        "title": "광주 코로나19 확진자, 사흘 만에 0명…다시 진정세",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007210082&t=NN"
     },
     {
-        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
+        "title": "WHO \"북한서 최근 1천100여 명 코로나 검사…모두 음성 판정\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005892617&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "브라질 각료들 코로나19 양성반응 잇따라…장관급 4명째(종합)",
+        "link": "http://yna.kr/AKR20200721005500094?did=1195m"
+    },
+    {
+        "title": "서울 강서 요양시설서 ‘코로나19’ 9명 확진",
+        "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
     },
     {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나19 확진자 오늘 서울서 16명 늘어…누계 1천493명",
-        "link": "http://yna.kr/AKR20200720149100004?did=1195m"
+        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
+        "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
-        "title": "코로나19 신규 확진자 34명…이틀째 30명대 유지",
-        "link": "http://news.tf.co.kr/read/life/1802660.htm"
-    },
-    {
-        "title": "코로나19 어제 26명 확진…해외유입 22명, 지역발생 4명보다 5배 이상",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497846&ref=A"
-    },
-    {
-        "title": "문 대통령 “지역감염 확진자 드디어 4명…코로나 이겨가고 있다”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819863&code=61111211&cp=nv"
+        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     }
 ];

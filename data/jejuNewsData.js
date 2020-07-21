@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
+        "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
         "title": "광진구 20번 확진자, 제주도 이동동선 접촉자 62명 확인",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422742"
     },
     {
-        "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
-        "link": "http://www.fnnews.com/news/202007201526312777"
-    },
-    {
-        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
+        "title": "한림 추가 확진자 없으면 등교중지 조기 해제",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4497869&ref=A"
     },
     {
         "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23423462"
     },
     {
-        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
-        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
+        "title": "광진구 확진자 다녀간 제주 한림, 5일간 1524명 검사",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014821692&code=61122027&cp=nv"
     },
     {
-        "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
+        "title": "송파60번·강남 91번 확진자, 동선 숨겨 방역망 '흔들'…\"예방 가능한 환자 놓...",
+        "link": "http://www.newsis.com/view/?id=NISX20200719_0001100294&cID=10201&pID=10200"
     }
 ];

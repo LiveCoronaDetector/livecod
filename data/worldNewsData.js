@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-20-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
         "title": "John Kasich set to endorse Joe Biden at Democratic convention",
         "link": "https://www.dailymail.co.uk/news/article-8540945/John-Kasich-set-Joe-Biden-Democratic-convention.html"
+    },
+    {
+        "title": "Oxford coronavirus vaccine triggers immune response, trial shows",
+        "link": "https://www.theguardian.com/world/2020/jul/20/oxford-coronavirus-vaccine-triggers-immune-response-trial-shows"
     }
 ];
