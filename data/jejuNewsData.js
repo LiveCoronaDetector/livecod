@@ -17,27 +17,27 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
+        "title": "제주 26번 코로나19 확진자 1차동선 공개",
+        "link": "https://www.nocutnews.co.kr/news/5381824"
+    },
+    {
         "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
-        "title": "제주도, 한림 26번 코로나19 확진자 동선 공개",
-        "link": "http://www.ihalla.com/read.php3?aid=1595300153688016073"
-    },
-    {
-        "title": "제주 26번 확진자 4명 접촉…방문한 4곳 방역소독",
-        "link": "http://www.newsis.com/view/?id=NISX20200721_0001102408&cID=10813&pID=10800"
-    },
-    {
         "title": "26번 확진자 다녀간 애월하나로마트 방역",
-        "link": "http://yna.kr/PYH20200721056200056?did=1196m"
+        "link": "http://yna.kr/PYH20200721056500056?did=1196m"
     },
     {
-        "title": "서울 광진구 코로나19 확진자에 제주도민 또 추가 확진",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007211050011532"
+        "title": "“혹시 나도?” 2차 감염 우려…코로나19 검사 긴 행렬",
+        "link": "http://www.fnnews.com/news/202007191234174304"
     },
     {
-        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
-        "link": "https://www.nocutnews.co.kr/news/5380769"
+        "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/954457.html"
+    },
+    {
+        "title": "이해찬 “코로나, 전반적으로 관리 가능한 상태”",
+        "link": "https://news.joins.com/article/olink/23423462"
     }
 ];
