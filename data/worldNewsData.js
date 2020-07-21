@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/live/2020/jul/21/coronavirus-covid-19-donald-trump-mike-pompeo-china-joe-biden-portland-live-updates"
     },
     {
-        "title": "California coronavirus cases top 400,000 – Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-outbreak-australia-victoria-grows-live-updates-200720235536147.html"
+        "title": "Israel’s new alternative prime minister pushed for coronavirus response to be managed by military, not heal...",
+        "link": "https://www.foxnews.com/world/israel-alternative-prime-minister-coronavirus-response-managed-by-military"
     },
     {
         "title": "Germany's coronavirus response is a master class in science communication",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53477121"
     },
     {
-        "title": "Live updates: U.S. may have 10 times more coronavirus cases than reported; Walmart to close on Thanksgiving",
-        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
+        "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
+        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
-        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
-        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
+        "title": "Live updates: Trump shifts tone on coronavirus, says it will probably ‘get worse before it gets better’",
+        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
     }
 ];
