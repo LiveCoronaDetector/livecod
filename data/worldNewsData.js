@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53431672"
     },
     {
-        "title": "China uses Muslim Uighur forced labor to mass produce coronavirus PPE exported globally: report",
-        "link": "https://www.foxnews.com/world/china-muslim-uighur-forced-labor-coronavirus-ppe-masks"
+        "title": "Middle East News: Iran hits record 229 deaths from coronavirus in past 24 hours",
+        "link": "http://www.gdnonline.com/Details/838221/Iran-hits-record-229-deaths-from-coronavirus-in-past-24-hours"
+    },
+    {
+        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
+        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
         "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
         "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     },
     {
-        "title": "The crisis that shocked the world: America’s response to the coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
+        "title": "Coronavirus: EU leaders reach recovery deal after marathon summit",
+        "link": "https://www.bbc.com/news/world-europe-53481542"
     },
     {
         "title": "Germany's Economy Will Triumph in the Post-Covid-19 World",
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
-    },
-    {
-        "title": "As COVID-19 cases rise, Kerala gears up to treat 50,000 patients at a time",
-        "link": "https://www.thenewsminute.com/article/covid-19-cases-rise-kerala-gears-treat-50000-patients-time-129093"
     }
 ];

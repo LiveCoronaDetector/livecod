@@ -9,6 +9,18 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954494.html"
     },
     {
+        "title": "[속보] 코로나19 신규 확진 45명···국내 발생 다시 20명대로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007211016001&code=940100"
+    },
+    {
+        "title": "광주 코로나19 확진자, 사흘 만에 0명…다시 진정세",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007210082&t=NN"
+    },
+    {
+        "title": "WHO “북한, 코로나 610명 격리…확진자는 0명”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200721500031&wlog_tag3=naver"
+    },
+    {
         "title": "코로나19 신규 확진자 45명...서울 18명 등 국내 발생 20명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007211027484231"
     },
@@ -27,17 +39,5 @@ var koreaNewsData = [
     {
         "title": "[종합] 코로나19 확진자 45명 증가...해외 25명, 서울 18명",
         "link": "http://www.fnnews.com/news/202007211014292238"
-    },
-    {
-        "title": "대구 '경북 확진자 해외유입 3명…대구 지역발생 18일째 ‘0’(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007210120"
-    },
-    {
-        "title": "서울 확진자 증가…강서구 요양시설 집단감염 영향",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498987&ref=A"
-    },
-    {
-        "title": "당국 \"4말 5초 같은 코로나19 확산, 언제든 발생 가능\"(종합)",
-        "link": "http://yna.kr/AKR20200721107851530?did=1195m"
     }
 ];
