@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Live updates: Talks for new coronavirus relief bill get underway; vaccine trial yields promising results",
-        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
+        "title": "Desperate for work, these immigrants collect the bodies of Covid-19 victims in Peru",
+        "link": "https://www.cnn.com/2020/07/20/americas/peru-venezuela-covid-19-bodies-intl/index.html"
     },
     {
         "title": "Greece's tourist reopening brings more infections but no economic panacea",
         "link": "https://www.politico.com/news/2020/07/19/greece-tourism-coronavirus-372413"
     },
     {
-        "title": "How Europe Kept Coronavirus Cases Low Even After Reopening",
-        "link": "https://www.wsj.com/articles/how-europe-slowed-its-coronavirus-cases-from-a-torrent-to-a-trickle-11595240731"
+        "title": "E.U. Adopts Groundbreaking Stimulus to Fight Coronavirus Recession",
+        "link": "https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html"
     },
     {
         "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-outbreak-australia-victoria-grows-live-updates-200720235536147.html"
     },
     {
-        "title": "Coronavirus Live News Updates",
+        "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {

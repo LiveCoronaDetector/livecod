@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007211014292238"
     },
     {
-        "title": "[전문] 동작구청 66번째 확진자 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=372683"
-    },
-    {
         "title": "서울 확진자 증가…강서구 요양시설 집단감염 영향",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498987&ref=A"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+    },
+    {
+        "title": "광주 코로나19 확진자, 사흘 만에 0명…다시 진정세",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007210082&t=NN"
     }
 ];
