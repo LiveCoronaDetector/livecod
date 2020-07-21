@@ -17,16 +17,20 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html"
     },
     {
-        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
-        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
+        "title": "India coronavirus: Nearly one in four in Delhi had Covid-19, study says",
+        "link": "https://www.bbc.com/news/world-asia-india-53485039"
     },
     {
-        "title": "Iran reports record daily toll of 229 coronavirus deaths",
-        "link": "https://news.yahoo.com/iran-reports-record-daily-toll-229-coronavirus-deaths-102238309.html"
+        "title": "Chinese and UK trials produce immune responses, offering hope in pandemic",
+        "link": "https://www.scmp.com/news/china/science/article/3094034/coronavirus-vaccine-race-chinese-and-oxford-trials-produce"
     },
     {
         "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
+    },
+    {
+        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
+        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     },
     {
         "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: EU leaders reach recovery deal after marathon summit",
         "link": "https://www.bbc.com/news/world-europe-53481542"
-    },
-    {
-        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
-        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     }
 ];

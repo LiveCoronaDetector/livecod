@@ -25,16 +25,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     },
     {
+        "title": "제주 26번 확진자 접촉 4명→16명으로 늘어났다",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318179"
+    },
+    {
         "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
         "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
-    },
-    {
-        "title": "제주 26번 확진자 접촉 4명→16명으로 늘어났다",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318179"
     },
     {
         "title": "제주 첫 ‘3차 감염자’ 동선진술 오락가락…추가 확진자 나오나 ‘촉각’",
