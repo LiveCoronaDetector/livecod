@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/07/19/greece-tourism-coronavirus-372413"
     },
     {
-        "title": "How Europe Kept Coronavirus Cases Low Even After Reopening",
-        "link": "https://www.wsj.com/articles/how-europe-slowed-its-coronavirus-cases-from-a-torrent-to-a-trickle-11595240731"
+        "title": "Spain's coronavirus rate triples in three weeks after lockdown easing",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spains-coronavirus-rate-triples-in-three-weeks-after-lockdown-easing-idUSKCN24L2BE"
     },
     {
         "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",

@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/PYH20200721056500056?did=1196m"
     },
     {
+        "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
+    },
+    {
+        "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
+    },
+    {
         "title": "“혹시 나도?” 2차 감염 우려…코로나19 검사 긴 행렬",
         "link": "http://www.fnnews.com/news/202007191234174304"
-    },
-    {
-        "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/954457.html"
-    },
-    {
-        "title": "이해찬 “코로나, 전반적으로 관리 가능한 상태”",
-        "link": "https://news.joins.com/article/olink/23423462"
     }
 ];
