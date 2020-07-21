@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/07/21/20200721517272.html?OutUrl=naver"
     },
     {
+        "title": "제주 한림지역, 최근 6일동안 1664명 코로나19 진단검사",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324763"
+    },
+    {
         "title": "제주도교육청 \"애월읍 관내 학교 등교중지 시기상조\"",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318167"
     },
     {
         "title": "제주도교육청 \"한림 지역 14개교 24일까지 원격수업 연장\"",
         "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4223399"
-    },
-    {
-        "title": "26번 확진자 다녀간 애월하나로마트 방역",
-        "link": "http://yna.kr/PYH20200721056400056?did=1196m"
     }
 ];
