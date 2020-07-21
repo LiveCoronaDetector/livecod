@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/florida-s-largest-teachers-union-files-suit-against-state-over-n1234382"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
+        "title": "July 20 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-20-20-intl/index.html"
     },
     {
-        "title": "The crisis that shocked the world: America’s response to the coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
+        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
+        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     },
     {
         "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
