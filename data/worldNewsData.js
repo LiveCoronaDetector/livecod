@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html"
     },
     {
-        "title": "Coronavirus: India's biggest airline IndiGo to cut 10% of staff",
-        "link": "https://www.bbc.com/news/business-53481938"
+        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
+        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
-        "title": "China's commercial real estate developers see growth in 3 key areas of a post-coronavirus economy",
-        "link": "https://www.cnbc.com/2020/07/21/where-chinese-developers-see-growth-in-a-post-coronavirus-economy.html"
+        "title": "China uses Muslim Uighur forced labor to mass produce coronavirus PPE exported globally: report",
+        "link": "https://www.foxnews.com/world/china-muslim-uighur-forced-labor-coronavirus-ppe-masks"
     },
     {
         "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",

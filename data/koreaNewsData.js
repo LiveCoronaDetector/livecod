@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
     {
-        "title": "[속보] 서울 코로나19 확진자 13명 추가…누적 1511명",
-        "link": "https://www.hankyung.com/society/article/2020072139137"
+        "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
     },
     {
         "title": "'코로나19' 신규 확진 45명…지역 발생 다시 증가",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007211014292238"
     },
     {
-        "title": "서울 확진자 증가…강서구 요양시설 집단감염 영향",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498987&ref=A"
-    },
-    {
         "title": "당국 \"4말 5초 같은 코로나19 확산, 언제든 발생 가능\"(종합)",
         "link": "http://yna.kr/AKR20200721107851530?did=1195m"
     },
     {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
     }
 ];

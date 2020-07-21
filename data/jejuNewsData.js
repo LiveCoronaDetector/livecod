@@ -13,8 +13,8 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
     {
-        "title": "[종합] 서울 광진구발 제주도내 3차 감염자 발생",
-        "link": "http://www.jemin.com/news/articleView.html?idxno=665828"
+        "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
     },
     {
         "title": "광진구 확진자 다녀간 제주 한림, 5일간 1524명 검사",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
     },
     {
-        "title": "제주 첫 ‘3차 감염자’ 동선진술 오락가락…추가 확진자 나오나 ‘촉각’",
-        "link": "http://www.segye.com/content/html/2020/07/21/20200721517272.html?OutUrl=naver"
+        "title": "제주 26번 확진자, 보건당국이 놓칠뻔 했다",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347723"
     }
 ];
