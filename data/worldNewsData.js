@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53431672"
     },
     {
-        "title": "U.S. says China backed hackers who targeted COVID-19 vaccine research",
-        "link": "https://www.nbcnews.com/politics/justice-department/feds-charge-two-chinese-nationals-hacking-companies-activists-dissidents-government-n1234463"
+        "title": "Chinese hackers charged by Justice Department with trying to steal US coronavirus research",
+        "link": "https://www.foxnews.com/world/chinese-hackers-charged-steal-usa-coronavirus-research"
     },
     {
         "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",

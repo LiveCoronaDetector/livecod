@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
-        "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/954457.html"
-    },
-    {
         "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
         "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
+    },
+    {
+        "title": "제주 첫 ‘3차 감염자’ 동선진술 오락가락…추가 확진자 나오나 ‘촉각’",
+        "link": "http://www.segye.com/content/html/2020/07/21/20200721517272.html?OutUrl=naver"
     }
 ];

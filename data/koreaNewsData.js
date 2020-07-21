@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072104480.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 45명...서울 18명 등 국내 발생 20명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007211027484231"
-    },
-    {
         "title": "러시아 진출 한국 건설사 직원 1명 코로나19로 사망",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007220001&t=NN"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200721158000530?did=1195m"
     },
     {
+        "title": "코로나19 신규 확진자 45명...서울 18명 등 국내 발생 20명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007211027484231"
+    },
+    {
+        "title": "이태원 클럽발 코로나... '신의 한수' 뒤엔 그가 있었다",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002659702&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
         "title": "도내 26번째 확진자 동선 공개",
         "link": "https://www.pressian.com/pages/articles/2020072112011357112?utm_source=naver&utm_medium=search"
     },
     {
         "title": "광주 20일 코로나19 확진자 '0명'",
         "link": "http://www.gjdream.com/news/articleView.html?idxno=601260"
-    },
-    {
-        "title": "WHO \"아프리카의 코로나19 빠른 확산에 큰 우려\"(종합)",
-        "link": "http://yna.kr/AKR20200721002451109?did=1195m"
     }
 ];
