@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html"
     },
     {
-        "title": "India coronavirus: Nearly one in four in Delhi had Covid-19, study says",
-        "link": "https://www.bbc.com/news/world-asia-india-53485039"
+        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
+        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
         "title": "Iran reports record daily toll of 229 coronavirus deaths",
         "link": "https://news.yahoo.com/iran-reports-record-daily-toll-229-coronavirus-deaths-102238309.html"
-    },
-    {
-        "title": "Coronavirus Live Updates: E.U. Agrees to Landmark Stimulus Deal",
-        "link": "https://www.nytimes.com/2020/07/21/world/coronavirus-covid-19.html"
     },
     {
         "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
-        "title": "Trump embraces face masks as U.S. breaks coronavirus case records",
-        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
+        "title": "Coronavirus: EU leaders reach recovery deal after marathon summit",
+        "link": "https://www.bbc.com/news/world-europe-53481542"
+    },
+    {
+        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
+        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     }
 ];

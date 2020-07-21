@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "광진구 확진자 다녀간 제주 한림, 5일간 1524명 검사",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014821692&code=61122027&cp=nv"
+    },
+    {
         "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",
         "link": "http://www.hani.co.kr/arti/area/jeju/954457.html"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주 26번 확진자 접촉 4명→16명으로 늘어났다",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318179"
-    },
-    {
-        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
         "title": "제주 첫 ‘3차 감염자’ 동선진술 오락가락…추가 확진자 나오나 ‘촉각’",
