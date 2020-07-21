@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-20-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
-        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
-        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
-    },
-    {
-        "title": "Oxford coronavirus vaccine safe and promising, according to early human trial results published in the Lancet",
-        "link": "https://www.washingtonpost.com/world/europe/oxford-coronavirus-vaccine-phase-1-lancet/2020/07/20/12fbbc92-c857-11ea-a825-8722004e4150_story.html"
+        "title": "John Kasich set to endorse Joe Biden at Democratic convention",
+        "link": "https://www.dailymail.co.uk/news/article-8540945/John-Kasich-set-Joe-Biden-Democratic-convention.html"
     }
 ];
