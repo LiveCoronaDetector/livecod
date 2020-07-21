@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
+        "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
+    },
+    {
         "title": "제주 26번 확진자 접촉 4명→16명으로 늘어났다",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318179"
     },
     {
         "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
-    },
-    {
-        "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
     }
 ];

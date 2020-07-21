@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/07/19/greece-tourism-coronavirus-372413"
     },
     {
-        "title": "E.U. Adopts Groundbreaking Stimulus to Fight Coronavirus Recession",
-        "link": "https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html"
+        "title": "EU leaders strike 'historic' $2 trillion deal to rebuild Europe's economy",
+        "link": "https://www.cnn.com/2020/07/21/economy/eu-stimulus-coronavirus/index.html"
     },
     {
-        "title": "India coronavirus: How Kerala's Covid 'success story' came undone",
-        "link": "https://www.bbc.com/news/world-asia-india-53431672"
+        "title": "India coronavirus: Nearly one in four in Delhi had Covid-19, study says",
+        "link": "https://www.bbc.com/news/world-asia-india-53485039"
     },
     {
-        "title": "Middle East News: Iran hits record 229 deaths from coronavirus in past 24 hours",
-        "link": "http://www.gdnonline.com/Details/838221/Iran-hits-record-229-deaths-from-coronavirus-in-past-24-hours"
+        "title": "Iran: Record 229 deaths from coronavirus in past 24 hours",
+        "link": "https://www.middleeastmonitor.com/20200721-iran-record-229-deaths-from-coronavirus-in-past-24-hours/"
+    },
+    {
+        "title": "Coronavirus Live Updates: E.U. Agrees to $857 Billion Stimulus Deal",
+        "link": "https://www.nytimes.com/2020/07/21/world/coronavirus-covid-19.html"
     },
     {
         "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
         "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
+        "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
+        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
+    },
+    {
         "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
         "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
-    },
-    {
-        "title": "Germany's Economy Will Triumph in the Post-Covid-19 World",
-        "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
-    },
-    {
-        "title": "Kerala reports 720 COVID-19 cases on Tuesday, 528 through contact",
-        "link": "https://english.mathrubhumi.com/news/kerala/kerala-reports-720-covid-19-cases-on-tuesday-528-through-contact-1.4920559"
     }
 ];

@@ -5,20 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200721111151073?did=1195m"
     },
     {
-        "title": "코로나 신규 확진 45명...서울 요양시설서 9명 집단감염",
-        "link": "http://www.hani.co.kr/arti/society/health/954494.html"
+        "title": "[단독]이라크 韓건설현장, 40명 코로나 확진·2명 사망…집단감염 번져",
+        "link": "https://www.news1.kr/articles/?4002862"
     },
     {
         "title": "‘코로나 음성’ 확인돼야 중국 입국…증명서 없으면 탑승 거부",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072103442.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독]이라크 韓건설현장, 40명 코로나 확진·2명 사망…집단감염 번져",
-        "link": "https://www.news1.kr/articles/?4002862"
+        "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
     },
     {
         "title": "日코로나 신규 확진 다시 600명대…내일부터 관광 지원 강행(종합2보)",
         "link": "http://yna.kr/AKR20200721111152073?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진 45명...서울 요양시설서 9명 집단감염",
+        "link": "http://www.hani.co.kr/arti/society/health/954494.html"
     },
     {
         "title": "코로나19 신규 확진자 45명...서울 18명 등 국내 발생 20명",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "광주 코로나19 확진자, 사흘 만에 0명…다시 진정세",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007210082&t=NN"
-    },
-    {
-        "title": "WHO \"아프리카의 코로나19 빠른 확산에 큰 우려\"(종합)",
-        "link": "http://yna.kr/AKR20200721002451109?did=1195m"
     }
 ];
