@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
-        "title": "‘코로나 음성’ 확인돼야 중국 입국…증명서 없으면 탑승 거부",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072103442.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "남아공 정전사태 속 에너지 장관도 코로나19로 입원(종합)",
-        "link": "http://yna.kr/AKR20200721137951099?did=1195m"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
+    },
+    {
+        "title": "광주 코로나19 확진자, 사흘 만에 0명…다시 진정세",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007210082&t=NN"
+    },
+    {
+        "title": "WHO \"아프리카의 코로나19 빠른 확산에 큰 우려\"(종합)",
+        "link": "http://yna.kr/AKR20200721002451109?did=1195m"
     }
 ];

@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
     },
     {
-        "title": "India coronavirus: Nearly one in four in Delhi had Covid-19, study says",
-        "link": "https://www.bbc.com/news/world-asia-india-53485039"
+        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
+        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
         "title": "Iran reports record daily toll of 229 coronavirus deaths",
         "link": "https://news.yahoo.com/iran-reports-record-daily-toll-229-coronavirus-deaths-102238309.html"
-    },
-    {
-        "title": "CDC Says Case Numbers Could Be 2-13 Times Higher in U.S: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/21/world/coronavirus-covid-19.html"
     },
     {
         "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: EU leaders reach recovery deal after marathon summit",
         "link": "https://www.bbc.com/news/world-europe-53481542"
+    },
+    {
+        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
+        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     }
 ];
