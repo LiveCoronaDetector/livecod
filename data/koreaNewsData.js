@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5848764_32640.html"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
+        "title": "WHO “북한, 코로나 610명 격리…확진자는 0명”",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200721500031&wlog_tag3=naver"
     },
     {
         "title": "광주 코로나19 확진자, 사흘 만에 0명…다시 진정세",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007210082&t=NN"
     },
     {
-        "title": "WHO \"북한서 최근 1천100여 명 코로나 검사…모두 음성 판정\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005892617&plink=ORI&cooper=NAVER"
+        "title": "코로나로 증명된 공공의료의 힘…병상 10% 미만, 아직 갈 길 멀다",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007210600015&code=940601"
     },
     {
         "title": "브라질 각료들 코로나19 양성반응 잇따라…장관급 4명째(종합)",
         "link": "http://yna.kr/AKR20200721005500094?did=1195m"
     },
     {
+        "title": "文 \"지역감염 확진자 수 4명...코로나 전쟁 반드시 승리하자\"",
+        "link": "https://www.sedaily.com/NewsView/1Z5DKF0MST"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
+    },
+    {
+        "title": "광진구 코로나19 확진자에 제주도민 또 감염",
+        "link": "https://www.nocutnews.co.kr/news/5381597"
+    },
+    {
         "title": "서울 강서 요양시설서 ‘코로나19’ 9명 확진",
         "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
-    },
-    {
-        "title": "제주 코로나19 감염 26번째 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
-        "link": "http://www.fnnews.com/news/202007210015021219"
-    },
-    {
-        "title": "미국 텍사스서 1살 미만 영아 85명 코로나19 감염",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990157?division=NAVER"
     }
 ];

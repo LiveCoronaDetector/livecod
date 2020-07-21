@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/how-europe-slowed-its-coronavirus-cases-from-a-torrent-to-a-trickle-11595240731"
     },
     {
-        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
-        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
+        "title": "Coronavirus India live updates: cases, deaths and news",
+        "link": "https://en.as.com/en/2020/07/21/latest_news/1595288595_602693.html"
     },
     {
         "title": "China uses Muslim Uighur forced labor to mass produce coronavirus PPE exported globally: report",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
-        "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
-        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
+        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
+        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
-        "title": "John Kasich set to endorse Joe Biden at Democratic convention",
-        "link": "https://www.dailymail.co.uk/news/article-8540945/John-Kasich-set-Joe-Biden-Democratic-convention.html"
+        "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
+        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
         "title": "Oxford coronavirus vaccine triggers immune response, trial shows",
