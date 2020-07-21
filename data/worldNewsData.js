@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Coronavirus: Why are Americans so angry about masks?",
-        "link": "https://www.bbc.com/news/world-us-canada-53477121"
+        "title": "Coronavirus US: record hospitalisations in seven states as Trump resumes briefings – live updates",
+        "link": "https://www.theguardian.com/us-news/live/2020/jul/21/coronavirus-covid-19-donald-trump-mike-pompeo-china-joe-biden-portland-live-updates"
     },
     {
         "title": "Greece's tourist reopening brings more infections but no economic panacea",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html"
     },
     {
-        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
-        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
+        "title": "India coronavirus: How Kerala's Covid 'success story' came undone",
+        "link": "https://www.bbc.com/news/world-asia-india-53431672"
     },
     {
         "title": "China uses Muslim Uighur forced labor to mass produce coronavirus PPE exported globally: report",
         "link": "https://www.foxnews.com/world/china-muslim-uighur-forced-labor-coronavirus-ppe-masks"
     },
     {
-        "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
-        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
+        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
+        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     },
     {
-        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
-        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
+        "title": "The crisis that shocked the world: America’s response to the coronavirus",
+        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
     },
     {
-        "title": "Coronavirus Live Updates: E.U. Agrees to $857 Billion Stimulus Deal",
-        "link": "https://www.nytimes.com/2020/07/21/world/coronavirus-covid-19.html"
+        "title": "Germany's Economy Will Triumph in the Post-Covid-19 World",
+        "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
     },
     {
-        "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
-        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
+        "title": "As COVID-19 cases rise, Kerala gears up to treat 50,000 patients at a time",
+        "link": "https://www.thenewsminute.com/article/covid-19-cases-rise-kerala-gears-treat-50000-patients-time-129093"
     }
 ];

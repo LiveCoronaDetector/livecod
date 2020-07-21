@@ -5,16 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
-        "title": "제주 코로나19 감염 26번째 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "제주 26번 코로나19 확진자 1차동선 공개",
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
     {
-        "title": "광진구 확진자 다녀간 제주 한림, 5일간 1524명 검사",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014821692&code=61122027&cp=nv"
+        "title": "제주 코로나19 감염 26번째 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
+        "title": "제주 26번 확진자 접촉 4명→16명으로 늘어났다",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318179"
+    },
+    {
         "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
     },
     {
-        "title": "제주 26번 확진자 접촉 4명→16명으로 늘어났다",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318179"
+        "title": "제주도, 거세지는 광진발 여진…,제주26번 코로나 확진자 동선 공개",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=243916"
     }
 ];
