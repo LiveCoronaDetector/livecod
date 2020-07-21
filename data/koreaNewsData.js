@@ -21,20 +21,20 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4002862"
     },
     {
-        "title": "‘코로나 음성’ 확인돼야 중국 입국…증명서 없으면 탑승 거부",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072103442.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "남아공 정전사태 속 에너지 장관도 코로나19로 입원(종합)",
-        "link": "http://yna.kr/AKR20200721137951099?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 45명...서울 18명 등 국내 발생 20명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007211027484231"
     },
     {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "‘코로나 음성’ 확인돼야 중국 입국…증명서 없으면 탑승 거부",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072103442.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "남아공 정전사태 속 에너지 장관도 코로나19로 입원(종합)",
+        "link": "http://yna.kr/AKR20200721137951099?did=1195m"
     },
     {
         "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
