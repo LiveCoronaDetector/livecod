@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
-        "title": "서울 광진구 코로나19 확진자에 제주도민 또 추가 확진",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007211050011532"
-    },
-    {
         "title": "제주 첫 3차 감염 26번 확진자, 나흘간 방역 '사각지대'",
         "link": "https://hankookilbo.com/News/Read/A2020072113040005765?did=NA"
+    },
+    {
+        "title": "제주 '3차 감염' 26번 확진자 진술 '오락가락'…추가 'n차 감염' 촉각",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318151"
     },
     {
         "title": "26번 확진자 다녀간 애월하나로마트 방역",

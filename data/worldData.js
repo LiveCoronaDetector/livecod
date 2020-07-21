@@ -380,8 +380,8 @@ var marker = [
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "확진자수": 35526,
-        "사망자수": 1185,
+        "확진자수": 35615,
+        "사망자수": 1186,
         "완치자수": 23741
     },
     {
@@ -489,20 +489,20 @@ var marker = [
         "완치자수": 11868
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 17590,
+        "사망자수": 92,
+        "완치자수": 9463
+    },
+    {
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
         "확진자수": 17562,
         "사망자수": 276,
         "완치자수": 15132
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 17314,
-        "사망자수": 91,
-        "완치자수": 9463
     },
     {
         "Name": "카메룬",
@@ -756,9 +756,9 @@ var marker = [
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "확진자수": 4339,
+        "확진자수": 4347,
         "사망자수": 596,
-        "완치자수": 3232
+        "완치자수": 3257
     },
     {
         "Name": "Albania",
@@ -889,20 +889,20 @@ var marker = [
         "완치자수": 2308
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "확진자수": 2283,
+        "사망자수": 35,
+        "완치자수": 387
+    },
+    {
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
         "확진자수": 2211,
         "사망자수": 45,
         "완치자수": 1175
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "확진자수": 2188,
-        "사망자수": 35,
-        "완치자수": 385
     },
     {
         "Name": "Cabo Verde",
@@ -1124,9 +1124,9 @@ var marker = [
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "확진자수": 1039,
+        "확진자수": 1049,
         "사망자수": 16,
-        "완치자수": 900
+        "완치자수": 903
     },
     {
         "Name": "Cyprus",
@@ -1260,7 +1260,7 @@ var marker = [
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "확진자수": 384,
+        "확진자수": 396,
         "사망자수": 0,
         "완치자수": 360
     },
