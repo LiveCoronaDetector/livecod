@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/07/19/greece-tourism-coronavirus-372413"
     },
     {
-        "title": "How Europe Kept Coronavirus Cases Low Even After Reopening",
-        "link": "https://www.wsj.com/articles/how-europe-slowed-its-coronavirus-cases-from-a-torrent-to-a-trickle-11595240731"
+        "title": "Spain's coronavirus rate triples in three weeks after lockdown easing",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spains-coronavirus-rate-triples-in-three-weeks-after-lockdown-easing-idUSKCN24L2BE"
     },
     {
         "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
-        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
-        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
+        "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
+        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
-        "title": "Oxford coronavirus vaccine triggers immune response, trial shows",
-        "link": "https://www.theguardian.com/world/2020/jul/20/oxford-coronavirus-vaccine-triggers-immune-response-trial-shows"
+        "title": "Coronavirus: Why are Americans so angry about masks?",
+        "link": "https://www.bbc.com/news/world-us-canada-53477121"
     }
 ];
