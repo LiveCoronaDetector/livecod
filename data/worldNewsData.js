@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Trump signs executive order to exclude undocumented people from census – live",
-        "link": "https://www.theguardian.com/us-news/live/2020/jul/21/coronavirus-covid-19-donald-trump-mike-pompeo-china-joe-biden-portland-live-updates"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/07/21/world/coronavirus-covid-19.html"
     },
     {
         "title": "California coronavirus cases top 400,000 – Live updates",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53477121"
     },
     {
-        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
-        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
+        "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",
+        "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
     },
     {
-        "title": "Live updates: U.S. may have 10 times more coronavirus cases than reported; Walmart to close on Thanksgiving",
-        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
+        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
+        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
     },
     {
-        "title": "The crisis that shocked the world: America’s response to the coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
+        "title": "Coronavirus: EU leaders reach recovery deal after marathon summit",
+        "link": "https://www.bbc.com/news/world-europe-53481542"
     }
 ];
