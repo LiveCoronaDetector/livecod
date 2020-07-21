@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954494.html"
     },
     {
-        "title": "코로나 확진 45명…지역 20명 중 서울 18명 '최다'(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072101244.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "'강남 사무실' 코로나19 경기북부로 확산…이틀간 4명 확진(종합)",
-        "link": "http://yna.kr/AKR20200721058551060?did=1195m"
+        "title": "코로나19 신규 확진자 45명...서울 18명 등 국내 발생 20명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007211027484231"
     },
     {
         "title": "제주 26번 코로나19 확진자 1차동선 공개",
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
     {
-        "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
-    },
-    {
-        "title": "'코로나19' 신규 확진 45명…지역 발생 다시 증가",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5849205_32496.html"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 45명 증가...해외 25명, 서울 18명",
-        "link": "http://www.fnnews.com/news/202007211014292238"
-    },
-    {
         "title": "당국 \"4말 5초 같은 코로나19 확산, 언제든 발생 가능\"(종합)",
         "link": "http://yna.kr/AKR20200721107851530?did=1195m"
     },
     {
-        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
-        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
+        "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
         "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
+    },
+    {
+        "title": "광주 코로나19 확진자, 사흘 만에 0명…다시 진정세",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007210082&t=NN"
+    },
+    {
+        "title": "WHO \"아프리카의 코로나19 빠른 확산에 큰 우려\"(종합)",
+        "link": "http://yna.kr/AKR20200721002451109?did=1195m"
+    },
+    {
+        "title": "[속보] 강서구 요양시설서 코로나19 확진자 9명 발생",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819820&code=61121111&cp=nv"
+    },
+    {
+        "title": "‘코로나 음성’ 확인돼야 중국 입국…증명서 없으면 탑승 거부",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072103442.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

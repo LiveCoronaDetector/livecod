@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Desperate for work, these immigrants collect the bodies of Covid-19 victims in Peru",
-        "link": "https://www.cnn.com/2020/07/20/americas/peru-venezuela-covid-19-bodies-intl/index.html"
+        "title": "Coronavirus: Why are Americans so angry about masks?",
+        "link": "https://www.bbc.com/news/world-us-canada-53477121"
     },
     {
         "title": "Greece's tourist reopening brings more infections but no economic panacea",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
     {
-        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
-        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
+        "title": "'Things could get very ugly': Experts fear post-election crisis as Trump sets the stage to dispute the results in November",
+        "link": "https://www.cnn.com/2020/07/20/politics/disputed-election-crisis-trump/index.html"
     },
     {
         "title": "Coronavirus Live Updates: Trump to Resume Daily Briefings, a Tacit Acknowledgment of Surging Cases",
