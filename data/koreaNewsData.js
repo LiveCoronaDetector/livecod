@@ -9,20 +9,12 @@ var koreaNewsData = [
         "link": "http://www.gjdream.com/news/articleView.html?idxno=601260"
     },
     {
-        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
-    },
-    {
         "title": "WHO \"아프리카의 코로나19 빠른 확산에 큰 우려\"(종합)",
         "link": "http://yna.kr/AKR20200721002451109?did=1195m"
     },
     {
         "title": "코로나 확진 45명…지역 20명 중 서울 18명 '최다'(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072101244.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "서울시, 코로나19 신규 확진자 21명 발생",
-        "link": "http://www.hani.co.kr/arti/area/capital/954505.html"
     },
     {
         "title": "제주 26번 코로나19 확진자 1차동선 공개",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "'코로나19' 신규 확진 45명…지역 발생 다시 증가",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5849205_32496.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 45명···국내 발생 다시 20명대로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007211016001&code=940100"
+    },
+    {
+        "title": "[속보] 코로나 신규 확진자 45명... 지역감염 20명·해외유입 25명",
+        "link": "https://hankookilbo.com/News/Read/A2020072110100003347?did=NA"
     }
 ];

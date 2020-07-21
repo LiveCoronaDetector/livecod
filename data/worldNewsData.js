@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spains-coronavirus-rate-triples-in-three-weeks-after-lockdown-easing-idUSKCN24L2BE"
     },
     {
-        "title": "India coronavirus: How Kerala's Covid 'success story' came undone",
-        "link": "https://www.bbc.com/news/world-asia-india-53431672"
+        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
+        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
         "title": "'Worth it': EU reaches deal on coronavirus recovery: Live updates",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/florida-s-largest-teachers-union-files-suit-against-state-over-n1234382"
     },
     {
-        "title": "July 20 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-20-20-intl/index.html"
+        "title": "Oxford coronavirus vaccine triggers immune response, trial shows",
+        "link": "https://www.theguardian.com/world/2020/jul/20/oxford-coronavirus-vaccine-triggers-immune-response-trial-shows"
     },
     {
         "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",

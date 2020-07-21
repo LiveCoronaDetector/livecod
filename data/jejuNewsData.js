@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422742"
     },
     {
-        "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
-        "link": "http://www.fnnews.com/news/202007201526312777"
-    },
-    {
         "title": "제주 26번 코로나19 확진자 1차동선 공개",
         "link": "https://www.nocutnews.co.kr/news/5381824"
+    },
+    {
+        "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
+        "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
         "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/954524.html"
     },
     {
-        "title": "(속보) 26번째 코로나19 확진자 자가격리중 음식점 방문",
-        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10550?feed=na"
+        "title": "26번 확진자 다녀간 애월하나로마트 방역",
+        "link": "http://yna.kr/PYH20200721056500056?did=1196m"
     },
     {
-        "title": "26번 확진자 다녀간 애월하나로마트 방역",
-        "link": "http://yna.kr/PYH20200721056200056?did=1196m"
+        "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
     },
     {
         "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
