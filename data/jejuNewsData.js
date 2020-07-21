@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
-        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
-    },
-    {
         "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주도교육청 \"한림 지역 14개교 24일까지 원격수업 연장\"",
         "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4223399"
+    },
+    {
+        "title": "26번 확진자 다녀간 애월하나로마트 방역",
+        "link": "http://yna.kr/PYH20200721056200056?did=1196m"
     }
 ];
