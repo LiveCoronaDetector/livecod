@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
+        "title": "[속보] 日 코로나 확진자 581명 추가…다시 500명대로",
+        "link": "https://www.hankyung.com/international/article/2020072140867"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 강서구 요양시설서 코로나19 확진자 9명 발생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819820&code=61121111&cp=nv"
-    },
-    {
-        "title": "‘코로나 음성’ 확인돼야 중국 입국…증명서 없으면 탑승 거부",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/21/2020072103442.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
