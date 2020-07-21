@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
     },
     {
-        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
-        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
+        "title": "India coronavirus: Nearly one in four in Delhi had Covid-19, study says",
+        "link": "https://www.bbc.com/news/world-asia-india-53485039"
     },
     {
         "title": "Chinese hackers charged by Justice Department with trying to steal US coronavirus research",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53477121"
     },
     {
-        "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
-        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
-    },
-    {
         "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
         "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
-        "title": "Coronavirus: EU leaders reach recovery deal after marathon summit",
-        "link": "https://www.bbc.com/news/world-europe-53481542"
+        "title": "Live updates: U.S. likely has 10 times more coronavirus cases than reported; Walmart will close on Thanksgiving",
+        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
+    },
+    {
+        "title": "Trump embraces face masks as U.S. breaks coronavirus case records",
+        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
     }
 ];
