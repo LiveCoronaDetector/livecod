@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 3988344,
-        "사망자수": 144377,
-        "완치자수": 1862360
+        "확진자수": 3989370,
+        "사망자수": 144404,
+        "완치자수": 1862380
     },
     {
         "Name": "브라질",
@@ -140,7 +140,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 203557,
+        "확진자수": 203597,
         "사망자수": 9175,
         "완치자수": 188100
     },
@@ -1436,7 +1436,7 @@ var marker = [
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "확진자수": 109,
+        "확진자수": 111,
         "사망자수": 4,
         "완치자수": 100
     },
@@ -1545,6 +1545,14 @@ var marker = [
         "완치자수": 24
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 27,
+        "사망자수": 1,
+        "완치자수": 8
+    },
+    {
         "Name": "Fiji",
         "Name_ch": "",
         "Name_en": "Fiji",
@@ -1583,14 +1591,6 @@ var marker = [
         "확진자수": 22,
         "사망자수": 0,
         "완치자수": 21
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 19,
-        "사망자수": 1,
-        "완치자수": 8
     },
     {
         "Name": "Laos",

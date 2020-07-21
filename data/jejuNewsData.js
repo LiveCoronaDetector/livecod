@@ -17,6 +17,14 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
+        "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/954457.html"
+    },
+    {
+        "title": "광진구 확진자 다녀간 제주 한림, 5일간 1524명 검사",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014821692&code=61122027&cp=nv"
+    },
+    {
         "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
         "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     },
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
     },
     {
-        "title": "제주 첫 3차 감염 26번 확진자, 나흘간 방역 '사각지대'",
-        "link": "https://hankookilbo.com/News/Read/A2020072113040005765?did=NA"
-    },
-    {
         "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
-    },
-    {
-        "title": "제주 26번 코로나19 확진자 진술 오락가락",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347705"
     }
 ];

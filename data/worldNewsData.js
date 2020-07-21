@@ -5,11 +5,11 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Coronavirus US: record hospitalisations in seven states as Trump resumes briefings – live",
+        "title": "Trump signs executive order to exclude undocumented people from census – live",
         "link": "https://www.theguardian.com/us-news/live/2020/jul/21/coronavirus-covid-19-donald-trump-mike-pompeo-china-joe-biden-portland-live-updates"
     },
     {
-        "title": "Iran records highest daily death toll from coronavirus: Live",
+        "title": "WHO to fight 'dangerous' coronavirus fake news - Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-outbreak-australia-victoria-grows-live-updates-200720235536147.html"
     },
     {
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/chinese-hackers-charged-steal-usa-coronavirus-research"
     },
     {
+        "title": "Coronavirus: Why are Americans so angry about masks?",
+        "link": "https://www.bbc.com/news/world-us-canada-53477121"
+    },
+    {
         "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: EU leaders reach recovery deal after marathon summit",
         "link": "https://www.bbc.com/news/world-europe-53481542"
-    },
-    {
-        "title": "Live updates: Trump set to resume briefing; U.S. likely has 10 times more coronavirus infections than reported",
-        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
     }
 ];

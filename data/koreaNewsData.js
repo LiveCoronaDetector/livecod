@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954494.html"
     },
     {
+        "title": "코로나19 신규 확진자 45명...서울 18명 등 국내 발생 20명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007211027484231"
+    },
+    {
         "title": "러시아서도 한인 건설사 직원 코로나 사망",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894105&plink=ORI&cooper=NAVER"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "[단독]이라크 韓건설현장, 40명 코로나 확진·2명 사망…집단감염 번져",
         "link": "https://www.news1.kr/articles/?4002862"
-    },
-    {
-        "title": "코로나19 신규 확진자 45명...서울 18명 등 국내 발생 20명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007211027484231"
     },
     {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
