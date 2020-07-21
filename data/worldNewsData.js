@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Coronavirus US: record hospitalisations in seven states as Trump resumes briefings – live updates",
+        "title": "Coronavirus US: record hospitalisations in seven states as Trump resumes briefings – live",
         "link": "https://www.theguardian.com/us-news/live/2020/jul/21/coronavirus-covid-19-donald-trump-mike-pompeo-china-joe-biden-portland-live-updates"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     },
     {
-        "title": "Coronavirus: EU leaders reach recovery deal after marathon summit",
-        "link": "https://www.bbc.com/news/world-europe-53481542"
-    },
-    {
         "title": "Germany's Economy Will Triumph in the Post-Covid-19 World",
         "link": "https://www.nytimes.com/2020/07/19/opinion/coronavirus-germany-economy.html"
+    },
+    {
+        "title": "Kerala reports 720 COVID-19 cases on Tuesday, 528 through contact",
+        "link": "https://english.mathrubhumi.com/news/kerala/kerala-reports-720-covid-19-cases-on-tuesday-528-through-contact-1.4920559"
     }
 ];
