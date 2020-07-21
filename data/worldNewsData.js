@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53485039"
     },
     {
-        "title": "Chinese and UK trials produce immune responses, offering hope in pandemic",
-        "link": "https://www.scmp.com/news/china/science/article/3094034/coronavirus-vaccine-race-chinese-and-oxford-trials-produce"
+        "title": "Iran reports record daily toll of 229 coronavirus deaths",
+        "link": "https://news.yahoo.com/iran-reports-record-daily-toll-229-coronavirus-deaths-102238309.html"
+    },
+    {
+        "title": "Coronavirus Live Updates: C.D.C. Says Case Numbers Could Be 2-13 Times Higher Than Reported in Parts of U.S.",
+        "link": "https://www.nytimes.com/2020/07/21/world/coronavirus-covid-19.html"
     },
     {
         "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
         "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
-    },
-    {
-        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
-        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     },
     {
         "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
