@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
+        "title": "서울 광진구 코로나19 확진자에 제주도민 또 추가 확진",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007211050011532"
+    },
+    {
+        "title": "(속보) 26번째 코로나19 확진자 진술 엇갈려, 음식점 방문일 20일로 확인",
+        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/10550?feed=na"
+    },
+    {
         "title": "26번 확진자 다녀간 애월하나로마트 방역",
         "link": "http://yna.kr/PYH20200721056500056?did=1196m"
     },
     {
         "title": "제주도 25번째 코로나19 확진자 접촉자 '5명'",
         "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126469"
-    },
-    {
-        "title": "서울 관악구 사무실 코로나19 집단감염, 경기-전북-광주-제주까지 확산",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020071917521812058"
-    },
-    {
-        "title": "“혹시 나도?” 2차 감염 우려…코로나19 검사 긴 행렬",
-        "link": "http://www.fnnews.com/news/202007191234174304"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Live updates: Trump embraces face masks as U.S. breaks coronavirus case records",
-        "link": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/"
+        "title": "Live updates: Talks for new coronavirus relief bill get underway; vaccine trial yields promising results",
+        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
     },
     {
         "title": "Greece's tourist reopening brings more infections but no economic panacea",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spains-coronavirus-rate-triples-in-three-weeks-after-lockdown-easing-idUSKCN24L2BE"
     },
     {
-        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
-        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
+        "title": "India coronavirus: How Kerala's Covid 'success story' came undone",
+        "link": "https://www.bbc.com/news/world-asia-india-53431672"
     },
     {
-        "title": "Coronavirus outbreak in Australia's Victoria grows: Live updates",
+        "title": "'Worth it': EU reaches deal on coronavirus recovery: Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-outbreak-australia-victoria-grows-live-updates-200720235536147.html"
     },
     {
-        "title": "Coronavirus Live News Updates",
-        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
+        "title": "Florida's largest teachers union sues state over reopening schools",
+        "link": "https://www.nbcnews.com/news/us-news/florida-s-largest-teachers-union-files-suit-against-state-over-n1234382"
     },
     {
         "title": "The latest on the coronavirus pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-20-20-intl/index.html"
     },
     {
-        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
-        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
+        "title": "The crisis that shocked the world: America’s response to the coronavirus",
+        "link": "https://www.washingtonpost.com/health/2020/07/19/coronavirus-us-failure/"
     },
     {
-        "title": "Oxford coronavirus vaccine triggers immune response, trial shows",
-        "link": "https://www.theguardian.com/world/2020/jul/20/oxford-coronavirus-vaccine-triggers-immune-response-trial-shows"
+        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
+        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     }
 ];
