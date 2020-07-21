@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Fauci says he has not been invited to Trump's coronavirus briefing – live",
+        "title": "Trump delivers White House coronavirus briefing without public health experts – live",
         "link": "https://www.theguardian.com/us-news/live/2020/jul/21/coronavirus-covid-19-donald-trump-mike-pompeo-china-joe-biden-portland-live-updates"
     },
     {
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
     },
     {
-        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
-        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
+        "title": "India coronavirus: How Kerala's Covid 'success story' came undone",
+        "link": "https://www.bbc.com/news/world-asia-india-53431672"
     },
     {
-        "title": "Chinese hackers charged by Justice Department with trying to steal US coronavirus research",
-        "link": "https://www.foxnews.com/world/chinese-hackers-charged-steal-usa-coronavirus-research"
+        "title": "U.S. says China backed hackers who targeted COVID-19 vaccine research",
+        "link": "https://www.nbcnews.com/politics/justice-department/feds-charge-two-chinese-nationals-hacking-companies-activists-dissidents-government-n1234463"
     },
     {
         "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",
         "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
     },
     {
-        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
-        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
+        "title": "Coronavirus: Why are Americans so angry about masks?",
+        "link": "https://www.bbc.com/news/world-us-canada-53477121"
     },
     {
         "title": "Live updates: U.S. may have 10 times more coronavirus cases than reported; Walmart to close on Thanksgiving",
         "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus: EU leaders reach recovery deal after marathon summit",
-        "link": "https://www.bbc.com/news/world-europe-53481542"
+        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
+        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
     }
 ];
