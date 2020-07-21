@@ -9,8 +9,8 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "'광진구 확진자'발 1명 추가 확진..제주 첫 'n차감염'",
-        "link": "http://www.ihalla.com/read.php3?aid=1595251043687988073"
+        "title": "광진구 20번 확진자, 제주도 이동동선 접촉자 62명 확인",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422742"
     },
     {
         "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
-        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
-        "link": "https://www.nocutnews.co.kr/news/5380769"
+        "title": "26번 확진자 다녀간 애월하나로마트 방역",
+        "link": "http://yna.kr/PYH20200721056200056?did=1196m"
     },
     {
-        "title": "광진구 20번 확진자, 제주도 이동동선 접촉자 62명 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422742"
+        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
+        "link": "https://www.nocutnews.co.kr/news/5380769"
     },
     {
         "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",
