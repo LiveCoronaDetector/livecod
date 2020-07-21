@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/how-europe-slowed-its-coronavirus-cases-from-a-torrent-to-a-trickle-11595240731"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news",
-        "link": "https://en.as.com/en/2020/07/21/latest_news/1595288595_602693.html"
+        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
+        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
         "title": "China uses Muslim Uighur forced labor to mass produce coronavirus PPE exported globally: report",

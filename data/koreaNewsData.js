@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
+        "title": "[속보] 코로나 신규 확진자 45명... 지역감염 20명·해외유입 25명",
+        "link": "https://hankookilbo.com/News/Read/A2020072110100003347?did=NA"
+    },
+    {
         "title": "WHO \"아프리카의 코로나19 빠른 확산에 큰 우려\"",
         "link": "https://imnews.imbc.com/news/2020/world/article/5848764_32640.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 45명…국내발생 20명·해외유입 25명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498824&ref=A"
+    },
+    {
+        "title": "[속보] 다시 급증한 신규확진자…지역발생 20명·해외유입 25명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014823676&code=61121911&cp=nv"
     },
     {
         "title": "WHO “북한, 코로나 610명 격리…확진자는 0명”",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200721500031&wlog_tag3=naver"
     },
     {
-        "title": "광주 코로나19 확진자, 사흘 만에 0명…다시 진정세",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007210082&t=NN"
+        "title": "[종합] 코로나19 확진자 45명 증가...해외 25명, 서울 18명",
+        "link": "http://www.fnnews.com/news/202007211014292238"
     },
     {
-        "title": "코로나로 증명된 공공의료의 힘…병상 10% 미만, 아직 갈 길 멀다",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007210600015&code=940601"
+        "title": "[속보] '코로나19' 국내 현황…총 1만3816명, 신규확진 45명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=402459&class=33&grp="
+    },
+    {
+        "title": "[속보] 코로나19 신규확진 45명…총 1만3천816명",
+        "link": "https://news.imaeil.com/Society/2020072110112601733"
     },
     {
         "title": "브라질 각료들 코로나19 양성반응 잇따라…장관급 4명째(종합)",
         "link": "http://yna.kr/AKR20200721005500094?did=1195m"
-    },
-    {
-        "title": "文 \"지역감염 확진자 수 4명...코로나 전쟁 반드시 승리하자\"",
-        "link": "https://www.sedaily.com/NewsView/1Z5DKF0MST"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
-    },
-    {
-        "title": "광진구 코로나19 확진자에 제주도민 또 감염",
-        "link": "https://www.nocutnews.co.kr/news/5381597"
-    },
-    {
-        "title": "서울 강서 요양시설서 ‘코로나19’ 9명 확진",
-        "link": "http://www.hani.co.kr/arti/area/capital/954343.html"
     }
 ];

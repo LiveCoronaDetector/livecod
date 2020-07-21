@@ -5,39 +5,39 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
-        "title": "광진구 코로나19 확진자에 제주도민 또 감염",
-        "link": "https://www.nocutnews.co.kr/news/5381597"
-    },
-    {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "광진구 20번 확진자, 제주도 이동동선 접촉자 62명 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422742"
+        "title": "'광진구 확진자'발 1명 추가 확진..제주 첫 'n차감염'",
+        "link": "http://www.ihalla.com/read.php3?aid=1595251043687988073"
     },
     {
         "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
         "link": "http://www.fnnews.com/news/202007201526312777"
     },
     {
-        "title": "“혹시 나도?” 2차 감염 우려…코로나19 검사 긴 행렬",
-        "link": "http://www.fnnews.com/news/202007191234174304"
+        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
+    },
+    {
+        "title": "광진구 확진자 접촉, 제주 코로나19 검사 1343명 전원 음성",
+        "link": "https://www.nocutnews.co.kr/news/5380769"
+    },
+    {
+        "title": "광진구 20번 확진자, 제주도 이동동선 접촉자 62명 확인",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422742"
     },
     {
         "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",
         "link": "http://www.hani.co.kr/arti/area/jeju/954457.html"
     },
     {
-        "title": "이해찬 “코로나19 전반적으로 관리 가능한 상태”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498108&ref=A"
+        "title": "이해찬 “코로나, 전반적으로 관리 가능한 상태”",
+        "link": "https://news.joins.com/article/olink/23423462"
     },
     {
         "title": "광진구 확진자 다녀간 제주 한림, 5일간 1524명 검사",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014821692&code=61122027&cp=nv"
-    },
-    {
-        "title": "'광진구 확진자'발 1명 추가 확진..제주 첫 'n차감염'",
-        "link": "http://www.ihalla.com/read.php3?aid=1595251043687988073"
     }
 ];
