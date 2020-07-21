@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/07/19/greece-tourism-coronavirus-372413"
     },
     {
-        "title": "Spain's coronavirus rate triples in three weeks after lockdown easing",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-spain/spains-coronavirus-rate-triples-in-three-weeks-after-lockdown-easing-idUSKCN24L2BE"
+        "title": "E.U. Adopts Groundbreaking Stimulus to Fight Coronavirus Recession",
+        "link": "https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html"
     },
     {
         "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",

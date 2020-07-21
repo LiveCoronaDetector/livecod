@@ -38,6 +38,6 @@ var jejuNewsData = [
     },
     {
         "title": "26번 확진자 다녀간 애월하나로마트 방역",
-        "link": "http://yna.kr/PYH20200721056200056?did=1196m"
+        "link": "http://yna.kr/PYH20200721056400056?did=1196m"
     }
 ];

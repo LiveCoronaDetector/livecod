@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954494.html"
     },
     {
+        "title": "코로나19 서울 확진자 하룻새 21명 증가",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200721000638"
+    },
+    {
         "title": "제주 26번 코로나19 확진자 1차동선 공개",
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.gjdream.com/news/articleView.html?idxno=601260"
     },
     {
+        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
+    },
+    {
         "title": "WHO \"아프리카의 코로나19 빠른 확산에 큰 우려\"(종합)",
         "link": "http://yna.kr/AKR20200721002451109?did=1195m"
-    },
-    {
-        "title": "WHO “북한, 코로나 610명 격리…확진자는 0명”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200721500031&wlog_tag3=naver"
-    },
-    {
-        "title": "코로나19 백신 잇단 청신호...이르면 9월 출시 전망(종합)",
-        "link": "https://view.asiae.co.kr/article/2020072111163143912"
     }
 ];
