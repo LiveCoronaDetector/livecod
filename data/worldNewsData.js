@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53431672"
     },
     {
-        "title": "Chinese hackers charged by Justice Department with trying to steal US coronavirus research",
-        "link": "https://www.foxnews.com/world/chinese-hackers-charged-steal-usa-coronavirus-research"
+        "title": "U.S. says China backed hackers who targeted COVID-19 vaccine research",
+        "link": "https://www.nbcnews.com/politics/justice-department/feds-charge-two-chinese-nationals-hacking-companies-activists-dissidents-government-n1234463"
+    },
+    {
+        "title": "Coronavirus pandemic: Updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-21-20-intl/h_7b4c14102421ee45dbbd2ea81b50bb01"
     },
     {
         "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53477121"
     },
     {
-        "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
-        "link": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html"
-    },
-    {
-        "title": "Live updates: Trump shifts tone on coronavirus, says it will probably ‘get worse before it gets better’",
-        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
+        "title": "Axios-Ipsos poll: The skeptics are growing",
+        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
     }
 ];
