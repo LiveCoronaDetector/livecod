@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200721002451109?did=1195m"
     },
     {
-        "title": "WHO “북한, 코로나 610명 격리…확진자는 0명”",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200721500031&wlog_tag3=naver"
-    },
-    {
-        "title": "코로나19 백신 잇단 청신호...이르면 9월 출시 전망(종합)",
-        "link": "https://view.asiae.co.kr/article/2020072111163143912"
+        "title": "文 \"지역감염 확진자 수 4명...코로나 전쟁 반드시 승리하자\"",
+        "link": "https://www.sedaily.com/NewsView/1Z5DKF0MST"
     },
     {
         "title": "[속보]코로나19 신규 확진자 26명···국내발생 4명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007201020011&code=940601"
+    },
+    {
+        "title": "[속보] 강서구 요양시설서 코로나19 확진자 9명 발생",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014819820&code=61121111&cp=nv"
     }
 ];

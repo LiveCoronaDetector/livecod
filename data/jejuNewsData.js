@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
-        "title": "제주 첫 ‘3차 감염자’ 동선진술 오락가락…추가 확진자 나오나 ‘촉각’",
-        "link": "http://www.segye.com/content/html/2020/07/21/20200721517272.html?OutUrl=naver"
+        "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
     },
     {
-        "title": "제주 한림지역, 최근 6일동안 1664명 코로나19 진단검사",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324763"
+        "title": "제주 첫 ‘3차 감염자’ 동선진술 오락가락…추가 확진자 나오나 ‘촉각’",
+        "link": "http://www.segye.com/content/html/2020/07/21/20200721517272.html?OutUrl=naver"
     },
     {
         "title": "제주도교육청 \"애월읍 관내 학교 등교중지 시기상조\"",
