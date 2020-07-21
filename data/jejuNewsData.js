@@ -13,16 +13,24 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
     {
-        "title": "광진구 20번 확진자, 제주도 이동동선 접촉자 62명 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422742"
+        "title": "[종합] 서울 광진구발 제주도내 3차 감염자 발생",
+        "link": "http://www.jemin.com/news/articleView.html?idxno=665828"
+    },
+    {
+        "title": "광진구 확진자 다녀간 제주 한림, 5일간 1524명 검사",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014821692&code=61122027&cp=nv"
+    },
+    {
+        "title": "제주 한림읍에서 5번째 코로나19 확진자 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/954457.html"
+    },
+    {
+        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
+        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     },
     {
         "title": "제주도교육청, 한림읍 초·중·고 대면수업 22일 재개",
         "link": "http://www.fnnews.com/news/202007201526312777"
-    },
-    {
-        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
         "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 첫 ‘3차 감염자’ 동선진술 오락가락…추가 확진자 나오나 ‘촉각’",
         "link": "http://www.segye.com/content/html/2020/07/21/20200721517272.html?OutUrl=naver"
-    },
-    {
-        "title": "제주도교육청 \"애월읍 관내 학교 등교중지 시기상조\"",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318167"
-    },
-    {
-        "title": "제주도교육청 \"한림 지역 14개교 24일까지 원격수업 연장\"",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4223399"
     }
 ];
