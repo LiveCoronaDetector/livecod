@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
-        "title": "'Worth it': EU reaches deal on coronavirus recovery: Live updates",
+        "title": "EU reaches deal on coronavirus recovery: Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/coronavirus-outbreak-australia-victoria-grows-live-updates-200720235536147.html"
     },
     {
-        "title": "Florida's largest teachers union sues state over reopening schools",
-        "link": "https://www.nbcnews.com/news/us-news/florida-s-largest-teachers-union-files-suit-against-state-over-n1234382"
-    },
-    {
-        "title": "Oxford coronavirus vaccine triggers immune response, trial shows",
-        "link": "https://www.theguardian.com/world/2020/jul/20/oxford-coronavirus-vaccine-triggers-immune-response-trial-shows"
+        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
+        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
     },
     {
         "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
         "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     },
     {
-        "title": "Trump says the US has 'the best mortality rate' in the world. That's not true",
-        "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-coronavirus-mortality-rate-intl/index.html"
+        "title": "Oxford coronavirus vaccine triggers immune response, trial shows",
+        "link": "https://www.theguardian.com/world/2020/jul/20/oxford-coronavirus-vaccine-triggers-immune-response-trial-shows"
+    },
+    {
+        "title": "Hecklers, gaffes dog DeSantis as coronavirus rages in Florida",
+        "link": "https://www.politico.com/states/florida/story/2020/07/20/hecklers-gaffes-dog-desantis-as-coronavirus-rages-in-florida-1302399"
     }
 ];
