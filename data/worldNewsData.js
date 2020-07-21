@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
-        "title": "Iran reports record daily toll of 229 coronavirus deaths",
-        "link": "https://news.yahoo.com/iran-reports-record-daily-toll-229-coronavirus-deaths-102238309.html"
+        "title": "Chinese hackers charged by Justice Department with trying to steal US coronavirus research",
+        "link": "https://www.foxnews.com/world/chinese-hackers-charged-steal-usa-coronavirus-research"
     },
     {
         "title": "Republicans Begin New Relief Talks as Hopes Fade for Rapid Recovery",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53481542"
     },
     {
-        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
-        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
+        "title": "Live updates: Trump set to resume briefing; U.S. likely has 10 times more coronavirus infections than reported",
+        "link": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/"
     }
 ];

@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954494.html"
     },
     {
-        "title": "[속보] 日 코로나 확진자 581명 추가…다시 500명대로",
-        "link": "https://www.hankyung.com/international/article/2020072140867"
-    },
-    {
         "title": "러시아서도 한인 건설사 직원 코로나 사망",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894105&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보] 日 코로나 확진자 581명 추가…다시 500명대로",
+        "link": "https://www.hankyung.com/international/article/2020072140867"
     },
     {
         "title": "[단독]이라크 韓건설현장, 40명 코로나 확진·2명 사망…집단감염 번져",
