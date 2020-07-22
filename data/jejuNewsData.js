@@ -9,7 +9,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
-        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료붕괴 위험\"",
+        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     },
     {

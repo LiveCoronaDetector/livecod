@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/europe/eu-budget-coronavirus-rule-of-law-analysis-intl/index.html"
     },
     {
-        "title": "Nearly one in four people in Delhi may have contracted Covid-19, study reveals",
+        "title": "Coronavirus study reveals nearly one in four people in India's capital may have contracted the virus",
         "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
     },
     {
-        "title": "5 things to know for July 22: Coronavirus, stimulus, protests, China, social media",
-        "link": "https://www.cnn.com/2020/07/22/us/five-things-july-22-trnd/index.html"
+        "title": "My Uncle Died of Covid-19 in America. In China, Would He Have Lived?",
+        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
-        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
-        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
+        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
+        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
-        "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
-        "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
+        "title": "Mike Pompeo Says Britons Died from COVID-19 Because WHO 'Bought' by China",
+        "link": "https://www.newsweek.com/u-s-u-k-mike-pompeo-china-dominic-raab-boris-johnson-covid-19-coronavirus-who-1519616"
     },
     {
-        "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
-        "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
+        "title": "US public increasingly skeptical of Covid-19 death toll, poll finds",
+        "link": "https://www.theguardian.com/world/2020/jul/21/us-coronavirus-death-toll-public-opinion-poll-accuracy"
     },
     {
-        "title": "Global coronavirus cases exceed 15 million: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/global-coronavirus-cases-exceed-15-million-reuters-tally-idUSKCN24N0KK"
+        "title": "U.S. agrees to pay Pfizer and BioNTech $2 billion for 100 million doses of coronavirus vaccine",
+        "link": "https://www.cnbc.com/2020/07/22/us-government-taps-pfizer-to-produce-millions-of-doses-of-coronavirus-vaccine.html"
     }
 ];
