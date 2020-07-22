@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
-        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
-    },
-    {
         "title": "제주 26번 확진자 접촉 4명→16명으로 늘어났다",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318179"
+    },
+    {
+        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
+        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     },
     {
         "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",

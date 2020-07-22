@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200722021652504?did=1195m"
     },
     {
+        "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 63명···국내 발생 29명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
+    },
+    {
+        "title": "[속보] 전세계 코로나19 확진자 1500만명 넘어…확산세 더 빨라졌다",
+        "link": "https://www.hankyung.com/international/article/2020072249207"
+    },
+    {
         "title": "文 “이겨가고 있다” 발언 뒤 이틀째 확진자 급증…다시 60명대(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200722500034&wlog_tag3=naver"
     },
     {
-        "title": "일본, '덱사메타손' 코로나19 치료제로 승인",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005895317&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "이용섭 광주시장, 코로나 브리핑…총 확진자 192명, 심각 단계(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=578671"
-    },
-    {
-        "title": "[단독] 외국인 확진자 치료비 ‘개인 부담’ 검토",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499959&ref=A"
-    },
-    {
-        "title": "대구 카자흐스탄 입국자 1명 확진…경북 확진자 ‘0’ (종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007220111"
+        "title": "광주 코로나19 확진자 4명 추가 발생…누적 환자 191명",
+        "link": "https://www.nocutnews.co.kr/news/5382346"
     },
     {
         "title": "씨젠, 코로나+독감 한 번에 진단하는 첨단 키트 개발했다",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954664.html"
     },
     {
-        "title": "日도쿄 코로나 누적 확진자 1만명 '돌파'(상보)",
-        "link": "https://www.news1.kr/articles/?4003391"
+        "title": "육군 전방부대서 코로나19 ‘무더기 감염’…최소 8명 확인",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212471"
     }
 ];
