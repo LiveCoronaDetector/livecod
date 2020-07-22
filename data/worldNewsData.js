@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
     },
     {
-        "title": "My Uncle Died of Covid-19 in America. In China, Would He Have Lived?",
+        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
         "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
-        "title": "Mike Pompeo Says Britons Died from COVID-19 Because WHO 'Bought' by China",
-        "link": "https://www.newsweek.com/u-s-u-k-mike-pompeo-china-dominic-raab-boris-johnson-covid-19-coronavirus-who-1519616"
+        "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
+        "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
+    },
+    {
+        "title": "US Secretary of State Pompeo in London to discuss China",
+        "link": "https://www.youtube.com/watch?v=I1wFC7lDwLQ"
     },
     {
         "title": "US public increasingly skeptical of Covid-19 death toll, poll finds",
         "link": "https://www.theguardian.com/world/2020/jul/21/us-coronavirus-death-toll-public-opinion-poll-accuracy"
-    },
-    {
-        "title": "U.S. agrees to pay Pfizer and BioNTech $2 billion for 100 million doses of coronavirus vaccine",
-        "link": "https://www.cnbc.com/2020/07/22/us-government-taps-pfizer-to-produce-millions-of-doses-of-coronavirus-vaccine.html"
     }
 ];

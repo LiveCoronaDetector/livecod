@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020072288757"
     },
     {
+        "title": "포천 8사단 코로나 14명 집단감염 '미스터리'",
+        "link": "https://hankookilbo.com/News/Read/A2020072209490005116?did=NA"
+    },
+    {
         "title": "포천 군부대 방문자 가족 등 2명 코로나 확진",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/22/2020072204377.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,16 +29,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007220844001&code=940100"
     },
     {
-        "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "포천 육군부대서 코로나19 무더기 감염…최소 8명 확인(종합)",
         "link": "http://yna.kr/AKR20200722021651504?did=1195m"
     },
     {
-        "title": "[속보] 포천 육군 부대서 코로나 집단감염, 최소 13명 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/22/2020072200579.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
     },
     {
         "title": "[속보] 코로나19 신규 확진 63명···국내 발생 29명",
