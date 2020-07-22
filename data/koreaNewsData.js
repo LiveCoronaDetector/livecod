@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200722021651504?did=1195m"
     },
     {
-        "title": "전방부대 장병 13명 무더기로 ‘코로나19’ 감염",
-        "link": "http://www.hani.co.kr/arti/politics/defense/954659.html"
+        "title": "포천 육군부대 13명 코로나19 '집단감염'…주둔지 전 병력 격리(종합2보)",
+        "link": "http://yna.kr/AKR20200722021652504?did=1195m"
     },
     {
         "title": "[속보]포천 육군 전방부대서 코로나19 확진자 8명 발생…확산 비상",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://shindonga.donga.com/3/all/13/2126078/1"
     },
     {
-        "title": "코로나19 어제 63명 신규확진…해외유입 34명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
+        "title": "코로나 신규 확진 63명…수도권 지역감염만 28명",
+        "link": "http://www.hani.co.kr/arti/society/health/954664.html"
     },
     {
-        "title": "대구 카자흐스탄 입국자 1명 확진…경북 확진자 ‘0’ (종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007220111"
+        "title": "美 CDC \"코로나 실제 감염자, 확진자의 최대 13배\"",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/22/2020072290044.html"
     }
 ];

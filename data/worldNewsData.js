@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
     },
     {
-        "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
-        "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
-    },
-    {
-        "title": "Mike Pompeo Says Britons Died from COVID-19 Because WHO 'Bought' by China",
-        "link": "https://www.newsweek.com/u-s-u-k-mike-pompeo-china-dominic-raab-boris-johnson-covid-19-coronavirus-who-1519616"
+        "title": "5 things to know for July 22: Coronavirus, stimulus, protests, China, social media",
+        "link": "https://www.cnn.com/2020/07/22/us/five-things-july-22-trnd/index.html"
     },
     {
         "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
         "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
+        "title": "Mike Pompeo Says Britons Died from COVID-19 Because WHO 'Bought' by China",
+        "link": "https://www.newsweek.com/u-s-u-k-mike-pompeo-china-dominic-raab-boris-johnson-covid-19-coronavirus-who-1519616"
+    },
+    {
         "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
     },
     {
-        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
-        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
+        "title": "Global coronavirus cases exceed 15 million: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/global-coronavirus-cases-exceed-15-million-reuters-tally-idUSKCN24N0KK"
     }
 ];
