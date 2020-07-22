@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/politics/justice-department/feds-charge-two-chinese-nationals-hacking-companies-activists-dissidents-government-n1234463"
     },
     {
-        "title": "Coronavirus pandemic: Updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-21-20-intl/h_7b4c14102421ee45dbbd2ea81b50bb01"
-    },
-    {
         "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",
         "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Axios-Ipsos poll: The skeptics are growing",
         "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
+    },
+    {
+        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
+        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     }
 ];
