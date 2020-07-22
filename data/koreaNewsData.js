@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200722021651504?did=1195m"
     },
     {
+        "title": "[속보] ‘코로나19’ 신규 확진 63명…국내 발생 29명·해외 유입 34명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499792&ref=A"
+    },
+    {
+        "title": "[종합] 육군 전방부대서 코로나19 최소 8명 감염···확산 비상",
+        "link": "https://www.sedaily.com/NewsView/1Z5EHF84DK"
+    },
+    {
         "title": "육군 전방부대서 최소 8명 코로나19 확진…추가조사 중(상보)",
         "link": "http://news.mt.co.kr/mtview.php?no=2020072208327646659"
     },
@@ -13,31 +21,23 @@ var koreaNewsData = [
         "link": "http://www.joseilbo.com/news/news_read.php?uid=402517&class=42&grp="
     },
     {
+        "title": "“함께 방 쓰는데…” 포천 육군부대, 코로나 8명 확진(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200722500024&wlog_tag3=naver"
+    },
+    {
         "title": "[속보] 전세계 코로나19 확진 1,500만명 넘어…사망 61만명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007220080&t=NN"
     },
     {
-        "title": "광진구 코로나19 확진자에 제주도민 또 감염",
-        "link": "https://www.nocutnews.co.kr/news/5381597"
+        "title": "신규 코로나19 확진자 63명…누적 1만3879명(속보)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02397686625837144"
     },
     {
-        "title": "코로나 신규 확진 45명...서울 요양시설서 9명 집단감염",
-        "link": "http://www.hani.co.kr/arti/society/health/954494.html"
+        "title": "포천 육군부대 장병 8명 코로나 무더기 확진…추가 발생 우려",
+        "link": "https://hankookilbo.com/News/Read/A2020071914300004544?did=NA"
     },
     {
-        "title": "육군 전방부대 장병 8명 코로나 확진..20일 만에 군부대 확진",
-        "link": "http://www.fnnews.com/news/202007220840095342"
-    },
-    {
-        "title": "광주서 코로나19 확진자 4명 추가…누적 191명",
-        "link": "http://www.newsis.com/view/?id=NISX20200722_0001103377&cID=10809&pID=10800"
-    },
-    {
-        "title": "이태원 클럽발 코로나... '신의 한수' 뒤엔 그가 있었다",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002659702&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "육군 전방부대서 코로나19 무더기 감염…최소 8명 확인",
-        "link": "https://www.donga.com/news/article/all/20200722/102099568/1"
+        "title": "광주 코로나19 확진자 4명 추가 발생…누적 환자 191명",
+        "link": "https://www.nocutnews.co.kr/news/5382346"
     }
 ];
