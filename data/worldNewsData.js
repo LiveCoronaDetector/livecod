@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/china-warns-uk-it-will-bear-consequences-of-defying-beijing-2020-7"
     },
     {
-        "title": "Trump at briefing says Covid crisis 'will probably unfortunately get worse before it gets better'",
-        "link": "https://www.cnn.com/2020/07/21/politics/trump-coronavirus-briefing/index.html"
+        "title": "Axios-Ipsos poll: The skeptics are growing",
+        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
     },
     {
-        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
-        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
+        "title": "Trump concedes pandemic to 'get worse before it gets better'",
+        "link": "https://www.bbc.com/news/world-us-canada-53494766"
     },
     {
-        "title": "US records over 1000 coronavirus deaths in a single day for first time since early June",
-        "link": "https://www.msn.com/en-us/news/us/us-records-over-1000-coronavirus-deaths-in-a-single-day-for-first-time-since-early-june/ar-BB171Cay?li=BBnb7Kz"
+        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
+        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     }
 ];

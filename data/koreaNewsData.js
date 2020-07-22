@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "미국 코로나 실제 감염자, 확진자의 최대 13배...무증상자가 40%",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=402517&class=42&grp="
+    },
+    {
         "title": "文 “이겨가고 있다” 발언 뒤 이틀째 확진자 급증…다시 60명대(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200722500034&wlog_tag3=naver"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
     },
     {
-        "title": "美 CDC \"코로나 실제 감염자, 확진자의 최대 13배\"",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/22/2020072290044.html"
-    },
-    {
-        "title": "코로나19 어제 63명 신규확진…해외유입 34명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
-    },
-    {
         "title": "광주 코로나19 확진자 4명 추가 발생…누적 환자 191명",
         "link": "https://www.nocutnews.co.kr/news/5382346"
     },
     {
         "title": "‘코로나19’ 확진자 63명 추가…다시 ‘60명’ 대",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212492"
+    },
+    {
+        "title": "코로나 신규 확진 63명…수도권 지역감염만 28명",
+        "link": "http://www.hani.co.kr/arti/society/health/954664.html"
     }
 ];
