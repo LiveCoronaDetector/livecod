@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
     },
     {
-        "title": "China says UK will 'bear the consequences' of defying Beijing - Business Insider",
-        "link": "https://www.businessinsider.com/china-warns-uk-it-will-bear-consequences-of-defying-beijing-2020-7"
+        "title": "Pompeo urges 'entire world' to stand up to China - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/07/22/pompeo-urges-entire-world-to-stand-up-to-china.html"
     },
     {
         "title": "Axios-Ipsos poll: The skeptics are growing",
