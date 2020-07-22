@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-tests-positive-for-the-novel-coronavirus-again-idUSKCN24N1P9"
     },
     {
-        "title": "Israel’s new alternative prime minister pushed for coronavirus response to be managed by military, not heal...",
-        "link": "https://www.foxnews.com/world/israel-alternative-prime-minister-coronavirus-response-managed-by-military"
+        "title": "Netanyahu, Edelstein make Gamzu coronavirus ‘czar’",
+        "link": "https://www.jpost.com/israel-news/israels-coronavirus-czar-635974"
     },
     {
         "title": "The EU struck a big rescue deal on Covid-19. But it might have dealt a blow to democracy",
@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
     },
     {
-        "title": "5 things to know for July 22: Coronavirus, stimulus, protests, China, social media",
-        "link": "https://www.cnn.com/2020/07/22/us/five-things-july-22-trnd/index.html"
+        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
+        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
     },
     {
         "title": "It's not too late for masks to revert to being a health precaution, not a political symbol",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
-        "title": "Fact check: At his first coronavirus briefing since April, Trump repeats a handful of classic false claims",
-        "link": "https://www.cnn.com/2020/07/21/politics/fact-check-trump-coronavirus-briefing-july-21/index.html"
-    },
-    {
-        "title": "Global coronavirus infections exceed 15 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/trump-urges-americans-wear-masks-curb-coronavirus-live-200721233328914.html"
+        "title": "Trump concedes pandemic to 'get worse before it gets better'",
+        "link": "https://www.bbc.com/news/world-us-canada-53494766"
     }
 ];
