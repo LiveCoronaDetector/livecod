@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/22/south-africa-oxford-vaccine-trial-mckenzie-pkg-intl-hnk-vpx.cnn"
     },
     {
-        "title": "GOP Weighs Short-Term Extension of $600 Jobless Aid: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/22/world/coronavirus-covid-19.html"
+        "title": "Canadian CDC Suggests Glory Holes For Safe Sex During Pandemic",
+        "link": "https://www.tmz.com/2020/07/22/glory-holes-safe-sex-pandemic-canadian-cdc-british-columbia/"
     },
     {
         "title": "Israel’s new alternative prime minister pushed for coronavirus response to be managed by military, not heal...",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
     },
     {
-        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
-        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
+        "title": "5 things to know for July 22: Coronavirus, stimulus, protests, China, social media",
+        "link": "https://www.cnn.com/2020/07/22/us/five-things-july-22-trnd/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
     },
     {
+        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
+        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
+    },
+    {
         "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
         "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
-        "title": "Pompeo tried to shake hands with a bunch of foreign leaders. They all turned him down.",
-        "link": "https://theweek.com/speedreads/926907/pompeo-tried-shake-hands-bunch-foreign-leaders-all-turned-down"
-    },
-    {
-        "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
-        "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
+        "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
+        "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
     }
 ];
