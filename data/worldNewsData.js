@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
     },
     {
-        "title": "Trump at briefing says Covid crisis 'will probably unfortunately get worse before it gets better'",
-        "link": "https://www.cnn.com/2020/07/21/politics/trump-coronavirus-briefing/index.html"
+        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
+        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
     },
     {
         "title": "Axios-Ipsos poll: The skeptics are growing",

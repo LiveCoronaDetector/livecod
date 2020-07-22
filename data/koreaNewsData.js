@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5EHF84DK"
     },
     {
-        "title": "文 “이겨가고 있다” 발언 뒤 이틀째 확진자 급증…다시 60명대(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200722500034&wlog_tag3=naver"
+        "title": "[속보] 코로나19 신규 확진 63명···국내 발생 29명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
     },
     {
-        "title": "전방부대 장병 13명 무더기로 ‘코로나19’ 감염",
-        "link": "http://www.hani.co.kr/arti/politics/defense/954659.html"
+        "title": "[속보] 포천 육군 부대서 코로나 집단감염, 최소 13명 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/22/2020072200579.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "[속보] 전세계 코로나19 확진 1,500만명 넘어…사망 61만명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007220080&t=NN"
+    },
+    {
+        "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "文 “이겨가고 있다” 발언 뒤 이틀째 확진자 급증…다시 60명대(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200722500034&wlog_tag3=naver"
     },
     {
         "title": "미국 코로나 실제 감염자, 확진자의 최대 13배...무증상자가 40%",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=402517&class=42&grp="
     },
     {
-        "title": "[속보] 코로나19 신규 확진 63명···국내 발생 29명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
+        "title": "포천 육군부대 코로나19 집단 감염…확진자 13명으로 늘어",
+        "link": "https://hankookilbo.com/News/Read/A2020072211480002348?did=NA"
     },
     {
-        "title": "광주 코로나19 확진자 4명 추가 발생…누적 환자 191명",
-        "link": "https://www.nocutnews.co.kr/news/5382346"
-    },
-    {
-        "title": "대구 카자흐스탄 입국자 1명 확진…경북 확진자 ‘0’ (종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007220111"
-    },
-    {
-        "title": "씨젠, 코로나+독감 한 번에 진단하는 첨단 키트 개발했다",
-        "link": "https://shindonga.donga.com/3/all/13/2126078/1"
-    },
-    {
-        "title": "\"군 입영장병 4만6000명 코로나 전수조사 결과 1명만 양성\"(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/22/2020072201985.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 어제 63명 신규확진…해외유입 34명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
     }
 ];
