@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/israel-alternative-prime-minister-coronavirus-response-managed-by-military"
     },
     {
-        "title": "Germany's coronavirus response is a master class in science communication",
-        "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
+        "title": "The EU struck a big rescue deal on Covid-19. But it might have dealt a blow to democracy",
+        "link": "https://www.cnn.com/2020/07/22/europe/eu-budget-coronavirus-rule-of-law-analysis-intl/index.html"
     },
     {
         "title": "Nearly one in four people in Delhi may have contracted Covid-19, study reveals",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
     },
     {
-        "title": "'Pretty surreal': How the rest of the world views the U.S.' stance on masks",
+        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
         "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     }
 ];
