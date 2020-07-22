@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/22/south-africa-oxford-vaccine-trial-mckenzie-pkg-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Daily Deaths Exceed 1,000",
+        "title": "Coronavirus Live Updates",
         "link": "https://www.nytimes.com/2020/07/22/world/coronavirus-covid-19.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
+    },
+    {
         "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
         "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
-        "title": "US Secretary of State Pompeo in London to discuss China",
-        "link": "https://www.youtube.com/watch?v=I1wFC7lDwLQ"
+        "title": "Pompeo calls for international coalition to 'push back' against China",
+        "link": "https://nypost.com/2020/07/22/mike-pompeo-calls-for-coalition-to-push-back-against-china/"
     },
     {
         "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
-    },
-    {
-        "title": "Global coronavirus cases exceed 15 million: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/global-coronavirus-cases-exceed-15-million-reuters-tally-idUSKCN24N0KK"
     }
 ];
