@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200722021651504?did=1195m"
     },
     {
-        "title": "[속보] 코로나 신규 확진 63명...수도권 지역감염만 28명",
-        "link": "http://www.hani.co.kr/arti/society/health/954664.html"
+        "title": "[종합] 육군 전방부대서 코로나19 최소 8명 감염···확산 비상",
+        "link": "https://www.sedaily.com/NewsView/1Z5EHF84DK"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 63명···국내 발생 29명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
+        "title": "文 “이겨가고 있다” 발언 뒤 이틀째 확진자 급증…다시 60명대(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200722500034&wlog_tag3=naver"
     },
     {
-        "title": "“함께 방 쓰는데…” 포천 육군부대, 코로나 8명 확진(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200722500024&wlog_tag3=naver"
-    },
-    {
-        "title": "코로나19 국내 29명·해외 34명…수도권 집단감염 '또'(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02469846625837144"
-    },
-    {
-        "title": "[속보] 코로나19 63명 늘어 1만3,879명…해외유입 34명·지역 29명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007220156&t=NN"
+        "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
     },
     {
         "title": "미국 코로나 실제 감염자, 확진자의 최대 13배...무증상자가 40%",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=402517&class=42&grp="
     },
     {
-        "title": "광주 코로나19 확진자 4명 추가 발생…누적 환자 191명",
-        "link": "https://www.nocutnews.co.kr/news/5382346"
-    },
-    {
         "title": "[속보]‘코로나19’ 확진자 63명 추가…다시 ‘60명’ 대",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212492"
     },
     {
-        "title": "전 세계 코로나19 확진 1천500만 명 넘었다",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894525&plink=ORI&cooper=NAVER"
+        "title": "[속보] 전세계 코로나19 확진 1,500만명 넘어…사망 61만명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007220080&t=NN"
+    },
+    {
+        "title": "대구 카자흐스탄 입국자 1명 확진…경북 확진자 ‘0’ (종합)",
+        "link": "http://www.kukinews.com/newsView/kuk202007220111"
+    },
+    {
+        "title": "광주 코로나19 확진자 4명 추가 발생…누적 환자 191명",
+        "link": "https://www.nocutnews.co.kr/news/5382346"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 63명···국내 발생 29명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
     }
 ];

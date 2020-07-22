@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
     },
     {
-        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
-        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
+        "title": "India coronavirus: Nearly one in four in Delhi had Covid-19, study says",
+        "link": "https://www.bbc.com/news/world-asia-india-53485039"
     },
     {
         "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
         "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
     },
     {
-        "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",
-        "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
-    },
-    {
         "title": "China says UK will 'bear the consequences' of defying Beijing - Business Insider",
         "link": "https://www.businessinsider.com/china-warns-uk-it-will-bear-consequences-of-defying-beijing-2020-7"
     },
     {
-        "title": "Axios-Ipsos poll: The skeptics are growing",
-        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
+        "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",
+        "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
     },
     {
         "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
         "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
+    },
+    {
+        "title": "Axios-Ipsos poll: The skeptics are growing",
+        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
     }
 ];
