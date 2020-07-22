@@ -38,6 +38,6 @@ var jejuNewsData = [
     },
     {
         "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499429&ref=A"
     }
 ];
