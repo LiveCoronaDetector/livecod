@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/china-warns-uk-it-will-bear-consequences-of-defying-beijing-2020-7"
     },
     {
-        "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",
-        "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
+        "title": "Axios-Ipsos poll: The skeptics are growing",
+        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
     },
     {
         "title": "Trump at briefing says Covid crisis 'will probably unfortunately get worse before it gets better'",
         "link": "https://www.cnn.com/2020/07/21/politics/trump-coronavirus-briefing/index.html"
     },
     {
-        "title": "Axios-Ipsos poll: The skeptics are growing",
-        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
+        "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",
+        "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
     }
 ];

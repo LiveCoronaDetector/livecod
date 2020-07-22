@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5EHF84DK"
     },
     {
-        "title": "[속보] 포천 육군 부대서 코로나 집단감염, 최소 13명 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/22/2020072200579.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "전방부대 장병 13명 무더기로 ‘코로나19’ 감염",
+        "link": "http://www.hani.co.kr/arti/politics/defense/954659.html"
     },
     {
         "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "美 CDC \"코로나 실제 감염자, 확진자의 최대 13배\"",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/22/2020072290044.html"
+        "title": "미국 코로나 실제 감염자, 확진자의 최대 13배...무증상자가 40%",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=402517&class=42&grp="
     },
     {
         "title": "文 “이겨가고 있다” 발언 뒤 이틀째 확진자 급증…다시 60명대(종합)",
