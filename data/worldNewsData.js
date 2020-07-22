@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Trump warns U.S. coronavirus outbreak will probably 'get worse before it gets better'",
-        "link": "https://www.cnbc.com/2020/07/21/trump-warns-us-coronavirus-outbreak-will-probably-get-worse-before-it-gets-better.html"
+        "title": "Trump concedes pandemic to 'get worse before it gets better'",
+        "link": "https://www.bbc.com/news/world-us-canada-53494766"
     },
     {
         "title": "Israel’s new alternative prime minister pushed for coronavirus response to be managed by military, not heal...",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
     },
     {
-        "title": "India coronavirus: Nearly one in four in Delhi had Covid-19, study says",
-        "link": "https://www.bbc.com/news/world-asia-india-53485039"
+        "title": "Thailand is losing key economic ministers as country tries to recover from coronavirus-induced slump",
+        "link": "https://www.cnbc.com/2020/07/22/thailand-loses-key-economic-ministers-as-coronavirus-slams-economy.html"
     },
     {
         "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
     },
     {
-        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
-        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
+        "title": "Trump at briefing says Covid crisis 'will probably unfortunately get worse before it gets better'",
+        "link": "https://www.cnn.com/2020/07/21/politics/trump-coronavirus-briefing/index.html"
     },
     {
         "title": "Axios-Ipsos poll: The skeptics are growing",
