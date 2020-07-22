@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
     },
     {
-        "title": "Trump says coronavirus crisis will ‘get worse before it gets better,’ pleads with Americans to wear masks",
-        "link": "https://www.foxnews.com/politics/trump-says-coronavirus-crisis-will-get-worse-before-it-gets-better-urges-mask-wearing"
+        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
+        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     },
     {
         "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
