@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
+        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
+        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
+    },
+    {
         "title": "Mike Pompeo Says Britons Died from COVID-19 Because WHO 'Bought' by China",
         "link": "https://www.newsweek.com/u-s-u-k-mike-pompeo-china-dominic-raab-boris-johnson-covid-19-coronavirus-who-1519616"
     },
     {
         "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
-    },
-    {
-        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
-        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     }
 ];
