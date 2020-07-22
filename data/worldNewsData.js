@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
+        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
+        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
+    },
+    {
         "title": "US Secretary of State Pompeo in London to discuss China",
         "link": "https://www.youtube.com/watch?v=I1wFC7lDwLQ"
     },
     {
-        "title": "The US politicians volunteering other people’s lives to fight Covid-19",
-        "link": "https://www.theguardian.com/world/2020/jul/22/us-reopening-politicians-volunteering-peoples-lives-coronavirus"
-    },
-    {
-        "title": "US public increasingly skeptical of Covid-19 death toll, poll finds",
-        "link": "https://www.theguardian.com/world/2020/jul/21/us-coronavirus-death-toll-public-opinion-poll-accuracy"
+        "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
+        "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
     },
     {
         "title": "Global coronavirus cases exceed 15 million: Reuters tally",
