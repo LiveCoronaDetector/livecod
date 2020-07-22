@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://theweek.com/speedreads/926907/pompeo-tried-shake-hands-bunch-foreign-leaders-all-turned-down"
     },
     {
-        "title": "Global coronavirus cases exceed 15 million: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/global-coronavirus-cases-exceed-15-million-reuters-tally-idUSKCN24N0KK"
+        "title": "The US politicians volunteering other people’s lives to fight Covid-19",
+        "link": "https://www.theguardian.com/world/2020/jul/22/us-reopening-politicians-volunteering-peoples-lives-coronavirus"
     },
     {
-        "title": "US public increasingly skeptical of Covid-19 death toll, poll finds",
-        "link": "https://www.theguardian.com/world/2020/jul/21/us-coronavirus-death-toll-public-opinion-poll-accuracy"
+        "title": "Global coronavirus infections exceed 15 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/trump-urges-americans-wear-masks-curb-coronavirus-live-200721233328914.html"
     }
 ];
