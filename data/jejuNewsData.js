@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     },
     {
-        "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
+        "title": "제주도, 거세지는 광진발 여진…,제주26번 코로나 확진자 동선 공개",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=243916"
     },
     {
-        "title": "제주 첫 ‘3차 감염자’ 동선진술 오락가락…추가 확진자 나오나 ‘촉각’",
-        "link": "http://www.segye.com/content/html/2020/07/21/20200721517272.html?OutUrl=naver"
+        "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
     }
 ];
