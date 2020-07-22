@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/22/south-africa-oxford-vaccine-trial-mckenzie-pkg-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Trump concedes pandemic to 'get worse before it gets better'",
-        "link": "https://www.bbc.com/news/world-us-canada-53494766"
+        "title": "Coronavirus Live Updates: U.S. Daily Deaths Exceed 1,000",
+        "link": "https://www.nytimes.com/2020/07/22/world/coronavirus-covid-19.html"
     },
     {
         "title": "Israel’s new alternative prime minister pushed for coronavirus response to be managed by military, not heal...",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
-        "title": "The US politicians volunteering other people’s lives to fight Covid-19",
-        "link": "https://www.theguardian.com/world/2020/jul/22/us-reopening-politicians-volunteering-peoples-lives-coronavirus"
-    },
-    {
         "title": "Mike Pompeo Says Britons Died from COVID-19 Because WHO 'Bought' by China",
         "link": "https://www.newsweek.com/u-s-u-k-mike-pompeo-china-dominic-raab-boris-johnson-covid-19-coronavirus-who-1519616"
     },
     {
         "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
+    },
+    {
+        "title": "Global coronavirus cases exceed 15 million: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/global-coronavirus-cases-exceed-15-million-reuters-tally-idUSKCN24N0KK"
     }
 ];
