@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
-        "title": "Pompeo calls for international coalition to 'push back' against China",
-        "link": "https://nypost.com/2020/07/22/mike-pompeo-calls-for-coalition-to-push-back-against-china/"
+        "title": "Pompeo tried to shake hands with a bunch of foreign leaders. They all turned him down.",
+        "link": "https://theweek.com/speedreads/926907/pompeo-tried-shake-hands-bunch-foreign-leaders-all-turned-down"
     },
     {
         "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
