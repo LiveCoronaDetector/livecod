@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
     },
     {
-        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
-        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
-    },
-    {
         "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
         "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
         "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
         "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
+    },
+    {
+        "title": "The US politicians volunteering other people’s lives to fight Covid-19",
+        "link": "https://www.theguardian.com/world/2020/jul/22/us-reopening-politicians-volunteering-peoples-lives-coronavirus"
     }
 ];
