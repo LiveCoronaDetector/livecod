@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
     },
     {
-        "title": "India coronavirus: Nearly one in four in Delhi had Covid-19, study says",
-        "link": "https://www.bbc.com/news/world-asia-india-53485039"
+        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
+        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
     },
     {
         "title": "U.S. says China backed hackers who targeted COVID-19 vaccine research",
         "link": "https://www.nbcnews.com/politics/justice-department/feds-charge-two-chinese-nationals-hacking-companies-activists-dissidents-government-n1234463"
     },
     {
-        "title": "Axios-Ipsos poll: The skeptics are growing",
-        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
+        "title": "'Flying blind': US failure to report vital coronavirus data is hobbling response",
+        "link": "https://www.theguardian.com/world/2020/jul/21/coronavirus-data-flying-blind-trump-us-failure"
     },
     {
         "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
         "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
     },
     {
-        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
-        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
+        "title": "Axios-Ipsos poll: The skeptics are growing",
+        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
     },
     {
-        "title": "Coronavirus: Why are Americans so angry about masks?",
-        "link": "https://www.bbc.com/news/world-us-canada-53477121"
+        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
+        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
     }
 ];

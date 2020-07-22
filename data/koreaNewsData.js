@@ -5,28 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200722021651504?did=1195m"
     },
     {
-        "title": "[속보] 전세계 코로나19 확진 1,500만명 넘어…사망 61만명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007220080&t=NN"
+        "title": "육군 전방부대서 최소 8명 코로나19 확진…추가조사 중(상보)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020072208327646659"
     },
     {
         "title": "미국 코로나 실제 감염자, 확진자의 최대 13배...무증상자가 40%",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=402517&class=42&grp="
     },
     {
-        "title": "육군 8사단 장병 8명 코로나 감염",
-        "link": "https://view.asiae.co.kr/article/2020072208235200766"
-    },
-    {
-        "title": "육군 전방부대 장병 8명 코로나 확진..20일 만에 군부대 확진",
-        "link": "http://www.fnnews.com/news/202007220840095342"
-    },
-    {
-        "title": "광주 코로나19 확진자 4명 추가 발생…누적 환자 191명",
-        "link": "https://www.nocutnews.co.kr/news/5382346"
-    },
-    {
-        "title": "육군 전방부대서 최소 8명 코로나19 확진…추가조사 중(상보)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020072208327646659"
+        "title": "[속보] 전세계 코로나19 확진 1,500만명 넘어…사망 61만명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007220080&t=NN"
     },
     {
         "title": "광진구 코로나19 확진자에 제주도민 또 감염",
@@ -37,7 +25,19 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954494.html"
     },
     {
-        "title": "[속보] 전세계 코로나19 확진자 1500만명 넘어…확산세 더 빨라졌다",
-        "link": "https://www.hankyung.com/international/article/2020072249207"
+        "title": "육군 전방부대 장병 8명 코로나 확진..20일 만에 군부대 확진",
+        "link": "http://www.fnnews.com/news/202007220840095342"
+    },
+    {
+        "title": "광주서 코로나19 확진자 4명 추가…누적 191명",
+        "link": "http://www.newsis.com/view/?id=NISX20200722_0001103377&cID=10809&pID=10800"
+    },
+    {
+        "title": "이태원 클럽발 코로나... '신의 한수' 뒤엔 그가 있었다",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002659702&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "육군 전방부대서 코로나19 무더기 감염…최소 8명 확인",
+        "link": "https://www.donga.com/news/article/all/20200722/102099568/1"
     }
 ];
