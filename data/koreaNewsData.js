@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
     },
     {
-        "title": "[단독] 외국인 확진자 치료비 ‘개인 부담’ 검토",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499959&ref=A"
+        "title": "대구 카자흐스탄 입국자 1명 확진…경북 확진자 ‘0’ (종합)",
+        "link": "http://www.kukinews.com/newsView/kuk202007220111"
     }
 ];
