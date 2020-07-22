@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
     },
     {
-        "title": "‘코로나19’ 확진자 63명 추가…다시 ‘60명’ 대",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212492"
+        "title": "포천 육군 부대서 8명 코로나19 확진…\"부대 전체 격리\"(종합)",
+        "link": "https://www.news1.kr/articles/?4003215"
     },
     {
         "title": "씨젠, 코로나+독감 한 번에 진단하는 첨단 키트 개발했다",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[단독] 외국인 확진자 치료비 ‘개인 부담’ 검토",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499959&ref=A"
+        "title": "코로나19 어제 63명 신규확진…해외유입 34명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
     }
 ];
