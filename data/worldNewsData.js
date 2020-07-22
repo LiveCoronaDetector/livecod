@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/sounds-alarm-spread-coronavirus-africa-200720184812122.html"
     },
     {
-        "title": "Trump concedes pandemic to 'get worse before it gets better'",
-        "link": "https://www.bbc.com/news/world-us-canada-53494766"
+        "title": "Live updates: Trump says coronavirus pandemic will ‘get worse before it gets better’ as daily death toll tops 1,000",
+        "link": "https://www.washingtonpost.com/nation/2020/07/22/covid-live-updates-us/"
     },
     {
         "title": "Israel’s new alternative prime minister pushed for coronavirus response to be managed by military, not heal...",

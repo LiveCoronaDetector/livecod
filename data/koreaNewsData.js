@@ -13,24 +13,24 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/politics/defense/954659.html"
     },
     {
-        "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "미국 코로나 실제 감염자, 확진자의 최대 13배...무증상자가 40%",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=402517&class=42&grp="
+    },
+    {
+        "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
     },
     {
         "title": "文 “이겨가고 있다” 발언 뒤 이틀째 확진자 급증…다시 60명대(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200722500034&wlog_tag3=naver"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 63명···국내 발생 29명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
-    },
-    {
         "title": "코로나19 어제 63명 신규확진…해외유입 34명",
         "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 63명···국내 발생 29명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
     },
     {
         "title": "‘코로나19’ 확진자 63명 추가…다시 ‘60명’ 대",
