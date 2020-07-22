@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "서울 광진구발 여파…제주 26번 확진자 발생 지역 초교 집단 등교 거부",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4500070&ref=A"
+    },
+    {
         "title": "제주 26번 확진자 접촉 4명→16명으로 늘어났다",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318179"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
-    },
-    {
-        "title": "제주 코로나 첫 3차 감염 '초긴장'...서울 광진구發 5명 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/21/2020072100649.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

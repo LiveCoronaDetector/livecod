@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/22/thailand-loses-key-economic-ministers-as-coronavirus-slams-economy.html"
     },
     {
-        "title": "Japan approves dexamethasone as coronavirus treatment",
-        "link": "https://news.yahoo.com/japan-approves-dexamethasone-coronavirus-treatment-234951487.html"
-    },
-    {
         "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
         "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
+    },
+    {
+        "title": "Pompeo urges 'entire world' to stand up to China - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/07/22/pompeo-urges-entire-world-to-stand-up-to-china.html"
     },
     {
         "title": "Axios-Ipsos poll: The skeptics are growing",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/trump-says-coronavirus-crisis-will-get-worse-before-it-gets-better-urges-mask-wearing"
     },
     {
-        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
-        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
+        "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
+        "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
     }
 ];
