@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://theweek.com/speedreads/926907/pompeo-tried-shake-hands-bunch-foreign-leaders-all-turned-down"
     },
     {
-        "title": "Global coronavirus infections exceed 15 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/trump-urges-americans-wear-masks-curb-coronavirus-live-200721233328914.html"
+        "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
+        "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
     }
 ];

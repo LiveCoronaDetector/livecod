@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
     },
     {
-        "title": "코로나 6개월 … SRT 15만량 방역",
-        "link": "http://www.fnnews.com/news/202007221139524892"
-    },
-    {
         "title": "코로나 신규 확진 63명…수도권 지역감염만 28명",
         "link": "http://www.hani.co.kr/arti/society/health/954664.html"
     },
     {
-        "title": "발열 일주일 뒤에야 검사받은 확진자…6명에 코로나 전파",
-        "link": "https://www.hankyung.com/society/article/2020072288757"
+        "title": "[단독]1인당 600만원…與 \"외국인 확진자 치료비 청구\" 법안 낸다",
+        "link": "https://news.joins.com/article/olink/23425857"
+    },
+    {
+        "title": "美 CDC \"코로나 실제 감염자, 확진자의 최대 13배\"",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/22/2020072290044.html"
     }
 ];
