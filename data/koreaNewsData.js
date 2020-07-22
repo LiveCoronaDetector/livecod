@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/22/2020072290044.html"
     },
     {
-        "title": "발열 일주일 뒤에야 검사받은 확진자…6명에 코로나 전파",
-        "link": "https://www.hankyung.com/society/article/2020072288757"
+        "title": "'코로나19 집단감염' 포천 육군부대 전수검사 완료…총14명 확진",
+        "link": "http://yna.kr/AKR20200722180300504?did=1195m"
     }
 ];

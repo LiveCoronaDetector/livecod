@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/us/five-things-july-22-trnd/index.html"
     },
     {
+        "title": "It's not too late for masks to revert to being a health precaution, not a political symbol",
+        "link": "https://www.theguardian.com/commentisfree/2020/jul/22/face-masks-coronavirus-health-precaution-political-symbol"
+    },
+    {
+        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
+        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
+    },
+    {
         "title": "Fact check: At his first coronavirus briefing since April, Trump repeats a handful of classic false claims",
         "link": "https://www.cnn.com/2020/07/21/politics/fact-check-trump-coronavirus-briefing-july-21/index.html"
     },
     {
-        "title": "Pompeo tried to shake hands with a bunch of foreign leaders. They all turned him down.",
-        "link": "https://theweek.com/speedreads/926907/pompeo-tried-shake-hands-bunch-foreign-leaders-all-turned-down"
-    },
-    {
-        "title": "Global coronavirus cases exceed 15 million: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/global-coronavirus-cases-exceed-15-million-reuters-tally-idUSKCN24N0KK"
-    },
-    {
-        "title": "US public increasingly skeptical of Covid-19 death toll, poll finds",
-        "link": "https://www.theguardian.com/world/2020/jul/21/us-coronavirus-death-toll-public-opinion-poll-accuracy"
+        "title": "Global coronavirus infections exceed 15 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/trump-urges-americans-wear-masks-curb-coronavirus-live-200721233328914.html"
     }
 ];
