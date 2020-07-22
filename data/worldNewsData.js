@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
     },
     {
-        "title": "Global coronavirus cases exceed 15 million: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/global-coronavirus-cases-exceed-15-million-reuters-tally-idUSKCN24N0KK"
+        "title": "'Pretty surreal': How the rest of the world views the U.S.' stance on masks",
+        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     }
 ];
