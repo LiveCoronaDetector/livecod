@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
-    },
-    {
         "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
         "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://theweek.com/speedreads/926907/pompeo-tried-shake-hands-bunch-foreign-leaders-all-turned-down"
     },
     {
-        "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
-        "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
+        "title": "Global coronavirus cases exceed 15 million: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/global-coronavirus-cases-exceed-15-million-reuters-tally-idUSKCN24N0KK"
+    },
+    {
+        "title": "US public increasingly skeptical of Covid-19 death toll, poll finds",
+        "link": "https://www.theguardian.com/world/2020/jul/21/us-coronavirus-death-toll-public-opinion-poll-accuracy"
     }
 ];
