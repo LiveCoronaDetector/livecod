@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200722021652504?did=1195m"
     },
     {
-        "title": "[속보]포천 육군 전방부대서 코로나19 확진자 8명 발생…확산 비상",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007220844001&code=940100"
-    },
-    {
         "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
     },
     {
-        "title": "광주 코로나19 확진자 4명 추가 발생…누적 환자 191명",
-        "link": "https://www.nocutnews.co.kr/news/5382346"
+        "title": "전방부대 장병 13명 무더기로 ‘코로나19’ 감염",
+        "link": "http://www.hani.co.kr/arti/politics/defense/954659.html"
     },
     {
-        "title": "‘코로나19’ 확진자 63명 추가…다시 ‘60명’ 대",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212492"
+        "title": "\"군 입영장병 4만6000명 코로나 전수조사 결과 1명만 양성\"(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/22/2020072201985.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 신규 확진 63명…수도권 지역감염만 28명",
-        "link": "http://www.hani.co.kr/arti/society/health/954664.html"
+        "title": "씨젠, 코로나+독감 한 번에 진단하는 첨단 키트 개발했다",
+        "link": "https://shindonga.donga.com/3/all/13/2126078/1"
+    },
+    {
+        "title": "[단독] 외국인 확진자 치료비 ‘개인 부담’ 검토",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499959&ref=A"
     }
 ];

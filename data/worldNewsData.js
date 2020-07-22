@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
     },
     {
-        "title": "Trump concedes pandemic to 'get worse before it gets better'",
-        "link": "https://www.bbc.com/news/world-us-canada-53494766"
-    },
-    {
         "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
         "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
+    },
+    {
+        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
+        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
     }
 ];
