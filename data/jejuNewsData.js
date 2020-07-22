@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
     },
     {
-        "title": "제주 첫 ‘3차 감염자’ 동선진술 오락가락…추가 확진자 나오나 ‘촉각’",
-        "link": "http://www.segye.com/content/html/2020/07/21/20200721517272.html?OutUrl=naver"
+        "title": "‘서울 광진 26번째 확진자’ 감염 범위 확산에 초긴장",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499584&ref=A"
     }
 ];

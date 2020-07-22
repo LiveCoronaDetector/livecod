@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
     },
     {
-        "title": "India coronavirus: 'Our neighbours made us Covid-19 pariahs'",
-        "link": "https://news.yahoo.com/india-coronavirus-neighbours-made-us-233055302.html"
+        "title": "India now has more than 1 million coronavirus cases. What does that mean -- and how did the country get here?",
+        "link": "https://www.cnn.com/2020/07/18/asia/india-coronavirus-one-million-data-intl-hnk/index.html"
     },
     {
         "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/china-warns-uk-it-will-bear-consequences-of-defying-beijing-2020-7"
     },
     {
-        "title": "Nearly A Third Of Americans Believe Covid-19 Death Toll Conspiracy Theory",
-        "link": "https://www.forbes.com/sites/alisondurkee/2020/07/21/nearly-a-third-of-americans-believe-covid-19-death-toll-conspiracy-theory/"
+        "title": "Axios-Ipsos poll: The skeptics are growing",
+        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
     },
     {
-        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
-        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
+        "title": "Sweden had one of the most relaxed COVID-19 lockdowns in the world. There's growing evidence that it help..",
+        "link": "https://markets.businessinsider.com/news/stocks/sweden-coronavirus-economy-relaxed-lockdown-stronger-rest-of-europe-2020-7-1029415101"
     }
 ];
