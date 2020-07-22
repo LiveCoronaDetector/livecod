@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/22/south-africa-oxford-vaccine-trial-mckenzie-pkg-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Canadian CDC Suggests Glory Holes For Safe Sex During Pandemic",
-        "link": "https://www.tmz.com/2020/07/22/glory-holes-safe-sex-pandemic-canadian-cdc-british-columbia/"
+        "title": "Brazil's Bolsonaro tests positive for the novel coronavirus again",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-tests-positive-for-the-novel-coronavirus-again-idUSKCN24N1P9"
     },
     {
         "title": "Israel’s new alternative prime minister pushed for coronavirus response to be managed by military, not heal...",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/us/five-things-july-22-trnd/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
+        "title": "Fact check: At his first coronavirus briefing since April, Trump repeats a handful of classic false claims",
+        "link": "https://www.cnn.com/2020/07/21/politics/fact-check-trump-coronavirus-briefing-july-21/index.html"
     },
     {
-        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
-        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
+        "title": "Pompeo tried to shake hands with a bunch of foreign leaders. They all turned him down.",
+        "link": "https://theweek.com/speedreads/926907/pompeo-tried-shake-hands-bunch-foreign-leaders-all-turned-down"
     },
     {
-        "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
-        "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
+        "title": "Global coronavirus cases exceed 15 million: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/global-coronavirus-cases-exceed-15-million-reuters-tally-idUSKCN24N0KK"
     },
     {
-        "title": "The US politicians volunteering other people’s lives to fight Covid-19",
-        "link": "https://www.theguardian.com/world/2020/jul/22/us-reopening-politicians-volunteering-peoples-lives-coronavirus"
+        "title": "US public increasingly skeptical of Covid-19 death toll, poll finds",
+        "link": "https://www.theguardian.com/world/2020/jul/21/us-coronavirus-death-toll-public-opinion-poll-accuracy"
     }
 ];
