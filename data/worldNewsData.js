@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/22/south-africa-oxford-vaccine-trial-mckenzie-pkg-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Live updates: Trump says coronavirus pandemic will ‘get worse before it gets better’ as daily death toll tops 1,000",
-        "link": "https://www.washingtonpost.com/nation/2020/07/22/covid-live-updates-us/"
+        "title": "Trump concedes pandemic to 'get worse before it gets better'",
+        "link": "https://www.bbc.com/news/world-us-canada-53494766"
     },
     {
         "title": "Israel’s new alternative prime minister pushed for coronavirus response to be managed by military, not heal...",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
+    },
+    {
         "title": "Pompeo urges 'entire world' to stand up to China - The Jakarta Post",
         "link": "https://www.thejakartapost.com/news/2020/07/22/pompeo-urges-entire-world-to-stand-up-to-china.html"
     },
     {
-        "title": "Axios-Ipsos poll: The skeptics are growing",
-        "link": "https://www.axios.com/axios-ipsos-poll-gop-skeptics-growing-deaths-e6ad6be5-c78f-43bb-9230-c39a20c8beb5.html"
-    },
-    {
-        "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
-        "link": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html"
+        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
+        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
         "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",

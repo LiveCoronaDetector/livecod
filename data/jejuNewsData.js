@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
+        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료붕괴 위험\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
+    },
+    {
         "title": "제주 26번 코로나19 확진자 1차동선 공개",
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
-    },
-    {
-        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     }
 ];
