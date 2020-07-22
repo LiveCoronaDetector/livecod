@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/21/germanys-coronavirus-response-masterful-science-communication.html"
     },
     {
-        "title": "Thailand is losing key economic ministers as country tries to recover from coronavirus-induced slump",
-        "link": "https://www.cnbc.com/2020/07/22/thailand-loses-key-economic-ministers-as-coronavirus-slams-economy.html"
+        "title": "Nearly one in four people in Delhi may have contracted Covid-19, study reveals",
+        "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
     },
     {
         "title": "Pompeo suggests global coalition against China for 'exploiting' coronavirus",
         "link": "https://www.foxnews.com/politics/pompeo-global-coalition-against-china-exploiting-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
+        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
+        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
         "title": "Pompeo urges 'entire world' to stand up to China - The Jakarta Post",
         "link": "https://www.thejakartapost.com/news/2020/07/22/pompeo-urges-entire-world-to-stand-up-to-china.html"
     },
     {
-        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
-        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
-    },
-    {
         "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
+    },
+    {
+        "title": "Trump at briefing says Covid-19 crisis 'will probably unfortunately get worse before it gets better'",
+        "link": "https://www.cnn.com/2020/07/21/politics/trump-coronavirus-briefing/index.html"
     }
 ];
