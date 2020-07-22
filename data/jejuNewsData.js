@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
     {
-        "title": "제주 코로나19 감염 26번째 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+    },
+    {
+        "title": "제주 코로나19 감염 26번째 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5382450"
     },
     {
-        "title": "제주 코로나19 26번 확진자 발생…광진구발 여파",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499032&ref=A"
+        "title": "제주 코로나 첫 3차 감염 '초긴장'...서울 광진구發 5명 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/21/2020072100649.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

@@ -1369,6 +1369,14 @@ var marker = [
         "완치자수": 172
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 194,
+        "사망자수": 11,
+        "완치자수": 91
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
@@ -1383,14 +1391,6 @@ var marker = [
         "확진자수": 180,
         "사망자수": 0,
         "완치자수": 180
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 174,
-        "사망자수": 11,
-        "완치자수": 91
     },
     {
         "Name": "Bermuda",
