@@ -9,12 +9,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200722021652504?did=1195m"
     },
     {
+        "title": "[속보]포천 육군 전방부대서 코로나19 확진자 8명 발생…확산 비상",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007220844001&code=940100"
+    },
+    {
         "title": "포천 육군 부대서 코로나19 집단감염…최소 8명 확인",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005894335&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "미국 코로나 실제 감염자, 확진자의 최대 13배...무증상자가 40%",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=402517&class=42&grp="
+        "title": "‘코로나19’ 확진자 63명 추가…다시 ‘60명’ 대",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212492"
+    },
+    {
+        "title": "美 CDC \"코로나 실제 감염자, 확진자의 최대 13배\"",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/22/2020072290044.html"
     },
     {
         "title": "文 “이겨가고 있다” 발언 뒤 이틀째 확진자 급증…다시 60명대(종합)",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007221032001&code=940601"
     },
     {
-        "title": "전방부대 장병 13명 무더기로 ‘코로나19’ 감염",
-        "link": "http://www.hani.co.kr/arti/politics/defense/954659.html"
+        "title": "코로나19 어제 63명 신규확진…해외유입 34명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
     },
     {
-        "title": "\"군 입영장병 4만6000명 코로나 전수조사 결과 1명만 양성\"(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/22/2020072201985.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "씨젠, 코로나+독감 한 번에 진단하는 첨단 키트 개발했다",
-        "link": "https://shindonga.donga.com/3/all/13/2126078/1"
-    },
-    {
-        "title": "[단독] 외국인 확진자 치료비 ‘개인 부담’ 검토",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499959&ref=A"
+        "title": "포천 육군부대 코로나 13명 확진..軍 감염경로 역학조사",
+        "link": "http://www.fnnews.com/news/202007221321535733"
     }
 ];

@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
+        "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
+        "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
+    },
+    {
         "title": "제주 26번 코로나19 확진자 1차동선 공개",
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
@@ -15,10 +19,6 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
-        "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
     {
         "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4499166&ref=A"
     },
     {
-        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
+        "title": "제주 코로나 확산 불안감에 …초등학생 등교 거부 사태",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200722500155&wlog_tag3=naver"
     },
     {
-        "title": "제주 코로나 첫 3차 감염 '초긴장'...서울 광진구發 5명 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/21/2020072100649.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "제주 코로나19 26번째 확진자 발생…“애월읍 소재 분식집 등 방문”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4498570&ref=A"
     }
 ];
