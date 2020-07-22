@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/22/south-africa-oxford-vaccine-trial-mckenzie-pkg-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Coronavirus Live Updates",
+        "title": "GOP Weighs Short-Term Extension of $600 Jobless Aid: Live Updates",
         "link": "https://www.nytimes.com/2020/07/22/world/coronavirus-covid-19.html"
     },
     {
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
+    },
+    {
         "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
         "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     },
     {
         "title": "Pompeo tried to shake hands with a bunch of foreign leaders. They all turned him down.",
         "link": "https://theweek.com/speedreads/926907/pompeo-tried-shake-hands-bunch-foreign-leaders-all-turned-down"
-    },
-    {
-        "title": "The US politicians volunteering other people’s lives to fight Covid-19",
-        "link": "https://www.theguardian.com/world/2020/jul/22/us-reopening-politicians-volunteering-peoples-lives-coronavirus"
     },
     {
         "title": "Global coronavirus infections exceed 15 million: Live updates",

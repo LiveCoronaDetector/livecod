@@ -5,22 +5,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/politics/defense/954659.html"
     },
     {
-        "title": "광주서 발열 1주일 뒤 검사받은 확진자의 접촉자 6명 추가 감염",
-        "link": "http://yna.kr/AKR20200722181200054?did=1195m"
-    },
-    {
-        "title": "포천 8사단 코로나 14명 집단감염 '미스터리'",
-        "link": "https://hankookilbo.com/News/Read/A2020072209490005116?did=NA"
-    },
-    {
-        "title": "포천 군부대 방문자 가족 등 2명 코로나 확진",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/22/2020072204377.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "일본, 관광지원 시작하자 하루 최다 코로나 확진(종합2보)",
-        "link": "http://yna.kr/AKR20200722175652073?did=1195m"
-    },
-    {
         "title": "[속보]포천 육군 전방부대서 코로나19 확진자 8명 발생…확산 비상",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007220844001&code=940100"
     },
@@ -39,5 +23,21 @@ var koreaNewsData = [
     {
         "title": "씨젠, 코로나+독감 한 번에 진단하는 첨단 키트 개발했다",
         "link": "https://shindonga.donga.com/3/all/13/2126078/1"
+    },
+    {
+        "title": "코로나19 어제 63명 신규확진…해외유입 34명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
+    },
+    {
+        "title": "코로나 6개월 … SRT 15만량 방역",
+        "link": "http://www.fnnews.com/news/202007221139524892"
+    },
+    {
+        "title": "코로나 신규 확진 63명…수도권 지역감염만 28명",
+        "link": "http://www.hani.co.kr/arti/society/health/954664.html"
+    },
+    {
+        "title": "발열 일주일 뒤에야 검사받은 확진자…6명에 코로나 전파",
+        "link": "https://www.hankyung.com/society/article/2020072288757"
     }
 ];
