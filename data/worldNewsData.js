@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
+        "title": "The US politicians volunteering other people’s lives to fight Covid-19",
+        "link": "https://www.theguardian.com/world/2020/jul/22/us-reopening-politicians-volunteering-peoples-lives-coronavirus"
+    },
+    {
+        "title": "Mike Pompeo Says Britons Died from COVID-19 Because WHO 'Bought' by China",
+        "link": "https://www.newsweek.com/u-s-u-k-mike-pompeo-china-dominic-raab-boris-johnson-covid-19-coronavirus-who-1519616"
+    },
+    {
         "title": "Global report: nearly a quarter of people in Delhi have had coronavirus, study finds",
         "link": "https://www.theguardian.com/world/2020/jul/22/global-report-nearly-a-quarter-of-people-in-delhi-have-had-coronavirus-study-finds"
-    },
-    {
-        "title": "US Secretary of State Pompeo in London to discuss China",
-        "link": "https://www.youtube.com/watch?v=I1wFC7lDwLQ"
-    },
-    {
-        "title": "US public increasingly skeptical of Covid-19 death toll, poll finds",
-        "link": "https://www.theguardian.com/world/2020/jul/21/us-coronavirus-death-toll-public-opinion-poll-accuracy"
     }
 ];
