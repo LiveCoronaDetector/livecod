@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/23/south-africa-sees-60-spike-in-excess-deaths-suggesting-high-covid-19-toll"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Nears 4 Million Cases",
+        "title": "Coronavirus Live Updates: Cases Are Surging Along the U.S. Gulf Coast",
         "link": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/23/us/five-things-july-23-trnd/index.html"
     },
     {
+        "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
+        "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
+    },
+    {
         "title": "29 Pictures Of Global Tourism During The Coronavirus Pandemic",
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
+        "title": "'Wave of silence' spread around world during coronavirus pandemic",
+        "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
+    },
+    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/07/23/watch-live-world-health-organization-holds-briefing-on-coronavirus-pandemic.html"
-    },
-    {
-        "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
-        "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
-    },
-    {
-        "title": "Coronavirus updates: $600 weekly jobless bonus in trouble; infected moms can breastfeed; death toll surpasses 1,000 again",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/23/covid-update-california-surpasses-new-york-worldwide-cases-15-m/5486332002/"
     }
 ];
