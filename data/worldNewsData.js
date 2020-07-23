@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
-        "title": "Global virus infections pass 15 million as Latin America cases soar",
-        "link": "https://www.euractiv.com/section/coronavirus/news/global-virus-infections-pass-15-million-as-latin-america-cases-soar/"
+        "title": "Coronavirus Outbreak: Live Updates and News for Jul. 23, 2020",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=661cb740-cce0-11ea-9267-fb3b200d2471&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yMi9nbG9iYWwtY2FzZXMtdG9wLTE1LW1pbGxpb24tcmVjb3JkLWp1bXAtaW4tYnJhemlsLXZpcnVzLXVwZGF0ZQ=="
     },
     {
         "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
