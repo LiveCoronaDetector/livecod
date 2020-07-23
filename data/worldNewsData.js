@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
     },
     {
-        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
-        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
+        "title": "Australians are ignoring self-isolation guidelines. Coronavirus cases are climbing.",
+        "link": "https://www.washingtonpost.com/world/2020/07/22/australia-coronavirus-cases-self-isolation/"
     },
     {
         "title": "28 Pictures Of Global Tourism During The Coronavirus Pandemic",

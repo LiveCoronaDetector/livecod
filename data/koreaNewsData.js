@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/economy/article/2020072311106"
     },
     {
-        "title": "부산항 입항 러시아 선박서 수리작업 참여 1명 코로나19 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200723_0001105555&cID=10811&pID=10800"
+        "title": "[속보]도쿄 1일 최다 360명 코로나 확진자 나왔다",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/23/2020072302790.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[종합] 코로나19 확진자 59명 증가...해외 20명, 경기 17명, 서울 11명",
-        "link": "http://www.fnnews.com/news/202007231016057828"
+        "title": "송파 사랑교회 확진자 11명 추가…\"역학조사 중\"",
+        "link": "https://www.news1.kr/articles/?4004852"
     },
     {
         "title": "[속보] 코로나19 신규 확진 59명···국내 발생 39명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007231021021&code=940601"
     },
     {
-        "title": "[속보] 미 백악관 행정동 직원 코로나19 확진…2주간 폐쇄할 듯",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007230230&t=NN"
-    },
-    {
         "title": "부산항 러 선원발 코로나 공포 확산…수리공·격리선원들 확진(종합)",
         "link": "http://yna.kr/AKR20200723094100051?did=1195m"
     },
     {
-        "title": "코로나19 어제 59명 신규확진…국내발생 39명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212633"
+        "title": "코로나19, 다시 확산하나…광주서 9명 등 지역발생 39명(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02233686625837472"
     },
     {
-        "title": "[전문] 관악구청 139번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=372904"
+        "title": "[종합] 코로나19 확진자 59명 증가...해외 20명, 경기 17명, 서울 11명",
+        "link": "http://www.fnnews.com/news/202007231016057828"
     },
     {
-        "title": "감천항 정박한 러시아 선박서 코로나19 확진자 3명 추가 발생",
-        "link": "http://www.segye.com/content/html/2020/07/23/20200723511010.html?OutUrl=naver"
+        "title": "코로나19 백신 접종 내년 초나 돼야 가능하다",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=402626&class=42&grp="
+    },
+    {
+        "title": "[속보] 미 백악관 행정동 직원 코로나19 확진…2주간 폐쇄할 듯",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007230230&t=NN"
     }
 ];
