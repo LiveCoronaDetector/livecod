@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/23/2020072301460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대구·경북 신규 확진자 ‘0명’…안정세 이어가(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007230116"
-    },
-    {
         "title": "‘코로나19 무더기 확진’ 전방부대 다녀간 상담사 확진…감염경로 가능성",
         "link": "http://news.heraldcorp.com/view.php?ud=20200723000220"
     },
@@ -23,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 59명 신규확진…국내발생 39명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212633"
+    },
+    {
+        "title": "부산항 러 선원발 코로나 공포 확산…수리공·격리선원들 확진(종합)",
+        "link": "http://yna.kr/AKR20200723094100051?did=1195m"
     },
     {
         "title": "해외유입 코로나19 확진자 20명",

@@ -13,8 +13,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     },
     {
-        "title": "제주도 유흥주점 방역수칙 이행 여부 집중 점검",
-        "link": "http://www.ihalla.com/read.php3?aid=1595474417688214073"
+        "title": "제주도, 26번 확진자 출입 호박유흥주점 업주 '고발' 방침",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318244"
+    },
+    {
+        "title": "제주 애월지역 학부모, 코로나 불안 심리 계속",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347862"
     },
     {
         "title": "코로나 앞에...,25년 전통 제주국제관광마라톤축제 '취소'",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "서울 광진구발 여파…제주 26번 확진자 발생 지역 초교 집단 등교 거부",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4500070&ref=A"
-    },
-    {
-        "title": "[코로나19] 제주 애월 확진자 하루사이 접촉자 '4→16명'",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=996890"
     }
 ];
