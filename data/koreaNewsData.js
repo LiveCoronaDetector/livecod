@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/22/2020072290044.html"
     },
     {
-        "title": "'코로나19 집단감염' 포천 육군부대 전수검사 완료…총14명 확진",
-        "link": "http://yna.kr/AKR20200722180300504?did=1195m"
+        "title": "코로나19 백신 접종 내년 초나 돼야 가능하다",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=402626&class=42&grp="
     }
 ];
