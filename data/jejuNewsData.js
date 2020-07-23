@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "서울 광진구발 여파…제주 26번 확진자 발생 지역 초교 집단 등교 거부",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4500070&ref=A"
+        "title": "제주 23번 확진자의 접촉자 56명 전원 '음성'",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347876"
     }
 ];

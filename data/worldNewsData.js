@@ -30,7 +30,7 @@ var worldNewsData = [
     },
     {
         "title": "South African Excess Deaths Surge to 59% as Virus Spreads",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d872dbc0-ccbe-11ea-8caa-4534c5a648a4&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yMi9zb3V0aC1hZnJpY2FuLWV4Y2Vzcy1kZWF0aHMtc3VyZ2UtdG8tNTktYXMtdmlydXMtc3ByZWFkcw=="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=24bc9850-ccc3-11ea-ac7c-1bccc918f59a&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yMi9zb3V0aC1hZnJpY2FuLWV4Y2Vzcy1kZWF0aHMtc3VyZ2UtdG8tNTktYXMtdmlydXMtc3ByZWFkcw=="
     },
     {
         "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
