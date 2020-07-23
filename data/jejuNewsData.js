@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     },
     {
-        "title": "제주 코로나19 26번째 확진자 발생…첫 3차 감염",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4499429&ref=A"
+        "title": "코로나 앞에...,25년 전통 제주국제관광마라톤축제 '취소'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318232"
     }
 ];

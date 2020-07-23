@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/07/22/australia-coronavirus-cases-self-isolation/"
     },
     {
-        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
-        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
     },
     {
-        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
-        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
+        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
+        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
         "title": "Coronavirus live news: California sees record daily cases as global infections top 15m",
         "link": "https://www.theguardian.com/world/live/2020/jul/23/coronavirus-live-news-california-sees-record-daily-cases-as-global-infections-top-15m"
     },
     {
-        "title": "28 Pictures Of Global Tourism During The Coronavirus Pandemic",
-        "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
+        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
+        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     }
 ];
