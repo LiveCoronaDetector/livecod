@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/europe/eu-budget-coronavirus-rule-of-law-analysis-intl/index.html"
     },
     {
-        "title": "Coronavirus study reveals nearly one in four people in India's capital may have contracted the virus",
-        "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
+        "title": "Deserted beaches, empty bars: Covid-19 devastates Thailand's tourist islands",
+        "link": "https://www.theguardian.com/world/2020/jul/23/deserted-beaches-empty-bars-covid-19-devastates-thailands-tourist-islands"
     },
     {
-        "title": "Australians are ignoring self-isolation guidelines. Coronavirus cases are climbing.",
-        "link": "https://www.washingtonpost.com/world/2020/07/22/australia-coronavirus-cases-self-isolation/"
+        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
+        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
+    },
+    {
+        "title": "Covid-19 Live Updates and Analysis",
+        "link": "https://www.nytimes.com/2020/07/22/world/coronavirus-covid-19.html"
     },
     {
         "title": "28 Pictures Of Global Tourism During The Coronavirus Pandemic",
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
-    },
-    {
-        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
-        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
         "title": "Coronavirus live news: California sees record daily cases as global infections top 15m",
