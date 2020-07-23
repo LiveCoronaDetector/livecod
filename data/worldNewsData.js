@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-tests-positive-for-the-novel-coronavirus-again-idUSKCN24N1P9"
     },
     {
-        "title": "Netanyahu, Edelstein make Gamzu coronavirus ‘czar’",
-        "link": "https://www.jpost.com/israel-news/israels-coronavirus-czar-635974"
+        "title": "UN: COVID-19 efforts hampered amid Israeli-Palestinian breakdown",
+        "link": "https://www.aljazeera.com/news/2020/07/covid-19-efforts-hampered-israeli-palestinian-breakdown-200722111602590.html"
     },
     {
         "title": "The EU struck a big rescue deal on Covid-19. But it might have dealt a blow to democracy",
@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
     },
     {
-        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
-        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
+        "title": "Australians are ignoring self-isolation guidelines. Coronavirus cases are climbing.",
+        "link": "https://www.washingtonpost.com/world/2020/07/22/australia-coronavirus-cases-self-isolation/"
     },
     {
         "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
         "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
+    },
+    {
+        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
+        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
     }
 ];

@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     },
     {
+        "title": "코로나 앞에...,25년 전통 제주국제관광마라톤축제 '취소'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318232"
+    },
+    {
         "title": "제주 26번 코로나19 확진자 1차동선 공개",
         "link": "https://www.nocutnews.co.kr/news/5381824"
     },
@@ -23,10 +27,6 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "코로나 앞에...,25년 전통 제주국제관광마라톤축제 '취소'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318232"
     },
     {
         "title": "서울 광진구발 여파…제주 26번 확진자 발생 지역 초교 집단 등교 거부",
