@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-22-20-intl/index.html"
     },
     {
-        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
-        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
+        "title": "It's not too late for masks to revert to being a health precaution, not a political symbol",
+        "link": "https://www.theguardian.com/commentisfree/2020/jul/22/face-masks-coronavirus-health-precaution-political-symbol"
     },
     {
         "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",

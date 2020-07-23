@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://shindonga.donga.com/3/all/13/2126078/1"
     },
     {
+        "title": "일본 코로나19 신규 확진자 795명 역대 최다...도쿄 '외출 자제'",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=402616&class=42&grp="
+    },
+    {
+        "title": "코로나19 '확산→진정→재확산' 반복…\"방심할 수 없는 상황\"",
+        "link": "http://yna.kr/AKR20200722163900530?did=1195m"
+    },
+    {
         "title": "코로나19 어제 63명 신규확진…해외유입 34명",
         "link": "http://www.busan.com/view/busan/view.php?code=2020072210150516300"
     },
     {
         "title": "코로나 신규 확진 63명…수도권 지역감염만 28명",
         "link": "http://www.hani.co.kr/arti/society/health/954664.html"
-    },
-    {
-        "title": "코로나19 백신 접종 내년 초나 돼야 가능하다",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=402626&class=42&grp="
-    },
-    {
-        "title": "WHO \"코로나19 백신 접종, 현실적으로 내년 초는 돼야\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200723_0001104692&cID=10101&pID=10100"
     }
 ];
