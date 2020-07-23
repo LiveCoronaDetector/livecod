@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/23/us/five-things-july-23-trnd/index.html"
     },
     {
-        "title": "28 Pictures Of Global Tourism During The Coronavirus Pandemic",
+        "title": "29 Pictures Of Global Tourism During The Coronavirus Pandemic",
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/07/23/watch-live-world-health-organization-holds-briefing-on-coronavirus-pandemic.html"
     },
     {
         "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
         "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
     },
     {
-        "title": "Reopening to local tourism",
-        "link": "https://www.bangkokpost.com/business/1956091/reopening-to-local-tourism"
-    },
-    {
-        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
-        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
+        "title": "Coronavirus updates: $600 weekly jobless bonus in trouble; infected moms can breastfeed; death toll surpasses 1,000 again",
+        "link": "https://www.usatoday.com/story/news/health/2020/07/23/covid-update-california-surpasses-new-york-worldwide-cases-15-m/5486332002/"
     }
 ];
