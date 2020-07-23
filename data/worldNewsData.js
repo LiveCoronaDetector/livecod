@@ -34,7 +34,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus relief aid from world's top donors is dropping, report finds",
-        "link": "https://news.google.com/articles/CAIiEKvaBQenqS6YYtkA8mjth6wqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.foxnews.com/world/coronavirus-relief-aid-worlds-top-donors-dropping"
     },
     {
         "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
