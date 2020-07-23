@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
+        "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
+    },
+    {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "서울 광진구발 여파…제주 26번 확진자 발생 지역 초교 집단 등교 거부",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4500070&ref=A"
-    },
-    {
-        "title": "[코로나19] 제주 애월 확진자 하루사이 접촉자 '4→16명'",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=996890"
     }
 ];
