@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/23/2020072301460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "'코로나19' 신규 확진 59명…수도권 확산 우려",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5851562_32496.html"
+    },
+    {
         "title": "‘코로나19 무더기 확진’ 전방부대 다녀간 상담사 확진…감염경로 가능성",
         "link": "http://news.heraldcorp.com/view.php?ud=20200723000220"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212633"
     },
     {
+        "title": "[속보] 롯데카드 본사서 확진자 발생…임직원 전원 귀가",
+        "link": "https://www.hankyung.com/economy/article/2020072311106"
+    },
+    {
+        "title": "부산항 러 선박 승선한 수리공 코로나19 '확진'···지역감염 우려 '초비상'...",
+        "link": "https://www.sedaily.com/NewsView/1Z5EYFPUDY"
+    },
+    {
+        "title": "코로나19 백신 접종 내년 초나 돼야 가능하다",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=402626&class=42&grp="
+    },
+    {
         "title": "부산항 러 선원발 코로나 공포 확산…수리공·격리선원들 확진(종합)",
         "link": "http://yna.kr/AKR20200723094100051?did=1195m"
-    },
-    {
-        "title": "해외유입 코로나19 확진자 20명",
-        "link": "http://yna.kr/PYH20200723063500013?did=1196m"
-    },
-    {
-        "title": "전방부대 장병 13명 무더기로 ‘코로나19’ 감염",
-        "link": "http://www.hani.co.kr/arti/politics/defense/954659.html"
-    },
-    {
-        "title": "포천 육군부대서 코로나19 무더기 감염…최소 8명 확인(종합)",
-        "link": "http://yna.kr/AKR20200722021651504?did=1195m"
-    },
-    {
-        "title": "코로나19 '확산→진정→재확산' 반복…\"방심할 수 없는 상황\"",
-        "link": "http://yna.kr/AKR20200722163900530?did=1195m"
     }
 ];

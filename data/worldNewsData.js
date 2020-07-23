@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/22/south-africa-oxford-vaccine-trial-mckenzie-pkg-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Brazil's Bolsonaro tests positive for the novel coronavirus again",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-tests-positive-for-the-novel-coronavirus-again-idUSKCN24N1P9"
+        "title": "Live updates: Republicans divided over coronavirus relief bill as U.S. reports more than 1,100 fatalities",
+        "link": "https://www.washingtonpost.com/nation/2020/07/23/covid-live-updates-us/"
     },
     {
         "title": "Netanyahu, Edelstein make Gamzu coronavirus ‘czar’",
