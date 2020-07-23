@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/954664.html"
     },
     {
-        "title": "美 CDC \"코로나 실제 감염자, 확진자의 최대 13배\"",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/22/2020072290044.html"
-    },
-    {
         "title": "코로나19 백신 접종 내년 초나 돼야 가능하다",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=402626&class=42&grp="
+    },
+    {
+        "title": "WHO \"코로나19 백신 접종, 현실적으로 내년 초는 돼야\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200723_0001104692&cID=10101&pID=10100"
     }
 ];
