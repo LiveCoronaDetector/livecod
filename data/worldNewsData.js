@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
-        "title": "Covid-19 Live Updates and Analysis",
-        "link": "https://www.nytimes.com/2020/07/22/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "28 Pictures Of Global Tourism During The Coronavirus Pandemic",
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
-        "title": "It's not too late for masks to revert to being a health precaution, not a political symbol",
-        "link": "https://www.theguardian.com/commentisfree/2020/jul/22/face-masks-coronavirus-health-precaution-political-symbol"
-    },
-    {
         "title": "Coronavirus live news: California sees record daily cases as global infections top 15m",
         "link": "https://www.theguardian.com/world/live/2020/jul/23/coronavirus-live-news-california-sees-record-daily-cases-as-global-infections-top-15m"
+    },
+    {
+        "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
+        "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
+    },
+    {
+        "title": "Coronavirus relief aid from world's top donors is dropping, report finds",
+        "link": "https://www.foxnews.com/world/coronavirus-relief-aid-worlds-top-donors-dropping"
     }
 ];
