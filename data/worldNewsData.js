@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
-        "title": "Coronavirus live news: California sees record daily cases as global infections top 15m",
-        "link": "https://www.theguardian.com/world/live/2020/jul/23/coronavirus-live-news-california-sees-record-daily-cases-as-global-infections-top-15m"
+        "title": "It's not too late for masks to revert to being a health precaution, not a political symbol",
+        "link": "https://www.theguardian.com/commentisfree/2020/jul/22/face-masks-coronavirus-health-precaution-political-symbol"
     },
     {
-        "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
-        "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
+        "title": "Coronavirus live news: California sees record daily cases as global infections top 15m",
+        "link": "https://www.theguardian.com/world/live/2020/jul/23/coronavirus-live-news-california-sees-record-daily-cases-as-global-infections-top-15m"
     }
 ];
