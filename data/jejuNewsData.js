@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324831"
     },
     {
-        "title": "코로나 앞에...,25년 전통 제주국제관광마라톤축제 '취소'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318232"
-    },
-    {
         "title": "느슨해진 마스크 착용…코로나19 감염 위험",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4501161&ref=A"
+    },
+    {
+        "title": "코로나 앞에...,25년 전통 제주국제관광마라톤축제 '취소'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318232"
     },
     {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",

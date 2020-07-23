@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500030&wlog_tag3=naver"
     },
     {
-        "title": "송파구 \"사랑교회서 11명 코로나 추가 확진\"",
-        "link": "http://www.fnnews.com/news/202007231522458935"
+        "title": "'한국인 3명 사망' 이라크 코로나19 환자 10만 명 넘어",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005898167&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "송파 사랑교회 확진자 11명 추가…\"역학조사 중\"",
+        "link": "https://www.news1.kr/articles/?4004852"
     },
     {
         "title": "롯데카드 광화문 사옥서 코로나 확진자 발생… 임직원 전원 귀가",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/23/2020072302574.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "도쿄 코로나 신규 확진 366명…사상 최다",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5851615_32640.html"
+        "title": "日 도쿄, 코로나 하루 확진 366명... 300명 첫 돌파",
+        "link": "http://www.fnnews.com/news/202007231457259986"
     },
     {
         "title": "日도쿄도, 최초로 '코로나19' 확진자 300명 ↑",
@@ -29,12 +33,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007231021021&code=940601"
     },
     {
-        "title": "일본, 코로나 신규확진 920명…또 일일 확진 기록 갈아치워",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007231940001&code=970203"
-    },
-    {
-        "title": "경남 해외유입 코로나19 확진자 2명 발생…총 154명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200723_0001105969&cID=10812&pID=10800"
+        "title": "일본 코로나 신규 확진 920명…연일 최다 기록",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5851926_32640.html"
     },
     {
         "title": "도쿄올림픽 D-1년 일본, 코로나 신규 확진 연일 최다(종합)",
