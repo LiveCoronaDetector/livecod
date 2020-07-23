@@ -1001,6 +1001,14 @@ var marker = [
         "완치자수": 1288
     },
     {
+        "Name": "Benin",
+        "Name_ch": "",
+        "Name_en": "Benin",
+        "확진자수": 1690,
+        "사망자수": 34,
+        "완치자수": 782
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
@@ -1015,14 +1023,6 @@ var marker = [
         "확진자수": 1640,
         "사망자수": 458,
         "완치자수": 751
-    },
-    {
-        "Name": "Benin",
-        "Name_ch": "",
-        "Name_en": "Benin",
-        "확진자수": 1602,
-        "사망자수": 31,
-        "완치자수": 782
     },
     {
         "Name": "Mozambique",
