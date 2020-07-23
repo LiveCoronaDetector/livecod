@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/22/asia/delhi-coronavirus-antibody-intl-hnk/index.html"
     },
     {
-        "title": "Australians are ignoring self-isolation guidelines. Coronavirus cases are climbing.",
-        "link": "https://www.washingtonpost.com/world/2020/07/22/australia-coronavirus-cases-self-isolation/"
+        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
+        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/23/coronavirus-live-news-california-sees-record-daily-cases-as-global-infections-top-15m"
     },
     {
-        "title": "On coronavirus, Trump insists the U.S. has the world's 'No. 1 low mortality rate.' He's wrong — and it's the wrong way to measure success.",
-        "link": "https://news.yahoo.com/on-coronavirus-trump-insists-the-us-has-the-worlds-number-one-low-mortality-rate-hes-wrong-001356960.html"
+        "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
+        "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
     }
 ];

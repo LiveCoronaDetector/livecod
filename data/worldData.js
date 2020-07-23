@@ -1494,7 +1494,7 @@ var marker = [
         "Name_en": "Antigua and Barbuda",
         "확진자수": 76,
         "사망자수": 3,
-        "완치자수": 57
+        "완치자수": 58
     },
     {
         "Name": "French Polynesia",
@@ -1508,9 +1508,9 @@ var marker = [
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
-        "확진자수": 50,
+        "확진자수": 52,
         "사망자수": 0,
-        "완치자수": 29
+        "완치자수": 37
     },
     {
         "Name": "Saint Martin",
