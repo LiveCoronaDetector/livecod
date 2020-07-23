@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
-        "title": "Coronavirus live news: California sees record daily cases as global infections top 15m",
+        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
+        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
+    },
+    {
+        "title": "Coronavirus live news: South Africa excess deaths rise by 60%; California sees record daily cases",
         "link": "https://www.theguardian.com/world/live/2020/jul/23/coronavirus-live-news-california-sees-record-daily-cases-as-global-infections-top-15m"
     },
     {
         "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
         "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
-    },
-    {
-        "title": "Coronavirus relief aid from world's top donors is dropping, report finds",
-        "link": "https://www.foxnews.com/world/coronavirus-relief-aid-worlds-top-donors-dropping"
     }
 ];
