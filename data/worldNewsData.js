@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/22/south-africa-oxford-vaccine-trial-mckenzie-pkg-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Brazil's Bolsonaro tests positive for the novel coronavirus again",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-tests-positive-for-the-novel-coronavirus-again-idUSKCN24N1P9"
+        "title": "Coronavirus Live Updates: U.S. Nears 4 Million Cases",
+        "link": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html"
     },
     {
         "title": "Netanyahu, Edelstein make Gamzu coronavirus ‘czar’",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
-        "title": "It's not too late for masks to revert to being a health precaution, not a political symbol",
-        "link": "https://www.theguardian.com/commentisfree/2020/jul/22/face-masks-coronavirus-health-precaution-political-symbol"
+        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
+        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
-        "title": "Coronavirus relief aid from world's top donors is dropping, report finds",
-        "link": "https://www.foxnews.com/world/coronavirus-relief-aid-worlds-top-donors-dropping"
+        "title": "Global virus infections pass 15 million as Latin America cases soar",
+        "link": "https://www.euractiv.com/section/coronavirus/news/global-virus-infections-pass-15-million-as-latin-america-cases-soar/"
     },
     {
         "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",

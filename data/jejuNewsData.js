@@ -21,16 +21,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     },
     {
-        "title": "제주도, 유흥업소 전자출입명부 작성 이행 여부 집중 점검",
-        "link": "https://www.pressian.com/pages/articles/2020072315440310122?utm_source=naver&utm_medium=search"
+        "title": "제주 26번 확진자 관련 접촉자 56명 전원 '음성'",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324831"
     },
     {
         "title": "코로나 앞에...,25년 전통 제주국제관광마라톤축제 '취소'",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318232"
-    },
-    {
-        "title": "제주 23번 확진자의 접촉자 56명 전원 '음성'",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347876"
     },
     {
         "title": "느슨해진 마스크 착용…코로나19 감염 위험",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+    },
+    {
+        "title": "제주 26번 코로나19 확진자 1차동선 공개",
+        "link": "https://www.nocutnews.co.kr/news/5381824"
     }
 ];

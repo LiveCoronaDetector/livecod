@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007231522458935"
     },
     {
-        "title": "도쿄 코로나 신규 확진 366명…\"연휴 기간 외출 자제\"(종합)",
-        "link": "http://yna.kr/AKR20200723111651073?did=1195m"
-    },
-    {
         "title": "롯데카드 광화문 사옥서 코로나 확진자 발생… 임직원 전원 귀가",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/23/2020072302574.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "도쿄 코로나 신규 확진 366명…\"연휴 기간 외출 자제\"(종합)",
+        "link": "http://yna.kr/AKR20200723111651073?did=1195m"
     },
     {
         "title": "日도쿄도, 최초로 '코로나19' 확진자 300명 ↑",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007231021021&code=940601"
     },
     {
+        "title": "서울시 코로나19 확진자 12명 늘어…누계 1,526명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5851577_32633.html"
+    },
+    {
         "title": "경남 해외유입 코로나19 확진자 2명 발생…총 154명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200723_0001105969&cID=10812&pID=10800"
     },
     {
-        "title": "일본, 하루만에 신규 확진자 또 최다…920명 추가",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500216&wlog_tag3=naver"
+        "title": "'코로나19' 신규 확진 59명…수도권 확산 우려",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5851562_32496.html"
     },
     {
-        "title": "코로나19 신규 확진 59명…수도권 확산 우려",
-        "link": "https://imnews.imbc.com/replay/2020/nw1400/article/5851581_32503.html"
-    },
-    {
-        "title": "[전문] 영등포구청 71번째 확진자 발생...여의도 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373006"
+        "title": "일본, 코로나 신규확진 920명…또 일일 확진 기록 갈아치워",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007231940001&code=970203"
     }
 ];
