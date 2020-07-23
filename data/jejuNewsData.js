@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=347876"
     },
     {
-        "title": "제주 26번 코로나19 확진자 1차동선 공개",
-        "link": "https://www.nocutnews.co.kr/news/5381824"
+        "title": "느슨해진 마스크 착용…코로나19 감염 위험",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501161&ref=A"
     },
     {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
-        "title": "제주 코로나19 감염 26번째 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
+        "title": "제주 26번 코로나19 확진자 1차동선 공개",
+        "link": "https://www.nocutnews.co.kr/news/5381824"
     }
 ];

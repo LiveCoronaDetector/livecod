@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500030&wlog_tag3=naver"
     },
     {
-        "title": "도쿄 코로나 신규 확진 366명…\"연휴 기간 외출 자제\"(종합)",
-        "link": "http://yna.kr/AKR20200723111651073?did=1195m"
-    },
-    {
-        "title": "송파구 \"사랑교회서 11명 코로나 추가 확진\"",
-        "link": "http://www.fnnews.com/news/202007231522458935"
+        "title": "경남 해외유입 코로나19 확진자 2명 발생…총 154명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200723_0001105969&cID=10812&pID=10800"
     },
     {
         "title": "롯데카드 광화문 사옥서 코로나 확진자 발생… 임직원 전원 귀가",
@@ -21,20 +17,24 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020072314395604928"
     },
     {
+        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
+        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
+    },
+    {
+        "title": "日 도쿄, 코로나 하루 확진 366명... 300명 첫 돌파",
+        "link": "http://www.fnnews.com/news/202007231457259986"
+    },
+    {
+        "title": "송파 사랑교회 확진자 11명 추가…\"역학조사 중\"",
+        "link": "https://www.news1.kr/articles/?4004852"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진 59명···국내 발생 39명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007231021021&code=940601"
     },
     {
-        "title": "경남 해외유입 코로나19 확진자 2명 발생…총 154명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200723_0001105969&cID=10812&pID=10800"
-    },
-    {
         "title": "'코로나19' 신규 확진 59명…수도권 확산 우려",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5851562_32496.html"
-    },
-    {
-        "title": "[전문] 영등포구청 71번째 확진자 발생...여의도 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373006"
     },
     {
         "title": "수도권·광주 곳곳 코로나19 확산세 지속…\"살얼음판 위 상황\"(종합)",

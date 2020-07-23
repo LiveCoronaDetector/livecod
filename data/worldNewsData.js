@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
-        "title": "Hong Kong sets new virus record",
-        "link": "https://www.yahoo.com/news/hong-kong-sets-virus-record-102705414.html"
-    },
-    {
         "title": "It's not too late for masks to revert to being a health precaution, not a political symbol",
         "link": "https://www.theguardian.com/commentisfree/2020/jul/22/face-masks-coronavirus-health-precaution-political-symbol"
     },
     {
         "title": "Coronavirus relief aid from world's top donors is dropping, report finds",
-        "link": "https://www.foxnews.com/world/coronavirus-relief-aid-worlds-top-donors-dropping"
+        "link": "https://news.google.com/articles/CAIiEKvaBQenqS6YYtkA8mjth6wqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
+        "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
     }
 ];
