@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/22/south-africa-oxford-vaccine-trial-mckenzie-pkg-intl-hnk-vpx.cnn"
     },
     {
-        "title": "Live updates: Republicans divided over coronavirus relief bill as U.S. reports more than 1,100 fatalities",
-        "link": "https://www.washingtonpost.com/nation/2020/07/23/covid-live-updates-us/"
+        "title": "Brazil's Bolsonaro tests positive for the novel coronavirus again",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-tests-positive-for-the-novel-coronavirus-again-idUSKCN24N1P9"
     },
     {
         "title": "Netanyahu, Edelstein make Gamzu coronavirus ‘czar’",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
-        "title": "28 Pictures Of Global Tourism During The Coronavirus Pandemic",
-        "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
+        "title": "The Latest: Hong Kong reports 1-day high of 118 new cases",
+        "link": "https://www.washingtonpost.com/health/the-latest-brazil-reports-nearly-68000-virus-infections/2020/07/22/b432bf42-cc7c-11ea-99b0-8426e26d203b_story.html"
     },
     {
-        "title": "South African Excess Deaths Surge to 59% as Virus Spreads",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=24bc9850-ccc3-11ea-ac7c-1bccc918f59a&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yMi9zb3V0aC1hZnJpY2FuLWV4Y2Vzcy1kZWF0aHMtc3VyZ2UtdG8tNTktYXMtdmlydXMtc3ByZWFkcw=="
+        "title": "28 Pictures Of Global Tourism During The Coronavirus Pandemic",
+        "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
         "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
         "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
-        "title": "Coronavirus relief aid from world's top donors is dropping, report finds",
-        "link": "https://www.foxnews.com/world/coronavirus-relief-aid-worlds-top-donors-dropping"
+        "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
+        "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
     }
 ];
