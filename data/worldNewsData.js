@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Netanyahu, Edelstein make Gamzu coronavirus ‘czar’",
-        "link": "https://www.jpost.com/israel-news/israels-coronavirus-czar-635974"
+        "title": "Restauranteurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
+        "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
     },
     {
         "title": "The EU struck a big rescue deal on Covid-19. But it might have dealt a blow to democracy",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
     },
     {
-        "title": "Coronavirus Outbreak: Live Updates and News for Jul. 23, 2020",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=661cb740-cce0-11ea-9267-fb3b200d2471&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yMi9nbG9iYWwtY2FzZXMtdG9wLTE1LW1pbGxpb24tcmVjb3JkLWp1bXAtaW4tYnJhemlsLXZpcnVzLXVwZGF0ZQ=="
+        "title": "More than 15 million cases of COVID-19 worldwide as infections surge",
+        "link": "https://www.youtube.com/watch?v=jAZeOMuJRNc"
     },
     {
         "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
