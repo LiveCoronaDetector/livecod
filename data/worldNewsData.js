@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/23/deserted-beaches-empty-bars-covid-19-devastates-thailands-tourist-islands"
     },
     {
-        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
-        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
-    },
-    {
-        "title": "The Latest: Hong Kong reports 1-day high of 118 new cases",
-        "link": "https://www.washingtonpost.com/health/the-latest-brazil-reports-nearly-68000-virus-infections/2020/07/22/b432bf42-cc7c-11ea-99b0-8426e26d203b_story.html"
+        "title": "Australians are ignoring self-isolation guidelines. Coronavirus cases are climbing.",
+        "link": "https://www.washingtonpost.com/world/2020/07/22/australia-coronavirus-cases-self-isolation/"
     },
     {
         "title": "28 Pictures Of Global Tourism During The Coronavirus Pandemic",
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
-        "title": "'Pretty surreal': How the rest of the world views the U.S. stance on masks",
-        "link": "https://www.cnbc.com/2020/07/22/us-coronavirus-masks-position-is-surreal-to-the-rest-of-the-world.html"
+        "title": "Hong Kong sets new virus record",
+        "link": "https://www.yahoo.com/news/hong-kong-sets-virus-record-102705414.html"
     },
     {
-        "title": "Dr. Anthony Fauci warns the coronavirus won't ever be eradicated",
-        "link": "https://www.cnbc.com/2020/07/22/dr-anthony-fauci-warns-the-coronavirus-wont-ever-be-totally-eradicated.html"
+        "title": "It's not too late for masks to revert to being a health precaution, not a political symbol",
+        "link": "https://www.theguardian.com/commentisfree/2020/jul/22/face-masks-coronavirus-health-precaution-political-symbol"
+    },
+    {
+        "title": "Coronavirus relief aid from world's top donors is dropping, report finds",
+        "link": "https://www.foxnews.com/world/coronavirus-relief-aid-worlds-top-donors-dropping"
     }
 ];
