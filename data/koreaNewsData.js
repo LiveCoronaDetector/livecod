@@ -9,20 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 41명···국내 발생 28명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
-    },
-    {
         "title": "[속보] 코로나19 확진자 41명... 국내발생 28명, 해외유입 13명",
         "link": "https://www.sedaily.com/NewsView/1Z5FDY63H1"
     },
     {
-        "title": "8사단 예하 다른 부대에도 코로나 확진..軍 이동 통제",
-        "link": "http://www.fnnews.com/news/202007241103051418"
-    },
-    {
-        "title": "[속보]대구시 지역발생 21일째 \"0\"…해외유입 신규 확진자 2명",
-        "link": "https://news.imaeil.com/Society/2020072410400708849"
+        "title": "[속보] 코로나19 신규 확진 41명···국내 발생 28명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
     },
     {
         "title": "트럼프 전용 헬기 속한 부대서 코로나 확진자 발생",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200723184600004?did=1195m"
     },
     {
-        "title": "코로나19 확진자 수도권과 광주 중심으로 잇따라 발생…지역감염 확산 우려",
-        "link": "http://www.kwnews.co.kr/view.asp?aid=220072200150&s=501"
+        "title": "부산 코로나19 확진자 내국인 5명 추가 확진",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020072413143091720"
+    },
+    {
+        "title": "[속보]대구시 지역발생 21일째 \"0\"…해외유입 신규 확진자 2명",
+        "link": "https://news.imaeil.com/Society/2020072410400708849"
+    },
+    {
+        "title": "트럼프, 플로리다 전당대회 취소…美 확진자 4백만 명 넘어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501619&ref=A"
     }
 ];
