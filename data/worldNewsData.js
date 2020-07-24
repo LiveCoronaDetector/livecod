@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/us/five-things-july-24-trnd/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/index.html"
-    },
-    {
         "title": "Live Coronavirus News Updates",
         "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_72f691586036edd3098ac1841a87bc73"
     },
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
