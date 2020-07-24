@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724103751530?did=1195m"
     },
     {
-        "title": "코로나19 어제 41명 확진…지역 28명·해외유입 13명 [종합]",
-        "link": "https://www.hankyung.com/life/article/2020072447317"
-    },
-    {
         "title": "방역당국 \"코로나19 일일 신규 확진자 수 내일 100명 넘을 듯\"",
         "link": "http://yna.kr/AKR20200724103700530?did=1195m"
+    },
+    {
+        "title": "코로나19 어제 41명 확진…지역 28명·해외유입 13명 [종합]",
+        "link": "https://www.hankyung.com/life/article/2020072447317"
     },
     {
         "title": "미 코로나 400만명 넘자…트럼프 “내달 전당대회 취소”",
@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
     },
     {
-        "title": "내일 코로나19 확진자 100명 넘을 듯…러시아 선박·이라크 근로자 영향(종합...",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02824086625837800"
-    },
-    {
         "title": "포천 군부대 코로나19 확진자 4명 추가 발생",
         "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
+    },
+    {
+        "title": "안산시, 코로나19 확진자 분류체계 개선 방안 질본에 건의",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002661230&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "내일 코로나19 확진자 100명 넘을 듯…러시아 선박·이라크 근로자 영향(종합...",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02824086625837800"
     },
     {
         "title": "'코로나19' 신규 확진 41명…지역 발생 28명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5852707_32496.html"
     },
     {
-        "title": "방역당국 \"내일 코로나19 신규확진 100명 넘을 듯\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007240315&t=NN"
-    },
-    {
-        "title": "[전문] 송파구청 91·92·93번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373112"
+        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
+        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
     }
 ];
