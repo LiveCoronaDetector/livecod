@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
     {
-        "title": "코로나19 어제 41명 확진…지역 28명·해외유입 13명 [종합]",
-        "link": "https://www.hankyung.com/life/article/2020072447317"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진 41명···국내 발생 28명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
+    },
+    {
+        "title": "코로나19 어제 41명 확진…지역 28명·해외유입 13명 [종합]",
+        "link": "https://www.hankyung.com/life/article/2020072447317"
     },
     {
         "title": "포천 군부대 코로나19 확진자 4명 추가 발생",
         "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
     },
     {
-        "title": "정부서울청사 근무 공무원 코로나19 확진…서울청사 첫 사례",
-        "link": "https://www.news1.kr/articles/?4006374"
+        "title": "안산시, 코로나19 확진자 분류체계 개선 방안 질본에 건의",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002661230&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "'코로나19' 신규 확진 41명…지역 발생 28명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5852707_32496.html"
     },
     {
-        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
-        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
+        "title": "정부서울청사 3층 직원 코로나19 확진… 청사 3층 폐쇄",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200724000679"
     },
     {
-        "title": "[전문] 동작구청 70번째 확진자 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373125"
+        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
+        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
     }
 ];

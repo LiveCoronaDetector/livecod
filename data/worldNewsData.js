@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/24/niagara-falls-tour-boats-us-canada-coronavirus"
     },
     {
-        "title": "Why Israelis are protesting for Netanyahu to resign",
-        "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
+        "title": "Restaurateurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
+        "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
     },
     {
         "title": "Why Can’t Trump’s America Be Like Italy?",
@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
+        "link": "https://www.bbc.com/news/world-asia-india-53522998"
     },
     {
         "title": "China offers $1 billion loan to Latin America and the Caribbean for access to its Covid-19 vaccine",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     },
     {
-        "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://www.bbc.com/news/world-asia-india-53522998"
+        "title": "Did Sweden's coronavirus strategy succeed or fail?",
+        "link": "https://www.bbc.com/news/world-europe-53498133"
     },
     {
         "title": "Global Coronavirus Cases Surge, Stinging Even Places That Seemed to Have Control",
