@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
     },
     {
+        "title": "24일 신규확진자 41명 증가, 사망자 1명 추가 총 298명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
+    },
+    {
         "title": "[속보] 방역당국 \"코로나19 일일 신규 확진자 수 내일 100명 넘을 듯\"",
         "link": "http://yna.kr/AKR20200724098400530?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 확진자 41명... 국내발생 28명, 해외유입 13명",
-        "link": "https://www.sedaily.com/NewsView/1Z5FDY63H1"
-    },
-    {
-        "title": "트럼프 전용 헬기 속한 부대서 코로나 확진자 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/24/2020072401091.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "일본, 하루만에 신규 확진자 또 최다…920명 추가",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500216&wlog_tag3=naver"
-    },
-    {
-        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
-        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
     },
     {
         "title": "부산 코로나19 확진자 내국인 5명 추가 확진",
         "link": "http://www.busan.com/view/busan/view.php?code=2020072413143091720"
     },
     {
-        "title": "코로나19 치료비, 1인당 최대 7000만원 든다",
-        "link": "https://shindonga.donga.com/3/all/13/2130179/1"
+        "title": "[속보] 방역 당국 \"코로나 신규 확진자 수 내일 100명 넘을 듯\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/24/2020072402580.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "트럼프 전용 헬기 속한 부대서 코로나 확진자 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/24/2020072401091.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
+        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 확진자 41명... 국내발생 28명, 해외유입 13명",
+        "link": "https://www.sedaily.com/NewsView/1Z5FDY63H1"
     }
 ];
