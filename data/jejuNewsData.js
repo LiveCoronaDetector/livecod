@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=423098"
     },
     {
+        "title": "'거짓진술' 송파 60번·강남 91번 확진자 고발 조치",
+        "link": "https://www.ytn.co.kr/_ln/0115_202007241253501974"
+    },
+    {
         "title": "느슨해진 마스크 착용…코로나19 감염 위험 ↑",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4501605&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 21~24번 확진자 접촉자 총 89명",
         "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126675"
-    },
-    {
-        "title": "서울시 코로나19 전파 막아라 \"불법 소규모 모임 신고제 운영\"",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225633"
     }
 ];
