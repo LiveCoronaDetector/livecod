@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africas-excess-deaths-surge-as-coronavirus-cases-spike-top-health-official-says-huge-discrepancy"
     },
     {
-        "title": "Medical experts urge US to shut down and start over as coronavirus cases surpass 4 million",
-        "link": "https://www.cnn.com/2020/07/24/health/us-coronavirus-friday/index.html"
+        "title": "Niagara Falls tour boats highlight US and Canada's stark Covid-19 divide",
+        "link": "https://www.theguardian.com/world/2020/jul/24/niagara-falls-tour-boats-us-canada-coronavirus"
     },
     {
-        "title": "Restaurateurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
-        "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
+        "title": "Why Israelis are protesting for Netanyahu to resign",
+        "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
     },
     {
-        "title": "EU Agrees on Germany’s Coronavirus Proposal for Air Travel",
-        "link": "https://www.voanews.com/covid-19-pandemic/eu-agrees-germanys-coronavirus-proposal-air-travel"
+        "title": "Why Can’t Trump’s America Be Like Italy?",
+        "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "Cost of preventing next pandemic 'equal to just 2% of Covid-19 economic damage'",
-        "link": "https://www.theguardian.com/world/2020/jul/23/preventing-next-pandemic-fraction-cost-covid-19-economic-fallout"
+        "title": "Coronavirus live news: Belgium halts lockdown easing; Bolsonaro breaches distancing rules despite positive test",
+        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
+    },
+    {
+        "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
+        "link": "https://www.bbc.com/news/world-asia-india-53522998"
     },
     {
         "title": "Global Coronavirus Cases Surge, Stinging Even Places That Seemed to Have Control",
         "link": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "Coronavirus live news: Belgium halts lockdown easing; Bolsonaro breaches distancing rules despite positive test",
-        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     }
 ];
