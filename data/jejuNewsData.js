@@ -9,8 +9,8 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
     },
     {
-        "title": "제주, 코로나19 고위험 유흥업소 방역수칙 이행 집중 점검",
-        "link": "http://yna.kr/AKR20200723101500056?did=1195m"
+        "title": "제주도, 방역 수칙 지키지 않은 유흥주점 고발 방침",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501404&ref=A"
     },
     {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",

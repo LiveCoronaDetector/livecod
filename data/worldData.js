@@ -52,9 +52,9 @@ var marker = [
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "확진자수": 362274,
-        "사망자수": 41190,
-        "완치자수": 231403
+        "확진자수": 370712,
+        "사망자수": 41908,
+        "완치자수": 236209
     },
     {
         "Name": "칠레",
@@ -1036,9 +1036,9 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1555,
+        "확진자수": 1556,
         "사망자수": 22,
-        "완치자수": 1511
+        "완치자수": 1513
     },
     {
         "Name": "Namibia",
@@ -1172,9 +1172,9 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 816,
+        "확진자수": 821,
         "사망자수": 10,
-        "완치자수": 710
+        "완치자수": 711
     },
     {
         "Name": "Sao Tome and Principe",
@@ -1217,6 +1217,14 @@ var marker = [
         "완치자수": 558
     },
     {
+        "Name": "Botswana",
+        "Name_ch": "",
+        "Name_en": "Botswana",
+        "확진자수": 592,
+        "사망자수": 1,
+        "완치자수": 48
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
@@ -1231,14 +1239,6 @@ var marker = [
         "확진자수": 583,
         "사망자수": 47,
         "완치자수": 529
-    },
-    {
-        "Name": "Botswana",
-        "Name_ch": "",
-        "Name_en": "Botswana",
-        "확진자수": 522,
-        "사망자수": 1,
-        "완치자수": 48
     },
     {
         "Name": "Tanzania",
@@ -1708,8 +1708,8 @@ var marker = [
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "확진자수": 83729,
+        "확진자수": 83750,
         "사망자수": 4634,
-        "완치자수": 78855
+        "완치자수": 78873
     }
 ];
