@@ -30,7 +30,7 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_72f691586036edd3098ac1841a87bc73"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/index.html"
     },
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
