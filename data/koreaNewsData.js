@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
     {
-        "title": "[속보] 코로나19 확진자 41명... 국내발생 28명, 해외유입 13명",
-        "link": "https://www.sedaily.com/NewsView/1Z5FDY63H1"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진 41명···국내 발생 28명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
+    },
+    {
+        "title": "[속보] 방역당국 \"코로나19 일일 신규 확진자 수 내일 100명 넘을 듯\"",
+        "link": "http://yna.kr/AKR20200724098400530?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 확진자 41명... 국내발생 28명, 해외유입 13명",
+        "link": "https://www.sedaily.com/NewsView/1Z5FDY63H1"
     },
     {
         "title": "트럼프 전용 헬기 속한 부대서 코로나 확진자 발생",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020072413143091720"
     },
     {
-        "title": "[속보]대구시 지역발생 21일째 \"0\"…해외유입 신규 확진자 2명",
-        "link": "https://news.imaeil.com/Society/2020072410400708849"
-    },
-    {
-        "title": "트럼프, 플로리다 전당대회 취소…美 확진자 4백만 명 넘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501619&ref=A"
+        "title": "코로나19 치료비, 1인당 최대 7000만원 든다",
+        "link": "https://shindonga.donga.com/3/all/13/2130179/1"
     }
 ];

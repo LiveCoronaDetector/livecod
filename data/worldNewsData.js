@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/24/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Restaurateurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
-        "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
+        "title": "Why Israelis are protesting for Netanyahu to resign",
+        "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
     },
     {
         "title": "Why Can’t Trump’s America Be Like Italy?",
         "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
     },
     {
-        "title": "Deserted beaches, empty bars: Covid-19 devastates Thailand's tourist islands",
-        "link": "https://www.theguardian.com/world/2020/jul/23/deserted-beaches-empty-bars-covid-19-devastates-thailands-tourist-islands"
+        "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
+        "link": "https://www.bbc.com/news/world-asia-india-53522998"
     },
     {
         "title": "China offers $1 billion loan to Latin America and the Caribbean for access to its Covid-19 vaccine",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "New Zealand beat Covid-19 by trusting leaders and following advice – study",
-        "link": "https://www.theguardian.com/world/2020/jul/24/new-zealand-beat-covid-19-by-trusting-leaders-and-following-advice-study"
+        "title": "'Wave of silence' spread around world during coronavirus pandemic",
+        "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
     },
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
