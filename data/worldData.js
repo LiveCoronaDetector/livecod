@@ -564,9 +564,9 @@ var marker = [
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "확진자수": 13390,
-        "사망자수": 612,
-        "완치자수": 12299
+        "확진자수": 13438,
+        "사망자수": 613,
+        "완치자수": 12340
     },
     {
         "Name": "코스타리카",
@@ -609,20 +609,20 @@ var marker = [
         "완치자수": 5031
     },
     {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "확진자수": 9797,
+        "사망자수": 451,
+        "완치자수": 5254
+    },
+    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
         "확진자수": 9767,
         "사망자수": 280,
         "완치자수": 4555
-    },
-    {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "확진자수": 9669,
-        "사망자수": 445,
-        "완치자수": 5071
     },
     {
         "Name": "세네갈",
@@ -988,7 +988,7 @@ var marker = [
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "확진자수": 1841,
+        "확진자수": 1843,
         "사망자수": 10,
         "완치자수": 1823
     },
@@ -1484,7 +1484,7 @@ var marker = [
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "확진자수": 81,
+        "확진자수": 84,
         "사망자수": 15,
         "완치자수": 63
     },

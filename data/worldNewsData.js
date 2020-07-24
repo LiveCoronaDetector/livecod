@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://www.bbc.com/news/world-asia-india-53522998"
+        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
     },
     {
         "title": "China offers $1 billion loan to Latin America and the Caribbean for access to its Covid-19 vaccine",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "Coronavirus live news: Belgium halts lockdown easing; Bolsonaro breaches distancing rules despite positive test",
-        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
-    },
-    {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
         "link": "https://www.bbc.com/news/world-europe-53498133"
+    },
+    {
+        "title": "Coronavirus live news: Belgium halts lockdown easing; Bolsonaro breaches distancing rules despite positive test",
+        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     },
     {
         "title": "Global Coronavirus Cases Surge, Stinging Even Places That Seemed to Have Control",

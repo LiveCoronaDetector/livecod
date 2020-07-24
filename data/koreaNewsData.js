@@ -9,20 +9,20 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23427175"
     },
     {
-        "title": "미 코로나 400만명 넘자…트럼프 “내달 전당대회 취소”",
-        "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진 41명···국내 발생 28명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
+    },
+    {
+        "title": "미 코로나 400만명 넘자…트럼프 “내달 전당대회 취소”",
+        "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
     {
         "title": "포천 군부대 코로나19 확진자 4명 추가 발생",
         "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
     },
     {
-        "title": "코로나19 어제 41명 확진…지역 28명·해외유입 13명 [종합]",
-        "link": "https://www.hankyung.com/life/article/2020072447317"
+        "title": "24일 신규확진자 41명 증가, 사망자 1명 추가 총 298명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
     },
     {
         "title": "안산시, 코로나19 확진자 분류체계 개선 방안 질본에 건의",
