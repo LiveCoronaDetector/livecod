@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/23/americas/china-billion-vaccine-latin-america-coronavirus-intl/index.html"
     },
     {
+        "title": "Cost of preventing next pandemic 'equal to just 2% of Covid-19 economic damage'",
+        "link": "https://www.theguardian.com/world/2020/jul/23/preventing-next-pandemic-fraction-cost-covid-19-economic-fallout"
+    },
+    {
         "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
         "link": "https://www.bbc.com/news/world-europe-53498133"
-    },
-    {
-        "title": "Coronavirus live news: US cases top 4m as WHO chief chides Pompeo for 'untrue' claims",
-        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     }
 ];

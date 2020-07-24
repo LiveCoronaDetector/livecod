@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020072409442227563"
     },
     {
+        "title": "[속보] 코로나19 확진자 41명... 국내발생 28명, 해외유입 13명",
+        "link": "https://www.sedaily.com/NewsView/1Z5FDY63H1"
+    },
+    {
+        "title": "24일 신규확진자 41명 증가, 사망자 1명 추가 총 298명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
+    },
+    {
+        "title": "[속보] 미국 코로나19 누적환자 400만 명 넘어",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005898156&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보]대구시 지역발생 21일째 \"0\"…해외유입 신규 확진자 2명",
+        "link": "https://news.imaeil.com/Society/2020072410400708849"
+    },
+    {
         "title": "일본, 하루만에 신규 확진자 또 최다…920명 추가",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500216&wlog_tag3=naver"
     },
     {
         "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
         "link": "http://yna.kr/AKR20200723184600004?did=1195m"
-    },
-    {
-        "title": "브라질 코로나19 확진자, 전체 인구 1% 넘어",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005898206&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "남아공 코로나19 급속 확산 속 사망자도 급증(종합)",
-        "link": "http://yna.kr/AKR20200723168351099?did=1195m"
-    },
-    {
-        "title": "트럼프 전용 헬기 속한 부대서 코로나 확진자 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/24/2020072401091.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 확진자 수도권과 광주 중심으로 잇따라 발생…지역감염 확산 우려",
-        "link": "http://www.kwnews.co.kr/view.asp?aid=220072200150&s=501"
     }
 ];
