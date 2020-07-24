@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africas-excess-deaths-surge-as-coronavirus-cases-spike-top-health-official-says-huge-discrepancy"
     },
     {
-        "title": "Shut down the country and start over to contain Covid-19, US medical experts urge political leaders",
-        "link": "https://www.cnn.com/2020/07/23/health/shutdown-us-contain-coronavirus-wellness/index.html"
+        "title": "Medical experts urge US to shut down and start over as coronavirus cases surpass 4 million",
+        "link": "https://www.cnn.com/2020/07/24/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "Restaurateurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
         "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
     },
     {
-        "title": "The EU struck a big rescue deal on Covid-19. But it might have dealt a blow to democracy",
-        "link": "https://www.cnn.com/2020/07/22/europe/eu-budget-coronavirus-rule-of-law-analysis-intl/index.html"
+        "title": "Why Can’t Trump’s America Be Like Italy?",
+        "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/23/preventing-next-pandemic-fraction-cost-covid-19-economic-fallout"
     },
     {
-        "title": "Did Sweden's coronavirus strategy succeed or fail?",
-        "link": "https://www.bbc.com/news/world-europe-53498133"
+        "title": "COVID-19: India records 45000+ cases, 1129 deaths in last 24 hours | World News",
+        "link": "https://www.youtube.com/watch?v=NRVlj2HWIx0"
     },
     {
         "title": "Global Coronavirus Cases Surge, Stinging Even Places That Seemed to Have Control",
