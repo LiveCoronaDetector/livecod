@@ -5,16 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724103700530?did=1195m"
     },
     {
-        "title": "[브리핑] \"코로나 일일 신규 확진자 수 내일 100명 넘을 듯\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005899163&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",
         "link": "https://www.nocutnews.co.kr/news/5384446"
-    },
-    {
-        "title": "내일 확진자 100명 예고에…정부서울청사도 뚫려 3층 폐쇄",
-        "link": "https://news.joins.com/article/olink/23427332"
     },
     {
         "title": "中 다롄 코로나 '전시태세'…헤이룽장서 무증상감염자(종합2보)",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "24일 신규확진자 41명 증가, 사망자 1명 추가 총 298명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
+    },
+    {
+        "title": "'코로나19' 신규 확진 41명…지역 발생 28명",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5852707_32496.html"
+    },
+    {
+        "title": "정부서울청사 3층 직원 코로나19 확진… 청사 3층 폐쇄",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200724000679"
     }
 ];
