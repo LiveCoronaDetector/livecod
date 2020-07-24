@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
     },
     {
+        "title": "느슨해진 마스크 착용…코로나19 감염 위험 ↑",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501605&ref=A"
+    },
+    {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
@@ -21,10 +25,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
-        "title": "느슨해진 마스크 착용…코로나19 감염 위험 ↑",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501605&ref=A"
-    },
-    {
         "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     },
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225633"
     },
     {
-        "title": "서울시 \"역학조사 거짓진술 확진자 무관용…방역비용 청구\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200724_0001106766&cID=10801&pID=14000"
+        "title": "제주 26번 확진자 관련 접촉자 56명 전원 '음성'",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324831"
     },
     {
-        "title": "'거짓진술' 송파 60번·강남 91번 확진자 고발 조치",
-        "link": "https://www.ytn.co.kr/_ln/0115_202007241253501974"
+        "title": "느슨해진 마스크 착용…코로나19 감염 위험",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501161&ref=A"
     }
 ];

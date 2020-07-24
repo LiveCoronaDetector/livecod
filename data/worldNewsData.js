@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/23/americas/china-billion-vaccine-latin-america-coronavirus-intl/index.html"
     },
     {
+        "title": "Cost of preventing next pandemic 'equal to just 2% of Covid-19 economic damage'",
+        "link": "https://www.theguardian.com/world/2020/jul/23/preventing-next-pandemic-fraction-cost-covid-19-economic-fallout"
+    },
+    {
         "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "'Wave of silence' spread around world during coronavirus pandemic",
-        "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
+        "title": "New Zealand beat Covid-19 by trusting leaders and following advice – study",
+        "link": "https://www.theguardian.com/world/2020/jul/24/new-zealand-beat-covid-19-by-trusting-leaders-and-following-advice-study"
     },
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
         "link": "https://www.bbc.com/news/world-europe-53498133"
-    },
-    {
-        "title": "New Zealand beat Covid-19 by trusting leaders and following advice – study",
-        "link": "https://www.theguardian.com/world/2020/jul/24/new-zealand-beat-covid-19-by-trusting-leaders-and-following-advice-study"
     }
 ];
