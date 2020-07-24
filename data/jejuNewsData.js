@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "방글라데시 유학생 '제주 17번 확진자' 37일만 퇴원",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318285"
+        "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
     },
     {
-        "title": "제주 애월읍 확진자 15명 접촉 확인...왜 '2일 동선'만 공개?",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=423098"
+        "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",
+        "link": "http://www.newsis.com/view/?id=NISX20200724_0001107099&cID=10813&pID=10800"
     },
     {
         "title": "'거짓진술' 송파 60번·강남 91번 확진자 고발 조치",
