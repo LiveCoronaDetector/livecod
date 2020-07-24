@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
     {
-        "title": "“내일 코로나19 신규 확진자 4개월만에 100명 넘을 듯”",
-        "link": "https://www.sedaily.com/NewsView/1Z5FFSUBEP"
+        "title": "“코로나 1백명 넘어도 당황 마세요” 미리 알린 방역당국",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014838555&code=61121111&cp=nv"
     },
     {
-        "title": "이용섭 광주시장, 코로나 브리핑…확진자 동선 최대한 신속 공개(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=578914"
+        "title": "[전문] 송파구청 91·92·93번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373112"
     },
     {
         "title": "'코로나19' 신규 확진 41명…지역 발생 28명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5852707_32496.html"
     },
     {
-        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
-        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
-    },
-    {
         "title": "[심층분석] '코로나19' 한국발 입국제한 165개국으로 감소…각국 조치는",
         "link": "http://www.newspim.com/news/view/20200724000631"
+    },
+    {
+        "title": "트럼프 전용 헬기 속한 부대서 코로나 확진자 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/24/2020072401091.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
