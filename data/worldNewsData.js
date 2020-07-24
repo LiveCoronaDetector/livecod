@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "Did Sweden's coronavirus strategy succeed or fail?",
-        "link": "https://www.bbc.com/news/world-europe-53498133"
+        "title": "Coronavirus live news: Bolsonaro criticised for lack of distancing despite positive test; US cases top 4m",
+        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     },
     {
-        "title": "New Zealand beat Covid-19 by trusting leaders and following advice – study",
-        "link": "https://www.theguardian.com/world/2020/jul/24/new-zealand-beat-covid-19-by-trusting-leaders-and-following-advice-study"
+        "title": "Did Sweden's coronavirus strategy succeed or fail?",
+        "link": "https://www.bbc.com/news/world-europe-53498133"
     }
 ];

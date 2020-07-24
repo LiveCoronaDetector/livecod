@@ -5,8 +5,16 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
+        "title": "방글라데시 유학생 '제주 17번 확진자' 37일만 퇴원",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318285"
+    },
+    {
+        "title": "\"밖에 안 나갔다\" 거짓말·폭언한 확진자들…\"엄정대응\"",
+        "link": "https://www.nocutnews.co.kr/news/5384256"
+    },
+    {
+        "title": "제주 애월읍 확진자 15명 접촉 확인...왜 '2일 동선'만 공개?",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=423098"
     },
     {
         "title": "느슨해진 마스크 착용…코로나19 감염 위험 ↑",
@@ -21,8 +29,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
-        "title": "방글라데시 유학생 '제주 17번 확진자' 37일만 퇴원",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318285"
+        "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",
+        "link": "http://www.newsis.com/view/?id=NISX20200724_0001107099&cID=10813&pID=10800"
     },
     {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
-    },
-    {
-        "title": "서울시 코로나19 전파 막아라 \"불법 소규모 모임 신고제 운영\"",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225633"
-    },
-    {
-        "title": "제주 26번 확진자 관련 접촉자 56명 전원 '음성'",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324831"
     }
 ];
