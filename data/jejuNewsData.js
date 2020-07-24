@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
-        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
+        "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
     },
     {
-        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     }
 ];

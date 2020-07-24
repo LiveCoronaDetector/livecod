@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5384446"
     },
     {
+        "title": "[SNS세상] 코로나 확산세 주춤해진 대구서 日불매시위 재개",
+        "link": "http://yna.kr/AKR20200721154800505?did=1195m"
+    },
+    {
         "title": "24일 신규확진자 41명 증가, 사망자 1명 추가 총 298명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
     },
     {
+        "title": "해외유입 한달째 두 자릿수…일일 신규 확진자 오늘 100명 넘나",
+        "link": "http://yna.kr/AKR20200724158600530?did=1195m"
+    },
+    {
         "title": "'코로나19' 신규 확진 41명…지역 발생 28명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5852707_32496.html"
-    },
-    {
-        "title": "中 다롄 코로나 '전시태세'…헤이룽장서 무증상감염자(종합2보)",
-        "link": "http://yna.kr/AKR20200724040652083?did=1195m"
-    },
-    {
-        "title": "[SNS세상] 코로나 확산세 주춤해진 대구서 日불매시위 재개",
-        "link": "http://yna.kr/AKR20200721154800505?did=1195m"
     }
 ];
