@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/24/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Why Israelis are protesting for Netanyahu to resign",
-        "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
+        "title": "Restaurateurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
+        "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
     },
     {
         "title": "Why Can’t Trump’s America Be Like Italy?",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "'Wave of silence' spread around world during coronavirus pandemic",
-        "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
-    },
-    {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
         "link": "https://www.bbc.com/news/world-europe-53498133"
+    },
+    {
+        "title": "New Zealand beat Covid-19 by trusting leaders and following advice – study",
+        "link": "https://www.theguardian.com/world/2020/jul/24/new-zealand-beat-covid-19-by-trusting-leaders-and-following-advice-study"
     }
 ];

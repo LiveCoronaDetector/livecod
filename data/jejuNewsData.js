@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
+        "title": "방글라데시 유학생 '제주 17번 확진자' 37일만 퇴원",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318285"
+    },
+    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 26번 확진자 관련 접촉자 56명 전원 '음성'",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324831"
-    },
-    {
-        "title": "느슨해진 마스크 착용…코로나19 감염 위험",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501161&ref=A"
     }
 ];
