@@ -21,20 +21,20 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
     },
     {
-        "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",
-        "link": "https://www.nocutnews.co.kr/news/5384446"
+        "title": "해외유입 한달째 두 자릿수…일일 신규 확진자 오늘 100명 넘나",
+        "link": "http://yna.kr/AKR20200724158600530?did=1195m"
     },
     {
-        "title": "[SNS세상] 코로나 확산세 주춤해진 대구서 日불매시위 재개",
-        "link": "http://yna.kr/AKR20200721154800505?did=1195m"
+        "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",
+        "link": "https://www.nocutnews.co.kr/news/5384446"
     },
     {
         "title": "24일 신규확진자 41명 증가, 사망자 1명 추가 총 298명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
     },
     {
-        "title": "해외유입 한달째 두 자릿수…일일 신규 확진자 오늘 100명 넘나",
-        "link": "http://yna.kr/AKR20200724158600530?did=1195m"
+        "title": "[SNS세상] 코로나 확산세 주춤해진 대구서 日불매시위 재개",
+        "link": "http://yna.kr/AKR20200721154800505?did=1195m"
     },
     {
         "title": "'코로나19' 신규 확진 41명…지역 발생 28명",

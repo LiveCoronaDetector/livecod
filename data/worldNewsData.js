@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
     },
     {
-        "title": "5 things to know for July 24: Coronavirus, RNC, police, China, ISIS",
-        "link": "https://www.cnn.com/2020/07/24/us/five-things-july-24-trnd/index.html"
+        "title": "Gold surges to record close as U.S.-China tensions escalate and coronavirus concerns rise",
+        "link": "https://www.cnbc.com/2020/07/24/gold-surges-to-record-close-as-us-china-tensions-escalate-and-coronavirus-concerns-rise.html"
     },
     {
         "title": "Live Coronavirus News Updates",
