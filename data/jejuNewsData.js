@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
     },
     {
+        "title": "제주, 코로나19 고위험 유흥업소 방역수칙 이행 집중 점검",
+        "link": "http://yna.kr/AKR20200723101500056?did=1195m"
+    },
+    {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
@@ -21,16 +25,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
-        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
-    },
-    {
-        "title": "느슨해진 마스크 착용…코로나19 감염 위험↑",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501757&ref=A"
-    },
-    {
         "title": "느슨해진 마스크 착용…코로나19 감염 위험 ↑",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4501605&ref=A"
+    },
+    {
+        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     },
     {
         "title": "제주 26번 확진자 관련 접촉자 56명 전원 '음성'",
