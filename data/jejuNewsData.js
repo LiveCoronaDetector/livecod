@@ -21,14 +21,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4501605&ref=A"
     },
     {
-        "title": "서울시 코로나19 전파 막아라 \"불법 소규모 모임 신고제 운영\"",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225633"
-    },
-    {
-        "title": "느슨해진 마스크 착용…코로나19 감염 위험↑",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501757&ref=A"
-    },
-    {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
+    },
+    {
+        "title": "제주 21~24번 확진자 접촉자 총 89명",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126675"
     }
 ];

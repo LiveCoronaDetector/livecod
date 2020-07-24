@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724103700530?did=1195m"
     },
     {
-        "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",
-        "link": "https://www.nocutnews.co.kr/news/5384446"
-    },
-    {
-        "title": "中 다롄 코로나 '전시태세'…헤이룽장서 무증상감염자(종합2보)",
-        "link": "http://yna.kr/AKR20200724040652083?did=1195m"
-    },
-    {
         "title": "미 코로나 400만명 넘자…트럼프 “내달 전당대회 취소”",
         "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
     {
         "title": "방역당국 \"코로나19 일일 신규 확진자 수 내일 100명 넘을 듯\"(종합)",
         "link": "http://yna.kr/AKR20200724103751530?did=1195m"
+    },
+    {
+        "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",
+        "link": "https://www.nocutnews.co.kr/news/5384446"
+    },
+    {
+        "title": "中 다롄 코로나 '전시태세'…헤이룽장서 무증상감염자(종합2보)",
+        "link": "http://yna.kr/AKR20200724040652083?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진 41명···국내 발생 28명",
