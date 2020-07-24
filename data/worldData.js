@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 4229530,
-        "사망자수": 148173,
-        "완치자수": 1998300
+        "확진자수": 4233224,
+        "사망자수": 148202,
+        "완치자수": 1999527
     },
     {
         "Name": "브라질",
@@ -44,9 +44,9 @@ var marker = [
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "확진자수": 371096,
-        "사망자수": 17654,
-        "완치자수": 255945
+        "확진자수": 375961,
+        "사망자수": 17843,
+        "완치자수": 259423
     },
     {
         "Name": "멕시코",
@@ -140,8 +140,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 205879,
-        "사망자수": 9193,
+        "확진자수": 205960,
+        "사망자수": 9201,
         "완치자수": 189400
     },
     {
@@ -196,9 +196,9 @@ var marker = [
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "확진자수": 90413,
-        "사망자수": 4480,
-        "완치자수": 31066
+        "확진자수": 91072,
+        "사망자수": 4518,
+        "완치자수": 31970
     },
     {
         "Name": "에콰도르",
@@ -1340,7 +1340,7 @@ var marker = [
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
-        "확진자수": 262,
+        "확진자수": 269,
         "사망자수": 15,
         "완치자수": 98
     },
@@ -1452,7 +1452,7 @@ var marker = [
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "확진자수": 106,
+        "확진자수": 108,
         "사망자수": 7,
         "완치자수": 94
     },
@@ -1649,20 +1649,20 @@ var marker = [
         "완치자수": 12
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "확진자수": 11,
+        "사망자수": 0,
+        "완치자수": 7
+    },
+    {
         "Name": "Western Sahara",
         "Name_ch": "",
         "Name_en": "Western Sahara",
         "확진자수": 10,
         "사망자수": 1,
         "완치자수": 8
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "확진자수": 10,
-        "사망자수": 0,
-        "완치자수": 7
     },
     {
         "Name": "MS Zaandam",

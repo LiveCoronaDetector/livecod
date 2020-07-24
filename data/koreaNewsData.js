@@ -13,6 +13,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724103751530?did=1195m"
     },
     {
+        "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",
+        "link": "https://www.nocutnews.co.kr/news/5384446"
+    },
+    {
+        "title": "中 다롄 코로나 '전시태세'…헤이룽장서 무증상감염자(종합2보)",
+        "link": "http://yna.kr/AKR20200724040652083?did=1195m"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진 41명···국내 발생 28명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
     },
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
     },
     {
-        "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",
-        "link": "https://www.nocutnews.co.kr/news/5384446"
-    },
-    {
         "title": "'코로나19' 신규 확진 41명…지역 발생 28명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5852707_32496.html"
     },
     {
         "title": "정부서울청사 3층 직원 코로나19 확진… 청사 3층 폐쇄",
         "link": "http://news.heraldcorp.com/view.php?ud=20200724000679"
-    },
-    {
-        "title": "中 다롄 코로나 '전시태세'…헤이룽장서 무증상감염자(종합2보)",
-        "link": "http://yna.kr/AKR20200724040652083?did=1195m"
     }
 ];
