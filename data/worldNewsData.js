@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53522998"
     },
     {
-        "title": "China offers $1 billion loan to Latin America and the Caribbean for access to its Covid-19 vaccine",
-        "link": "https://www.cnn.com/2020/07/23/americas/china-billion-vaccine-latin-america-coronavirus-intl/index.html"
+        "title": "Amid blame game on coronavirus, Trump White House pursues broader campaign to punish China on other issues",
+        "link": "https://www.washingtonpost.com/politics/amid-blame-game-on-coronavirus-trump-white-house-pursues-broader-campaign-to-punish-china-on-other-issues/2020/07/23/ec1585a4-cd01-11ea-bc6a-6841b28d9093_story.html"
     },
     {
         "title": "Cost of preventing next pandemic 'equal to just 2% of Covid-19 economic damage'",
