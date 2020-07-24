@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     },
     {
-        "title": "제주 26번 확진자 관련 접촉자 56명 전원 '음성'",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=324831"
+        "title": "서울시 코로나19 전파 막아라 \"불법 소규모 모임 신고제 운영\"",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225633"
     },
     {
-        "title": "느슨해진 마스크 착용…코로나19 감염 위험",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501161&ref=A"
+        "title": "서울시 \"역학조사 거짓진술 확진자 무관용…방역비용 청구\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200724_0001106766&cID=10801&pID=14000"
     },
     {
-        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+        "title": "'거짓진술' 송파 60번·강남 91번 확진자 고발 조치",
+        "link": "https://www.ytn.co.kr/_ln/0115_202007241253501974"
     }
 ];
