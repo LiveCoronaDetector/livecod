@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
     },
     {
-        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
-        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
+        "title": "China offers $1 billion loan to Latin America and the Caribbean for access to its Covid-19 vaccine",
+        "link": "https://www.cnn.com/2020/07/23/americas/china-billion-vaccine-latin-america-coronavirus-intl/index.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_72f691586036edd3098ac1841a87bc73"
     },
     {
         "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
-    },
-    {
-        "title": "Coronavirus live news: Belgium halts lockdown easing; Bolsonaro breaches distancing rules despite positive test",
-        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     },
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",

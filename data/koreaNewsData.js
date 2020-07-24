@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200724000679"
     },
     {
+        "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",
+        "link": "https://www.nocutnews.co.kr/news/5384446"
+    },
+    {
         "title": "정부서울청사 근무 공무원 코로나19 확진…서울청사 첫 사례",
         "link": "https://www.news1.kr/articles/?4006374"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
     },
     {
-        "title": "포천 군부대 코로나19 확진자 4명 추가 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
-    },
-    {
         "title": "24일 신규확진자 41명 증가, 사망자 1명 추가 총 298명",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
     },
     {
-        "title": "'코로나19' 신규 확진 41명…지역 발생 28명",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5852707_32496.html"
+        "title": "포천 군부대 코로나19 확진자 4명 추가 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
     }
 ];
