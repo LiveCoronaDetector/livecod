@@ -5,24 +5,32 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724007651091?did=1195m"
     },
     {
-        "title": "브라질 코로나19 확진자, 전체 인구 1% 넘어",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005898206&plink=ORI&cooper=NAVER"
+        "title": "[속보] 미국 코로나19 누적환자 400만 명 넘어",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005898156&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "브라질, 코로나 확진자 전체 인구 1% 넘어",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/24/2020072400091.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "남아공 코로나19 급속 확산 속 사망자도 급증(종합)",
         "link": "http://yna.kr/AKR20200723168351099?did=1195m"
     },
     {
-        "title": "서울시 코로나19 확진자 12명 늘어…누계 1,526명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5851577_32633.html"
+        "title": "미 코로나 400만명 넘자…트럼프 “내달 전당대회 취소”",
+        "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
     {
-        "title": "‘한국인 3명 사망’ 이라크 코로나19 환자 10만 명 넘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501508&ref=A"
+        "title": "일본, 하루만에 신규 확진자 또 최다…920명 추가",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500216&wlog_tag3=naver"
     },
     {
-        "title": "“줄지 않는 지역감염”...코로나19 신규 확진자수 59명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500030&wlog_tag3=naver"
+        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
+        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
+    },
+    {
+        "title": "코로나19 확진자 59명 추가…\"수도권·광주 등 지역확산 우려\"",
+        "link": "https://www.hankyung.com/society/article/2020072302317"
     },
     {
         "title": "송파 사랑교회 확진자 11명 추가…\"역학조사 중\"",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "롯데카드 광화문 사옥서 코로나 확진자 발생… 임직원 전원 귀가",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/23/2020072302574.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "日 도쿄, 코로나 하루 확진 366명... 300명 첫 돌파",
-        "link": "http://www.fnnews.com/news/202007231457259986"
-    },
-    {
-        "title": "日도쿄도, 최초로 '코로나19' 확진자 300명 ↑",
-        "link": "https://view.asiae.co.kr/article/2020072314395604928"
     }
 ];

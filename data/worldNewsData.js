@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/23/south-africa-sees-60-spike-in-excess-deaths-suggesting-high-covid-19-toll"
     },
     {
-        "title": "Coronavirus Live Updates: Cases Are Surging Along the U.S. Gulf Coast",
+        "title": "Live Coronavirus News Updates",
         "link": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html"
     },
     {
@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
     },
     {
-        "title": "Concentration camp guard convicted in one of the last Nazi trials in history",
-        "link": "https://www.cnn.com/2020/07/23/europe/nazi-guard-germany-conviction-intl/index.html"
+        "title": "Italy laments the loss of the US tourist",
+        "link": "https://www.cnn.com/travel/article/italy-tourism-without-americans-covid-19/index.html"
     },
     {
-        "title": "Deserted beaches, empty bars: Covid-19 devastates Thailand's tourist islands",
-        "link": "https://www.theguardian.com/world/2020/jul/23/deserted-beaches-empty-bars-covid-19-devastates-thailands-tourist-islands"
+        "title": "These charts show coronavirus cases are accelerating in some parts of Asia Pacific",
+        "link": "https://www.cnbc.com/2020/07/23/coronavirus-cases-are-climbing-in-india-indonesia-and-asia-pacific.html"
     },
     {
         "title": "5 things to know for July 23: Coronavirus, economy, stimulus, China, MLB",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "29 Pictures Of Global Tourism During The Coronavirus Pandemic",
-        "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
-    },
-    {
         "title": "'Wave of silence' spread around world during coronavirus pandemic",
         "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
+    },
+    {
+        "title": "29 Pictures Of Global Tourism During The Coronavirus Pandemic",
+        "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
