@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
     },
     {
-        "title": "Why Can’t Trump’s America Be Like Italy?",
-        "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
+        "title": "Europe warns of need for vigilance as Covid-19 cases rise sharply",
+        "link": "https://www.theguardian.com/world/2020/jul/24/europe-warns-of-need-for-vigilance-as-covid-19-cases-rise-sharply"
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "Covid-19 cases start to plateau in these 4 hotspots, White House coronavirus official says",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_bc5e2a7095c7fa59b3c403150656878b"
+        "title": "Did Sweden's coronavirus strategy succeed or fail?",
+        "link": "https://www.bbc.com/news/world-europe-53498133"
     }
 ];

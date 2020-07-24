@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     },
     {
-        "title": "제주 21~24번 확진자 접촉자 총 89명",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126675"
+        "title": "서울시 코로나19 전파 막아라 \"불법 소규모 모임 신고제 운영\"",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225633"
     }
 ];
