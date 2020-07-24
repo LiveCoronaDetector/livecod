@@ -545,6 +545,14 @@ var marker = [
         "완치자수": 7752
     },
     {
+        "Name": "호주",
+        "Name_ch": "澳大利亚",
+        "Name_en": "Australia",
+        "확진자수": 13595,
+        "사망자수": 139,
+        "완치자수": 8775
+    },
+    {
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
@@ -559,14 +567,6 @@ var marker = [
         "확진자수": 13377,
         "사망자수": 372,
         "완치자수": 7276
-    },
-    {
-        "Name": "호주",
-        "Name_ch": "澳大利亚",
-        "Name_en": "Australia",
-        "확진자수": 13302,
-        "사망자수": 133,
-        "완치자수": 8656
     },
     {
         "Name": "코스타리카",
@@ -1238,7 +1238,7 @@ var marker = [
         "Name_en": "Channel Islands",
         "확진자수": 583,
         "사망자수": 47,
-        "완치자수": 529
+        "완치자수": 533
     },
     {
         "Name": "Tanzania",
@@ -1364,7 +1364,7 @@ var marker = [
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
-        "확진자수": 198,
+        "확진자수": 202,
         "사망자수": 0,
         "완치자수": 142
     },
@@ -1465,20 +1465,20 @@ var marker = [
         "완치자수": 83
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 90,
+        "사망자수": 2,
+        "완치자수": 26
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
         "확진자수": 86,
         "사망자수": 1,
         "완치자수": 81
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 82,
-        "사망자수": 2,
-        "완치자수": 22
     },
     {
         "Name": "Sint Maarten",
