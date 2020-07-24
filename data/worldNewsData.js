@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
     },
     {
-        "title": "Why Can’t Trump’s America Be Like Italy?",
-        "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
+        "title": "EU Agrees on Germany’s Coronavirus Proposal for Air Travel",
+        "link": "https://www.voanews.com/covid-19-pandemic/eu-agrees-germanys-coronavirus-proposal-air-travel"
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://www.bbc.com/news/world-asia-india-53522998"
+        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
     },
     {
-        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
-        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
+        "title": "China offers $1 billion loan to Latin America and the Caribbean for access to its Covid-19 vaccine",
+        "link": "https://www.cnn.com/2020/07/23/americas/china-billion-vaccine-latin-america-coronavirus-intl/index.html"
     },
     {
         "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/23/preventing-next-pandemic-fraction-cost-covid-19-economic-fallout"
     },
     {
-        "title": "COVID-19: India records 45000+ cases, 1129 deaths in last 24 hours | World News",
-        "link": "https://www.youtube.com/watch?v=NRVlj2HWIx0"
-    },
-    {
         "title": "Global Coronavirus Cases Surge, Stinging Even Places That Seemed to Have Control",
         "link": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "Coronavirus live news: Belgium halts lockdown easing; Bolsonaro breaches distancing rules despite positive test",
+        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     }
 ];

@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724103751530?did=1195m"
     },
     {
-        "title": "방역당국 \"코로나19 일일 신규 확진자 수 내일 100명 넘을 듯\"",
-        "link": "http://yna.kr/AKR20200724103700530?did=1195m"
+        "title": "\"내일 코로나 확진자 100명 넘는다\" 미리 알려준 방역당국",
+        "link": "https://news.joins.com/article/olink/23427175"
     },
     {
         "title": "코로나19 어제 41명 확진…지역 28명·해외유입 13명 [종합]",
@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
     },
     {
-        "title": "내일 코로나19 확진자 100명 넘을 듯…러시아 선박·이라크 근로자 영향(종합...",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02824086625837800"
-    },
-    {
-        "title": "이용섭 광주시장, 코로나 브리핑…확진자 동선 최대한 신속 공개(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=578914"
+        "title": "포천 군부대 코로나19 확진자 4명 추가 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
     },
     {
         "title": "'코로나19' 신규 확진 41명…지역 발생 28명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5852707_32496.html"
     },
     {
-        "title": "[심층분석] '코로나19' 한국발 입국제한 165개국으로 감소…각국 조치는",
-        "link": "http://www.newspim.com/news/view/20200724000631"
+        "title": "정부서울청사 3층 직원 코로나19 확진… 청사 3층 폐쇄",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200724000679"
     },
     {
-        "title": "정부서울청사 근무 공무원 코로나19 확진…서울청사 첫 사례",
-        "link": "https://www.news1.kr/articles/?4006374"
+        "title": "내일 코로나19 확진자 100명 넘을 듯…러시아 선박·이라크 근로자 영향(종합...",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02824086625837800"
+    },
+    {
+        "title": "이용섭 광주시장, 코로나 브리핑…확진자 동선 최대한 신속 공개(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=578914"
     }
 ];
