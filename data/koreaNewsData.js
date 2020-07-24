@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724007651091?did=1195m"
     },
     {
-        "title": "[속보] 미국 코로나19 누적환자 400만 명 넘어",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005898156&plink=ORI&cooper=NAVER"
+        "title": "브라질 코로나19 확진자, 전체 인구 1% 넘어",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005898206&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "브라질, 코로나 확진자 전체 인구 1% 넘어",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/24/2020072400091.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "미국 코로나19 확진자 400만명…보름만에 100만명 추가 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007240520001&code=970100"
+    },
+    {
+        "title": "미국 코로나 확진자 400만 명 넘어...단 6주 만에 2배",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=402711&class=42&grp="
     },
     {
         "title": "남아공 코로나19 급속 확산 속 사망자도 급증(종합)",
@@ -21,16 +25,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
     {
-        "title": "일본, 하루만에 신규 확진자 또 최다…920명 추가",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500216&wlog_tag3=naver"
+        "title": "서울시 코로나19 확진자 12명 늘어…누계 1,526명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5851577_32633.html"
     },
     {
-        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
-        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
-    },
-    {
-        "title": "코로나19 확진자 59명 추가…\"수도권·광주 등 지역확산 우려\"",
-        "link": "https://www.hankyung.com/society/article/2020072302317"
+        "title": "“줄지 않는 지역감염”...코로나19 신규 확진자수 59명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500030&wlog_tag3=naver"
     },
     {
         "title": "송파 사랑교회 확진자 11명 추가…\"역학조사 중\"",

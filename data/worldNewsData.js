@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
     },
     {
-        "title": "Italy laments the loss of the US tourist",
-        "link": "https://www.cnn.com/travel/article/italy-tourism-without-americans-covid-19/index.html"
+        "title": "Spain's Coronavirus Reopening Stumbles as Cases Rise Among Young People",
+        "link": "https://www.nytimes.com/2020/07/23/world/europe/spain-coronavirus-reopening.html"
     },
     {
         "title": "These charts show coronavirus cases are accelerating in some parts of Asia Pacific",
         "link": "https://www.cnbc.com/2020/07/23/coronavirus-cases-are-climbing-in-india-indonesia-and-asia-pacific.html"
     },
     {
-        "title": "5 things to know for July 23: Coronavirus, economy, stimulus, China, MLB",
-        "link": "https://www.cnn.com/2020/07/23/us/five-things-july-23-trnd/index.html"
+        "title": "China offers $1 billion loan to Latin America and the Caribbean for access to its Covid-19 vaccine",
+        "link": "https://www.cnn.com/2020/07/23/americas/china-billion-vaccine-latin-america-coronavirus-intl/index.html"
     },
     {
         "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "'Wave of silence' spread around world during coronavirus pandemic",
-        "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
+        "title": "Cost of preventing next pandemic 'equal to just 2% of Covid-19 economic damage'",
+        "link": "https://www.theguardian.com/world/2020/jul/23/preventing-next-pandemic-fraction-cost-covid-19-economic-fallout"
     },
     {
         "title": "29 Pictures Of Global Tourism During The Coronavirus Pandemic",
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/07/23/watch-live-world-health-organization-holds-briefing-on-coronavirus-pandemic.html"
+        "title": "'Wave of silence' spread around world during coronavirus pandemic",
+        "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
     }
 ];
