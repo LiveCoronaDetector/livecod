@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/23/south-africa-sees-60-spike-in-excess-deaths-suggesting-high-covid-19-toll"
     },
     {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html"
+        "title": "HHS predicts U.S. coronavirus death rate will begin to fall 'in next couple of weeks'",
+        "link": "https://www.cnbc.com/2020/07/23/hhs-predicts-us-coronavirus-death-rate-will-begin-to-fall-in-next-couple-of-weeks.html"
     },
     {
         "title": "Restaurateurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
         "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
     },
     {
-        "title": "Spain's Coronavirus Reopening Stumbles as Cases Rise Among Young People",
-        "link": "https://www.nytimes.com/2020/07/23/world/europe/spain-coronavirus-reopening.html"
+        "title": "Why Can’t Trump’s America Be Like Italy?",
+        "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
     },
     {
-        "title": "These charts show coronavirus cases are accelerating in some parts of Asia Pacific",
-        "link": "https://www.cnbc.com/2020/07/23/coronavirus-cases-are-climbing-in-india-indonesia-and-asia-pacific.html"
+        "title": "Deserted beaches, empty bars: Covid-19 devastates Thailand's tourist islands",
+        "link": "https://www.theguardian.com/world/2020/jul/23/deserted-beaches-empty-bars-covid-19-devastates-thailands-tourist-islands"
     },
     {
         "title": "China offers $1 billion loan to Latin America and the Caribbean for access to its Covid-19 vaccine",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "Cost of preventing next pandemic 'equal to just 2% of Covid-19 economic damage'",
-        "link": "https://www.theguardian.com/world/2020/jul/23/preventing-next-pandemic-fraction-cost-covid-19-economic-fallout"
+        "title": "'Wave of silence' spread around world during coronavirus pandemic",
+        "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
     },
     {
         "title": "29 Pictures Of Global Tourism During The Coronavirus Pandemic",
         "link": "https://www.buzzfeednews.com/article/gabrielsanchez/summer-tourism-travel-during-coronavirus"
     },
     {
-        "title": "'Wave of silence' spread around world during coronavirus pandemic",
-        "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
+        "title": "Coronavirus live news: US cases top 4m as WHO chief chides Pompeo for 'untrue' claims",
+        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     }
 ];

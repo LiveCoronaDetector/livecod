@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
     },
     {
-        "title": "제주도, 방역 수칙 지키지 않은 유흥주점 고발 방침",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501404&ref=A"
-    },
-    {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "광진발 코로나19 한림·애월 8일간 1860명 검사",
         "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126640"
+    },
+    {
+        "title": "느슨해진 마스크 착용…코로나19 감염 위험",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501161&ref=A"
     }
 ];
