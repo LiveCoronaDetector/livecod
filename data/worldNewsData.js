@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/24/niagara-falls-tour-boats-us-canada-coronavirus"
     },
     {
-        "title": "Restaurateurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
-        "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
+        "title": "Why Israelis are protesting for Netanyahu to resign",
+        "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
     },
     {
-        "title": "Why Can’t Trump’s America Be Like Italy?",
-        "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
+        "title": "The EU struck a big rescue deal on Covid-19. But it might have dealt a blow to democracy",
+        "link": "https://www.cnn.com/2020/07/22/europe/eu-budget-coronavirus-rule-of-law-analysis-intl/index.html"
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",

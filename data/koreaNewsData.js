@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
     },
     {
-        "title": "코로나19 어제 41명 확진…지역 28명·해외유입 13명 [종합]",
-        "link": "https://www.hankyung.com/life/article/2020072447317"
-    },
-    {
         "title": "포천 군부대 코로나19 확진자 4명 추가 발생",
         "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
+    },
+    {
+        "title": "코로나19 어제 41명 확진…지역 28명·해외유입 13명 [종합]",
+        "link": "https://www.hankyung.com/life/article/2020072447317"
     },
     {
         "title": "안산시, 코로나19 확진자 분류체계 개선 방안 질본에 건의",
