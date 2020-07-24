@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
     },
     {
-        "title": "Why Can’t Trump’s America Be Like Italy?",
-        "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
+        "title": "Europe warns of need for vigilance as Covid-19 cases rise sharply",
+        "link": "https://www.theguardian.com/world/2020/jul/24/europe-warns-of-need-for-vigilance-as-covid-19-cases-rise-sharply"
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
         "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
     },
     {
-        "title": "China offers $1 billion loan to Latin America and the Caribbean for access to its Covid-19 vaccine",
-        "link": "https://www.cnn.com/2020/07/23/americas/china-billion-vaccine-latin-america-coronavirus-intl/index.html"
+        "title": "My Relatives in Wuhan Survived. My Uncle in New York Did Not.",
+        "link": "https://www.nytimes.com/2020/07/22/opinion/coronavirus-china-us.html"
     },
     {
         "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     },
     {
-        "title": "Global Coronavirus Cases Surge, Stinging Even Places That Seemed to Have Control",
-        "link": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
         "link": "https://www.bbc.com/news/world-europe-53498133"
+    },
+    {
+        "title": "'Wave of silence' spread around world during coronavirus pandemic",
+        "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
     }
 ];

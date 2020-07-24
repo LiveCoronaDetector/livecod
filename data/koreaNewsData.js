@@ -9,6 +9,18 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724103751530?did=1195m"
     },
     {
+        "title": "정부서울청사 3층 직원 코로나19 확진… 청사 3층 폐쇄",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200724000679"
+    },
+    {
+        "title": "정부서울청사 근무 공무원 코로나19 확진…서울청사 첫 사례",
+        "link": "https://www.news1.kr/articles/?4006374"
+    },
+    {
+        "title": "중국 다롄 코로나19 '전시태세' 돌입…신규 확진 9명(종합)",
+        "link": "http://yna.kr/AKR20200724040651083?did=1195m"
+    },
+    {
         "title": "미 코로나 400만명 넘자…트럼프 “내달 전당대회 취소”",
         "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
@@ -25,19 +37,7 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
     },
     {
-        "title": "안산시, 코로나19 확진자 분류체계 개선 방안 질본에 건의",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002661230&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "'코로나19' 신규 확진 41명…지역 발생 28명",
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5852707_32496.html"
-    },
-    {
-        "title": "정부서울청사 3층 직원 코로나19 확진… 청사 3층 폐쇄",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200724000679"
-    },
-    {
-        "title": "서울 코로나19 확진자 오늘 21명 늘어…누계 1천547명",
-        "link": "http://yna.kr/AKR20200723184600004?did=1195m"
     }
 ];
