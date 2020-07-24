@@ -1513,6 +1513,14 @@ var marker = [
         "완치자수": 37
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 47,
+        "사망자수": 2,
+        "완치자수": 25
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
@@ -1529,20 +1537,12 @@ var marker = [
         "완치자수": 46
     },
     {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 43,
-        "사망자수": 2,
-        "완치자수": 23
-    },
-    {
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "확진자수": 30,
+        "확진자수": 31,
         "사망자수": 0,
-        "완치자수": 8
+        "완치자수": 11
     },
     {
         "Name": "Curaçao",
@@ -1590,7 +1590,7 @@ var marker = [
         "Name_en": "New Caledonia",
         "확진자수": 22,
         "사망자수": 0,
-        "완치자수": 21
+        "완치자수": 22
     },
     {
         "Name": "Laos",

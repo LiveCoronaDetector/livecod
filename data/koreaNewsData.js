@@ -5,28 +5,16 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020072447317"
     },
     {
-        "title": "[속보] 국내 코로나19 어제 지역 발생 28명·해외 유입 13명 확진",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501794&ref=A"
+        "title": "[속보] 코로나19 신규 확진 41명···국내 발생 28명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
     },
     {
         "title": "미 코로나 400만명 넘자…트럼프 “내달 전당대회 취소”",
         "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 41명···국내 발생 28명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007241023001&code=940100"
-    },
-    {
         "title": "[속보] '집단감염' 포천 군부대 인근 부대서도 병사 코로나19 확진",
         "link": "https://view.asiae.co.kr/article/2020072409442227563"
-    },
-    {
-        "title": "브라질 코로나19 확진자 전체 인구의 1% 넘어…세계 4위",
-        "link": "http://yna.kr/AKR20200724002500094?did=1195m"
-    },
-    {
-        "title": "남아공 코로나19 급속 확산 속 사망자도 급증(종합)",
-        "link": "http://yna.kr/AKR20200723168351099?did=1195m"
     },
     {
         "title": "일본, 하루만에 신규 확진자 또 최다…920명 추가",
@@ -37,7 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200723184600004?did=1195m"
     },
     {
-        "title": "[속보]대구시, 해외유입 신규 확진자 2명…지역발생은 21일째 \"0\"",
-        "link": "https://news.imaeil.com/Society/2020072410400708849"
+        "title": "브라질 코로나19 확진자, 전체 인구 1% 넘어",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005898206&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "남아공 코로나19 급속 확산 속 사망자도 급증(종합)",
+        "link": "http://yna.kr/AKR20200723168351099?did=1195m"
+    },
+    {
+        "title": "트럼프 전용 헬기 속한 부대서 코로나 확진자 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/24/2020072401091.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 확진자 수도권과 광주 중심으로 잇따라 발생…지역감염 확산 우려",
+        "link": "http://www.kwnews.co.kr/view.asp?aid=220072200150&s=501"
     }
 ];

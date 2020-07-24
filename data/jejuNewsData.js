@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=324831"
     },
     {
-        "title": "광진발 코로나19 한림·애월 8일간 1860명 검사",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=126640"
-    },
-    {
         "title": "느슨해진 마스크 착용…코로나19 감염 위험",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4501161&ref=A"
+    },
+    {
+        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     }
 ];
