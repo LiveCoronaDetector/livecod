@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Did Sweden's coronavirus strategy succeed or fail?",
-        "link": "https://www.bbc.com/news/world-europe-53498133"
-    },
-    {
         "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
         "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     },
     {
-        "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://www.bbc.com/news/world-asia-india-53522998"
+        "title": "Did Sweden's coronavirus strategy succeed or fail?",
+        "link": "https://www.bbc.com/news/world-europe-53498133"
+    },
+    {
+        "title": "Op-ed: How to make your business public health ready in a coronavirus world",
+        "link": "https://www.cnbc.com/2020/07/24/how-to-make-your-business-public-health-ready-in-a-coronavirus-world.html"
     }
 ];
