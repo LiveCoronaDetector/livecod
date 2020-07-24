@@ -25,7 +25,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/us/five-things-july-24-trnd/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "(4) We should have been clamping down not opening up, Bill Gates says",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_72f691586036edd3098ac1841a87bc73"
     },
     {
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "'Wave of silence' spread around world during coronavirus pandemic",
         "link": "https://www.theguardian.com/science/2020/jul/23/wave-of-silence-spread-around-world-during-coronavirus-pandemic"
-    },
-    {
-        "title": "Did Sweden's coronavirus strategy succeed or fail?",
-        "link": "https://www.bbc.com/news/world-europe-53498133"
     }
 ];

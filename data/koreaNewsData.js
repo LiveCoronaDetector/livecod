@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
     },
     {
+        "title": "24일 신규확진자 41명 증가, 사망자 1명 추가 총 298명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
+    },
+    {
         "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",
         "link": "https://www.nocutnews.co.kr/news/5384446"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "중국 다롄 코로나19 '전시태세' 돌입…신규 확진 9명(종합)",
         "link": "http://yna.kr/AKR20200724040651083?did=1195m"
-    },
-    {
-        "title": "24일 신규확진자 41명 증가, 사망자 1명 추가 총 298명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200724500041&wlog_tag3=naver"
     }
 ];
