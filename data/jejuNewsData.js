@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
     {
-        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
-    },
-    {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     }
 ];
