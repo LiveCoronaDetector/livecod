@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
-        "title": "Gold surges to record close as U.S.-China tensions escalate and coronavirus concerns rise",
-        "link": "https://www.cnbc.com/2020/07/24/gold-surges-to-record-close-as-us-china-tensions-escalate-and-coronavirus-concerns-rise.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
+    },
+    {
+        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
+        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
     },
     {
         "title": "Coronavirus: The week when everything changed for Trump",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/07/24/covid-update-trump-cancels-florida-portion-gop-convention-cdc-school/5495991002/"
     },
     {
-        "title": "Did Sweden's coronavirus strategy succeed or fail?",
-        "link": "https://www.bbc.com/news/world-europe-53498133"
-    },
-    {
-        "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
-        "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
+        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     }
 ];

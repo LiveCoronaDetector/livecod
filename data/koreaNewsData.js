@@ -9,16 +9,24 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
     },
     {
-        "title": "\"코로나19 절정 아직 안 왔다…장기전 피할 수 없는 숙명\" [종합]",
-        "link": "https://www.hankyung.com/life/article/2020072579287"
-    },
-    {
         "title": "수도권 코로나19 확산 지속…종로구 신명투자 확진자 누적 9명",
         "link": "http://yna.kr/AKR20200725034400530?did=1195m"
     },
     {
         "title": "울산 58번째 확진자, 2주 격리에 음성판정 2번 받고도 양성",
         "link": "http://www.fnnews.com/news/202007251615543785"
+    },
+    {
+        "title": "[전문] 안양시청 72번째 확진자 동선공개",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373136"
+    },
+    {
+        "title": "[속보] 日 도쿄 코로나19 신규 확진자 295명...누적 1만975명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500071&wlog_tag3=naver"
+    },
+    {
+        "title": "\"코로나19 절정 아직 안 왔다…장기전 피할 수 없는 숙명\" [종합]",
+        "link": "https://www.hankyung.com/life/article/2020072579287"
     },
     {
         "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "전남도, 코로나19 36번째 확진자 발생…해외입국 40대 여성",
         "link": "http://www.fnnews.com/news/202007251111582170"
-    },
-    {
-        "title": "코로나 해외유입 확진 지역전파 8건·15명 감염",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007251526001&code=940100"
-    },
-    {
-        "title": "방역당국 \"코로나19 일일 신규 확진자 수 내일 100명 넘을 듯\"",
-        "link": "http://yna.kr/AKR20200724103700530?did=1195m"
     }
 ];
