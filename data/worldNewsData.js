@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/25/coronavirus-covid-updates/"
     },
     {
-        "title": "Restaurateurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
-        "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
+        "title": "Coronavirus: Israeli court rules Palestinian prisoners have no right to social distancing",
+        "link": "https://www.middleeasteye.net/news/coronavirus-israel-supreme-court-palestinians-prisoners-no-rights-social-distancing"
     },
     {
         "title": "'Could Already Be A Second Wave': Some Restrictions Return As Cases Spike In Spain",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/north-korea/after-covid-19-lull-north-korea-gets-back-sanctions-busting-n1234858"
     },
     {
-        "title": "Coronavirus: The week when everything changed for Trump",
-        "link": "https://www.bbc.com/news/world-us-canada-53532880"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     },
     {
-        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
-        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
+        "title": "Coronavirus: The week when everything changed for Trump",
+        "link": "https://www.bbc.com/news/world-us-canada-53532880"
     },
     {
-        "title": "Coronavirus updates: CDC finds 'prolonged illness' is common; experts call for shut down; daily global cases break another record",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/24/covid-update-trump-cancels-florida-portion-gop-convention-cdc-school/5495991002/"
+        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
+        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
     }
 ];

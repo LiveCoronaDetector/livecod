@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
     },
     {
-        "title": "서울 코로나19 확진자 오늘만 2명 추가",
-        "link": "https://view.asiae.co.kr/article/2020072519233210216"
+        "title": "코로나19 신규 확진 113명…115일 만에 세 자릿수",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11961346"
     },
     {
-        "title": "日 코로나 확진자 3만명 넘었다... 도쿄서만 신규 확진 300명 육박",
-        "link": "https://hankookilbo.com/News/Read/A2020072517450005179?did=NA"
+        "title": "신규 확진자 113명...이라크 귀국 노동자·러시아 선박 영향",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007251043313632"
     }
 ];
