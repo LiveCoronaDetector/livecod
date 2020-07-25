@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724103700530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
+        "title": "[속보] 해외유입 확진자에 의한 지역사회 전파 총 8건…15명 감염",
+        "link": "https://www.hankyung.com/life/article/2020072578417"
     },
     {
-        "title": "'집단감염' 포천 군부대 코로나19 추가 확진자 없어",
-        "link": "http://yna.kr/AKR20200725023700504?did=1195m"
+        "title": "수도권 곳곳에서 확진자 잇달아 발생…러시아 선박 8명 추가",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500057&wlog_tag3=naver"
+    },
+    {
+        "title": "‘집단감염’ 포천 군부대 코로나19 추가 확진자 없어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502556&ref=A"
+    },
+    {
+        "title": "신규 확진자 113명...이라크 귀국 노동자·러시아 선박 영향",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007251043313632"
     },
     {
         "title": "전남도, 코로나19 36번째 확진자 발생…해외입국 40대 여성",
         "link": "http://www.fnnews.com/news/202007251111582170"
     },
     {
-        "title": "미국 나흘 연속 코로나19 사망자 1천명 넘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5853897_32640.html"
-    },
-    {
-        "title": "코로나19 신규 확진 113명…115일 만에 세 자릿수",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11961346"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 113명…이라크-러시아 유입 70명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005900047&plink=ORI&cooper=NAVER"
+        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
     }
 ];
