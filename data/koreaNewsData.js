@@ -5,16 +5,12 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500025&wlog_tag3=naver"
     },
     {
-        "title": "'해외유입 확진자→지역사회 전파' 사례 총 8건…15명 감염(종합)",
-        "link": "http://yna.kr/AKR20200725035751530?did=1195m"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 113명 증가...해외 86명 중 이라크 36, 러시아 34명",
-        "link": "http://www.fnnews.com/news/202007251018287544"
-    },
-    {
         "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
+    },
+    {
+        "title": "'해외유입 확진자→지역사회 전파' 사례 총 8건…15명 감염(종합)",
+        "link": "http://yna.kr/AKR20200725035751530?did=1195m"
     },
     {
         "title": "'국경봉쇄' 베트남서 100일 만에 경로 불명 코로나19 발생",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020072579287"
     },
     {
-        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
+        "title": "코로나19 113명 신규확진…국내 27명·해외 86명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5853749_32633.html"
     },
     {
-        "title": "코로나19 신규 확진 113명…115일 만에 세 자릿수",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11961346"
+        "title": "전남도, 코로나19 36번째 확진자 발생…해외입국 40대 여성",
+        "link": "http://www.fnnews.com/news/202007251111582170"
+    },
+    {
+        "title": "방역당국 \"코로나19 일일 신규 확진자 수 내일 100명 넘을 듯\"",
+        "link": "http://yna.kr/AKR20200724103700530?did=1195m"
     }
 ];
