@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/24/gold-surges-to-record-close-as-us-china-tensions-escalate-and-coronavirus-concerns-rise.html"
     },
     {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "Coronavirus: The week when everything changed for Trump",
         "link": "https://www.bbc.com/news/world-us-canada-53532880"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
         "link": "https://www.bbc.com/news/world-europe-53498133"
+    },
+    {
+        "title": "Boris Johnson says coronavirus could have been handled differently",
+        "link": "https://www.theguardian.com/world/2020/jul/24/boris-johnson-says-coronavirus-could-been-handled-differently"
     }
 ];
