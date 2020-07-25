@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
     },
     {
-        "title": "As coronavirus cases surge, Dr. Birx warns that 11 cities need to take 'aggressive' action",
-        "link": "https://www.foxnews.com/us/11-cities-aggressive-coronavirus-birx-cases"
-    },
-    {
-        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
+        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
     },
     {
         "title": "Coronavirus: The week when everything changed for Trump",
         "link": "https://www.bbc.com/news/world-us-canada-53532880"
+    },
+    {
+        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     },
     {
         "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
