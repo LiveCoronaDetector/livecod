@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
     },
     {
-        "title": "미국 나흘 연속 코로나19 사망자 1천명 넘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5853897_32640.html"
+        "title": "확진자 다시 '1백 명' 선…\"해외유입 차단해야\"",
+        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5854506_32531.html"
     },
     {
         "title": "코로나19 신규 확진 113명…115일 만에 세 자릿수",
