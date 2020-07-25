@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
+        "title": "Gold surges to record close as U.S.-China tensions escalate and coronavirus concerns rise",
+        "link": "https://www.cnbc.com/2020/07/24/gold-surges-to-record-close-as-us-china-tensions-escalate-and-coronavirus-concerns-rise.html"
     },
     {
-        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
-        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
+        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
+        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
     },
     {
         "title": "Coronavirus: The week when everything changed for Trump",
         "link": "https://www.bbc.com/news/world-us-canada-53532880"
     },
     {
-        "title": "Coronavirus updates: CDC finds 'prolonged illness' is common; experts call for shut down; daily global cases break another record",
-        "link": "https://www.usatoday.com/story/news/health/2020/07/24/covid-update-trump-cancels-florida-portion-gop-convention-cdc-school/5495991002/"
-    },
-    {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+    },
+    {
+        "title": "Coronavirus updates: CDC finds 'prolonged illness' is common; experts call for shut down; daily global cases break another record",
+        "link": "https://www.usatoday.com/story/news/health/2020/07/24/covid-update-trump-cancels-florida-portion-gop-convention-cdc-school/5495991002/"
     }
 ];
