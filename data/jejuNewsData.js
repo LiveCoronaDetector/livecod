@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
-    },
-    {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+    },
+    {
+        "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
     },
     {
         "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",

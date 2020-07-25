@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724103700530?did=1195m"
     },
     {
-        "title": "‘집단감염’ 포천 군부대 코로나19 추가 확진자 없어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502556&ref=A"
+        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
     },
     {
-        "title": "신규 확진자 113명...이라크 귀국 노동자·러시아 선박 영향",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007251043313632"
+        "title": "'집단감염' 포천 군부대 코로나19 추가 확진자 없어",
+        "link": "http://yna.kr/AKR20200725023700504?did=1195m"
     },
     {
         "title": "전남도, 코로나19 36번째 확진자 발생…해외입국 40대 여성",
