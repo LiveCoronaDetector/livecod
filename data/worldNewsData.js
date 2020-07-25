@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
-        "title": "Live updates on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
+        "title": "Coronavirus live news: UK to announce tourists returning from Spain must quarantine for two weeks",
+        "link": "https://www.theguardian.com/world/live/2020/jul/25/coronavirus-live-news-close-watch-on-victoria-australia-and-record-infections-globally"
     },
     {
-        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
-        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
+        "title": "As coronavirus cases surge, Dr. Birx warns that 11 cities need to take 'aggressive' action",
+        "link": "https://www.foxnews.com/us/11-cities-aggressive-coronavirus-birx-cases"
     },
     {
         "title": "Coronavirus: The week when everything changed for Trump",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     },
     {
-        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
-        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
+        "title": "July 24 COVID-19 case totals: Texas reports 196 new deaths, 8701 new cases",
+        "link": "https://www.youtube.com/watch?v=Za96Q4HfF5M"
     }
 ];
