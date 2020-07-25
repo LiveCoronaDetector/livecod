@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5854104_32640.html"
     },
     {
+        "title": "[속보] 日 도쿄 코로나19 신규 확진자 295명...누적 1만975명",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500071&wlog_tag3=naver"
+    },
+    {
         "title": "미국 나흘 연속 코로나19 사망자 1천명 넘어",
         "link": "https://imnews.imbc.com/news/2020/world/article/5853897_32640.html"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020072579287"
     },
     {
-        "title": "코로나19 113명 신규확진…국내 27명·해외 86명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5853749_32633.html"
-    },
-    {
         "title": "전남도, 코로나19 36번째 확진자 발생…해외입국 40대 여성",
         "link": "http://www.fnnews.com/news/202007251111582170"
     },
     {
-        "title": "방역당국 \"코로나19 일일 신규 확진자 수 내일 100명 넘을 듯\"",
-        "link": "http://yna.kr/AKR20200724103700530?did=1195m"
+        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
     }
 ];
