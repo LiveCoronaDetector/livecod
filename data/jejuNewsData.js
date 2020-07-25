@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
     },
     {
-        "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",
-        "link": "http://www.newsis.com/view/?id=NISX20200724_0001107099&cID=10813&pID=10800"
+        "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
+        "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
-        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
-        "link": "http://www.fnnews.com/news/202007210015021219"
+        "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",
+        "link": "http://www.newsis.com/view/?id=NISX20200724_0001107099&cID=10813&pID=10800"
     },
     {
         "title": "'거짓진술' 송파 60번·강남 91번 확진자 고발 조치",

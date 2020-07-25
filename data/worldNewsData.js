@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895221315/could-already-be-a-second-wave-some-restrictions-return-as-cases-spike-in-spain"
     },
     {
-        "title": "A 14-year-old girl was allegedly raped in an Indian Covid treatment center",
-        "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
+        "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
+        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
     },
     {
         "title": "Gold surges to record close as U.S.-China tensions escalate and coronavirus concerns rise",
