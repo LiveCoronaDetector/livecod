@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200724103700530?did=1195m"
     },
     {
+        "title": "일일 신규 확진자 오늘 100명 넘길 듯…해외유입 확진자 급증",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007250027&t=NN"
+    },
+    {
         "title": "미 코로나 400만명 넘자…트럼프 “내달 전당대회 취소”",
         "link": "http://www.hani.co.kr/arti/international/international_general/955028.html"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "포천 군부대 코로나19 확진자 4명 추가 발생",
         "link": "https://www.sedaily.com/NewsView/1Z5FFFNZ7M"
-    },
-    {
-        "title": "넉달만에 일일 확진자 100명대 전망…대부분 해외유입",
-        "link": "https://news.imaeil.com/Society/2020072508514151993"
     },
     {
         "title": "日, 코로나19 누적 확진자 3만명 육박…아베 \"긴급사태 선언 상황 아냐\"",

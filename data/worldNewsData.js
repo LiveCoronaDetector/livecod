@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/24/niagara-falls-tour-boats-us-canada-coronavirus"
     },
     {
-        "title": "Coronavirus: man, 103, recovers in Pakistan – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
+        "title": "Why Israelis are protesting for Netanyahu to resign",
+        "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
     },
     {
-        "title": "Why Can’t Trump’s America Be Like Italy?",
-        "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
+        "title": "'Could Already Be A Second Wave': Some Restrictions Return As Cases Spike In Spain",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895221315/could-already-be-a-second-wave-some-restrictions-return-as-cases-spike-in-spain"
     },
     {
         "title": "A 14-year-old girl was allegedly raped in an Indian Covid treatment center",
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
-        "title": "Gold surges to record close as U.S.-China tensions escalate and coronavirus concerns rise",
-        "link": "https://www.cnbc.com/2020/07/24/gold-surges-to-record-close-as-us-china-tensions-escalate-and-coronavirus-concerns-rise.html"
+        "title": "Coronavirus live news: Close watch on Victoria, Australia, and record infections globally",
+        "link": "https://www.theguardian.com/world/live/2020/jul/25/coronavirus-live-news-close-watch-on-victoria-australia-and-record-infections-globally"
     },
     {
         "title": "Live Coronavirus News Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53498133"
     },
     {
-        "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
-        "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
+        "title": "Coronavirus: man, 103, recovers in Pakistan – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     }
 ];
