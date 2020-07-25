@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895221315/could-already-be-a-second-wave-some-restrictions-return-as-cases-spike-in-spain"
     },
     {
-        "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
+        "title": "A 14-year-old girl was allegedly raped in an Indian Covid treatment center",
+        "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
         "title": "Gold surges to record close as U.S.-China tensions escalate and coronavirus concerns rise",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_72f691586036edd3098ac1841a87bc73"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/index.html"
     },
     {
         "title": "Coronavirus: The week when everything changed for Trump",
         "link": "https://www.bbc.com/news/world-us-canada-53532880"
     },
     {
-        "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
-        "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
+        "title": "Would Fauci get on a plane or dine out? Here's what he says",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_ab030018a55dd48fb93d8a9b776f7b66"
     }
 ];

@@ -878,7 +878,7 @@ var marker = [
         "Name_en": "Montenegro",
         "확진자수": 2665,
         "사망자수": 43,
-        "완치자수": 642
+        "완치자수": 643
     },
     {
         "Name": "Mali",
@@ -1334,7 +1334,7 @@ var marker = [
         "Name_en": "Mongolia",
         "확진자수": 288,
         "사망자수": 0,
-        "완치자수": 217
+        "완치자수": 218
     },
     {
         "Name": "Martinique",

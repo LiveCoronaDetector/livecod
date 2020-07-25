@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007251018287544"
     },
     {
-        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
+        "title": "해외유입 86명 역대 최다…코로나19 신규 확진 113명(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500025&wlog_tag3=naver"
     },
     {
         "title": "해외유입 한달째 두 자릿수…일일 신규 확진자 오늘 100명 넘나",
         "link": "http://yna.kr/AKR20200724158600530?did=1195m"
     },
     {
-        "title": "‘집단감염’ 포천 군부대 코로나19 추가 확진자 없어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502556&ref=A"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 113명…이라크-러시아 유입 70명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005900047&plink=ORI&cooper=NAVER"
+        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
     },
     {
         "title": "방역당국 \"코로나19 일일 신규 확진자 수 내일 100명 넘을 듯\"",
         "link": "http://yna.kr/AKR20200724103700530?did=1195m"
     },
     {
-        "title": "[속보] 코로나 어제 113명 신규확진…115일만에 '세자릿수'",
-        "link": "https://www.hankyung.com/society/article/2020072575097"
+        "title": "‘집단감염’ 포천 군부대 코로나19 추가 확진자 없어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502556&ref=A"
     },
     {
         "title": "신규 확진자 113명...이라크 귀국 노동자·러시아 선박 영향",
         "link": "https://www.ytn.co.kr/_ln/0103_202007251043313632"
     },
     {
-        "title": "국내 코로나19 확진자 넉달 만에 다시 100명대",
-        "link": "http://news.mk.co.kr/newsRead.php?no=761170&year=2020"
+        "title": "전남도, 코로나19 36번째 확진자 발생…해외입국 40대 여성",
+        "link": "http://www.fnnews.com/news/202007251111582170"
+    },
+    {
+        "title": "코로나19 신규 확진 113명…115일 만에 세 자릿수",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11961346"
     },
     {
         "title": "100명대로 급증한 코로나19 신규확진자수",
