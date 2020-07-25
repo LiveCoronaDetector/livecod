@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
-        "title": "Trump’s ‘Chinese lab’ theory may be weakened by FDA’s bat virus finding",
-        "link": "https://www.scmp.com/news/china/science/article/3094640/donald-trumps-chinese-lab-theory-may-be-weakened-fdas-bat"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
+    },
+    {
+        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
+        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
     },
     {
         "title": "Britain quaratines travellers from Spain over surge in coronavirus cases",
