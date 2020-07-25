@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/24/niagara-falls-tour-boats-us-canada-coronavirus"
     },
     {
-        "title": "Why Israelis are protesting for Netanyahu to resign",
-        "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
+        "title": "Coronavirus: man, 103, recovers in Pakistan – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     },
     {
         "title": "'Could Already Be A Second Wave': Some Restrictions Return As Cases Spike In Spain",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
-        "title": "Coronavirus live news: Close watch on Victoria, Australia, and record infections globally",
-        "link": "https://www.theguardian.com/world/live/2020/jul/25/coronavirus-live-news-close-watch-on-victoria-australia-and-record-infections-globally"
+        "title": "Gold surges to record close as U.S.-China tensions escalate and coronavirus concerns rise",
+        "link": "https://www.cnbc.com/2020/07/24/gold-surges-to-record-close-as-us-china-tensions-escalate-and-coronavirus-concerns-rise.html"
     },
     {
         "title": "Live Coronavirus News Updates",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_72f691586036edd3098ac1841a87bc73"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/index.html"
     },
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
         "link": "https://www.bbc.com/news/world-europe-53498133"
     },
     {
-        "title": "Coronavirus: man, 103, recovers in Pakistan – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
+        "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
+        "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
     }
 ];
