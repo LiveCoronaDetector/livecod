@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53532880"
     },
     {
-        "title": "Would Fauci get on a plane or dine out? Here's what he says",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_ab030018a55dd48fb93d8a9b776f7b66"
+        "title": "Coronavirus updates: CDC finds 'prolonged illness' is common; experts call for shut down; daily global cases break another record",
+        "link": "https://www.usatoday.com/story/news/health/2020/07/24/covid-update-trump-cancels-florida-portion-gop-convention-cdc-school/5495991002/"
     },
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",

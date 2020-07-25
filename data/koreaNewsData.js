@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500025&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 신규 확진자 113명…115일만 세 자릿수로 확대",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990819?division=NAVER"
-    },
-    {
-        "title": "수도권 코로나19 확산 지속…종로구 신명투자 확진자 누적 9명",
-        "link": "http://yna.kr/AKR20200725034400530?did=1195m"
+        "title": "\"코로나19 절정 아직 안 왔다…장기전 피할 수 없는 숙명\" [종합]",
+        "link": "https://www.hankyung.com/life/article/2020072579287"
     },
     {
         "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
@@ -21,23 +17,27 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007251526001&code=940100"
     },
     {
-        "title": "미국 나흘 연속 코로나19 사망자 1천명 넘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5853897_32640.html"
+        "title": "수도권 코로나19 확산 지속…종로구 신명투자 확진자 누적 9명",
+        "link": "http://yna.kr/AKR20200725034400530?did=1195m"
+    },
+    {
+        "title": "日 코로나 확진자 3만명 넘었다... 도쿄서만 신규 확진 300명 육박",
+        "link": "https://hankookilbo.com/News/Read/A2020072517450005179?did=NA"
     },
     {
         "title": "울산 58번째 확진자, 2주 격리에 음성판정 2번 받고도 양성",
         "link": "http://www.fnnews.com/news/202007251615543785"
     },
     {
-        "title": "\"코로나19 절정 아직 안 왔다…장기전 피할 수 없는 숙명\" [종합]",
-        "link": "https://www.hankyung.com/life/article/2020072579287"
+        "title": "'해외유입 검사확대' 이라크 노동자 35명 코로나 추가 확진",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007251733001&code=940100"
     },
     {
         "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
     },
     {
-        "title": "신규 확진자 113명...이라크 귀국 노동자·러시아 선박 영향",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007251214157358"
+        "title": "미국 나흘 연속 코로나19 사망자 1천명 넘어",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5853897_32640.html"
     }
 ];
