@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
     },
     {
-        "title": "코로나19 113명 신규확진…국내 27명·해외 86명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5853749_32633.html"
+        "title": "전남도, 코로나19 36번째 확진자 발생…해외입국 40대 여성",
+        "link": "http://www.fnnews.com/news/202007251111582170"
     },
     {
         "title": "코로나 해외유입 확진 지역전파 8건·15명 감염",
@@ -18,26 +18,26 @@ var koreaNewsData = [
     },
     {
         "title": "미국 나흘 연속 코로나19 사망자 1천명 넘어",
-        "link": "http://yna.kr/AKR20200725025600091?did=1195m"
+        "link": "https://imnews.imbc.com/news/2020/world/article/5853897_32640.html"
     },
     {
-        "title": "수도권 곳곳서 확진자 잇따라 발생…러시아 선박 8명 추가",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500057&wlog_tag3=naver"
-    },
-    {
-        "title": "울산 58번째 확진자, 2주 격리에 음성판정 2번 받고도 양성",
-        "link": "http://www.fnnews.com/news/202007251615543785"
+        "title": "수도권 코로나19 확산 지속…종로구 신명투자 확진자 누적 9명",
+        "link": "http://yna.kr/AKR20200725034400530?did=1195m"
     },
     {
         "title": "日 코로나 확진자 3만명 넘었다... 도쿄서만 신규 확진 300명 육박",
         "link": "https://hankookilbo.com/News/Read/A2020072517450005179?did=NA"
     },
     {
+        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
+    },
+    {
         "title": "\"코로나19 절정 아직 안 왔다…장기전 피할 수 없는 숙명\" [종합]",
         "link": "https://www.hankyung.com/life/article/2020072579287"
     },
     {
-        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
+        "title": "코로나19 신규 확진 113명…115일 만에 세 자릿수",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11961346"
     }
 ];
