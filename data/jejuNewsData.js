@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     },
     {
-        "title": "제주도 21~24번 확진자 '한림읍 동선' 접촉자 89명 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=423206"
+        "title": "제주 코로나19 감염 26번째 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     }
 ];

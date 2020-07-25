@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus: The week when everything changed for Trump",
         "link": "https://www.bbc.com/news/world-us-canada-53532880"
     },
     {
-        "title": "Would Fauci get on a plane or dine out? Here's what he says",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_ab030018a55dd48fb93d8a9b776f7b66"
+        "title": "WHO slams 'unacceptable' remarks by U.S. Secretary of State Mike Pompeo",
+        "link": "https://www.cnbc.com/2020/07/23/who-slams-unacceptable-remarks-by-us-secretary-of-state-mike-pompeo.html"
+    },
+    {
+        "title": "Did Sweden's coronavirus strategy succeed or fail?",
+        "link": "https://www.bbc.com/news/world-europe-53498133"
     }
 ];
