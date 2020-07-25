@@ -13,20 +13,20 @@ var worldNewsData = [
         "link": "https://www.middleeasteye.net/news/coronavirus-israel-supreme-court-palestinians-prisoners-no-rights-social-distancing"
     },
     {
-        "title": "'Could Already Be A Second Wave': Some Restrictions Return As Cases Spike In Spain",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895221315/could-already-be-a-second-wave-some-restrictions-return-as-cases-spike-in-spain"
+        "title": "Coronavirus: Spain drives fears of European 'second wave'",
+        "link": "https://www.bbc.com/news/world-europe-53539015"
     },
     {
         "title": "A 14-year-old girl was allegedly raped in an Indian Covid treatment center",
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
+        "title": "After a COVID-19 lull, North Korea gets back to sanctions-busting as China turns a blind eye",
+        "link": "https://www.nbcnews.com/news/north-korea/after-covid-19-lull-north-korea-gets-back-sanctions-busting-n1234858"
     },
     {
-        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
-        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
     },
     {
         "title": "Coronavirus: The week when everything changed for Trump",

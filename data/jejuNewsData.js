@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=423098"
     },
     {
-        "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",
-        "link": "http://www.newsis.com/view/?id=NISX20200724_0001107099&cID=10813&pID=10800"
-    },
-    {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+    },
+    {
+        "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",
+        "link": "http://www.newsis.com/view/?id=NISX20200724_0001107099&cID=10813&pID=10800"
     },
     {
         "title": "'거짓진술' 송파 60번·강남 91번 확진자 고발 조치",
