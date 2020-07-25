@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/25/coronavirus-covid-updates/"
     },
     {
-        "title": "Restaurateurs serve Netanyahu a 'final meal' as chaos mounts over Israel's coronavirus restrictions",
-        "link": "https://www.cnn.com/2020/07/23/middleeast/israel-netanyahu-coronavirus-restrictions-intl/index.html"
+        "title": "Coronavirus: Israeli court rules Palestinian prisoners have no right to social distancing",
+        "link": "https://www.middleeasteye.net/news/coronavirus-israel-supreme-court-palestinians-prisoners-no-rights-social-distancing"
     },
     {
         "title": "'Could Already Be A Second Wave': Some Restrictions Return As Cases Spike In Spain",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/25/coronavirus-live-news-close-watch-on-victoria-australia-and-record-infections-globally"
     },
     {
-        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
-        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "Coronavirus: The week when everything changed for Trump",
         "link": "https://www.bbc.com/news/world-us-canada-53532880"
+    },
+    {
+        "title": "Indoor gyms and pools in England start to reopen - Covid-19: Top stories this morning - BBC",
+        "link": "https://www.youtube.com/watch?v=4654HEic4rc"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     },
     {
-        "title": "LIVE: WHO reports highest global daily rise in coronavirus cases",
-        "link": "https://www.aljazeera.com/news/2020/07/top-health-agency-urges-schools-reopen-coronavirus-latest-200725000907772.html"
+        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
+        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
     }
 ];
