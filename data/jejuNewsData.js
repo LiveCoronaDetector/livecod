@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4501605&ref=A"
     },
     {
-        "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
-        "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
+        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
+        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     }
 ];
