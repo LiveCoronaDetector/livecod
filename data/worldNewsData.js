@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/24/niagara-falls-tour-boats-us-canada-coronavirus"
     },
     {
-        "title": "Why Israelis are protesting for Netanyahu to resign",
-        "link": "https://www.vox.com/2020/7/23/21334598/israel-netanyahu-protests-coronavirus-economy-trial"
+        "title": "Coronavirus: man, 103, recovers in Pakistan – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/jul/24/coronavirus-live-news-us-cases-top-4m-as-who-chief-chides-pompeo-for-untrue-claims"
     },
     {
         "title": "Why Can’t Trump’s America Be Like Italy?",
         "link": "https://www.nytimes.com/2020/07/23/opinion/us-italy-coronavirus.html"
     },
     {
-        "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
+        "title": "A 14-year-old girl was allegedly raped in an Indian Covid treatment center",
+        "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
         "title": "Gold surges to record close as U.S.-China tensions escalate and coronavirus concerns rise",
@@ -30,7 +30,7 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/index.html"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/h_72f691586036edd3098ac1841a87bc73"
     },
     {
         "title": "Did Sweden's coronavirus strategy succeed or fail?",
