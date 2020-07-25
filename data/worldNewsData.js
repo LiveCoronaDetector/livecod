@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
-        "title": "Trump owes us an apology over coronavirus claims, Wuhan bat expert says",
-        "link": "https://www.scmp.com/news/china/science/article/3094700/chinas-bat-woman-demands-donald-trump-apologise-over-claim"
+        "title": "Trump’s ‘Chinese lab’ theory may be weakened by FDA’s bat virus finding",
+        "link": "https://www.scmp.com/news/china/science/article/3094640/donald-trumps-chinese-lab-theory-may-be-weakened-fdas-bat"
+    },
+    {
+        "title": "Health Officials Offer Dire Warning For Latest Coronavirus Hot Spots | TODAY",
+        "link": "https://www.youtube.com/watch?v=nM__ACbHeqo"
     },
     {
         "title": "Britain quaratines travellers from Spain over surge in coronavirus cases",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: The week when everything changed for Trump",
         "link": "https://www.bbc.com/news/world-us-canada-53532880"
-    },
-    {
-        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
-        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
     }
 ];
