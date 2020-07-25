@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
-        "title": "코로나19, 선생님의 열정·헌신 '달라진 학교 이야기'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318305"
-    },
-    {
         "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
+    },
+    {
+        "title": "코로나19, 선생님의 열정·헌신 '달라진 학교 이야기'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318305"
     },
     {
         "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",

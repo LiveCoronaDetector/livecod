@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5384485"
     },
     {
+        "title": "北 \"코로나 의심 탈북민, 개성으로 귀향\"…김정은, 개성 완전 봉쇄",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072600079.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "수도권 곳곳서 확진자 잇따라 발생…러시아 선박 8명 추가",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500057&wlog_tag3=naver"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "확진자 다시 '1백 명' 선…\"해외유입 차단해야\"",
         "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5854506_32531.html"
-    },
-    {
-        "title": "코로나19 신규 확진 113명…115일 만에 세 자릿수",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11961346"
     }
 ];
