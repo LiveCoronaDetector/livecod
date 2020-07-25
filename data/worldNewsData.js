@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/25/coronavirus-covid-updates/"
     },
     {
-        "title": "Coronavirus: Israeli court rules Palestinian prisoners have no right to social distancing",
-        "link": "https://www.middleeasteye.net/news/coronavirus-israel-supreme-court-palestinians-prisoners-no-rights-social-distancing"
+        "title": "Thousands protest across Israel against Netanyahu amid coronavirus crisis",
+        "link": "https://www.jpost.com/israel-news/protesters-to-demonstrate-against-govt-policy-amid-coronavirus-pandemic-636297"
     },
     {
         "title": "Coronavirus: Spain drives fears of European 'second wave'",
@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
+        "title": "Trump owes us an apology over coronavirus claims, Wuhan bat expert says",
+        "link": "https://www.scmp.com/news/china/science/article/3094700/chinas-bat-woman-demands-donald-trump-apologise-over-claim"
+    },
+    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
     },
     {
-        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
-        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
-    },
-    {
-        "title": "'Could Already Be A Second Wave': Some Restrictions Return As Cases Spike In Spain",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/24/895221315/could-already-be-a-second-wave-some-restrictions-return-as-cases-spike-in-spain"
+        "title": "Britain quaratines travellers from Spain over surge in coronavirus cases",
+        "link": "https://www.youtube.com/watch?v=8BCFJcFRwXg"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
