@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5853749_32633.html"
     },
     {
-        "title": "[속보] 서울 확진자, 증상 있는 채로 일주일간 활보",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500077&wlog_tag3=naver"
-    },
-    {
         "title": "코로나 해외유입 확진 지역전파 8건·15명 감염",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007251526001&code=940100"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "미국 나흘 연속 코로나19 사망자 1천명 넘어",
         "link": "https://imnews.imbc.com/news/2020/world/article/5853897_32640.html"
+    },
+    {
+        "title": "日 코로나 확진자 3만명 넘었다... 도쿄서만 신규 확진 300명 육박",
+        "link": "https://hankookilbo.com/News/Read/A2020072517450005179?did=NA"
     }
 ];
