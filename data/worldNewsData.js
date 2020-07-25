@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3094700/chinas-bat-woman-demands-donald-trump-apologise-over-claim"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
-    },
-    {
         "title": "Britain quaratines travellers from Spain over surge in coronavirus cases",
         "link": "https://www.youtube.com/watch?v=8BCFJcFRwXg"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: The week when everything changed for Trump",
         "link": "https://www.bbc.com/news/world-us-canada-53532880"
+    },
+    {
+        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
+        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
     }
 ];
