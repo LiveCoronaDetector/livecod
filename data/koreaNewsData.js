@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500025&wlog_tag3=naver"
     },
     {
+        "title": "코로나19 신규 확진자 113명…115일만 세 자릿수로 확대",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000990819?division=NAVER"
+    },
+    {
+        "title": "수도권 코로나19 확산 지속…종로구 신명투자 확진자 누적 9명",
+        "link": "http://yna.kr/AKR20200725034400530?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
     },
     {
-        "title": "'해외유입 확진자→지역사회 전파' 사례 총 8건…15명 감염(종합)",
-        "link": "http://yna.kr/AKR20200725035751530?did=1195m"
-    },
-    {
-        "title": "'국경봉쇄' 베트남서 100일 만에 경로 불명 코로나19 발생",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5854104_32640.html"
-    },
-    {
-        "title": "[속보] 日 도쿄 코로나19 신규 확진자 295명...누적 1만975명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500071&wlog_tag3=naver"
+        "title": "코로나 해외유입 확진 지역전파 8건·15명 감염",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007251526001&code=940100"
     },
     {
         "title": "미국 나흘 연속 코로나19 사망자 1천명 넘어",
         "link": "https://imnews.imbc.com/news/2020/world/article/5853897_32640.html"
     },
     {
-        "title": "수도권 곳곳서 확진자 잇따라 발생…러시아 선박 8명 추가",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200725500057&wlog_tag3=naver"
+        "title": "울산 58번째 확진자, 2주 격리에 음성판정 2번 받고도 양성",
+        "link": "http://www.fnnews.com/news/202007251615543785"
     },
     {
         "title": "\"코로나19 절정 아직 안 왔다…장기전 피할 수 없는 숙명\" [종합]",
         "link": "https://www.hankyung.com/life/article/2020072579287"
     },
     {
-        "title": "전남도, 코로나19 36번째 확진자 발생…해외입국 40대 여성",
-        "link": "http://www.fnnews.com/news/202007251111582170"
-    },
-    {
         "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자리",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4502553&ref=A"
+    },
+    {
+        "title": "신규 확진자 113명...이라크 귀국 노동자·러시아 선박 영향",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007251214157358"
     }
 ];
