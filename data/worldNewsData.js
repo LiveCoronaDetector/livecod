@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: The week when everything changed for Trump",
-        "link": "https://www.bbc.com/news/world-us-canada-53532880"
-    },
-    {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+    },
+    {
+        "title": "Coronavirus: The week when everything changed for Trump",
+        "link": "https://www.bbc.com/news/world-us-canada-53532880"
     },
     {
         "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
