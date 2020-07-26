@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/25/latest_news/1595655436_847313.html"
     },
     {
-        "title": "Brazil's president tests negative for coronavirus",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_21c45a63e769e411611504a2e44fda10"
+        "title": "Live Coronavirus Updates: World News",
+        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
         "title": "Thousands protest against Netanyahu in Jerusalem, 12 arrested",
@@ -18,19 +18,19 @@ var worldNewsData = [
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://www.bbc.com/news/world-asia-india-53522998"
+        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
     },
     {
-        "title": "Coronavirus live news: global cases near 16m as Australia sees record new deaths",
-        "link": "https://www.theguardian.com/world/live/2020/jul/26/coronavirus-live-news-global-cases-near-16m-covid-19-ad-blitz-in-victoria-australia"
+        "title": "North Korea declares an emergency over coronavirus: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
     },
     {
-        "title": "North Korea declares emergency in border town as first suspected COVID-19 case reported",
-        "link": "https://news.yahoo.com/north-korea-reports-first-suspected-214309876.html"
+        "title": "UK puts Spain back on unsafe country list for coronavirus",
+        "link": "https://www.rochesterfirst.com/news/uk-puts-spain-back-on-unsafe-country-list-for-coronavirus/"
     },
     {
-        "title": "EasyJet and British Airways plan to continue UK-Spain flights",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-britain-airlines/easyjet-and-british-airways-plan-to-continue-uk-spain-flights-idUSKCN24Q0T2"
+        "title": "July 25 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",

@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
     },
     {
+        "title": "코로나 제주 n차 감염에 숙박 수학여행 일정 전면 취소",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318310"
+    },
+    {
         "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "'거짓진술' 송파 60번·강남 91번 확진자 고발 조치",
-        "link": "https://www.ytn.co.kr/_ln/0115_202007241253501974"
-    },
-    {
-        "title": "느슨해진 마스크 착용…코로나19 감염 위험 ↑",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4501605&ref=A"
+        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
+        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     }
 ];
