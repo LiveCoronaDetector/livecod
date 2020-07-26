@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5GCKLBFJ"
     },
     {
-        "title": "코로나19 해외유입 확진자 31.4명 …\"치료비 청구토록 법개정 추진\"",
-        "link": "https://view.asiae.co.kr/article/2020072617480717591"
-    },
-    {
         "title": "강남구 확진자, 롯데불한증막사우나 방문…서울 확진자 1571명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014843844&code=61121111&cp=nv"
     },
     {
-        "title": "일본 코로나 신규 확진 825명…도쿄 239명·오사카 141명(종합)",
-        "link": "http://yna.kr/AKR20200726046351073?did=1195m"
-    },
-    {
         "title": "일본, 코로나19 2차 확산에 재택근무 등 재차 요청",
         "link": "http://yna.kr/AKR20200726052400073?did=1195m"
+    },
+    {
+        "title": "김정은 \"코로나 의심 탈북민 귀향\"…'최대비상방역체제' 선포",
+        "link": "http://news.tf.co.kr/read/ptoday/1803787.htm"
+    },
+    {
+        "title": "논산 70대 여성 코로나19로 숨져...충남서 확진자 첫 사망",
+        "link": "https://hankookilbo.com/News/Read/A2020072611020000147?did=NA"
     }
 ];

@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318310"
     },
     {
-        "title": "서울 광진발 코로나19 여파...청정 제주 '초비상'",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997228"
-    },
-    {
         "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
+    },
+    {
+        "title": "서울 광진발 코로나19 여파...청정 제주 '초비상'",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997228"
     },
     {
         "title": "서울 광진구 20번 확진자 관련 추가 확진 없어",
