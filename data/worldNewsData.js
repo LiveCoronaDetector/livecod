@@ -2,15 +2,15 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Uganda, Ghana... cases, deaths and news",
-        "link": "https://news.google.com/articles/CBMiP2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDcvMjYvZm9vdGJhbGwvMTU5NTc0MDI1MF82ODg2MzUuaHRtbNIBQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDcvMjYvZm9vdGJhbGwvMTU5NTc0MDI1MF82ODg2MzUuYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://en.as.com/en/2020/07/26/football/1595740250_688635.html"
     },
     {
-        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
-        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+        "title": "COVID-19 Cases Continue To Surge In States Across The U.S.",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
     },
     {
-        "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
-        "link": "https://www.dw.com/en/coronavirus-latest-thousands-of-israelis-protest-netanyahus-pandemic-response/a-54313704"
+        "title": "Israel's coronavirus: No. of daily tests sharply declines, under 16,000 over weekend",
+        "link": "https://www.jpost.com/health-science/no-of-daily-coronavirus-tests-sharply-decline-under-15000-over-weekend-636353"
     },
     {
         "title": "Coronavirus: Spain drives fears of European 'second wave'",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
-        "link": "https://www.youtube.com/watch?v=qXDa-ZQ56Wo"
+        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Britain quaratines travellers from Spain over surge in coronavirus cases",
+        "link": "https://www.youtube.com/watch?v=8BCFJcFRwXg"
     },
     {
         "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
         "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
     },
     {
-        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
-    },
-    {
-        "title": "These Elite Contact Tracers Show the World How to Beat Covid-19",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8fddbc90-cf48-11ea-abee-cb2548231b4c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yNS90aGVzZS1lbGl0ZS1jb250YWN0LXRyYWNlcnMtc2hvdy10aGUtd29ybGQtaG93LXRvLWJlYXQtY292aWQtMTk="
+        "title": "Coronavirus news and live updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_6f8bbd1608f753c523eb990b5a840917"
     }
 ];
