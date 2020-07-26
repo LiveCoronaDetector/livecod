@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/26/football/1595740250_688635.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-26-20-intl/index.html"
+        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
+        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
         "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-why-wont-india-admit-232210315.html"
     },
     {
-        "title": "Highest daily coronavirus death toll in Australia: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
-    },
-    {
         "title": "North Korea declares state of emergency as Covid-19 case reported",
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Dr. Birx: Must slow virus surge in south so it doesn't head to northern states",
-        "link": "https://www.wtvr.com/news/coronavirus/dr-birx-must-slow-virus-surge-in-south-so-it-doesnt-head-to-northern-states"
+        "title": "Vietnam reports new local coronavirus cases: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
     },
     {
-        "title": "Spain: Experts predict the possible 2nd wave of COVID-19 infection | Coronvirus | Pandemic",
-        "link": "https://www.youtube.com/watch?v=NN43WHSqBmM"
+        "title": "Dr. Birx shares safety measures Ohio needs to stop explosion of coronavirus cases",
+        "link": "https://abc6onyourside.com/news/local/dr-debroah-birx-shares-safety-measures-ohio-needs-to-stop-explosion-of-coronavirus-cases"
+    },
+    {
+        "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
+        "link": "https://www.youtube.com/watch?v=qXDa-ZQ56Wo"
     },
     {
         "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
