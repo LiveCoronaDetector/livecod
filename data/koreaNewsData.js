@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200726021251063?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 58명···이라크 귀국 노동자 38명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007261035001&code=940601"
-    },
-    {
         "title": "김정은, 개성 완전 봉쇄… \"코로나 의심 탈북민 귀향\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072600079.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 58명···이라크 귀국 노동자 38명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007261035001&code=940601"
     },
     {
         "title": "어제 코로나19 신규확진 58명… 국내 12명·해외유입 46명",
         "link": "http://www.kwnews.co.kr/view.asp?aid=220072500000&s=501"
     },
     {
-        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
+        "title": "중국 코로나19 다시 확산세…확진자 46명 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502816&ref=A"
     },
     {
         "title": "北 \"코로나 감염 탈북민 월북했다\"",
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=203057"
     },
     {
-        "title": "코로나19 113명 신규확진…국내 27명·해외 86명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5853749_32633.html"
+        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
     },
     {
-        "title": "중국 코로나19 다시 확산세…확진자 46명 증가",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005900613&plink=ORI&cooper=NAVER"
+        "title": "코로나19 113명 신규확진…국내 27명·해외 86명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5853749_32633.html"
     }
 ];

@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53539015"
     },
     {
-        "title": "Coronavirus: Why won't India admit how Covid-19 is spreading?",
-        "link": "https://news.yahoo.com/coronavirus-why-wont-india-admit-232210315.html"
+        "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
+        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
     },
     {
         "title": "Coronavirus live news: global cases near 16m as Australia sees record new deaths",
         "link": "https://www.theguardian.com/world/live/2020/jul/26/coronavirus-live-news-global-cases-near-16m-covid-19-ad-blitz-in-victoria-australia"
     },
     {
+        "title": "North Korea declares emergency in border town as first suspected COVID-19 case reported",
+        "link": "https://news.yahoo.com/north-korea-reports-first-suspected-214309876.html"
+    },
+    {
         "title": "EasyJet and British Airways plan to continue UK-Spain flights",
         "link": "https://www.reuters.com/article/us-health-coronavirus-britain-airlines/easyjet-and-british-airways-plan-to-continue-uk-spain-flights-idUSKCN24Q0T2"
     },
     {
-        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+        "title": "NSW Supreme Court blocks Sydney Black Lives Matter protest",
+        "link": "https://www.youtube.com/watch?v=8je6VNd4Y6M"
     },
     {
-        "title": "North Korea declares state of emergency as Covid-19 case reported",
-        "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
-    },
-    {
-        "title": "Coronavirus: The week when everything changed for Trump",
-        "link": "https://www.bbc.com/news/world-us-canada-53532880"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
     }
 ];
