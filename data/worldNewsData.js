@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://apnews.com/ba586b6bebf961e999046a9dd28ab6fd"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-26-20-intl/index.html"
+        "title": "Giroir says coronavirus testing turnaround times still too long in US",
+        "link": "https://www.cnn.com/2020/07/26/politics/brett-giroir-testing-times-coronavirus-cnntv/index.html"
     },
     {
         "title": "Israel coronavirus cases top 60,000 as infections jump",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
-        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
-    },
-    {
         "title": "India's PM says his country proved the world wrong with its handling of coronavirus",
         "link": "https://www.msn.com/en-us/news/world/india-s-pm-says-his-country-proved-the-world-wrong-with-its-handling-of-coronavirus/ar-BB17dc9v?li=BBnbcA1"
     },
     {
-        "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
-        "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
+        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Dr. Birx: Stem virus surge so it doesn't travel",
-        "link": "https://www.wsaz.com/2020/07/26/dr-birx-stem-virus-surge-so-it-doesnt-travel/"
+        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
+        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
+        "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
     }
 ];

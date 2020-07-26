@@ -21,8 +21,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007261023201270"
     },
     {
-        "title": "“외국인 확진자, 큰 부담”…‘공짜 치료’ 안 해준다(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200726500101&wlog_tag3=naver"
+        "title": "정세균 \"외국인 치료비 이제 본인 부담 추진... 어제 확진자 100명 돌파\"",
+        "link": "https://www.sedaily.com/NewsView/1Z5GCKLBFJ"
+    },
+    {
+        "title": "코로나19 해외유입 확진자 31.4명 …\"치료비 청구토록 법개정 추진\"",
+        "link": "https://view.asiae.co.kr/article/2020072617480717591"
     },
     {
         "title": "강남구 확진자, 롯데불한증막사우나 방문…서울 확진자 1571명",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "일본 코로나 신규 확진 825명…도쿄 239명·오사카 141명(종합)",
         "link": "http://yna.kr/AKR20200726046351073?did=1195m"
-    },
-    {
-        "title": "정세균 \"외국인 치료비 이제 본인 부담 추진... 어제 확진자 100명 돌파\"",
-        "link": "https://www.sedaily.com/NewsView/1Z5GCKLBFJ"
     },
     {
         "title": "일본, 코로나19 2차 확산에 재택근무 등 재차 요청",
