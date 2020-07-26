@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
     {
-        "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
+        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     }
 ];

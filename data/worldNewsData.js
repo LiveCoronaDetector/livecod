@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://apnews.com/ba586b6bebf961e999046a9dd28ab6fd"
     },
     {
-        "title": "Giroir says coronavirus testing turnaround times still too long in US",
-        "link": "https://www.cnn.com/2020/07/26/politics/brett-giroir-testing-times-coronavirus-cnntv/index.html"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-26-20-intl/index.html"
     },
     {
-        "title": "Israel coronavirus cases top 60,000 as infections jump",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-israel/israel-coronavirus-cases-top-60000-as-infections-jump-idUSKCN24Q0Q4"
+        "title": "After Early Success, Israel’s Netanyahu Faces Fury for Flubbing Virus Fight",
+        "link": "https://www.nytimes.com/2020/07/24/world/middleeast/israel-virus-protests-netanyahu.html"
     },
     {
-        "title": "Coronavirus live news: UK quarantines arrivals from Spain; global cases pass 16m",
-        "link": "https://www.theguardian.com/world/live/2020/jul/26/coronavirus-live-news-global-cases-near-16m-covid-19-ad-blitz-in-victoria-australia"
+        "title": "Luck? Genetics? Italian island spared from COVID outbreak",
+        "link": "https://apnews.com/e91b19c2d31d5021a7e8dcd55b50e08b"
     },
     {
         "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
-        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+        "title": "Dr. Deborah Birx discusses COVID-19 testing",
+        "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
     },
     {
-        "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
-        "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
+        "title": "Coronavirus US: polls put Biden ahead of Trump as deaths top 1,000 a day – live",
+        "link": "https://www.theguardian.com/world/live/2020/jul/26/us-coronavirus-deaths-trump-republicans-relief-bill-portland-oregon-protests-agents-latest-news-live-updates"
     }
 ];
