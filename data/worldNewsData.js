@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/26/coronavirus-live-news-global-cases-near-16m-covid-19-ad-blitz-in-victoria-australia"
     },
     {
-        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
-        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
+        "title": "Court decision due today on Sydney's Black Lives Matter protest",
+        "link": "https://www.youtube.com/watch?v=IQbX3JQQOZY"
     },
     {
         "title": "EasyJet and British Airways plan to continue UK-Spain flights",
         "link": "https://www.reuters.com/article/us-health-coronavirus-britain-airlines/easyjet-and-british-airways-plan-to-continue-uk-spain-flights-idUSKCN24Q0T2"
     },
     {
-        "title": "Concerns COVID result lags are hindering Victoria's attempts to suppress the virus",
-        "link": "https://www.youtube.com/watch?v=dQ4V8ZUrl_4"
-    },
-    {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+    },
+    {
+        "title": "North Korea declares an emergency over coronavirus: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
     }
 ];
