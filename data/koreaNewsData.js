@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007261023201270"
     },
     {
-        "title": "코로나19 확진자 58명 추가…해외 46명 중 38명 '이라크' 근로자[종합]",
-        "link": "https://www.hankyung.com/society/article/2020072688527"
-    },
-    {
         "title": "러 선원발 코로나 부산항 넘어 지역사회 확산…2차 감염 발생(종합)",
         "link": "http://yna.kr/AKR20200726026551051?did=1195m"
     },
@@ -25,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5GBZWBX3"
     },
     {
+        "title": "코로나19 신규 확진 58명…38명은 이라크 귀국 노동자",
+        "link": "http://www.hani.co.kr/arti/society/health/955200.html"
+    },
+    {
         "title": "중국 코로나19 다시 확산세…확진자 46명 증가",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4502816&ref=A"
     },
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/26/2020072600725.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
+        "title": "[속보] 서울 강서데이케어센터 이용자 1명 코로나 추가 확진",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014843016&code=61121111&cp=nv"
     },
     {
-        "title": "김정은, 개성 완전 봉쇄… \"코로나 의심 탈북민 귀향\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072600079.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
     }
 ];
