@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
+        "title": "Coronavirus live news: global cases near 16m; Covid-19 ad blitz in Victoria, Australia",
+        "link": "https://www.theguardian.com/world/live/2020/jul/26/coronavirus-live-news-global-cases-near-16m-covid-19-ad-blitz-in-victoria-australia"
     },
     {
-        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
-        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
-    },
-    {
-        "title": "Britain quaratines travellers from Spain over surge in coronavirus cases",
-        "link": "https://www.youtube.com/watch?v=8BCFJcFRwXg"
+        "title": "EasyJet and British Airways plan to continue UK-Spain flights",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-britain-airlines/easyjet-and-british-airways-plan-to-continue-uk-spain-flights-idUSKCN24Q0T2"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+    },
+    {
+        "title": "North Korea's Kim says COVID-19 'could be said to have entered the country': KCNA",
+        "link": "https://news.yahoo.com/north-korea-reports-first-suspected-214309876.html"
     },
     {
         "title": "Coronavirus: The week when everything changed for Trump",

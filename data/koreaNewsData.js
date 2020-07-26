@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
     },
     {
-        "title": "北 \"코로나 의심 탈북민, 개성으로 귀향\"…김정은, 개성 완전 봉쇄",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072600079.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "김정은, 최대비상방역체제 채택...\"코로나 의심 탈북민 귀향\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007260905514505"
     },
     {
         "title": "코로나 신규 확진자 113명 늘어…이라크·러시아 유입 영향",
