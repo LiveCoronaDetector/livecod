@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Ri4QUVNPAuw"
     },
     {
-        "title": "North Korea's Kim says COVID-19 'could be said to have entered the country': KCNA",
-        "link": "https://news.yahoo.com/north-korea-reports-first-suspected-214309876.html"
+        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
+        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
+    },
+    {
+        "title": "Concerns COVID result lags are hindering Victoria's attempts to suppress the virus",
+        "link": "https://www.youtube.com/watch?v=dQ4V8ZUrl_4"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
-    },
-    {
-        "title": "Coronavirus: The week when everything changed for Trump",
-        "link": "https://www.bbc.com/news/world-us-canada-53532880"
     }
 ];
