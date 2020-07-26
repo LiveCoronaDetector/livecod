@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
     },
     {
-        "title": "Israel's coronavirus: No. of daily tests sharply declines, under 16,000 over weekend",
-        "link": "https://www.jpost.com/health-science/no-of-daily-coronavirus-tests-sharply-decline-under-15000-over-weekend-636353"
+        "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
+        "link": "https://www.dw.com/en/coronavirus-latest-thousands-of-israelis-protest-netanyahus-pandemic-response/a-54313704"
     },
     {
         "title": "Coronavirus: Spain drives fears of European 'second wave'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Britain quaratines travellers from Spain over surge in coronavirus cases",
-        "link": "https://www.youtube.com/watch?v=8BCFJcFRwXg"
+        "title": "Travel chaos as UK warns against visiting Spain and imposes new quarantine",
+        "link": "https://www.youtube.com/watch?v=XKA5lbQAZ4U"
     },
     {
-        "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
-        "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
+        "title": "Spain: Experts predict the possible 2nd wave of COVID-19 infection | Coronvirus | Pandemic",
+        "link": "https://www.youtube.com/watch?v=NN43WHSqBmM"
     },
     {
-        "title": "Coronavirus news and live updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_6f8bbd1608f753c523eb990b5a840917"
+        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     }
 ];
