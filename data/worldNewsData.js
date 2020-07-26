@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://apnews.com/ba586b6bebf961e999046a9dd28ab6fd"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-26-20-intl/index.html"
+        "title": "COVID-19 Cases Continue To Surge In States Across The U.S.",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
     },
     {
         "title": "After Early Success, Israel’s Netanyahu Faces Fury for Flubbing Virus Fight",
         "link": "https://www.nytimes.com/2020/07/24/world/middleeast/israel-virus-protests-netanyahu.html"
     },
     {
-        "title": "Luck? Genetics? Italian island spared from COVID outbreak",
-        "link": "https://apnews.com/e91b19c2d31d5021a7e8dcd55b50e08b"
+        "title": "Spain Second Virus Wave Swells, Fuels Concern Across Europe",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=51da7f70-cf87-11ea-b3c6-c9a406cb2610&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yNi9zcGFpbi1zLXNlY29uZC12aXJ1cy13YXZlLXN3ZWxscy1mdWVsaW5nLWNvbmNlcm4tYWNyb3NzLWV1cm9wZQ=="
     },
     {
         "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "India's PM says his country proved the world wrong with its handling of coronavirus",
-        "link": "https://www.msn.com/en-us/news/world/india-s-pm-says-his-country-proved-the-world-wrong-with-its-handling-of-coronavirus/ar-BB17dc9v?li=BBnbcA1"
+        "title": "Modi says coronavirus risk persists in India, recoveries rise",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-india-modi/modi-says-coronavirus-risk-persists-in-india-recoveries-rise-idUSKCN24R0FJ"
     },
     {
-        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
-        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
+        "title": "Coronavirus US: polls put Biden ahead of Trump as deaths top 1,000 a day – live",
+        "link": "https://www.theguardian.com/world/live/2020/jul/26/us-coronavirus-deaths-trump-republicans-relief-bill-portland-oregon-protests-agents-latest-news-live-updates"
     },
     {
         "title": "Dr. Deborah Birx discusses COVID-19 testing",
         "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
     },
     {
-        "title": "Coronavirus US: polls put Biden ahead of Trump as deaths top 1,000 a day – live",
-        "link": "https://www.theguardian.com/world/live/2020/jul/26/us-coronavirus-deaths-trump-republicans-relief-bill-portland-oregon-protests-agents-latest-news-live-updates"
+        "title": "Coronavirus updates: Global COVID-19 cases tops 16 million, was 15 million only 4 days ago",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
     }
 ];

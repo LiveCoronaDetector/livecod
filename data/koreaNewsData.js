@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200726034500001?did=1195m"
     },
     {
-        "title": "정 총리 “코로나19 외국인확진자 치료비 본인부담 추진”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000990882?division=NAVER"
-    },
-    {
         "title": "日코로나 신규확진 755명… 닷새째 700명 넘어",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072601849.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "일본, 코로나19 2차 확산에 재택근무 등 재차 요청",
         "link": "http://yna.kr/AKR20200726052400073?did=1195m"
+    },
+    {
+        "title": "중국 코로나19 다시 확산세…확진자 46명 증가",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005900613&plink=ORI&cooper=NAVER"
     }
 ];

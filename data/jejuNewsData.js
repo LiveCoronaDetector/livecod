@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "코로나 제주 n차 감염에 숙박 수학여행 일정 전면 취소",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318310"
-    },
-    {
         "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
+    },
+    {
+        "title": "코로나 제주 n차 감염에 숙박 수학여행 일정 전면 취소",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318310"
     },
     {
         "title": "서울 광진발 코로나19 여파...청정 제주 '초비상'",
