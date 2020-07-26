@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/26/football/1595740250_688635.html"
     },
     {
-        "title": "COVID-19 Cases Continue To Surge In States Across The U.S.",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-26-20-intl/index.html"
     },
     {
-        "title": "Israel coronavirus cases top 60,000 as infections jump",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-israel/israel-coronavirus-cases-top-60000-as-infections-jump-idUSKCN24Q0Q4"
+        "title": "Israel's coronavirus: No. of daily tests sharply declines, under 16,000 over weekend",
+        "link": "https://www.jpost.com/health-science/no-of-daily-coronavirus-tests-sharply-decline-under-15000-over-weekend-636353"
     },
     {
         "title": "Coronavirus live news: UK quarantines arrivals from Spain; global cases pass 16m",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Dr. Birx shares safety measures Ohio needs to stop explosion of coronavirus cases",
-        "link": "https://abc6onyourside.com/news/local/dr-debroah-birx-shares-safety-measures-ohio-needs-to-stop-explosion-of-coronavirus-cases"
-    },
-    {
-        "title": "Martin Lewis issues urgent Spain travel insurance warning as Britons face quarantine rules",
-        "link": "https://www.express.co.uk/travel/articles/1314618/Martin-Lewis-money-saving-expert-Spain-quarantine-rules-Twitter-FCO-travel-advice"
+        "title": "Dr. Deborah Birx discusses COVID-19 testing",
+        "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
     },
     {
         "title": "India's PM says his country proved the world wrong with its handling of coronavirus",
         "link": "https://www.msn.com/en-us/news/world/india-s-pm-says-his-country-proved-the-world-wrong-with-its-handling-of-coronavirus/ar-BB17dc9v?li=BBnbcA1"
     },
     {
-        "title": "Infection surges force countries to curb European travel",
-        "link": "https://www.ft.com/content/584ee262-d539-40ca-b145-e42865f2bc6b"
+        "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
+        "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
+    },
+    {
+        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     }
 ];
