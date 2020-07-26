@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/26/coronavirus-live-news-global-cases-near-16m-covid-19-ad-blitz-in-victoria-australia"
     },
     {
-        "title": "North Korea declares an emergency over coronavirus: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
+        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
+        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
     },
     {
-        "title": "Coronavirus: Arrivals to the UK from Spain must quarantine for two weeks | ITV News",
-        "link": "https://www.youtube.com/watch?v=Ri4QUVNPAuw"
+        "title": "EasyJet and British Airways plan to continue UK-Spain flights",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-britain-airlines/easyjet-and-british-airways-plan-to-continue-uk-spain-flights-idUSKCN24Q0T2"
     },
     {
-        "title": "COVID-19 update: Victorian Premier Daniel Andrews is live I SBS News",
-        "link": "https://www.youtube.com/watch?v=XglZVVtE_yA"
+        "title": "Concerns COVID result lags are hindering Victoria's attempts to suppress the virus",
+        "link": "https://www.youtube.com/watch?v=dQ4V8ZUrl_4"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
