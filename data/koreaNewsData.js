@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
     },
     {
-        "title": "코로나 신규 확진자 113명 늘어…이라크·러시아 유입 영향",
-        "link": "https://www.nocutnews.co.kr/news/5384485"
-    },
-    {
         "title": "北 \"코로나 의심 탈북민, 개성으로 귀향\"…김정은, 개성 완전 봉쇄",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072600079.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나 신규 확진자 113명 늘어…이라크·러시아 유입 영향",
+        "link": "https://www.nocutnews.co.kr/news/5384485"
     },
     {
         "title": "수도권 곳곳서 확진자 잇따라 발생…러시아 선박 8명 추가",

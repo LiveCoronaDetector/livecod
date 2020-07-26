@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/25/latest_news/1595655436_847313.html"
     },
     {
-        "title": "Coronavirus updates: U.S. deaths top 1,000 for fourth consecutive day",
-        "link": "https://www.washingtonpost.com/nation/2020/07/25/coronavirus-covid-updates/"
+        "title": "Live Coronavirus Updates: World News",
+        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
         "title": "Thousands protest across Israel against Netanyahu amid coronavirus crisis",
