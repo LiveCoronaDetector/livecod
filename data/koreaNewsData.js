@@ -9,8 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200726034500001?did=1195m"
     },
     {
+        "title": "[속보] AFP \"전세계 코로나 누적 확진자 1600만명 돌파\"",
+        "link": "https://www.hankyung.com/society/article/2020072693997"
+    },
+    {
         "title": "일본 코로나 신규 확진 825명…닷새째 700명↑",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4502896&ref=A"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 58명 증가...해외 46명 중 이라크 38명",
+        "link": "http://www.fnnews.com/news/202007261023201270"
     },
     {
         "title": "“외국인 확진자, 큰 부담”…‘공짜 치료’ 안 해준다(종합)",
@@ -23,14 +31,6 @@ var koreaNewsData = [
     {
         "title": "일본 코로나 신규 확진 825명…도쿄 239명·오사카 141명(종합)",
         "link": "http://yna.kr/AKR20200726046351073?did=1195m"
-    },
-    {
-        "title": "[속보] AFP \"전세계 코로나 누적 확진자 1600만명 돌파\"",
-        "link": "https://www.hankyung.com/society/article/2020072693997"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 58명 증가...해외 46명 중 이라크 38명",
-        "link": "http://www.fnnews.com/news/202007261023201270"
     },
     {
         "title": "정세균 \"외국인 치료비 이제 본인 부담 추진... 어제 확진자 100명 돌파\"",

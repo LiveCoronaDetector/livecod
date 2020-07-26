@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
+        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
+    },
+    {
         "title": "India's PM says his country proved the world wrong with its handling of coronavirus",
         "link": "https://www.msn.com/en-us/news/world/india-s-pm-says-his-country-proved-the-world-wrong-with-its-handling-of-coronavirus/ar-BB17dc9v?li=BBnbcA1"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
     },
     {
-        "title": "Dr. Deborah Birx discusses COVID-19 testing",
-        "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
-    },
-    {
-        "title": "Coronavirus updates: Global COVID-19 cases tops 16 million, was 15 million only 4 days ago",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
+        "title": "Dr. Birx: Stem virus surge so it doesn't travel",
+        "link": "https://www.wsaz.com/2020/07/26/dr-birx-stem-virus-surge-so-it-doesnt-travel/"
     }
 ];
