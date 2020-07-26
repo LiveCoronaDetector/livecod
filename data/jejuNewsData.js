@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2168458"
     },
     {
-        "title": "서울서 온 관광객에 코로나19 잇단 감염…휴가철 제주 방문객 급감 ‘울상’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007262106015&code=620117"
-    },
-    {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "서울서 온 관광객에 코로나19 잇단 감염…휴가철 제주 방문객 급감 ‘울상’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007262106015&code=620117"
     },
     {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",

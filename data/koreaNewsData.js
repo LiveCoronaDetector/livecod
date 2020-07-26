@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200726034500001?did=1195m"
     },
     {
-        "title": "“외국인 확진자, 큰 부담”…‘공짜 치료’ 안 해준다(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200726500101&wlog_tag3=naver"
-    },
-    {
         "title": "일본 코로나 신규 확진 825명…닷새째 700명↑",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4502896&ref=A"
+    },
+    {
+        "title": "“외국인 확진자, 큰 부담”…‘공짜 치료’ 안 해준다(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200726500101&wlog_tag3=naver"
     },
     {
         "title": "강남구 확진자, 롯데불한증막사우나 방문…서울 확진자 1571명",
