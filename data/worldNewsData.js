@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/25/coronavirus-covid-updates/"
     },
     {
-        "title": "Thousands protest against Netanyahu in Jerusalem, 12 arrested",
-        "link": "https://www.jpost.com/israel-news/protesters-to-demonstrate-against-govt-policy-amid-coronavirus-pandemic-636297"
+        "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
+        "link": "https://www.dw.com/en/coronavirus-latest-thousands-of-israelis-protest-netanyahus-pandemic-response/a-54313704"
     },
     {
         "title": "Coronavirus: Spain drives fears of European 'second wave'",
         "link": "https://www.bbc.com/news/world-europe-53539015"
     },
     {
-        "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
+        "title": "Coronavirus: Why won't India admit how Covid-19 is spreading?",
+        "link": "https://news.yahoo.com/coronavirus-why-wont-india-admit-232210315.html"
     },
     {
         "title": "North Korea declares state of emergency as Covid-19 case reported",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
+        "title": "July 25 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
+    },
+    {
         "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
         "link": "https://www.youtube.com/watch?v=qXDa-ZQ56Wo"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
-    },
-    {
-        "title": "July 25 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_6f8bbd1608f753c523eb990b5a840917"
     }
 ];

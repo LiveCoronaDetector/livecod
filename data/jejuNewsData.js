@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318305"
     },
     {
-        "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
-    },
-    {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
     },
     {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
