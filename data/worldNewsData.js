@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/26/football/1595740250_688635.html"
     },
     {
-        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
-        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+        "title": "Coronavirus updates: U.S. deaths top 1,000 for four consecutive days",
+        "link": "https://www.washingtonpost.com/nation/2020/07/25/coronavirus-covid-updates/"
     },
     {
         "title": "Thousands protest against Netanyahu in Jerusalem, 12 arrested",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Highest daily coronavirus death toll in Australia: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
-    },
-    {
-        "title": "July 25 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
+        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
+        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
         "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+    },
+    {
+        "title": "July 25 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_6f8bbd1608f753c523eb990b5a840917"
     }
 ];
