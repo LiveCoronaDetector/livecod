@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Uganda, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/07/25/latest_news/1595655436_847313.html"
+        "link": "https://en.as.com/en/2020/07/26/football/1595740250_688635.html"
     },
     {
         "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
     },
     {
-        "title": "Spain takes aim at nightclubs and beaches as virus rebounds",
-        "link": "https://abcnews.go.com/Health/wireStory/spain-takes-aim-nightclubs-beaches-virus-rebounds-71992813"
+        "title": "July 25 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
+    },
+    {
+        "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
+        "link": "https://www.youtube.com/watch?v=qXDa-ZQ56Wo"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
-    },
-    {
-        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
-        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
     }
 ];
