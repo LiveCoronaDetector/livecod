@@ -412,7 +412,7 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 32124,
+        "확진자수": 32813,
         "사망자수": 1249,
         "완치자수": 19203
     },
@@ -484,8 +484,8 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 19952,
-        "사망자수": 111,
+        "확진자수": 20226,
+        "사망자수": 112,
         "완치자수": 10831
     },
     {
@@ -820,7 +820,7 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 3282,
+        "확진자수": 3291,
         "사망자수": 58,
         "완치자수": 3109
     },
@@ -1289,6 +1289,14 @@ var marker = [
         "완치자수": 180
     },
     {
+        "Name": "Comoros",
+        "Name_ch": "",
+        "Name_en": "Comoros",
+        "확진자수": 354,
+        "사망자수": 7,
+        "완치자수": 328
+    },
+    {
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
@@ -1303,14 +1311,6 @@ var marker = [
         "확진자수": 344,
         "사망자수": 10,
         "완치자수": 332
-    },
-    {
-        "Name": "Comoros",
-        "Name_ch": "",
-        "Name_en": "Comoros",
-        "확진자수": 340,
-        "사망자수": 7,
-        "완치자수": 324
     },
     {
         "Name": "Isle of Man",
@@ -1465,20 +1465,20 @@ var marker = [
         "완치자수": 63
     },
     {
+        "Name": "부탄",
+        "Name_ch": "不丹",
+        "Name_en": "Bhutan",
+        "확진자수": 93,
+        "사망자수": 0,
+        "완치자수": 85
+    },
+    {
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
         "확진자수": 92,
         "사망자수": 2,
         "완치자수": 28
-    },
-    {
-        "Name": "부탄",
-        "Name_ch": "不丹",
-        "Name_en": "Bhutan",
-        "확진자수": 92,
-        "사망자수": 0,
-        "완치자수": 85
     },
     {
         "Name": "리히텐슈타인",

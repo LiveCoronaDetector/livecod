@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
     },
     {
-        "title": "UK puts Spain back on unsafe country list for coronavirus",
-        "link": "https://www.rochesterfirst.com/news/uk-puts-spain-back-on-unsafe-country-list-for-coronavirus/"
+        "title": "EasyJet and British Airways plan to continue UK-Spain flights",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-britain-airlines/easyjet-and-british-airways-plan-to-continue-uk-spain-flights-idUSKCN24Q0T2"
     },
     {
         "title": "July 25 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/index.html"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
+        "title": "Coronavirus: The week when everything changed for Trump",
+        "link": "https://www.bbc.com/news/world-us-canada-53532880"
     }
 ];
