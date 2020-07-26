@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020072693997"
     },
     {
-        "title": "일본 코로나 신규 확진 825명…닷새째 700명↑",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502896&ref=A"
+        "title": "일본 코로나19 신규 확진자 755명…닷새째 700명↑",
+        "link": "https://view.asiae.co.kr/article/2020072619551338898"
     },
     {
         "title": "[종합] 코로나19 확진자 58명 증가...해외 46명 중 이라크 38명",
