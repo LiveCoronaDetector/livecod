@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/26/coronavirus-live-news-global-cases-near-16m-covid-19-ad-blitz-in-victoria-australia"
     },
     {
-        "title": "EasyJet and British Airways plan to continue UK-Spain flights",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-britain-airlines/easyjet-and-british-airways-plan-to-continue-uk-spain-flights-idUSKCN24Q0T2"
-    },
-    {
-        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+        "title": "Coronavirus: Arrivals to the UK from Spain must quarantine for two weeks | ITV News",
+        "link": "https://www.youtube.com/watch?v=Ri4QUVNPAuw"
     },
     {
         "title": "North Korea's Kim says COVID-19 'could be said to have entered the country': KCNA",
         "link": "https://news.yahoo.com/north-korea-reports-first-suspected-214309876.html"
+    },
+    {
+        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     },
     {
         "title": "Coronavirus: The week when everything changed for Trump",
