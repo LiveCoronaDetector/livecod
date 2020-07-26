@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/view.asp?aid=220072500000&s=501"
     },
     {
-        "title": "[종합] 코로나19 확진자 58명 증가...해외 46명 중 이라크 38명",
-        "link": "http://www.fnnews.com/news/202007261023201270"
-    },
-    {
         "title": "7월 확진자 755명이 외국인…'공짜치료' 안 해준다",
         "link": "http://news.mt.co.kr/mtview.php?no=2020072617335194152"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 58명 증가...해외 46명 중 이라크 38명",
+        "link": "http://www.fnnews.com/news/202007261023201270"
     },
     {
         "title": "정세균 \"외국인 치료비 이제 본인 부담 추진... 어제 확진자 100명 돌파\"",
         "link": "https://www.sedaily.com/NewsView/1Z5GCKLBFJ"
     },
     {
-        "title": "강남구 확진자, 롯데불한증막사우나 방문…서울 확진자 1571명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014843844&code=61121111&cp=nv"
+        "title": "일본 신규 확진자 825명…도쿄 6일째 200명대",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200727500001&wlog_tag3=naver"
     }
 ];
