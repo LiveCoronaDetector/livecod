@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5GBZWBX3"
     },
     {
-        "title": "스페인 축구 2부리그 한 팀서 코로나19 확진자 28명 나와",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005900609&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "러 선원발 코로나 부산항 넘어 지역사회 확산…2차 감염 발생(종합)",
         "link": "http://yna.kr/AKR20200726026551051?did=1195m"
     },
     {
         "title": "베트남 다낭 '비상'…100일만에 코로나 지역감염 잇따라 발생(종합)",
         "link": "http://yna.kr/AKR20200726015251076?did=1195m"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 58명 증가...해외 46명 중 이라크 38명",
+        "link": "http://www.fnnews.com/news/202007261023201270"
     }
 ];

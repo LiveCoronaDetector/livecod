@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
     },
     {
-        "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
-        "link": "https://www.dw.com/en/coronavirus-latest-thousands-of-israelis-protest-netanyahus-pandemic-response/a-54313704"
+        "title": "Israel's coronavirus: No. of daily tests sharply declines, under 16,000 over weekend",
+        "link": "https://www.jpost.com/health-science/no-of-daily-coronavirus-tests-sharply-decline-under-15000-over-weekend-636353"
     },
     {
         "title": "Coronavirus: Spain drives fears of European 'second wave'",
@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-why-wont-india-admit-232210315.html"
     },
     {
-        "title": "North Korea declares state of emergency as Covid-19 case reported",
+        "title": "North Korea declares emergency over suspected Covid-19 case",
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Travel chaos as UK warns against visiting Spain and imposes new quarantine",
-        "link": "https://www.youtube.com/watch?v=XKA5lbQAZ4U"
+        "title": "Dr. Birx: Must slow virus surge in south so it doesn't head to northern states",
+        "link": "https://www.wtvr.com/news/coronavirus/dr-birx-must-slow-virus-surge-in-south-so-it-doesnt-head-to-northern-states"
     },
     {
-        "title": "Spain: Experts predict the possible 2nd wave of COVID-19 infection | Coronvirus | Pandemic",
-        "link": "https://www.youtube.com/watch?v=NN43WHSqBmM"
+        "title": "Travel chaos as UK warns against visiting Spain and imposes new quarantine",
+        "link": "https://www.youtube.com/watch?v=XKA5lbQAZ4U"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",

@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318310"
     },
     {
-        "title": "제주도 26번 확진자 출입명부 미작성 유흥업소 업주 고발",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
-    },
-    {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+    },
+    {
+        "title": "제주도 26번 확진자 출입명부 미작성 유흥업소 업주 고발",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
         "title": "서울 광진발 코로나19 여파...청정 제주 '초비상'",
