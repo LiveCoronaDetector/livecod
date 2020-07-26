@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020072688527"
     },
     {
+        "title": "[속보] 논산 70대 여성 코로나19로 숨져···충남서 확진자 첫 사망",
+        "link": "https://www.sedaily.com/NewsView/1Z5GBZWBX3"
+    },
+    {
         "title": "논산서 코로나19 확진 70대 숨져…당뇨·고혈압 기저질환 앓아(종합)",
         "link": "http://yna.kr/AKR20200726021251063?did=1195m"
     },
@@ -17,16 +21,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072600079.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 58명···이라크 귀국 노동자 38명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007261035001&code=940601"
+        "title": "ML 초비상, 개막 이틀만에 코로나19 확진자 발생",
+        "link": "http://www.sportsseoul.com/news/read/940059?ref=naver"
     },
     {
         "title": "어제 코로나19 신규확진 58명… 국내 12명·해외유입 46명",
         "link": "http://www.kwnews.co.kr/view.asp?aid=220072500000&s=501"
-    },
-    {
-        "title": "중국 코로나19 다시 확산세…확진자 46명 증가",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502816&ref=A"
     },
     {
         "title": "北 \"코로나 감염 탈북민 월북했다\"",

@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_21c45a63e769e411611504a2e44fda10"
     },
     {
-        "title": "Thousands protest across Israel against Netanyahu amid coronavirus crisis",
+        "title": "Thousands protest against Netanyahu in Jerusalem, 12 arrested",
         "link": "https://www.jpost.com/israel-news/protesters-to-demonstrate-against-govt-policy-amid-coronavirus-pandemic-636297"
     },
     {
@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "India coronavirus: 14-year-old sexually assaulted at Delhi Covid-19 centre",
-        "link": "https://news.yahoo.com/india-coronavirus-14-old-sexually-042050579.html"
+        "link": "https://www.bbc.com/news/world-asia-india-53522998"
     },
     {
         "title": "Coronavirus live news: global cases near 16m as Australia sees record new deaths",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-britain-airlines/easyjet-and-british-airways-plan-to-continue-uk-spain-flights-idUSKCN24Q0T2"
     },
     {
-        "title": "NSW Supreme Court blocks Sydney Black Lives Matter protest",
-        "link": "https://www.youtube.com/watch?v=8je6VNd4Y6M"
+        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
