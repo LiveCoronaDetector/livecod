@@ -21,6 +21,10 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-why-wont-india-admit-232210315.html"
     },
     {
+        "title": "Highest daily coronavirus death toll in Australia: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
+    },
+    {
         "title": "North Korea declares state of emergency as Covid-19 case reported",
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
@@ -29,15 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
-        "title": "July 25 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
+        "title": "Spain: Experts predict the possible 2nd wave of COVID-19 infection | Coronvirus | Pandemic",
+        "link": "https://www.youtube.com/watch?v=NN43WHSqBmM"
     },
     {
-        "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
-        "link": "https://www.youtube.com/watch?v=qXDa-ZQ56Wo"
-    },
-    {
-        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+        "title": "Coronavirus news and live updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_6f8bbd1608f753c523eb990b5a840917"
     }
 ];
