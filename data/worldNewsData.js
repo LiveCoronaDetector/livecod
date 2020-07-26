@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/26/football/1595740250_688635.html"
     },
     {
-        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
-        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+        "title": "COVID-19 Cases Continue To Surge In States Across The U.S.",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
     },
     {
         "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Vietnam reports new local coronavirus cases: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
-    },
-    {
-        "title": "Dr. Birx shares safety measures Ohio needs to stop explosion of coronavirus cases",
-        "link": "https://abc6onyourside.com/news/local/dr-debroah-birx-shares-safety-measures-ohio-needs-to-stop-explosion-of-coronavirus-cases"
+        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
         "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
+    },
+    {
+        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     }
 ];
