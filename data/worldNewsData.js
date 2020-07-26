@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Thousands protest against Netanyahu in Jerusalem, 12 arrested",
-        "link": "https://www.jpost.com/israel-news/protesters-to-demonstrate-against-govt-policy-amid-coronavirus-pandemic-636297"
+        "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
+        "link": "https://www.dw.com/en/coronavirus-latest-thousands-of-israelis-protest-netanyahus-pandemic-response/a-54313704"
     },
     {
         "title": "Coronavirus: Spain drives fears of European 'second wave'",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     },
     {
-        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
-        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
+        "title": "These Elite Contact Tracers Show the World How to Beat Covid-19",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c5cc9c20-cf22-11ea-898e-938230a69379&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yNS90aGVzZS1lbGl0ZS1jb250YWN0LXRyYWNlcnMtc2hvdy10aGUtd29ybGQtaG93LXRvLWJlYXQtY292aWQtMTk="
     }
 ];
