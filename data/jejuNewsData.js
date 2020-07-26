@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318310"
     },
     {
+        "title": "서울서 온 관광객에 코로나19 잇단 감염…휴가철 제주 방문객 급감 ‘울상’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007262106015&code=620117"
+    },
+    {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
-    },
-    {
-        "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",
-        "link": "http://www.newsis.com/view/?id=NISX20200724_0001107099&cID=10813&pID=10800"
     }
 ];

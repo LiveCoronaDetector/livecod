@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/26/football/1595740250_688635.html"
     },
     {
-        "title": "Coronavirus updates: U.S. deaths top 1,000 for four consecutive days",
-        "link": "https://www.washingtonpost.com/nation/2020/07/25/coronavirus-covid-updates/"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-26-20-intl/index.html"
     },
     {
         "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
-        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+        "title": "Dr. Birx: Must slow virus surge in south so it doesn't head to northern states",
+        "link": "https://www.wtvr.com/news/coronavirus/dr-birx-must-slow-virus-surge-in-south-so-it-doesnt-head-to-northern-states"
     },
     {
         "title": "Spain: Experts predict the possible 2nd wave of COVID-19 infection | Coronvirus | Pandemic",
         "link": "https://www.youtube.com/watch?v=NN43WHSqBmM"
     },
     {
-        "title": "Coronavirus news and live updates from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_6f8bbd1608f753c523eb990b5a840917"
+        "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
+        "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
     }
 ];
