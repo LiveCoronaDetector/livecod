@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/25/latest_news/1595655436_847313.html"
     },
     {
-        "title": "Live Coronavirus Updates: World News",
-        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+        "title": "Brazil's president tests negative for coronavirus",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_21c45a63e769e411611504a2e44fda10"
     },
     {
         "title": "Thousands protest across Israel against Netanyahu amid coronavirus crisis",
@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53539015"
     },
     {
-        "title": "A 14-year-old girl was allegedly raped in an Indian Covid treatment center",
-        "link": "https://www.cnn.com/2020/07/24/india/india-covid-rape-intl-scli/index.html"
+        "title": "Coronavirus: Why won't India admit how Covid-19 is spreading?",
+        "link": "https://news.yahoo.com/coronavirus-why-wont-india-admit-232210315.html"
     },
     {
-        "title": "Coronavirus live news: global cases near 16m; Covid-19 ad blitz in Victoria, Australia",
+        "title": "Coronavirus live news: global cases near 16m as Australia sees record new deaths",
         "link": "https://www.theguardian.com/world/live/2020/jul/26/coronavirus-live-news-global-cases-near-16m-covid-19-ad-blitz-in-victoria-australia"
+    },
+    {
+        "title": "North Korea declares an emergency over coronavirus: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
     },
     {
         "title": "Coronavirus: Arrivals to the UK from Spain must quarantine for two weeks | ITV News",
         "link": "https://www.youtube.com/watch?v=Ri4QUVNPAuw"
     },
     {
-        "title": "US coronavirus deaths soar as officials call for shutdowns | WNT",
-        "link": "https://www.youtube.com/watch?v=Xl-xQ36d2lA"
-    },
-    {
-        "title": "Concerns COVID result lags are hindering Victoria's attempts to suppress the virus",
-        "link": "https://www.youtube.com/watch?v=dQ4V8ZUrl_4"
+        "title": "COVID-19 update: Victorian Premier Daniel Andrews is live I SBS News",
+        "link": "https://www.youtube.com/watch?v=XglZVVtE_yA"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
