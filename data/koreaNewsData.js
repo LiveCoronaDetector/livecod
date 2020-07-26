@@ -21,12 +21,16 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020072693997"
     },
     {
-        "title": "정세균 \"해외유입 외국인 코로나19 입원치료비 본인 부담\"",
-        "link": "http://www.fnnews.com/news/202007261542246428"
+        "title": "[종합] 코로나19 확진자 58명 증가...해외 46명 중 이라크 38명",
+        "link": "http://www.fnnews.com/news/202007261023201270"
     },
     {
-        "title": "논산 70대 여성 코로나19로 숨져···충남서 확진자 첫 사망",
-        "link": "https://www.sedaily.com/NewsView/1Z5GBZWBX3"
+        "title": "정세균 \"외국인 치료비 이제 본인 부담 추진... 어제 확진자 100명 돌파\"",
+        "link": "https://www.sedaily.com/NewsView/1Z5GCKLBFJ"
+    },
+    {
+        "title": "논산 70대 여성 코로나19로 숨져...충남서 확진자 첫 사망",
+        "link": "https://hankookilbo.com/News/Read/A2020072611020000147?did=NA"
     },
     {
         "title": "러 선원발 코로나 부산항 넘어 지역사회 확산…2차 감염 발생(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "베트남 다낭 '비상'…100일만에 코로나 지역감염 잇따라 발생(종합)",
         "link": "http://yna.kr/AKR20200726015251076?did=1195m"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 58명 증가...해외 46명 중 이라크 38명",
-        "link": "http://www.fnnews.com/news/202007261023201270"
     }
 ];

@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/no-of-daily-coronavirus-tests-sharply-decline-under-15000-over-weekend-636353"
     },
     {
-        "title": "Coronavirus: Spain drives fears of European 'second wave'",
-        "link": "https://www.bbc.com/news/world-europe-53539015"
+        "title": "Coronavirus updates: Major blow to Spain's tourism as UK orders quarantine",
+        "link": "https://www.bbc.com/news/live/world-53542500"
     },
     {
         "title": "Coronavirus: Why won't India admit how Covid-19 is spreading?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Dr. Birx: Must slow virus surge in south so it doesn't head to northern states",
-        "link": "https://www.wtvr.com/news/coronavirus/dr-birx-must-slow-virus-surge-in-south-so-it-doesnt-head-to-northern-states"
+        "title": "Dr. Birx shares safety measures Ohio needs to stop explosion of coronavirus cases",
+        "link": "https://abc6onyourside.com/news/local/dr-debroah-birx-shares-safety-measures-ohio-needs-to-stop-explosion-of-coronavirus-cases"
     },
     {
-        "title": "Travel chaos as UK warns against visiting Spain and imposes new quarantine",
-        "link": "https://www.youtube.com/watch?v=XKA5lbQAZ4U"
+        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
+        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+        "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
+        "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
     }
 ];
