@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200726026551051?did=1195m"
     },
     {
-        "title": "어제 코로나19 신규확진 58명… 국내 12명·해외유입 46명",
-        "link": "http://www.kwnews.co.kr/view.asp?aid=220072500000&s=501"
-    },
-    {
-        "title": "北 \"코로나 감염 탈북민 월북했다\"",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=203057"
-    },
-    {
         "title": "논산 70대 여성 코로나19로 숨져···충남서 확진자 첫 사망",
         "link": "https://www.sedaily.com/NewsView/1Z5GBZWBX3"
     },
     {
-        "title": "코로나19 신규 확진 58명…38명은 이라크 귀국 노동자",
-        "link": "http://www.hani.co.kr/arti/society/health/955200.html"
-    },
-    {
         "title": "중국 코로나19 다시 확산세…확진자 46명 증가",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502816&ref=A"
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005900613&plink=ORI&cooper=NAVER"
     },
     {
         "title": "[종합]부산항 러시아 선박 관련 첫 2차 감염…확진자 접촉자 1명 확진",
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/26/2020072600725.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[속보] 서울 강서데이케어센터 이용자 1명 코로나 추가 확진",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014843016&code=61121111&cp=nv"
+        "title": "[전문] 창원시청 서울 송파구 확진자 동선공개",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373158"
     },
     {
-        "title": "코로나19 신규 확진자 113명…115일 만에 첫 세 자릿수",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/25/2020072590008.html"
+        "title": "[속보] AFP “전 세계 코로나19 확진자 1,600만명 돌파”",
+        "link": "https://www.sedaily.com/NewsView/1Z5GCSWDYC"
+    },
+    {
+        "title": "김정은, 개성 완전 봉쇄… \"코로나 의심 탈북민 귀향\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072600079.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 신규 확진 58명…38명은 이라크 귀국 노동자",
+        "link": "http://www.hani.co.kr/arti/society/health/955200.html"
+    },
+    {
+        "title": "어제 코로나19 신규확진 58명… 국내 12명·해외유입 46명",
+        "link": "http://www.kwnews.co.kr/view.asp?aid=220072500000&s=501"
     }
 ];

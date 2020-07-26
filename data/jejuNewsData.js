@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "서울 광진발 코로나19 여파...청정 제주 '초비상'",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997228"
-    },
-    {
         "title": "제주 '관악구 사무실'발 확진자 1명 추가…총 5명(종합)",
         "link": "http://yna.kr/AKR20200720159251056?did=1195m"
+    },
+    {
+        "title": "서울 광진발 코로나19 여파...청정 제주 '초비상'",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997228"
     },
     {
         "title": "코로나 제주 n차 감염에 숙박 수학여행 일정 전면 취소",
