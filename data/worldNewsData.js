@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/26/football/1595740250_688635.html"
     },
     {
-        "title": "Coronavirus updates: U.S. deaths top 1,000 for four consecutive days",
-        "link": "https://www.washingtonpost.com/nation/2020/07/26/coronavirus-covid-updates/"
+        "title": "COVID-19 Cases Continue To Surge In States Across The U.S.",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
     },
     {
         "title": "Israel coronavirus cases top 60,000 as infections jump",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
-        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+        "title": "Dr. Birx shares safety measures Ohio needs to stop explosion of coronavirus cases",
+        "link": "https://abc6onyourside.com/news/local/dr-debroah-birx-shares-safety-measures-ohio-needs-to-stop-explosion-of-coronavirus-cases"
     },
     {
-        "title": "Infection surges force countries to curb European travel",
-        "link": "https://www.ft.com/content/584ee262-d539-40ca-b145-e42865f2bc6b"
+        "title": "Martin Lewis issues urgent Spain travel insurance warning as Britons face quarantine rules",
+        "link": "https://www.express.co.uk/travel/articles/1314618/Martin-Lewis-money-saving-expert-Spain-quarantine-rules-Twitter-FCO-travel-advice"
     },
     {
         "title": "India's PM says his country proved the world wrong with its handling of coronavirus",
         "link": "https://www.msn.com/en-us/news/world/india-s-pm-says-his-country-proved-the-world-wrong-with-its-handling-of-coronavirus/ar-BB17dc9v?li=BBnbcA1"
     },
     {
-        "title": "Coronavirus updates: Global COVID-19 cases tops 16 million, was 15 million only 4 days ago",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
+        "title": "Infection surges force countries to curb European travel",
+        "link": "https://www.ft.com/content/584ee262-d539-40ca-b145-e42865f2bc6b"
     }
 ];
