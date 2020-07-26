@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Coronavirus cases hit 16 million worldwide: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
-    },
-    {
         "title": "July 25 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+    },
+    {
+        "title": "73,400 New Coronavirus Cases in U.S., Nearing Single-Day Record",
+        "link": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html"
     }
 ];

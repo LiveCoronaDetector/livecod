@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200726026551051?did=1195m"
     },
     {
+        "title": "코로나19 신규 확진자 58명… 해외 유입만 46명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072600381.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "정세균 총리 \"외국인 확진자 치료비 본인 부담 추진\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005901053&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "[속보] AFP \"전세계 코로나 누적 확진자 1600만명 돌파\"",
         "link": "https://www.hankyung.com/society/article/2020072693997"
     },
@@ -13,31 +21,23 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z5GBZWBX3"
     },
     {
-        "title": "丁총리 \"외국인 코로나 확진자, 치료비 본인 부담 추진\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/26/2020072601106.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "정세균 \"해외유입 외국인 코로나19 입원치료비 본인 부담\"",
-        "link": "http://www.fnnews.com/news/202007261542246428"
+        "title": "'코로나19' 신규 확진자 58명 발생…해외유입 46명·지역발생 12명",
+        "link": "http://www.inews24.com/view/1284968"
     },
     {
         "title": "중국 코로나19 다시 확산세…확진자 46명 증가",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005900613&plink=ORI&cooper=NAVER"
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4502816&ref=A"
     },
     {
-        "title": "AFP “전세계 코로나19 누적 확진자 1600만 명 돌파”",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000212985"
+        "title": "[종합] 코로나19 확진자 58명 증가...해외 46명 중 이라크 38명",
+        "link": "http://www.fnnews.com/news/202007261023201270"
     },
     {
-        "title": "[속보]'코로나19' 확진자 58명 추가…지역발생 12명, 해외유입 46명",
-        "link": "https://www.news1.kr/articles/?4007015"
+        "title": "'코로나19' 신규 확진 58명…지역 발생 12명",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5854756_32496.html"
     },
     {
         "title": "[전문] 창원시청 서울 송파구 확진자 동선공개",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=373158"
-    },
-    {
-        "title": "[속보] AFP “전 세계 코로나19 확진자 1,600만명 돌파”",
-        "link": "https://www.sedaily.com/NewsView/1Z5GCSWDYC"
     }
 ];

@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",
-        "link": "http://www.newsis.com/view/?id=NISX20200724_0001107099&cID=10813&pID=10800"
+        "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
+        "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
     {
-        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
-        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
+        "title": "제주 17번 확진자 방글라데시 유학생 퇴원…현재 7명 치료 중",
+        "link": "http://www.newsis.com/view/?id=NISX20200724_0001107099&cID=10813&pID=10800"
     }
 ];
