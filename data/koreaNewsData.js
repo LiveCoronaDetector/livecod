@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007261023201270"
     },
     {
+        "title": "[단독]두 달간 사망자 발생 속도 급감…'코로나19' 약해졌나",
+        "link": "https://www.news1.kr/articles/?4007330"
+    },
+    {
         "title": "정세균 \"외국인 치료비 이제 본인 부담 추진... 어제 확진자 100명 돌파\"",
         "link": "https://www.sedaily.com/NewsView/1Z5GCKLBFJ"
     },
     {
+        "title": "논산 70대 여성 코로나19로 숨져...충남서 확진자 첫 사망",
+        "link": "https://hankookilbo.com/News/Read/A2020072611020000147?did=NA"
+    },
+    {
         "title": "강남구 확진자, 롯데불한증막사우나 방문…서울 확진자 1571명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014843844&code=61121111&cp=nv"
-    },
-    {
-        "title": "일본, 코로나19 2차 확산에 재택근무 등 재차 요청",
-        "link": "http://yna.kr/AKR20200726052400073?did=1195m"
-    },
-    {
-        "title": "중국 코로나19 다시 확산세…확진자 46명 증가",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005900613&plink=ORI&cooper=NAVER"
     }
 ];

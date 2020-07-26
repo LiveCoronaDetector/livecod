@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "서울서 온 관광객에 코로나19 잇단 감염…휴가철 제주 방문객 급감 ‘울상’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007262106015&code=620117"
-    },
-    {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
+    },
+    {
+        "title": "서울서 온 관광객에 코로나19 잇단 감염…휴가철 제주 방문객 급감 ‘울상’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007262106015&code=620117"
     },
     {
         "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
