@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
-        "link": "https://www.dw.com/en/coronavirus-latest-thousands-of-israelis-protest-netanyahus-pandemic-response/a-54313704"
+        "title": "Thousands protest against Netanyahu in Jerusalem, 12 arrested",
+        "link": "https://www.jpost.com/israel-news/protesters-to-demonstrate-against-govt-policy-amid-coronavirus-pandemic-636297"
     },
     {
         "title": "Coronavirus: Spain drives fears of European 'second wave'",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "July 25 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
+        "title": "Highest daily coronavirus death toll in Australia: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
     },
     {
-        "title": "Coronavirus cases hit 16 million worldwide: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
+        "title": "July 25 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
     },
     {
         "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
