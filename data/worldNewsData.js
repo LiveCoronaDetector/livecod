@@ -2,11 +2,11 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Uganda, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/07/26/football/1595740250_688635.html"
+        "link": "https://news.google.com/articles/CBMiP2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDcvMjYvZm9vdGJhbGwvMTU5NTc0MDI1MF82ODg2MzUuaHRtbNIBQ2h0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDcvMjYvZm9vdGJhbGwvMTU5NTc0MDI1MF82ODg2MzUuYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "COVID-19 Cases Continue To Surge In States Across The U.S.",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
+        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
+        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
         "title": "Coronavirus latest: Thousands of Israelis protest Netanyahu's pandemic response",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
-        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
-    },
-    {
         "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
         "link": "https://www.youtube.com/watch?v=qXDa-ZQ56Wo"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+    },
+    {
+        "title": "These Elite Contact Tracers Show the World How to Beat Covid-19",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8fddbc90-cf48-11ea-abee-cb2548231b4c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yNS90aGVzZS1lbGl0ZS1jb250YWN0LXRyYWNlcnMtc2hvdy10aGUtd29ybGQtaG93LXRvLWJlYXQtY292aWQtMTk="
     }
 ];
