@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-25-20-intl/h_826ae359c30a1bdfbfa762c8112275ed"
     },
     {
+        "title": "Coronavirus cases hit 16 million worldwide: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
+    },
+    {
         "title": "Coronavirus pandemic: UK to quarantine travellers from Spain",
         "link": "https://www.youtube.com/watch?v=qXDa-ZQ56Wo"
     },
     {
         "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
         "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
-    },
-    {
-        "title": "These Elite Contact Tracers Show the World How to Beat Covid-19",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c5cc9c20-cf22-11ea-898e-938230a69379&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yNS90aGVzZS1lbGl0ZS1jb250YWN0LXRyYWNlcnMtc2hvdy10aGUtd29ybGQtaG93LXRvLWJlYXQtY292aWQtMTk="
     }
 ];
