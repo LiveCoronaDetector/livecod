@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
-        "title": "Coronavirus Live Updates: Moderna and N.I.H. Begin Vaccine Trial",
-        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
+        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
+        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
+    },
+    {
+        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
+        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
     },
     {
         "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus updates: COVID-19 'most severe' global health emergency ever, WHO says",
         "link": "https://abcnews.go.com/US/coronavirus-updates-nfl-players-contract-coronavirus-face-team/story?id=72004542"
-    },
-    {
-        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
-        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
     }
 ];
