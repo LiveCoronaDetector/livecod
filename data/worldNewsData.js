@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
-        "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
-        "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
-    },
-    {
         "title": "North Korea declares emergency over first reported COVID-19 case",
         "link": "https://www.youtube.com/watch?v=RdQnKq7Kn1w"
     },
     {
-        "title": "Dr. Deborah Birx discusses COVID-19 testing",
-        "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
+        "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
+        "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
     },
     {
         "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
         "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Latin America leads world in coronavirus cases, Reuters count shows",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-latin-america/latin-america-leads-world-in-coronavirus-cases-reuters-count-shows-idUSKCN24R0JL"
     }
 ];
