@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/kim-jong-un-finally-admits-coronavirus-is-in-north-korea"
     },
     {
+        "title": "India's PM says his country proved the world wrong with its handling of coronavirus",
+        "link": "https://www.msn.com/en-us/news/world/india-s-pm-says-his-country-proved-the-world-wrong-with-its-handling-of-coronavirus/ar-BB17dc9v"
+    },
+    {
         "title": "North Korea declares emergency over suspected Covid-19 case",
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
         "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
-    },
-    {
-        "title": "Coronavirus: Spain drives fears of European 'second wave'",
-        "link": "https://www.bbc.com/news/world-europe-53539015"
     }
 ];
