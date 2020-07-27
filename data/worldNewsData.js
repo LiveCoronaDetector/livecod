@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53520410"
     },
     {
-        "title": "Live updates: Deadline for coronavirus relief bill looms as millions face loss of benefits",
-        "link": "https://www.washingtonpost.com/nation/2020/07/27/coronavirus-covid-live-updates/"
+        "title": "Gold prices surge to record high amid coronavirus worries, U.S.-China tensions",
+        "link": "https://www.cnbc.com/2020/07/27/gold-prices-touch-record-high-amid-coronavirus-worries-us-china-tensions.html"
     },
     {
         "title": "Iran-made coronavirus medicine to hit shelves in 3 weeks, official says",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
     },
     {
-        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
-        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
+        "title": "Monday morning news briefing: Hancock tells nation to lose 5lbs",
+        "link": "https://www.telegraph.co.uk/news/2020/07/27/monday-morning-news-briefing-hancock-tells-nation-lose-5lbs/"
     },
     {
-        "title": "Latin America leads world in coronavirus cases, Reuters count shows",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-latin-america/latin-america-leads-world-in-coronavirus-cases-reuters-count-shows-idUSKCN24R0JL"
+        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     }
 ];
