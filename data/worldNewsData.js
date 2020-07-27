@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://apnews.com/ba586b6bebf961e999046a9dd28ab6fd"
     },
     {
-        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
-        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
+        "title": "COVID-19 Cases Continue To Surge In States Across The U.S.",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
     },
     {
-        "title": "Will a coronavirus vaccine be a ‘cure’ for the pandemic?",
-        "link": "https://www.jpost.com/israel-news/will-a-coronavirus-vaccine-be-a-cure-for-the-pandemic-636414"
+        "title": "Vitamin D helps the body fight coronavirus, major Israeli study claims",
+        "link": "https://www.timesofisrael.com/vitamin-d-helps-the-body-fight-coronavirus-major-israeli-study-claims/"
     },
     {
-        "title": "Spain Second Virus Wave Swells, Fuels Concern Across Europe",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=13add740-cf98-11ea-a033-ef0021d71e84&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yNi9zcGFpbi1zLXNlY29uZC12aXJ1cy13YXZlLXN3ZWxscy1mdWVsaW5nLWNvbmNlcm4tYWNyb3NzLWV1cm9wZQ=="
+        "title": "Luck? Genetics? Italian island spared from COVID outbreak",
+        "link": "https://apnews.com/e91b19c2d31d5021a7e8dcd55b50e08b"
     },
     {
         "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
     },
     {
-        "title": "Coronavirus: Spain drives fears of European 'second wave'",
-        "link": "https://www.bbc.com/news/world-europe-53539015"
-    },
-    {
         "title": "Covid-19 will permanently change the world's economy",
         "link": "https://www.cnn.com/2020/07/26/perspectives/sergio-rebelo-imf-covid-19-global-economy/index.html"
+    },
+    {
+        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
     }
 ];
