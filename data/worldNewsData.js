@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/26/asia/india-coronavirus-narendra-modi-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: US reports 5,000 deaths in five days as Australia sees record new cases",
-        "link": "https://www.theguardian.com/world/live/2020/jul/27/coronavirus-live-news-us-sees-5000-deaths-in-five-days-as-dr-birx-urges-some-states-to-close-bars"
+        "title": "Florida overtakes New York in coronavirus cases: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/korea-holds-emergency-meeting-coronavirus-live-updates-200725231145283.html"
     },
     {
         "title": "Modi to attend Hindu temple groundbreaking at disputed site",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Coronavirus updates: Global COVID-19 cases top 16 million, was 15 million only 4 days ago",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-26-20-intl/index.html"
     },
     {
         "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
