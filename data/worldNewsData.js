@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-26-20-intl/index.html"
+        "title": "Coronavirus updates: Global COVID-19 cases top 16 million, was 15 million only 4 days ago",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
     },
     {
         "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
