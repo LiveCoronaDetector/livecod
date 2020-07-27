@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02191046625838784"
     },
     {
-        "title": "QR코드 찍지도 않고 유흥주점 들어간 제주 26번 확진자 고발",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200727500090&wlog_tag3=naver"
-    },
-    {
         "title": "전남서 코로나19 37번째 확진자 발생…해외입국 40대 여성",
         "link": "http://www.fnnews.com/news/202007270943428752"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "트럼프, 안보보좌관 코로나 확진에 \"최근에 그 사람 안봐\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/07/28/2020072800375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "'트럼프 최측근' 오브라이언 국가안보보좌관 코로나19 확진",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002661990&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "[속보]서울시청 코로나19 확진자 23일까지 출입…청사 11층 폐쇄",

@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
     },
     {
-        "title": "Coronavirus updates: COVID-19 'most severe' global health emergency ever, WHO says",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-nfl-players-contract-coronavirus-face-team/story?id=72004542"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html"
     },
     {
-        "title": "Moderna CEO credits US support for Phase 3 vaccine push, says 'we have to make a profit'",
-        "link": "https://finance.yahoo.com/news/moderna-ceo-credits-us-support-for-phase-3-vaccine-push-151225197.html"
+        "title": "GOP Seeks to Cut $600 Weekly Jobless Aid by Two-Thirds: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
-        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
+        "title": "Coronavirus 'most severe health emergency' WHO has faced",
+        "link": "https://www.bbc.com/news/world-53557577"
     },
     {
         "title": "PM Modi to attend temple groundbreaking at disputed site",
