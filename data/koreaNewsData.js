@@ -13,16 +13,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200727129152004?did=1195m"
     },
     {
-        "title": "서울시청서 코로나19 확진자 1명 발생…1개층 폐쇄",
-        "link": "https://www.donga.com/news/article/all/20200727/102178544/2"
+        "title": "[속보]서울시청 코로나19 확진자 23일까지 출입…청사 11층 폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007271837001&code=940100"
     },
     {
         "title": "월북 탈북민, 코로나19 확진자·접촉자 분류된 바 없어",
         "link": "https://www.nocutnews.co.kr/news/5384908"
-    },
-    {
-        "title": "[속보]서울시청 코로나19 확진자 23일까지 출입…청사 11층 폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007271837001&code=940100"
     },
     {
         "title": "코로나19 하루 신규 확진자 25명…지역감염 9명·해외유입 16명",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "QR코드 찍지도 않고 유흥주점 들어간 제주 26번 확진자 고발",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200727500090&wlog_tag3=naver"
+    },
+    {
+        "title": "전남서 코로나19 37번째 확진자 발생…해외입국 40대 여성",
+        "link": "http://www.fnnews.com/news/202007270943428752"
     }
 ];

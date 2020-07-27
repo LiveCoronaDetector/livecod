@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html"
+    },
+    {
         "title": "PM Modi to attend temple groundbreaking at disputed site",
         "link": "https://www.tibetsun.com/news/2020/07/26/pm-modi-to-attend-temple-groundbreaking-at-disputed-site"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "The US has a fourth of global Covid-19 cases but some local leaders say they won't enforce mask mandates",
-        "link": "https://www.cnn.com/2020/07/27/health/us-coronavirus-monday/index.html"
-    },
-    {
-        "title": "Mainland China reports 61 new coronavirus cases, including 41 in Xinjiang",
-        "link": "https://www.youtube.com/watch?v=4K44rm1U4l4"
+        "title": "Latin America leads world in coronavirus cases, Reuters count shows",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-latin-america/latin-america-leads-world-in-coronavirus-cases-reuters-count-shows-idUSKCN24R0JL"
     }
 ];
