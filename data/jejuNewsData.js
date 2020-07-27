@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
-        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+        "title": "제주도 26번 확진자 출입명부 미작성 유흥업소 업주 고발",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "제주도, 확진자 다녀간 유흥주점 업주 고발",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=347874"
+        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
     },
     {
-        "title": "서울 광진발 코로나19 여파...청정 제주 '초비상'",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997228"
+        "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
+        "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     },
     {
-        "title": "코로나 제주 n차 감염에 숙박 수학여행 일정 전면 취소",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318310"
+        "title": "서울 광진발 코로나19 여파...청정 제주 '초비상'",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997228"
     }
 ];

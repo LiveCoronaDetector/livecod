@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "'No longer at a crossroads': S Africa's enduring COVID-19 battle",
-        "link": "https://news.google.com/articles/CAIiEF4ZgkoUk5FM5tFmeTIGrqIqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.aljazeera.com/news/2020/07/longer-crossroads-africa-enduring-covid-19-battle-200727060314872.html"
     },
     {
         "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/iran-made-coronavirus-medicine-to-hit-shelves-in-3-weeks-official-says-636416"
     },
     {
-        "title": "Coronavirus live news: Belgium set to tighten restrictions; China reports highest new cases since April",
+        "title": "Coronavirus live news: Belgium PM warns country could go into second 'complete lockdown'",
         "link": "https://www.theguardian.com/world/live/2020/jul/27/coronavirus-live-news-us-sees-5000-deaths-in-five-days-as-dr-birx-urges-some-states-to-close-bars"
     },
     {
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
-        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
-        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
+        "title": "COVID-19 vaccine trials enter new phase in US l GMA",
+        "link": "https://www.youtube.com/watch?v=0793ssZH6hE"
     },
     {
         "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
     },
     {
-        "title": "North Korea declares emergency over suspected Covid-19 case",
-        "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
+        "title": "Coronavirus Live Updates: Moderna and N.I.H. Begin Vaccine Trial",
+        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
     }
 ];
