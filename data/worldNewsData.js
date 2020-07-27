@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "'No longer at a crossroads': S Africa's enduring COVID-19 battle",
-        "link": "https://www.aljazeera.com/news/2020/07/longer-crossroads-africa-enduring-covid-19-battle-200727060314872.html"
+        "link": "https://news.google.com/articles/CAIiEF4ZgkoUk5FM5tFmeTIGrqIqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
-        "title": "First Phase 3 clinical trial of a coronavirus vaccine in the United States begins",
-        "link": "https://www.cnn.com/2020/07/27/health/coronavirus-vaccine-trial-begins-moderna-phase-3/index.html"
+        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
+        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     },
     {
         "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
     },
     {
-        "title": "The world's hopes for a coronavirus vaccine may run in these health care workers' veins",
-        "link": "https://www.cnn.com/2020/07/27/americas/brazil-covid-19-sinovac-vaccine-intl/index.html"
+        "title": "North Korea declares emergency over suspected Covid-19 case",
+        "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     }
 ];
