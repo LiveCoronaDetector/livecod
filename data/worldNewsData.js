@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus Live Updates: Moderna and N.I.H. Begin Vaccine Trial",
-        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "Coronavirus updates: COVID-19 'most severe' global health emergency ever, WHO says",
         "link": "https://abcnews.go.com/US/coronavirus-updates-nfl-players-contract-coronavirus-face-team/story?id=72004542"
     },
     {
         "title": "PM Modi to attend temple groundbreaking at disputed site",
         "link": "https://www.tibetsun.com/news/2020/07/26/pm-modi-to-attend-temple-groundbreaking-at-disputed-site"
+    },
+    {
+        "title": "US NSA Robert O'Brien tests positive for coronavirus",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-nsa-robert-obrien-tests-positive-for-coronavirus/articleshow/77202104.cms"
+    },
+    {
+        "title": "The world's hopes for a coronavirus vaccine may run in these health care workers' veins",
+        "link": "https://www.cnn.com/2020/07/27/americas/brazil-covid-19-sinovac-vaccine-intl/index.html"
     }
 ];

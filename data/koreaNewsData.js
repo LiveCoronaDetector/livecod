@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0104_202007272303281881"
     },
     {
+        "title": "트럼프, 안보보좌관 코로나 확진에 \"최근에 그 사람 안봐\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/28/2020072800375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "[속보]서울시청 코로나19 확진자 23일까지 출입…청사 11층 폐쇄",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007271837001&code=940100"
     },
     {
         "title": "日 코로나 19 신규확진 565명… 누적 3만2000명 달해",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/27/2020072703805.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "월북 탈북민, 코로나19 확진자·접촉자 분류된 바 없어",
-        "link": "https://www.nocutnews.co.kr/news/5384908"
     }
 ];
