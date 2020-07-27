@@ -140,7 +140,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 207043,
+        "확진자수": 207071,
         "사망자수": 9203,
         "완치자수": 190600
     },
@@ -921,6 +921,14 @@ var marker = [
         "완치자수": 2349
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "확진자수": 2316,
+        "사망자수": 34,
+        "완치자수": 1025
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -935,14 +943,6 @@ var marker = [
         "확진자수": 2305,
         "사망자수": 46,
         "완치자수": 1175
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "확진자수": 2207,
-        "사망자수": 32,
-        "완치자수": 986
     },
     {
         "Name": "슬로바키아",
@@ -1025,20 +1025,20 @@ var marker = [
         "완치자수": 1036
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "확진자수": 1701,
+        "사망자수": 11,
+        "완치자수": 596
+    },
+    {
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
         "확진자수": 1681,
         "사망자수": 479,
         "완치자수": 797
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "확진자수": 1669,
-        "사망자수": 11,
-        "완치자수": 593
     },
     {
         "Name": "New Zealand",

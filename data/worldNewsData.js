@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/US/coronavirus-updates-nfl-players-contract-coronavirus-face-team/story?id=72004542"
     },
     {
-        "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
-        "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
+        "title": "Coronavirus Live Updates: Moderna and N.I.H. Begin Vaccine Trial",
+        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
     }
 ];
