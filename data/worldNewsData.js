@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html"
-    },
-    {
         "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
         "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
     },
     {
         "title": "Coronavirus updates: COVID-19 'most severe' global health emergency ever, WHO says",
         "link": "https://abcnews.go.com/US/coronavirus-updates-nfl-players-contract-coronavirus-face-team/story?id=72004542"
+    },
+    {
+        "title": "Coronavirus Live Updates: Moderna and N.I.H. Begin Vaccine Trial",
+        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
     }
 ];

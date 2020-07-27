@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200727057400056?did=1195m"
     },
     {
+        "title": "QR코드 안찍고 유흥주점 출입 26번 확진자 고발",
+        "link": "http://www.ihalla.com/read.php3?aid=1595813219688418079"
+    },
+    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
         "link": "http://yna.kr/AKR20200720159200056?did=1195m"
-    },
-    {
-        "title": "서울 광진발 코로나19 여파...청정 제주 '초비상'",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997228"
     }
 ];
