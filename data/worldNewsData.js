@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/longer-crossroads-africa-enduring-covid-19-battle-200727060314872.html"
     },
     {
-        "title": "First Phase 3 clinical trial of a coronavirus vaccine in the United States begins",
-        "link": "https://www.cnn.com/2020/07/27/health/coronavirus-vaccine-trial-begins-moderna-phase-3/index.html"
+        "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
+        "link": "https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html"
     },
     {
         "title": "Iran-made coronavirus medicine to hit shelves in 3 weeks, official says",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/27/coronavirus-live-news-us-sees-5000-deaths-in-five-days-as-dr-birx-urges-some-states-to-close-bars"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html"
+        "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
+        "link": "https://www.cnn.com/2020/07/26/asia/india-coronavirus-narendra-modi-intl/index.html"
     },
     {
         "title": "China reports highest daily domestic coronavirus infections since March",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     },
     {
-        "title": "North Korea declares emergency over suspected Covid-19 case",
-        "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
+        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
+        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
     },
     {
-        "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
-        "link": "https://www.cnn.com/2020/07/26/asia/india-coronavirus-narendra-modi-intl/index.html"
+        "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
+        "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
     }
 ];
