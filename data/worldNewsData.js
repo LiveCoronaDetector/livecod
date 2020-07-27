@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.tibetsun.com/news/2020/07/26/pm-modi-to-attend-temple-groundbreaking-at-disputed-site"
     },
     {
-        "title": "The US has a fourth of global Covid-19 cases but some local leaders say they won't enforce mask mandates",
-        "link": "https://www.cnn.com/2020/07/27/health/us-coronavirus-monday/index.html"
-    },
-    {
         "title": "North Korea declares emergency over suspected Covid-19 case",
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Global COVID-19 cases top 16 million, was 15 million only 4 days ago",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
+        "title": "The US has a fourth of global Covid-19 cases but some local leaders say they won't enforce mask mandates",
+        "link": "https://www.cnn.com/2020/07/27/health/us-coronavirus-monday/index.html"
+    },
+    {
+        "title": "Mainland China reports 61 new coronavirus cases, including 41 in Xinjiang",
+        "link": "https://www.youtube.com/watch?v=4K44rm1U4l4"
     }
 ];
