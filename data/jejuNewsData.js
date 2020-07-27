@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007262106015&code=620117"
     },
     {
-        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
+        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
+        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     }
 ];

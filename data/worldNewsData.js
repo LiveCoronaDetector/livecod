@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://apnews.com/ba586b6bebf961e999046a9dd28ab6fd"
     },
     {
-        "title": "COVID-19 Cases Continue To Surge In States Across The U.S.",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s"
+        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
         "title": "Vitamin D helps the body fight coronavirus, major Israeli study claims",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/26/asia/india-coronavirus-narendra-modi-intl/index.html"
     },
     {
+        "title": "Kim Jong Un Finally Admits Coronavirus is in North Korea",
+        "link": "https://www.thedailybeast.com/kim-jong-un-finally-admits-coronavirus-is-in-north-korea"
+    },
+    {
         "title": "North Korea declares emergency over suspected Covid-19 case",
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Coronavirus updates: Global COVID-19 cases top 16 million, was 15 million only 4 days ago",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
+        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
+        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
     },
     {
         "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
         "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
     },
     {
-        "title": "Covid-19 will permanently change the world's economy",
-        "link": "https://www.cnn.com/2020/07/26/perspectives/sergio-rebelo-imf-covid-19-global-economy/index.html"
-    },
-    {
-        "title": "Record numbers of coronavirus cases in every global region: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-cases/record-numbers-of-coronavirus-cases-in-every-global-region-reuters-tally-idUSKCN24Q08E"
+        "title": "Coronavirus: Spain drives fears of European 'second wave'",
+        "link": "https://www.bbc.com/news/world-europe-53539015"
     }
 ];
