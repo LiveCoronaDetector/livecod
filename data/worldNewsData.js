@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
-        "title": "North Korea declares emergency over first reported COVID-19 case",
-        "link": "https://www.youtube.com/watch?v=RdQnKq7Kn1w"
-    },
-    {
-        "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
-        "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
+        "title": "PM Modi to attend temple groundbreaking at disputed site",
+        "link": "https://www.tibetsun.com/news/2020/07/26/pm-modi-to-attend-temple-groundbreaking-at-disputed-site"
     },
     {
         "title": "Monday morning news briefing: Hancock tells nation to lose 5lbs",
         "link": "https://www.telegraph.co.uk/news/2020/07/27/monday-morning-news-briefing-hancock-tells-nation-lose-5lbs/"
     },
     {
-        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
-        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
+        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
+        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "North Korea declares emergency over suspected Covid-19 case",
+        "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     }
 ];
