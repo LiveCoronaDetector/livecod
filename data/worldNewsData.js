@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/iran-made-coronavirus-medicine-to-hit-shelves-in-3-weeks-official-says-636416"
     },
     {
-        "title": "Coronavirus live news: China reports highest new cases since April; Australia sees record daily infections",
+        "title": "Coronavirus live news: Belgium set to tighten restrictions; China reports highest new cases since April",
         "link": "https://www.theguardian.com/world/live/2020/jul/27/coronavirus-live-news-us-sees-5000-deaths-in-five-days-as-dr-birx-urges-some-states-to-close-bars"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.tibetsun.com/news/2020/07/26/pm-modi-to-attend-temple-groundbreaking-at-disputed-site"
     },
     {
-        "title": "Monday morning news briefing: Hancock tells nation to lose 5lbs",
-        "link": "https://www.telegraph.co.uk/news/2020/07/27/monday-morning-news-briefing-hancock-tells-nation-lose-5lbs/"
-    },
-    {
-        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
-        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+        "title": "The US has a fourth of global Covid-19 cases but some local leaders say they won't enforce mask mandates",
+        "link": "https://www.cnn.com/2020/07/27/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "North Korea declares emergency over suspected Covid-19 case",
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
+    },
+    {
+        "title": "Global COVID-19 cases top 16 million, was 15 million only 4 days ago",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
     }
 ];
