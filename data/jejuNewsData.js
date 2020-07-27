@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "서울 광진구 20번 확진자 관련 추가 확진 없어",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2168458"
-    },
-    {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
+    },
+    {
+        "title": "서울 광진구 20번 확진자 관련 추가 확진 없어",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2168458"
     }
 ];
