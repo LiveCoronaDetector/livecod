@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/longer-crossroads-africa-enduring-covid-19-battle-200727060314872.html"
     },
     {
-        "title": "Hundreds of Japanese workers on US bases tested for coronavirus",
-        "link": "https://www.cnn.com/2020/07/27/asia/coronavirus-us-military-bases-okinawa-intl-hnk-scli/index.html"
+        "title": "First Phase 3 clinical trial of a coronavirus vaccine in the United States begins",
+        "link": "https://www.cnn.com/2020/07/27/health/coronavirus-vaccine-trial-begins-moderna-phase-3/index.html"
     },
     {
         "title": "Iran-made coronavirus medicine to hit shelves in 3 weeks, official says",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Spc73DTs8io"
     },
     {
-        "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
-        "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
-    },
-    {
         "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
         "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     },
     {
         "title": "North Korea declares emergency over suspected Covid-19 case",
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
+    },
+    {
+        "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
+        "link": "https://www.cnn.com/2020/07/26/asia/india-coronavirus-narendra-modi-intl/index.html"
     }
 ];
