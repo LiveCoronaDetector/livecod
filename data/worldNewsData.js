@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/26/asia/india-coronavirus-narendra-modi-intl/index.html"
     },
     {
-        "title": "China reports highest daily domestic coronavirus infections since March",
-        "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
+        "title": "Coronavirus: Vietnam alarm after first cases in months",
+        "link": "https://www.bbc.com/news/world-asia-53549809"
     },
     {
         "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
         "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
     },
     {
-        "title": "Dr. Deborah Birx discusses COVID-19 testing",
-        "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
+        "title": "Hong Kong extends restrictions as coronavirus cases surge: Live",
+        "link": "https://www.aljazeera.com/news/2020/07/morocco-returns-partial-coronavirus-lockdown-live-updates-200726222443290.html"
+    },
+    {
+        "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+        "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
         "title": "North Korea declares emergency over first reported COVID-19 case",
         "link": "https://www.youtube.com/watch?v=RdQnKq7Kn1w"
-    },
-    {
-        "title": "Coronavirus updates: Global COVID-19 cases top 16 million, was 15 million only 4 days ago",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
     }
 ];
