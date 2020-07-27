@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5854756_32496.html"
     },
     {
-        "title": "정총리 \"외국인확진자 치료비 본인부담 추진\"",
-        "link": "http://yna.kr/AKR20200726034500001?did=1195m"
+        "title": "[속보] 정부서울청사 3층 폐쇄 해제...확진자의 접촉자 모두 '음성'",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007270838001&code=940100"
     },
     {
-        "title": "정부서울청사 3층 코로나19 확진자의 접촉자 57명 모두 ‘음성’",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01685926625838784"
+        "title": "정총리 \"외국인확진자 치료비 본인부담 추진\"",
+        "link": "http://yna.kr/AKR20200726034500001?did=1195m"
     },
     {
         "title": "[단독]두 달간 사망자 발생 속도 급감…'코로나19' 약해졌나",
@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020072693997"
     },
     {
-        "title": "7월 확진자 755명이 외국인…'공짜치료' 안 해준다",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020072617335194152"
-    },
-    {
         "title": "어제 코로나19 신규확진 58명… 국내 12명·해외유입 46명",
         "link": "http://www.kwnews.co.kr/view.asp?aid=220072500000&s=501"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "일본 신규 확진자 825명…도쿄 6일째 200명대",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200727500001&wlog_tag3=naver"
+    },
+    {
+        "title": "7월 확진자 755명이 외국인…'공짜치료' 안 해준다",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020072617335194152"
     }
 ];

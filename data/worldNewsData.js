@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Vitamin D helps the body fight coronavirus, major Israeli study claims",
-        "link": "https://www.timesofisrael.com/vitamin-d-helps-the-body-fight-coronavirus-major-israeli-study-claims/"
+        "title": "Iran-made coronavirus medicine to hit shelves in 3 weeks, official says",
+        "link": "https://www.jpost.com/health-science/iran-made-coronavirus-medicine-to-hit-shelves-in-3-weeks-official-says-636416"
     },
     {
         "title": "Luck? Genetics? Italian island spared from COVID outbreak",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week",
-        "link": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html"
+        "title": "Dr. Deborah Birx discusses COVID-19 testing",
+        "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
     },
     {
         "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",
         "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
     },
     {
-        "title": "Coronavirus: Spain drives fears of European 'second wave'",
-        "link": "https://www.bbc.com/news/world-europe-53539015"
+        "title": "Spain Second Virus Wave Swells And Fuels Concern Across Europe",
+        "link": "https://www.youtube.com/watch?v=eNdGZTA35NE"
     }
 ];
