@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/iran-made-coronavirus-medicine-to-hit-shelves-in-3-weeks-official-says-636416"
     },
     {
-        "title": "Italy's Giglio Island sees zero residents with coronavirus: 'Nobody is sick'",
-        "link": "https://www.foxnews.com/world/italy-giglio-island-coronavirus-no-cases-residents"
+        "title": "Coronavirus live news: China reports highest new cases since April; Australia sees record daily infections",
+        "link": "https://www.theguardian.com/world/live/2020/jul/27/coronavirus-live-news-us-sees-5000-deaths-in-five-days-as-dr-birx-urges-some-states-to-close-bars"
     },
     {
         "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
     },
     {
+        "title": "Dr. Deborah Birx discusses COVID-19 testing",
+        "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
+    },
+    {
+        "title": "North Korea declares emergency over first reported COVID-19 case",
+        "link": "https://www.youtube.com/watch?v=RdQnKq7Kn1w"
+    },
+    {
         "title": "Coronavirus updates: Global COVID-19 cases top 16 million, was 15 million only 4 days ago",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
-    },
-    {
-        "title": "North Korea declares emergency over suspected Covid-19 case",
-        "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
-    },
-    {
-        "title": "Latin America leads world in coronavirus cases, Reuters count shows",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-latin-america/latin-america-leads-world-in-coronavirus-cases-reuters-count-shows-idUSKCN24R0JL"
     }
 ];

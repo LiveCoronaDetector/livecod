@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007270943428752"
     },
     {
-        "title": "월북 탈북민, 코로나19 확진자·접촉자 분류된 바 없어",
-        "link": "https://www.nocutnews.co.kr/news/5384908"
-    },
-    {
-        "title": "[속보] 정부서울청사 3층 폐쇄 해제...확진자의 접촉자 모두 '음성'",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007270838001&code=940100"
+        "title": "\"코로나19 검사서 석연치 않은 결과\" 北 주장에 방역당국 \"확진자 명단에 없어...",
+        "link": "https://www.sedaily.com/NewsView/1Z5GT39I9O"
     },
     {
         "title": "코로나19 하루 신규 확진자 25명…지역감염 9명·해외유입 16명",
         "link": "http://www.dongascience.com/news/view/38485"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 27명···국내 발생 9명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007271018001&code=940601"
+    },
+    {
         "title": "QR코드 찍지도 않고 유흥주점 들어간 제주 26번 확진자 고발",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200727500090&wlog_tag3=naver"
     },
     {
-        "title": "[단독]두 달간 사망자 발생 속도 급감…'코로나19' 약해졌나",
-        "link": "https://www.news1.kr/articles/?4007330"
-    },
-    {
-        "title": "[속보]대구시 \"코로나19 지역발생 24일째 '0명'\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020072710243074675"
+        "title": "[속보] 코로나 확진자 25명 추가… 해외유입 16명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/07/27/2020072701632.html"
     },
     {
         "title": "코로나19 신규확진자 25명…지역발생 4일 연속 줄어",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000990935?division=NAVER"
     },
     {
-        "title": "[전문] 관악구청 141번째 확진자 발생과 성동구 확진자 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373274"
+        "title": "[종합] 코로나19 확진자 2주간 해외유입 62.6%...진단검사 2회로 확대",
+        "link": "http://www.fnnews.com/news/202007271411194300"
+    },
+    {
+        "title": "[속보] 정부서울청사 3층 폐쇄 해제...확진자의 접촉자 모두 '음성'",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007270838001&code=940100"
     }
 ];
