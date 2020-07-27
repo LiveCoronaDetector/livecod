@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Vitamin D helps the body fight coronavirus, major Israeli study claims",
-        "link": "https://www.timesofisrael.com/vitamin-d-helps-the-body-fight-coronavirus-major-israeli-study-claims/"
+        "title": "Iran-made coronavirus medicine to hit shelves in 3 weeks, official says",
+        "link": "https://www.jpost.com/health-science/iran-made-coronavirus-medicine-to-hit-shelves-in-3-weeks-official-says-636416"
     },
     {
         "title": "Luck? Genetics? Italian island spared from COVID outbreak",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/26/asia/india-coronavirus-narendra-modi-intl/index.html"
     },
     {
-        "title": "Kim Jong Un Finally Admits Coronavirus is in North Korea",
-        "link": "https://www.thedailybeast.com/kim-jong-un-finally-admits-coronavirus-is-in-north-korea"
+        "title": "Coronavirus live news: US reports 5,000 deaths in five days as Australia sees record new cases",
+        "link": "https://www.theguardian.com/world/live/2020/jul/27/coronavirus-live-news-us-sees-5000-deaths-in-five-days-as-dr-birx-urges-some-states-to-close-bars"
     },
     {
         "title": "India's PM says his country proved the world wrong with its handling of coronavirus",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Dr. Deborah Birx discusses COVID-19 testing",
-        "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
+        "title": "Coronavirus updates: Global COVID-19 cases top 16 million, was 15 million only 4 days ago",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-covid-19-cases-tops-16/story?id=71993534"
     },
     {
         "title": "Texas hospital forced to set up 'death panel' as Covid-19 cases surge",

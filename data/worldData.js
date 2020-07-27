@@ -1441,6 +1441,14 @@ var marker = [
         "완치자수": 104
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "확진자수": 114,
+        "사망자수": 15,
+        "완치자수": 63
+    },
+    {
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
@@ -1463,14 +1471,6 @@ var marker = [
         "확진자수": 97,
         "사망자수": 2,
         "완치자수": 35
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 93,
-        "사망자수": 15,
-        "완치자수": 63
     },
     {
         "Name": "부탄",
