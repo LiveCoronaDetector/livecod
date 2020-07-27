@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/iran-made-coronavirus-medicine-to-hit-shelves-in-3-weeks-official-says-636416"
     },
     {
-        "title": "Slowly, Italy Is Waking From the Coronavirus Nightmare",
-        "link": "https://www.nytimes.com/2020/07/27/opinion/italy-coronavirus.html"
+        "title": "Spain quarantine: coronavirus is now ruining summer vacation plans",
+        "link": "https://www.cnn.com/travel/article/summer-vacations-spain-quarantine-gbr-intl/index.html"
     },
     {
         "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
