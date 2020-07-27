@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/iran-made-coronavirus-medicine-to-hit-shelves-in-3-weeks-official-says-636416"
     },
     {
-        "title": "Coronavirus live news: Belgium PM warns country could go into second 'complete lockdown'",
-        "link": "https://www.theguardian.com/world/live/2020/jul/27/coronavirus-live-news-us-sees-5000-deaths-in-five-days-as-dr-birx-urges-some-states-to-close-bars"
+        "title": "Slowly, Italy Is Waking From the Coronavirus Nightmare",
+        "link": "https://www.nytimes.com/2020/07/27/opinion/italy-coronavirus.html"
     },
     {
         "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
-        "title": "COVID-19 vaccine trials enter new phase in US l GMA",
-        "link": "https://www.youtube.com/watch?v=0793ssZH6hE"
+        "title": "Moderna co-founder speaks out on vaccine trial",
+        "link": "https://www.youtube.com/watch?v=4d3qFBIaX-s"
     },
     {
         "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
