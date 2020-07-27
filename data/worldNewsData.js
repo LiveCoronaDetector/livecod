@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
-        "title": "White House responds to Indiana Mask Mandate",
-        "link": "https://www.youtube.com/watch?v=Spc73DTs8io"
-    },
-    {
-        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
-        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
+        "title": "First Phase 3 clinical trial of a coronavirus vaccine in the United States begins",
+        "link": "https://www.cnn.com/2020/07/27/health/coronavirus-vaccine-trial-begins-moderna-phase-3/index.html"
     },
     {
         "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
         "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
+    },
+    {
+        "title": "The world's hopes for a coronavirus vaccine may run in these health care workers' veins",
+        "link": "https://www.cnn.com/2020/07/27/americas/brazil-covid-19-sinovac-vaccine-intl/index.html"
     }
 ];
