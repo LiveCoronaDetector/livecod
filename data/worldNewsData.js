@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus updates: COVID-19 'most severe' global health emergency ever, WHO says",
         "link": "https://abcnews.go.com/US/coronavirus-updates-nfl-players-contract-coronavirus-face-team/story?id=72004542"
     },
     {
-        "title": "The world's hopes for a coronavirus vaccine may run in these health care workers' veins",
-        "link": "https://www.cnn.com/2020/07/27/americas/brazil-covid-19-sinovac-vaccine-intl/index.html"
+        "title": "Moderna CEO credits US support for Phase 3 vaccine push, says 'we have to make a profit'",
+        "link": "https://finance.yahoo.com/news/moderna-ceo-credits-us-support-for-phase-3-vaccine-push-151225197.html"
     },
     {
         "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
         "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
+    },
+    {
+        "title": "PM Modi to attend temple groundbreaking at disputed site",
+        "link": "https://www.tibetsun.com/news/2020/07/26/pm-modi-to-attend-temple-groundbreaking-at-disputed-site"
     }
 ];
