@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
-        "title": "Moderna co-founder speaks out on vaccine trial",
-        "link": "https://www.youtube.com/watch?v=4d3qFBIaX-s"
-    },
-    {
-        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
-        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
+        "title": "Coronavirus Live Updates: Moderna and N.I.H. Begin Vaccine Trial",
+        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
     },
     {
         "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
         "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
     },
     {
-        "title": "Coronavirus Live Updates: Moderna and N.I.H. Begin Vaccine Trial",
-        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
+        "title": "Coronavirus updates: COVID-19 'most severe' global health emergency ever, WHO says",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-nfl-players-contract-coronavirus-face-team/story?id=72004542"
+    },
+    {
+        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
+        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
     }
 ];
