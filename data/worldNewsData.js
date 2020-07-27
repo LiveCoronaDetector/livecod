@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/27/gold-prices-touch-record-high-amid-coronavirus-worries-us-china-tensions.html"
     },
     {
-        "title": "Iran-made coronavirus medicine to hit shelves in 3 weeks, official says",
-        "link": "https://www.jpost.com/health-science/iran-made-coronavirus-medicine-to-hit-shelves-in-3-weeks-official-says-636416"
+        "title": "Will a coronavirus vaccine be a ‘cure’ for the pandemic?",
+        "link": "https://www.jpost.com/israel-news/will-a-coronavirus-vaccine-be-a-cure-for-the-pandemic-636414"
     },
     {
         "title": "Coronavirus live news: Belgium set to tighten restrictions; China reports highest new cases since April",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-reports-highest-daily-domestic-coronavirus-infections-since-march"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html"
+        "title": "Dr. Deborah Birx discusses COVID-19 testing",
+        "link": "https://www.youtube.com/watch?v=mwcHsQ2Hjsg"
     },
     {
         "title": "PM Modi to attend temple groundbreaking at disputed site",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19"
     },
     {
-        "title": "Latin America leads world in coronavirus cases, Reuters count shows",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-latin-america/latin-america-leads-world-in-coronavirus-cases-reuters-count-shows-idUSKCN24R0JL"
+        "title": "Coronavirus updates: Global COVID-19 cases top 16 million, was 15 million only 4 days ago",
+        "link": "https://www.yahoo.com/gma/coronavirus-updates-global-covid-19-cases-tops-16-092706453--abc-news-topstories.html"
     }
 ];

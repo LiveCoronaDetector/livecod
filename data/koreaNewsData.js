@@ -13,6 +13,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200727129152004?did=1195m"
     },
     {
+        "title": "[속보] 정부서울청사 3층 폐쇄 해제...확진자의 접촉자 모두 '음성'",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007270838001&code=940100"
+    },
+    {
+        "title": "전남서 코로나19 37번째 확진자 발생…해외입국 40대 여성",
+        "link": "http://www.fnnews.com/news/202007270943428752"
+    },
+    {
         "title": "[속보]서울시청 코로나19 확진자 23일까지 출입…청사 11층 폐쇄",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007271837001&code=940100"
     },
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://www.dongascience.com/news/view/38485"
     },
     {
-        "title": "[종합] 코로나19 확진자 2주간 해외유입 62.6%...진단검사 2회로 확대",
-        "link": "http://www.fnnews.com/news/202007271411194300"
+        "title": "서울시청서 코로나19 확진자 1명 발생…1개층 폐쇄",
+        "link": "https://www.donga.com/news/article/all/20200727/102178544/2"
     },
     {
-        "title": "[속보] 정부서울청사 3층 폐쇄 해제...확진자의 접촉자 모두 '음성'",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007270838001&code=940100"
-    },
-    {
-        "title": "QR코드 찍지도 않고 유흥주점 들어간 제주 26번 확진자 고발",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200727500090&wlog_tag3=naver"
-    },
-    {
-        "title": "전남서 코로나19 37번째 확진자 발생…해외입국 40대 여성",
-        "link": "http://www.fnnews.com/news/202007270943428752"
+        "title": "서울시청 코로나19 확진자 발생... 11층 폐쇄",
+        "link": "https://hankookilbo.com/News/Read/A2020072716540002493?did=NA"
     }
 ];
