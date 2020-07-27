@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html"
     },
     {
-        "title": "Iran-made coronavirus medicine to hit shelves in 3 weeks, official says",
-        "link": "https://www.jpost.com/health-science/iran-made-coronavirus-medicine-to-hit-shelves-in-3-weeks-official-says-636416"
+        "title": "Vitamin D helps the body fight coronavirus, major Israeli study claims",
+        "link": "https://www.timesofisrael.com/vitamin-d-helps-the-body-fight-coronavirus-major-israeli-study-claims/"
     },
     {
         "title": "Luck? Genetics? Italian island spared from COVID outbreak",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/26/covid-19-death-panels-starr-county-hospital-texas"
     },
     {
-        "title": "Spain Second Virus Wave Swells And Fuels Concern Across Europe",
-        "link": "https://www.youtube.com/watch?v=eNdGZTA35NE"
+        "title": "Coronavirus: Spain drives fears of European 'second wave'",
+        "link": "https://www.bbc.com/news/world-europe-53539015"
     }
 ];
