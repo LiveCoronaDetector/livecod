@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Brazil's Bolsonaro Is Accused Of Crime Against Humanity Over Coronavirus 'Neglect'",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/27/895940087/brazils-bolsonaro-is-accused-of-crime-against-humanity-over-coronavirus-neglect"
+        "title": "Social media giants remove viral video with false coronavirus claims that Trump retweeted",
+        "link": "https://www.cnn.com/2020/07/28/tech/facebook-youtube-coronavirus/index.html"
     },
     {
         "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/months-experts-india-coronavirus-crisis-200727091515912.html"
     },
     {
-        "title": "Red flag raised about ‘negative consequences’ of China’s virus stimulus",
-        "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
+        "title": "Even countries that got coronavirus under control are now struggling. That's deeply concerning for the rest of the world",
+        "link": "https://www.cnn.com/2020/07/28/asia/coronavirus-hong-kong-vietnam-china-intl-hnk/index.html"
     },
     {
         "title": "Live Coronavirus News Updates and Analysis",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
         "link": "https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html"
+    },
+    {
+        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
+        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     }
 ];

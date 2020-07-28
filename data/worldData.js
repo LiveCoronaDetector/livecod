@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 4435826,
-        "사망자수": 150528,
-        "완치자수": 2137986
+        "확진자수": 4445146,
+        "사망자수": 150713,
+        "완치자수": 2138596
     },
     {
         "Name": "브라질",
@@ -326,7 +326,7 @@ var marker = [
         "Name_en": "Singapore",
         "확진자수": 51197,
         "사망자수": 27,
-        "완치자수": 45692
+        "완치자수": 45893
     },
     {
         "Name": "포르투갈",
@@ -737,6 +737,22 @@ var marker = [
         "완치자수": 4977
     },
     {
+        "Name": "Zambia",
+        "Name_ch": "",
+        "Name_en": "Zambia",
+        "확진자수": 5002,
+        "사망자수": 142,
+        "완치자수": 3195
+    },
+    {
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "확진자수": 4997,
+        "사망자수": 148,
+        "완치자수": 2789
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
@@ -745,28 +761,12 @@ var marker = [
         "완치자수": 4034
     },
     {
-        "Name": "Albania",
-        "Name_ch": "",
-        "Name_en": "Albania",
-        "확진자수": 4880,
-        "사망자수": 144,
-        "완치자수": 2745
-    },
-    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
         "확진자수": 4599,
         "사망자수": 59,
         "완치자수": 1546
-    },
-    {
-        "Name": "Zambia",
-        "Name_ch": "",
-        "Name_en": "Zambia",
-        "확진자수": 4552,
-        "사망자수": 140,
-        "완치자수": 2815
     },
     {
         "Name": "Paraguay",
@@ -1500,7 +1500,7 @@ var marker = [
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "확진자수": 62,
+        "확진자수": 63,
         "사망자수": 0,
         "완치자수": 11
     },

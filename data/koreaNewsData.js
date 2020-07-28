@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200728134551061?did=1195m"
     },
     {
-        "title": "[속보] 여행장려 하더니…日 하루 확진자 1000명 육박 '비상'",
-        "link": "https://www.hankyung.com/international/article/2020072886587"
+        "title": "“코로나 계절 안 탄다”…한여름에도 겨울에도 확진자 속출",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200728500198&wlog_tag3=naver"
     },
     {
         "title": "\"코로나19로 인생 계획이 무너졌다\"",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007281123537935"
     },
     {
-        "title": "러시아 코로나19 신규확진 9일째 5천명대…누적 82만명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200728150251080?did=1195m"
+        "title": "국내 코로나19 신규 확진 28명…해외 유입 23명·국내 발생 5명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4504269&ref=A"
     }
 ];
