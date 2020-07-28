@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220072700144"
     },
     {
+        "title": "트럼프, 안보보좌관 코로나 확진에 \"최근에 그 사람 안봐\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/28/2020072800375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "<10문10답>전세계 ‘코로나 백신 개발’ 현황·전망",
         "link": "http://www.munhwa.com/news/view.html?no=2020072801031739346001"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "검찰, '코로나 방역 방해' 신천지 이만희 구속영장 청구(종합)",
         "link": "http://yna.kr/AKR20200728134551061?did=1195m"
-    },
-    {
-        "title": "\"코로나19로 인생 계획이 무너졌다\"",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002661874&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
