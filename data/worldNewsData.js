@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Fauci warns Tennessee and others to stem coronavirus trends, saying 'we just can't afford' another surge",
-        "link": "https://www.cnn.com/2020/07/28/health/us-coronavirus-tuesday/index.html"
+        "title": "‘Red Zone’ List Has Grown to 21 States, According to Report: Live Updates",
+        "link": "https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Live updates: Israel's coronavirus czar unveils new plan to curb resurgence",
-        "link": "https://www.haaretz.com/israel-news/.premium-live-updates-israel-s-coronavirus-czar-unveils-new-plan-to-curb-resurgence-1.9027637"
+        "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
+        "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
     },
     {
         "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/north-korea-coronavirus-scare"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
-    },
-    {
         "title": "German police dig up garden in Madeleine McCann investigation",
         "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/eu-countries-sanction-china-over-hong-kong-security-law-11595957097"
     },
     {
-        "title": "Coronavirus live news: Italy extends state of emergency as WHO warns of 'one big wave'",
-        "link": "https://www.theguardian.com/world/live/2020/jul/28/coronavirus-live-news-who-says-covid-19-is-easily-the-most-severe-crisis-it-has-faced"
+        "title": "World Health Organization: Coronavirus pandemic is 'one big wave' | TheHill",
+        "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
+    },
+    {
+        "title": "Europe faces down a second coronavirus pandemic wave",
+        "link": "https://www.nbcnews.com/news/world/europe-faces-down-second-coronavirus-pandemic-wave-n1235073"
     }
 ];

@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.munhwa.com/news/view.html?no=2020072801031739346001"
     },
     {
-        "title": "여행장려 강행하더니…일본 코로나 신규확진 1천명 육박(종합)",
-        "link": "http://yna.kr/AKR20200728177200073?did=1195m"
-    },
-    {
         "title": "코로나19 제주 20·22번째 확진자 퇴원…제주 현재 5명 격리 치료 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4504485&ref=A"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "국내 코로나19 신규 확진 28명…해외 유입 23명·국내 발생 5명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4504269&ref=A"
+    },
+    {
+        "title": "국내여행 장려한 일본, 코로나 일일 확진자 1천명 육박",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200728500199&wlog_tag3=naver"
     },
     {
         "title": "검찰, '코로나 방역 방해' 신천지 이만희 구속영장 청구(종합)",
