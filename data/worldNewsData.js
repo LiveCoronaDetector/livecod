@@ -9,20 +9,24 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/27/895940087/brazils-bolsonaro-is-accused-of-crime-against-humanity-over-coronavirus-neglect"
     },
     {
-        "title": "Israel’s leading demographer warns of post-COVID-19 exodus by young, educated Israelis",
-        "link": "https://www.haaretz.com/israel-news/.premium-demographer-warns-of-post-pandemic-covid-19-coronavirus-exodus-israelis-1.9024614"
+        "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
+        "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
     },
     {
         "title": "Coronavirus: German officials 'very concerned' by rising cases",
         "link": "https://www.bbc.com/news/world-europe-53566880"
     },
     {
-        "title": "India's PM says the country's fight against Covid-19 has proven the world wrong",
-        "link": "https://www.cnn.com/2020/07/26/asia/india-coronavirus-narendra-modi-intl/index.html"
+        "title": "'Tough few months ahead': Experts on India's coronavirus crisis",
+        "link": "https://www.aljazeera.com/news/2020/07/months-experts-india-coronavirus-crisis-200727091515912.html"
     },
     {
         "title": "Red flag raised about ‘negative consequences’ of China’s virus stimulus",
         "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
     },
     {
         "title": "Live Coronavirus News Updates and Analysis",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "Hong Kong was a pandemic poster child. Now it’s a cautionary tale.",
         "link": "https://www.washingtonpost.com/world/asia_pacific/hong-kong-was-a-pandemic-poster-child-now-its-a-cautionary-tale/2020/07/28/c6ccbd72-cfe4-11ea-826b-cc394d824e35_story.html"
-    },
-    {
-        "title": "Coronavirus 'most severe health emergency' WHO has faced",
-        "link": "https://www.bbc.com/news/world-53557577"
     },
     {
         "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
