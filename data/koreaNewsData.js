@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007281123537935"
     },
     {
+        "title": "서울시청서 코로나19 확진자 발생…11층 폐쇄",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005902555&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "국내 코로나19 신규 확진 28명…해외 유입 23명·국내 발생 5명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4504269&ref=A"
     },
     {
-        "title": "서울시청서 코로나19 확진자 발생…11층 폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200727129152004?did=1195m"
-    },
-    {
-        "title": "서울시청서 코로나19 확진자 발생…11층 폐쇄",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005902555&plink=ORI&cooper=NAVER"
+        "title": "\"코로나19로 인생 계획이 무너졌다\"",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002661874&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
