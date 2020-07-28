@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/28/tech/facebook-youtube-coronavirus/index.html"
     },
     {
-        "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
-        "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
+        "title": "China Discusses 4-Point Plan With Pak, Nepal, Afghanistan Amid Pandemic",
+        "link": "https://www.ndtv.com/world-news/china-discusses-4-point-plan-with-pakistan-nepal-afghanistan-amid-pandemic-2269822"
     },
     {
         "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/months-experts-india-coronavirus-crisis-200727091515912.html"
     },
     {
-        "title": "Even countries that got coronavirus under control are now struggling. That's deeply concerning for the rest of the world",
-        "link": "https://www.cnn.com/2020/07/28/asia/coronavirus-hong-kong-vietnam-china-intl-hnk/index.html"
+        "title": "North Korean who caused coronavirus scare was fleeing sexual assault investigation, report says",
+        "link": "https://www.foxnews.com/world/north-korea-coronavirus-scare"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
+        "title": "Central government vows to support Hong Kong in fight against COVID-19",
+        "link": "https://news.cgtn.com/news/2020-07-27/Central-government-vows-to-support-Hong-Kong-in-fight-against-COVID-19-StpjaeT1V6/index.html"
     },
     {
         "title": "German police dig up garden in Madeleine McCann investigation",
         "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
     },
     {
-        "title": "Hong Kong was a pandemic poster child. Now it’s a cautionary tale.",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/hong-kong-was-a-pandemic-poster-child-now-its-a-cautionary-tale/2020/07/28/c6ccbd72-cfe4-11ea-826b-cc394d824e35_story.html"
+        "title": "Coronavirus live news: WHO warns of 'one big wave'; Twitter restricts Donald Trump Jr account for misinformation",
+        "link": "https://www.theguardian.com/world/live/2020/jul/28/coronavirus-live-news-who-says-covid-19-is-easily-the-most-severe-crisis-it-has-faced"
     },
     {
         "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
