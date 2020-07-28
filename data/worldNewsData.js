@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/27/895940087/brazils-bolsonaro-is-accused-of-crime-against-humanity-over-coronavirus-neglect"
     },
     {
-        "title": "Over the red line: Hospitals report over 100% capacity",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-testing-drops-to-12000-only-1029-diagnosed-with-the-virus-636449"
+        "title": "China Discusses 4-Point Plan With Pak, Nepal, Afghanistan Amid Pandemic",
+        "link": "https://www.ndtv.com/world-news/china-discusses-4-point-plan-with-pakistan-nepal-afghanistan-amid-pandemic-2269822"
     },
     {
         "title": "Spain quarantine: coronavirus is now ruining summer vacation plans",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus updates: Potential vaccine to enter combined Phase 2/3 in global trials",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-nfl-players-contract-coronavirus-face-team/story?id=72004542"
+        "title": "'The whole church has got it, just about': dozens with Covid-19 after Alabama Baptist revival",
+        "link": "https://www.theguardian.com/world/2020/jul/27/coronavirus-alabama-covid-19-baptist-church-revival"
     },
     {
-        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
-        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
+        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
+        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
     }
 ];
