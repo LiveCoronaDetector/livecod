@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus live news: WHO says Covid-19 is 'easily the most severe' crisis it has faced",
-        "link": "https://www.theguardian.com/world/live/2020/jul/28/coronavirus-live-news-who-says-covid-19-is-easily-the-most-severe-crisis-it-has-faced"
+        "title": "Coronavirus updates: Potential vaccine to enter combined Phase 2/3 in global trials",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-nfl-players-contract-coronavirus-face-team/story?id=72004542"
     },
     {
-        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
-        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
+        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
+        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     }
 ];
