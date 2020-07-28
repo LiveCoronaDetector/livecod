@@ -9,14 +9,6 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     },
     {
-        "title": "카자흐스탄 입국자(제주 20번 확진자) 24일 만에 퇴원",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=326138"
-    },
-    {
-        "title": "카자흐스탄 입국자 제주 20번 확진자도 퇴원…24일만",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318414"
-    },
-    {
         "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
         "link": "http://yna.kr/AKR20200727057400056?did=1195m"
     },
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
+    },
+    {
+        "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
+        "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
+    },
+    {
+        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
+        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     }
 ];

@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955479.html"
     },
     {
-        "title": "전남지역 38번째 코로나19 확진자 발생",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007281209001&code=940202"
-    },
-    {
         "title": "국내 코로나19 신규 확진 28명…해외 유입 23명·국내 발생 5명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4504269&ref=A"
+    },
+    {
+        "title": "제주지역 코로나19 확진자 2명 퇴원",
+        "link": "http://www.ihalla.com/read.php3?aid=1595915109688560073"
+    },
+    {
+        "title": "전남서 코로나19 38번째 확진자 발생…해외입국 50대 남성",
+        "link": "http://www.fnnews.com/news/202007281123537935"
     },
     {
         "title": "서울시청서 코로나19 확진자 발생…11층 폐쇄(종합)",
@@ -25,10 +29,6 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005902555&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "제주지역 코로나19 확진자 2명 퇴원",
-        "link": "http://www.ihalla.com/read.php3?aid=1595915109688560073"
-    },
-    {
         "title": "미국 코로나19 사망자 15만명 넘어…최다 피해국 전락(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200728500072&wlog_tag3=naver"
     },
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4504487&ref=A"
     },
     {
-        "title": "전남서 코로나19 37번째 확진자 발생…해외입국 40대 여성",
-        "link": "http://www.fnnews.com/news/202007270943428752"
+        "title": "[속보] 정부서울청사 3층 폐쇄 해제...확진자의 접촉자 모두 '음성'",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007270838001&code=940100"
     }
 ];
