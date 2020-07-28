@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Social media giants remove viral video with false coronavirus claims that Trump retweeted",
-        "link": "https://www.cnn.com/2020/07/28/tech/facebook-youtube-coronavirus/index.html"
+        "title": "Fauci warns Tennessee and others to stem coronavirus trends, saying 'we just can't afford' another surge",
+        "link": "https://www.cnn.com/2020/07/28/health/us-coronavirus-tuesday/index.html"
     },
     {
-        "title": "China Discusses 4-Point Plan With Pak, Nepal, Afghanistan Amid Pandemic",
-        "link": "https://www.ndtv.com/world-news/china-discusses-4-point-plan-with-pakistan-nepal-afghanistan-amid-pandemic-2269822"
+        "title": "Live updates: Israel's coronavirus czar unveils new plan to curb resurgence",
+        "link": "https://www.haaretz.com/israel-news/.premium-live-updates-israel-s-coronavirus-czar-unveils-new-plan-to-curb-resurgence-1.9027637"
     },
     {
         "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/north-korea-coronavirus-scare"
     },
     {
-        "title": "Central government vows to support Hong Kong in fight against COVID-19",
-        "link": "https://news.cgtn.com/news/2020-07-27/Central-government-vows-to-support-Hong-Kong-in-fight-against-COVID-19-StpjaeT1V6/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
     },
     {
         "title": "German police dig up garden in Madeleine McCann investigation",
         "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
     },
     {
-        "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
-        "link": "https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html"
+        "title": "EU Levels Sanctions Over Hong Kong Security Law, Inching Toward Tough U.S. Stance on China",
+        "link": "https://www.wsj.com/articles/eu-countries-sanction-china-over-hong-kong-security-law-11595957097"
     },
     {
-        "title": "Coronavirus live news: WHO warns of 'one big wave'; Twitter restricts Donald Trump Jr account for misinformation",
+        "title": "Coronavirus live news: Italy extends state of emergency as WHO warns of 'one big wave'",
         "link": "https://www.theguardian.com/world/live/2020/jul/28/coronavirus-live-news-who-says-covid-19-is-easily-the-most-severe-crisis-it-has-faced"
     }
 ];

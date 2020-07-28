@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955479.html"
     },
     {
-        "title": "여행장려 강행하더니…일본 코로나 신규확진 1천명 육박(종합)",
-        "link": "http://yna.kr/AKR20200728177200073?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 28명…이틀째 20명대 유지",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220072700144"
     },
     {
         "title": "<10문10답>전세계 ‘코로나 백신 개발’ 현황·전망",
         "link": "http://www.munhwa.com/news/view.html?no=2020072801031739346001"
+    },
+    {
+        "title": "여행장려 강행하더니…일본 코로나 신규확진 1천명 육박(종합)",
+        "link": "http://yna.kr/AKR20200728177200073?did=1195m"
     },
     {
         "title": "코로나19 제주 20·22번째 확진자 퇴원…제주 현재 5명 격리 치료 중",
