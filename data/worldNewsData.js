@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
     },
     {
-        "title": "Europe faces down a second coronavirus pandemic wave",
-        "link": "https://www.nbcnews.com/news/world/europe-faces-down-second-coronavirus-pandemic-wave-n1235073"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
     },
     {
-        "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
-        "link": "https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html"
+        "title": "More confusion for thousands of British holidaymakers over Spain quarantine - BBC News",
+        "link": "https://www.youtube.com/watch?v=gm54N3mSOxg"
     }
 ];

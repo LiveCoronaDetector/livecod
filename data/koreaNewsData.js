@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955479.html"
     },
     {
+        "title": "WHO \"북한서 최근 1200여명 코로나 검사, 확진자 0명\"",
+        "link": "https://www.hankyung.com/politics/article/2020072989907"
+    },
+    {
         "title": "코로나19 신규 확진자 28명…이틀째 20명대 유지",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220072700144"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4504269&ref=A"
     },
     {
+        "title": "일본 코로나19 신규 확진자 1000명 육박",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=402995&class=42&grp="
+    },
+    {
         "title": "국내여행 장려한 일본, 코로나 일일 확진자 1천명 육박",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200728500199&wlog_tag3=naver"
-    },
-    {
-        "title": "검찰, '코로나 방역 방해' 신천지 이만희 구속영장 청구(종합)",
-        "link": "http://yna.kr/AKR20200728134551061?did=1195m"
-    },
-    {
-        "title": "\"코로나19로 인생 계획이 무너졌다\"",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002661874&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
