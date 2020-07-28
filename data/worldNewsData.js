@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     },
     {
-        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
-        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
+        "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
+        "link": "https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html"
     },
     {
-        "title": "Even countries that got coronavirus under control are now struggling. That's deeply concerning for the rest of the world",
-        "link": "https://www.cnn.com/2020/07/28/asia/coronavirus-hong-kong-vietnam-china-intl-hnk/index.html"
+        "title": "New Zealand suspends Hong Kong extradition treaty",
+        "link": "https://www.bbc.com/news/world-asia-53562437"
     }
 ];
