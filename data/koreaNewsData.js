@@ -13,16 +13,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007281209001&code=940202"
     },
     {
-        "title": "[속보] 中 베이징, 22일만에 코로나19 신규 확진자 발생···전국은 68명",
-        "link": "https://www.sedaily.com/NewsView/1Z5H8KGIGX"
-    },
-    {
         "title": "국내 코로나19 신규 확진 28명…해외 유입 23명·국내 발생 5명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4504269&ref=A"
-    },
-    {
-        "title": "신규 코로나19 확진자 28명...국내 발생 5명, 해외 유입 23명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007281032090200"
     },
     {
         "title": "서울시청서 코로나19 확진자 발생…11층 폐쇄(종합)",
@@ -33,8 +25,16 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005902555&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "제주지역 코로나19 확진자 2명 퇴원",
+        "link": "http://www.ihalla.com/read.php3?aid=1595915109688560073"
+    },
+    {
         "title": "미국 코로나19 사망자 15만명 넘어…최다 피해국 전락(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200728500072&wlog_tag3=naver"
+    },
+    {
+        "title": "“5월 이후 아동 확진자 111명…가족 간 전파가 가장 많아”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4504487&ref=A"
     },
     {
         "title": "전남서 코로나19 37번째 확진자 발생…해외입국 40대 여성",
