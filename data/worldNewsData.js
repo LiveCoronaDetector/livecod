@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
     },
     {
-        "title": "Coronavirus: German officials 'very concerned' by rising cases",
-        "link": "https://www.bbc.com/news/world-europe-53566880"
+        "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/28/896135038/german-and-u-k-officials-warn-of-a-possible-new-covid-19-wave-in-europe"
     },
     {
         "title": "'Tough few months ahead': Experts on India's coronavirus crisis",
