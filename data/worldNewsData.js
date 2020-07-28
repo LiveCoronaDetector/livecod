@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/longer-crossroads-africa-enduring-covid-19-battle-200727060314872.html"
     },
     {
-        "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
-        "link": "https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html"
+        "title": "Brazil's Bolsonaro Is Accused Of Crime Against Humanity Over Coronavirus 'Neglect'",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/27/895940087/brazils-bolsonaro-is-accused-of-crime-against-humanity-over-coronavirus-neglect"
     },
     {
         "title": "Iran-made coronavirus medicine to hit shelves in 3 weeks, official says",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html"
     },
     {
-        "title": "GOP Seeks to Cut $600 Weekly Jobless Aid by Two-Thirds: Live Updates",
-        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
+        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
+        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     },
     {
         "title": "Coronavirus 'most severe health emergency' WHO has faced",
         "link": "https://www.bbc.com/news/world-53557577"
     },
     {
-        "title": "PM Modi to attend temple groundbreaking at disputed site",
-        "link": "https://www.tibetsun.com/news/2020/07/26/pm-modi-to-attend-temple-groundbreaking-at-disputed-site"
+        "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
+        "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
     }
 ];

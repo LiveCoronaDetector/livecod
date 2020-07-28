@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
+        "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225872"
+    },
+    {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
-    },
-    {
-        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
-        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     }
 ];
