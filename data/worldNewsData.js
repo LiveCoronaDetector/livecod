@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
     },
     {
-        "title": "EU Levels Sanctions Over Hong Kong Security Law, Inching Toward Tough U.S. Stance on China",
-        "link": "https://www.wsj.com/articles/eu-countries-sanction-china-over-hong-kong-security-law-11595957097"
+        "title": "China suspends Hong Kong extradition treaties with Canada, Australia, UK",
+        "link": "https://www.youtube.com/watch?v=o1RpLEK1z_M"
     },
     {
         "title": "World Health Organization: Coronavirus pandemic is 'one big wave' | TheHill",
