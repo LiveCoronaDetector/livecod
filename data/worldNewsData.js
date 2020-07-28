@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html"
-    },
-    {
-        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
-        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
-    },
-    {
         "title": "Coronavirus 'most severe health emergency' WHO has faced",
         "link": "https://www.bbc.com/news/world-53557577"
     },
     {
-        "title": "Record 36K cured in a day; Prime Minister Narendra Modi says Covid war far from over",
-        "link": "https://www.tribuneindia.com/news/nation/record-36k-cured-in-a-day-prime-minister-narendra-modi-says-covid-war-far-from-over-118436"
+        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
+        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
+    },
+    {
+        "title": "'The whole church has got it, just about': dozens with Covid-19 after Alabama Baptist revival",
+        "link": "https://www.theguardian.com/world/2020/jul/27/coronavirus-alabama-covid-19-baptist-church-revival"
+    },
+    {
+        "title": "Coronavirus Live Updates: New Research Boosts Evidence of Masks’ Utility, Some Experts Say",
+        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
     }
 ];

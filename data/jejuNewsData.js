@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225872"
-    },
-    {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+    },
+    {
+        "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=225872"
     },
     {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
