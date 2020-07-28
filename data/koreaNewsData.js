@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007281014386416"
     },
     {
-        "title": "코로나19 신규 확진자 28명…이틀째 20명대 유지",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220072700144"
+        "title": "코로나 신규 확진자 28명…국외유입 23명",
+        "link": "http://www.hani.co.kr/arti/society/health/955479.html"
     },
     {
-        "title": "100일만의 베트남 코로나19 지역감염, 다낭 이외 지역으로 확산(종합)",
-        "link": "http://yna.kr/AKR20200727047051084?did=1195m"
+        "title": "전남지역 38번째 코로나19 확진자 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007281209001&code=940202"
     },
     {
         "title": "서울시청서 코로나19 확진자 발생…11층 폐쇄(종합)",
@@ -21,20 +21,20 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005902555&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[속보] 정부서울청사 3층 폐쇄 해제...확진자의 접촉자 모두 '음성'",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007270838001&code=940100"
+        "title": "베트남, 다낭發 코로나 19 재확산 조짐",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/28/2020072800158.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "전남서 코로나19 37번째 확진자 발생…해외입국 40대 여성",
         "link": "http://www.fnnews.com/news/202007270943428752"
     },
     {
-        "title": "트럼프, 안보보좌관 코로나 확진에 \"최근에 그 사람 안봐\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/07/28/2020072800375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "국내 코로나19 신규 확진 28명…해외 유입 23명·국내 발생 5명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4504269&ref=A"
     },
     {
-        "title": "신규 코로나19 확진자 28명...국내 발생 5명, 해외 유입 23명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007281032090200"
+        "title": "트럼프, 안보보좌관 코로나 확진에 \"최근에 그 사람 안봐\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/07/28/2020072800375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나19 신규 확진 28명…지역발생 5명·해외유입 23명",
