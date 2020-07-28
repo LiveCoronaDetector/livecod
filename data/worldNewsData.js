@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/28/asia/coronavirus-hong-kong-vietnam-china-intl-hnk/index.html"
     },
     {
+        "title": "Live Coronavirus News Updates and Analysis",
+        "link": "https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html"
+    },
+    {
         "title": "Hong Kong was a pandemic poster child. Now it’s a cautionary tale.",
         "link": "https://www.washingtonpost.com/world/asia_pacific/hong-kong-was-a-pandemic-poster-child-now-its-a-cautionary-tale/2020/07/28/c6ccbd72-cfe4-11ea-826b-cc394d824e35_story.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
         "link": "https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html"
-    },
-    {
-        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
-        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     }
 ];
