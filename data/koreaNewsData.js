@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.munhwa.com/news/view.html?no=2020072801031739346001"
     },
     {
-        "title": "코로나19 제주 20·22번째 확진자 퇴원…제주 현재 5명 격리 치료 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4504485&ref=A"
-    },
-    {
         "title": "전남서 코로나19 38번째 확진자 발생…해외입국 50대 남성",
         "link": "http://www.fnnews.com/news/202007281123537935"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "검찰, '코로나 방역 방해' 신천지 이만희 구속영장 청구(종합)",
         "link": "http://yna.kr/AKR20200728134551061?did=1195m"
+    },
+    {
+        "title": "\"코로나19로 인생 계획이 무너졌다\"",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002661874&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];

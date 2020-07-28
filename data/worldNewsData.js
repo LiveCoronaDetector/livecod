@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
+        "title": "Europe faces down a second coronavirus pandemic wave",
+        "link": "https://www.nbcnews.com/news/world/europe-faces-down-second-coronavirus-pandemic-wave-n1235073"
     },
     {
-        "title": "Boris Johnson Warns of New Surge in Coronavirus Cases in Europe, Defends Spain Quarantine",
-        "link": "https://www.youtube.com/watch?v=-wWNmE5ng_Y"
+        "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
+        "link": "https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html"
     }
 ];
