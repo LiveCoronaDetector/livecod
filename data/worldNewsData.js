@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/26/asia/india-coronavirus-narendra-modi-intl/index.html"
     },
     {
-        "title": "Red flag raised about ‘negative consequences’ of China’s virus stimulus",
-        "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
+        "title": "Coronavirus Is Back With a Vengeance in Places Where It Had All but Vanished",
+        "link": "https://www.wsj.com/articles/coronavirus-is-back-with-a-vengeance-in-places-where-it-had-all-but-vanished-11595842202"
     },
     {
         "title": "Coronavirus 'most severe health emergency' WHO has faced",
         "link": "https://www.bbc.com/news/world-53557577"
     },
     {
-        "title": "'The whole church has got it, just about': dozens with Covid-19 after Alabama Baptist revival",
-        "link": "https://www.theguardian.com/world/2020/jul/27/coronavirus-alabama-covid-19-baptist-church-revival"
-    },
-    {
-        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
-        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
+        "title": "Marlins' coronavirus outbreak has sports world on edge",
+        "link": "https://www.latimes.com/sports/story/2020-07-27/marlins-coronavirus-outbreak-games-postponed-nfl-nba-nhl"
     },
     {
         "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
         "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
+    },
+    {
+        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
+        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
     }
 ];

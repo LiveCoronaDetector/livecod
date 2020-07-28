@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     },
     {
+        "title": "제주 코로나19 22번 확진자, 12일 만에 퇴원",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=423446"
+    },
+    {
         "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
         "link": "http://yna.kr/AKR20200727057400056?did=1195m"
     },
@@ -17,8 +21,8 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
+        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
         "link": "http://yna.kr/AKR20200720159200056?did=1195m"
-    },
-    {
-        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     }
 ];
