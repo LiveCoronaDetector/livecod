@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53557577"
     },
     {
-        "title": "Coronavirus Live Updates: Research Boosts Evidence of Masks’ Utility, Some Experts Say",
-        "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "'The whole church has got it, just about': dozens with Covid-19 after Alabama Baptist revival",
-        "link": "https://www.theguardian.com/world/2020/jul/27/coronavirus-alabama-covid-19-baptist-church-revival"
+        "title": "The world's biggest coronavirus vaccine study begins, a U.S. trial that will include 30,000 people to see if the shots really work",
+        "link": "https://www.cnbc.com/2020/07/27/the-worlds-biggest-coronavirus-vaccine-study-begins-a-us-trial-that-will-include-30000-people-to-see-if-the-shots-really-work.html"
     },
     {
         "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
         "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
+    },
+    {
+        "title": "Even countries that got coronavirus under control are now struggling. That's deeply concerning for the rest of the world",
+        "link": "https://www.cnn.com/2020/07/28/asia/coronavirus-hong-kong-vietnam-china-intl-hnk/index.html"
     }
 ];
