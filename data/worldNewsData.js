@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
     },
     {
-        "title": "Coronavirus live news: WHO warns of 'one big wave'; Twitter restricts Donald Trump Jr account for misinformation",
-        "link": "https://www.theguardian.com/world/live/2020/jul/28/coronavirus-live-news-who-says-covid-19-is-easily-the-most-severe-crisis-it-has-faced"
-    },
-    {
         "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
         "link": "https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html"
+    },
+    {
+        "title": "Coronavirus live news: WHO warns of 'one big wave'; Twitter restricts Donald Trump Jr account for misinformation",
+        "link": "https://www.theguardian.com/world/live/2020/jul/28/coronavirus-live-news-who-says-covid-19-is-easily-the-most-severe-crisis-it-has-faced"
     }
 ];
