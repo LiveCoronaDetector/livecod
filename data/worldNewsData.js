@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/north-korea-coronavirus-scare"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
-    },
-    {
         "title": "German police dig up garden in Madeleine McCann investigation",
         "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "World Health Organization: Coronavirus pandemic is 'one big wave' | TheHill",
         "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
+    },
+    {
+        "title": "Boris Johnson Warns of New Surge in Coronavirus Cases in Europe, Defends Spain Quarantine",
+        "link": "https://www.youtube.com/watch?v=-wWNmE5ng_Y"
     }
 ];
