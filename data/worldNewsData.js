@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus 'most severe health emergency' WHO has faced",
         "link": "https://www.bbc.com/news/world-53557577"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html"
     },
     {
-        "title": "'The whole church has got it, just about': dozens with Covid-19 after Alabama Baptist revival",
-        "link": "https://www.theguardian.com/world/2020/jul/27/coronavirus-alabama-covid-19-baptist-church-revival"
+        "title": "Coronavirus live news: WHO says Covid-19 is 'easily the most severe' crisis it has faced",
+        "link": "https://www.theguardian.com/world/live/2020/jul/28/coronavirus-live-news-who-says-covid-19-is-easily-the-most-severe-crisis-it-has-faced"
+    },
+    {
+        "title": "Opinion | 'That's Ridiculous.' How America's Coronavirus Response Looks Abroad.",
+        "link": "https://www.nytimes.com/video/opinion/100000007227777/covid-19-global-response.html"
     }
 ];
