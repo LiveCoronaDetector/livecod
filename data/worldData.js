@@ -1273,6 +1273,14 @@ var marker = [
         "완치자수": 365
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 389,
+        "사망자수": 20,
+        "완치자수": 181
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
@@ -1287,14 +1295,6 @@ var marker = [
         "확진자수": 378,
         "사망자수": 1,
         "완치자수": 301
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 370,
-        "사망자수": 20,
-        "완치자수": 181
     },
     {
         "Name": "Comoros",
@@ -1468,9 +1468,9 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 97,
+        "확진자수": 99,
         "사망자수": 2,
-        "완치자수": 35
+        "완치자수": 36
     },
     {
         "Name": "부탄",
