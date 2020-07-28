@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/28/asia/coronavirus-hong-kong-vietnam-china-intl-hnk/index.html"
     },
     {
-        "title": "Live Coronavirus News Updates and Analysis",
-        "link": "https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "Hong Kong was a pandemic poster child. Now it’s a cautionary tale.",
         "link": "https://www.washingtonpost.com/world/asia_pacific/hong-kong-was-a-pandemic-poster-child-now-its-a-cautionary-tale/2020/07/28/c6ccbd72-cfe4-11ea-826b-cc394d824e35_story.html"
+    },
+    {
+        "title": "German police dig up garden in Madeleine McCann investigation",
+        "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
     },
     {
         "title": "Opinion | What America's Coronavirus Response Looks Like Abroad",
