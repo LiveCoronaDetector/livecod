@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus: Trump sticks by unproven hydroxychloroquine",
-        "link": "https://www.bbc.com/news/world-us-canada-53575964"
+        "title": "Live Coronavirus Updates",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     },
     {
         "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
         "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
     },
     {
-        "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/28/896135038/german-and-u-k-officials-warn-of-a-possible-new-covid-19-wave-in-europe"
+        "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
+        "link": "https://www.theguardian.com/world/2020/jul/29/germany-covid-19-fears-grow-over-reckless-partygoers"
     },
     {
         "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Louie Gohmert, who refused to wear a mask, tests positive for coronavirus",
-        "link": "https://www.politico.com/news/2020/07/29/louis-gohmert-who-refused-to-wear-a-mask-tests-positive-for-coronavirus-386076"
+        "link": "https://www.yahoo.com/news/louie-gohmert-refused-wear-mask-140953530.html"
     },
     {
         "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "The World’s Covid Resurgence",
-        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
+        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     }
 ];
