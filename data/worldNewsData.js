@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnet.com/features/censorship-coronavirus-how-chinese-nationalism-kills/"
     },
     {
+        "title": "Coronavirus: Trump’s signals 'not helpful', says Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53587527"
+    },
+    {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Russia intends to aprove coronavirus vaccine despite safety concerns",
         "link": "https://www.cnn.com/videos/world/2020/07/28/russia-coronavirus-vaccine-approval-sputnik-moment-chance-intl-tsr-vpx.cnn"
-    },
-    {
-        "title": "Germany seeing potential second wave of coronavirus",
-        "link": "https://www.youtube.com/watch?v=WBRaGT9nqs4"
     }
 ];
