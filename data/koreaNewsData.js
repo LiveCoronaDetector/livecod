@@ -5,28 +5,28 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007291014431313"
     },
     {
-        "title": "[속보] 코로나19 ‘해외 유입’ 34명 중 13명 러시아 추정…‘국내 발생’ 14...",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4505241&ref=A"
-    },
-    {
         "title": "[속보] 코로나 신규 확진자 48명…국외유입 34명·지역사회 14명",
         "link": "http://www.hani.co.kr/arti/society/health/955633.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 48명···국내 발생 14명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007291018011&code=940601"
-    },
-    {
-        "title": "[속보] 코로나 국내 신규 48명… 해외유입 34명·국내발생 14명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/07/29/2020072901538.html"
-    },
-    {
-        "title": "WHO \"북한서 최근 1200여명 코로나 검사, 확진자 0명\"",
-        "link": "https://www.hankyung.com/politics/article/2020072989907"
-    },
-    {
         "title": "무서운 확산세 항만 코로나…부산항 러 선박 12명 추가 확진(종합)",
         "link": "http://yna.kr/AKR20200729060300051?did=1195m"
+    },
+    {
+        "title": "WHO \"北 코로나 1,200여명 검사…확진자는 제로\"",
+        "link": "https://www.nocutnews.co.kr/news/5386265"
+    },
+    {
+        "title": "코로나19 지역 확진 14명…수도권 중심 발생 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02102486625839440"
+    },
+    {
+        "title": "[속보]코로나19 신규확진 48명 중 해외유입 34명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213435"
+    },
+    {
+        "title": "확진자 32명 나왔던 러 선박서 12명 추가 확진",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200729500023&wlog_tag3=naver"
     },
     {
         "title": "코로나 확진 48명…러시아 13명·해외유입 지속 증가(종합)",

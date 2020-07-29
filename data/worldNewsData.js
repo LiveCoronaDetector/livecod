@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53566880"
     },
     {
-        "title": "Europe faces down a second coronavirus pandemic wave",
-        "link": "https://www.nbcnews.com/news/world/europe-faces-down-second-coronavirus-pandemic-wave-n1235073"
+        "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
+        "link": "https://www.foxnews.com/world/sweden-sees-coronavirus-cases-drop-after-controversially-avoiding-lockdowns"
     },
     {
-        "title": "Stella Immanuel, Trump's New COVID-19 Doctor, Believes in Alien DNA, Demon Sperm, and Hydroxychloroquine",
-        "link": "https://www.thedailybeast.com/stella-immanuel-trumps-new-covid-doctor-believes-in-alien-dna-demon-sperm-and-hydroxychloroquine"
+        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
+        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
     }
 ];
