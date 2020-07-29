@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "3 Reasons to Buy Moderna Stock, and 1 Reason to Sell It",
-        "link": "https://www.fool.com/investing/2020/07/28/3-reasons-to-buy-moderna-and-1-reason-to-sell.aspx"
+        "title": "Russia aims to approve Covid-19 vaccine by mid-August, but questions remain",
+        "link": "https://www.msn.com/en-us/news/world/russia-aims-to-approve-covid-19-vaccine-by-mid-august-but-questions-remain/ar-BB17iBoL?li=BBnbcA1"
     },
     {
-        "title": "Coronavirus Updates: Trump Backs Hydroxychloroquine—Again as Biden Slams His Covid-19 Response",
-        "link": "https://www.youtube.com/watch?v=BP5HIxcpnMU"
+        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
+        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
     },
     {
         "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
         "link": "https://www.foxnews.com/world/sweden-sees-coronavirus-cases-drop-after-controversially-avoiding-lockdowns"
     },
     {
-        "title": "Coronavirus: Hong Kong hospitals face 'collapse' as outbreak grows",
-        "link": "https://news.yahoo.com/coronavirus-hong-kong-implements-strict-232825833.html"
+        "title": "The World’s Covid Resurgence",
+        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
     }
 ];
