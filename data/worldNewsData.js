@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/2020/jul/29/us-covid-19-coronavirus-deaths-states-red-zone-infection-spikes"
     },
     {
-        "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
-        "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
+        "title": "Netanyahu tells world leaders Israel aiming to mass test for coronavirus",
+        "link": "https://www.jpost.com/health-science/netanyahu-tells-world-leaders-israel-aiming-to-mass-test-for-coronavirus-636792"
     },
     {
         "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",

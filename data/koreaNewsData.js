@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007291018011&code=940601"
     },
     {
+        "title": "32명 확진자 나온 러시아 선박서 12명 추가 감염",
+        "link": "http://yna.kr/AKR20200729052800051?did=1195m"
+    },
+    {
         "title": "인천항 첫 코로나19 선원 확진자 발생에 방역 비상",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005905847&plink=ORI&cooper=NAVER"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955479.html"
     },
     {
-        "title": "일본 코로나 신규 확진 1천259명…최다 기록 경신(종합)",
-        "link": "http://yna.kr/AKR20200729180300073?did=1195m"
-    },
-    {
         "title": "[종합] 미 연준 \"코로나19 재확산이 경제회복 위협\"",
         "link": "http://www.fnnews.com/news/202007300452534684"
     },
     {
-        "title": "WHO \"북한서 최근 1200여명 코로나 검사, 확진자 0명\"",
-        "link": "https://www.hankyung.com/politics/article/2020072989907"
+        "title": "부산 러 선박 ‘페트로1호’서 확진자 12명 추가 발생",
+        "link": "https://www.donga.com/news/article/all/20200729/102203672/1"
     }
 ];
