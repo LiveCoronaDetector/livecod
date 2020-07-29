@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/28/896135038/german-and-u-k-officials-warn-of-a-possible-new-covid-19-wave-in-europe"
     },
     {
-        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
-        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
+        "title": "India coronavirus: 'More than half of Mumbai slum-dwellers had Covid-19'",
+        "link": "https://www.bbc.com/news/world-asia-india-53576653"
     },
     {
         "title": "EU buys coronavirus drug remdesivir: Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Reuters: Russia launches second COVID-19 vaccine human trial",
-        "link": "https://www.kyivpost.com/world/reuters-russia-launches-second-covid-19-vaccine-human-trial.html"
+        "title": "Virology institute launches Russia's second COVID-19 vaccine human trial - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/07/29/virology-institute-launches-russias-second-covid-19-vaccine-human-trial.html"
     },
     {
         "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
     },
     {
-        "title": "Virus outbreak takes Hong Kong hospitals to brink of collapse",
-        "link": "https://www.youtube.com/watch?v=pO0owDcisoQ"
+        "title": "Beijing accuses NZ of 'gross interference' for suspending extradition treaty",
+        "link": "https://www.youtube.com/watch?v=xrMdPdLW6TY"
     }
 ];
