@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "US coronavirus deaths near 150,000 as 21 states declared 'red zones'",
-        "link": "https://www.theguardian.com/us-news/2020/jul/29/us-covid-19-coronavirus-deaths-states-red-zone-infection-spikes"
+        "title": "More Than 150000 People Have Died From Coronavirus In The U.S.",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/29/896491060/more-than-150-000-people-have-died-from-coronavirus-in-the-u-s"
     },
     {
         "title": "Netanyahu tells world leaders Israel aiming to mass test for coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     },
     {
-        "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
-        "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
+        "title": "Russia intends to aprove coronavirus vaccine despite safety concerns",
+        "link": "https://www.cnn.com/videos/world/2020/07/28/russia-coronavirus-vaccine-approval-sputnik-moment-chance-intl-tsr-vpx.cnn"
+    },
+    {
+        "title": "Germany seeing potential second wave of coronavirus",
+        "link": "https://www.youtube.com/watch?v=WBRaGT9nqs4"
     }
 ];
