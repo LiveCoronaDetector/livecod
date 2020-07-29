@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
     },
     {
+        "title": "China suspends Hong Kong extradition treaties with Canada, Australia, UK",
+        "link": "https://www.youtube.com/watch?v=o1RpLEK1z_M"
+    },
+    {
+        "title": "Anthony Fauci denies Trump claim that he misled US public about coronavirus",
+        "link": "https://www.theguardian.com/world/2020/jul/28/anthony-fauci-denies-trump-misled-us-public-coronavirus"
+    },
+    {
         "title": "World Health Organization: Coronavirus pandemic is 'one big wave' | TheHill",
         "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/index.html"
-    },
-    {
-        "title": "More confusion for thousands of British holidaymakers over Spain quarantine - BBC News",
-        "link": "https://www.youtube.com/watch?v=gm54N3mSOxg"
     }
 ];

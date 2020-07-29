@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
     },
     {
-        "title": "코로나19 제주 20·22번 확진자 28일 퇴원",
-        "link": "https://www.nocutnews.co.kr/news/5385758"
-    },
-    {
         "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
+    },
+    {
+        "title": "제주 '관악구 사무실' 발 확진자 1명 추가…총 5명",
+        "link": "http://yna.kr/AKR20200720159200056?did=1195m"
     }
 ];
