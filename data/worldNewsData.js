@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Live Coronavirus Updates",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
+        "title": "Coronavirus: Trump sticks by unproven hydroxychloroquine",
+        "link": "https://www.bbc.com/news/world-us-canada-53575964"
     },
     {
         "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Louie Gohmert, who refused to wear a mask, tests positive for coronavirus",
-        "link": "https://www.yahoo.com/news/louie-gohmert-refused-wear-mask-140953530.html"
-    },
-    {
         "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
+    },
+    {
+        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
+        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
     },
     {
         "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",

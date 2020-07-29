@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200729/102203672/1"
     },
     {
-        "title": "‘코로나19 백신’…내 차례는 언제쯤?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4505521&ref=A"
+        "title": "WHO \"코로나19 모든 계절 좋아하는 신종\" 뒷북 결론(종합)",
+        "link": "http://yna.kr/AKR20200728173151088?did=1195m"
     }
 ];
