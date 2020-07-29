@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "‘Red Zone’ List Has Grown to 21 States, According to Report: Live Updates",
+        "title": "Coronavirus Live Updates: Trump Falsely Claims Much of U.S. ‘Corona Free’ as 21 States Face ‘Red Zone’ Outbreaks",
         "link": "https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html"
     },
     {
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/months-experts-india-coronavirus-crisis-200727091515912.html"
     },
     {
-        "title": "North Korean who caused coronavirus scare was fleeing sexual assault investigation, report says",
-        "link": "https://www.foxnews.com/world/north-korea-coronavirus-scare"
+        "title": "Red flag raised about ‘negative consequences’ of China’s virus stimulus",
+        "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
     },
     {
-        "title": "Exclusive: Russia prepares for world's first approval of a Covid-19 vaccine by mid-August, but questions remain",
-        "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
+        "title": "Russia's COVID-19 cases up 5635 to 818120",
+        "link": "https://www.youtube.com/watch?v=hhyPdIzL89U"
+    },
+    {
+        "title": "Coronavirus: German officials 'very concerned' by rising cases",
+        "link": "https://www.bbc.com/news/world-europe-53566880"
     },
     {
         "title": "World Health Organization: Coronavirus pandemic is 'one big wave' | TheHill",
         "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
     },
     {
-        "title": "Anthony Fauci denies Trump claim that he misled US public about coronavirus",
-        "link": "https://www.theguardian.com/world/2020/jul/28/anthony-fauci-denies-trump-misled-us-public-coronavirus"
-    },
-    {
-        "title": "More confusion for thousands of British holidaymakers over Spain quarantine - BBC News",
-        "link": "https://www.youtube.com/watch?v=gm54N3mSOxg"
+        "title": "Stella Immanuel, Trump's New COVID-19 Doctor, Believes in Alien DNA, Demon Sperm, and Hydroxychloroquine",
+        "link": "https://www.thedailybeast.com/stella-immanuel-trumps-new-covid-doctor-believes-in-alien-dna-demon-sperm-and-hydroxychloroquine"
     }
 ];
