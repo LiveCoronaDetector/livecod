@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53576653"
     },
     {
-        "title": "China reports most coronavirus cases since April: Live updates",
+        "title": "EU buys coronavirus drug remdesivir from drugmaker Gilead: Live",
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Reuters: Russia launches second COVID-19 vaccine human trial",
-        "link": "https://www.kyivpost.com/world/reuters-russia-launches-second-covid-19-vaccine-human-trial.html"
+        "title": "Second Covid-19 vaccine trial commences in Russia",
+        "link": "https://www.clinicaltrialsarena.com/news/russia-second-covid-vaccine-trial/"
     },
     {
         "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
     },
     {
-        "title": "New Hong Kong Virus Wave Raises Questions About Elections",
-        "link": "https://www.youtube.com/watch?v=JwxFH1hg84w"
+        "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
+        "link": "https://www.foxnews.com/world/sweden-sees-coronavirus-cases-drop-after-controversially-avoiding-lockdowns"
     }
 ];
