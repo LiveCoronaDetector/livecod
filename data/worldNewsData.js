@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "EU buys coronavirus drug remdesivir: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
+        "title": "Coronavirus: Hong Kong on verge of 'large-scale' outbreak, says Carrie Lam",
+        "link": "https://www.bbc.com/news/world-asia-china-53575875"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-28-20-intl/h_0929860c6c19be500de1cc287d788a37"
+        "title": "Live Coronavirus Updates",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     },
     {
         "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
-        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
+        "title": "Coronavirus makes a comeback around the world - The Washington Post",
+        "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "The World’s Covid Resurgence",
-        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
+        "title": "Trump complains that Americans like Fauci more than him",
+        "link": "https://news.yahoo.com/trump-complains-that-americans-like-fauci-more-than-him-232251216.html"
     }
 ];
