@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/months-experts-india-coronavirus-crisis-200727091515912.html"
     },
     {
-        "title": "U.S., Australia Bolster Health, Security Cooperation in Face of Coronavirus, China",
-        "link": "https://www.wsj.com/articles/u-s-australia-bolster-health-security-cooperation-in-face-of-coronavirus-china-11595964310"
+        "title": "China reports most coronavirus cases since April: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Moderna Vaccine Protects 16 Monkeys From Virus; 30,000 Humans Await",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d3429220-d147-11ea-9b85-8b5373b534c8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yOC9tb2Rlcm5hLXByb3RlY3RzLTE2LW1vbmtleXMtZnJvbS12aXJ1cy0zMC0wMDAtaHVtYW5zLWF3YWl0"
+        "title": "Russia aiming to approve COVID-19 vaccine within weeks: report | TheHill",
+        "link": "https://thehill.com/policy/international/509496-russia-aiming-to-approve-covid-19-vaccine-within-weeks-report"
     },
     {
         "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
