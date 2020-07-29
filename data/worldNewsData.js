@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/months-experts-india-coronavirus-crisis-200727091515912.html"
     },
     {
-        "title": "Red flag raised about ‘negative consequences’ of China’s virus stimulus",
-        "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
+        "title": "North Korean who caused coronavirus scare was fleeing sexual assault investigation, report says",
+        "link": "https://www.foxnews.com/world/north-korea-coronavirus-scare"
     },
     {
         "title": "Exclusive: Russia prepares for world's first approval of a Covid-19 vaccine by mid-August, but questions remain",
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "German police dig up garden in Madeleine McCann investigation",
-        "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
+        "title": "World Health Organization: Coronavirus pandemic is 'one big wave' | TheHill",
+        "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
     },
     {
         "title": "Anthony Fauci denies Trump claim that he misled US public about coronavirus",
         "link": "https://www.theguardian.com/world/2020/jul/28/anthony-fauci-denies-trump-misled-us-public-coronavirus"
     },
     {
-        "title": "World Health Organization: Coronavirus pandemic is 'one big wave' | TheHill",
-        "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
+        "title": "More confusion for thousands of British holidaymakers over Spain quarantine - BBC News",
+        "link": "https://www.youtube.com/watch?v=gm54N3mSOxg"
     }
 ];
