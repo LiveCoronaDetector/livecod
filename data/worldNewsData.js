@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Second Covid-19 vaccine trial commences in Russia",
-        "link": "https://www.clinicaltrialsarena.com/news/russia-second-covid-vaccine-trial/"
+        "title": "Reuters: Russia launches second COVID-19 vaccine human trial",
+        "link": "https://www.kyivpost.com/world/reuters-russia-launches-second-covid-19-vaccine-human-trial.html"
     },
     {
         "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
         "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
     },
     {
-        "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
-        "link": "https://www.foxnews.com/world/sweden-sees-coronavirus-cases-drop-after-controversially-avoiding-lockdowns"
+        "title": "The World’s Covid Resurgence",
+        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
     },
     {
         "title": "New Hong Kong Virus Wave Raises Questions About Elections",
