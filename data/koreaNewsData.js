@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955479.html"
     },
     {
-        "title": "[종합] 미 연준 \"코로나19 재확산이 경제회복 위협\"",
-        "link": "http://www.fnnews.com/news/202007300452534684"
-    },
-    {
         "title": "부산 러 선박 ‘페트로1호’서 확진자 12명 추가 발생",
         "link": "https://www.donga.com/news/article/all/20200729/102203672/1"
+    },
+    {
+        "title": "WHO, 한여름 다돼서야... \"코로나 바이러스 계절 타지 않아\"",
+        "link": "https://www.hankyung.com/life/article/2020072903247"
     }
 ];

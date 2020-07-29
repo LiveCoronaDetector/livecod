@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
     },
     {
+        "title": "5개월만에 재개하는 LPGA... '투어불참' 유소연 \"미국 코로나 상황 안 좋다\"",
+        "link": "http://www.newspim.com/news/view/20200730000027"
+    },
+    {
         "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318257"
-    },
-    {
-        "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
-        "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
     }
 ];
