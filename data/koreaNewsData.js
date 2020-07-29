@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5386451"
     },
     {
-        "title": "코로나19 ‘해외 유입’ 34명 중 13명 러시아 추정…‘국내 발생’ 14명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4505241&ref=A"
+        "title": "코로나19 신규확진 48명 중 해외유입 34명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213435"
     },
     {
         "title": "부산 러 선박 ‘페트로1호’서 확진자 12명 추가 발생",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200729052800051?did=1195m"
     },
     {
+        "title": "인천항 첫 코로나19 선원 확진자 발생에 방역 비상",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005905847&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "‘코로나19 백신’…내 차례는 언제쯤?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4505521&ref=A"
+    },
+    {
         "title": "코로나로 미뤘던 예비군 훈련 9월 재개…1인당 4시간만 실시",
         "link": "http://www.newsis.com/view/?id=NISX20200729_0001111482&cID=10301&pID=10300"
-    },
-    {
-        "title": "경남에서 60대 내국인 2명 코로나19 추가 확진…전체 확진자 수 156명으로 늘...",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020072910293978115"
-    },
-    {
-        "title": "무서운 확산세 항만 코로나…부산항 러 선박 12명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200729060300051?did=1195m"
     }
 ];

@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.fool.com/investing/2020/07/28/3-reasons-to-buy-moderna-and-1-reason-to-sell.aspx"
     },
     {
-        "title": "The World’s Covid Resurgence",
-        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
+        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
+        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
     },
     {
         "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
         "link": "https://www.foxnews.com/world/sweden-sees-coronavirus-cases-drop-after-controversially-avoiding-lockdowns"
     },
     {
-        "title": "Europe faces down a second coronavirus pandemic wave",
-        "link": "https://www.nbcnews.com/news/world/europe-faces-down-second-coronavirus-pandemic-wave-n1235073"
+        "title": "The World’s Covid Resurgence",
+        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
     }
 ];
