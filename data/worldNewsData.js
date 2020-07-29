@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/months-experts-india-coronavirus-crisis-200727091515912.html"
     },
     {
-        "title": "Red flag raised about ‘negative consequences’ of China’s virus stimulus",
-        "link": "https://www.scmp.com/economy/article/3094811/china-needs-weigh-economic-consequences-coronavirus-stimulus-top-beijing"
+        "title": "U.S., Australia Bolster Health, Security Cooperation in Face of Coronavirus, China",
+        "link": "https://www.wsj.com/articles/u-s-australia-bolster-health-security-cooperation-in-face-of-coronavirus-china-11595964310"
     },
     {
-        "title": "Russia's COVID-19 cases up 5635 to 818120",
-        "link": "https://www.youtube.com/watch?v=hhyPdIzL89U"
+        "title": "Russia aims to approve Covid-19 vaccine by mid-August, but questions remain",
+        "link": "https://www.msn.com/en-us/news/world/russia-aims-to-approve-covid-19-vaccine-by-mid-august-but-questions-remain/ar-BB17iBoL?li=BBnbcA1"
     },
     {
         "title": "Coronavirus: German officials 'very concerned' by rising cases",
         "link": "https://www.bbc.com/news/world-europe-53566880"
     },
     {
-        "title": "World Health Organization: Coronavirus pandemic is 'one big wave' | TheHill",
-        "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
+        "title": "Europe faces down a second coronavirus pandemic wave",
+        "link": "https://www.nbcnews.com/news/world/europe-faces-down-second-coronavirus-pandemic-wave-n1235073"
     },
     {
         "title": "Stella Immanuel, Trump's New COVID-19 Doctor, Believes in Alien DNA, Demon Sperm, and Hydroxychloroquine",
