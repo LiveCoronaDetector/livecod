@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "US coronavirus deaths near 150,000 as 21 states declared 'red zones'",
-        "link": "https://www.theguardian.com/us-news/2020/jul/29/us-covid-19-coronavirus-deaths-states-red-zone-infection-spikes"
+        "title": "Live Coronavirus Updates",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
-        "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
+        "title": "Netanyahu tells world leaders Israel aiming to mass test for coronavirus",
+        "link": "https://www.jpost.com/health-science/netanyahu-tells-world-leaders-israel-aiming-to-mass-test-for-coronavirus-636792"
     },
     {
         "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "'One big wave' – why the Covid-19 second wave may not exist",
-        "link": "https://www.theguardian.com/world/2020/jul/29/one-big-wave-why-the-covid-19-second-wave-may-not-exist-coronavirus"
+        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
+        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
     }
 ];
