@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Live Coronavirus Updates",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
+    },
+    {
+        "title": "Louie Gohmert, who refused to wear a mask, tests positive for coronavirus",
+        "link": "https://www.politico.com/news/2020/07/29/louis-gohmert-who-refused-to-wear-a-mask-tests-positive-for-coronavirus-386076"
     },
     {
         "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
-        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
+        "title": "Hong Kong leader warns hospital system could collapse as city on verge of 'large-scale' outbreak",
+        "link": "https://www.foxnews.com/world/hong-kong-leader-warns-hospital-system-could-collapse-as-city-on-verge-of-large-scale-outbreak"
     }
 ];
