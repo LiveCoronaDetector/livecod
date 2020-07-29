@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "Trump Falsely Claims Much of U.S. Is ‘Corona-Free’",
-        "link": "https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html"
+        "title": "'He's Got This High Approval Rating. Why Don't I Have A High Approval Rating?' | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=1AyXk95sYQc"
     }
 ];
