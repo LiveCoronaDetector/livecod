@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955479.html"
     },
     {
-        "title": "[속보] 日코로나 신규 확진 1천명 '첫' 돌파…누적 3만4천명",
-        "link": "https://www.hankyung.com/society/article/2020072925807"
+        "title": "부산 러 선박 ‘페트로1호’서 확진자 12명 추가 발생",
+        "link": "https://www.donga.com/news/article/all/20200729/102203672/1"
     },
     {
-        "title": "일본 코로나 신규 확진 1천259명…최다 기록 경신(종합)",
-        "link": "http://yna.kr/AKR20200729180300073?did=1195m"
+        "title": "WHO, 한여름 다돼서야... \"코로나 바이러스 계절 타지 않아\"",
+        "link": "https://www.hankyung.com/life/article/2020072903247"
     }
 ];
