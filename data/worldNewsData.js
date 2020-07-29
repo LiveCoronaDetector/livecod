@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus: Trump sticks by unproven hydroxychloroquine",
-        "link": "https://www.bbc.com/news/world-us-canada-53575964"
+        "title": "Live Coronavirus Updates",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     },
     {
         "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
-        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
-    },
-    {
         "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
+    },
+    {
+        "title": "Mika To Trump On Coronavirus: 'You Have Botched This From The Start' | Morning Joe | MSNBC",
+        "link": "https://www.youtube.com/watch?v=nHNW5VecFyU"
     }
 ];
