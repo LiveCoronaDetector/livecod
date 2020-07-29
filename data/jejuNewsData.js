@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     },
     {
-        "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
-        "link": "http://yna.kr/AKR20200727057400056?did=1195m"
-    },
-    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
+        "link": "http://yna.kr/AKR20200727057400056?did=1195m"
     },
     {
         "title": "제주도 26번 확진자 출입명부 미작성 유흥업소 업주 고발",
