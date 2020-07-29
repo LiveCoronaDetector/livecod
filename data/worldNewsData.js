@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: Hong Kong on verge of 'large-scale' outbreak, says Carrie Lam",
-        "link": "https://www.bbc.com/news/world-asia-china-53575875"
-    },
-    {
-        "title": "Live Coronavirus Updates",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
+        "title": "EU buys coronavirus drug remdesivir: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
         "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Trump complains that Americans like Fauci more than him",
-        "link": "https://news.yahoo.com/trump-complains-that-americans-like-fauci-more-than-him-232251216.html"
+        "title": "Trump Falsely Claims Much of U.S. Is ‘Corona-Free’",
+        "link": "https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "The World’s Covid Resurgence",
+        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
     }
 ];
