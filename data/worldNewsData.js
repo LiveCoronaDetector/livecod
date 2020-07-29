@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Russia intends to aprove coronavirus vaccine despite safety concerns",
-        "link": "https://www.cnn.com/videos/world/2020/07/28/russia-coronavirus-vaccine-approval-sputnik-moment-chance-intl-tsr-vpx.cnn"
+        "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     },
     {
         "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     },
     {
-        "title": "Germany seeing potential second wave of coronavirus",
-        "link": "https://www.youtube.com/watch?v=WBRaGT9nqs4"
+        "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
+        "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     }
 ];
