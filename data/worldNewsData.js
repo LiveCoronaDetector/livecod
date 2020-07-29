@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus: Trump sticks by revoked hydroxychloroquine",
-        "link": "https://www.bbc.com/news/world-us-canada-53575964"
+        "title": "Live updates: Trump questions why Fauci has better ratings as U.S. approaches 150,000 coronavirus deaths",
+        "link": "https://www.washingtonpost.com/nation/2020/07/29/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Russia aims to approve Covid-19 vaccine by mid-August, but questions remain",
-        "link": "https://www.msn.com/en-us/news/world/russia-aims-to-approve-covid-19-vaccine-by-mid-august-but-questions-remain/ar-BB17iBoL?li=BBnbcA1"
+        "title": "Russia aiming to approve COVID-19 vaccine within weeks: report | TheHill",
+        "link": "https://thehill.com/policy/international/509496-russia-aiming-to-approve-covid-19-vaccine-within-weeks-report"
     },
     {
         "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
     },
     {
-        "title": "Coronavirus Updates: Trump Backs Hydroxychloroquine—Again as Biden Slams His Covid-19 Response",
-        "link": "https://www.youtube.com/watch?v=BP5HIxcpnMU"
+        "title": "Coronavirus: Trump sticks by revoked hydroxychloroquine",
+        "link": "https://www.bbc.com/news/world-us-canada-53575964"
     }
 ];
