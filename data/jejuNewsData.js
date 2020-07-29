@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     },
     {
+        "title": "[특집기획] 포스트 코로나 시대의 개인영상정보 활용과 보호",
+        "link": "http://www.boannews.com/media/view.asp?idx=90151&kind="
+    },
+    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19로 제주 애월 한 초등학교 등교 거부",
         "link": "http://www.hani.co.kr/arti/area/jeju/954738.html"
-    },
-    {
-        "title": "\"제주도, 코로나19 확진자 100명 넘으면 의료체계 붕괴 위험\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422983"
     }
 ];

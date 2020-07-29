@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/technology/2020/07/28/stella-immanuel-hydroxychloroquine-video-trump-americas-frontline-doctors/"
     },
     {
-        "title": "Coronavirus: Trump sticks by discredited hydroxychloroquine",
+        "title": "Coronavirus: Trump sticks by unproven hydroxychloroquine",
         "link": "https://www.bbc.com/news/world-us-canada-53575964"
     },
     {
-        "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
-        "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
+        "title": "What is Israel's new 'Shield of Israel' coronavirus plan?",
+        "link": "https://www.jpost.com/health-science/what-is-israels-new-defend-israel-coronavirus-plan-636658"
     },
     {
         "title": "Coronavirus live news: US deaths near 150,000 as Hong Kong warns hospitals could collapse",
