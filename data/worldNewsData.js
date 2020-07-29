@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
     },
     {
-        "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/28/896135038/german-and-u-k-officials-warn-of-a-possible-new-covid-19-wave-in-europe"
+        "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
+        "link": "https://www.theguardian.com/world/2020/jul/29/germany-covid-19-fears-grow-over-reckless-partygoers"
     },
     {
         "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
-        "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
+        "title": "Live Coronavirus Updates",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Trump Falsely Claims Much of U.S. Is ‘Corona-Free’",
-        "link": "https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html"
+        "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
+        "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "The World’s Covid Resurgence",
-        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
+        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
+        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
     }
 ];

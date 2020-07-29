@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200729060300051?did=1195m"
     },
     {
+        "title": "해외 코로나19 확진자 34명..러시아 선박서 12명 추가, 총 44명",
+        "link": "http://www.fnnews.com/news/202007291421568150"
+    },
+    {
         "title": "WHO \"북한서 최근 1200여명 코로나 검사, 확진자 0명\"",
         "link": "https://www.hankyung.com/politics/article/2020072989907"
     },
     {
         "title": "코로나19로 외국인 근로자 수급 차질 \"입국재개 해야\"",
         "link": "http://www.fnnews.com/news/202007290859288954"
-    },
-    {
-        "title": "해외 코로나19 확진자 34명..러시아 선박서 12명 추가, 총 44명",
-        "link": "http://www.fnnews.com/news/202007291421568150"
     }
 ];
