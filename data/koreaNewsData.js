@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007291014431313"
     },
     {
-        "title": "코로나 신규 확진자 48명…국외유입 34명·지역사회 14명",
-        "link": "http://www.hani.co.kr/arti/society/health/955633.html"
-    },
-    {
         "title": "중기중앙회 \"코로나에도 외국인 근로자 입국재개해야\"",
         "link": "https://www.nocutnews.co.kr/news/5386451"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200729052800051?did=1195m"
     },
     {
-        "title": "충북 해외 입국자 2명 퇴원…코로나19 환자 3명 남아(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200729_0001111342&cID=10806&pID=10800"
-    },
-    {
         "title": "‘코로나19 백신’…내 차례는 언제쯤?",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4505521&ref=A"
+    },
+    {
+        "title": "코로나로 미뤘던 예비군 훈련 9월 재개…1인당 4시간만 실시",
+        "link": "http://www.newsis.com/view/?id=NISX20200729_0001111482&cID=10301&pID=10300"
+    },
+    {
+        "title": "경남에서 60대 내국인 2명 코로나19 추가 확진…전체 확진자 수 156명으로 늘...",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020072910293978115"
     }
 ];
