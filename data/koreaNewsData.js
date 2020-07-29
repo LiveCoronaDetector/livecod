@@ -9,24 +9,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007291018011&code=940601"
     },
     {
-        "title": "[종합] 코로나19 확진자 48명 증가...해외 34명 중 러시아 13명, 미국 8명",
-        "link": "http://www.fnnews.com/news/202007291014431313"
-    },
-    {
-        "title": "부산 러 선박 ‘페트로1호’서 확진자 12명 추가 발생",
-        "link": "https://www.donga.com/news/article/all/20200729/102203672/1"
-    },
-    {
         "title": "부산항 입항 러시아 선박서 코로나19 추가 확진자 12명 발생",
         "link": "https://www.nocutnews.co.kr/news/5386278"
-    },
-    {
-        "title": "‘코로나19 백신’…내 차례는 언제쯤?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4505521&ref=A"
-    },
-    {
-        "title": "무서운 확산세 항만 코로나…부산항 러 선박 12명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200729060300051?did=1195m"
     },
     {
         "title": "해외 코로나19 확진자 34명..러시아 선박서 12명 추가, 총 44명",
@@ -35,6 +19,22 @@ var koreaNewsData = [
     {
         "title": "WHO \"북한서 최근 1200여명 코로나 검사, 확진자 0명\"",
         "link": "https://www.hankyung.com/politics/article/2020072989907"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 48명 증가...해외 34명 중 러시아 13명, 미국 8명",
+        "link": "http://www.fnnews.com/news/202007291014431313"
+    },
+    {
+        "title": "부산 러 선박 ‘페트로1호’서 확진자 12명 추가 발생",
+        "link": "https://www.donga.com/news/article/all/20200729/102203672/1"
+    },
+    {
+        "title": "‘코로나19 백신’…내 차례는 언제쯤?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4505521&ref=A"
+    },
+    {
+        "title": "무서운 확산세 항만 코로나…부산항 러 선박 12명 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200729060300051?did=1195m"
     },
     {
         "title": "코로나19로 외국인 근로자 수급 차질 \"입국재개 해야\"",

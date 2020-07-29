@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
     },
     {
-        "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
-        "link": "https://www.theguardian.com/world/2020/jul/29/germany-covid-19-fears-grow-over-reckless-partygoers"
+        "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/28/896135038/german-and-u-k-officials-warn-of-a-possible-new-covid-19-wave-in-europe"
     },
     {
         "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "Hong Kong leader warns hospital system could collapse as city on verge of 'large-scale' outbreak",
-        "link": "https://www.foxnews.com/world/hong-kong-leader-warns-hospital-system-could-collapse-as-city-on-verge-of-large-scale-outbreak"
+        "title": "The World’s Covid Resurgence",
+        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
     }
 ];
