@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
-        "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
-        "link": "http://yna.kr/AKR20200727057400056?did=1195m"
-    },
-    {
         "title": "제주도 26번 확진자 출입명부 미작성 유흥업소 업주 고발",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
+    },
+    {
+        "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
+        "link": "http://yna.kr/AKR20200727057400056?did=1195m"
     },
     {
         "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
