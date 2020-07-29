@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "EU buys coronavirus drug remdesivir: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
+        "title": "How China used censorship to hide the coronavirus truth",
+        "link": "https://www.cnet.com/features/censorship-coronavirus-how-chinese-nationalism-kills/"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
     },
     {
-        "title": "'He's Got This High Approval Rating. Why Don't I Have A High Approval Rating?' | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=1AyXk95sYQc"
+        "title": "Germany seeing potential second wave of coronavirus",
+        "link": "https://www.youtube.com/watch?v=WBRaGT9nqs4"
     }
 ];
