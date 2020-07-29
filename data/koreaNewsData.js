@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200728173151088?did=1195m"
     },
     {
-        "title": "중기중앙회 \"코로나에도 외국인 근로자 입국재개해야\"",
-        "link": "https://www.nocutnews.co.kr/news/5386451"
+        "title": "코로나 신규 확진자 48명…국외유입 34명·지역사회 14명",
+        "link": "http://www.hani.co.kr/arti/society/health/955633.html"
     },
     {
-        "title": "코로나19 신규확진 48명 중 해외유입 34명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213435"
+        "title": "중기중앙회 \"코로나에도 외국인 근로자 입국재개해야\"",
+        "link": "https://www.nocutnews.co.kr/news/5386451"
     },
     {
         "title": "부산 러 선박 ‘페트로1호’서 확진자 12명 추가 발생",
         "link": "https://www.donga.com/news/article/all/20200729/102203672/1"
     },
     {
-        "title": "코로나19 신규확진 48명…지역발생 14명·해외유입 34명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/29/2020072990041.html"
-    },
-    {
         "title": "32명 확진자 나온 러시아 선박서 12명 추가 감염",
         "link": "http://yna.kr/AKR20200729052800051?did=1195m"
     },
     {
-        "title": "인천항 첫 코로나19 선원 확진자 발생에 방역 비상",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005905847&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "‘코로나19 백신’…내 차례는 언제쯤?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4505521&ref=A"
-    },
-    {
         "title": "코로나로 미뤘던 예비군 훈련 9월 재개…1인당 4시간만 실시",
         "link": "http://www.newsis.com/view/?id=NISX20200729_0001111482&cID=10301&pID=10300"
+    },
+    {
+        "title": "무서운 확산세 항만 코로나…부산항 러 선박 12명 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200729060300051?did=1195m"
+    },
+    {
+        "title": "해외 코로나19 확진자 34명..러시아 선박서 12명 추가, 총 44명",
+        "link": "http://www.fnnews.com/news/202007291421568150"
+    },
+    {
+        "title": "WHO \"북한서 최근 1200여명 코로나 검사, 확진자 0명\"",
+        "link": "https://www.hankyung.com/politics/article/2020072989907"
     }
 ];

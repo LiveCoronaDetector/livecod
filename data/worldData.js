@@ -885,7 +885,7 @@ var marker = [
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
         "확진자수": 2885,
-        "사망자수": 23,
+        "사망자수": 24,
         "완치자수": 1527
     },
     {
@@ -961,20 +961,20 @@ var marker = [
         "완치자수": 1742
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 2043,
+        "사망자수": 80,
+        "완치자수": 1643
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
         "확진자수": 2042,
         "사망자수": 69,
         "완치자수": 1926
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 2027,
-        "사망자수": 80,
-        "완치자수": 1623
     },
     {
         "Name": "Guinea-Bissau",

@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/29/coronavirus-live-news-us-deaths-near-150000-as-italy-extends-state-of-emergency"
     },
     {
-        "title": "'Tough few months ahead': Experts on India's coronavirus crisis",
-        "link": "https://www.aljazeera.com/news/2020/07/months-experts-india-coronavirus-crisis-200727091515912.html"
+        "title": "India coronavirus: 'More than half of Mumbai slum-dwellers had Covid-19'",
+        "link": "https://www.bbc.com/news/world-asia-india-53576653"
     },
     {
         "title": "China reports most coronavirus cases since April: Live updates",
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "3 Reasons to Buy Moderna Stock, and 1 Reason to Sell It",
-        "link": "https://www.fool.com/investing/2020/07/28/3-reasons-to-buy-moderna-and-1-reason-to-sell.aspx"
+        "title": "Russia aims to approve Covid-19 vaccine by mid-August, but questions remain",
+        "link": "https://www.msn.com/en-us/news/world/russia-aims-to-approve-covid-19-vaccine-by-mid-august-but-questions-remain/ar-BB17iBoL?li=BBnbcA1"
     },
     {
-        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
-        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
+        "title": "Hong Kong is 'on the verge' of an outbreak that could lead to hospital system's collapse, chief executive says",
+        "link": "https://www.cnbc.com/2020/07/29/hong-kong-on-the-verge-of-large-scale-coronavirus-community-outbreak-carrie-lam.html"
     },
     {
         "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
