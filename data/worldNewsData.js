@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Coronavirus Live Updates: Trump Falsely Claims Much of U.S. ‘Corona Free’ as 21 States Face ‘Red Zone’ Outbreaks",
+        "title": "Live Coronavirus News: Latest Updates",
         "link": "https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
     },
     {
-        "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/28/896135038/german-and-u-k-officials-warn-of-a-possible-new-covid-19-wave-in-europe"
+        "title": "Coronavirus live news: US deaths near 150,000 as Italy extends state of emergency",
+        "link": "https://www.theguardian.com/world/live/2020/jul/29/coronavirus-live-news-us-deaths-near-150000-as-italy-extends-state-of-emergency"
     },
     {
         "title": "'Tough few months ahead': Experts on India's coronavirus crisis",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/u-s-australia-bolster-health-security-cooperation-in-face-of-coronavirus-china-11595964310"
     },
     {
-        "title": "Russia aims to approve Covid-19 vaccine by mid-August, but questions remain",
-        "link": "https://www.msn.com/en-us/news/world/russia-aims-to-approve-covid-19-vaccine-by-mid-august-but-questions-remain/ar-BB17iBoL?li=BBnbcA1"
-    },
-    {
-        "title": "Coronavirus: German officials 'very concerned' by rising cases",
-        "link": "https://www.bbc.com/news/world-europe-53566880"
+        "title": "Moderna Vaccine Protects 16 Monkeys From Virus; 30,000 Humans Await",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d3429220-d147-11ea-9b85-8b5373b534c8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0yOC9tb2Rlcm5hLXByb3RlY3RzLTE2LW1vbmtleXMtZnJvbS12aXJ1cy0zMC0wMDAtaHVtYW5zLWF3YWl0"
     },
     {
         "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
         "link": "https://www.foxnews.com/world/sweden-sees-coronavirus-cases-drop-after-controversially-avoiding-lockdowns"
     },
     {
-        "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
-        "link": "https://www.cnn.com/2020/07/28/politics/donald-trump-coronavirus-briefing/index.html"
+        "title": "German police dig up garden in Madeleine McCann investigation",
+        "link": "https://www.yahoo.com/news/german-police-dig-garden-madeleine-110141793.html"
+    },
+    {
+        "title": "World Health Organization: Coronavirus pandemic is 'one big wave' | TheHill",
+        "link": "https://thehill.com/policy/healthcare/509327-world-health-organization-coronavirus-pandemic-is-one-big-wave"
     }
 ];
