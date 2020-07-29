@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/pakistan-pm-khan-warns-eid-al-adha-coronavirus-spike-200728075119744.html"
     },
     {
-        "title": "Coronavirus live news: US deaths near 150,000 as Italy extends state of emergency",
+        "title": "Coronavirus live news: US deaths near 150,000 as Hong Kong warns hospitals could collapse",
         "link": "https://www.theguardian.com/world/live/2020/jul/29/coronavirus-live-news-us-deaths-near-150000-as-italy-extends-state-of-emergency"
     },
     {
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Russia aiming to approve COVID-19 vaccine within weeks: report | TheHill",
-        "link": "https://thehill.com/policy/international/509496-russia-aiming-to-approve-covid-19-vaccine-within-weeks-report"
+        "title": "Coronavirus vaccine: 'We are very encouraged,' says Pfizer Chief Scientific Officer",
+        "link": "https://www.youtube.com/watch?v=bNFeJvvlfEs"
+    },
+    {
+        "title": "Coronavirus Updates: Trump Backs Hydroxychloroquine—Again as Biden Slams His Covid-19 Response",
+        "link": "https://www.youtube.com/watch?v=BP5HIxcpnMU"
     },
     {
         "title": "Sweden sees coronavirus cases drop, after controversially avoiding lockdowns",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "The World’s Covid Resurgence",
         "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
-    },
-    {
-        "title": "Coronavirus: Trump sticks by revoked hydroxychloroquine",
-        "link": "https://www.bbc.com/news/world-us-canada-53575964"
     }
 ];
