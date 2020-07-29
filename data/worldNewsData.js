@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Coronavirus vaccine: 'We are very encouraged,' says Pfizer Chief Scientific Officer",
-        "link": "https://www.youtube.com/watch?v=bNFeJvvlfEs"
+        "title": "3 Reasons to Buy Moderna Stock, and 1 Reason to Sell It",
+        "link": "https://www.fool.com/investing/2020/07/28/3-reasons-to-buy-moderna-and-1-reason-to-sell.aspx"
     },
     {
         "title": "Coronavirus Updates: Trump Backs Hydroxychloroquine—Again as Biden Slams His Covid-19 Response",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/sweden-sees-coronavirus-cases-drop-after-controversially-avoiding-lockdowns"
     },
     {
-        "title": "The World’s Covid Resurgence",
-        "link": "https://www.wsj.com/articles/the-worlds-covid-resurgence-11595978652"
+        "title": "Coronavirus: Hong Kong hospitals face 'collapse' as outbreak grows",
+        "link": "https://news.yahoo.com/coronavirus-hong-kong-implements-strict-232825833.html"
     }
 ];

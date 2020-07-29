@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200728173151088?did=1195m"
     },
     {
-        "title": "‘코로나19’ 확진자 48명 추가…해외유입 34명, 지역발생 14명",
-        "link": "https://www.donga.com/news/article/all/20200729/102205284/1"
+        "title": "코로나 신규 확진자 48명…국외유입 34명·지역사회 14명",
+        "link": "http://www.hani.co.kr/arti/society/health/955633.html"
+    },
+    {
+        "title": "중기중앙회 \"코로나에도 외국인 근로자 입국재개해야\"",
+        "link": "https://www.nocutnews.co.kr/news/5386451"
     },
     {
         "title": "코로나19 신규확진 48명 중 해외유입 34명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213435"
     },
     {
-        "title": "확진자 32명 나왔던 러 선박서 12명 추가 확진",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200729500023&wlog_tag3=naver"
+        "title": "부산 러 선박 ‘페트로1호’서 확진자 12명 추가 발생",
+        "link": "https://www.donga.com/news/article/all/20200729/102203672/1"
     },
     {
         "title": "코로나19 신규확진 48명…지역발생 14명·해외유입 34명",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200729_0001111342&cID=10806&pID=10800"
     },
     {
-        "title": "부산항 입항 러시아 선박서 코로나19 추가 확진자 12명 발생",
-        "link": "https://www.nocutnews.co.kr/news/5386278"
+        "title": "32명 확진자 나온 러시아 선박서 12명 추가 감염",
+        "link": "http://yna.kr/AKR20200729052800051?did=1195m"
     },
     {
         "title": "경남 해외유입 관련 코로나19 확진자 2명 발생",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002662371&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "무서운 확산세 항만 코로나…부산항 러 선박 12명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200729060300051?did=1195m"
     }
 ];
