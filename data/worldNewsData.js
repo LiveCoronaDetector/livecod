@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/what-is-israels-new-defend-israel-coronavirus-plan-636658"
     },
     {
-        "title": "Coronavirus live news: US deaths near 150,000 as Hong Kong warns hospitals could collapse",
-        "link": "https://www.theguardian.com/world/live/2020/jul/29/coronavirus-live-news-us-deaths-near-150000-as-italy-extends-state-of-emergency"
+        "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/28/896135038/german-and-u-k-officials-warn-of-a-possible-new-covid-19-wave-in-europe"
     },
     {
         "title": "India coronavirus: 'More than half of Mumbai slum-dwellers had Covid-19'",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "3 Reasons to Buy Moderna Stock, and 1 Reason to Sell It",
-        "link": "https://www.fool.com/investing/2020/07/28/3-reasons-to-buy-moderna-and-1-reason-to-sell.aspx"
+        "title": "Second Covid-19 vaccine trial commences in Russia",
+        "link": "https://www.clinicaltrialsarena.com/news/russia-second-covid-vaccine-trial/"
     },
     {
         "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/sweden-sees-coronavirus-cases-drop-after-controversially-avoiding-lockdowns"
     },
     {
-        "title": "Hong Kong is 'on the verge' of an outbreak that could lead to hospital system's collapse, chief executive says",
-        "link": "https://www.cnbc.com/2020/07/29/hong-kong-on-the-verge-of-large-scale-coronavirus-community-outbreak-carrie-lam.html"
+        "title": "New Hong Kong Virus Wave Raises Questions About Elections",
+        "link": "https://www.youtube.com/watch?v=JwxFH1hg84w"
     }
 ];
