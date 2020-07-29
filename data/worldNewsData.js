@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/07/27/africa-surge-coronavirus-covid-19-pandemic-cases-world-health-organization-mckenzie-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "Live Coronavirus Updates",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
+        "title": "US coronavirus deaths near 150,000 as 21 states declared 'red zones'",
+        "link": "https://www.theguardian.com/us-news/2020/jul/29/us-covid-19-coronavirus-deaths-states-red-zone-infection-spikes"
     },
     {
         "title": "Pakistan: PM Khan warns of possible Eid al-Adha coronavirus spike",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
-        "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
-    },
-    {
         "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     },
     {
-        "title": "Mika To Trump On Coronavirus: 'You Have Botched This From The Start' | Morning Joe | MSNBC",
-        "link": "https://www.youtube.com/watch?v=nHNW5VecFyU"
+        "title": "Exclusive: Russia claims it's on track to approve Covid-19 vaccine by mid-August. But speed of process raises questions",
+        "link": "https://www.cnn.com/2020/07/28/europe/russia-coronavirus-vaccine-approval-intl/index.html"
+    },
+    {
+        "title": "'One big wave' – why the Covid-19 second wave may not exist",
+        "link": "https://www.theguardian.com/world/2020/jul/29/one-big-wave-why-the-covid-19-second-wave-may-not-exist-coronavirus"
     }
 ];
