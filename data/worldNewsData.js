@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/07/china-reports-coronavirus-cases-april-live-updates-200728235141036.html"
     },
     {
-        "title": "Second Covid-19 vaccine trial commences in Russia",
-        "link": "https://www.clinicaltrialsarena.com/news/russia-second-covid-vaccine-trial/"
+        "title": "Stage 3 clinical trials on COVID-19 vaccines could see results before end of the year",
+        "link": "https://www.youtube.com/watch?v=dYs0RKNIMKM"
     },
     {
         "title": "Trump abruptly ends briefing after being pressed over retweeting misinformation",
