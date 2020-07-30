@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "More Than 150000 People Have Died From Coronavirus In The U.S.",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/29/896491060/more-than-150-000-people-have-died-from-coronavirus-in-the-u-s"
+        "title": "Coronavirus: Trump’s signals 'not helpful', says Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53587527"
     },
     {
         "title": "Israel could open its skies by mid-August",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnet.com/features/censorship-coronavirus-how-chinese-nationalism-kills/"
     },
     {
-        "title": "Trump Defends Sharing Bogus COVID-19 'Cure' At Odds With His Own FDA | The 11th Hour | MSNBC",
-        "link": "https://www.youtube.com/watch?v=jrwOvap7uLo"
-    },
-    {
-        "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
+        "title": "Trump undermines his pandemic response with more misinformation and self-obsession",
+        "link": "https://www.cnn.com/2020/07/29/politics/donald-trump-coronavirus-response/index.html"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "U.S. still leads the world in coronavirus cases, ahead of developing countries",
-        "link": "https://news.yahoo.com/united-states-leads-coronavirus-cases-cdc-documents-142600896.html"
+        "title": "Trump Defends Sharing Bogus COVID-19 'Cure' At Odds With His Own FDA | The 11th Hour | MSNBC",
+        "link": "https://www.youtube.com/watch?v=jrwOvap7uLo"
+    },
+    {
+        "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     }
 ];
