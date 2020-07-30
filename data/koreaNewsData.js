@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020073043937"
     },
     {
+        "title": "인도, 코로나 일일 확진자 5만명 처음 넘어…봉쇄는 더 풀어(종합)",
+        "link": "http://yna.kr/AKR20200730071951104?did=1195m"
+    },
+    {
         "title": "[종합] 코로나19 확진자 18명 증가...해외 11명 중 필리핀 4명",
         "link": "http://www.fnnews.com/news/202007301013450947"
     },
     {
-        "title": "북한신문 \"코로나 확진자 한명도 없다\"…탈북민 월북 후 첫 언급",
-        "link": "http://yna.kr/AKR20200730038000504?did=1195m"
+        "title": "월북한 탈북민 코로나 의심된다더니…北 \"코로나 확진자 한 명도 없다\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001152.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "속초 코로나19 확진자 2명 발생...성남 확진자 부부와 캠핑",
@@ -23,10 +27,6 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 18명…38일 만에 10명대",
         "link": "http://www.hani.co.kr/arti/society/health/955791.html"
-    },
-    {
-        "title": "'돈 번다'며 도주했던 광주 118번 확진자 구속(종합)",
-        "link": "http://yna.kr/AKR20200730084551054?did=1195m"
     },
     {
         "title": "'빈민가의 기적' 인도 뭄바이서 코로나 집단면역 도달(종합)",

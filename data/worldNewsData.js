@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Live updates: U.S. reports 1,400 coronavirus deaths in a day — about one per minute",
-        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus live news: France rules out lockdown despite infections rise; Japan reports second day of record new cases",
+        "link": "https://www.theguardian.com/world/live/2020/jul/30/coronavirus-live-news-brazil-sees-record-daily-cases-as-hong-kong-on-brink-of-large-scale-outbreak"
     },
     {
         "title": "Israel could open its skies by mid-August",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/30/us/five-things-july-30-trnd/index.html"
     },
     {
-        "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
-        "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
+        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
+        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Coronavirus: Australia's Victoria records huge case jump",
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "President Trump defends video making false claims about the coronavirus",
-        "link": "https://www.youtube.com/watch?v=iyXFMhyZO0Q"
-    },
-    {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
+    },
+    {
+        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     },
     {
         "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
         "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
     },
     {
-        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
+        "title": "Live updates: U.S. reports 1,400 coronavirus deaths in a day — about one per minute",
+        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     }
 ];
