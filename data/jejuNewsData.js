@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.newspim.com/news/view/20200730000027"
     },
     {
-        "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
-    },
-    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     },
     {
         "title": "[특집기획] 포스트 코로나 시대의 개인영상정보 활용과 보호",

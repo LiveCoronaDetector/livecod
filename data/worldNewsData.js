@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "More Than 150000 People Have Died From Coronavirus In The U.S.",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/29/896491060/more-than-150-000-people-have-died-from-coronavirus-in-the-u-s"
+        "title": "Coronavirus: Trump’s signals 'not helpful', says Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53587527"
     },
     {
         "title": "Netanyahu tells world leaders Israel aiming to mass test for coronavirus",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
     },
     {
-        "title": "Coronavirus live news: Australia sees record new cases as global infections near 17m",
+        "title": "Coronavirus live updates: Australia reports daily record number of cases",
+        "link": "https://www.cnbc.com/2020/07/29/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Trump Attacks Fauci Over First Pitch Throw | NowThis",
+        "link": "https://www.youtube.com/watch?v=oPT2aKgyQBo"
+    },
+    {
+        "title": "Coronavirus live news: Australia suffers deadliest day as Japan lifts ban on foreign re-entry",
         "link": "https://www.theguardian.com/world/live/2020/jul/30/coronavirus-live-news-brazil-sees-record-daily-cases-as-hong-kong-on-brink-of-large-scale-outbreak"
     },
     {
-        "title": "Trump undermines his pandemic response with more misinformation and self-obsession",
-        "link": "https://www.cnn.com/2020/07/29/politics/donald-trump-coronavirus-response/index.html"
+        "title": "Coronavirus makes a comeback around the world - The Washington Post",
+        "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Muslims begin downsized Hajj pilgrimage amid coronavirus pandemic",
-        "link": "https://www.youtube.com/watch?v=ztky7P_vGzM"
-    },
-    {
-        "title": "Trump Defends Sharing Bogus COVID-19 'Cure' At Odds With His Own FDA | The 11th Hour | MSNBC",
-        "link": "https://www.youtube.com/watch?v=jrwOvap7uLo"
-    },
-    {
-        "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
+        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     }
 ];

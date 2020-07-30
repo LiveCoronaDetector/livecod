@@ -92,9 +92,9 @@ var marker = [
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "확진자수": 276288,
-        "사망자수": 5892,
-        "완치자수": 244883
+        "확진자수": 277402,
+        "사망자수": 5924,
+        "완치자수": 246131
     },
     {
         "Name": "콜롬비아",
@@ -401,6 +401,14 @@ var marker = [
         "완치자수": 25389
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 35223,
+        "사망자수": 1364,
+        "완치자수": 23985
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
@@ -415,14 +423,6 @@ var marker = [
         "확진자수": 34802,
         "사망자수": 1979,
         "완치자수": 31100
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 34592,
-        "사망자수": 1347,
-        "완치자수": 22296
     },
     {
         "Name": "일본",
@@ -828,7 +828,7 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 3298,
+        "확진자수": 3304,
         "사망자수": 58,
         "완치자수": 3111
     },
@@ -1476,9 +1476,9 @@ var marker = [
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "확진자수": 99,
+        "확진자수": 101,
         "사망자수": 0,
-        "완치자수": 86
+        "완치자수": 88
     },
     {
         "Name": "Antigua and Barbuda",
@@ -1561,6 +1561,14 @@ var marker = [
         "완치자수": 18
     },
     {
+        "Name": "Grenada",
+        "Name_ch": "",
+        "Name_en": "Grenada",
+        "확진자수": 24,
+        "사망자수": 0,
+        "완치자수": 23
+    },
+    {
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
@@ -1575,14 +1583,6 @@ var marker = [
         "확진자수": 24,
         "사망자수": 0,
         "완치자수": 24
-    },
-    {
-        "Name": "Grenada",
-        "Name_ch": "",
-        "Name_en": "Grenada",
-        "확진자수": 23,
-        "사망자수": 0,
-        "완치자수": 23
     },
     {
         "Name": "New Caledonia",
