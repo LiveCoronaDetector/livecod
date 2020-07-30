@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/29/896491060/more-than-150-000-people-have-died-from-coronavirus-in-the-u-s"
     },
     {
-        "title": "Netanyahu tells world leaders Israel aiming to mass test for coronavirus",
-        "link": "https://www.jpost.com/health-science/netanyahu-tells-world-leaders-israel-aiming-to-mass-test-for-coronavirus-636792"
+        "title": "Israel could open its skies by mid-August",
+        "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
     },
     {
         "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnet.com/features/censorship-coronavirus-how-chinese-nationalism-kills/"
     },
     {
-        "title": "Fauci Disputes Viral Video: 'Hydroxychloroquine Is Not Effective' | Andrea Mitchell | MSNBC",
-        "link": "https://www.youtube.com/watch?v=o4fwoNvNHbY"
+        "title": "President Trump defends video making false claims about the coronavirus",
+        "link": "https://www.youtube.com/watch?v=iyXFMhyZO0Q"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",

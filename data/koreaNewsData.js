@@ -5,8 +5,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007291018011&code=940601"
     },
     {
-        "title": "인천항 첫 코로나19 선원 확진자 발생에 방역 비상",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005905847&plink=ORI&cooper=NAVER"
+        "title": "[속보] 北 매체 “코로나 확진자 0명”… 탈북민 월북 후 첫 언급",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014858269&code=61111111&cp=nv"
+    },
+    {
+        "title": "북한신문 \"코로나 확진자 한명도 없다\"…탈북민 월북 후 첫 언급",
+        "link": "http://yna.kr/AKR20200730038000504?did=1195m"
     },
     {
         "title": "해외 코로나19 확진자 34명..러시아 선박서 12명 추가, 총 44명",
@@ -15,10 +19,6 @@ var koreaNewsData = [
     {
         "title": "WHO \"北 코로나 1,200여명 검사…확진자는 제로\"",
         "link": "https://www.nocutnews.co.kr/news/5386265"
-    },
-    {
-        "title": "잇단 확진자에 비상 걸린 항만방역…\"하선 안해도 진단검사해야\"",
-        "link": "http://yna.kr/AKR20200729150400530?did=1195m"
     },
     {
         "title": "[종합] 코로나19 확진자 48명 증가...해외 34명 중 러시아 13명, 미국 8명",
