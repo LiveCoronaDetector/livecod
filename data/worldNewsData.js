@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnet.com/features/censorship-coronavirus-how-chinese-nationalism-kills/"
     },
     {
-        "title": "Coronavirus: Trump’s signals 'not helpful', says Fauci",
-        "link": "https://www.bbc.com/news/world-us-canada-53587527"
+        "title": "Fauci Disputes Viral Video: 'Hydroxychloroquine Is Not Effective' | Andrea Mitchell | MSNBC",
+        "link": "https://www.youtube.com/watch?v=o4fwoNvNHbY"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     },
     {
-        "title": "Russia intends to aprove coronavirus vaccine despite safety concerns",
-        "link": "https://www.cnn.com/videos/world/2020/07/28/russia-coronavirus-vaccine-approval-sputnik-moment-chance-intl-tsr-vpx.cnn"
+        "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     }
 ];
