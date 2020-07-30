@@ -21,16 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
     },
     {
-        "title": "Coronavirus live updates: Global infections top 17 million; Australia reports daily record number of cases",
+        "title": "Coronavirus live updates: Global infections top 17 million; Australia reports new daily record cases",
         "link": "https://www.cnbc.com/2020/07/29/coronavirus-live-updates.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
-    },
-    {
-        "title": "Trump Defends Sharing Bogus COVID-19 'Cure' At Odds With His Own FDA | The 11th Hour | MSNBC",
-        "link": "https://www.youtube.com/watch?v=jrwOvap7uLo"
     },
     {
         "title": "Coronavirus Live Updates: Judge Blocks Green Card Wealth Tests, Citing Pandemic Hardships",
@@ -39,5 +31,13 @@ var worldNewsData = [
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
+    },
+    {
+        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
+    },
+    {
+        "title": "U.S. still leads the world in coronavirus cases, ahead of developing countries",
+        "link": "https://news.yahoo.com/united-states-leads-coronavirus-cases-cdc-documents-142600896.html"
     }
 ];
