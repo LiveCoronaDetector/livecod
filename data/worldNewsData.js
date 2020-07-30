@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/edelstein-gantz-consider-lifting-some-coronavirus-weekend-closures-636903"
     },
     {
-        "title": "EU extends ban on American travelers — again — with US COVID-19 cases far outpacing European countries",
-        "link": "https://www.usatoday.com/story/travel/news/2020/07/30/europe-travel-ban-americans-covid-19-rise-eu-to-us/5546206002/"
+        "title": "Germany official says coronavirus vaccine won't come sooner than mid-2021",
+        "link": "https://www.foxnews.com/health/germany-coronavirus-vaccine-2021"
     },
     {
         "title": "Is national pride, China tension behind India’s coronavirus vaccine push?",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-sees-spike-in-covid-19-cases-6-months-after-who-declares-coronavirus-a-health-emergency"
     },
     {
-        "title": "Coronavirus updates: NJ sees 112% increase in cases, deaths double in Atlanta area",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
-    },
-    {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "Coronavirus updates: NJ sees 112% increase in cases, deaths double in Atlanta area",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     },
     {
         "title": "Who is Dr Stella Immanuel?",
