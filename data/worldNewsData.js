@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/edelstein-gantz-consider-lifting-some-coronavirus-weekend-closures-636903"
     },
     {
-        "title": "Germany official says coronavirus vaccine won't come sooner than mid-2021",
-        "link": "https://www.foxnews.com/health/germany-coronavirus-vaccine-2021"
+        "title": "EU extends ban on American travelers — again — with US COVID-19 cases far outpacing European countries",
+        "link": "https://www.usatoday.com/story/travel/news/2020/07/30/europe-travel-ban-americans-covid-19-rise-eu-to-us/5546206002/"
     },
     {
         "title": "Is national pride, China tension behind India’s coronavirus vaccine push?",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "China sees spike in COVID-19 cases 6 months after WHO declares coronavirus a health emergency",
         "link": "https://www.foxnews.com/world/china-sees-spike-in-covid-19-cases-6-months-after-who-declares-coronavirus-a-health-emergency"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
         "title": "Coronavirus updates: NJ sees 112% increase in cases, deaths double in Atlanta area",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Who is Dr Stella Immanuel?",
         "link": "https://www.youtube.com/watch?v=9yCXCP3evAg"
+    },
+    {
+        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
+        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
     }
 ];
