@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Netanyahu tells world leaders Israel aiming to mass test for coronavirus",
-        "link": "https://www.jpost.com/health-science/netanyahu-tells-world-leaders-israel-aiming-to-mass-test-for-coronavirus-636792"
+        "title": "Israel could open its skies by mid-August",
+        "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
     },
     {
         "title": "German coronavirus studies identify heart issues in COVID-19 patients",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/jul/30/coronavirus-live-news-brazil-sees-record-daily-cases-as-hong-kong-on-brink-of-large-scale-outbreak"
     },
     {
-        "title": "Fauci Disputes Viral Video: 'Hydroxychloroquine Is Not Effective' | Andrea Mitchell | MSNBC",
-        "link": "https://www.youtube.com/watch?v=o4fwoNvNHbY"
-    },
-    {
-        "title": "Coronavirus makes a comeback around the world - The Washington Post",
-        "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
-    },
-    {
-        "title": "Coronavirus Live Updates: Judge Blocks Green Card Wealth Tests, Citing Pandemic Hardships",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
+        "title": "Trump undermines his pandemic response with more misinformation and self-obsession",
+        "link": "https://www.cnn.com/2020/07/29/politics/donald-trump-coronavirus-response/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
+    },
+    {
+        "title": "Trump promotes a doctor who has claimed alien DNA was used in medical treatments",
+        "link": "https://www.cnn.com/2020/07/29/politics/stella-immanuel-trump-doctor/index.html"
+    },
+    {
+        "title": "Coronavirus Live Updates: Judge Blocks Green Card Wealth Tests, Citing Pandemic Hardships",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     }
 ];
