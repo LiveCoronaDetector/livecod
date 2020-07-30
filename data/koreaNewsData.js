@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200730500047&wlog_tag3=naver"
     },
     {
-        "title": "월북한 탈북민 코로나 의심된다더니…北 \"코로나 확진자 한 명도 없다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001152.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 18명···39일만에 10명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007301022001&code=940601"
     },
@@ -29,8 +25,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955791.html"
     },
     {
-        "title": "세계 코로나19 확진자 1700만명 넘어…한달새 700만명 ↑",
-        "link": "https://view.asiae.co.kr/article/2020073010333302976"
+        "title": "[속보] 속초 30대 부부 확진…\"성남 확진자 부부와 홍천 캠핑\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007300188&t=NN"
     },
     {
         "title": "'빈민가의 기적' 인도 뭄바이서 코로나 집단면역 도달(종합)",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "‘코로나19’ 신규확진 38일 만에 10명대로…해외유입 11명·국내발생 7명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4506299&ref=A"
+    },
+    {
+        "title": "국내 코로나19 신규 확진 18명…38일만에 10명대 기록",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5858610_32633.html"
     }
 ];

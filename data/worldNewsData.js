@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Live updates: Emergency unemployment payments likely to end; U.S. records 1,400 coronavirus deaths in a day",
-        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
+        "title": "In shadow of coronavirus, Muslims pray on peak day of Hajj: Live",
+        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-outbreak-accelerating-brazil-live-updates-200729230051532.html"
     },
     {
         "title": "Israel could open its skies by mid-August",
         "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
+        "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
+        "link": "https://www.theguardian.com/world/2020/jul/29/germany-covid-19-fears-grow-over-reckless-partygoers"
     },
     {
         "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "US tops 150000 coronavirus deaths",
-        "link": "https://www.youtube.com/watch?v=PrJRP1dK6H4"
-    },
-    {
-        "title": "Some doctors met with Pence after their group's video was removed for misleading info",
-        "link": "https://www.msn.com/en-us/news/politics/some-doctors-met-with-pence-after-their-groups-video-was-removed-for-misleading-info/ar-BB17ka8v?li=BBnb7Kz"
+        "title": "Biden slams Trump for promoting false COVID-19 claims from 'crazy woman'",
+        "link": "https://www.nbcnews.com/politics/2020-election/biden-slams-trump-promoting-false-covid-19-claims-crazy-woman-n1235235"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "U.S. still leads the world in coronavirus cases, ahead of developing countries",
         "link": "https://news.yahoo.com/united-states-leads-coronavirus-cases-cdc-documents-142600896.html"
+    },
+    {
+        "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
+        "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
     }
 ];
