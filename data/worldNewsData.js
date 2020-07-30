@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus live news: Australia sees record 723 new cases as global infections near 17m",
-        "link": "https://www.theguardian.com/world/live/2020/jul/30/coronavirus-live-news-brazil-sees-record-daily-cases-as-hong-kong-on-brink-of-large-scale-outbreak"
+        "title": "How China used censorship to hide the coronavirus truth",
+        "link": "https://www.cnet.com/features/censorship-coronavirus-how-chinese-nationalism-kills/"
     },
     {
-        "title": "Fauci Disputes Viral Video: 'Hydroxychloroquine Is Not Effective' | Andrea Mitchell | MSNBC",
-        "link": "https://www.youtube.com/watch?v=o4fwoNvNHbY"
+        "title": "Trump Defends Sharing Bogus COVID-19 'Cure' At Odds With His Own FDA | The 11th Hour | MSNBC",
+        "link": "https://www.youtube.com/watch?v=jrwOvap7uLo"
     },
     {
         "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
+        "title": "U.S. still leads the world in coronavirus cases, ahead of developing countries",
+        "link": "https://news.yahoo.com/united-states-leads-coronavirus-cases-cdc-documents-142600896.html"
     }
 ];
