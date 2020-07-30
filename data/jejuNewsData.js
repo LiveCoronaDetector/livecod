@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "5개월만에 재개하는 LPGA... '투어불참' 유소연 \"미국 코로나 상황 안 좋다\"",
-        "link": "http://www.newspim.com/news/view/20200730000027"
-    },
-    {
         "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
+    },
+    {
+        "title": "5개월만에 재개하는 LPGA... '투어불참' 유소연 \"미국 코로나 상황 안 좋다\"",
+        "link": "http://www.newspim.com/news/view/20200730000027"
     },
     {
         "title": "[코로나19] 용인 125번 확진자 접촉자 발생 동향",

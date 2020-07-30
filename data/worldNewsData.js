@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Israel botched its handling of the coronavirus by dubbing it war, former Mossad chief says",
-        "link": "https://www.haaretz.com/israel-news/.premium-israel-botched-its-handling-of-coronavirus-by-calling-it-a-war-ex-mossad-chief-says-1.9033713"
+        "title": "‘Israel has gained control of coronavirus crisis’",
+        "link": "https://www.jpost.com/health-science/edelstein-gantz-consider-lifting-some-coronavirus-weekend-closures-636903"
     },
     {
         "title": "5 things to know for July 30: Coronavirus, police, stimulus, Hong Kong, Germany",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
-    },
-    {
-        "title": "Coronavirus updates: NJ sees 112% increase in cases, deaths double in Atlanta area",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
-    },
-    {
-        "title": "Trump’s New Favorite Doctor Believes In Demon Sperm And Hydroxychloroquine",
-        "link": "https://www.refinery29.com/en-us/2020/07/9937820/what-is-demon-sperm-dr-stella-immanuel"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
         "title": "Herman Cain has died after being hospitalized with Covid-19",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/h_fec49eea9de41b353b3a39cd1aa351d6"
+    },
+    {
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "Seth Meyers on Trump's Covid-19 misinformation: 'Desperate for a magic fix'",
+        "link": "https://www.theguardian.com/culture/2020/jul/30/seth-meyers-trump-covid-misinformation-late-night"
     }
 ];
