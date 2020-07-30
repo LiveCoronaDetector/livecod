@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955791.html"
     },
     {
+        "title": "북한신문 \"코로나 확진자 한명도 없다\"…탈북민 월북 후 첫 언급",
+        "link": "http://yna.kr/AKR20200730038000504?did=1195m"
+    },
+    {
         "title": "속초 코로나19 확진자 2명 발생...성남 확진자 부부와 캠핑",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200730500047&wlog_tag3=naver"
     },
     {
-        "title": "전세계 코로나19 확진자 1천700만명 넘어…나흘만에 100만명씩↑(종합)",
-        "link": "http://yna.kr/AKR20200730028151009?did=1195m"
-    },
-    {
-        "title": "월북한 탈북민 코로나 의심된다더니…北 \"코로나 확진자 한 명도 없다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001152.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "전세계 코로나19 확진자 1천700만명 넘어",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5858651_32640.html"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 48명···국내 발생 14명",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02305846625839768"
     },
     {
-        "title": "'빈민가의 기적' 인도 뭄바이서 코로나 집단면역 도달(종합)",
-        "link": "https://www.news1.kr/articles/?4011204"
+        "title": "[속보] 도쿄 코로나19 신규 확진자 367명···또 최고치 경신",
+        "link": "https://www.sedaily.com/NewsView/1Z5I6WXH8E"
     },
     {
-        "title": "LPGA투어에 코로나19 확진자",
-        "link": "http://www.munhwa.com/news/view.html?no=20200730MW102828596660"
+        "title": "'하루 확진자 신기록' 달성 日, 유학생 등 외국인 재입국 다음달 5일부터 허용",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001401.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
