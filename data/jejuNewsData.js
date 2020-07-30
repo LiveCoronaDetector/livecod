@@ -9,6 +9,14 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
     },
     {
+        "title": "광진구 20번 확진자 사태, 제주 n차 감염 고비 넘기나",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2168798"
+    },
+    {
+        "title": "'제주 발칵' 코로나 n차 감염사태 가라앉나...주말 고비",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=148765"
+    },
+    {
         "title": "5개월만에 재개하는 LPGA... '투어불참' 유소연 \"미국 코로나 상황 안 좋다\"",
         "link": "http://www.newspim.com/news/view/20200730000027"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 26번 확진자 출입명부 미작성 유흥업소 업주 고발",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
-    },
-    {
-        "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
-    },
-    {
-        "title": "용인 125번째 확진자 도내 방문 접촉자 발생",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1303780"
     }
 ];

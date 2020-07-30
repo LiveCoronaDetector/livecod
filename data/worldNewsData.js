@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
     },
     {
-        "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
-        "link": "https://www.theguardian.com/world/2020/jul/29/germany-covid-19-fears-grow-over-reckless-partygoers"
+        "title": "German coronavirus studies identify heart issues in COVID-19 patients",
+        "link": "https://www.foxnews.com/health/heart-coronavirus-patients-german-studies"
     },
     {
-        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
-        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
+        "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
+        "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
     },
     {
         "title": "Coronavirus: Australia's Victoria records huge case jump",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
+        "title": "Trump promotes doctor who touts theories about demons and aliens, hydroxychloroquine as coronavirus cure",
+        "link": "https://www.oregonlive.com/coronavirus/2020/07/trump-promotes-doctor-who-touts-theories-about-demon-and-aliens-hydroxychloroquine-as-coronavirus-cure.html"
+    },
+    {
         "title": "Japan to permit re-entry of 88000 foreign residents from Aug. 5",
         "link": "https://mainichi.jp/english/articles/20200730/p2g/00m/0na/081000c"
     },
     {
-        "title": "Trump Defends Sharing Bogus COVID-19 'Cure' At Odds With His Own FDA | The 11th Hour | MSNBC",
-        "link": "https://www.youtube.com/watch?v=jrwOvap7uLo"
-    },
-    {
-        "title": "Coronavirus makes a comeback around the world - The Washington Post",
-        "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
+        "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
+        "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
     }
 ];
