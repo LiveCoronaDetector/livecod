@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Coronavirus live news: France rules out lockdown despite infections rise; Japan reports second day of record new cases",
-        "link": "https://www.theguardian.com/world/live/2020/jul/30/coronavirus-live-news-brazil-sees-record-daily-cases-as-hong-kong-on-brink-of-large-scale-outbreak"
+        "title": "Live updates: U.S. reports 1,400 coronavirus deaths in a day — about one per minute",
+        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Israel could open its skies by mid-August",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
+        "title": "Asia Today: 723 cases in Australia, closures in Vietnam",
+        "link": "https://news.yahoo.com/asia-today-723-cases-australia-035517691.html"
+    },
+    {
+        "title": "Coronavirus updates: Global cases surge by more than 2 million in just 8 days",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+    },
+    {
+        "title": "Trump and his allies respond with pseudo-science as US death toll hits 150,000",
+        "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/index.html"
+    },
+    {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
-    },
-    {
-        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
-    },
-    {
-        "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
-        "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
-    },
-    {
-        "title": "Live updates: U.S. reports 1,400 coronavirus deaths in a day — about one per minute",
-        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     }
 ];

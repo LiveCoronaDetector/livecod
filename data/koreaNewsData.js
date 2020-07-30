@@ -9,12 +9,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200730071951104?did=1195m"
     },
     {
+        "title": "코로나19 확산된 미국 2분기 성장률 -32.9%… 2차대전 이후 최악",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073004460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "'고삐 조이는 영국'…코로나19 확진 시 자가격리 7→10일(종합)",
+        "link": "http://yna.kr/AKR20200730175451085?did=1195m"
+    },
+    {
         "title": "[종합] 코로나19 확진자 18명 증가...해외 11명 중 필리핀 4명",
         "link": "http://www.fnnews.com/news/202007301013450947"
     },
     {
-        "title": "월북한 탈북민 코로나 의심된다더니…北 \"코로나 확진자 한 명도 없다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001152.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "北 매체 “우리나라에 코로나19 확진자 없다” 보도, 왜?",
+        "link": "http://www.segye.com/content/html/2020/07/30/20200730507790.html?OutUrl=naver"
     },
     {
         "title": "속초 코로나19 확진자 2명 발생...성남 확진자 부부와 캠핑",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "'빈민가의 기적' 인도 뭄바이서 코로나 집단면역 도달(종합)",
         "link": "https://www.news1.kr/articles/?4011204"
-    },
-    {
-        "title": "세계 코로나19 확진자 1700만명 넘어…한달새 700만명 ↑",
-        "link": "https://view.asiae.co.kr/article/2020073010333302976"
-    },
-    {
-        "title": "‘코로나19’ 신규확진 38일 만에 10명대로…해외유입 11명·국내발생 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4506299&ref=A"
     }
 ];
