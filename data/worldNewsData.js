@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Live updates: Emergency unemployment payments likely to end; U.S. records 1,400 coronavirus deaths in a day",
-        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus live news: France rules out 'catastrophic' second national lockdown despite rise in infections",
+        "link": "https://www.theguardian.com/world/live/2020/jul/30/coronavirus-live-news-brazil-sees-record-daily-cases-as-hong-kong-on-brink-of-large-scale-outbreak"
     },
     {
         "title": "Israel could open its skies by mid-August",
         "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
     },
     {
-        "title": "Germany's new virus cases fell to below 500 a day for weeks. Now they've topped 800",
-        "link": "https://www.cnn.com/2020/07/28/europe/europe-coronavirus-resurgence-intl/index.html"
+        "title": "5 things to know for July 30: Coronavirus, police, stimulus, Hong Kong, Germany",
+        "link": "https://www.cnn.com/2020/07/30/us/five-things-july-30-trnd/index.html"
     },
     {
         "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "Seth Meyers Can't Get Over the Trump Family's Obsession With Hydroxychloroquine (Video)",
-        "link": "https://www.msn.com/en-us/tv/news/seth-meyers-cant-get-over-the-trump-familys-obsession-with-hydroxychloroquine-video/ar-BB17lGWb"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
+    },
+    {
+        "title": "Trump promotes a doctor who has claimed alien DNA was used in medical treatments",
+        "link": "https://www.cnn.com/2020/07/29/politics/stella-immanuel-trump-doctor/index.html"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
         "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
-    },
-    {
-        "title": "Russia intends to approve coronavirus vaccine despite safety concerns",
-        "link": "https://www.cnn.com/videos/world/2020/07/28/russia-coronavirus-vaccine-approval-sputnik-moment-chance-intl-tsr-vpx.cnn"
     }
 ];

@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4011204"
     },
     {
+        "title": "전세계 코로나19 확진자 1,700만명 넘었다···中우한 발병 후 7개월만",
+        "link": "https://www.sedaily.com/NewsView/1Z5I5UDG05"
+    },
+    {
         "title": "‘코로나19’ 신규확진 38일 만에 10명대로…해외유입 11명·국내발생 7명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4506299&ref=A"
     },
     {
         "title": "'하루 확진자 신기록' 달성 日, 유학생 등 외국인 재입국 다음달 5일부터 허용",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001401.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "국내 코로나19 신규 확진 18명…38일만에 10명대 기록",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5858610_32633.html"
     }
 ];
