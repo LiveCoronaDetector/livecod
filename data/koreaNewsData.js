@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200731003551088?did=1195m"
     },
     {
+        "title": "ML 마이애미 코로나19, 필라델피아로 전파…2명 양성 반응",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005908842&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "[단독] 확진자 '밀접 접촉자' 빠르고 정확하게 찾는다",
         "link": "https://www.ytn.co.kr/_ln/0106_202007310437568320"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 확산된 미국 2분기 성장률 -32.9%… 2차대전 이후 최악",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073004460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "\"코로나 불안, 美대선 연기???\" 트윗으로 핵폭탄 던진 트럼프",
-        "link": "https://news.joins.com/article/olink/23432382"
     }
 ];
