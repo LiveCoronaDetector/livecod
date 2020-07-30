@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Live updates: White House says emergency payments likely to stop; U.S. tallies 1,400 coronavirus deaths in a day",
+        "title": "Live updates: Emergency unemployment payments likely to end; U.S. records 1,400 coronavirus deaths in a day",
         "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
     },
     {
-        "title": "German coronavirus studies identify heart issues in COVID-19 patients",
-        "link": "https://www.foxnews.com/health/heart-coronavirus-patients-german-studies"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
         "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
+        "title": "US tops 150000 coronavirus deaths",
+        "link": "https://www.youtube.com/watch?v=PrJRP1dK6H4"
     },
     {
-        "title": "Trump promotes doctor who touts theories about demons and aliens, hydroxychloroquine as coronavirus cure",
-        "link": "https://www.oregonlive.com/coronavirus/2020/07/trump-promotes-doctor-who-touts-theories-about-demon-and-aliens-hydroxychloroquine-as-coronavirus-cure.html"
+        "title": "Some doctors met with Pence after their group's video was removed for misleading info",
+        "link": "https://www.msn.com/en-us/news/politics/some-doctors-met-with-pence-after-their-groups-video-was-removed-for-misleading-info/ar-BB17ka8v?li=BBnb7Kz"
     },
     {
-        "title": "Japan to permit re-entry of 88000 foreign residents from Aug. 5",
-        "link": "https://mainichi.jp/english/articles/20200730/p2g/00m/0na/081000c"
+        "title": "Coronavirus makes a comeback around the world - The Washington Post",
+        "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
-        "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
+        "title": "U.S. still leads the world in coronavirus cases, ahead of developing countries",
+        "link": "https://news.yahoo.com/united-states-leads-coronavirus-cases-cdc-documents-142600896.html"
     }
 ];
