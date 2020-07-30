@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Is Netanyahu back at the coronavirus helm? - analysis",
-        "link": "https://www.jpost.com/israel-news/is-netanyahu-back-at-the-coronavirus-helm-analysis-636811"
+        "title": "UN: Too Early for Pakistan to Celebrate Improving COVID-19 Situation",
+        "link": "https://www.voanews.com/covid-19-pandemic/un-too-early-pakistan-celebrate-improving-covid-19-situation"
     },
     {
         "title": "5 things to know for July 30: Coronavirus, police, stimulus, Hong Kong, Germany",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
-        "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
-    },
-    {
-        "title": "Coronavirus updates: Herman Cain dies after battle with COVID-19",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+        "title": "Birx recommends face shields in addition to masks",
+        "link": "https://www.msn.com/en-us/news/us/birx-recommends-face-shields-in-addition-to-masks/ar-BB17niWC?li=BBnb7Kz"
     },
     {
         "title": "Trump and his allies respond with pseudo-science as US death toll hits 150,000",
         "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/"
     },
     {
-        "title": "Coronavirus makes a comeback around the world - The Washington Post",
-        "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
+        "title": "Coronavirus updates: Herman Cain dies after battle with COVID-19",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+    },
+    {
+        "title": "Pelosi warns maskless lawmakers may be thrown out",
+        "link": "https://www.bbc.com/news/world-us-canada-53588843"
     }
 ];
