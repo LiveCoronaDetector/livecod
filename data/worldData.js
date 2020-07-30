@@ -1462,13 +1462,13 @@ var marker = [
         "Name_en": "Barbados",
         "확진자수": 110,
         "사망자수": 7,
-        "완치자수": 94
+        "완치자수": 95
     },
     {
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 99,
+        "확진자수": 104,
         "사망자수": 2,
         "완치자수": 37
     },

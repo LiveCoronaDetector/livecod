@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/heart-coronavirus-patients-german-studies"
     },
     {
-        "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
-        "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
+        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
+        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "How China used censorship to hide the coronavirus truth",
-        "link": "https://www.cnet.com/features/censorship-coronavirus-how-chinese-nationalism-kills/"
+        "title": "Coronavirus live news: Australia sees record new cases as global infections near 17m",
+        "link": "https://www.theguardian.com/world/live/2020/jul/30/coronavirus-live-news-brazil-sees-record-daily-cases-as-hong-kong-on-brink-of-large-scale-outbreak"
     },
     {
         "title": "Trump undermines his pandemic response with more misinformation and self-obsession",
         "link": "https://www.cnn.com/2020/07/29/politics/donald-trump-coronavirus-response/index.html"
     },
     {
-        "title": "Trump Defends Sharing Bogus COVID-19 'Cure' At Odds With His Own FDA | The 11th Hour | MSNBC",
-        "link": "https://www.youtube.com/watch?v=jrwOvap7uLo"
-    },
-    {
-        "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
+        "title": "Trump promotes a doctor who has claimed alien DNA was used in medical treatments",
+        "link": "https://www.cnn.com/2020/07/29/politics/stella-immanuel-trump-doctor/index.html"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
+    },
+    {
+        "title": "Russia intends to approve coronavirus vaccine despite safety concerns",
+        "link": "https://www.cnn.com/videos/world/2020/07/28/russia-coronavirus-vaccine-approval-sputnik-moment-chance-intl-tsr-vpx.cnn"
     }
 ];
