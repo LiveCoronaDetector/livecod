@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073004460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "'고삐 조이는 영국'…코로나19 확진 시 자가격리 7→10일(종합)",
-        "link": "http://yna.kr/AKR20200730175451085?did=1195m"
-    },
-    {
         "title": "세계 코로나19 확진자 1700만명 넘어…한달새 700만명 ↑",
         "link": "https://view.asiae.co.kr/article/2020073010333302976"
     },
     {
         "title": "‘코로나19’ 신규확진 38일 만에 10명대로…해외유입 11명·국내발생 7명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4506299&ref=A"
+    },
+    {
+        "title": "국내 코로나19 신규 확진 18명…38일만에 10명대 기록",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5858610_32633.html"
     }
 ];

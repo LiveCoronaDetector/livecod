@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Live updates: U.S. reports 1,400 coronavirus deaths in a day — about one per minute",
-        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus: US economy sees sharpest contraction in decades",
+        "link": "https://www.bbc.com/news/business-53574953"
     },
     {
-        "title": "UN: Too Early for Pakistan to Celebrate Improving COVID-19 Situation",
-        "link": "https://www.voanews.com/covid-19-pandemic/un-too-early-pakistan-celebrate-improving-covid-19-situation"
+        "title": "Israel botched its handling of the coronavirus by dubbing it war, former Mossad chief says",
+        "link": "https://www.haaretz.com/israel-news/.premium-israel-botched-its-handling-of-coronavirus-by-calling-it-a-war-ex-mossad-chief-says-1.9033713"
     },
     {
         "title": "5 things to know for July 30: Coronavirus, police, stimulus, Hong Kong, Germany",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "Birx recommends face shields in addition to masks",
-        "link": "https://www.msn.com/en-us/news/us/birx-recommends-face-shields-in-addition-to-masks/ar-BB17niWC?li=BBnb7Kz"
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "Coronavirus updates: Florida reports 3rd consecutive day of record deaths",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     },
     {
         "title": "Trump and his allies respond with pseudo-science as US death toll hits 150,000",
         "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/"
     },
     {
-        "title": "Coronavirus updates: Herman Cain dies after battle with COVID-19",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
-    },
-    {
-        "title": "Pelosi warns maskless lawmakers may be thrown out",
-        "link": "https://www.bbc.com/news/world-us-canada-53588843"
+        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
+        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
     }
 ];
