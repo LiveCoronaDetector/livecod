@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073004460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "‘코로나19’ 확진자 48명 추가…해외유입 34명, 지역발생 14명",
-        "link": "https://www.donga.com/news/article/all/20200729/102205284/1"
+        "title": "\"코로나 불안, 美대선 연기???\" 트윗으로 핵폭탄 던진 트럼프",
+        "link": "https://news.joins.com/article/olink/23432382"
     }
 ];

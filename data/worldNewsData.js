@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     },
     {
-        "title": "Stella Immanuel’s theories about the relationship between demons, illness, and sex have a long history",
-        "link": "https://www.zmescience.com/other/offbeat-other/stella-immanuels-theories-about-the-relationship-between-demons-illness-and-sex-have-a-long-history/"
+        "title": "Who is Dr Stella Immanuel?",
+        "link": "https://www.youtube.com/watch?v=9yCXCP3evAg"
     }
 ];
