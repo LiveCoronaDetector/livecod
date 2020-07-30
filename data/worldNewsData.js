@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "More Than 150000 People Have Died From Coronavirus In The U.S.",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/29/896491060/more-than-150-000-people-have-died-from-coronavirus-in-the-u-s"
+        "title": "Coronavirus: Trump’s signals 'not helpful', says Fauci",
+        "link": "https://www.bbc.com/news/world-us-canada-53587527"
     },
     {
         "title": "Israel could open its skies by mid-August",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
+        "title": "Some doctors met with Pence after their group's video was removed for misleading info",
+        "link": "https://www.cnn.com/2020/07/29/politics/mike-pence-doctors-misinformation/index.html"
     },
     {
-        "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
+        "title": "Russia intends to aprove coronavirus vaccine despite safety concerns",
+        "link": "https://www.cnn.com/videos/world/2020/07/28/russia-coronavirus-vaccine-approval-sputnik-moment-chance-intl-tsr-vpx.cnn"
     }
 ];

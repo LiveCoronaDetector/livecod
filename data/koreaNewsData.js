@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007291018011&code=940601"
     },
     {
-        "title": "[속보] 北 매체 “코로나 확진자 0명”… 탈북민 월북 후 첫 언급",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014858269&code=61111111&cp=nv"
-    },
-    {
         "title": "북한신문 \"코로나 확진자 한명도 없다\"…탈북민 월북 후 첫 언급",
         "link": "http://yna.kr/AKR20200730038000504?did=1195m"
     },
@@ -17,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007291421568150"
     },
     {
-        "title": "WHO \"北 코로나 1,200여명 검사…확진자는 제로\"",
-        "link": "https://www.nocutnews.co.kr/news/5386265"
+        "title": "잇단 확진자에 항만 방역 비상…\"하선 안 해도 진단 검사해야\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005906836&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[종합] 코로나19 확진자 48명 증가...해외 34명 중 러시아 13명, 미국 8명",
-        "link": "http://www.fnnews.com/news/202007291014431313"
+        "title": "WHO \"北 코로나 1,200여명 검사…확진자는 제로\"",
+        "link": "https://www.nocutnews.co.kr/news/5386265"
     },
     {
         "title": "부산 러 선박 ‘페트로1호’서 확진자 12명 추가 발생",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020072903247"
     },
     {
+        "title": "‘코로나19 백신’…내 차례는 언제쯤?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4505521&ref=A"
+    },
+    {
         "title": "코로나19 신규확진 48명…지역발생 14명·해외유입 34명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/29/2020072990041.html"
     },
     {
-        "title": "‘코로나19 백신’…내 차례는 언제쯤?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4505521&ref=A"
+        "title": "코로나19로 외국인 근로자 수급 차질 \"입국재개 해야\"",
+        "link": "http://www.fnnews.com/news/202007290859288954"
     }
 ];
