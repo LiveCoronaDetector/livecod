@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "In shadow of coronavirus, Muslims pray on peak day of Hajj: Live",
-        "link": "https://www.aljazeera.com/news/2020/07/coronavirus-outbreak-accelerating-brazil-live-updates-200729230051532.html"
+        "title": "Live updates: Emergency unemployment payments likely to end; U.S. records 1,400 coronavirus deaths in a day",
+        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Israel could open its skies by mid-August",
@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/29/germany-covid-19-fears-grow-over-reckless-partygoers"
     },
     {
-        "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
-        "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
+        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
+        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Coronavirus: Australia's Victoria records huge case jump",
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "Biden slams Trump for promoting false COVID-19 claims from 'crazy woman'",
-        "link": "https://www.nbcnews.com/politics/2020-election/biden-slams-trump-promoting-false-covid-19-claims-crazy-woman-n1235235"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
+    },
+    {
+        "title": "Seth Meyers Can't Get Over the Trump Family's Obsession With Hydroxychloroquine (Video)",
+        "link": "https://www.msn.com/en-us/tv/news/seth-meyers-cant-get-over-the-trump-familys-obsession-with-hydroxychloroquine-video/ar-BB17lGWb"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
-    },
-    {
-        "title": "U.S. still leads the world in coronavirus cases, ahead of developing countries",
-        "link": "https://news.yahoo.com/united-states-leads-coronavirus-cases-cdc-documents-142600896.html"
     },
     {
         "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",

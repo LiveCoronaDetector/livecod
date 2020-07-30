@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955791.html"
     },
     {
-        "title": "[속보] 속초 30대 부부 확진…\"성남 확진자 부부와 홍천 캠핑\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007300188&t=NN"
-    },
-    {
         "title": "'빈민가의 기적' 인도 뭄바이서 코로나 집단면역 도달(종합)",
         "link": "https://www.news1.kr/articles/?4011204"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "국내 코로나19 신규 확진 18명…38일만에 10명대 기록",
         "link": "https://imnews.imbc.com/news/2020/society/article/5858610_32633.html"
+    },
+    {
+        "title": "'하루 확진자 신기록' 달성 日, 유학생 등 외국인 재입국 다음달 5일부터 허용",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001401.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
