@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html"
     },
     {
-        "title": "‘Israel has gained control of the coronavirus crisis’",
+        "title": "Gov't considering lifting weekend coronavirus restrictions",
         "link": "https://www.jpost.com/health-science/edelstein-gantz-consider-lifting-some-coronavirus-weekend-closures-636903"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     },
     {
+        "title": "Coronavirus updates: NJ sees 112% increase in cases, deaths double in Atlanta area",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+    },
+    {
         "title": "Trump and his allies respond with pseudo-science as US death toll hits 150,000",
         "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/"
     },
     {
-        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
-        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
-    },
-    {
-        "title": "Live updates: U.S. reports 1,400 coronavirus deaths in a day — about one per minute",
-        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
+        "title": "Herman Cain has died after being hospitalized with Covid-19",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/h_fec49eea9de41b353b3a39cd1aa351d6"
     }
 ];
