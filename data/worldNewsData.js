@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Coronavirus: Trump’s signals 'not helpful', says Fauci",
-        "link": "https://www.bbc.com/news/world-us-canada-53587527"
+        "title": "More Than 150000 People Have Died From Coronavirus In The U.S.",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/29/896491060/more-than-150-000-people-have-died-from-coronavirus-in-the-u-s"
     },
     {
-        "title": "Netanyahu tells world leaders Israel aiming to mass test for coronavirus",
-        "link": "https://www.jpost.com/health-science/netanyahu-tells-world-leaders-israel-aiming-to-mass-test-for-coronavirus-636792"
+        "title": "Israel could open its skies by mid-August",
+        "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
     },
     {
-        "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
-        "link": "https://www.theguardian.com/world/2020/jul/29/germany-covid-19-fears-grow-over-reckless-partygoers"
+        "title": "German coronavirus studies identify heart issues in COVID-19 patients",
+        "link": "https://www.foxnews.com/health/heart-coronavirus-patients-german-studies"
     },
     {
         "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
         "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "How China used censorship to hide the coronavirus truth",
-        "link": "https://www.cnet.com/features/censorship-coronavirus-how-chinese-nationalism-kills/"
+        "title": "Coronavirus live news: Australia sees record 723 new cases as global infections near 17m",
+        "link": "https://www.theguardian.com/world/live/2020/jul/30/coronavirus-live-news-brazil-sees-record-daily-cases-as-hong-kong-on-brink-of-large-scale-outbreak"
+    },
+    {
+        "title": "Fauci Disputes Viral Video: 'Hydroxychloroquine Is Not Effective' | Andrea Mitchell | MSNBC",
+        "link": "https://www.youtube.com/watch?v=o4fwoNvNHbY"
+    },
+    {
+        "title": "Coronavirus Live Updates: $600 Unemployment Benefit Is Likely to Lapse Friday, Top Official Says",
+        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Trump promotes a doctor who has claimed alien DNA was used in medical treatments",
-        "link": "https://www.cnn.com/2020/07/29/politics/stella-immanuel-trump-doctor/index.html"
-    },
-    {
         "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
-    },
-    {
-        "title": "Russia intends to aprove coronavirus vaccine despite safety concerns",
-        "link": "https://www.cnn.com/videos/world/2020/07/28/russia-coronavirus-vaccine-approval-sputnik-moment-chance-intl-tsr-vpx.cnn"
     }
 ];
