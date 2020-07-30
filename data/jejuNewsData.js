@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     },
     {
-        "title": "[코로나19] 용인 125번 확진자 접촉자 발생 동향",
-        "link": "https://www.wikitree.co.kr/articles/557536"
-    },
-    {
         "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
+    },
+    {
+        "title": "[코로나19] 용인 125번 확진자 접촉자 발생 동향",
+        "link": "https://www.wikitree.co.kr/articles/557536"
     }
 ];

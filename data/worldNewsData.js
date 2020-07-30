@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/30/us/five-things-july-30-trnd/index.html"
     },
     {
-        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
-        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
+        "title": "Is national pride, China tension behind India’s coronavirus vaccine push?",
+        "link": "https://www.scmp.com/week-asia/health-environment/article/3095371/indias-rush-coronavirus-vaccine-being-driven-national"
     },
     {
         "title": "Coronavirus: Australia's Victoria records huge case jump",
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "Asia Today: 723 cases in Australia, closures in Vietnam",
-        "link": "https://news.yahoo.com/asia-today-723-cases-australia-035517691.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
-        "title": "Coronavirus updates: Global cases surge by more than 2 million in just 8 days",
+        "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
+        "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
+    },
+    {
+        "title": "Coronavirus updates: Herman Cain dies after battle with COVID-19",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     },
     {
         "title": "Trump and his allies respond with pseudo-science as US death toll hits 150,000",
         "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/index.html"
-    },
-    {
-        "title": "Coronavirus makes a comeback around the world - The Washington Post",
-        "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     }
 ];

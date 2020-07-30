@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020073043937"
     },
     {
-        "title": "인도, 코로나 일일 확진자 5만명 처음 넘어…봉쇄는 더 풀어(종합)",
-        "link": "http://yna.kr/AKR20200730071951104?did=1195m"
+        "title": "북한신문 \"코로나 확진자 한명도 없다\"…탈북민 월북 후 첫 언급",
+        "link": "http://yna.kr/AKR20200730038000504?did=1195m"
     },
     {
         "title": "코로나19 확산된 미국 2분기 성장률 -32.9%… 2차대전 이후 최악",
@@ -19,10 +19,6 @@ var koreaNewsData = [
     {
         "title": "[종합] 코로나19 확진자 18명 증가...해외 11명 중 필리핀 4명",
         "link": "http://www.fnnews.com/news/202007301013450947"
-    },
-    {
-        "title": "北 매체 “우리나라에 코로나19 확진자 없다” 보도, 왜?",
-        "link": "http://www.segye.com/content/html/2020/07/30/20200730507790.html?OutUrl=naver"
     },
     {
         "title": "속초 코로나19 확진자 2명 발생...성남 확진자 부부와 캠핑",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "'빈민가의 기적' 인도 뭄바이서 코로나 집단면역 도달(종합)",
         "link": "https://www.news1.kr/articles/?4011204"
+    },
+    {
+        "title": "세계 코로나19 확진자 1700만명 넘어…한달새 700만명 ↑",
+        "link": "https://view.asiae.co.kr/article/2020073010333302976"
     }
 ];
