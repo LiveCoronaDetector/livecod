@@ -9,14 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200730038000504?did=1195m"
     },
     {
-        "title": "코로나19 확산된 미국 2분기 성장률 -32.9%… 2차대전 이후 최악",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073004460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "'고삐 조이는 영국'…코로나19 확진 시 자가격리 7→10일(종합)",
-        "link": "http://yna.kr/AKR20200730175451085?did=1195m"
-    },
-    {
         "title": "[종합] 코로나19 확진자 18명 증가...해외 11명 중 필리핀 4명",
         "link": "http://www.fnnews.com/news/202007301013450947"
     },
@@ -27,6 +19,14 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 18명···39일만에 10명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007301022001&code=940601"
+    },
+    {
+        "title": "코로나19 확산된 미국 2분기 성장률 -32.9%… 2차대전 이후 최악",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073004460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "'고삐 조이는 영국'…코로나19 확진 시 자가격리 7→10일(종합)",
+        "link": "http://yna.kr/AKR20200730175451085?did=1195m"
     },
     {
         "title": "코로나 신규 확진자 18명…38일 만에 10명대",

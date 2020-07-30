@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Israel could open its skies by mid-August",
-        "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
+        "title": "Is Netanyahu back at the coronavirus helm? - analysis",
+        "link": "https://www.jpost.com/israel-news/is-netanyahu-back-at-the-coronavirus-helm-analysis-636811"
     },
     {
         "title": "5 things to know for July 30: Coronavirus, police, stimulus, Hong Kong, Germany",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
-    },
-    {
         "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
         "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
     },
@@ -38,6 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Trump and his allies respond with pseudo-science as US death toll hits 150,000",
-        "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/index.html"
+        "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/"
+    },
+    {
+        "title": "Coronavirus makes a comeback around the world - The Washington Post",
+        "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     }
 ];
