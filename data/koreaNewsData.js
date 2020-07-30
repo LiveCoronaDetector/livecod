@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200730038000504?did=1195m"
     },
     {
-        "title": "전세계 코로나19 확진자 1천700만명 넘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5858651_32640.html"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 48명···국내 발생 14명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007291018011&code=940601"
     },
     {
-        "title": "'대북정보부대' 777사령부, 코로나19 확진자 1명 발생",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02305846625839768"
+        "title": "전세계 코로나19 확진자 1천700만명 넘어",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5858651_32640.html"
     },
     {
-        "title": "'하루 확진자 신기록' 달성 日, 유학생 등 외국인 재입국 다음달 5일부터 허용",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001401.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규확진 18명…해외유입 11명·지역발생 7명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/07/30/2020073090039.html"
     },
     {
-        "title": "일본 코로나 확진자 연일 최대치 갱신 왜?",
-        "link": "http://www.hani.co.kr/arti/international/japan/955838.html"
+        "title": "'빈민가의 기적' 인도 뭄바이서 코로나 집단면역 도달(종합)",
+        "link": "https://www.news1.kr/articles/?4011204"
+    },
+    {
+        "title": "[속보] 도쿄 코로나 신규 확진자 367명 ‘역대 최고치’",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014855411&code=61131211&cp=nv"
     }
 ];

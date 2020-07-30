@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
     },
     {
-        "title": "Coronavirus live updates: Global infections top 17 million; Australia reports new daily record cases",
-        "link": "https://www.cnbc.com/2020/07/29/coronavirus-live-updates.html"
+        "title": "Japan to allow reentry of foreign residents from August 5",
+        "link": "https://www.youtube.com/watch?v=d23cAv4A1cA"
     },
     {
-        "title": "Coronavirus Live Updates: Judge Blocks Green Card Wealth Tests, Citing Pandemic Hardships",
-        "link": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html"
+        "title": "Japan to permit re-entry of 88000 foreign residents from Aug. 5",
+        "link": "https://mainichi.jp/english/articles/20200730/p2g/00m/0na/081000c"
+    },
+    {
+        "title": "Trump Defends Sharing Bogus COVID-19 'Cure' At Odds With His Own FDA | The 11th Hour | MSNBC",
+        "link": "https://www.youtube.com/watch?v=jrwOvap7uLo"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
-    },
-    {
-        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     },
     {
         "title": "U.S. still leads the world in coronavirus cases, ahead of developing countries",
