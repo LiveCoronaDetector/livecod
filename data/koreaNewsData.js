@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200730038000504?did=1195m"
     },
     {
+        "title": "WHO \"코로나19 초기 선진국 보건능력 과대평가했다\"(종합)",
+        "link": "http://yna.kr/AKR20200731003551088?did=1195m"
+    },
+    {
         "title": "[종합] 코로나19 확진자 18명 증가...해외 11명 중 필리핀 4명",
         "link": "http://www.fnnews.com/news/202007301013450947"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073004460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "‘코로나19’ 확진자 48명 추가…해외유입 34명, 지역발생 14명",
+        "link": "https://www.donga.com/news/article/all/20200729/102205284/1"
+    },
+    {
         "title": "세계 코로나19 확진자 1700만명 넘어…한달새 700만명 ↑",
         "link": "https://view.asiae.co.kr/article/2020073010333302976"
-    },
-    {
-        "title": "‘코로나19’ 신규확진 38일 만에 10명대로…해외유입 11명·국내발생 7명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4506299&ref=A"
-    },
-    {
-        "title": "국내 코로나19 신규 확진 18명…38일만에 10명대 기록",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5858610_32633.html"
     }
 ];

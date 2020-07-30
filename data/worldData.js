@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 4607701,
-        "사망자수": 154620,
+        "확진자수": 4608508,
+        "사망자수": 154641,
         "완치자수": 2255763
     },
     {
@@ -140,8 +140,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 209501,
-        "사망자수": 9218,
+        "확진자수": 209601,
+        "사망자수": 9221,
         "완치자수": 192000
     },
     {
@@ -716,9 +716,9 @@ var marker = [
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "확진자수": 6533,
+        "확진자수": 6616,
         "사망자수": 114,
-        "완치자수": 4959
+        "완치자수": 5027
     },
     {
         "Name": "Mauritania",
@@ -1148,7 +1148,7 @@ var marker = [
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "확진자수": 926,
+        "확진자수": 935,
         "사망자수": 75,
         "완치자수": 813
     },
@@ -1401,20 +1401,20 @@ var marker = [
         "완치자수": 180
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 157,
+        "사망자수": 8,
+        "완치자수": 130
+    },
+    {
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
         "확진자수": 156,
         "사망자수": 9,
         "완치자수": 141
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 156,
-        "사망자수": 8,
-        "완치자수": 128
     },
     {
         "Name": "Brunei",
