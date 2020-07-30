@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Live updates: American economy shrinking at a record rate; U.S. reports 1,400 coronavirus deaths in a day",
+        "title": "Live updates: U.S. reports 1,400 coronavirus deaths in a day — about one per minute",
         "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     },
     {
@@ -17,20 +17,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/30/us/five-things-july-30-trnd/index.html"
     },
     {
-        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
-        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
+        "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
+        "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
     },
     {
         "title": "Coronavirus: Australia's Victoria records huge case jump",
         "link": "https://www.bbc.com/news/world-australia-53589817"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
-    },
-    {
-        "title": "Trump and his allies respond with pseudo-science as US death toll hits 150,000",
-        "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/index.html"
+        "title": "President Trump defends video making false claims about the coronavirus",
+        "link": "https://www.youtube.com/watch?v=iyXFMhyZO0Q"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
         "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
+    },
+    {
+        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     }
 ];

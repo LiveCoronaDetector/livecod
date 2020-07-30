@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.wikitree.co.kr/articles/557536"
     },
     {
-        "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
+        "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
     }
 ];

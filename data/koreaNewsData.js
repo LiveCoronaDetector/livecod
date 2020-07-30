@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007301022001&code=940601"
     },
     {
-        "title": "[속보] 도쿄 코로나19 신규 확진자 367명···또 최고치 경신",
-        "link": "https://www.sedaily.com/NewsView/1Z5I6WXH8E"
-    },
-    {
         "title": "코로나 신규 확진자 18명…38일 만에 10명대",
         "link": "http://www.hani.co.kr/arti/society/health/955791.html"
+    },
+    {
+        "title": "'돈 번다'며 도주했던 광주 118번 확진자 구속(종합)",
+        "link": "http://yna.kr/AKR20200730084551054?did=1195m"
     },
     {
         "title": "'빈민가의 기적' 인도 뭄바이서 코로나 집단면역 도달(종합)",
