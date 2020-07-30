@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020073043937"
     },
     {
-        "title": "'대북정보부대' 777사령부 예하 대대서 코로나 확진자 발생(종합)",
-        "link": "http://yna.kr/AKR20200730058852504?did=1195m"
+        "title": "전세계 코로나19 확진자 1천700만명 넘어…나흘만에 100만명씩↑(종합)",
+        "link": "http://yna.kr/AKR20200730028151009?did=1195m"
     },
     {
         "title": "[속보] 코로나 신규 확진자 18명…38일 만에 10명대",
         "link": "http://www.hani.co.kr/arti/society/health/955791.html"
     },
     {
-        "title": "전세계 코로나19 확진자 1천700만명 넘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5858651_32640.html"
+        "title": "'대북정보부대' 777사령부, 코로나19 확진자 1명 발생",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02305846625839768"
     },
     {
         "title": "속초 코로나19 확진자 2명 발생...성남 확진자 부부와 캠핑",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020073010333302976"
     },
     {
-        "title": "[속보]코로나19 어제 18명 신규확진…10명대로 떨어져",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213572"
+        "title": "[속보] 속초 30대 부부 확진…\"성남 확진자 부부와 홍천 캠핑\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007300188&t=NN"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 18명···39일만에 10명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007301022001&code=940601"
+        "title": "LPGA투어에 코로나19 확진자",
+        "link": "http://www.munhwa.com/news/view.html?no=20200730MW102828596660"
     }
 ];
