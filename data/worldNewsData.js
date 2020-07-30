@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53587527"
     },
     {
-        "title": "Israel could open its skies by mid-August",
-        "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
+        "title": "Netanyahu tells world leaders Israel aiming to mass test for coronavirus",
+        "link": "https://www.jpost.com/health-science/netanyahu-tells-world-leaders-israel-aiming-to-mass-test-for-coronavirus-636792"
     },
     {
         "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnet.com/features/censorship-coronavirus-how-chinese-nationalism-kills/"
     },
     {
-        "title": "President Trump defends video making false claims about the coronavirus",
-        "link": "https://www.youtube.com/watch?v=iyXFMhyZO0Q"
-    },
-    {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
     },
     {
-        "title": "Some doctors met with Pence after their group's video was removed for misleading info",
-        "link": "https://www.cnn.com/2020/07/29/politics/mike-pence-doctors-misinformation/index.html"
+        "title": "Trump promotes a doctor who has claimed alien DNA was used in medical treatments",
+        "link": "https://www.cnn.com/2020/07/29/politics/stella-immanuel-trump-doctor/index.html"
+    },
+    {
+        "title": "Novel Coronavirus Has 'Perfect Storm' Of Traits To Trigger Pandemic : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/29/888957450/why-the-novel-coronavirus-has-the-power-to-launch-a-pandemic"
     },
     {
         "title": "Russia intends to aprove coronavirus vaccine despite safety concerns",

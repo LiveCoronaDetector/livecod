@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
     },
     {
-        "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
-        "link": "http://yna.kr/AKR20200727057400056?did=1195m"
-    },
-    {
         "title": "제주 코로나19 감염 26번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020072022004422437?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "코로나19 확산 탓에 최근 제주 관광객 10％ 줄어",
+        "link": "http://yna.kr/AKR20200727057400056?did=1195m"
     },
     {
         "title": "제주 26번 확진자 접촉자 '4→16→15명' 정정",
