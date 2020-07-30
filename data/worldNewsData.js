@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Brazil's first lady tests positive for Covid-19",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/h_016b7ba15db18915ea33037a9314a8d2"
+        "title": "Michelle Bolsonaro, Brazil's First Lady, Tests Positive For Coronavirus",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/30/897196730/michelle-bolsonaro-brazils-first-lady-tests-positive-for-coronavirus"
     },
     {
         "title": "‘Israel has gained control of coronavirus crisis’",
         "link": "https://www.jpost.com/health-science/edelstein-gantz-consider-lifting-some-coronavirus-weekend-closures-636903"
     },
     {
-        "title": "Germany official says coronavirus vaccine won't come sooner than mid-2021",
-        "link": "https://www.foxnews.com/health/germany-coronavirus-vaccine-2021"
+        "title": "5 things to know for July 30: Coronavirus, police, stimulus, Hong Kong, Germany",
+        "link": "https://www.cnn.com/2020/07/30/us/five-things-july-30-trnd/index.html"
     },
     {
         "title": "Is national pride, China tension behind India’s coronavirus vaccine push?",
@@ -23,6 +23,10 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Australia's Victoria records huge case jump",
         "link": "https://www.bbc.com/news/world-australia-53589817"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Trump promotes a doctor who has claimed alien DNA was used in medical treatments",
         "link": "https://www.cnn.com/2020/07/29/politics/stella-immanuel-trump-doctor/index.html"
-    },
-    {
-        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
-        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
     }
 ];
