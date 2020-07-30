@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-sees-spike-in-covid-19-cases-6-months-after-who-declares-coronavirus-a-health-emergency"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus updates: NJ sees 112% increase in cases, deaths double in Atlanta area",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     },
     {
-        "title": "Who is Dr Stella Immanuel?",
-        "link": "https://www.youtube.com/watch?v=9yCXCP3evAg"
-    },
-    {
-        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
-        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
+        "title": "Stella Immanuel’s theories about the relationship between demons, illness, and sex have a long history",
+        "link": "https://www.zmescience.com/other/offbeat-other/stella-immanuels-theories-about-the-relationship-between-demons-illness-and-sex-have-a-long-history/"
     }
 ];
