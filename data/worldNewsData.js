@@ -13,16 +13,20 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
     },
     {
-        "title": "German coronavirus studies identify heart issues in COVID-19 patients",
-        "link": "https://www.foxnews.com/health/heart-coronavirus-patients-german-studies"
+        "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
+        "link": "https://www.theguardian.com/world/2020/jul/29/germany-covid-19-fears-grow-over-reckless-partygoers"
     },
     {
-        "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
-        "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
+        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
+        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Japan to allow reentry of foreign residents from August 5",
-        "link": "https://www.youtube.com/watch?v=d23cAv4A1cA"
+        "title": "Coronavirus: Australia's Victoria records huge case jump",
+        "link": "https://www.bbc.com/news/world-australia-53589817"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
         "title": "Japan to permit re-entry of 88000 foreign residents from Aug. 5",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
         "link": "https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html"
-    },
-    {
-        "title": "U.S. still leads the world in coronavirus cases, ahead of developing countries",
-        "link": "https://news.yahoo.com/united-states-leads-coronavirus-cases-cdc-documents-142600896.html"
     }
 ];
