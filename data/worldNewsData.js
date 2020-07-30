@@ -13,20 +13,16 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/health-ministry-skies-could-partially-open-as-early-as-august-16-636732"
     },
     {
-        "title": "Germany's Covid-19 fears grow over ‘reckless’ partygoers",
-        "link": "https://www.theguardian.com/world/2020/jul/29/germany-covid-19-fears-grow-over-reckless-partygoers"
+        "title": "Germany's new virus cases fell to below 500 a day for weeks. Now they've topped 800",
+        "link": "https://www.cnn.com/2020/07/28/europe/europe-coronavirus-resurgence-intl/index.html"
     },
     {
-        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
-        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
+        "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
+        "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
     },
     {
         "title": "Coronavirus: Australia's Victoria records huge case jump",
         "link": "https://www.bbc.com/news/world-australia-53589817"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
         "title": "Seth Meyers Can't Get Over the Trump Family's Obsession With Hydroxychloroquine (Video)",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Australia Sets Coronavirus Record as Melbourne Lockdown Struggles",
         "link": "https://www.youtube.com/watch?v=XcLgHQ7jQS4"
+    },
+    {
+        "title": "Russia intends to approve coronavirus vaccine despite safety concerns",
+        "link": "https://www.cnn.com/videos/world/2020/07/28/russia-coronavirus-vaccine-approval-sputnik-moment-chance-intl-tsr-vpx.cnn"
     }
 ];
