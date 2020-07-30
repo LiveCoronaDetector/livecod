@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02305846625839768"
     },
     {
-        "title": "LPGA투어에 코로나19 확진자",
-        "link": "http://www.munhwa.com/news/view.html?no=20200730MW102828596660"
+        "title": "'빈민가의 기적' 인도 뭄바이서 코로나 집단면역 도달(종합)",
+        "link": "https://www.news1.kr/articles/?4011204"
     },
     {
-        "title": "셀트리온, 英서 코로나 항체치료제 임상1상 돌입…국내와 차이점은?",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=203240"
+        "title": "LPGA투어에 코로나19 확진자",
+        "link": "http://www.munhwa.com/news/view.html?no=20200730MW102828596660"
     }
 ];
