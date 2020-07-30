@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200730138600055?did=1195m"
     },
     {
+        "title": "용인 코로나19 확진자 전북도청 등 다녀가…5명 검사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4506742&ref=A"
+    },
+    {
         "title": "용인 125번 확진자 3일 전 전북도청 다녀가",
         "link": "https://www.news1.kr/articles/?4011926"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
-    },
-    {
-        "title": "[특집기획] 포스트 코로나 시대의 개인영상정보 활용과 보호",
-        "link": "http://www.boannews.com/media/view.asp?idx=90151&kind="
     }
 ];

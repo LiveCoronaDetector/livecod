@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53579773"
     },
     {
-        "title": "Coronavirus live news: France rules out 'catastrophic' second national lockdown despite rise in infections",
-        "link": "https://www.theguardian.com/world/live/2020/jul/30/coronavirus-live-news-brazil-sees-record-daily-cases-as-hong-kong-on-brink-of-large-scale-outbreak"
+        "title": "Live updates: American economy shrinking at a record rate; U.S. reports 1,400 coronavirus deaths in a day",
+        "link": "https://www.washingtonpost.com/nation/2020/07/30/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Israel could open its skies by mid-August",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/30/us/five-things-july-30-trnd/index.html"
     },
     {
-        "title": "Office turned into 85-bed Covid ward for India's poor after businessman falls ill",
-        "link": "https://www.theguardian.com/world/2020/jul/30/india-office-covid-ward-poor-after-businessman-falls-ill-gujarat"
+        "title": "More than half of India's Mumbai slum residents may have been infected with Covid-19, study suggests",
+        "link": "https://www.cnn.com/2020/07/29/asia/india-mumbai-slum-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Coronavirus: Australia's Victoria records huge case jump",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
-        "title": "Trump promotes a doctor who has claimed alien DNA was used in medical treatments",
-        "link": "https://www.cnn.com/2020/07/29/politics/stella-immanuel-trump-doctor/index.html"
+        "title": "Trump and his allies respond with pseudo-science as US death toll hits 150,000",
+        "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/index.html"
     },
     {
         "title": "Coronavirus makes a comeback around the world - The Washington Post",
