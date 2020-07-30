@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200731003551088?did=1195m"
     },
     {
-        "title": "월북한 탈북민 코로나 의심된다더니…北 \"코로나 확진자 한 명도 없다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001152.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "[단독] 확진자 '밀접 접촉자' 빠르고 정확하게 찾는다",
         "link": "https://www.ytn.co.kr/_ln/0106_202007310437568320"
+    },
+    {
+        "title": "월북한 탈북민 코로나 의심된다더니…北 \"코로나 확진자 한 명도 없다\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/30/2020073001152.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[종합] 코로나19 확진자 18명 증가...해외 11명 중 필리핀 4명",
