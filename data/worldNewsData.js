@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Gov't considering lifting weekend coronavirus restrictions",
-        "link": "https://www.jpost.com/health-science/edelstein-gantz-consider-lifting-some-coronavirus-weekend-closures-636903"
+        "title": "Israel botched its handling of the coronavirus by dubbing it war, former Mossad chief says",
+        "link": "https://www.haaretz.com/israel-news/.premium-israel-botched-its-handling-of-coronavirus-by-calling-it-a-war-ex-mossad-chief-says-1.9033713"
     },
     {
         "title": "5 things to know for July 30: Coronavirus, police, stimulus, Hong Kong, Germany",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     },
     {
-        "title": "Trump and his allies respond with pseudo-science as US death toll hits 150,000",
-        "link": "https://www.cnn.com/2020/07/30/politics/donald-trump-louie-gohmert-coronavirus/"
+        "title": "Trump’s New Favorite Doctor Believes In Demon Sperm And Hydroxychloroquine",
+        "link": "https://www.refinery29.com/en-us/2020/07/9937820/what-is-demon-sperm-dr-stella-immanuel"
     },
     {
         "title": "Herman Cain has died after being hospitalized with Covid-19",

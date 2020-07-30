@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200730038000504?did=1195m"
     },
     {
-        "title": "코로나19 확산세 주춤…신규 확진자, 38일만에 10명대 [종합]",
-        "link": "https://www.hankyung.com/society/article/2020073043937"
-    },
-    {
         "title": "[종합] 코로나19 확진자 18명 증가...해외 11명 중 필리핀 4명",
         "link": "http://www.fnnews.com/news/202007301013450947"
     },
     {
         "title": "속초 코로나19 확진자 2명 발생...성남 확진자 부부와 캠핑",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200730500047&wlog_tag3=naver"
+    },
+    {
+        "title": "코로나19 확산세 주춤…신규 확진자, 38일만에 10명대 [종합]",
+        "link": "https://www.hankyung.com/society/article/2020073043937"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 18명···39일만에 10명대",
