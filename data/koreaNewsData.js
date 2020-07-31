@@ -9,14 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200801003600088?did=1195m"
     },
     {
-        "title": "WHO \"코로나19, 100년에 한번있을 위기...여파 수십년 갈 것\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200801_0001115184&cID=10101&pID=10100"
-    },
-    {
-        "title": "홍콩, 코로나 이유로 입법회 선거 1년 연기…야권 강력 반발(종합2보)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200801500001&wlog_tag3=naver"
-    },
-    {
         "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
         "link": "http://www.hani.co.kr/arti/society/health/955977.html"
     },
@@ -27,6 +19,14 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
+    },
+    {
+        "title": "WHO \"코로나19, 100년에 한번있을 위기...여파 수십년 갈 것\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200801_0001115184&cID=10101&pID=10100"
+    },
+    {
+        "title": "홍콩, 코로나 이유로 입법회 선거 1년 연기…야권 강력 반발(종합2보)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200801500001&wlog_tag3=naver"
     },
     {
         "title": "日 도쿄, 긴급사태 선언 검토...코로나 하루 463명 확진",
