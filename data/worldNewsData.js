@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
     },
     {
-        "title": "Vaccine trial planned to include Victorian aged care homes | ABC News",
-        "link": "https://www.youtube.com/watch?v=fbnPMS_VGew"
+        "title": "U.S. agrees to pay Sanofi and GSK $2.1 billion for 100 million doses of coronavirus vaccine",
+        "link": "https://www.cnbc.com/2020/07/31/us-agrees-to-pay-sanofi-and-gsk-2point1-billion-for-100-million-doses-of-coronavirus-vaccine.html"
     },
     {
-        "title": "COVID-19: France sees first rise in intensive care cases since April",
-        "link": "https://www.euronews.com/2020/07/31/coronavirus-france-sees-first-rise-in-intensive-care-cases-since-april"
-    },
-    {
-        "title": "'They can't kill us all': HK's Joshua Wong says resistance to continue | AFP",
-        "link": "https://www.youtube.com/watch?v=IiHqVZ8-U3w"
+        "title": "Hong Kong Crisis: How Far Will China Go?",
+        "link": "https://thediplomat.com/2020/07/hong-kong-crisis-how-far-will-china-go/"
     },
     {
         "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+    },
+    {
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     }
 ];
