@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
     },
     {
-        "title": "July 30 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
+        "title": "Coronavirus live news: Vietnam reports biggest jump in cases, Bolsonaro treated for infection",
+        "link": "https://www.theguardian.com/world/live/2020/jul/31/coronavirus-live-news-england-tightens-restrictions-who-says-young-people-behind-some-spikes"
     },
     {
-        "title": "Live Coronavirus News Updates and Analysis",
-        "link": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "Coronavirus updates: NYC reveals more health and safety protocols for schools",
+        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+    },
+    {
+        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
+        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
     },
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",

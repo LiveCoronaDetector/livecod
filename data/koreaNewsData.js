@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/31/2020073101303.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "코로나19 신규 확진자 36명… 수도권 소규모 감염 확산",
+        "link": "https://www.donga.com/news/article/all/20200731/102243283/1"
+    },
+    {
         "title": "WHO \"코로나19 초기 선진국 보건능력 과대평가했다\"(종합)",
         "link": "http://yna.kr/AKR20200731003551088?did=1195m"
     },
     {
-        "title": "코로나19 신규확진자 36명…지역발생 다시 두자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213729"
+        "title": "[단독] 확진자 '밀접 접촉자' 빠르고 정확하게 찾는다",
+        "link": "https://www.ytn.co.kr/_ln/0106_202007310437568320"
+    },
+    {
+        "title": "신규 확진자 36명…수도권에서 18명 발생",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=595856"
     },
     {
         "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
         "link": "http://www.hani.co.kr/arti/society/health/955977.html"
     },
     {
-        "title": "김포 운양동 행정복지센터 폐쇄…확진자 방문(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200731_0001114487&cID=10802&pID=14000"
-    },
-    {
         "title": "[속보]대구시 해외유입 신규확진자 1명…지역발생은 28일 연속 0명(전문)",
         "link": "https://news.imaeil.com/Society/2020073110380409642"
     },
     {
-        "title": "코로나19 신규 환자 36명...해외유입 22명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202007311032229377"
-    },
-    {
-        "title": "2차 귀국 이라크 근로자 중 코로나 유증상 31명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/31/2020073101605.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규확진자 36명…지역발생 다시 두자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213729"
     }
 ];
