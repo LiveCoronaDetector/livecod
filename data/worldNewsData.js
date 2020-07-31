@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/31/americas/brazil-bolsonaro-mold-lungs-intl/index.html"
     },
     {
-        "title": "Greece's refugees face healthcare crisis as Lesbos Covid-19 centre closes",
-        "link": "https://www.theguardian.com/global-development/2020/jul/31/greece-refugee-healthcare-crisis-island-camps-lesbos-moria-coronavirus"
+        "title": "US national shot dead in Pakistan courtroom during blasphemy trial",
+        "link": "https://www.cnn.com/2020/07/31/asia/american-in-pakistan-blasphemy-shooting-intl-hnk/index.html"
     },
     {
         "title": "How Italy Turned Around Its Coronavirus Calamity",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/31/896879448/the-nations-with-the-most-to-lose-from-covid-19"
     },
     {
-        "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
-        "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
+        "title": "Madonna leads celebrity vogue for Covid-19 conspiracy theories",
+        "link": "https://www.theguardian.com/music/2020/jul/31/madonna-takes-on-new-role-as-covid-19-conspiracy-theorist"
     }
 ];
