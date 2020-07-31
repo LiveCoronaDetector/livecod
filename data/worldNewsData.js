@@ -13,24 +13,24 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israel-passes-500-dead-from-coronavirus-637012"
     },
     {
-        "title": "Coronavirus live news: France cases rise by 54% in a week; Germany labels three Spanish regions high-risk",
-        "link": "https://www.theguardian.com/world/live/2020/jul/31/coronavirus-live-news-england-tightens-restrictions-who-says-young-people-behind-some-spikes"
+        "title": "Britain brings back restrictions as Europe, Asia see COVID-19 cases spike",
+        "link": "https://www.nbcnews.com/news/world/britain-brings-back-restrictions-europe-asia-see-covid-19-cases-n1235441"
     },
     {
         "title": "Coronavirus Forced Indian Workers on a Deadly Journey",
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "Feinstein: Letting Americans sue China over coronavirus response would be 'huge mistake'",
-        "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
+        "title": "Krystal & Saagar: Feinstein Claims China 'Growing Into Respectable Nation' Amid Hong Kong CRACKDOWN",
+        "link": "https://www.youtube.com/watch?v=ndqLeW8pfSg"
     },
     {
-        "title": "Live: Fauci, Redfield, Giroir Testify At House Coronavirus Hearing | NBC News",
-        "link": "https://www.youtube.com/watch?v=mO4ERWZYy9I"
+        "title": "Hong Kong postpones legislative elections for a year over coronavirus fears",
+        "link": "https://www.cnn.com/2020/07/31/asia/hong-kong-election-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
-        "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
+        "title": "Germany puts three virus-hit Spanish regions on high-risk list",
+        "link": "https://www.msn.com/en-us/news/world/germany-puts-three-virus-hit-spanish-regions-on-high-risk-list/ar-BB17p7Ay"
     },
     {
         "title": "Vietnam records first Covid-19 death",
