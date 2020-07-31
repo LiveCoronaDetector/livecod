@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200801500001&wlog_tag3=naver"
     },
     {
+        "title": "'코로나 방역 방해' 이만희 구속...\"혐의 일부 소명·증거 인멸 우려\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008010508408807"
+    },
+    {
         "title": "日 도쿄, 긴급사태 선언 검토...코로나 하루 463명 확진",
         "link": "http://www.fnnews.com/news/202007311506570605"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "\"위산억제제, 코로나 중증 위험도 79% 높여\" 국내 의료진 최초 규명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/07/31/2020073102704.html"
-    },
-    {
-        "title": "베트남 오늘 아침에만 코로나19 45명 확진",
-        "link": "http://www.fnnews.com/news/202007311026557352"
     }
 ];
