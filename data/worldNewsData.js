@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israel-passes-500-dead-from-coronavirus-637012"
     },
     {
-        "title": "Britain brings back restrictions as Europe, Asia see COVID-19 cases spike",
-        "link": "https://www.nbcnews.com/news/world/britain-brings-back-restrictions-europe-asia-see-covid-19-cases-n1235441"
+        "title": "How Italy Turned Around Its Coronavirus Calamity",
+        "link": "https://www.nytimes.com/2020/07/31/world/europe/italy-coronavirus-reopening.html"
     },
     {
         "title": "Coronavirus Forced Indian Workers on a Deadly Journey",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=ndqLeW8pfSg"
     },
     {
-        "title": "Hong Kong postpones legislative elections for a year over coronavirus fears",
-        "link": "https://www.cnn.com/2020/07/31/asia/hong-kong-election-coronavirus-intl-hnk/index.html"
+        "title": "Live: Fauci, Redfield, Giroir Testify At House Coronavirus Hearing | NBC News",
+        "link": "https://www.youtube.com/watch?v=mO4ERWZYy9I"
     },
     {
-        "title": "Germany puts three virus-hit Spanish regions on high-risk list",
-        "link": "https://www.msn.com/en-us/news/world/germany-puts-three-virus-hit-spanish-regions-on-high-risk-list/ar-BB17p7Ay"
+        "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
+        "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
     },
     {
         "title": "Vietnam records first Covid-19 death",
         "link": "https://www.bbc.com/news/world-asia-53606917"
     },
     {
-        "title": "COVID-19: France sees first rise in intensive care cases since April",
-        "link": "https://www.euronews.com/2020/07/31/coronavirus-france-sees-first-rise-in-intensive-care-cases-since-april"
+        "title": "Coronavirus cases rise 54% in mainland France in a week",
+        "link": "https://www.theguardian.com/world/2020/jul/31/coronavirus-cases-rise-54-in-mainland-france-in-a-week"
     }
 ];
