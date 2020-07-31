@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/31/americas/brazil-bolsonaro-mold-lungs-intl/index.html"
     },
     {
-        "title": "Coronavirus restrictions to be decided by new 'round table'",
-        "link": "https://www.jpost.com/health-science/israel-passes-500-dead-from-coronavirus-637012"
+        "title": "Greece's refugees face healthcare crisis as Lesbos Covid-19 centre closes",
+        "link": "https://www.theguardian.com/global-development/2020/jul/31/greece-refugee-healthcare-crisis-island-camps-lesbos-moria-coronavirus"
     },
     {
         "title": "Coronavirus live news: France cases rise by 54% in a week; Germany labels three Spanish regions high-risk",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "Feinstein: Letting Americans sue China over coronavirus response would be 'huge mistake'",
-        "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
+        "title": "Dianne Feinstein Lauds China as a ‘Respectable Nation’ in Senate Committee Hearing",
+        "link": "https://www.nationalreview.com/news/dianne-feinstein-lauds-china-as-a-respectable-nation-in-senate-committee-hearing/"
     },
     {
-        "title": "Sanofi, GlaxoSmithKline reach $2.1 billion deal with US to supply vaccine doses",
-        "link": "https://www.youtube.com/watch?v=0Vj8HT3aI0E"
+        "title": "Coronavirus Live News: World Updates",
+        "link": "https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html"
     },
     {
         "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
         "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
     },
     {
-        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+        "title": "Germany puts three virus-hit Spanish regions on high-risk list",
+        "link": "https://www.msn.com/en-us/news/world/germany-puts-three-virus-hit-spanish-regions-on-high-risk-list/ar-BB17p7Ay"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     }
 ];

@@ -21,14 +21,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007311026557352"
     },
     {
-        "title": "홍천캠핑장 다녀온 김포시 일가족 3명 코로나19 확진",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500097&wlog_tag3=naver"
-    },
-    {
-        "title": "경기도, '한미연합훈련 취소' 통일부에 건의…\"코로나19 확산 우려\"",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5859953_32633.html"
-    },
-    {
         "title": "홍콩, 코로나19로 9월 입법회 의원 선거 연기(상보)",
         "link": "https://view.asiae.co.kr/article/2020073119483009959"
     },
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/07/31/2020073102704.html"
     },
     {
-        "title": "2차 귀국 이라크 근로자 중 코로나 유증상 31명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/31/2020073101605.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "'또 당할 순 없다'…영국, 코로나19 봉쇄조치 추가완화 연기(종합)",
+        "link": "http://yna.kr/AKR20200731153051085?did=1195m"
+    },
+    {
+        "title": "홍천캠핑장 다녀온 김포시 일가족 3명 코로나19 확진",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500097&wlog_tag3=naver"
+    },
+    {
+        "title": "경기도 \"평택 코로나 확진자 70%가 주한미군...한미훈련 취소해달라\" 건의",
+        "link": "https://www.pressian.com/pages/articles/2020073115592756125?utm_source=naver&utm_medium=search"
     }
 ];
