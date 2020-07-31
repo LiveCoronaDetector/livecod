@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
+        "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
+        "link": "https://www.washingtonpost.com/world/2020/07/31/second-wave-coronavirus-scientists-say-world-is-still-deep-first/"
+    },
+    {
         "title": "Up-And-Coming Countries Have Some Of The Largest Outbreaks Of COVID-19 : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/31/896879448/the-nations-with-the-most-to-lose-from-covid-19"
     },
     {
         "title": "Madonna leads celebrity vogue for Covid-19 conspiracy theories",
         "link": "https://www.theguardian.com/music/2020/jul/31/madonna-takes-on-new-role-as-covid-19-conspiracy-theorist"
-    },
-    {
-        "title": "Coronavirus FAQ: Cases Are Spiking Again In Hong Kong. What Are They Doing About It?",
-        "link": "https://www.keranews.org/post/coronavirus-faq-cases-are-spiking-again-hong-kong-what-are-they-doing-about-it"
     }
 ];

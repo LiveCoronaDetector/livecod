@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
     },
     {
-        "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
-        "link": "https://news.joins.com/article/olink/23433169"
+        "title": "'코로나19 방역 방해' 신천지 이만희 구속(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200731_0001115143&cID=10803&pID=14000"
     },
     {
         "title": "WHO \"코로나19 신규 확진자 29만명\"…다시 최고치",
