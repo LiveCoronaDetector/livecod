@@ -21,12 +21,8 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500231&wlog_tag3=naver"
     },
     {
-        "title": "'코로나19 방역 방해' 신천지 이만희 구속(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200731_0001115143&cID=10803&pID=14000"
-    },
-    {
-        "title": "'또 당할 순 없다'…영국, 코로나19 봉쇄조치 추가완화 연기(종합)",
-        "link": "http://yna.kr/AKR20200731153051085?did=1195m"
+        "title": "WHO \"코로나19 신규 확진자 29만명\"…다시 최고치",
+        "link": "http://yna.kr/AKR20200801003600088?did=1195m"
     },
     {
         "title": "홍콩, 코로나 이유로 입법회 선거 1년 연기…야권 강력 반발(종합2보)",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "도쿄 오늘 코로나 신규 확진자 400명 넘을 듯…또 최다",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005909673&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "\"위산억제제, 코로나 중증 위험도 79% 높여\" 국내 의료진 최초 규명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/07/31/2020073102704.html"
     }
 ];

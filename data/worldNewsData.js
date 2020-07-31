@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
     },
     {
-        "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
-        "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
-    },
-    {
-        "title": "Germany adds three coronavirus-hit Spanish regions to quarantine list",
-        "link": "https://www.thelocal.de/20200731/germany-adds-three-virus-hit-spanish-regions-to-quarantine-list"
-    },
-    {
         "title": "Up-And-Coming Countries Have Some Of The Largest Outbreaks Of COVID-19 : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/31/896879448/the-nations-with-the-most-to-lose-from-covid-19"
     },
     {
+        "title": "World Health Organization reports largest ever single-day increase in coronavirus cases across globe",
+        "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
+    },
+    {
         "title": "Madonna leads celebrity vogue for Covid-19 conspiracy theories",
         "link": "https://www.theguardian.com/music/2020/jul/31/madonna-takes-on-new-role-as-covid-19-conspiracy-theorist"
+    },
+    {
+        "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
+        "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
     }
 ];
