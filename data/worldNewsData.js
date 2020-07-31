@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/31/896879448/the-nations-with-the-most-to-lose-from-covid-19"
     },
     {
-        "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
-        "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
+        "title": "Madonna leads celebrity vogue for Covid-19 conspiracy theories",
+        "link": "https://www.theguardian.com/music/2020/jul/31/madonna-takes-on-new-role-as-covid-19-conspiracy-theorist"
     }
 ];
