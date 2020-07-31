@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "Krystal & Saagar: Feinstein Claims China 'Growing Into Respectable Nation' Amid Hong Kong CRACKDOWN",
-        "link": "https://www.youtube.com/watch?v=ndqLeW8pfSg"
+        "title": "Feinstein: Letting Americans sue China over coronavirus response would be 'huge mistake'",
+        "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
     },
     {
-        "title": "Live: Fauci, Redfield, Giroir Testify At House Coronavirus Hearing | NBC News",
-        "link": "https://www.youtube.com/watch?v=mO4ERWZYy9I"
+        "title": "NIH delivering new COVID-19 testing technologies to meet U.S. demand",
+        "link": "https://www.nih.gov/news-events/news-releases/nih-delivering-new-covid-19-testing-technologies-meet-us-demand"
     },
     {
         "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
         "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
     },
     {
-        "title": "Vietnam records first Covid-19 death",
-        "link": "https://www.bbc.com/news/world-asia-53606917"
+        "title": "Germany adds three coronavirus-hit Spanish regions to quarantine list",
+        "link": "https://www.thelocal.de/20200731/germany-adds-three-virus-hit-spanish-regions-to-quarantine-list"
     },
     {
-        "title": "Coronavirus cases rise 54% in mainland France in a week",
-        "link": "https://www.theguardian.com/world/2020/jul/31/coronavirus-cases-rise-54-in-mainland-france-in-a-week"
+        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     }
 ];
