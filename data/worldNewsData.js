@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
+    },
+    {
+        "title": "Live Coronavirus News Updates and Analysis",
+        "link": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html"
+    },
+    {
         "title": "Coronavirus updates: NYC reveals more health and safety protocols for schools",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     },
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
-    },
-    {
-        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
-        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
-    },
-    {
-        "title": "Who is Dr Stella Immanuel?",
-        "link": "https://www.youtube.com/watch?v=9yCXCP3evAg"
     }
 ];
