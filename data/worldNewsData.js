@@ -13,28 +13,28 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/edelstein-gantz-consider-lifting-some-coronavirus-weekend-closures-636903"
     },
     {
-        "title": "Germany official says coronavirus vaccine won't come sooner than mid-2021",
-        "link": "https://www.foxnews.com/health/germany-coronavirus-vaccine-2021"
+        "title": "EU extends ban on American travelers - again - with US COVID-19 cases far outpacing European countries",
+        "link": "https://www.usatoday.com/story/travel/news/2020/07/30/europe-travel-ban-americans-covid-19-rise-eu-to-us/5546206002/"
     },
     {
         "title": "Is national pride, China tension behind India’s coronavirus vaccine push?",
         "link": "https://www.scmp.com/week-asia/health-environment/article/3095371/indias-rush-coronavirus-vaccine-being-driven-national"
     },
     {
-        "title": "Feinstein: Letting Americans sue China over coronavirus response would be 'huge mistake'",
-        "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
+        "title": "China sees spike in COVID-19 cases 6 months after WHO declares coronavirus a health emergency",
+        "link": "https://www.foxnews.com/world/china-sees-spike-in-covid-19-cases-6-months-after-who-declares-coronavirus-a-health-emergency"
     },
     {
-        "title": "Coronavirus live news: Vietnam reports biggest jump in cases, Bolsonaro treated for infection",
-        "link": "https://www.theguardian.com/world/live/2020/jul/31/coronavirus-live-news-england-tightens-restrictions-who-says-young-people-behind-some-spikes"
+        "title": "July 30 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
         "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     },
     {
-        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
-        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-31-20-intl/index.html"
     },
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
