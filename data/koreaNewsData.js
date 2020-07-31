@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007311016021582"
     },
     {
-        "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
-        "link": "http://www.hani.co.kr/arti/society/health/955977.html"
-    },
-    {
         "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/31/2020073101303.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "WHO \"코로나19 초기 선진국 보건능력 과대평가했다\"(종합)",
+        "link": "http://yna.kr/AKR20200731003551088?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
+        "link": "http://www.hani.co.kr/arti/society/health/955977.html"
+    },
+    {
         "title": "[단독] 확진자 '밀접 접촉자' 빠르고 정확하게 찾는다",
         "link": "https://www.ytn.co.kr/_ln/0106_202007310437568320"
-    },
-    {
-        "title": "日 도쿄, 긴급사태 선언 검토...코로나 하루 463명 확진",
-        "link": "http://www.fnnews.com/news/202007311506570605"
-    },
-    {
-        "title": "도쿄 코로나 신규 확진자 463명…연일 최다 기록",
-        "link": "http://yna.kr/AKR20200731098800073?did=1195m"
-    },
-    {
-        "title": "\"위산억제제, 코로나 중증 위험도 79% 높여\" 국내 의료진 최초 규명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/07/31/2020073102704.html"
     },
     {
         "title": "홍천캠핑장 다녀온 김포시 일가족 3명 코로나19 확진",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500097&wlog_tag3=naver"
     },
     {
-        "title": "[전문] 은평구청 64번째 확진자 발생...신사2동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373933"
+        "title": "日 도쿄, 긴급사태 선언 검토...코로나 하루 463명 확진",
+        "link": "http://www.fnnews.com/news/202007311506570605"
+    },
+    {
+        "title": "경기도 \"평택 코로나 확진자 70%가 주한미군...한미훈련 취소해달라\" 건의",
+        "link": "https://www.pressian.com/pages/articles/2020073115592756125?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "도쿄 코로나 신규 확진자 463명…연일 최다 기록",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005909720&plink=ORI&cooper=NAVER"
     }
 ];
