@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "Dianne Feinstein Lauds China as a ‘Respectable Nation’ in Senate Committee Hearing",
-        "link": "https://www.nationalreview.com/news/dianne-feinstein-lauds-china-as-a-respectable-nation-in-senate-committee-hearing/"
+        "title": "Feinstein: Letting Americans sue China over coronavirus response would be 'huge mistake'",
+        "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
     },
     {
-        "title": "Coronavirus Live News: World Updates",
-        "link": "https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html"
+        "title": "Vaccine trial planned to include Victorian aged care homes | ABC News",
+        "link": "https://www.youtube.com/watch?v=fbnPMS_VGew"
     },
     {
         "title": "COVID-19: France sees first rise in intensive care cases since April",
         "link": "https://www.euronews.com/2020/07/31/coronavirus-france-sees-first-rise-in-intensive-care-cases-since-april"
     },
     {
-        "title": "Defiant Hong Kong activists vow to resist China crackdown",
-        "link": "https://www.bangkokpost.com/world/1960631/defiant-hong-kong-activists-vow-to-resist-china-crackdown"
+        "title": "'They can't kill us all': HK's Joshua Wong says resistance to continue | AFP",
+        "link": "https://www.youtube.com/watch?v=IiHqVZ8-U3w"
     },
     {
         "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
