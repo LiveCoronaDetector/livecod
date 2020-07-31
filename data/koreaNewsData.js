@@ -5,16 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007311016021582"
     },
     {
-        "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
-    },
-    {
         "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
         "link": "http://www.hani.co.kr/arti/society/health/955977.html"
     },
     {
-        "title": "코로나19 신규확진자 36명…지역발생 다시 두자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213729"
+        "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
     },
     {
         "title": "코로나 확진 36명…지역 14명·해외유입 22명(종합)",
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0106_202007310437568320"
     },
     {
+        "title": "日 도쿄, 긴급사태 선언 검토...코로나 하루 463명 확진",
+        "link": "http://www.fnnews.com/news/202007311506570605"
+    },
+    {
+        "title": "도쿄 코로나 신규 확진자 463명…연일 최다 기록",
+        "link": "http://yna.kr/AKR20200731098800073?did=1195m"
+    },
+    {
+        "title": "\"위산억제제, 코로나 중증 위험도 79% 높여\" 국내 의료진 최초 규명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/07/31/2020073102704.html"
+    },
+    {
         "title": "홍천캠핑장 다녀온 김포시 일가족 3명 코로나19 확진",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500097&wlog_tag3=naver"
     },
     {
-        "title": "감비아서 입국한 인천 송도 거주 50대 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200731075551065?did=1195m"
-    },
-    {
-        "title": "[전문] 강동구청 49번째 확진자 발생...천호3동",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373860"
-    },
-    {
-        "title": "대구 '경북 신규 확진자 3명…모두 해외유입 사례(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202007310096"
+        "title": "[전문] 은평구청 64번째 확진자 발생...신사2동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=373933"
     }
 ];
