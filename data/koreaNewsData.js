@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
     },
     {
+        "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
+        "link": "https://news.joins.com/article/olink/23433169"
+    },
+    {
         "title": "홍콩, 코로나 이유로 입법회 선거 전격 연기…민주 진영 반발(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500231&wlog_tag3=naver"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "\"위산억제제, 코로나 중증 위험도 79% 높여\" 국내 의료진 최초 규명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/07/31/2020073102704.html"
-    },
-    {
-        "title": "베트남 오늘 아침에만 코로나19 45명 확진",
-        "link": "http://www.fnnews.com/news/202007311026557352"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/31/americas/brazil-bolsonaro-mold-lungs-intl/index.html"
     },
     {
-        "title": "Coronavirus restrictions to be decided by new 'round table'",
-        "link": "https://www.jpost.com/health-science/israel-passes-500-dead-from-coronavirus-637012"
+        "title": "Greece's refugees face healthcare crisis as Lesbos Covid-19 centre closes",
+        "link": "https://www.theguardian.com/global-development/2020/jul/31/greece-refugee-healthcare-crisis-island-camps-lesbos-moria-coronavirus"
     },
     {
         "title": "How Italy Turned Around Its Coronavirus Calamity",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
     },
     {
-        "title": "NIH delivering new COVID-19 testing technologies to meet U.S. demand",
-        "link": "https://www.nih.gov/news-events/news-releases/nih-delivering-new-covid-19-testing-technologies-meet-us-demand"
+        "title": "Coronavirus Live News: World Updates",
+        "link": "https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html"
     },
     {
         "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.thelocal.de/20200731/germany-adds-three-virus-hit-spanish-regions-to-quarantine-list"
     },
     {
-        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+        "title": "Vietnam records first Covid-19 death",
+        "link": "https://www.bbc.com/news/world-asia-53606917"
     }
 ];
