@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/955977.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 36명···국내 발생 14명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007311042001&code=940601"
-    },
-    {
-        "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
-    },
-    {
         "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
         "link": "https://news.joins.com/article/olink/23433169"
     },
@@ -23,6 +15,14 @@ var koreaNewsData = [
     {
         "title": "홍콩, 코로나 이유로 입법회 선거 1년 연기…야권 강력 반발(종합2보)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200801500001&wlog_tag3=naver"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 36명···국내 발생 14명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007311042001&code=940601"
+    },
+    {
+        "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
     },
     {
         "title": "日 도쿄, 긴급사태 선언 검토...코로나 하루 463명 확진",

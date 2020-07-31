@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/world/europe/italy-coronavirus-reopening.html"
     },
     {
-        "title": "Are Thailand's coronavirus numbers too good to be true?",
-        "link": "https://www.cnn.com/videos/world/2020/07/31/thailand-coronavirus-transmission-anna-coren-pkg-intl-ldn-vpx.cnn"
+        "title": "Coronavirus Forced Indian Workers on a Deadly Journey",
+        "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
         "title": "Feinstein: Letting Americans sue China over coronavirus response would be 'huge mistake'",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/31/896879448/the-nations-with-the-most-to-lose-from-covid-19"
     },
     {
-        "title": "Madonna leads celebrity vogue for Covid-19 conspiracy theories",
-        "link": "https://www.theguardian.com/music/2020/jul/31/madonna-takes-on-new-role-as-covid-19-conspiracy-theorist"
+        "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
+        "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
     }
 ];
