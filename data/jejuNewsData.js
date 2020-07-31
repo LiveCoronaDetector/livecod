@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2168798"
     },
     {
-        "title": "본격적인 휴가 시즌…커지는 '코로나19 재확산' 우려",
-        "link": "http://www.newsquest.co.kr/news/articleView.html?idxno=77985"
-    },
-    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "본격적인 휴가 시즌…커지는 '코로나19 재확산' 우려",
+        "link": "http://www.newsquest.co.kr/news/articleView.html?idxno=77985"
     },
     {
         "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
