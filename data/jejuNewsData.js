@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     },
     {
-        "title": "본격적인 휴가 시즌…커지는 '코로나19 재확산' 우려",
-        "link": "http://www.newsquest.co.kr/news/articleView.html?idxno=77985"
+        "title": "제주도 26번 확진자 출입명부 미작성 유흥업소 업주 고발",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
     }
 ];

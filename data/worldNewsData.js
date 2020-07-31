@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/31/americas/brazil-bolsonaro-mold-lungs-intl/index.html"
     },
     {
-        "title": "Greece's refugees face healthcare crisis as Lesbos Covid-19 centre closes",
-        "link": "https://www.theguardian.com/global-development/2020/jul/31/greece-refugee-healthcare-crisis-island-camps-lesbos-moria-coronavirus"
+        "title": "Coronavirus restrictions to be decided by new 'round table'",
+        "link": "https://www.jpost.com/health-science/israel-passes-500-dead-from-coronavirus-637012"
     },
     {
         "title": "Coronavirus live news: France cases rise by 54% in a week; Vietnam records first Covid-19 death",
         "link": "https://www.theguardian.com/world/live/2020/jul/31/coronavirus-live-news-england-tightens-restrictions-who-says-young-people-behind-some-spikes"
     },
     {
-        "title": "India arrests dozens of journalists in clampdown on critics of Covid-19 response",
-        "link": "https://www.theguardian.com/global-development/2020/jul/31/india-arrests-50-journalists-in-clampdown-on-critics-of-covid-19-response"
+        "title": "Coronavirus Forced Indian Workers on a Deadly Journey",
+        "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
         "title": "Dianne Feinstein Lauds China as a ‘Respectable Nation’ in Senate Committee Hearing",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.euronews.com/2020/07/31/coronavirus-france-sees-first-rise-in-intensive-care-cases-since-april"
     },
     {
-        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
-        "link": "https://news.google.com/articles/CBMiY2h0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvY29yb25hdmlydXMtdXBkYXRlcy1nbG9iYWwtY2FzZXMtY292aWQtMTktc3VyZ2UtbWlsbGlvbi9zdG9yeT9pZD03MjA3MDg1MtIBZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL2Nvcm9uYXZpcnVzLXVwZGF0ZXMtZ2xvYmFsLWNhc2VzLWNvdmlkLTE5LXN1cmdlLW1pbGxpb24vc3Rvcnk_aWQ9NzIwNzA4NTI?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Defiant Hong Kong activists vow to resist China crackdown",
+        "link": "https://www.bangkokpost.com/world/1960631/defiant-hong-kong-activists-vow-to-resist-china-crackdown"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     }
 ];
