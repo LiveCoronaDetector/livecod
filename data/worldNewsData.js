@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israel-passes-500-dead-from-coronavirus-637012"
     },
     {
-        "title": "Coronavirus live news: France cases rise by 54% in a week; Vietnam records first Covid-19 death",
+        "title": "Coronavirus live news: France cases rise by 54% in a week; Germany labels three Spanish regions high-risk",
         "link": "https://www.theguardian.com/world/live/2020/jul/31/coronavirus-live-news-england-tightens-restrictions-who-says-young-people-behind-some-spikes"
     },
     {
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
     },
     {
-        "title": "U.S. agrees to pay Sanofi and GSK $2.1 billion for 100 million doses of coronavirus vaccine",
-        "link": "https://www.cnbc.com/2020/07/31/us-agrees-to-pay-sanofi-and-gsk-2point1-billion-for-100-million-doses-of-coronavirus-vaccine.html"
+        "title": "Sanofi, GlaxoSmithKline reach $2.1 billion deal with US to supply vaccine doses",
+        "link": "https://www.youtube.com/watch?v=0Vj8HT3aI0E"
     },
     {
-        "title": "Hong Kong Crisis: How Far Will China Go?",
-        "link": "https://thediplomat.com/2020/07/hong-kong-crisis-how-far-will-china-go/"
+        "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
+        "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
     },
     {
         "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
