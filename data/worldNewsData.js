@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
     },
     {
-        "title": "U.S. agrees to pay Sanofi and GSK $2.1 billion for 100 million doses of coronavirus vaccine",
-        "link": "https://www.cnbc.com/2020/07/31/us-agrees-to-pay-sanofi-and-gsk-2point1-billion-for-100-million-doses-of-coronavirus-vaccine.html"
+        "title": "Live: Fauci, Redfield, Giroir Testify At House Coronavirus Hearing | NBC News",
+        "link": "https://www.youtube.com/watch?v=mO4ERWZYy9I"
     },
     {
         "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
         "link": "https://www.youtube.com/watch?v=G4RrIj33bew"
     },
     {
-        "title": "Germany puts three virus-hit Spanish regions on high-risk list",
-        "link": "https://www.msn.com/en-us/news/world/germany-puts-three-virus-hit-spanish-regions-on-high-risk-list/ar-BB17p7Ay"
+        "title": "Vietnam records first Covid-19 death",
+        "link": "https://www.bbc.com/news/world-asia-53606917"
     },
     {
-        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+        "title": "COVID-19: France sees first rise in intensive care cases since April",
+        "link": "https://www.euronews.com/2020/07/31/coronavirus-france-sees-first-rise-in-intensive-care-cases-since-april"
     }
 ];
