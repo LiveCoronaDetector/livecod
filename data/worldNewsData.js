@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.nationalreview.com/news/dianne-feinstein-lauds-china-as-a-respectable-nation-in-senate-committee-hearing/"
     },
     {
-        "title": "Live Coronavirus News Updates and Analysis",
-        "link": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-31-20-intl/index.html"
+    },
+    {
+        "title": "Covid-19: Why Hong Kong's 'third wave' is a warning",
+        "link": "https://www.bbc.com/news/world-asia-china-53596299"
     },
     {
         "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
-    },
-    {
-        "title": "Hong Kong Crisis: How Far Will China Go?",
-        "link": "https://thediplomat.com/2020/07/hong-kong-crisis-how-far-will-china-go/"
     }
 ];
