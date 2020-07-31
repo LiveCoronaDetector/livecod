@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/health-environment/article/3095371/indias-rush-coronavirus-vaccine-being-driven-national"
     },
     {
-        "title": "China sees spike in COVID-19 cases 6 months after WHO declares coronavirus a health emergency",
-        "link": "https://www.foxnews.com/world/china-sees-spike-in-covid-19-cases-6-months-after-who-declares-coronavirus-a-health-emergency"
-    },
-    {
-        "title": "July 30 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+        "title": "Dianne Feinstein Lauds China as a ‘Respectable Nation’ in Senate Committee Hearing",
+        "link": "https://www.nationalreview.com/news/dianne-feinstein-lauds-china-as-a-respectable-nation-in-senate-committee-hearing/"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-31-20-intl/index.html"
+    },
+    {
+        "title": "Live Coronavirus News Updates and Analysis",
+        "link": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
+        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     },
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
