@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/germany-coronavirus-vaccine-2021"
     },
     {
-        "title": "India arrests 50 journalists in clampdown on critics of Covid-19 response",
+        "title": "India arrests dozens of journalists in clampdown on critics of Covid-19 response",
         "link": "https://www.theguardian.com/global-development/2020/jul/31/india-arrests-50-journalists-in-clampdown-on-critics-of-covid-19-response"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nationalreview.com/news/dianne-feinstein-lauds-china-as-a-respectable-nation-in-senate-committee-hearing/"
     },
     {
-        "title": "July 30 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/h_e6b308fbadd7f55a1b9338dcd5981cdd"
-    },
-    {
-        "title": "Covid-19: Why Hong Kong's 'third wave' is a warning",
-        "link": "https://www.bbc.com/news/world-asia-china-53596299"
-    },
-    {
         "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
     },
     {
+        "title": "Defiant Hong Kong activists vow to resist China crackdown",
+        "link": "https://www.bangkokpost.com/world/1960631/defiant-hong-kong-activists-vow-to-resist-china-crackdown"
+    },
+    {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
+        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
     }
 ];

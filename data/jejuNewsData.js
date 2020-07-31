@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4506742&ref=A"
     },
     {
+        "title": "해외여행 대신 ‘제주도’에…“공항에서 입국 수준으로 검사”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991492?division=NAVER"
+    },
+    {
         "title": "용인 125번 확진자 3일 전 전북도청 다녀가",
         "link": "https://www.news1.kr/articles/?4011926"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 26번 확진자 출입명부 미작성 유흥업소 업주 고발",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200723500133&wlog_tag3=naver"
-    },
-    {
-        "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
     }
 ];

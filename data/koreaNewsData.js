@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500097&wlog_tag3=naver"
     },
     {
-        "title": "도쿄 코로나 신규 확진자 463명…연일 최다 기록",
-        "link": "http://yna.kr/AKR20200731098800073?did=1195m"
-    },
-    {
-        "title": "경기도 \"평택 코로나 확진자 70%가 주한미군...한미훈련 취소해달라\" 건의",
-        "link": "https://www.pressian.com/pages/articles/2020073115592756125?utm_source=naver&utm_medium=search"
+        "title": "감비아서 입국한 인천 송도 거주 50대 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200731075551065?did=1195m"
     },
     {
         "title": "[전문] 강동구청 49번째 확진자 발생...천호3동",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=373860"
+    },
+    {
+        "title": "대구 '경북 신규 확진자 3명…모두 해외유입 사례(종합)",
+        "link": "http://www.kukinews.com/newsView/kuk202007310096"
     }
 ];
