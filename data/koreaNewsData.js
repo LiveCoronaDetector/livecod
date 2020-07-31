@@ -13,6 +13,18 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
     },
     {
+        "title": "홍콩, 코로나19로 9월 입법회 선거 1년 연기…야권 강력 반발(종합2보)",
+        "link": "http://yna.kr/AKR20200731161252097?did=1195m"
+    },
+    {
+        "title": "日 도쿄, 긴급사태 선언 검토...코로나 하루 463명 확진",
+        "link": "http://www.fnnews.com/news/202007311506570605"
+    },
+    {
+        "title": "\"위산억제제, 코로나 중증 위험도 79% 높여\" 국내 의료진 최초 규명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/07/31/2020073102704.html"
+    },
+    {
         "title": "감비아서 입국한 인천 송도 거주 50대 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20200731075551065?did=1195m"
     },
@@ -21,23 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007311026557352"
     },
     {
-        "title": "홍콩, 코로나19로 9월 입법회 의원 선거 연기(상보)",
-        "link": "https://view.asiae.co.kr/article/2020073119483009959"
-    },
-    {
-        "title": "\"위산억제제, 코로나 중증 위험도 79% 높여\" 국내 의료진 최초 규명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/07/31/2020073102704.html"
+        "title": "영국, 코로나19 봉쇄조치 완화 연기한다[종합]",
+        "link": "https://www.hankyung.com/international/article/2020073115817"
     },
     {
         "title": "'또 당할 순 없다'…영국, 코로나19 봉쇄조치 추가완화 연기(종합)",
         "link": "http://yna.kr/AKR20200731153051085?did=1195m"
-    },
-    {
-        "title": "홍천캠핑장 다녀온 김포시 일가족 3명 코로나19 확진",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500097&wlog_tag3=naver"
-    },
-    {
-        "title": "경기도 \"평택 코로나 확진자 70%가 주한미군...한미훈련 취소해달라\" 건의",
-        "link": "https://www.pressian.com/pages/articles/2020073115592756125?utm_source=naver&utm_medium=search"
     }
 ];
