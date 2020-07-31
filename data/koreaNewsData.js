@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007311506570605"
     },
     {
-        "title": "베트남 오늘 아침에만 코로나19 45명 확진",
-        "link": "http://www.fnnews.com/news/202007311026557352"
-    },
-    {
         "title": "도쿄 코로나 신규 확진자 463명…연일 최다 기록",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005909720&plink=ORI&cooper=NAVER"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 환자 36명...해외유입 22명",
         "link": "https://www.ytn.co.kr/_ln/0103_202007311032229377"
+    },
+    {
+        "title": "감비아서 입국한 인천 송도 거주 50대 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200731075551065?did=1195m"
     }
 ];
