@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0106_202007310437568320"
     },
     {
-        "title": "홍천캠핑장 다녀온 김포시 일가족 3명 코로나19 확진",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500097&wlog_tag3=naver"
-    },
-    {
         "title": "日 도쿄, 긴급사태 선언 검토...코로나 하루 463명 확진",
         "link": "http://www.fnnews.com/news/202007311506570605"
     },
     {
-        "title": "경기도 \"평택 코로나 확진자 70%가 주한미군...한미훈련 취소해달라\" 건의",
-        "link": "https://www.pressian.com/pages/articles/2020073115592756125?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "도쿄 코로나 신규 확진자 463명…연일 최다 기록",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005909720&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "\"위산억제제, 코로나 중증 위험도 79% 높여\" 국내 의료진 최초 규명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/07/31/2020073102704.html"
+    },
+    {
+        "title": "필리핀 코로나19 신규확진 4천명 초과…누적 9만3천명(종합)",
+        "link": "http://yna.kr/AKR20200731057451084?did=1195m"
     }
 ];
