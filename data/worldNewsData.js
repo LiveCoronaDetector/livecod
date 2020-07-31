@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/world/europe/italy-coronavirus-reopening.html"
     },
     {
-        "title": "Coronavirus Forced Indian Workers on a Deadly Journey",
-        "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
+        "title": "Are Thailand's coronavirus numbers too good to be true?",
+        "link": "https://www.cnn.com/videos/world/2020/07/31/thailand-coronavirus-transmission-anna-coren-pkg-intl-ldn-vpx.cnn"
     },
     {
         "title": "Feinstein: Letting Americans sue China over coronavirus response would be 'huge mistake'",
         "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
-    },
-    {
-        "title": "Coronavirus Live News: World Updates",
-        "link": "https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html"
     },
     {
         "title": "Hong Kong leader Carrie Lam delays elections citing coronavirus | DW News",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.thelocal.de/20200731/germany-adds-three-virus-hit-spanish-regions-to-quarantine-list"
     },
     {
-        "title": "Vietnam records first Covid-19 death",
-        "link": "https://www.bbc.com/news/world-asia-53606917"
+        "title": "Up-And-Coming Countries Have Some Of The Largest Outbreaks Of COVID-19 : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/31/896879448/the-nations-with-the-most-to-lose-from-covid-19"
+    },
+    {
+        "title": "Madonna leads celebrity vogue for Covid-19 conspiracy theories",
+        "link": "https://www.theguardian.com/music/2020/jul/31/madonna-takes-on-new-role-as-covid-19-conspiracy-theorist"
     }
 ];
