@@ -13,8 +13,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/31/2020073101303.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 36명 늘어 1만4,305명…해외유입 22명·지역 14명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202007310162&t=NN"
+        "title": "WHO \"코로나19 초기 선진국 보건능력 과대평가했다\"(종합)",
+        "link": "http://yna.kr/AKR20200731003551088?did=1195m"
+    },
+    {
+        "title": "코로나19 신규확진자 36명…지역발생 다시 두자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213729"
     },
     {
         "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020073110380409642"
     },
     {
+        "title": "코로나19 신규 환자 36명...해외유입 22명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007311032229377"
+    },
+    {
         "title": "2차 귀국 이라크 근로자 중 코로나 유증상 31명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/07/31/2020073101605.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "WHO \"코로나19 초기 선진국 보건능력 과대평가했다\"(종합)",
-        "link": "http://yna.kr/AKR20200731003551088?did=1195m"
-    },
-    {
-        "title": "[단독] 확진자 '밀접 접촉자' 빠르고 정확하게 찾는다",
-        "link": "https://www.ytn.co.kr/_ln/0106_202007310437568320"
     }
 ];
