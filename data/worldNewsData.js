@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/30/897196730/michelle-bolsonaro-brazils-first-lady-tests-positive-for-coronavirus"
     },
     {
-        "title": "‘Israel has gained control of coronavirus crisis’",
-        "link": "https://www.jpost.com/health-science/edelstein-gantz-consider-lifting-some-coronavirus-weekend-closures-636903"
+        "title": "Israel botched its handling of the coronavirus by dubbing it war, former Mossad chief says",
+        "link": "https://www.haaretz.com/israel-news/.premium-israel-botched-its-handling-of-coronavirus-by-calling-it-a-war-ex-mossad-chief-says-1.9033713"
     },
     {
-        "title": "EU extends ban on American travelers - again - with US COVID-19 cases far outpacing European countries",
-        "link": "https://www.usatoday.com/story/travel/news/2020/07/30/europe-travel-ban-americans-covid-19-rise-eu-to-us/5546206002/"
+        "title": "Germany official says coronavirus vaccine won't come sooner than mid-2021",
+        "link": "https://www.foxnews.com/health/germany-coronavirus-vaccine-2021"
     },
     {
         "title": "Is national pride, China tension behind India’s coronavirus vaccine push?",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "Dianne Feinstein Lauds China as a ‘Respectable Nation’ in Senate Committee Hearing",
         "link": "https://www.nationalreview.com/news/dianne-feinstein-lauds-china-as-a-respectable-nation-in-senate-committee-hearing/"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-31-20-intl/index.html"
     },
     {
         "title": "Live Coronavirus News Updates and Analysis",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "Hong Kong Crisis: How Far Will China Go?",
+        "link": "https://thediplomat.com/2020/07/hong-kong-crisis-how-far-will-china-go/"
     }
 ];
