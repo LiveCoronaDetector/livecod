@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/health-environment/article/3095371/indias-rush-coronavirus-vaccine-being-driven-national"
     },
     {
-        "title": "China sees spike in COVID-19 cases 6 months after WHO declares coronavirus a health emergency",
-        "link": "https://www.foxnews.com/world/china-sees-spike-in-covid-19-cases-6-months-after-who-declares-coronavirus-a-health-emergency"
+        "title": "Americans blame China for its role in the spread of coronavirus, survey finds",
+        "link": "https://www.foxnews.com/world/americans-blame-china-coronavirus-survey"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Who is Dr Stella Immanuel?",
         "link": "https://www.youtube.com/watch?v=9yCXCP3evAg"
-    },
-    {
-        "title": "How the world made so much progress on a Covid-19 vaccine so fast",
-        "link": "https://www.statnews.com/2020/07/30/a-huge-experiment-how-the-world-made-so-much-progress-on-a-covid-19-vaccine-so-fast/"
     }
 ];
