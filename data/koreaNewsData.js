@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23433169"
     },
     {
-        "title": "홍콩, 코로나 이유로 입법회 선거 전격 연기…민주 진영 반발(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500231&wlog_tag3=naver"
-    },
-    {
         "title": "WHO \"코로나19 신규 확진자 29만명\"…다시 최고치",
         "link": "http://yna.kr/AKR20200801003600088?did=1195m"
+    },
+    {
+        "title": "홍콩, 코로나 이유로 입법회 선거 전격 연기…민주 진영 반발(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200731500231&wlog_tag3=naver"
     },
     {
         "title": "홍콩, 코로나 이유로 입법회 선거 1년 연기…야권 강력 반발(종합2보)",
