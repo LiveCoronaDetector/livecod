@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jul/31/greece-refugee-healthcare-crisis-island-camps-lesbos-moria-coronavirus"
     },
     {
-        "title": "Germany official says coronavirus vaccine won't come sooner than mid-2021",
-        "link": "https://www.foxnews.com/health/germany-coronavirus-vaccine-2021"
+        "title": "Coronavirus live news: France cases rise by 54% in a week; Vietnam records first Covid-19 death",
+        "link": "https://www.theguardian.com/world/live/2020/jul/31/coronavirus-live-news-england-tightens-restrictions-who-says-young-people-behind-some-spikes"
     },
     {
         "title": "India arrests dozens of journalists in clampdown on critics of Covid-19 response",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nationalreview.com/news/dianne-feinstein-lauds-china-as-a-respectable-nation-in-senate-committee-hearing/"
     },
     {
-        "title": "July 30 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/h_e6b308fbadd7f55a1b9338dcd5981cdd"
+        "title": "Stricter rules in parts of France as new coronavirus cases crop up",
+        "link": "https://www.france24.com/en/20200731-new-rules-in-parts-of-france-as-new-coronavirus-cases-crop-up"
     },
     {
-        "title": "Fauci to Testify Before Congress on Coronavirus Response",
-        "link": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "Covid-19: Why Hong Kong's 'third wave' is a warning",
-        "link": "https://www.bbc.com/news/world-asia-china-53596299"
+        "title": "Defiant Hong Kong activists vow to resist China crackdown",
+        "link": "https://www.bangkokpost.com/world/1960631/defiant-hong-kong-activists-vow-to-resist-china-crackdown"
     },
     {
         "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+    },
+    {
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     }
 ];
