@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/30/897196730/michelle-bolsonaro-brazils-first-lady-tests-positive-for-coronavirus"
     },
     {
-        "title": "Israel passes 500 dead from coronavirus",
-        "link": "https://www.jpost.com/health-science/israel-passes-500-dead-from-coronavirus-637012"
+        "title": "Greece's refugees face healthcare crisis as Lesbos Covid-19 centre closes",
+        "link": "https://www.theguardian.com/global-development/2020/jul/31/greece-refugee-healthcare-crisis-island-camps-lesbos-moria-coronavirus"
     },
     {
         "title": "Coronavirus live news: France cases rise by 54% in a week; Vietnam records first Covid-19 death",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/jul/31/india-arrests-50-journalists-in-clampdown-on-critics-of-covid-19-response"
     },
     {
-        "title": "Dianne Feinstein Lauds China as a ‘Respectable Nation’ in Senate Committee Hearing",
-        "link": "https://www.nationalreview.com/news/dianne-feinstein-lauds-china-as-a-respectable-nation-in-senate-committee-hearing/"
-    },
-    {
-        "title": "WHO Officials Answer Questions About COVID-19 | LIVE | NowThis",
-        "link": "https://www.youtube.com/watch?v=6cUDjNm1Ymo"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-31-20-intl/index.html"
     },
     {
         "title": "COVID-19: France sees first rise in intensive care cases since April",
         "link": "https://www.euronews.com/2020/07/31/coronavirus-france-sees-first-rise-in-intensive-care-cases-since-april"
     },
     {
-        "title": "Covid-19: Why Hong Kong's 'third wave' is a warning",
-        "link": "https://www.bbc.com/news/world-asia-china-53596299"
+        "title": "Hong Kong Crisis: How Far Will China Go?",
+        "link": "https://thediplomat.com/2020/07/hong-kong-crisis-how-far-will-china-go/"
     },
     {
         "title": "Coronavirus: NYC reveals more health and safety protocols for schools",
         "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+    },
+    {
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/07/30/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     }
 ];

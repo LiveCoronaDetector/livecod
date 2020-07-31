@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007311016021582"
     },
     {
+        "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
+        "link": "http://www.hani.co.kr/arti/society/health/955977.html"
+    },
+    {
         "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
     },
@@ -15,10 +19,6 @@ var koreaNewsData = [
     {
         "title": "WHO \"코로나19 초기 선진국 보건능력 과대평가했다\"(종합)",
         "link": "http://yna.kr/AKR20200731003551088?did=1195m"
-    },
-    {
-        "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
-        "link": "http://www.hani.co.kr/arti/society/health/955977.html"
     },
     {
         "title": "日 도쿄, 긴급사태 선언 검토...코로나 하루 463명 확진",
