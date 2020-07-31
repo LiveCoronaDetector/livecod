@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202007311016021582"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 36명···국내 발생 14명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007311042001&code=940601"
-    },
-    {
-        "title": "코로나 확진 36명…지역 14명·해외유입 22명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/31/2020073101303.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
+        "link": "http://www.hani.co.kr/arti/society/health/955977.html"
     },
     {
         "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
@@ -21,23 +17,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200731011251007?did=1195m"
     },
     {
-        "title": "[속보] 코로나 신규 확진 36명... 지역사회 14명ㆍ해외유입 22명",
-        "link": "https://hankookilbo.com/News/Read/A2020073109530001991?did=NA"
+        "title": "2차 귀국 이라크 근로자 중 코로나 유증상 31명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/07/31/2020073101605.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독] 확진자 '밀접 접촉자' 빠르고 정확하게 찾는다",
-        "link": "https://www.ytn.co.kr/_ln/0106_202007310437568320"
+        "title": "코로나19 신규 환자 36명...해외유입 22명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202007311032229377"
+    },
+    {
+        "title": "[속보]대구시 해외유입 신규확진자 1명…지역발생은 28일 연속 0명(전문)",
+        "link": "https://news.imaeil.com/Society/2020073110380409642"
     },
     {
         "title": "WHO \"코로나19 초기 선진국 보건능력 과대평가했다\"(종합)",
         "link": "http://yna.kr/AKR20200731003551088?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 36명 신규 확진…해외유입·지역감염 지속",
-        "link": "https://www.hankyung.com/society/article/2020073191357"
+        "title": "北 노동신문 \"코로나 확진자 없다\"…탈북민 월북 이후 첫 언급",
+        "link": "https://www.hankyung.com/politics/article/2020073039977"
     },
     {
-        "title": "[속보]대구시 해외유입 신규확진자 1명…지역발생은 28일 연속 0명(전문)",
-        "link": "https://news.imaeil.com/Society/2020073110380409642"
+        "title": "대구 '경북 신규 확진자 3명…모두 해외유입 사례(종합)",
+        "link": "http://www.kukinews.com/newsView/kuk202007310096"
     }
 ];

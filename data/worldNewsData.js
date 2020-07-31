@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-sees-spike-in-covid-19-cases-6-months-after-who-declares-coronavirus-a-health-emergency"
     },
     {
-        "title": "Live Coronavirus News Updates and Analysis",
-        "link": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-30-20-intl/index.html"
     },
     {
         "title": "Coronavirus updates: NJ sees 112% increase in cases, deaths double in Atlanta area",
-        "link": "https://abcnews.go.com/US/coronavirus-updates-global-cases-covid-19-surge-million/story?id=72070852"
+        "link": "https://news.google.com/articles/CBMiY2h0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvY29yb25hdmlydXMtdXBkYXRlcy1nbG9iYWwtY2FzZXMtY292aWQtMTktc3VyZ2UtbWlsbGlvbi9zdG9yeT9pZD03MjA3MDg1MtIBZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL2Nvcm9uYXZpcnVzLXVwZGF0ZXMtZ2xvYmFsLWNhc2VzLWNvdmlkLTE5LXN1cmdlLW1pbGxpb24vc3Rvcnk_aWQ9NzIwNzA4NTI?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
