@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "Feinstein: Letting Americans sue China over coronavirus response would be 'huge mistake'",
-        "link": "https://www.foxnews.com/politics/feinstein-letting-americans-sue-china-over-coronavirus-response-would-be-huge-mistake"
+        "title": "Fauci: Trump restrictions on travel from China, Europe, UK saved American lives early in pandemic",
+        "link": "https://www.foxnews.com/politics/fauci-trump-travel-restrictions-saved-lives-coronavirus"
     },
     {
         "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
