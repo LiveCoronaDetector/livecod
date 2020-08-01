@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/health/coronavirus-threat-rises-across-us-we-just-have-to-assume-the-monster-is-everywhere/2020/08/01/cdb505e0-d1d8-11ea-8c55-61e7fa5e82ab_story.html"
     },
     {
-        "title": "Why Greece could be Europe's best holiday ticket right now",
-        "link": "https://www.cnn.com/travel/article/greece-vacation-right-now-covid-19-intl/index.html"
+        "title": "Why Youthful, Conservative Pakistan Is a Coronavirus Bright Spot",
+        "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
     },
     {
-        "title": "Coronavirus: Thousands protest in Germany against restrictions",
-        "link": "https://www.bbc.com/news/world-europe-53622797"
+        "title": "Arizona Democratic congressman tests positive for Covid-19",
+        "link": "https://www.cnn.com/2020/08/01/politics/raul-grijalva-tests-positive-covid-19/index.html"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
     },
     {
-        "title": "33 crew infected on Hurtigruten ship: Passengers disembarked, potentially exposing communities",
-        "link": "https://www.usatoday.com/story/travel/cruises/2020/08/01/hurtigruten-cruise-line-33-crew-infected-covid-19-norway/5562151002/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
     },
     {
         "title": "Rep. Raúl Grijalva tests positive for COVID-19 | TheHill",
         "link": "https://thehill.com/homenews/house/510120-rep-raul-grijalva-tests-positive-for-covid-19"
     },
     {
-        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+        "title": "Coronavirus: Thousands protest in Germany against restrictions",
+        "link": "https://www.bbc.com/news/world-europe-53622797"
     }
 ];
