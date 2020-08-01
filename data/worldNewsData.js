@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "260 campers test positive for COVID-19 after stay at a Georgia YMCA camp",
-        "link": "https://www.pbs.org/newshour/health/260-campers-test-positive-for-covid-19-after-4-days-at-a-georgia-ymca-camp"
+        "title": "Japan Acted Like the Virus Had Gone. Now It’s Spread Everywhere.",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c3448bb0-d446-11ea-8baf-971482ab0daa&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0zMS9qYXBhbi1hY3RlZC1saWtlLXRoZS12aXJ1cy1oYWQtZ29uZS1ub3ctaXQtcy1zcHJlYWQtZXZlcnl3aGVyZQ=="
     },
     {
         "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
         "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
-    },
-    {
-        "title": "California gym that defied health order now tied to coronavirus outbreak, officials say",
-        "link": "https://www.kron4.com/news/california/california-gym-that-defied-health-order-now-tied-to-coronavirus-outbreak-officials-say/"
-    },
-    {
         "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
+    },
+    {
+        "title": "Russia preparing mass vaccination against coronavirus for October",
+        "link": "https://www.msn.com/en-us/news/world/russia-preparing-mass-vaccination-against-coronavirus-for-october/ar-BB17rDiy"
+    },
+    {
+        "title": "Far-Right Leader Matteo Salvini to Face Trial for Illegally Detaining Migrants at Sea",
+        "link": "https://www.vice.com/en_us/article/xg853z/far-right-leader-matteo-salvini-to-face-trial-for-illegally-detaining-migrants-at-sea"
     }
 ];

@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4011926"
     },
     {
-        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
-        "link": "http://www.fnnews.com/news/202007210015021219"
-    },
-    {
-        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+        "title": "코로나19 확진자 전북도청·완주군청 방문…방역 비상",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200730500134&wlog_tag3=naver"
     },
     {
         "title": "광진구 20번 확진자 사태, 제주 n차 감염 고비 넘기나",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2168798"
     },
     {
-        "title": "제주 코로나 n차 감염 진정됐지만 관광 성수기 변수",
-        "link": "https://www.nocutnews.co.kr/news/5387971"
+        "title": "용인 125번 확진자, 전북도청 다녀가…도청 방역 비상",
+        "link": "http://www.jjan.kr/news/articleView.html?idxno=2088537"
     },
     {
-        "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
+        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
+        "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=422601"
     }
 ];

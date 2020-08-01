@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5860654_32633.html"
     },
     {
-        "title": "일본 코로나19 신규 확진자 급증세…하루 1580명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000991537?division=NAVER"
-    },
-    {
         "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
         "link": "https://news.joins.com/article/olink/23433169"
+    },
+    {
+        "title": "일본 코로나19 신규 확진자 급증세…하루 1580명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991537?division=NAVER"
     },
     {
         "title": "WHO “코로나19, 100년에 한 번 나올 보건 위기”",
