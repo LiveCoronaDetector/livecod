@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "Fauci: Trump restrictions on travel from China, Europe, UK saved American lives early in pandemic",
-        "link": "https://www.foxnews.com/politics/fauci-trump-travel-restrictions-saved-lives-coronavirus"
+        "title": "Between Fauci's lines: Yes, the Black Lives Matter protests likely spread the coronavirus",
+        "link": "https://www.washingtonexaminer.com/opinion/between-faucis-lines-yes-the-black-lives-matter-protests-likely-spread-the-coronavirus"
     },
     {
         "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-31-20-intl/index.html"
     },
     {
         "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Up-And-Coming Countries Have Some Of The Largest Outbreaks Of COVID-19 : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/07/31/896879448/the-nations-with-the-most-to-lose-from-covid-19"
+    },
+    {
+        "title": "The Virus: The latest in the fight against COVID-19 | ABC News",
+        "link": "https://www.youtube.com/watch?v=QWfXgVlN6T4"
     }
 ];
