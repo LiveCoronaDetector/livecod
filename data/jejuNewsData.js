@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4011926"
     },
     {
-        "title": "광진구 20번 확진자 사태, 제주 n차 감염 고비 넘기나",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2168798"
-    },
-    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "광진구 20번 확진자 사태, 제주 n차 감염 고비 넘기나",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2168798"
     },
     {
         "title": "제주 코로나 n차 감염 진정됐지만 관광 성수기 변수",
