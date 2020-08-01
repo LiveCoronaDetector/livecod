@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "Dr. Anthony Fauci: Coronavirus is so contagious, it likely won't ever disappear",
-        "link": "https://www.youtube.com/watch?v=CekPh79NZew"
+        "title": "Coronavirus live news: England rocked by easing u-turn as Australia cases mount",
+        "link": "https://www.theguardian.com/world/live/2020/aug/01/coronavirus-live-news-who-reports-record-global-daily-cases-as-easing-on-hold-in-england"
     },
     {
         "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "Coronavirus live news: WHO reports record global daily cases as Victoria announces 397 new cases and three deaths",
-        "link": "https://www.theguardian.com/world/live/2020/aug/01/coronavirus-live-news-who-reports-record-global-daily-cases-as-easing-on-hold-in-england"
-    },
-    {
         "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
         "link": "https://www.washingtonpost.com/world/2020/07/31/second-wave-coronavirus-scientists-say-world-is-still-deep-first/"
     },
     {
-        "title": "Italy's Senate revokes Salvini's immunity from second trial over migrant detention",
-        "link": "https://www.youtube.com/watch?v=JUd6yEgrzB0"
+        "title": "Salvini immunity: Former Italian Prime Minister loses legal immunity over migration policy",
+        "link": "https://www.youtube.com/watch?v=cz_JHGA7ezo"
+    },
+    {
+        "title": "Up-And-Coming Countries Have Some Of The Largest Outbreaks Of COVID-19 : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/07/31/896879448/the-nations-with-the-most-to-lose-from-covid-19"
     }
 ];

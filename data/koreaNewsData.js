@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200801003600088?did=1195m"
     },
     {
-        "title": "WHO “코로나19, 100년에 한 번 나올 보건 위기”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4507821&ref=A"
-    },
-    {
         "title": "코로나19 신규 확진자 31명 늘어 총 1만4336명…해외유입이 3배 더 많아",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/01/2020080190012.html"
     },
     {
         "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
         "link": "https://news.joins.com/article/olink/23433169"
+    },
+    {
+        "title": "WHO “코로나19, 100년에 한 번 나올 보건 위기”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4507821&ref=A"
     },
     {
         "title": "[종합] 코로나19 확진자 36명 증가...해외 22명 중 우즈베키스탄 10명",
