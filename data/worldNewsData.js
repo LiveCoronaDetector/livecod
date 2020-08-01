@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "33 Crew Members Test Positive for COVID-19 on Hurtigruten Cruise Ship",
-        "link": "https://www.travelpulse.com/news/cruise/33-crew-members-test-positive-for-covid-19-on-hurtigruten-cruise-ship.html"
+        "title": "36 crew members on Norwegian cruise ship test positive for COVID-19",
+        "link": "https://www.euronews.com/2020/08/01/33-crew-members-on-norwegian-cruise-ship-test-positive-for-covid-19"
     },
     {
         "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
         "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
+        "title": "36 crew infected on Hurtigruten ship: Passengers disembarked, potentially exposing communities",
+        "link": "https://www.usatoday.com/story/travel/cruises/2020/08/01/hurtigruten-cruise-line-33-crew-infected-covid-19-norway/5562151002/"
     },
     {
-        "title": "Rep. Raúl Grijalva tests positive for COVID-19 | TheHill",
-        "link": "https://thehill.com/homenews/house/510120-rep-raul-grijalva-tests-positive-for-covid-19"
+        "title": "Arizona Congressman Raul Grijalva tests positive for coronavirus",
+        "link": "https://www.cnbc.com/2020/08/01/coronavirus-arizona-congressman-raul-grijalva-tests-positive-for-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Thousands protest in Germany against restrictions",
-        "link": "https://www.bbc.com/news/world-europe-53622797"
+        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
+        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
     }
 ];
