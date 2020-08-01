@@ -1261,7 +1261,7 @@ var marker = [
         "Name_ch": "越南",
         "Name_en": "Vietnam",
         "확진자수": 558,
-        "사망자수": 2,
+        "사망자수": 3,
         "완치자수": 373
     },
     {
@@ -1478,7 +1478,7 @@ var marker = [
         "Name_en": "Bhutan",
         "확진자수": 101,
         "사망자수": 0,
-        "완치자수": 88
+        "완치자수": 89
     },
     {
         "Name": "Antigua and Barbuda",

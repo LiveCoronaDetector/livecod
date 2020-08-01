@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "Coronavirus Updates: Trump Signals Unemployment Aid Support; Fauci Warns Covid-19 May Never Go Away",
-        "link": "https://www.youtube.com/watch?v=2fcx4oNPe3Q"
+        "title": "See Dr. Anthony Fauci's heated exchange with Jim Jordan over protests during coronavirus",
+        "link": "https://www.youtube.com/watch?v=oSCSWVrcCtA"
     },
     {
         "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
