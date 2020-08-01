@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/greece-vacation-right-now-covid-19-intl/index.html"
     },
     {
-        "title": "How Italy Turned Around Its Coronavirus Calamity",
-        "link": "https://www.nytimes.com/2020/07/31/world/europe/italy-coronavirus-reopening.html"
+        "title": "Coronavirus: Thousands protest in Germany against restrictions",
+        "link": "https://www.bbc.com/news/world-europe-53622797"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "COVID-19 panel recommends DCGI to permit SII to conduct human trials of Oxford vaccine candidate",
-        "link": "https://www.expresspharma.in/covid19-updates/covid-19-panel-recommends-dcgi-to-permit-sii-to-conduct-human-trials-of-oxford-vaccine-candidate/"
+        "title": "What would a coronavirus second wave look like? | COVID-19 Special",
+        "link": "https://www.youtube.com/watch?v=2imR-RXfBh0"
     },
     {
-        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+        "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
+        "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
     }
 ];
