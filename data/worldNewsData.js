@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/greece-vacation-right-now-covid-19-intl/index.html"
     },
     {
-        "title": "Arizona Democratic congressman tests positive for Covid-19",
-        "link": "https://www.cnn.com/2020/08/01/politics/raul-grijalva-tests-positive-covid-19/index.html"
+        "title": "Coronavirus: Thousands protest in Germany against restrictions",
+        "link": "https://www.bbc.com/news/world-europe-53622797"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.travelpulse.com/news/cruise/33-crew-members-test-positive-for-covid-19-on-hurtigruten-cruise-ship.html"
     },
     {
-        "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
-        "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
+        "title": "COVID-19 panel recommends DCGI to permit SII to conduct human trials of Oxford vaccine candidate",
+        "link": "https://www.expresspharma.in/covid19-updates/covid-19-panel-recommends-dcgi-to-permit-sii-to-conduct-human-trials-of-oxford-vaccine-candidate/"
     },
     {
         "title": "33 crew infected on Hurtigruten ship: Passengers disembarked, potentially exposing communities",
         "link": "https://www.usatoday.com/story/travel/cruises/2020/08/01/hurtigruten-cruise-line-33-crew-infected-covid-19-norway/5562151002/"
     },
     {
-        "title": "US Representative Raúl Grijalva tests positive for COVID-19",
-        "link": "https://www.abc15.com/news/coronavirus/u-s-representative-raul-grijalva-tests-positive-for-covid-19"
-    },
-    {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
         "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+    },
+    {
+        "title": "Vietnam reports 1st COVID-19 death as community infections surge",
+        "link": "https://english.kyodonews.net/news/2020/08/a28f657f3b06-vietnam-reports-1st-covid-19-death-as-community-infections-surge.html"
     }
 ];
