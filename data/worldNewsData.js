@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Coronavirus live news: cases continue to rise in France and Poland",
-        "link": "https://www.theguardian.com/world/live/2020/aug/01/coronavirus-live-news-who-reports-record-global-daily-cases-as-easing-on-hold-in-england"
+        "title": "Japan Acted Like the Virus Had Gone. Now It’s Spread Everywhere.",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=50cdc7d0-d410-11ea-baa1-f1e0fa7e6dc4&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0zMS9qYXBhbi1hY3RlZC1saWtlLXRoZS12aXJ1cy1oYWQtZ29uZS1ub3ctaXQtcy1zcHJlYWQtZXZlcnl3aGVyZQ=="
     },
     {
         "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
-        "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
+    },
+    {
+        "title": "COVID-19 panel recommends DCGI to permit SII to conduct human trials of Oxford vaccine candidate",
+        "link": "https://www.expresspharma.in/covid19-updates/covid-19-panel-recommends-dcgi-to-permit-sii-to-conduct-human-trials-of-oxford-vaccine-candidate/"
     },
     {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
         "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
-    },
-    {
-        "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
-        "link": "https://www.washingtonpost.com/world/2020/07/31/second-wave-coronavirus-scientists-say-world-is-still-deep-first/"
     }
 ];
