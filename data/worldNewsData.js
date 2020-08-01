@@ -13,28 +13,28 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
     },
     {
-        "title": "Arizona Democratic congressman tests positive for Covid-19",
-        "link": "https://www.cnn.com/2020/08/01/politics/raul-grijalva-tests-positive-covid-19/index.html"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "36 crew members on Norwegian cruise ship test positive for COVID-19",
-        "link": "https://www.euronews.com/2020/08/01/33-crew-members-on-norwegian-cruise-ship-test-positive-for-covid-19"
+        "title": "Cruise Ship Returns to Sea, Immediately Suffers Coronavirus Outbreak",
+        "link": "https://www.thedailybeast.com/norwegian-cruise-ship-ms-roald-amundsen-goes-back-out-to-sea-immediately-suffers-coronavirus-outbreak"
     },
     {
         "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
         "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
     },
     {
-        "title": "36 crew infected on Hurtigruten ship: Passengers disembarked, potentially exposing communities",
-        "link": "https://www.usatoday.com/story/travel/cruises/2020/08/01/hurtigruten-cruise-line-33-crew-infected-covid-19-norway/5562151002/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
     },
     {
-        "title": "Arizona Congressman Raul Grijalva tests positive for coronavirus",
-        "link": "https://www.cnbc.com/2020/08/01/coronavirus-arizona-congressman-raul-grijalva-tests-positive-for-coronavirus.html"
+        "title": "Coronavirus: Russia plans mass vaccination campaign in October",
+        "link": "https://www.bbc.com/news/world-europe-53621708"
     },
     {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
