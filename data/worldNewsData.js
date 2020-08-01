@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "Coronavirus live news: England rocked by easing U-turn as Australia cases mount",
+        "title": "Coronavirus live news: cases continue to rise in France and Poland",
         "link": "https://www.theguardian.com/world/live/2020/aug/01/coronavirus-live-news-who-reports-record-global-daily-cases-as-easing-on-hold-in-england"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "Coronavirus: Mexico's death toll becomes world's third highest",
-        "link": "https://www.bbc.com/news/world-latin-america-53618808"
-    },
-    {
-        "title": "Vietnam records first Covid-19 deaths",
-        "link": "https://www.bbc.com/news/world-asia-53606917"
-    },
-    {
         "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
         "link": "https://www.washingtonpost.com/world/2020/07/31/second-wave-coronavirus-scientists-say-world-is-still-deep-first/"
+    },
+    {
+        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
+        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+    },
+    {
+        "title": "Salvini immunity: Former Italian Prime Minister loses legal immunity over migration policy",
+        "link": "https://www.youtube.com/watch?v=cz_JHGA7ezo"
     }
 ];
