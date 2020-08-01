@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4011926"
     },
     {
+        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
+        "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
         "title": "코로나19 확진자 전북도청·완주군청 방문…방역 비상",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200730500134&wlog_tag3=naver"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "용인 125번 확진자, 전북도청 다녀가…도청 방역 비상",
         "link": "http://www.jjan.kr/news/articleView.html?idxno=2088537"
-    },
-    {
-        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
-        "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
         "title": "제주도 25번째 코로나 확진자 발생...'일본서 입국'",
