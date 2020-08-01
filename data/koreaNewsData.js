@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008011026001&code=940100"
     },
     {
-        "title": "전 세계 코로나19 확진자 1천800만 명 육박",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005910832&plink=ORI&cooper=NAVER"
+        "title": "코로나19 신규 확진 31명…누적 1만 4,336명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005910595&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 확진자 1800만명 육박...\"여름인 북반구서도 확산 지속\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100774.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "WHO \"코로나19 신규 확진자 29만명\"…다시 최고치",
         "link": "http://yna.kr/AKR20200801003600088?did=1195m"
-    },
-    {
-        "title": "코로나19 신규확진 31명…해외유입이 지역발생 3배가량",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5860654_32633.html"
     },
     {
         "title": "코로나19 신규 확진자 31명 늘어 총 1만4336명…해외유입이 3배 더 많아",
@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23433169"
     },
     {
-        "title": "일본 코로나19 신규 확진자 급증세…하루 1580명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000991537?division=NAVER"
-    },
-    {
         "title": "WHO “코로나19, 100년에 한 번 나올 보건 위기”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4507821&ref=A"
+    },
+    {
+        "title": "일본 코로나19 신규 확진자 급증세…하루 1580명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991537?division=NAVER"
     },
     {
         "title": "[종합] 코로나19 확진자 36명 증가...해외 22명 중 우즈베키스탄 10명",

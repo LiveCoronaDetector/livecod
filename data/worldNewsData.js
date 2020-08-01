@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
-    },
-    {
         "title": "Vietnam records first Covid-19 deaths",
         "link": "https://www.bbc.com/news/world-asia-53606917"
     },
     {
         "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
         "link": "https://www.washingtonpost.com/world/2020/07/31/second-wave-coronavirus-scientists-say-world-is-still-deep-first/"
+    },
+    {
+        "title": "Salvini immunity: Former Italian Prime Minister loses legal immunity over migration policy",
+        "link": "https://www.youtube.com/watch?v=cz_JHGA7ezo"
     }
 ];

@@ -292,9 +292,9 @@ var marker = [
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "확진자수": 66957,
-        "사망자수": 447,
-        "완치자수": 57932
+        "확진자수": 67448,
+        "사망자수": 453,
+        "완치자수": 58525
     },
     {
         "Name": "Panama",
@@ -316,8 +316,8 @@ var marker = [
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "확진자수": 54301,
-        "사망자수": 6147,
+        "확진자수": 54732,
+        "사망자수": 6148,
         "완치자수": 0
     },
     {
@@ -473,20 +473,20 @@ var marker = [
         "완치자수": 17571
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 24569,
+        "사망자수": 145,
+        "완치자수": 14916
+    },
+    {
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
         "확진자수": 24322,
         "사망자수": 353,
         "완치자수": 17658
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 24304,
-        "사망자수": 143,
-        "완치자수": 14464
     },
     {
         "Name": "오스트리아",
@@ -1097,20 +1097,20 @@ var marker = [
         "완치자수": 670
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "확진자수": 1176,
+        "사망자수": 4,
+        "완치자수": 1045
+    },
+    {
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "확진자수": 1171,
         "사망자수": 17,
         "완치자수": 947
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "확진자수": 1154,
-        "사망자수": 3,
-        "완치자수": 1028
     },
     {
         "Name": "Angola",
@@ -1396,9 +1396,9 @@ var marker = [
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "확진자수": 187,
+        "확진자수": 188,
         "사망자수": 0,
-        "완치자수": 181
+        "완치자수": 182
     },
     {
         "Name": "Trinidad and Tobago",
@@ -1489,20 +1489,20 @@ var marker = [
         "완치자수": 67
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 91,
+        "사망자수": 2,
+        "완치자수": 34
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
         "확진자수": 88,
         "사망자수": 1,
         "완치자수": 85
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 72,
-        "사망자수": 2,
-        "완치자수": 11
     },
     {
         "Name": "French Polynesia",
