@@ -142,7 +142,7 @@ var marker = [
         "Name_en": "Germany",
         "확진자수": 210665,
         "사망자수": 9224,
-        "완치자수": 192300
+        "완치자수": 193600
     },
     {
         "Name": "Argentina",
@@ -1052,7 +1052,7 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1560,
+        "확진자수": 1562,
         "사망자수": 22,
         "완치자수": 1518
     },
@@ -1684,7 +1684,7 @@ var marker = [
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
-        "확진자수": 7,
+        "확진자수": 8,
         "사망자수": 0,
         "완치자수": 6
     },
