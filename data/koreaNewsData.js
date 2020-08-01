@@ -17,12 +17,16 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008011046014551"
     },
     {
-        "title": "코로나19 국내 발생 8명…'안정세' 유지(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01453046625863056"
+        "title": "코로나19 신규 확진자 31명 늘어 총 1만4336명…해외유입이 3배 더 많아",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/01/2020080190012.html"
     },
     {
         "title": "WHO “코로나19, 100년에 한 번 나올 보건 위기”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4507821&ref=A"
+    },
+    {
+        "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
+        "link": "https://news.joins.com/article/olink/23433169"
     },
     {
         "title": "[종합] 코로나19 확진자 36명 증가...해외 22명 중 우즈베키스탄 10명",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
         "link": "http://www.hani.co.kr/arti/society/health/955977.html"
-    },
-    {
-        "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
-        "link": "https://news.joins.com/article/olink/23433169"
     }
 ];

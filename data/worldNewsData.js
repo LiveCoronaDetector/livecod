@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/07/31/opinion/sunday/India-migration-coronavirus.html"
     },
     {
-        "title": "See Dr. Anthony Fauci's heated exchange with Jim Jordan over protests during coronavirus",
-        "link": "https://www.youtube.com/watch?v=oSCSWVrcCtA"
+        "title": "Dr. Anthony Fauci: Coronavirus is so contagious, it likely won't ever disappear",
+        "link": "https://www.youtube.com/watch?v=CekPh79NZew"
     },
     {
         "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
+    },
+    {
+        "title": "Mexico posts world's third-highest coronavirus death toll: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/mexico-posts-world-highest-coronavirus-toll-live-updates-200801001115199.html"
     },
     {
         "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus live news: WHO reports record global daily cases as Victoria announces 397 new cases and three deaths",
         "link": "https://www.theguardian.com/world/live/2020/aug/01/coronavirus-live-news-who-reports-record-global-daily-cases-as-easing-on-hold-in-england"
-    },
-    {
-        "title": "Mexico posts world's third-highest coronavirus death toll: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/mexico-posts-world-highest-coronavirus-toll-live-updates-200801001115199.html"
     }
 ];
