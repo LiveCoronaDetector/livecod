@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 4704738,
-        "사망자수": 156739,
-        "완치자수": 2326409
+        "확진자수": 4705022,
+        "사망자수": 156742,
+        "완치자수": 2327072
     },
     {
         "Name": "브라질",
@@ -601,20 +601,20 @@ var marker = [
         "완치자수": 5077
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "확진자수": 11690,
+        "사망자수": 383,
+        "완치자수": 6319
+    },
+    {
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
         "확진자수": 11644,
         "사망자수": 746,
         "완치자수": 6119
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "확진자수": 11420,
-        "사망자수": 374,
-        "완치자수": 6173
     },
     {
         "Name": "Madagascar",
@@ -737,20 +737,20 @@ var marker = [
         "완치자수": 3803
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 5338,
+        "사망자수": 49,
+        "완치자수": 3548
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
         "확진자수": 5276,
         "사망자수": 157,
         "완치자수": 2952
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 5207,
-        "사망자수": 47,
-        "완치자수": 3250
     },
     {
         "Name": "크로아티아",
@@ -1068,9 +1068,9 @@ var marker = [
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "확진자수": 1243,
+        "확진자수": 1264,
         "사망자수": 35,
-        "완치자수": 978
+        "완치자수": 994
     },
     {
         "Name": "라트비아",
@@ -1292,7 +1292,7 @@ var marker = [
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "확진자수": 401,
+        "확진자수": 413,
         "사망자수": 20,
         "완치자수": 185
     },
@@ -1364,9 +1364,9 @@ var marker = [
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
-        "확진자수": 244,
+        "확진자수": 265,
         "사망자수": 14,
-        "완치자수": 176
+        "완치자수": 179
     },
     {
         "Name": "캄보디아",
