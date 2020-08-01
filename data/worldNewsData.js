@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Cruise Ship Returns to Sea, Immediately Suffers Coronavirus Outbreak",
-        "link": "https://www.thedailybeast.com/norwegian-cruise-ship-ms-roald-amundsen-goes-back-out-to-sea-immediately-suffers-coronavirus-outbreak"
+        "title": "260 campers test positive for COVID-19 after stay at a Georgia YMCA camp",
+        "link": "https://www.pbs.org/newshour/health/260-campers-test-positive-for-covid-19-after-4-days-at-a-georgia-ymca-camp"
     },
     {
         "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Russia plans mass vaccination campaign in October",
-        "link": "https://www.bbc.com/news/world-europe-53621708"
+        "title": "California gym that defied health order now tied to coronavirus outbreak, officials say",
+        "link": "https://www.kron4.com/news/california/california-gym-that-defied-health-order-now-tied-to-coronavirus-outbreak-officials-say/"
     },
     {
-        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+        "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
+        "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     }
 ];
