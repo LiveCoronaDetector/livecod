@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200801003600088?did=1195m"
     },
     {
-        "title": "코로나19 신규확진 31명…해외유입이 지역발생 3배가량",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5860654_32633.html"
+        "title": "코로나19 신규 확진 31명...해외 유입 지속",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008011046014551"
     },
     {
         "title": "코로나19 신규 확진자 31명 늘어 총 1만4336명…해외유입이 3배 더 많아",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/01/2020080190012.html"
+    },
+    {
+        "title": "코로나19 확진자 1800만명 육박...\"여름인 북반구서도 확산 지속\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100774.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "일본 코로나19 신규 확진자 급증세…하루 1580명",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4507821&ref=A"
     },
     {
-        "title": "부산 영도구서 코로나19 1명 확진…러시아 선박 선원도 2명 추가",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020080114430863053"
-    },
-    {
-        "title": "[속보] 여름에도 확산…내주 전세계 확진자 1800만명 넘을 듯",
-        "link": "https://www.hankyung.com/international/article/2020080124867"
+        "title": "[종합] 코로나19 확진자 36명 증가...해외 22명 중 우즈베키스탄 10명",
+        "link": "http://www.fnnews.com/news/202007311016021582"
     }
 ];

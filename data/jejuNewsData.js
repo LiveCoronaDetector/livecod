@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2168798"
     },
     {
-        "title": "제주 코로나 n차 감염 진정됐지만 관광 성수기 변수",
-        "link": "https://www.nocutnews.co.kr/news/5387971"
-    },
-    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "제주 코로나 n차 감염 진정됐지만 관광 성수기 변수",
+        "link": "https://www.nocutnews.co.kr/news/5387971"
     },
     {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",

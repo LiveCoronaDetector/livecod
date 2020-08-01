@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "Vietnam records first Covid-19 deaths",
-        "link": "https://www.bbc.com/news/world-asia-53606917"
-    },
-    {
         "title": "Lockdown easing on hold in England as coronavirus cases rise - BBC News",
         "link": "https://www.youtube.com/watch?v=b6OALUqo0os"
+    },
+    {
+        "title": "Vietnam records first Covid-19 deaths",
+        "link": "https://www.bbc.com/news/world-asia-53606917"
     },
     {
         "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
