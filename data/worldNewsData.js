@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "WHO reports record daily rise in global coronavirus cases: Live",
-        "link": "https://www.aljazeera.com/news/2020/07/vietnam-reports-record-jump-coronavirus-cases-live-updates-200730235247008.html"
+        "title": "Vietnam records first Covid-19 deaths",
+        "link": "https://www.bbc.com/news/world-asia-53606917"
     },
     {
         "title": "Italy's Senate revokes Salvini's immunity from second trial over migrant detention",
