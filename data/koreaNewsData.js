@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "WHO \"코로나19 신규 확진자 29만명\"…다시 최고치",
-        "link": "http://yna.kr/AKR20200801003600088?did=1195m"
+        "title": "[속보]코로나 신규 확진자 31명, 해외유입이 23명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008011026001&code=940100"
     },
     {
-        "title": "코로나19 신규확진 31명…해외유입이 지역발생 3배가량",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5860654_32633.html"
-    },
-    {
-        "title": "'코로나 방역 방해' 이만희 구속...\"혐의 일부 소명·증거 인멸 우려\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008010508408807"
+        "title": "코로나19 신규 확진 31명...해외 유입 지속",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008011046014551"
     },
     {
         "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
         "link": "https://news.joins.com/article/olink/23433169"
     },
     {
-        "title": "코로나19 신규 확진자, 31명 중 23명 해외유입…추가 사망자 '0'(상보)",
-        "link": "https://view.asiae.co.kr/article/2020080110491532180"
+        "title": "WHO \"코로나19 신규 확진자 29만명\"…다시 최고치",
+        "link": "http://yna.kr/AKR20200801003600088?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진 31명…이라크 14명 등 해외 유입 23명·국내 발생 8명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4507891&ref=A"
+    },
+    {
+        "title": "코로나19 국내 발생 8명…'안정세' 유지(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01453046625863056"
+    },
+    {
+        "title": "WHO \"코로나19, 100년에 한 번 나올 보건 위기\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005910382&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
         "link": "http://www.hani.co.kr/arti/society/health/955977.html"
     },
     {
-        "title": "WHO “코로나19, 100년에 한 번 나올 보건 위기”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4507821&ref=A"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 36명···국내 발생 14명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202007311042001&code=940601"
-    },
-    {
-        "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
+        "title": "[종합] 코로나19 확진자 36명 증가...해외 22명 중 우즈베키스탄 10명",
+        "link": "http://www.fnnews.com/news/202007311016021582"
     }
 ];
