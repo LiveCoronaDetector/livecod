@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Japan Acted Like the Virus Had Gone. Now It’s Spread Everywhere.",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f82c4260-d44a-11ea-a1ff-97cd307b5bd7&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0zMS9qYXBhbi1hY3RlZC1saWtlLXRoZS12aXJ1cy1oYWQtZ29uZS1ub3ctaXQtcy1zcHJlYWQtZXZlcnl3aGVyZQ=="
+        "title": "260 campers test positive for COVID-19 after stay at a Georgia YMCA camp",
+        "link": "https://www.pbs.org/newshour/health/260-campers-test-positive-for-covid-19-after-4-days-at-a-georgia-ymca-camp"
     },
     {
         "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
         "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
     },
     {
+        "title": "Former member of The Gym in Pacific Beach shares experience",
+        "link": "https://www.10news.com/news/coronavirus/former-member-of-the-gym-shares-experience"
+    },
+    {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
         "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
     },
     {
-        "title": "Russia preparing mass vaccination against coronavirus for October",
-        "link": "https://www.msn.com/en-us/news/world/russia-preparing-mass-vaccination-against-coronavirus-for-october/ar-BB17rDiy"
-    },
-    {
-        "title": "Far-Right Leader Matteo Salvini to Face Trial for Illegally Detaining Migrants at Sea",
-        "link": "https://www.vice.com/en_us/article/xg853z/far-right-leader-matteo-salvini-to-face-trial-for-illegally-detaining-migrants-at-sea"
+        "title": "Coronavirus: Russia plans mass vaccination campaign in October",
+        "link": "https://www.bbc.com/news/world-europe-53621708"
     }
 ];
