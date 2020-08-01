@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991537?division=NAVER"
     },
     {
-        "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
-        "link": "https://news.joins.com/article/olink/23433169"
-    },
-    {
         "title": "WHO “코로나19, 100년에 한 번 나올 보건 위기”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4507821&ref=A"
+    },
+    {
+        "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
+        "link": "https://news.joins.com/article/olink/23433169"
     }
 ];
