@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/07/31/americas/brazil-bolsonaro-mold-lungs-intl/index.html"
     },
     {
-        "title": "US national shot dead in Pakistan courtroom during blasphemy trial",
-        "link": "https://www.cnn.com/2020/07/31/asia/american-in-pakistan-blasphemy-shooting-intl-hnk/index.html"
+        "title": "Why Greece could be Europe's best holiday ticket right now",
+        "link": "https://www.cnn.com/travel/article/greece-vacation-right-now-covid-19-intl/index.html"
     },
     {
         "title": "How Italy Turned Around Its Coronavirus Calamity",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
+        "title": "Vietnam records first Covid-19 deaths",
+        "link": "https://www.bbc.com/news/world-asia-53606917"
+    },
+    {
         "title": "Lockdown easing on hold in England as coronavirus cases rise - BBC News",
         "link": "https://www.youtube.com/watch?v=b6OALUqo0os"
     },
     {
         "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
         "link": "https://www.washingtonpost.com/world/2020/07/31/second-wave-coronavirus-scientists-say-world-is-still-deep-first/"
-    },
-    {
-        "title": "Italy's Senate revokes Salvini's immunity from second trial over migrant detention",
-        "link": "https://www.youtube.com/watch?v=JUd6yEgrzB0"
     }
 ];
