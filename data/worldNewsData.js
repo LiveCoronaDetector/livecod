@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "What you can and can't now do: The full list of lockdown changes taking effect on August 1",
-        "link": "https://www.gazettelive.co.uk/news/teesside-news/what-you-can-cant-now-18699783"
-    },
-    {
-        "title": "Vietnam records first Covid-19 deaths",
-        "link": "https://www.bbc.com/news/world-asia-53606917"
+        "title": "Virus Outbreak: News and Analysis From August 1",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=68057b70-d3e6-11ea-afeb-ed158f1632cf&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0zMS9uLWotaXMtaW4tYS1kYW5nZXJvdXMtcGxhY2UtaHVycmljYW5lLXRyb3VibGUtdmlydXMtdXBkYXRl"
     },
     {
         "title": "Italy's Senate revokes Salvini's immunity from second trial over migrant detention",
         "link": "https://www.youtube.com/watch?v=JUd6yEgrzB0"
+    },
+    {
+        "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
+        "link": "https://www.washingtonpost.com/world/2020/07/31/second-wave-coronavirus-scientists-say-world-is-still-deep-first/"
     }
 ];
