@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/07/31/second-wave-coronavirus-scientists-say-world-is-still-deep-first/"
     },
     {
-        "title": "Salvini immunity: Former Italian Prime Minister loses legal immunity over migration policy",
-        "link": "https://www.youtube.com/watch?v=cz_JHGA7ezo"
+        "title": "Italy's Senate revokes Salvini's immunity from second trial over migrant detention",
+        "link": "https://www.youtube.com/watch?v=JUd6yEgrzB0"
     },
     {
         "title": "Up-And-Coming Countries Have Some Of The Largest Outbreaks Of COVID-19 : Goats and Soda",

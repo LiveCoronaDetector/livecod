@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200801003600088?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 31명 늘어 총 1만4336명…해외유입이 3배 더 많아",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/01/2020080190012.html"
+        "title": "일본 코로나19 신규 확진자 급증세…하루 1580명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991537?division=NAVER"
     },
     {
         "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4507821&ref=A"
     },
     {
+        "title": "코로나19 신규 확진자 31명 늘어 총 1만4336명…해외유입이 3배 더 많아",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/01/2020080190012.html"
+    },
+    {
         "title": "[종합] 코로나19 확진자 36명 증가...해외 22명 중 우즈베키스탄 10명",
         "link": "http://www.fnnews.com/news/202007311016021582"
     },
     {
         "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
-    },
-    {
-        "title": "코로나 신규 확진자 36명 증가…다시 30명대로 늘어",
-        "link": "http://www.hani.co.kr/arti/society/health/955977.html"
     }
 ];
