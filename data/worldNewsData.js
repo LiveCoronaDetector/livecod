@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "Coronavirus update: Mexico surpasses UK to have third highest death toll in the world, WHO reveals devastating daily toll",
-        "link": "https://www.abc.net.au/news/2020-08-01/coronavirus-update-covid-19-who-global-case-record-uk-johnson/12514234"
+        "title": "What you can and can't now do: The full list of lockdown changes taking effect on August 1",
+        "link": "https://www.gazettelive.co.uk/news/teesside-news/what-you-can-cant-now-18699783"
     },
     {
         "title": "Vietnam records first Covid-19 deaths",
