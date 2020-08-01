@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "COVID-19 Outbreak Hits One of the First Cruise Ships Back at Sea",
-        "link": "https://www.msn.com/en-us/news/world/covid-19-outbreak-hits-one-of-the-first-cruise-ships-back-at-sea/ar-BB17s7P2"
+        "title": "33 Crew Members Test Positive for COVID-19 on Hurtigruten Cruise Ship",
+        "link": "https://www.travelpulse.com/news/cruise/33-crew-members-test-positive-for-covid-19-on-hurtigruten-cruise-ship.html"
     },
     {
-        "title": "Cruise Ship That Resumed Cruises Has COVID Outbreak",
-        "link": "https://cruisefever.net/cruise-ship-that-resumed-cruises-has-covid-outbreak/"
+        "title": "33 crew infected on Hurtigruten ship: Passengers disembarked, potentially exposing communities",
+        "link": "https://www.usatoday.com/story/travel/cruises/2020/08/01/hurtigruten-cruise-line-33-crew-infected-covid-19-norway/5562151002/"
     },
     {
-        "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
-        "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
-    },
-    {
-        "title": "What would a coronavirus second wave look like? | COVID-19 Special",
-        "link": "https://www.youtube.com/watch?v=2imR-RXfBh0"
+        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
+        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
     },
     {
         "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
         "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
+    },
+    {
+        "title": "Vietnam reports 1st COVID-19 death as community infections surge",
+        "link": "https://english.kyodonews.net/news/2020/08/a28f657f3b06-vietnam-reports-1st-covid-19-death-as-community-infections-surge.html"
     }
 ];
