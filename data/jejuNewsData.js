@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
     {
-        "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
-    },
-    {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
+    },
+    {
+        "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     }
 ];

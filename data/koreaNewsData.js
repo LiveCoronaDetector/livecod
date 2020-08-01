@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5860654_32633.html"
     },
     {
-        "title": "[속보] 전세계 코로나19 확진자 1800만명 코앞…현재 1760만명",
-        "link": "https://www.hankyung.com/international/article/2020080124867"
-    },
-    {
         "title": "일본 코로나19 신규 확진자 급증세…하루 1580명",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991537?division=NAVER"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[종합] 코로나19 확진자 36명 증가...해외 22명 중 우즈베키스탄 10명",
         "link": "http://www.fnnews.com/news/202007311016021582"
+    },
+    {
+        "title": "코로나19 신규 확진자 36명…국내 14명·해외 22명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5859707_32633.html"
     }
 ];
