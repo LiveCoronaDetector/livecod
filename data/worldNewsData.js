@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/07/30/latest_news/1596093895_492410.html"
     },
     {
-        "title": "Brazil's Bolsonaro says he has 'mold' in his lungs as his wife tests positive for Covid-19",
-        "link": "https://www.cnn.com/2020/07/31/americas/brazil-bolsonaro-mold-lungs-intl/index.html"
+        "title": "Coronavirus threat rises across U.S.: ‘We just have to assume the monster is everywhere’",
+        "link": "https://www.washingtonpost.com/health/coronavirus-threat-rises-across-us-we-just-have-to-assume-the-monster-is-everywhere/2020/08/01/cdb505e0-d1d8-11ea-8c55-61e7fa5e82ab_story.html"
     },
     {
         "title": "Why Greece could be Europe's best holiday ticket right now",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.travelpulse.com/news/cruise/33-crew-members-test-positive-for-covid-19-on-hurtigruten-cruise-ship.html"
     },
     {
-        "title": "COVID-19 panel recommends DCGI to permit SII to conduct human trials of Oxford vaccine candidate",
-        "link": "https://www.expresspharma.in/covid19-updates/covid-19-panel-recommends-dcgi-to-permit-sii-to-conduct-human-trials-of-oxford-vaccine-candidate/"
+        "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
+        "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
     },
     {
         "title": "33 crew infected on Hurtigruten ship: Passengers disembarked, potentially exposing communities",
         "link": "https://www.usatoday.com/story/travel/cruises/2020/08/01/hurtigruten-cruise-line-33-crew-infected-covid-19-norway/5562151002/"
     },
     {
-        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+        "title": "Rep. Raúl Grijalva tests positive for COVID-19 | TheHill",
+        "link": "https://thehill.com/homenews/house/510120-rep-raul-grijalva-tests-positive-for-covid-19"
     },
     {
-        "title": "Vietnam reports 1st COVID-19 death as community infections surge",
-        "link": "https://english.kyodonews.net/news/2020/08/a28f657f3b06-vietnam-reports-1st-covid-19-death-as-community-infections-surge.html"
+        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
+        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
     }
 ];
