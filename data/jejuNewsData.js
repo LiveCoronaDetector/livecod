@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200730138600055?did=1195m"
     },
     {
-        "title": "용인 코로나19 확진자 전북도청 등 다녀가…5명 검사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4506742&ref=A"
-    },
-    {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
+    },
+    {
+        "title": "용인 코로나19 확진자 전북도청 등 다녀가…5명 검사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4506742&ref=A"
     },
     {
         "title": "해외여행 대신 ‘제주도’에…“공항에서 입국 수준으로 검사”",

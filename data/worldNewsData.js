@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Japan Acted Like the Virus Had Gone. Now It’s Spread Everywhere.",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=50cdc7d0-d410-11ea-baa1-f1e0fa7e6dc4&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0zMS9qYXBhbi1hY3RlZC1saWtlLXRoZS12aXJ1cy1oYWQtZ29uZS1ub3ctaXQtcy1zcHJlYWQtZXZlcnl3aGVyZQ=="
+        "title": "COVID-19 Outbreak Hits One of the First Cruise Ships Back at Sea",
+        "link": "https://www.msn.com/en-us/news/world/covid-19-outbreak-hits-one-of-the-first-cruise-ships-back-at-sea/ar-BB17s7P2"
+    },
+    {
+        "title": "Coronavirus: Mexico's death toll becomes world's third highest",
+        "link": "https://www.bbc.com/news/world-latin-america-53618808"
     },
     {
         "title": "World Health Organization reports largest single-day increase in coronavirus cases across globe",
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
-    },
-    {
         "title": "COVID-19 panel recommends DCGI to permit SII to conduct human trials of Oxford vaccine candidate",
         "link": "https://www.expresspharma.in/covid19-updates/covid-19-panel-recommends-dcgi-to-permit-sii-to-conduct-human-trials-of-oxford-vaccine-candidate/"
     },
     {
-        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+        "title": "Cruise Ship That Resumed Cruises Has COVID Outbreak",
+        "link": "https://cruisefever.net/cruise-ship-that-resumed-cruises-has-covid-outbreak/"
     }
 ];
