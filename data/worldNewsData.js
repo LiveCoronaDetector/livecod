@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/07/31/world-health-organization-reports-largest-ever-single-day-increase-in-coronavirus-cases-across-globe.html"
     },
     {
-        "title": "Mexico posts world's third-highest coronavirus death toll: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/mexico-posts-world-highest-coronavirus-toll-live-updates-200801001115199.html"
+        "title": "Coronavirus live news: WHO reports record global daily cases as Victoria announces 397 new cases and three deaths",
+        "link": "https://www.theguardian.com/world/live/2020/aug/01/coronavirus-live-news-who-reports-record-global-daily-cases-as-easing-on-hold-in-england"
     },
     {
         "title": "A second wave of coronavirus? Scientists say the world is still deep in the first.",
         "link": "https://www.washingtonpost.com/world/2020/07/31/second-wave-coronavirus-scientists-say-world-is-still-deep-first/"
     },
     {
-        "title": "Coronavirus live news: WHO reports record global daily cases as Victoria announces 397 new cases and three deaths",
-        "link": "https://www.theguardian.com/world/live/2020/aug/01/coronavirus-live-news-who-reports-record-global-daily-cases-as-easing-on-hold-in-england"
+        "title": "Italy's Senate revokes Salvini's immunity from second trial over migrant detention",
+        "link": "https://www.youtube.com/watch?v=JUd6yEgrzB0"
     }
 ];
