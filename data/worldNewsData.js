@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
         "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Nancy Pelosi criticises Deborah Birx",
         "link": "https://www.bbc.com/news/world-us-canada-53631341"
-    },
-    {
-        "title": "Daniel Andrews declares coronavirus curfew across metropolitan Melbourne",
-        "link": "https://www.youtube.com/watch?v=rxMm1mNIIfo"
     }
 ];
