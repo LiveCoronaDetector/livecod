@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200802000216"
     },
     {
-        "title": "코로나 신규 확진 30명...국외유입 22명·지역사회 8명",
-        "link": "http://www.hani.co.kr/arti/society/health/956090.html"
-    },
-    {
         "title": "[종합] 코로나19 확진자 30명 증가...해외 22명 중 이라크 8명",
         "link": "http://www.fnnews.com/news/202008021014364714"
+    },
+    {
+        "title": "코로나 신규 확진 30명...국외유입 22명·지역사회 8명",
+        "link": "http://www.hani.co.kr/arti/society/health/956090.html"
     },
     {
         "title": "KT, 코로나19 확산 예측 얼라이언스 1기 종료",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
-        "link": "http://www.fnnews.com/news/202008021438296630"
+        "title": "美코로나TF 조정관 \"3~4월보다 광범위 확산…새 국면\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200803_0001115891&cID=10101&pID=10100"
     },
     {
-        "title": "경북 경산서 생후 4개월 여아 코로나19 감염",
-        "link": "https://www.nocutnews.co.kr/news/5388243"
+        "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
+        "link": "http://www.fnnews.com/news/202008021438296630"
     }
 ];

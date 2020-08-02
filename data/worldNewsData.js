@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Victoria declares 'state of disaster,' locking down millions in Melbourne to fight a soaring coronavirus outbreak",
-        "link": "https://www.cnn.com/2020/08/02/australia/victoria-coronavirus-state-of-disaster-intl/index.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
-    },
-    {
-        "title": "Adar Poonawalla hopes to announce their own corona vaccines by 2021 end, launch Covishield by 2020 end",
-        "link": "https://www.indiatvnews.com/news/good-news/serum-institute-adar-poonawalla-on-sii-coronavirus-vaccines-novavax-oxford-covishield-launch-date-by-2020-end-638986"
+        "title": "Australia declares 'State of Disaster' in Victoria after coronavirus cases spike continues",
+        "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
     },
     {
         "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
         "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
     },
     {
+        "title": "Adar Poonawalla hopes to announce their own corona vaccines by 2021 end, launch Covishield by 2020 end",
+        "link": "https://www.indiatvnews.com/news/good-news/serum-institute-adar-poonawalla-on-sii-coronavirus-vaccines-novavax-oxford-covishield-launch-date-by-2020-end-638986"
+    },
+    {
         "title": "Coronavirus: Nancy Pelosi criticises Deborah Birx",
         "link": "https://www.bbc.com/news/world-us-canada-53631341"
+    },
+    {
+        "title": "Daniel Andrews declares coronavirus curfew across metropolitan Melbourne",
+        "link": "https://www.youtube.com/watch?v=rxMm1mNIIfo"
     }
 ];
