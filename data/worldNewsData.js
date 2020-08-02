@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
     },
     {
-        "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
-        "link": "https://www.cnn.com/2020/08/01/world/berlin-germany-covid-19-protest-intl/index.html"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "COVID safe app used to find new NSW coronavirus cases",
-        "link": "https://7news.com.au/news/public-health/covid-safe-app-actually-found-nsw-coronavirus-cases-c-1210745"
+        "title": "Victoria to record its deadliest day since pandemic begun",
+        "link": "https://www.youtube.com/watch?v=IBkbwz2R758"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
+        "title": "Sharad Pawar visits coronavirus vaccine-maker Serum Institute of India",
+        "link": "https://www.indiatvnews.com/news/india/oxford-covid-19-vaccine-covishield-sharad-pawar-visits-coronavirus-vaccine-maker-serum-institute-of-india-638939"
     },
     {
-        "title": "COVID-19: Hope to announce our own vaccines by the end of 2021, says Serum Institute of India CEO Adar P",
-        "link": "https://mumbaimirror.indiatimes.com/coronavirus/news/hope-to-announce-our-own-vaccines-by-the-end-of-2021/articleshow/77309910.cms"
+        "title": "Australia's government to back Victoria's strict coronavirus lockdown",
+        "link": "https://www.msn.com/en-us/news/world/australias-government-to-back-victorias-strict-coronavirus-lockdown/ar-BB17syZK"
     },
     {
-        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+        "title": "South Africa passes 500,000 confirmed coronavirus cases",
+        "link": "https://www.foxnews.com/world/south-africa-passes-500000-confirmed-coronavirus-cases"
     },
     {
-        "title": "COVID-19 breaches in NSW as Perisher ski slopes and Maroubra parties shut down",
-        "link": "https://www.dailymail.co.uk/news/article-8584495/COVID-19-breaches-NSW-Perisher-ski-slopes-Maroubra-parties-shut-down.html"
+        "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
+        "link": "https://www.cnn.com/2020/08/01/world/berlin-germany-covid-19-protest-intl/index.html"
     }
 ];
