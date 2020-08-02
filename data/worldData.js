@@ -244,9 +244,9 @@ var marker = [
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "확진자수": 76789,
-        "사망자수": 2977,
-        "완치자수": 23582
+        "확진자수": 78793,
+        "사망자수": 3064,
+        "완치자수": 23968
     },
     {
         "Name": "이스라엘",
@@ -1001,20 +1001,20 @@ var marker = [
         "완치자수": 803
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "확진자수": 1907,
+        "사망자수": 12,
+        "완치자수": 645
+    },
+    {
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
         "확진자수": 1893,
         "사망자수": 10,
         "완치자수": 1825
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "확진자수": 1864,
-        "사망자수": 12,
-        "완치자수": 645
     },
     {
         "Name": "Sierra Leone",
@@ -1172,9 +1172,9 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 878,
+        "확진자수": 883,
         "사망자수": 10,
-        "완치자수": 726
+        "완치자수": 743
     },
     {
         "Name": "Sao Tome and Principe",

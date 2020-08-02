@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
     },
     {
-        "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
-        "link": "https://www.cnn.com/2020/08/01/world/berlin-germany-covid-19-protest-intl/index.html"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
     },
     {
-        "title": "Russia preparing mass vaccination against coronavirus for October",
-        "link": "https://www.msn.com/en-us/news/world/russia-preparing-mass-vaccination-against-coronavirus-for-october/ar-BB17rDiy"
+        "title": "Coronavirus: Russia plans mass vaccination campaign in October",
+        "link": "https://www.bbc.com/news/world-europe-53621708"
     },
     {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",

@@ -5,8 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008021014364714"
     },
     {
-        "title": "[속보]국내 코로나19 신규확진 30명…지역감염 8명·해외유입 22명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220080100002"
+        "title": "[속보] 코로나 신규 확진 30명...국외유입 22명·지역사회 8명",
+        "link": "http://www.hani.co.kr/arti/society/health/956090.html"
+    },
+    {
+        "title": "[속보]코로나 신규확진 30명…해외유입 22명으로 지역의 3배",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008021021001&code=940100"
     },
     {
         "title": "日 코로나 신규 확진자, 나흘 연속 1000명 넘어서… \"가게 문 닫아라\"",
@@ -17,16 +21,12 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991570?division=NAVER"
     },
     {
-        "title": "北 코로나 초비상 \"'모든 통로 완전히 차단해야'",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/02/2020080200300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "KT, 코로나19 예측 연구 얼라이언스 1기 활동 종료",
         "link": "https://zdnet.co.kr/view/?no=20200802092417"
     },
     {
-        "title": "MLB 세인트루이스, 코로나19 확진자 추가…2일 경기도 취소",
-        "link": "http://yna.kr/AKR20200802007900007?did=1195m"
+        "title": "北 코로나 초비상 \"'모든 통로 완전히 차단해야'",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/02/2020080200300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나 확진 30명…지역 8명·한 자릿수 안정세(종합)",
