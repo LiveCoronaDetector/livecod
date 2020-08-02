@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5861397_32640.html"
     },
     {
+        "title": "美코로나TF 조정관 \"3~4월보다 광범위 확산…새 국면\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200803_0001115891&cID=10101&pID=10100"
+    },
+    {
         "title": "정부, “비수도권 코로나19 진정세”",
         "link": "http://news.heraldcorp.com/view.php?ud=20200802000216"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "백악관 조정관 \"발병지 다녀왔다면 코로나19 걸렸다고 상정\"",
-        "link": "https://www.hankyung.com/international/article/2020080349647"
     },
     {
         "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
