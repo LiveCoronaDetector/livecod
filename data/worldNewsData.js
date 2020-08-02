@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Daniel Andrews to announce hard lockdown for Vic",
-        "link": "https://www.youtube.com/watch?v=4gIor9lPNm4"
+        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
+        "link": "https://www.bbc.com/news/world-australia-53627038"
     },
     {
         "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
         "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
     },
     {
-        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
-        "link": "https://www.bbc.com/news/world-australia-53627038"
+        "title": "Daniel Andrews to announce hard lockdown for Vic",
+        "link": "https://www.youtube.com/watch?v=4gIor9lPNm4"
     },
     {
         "title": "South Africa passes 500,000 confirmed coronavirus cases",
