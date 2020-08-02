@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 확진자 전북도청·완주군청 방문…방역 비상",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200730500134&wlog_tag3=naver"
+        "title": "제주도, 26번 확진자 출입 호박유흥주점 업주 '고발' 방침",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318244"
     },
     {
-        "title": "광진구 20번 확진자 사태, 제주 n차 감염 고비 넘기나",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2168798"
+        "title": "코로나19 확진자 전북도청·완주군청 방문…방역 비상",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200730500134&wlog_tag3=naver"
     }
 ];
