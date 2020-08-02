@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991492?division=NAVER"
     },
     {
-        "title": "용인 125번 확진자 3일 전 전북도청 다녀가",
-        "link": "https://www.news1.kr/articles/?4011926"
-    },
-    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "용인 125번 확진자 3일 전 전북도청 다녀가",
+        "link": "https://www.news1.kr/articles/?4011926"
     },
     {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",

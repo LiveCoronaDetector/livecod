@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
     },
     {
-        "title": "Daniel Andrews to announce hard lockdown for Vic",
-        "link": "https://www.youtube.com/watch?v=4gIor9lPNm4"
+        "title": "All students to return to remote learning as regional Victoria to be placed into stage three lockdow",
+        "link": "https://www.youtube.com/watch?v=laPh52I0Gsg"
     },
     {
         "title": "South Africa passes 500,000 confirmed coronavirus cases",
