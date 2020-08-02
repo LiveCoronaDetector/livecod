@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
-        "title": "2주간 일평균 확진자 21.4명→16.9명…\"비수도권 진정세 뚜렷\"(종합)",
-        "link": "http://yna.kr/AKR20200802044751530?did=1195m"
-    },
-    {
-        "title": "서울 강남 커피숍발 새로운 집단감염 발생...확진자 총 9명",
-        "link": "https://hankookilbo.com/News/Read/A2020080211030001891?did=NA"
-    },
-    {
         "title": "세계 코로나 누적 확진자 1천800만명 넘어…첫 보고 후 7개월만",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5861549_32640.html"
+        "link": "http://yna.kr/AKR20200802021500009?did=1195m"
     },
     {
         "title": "일본야구 개막 이후 첫 코로나19 확진자…2일 소프트뱅크전 취소",
         "link": "https://imnews.imbc.com/news/2020/world/article/5861397_32640.html"
+    },
+    {
+        "title": "2주간 일평균 확진자 21.4명→16.9명…\"비수도권 진정세 뚜렷\"(종합)",
+        "link": "http://yna.kr/AKR20200802044751530?did=1195m"
     },
     {
         "title": "코로나 신규 확진 30명...국외유입 22명·지역사회 8명",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.speconomy.com/news/newsview.php?ncode=1065584054101342"
     },
     {
-        "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
         "link": "http://www.fnnews.com/news/202008021438296630"
+    },
+    {
+        "title": "정부, “비수도권 코로나19 진정세”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200802000216"
+    },
+    {
+        "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
