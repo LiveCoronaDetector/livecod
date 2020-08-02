@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53625789"
     },
     {
-        "title": "Coronavirus: Media to be barred from Trump election nomination",
-        "link": "https://www.bbc.com/news/world-us-canada-53626546"
+        "title": "Coronavirus update: Birx says U.S. has entered a ‘new phase’ of pandemic as cases, deaths rise",
+        "link": "https://www.washingtonpost.com/nation/2020/08/02/coronavirus-covid-updates/"
     },
     {
         "title": "Why Youthful, Conservative Pakistan Is a Coronavirus Bright Spot",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/02/australia/victoria-coronavirus-state-of-disaster-intl/index.html"
     },
     {
+        "title": "Coronavirus Live Updates: Global News Tracker",
+        "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html"
+    },
+    {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/h_be8f957207883050343b618474f972f8"
     },
     {
-        "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
-        "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
+        "title": "GOP convention in Charlotte closed to press, portions will be livestreamed",
+        "link": "https://www.cnn.com/2020/08/01/politics/rnc-charlotte-press/index.html"
     },
     {
-        "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
-        "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
-    },
-    {
-        "title": "Coronavirus: Russia plans mass vaccination campaign in October",
-        "link": "https://www.bbc.com/news/world-europe-53621708"
+        "title": "Start Vaccinating Now!",
+        "link": "https://www.forbes.com/sites/stevensalzberg/2020/08/02/start-vaccinating-now/"
     }
 ];

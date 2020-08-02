@@ -5,18 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200802044751530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
-    },
-    {
-        "title": "서울 강남 커피숍발 새로운 집단감염 발생...확진자 총 9명",
-        "link": "https://hankookilbo.com/News/Read/A2020080211030001891?did=NA"
-    },
-    {
-        "title": "세계 코로나 누적 확진자 1천800만명 넘어…첫 보고 후 7개월만",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5861549_32640.html"
-    },
-    {
         "title": "일본야구 개막 이후 첫 코로나19 확진자…2일 소프트뱅크전 취소",
         "link": "https://imnews.imbc.com/news/2020/world/article/5861397_32640.html"
     },
@@ -25,19 +13,31 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956090.html"
     },
     {
-        "title": "[종합] 코로나19 확진자 30명 증가...해외 22명 중 이라크 8명",
-        "link": "http://www.fnnews.com/news/202008021014364714"
-    },
-    {
         "title": "KT, 코로나19 확산 예측 얼라이언스 1기 종료",
         "link": "http://www.speconomy.com/news/newsview.php?ncode=1065584054101342"
     },
     {
-        "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
-        "link": "http://www.fnnews.com/news/202008021438296630"
+        "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
-        "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "세계 코로나 누적 확진자 1천800만 명 넘어",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005911294&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 대유행 길어진다…전세계 확진자 1천800만명(종합)",
+        "link": "http://yna.kr/AKR20200802021551009?did=1195m"
+    },
+    {
+        "title": "2일 경남 해외입국 코로나 확진자 1명",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1330895"
+    },
+    {
+        "title": "광주, 코로나 일단 한숨 돌리나...사회적 거리두기 1단계로 전환",
+        "link": "https://www.pressian.com/pages/articles/2020080215594568009?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
+        "link": "http://www.fnnews.com/news/202008021438296630"
     }
 ];
