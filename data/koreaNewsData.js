@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200802044751530?did=1195m"
     },
     {
+        "title": "서울 강남 커피숍발 새로운 집단감염 발생...확진자 총 9명",
+        "link": "https://hankookilbo.com/News/Read/A2020080211030001891?did=NA"
+    },
+    {
         "title": "세계 코로나 누적 확진자 1천800만명 넘어…첫 보고 후 7개월만",
         "link": "https://imnews.imbc.com/news/2020/world/article/5861549_32640.html"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
         "link": "http://www.fnnews.com/news/202008021438296630"
-    },
-    {
-        "title": "경북 경산서 생후 4개월 여아 코로나19 감염",
-        "link": "https://www.nocutnews.co.kr/news/5388243"
     }
 ];

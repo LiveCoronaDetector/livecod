@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/02/coronavirus-covid-updates/"
     },
     {
-        "title": "Why Youthful, Conservative Pakistan Is a Coronavirus Bright Spot",
-        "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
+        "title": "Why Greece could be Europe's best holiday ticket right now",
+        "link": "https://www.cnn.com/travel/article/greece-vacation-right-now-covid-19-intl/index.html"
     },
     {
         "title": "Germany: 45 officers injured at Berlin rally against coronavirus curbs",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/02/australia/victoria-coronavirus-state-of-disaster-intl/index.html"
     },
     {
+        "title": "Live Coronavirus Updates: Tracking Global News, Cases and Deaths",
+        "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
+    },
+    {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/h_be8f957207883050343b618474f972f8"
     },
     {
         "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
         "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
     },
     {
-        "title": "GOP convention in Charlotte closed to press, portions will be livestreamed",
-        "link": "https://www.cnn.com/2020/08/01/politics/rnc-charlotte-press/index.html"
-    },
-    {
-        "title": "Start Vaccinating Now!",
-        "link": "https://www.forbes.com/sites/stevensalzberg/2020/08/02/start-vaccinating-now/"
+        "title": "Adar Poonawalla hopes to announce their own corona vaccines by 2021 end, launch Covishield by 2020 end",
+        "link": "https://www.indiatvnews.com/news/good-news/serum-institute-adar-poonawalla-on-sii-coronavirus-vaccines-novavax-oxford-covishield-launch-date-by-2020-end-638986"
     }
 ];
