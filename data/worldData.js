@@ -473,20 +473,20 @@ var marker = [
         "완치자수": 17571
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 25040,
+        "사망자수": 149,
+        "완치자수": 15299
+    },
+    {
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
         "확진자수": 25015,
         "사망자수": 367,
         "완치자수": 17960
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 24783,
-        "사망자수": 147,
-        "완치자수": 15299
     },
     {
         "Name": "Kenya",
@@ -557,8 +557,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 17050,
-        "사망자수": 459,
-        "완치자수": 8495
+        "사망자수": 467,
+        "완치자수": 8561
     },
     {
         "Name": "체코",

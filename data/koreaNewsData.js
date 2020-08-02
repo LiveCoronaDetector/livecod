@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956090.html"
     },
     {
+        "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나19 전 세계 누적 확진자 1800만명 넘어...미국이 가장 많아",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200802500027&wlog_tag3=naver"
     },
     {
-        "title": "日 코로나 신규 확진자, 나흘 연속 1000명 넘어서… \"가게 문 닫아라\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/02/2020080200322.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 이후 상승률 톱20 싹쓸이는 ‘바이오주’",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991570?division=NAVER"
     },
     {
-        "title": "코로나19 신규 확진 30명...해외 유입 지속",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008021056507727"
-    },
-    {
-        "title": "\"모든 통로 완전 차단\" 北, 코로나에 국경-도시 봉쇄",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/02/2020080200300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "경북 경산서 생후 4개월 여아 코로나19 감염",
+        "link": "https://www.nocutnews.co.kr/news/5388243"
     }
 ];
