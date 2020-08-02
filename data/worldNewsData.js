@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/02/australia/victoria-coronavirus-state-of-disaster-intl/index.html"
     },
     {
-        "title": "After plummeting, Coronavirus soars back in Midwest",
-        "link": "https://indianexpress.com/article/world/after-plummeting-coronavirus-soars-back-in-midwest-6534713/"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
         "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
+    },
+    {
+        "title": "GOP convention in Charlotte closed to press, portions will be livestreamed",
+        "link": "https://www.cnn.com/2020/08/01/politics/rnc-charlotte-press/index.html"
     }
 ];
