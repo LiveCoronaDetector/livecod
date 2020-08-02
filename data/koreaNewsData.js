@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005910832&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "WHO \"코로나19 신규 확진자 29만명\"…다시 최고치",
-        "link": "http://yna.kr/AKR20200801003600088?did=1195m"
+        "title": "일본야구 개막 이후 첫 코로나19 확진자…2일 소프트뱅크전 취소",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5861397_32640.html"
     },
     {
-        "title": "코로나19 신규확진 31명…해외유입이 지역발생 3배가량",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5860654_32633.html"
+        "title": "WHO \"코로나19 신규 확진자 29만명\"…다시 최고치",
+        "link": "http://yna.kr/AKR20200801003600088?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 31명 늘어 총 1만4336명…해외유입이 3배 더 많아",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/01/2020080190012.html"
     },
     {
+        "title": "코로나19 신규 확진 31명…이라크 14명 등 해외 유입 23명·국내 발생 8명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4507891&ref=A"
+    },
+    {
         "title": "89세에도 구속된 이만희…확진자 38%, 슈퍼전파 책임 가린다",
         "link": "https://news.joins.com/article/olink/23433169"
     },
     {
-        "title": "WHO “코로나19, 100년에 한 번 나올 보건 위기”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4507821&ref=A"
+        "title": "WHO 사무총장 \"코로나19는 100년에 한번 나올 보건 위기\"…일본 하루 1580명 ...",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11962481"
     },
     {
         "title": "일본 코로나19 신규 확진자 급증세…하루 1580명",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991537?division=NAVER"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 36명 증가...해외 22명 중 우즈베키스탄 10명",
-        "link": "http://www.fnnews.com/news/202007311016021582"
     }
 ];

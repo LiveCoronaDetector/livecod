@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
     },
     {
+        "title": "Australia 'can't afford' untraceable community transmision",
+        "link": "https://www.youtube.com/watch?v=lmUOsOlxXxY"
+    },
+    {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
         "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
     },
     {
-        "title": "Coronavirus: Russia plans mass vaccination campaign in October",
-        "link": "https://www.bbc.com/news/world-europe-53621708"
-    },
-    {
-        "title": "Coronavirus: South Africa virus cases pass half million mark",
-        "link": "https://www.bbc.com/news/world-africa-53625789"
+        "title": "What a post-vaccine world looks like for seniors: It's time to learn telemed. Oh, and how you travel will change.",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/01/covid-vaccine-how-change-life-baby-boomers-seniors/5548821002/"
     }
 ];
