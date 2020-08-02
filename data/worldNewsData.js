@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/greece-vacation-right-now-covid-19-intl/index.html"
     },
     {
-        "title": "Germany: 45 officers injured at Berlin rally against coronavirus curbs",
-        "link": "https://www.dw.com/en/germany-45-officers-injured-at-berlin-rally-against-coronavirus-curbs/a-54402885"
+        "title": "In Italy, doctors beat back the coronavirus and are now preparing for a second wave",
+        "link": "https://www.nbcnews.com/science/science-news/italy-doctors-beat-back-coronavirus-are-now-preparing-second-wave-n1235459"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/02/australia/victoria-coronavirus-state-of-disaster-intl/index.html"
     },
     {
-        "title": "Hundreds Test Positive For Coronavirus At Georgia Summer Camp | NBC Nightly News",
-        "link": "https://www.youtube.com/watch?v=DYEFfd63AxY"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
     },
     {
-        "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
-        "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
+        "title": "Adar Poonawalla hopes to announce their own corona vaccines by 2021 end, launch Covishield by 2020 end",
+        "link": "https://www.indiatvnews.com/news/good-news/serum-institute-adar-poonawalla-on-sii-coronavirus-vaccines-novavax-oxford-covishield-launch-date-by-2020-end-638986"
     },
     {
         "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
