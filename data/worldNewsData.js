@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africa-passes-500000-confirmed-coronavirus-cases"
     },
     {
-        "title": "Australia's government to back Victoria's strict coronavirus lockdown",
-        "link": "https://www.msn.com/en-us/news/world/australias-government-to-back-victorias-strict-coronavirus-lockdown/ar-BB17syZK"
+        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
+        "link": "https://www.bbc.com/news/world-australia-53627038"
     }
 ];
