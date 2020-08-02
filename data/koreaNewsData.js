@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
-        "link": "http://www.fnnews.com/news/202008021438296630"
+        "title": "백악관 조정관 \"발병지 다녀왔다면 코로나19 걸렸다고 상정\"",
+        "link": "https://www.hankyung.com/international/article/2020080349647"
     },
     {
-        "title": "경북 경산서 생후 4개월 여아 코로나19 감염",
-        "link": "https://www.nocutnews.co.kr/news/5388243"
+        "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
+        "link": "http://www.fnnews.com/news/202008021438296630"
     }
 ];
