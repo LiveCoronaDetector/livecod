@@ -13,20 +13,20 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
     },
     {
-        "title": "전북도청·완주군청, 용인 코로나19 확진자 방문 비상…5명 검사",
-        "link": "http://yna.kr/AKR20200730138600055?did=1195m"
-    },
-    {
         "title": "용인 코로나19 확진자 전북도청 등 다녀가…5명 검사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4506742&ref=A"
     },
     {
-        "title": "해외여행 대신 ‘제주도’에…“공항에서 입국 수준으로 검사”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000991492?division=NAVER"
+        "title": "전북도청·완주군청, 용인 코로나19 확진자 방문 비상…5명 검사",
+        "link": "http://yna.kr/AKR20200730138600055?did=1195m"
     },
     {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
+    },
+    {
+        "title": "해외여행 대신 ‘제주도’에…“공항에서 입국 수준으로 검사”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991492?division=NAVER"
     },
     {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",

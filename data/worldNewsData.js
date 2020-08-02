@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
     },
     {
-        "title": "Adar Poonawalla hopes to announce their own corona vaccines by 2021 end, launch Covishield by 2020 end",
-        "link": "https://www.indiatvnews.com/news/good-news/serum-institute-adar-poonawalla-on-sii-coronavirus-vaccines-novavax-oxford-covishield-launch-date-by-2020-end-638986"
-    },
-    {
         "title": "Coronavirus: Nancy Pelosi criticises Deborah Birx",
         "link": "https://www.bbc.com/news/world-us-canada-53631341"
+    },
+    {
+        "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
+        "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
     }
 ];
