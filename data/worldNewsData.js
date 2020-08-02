@@ -14,7 +14,7 @@ var worldNewsData = [
     },
     {
         "title": "Germany: 18 officers injured dispersing Berlin rally against coronavirus curbs",
-        "link": "https://www.dw.com/en/germany-18-officers-injured-dispersing-berlin-rally-against-coronavirus-curbs/a-54402885"
+        "link": "https://www.dw.com/en/germany-45-officers-injured-at-berlin-rally-against-coronavirus-curbs/a-54402885"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/stevensalzberg/2020/08/02/start-vaccinating-now/"
     },
     {
-        "title": "South Africa passes 500,000 confirmed coronavirus cases",
-        "link": "https://www.foxnews.com/world/south-africa-passes-500000-confirmed-coronavirus-cases"
+        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
+        "link": "https://www.bbc.com/news/world-australia-53627038"
     }
 ];
