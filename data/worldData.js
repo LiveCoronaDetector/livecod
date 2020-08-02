@@ -292,9 +292,9 @@ var marker = [
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "확진자수": 67448,
-        "사망자수": 453,
-        "완치자수": 58525
+        "확진자수": 67911,
+        "사망자수": 457,
+        "완치자수": 59213
     },
     {
         "Name": "Panama",
@@ -620,9 +620,9 @@ var marker = [
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "확진자수": 11273,
-        "사망자수": 107,
-        "완치자수": 8109
+        "확진자수": 11528,
+        "사망자수": 114,
+        "완치자수": 8444
     },
     {
         "Name": "North Macedonia",
@@ -900,7 +900,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 2815,
+        "확진자수": 2816,
         "사망자수": 11,
         "완치자수": 2514
     },
@@ -1244,7 +1244,7 @@ var marker = [
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "확진자수": 603,
+        "확진자수": 620,
         "사망자수": 5,
         "완치자수": 373
     },
@@ -1473,6 +1473,14 @@ var marker = [
         "완치자수": 39
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 110,
+        "사망자수": 2,
+        "완치자수": 34
+    },
+    {
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
@@ -1487,14 +1495,6 @@ var marker = [
         "확진자수": 91,
         "사망자수": 3,
         "완치자수": 67
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 91,
-        "사망자수": 2,
-        "완치자수": 34
     },
     {
         "Name": "리히텐슈타인",

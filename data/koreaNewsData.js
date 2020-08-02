@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/02/2020080290050.html"
     },
     {
-        "title": "2주간 일평균 국내 확진자 16.9명…방역망 관리 80% 넘겨(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200802_0001115818&cID=10201&pID=10200"
+        "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

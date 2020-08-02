@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
-        "link": "https://www.bbc.com/news/world-australia-53627038"
-    },
-    {
         "title": "Victoria to record its deadliest day since pandemic begun",
         "link": "https://www.youtube.com/watch?v=IBkbwz2R758"
+    },
+    {
+        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
+        "link": "https://www.bbc.com/news/world-australia-53627038"
     },
     {
         "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
