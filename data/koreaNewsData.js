@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008021014364714"
     },
     {
-        "title": "KT, 코로나19 예측 연구 얼라이언스 1기 활동 종료",
-        "link": "https://zdnet.co.kr/view/?no=20200802092417"
-    },
-    {
-        "title": "코로나19 신규 확진 30명...해외 유입 지속",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008021056507727"
-    },
-    {
-        "title": "코로나 신규 확진자 31명...이틀 연속 30명대 유지",
-        "link": "http://www.hani.co.kr/arti/society/society_general/956059.html"
+        "title": "[속보] 코로나19 30명 신규 확진...국내발생 8명·해외유입 22명",
+        "link": "https://www.sedaily.com/NewsView/1Z6F7Y0XAX"
     },
     {
         "title": "일본야구 개막 이후 첫 코로나19 확진자…2일 소프트뱅크전 취소",
         "link": "https://imnews.imbc.com/news/2020/world/article/5861397_32640.html"
     },
     {
-        "title": "[속보] 코로나19 신규확진 30명…해외 22명·지역 8명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008020035&t=NN"
+        "title": "KT, 코로나19 예측 연구 얼라이언스 1기 활동 종료",
+        "link": "https://zdnet.co.kr/view/?no=20200802092417"
+    },
+    {
+        "title": "코로나 신규 확진자 31명...이틀 연속 30명대 유지",
+        "link": "http://www.hani.co.kr/arti/society/society_general/956059.html"
+    },
+    {
+        "title": "[속보]코로나 신규확진 30명…해외유입 22명으로 지역의 3배",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008021021001&code=940100"
     },
     {
         "title": "세계 코로나 누적 확진자 1천800만명 넘어…첫 보고 후 7개월만",
         "link": "http://yna.kr/AKR20200802021500009?did=1195m"
     },
     {
-        "title": "코로나19 전 세계 누적 확진자 1800만명 넘어...미국이 가장 많아",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200802500027&wlog_tag3=naver"
+        "title": "[속보] 코로나19 신규확진 30명…해외 22명·지역 8명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008020035&t=NN"
+    },
+    {
+        "title": "日 코로나 신규 확진자, 나흘 연속 1000명 넘어서… \"가게 문 닫아라\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/02/2020080200322.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나 이후 상승률 톱20 싹쓸이는 ‘바이오주’",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991570?division=NAVER"
-    },
-    {
-        "title": "MLB 세인트루이스, 코로나19 확진자 추가…이틀 연속 경기 취소",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005911305&plink=ORI&cooper=NAVER"
     }
 ];

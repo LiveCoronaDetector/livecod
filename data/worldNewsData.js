@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
     },
     {
-        "title": "Coronavirus News: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html"
+        "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
+        "link": "https://www.cnn.com/2020/08/01/world/berlin-germany-covid-19-protest-intl/index.html"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "What are Covid-19 risks from riding trains? Study analyses passenger data",
-        "link": "https://www.scmp.com/news/china/society/article/3095617/what-are-coronavirus-risks-riding-trains-new-chinese-study"
+        "title": "NSW records 12 new coronavirus cases",
+        "link": "https://www.youtube.com/watch?v=22zgXIZohWg"
     },
     {
         "title": "COVID-19: Hope to announce our own vaccines by the end of 2021, says Serum Institute of India CEO Adar P",
         "link": "https://mumbaimirror.indiatimes.com/coronavirus/news/hope-to-announce-our-own-vaccines-by-the-end-of-2021/articleshow/77309910.cms"
     },
     {
-        "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
-        "link": "https://www.cnn.com/2020/08/01/world/berlin-germany-covid-19-protest-intl/index.html"
+        "title": "Emergency 500-bed hospital to deal with coronavirus patients was planned for Sydney's Olympic Park",
+        "link": "https://www.abc.net.au/news/2020-08-01/emergency-coronavirus-hospital-planned-for-sydney-olympic-park/12510914"
+    },
+    {
+        "title": "Berlin protest against virus curbs draws thousands",
+        "link": "https://news.yahoo.com/berlin-protest-over-virus-restrictions-draws-thousands-140750641.html"
     },
     {
         "title": "Coronavirus: Russia plans mass vaccination campaign in October",
         "link": "https://www.bbc.com/news/world-europe-53621708"
-    },
-    {
-        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
     }
 ];
