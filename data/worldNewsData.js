@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
     },
     {
-        "title": "Coronavirus News: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html"
+        "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
+        "link": "https://www.cnn.com/2020/08/01/world/berlin-germany-covid-19-protest-intl/index.html"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/society/article/3095617/what-are-coronavirus-risks-riding-trains-new-chinese-study"
     },
     {
-        "title": "Oxford COVID-19 vaccine: Panel recommends that DCGI grant Serum Institute permission for human trials",
-        "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
     },
     {
-        "title": "Australia 'can't afford' untraceable community transmision",
-        "link": "https://www.youtube.com/watch?v=lmUOsOlxXxY"
+        "title": "Russia preparing mass vaccination against coronavirus for October",
+        "link": "https://www.msn.com/en-us/news/world/russia-preparing-mass-vaccination-against-coronavirus-for-october/ar-BB17rDiy"
     },
     {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
         "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
     },
     {
-        "title": "What a post-vaccine world looks like for seniors: It's time to learn telemed. Oh, and how you travel will change.",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/01/covid-vaccine-how-change-life-baby-boomers-seniors/5548821002/"
+        "title": "Far-Right Leader Matteo Salvini to Face Trial for Illegally Detaining Migrants at Sea",
+        "link": "https://www.vice.com/en_us/article/xg853z/far-right-leader-matteo-salvini-to-face-trial-for-illegally-detaining-migrants-at-sea"
     }
 ];
