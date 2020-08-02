@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/02/australia/victoria-coronavirus-state-of-disaster-intl/index.html"
     },
     {
-        "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
-        "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
+        "title": "After plummeting, Coronavirus soars back in Midwest",
+        "link": "https://indianexpress.com/article/world/after-plummeting-coronavirus-soars-back-in-midwest-6534713/"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
     },
     {
         "title": "Adar Poonawalla hopes to announce their own corona vaccines by 2021 end, launch Covishield by 2020 end",
         "link": "https://www.indiatvnews.com/news/good-news/serum-institute-adar-poonawalla-on-sii-coronavirus-vaccines-novavax-oxford-covishield-launch-date-by-2020-end-638986"
     },
     {
-        "title": "GOP convention in Charlotte closed to press, portions will be livestreamed",
-        "link": "https://www.cnn.com/2020/08/01/politics/rnc-charlotte-press/index.html"
-    },
-    {
-        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
-        "link": "https://www.bbc.com/news/world-australia-53627038"
+        "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
+        "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
     }
 ];
