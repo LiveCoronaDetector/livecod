@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008021438296630"
     },
     {
-        "title": "[속보] 할리스커피 선릉역점 4명, 양재족발보쌈 5명 확진자 추가... 집단감염...",
-        "link": "https://www.sedaily.com/NewsView/1Z6F9EWYB9"
-    },
-    {
         "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "경북 경산서 생후 4개월 여아 코로나19 감염",
+        "link": "https://www.nocutnews.co.kr/news/5388243"
     }
 ];
