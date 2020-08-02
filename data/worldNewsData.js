@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53625789"
     },
     {
-        "title": "Coronavirus threat rises across U.S.: ‘We just have to assume the monster is everywhere’",
-        "link": "https://www.washingtonpost.com/health/coronavirus-threat-rises-across-us-we-just-have-to-assume-the-monster-is-everywhere/2020/08/01/cdb505e0-d1d8-11ea-8c55-61e7fa5e82ab_story.html"
+        "title": "Coronavirus: Media to be barred from Trump election nomination",
+        "link": "https://www.bbc.com/news/world-us-canada-53626546"
     },
     {
         "title": "Why Youthful, Conservative Pakistan Is a Coronavirus Bright Spot",
         "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
     },
     {
-        "title": "Thousands gather for 'end of the pandemic' protest in Berlin, ignore coronavirus safety measures",
-        "link": "https://www.foxnews.com/world/thousands-protest-coronavirus-berlin-safety-measures"
+        "title": "Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July",
+        "link": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html"
     },
     {
         "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=4gIor9lPNm4"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
+        "title": "Adar Poonawalla hopes to announce their own corona vaccines by 2021 end, launch Covishield by 2020 end",
+        "link": "https://www.indiatvnews.com/news/good-news/serum-institute-adar-poonawalla-on-sii-coronavirus-vaccines-novavax-oxford-covishield-launch-date-by-2020-end-638986"
     },
     {
-        "title": "'Hope to announce our own vaccines by the end of 2021'",
-        "link": "https://bangaloremirror.indiatimes.com/bangalore/cover-story/hope-to-announce-our-own-vaccines-by-the-end-of-2021/articleshow/77308675.cms"
+        "title": "Australia's Victoria declares state of disaster over coronavirus",
+        "link": "https://www.aljazeera.com/news/2020/08/australia-victoria-declares-state-disaster-coronavirus-200802042802433.html"
     },
     {
         "title": "South Africa passes 500,000 confirmed coronavirus cases",
         "link": "https://www.foxnews.com/world/south-africa-passes-500000-confirmed-coronavirus-cases"
     },
     {
-        "title": "Australia’s Victoria Set to Tighten Lockdown as Virus Spreads",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=12a306e0-d48e-11ea-96b6-e9286ef3b46b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0wMS9hdXN0cmFsaWEtcy12aWN0b3JpYS1zZXQtdG8tdGlnaHRlbi1sb2NrZG93bi1hcy12aXJ1cy1zcHJlYWRz"
+        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
+        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
     }
 ];

@@ -257,20 +257,20 @@ var marker = [
         "완치자수": 45629
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "확진자수": 72168,
+        "사망자수": 1725,
+        "완치자수": 39543
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
         "확진자수": 71415,
         "사망자수": 1170,
         "완치자수": 37509
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "확진자수": 71056,
-        "사망자수": 1709,
-        "완치자수": 39308
     },
     {
         "Name": "벨기에",
@@ -804,9 +804,9 @@ var marker = [
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "확진자수": 4526,
+        "확진자수": 4535,
         "사망자수": 597,
-        "완치자수": 3364
+        "완치자수": 3389
     },
     {
         "Name": "Malawi",
@@ -980,7 +980,7 @@ var marker = [
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "확진자수": 2072,
+        "확진자수": 2079,
         "사망자수": 69,
         "완치자수": 1934
     },
@@ -1076,7 +1076,7 @@ var marker = [
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "확진자수": 1238,
+        "확진자수": 1243,
         "사망자수": 32,
         "완치자수": 1052
     },
@@ -1253,7 +1253,7 @@ var marker = [
         "Name_ch": "越南",
         "Name_en": "Vietnam",
         "확진자수": 590,
-        "사망자수": 3,
+        "사망자수": 5,
         "완치자수": 373
     },
     {
@@ -1284,7 +1284,7 @@ var marker = [
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "확진자수": 474,
+        "확진자수": 475,
         "사망자수": 7,
         "완치자수": 441
     },
@@ -1625,6 +1625,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "확진자수": 13,
+        "사망자수": 0,
+        "완치자수": 7
+    },
+    {
         "Name": "Falkland Islands",
         "Name_ch": "",
         "Name_en": "Falkland Islands",
@@ -1647,14 +1655,6 @@ var marker = [
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 12
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "확진자수": 11,
-        "사망자수": 0,
-        "완치자수": 7
     },
     {
         "Name": "Western Sahara",
