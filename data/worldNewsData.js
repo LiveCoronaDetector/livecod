@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Thousands demonstrate as anti-Netanyahu protests gain steam",
-        "link": "https://www.msn.com/en-us/news/world/thousands-demonstrate-as-anti-netanyahu-protests-gain-steam/ar-BB17sszt?li=BBnb7Kz"
+        "title": "What are Covid-19 risks from riding trains? Study analyses passenger data",
+        "link": "https://www.scmp.com/news/china/society/article/3095617/what-are-coronavirus-risks-riding-trains-new-chinese-study"
     },
     {
-        "title": "Russia preparing mass vaccination against coronavirus for October",
-        "link": "https://www.msn.com/en-us/news/world/russia-preparing-mass-vaccination-against-coronavirus-for-october/ar-BB17rDiy"
+        "title": "COVID-19: Hope to announce our own vaccines by the end of 2021, says Serum Institute of India CEO Adar P",
+        "link": "https://mumbaimirror.indiatimes.com/coronavirus/news/hope-to-announce-our-own-vaccines-by-the-end-of-2021/articleshow/77309910.cms"
     },
     {
-        "title": "Police: 'Israel is in a state of social chaos'",
-        "link": "https://www.jpost.com/israel-news/police-israel-is-in-a-state-of-social-chaos-637135"
+        "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
+        "link": "https://www.cnn.com/2020/08/01/world/berlin-germany-covid-19-protest-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: Russia plans mass vaccination campaign in October",
+        "link": "https://www.bbc.com/news/world-europe-53621708"
     },
     {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
         "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
-    },
-    {
-        "title": "‘Hope to announce our own vaccines by the end of 2021’",
-        "link": "https://mumbaimirror.indiatimes.com/coronavirus/news/hope-to-announce-our-own-vaccines-by-the-end-of-2021/articleshow/77309910.cms"
     }
 ];
