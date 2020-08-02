@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53627038"
     },
     {
+        "title": "Victoria to record its deadliest day since pandemic begun",
+        "link": "https://www.youtube.com/watch?v=IBkbwz2R758"
+    },
+    {
         "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
         "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
     },
     {
-        "title": "All students to return to remote learning as regional Victoria to be placed into stage three lockdow",
-        "link": "https://www.youtube.com/watch?v=laPh52I0Gsg"
+        "title": "GOP convention in Charlotte closed to press, portions will be livestreamed",
+        "link": "https://www.cnn.com/2020/08/01/politics/rnc-charlotte-press/index.html"
     },
     {
-        "title": "South Africa passes 500,000 confirmed coronavirus cases",
-        "link": "https://www.foxnews.com/world/south-africa-passes-500000-confirmed-coronavirus-cases"
-    },
-    {
-        "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
-        "link": "https://www.cnn.com/2020/08/01/world/berlin-germany-covid-19-protest-intl/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/h_be8f957207883050343b618474f972f8"
     }
 ];
