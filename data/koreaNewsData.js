@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956090.html"
     },
     {
-        "title": "日 코로나 신규 확진자, 나흘 연속 1000명 넘어서… \"가게 문 닫아라\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/02/2020080200322.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나19 전 세계 누적 확진자 1800만명 넘어...미국이 가장 많아",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200802500027&wlog_tag3=naver"
+    },
+    {
+        "title": "日 코로나 신규 확진자, 나흘 연속 1000명 넘어서… \"가게 문 닫아라\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/02/2020080200322.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 신규 확진 30명...해외 유입 지속",
