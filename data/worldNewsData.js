@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Daniel Andrews to announce hard lockdown for Vic",
-        "link": "https://www.youtube.com/watch?v=4gIor9lPNm4"
+        "title": "Coronavirus update August 2: Victoria's cases jump by more than 650, ABC understands | ABC News",
+        "link": "https://www.youtube.com/watch?v=76zoRlJGn6E"
     },
     {
         "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53627038"
     },
     {
-        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+        "title": "South Africa passes 500,000 confirmed coronavirus cases",
+        "link": "https://www.foxnews.com/world/south-africa-passes-500000-confirmed-coronavirus-cases"
     },
     {
         "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
