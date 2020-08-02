@@ -21,16 +21,16 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5861397_32640.html"
     },
     {
-        "title": "[속보] 할리스커피 선릉역점 4명, 양재족발보쌈 5명 확진자 추가... 집단감염...",
-        "link": "https://www.sedaily.com/NewsView/1Z6F9EWYB9"
-    },
-    {
         "title": "코로나 신규 확진 30명...국외유입 22명·지역사회 8명",
         "link": "http://www.hani.co.kr/arti/society/health/956090.html"
     },
     {
         "title": "KT, 코로나19 확산 예측 얼라이언스 1기 종료",
         "link": "http://www.speconomy.com/news/newsview.php?ncode=1065584054101342"
+    },
+    {
+        "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
+        "link": "http://www.fnnews.com/news/202008021438296630"
     },
     {
         "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",

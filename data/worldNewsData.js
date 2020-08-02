@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
-        "link": "https://www.bbc.com/news/world-australia-53627038"
+        "title": "Victoria declares 'state of disaster,' locking down millions in Melbourne to fight a soaring coronavirus outbreak",
+        "link": "https://www.cnn.com/2020/08/02/australia/victoria-coronavirus-state-of-disaster-intl/index.html"
     },
     {
-        "title": "Coronavirus update August 2: Victoria's cases jump by more than 650, ABC understands | ABC News",
-        "link": "https://www.youtube.com/watch?v=76zoRlJGn6E"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/h_be8f957207883050343b618474f972f8"
     },
     {
         "title": "GOP convention in Charlotte closed to press, portions will be livestreamed",
         "link": "https://www.cnn.com/2020/08/01/politics/rnc-charlotte-press/index.html"
     },
     {
-        "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
-        "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
+        "title": "Start Vaccinating Now!",
+        "link": "https://www.forbes.com/sites/stevensalzberg/2020/08/02/start-vaccinating-now/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/h_be8f957207883050343b618474f972f8"
+        "title": "South Africa passes 500,000 confirmed coronavirus cases",
+        "link": "https://www.foxnews.com/world/south-africa-passes-500000-confirmed-coronavirus-cases"
     }
 ];
