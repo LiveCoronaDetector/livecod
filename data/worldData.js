@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 4767372,
-        "사망자수": 157934,
-        "완치자수": 2363165
+        "확진자수": 4774551,
+        "사망자수": 157997,
+        "완치자수": 2363219
     },
     {
         "Name": "브라질",
@@ -681,6 +681,14 @@ var marker = [
         "완치자수": 5223
     },
     {
+        "Name": "Tajikistan",
+        "Name_ch": "",
+        "Name_en": "Tajikistan",
+        "확진자수": 7495,
+        "사망자수": 61,
+        "완치자수": 6276
+    },
+    {
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
@@ -695,14 +703,6 @@ var marker = [
         "확진자수": 7453,
         "사망자수": 329,
         "완치자수": 6950
-    },
-    {
-        "Name": "Tajikistan",
-        "Name_ch": "",
-        "Name_en": "Tajikistan",
-        "확진자수": 7451,
-        "사망자수": 60,
-        "완치자수": 6233
     },
     {
         "Name": "Guinea",
@@ -737,20 +737,20 @@ var marker = [
         "완치자수": 5043
     },
     {
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "확진자수": 5519,
+        "사망자수": 166,
+        "완치자수": 3018
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
         "확진자수": 5485,
         "사망자수": 52,
         "완치자수": 3786
-    },
-    {
-        "Name": "Albania",
-        "Name_ch": "",
-        "Name_en": "Albania",
-        "확진자수": 5396,
-        "사망자수": 161,
-        "완치자수": 2961
     },
     {
         "Name": "크로아티아",
@@ -1404,7 +1404,7 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 173,
+        "확진자수": 180,
         "사망자수": 8,
         "완치자수": 132
     },
