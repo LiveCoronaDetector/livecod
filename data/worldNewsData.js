@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.firstpost.com/india/oxford-covid-19-vaccine-panel-recommends-that-dcgi-grant-serum-institute-permission-for-human-trials-8663251.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
-    },
-    {
-        "title": "Russia preparing mass vaccination against coronavirus for October",
-        "link": "https://www.msn.com/en-us/news/world/russia-preparing-mass-vaccination-against-coronavirus-for-october/ar-BB17rDiy"
-    },
-    {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
         "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+    },
+    {
+        "title": "Coronavirus: Russia plans mass vaccination campaign in October",
+        "link": "https://www.bbc.com/news/world-europe-53621708"
+    },
+    {
+        "title": "Coronavirus: South Africa virus cases pass half million mark",
+        "link": "https://www.bbc.com/news/world-africa-53625789"
     }
 ];
