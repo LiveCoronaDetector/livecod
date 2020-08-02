@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/02/australia/victoria-coronavirus-state-of-disaster-intl/index.html"
     },
     {
-        "title": "Adar Poonawalla hopes to announce their own corona vaccines by 2021 end, launch Covishield by 2020 end",
-        "link": "https://www.indiatvnews.com/news/good-news/serum-institute-adar-poonawalla-on-sii-coronavirus-vaccines-novavax-oxford-covishield-launch-date-by-2020-end-638986"
-    },
-    {
         "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
         "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
+    },
+    {
+        "title": "Adar Poonawalla hopes to announce their own corona vaccines by 2021 end, launch Covishield by 2020 end",
+        "link": "https://www.indiatvnews.com/news/good-news/serum-institute-adar-poonawalla-on-sii-coronavirus-vaccines-novavax-oxford-covishield-launch-date-by-2020-end-638986"
     },
     {
         "title": "GOP convention in Charlotte closed to press, portions will be livestreamed",

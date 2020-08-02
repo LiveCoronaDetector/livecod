@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5861397_32640.html"
     },
     {
-        "title": "2주간 일평균 확진자 21.4명→16.9명…\"비수도권 진정세 뚜렷\"(종합)",
-        "link": "http://yna.kr/AKR20200802044751530?did=1195m"
+        "title": "정부, “비수도권 코로나19 진정세”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200802000216"
     },
     {
         "title": "코로나 신규 확진 30명...국외유입 22명·지역사회 8명",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.speconomy.com/news/newsview.php?ncode=1065584054101342"
     },
     {
+        "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "서울 선릉 커피숍 코로나19 집단감염 발생...총 9명",
         "link": "http://www.fnnews.com/news/202008021438296630"
     },
     {
-        "title": "정부, “비수도권 코로나19 진정세”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200802000216"
-    },
-    {
-        "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "경북 경산서 생후 4개월 여아 코로나19 감염",
+        "link": "https://www.nocutnews.co.kr/news/5388243"
     }
 ];
