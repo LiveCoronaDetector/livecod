@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
     },
     {
-        "title": "GOP convention in Charlotte closed to press, portions will be livestreamed",
-        "link": "https://www.cnn.com/2020/08/01/politics/rnc-charlotte-press/index.html"
+        "title": "Coronavirus: Nancy Pelosi criticises Deborah Birx",
+        "link": "https://www.bbc.com/news/world-us-canada-53631341"
     }
 ];
