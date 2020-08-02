@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "Daniel Andrews to announce hard lockdown for Vic",
-        "link": "https://www.youtube.com/watch?v=4gIor9lPNm4"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
+        "title": "STATE OF DISASTER: Melbourne curfew to be implemented as Andrews warns COVID could get out-of-contro",
+        "link": "https://www.youtube.com/watch?v=h-LAR49Fbwc"
     },
     {
         "title": "'Hope to announce our own vaccines by the end of 2021'",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africa-passes-500000-confirmed-coronavirus-cases"
     },
     {
-        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
-        "link": "https://www.bbc.com/news/world-australia-53627038"
+        "title": "The Latest: Australia media say restrictions to be tightened",
+        "link": "https://www.taiwannews.com.tw/en/news/3978934"
+    },
+    {
+        "title": "Russia preparing mass vaccination against coronavirus for October",
+        "link": "https://www.msn.com/en-us/news/world/russia-preparing-mass-vaccination-against-coronavirus-for-october/ar-BB17rDiy"
     }
 ];
