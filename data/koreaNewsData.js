@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008021014364714"
     },
     {
-        "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
-    },
-    {
         "title": "코로나19 대유행 길어진다…전세계 확진자 1천800만명(종합)",
         "link": "http://yna.kr/AKR20200802021551009?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
         "title": "일본야구 개막 이후 첫 코로나19 확진자…2일 소프트뱅크전 취소",
