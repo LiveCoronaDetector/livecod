@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
     },
     {
-        "title": "Australia's Victoria declares state of disaster over coronavirus",
-        "link": "https://www.aljazeera.com/news/2020/08/australia-victoria-declares-state-disaster-coronavirus-200802042802433.html"
-    },
-    {
-        "title": "South Africa passes 500,000 confirmed coronavirus cases",
-        "link": "https://www.foxnews.com/world/south-africa-passes-500000-confirmed-coronavirus-cases"
+        "title": "Coronavirus: Victoria declares state of disaster after spike in cases",
+        "link": "https://www.bbc.com/news/world-australia-53627038"
     },
     {
         "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
         "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
+    },
+    {
+        "title": "Thousands gather in Berlin to protest against Covid-19 restrictions",
+        "link": "https://www.cnn.com/2020/08/01/world/berlin-germany-covid-19-protest-intl/index.html"
     }
 ];
