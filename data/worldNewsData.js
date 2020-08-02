@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
-        "title": "NSW records 12 new coronavirus cases",
-        "link": "https://www.youtube.com/watch?v=22zgXIZohWg"
+        "title": "COVID safe app used to find new NSW coronavirus cases",
+        "link": "https://7news.com.au/news/public-health/covid-safe-app-actually-found-nsw-coronavirus-cases-c-1210745"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html"
     },
     {
         "title": "COVID-19: Hope to announce our own vaccines by the end of 2021, says Serum Institute of India CEO Adar P",
         "link": "https://mumbaimirror.indiatimes.com/coronavirus/news/hope-to-announce-our-own-vaccines-by-the-end-of-2021/articleshow/77309910.cms"
     },
     {
-        "title": "Emergency 500-bed hospital to deal with coronavirus patients was planned for Sydney's Olympic Park",
-        "link": "https://www.abc.net.au/news/2020-08-01/emergency-coronavirus-hospital-planned-for-sydney-olympic-park/12510914"
+        "title": "Global report: Philippines 'losing battle' as WHO records biggest jump in Covid-19 cases",
+        "link": "https://www.theguardian.com/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases"
     },
     {
-        "title": "Berlin protest against virus curbs draws thousands",
-        "link": "https://news.yahoo.com/berlin-protest-over-virus-restrictions-draws-thousands-140750641.html"
-    },
-    {
-        "title": "Coronavirus: Russia plans mass vaccination campaign in October",
-        "link": "https://www.bbc.com/news/world-europe-53621708"
+        "title": "COVID-19 breaches in NSW as Perisher ski slopes and Maroubra parties shut down",
+        "link": "https://www.dailymail.co.uk/news/article-8584495/COVID-19-breaches-NSW-Perisher-ski-slopes-Maroubra-parties-shut-down.html"
     }
 ];

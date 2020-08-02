@@ -681,6 +681,14 @@ var marker = [
         "완치자수": 5223
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "확진자수": 7468,
+        "사망자수": 165,
+        "완치자수": 4606
+    },
+    {
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
@@ -695,14 +703,6 @@ var marker = [
         "확진자수": 7443,
         "사망자수": 329,
         "완치자수": 6950
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "확진자수": 7424,
-        "사망자수": 161,
-        "완치자수": 4606
     },
     {
         "Name": "Guinea",
@@ -1340,7 +1340,7 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 291,
+        "확진자수": 293,
         "사망자수": 0,
         "완치자수": 230
     },
