@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=76zoRlJGn6E"
     },
     {
-        "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
-        "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
+        "title": "GOP convention in Charlotte closed to press, portions will be livestreamed",
+        "link": "https://www.cnn.com/2020/08/01/politics/rnc-charlotte-press/index.html"
     },
     {
-        "title": "'Nobody likes me,' Trump complains, as even his allies fade",
-        "link": "https://www.cnn.com/2020/08/01/politics/donald-trump-allies-election/index.html"
+        "title": "COVID-19: Serum Institute Bets Big on Oxford Vaccine as 'Vaccine Nationalism' Looms",
+        "link": "https://thewire.in/health/adar-poonawalla-serum-institute-covid-19-vaccine"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
