@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008021021001&code=940100"
     },
     {
-        "title": "日 코로나 신규 확진자, 나흘 연속 1000명 넘어서… \"가게 문 닫아라\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/02/2020080200322.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "국내 코로나19 신규 확진자 31명… 해외 유입 사례가 74%(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/01/2020080100414.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나 이후 상승률 톱20 싹쓸이는 ‘바이오주’",
@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200802092417"
     },
     {
-        "title": "北 코로나 초비상 \"'모든 통로 완전히 차단해야'",
+        "title": "MLB 세인트루이스, 코로나19 확진자 추가…2일 경기도 취소",
+        "link": "http://yna.kr/AKR20200802007900007?did=1195m"
+    },
+    {
+        "title": "\"'모든 통로 완전히 차단' 北 코로나에 국경-도시 봉쇄",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/02/2020080200300.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나 확진 30명…지역 8명·한 자릿수 안정세(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/02/2020080200332.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나 신규 확진자 31명...이틀 연속 30명대 유지",
-        "link": "http://www.hani.co.kr/arti/society/society_general/956059.html"
     },
     {
         "title": "일본야구 개막 이후 첫 코로나19 확진자…2일 소프트뱅크전 취소",

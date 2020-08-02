@@ -1513,6 +1513,14 @@ var marker = [
         "완치자수": 62
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 56,
+        "사망자수": 2,
+        "완치자수": 30
+    },
+    {
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
@@ -1527,14 +1535,6 @@ var marker = [
         "확진자수": 53,
         "사망자수": 3,
         "완치자수": 41
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 48,
-        "사망자수": 2,
-        "완치자수": 30
     },
     {
         "Name": "마카오",
@@ -1673,20 +1673,20 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "St. Barth",
+        "Name_ch": "",
+        "Name_en": "St. Barth",
+        "확진자수": 9,
+        "사망자수": 0,
+        "완치자수": 6
+    },
+    {
         "Name": "British Virgin Islands",
         "Name_ch": "",
         "Name_en": "British Virgin Islands",
         "확진자수": 8,
         "사망자수": 1,
         "완치자수": 7
-    },
-    {
-        "Name": "St. Barth",
-        "Name_ch": "",
-        "Name_en": "St. Barth",
-        "확진자수": 8,
-        "사망자수": 0,
-        "완치자수": 6
     },
     {
         "Name": "Saint Pierre Miquelon",
