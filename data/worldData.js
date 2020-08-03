@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 4813640,
+        "확진자수": 4813647,
         "사망자수": 158365,
-        "완치자수": 2380212
+        "완치자수": 2380217
     },
     {
         "Name": "브라질",
@@ -44,9 +44,9 @@ var marker = [
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "확진자수": 434193,
-        "사망자수": 47472,
-        "완치자수": 284847
+        "확진자수": 439046,
+        "사망자수": 47746,
+        "완치자수": 289394
     },
     {
         "Name": "페루",
@@ -540,9 +540,9 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 17923,
+        "확진자수": 17936,
         "사망자수": 208,
-        "완치자수": 10420
+        "완치자수": 10424
     },
     {
         "Name": "El Salvador",
@@ -1052,7 +1052,7 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1565,
+        "확진자수": 1567,
         "사망자수": 22,
         "완치자수": 1518
     },
@@ -1252,7 +1252,7 @@ var marker = [
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "확진자수": 620,
+        "확진자수": 621,
         "사망자수": 6,
         "완치자수": 373
     },
@@ -1625,6 +1625,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "Montserrat",
+        "Name_ch": "",
+        "Name_en": "Montserrat",
+        "확진자수": 13,
+        "사망자수": 1,
+        "완치자수": 10
+    },
+    {
         "Name": "Caribbean Netherlands",
         "Name_ch": "",
         "Name_en": "Caribbean Netherlands",
@@ -1639,14 +1647,6 @@ var marker = [
         "확진자수": 13,
         "사망자수": 0,
         "완치자수": 13
-    },
-    {
-        "Name": "Montserrat",
-        "Name_ch": "",
-        "Name_en": "Montserrat",
-        "확진자수": 12,
-        "사망자수": 1,
-        "완치자수": 10
     },
     {
         "Name": "Vatican City",
