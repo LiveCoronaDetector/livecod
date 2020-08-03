@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/coronavirus-disaster-declared-melbourne-cases-surge-globally-n1235612"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/03/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
-    },
-    {
         "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
         "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
+    },
+    {
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-03-20-intl/index.html"
     },
     {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
+        "title": "Two cruise ships hit by coronavirus weeks after industry restarts",
+        "link": "https://www.theguardian.com/world/2020/aug/03/two-cruise-ships-hit-by-coronavirus-weeks-after-industry-restarts"
     }
 ];
