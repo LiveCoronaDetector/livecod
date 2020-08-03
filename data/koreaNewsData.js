@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008031015097772"
     },
     {
+        "title": "美 코로나19 광범위한 확산세 경고 나와",
+        "link": "http://www.fnnews.com/news/202008030807456786"
+    },
+    {
         "title": "천안시 코로나19 확진자 방문 점포 최대 300만원 지원",
         "link": "http://yna.kr/AKR20200803042300063?did=1195m"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213999"
     },
     {
+        "title": "세계 코로나 누적 확진자 1천800만명 넘어…첫 보고 후 7개월만",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5861549_32640.html"
+    },
+    {
         "title": "美 백악관 조정관 \"코로나 확산 이미 새 국면…3·4월과 다르다\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/03/2020080300358.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 어제 23명 신규확진…해외유입 20명·지역발생 3명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/03/2020080390054.html"
-    },
-    {
-        "title": "마크로젠, 코로나19 진단키트 유럽인증 획득",
-        "link": "http://it.chosun.com/site/data/html_dir/2020/08/03/2020080301206.html"
-    },
-    {
-        "title": "\"국내 50세미만 코로나19 확진자 99% 산소치료 없이 회복\"",
-        "link": "https://www.hankyung.com/society/article/2020080359587"
     }
 ];
