@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008031015097772"
     },
     {
+        "title": "[속보] '코로나19' 신규 확진 23명…국내발생 3명 '수도권만'",
+        "link": "http://news.tf.co.kr/read/life/1804979.htm"
+    },
+    {
         "title": "코로나19 신규 확진 23명...해외 유입 지속",
         "link": "https://www.ytn.co.kr/_ln/0103_202008031053240914"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "세계 코로나 누적 확진자 1천800만명 넘어…첫 보고 후 7개월만",
         "link": "http://yna.kr/AKR20200802021500009?did=1195m"
-    },
-    {
-        "title": "美 백악관 조정관 \"코로나 확산 이미 새 국면…3·4월과 다르다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/03/2020080300358.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
