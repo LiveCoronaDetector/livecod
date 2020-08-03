@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-middle-east-53598965"
     },
     {
-        "title": "In Italy, doctors beat back the coronavirus and are now preparing for a second wave",
-        "link": "https://www.nbcnews.com/science/science-news/italy-doctors-beat-back-coronavirus-are-now-preparing-second-wave-n1235459"
+        "title": "In Spain and the Netherlands, scientists examine coronavirus outbreaks at mink farms",
+        "link": "https://www.foxnews.com/world/spain-netherlands-coronavirus-mink-farms"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "Australia declares 'State of Disaster' in Victoria after coronavirus cases spike continues",
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
-    },
-    {
-        "title": "Global report: July's terrible toll revealed as coronavirus cases double every six weeks",
-        "link": "https://www.theguardian.com/world/2020/aug/03/global-report-julys-terrible-toll-revealed-as-coronavirus-cases-double-every-six-weeks"
     },
     {
         "title": "Iran reports highest virus cases for nearly a month - The Jakarta Post",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
         "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
+    },
+    {
+        "title": "A coronavirus vaccine won’t change the world right away",
+        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
     }
 ];
