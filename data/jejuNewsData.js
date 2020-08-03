@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318244"
     },
     {
-        "title": "용인 125번 확진자 3일 전 전북도청 다녀가",
-        "link": "https://www.news1.kr/articles/?4011926"
+        "title": "제주시, 코로나26번 확진자-호박유흥 직원 '고발'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318323"
     }
 ];

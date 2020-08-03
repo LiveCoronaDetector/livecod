@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008031018001&code=940100"
     },
     {
-        "title": "[속보]국내 코로나19 지역감염 3명, 해외유입 20명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220080200153"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 23명...국내 발생 3명, 87일 만에 국내 발생 최소",
-        "link": "https://www.sedaily.com/NewsView/1Z6FP2EGI2"
-    },
-    {
-        "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
-    },
-    {
-        "title": "천안시 코로나19 확진자 방문 점포 최대 300만원 지원",
-        "link": "http://yna.kr/AKR20200803042300063?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 국내발생 3명, 국외유입 20명",
-        "link": "http://www.hani.co.kr/arti/society/health/956213.html"
+        "title": "[종합] 코로나19 확진자 23명 증가한 1만4389명…20명은 해외유입",
+        "link": "https://www.etoday.co.kr/news/view/1925012"
     },
     {
         "title": "[종합] 코로나19 확진자 23명 증가...해외 20명 중 방글라데시·러시아 4명",
         "link": "http://www.fnnews.com/news/202008031015097772"
     },
     {
-        "title": "세계 코로나 누적 확진자 1천800만명 넘어…첫 보고 후 7개월만",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5861549_32640.html"
+        "title": "[속보]코로나19 어제 23명 확진…지역발생 ‘87일 만’ 최저",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213999"
     },
     {
-        "title": "[종합] 코로나19 확진자 30명 증가...해외 22명 중 이라크 8명",
-        "link": "http://www.fnnews.com/news/202008021014364714"
+        "title": "[속보] 코로나19 23명 늘어 1만4,389명…해외유입 20명·지역 3명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008030159&t=NN"
     },
     {
-        "title": "일본야구 개막 이후 첫 코로나19 확진자…2일 소프트뱅크전 취소",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5861397_32640.html"
+        "title": "[속보] '코로나19' 신규 확진 23명…국내발생 3명 '수도권만'",
+        "link": "http://news.tf.co.kr/read/life/1804979.htm"
+    },
+    {
+        "title": "美 백악관 조정관 \"코로나 확산 이미 새 국면…3·4월과 다르다\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/03/2020080300358.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "마크로젠, 코로나19 진단키트 유럽인증 획득",
+        "link": "http://it.chosun.com/site/data/html_dir/2020/08/03/2020080301206.html"
+    },
+    {
+        "title": "[속보] 코로나 국내 신규 23명… 국내발생 '3명'에 그쳐",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/08/03/2020080301413.html"
+    },
+    {
+        "title": "日코로나 신규 확진 1천331명…도쿄 주점 등 단축 영업",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5862347_32640.html"
     }
 ];
