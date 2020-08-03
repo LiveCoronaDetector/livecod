@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/03/australia/australia-melbourne-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/03/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
+        "title": "White House Task Force coordinator says US has entered 'new phase' of pandemic",
+        "link": "https://www.youtube.com/watch?v=c4yT9Wolv70"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-03-20-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: Singapore to use electronic tags to monitor some travellers; Belgium ICU admissions double",
-        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
-    },
-    {
         "title": "Iran has been covering up its Covid-19 death toll, according to BBC investigation",
         "link": "https://www.youtube.com/watch?v=T3C4ESNMXH4"
+    },
+    {
+        "title": "Coronavirus live news: Singapore to use electronic tags to monitor some travellers; Belgium ICU admissions double",
+        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     }
 ];

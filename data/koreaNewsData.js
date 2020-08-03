@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200803161751088?did=1195m"
     },
     {
-        "title": "“홍천 캠핑장 확진자, 할리스커피 갔었다”… 연결고리 확인",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014872134&code=61121111&cp=nv"
-    },
-    {
         "title": "코로나 신규 확진자 국내발생 3명, 국외유입 20명",
         "link": "http://www.hani.co.kr/arti/society/health/956213.html"
     },
     {
         "title": "일본 코로나 신규 확진자 감염경로 불명 비율 50% 넘어",
         "link": "https://imnews.imbc.com/news/2020/world/article/5862874_32640.html"
+    },
+    {
+        "title": "“홍천 캠핑장 확진자, 할리스커피 갔었다”… 연결고리 확인",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014872134&code=61121111&cp=nv"
     },
     {
         "title": "코로나19 신규 확진 23명...해외 유입 지속",
