@@ -853,7 +853,7 @@ var marker = [
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
         "확진자수": 3512,
-        "사망자수": 34,
+        "사망자수": 37,
         "완치자수": 1959
     },
     {
@@ -1326,7 +1326,7 @@ var marker = [
         "Name_en": "Mauritius",
         "확진자수": 344,
         "사망자수": 10,
-        "완치자수": 332
+        "완치자수": 334
     },
     {
         "Name": "Isle of Man",
@@ -1374,7 +1374,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 240,
         "사망자수": 0,
-        "완치자수": 196
+        "완치자수": 197
     },
     {
         "Name": "Faeroe Islands",

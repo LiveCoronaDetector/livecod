@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.thejakartapost.com/news/2020/08/03/iran-reports-highest-virus-cases-for-nearly-a-month.html"
     },
     {
+        "title": "Birx warns US is 'in a new phase' of coronavirus pandemic with more widespread cases",
+        "link": "https://www.youtube.com/watch?v=P4jV64O2FgM"
+    },
+    {
         "title": "Coronavirus live news: Global cases pass 18m as Melbourne braces for further lockdown measures",
         "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     },
     {
         "title": "A coronavirus vaccine won’t change the world right away",
         "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
-    },
-    {
-        "title": "US entering 'different' phase of coronavirus outbreak",
-        "link": "https://www.bbc.com/news/world-us-canada-53632649"
     }
 ];
