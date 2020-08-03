@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     },
     {
-        "title": "용인 125번 확진자 3일 전 전북도청 다녀가",
-        "link": "https://www.news1.kr/articles/?4011926"
-    },
-    {
         "title": "제주도, 26번 확진자 출입 호박유흥주점 업주 '고발' 방침",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318244"
+    },
+    {
+        "title": "용인 125번 확진자 3일 전 전북도청 다녀가",
+        "link": "https://www.news1.kr/articles/?4011926"
     }
 ];

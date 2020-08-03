@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/australian-state-declares-coronavirus-state-disaster-south-africa-tops-500-n1235603"
     },
     {
-        "title": "Coronavirus update: Birx says U.S. has entered a ‘new phase’ of pandemic as cases, deaths rise",
-        "link": "https://www.washingtonpost.com/nation/2020/08/02/coronavirus-covid-updates/"
+        "title": "Birx Warns U.S. Coronavirus Epidemic Is In 'New Phase' As Cases And Deaths Climb",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/02/898330198/birx-warns-u-s-coronavirus-epidemic-is-in-new-phase-as-cases-and-deaths-climb"
     },
     {
-        "title": "Why Greece could be Europe's best holiday ticket right now",
-        "link": "https://www.cnn.com/travel/article/greece-vacation-right-now-covid-19-intl/index.html"
+        "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
+        "link": "https://www.bbc.com/news/world-middle-east-53598965"
     },
     {
         "title": "In Italy, doctors beat back the coronavirus and are now preparing for a second wave",
