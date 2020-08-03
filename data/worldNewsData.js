@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/australian-state-declares-coronavirus-state-disaster-south-africa-tops-500-n1235603"
     },
     {
-        "title": "Coronavirus update: Birx says U.S. has entered a ‘new phase’ of pandemic as cases, deaths rise",
-        "link": "https://www.washingtonpost.com/nation/2020/08/02/coronavirus-covid-updates/"
+        "title": "Birx Warns U.S. Coronavirus Epidemic Is In 'New Phase' As Cases And Deaths Climb",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/02/898330198/birx-warns-u-s-coronavirus-epidemic-is-in-new-phase-as-cases-and-deaths-climb"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
         "link": "https://www.bbc.com/news/world-middle-east-53598965"
     },
     {
-        "title": "In Italy, doctors beat back the coronavirus and are now preparing for a second wave",
-        "link": "https://www.nbcnews.com/science/science-news/italy-doctors-beat-back-coronavirus-are-now-preparing-second-wave-n1235459"
+        "title": "In Spain and the Netherlands, scientists examine coronavirus outbreaks at mink farms",
+        "link": "https://www.foxnews.com/world/spain-netherlands-coronavirus-mink-farms"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
     },
     {
+        "title": "Live Coronavirus Updates: Tracking Global News, Cases and Deaths",
+        "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
+    },
+    {
         "title": "Coronavirus live news: Global cases near 18m as Melbourne braces for further lockdown measures",
         "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     },
     {
-        "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
-        "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
+        "title": "A coronavirus vaccine won’t change the world right away",
+        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus: Nancy Pelosi criticises Deborah Birx",
-        "link": "https://www.bbc.com/news/world-us-canada-53631341"
     }
 ];
