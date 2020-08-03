@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/australian-state-declares-coronavirus-state-disaster-south-africa-tops-500-n1235603"
     },
     {
-        "title": "Live updates: U.S. enters ‘new phase’ as coronavirus outbreaks become ‘extraordinarily widespread,’ says Birx",
-        "link": "https://www.washingtonpost.com/nation/2020/08/03/coronavirus-covid-live-updates-us/"
+        "title": "Birx Warns U.S. Coronavirus Epidemic Is In 'New Phase' As Cases And Deaths Climb",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/02/898330198/birx-warns-u-s-coronavirus-epidemic-is-in-new-phase-as-cases-and-deaths-climb"
     },
     {
-        "title": "Why Youthful, Conservative Pakistan Is a Coronavirus Bright Spot",
-        "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
+        "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
+        "link": "https://www.bbc.com/news/world-middle-east-53598965"
     },
     {
         "title": "In Spain and the Netherlands, scientists examine coronavirus outbreaks at mink farms",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
     },
     {
-        "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
-        "link": "https://www.bbc.com/news/world-middle-east-53598965"
+        "title": "Report: Data reveals Iranian authorities downplay COVID-19 deaths by a third",
+        "link": "https://www.i24news.tv/en/news/coronavirus/1596433051-report-data-reveals-iranian-authorities-downplay-covid-19-deaths-by-a-third"
     },
     {
-        "title": "White House Task Force coordinator says US has entered 'new phase' of pandemic",
-        "link": "https://www.youtube.com/watch?v=c4yT9Wolv70"
+        "title": "US entering 'different' phase of coronavirus outbreak",
+        "link": "https://www.bbc.com/news/world-us-canada-53632649"
     },
     {
-        "title": "Global coronavirus cases cross 18 million mark: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-cases-extraordinarily-widespread-live-updates-200802231518844.html"
+        "title": "A coronavirus vaccine won’t change the world right away",
+        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
     },
     {
         "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
