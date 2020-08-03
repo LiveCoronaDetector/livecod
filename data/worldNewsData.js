@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/australian-state-declares-coronavirus-state-disaster-south-africa-tops-500-n1235603"
     },
     {
-        "title": "Birx Warns U.S. Coronavirus Epidemic Is In 'New Phase' As Cases And Deaths Climb",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/02/898330198/birx-warns-u-s-coronavirus-epidemic-is-in-new-phase-as-cases-and-deaths-climb"
+        "title": "Coronavirus update: Birx says U.S. has entered a ‘new phase’ of pandemic as cases, deaths rise",
+        "link": "https://www.washingtonpost.com/nation/2020/08/02/coronavirus-covid-updates/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     },
     {
-        "title": "Live Coronavirus Updates: Tracking Global News, Cases and Deaths",
-        "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "A coronavirus vaccine won’t change the world right away",
         "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
+    },
+    {
+        "title": "Coronavirus global report: 'response fatigue' fears as Mexico hits 9,000 daily cases",
+        "link": "https://www.theguardian.com/world/2020/aug/02/coronavirus-global-report-response-fatigue-mexico"
     }
 ];

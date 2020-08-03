@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008031018001&code=940100"
     },
     {
-        "title": "코로나 신규 확진자 국내발생 3명, 국외유입 20명",
-        "link": "http://www.hani.co.kr/arti/society/health/956213.html"
-    },
-    {
-        "title": "코로나19 신규확진 20명대로 낮아져…지역발생 87일만에 최소[종합]",
-        "link": "https://www.hankyung.com/society/article/2020080360567"
+        "title": "[종합] 코로나19 확진자 23명 증가...해외 20명 중 방글라데시·러시아 4명",
+        "link": "http://www.fnnews.com/news/202008031015097772"
     },
     {
         "title": "천안시 코로나19 확진자 방문 점포 최대 300만원 지원",
         "link": "http://yna.kr/AKR20200803042300063?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 23명 증가...해외 20명 중 방글라데시·러시아 4명",
-        "link": "http://www.fnnews.com/news/202008031015097772"
+        "title": "코로나 신규 확진자 국내발생 3명, 국외유입 20명",
+        "link": "http://www.hani.co.kr/arti/society/health/956213.html"
     },
     {
         "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
-        "title": "코로나19 신규 확진 23명...해외 유입 지속",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008031053240914"
+        "title": "코로나19 어제 23명 확진…지역발생 ‘87일 만’ 최저",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000213999"
     },
     {
         "title": "美 백악관 조정관 \"코로나 확산 이미 새 국면…3·4월과 다르다\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/03/2020080300358.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "코로나19 어제 23명 신규확진…해외유입 20명·지역발생 3명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/03/2020080390054.html"
+    },
+    {
         "title": "마크로젠, 코로나19 진단키트 유럽인증 획득",
         "link": "http://it.chosun.com/site/data/html_dir/2020/08/03/2020080301206.html"
     },
     {
-        "title": "[전문] 송파구청 100번째 확진자 발생...삼전동",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374053"
+        "title": "\"국내 50세미만 코로나19 확진자 99% 산소치료 없이 회복\"",
+        "link": "https://www.hankyung.com/society/article/2020080359587"
     }
 ];
