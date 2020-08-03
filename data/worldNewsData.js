@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://timesofindia.indiatimes.com/world/us/coronavirus-us-has-entered-a-new-phase-of-the-pandemic-white-house-expert-says/articleshow/77325201.cms"
     },
     {
-        "title": "Australia declares 'State of Disaster' in Victoria after coronavirus cases spike continues",
-        "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
+        "title": "Australia imposes strict new virus measures in Victoria as early successes unravel",
+        "link": "https://www.cnn.com/2020/08/03/australia/australia-melbourne-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Iran COVID-19 death toll nearly triple official figure: BBC Persian - Business Insider",
-        "link": "https://www.businessinsider.com/iran-nearly-triple-officially-reported-covid-19-deaths-bbc-2020-8"
+        "title": "One person is dying of COVID-19 every seven minutes in Iran: state TV",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-iran/one-person-is-dying-of-covid-19-every-seven-minutes-in-iran-state-tv-idUSKBN24Z1D9"
     },
     {
-        "title": "Pelosi announces she has 'no confidence' in top White House coronavirus adviser Deborah Birx",
-        "link": "https://www.foxnews.com/politics/pelosi-announces-she-has-no-confidence-in-top-wh-coronavirus-adviser-deborah-birx"
+        "title": "Virus Updates: Dr. Birx Warns of Phase With ‘Extraordinarily Widespread' Cases",
+        "link": "https://www.nbcsandiego.com/news/coronavirus/virus-updates-dr-birx-warns-of-phase-with-extraordinarily-widespread-cases/2377726/"
     },
     {
-        "title": "WHO: There is no 'silver bullet' for coronavirus: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-cases-extraordinarily-widespread-live-updates-200802231518844.html"
+        "title": "Two cruise ships hit by coronavirus weeks after industry restarts",
+        "link": "https://www.theguardian.com/world/2020/aug/03/two-cruise-ships-hit-by-coronavirus-weeks-after-industry-restarts"
     },
     {
-        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
-        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
+        "title": "A coronavirus vaccine won’t change the world right away",
+        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
     }
 ];
