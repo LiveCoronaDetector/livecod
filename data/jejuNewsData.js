@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200730138600055?did=1195m"
     },
     {
+        "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
+    },
+    {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "해외여행 대신 ‘제주도’에…“공항에서 입국 수준으로 검사”",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991492?division=NAVER"
-    },
-    {
-        "title": "제주도, 26번 확진자 출입 호박유흥주점 업주 '고발' 방침",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318244"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/australian-state-declares-coronavirus-state-disaster-south-africa-tops-500-n1235603"
     },
     {
-        "title": "Birx Warns U.S. Coronavirus Epidemic Is In 'New Phase' As Cases And Deaths Climb",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/02/898330198/birx-warns-u-s-coronavirus-epidemic-is-in-new-phase-as-cases-and-deaths-climb"
+        "title": "Live updates: U.S. coronavirus outbreaks are ‘extraordinarily widespread,’ says Birx",
+        "link": "https://www.washingtonpost.com/nation/2020/08/03/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
     },
     {
-        "title": "Report: Data reveals Iranian authorities downplay COVID-19 deaths by a third",
-        "link": "https://www.i24news.tv/en/news/coronavirus/1596433051-report-data-reveals-iranian-authorities-downplay-covid-19-deaths-by-a-third"
+        "title": "Iran COVID-19 death toll nearly triple official figure: BBC Persian - Business Insider",
+        "link": "https://www.businessinsider.com/iran-nearly-triple-officially-reported-covid-19-deaths-bbc-2020-8"
     },
     {
-        "title": "US entering 'different' phase of coronavirus outbreak",
-        "link": "https://www.bbc.com/news/world-us-canada-53632649"
+        "title": "Pelosi announces she has 'no confidence' in top White House coronavirus adviser Deborah Birx",
+        "link": "https://www.foxnews.com/politics/pelosi-announces-she-has-no-confidence-in-top-wh-coronavirus-adviser-deborah-birx"
     },
     {
-        "title": "A coronavirus vaccine won’t change the world right away",
-        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
+        "title": "WHO: There is no 'silver bullet' for coronavirus: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-cases-extraordinarily-widespread-live-updates-200802231518844.html"
     },
     {
         "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
