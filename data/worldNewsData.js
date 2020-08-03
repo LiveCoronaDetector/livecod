@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/03/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
-        "link": "https://www.bbc.com/news/world-middle-east-53598965"
+        "title": "Why Youthful, Conservative Pakistan Is a Coronavirus Bright Spot",
+        "link": "https://www.wsj.com/articles/why-youthful-conservative-pakistan-is-a-coronavirus-bright-spot-11596297600"
     },
     {
         "title": "In Spain and the Netherlands, scientists examine coronavirus outbreaks at mink farms",
         "link": "https://www.foxnews.com/world/spain-netherlands-coronavirus-mink-farms"
     },
     {
-        "title": "Coronavirus: The hidden heroes of India’s Covid-19 wards",
-        "link": "https://www.bbc.com/news/world-asia-india-53604691"
+        "title": "Coronavirus: US has entered a ‘new phase’ of the pandemic, White House expert says",
+        "link": "https://timesofindia.indiatimes.com/world/us/coronavirus-us-has-entered-a-new-phase-of-the-pandemic-white-house-expert-says/articleshow/77325201.cms"
     },
     {
         "title": "Australia declares 'State of Disaster' in Victoria after coronavirus cases spike continues",
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
     },
     {
+        "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
+        "link": "https://www.bbc.com/news/world-middle-east-53598965"
+    },
+    {
         "title": "White House Task Force coordinator says US has entered 'new phase' of pandemic",
         "link": "https://www.youtube.com/watch?v=c4yT9Wolv70"
     },
     {
-        "title": "Iran reports highest virus cases for nearly a month - The Jakarta Post",
-        "link": "https://www.thejakartapost.com/news/2020/08/03/iran-reports-highest-virus-cases-for-nearly-a-month.html"
+        "title": "Global coronavirus cases cross 18 million mark: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-cases-extraordinarily-widespread-live-updates-200802231518844.html"
     },
     {
-        "title": "Birx Warns That U.S. Epidemic Is in a ‘New Phase’",
-        "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-03-20-intl/index.html"
+        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
+        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
     }
 ];
