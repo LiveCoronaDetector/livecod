@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.thejakartapost.com/news/2020/08/03/iran-reports-highest-virus-cases-for-nearly-a-month.html"
     },
     {
-        "title": "Live Coronavirus Updates: Tracking Global News, Cases and Deaths",
-        "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
+        "title": "Birx: Coronavirus 'Extraordinarily Widespread,' Americans Must Wear Masks | NBC Nightly News",
+        "link": "https://www.youtube.com/watch?v=8gcwfqS64HQ"
     },
     {
         "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
