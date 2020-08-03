@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200803161700088?did=1195m"
     },
     {
-        "title": "일본 코로나 신규 확진자 감염경로 불명 비율 50% 넘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5862874_32640.html"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 23명... 해외유입이 20명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008031018001&code=940100"
-    },
-    {
         "title": "천안시, 코로나 확진자 방문 점포 최대 300만원 지원",
         "link": "https://www.nocutnews.co.kr/news/5388442"
     },
     {
         "title": "코로나19 신규 확진자 23명 中 지역발생 3명 87일만에 최저",
         "link": "http://www.dongascience.com/news/view/38671"
+    },
+    {
+        "title": "“홍천 캠핑장 확진자, 할리스커피 갔었다”… 연결고리 확인",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014872134&code=61121111&cp=nv"
     },
     {
         "title": "코로나 신규 확진자 국내발생 3명, 국외유입 20명",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008031053240914"
     },
     {
+        "title": "[속보] 코로나19 23명 늘어 1만4,389명…해외유입 20명·지역 3명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008030159&t=NN"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 23명... 해외유입이 20명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008031018001&code=940100"
+    },
+    {
         "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
-        "title": "“홍천 캠핑장 확진자, 할리스커피 갔었다”… 연결고리 확인",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014872134&code=61121111&cp=nv"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 23명 증가...해외 20명 중 방글라데시·러시아 4명",
-        "link": "http://www.fnnews.com/news/202008031015097772"
+        "title": "美 백악관 조정관 \"코로나 확산 이미 새 국면…3·4월과 다르다\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/03/2020080300358.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
