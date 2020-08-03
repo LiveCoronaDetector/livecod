@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
+        "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
+    },
+    {
         "title": "아이들은 학교에 부모는 '집콕' 코로나가 바꾼 여름휴가 신풍속",
         "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=769086"
     },
@@ -15,10 +19,6 @@ var jejuNewsData = [
     {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
-    },
-    {
-        "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
     },
     {
         "title": "전북도청·완주군청, 용인 코로나19 확진자 방문 비상…5명 검사",

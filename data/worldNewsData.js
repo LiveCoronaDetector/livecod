@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/03/latest_news/1596431282_714799.html"
     },
     {
-        "title": "Live updates: Trump criticizes Birx after she warns U.S. coronavirus outbreaks are ‘extraordinarily widespread’",
-        "link": "https://www.washingtonpost.com/nation/2020/08/03/coronavirus-covid-live-updates-us/"
+        "title": "Trump calls Birx's dire warning on widespread coronavirus in the US 'pathetic'",
+        "link": "https://www.theguardian.com/world/2020/aug/03/trump-birx-pathetic-criticism-nancy-pelosi-coronavirus-comments"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53604691"
     },
     {
-        "title": "Australia imposes strict new virus measures in Victoria as early successes unravel",
-        "link": "https://www.cnn.com/2020/08/03/australia/australia-melbourne-coronavirus-intl-hnk/index.html"
-    },
-    {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
+        "title": "Coronavirus disaster declared in Melbourne as cases surge globally",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-disaster-declared-melbourne-cases-surge-globally-n1235612"
     },
     {
         "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
         "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     },
     {
-        "title": "Two cruise ships hit by coronavirus weeks after industry restarts",
-        "link": "https://www.theguardian.com/world/2020/aug/03/two-cruise-ships-hit-by-coronavirus-weeks-after-industry-restarts"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
-        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-03-20-intl/index.html"
+    },
+    {
+        "title": "Two cruise ships hit by coronavirus weeks after industry restarts",
+        "link": "https://www.theguardian.com/world/2020/aug/03/two-cruise-ships-hit-by-coronavirus-weeks-after-industry-restarts"
     }
 ];
