@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
     },
     {
+        "title": "Iran reports highest virus cases for nearly a month - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/08/03/iran-reports-highest-virus-cases-for-nearly-a-month.html"
+    },
+    {
+        "title": "Coronavirus live news: Global cases pass 18m as Melbourne braces for further lockdown measures",
+        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
+    },
+    {
         "title": "Live Coronavirus Updates: Tracking Global News, Cases and Deaths",
         "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus live news: Global cases near 18m as Melbourne braces for further lockdown measures",
-        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
-    },
-    {
         "title": "A coronavirus vaccine won’t change the world right away",
         "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-02-20-intl/index.html"
     }
 ];
