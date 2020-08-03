@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
     },
     {
-        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
-        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
+        "title": "Coronavirus live news and updates from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-03-20-intl/index.html"
     }
 ];
