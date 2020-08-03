@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-middle-east-53598965"
     },
     {
-        "title": "In Spain and the Netherlands, scientists examine coronavirus outbreaks at mink farms",
-        "link": "https://www.foxnews.com/world/spain-netherlands-coronavirus-mink-farms"
+        "title": "In Italy, doctors beat back the coronavirus and are now preparing for a second wave",
+        "link": "https://www.nbcnews.com/science/science-news/italy-doctors-beat-back-coronavirus-are-now-preparing-second-wave-n1235459"
     },
     {
-        "title": "Coronavirus: US has entered a ‘new phase’ of the pandemic, White House expert says",
-        "link": "https://timesofindia.indiatimes.com/world/us/coronavirus-us-has-entered-a-new-phase-of-the-pandemic-white-house-expert-says/articleshow/77325201.cms"
+        "title": "Coronavirus: The hidden heroes of India’s Covid-19 wards",
+        "link": "https://www.bbc.com/news/world-asia-india-53604691"
     },
     {
         "title": "Australia imposes strict new virus measures in Victoria as early successes unravel",
         "link": "https://www.cnn.com/2020/08/03/australia/australia-melbourne-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "One person is dying of COVID-19 every seven minutes in Iran: state TV",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-iran/one-person-is-dying-of-covid-19-every-seven-minutes-in-iran-state-tv-idUSKBN24Z1D9"
+        "title": "Coronavirus live news: Singapore to use electronic tags to monitor some travellers; global cases pass 18m",
+        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     },
     {
-        "title": "Virus Updates: Dr. Birx Warns of Phase With ‘Extraordinarily Widespread' Cases",
-        "link": "https://www.nbcsandiego.com/news/coronavirus/virus-updates-dr-birx-warns-of-phase-with-extraordinarily-widespread-cases/2377726/"
-    },
-    {
-        "title": "Two cruise ships hit by coronavirus weeks after industry restarts",
-        "link": "https://www.theguardian.com/world/2020/aug/03/two-cruise-ships-hit-by-coronavirus-weeks-after-industry-restarts"
+        "title": "Iran COVID-19 death toll nearly triple official figure: BBC Persian - Business Insider",
+        "link": "https://www.businessinsider.com/iran-nearly-triple-officially-reported-covid-19-deaths-bbc-2020-8"
     },
     {
         "title": "A coronavirus vaccine won’t change the world right away",
         "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
+    },
+    {
+        "title": "US entering 'different' phase of coronavirus outbreak",
+        "link": "https://www.bbc.com/news/world-us-canada-53632649"
     }
 ];
