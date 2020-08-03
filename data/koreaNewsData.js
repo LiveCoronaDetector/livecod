@@ -9,8 +9,20 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5862874_32640.html"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 23명... 해외유입이 20명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008031018001&code=940100"
+    },
+    {
         "title": "천안시, 코로나 확진자 방문 점포 최대 300만원 지원",
         "link": "https://www.nocutnews.co.kr/news/5388442"
+    },
+    {
+        "title": "코로나19 신규 확진자 23명 中 지역발생 3명 87일만에 최저",
+        "link": "http://www.dongascience.com/news/view/38671"
+    },
+    {
+        "title": "코로나 신규 확진자 국내발생 3명, 국외유입 20명",
+        "link": "http://www.hani.co.kr/arti/society/health/956213.html"
     },
     {
         "title": "코로나19 신규 확진 23명...해외 유입 지속",
@@ -21,23 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014872134&code=61121111&cp=nv"
     },
     {
-        "title": "\"국내 50세미만 코로나19 확진자 99% 산소치료 없이 회복\"",
-        "link": "https://www.hankyung.com/society/article/2020080359587"
+        "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 23명 中 지역발생 3명 87일만에 최저",
-        "link": "http://www.dongascience.com/news/view/38671"
-    },
-    {
-        "title": "일본에서 확진자가 애완견에 코로나19 옮긴 사례 첫 확인",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4508975&ref=A"
-    },
-    {
-        "title": "日 코로나 하루 신규 확진 1000명 육박…누적 확진자 4만명 넘어",
-        "link": "https://news.joins.com/article/olink/23434761"
-    },
-    {
-        "title": "전남서 해외입국 50대 남성 코로나19 확진...누적확진자 39명",
-        "link": "http://www.fnnews.com/news/202008031943148384"
+        "title": "[종합] 코로나19 확진자 23명 증가...해외 20명 중 방글라데시·러시아 4명",
+        "link": "http://www.fnnews.com/news/202008031015097772"
     }
 ];
