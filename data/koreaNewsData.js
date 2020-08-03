@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008031053240914"
     },
     {
-        "title": "WHO \"코로나, 특효약 없을 수도 있다\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/03/2020080303531.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
         "title": "코로나19 신규 확진자 23명 中 지역발생 3명 87일만에 최저",

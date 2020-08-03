@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-middle-east-53598965"
     },
     {
-        "title": "In Italy, doctors beat back the coronavirus and are now preparing for a second wave",
-        "link": "https://www.nbcnews.com/science/science-news/italy-doctors-beat-back-coronavirus-are-now-preparing-second-wave-n1235459"
+        "title": "In Spain and the Netherlands, scientists examine coronavirus outbreaks at mink farms",
+        "link": "https://www.foxnews.com/world/spain-netherlands-coronavirus-mink-farms"
     },
     {
         "title": "Coronavirus: The hidden heroes of India’s Covid-19 wards",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/03/australia/australia-melbourne-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus live news: Singapore to use electronic tags to monitor some travellers; global cases pass 18m",
+        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/03/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-03-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus live news: Singapore to use electronic tags to monitor some travellers; Belgium ICU admissions double",
         "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     },
     {
-        "title": "Iran COVID-19 death toll nearly triple official figure: BBC Persian - Business Insider",
-        "link": "https://www.businessinsider.com/iran-nearly-triple-officially-reported-covid-19-deaths-bbc-2020-8"
-    },
-    {
-        "title": "A coronavirus vaccine won’t change the world right away",
-        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
-    },
-    {
-        "title": "US entering 'different' phase of coronavirus outbreak",
-        "link": "https://www.bbc.com/news/world-us-canada-53632649"
+        "title": "Iran has been covering up its Covid-19 death toll, according to BBC investigation",
+        "link": "https://www.youtube.com/watch?v=T3C4ESNMXH4"
     }
 ];

@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
+        "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
+    },
+    {
         "title": "아이들은 학교에 부모는 '집콕' 코로나가 바꾼 여름휴가 신풍속",
         "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=769086"
     },
     {
         "title": "\"여행비용 증가, 소규모 여행 증가\"... 코로나19가 남긴 장벽",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002663291&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
     },
     {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
