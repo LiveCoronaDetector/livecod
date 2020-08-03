@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Two cruise ships hit by coronavirus weeks after industry restarts",
-        "link": "https://www.theguardian.com/world/2020/aug/03/two-cruise-ships-hit-by-coronavirus-weeks-after-industry-restarts"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-03-20-intl/index.html"
     },
     {
         "title": "Iran has been covering up its Covid-19 death toll, according to BBC investigation",

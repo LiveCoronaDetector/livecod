@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
-        "title": "日 코로나 하루 신규 확진 1000명 육박…누적 확진자 4만명 넘어",
-        "link": "https://news.joins.com/article/olink/23434761"
+        "title": "[종합] 코로나19 확진자 23명 증가...해외 20명 중 방글라데시·러시아 4명",
+        "link": "http://www.fnnews.com/news/202008031015097772"
     }
 ];
