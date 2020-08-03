@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008031018001&code=940100"
     },
     {
+        "title": "일본 코로나 신규 확진자 감염경로 불명 비율 50% 넘어",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5862874_32640.html"
+    },
+    {
         "title": "코로나19 신규 확진자 23명 中 지역발생 3명 87일만에 최저",
         "link": "http://www.dongascience.com/news/view/38671"
     },
@@ -21,6 +25,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020080359587"
     },
     {
+        "title": "커피점-캠핑장 감염 연결고리 확인…\"캠핑 확진자, 커피점 방문\"",
+        "link": "http://yna.kr/AKR20200803099100530?did=1195m"
+    },
+    {
         "title": "[종합] 코로나19 확진자 23명 증가...해외 20명 중 방글라데시·러시아 4명",
         "link": "http://www.fnnews.com/news/202008031015097772"
     },
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
-        "title": "강남 커피숍-홍천 캠핑장 연결고리 확인 \"캠핑 확진자, 커피숍 방문\"",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5862870_32633.html"
-    },
-    {
         "title": "코로나19 신규 확진 23명...해외 유입 지속",
         "link": "https://www.ytn.co.kr/_ln/0103_202008031053240914"
-    },
-    {
-        "title": "[속보] '코로나19' 신규 확진 23명…국내발생 3명 '수도권만'",
-        "link": "http://news.tf.co.kr/read/life/1804979.htm"
     }
 ];

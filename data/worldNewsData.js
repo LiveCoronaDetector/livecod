@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-middle-east-53598965"
     },
     {
-        "title": "In Spain and the Netherlands, scientists examine coronavirus outbreaks at mink farms",
-        "link": "https://www.foxnews.com/world/spain-netherlands-coronavirus-mink-farms"
+        "title": "In Italy, doctors beat back the coronavirus and are now preparing for a second wave",
+        "link": "https://www.nbcnews.com/science/science-news/italy-doctors-beat-back-coronavirus-are-now-preparing-second-wave-n1235459"
     },
     {
-        "title": "Coronavirus: US has entered a ‘new phase’ of the pandemic, White House expert says",
-        "link": "https://timesofindia.indiatimes.com/world/us/coronavirus-us-has-entered-a-new-phase-of-the-pandemic-white-house-expert-says/articleshow/77325201.cms"
+        "title": "Coronavirus India live updates: cases, deaths and news",
+        "link": "https://en.as.com/en/2020/08/03/latest_news/1596409572_537232.html"
     },
     {
         "title": "Australia declares 'State of Disaster' in Victoria after coronavirus cases spike continues",
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
     },
     {
+        "title": "Global report: July's terrible toll revealed as coronavirus cases double every six weeks",
+        "link": "https://www.theguardian.com/world/2020/aug/03/global-report-julys-terrible-toll-revealed-as-coronavirus-cases-double-every-six-weeks"
+    },
+    {
         "title": "Iran reports highest virus cases for nearly a month - The Jakarta Post",
         "link": "https://www.thejakartapost.com/news/2020/08/03/iran-reports-highest-virus-cases-for-nearly-a-month.html"
     },
     {
-        "title": "Birx: Coronavirus 'Extraordinarily Widespread,' Americans Must Wear Masks | NBC Nightly News",
-        "link": "https://www.youtube.com/watch?v=8gcwfqS64HQ"
+        "title": "White House Task Force coordinator says US has entered 'new phase' of pandemic",
+        "link": "https://www.youtube.com/watch?v=c4yT9Wolv70"
     },
     {
         "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
         "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
-    },
-    {
-        "title": "A coronavirus vaccine won’t change the world right away",
-        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
     }
 ];
