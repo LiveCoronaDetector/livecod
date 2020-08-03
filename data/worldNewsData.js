@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live news: Global cases pass 18m as Melbourne braces for further lockdown measures",
-        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures?page=with:block-5f2761718f087ea5c94324b1"
+        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     },
     {
         "title": "Iran reports highest virus cases for nearly a month - The Jakarta Post",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
     },
     {
-        "title": "A coronavirus vaccine won’t change the world right away",
-        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
+        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
+        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
     }
 ];
