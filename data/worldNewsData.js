@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: Trump criticizes Birx after she warns U.S. coronavirus outbreaks are ‘extraordinarily widespread’",
-        "link": "https://news.google.com/articles/CAIiEFJsQ8bX1Yf9IFF4ZC4sLjMqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.washingtonpost.com/nation/2020/08/03/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/03/australia/australia-melbourne-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/03/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
-    },
-    {
         "title": "Coronavirus Live Updates",
         "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus live news: world may never find 'silver bullet' Covid vaccine, says WHO",
-        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
+        "title": "Two cruise ships hit by coronavirus weeks after industry restarts",
+        "link": "https://www.theguardian.com/world/2020/aug/03/two-cruise-ships-hit-by-coronavirus-weeks-after-industry-restarts"
     },
     {
         "title": "Iran has been covering up its Covid-19 death toll, according to BBC investigation",
         "link": "https://www.youtube.com/watch?v=T3C4ESNMXH4"
+    },
+    {
+        "title": "Coronavirus live news: world may never find 'silver bullet' Covid vaccine, says WHO",
+        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     }
 ];
