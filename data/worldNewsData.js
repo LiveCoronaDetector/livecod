@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/coronavirus-disaster-declared-melbourne-cases-surge-globally-n1235612"
     },
     {
-        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
-        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
-    },
-    {
         "title": "Coronavirus Live Updates",
         "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus live news: US treasury to borrow $947bn to aid recovery",
-        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
+        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
+        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     },
     {
-        "title": "Covid-19 - alleged Iran cover-up: BBC investigation says the true figure is almost 3 times higher",
-        "link": "https://www.youtube.com/watch?v=KSPov7CDBH8"
+        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
+        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+    },
+    {
+        "title": "US treasury to borrow $947bn to aid recovery – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     }
 ];
