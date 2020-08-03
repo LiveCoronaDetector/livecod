@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008031018001&code=940100"
     },
     {
-        "title": "천안시 코로나19 확진자 방문 점포 최대 300만원 지원",
-        "link": "http://yna.kr/AKR20200803042300063?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 23명 中 지역발생 3명 87일만에 최저",
         "link": "http://www.dongascience.com/news/view/38671"
+    },
+    {
+        "title": "천안시 코로나19 확진자 방문 점포 최대 300만원 지원",
+        "link": "http://yna.kr/AKR20200803042300063?did=1195m"
     },
     {
         "title": "\"국내 50세미만 코로나19 확진자 99% 산소치료 없이 회복\"",
@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008031015097772"
     },
     {
-        "title": "커피점-캠핑장 감염 연결고리 확인…\"캠핑 확진자, 커피점 방문\"(종합)",
-        "link": "http://yna.kr/AKR20200803099151530?did=1195m"
+        "title": "“홍천 캠핑장 확진자, 할리스커피 갔었다”… 연결고리 확인",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014872134&code=61121111&cp=nv"
     },
     {
         "title": "코로나 신규 확진자 국내발생 3명, 국외유입 20명",

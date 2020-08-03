@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991492?division=NAVER"
     },
     {
-        "title": "용인 125번 확진자 접촉 전북도민 모두 '음성'",
-        "link": "https://www.news1.kr/articles/?4012315"
-    },
-    {
         "title": "제주도, 26번 확진자 출입 호박유흥주점 업주 '고발' 방침",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318244"
+    },
+    {
+        "title": "용인 125번 확진자 접촉 전북도민 모두 '음성'",
+        "link": "https://www.news1.kr/articles/?4012315"
     }
 ];

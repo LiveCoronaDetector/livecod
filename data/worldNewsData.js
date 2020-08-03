@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/spain-netherlands-coronavirus-mink-farms"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/03/latest_news/1596409572_537232.html"
+        "title": "Coronavirus: The hidden heroes of India’s Covid-19 wards",
+        "link": "https://www.bbc.com/news/world-asia-india-53604691"
     },
     {
         "title": "Australia declares 'State of Disaster' in Victoria after coronavirus cases spike continues",
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
     },
     {
-        "title": "Iran reports highest virus cases for nearly a month - The Jakarta Post",
-        "link": "https://www.thejakartapost.com/news/2020/08/03/iran-reports-highest-virus-cases-for-nearly-a-month.html"
-    },
-    {
         "title": "White House Task Force coordinator says US has entered 'new phase' of pandemic",
         "link": "https://www.youtube.com/watch?v=c4yT9Wolv70"
     },
     {
-        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
-        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
+        "title": "Iran reports highest virus cases for nearly a month - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/08/03/iran-reports-highest-virus-cases-for-nearly-a-month.html"
     },
     {
-        "title": "A coronavirus vaccine won’t change the world right away",
-        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
+        "title": "Birx Warns That U.S. Epidemic Is in a ‘New Phase’",
+        "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-03-20-intl/index.html"
     }
 ];
