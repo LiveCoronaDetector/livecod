@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/03/latest_news/1596431282_714799.html"
     },
     {
-        "title": "Live updates: U.S. coronavirus outbreaks are ‘extraordinarily widespread,’ says Birx",
+        "title": "Live updates: Trump criticizes Birx after she warns U.S. coronavirus outbreaks are ‘extraordinarily widespread’",
         "link": "https://www.washingtonpost.com/nation/2020/08/03/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
-        "link": "https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1taWRkbGUtZWFzdC01MzU5ODk2NdIBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvd29ybGQtbWlkZGxlLWVhc3QtNTM1OTg5NjU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-middle-east-53598965"
     },
     {
-        "title": "'Europe's last dictator' battles coronavirus, mass protests and suspected Russian mercenaries to stay in power",
-        "link": "https://www.cnbc.com/2020/08/03/belarus-election-lukashenko-battles-coronavirus-protests-and-russia-tensions.html"
+        "title": "Berlin protests against coronavirus rules divide German leaders",
+        "link": "https://www.theguardian.com/world/2020/aug/03/berlin-protests-against-coronavirus-rules-divide-german-leaders"
     },
     {
         "title": "Coronavirus: The hidden heroes of India’s Covid-19 wards",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "Australia imposes strict new virus measures in Victoria as early successes unravel",
         "link": "https://www.cnn.com/2020/08/03/australia/australia-melbourne-coronavirus-intl-hnk/index.html"
-    },
-    {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/03/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     },
     {
         "title": "Coronavirus Live Updates",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Iran has been covering up its Covid-19 death toll, according to BBC investigation",
         "link": "https://www.youtube.com/watch?v=T3C4ESNMXH4"
+    },
+    {
+        "title": "A coronavirus vaccine won’t change the world right away",
+        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
     }
 ];
