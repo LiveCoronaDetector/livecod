@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/spain-netherlands-coronavirus-mink-farms"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/03/latest_news/1596409572_537232.html"
+        "title": "Coronavirus: US has entered a ‘new phase’ of the pandemic, White House expert says",
+        "link": "https://timesofindia.indiatimes.com/world/us/coronavirus-us-has-entered-a-new-phase-of-the-pandemic-white-house-expert-says/articleshow/77325201.cms"
     },
     {
         "title": "Australia declares 'State of Disaster' in Victoria after coronavirus cases spike continues",
         "link": "https://www.foxnews.com/world/australia-declares-state-of-disaster-in-victoria-coronavirus-cases-spike"
-    },
-    {
-        "title": "Coronavirus live news: Global cases pass 18m as Melbourne braces for further lockdown measures",
-        "link": "https://www.theguardian.com/world/live/2020/aug/03/coronavirus-live-news-global-cases-near-18m-as-melbourne-braces-for-further-lockdown-measures"
     },
     {
         "title": "Iran reports highest virus cases for nearly a month - The Jakarta Post",
@@ -35,6 +31,10 @@ var worldNewsData = [
     {
         "title": "Live Coronavirus Updates: Tracking Global News, Cases and Deaths",
         "link": "https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
+        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
     },
     {
         "title": "A coronavirus vaccine won’t change the world right away",
