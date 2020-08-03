@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008031053240914"
     },
     {
-        "title": "“홍천 캠핑장 확진자, 할리스커피 갔었다”… 연결고리 확인",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014872134&code=61121111&cp=nv"
-    },
-    {
         "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
+    },
+    {
+        "title": "“홍천 캠핑장 확진자, 할리스커피 갔었다”… 연결고리 확인",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014872134&code=61121111&cp=nv"
     },
     {
         "title": "[종합] 코로나19 확진자 23명 증가...해외 20명 중 방글라데시·러시아 4명",
