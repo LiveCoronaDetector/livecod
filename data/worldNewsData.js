@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/03/latest_news/1596431282_714799.html"
     },
     {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
+        "title": "Live updates: Fauci amplifies Birx’s warning about a ‘new phase’ of coronavirus spread in U.S.",
+        "link": "https://www.washingtonpost.com/nation/2020/08/03/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     },
     {
-        "title": "Trump criticizes Birx for the first time after she issues coronavirus warnings",
-        "link": "https://www.cnn.com/2020/08/03/politics/trump-birx-coronavirus-task-force/index.html"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus: Dozens test positive for Covid-19 on Norwegian cruise ship",
-        "link": "https://www.bbc.com/news/world-europe-53636854"
+        "title": "Covid Supercharges Federal Reserve as Backup Lender to the World",
+        "link": "https://www.wsj.com/articles/fed-federal-reserve-jerome-powell-covid-coronavirus-dollar-lending-economy-foreign-currency-11596228151"
     },
     {
         "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
