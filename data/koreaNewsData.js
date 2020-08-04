@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956372.html"
     },
     {
-        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
-    },
-    {
         "title": "청주 확진자 6명 이슬람 종교행사 참석…지역감염 비상",
         "link": "http://yna.kr/AKR20200804169400064?did=1195m"
     },
     {
-        "title": "日코로나 신규 확진자 다시 천 명대로 증가",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4509890&ref=A"
-    },
-    {
-        "title": "프랑스, 코로나19 중환자 넉달만에 증가…\"가을 제2 확산 우려\"(종합)",
-        "link": "http://yna.kr/AKR20200804168451085?did=1195m"
+        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
     },
     {
         "title": "12월 3일 수능, 확진자는 병원·격리자는 별도 장소서 시험",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080419225504944"
+    },
+    {
+        "title": "서울 코로나19 확진자 9명 늘어, 사망자는 12명",
+        "link": "http://www.fnnews.com/news/202008041051528424"
+    },
+    {
+        "title": "청주 코로나 확진자 온천·당구장 방문…마스크 착용(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200804500055&wlog_tag3=naver"
     }
 ];
