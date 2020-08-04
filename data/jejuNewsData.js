@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=769086"
     },
     {
-        "title": "\"여행비용 증가, 소규모 여행 증가\"... 코로나19가 남긴 장벽",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002663291&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
+    },
+    {
+        "title": "\"여행비용 증가, 소규모 여행 증가\"... 코로나19가 남긴 장벽",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002663291&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "제주 내국인관광객 8월들어 코로나사태 이전 회복",
