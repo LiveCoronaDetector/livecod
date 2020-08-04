@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/coronavirus-disaster-declared-melbourne-cases-surge-globally-n1235612"
     },
     {
-        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
-        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
-    },
-    {
         "title": "Coronavirus Live Updates",
         "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Covid Supercharges Federal Reserve as Backup Lender to the World",
-        "link": "https://www.wsj.com/articles/fed-federal-reserve-jerome-powell-covid-coronavirus-dollar-lending-economy-foreign-currency-11596228151"
+        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
+        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     },
     {
         "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
         "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+    },
+    {
+        "title": "Coronavirus: Dozens test positive for Covid-19 on Norwegian cruise ship",
+        "link": "https://www.bbc.com/news/world-europe-53636854"
     }
 ];

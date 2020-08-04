@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
+        "title": "'휴가는 제주에서' 관광객 코로나 이전 넘어서",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/04/2020080401525.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
-    },
-    {
-        "title": "용인 125번 확진자 3일 전 전북도청 다녀가",
-        "link": "https://www.news1.kr/articles/?4011926"
     }
 ];
