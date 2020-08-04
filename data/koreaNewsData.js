@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5863838_32633.html"
     },
     {
-        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
-        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
+        "title": "경남 코로나19 신규 확진자 2명 발생…총 160명",
+        "link": "https://www.pressian.com/pages/articles/2020080410521570824?utm_source=naver&utm_medium=search"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
