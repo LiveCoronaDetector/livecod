@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008041014497879"
     },
     {
-        "title": "LA 총영사관 긴급 폐쇄…직원 1명, 코로나19 확진자와 접촉",
-        "link": "http://yna.kr/AKR20200804009600075?did=1195m"
+        "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
+        "link": "http://yna.kr/AKR20200804056300530?did=1195m"
     },
     {
-        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
-        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
+        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
     {
         "title": "청주서 외국인 3명 코로나19 확진…충북 확진자 76명↑(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200804_0001117533&cID=10806&pID=10800"
     },
     {
-        "title": "코로나19 신규 확진 34명…국내지역 감염 수도권 중심",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5863809_32633.html"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
     },
     {
-        "title": "[속보] 코로나19 34명 늘어 1만4,423명…지역 13명·해외유입 21명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008040168&t=NN"
+        "title": "[속보]코로나19 신규확진 34명…해외유입 21명, 지역 13명",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220080300136"
+    },
+    {
+        "title": "코로나19 어제 34명 신규 확진…국내 발생 13명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214160"
+    },
+    {
+        "title": "WHO \"코로나19 특효약 없을 수도 있다\"",
+        "link": "https://www.nocutnews.co.kr/news/5389065"
     },
     {
         "title": "세인트루이스 코로나19 확진자 총 13명…디트로이트 4연전 취소",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005914121&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "경남 코로나19 신규 확진자 2명 발생…총 160명",
-        "link": "https://www.pressian.com/pages/articles/2020080410521570824?utm_source=naver&utm_medium=search"
     },
     {
         "title": "대구 지역감염 확진자 32일째 '0명'(전문)",
