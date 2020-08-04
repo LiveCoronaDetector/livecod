@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/australian-state-declares-coronavirus-state-disaster-south-africa-tops-500-n1235603"
     },
     {
-        "title": "Trump calls Birx's dire warning on widespread coronavirus in the US 'pathetic'",
-        "link": "https://www.theguardian.com/world/2020/aug/03/trump-birx-pathetic-criticism-nancy-pelosi-coronavirus-comments"
+        "title": "Live updates: Fauci amplifies Birx’s warning about a ‘new phase’ of coronavirus spread in U.S.",
+        "link": "https://www.washingtonpost.com/nation/2020/08/03/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Two cruise ships hit by coronavirus weeks after industry restarts",
-        "link": "https://www.theguardian.com/world/2020/aug/03/two-cruise-ships-hit-by-coronavirus-weeks-after-industry-restarts"
+        "title": "Coronavirus: Dozens test positive for Covid-19 on Norwegian cruise ship",
+        "link": "https://www.bbc.com/news/world-europe-53636854"
     },
     {
         "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
