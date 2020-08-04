@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/03/latest_news/1596431282_714799.html"
     },
     {
-        "title": "Live updates: Trump turns against Birx as coronavirus cases rise in Midwest",
-        "link": "https://www.washingtonpost.com/nation/2020/08/04/coronavirus-covid-live-updates-us/"
+        "title": "How the Pandemic Defeated America",
+        "link": "https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/03/berlin-protests-against-coronavirus-rules-divide-german-leaders"
     },
     {
-        "title": "Covid-19 is taking elevator anxiety to the next level. This Indian tech company has a solution",
-        "link": "https://www.cnn.com/2020/08/03/business/india-touchless-elevator-buttons-hnk-spc-intl/index.html"
+        "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
+        "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=8OjXgF_kdtM"
     },
     {
-        "title": "Coronavirus live news: Philippines reimposes lockdown as UN warns over school closures",
+        "title": "Coronavirus live news: UN warns world faces 'generational catastrophe' over school closures",
         "link": "https://www.theguardian.com/world/live/2020/aug/04/coronavirus-live-news-who-says-there-may-never-be-a-silver-bullet-vaccine-for-covid-19"
     },
     {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Covid Supercharges Federal Reserve as Backup Lender to the World",
-        "link": "https://www.wsj.com/articles/fed-federal-reserve-jerome-powell-covid-coronavirus-dollar-lending-economy-foreign-currency-11596228151"
+        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
+        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
     }
 ];
