@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4016008"
     },
     {
+        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
+    },
+    {
         "title": "[종합] 코로나19 확진자 34명 증가...해외 21명 중 미국 9명",
         "link": "http://www.fnnews.com/news/202008041014497879"
     },
@@ -17,16 +21,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/04/2020080404434.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "청주 코로나19 6명 확진…이슬람종교 행사 참석(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5389713"
+        "title": "日코로나 신규 확진자 다시 천 명대로 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4509890&ref=A"
     },
     {
         "title": "프랑스, 코로나19 중환자 넉달만에 증가…\"가을 제2 확산 우려\"(종합)",
         "link": "http://yna.kr/AKR20200804168451085?did=1195m"
-    },
-    {
-        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
     {
         "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
