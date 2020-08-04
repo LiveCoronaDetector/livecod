@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
     },
     {
-        "title": "Trump says coronavirus death toll 'is what it is' as he insists pandemic is 'under control' in U.S.",
-        "link": "https://www.cnbc.com/2020/08/04/coronavirus-trump-insists-pandemic-is-under-control-in-us.html"
+        "title": "How the Pandemic Defeated America",
+        "link": "https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/"
     },
     {
         "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
+        "title": "5 things to know for August 4: Coronavirus, census, election, economy, Spain",
+        "link": "https://www.cnn.com/2020/08/04/us/five-things-august-4-trnd/index.html"
     },
     {
         "title": "India's Narendra Modi to lay foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
-    },
-    {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
+    },
+    {
+        "title": "WHO director-general says there may never be coronavirus silver bullet - Business Insider",
+        "link": "https://www.businessinsider.com/who-director-there-may-never-silver-bullet-coronavirus-2020-8"
     }
 ];
