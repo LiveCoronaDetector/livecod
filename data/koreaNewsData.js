@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200804056300530?did=1195m"
     },
     {
-        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
-    },
-    {
         "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
@@ -25,8 +21,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956372.html"
     },
     {
-        "title": "청주 확진자 6명, 이슬람 종교행사 참석… “지역사회 재전파 우려”",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/04/2020080404434.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
+    },
+    {
+        "title": "청주 확진자 6명 이슬람 종교행사 참석…지역감염 비상",
+        "link": "http://yna.kr/AKR20200804169400064?did=1195m"
     },
     {
         "title": "日코로나 신규 확진자 다시 천 명대로 증가",

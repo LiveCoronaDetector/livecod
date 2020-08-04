@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
-        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
+        "title": "WHO director-general says there may never be coronavirus silver bullet - Business Insider",
+        "link": "https://www.businessinsider.com/who-director-there-may-never-silver-bullet-coronavirus-2020-8"
     },
     {
         "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
