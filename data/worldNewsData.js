@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-04-20-intl/index.html"
+        "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
-        "title": "US enters 'new phase' of coronavirus pandemic l GMA",
-        "link": "https://www.youtube.com/watch?v=8OjXgF_kdtM"
+        "title": "Nancy Pelosi, Always Finding Ways to Make a Bad Situation Worse",
+        "link": "https://www.nationalreview.com/corner/nancy-pelosi-always-finding-ways-to-make-a-bad-situation-worse/"
     },
     {
         "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
         "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     },
     {
-        "title": "Covid Supercharges Federal Reserve as Backup Lender to the World",
-        "link": "https://www.wsj.com/articles/fed-federal-reserve-jerome-powell-covid-coronavirus-dollar-lending-economy-foreign-currency-11596228151"
+        "title": "Coronavirus: Melbourne police 'assaulted and baited' over lockdown rules",
+        "link": "https://www.bbc.com/news/world-australia-53645759"
     },
     {
-        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
-        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
+        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
+        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     }
 ];

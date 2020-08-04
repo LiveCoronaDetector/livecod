@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
     },
     {
-        "title": "[속보] 서울 코로나19 확진자 6명 늘어…청주서도 7명 감염",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200804500182&wlog_tag3=naver"
+        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
+    },
+    {
+        "title": "청주 코로나19 확진자 6명 이슬람 종교행사 참석…접촉자 확인",
+        "link": "https://www.hankyung.com/society/article/2020080433467"
+    },
+    {
+        "title": "청주 코로나19 6명 확진…이슬람종교 행사 참석(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5389713"
+    },
+    {
+        "title": "日 코로나19 신규 확진 하루 만에 다시 1천명대로(종합)",
+        "link": "http://yna.kr/AKR20200804165451073?did=1195m"
     },
     {
         "title": "[종합] 청주서 우즈베키스탄인 등 이틀새 7명 코로나19 확진",
         "link": "https://www.hankyung.com/society/article/2020080432367"
-    },
-    {
-        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
-        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
-    },
-    {
-        "title": "WHO \"코로나, 특효약 없을 수도 있다\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/03/2020080303531.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "코로나19 확진자 병원·격리자 별도 고사장서 수능 본다",
-        "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=4238234"
     }
 ];
