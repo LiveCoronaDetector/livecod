@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200805000500071?did=1195m"
     },
     {
+        "title": "확진자는 병원서, 자가격리자는 별도 시험장서 수능 본다",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200805009012&wlog_tag3=naver"
+    },
+    {
         "title": "프랑스, 코로나19 중환자 넉달만에 증가…\"가을 제2 확산 우려\"(종합)",
         "link": "http://yna.kr/AKR20200804168451085?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "서울 코로나19 확진자 9명 늘어, 사망자는 12명",
         "link": "http://www.fnnews.com/news/202008041051528424"
-    },
-    {
-        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
-        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
     }
 ];
