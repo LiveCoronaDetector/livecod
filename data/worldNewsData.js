@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
     },
     {
-        "title": "How the Pandemic Defeated America",
-        "link": "https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/"
+        "title": "Trump says coronavirus death toll 'is what it is' as he insists pandemic is 'under control' in U.S.",
+        "link": "https://www.cnbc.com/2020/08/04/coronavirus-trump-insists-pandemic-is-under-control-in-us.html"
     },
     {
         "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
+        "title": "NYC health commissioner resigns, citing de Blasio's handling of coronavirus pandemic",
+        "link": "https://www.foxnews.com/politics/nyc-health-commissioner-resigns-over-de-blasios-handling-of-coronavirus-pandemic-report"
+    },
+    {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "Live Coronavirus Tracker",
-        "link": "https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html"
+        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
+        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     },
     {
         "title": "Coronavirus: Melbourne police 'assaulted and baited' over lockdown rules",
         "link": "https://www.bbc.com/news/world-australia-53645759"
-    },
-    {
-        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
-        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     }
 ];
