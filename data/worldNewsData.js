@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
     },
     {
-        "title": "Live updates: Trump turns against Birx as coronavirus cases rise in Midwest",
-        "link": "https://www.washingtonpost.com/nation/2020/08/04/coronavirus-covid-live-updates-us/"
+        "title": "How the Pandemic Defeated America",
+        "link": "https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
     },
     {
-        "title": "Coronavirus: India tops daily deaths and cases for first time",
+        "title": "Coronavirus: UN warns of 'catastrophe' caused by school closures",
         "link": "https://www.bbc.com/news/live/world-53591031"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-04-20-intl/index.html"
     },
     {
-        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
-        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
+        "title": "UN chief says COVID-19 has led to largest disruption to education in history",
+        "link": "https://www.youtube.com/watch?v=nqUbmvWuiHU"
     },
     {
         "title": "Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her",
         "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Covid Supercharges Federal Reserve as Backup Lender to the World",
-        "link": "https://www.wsj.com/articles/fed-federal-reserve-jerome-powell-covid-coronavirus-dollar-lending-economy-foreign-currency-11596228151"
+        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/04/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     },
     {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
+        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     }
 ];
