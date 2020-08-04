@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200804056300530?did=1195m"
     },
     {
+        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
+    },
+    {
+        "title": "청주 코로나19 6명 확진…이슬람종교 행사 참석(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5389713"
+    },
+    {
         "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
         "link": "https://imnews.imbc.com/news/2020/society/article/5863838_32633.html"
     },
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
     {
+        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
+        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
     },
     {
-        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
+        "title": "12월 3일 수능, 확진자는 병원·격리자는 별도 장소서 시험",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020080419225504944"
     },
     {
-        "title": "청주 코로나19 확진자 6명 이슬람 종교행사 참석…접촉자 확인",
-        "link": "https://www.hankyung.com/society/article/2020080433467"
-    },
-    {
-        "title": "청주 코로나19 6명 확진…이슬람종교 행사 참석(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5389713"
-    },
-    {
-        "title": "日 코로나19 신규 확진 하루 만에 다시 1천명대로(종합)",
-        "link": "http://yna.kr/AKR20200804165451073?did=1195m"
-    },
-    {
-        "title": "[종합] 청주서 우즈베키스탄인 등 이틀새 7명 코로나19 확진",
-        "link": "https://www.hankyung.com/society/article/2020080432367"
+        "title": "WHO \"코로나, 특효약 없을 수도 있다\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/03/2020080303531.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

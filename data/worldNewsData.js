@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
-        "title": "Nancy Pelosi, Always Finding Ways to Make a Bad Situation Worse",
-        "link": "https://www.nationalreview.com/corner/nancy-pelosi-always-finding-ways-to-make-a-bad-situation-worse/"
+        "title": "Virus review: Relief bill remains stalled in negotiations; schools, sports face uncertainty",
+        "link": "https://newsadvance.com/news/national/virus-review-relief-bill-remains-stalled-in-negotiations-schools-sports-face-uncertainty/article_4d6cb548-fab4-58c6-921c-02ed514e2e51.html"
     },
     {
         "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
         "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     },
     {
-        "title": "Coronavirus: Melbourne police 'assaulted and baited' over lockdown rules",
-        "link": "https://www.bbc.com/news/world-australia-53645759"
+        "title": "Covid Supercharges Federal Reserve as Backup Lender to the World",
+        "link": "https://www.wsj.com/articles/fed-federal-reserve-jerome-powell-covid-coronavirus-dollar-lending-economy-foreign-currency-11596228151"
     },
     {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
+        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
+        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     }
 ];
