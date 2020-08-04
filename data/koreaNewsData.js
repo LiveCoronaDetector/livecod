@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200804056300530?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 34명 증가...해외 21명 중 미국 9명",
-        "link": "http://www.fnnews.com/news/202008041014497879"
-    },
-    {
         "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
@@ -21,8 +17,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
     },
     {
+        "title": "[종합] 코로나19 확진자 34명 증가...해외 21명 중 미국 9명",
+        "link": "http://www.fnnews.com/news/202008041014497879"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
+    },
+    {
+        "title": "청주 코로나 확진자 온천·당구장 방문…마스크 착용(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200804500055&wlog_tag3=naver"
+    },
+    {
+        "title": "코로나 신규 확진자 34명...나흘만에 다시 30명대",
+        "link": "http://www.hani.co.kr/arti/society/health/956372.html"
     },
     {
         "title": "WHO \"코로나, 특효약 없을 수도 있다\"",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보]코로나19 신규확진 34명…해외유입 21명, 지역 13명",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220080300136"
-    },
-    {
-        "title": "코로나 신규 확진자 국내발생 3명, 국외유입 20명",
-        "link": "http://www.hani.co.kr/arti/society/health/956213.html"
-    },
-    {
-        "title": "코로나19 어제 34명 신규 확진…국내 발생 13명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214160"
     }
 ];

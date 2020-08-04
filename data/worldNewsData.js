@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-middle-east-53598965"
     },
     {
-        "title": "Berlin protests against coronavirus rules divide German leaders",
-        "link": "https://www.theguardian.com/world/2020/aug/03/berlin-protests-against-coronavirus-rules-divide-german-leaders"
+        "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
     },
     {
         "title": "Coronavirus India live updates: cases, deaths and news",
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596501021_824594.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-04-20-intl/index.html"
+        "title": "Coronavirus live updates: Australia to deploy troops in Victoria to enforce isolation orders",
+        "link": "https://www.cnbc.com/2020/08/03/coronavirus-live-updates.html"
     },
     {
-        "title": "US enters 'new phase' of coronavirus pandemic l GMA",
-        "link": "https://www.youtube.com/watch?v=8OjXgF_kdtM"
-    },
-    {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+        "title": "Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her",
+        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
         "title": "Covid Supercharges Federal Reserve as Backup Lender to the World",
         "link": "https://www.wsj.com/articles/fed-federal-reserve-jerome-powell-covid-coronavirus-dollar-lending-economy-foreign-currency-11596228151"
     },
     {
-        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
-        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
+        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
+        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
+    },
+    {
+        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
+        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     }
 ];
