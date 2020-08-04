@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "5 things to know for August 4: Coronavirus, census, election, economy, Spain",
-        "link": "https://www.cnn.com/2020/08/04/us/five-things-august-4-trnd/index.html"
+        "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
     },
     {
         "title": "India's Narendra Modi to lay foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
-        "title": "NYC health commissioner resigns, citing de Blasio's handling of coronavirus pandemic",
-        "link": "https://www.foxnews.com/politics/nyc-health-commissioner-resigns-over-de-blasios-handling-of-coronavirus-pandemic-report"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-04-20-intl/index.html"
     },
     {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     },
     {
-        "title": "Coronavirus: Melbourne police 'assaulted and baited' over lockdown rules",
-        "link": "https://www.bbc.com/news/world-australia-53645759"
+        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
+        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     }
 ];

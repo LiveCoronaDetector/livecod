@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
     },
     {
-        "title": "12월 3일 수능, 확진자는 병원·격리자는 별도 장소서 시험",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020080419225504944"
-    },
-    {
         "title": "서울 코로나19 확진자 9명 늘어, 사망자는 12명",
         "link": "http://www.fnnews.com/news/202008041051528424"
     },
     {
         "title": "청주 코로나 확진자 온천·당구장 방문…마스크 착용(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200804500055&wlog_tag3=naver"
+    },
+    {
+        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
+        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
     }
 ];
