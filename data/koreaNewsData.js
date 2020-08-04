@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008041014497879"
     },
     {
-        "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
-        "link": "http://yna.kr/AKR20200804056300530?did=1195m"
-    },
-    {
-        "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5863838_32633.html"
-    },
-    {
-        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
-    },
-    {
-        "title": "청주서 외국인 3명 코로나19 확진…충북 확진자 76명↑(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200804_0001117533&cID=10806&pID=10800"
+        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
     },
     {
         "title": "[종합] 청주서 우즈베키스탄인 등 이틀새 7명 코로나19 확진",
         "link": "https://www.hankyung.com/society/article/2020080432367"
     },
     {
-        "title": "“코로나 양성 반응에 놀라 거짓말”… 결국 ‘7차감염’까지",
-        "link": "http://www.segye.com/content/html/2020/08/04/20200804514516.html?OutUrl=naver"
+        "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
+        "link": "http://yna.kr/AKR20200804056300530?did=1195m"
+    },
+    {
+        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
+    },
+    {
+        "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5863838_32633.html"
+    },
+    {
+        "title": "[속보]에티오피아서 입국한 30대 남성 코로나19 확진…영월 4번째",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220080300142"
+    },
+    {
+        "title": "청주서 외국인 7명 코로나19 무더기 확진…일부 종교행사 참석(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200804_0001118570&cID=10806&pID=10800"
     },
     {
         "title": "청주서 우즈베키스탄인 등 7명 코로나19 확진…방역비상(종합)",
         "link": "http://yna.kr/AKR20200804164452064?did=1195m"
     },
     {
-        "title": "WHO \"코로나, 특효약 없을 수도 있다\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/03/2020080303531.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
+        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
     }
 ];

@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
     },
     {
-        "title": "Coronavirus: UN warns of 'catastrophe' caused by school closures",
-        "link": "https://www.bbc.com/news/live/world-53591031"
+        "title": "India's Narendra Modi to lay foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-04-20-intl/index.html"
     },
     {
-        "title": "UN chief says COVID-19 has led to largest disruption to education in history",
-        "link": "https://www.youtube.com/watch?v=nqUbmvWuiHU"
+        "title": "US enters 'new phase' of coronavirus pandemic l GMA",
+        "link": "https://www.youtube.com/watch?v=8OjXgF_kdtM"
     },
     {
-        "title": "Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her",
-        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
+        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
+        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/04/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
+        "title": "Covid Supercharges Federal Reserve as Backup Lender to the World",
+        "link": "https://www.wsj.com/articles/fed-federal-reserve-jerome-powell-covid-coronavirus-dollar-lending-economy-foreign-currency-11596228151"
     },
     {
-        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
-        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
+        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
+        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
     }
 ];
