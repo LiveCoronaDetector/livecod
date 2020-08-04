@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5862874_32640.html"
     },
     {
-        "title": "세계 코로나 누적 확진자 1천800만명 넘어…첫 보고 후 7개월만",
-        "link": "http://yna.kr/AKR20200802021500009?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 사흘째 30명대…해외유입이 22명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4508147&ref=A"
     },
     {
         "title": "코로나19 신규 확진자 23명 中 지역발생 3명 87일만에 최저",
         "link": "http://www.dongascience.com/news/view/38671"
+    },
+    {
+        "title": "“홍천 캠핑장 확진자, 할리스커피 갔었다”… 연결고리 확인",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014872134&code=61121111&cp=nv"
     }
 ];
