@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/03/berlin-protests-against-coronavirus-rules-divide-german-leaders"
     },
     {
-        "title": "Covid-19 is taking elevator anxiety to the next level. This Indian tech company has a solution",
-        "link": "https://www.cnn.com/2020/08/03/business/india-touchless-elevator-buttons-hnk-spc-intl/index.html"
+        "title": "Coronavirus India live updates: cases, deaths and news",
+        "link": "https://en.as.com/en/2020/08/04/latest_news/1596501021_824594.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-04-20-intl/index.html"
     },
     {
-        "title": "Countries once praised for their handling of coronavirus are struggling to deal with new outbreaks",
-        "link": "https://www.cnn.com/2020/08/03/world/coronavirus-second-wave-resurgence-intl/index.html"
+        "title": "Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her",
+        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Virus review: Relief bill remains stalled in negotiations; schools, sports face uncertainty",
-        "link": "https://newsadvance.com/news/national/virus-review-relief-bill-remains-stalled-in-negotiations-schools-sports-face-uncertainty/article_4d6cb548-fab4-58c6-921c-02ed514e2e51.html"
+        "title": "One of the world’s ‘most livable’ cities just went into full lockdown mode as coronavirus cases spike",
+        "link": "https://www.marketwatch.com/story/one-of-the-worlds-most-livable-cities-just-went-into-full-lockdown-mode-as-coronavirus-cases-spike-2020-08-02"
     },
     {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
+        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     },
     {
         "title": "Covid Supercharges Federal Reserve as Backup Lender to the World",
