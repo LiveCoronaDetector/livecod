@@ -13,20 +13,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5863838_32633.html"
     },
     {
-        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
-        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 34명 증가...해외 21명 중 미국 9명",
-        "link": "http://www.fnnews.com/news/202008041014497879"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
     },
     {
-        "title": "청주 코로나 확진자 온천·당구장 방문…마스크 착용(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200804500055&wlog_tag3=naver"
+        "title": "[종합] 코로나19 확진자 34명 증가...해외 21명 중 미국 9명",
+        "link": "http://www.fnnews.com/news/202008041014497879"
     },
     {
         "title": "코로나 신규 확진자 34명...나흘만에 다시 30명대",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/03/2020080303531.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "[속보] 서울서 코로나19 확진자 6명 늘어…누계 1627명",
+        "link": "https://www.hankyung.com/society/article/2020080430307"
+    },
+    {
         "title": "[속보]코로나19 신규확진 34명…해외유입 21명, 지역 13명",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220080300136"
+    },
+    {
+        "title": "코로나 신규 확진자 국내발생 3명, 국외유입 20명",
+        "link": "http://www.hani.co.kr/arti/society/health/956213.html"
     }
 ];
