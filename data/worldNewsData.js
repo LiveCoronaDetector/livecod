@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
-        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
-    },
-    {
         "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
         "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     },
     {
-        "title": "Coronavirus: Melbourne police 'assaulted and baited' over lockdown rules",
-        "link": "https://www.bbc.com/news/world-australia-53645759"
+        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
+        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
+    },
+    {
+        "title": "Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her",
+        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     }
 ];

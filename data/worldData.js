@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 4873925,
-        "사망자수": 159385,
-        "완치자수": 2449120
+        "확진자수": 4875680,
+        "사망자수": 159408,
+        "완치자수": 2451260
     },
     {
         "Name": "브라질",
@@ -60,9 +60,9 @@ var marker = [
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "확진자수": 361493,
-        "사망자수": 9707,
-        "완치자수": 333976
+        "확진자수": 362962,
+        "사망자수": 9745,
+        "완치자수": 336330
     },
     {
         "Name": "스페인",
@@ -172,8 +172,8 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 117210,
-        "사망자수": 8951,
+        "확진자수": 117333,
+        "사망자수": 8953,
         "완치자수": 101839
     },
     {
@@ -337,20 +337,20 @@ var marker = [
         "완치자수": 47454
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "확진자수": 52365,
+        "사망자수": 2037,
+        "완치자수": 40285
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
         "확진자수": 51681,
         "사망자수": 1739,
         "완치자수": 37318
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "확진자수": 51542,
-        "사망자수": 2013,
-        "완치자수": 39346
     },
     {
         "Name": "폴란드",
@@ -916,9 +916,9 @@ var marker = [
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
-        "확진자수": 2670,
-        "사망자수": 87,
-        "완치자수": 2373
+        "확진자수": 2701,
+        "사망자수": 88,
+        "완치자수": 2382
     },
     {
         "Name": "Cabo Verde",
@@ -993,20 +993,20 @@ var marker = [
         "완치자수": 1937
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "확진자수": 2029,
+        "사망자수": 15,
+        "완치자수": 765
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
         "확진자수": 1981,
         "사망자수": 27,
         "완치자수": 803
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "확진자수": 1973,
-        "사망자수": 14,
-        "완치자수": 676
     },
     {
         "Name": "Iceland",
@@ -1465,20 +1465,20 @@ var marker = [
         "완치자수": 38
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 114,
+        "사망자수": 2,
+        "완치자수": 34
+    },
+    {
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
         "확진자수": 114,
         "사망자수": 0,
         "완치자수": 113
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 111,
-        "사망자수": 2,
-        "완치자수": 34
     },
     {
         "Name": "부탄",
