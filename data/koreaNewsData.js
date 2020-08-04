@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200804056300530?did=1195m"
     },
     {
-        "title": "난데없이 韓코로나통계 신빙성 걸고넘어진 트럼프 \"그건 모를일\"",
-        "link": "http://yna.kr/AKR20200805000500071?did=1195m"
+        "title": "트럼프 \"한국 코로나19 통계 날조 모를 일\"",
+        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5864448_32531.html"
     },
     {
         "title": "확진자는 병원서, 자가격리자는 별도 시험장서 수능 본다",
@@ -26,7 +26,7 @@ var koreaNewsData = [
     },
     {
         "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5863838_32633.html"
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005914500&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나 신규 확진자 34명...나흘만에 다시 30명대",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200804169400064?did=1195m"
     },
     {
-        "title": "서울 코로나19 확진자 9명 늘어, 사망자는 12명",
-        "link": "http://www.fnnews.com/news/202008041051528424"
+        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
+        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
     }
 ];
