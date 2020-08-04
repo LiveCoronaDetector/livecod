@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002663291&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
+        "title": "제주 내국인관광객 8월들어 코로나사태 이전 회복",
+        "link": "http://www.newsis.com/view/?id=NISX20200804_0001118046&cID=10813&pID=10800"
+    },
+    {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "용인 코로나19 확진자 전북도청 등 다녀가…5명 검사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4506742&ref=A"
-    },
-    {
-        "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
-        "link": "http://www.fnnews.com/news/202007210015021219"
     }
 ];
