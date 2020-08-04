@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
-    },
-    {
         "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
         "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     },
     {
         "title": "WHO director-general says there may never be coronavirus silver bullet - Business Insider",
         "link": "https://www.businessinsider.com/who-director-there-may-never-silver-bullet-coronavirus-2020-8"
+    },
+    {
+        "title": "Iran Deaths From Virus May Be Triple Official Tally, BBC Reports",
+        "link": "https://www.youtube.com/watch?v=Nfx5TjHLp88"
     }
 ];
