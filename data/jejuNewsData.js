@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
+        "title": "제주도醫 \"의료 4대악 철폐 강력히 요구한다!\"",
+        "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=135649"
+    },
+    {
         "title": "'휴가는 제주에서' 관광객 코로나 이전 넘어서",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/04/2020080401525.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 서울 광진구發 코로나19 감염 'n차'로 가나?",
         "link": "http://www.fnnews.com/news/202007210015021219"
-    },
-    {
-        "title": "제주도 코로나19 확진자 발생...제주대병원서 입원 치료",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200718500048&wlog_tag3=naver"
     }
 ];

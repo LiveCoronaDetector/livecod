@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/03/latest_news/1596431282_714799.html"
     },
     {
-        "title": "How the Pandemic Defeated America",
-        "link": "https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/"
+        "title": "Live updates: Trump turns against Birx as coronavirus cases rise in Midwest",
+        "link": "https://www.washingtonpost.com/nation/2020/08/04/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/03/berlin-protests-against-coronavirus-rules-divide-german-leaders"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/04/latest_news/1596501021_824594.html"
+        "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
+        "link": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html"
     },
     {
         "title": "Coronavirus live updates: Australia to deploy troops in Victoria to enforce isolation orders",
         "link": "https://www.cnbc.com/2020/08/03/coronavirus-live-updates.html"
     },
     {
-        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
-        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
-    },
-    {
         "title": "Coronavirus Live Updates",
         "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
-        "title": "A coronavirus vaccine won’t change the world right away",
-        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
+        "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
+        "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     },
     {
         "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
         "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+    },
+    {
+        "title": "A coronavirus vaccine won’t change the world right away",
+        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
     }
 ];
