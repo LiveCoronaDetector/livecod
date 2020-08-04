@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
     },
     {
-        "title": "How the Pandemic Defeated America",
-        "link": "https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/"
+        "title": "Coronavirus Live Updates: Vaccine Shows Promising Results in Two Studies, U.S. Company Novavax Says",
+        "link": "https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html"
     },
     {
         "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-04-20-intl/index.html"
+        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
+        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
-        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
+        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
+        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     },
     {
         "title": "WHO director-general says there may never be coronavirus silver bullet - Business Insider",
