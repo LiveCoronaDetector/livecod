@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/coronavirus-disaster-declared-melbourne-cases-surge-globally-n1235612"
     },
     {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
         "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
     },
     {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html"
     },
     {
         "title": "A coronavirus vaccine won’t change the world right away",
         "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
+    },
+    {
+        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
+        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     }
 ];

@@ -1486,7 +1486,7 @@ var marker = [
         "Name_en": "Bhutan",
         "확진자수": 103,
         "사망자수": 0,
-        "완치자수": 89
+        "완치자수": 90
     },
     {
         "Name": "Antigua and Barbuda",
