@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/"
     },
     {
-        "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
-        "link": "https://www.bbc.com/news/world-middle-east-53598965"
+        "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
+        "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
         "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
