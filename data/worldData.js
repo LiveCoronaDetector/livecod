@@ -140,7 +140,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 212320,
+        "확진자수": 212331,
         "사망자수": 9232,
         "완치자수": 194700
     },
@@ -966,7 +966,7 @@ var marker = [
         "Name_en": "Slovenia",
         "확진자수": 2190,
         "사망자수": 123,
-        "완치자수": 1831
+        "완치자수": 1854
     },
     {
         "Name": "Lithuania",
@@ -1012,7 +1012,7 @@ var marker = [
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "확진자수": 1915,
+        "확진자수": 1918,
         "사망자수": 10,
         "완치자수": 1825
     },
@@ -1129,20 +1129,20 @@ var marker = [
         "완치자수": 856
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 1153,
+        "사망자수": 53,
+        "완치자수": 947
+    },
+    {
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
         "확진자수": 1152,
         "사망자수": 69,
         "완치자수": 1032
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 1150,
-        "사망자수": 53,
-        "완치자수": 947
     },
     {
         "Name": "토고",
@@ -1241,20 +1241,20 @@ var marker = [
         "완치자수": 91
     },
     {
+        "Name": "베트남",
+        "Name_ch": "越南",
+        "Name_en": "Vietnam",
+        "확진자수": 670,
+        "사망자수": 8,
+        "완치자수": 374
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
         "확진자수": 667,
         "사망자수": 4,
         "완치자수": 592
-    },
-    {
-        "Name": "베트남",
-        "Name_ch": "越南",
-        "Name_en": "Vietnam",
-        "확진자수": 659,
-        "사망자수": 8,
-        "완치자수": 374
     },
     {
         "Name": "Channel Islands",

@@ -17,6 +17,14 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
     },
     {
+        "title": "코로나19 어제 34명 신규 확진…국내 발생 13명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214160"
+    },
+    {
+        "title": "청주서 외국인 3명 코로나19 확진…충북 76명으로 늘어(종합)",
+        "link": "http://yna.kr/AKR20200804021651064?did=1195m"
+    },
+    {
         "title": "코로나 신규 확진자 34명...나흘만에 다시 30명대",
         "link": "http://www.hani.co.kr/arti/society/health/956372.html"
     },
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008041014497879"
     },
     {
-        "title": "[속보] 서울 코로나19 확진자 6명 늘어…청주서도 7명 감염",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200804500182&wlog_tag3=naver"
-    },
-    {
         "title": "WHO \"코로나, 특효약 없을 수도 있다\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/03/2020080303531.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[속보]코로나19 신규확진 34명…해외유입 21명, 지역 13명",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220080300136"
-    },
-    {
-        "title": "코로나19 어제 34명 신규 확진…국내 발생 13명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214160"
     }
 ];
