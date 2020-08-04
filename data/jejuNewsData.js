@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
     },
     {
+        "title": "제주도의사회 \"의료 4대악(惡) 철폐 투쟁 최선 다할 것\"",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=127012"
+    },
+    {
         "title": "아이들은 학교에 부모는 '집콕' 코로나가 바꾼 여름휴가 신풍속",
         "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=769086"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "전북도청·완주군청, 용인 코로나19 확진자 방문 비상…5명 검사",
         "link": "http://yna.kr/AKR20200730138600055?did=1195m"
-    },
-    {
-        "title": "용인 코로나19 확진자 전북도청 등 다녀가…5명 검사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4506742&ref=A"
     }
 ];
