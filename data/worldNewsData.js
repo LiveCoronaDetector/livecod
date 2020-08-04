@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/03/latest_news/1596431282_714799.html"
     },
     {
-        "title": "Live updates: Fauci amplifies Birx’s warning about a ‘new phase’ of coronavirus spread in U.S.",
-        "link": "https://www.washingtonpost.com/nation/2020/08/03/coronavirus-covid-live-updates-us/"
+        "title": "How the Pandemic Defeated America",
+        "link": "https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/"
     },
     {
         "title": "Coronavirus: Iran cover-up of deaths revealed by data leak",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     },
     {
-        "title": "Coronavirus: Dozens test positive for Covid-19 on Norwegian cruise ship",
-        "link": "https://www.bbc.com/news/world-europe-53636854"
+        "title": "A coronavirus vaccine won’t change the world right away",
+        "link": "https://www.washingtonpost.com/health/2020/08/02/covid-vaccine/"
     }
 ];

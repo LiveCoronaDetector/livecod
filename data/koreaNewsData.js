@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
     {
-        "title": "청주서 외국인 3명 코로나19 확진…충북 확진자 76명↑(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200804_0001117533&cID=10806&pID=10800"
+        "title": "자가격리·확진자도 수능 본다…병원·별도시험장서 응시(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200804_0001117855&cID=10201&pID=10200"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
     },
     {
-        "title": "[속보]코로나19 신규확진 34명…해외유입 21명, 지역 13명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220080300136"
-    },
-    {
-        "title": "코로나19 어제 34명 신규 확진…국내 발생 13명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214160"
+        "title": "[속보] 코로나19 어제 34명 신규 확진…지역 발생 13명·해외유입 21명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005914395&plink=ORI&cooper=NAVER"
     },
     {
         "title": "WHO \"코로나19 특효약 없을 수도 있다\"",
         "link": "https://www.nocutnews.co.kr/news/5389065"
     },
     {
-        "title": "세인트루이스 코로나19 확진자 총 13명…디트로이트 4연전 취소",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005914121&plink=ORI&cooper=NAVER"
+        "title": "코로나19 신규 확진 34명…국내지역 감염 수도권 중심",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5863809_32633.html"
     },
     {
-        "title": "대구 지역감염 확진자 32일째 '0명'(전문)",
-        "link": "https://news.imaeil.com/Society/2020080410310040024"
+        "title": "청주서 외국인 3명 코로나19 확진…충북 76명으로 늘어(종합)",
+        "link": "http://yna.kr/AKR20200804021651064?did=1195m"
+    },
+    {
+        "title": "세인트루이스 확진자 13명으로 늘어…김광현은 건강",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/04/2020080490057.html"
     }
 ];
