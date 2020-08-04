@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
     {
-        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
     },
     {
-        "title": "청주 코로나19 6명 확진…이슬람종교 행사 참석(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5389713"
+        "title": "청주서 우즈벡 출신 등 7명 코로나 확진…방역비상",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014876470&code=61121111&cp=nv"
+    },
+    {
+        "title": "청주 확진자 6명, 이슬람 종교행사 참석… “지역사회 재전파 우려”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/04/2020080404434.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "12월 3일 수능, 확진자는 병원·격리자는 별도 장소서 시험",

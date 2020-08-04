@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "5 things to know for August 4: Coronavirus, census, election, economy, Spain",
-        "link": "https://www.cnn.com/2020/08/04/us/five-things-august-4-trnd/index.html"
+        "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
     },
     {
         "title": "India's Narendra Modi to lay foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
-        "title": "US enters 'new phase' of coronavirus pandemic l GMA",
-        "link": "https://www.youtube.com/watch?v=8OjXgF_kdtM"
-    },
-    {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/04/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
-    },
-    {
         "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",
         "link": "https://www.foxnews.com/health/no-silver-bullet-coronavirus-who"
+    },
+    {
+        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
+        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+    },
+    {
+        "title": "Coronavirus: Melbourne police 'assaulted and baited' over lockdown rules",
+        "link": "https://www.bbc.com/news/world-australia-53645759"
     }
 ];
