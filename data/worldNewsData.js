@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596501021_824594.html"
     },
     {
-        "title": "Coronavirus disaster declared in Melbourne as cases surge globally",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-disaster-declared-melbourne-cases-surge-globally-n1235612"
+        "title": "Coronavirus live updates: Australia to deploy troops in Victoria to enforce isolation orders",
+        "link": "https://www.cnbc.com/2020/08/03/coronavirus-live-updates.html"
     },
     {
         "title": "'No silver bullet' against coronavirus, warns World Health Organization chief",

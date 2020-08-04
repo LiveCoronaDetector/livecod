@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
     {
-        "title": "경남 코로나19 신규 확진자 2명 발생…총 160명",
-        "link": "https://www.pressian.com/pages/articles/2020080410521570824?utm_source=naver&utm_medium=search"
+        "title": "[속보]코로나19 신규확진 34명…해외유입 21명, 지역 13명",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220080300136"
+    },
+    {
+        "title": "자가격리·확진자도 수능 본다…병원·별도시험장서 응시(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200804_0001117855&cID=10201&pID=10200"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
     },
     {
-        "title": "코로나19 신규 확진 34명…국내지역 감염 수도권 중심",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5863809_32633.html"
+        "title": "대구 지역감염 확진자 32일째 '0명'(전문)",
+        "link": "https://news.imaeil.com/Society/2020080410310040024"
     },
     {
-        "title": "WHO \"코로나, 특효약 없을 수도 있다\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/03/2020080303531.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "코로나 신규 확진자 국내발생 3명, 국외유입 20명",
-        "link": "http://www.hani.co.kr/arti/society/health/956213.html"
-    },
-    {
-        "title": "코로나19 어제 34명 신규 확진…국내 발생 13명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214160"
+        "title": "청주 코로나 확진자 온천·당구장 방문…마스크 착용(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200804500055&wlog_tag3=naver"
     },
     {
         "title": "청주서 외국인 3명 코로나19 확진…충북 확진자 76명↑(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200804_0001117533&cID=10806&pID=10800"
+    },
+    {
+        "title": "WHO \"코로나, 특효약 없을 수도 있다\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/03/2020080303531.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
