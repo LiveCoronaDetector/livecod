@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "5 things to know for August 4: Coronavirus, census, election, economy, Spain",
-        "link": "https://www.cnn.com/2020/08/04/us/five-things-august-4-trnd/index.html"
+        "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/05/latest_news/1596583513_868721.html"
+        "title": "India's Narendra Modi to lay foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
         "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/08/03/covid-19-us-who-doctor-larry-brilliant/5574854002/"
     },
     {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+        "title": "Iran Deaths From Virus May Be Triple Official Tally, BBC Reports",
+        "link": "https://www.youtube.com/watch?v=Nfx5TjHLp88"
     }
 ];
