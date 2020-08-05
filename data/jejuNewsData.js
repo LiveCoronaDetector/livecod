@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
+        "title": "코로나19 위험에도 제주도 연수 떠나는 대구 서구의회 의원들",
+        "link": "https://www.yeongnam.com/web/view.php?key=20200805010000597"
+    },
+    {
         "title": "'휴가는 제주에서' 관광객 코로나 이전 넘어서",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/04/2020080401525.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "\"여행비용 증가, 소규모 여행 증가\"... 코로나19가 남긴 장벽",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002663291&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "전북도청·완주군청, 용인 코로나19 확진자 방문 비상…5명 검사",
-        "link": "http://yna.kr/AKR20200730138600055?did=1195m"
     }
 ];
