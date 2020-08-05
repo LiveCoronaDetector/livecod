@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
-        "title": "Spain sets post-lockdown record as coronavirus cases surge: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/australia-queensland-shuts-border-coronavirus-live-updates-200804233124069.html"
+        "title": "Welcome Back to Germany. Now Take Your Free Coronavirus Test.",
+        "link": "https://www.nytimes.com/2020/08/05/world/europe/germany-coronavirus-test-travelers.html"
     },
     {
         "title": "Israeli coronavirus delegation to India to return in coming days",
         "link": "https://www.jpost.com/israel-news/india-israel/israeli-coronavirus-delegation-to-india-to-return-in-coming-days-637575"
     },
     {
-        "title": "China's ambassador to US slams Trump for COVID-19 blame",
-        "link": "https://abcnews.go.com/Politics/chinas-ambassador-us-slams-trump-covid-19-blame/story?id=72187153"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
+        "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
         "title": "As it happened: Global deaths pass 700,000",
         "link": "https://www.bbc.com/news/live/world-53661262"
     },
     {
+        "title": "Dr. Anthony Fauci: There is 'a degree' of airborne spread of coronavirus",
+        "link": "https://www.youtube.com/watch?v=KqkRbqdB0MU"
+    },
+    {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "Coronavirus updates: Utah, US and world COVID-19 news",
-        "link": "https://www.ksl.com/article/50002842/coronavirus-updates-utah-us-and-world-covid-19-news"
+        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
+        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     }
 ];
