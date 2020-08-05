@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
+        "title": "Coronavirus updates: Global deaths surpass 700,000; CVS fills fewer prescriptions but weathers the quarter",
+        "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
+    },
+    {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
         "title": "24000 South African health workers contract COVID-19",
         "link": "https://africa.cgtn.com/2020/08/05/24000-south-african-health-workers-contract-covid-19/"
-    },
-    {
-        "title": "Coronavirus updates: Global deaths pass 700,000",
-        "link": "https://www.bbc.com/news/live/world-53661262"
     }
 ];
