@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/05/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
-    },
-    {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
+    },
+    {
+        "title": "Iran concealing accurate Covid-19 statistics, reveals leaked data",
+        "link": "https://www.middleeastmonitor.com/20200804-iran-concealing-accurate-covid-19-statistics-reveals-leaked-data/"
     }
 ];
