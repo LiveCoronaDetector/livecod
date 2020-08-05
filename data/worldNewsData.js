@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
     },
     {
-        "title": "Coronavirus economy: 'I'm just looking for whatever I can get'",
-        "link": "https://www.bbc.com/news/world-us-canada-53481112"
+        "title": "Live Coronavirus News Updates",
+        "link": "https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html"
     },
     {
         "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
-        "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
+        "title": "Australia's Queensland shuts border: Coronavirus live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/australia-queensland-shuts-border-coronavirus-live-updates-200804233124069.html"
     },
     {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
