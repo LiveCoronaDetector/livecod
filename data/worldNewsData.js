@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
     },
     {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html"
+        "title": "Coronavirus economy: 'I'm just looking for whatever I can get'",
+        "link": "https://www.bbc.com/news/world-us-canada-53481112"
     },
     {
         "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/08/03/covid-19-us-who-doctor-larry-brilliant/5574854002/"
     },
     {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+        "title": "U.S. Health Chief Azar to Visit Taiwan",
+        "link": "https://www.youtube.com/watch?v=R6006oqPzQQ"
     }
 ];

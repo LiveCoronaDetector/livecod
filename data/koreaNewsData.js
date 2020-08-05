@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "서울시 코로나19 확진자, 전일대비 6명 증가",
-        "link": "http://www.fnnews.com/news/202008051048143621"
+        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
     {
-        "title": "코로나19 신규 감염자 33명 늘어…커피점·이주노동자 종교행사서도 확진자 나...",
-        "link": "http://www.dongascience.com/news/view/38785"
+        "title": "코로나 신규 확진자 34명...나흘만에 다시 30명대",
+        "link": "http://www.hani.co.kr/arti/society/health/956372.html"
     }
 ];
