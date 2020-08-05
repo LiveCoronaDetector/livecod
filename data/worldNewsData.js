@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
-        "title": "Houston Hospitalizations Decline; NYC Checkpoints: Virus Update",
-        "link": "https://www.msn.com/en-us/money/markets/covid-deaths-top-700000-uk-vaccine-investment-virus-update/ar-BB17zooK?li=BBnb7Kz"
+        "title": "Spain sets post-lockdown record as coronavirus cases surge: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/australia-queensland-shuts-border-coronavirus-live-updates-200804233124069.html"
     },
     {
         "title": "Israeli coronavirus delegation to India to return in coming days",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/Politics/chinas-ambassador-us-slams-trump-covid-19-blame/story?id=72187153"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
+    },
+    {
         "title": "As it happened: Global deaths pass 700,000",
         "link": "https://www.bbc.com/news/live/world-53661262"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "Dr. Anthony Fauci: There is 'a degree' of airborne spread of coronavirus",
-        "link": "https://www.youtube.com/watch?v=KqkRbqdB0MU"
-    },
-    {
-        "title": "Australian state of Victoria reports 725 new COVID-19 cases",
-        "link": "https://www.youtube.com/watch?v=yuV3SeCGxNo"
+        "title": "Coronavirus updates: Utah, US and world COVID-19 news",
+        "link": "https://www.ksl.com/article/50002842/coronavirus-updates-utah-us-and-world-covid-19-news"
     }
 ];
