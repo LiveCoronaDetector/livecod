@@ -13,11 +13,15 @@ var jejuNewsData = [
         "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=135649"
     },
     {
+        "title": "제주도, 의료계 집단휴진 대비 비상진료대책 준비 돌입 ",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424132"
+    },
+    {
         "title": "밀려드는 피서객 ‘해운대發 코로나 뇌관 터질라’ 불안",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
-        "title": "코로나19 위험에도 제주도 연수 떠나는 대구 서구의회 의원들",
+        "title": "코로나19 위험에도 제주도 연수 떠나는 대구 서구의원들 '논란'",
         "link": "https://www.yeongnam.com/web/view.php?key=20200805010000597"
     },
     {
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "아이들은 학교에 부모는 '집콕' 코로나가 바꾼 여름휴가 신풍속",
         "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=769086"
-    },
-    {
-        "title": "\"여행비용 증가, 소규모 여행 증가\"... 코로나19가 남긴 장벽",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002663291&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
