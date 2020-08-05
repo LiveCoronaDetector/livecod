@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/05/latest_news/1596610211_723937.html"
     },
     {
-        "title": "Live updates: Trump administration sticks to school reopening plan as U.S. death toll exceeds 153,000",
+        "title": "Live updates: Trump insists virus ‘will go away like things go away’ as deaths surge, economy shudders",
         "link": "https://www.washingtonpost.com/nation/2020/08/05/coronavirus-covid-live-updates-us/"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
     },
     {
-        "title": "India's Narendra Modi lays foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
+        "title": "Israeli coronavirus delegation to India to return in coming days",
+        "link": "https://www.jpost.com/israel-news/india-israel/israeli-coronavirus-delegation-to-india-to-return-in-coming-days-637575"
     },
     {
         "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "Coronavirus updates: Global deaths surpass 700,000; CVS fills fewer prescriptions but weathers the quarter",
-        "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
-    },
-    {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "24000 South African health workers contract COVID-19",
-        "link": "https://africa.cgtn.com/2020/08/05/24000-south-african-health-workers-contract-covid-19/"
+        "title": "McConnell Signals Openness to Jobless Aid Extension",
+        "link": "https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html"
+    },
+    {
+        "title": "Coronavirus updates: J&J to develop 100 million vaccine doses for U.S.; global deaths surpass 700,000",
+        "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
     }
 ];
