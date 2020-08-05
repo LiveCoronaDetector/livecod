@@ -108,9 +108,9 @@ var marker = [
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "확진자수": 280461,
-        "사망자수": 5999,
-        "완치자수": 249397
+        "확진자수": 281136,
+        "사망자수": 6014,
+        "완치자수": 254286
     },
     {
         "Name": "이탈리아",
@@ -692,8 +692,8 @@ var marker = [
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "확진자수": 7511,
-        "사망자수": 166,
+        "확진자수": 7532,
+        "사망자수": 171,
         "완치자수": 4832
     },
     {
@@ -876,7 +876,7 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 3321,
+        "확진자수": 3328,
         "사망자수": 58,
         "완치자수": 3142
     },
@@ -1505,20 +1505,20 @@ var marker = [
         "완치자수": 85
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 72,
+        "사망자수": 2,
+        "완치자수": 31
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
         "확진자수": 64,
         "사망자수": 0,
         "완치자수": 62
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 57,
-        "사망자수": 2,
-        "완치자수": 30
     },
     {
         "Name": "St. Vincent Grenadines",
