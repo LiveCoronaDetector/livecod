@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008051021001&code=940601"
     },
     {
-        "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",
-        "link": "http://yna.kr/AKR20200805073700054?did=1195m"
-    },
-    {
         "title": "[종합] 코로나19 확진자 33명 증가...해외 18명 중 미국·우즈베키스탄 6명",
         "link": "http://www.fnnews.com/news/202008051017215297"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
     },
     {
-        "title": "트럼프, '한국 코로나 사망자 통계' 의문 제기｜아침& 지금",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11963078"
+        "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",
+        "link": "http://yna.kr/AKR20200805073700054?did=1195m"
     },
     {
-        "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
-        "link": "http://yna.kr/AKR20200804056300530?did=1195m"
+        "title": "트럼프, '한국 코로나 사망자 통계' 의문 제기｜아침& 지금",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11963078"
     },
     {
         "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
     },
     {
-        "title": "코로나 사면초가 트럼프, 한국 건드렸다 망신살",
-        "link": "https://www.pressian.com/pages/articles/2020080517481503467?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "순천시, 코로나 4번째 확진자 발생",
-        "link": "http://www.sportsseoul.com/news/read/943239?ref=naver"
+        "title": "순천시, 코로나19 '네 번째 확진자' 발생",
+        "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
     },
     {
         "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "올해 수능, 코로나19 확진자는 병원에서 치른다",
+        "link": "https://www.nocutnews.co.kr/news/5389326"
+    },
+    {
+        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     }
 ];

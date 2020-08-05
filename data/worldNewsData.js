@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/05/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus live news: Greece blames complacency for 'significant rise' in cases; global death toll passes 700,000",
+        "title": "Coronavirus live news: Spain sees highest daily cases since June; Greece blames complacency for infections rise",
         "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
-        "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
+        "title": "Pub in Spain bans popular sing-along song amid coronavirus fears: 'There will be no... touching hands'",
+        "link": "https://www.foxnews.com/food-drink/pub-spain-bans-sweet-caroline"
     },
     {
         "title": "Israeli coronavirus delegation to India to return in coming days",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
         "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
     },
     {
         "title": "Coronavirus updates: J&J to develop 100 million vaccine doses for U.S.; global deaths surpass 700,000",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "McConnell Signals Openness to Jobless Aid Extension",
         "link": "https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html"
+    },
+    {
+        "title": "South Africa reports decline in new COVID-19 cases but minister warns against complacency",
+        "link": "https://africa.cgtn.com/2020/08/05/south-africa-reports-decline-in-new-covid-19-cases-but-minister-warns-against-complacency/"
     }
 ];
