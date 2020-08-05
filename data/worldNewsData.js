@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "US announces 'highest level' visit in decades to Taiwan",
-        "link": "https://news.yahoo.com/us-announces-highest-level-visit-decades-taiwan-022201588.html"
+        "title": "Explainer: Europe's coronavirus smartphone contact tracing apps",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-europe-tech-explai/explainer-europes-coronavirus-smartphone-contact-tracing-apps-idUSKCN2510MX"
     },
     {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
