@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "Coronavirus live news: global death toll passes 700,000; French government warns 'do not lower your guard'",
-        "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
+        "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
     },
     {
         "title": "India's Narendra Modi lays foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "McConnell Signals Openness to Jobless Aid Extension",
-        "link": "https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html"
-    },
-    {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "Coronavirus infects 24,000 S.African health workers",
-        "link": "https://au.news.yahoo.com/coronavirus-infects-24-000-african-health-workers-064056084--spt.html"
+        "title": "South Africa sees dip in new virus cases but warns of return",
+        "link": "https://apnews.com/37d05178d734f7e16761404ef198fb31"
+    },
+    {
+        "title": "'We're in for a bad and rocky ride:' Ex-WHO doctor who helped eradicate smallpox predicts COVID-19 turmoil for years",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/03/covid-19-us-who-doctor-larry-brilliant/5574854002/"
     }
 ];
