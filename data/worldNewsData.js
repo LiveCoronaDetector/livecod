@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/05/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
-        "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
+        "title": "Coronavirus live news: Greece blames complacency for 'significant rise' in cases; global death toll passes 700,000",
+        "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
         "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "South Africa sees dip in new virus cases but warns of return",
-        "link": "https://apnews.com/37d05178d734f7e16761404ef198fb31"
+        "title": "24000 South African health workers contract COVID-19",
+        "link": "https://africa.cgtn.com/2020/08/05/24000-south-african-health-workers-contract-covid-19/"
     },
     {
-        "title": "'We're in for a bad and rocky ride:' Ex-WHO doctor who helped eradicate smallpox predicts COVID-19 turmoil for years",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/03/covid-19-us-who-doctor-larry-brilliant/5574854002/"
+        "title": "Coronavirus updates: Global deaths pass 700,000",
+        "link": "https://www.bbc.com/news/live/world-53661262"
     }
 ];
