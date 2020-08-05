@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
     },
     {
-        "title": "순천서 코로나19 네번째 확진자 발생…부산 157번 접촉 추정",
-        "link": "https://www.news1.kr/articles/?4016944"
-    },
-    {
         "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
     },
     {
-        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
-    },
-    {
         "title": "순천시, 코로나19 '네 번째 확진자' 발생",
         "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "\"빌게이츠 지원사격\" KT, 코로나19 감염위험도 측정 개발",
+        "link": "https://view.asiae.co.kr/article/2020080509045129633"
+    },
+    {
+        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     }
 ];
