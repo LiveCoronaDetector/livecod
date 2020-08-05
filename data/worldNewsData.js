@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
+        "link": "https://en.as.com/en/2020/08/05/latest_news/1596610211_723937.html"
     },
     {
         "title": "Live updates: Trump administration sticks to school reopening plan as U.S. death toll exceeds 153,000",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
-        "title": "Global coronavirus deaths exceed 700,000: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/australia-queensland-shuts-border-coronavirus-live-updates-200804233124069.html"
+        "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/05/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     },
     {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+        "title": "'We're in for a bad and rocky ride:' Ex-WHO doctor who helped eradicate smallpox predicts COVID-19 turmoil for years",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/03/covid-19-us-who-doctor-larry-brilliant/5574854002/"
     }
 ];

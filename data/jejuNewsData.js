@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/956543.html"
     },
     {
+        "title": "제주도, 의료계 집단휴진 대비 비상진료대책 준비 돌입 ",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424132"
+    },
+    {
         "title": "코로나19 확진자 다녀갔는데 등교하라고?…혼란에도 정부는 '나몰라라'",
         "link": "http://www.newspim.com/news/view/20200805000485"
     },
     {
         "title": "제주도醫 \"의료 4대악 철폐 강력히 요구한다!\"",
         "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=135649"
-    },
-    {
-        "title": "제주도, 의료계 집단휴진 대비 비상진료대책 준비 돌입 ",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424132"
     },
     {
         "title": "밀려드는 피서객 ‘해운대發 코로나 뇌관 터질라’ 불안",

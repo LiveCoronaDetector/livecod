@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200805073700054?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 33명···국내발생 15명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008051021001&code=940601"
-    },
-    {
         "title": "코로나19 신규 확진 33명…청주 우즈베크인 집단감염 비상",
         "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
     },
@@ -25,8 +21,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200804056300530?did=1195m"
     },
     {
-        "title": "순천시, 코로나19 '네 번째 확진자' 발생",
-        "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
+        "title": "‘코로나19’ 신규 확진 33명…국내 발생 15명·해외 유입 18명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
+    },
+    {
+        "title": "순천서 코로나19 네번째 확진자 발생…부산 157번 접촉 추정",
+        "link": "https://www.news1.kr/articles/?4016944"
     },
     {
         "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     },
     {
-        "title": "코로나 신규 확진자 34명...나흘만에 다시 30명대",
-        "link": "http://www.hani.co.kr/arti/society/health/956372.html"
+        "title": "순천시, 코로나19 '네 번째 확진자' 발생",
+        "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
     }
 ];
