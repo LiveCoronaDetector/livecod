@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200804169400064?did=1195m"
     },
     {
+        "title": "순천서 코로나19 네번째 확진자 발생…부산 157번 접촉 추정",
+        "link": "https://www.news1.kr/articles/?4016944"
+    },
+    {
         "title": "확진자는 병원·격리자는 별도 시험장서 수능 치른다",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924150387&code=11131300&cp=nv"
     },
     {
         "title": "프랑스, 코로나19 중환자 넉달만에 증가…\"가을 제2 확산 우려\"(종합)",
         "link": "http://yna.kr/AKR20200804168451085?did=1195m"
-    },
-    {
-        "title": "올해 수능, 코로나19 확진자는 병원에서 본다",
-        "link": "http://www.hani.co.kr/arti/society/schooling/956379.html"
     }
 ];
