@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/h_539c8c048e47a1beb3048d187cfd198e"
     },
     {
-        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
-        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
-    },
-    {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
+    },
+    {
+        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
+        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
         "title": "Iran concealing accurate Covid-19 statistics, reveals leaked data",
