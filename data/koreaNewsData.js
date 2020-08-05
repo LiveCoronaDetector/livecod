@@ -13,20 +13,16 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
     },
     {
-        "title": "난데없이 韓코로나통계 신빙성 걸고넘어진 트럼프 \"그건 모를일\"",
-        "link": "http://yna.kr/AKR20200805000500071?did=1195m"
+        "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "전남서 코로나19확진자 2명 발생",
-        "link": "http://www.honam.co.kr/detail/0kIA7d/610177"
+        "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",
+        "link": "http://yna.kr/AKR20200805073700054?did=1195m"
     },
     {
         "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
-    },
-    {
-        "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "순천시, 코로나19 '네 번째 확진자' 발생",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
+    },
+    {
+        "title": "\"빌게이츠 지원사격\" KT, 코로나19 감염위험도 측정 개발",
+        "link": "https://view.asiae.co.kr/article/2020080509045129633"
     }
 ];
