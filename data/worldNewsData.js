@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "5 things to know for August 4: Coronavirus, census, election, economy, Spain",
-        "link": "https://www.cnn.com/2020/08/04/us/five-things-august-4-trnd/index.html"
+        "title": "Coronavirus live news: US health secretary Azar to visit Taiwan as Europe faces second wave",
+        "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
-        "title": "India's Narendra Modi to lay foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
+        "title": "Coronavirus India live updates: cases, deaths and news",
+        "link": "https://en.as.com/en/2020/08/05/latest_news/1596583513_868721.html"
     },
     {
         "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
