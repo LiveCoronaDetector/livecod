@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
-        "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
+        "title": "24000 South African health workers contract COVID-19",
+        "link": "https://africa.cgtn.com/2020/08/05/24000-south-african-health-workers-contract-covid-19/"
     },
     {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
+    },
+    {
+        "title": "South Africa sees dip in new virus cases but warns of return",
+        "link": "https://apnews.com/37d05178d734f7e16761404ef198fb31"
     },
     {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",

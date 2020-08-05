@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "충북 청주에서 우즈벡인 코로나 19 집단감염 발생",
+        "link": "https://www.nocutnews.co.kr/news/5389872"
+    },
+    {
         "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
         "link": "http://yna.kr/AKR20200804056300530?did=1195m"
     },
     {
+        "title": "부산 확진자와 같이 식사한 40대 남성, 코로나19 양성",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002664292&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "당진시 브라질발 4번째 코로나 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020080514190547601?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
-    },
-    {
-        "title": "순천시, 코로나19 '네 번째 확진자' 발생",
-        "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "\"빌게이츠 지원사격\" KT, 코로나19 감염위험도 측정 개발",
-        "link": "https://view.asiae.co.kr/article/2020080509045129633"
-    },
-    {
-        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     }
 ];
