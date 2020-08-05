@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
+    },
+    {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
-    },
-    {
-        "title": "McConnell Signals Openness to Jobless Aid Extension",
-        "link": "https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html"
-    },
-    {
         "title": "Coronavirus updates: J&J to develop 100 million vaccine doses for U.S.; global deaths surpass 700,000",
         "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
+        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     }
 ];
