@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/956543.html"
     },
     {
+        "title": "코로나19 확진자 다녀갔는데 등교하라고?…혼란에도 정부는 '나몰라라'",
+        "link": "http://www.newspim.com/news/view/20200805000485"
+    },
+    {
         "title": "제주도醫 \"의료 4대악 철폐 강력히 요구한다!\"",
         "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=135649"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "전북도청·완주군청, 용인 코로나19 확진자 방문 비상…5명 검사",
         "link": "http://yna.kr/AKR20200730138600055?did=1195m"
-    },
-    {
-        "title": "용인 코로나19 확진자 전북도청 등 다녀가…5명 검사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4506742&ref=A"
     }
 ];

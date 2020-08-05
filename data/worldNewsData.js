@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
     },
     {
-        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
-        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
-    },
-    {
         "title": "Explainer: Europe's coronavirus smartphone contact tracing apps",
         "link": "https://www.reuters.com/article/us-health-coronavirus-europe-tech-explai/explainer-europes-coronavirus-smartphone-contact-tracing-apps-idUSKCN2510MX"
+    },
+    {
+        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
+        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
