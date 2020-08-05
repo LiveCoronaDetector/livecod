@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
-        "title": "Coronavirus India live updates: cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/05/latest_news/1596583513_868721.html"
+        "title": "India's Narendra Modi to lay foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
         "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",

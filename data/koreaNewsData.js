@@ -9,12 +9,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200805073700054?did=1195m"
     },
     {
-        "title": "코로나 확진 33명…지역발생 15명·해외유입 18명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/05/2020080501213.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
-        "link": "http://yna.kr/AKR20200804056300530?did=1195m"
+        "title": "[속보] 코로나19 신규 확진자 33명···국내발생 15명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008051021001&code=940601"
     },
     {
         "title": "코로나19 신규 확진 33명…청주 우즈베크인 집단감염 비상",
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "순천시, 코로나19 '네 번째 확진자' 발생",
-        "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
+        "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
+        "link": "http://yna.kr/AKR20200804056300530?did=1195m"
     },
     {
         "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
     },
     {
-        "title": "KT, AI로 코로나19 감염위험 측정",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374365"
+        "title": "순천시, 코로나19 '네 번째 확진자' 발생",
+        "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보] 서울 송파구 사랑교회 20번째 코로나19 확진자 발생",
-        "link": "https://www.hankyung.com/society/article/2020080550187"
+        "title": "서울시 코로나19 확진자, 전일대비 6명 증가",
+        "link": "http://www.fnnews.com/news/202008051048143621"
+    },
+    {
+        "title": "코로나19 신규 감염자 33명 늘어…커피점·이주노동자 종교행사서도 확진자 나...",
+        "link": "http://www.dongascience.com/news/view/38785"
     }
 ];
