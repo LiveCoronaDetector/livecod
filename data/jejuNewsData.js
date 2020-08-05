@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200730138600055?did=1195m"
     },
     {
-        "title": "제주 내국인관광객 8월들어 코로나사태 이전 회복",
-        "link": "http://www.newsis.com/view/?id=NISX20200804_0001118046&cID=10813&pID=10800"
+        "title": "용인 코로나19 확진자 전북도청 등 다녀가…5명 검사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4506742&ref=A"
     }
 ];

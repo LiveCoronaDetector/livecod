@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "Coronavirus live news: global death toll passes 700,000 as Europe faces second wave",
+        "title": "Coronavirus live news: global death toll passes 700,000 as top US official to visit Taiwan",
         "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
-        "title": "Australia's Queensland shuts border: Coronavirus live updates",
+        "title": "Global coronavirus deaths exceed 700,000: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/australia-queensland-shuts-border-coronavirus-live-updates-200804233124069.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "'We're in for a bad and rocky ride:' Ex-WHO doctor who helped eradicate smallpox predicts COVID-19 turmoil for years",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/03/covid-19-us-who-doctor-larry-brilliant/5574854002/"
+        "title": "US announces 'highest level' visit in decades to Taiwan",
+        "link": "https://news.yahoo.com/us-announces-highest-level-visit-decades-taiwan-022201588.html"
     }
 ];

@@ -13,12 +13,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200805073700054?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진 33명…청주 우즈베크인 집단감염 비상",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
-    },
-    {
-        "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "트럼프 \"한국 코로나19 통계 날조 모를 일\"",
+        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5864448_32531.html"
     },
     {
         "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
     },
     {
+        "title": "코로나19 어제 33명 신규확진…지역발생 15명, 해외유입 18명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214345"
+    },
+    {
         "title": "순천시, 코로나19 '네 번째 확진자' 발생",
         "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[코로나19]전남 순천서 네번째 확진자 발생",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=999116"
+        "title": "순천 4번째 코로나19 확진자, 부산 남구 거주자",
+        "link": "https://www.nocutnews.co.kr/news/5390085"
     },
     {
-        "title": "KT “AI로 코로나19 감염위험 측정”... 라이트펀드가 지원",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/05/2020080500610.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "당진시, 코로나19 확진자 추가 발생",
+        "link": "http://www.jbnews.com/news/articleView.html?idxno=1301440"
     }
 ];
