@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
-        "title": "Another 14K recovered from virus in La., nearly 1,500 new cases Wednesday",
-        "link": "https://www.wbrz.com/news/another-14k-recovered-from-virus-in-la-nearly-1-500-new-cases-wednesday/"
+        "title": "Houston Hospitalizations Decline; NYC Checkpoints: Virus Update",
+        "link": "https://www.msn.com/en-us/money/markets/covid-deaths-top-700000-uk-vaccine-investment-virus-update/ar-BB17zooK?li=BBnb7Kz"
     },
     {
         "title": "Israeli coronavirus delegation to India to return in coming days",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "Coronavirus updates: Utah, US and world COVID-19 news",
-        "link": "https://www.ksl.com/article/50002842/coronavirus-updates-utah-us-and-world-covid-19-news"
+        "title": "Dr. Anthony Fauci: There is 'a degree' of airborne spread of coronavirus",
+        "link": "https://www.youtube.com/watch?v=KqkRbqdB0MU"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/05/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
+        "title": "Australian state of Victoria reports 725 new COVID-19 cases",
+        "link": "https://www.youtube.com/watch?v=yuV3SeCGxNo"
     }
 ];
