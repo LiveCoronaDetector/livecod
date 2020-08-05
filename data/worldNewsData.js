@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/05/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus live news: Spain sees highest daily cases since June; Greece blames complacency for infections rise",
+        "title": "Coronavirus live news: France records two-month high in new cases; Spain sees highest daily infections since June",
         "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
-        "title": "Pub in Spain bans popular sing-along song amid coronavirus fears: 'There will be no... touching hands'",
-        "link": "https://www.foxnews.com/food-drink/pub-spain-bans-sweet-caroline"
+        "title": "Sweden's second-quarter GDP fall was its worst in modern history — but outperformed many in Europe",
+        "link": "https://www.cnbc.com/2020/08/05/sweden-coronavirus-record-gdp-fall-still-outperformed-some-in-europe.html"
     },
     {
         "title": "Israeli coronavirus delegation to India to return in coming days",
         "link": "https://www.jpost.com/israel-news/india-israel/israeli-coronavirus-delegation-to-india-to-return-in-coming-days-637575"
     },
     {
-        "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
+        "title": "China's ambassador to US slams Trump for COVID-19 blame",
+        "link": "https://abcnews.go.com/Politics/chinas-ambassador-us-slams-trump-covid-19-blame/story?id=72187153"
     },
     {
         "title": "Global coronavirus deaths exceed 700,000, one person dies every 15 seconds on average",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "Iran concealing accurate Covid-19 statistics, reveals leaked data",
-        "link": "https://www.middleeastmonitor.com/20200804-iran-concealing-accurate-covid-19-statistics-reveals-leaked-data/"
+        "title": "Global deaths surpass 700,000; Vietnam reports further rise of infections",
+        "link": "https://www.cnbc.com/2020/08/04/coronavirus-live-updates.html"
     }
 ];
