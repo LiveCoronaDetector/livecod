@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
+    },
+    {
+        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
+        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
         "title": "'We're in for a bad and rocky ride:' Ex-WHO doctor who helped eradicate smallpox predicts COVID-19 turmoil for years",

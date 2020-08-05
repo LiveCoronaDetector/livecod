@@ -17,6 +17,14 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
     },
     {
+        "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
+        "link": "http://yna.kr/AKR20200804056300530?did=1195m"
+    },
+    {
         "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
     },
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "KT “AI로 코로나19 감염위험 측정”... 라이트펀드가 지원",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/05/2020080500610.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[단독] 천안 114번째 확진자 발생",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=236366"
-    },
-    {
-        "title": "코로나 확진 33명…지역발생 15명·해외유입 18명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/05/2020080501213.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
