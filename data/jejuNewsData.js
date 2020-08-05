@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/04/2020080401525.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
-    },
-    {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
+    },
+    {
+        "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
     },
     {
         "title": "아이들은 학교에 부모는 '집콕' 코로나가 바꾼 여름휴가 신풍속",
