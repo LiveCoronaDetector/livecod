@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/05/latest_news/1596610211_723937.html"
     },
     {
-        "title": "Coronavirus economy: 'I'm just looking for whatever I can get'",
-        "link": "https://www.bbc.com/news/world-us-canada-53481112"
+        "title": "Live updates: Trump administration sticks to school reopening plan as U.S. death toll exceeds 153,000",
+        "link": "https://www.washingtonpost.com/nation/2020/08/05/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
-        "title": "24000 South African health workers contract COVID-19",
-        "link": "https://africa.cgtn.com/2020/08/05/24000-south-african-health-workers-contract-covid-19/"
+        "title": "Melbourne is a Case Study in Navigating a Second Wave of Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html"
     },
     {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "South Africa sees dip in new virus cases but warns of return",
-        "link": "https://apnews.com/37d05178d734f7e16761404ef198fb31"
+        "title": "McConnell Signals Openness to Jobless Aid Extension",
+        "link": "https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html"
     },
     {
         "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "'We're in for a bad and rocky ride:' Ex-WHO doctor who helped eradicate smallpox predicts COVID-19 turmoil for years",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/03/covid-19-us-who-doctor-larry-brilliant/5574854002/"
+        "title": "Coronavirus infects 24,000 S.African health workers",
+        "link": "https://au.news.yahoo.com/coronavirus-infects-24-000-african-health-workers-064056084--spt.html"
     }
 ];
