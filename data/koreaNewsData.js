@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008051017215297"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 33명···국내발생 15명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008051021001&code=940601"
-    },
-    {
         "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",
         "link": "http://yna.kr/AKR20200805073700054?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 33명···국내발생 15명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008051021001&code=940601"
     },
     {
         "title": "트럼프 \"한국 코로나19 통계 날조 모를 일\"",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
     },
     {
+        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
+    },
+    {
+        "title": "코로나 신규 확진자 34명...나흘만에 다시 30명대",
+        "link": "http://www.hani.co.kr/arti/society/health/956372.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 34명···지역 발생 13명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008041021001&code=940601"
+    },
+    {
         "title": "코로나19 어제 33명 신규확진…지역발생 15명, 해외유입 18명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214345"
-    },
-    {
-        "title": "순천시, 코로나19 '네 번째 확진자' 발생",
-        "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "순천 4번째 코로나19 확진자, 부산 남구 거주자",
-        "link": "https://www.nocutnews.co.kr/news/5390085"
-    },
-    {
-        "title": "당진시, 코로나19 확진자 추가 발생",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1301440"
     }
 ];

@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/australia-queensland-shuts-border-coronavirus-live-updates-200804233124069.html"
     },
     {
-        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
-        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
     },
     {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
+        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
+        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
         "title": "US announces 'highest level' visit in decades to Taiwan",
         "link": "https://news.yahoo.com/us-announces-highest-level-visit-decades-taiwan-022201588.html"
+    },
+    {
+        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
+        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     }
 ];
