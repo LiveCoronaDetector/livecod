@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/05/dr-fauci-agrees-the-us-has-the-worst-coronvirus-outbreak-in-the-world-the-numbers-dont-lie.html"
     },
     {
-        "title": "Coronavirus live news: Turkey sees over 1,000 new cases for second day in a row",
-        "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
+        "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
+        "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
         "title": "Welcome Back to Germany. Now Take Your Free Coronavirus Test.",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/india-israel/israeli-coronavirus-delegation-to-india-to-return-in-coming-days-637575"
     },
     {
-        "title": "China's ambassador to US slams Trump for COVID-19 blame",
-        "link": "https://abcnews.go.com/Politics/chinas-ambassador-us-slams-trump-covid-19-blame/story?id=72187153"
+        "title": "Coronavirus Leads Japan to Lock Borders, Shutting Out Foreign Workers",
+        "link": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html"
     },
     {
         "title": "Fauci says the length of time to get a Covid-19 test result is \"totally unacceptable\"",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/h_539c8c048e47a1beb3048d187cfd198e"
     },
     {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
-    },
-    {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
+    },
+    {
+        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
+        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
         "title": "Iran concealing accurate Covid-19 statistics, reveals leaked data",

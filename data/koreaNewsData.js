@@ -17,6 +17,14 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "日 코로나19 신규 확진 1351명…아이치현 긴급사태 선언",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
+    },
+    {
+        "title": "[전문] 양주시청 17번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374580"
+    },
+    {
         "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",
         "link": "http://yna.kr/AKR20200805073700054?did=1195m"
     },
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
     },
     {
-        "title": "日 코로나19 신규 확진 1351명…아이치현 긴급사태 선언",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
-    },
-    {
         "title": "순천시, 코로나19 '네 번째 확진자' 발생",
         "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
     },
     {
         "title": "올해 수능, 코로나19 확진자는 병원에서 치른다",
         "link": "https://www.nocutnews.co.kr/news/5389326"
-    },
-    {
-        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
     }
 ];
