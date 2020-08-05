@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
-        "title": "Spain sets post-lockdown record as coronavirus cases surge: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/australia-queensland-shuts-border-coronavirus-live-updates-200804233124069.html"
+        "title": "Welcome Back to Germany. Now Take Your Free Coronavirus Test.",
+        "link": "https://www.nytimes.com/2020/08/05/world/europe/germany-coronavirus-test-travelers.html"
     },
     {
         "title": "Israeli coronavirus delegation to India to return in coming days",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/Politics/chinas-ambassador-us-slams-trump-covid-19-blame/story?id=72187153"
     },
     {
-        "title": "Fauci Will 'Feel Good' About Using Coronavirus Vaccine If It's 50% Effective",
-        "link": "https://www.msn.com/en-us/news/us/fauci-will-feel-good-about-using-coronavirus-vaccine-if-it-s-50-effective/ar-BB17Bw1V?li=BBnbcA1"
+        "title": "Fauci says the length of time to get a Covid-19 test result is \"totally unacceptable\"",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/h_539c8c048e47a1beb3048d187cfd198e"
     },
     {
-        "title": "As it happened: Global deaths pass 700,000",
-        "link": "https://www.bbc.com/news/live/world-53661262"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
     },
     {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
