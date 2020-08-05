@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
     },
     {
-        "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "트럼프, '한국 코로나 사망자 통계' 의문 제기｜아침& 지금",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11963078"
     },
     {
         "title": "코로나 확진자 수능 병원서 치른다…자가격리자는 별도 시험장",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "당진시, 코로나19 확진자 추가 발생",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1301440"
+        "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "KT “AI로 코로나19 감염위험 측정”... 라이트펀드가 지원",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/05/2020080500610.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "\"빌게이츠 지원사격\" KT, 코로나19 감염위험도 측정 개발",
+        "link": "https://view.asiae.co.kr/article/2020080509045129633"
     }
 ];
