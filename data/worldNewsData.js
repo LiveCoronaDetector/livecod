@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
     },
     {
-        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
-        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
+        "title": "'We're in for a bad and rocky ride:' Ex-WHO doctor who helped eradicate smallpox predicts COVID-19 turmoil for years",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/03/covid-19-us-who-doctor-larry-brilliant/5574854002/"
     },
     {
-        "title": "Iran Deaths From Virus May Be Triple Official Tally, BBC Reports",
-        "link": "https://www.youtube.com/watch?v=Nfx5TjHLp88"
+        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
+        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     }
 ];
