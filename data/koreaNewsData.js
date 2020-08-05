@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=999116"
     },
     {
-        "title": "용인시, 코로나19 확진자 관련 정보 삭제 나선다",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002664465&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "코로나19 신규 확진 33명…청주 우즈베크인 집단감염 비상",
         "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
     },
     {
         "title": "KT “AI로 코로나19 감염위험 측정”... 라이트펀드가 지원",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/05/2020080500610.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "용인시, 코로나19 확진자 관련 정보 삭제 나선다",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002664465&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
