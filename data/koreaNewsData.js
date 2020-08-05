@@ -5,6 +5,26 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008051017215297"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 33명···국내발생 15명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008051021001&code=940601"
+    },
+    {
+        "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
+    },
+    {
+        "title": "전남 순천 코로나19 네번째 확진자 발생",
+        "link": "http://yna.kr/AKR20200805042900054?did=1195m"
+    },
+    {
+        "title": "[속보] 서울 송파구 사랑교회 20번째 코로나19 확진자 발생",
+        "link": "https://www.hankyung.com/society/article/2020080550187"
+    },
+    {
+        "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",
+        "link": "http://yna.kr/AKR20200805073700054?did=1195m"
+    },
+    {
         "title": "코로나 확진 33명…지역발생 15명·해외유입 18명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/05/2020080501213.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -13,31 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200804056300530?did=1195m"
     },
     {
-        "title": "[속보]코로나19 신규확진 33명…지역 15명·해외 18명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220080400131"
-    },
-    {
-        "title": "트럼프 \"한국 코로나19 통계 날조 모를 일\"",
-        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5864448_32531.html"
-    },
-    {
-        "title": "[속보]코로나19 어제 33명 신규확진…지역발생 15명, 해외유입 18명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214345"
-    },
-    {
-        "title": "LA 총영사관 긴급 폐쇄…직원 1명 코로나 확진자와 접촉",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000991776?division=NAVER"
-    },
-    {
-        "title": "순천시, 코로나19 '네 번째 확진자' 발생",
-        "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
-    },
-    {
         "title": "\"빌게이츠 지원사격\" KT, 코로나19 감염위험도 측정 개발",
         "link": "https://view.asiae.co.kr/article/2020080509045129633"
+    },
+    {
+        "title": "‘코로나19’ 신규 확진 33명…국내 발생 15명·해외 유입 18명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
     }
 ];

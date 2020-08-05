@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "Foreigners Living In US Shocked By Handling Of Coronavirus : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/04/898546374/it-s-a-disaster-german-expats-love-u-s-but-not-its-handling-of-coronavirus"
+        "title": "5 things to know for August 4: Coronavirus, census, election, economy, Spain",
+        "link": "https://www.cnn.com/2020/08/04/us/five-things-august-4-trnd/index.html"
     },
     {
         "title": "India's Narendra Modi to lay foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
