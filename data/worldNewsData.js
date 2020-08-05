@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/05/coronavirus-live-news-trump-pressed-on-false-death-rate-claim-as-europe-faces-second-wave"
     },
     {
-        "title": "Sweden's second-quarter GDP fall was its worst in modern history — but outperformed many in Europe",
-        "link": "https://www.cnbc.com/2020/08/05/sweden-coronavirus-record-gdp-fall-still-outperformed-some-in-europe.html"
+        "title": "Another 14K recovered from virus in La., nearly 1,500 new cases Wednesday",
+        "link": "https://www.wbrz.com/news/another-14k-recovered-from-virus-in-la-nearly-1-500-new-cases-wednesday/"
     },
     {
         "title": "Israeli coronavirus delegation to India to return in coming days",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/Politics/chinas-ambassador-us-slams-trump-covid-19-blame/story?id=72187153"
     },
     {
-        "title": "Global coronavirus deaths exceed 700,000, one person dies every 15 seconds on average",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-casualties/global-coronavirus-deaths-exceed-700000-one-person-dies-every-15-seconds-on-average-idUSKCN2510EN"
+        "title": "As it happened: Global deaths pass 700,000",
+        "link": "https://www.bbc.com/news/live/world-53661262"
     },
     {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
     },
     {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
+        "title": "Coronavirus updates: Utah, US and world COVID-19 news",
+        "link": "https://www.ksl.com/article/50002842/coronavirus-updates-utah-us-and-world-covid-19-news"
     },
     {
-        "title": "Global deaths surpass 700,000; Vietnam reports further rise of infections",
-        "link": "https://www.cnbc.com/2020/08/04/coronavirus-live-updates.html"
+        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/05/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     }
 ];
