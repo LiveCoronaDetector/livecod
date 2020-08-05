@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/08/03/covid-19-us-who-doctor-larry-brilliant/5574854002/"
     },
     {
-        "title": "Iran Deaths From Virus May Be Triple Official Tally, BBC Reports",
-        "link": "https://www.youtube.com/watch?v=Nfx5TjHLp88"
+        "title": "‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.",
+        "link": "https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html"
     }
 ];

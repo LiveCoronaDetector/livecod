@@ -228,9 +228,9 @@ var marker = [
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "확진자수": 81846,
-        "사망자수": 3228,
-        "완치자수": 24510
+        "확진자수": 83361,
+        "사망자수": 3320,
+        "완치자수": 25390
     },
     {
         "Name": "스웨덴",
@@ -1508,7 +1508,7 @@ var marker = [
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
-        "확진자수": 62,
+        "확진자수": 64,
         "사망자수": 0,
         "완치자수": 62
     },
