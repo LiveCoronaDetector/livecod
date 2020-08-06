@@ -814,7 +814,7 @@ var marker = [
         "Name_en": "Maldives",
         "확진자수": 4594,
         "사망자수": 19,
-        "완치자수": 2703
+        "완치자수": 2706
     },
     {
         "Name": "Libya",
@@ -836,9 +836,9 @@ var marker = [
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "확진자수": 4221,
-        "사망자수": 81,
-        "완치자수": 1238
+        "확진자수": 4339,
+        "사망자수": 84,
+        "완치자수": 1264
     },
     {
         "Name": "Nicaragua",
@@ -1374,7 +1374,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 243,
         "사망자수": 0,
-        "완치자수": 202
+        "완치자수": 210
     },
     {
         "Name": "Faeroe Islands",
