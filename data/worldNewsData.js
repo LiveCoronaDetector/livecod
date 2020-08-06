@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
     },
     {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
         "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
+    },
+    {
+        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
+        "link": "https://www.bbc.com/news/world-us-canada-53680761"
     },
     {
         "title": "Dr. Fauci says his daughters need security as family continues to get death threats",

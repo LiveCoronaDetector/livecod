@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080619222285817"
     },
     {
-        "title": "49일 만에 나타난 아베…코로나 답변 단 '7분'",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020080614011218784"
-    },
-    {
         "title": "韓입국 주한미군 장병·직원 6명 코로나 확진.. 누적 139명",
         "link": "http://www.fnnews.com/news/202008061903555407"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 33명···국내발생 15명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008051021001&code=940601"
     }
 ];
