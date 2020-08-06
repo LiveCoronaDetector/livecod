@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
-        "title": "세계 코로나 확진자 1900만명…日 신규확진자 사흘연속 1000명대(종합)",
-        "link": "https://view.asiae.co.kr/article/2020080620023885129"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 43명…지역발생 23명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008061013001&code=940601"
     },
     {
         "title": "[종합] 코로나19 확진자 43명 증가...지역 23명 중 경기 11명",
         "link": "http://www.fnnews.com/news/202008061021112417"
+    },
+    {
+        "title": "세계 코로나 확진자 1900만명…日 신규확진자 사흘연속 1000명대(종합)",
+        "link": "https://view.asiae.co.kr/article/2020080620023885129"
     },
     {
         "title": "[종합] 일본 코로나 신규확진 1500명 육박…연일 폭증중",
