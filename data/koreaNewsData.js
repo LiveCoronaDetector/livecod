@@ -5,24 +5,28 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 43명…지역발생 23명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008061013001&code=940601"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 43명…8일만에 40명대로",
-        "link": "http://www.hani.co.kr/arti/society/health/956688.html"
-    },
-    {
         "title": "코로나19 지역감염 증가…신규확진자 8일만에 40명대[종합]",
         "link": "https://www.hankyung.com/society/article/2020080690597"
     },
     {
-        "title": "[속보] 코로나 신규 43명 추가… 국내발생 23명·해외유입 20명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/08/06/2020080601603.html"
+        "title": "[속보]코로나19 신규확진 43명…지역발생 20명대로 증가",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214502"
+    },
+    {
+        "title": "日 코로나19 신규 확진 1351명…아이치현 긴급사태 선언",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 43명…지역발생 23명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008061013001&code=940601"
     },
     {
         "title": "‘코로나19’ 신규 확진 33명…국내 발생 15명·해외 유입 18명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
+    },
+    {
+        "title": "[2보] 고양서 7명 코로나19 확진…환자 가족·접촉자",
+        "link": "http://yna.kr/AKR20200806068800060?did=1195m"
     },
     {
         "title": "코로나19에도 영국인들을 웃게 만든 것",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진 33명…청주 우즈베크인 집단감염 비상",
         "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
-    },
-    {
-        "title": "'13초에 1명' 코로나19로 사망...쓰러지는 원주민",
-        "link": "https://www.ytn.co.kr/_ln/0104_202008060827485888"
     }
 ];

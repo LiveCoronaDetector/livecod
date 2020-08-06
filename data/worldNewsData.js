@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/h_539c8c048e47a1beb3048d187cfd198e"
+        "title": "'You don't need to either shut down completely, or \"let it rip\",' Dr. Anthony Fauci tells Reuters",
+        "link": "https://www.youtube.com/watch?v=Fvh61widsJQ"
+    },
+    {
+        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/05/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     },
     {
         "title": "Coronavirus economy: 'I'm just looking for whatever I can get'",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Italy Threatens to Ban Ryanair After Alleging Repeated Breaches of COVID-19 Regulations",
         "link": "https://www.paddleyourownkanoo.com/2020/08/05/italy-threatens-to-ban-ryanair-after-alleging-repeated-breaches-of-covid-19-regulations/"
-    },
-    {
-        "title": "Latin America now has world's highest coronavirus death toll",
-        "link": "https://www.nbcnews.com/news/latino/latin-america-now-has-world-s-highest-coronavirus-death-toll-n1235869"
     }
 ];
