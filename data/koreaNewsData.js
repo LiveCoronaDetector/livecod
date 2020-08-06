@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008061903555407"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 33명···국내발생 15명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008051021001&code=940601"
+        "title": "코로나19 어제 33명 신규확진…지역발생 15명, 해외유입 18명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214345"
     }
 ];
