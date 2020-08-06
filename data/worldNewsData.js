@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/08/05/899365887/charts-how-the-u-s-ranks-on-covid-19-deaths-per-capita-and-by-case-count"
     },
     {
-        "title": "Coronavirus vaccine race: Israel to begin human testing by October",
-        "link": "https://www.jpost.com/health-science/israels-biological-institute-to-begin-human-testing-of-coronavirus-vaccine-637673"
+        "title": "5 things to know for August 6: Coronavirus, Beirut, White House, stimulus, Turkey",
+        "link": "https://www.cnn.com/2020/08/06/us/five-things-august-6-trnd/index.html"
     },
     {
         "title": "Spain’s coronavirus cases have increased seen lockdown measures were eased in late June",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/north-korea-suspected-coronavirus-case-response"
     },
     {
-        "title": "Dr. Fauci says his daughters need security as family continues to get death threats",
-        "link": "https://www.cnbc.com/2020/08/05/dr-fauci-says-his-daughters-need-security-as-family-continues-to-get-death-threats.html"
+        "title": "Live Coronavirus News Updates",
+        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid-19.html"
     },
     {
-        "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
-        "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
+        "title": "US can get coronavirus levels 'way down' by Election Day in November, Fauci says",
+        "link": "https://www.cnn.com/2020/08/06/health/us-coronavirus-thursday/index.html"
     },
     {
         "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
         "link": "https://www.bbc.com/news/world-us-canada-53680761"
     },
     {
-        "title": "Employers Are Discriminating Against Mothers During the Coronavirus Pandemic",
-        "link": "https://www.nytimes.com/2020/08/06/opinion/mothers-discrimination-coronavirus.html"
+        "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
+        "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
     }
 ];
