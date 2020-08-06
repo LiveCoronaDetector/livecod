@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/h_539c8c048e47a1beb3048d187cfd198e"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/05/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
+        "title": "Latin America now has world's highest coronavirus death toll",
+        "link": "https://www.nbcnews.com/news/latino/latin-america-now-has-world-s-highest-coronavirus-death-toll-n1235869"
     },
     {
-        "title": "Coronavirus economy: 'I'm just looking for whatever I can get'",
-        "link": "https://www.bbc.com/news/world-us-canada-53481112"
+        "title": "Italy threatens to ban Ryanair over ‘violations’ of coronavirus rules",
+        "link": "https://www.scmp.com/news/world/europe/article/3096218/italy-threatens-ban-ryanair-over-repeated-violations-coronavirus"
     },
     {
-        "title": "France's daily COVID-19 cases highest since end-May",
-        "link": "https://uk.reuters.com/article/us-health-coronavirus-france-casualties/frances-daily-covid-19-cases-highest-since-end-may-idUKKCN2512PL"
+        "title": "Covid-19: 'Highly likely' France will see a second wave in autumn or winter",
+        "link": "https://www.youtube.com/watch?v=XlQdfYPt1o4"
     }
 ];
