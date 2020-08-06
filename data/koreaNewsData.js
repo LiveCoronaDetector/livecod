@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "충북 청주에서 우즈벡인 코로나 19 집단감염 발생",
+        "link": "https://www.nocutnews.co.kr/news/5389872"
+    },
+    {
         "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",
         "link": "http://yna.kr/AKR20200805073700054?did=1195m"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
     },
     {
-        "title": "순천시, 코로나19 '네 번째 확진자' 발생",
-        "link": "https://www.pressian.com/pages/articles/2020080510371234980?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "올해 수능, 코로나19 확진자는 병원에서 치른다",
-        "link": "https://www.nocutnews.co.kr/news/5389326"
+        "title": "'13초에 1명' 코로나19로 사망...쓰러지는 원주민",
+        "link": "https://www.ytn.co.kr/_ln/0104_202008060827485888"
     }
 ];

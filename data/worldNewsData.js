@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/05/world/europe/germany-coronavirus-test-travelers.html"
     },
     {
-        "title": "Israeli coronavirus delegation to India to return in coming days",
-        "link": "https://www.jpost.com/israel-news/india-israel/israeli-coronavirus-delegation-to-india-to-return-in-coming-days-637575"
+        "title": "India's Narendra Modi lays foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
     },
     {
         "title": "Coronavirus Leads Japan to Lock Borders, Shutting Out Foreign Workers",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
     },
     {
-        "title": "Latin America now has world's highest coronavirus death toll",
-        "link": "https://www.nbcnews.com/news/latino/latin-america-now-has-world-s-highest-coronavirus-death-toll-n1235869"
+        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/05/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     },
     {
-        "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
-        "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
+        "title": "Coronavirus economy: 'I'm just looking for whatever I can get'",
+        "link": "https://www.bbc.com/news/world-us-canada-53481112"
     }
 ];
