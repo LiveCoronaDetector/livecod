@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
+        "title": "고양·양주서 코로나19 환자 가족·동료 등 7명 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200806075200060?did=1195m"
+    },
+    {
         "title": "‘코로나19’ 신규 확진 33명…국내 발생 15명·해외 유입 18명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/06/2020080690041.html"
     },
     {
-        "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
-    },
-    {
-        "title": "고양·양주서 코로나19 환자 가족·동료 등 7명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200806075200060?did=1195m"
+        "title": "끊임없이 이어지는 러 코로나 선원 입항…어선원 2명 또 확진(종합)",
+        "link": "http://yna.kr/AKR20200806054551051?did=1195m"
     },
     {
         "title": "코로나19에도 영국인들을 웃게 만든 것",
         "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002619100016&ctcd=C07"
     },
     {
-        "title": "'13초에 1명' 코로나19로 사망...쓰러지는 원주민",
-        "link": "https://www.ytn.co.kr/_ln/0104_202008060827485888"
+        "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
     },
     {
-        "title": "코로나19 신규 43명 확진…국내 발생 23명으로 증가",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4510806&ref=A"
+        "title": "코로나19 신규확진 43명…수도권 16명·검역 6명",
+        "link": "https://news.imaeil.com/Society/2020080610211185239"
     }
 ];
