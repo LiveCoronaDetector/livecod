@@ -17,16 +17,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
-        "title": "창궐 더 심해졌다…전세계 코로나19 확진 1천900만명(종합)",
-        "link": "http://yna.kr/AKR20200806159951009?did=1195m"
+        "title": "일본 코로나 신규 확진 1천500명 육박…연일 폭증세(종합)",
+        "link": "http://yna.kr/AKR20200806159751073?did=1195m"
+    },
+    {
+        "title": "코로나19 ‘홍천 캠핑-강남 커피점-V빌딩’ 연관성은?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511199&ref=A"
     },
     {
         "title": "'동선 복잡하고 감염경로 깜깜이' 부산 170번 확진자가 심상찮다",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080619222285817"
     },
     {
-        "title": "일본 코로나 신규 확진 1천500명 육박…연일 폭증세(종합)",
-        "link": "http://yna.kr/AKR20200806159751073?did=1195m"
+        "title": "창궐 더 심해졌다…전세계 코로나19 확진 1천900만명(종합)",
+        "link": "http://yna.kr/AKR20200806159951009?did=1195m"
     },
     {
         "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 43명 신규 확진…해외유입 20명·지역발생 23명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/06/2020080690041.html"
-    },
-    {
-        "title": "코로나19 ‘홍천 캠핑-강남 커피점-V빌딩’ 연관성은?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511199&ref=A"
     }
 ];
