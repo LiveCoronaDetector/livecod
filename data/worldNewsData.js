@@ -2,15 +2,15 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
+        "link": "https://en.as.com/en/2020/08/06/latest_news/1596694972_025427.html"
     },
     {
         "title": "Coronavirus: Canada zoo struggles to return pandas to China",
         "link": "https://www.bbc.com/news/world-us-canada-53683567"
     },
     {
-        "title": "'Israel must drop to hundreds of daily coronavirus patients by September'",
-        "link": "https://www.jpost.com/health-science/gamzu-israel-coronavirus-infection-rate-among-highest-in-the-world-637676"
+        "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
+        "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
         "title": "Coronavirus global report: concern over German cases as holidays disrupt French testing",
