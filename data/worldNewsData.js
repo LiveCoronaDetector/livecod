@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/facebook-deletes-trump-post-coronavirus-misinformation-live-200806002303163.html"
     },
     {
-        "title": "Coronavirus Leads Japan to Lock Borders, Shutting Out Foreign Workers",
-        "link": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html"
+        "title": "North Korea ships massive aid supplies to city with coronavirus scare, despite still claiming no cases",
+        "link": "https://www.foxnews.com/world/north-korea-suspected-coronavirus-case-response"
     },
     {
         "title": "US can get coronavirus levels 'way down' by Election Day in November, Fauci says",
