@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
     },
     {
-        "title": "Model projects nearly 300,000 Americans could die from Covid-19 by December",
-        "link": "https://www.cnn.com/2020/08/06/health/us-coronavirus-thursday/index.html"
+        "title": "Coronavirus: Canada zoo struggles to return pandas to China",
+        "link": "https://www.bbc.com/news/world-us-canada-53683567"
     },
     {
         "title": "'Israel must drop to hundreds of daily coronavirus patients by September'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
     },
     {
+        "title": "Live Coronavirus News: Global Tracker",
+        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
+    },
+    {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
         "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
     },
     {
         "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
         "link": "https://www.bbc.com/news/world-us-canada-53680761"
-    },
-    {
-        "title": "Employers Are Discriminating Against Mothers During the Coronavirus Pandemic",
-        "link": "https://www.nytimes.com/2020/08/06/opinion/mothers-discrimination-coronavirus.html"
     }
 ];
