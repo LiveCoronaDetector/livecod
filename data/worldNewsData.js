@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/05/latest_news/1596610211_723937.html"
     },
     {
-        "title": "The U.S. has the worst coronavirus outbreak in the world: 'The numbers don't lie,' Dr. Fauci says",
-        "link": "https://www.cnbc.com/2020/08/05/dr-fauci-agrees-the-us-has-the-worst-coronvirus-outbreak-in-the-world-the-numbers-dont-lie.html"
+        "title": "COVID-19 Deaths In The US: How We Compare With Other Countries : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/05/899365887/charts-how-the-u-s-ranks-on-covid-19-deaths-per-capita-and-by-case-count"
     },
     {
         "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.newsweek.com/fauci-will-feel-good-about-using-coronavirus-vaccine-if-its-50-effective-1523086"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus live updates: NYC setting quarantine checkpoints, J&J producing 100 million vaccine doses for U.S.",
         "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus economy: 'I'm just looking for whatever I can get'",
         "link": "https://www.bbc.com/news/world-us-canada-53481112"
-    },
-    {
-        "title": "Italy Threatens to Ban Ryanair After Alleging Repeated Breaches of COVID-19 Regulations",
-        "link": "https://www.paddleyourownkanoo.com/2020/08/05/italy-threatens-to-ban-ryanair-after-alleging-repeated-breaches-of-covid-19-regulations/"
     }
 ];
