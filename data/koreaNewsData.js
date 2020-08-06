@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
     },
     {
+        "title": "[전문] 수원시청 113번째 확진자 발생...화성시 동탄3동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374650"
+    },
+    {
         "title": "코로나19에도 영국인들을 웃게 만든 것",
         "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002619100016&ctcd=C07"
     },
     {
         "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
         "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
-    },
-    {
-        "title": "[전문] 수원시청 113번째 확진자 발생...화성시 동탄3동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374650"
     }
 ];
