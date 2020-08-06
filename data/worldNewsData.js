@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-06-20-intl/index.html"
     },
     {
-        "title": "Fauci says US has suffered from pandemic 'as much or worse than anyone'",
-        "link": "https://www.cnn.com/2020/08/05/politics/anthony-fauci-coronavirus-us-worse-cnntv/index.html"
-    },
-    {
-        "title": "Health workers in South Africa massively affected by Covid 19",
-        "link": "https://www.youtube.com/watch?v=rOsl_TjwfA8"
+        "title": "Fauci Reveals He Has Received Death Threats And His Daughters Have Been Harassed",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/05/899415906/fauci-reveals-he-has-received-death-threats-and-his-daughters-have-been-harassed?ft=nprml&f"
     },
     {
         "title": "France's daily COVID-19 cases highest since end-May",
         "link": "https://uk.reuters.com/article/us-health-coronavirus-france-casualties/frances-daily-covid-19-cases-highest-since-end-may-idUKKCN2512PL"
+    },
+    {
+        "title": "Coronavirus live updates: NYC setting quarantine checkpoints, J&J producing 100 million vaccine doses for U.S.",
+        "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
     }
 ];

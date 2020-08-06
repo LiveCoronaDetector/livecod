@@ -21,16 +21,16 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
-        "title": "코로나19 위험에도 제주도 연수 떠나는 대구 서구의원들 '논란'",
-        "link": "https://www.yeongnam.com/web/view.php?key=20200805010000597"
-    },
-    {
         "title": "'휴가는 제주에서' 관광객 코로나 이전 넘어서",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/04/2020080401525.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
+    },
+    {
+        "title": "코로나19 위험에도 제주도 연수 떠나는 대구 서구의회 의원들...대구 다른 기...",
+        "link": "https://www.yeongnam.com/web/view.php?key=20200805010000597"
     },
     {
         "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
