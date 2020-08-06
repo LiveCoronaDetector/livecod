@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/05/latest_news/1596610211_723937.html"
+        "link": "https://en.as.com/en/2020/08/06/latest_news/1596694972_025427.html"
     },
     {
         "title": "Live updates: Trump says he may act alone if Congress can’t reach deal on new coronavirus stimulus package",

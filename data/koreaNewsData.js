@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008061013001&code=940601"
     },
     {
-        "title": "[종합] 코로나19 확진자 43명 발생...고양 기쁨153교회 7명 등 수도권 급증",
-        "link": "http://www.fnnews.com/news/202008061425239900"
-    },
-    {
         "title": "코로나19 신규확진 43명…지역발생 20명대로 증가",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214502"
-    },
-    {
-        "title": "고양·양주서 코로나19 환자 가족·동료 등 7명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200806075200060?did=1195m"
     },
     {
         "title": "‘코로나19’ 신규 확진 33명…국내 발생 15명·해외 유입 18명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
     },
     {
-        "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
-    },
-    {
         "title": "日 코로나19 신규 확진 1351명…아이치현 긴급사태 선언",
         "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
     },
     {
+        "title": "고양·양주서 코로나19 환자 가족·동료 등 7명 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200806075200060?did=1195m"
+    },
+    {
+        "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
+    },
+    {
         "title": "끊임없이 이어지는 러 코로나 선원 입항…어선원 2명 또 확진(종합)",
         "link": "http://yna.kr/AKR20200806054551051?did=1195m"
+    },
+    {
+        "title": "코로나에 전국 시·도 서비스업 직격탄…제주 소매판매 28%↓",
+        "link": "http://yna.kr/AKR20200806060100002?did=1195m"
     }
 ];
