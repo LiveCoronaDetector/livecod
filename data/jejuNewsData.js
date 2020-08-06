@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
     },
     {
-        "title": "아이들은 학교에 부모는 '집콕' 코로나가 바꾼 여름휴가 신풍속",
-        "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=769086"
+        "title": "전북관광, 코로나19 이후까지 내다보며 준비하자",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=315246"
     }
 ];
