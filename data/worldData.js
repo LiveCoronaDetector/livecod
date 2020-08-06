@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5009085,
-        "사망자수": 162272,
-        "완치자수": 2554263
+        "확진자수": 5013047,
+        "사망자수": 162299,
+        "완치자수": 2558629
     },
     {
         "Name": "브라질",
@@ -148,7 +148,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 215153,
+        "확진자수": 215210,
         "사망자수": 9252,
         "완치자수": 196200
     },
@@ -572,9 +572,9 @@ var marker = [
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "확진자수": 16349,
+        "확진자수": 16447,
         "사망자수": 103,
-        "완치자수": 12191
+        "완치자수": 12484
     },
     {
         "Name": "덴마크",
@@ -668,9 +668,9 @@ var marker = [
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "확진자수": 8069,
+        "확진자수": 8127,
         "사망자수": 47,
-        "완치자수": 7075
+        "완치자수": 7240
     },
     {
         "Name": "Gabon",
@@ -1052,9 +1052,9 @@ var marker = [
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
-        "확진자수": 1601,
+        "확진자수": 1642,
         "사망자수": 51,
-        "완치자수": 1233
+        "완치자수": 1241
     },
     {
         "Name": "New Zealand",
@@ -1297,20 +1297,20 @@ var marker = [
         "완치자수": 443
     },
     {
+        "Name": "Comoros",
+        "Name_ch": "",
+        "Name_en": "Comoros",
+        "확진자수": 396,
+        "사망자수": 7,
+        "완치자수": 340
+    },
+    {
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
         "확진자수": 395,
         "사망자수": 1,
         "완치자수": 304
-    },
-    {
-        "Name": "Comoros",
-        "Name_ch": "",
-        "Name_en": "Comoros",
-        "확진자수": 388,
-        "사망자수": 7,
-        "완치자수": 340
     },
     {
         "Name": "Myanmar",
@@ -1377,6 +1377,14 @@ var marker = [
         "완치자수": 192
     },
     {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+        "확진자수": 263,
+        "사망자수": 3,
+        "완치자수": 114
+    },
+    {
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
@@ -1407,14 +1415,6 @@ var marker = [
         "확진자수": 190,
         "사망자수": 0,
         "완치자수": 184
-    },
-    {
-        "Name": "Aruba",
-        "Name_ch": "",
-        "Name_en": "Aruba",
-        "확진자수": 171,
-        "사망자수": 3,
-        "완치자수": 112
     },
     {
         "Name": "Papua New Guinea",
