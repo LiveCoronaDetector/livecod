@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
     },
     {
-        "title": "세계 코로나 확진자 1900만명…日 신규확진자 사흘연속 1000명대(종합)",
-        "link": "https://view.asiae.co.kr/article/2020080620023885129"
-    },
-    {
         "title": "코로나19 어제 43명 신규 확진…해외유입 20명·지역발생 23명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/06/2020080690041.html"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "韓입국 주한미군 장병·직원 6명 코로나 확진.. 누적 139명",
         "link": "http://www.fnnews.com/news/202008061903555407"
+    },
+    {
+        "title": "코로나19 어제 33명 신규확진…지역발생 15명, 해외유입 18명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214345"
     }
 ];
