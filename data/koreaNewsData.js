@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008061013001&code=940601"
     },
     {
+        "title": "세계 코로나19 누적 확진자 1900만명 돌파 (상보)",
+        "link": "https://view.asiae.co.kr/article/2020080619463937679"
+    },
+    {
         "title": "[종합] 코로나19 확진자 43명 증가...지역 23명 중 경기 11명",
         "link": "http://www.fnnews.com/news/202008061021112417"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200806075200060?did=1195m"
     },
     {
-        "title": "‘코로나19’ 신규 확진 33명…국내 발생 15명·해외 유입 18명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
+        "title": "코로나發 2분기 전국16개 시·도 서비스업 생산 모두 급감",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200806000710"
     },
     {
-        "title": "코로나19 어제 43명 신규 확진…해외유입 20명·지역발생 23명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/06/2020080690041.html"
+        "title": "코로나19 신규 확진 43명...국내발생 23명으로 더 많아",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008061219507560"
+    },
+    {
+        "title": "49일 만에 나타난 아베…코로나 답변 단 '7분'",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020080614011218784"
     },
     {
         "title": "끊임없이 이어지는 러 코로나 선원 입항…어선원 2명 또 확진(종합)",
         "link": "http://yna.kr/AKR20200806054551051?did=1195m"
     },
     {
-        "title": "코로나19에도 영국인들을 웃게 만든 것",
-        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002619100016&ctcd=C07"
-    },
-    {
-        "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
-    },
-    {
-        "title": "코로나19 신규확진 43명…수도권 16명·검역 6명",
-        "link": "https://news.imaeil.com/Society/2020080610211185239"
+        "title": "‘코로나19’ 신규 확진 33명…국내 발생 15명·해외 유입 18명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
     }
 ];
