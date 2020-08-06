@@ -1457,6 +1457,14 @@ var marker = [
         "완치자수": 100
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 129,
+        "사망자수": 2,
+        "완치자수": 39
+    },
+    {
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
@@ -1471,14 +1479,6 @@ var marker = [
         "확진자수": 125,
         "사망자수": 4,
         "완치자수": 105
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 116,
-        "사망자수": 2,
-        "완치자수": 38
     },
     {
         "Name": "부탄",

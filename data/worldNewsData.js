@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "Welcome Back to Germany. Now Take Your Free Coronavirus Test.",
-        "link": "https://www.nytimes.com/2020/08/05/world/europe/germany-coronavirus-test-travelers.html"
+        "title": "Spain’s coronavirus cases have increased seen lockdown measures were eased in late June",
+        "link": "https://www.foxnews.com/world/spain-coronavirus-cases-increase-lockdown-ease-june"
     },
     {
         "title": "Israeli coronavirus delegation to India to return in coming days",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/h_539c8c048e47a1beb3048d187cfd198e"
     },
     {
+        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/05/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
+    },
+    {
         "title": "Coronavirus economy: 'I'm just looking for whatever I can get'",
         "link": "https://www.bbc.com/news/world-us-canada-53481112"
     },
     {
-        "title": "Italy Threatens to Ban Ryanair After Alleging Repeated Breaches of COVID-19 Regulations",
-        "link": "https://www.paddleyourownkanoo.com/2020/08/05/italy-threatens-to-ban-ryanair-after-alleging-repeated-breaches-of-covid-19-regulations/"
-    },
-    {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
+        "title": "France's daily COVID-19 cases highest since end-May",
+        "link": "https://uk.reuters.com/article/us-health-coronavirus-france-casualties/frances-daily-covid-19-cases-highest-since-end-may-idUKKCN2512PL"
     }
 ];
