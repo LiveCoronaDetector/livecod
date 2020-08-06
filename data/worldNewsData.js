@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-06-20-intl/index.html"
-    },
-    {
         "title": "The world may never eradicate coronavirus, but it can get it under control, Fauci says",
         "link": "https://www.cnn.com/2020/08/06/health/us-coronavirus-thursday/index.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus live updates: NYC setting quarantine checkpoints, J&J producing 100 million vaccine doses for U.S.",
         "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Latin America now has world's highest coronavirus death toll",
+        "link": "https://www.nbcnews.com/news/latino/latin-america-now-has-world-s-highest-coronavirus-death-toll-n1235869"
     }
 ];
