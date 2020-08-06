@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/facebook-deletes-trump-post-coronavirus-misinformation-live-200806002303163.html"
     },
     {
-        "title": "Carter Stewart ditched the MLB draft to pitch in Japan; then came the coronavirus",
-        "link": "https://www.espn.com/mlb/story/_/id/29599460/carter-stewart-ditched-mlb-draft-pitch-japan-came-coronavirus"
+        "title": "North Korea ships massive aid supplies to city with coronavirus scare, despite still claiming no cases",
+        "link": "https://www.foxnews.com/world/north-korea-suspected-coronavirus-case-response"
     },
     {
         "title": "Dr. Fauci says his daughters need security as family continues to get death threats",
         "link": "https://www.cnbc.com/2020/08/05/dr-fauci-says-his-daughters-need-security-as-family-continues-to-get-death-threats.html"
     },
     {
-        "title": "Employers Are Discriminating Against Mothers During the Coronavirus Pandemic",
-        "link": "https://www.nytimes.com/2020/08/06/opinion/mothers-discrimination-coronavirus.html"
+        "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
+        "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
     },
     {
         "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
         "link": "https://www.bbc.com/news/world-us-canada-53680761"
     },
     {
-        "title": "Germany fights virus uptick with mandatory testing for travellers",
-        "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
+        "title": "Employers Are Discriminating Against Mothers During the Coronavirus Pandemic",
+        "link": "https://www.nytimes.com/2020/08/06/opinion/mothers-discrimination-coronavirus.html"
     }
 ];
