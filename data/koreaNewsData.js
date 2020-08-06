@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
-        "title": "[종합] 코로나19 확진자 43명 증가...지역 23명 중 경기 11명",
-        "link": "http://www.fnnews.com/news/202008061021112417"
+        "title": "[속보] 코로나19 신규 확진자 33명···국내발생 15명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008051021001&code=940601"
     },
     {
-        "title": "코로나19 신규확진 43명…수도권 16명·검역 6명",
-        "link": "https://news.imaeil.com/Society/2020080610211185239"
+        "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",
+        "link": "http://yna.kr/AKR20200805073700054?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 43명…지역발생 23명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008061013001&code=940601"
+        "title": "[종합] 코로나19 확진자 33명 증가...해외 18명 중 미국·우즈베키스탄 6명",
+        "link": "http://www.fnnews.com/news/202008051017215297"
     },
     {
-        "title": "독일 코로나19 하루 신규 확진자, 3개월만에 1천명 넘어서(종합)",
-        "link": "http://yna.kr/AKR20200806158251082?did=1195m"
+        "title": "코로나19 신규 확진 33명…청주 우즈베크인 집단감염 비상",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
     },
     {
-        "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
+        "title": "코로나19 신규 43명 확진…국내 발생 23명으로 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4510806&ref=A"
     },
     {
-        "title": "코로나19 어제 43명 신규 확진…해외유입 20명·지역발생 23명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/06/2020080690041.html"
+        "title": "[속보] 코로나 신규 43명 추가… 국내발생 23명·해외유입 20명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/08/06/2020080601603.html"
     },
     {
-        "title": "코로나19 ‘홍천 캠핑-강남 커피점-V빌딩’ 연관성은?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511199&ref=A"
+        "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "'동선 복잡하고 감염경로 깜깜이' 부산 170번 확진자가 심상찮다",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020080619222285817"
+        "title": "경남에서 코로나19 확진자 3명 추가 발생…누적 163명으로 늘어",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020080510142556343"
     },
     {
-        "title": "韓입국 주한미군 장병·직원 6명 코로나 확진.. 누적 139명",
-        "link": "http://www.fnnews.com/news/202008061903555407"
+        "title": "고양서 일가족 5명 등 7명 코로나19 집단 감염",
+        "link": "http://www.hani.co.kr/arti/area/capital/956707.html"
     }
 ];

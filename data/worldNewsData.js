@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/04/latest_news/1596518063_767012.html"
     },
     {
-        "title": "Coronavirus: Canada zoo struggles to return pandas to China",
-        "link": "https://www.bbc.com/news/world-us-canada-53683567"
+        "title": "Model projects nearly 300,000 Americans could die from Covid-19 by December",
+        "link": "https://www.cnn.com/2020/08/06/health/us-coronavirus-thursday/index.html"
     },
     {
         "title": "'Israel must drop to hundreds of daily coronavirus patients by September'",
