@@ -13,11 +13,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "Spain’s coronavirus cases have increased seen lockdown measures were eased in late June",
-        "link": "https://www.foxnews.com/world/spain-coronavirus-cases-increase-lockdown-ease-june"
+        "title": "Coronavirus: France records two-month high in cases",
+        "link": "https://www.bbc.com/news/world-europe-53672991"
     },
     {
-        "title": "India reports biggest number of coronavirus deaths: Live updates",
+        "title": "LIVE: Philippines records most coronavirus cases in East Asia",
         "link": "https://www.aljazeera.com/news/2020/08/facebook-deletes-trump-post-coronavirus-misinformation-live-200806002303163.html"
     },
     {
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-06-20-intl/index.html"
+        "title": "August 5 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/h_539c8c048e47a1beb3048d187cfd198e"
     },
     {
         "title": "Postal Service Funding Dispute Complicates Impasse Over U.S. Virus Stimulus",

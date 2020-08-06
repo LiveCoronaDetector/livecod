@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
+        "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
+    },
+    {
         "title": "韓입국 주한미군 장병·직원 6명 코로나 확진.. 누적 139명",
         "link": "http://www.fnnews.com/news/202008061903555407"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/06/2020080690041.html"
     },
     {
-        "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
-    },
-    {
-        "title": "고양·양주서 코로나19 환자 가족·동료 등 7명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200806075200060?did=1195m"
+        "title": "日 코로나19 신규 확진 1351명…아이치현 긴급사태 선언",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
     }
 ];
