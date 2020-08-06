@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/05/world/europe/germany-coronavirus-test-travelers.html"
     },
     {
-        "title": "India's Narendra Modi lays foundation stone at divisive Ayodhya temple despite rise in coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/04/asia/ayodhya-temple-modi-foundation-stone-intl-hnk/index.html"
+        "title": "Israeli coronavirus delegation to India to return in coming days",
+        "link": "https://www.jpost.com/israel-news/india-israel/israeli-coronavirus-delegation-to-india-to-return-in-coming-days-637575"
     },
     {
         "title": "Coronavirus Leads Japan to Lock Borders, Shutting Out Foreign Workers",
         "link": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/h_539c8c048e47a1beb3048d187cfd198e"
+        "title": "Fauci Will 'Feel Good' About Using Coronavirus Vaccine If It's 50% Effective",
+        "link": "https://www.newsweek.com/fauci-will-feel-good-about-using-coronavirus-vaccine-if-its-50-effective-1523086"
     },
     {
         "title": "Coronavirus live updates: NYC setting quarantine checkpoints, J&J producing 100 million vaccine doses for U.S.",
         "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/05/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
-    },
-    {
         "title": "Coronavirus economy: 'I'm just looking for whatever I can get'",
         "link": "https://www.bbc.com/news/world-us-canada-53481112"
+    },
+    {
+        "title": "Italy Threatens to Ban Ryanair After Alleging Repeated Breaches of COVID-19 Regulations",
+        "link": "https://www.paddleyourownkanoo.com/2020/08/05/italy-threatens-to-ban-ryanair-after-alleging-repeated-breaches-of-covid-19-regulations/"
     }
 ];
