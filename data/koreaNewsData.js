@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 43명…지역발생 23명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008061013001&code=940601"
-    },
-    {
         "title": "[종합] 코로나19 확진자 43명 증가...지역 23명 중 경기 11명",
         "link": "http://www.fnnews.com/news/202008061021112417"
+    },
+    {
+        "title": "코로나19 신규확진 43명…수도권 16명·검역 6명",
+        "link": "https://news.imaeil.com/Society/2020080610211185239"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 43명…지역발생 23명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008061013001&code=940601"
     },
     {
         "title": "독일 코로나19 하루 신규 확진자, 3개월만에 1천명 넘어서(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "韓입국 주한미군 장병·직원 6명 코로나 확진.. 누적 139명",
         "link": "http://www.fnnews.com/news/202008061903555407"
-    },
-    {
-        "title": "코로나19 어제 33명 신규확진…지역발생 15명, 해외유입 18명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214345"
     }
 ];
