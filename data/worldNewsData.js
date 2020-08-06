@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/spain-coronavirus-cases-increase-lockdown-ease-june"
     },
     {
-        "title": "Facebook removes Trump post over coronavirus misinformation: Live",
+        "title": "India reports biggest number of coronavirus deaths: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/facebook-deletes-trump-post-coronavirus-misinformation-live-200806002303163.html"
     },
     {
         "title": "Coronavirus Leads Japan to Lock Borders, Shutting Out Foreign Workers",
         "link": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html"
-    },
-    {
-        "title": "Fauci: 'tens of millions' of vaccine doses by early '21",
-        "link": "https://www.youtube.com/watch?v=FX4SfE_mqy4"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Health workers in South Africa massively affected by Covid 19",
         "link": "https://www.youtube.com/watch?v=rOsl_TjwfA8"
+    },
+    {
+        "title": "Coronavirus live updates: NYC setting quarantine checkpoints, J&J producing 100 million vaccine doses for U.S.",
+        "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
     }
 ];

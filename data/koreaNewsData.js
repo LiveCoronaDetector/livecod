@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008061219507560"
     },
     {
+        "title": "[속보] 이탈리아 신규 확진자 384명···\"하루만에 두배 급증\"",
+        "link": "https://www.sedaily.com/NewsView/1Z6H34E18D"
+    },
+    {
         "title": "[전문] 화성시청, 수원시 113번째 확진자 발생...능동 거주",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=374667"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
     },
     {
-        "title": "[2보] 고양서 7명 코로나19 확진…환자 가족·접촉자",
-        "link": "http://yna.kr/AKR20200806068800060?did=1195m"
-    },
-    {
-        "title": "日 코로나19 신규 확진 1351명…아이치현 긴급사태 선언",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
-    },
-    {
         "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
         "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
+    },
+    {
+        "title": "[2보] 고양서 7명 코로나19 확진…환자 가족·접촉자",
+        "link": "http://yna.kr/AKR20200806068800060?did=1195m"
     }
 ];
