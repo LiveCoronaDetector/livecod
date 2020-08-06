@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 4971618,
-        "사망자수": 161570,
-        "완치자수": 2527212
+        "확진자수": 4973148,
+        "사망자수": 161578,
+        "완치자수": 2529817
     },
     {
         "Name": "브라질",
@@ -737,20 +737,20 @@ var marker = [
         "완치자수": 5291
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 6060,
+        "사망자수": 59,
+        "완치자수": 4839
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
         "확진자수": 5889,
         "사망자수": 182,
         "완치자수": 3123
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 5852,
-        "사망자수": 59,
-        "완치자수": 4645
     },
     {
         "Name": "레바논",
@@ -817,20 +817,20 @@ var marker = [
         "완치자수": 3431
     },
     {
+        "Name": "Libya",
+        "Name_ch": "",
+        "Name_en": "Libya",
+        "확진자수": 4475,
+        "사망자수": 99,
+        "완치자수": 640
+    },
+    {
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
         "확진자수": 4426,
         "사망자수": 136,
         "완치자수": 2078
-    },
-    {
-        "Name": "Libya",
-        "Name_ch": "",
-        "Name_en": "Libya",
-        "확진자수": 4224,
-        "사망자수": 96,
-        "완치자수": 633
     },
     {
         "Name": "Zimbabwe",
@@ -1260,8 +1260,8 @@ var marker = [
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
-        "확진자수": 669,
-        "사망자수": 4,
+        "확진자수": 670,
+        "사망자수": 5,
         "완치자수": 592
     },
     {
@@ -1273,20 +1273,20 @@ var marker = [
         "완치자수": 533
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 509,
+        "사망자수": 22,
+        "완치자수": 189
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
         "확진자수": 509,
         "사망자수": 21,
         "완치자수": 183
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 497,
-        "사망자수": 22,
-        "완치자수": 186
     },
     {
         "Name": "대만",
@@ -1356,7 +1356,7 @@ var marker = [
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
-        "확진자수": 272,
+        "확진자수": 279,
         "사망자수": 14,
         "완치자수": 179
     },

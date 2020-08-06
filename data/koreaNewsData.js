@@ -9,20 +9,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008051017215297"
     },
     {
-        "title": "코로나19 신규 확진 33명…청주 우즈베크인 집단감염 비상",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
-    },
-    {
-        "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "日 코로나19 신규 확진 1351명…아이치현 긴급사태 선언",
         "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
     },
     {
         "title": "[전문] 양주시청 17번째 확진자 발생",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=374580"
+    },
+    {
+        "title": "코로나19 신규 확진 33명…청주 우즈베크인 집단감염 비상",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
+    },
+    {
+        "title": "트럼프 \"한국 코로나 사망 적다고? 그건 모를 일\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/05/2020080500408.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",

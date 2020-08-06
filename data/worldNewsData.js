@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html"
     },
     {
-        "title": "Fauci says the length of time to get a Covid-19 test result is \"totally unacceptable\"",
+        "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-05-20-intl/h_539c8c048e47a1beb3048d187cfd198e"
+    },
+    {
+        "title": "Coronavirus live updates: NYC setting quarantine checkpoints, J&J producing 100 million vaccine doses for U.S.",
+        "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Latin America now has world's highest coronavirus death toll",
+        "link": "https://www.nbcnews.com/news/latino/latin-america-now-has-world-s-highest-coronavirus-death-toll-n1235869"
     },
     {
         "title": "U.N. chief warns world faces 'generational catastrophe' because of COVID-19 school closures",
         "link": "https://www.nbcnews.com/news/us-news/un-chief-warns-world-faces-generational-catastrophe-because-covid-19-n1235788"
-    },
-    {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
-    },
-    {
-        "title": "Iran concealing accurate Covid-19 statistics, reveals leaked data",
-        "link": "https://www.middleeastmonitor.com/20200804-iran-concealing-accurate-covid-19-statistics-reveals-leaked-data/"
     }
 ];
