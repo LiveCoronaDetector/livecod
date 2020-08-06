@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
     },
     {
-        "title": "코로나19 위험에도 제주도 연수 떠나는 대구 서구의회 의원들...대구 다른 기...",
-        "link": "https://www.yeongnam.com/web/view.php?key=20200805010000597"
+        "title": "아이들은 학교에 부모는 '집콕' 코로나가 바꾼 여름휴가 신풍속",
+        "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=769086"
     },
     {
-        "title": "[현장 카메라]코로나 단속 ‘흐지부지’ 제주 해변",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214076"
+        "title": "코로나19 위험에도 제주도 연수 떠나는 대구 서구의회 의원들...대구 다른 기...",
+        "link": "https://www.yeongnam.com/web/view.php?key=20200805010000597"
     }
 ];

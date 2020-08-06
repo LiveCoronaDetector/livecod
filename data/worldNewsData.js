@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
-        "title": "Coronavirus digest: Germany reports more than 1,000 cases for the first time since May",
-        "link": "https://www.dw.com/en/coronavirus-digest-germany-reports-more-than-1000-cases-for-the-first-time-since-may/a-54456831"
+        "title": "Spain’s coronavirus cases have increased seen lockdown measures were eased in late June",
+        "link": "https://www.foxnews.com/world/spain-coronavirus-cases-increase-lockdown-ease-june"
     },
     {
         "title": "LIVE: Philippines records most coronavirus cases in East Asia",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=FX4SfE_mqy4"
     },
     {
+        "title": "Coronavirus live: Germany and France record three-month highs in new cases",
+        "link": "https://www.thenational.ae/world/mena/coronavirus-live-germany-and-france-record-three-month-highs-in-new-cases-1.1059185"
+    },
+    {
+        "title": "France 'likely' to face second wave of coronavirus",
+        "link": "https://www.youtube.com/watch?v=9mQdtgcgMRs"
+    },
+    {
         "title": "Latin America now has world's highest coronavirus death toll",
         "link": "https://www.nbcnews.com/news/latino/latin-america-now-has-world-s-highest-coronavirus-death-toll-n1235869"
-    },
-    {
-        "title": "Around the world, countries thought to have contained the coronavirus face new waves of infection",
-        "link": "https://news.yahoo.com/around-world-countries-thought-contained-110429744.html"
-    },
-    {
-        "title": "Spain’s coronavirus cases have increased seen lockdown measures were eased in late June",
-        "link": "https://www.foxnews.com/world/spain-coronavirus-cases-increase-lockdown-ease-june"
     }
 ];
