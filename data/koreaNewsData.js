@@ -9,12 +9,8 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020080690597"
     },
     {
-        "title": "[속보]코로나19 신규확진 43명…지역발생 20명대로 증가",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214502"
-    },
-    {
-        "title": "日 코로나19 신규 확진 1351명…아이치현 긴급사태 선언",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
+        "title": "고양·양주서 코로나19 환자 가족·동료 등 7명 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200806075200060?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 43명…지역발생 23명",
@@ -25,8 +21,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
     },
     {
-        "title": "[2보] 고양서 7명 코로나19 확진…환자 가족·접촉자",
-        "link": "http://yna.kr/AKR20200806068800060?did=1195m"
+        "title": "코로나19 어제 43명 신규 확진…해외유입 20명·지역발생 23명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/06/2020080690041.html"
+    },
+    {
+        "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
+    },
+    {
+        "title": "日 코로나19 신규 확진 1351명…아이치현 긴급사태 선언",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200806000012"
     },
     {
         "title": "코로나19에도 영국인들을 웃게 만든 것",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[종합] 코로나19 확진자 33명 증가...해외 18명 중 미국·우즈베키스탄 6명",
         "link": "http://www.fnnews.com/news/202008051017215297"
-    },
-    {
-        "title": "코로나19 신규 확진 33명…청주 우즈베크인 집단감염 비상",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5864705_32633.html"
     }
 ];
