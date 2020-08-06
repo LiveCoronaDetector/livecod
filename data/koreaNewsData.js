@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
-        "title": "세계 코로나 확진자 1900만명…日 신규확진자 사흘연속 1000명대(종합)",
-        "link": "https://view.asiae.co.kr/article/2020080620023885129"
-    },
-    {
         "title": "일본 '고투 트래블' 이후 코로나 확진 2.4배로 늘어",
         "link": "https://imnews.imbc.com/news/2020/world/article/5865753_32640.html"
+    },
+    {
+        "title": "세계 코로나 확진자 1900만명…日 신규확진자 사흘연속 1000명대(종합)",
+        "link": "https://view.asiae.co.kr/article/2020080620023885129"
     },
     {
         "title": "코로나19 어제 43명 신규 확진…해외유입 20명·지역발생 23명",

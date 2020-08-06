@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cidrap.umn.edu/news-perspective/2020/08/global-covid-19-deaths-top-700000-who-team-heads-south-africa"
     },
     {
-        "title": "COVID-19 Deaths In The US: How We Compare With Other Countries : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/05/899365887/charts-how-the-u-s-ranks-on-covid-19-deaths-per-capita-and-by-case-count"
+        "title": "Live Coronavirus News Updates",
+        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid-19.html"
     },
     {
-        "title": "5 things to know for August 6: Coronavirus, Beirut, White House, stimulus, Turkey",
-        "link": "https://www.cnn.com/2020/08/06/us/five-things-august-6-trnd/index.html"
+        "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
+        "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
         "title": "Spain’s coronavirus cases have increased seen lockdown measures were eased in late June",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/facebook-deletes-trump-post-coronavirus-misinformation-live-200806002303163.html"
     },
     {
-        "title": "North Korea ships massive aid supplies to city with coronavirus scare, despite still claiming no cases",
-        "link": "https://www.foxnews.com/world/north-korea-suspected-coronavirus-case-response"
+        "title": "Shinzo Abe accused of going awol as Japan tackles Covid surge",
+        "link": "https://www.theguardian.com/world/2020/aug/06/shinzo-abe-accused-of-going-awol-as-japan-tackles-covid-surge"
     },
     {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "US can get coronavirus levels 'way down' by Election Day in November, Fauci says",
-        "link": "https://www.cnn.com/2020/08/06/health/us-coronavirus-thursday/index.html"
+        "title": "Germany tightens up on testing as infection numbers rise",
+        "link": "https://news.yahoo.com/germany-tightens-testing-infection-numbers-093242517.html"
     },
     {
         "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
         "link": "https://www.bbc.com/news/world-us-canada-53680761"
+    },
+    {
+        "title": "US can get coronavirus levels 'way down' by Election Day in November, Fauci says",
+        "link": "https://www.cnn.com/2020/08/06/health/us-coronavirus-thursday/index.html"
     },
     {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
