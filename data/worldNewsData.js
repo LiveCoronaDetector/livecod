@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html"
     },
     {
-        "title": "The world may never eradicate coronavirus, but it can get it under control, Fauci says",
-        "link": "https://www.cnn.com/2020/08/06/health/us-coronavirus-thursday/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-06-20-intl/index.html"
     },
     {
         "title": "Postal Service Funding Dispute Complicates Impasse Over U.S. Virus Stimulus",
         "link": "https://www.nytimes.com/2020/08/05/world/coronavirus-covid.html"
     },
     {
-        "title": "France 'likely' to face second wave of coronavirus",
-        "link": "https://www.youtube.com/watch?v=9mQdtgcgMRs"
+        "title": "Anthony Fauci Says He's Hired Security To Protect Daughters From Death Threats",
+        "link": "https://www.huffpost.com/entry/anthony-fauci-family-threats_n_5f2849e2c5b656e9b09edd7a"
     },
     {
-        "title": "Coronavirus live updates: NYC setting quarantine checkpoints, J&J producing 100 million vaccine doses for U.S.",
-        "link": "https://www.cnbc.com/2020/08/05/coronavirus-live-updates.html"
+        "title": "France 'likely' to face second wave of coronavirus",
+        "link": "https://www.youtube.com/watch?v=9mQdtgcgMRs"
     }
 ];
