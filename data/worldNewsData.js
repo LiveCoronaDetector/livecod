@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/economy/australias-second-largest-city-goes-into-tough-coronavirus-lockdown-expected-to-cost-economy-up-to-6-5-billion"
     },
     {
-        "title": "Germany fights virus uptick with mandatory testing for travellers",
-        "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
-    },
-    {
         "title": "Live Coronavirus News: Global Tracker",
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
+    },
+    {
+        "title": "Germany fights virus uptick with mandatory testing for travellers",
+        "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
     },
     {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",

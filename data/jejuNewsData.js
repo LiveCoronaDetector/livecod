@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424132"
     },
     {
-        "title": "밀려드는 피서객 ‘해운대發 코로나 뇌관 터질라’ 불안",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
-    },
-    {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
+    },
+    {
+        "title": "밀려드는 피서객 ‘해운대發 코로나 뇌관 터질라’ 불안",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
         "title": "'휴가는 제주에서' 관광객 코로나 이전 넘어서",
