@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html"
     },
     {
-        "title": "Israeli tourism officials: Ready for foreign visitors when skies open up",
-        "link": "https://www.jpost.com/israel-news/tourism-officials-were-ready-for-foreign-visitors-when-skies-open-up-637789"
+        "title": "Israel’s COVID-19 count surpasses 80,000 as serious cases continue to climb",
+        "link": "https://www.timesofisrael.com/israels-covid-19-count-surpasses-80000-as-serious-cases-continue-to-climb/"
     },
     {
         "title": "Italy prepares to return to school ... with saws",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/china-becomes-a-refuge-for-u-s-companies-after-overcoming-covid-19-11596792603"
     },
     {
-        "title": "Cuomo authorizes New York schools to reopen amid coronavirus pandemic",
-        "link": "https://www.foxnews.com/politics/cuomo-expected-to-announce-new-yorks-school-reopening-plan-amid-coronavirus-pandemic"
+        "title": "Cuomo clears New York schools statewide to open, but carefully",
+        "link": "https://www.aol.com/article/news/2020/08/07/cuomo-clears-new-york-schools-statewide-to-open-carefully/24585802/"
     },
     {
         "title": "Coronavirus: Germany closes two schools due to fresh outbreaks",
