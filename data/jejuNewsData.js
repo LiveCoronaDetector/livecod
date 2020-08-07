@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
-        "title": "코로나19 확진자 다녀갔는데 등교하라고?…혼란에도 정부는 '나몰라라'",
-        "link": "http://www.newspim.com/news/view/20200805000485"
-    },
-    {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
+    },
+    {
+        "title": "코로나19 확진자 다녀갔는데 등교하라고?…혼란에도 정부는 '나몰라라'",
+        "link": "http://www.newspim.com/news/view/20200805000485"
     },
     {
         "title": "제주도醫 \"의료 4대악 철폐 강력히 요구한다!\"",

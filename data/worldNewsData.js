@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53674857"
     },
     {
-        "title": "Even Asymptomatic People Carry the Coronavirus in High Amounts",
-        "link": "https://www.nytimes.com/2020/08/06/health/coronavirus-asymptomatic-transmission.html"
+        "title": "China Becomes a Refuge for U.S. Companies After Overcoming Covid-19",
+        "link": "https://www.wsj.com/articles/china-becomes-a-refuge-for-u-s-companies-after-overcoming-covid-19-11596792603"
     },
     {
-        "title": "Coronavirus global report: concern over German cases as holidays disrupt French testing",
-        "link": "https://www.theguardian.com/world/2020/aug/06/coronavirus-global-report-germany-and-france-record-biggest-rise-in-cases-since-may"
+        "title": "Germany fights virus uptick with mandatory testing for travellers",
+        "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
     },
     {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
-        "link": "https://www.bbc.com/news/world-us-canada-53680761"
+        "title": "A Wedding at This $50 Million Mansion Caused Local Uproar",
+        "link": "https://www.youtube.com/watch?v=0xqAAbIPMsg"
     }
 ];
