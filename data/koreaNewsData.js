@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4511866&ref=A"
     },
     {
+        "title": "파주 코로나19 25번째 확진자 발생",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=597109"
+    },
+    {
         "title": "인도 세계 3번째로 코로나 확진자 200만명 돌파",
         "link": "http://www.fnnews.com/news/202008071337336292"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "부산 감천항 영진607호 선장 확진자 접촉자 99명…추가 발생은 없어",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080714230431841"
-    },
-    {
-        "title": "[전문] 마포구청 56번째 확진자 발생과 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374856"
     }
 ];
