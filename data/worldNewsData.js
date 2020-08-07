@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
     },
     {
-        "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
-        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
-    },
-    {
         "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
         "link": "https://www.bbc.com/news/world-us-canada-53680761"
+    },
+    {
+        "title": "The U.S. has the worst coronavirus outbreak in the world: 'The numbers don't lie,' Dr. Fauci says",
+        "link": "https://www.cnbc.com/2020/08/05/dr-fauci-agrees-the-us-has-the-worst-coronvirus-outbreak-in-the-world-the-numbers-dont-lie.html"
     }
 ];
