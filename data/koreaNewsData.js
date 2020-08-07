@@ -38,6 +38,6 @@ var koreaNewsData = [
     },
     {
         "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
     }
 ];

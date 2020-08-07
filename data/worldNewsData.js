@@ -9,24 +9,24 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html"
     },
     {
-        "title": "Israeli tourism officials: Ready for foreign visitors when skies open up",
-        "link": "https://www.jpost.com/israel-news/tourism-officials-were-ready-for-foreign-visitors-when-skies-open-up-637789"
+        "title": "Israel’s COVID-19 count surpasses 80,000 as serious cases continue to climb",
+        "link": "https://www.timesofisrael.com/israels-covid-19-count-surpasses-80000-as-serious-cases-continue-to-climb/"
     },
     {
         "title": "Italy prepares to return to school ... with saws",
         "link": "https://www.cnn.com/2020/08/07/europe/italy-school-return-sawing-up-desks-coronavirus-intl/index.html"
     },
     {
-        "title": "India now has more than 2 million confirmed coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/07/asia/india-coronavirus-two-million-intl-hnk/index.html"
+        "title": "Cuomo, de Blasio have mixed feelings about exodus of New York's wealthy residents",
+        "link": "https://www.youtube.com/watch?v=2ztP-ZTAWlw"
     },
     {
         "title": "China Becomes a Refuge for U.S. Companies After Overcoming Covid-19",
         "link": "https://www.wsj.com/articles/china-becomes-a-refuge-for-u-s-companies-after-overcoming-covid-19-11596792603"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-07-20-intl/index.html"
+        "title": "Governor Andrew Cuomo says schools in New York state can reopen",
+        "link": "https://abc7ny.com/education/live-%7C-cuomo-says-schools-in-ny-state-can-reopen/6359311/"
     },
     {
         "title": "Germany fights virus uptick with mandatory testing for travellers",
