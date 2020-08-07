@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
-        "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
+        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
     },
     {
         "title": "국내 코로나19 신규 확진 20명…누적 1만4519명(상보)",
         "link": "https://view.asiae.co.kr/article/2020080710301124842"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 20명…지역발생 9명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008071012001&code=940601"
-    },
-    {
-        "title": "또 교회에서 집단감염...신규 확진자 20명",
-        "link": "https://www.ytn.co.kr/_ln/0101_202008071633044561"
+        "title": "코로나19 신규 확진 20명…지역발생 9명·해외유입 11명",
+        "link": "http://www.inews24.com/view/1288726"
     },
     {
         "title": "고양 확진자 접촉한 인천 50대 여성 코로나19 양성",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4511866&ref=A"
     },
     {
-        "title": "삼성메디슨 코로나19 확진자 발생…삼성SDS도 귀가조치",
-        "link": "http://it.chosun.com/site/data/html_dir/2020/08/07/2020080702488.html"
+        "title": "[전문] 동작구청 71번째 확진자 발생...노량진1동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374799"
     },
     {
-        "title": "인도 세계 3번째로 코로나 확진자 200만명 돌파",
-        "link": "http://www.fnnews.com/news/202008071337336292"
+        "title": "코로나19 신규 확진 20명…수도권 교회 발 감염 확산",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5867300_32633.html"
     },
     {
-        "title": "서울서 13번째 코로나 사망자 발생… 기저질환 90대",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/07/2020080701798.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[전문] 동작구청 72번째 확진자 발생...노량진1동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374910"
+    },
+    {
+        "title": "[전문] 동작구청 71번째 확진자 상세 동선공개",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374913"
     }
 ];
