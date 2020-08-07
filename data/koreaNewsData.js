@@ -9,28 +9,20 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992290?division=NAVER"
     },
     {
-        "title": "판교서 코로나 확진자 발생…IT기업들 귀가 소동",
-        "link": "https://view.asiae.co.kr/article/2020080715165430873"
-    },
-    {
-        "title": "日 코로나19 하루 신규 확진자수 1600명 육박…최다치 경신",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200807000732"
-    },
-    {
-        "title": "코로나 신규 확진자 43명…8일만에 40명대로",
-        "link": "http://www.hani.co.kr/arti/society/health/956688.html"
+        "title": "日 코로나19 하루 신규 확진자수 1600명 육박…일주일만에 최다치 경신(상보)",
+        "link": "https://view.asiae.co.kr/article/2020080720234941202"
     },
     {
         "title": "日 도쿄 코로나19 하루 평균 확진자수 400명대로 ↑…가정내 감염이 원인",
         "link": "https://view.asiae.co.kr/article/2020080716144968241"
     },
     {
-        "title": "부천 50대 코로나19 확진…감염경로 확인 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511910&ref=A"
-    },
-    {
         "title": "日 코로나 하루 확진 1천600명 육박…7일 만에 최다치 경신(종합)",
         "link": "http://yna.kr/AKR20200807158651073?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진자 43명…8일만에 40명대로",
+        "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
         "title": "트럼프, \"11월 3일 이전에 코로나 백신 나올 수 있다\"",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
+    },
+    {
+        "title": "코로나19 20명 신규 확진…국내발생 9명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214644"
+    },
+    {
+        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
     }
 ];

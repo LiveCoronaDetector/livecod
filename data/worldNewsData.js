@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/07/europe/italy-school-return-sawing-up-desks-coronavirus-intl/index.html"
     },
     {
-        "title": "India now has more than 2 million confirmed coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/07/asia/india-coronavirus-two-million-intl-hnk/index.html"
+        "title": "Coronavirus: India becomes third country to pass two million cases",
+        "link": "https://www.bbc.com/news/world-asia-india-53674857"
     },
     {
         "title": "Even Asymptomatic People Carry the Coronavirus in High Amounts",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
     },
     {
-        "title": "A Wedding at This $50 Million Mansion Caused Local Uproar",
-        "link": "https://www.youtube.com/watch?v=0xqAAbIPMsg"
+        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
+        "link": "https://www.bbc.com/news/world-us-canada-53680761"
     }
 ];
