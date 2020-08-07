@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/07/2020080701798.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 20명…지역발생 9명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008071012001&code=940601"
-    },
-    {
         "title": "[전문] 대구지역 35일째 코로나19 지역감염 '0'",
         "link": "https://news.imaeil.com/Society/2020080710363002457"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "트럼프, \"11월 3일 이전에 코로나 백신 나올 수 있다\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=403649&class=42&grp="
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 43명…지역발생 23명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008061013001&code=940601"
     }
 ];
