@@ -9,8 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956865.html"
     },
     {
+        "title": "코로나 신규 확진자 43명…8일만에 40명대로",
+        "link": "http://www.hani.co.kr/arti/society/health/956688.html"
+    },
+    {
+        "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
+    },
+    {
         "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
     },
     {
         "title": "서울서 13번째 코로나 사망자 발생… 기저질환 90대",
@@ -21,20 +29,12 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020080710363002457"
     },
     {
-        "title": "코로나 신규 확진자 43명…8일만에 40명대로",
-        "link": "http://www.hani.co.kr/arti/society/health/956688.html"
+        "title": "[종합] 코로나19 확진자 43명 증가...지역 23명 중 경기 11명",
+        "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
-        "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
-    },
-    {
-        "title": "[전문] 동작구청 71번째 확진자 발생...노량진1동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374799"
-    },
-    {
-        "title": "‘코로나19’ 신규 확진 20명…국내발생 9명·해외유입 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511629&ref=A"
+        "title": "코로나19 신규 환자 20명…전세계 감염자 1900만명 넘어",
+        "link": "http://www.dongascience.com/news/view/38869"
     },
     {
         "title": "[종합] 강화군 송해면 우뢰기도원서 70대 확진 - 강화군 3번째 확진자",
