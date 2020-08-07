@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=135649"
     },
     {
-        "title": "제주도, 의료계 집단휴진 대비 비상진료대책 준비 돌입 ",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424132"
-    },
-    {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
+    },
+    {
+        "title": "제주도, 의료계 집단휴진 대비 비상진료대책 준비 돌입 ",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424132"
     },
     {
         "title": "'휴가는 제주에서' 관광객 코로나 이전 넘어서",

@@ -13,12 +13,8 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
     },
     {
-        "title": "코로나 신규 확진 20명…국내 9명, 나흘 만에 한 자릿수",
-        "link": "https://www.donga.com/news/article/all/20200807/102340396/1"
-    },
-    {
-        "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
+        "title": "日 코로나19 하루 신규 확진자수 1600명 육박…일주일만에 최다치 경신(상보)",
+        "link": "https://view.asiae.co.kr/article/2020080720234941202"
     },
     {
         "title": "日 도쿄 코로나19 하루 평균 확진자수 400명대로 ↑…가정내 감염이 원인",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://it.chosun.com/site/data/html_dir/2020/08/07/2020080702488.html"
     },
     {
-        "title": "부산 감천항 영진607호 선장 확진자 접촉자 99명…추가 발생은 없어",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020080714230431841"
+        "title": "日 코로나 하루 확진 1천600명 육박…7일 만에 최다치 경신(종합)",
+        "link": "http://yna.kr/AKR20200807158651073?did=1195m"
     },
     {
-        "title": "[전문] 영등포구청 74번째 확진자 발생과 성북구 확진자 관내 근무",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374918"
+        "title": "코로나 신규 확진 20명…국내 9명, 나흘 만에 한 자릿수",
+        "link": "https://www.donga.com/news/article/all/20200807/102340396/1"
+    },
+    {
+        "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
     }
 ];
