@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html"
     },
     {
-        "title": "Israeli tourism officials: Ready for foreign visitors when skies open up",
-        "link": "https://www.jpost.com/israel-news/tourism-officials-were-ready-for-foreign-visitors-when-skies-open-up-637789"
+        "title": "Israel’s COVID-19 count surpasses 80,000 as serious cases continue to climb",
+        "link": "https://www.timesofisrael.com/israels-covid-19-count-surpasses-80000-as-serious-cases-continue-to-climb/"
     },
     {
         "title": "Italy prepares to return to school ... with saws",
         "link": "https://www.cnn.com/2020/08/07/europe/italy-school-return-sawing-up-desks-coronavirus-intl/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-07-20-intl/index.html"
+        "title": "India's Coronavirus Cases Top 2 Million : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/07/900112972/indias-coronavirus-cases-top-2-million-more-than-62-000-reported-in-one-day"
     },
     {
         "title": "China Becomes a Refuge for U.S. Companies After Overcoming Covid-19",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/08/07/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
         "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
     },
     {
         "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
+    },
+    {
+        "title": "The U.S. has the worst coronavirus outbreak in the world: 'The numbers don't lie,' Dr. Fauci says",
+        "link": "https://www.cnbc.com/2020/08/05/dr-fauci-agrees-the-us-has-the-worst-coronvirus-outbreak-in-the-world-the-numbers-dont-lie.html"
     }
 ];
