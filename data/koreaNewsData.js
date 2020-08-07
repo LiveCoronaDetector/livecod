@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992290?division=NAVER"
     },
     {
-        "title": "日 코로나 하루 확진 1천600명 육박…7일 만에 최다치 경신(종합)",
-        "link": "http://yna.kr/AKR20200807158651073?did=1195m"
-    },
-    {
         "title": "[속보] 日 코로나19 하루 신규 확진자수 1600명 육박…일주일만에 최다치 경신",
         "link": "https://view.asiae.co.kr/article/2020080720103227228"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "日 도쿄 코로나19 하루 평균 확진자수 400명대로 ↑…가정내 감염이 원인",
         "link": "https://view.asiae.co.kr/article/2020080716144968241"
+    },
+    {
+        "title": "고양 확진자 접촉한 인천 50대 여성 코로나19 양성",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511866&ref=A"
     }
 ];

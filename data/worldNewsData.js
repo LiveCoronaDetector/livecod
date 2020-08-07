@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html"
     },
     {
-        "title": "Israel’s COVID-19 count surpasses 80,000 as serious cases continue to climb",
-        "link": "https://www.timesofisrael.com/israels-covid-19-count-surpasses-80000-as-serious-cases-continue-to-climb/"
+        "title": "Israeli tourism officials: Ready for foreign visitors when skies open up",
+        "link": "https://www.jpost.com/israel-news/tourism-officials-were-ready-for-foreign-visitors-when-skies-open-up-637789"
     },
     {
         "title": "Italy prepares to return to school ... with saws",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/china-becomes-a-refuge-for-u-s-companies-after-overcoming-covid-19-11596792603"
     },
     {
-        "title": "All New York schools are cleared to reopen for in-person classes, Cuomo says",
-        "link": "https://www.cnn.com/2020/08/07/us/new-york-schools-reopen-cuomo/index.html"
+        "title": "NY extends eviction moratorium but renters say more needs to be done",
+        "link": "https://www.youtube.com/watch?v=ZbLqowje12A"
     },
     {
-        "title": "Coronavirus: Germany closes two schools due to fresh outbreaks",
-        "link": "https://www.dw.com/en/germany-closes-two-schools-due-to-fresh-coronavirus-outbreaks/a-54483737"
+        "title": "Germany to Require COVID-19 Test for Travelers Upon Entry from Hotspots",
+        "link": "https://www.moroccoworldnews.com/2020/08/314444/germany-to-require-covid-19-test-for-travelers-upon-entry-from-hotspots/"
     },
     {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
         "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
     },
     {
-        "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
-        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
+        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
+        "link": "https://www.bbc.com/news/world-us-canada-53680761"
     }
 ];
