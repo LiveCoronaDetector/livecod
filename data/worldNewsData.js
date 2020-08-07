@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/06/total-confirmed-coronavirus-cases-in-africa-pass-1-million"
     },
     {
-        "title": "Live updates: Ohio Gov. DeWine tests negative after testing positive; virus relief bill hangs by a thread",
-        "link": "https://www.washingtonpost.com/nation/2020/08/07/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus: Canada zoo struggles to return pandas to China",
+        "link": "https://www.bbc.com/news/world-us-canada-53683567"
     },
     {
-        "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
-        "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
+        "title": "Coronavirus vaccine race: Israel to begin human testing by October",
+        "link": "https://www.jpost.com/health-science/israels-biological-institute-to-begin-human-testing-of-coronavirus-vaccine-637673"
     },
     {
         "title": "Coronavirus global report: concern over German cases as holidays disrupt French testing",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Z4zRAytWpT8"
     },
     {
-        "title": "Australia's 2nd-largest city goes into tough coronavirus lockdown that could cost economy up to $6.5B",
-        "link": "https://www.foxbusiness.com/economy/australias-second-largest-city-goes-into-tough-coronavirus-lockdown-expected-to-cost-economy-up-to-6-5-billion"
+        "title": "Johns Hopkins switches to virtual fall semester as pandemic worsens, urges students not to return to Baltimore",
+        "link": "https://www.washingtonpost.com/education/2020/08/06/johns-hopkins-switches-virtual-fall-semester-pandemic-worsens-urges-students-not-return-baltimore/"
     },
     {
         "title": "JHU moves undergraduate classes online due to coronavirus pandemic",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
-        "link": "https://www.bbc.com/news/world-us-canada-53680761"
+        "title": "U.S. State Department Eases Global Coronavirus Travel Advisory",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/06/899844625/u-s-state-department-eases-global-coronavirus-travel-advisory"
     }
 ];
