@@ -9,8 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
-        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
+        "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
+    },
+    {
+        "title": "코로나19 20명 신규 확진…국내발생 9명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214644"
     },
     {
         "title": "日 코로나19 하루 신규 확진자수 1600명 육박…일주일만에 최다치 경신(상보)",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200807158651073?did=1195m"
     },
     {
-        "title": "코로나 신규 확진 20명…국내 9명, 나흘 만에 한 자릿수",
-        "link": "https://www.donga.com/news/article/all/20200807/102340396/1"
-    },
-    {
-        "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
+        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
     }
 ];

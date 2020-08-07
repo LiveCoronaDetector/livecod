@@ -13,20 +13,16 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/tourism-officials-were-ready-for-foreign-visitors-when-skies-open-up-637789"
     },
     {
-        "title": "Coronavirus global report: concern over German cases as holidays disrupt French testing",
-        "link": "https://www.theguardian.com/world/2020/aug/06/coronavirus-global-report-germany-and-france-record-biggest-rise-in-cases-since-may"
+        "title": "Italy prepares to return to school ... with saws",
+        "link": "https://www.cnn.com/2020/08/07/europe/italy-school-return-sawing-up-desks-coronavirus-intl/index.html"
     },
     {
-        "title": "Covid-19 Plasma Treatment Improves Mortality: Johns Hopkins",
-        "link": "https://www.youtube.com/watch?v=Z4zRAytWpT8"
+        "title": "India now has more than 2 million confirmed coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/07/asia/india-coronavirus-two-million-intl-hnk/index.html"
     },
     {
-        "title": "Johns Hopkins switches to virtual fall semester as pandemic worsens, urges students not to return to Baltimore",
-        "link": "https://www.washingtonpost.com/education/2020/08/06/johns-hopkins-switches-virtual-fall-semester-pandemic-worsens-urges-students-not-return-baltimore/"
-    },
-    {
-        "title": "JHU moves undergraduate classes online due to coronavirus pandemic",
-        "link": "https://www.wbaltv.com/article/johns-hopkins-university-moves-undergraduate-classes-online-due-to-coronavirus-pandemic/33538680"
+        "title": "Even Asymptomatic People Carry the Coronavirus in High Amounts",
+        "link": "https://www.nytimes.com/2020/08/06/health/coronavirus-asymptomatic-transmission.html"
     },
     {
         "title": "Germany fights virus uptick with mandatory testing for travellers",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
+    },
+    {
+        "title": "A Wedding at This $50 Million Mansion Caused Local Uproar",
+        "link": "https://www.youtube.com/watch?v=0xqAAbIPMsg"
     }
 ];
