@@ -52,9 +52,9 @@ var marker = [
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "확진자수": 447624,
-        "사망자수": 20228,
-        "완치자수": 306430
+        "확진자수": 455409,
+        "사망자수": 20424,
+        "완치자수": 310337
     },
     {
         "Name": "칠레",
@@ -228,9 +228,9 @@ var marker = [
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "확진자수": 85141,
-        "사망자수": 3385,
-        "완치자수": 26437
+        "확진자수": 86423,
+        "사망자수": 3465,
+        "완치자수": 27373
     },
     {
         "Name": "스웨덴",
@@ -1449,20 +1449,20 @@ var marker = [
         "완치자수": 138
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 141,
+        "사망자수": 2,
+        "완치자수": 39
+    },
+    {
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
         "확진자수": 133,
         "사망자수": 7,
         "완치자수": 100
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 129,
-        "사망자수": 2,
-        "완치자수": 39
     },
     {
         "Name": "Seychelles",
