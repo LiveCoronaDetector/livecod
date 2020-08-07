@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020080710301124842"
     },
     {
-        "title": "코로나19 하루 확진자 20명대…지역·해외유입 모두 감소[종합]",
-        "link": "https://www.hankyung.com/society/article/2020080733107"
+        "title": "코로나19 신규 확진자 20명…국내발생 다시 한자릿수로 주춤",
+        "link": "http://www.hani.co.kr/arti/society/health/956865.html"
     },
     {
         "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
-        "title": "코로나19 확진자 4일만에 20명대…국내 9명·해외 11명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02109046625865024"
+        "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
     },
     {
         "title": "[전문] 동작구청 71번째 확진자 발생...노량진1동 거주",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=374799"
     },
     {
-        "title": "[종합] 강화군 송해면 우뢰기도원서 70대 확진 - 강화군 3번째 확진자",
-        "link": "http://www.incheonin.com/news/articleView.html?idxno=74688"
-    },
-    {
         "title": "‘코로나19’ 신규 확진 20명…국내발생 9명·해외유입 11명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4511629&ref=A"
+    },
+    {
+        "title": "[종합] 강화군 송해면 우뢰기도원서 70대 확진 - 강화군 3번째 확진자",
+        "link": "http://www.incheonin.com/news/articleView.html?idxno=74688"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53683567"
     },
     {
-        "title": "'Israel must drop to hundreds of daily coronavirus patients by September'",
-        "link": "https://www.jpost.com/health-science/gamzu-israel-coronavirus-infection-rate-among-highest-in-the-world-637676"
+        "title": "Medical experts give Ronni Gamzu’s coronavirus plan an A+",
+        "link": "https://www.jpost.com/israel-news/medical-experts-give-ronni-gamzus-coronavirus-plan-an-a-637734"
     },
     {
         "title": "Coronavirus global report: concern over German cases as holidays disrupt French testing",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/economy/australias-second-largest-city-goes-into-tough-coronavirus-lockdown-expected-to-cost-economy-up-to-6-5-billion"
     },
     {
+        "title": "Live Coronavirus News: Global Tracker",
+        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
+    },
+    {
         "title": "Germany fights virus uptick with mandatory testing for travellers",
         "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
     },
     {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
         "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
-    },
-    {
-        "title": "U.S. State Department Eases Global Coronavirus Travel Advisory",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/06/899844625/u-s-state-department-eases-global-coronavirus-travel-advisory"
     },
     {
         "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
