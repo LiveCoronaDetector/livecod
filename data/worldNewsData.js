@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53683567"
     },
     {
-        "title": "Medical experts give Ronni Gamzu’s coronavirus plan an A+",
-        "link": "https://www.jpost.com/israel-news/medical-experts-give-ronni-gamzus-coronavirus-plan-an-a-637734"
+        "title": "Coronavirus vaccine race: Israel to begin human testing by October",
+        "link": "https://www.jpost.com/health-science/israels-biological-institute-to-begin-human-testing-of-coronavirus-vaccine-637673"
     },
     {
         "title": "Coronavirus global report: concern over German cases as holidays disrupt French testing",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/economy/australias-second-largest-city-goes-into-tough-coronavirus-lockdown-expected-to-cost-economy-up-to-6-5-billion"
     },
     {
+        "title": "Turkey reports 1,153 new COVID-19 cases | Daily Sabah",
+        "link": "https://www.dailysabah.com/turkey/turkey-reports-1153-new-covid-19-cases/news"
+    },
+    {
         "title": "Live Coronavirus News: Global Tracker",
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
         "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
-    },
-    {
-        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
-        "link": "https://www.bbc.com/news/world-us-canada-53680761"
     }
 ];

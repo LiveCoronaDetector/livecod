@@ -17,8 +17,12 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
     },
     {
-        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
+        "title": "코로나19 20명 신규 확진…국내발생 9명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214644"
+    },
+    {
+        "title": "고양 확진자 접촉한 인천 50대 여성 코로나19 양성",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511866&ref=A"
     },
     {
         "title": "인도 세계 3번째로 코로나 확진자 200만명 돌파",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/07/2020080701798.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[전문] 대구지역 35일째 코로나19 지역감염 '0'",
-        "link": "https://news.imaeil.com/Society/2020080710363002457"
+        "title": "부산 감천항 영진607호 선장 확진자 접촉자 99명…추가 발생은 없어",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020080714230431841"
     },
     {
-        "title": "[종합] 코로나19 확진자 43명 증가...지역 23명 중 경기 11명",
-        "link": "http://www.fnnews.com/news/202008061021112417"
-    },
-    {
-        "title": "[전문] 강서구청 112번째 확진자 발생...화곡2동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374830"
+        "title": "[전문] 마포구청 56번째 확진자 발생과 동선공개",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374856"
     }
 ];
