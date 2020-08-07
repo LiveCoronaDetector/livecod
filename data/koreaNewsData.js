@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020080716144968241"
     },
     {
-        "title": "고양 확진자 접촉한 인천 50대 여성 코로나19 양성",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511866&ref=A"
+        "title": "고양 반석교회 확진자 중 보육교사 포함…어린이집 전수조사",
+        "link": "http://yna.kr/AKR20200807150600060?did=1195m"
     }
 ];

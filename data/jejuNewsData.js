@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=65&p_no=106919"
     },
     {
-        "title": "‘코로나 휴가철’ 맞아 제주 인기…내국인 관광객 지난해 넘어",
-        "link": "http://www.hani.co.kr/arti/area/jeju/956543.html"
-    },
-    {
         "title": "밀려드는 피서객 ‘해운대發 코로나 뇌관 터질라’ 불안",
         "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
+    },
+    {
+        "title": "‘코로나 휴가철’ 맞아 제주 인기…내국인 관광객 지난해 넘어",
+        "link": "http://www.hani.co.kr/arti/area/jeju/956543.html"
     },
     {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
