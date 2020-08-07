@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/956543.html"
     },
     {
+        "title": "밀려드는 피서객 ‘해운대發 코로나 뇌관 터질라’ 불안",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
+    },
+    {
         "title": "코로나19 확진자 다녀갔는데 등교하라고?…혼란에도 정부는 '나몰라라'",
         "link": "http://www.newspim.com/news/view/20200805000485"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
-    },
-    {
-        "title": "밀려드는 피서객 ‘해운대發 코로나 뇌관 터질라’ 불안",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     },
     {
         "title": "'휴가는 제주에서' 관광객 코로나 이전 넘어서",
