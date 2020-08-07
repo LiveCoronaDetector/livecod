@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
+        "title": "또 교회에서 집단감염...신규 확진자 20명",
+        "link": "https://www.ytn.co.kr/_ln/0101_202008071633044561"
+    },
+    {
         "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
     },
     {
-        "title": "코로나19 20명 신규 확진…국내발생 9명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214644"
+        "title": "[종합] 코로나19 확진자 43명 증가...지역 23명 중 경기 11명",
+        "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
-        "title": "日 코로나19 하루 평균 확진자수 400명대로 ↑…가정내 감염이 원인",
-        "link": "https://view.asiae.co.kr/article/2020080716144968241"
-    },
-    {
-        "title": "고양 확진자 접촉한 인천 50대 여성 코로나19 양성",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511866&ref=A"
-    },
-    {
-        "title": "파주 코로나19 25번째 확진자 발생",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=597109"
-    },
-    {
-        "title": "인도 세계 3번째로 코로나 확진자 200만명 돌파",
-        "link": "http://www.fnnews.com/news/202008071337336292"
+        "title": "[속보] 코로나19 신규 확진자 20명…지역발생 9명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008071012001&code=940601"
     },
     {
         "title": "서울서 13번째 코로나 사망자 발생… 기저질환 90대",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/07/2020080701798.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "트럼프, \"11월 3일 이전에 코로나 백신 나올 수 있다\"",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=403649&class=42&grp="
+    },
+    {
+        "title": "[속보] '코로나19' 신규 확진 20명…국내발생 9명 '또 수도권만'",
+        "link": "http://news.tf.co.kr/read/life/1805810.htm"
     }
 ];
