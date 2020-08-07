@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956865.html"
     },
     {
-        "title": "교회發 확진자 줄줄이…“집단감염 계속되면 방역 강화”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000992290?division=NAVER"
-    },
-    {
         "title": "서울시 신규 코로나19 확진자 17명 늘어",
         "link": "http://www.fnnews.com/news/202008071937371512"
+    },
+    {
+        "title": "교회發 확진자 줄줄이…“집단감염 계속되면 방역 강화”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000992290?division=NAVER"
     },
     {
         "title": "日 코로나19 하루 신규 확진자수 1600명 육박…일주일만에 최다치 경신(상보)",
@@ -38,6 +38,6 @@ var koreaNewsData = [
     },
     {
         "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
     }
 ];

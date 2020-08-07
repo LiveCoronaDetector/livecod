@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/06/2020080603250.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "코로나19 언론보도와 인권...'강남 모녀' 명명, 적절했나",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424324"
+    },
+    {
         "title": "\"제주 언론 코로나 보도, 결과적으로 소수자를 구분\"",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318738"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도醫 \"의료 4대악 철폐 강력히 요구한다!\"",
         "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=135649"
-    },
-    {
-        "title": "제주도, 의료계 집단휴진 대비 비상진료대책 준비 돌입 ",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424132"
     }
 ];

@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/china-becomes-a-refuge-for-u-s-companies-after-overcoming-covid-19-11596792603"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-07-20-intl/index.html"
+    },
+    {
         "title": "Germany fights virus uptick with mandatory testing for travellers",
         "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
     },
     {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
         "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
-    },
-    {
-        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
-        "link": "https://www.bbc.com/news/world-us-canada-53680761"
     },
     {
         "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
