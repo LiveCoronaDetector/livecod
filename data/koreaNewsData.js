@@ -13,20 +13,12 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
     },
     {
+        "title": "코로나 신규 확진 20명…국내 9명, 나흘 만에 한 자릿수",
+        "link": "https://www.donga.com/news/article/all/20200807/102340396/1"
+    },
+    {
         "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
-    },
-    {
-        "title": "국내 코로나19 신규 확진 20명…누적 1만4519명(상보)",
-        "link": "https://view.asiae.co.kr/article/2020080710301124842"
-    },
-    {
-        "title": "삼성메디슨 코로나19 확진자 발생…삼성SDS도 귀가조치",
-        "link": "http://it.chosun.com/site/data/html_dir/2020/08/07/2020080702488.html"
-    },
-    {
-        "title": "코로나19 신규 확진 20명…수도권 교회 발 감염 확산",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5867300_32633.html"
     },
     {
         "title": "日 도쿄 코로나19 하루 평균 확진자수 400명대로 ↑…가정내 감염이 원인",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4511866&ref=A"
     },
     {
-        "title": "인도 세계 3번째로 코로나 확진자 200만명 돌파",
-        "link": "http://www.fnnews.com/news/202008071337336292"
+        "title": "삼성메디슨 코로나19 확진자 발생…삼성SDS도 귀가조치",
+        "link": "http://it.chosun.com/site/data/html_dir/2020/08/07/2020080702488.html"
+    },
+    {
+        "title": "부산 감천항 영진607호 선장 확진자 접촉자 99명…추가 발생은 없어",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020080714230431841"
+    },
+    {
+        "title": "[전문] 영등포구청 74번째 확진자 발생과 성북구 확진자 관내 근무",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374918"
     }
 ];
