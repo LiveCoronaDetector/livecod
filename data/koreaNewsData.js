@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020080710301124842"
     },
     {
-        "title": "코로나19 확진자 4일만에 20명대…국내 9명·해외 11명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02109046625865024"
+        "title": "코로나19 하루 확진자 20명대…지역·해외유입 모두 감소[종합]",
+        "link": "https://www.hankyung.com/society/article/2020080733107"
     },
     {
         "title": "코로나 신규 확진자 43명…8일만에 40명대로",
@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4511629&ref=A"
     },
     {
-        "title": "지역발생 확진자 9명, 4일만에 한자리대…'교회발' 우려도",
-        "link": "https://www.news1.kr/articles/?4019367"
-    },
-    {
-        "title": "[속보] [코로나19] 신규 확진자 20명...비수도권 지역 감염 0명",
-        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=275080"
-    },
-    {
-        "title": "확진자 나온 인천항 화물선서 러시아 선원 1명 추가 양성",
-        "link": "http://yna.kr/AKR20200807034600065?did=1195m"
+        "title": "[전문] 대구지역 35일째 코로나19 지역감염 '0'",
+        "link": "https://news.imaeil.com/Society/2020080710363002457"
     },
     {
         "title": "어제 코로나 환자 20명…지역 9·해외 11명 '최근 1주일간 최소 확진'(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/07/2020080701330.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보]'코로나 진원' 중국 후베이성 입국제한 6개월만에 해제",
+        "link": "https://www.sedaily.com/NewsView/1Z6HJNKPKB"
+    },
+    {
         "title": "[종합] 코로나19 확진자 43명 증가...지역 23명 중 경기 11명",
         "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
-        "title": "[속보] 대구지역 35일째 코로나19 지역감염 '0'",
-        "link": "https://news.imaeil.com/Society/2020080710363002457"
+        "title": "[전문] 동작구청 71번째 확진자 발생...노량진1동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=374799"
+    },
+    {
+        "title": "트럼프, \"11월 3일 이전에 코로나 백신 나올 수 있다\"",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=403649&class=42&grp="
     }
 ];
