@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53683567"
     },
     {
-        "title": "'Israel must drop to hundreds of daily coronavirus patients by September'",
-        "link": "https://www.jpost.com/health-science/gamzu-israel-coronavirus-infection-rate-among-highest-in-the-world-637676"
+        "title": "Medical experts give Ronni Gamzu’s coronavirus plan an A+",
+        "link": "https://www.jpost.com/israel-news/medical-experts-give-ronni-gamzus-coronavirus-plan-an-a-637734"
     },
     {
         "title": "Coronavirus global report: concern over German cases as holidays disrupt French testing",
         "link": "https://www.theguardian.com/world/2020/aug/06/coronavirus-global-report-germany-and-france-record-biggest-rise-in-cases-since-may"
     },
     {
-        "title": "Coronavirus: India becomes third country to pass two million cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53674857"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-07-20-intl/index.html"
     },
     {
         "title": "Australia's 2nd-largest city goes into tough coronavirus lockdown that could cost economy up to $6.5B",
