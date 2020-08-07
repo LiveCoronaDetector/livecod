@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/africa-hits-million-coronavirus-cases-200804094836695.html"
     },
     {
-        "title": "Coronavirus infections among younger populations are skyrocketing, WHO says",
-        "link": "https://www.cnn.com/2020/08/07/health/us-coronavirus-friday/index.html"
+        "title": "Canada to U.S. Visitors: Please Don’t Sneak Across the Border",
+        "link": "https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html"
     },
     {
-        "title": "Israeli tourism officials: Ready for foreign visitors when skies open up",
-        "link": "https://www.jpost.com/israel-news/tourism-officials-were-ready-for-foreign-visitors-when-skies-open-up-637789"
+        "title": "When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.",
+        "link": "https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html"
     },
     {
         "title": "Italy prepares to return to school ... with saws",
         "link": "https://www.cnn.com/2020/08/07/europe/italy-school-return-sawing-up-desks-coronavirus-intl/index.html"
     },
     {
-        "title": "India now has more than 2 million confirmed coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/07/asia/india-coronavirus-two-million-intl-hnk/index.html"
+        "title": "India cases double to 2 million in 3 weeks, Thai schools to fully open",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3096433/coronavirus-latest-india-reaches-2-million-cases-lockdown"
     },
     {
         "title": "Even Asymptomatic People Carry the Coronavirus in High Amounts",
         "link": "https://www.nytimes.com/2020/08/06/health/coronavirus-asymptomatic-transmission.html"
     },
     {
-        "title": "Germany fights virus uptick with mandatory testing for travellers",
-        "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
-    },
-    {
-        "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
-        "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
+        "title": "Global report: WHO warns against dangers of 'vaccine nationalism'",
+        "link": "https://www.theguardian.com/world/2020/aug/07/global-report-who-warns-against-dangers-of-vaccine-nationalism"
     },
     {
         "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
     },
     {
-        "title": "A Wedding at This $50 Million Mansion Caused Local Uproar",
-        "link": "https://www.youtube.com/watch?v=0xqAAbIPMsg"
+        "title": "Germany fights virus uptick with mandatory testing for travellers",
+        "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
+    },
+    {
+        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
+        "link": "https://www.bbc.com/news/world-us-canada-53680761"
     }
 ];
