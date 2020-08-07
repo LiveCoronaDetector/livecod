@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html"
     },
     {
-        "title": "Israel’s COVID-19 count surpasses 80,000 as serious cases continue to climb",
-        "link": "https://www.timesofisrael.com/israels-covid-19-count-surpasses-80000-as-serious-cases-continue-to-climb/"
+        "title": "Israeli tourism officials: Ready for foreign visitors when skies open up",
+        "link": "https://www.jpost.com/israel-news/tourism-officials-were-ready-for-foreign-visitors-when-skies-open-up-637789"
     },
     {
         "title": "Italy prepares to return to school ... with saws",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/china-becomes-a-refuge-for-u-s-companies-after-overcoming-covid-19-11596792603"
     },
     {
+        "title": "Covid-19 Live Updates: Global Tracker",
+        "link": "https://www.nytimes.com/2020/08/07/world/covid-19-news.html"
+    },
+    {
         "title": "Germany fights virus uptick with mandatory testing for travellers",
         "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
-    },
-    {
-        "title": "The U.S. has the worst coronavirus outbreak in the world: 'The numbers don't lie,' Dr. Fauci says",
-        "link": "https://www.cnbc.com/2020/08/05/dr-fauci-agrees-the-us-has-the-worst-coronvirus-outbreak-in-the-world-the-numbers-dont-lie.html"
     }
 ];
