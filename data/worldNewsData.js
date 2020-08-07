@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-07-20-intl/index.html"
     },
     {
-        "title": "Live updates: Coronavirus relief measures hang by a thread as White House, Democrats fail to reach compromise",
+        "title": "Live updates: Virus relief bill hangs by a thread; Ohio Gov. DeWine tests negative after testing positive",
         "link": "https://www.washingtonpost.com/nation/2020/08/07/coronavirus-covid-live-updates-us/"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/06/coronavirus-global-report-germany-and-france-record-biggest-rise-in-cases-since-may"
     },
     {
-        "title": "India Consumer Habits: Changes During Coronavirus Lockdown",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a02016a0-d88c-11ea-97ab-c3422278ab50&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOC0wNi9pbmRpYS1jb25zdW1lci1oYWJpdHMtY2hhbmdlcy1kdXJpbmctY29yb25hdmlydXMtbG9ja2Rvd24="
+        "title": "Coronavirus: India becomes third country to pass two million cases",
+        "link": "https://www.bbc.com/news/world-asia-india-53674857"
     },
     {
         "title": "Australia's 2nd-largest city goes into tough coronavirus lockdown that could cost economy up to $6.5B",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.yahoo.com/news/germany-tightens-testing-infection-numbers-093138923.html"
     },
     {
-        "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
-        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
+        "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
+        "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
     },
     {
-        "title": "Global report: WHO warns against dangers of 'vaccine nationalism'",
-        "link": "https://www.theguardian.com/world/2020/aug/07/global-report-who-warns-against-dangers-of-vaccine-nationalism"
+        "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
+        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
     },
     {
         "title": "Coronavirus: Los Angeles to shut off water and power to party houses",

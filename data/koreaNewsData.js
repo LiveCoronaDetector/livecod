@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
-        "title": "국내 코로나19 신규 확진 20명…누적 1만4519명(상보)",
-        "link": "https://view.asiae.co.kr/article/2020080710301124842"
-    },
-    {
         "title": "수도권에서 신규 확진자 20명…美 여행금지 권고 해제",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992229?division=NAVER"
     },
     {
+        "title": "국내 코로나19 신규 확진 20명…누적 1만4519명(상보)",
+        "link": "https://view.asiae.co.kr/article/2020080710301124842"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 20명…지역발생 9명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008071012001&code=940601"
+    },
+    {
+        "title": "또 교회에서 집단감염...신규 확진자 20명",
+        "link": "https://www.ytn.co.kr/_ln/0101_202008071633044561"
     },
     {
         "title": "고양 확진자 접촉한 인천 50대 여성 코로나19 양성",
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "삼성메디슨 코로나19 확진자 발생…삼성SDS도 귀가조치",
         "link": "http://it.chosun.com/site/data/html_dir/2020/08/07/2020080702488.html"
-    },
-    {
-        "title": "파주 코로나19 25번째 확진자 발생",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=597109"
     },
     {
         "title": "인도 세계 3번째로 코로나 확진자 200만명 돌파",
