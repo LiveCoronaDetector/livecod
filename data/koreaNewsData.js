@@ -18,11 +18,15 @@ var koreaNewsData = [
     },
     {
         "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
     },
     {
         "title": "서울서 13번째 코로나 사망자 발생… 기저질환 90대",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/07/2020080701798.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 20명…지역발생 9명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008071012001&code=940601"
     },
     {
         "title": "[전문] 대구지역 35일째 코로나19 지역감염 '0'",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
-        "title": "코로나19 신규 환자 20명…전세계 감염자 1900만명 넘어",
-        "link": "http://www.dongascience.com/news/view/38869"
-    },
-    {
-        "title": "[종합] 강화군 송해면 우뢰기도원서 70대 확진 - 강화군 3번째 확진자",
-        "link": "http://www.incheonin.com/news/articleView.html?idxno=74688"
+        "title": "트럼프, \"11월 3일 이전에 코로나 백신 나올 수 있다\"",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=403649&class=42&grp="
     }
 ];
