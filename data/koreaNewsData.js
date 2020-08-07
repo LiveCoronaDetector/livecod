@@ -17,24 +17,24 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214644"
     },
     {
-        "title": "서울시 신규 코로나19 확진자 17명 늘어",
-        "link": "http://www.fnnews.com/news/202008071937371512"
+        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
     },
     {
         "title": "교회發 확진자 줄줄이…“집단감염 계속되면 방역 강화”",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992290?division=NAVER"
     },
     {
-        "title": "日 코로나19 하루 신규 확진자수 1600명 육박…일주일만에 최다치 경신(상보)",
-        "link": "https://view.asiae.co.kr/article/2020080720234941202"
+        "title": "[속보] 日 코로나19 하루 신규 확진자수 1600명 육박…일주일만에 최다치 경신",
+        "link": "https://view.asiae.co.kr/article/2020080720103227228"
+    },
+    {
+        "title": "서울시 신규 코로나19 확진자 17명 늘어",
+        "link": "http://www.fnnews.com/news/202008071937371512"
     },
     {
         "title": "日 코로나 하루 확진 1천600명 육박…7일 만에 최다치 경신(종합)",
         "link": "http://yna.kr/AKR20200807158651073?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
     },
     {
         "title": "日 도쿄 코로나19 하루 평균 확진자수 400명대로 ↑…가정내 감염이 원인",
