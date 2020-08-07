@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214644"
     },
     {
+        "title": "日 코로나19 하루 평균 확진자수 400명대로 ↑…가정내 감염이 원인",
+        "link": "https://view.asiae.co.kr/article/2020080716144968241"
+    },
+    {
         "title": "고양 확진자 접촉한 인천 50대 여성 코로나19 양성",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4511866&ref=A"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "서울서 13번째 코로나 사망자 발생… 기저질환 90대",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/07/2020080701798.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "부산 감천항 영진607호 선장 확진자 접촉자 99명…추가 발생은 없어",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020080714230431841"
     }
 ];

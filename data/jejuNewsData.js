@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/06/2020080603250.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "\"제주 언론 코로나 보도, 결과적으로 소수자를 구분\"",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318738"
+    },
+    {
         "title": "[대구] 코로나 안끝났는데…서구의회 제주도 단체 연수 '논란'",
         "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=65&p_no=106919"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'휴가는 제주에서' 관광객 코로나 이전 넘어서",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/04/2020080401525.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "아이들은 학교에 부모는 '집콕' 코로나가 바꾼 여름휴가 신풍속",
-        "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=769086"
     }
 ];
