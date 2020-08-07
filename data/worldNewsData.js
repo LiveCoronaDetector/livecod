@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/06/coronavirus-global-report-germany-and-france-record-biggest-rise-in-cases-since-may"
     },
     {
-        "title": "Coronavirus: India becomes third country to pass two million cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53674857"
+        "title": "India now has more than 2 million confirmed coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/07/asia/india-coronavirus-two-million-intl-hnk/index.html"
     },
     {
         "title": "Australia's 2nd-largest city goes into tough coronavirus lockdown that could cost economy up to $6.5B",
         "link": "https://www.foxbusiness.com/economy/australias-second-largest-city-goes-into-tough-coronavirus-lockdown-expected-to-cost-economy-up-to-6-5-billion"
-    },
-    {
-        "title": "Live Coronavirus News: Global Tracker",
-        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
     },
     {
         "title": "Germany fights virus uptick with mandatory testing for travellers",
@@ -35,6 +31,10 @@ var worldNewsData = [
     {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
         "link": "https://www.cnbc.com/2020/08/06/world-health-organization-asks-the-us-to-reconsider-withdrawing-from-international-group.html"
+    },
+    {
+        "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
+        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
     },
     {
         "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
