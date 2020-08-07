@@ -204,9 +204,9 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 95942,
+        "확진자수": 96922,
         "사망자수": 1058,
-        "완치자수": 68871
+        "완치자수": 70680
     },
     {
         "Name": "이집트",
@@ -273,20 +273,20 @@ var marker = [
         "완치자수": 40539
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "확진자수": 72016,
+        "사망자수": 9861,
+        "완치자수": 17700
+    },
+    {
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
         "확진자수": 71418,
         "사망자수": 1574,
         "완치자수": 45658
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "확진자수": 71158,
-        "사망자수": 9859,
-        "완치자수": 17661
     },
     {
         "Name": "쿠웨이트",
@@ -361,20 +361,20 @@ var marker = [
         "완치자수": 35642
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 45755,
+        "사망자수": 1446,
+        "완치자수": 6225
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
         "확진자수": 45244,
         "사망자수": 930,
         "완치자수": 32430
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 45098,
-        "사망자수": 1423,
-        "완치자수": 6116
     },
     {
         "Name": "바레인",
@@ -1417,20 +1417,20 @@ var marker = [
         "완치자수": 184
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "확진자수": 176,
+        "사망자수": 16,
+        "완치자수": 86
+    },
+    {
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
         "확진자수": 163,
         "사망자수": 3,
         "완치자수": 53
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 160,
-        "사망자수": 16,
-        "완치자수": 64
     },
     {
         "Name": "Bermuda",

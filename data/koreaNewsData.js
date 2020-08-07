@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020080733107"
     },
     {
-        "title": "코로나 신규 확진자 43명…8일만에 40명대로",
-        "link": "http://www.hani.co.kr/arti/society/health/956688.html"
+        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071035371541"
     },
     {
-        "title": "‘코로나19’ 신규 확진 20명…국내발생 9명·해외유입 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511629&ref=A"
+        "title": "서울서 13번째 코로나 사망자 발생… 기저질환 90대",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/07/2020080701798.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[전문] 대구지역 35일째 코로나19 지역감염 '0'",
         "link": "https://news.imaeil.com/Society/2020080710363002457"
     },
     {
-        "title": "어제 코로나 환자 20명…지역 9·해외 11명 '최근 1주일간 최소 확진'(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/07/2020080701330.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 신규 확진자 43명…8일만에 40명대로",
+        "link": "http://www.hani.co.kr/arti/society/health/956688.html"
     },
     {
-        "title": "[속보]'코로나 진원' 중국 후베이성 입국제한 6개월만에 해제",
-        "link": "https://www.sedaily.com/NewsView/1Z6HJNKPKB"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 43명 증가...지역 23명 중 경기 11명",
-        "link": "http://www.fnnews.com/news/202008061021112417"
+        "title": "코로나19 확진자 4일만에 20명대…국내 9명·해외 11명(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02109046625865024"
     },
     {
         "title": "[전문] 동작구청 71번째 확진자 발생...노량진1동 거주",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=374799"
     },
     {
-        "title": "트럼프, \"11월 3일 이전에 코로나 백신 나올 수 있다\"",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=403649&class=42&grp="
+        "title": "[종합] 강화군 송해면 우뢰기도원서 70대 확진 - 강화군 3번째 확진자",
+        "link": "http://www.incheonin.com/news/articleView.html?idxno=74688"
+    },
+    {
+        "title": "‘코로나19’ 신규 확진 20명…국내발생 9명·해외유입 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511629&ref=A"
     }
 ];
