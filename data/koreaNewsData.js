@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008061021112417"
     },
     {
+        "title": "트럼프, \"11월 3일 이전에 코로나 백신 나올 수 있다\"",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=403649&class=42&grp="
+    },
+    {
         "title": "코로나19 신규확진 43명…수도권 16명·검역 6명",
         "link": "https://news.imaeil.com/Society/2020080610211185239"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/06/2020080690041.html"
     },
     {
-        "title": "‘코로나19’ 신규 확진 33명…국내 발생 15명·해외 유입 18명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4510097&ref=A"
+        "title": "코로나19 ‘홍천 캠핑-강남 커피점-V빌딩’ 연관성은?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4511199&ref=A"
     },
     {
-        "title": "독일 코로나19 하루 신규 확진자, 3개월만에 1천명 넘어서(종합)",
-        "link": "http://yna.kr/AKR20200806158251082?did=1195m"
+        "title": "'동선 복잡하고 감염경로 깜깜이' 부산 170번 확진자가 심상찮다",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020080619222285817"
     },
     {
-        "title": "코로나19에도 영국인들을 웃게 만든 것",
-        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002619100016&ctcd=C07"
-    },
-    {
-        "title": "전남 동부권서 코로나19 확진자 2명 발생(종합)",
-        "link": "http://yna.kr/AKR20200805073700054?did=1195m"
+        "title": "韓입국 주한미군 장병·직원 6명 코로나 확진.. 누적 139명",
+        "link": "http://www.fnnews.com/news/202008061903555407"
     }
 ];
