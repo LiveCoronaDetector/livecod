@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/07/europe/italy-school-return-sawing-up-desks-coronavirus-intl/index.html"
     },
     {
-        "title": "Cuomo, de Blasio have mixed feelings about exodus of New York's wealthy residents",
-        "link": "https://www.youtube.com/watch?v=2ztP-ZTAWlw"
+        "title": "Coronavirus: India hits 2 million cases as health volunteers go on strike",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-india-hits-2-million-cases-health-volunteers-go-strike-n1236116"
     },
     {
         "title": "China Becomes a Refuge for U.S. Companies After Overcoming Covid-19",
         "link": "https://www.wsj.com/articles/china-becomes-a-refuge-for-u-s-companies-after-overcoming-covid-19-11596792603"
-    },
-    {
-        "title": "Governor Andrew Cuomo says schools in New York state can reopen",
-        "link": "https://abc7ny.com/education/live-%7C-cuomo-says-schools-in-ny-state-can-reopen/6359311/"
     },
     {
         "title": "Germany fights virus uptick with mandatory testing for travellers",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
         "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
+    },
+    {
+        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
+        "link": "https://www.bbc.com/news/world-us-canada-53680761"
     }
 ];
