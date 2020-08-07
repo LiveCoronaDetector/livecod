@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html"
     },
     {
-        "title": "Israeli tourism officials: Ready for foreign visitors when skies open up",
-        "link": "https://www.jpost.com/israel-news/tourism-officials-were-ready-for-foreign-visitors-when-skies-open-up-637789"
+        "title": "White House duo urge Trump to sign executive orders on coronavirus relief as talks collapse – live",
+        "link": "https://www.theguardian.com/us-news/live/2020/aug/07/coronavirus-us-covid-19-death-toll-nancy-pelosi-donald-trump-joe-biden-live-updates"
     },
     {
         "title": "Italy prepares to return to school ... with saws",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/china-becomes-a-refuge-for-u-s-companies-after-overcoming-covid-19-11596792603"
     },
     {
-        "title": "Coronavirus stimulus talks fall apart in 'disappointing' meeting between Democrats, White House",
-        "link": "https://www.cnbc.com/2020/08/07/coronavirus-stimulus-updates-relief-bill-stalls-trump-mulls-executive-order.html"
+        "title": "It would be fine for Trump to accept the nomination at the White House",
+        "link": "https://www.washingtonpost.com/opinions/2020/08/06/it-would-be-fine-trump-accept-nomination-white-house/"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-07-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Germany closes two schools due to fresh outbreaks",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "The World Health Organization Is Wrong about More than Just Masks",
         "link": "https://www.nationalreview.com/2020/08/world-health-organization-policy-creates-global-blood-plasma-shortage/"
-    },
-    {
-        "title": "Hours of Talks on U.S. Coronavirus Relief End With No Deal",
-        "link": "https://www.nytimes.com/2020/08/06/world/coronavirus-covid.html"
     }
 ];
