@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/china-becomes-a-refuge-for-u-s-companies-after-overcoming-covid-19-11596792603"
     },
     {
-        "title": "NY extends eviction moratorium but renters say more needs to be done",
-        "link": "https://www.youtube.com/watch?v=ZbLqowje12A"
+        "title": "Cuomo authorizes New York schools to reopen amid coronavirus pandemic",
+        "link": "https://www.foxnews.com/politics/cuomo-expected-to-announce-new-yorks-school-reopening-plan-amid-coronavirus-pandemic"
     },
     {
-        "title": "Germany to Require COVID-19 Test for Travelers Upon Entry from Hotspots",
-        "link": "https://www.moroccoworldnews.com/2020/08/314444/germany-to-require-covid-19-test-for-travelers-upon-entry-from-hotspots/"
+        "title": "Coronavirus: Germany closes two schools due to fresh outbreaks",
+        "link": "https://www.dw.com/en/germany-closes-two-schools-due-to-fresh-coronavirus-outbreaks/a-54483737"
     },
     {
         "title": "World Health Organization asks the U.S. to reconsider withdrawing from international group",
