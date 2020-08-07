@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214644"
     },
     {
-        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
-    },
-    {
         "title": "교회發 확진자 줄줄이…“집단감염 계속되면 방역 강화”",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992290?division=NAVER"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "서울시 신규 코로나19 확진자 17명 늘어",
         "link": "http://www.fnnews.com/news/202008071937371512"
+    },
+    {
+        "title": "코로나19 신규 확진 20명...국내발생 9명 해외유입 11명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
     },
     {
         "title": "日 도쿄 코로나19 하루 평균 확진자수 400명대로 ↑…가정내 감염이 원인",
