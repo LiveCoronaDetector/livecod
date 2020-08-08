@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008081020001&code=940100"
     },
     {
-        "title": "광주 코로나19 확진자 2명 발생",
-        "link": "https://hankookilbo.com/News/Read/A2020080817160003074?did=NA"
+        "title": "광주서 코로나19 확진자 발생",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=580426"
     },
     {
         "title": "고양시 교회 관련 확진자 잇따라…지역발생 16일 만에 최다",
