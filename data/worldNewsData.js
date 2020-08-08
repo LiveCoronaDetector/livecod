@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/coronavirus-digest-travelers-to-germany-must-be-tested-or-face-25000-fine/a-54492986"
     },
     {
-        "title": "India's Coronavirus Cases Top 2 Million : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/07/900112972/indias-coronavirus-cases-top-2-million-more-than-62-000-reported-in-one-day"
+        "title": "Coronavirus: India is turning to faster tests to meet targets",
+        "link": "https://www.bbc.com/news/world-asia-india-53609404"
     },
     {
         "title": "Japan's coronavirus fatigue is fueling defiance in Tokyo, even as the case count rises",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53690711"
     },
     {
+        "title": "Trump Vows to Issue Executive Orders if Coronavirus Relief Talks Collapse",
+        "link": "https://www.nytimes.com/2020/08/07/world/covid-19-news.html"
+    },
+    {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-will-end-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "Ohio Gov. DeWine tells 'Your World' positive coronavirus test 'certainly scared me'",
-        "link": "https://www.foxnews.com/politics/mike-dewine-positive-coronavirus-test-ohio-governor"
-    },
-    {
-        "title": "Coronavirus Live Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-08-20-intl/index.html"
     }
 ];

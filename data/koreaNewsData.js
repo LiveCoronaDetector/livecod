@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0104_202008082258194124"
     },
     {
-        "title": "광주서 5일만에 코로나19 지역감염 확진자 발생...누적 209명",
-        "link": "http://www.fnnews.com/news/202008081630416912"
+        "title": "일본, 도쿄서 코로나19 확진자 이틀 연속 400명대",
+        "link": "http://www.econovill.com/news/articleView.html?idxno=407578"
     }
 ];
