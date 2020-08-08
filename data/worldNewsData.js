@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/07/world/covid-19-news.html"
     },
     {
-        "title": "Canada to U.S. Visitors: Please Don’t Sneak Across the Border",
-        "link": "https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html"
+        "title": "Angry Canadians are going after illegal US visitors amid COVID-19",
+        "link": "https://nypost.com/2020/08/07/angry-canadians-going-after-illegal-us-visitors-amid-covid-19/"
     },
     {
         "title": "Pakistan to roll back lockdown measures as COVID-19 death numbers decline",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/07/900112972/indias-coronavirus-cases-top-2-million-more-than-62-000-reported-in-one-day"
     },
     {
-        "title": "Stimulus talks break down on Capitol Hill as negotiators walk away without a deal",
-        "link": "https://www.cnn.com/2020/08/07/politics/stimulus-talks-coronavirus/index.html"
+        "title": "Coronavirus live news: Brazil death toll nears 100,000 as Australia struggles to contain cases",
+        "link": "https://www.theguardian.com/world/live/2020/aug/08/coronavirus-live-news-brazil-death-toll-nears-100000-as-australia-struggles-to-contain-cases"
     },
     {
-        "title": "Opinion: Trump's next executive order could help the jobless, but it's wrong on so many levels",
-        "link": "https://news.yahoo.com/opinion-trumps-next-executive-order-211940784.html"
+        "title": "Obesity, race play roles in severe COVID-19 illness among kids",
+        "link": "https://www.nbcnews.com/health/health-news/obesity-race-play-roles-severe-covid-19-illness-among-kids-n1236121"
+    },
+    {
+        "title": "Coronavirus: Germany to test arrivals from risk countries like US, cases rising - Business Insider",
+        "link": "https://www.businessinsider.com/coronavirus-germany-to-test-arrivals-from-risky-countries-like-us-new-daily-cases-rising-2020-8"
     },
     {
         "title": "The World Health Organization Is Wrong about More than Just Masks",
         "link": "https://www.nationalreview.com/2020/08/world-health-organization-policy-creates-global-blood-plasma-shortage/"
-    },
-    {
-        "title": "Coronavirus: Los Angeles to shut off water and power to party houses",
-        "link": "https://www.bbc.com/news/world-us-canada-53680761"
     },
     {
         "title": "The U.S. has the worst coronavirus outbreak in the world: 'The numbers don't lie,' Dr. Fauci says",

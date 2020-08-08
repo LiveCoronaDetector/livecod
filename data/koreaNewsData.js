@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008071214056754"
     },
     {
-        "title": "日 도쿄 코로나19 하루 평균 확진자수 400명대로 ↑…가정내 감염이 원인",
-        "link": "https://view.asiae.co.kr/article/2020080716144968241"
-    },
-    {
         "title": "고양 반석교회 확진자 중 보육교사 포함…어린이집 전수조사",
         "link": "http://yna.kr/AKR20200807150600060?did=1195m"
+    },
+    {
+        "title": "주한미군, 수도권 코로나 확진자 감소세에 보건조치 완화",
+        "link": "http://www.fnnews.com/news/202008072057120863"
     }
 ];
