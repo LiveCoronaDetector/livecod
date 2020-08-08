@@ -5,16 +5,8 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424338"
     },
     {
-        "title": "코로나19 제주 24번 확진자 22일 만에 퇴원…격리 환자 4명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4512537&ref=A"
-    },
-    {
         "title": "고양 반석교회 확진자 근무한 어린이집서 4명 추가 확진(종합)",
         "link": "http://yna.kr/AKR20200808028651060?did=1195m"
-    },
-    {
-        "title": "고양반석교회 확진자 16명등 교회 2곳 관련 환자 32명으로 늘어",
-        "link": "http://www.kyeongin.com/main/view.php?key=20200808010001654"
     },
     {
         "title": "제주항공 조종사, 코로나19 확진···제주행 운항",
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진 제주항공 조종사 도내 접촉자 없어",
         "link": "https://jejumbc.com/article/xXmNykKzfzMXu_"
+    },
+    {
+        "title": "[대구] 코로나 안끝났는데…서구의회 제주도 단체 연수 '논란'",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=65&p_no=106919"
+    },
+    {
+        "title": "밀려드는 피서객 ‘해운대發 코로나 뇌관 터질라’ 불안",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     }
 ];
