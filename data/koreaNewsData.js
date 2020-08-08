@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008081020001&code=940100"
     },
     {
-        "title": "광주 나흘 만에 코로나19 확진자 2명 발생… 감염 경로 확인 중(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5391817"
+        "title": "광주 코로나19 확진자 2명 발생",
+        "link": "https://hankookilbo.com/News/Read/A2020080817160003074?did=NA"
     },
     {
         "title": "코로나19 제주 24번 확진자 퇴원…4명 남아",
