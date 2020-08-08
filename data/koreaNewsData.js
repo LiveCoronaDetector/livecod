@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
     {
-        "title": "고양시 교회 관련 확진자 잇따라…지역발생 16일 만에 최다",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4512464&ref=A"
-    },
-    {
         "title": "세인트루이스, 코로나19 추가 확진자 발생…또 경기 취소",
         "link": "http://yna.kr/AKR20200808014300007?did=1195m"
     },
@@ -25,12 +21,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008081020001&code=940100"
     },
     {
-        "title": "광주 코로나19 확진자 2명 발생",
-        "link": "https://hankookilbo.com/News/Read/A2020080817160003074?did=NA"
+        "title": "광주서 코로나19 확진자 발생",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=580426"
     },
     {
-        "title": "코로나19 제주 24번 확진자 퇴원…4명 남아",
-        "link": "http://www.newsis.com/view/?id=NISX20200808_0001123074&cID=10813&pID=10800"
+        "title": "고양시 교회 관련 확진자 잇따라…지역발생 16일 만에 최다",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4512464&ref=A"
+    },
+    {
+        "title": "코로나19 24번 확진자 22일만에 퇴원",
+        "link": "http://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2020080821065813548?feed=na"
     },
     {
         "title": "미국 코로나19 확진자 500만 명 넘어...전세계 2천만 명 육박",

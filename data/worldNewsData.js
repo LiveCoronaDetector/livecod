@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53690711"
     },
     {
-        "title": "Coronavirus Live Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
+        "title": "Trump Vows to Issue Executive Orders if Coronavirus Relief Talks Collapse",
+        "link": "https://www.nytimes.com/2020/08/07/world/covid-19-news.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-will-end-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "Trump Vows to Issue Executive Orders if Coronavirus Relief Talks Collapse",
-        "link": "https://www.nytimes.com/2020/08/07/world/covid-19-news.html"
+        "title": "Ohio Gov. DeWine tells 'Your World' positive coronavirus test 'certainly scared me'",
+        "link": "https://www.foxnews.com/politics/mike-dewine-positive-coronavirus-test-ohio-governor"
     }
 ];
