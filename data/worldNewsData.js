@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-53712087"
     },
     {
-        "title": "Greek Island Locks Down as COVID-19 Infections Soar Across Country",
-        "link": "https://www.voanews.com/covid-19-pandemic/greek-island-locks-down-covid-19-infections-soar-across-country"
+        "title": "No. of Israeli coronavirus patients in serious condition nears 400",
+        "link": "https://www.jpost.com/health-science/special-headquarters-in-haredi-coronavirus-red-zones-starts-today-637971"
     },
     {
         "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
         "link": "https://www.cnn.com/2020/08/09/europe/italy-coronavirus-return-normal-intl/index.html"
     },
     {
-        "title": "India Covid-19 tally zooms past 21 lakh with record single-day spike of 64,399 cases",
-        "link": "https://www.tribuneindia.com/news/nation/india-covid-19-tally-zooms-past-21-lakh-with-record-single-day-spike-of-64-399-cases-124205"
+        "title": "Deadly fire at coronavirus facility in south India",
+        "link": "https://www.aljazeera.com/news/2020/08/deadly-fire-coronavirus-facility-south-india-200809064454139.html"
     },
     {
         "title": "Japan's coronavirus fatigue is fueling defiance in Tokyo, even as the case count rises",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-will-end-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "Coronavirus: Johnson urged to help out travellers stuck in quarantine",
-        "link": "https://www.theguardian.com/world/2020/aug/08/boris-johnson-compensate-travellers-coronavirus-quarantine"
+        "title": "What kind of face mask best protects against coronavirus?",
+        "link": "https://www.theguardian.com/world/2020/aug/08/what-kind-of-face-mask-best-protects-against-coronavirus"
     },
     {
-        "title": "Coronavirus Live Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
+        "title": "Brazil COVID-19 deaths pass 100000 milestone",
+        "link": "https://www.youtube.com/watch?v=8JC9ESf3vPY"
     }
 ];
