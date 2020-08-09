@@ -13,8 +13,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
     {
+        "title": "日 “새 유전자 배열 코로나19 전역 확산…6월 도쿄서 발생”(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200809500055&wlog_tag3=naver"
+    },
+    {
         "title": "코로나19 신규확진 36명…지역감염 30명·해외유입 6명",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220080800004"
+    },
+    {
+        "title": "교회 집단감염으로 국내 코로나19 확진자 36명 늘어",
+        "link": "https://www.pressian.com/pages/articles/2020080913224836334?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "코로나19 위기 바닥 찍었나…KDI \"경기 부진 완화\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
     },
     {
         "title": "코로나19 신규 확진자 36명…‘이틀 연속’ 30명 대",
@@ -25,19 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200809016400075?did=1195m"
     },
     {
-        "title": "코로나19 위기 바닥 찍었나…KDI \"경기 부진 완화\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
-    },
-    {
-        "title": "신규확진 36명…\"고양 반석교회 확진자 13명 쏟아져\"(종합)",
-        "link": "https://www.news1.kr/articles/?4020825"
-    },
-    {
-        "title": "국내 코로나19 확진자 36명 늘어…전세계 감염자 2000만명 돌파 '눈앞'",
-        "link": "http://www.dongascience.com/news/view/38921"
-    },
-    {
-        "title": "김포서 교인 등 2명 코로나19 확진…방역당국 \"접촉자 파악중\"(종합)",
-        "link": "http://yna.kr/AKR20200809024351065?did=1195m"
+        "title": "코로나19 국내 발생 이틀째 30명…교회 소모임 감염 여파 지속",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4512780&ref=A"
     }
 ];
