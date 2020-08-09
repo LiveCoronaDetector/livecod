@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=ZCmInrJ2WZw"
     },
     {
-        "title": "Coronavirus: Johnson urged to help out travellers stuck in quarantine",
-        "link": "https://www.theguardian.com/world/2020/aug/08/boris-johnson-compensate-travellers-coronavirus-quarantine"
+        "title": "COVID-19 nears 20 million cases worldwide",
+        "link": "https://www.youtube.com/watch?v=wEeWJZNA-sc"
     },
     {
-        "title": "Coronavirus Vietnam: The mysterious resurgence of Covid-19",
-        "link": "https://www.bbc.com/news/world-asia-53690711"
+        "title": "Coronavirus: Johnson urged to help out travellers stuck in quarantine",
+        "link": "https://www.theguardian.com/world/2020/aug/08/boris-johnson-compensate-travellers-coronavirus-quarantine"
     }
 ];
