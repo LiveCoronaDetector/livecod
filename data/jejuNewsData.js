@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.seoulwire.com/news/articleView.html?idxno=423356"
     },
     {
+        "title": "도내 24번 코로나19 확진자 22일만에 퇴원",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169325"
+    },
+    {
         "title": "휴가철 파티장으로 변한 게스트하우스… ‘코로나 집단감염’ 우려 커져",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/06/2020080603250.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[대구] 코로나 안끝났는데…서구의회 제주도 단체 연수 '논란'",
         "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=65&p_no=106919"
-    },
-    {
-        "title": "밀려드는 피서객 ‘해운대發 코로나 뇌관 터질라’ 불안",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020080319150804553"
     }
 ];

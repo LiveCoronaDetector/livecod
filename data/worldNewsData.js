@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/08/french-tourist-chiefs-on-knife-edge-as-country-may-be-next-on-uk-quarantine-list"
     },
     {
-        "title": "Coronavirus: India is turning to faster tests to meet targets",
-        "link": "https://www.bbc.com/news/world-asia-india-53609404"
+        "title": "(16) One of the India plane crash victims had Covid-19",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-08-20-intl/h_abc198590c594bc0b4f064d0f0bb182b"
     },
     {
         "title": "Coronavirus live news: US nears 5m cases as Australian border closures ramp up",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-will-end-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "Coronavirus Vietnam: The mysterious resurgence of Covid-19",
-        "link": "https://www.bbc.com/news/world-asia-53690711"
+        "title": "What kind of face mask best protects against coronavirus?",
+        "link": "https://www.theguardian.com/world/2020/aug/08/what-kind-of-face-mask-best-protects-against-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-08-20-intl/index.html"
+        "title": "Coronavirus Vietnam: The mysterious resurgence of Covid-19",
+        "link": "https://www.bbc.com/news/world-asia-53690711"
     }
 ];
