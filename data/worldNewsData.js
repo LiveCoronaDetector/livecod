@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-53712087"
     },
     {
-        "title": "No. of Israeli coronavirus patients in serious condition nears 400",
-        "link": "https://www.jpost.com/health-science/special-headquarters-in-haredi-coronavirus-red-zones-starts-today-637971"
+        "title": "Thousands of Palestinians flock to Israeli beaches, restaurants",
+        "link": "https://www.jpost.com/health-science/thousands-of-palestinians-flock-to-israeli-beaches-restaurants-637975"
     },
     {
         "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/07/asia/tokyo-coronavirus-fatigue-intl-hnk/index.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-09-20-intl/index.html"
+    },
+    {
         "title": "Covid-19: only half of Britons would definitely have vaccination",
         "link": "https://www.theguardian.com/world/2020/aug/09/only-half-of-britons-would-definitely-have-covid-19-vaccination"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-will-end-for-the-rich-world-by-end-of-2021/"
-    },
-    {
-        "title": "Coronavirus Live Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
     }
 ];

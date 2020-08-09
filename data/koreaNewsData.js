@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
     },
     {
+        "title": "日도쿄 코로나 신규 확진자 331명…\"나흘 연속 300선 넘겨\"",
+        "link": "https://view.asiae.co.kr/article/2020080915595456574"
+    },
+    {
+        "title": "[브리핑] 코로나 신규 확진자 수 '개선'…깜깜이 비율은 6.4%→8.5%",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005922497&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "“남대문시장 케네디상가 관련 코로나19 확진자 다수\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02223846625865680"
+    },
+    {
         "title": "코로나19 신규확진 36명…지역감염 30명·해외유입 6명",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220080800004"
-    },
-    {
-        "title": "日 국립감염증연구소 \"새 유전자 배열 코로나19 일본 전역으로 확산\"",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000992395?division=NAVER"
-    },
-    {
-        "title": "일평균 확진자 12.1명으로 줄었지만…깜깜이 비율은 ↑",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200809000205"
-    },
-    {
-        "title": "교회 집단감염으로 국내 코로나19 확진자 36명 늘어",
-        "link": "https://www.pressian.com/pages/articles/2020080913224836334?utm_source=naver&utm_medium=search"
     }
 ];
