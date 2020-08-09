@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020080978487"
     },
     {
+        "title": "[속보]코로나19 신규 확진자 36명···지역발생 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091021001&code=940100"
+    },
+    {
         "title": "코로나 신규 확진자 43명…이틀 만에 40명대",
         "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 36명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091021001&code=940100"
+        "title": "코로나19 신규 확진자 36명…지역감염 급증",
+        "link": "http://www.sportsseoul.com/news/read/944202?ref=naver"
+    },
+    {
+        "title": "코로나19 신규확진 36명…지역감염 30명·해외유입 6명",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220080800004"
     },
     {
         "title": "코로나19 신규 환자 36명…지역발생 30명·해외유입 6명",
         "link": "https://www.donga.com/news/article/all/20200809/102369669/1"
     },
     {
+        "title": "[속보]코로나19 신규 확진자 36명…'이틀 연속' 30명 대",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214838"
+    },
+    {
+        "title": "미국인 3명중 1명 \"코로나 백신 접종 안할거야\"",
+        "link": "http://yna.kr/AKR20200809006800009?did=1195m"
+    },
+    {
         "title": "코로나 36명 신규 확진… 이틀 연속 지역발생 30명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/09/2020080900364.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "세인트루이스, 코로나19 추가 확진자 발생…또 경기 취소",
-        "link": "http://yna.kr/AKR20200808014300007?did=1195m"
-    },
-    {
-        "title": "고양시 교회 관련 확진자 잇따라…지역발생 16일 만에 최다",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4512464&ref=A"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 43명…지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008081020001&code=940100"
-    },
-    {
-        "title": "美 코로나19 확진자 500만명 넘어..16일만에 100만명 증가",
-        "link": "http://www.sportsseoul.com/news/read/944194?ref=naver"
-    },
-    {
-        "title": "광주, 나흘 만에 확진자 발생…감염경로 파악 중",
-        "link": "https://www.hankyung.com/society/article/2020080866967"
+        "title": "지역감염 이틀째 30명대…경기 반석교회 확진자 `우수수`(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01341526625865680"
     }
 ];
