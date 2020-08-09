@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020080978487"
     },
     {
+        "title": "[코로나19] 수도권 교회發 확진자 재증가…고양서만 10명 추가 확진(종합)",
+        "link": "http://www.newspim.com/news/view/20200809000133"
+    },
+    {
         "title": "코로나 신규 확진자 43명…이틀 만에 40명대",
         "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
     },
     {
-        "title": "16일 만에 100만명 감염…미 코로나19 누적환자 500만명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200809016400075?did=1195m"
-    },
-    {
-        "title": "코로나19 지역 발생 30명…교회 감염 여파",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5868354_32496.html"
+        "title": "고양시 코로나19 전방위 확산…하루밤새 9명발생",
+        "link": "http://www.fnnews.com/news/202008091324418821"
     }
 ];
