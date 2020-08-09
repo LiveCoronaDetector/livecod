@@ -13,20 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
     {
-        "title": "코로나19 신규 확진자 36명…‘이틀 연속’ 30명 대",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214838"
-    },
-    {
         "title": "교회 집단감염으로 국내 코로나19 확진자 36명 늘어",
         "link": "https://www.pressian.com/pages/articles/2020080913224836334?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "‘수도권’ 교회, 코로나19 집단감염 계속",
-        "link": "http://www.fnnews.com/news/202008091450138994"
+        "title": "[속보]코로나19 신규 확진자 36명···지역발생 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091021001&code=940100"
     },
     {
-        "title": "고양 반석교회 확진자 벌써 24명…어린이집 등 확산 지속",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008090061&t=NN"
+        "title": "‘수도권’ 교회, 코로나19 집단감염 계속",
+        "link": "http://www.fnnews.com/news/202008091450138994"
     },
     {
         "title": "코로나19 신규확진 36명…지역감염 30명·해외유입 6명",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
     },
     {
-        "title": "고양시, 9일 오전 기준 코로나19 확진자 9명 추가 발생",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1406335"
+        "title": "KDI \"코로나 여파 경기부진 다소 완화…대외 불확실성 여전\"",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/09/2020080990050.html"
+    },
+    {
+        "title": "쿠팡 부천물류센터 코로나19 확진자 산업재해 인정",
+        "link": "http://www.tbs.seoul.kr/news/bunya.do?method=daum_html2&typ_800=6&idx_800=3399811&seq_800=20392388"
     }
 ];
