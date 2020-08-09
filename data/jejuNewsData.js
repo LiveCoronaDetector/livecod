@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5391892"
     },
     {
+        "title": "제주여행 코로나19 고양시 어린이집 원아 등 8명 음성",
+        "link": "http://www.ihalla.com/read.php3?aid=1596943799689407121"
+    },
+    {
         "title": "제주항공 조종사, 코로나19 확진···제주행 운항",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169324"
     },
@@ -21,8 +25,8 @@ var jejuNewsData = [
         "link": "http://www.seoulwire.com/news/articleView.html?idxno=423356"
     },
     {
-        "title": "제주여행 코로나19 고양시 어린이집 원아 등 8명 음성",
-        "link": "http://www.ihalla.com/read.php3?aid=1596943799689407121"
+        "title": "〔종합〕타시·도 코로나19 산발적 감염…제주도, 방역당국 '긴장'",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169343"
     },
     {
         "title": "휴가철 파티장으로 변한 게스트하우스… ‘코로나 집단감염’ 우려 커져",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "\"제주 언론 코로나 보도, 결과적으로 소수자를 구분\"",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318738"
-    },
-    {
-        "title": "코로나19 확진 제주항공 조종사 도내 접촉자 없어",
-        "link": "https://jejumbc.com/article/xXmNykKzfzMXu_"
     }
 ];
