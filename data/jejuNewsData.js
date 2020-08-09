@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169343"
     },
     {
-        "title": "휴가철 파티장으로 변한 게스트하우스… ‘코로나 집단감염’ 우려 커져",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/06/2020080603250.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "제주 코로나19 24번 확진자 퇴원...도내 격리치료중인 환자는 4명뿐",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327141"
     }
 ];

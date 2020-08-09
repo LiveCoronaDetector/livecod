@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/07/asia/tokyo-coronavirus-fatigue-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-09-20-intl/index.html"
+        "title": "Covid-19: only half of Britons would definitely have vaccination",
+        "link": "https://www.theguardian.com/world/2020/aug/09/only-half-of-britons-would-definitely-have-covid-19-vaccination"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-will-end-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "What kind of face mask best protects against coronavirus?",
-        "link": "https://www.theguardian.com/world/2020/aug/08/what-kind-of-face-mask-best-protects-against-coronavirus"
+        "title": "Coronavirus Live Updates: Latest News and Analysis",
+        "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
     },
     {
         "title": "Brazil COVID-19 deaths pass 100000 milestone",
