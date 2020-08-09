@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.seoulwire.com/news/articleView.html?idxno=423356"
     },
     {
+        "title": "제주여행 코로나19 고양시 어린이집 원아 등 8명 음성",
+        "link": "http://www.ihalla.com/read.php3?aid=1596943799689407121"
+    },
+    {
         "title": "도내 24번 코로나19 확진자 22일만에 퇴원",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169325"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진 제주항공 조종사 도내 접촉자 없어",
         "link": "https://jejumbc.com/article/xXmNykKzfzMXu_"
-    },
-    {
-        "title": "[대구] 코로나 안끝났는데…서구의회 제주도 단체 연수 '논란'",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=65&p_no=106919"
     }
 ];
