@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-will-end-for-the-rich-world-by-end-of-2021/"
     },
     {
+        "title": "Coronavirus: Johnson urged to help out travellers stuck in quarantine",
+        "link": "https://www.theguardian.com/world/2020/aug/08/boris-johnson-compensate-travellers-coronavirus-quarantine"
+    },
+    {
         "title": "Coronavirus Vietnam: The mysterious resurgence of Covid-19",
         "link": "https://www.bbc.com/news/world-asia-53690711"
     },
     {
         "title": "What kind of face mask best protects against coronavirus?",
         "link": "https://www.theguardian.com/world/2020/aug/08/what-kind-of-face-mask-best-protects-against-coronavirus"
-    },
-    {
-        "title": "Trump Vows to Issue Executive Orders if Coronavirus Relief Talks Collapse",
-        "link": "https://www.nytimes.com/2020/08/07/world/covid-19-news.html"
     }
 ];
