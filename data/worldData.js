@@ -358,7 +358,7 @@ var marker = [
         "Name_en": "Poland",
         "확진자수": 51167,
         "사망자수": 1800,
-        "완치자수": 36403
+        "완치자수": 36691
     },
     {
         "Name": "Honduras",
@@ -532,9 +532,9 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "확진자수": 21919,
+        "확진자수": 22033,
         "사망자수": 721,
-        "완치자수": 19812
+        "완치자수": 19923
     },
     {
         "Name": "호주",
@@ -1649,6 +1649,14 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "St. Barth",
+        "Name_ch": "",
+        "Name_en": "St. Barth",
+        "확진자수": 13,
+        "사망자수": 0,
+        "완치자수": 6
+    },
+    {
         "Name": "Vatican City",
         "Name_ch": "",
         "Name_en": "Vatican City",
@@ -1679,14 +1687,6 @@ var marker = [
         "확진자수": 9,
         "사망자수": 1,
         "완치자수": 7
-    },
-    {
-        "Name": "St. Barth",
-        "Name_ch": "",
-        "Name_en": "St. Barth",
-        "확진자수": 9,
-        "사망자수": 0,
-        "완치자수": 6
     },
     {
         "Name": "Saint Pierre Miquelon",

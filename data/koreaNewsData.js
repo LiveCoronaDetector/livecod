@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020080913224836334?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 36명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091021001&code=940100"
-    },
-    {
-        "title": "‘수도권’ 교회, 코로나19 집단감염 계속",
-        "link": "http://www.fnnews.com/news/202008091450138994"
-    },
-    {
-        "title": "코로나19 신규확진 36명…지역감염 30명·해외유입 6명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220080800004"
+        "title": "경기 고양 반석교회 누적 확진자 24명…교회 집단감염 지속",
+        "link": "http://yna.kr/AKR20200809035100530?did=1195m"
     },
     {
         "title": "코로나19 위기 바닥 찍었나…KDI \"경기 부진 완화\"",
         "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
     },
     {
+        "title": "日도쿄 코로나 신규 확진자 331명…\"나흘 연속 300선 넘겨\"",
+        "link": "https://view.asiae.co.kr/article/2020080915595456574"
+    },
+    {
+        "title": "쿠팡 물류센터 코로나 감염 노동자 산재 인정",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091635001&code=940702"
+    },
+    {
         "title": "KDI \"코로나 여파 경기부진 다소 완화…대외 불확실성 여전\"",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/09/2020080990050.html"
     },
     {
-        "title": "쿠팡 부천물류센터 코로나19 확진자 산업재해 인정",
-        "link": "http://www.tbs.seoul.kr/news/bunya.do?method=daum_html2&typ_800=6&idx_800=3399811&seq_800=20392388"
+        "title": "교회 → 어린이집 → 지역사회… 코로나 소규모 집단감염 이어져(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/09/2020080900752.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
