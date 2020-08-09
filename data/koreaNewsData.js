@@ -5,24 +5,20 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020080978487"
     },
     {
-        "title": "[코로나19] 수도권 교회發 확진자 재증가…고양서만 10명 추가 확진(종합)",
-        "link": "http://www.newspim.com/news/view/20200809000133"
+        "title": "코로나19 신규 확진자 36명...이틀째 지역발생 30명",
+        "link": "http://www.hani.co.kr/arti/society/health/957008.html"
     },
     {
         "title": "코로나 신규 확진자 43명…이틀 만에 40명대",
         "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
     {
-        "title": "코로나19 신규 확진자 36명...이틀째 지역발생 30명",
-        "link": "http://www.hani.co.kr/arti/society/health/957008.html"
+        "title": "코로나19 신규 확진자 36명…‘이틀 연속’ 30명 대",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214838"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 36명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091021001&code=940100"
-    },
-    {
-        "title": "日 “새 유전자 배열 코로나19 전역 확산…6월 도쿄서 발생”(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200809500055&wlog_tag3=naver"
+        "title": "‘수도권’ 교회, 코로나19 집단감염 계속",
+        "link": "http://www.fnnews.com/news/202008091450138994"
     },
     {
         "title": "코로나19 신규확진 36명…지역감염 30명·해외유입 6명",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
     },
     {
-        "title": "고양시 코로나19 전방위 확산…하루밤새 9명발생",
-        "link": "http://www.fnnews.com/news/202008091324418821"
+        "title": "日 “새 유전자 배열 코로나19 전역 확산…6월 도쿄서 발생”(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200809500055&wlog_tag3=naver"
+    },
+    {
+        "title": "고양시, 9일 오전 기준 코로나19 확진자 9명 추가 발생",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1406335"
     }
 ];

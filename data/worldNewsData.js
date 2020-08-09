@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.voanews.com/covid-19-pandemic/au-aggressive-bold-action-needed-combat-covid-19-africa"
     },
     {
-        "title": "The Coronavirus Could Be Controlled by October With the Right Steps",
-        "link": "https://www.nytimes.com/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html"
+        "title": "Coronavirus Live Updates: Latest News and Analysis",
+        "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
     },
     {
         "title": "US downgrades COVID-19 risk for 20 countries, Israel not included",
@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53609404"
     },
     {
-        "title": "Coronavirus live news: US nears 5m cases as Australian border closures ramp up",
+        "title": "Coronavirus live news: US nears 5m cases as Australia records deadliest day",
         "link": "https://www.theguardian.com/world/live/2020/aug/09/coronavirus-live-news-us-nears-5m-cases-as-australian-border-closures-ramp-up"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=ZCmInrJ2WZw"
     },
     {
-        "title": "Coronavirus Vietnam: The mysterious resurgence of Covid-19",
-        "link": "https://www.bbc.com/news/world-asia-53690711"
-    },
-    {
         "title": "Coronavirus: Johnson urged to help out travellers stuck in quarantine",
         "link": "https://www.theguardian.com/world/2020/aug/08/boris-johnson-compensate-travellers-coronavirus-quarantine"
+    },
+    {
+        "title": "Coronavirus Vietnam: The mysterious resurgence of Covid-19",
+        "link": "https://www.bbc.com/news/world-asia-53690711"
     }
 ];
