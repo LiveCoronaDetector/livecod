@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=ZCmInrJ2WZw"
     },
     {
-        "title": "COVID-19 nears 20 million cases worldwide",
-        "link": "https://www.youtube.com/watch?v=wEeWJZNA-sc"
+        "title": "A look at the United States' unique failure in responding to coronavirus",
+        "link": "https://www.startribune.com/a-look-at-the-united-states-unique-failure-in-responding-to-coronavirus/572053602/"
     },
     {
-        "title": "Coronavirus: Johnson urged to help out travellers stuck in quarantine",
-        "link": "https://www.theguardian.com/world/2020/aug/08/boris-johnson-compensate-travellers-coronavirus-quarantine"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-09-20-intl/index.html"
     }
 ];

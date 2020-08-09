@@ -812,9 +812,9 @@ var marker = [
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "확진자수": 4653,
+        "확진자수": 4696,
         "사망자수": 602,
-        "완치자수": 3491
+        "완치자수": 3499
     },
     {
         "Name": "CAR",
@@ -1409,6 +1409,14 @@ var marker = [
         "완치자수": 202
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 197,
+        "사망자수": 2,
+        "완치자수": 39
+    },
+    {
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
@@ -1431,14 +1439,6 @@ var marker = [
         "확진자수": 188,
         "사망자수": 3,
         "완치자수": 53
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 170,
-        "사망자수": 2,
-        "완치자수": 39
     },
     {
         "Name": "Bermuda",

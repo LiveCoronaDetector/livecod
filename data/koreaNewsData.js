@@ -9,20 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/957008.html"
     },
     {
-        "title": "[속보] 日 연구소 \"새로운 유전자 형태 코로나19 일본 확산\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008090053&t=NN"
+        "title": "코로나 신규 확진자 43명…이틀 만에 40명대",
+        "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
     {
         "title": "코로나19 신규 확진자 36명…‘이틀 연속’ 30명 대",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214838"
-    },
-    {
-        "title": "김포서 교인 등 2명 코로나19 확진…방역당국 \"접촉자 파악중\"(종합)",
-        "link": "http://yna.kr/AKR20200809024351065?did=1195m"
-    },
-    {
-        "title": "코로나 신규 확진자 43명…이틀 만에 40명대",
-        "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
     {
         "title": "교회 집단감염으로 국내 코로나19 확진자 36명 늘어",
@@ -33,11 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008091450138994"
     },
     {
-        "title": "글로벌 코로나19 확진자 2000만명 돌파",
-        "link": "https://www.hankyung.com/international/article/202008098220i"
+        "title": "고양 반석교회 확진자 벌써 24명…어린이집 등 확산 지속",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008090061&t=NN"
     },
     {
         "title": "코로나19 신규확진 36명…지역감염 30명·해외유입 6명",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220080800004"
+    },
+    {
+        "title": "코로나19 위기 바닥 찍었나…KDI \"경기 부진 완화\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
+    },
+    {
+        "title": "고양시, 9일 오전 기준 코로나19 확진자 9명 추가 발생",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1406335"
     }
 ];
