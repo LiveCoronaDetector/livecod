@@ -9,20 +9,28 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200809046451530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 36명...이틀째 지역발생 30명",
-        "link": "http://www.hani.co.kr/arti/society/health/957008.html"
+        "title": "쿠팡 물류센터 코로나 확진자, 첫 산업재해 인정",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/09/2020080901208.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나 신규 확진자 43명…이틀 만에 40명대",
         "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
     {
-        "title": "‘수도권’ 교회, 코로나19 집단감염 계속",
-        "link": "http://www.fnnews.com/news/202008091450138994"
+        "title": "코로나19 신규 확진자 36명...이틀째 지역발생 30명",
+        "link": "http://www.hani.co.kr/arti/society/health/957008.html"
     },
     {
         "title": "교회 집단감염으로 국내 코로나19 확진자 36명 늘어",
         "link": "https://www.pressian.com/pages/articles/2020080913224836334?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "코로나19 신규 확진자 36명…‘이틀 연속’ 30명 대",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214838"
+    },
+    {
+        "title": "‘수도권’ 교회, 코로나19 집단감염 계속",
+        "link": "http://www.fnnews.com/news/202008091450138994"
     },
     {
         "title": "코로나19 위기 바닥 찍었나…KDI \"경기 부진 완화\"",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "日도쿄 코로나 신규 확진자 331명…\"나흘 연속 300선 넘겨\"",
         "link": "https://view.asiae.co.kr/article/2020080915595456574"
-    },
-    {
-        "title": "쿠팡 물류센터 코로나 감염 노동자 산재 인정",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091635001&code=940702"
-    },
-    {
-        "title": "KDI \"코로나 여파 경기부진 다소 완화…대외 불확실성 여전\"",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/09/2020080990050.html"
     }
 ];

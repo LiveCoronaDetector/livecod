@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/09/latest_news/1596949669_897073.html"
     },
     {
-        "title": "Brazil passes 100,000 Covid-19 deaths, as cases top 3 million",
-        "link": "https://www.cnn.com/2020/08/08/world/brazil-covid-19-deaths-intl/index.html"
+        "title": "The Coronavirus Could Be Controlled by October With the Right Steps",
+        "link": "https://www.nytimes.com/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html"
     },
     {
         "title": "US downgrades COVID-19 risk for 20 countries, Israel not included",
