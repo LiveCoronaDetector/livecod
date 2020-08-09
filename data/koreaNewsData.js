@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020080978487"
     },
     {
+        "title": "2주간 일평균 확진자 19.9명→12.1명…깜깜이 비율은 6.4%→8.5%(종합)",
+        "link": "http://yna.kr/AKR20200809046451530?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진자 36명...이틀째 지역발생 30명",
         "link": "http://www.hani.co.kr/arti/society/health/957008.html"
     },
@@ -13,12 +17,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/956969.html"
     },
     {
-        "title": "교회 집단감염으로 국내 코로나19 확진자 36명 늘어",
-        "link": "https://www.pressian.com/pages/articles/2020080913224836334?utm_source=naver&utm_medium=search"
+        "title": "‘수도권’ 교회, 코로나19 집단감염 계속",
+        "link": "http://www.fnnews.com/news/202008091450138994"
     },
     {
-        "title": "경기 고양 반석교회 누적 확진자 24명…교회 집단감염 지속",
-        "link": "http://yna.kr/AKR20200809035100530?did=1195m"
+        "title": "교회 집단감염으로 국내 코로나19 확진자 36명 늘어",
+        "link": "https://www.pressian.com/pages/articles/2020080913224836334?utm_source=naver&utm_medium=search"
     },
     {
         "title": "코로나19 위기 바닥 찍었나…KDI \"경기 부진 완화\"",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "KDI \"코로나 여파 경기부진 다소 완화…대외 불확실성 여전\"",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/09/2020080990050.html"
-    },
-    {
-        "title": "교회 → 어린이집 → 지역사회… 코로나 소규모 집단감염 이어져(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/09/2020080900752.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

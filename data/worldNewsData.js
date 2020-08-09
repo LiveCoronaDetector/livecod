@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/09/latest_news/1596949669_897073.html"
     },
     {
-        "title": "Coronavirus Live Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
+        "title": "Brazil passes 100,000 Covid-19 deaths, as cases top 3 million",
+        "link": "https://www.cnn.com/2020/08/08/world/brazil-covid-19-deaths-intl/index.html"
     },
     {
         "title": "US downgrades COVID-19 risk for 20 countries, Israel not included",
@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/08/french-tourist-chiefs-on-knife-edge-as-country-may-be-next-on-uk-quarantine-list"
     },
     {
-        "title": "Coronavirus: India is turning to faster tests to meet targets",
-        "link": "https://www.bbc.com/news/world-asia-india-53609404"
+        "title": "Deadly fire at coronavirus facility in south India",
+        "link": "https://www.aljazeera.com/news/2020/08/deadly-fire-coronavirus-facility-south-india-200809064454139.html"
     },
     {
-        "title": "Coronavirus live news: US nears 5m cases as Australia records deadliest day",
-        "link": "https://www.theguardian.com/world/live/2020/aug/09/coronavirus-live-news-us-nears-5m-cases-as-australian-border-closures-ramp-up"
+        "title": "Japan's coronavirus fatigue is fueling defiance in Tokyo, even as the case count rises",
+        "link": "https://www.cnn.com/2020/08/07/asia/tokyo-coronavirus-fatigue-intl-hnk/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
