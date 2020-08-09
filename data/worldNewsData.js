@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/09/latest_news/1596949669_897073.html"
     },
     {
-        "title": "Coronavirus Live Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
+        "title": "Coronavirus: Brazil passes 100,000 deaths as outbreak shows no sign of easing",
+        "link": "https://www.bbc.com/news/world-latin-america-53712087"
     },
     {
-        "title": "US downgrades COVID-19 risk for 20 countries, Israel not included",
-        "link": "https://www.jpost.com/international/us-downgrades-covid-19-risk-for-20-countries-israel-not-included-637968"
+        "title": "Greek Island Locks Down as COVID-19 Infections Soar Across Country",
+        "link": "https://www.voanews.com/covid-19-pandemic/greek-island-locks-down-covid-19-infections-soar-across-country"
     },
     {
         "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
         "link": "https://www.cnn.com/2020/08/09/europe/italy-coronavirus-return-normal-intl/index.html"
     },
     {
-        "title": "India's Coronavirus Cases Top 2 Million : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/07/900112972/indias-coronavirus-cases-top-2-million-more-than-62-000-reported-in-one-day"
+        "title": "India Covid-19 tally zooms past 21 lakh with record single-day spike of 64,399 cases",
+        "link": "https://www.tribuneindia.com/news/nation/india-covid-19-tally-zooms-past-21-lakh-with-record-single-day-spike-of-64-399-cases-124205"
     },
     {
         "title": "Japan's coronavirus fatigue is fueling defiance in Tokyo, even as the case count rises",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-will-end-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "A look at the United States' unique failure in responding to coronavirus",
-        "link": "https://www.startribune.com/a-look-at-the-united-states-unique-failure-in-responding-to-coronavirus/572053602/"
+        "title": "Coronavirus: Johnson urged to help out travellers stuck in quarantine",
+        "link": "https://www.theguardian.com/world/2020/aug/08/boris-johnson-compensate-travellers-coronavirus-quarantine"
     },
     {
-        "title": "Covid-19: only half of Britons would definitely have vaccination",
-        "link": "https://www.theguardian.com/world/2020/aug/09/only-half-of-britons-would-definitely-have-covid-19-vaccination"
+        "title": "Coronavirus Live Updates: Latest News and Analysis",
+        "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
     }
 ];
