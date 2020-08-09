@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html"
     },
     {
-        "title": "'Your time is up': Thousands protest against Netanyahu over COVID-19 and alleged corruption",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-israel-protests/your-time-is-up-thousands-protest-against-netanyahu-over-covid-19-and-alleged-corruption-idUSKCN2540TW"
+        "title": "Member of Israeli virus research team in India confirmed infected on flight home",
+        "link": "https://www.timesofisrael.com/member-of-israeli-virus-research-team-in-india-confirmed-infected-on-flight-home/"
     },
     {
         "title": "Fingers crossed at France's brasseries and cafes as tourist quarantines loom",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53690711"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-08-20-intl/index.html"
+        "title": "What kind of face mask best protects against coronavirus?",
+        "link": "https://www.theguardian.com/world/2020/aug/08/what-kind-of-face-mask-best-protects-against-coronavirus"
     }
 ];

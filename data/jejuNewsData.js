@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200808028651060?did=1195m"
     },
     {
+        "title": "코로나19 제주 24번 환자 3주만에 퇴원",
+        "link": "https://www.nocutnews.co.kr/news/5391892"
+    },
+    {
         "title": "제주항공 조종사, 코로나19 확진···제주행 운항",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169324"
     },
@@ -19,10 +23,6 @@ var jejuNewsData = [
     {
         "title": "제주여행 코로나19 고양시 어린이집 원아 등 8명 음성",
         "link": "http://www.ihalla.com/read.php3?aid=1596943799689407121"
-    },
-    {
-        "title": "도내 24번 코로나19 확진자 22일만에 퇴원",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169325"
     },
     {
         "title": "휴가철 파티장으로 변한 게스트하우스… ‘코로나 집단감염’ 우려 커져",

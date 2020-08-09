@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020080978487"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 36명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091021001&code=940100"
+        "title": "코로나19 신규 확진자 36명...이틀째 지역발생 30명",
+        "link": "http://www.hani.co.kr/arti/society/health/957008.html"
     },
     {
         "title": "코로나 신규 확진자 43명…이틀 만에 40명대",
@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220080800004"
     },
     {
-        "title": "국내 코로나19 확진자 36명 늘어…전세계 감염자 2000만명 돌파 '눈앞'",
-        "link": "http://www.dongascience.com/news/view/38921"
+        "title": "코로나19 신규 확진자 36명…‘이틀 연속’ 30명 대",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214838"
     },
     {
         "title": "16일 만에 100만명 감염…미 코로나19 누적환자 500만명 넘어(종합)",
         "link": "http://yna.kr/AKR20200809016400075?did=1195m"
     },
     {
-        "title": "코로나 36명 신규 확진… 이틀 연속 지역발생 30명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/09/2020080900364.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나19 위기 바닥 찍었나…KDI \"경기 부진 완화\"",
         "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
     },
     {
-        "title": "미국인 3명중 1명 \"코로나 백신 접종 안할거야\" [갤럽]",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5868200_32640.html"
-    },
-    {
         "title": "신규확진 36명…\"고양 반석교회 확진자 13명 쏟아져\"(종합)",
         "link": "https://www.news1.kr/articles/?4020825"
+    },
+    {
+        "title": "국내 코로나19 확진자 36명 늘어…전세계 감염자 2000만명 돌파 '눈앞'",
+        "link": "http://www.dongascience.com/news/view/38921"
+    },
+    {
+        "title": "김포서 교인 등 2명 코로나19 확진…방역당국 \"접촉자 파악중\"(종합)",
+        "link": "http://yna.kr/AKR20200809024351065?did=1195m"
     }
 ];
