@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/53684037"
     },
     {
-        "title": "Coronavirus: Brazil passes 100,000 deaths as outbreak shows no sign of easing",
-        "link": "https://www.bbc.com/news/world-latin-america-53712087"
+        "title": "U.S. tops 5 million coronavirus cases as outbreak threatens America's Midwest",
+        "link": "https://www.cnbc.com/2020/08/09/coronavirus-us-tops-5-million-cases-as-outbreak-threatens-americas-heartland.html"
     },
     {
-        "title": "Thousands of Palestinians flock to Israeli beaches, restaurants",
-        "link": "https://www.jpost.com/health-science/thousands-of-palestinians-flock-to-israeli-beaches-restaurants-637975"
+        "title": "Coronavirus: August set to be Israel’s deadliest month",
+        "link": "https://www.jpost.com/health-science/coronavirus-august-set-to-be-israels-deadliest-month-637999"
     },
     {
         "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-09-20-intl/index.html"
     },
     {
-        "title": "Covid-19: only half of Britons would definitely have vaccination",
-        "link": "https://www.theguardian.com/world/2020/aug/09/only-half-of-britons-would-definitely-have-covid-19-vaccination"
+        "title": "Coronavirus: Brazil passes 100,000 deaths as outbreak shows no sign of easing",
+        "link": "https://www.bbc.com/news/world-latin-america-53712087"
     },
     {
-        "title": "Brazil COVID-19 deaths pass 100000 milestone",
-        "link": "https://www.youtube.com/watch?v=8JC9ESf3vPY"
+        "title": "Covid-19: only half of Britons would definitely have vaccination",
+        "link": "https://www.theguardian.com/world/2020/aug/09/only-half-of-britons-would-definitely-have-covid-19-vaccination"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",

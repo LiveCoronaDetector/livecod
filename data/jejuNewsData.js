@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5391892"
     },
     {
-        "title": "제주여행 코로나19 고양시 어린이집 원아 등 8명 음성",
-        "link": "http://www.ihalla.com/read.php3?aid=1596943799689407121"
-    },
-    {
         "title": "창고 불법 개조 배드민턴장 설치...코로나 방역 '찬물'",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169421"
+    },
+    {
+        "title": "제주여행 코로나19 고양시 어린이집 원아 등 8명 음성",
+        "link": "http://www.ihalla.com/read.php3?aid=1596943799689407121"
     },
     {
         "title": "\"제주 언론 코로나 보도, 결과적으로 소수자를 구분\"",

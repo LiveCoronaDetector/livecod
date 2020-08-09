@@ -17,24 +17,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200809035100530?did=1195m"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 36명···지역발생 30명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091021001&code=940100"
-    },
-    {
-        "title": "코로나19 위기 바닥 찍었나…KDI \"경기 부진 완화\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
-    },
-    {
-        "title": "日도쿄 코로나 신규 확진자 331명…\"나흘 연속 300선 넘겨\"",
-        "link": "https://view.asiae.co.kr/article/2020080915595456574"
-    },
-    {
         "title": "[브리핑] 코로나 신규 확진자 수 '개선'…깜깜이 비율은 6.4%→8.5%",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005922497&plink=ORI&cooper=NAVER"
     },
     {
         "title": "“남대문시장 케네디상가 관련 코로나19 확진자 다수\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02223846625865680"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 36명···지역발생 30명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008091021001&code=940100"
+    },
+    {
+        "title": "日 국립감염증연구소 \"새 유전자 배열 코로나19 일본 전역으로 확산\"",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000992395?division=NAVER"
+    },
+    {
+        "title": "코로나19 위기 바닥 찍었나…KDI \"경기 부진 완화\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200807_0001121938&cID=10401&pID=10400"
     },
     {
         "title": "코로나19 신규확진 36명…지역감염 30명·해외유입 6명",
