@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/10/german-firms-expect-coronavirus-restrictions-to-last-until-april.html"
     },
     {
-        "title": "Manmohan Singh's 'three steps' to stem India's economic crisis",
-        "link": "https://www.bbc.com/news/world-asia-india-53675858"
+        "title": "Coronavirus latest: NY Fed predicts more US groups face potential credit crunch",
+        "link": "https://www.ft.com/content/004caa56-ba26-3c4b-a93b-31241c2b6a4c"
     },
     {
         "title": "Coronavirus: Australia records deadliest day but fewer new infections",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-end-for-rich-world-by-end-of-2021/"
     },
     {
-        "title": "New Zealand marks 100 straight days without new coronavirus infection",
-        "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
+        "title": "At Least 97,000 Children in the U.S. Tested Positive in Last 2 Weeks of July",
+        "link": "https://www.nytimes.com/2020/08/09/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Inside the Wuhan lab at the center of the coronavirus storm",
-        "link": "https://news.yahoo.com/inside-wuhan-lab-center-coronavirus-105800253.html"
+        "title": "New Zealand marks 100 straight days without new coronavirus infection",
+        "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
     }
 ];
