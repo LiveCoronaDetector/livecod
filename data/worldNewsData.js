@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/09/coronavirus-us-tops-5-million-cases-as-outbreak-threatens-americas-heartland.html"
     },
     {
-        "title": "Israel has another set of coronavirus directives - what are they?",
-        "link": "https://www.jpost.com/health-science/israel-has-another-set-of-coronavirus-directives-what-are-they-638032"
+        "title": "Greece sets coronavirus cases record; 10,000 dead in Chile: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/covid-19-cases-hit-5-million-brazil-deaths-100000-live-200808230306049.html"
     },
     {
         "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53675858"
     },
     {
-        "title": "Trump’s Lies About China and the Coronavirus",
-        "link": "https://slate.com/news-and-politics/2020/08/trump-lies-china-coronavirus-timeline.html"
+        "title": "Australia sees deadliest day of coronavirus pandemic: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/australia-sees-biggest-rise-coronavirus-deaths-live-updates-200809235933134.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",

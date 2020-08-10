@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
     },
     {
+        "title": "[오피셜] '챔스 초비상!' ATM 1군에서 코로나 확진자 2명 발생",
+        "link": "http://www.interfootball.co.kr/news/articleView.html?idxno=500658"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 28명...국내발생 17명",
         "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
     },
     {
-        "title": "코로나19 신규확진 28명…지역발생 17명·해외유입 11명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/10/2020081090059.html"
-    },
-    {
-        "title": "[코로나19] 김포 ‘주님의샘 장로교회’ 8명 집단감염",
-        "link": "http://www.fnnews.com/news/202008101134214713"
+        "title": "김포 장로교회 교인 6명 코로나19 무더기 확진…방역당국 '비상'(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200810_0001124168&cID=10802&pID=14000"
     },
     {
         "title": "해외발 입국자에서 '코로나19' 변이 3건 확인…\"WHO에 보고\"",
         "link": "https://www.news1.kr/articles/?4021894"
     },
     {
+        "title": "코로나19 신규확진 28명…지역발생 17명·해외유입 11명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/10/2020081090059.html"
+    },
+    {
         "title": "중국서 코로나 '무증상 감염' 한국발 역유입 첫 발생(종합)",
         "link": "http://yna.kr/AKR20200810105300083?did=1195m"
-    },
-    {
-        "title": "전세계 코로나19 확진 2천만명…43일만에 1천만명 증가",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5869047_32640.html"
-    },
-    {
-        "title": "일본 코로나 확진자 5만명 육박…아베 “긴급사태 재선언 피해야”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200810000023"
     },
     {
         "title": "'아베 지지 안한다' 54%로 사상 최고…코로나 대응 불만",
         "link": "https://www.hankyung.com/international/article/202008109559i"
     },
     {
-        "title": "[전문] 부산 사하구청 15번째 확진자 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=375159"
+        "title": "[코로나19] 김포 ‘주님의샘 장로교회’ 8명 집단감염",
+        "link": "http://www.fnnews.com/news/202008101134214713"
+    },
+    {
+        "title": "전세계 코로나19 확진 2천만명…43일만에 1천만명 증가",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5869047_32640.html"
     }
 ];
