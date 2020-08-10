@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
     },
     {
-        "title": "‘This is unstoppable’: America's midwest braces itself for a Covid-19 surge",
-        "link": "https://www.theguardian.com/world/2020/aug/09/covid-19-us-midwest-masks-missouri-iowa"
+        "title": "Inside the Wuhan lab at the center of the coronavirus storm",
+        "link": "https://news.yahoo.com/inside-wuhan-lab-center-coronavirus-105800253.html"
     }
 ];
