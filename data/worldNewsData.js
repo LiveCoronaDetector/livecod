@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/10/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Greece sets coronavirus cases record; 10,000 dead in Chile: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/covid-19-cases-hit-5-million-brazil-deaths-100000-live-200808230306049.html"
+        "title": "Israel has another set of coronavirus directives - what are they?",
+        "link": "https://www.jpost.com/health-science/israel-has-another-set-of-coronavirus-directives-what-are-they-638032"
     },
     {
         "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
     },
     {
-        "title": "‘This is unstoppable’: America's midwest braces itself for a Covid-19 surge",
-        "link": "https://www.theguardian.com/world/2020/aug/09/covid-19-us-midwest-masks-missouri-iowa"
+        "title": "US, the world's hardest-hit country, reaches 5m coronavirus cases",
+        "link": "https://www.aljazeera.com/news/2020/08/world-hardest-hit-country-reaches-5m-coronavirus-cases-200809143758394.html"
     }
 ];

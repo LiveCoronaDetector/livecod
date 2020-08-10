@@ -9,20 +9,16 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200810_0001124559&cID=10201&pID=10200"
     },
     {
+        "title": "코로나19 신규 확진자 28명 늘어…국내 발생만 17명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214933"
+    },
+    {
         "title": "中, '확진자 분류 아닌' 한국발 첫 무증상 감염자(종합)",
         "link": "http://www.fnnews.com/news/202008101607529580"
     },
     {
         "title": "[속보]코로나19 신규 확진자 28명...국내발생 17명",
         "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
-    },
-    {
-        "title": "[속보] 일본 코로나19 확진 5만명 돌파…미국은 500만명",
-        "link": "https://news.imaeil.com/AP/2020081019023406917"
-    },
-    {
-        "title": "전북 40번째 코로나19 확진자 발생...몰도바공확국 20대 여성(종합)",
-        "link": "http://www.fnnews.com/news/202008101751597164"
     },
     {
         "title": "김포 ‘주님의 샘 장로교회’ 코로나19 확진자 6명 추가…관련 확진자 8명으로...",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.interfootball.co.kr/news/articleView.html?idxno=500658"
     },
     {
-        "title": "\"무증상 코로나19 환자도 바이러스 배출량 비슷\"",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
+        "title": "일본 코로나 확진자 5만명 육박…아베 “긴급사태 재선언 피해야”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200810000023"
     },
     {
-        "title": "코로나19 지역 발생 30명…교회 감염 여파",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5868354_32496.html"
+        "title": "코로나19 신규확진 28명…지역발생 17명·해외유입 11명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/10/2020081090059.html"
+    },
+    {
+        "title": "일본 코로나19 누적 확진자 5만명 넘어서",
+        "link": "http://yna.kr/AKR20200810150000073?did=1195m"
     }
 ];
