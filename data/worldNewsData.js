@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/09/coronavirus-us-tops-5-million-cases-as-outbreak-threatens-americas-heartland.html"
     },
     {
-        "title": "Israel has another set of coronavirus directives - what are they?",
-        "link": "https://www.jpost.com/health-science/israel-has-another-set-of-coronavirus-directives-what-are-they-638032"
+        "title": "Greece sets coronavirus cases record; 10,000 dead in Chile: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/covid-19-cases-hit-5-million-brazil-deaths-100000-live-200808230306049.html"
     },
     {
         "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-end-for-rich-world-by-end-of-2021/"
     },
     {
-        "title": "Latest Research Points to Children Carrying, Transmitting Coronavirus",
-        "link": "https://www.wsj.com/articles/latest-research-points-to-children-carrying-transmitting-coronavirus-11596978001"
+        "title": "At Least 97,000 Children in the U.S. Tested Positive in Last 2 Weeks of July",
+        "link": "https://www.nytimes.com/2020/08/09/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "New Zealand marks 100 straight days without new coronavirus infection",
+        "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
     },
     {
         "title": "‘This is unstoppable’: America's midwest braces itself for a Covid-19 surge",
         "link": "https://www.theguardian.com/world/2020/aug/09/covid-19-us-midwest-masks-missouri-iowa"
-    },
-    {
-        "title": "US, the world's hardest-hit country, reaches 5m coronavirus cases",
-        "link": "https://www.aljazeera.com/news/2020/08/world-hardest-hit-country-reaches-5m-coronavirus-cases-200809143758394.html"
     }
 ];
