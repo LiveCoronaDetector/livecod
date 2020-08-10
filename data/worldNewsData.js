@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-end-for-rich-world-by-end-of-2021/"
     },
     {
+        "title": "‘This is unstoppable’: America's midwest braces itself for a Covid-19 surge",
+        "link": "https://www.theguardian.com/world/2020/aug/09/covid-19-us-midwest-masks-missouri-iowa"
+    },
+    {
         "title": "New Zealand marks 100 straight days without new coronavirus infection",
         "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
     },
     {
         "title": "US, the world's hardest-hit country, reaches 5m coronavirus cases",
         "link": "https://www.aljazeera.com/news/2020/08/world-hardest-hit-country-reaches-5m-coronavirus-cases-200809143758394.html"
-    },
-    {
-        "title": "Ravers and boomers: is intergenerational Covid tension real?",
-        "link": "https://www.theguardian.com/world/2020/aug/09/ravers-and-boomers-is-intergenerational-covid-tension-real"
     }
 ];
