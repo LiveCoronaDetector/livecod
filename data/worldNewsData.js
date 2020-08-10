@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53675858"
     },
     {
-        "title": "Coronavirus: Australia records deadliest day but fewer new infections",
-        "link": "https://www.bbc.com/news/world-australia-53718184"
+        "title": "Global report: Covid cases worldwide near 20 million as Australia suffers deadliest day",
+        "link": "https://www.theguardian.com/world/2020/aug/10/global-report-covid-cases-worldwide-near-20-million-as-australia-suffers-deadliest-day"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
