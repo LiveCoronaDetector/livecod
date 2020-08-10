@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/10/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Greece sets coronavirus cases record; 10,000 dead in Chile: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/covid-19-cases-hit-5-million-brazil-deaths-100000-live-200808230306049.html"
+        "title": "This school reopened and one child infected 25 teachers",
+        "link": "https://www.cnn.com/videos/world/2020/08/10/israel-coronavirus-covid-19-pandemic-schools-outbreaks-gotkine-pkg-intl-ldn-vpx.cnn"
     },
     {
         "title": "German firms expect coronavirus restrictions to last until April",
