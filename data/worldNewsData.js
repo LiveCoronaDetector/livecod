@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53718184"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
-    },
-    {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-end-for-rich-world-by-end-of-2021/"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "New Zealand marks 100 straight days without new coronavirus infection",
         "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
+    },
+    {
+        "title": "‘This is unstoppable’: America's midwest braces itself for a Covid-19 surge",
+        "link": "https://www.theguardian.com/world/2020/aug/09/covid-19-us-midwest-masks-missouri-iowa"
     }
 ];
