@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200810_0001124559&cID=10201&pID=10200"
     },
     {
-        "title": "일본 코로나 누적 확진자 5만명 넘어서…1주일 새 1만명↑(종합)",
-        "link": "http://yna.kr/AKR20200810150051073?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
+    },
+    {
+        "title": "일본 코로나 누적 확진자 5만명 넘어서…1주일 새 1만명↑(종합)",
+        "link": "http://yna.kr/AKR20200810150051073?did=1195m"
     },
     {
         "title": "[속보]코로나19 신규 확진자 28명...국내발생 17명",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008101134214713"
     },
     {
-        "title": "코로나19 국내 확진자 28명…남대문시장 상가 집단감염 확산",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513484&ref=A"
+        "title": "코로나19 신규 확진 36명…교회발 집단감염 지속",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000992374?division=NAVER"
     },
     {
-        "title": "전북 40번째 코로나19 확진자 발생...몰도바공화국 20대 여성(종합)",
-        "link": "http://www.fnnews.com/news/202008101751597164"
+        "title": "코로나19 국내 확진자 28명…남대문시장 상가 집단감염 확산",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513484&ref=A"
     },
     {
         "title": "\"무증상 코로나19 환자도 바이러스 배출량 비슷\"",
         "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
     },
     {
-        "title": "[종합] 코로나19 신규확진 36명…교회감염 여파 지속",
-        "link": "https://www.hankyung.com/society/article/2020080978487"
+        "title": "전북 40번째 코로나19 확진자 발생...몰도바공화국 20대 여성(종합)",
+        "link": "http://www.fnnews.com/news/202008101751597164"
     }
 ];
