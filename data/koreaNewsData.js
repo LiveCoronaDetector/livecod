@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
     },
     {
-        "title": "전북 40번째 코로나19 확진자 발생...몰도바공화국 20대 여성(종합)",
-        "link": "http://www.fnnews.com/news/202008101751597164"
-    },
-    {
         "title": "전세계 코로나19 확진 2천만명…43일만에 1천만명 증가",
         "link": "https://imnews.imbc.com/news/2020/world/article/5869047_32640.html"
-    },
-    {
-        "title": "코로나19 국내 확진자 28명…남대문시장 상가 집단감염 확산",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513484&ref=A"
-    },
-    {
-        "title": "전 세계 코로나19 확진자 수 2000만명 넘어서",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200810000036"
     },
     {
         "title": "[코로나19] 김포 ‘주님의샘 장로교회’ 8명 집단감염",
         "link": "http://www.fnnews.com/news/202008101134214713"
     },
     {
-        "title": "\"코로나19 변이 바이러스 국내 3건 확인···WHO에 보고 안된 사례\"",
-        "link": "https://www.sedaily.com/NewsView/1Z6IY6IGAV"
+        "title": "코로나19 국내 확진자 28명…남대문시장 상가 집단감염 확산",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513484&ref=A"
+    },
+    {
+        "title": "전북 40번째 코로나19 확진자 발생...몰도바공화국 20대 여성(종합)",
+        "link": "http://www.fnnews.com/news/202008101751597164"
+    },
+    {
+        "title": "\"무증상 코로나19 환자도 바이러스 배출량 비슷\"",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
+    },
+    {
+        "title": "[종합] 코로나19 신규확진 36명…교회감염 여파 지속",
+        "link": "https://www.hankyung.com/society/article/2020080978487"
     }
 ];
