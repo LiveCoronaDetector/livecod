@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/10/latest_news/1597036584_738849.html"
     },
     {
-        "title": "Live updates: Coronavirus cases in U.S. top 5 million",
-        "link": "https://www.washingtonpost.com/nation/2020/08/10/coronavirus-covid-live-updates-us/"
+        "title": "U.S. tops 5 million coronavirus cases as outbreak threatens America's Midwest",
+        "link": "https://www.cnbc.com/2020/08/09/coronavirus-us-tops-5-million-cases-as-outbreak-threatens-americas-heartland.html"
     },
     {
         "title": "Israel has another set of coronavirus directives - what are they?",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-end-for-rich-world-by-end-of-2021/"
     },
     {
-        "title": "New Zealand marks 100 straight days without new coronavirus infection",
-        "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
+        "title": "Latest Research Points to Children Carrying, Transmitting Coronavirus",
+        "link": "https://www.wsj.com/articles/latest-research-points-to-children-carrying-transmitting-coronavirus-11596978001"
     },
     {
         "title": "‘This is unstoppable’: America's midwest braces itself for a Covid-19 surge",
