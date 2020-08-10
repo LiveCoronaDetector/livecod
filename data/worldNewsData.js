@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/08/10/israel-coronavirus-covid-19-pandemic-schools-outbreaks-gotkine-pkg-intl-ldn-vpx.cnn"
     },
     {
-        "title": "German firms expect coronavirus restrictions to last until April",
-        "link": "https://www.cnbc.com/2020/08/10/german-firms-expect-coronavirus-restrictions-to-last-until-april.html"
+        "title": "If UK imposes France quarantine, will France do same back?",
+        "link": "https://www.connexionfrance.com/index.php/French-news/is-france-planning-to-impose-quarantine-on-British-visitors-if-uk-imposes-restrictions-of-its-own"
     },
     {
-        "title": "Coronavirus latest: NY Fed predicts more US groups face potential credit crunch",
-        "link": "https://www.ft.com/content/004caa56-ba26-3c4b-a93b-31241c2b6a4c"
+        "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",
+        "link": "https://www.foxnews.com/world/coronavirus-thailand-school-safety-measures"
     },
     {
         "title": "Australia's oldest micronation, Hutt River is no more thanks to Covid-19",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
+        "title": "A Taiwan health official tried to warn the world about the novel coronavirus. The U.S. didn’t listen.",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-taiwan-azar-china-chuang/2020/08/09/52a85140-d8c7-11ea-a788-2ce86ce81129_story.html"
     },
     {
         "title": "Mexico’s Coronavirus Struggle Worsened by Fear of Hospitals",
         "link": "https://www.nytimes.com/2020/08/10/world/americas/mexico-coronavirus-hospitals.html"
     },
     {
-        "title": "A Taiwan health official tried to warn the world about the novel coronavirus. The U.S. didn’t listen.",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-taiwan-azar-china-chuang/2020/08/09/52a85140-d8c7-11ea-a788-2ce86ce81129_story.html"
+        "title": "WHO sees 'green shoots of hope' in coronavirus fight as global cases near 20 million",
+        "link": "https://www.cnbc.com/2020/08/10/coronavirus-who-sees-green-shoots-of-hope-as-global-cases-near-20-million.html"
     }
 ];
