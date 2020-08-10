@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/10/german-firms-expect-coronavirus-restrictions-to-last-until-april.html"
     },
     {
-        "title": "11 patients dead in fire at temporary COVID-19 hospital in India",
-        "link": "https://nypost.com/2020/08/10/11-patients-dead-in-fire-at-temporary-covid-19-hospital-in-india/"
+        "title": "Coronavirus latest: NY Fed predicts more US groups face potential credit crunch",
+        "link": "https://www.ft.com/content/004caa56-ba26-3c4b-a93b-31241c2b6a4c"
     },
     {
         "title": "Australia's oldest micronation, Hutt River is no more thanks to Covid-19",
         "link": "https://www.cnn.com/travel/article/australia-micronation-hutt-river-principality/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
-    },
-    {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "Global report: Covid cases worldwide near 20 million as Australia suffers deadliest day",
-        "link": "https://www.theguardian.com/world/2020/aug/10/global-report-covid-cases-worldwide-near-20-million-as-australia-suffers-deadliest-day"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
+    },
+    {
+        "title": "Mexico’s Coronavirus Struggle Worsened by Fear of Hospitals",
+        "link": "https://www.nytimes.com/2020/08/10/world/americas/mexico-coronavirus-hospitals.html"
     },
     {
         "title": "A Taiwan health official tried to warn the world about the novel coronavirus. The U.S. didn’t listen.",
