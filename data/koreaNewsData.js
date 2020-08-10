@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200810000036"
     },
     {
-        "title": "부산 코로나19 닷새 만에 신규 확진자 발생(10일 오전 10시)",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081010221654306"
+        "title": "코로나19 국내 확진자 28명…남대문시장 상가 집단감염 확산",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513484&ref=A"
     }
 ];

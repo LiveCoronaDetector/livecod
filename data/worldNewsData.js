@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "Greece records daily high of coronavirus cases as Brits flock there for summer holidays",
-        "link": "https://www.mirror.co.uk/news/world-news/greece-records-daily-high-coronavirus-22500055"
+        "title": "Fears coronavirus travel ban imminent as Greece's cases hit pandemic high",
+        "link": "https://www.dailystar.co.uk/news/latest-news/fears-coronavirus-travel-ban-imminent-22500105"
     },
     {
         "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
+        "title": "WHO sees 'green shoots of hope' in coronavirus fight as global cases near 20 million",
+        "link": "https://www.cnbc.com/2020/08/10/coronavirus-who-sees-green-shoots-of-hope-as-global-cases-near-20-million.html"
     },
     {
         "title": "Mexico’s Coronavirus Struggle Worsened by Fear of Hospitals",
         "link": "https://www.nytimes.com/2020/08/10/world/americas/mexico-coronavirus-hospitals.html"
     },
     {
-        "title": "WHO sees 'green shoots of hope' in coronavirus fight as global cases near 20 million",
-        "link": "https://www.cnbc.com/2020/08/10/coronavirus-who-sees-green-shoots-of-hope-as-global-cases-near-20-million.html"
+        "title": "A Taiwan health official tried to warn the world about the novel coronavirus. The U.S. didn’t listen.",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-taiwan-azar-china-chuang/2020/08/09/52a85140-d8c7-11ea-a788-2ce86ce81129_story.html"
     }
 ];
