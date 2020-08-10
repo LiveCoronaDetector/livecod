@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/10/latest_news/1597036584_738849.html"
     },
     {
-        "title": "U.S. tops 5 million coronavirus cases as outbreak threatens America's Midwest",
-        "link": "https://www.cnbc.com/2020/08/09/coronavirus-us-tops-5-million-cases-as-outbreak-threatens-americas-heartland.html"
+        "title": "Live updates: Coronavirus cases in U.S. top 5 million",
+        "link": "https://www.washingtonpost.com/nation/2020/08/10/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Greece sets coronavirus cases record; 10,000 dead in Chile: Live",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/09/europe/italy-coronavirus-return-normal-intl/index.html"
     },
     {
-        "title": "Manmohan Singh's 'three steps' to stem India's economic crisis",
-        "link": "https://www.bbc.com/news/world-asia-india-53675858"
+        "title": "Coronavirus latest: German businesses expect Covid-19 to affect public life until April",
+        "link": "https://www.ft.com/content/004caa56-ba26-3c4b-a93b-31241c2b6a4c"
     },
     {
         "title": "Australia sees deadliest day of coronavirus pandemic: Live",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-end-for-rich-world-by-end-of-2021/"
     },
     {
-        "title": "97,000 children reportedly test positive for COVID-19 as schools gear up for instruction",
-        "link": "https://www.cbsnews.com/news/covid-19-kids-school-children-coronavirus-in-person-instruction/"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
+        "title": "‘This is unstoppable’: America's midwest braces itself for a Covid-19 surge",
+        "link": "https://www.theguardian.com/world/2020/aug/09/covid-19-us-midwest-masks-missouri-iowa"
     },
     {
         "title": "New Zealand marks 100 straight days without new coronavirus infection",
         "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
+    },
+    {
+        "title": "US, the world's hardest-hit country, reaches 5m coronavirus cases",
+        "link": "https://www.aljazeera.com/news/2020/08/world-hardest-hit-country-reaches-5m-coronavirus-cases-200809143758394.html"
     }
 ];
