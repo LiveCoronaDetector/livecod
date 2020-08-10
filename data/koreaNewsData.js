@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
     },
     {
-        "title": "코로나19 신규 확진자 28명 늘어…국내 발생만 17명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214933"
-    },
-    {
         "title": "중국서 코로나 '무증상 감염' 한국발 역유입 첫 발생(종합)",
         "link": "http://yna.kr/AKR20200810105300083?did=1195m"
     },
@@ -21,23 +17,27 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008101609359283"
     },
     {
-        "title": "[오피셜] '챔스 초비상!' ATM 1군에서 코로나 확진자 2명 발생",
-        "link": "http://www.interfootball.co.kr/news/articleView.html?idxno=500658"
-    },
-    {
-        "title": "\"무증상 코로나19 환자도 바이러스 배출량 비슷\"",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
-    },
-    {
-        "title": "코로나19 지역 발생 30명…교회 감염 여파",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5868354_32496.html"
-    },
-    {
-        "title": "일본 코로나 확진자 5만명 육박…아베 “긴급사태 재선언 피해야”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200810000023"
+        "title": "전북 40번째 코로나19 확진자 발생...몰도바공확국 20대 여성(종합)",
+        "link": "http://www.fnnews.com/news/202008101751597164"
     },
     {
         "title": "코로나19 신규확진 28명…지역발생 17명·해외유입 11명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/10/2020081090059.html"
+    },
+    {
+        "title": "코로나19 확진자 28명 증가…국내발생 1명 제외 모두 수도권",
+        "link": "https://www.nocutnews.co.kr/news/5392181"
+    },
+    {
+        "title": "전세계 코로나19 확진 2천만명…43일만에 1천만명 증가",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5869047_32640.html"
+    },
+    {
+        "title": "'아베 지지 안한다' 54%로 사상 최고…코로나 대응 불만",
+        "link": "https://www.hankyung.com/international/article/202008109559i"
+    },
+    {
+        "title": "부산 코로나19 닷새 만에 신규 확진자 발생(10일 오전 10시)",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081010221654306"
     }
 ];
