@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008101607529580"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 28명...국내발생 17명",
-        "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
-    },
-    {
         "title": "WHO도 몰랐던 코로나19 변이, 국내서 3건 확인(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200810_0001124559&cID=10201&pID=10200"
     },
     {
-        "title": "김포 양촌읍 교회서 신도 6명 코로나19 확진…누적 8명",
-        "link": "http://yna.kr/AKR20200810070100065?did=1195m"
-    },
-    {
-        "title": "코로나19 신규확진 28명…지역발생 17명·해외유입 11명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/10/2020081090059.html"
-    },
-    {
-        "title": "코로나19 확진자 28명 증가…국내발생 1명 제외 모두 수도권",
-        "link": "https://www.nocutnews.co.kr/news/5392181"
-    },
-    {
-        "title": "부산 코로나19 닷새 만에 신규 확진자 발생(10일 오전 10시)",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081010221654306"
-    },
-    {
-        "title": "정은경 \"WHO에 보고된 적 없는 변종 코로나 3건 확인\"",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101552001&code=940601"
+        "title": "[속보]코로나19 신규 확진자 28명...국내발생 17명",
+        "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
     },
     {
         "title": "[오피셜] '챔스 초비상!' ATM 1군에서 코로나 확진자 2명 발생",
         "link": "http://www.interfootball.co.kr/news/articleView.html?idxno=500658"
+    },
+    {
+        "title": "\"무증상 코로나19 환자도 바이러스 배출량 비슷\"",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
+    },
+    {
+        "title": "코로나19 지역 발생 30명…교회 감염 여파",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5868354_32496.html"
+    },
+    {
+        "title": "일본 코로나 확진자 5만명 육박…아베 “긴급사태 재선언 피해야”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200810000023"
+    },
+    {
+        "title": "전세계 코로나19 확진자 2천만명 돌파",
+        "link": "http://www.hani.co.kr/arti/international/international_general/957137.html"
+    },
+    {
+        "title": "'아베 지지 안한다' 54%로 사상 최고…코로나 대응 불만",
+        "link": "https://www.hankyung.com/international/article/202008109559i"
     }
 ];
