@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
     },
     {
-        "title": "일본 코로나 누적 확진자 5만명 넘어서…1주일 새 1만명↑(종합)",
-        "link": "http://yna.kr/AKR20200810150051073?did=1195m"
-    },
-    {
         "title": "전세계 코로나19 확진 2천만명…43일만에 1천만명 증가",
         "link": "https://imnews.imbc.com/news/2020/world/article/5869047_32640.html"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992374?division=NAVER"
     },
     {
+        "title": "일본 코로나19 누적 확진자 5만 명 넘어서",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513690&ref=A"
+    },
+    {
+        "title": "전 세계 코로나19 확진자 수 2000만명 넘어서",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200810000036"
+    },
+    {
+        "title": "부산 코로나19 닷새 만에 신규 확진자 발생(10일 오전 10시)",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081010221654306"
+    },
+    {
         "title": "코로나19 국내 확진자 28명…남대문시장 상가 집단감염 확산",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4513484&ref=A"
-    },
-    {
-        "title": "\"무증상 코로나19 환자도 바이러스 배출량 비슷\"",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
-    },
-    {
-        "title": "코로나19 신규확진 28명…지역발생 17명·해외유입 11명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/10/2020081090059.html"
     }
 ];
