@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/10/latest_news/1597036584_738849.html"
     },
     {
-        "title": "97,000 children tested positive for Covid-19 in 2 weeks as more schools plan to reopen",
-        "link": "https://www.cnn.com/2020/08/10/health/us-coronavirus-monday/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "WHO sees 'green shoots of hope' in coronavirus fight as global cases near 20 million",
-        "link": "https://www.cnbc.com/2020/08/10/coronavirus-who-sees-green-shoots-of-hope-as-global-cases-near-20-million.html"
+        "title": "Coronavirus world map: which countries have the most Covid-19 cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-world-map-which-countries-have-the-most-covid-19-cases-and-deaths"
     },
     {
         "title": "Mexico’s Coronavirus Struggle Worsened by Fear of Hospitals",
         "link": "https://www.nytimes.com/2020/08/10/world/americas/mexico-coronavirus-hospitals.html"
     },
     {
-        "title": "A Taiwan health official tried to warn the world about the novel coronavirus. The U.S. didn’t listen.",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-taiwan-azar-china-chuang/2020/08/09/52a85140-d8c7-11ea-a788-2ce86ce81129_story.html"
+        "title": "WHO sees 'green shoots of hope' in coronavirus fight as global cases near 20 million",
+        "link": "https://www.cnbc.com/2020/08/10/coronavirus-who-sees-green-shoots-of-hope-as-global-cases-near-20-million.html"
     }
 ];
