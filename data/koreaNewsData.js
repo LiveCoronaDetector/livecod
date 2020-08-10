@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008101134214713"
     },
     {
+        "title": "\"무증상 코로나19 환자도 바이러스 배출량 비슷\"",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
+    },
+    {
         "title": "코로나19 신규 확진 36명…교회발 집단감염 지속",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992374?division=NAVER"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "부산 코로나19 닷새 만에 신규 확진자 발생(10일 오전 10시)",
         "link": "http://www.busan.com/view/busan/view.php?code=2020081010221654306"
-    },
-    {
-        "title": "코로나19 국내 확진자 28명…남대문시장 상가 집단감염 확산",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513484&ref=A"
     }
 ];
