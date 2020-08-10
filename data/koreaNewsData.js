@@ -9,14 +9,6 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200810_0001124559&cID=10201&pID=10200"
     },
     {
-        "title": "해외발 입국자에서 '코로나19' 변이 3건 확인…\"WHO에 보고\"",
-        "link": "https://www.news1.kr/articles/?4021894"
-    },
-    {
-        "title": "코로나19 신규확진 28명…지역발생 17명·해외유입 11명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/10/2020081090059.html"
-    },
-    {
         "title": "中, '확진자 분류 아닌' 한국발 첫 무증상 감염자(종합)",
         "link": "http://www.fnnews.com/news/202008101607529580"
     },
@@ -25,19 +17,27 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
     },
     {
-        "title": "중국서 코로나 '무증상 감염' 한국발 역유입 첫 발생(종합)",
-        "link": "http://yna.kr/AKR20200810105300083?did=1195m"
+        "title": "[속보] 일본 코로나19 확진 5만명 돌파…미국은 500만명",
+        "link": "https://news.imaeil.com/AP/2020081019023406917"
     },
     {
         "title": "전북 40번째 코로나19 확진자 발생...몰도바공확국 20대 여성(종합)",
         "link": "http://www.fnnews.com/news/202008101751597164"
     },
     {
+        "title": "김포 ‘주님의 샘 장로교회’ 코로나19 확진자 6명 추가…관련 확진자 8명으로...",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513536&ref=A"
+    },
+    {
         "title": "[오피셜] '챔스 초비상!' ATM 1군에서 코로나 확진자 2명 발생",
         "link": "http://www.interfootball.co.kr/news/articleView.html?idxno=500658"
     },
     {
-        "title": "전세계 코로나19 확진 2천만명…43일만에 1천만명 증가",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5869047_32640.html"
+        "title": "\"무증상 코로나19 환자도 바이러스 배출량 비슷\"",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
+    },
+    {
+        "title": "코로나19 지역 발생 30명…교회 감염 여파",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5868354_32496.html"
     }
 ];

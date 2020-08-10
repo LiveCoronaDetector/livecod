@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/10/latest_news/1597036584_738849.html"
     },
     {
-        "title": "U.S. tops 5 million coronavirus cases as outbreak threatens America's Midwest",
-        "link": "https://www.cnbc.com/2020/08/09/coronavirus-us-tops-5-million-cases-as-outbreak-threatens-americas-heartland.html"
+        "title": "More than 97,000 children tested positive for Covid-19 in the last two weeks of July, report says",
+        "link": "https://www.cnn.com/2020/08/10/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "Greece sets coronavirus cases record; 10,000 dead in Chile: Live",
