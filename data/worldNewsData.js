@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53675858"
     },
     {
-        "title": "Global report: Covid cases worldwide near 20 million as Australia suffers deadliest day",
-        "link": "https://www.theguardian.com/world/2020/aug/10/global-report-covid-cases-worldwide-near-20-million-as-australia-suffers-deadliest-day"
+        "title": "Coronavirus: Australia records deadliest day but fewer new infections",
+        "link": "https://www.bbc.com/news/world-australia-53718184"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-end-for-rich-world-by-end-of-2021/"
-    },
-    {
-        "title": "At Least 97,000 Children in the U.S. Tested Positive in Last 2 Weeks of July",
-        "link": "https://www.nytimes.com/2020/08/09/world/coronavirus-covid-19.html"
     },
     {
         "title": "New Zealand marks 100 straight days without new coronavirus infection",
