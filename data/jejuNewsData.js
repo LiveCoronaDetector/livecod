@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424338"
     },
     {
-        "title": "고양 반석교회 확진자 근무한 어린이집서 4명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200808028651060?did=1195m"
-    },
-    {
         "title": "코로나19 제주 24번 환자 3주만에 퇴원",
         "link": "https://www.nocutnews.co.kr/news/5391892"
+    },
+    {
+        "title": "고양 반석교회 확진자 근무한 어린이집서 4명 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200808028651060?did=1195m"
     },
     {
         "title": "창고 불법 개조 배드민턴장 설치...코로나 방역 '찬물'",

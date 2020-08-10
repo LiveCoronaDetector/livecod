@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/09/coronavirus-us-tops-5-million-cases-as-outbreak-threatens-americas-heartland.html"
     },
     {
-        "title": "Coronavirus: August set to be Israel’s deadliest month",
-        "link": "https://www.jpost.com/health-science/coronavirus-august-set-to-be-israels-deadliest-month-637999"
+        "title": "Greece sets coronavirus cases record; 10,000 dead in Chile: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/covid-19-cases-hit-5-million-brazil-deaths-100000-live-200808230306049.html"
     },
     {
         "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/deadly-fire-coronavirus-facility-south-india-200809064454139.html"
     },
     {
-        "title": "Japan's coronavirus fatigue is fueling defiance in Tokyo, even as the case count rises",
-        "link": "https://www.cnn.com/2020/08/07/asia/tokyo-coronavirus-fatigue-intl-hnk/index.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-09-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus: Brazil passes 100,000 deaths as outbreak shows no sign of easing",
-        "link": "https://www.bbc.com/news/world-latin-america-53712087"
-    },
-    {
-        "title": "Covid-19: only half of Britons would definitely have vaccination",
-        "link": "https://www.theguardian.com/world/2020/aug/09/only-half-of-britons-would-definitely-have-covid-19-vaccination"
+        "title": "Australia sees deadliest day of coronavirus pandemic: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/australia-sees-biggest-rise-coronavirus-deaths-live-updates-200809235933134.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-will-end-for-the-rich-world-by-end-of-2021/"
+        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-end-for-rich-world-by-end-of-2021/"
+    },
+    {
+        "title": "97,000 children reportedly test positive for COVID-19 as schools gear up for instruction",
+        "link": "https://www.cbsnews.com/news/covid-19-kids-school-children-coronavirus-in-person-instruction/"
+    },
+    {
+        "title": "‘This is unstoppable’: America's midwest braces itself for a Covid-19 surge",
+        "link": "https://www.theguardian.com/world/2020/aug/09/covid-19-us-midwest-masks-missouri-iowa"
+    },
+    {
+        "title": "New Zealand marks 100 straight days without new coronavirus infection",
+        "link": "https://www.foxnews.com/world/new-zealand-marks-100-straight-days-without-new-coronavirus-infection"
     }
 ];
