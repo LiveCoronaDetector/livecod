@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/10/latest_news/1597036584_738849.html"
     },
     {
-        "title": "More than 97,000 children tested positive for Covid-19 in the last two weeks of July, report says",
-        "link": "https://www.cnn.com/2020/08/10/health/us-coronavirus-monday/index.html"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html"
     },
     {
-        "title": "This school reopened and one child infected 25 teachers",
-        "link": "https://www.cnn.com/videos/world/2020/08/10/israel-coronavirus-covid-19-pandemic-schools-outbreaks-gotkine-pkg-intl-ldn-vpx.cnn"
+        "title": "Israel schools to open Sept. 1 despite coronavirus, Gallant says",
+        "link": "https://www.jpost.com/israel-news/schools-opening-sept-1-says-gallant-here-is-what-learning-will-look-like-638083"
     },
     {
         "title": "German firms expect coronavirus restrictions to last until April",
         "link": "https://www.cnbc.com/2020/08/10/german-firms-expect-coronavirus-restrictions-to-last-until-april.html"
     },
     {
-        "title": "Coronavirus latest: NY Fed predicts more US groups face potential credit crunch",
-        "link": "https://www.ft.com/content/004caa56-ba26-3c4b-a93b-31241c2b6a4c"
+        "title": "India Reports Record Coronavirus Deaths",
+        "link": "https://www.voanews.com/covid-19-pandemic/india-reports-record-coronavirus-deaths"
     },
     {
-        "title": "Coronavirus: Australia records deadliest day but fewer new infections",
-        "link": "https://www.bbc.com/news/world-australia-53718184"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
+        "title": "Global report: Covid cases worldwide near 20 million as Australia suffers deadliest day",
+        "link": "https://www.theguardian.com/world/2020/aug/10/global-report-covid-cases-worldwide-near-20-million-as-australia-suffers-deadliest-day"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-end-for-rich-world-by-end-of-2021/"
     },
     {
-        "title": "At Least 97,000 Children in the U.S. Tested Positive in Last 2 Weeks of July",
-        "link": "https://www.nytimes.com/2020/08/09/world/coronavirus-covid-19.html"
+        "title": "Mexico’s Coronavirus Struggle Worsened by Fear of Hospitals",
+        "link": "https://www.nytimes.com/2020/08/10/world/americas/mexico-coronavirus-hospitals.html"
     },
     {
         "title": "A Taiwan health official tried to warn the world about the novel coronavirus. The U.S. didn’t listen.",
         "link": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-taiwan-azar-china-chuang/2020/08/09/52a85140-d8c7-11ea-a788-2ce86ce81129_story.html"
+    },
+    {
+        "title": "‘This is unstoppable’: America's midwest braces itself for a Covid-19 surge",
+        "link": "https://www.theguardian.com/world/2020/aug/09/covid-19-us-midwest-masks-missouri-iowa"
     }
 ];
