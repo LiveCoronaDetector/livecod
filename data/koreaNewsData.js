@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
     },
     {
-        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
-    },
-    {
         "title": "코로나19 신규 확진자 34명...부산 9명, 서울·경기 13명",
         "link": "http://www.hani.co.kr/arti/society/health/957301.html"
     },
     {
+        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
+    },
+    {
         "title": "부산서 또 코로나19 무더기 확진…러 어선 선원 4명+확진자 접촉자 5명",
         "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
     },
     {
         "title": "교회발 감염 확산…남대문시장 다른 상가서도 확진자",
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "\"코로나를 이렇게 막다니\" 강릉해수욕장 주목한 BBC",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/11/2020081103405.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "'코로나 청정국' 뉴질랜드서 102일 만에 신규 확진자 4명 발생",
-        "link": "https://view.asiae.co.kr/article/2020081120520284304"
     },
     {
         "title": "잠실구장에 코로나19 확진자 입장 확인",
