@@ -13,12 +13,20 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
-    },
-    {
         "title": "코로나19 어제 34명 신규확진…수도권 교회 ‘n차 감염’ 확산",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215085"
+    },
+    {
+        "title": "[속보] 코로나 신규 확진 34명... 부산서 9명 대거 확진",
+        "link": "https://hankookilbo.com/News/Read/A2020081109420002791?did=NA"
+    },
+    {
+        "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
+        "link": "http://yna.kr/AKR20200811069951004?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
     },
     {
         "title": "코로나19 신규 확진자 34명…국내 지역 발생 23명",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보]코로나19 신규 확진자 28명...국내발생 17명",
         "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
-    },
-    {
-        "title": "코로나19 확진자 38일째 없는 대구, 18일부터 정상 등교",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/957307.html"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진 34명... 부산서 9명 대거 확진",
-        "link": "https://hankookilbo.com/News/Read/A2020081109420002791?did=NA"
     }
 ];

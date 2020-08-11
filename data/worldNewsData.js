@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-thailand-school-safety-measures"
     },
     {
-        "title": "Breaking down President Trump's executive orders on COVID-19 relief | KVUE",
-        "link": "https://www.youtube.com/watch?v=jhItJlMQh3E"
+        "title": "The Trump Pandemic",
+        "link": "https://slate.com/news-and-politics/2020/08/trump-coronavirus-deaths-timeline.html"
     },
     {
         "title": "World hits grim milestone of 20 million reported coronavirus cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "Worldwide coronavirus cases surpass 20 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/residents-coronavirus-turned-live-200810231422019.html"
+        "title": "Live Coronavirus News: World Updates",
+        "link": "https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html"
     }
 ];
