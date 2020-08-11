@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/11/latest_news/1597127329_465621.html"
     },
     {
-        "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
-        "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
+        "title": "Live updates: White House ponders denying entry to U.S. citizens suspected of carrying coronavirus",
+        "link": "https://www.washingtonpost.com/nation/2020/08/11/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-11-20-intl/index.html"
     },
     {
-        "title": "August 10 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
+        "title": "World hits grim milestone of 20 million reported coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
     },
     {
         "title": "Coronavirus live news: Global cases top 20m as WHO chief says ‘it’s never too late to turn outbreak around'",
         "link": "https://www.theguardian.com/world/live/2020/aug/11/coronavirus-live-news-who-chief-says-its-never-too-late-to-turn-outbreak-around-as-cases-near-20m"
     },
     {
-        "title": "World hits grim milestone of 20 million reported coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+        "title": "August 10 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
     },
     {
         "title": "Global report: coronavirus cases pass 20m as WHO points to 'green shoots of hope'",

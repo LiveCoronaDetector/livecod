@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169324"
     },
     {
-        "title": "코로나19 확진자 전날 43명 발생...지역30,해외13명(종합)",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=423356"
-    },
-    {
         "title": "휴가철 파티장으로 변한 게스트하우스… ‘코로나 집단감염’ 우려 커져",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/06/2020080603250.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 확진자 전날 43명 발생...지역30,해외13명(종합)",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=423356"
     },
     {
         "title": "〔종합〕타시·도 코로나19 산발적 감염…제주도, 방역당국 '긴장'",
