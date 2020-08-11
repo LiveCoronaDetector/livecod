@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
     },
     {
-        "title": "Global report: coronavirus cases pass 20m as WHO points to 'green shoots of hope'",
-        "link": "https://www.theguardian.com/world/2020/aug/11/global-report-coronavirus-cases-pass-20m-as-who-points-to-green-shoots-of-hope"
+        "title": "Coronavirus: Belgium beach brawl prompts call to limit visitors",
+        "link": "https://www.theguardian.com/world/2020/aug/11/coronavirus-belgium-beach-brawl-call-limit-visitors"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
