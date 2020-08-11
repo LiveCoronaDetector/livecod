@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
     },
     {
-        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
-    },
-    {
         "title": "코로나19 신규 확진자 34명...부산 9명, 서울·경기 13명",
         "link": "http://www.hani.co.kr/arti/society/health/957301.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
     },
     {
         "title": "부산서 또 코로나19 무더기 확진…러 어선 선원 4명+확진자 접촉자 5명",
@@ -19,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "잠실구장 코로나 확진자 방문…역학조사 결과 '경기해도 괜찮아'",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005925926&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보] 코로나 신규 확진 34명... 부산서 9명 대거 확진",
+        "link": "https://hankookilbo.com/News/Read/A2020081109420002791?did=NA"
     },
     {
         "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보]부산 확진자 4명 추가…11일 13명 추가감염",
         "link": "https://www.news1.kr/articles/?4022925"
-    },
-    {
-        "title": "양천구, 73번 동거인 74번째 코로나19 확진자 발생",
-        "link": "https://view.asiae.co.kr/article/2020081113583380044"
     }
 ];
