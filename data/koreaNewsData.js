@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
     },
     {
+        "title": "\"코로나를 이렇게 막다니\" 강릉해수욕장 주목한 BBC",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/11/2020081103405.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "잠실구장에 코로나19 확진자 입장 확인",
+        "link": "http://www.munhwa.com/news/view.html?no=20200811MW164644893652"
+    },
+    {
         "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
         "link": "http://yna.kr/AKR20200811069951004?did=1195m"
     },
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
+        "title": "전북 41·42번째 코로나19 확진… 미국 공군부대 장병 2명",
+        "link": "http://www.fnnews.com/news/202008111815593366"
     },
     {
-        "title": "잠실야구장에 코로나 확진자 방문…\"소독 후 경기 정상 진행\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/11/2020081102634.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "잠실구장에 코로나19 확진자 입장 확인",
-        "link": "http://www.munhwa.com/news/view.html?no=20200811MW164644893652"
-    },
-    {
-        "title": "부산 174번 확진자 다니던 고교 성인반 5명 추가 확진",
-        "link": "https://view.asiae.co.kr/article/2020081114381921606"
+        "title": "'확진자 방문' 잠실구장, 방역 완료… \"경기 진행 이상없어\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/11/2020081103321.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

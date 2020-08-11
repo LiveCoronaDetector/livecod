@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
     },
     {
-        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
+        "title": "Global report: coronavirus cases pass 20m as WHO points to 'green shoots of hope'",
+        "link": "https://www.theguardian.com/world/2020/aug/11/global-report-coronavirus-cases-pass-20m-as-who-points-to-green-shoots-of-hope"
     },
     {
-        "title": "Trump’s Order on Coronavirus Relief Alarms Governors as Stimulus Talks Stall",
-        "link": "https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html"
+        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
+        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
     }
 ];
