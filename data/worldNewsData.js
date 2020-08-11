@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53732350"
     },
     {
-        "title": "Putin claims Russia has registered the world's first coronavirus vaccine, says his daughter has taken it",
-        "link": "https://www.cnbc.com/2020/08/11/russia-claims-to-have-registered-first-coronavirus-vaccine.html"
-    },
-    {
-        "title": "World hits grim milestone of 20 million reported coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+        "title": "Covid-19 Cases Top 20 Million Worldwide",
+        "link": "https://www.msn.com/en-us/news/us/covid-19-cases-top-20-million-worldwide/ar-BB17MjoP?li=BBnb7Kz"
     },
     {
         "title": "Global report: coronavirus cases pass 20m as WHO points to 'green shoots of hope'",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
+    },
+    {
+        "title": "Putin claims Russia has registered the world's first coronavirus vaccine, says his daughter has taken it",
+        "link": "https://www.cnbc.com/2020/08/11/russia-claims-to-have-registered-first-coronavirus-vaccine.html"
     }
 ];
