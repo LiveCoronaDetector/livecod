@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53699712"
     },
     {
-        "title": "Trump Considers Banning Re-entry by Citizens Who May Have Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/10/us/politics/trump-coronavirus-border.html"
+        "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
+        "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -21,16 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-thailand-school-safety-measures"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-11-20-intl/index.html"
-    },
-    {
-        "title": "Mayor Caldwell tests negative for COVID-19 - Honolulu, Hawaii news, sports & weather",
-        "link": "https://www.kitv.com/story/42478193/mayor-caldwell-says-he-has-tested-negative-for-covid19"
-    },
-    {
-        "title": "Russia has developed 'first' coronavirus vaccine: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/residents-coronavirus-turned-live-200810231422019.html"
+        "title": "Coronavirus: Australia's Northern Territory extends border restrictions for virus hotspots",
+        "link": "https://www.bbc.com/news/world-australia-53732350"
     },
     {
         "title": "World hits grim milestone of 20 million reported coronavirus cases",
@@ -39,5 +31,13 @@ var worldNewsData = [
     {
         "title": "Global report: coronavirus cases pass 20m as WHO points to 'green shoots of hope'",
         "link": "https://www.theguardian.com/world/2020/aug/11/global-report-coronavirus-cases-pass-20m-as-who-points-to-green-shoots-of-hope"
+    },
+    {
+        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
+        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
+    },
+    {
+        "title": "Trump’s Order on Coronavirus Relief Alarms Governors as Stimulus Talks Stall",
+        "link": "https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html"
     }
 ];
