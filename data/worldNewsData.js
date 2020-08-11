@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/11/latest_news/1597127329_465621.html"
     },
     {
-        "title": "Trump Considers Banning Re-entry by Citizens Who May Have Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/10/us/politics/trump-coronavirus-border.html"
+        "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
+        "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",

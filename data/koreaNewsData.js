@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
     },
     {
+        "title": "교회발 감염 확산…남대문시장 다른 상가서도 확진자",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11964193"
+    },
+    {
         "title": "\"코로나를 이렇게 막다니\" 강릉해수욕장 주목한 BBC",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/11/2020081103405.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "잠실구장에 코로나19 확진자 입장 확인",
         "link": "http://www.munhwa.com/news/view.html?no=20200811MW164644893652"
-    },
-    {
-        "title": "전북 41·42번째 코로나19 확진… 미국 공군부대 장병 2명",
-        "link": "http://www.fnnews.com/news/202008111815593366"
     },
     {
         "title": "'확진자 방문' 잠실구장, 방역 완료… \"경기 진행 이상없어\"",
