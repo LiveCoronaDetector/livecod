@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
-        "link": "https://news.google.com/articles/CAIiEHuxTFu1iAD0CLCTzazrg8wqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
         "title": "Fears coronavirus travel ban imminent as Greece's cases hit pandemic high",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/11/coronavirus-live-news-who-chief-says-its-never-too-late-to-turn-outbreak-around-as-cases-near-20m"
     },
     {
-        "title": "Mexico’s Coronavirus Struggle Worsened by Fear of Hospitals",
-        "link": "https://www.nytimes.com/2020/08/10/world/americas/mexico-coronavirus-hospitals.html"
+        "title": "WHO sees 'green shoots of hope' in coronavirus fight as global cases near 20 million",
+        "link": "https://www.cnbc.com/2020/08/10/coronavirus-who-sees-green-shoots-of-hope-as-global-cases-near-20-million.html"
     }
 ];
