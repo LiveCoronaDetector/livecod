@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "Restaurants in Italy are reopening ancient ‘wine windows’ used during the plague",
-        "link": "https://www.washingtonpost.com/travel/2020/08/10/restaurants-italy-are-reopening-ancient-wine-windows-used-during-plague/"
+        "title": "Putin says Russia has approved 'world first' Covid-19 vaccine. But questions over its safety remain",
+        "link": "https://www.cnn.com/2020/08/11/europe/russia-coronavirus-vaccine-putin-intl/"
     },
     {
         "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/11/global-report-coronavirus-cases-pass-20m-as-who-points-to-green-shoots-of-hope"
     },
     {
-        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
+        "title": "Trump abruptly escorted out of White House press briefing, returns to say there was a 'shooting' outside",
+        "link": "https://www.foxnews.com/politics/trump-escorted-out-white-house-press-briefing"
     }
 ];

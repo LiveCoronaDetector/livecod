@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
     },
     {
-        "title": "전북 41·42번째 코로나19 확진… 미국 공군부대 장병 2명",
-        "link": "http://www.fnnews.com/news/202008111815593366"
+        "title": "'코로나 청정국' 뉴질랜드서 102일 만에 신규 확진자 4명 발생",
+        "link": "https://view.asiae.co.kr/article/2020081120520284304"
     },
     {
-        "title": "'확진자 방문' 잠실구장, 방역 완료… \"경기 진행 이상없어\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/11/2020081103321.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "전북 41·42번째 코로나19 확진… 미국 공군부대 장병 2명",
+        "link": "http://www.fnnews.com/news/202008111815593366"
     }
 ];
