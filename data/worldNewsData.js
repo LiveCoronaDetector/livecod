@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/11/coronavirus-in-europe-french-and-dutch-on-alert-over-rise-in-cases"
     },
     {
-        "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",
-        "link": "https://www.foxnews.com/world/coronavirus-thailand-school-safety-measures"
+        "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3d8fb820-dc1e-11ea-a99f-714de8715412&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Trump unveils new Covid adviser who backs reopening schools",
-        "link": "https://www.theguardian.com/world/2020/aug/11/trump-adviser-scott-atlas-coronavirus-schools"
+        "title": "Coronavirus live updates: Texas bars could reopen if situation improves, governor says; Russia first to approve vaccine",
+        "link": "https://www.cnbc.com/2020/08/11/coronavirus-live-updates.html"
     },
     {
-        "title": "World hits grim milestone of 20 million reported coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+        "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
+        "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
     }
 ];
