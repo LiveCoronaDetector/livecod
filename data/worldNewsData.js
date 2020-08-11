@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "Restaurants in Italy are reopening ancient ‘wine windows’ used during the plague",
-        "link": "https://www.washingtonpost.com/travel/2020/08/10/restaurants-italy-are-reopening-ancient-wine-windows-used-during-plague/"
+        "title": "German firms expect coronavirus restrictions to last until April",
+        "link": "https://www.cnbc.com/2020/08/10/german-firms-expect-coronavirus-restrictions-to-last-until-april.html"
     },
     {
         "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53732350"
     },
     {
+        "title": "Putin claims Russia has registered the world's first coronavirus vaccine, says his daughter has taken it",
+        "link": "https://www.cnbc.com/2020/08/11/russia-claims-to-have-registered-first-coronavirus-vaccine.html"
+    },
+    {
         "title": "World hits grim milestone of 20 million reported coronavirus cases",
         "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
     },
     {
         "title": "Global report: coronavirus cases pass 20m as WHO points to 'green shoots of hope'",
         "link": "https://www.theguardian.com/world/2020/aug/11/global-report-coronavirus-cases-pass-20m-as-who-points-to-green-shoots-of-hope"
-    },
-    {
-        "title": "Russia unveils coronavirus vaccine, claiming victory in global race before final testing is complete",
-        "link": "https://www.washingtonpost.com/world/russia-unveils-coronavirus-vaccine-claiming-victory-in-global-race-before-final-testing-is-complete/2020/08/11/792f8a54-d813-11ea-a788-2ce86ce81129_story.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
