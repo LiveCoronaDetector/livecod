@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "German firms expect coronavirus restrictions to last until April",
-        "link": "https://www.cnbc.com/2020/08/10/german-firms-expect-coronavirus-restrictions-to-last-until-april.html"
+        "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
+        "link": "https://www.cnn.com/2020/08/09/europe/italy-coronavirus-return-normal-intl/index.html"
     },
     {
         "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53732350"
     },
     {
-        "title": "Covid-19 Cases Top 20 Million Worldwide",
-        "link": "https://www.msn.com/en-us/news/us/covid-19-cases-top-20-million-worldwide/ar-BB17MjoP?li=BBnb7Kz"
+        "title": "Coronavirus Live Updates: Worldwide Cases Reach 20 Million",
+        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "World hits grim milestone of 20 million reported coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
     },
     {
         "title": "Global report: coronavirus cases pass 20m as WHO points to 'green shoots of hope'",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
-    },
-    {
-        "title": "Putin claims Russia has registered the world's first coronavirus vaccine, says his daughter has taken it",
-        "link": "https://www.cnbc.com/2020/08/11/russia-claims-to-have-registered-first-coronavirus-vaccine.html"
     }
 ];
