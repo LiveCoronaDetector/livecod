@@ -13,6 +13,18 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
     },
     {
+        "title": "[전문] 양천구청 74번째 확진자 발생...신정4동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=375238"
+    },
+    {
+        "title": "미국 증시, 코로나19 진정 속 부양책 주시…다우, 1.3% 상승",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008110028&t=NN"
+    },
+    {
+        "title": "[속보] 부산서 또 코로나19 무더기 확진…러 어선 선원 4명+확진자 접촉자 5명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
+    },
+    {
         "title": "전세계 코로나19 확진 2천만명…43일만에 1천만명 증가",
         "link": "https://imnews.imbc.com/news/2020/world/article/5869047_32640.html"
     },
@@ -25,19 +37,7 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
     },
     {
-        "title": "미국 증시, 코로나19 진정 속 부양책 주시…다우, 1.3% 상승",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008110028&t=NN"
-    },
-    {
         "title": "코로나19 신규 확진 36명…교회발 집단감염 지속",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992374?division=NAVER"
-    },
-    {
-        "title": "일본 코로나19 누적 확진자 5만 명 넘어서",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513690&ref=A"
-    },
-    {
-        "title": "전 세계 코로나19 확진자 수 2000만명 넘어서",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200810000036"
     }
 ];

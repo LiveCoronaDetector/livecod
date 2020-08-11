@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "WHO sees 'green shoots of hope' in coronavirus fight as global cases near 20 million",
-        "link": "https://www.cnbc.com/2020/08/10/coronavirus-who-sees-green-shoots-of-hope-as-global-cases-near-20-million.html"
+        "title": "Coronavirus live news: Global cases top 20m as WHO chief says ‘it’s never too late to turn outbreak around'",
+        "link": "https://www.theguardian.com/world/live/2020/aug/11/coronavirus-live-news-who-chief-says-its-never-too-late-to-turn-outbreak-around-as-cases-near-20m"
     },
     {
         "title": "Mexico’s Coronavirus Struggle Worsened by Fear of Hospitals",
