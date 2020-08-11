@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/10/latest_news/1597036584_738849.html"
     },
     {
-        "title": "Canadians are vandalising cars with US plates in anger over border crossings to escape coronavirus",
-        "link": "https://www.independent.co.uk/news/world/americas/coronavirus-us-canada-border-cars-covid-19-a9663516.html"
+        "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
+        "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/10/trump-urges-americans-to-stop-politicizing-the-coronavirus-blames-china.html"
     },
     {
-        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
-    },
-    {
         "title": "World hits grim milestone of 20 million reported coronavirus cases",
         "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+    },
+    {
+        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
+        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
     },
     {
         "title": "Coronavirus live news: Global cases top 20m as WHO chief says ‘it’s never too late to turn outbreak around'",
