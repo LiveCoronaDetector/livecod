@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9451fad0-dc26-11ea-b7b1-cd8fab03febc&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c0f859e0-dc2a-11ea-bf46-999afce7a27b&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Trump unveils new Covid adviser who backs reopening schools",
-        "link": "https://www.theguardian.com/world/2020/aug/11/trump-adviser-scott-atlas-coronavirus-schools"
+        "title": "Trump's border promise hits a wall",
+        "link": "https://www.youtube.com/watch?v=CE9l2nuokn0"
     },
     {
-        "title": "World hits grim milestone of 20 million reported coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+        "title": "Coronavirus: Belgium beach brawl prompts call to limit visitors",
+        "link": "https://www.theguardian.com/world/2020/aug/11/coronavirus-belgium-beach-brawl-call-limit-visitors"
     }
 ];

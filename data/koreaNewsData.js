@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/957301.html"
     },
     {
+        "title": "[속보]용인 대지고·죽전고 4명 코로나19 추가 감염",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008120811001&code=940202"
+    },
+    {
         "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
         "link": "http://yna.kr/AKR20200811069951004?did=1195m"
     },
     {
-        "title": "남대문시장 추가 확진자 안 나와…영업 재개",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03817926625866336"
+        "title": "뉴욕증시, 코로나19 백신 기대에도 기술주 약세로 하락마감",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081200419.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "부산서 또 코로나19 무더기 확진…러 어선 선원 4명+확진자 접촉자 5명",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "잠실구장에 코로나19 확진자 입장 확인",
         "link": "http://www.munhwa.com/news/view.html?no=20200811MW164644893652"
-    },
-    {
-        "title": "\"코로나를 이렇게 막다니\" 강릉해수욕장 주목한 BBC",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/11/2020081103405.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
