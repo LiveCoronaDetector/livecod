@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
-    },
-    {
         "title": "교회발 감염 확산…남대문시장 다른 상가서도 확진자",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11964193"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
     },
     {
         "title": "\"코로나를 이렇게 막다니\" 강릉해수욕장 주목한 BBC",

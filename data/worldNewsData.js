@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/11/latest_news/1597127329_465621.html"
     },
     {
-        "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
-        "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
+        "title": "There has been a 90% increase in Covid-19 cases in US children in the last four weeks, report says",
+        "link": "https://www.cnn.com/2020/08/11/health/covid-19-children-cases-rising-wellness/index.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
