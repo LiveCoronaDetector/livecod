@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169421"
     },
     {
-        "title": "제주여행 코로나19 고양시 어린이집 원아 등 8명 음성",
-        "link": "http://www.ihalla.com/read.php3?aid=1596943799689407121"
-    },
-    {
         "title": "\"제주 언론 코로나 보도, 결과적으로 소수자를 구분\"",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=318738"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "휴가철 파티장으로 변한 게스트하우스… ‘코로나 집단감염’ 우려 커져",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/06/2020080603250.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "〔종합〕타시·도 코로나19 산발적 감염…제주도, 방역당국 '긴장'",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169343"
     }
 ];

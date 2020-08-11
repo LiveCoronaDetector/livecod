@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "German firms expect coronavirus restrictions to last until April",
-        "link": "https://www.cnbc.com/2020/08/10/german-firms-expect-coronavirus-restrictions-to-last-until-april.html"
+        "title": "Restaurants in Italy are reopening ancient ‘wine windows’ used during the plague",
+        "link": "https://www.washingtonpost.com/travel/2020/08/10/restaurants-italy-are-reopening-ancient-wine-windows-used-during-plague/"
     },
     {
         "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",
         "link": "https://www.foxnews.com/world/coronavirus-thailand-school-safety-measures"
     },
     {
-        "title": "Trump urges Americans to stop politicizing the coronavirus, blames China",
-        "link": "https://www.cnbc.com/2020/08/10/trump-urges-americans-to-stop-politicizing-the-coronavirus-blames-china.html"
+        "title": "Australia's oldest micronation, Hutt River is no more thanks to Covid-19",
+        "link": "https://www.cnn.com/travel/article/australia-micronation-hutt-river-principality/index.html"
     },
     {
         "title": "World hits grim milestone of 20 million reported coronavirus cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/11/coronavirus-live-news-who-chief-says-its-never-too-late-to-turn-outbreak-around-as-cases-near-20m"
     },
     {
-        "title": "Worldwide coronavirus cases surpass 20 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/residents-coronavirus-turned-live-200810231422019.html"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html"
     }
 ];
