@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/957301.html"
     },
     {
-        "title": "수도권 교회 발 n차 감염 확산...남대문시장 중앙상가도 확진자",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008111645527312"
+        "title": "부산부경보건고 성인반 확진자의 가족 4명 추가확진... 관련 확진자 9명 확인",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081117485898839"
     },
     {
         "title": "양천구, 73번 동거인 74번째 코로나19 확진자 발생",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200811069952004?did=1195m"
     },
     {
-        "title": "부산서 또 코로나19 무더기 확진…러 어선 선원 4명+확진자 접촉자 5명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
+        "title": "영진호 선원과 확진자 접촉 감염 무더기 발생...9명 확진 판정",
+        "link": "https://www.pressian.com/pages/articles/2020081110203168759?utm_source=naver&utm_medium=search"
     }
 ];
