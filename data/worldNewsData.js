@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53699712"
     },
     {
-        "title": "There has been a 90% increase in Covid-19 cases in US children in the last four weeks, report says",
-        "link": "https://www.cnn.com/2020/08/11/health/covid-19-children-cases-rising-wellness/index.html"
+        "title": "Coronavirus updates: Florida reaches new record daily death toll",
+        "link": "https://abcnews.go.com/Health/coronavirus-updates-us-records-50000-cases-2nd-straight/story?id=72300746"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",

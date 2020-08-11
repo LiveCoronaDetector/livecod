@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.seoulwire.com/news/articleView.html?idxno=423356"
     },
     {
-        "title": "〔종합〕타시·도 코로나19 산발적 감염…제주도, 방역당국 '긴장'",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169343"
+        "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
     }
 ];
