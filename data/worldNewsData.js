@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-thailand-school-safety-measures"
     },
     {
-        "title": "Trump urges Americans to stop politicizing the coronavirus, blames China",
-        "link": "https://www.cnbc.com/2020/08/10/trump-urges-americans-to-stop-politicizing-the-coronavirus-blames-china.html"
-    },
-    {
-        "title": "Coronavirus Live Updates: Worldwide Cases Reach 20 Million",
-        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
+        "title": "Coronavirus discovered on frozen seafood packaging in China: report",
+        "link": "https://www.foxnews.com/health/coronavirus-frozen-seafood-packaging-china-report"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
     },
     {
-        "title": "World hits grim milestone of 20 million reported coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+        "title": "Coronavirus Live Updates: Worldwide Cases Reach 20 Million",
+        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Putin Claims Russia Has A Coronavirus Vaccine | TODAY",
-        "link": "https://www.youtube.com/watch?v=IGHYYUX6I3Y"
+        "title": "Trump unveils new Covid adviser who backs reopening schools",
+        "link": "https://www.theguardian.com/world/2020/aug/11/trump-adviser-scott-atlas-coronavirus-schools"
+    },
+    {
+        "title": "World hits grim milestone of 20 million reported coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
     }
 ];
