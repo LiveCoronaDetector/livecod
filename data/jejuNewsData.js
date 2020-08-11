@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169421"
     },
     {
+        "title": "제주여행 코로나19 고양시 어린이집 원아 등 8명 음성",
+        "link": "http://www.ihalla.com/read.php3?aid=1596943799689407121"
+    },
+    {
         "title": "휴가철 파티장으로 변한 게스트하우스… ‘코로나 집단감염’ 우려 커져",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/06/2020080603250.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 확진자 전날 43명 발생...지역30,해외13명(종합)",
         "link": "http://www.seoulwire.com/news/articleView.html?idxno=423356"
-    },
-    {
-        "title": "제주도 '코로나19.. 격리치료 확진자' 5명으로 줄어",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=997829"
     }
 ];
