@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/11/latest_news/1597127329_465621.html"
     },
     {
-        "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
-        "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
+        "title": "Trump Considers Banning Re-entry by Citizens Who May Have Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/10/us/politics/trump-coronavirus-border.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "Putin says Russia has approved 'world first' Covid-19 vaccine. But questions over its safety remain",
-        "link": "https://www.cnn.com/2020/08/11/europe/russia-coronavirus-vaccine-putin-intl/"
+        "title": "Coronavirus: Putin says vaccine has been approved for use",
+        "link": "https://www.bbc.com/news/world-europe-53735718"
     },
     {
         "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",

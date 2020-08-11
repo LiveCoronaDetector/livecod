@@ -342,7 +342,7 @@ var marker = [
         "Name_en": "Singapore",
         "확진자수": 55353,
         "사망자수": 27,
-        "완치자수": 49609
+        "완치자수": 50128
     },
     {
         "Name": "폴란드",
@@ -478,7 +478,7 @@ var marker = [
         "Name_en": "Moldova",
         "확진자수": 28223,
         "사망자수": 857,
-        "완치자수": 19300
+        "완치자수": 19740
     },
     {
         "Name": "Kenya",
@@ -745,20 +745,20 @@ var marker = [
         "완치자수": 2290
     },
     {
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "확진자수": 6676,
+        "사망자수": 205,
+        "완치자수": 3480
+    },
+    {
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
         "확진자수": 6555,
         "사망자수": 157,
         "완치자수": 5570
-    },
-    {
-        "Name": "Albania",
-        "Name_ch": "",
-        "Name_en": "Albania",
-        "확진자수": 6536,
-        "사망자수": 200,
-        "완치자수": 3379
     },
     {
         "Name": "Libya",
@@ -1417,6 +1417,14 @@ var marker = [
         "완치자수": 53
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "확진자수": 205,
+        "사망자수": 17,
+        "완치자수": 93
+    },
+    {
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
@@ -1431,14 +1439,6 @@ var marker = [
         "확진자수": 202,
         "사망자수": 0,
         "완치자수": 187
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 189,
-        "사망자수": 17,
-        "완치자수": 86
     },
     {
         "Name": "Belize",
@@ -1460,7 +1460,7 @@ var marker = [
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "확진자수": 142,
+        "확진자수": 143,
         "사망자수": 7,
         "완치자수": 112
     },
@@ -1484,9 +1484,9 @@ var marker = [
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
-        "확진자수": 126,
+        "확진자수": 127,
         "사망자수": 0,
-        "완치자수": 125
+        "완치자수": 126
     },
     {
         "Name": "부탄",

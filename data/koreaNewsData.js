@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
-    },
-    {
         "title": "\"코로나를 이렇게 막다니\" 강릉해수욕장 주목한 BBC",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/11/2020081103405.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "'코로나 청정국' 뉴질랜드서 102일 만에 신규 확진자 4명 발생",
+        "link": "https://view.asiae.co.kr/article/2020081120520284304"
     },
     {
         "title": "잠실구장에 코로나19 확진자 입장 확인",
         "link": "http://www.munhwa.com/news/view.html?no=20200811MW164644893652"
     },
     {
-        "title": "뉴질랜드, 102일만에 코로나19 지역감염 발생",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020081122021168265"
-    },
-    {
         "title": "전북 41·42번째 코로나19 확진… 미국 공군부대 장병 2명",
         "link": "http://www.fnnews.com/news/202008111815593366"
+    },
+    {
+        "title": "'확진자 방문' 잠실구장, 방역 완료… \"경기 진행 이상없어\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/11/2020081103321.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
