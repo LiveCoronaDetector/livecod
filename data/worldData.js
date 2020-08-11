@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5246478,
-        "사망자수": 166090,
-        "완치자수": 2700573
+        "확진자수": 5247915,
+        "사망자수": 166130,
+        "완치자수": 2707754
     },
     {
         "Name": "브라질",
@@ -188,9 +188,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 119744,
-        "사망자수": 8982,
-        "완치자수": 105996
+        "확진자수": 120132,
+        "사망자수": 8987,
+        "완치자수": 106355
     },
     {
         "Name": "카타르",
@@ -953,6 +953,14 @@ var marker = [
         "완치자수": 1969
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "확진자수": 2489,
+        "사망자수": 30,
+        "완치자수": 1674
+    },
+    {
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
@@ -967,14 +975,6 @@ var marker = [
         "확진자수": 2411,
         "사망자수": 16,
         "완치자수": 860
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "확진자수": 2391,
-        "사망자수": 29,
-        "완치자수": 1635
     },
     {
         "Name": "Lithuania",
@@ -1204,9 +1204,9 @@ var marker = [
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "확진자수": 898,
+        "확진자수": 945,
         "사망자수": 15,
-        "완치자수": 104
+        "완치자수": 113
     },
     {
         "Name": "Sao Tome and Principe",
@@ -1236,8 +1236,8 @@ var marker = [
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "확진자수": 742,
-        "사망자수": 23,
+        "확진자수": 781,
+        "사망자수": 24,
         "완치자수": 175
     },
     {
@@ -1265,12 +1265,20 @@ var marker = [
         "완치자수": 631
     },
     {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+        "확진자수": 630,
+        "사망자수": 3,
+        "완치자수": 114
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "확진자수": 597,
+        "확진자수": 599,
         "사망자수": 47,
-        "완치자수": 533
+        "완치자수": 545
     },
     {
         "Name": "Guyana",
@@ -1279,14 +1287,6 @@ var marker = [
         "확진자수": 568,
         "사망자수": 22,
         "완치자수": 189
-    },
-    {
-        "Name": "Aruba",
-        "Name_ch": "",
-        "Name_en": "Aruba",
-        "확진자수": 563,
-        "사망자수": 3,
-        "완치자수": 114
     },
     {
         "Name": "Tanzania",

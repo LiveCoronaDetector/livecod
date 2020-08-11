@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
     },
     {
-        "title": "코로나19 신규 확진자 28명 늘어…국내 발생만 17명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000214933"
-    },
-    {
         "title": "전세계 코로나19 확진 2천만명…43일만에 1천만명 증가",
         "link": "https://imnews.imbc.com/news/2020/world/article/5869047_32640.html"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "전 세계 코로나19 확진자 수 2000만명 넘어서",
         "link": "http://news.heraldcorp.com/view.php?ud=20200810000036"
+    },
+    {
+        "title": "코로나19 국내 확진자 28명…남대문시장 상가 집단감염 확산",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513484&ref=A"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/10/latest_news/1597036584_738849.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html"
+        "title": "Live updates: Trump dismisses coronavirus cases in children, says they’re a ‘tiny fraction’ of deaths",
+        "link": "https://www.washingtonpost.com/nation/2020/08/10/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-thailand-school-safety-measures"
     },
     {
-        "title": "Australia's oldest micronation, Hutt River is no more thanks to Covid-19",
-        "link": "https://www.cnn.com/travel/article/australia-micronation-hutt-river-principality/index.html"
+        "title": "Trump urges Americans to stop politicizing the coronavirus, blames China",
+        "link": "https://www.cnbc.com/2020/08/10/trump-urges-americans-to-stop-politicizing-the-coronavirus-blames-china.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
