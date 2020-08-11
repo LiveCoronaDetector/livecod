@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "Europe's biggest countries are seeing Covid surges -- but not this one",
-        "link": "https://www.cnn.com/2020/08/09/europe/italy-coronavirus-return-normal-intl/index.html"
+        "title": "Restaurants in Italy are reopening ancient ‘wine windows’ used during the plague",
+        "link": "https://www.washingtonpost.com/travel/2020/08/10/restaurants-italy-are-reopening-ancient-wine-windows-used-during-plague/"
     },
     {
         "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",
