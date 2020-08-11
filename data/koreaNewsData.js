@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
     },
     {
-        "title": "[속보] 부산서 또 코로나19 무더기 확진…러시아 어선 發",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014896318&code=61121111&cp=nv"
+        "title": "부산서 또 코로나19 무더기 확진…러 어선 선원 4명+확진자 접촉자 5명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
     },
     {
-        "title": "신규 코로나19 확진자 34명, 해외유입은 11명",
-        "link": "http://yna.kr/PYH20200811120400013?did=1196m"
+        "title": "부산 하루새 13명 추가…확진자 접촉+러 선박 선원+입국자(종합)",
+        "link": "http://yna.kr/AKR20200811049551051?did=1195m"
     },
     {
-        "title": "양천구, 73번 동거인 74번째 코로나19 확진자 발생",
-        "link": "https://view.asiae.co.kr/article/2020081113583380044"
+        "title": "[속보] 코로나 신규 확진 34명... 부산서 9명 대거 확진",
+        "link": "https://hankookilbo.com/News/Read/A2020081109420002791?did=NA"
     },
     {
         "title": "코로나19 확진자 38일째 없는 대구, 18일부터 정상 등교",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008110028&t=NN"
     },
     {
-        "title": "해외유입 확진자 중 '변이 바이러스' 3건 확인",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/08/11/2020081101134.html"
+        "title": "[전문] 강화군청 3번째 확진자 추가 동선 공개",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=375305"
     },
     {
-        "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
-        "link": "http://yna.kr/AKR20200811069951004?did=1195m"
+        "title": "[속보]'코로나19' 확진자 34명 추가…국내발생23·해외유입11명",
+        "link": "https://www.news1.kr/articles/?4022676"
     }
 ];
