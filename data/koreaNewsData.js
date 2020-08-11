@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/08/10/2020081001253.html"
     },
     {
+        "title": "미국 증시, 코로나19 진정 속 부양책 주시…다우, 1.3% 상승",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008110028&t=NN"
+    },
+    {
         "title": "코로나19 신규 확진 36명…교회발 집단감염 지속",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000992374?division=NAVER"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "전 세계 코로나19 확진자 수 2000만명 넘어서",
         "link": "http://news.heraldcorp.com/view.php?ud=20200810000036"
-    },
-    {
-        "title": "코로나19 국내 확진자 28명…남대문시장 상가 집단감염 확산",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513484&ref=A"
     }
 ];

@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/10/world/americas/mexico-coronavirus-hospitals.html"
     },
     {
-        "title": "A Taiwan health official tried to warn the world about the novel coronavirus. The U.S. didn’t listen.",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-taiwan-azar-china-chuang/2020/08/09/52a85140-d8c7-11ea-a788-2ce86ce81129_story.html"
+        "title": "Greece records daily high of coronavirus cases as Brits flock there for summer holidays",
+        "link": "https://www.mirror.co.uk/news/world-news/greece-records-daily-high-coronavirus-22500055"
     }
 ];
