@@ -1441,20 +1441,20 @@ var marker = [
         "완치자수": 86
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 177,
+        "사망자수": 2,
+        "완치자수": 32
+    },
+    {
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
         "확진자수": 158,
         "사망자수": 9,
         "완치자수": 144
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 154,
-        "사망자수": 2,
-        "완치자수": 32
     },
     {
         "Name": "Barbados",
