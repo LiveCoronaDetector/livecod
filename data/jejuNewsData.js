@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4023522"
     },
     {
-        "title": "[기자수첩] 붐비는 파티 게스트하우스 속 만연한 ‘코로나 불감증’",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/11/2020081103445.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "오늘 전국 소나기…러 \"코로나19 백신 세계 첫 등록\" [모닝브리핑]",
         "link": "https://www.hankyung.com/economy/article/2020081282807"
+    },
+    {
+        "title": "[기자수첩] 붐비는 파티 게스트하우스 속 만연한 ‘코로나 불감증’",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/11/2020081103445.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "GKL 올해 첫 적자 불가피, 유태열 코로나19 뒤에도 회복 장담 못 해",

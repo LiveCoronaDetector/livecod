@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53740840"
     },
     {
-        "title": "This school reopened and one child infected 25 teachers",
-        "link": "https://www.cnn.com/videos/world/2020/08/10/israel-coronavirus-covid-19-pandemic-schools-outbreaks-gotkine-pkg-intl-ldn-vpx.cnn"
+        "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
+        "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
         "title": "Coronavirus in Europe: French and Dutch on alert over rise in cases",
@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3d8fb820-dc1e-11ea-a99f-714de8715412&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5c0ff590-dc22-11ea-a2de-efb28c96ea39&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus live updates: Texas bars could reopen if situation improves, governor says; Russia first to approve vaccine",
-        "link": "https://www.cnbc.com/2020/08/11/coronavirus-live-updates.html"
-    },
-    {
         "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
         "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
+    },
+    {
+        "title": "World hits grim milestone of 20 million reported coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
     }
 ];
