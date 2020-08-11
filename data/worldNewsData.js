@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53699712"
     },
     {
-        "title": "Covid-19 in America, explained in 18 maps and charts",
-        "link": "https://www.vox.com/future-perfect/21353986/coronavirus-covid-pandemic-usa-america-maps-charts-data"
+        "title": "Coronavirus: White House weighs plan to keep out US citizens and legal residents",
+        "link": "https://www.bbc.com/news/world-us-canada-53740840"
     },
     {
         "title": "This school reopened and one child infected 25 teachers",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/10/trump-urges-americans-to-stop-politicizing-the-coronavirus-blames-china.html"
     },
     {
-        "title": "Russia Approves Coronavirus Vaccine Before Completing Tests",
-        "link": "https://www.nytimes.com/2020/08/11/world/europe/russia-coronavirus-vaccine-approval.html"
+        "title": "Coronavirus Live Updates: Worldwide Cases Reach 20 Million",
+        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
         "title": "World hits grim milestone of 20 million reported coronavirus cases",
