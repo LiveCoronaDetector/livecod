@@ -126,7 +126,7 @@ var marker = [
         "Name_en": "Argentina",
         "확진자수": 253868,
         "사망자수": 4764,
-        "완치자수": 108242
+        "완치자수": 174974
     },
     {
         "Name": "이탈리아",
@@ -1364,9 +1364,9 @@ var marker = [
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "확진자수": 306,
+        "확진자수": 313,
         "사망자수": 0,
-        "완치자수": 215
+        "완치자수": 225
     },
     {
         "Name": "Mongolia",
