@@ -9,32 +9,32 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 34명…지역발생 23명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008111012001&code=940601"
+        "title": "국내 코로나19 신규 확진 34명…누적 1만4660명(상보)",
+        "link": "https://view.asiae.co.kr/article/2020081110225946168"
     },
     {
-        "title": "[속보] 코로나 신규 확진 34명... 부산서 9명 대거 확진",
-        "link": "https://hankookilbo.com/News/Read/A2020081109420002791?did=NA"
+        "title": "[속보] 코로나19 신규 확진자 34명…지역발생 23명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008111012001&code=940601"
     },
     {
         "title": "부산서 또 코로나19 무더기 확진…러 어선 선원 4명+확진자 접촉자 5명",
         "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
     },
     {
-        "title": "코로나19 국내발생 17명…고양 반석교회發 확산세",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4513330&ref=A"
+        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
     },
     {
         "title": "WHO도 몰랐던 코로나19 변이, 국내서 3건 확인(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200810_0001124559&cID=10201&pID=10200"
     },
     {
-        "title": "[속보] '코로나19' 신규 확진 34명…국내발생 23명 '대규모 집단감염 조짐'",
-        "link": "http://news.tf.co.kr/read/life/1806342.htm"
-    },
-    {
-        "title": "코로나 지역발생 23명·총 34명…수도권·부산서 n차감염(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/11/2020081101393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보]코로나19 어제 34명 신규확진…수도권 교회 ‘n차 감염’ 확산",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215085"
     },
     {
         "title": "[속보]코로나19 신규 확진자 28명...국내발생 17명",

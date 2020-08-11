@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "Fears coronavirus travel ban imminent as Greece's cases hit pandemic high",
-        "link": "https://www.dailystar.co.uk/news/latest-news/fears-coronavirus-travel-ban-imminent-22500105"
+        "title": "German firms expect coronavirus restrictions to last until April",
+        "link": "https://www.cnbc.com/2020/08/10/german-firms-expect-coronavirus-restrictions-to-last-until-april.html"
     },
     {
         "title": "Coronavirus in Thailand: Students seen playing inside pens to protect against spread",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/11/coronavirus-live-news-who-chief-says-its-never-too-late-to-turn-outbreak-around-as-cases-near-20m"
     },
     {
-        "title": "WHO sees 'green shoots of hope' in coronavirus fight as global cases near 20 million",
-        "link": "https://www.cnbc.com/2020/08/10/coronavirus-who-sees-green-shoots-of-hope-as-global-cases-near-20-million.html"
+        "title": "Worldwide coronavirus cases surpass 20 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/residents-coronavirus-turned-live-200810231422019.html"
     }
 ];
