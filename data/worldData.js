@@ -108,9 +108,9 @@ var marker = [
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "확진자수": 284660,
-        "사망자수": 6097,
-        "완치자수": 260764
+        "확진자수": 285191,
+        "사망자수": 6112,
+        "완치자수": 261246
     },
     {
         "Name": "Bangladesh",
@@ -401,20 +401,20 @@ var marker = [
         "완치자수": 38727
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 40455,
+        "사망자수": 1478,
+        "완치자수": 32734
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
         "확진자수": 40433,
         "사망자수": 796,
         "완치자수": 32616
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 40085,
-        "사망자수": 1474,
-        "완치자수": 32126
     },
     {
         "Name": "아프가니스탄",
@@ -1396,9 +1396,9 @@ var marker = [
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
-        "확진자수": 251,
+        "확진자수": 266,
         "사망자수": 0,
-        "완치자수": 219
+        "완치자수": 220
     },
     {
         "Name": "Turks and Caicos",
@@ -1489,20 +1489,20 @@ var marker = [
         "완치자수": 125
     },
     {
+        "Name": "부탄",
+        "Name_ch": "不丹",
+        "Name_en": "Bhutan",
+        "확진자수": 113,
+        "사망자수": 0,
+        "완치자수": 97
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
         "확진자수": 112,
         "사망자수": 0,
         "완치자수": 62
-    },
-    {
-        "Name": "부탄",
-        "Name_ch": "不丹",
-        "Name_en": "Bhutan",
-        "확진자수": 110,
-        "사망자수": 0,
-        "완치자수": 96
     },
     {
         "Name": "Antigua and Barbuda",

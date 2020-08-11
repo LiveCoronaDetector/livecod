@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-the-rich-world-by-end-of-2021/"
     },
     {
-        "title": "Live Coronavirus News: World Updates",
-        "link": "https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html"
+        "title": "Worldwide coronavirus cases surpass 20 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/residents-coronavirus-turned-live-200810231422019.html"
     }
 ];

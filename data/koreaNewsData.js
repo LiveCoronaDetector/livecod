@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008111011353860"
     },
     {
-        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
-    },
-    {
-        "title": "부산서 또 코로나19 무더기 확진…러 어선 선원 4명+확진자 접촉자 5명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081109480925046"
-    },
-    {
-        "title": "코로나19 어제 34명 신규확진…수도권 교회 ‘n차 감염’ 확산",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215085"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진 34명... 부산서 9명 대거 확진",
-        "link": "https://hankookilbo.com/News/Read/A2020081109420002791?did=NA"
-    },
-    {
-        "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
-        "link": "http://yna.kr/AKR20200811069951004?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 28명···지역발생 17명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101014001&code=940601"
-    },
-    {
         "title": "코로나19 신규 확진자 34명…국내 지역 발생 23명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
     },
     {
-        "title": "정은경 \"WHO에 보고된 적 없는 변종 코로나 3건 확인\"",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008101552001&code=940601"
+        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 28명...국내발생 17명",
-        "link": "https://www.sedaily.com/NewsView/1Z6IXIB6QA"
+        "title": "[속보] 부산서 또 코로나19 무더기 확진…러시아 어선 發",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014896318&code=61121111&cp=nv"
+    },
+    {
+        "title": "신규 코로나19 확진자 34명, 해외유입은 11명",
+        "link": "http://yna.kr/PYH20200811120400013?did=1196m"
+    },
+    {
+        "title": "양천구, 73번 동거인 74번째 코로나19 확진자 발생",
+        "link": "https://view.asiae.co.kr/article/2020081113583380044"
+    },
+    {
+        "title": "코로나19 확진자 38일째 없는 대구, 18일부터 정상 등교",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/957307.html"
+    },
+    {
+        "title": "미국 증시, 코로나19 진정 속 부양책 주시…다우, 1.3% 상승",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008110028&t=NN"
+    },
+    {
+        "title": "해외유입 확진자 중 '변이 바이러스' 3건 확인",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/08/11/2020081101134.html"
+    },
+    {
+        "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
+        "link": "http://yna.kr/AKR20200811069951004?did=1195m"
     }
 ];
