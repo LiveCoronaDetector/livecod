@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/957466.html"
     },
     {
-        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
-        "link": "https://www.hankyung.com/society/article/2020081210657"
-    },
-    {
         "title": "코로나19 확진자 8월9일 CGV용산 다녀갔다 \"12일 임시휴업\"",
         "link": "http://www.fnnews.com/news/202008121419180087"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 54명···지역발생 35명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
+        "title": "서울 롯데리아 직원들, 코로나19 집단감염",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121800001&code=940100"
     },
     {
-        "title": "교회-시장-학교 이어 롯데리아까지…코로나19 전방위 확산 우려(종합)",
-        "link": "http://yna.kr/AKR20200812111551530?did=1195m"
-    },
-    {
-        "title": "양평에 있는 국내최대 스벅, 확진자 방문에 '비상'",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/12/2020081204875.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "확진자 방문…'국내 최대 매장' 스타벅스 영업 중단",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005928231&plink=ORI&cooper=NAVER"
     },
     {
         "title": "스타벅스 더양평DTR점 영업중단…\"코로나 확진자 동선 겹쳐\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526625866664"
     },
     {
+        "title": "논산훈련소 입대장병 코로나 확진…같은날 입대 800명 '음성'",
+        "link": "https://news.joins.com/article/olink/23441863"
+    },
+    {
         "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
         "link": "https://www.news1.kr/articles/?4024075"
     },
     {
-        "title": "국내 1위 신세계백화점 강남점 코로나19 확진자 방문에 조기 폐점",
-        "link": "http://www.inews24.com/view/1290246"
+        "title": "신세계 강남점, 코로나19 확진자 다녀가 조기 영업 종료",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4515631&ref=A"
     },
     {
-        "title": "코로나19 신규확진자 54명…국내발생 35명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215262"
+        "title": "경남 창원에 사는 60대 여성 코로나19 확진…서울지역 방문",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081215433096633"
+    },
+    {
+        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
+        "link": "https://www.hankyung.com/society/article/2020081210657"
     }
 ];
