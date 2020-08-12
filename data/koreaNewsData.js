@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200812_0001127556&cID=10201&pID=10200"
     },
     {
-        "title": "스타벅스 더양평DTR점 영업중단…\"코로나 확진자 동선 겹쳐\"",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526625866664"
-    },
-    {
         "title": "확진자 방문…'국내 최대 매장' 스타벅스 영업 중단",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005928231&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "스타벅스 더양평DTR점 영업중단…\"코로나 확진자 동선 겹쳐\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526625866664"
     },
     {
         "title": "롯데리아 코로나19 10명 확진…7개점포 폐쇄에도 고객엔 '쉬쉬'",

@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.seoulwire.com/news/articleView.html?idxno=423750"
     },
     {
-        "title": "코로나19 제주 24번 환자 3주만에 퇴원",
-        "link": "https://www.nocutnews.co.kr/news/5391892"
+        "title": "제주항공 조종사, 코로나19 확진···제주행 운항",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169324"
     }
 ];
