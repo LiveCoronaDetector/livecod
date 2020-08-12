@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
     },
     {
-        "title": "코로나19 신규확진자 54명…국내발생 35명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215262"
-    },
-    {
-        "title": "스페인, 코로나 재확산 뚜렷…확진자 하루 5000명 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081200689.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "용인 대지·죽전고에서 학생 5명 코로나 감염…해당 고교 원격수업 전환",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081201074.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "CGV 용산점, 코로나19 확진자 방문으로 휴업 조치 \"양해 부탁\" [전문]",
         "link": "http://stoo.asiae.co.kr/article.php?aid=66661315871"
     },
     {
+        "title": "코로나19 신규확진자 54명…국내발생 35명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215262"
+    },
+    {
         "title": "광주서 해외입국 6명 코로나19 확진...누적확진자 216명",
         "link": "http://www.fnnews.com/news/202008120840001068"
     },
     {
-        "title": "용인 대지고에 이어 죽전고에서도 코로나 확진자 발생",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=597779"
-    },
-    {
-        "title": "[속보] 고양서 코로나19 확진자 발생…직장 동료 5명도 양성",
-        "link": "https://www.hankyung.com/society/article/2020081298097"
+        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
+        "link": "https://www.news1.kr/articles/?4024075"
     },
     {
         "title": "코로나19 신규 확진자 34명…국내 지역 발생 23명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
     },
     {
-        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
-        "link": "https://www.news1.kr/articles/?4024075"
+        "title": "스페인, 코로나 재확산 뚜렷…확진자 하루 5000명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081200689.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
     }
 ];
