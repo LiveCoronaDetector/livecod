@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ab8b2d10-dc54-11ea-b06b-ef27958895e6&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e3975540-dc58-11ea-912f-0111f6e7a738&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Children, teens fuel Minnesota COVID-19 case growth",
-        "link": "https://www.startribune.com/children-teens-fuel-minnesota-covid-19-case-growth/572076732/"
+        "title": "Dallas County posts 30 COVID-19 deaths, its third-highest daily toll; state passes 500,000-case mark",
+        "link": "https://www.dallasnews.com/news/public-health/2020/08/11/dallas-county-coronavirus-cases-drop-deaths-rise-with-298-new-covid-19-cases-30-deaths/"
     },
     {
-        "title": "Trump unveils new Covid adviser who backs reopening schools",
-        "link": "https://www.theguardian.com/world/2020/aug/11/trump-adviser-scott-atlas-coronavirus-schools"
+        "title": "New Zealand delays dissolving parliament amid mystery coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/aug/12/new-zealand-delays-dissolving-parliament-amid-mystery-coronavirus-outbreak"
     }
 ];
