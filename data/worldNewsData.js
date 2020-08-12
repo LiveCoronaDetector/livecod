@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/11/latest_news/1597127329_465621.html"
     },
     {
-        "title": "Coronavirus: White House weighs plan to keep out US citizens and legal residents",
-        "link": "https://www.bbc.com/news/world-us-canada-53740840"
+        "title": "With no end to the pandemic in sight, coronavirus fatigue grips America",
+        "link": "https://www.washingtonpost.com/health/with-no-end-to-the-pandemic-in-sight-coronavirus-fatigue-grips-america/2020/08/10/a959424c-d7fa-11ea-930e-d88518c57dcc_story.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4a607330-dc2f-11ea-ac22-610b83b30778&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cfe489a0-dc35-11ea-a7a4-21df57e9602e&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "San Diego County Reports 228 New COVID-19 Cases, Five Community Outbreaks",
-        "link": "https://www.kpbs.org/news/2020/aug/10/san-diego-county-reports-228-new-covid-19-cases/"
+        "title": "Coronavirus: New Zealand locks down Auckland after cases end 102-day run",
+        "link": "https://www.bbc.com/news/world-asia-53741091"
     },
     {
-        "title": "Coronavirus: Belgium beach brawl prompts call to limit visitors",
-        "link": "https://www.theguardian.com/world/2020/aug/11/coronavirus-belgium-beach-brawl-call-limit-visitors"
+        "title": "World hits grim milestone of 20 million reported coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
     }
 ];

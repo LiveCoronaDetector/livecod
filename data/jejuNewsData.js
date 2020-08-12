@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424338"
     },
     {
-        "title": "코로나19 제주 24번 환자 3주만에 퇴원",
-        "link": "https://www.nocutnews.co.kr/news/5391892"
+        "title": "[서울와이어 12일 모닝브리핑]러시아 코로나 19 백신 개발 관련주 주목",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=423750"
     },
     {
-        "title": "[서울서울와이어 12일 모닝브리핑]러시아 코로나 19 백신 개발 관련주 주목",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=423750"
+        "title": "코로나19 제주 24번 환자 3주만에 퇴원",
+        "link": "https://www.nocutnews.co.kr/news/5391892"
     },
     {
         "title": "정부, '코로나 우울' 극복 위해 10월 특별여행주간 지정",
