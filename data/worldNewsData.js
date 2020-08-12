@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53740840"
     },
     {
-        "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
-        "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
+        "title": "EU health agency calls for new lockdowns as Greece 'formally' enters second wave – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/aug/10/coronavirus-live-news-us-infections-pass-500000-as-greece-sees-highest-ever-daily-cases"
     },
     {
-        "title": "Coronavirus: Cases surge as France goes 'wrong way'",
-        "link": "https://www.bbc.com/news/world-europe-53745481"
+        "title": "Coronavirus in Europe: French and Dutch on alert over rise in cases",
+        "link": "https://www.theguardian.com/world/2020/aug/11/coronavirus-in-europe-french-and-dutch-on-alert-over-rise-in-cases"
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5114e7a0-dc8f-11ea-bd2d-c5279f7fdcfc&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9c4c49d0-dc93-11ea-ad11-ab175a5b36b6&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
     },
     {
-        "title": "Texas Has Too Many Cases to Reopen, Governor Warns",
-        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
+        "title": "Stocks Turn Negative After Russia Claims To Have World’s First Coronavirus Vaccine",
+        "link": "https://www.forbes.com/sites/sergeiklebnikov/2020/08/11/stocks-turn-negative-after-russia-claims-to-have-worlds-first-coronavirus-vaccine/"
     },
     {
-        "title": "World hits grim milestone of 20 million reported coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+        "title": "Australia suffers deadliest day of coronavirus pandemic, cases rise",
+        "link": "https://news.yahoo.com/australias-victoria-deadliest-day-coronavirus-231720564.html"
     }
 ];

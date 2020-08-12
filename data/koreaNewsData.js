@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/957466.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 54명···지역발생 35명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
+        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
+        "link": "https://www.news1.kr/articles/?4024075"
     },
     {
         "title": "코로나19 확진자 8월9일 CGV용산 다녀갔다 \"12일 임시휴업\"",
         "link": "http://www.fnnews.com/news/202008121419180087"
     },
     {
-        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
-        "link": "https://www.news1.kr/articles/?4024075"
+        "title": "[속보] 코로나19 신규 확진자 54명···지역발생 35명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
     },
     {
-        "title": "논산 육군훈련소에서 코로나19 확진자 발생",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4515573&ref=A"
+        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
+        "link": "https://www.hankyung.com/society/article/2020081210657"
     },
     {
-        "title": "코로나19 확진자 개인정보 유출 공무원, 선고유예(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200812_0001127556&cID=10201&pID=10200"
+        "title": "논산훈련소 입대장병 코로나 확진…같은날 입대 800명 '음성'",
+        "link": "https://news.joins.com/article/olink/23441863"
     },
     {
         "title": "확진자 방문…'국내 최대 매장' 스타벅스 영업 중단",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526625866664"
     },
     {
-        "title": "롯데리아 코로나19 10명 확진…7개점포 폐쇄에도 고객엔 '쉬쉬'",
-        "link": "http://yna.kr/AKR20200812118900030?did=1195m"
+        "title": "코로나19 확진자 개인정보 유출 공무원, 선고유예(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200812_0001127556&cID=10201&pID=10200"
     },
     {
-        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
-        "link": "https://www.hankyung.com/society/article/2020081210657"
+        "title": "교회-시장-학교 이어 롯데리아까지…코로나19 전방위 확산 우려(종합)",
+        "link": "http://yna.kr/AKR20200812111551530?did=1195m"
     }
 ];
