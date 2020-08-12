@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1290246"
     },
     {
-        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
-        "link": "https://www.news1.kr/articles/?4024075"
-    },
-    {
         "title": "경남 창원에 사는 60대 여성 코로나19 확진…서울지역 방문",
         "link": "http://www.busan.com/view/busan/view.php?code=2020081215433096633"
+    },
+    {
+        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
+        "link": "https://www.news1.kr/articles/?4024075"
     },
     {
         "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",

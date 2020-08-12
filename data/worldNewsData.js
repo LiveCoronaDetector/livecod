@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: Russia calls international concern over vaccine 'groundless'",
+        "link": "https://www.bbc.com/news/world-europe-53751017"
+    },
+    {
         "title": "New Zealand Sees 4 Cases Of COVID-19 After 102 Days Of No Community Spread : Coronavirus Live Updates",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/11/901304243/new-zealand-on-alert-after-4-cases-of-covid-19-emerge-from-an-unknown-source"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
-    },
-    {
-        "title": "Texas Has Too Many Cases to Reopen, Governor Warns",
-        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "Trump could restrict border entry citing coronavirus concerns",
-        "link": "https://www.youtube.com/watch?v=cNYAhFstSQw"
     }
 ];
