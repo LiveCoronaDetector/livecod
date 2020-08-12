@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0d1fd280-dc5d-11ea-8a6f-57cdfa1abaf0&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=49b6b2f0-dc61-11ea-9e7b-f7579b8d7253&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
     },
     {
+        "title": "Dallas County posts 30 COVID-19 deaths, its third-highest daily toll; state passes 500,000-case mark",
+        "link": "https://www.dallasnews.com/news/public-health/2020/08/11/dallas-county-coronavirus-cases-drop-deaths-rise-with-298-new-covid-19-cases-30-deaths/"
+    },
+    {
         "title": "Coronavirus Live Updates: Worldwide Cases Reach 20 Million",
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
-    },
-    {
-        "title": "Dallas County posts 30 COVID-19 deaths, its third-highest daily toll; state passes 500,000-case mark",
-        "link": "https://www.dallasnews.com/news/public-health/2020/08/11/dallas-county-coronavirus-cases-drop-deaths-rise-with-298-new-covid-19-cases-30-deaths/"
+        "title": "Coronavirus: World's biggest gambling hub reopens for business",
+        "link": "https://www.bbc.com/news/business-53732645"
     }
 ];
