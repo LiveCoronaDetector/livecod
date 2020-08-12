@@ -17,6 +17,18 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200812111551530?did=1195m"
     },
     {
+        "title": "양평에 있는 국내최대 스벅, 확진자 방문에 '비상'",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/12/2020081204875.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
+    },
+    {
+        "title": "코로나19 신규 확진자 34명…국내 지역 발생 23명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
+    },
+    {
         "title": "스타벅스 더양평DTR점 영업중단…\"코로나 확진자 동선 겹쳐\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526625866664"
     },
@@ -27,17 +39,5 @@ var koreaNewsData = [
     {
         "title": "국내 1위 신세계백화점 강남점 코로나19 확진자 방문에 조기 폐점",
         "link": "http://www.inews24.com/view/1290246"
-    },
-    {
-        "title": "경남 창원에 사는 60대 여성 코로나19 확진…서울지역 방문",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081215433096633"
-    },
-    {
-        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
-        "link": "https://www.news1.kr/articles/?4024075"
-    },
-    {
-        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
-        "link": "https://www.hankyung.com/society/article/2020081210657"
     }
 ];
