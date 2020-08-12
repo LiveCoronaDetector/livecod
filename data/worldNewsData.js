@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
     },
     {
-        "title": "Spain again grapples with Europe's worst virus infection rate",
-        "link": "https://news.yahoo.com/spain-again-grapples-europes-worst-155113562.html"
+        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
+        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
