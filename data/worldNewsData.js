@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.tribuneindia.com/news/nation/covid-cases-havent-yet-peaked-or-even-plateaued-aiims-director-125556"
     },
     {
-        "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
-        "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
+        "title": "Coronavirus found on Ecuador shrimps in China, state media says",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-anhui/coronavirus-found-on-ecuador-shrimps-in-china-state-media-says-idUSKCN2581D1"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
