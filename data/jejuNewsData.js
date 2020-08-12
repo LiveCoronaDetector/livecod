@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424338"
     },
     {
-        "title": "고양 반석교회 확진자 근무한 어린이집서 4명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200808028651060?did=1195m"
-    },
-    {
         "title": "[서울와이어 12일 모닝브리핑]러시아 코로나 19 백신 개발 관련주 주목",
         "link": "http://www.seoulwire.com/news/articleView.html?idxno=423750"
+    },
+    {
+        "title": "고양 반석교회 확진자 근무한 어린이집서 4명 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200808028651060?did=1195m"
     },
     {
         "title": "코로나19 제주 24번 환자 3주만에 퇴원",
