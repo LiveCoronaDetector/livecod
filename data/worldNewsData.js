@@ -18,11 +18,15 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=49b6b2f0-dc61-11ea-9e7b-f7579b8d7253&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=63a5f690-dc65-11ea-a446-f539dc48832c&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
         "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus Live Updates: Worldwide Cases Reach 20 Million",
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "Coronavirus: World's biggest gambling hub reopens for business",
-        "link": "https://www.bbc.com/news/business-53732645"
     }
 ];
