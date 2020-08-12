@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
     },
     {
-        "title": "코로나19 신규 확진자 34명…국내 지역 발생 23명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
+        "title": "[속보]코로나19 신규확진자 54명…국내발생 35명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215262"
     },
     {
         "title": "경기 용인 대지고·죽전고 학생 4명 코로나 추가 감염",
         "link": "http://www.hani.co.kr/arti/area/capital/957454.html"
     },
     {
+        "title": "코로나19 신규확진자 54명…지역발생 35명, 20일만에 최다",
+        "link": "http://www.incheonilbo.com/news/articleView.html?idxno=1052930"
+    },
+    {
+        "title": "코로나19 신규 확진자 34명…국내 지역 발생 23명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
+    },
+    {
         "title": "광주서 해외입국 6명 코로나19 확진...누적확진자 216명",
         "link": "http://www.fnnews.com/news/202008120840001068"
-    },
-    {
-        "title": "[속보] 코로나19 54명 늘어 1만4,714명…지역 35명·해외유입 19명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008120155&t=NN"
-    },
-    {
-        "title": "[속보]'코로나19' 확진자 54명 추가…국내발생35·해외유입19명",
-        "link": "https://www.news1.kr/articles/?4023849"
     },
     {
         "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",

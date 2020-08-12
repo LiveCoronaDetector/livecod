@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=7ddbf610-dc3b-11ea-ad89-bf6581051c2d&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c04ec6e0-dc3f-11ea-bc8b-4fa7e281ec75&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
-        "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
+        "title": "Coronavirus: New Zealand locks down Auckland after cases end 102-day run",
+        "link": "https://www.bbc.com/news/world-asia-53741091"
     },
     {
-        "title": "New Zealand reinstates coronavirus restrictions after first locally-transmitted case in 102 days",
-        "link": "https://www.cnn.com/2020/08/11/world/new-zealand-restrictions-intl-scli/index.html"
+        "title": "Coronavirus: Belgium beach brawl prompts call to limit visitors",
+        "link": "https://www.theguardian.com/world/2020/aug/11/coronavirus-belgium-beach-brawl-call-limit-visitors"
     }
 ];
