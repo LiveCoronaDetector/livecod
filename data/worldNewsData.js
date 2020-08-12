@@ -18,11 +18,11 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=81564330-dc50-11ea-98e9-b3a923b1aa96&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ab8b2d10-dc54-11ea-b06b-ef27958895e6&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
-        "title": "Coronavirus discovered on frozen seafood packaging in China: report",
-        "link": "https://www.foxnews.com/health/coronavirus-frozen-seafood-packaging-china-report"
+        "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
+        "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
