@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e426d090-dc43-11ea-b045-115ea817d327&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2cf744e0-dc48-11ea-a30e-ad32fbb83692&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "COVID-19 recovery rate nears 70%, case fatality rate falls below 2%",
-        "link": "https://in.news.yahoo.com/covid-19-recovery-rate-nears-120459720.html"
+        "title": "Allegheny County continues to post lower new covid-19 case counts",
+        "link": "https://triblive.com/local/pittsburgh-allegheny/allegheny-county-continues-to-post-lower-new-covid-19-case-counts/"
     },
     {
-        "title": "Trump unveils new Covid adviser who backs reopening schools",
-        "link": "https://www.theguardian.com/world/2020/aug/11/trump-adviser-scott-atlas-coronavirus-schools"
+        "title": "Coronavirus live updates: New Zealand delays election process; Florida reports record single-day jump in deaths",
+        "link": "https://www.cnbc.com/2020/08/11/coronavirus-live-updates.html"
     }
 ];
