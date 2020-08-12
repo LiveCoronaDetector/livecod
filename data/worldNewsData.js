@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.tribuneindia.com/news/nation/covid-cases-havent-yet-peaked-or-even-plateaued-aiims-director-125556"
     },
     {
-        "title": "Global report: New Zealand begins mass testing as Australia records deadliest day",
-        "link": "https://www.theguardian.com/world/2020/aug/12/global-report-new-zealand-begins-mass-testing-as-australia-records-deadliest-day"
+        "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
+        "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
     },
     {
-        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
-    },
-    {
         "title": "Coronavirus: Russia calls international concern over vaccine 'groundless'",
         "link": "https://www.bbc.com/news/world-europe-53751017"
     },
     {
-        "title": "World hits grim milestone of 20 million reported coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
+        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
+    },
+    {
+        "title": "Coronavirus update: Global cases top 20.3 million, U.S. tally tops 5.15 million as Florida and Georgia see record one-day deaths",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-203-million-us-tally-tops-515-million-as-florida-and-georgia-see-record-one-day-deaths-2020-08-12"
     }
 ];
