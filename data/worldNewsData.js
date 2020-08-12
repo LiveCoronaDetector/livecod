@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+        "title": "Accuracy of U.S. coronavirus data thrown into question as decline in testing skews drop in new cases",
+        "link": "https://www.cnbc.com/2020/08/12/accuracy-of-us-coronavirus-data-thrown-into-question-as-decline-in-testing-skews-drop-in-new-cases.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
