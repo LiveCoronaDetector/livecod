@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=43a678b0-dc4c-11ea-ae49-2379b37f0a8f&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=81564330-dc50-11ea-98e9-b3a923b1aa96&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus: New Zealand locks down Auckland after cases end 102-day run",
-        "link": "https://www.bbc.com/news/world-asia-53741091"
+        "title": "Children, teens fuel Minnesota COVID-19 case growth",
+        "link": "https://www.startribune.com/children-teens-fuel-minnesota-covid-19-case-growth/572076732/"
     },
     {
-        "title": "Coronavirus live updates: New Zealand delays election process; Florida reports record single-day jump in deaths",
-        "link": "https://www.cnbc.com/2020/08/11/coronavirus-live-updates.html"
+        "title": "Trump unveils new Covid adviser who backs reopening schools",
+        "link": "https://www.theguardian.com/world/2020/aug/11/trump-adviser-scott-atlas-coronavirus-schools"
     }
 ];

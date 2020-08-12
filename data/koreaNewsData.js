@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
     },
     {
-        "title": "코로나19 신규확진자 54명…국내발생 35명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215262"
+        "title": "스페인, 코로나 재확산 뚜렷…확진자 하루 5000명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081200689.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "광주서 해외입국 6명 코로나19 확진...누적확진자 216명",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
     },
     {
-        "title": "스페인, 코로나 재확산 뚜렷…확진자 하루 5000명 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081200689.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나19 신규 확진자 34명...부산 9명, 서울·경기 13명",
         "link": "http://www.hani.co.kr/arti/society/health/957301.html"
+    },
+    {
+        "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
+        "link": "http://yna.kr/AKR20200811069951004?did=1195m"
     },
     {
         "title": "용인 대지고에 이어 죽전고에서도 코로나 확진자 발생",
         "link": "https://www.kgnews.co.kr/news/article.html?no=597779"
     },
     {
-        "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
-        "link": "http://yna.kr/AKR20200811069951004?did=1195m"
+        "title": "뉴욕증시, 코로나19 백신 기대에도 기술주 약세로 하락마감",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081200419.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
