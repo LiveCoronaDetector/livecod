@@ -5,24 +5,24 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53699712"
     },
     {
-        "title": "Coronavirus: White House weighs plan to keep out US citizens and legal residents",
-        "link": "https://www.bbc.com/news/world-us-canada-53740840"
+        "title": "What Canada’s Response to the Pandemic Says about Canada — and the U.S.",
+        "link": "https://www.nationalreview.com/2020/08/what-canadas-response-to-the-pandemic-says-about-canada-and-the-u-s/"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "Coronavirus in Europe: French and Dutch on alert over rise in cases",
-        "link": "https://www.theguardian.com/world/2020/aug/11/coronavirus-in-europe-french-and-dutch-on-alert-over-rise-in-cases"
+        "title": "Barcelona player tests positive for coronavirus as cases rise in Spain",
+        "link": "https://www.espn.com/soccer/barcelona/story/4157925/barcelona-player-tests-positive-for-coronavirus-as-cases-rise-in-spain"
     },
     {
-        "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ba306e50-dc97-11ea-9329-fb226101f270&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "title": "Covid cases haven't yet peaked or even plateaued: AIIMS director",
+        "link": "https://www.tribuneindia.com/news/nation/covid-cases-havent-yet-peaked-or-even-plateaued-aiims-director-125556"
     },
     {
-        "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
-        "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
+        "title": "Global report: New Zealand begins mass testing as Australia records deadliest day",
+        "link": "https://www.theguardian.com/world/2020/aug/12/global-report-new-zealand-begins-mass-testing-as-australia-records-deadliest-day"
     },
     {
         "title": "Coronavirus: World's biggest gambling hub reopens for business",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
     },
     {
-        "title": "Texas Has Too Many Cases to Reopen, Governor Warns",
-        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
+        "title": "Stocks Turn Negative After Russia Claims To Have World’s First Coronavirus Vaccine",
+        "link": "https://www.forbes.com/sites/sergeiklebnikov/2020/08/11/stocks-turn-negative-after-russia-claims-to-have-worlds-first-coronavirus-vaccine/"
     },
     {
-        "title": "World hits grim milestone of 20 million reported coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+        "title": "New Zealand Sees 4 Cases Of COVID-19 After 102 Days Of No Community Spread : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/11/901304243/new-zealand-on-alert-after-4-cases-of-covid-19-emerge-from-an-unknown-source"
     }
 ];
