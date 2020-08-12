@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
     },
     {
-        "title": "Coronavirus update: Global cases top 20.3 million, U.S. tally tops 5.15 million as Florida and Georgia see record one-day deaths",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-203-million-us-tally-tops-515-million-as-florida-and-georgia-see-record-one-day-deaths-2020-08-12"
+        "title": "Texas Has Too Many Cases to Reopen, Governor Warns",
+        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     }
 ];

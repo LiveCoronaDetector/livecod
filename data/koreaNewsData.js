@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
     },
     {
-        "title": "교회-시장-학교 이어 롯데리아까지…코로나19 전방위 확산 우려(종합)",
-        "link": "http://yna.kr/AKR20200812111551530?did=1195m"
-    },
-    {
         "title": "롯데리아 집단감염 확진자 속출…\"오후 6시까지 누적 11명\"",
         "link": "http://yna.kr/AKR20200812161100530?did=1195m"
     },
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/12/2020081204875.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 신규 확진자 34명…국내 발생 23명·해외 유입 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4514320&ref=A"
-    },
-    {
-        "title": "코로나19 신규 확진자 34명…국내 지역 발생 23명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
-    },
-    {
         "title": "스타벅스 더양평DTR점 영업중단…\"코로나 확진자 동선 겹쳐\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526625866664"
     },
     {
-        "title": "코로나19 신규확진자 54명…국내발생 35명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215262"
+        "title": "논산훈련소 입대장병 코로나 확진…같은날 입대 800명 '음성'",
+        "link": "https://news.joins.com/article/olink/23441863"
+    },
+    {
+        "title": "국내 1위 신세계백화점 강남점 코로나19 확진자 방문에 2일간 폐점",
+        "link": "http://www.inews24.com/view/1290246"
+    },
+    {
+        "title": "경남 창원에 사는 60대 여성 코로나19 확진…서울지역 방문",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081215433096633"
+    },
+    {
+        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
+        "link": "https://www.hankyung.com/society/article/2020081210657"
     }
 ];
