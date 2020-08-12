@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Polio vaccinations resume in Pakistan and Afghanistan after Covid-19 delays",
-        "link": "https://www.theguardian.com/global-development/2020/aug/12/polio-vaccinations-resume-in-pakistan-and-afghanistan-after-covid-19-delays"
+        "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
+        "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
         "title": "Coronavirus in Europe: Infections surge in France, Germany and Spain",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.tribuneindia.com/news/nation/covid-cases-havent-yet-peaked-or-even-plateaued-aiims-director-125556"
     },
     {
-        "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
-        "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
+        "title": "Global report: New Zealand begins mass testing as Australia records deadliest day",
+        "link": "https://www.theguardian.com/world/2020/aug/12/global-report-new-zealand-begins-mass-testing-as-australia-records-deadliest-day"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53751017"
     },
     {
-        "title": "Australia suffers deadliest day of coronavirus pandemic, cases rise",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-australia-idUSKCN2572XM"
+        "title": "World hits grim milestone of 20 million reported coronavirus cases",
+        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
     }
 ];
