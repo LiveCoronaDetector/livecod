@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=13fece70-dc72-11ea-8d3f-456585c78c29&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2e3ca740-dc76-11ea-a1f3-69c124a23549&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "New Zealand reinstates coronavirus restrictions after first locally transmitted case in 102 days",
-        "link": "https://www.cnn.com/2020/08/11/world/new-zealand-restrictions-intl-scli/index.html"
+        "title": "Coronavirus live updates: Single-day spike of 60,963 cases and 834 deaths reported in India",
+        "link": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates/liveblog/77495296.cms"
     }
 ];
