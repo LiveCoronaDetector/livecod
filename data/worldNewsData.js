@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
-        "link": "https://news.google.com/articles/CAIiEHuxTFu1iAD0CLCTzazrg8wqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
         "title": "Coronavirus in Europe: French and Dutch on alert over rise in cases",
@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=65b58b90-dc37-11ea-8fb7-05165ad19964&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=7ddbf610-dc3b-11ea-ad89-bf6581051c2d&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
     },
     {
-        "title": "World hits grim milestone of 20 million reported coronavirus cases",
-        "link": "https://www.cnn.com/2020/08/10/health/20-million-coronavirus-cases-intl/index.html"
+        "title": "New Zealand reinstates coronavirus restrictions after first locally-transmitted case in 102 days",
+        "link": "https://www.cnn.com/2020/08/11/world/new-zealand-restrictions-intl-scli/index.html"
     }
 ];

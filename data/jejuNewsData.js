@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5391892"
     },
     {
-        "title": "정부, '코로나 우울' 극복 위해 10월 특별여행주간 지정",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1307782"
+        "title": "고양반석교회 확진자 16명등 교회 2곳 관련 환자 32명으로 늘어",
+        "link": "http://www.kyeongin.com/main/view.php?key=20200808010001654"
     },
     {
-        "title": "고양 반석교회 확진자 근무한 어린이집서 4명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200808028651060?did=1195m"
+        "title": "정부, '코로나 우울' 극복 위해 10월 특별여행주간 지정",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1307782"
     },
     {
         "title": "제주항공 조종사, 코로나19 확진···제주행 운항",
