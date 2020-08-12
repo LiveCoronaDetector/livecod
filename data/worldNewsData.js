@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/11/latest_news/1597127329_465621.html"
     },
     {
-        "title": "With no end to the pandemic in sight, coronavirus fatigue grips America",
-        "link": "https://www.washingtonpost.com/health/with-no-end-to-the-pandemic-in-sight-coronavirus-fatigue-grips-america/2020/08/10/a959424c-d7fa-11ea-930e-d88518c57dcc_story.html"
+        "title": "Coronavirus: White House weighs plan to keep out US citizens and legal residents",
+        "link": "https://www.bbc.com/news/world-us-canada-53740840"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
-        "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
+        "link": "https://news.google.com/articles/CAIiEHuxTFu1iAD0CLCTzazrg8wqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus in Europe: French and Dutch on alert over rise in cases",
@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cfe489a0-dc35-11ea-a7a4-21df57e9602e&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=65b58b90-dc37-11ea-8fb7-05165ad19964&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus: New Zealand locks down Auckland after cases end 102-day run",
-        "link": "https://www.bbc.com/news/world-asia-53741091"
+        "title": "Citing coronavirus, Trump administration weighs more restrictions on the US-Mexico border that could include citizens",
+        "link": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html"
     },
     {
         "title": "World hits grim milestone of 20 million reported coronavirus cases",
