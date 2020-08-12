@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200812111551530?did=1195m"
     },
     {
+        "title": "롯데리아 집단감염 확진자 속출…\"오후 6시까지 누적 11명\"",
+        "link": "http://yna.kr/AKR20200812161100530?did=1195m"
+    },
+    {
         "title": "양평에 있는 국내최대 스벅, 확진자 방문에 '비상'",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/12/2020081204875.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규확진자 54명…국내발생 35명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215262"
-    },
-    {
-        "title": "[속보] 고양서 코로나19 확진자 발생…직장 동료 5명도 양성",
-        "link": "https://www.hankyung.com/society/article/2020081298097"
     }
 ];
