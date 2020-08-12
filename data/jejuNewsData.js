@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.newskr.kr/news/articleView.html?idxno=47910"
     },
     {
+        "title": "대구시 이루어내고 있다. 코로나19 40일동안 “대구 0명”",
+        "link": "http://www.ajunews.com/view/20200812183322397"
+    },
+    {
         "title": "[기자수첩] 붐비는 파티 게스트하우스 속 만연한 ‘코로나 불감증’",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/11/2020081103445.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,12 +29,8 @@ var jejuNewsData = [
         "link": "http://www.businesspost.co.kr/BP?command=article_view&num=191398"
     },
     {
-        "title": "대구시 이루어내고 있다. 코로나19 40일동안 “대구 0명”",
-        "link": "http://www.ajunews.com/view/20200812183322397"
-    },
-    {
-        "title": "고양 반석교회 확진자 근무한 어린이집서 4명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200808028651060?did=1195m"
+        "title": "고양반석교회 확진자 16명등 교회 2곳 관련 환자 32명으로 늘어",
+        "link": "http://www.kyeongin.com/main/view.php?key=20200808010001654"
     },
     {
         "title": "[서울와이어 12일 모닝브리핑]러시아 코로나 19 백신 개발 관련주 주목",

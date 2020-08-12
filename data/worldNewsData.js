@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=132e7990-dc87-11ea-95d3-f59f1e90539e&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3a603590-dc8b-11ea-ac22-610b83b30778&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
