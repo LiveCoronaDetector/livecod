@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Accuracy of U.S. coronavirus data thrown into question as decline in testing skews drop in new cases",
-        "link": "https://www.cnbc.com/2020/08/12/accuracy-of-us-coronavirus-data-thrown-into-question-as-decline-in-testing-skews-drop-in-new-cases.html"
+        "title": "Kamala Harris blames Trump for severity of U.S. coronavirus outbreak: He failed to take it 'seriously from the start'",
+        "link": "https://www.cnbc.com/2020/08/12/kamala-harris-blames-trump-for-severity-of-us-coronavirus-outbreak-he-failed-to-take-it-seriously-from-the-start.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
-    },
-    {
         "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
+    },
+    {
+        "title": "Spain again grapples with Europe's worst virus infection rate",
+        "link": "https://news.yahoo.com/spain-again-grapples-europes-worst-155113562.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
