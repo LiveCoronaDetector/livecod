@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526625866664"
     },
     {
-        "title": "논산훈련소 입대장병 코로나 확진…같은날 입대 800명 '음성'",
-        "link": "https://news.joins.com/article/olink/23441863"
+        "title": "코로나19 신규확진자 54명…국내발생 35명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215262"
     },
     {
-        "title": "국내 1위 신세계백화점 강남점 코로나19 확진자 방문에 조기 폐점",
-        "link": "http://www.inews24.com/view/1290246"
+        "title": "[속보] 고양서 코로나19 확진자 발생…직장 동료 5명도 양성",
+        "link": "https://www.hankyung.com/society/article/2020081298097"
     }
 ];
