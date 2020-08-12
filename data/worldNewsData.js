@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c0f859e0-dc2a-11ea-bf46-999afce7a27b&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4a607330-dc2f-11ea-ac22-610b83b30778&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Coronavirus discovered on frozen seafood packaging in China: report",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Trump's border promise hits a wall",
-        "link": "https://www.youtube.com/watch?v=CE9l2nuokn0"
+        "title": "San Diego County Reports 228 New COVID-19 Cases, Five Community Outbreaks",
+        "link": "https://www.kpbs.org/news/2020/aug/10/san-diego-county-reports-228-new-covid-19-cases/"
     },
     {
         "title": "Coronavirus: Belgium beach brawl prompts call to limit visitors",

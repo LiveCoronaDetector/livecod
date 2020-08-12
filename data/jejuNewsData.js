@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5391892"
     },
     {
+        "title": "[서울서울와이어 12일 모닝브리핑]러시아 코로나 19 백신 개발 관련주 주목",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=423750"
+    },
+    {
         "title": "정부, '코로나 우울' 극복 위해 10월 특별여행주간 지정",
         "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1307782"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주항공 조종사, 코로나19 확진···제주행 운항",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169324"
-    },
-    {
-        "title": "창고 불법 개조 배드민턴장 설치...코로나 방역 '찬물'",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169421"
     }
 ];

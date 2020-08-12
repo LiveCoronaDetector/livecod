@@ -13,16 +13,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/957301.html"
     },
     {
-        "title": "[속보]용인 대지고·죽전고 4명 코로나19 추가 감염",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008120811001&code=940202"
-    },
-    {
         "title": "남대문시장 중앙상가에서도 확진자…1명 추가 감염(종합)",
         "link": "http://yna.kr/AKR20200811069951004?did=1195m"
     },
     {
+        "title": "스페인, 코로나 재확산 뚜렷…확진자 하루평균 5000명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081200689.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "뉴욕증시, 코로나19 백신 기대에도 기술주 약세로 하락마감",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081200419.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보]용인 대지고·죽전고 4명 코로나19 추가 감염",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008120811001&code=940202"
     },
     {
         "title": "부산서 또 코로나19 무더기 확진…러 어선 선원 4명+확진자 접촉자 5명",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "교회발 감염 확산…남대문시장 다른 상가서도 확진자",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11964193"
-    },
-    {
-        "title": "잠실구장에 코로나19 확진자 입장 확인",
-        "link": "http://www.munhwa.com/news/view.html?no=20200811MW164644893652"
     }
 ];
