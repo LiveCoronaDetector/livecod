@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200812111551530?did=1195m"
     },
     {
-        "title": "확진자 방문…'국내 최대 매장' 스타벅스 영업 중단",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005928231&plink=ORI&cooper=NAVER"
+        "title": "양평에 있는 국내최대 스벅, 확진자 방문에 '비상'",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/12/2020081204875.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "스타벅스 더양평DTR점 영업중단…\"코로나 확진자 동선 겹쳐\"",

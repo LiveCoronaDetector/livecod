@@ -5,32 +5,24 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53699712"
     },
     {
-        "title": "What Canada’s Response to the Pandemic Says about Canada — and the U.S.",
-        "link": "https://www.nationalreview.com/2020/08/what-canadas-response-to-the-pandemic-says-about-canada-and-the-u-s/"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     },
     {
         "title": "Polio vaccinations resume in Pakistan and Afghanistan after Covid-19 delays",
         "link": "https://www.theguardian.com/global-development/2020/aug/12/polio-vaccinations-resume-in-pakistan-and-afghanistan-after-covid-19-delays"
     },
     {
-        "title": "Coronavirus: Cases surge as France goes 'wrong way'",
-        "link": "https://www.bbc.com/news/world-europe-53745481"
+        "title": "Coronavirus in Europe: Infections surge in Germany and Spain",
+        "link": "https://www.bbc.com/news/world-europe-53747852"
     },
     {
         "title": "Covid cases haven't yet peaked or even plateaued: AIIMS director",
         "link": "https://www.tribuneindia.com/news/nation/covid-cases-havent-yet-peaked-or-even-plateaued-aiims-director-125556"
     },
     {
-        "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
-        "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
-    },
-    {
-        "title": "Coronavirus: World's biggest gambling hub reopens for business",
-        "link": "https://www.bbc.com/news/business-53732645"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
+        "title": "Global report: New Zealand begins mass testing as Australia records deadliest day",
+        "link": "https://www.theguardian.com/world/2020/aug/12/global-report-new-zealand-begins-mass-testing-as-australia-records-deadliest-day"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
@@ -39,5 +31,13 @@ var worldNewsData = [
     {
         "title": "Texas Has Too Many Cases to Reopen, Governor Warns",
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "WHO urges postponing dental checkups during pandemic | TheHill",
+        "link": "https://thehill.com/policy/healthcare/511537-who-urges-postponing-dental-checkups-during-pandemic"
+    },
+    {
+        "title": "Stocks Turn Negative After Russia Claims To Have World’s First Coronavirus Vaccine",
+        "link": "https://www.forbes.com/sites/sergeiklebnikov/2020/08/11/stocks-turn-negative-after-russia-claims-to-have-worlds-first-coronavirus-vaccine/"
     }
 ];
