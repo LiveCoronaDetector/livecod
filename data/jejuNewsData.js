@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/11/2020081103445.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "GKL 올해 첫 적자 불가피, 유태열 코로나19 뒤에도 회복 장담 못 해",
-        "link": "http://www.businesspost.co.kr/BP?command=article_view&num=191398"
-    },
-    {
         "title": "제주도 24번 코로나 확진자 퇴원...\"무증상, 2회 연속 음성\"",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424338"
+    },
+    {
+        "title": "GKL 올해 첫 적자 불가피, 유태열 코로나19 뒤에도 회복 장담 못 해",
+        "link": "http://www.businesspost.co.kr/BP?command=article_view&num=191398"
     },
     {
         "title": "고양 반석교회 확진자 근무한 어린이집서 4명 추가 확진(종합)",

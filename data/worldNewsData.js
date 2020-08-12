@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/12/latest_news/1597213497_984890.html"
     },
     {
-        "title": "Live updates: Florida and Georgia set new single-day records for coronavirus-related deaths",
-        "link": "https://www.washingtonpost.com/nation/2020/08/12/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus: White House weighs plan to keep out US citizens and legal residents",
+        "link": "https://www.bbc.com/news/world-us-canada-53740840"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8d382b40-dc7e-11ea-be17-8532c4f494b2&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cf860ef0-dc82-11ea-a93c-0b1037d02610&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus kills three people affiliated with same Florida school",
-        "link": "https://www.nbcnews.com/news/us-news/coronavirus-kills-three-people-affiliated-same-florida-school-n1236400"
+        "title": "Australia suffers deadliest day of coronavirus pandemic, cases rise",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-australia-idUSKCN2572XM"
     }
 ];
