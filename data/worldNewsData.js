@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/12/latest_news/1597213497_984890.html"
     },
     {
-        "title": "Coronavirus: White House weighs plan to keep out US citizens and legal residents",
-        "link": "https://www.bbc.com/news/world-us-canada-53740840"
+        "title": "Live updates: Florida and Georgia set new single-day records for coronavirus-related deaths",
+        "link": "https://www.washingtonpost.com/nation/2020/08/12/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6be21180-dc7a-11ea-836f-c3f2b7b0ebb2&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8d382b40-dc7e-11ea-be17-8532c4f494b2&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
