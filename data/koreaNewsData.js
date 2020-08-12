@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/957466.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 54명···지역발생 35명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
+        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
+        "link": "https://www.news1.kr/articles/?4024075"
     },
     {
-        "title": "코로나19 확진자 8월9일 CGV용산 다녀갔다 \"12일 임시휴업\"",
-        "link": "http://www.fnnews.com/news/202008121419180087"
+        "title": "지난 9일 용산 CGV에 코로나19 확진자 방문…12일 긴급휴점",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121320001&code=960100"
     },
     {
         "title": "[속보]경남 코로나19 확진자 7일만에 발생…누적 164명",
         "link": "http://www.newsis.com/view/?id=NISX20200812_0001127390&cID=10812&pID=10800"
     },
     {
-        "title": "‘코로나19’ 신규 확진 17일 만에 다시 50명대…국내 발생 35명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4515251&ref=A"
+        "title": "경남 코로나19 확진 1명 …강남 확진자 접촉 60대 여성",
+        "link": "https://www.pressian.com/pages/articles/2020081216081750942?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "롯데리아 코로나19 10명 확진…7개점포 폐쇄에도 고객엔 '쉬쉬'",
-        "link": "http://yna.kr/AKR20200812118900030?did=1195m"
+        "title": "코로나 확진자 개인정보 유출 공무원 선고유예",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/12/2020081203402.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
         "link": "https://www.hankyung.com/society/article/2020081210657"
     },
     {
-        "title": "광주서 해외입국 6명 코로나 ‘확진’…기존 211번 확진자 판정 보류",
-        "link": "https://view.asiae.co.kr/article/2020081209415037564"
+        "title": "코로나19 신규 확진자 34명…국내 지역 발생 23명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5870267_32633.html"
     },
     {
         "title": "'19명 참석' 롯데리아 모임서 10명 코로나 감염…서울 7·경기 3명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/12/2020081202648.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
-        "link": "https://www.news1.kr/articles/?4024075"
+        "title": "스타벅스 더양평DTR점 영업중단…\"코로나 확진자 동선 겹쳐\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526625866664"
     }
 ];
