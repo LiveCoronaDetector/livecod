@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "Barcelona player tests positive for coronavirus as cases rise in Spain",
-        "link": "https://www.espn.com/soccer/barcelona/story/4157925/barcelona-player-tests-positive-for-coronavirus-as-cases-rise-in-spain"
+        "title": "Coronavirus in Europe: French and Dutch on alert over rise in cases",
+        "link": "https://www.theguardian.com/world/2020/aug/11/coronavirus-in-europe-french-and-dutch-on-alert-over-rise-in-cases"
     },
     {
         "title": "Covid cases haven't yet peaked or even plateaued: AIIMS director",
         "link": "https://www.tribuneindia.com/news/nation/covid-cases-havent-yet-peaked-or-even-plateaued-aiims-director-125556"
     },
     {
-        "title": "Global report: New Zealand begins mass testing as Australia records deadliest day",
-        "link": "https://www.theguardian.com/world/2020/aug/12/global-report-new-zealand-begins-mass-testing-as-australia-records-deadliest-day"
-    },
-    {
-        "title": "Coronavirus: World's biggest gambling hub reopens for business",
-        "link": "https://www.bbc.com/news/business-53732645"
+        "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
+        "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
     },
     {
-        "title": "Stocks Turn Negative After Russia Claims To Have World’s First Coronavirus Vaccine",
-        "link": "https://www.forbes.com/sites/sergeiklebnikov/2020/08/11/stocks-turn-negative-after-russia-claims-to-have-worlds-first-coronavirus-vaccine/"
+        "title": "Texas Has Too Many Cases to Reopen, Governor Warns",
+        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     },
     {
         "title": "New Zealand Sees 4 Cases Of COVID-19 After 102 Days Of No Community Spread : Coronavirus Live Updates",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/11/901304243/new-zealand-on-alert-after-4-cases-of-covid-19-emerge-from-an-unknown-source"
+    },
+    {
+        "title": "Florida coronavirus deaths reach another grisly record as state grapples with testing constraints",
+        "link": "https://www.cnbc.com/2020/08/11/florida-coronavirus-deaths-reach-another-grisly-record-as-state-grapples-with-testing-constraints.html"
     }
 ];

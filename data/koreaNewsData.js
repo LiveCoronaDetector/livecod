@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008121419180087"
     },
     {
-        "title": "서울 롯데리아 직원들, 코로나19 집단감염",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121800001&code=940100"
-    },
-    {
-        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
-        "link": "https://www.news1.kr/articles/?4024075"
-    },
-    {
-        "title": "논산훈련소 입대장병 코로나 확진…같은날 입대 800명 '음성'",
-        "link": "https://news.joins.com/article/olink/23441863"
-    },
-    {
-        "title": "확진자 방문…'국내 최대 매장' 스타벅스 영업 중단",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005928231&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "스타벅스 더양평DTR점 영업중단…\"코로나 확진자 동선 겹쳐\"",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526625866664"
-    },
-    {
         "title": "신세계 강남점, 코로나19 확진자 다녀가 조기 영업 종료",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4515631&ref=A"
     },
     {
-        "title": "경남 창원에 사는 60대 여성 코로나19 확진…서울지역 방문",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081215433096633"
+        "title": "논산 육군훈련소 확진자 발생… 방역당국 '비상'(상보)",
+        "link": "http://moneys.mt.co.kr/news/mwView.php?no=2020081218298017199"
     },
     {
-        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
-        "link": "https://www.hankyung.com/society/article/2020081210657"
+        "title": "경남 코로나19 확진 1명 …강남 확진자 접촉 60대 여성",
+        "link": "https://www.pressian.com/pages/articles/2020081216081750942?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "'국내 최대' 양평 스타벅스, 확진자 다녀가 영업 중단",
+        "link": "http://yna.kr/AKR20200812157100030?did=1195m"
+    },
+    {
+        "title": "육군훈련소 코로나 확진자 \"입소 4일째 훈련병\"",
+        "link": "https://www.hankyung.com/society/article/2020081221427"
+    },
+    {
+        "title": "서울 롯데리아 직원들, 코로나19 집단감염",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121800001&code=940100"
+    },
+    {
+        "title": "코로나19 확진자 개인정보 유출 공무원, 선고유예(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200812_0001127556&cID=10201&pID=10200"
+    },
+    {
+        "title": "광주시, 코로나19 직격탄 광주 문화예술 분야 등 긴급 지원",
+        "link": "https://www.nocutnews.co.kr/news/5393653"
     }
 ];
