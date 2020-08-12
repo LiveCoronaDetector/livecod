@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008121419180087"
     },
     {
-        "title": "서울 롯데리아 직원들, 코로나19 집단감염",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121800001&code=940100"
+        "title": "[속보] 코로나19 신규 확진자 54명···지역발생 35명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
     },
     {
-        "title": "확진자 방문…'국내 최대 매장' 스타벅스 영업 중단",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005928231&plink=ORI&cooper=NAVER"
+        "title": "교회-시장-학교 이어 롯데리아까지…코로나19 전방위 확산 우려(종합)",
+        "link": "http://yna.kr/AKR20200812111551530?did=1195m"
     },
     {
         "title": "스타벅스 더양평DTR점 영업중단…\"코로나 확진자 동선 겹쳐\"",
@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23441863"
     },
     {
-        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
-        "link": "https://www.news1.kr/articles/?4024075"
+        "title": "국내 1위 신세계백화점 강남점 코로나19 확진자 방문에 조기 폐점",
+        "link": "http://www.inews24.com/view/1290246"
     },
     {
-        "title": "신세계 강남점, 코로나19 확진자 다녀가 조기 영업 종료",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4515631&ref=A"
+        "title": "[단독] '롯데리아 점장' 모임서 확진자 4명 발생…\"번지고 있어\"",
+        "link": "https://www.news1.kr/articles/?4024075"
     },
     {
         "title": "경남 창원에 사는 60대 여성 코로나19 확진…서울지역 방문",
