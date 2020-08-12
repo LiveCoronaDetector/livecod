@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4023522"
     },
     {
-        "title": "오늘 전국 소나기…러 \"코로나19 백신 세계 첫 등록\" [모닝브리핑]",
-        "link": "https://www.hankyung.com/economy/article/2020081282807"
-    },
-    {
         "title": "경기침체 관광업계 추가지원⋯포스트코로나 언택트⋅온택트",
         "link": "http://www.newskr.kr/news/articleView.html?idxno=47910"
+    },
+    {
+        "title": "오늘 전국 소나기…러 \"코로나19 백신 세계 첫 등록\" [모닝브리핑]",
+        "link": "https://www.hankyung.com/economy/article/2020081282807"
     },
     {
         "title": "대구시 이루어내고 있다. 코로나19 40일동안 “대구 0명”",

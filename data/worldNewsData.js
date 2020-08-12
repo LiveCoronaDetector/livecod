@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.tribuneindia.com/news/nation/covid-cases-havent-yet-peaked-or-even-plateaued-aiims-director-125556"
     },
     {
-        "title": "Coronavirus found on Ecuador shrimps in China, state media says",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-anhui/coronavirus-found-on-ecuador-shrimps-in-china-state-media-says-idUSKCN2581D1"
+        "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
+        "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
+    },
+    {
+        "title": "Spain again grapples with Europe's worst virus infection rate",
+        "link": "https://news.yahoo.com/spain-again-grapples-europes-worst-155113562.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus update: Global cases top 20.3 million, U.S. tally tops 5.15 million as Florida and Georgia see record one-day deaths",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-203-million-us-tally-tops-515-million-as-florida-and-georgia-see-record-one-day-deaths-2020-08-12"
-    },
-    {
-        "title": "'Like a prison sentence': the couples separated by Covid-19",
-        "link": "https://www.theguardian.com/world/2020/aug/12/like-a-prison-sentence-the-couples-separated-by-covid-19"
     }
 ];
