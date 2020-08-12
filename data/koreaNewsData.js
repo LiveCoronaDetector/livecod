@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
     },
     {
-        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
-        "link": "https://www.hankyung.com/society/article/2020081210657"
+        "title": "교회-시장-학교 이어 롯데리아까지…코로나19 전방위 확산 우려(종합)",
+        "link": "http://yna.kr/AKR20200812111551530?did=1195m"
     },
     {
         "title": "논산훈련소 입대장병 코로나 확진…같은날 입대 800명 '음성'",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200812_0001127556&cID=10201&pID=10200"
     },
     {
-        "title": "교회-시장-학교 이어 롯데리아까지…코로나19 전방위 확산 우려(종합)",
-        "link": "http://yna.kr/AKR20200812111551530?did=1195m"
+        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
+        "link": "https://www.hankyung.com/society/article/2020081210657"
     }
 ];
