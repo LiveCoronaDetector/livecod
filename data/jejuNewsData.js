@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.businesspost.co.kr/BP?command=article_view&num=191398"
     },
     {
+        "title": "대구시 이루어내고 있다. 코로나19 40일동안 “대구 0명”",
+        "link": "http://www.ajunews.com/view/20200812183322397"
+    },
+    {
         "title": "고양 반석교회 확진자 근무한 어린이집서 4명 추가 확진(종합)",
         "link": "http://yna.kr/AKR20200808028651060?did=1195m"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 제주 24번 환자 3주만에 퇴원",
         "link": "https://www.nocutnews.co.kr/news/5391892"
-    },
-    {
-        "title": "제주항공 조종사, 코로나19 확진···제주행 운항",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169324"
     }
 ];
