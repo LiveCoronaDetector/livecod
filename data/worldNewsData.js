@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/11/latest_news/1597127329_465621.html"
+        "link": "https://en.as.com/en/2020/08/12/latest_news/1597213497_984890.html"
     },
     {
         "title": "Coronavirus: White House weighs plan to keep out US citizens and legal residents",
@@ -18,26 +18,26 @@ var worldNewsData = [
     },
     {
         "title": "Serum Institute of India Is Ready to Produce a Coronavirus Vaccine",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=adee8bf0-dc69-11ea-aac6-bd97b3df626e&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cd9dd380-dc6d-11ea-a744-c9f559a0b96a&url=L2ZlYXR1cmVzLzIwMjAtY292aWQtdmFjY2luZS1zZXJ1bS1pbmRpYS8="
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
         "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
-    },
-    {
-        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
-    },
-    {
         "title": "Dallas County posts 30 COVID-19 deaths, its third-highest daily toll; state passes 500,000-case mark",
         "link": "https://www.dallasnews.com/news/public-health/2020/08/11/dallas-county-coronavirus-cases-drop-deaths-rise-with-298-new-covid-19-cases-30-deaths/"
     },
     {
-        "title": "Coronavirus Live Updates: Worldwide Cases Reach 20 Million",
+        "title": "Texas Has Too Many Cases to Reopen, Governor Warns",
         "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "Coronavirus: World's biggest gambling hub reopens for business",
+        "link": "https://www.bbc.com/news/business-53732645"
+    },
+    {
+        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
+        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
     }
 ];
