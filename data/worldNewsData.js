@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
+    },
+    {
         "title": "Spain again grapples with Europe's worst virus infection rate",
         "link": "https://news.yahoo.com/spain-again-grapples-europes-worst-155113562.html"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
         "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
-    },
-    {
-        "title": "Texas Has Too Many Cases to Reopen, Governor Warns",
-        "link": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html"
     }
 ];
