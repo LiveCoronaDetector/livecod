@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
     },
     {
-        "title": "India's COVID-19 tally rises to 2329639 | Over 56k patients cured in a day",
-        "link": "https://www.youtube.com/watch?v=PZ1wkob-3dk"
-    },
-    {
         "title": "Researchers Skeptical Of Russia's Claim To Have COVID-19 Vaccine | NBC News NOW",
         "link": "https://www.youtube.com/watch?v=l0G3myGSOek"
     },
     {
-        "title": "Live Coronavirus News Updates",
+        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
         "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     },
     {
         "title": "'Hundreds dead' because of Covid-19 misinformation",
         "link": "https://www.bbc.com/news/world-53755067"
+    },
+    {
+        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
+        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     }
 ];

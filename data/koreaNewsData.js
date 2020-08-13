@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200813048951057?did=1195m"
     },
     {
+        "title": "[속보]속초에서 60대 남성 코로나19 확진…서울 중구 24번, 25번 확진자와 친...",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081200143"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 56명···지역발생 47명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008131014001&code=940601"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진 56명…국내 지역 발생 47명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5872554_32633.html"
-    },
-    {
-        "title": "속초서 60대 남성 코로나 감염…서울 중구 확진자와 친척",
-        "link": "https://www.nocutnews.co.kr/news/5394552"
     },
     {
         "title": "아베, 트럼프 제치고 '코로나19 지도력 평가' 꼴찌",
