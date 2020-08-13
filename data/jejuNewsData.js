@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.ajunews.com/view/20200812183322397"
     },
     {
-        "title": "용인 확진자, 최소 59명 접촉…'우리제일교회' 예배 참석자 전수검사 예정",
-        "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=480253"
+        "title": "제주도 24번 코로나 확진자 퇴원...\"무증상, 2회 연속 음성\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424338"
     }
 ];

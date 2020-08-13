@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53747852"
     },
     {
-        "title": "Covid cases haven't yet peaked or even plateaued: AIIMS director",
-        "link": "https://www.tribuneindia.com/news/nation/covid-cases-havent-yet-peaked-or-even-plateaued-aiims-director-125556"
+        "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
+        "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
         "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
         "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
     },
     {
-        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
-        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
-    },
-    {
         "title": "Coronavirus live news: New Zealand confirms 13 new community cases; Russia vaccine due in fortnight",
         "link": "https://www.theguardian.com/world/live/2020/aug/13/coronavirus-live-news-covid-19-may-have-been-in-new-zealand-city-for-weeks-russia-vaccine-due-in-fortnight"
     },
     {
-        "title": "'Hundreds dead' because of Covid-19 misinformation",
-        "link": "https://www.bbc.com/news/world-53755067"
+        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
+        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
-        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
+    },
+    {
+        "title": "'Hundreds dead' because of Covid-19 misinformation",
+        "link": "https://www.bbc.com/news/world-53755067"
     }
 ];
