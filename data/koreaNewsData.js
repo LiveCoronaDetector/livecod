@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200813162900004?did=1195m"
     },
     {
+        "title": "[코로나19] 김포시 “확진자 업체 마스크 유통없다”",
+        "link": "http://www.fnnews.com/news/202008132037448254"
+    },
+    {
         "title": "코로나19 확진자 56명 증가…지역발생 47명 급증세",
         "link": "https://www.nocutnews.co.kr/news/5394286"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "광복절 22만명 집회 신청…깜짝 놀란 복지부 \"코로나19 전파 위험\"",
         "link": "https://www.news1.kr/articles/?4025260"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 56명 증가..서울 25명 중 롯데리아감염 11명",
-        "link": "http://www.fnnews.com/news/202008131015146761"
     }
 ];

@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Coronavirus US: highest daily Covid-19 death toll recorded since mid-May – live updates",
+        "title": "Biden campaign receives $26m boost in donations after Kamala Harris pick – live",
         "link": "https://www.theguardian.com/us-news/live/2020/aug/13/coronavirus-us-covid-19-donald-trump-joe-biden-kamala-harris-live-updates"
     },
     {
-        "title": "Despite coronavirus, Greek FM green lights Israeli tourism",
-        "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
+        "title": "First 3 Israelis treated with new passive vaccine recover, leave hospital",
+        "link": "https://www.jpost.com/health-science/first-3-israelis-treated-with-new-passive-vaccine-recover-leave-hospital-638431"
     },
     {
         "title": "Spanish region imposes smoking ban to curb virus spread - The Jakarta Post",
         "link": "https://www.thejakartapost.com/news/2020/08/13/spanish-region-imposes-smoking-ban-to-curb-virus-spread-.html"
     },
     {
-        "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
-        "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
+        "title": "Coronavirus live news: global death toll exceeds 750,000 as Europe struggles with rise in cases",
+        "link": "https://www.theguardian.com/world/live/2020/aug/13/coronavirus-live-news-covid-19-may-have-been-in-new-zealand-city-for-weeks-russia-vaccine-due-in-fortnight"
     },
     {
         "title": "China claims HHS Secretary Azar turned his back on Americans dying from coronavirus",
         "link": "https://www.foxnews.com/world/china-claims-hhs-secretary-azar-turned-his-back-on-americans-dying-from-coronavirus"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
-    },
-    {
-        "title": "'Hundreds dead' because of Covid-19 misinformation",
-        "link": "https://www.bbc.com/news/world-53755067"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
     },
     {
         "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
-        "title": "Coronavirus in Europe: Infections surge in France, Germany and Spain",
-        "link": "https://www.bbc.com/news/world-europe-53747852"
+        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "Coronavirus: How will the world vaccinate seven billion?",
+        "link": "https://www.bbc.com/news/health-53741966"
     }
 ];
