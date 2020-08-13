@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
+    },
+    {
+        "title": "Scientists say the coronavirus is at least as deadly as the 1918 flu pandemic",
+        "link": "https://www.cnbc.com/2020/08/13/scientists-say-the-coronavirus-is-at-least-as-deadly-as-the-1918-flu-pandemic.html"
     }
 ];
