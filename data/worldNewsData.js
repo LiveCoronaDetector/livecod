@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/first-3-israelis-treated-with-new-passive-vaccine-recover-leave-hospital-638431"
     },
     {
-        "title": "Coronavirus: Spain's Galicia region bans smoking over Covid-19 risk",
-        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNTM3NjMyNjfSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWV1cm9wZS01Mzc2MzI2Nw?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Spanish region imposes smoking ban to curb virus spread - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/08/13/spanish-region-imposes-smoking-ban-to-curb-virus-spread-.html"
     },
     {
         "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
