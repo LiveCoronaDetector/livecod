@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/live/2020/aug/13/coronavirus-us-covid-19-donald-trump-joe-biden-kamala-harris-live-updates"
     },
     {
-        "title": "First 3 Israelis treated with new passive vaccine recover, leave hospital",
-        "link": "https://www.jpost.com/health-science/first-3-israelis-treated-with-new-passive-vaccine-recover-leave-hospital-638431"
+        "title": "Israelis can fly isolation-free to Croatia, Bulgaria and Greece",
+        "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
     },
     {
         "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid-19.html"
     },
     {
-        "title": "'Hundreds dead' because of Covid-19 misinformation",
-        "link": "https://www.bbc.com/news/world-53755067"
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     }
 ];

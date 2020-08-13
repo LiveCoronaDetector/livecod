@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008131014001&code=940601"
     },
     {
+        "title": "[속보]속초에서 60대 남성 코로나19 확진…서울 중구 24번, 25번 확진자와 친...",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081200143"
+    },
+    {
+        "title": "코로나19 확진자 56명 증가…지역발생 47명 급증세",
+        "link": "https://www.nocutnews.co.kr/news/5394286"
+    },
+    {
         "title": "코로나19 신규 확진자 56명…서울·경기서만 41명",
         "link": "http://www.hani.co.kr/arti/society/health/957619.html"
     },
     {
         "title": "코로나19 신규 확진자 54명...서울·경기서만 32명",
         "link": "http://www.hani.co.kr/arti/society/health/957466.html"
-    },
-    {
-        "title": "[속보]속초에서 60대 남성 코로나19 확진…서울 중구 24번, 25번 확진자와 친...",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081200143"
     },
     {
         "title": "코로나19 신규 확진 56명…국내 지역 발생 47명",
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "[코로나19] 김포시 “확진자 업체 마스크 유통없다”",
         "link": "http://www.fnnews.com/news/202008132037448254"
-    },
-    {
-        "title": "코로나19 확진자 56명 증가…지역발생 47명 급증세",
-        "link": "https://www.nocutnews.co.kr/news/5394286"
     },
     {
         "title": "학교발 감염 확산, 코로나 2차 유행 ‘초긴장’",
