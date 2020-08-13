@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
-        "title": "Coronavirus: How will the world vaccinate seven billion?",
-        "link": "https://www.bbc.com/news/health-53741966"
+        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
+        "title": "Coronavirus: How will the world vaccinate seven billion?",
+        "link": "https://www.bbc.com/news/health-53741966"
     }
 ];

@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/957619.html"
     },
     {
-        "title": "[속보]속초에서 60대 남성 코로나19 확진…서울 중구 24번, 25번 확진자와 친...",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081200143"
-    },
-    {
         "title": "코로나19 신규 확진자 54명...서울·경기서만 32명",
         "link": "http://www.hani.co.kr/arti/society/health/957466.html"
+    },
+    {
+        "title": "[속보]속초에서 60대 남성 코로나19 확진…서울 중구 24번, 25번 확진자와 친...",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081200143"
     },
     {
         "title": "코로나19 신규 확진 56명…국내 지역 발생 47명",
@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200813098200065?did=1195m"
     },
     {
-        "title": "[전문] 동대문구청 49번째 확진자 발생...이문1동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=375758"
+        "title": "[전문] 중랑구청 45번째 확진자 발생...면목7동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=375769"
     },
     {
         "title": "서울 오늘 코로나 신규 확진자 22명…2달만에 이틀 연속 20명대",
