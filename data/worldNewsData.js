@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
-    },
-    {
-        "title": "Spain again grapples with Europe's worst virus infection rate",
-        "link": "https://news.yahoo.com/spain-again-grapples-europes-worst-155113562.html"
-    },
-    {
-        "title": "Coronavirus live news: Covid-19 may have been in New Zealand city for 'weeks'; Russia vaccine due in fortnight",
+        "title": "Coronavirus live news: New Zealand confirms 13 new community cases; Russia vaccine due in fortnight",
         "link": "https://www.theguardian.com/world/live/2020/aug/13/coronavirus-live-news-covid-19-may-have-been-in-new-zealand-city-for-weeks-russia-vaccine-due-in-fortnight"
+    },
+    {
+        "title": "'Hundreds dead' because of Covid-19 misinformation",
+        "link": "https://www.bbc.com/news/world-53755067"
+    },
+    {
+        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
+        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
     }
 ];
