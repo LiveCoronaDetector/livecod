@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53742684"
     },
     {
-        "title": "Coronavirus update: Israeli gov’t votes to open the skies",
-        "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
+        "title": "China to Supply Coronavirus Vaccine to Pakistan",
+        "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
         "title": "Coronavirus: Spanish regions ban smoking over Covid-19 risk",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "China claims HHS Secretary Azar turned his back on Americans dying from coronavirus",
-        "link": "https://www.foxnews.com/world/china-claims-hhs-secretary-azar-turned-his-back-on-americans-dying-from-coronavirus"
+        "title": "Trump: 'I view China differently' since coronavirus",
+        "link": "https://www.foxbusiness.com/markets/trump-china-post-coronavirus"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus Live Updates: U.S. Reports Nearly 1,500 Daily Deaths, Reflecting Continued Toll of Summer Surge",
-        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
+        "title": "Britain says it overcounted coronavirus death toll by 5,377",
+        "link": "https://www.washingtonpost.com/world/britain-says-it-overcounted-coronavirus-death-toll-by-5377/2020/08/13/f6f171a6-dce0-11ea-b4f1-25b762cdbbf4_story.html"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     },
     {
         "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",

@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/economy/article/2020081282807"
     },
     {
-        "title": "대구시 이루어내고 있다. 코로나19 40일동안 “대구 0명”",
-        "link": "http://www.ajunews.com/view/20200812183322397"
+        "title": "제주도 24번 코로나 확진자 퇴원...\"무증상, 2회 연속 음성\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424338"
     }
 ];
