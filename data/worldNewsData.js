@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "Trump: 'I view China differently' since coronavirus",
-        "link": "https://www.foxbusiness.com/markets/trump-china-post-coronavirus"
+        "title": "China claims HHS Secretary Azar turned his back on Americans dying from coronavirus",
+        "link": "https://www.foxnews.com/world/china-claims-hhs-secretary-azar-turned-his-back-on-americans-dying-from-coronavirus"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     },
     {
-        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
+        "title": "Coronavirus Live Updates: U.S. Reports Nearly 1,500 Daily Deaths, Reflecting Continued Toll of Summer Surge",
+        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
     }
 ];
