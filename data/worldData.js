@@ -84,9 +84,9 @@ var marker = [
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "확진자수": 333699,
-        "사망자수": 18988,
-        "완치자수": 290244
+        "확진자수": 336324,
+        "사망자수": 19162,
+        "완치자수": 292058
     },
     {
         "Name": "영국",
@@ -292,9 +292,9 @@ var marker = [
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "확진자수": 73785,
+        "확진자수": 74486,
         "사망자수": 489,
-        "완치자수": 65451
+        "완치자수": 66099
     },
     {
         "Name": "벨라루스",
@@ -308,9 +308,9 @@ var marker = [
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "확진자수": 65177,
-        "사망자수": 2807,
-        "완치자수": 31048
+        "확진자수": 66631,
+        "사망자수": 2860,
+        "완치자수": 31547
     },
     {
         "Name": "아랍에미리트",
@@ -428,7 +428,7 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "확진자수": 37169,
+        "확진자수": 37403,
         "사망자수": 1991,
         "완치자수": 32700
     },
@@ -548,9 +548,9 @@ var marker = [
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "확진자수": 21644,
+        "확진자수": 21993,
         "사망자수": 584,
-        "완치자수": 10081
+        "완치자수": 10254
     },
     {
         "Name": "체코",
@@ -1505,6 +1505,14 @@ var marker = [
         "완치자수": 126
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "확진자수": 92,
+        "사망자수": 4,
+        "완치자수": 45
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
@@ -1519,14 +1527,6 @@ var marker = [
         "확진자수": 90,
         "사망자수": 1,
         "완치자수": 87
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "확진자수": 84,
-        "사망자수": 4,
-        "완치자수": 44
     },
     {
         "Name": "St. Vincent Grenadines",
@@ -1654,7 +1654,7 @@ var marker = [
         "Name_en": "St. Barth",
         "확진자수": 13,
         "사망자수": 0,
-        "완치자수": 6
+        "완치자수": 8
     },
     {
         "Name": "Vatican City",
