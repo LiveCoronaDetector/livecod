@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/11/2020081103445.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[서울와이어 12일 모닝브리핑]러시아 코로나 19 백신 개발 관련주 주목",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=423750"
-    },
-    {
         "title": "오늘 전국 소나기…러 \"코로나19 백신 세계 첫 등록\" [모닝브리핑]",
         "link": "https://www.hankyung.com/economy/article/2020081282807"
+    },
+    {
+        "title": "대구시 이루어내고 있다. 코로나19 40일동안 “대구 0명”",
+        "link": "http://www.ajunews.com/view/20200812183322397"
     }
 ];

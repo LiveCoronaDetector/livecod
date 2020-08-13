@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/live/2020/aug/13/coronavirus-us-covid-19-donald-trump-joe-biden-kamala-harris-live-updates"
     },
     {
-        "title": "Israelis can fly isolation-free to Croatia, Bulgaria and Greece",
+        "title": "Coronavirus update: Israeli gov’t votes to open the skies",
         "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
     },
     {
-        "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
-        "link": "https://www.cnn.com/2020/08/13/europe/coronavirus-europe-young-people-cases-spiking-intl/index.html"
+        "title": "Spanish region imposes smoking ban to curb virus spread - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/08/13/spanish-region-imposes-smoking-ban-to-curb-virus-spread-.html"
     },
     {
         "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+        "title": "Coronavirus: How will the world vaccinate seven billion?",
+        "link": "https://www.bbc.com/news/health-53741966"
     }
 ];
