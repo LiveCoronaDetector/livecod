@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/live/2020/aug/13/coronavirus-us-covid-19-donald-trump-joe-biden-kamala-harris-live-updates"
     },
     {
-        "title": "Israelis can fly isolation-free to Croatia, Bulgaria and Greece",
-        "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
+        "title": "First 3 Israelis treated with new passive vaccine recover, leave hospital",
+        "link": "https://www.jpost.com/health-science/first-3-israelis-treated-with-new-passive-vaccine-recover-leave-hospital-638431"
     },
     {
-        "title": "Coronavirus: Spain's Galicia region bans smoking over Covid-19 risk",
-        "link": "https://www.bbc.com/news/world-europe-53763267"
+        "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
+        "link": "https://www.cnn.com/2020/08/13/europe/coronavirus-europe-young-people-cases-spiking-intl/index.html"
     },
     {
         "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
