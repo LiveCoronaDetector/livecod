@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Americans, go home: Tension at Canada-US border",
-        "link": "https://www.bbc.com/news/world-us-canada-53742684"
+        "title": "Joe Biden and Kamala Harris call for nationwide mask mandate – live",
+        "link": "https://www.theguardian.com/us-news/live/2020/aug/13/coronavirus-us-covid-19-donald-trump-joe-biden-kamala-harris-live-updates"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Coronavirus: Spanish regions ban smoking over Covid-19 risk",
-        "link": "https://www.bbc.com/news/world-europe-53763267"
+        "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
+        "link": "https://www.cnn.com/2020/08/13/europe/coronavirus-europe-young-people-cases-spiking-intl/index.html"
     },
     {
         "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Britain says it overcounted coronavirus death toll by 5,377",
-        "link": "https://www.washingtonpost.com/world/britain-says-it-overcounted-coronavirus-death-toll-by-5377/2020/08/13/f6f171a6-dce0-11ea-b4f1-25b762cdbbf4_story.html"
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     },
     {
-        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+        "title": "Live updates: U.S. was ‘unprepared’ for ‘greatest public health crisis’ in a century, CDC director says",
+        "link": "https://www.washingtonpost.com/nation/2020/08/13/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
