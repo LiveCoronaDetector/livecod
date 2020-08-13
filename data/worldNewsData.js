@@ -9,24 +9,28 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53742684"
     },
     {
-        "title": "China to Supply Coronavirus Vaccine to Pakistan",
-        "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
+        "title": "Coronavirus update: Israeli gov’t votes to open the skies",
+        "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
     },
     {
-        "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
-        "link": "https://www.cnn.com/2020/08/13/europe/coronavirus-europe-young-people-cases-spiking-intl/index.html"
+        "title": "Surge in Covid-19 cases across Europe linked to young people",
+        "link": "https://www.theguardian.com/world/2020/aug/13/global-report-covid-19-spikes-across-europe-linked-to-young-people"
     },
     {
         "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "Coronavirus: Australia encouraged by drop in new Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-australia-53767793"
+        "title": "Trump: 'I view China differently' since coronavirus",
+        "link": "https://www.foxbusiness.com/markets/trump-china-post-coronavirus"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Trump pushes for schools to reopen as US sees deadliest Covid day since May",
+        "link": "https://www.theguardian.com/world/2020/aug/13/coronavirus-trump-schools-us-deaths-covid"
     },
     {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
-    },
-    {
-        "title": "Scientists say the coronavirus is at least as deadly as the 1918 flu pandemic",
-        "link": "https://www.cnbc.com/2020/08/13/scientists-say-the-coronavirus-is-at-least-as-deadly-as-the-1918-flu-pandemic.html"
     }
 ];

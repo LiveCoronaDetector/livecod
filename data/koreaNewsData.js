@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081100143"
     },
     {
+        "title": "동시다발로 터지는 코로나…“수도권 일촉즉발 상황”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/13/2020081303440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[속보]속초에서 60대 남성 코로나19 확진…서울 중구 24번, 25번 확진자와 친...",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081200143"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200813162900004?did=1195m"
     },
     {
-        "title": "[코로나19] 김포시 “확진자 업체 마스크 유통없다”",
-        "link": "http://www.fnnews.com/news/202008132037448254"
+        "title": "속초서 코로나19 확진자 1명 추가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4516466&ref=A"
     },
     {
-        "title": "동시다발로 터지는 코로나…“수도권 일촉즉발 상황”",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/13/2020081303440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "\"코로나19 동시다발 징후\"…사회적 거리두기 2단계 검토하나",
-        "link": "http://yna.kr/AKR20200813157800530?did=1195m"
+        "title": "일본 코로나19 확진자 나흘만에 1000명대로 늘어",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200814000024"
     }
 ];
