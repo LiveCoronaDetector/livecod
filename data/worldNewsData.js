@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: Nearly 1,500 coronavirus-related deaths mark deadliest day of summer",
-        "link": "https://www.washingtonpost.com/nation/2020/08/13/coronavirus-covid-live-updates-us/"
+        "link": "https://www.washingtonpost.com/nation/2020/08/11/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
     },
     {
-        "title": "'Hundreds dead' because of Covid-19 misinformation",
-        "link": "https://www.bbc.com/news/world-53755067"
-    },
-    {
-        "title": "Live Coronavirus News Updates",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+        "title": "India's COVID-19 tally rises to 2329639 | Over 56k patients cured in a day",
+        "link": "https://www.youtube.com/watch?v=PZ1wkob-3dk"
     },
     {
         "title": "Researchers Skeptical Of Russia's Claim To Have COVID-19 Vaccine | NBC News NOW",
         "link": "https://www.youtube.com/watch?v=l0G3myGSOek"
     },
     {
-        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
-        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
+        "title": "Live Coronavirus News Updates",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "'Hundreds dead' because of Covid-19 misinformation",
+        "link": "https://www.bbc.com/news/world-53755067"
     }
 ];
