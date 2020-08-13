@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/13/coronavirus-live-news-covid-19-may-have-been-in-new-zealand-city-for-weeks-russia-vaccine-due-in-fortnight"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
+        "title": "South Korea installs anti-virus bus shelters with temperature sensors and UV lamps",
+        "link": "https://www.theguardian.com/world/2020/aug/13/south-korea-installs-anti-virus-bus-shelters-with-temperature-sensors-and-uv-lamps"
     },
     {
-        "title": "Researchers Skeptical Of Russia's Claim To Have COVID-19 Vaccine | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=l0G3myGSOek"
+        "title": "India's COVID-19 tally rises to 2329639 | Over 56k patients cured in a day",
+        "link": "https://www.youtube.com/watch?v=PZ1wkob-3dk"
+    },
+    {
+        "title": "Coronavirus: Russia calls international concern over vaccine 'groundless'",
+        "link": "https://www.bbc.com/news/world-europe-53751017"
     },
     {
         "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "'Hundreds dead' because of Covid-19 misinformation",
         "link": "https://www.bbc.com/news/world-53755067"
-    },
-    {
-        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
-        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     }
 ];
