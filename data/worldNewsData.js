@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Live updates: Nearly 1,500 coronavirus-related deaths mark deadliest day of summer",
-        "link": "https://www.washingtonpost.com/nation/2020/08/11/coronavirus-covid-live-updates-us/"
+        "title": "Americans, go home: Tension at Canada-US border",
+        "link": "https://www.bbc.com/news/world-us-canada-53742684"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53751017"
     },
     {
-        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
-        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
+        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     }
 ];
