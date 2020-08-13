@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
     },
     {
-        "title": "Researchers Skeptical Of Russia's Claim To Have COVID-19 Vaccine | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=l0G3myGSOek"
+        "title": "Russia is moving too fast with COVID-19 vaccine, U.S. experts warn",
+        "link": "https://news.yahoo.com/russia-is-moving-too-fast-with-covid-vaccine-us-experts-warn-152735329.html"
     },
     {
         "title": "Coronavirus live news: India sees record daily case rise as global deaths near 750,000",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "South Korea installs anti-virus bus shelters with temperature sensors and UV lamps",
         "link": "https://www.theguardian.com/world/2020/aug/13/south-korea-installs-anti-virus-bus-shelters-with-temperature-sensors-and-uv-lamps"
-    },
-    {
-        "title": "August 12 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/h_a06d2091797f0fae271e64a3d19cbf82"
     },
     {
         "title": "India's COVID-19 tally rises to 2329639 | Over 56k patients cured in a day",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
+    },
+    {
+        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     }
 ];
