@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53751017"
     },
     {
-        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
+        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
         "title": "'Hundreds dead' because of Covid-19 misinformation",
