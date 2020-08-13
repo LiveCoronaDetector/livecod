@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "Coronavirus reappears over five months after woman recovered from virus",
-        "link": "https://www.scmp.com/news/china/society/article/3097121/coronavirus-reappears-chinese-woman-more-five-months-after-she"
+        "title": "South Korea installs anti-virus bus shelters with temperature sensors and UV lamps",
+        "link": "https://www.theguardian.com/world/2020/aug/13/south-korea-installs-anti-virus-bus-shelters-with-temperature-sensors-and-uv-lamps"
     },
     {
         "title": "Coronavirus live news: New Zealand confirms 13 new community cases; Russia vaccine due in fortnight",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53755067"
     },
     {
-        "title": "Coronavirus Live Updates",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "Coronavirus Updates: Schools In Texas May Not Reopen Until October, Europe Sees Disturbing New Wave Of Outbreaks",
         "link": "https://gothamist.com/news/coronavirus-updates-schools-texas-europe-sees-disturbing-new-wave-outbreaks"
+    },
+    {
+        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
+        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
     }
 ];
