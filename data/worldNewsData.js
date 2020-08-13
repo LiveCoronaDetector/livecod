@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/13/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
-        "link": "https://www.theguardian.com/world/2020/aug/10/coronavirus-in-europe-france-extends-mask-use-as-greece-says-it-is-in-second-wave"
+        "title": "First 3 Israelis treated with new passive vaccine recover, leave hospital",
+        "link": "https://www.jpost.com/health-science/first-3-israelis-treated-with-new-passive-vaccine-recover-leave-hospital-638431"
     },
     {
         "title": "Germany 'optimistic' about coronavirus vaccine soon",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/13/south-korea-installs-anti-virus-bus-shelters-with-temperature-sensors-and-uv-lamps"
     },
     {
-        "title": "India's COVID-19 tally rises to 2329639 | Over 56k patients cured in a day",
-        "link": "https://www.youtube.com/watch?v=PZ1wkob-3dk"
-    },
-    {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: Russia calls international concern over vaccine 'groundless'",
-        "link": "https://www.bbc.com/news/world-europe-53751017"
+        "title": "India's COVID-19 tally rises to 2329639 | Over 56k patients cured in a day",
+        "link": "https://www.youtube.com/watch?v=PZ1wkob-3dk"
     },
     {
         "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
+    },
+    {
+        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     }
 ];

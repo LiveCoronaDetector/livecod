@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5394552"
     },
     {
-        "title": "[속보] 코로나19 확진자 56명 추가...국내발생 47명·해외유입 9명",
-        "link": "https://www.sedaily.com/NewsView/1Z6KAX9H3F"
+        "title": "코로나19 신규 확진 56명…국내 지역 발생 47명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5872554_32633.html"
     },
     {
         "title": "[종합] 코로나19 확진자 56명 증가..서울 25명 중 롯데리아감염 11명",
         "link": "http://www.fnnews.com/news/202008131015146761"
     },
     {
-        "title": "코로나19 신규 확진 56명…국내 지역 발생 47명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5872554_32633.html"
-    },
-    {
         "title": "울산서 중학생 코로나 확진…5개 학교 등교 중지(종합)",
         "link": "http://yna.kr/AKR20200813048951057?did=1195m"
     },
     {
-        "title": "아베의 ‘망신’…“日 코로나 사망 적다” 자찬하더니 지도력 평가 꼴찌",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200813000192"
+        "title": "아베, 트럼프 제치고 '코로나19 지도력 평가' 꼴찌",
+        "link": "https://www.sedaily.com/NewsView/1Z6K9U8XSI"
     },
     {
         "title": "[단독]김포 확진자 7명 마스크 공장서 포장 작업…시민들 \"마스크 폐기해야\"",
         "link": "https://www.news1.kr/articles/?4025092"
+    },
+    {
+        "title": "[전문] 광진구청 은평구 용인시 확진자 관내 동선공개",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=375765"
     }
 ];
