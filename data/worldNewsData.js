@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "Coronavirus live updates: China says chicken imported from Brazil tests positive for virus; relief talks at a standstill",
-        "link": "https://www.cnbc.com/2020/08/12/coronavirus-live-updates.html"
+        "title": "China claims HHS Secretary Azar turned his back on Americans dying from coronavirus",
+        "link": "https://www.foxnews.com/world/china-claims-hhs-secretary-azar-turned-his-back-on-americans-dying-from-coronavirus"
+    },
+    {
+        "title": "Don't Go to the Dentist Just Yet, Warns the World Health Organization",
+        "link": "https://sfist.com/2020/08/12/dont-go-to-the-dentist-just-yet-warns-the-world-health-organization/"
     },
     {
         "title": "'Hundreds dead' because of Covid-19 misinformation",
         "link": "https://www.bbc.com/news/world-53755067"
     },
     {
-        "title": "August 12 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/h_a06d2091797f0fae271e64a3d19cbf82"
+        "title": "Live Coronavirus News Updates",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     },
     {
         "title": "Spain again faces worst COVID-19 infection rate in Western Europe | Daily Sabah",
         "link": "https://www.dailysabah.com/world/europe/spain-again-faces-worst-covid-19-infection-rate-in-western-europe"
-    },
-    {
-        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
-        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     }
 ];
