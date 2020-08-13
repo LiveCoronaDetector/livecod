@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=375584"
     },
     {
+        "title": "코로나19 탓에 ‘서울 도심 집회’ 없는 광복절 될 듯",
+        "link": "http://www.segye.com/content/html/2020/08/13/20200813511320.html?OutUrl=naver"
+    },
+    {
         "title": "광복절 황금연휴에 21만명 제주행…코로나 '비상'",
         "link": "https://www.hankyung.com/society/article/2020081332467"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "오늘 전국 소나기…러 \"코로나19 백신 세계 첫 등록\" [모닝브리핑]",
         "link": "https://www.hankyung.com/economy/article/2020081282807"
-    },
-    {
-        "title": "[속보]성남시청 197번 확진자 발생- 야탑3동 거주-용인 우리제일교회 관련 등...",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=53185"
     },
     {
         "title": "대구시 이루어내고 있다. 코로나19 40일동안 “대구 0명”",

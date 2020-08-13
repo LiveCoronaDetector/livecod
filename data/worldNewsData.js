@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Kamala Harris blames Trump for severity of U.S. coronavirus outbreak: He failed to take it 'seriously from the start'",
-        "link": "https://www.cnbc.com/2020/08/12/kamala-harris-blames-trump-for-severity-of-us-coronavirus-outbreak-he-failed-to-take-it-seriously-from-the-start.html"
+        "title": "Argentina, Mexico to produce AstraZeneca COVID-19 vaccine - Live",
+        "link": "https://www.aljazeera.com/news/2020/08/200813011636518.html"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53755067"
     },
     {
-        "title": "Live Coronavirus News: World Updates",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
+    },
+    {
+        "title": "Spain again faces worst COVID-19 infection rate in Western Europe | Daily Sabah",
+        "link": "https://www.dailysabah.com/world/europe/spain-again-faces-worst-covid-19-infection-rate-in-western-europe"
     }
 ];
