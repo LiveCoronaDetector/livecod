@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5394286"
     },
     {
-        "title": "코로나19 한참 확산 중인데 관심이 꺾이고 있다",
-        "link": "http://www.dongascience.com/news/view/39010"
-    },
-    {
         "title": "학교발 감염 확산, 코로나 2차 유행 ‘초긴장’",
         "link": "http://www.busan.com/view/busan/view.php?code=2020081321230087925"
+    },
+    {
+        "title": "코로나19 한참 확산 중인데 관심이 꺾이고 있다",
+        "link": "http://www.dongascience.com/news/view/39010"
     }
 ];
