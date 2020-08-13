@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6KB7OCG4"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 56명…서울·경기서만 41명",
-        "link": "http://www.hani.co.kr/arti/society/health/957619.html"
+        "title": "코로나19 확진자 56명 증가…지역발생 47명 급증세",
+        "link": "https://www.nocutnews.co.kr/news/5394286"
     },
     {
         "title": "국토부 직원 참석 회의서 코로나 확진자 나와",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_sn/0117_202008121427587983"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 54명···지역발생 35명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008121019001&code=940601"
-    },
-    {
         "title": "아베의 ‘망신’…“日 코로나 사망 적다” 자찬하더니 지도력 평가 꼴찌",
         "link": "http://news.heraldcorp.com/view.php?ud=20200813000192"
+    },
+    {
+        "title": "광복절 22만명 집회 신청…깜짝 놀란 복지부 \"코로나19 전파 위험\"",
+        "link": "https://www.news1.kr/articles/?4025260"
     }
 ];

@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Argentina, Mexico to produce AstraZeneca COVID-19 vaccine - Live",
+        "title": "Live | Argentina, Mexico to produce AstraZeneca COVID-19 vaccine",
         "link": "https://www.aljazeera.com/news/2020/08/200813011636518.html"
     },
     {
@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "Coronavirus live updates: China says chicken imported from Brazil tests positive for virus; relief talks at a standstill",
-        "link": "https://www.cnbc.com/2020/08/12/coronavirus-live-updates.html"
+        "title": "South Korea installs anti-virus bus shelters with temperature sensors and UV lamps",
+        "link": "https://www.theguardian.com/world/2020/aug/13/south-korea-installs-anti-virus-bus-shelters-with-temperature-sensors-and-uv-lamps"
+    },
+    {
+        "title": "Don't Go to the Dentist Just Yet, Warns the World Health Organization",
+        "link": "https://sfist.com/2020/08/12/dont-go-to-the-dentist-just-yet-warns-the-world-health-organization/"
     },
     {
         "title": "Coronavirus live news: New Zealand confirms 13 new community cases; Russia vaccine due in fortnight",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53755067"
     },
     {
-        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
-        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
-    },
-    {
-        "title": "Spain again faces worst COVID-19 infection rate in Western Europe | Daily Sabah",
-        "link": "https://www.dailysabah.com/world/europe/spain-again-faces-worst-covid-19-infection-rate-in-western-europe"
+        "title": "Researchers Skeptical Of Russia's Claim To Have COVID-19 Vaccine | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=l0G3myGSOek"
     }
 ];
