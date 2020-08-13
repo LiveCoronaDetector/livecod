@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020081332467"
     },
     {
+        "title": "[속보]성남시청 197번 확진자 발생- 야탑3동 거주-용인 우리제일교회 관련 등...",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=53185"
+    },
+    {
         "title": "'퐁당퐁당' 확산세…비수도권, 코로나19 다시 꿈틀",
         "link": "https://www.news1.kr/articles/?4023522"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "대구시 이루어내고 있다. 코로나19 40일동안 “대구 0명”",
         "link": "http://www.ajunews.com/view/20200812183322397"
-    },
-    {
-        "title": "제주도 24번 코로나 확진자 퇴원...\"무증상, 2회 연속 음성\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424338"
     }
 ];

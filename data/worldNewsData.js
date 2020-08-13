@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "Beer unsold during Australia's coronavirus lockdown has been turned into renewable energy",
-        "link": "https://www.cnn.com/2020/08/11/australia/coronavirus-australia-beer-energy-intl-hnk-scli/index.html"
+        "title": "Coronavirus reappears over five months after woman recovered from virus",
+        "link": "https://www.scmp.com/news/china/society/article/3097121/coronavirus-reappears-chinese-woman-more-five-months-after-she"
     },
     {
         "title": "Coronavirus live news: New Zealand confirms 13 new community cases; Russia vaccine due in fortnight",
         "link": "https://www.theguardian.com/world/live/2020/aug/13/coronavirus-live-news-covid-19-may-have-been-in-new-zealand-city-for-weeks-russia-vaccine-due-in-fortnight"
     },
     {
-        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
-        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html"
-    },
-    {
         "title": "'Hundreds dead' because of Covid-19 misinformation",
         "link": "https://www.bbc.com/news/world-53755067"
+    },
+    {
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "Coronavirus Updates: Schools In Texas May Not Reopen Until October, Europe Sees Disturbing New Wave Of Outbreaks",
+        "link": "https://gothamist.com/news/coronavirus-updates-schools-texas-europe-sees-disturbing-new-wave-outbreaks"
     }
 ];
