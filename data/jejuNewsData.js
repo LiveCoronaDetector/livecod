@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020081332467"
     },
     {
-        "title": "코로나19 모범 대응한 '한림읍' 찾은 최승현 행정부지사",
-        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=245542"
-    },
-    {
         "title": "코로나19 탓에 ‘서울 도심 집회’ 없는 광복절 될 듯",
         "link": "http://www.segye.com/content/html/2020/08/13/20200813511320.html?OutUrl=naver"
+    },
+    {
+        "title": "코로나19 모범 대응한 '한림읍' 찾은 최승현 행정부지사",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=245542"
     },
     {
         "title": "'퐁당퐁당' 확산세…비수도권, 코로나19 다시 꿈틀",
