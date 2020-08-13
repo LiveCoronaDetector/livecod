@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008132037448254"
     },
     {
+        "title": "동시다발로 터지는 코로나…“수도권 일촉즉발 상황”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/13/2020081303440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나19 확진자 56명 증가…지역발생 47명 급증세",
         "link": "https://www.nocutnews.co.kr/news/5394286"
     },
     {
         "title": "학교발 감염 확산, 코로나 2차 유행 ‘초긴장’",
         "link": "http://www.busan.com/view/busan/view.php?code=2020081321230087925"
-    },
-    {
-        "title": "코로나19 한참 확산 중인데 관심이 꺾이고 있다",
-        "link": "http://www.dongascience.com/news/view/39010"
     }
 ];
