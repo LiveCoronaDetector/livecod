@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/live/2020/aug/13/coronavirus-us-covid-19-donald-trump-joe-biden-kamala-harris-live-updates"
     },
     {
-        "title": "First 3 Israelis treated with new passive vaccine recover, leave hospital",
-        "link": "https://www.jpost.com/health-science/first-3-israelis-treated-with-new-passive-vaccine-recover-leave-hospital-638431"
+        "title": "Despite coronavirus, Greek FM green lights Israeli tourism",
+        "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
     },
     {
         "title": "Spanish region imposes smoking ban to curb virus spread - The Jakarta Post",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
+        "title": "'Hundreds dead' because of Covid-19 misinformation",
+        "link": "https://www.bbc.com/news/world-53755067"
+    },
+    {
         "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
-        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "Coronavirus: How will the world vaccinate seven billion?",
-        "link": "https://www.bbc.com/news/health-53741966"
+        "title": "Coronavirus in Europe: Infections surge in France, Germany and Spain",
+        "link": "https://www.bbc.com/news/world-europe-53747852"
     }
 ];

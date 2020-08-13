@@ -21,14 +21,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5872554_32633.html"
     },
     {
-        "title": "확진자 7명 나온 김포 업체서 마스크 포장…\"유통된 제품 없어\"",
-        "link": "http://yna.kr/AKR20200813098200065?did=1195m"
-    },
-    {
-        "title": "[전문] 중랑구청 45번째 확진자 발생...면목7동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=375769"
-    },
-    {
         "title": "서울 오늘 코로나 신규 확진자 22명…2달만에 이틀 연속 20명대",
         "link": "http://yna.kr/AKR20200813162900004?did=1195m"
     },
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "아베, 트럼프 제치고 '코로나19 지도력 평가' 꼴찌",
         "link": "https://www.sedaily.com/NewsView/1Z6K9U8XSI"
+    },
+    {
+        "title": "광복절 22만명 집회 신청…깜짝 놀란 복지부 \"코로나19 전파 위험\"",
+        "link": "https://www.news1.kr/articles/?4025260"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 56명 증가..서울 25명 중 롯데리아감염 11명",
+        "link": "http://www.fnnews.com/news/202008131015146761"
     }
 ];
