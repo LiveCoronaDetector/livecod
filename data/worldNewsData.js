@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/11/latest_news/1597127329_465621.html"
     },
     {
-        "title": "Biden campaign receives $26m boost in donations after Kamala Harris pick – live",
+        "title": "Ocasio-Cortez dares Trump to release college transcript after insulting her intelligence – live",
         "link": "https://www.theguardian.com/us-news/live/2020/aug/13/coronavirus-us-covid-19-donald-trump-joe-biden-kamala-harris-live-updates"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
     },
     {
-        "title": "Coronavirus: Spanish regions ban smoking over Covid-19 risk",
-        "link": "https://www.bbc.com/news/world-europe-53763267"
+        "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
+        "link": "https://www.cnn.com/2020/08/13/europe/coronavirus-europe-young-people-cases-spiking-intl/index.html"
     },
     {
         "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
-    },
-    {
         "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
     },
     {
         "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
