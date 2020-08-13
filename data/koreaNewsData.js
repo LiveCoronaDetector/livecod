@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5394286"
     },
     {
-        "title": "아베, 트럼프 제치고 '코로나19 지도력 평가' 꼴찌",
-        "link": "https://www.sedaily.com/NewsView/1Z6K9U8XSI"
+        "title": "코로나19 한참 확산 중인데 관심이 꺾이고 있다",
+        "link": "http://www.dongascience.com/news/view/39010"
     },
     {
-        "title": "광복절 22만명 집회 신청…깜짝 놀란 복지부 \"코로나19 전파 위험\"",
-        "link": "https://www.news1.kr/articles/?4025260"
+        "title": "학교발 감염 확산, 코로나 2차 유행 ‘초긴장’",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081321230087925"
     }
 ];

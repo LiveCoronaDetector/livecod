@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.thejakartapost.com/news/2020/08/13/spanish-region-imposes-smoking-ban-to-curb-virus-spread-.html"
     },
     {
-        "title": "Coronavirus live news: global death toll exceeds 750,000 as Europe struggles with rise in cases",
-        "link": "https://www.theguardian.com/world/live/2020/aug/13/coronavirus-live-news-covid-19-may-have-been-in-new-zealand-city-for-weeks-russia-vaccine-due-in-fortnight"
+        "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
+        "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
         "title": "China claims HHS Secretary Azar turned his back on Americans dying from coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
     },
     {
+        "title": "Coronavirus Live Updates: New Zealand Races to Trace Source of New Outbreak",
+        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid-19.html"
+    },
+    {
         "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
-        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "Coronavirus: How will the world vaccinate seven billion?",
-        "link": "https://www.bbc.com/news/health-53741966"
+        "title": "Spain again faces worst COVID-19 infection rate in Western Europe | Daily Sabah",
+        "link": "https://www.dailysabah.com/world/europe/spain-again-faces-worst-covid-19-infection-rate-in-western-europe"
     }
 ];
