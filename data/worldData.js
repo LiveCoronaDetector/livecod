@@ -401,20 +401,20 @@ var marker = [
         "완치자수": 39320
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 41069,
+        "사망자수": 1487,
+        "완치자수": 33288
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
         "확진자수": 40794,
         "사망자수": 806,
         "완치자수": 33492
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 40759,
-        "사망자수": 1484,
-        "완치자수": 32997
     },
     {
         "Name": "아프가니스탄",
@@ -460,8 +460,8 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 32654,
-        "사망자수": 211,
+        "확진자수": 32837,
+        "사망자수": 213,
         "완치자수": 25659
     },
     {
@@ -1385,6 +1385,14 @@ var marker = [
         "완치자수": 269
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 296,
+        "사망자수": 2,
+        "완치자수": 32
+    },
+    {
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
@@ -1423,14 +1431,6 @@ var marker = [
         "확진자수": 241,
         "사망자수": 2,
         "완치자수": 46
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 210,
-        "사망자수": 2,
-        "완치자수": 32
     },
     {
         "Name": "Cayman Islands",
