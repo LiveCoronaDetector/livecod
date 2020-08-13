@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "Trump: 'I view China differently' since coronavirus",
-        "link": "https://www.foxbusiness.com/markets/trump-china-post-coronavirus"
+        "title": "Coronavirus: Australia encouraged by drop in new Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-australia-53767793"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
-    },
-    {
-        "title": "Live updates: U.S. was ‘unprepared’ for ‘greatest public health crisis’ in a century, CDC director says",
-        "link": "https://www.washingtonpost.com/nation/2020/08/13/coronavirus-covid-live-updates-us/"
+        "title": "Trump pushes for schools to reopen as US sees deadliest Covid day since May",
+        "link": "https://www.theguardian.com/world/2020/aug/13/coronavirus-trump-schools-us-deaths-covid"
     },
     {
         "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
+    },
+    {
+        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     }
 ];

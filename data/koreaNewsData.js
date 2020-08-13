@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5872554_32633.html"
     },
     {
+        "title": "서울 오늘 코로나 신규 확진자 22명…2달만에 이틀 연속 20명대",
+        "link": "http://yna.kr/AKR20200813162900004?did=1195m"
+    },
+    {
+        "title": "[코로나19] 김포시 “확진자 업체 마스크 유통없다”",
+        "link": "http://www.fnnews.com/news/202008132037448254"
+    },
+    {
         "title": "코로나19 확진자 56명 증가…지역발생 47명 급증세",
         "link": "https://www.nocutnews.co.kr/news/5394286"
     },
     {
-        "title": "확진자 7명 나온 김포 업체서 마스크 포장…\"유통된 제품 없어\"",
-        "link": "http://yna.kr/AKR20200813098200065?did=1195m"
+        "title": "학교발 감염 확산, 코로나 2차 유행 ‘초긴장’",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081321230087925"
     },
     {
-        "title": "아베, 트럼프 제치고 '코로나19 지도력 평가' 꼴찌",
-        "link": "https://www.sedaily.com/NewsView/1Z6K9U8XSI"
-    },
-    {
-        "title": "광복절 22만명 집회 신청…깜짝 놀란 복지부 \"코로나19 전파 위험\"",
-        "link": "https://www.news1.kr/articles/?4025260"
-    },
-    {
-        "title": "동시다발로 터지는 코로나…“수도권 일촉즉발 상황”",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/13/2020081303440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 한참 확산 중인데 관심이 꺾이고 있다",
+        "link": "http://www.dongascience.com/news/view/39010"
     }
 ];
