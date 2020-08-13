@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "South Korea installs anti-virus bus shelters with temperature sensors and UV lamps",
-        "link": "https://www.theguardian.com/world/2020/aug/13/south-korea-installs-anti-virus-bus-shelters-with-temperature-sensors-and-uv-lamps"
+        "title": "Coronavirus live updates: China says chicken imported from Brazil tests positive for virus; relief talks at a standstill",
+        "link": "https://www.cnbc.com/2020/08/12/coronavirus-live-updates.html"
     },
     {
         "title": "Coronavirus live news: New Zealand confirms 13 new community cases; Russia vaccine due in fortnight",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53755067"
     },
     {
-        "title": "Coronavirus Updates: Schools In Texas May Not Reopen Until October, Europe Sees Disturbing New Wave Of Outbreaks",
-        "link": "https://gothamist.com/news/coronavirus-updates-schools-texas-europe-sees-disturbing-new-wave-outbreaks"
+        "title": "Live Coronavirus News: World Updates",
+        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
+        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
+        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     }
 ];
