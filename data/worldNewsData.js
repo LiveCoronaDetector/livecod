@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
     },
     {
-        "title": "Spanish region imposes smoking ban to curb virus spread - The Jakarta Post",
-        "link": "https://www.thejakartapost.com/news/2020/08/13/spanish-region-imposes-smoking-ban-to-curb-virus-spread-.html"
+        "title": "Coronavirus: Spanish regions ban smoking over Covid-19 risk",
+        "link": "https://www.bbc.com/news/world-europe-53763267"
     },
     {
         "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
     },
     {
-        "title": "Coronavirus Live Updates: New Zealand Races to Trace Source of New Outbreak",
-        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid-19.html"
+        "title": "Coronavirus update: Global cases top 20.6 million and U.S. suffers biggest one-day death toll since May",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
     },
     {
-        "title": "Coronavirus: How will the world vaccinate seven billion?",
-        "link": "https://www.bbc.com/news/health-53741966"
+        "title": "Coronavirus Live Updates: New Zealand Races to Trace Source of New Outbreak",
+        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid-19.html"
     }
 ];
