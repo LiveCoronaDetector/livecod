@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/957466.html"
     },
     {
+        "title": "용인 죽전고 코로나 확진자 가족·동급생 등 3명 추가 감염",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008130850001&code=940202"
+    },
+    {
+        "title": "[속보] 울산 천곡중 학생 코로나19 감염···3개 학교 등교 중지",
+        "link": "https://www.sedaily.com/NewsView/1Z6KA18A5D"
+    },
+    {
         "title": "코로나19 확진자 8월9일 CGV용산 다녀갔다 \"12일 임시휴업\"",
         "link": "http://www.fnnews.com/news/202008121419180087"
     },
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "논산훈련소 입대장병 코로나 확진…같은날 입대 800명 '음성'",
         "link": "https://news.joins.com/article/olink/23441863"
-    },
-    {
-        "title": "경남 창원에 사는 60대 여성 코로나19 확진…서울지역 방문",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081215433096633"
-    },
-    {
-        "title": "[종합] 서울 롯데리아 직원 모임서 10명 코로나19 확진",
-        "link": "https://www.hankyung.com/society/article/2020081210657"
     }
 ];

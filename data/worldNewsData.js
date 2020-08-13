@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/spain-again-grapples-europes-worst-155113562.html"
     },
     {
-        "title": "Bill Gates: Coronavirus pandemic will end 'for the rich world' by late 2021",
-        "link": "https://www.cnet.com/news/bill-gates-says-coronavirus-pandemic-will-be-over-for-rich-world-by-late-2021/"
+        "title": "Coronavirus live news: Covid-19 may have been in New Zealand city for 'weeks'; Russia vaccine due in fortnight",
+        "link": "https://www.theguardian.com/world/live/2020/aug/13/coronavirus-live-news-covid-19-may-have-been-in-new-zealand-city-for-weeks-russia-vaccine-due-in-fortnight"
     }
 ];
