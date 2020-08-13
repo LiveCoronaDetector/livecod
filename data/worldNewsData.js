@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Live | Argentina, Mexico to produce AstraZeneca COVID-19 vaccine",
-        "link": "https://www.aljazeera.com/news/2020/08/200813011636518.html"
+        "title": "Live updates: Nearly 1,500 coronavirus-related deaths mark deadliest day of summer",
+        "link": "https://www.washingtonpost.com/nation/2020/08/13/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus in Europe: France extends mask use as Greece says it is in second wave",
@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53747852"
     },
     {
-        "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
-        "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
+        "title": "Coronavirus live news: India sees record daily case rise as global deaths near 750,000",
+        "link": "https://www.theguardian.com/world/live/2020/aug/13/coronavirus-live-news-covid-19-may-have-been-in-new-zealand-city-for-weeks-russia-vaccine-due-in-fortnight"
     },
     {
-        "title": "China claims HHS Secretary Azar turned his back on Americans dying from coronavirus",
-        "link": "https://www.foxnews.com/world/china-claims-hhs-secretary-azar-turned-his-back-on-americans-dying-from-coronavirus"
-    },
-    {
-        "title": "Don't Go to the Dentist Just Yet, Warns the World Health Organization",
-        "link": "https://sfist.com/2020/08/12/dont-go-to-the-dentist-just-yet-warns-the-world-health-organization/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
     },
     {
         "title": "'Hundreds dead' because of Covid-19 misinformation",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Spain again faces worst COVID-19 infection rate in Western Europe | Daily Sabah",
-        "link": "https://www.dailysabah.com/world/europe/spain-again-faces-worst-covid-19-infection-rate-in-western-europe"
+        "title": "Researchers Skeptical Of Russia's Claim To Have COVID-19 Vaccine | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=l0G3myGSOek"
+    },
+    {
+        "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
+        "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     }
 ];

@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081200143"
     },
     {
+        "title": "국토부 직원 참석 회의서 코로나 확진자 나와",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/13/2020081301864.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 코로나19 확진자 56명 추가...국내발생 47명·해외유입 9명",
+        "link": "https://www.sedaily.com/NewsView/1Z6KAX9H3F"
+    },
+    {
         "title": "[종합] 코로나19 확진자 56명 증가..서울 25명 중 롯데리아감염 11명",
         "link": "http://www.fnnews.com/news/202008131015146761"
     },
     {
-        "title": "[종합] 코로나19 신규 확진 56명...41일만에 최다",
-        "link": "https://www.sedaily.com/NewsView/1Z6KB7OCG4"
-    },
-    {
-        "title": "코로나19 신규 확진자 54명...서울·경기서만 32명",
-        "link": "http://www.hani.co.kr/arti/society/health/957466.html"
+        "title": "[속보] 코로나19 신규 확진자 56명···지역발생 47명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008131014001&code=940601"
     },
     {
         "title": "코로나19 신규 확진 56명…국내 지역 발생 47명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5872554_32633.html"
     },
     {
-        "title": "울산서 중학생 코로나 확진…5개 학교 등교 중지(종합)",
-        "link": "http://yna.kr/AKR20200813048951057?did=1195m"
-    },
-    {
         "title": "아베의 ‘망신’…“日 코로나 사망 적다” 자찬하더니 지도력 평가 꼴찌",
         "link": "http://news.heraldcorp.com/view.php?ud=20200813000192"
     },
     {
-        "title": "세상을 둘로 나눌 코로나 ‘면역여권’ 논란",
-        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002620100011&ctcd=C07"
+        "title": "울산서 중학생 코로나 확진…5개 학교 등교 중지(종합)",
+        "link": "http://yna.kr/AKR20200813048951057?did=1195m"
     }
 ];
