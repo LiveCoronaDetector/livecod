@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/first-3-israelis-treated-with-new-passive-vaccine-recover-leave-hospital-638431"
     },
     {
-        "title": "Germany 'optimistic' about coronavirus vaccine soon",
-        "link": "https://www.dw.com/en/germany-optimistic-about-coronavirus-vaccine-soon/a-54548844"
+        "title": "Coronavirus: Spain's Galicia region bans smoking over Covid-19 risk",
+        "link": "https://www.bbc.com/news/world-europe-53763267"
     },
     {
-        "title": "Coronavirus live news: India sees record daily case rise as global deaths near 750,000",
-        "link": "https://www.theguardian.com/world/live/2020/aug/13/coronavirus-live-news-covid-19-may-have-been-in-new-zealand-city-for-weeks-russia-vaccine-due-in-fortnight"
+        "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
+        "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "South Korea installs anti-virus bus shelters with temperature sensors and UV lamps",
-        "link": "https://www.theguardian.com/world/2020/aug/13/south-korea-installs-anti-virus-bus-shelters-with-temperature-sensors-and-uv-lamps"
+        "title": "China claims HHS Secretary Azar turned his back on Americans dying from coronavirus",
+        "link": "https://www.foxnews.com/world/china-claims-hhs-secretary-azar-turned-his-back-on-americans-dying-from-coronavirus"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "India's COVID-19 tally rises to 2329639 | Over 56k patients cured in a day",
-        "link": "https://www.youtube.com/watch?v=PZ1wkob-3dk"
+        "title": "'Hundreds dead' because of Covid-19 misinformation",
+        "link": "https://www.bbc.com/news/world-53755067"
     },
     {
         "title": "Alex Berenson says worldwide COVID outbreak has so far only been 'slightly worse than a bad flu year'",
         "link": "https://www.foxnews.com/media/alex-berenson-worldwide-coronavirus-bad-flu-year"
     },
     {
-        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+        "title": "Coronavirus: How will the world vaccinate seven billion?",
+        "link": "https://www.bbc.com/news/health-53741966"
     }
 ];

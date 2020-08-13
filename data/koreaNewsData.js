@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008131014001&code=940601"
     },
     {
-        "title": "코로나19 신규 확진자 54명...서울·경기서만 32명",
-        "link": "http://www.hani.co.kr/arti/society/health/957466.html"
-    },
-    {
         "title": "코로나19 신규 확진자 56명…서울·경기서만 41명",
         "link": "http://www.hani.co.kr/arti/society/health/957619.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 54명...서울·경기서만 32명",
+        "link": "http://www.hani.co.kr/arti/society/health/957466.html"
     },
     {
         "title": "속초서 60대 남성 코로나 감염…서울 중구 확진자와 친척",
@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5872554_32633.html"
     },
     {
-        "title": "[종합] 코로나19 확진자 56명 증가..서울 25명 중 롯데리아감염 11명",
-        "link": "http://www.fnnews.com/news/202008131015146761"
+        "title": "[속보] 코로나19 확진자 56명 추가...국내발생 47명·해외유입 9명",
+        "link": "https://www.sedaily.com/NewsView/1Z6KAX9H3F"
+    },
+    {
+        "title": "서울 오늘 코로나 신규 확진자 22명…2달만에 이틀 연속 20명대",
+        "link": "http://yna.kr/AKR20200813162900004?did=1195m"
     },
     {
         "title": "울산서 중학생 코로나 확진…5개 학교 등교 중지(종합)",
         "link": "http://yna.kr/AKR20200813048951057?did=1195m"
     },
     {
-        "title": "아베, 트럼프 제치고 '코로나19 지도력 평가' 꼴찌",
-        "link": "https://www.sedaily.com/NewsView/1Z6K9U8XSI"
+        "title": "[종합] 코로나19 확진자 56명 증가..서울 25명 중 롯데리아감염 11명",
+        "link": "http://www.fnnews.com/news/202008131015146761"
     },
     {
         "title": "[단독]김포 확진자 7명 마스크 공장서 포장 작업…시민들 \"마스크 폐기해야\"",
         "link": "https://www.news1.kr/articles/?4025092"
-    },
-    {
-        "title": "[전문] 광진구청 은평구 용인시 확진자 관내 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=375765"
     }
 ];
