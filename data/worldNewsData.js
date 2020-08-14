@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "France to be added to UK quarantine countries",
-        "link": "https://www.bbc.com/news/uk-politics-53773914"
+        "title": "NZ extends Auckland COVID lockdown for another 12 days",
+        "link": "https://www.youtube.com/watch?v=PS6FegLzoio"
     },
     {
         "title": "North Korea, Fighting to Hold Back Virus and Floods, Says No Thanks to Outside Aid",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "Experts warn Spain is losing the 2nd round in virus fight",
+        "link": "https://indianexpress.com/article/world/experts-warn-spain-is-losing-the-2nd-round-in-virus-fight-6553161/"
     },
     {
-        "title": "Two months after taming infections with lockdown, Spain faces new Covid-19 surge",
-        "link": "https://www.france24.com/en/20200813-two-months-after-taming-infections-with-lockdown-spain-faces-new-covid-19-surge"
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
