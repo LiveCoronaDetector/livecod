@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "Trump Adds Coronavirus Adviser Whose Views Closely Align With His Own",
-        "link": "https://www.wsj.com/articles/trump-adds-coronavirus-adviser-whose-views-closely-align-with-his-own-11597350585"
+        "title": "Coronavirus Live Updates: C.D.C. Guidance Shows Three-Month Window of Safety After Recovery",
+        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
         "title": "U.K. Imposes 14-Day Quarantine on Travelers From France and Netherlands",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.post-gazette.com/news/world/2020/08/13/COVID-19-coronavirus-Spain-second-wave-Madrid-Barcelona-Zaragoza-Aragon-hospitalizations-deaths/stories/202008130199"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "WHO says there's 'no evidence' the coronavirus is being transmitted by food",
+        "link": "https://www.cnbc.com/2020/08/13/who-says-theres-no-evidence-the-coronavirus-is-being-transmitted-by-food.html"
     }
 ];
