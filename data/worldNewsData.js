@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Any attempt to get coronavirus herd immunity would lead to massive death tolls, Fauci warns",
-        "link": "https://www.cnn.com/2020/08/14/health/us-coronavirus-friday/index.html"
+        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
+        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Coronavirus digest: Germany issues fresh warning over travel to Spain",
-        "link": "https://www.dw.com/en/coronavirus-digest-germany-issues-fresh-warning-over-travel-to-spain/a-54562496"
+        "title": "Coronavirus: France to be added to UK quarantine countries",
+        "link": "https://www.bbc.com/news/uk-politics-53773914"
     },
     {
         "title": "LIVE: New coronavirus cases in France top 2,500 for third day",
@@ -25,11 +25,11 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "Trump Adds Coronavirus Adviser Whose Views Closely Align With His Own",
-        "link": "https://www.wsj.com/articles/trump-adds-coronavirus-adviser-whose-views-closely-align-with-his-own-11597350585"
+        "title": "Dr. Scott Atlas responds to CNN anchor after Trump taps him as new coronavirus adviser",
+        "link": "https://www.foxnews.com/media/scott-atlas-brianna-keilar-cnn-coronavirus-adviser"
     },
     {
-        "title": "Coronavirus Live Updates: Firm Overseeing Federal Database Refuses Senators’ Questions",
+        "title": "Coronavirus Live Updates: Firm Helping Run Federal Database Refuses Senators’ Questions",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "California Becomes First State to Report 600,000 Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
+        "title": "Should You Worry About COVID-19 on Food? WHO Says No.",
+        "link": "https://www.eater.com/2020/8/14/21368928/can-i-get-coronavirus-from-food-world-health-organization-covid-19-transmission"
     }
 ];

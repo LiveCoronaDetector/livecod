@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008141723299631"
     },
     {
-        "title": "판교에 코로나19 확진자 발생..네이버·카카오, 재택 재돌입",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086625867320"
-    },
-    {
         "title": "해외유입 외국인 확진자, 격리 명령 위반하면 치료비 전액 내야",
         "link": "https://imnews.imbc.com/news/2020/society/article/5874147_32633.html"
     },
     {
-        "title": "롯데리아, 코로나 확진자 발생 매장 8곳 영업 재개",
-        "link": "https://www.hankyung.com/life/article/202008148758g"
+        "title": "코로나19 신규 확진자 100명대로 급증…103명 중 국내 감염 85명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4517171&ref=A"
     },
     {
-        "title": "서울 코로나19 신규 확진자 32명··· 사랑제일교회 시설폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z6KRKG4W1"
+        "title": "용인 우리제일교회 11명 코로나19 추가 확진",
+        "link": "http://www.segye.com/content/html/2020/08/14/20200814507222.html?OutUrl=naver"
+    },
+    {
+        "title": "롯데리아, 코로나 확진자 발생 매장 8곳 영업 재개",
+        "link": "https://www.hankyung.com/life/article/202008148758g"
     }
 ];

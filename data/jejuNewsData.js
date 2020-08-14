@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5394961"
     },
     {
+        "title": "황금연휴 코로나19 비상…부산 70만 명-제주 20만 명 몰린다",
+        "link": "http://www.kukinews.com/newsView/kuk202008150005"
+    },
+    {
         "title": "[전문] 용인시청 134번째 확진자 동선공개... 보정동 소재 우리제일교회 전수...",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=375584"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'퐁당퐁당' 확산세…비수도권, 코로나19 다시 꿈틀",
         "link": "https://www.news1.kr/articles/?4023522"
-    },
-    {
-        "title": "광복절 연휴, 본격적 휴가시즌 맞아 코로나 지역감염 비상",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=598167"
     }
 ];
