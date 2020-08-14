@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202008148758g"
     },
     {
-        "title": "코로나 확진 103명…지역 85명, 3월말 이후 최대(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081401267.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 정은경 \"수도권 코로나19 대규모 집단유행 가능\"",
+        "link": "https://www.hankyung.com/society/article/2020081492107"
+    },
+    {
+        "title": "비씨카드 서울 을지로 본사서 코로나 확진자 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081402974.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "용인 우리제일교회 11명 코로나19 추가 확진",
         "link": "http://www.segye.com/content/html/2020/08/14/20200814507222.html?OutUrl=naver"
     },
     {
-        "title": "서울 코로나 확진자 32명 증가…5개월여만에 최대",
-        "link": "http://www.fnnews.com/news/202008141048192510"
+        "title": "코로나 확진 103명…지역 85명, 3월말 이후 최대(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081401267.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[속보]코로나19 신규확진자 100명대로 급증…'깜깜이' 환자도 다시 증가",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081300152"
-    },
-    {
-        "title": "비씨카드 본사서 코로나19 확진자 나와…건물 폐쇄",
-        "link": "http://news.tf.co.kr/read/economy/1807107.htm"
     },
     {
         "title": "정부 \"코로나19 현상황 엄중…거리두기 2단계 상향 검토 착수\"(종합)",

@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "Peru, Mexico surpass 500000 COVID-19 cases | Peru's death rate highest in Latin America",
-        "link": "https://www.youtube.com/watch?v=mBmmLkYeQ2E"
+        "title": "UK adds France, Netherlands to travel quarantine list",
+        "link": "https://news.yahoo.com/uk-adds-france-netherlands-travel-233220420.html"
     },
     {
-        "title": "Frozen food unlikely to transmit coronavirus, but in New Zealand may have - Business Insider",
-        "link": "https://www.businessinsider.com/frozen-food-unlikely-to-transmit-coronavirus-like-in-new-zealand-2020-8"
+        "title": "North Korea, Fighting to Hold Back Virus and Floods, Says No Thanks to Outside Aid",
+        "link": "https://www.nytimes.com/2020/08/14/world/asia/north-korea-floods-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Experts warn Spain is losing the 2nd round in virus fight",
-        "link": "https://indianexpress.com/article/world/experts-warn-spain-is-losing-the-2nd-round-in-virus-fight-6553161/"
+        "title": "Two months after taming infections with lockdown, Spain faces new Covid-19 surge",
+        "link": "https://www.france24.com/en/20200813-two-months-after-taming-infections-with-lockdown-spain-faces-new-covid-19-surge"
     },
     {
         "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
