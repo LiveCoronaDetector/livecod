@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424910"
     },
     {
+        "title": "제주 25번째 확진자, 입원 28일 만에 코로나19 완치",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4517717&ref=A"
+    },
+    {
         "title": "[장애공감 제주사회]코로나19에 더 위험한 신장장애인",
         "link": "https://www.nocutnews.co.kr/news/5394961"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "광복절 연휴, 본격적 휴가시즌 맞아 코로나 지역감염 비상",
         "link": "https://www.kgnews.co.kr/news/article.html?no=598167"
-    },
-    {
-        "title": "경기침체 관광업계 추가지원⋯포스트코로나 언택트⋅온택트",
-        "link": "http://www.newskr.kr/news/articleView.html?idxno=47910"
     }
 ];
