@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Coronavirus live news: France says UK quarantine will lead to reciprocal measures as global deaths pass 750,000",
+        "title": "Coronavirus live news: France says UK quarantine will lead to reciprocal measures as New Zealand outbreak widens",
         "link": "https://www.theguardian.com/world/live/2020/aug/14/coronavirus-live-news-france-says-uk-quarantine-will-lead-to-reciprocal-measures-as-global-deaths-pass-750000"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "Coronavirus latest news: 'Unwelcome news' for Britons in France as thousands attempt to avoid quarantine",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-covid-uk-lockdown-update-easing-beauty-salon/"
     },
     {
-        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Trump pushes for schools to reopen as US sees deadliest Covid day since May",
         "link": "https://www.theguardian.com/world/2020/aug/13/coronavirus-trump-schools-us-deaths-covid"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
     }
 ];
