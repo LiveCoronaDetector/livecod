@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
-        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
+        "title": "Any attempt to get coronavirus herd immunity would lead to massive death tolls, Fauci warns",
+        "link": "https://www.cnn.com/2020/08/14/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "UK COVID-19 Update: Deaths Revised, New NHSX App",
-        "link": "https://www.medscape.com/viewarticle/935649"
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/14/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
         "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
+        "title": "‘The best stimulus’: WHO urges countries to gamble on shared vaccine search",
+        "link": "https://www.scmp.com/news/world/europe/article/3097310/who-urges-countries-gamble-shared-coronavirus-vaccine-search"
     }
 ];

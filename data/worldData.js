@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5418071,
-        "사망자수": 170446,
-        "완치자수": 2844262
+        "확진자수": 5420316,
+        "사망자수": 170468,
+        "완치자수": 2844440
     },
     {
         "Name": "브라질",
@@ -342,7 +342,7 @@ var marker = [
         "Name_en": "Singapore",
         "확진자수": 55580,
         "사망자수": 27,
-        "완치자수": 50736
+        "완치자수": 51049
     },
     {
         "Name": "폴란드",
@@ -745,20 +745,20 @@ var marker = [
         "완치자수": 6414
     },
     {
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "확진자수": 7117,
+        "사망자수": 219,
+        "완치자수": 3695
+    },
+    {
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
         "확진자수": 7050,
         "사망자수": 135,
         "완치자수": 816
-    },
-    {
-        "Name": "Albania",
-        "Name_ch": "",
-        "Name_en": "Albania",
-        "확진자수": 6971,
-        "사망자수": 213,
-        "완치자수": 3616
     },
     {
         "Name": "Mauritania",
@@ -1305,20 +1305,20 @@ var marker = [
         "완치자수": 450
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 412,
+        "사망자수": 8,
+        "완치자수": 139
+    },
+    {
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
         "확진자수": 410,
         "사망자수": 1,
         "완치자수": 315
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 404,
-        "사망자수": 8,
-        "완치자수": 139
     },
     {
         "Name": "Comoros",
