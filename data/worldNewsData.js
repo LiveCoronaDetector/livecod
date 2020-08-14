@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Any attempt to get coronavirus herd immunity would lead to massive death tolls, Fauci warns",
-        "link": "https://www.cnn.com/2020/08/14/health/us-coronavirus-friday/index.html"
+        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
+        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Coronavirus: France to be added to UK quarantine countries",
-        "link": "https://www.bbc.com/news/uk-politics-53773914"
+        "title": "Surge in Covid-19 cases across Europe linked to young people",
+        "link": "https://www.theguardian.com/world/2020/aug/13/global-report-covid-19-spikes-across-europe-linked-to-young-people"
     },
     {
         "title": "UK removes France from its list of 'safe' destinations",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "Dr. Scott Atlas responds to CNN anchor after Trump taps him as new coronavirus adviser",
-        "link": "https://www.foxnews.com/media/scott-atlas-brianna-keilar-cnn-coronavirus-adviser"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
     },
     {
         "title": "What should I do if I have a holiday booked to France? Q&A",
