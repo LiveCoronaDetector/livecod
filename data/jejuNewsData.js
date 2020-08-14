@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5394961"
     },
     {
-        "title": "제주 코로나 25번 확진자 퇴원...3명 남아",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318989"
-    },
-    {
         "title": "[전문] 용인시청 134번째 확진자 동선공개... 보정동 소재 우리제일교회 전수...",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=375584"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "광복절 연휴, 본격적 휴가시즌 맞아 코로나 지역감염 비상",
         "link": "https://www.kgnews.co.kr/news/article.html?no=598167"
+    },
+    {
+        "title": "경기침체 관광업계 추가지원⋯포스트코로나 언택트⋅온택트",
+        "link": "http://www.newskr.kr/news/articleView.html?idxno=47910"
     }
 ];
