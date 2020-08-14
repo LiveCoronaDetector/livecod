@@ -17,15 +17,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "UK adds France, Netherlands to travel quarantine list",
-        "link": "https://news.yahoo.com/uk-adds-france-netherlands-travel-233220420.html"
+        "title": "France to be added to UK quarantine countries",
+        "link": "https://www.bbc.com/news/uk-politics-53773914"
     },
     {
         "title": "North Korea, Fighting to Hold Back Virus and Floods, Says No Thanks to Outside Aid",
         "link": "https://www.nytimes.com/2020/08/14/world/asia/north-korea-floods-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest news from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
     },
     {
