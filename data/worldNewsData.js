@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
-        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
+        "title": "Live updates: Senate adjourns until September without reaching deal on coronavirus relief aid",
+        "link": "https://www.washingtonpost.com/nation/2020/08/14/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "Coronavirus: France to be added to UK quarantine countries",
-        "link": "https://www.bbc.com/news/uk-politics-53773914"
+        "title": "Peru, Mexico surpass 500000 COVID-19 cases | Peru's death rate highest in Latin America",
+        "link": "https://www.youtube.com/watch?v=mBmmLkYeQ2E"
     },
     {
-        "title": "Coronavirus: Australia encouraged by drop in new Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-australia-53767793"
+        "title": "Frozen food unlikely to transmit coronavirus, but in New Zealand may have - Business Insider",
+        "link": "https://www.businessinsider.com/frozen-food-unlikely-to-transmit-coronavirus-like-in-new-zealand-2020-8"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
