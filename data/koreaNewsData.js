@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200814153950"
     },
     {
-        "title": "[속보] \"오늘 코로나19 확진 58명\" 서울 역대 최다",
-        "link": "https://hankookilbo.com/News/Read/A2020081418290000768?did=NA"
+        "title": "서울 코로나19 확진자 58명 발생…'역대 최다'",
+        "link": "https://www.nocutnews.co.kr/news/5395370"
     },
     {
         "title": "코로나19 신규 확진자 100명대로 급증…103명 중 국내 감염 85명",

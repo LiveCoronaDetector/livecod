@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
-        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
+        "title": "Any attempt to get coronavirus herd immunity would lead to massive death tolls, Fauci warns",
+        "link": "https://www.cnn.com/2020/08/14/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "New quarantine on travellers from France announced by UK - BBC News",
-        "link": "https://www.youtube.com/watch?v=FhjcP6Juji8"
+        "title": "U.K. Imposes 14-Day Quarantine on Travelers From France and Netherlands",
+        "link": "https://www.youtube.com/watch?v=vr4SXgwXXpc"
     },
     {
         "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "Five Points On Scott Atlas, Trump's Favorite New COVID Source",
-        "link": "https://talkingpointsmemo.com/fivepoints/five-points-on-scott-atlas-trumps-favorite-new-covid-source"
+        "title": "Trump Adds Coronavirus Adviser Whose Views Closely Align With His Own",
+        "link": "https://www.wsj.com/articles/trump-adds-coronavirus-adviser-whose-views-closely-align-with-his-own-11597350585"
     },
     {
-        "title": "UK removes France from its list of 'safe' destinations",
-        "link": "https://www.cnn.com/travel/article/uk-removes-france-from-safe-destinations-list/index.html"
+        "title": "What should I do if I have a holiday booked to France? Q&A",
+        "link": "https://www.theguardian.com/travel/2020/aug/13/what-should-i-do-if-i-have-a-holiday-booked-to-france-qa"
     },
     {
         "title": "Paris Declared 'Red Zone' as Second COVID Wave Hits Spain and France",
