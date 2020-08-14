@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Americans, go home: Tension at Canada-US border",
-        "link": "https://www.bbc.com/news/world-us-canada-53742684"
+        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
+        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
     },
     {
-        "title": "China to Supply Coronavirus Vaccine to Pakistan",
-        "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
+        "title": "Coronavirus update: Israeli gov’t votes to open the skies",
+        "link": "https://www.jpost.com/breaking-news/greek-foreign-minister-touches-down-welcomed-by-ashkenazi-638447"
     },
     {
         "title": "Surge in Covid-19 cases across Europe linked to young people",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "Trump: 'I view China differently' since coronavirus",
-        "link": "https://www.foxbusiness.com/markets/trump-china-post-coronavirus"
+        "title": "Coronavirus: Australia encouraged by drop in new Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-australia-53767793"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/13/coronavirus-trump-schools-us-deaths-covid"
     },
     {
-        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     },
     {
-        "title": "U.S. Coronavirus Death Toll Reflects Sun Belt Outbreaks",
-        "link": "https://www.nytimes.com/2020/08/12/world/coronavirus-covid-19.html"
+        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
     }
 ];
