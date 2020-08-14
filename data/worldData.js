@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5411473,
-        "사망자수": 170271,
-        "완치자수": 2832846
+        "확진자수": 5413928,
+        "사망자수": 170352,
+        "완치자수": 2832916
     },
     {
         "Name": "브라질",
@@ -113,20 +113,20 @@ var marker = [
         "완치자수": 264060
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "확진자수": 276072,
+        "사망자수": 5362,
+        "완치자수": 192434
+    },
+    {
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
         "확진자수": 269115,
         "사망자수": 3557,
         "완치자수": 154871
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "확진자수": 268574,
-        "사망자수": 5246,
-        "완치자수": 192434
     },
     {
         "Name": "이탈리아",
@@ -188,9 +188,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 121028,
-        "사망자수": 9012,
-        "완치자수": 107419
+        "확진자수": 121234,
+        "사망자수": 9015,
+        "완치자수": 107553
     },
     {
         "Name": "카타르",
@@ -1244,9 +1244,9 @@ var marker = [
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "확진자수": 882,
+        "확진자수": 883,
         "사망자수": 15,
-        "완치자수": 807
+        "완치자수": 808
     },
     {
         "Name": "Réunion",
@@ -1393,14 +1393,6 @@ var marker = [
         "완치자수": 32
     },
     {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 287,
-        "사망자수": 3,
-        "완치자수": 78
-    },
-    {
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
@@ -1415,6 +1407,14 @@ var marker = [
         "확진자수": 272,
         "사망자수": 0,
         "완치자수": 223
+    },
+    {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 271,
+        "사망자수": 3,
+        "완치자수": 78
     },
     {
         "Name": "Sint Maarten",

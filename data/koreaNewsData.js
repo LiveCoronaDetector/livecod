@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008131014001&code=940601"
     },
     {
+        "title": "[속보]속초에서 60대 남성 코로나19 확진…서울 중구 24번, 25번 확진자와 친...",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081200143"
+    },
+    {
+        "title": "코로나19 확진자 56명 증가…지역발생 47명 급증세",
+        "link": "https://www.nocutnews.co.kr/news/5394286"
+    },
+    {
         "title": "코로나19 신규 확진자 56명…서울·경기서만 41명",
         "link": "http://www.hani.co.kr/arti/society/health/957619.html"
     },
     {
-        "title": "코로나19 신규 확진자 54명…지역발생 35명 해외유입 19명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081100143"
+        "title": "코로나19 신규 확진자 54명...서울·경기서만 32명",
+        "link": "http://www.hani.co.kr/arti/society/health/957466.html"
     },
     {
         "title": "동시다발로 터지는 코로나…“수도권 일촉즉발 상황”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/13/2020081303440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]속초에서 60대 남성 코로나19 확진…서울 중구 24번, 25번 확진자와 친...",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081200143"
+        "title": "교육부, 2학기 등교방식 재협의…코로나19 확산 우려",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000992931?division=NAVER"
     },
     {
-        "title": "코로나19 신규 확진 56명…국내 지역 발생 47명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5872554_32633.html"
+        "title": "코로나로 한 달에 444조원 경제적 손실...2년 누적 1경 4214억원",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=404084&class=42&grp="
     },
     {
-        "title": "서울 오늘 코로나 신규 확진자 22명…2달만에 이틀 연속 20명대",
-        "link": "http://yna.kr/AKR20200813162900004?did=1195m"
-    },
-    {
-        "title": "속초서 코로나19 확진자 1명 추가",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4516466&ref=A"
-    },
-    {
-        "title": "일본 코로나19 확진자 나흘만에 1000명대로 늘어",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200814000024"
+        "title": "\"코로나19 동시다발 징후\"…사회적 거리두기 2단계 검토하나",
+        "link": "http://yna.kr/AKR20200813157800530?did=1195m"
     }
 ];
