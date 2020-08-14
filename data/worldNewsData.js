@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "Dr. Scott Atlas responds to CNN anchor after Trump taps him as new coronavirus adviser",
-        "link": "https://www.foxnews.com/media/scott-atlas-brianna-keilar-cnn-coronavirus-adviser"
-    },
-    {
         "title": "Coronavirus Live Updates: Firm Helping Run Federal Database Refuses Senators’ Questions",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "California Becomes First State to Report 600,000 Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
+        "title": "Covid-19 new travelling rules: Travellers from Croatia, Greece, Malta, Spain arriving in Italy to be...",
+        "link": "https://www.hindustantimes.com/travel/covid-19-travellers-from-croatia-greece-malta-spain-arriving-in-italy-to-be-tested-for-coronavirus/story-nFFm7pgVvgr4G2N7aNNctI.html"
+    },
+    {
+        "title": "Coronavirus in Europe: Infections surge in France, Germany and Spain",
+        "link": "https://www.bbc.com/news/world-europe-53747852"
     }
 ];
