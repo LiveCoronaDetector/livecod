@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "Coronavirus latest news: 'Unwelcome news' for Britons in France as thousands attempt to avoid quarantine",
-        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-covid-uk-lockdown-update-easing-beauty-salon/"
-    },
-    {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/13/coronavirus-trump-schools-us-deaths-covid"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-13-20-intl/index.html"
+        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
+    },
+    {
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     }
 ];

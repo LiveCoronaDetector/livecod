@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4517171&ref=A"
     },
     {
-        "title": "교회 들렸다가...軍에서도 코로나 확진자 2명 추가 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081401433.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 확진 103명…지역 85명, 3월말 이후 최대(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081401267.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 코로나19 확진자 32명 발생… 5개월 만에 최대",
-        "link": "http://www.segye.com/content/html/2020/08/14/20200814508877.html?OutUrl=naver"
+        "title": "군에서도 확진자 2명 추가… 교회 다녀왔다 감염",
+        "link": "http://www.segye.com/content/html/2020/08/14/20200814508644.html?OutUrl=naver"
+    },
+    {
+        "title": "서울 코로나19 신규 확진자 32명··· 사랑제일교회 시설폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z6KRKG4W1"
     },
     {
         "title": "[속보]코로나19 신규확진자 100명대로 급증…'깜깜이' 환자도 다시 증가",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200814012900009?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 103명···지역발생 85명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008141017001&code=940601"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 103명...지역 발생 85명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008141024278843"
-    },
-    {
         "title": "용인 우리제일교회 12명 코로나 추가 확진... 25명으로 늘어",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/14/2020081401083.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나19 신규확진 103명 급증… 지역발생 85명",
         "link": "https://www.donga.com/news/article/all/20200814/102449279/1"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 103명···지역발생 85명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008141017001&code=940601"
     }
 ];
