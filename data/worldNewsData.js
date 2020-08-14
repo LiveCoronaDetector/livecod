@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "New Zealand baffled by new COVID-19 cases, eyes frozen-food packaging",
+        "link": "https://arstechnica.com/science/2020/08/new-zealand-baffled-by-new-covid-19-cases-eyes-frozen-food-packaging/"
     },
     {
         "title": "Trump pushes for schools to reopen as US sees deadliest Covid day since May",
