@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
     },
     {
-        "title": "Coronavirus, Israel, Animal Tears: Your Thursday Evening Briefing",
-        "link": "https://www.nytimes.com/2020/08/13/briefing/coronavirus-israel-animal-tears.html"
+        "title": "China to Supply Coronavirus Vaccine to Pakistan",
+        "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Surge in Covid-19 cases across Europe linked to young people",
-        "link": "https://www.theguardian.com/world/2020/aug/13/global-report-covid-19-spikes-across-europe-linked-to-young-people"
+        "title": "Coronavirus live news: France says UK quarantine will lead to reciprocal measures as global deaths pass 750,000",
+        "link": "https://www.theguardian.com/world/live/2020/aug/14/coronavirus-live-news-france-says-uk-quarantine-will-lead-to-reciprocal-measures-as-global-deaths-pass-750000"
     },
     {
         "title": "More than half of Mumbai's slum residents might have had Covid-19. Here's why herd immunity could still be a long way off",
         "link": "https://www.cnn.com/2020/08/12/asia/herd-immunity-coronavirus-india-intl-hnk-dst/index.html"
     },
     {
-        "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
+        "title": "Coronavirus: Australia encouraged by drop in new Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-australia-53767793"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+    },
+    {
         "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
     },
     {
-        "title": "'Hundreds dead' because of Covid-19 misinformation",
-        "link": "https://www.bbc.com/news/world-53755067"
-    },
-    {
-        "title": "Why Young Adults Are Driving the New Coronavirus Spike",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=acfeb4c0-ddc9-11ea-912f-1fc3d7dedfc8&url=L29waW5pb24vYXJ0aWNsZXMvMjAyMC0wOC0xMy93aHkteW91bmctYWR1bHRzLWFyZS1kcml2aW5nLWV1cm9wZS1zLWNvcm9uYXZpcnVzLWN1cnZl"
+        "title": "Europe Faces Critical Moment as Coronavirus Cases Surge in Spain, France, Germany",
+        "link": "https://www.newsweek.com/coronavirus-europe-cases-surge-spain-france-germany-1524622"
     }
 ];
