@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200814165152004?did=1195m"
     },
     {
-        "title": "삼성 화성 반도체 사업장서 코로나 확진자 발생",
-        "link": "https://zdnet.co.kr/view/?no=20200814153950"
+        "title": "[속보] 문 대통령 \"교회 중심 확진자↑… 방역 강화하라\" 지시",
+        "link": "https://hankookilbo.com/News/Read/A2020081417110003464?did=NA"
     },
     {
         "title": "대전 자운대서 코로나19 확진자 발생",
         "link": "http://www.dtnews24.com/news/articleView.html?idxno=585114"
     },
     {
-        "title": "비씨카드 서울 을지로 본사서 코로나 확진자 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081402974.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "文대통령 \"교회 확진자 증가...방역노력, 일순간에 무너질수도\"",
-        "link": "http://www.fnnews.com/news/202008141723299631"
-    },
-    {
-        "title": "판교에 코로나19 확진자 발생..네이버·카카오, 재택 재돌입",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086625867320"
-    },
-    {
-        "title": "[종합] 경기 '62명 확진' 코로나 이후 사상 최다…교회 집단감염 비상",
-        "link": "https://www.hankyung.com/society/article/2020081406587"
+        "title": "삼성 화성 반도체 사업장서 코로나 확진자 발생",
+        "link": "https://zdnet.co.kr/view/?no=20200814153950"
     },
     {
         "title": "해외유입 외국인 확진자, 격리 명령 위반하면 치료비 전액 내야",
         "link": "https://imnews.imbc.com/news/2020/society/article/5874147_32633.html"
     },
     {
-        "title": "용인 우리제일교회 11명 코로나19 추가 확진",
-        "link": "http://www.segye.com/content/html/2020/08/14/20200814507222.html?OutUrl=naver"
+        "title": "비씨카드 서울 을지로 본사서 코로나 확진자 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081402974.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "판교에 코로나19 확진자 발생..네이버·카카오, 재택 재돌입",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086625867320"
+    },
+    {
+        "title": "롯데리아, 코로나 확진자 발생 매장 8곳 영업 재개",
+        "link": "https://www.hankyung.com/life/article/202008148758g"
     },
     {
         "title": "코로나19 확진자에…네이버-카카오, 원격근무 전환",
         "link": "http://www.inews24.com/view/1290952"
+    },
+    {
+        "title": "서울 코로나19 신규 확진자 32명··· 사랑제일교회 시설폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z6KRKG4W1"
     }
 ];
