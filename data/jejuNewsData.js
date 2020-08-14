@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/08/13/20200813511320.html?OutUrl=naver"
     },
     {
+        "title": "[제주에 산다] 늘어난 제주도 관광객… 남는 문제",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924151399&code=11171421&cp=nv"
+    },
+    {
         "title": "코로나19 모범 대응한 '한림읍' 찾은 최승현 행정부지사",
         "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=245542"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "광복절 연휴, 본격적 휴가시즌 맞아 코로나 지역감염 비상",
         "link": "https://www.kgnews.co.kr/news/article.html?no=598167"
-    },
-    {
-        "title": "경기침체 관광업계 추가지원⋯포스트코로나 언택트⋅온택트",
-        "link": "http://www.newskr.kr/news/articleView.html?idxno=47910"
     }
 ];

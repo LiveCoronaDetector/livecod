@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
-        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
+        "title": "Any attempt to get coronavirus herd immunity would lead to massive death tolls, Fauci warns",
+        "link": "https://www.cnn.com/2020/08/14/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "U.K. Imposes 14-Day Quarantine on Travelers From France and Netherlands",
-        "link": "https://www.youtube.com/watch?v=vr4SXgwXXpc"
+        "title": "Trump Adds Coronavirus Adviser Whose Views Closely Align With His Own",
+        "link": "https://www.wsj.com/articles/trump-adds-coronavirus-adviser-whose-views-closely-align-with-his-own-11597350585"
     },
     {
-        "title": "California Becomes First State to Report 600,000 Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
+        "title": "U.K. Imposes 14-Day Quarantine on Travelers From France and Netherlands",
+        "link": "https://www.youtube.com/watch?v=vr4SXgwXXpc"
     },
     {
         "title": "Experts warn Spain is losing the 2nd round in virus fight",
