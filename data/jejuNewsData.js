@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424910"
     },
     {
-        "title": "제주 코로나 25번 확진자 퇴원...3명 남아",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318989"
-    },
-    {
         "title": "[장애공감 제주사회]코로나19에 더 위험한 신장장애인",
         "link": "https://www.nocutnews.co.kr/news/5394961"
+    },
+    {
+        "title": "제주 코로나 25번 확진자 퇴원...3명 남아",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318989"
     },
     {
         "title": "[전문] 용인시청 134번째 확진자 동선공개... 보정동 소재 우리제일교회 전수...",

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
-        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
+        "title": "Dr. Fauci on U.S. coronavirus outbreak: 'I'm not pleased with how things are going'",
+        "link": "https://www.cnbc.com/2020/08/13/dr-fauci-on-us-coronavirus-outbreak-im-not-pleased-with-how-things-are-going.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/13/global-report-covid-19-spikes-across-europe-linked-to-young-people"
     },
     {
-        "title": "UK adds France, Netherlands to travel quarantine list",
-        "link": "https://news.yahoo.com/uk-adds-france-netherlands-travel-233220420.html"
+        "title": "Coronavirus update: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
     },
     {
         "title": "North Korea, Fighting to Hold Back Virus and Floods, Says No Thanks to Outside Aid",
         "link": "https://www.nytimes.com/2020/08/14/world/asia/north-korea-floods-coronavirus.html"
     },
     {
-        "title": "What should I do if I have a holiday booked to France? Q&A",
-        "link": "https://www.theguardian.com/travel/2020/aug/13/what-should-i-do-if-i-have-a-holiday-booked-to-france-qa"
+        "title": "Government to extend wage subsidy scheme as businesses face Covid-19 restrictions again",
+        "link": "https://www.tvnz.co.nz/one-news/new-zealand/government-extend-wage-subsidy-scheme-businesses-face-covid-19-restrictions-again"
     },
     {
         "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
     },
     {
-        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
+        "title": "Surge in Spain's Covid-19 cases prompts regional smoking ban",
+        "link": "https://www.youtube.com/watch?v=4haFHkSK3jQ"
     }
 ];
