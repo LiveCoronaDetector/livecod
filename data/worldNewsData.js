@@ -13,24 +13,20 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Surge in Covid-19 cases across Europe linked to young people",
-        "link": "https://www.theguardian.com/world/2020/aug/13/global-report-covid-19-spikes-across-europe-linked-to-young-people"
+        "title": "Coronavirus: France to be added to UK quarantine countries",
+        "link": "https://www.bbc.com/news/uk-politics-53773914"
     },
     {
-        "title": "UK removes France from its list of 'safe' destinations",
-        "link": "https://www.cnn.com/travel/article/uk-removes-france-from-safe-destinations-list/index.html"
+        "title": "UK COVID-19 death toll drops by more than 5000 following 'urgent review' of PHE figures",
+        "link": "https://www.youtube.com/watch?v=D2Nw8Y90-K8"
     },
     {
         "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
-    },
-    {
-        "title": "What should I do if I have a holiday booked to France? Q&A",
-        "link": "https://www.theguardian.com/travel/2020/aug/13/what-should-i-do-if-i-have-a-holiday-booked-to-france-qa"
+        "title": "UK COVID-19 Update: Deaths Revised, New NHSX App",
+        "link": "https://www.medscape.com/viewarticle/935649"
     },
     {
         "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
     }
 ];

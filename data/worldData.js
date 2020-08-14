@@ -117,8 +117,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Argentina",
         "확진자수": 276072,
-        "사망자수": 5362,
-        "완치자수": 192434
+        "사망자수": 5428,
+        "완치자수": 199005
     },
     {
         "Name": "Bangladesh",
@@ -473,6 +473,14 @@ var marker = [
         "완치자수": 21385
     },
     {
+        "Name": "Moldova",
+        "Name_ch": "",
+        "Name_en": "Moldova",
+        "확진자수": 29483,
+        "사망자수": 884,
+        "완치자수": 20556
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
@@ -487,14 +495,6 @@ var marker = [
         "확진자수": 29233,
         "사망자수": 665,
         "완치자수": 26117
-    },
-    {
-        "Name": "Moldova",
-        "Name_ch": "",
-        "Name_en": "Moldova",
-        "확진자수": 29087,
-        "사망자수": 878,
-        "완치자수": 20276
     },
     {
         "Name": "아일랜드",
@@ -620,9 +620,9 @@ var marker = [
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "확진자수": 12357,
-        "사망자수": 532,
-        "완치자수": 8662
+        "확진자수": 12515,
+        "사망자수": 535,
+        "완치자수": 9030
     },
     {
         "Name": "Sudan",
@@ -1524,7 +1524,7 @@ var marker = [
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "확진자수": 90,
+        "확진자수": 91,
         "사망자수": 1,
         "완치자수": 87
     },
