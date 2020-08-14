@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "France struck off safe travel list – half a million Brit holidaymakers rush home to avoid quarantine",
-        "link": "https://www.youtube.com/watch?v=f8dL7D3DcWY"
+        "title": "Coronavirus: France to be added to UK quarantine countries",
+        "link": "https://www.bbc.com/news/uk-politics-53773914"
     },
     {
-        "title": "Coronavirus found on frozen food packaging in Chinese cities",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-found-frozen-food-packaging-chinese-cities-n1236574"
+        "title": "Coronavirus: Australia encouraged by drop in new Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-australia-53767793"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
     },
     {
-        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
-    },
-    {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+        "title": "Experts warn Spain is losing the 2nd round in virus fight",
+        "link": "https://indianexpress.com/article/world/experts-warn-spain-is-losing-the-2nd-round-in-virus-fight-6553161/"
+    },
+    {
+        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
     }
 ];
