@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
-        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
+        "title": "Dr. Fauci on U.S. coronavirus outbreak: 'I'm not pleased with how things are going'",
+        "link": "https://www.cnbc.com/2020/08/13/dr-fauci-on-us-coronavirus-outbreak-im-not-pleased-with-how-things-are-going.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
+        "title": "Live Coronavirus News: World Updates",
+        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
+    },
+    {
         "title": "New Zealand baffled by new COVID-19 cases, eyes frozen-food packaging",
         "link": "https://arstechnica.com/science/2020/08/new-zealand-baffled-by-new-covid-19-cases-eyes-frozen-food-packaging/"
     },
     {
-        "title": "Trump pushes for schools to reopen as US sees deadliest Covid day since May",
-        "link": "https://www.theguardian.com/world/2020/aug/13/coronavirus-trump-schools-us-deaths-covid"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
     },
     {
         "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
-    },
-    {
-        "title": "Coronavirus in Europe: Infections surge in France, Germany and Spain",
-        "link": "https://www.bbc.com/news/world-europe-53747852"
     }
 ];
