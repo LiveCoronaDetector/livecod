@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4517171&ref=A"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 103명···지역발생 85명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008141017001&code=940601"
+        "title": "[종합] 코로나19 확진자 20일만에 100명 넘어...103명 중 지역 85명",
+        "link": "http://www.fnnews.com/news/202008141019270015"
+    },
+    {
+        "title": "코로나 확진 103명…지역 85명, 3월말 이후 최대(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081401267.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "군에서도 '코로나 확진자 발생' 교회 방문한 2명 양성 판정",
+        "link": "http://yna.kr/AKR20200814057400504?did=1195m"
     },
     {
         "title": "[속보]코로나19 신규확진자 100명대로 급증…'깜깜이' 환자도 다시 증가",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081300152"
     },
     {
-        "title": "교회 들렸다가...軍에서도 코로나 확진자 2명 추가 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081401433.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나19 신규 확진자 103명···지역발생 85명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008141017001&code=940601"
+    },
+    {
+        "title": "서울 코로나19 확진자 32명 발생… 5개월 만에 최대",
+        "link": "http://www.segye.com/content/html/2020/08/14/20200814508877.html?OutUrl=naver"
+    },
+    {
+        "title": "정세균 \"수도권 코로나 상황 엄중...사회적 거리두기 2단계 격상 검토\"",
+        "link": "https://www.pressian.com/pages/articles/2020081410063943078?utm_source=naver&utm_medium=search"
     },
     {
         "title": "전세계 코로나19 사망자 75만명 넘어…확진자 2천100만명",
         "link": "http://yna.kr/AKR20200814012900009?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 20일만에 100명 넘어...103명 중 지역 85명",
-        "link": "http://www.fnnews.com/news/202008141019270015"
-    },
-    {
-        "title": "[속보] 코로나19 어제 103명 신규확진…지역발생 85명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081410105923719"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 103명...지역 발생 85명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008141024278843"
-    },
-    {
-        "title": "[속보] 코로나 국내 신규 100명대 껑충… 총 확진 103명·국내발생 85명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/08/14/2020081401432.html"
-    },
-    {
-        "title": "[속보]코로나19 지역발생 85명…3월 31일 이후 최다",
-        "link": "https://news.imaeil.com/Society/2020081410204597221"
+        "title": "[속보] 코로나19 103명 늘어 1만4,873명…지역감염 85명 급증",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008140131&t=NN"
     }
 ];
