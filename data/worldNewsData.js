@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
-        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
+        "title": "Any attempt to get coronavirus herd immunity would lead to massive death tolls, Fauci warns",
+        "link": "https://www.cnn.com/2020/08/14/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/14/world/asia/north-korea-floods-coronavirus.html"
     },
     {
-        "title": "Rush To Book Travel As UK Adds France To Quarantine List",
-        "link": "https://simpleflying.com/uk-france-quarantine-travel/"
+        "title": "UK adds France, Netherlands to travel quarantine list",
+        "link": "https://news.yahoo.com/uk-adds-france-netherlands-travel-233220420.html"
     },
     {
         "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus update: Global cases top 20.7 million and U.S. suffers biggest one-day death toll since May",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
+        "title": "Coronavirus Live Updates",
+        "link": "https://www.nytimes.com/2020/08/14/world/coronavirus-covid-19.html"
     }
 ];
