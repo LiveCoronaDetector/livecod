@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
-        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
+        "title": "Surge in Covid-19 cases across Europe linked to young people",
+        "link": "https://www.theguardian.com/world/2020/aug/13/global-report-covid-19-spikes-across-europe-linked-to-young-people"
     },
     {
         "title": "UK adds France, Netherlands to travel quarantine list",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/14/world/asia/north-korea-floods-coronavirus.html"
     },
     {
-        "title": "Fact check: Trump promotes another birther lie, this time about Kamala Harris",
-        "link": "https://www.cnn.com/2020/08/13/politics/trump-news-conference-birtherism-kamala-harris-biden-attacks-fact-check/index.html"
+        "title": "What should I do if I have a holiday booked to France? Q&A",
+        "link": "https://www.theguardian.com/travel/2020/aug/13/what-should-i-do-if-i-have-a-holiday-booked-to-france-qa"
     },
     {
-        "title": "Two months after taming infections with lockdown, Spain faces new Covid-19 surge",
-        "link": "https://www.france24.com/en/20200813-two-months-after-taming-infections-with-lockdown-spain-faces-new-covid-19-surge"
+        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
+        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
