@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "U.K. Imposes 14-Day Quarantine on Travelers From France and Netherlands",
-        "link": "https://www.youtube.com/watch?v=vr4SXgwXXpc"
+        "title": "Coronavirus: Thousands return to UK to beat France quarantine",
+        "link": "https://www.bbc.com/news/uk-53782019"
     },
     {
         "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/trump-adds-coronavirus-adviser-whose-views-closely-align-with-his-own-11597350585"
     },
     {
-        "title": "New quarantine on travellers from France announced by UK - BBC News",
-        "link": "https://www.youtube.com/watch?v=FhjcP6Juji8"
+        "title": "U.K. Imposes 14-Day Quarantine on Travelers From France and Netherlands",
+        "link": "https://www.youtube.com/watch?v=vr4SXgwXXpc"
     },
     {
         "title": "Experts warn Spain is losing the 2nd round in virus fight",
         "link": "https://www.post-gazette.com/news/world/2020/08/13/COVID-19-coronavirus-Spain-second-wave-Madrid-Barcelona-Zaragoza-Aragon-hospitalizations-deaths/stories/202008130199"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "WHO says there's 'no evidence' the coronavirus is being transmitted by food",
+        "link": "https://www.cnbc.com/2020/08/13/who-says-theres-no-evidence-the-coronavirus-is-being-transmitted-by-food.html"
     }
 ];
