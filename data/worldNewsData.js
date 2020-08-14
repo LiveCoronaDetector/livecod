@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-top-206-million-and-us-suffers-biggest-one-day-death-toll-since-may-2020-08-13"
     },
     {
-        "title": "Watch live: World Health Organization holds press conference on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/13/watch-live-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html"
+        "title": "Coronavirus in Europe: Infections surge in France, Germany and Spain",
+        "link": "https://www.bbc.com/news/world-europe-53747852"
     }
 ];
