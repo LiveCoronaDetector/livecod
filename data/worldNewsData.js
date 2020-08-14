@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Live updates: Senate adjourns until September without reaching deal on coronavirus relief aid",
-        "link": "https://www.washingtonpost.com/nation/2020/08/14/coronavirus-covid-live-updates-us/"
+        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
+        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "NZ extends Auckland COVID lockdown for another 12 days",
-        "link": "https://www.youtube.com/watch?v=PS6FegLzoio"
+        "title": "UK adds France, Netherlands to travel quarantine list",
+        "link": "https://news.yahoo.com/uk-adds-france-netherlands-travel-233220420.html"
     },
     {
         "title": "North Korea, Fighting to Hold Back Virus and Floods, Says No Thanks to Outside Aid",
         "link": "https://www.nytimes.com/2020/08/14/world/asia/north-korea-floods-coronavirus.html"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
+        "title": "Fact check: Trump promotes another birther lie, this time about Kamala Harris",
+        "link": "https://www.cnn.com/2020/08/13/politics/trump-news-conference-birtherism-kamala-harris-biden-attacks-fact-check/index.html"
     },
     {
-        "title": "Experts warn Spain is losing the 2nd round in virus fight",
-        "link": "https://indianexpress.com/article/world/experts-warn-spain-is-losing-the-2nd-round-in-virus-fight-6553161/"
+        "title": "Two months after taming infections with lockdown, Spain faces new Covid-19 surge",
+        "link": "https://www.france24.com/en/20200813-two-months-after-taming-infections-with-lockdown-spain-faces-new-covid-19-surge"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
