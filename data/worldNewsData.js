@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "Coronavirus: Thousands return to UK to beat France quarantine",
-        "link": "https://www.bbc.com/news/uk-53782019"
+        "title": "LIVE: European nations step up coronavirus measures as cases rise",
+        "link": "https://www.aljazeera.com/news/2020/08/uk-adds-france-netherlands-quarantine-list-coronavirus-live-200814003230439.html"
     },
     {
         "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
-    },
-    {
-        "title": "Trump Adds Coronavirus Adviser Whose Views Closely Align With His Own",
-        "link": "https://www.wsj.com/articles/trump-adds-coronavirus-adviser-whose-views-closely-align-with-his-own-11597350585"
     },
     {
         "title": "U.K. Imposes 14-Day Quarantine on Travelers From France and Netherlands",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "WHO says there's 'no evidence' the coronavirus is being transmitted by food",
         "link": "https://www.cnbc.com/2020/08/13/who-says-theres-no-evidence-the-coronavirus-is-being-transmitted-by-food.html"
+    },
+    {
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     }
 ];
