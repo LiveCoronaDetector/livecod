@@ -5,6 +5,18 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200814172551063?did=1195m"
     },
     {
+        "title": "경기 양평서 주민 31명 무더기 코로나 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/15/2020081500053.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "文 대통령 \"'G7 확대, 포스트코로나 국제대응에 기여\"",
+        "link": "https://www.hankyung.com/politics/article/202008140655i"
+    },
+    {
+        "title": "수도권 코로나19 폭발적 증가 '비상'…하루새 최소 158명 확진(종합)",
+        "link": "http://yna.kr/AKR20200814183151530?did=1195m"
+    },
+    {
         "title": "삼성 화성 반도체 사업장서 코로나 확진자 발생",
         "link": "https://zdnet.co.kr/view/?no=20200814153950"
     },
@@ -27,17 +39,5 @@ var koreaNewsData = [
     {
         "title": "판교에 코로나19 확진자 발생..네이버·카카오, 재택 재돌입",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086625867320"
-    },
-    {
-        "title": "해외유입 외국인 확진자, 격리 명령 위반하면 치료비 전액 내야",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5874147_32633.html"
-    },
-    {
-        "title": "롯데리아, 코로나 확진자 발생 매장 8곳 영업 재개",
-        "link": "https://www.hankyung.com/life/article/202008148758g"
-    },
-    {
-        "title": "코로나19 확진자에…네이버-카카오, 원격근무 전환",
-        "link": "http://www.inews24.com/view/1290952"
     }
 ];

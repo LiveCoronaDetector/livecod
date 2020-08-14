@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "U.K. Imposes 14-Day Quarantine on Travelers From France and Netherlands",
-        "link": "https://www.youtube.com/watch?v=vr4SXgwXXpc"
+        "title": "New quarantine on travellers from France announced by UK - BBC News",
+        "link": "https://www.youtube.com/watch?v=FhjcP6Juji8"
     },
     {
         "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "Trump Adds Coronavirus Adviser Whose Views Closely Align With His Own",
-        "link": "https://www.wsj.com/articles/trump-adds-coronavirus-adviser-whose-views-closely-align-with-his-own-11597350585"
+        "title": "European stocks tumble on sluggish Chinese data and U.K.'s France quarantine move",
+        "link": "https://www.marketwatch.com/story/european-stocks-tumble-on-sluggish-chinese-data-and-u-k-s-france-quarantine-move-11597397232"
     },
     {
-        "title": "What should I do if I have a holiday booked to France? Q&A",
-        "link": "https://www.theguardian.com/travel/2020/aug/13/what-should-i-do-if-i-have-a-holiday-booked-to-france-qa"
+        "title": "Experts warn Spain is losing the 2nd round in virus fight",
+        "link": "https://www.post-gazette.com/news/world/2020/08/13/COVID-19-coronavirus-Spain-second-wave-Madrid-Barcelona-Zaragoza-Aragon-hospitalizations-deaths/stories/202008130199"
     },
     {
-        "title": "Paris Declared 'Red Zone' as Second COVID Wave Hits Spain and France",
-        "link": "https://www.thedailybeast.com/europe-facing-critical-moment-as-second-wave-of-covid-19-hits-spain-and-france"
+        "title": "WHO says there's 'no evidence' the coronavirus is being transmitted by food",
+        "link": "https://www.cnbc.com/2020/08/13/who-says-theres-no-evidence-the-coronavirus-is-being-transmitted-by-food.html"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "Coronavirus in Europe: Infections surge in France, Germany and Spain",
+        "link": "https://www.bbc.com/news/world-europe-53747852"
     }
 ];
