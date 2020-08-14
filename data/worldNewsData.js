@@ -13,11 +13,11 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
-        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
+        "title": "Coronavirus digest: Germany issues fresh warning over travel to Spain",
+        "link": "https://www.dw.com/en/coronavirus-digest-germany-issues-fresh-warning-over-travel-to-spain/a-54562496"
     },
     {
-        "title": "LIVE: European nations step up coronavirus measures as cases rise",
+        "title": "LIVE: New coronavirus cases in France top 2,500 for third day",
         "link": "https://www.aljazeera.com/news/2020/08/uk-adds-france-netherlands-quarantine-list-coronavirus-live-200814003230439.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "California Becomes First State to Report 600,000 Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
-    },
-    {
-        "title": "U.K. Imposes 14-Day Quarantine on Travelers From France and Netherlands",
-        "link": "https://www.youtube.com/watch?v=vr4SXgwXXpc"
+        "title": "Trump Adds Coronavirus Adviser Whose Views Closely Align With His Own",
+        "link": "https://www.wsj.com/articles/trump-adds-coronavirus-adviser-whose-views-closely-align-with-his-own-11597350585"
     },
     {
         "title": "Coronavirus Live Updates: Firm Overseeing Federal Database Refuses Senators’ Questions",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Experts warn Spain is losing the 2nd round in virus fight",
-        "link": "https://www.post-gazette.com/news/world/2020/08/13/COVID-19-coronavirus-Spain-second-wave-Madrid-Barcelona-Zaragoza-Aragon-hospitalizations-deaths/stories/202008130199"
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "California Becomes First State to Report 600,000 Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
     }
 ];
