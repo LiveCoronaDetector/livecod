@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "Coronavirus: France to be added to UK quarantine countries",
-        "link": "https://www.bbc.com/news/uk-politics-53773914"
+        "title": "Britain says it overcounted coronavirus death toll by 5,377",
+        "link": "https://www.washingtonpost.com/world/britain-says-it-overcounted-coronavirus-death-toll-by-5377/2020/08/13/f6f171a6-dce0-11ea-b4f1-25b762cdbbf4_story.html"
     },
     {
-        "title": "North Korea, Fighting to Hold Back Virus and Floods, Says No Thanks to Outside Aid",
-        "link": "https://www.nytimes.com/2020/08/14/world/asia/north-korea-floods-coronavirus.html"
-    },
-    {
-        "title": "UK removes France from its list of 'safe' destinations",
-        "link": "https://www.cnn.com/travel/article/uk-removes-france-from-safe-destinations-list/index.html"
+        "title": "Frozen food unlikely to transmit coronavirus, but in New Zealand may have - Business Insider",
+        "link": "https://www.businessinsider.com/frozen-food-unlikely-to-transmit-coronavirus-like-in-new-zealand-2020-8"
     },
     {
         "title": "Two months after taming infections with lockdown, Spain faces new Covid-19 surge",
         "link": "https://www.france24.com/en/20200813-two-months-after-taming-infections-with-lockdown-spain-faces-new-covid-19-surge"
+    },
+    {
+        "title": "UK COVID-19 death toll drops by more than 5000 following 'urgent review' of PHE figures",
+        "link": "https://www.youtube.com/watch?v=D2Nw8Y90-K8"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
