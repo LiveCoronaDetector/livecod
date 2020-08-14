@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424910"
     },
     {
+        "title": "제주, 일본서 온 25번 확진자 퇴원…남은 확진자 3명",
+        "link": "https://www.news1.kr/articles/?4027122"
+    },
+    {
         "title": "[장애공감 제주사회]코로나19에 더 위험한 신장장애인",
         "link": "https://www.nocutnews.co.kr/news/5394961"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'퐁당퐁당' 확산세…비수도권, 코로나19 다시 꿈틀",
         "link": "https://www.news1.kr/articles/?4023522"
-    },
-    {
-        "title": "광복절 연휴, 본격적 휴가시즌 맞아 코로나 지역감염 비상",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=598167"
     }
 ];

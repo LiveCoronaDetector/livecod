@@ -9,20 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200814183151530?did=1195m"
     },
     {
-        "title": "삼성 화성 반도체 사업장서 코로나 확진자 발생",
-        "link": "https://zdnet.co.kr/view/?no=20200814153950"
-    },
-    {
         "title": "서울 코로나19 확진자 58명 발생…'역대 최다'",
         "link": "https://www.nocutnews.co.kr/news/5395370"
     },
     {
-        "title": "코로나19 신규 확진자 100명대로 급증…103명 중 국내 감염 85명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4517171&ref=A"
+        "title": "서울 오늘 코로나19 신규확진 58명 발생…최다기록(종합)",
+        "link": "http://yna.kr/AKR20200814165152004?did=1195m"
     },
     {
-        "title": "비씨카드 서울 을지로 본사서 코로나 확진자 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081402974.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 삼성 화성 반도체 사업장, 코로나19 확진자 발생",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008140258&t=NN"
     },
     {
         "title": "文대통령 \"교회 확진자 증가...방역노력, 일순간에 무너질수도\"",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086625867320"
     },
     {
-        "title": "해외유입 외국인 확진자, 격리 명령 위반하면 치료비 전액 내야",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5874147_32633.html"
+        "title": "삼성 화성 반도체 사업장서 코로나 확진자 발생",
+        "link": "https://zdnet.co.kr/view/?no=20200814153950"
     },
     {
-        "title": "롯데리아, 코로나 확진자 발생 매장 8곳 영업 재개",
-        "link": "https://www.hankyung.com/life/article/202008148758g"
+        "title": "코로나 확진자 급증했는데… 보수도 진보도 “8.15 집회 강행한다”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081402648.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "해외유입 외국인 확진자, 격리 명령 위반하면 치료비 전액 내야",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5874147_32633.html"
     }
 ];
