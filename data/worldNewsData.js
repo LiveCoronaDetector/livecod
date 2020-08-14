@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Any attempt to get coronavirus herd immunity would lead to massive death tolls, Fauci warns",
-        "link": "https://www.cnn.com/2020/08/14/health/us-coronavirus-friday/index.html"
+        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
+        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Coronavirus: France to be added to UK quarantine countries",
-        "link": "https://www.bbc.com/news/uk-politics-53773914"
+        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
+        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "UK COVID-19 death toll drops by more than 5000 following 'urgent review' of PHE figures",
-        "link": "https://www.youtube.com/watch?v=D2Nw8Y90-K8"
+        "title": "New quarantine on travellers from France announced by UK - BBC News",
+        "link": "https://www.youtube.com/watch?v=FhjcP6Juji8"
     },
     {
         "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/14/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "Five Points On Scott Atlas, Trump's Favorite New COVID Source",
+        "link": "https://talkingpointsmemo.com/fivepoints/five-points-on-scott-atlas-trumps-favorite-new-covid-source"
     },
     {
-        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
-        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
+        "title": "UK removes France from its list of 'safe' destinations",
+        "link": "https://www.cnn.com/travel/article/uk-removes-france-from-safe-destinations-list/index.html"
+    },
+    {
+        "title": "Paris Declared 'Red Zone' as Second COVID Wave Hits Spain and France",
+        "link": "https://www.thedailybeast.com/europe-facing-critical-moment-as-second-wave-of-covid-19-hits-spain-and-france"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
-    },
-    {
-        "title": "‘The best stimulus’: WHO urges countries to gamble on shared vaccine search",
-        "link": "https://www.scmp.com/news/world/europe/article/3097310/who-urges-countries-gamble-shared-coronavirus-vaccine-search"
     }
 ];

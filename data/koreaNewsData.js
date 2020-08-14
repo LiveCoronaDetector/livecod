@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020081418290000768?did=NA"
     },
     {
+        "title": "코로나19 신규 확진자 100명대로 급증…103명 중 국내 감염 85명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4517171&ref=A"
+    },
+    {
         "title": "비씨카드 서울 을지로 본사서 코로나 확진자 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/14/2020081402974.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5874147_32633.html"
     },
     {
-        "title": "코로나19 신규 확진자 100명대로 급증…103명 중 국내 감염 85명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4517171&ref=A"
-    },
-    {
-        "title": "용인 우리제일교회 11명 코로나19 추가 확진",
-        "link": "http://www.segye.com/content/html/2020/08/14/20200814507222.html?OutUrl=naver"
-    },
-    {
         "title": "롯데리아, 코로나 확진자 발생 매장 8곳 영업 재개",
         "link": "https://www.hankyung.com/life/article/202008148758g"
+    },
+    {
+        "title": "코로나19 확진자에…네이버-카카오, 원격근무 전환",
+        "link": "http://www.inews24.com/view/1290952"
     }
 ];
