@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Surge in Covid-19 cases across Europe linked to young people",
-        "link": "https://www.theguardian.com/world/2020/aug/13/global-report-covid-19-spikes-across-europe-linked-to-young-people"
+        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
+        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
         "title": "Coronavirus: France to be added to UK quarantine countries",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/14/world/asia/north-korea-floods-coronavirus.html"
     },
     {
-        "title": "UK adds France, Netherlands to travel quarantine list",
-        "link": "https://news.yahoo.com/uk-adds-france-netherlands-travel-233220420.html"
+        "title": "UK removes France from its list of 'safe' destinations",
+        "link": "https://www.cnn.com/travel/article/uk-removes-france-from-safe-destinations-list/index.html"
     },
     {
-        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
-        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
+        "title": "Two months after taming infections with lockdown, Spain faces new Covid-19 surge",
+        "link": "https://www.france24.com/en/20200813-two-months-after-taming-infections-with-lockdown-spain-faces-new-covid-19-surge"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
