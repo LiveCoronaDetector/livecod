@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Coronavirus: France to be added to UK quarantine countries",
-        "link": "https://www.bbc.com/news/uk-politics-53773914"
+        "title": "Italy Imposes Mandatory Covid-19 Testing On All Arrivals From Greece",
+        "link": "https://greekcitytimes.com/2020/08/14/italy-imposes-mandatory-covid-19-testing-on-all-arrivals-from-greece/"
     },
     {
         "title": "LIVE: New coronavirus cases in France top 2,500 for third day",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Should You Worry About COVID-19 on Food? WHO Says No.",
-        "link": "https://www.eater.com/2020/8/14/21368928/can-i-get-coronavirus-from-food-world-health-organization-covid-19-transmission"
+        "title": "California Becomes First State to Report 600,000 Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
     }
 ];
