@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
-        "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
-        "link": "https://www.cnn.com/2020/08/13/europe/coronavirus-europe-young-people-cases-spiking-intl/index.html"
+        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
+        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
         "title": "Thailand eyes rich expats with ‘coronavirus haven’ visa scheme",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
     },
     {
-        "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
-        "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
-    },
-    {
         "title": "Live Covid-19 Tracker and Updates",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Covid-19: French government declares Paris, Marseille high-risk zones",
-        "link": "https://www.youtube.com/watch?v=Db-rEmUxoDY"
+        "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
+        "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
