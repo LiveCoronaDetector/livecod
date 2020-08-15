@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
     },
     {
-        "title": "Dr. Scott Atlas responds to CNN anchor after Trump taps him as new coronavirus adviser",
-        "link": "https://www.foxnews.com/media/scott-atlas-brianna-keilar-cnn-coronavirus-adviser"
-    },
-    {
-        "title": "Live Covid-19 Tracker and Updates",
-        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "Climate study says global COVID-19 shutdowns will have 'negligible' impact on temperatures",
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+    },
+    {
         "title": "Covid-19: French government declares Paris, Marseille high-risk zones",
         "link": "https://www.youtube.com/watch?v=Db-rEmUxoDY"
+    },
+    {
+        "title": "Italy Imposes Mandatory Covid-19 Testing On All Arrivals From Greece",
+        "link": "https://greekcitytimes.com/2020/08/14/italy-imposes-mandatory-covid-19-testing-on-all-arrivals-from-greece/"
     }
 ];

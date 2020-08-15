@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993083?division=NAVER"
     },
     {
-        "title": "서울 신규 확진자 74명 급증…광화문 집회에 확산 우려↑(종합)",
-        "link": "http://www.fnnews.com/news/202008151142507713"
+        "title": "[단독] 사랑제일교회 목사, 코로나19 의심증상 교인에 \"검사 미뤄라\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008150423009866"
     },
     {
         "title": "코로나19 신규확진 166명중 지역발생 155명…5개월여만 최다",
         "link": "https://imnews.imbc.com/news/2020/society/article/5874656_32633.html"
     },
     {
-        "title": "[단독] 사랑제일교회 목사, 코로나19 의심증상 교인에 \"검사 미뤄라\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008150423009866"
+        "title": "서울 신규 확진자 74명 급증…광화문 집회에 확산 우려↑(종합)",
+        "link": "http://www.fnnews.com/news/202008151142507713"
     }
 ];
