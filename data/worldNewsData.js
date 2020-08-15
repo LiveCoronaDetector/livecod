@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
-        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
-        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
+        "title": "Coronavirus live news: theatres, casinos and bowling alleys reopen in England as South Korea reports a spike in cases",
+        "link": "https://www.theguardian.com/world/live/2020/aug/15/coronavirus-live-news-victoria-in-australia-adds-303-cases-as-restrictions-tighten-in-europe"
     },
     {
         "title": "India coronavirus cases cross 2.5 million: Live updates",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
-        "title": "Aged care rapid response units to prevent escalation of COVID-19 crisis",
-        "link": "https://www.youtube.com/watch?v=tuGd80WGmQY"
-    },
-    {
         "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Europe’s Summer Unravels With Covid Spikes and Travel Chaos",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b820c0a0-dee6-11ea-8eaa-ab41b3278a6e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNC9ldXJvcGUtcy1zdW1tZXItdW5yYXZlbHMtd2l0aC1jb3ZpZC1zcGlrZXMtYW5kLXRyYXZlbC1jaGFvcw=="
     }
 ];
