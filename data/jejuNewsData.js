@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.gobalnews.com/news/articleView.html?idxno=30739"
     },
     {
-        "title": "'퐁당퐁당' 확산세…비수도권, 코로나19 다시 꿈틀",
-        "link": "https://www.news1.kr/articles/?4023522"
+        "title": "제주도 24번 코로나 확진자 퇴원...\"무증상, 2회 연속 음성\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424338"
     }
 ];
