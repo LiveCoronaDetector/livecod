@@ -665,6 +665,14 @@ var marker = [
         "완치자수": 8828
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 9022,
+        "사망자수": 108,
+        "완치자수": 5657
+    },
+    {
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
@@ -679,14 +687,6 @@ var marker = [
         "확진자수": 8549,
         "사망자수": 53,
         "완치자수": 7841
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 8389,
-        "사망자수": 97,
-        "완치자수": 5516
     },
     {
         "Name": "Guinea",
@@ -1401,6 +1401,14 @@ var marker = [
         "완치자수": 248
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 274,
+        "사망자수": 2,
+        "완치자수": 54
+    },
+    {
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
@@ -1420,17 +1428,9 @@ var marker = [
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "확진자수": 263,
+        "확진자수": 269,
         "사망자수": 17,
         "완치자수": 102
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 258,
-        "사망자수": 2,
-        "완치자수": 52
     },
     {
         "Name": "지브롤터",
