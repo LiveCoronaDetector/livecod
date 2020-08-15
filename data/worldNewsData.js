@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
     },
     {
+        "title": "Dr. Scott Atlas responds to CNN anchor after Trump taps him as new coronavirus adviser",
+        "link": "https://www.foxnews.com/media/scott-atlas-brianna-keilar-cnn-coronavirus-adviser"
+    },
+    {
         "title": "Coronavirus Live Updates: Firm Helping Run Federal Database Refuses Senators’ Questions",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
-    },
-    {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     }
 ];
