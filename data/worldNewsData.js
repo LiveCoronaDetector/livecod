@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-53789972"
     },
     {
-        "title": "Global coronavirus caseload exceeds 21 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
+        "title": "Indian PM Narendra Modi warns China after Ladakh clash, promises coronavirus vaccine",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3097497/indian-pm-narendra-modi-says-three-coronavirus-vaccines-being"
     },
     {
-        "title": "Family evacuated from Wuhan compares China and US virus responses",
-        "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
+        "title": "China says vaccines must have 50 per cent efficacy, last 6 months",
+        "link": "https://www.scmp.com/news/china/science/article/3097512/coronavirus-chinese-regulator-says-vaccines-must-have-50-cent"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
+        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
+        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     },
     {
         "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
