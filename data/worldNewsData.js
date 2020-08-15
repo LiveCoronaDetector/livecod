@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
-        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
-        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
+        "title": "Spain bans public smoking, France eyes new rules as COVID cases surge",
+        "link": "https://www.cbsnews.com/news/coronavirus-spain-bans-public-smoking-closes-discos-france-eyes-restrictions-as-covid-cases-surge/"
     },
     {
-        "title": "India coronavirus cases cross 2.5 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
+        "title": "Modi says India set to mass produce COVID-19 vaccine, launches digital health mission",
+        "link": "https://www.reuters.com/article/us-india-independenceday/modi-says-india-set-to-mass-produce-covid-19-vaccine-launches-health-mission-idUSKCN25B07W"
     },
     {
         "title": "Family evacuated from Wuhan compares China and US virus responses",
