@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993083?division=NAVER"
     },
     {
-        "title": "서울 사랑제일교회 발 코로나19 확진자 인천서도 발생",
-        "link": "http://yna.kr/AKR20200815019400065?did=1195m"
+        "title": "코로나19 신규확진 166명…서울·경기가 대부분",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4517884&ref=A"
     }
 ];

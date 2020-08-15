@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-53789972"
     },
     {
-        "title": "Indian PM Narendra Modi warns China after Ladakh clash, promises coronavirus vaccine",
-        "link": "https://www.scmp.com/news/asia/south-asia/article/3097497/indian-pm-narendra-modi-says-three-coronavirus-vaccines-being"
+        "title": "Global coronavirus caseload exceeds 21 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
         "title": "China says vaccines must have 50 per cent efficacy, last 6 months",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
     },
     {
-        "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
-        "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
+        "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     }
 ];
