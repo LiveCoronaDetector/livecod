@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
-        "link": "https://news.google.com/articles/CAIiEIzJQJp8dXFB5BYGNSVPPPAqGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
         "title": "Coronavirus digest: Germany issues fresh warning over travel to Spain",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Covid-19: French government declares Paris, Marseille high-risk zones",
-        "link": "https://news.google.com/articles/CCAiC0RiLXJFbVV4b0RZmAEB?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
         "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
+    },
+    {
+        "title": "Covid-19: French government declares Paris, Marseille high-risk zones",
+        "link": "https://www.youtube.com/watch?v=Db-rEmUxoDY"
     }
 ];
