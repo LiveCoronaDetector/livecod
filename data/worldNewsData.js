@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-53789972"
     },
     {
-        "title": "Global coronavirus caseload exceeds 21 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
+        "title": "Canada Says US Border to Remain Closed to Nonessential Travel",
+        "link": "https://www.voanews.com/covid-19-pandemic/canada-says-us-border-remain-closed-nonessential-travel"
     },
     {
         "title": "China says vaccines must have 50 per cent efficacy, last 6 months",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
-        "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
+        "link": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjAvMDgvMTUvcm9tbmV5LXNsYW1zLXRydW1wLWFkbWluaXN0cmF0aW9uLW92ZXItdXMtY29yb25hdmlydXMtZGVhdGgtdG9sbC5odG1s0gFpaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjAvMDgvMTUvcm9tbmV5LXNsYW1zLXRydW1wLWFkbWluaXN0cmF0aW9uLW92ZXItdXMtY29yb25hdmlydXMtZGVhdGgtdG9sbC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
+        "title": "Coronavirus Live Updates: Arizona School District Cancels Reopening",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     },
     {
         "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
-        "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
+        "link": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Nvcm9uYXZpcnVzLXNodXRkb3ducy1uZWdsaWdpYmxlLWVmZmVjdC1nbG9iYWwtd2FybWluZy1zdHVkedIBXmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Nvcm9uYXZpcnVzLXNodXRkb3ducy1uZWdsaWdpYmxlLWVmZmVjdC1nbG9iYWwtd2FybWluZy1zdHVkeS5hbXA?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
