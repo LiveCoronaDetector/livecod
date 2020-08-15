@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Coronavirus live updates: US-Canada border closure to continue; Georgia drops mask lawsuit; Hawaii may delay tourists' return",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/14/covid-news-california-hawaii-stimulus-donald-trump/3367603001/"
+        "title": "Ryan Reynolds Urges 'Young Folks' in Canada to Stop Partying amid COVID-19 Pandemic: 'Don't Kill My Mom'",
+        "link": "https://people.com/movies/ryan-reynolds-urges-young-folks-to-stop-partying-amid-covid-19-pandemic/"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
     },
     {
-        "title": "Dr. Scott Atlas responds to CNN anchor after Trump taps him as new coronavirus adviser",
-        "link": "https://www.foxnews.com/media/scott-atlas-brianna-keilar-cnn-coronavirus-adviser"
-    },
-    {
         "title": "Climate study says global COVID-19 shutdowns will have 'negligible' impact on temperatures",
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Covid-19: French government declares Paris, Marseille high-risk zones",
-        "link": "https://www.youtube.com/watch?v=Db-rEmUxoDY"
+        "title": "Should You Worry About COVID-19 on Food? WHO Says No.",
+        "link": "https://www.eater.com/2020/8/14/21368928/can-i-get-coronavirus-from-food-world-health-organization-covid-19-transmission"
+    },
+    {
+        "title": "Madagascar president's herbal tonic fails to halt Covid-19 spike",
+        "link": "https://www.bbc.com/news/world-africa-53756752"
     }
 ];

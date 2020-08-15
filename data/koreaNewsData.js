@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020081510260002625?did=NA"
     },
     {
+        "title": "쿠팡 '인천2 배송캠프', 코로나19 확진자 발생…\"즉각 폐쇄\"",
+        "link": "https://www.news1.kr/articles/?4027453"
+    },
+    {
         "title": "[속보]코로나19 신규 확진자 166명...국내발생 155명, 3월11일 이후 최다",
         "link": "https://www.sedaily.com/NewsView/1Z6L77WVIR"
     },
     {
-        "title": "서울 코로나 확진자 74명 중 교회 관련 50명(상보)",
-        "link": "https://view.asiae.co.kr/article/2020081511133252588"
+        "title": "[속보] 쿠팡 인천2배송캠프 폐쇄…코로나19 확진자 발생",
+        "link": "https://www.hankyung.com/society/article/2020081517537"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200814153950"
     },
     {
-        "title": "서울시, 사랑제일교회 교인 4000명에 코로나 검사 명령",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081500741.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "서울 코로나 신규 확진 74명…최다 기록",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081500656.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "수도권 코로나19 재확산…신규 확진자 이틀 연속 100명대",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993083?division=NAVER"
-    },
-    {
-        "title": "코로나19 신규확진 166명중 지역발생 155명…5개월여만 최다",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5874656_32633.html"
     }
 ];
