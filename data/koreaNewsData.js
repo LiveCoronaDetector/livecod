@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6L81MF6I"
     },
     {
-        "title": "사랑제일교회 확진자 하루새 100명 넘게 늘어 \"더 늘어날 것\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/15/2020081500944.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "쿠팡 '인천2 배송캠프', 코로나19 확진자 발생…\"즉각 폐쇄\"",
         "link": "https://www.news1.kr/articles/?4027453"
-    },
-    {
-        "title": "경남 코로나19 확진자 2명 추가…총 166명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200815_0001130846&cID=10812&pID=10800"
     },
     {
         "title": "서울 코로나 신규 확진 74명…최다 기록",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081500656.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 2차 유행오나.... 신규확진자 3월 이후 최대",
-        "link": "https://hankookilbo.com/News/Read/A2020081510260002625?did=NA"
+        "title": "코로나19 어제 166명 신규확진… 지역발생 155명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081508412649811"
     },
     {
         "title": "전광훈 \"집회 때마다 일대일 검진…외부서 코로나 테러 당했다\"",
         "link": "https://news.joins.com/article/olink/23444158"
     },
     {
+        "title": "134명으로 ‘훅’ 늘어난 서울 사랑제일교회 확진자",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014912196&code=61121111&cp=nv"
+    },
+    {
+        "title": "코로나19 수도권 대유행 위기인데…결국 열린 광복절 집회",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008151401001&code=940100"
+    },
+    {
         "title": "\"코로나 걸리지 말라고 '복달임' 대접한 것이 무더기 확진으로\"(종합)",
         "link": "http://yna.kr/AKR20200815027451061?did=1195m"
     },
     {
-        "title": "[전문] 송파구청 추가 확진자 9명 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=376073"
+        "title": "[종합] 코로나19 확진자 166명 증가...지역 155명 중 서울 72명, 경기 67명",
+        "link": "http://www.fnnews.com/news/202008150847061548"
     }
 ];

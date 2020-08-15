@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "Thailand eyes rich expats with ‘coronavirus haven’ visa scheme",
-        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3097476/thailand-eyes-rich-expats-hong-kong-australia-coronavirus"
+        "title": "India coronavirus cases cross 2.5 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
         "title": "Family evacuated from Wuhan compares China and US virus responses",
         "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
     },
     {
-        "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
-        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
-        "title": "Covid-19: French government declares Paris, Marseille high-risk zones",
-        "link": "https://www.youtube.com/watch?v=Db-rEmUxoDY"
+        "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
+        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Europe’s Summer Unravels With Covid Spikes and Travel Chaos",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=edd68240-ded5-11ea-b3f9-1bbc77da97d9&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNC9ldXJvcGUtcy1zdW1tZXItdW5yYXZlbHMtd2l0aC1jb3ZpZC1zcGlrZXMtYW5kLXRyYXZlbC1jaGFvcw=="
     }
 ];
