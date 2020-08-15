@@ -14,7 +14,7 @@ var worldNewsData = [
     },
     {
         "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
-        "link": "https://www.cnn.com/2020/08/13/europe/coronavirus-europe-young-people-cases-spiking-intl/index.html"
+        "link": "https://news.google.com/articles/CAIiENh441grmaU_Fd9P-55EhI0qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "India coronavirus cases cross 2.5 million: Live updates",
@@ -22,22 +22,22 @@ var worldNewsData = [
     },
     {
         "title": "Family evacuated from Wuhan compares China and US virus responses",
-        "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
+        "link": "https://news.google.com/articles/CAIiEHraonR6Apq3lAJ2G4FTLHQqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+        "link": "https://news.google.com/articles/CAIiEG3vfejMk9lU-n8Fs6j-BVoqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
-        "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
-        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
+        "link": "https://news.google.com/articles/CAIiEM5-z0EPD52QfbPsQMbOEb0qFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

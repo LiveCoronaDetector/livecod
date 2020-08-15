@@ -5,16 +5,32 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200814157551504?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008150923001&code=940601"
-    },
-    {
         "title": "코로나19 확진자 발생에 쿠팡 인천2 배송캠프 폐쇄",
         "link": "https://www.sedaily.com/NewsView/1Z6L81MF6I"
     },
     {
+        "title": "쿠팡 '인천2 배송캠프', 코로나19 확진자 발생…\"즉각 폐쇄\"",
+        "link": "https://www.news1.kr/articles/?4027453"
+    },
+    {
+        "title": "코로나 2차 유행오나.... 신규확진자 3월 이후 최대",
+        "link": "https://hankookilbo.com/News/Read/A2020081510260002625?did=NA"
+    },
+    {
+        "title": "경남에서 코로나 2명 발생…누적 확진자 166명으로 늘어",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081512384982592"
+    },
+    {
+        "title": "코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008150923001&code=940601"
+    },
+    {
         "title": "[속보] 서울 오늘 코로나19 신규 확진자 80명",
         "link": "https://www.hankyung.com/society/article/2020081521167"
+    },
+    {
+        "title": "전광훈 목사 \"우리 교회 확진자, 외부 테러 때문\"",
+        "link": "http://www.fnnews.com/news/202008151534408157"
     },
     {
         "title": "사랑제일교회 감염 134명…수도권 교회 확진자 속출",
@@ -23,21 +39,5 @@ var koreaNewsData = [
     {
         "title": "[단독] 지역병원 '의사 감염'…확진자 '장례식장 1박' 확산 비상",
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5875102_32524.html"
-    },
-    {
-        "title": "전광훈 목사 \"우리 교회 확진자, 외부 테러 때문\"",
-        "link": "http://www.fnnews.com/news/202008151534408157"
-    },
-    {
-        "title": "쿠팡 '인천2 배송캠프', 코로나19 확진자 발생…\"즉각 폐쇄\"",
-        "link": "https://www.news1.kr/articles/?4027453"
-    },
-    {
-        "title": "서울 코로나 신규 확진 74명…최다 기록",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081500656.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[종합]경기 20명, 인천 12명, 부산 8명...코로나 확진 오늘만 최소 40명",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/15/2020081500967.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
