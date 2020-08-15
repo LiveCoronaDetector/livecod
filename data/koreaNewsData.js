@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200814157551504?did=1195m"
     },
     {
+        "title": "코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008150923001&code=940601"
+    },
+    {
         "title": "[속보] 서울 오늘 코로나19 신규 확진자 80명",
         "link": "https://www.hankyung.com/society/article/2020081521167"
     },
     {
         "title": "전광훈 목사 \"우리 교회 확진자, 외부 테러 때문\"",
         "link": "http://www.fnnews.com/news/202008151534408157"
-    },
-    {
-        "title": "코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008150923001&code=940601"
     },
     {
         "title": "쿠팡 '인천2 배송캠프', 코로나19 확진자 발생…\"즉각 폐쇄\"",

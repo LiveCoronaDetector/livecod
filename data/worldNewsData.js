@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-53789972"
     },
     {
-        "title": "Canada Says US Border to Remain Closed to Nonessential Travel",
-        "link": "https://www.voanews.com/covid-19-pandemic/canada-says-us-border-remain-closed-nonessential-travel"
+        "title": "India coronavirus cases hit 2.5 million",
+        "link": "https://www.arabnews.com/node/1719811/world"
     },
     {
-        "title": "China says vaccines must have 50 per cent efficacy, last 6 months",
-        "link": "https://www.scmp.com/news/china/science/article/3097512/coronavirus-chinese-regulator-says-vaccines-must-have-50-cent"
+        "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
+        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
-        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
+    },
+    {
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
         "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
-        "link": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjAvMDgvMTUvcm9tbmV5LXNsYW1zLXRydW1wLWFkbWluaXN0cmF0aW9uLW92ZXItdXMtY29yb25hdmlydXMtZGVhdGgtdG9sbC5odG1s0gFpaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjAvMDgvMTUvcm9tbmV5LXNsYW1zLXRydW1wLWFkbWluaXN0cmF0aW9uLW92ZXItdXMtY29yb25hdmlydXMtZGVhdGgtdG9sbC5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
     },
     {
-        "title": "Coronavirus Live Updates: Arizona School District Cancels Reopening",
+        "title": "Coronavirus Live News and Updates",
         "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
-        "link": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Nvcm9uYXZpcnVzLXNodXRkb3ducy1uZWdsaWdpYmxlLWVmZmVjdC1nbG9iYWwtd2FybWluZy1zdHVkedIBXmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Nvcm9uYXZpcnVzLXNodXRkb3ducy1uZWdsaWdpYmxlLWVmZmVjdC1nbG9iYWwtd2FybWluZy1zdHVkeS5hbXA?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
