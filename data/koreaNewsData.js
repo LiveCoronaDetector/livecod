@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6L77WVIR"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008150923001&code=940601"
+        "title": "서울 코로나 확진자 74명 중 교회 관련 50명(상보)",
+        "link": "https://view.asiae.co.kr/article/2020081511133252588"
     },
     {
-        "title": "서울 코로나 신규 확진 74명…최다 기록",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081500656.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008150923001&code=940601"
     },
     {
         "title": "서울 사랑제일교회 발 코로나19 확진자 인천서도 발생",
         "link": "http://yna.kr/AKR20200815019400065?did=1195m"
     },
     {
+        "title": "삼성 화성 반도체 사업장서 코로나 확진자 발생",
+        "link": "https://zdnet.co.kr/view/?no=20200814153950"
+    },
+    {
+        "title": "서울시, 사랑제일교회 교인 4000명에 코로나 검사 명령",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081500741.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "수도권 코로나19 재확산…신규 확진자 이틀 연속 100명대",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993083?division=NAVER"
     },
     {
-        "title": "[단독] 사랑제일교회 목사, 코로나19 의심증상 교인에 \"검사 미뤄라\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008150423009866"
-    },
-    {
         "title": "코로나19 신규확진 166명중 지역발생 155명…5개월여만 최다",
         "link": "https://imnews.imbc.com/news/2020/society/article/5874656_32633.html"
-    },
-    {
-        "title": "서울 신규 확진자 74명 급증…광화문 집회에 확산 우려↑(종합)",
-        "link": "http://www.fnnews.com/news/202008151142507713"
     }
 ];
