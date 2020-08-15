@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Interference in scientific research on COVID-19 in Turkey",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
+        "title": "China to Supply Coronavirus Vaccine to Pakistan",
+        "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
         "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
-        "title": "Family evacuated from Wuhan compares China and US virus responses",
-        "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
+        "title": "China says vaccines must have 50 per cent efficacy, last 6 months",
+        "link": "https://www.scmp.com/news/china/science/article/3097512/coronavirus-chinese-regulator-says-vaccines-must-have-50-cent"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
+        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
+        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     },
     {
         "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
-        "title": "Romney on mail-in voting: 'we want people to vote'",
-        "link": "https://www.youtube.com/watch?v=p9GFiPzAuIc"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
     },
     {
         "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
