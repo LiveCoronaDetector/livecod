@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Italy Imposes Mandatory Covid-19 Testing On All Arrivals From Greece",
-        "link": "https://greekcitytimes.com/2020/08/14/italy-imposes-mandatory-covid-19-testing-on-all-arrivals-from-greece/"
+        "title": "France infections accelerate; Spain to close nightclubs and ban public smoking – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/aug/14/coronavirus-live-news-france-says-uk-quarantine-will-lead-to-reciprocal-measures-as-global-deaths-pass-750000"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
+        "title": "LIVE: New coronavirus cases in France top 2,500 for third day",
+        "link": "https://www.aljazeera.com/news/2020/08/uk-adds-france-netherlands-quarantine-list-coronavirus-live-200814003230439.html"
     },
     {
         "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
+        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "California Becomes First State to Report 600,000 Coronavirus Cases",
-        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     }
 ];

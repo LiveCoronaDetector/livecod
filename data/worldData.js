@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5475590,
-        "사망자수": 171496,
-        "완치자수": 2868271
+        "확진자수": 5476165,
+        "사망자수": 171531,
+        "완치자수": 2875085
     },
     {
         "Name": "브라질",
@@ -188,9 +188,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 121568,
+        "확진자수": 121652,
         "사망자수": 9020,
-        "완치자수": 107910
+        "완치자수": 107942
     },
     {
         "Name": "카타르",
@@ -1449,12 +1449,28 @@ var marker = [
         "완치자수": 202
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "확진자수": 166,
+        "사망자수": 0,
+        "완치자수": 64
+    },
+    {
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
         "확진자수": 159,
         "사망자수": 9,
         "완치자수": 145
+    },
+    {
+        "Name": "Barbados",
+        "Name_ch": "",
+        "Name_en": "Barbados",
+        "확진자수": 148,
+        "사망자수": 7,
+        "완치자수": 119
     },
     {
         "Name": "모나코",
@@ -1465,14 +1481,6 @@ var marker = [
         "완치자수": 114
     },
     {
-        "Name": "Barbados",
-        "Name_ch": "",
-        "Name_en": "Barbados",
-        "확진자수": 144,
-        "사망자수": 7,
-        "완치자수": 118
-    },
-    {
         "Name": "Brunei",
         "Name_ch": "",
         "Name_en": "Brunei",
@@ -1481,18 +1489,10 @@ var marker = [
         "완치자수": 138
     },
     {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "확진자수": 139,
-        "사망자수": 0,
-        "완치자수": 64
-    },
-    {
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "확진자수": 128,
+        "확진자수": 131,
         "사망자수": 0,
         "완치자수": 100
     },
@@ -1505,20 +1505,20 @@ var marker = [
         "완치자수": 126
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "확진자수": 109,
+        "사망자수": 4,
+        "완치자수": 49
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
         "확진자수": 93,
         "사망자수": 3,
         "완치자수": 83
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "확진자수": 92,
-        "사망자수": 4,
-        "완치자수": 45
     },
     {
         "Name": "리히텐슈타인",
@@ -1654,7 +1654,7 @@ var marker = [
         "Name_en": "St. Barth",
         "확진자수": 13,
         "사망자수": 0,
-        "완치자수": 8
+        "완치자수": 9
     },
     {
         "Name": "Vatican City",
