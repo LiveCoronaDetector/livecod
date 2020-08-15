@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/coronavirus-digest-germany-issues-fresh-warning-over-travel-to-spain/a-54562496"
     },
     {
-        "title": "LIVE: New coronavirus cases in France top 2,500 for third day",
-        "link": "https://www.aljazeera.com/news/2020/08/uk-adds-france-netherlands-quarantine-list-coronavirus-live-200814003230439.html"
+        "title": "Thailand eyes rich expats with ‘coronavirus haven’ visa scheme",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3097476/thailand-eyes-rich-expats-hong-kong-australia-coronavirus"
     },
     {
         "title": "Family evacuated from Wuhan compares China and US virus responses",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "California Becomes First State to Report 600,000 Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
     },
     {
-        "title": "Should You Worry About COVID-19 on Food? WHO Says No.",
-        "link": "https://www.eater.com/2020/8/14/21368928/can-i-get-coronavirus-from-food-world-health-organization-covid-19-transmission"
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     }
 ];
