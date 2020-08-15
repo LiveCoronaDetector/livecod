@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/15/latest_news/1597473027_046681.html"
     },
     {
-        "title": "Coronavirus update: ‘No way to spin that,’ Romney says of U.S. deaths, blaming Trump administration",
-        "link": "https://www.washingtonpost.com/nation/2020/08/15/coronavirus-covid-updates/"
+        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
+        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
         "title": "Coronavirus, Israel, Animal Tears: Your Thursday Evening Briefing",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
     }
 ];
