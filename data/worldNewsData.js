@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Europe’s Summer Unravels With Covid Spikes and Travel Chaos",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0db82470-deda-11ea-aade-5d15c66488a9&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNC9ldXJvcGUtcy1zdW1tZXItdW5yYXZlbHMtd2l0aC1jb3ZpZC1zcGlrZXMtYW5kLXRyYXZlbC1jaGFvcw=="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=549f8d70-dede-11ea-bcce-b365eee04aaa&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNC9ldXJvcGUtcy1zdW1tZXItdW5yYXZlbHMtd2l0aC1jb3ZpZC1zcGlrZXMtYW5kLXRyYXZlbC1jaGFvcw=="
     }
 ];

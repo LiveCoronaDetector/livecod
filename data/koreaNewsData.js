@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23444158"
     },
     {
-        "title": "[속보] 오후 2시 기준 서울 사랑제일교회 확진자 134명으로 급증",
-        "link": "https://www.hankyung.com/society/article/2020081519687"
+        "title": "수도권 교회, 코로나 무더기 확진…용인 우리제일교회 105명",
+        "link": "https://www.hankyung.com/society/article/2020081519377"
     },
     {
-        "title": "134명으로 ‘훅’ 늘어난 전광훈의 사랑제일교회 확진자",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014912196&code=61121111&cp=nv"
+        "title": "[속보] 오후 2시 기준 서울 사랑제일교회 확진자 134명으로 급증",
+        "link": "https://www.hankyung.com/society/article/2020081519687"
     },
     {
         "title": "\"코로나 걸리지 말라고 '복달임' 대접한 것이 무더기 확진으로\"(종합)",
         "link": "http://yna.kr/AKR20200815027451061?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008150923001&code=940601"
+        "title": "(속보) 서울 오늘 코로나19 신규 확진자 80명",
+        "link": "https://www.sedaily.com/NewsView/1Z6L9KCZUK"
     },
     {
-        "title": "경남에서 코로나 2명 발생…누적 확진자 166명으로 늘어",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081512384982592"
+        "title": "코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008150923001&code=940601"
     }
 ];
