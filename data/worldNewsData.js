@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Interference in scientific research on COVID-19 in Turkey",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
+        "title": "China to Supply Coronavirus Vaccine to Pakistan",
+        "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "Spain bans public smoking, France eyes new rules as COVID cases surge",
-        "link": "https://www.cbsnews.com/news/coronavirus-spain-bans-public-smoking-closes-discos-france-eyes-restrictions-as-covid-cases-surge/"
+        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
+        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
         "title": "India coronavirus cases cross 2.5 million: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
-        "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
-        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
+        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     }
 ];

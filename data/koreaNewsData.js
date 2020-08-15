@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008150100&t=NN"
     },
     {
-        "title": "[단독] 지역병원 '의사 감염'…확진자 '장례식장 1박' 확산 비상",
-        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5875102_32524.html"
-    },
-    {
         "title": "서울시 “15일 서울지역 코로나19 신규 확진자 80명”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081501183.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[단독] 지역병원 '의사 감염'…확진자 '장례식장 1박' 확산 비상",
+        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5875102_32524.html"
     },
     {
         "title": "일본 코로나 신규 확진 1천232명…사흘 연속 1천명 웃돌아(종합)",
