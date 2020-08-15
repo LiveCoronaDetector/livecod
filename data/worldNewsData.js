@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
-        "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
-        "link": "https://news.google.com/articles/CAIiENh441grmaU_Fd9P-55EhI0qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
+        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
         "title": "India coronavirus cases cross 2.5 million: Live updates",
@@ -22,11 +22,11 @@ var worldNewsData = [
     },
     {
         "title": "Family evacuated from Wuhan compares China and US virus responses",
-        "link": "https://news.google.com/articles/CAIiEHraonR6Apq3lAJ2G4FTLHQqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
     },
     {
         "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://news.google.com/articles/CAIiEG3vfejMk9lU-n8Fs6j-BVoqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     },
     {
         "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
-        "link": "https://news.google.com/articles/CAIiEM5-z0EPD52QfbPsQMbOEb0qFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     }
 ];
