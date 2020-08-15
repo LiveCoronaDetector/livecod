@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5474072,
-        "사망자수": 171454,
-        "완치자수": 2867004
+        "확진자수": 5475590,
+        "사망자수": 171496,
+        "완치자수": 2868271
     },
     {
         "Name": "브라질",
@@ -276,9 +276,9 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 78446,
-        "사망자수": 1722,
-        "완치자수": 52210
+        "확진자수": 79402,
+        "사망자수": 1734,
+        "완치자수": 52886
     },
     {
         "Name": "벨기에",
@@ -937,20 +937,20 @@ var marker = [
         "완치자수": 2658
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "확진자수": 2838,
+        "사망자수": 41,
+        "완치자수": 1894
+    },
+    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
         "확진자수": 2801,
         "사망자수": 31,
         "완치자수": 1944
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "확진자수": 2761,
-        "사망자수": 40,
-        "완치자수": 1830
     },
     {
         "Name": "Mozambique",
@@ -1305,6 +1305,14 @@ var marker = [
         "완치자수": 450
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "확진자수": 446,
+        "사망자수": 14,
+        "완치자수": 289
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
@@ -1332,23 +1340,15 @@ var marker = [
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "확진자수": 369,
+        "확진자수": 374,
         "사망자수": 6,
-        "완치자수": 321
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "확진자수": 367,
-        "사망자수": 14,
-        "완치자수": 289
+        "완치자수": 322
     },
     {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "확진자수": 362,
+        "확진자수": 365,
         "사망자수": 0,
         "완치자수": 225
     },
@@ -1436,7 +1436,7 @@ var marker = [
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "확진자수": 205,
+        "확진자수": 206,
         "사망자수": 0,
         "완치자수": 188
     },

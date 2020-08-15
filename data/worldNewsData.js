@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "'The death toll would be enormous,' Fauci says of herd immunity to coronavirus in the U.S.",
-        "link": "https://www.cnbc.com/2020/08/13/the-death-toll-would-be-enormous-fauci-says-of-herd-immunity-to-coronavirus-in-the-us.html"
+        "title": "Any attempt to get coronavirus herd immunity would lead to massive death tolls, Fauci warns",
+        "link": "https://www.cnn.com/2020/08/14/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://greekcitytimes.com/2020/08/14/italy-imposes-mandatory-covid-19-testing-on-all-arrivals-from-greece/"
     },
     {
-        "title": "LIVE: New coronavirus cases in France top 2,500 for third day",
-        "link": "https://www.aljazeera.com/news/2020/08/uk-adds-france-netherlands-quarantine-list-coronavirus-live-200814003230439.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-14-20-intl/index.html"
     },
     {
         "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
+    },
+    {
+        "title": "Dr. Scott Atlas responds to CNN anchor after Trump taps him as new coronavirus adviser",
+        "link": "https://www.foxnews.com/media/scott-atlas-brianna-keilar-cnn-coronavirus-adviser"
     },
     {
         "title": "Coronavirus Live Updates: Firm Helping Run Federal Database Refuses Senators’ Questions",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Covid-19 new travelling rules: Travellers from Croatia, Greece, Malta, Spain arriving in Italy to be...",
-        "link": "https://www.hindustantimes.com/travel/covid-19-travellers-from-croatia-greece-malta-spain-arriving-in-italy-to-be-tested-for-coronavirus/story-nFFm7pgVvgr4G2N7aNNctI.html"
-    },
-    {
-        "title": "Coronavirus in Europe: Infections surge in France, Germany and Spain",
-        "link": "https://www.bbc.com/news/world-europe-53747852"
+        "title": "California Becomes First State to Report 600,000 Coronavirus Cases",
+        "link": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html"
     }
 ];
