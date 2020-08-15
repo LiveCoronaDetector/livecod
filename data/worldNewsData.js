@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why"
     },
     {
-        "title": "Ryan Reynolds Urges 'Young Folks' in Canada to Stop Partying amid COVID-19 Pandemic: 'Don't Kill My Mom'",
-        "link": "https://people.com/movies/ryan-reynolds-urges-young-folks-to-stop-partying-amid-covid-19-pandemic/"
+        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
+        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
         "title": "Interference in scientific research on COVID-19 in Turkey",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-spain-bans-public-smoking-closes-discos-france-eyes-restrictions-as-covid-cases-surge/"
     },
     {
-        "title": "Modi says India set to mass produce COVID-19 vaccine, launches digital health mission",
-        "link": "https://www.reuters.com/article/us-india-independenceday/modi-says-india-set-to-mass-produce-covid-19-vaccine-launches-health-mission-idUSKCN25B07W"
+        "title": "India coronavirus cases cross 2.5 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
         "title": "Family evacuated from Wuhan compares China and US virus responses",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
-    },
-    {
         "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     }
 ];
