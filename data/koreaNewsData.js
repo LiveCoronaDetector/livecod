@@ -13,14 +13,6 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020081521167"
     },
     {
-        "title": "서울시 “15일 서울지역 코로나19 신규 확진자 80명”",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081501183.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "일본 코로나 신규 확진 1천232명…사흘 연속 1천명 웃돌아(종합)",
-        "link": "http://yna.kr/AKR20200815057351073?did=1195m"
-    },
-    {
         "title": "전광훈 목사 \"우리 교회 확진자, 외부 테러 때문\"",
         "link": "http://www.fnnews.com/news/202008151534408157"
     },
@@ -31,6 +23,14 @@ var koreaNewsData = [
     {
         "title": "쿠팡 '인천2 배송캠프', 코로나19 확진자 발생…\"즉각 폐쇄\"",
         "link": "https://www.news1.kr/articles/?4027453"
+    },
+    {
+        "title": "서울시 “15일 서울지역 코로나19 신규 확진자 80명”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081501183.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "일본 코로나 신규 확진 1천232명…사흘 연속 1천명 웃돌아(종합)",
+        "link": "http://yna.kr/AKR20200815057351073?did=1195m"
     },
     {
         "title": "서울 코로나19 신규확진 74명 발생…최다기록",

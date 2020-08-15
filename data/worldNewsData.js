@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     },
     {
+        "title": "Romney on mail-in voting: 'we want people to vote'",
+        "link": "https://www.youtube.com/watch?v=p9GFiPzAuIc"
+    },
+    {
         "title": "Climate study says extended global COVID-19 shutdowns will have 'negligible' impact on temperatures",
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
-    },
-    {
-        "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
-        "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     }
 ];
