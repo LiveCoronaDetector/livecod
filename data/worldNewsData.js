@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
+        "title": "Aged care rapid response units to prevent escalation of COVID-19 crisis",
+        "link": "https://www.youtube.com/watch?v=tuGd80WGmQY"
+    },
+    {
         "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
         "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
         "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
-    },
-    {
-        "title": "Europe’s Summer Unravels With Covid Spikes and Travel Chaos",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=549f8d70-dede-11ea-bcce-b365eee04aaa&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNC9ldXJvcGUtcy1zdW1tZXItdW5yYXZlbHMtd2l0aC1jb3ZpZC1zcGlrZXMtYW5kLXRyYXZlbC1jaGFvcw=="
     }
 ];
