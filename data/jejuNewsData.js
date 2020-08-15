@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424910"
     },
     {
-        "title": "제주 25번째 확진자, 입원 28일 만에 코로나19 완치",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4517717&ref=A"
-    },
-    {
         "title": "[장애공감 제주사회]코로나19에 더 위험한 신장장애인",
         "link": "https://www.nocutnews.co.kr/news/5394961"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "'전광훈 교회' 신도 5명 코로나19 확진에도 15일 광화문집회 강행",
         "link": "http://www.gobalnews.com/news/articleView.html?idxno=30739"
+    },
+    {
+        "title": "'퐁당퐁당' 확산세…비수도권, 코로나19 다시 꿈틀",
+        "link": "https://www.news1.kr/articles/?4023522"
     }
 ];

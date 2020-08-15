@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
     },
     {
+        "title": "Live Covid-19 Tracker and Updates",
+        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
+    },
+    {
         "title": "Climate study says global COVID-19 shutdowns will have 'negligible' impact on temperatures",
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Should You Worry About COVID-19 on Food? WHO Says No.",
         "link": "https://www.eater.com/2020/8/14/21368928/can-i-get-coronavirus-from-food-world-health-organization-covid-19-transmission"
-    },
-    {
-        "title": "Madagascar president's herbal tonic fails to halt Covid-19 spike",
-        "link": "https://www.bbc.com/news/world-africa-53756752"
     }
 ];
