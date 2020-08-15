@@ -10,11 +10,11 @@ var worldNewsData = [
     },
     {
         "title": "China to Supply Coronavirus Vaccine to Pakistan",
-        "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
+        "link": "https://news.google.com/articles/CAIiEIzJQJp8dXFB5BYGNSVPPPAqGAgEKg8IACoHCAow1tzJATDnyxUwxMrPBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "France infections accelerate; Spain to close nightclubs and ban public smoking – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/aug/14/coronavirus-live-news-france-says-uk-quarantine-will-lead-to-reciprocal-measures-as-global-deaths-pass-750000"
+        "title": "Coronavirus digest: Germany issues fresh warning over travel to Spain",
+        "link": "https://www.dw.com/en/coronavirus-digest-germany-issues-fresh-warning-over-travel-to-spain/a-54562496"
     },
     {
         "title": "LIVE: New coronavirus cases in France top 2,500 for third day",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
-        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
-        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
+        "title": "Covid-19: French government declares Paris, Marseille high-risk zones",
+        "link": "https://news.google.com/articles/CCAiC0RiLXJFbVV4b0RZmAEB?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
-        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
+        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
+        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     }
 ];

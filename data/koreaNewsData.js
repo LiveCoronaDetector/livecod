@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081500467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 166명...국내발생 155명, 3월11일 이후 최다",
-        "link": "https://www.sedaily.com/NewsView/1Z6L77WVIR"
-    },
-    {
         "title": "[종합] 코로나19 확진자 166명 증가...지역 155명 중 서울 72명, 경기 67명",
         "link": "http://www.fnnews.com/news/202008150847061548"
     },
@@ -21,12 +17,16 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200814153950"
     },
     {
-        "title": "서울 코로나19 확진자 58명 발생…'역대 최다'",
-        "link": "https://www.nocutnews.co.kr/news/5395370"
+        "title": "[속보] 코로나19 신규 확진자 166명...'수도권 대유행' 조짐",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008150923001&code=940601"
     },
     {
-        "title": "수도권 코로나19 폭발적 증가 '비상'…하루새 최소 158명 확진(종합)",
-        "link": "http://yna.kr/AKR20200814183151530?did=1195m"
+        "title": "서울 사랑제일교회 발 코로나19 확진자 인천서도 발생",
+        "link": "http://yna.kr/AKR20200815019400065?did=1195m"
+    },
+    {
+        "title": "서울 코로나19 확진자 58명 발생…'역대 최다'",
+        "link": "https://www.nocutnews.co.kr/news/5395370"
     },
     {
         "title": "비씨카드 본사서 코로나19 확진자 나와…건물 폐쇄",
