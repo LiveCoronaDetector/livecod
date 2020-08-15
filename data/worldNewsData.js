@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/chinato-supply-coronavirus-vaccine-to-pakistan-11597337780"
     },
     {
-        "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
-        "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
+        "title": "Coronavirus: France quarantine starts after race to beat deadline",
+        "link": "https://www.bbc.com/news/uk-53789972"
     },
     {
         "title": "Global coronavirus caseload exceeds 21 million: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
     },
     {
-        "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
-        "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
+        "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
+        "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
     }
 ];
