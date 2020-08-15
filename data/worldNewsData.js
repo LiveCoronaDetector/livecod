@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
-        "title": "Coronavirus live news: theatres, casinos and bowling alleys reopen in England as South Korea reports a spike in cases",
-        "link": "https://www.theguardian.com/world/live/2020/aug/15/coronavirus-live-news-victoria-in-australia-adds-303-cases-as-restrictions-tighten-in-europe"
+        "title": "Young people are driving a second, less-deadly surge of Covid-19 cases in Europe",
+        "link": "https://www.cnn.com/2020/08/13/europe/coronavirus-europe-young-people-cases-spiking-intl/index.html"
     },
     {
         "title": "India coronavirus cases cross 2.5 million: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
-        "title": "Vic records another 264 'mystery cases'",
-        "link": "https://www.youtube.com/watch?v=CBNO2Zy7cGI"
+        "title": "Family evacuated from Wuhan compares China and US virus responses",
+        "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
     },
     {
         "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/coronavirus-shutdowns-negligible-effect-global-warming-study"
     },
     {
-        "title": "Coronavirus: Australia's Aged Care Deaths Rise in Victoria",
-        "link": "https://www.youtube.com/watch?v=FLbJleMg1ts"
-    },
-    {
         "title": "Firm Helping Run U.S. Coronavirus Database Refuses Senators’ Questions",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     }
 ];
