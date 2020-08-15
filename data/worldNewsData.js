@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/15/latest_news/1597473027_046681.html"
     },
     {
-        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
-        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
+        "title": "Coronavirus update: ‘No way to spin that,’ Romney says of U.S. deaths, blaming Trump administration",
+        "link": "https://www.washingtonpost.com/nation/2020/08/15/coronavirus-covid-updates/"
     },
     {
-        "title": "Interference in scientific research on COVID-19 in Turkey",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
+        "title": "Coronavirus, Israel, Animal Tears: Your Thursday Evening Briefing",
+        "link": "https://www.nytimes.com/2020/08/13/briefing/coronavirus-israel-animal-tears.html"
     },
     {
         "title": "Coronavirus: France quarantine starts after race to beat deadline",
         "link": "https://www.bbc.com/news/uk-53789972"
     },
     {
-        "title": "Coronavirus: South Africa eases lockdown as 'outbreak reaches peak'",
-        "link": "https://www.bbc.com/news/world-africa-53795339"
+        "title": "South Africa to ease coronavirus restrictions: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
         "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
