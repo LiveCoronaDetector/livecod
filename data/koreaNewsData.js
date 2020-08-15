@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020081510260002625?did=NA"
     },
     {
-        "title": "수도권 코로나19 재확산…신규 확진자 이틀 연속 100명대",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993083?division=NAVER"
+        "title": "[속보] 코로나19 확진 166명 늘어…지역사회 감염만 155명",
+        "link": "http://www.hani.co.kr/arti/society/health/957901.html"
     },
     {
-        "title": "코로나19 신규확진 166명…서울·경기가 대부분",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4517884&ref=A"
+        "title": "수도권 코로나19 재확산…신규 확진자 이틀 연속 100명대",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993083?division=NAVER"
     }
 ];

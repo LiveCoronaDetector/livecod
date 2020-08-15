@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-53789972"
     },
     {
-        "title": "India coronavirus cases hit 2.5 million",
-        "link": "https://www.arabnews.com/node/1719811/world"
+        "title": "Coronavirus: South Africa eases lockdown as 'outbreak reaches peak'",
+        "link": "https://www.bbc.com/news/world-africa-53795339"
     },
     {
         "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
