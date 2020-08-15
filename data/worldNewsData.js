@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/uk-adds-france-netherlands-quarantine-list-coronavirus-live-200814003230439.html"
     },
     {
-        "title": "Chinese cities find coronavirus in frozen food imports, WHO downplays infection risk",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-food/chinese-cities-find-coronavirus-in-frozen-food-imports-who-downplays-infection-risk-idUSKCN259330"
-    },
-    {
-        "title": "Dr. Scott Atlas responds to CNN anchor after Trump taps him as new coronavirus adviser",
-        "link": "https://www.foxnews.com/media/scott-atlas-brianna-keilar-cnn-coronavirus-adviser"
+        "title": "Family evacuated from Wuhan compares China and US virus responses",
+        "link": "https://www.cnn.com/videos/us/2020/08/14/family-compares-us-china-coronavirus-response-crn-vpx.cnn"
     },
     {
         "title": "Coronavirus Live Updates: Firm Helping Run Federal Database Refuses Senators’ Questions",
         "link": "https://www.nytimes.com/2020/08/14/world/covid-19-coronavirus.html"
     },
     {
+        "title": "Covid-19: French government declares Paris, Marseille high-risk zones",
+        "link": "https://www.youtube.com/watch?v=Db-rEmUxoDY"
+    },
+    {
         "title": "'We're at a critical moment': Spain sees coronavirus cases surge again",
         "link": "https://www.theguardian.com/world/2020/aug/14/spain-coronavirus-new-cases"
     },
     {
-        "title": "Covid-19: French government declares Paris, Marseille high-risk zones",
-        "link": "https://www.youtube.com/watch?v=Db-rEmUxoDY"
+        "title": "New Zealand was acclaimed a world leader in handling Covid-19. Now it's dealing with a fresh outbreak",
+        "link": "https://www.cnn.com/2020/08/13/asia/new-zealand-cases-coronavirus-intl-hnk/index.html"
     }
 ];
