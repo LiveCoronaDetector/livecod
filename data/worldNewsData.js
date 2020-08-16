@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53795339"
     },
     {
-        "title": "Coronavirus update: ‘No way to spin that,’ Romney says of U.S. deaths, blaming Trump administration",
-        "link": "https://www.washingtonpost.com/nation/2020/08/15/coronavirus-covid-updates/"
+        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
+        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Coronavirus, Israel, Animal Tears: Your Thursday Evening Briefing",
-        "link": "https://www.nytimes.com/2020/08/13/briefing/coronavirus-israel-animal-tears.html"
+        "title": "New coronavirus cases at 230; 3 deaths | News | ekathimerini.com",
+        "link": "https://www.ekathimerini.com/255909/article/ekathimerini/news/new-coronavirus-cases-at-230-3-deaths"
     },
     {
         "title": "Coronavirus: France quarantine starts after race to beat deadline",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
     },
     {
-        "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
-        "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     }
 ];
