@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "New coronavirus cases at 230; 3 deaths | News | ekathimerini.com",
-        "link": "https://www.ekathimerini.com/255909/article/ekathimerini/news/new-coronavirus-cases-at-230-3-deaths"
+        "title": "Coronavirus in Israel: Skies opening, gatherings expanding on Sunday",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-govt-approves-between-10-20-people-in-restaurants-shuls-638654"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
-        "title": "Coronavirus live news: Australia 'close to vaccine deal', England scraps public health agency",
-        "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
+        "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
+        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
-        "title": "Aged care facilities in Victoria call on ADF assistance amid unfolding crisis",
-        "link": "https://www.youtube.com/watch?v=rrDgtYizRsk"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
+        "title": "NBA, Yale land the COVID testing breakthrough the NFL (and the general U.S. public) has been hoping for",
+        "link": "https://sports.yahoo.com/the-nba-and-yale-just-landed-the-covid-testing-breakthrough-the-nfl-and-everyone-else-in-the-us-has-been-hoping-for-183335566.html"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "WATCH | Tobacco ban lifted, alcohol sales restricted under lockdown Level 2",
+        "link": "https://www.youtube.com/watch?v=AoX4XBwhSaU"
     }
 ];
