@@ -6,15 +6,15 @@ var worldNewsData = [
     },
     {
         "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
-        "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
+        "link": "https://news.google.com/articles/CAIiECE8639Hcc1XAw4owOiFxNMqGQgEKhAIACoHCAowocv1CjCSptoCMNHPpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Interference in scientific research on COVID-19 in Turkey",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
+        "title": "Coronavirus live: Israel waives quarantine for arrivals from 20 countries",
+        "link": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LmhhYXJldHouY29tL2lzcmFlbC1uZXdzL2Nvcm9uYXZpcnVzLWNvdmlkLWlzcmFlbC10cmF2ZWwtd2VzdC1iYW5rLXBhbGVzdGluaWFucy0xLjkwNzYyNjjSAWhodHRwczovL3d3dy5oYWFyZXR6LmNvbS9hbXAvaXNyYWVsLW5ld3MvY29yb25hdmlydXMtY292aWQtaXNyYWVsLXRyYXZlbC13ZXN0LWJhbmstcGFsZXN0aW5pYW5zLTEuOTA3NjI2OA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live: New Zealand election to be delayed due to virus; Amazon investigated in Germany over lockdown price controls",
-        "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
+        "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
+        "link": "https://www.nbcnews.com/news/world/germany-mistakenly-neglects-tell-949-travelers-they-have-coronavirus-n1236892"
     },
     {
         "title": "South Africa to ease coronavirus restrictions: Live updates",
@@ -22,22 +22,22 @@ var worldNewsData = [
     },
     {
         "title": "South Korea Warns of Another Covid-19 Outbreak Tied to a Church",
-        "link": "https://www.nytimes.com/2020/08/16/world/asia/coronavirus-south-korea-church-sarang-jeil.html"
+        "link": "https://news.google.com/articles/CAIiEICHFa5pSeGyQnh4n3HcHv4qFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9uZy1pbnRlcmFjdGl2ZS8yMDIwL2F1Zy8xNi9jb3ZpZC12YWNjaW5lLXRyYWNrZXItd2hlbi13aWxsLXdlLWhhdmUtYS1jb3JvbmF2aXJ1cy12YWNjaW5l0gEA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
-        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+        "link": "https://news.google.com/articles/CAIiEKrPBqsy18_AWAAZ7IvctSwqFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: global daily case tally tops record high",
-        "link": "https://www.scmp.com/news/world/article/3097583/coronavirus-global-daily-case-tally-tops-record-high-countries-battle"
+        "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
+        "link": "https://news.google.com/articles/CAIiECjJKrgOF6Etl5MCEkN7MW8qFwgEKg8IACoHCAow-ZzLBzD77Ecwm8B5?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+        "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
+        "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     }
 ];

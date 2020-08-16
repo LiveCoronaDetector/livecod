@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005933687&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[종합]\"하나님 까불면 나한테 죽어\" '확진자 폭증' 전광훈 누구…재수감 청원...",
-        "link": "https://view.asiae.co.kr/article/2020081707182748318"
-    },
-    {
         "title": "쿠팡 \"인천2배송캠프 코로나19 추가 확진자 0명\"",
         "link": "http://news.tf.co.kr/read/economy/1807371.htm"
     },
     {
         "title": "[속보] 서울시 \"사랑제일교회 확진자 193명…전광훈 고발\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008160055&t=NN"
+    },
+    {
+        "title": "러시아산 코로나 백신, “10월 실내감염 공포 때문에 서둘러”",
+        "link": "https://weekly.donga.com/3/all/11/2151282/1"
     }
 ];
