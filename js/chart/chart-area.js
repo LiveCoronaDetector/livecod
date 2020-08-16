@@ -664,24 +664,17 @@ var myLineChart = new Chart(ctx_five, {
 });
 
 
-var 한국누적_확진 = [];
-var 한국누적_날짜 = [];
-
-for (var i = 0; i < koreaRegionalCumulativeData.length; i++) {
-  한국누적_날짜.push(koreaRegionalCumulativeData[i][0]);
-  한국누적_확진.push(koreaRegionalCumulativeData[i][1]);
-}
 
 var ctx_six = document.getElementById("myAreaChart_six");
 var myChart = new Chart(ctx_six, {
   type: "line",
   data: {
-    labels: 한국누적_날짜,
+    labels: koreaRegionalCumulativeData_날짜_Array,
     datasets: [
       {
         label: "한국 누적 확진자",
         borderColor: ["rgba(255, 99, 132, 1)"],
-        data: 한국누적_확진
+        data: koreaRegionalCumulativeData_확진자_Array
       }
     ]
   },
@@ -814,6 +807,7 @@ var myLineChart = new Chart(ctx_전일대비그래프, {
 });
 
 
+moment.locale("ko");
 const totalLength = koreaRegionalCumulativeData_날짜_Array.length;
 var lastDate = moment(koreaRegionalCumulativeData_날짜_Array[totalLength - 1] + "/2020", "MM DD YYYY");
 var start = moment().subtract(29, 'days');
