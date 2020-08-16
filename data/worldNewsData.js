@@ -6,38 +6,38 @@ var worldNewsData = [
     },
     {
         "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
-        "link": "https://news.google.com/articles/CAIiECE8639Hcc1XAw4owOiFxNMqGQgEKhAIACoHCAowocv1CjCSptoCMNHPpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
         "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
-        "link": "https://news.google.com/articles/CAIiENDSoJK4CyVmvpAtMJ1oEBwqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "France, South Korea see resurgence of coronavirus cases: Live",
-        "link": "https://news.google.com/articles/CAIiEPYBSRvZGZao20Rs0WT0a7QqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "South Africa to ease coronavirus restrictions: Live updates",
-        "link": "https://news.google.com/articles/CAIiEF1geWFrU7UylhIYPvKV15kqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
     },
     {
         "title": "Coronavirus live news: France set to announce new measures; New Zealand active cases rise to 69",
-        "link": "https://news.google.com/articles/CAIiEAfsXD7ct15KfivbZ7Ljc5wqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
+    },
+    {
+        "title": "South Africa to ease coronavirus restrictions: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
+    },
+    {
+        "title": "New Zealand coalition partner calls for vote delay due to COVID-19",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-newzealand-vote/new-zealand-coalition-partner-calls-for-vote-delay-due-to-covid-19-idUSKCN25C073"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9uZy1pbnRlcmFjdGl2ZS8yMDIwL2F1Zy8xNi9jb3ZpZC12YWNjaW5lLXRyYWNrZXItd2hlbi13aWxsLXdlLWhhdmUtYS1jb3JvbmF2aXJ1cy12YWNjaW5l0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
     },
     {
-        "title": "Rising R number casts cloud over Northern Ireland’s Covid success",
-        "link": "https://www.theguardian.com/world/2020/aug/16/rising-r-number-casts-cloud-over-northern-irelands-covid-success"
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://news.google.com/articles/CAIiEG3vfejMk9lU-n8Fs6j-BVoqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "New Zealand investigates a mystery: Where did its new coronavirus cases come from?",
+        "link": "https://www.mprnews.org/story/2020/08/15/npr-new-zealand-investigates-a-mystery-where-did-its-new-cases-come-from"
     }
 ];
