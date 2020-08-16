@@ -419,6 +419,10 @@
                 </div>
                 <!-- Card Body -->
                 <div class="card-body">
+                  <div id="reportrange" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc; width: 100%">
+                    <i class="fa fa-calendar"></i>&nbsp;
+                    <span></span> <i class="fa fa-caret-down"></i>
+                  </div>
                   <div class="chart-area" style="height:23rem;">
                     <div class="korea_chart_tags">
                       <span class="tag_01">전일대비</span>
@@ -442,7 +446,7 @@
                 </div>
                 <!-- Card Body -->
                 <div class="card-body">
-                  <div class="chart-area" style="height:23rem;">
+                  <div class="chart-area" style="height:25rem;">
                     <div class="korea_chart_tags">
                       <span class="tag_01">확진자수</span>
                       <span class="tag_02">사망자수</span>
@@ -1800,6 +1804,11 @@
   <script src="vendor/chart.js/Chart.min.js"></script>
   <!-- 차트를 그리고 싶으시면 아래 파일을 참고해주세요. -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+  <!-- date range picker -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+  
   <script src="js/chart/chart-area.js"></script>
   <script src="js/chart/top15Countries.js"></script>
   <script src="js/chart/chart-bar.js"></script>
