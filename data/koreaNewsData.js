@@ -5,24 +5,32 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/16/2020081600283.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "\"코로나 저지에 범국가역량 총동원…방역방해 엄단\"(종합)",
-        "link": "http://yna.kr/AKR20200816031651001?did=1195m"
-    },
-    {
         "title": "[속보] 서울시 \"사랑제일교회 확진자 193명…전광훈 고발\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008160055&t=NN"
     },
     {
-        "title": "[종합] 코로나19 확진자 279명 증가...지역 267명 중 서울 141명, 경기 96명",
-        "link": "http://www.fnnews.com/news/202008161016344358"
+        "title": "\"코로나 저지에 범국가역량 총동원…방역방해 엄단\"(종합)",
+        "link": "http://yna.kr/AKR20200816031651001?did=1195m"
     },
     {
         "title": "[단독] 대구서 44일만에 확진자 첫 발생... 친척집에 다녀간 서울 사람",
         "link": "https://hankookilbo.com/News/Read/A2020081608470004266?did=NA"
     },
     {
+        "title": "[속보] 롯데월드, 코로나19 확진자 방문에 ‘긴급 폐장’",
+        "link": "http://www.kukinews.com/newsView/kuk202008160060"
+    },
+    {
         "title": "수도권 대유행 현실로…하루 코로나19 확진자 279명(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01298886625867976"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 279명 증가...지역 267명 중 서울 141명, 경기 96명",
+        "link": "http://www.fnnews.com/news/202008161016344358"
+    },
+    {
+        "title": "서울시 “사랑제일교회 코로나19 확진자 전국 193명”",
+        "link": "https://www.sedaily.com/NewsView/1Z6LNQ5YXK"
     },
     {
         "title": "문 대통령 “일부 교회, 코로나 국가방역에 도전... 용서할 수 없다”",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "김포 코로나19 확진자 2박 3일 제주여행",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
-    },
-    {
-        "title": "쿠팡, 인천2 배송캠프 폐쇄…코로나19 확진자 발생",
-        "link": "https://zdnet.co.kr/view/?no=20200816000915"
-    },
-    {
-        "title": "[단독] LG도 뚫렸다…LGD 파주사업장 직원 첫 코로나 확진",
-        "link": "https://www.hankyung.com/it/article/2020081627827"
     }
 ];
