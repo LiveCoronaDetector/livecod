@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Interference in scientific research on COVID-19 in Turkey",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
+        "title": "Coronavirus in Israel: Skies opening, gatherings expanding on Sunday",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-govt-approves-between-10-20-people-in-restaurants-shuls-638654"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
+    },
+    {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "WATCH | Tobacco ban lifted, alcohol sales restricted under lockdown Level 2",
-        "link": "https://www.youtube.com/watch?v=AoX4XBwhSaU"
+        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
     },
     {
-        "title": "U.S. Coronavirus Forecasts Offer Somber Outlook",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-news-08-15-2020-11597481096"
-    },
-    {
-        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+        "title": "Alcohol, tobacco and local travel are back: SA to move to Lockdown level 2",
+        "link": "https://www.youtube.com/watch?v=PgT4Zssy764"
     }
 ];
