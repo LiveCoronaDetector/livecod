@@ -5,12 +5,24 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200816_0001131202&cID=10806&pID=10800"
     },
     {
-        "title": "[속보] 충주시청 14번째 15번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=376102"
+        "title": "충북서 코로나19 확진자 3명 나와",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/957954.html"
+    },
+    {
+        "title": "\"잠잠했는데...\" 충북서 코로나 확진자 3명 발생",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/16/2020081600337.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "코로나19 확진 여의도순복음교회 교인…확진 전 제주도 여행",
+        "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     },
     {
         "title": "제주 코로나19 25번 확진자, 28일만에 퇴원",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424910"
+    },
+    {
+        "title": "[속보] 충주시청 14번째 15번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=376102"
     },
     {
         "title": "[장애공감 제주사회]코로나19에 더 위험한 신장장애인",
@@ -21,23 +33,11 @@ var jejuNewsData = [
         "link": "http://www.econonews.co.kr/news/articleView.html?idxno=132676"
     },
     {
-        "title": "황금연휴 코로나19 비상…부산 70만 명-제주 20만 명 몰린다",
-        "link": "http://www.kukinews.com/newsView/kuk202008150005"
+        "title": "상황 코로나19 충주-14, 15 확진자 발생",
+        "link": "http://www.nbnnews.co.kr/news/articleView.html?idxno=415881"
     },
     {
-        "title": "용인 확진자, 최소 59명 접촉…'우리제일교회' 예배 참석자 전수검사 예정",
-        "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=480253"
-    },
-    {
-        "title": "광복절 황금연휴에 21만명 제주행…코로나 '비상'",
-        "link": "https://www.hankyung.com/society/article/2020081332467"
-    },
-    {
-        "title": "코로나19 탓에 ‘서울 도심 집회’ 없는 광복절 될 듯",
-        "link": "http://www.segye.com/content/html/2020/08/13/20200813511320.html?OutUrl=naver"
-    },
-    {
-        "title": "[제주에 산다] 늘어난 제주도 관광객… 남는 문제",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924151399&code=11171421&cp=nv"
+        "title": "김포 확진자, 확진 전 제주여행…道, 역학조사 중",
+        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131236&cID=10813&pID=10800"
     }
 ];

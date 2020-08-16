@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53795339"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-15-20-intl/index.html"
+        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
+        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
         "title": "New coronavirus cases at 230; 3 deaths | News | ekathimerini.com",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
     },
     {
-        "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
-        "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
+        "title": "WATCH | Tobacco ban lifted, alcohol sales restricted under lockdown Level 2",
+        "link": "https://www.youtube.com/watch?v=AoX4XBwhSaU"
     }
 ];

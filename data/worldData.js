@@ -220,9 +220,9 @@ var marker = [
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "확진자수": 97950,
-        "사망자수": 3939,
-        "완치자수": 34723
+        "확진자수": 99146,
+        "사망자수": 4003,
+        "완치자수": 35638
     },
     {
         "Name": "이집트",
@@ -1076,7 +1076,7 @@ var marker = [
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "확진자수": 1609,
+        "확진자수": 1622,
         "사망자수": 22,
         "완치자수": 1531
     },
@@ -1414,7 +1414,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 273,
         "사망자수": 0,
-        "완치자수": 229
+        "완치자수": 238
     },
     {
         "Name": "Papua New Guinea",
