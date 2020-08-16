@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200816000915"
     },
     {
+        "title": "쿠팡 \"인천2배송캠프 코로나19 추가 확진자 0명\"",
+        "link": "http://news.tf.co.kr/read/economy/1807371.htm"
+    },
+    {
         "title": "[속보] 서울시 \"사랑제일교회 확진자 193명…전광훈 고발\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008160055&t=NN"
     },
     {
         "title": "러시아산 코로나 백신, “10월 실내감염 공포 때문에 서둘러”",
         "link": "https://weekly.donga.com/3/all/11/2151282/1"
-    },
-    {
-        "title": "[속보]코로나19 신규확진자 279명... 5개월 만에 최다",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008161021001&code=940100"
     }
 ];

@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
-        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
+        "title": "Top doc: If schools open, COVID-19 will crash health system by December",
+        "link": "https://www.jpost.com/health-science/top-doc-if-schools-open-covid-19-will-crash-health-system-by-december-638865"
     },
     {
-        "title": "Coronavirus live: Amazon investigated in Germany over lockdown price controls; new French cases exceed 3,000 again",
+        "title": "Coronavirus live news: new French cases surpass 3,000 for second day; Italy hits record cases since May",
         "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/article/3097583/coronavirus-global-daily-case-tally-tops-record-high-countries-battle"
     },
     {
-        "title": "Italy closes nightclubs as coronavirus cases rise among young",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-italy-nightclubs/italy-closes-nightclubs-as-coronavirus-cases-rise-among-young-idUSKCN25C0R1"
+        "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
+        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
     }
 ];

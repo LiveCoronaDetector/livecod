@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     },
     {
-        "title": "제주관광 김포 확진자 일행 동선 공개…마스크 착용 확인",
-        "link": "http://www.fnnews.com/news/202008161825285382"
+        "title": "코로나19 재 확산에 제주도 긴장...확진자 3명 가족여행",
+        "link": "https://hankookilbo.com/News/Read/A2020081614170003737?did=NA"
     },
     {
-        "title": "김포시 코로나 확진자 가족, '제주도 여행'  확인...역학조사 착수",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424968"
+        "title": "김포시 코로나 확진자 일행 제주도 여행 동선 공개",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424974"
     },
     {
-        "title": "‘제주여행 김포시 확진자’ 제주 동선 공개",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014914059&code=61121111&cp=nv"
+        "title": "코로나19 확진 김포시 거주 교인…확진 전 제주도 여행",
+        "link": "http://www.fnnews.com/news/202008161131385165"
     },
     {
         "title": "사랑제일교회 107명 확진자 ‘빙산의 일각’…3차 대유행 현실화하나",
