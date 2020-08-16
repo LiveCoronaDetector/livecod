@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
     },
     {
+        "title": "김포시 코로나 확진자 가족, '제주도 여행'  확인...역학조사 착수",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424968"
+    },
+    {
         "title": "‘제주여행 김포시 확진자’ 제주 동선 공개",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014914059&code=61121111&cp=nv"
     },
@@ -27,10 +31,6 @@ var jejuNewsData = [
     {
         "title": "코로나19 잊었나…황금연휴 제주 비상",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518289&ref=A"
-    },
-    {
-        "title": "김포시 70번 확진자, 2박3일간 제주여행 후 코로나19 확진",
-        "link": "https://www.news1.kr/articles/?4027831"
     },
     {
         "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
