@@ -9,16 +9,20 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     },
     {
+        "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
+    },
+    {
         "title": "제주관광 김포 확진자 일행 동선 공개…마스크 착용 확인",
         "link": "http://www.fnnews.com/news/202008161825285382"
     },
     {
-        "title": "김포시 70번 확진자, 2박3일간 제주여행 후 코로나19 확진",
-        "link": "https://www.news1.kr/articles/?4027831"
+        "title": "김포시 코로나 확진자 일행 제주도 여행 동선 공개",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424974"
     },
     {
-        "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
+        "title": "김포시 70번 확진자, 2박3일간 제주여행 후 코로나19 확진",
+        "link": "https://www.news1.kr/articles/?4027831"
     },
     {
         "title": "\"잠잠했는데...\" 충북서 코로나 확진자 3명 발생",
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/yeongnam/957954.html"
     },
     {
-        "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
-        "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주도 사회적 거리두기 1단계 유지... 방역은 강화",
-        "link": "http://www.ihalla.com/read.php3?aid=1597577488689930073"
+        "title": "김포시 코로나19 확진자와 제주여행한 '부모' 확진 판정",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=127394"
     }
 ];
