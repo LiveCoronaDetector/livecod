@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518289&ref=A"
     },
     {
-        "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
-    },
-    {
         "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
         "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
     }
 ];
