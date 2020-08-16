@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53795339"
     },
     {
-        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
-        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
+        "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
+        "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
         "title": "New coronavirus cases at 230; 3 deaths | News | ekathimerini.com",

@@ -6,7 +6,7 @@ var marker = [
         "Name_en": "United States",
         "확진자수": 5529789,
         "사망자수": 172606,
-        "완치자수": 2900187
+        "완치자수": 2900188
     },
     {
         "Name": "브라질",
@@ -1153,6 +1153,14 @@ var marker = [
         "완치자수": 788
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 1252,
+        "사망자수": 17,
+        "완치자수": 160
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -1183,14 +1191,6 @@ var marker = [
         "확진자수": 1130,
         "사망자수": 27,
         "완치자수": 836
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 1119,
-        "사망자수": 17,
-        "완치자수": 138
     },
     {
         "Name": "Jamaica",
