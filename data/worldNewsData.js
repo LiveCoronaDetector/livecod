@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53776027"
     },
     {
-        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
-        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
+        "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
+        "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "How 9/11 and the Coronavirus Pushed the UAE and Israel Together",
-        "link": "https://foreignpolicy.com/2020/08/15/uae-israel-business-technology-peace/"
+        "title": "UAE, Israeli companies sign agreement on coronavirus R&D",
+        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/16/rising-r-number-casts-cloud-over-northern-irelands-covid-success"
     },
     {
-        "title": "Reaction to President Cyril Ramaphosa's address announcing lockdown Level 2",
-        "link": "https://www.youtube.com/watch?v=_AM4bb0Z61M"
+        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
+        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     }
 ];

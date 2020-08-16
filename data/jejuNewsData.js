@@ -5,12 +5,16 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
     {
+        "title": "[종합] '제주도 여행' 일행 3명 코로나19 확진...차단 방역 비상",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424977"
+    },
+    {
         "title": "김포 확진자, 여의도순복음교회 교인…확진 전 제주도 여행",
         "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     },
     {
-        "title": "김포시 코로나 확진자 일행 제주도 여행 동선 공개",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424974"
+        "title": "코로나19 재 확산에 제주도 긴장...확진자 3명 가족여행",
+        "link": "https://hankookilbo.com/News/Read/A2020081614170003737?did=NA"
     },
     {
         "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
@@ -23,10 +27,6 @@ var jejuNewsData = [
     {
         "title": "충북서 코로나19 확진자 3명 나와",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/957954.html"
-    },
-    {
-        "title": "김포시 코로나19 확진자 확진 전 제주 여행",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169836"
     },
     {
         "title": "충북 코로나19 하루 3명 확진…지역 확산 비상",
