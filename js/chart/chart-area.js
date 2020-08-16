@@ -380,14 +380,19 @@ var koreaRegionalCumulativeData_확진자_Array = [];
 var koreaRegionalCumulativeData_전일차_Array = [];
 var koreaRegionalCumulativeData_사망자_Array = [];
 var koreaRegionalCumulativeData_완치자_Array = [];
+var koreaRegionalCumulativeData_비율_Array = []
 
-for (var i = 0; i < koreaRegionalCumulativeData.length; i++) {
+for (let i = 0; i < koreaRegionalCumulativeData.length; i++) {
   koreaRegionalCumulativeData_날짜_Array.push(koreaRegionalCumulativeData[i][0]);
   koreaRegionalCumulativeData_확진자_Array.push(koreaRegionalCumulativeData[i][1]);
   koreaRegionalCumulativeData_전일차_Array.push(koreaRegionalCumulativeData[i][2]);
   koreaRegionalCumulativeData_사망자_Array.push(koreaRegionalCumulativeData[i][3]);
   koreaRegionalCumulativeData_완치자_Array.push(koreaRegionalCumulativeData[i][4]);
+  koreaRegionalCumulativeData_비율_Array.push(
+    koreaRegionalCumulativeData_전일차_Array[i] / koreaRegionalCumulativeData_확진자_Array[i] * 100
+  );
 }
+
 
 // console.log(koreaRegionalCumulativeData_날짜_Array);
 // console.log(koreaRegionalCumulativeData_확진자_Array);
@@ -533,24 +538,10 @@ var myLineChart = new Chart(ctx_four, {
 
 
 
-
-//확진자 추이(한국_세계)
-var 확진자추이그래프_date = [];
-
 var 확진자추이그래프_세계확진자 = [];
 var 확진자추이그래프_세계확진자편차 = [];
 var 확진자추이그래프_세계비율 = [];
 
-var 확진자추이그래프_한국확진자 = [];
-var 확진자추이그래프_한국확진자편차 = [];
-var 확진자추이그래프_한국비율 = [];
-
-for (let i = 0; i < koreaRegionalCumulativeData.length; i++) {
-  확진자추이그래프_date.push(koreaRegionalCumulativeData[i][0]);
-  확진자추이그래프_한국확진자.push(koreaRegionalCumulativeData[i][1]);
-  확진자추이그래프_한국확진자편차.push(koreaRegionalCumulativeData[i][2]);
-  확진자추이그래프_한국비율.push((확진자추이그래프_한국확진자편차[i] / 확진자추이그래프_한국확진자[i]) * 100)
-}
 
 // console.log("test", marker2.labels.indexOf("2/1"))
 
@@ -571,7 +562,7 @@ var ctx_five = document.getElementById("myAreaChart_five");
 var myLineChart = new Chart(ctx_five, {
   type: 'line',
   data: {
-    labels: 확진자추이그래프_date,
+    labels: koreaRegionalCumulativeData_날짜_Array,
     datasets: [{
       label: "한국 추이 ",
       lineTension: 0.3,
@@ -586,7 +577,7 @@ var myLineChart = new Chart(ctx_five, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 0,
-      data: 확진자추이그래프_한국비율,
+      data: koreaRegionalCumulativeData_비율_Array,
     }, {
       label: "세계 추이 ",
       lineTension: 0.3,
@@ -732,9 +723,9 @@ var myChart = new Chart(ctx_six, {
 
 var ctx_전일대비그래프 = document.getElementById("전일대비그래프");
 var myLineChart = new Chart(ctx_전일대비그래프, {
-  type: 'bar',
+  type: 'line',
   data: {
-    labels: 확진자추이그래프_date.slice(-10,),
+    labels: koreaRegionalCumulativeData_날짜_Array.slice(-10,),
     datasets: [{
       label: "한국 추이 ",
       // lineTension: 0.3,
@@ -749,7 +740,7 @@ var myLineChart = new Chart(ctx_전일대비그래프, {
       // pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       // pointHitRadius: 10,
       // pointBorderWidth: 0,
-      data: 확진자추이그래프_한국확진자편차.slice(-10,),
+      data: koreaRegionalCumulativeData_전일차_Array.slice(-10,),
     }],
   },
   options: {
@@ -821,3 +812,42 @@ var myLineChart = new Chart(ctx_전일대비그래프, {
     }
   }
 });
+
+
+const totalLength = koreaRegionalCumulativeData_날짜_Array.length;
+var lastDate = moment(koreaRegionalCumulativeData_날짜_Array[totalLength - 1] + "/2020", "MM DD YYYY");
+var start = moment().subtract(29, 'days');
+var end = lastDate;
+
+function getIndex(date){
+  let diff = lastDate.diff(date.startOf('day')) / (24 * 60 * 60 * 1000);
+  return totalLength - diff - 1;
+}
+
+
+function updateDates(chart, startDate, endDate){
+  let startIndex = getIndex(startDate);
+  let endIndex = getIndex(endDate) + 1;
+  chart.data.labels = koreaRegionalCumulativeData_날짜_Array.slice(startIndex, endIndex);
+  chart.data.datasets[0].data = koreaRegionalCumulativeData_전일차_Array.slice(startIndex, endIndex);
+  chart.update();
+}
+
+
+function cb(start, end) {
+  $('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'));
+  updateDates(myLineChart, start, end);
+}
+
+$('#reportrange').daterangepicker({
+    startDate: start,
+    endDate: end,
+    minDate: moment("02/01/2020", "MM DD YYYY"),
+    maxDate: lastDate,
+    ranges: {
+       '지난 7일': [moment().subtract(6, 'days'), lastDate],
+       '지난 한달': [moment().subtract(29, 'days'), lastDate],
+    }
+}, cb);
+
+cb(start, end);
