@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
     },
     {
+        "title": "김포시 코로나19 확진자 확진 전 제주 여행",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169836"
+    },
+    {
         "title": "\"잠잠했는데...\" 충북서 코로나 확진자 3명 발생",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/16/2020081600337.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "충북에서 코로나19 확진자 3명 발생",
         "link": "https://www.ytn.co.kr/_ln/0115_202008161109359396"
-    },
-    {
-        "title": "16일 충청권서 7명 코로나 ‘확진’…재확산 ‘우려’",
-        "link": "http://cc.newdaily.co.kr/site/data/html/2020/08/16/2020081600023.html"
     }
 ];

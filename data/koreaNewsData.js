@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/16/2020081600283.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 문 대통령 “일부 교회, 코로나 국가방역에 도전... 용서할 수 없다”",
-        "link": "https://hankookilbo.com/News/Read/A2020081611340000777?did=NA"
-    },
-    {
         "title": "수도권 대유행 현실로…하루 코로나19 확진자 279명(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01298886625867976"
     },
     {
         "title": "[종합] 코로나19 확진자 279명 증가...지역 267명 중 서울 141명, 경기 96명",
         "link": "http://www.fnnews.com/news/202008161016344358"
+    },
+    {
+        "title": "[속보] 문 대통령 “일부 교회, 코로나 국가방역에 도전... 용서할 수 없다”",
+        "link": "https://hankookilbo.com/News/Read/A2020081611340000777?did=NA"
+    },
+    {
+        "title": "서울시 “사랑제일교회 코로나19 확진자 전국 193명”",
+        "link": "https://www.sedaily.com/NewsView/1Z6LNQ5YXK"
     },
     {
         "title": "김포 코로나19 확진자 2박 3일 제주여행",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200816000915"
     },
     {
-        "title": "대구 44일 만에 코로나19 지역발생 확진자 발생",
-        "link": "https://news.imaeil.com/Society/2020081610011306573"
-    },
-    {
-        "title": "사랑제일교회 확진자 전국 193명…서울시 \"전광훈 고발\"",
-        "link": "http://yna.kr/AKR20200816025100004?did=1195m"
-    },
-    {
-        "title": "서울시 “사랑제일교회 코로나19 확진자 전국 193명”",
-        "link": "https://www.sedaily.com/NewsView/1Z6LNQ5YXK"
-    },
-    {
         "title": "이틀간 무려 269명…코로나19 전방위·동시다발 확산 양상",
         "link": "http://yna.kr/AKR20200815052900530?did=1195m"
+    },
+    {
+        "title": "러시아산 코로나 백신, “10월 실내감염 공포 때문에 서둘러”",
+        "link": "https://weekly.donga.com/3/all/11/2151282/1"
+    },
+    {
+        "title": "[전문] 대구 44일만에 지역발생 확진자 발생…분류기준 논란도",
+        "link": "https://news.imaeil.com/Society/2020081610535654381"
     }
 ];

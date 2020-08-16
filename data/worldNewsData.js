@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Coronavirus in Israel: Skies opening, gatherings expanding on Sunday",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-govt-approves-between-10-20-people-in-restaurants-shuls-638654"
+        "title": "Interference in scientific research on COVID-19 in Turkey",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "South Africa's Ramaphosa announces easing of coronavirus lockdown",
-        "link": "https://www.aljazeera.com/news/2020/08/south-africa-ramaphosa-announces-easing-coronavirus-lockdown-200815192136843.html"
+        "title": "WATCH | Tobacco ban lifted, alcohol sales restricted under lockdown Level 2",
+        "link": "https://www.youtube.com/watch?v=AoX4XBwhSaU"
     },
     {
-        "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
-        "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
+        "title": "U.S. Coronavirus Forecasts Offer Somber Outlook",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-08-15-2020-11597481096"
     },
     {
         "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
