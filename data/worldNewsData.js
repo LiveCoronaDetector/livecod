@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
+    },
+    {
+        "title": "Reaction to President Cyril Ramaphosa's address announcing lockdown Level 2",
+        "link": "https://www.youtube.com/watch?v=_AM4bb0Z61M"
+    },
+    {
         "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
         "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
-    },
-    {
-        "title": "South Africa Lifts Its Alcohol Ban as Coronavirus Crisis Eases",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1ba231f0-df9f-11ea-a9b9-070e3b375589&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNS9lYXNpbmctdmlydXMtY3Jpc2lzLWVuYWJsZXMtc291dGgtYWZyaWNhLXRvLWxpZnQtYWxjb2hvbC1iYW4/c3JuZD1lY29ub21pY3MtdnA="
-    },
-    {
-        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
     }
 ];
