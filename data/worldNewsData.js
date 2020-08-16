@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://timesofindia.indiatimes.com/world/rest-of-world/russias-new-sputnik-launch-raises-risks-in-dash-for-covid-vaccine/articleshow/77576976.cms"
     },
     {
-        "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
-        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
+        "title": "South Korea Warns of Another Covid-19 Outbreak Tied to a Church",
+        "link": "https://www.nytimes.com/2020/08/16/world/asia/coronavirus-south-korea-church-sarang-jeil.html"
     },
     {
         "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
         "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Italy closes nightclubs as coronavirus cases rise among young",
-        "link": "https://www.msn.com/en-us/news/world/italy-closes-nightclubs-as-coronavirus-cases-rise-among-young/ar-BB181XEY?li=BBnb7Kz"
+        "title": "World sees largest increase in coronavirus cases in 24 hours | ITV News",
+        "link": "https://www.youtube.com/watch?v=A4fWc3iOM-4"
     },
     {
         "title": "Coronavirus: global daily case tally tops record high",
         "link": "https://www.scmp.com/news/world/article/3097583/coronavirus-global-daily-case-tally-tops-record-high-countries-battle"
+    },
+    {
+        "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
+        "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     }
 ];

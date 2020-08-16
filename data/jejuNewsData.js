@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008161131385165"
     },
     {
+        "title": "폭염인데…코로나에도 실내 에어컨 켜도 되나요?",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020081617393645736"
+    },
+    {
         "title": "사랑제일교회 107명 확진자 ‘빙산의 일각’…3차 대유행 현실화하나",
         "link": "http://www.segye.com/content/html/2020/08/16/20200816512133.html?OutUrl=naver"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
         "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "\"잠잠했는데...\" 충북서 코로나 확진자 3명 발생",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/16/2020081600337.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
