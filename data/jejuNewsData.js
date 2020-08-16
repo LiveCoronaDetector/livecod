@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     },
     {
+        "title": "김포시 코로나 확진자 가족, '제주도 여행'  확인...역학조사 착수",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424968"
+    },
+    {
         "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
     },
@@ -25,16 +29,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/yeongnam/957954.html"
     },
     {
-        "title": "김포시 코로나19 확진자 확진 전 제주 여행",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2169836"
-    },
-    {
         "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
         "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 코로나19 25번 확진자, 28일만에 퇴원",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424910"
+        "title": "코로나19 제주 25번 확진자 퇴원",
+        "link": "https://www.nocutnews.co.kr/news/5395357"
     },
     {
         "title": "16일 충청권서 7명 코로나 ‘확진’…재확산 ‘우려’",

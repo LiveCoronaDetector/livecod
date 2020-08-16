@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
+        "title": "WATCH | Tobacco ban lifted, alcohol sales restricted under lockdown Level 2",
+        "link": "https://www.youtube.com/watch?v=AoX4XBwhSaU"
     },
     {
-        "title": "Alcohol, tobacco and local travel are back: SA to move to Lockdown level 2",
-        "link": "https://www.youtube.com/watch?v=PgT4Zssy764"
+        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
     }
 ];
