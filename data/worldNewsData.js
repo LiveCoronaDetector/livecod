@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
-        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
+        "title": "Interference in scientific research on COVID-19 in Turkey",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
-        "title": "Coronavirus live news: France set to announce new measures; Spain puts 1am limit on bars and restaurants",
+        "title": "Coronavirus live news: France set to announce new measures; New Zealand active cases rise to 69",
         "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
+    },
+    {
         "title": "Covid-19: Schools won’t open till govt sure about safety, says Delhi CM",
         "link": "https://timesofindia.indiatimes.com/videos/city/delhi/covid-19-schools-wont-open-till-govt-sure-about-safety-says-delhi-cm/videoshow/77569903.cms"
     },
     {
         "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
         "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
-    },
-    {
-        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
-    },
-    {
-        "title": "U.S. Coronavirus Forecasts Offer Somber Outlook",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-news-08-15-2020-11597481096"
     }
 ];

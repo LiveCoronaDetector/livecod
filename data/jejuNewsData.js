@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008161825285382"
     },
     {
-        "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
-    },
-    {
         "title": "김포시 코로나 확진자 가족, '제주도 여행'  확인...역학조사 착수",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424968"
+    },
+    {
+        "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
     },
     {
         "title": "‘제주여행 김포시 확진자’ 제주 동선 공개",

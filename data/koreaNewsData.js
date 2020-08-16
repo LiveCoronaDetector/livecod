@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20200816000915"
     },
     {
-        "title": "\"코로나 저지에 범국가역량 총동원…방역방해 엄단\"(종합)",
-        "link": "http://yna.kr/AKR20200816031651001?did=1195m"
+        "title": "코로나 2차 대유행 초기 단계…국가적 역량 총동원",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081500005"
     }
 ];
