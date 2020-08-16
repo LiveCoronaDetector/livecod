@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/16/2020081600283.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나19 신규확진자 279명... 5개월 만에 최다",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008161021001&code=940100"
-    },
-    {
-        "title": "[속보] 연휴 첫날 코로나 신규 확진자 279명 '폭증'",
-        "link": "https://hankookilbo.com/News/Read/A2020081610100001830?did=NA"
-    },
-    {
-        "title": "[속보]대구 44일 만에 코로나19 지역발생 확진자 발생",
-        "link": "https://news.imaeil.com/Society/2020081610011306573"
-    },
-    {
-        "title": "경남 코로나19 확진자 1명 추가…양산 40대 여성(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131204&cID=10812&pID=10800"
+        "title": "수도권 대유행 현실로…하루 코로나19 확진자 279명(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01298886625867976"
     },
     {
         "title": "[종합] 코로나19 확진자 279명 증가...지역 267명 중 서울 141명, 경기 96명",
         "link": "http://www.fnnews.com/news/202008161016344358"
     },
     {
-        "title": "이틀간 무려 269명…코로나19 전방위·동시다발 확산 양상",
-        "link": "http://yna.kr/AKR20200815052900530?did=1195m"
+        "title": "[단독] 대구서 44일만에 확진자 첫 발생... 친척집에 다녀간 서울 사람",
+        "link": "https://hankookilbo.com/News/Read/A2020081608470004266?did=NA"
     },
     {
-        "title": "코로나19 확진자 279명…5개월 만에 200명 넘어(상보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01275926625867976"
+        "title": "“이틀간 확진자 269명”...코로나19 동시다발 확산 양상 (종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200816500006&wlog_tag3=naver"
     },
     {
-        "title": "[전문] 안성시청 13번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=376095"
+        "title": "경남 코로나19 확진자 1명 추가…양산 40대 여성(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131204&cID=10812&pID=10800"
     },
     {
-        "title": "수도권 대유행 현실로…하루 코로나19 확진자 279명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01298886625867976"
+        "title": "코로나 하루 279명 확진 폭증…3월 대유행 수준 '비상' [종합]",
+        "link": "https://www.hankyung.com/society/article/2020081628087"
+    },
+    {
+        "title": "김포 코로나19 확진자 2박 3일 제주여행",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
+    },
+    {
+        "title": "러시아산 코로나 백신, “10월 실내감염 공포 때문에 서둘러”",
+        "link": "https://weekly.donga.com/3/all/11/2151282/1"
+    },
+    {
+        "title": "[전문] 양산시청 15번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=376107"
     }
 ];
