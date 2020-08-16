@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Coronavirus in Israel: Skies opening, gatherings expanding on Sunday",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-govt-approves-between-10-20-people-in-restaurants-shuls-638654"
+        "title": "Coronavirus, Israel, Animal Tears: Your Thursday Evening Briefing",
+        "link": "https://www.nytimes.com/2020/08/13/briefing/coronavirus-israel-animal-tears.html"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
-        "title": "NBA, Yale land the COVID testing breakthrough the NFL (and the general U.S. public) has been hoping for",
-        "link": "https://sports.yahoo.com/the-nba-and-yale-just-landed-the-covid-testing-breakthrough-the-nfl-and-everyone-else-in-the-us-has-been-hoping-for-183335566.html"
-    },
-    {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
-    },
-    {
         "title": "WATCH | Tobacco ban lifted, alcohol sales restricted under lockdown Level 2",
         "link": "https://www.youtube.com/watch?v=AoX4XBwhSaU"
+    },
+    {
+        "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
+        "link": "https://www.cnbc.com/2020/08/15/romney-slams-trump-administration-over-us-coronavirus-death-toll.html"
+    },
+    {
+        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
+        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     }
 ];

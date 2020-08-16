@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008161016344358"
     },
     {
+        "title": "[속보] 서울시 \"사랑제일교회 확진자 193명…전광훈 고발\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008160055&t=NN"
+    },
+    {
         "title": "[속보] 문 대통령 “일부 교회, 코로나 국가방역에 도전... 용서할 수 없다”",
         "link": "https://hankookilbo.com/News/Read/A2020081611340000777?did=NA"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020081610011306573"
     },
     {
-        "title": "서울 하루 확진자 73% 사랑제일교회서 발생…\"전광훈 목사 고발\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131278&cID=14001&pID=14000"
+        "title": "김포 코로나19 확진자 2박 3일 제주여행",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
     {
         "title": "이틀간 무려 269명…코로나19 전방위·동시다발 확산 양상",
         "link": "http://yna.kr/AKR20200815052900530?did=1195m"
     },
     {
-        "title": "김포 코로나19 확진자 2박 3일 제주여행",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
-    },
-    {
         "title": "러시아산 코로나 백신, “10월 실내감염 공포 때문에 서둘러”",
         "link": "https://weekly.donga.com/3/all/11/2151282/1"
     },
     {
-        "title": "'전광훈 교회'서 서울 코로나 신규 확진자만 107명...전국 확산 우려",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/16/2020081600463.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
     }
 ];
