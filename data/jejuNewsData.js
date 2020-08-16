@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     },
     {
+        "title": "김포시 70번 확진자, 2박3일간 제주여행 후 코로나19 확진",
+        "link": "https://www.news1.kr/articles/?4027831"
+    },
+    {
         "title": "\"잠잠했는데...\" 충북서 코로나 확진자 3명 발생",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/16/2020081600337.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169836"
     },
     {
-        "title": "충북서 코로나19 확진자 3명 발생…서울 대형교회 교인 가족도",
-        "link": "http://ilyo.co.kr/?ac=article_view&entry_id=377573"
-    },
-    {
         "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
         "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 코로나19 25번 확진자, 28일만에 퇴원",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424910"
+        "title": "충북에서 코로나19 확진자 3명 발생",
+        "link": "https://www.ytn.co.kr/_ln/0115_202008161109359396"
     },
     {
-        "title": "제주도, 마스크 안 쓰면 관광지 출입금지 검토",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349163"
+        "title": "[속보] 충주시청 14번째 15번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=376102"
     }
 ];
