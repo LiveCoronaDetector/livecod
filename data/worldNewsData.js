@@ -2,15 +2,15 @@
 var worldNewsData = [
     {
         "title": "Coronavirus: Ten African innovations to help tackle Covid-19",
-        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hZnJpY2EtNTM3NzYwMjfSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWFmcmljYS01Mzc3NjAyNw?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-africa-53776027"
     },
     {
         "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
         "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "Coronavirus czar accuses Arabs of ‘attacking’ Israel by spreading virus",
-        "link": "https://news.google.com/articles/CAIiEO3KAbHORaMsBXAy6P6QSPkqGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Interference in scientific research on COVID-19 in Turkey",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -18,26 +18,26 @@ var worldNewsData = [
     },
     {
         "title": "South Africa to ease coronavirus restrictions: Live updates",
-        "link": "https://news.google.com/articles/CAIiEF1geWFrU7UylhIYPvKV15kqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
         "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
-        "link": "https://news.google.com/articles/CAIiEPKJr3BoKDQf2fdR0LuVpB0qGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9uZy1pbnRlcmFjdGl2ZS8yMDIwL2F1Zy8xNi9jb3ZpZC12YWNjaW5lLXRyYWNrZXItd2hlbi13aWxsLXdlLWhhdmUtYS1jb3JvbmF2aXJ1cy12YWNjaW5l0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
     },
     {
         "title": "AAP to make oximeters available in 30k villages to help in Covid fight: Kejriwal",
         "link": "https://www.livemint.com/news/india/aap-to-make-oximeters-available-in-30k-villages-to-help-in-covid-fight-kejriwal-11597587660656.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA4LTE2LTIwLWludGwvaF9mMDVmOWU3ZDNkYTQ2MWVhODUwZDlmZDU1MDVjZmU2OdIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOC0xNi0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
-        "link": "https://news.google.com/articles/CAIiENOwXanwQ95h3Q7E6KAKNrwqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
+        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     }
 ];

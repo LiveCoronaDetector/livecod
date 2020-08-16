@@ -13,14 +13,6 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01567846625867976"
     },
     {
-        "title": "WHO \"15일 세계 코로나 신규 확진자 29만4천명…역대 최대\"",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5875798_32640.html"
-    },
-    {
-        "title": "사랑제일교회 확진자, 여의도 ‘의사궐기대회’ 현장 갔다",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014913835&code=61121911&cp=nv"
-    },
-    {
         "title": "[단독] 경찰관 2명 코로나 확진…배우자도 경찰서 근무",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005933687&plink=ORI&cooper=NAVER"
     },
@@ -29,15 +21,23 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
     {
-        "title": "[단독] LG도 뚫렸다…LGD 파주사업장 직원 첫 코로나 확진",
-        "link": "https://www.hankyung.com/it/article/2020081627827"
-    },
-    {
         "title": "쿠팡, 인천2 배송캠프 폐쇄…코로나19 확진자 발생",
         "link": "https://zdnet.co.kr/view/?no=20200816000915"
     },
     {
+        "title": "[단독] LG도 뚫렸다…LGD 파주사업장 직원 첫 코로나 확진",
+        "link": "https://www.hankyung.com/it/article/2020081627827"
+    },
+    {
         "title": "코로나 2차 대유행 초기 단계…국가적 역량 총동원",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081500005"
+    },
+    {
+        "title": "[속보] 서울시 \"사랑제일교회 확진자 193명…전광훈 고발\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008160055&t=NN"
+    },
+    {
+        "title": "러시아산 코로나 백신, “10월 실내감염 공포 때문에 서둘러”",
+        "link": "https://weekly.donga.com/3/all/11/2151282/1"
     }
 ];
