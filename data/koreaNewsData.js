@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200816044551017?did=1195m"
     },
     {
+        "title": "김포 코로나19 확진자 2박 3일 제주여행",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
+    },
+    {
         "title": "코로나 확진자 방문한 신라스테이 서대문, 임시 휴업 돌입",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01567846625867976"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "[단독] 경찰관 2명 코로나 확진…배우자도 경찰서 근무",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005933687&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "김포 코로나19 확진자 2박 3일 제주여행",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
     {
         "title": "쿠팡, 인천2 배송캠프 폐쇄…코로나19 확진자 발생",

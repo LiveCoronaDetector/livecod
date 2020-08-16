@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
-        "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
+        "link": "https://news.google.com/articles/CAIiECE8639Hcc1XAw4owOiFxNMqGQgEKhAIACoHCAowocv1CjCSptoCMNHPpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://timesofindia.indiatimes.com/world/rest-of-world/russias-new-sputnik-launch-raises-risks-in-dash-for-covid-vaccine/articleshow/77576976.cms"
     },
     {
-        "title": "UN announces 4 new COVID-19 deaths in Lebanon Palestinian refugee camps",
-        "link": "https://www.arabnews.com/node/1720371/middle-east"
+        "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
+        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
         "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     },
     {
-        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
+        "title": "Coronavirus: global daily case tally tops record high",
+        "link": "https://www.scmp.com/news/world/article/3097583/coronavirus-global-daily-case-tally-tops-record-high-countries-battle"
     }
 ];
