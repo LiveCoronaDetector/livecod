@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/16/latest_news/1597561613_939093.html"
     },
     {
-        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
-        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
+        "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
+        "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
         "title": "Interference in scientific research on COVID-19 in Turkey",
         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
-        "title": "Coronavirus live: Amazon investigated in Germany over lockdown price controls; new French cases exceed 3,000 again",
+        "title": "Coronavirus live: New Zealand election to be delayed due to virus; Amazon investigated in Germany over lockdown price controls",
         "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
     },
     {
-        "title": "Russia’s new Sputnik launch raises risks in dash for Covid vaccine",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/russias-new-sputnik-launch-raises-risks-in-dash-for-covid-vaccine/articleshow/77576976.cms"
+        "title": "South Africa to ease coronavirus restrictions: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
         "title": "South Korea Warns of Another Covid-19 Outbreak Tied to a Church",
         "link": "https://www.nytimes.com/2020/08/16/world/asia/coronavirus-south-korea-church-sarang-jeil.html"
     },
     {
-        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
-        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
     },
     {
-        "title": "World sees largest increase in coronavirus cases in 24 hours | ITV News",
-        "link": "https://www.youtube.com/watch?v=A4fWc3iOM-4"
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     },
     {
         "title": "Coronavirus: global daily case tally tops record high",
         "link": "https://www.scmp.com/news/world/article/3097583/coronavirus-global-daily-case-tally-tops-record-high-countries-battle"
     },
     {
-        "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
-        "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
+        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
+        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     }
 ];
