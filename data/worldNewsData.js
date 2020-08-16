@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Coronavirus, Israel, Animal Tears: Your Thursday Evening Briefing",
-        "link": "https://www.nytimes.com/2020/08/13/briefing/coronavirus-israel-animal-tears.html"
+        "title": "Coronavirus in Israel: Skies opening, gatherings expanding on Sunday",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-govt-approves-between-10-20-people-in-restaurants-shuls-638654"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "WATCH | Tobacco ban lifted, alcohol sales restricted under lockdown Level 2",
-        "link": "https://www.youtube.com/watch?v=AoX4XBwhSaU"
+        "title": "South Africa's Ramaphosa announces easing of coronavirus lockdown",
+        "link": "https://www.aljazeera.com/news/2020/08/south-africa-ramaphosa-announces-easing-coronavirus-lockdown-200815192136843.html"
     },
     {
         "title": "Romney slams Trump administration over U.S. coronavirus death toll — 'There's no way to spin that'",
