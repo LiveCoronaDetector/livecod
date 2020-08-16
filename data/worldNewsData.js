@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "Coronavirus czar accuses Arabs of ‘attacking’ Israel by spreading virus",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-761-new-cases-death-toll-rises-to-679-638818"
+        "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
+        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
     },
     {
         "title": "Coronavirus live news: new French cases surpass 3,000 for second day; Italy hits record cases since May",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus global death toll tops 751000",
-        "link": "https://www.youtube.com/watch?v=aFTdoHTiY9M"
+        "title": "Spain again hit by massive outbreak of COVID-19 infection, sudden rise in cases",
+        "link": "https://www.youtube.com/watch?v=eEMPfHhjw-g"
     },
     {
         "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
