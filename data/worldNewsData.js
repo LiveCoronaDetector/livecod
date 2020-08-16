@@ -9,32 +9,32 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "Coronavirus czar accuses Arabs of ‘attacking’ Israel by spreading virus",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-761-new-cases-death-toll-rises-to-679-638818"
+        "title": "Interference in scientific research on COVID-19 in Turkey",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
-        "title": "France, South Korea see resurgence of coronavirus cases: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/france-sees-resurgence-coronavirus-cases-post-lockdown-live-200815235259944.html"
+        "title": "Coronavirus live news: new French cases surpass 3,000 for second day; Italy hits record cases since May",
+        "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
     },
     {
         "title": "South Africa to ease coronavirus restrictions: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
-        "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
-        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
+        "title": "Wife of Brazil's president says she has tested negative for coronavirus",
+        "link": "https://www.news18.com/news/world/wife-of-brazils-president-says-she-has-tested-negative-for-coronavirus-2793081.html"
+    },
+    {
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
         "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
         "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus: WHO reports daily record number of COVID-19 cases",
-        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
-    },
-    {
-        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+        "title": "AAP to provide oximeters to 30,000 villages across India to help fight Covid",
+        "link": "https://theprint.in/india/aap-to-provide-oximeters-to-30000-villages-across-india-to-help-fight-covid/483117/"
     },
     {
         "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
