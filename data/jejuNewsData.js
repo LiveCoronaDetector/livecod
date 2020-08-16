@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     },
     {
-        "title": "김포시 70번 확진자, 2박3일간 제주여행 후 코로나19 확진",
-        "link": "https://www.news1.kr/articles/?4027831"
+        "title": "김포시 코로나 확진자 일행 제주도 여행 동선 공개",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424974"
+    },
+    {
+        "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
+        "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
     },
     {
         "title": "\"잠잠했는데...\" 충북서 코로나 확진자 3명 발생",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/16/2020081600337.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "청주·충주서 3명 코로나19 양성…충북 확진자 86명",
-        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131202&cID=10806&pID=10800"
     },
     {
         "title": "충북서 코로나19 확진자 3명 나와",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169836"
     },
     {
-        "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
-        "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
+        "title": "충북 코로나19 하루 3명 확진…지역 확산 비상",
+        "link": "https://www.nocutnews.co.kr/news/5395641"
     },
     {
-        "title": "충북에서 코로나19 확진자 3명 발생",
-        "link": "https://www.ytn.co.kr/_ln/0115_202008161109359396"
+        "title": "제주 코로나 25번 확진자 퇴원...3명 남아",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=318989"
     },
     {
-        "title": "[속보] 충주시청 14번째 15번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=376102"
+        "title": "제주도, 마스크 안 쓰면 관광지 출입금지 검토",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349163"
     }
 ];

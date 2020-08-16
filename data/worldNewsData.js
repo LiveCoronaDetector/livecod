@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "Coronavirus in Israel: Skies opening, gatherings expanding on Sunday",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-govt-approves-between-10-20-people-in-restaurants-shuls-638654"
+        "title": "How 9/11 and the Coronavirus Pushed the UAE and Israel Together",
+        "link": "https://foreignpolicy.com/2020/08/15/uae-israel-business-technology-peace/"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
-    },
-    {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+    },
+    {
         "title": "South Africa Lifts Its Alcohol Ban as Coronavirus Crisis Eases",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d1828150-df9a-11ea-b541-1b83d100aea3&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNS9lYXNpbmctdmlydXMtY3Jpc2lzLWVuYWJsZXMtc291dGgtYWZyaWNhLXRvLWxpZnQtYWxjb2hvbC1iYW4/c3JuZD1lY29ub21pY3MtdnA="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1ba231f0-df9f-11ea-a9b9-070e3b375589&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNS9lYXNpbmctdmlydXMtY3Jpc2lzLWVuYWJsZXMtc291dGgtYWZyaWNhLXRvLWxpZnQtYWxjb2hvbC1iYW4/c3JuZD1lY29ub21pY3MtdnA="
     },
     {
         "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",

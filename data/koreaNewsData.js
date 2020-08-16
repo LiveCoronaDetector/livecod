@@ -25,15 +25,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
     {
-        "title": "[속보] 파주 스타벅스 야당역점서 확진자 12명 추가...누적 36명",
-        "link": "https://www.sedaily.com/NewsView/1Z6LOC33AN"
-    },
-    {
         "title": "[단독] LG도 뚫렸다…LGD 파주사업장 직원 첫 코로나 확진",
         "link": "https://www.hankyung.com/it/article/2020081627827"
     },
     {
-        "title": "사랑제일교회 800명 검사 결과 25% 코로나 확진...\"전국적 감염 확산 우려(종...",
+        "title": "[속보] 파주 스타벅스 야당역점서 확진자 12명 추가...누적 36명",
+        "link": "https://www.sedaily.com/NewsView/1Z6LOC33AN"
+    },
+    {
+        "title": "사랑제일교회 800명 검사 결과 25% 코로나 확진...\"전국적 감염 확산 우려\"(종...",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/16/2020081601023.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
