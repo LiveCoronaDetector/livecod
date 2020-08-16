@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "The UAE's Apex and Israel's Tera Group sign deal on COVID-19 research",
-        "link": "https://www.jpost.com/breaking-news/uaes-apex-and-israels-tera-group-sign-deal-on-covid-19-research-638792"
+        "title": "Coronavirus in Israel: Skies opening, gatherings expanding on Sunday",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-govt-approves-between-10-20-people-in-restaurants-shuls-638654"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "South Africa Lifts Its Alcohol Ban as Coronavirus Crisis Eases",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1a7b71c0-df8a-11ea-a16d-7f08817c1120&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNS9lYXNpbmctdmlydXMtY3Jpc2lzLWVuYWJsZXMtc291dGgtYWZyaWNhLXRvLWxpZnQtYWxjb2hvbC1iYW4/c3JuZD1lY29ub21pY3MtdnA="
+        "title": "Coronavirus Live News and Updates",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     },
     {
-        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
+        "title": "South Africa Lifts Its Alcohol Ban as Coronavirus Crisis Eases",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=54189a30-df8e-11ea-8c2d-bb5c920bc594&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNS9lYXNpbmctdmlydXMtY3Jpc2lzLWVuYWJsZXMtc291dGgtYWZyaWNhLXRvLWxpZnQtYWxjb2hvbC1iYW4/c3JuZD1tYXJrZXRzLXZw"
     }
 ];

@@ -9,16 +9,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     },
     {
-        "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
-        "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
-    },
-    {
         "title": "\"잠잠했는데...\" 충북서 코로나 확진자 3명 발생",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/16/2020081600337.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "청주·충주서 3명 코로나19 양성…충북 확진자 86명",
+        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131202&cID=10806&pID=10800"
     },
     {
         "title": "충북서 코로나19 확진자 3명 나와",
@@ -29,15 +25,19 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2169836"
     },
     {
+        "title": "충북서 코로나19 확진자 3명 발생…서울 대형교회 교인 가족도",
+        "link": "http://ilyo.co.kr/?ac=article_view&entry_id=377573"
+    },
+    {
+        "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
+        "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "제주 코로나19 25번 확진자, 28일만에 퇴원",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424910"
     },
     {
         "title": "제주도, 마스크 안 쓰면 관광지 출입금지 검토",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349163"
-    },
-    {
-        "title": "16일 충청권서 7명 코로나 ‘확진’…재확산 ‘우려’",
-        "link": "http://cc.newdaily.co.kr/site/data/html/2020/08/16/2020081600023.html"
     }
 ];
