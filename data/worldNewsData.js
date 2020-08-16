@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/15/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
-    },
-    {
-        "title": "Coronavirus Live News and Updates",
-        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
         "title": "South Africa Lifts Its Alcohol Ban as Coronavirus Crisis Eases",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=54189a30-df8e-11ea-8c2d-bb5c920bc594&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNS9lYXNpbmctdmlydXMtY3Jpc2lzLWVuYWJsZXMtc291dGgtYWZyaWNhLXRvLWxpZnQtYWxjb2hvbC1iYW4/c3JuZD1tYXJrZXRzLXZw"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6d7e8990-df92-11ea-b23b-6910279bf4cd&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNS9lYXNpbmctdmlydXMtY3Jpc2lzLWVuYWJsZXMtc291dGgtYWZyaWNhLXRvLWxpZnQtYWxjb2hvbC1iYW4/c3JuZD1tYXJrZXRzLXZw"
+    },
+    {
+        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
     }
 ];
