@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
     },
     {
-        "title": "Coronavirus live news: New Zealand active cases rise to 69, Australia 'close to deal' on vaccine",
-        "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
+        "title": "France, South Korea see resurgence of coronavirus cases: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/france-sees-resurgence-coronavirus-cases-post-lockdown-live-200815235259944.html"
     },
     {
         "title": "South Africa to ease coronavirus restrictions: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
-        "title": "Why New Zealand’s coronavirus outbreak should concern Australia",
-        "link": "https://www.news.com.au/travel/travel-updates/health-safety/why-new-zealands-coronavirus-outbreak-should-concern-australia/news-story/605aea8cb8460e6c823bd72ae38b44ac"
+        "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
+        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
-        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
     },
     {
-        "title": "With 5,79,000 Confirmed Covid-19 Cases, National State of Disaster Extended Till September 15 in South Africa",
-        "link": "https://news.yahoo.com/5-79-000-confirmed-covid-024700790.html"
+        "title": "Covid-19: Schools won’t open till govt sure about safety, says Delhi CM",
+        "link": "https://timesofindia.indiatimes.com/videos/city/delhi/covid-19-schools-wont-open-till-govt-sure-about-safety-says-delhi-cm/videoshow/77569903.cms"
     },
     {
-        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
+        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
+        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
     }
 ];
