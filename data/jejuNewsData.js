@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/08/16/20200816512133.html?OutUrl=naver"
     },
     {
+        "title": "도내 코로나19 확진자 3명발생",
+        "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=200816002&PRO_CODE=4"
+    },
+    {
         "title": "코로나19 잊었나…황금연휴 제주 비상",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518289&ref=A"
     },
     {
         "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
         "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "\"잠잠했는데...\" 충북서 코로나 확진자 3명 발생",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/16/2020081600337.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
