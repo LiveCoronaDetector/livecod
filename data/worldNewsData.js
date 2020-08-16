@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "Coronavirus live: Israel waives quarantine for arrivals from 20 countries",
-        "link": "https://www.haaretz.com/israel-news/coronavirus-covid-israel-travel-west-bank-palestinians-1.9076268"
+        "title": "Coronavirus czar accuses Arabs of ‘attacking’ Israel by spreading virus",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-761-new-cases-death-toll-rises-to-679-638818"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -22,22 +22,22 @@ var worldNewsData = [
     },
     {
         "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
-        "link": "https://news.google.com/articles/CAIiEPKJr3BoKDQf2fdR0LuVpB0qGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
         "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
         "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/h_f05f9e7d3da461ea850d9fd5505cfe69"
-    },
-    {
-        "title": "AAP to provide oximeters to 30,000 villages across India to help fight Covid",
-        "link": "https://theprint.in/india/aap-to-provide-oximeters-to-30000-villages-across-india-to-help-fight-covid/483117/"
+        "title": "Coronavirus: WHO reports daily record number of COVID-19 cases",
+        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
     },
     {
         "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
         "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+    },
+    {
+        "title": "What We Know About How Air Conditioners Spread COVID-19 : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/15/897147164/can-air-conditioners-spread-covid-19"
     }
 ];
