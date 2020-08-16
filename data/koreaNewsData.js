@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008151534408157"
     },
     {
-        "title": "쿠팡 '인천2 배송캠프', 코로나19 확진자 발생…\"즉각 폐쇄\"",
-        "link": "https://www.news1.kr/articles/?4027453"
+        "title": "[전문] 수원시청 124번째 확진자 발생...화서2동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=376092"
     },
     {
         "title": "[전문] 안성시청 13번째 확진자 발생",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=376095"
     },
     {
-        "title": "서울 코로나 신규 확진 74명…최다 기록",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081500656.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "쿠팡 '인천2 배송캠프', 코로나19 확진자 발생…\"즉각 폐쇄\"",
+        "link": "https://www.news1.kr/articles/?4027453"
     },
     {
-        "title": "코로나 2차 유행오나.... 신규확진자 3월 이후 최대",
-        "link": "https://hankookilbo.com/News/Read/A2020081510260002625?did=NA"
+        "title": "서울 코로나 신규 확진 74명…최다 기록",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/15/2020081500656.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5526727,
-        "사망자수": 172546,
-        "완치자수": 2897794
+        "확진자수": 5529289,
+        "사망자수": 172585,
+        "완치자수": 2898566
     },
     {
         "Name": "브라질",
@@ -105,20 +105,20 @@ var marker = [
         "완치자수": 264487
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "확진자수": 289100,
+        "사망자수": 5637,
+        "완치자수": 205697
+    },
+    {
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
         "확진자수": 288047,
         "사망자수": 6162,
         "완치자수": 265624
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "확진자수": 282437,
-        "사망자수": 5565,
-        "완치자수": 205697
     },
     {
         "Name": "Bangladesh",
@@ -860,9 +860,9 @@ var marker = [
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "확진자수": 3930,
-        "사망자수": 73,
-        "완치자수": 2752
+        "확진자수": 3960,
+        "사망자수": 75,
+        "완치자수": 2830
     },
     {
         "Name": "Namibia",
@@ -929,6 +929,14 @@ var marker = [
         "완치자수": 2940
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "확진자수": 2961,
+        "사망자수": 42,
+        "완치자수": 1990
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
@@ -943,14 +951,6 @@ var marker = [
         "확진자수": 2855,
         "사망자수": 31,
         "완치자수": 1969
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "확진자수": 2838,
-        "사망자수": 41,
-        "완치자수": 1894
     },
     {
         "Name": "Mozambique",
@@ -1012,8 +1012,8 @@ var marker = [
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
-        "확진자수": 2088,
-        "사망자수": 29,
+        "확진자수": 2117,
+        "사망자수": 33,
         "완치자수": 1015
     },
     {
@@ -1246,7 +1246,7 @@ var marker = [
         "Name_en": "Sao Tome and Principe",
         "확진자수": 885,
         "사망자수": 15,
-        "완치자수": 809
+        "완치자수": 815
     },
     {
         "Name": "Réunion",
