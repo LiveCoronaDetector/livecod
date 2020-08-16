@@ -5,15 +5,15 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/16/latest_news/1597561613_939093.html"
     },
     {
-        "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
-        "link": "https://news.google.com/articles/CAIiECE8639Hcc1XAw4owOiFxNMqGQgEKhAIACoHCAowocv1CjCSptoCMNHPpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
+        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
         "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
         "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
     },
     {
-        "title": "Coronavirus live news: Italy hits record cases since May; Spain puts 1am limit on bars and restaurants",
+        "title": "Coronavirus live: Amazon investigated in Germany over lockdown price controls; new French cases exceed 3,000 again",
         "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
     },
     {
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
         "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
-    },
-    {
-        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
-        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     },
     {
         "title": "AAP to provide oximeters to 30,000 villages across India to help fight Covid",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: global daily case tally tops record high",
         "link": "https://www.scmp.com/news/world/article/3097583/coronavirus-global-daily-case-tally-tops-record-high-countries-battle"
+    },
+    {
+        "title": "Italy closes nightclubs as coronavirus cases rise among young",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-italy-nightclubs/italy-closes-nightclubs-as-coronavirus-cases-rise-among-young-idUSKCN25C0R1"
     }
 ];
