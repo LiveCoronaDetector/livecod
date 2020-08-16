@@ -1393,6 +1393,14 @@ var marker = [
         "완치자수": 107
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 298,
+        "사망자수": 2,
+        "완치자수": 55
+    },
+    {
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
@@ -1407,14 +1415,6 @@ var marker = [
         "확진자수": 285,
         "사망자수": 0,
         "완치자수": 248
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 274,
-        "사망자수": 2,
-        "완치자수": 54
     },
     {
         "Name": "캄보디아",
