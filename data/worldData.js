@@ -4,7 +4,7 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5546005,
+        "확진자수": 5546622,
         "사망자수": 172870,
         "완치자수": 2908631
     },
@@ -36,9 +36,9 @@ var marker = [
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "확진자수": 583653,
-        "사망자수": 11677,
-        "완치자수": 466941
+        "확진자수": 587345,
+        "사망자수": 11839,
+        "완치자수": 472377
     },
     {
         "Name": "페루",
@@ -849,6 +849,14 @@ var marker = [
         "완치자수": 3548
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "확진자수": 4154,
+        "사망자수": 35,
+        "완치자수": 2370
+    },
+    {
         "Name": "Nicaragua",
         "Name_ch": "",
         "Name_en": "Nicaragua",
@@ -863,14 +871,6 @@ var marker = [
         "확진자수": 3960,
         "사망자수": 75,
         "완치자수": 2830
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "확진자수": 3907,
-        "사망자수": 35,
-        "완치자수": 2352
     },
     {
         "Name": "Eswatini",
@@ -964,9 +964,9 @@ var marker = [
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "확진자수": 2614,
+        "확진자수": 2640,
         "사망자수": 125,
-        "완치자수": 1986
+        "완치자수": 1987
     },
     {
         "Name": "South Sudan",
@@ -1057,6 +1057,14 @@ var marker = [
         "완치자수": 628
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "확진자수": 1872,
+        "사망자수": 63,
+        "완치자수": 401
+    },
+    {
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
@@ -1065,12 +1073,12 @@ var marker = [
         "완치자수": 1013
     },
     {
-        "Name": "Gambia",
+        "Name": "Syria",
         "Name_ch": "",
-        "Name_en": "Gambia",
-        "확진자수": 1689,
-        "사망자수": 54,
-        "완치자수": 347
+        "Name_en": "Syria",
+        "확진자수": 1677,
+        "사망자수": 64,
+        "완치자수": 417
     },
     {
         "Name": "New Zealand",
@@ -1079,14 +1087,6 @@ var marker = [
         "확진자수": 1622,
         "사망자수": 22,
         "완치자수": 1531
-    },
-    {
-        "Name": "Syria",
-        "Name_ch": "",
-        "Name_en": "Syria",
-        "확진자수": 1593,
-        "사망자수": 60,
-        "완치자수": 408
     },
     {
         "Name": "Uruguay",
