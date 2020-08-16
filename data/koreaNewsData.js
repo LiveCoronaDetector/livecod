@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008161553001&code=940100"
     },
     {
-        "title": "\"코로나 저지에 범국가역량 총동원…방역방해 엄단\"(종합)",
-        "link": "http://yna.kr/AKR20200816031651001?did=1195m"
-    },
-    {
-        "title": "코로나 퍼지는데… 전공의, 21일부터 무기한 업무 중단",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014913933&code=61121111&cp=nv"
-    },
-    {
-        "title": "[단독] 삼성 서울R&D캠퍼스 코로나 확진자 발생 \"1개동 폐쇄\"",
-        "link": "http://www.fnnews.com/news/202008161555278112"
-    },
-    {
-        "title": "사랑제일교회 관련 확진자, 여의도 '의사궐기대회' 현장 갔다",
-        "link": "http://yna.kr/AKR20200816035700004?did=1195m"
-    },
-    {
-        "title": "김포 코로나19 확진자 2박 3일 제주여행",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
+        "title": "전공의,21일부터 무기한 업무중단…장기화때 코로나 진료 '비상'(종합)",
+        "link": "http://yna.kr/AKR20200816044551017?did=1195m"
     },
     {
         "title": "[단독] LG도 뚫렸다…LGD 파주사업장 직원 첫 코로나 확진",
         "link": "https://www.hankyung.com/it/article/2020081627827"
     },
     {
-        "title": "코로나 확진자 방문한 신라스테이 서대문, 임시 휴업 돌입",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01567846625867976"
+        "title": "서울 롯데월드, 코로나19 확진자 방문으로 임시 폐장",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993141?division=NAVER"
+    },
+    {
+        "title": "사랑제일교회 800명 검사 결과 25% 코로나 확진...\"전국적 감염 확산 우려\"(종...",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/16/2020081601023.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[단독] 삼성 서울R&D캠퍼스 코로나 확진자 발생 \"1개동 폐쇄\"",
+        "link": "http://www.fnnews.com/news/202008161555278112"
     },
     {
         "title": "[종합] '제주도 여행' 일행 3명 코로나19 확진...차단 방역 비상",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424977"
     },
     {
-        "title": "사랑제일교회 800명 검사 결과 25% 코로나 확진...\"전국적 감염 확산 우려\"(종...",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/16/2020081601023.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 확진자 방문한 신라스테이 서대문, 임시 휴업 돌입",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01567846625867976"
+    },
+    {
+        "title": "코로나 신규확진 279명, 161일만에 최대…수도권발 대유행?",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5875406_32633.html"
+    },
+    {
+        "title": "사랑제일교회 관련 확진자, 여의도 '의사궐기대회' 현장 갔다",
+        "link": "http://yna.kr/AKR20200816035700004?did=1195m"
     }
 ];

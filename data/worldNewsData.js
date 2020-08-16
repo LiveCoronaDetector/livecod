@@ -6,27 +6,27 @@ var worldNewsData = [
     },
     {
         "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
-        "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
+        "link": "https://news.google.com/articles/CAIiECE8639Hcc1XAw4owOiFxNMqGQgEKhAIACoHCAowocv1CjCSptoCMNHPpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "UAE, Israeli companies sign agreement on coronavirus R&D",
-        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
+        "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
+        "link": "https://news.google.com/articles/CAIiENDSoJK4CyVmvpAtMJ1oEBwqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/france-sees-resurgence-coronavirus-cases-post-lockdown-live-200815235259944.html"
+        "link": "https://news.google.com/articles/CAIiEPYBSRvZGZao20Rs0WT0a7QqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "South Africa to ease coronavirus restrictions: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
+        "link": "https://news.google.com/articles/CAIiEF1geWFrU7UylhIYPvKV15kqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
-        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
+        "title": "Coronavirus live news: France set to announce new measures; New Zealand active cases rise to 69",
+        "link": "https://news.google.com/articles/CAIiEAfsXD7ct15KfivbZ7Ljc5wqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "link": "https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9uZy1pbnRlcmFjdGl2ZS8yMDIwL2F1Zy8xNi9jb3ZpZC12YWNjaW5lLXRyYWNrZXItd2hlbi13aWxsLXdlLWhhdmUtYS1jb3JvbmF2aXJ1cy12YWNjaW5l0gEA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+        "link": "https://news.google.com/articles/CAIiEG3vfejMk9lU-n8Fs6j-BVoqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

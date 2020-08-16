@@ -13,31 +13,31 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     },
     {
-        "title": "코로나19 재 확산에 제주도 긴장...확진자 3명 가족여행",
-        "link": "https://hankookilbo.com/News/Read/A2020081614170003737?did=NA"
+        "title": "충북서 김포 70번 확진자 부모 등 3명 '양성'…확진자 86명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200816_0001131244&cID=10806&pID=10800"
     },
     {
-        "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
-        "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
+        "title": "김포시 70번 확진자, 2박3일간 제주여행 후 코로나19 확진",
+        "link": "https://www.news1.kr/articles/?4027831"
     },
     {
         "title": "\"잠잠했는데...\" 충북서 코로나 확진자 3명 발생",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/16/2020081600337.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "청주·충주 코로나19 확진자 3명 추가…충북 86명↑",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=236862"
+    },
+    {
         "title": "충북서 코로나19 확진자 3명 나와",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/957954.html"
     },
     {
-        "title": "충북 코로나19 하루 3명 확진…지역 확산 비상",
-        "link": "https://www.nocutnews.co.kr/news/5395641"
+        "title": "김포시 코로나19 확진자와 제주여행한 '부모' 확진 판정",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=127394"
     },
     {
-        "title": "사랑제일교회 107명 확진자 ‘빙산의 일각’…3차 대유행 현실화하나",
-        "link": "http://www.segye.com/content/html/2020/08/16/20200816512133.html?OutUrl=naver"
-    },
-    {
-        "title": "제주 코로나 25번 확진자 퇴원...3명 남아",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=318989"
+        "title": "청주·충주서 코로나19 확진자 3명 발생",
+        "link": "http://www.newsfreezone.co.kr/news/articleView.html?idxno=253477"
     }
 ];
