@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01567846625867976"
     },
     {
+        "title": "사랑제일교회 확진자, 여의도 ‘의사궐기대회’ 현장 갔다",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014913835&code=61121911&cp=nv"
+    },
+    {
         "title": "[단독] 경찰관 2명 코로나 확진…배우자도 경찰서 근무",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005933687&plink=ORI&cooper=NAVER"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081500005"
     },
     {
-        "title": "[속보] 서울시 \"사랑제일교회 확진자 193명…전광훈 고발\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008160055&t=NN"
-    },
-    {
-        "title": "러시아산 코로나 백신, “10월 실내감염 공포 때문에 서둘러”",
-        "link": "https://weekly.donga.com/3/all/11/2151282/1"
+        "title": "[속보]코로나19 신규확진자 279명... 5개월 만에 최다",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008161021001&code=940100"
     }
 ];

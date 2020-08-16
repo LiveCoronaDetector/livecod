@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "Interference in scientific research on COVID-19 in Turkey",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
+        "title": "Coronavirus czar accuses Arabs of ‘attacking’ Israel by spreading virus",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-761-new-cases-death-toll-rises-to-679-638818"
     },
     {
         "title": "France, South Korea see resurgence of coronavirus cases: Live",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+    },
+    {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/h_f05f9e7d3da461ea850d9fd5505cfe69"
     },
     {
-        "title": "AAP to make oximeters available in 30k villages to help in Covid fight: Kejriwal",
-        "link": "https://www.livemint.com/news/india/aap-to-make-oximeters-available-in-30k-villages-to-help-in-covid-fight-kejriwal-11597587660656.html"
-    },
-    {
-        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+        "title": "U.S. Coronavirus Forecasts Offer Somber Outlook",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-08-15-2020-11597481096"
     }
 ];
