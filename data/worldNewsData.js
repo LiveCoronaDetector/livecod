@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Top doc: If schools open, COVID-19 will crash health system by December",
-        "link": "https://www.jpost.com/health-science/top-doc-if-schools-open-covid-19-will-crash-health-system-by-december-638865"
+        "title": "Interference in scientific research on COVID-19 in Turkey",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
-        "title": "Coronavirus live news: new French cases surpass 3,000 for second day; Italy hits record cases since May",
+        "title": "Coronavirus live: Amazon investigated in Germany over lockdown price controls; new French cases exceed 3,000 again",
         "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
-        "title": "AAP to provide oximeters to 30,000 villages across India to help fight Covid",
-        "link": "https://theprint.in/india/aap-to-provide-oximeters-to-30000-villages-across-india-to-help-fight-covid/483117/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
     },
     {
-        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "Italy closes nightclubs as coronavirus cases rise among young",
+        "link": "https://www.msn.com/en-us/news/world/italy-closes-nightclubs-as-coronavirus-cases-rise-among-young/ar-BB181XEY?li=BBnb7Kz"
     },
     {
         "title": "Coronavirus: global daily case tally tops record high",
         "link": "https://www.scmp.com/news/world/article/3097583/coronavirus-global-daily-case-tally-tops-record-high-countries-battle"
-    },
-    {
-        "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
-        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
     }
 ];
