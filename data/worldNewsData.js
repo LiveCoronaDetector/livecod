@@ -6,11 +6,11 @@ var worldNewsData = [
     },
     {
         "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
-        "link": "https://news.google.com/articles/CAIiECE8639Hcc1XAw4owOiFxNMqGQgEKhAIACoHCAowocv1CjCSptoCMNHPpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "Coronavirus live: Israel waives quarantine for arrivals from 20 countries",
-        "link": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LmhhYXJldHouY29tL2lzcmFlbC1uZXdzL2Nvcm9uYXZpcnVzLWNvdmlkLWlzcmFlbC10cmF2ZWwtd2VzdC1iYW5rLXBhbGVzdGluaWFucy0xLjkwNzYyNjjSAWhodHRwczovL3d3dy5oYWFyZXR6LmNvbS9hbXAvaXNyYWVsLW5ld3MvY29yb25hdmlydXMtY292aWQtaXNyYWVsLXRyYXZlbC13ZXN0LWJhbmstcGFsZXN0aW5pYW5zLTEuOTA3NjI2OA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Top doc: If schools open, COVID-19 will crash health system by December",
+        "link": "https://www.jpost.com/health-science/top-doc-if-schools-open-covid-19-will-crash-health-system-by-december-638865"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
-        "title": "South Korea Warns of Another Covid-19 Outbreak Tied to a Church",
-        "link": "https://news.google.com/articles/CAIiEICHFa5pSeGyQnh4n3HcHv4qFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
+        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9uZy1pbnRlcmFjdGl2ZS8yMDIwL2F1Zy8xNi9jb3ZpZC12YWNjaW5lLXRyYWNrZXItd2hlbi13aWxsLXdlLWhhdmUtYS1jb3JvbmF2aXJ1cy12YWNjaW5l0gEA?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
-        "link": "https://news.google.com/articles/CAIiEKrPBqsy18_AWAAZ7IvctSwqFwgEKg8IACoHCAowjuuKAzCWrzwwloIY?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
-        "link": "https://news.google.com/articles/CAIiECjJKrgOF6Etl5MCEkN7MW8qFwgEKg8IACoHCAow-ZzLBzD77Ecwm8B5?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
         "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
         "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
+    },
+    {
+        "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
+        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
+    },
+    {
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     }
 ];
