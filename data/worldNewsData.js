@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/think/opinion/covid-19-spikes-south-africa-melbourne-offer-america-clues-ahead-ncna1236875"
     },
     {
-        "title": "I downloaded America’s first coronavirus exposure app. You should too.",
-        "link": "https://www.washingtonpost.com/technology/2020/08/17/coronavirus-exposure-notification-app/"
+        "title": "Covid-19 is now the No. 3 cause of death in the US. But testing to find and isolate cases has dropped off",
+        "link": "https://www.cnn.com/2020/08/17/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
         "link": "https://www.jpost.com/breaking-news/plan-to-allow-tourists-in-israel-to-be-presented-by-end-of-month-health-ministry-638924"
     },
     {
-        "title": "Italy shutters nightclubs, mandates masks as coronavirus case numbers rise again",
-        "link": "https://www.washingtonpost.com/world/europe/italy-shutters-nightclubs-mandates-masks-as-coronavirus-case-numbers-rise-again/2020/08/17/24e5e2e4-e066-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/17/903282953/we-can-t-live-like-zombies-protesters-in-spain-decry-covid-19-mask-mandate"
     },
     {
         "title": "US coronavirus death toll exceeds 170,000: Live updates",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-53802967"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
+    },
+    {
         "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
         "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     },
     {
-        "title": "Southeast Asia Detects Mutated Virus Strain Sweeping the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a8b43cc0-e0dd-11ea-a7c3-a9c63b95dce1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
+        "title": "Hillary Clinton slams Trump's response to coronavirus pandemic, decision to withdraw from WHO",
+        "link": "https://www.cnbc.com/2020/08/17/hillary-clinton-slams-trump-response-to-coronavirus-withdrawal-from-who.html"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/17/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
-    },
-    {
-        "title": "Coronavirus positivity rates are climbing in the US",
-        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/h_1a0e95ac5eb5c769118cfdc2a51b0562"
     }
 ];
