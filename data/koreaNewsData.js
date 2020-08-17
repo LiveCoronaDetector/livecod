@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081701947.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "정은경 \"코로나19 무서운 속도로 전국확산…가장 우려했던 상황\"(종합)",
-        "link": "http://yna.kr/AKR20200817047751530?did=1195m"
-    },
-    {
         "title": "여의도순복음교회도 코로나19 확진자 3명 발생",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
@@ -19,6 +15,10 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규확진 197명…교회발 감염 확산",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993163?division=NAVER"
+    },
+    {
+        "title": "정은경 \"코로나19 무서운 속도로 전국확산…가장 우려했던 상황\"(종합)",
+        "link": "http://yna.kr/AKR20200817047751530?did=1195m"
     },
     {
         "title": "[속보] 서울 확진자 하루 89명…교회 3곳서 70%",
