@@ -17,16 +17,16 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020081748337"
     },
     {
-        "title": "[종합] 코로나19 확진자 197명 증가...지역 188명 중 서울 89명, 경기 67명",
-        "link": "http://www.fnnews.com/news/202008171016196956"
-    },
-    {
         "title": "코로나19 신규확진 197명…사랑제일교회 우리제일교회 관련 감염자 눈덩이",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081600142"
     },
     {
         "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 197명 증가...지역 188명 중 서울 89명, 경기 67명",
+        "link": "http://www.fnnews.com/news/202008171016196956"
     },
     {
         "title": "여의도순복음교회 교인인 김포 확진자, 확진 전 제주도 여행",

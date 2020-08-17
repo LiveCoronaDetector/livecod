@@ -13,28 +13,28 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
     },
     {
-        "title": "[종합] 대구·경북서도 사랑제일교회 확진자 발생...보건당국 비상",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081700904.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "사랑제일교회 확진자 급증 총 315명…2천명 검사서 양성률 16.1%(종합)",
+        "link": "http://yna.kr/AKR20200817034351530?did=1195m"
     },
     {
-        "title": "원주 코로나19 28번째 확진자 발생…사랑제일교회 참석자",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081600140"
-    },
-    {
-        "title": "코로나19 신규 확진 197명…국내 188명·해외유입 9명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5876198_32633.html"
-    },
-    {
-        "title": "여의도순복음교회서 확진자 다수 발생…성가대 의심",
-        "link": "http://yna.kr/AKR20200817023700004?did=1195m"
+        "title": "코로나19 신규 확진자 197명 가운데 국내 발생 188명…나흘째 세자릿수",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4518567&ref=A"
     },
     {
         "title": "경북에서 사랑제일교회 관련 코로나19 확진자 발생",
         "link": "https://news.imaeil.com/Society/2020081708372010575"
     },
     {
-        "title": "\"전염력 10배 강한 코로나19 변종 발견\"",
-        "link": "https://www.hankyung.com/society/article/2020081752207"
+        "title": "원주 코로나19 28번째 확진자 발생…사랑제일교회 참석자",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081600140"
+    },
+    {
+        "title": "여의도순복음교회서 확진자 다수 발생…성가대 의심",
+        "link": "http://yna.kr/AKR20200817023700004?did=1195m"
+    },
+    {
+        "title": "10배 센 괴물 코로나 나타났다, 말레이시아 변종 발견",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081700955.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[단독] \"70대 확진자, 사랑제일교회 강당서 교인들과 5박6일 합숙\"",
