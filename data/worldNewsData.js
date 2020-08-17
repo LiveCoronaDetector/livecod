@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Live updates: New Zealand postpones election amid new coronavirus cases",
-        "link": "https://www.washingtonpost.com/nation/2020/08/17/coronavirus-covid-live-updates-us/"
+        "link": "https://www.washingtonpost.com/nation/2020/08/16/coronavirus-covid-updates/"
     },
     {
         "title": "Israel's coronavirus czar apologizes after likening spread of virus among Arabs to 'mass terror attack'",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
     },
     {
-        "title": "Amazon investigated in Germany over lockdown price controls – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
+        "title": "Hundreds gather in Madrid for anti-mask protest",
+        "link": "https://www.bbc.com/news/av/world-europe-53802226/coronavirus-hundreds-gather-in-madrid-for-anti-mask-protest"
     }
 ];
