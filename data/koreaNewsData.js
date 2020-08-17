@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200817047751530?did=1195m"
     },
     {
-        "title": "[단독]LG전자 서울역빌딩서 코로나19 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5395973"
-    },
-    {
         "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993198?division=NAVER"
+    },
+    {
+        "title": "[단독]LG전자 서울역빌딩서 코로나19 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5395973"
     }
 ];
