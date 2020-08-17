@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/17/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
-        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
+        "title": "Israel's coronavirus czar apologizes after likening spread of virus among Arabs to 'mass terror attack'",
+        "link": "https://www.jta.org/quick-reads/israels-coronavirus-czar-apologizes-after-likening-spread-of-virus-among-arabs-to-mass-terror-attack"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     },
     {
+        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
+        "link": "https://www.bbc.com/news/world-asia-53796434"
+    },
+    {
         "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
         "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
     },
     {
         "title": "Amazon investigated in Germany over lockdown price controls – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
-    },
-    {
-        "title": "Global coronavirus daily case tally tops record high",
-        "link": "https://www.scmp.com/news/world/article/3097583/coronavirus-global-daily-case-tally-tops-record-high-countries-battle"
     }
 ];

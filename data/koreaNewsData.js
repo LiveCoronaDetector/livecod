@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200817047751530?did=1195m"
     },
     {
-        "title": "[종합] \"사랑제일교회 전광훈 목사 코로나19 확진\"",
-        "link": "https://news.imaeil.com/Society/2020081716060217212"
-    },
-    {
         "title": "사랑제일교회 확진자 하루새 116명 추가…전국 총 315명(종합)",
         "link": "http://yna.kr/AKR20200817029051004?did=1195m"
     },
@@ -21,16 +17,16 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993198?division=NAVER"
     },
     {
-        "title": "[속보] 정은경 \"코로나19 유행, 무섭도록 빠르게 전국 확산\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170109&t=NN"
+        "title": "여의도순복음교회서 확진자 발생…방역당국 초긴장",
+        "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
     },
     {
-        "title": "여의도순복음교회도 코로나 확진자 10명 발생…경기도 거주",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
+        "title": "서울 사랑제일교회 발 전북 코로나 확진자 2명 발생…추가 우려(종합)",
+        "link": "http://www.fnnews.com/news/202008171138433451"
     },
     {
-        "title": "어제 코로나 신규확진 197명 중 188명이 지역 발생",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005934157&plink=ORI&cooper=NAVER"
+        "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5876503_32633.html"
     },
     {
         "title": "10배 센 괴물 코로나 나타났다, 말레이시아 변종 발견",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[단독]LG전자 서울역빌딩서 코로나19 확진자 발생",
         "link": "https://www.nocutnews.co.kr/news/5395973"
+    },
+    {
+        "title": "확진자수 이태원 넘어…\"금주 안정 안되면 거리두기 강화\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01685926625868304"
     }
 ];
