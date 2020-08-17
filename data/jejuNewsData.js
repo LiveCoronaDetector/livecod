@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
     {
+        "title": "여의도순복음교회서 확진자 발생…방역당국 초긴장",
+        "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
+    },
+    {
         "title": "여의도순복음교회서 확진자 다수 발생…성가대 의심",
         "link": "http://yna.kr/AKR20200817023700004?did=1195m"
     },
@@ -21,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008171212362720"
     },
     {
+        "title": "충주 50대 부부 확진자 접촉자 중 34명 음성",
+        "link": "http://www.newsis.com/view/?id=NISX20200817_0001132017&cID=10899&pID=10800"
+    },
+    {
         "title": "황금연휴 22만명 제주행…코로나19 사태 이전보다 더 왔다",
         "link": "http://www.newsis.com/view/?id=NISX20200817_0001131839&cID=10813&pID=10800"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "김포 확진자, 여의도순복음교회 교인…확진 전 제주도 여행",
         "link": "http://yna.kr/AKR20200816018600065?did=1195m"
-    },
-    {
-        "title": "김포시 코로나 확진자 일행 제주도 여행 동선 공개",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424974"
-    },
-    {
-        "title": "충주 50대 부부 확진자와 접촉한 34명 음성",
-        "link": "https://www.news1.kr/articles/?4028647"
     }
 ];
