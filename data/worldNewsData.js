@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/16/latest_news/1597561613_939093.html"
     },
     {
-        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
-        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
+        "title": "Few signs of collective mourning as the US tops 170,000 coronavirus deaths",
+        "link": "https://www.cnn.com/2020/08/16/us/coronavirus-pandemic-national-mourning/index.html"
     },
     {
-        "title": "Denial over coronavirus leads to high infection rates in east Jerusalem",
-        "link": "https://www.jpost.com/arab-israeli-conflict/jerusalems-arab-residents-are-still-in-denial-638862"
+        "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
+        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
     },
     {
-        "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
-        "link": "https://www.nbcnews.com/news/world/germany-mistakenly-neglects-tell-949-travelers-they-have-coronavirus-n1236892"
+        "title": "Amazon investigated in Germany over lockdown price controls – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
     },
     {
         "title": "South Africa to ease coronavirus restrictions: Live updates",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
-    },
-    {
         "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
         "link": "https://www.bbc.com/news/world-asia-53796434"
+    },
+    {
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
         "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
