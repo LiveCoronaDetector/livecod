@@ -5,19 +5,19 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/17/latest_news/1597645622_809314.html"
     },
     {
-        "title": "More than 1,000 people in the US have died of coronavirus nearly every day this month",
+        "title": "Covid-19 is now the No. 3 cause of death in the US. And testing to find and isolate cases has dropped off",
         "link": "https://www.cnn.com/2020/08/17/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
-        "link": "https://www.jpost.com/breaking-news/plan-to-allow-tourists-in-israel-to-be-presented-by-end-of-month-health-ministry-638924"
+        "title": "A vaccine for coronavirus? A large number of Israeli doctors will refuse to get it",
+        "link": "https://www.haaretz.com/israel-news/.premium-many-israeli-health-care-workers-reluctant-to-get-coronavirus-vaccine-survey-says-1.9075339"
     },
     {
-        "title": "Italy shutters nightclubs, mandates masks as coronavirus case numbers rise again",
-        "link": "https://www.washingtonpost.com/world/europe/italy-shutters-nightclubs-mandates-masks-as-coronavirus-case-numbers-rise-again/2020/08/17/24e5e2e4-e066-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
+        "link": "https://www.nbcnews.com/news/world/germany-mistakenly-neglects-tell-949-travelers-they-have-coronavirus-n1236892"
     },
     {
-        "title": "NZ postpones vote; India coronavirus deaths top 50,000: Live",
+        "title": "US coronavirus death toll exceeds 170,000: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-53802967"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/17/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
-        "link": "https://www.bbc.com/news/world-asia-53796434"
+        "title": "Italy shuts nightclubs as Covid-19 cases rise among young",
+        "link": "https://www.youtube.com/watch?v=m8YHiwixz8s"
     },
     {
-        "title": "Southeast Asia Detects Mutated Virus Strain Sweeping the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5acf9e40-e0c0-11ea-8637-13a331686d5c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
+        "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
+        "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     },
     {
-        "title": "Coronavirus: Italy closes nightclubs as authorities blame holidaymakers for new outbreaks",
-        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
+        "title": "Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
     }
 ];
