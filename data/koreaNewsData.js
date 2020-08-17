@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
     },
     {
+        "title": "사랑제일교회발 코로나19 확진자 대구·경북에서도 발생",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667487&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
         "title": "사랑제일교회 확진자 급증 총 315명…2천명 검사서 양성률 16.1%(종합)",
         "link": "http://yna.kr/AKR20200817034351530?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 197명 가운데 국내 발생 188명…나흘째 세자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518567&ref=A"
-    },
-    {
-        "title": "경북에서 사랑제일교회 관련 코로나19 확진자 발생",
-        "link": "https://news.imaeil.com/Society/2020081708372010575"
     },
     {
         "title": "원주 코로나19 28번째 확진자 발생…사랑제일교회 참석자",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200817023700004?did=1195m"
     },
     {
-        "title": "10배 센 괴물 코로나 나타났다, 말레이시아 변종 발견",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081700955.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "[속보] 여의도순복음교회도 코로나19 확진자 10여명 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
     {
-        "title": "[단독] \"70대 확진자, 사랑제일교회 강당서 교인들과 5박6일 합숙\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008171053230158"
+        "title": "코로나19 신규확진 197명…교회발 감염 확산",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993163?division=NAVER"
     }
 ];

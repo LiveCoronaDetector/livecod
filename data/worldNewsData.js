@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/16/latest_news/1597561613_939093.html"
     },
     {
-        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
-        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
+        "title": "Live updates: New Zealand postpones election amid new coronavirus cases",
+        "link": "https://www.washingtonpost.com/nation/2020/08/17/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Denial over coronavirus leads to high infection rates in east Jerusalem",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53796434"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
+        "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
+        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     }
 ];
