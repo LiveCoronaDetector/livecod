@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081701353.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "여의도순복음교회도 코로나19 확진자 3명 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
+    },
+    {
         "title": "서울 코로나 확진자 오늘 89명 추가…교회 3곳 69% 차지",
         "link": "http://yna.kr/AKR20200817071000004?did=1195m"
     },
     {
-        "title": "방역당국 \"사랑제일교회 전광훈, 코로나 확진\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081701346.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5876503_32633.html"
     },
     {
-        "title": "전염력 10배 강한 코로나 변종 나왔다···말레이서 발견",
-        "link": "https://www.sedaily.com/NewsView/1Z6M5FGYPO"
+        "title": "10배 센 괴물 코로나 나타났다, 말레이시아 변종 발견",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081700955.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "사랑제일교회 확진자 하루새 116명 추가…전국 총 315명(종합)",
-        "link": "http://yna.kr/AKR20200817029051004?did=1195m"
+        "title": "[종합] \"사랑제일교회 전광훈 목사 코로나19 확진\"",
+        "link": "https://news.imaeil.com/Society/2020081716060217212"
+    },
+    {
+        "title": "정은경 \"코로나19 유행, 무섭도록 빠르게 전국 확산\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170109&t=NN"
     },
     {
         "title": "[단독]LG전자 서울역빌딩서 코로나19 확진자 발생",
         "link": "https://www.nocutnews.co.kr/news/5395973"
     },
     {
-        "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993198?division=NAVER"
+        "title": "코로나 확진 197명 中 지역발생 188명… 서울·경기, 교회 중심으로 확산(종합...",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081700714.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "\"사랑제일교회 전광훈 목사 코로나19 확진\"",
-        "link": "https://imnews.imbc.com/replay/2020/nw1700/article/5876550_32510.html"
-    },
-    {
-        "title": "서울 사랑제일교회 발 전북 코로나 확진자 2명 발생…추가 우려(종합)",
-        "link": "http://www.fnnews.com/news/202008171138433451"
-    },
-    {
-        "title": "여의도순복음교회도 코로나19 확진자 3명 발생",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
+        "title": "[단독] \"'진단 지연' 사랑제일교회 확진자, 교인들과 5박6일 합숙\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008171154113091"
     }
 ];
