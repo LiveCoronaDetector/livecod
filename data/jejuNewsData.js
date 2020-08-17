@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200817023751004?did=1195m"
     },
     {
-        "title": "여의도순복음교회도 코로나 확진자 10명 발생…경기도 거주",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
-    },
-    {
         "title": "김포 코로나19 확진자 2박 3일 제주여행",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
@@ -21,8 +17,16 @@ var jejuNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081600142"
     },
     {
+        "title": "[종합] 타지역 코로나19 확진자 제주 여행…휴가철 방역 '비상'",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=149559"
+    },
+    {
         "title": "여의도순복음교회 확진자 3명.. 병원치료 중",
         "link": "http://www.fnnews.com/news/202008171212362720"
+    },
+    {
+        "title": "여의도순복음교회 성도들 중에서도 코로나19 확진자 발생",
+        "link": "https://www.christiantoday.co.kr/news/333817"
     },
     {
         "title": "[속보] '교인 56만' 여의도순복음교회서 확진자 다수 발생",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 재 확산에 제주도 긴장...확진자 3명 가족여행",
         "link": "https://hankookilbo.com/News/Read/A2020081614170003737?did=NA"
-    },
-    {
-        "title": "김포시 코로나 확진자 일행 제주도 여행 동선 공개",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424974"
     }
 ];
