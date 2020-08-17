@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/17/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
+        "title": "Israel reopens skies, plan to permit tourists to be presented end of Aug.",
         "link": "https://www.jpost.com/breaking-news/plan-to-allow-tourists-in-israel-to-be-presented-by-end-of-month-health-ministry-638924"
     },
     {
-        "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
-        "link": "https://www.nbcnews.com/news/world/germany-mistakenly-neglects-tell-949-travelers-they-have-coronavirus-n1236892"
+        "title": "Italy shutters nightclubs, mandates masks as coronavirus case numbers rise again",
+        "link": "https://www.washingtonpost.com/world/europe/italy-shutters-nightclubs-mandates-masks-as-coronavirus-case-numbers-rise-again/2020/08/17/24e5e2e4-e066-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
         "title": "NZ postpones vote; India coronavirus deaths top 50,000: Live",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-53802967"
     },
     {
+        "title": "Covid-19 Live Updates: Misinformation Becomes a New Front for Doctors to Battle",
+        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
+    },
+    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/17/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "Coronavirus live news: Lebanon to shut down to stop spread; over 16,000 infections in Spain in three days",
+        "link": "https://www.theguardian.com/world/live/2020/aug/17/coronavirus-live-news-new-zealand-postpones-election-italy-closes-nightclubs"
     },
     {
         "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
         "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
-    },
-    {
-        "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
-        "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     }
 ];
