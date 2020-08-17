@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/17/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
-        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
+        "title": "Interference in scientific research on COVID-19 in Turkey",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
@@ -21,11 +21,11 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
-        "title": "Coronavirus Update: India Records Over 63489 Cases In The Last 24 Hours",
-        "link": "https://www.youtube.com/watch?v=1cCQId3eRVQ"
+        "title": "Covid 19 in Victoria 282 new cases, 25 more deaths",
+        "link": "https://www.youtube.com/watch?v=MukYd3rqIUE"
     },
     {
-        "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
+        "title": "Scientists See Signs of Lasting Virus Immunity, Even After Mild Infections",
         "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     },
     {
