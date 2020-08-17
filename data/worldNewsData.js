@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Top doc: If schools open, COVID-19 will crash health system by December",
-        "link": "https://www.jpost.com/health-science/top-doc-if-schools-open-covid-19-will-crash-health-system-by-december-638865"
+        "title": "A vaccine for coronavirus? A large number of Israeli doctors will refuse to get it",
+        "link": "https://www.haaretz.com/israel-news/.premium-many-israeli-health-care-workers-reluctant-to-get-coronavirus-vaccine-survey-says-1.9075339"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
-        "title": "Victoria records deadliest day in Australia so far",
-        "link": "https://www.youtube.com/watch?v=VoIBMdLHKiA"
+        "title": "Coronavirus: Japan suffers its biggest economic slump on record",
+        "link": "https://www.bbc.com/news/business-53802967"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/17/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
+    },
+    {
+        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
+        "link": "https://www.bbc.com/news/world-asia-53796434"
+    },
+    {
+        "title": "Covid-19 Live Updates: Los Angeles Schools to Test 700,000 Students for the Virus",
+        "link": "https://www.nytimes.com/2020/08/17/world/covid-19-coronavirus.html"
     },
     {
         "title": "Hundreds gather in Madrid for anti-mask protest",
         "link": "https://www.bbc.com/news/av/world-europe-53802226/coronavirus-hundreds-gather-in-madrid-for-anti-mask-protest"
-    },
-    {
-        "title": "Italy shuts nightclubs as Covid-19 cases rise among young",
-        "link": "https://www.youtube.com/watch?v=m8YHiwixz8s"
-    },
-    {
-        "title": "Southeast Asia Detects Mutated Virus Strain Sweeping the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=83c63a60-e085-11ea-a8ee-95af22e93399&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
     }
 ];

@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081701353.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "정은경 \"코로나19 무서운 속도로 전국확산…가장 우려했던 상황\"(종합)",
-        "link": "http://yna.kr/AKR20200817047751530?did=1195m"
-    },
-    {
         "title": "서울 코로나 확진자 오늘 89명 추가…교회 3곳 69% 차지",
         "link": "http://yna.kr/AKR20200817071000004?did=1195m"
+    },
+    {
+        "title": "방역당국 \"사랑제일교회 전광훈, 코로나 확진\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081701346.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "전염력 10배 강한 코로나 변종 나왔다···말레이서 발견",
+        "link": "https://www.sedaily.com/NewsView/1Z6M5FGYPO"
     },
     {
         "title": "사랑제일교회 확진자 하루새 116명 추가…전국 총 315명(종합)",
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5395973"
     },
     {
-        "title": "여의도순복음교회도 코로나 확진자 10명 발생…경기도 거주",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
+        "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993198?division=NAVER"
     },
     {
-        "title": "여의도순복음교회서 확진자 다수 발생…성가대 의심",
-        "link": "http://yna.kr/AKR20200817023700004?did=1195m"
+        "title": "\"사랑제일교회 전광훈 목사 코로나19 확진\"",
+        "link": "https://imnews.imbc.com/replay/2020/nw1700/article/5876550_32510.html"
     },
     {
         "title": "서울 사랑제일교회 발 전북 코로나 확진자 2명 발생…추가 우려(종합)",
         "link": "http://www.fnnews.com/news/202008171138433451"
     },
     {
-        "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5876503_32633.html"
-    },
-    {
-        "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993198?division=NAVER"
+        "title": "여의도순복음교회도 코로나19 확진자 3명 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     }
 ];
