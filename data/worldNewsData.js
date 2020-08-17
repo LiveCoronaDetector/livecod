@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Interference in scientific research on COVID-19 in Turkey",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
+        "title": "Greece Coronavirus Cases Surpass 7000",
+        "link": "https://greekcitytimes.com/2020/08/17/greece-coronavirus-cases-surpass-7000/"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",

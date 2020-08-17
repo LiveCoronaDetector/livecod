@@ -300,9 +300,9 @@ var marker = [
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "확진자수": 70461,
-        "사망자수": 2991,
-        "완치자수": 32587
+        "확진자수": 71194,
+        "사망자수": 3029,
+        "완치자수": 32759
     },
     {
         "Name": "벨라루스",
@@ -396,9 +396,9 @@ var marker = [
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "확진자수": 42532,
-        "사망자수": 231,
-        "완치자수": 40362
+        "확진자수": 42653,
+        "사망자수": 239,
+        "완치자수": 40567
     },
     {
         "Name": "모로코",
@@ -1513,20 +1513,20 @@ var marker = [
         "완치자수": 49
     },
     {
+        "Name": "리히텐슈타인",
+        "Name_ch": "列支敦士登",
+        "Name_en": "Liechtenstein",
+        "확진자수": 94,
+        "사망자수": 1,
+        "완치자수": 87
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
         "확진자수": 93,
         "사망자수": 3,
         "완치자수": 88
-    },
-    {
-        "Name": "리히텐슈타인",
-        "Name_ch": "列支敦士登",
-        "Name_en": "Liechtenstein",
-        "확진자수": 91,
-        "사망자수": 1,
-        "완치자수": 87
     },
     {
         "Name": "St. Vincent Grenadines",
