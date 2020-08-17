@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
     },
     {
-        "title": "Amazon investigated in Germany over lockdown price controls – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/aug/16/coronavirus-live-news-australia-close-to-vaccine-deal-england-scraps-public-health-agency"
+        "title": "Malaysia Finds More Infectious Virus Strain Seen in Europe",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=73c73580-e042-11ea-bec4-0dd1fa807ef9&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
     },
     {
-        "title": "South Africa to ease coronavirus restrictions: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
+        "title": "Protests Grow in Thailand, Where Speaking Out Can Be Perilous",
+        "link": "https://www.nytimes.com/2020/08/16/world/asia/thailand-protests-democracy-monarchy.html"
     },
     {
         "title": "Australia reports deadliest day of coronavirus pandemic: Live",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     },
     {
-        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
-        "link": "https://www.bbc.com/news/world-asia-53796434"
-    },
-    {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+    },
+    {
+        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
+        "link": "https://www.bbc.com/news/world-asia-53796434"
     },
     {
         "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
