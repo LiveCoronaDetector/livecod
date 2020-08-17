@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
     },
     {
+        "title": "같은 비행기 탔더니…수도권 코로나, 전남 진도까지 퍼져",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014916459&code=61121111&cp=nv"
+    },
+    {
         "title": "[속보] '교인 56만' 여의도순복음교회서 확진자 다수 발생",
         "link": "http://www.busan.com/view/busan/view.php?code=2020081710101997318"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'교인 56만' 여의도순복음교회도 확진자 발생…확산 우려",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/08/17/2020081790114.html"
-    },
-    {
-        "title": "김포 70번 확진자 제주지역 접촉자 6명 '음성'",
-        "link": "http://www.newsis.com/view/?id=NISX20200817_0001132105&cID=10813&pID=10800"
     }
 ];
