@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020081708372010575"
     },
     {
-        "title": "일본, 나흘 연속 코로나 신규 확진자 1000명대 기록",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081700484.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "[속보] 전북 45·46번째 코로나19 확진자 발생…사랑제일교회 참석자",
-        "link": "http://www.fnnews.com/news/202008170926169718"
+        "title": "쿠팡, 인천2 배송캠프 폐쇄…코로나19 확진자 발생",
+        "link": "https://zdnet.co.kr/view/?no=20200816000915"
     },
     {
         "title": "[속보] \"광복절 집회에 코로나 진단검사 대상 교인 참석\"",
         "link": "https://www.hankyung.com/society/article/2020081745347"
     },
     {
-        "title": "쿠팡, 인천2 배송캠프 폐쇄…코로나19 확진자 발생",
-        "link": "https://zdnet.co.kr/view/?no=20200816000915"
+        "title": "일본, 나흘 연속 코로나 신규 확진자 1000명대 기록",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081700484.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "LG디스플레이 사업장서 코로나19 확진자 \"생산라인 정상 가동\"",
+        "link": "http://news.tf.co.kr/read/economy/1807376.htm"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/16/latest_news/1597561613_939093.html"
     },
     {
-        "title": "Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus",
-        "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
+        "title": "Few signs of collective mourning as the US tops 170,000 coronavirus deaths",
+        "link": "https://www.cnn.com/2020/08/16/us/coronavirus-pandemic-national-mourning/index.html"
     },
     {
         "title": "Interference in scientific research on COVID-19 in Turkey",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
-        "title": "COVID-19 first appeared in a group of Chinese miners in 2012, scientists say",
-        "link": "https://nypost.com/2020/08/15/covid-19-first-appeared-in-chinese-miners-in-2012-scientists/"
+        "title": "Coronavirus Chased Off Tourists—Lots of Locals Don’t Want Them Ever Flocking Back",
+        "link": "https://www.wsj.com/articles/coronavirus-tourists-tourism-travel-japan-kyoto-europe-borders-lockdown-airline-vacation-11597601570"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
         "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     },
     {
-        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
-        "link": "https://www.bbc.com/news/world-asia-53796434"
-    },
-    {
-        "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
-        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
+        "title": "Italy closes nightclubs as coronavirus cases rise among young",
+        "link": "https://www.msn.com/en-us/news/world/italy-closes-nightclubs-as-coronavirus-cases-rise-among-young/ar-BB181XEY?li=BBnb7Kz"
     }
 ];
