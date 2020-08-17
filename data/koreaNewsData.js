@@ -13,20 +13,12 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081701346.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 신규확진 197명…교회발 감염 확산",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993163?division=NAVER"
-    },
-    {
         "title": "서울 코로나 확진자 오늘 89명 추가…교회 3곳 69% 차지",
         "link": "http://yna.kr/AKR20200817071000004?did=1195m"
     },
     {
         "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
         "link": "https://imnews.imbc.com/news/2020/society/article/5876503_32633.html"
-    },
-    {
-        "title": "정은경 \"코로나19 무서운 속도로 전국확산…가장 우려했던 상황\"(종합)",
-        "link": "http://yna.kr/AKR20200817047751530?did=1195m"
     },
     {
         "title": "전염력 10배 강한 코로나 변종 나왔다···말레이서 발견",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200817029051004?did=1195m"
     },
     {
+        "title": "정은경 \"코로나19 무서운 속도로 전국확산…가장 우려했던 상황\"(종합)",
+        "link": "http://yna.kr/AKR20200817047751530?did=1195m"
+    },
+    {
         "title": "[단독]LG전자 서울역빌딩서 코로나19 확진자 발생",
         "link": "https://www.nocutnews.co.kr/news/5395973"
+    },
+    {
+        "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993198?division=NAVER"
     }
 ];
