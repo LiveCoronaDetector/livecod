@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
     {
-        "title": "여의도순복음교회서 확진자 발생…방역당국 초긴장",
-        "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
-    },
-    {
         "title": "여의도순복음교회서 확진자 다수 발생…성가대 의심",
         "link": "http://yna.kr/AKR20200817023700004?did=1195m"
     },
@@ -17,12 +13,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
     {
-        "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
-    },
-    {
         "title": "여의도순복음교회 확진자 3명.. 병원치료 중",
         "link": "http://www.fnnews.com/news/202008171212362720"
+    },
+    {
+        "title": "여의도순복음교회 \"교회 내 확진자는 3명\"",
+        "link": "http://goodnews1.com/news/news_view.asp?seq=101790"
     },
     {
         "title": "충주 50대 부부 확진자 접촉자 중 34명 음성",
@@ -37,7 +33,11 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020081710101997318"
     },
     {
-        "title": "김포 확진자, 여의도순복음교회 교인…확진 전 제주도 여행",
-        "link": "http://yna.kr/AKR20200816018600065?did=1195m"
+        "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
+    },
+    {
+        "title": "코로나19 신규확진 197명…사랑제일교회 우리제일교회 관련 감염자 눈덩이",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081600142"
     }
 ];

@@ -9,16 +9,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200817047751530?did=1195m"
     },
     {
-        "title": "[속보] 서울 확진자 하루 89명…교회 3곳서 70%",
-        "link": "https://www.hankyung.com/society/article/2020081762837"
-    },
-    {
-        "title": "여의도순복음교회도 코로나 확진자 10명 발생…경기도 거주",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
-    },
-    {
-        "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5876503_32633.html"
+        "title": "서울 코로나 확진자 오늘 89명 추가…교회 3곳 69% 차지",
+        "link": "http://yna.kr/AKR20200817071000004?did=1195m"
     },
     {
         "title": "사랑제일교회 확진자 하루새 116명 추가…전국 총 315명(종합)",
@@ -29,12 +21,20 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5395973"
     },
     {
-        "title": "\"전광훈 목사, 코로나19 검사 '양성'..확진 판정\"(상보)",
-        "link": "http://www.fnnews.com/news/202008171637237915"
+        "title": "여의도순복음교회도 코로나 확진자 10명 발생…경기도 거주",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
     {
         "title": "여의도순복음교회서 확진자 다수 발생…성가대 의심",
         "link": "http://yna.kr/AKR20200817023700004?did=1195m"
+    },
+    {
+        "title": "서울 사랑제일교회 발 전북 코로나 확진자 2명 발생…추가 우려(종합)",
+        "link": "http://www.fnnews.com/news/202008171138433451"
+    },
+    {
+        "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5876503_32633.html"
     },
     {
         "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Interference in scientific research on COVID-19 in Turkey",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
+        "title": "Top doc: If schools open, COVID-19 will crash health system by December",
+        "link": "https://www.jpost.com/health-science/top-doc-if-schools-open-covid-19-will-crash-health-system-by-december-638865"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
-        "title": "Coronavirus: Japan suffers its biggest economic slump on record",
-        "link": "https://www.bbc.com/news/business-53802967"
+        "title": "Victoria records deadliest day in Australia so far",
+        "link": "https://www.youtube.com/watch?v=VoIBMdLHKiA"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/17/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
         "title": "Hundreds gather in Madrid for anti-mask protest",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=m8YHiwixz8s"
     },
     {
-        "title": "Vaccines are safe. But huge numbers of people around the world say they wouldn't take a Covid jab",
-        "link": "https://www.cnn.com/2020/08/15/health/vaccine-hesitancy-coronavirus-safety-intl/index.html"
+        "title": "Southeast Asia Detects Mutated Virus Strain Sweeping the World",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=83c63a60-e085-11ea-a8ee-95af22e93399&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
     }
 ];
