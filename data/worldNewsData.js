@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/germany-mistakenly-neglects-tell-949-travelers-they-have-coronavirus-n1236892"
     },
     {
-        "title": "Russia’s new Sputnik launch raises risks in dash for Covid vaccine",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/russias-new-sputnik-launch-raises-risks-in-dash-for-covid-vaccine/articleshow/77576976.cms"
+        "title": "South Africa to ease coronavirus restrictions: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
     },
     {
         "title": "Australia reports deadliest day of coronavirus pandemic: Live",
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-16-20-intl/index.html"
     },
     {
         "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
         "link": "https://www.bbc.com/news/world-asia-53796434"
+    },
+    {
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     }
 ];
