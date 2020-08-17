@@ -5,32 +5,28 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/16/latest_news/1597561613_939093.html"
     },
     {
-        "title": "Few signs of collective mourning as the US tops 170,000 coronavirus deaths",
-        "link": "https://www.cnn.com/2020/08/16/us/coronavirus-pandemic-national-mourning/index.html"
+        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
+        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
-        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
+        "title": "Denial over coronavirus leads to high infection rates in east Jerusalem",
+        "link": "https://www.jpost.com/arab-israeli-conflict/jerusalems-arab-residents-are-still-in-denial-638862"
     },
     {
-        "title": "Malaysia Finds More Infectious Virus Strain Seen in Europe",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=73c73580-e042-11ea-bec4-0dd1fa807ef9&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
-    },
-    {
-        "title": "Protests Grow in Thailand, Where Speaking Out Can Be Perilous",
-        "link": "https://www.nytimes.com/2020/08/16/world/asia/thailand-protests-democracy-monarchy.html"
+        "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
+        "link": "https://www.nbcnews.com/news/world/germany-mistakenly-neglects-tell-949-travelers-they-have-coronavirus-n1236892"
     },
     {
         "title": "Australia reports deadliest day of coronavirus pandemic: Live",
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
-        "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
-        "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
+        "title": "Coronavirus Chased Off Tourists—Lots of Locals Don’t Want Them Ever Flocking Back",
+        "link": "https://www.wsj.com/articles/coronavirus-tourists-tourism-travel-japan-kyoto-europe-borders-lockdown-airline-vacation-11597601570"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
+        "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     },
     {
         "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
         "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
+    },
+    {
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     }
 ];
