@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200817029051004?did=1195m"
     },
     {
-        "title": "정은경 \"코로나19 무서운 속도로 전국확산…가장 우려했던 상황\"(종합)",
-        "link": "http://yna.kr/AKR20200817047751530?did=1195m"
+        "title": "정은경 “코로나19 유행, 무서운 속도로 확산 중”",
+        "link": "http://www.hani.co.kr/arti/society/health/958143.html"
     },
     {
         "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",
