@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/17/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Denial over coronavirus leads to high infection rates in east Jerusalem",
-        "link": "https://www.jpost.com/arab-israeli-conflict/jerusalems-arab-residents-are-still-in-denial-638862"
+        "title": "UAE, Israeli firms sign agreement on coronavirus R&D",
+        "link": "https://www.aljazeera.com/news/2020/08/uae-israeli-companies-sign-agreement-coronavirus-200816071821555.html"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
-        "title": "Victoria records deadliest day with 25 new deaths",
-        "link": "https://www.youtube.com/watch?v=cAEdntFwXW4"
+        "title": "Coronavirus: Japan suffers its biggest economic slump on record",
+        "link": "https://www.bbc.com/news/business-53802967"
     },
     {
         "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
     },
     {
-        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
-        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     }
 ];
