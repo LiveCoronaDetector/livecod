@@ -5,32 +5,28 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081701353.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "정은경 \"코로나19 무서운 속도로 전국확산…가장 우려했던 상황\"(종합)",
-        "link": "http://yna.kr/AKR20200817047751530?did=1195m"
-    },
-    {
         "title": "\"전광훈 목사, 코로나19 검사 '양성'..확진 판정\"(상보)",
         "link": "http://www.fnnews.com/news/202008171637237915"
     },
     {
-        "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993198?division=NAVER"
+        "title": "정은경 \"코로나19 무서운 속도로 전국확산…가장 우려했던 상황\"(종합)",
+        "link": "http://yna.kr/AKR20200817047751530?did=1195m"
+    },
+    {
+        "title": "[속보] 서울 확진자 하루 89명…교회 3곳서 70%",
+        "link": "https://www.hankyung.com/society/article/2020081762837"
     },
     {
         "title": "사랑제일교회 확진자 하루새 116명 추가…전국 총 315명(종합)",
         "link": "http://yna.kr/AKR20200817029051004?did=1195m"
     },
     {
-        "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5876503_32633.html"
-    },
-    {
         "title": "여의도순복음교회도 코로나 확진자 10명 발생…경기도 거주",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
     {
-        "title": "10배 센 괴물 코로나 나타났다, 말레이시아 변종 발견",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081700955.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5876503_32633.html"
     },
     {
         "title": "[단독]LG전자 서울역빌딩서 코로나19 확진자 발생",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[단독] \"70대 확진자, 사랑제일교회 강당서 교인들과 5박6일 합숙\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202008171053230158"
+    },
+    {
+        "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993198?division=NAVER"
     }
 ];

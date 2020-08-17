@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/17/latest_news/1597645622_809314.html"
     },
     {
-        "title": "Live updates: New Zealand postpones election amid new coronavirus cases",
-        "link": "https://www.washingtonpost.com/nation/2020/08/17/coronavirus-covid-live-updates-us/"
+        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
+        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
         "title": "Interference in scientific research on COVID-19 in Turkey",
@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/germany-mistakenly-neglects-tell-949-travelers-they-have-coronavirus-n1236892"
     },
     {
-        "title": "Lebanon's minister calls for two-week coronavirus lockdown: Live",
+        "title": "Lebanon minister calls for two-week coronavirus lockdown: Live",
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-53802967"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/17/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
     },
     {
-        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
-        "link": "https://www.bbc.com/news/world-asia-53796434"
+        "title": "Hundreds gather in Madrid for anti-mask protest",
+        "link": "https://www.bbc.com/news/av/world-europe-53802226/coronavirus-hundreds-gather-in-madrid-for-anti-mask-protest"
     },
     {
         "title": "Italy shuts nightclubs as Covid-19 cases rise among young",
         "link": "https://www.youtube.com/watch?v=m8YHiwixz8s"
     },
     {
-        "title": "Hundreds gather in Madrid for anti-mask protest",
-        "link": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hdi93b3JsZC1ldXJvcGUtNTM4MDIyMjYvY29yb25hdmlydXMtaHVuZHJlZHMtZ2F0aGVyLWluLW1hZHJpZC1mb3ItYW50aS1tYXNrLXByb3Rlc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/17/world/covid-19-coronavirus.html"
     }
 ];
