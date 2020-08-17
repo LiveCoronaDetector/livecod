@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200817029051004?did=1195m"
     },
     {
-        "title": "코로나 확진 197명 中 지역발생 188명… 서울·경기, 교회 중심으로 확산(종합...",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081700714.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "여의도순복음교회도 코로나 확진자 10명 발생…경기도 거주",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
-    },
-    {
-        "title": "사랑제일교회 확진자 급증 총 315명…2천명 검사서 양성률 16.1%(종합)",
-        "link": "http://yna.kr/AKR20200817034351530?did=1195m"
-    },
-    {
-        "title": "[속보] “코로나 무서운 속도로 전국 확산…무증상 감염자 많아”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014915520&code=61121111&cp=nv"
-    },
-    {
-        "title": "코로나19 신규확진 197명…교회발 감염 확산",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993163?division=NAVER"
+        "title": "정은경 “코로나19 무서운 속도로 전국확산…지금은 대유행 초기”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993196?division=NAVER"
     },
     {
         "title": "[코로나19] 4일 연속 신규 확진자 100명 돌파…사랑제일교회 누적 319명(종합...",
         "link": "http://www.newspim.com/news/view/20200817000147"
     },
     {
+        "title": "사랑제일교회 확진자 급증 총 315명…2천명 검사서 양성률 16.1%(종합)",
+        "link": "http://yna.kr/AKR20200817034351530?did=1195m"
+    },
+    {
+        "title": "코로나 확진 197명 中 지역발생 188명… 서울·경기, 교회 중심으로 확산(종합...",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081700714.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "어제 코로나 신규확진 197명 중 188명이 지역 발생",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005934157&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "여의도순복음교회서 확진자 발생…방역당국 초긴장",
+        "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
+    },
+    {
         "title": "코로나19 신규 확진자 197명 가운데 국내 발생 188명…나흘째 세자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518567&ref=A"
     },
     {
-        "title": "재택근무 전환·방역 강화… ‘코로나 재확산’에 산업계도 ‘긴장’(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01849926625868304"
+        "title": "서울 사랑제일교회 발 전북 코로나 확진자 2명 발생…추가 우려(종합)",
+        "link": "http://www.fnnews.com/news/202008171138433451"
     },
     {
-        "title": "코로나19 신규 확진 197명…국내 188명·해외유입 9명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5876198_32633.html"
+        "title": "10배 센 괴물 코로나 나타났다, 말레이시아 변종 발견",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081700955.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/16/latest_news/1597561613_939093.html"
+        "link": "https://en.as.com/en/2020/08/17/latest_news/1597645622_809314.html"
     },
     {
         "title": "Live updates: New Zealand postpones election amid new coronavirus cases",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
-        "title": "Coronavirus: Japan suffers its biggest economic slump on record",
-        "link": "https://www.bbc.com/news/business-53802967"
+        "title": "Coronavirus Update: India Records Over 63489 Cases In The Last 24 Hours",
+        "link": "https://www.youtube.com/watch?v=1cCQId3eRVQ"
     },
     {
         "title": "Coronavirus News: Strong Immunity May Follow Even Mild Cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
+        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
     }
 ];

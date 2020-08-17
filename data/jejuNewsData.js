@@ -5,20 +5,24 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020081710101997318"
     },
     {
-        "title": "여의도순복음교회서 확진자 10명 발생…성가대 의심(종합)",
-        "link": "http://yna.kr/AKR20200817023751004?did=1195m"
+        "title": "여의도순복음교회서 확진자 발생…방역당국 초긴장",
+        "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
+    },
+    {
+        "title": "여의도순복음교회서 확진자 다수 발생…성가대 의심",
+        "link": "http://yna.kr/AKR20200817023700004?did=1195m"
     },
     {
         "title": "김포 코로나19 확진자 2박 3일 제주여행",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
     {
-        "title": "56만명 '세계 최대' 여의도순복음교회서 확진자 다수 발생",
-        "link": "https://www.hankyung.com/society/article/2020081748337"
+        "title": "충주시 코로나 14·15번 확진자 발생",
+        "link": "https://www.inews365.com/news/article.html?no=633348"
     },
     {
-        "title": "여의도순복음교회 \"교회 내 확진자는 3명\"",
-        "link": "http://goodnews1.com/news/news_view.asp?seq=101790"
+        "title": "여의도순복음교회도 코로나 확진자 10명 발생…경기도 거주",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
     {
         "title": "코로나19 신규확진 197명…사랑제일교회 우리제일교회 관련 감염자 눈덩이",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 재 확산에 제주도 긴장...확진자 3명 가족여행",
         "link": "https://hankookilbo.com/News/Read/A2020081614170003737?did=NA"
-    },
-    {
-        "title": "김포시 코로나 확진자 일행 제주도 여행 동선 공개",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424974"
     }
 ];
