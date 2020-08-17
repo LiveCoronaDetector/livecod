@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/15/entertainment/ryan-reynolds-canada-coronavirus-trnd/index.html"
     },
     {
-        "title": "Top doc: If schools open, COVID-19 will crash health system by December",
-        "link": "https://www.jpost.com/health-science/top-doc-if-schools-open-covid-19-will-crash-health-system-by-december-638865"
+        "title": "Interference in scientific research on COVID-19 in Turkey",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
-        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
+        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
+        "link": "https://www.bbc.com/news/world-asia-53796434"
     },
     {
-        "title": "U.S. School District Cancels Classes After Teacher ‘Sick Out’ Over Virus Fears",
-        "link": "https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html"
+        "title": "Coronavirus: Italy closes nightclubs, makes masks mandatory at night",
+        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
     }
 ];

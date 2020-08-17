@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424974"
     },
     {
+        "title": "청주·충주 3명 코로나19 양성…충북 확진자 86명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4518494&ref=A"
+    },
+    {
         "title": "코로나19 확진 김포시 거주 교인…확진 전 제주도 여행",
         "link": "http://www.fnnews.com/news/202008161131385165"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 잊었나…황금연휴 제주 비상",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518289&ref=A"
-    },
-    {
-        "title": "충북 코로나19 확진자 3명 발생… 충북 84·85·86번",
-        "link": "https://www.pressian.com/pages/articles/2020081611473425510?utm_source=naver&utm_medium=search"
     }
 ];
