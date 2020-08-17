@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081701947.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "여의도순복음교회도 코로나19 확진자 3명 발생",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
-    },
-    {
         "title": "방역당국 \"사랑제일교회 전광훈, 코로나 확진\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081701346.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "사랑제일교회 전광훈 목사, 코로나19 확진... 서울의료원 이송(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081701353.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "서울 코로나 확진자 오늘 89명 추가…교회 3곳 69% 차지",
         "link": "http://yna.kr/AKR20200817071000004?did=1195m"
+    },
+    {
+        "title": "여의도순복음교회서 확진자 발생…방역당국 초긴장",
+        "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
     },
     {
         "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "사랑제일교회 코로나19 확진자 70명 증가…누적 319명",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993198?division=NAVER"
-    },
-    {
-        "title": "[단독]LG전자 서울역빌딩서 코로나19 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5395973"
     }
 ];
