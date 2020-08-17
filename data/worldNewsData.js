@@ -5,19 +5,19 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/17/latest_news/1597645622_809314.html"
     },
     {
-        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
-        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
+        "title": "Live updates: New Zealand postpones election amid new coronavirus cases",
+        "link": "https://www.washingtonpost.com/nation/2020/08/17/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Greece Coronavirus Cases Surpass 7000",
-        "link": "https://greekcitytimes.com/2020/08/17/greece-coronavirus-cases-surpass-7000/"
+        "title": "Interference in scientific research on COVID-19 in Turkey",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
         "link": "https://www.nbcnews.com/news/world/germany-mistakenly-neglects-tell-949-travelers-they-have-coronavirus-n1236892"
     },
     {
-        "title": "India's coronavirus death toll surpasses 50,000: Live updates",
+        "title": "Lebanon's minister calls for two-week coronavirus lockdown: Live",
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/17/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "Hundreds gather in Madrid for anti-mask protest",
-        "link": "https://www.bbc.com/news/av/world-europe-53802226/coronavirus-hundreds-gather-in-madrid-for-anti-mask-protest"
+        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
+        "link": "https://www.bbc.com/news/world-asia-53796434"
     },
     {
         "title": "Italy shuts nightclubs as Covid-19 cases rise among young",
         "link": "https://www.youtube.com/watch?v=m8YHiwixz8s"
     },
     {
-        "title": "Scientists See Signs of Lasting Virus Immunity, Even After Mild Infections",
-        "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
+        "title": "Hundreds gather in Madrid for anti-mask protest",
+        "link": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hdi93b3JsZC1ldXJvcGUtNTM4MDIyMjYvY29yb25hdmlydXMtaHVuZHJlZHMtZ2F0aGVyLWluLW1hZHJpZC1mb3ItYW50aS1tYXNrLXByb3Rlc3TSAQA?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

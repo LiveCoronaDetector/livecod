@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081600142"
     },
     {
-        "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
-    },
-    {
         "title": "여의도순복음교회 확진자 3명.. 병원치료 중",
         "link": "http://www.fnnews.com/news/202008171212362720"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "김포시 코로나 확진자 일행 제주도 여행 동선 공개",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=424974"
+    },
+    {
+        "title": "[종합] 타지역 코로나19 확진자 제주 여행…휴가철 방역 '비상'",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=149559"
     }
 ];
