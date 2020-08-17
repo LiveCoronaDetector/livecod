@@ -5,28 +5,24 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/16/latest_news/1597561613_939093.html"
     },
     {
-        "title": "Few signs of collective mourning as the US tops 170,000 coronavirus deaths",
-        "link": "https://www.cnn.com/2020/08/16/us/coronavirus-pandemic-national-mourning/index.html"
+        "title": "US agrees with Canada, Mexico to extend border restrictions into September amid coronavirus",
+        "link": "https://www.foxnews.com/politics/us-agrees-canada-mexico-border-restrictions-september-coronavirus"
     },
     {
-        "title": "Interference in scientific research on COVID-19 in Turkey",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31691-3/fulltext"
+        "title": "Denial over coronavirus leads to high infection rates in east Jerusalem",
+        "link": "https://www.jpost.com/arab-israeli-conflict/jerusalems-arab-residents-are-still-in-denial-638862"
     },
     {
         "title": "Germany mistakenly neglects to tell 949 travelers they have coronavirus",
         "link": "https://www.nbcnews.com/news/world/germany-mistakenly-neglects-tell-949-travelers-they-have-coronavirus-n1236892"
     },
     {
-        "title": "South Africa to ease coronavirus restrictions: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/california-surpasses-600000-coronavirus-cases-live-200815014234029.html"
+        "title": "Protests Grow in Thailand, Where Speaking Out Can Be Perilous",
+        "link": "https://www.nytimes.com/2020/08/16/world/asia/thailand-protests-democracy-monarchy.html"
     },
     {
-        "title": "Coronavirus Chased Off Tourists—Lots of Locals Don’t Want Them Ever Flocking Back",
-        "link": "https://www.wsj.com/articles/coronavirus-tourists-tourism-travel-japan-kyoto-europe-borders-lockdown-airline-vacation-11597601570"
-    },
-    {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "S. African president announces further relaxation of COVID-19 lockdown",
+        "link": "https://www.youtube.com/watch?v=ZcLJlAFutMw"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html"
     },
     {
-        "title": "Italy closes nightclubs as coronavirus cases rise among young",
-        "link": "https://www.msn.com/en-us/news/world/italy-closes-nightclubs-as-coronavirus-cases-rise-among-young/ar-BB181XEY?li=BBnb7Kz"
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/16/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+    },
+    {
+        "title": "New Zealand: Jacinda Ardern delays election over coronavirus fears",
+        "link": "https://www.bbc.com/news/world-asia-53796434"
     }
 ];
