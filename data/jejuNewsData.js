@@ -9,6 +9,18 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200818047051054?did=1195m"
     },
     {
+        "title": "인구 3만 진도 첫 확진자 발생에 '발칵'…접촉 주민 71명 검사",
+        "link": "https://www.news1.kr/articles/?4029081"
+    },
+    {
+        "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
+        "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
+    },
+    {
+        "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
+    },
+    {
         "title": "여의도순복음교회도 코로나19 확진자 3명 발생",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
@@ -17,27 +29,15 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020081748337"
     },
     {
-        "title": "여의도순복음교회서 확진자 발생…방역당국 초긴장",
-        "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
-    },
-    {
         "title": "김포 코로나19 확진자 2박 3일 제주여행",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
-    },
-    {
-        "title": "김포 70번 확진자 제주지역 접촉자 6명 '음성'",
-        "link": "http://www.newsis.com/view/?id=NISX20200817_0001132105&cID=10813&pID=10800"
     },
     {
         "title": "수도권 코로나19, 진도까지 퍼져…전남 43번째 확진",
         "link": "http://yna.kr/AKR20200817078300054?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
-    },
-    {
-        "title": "코로나19 신규확진 197명…사랑제일교회 우리제일교회 관련 감염자 눈덩이",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081600142"
+        "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
+        "link": "https://www.news1.kr/articles/?4029023"
     }
 ];

@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     },
     {
-        "title": "August 17 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
+        "title": "Southeast Asia Detects Mutated Virus Strain Sweeping the World",
+        "link": "https://www.bloomberg.com/tosv.html?url=L3Rvc3YyLmh0bWw/dXJsPUwyNWxkM012WVhKMGFXTnNaWE12TWpBeU1DMHdPQzB4Tnk5dFlXeGhlWE5wWVMxa1pYUmxZM1J6TFhacGNuVnpMWE4wY21GcGJpMTBhR0YwTFhNdE1UQXRkR2x0WlhNdGJXOXlaUzFwYm1abFkzUnBiM1Z6JnZpZD0mdXVpZD0wNWM3MTRiMC1lMTE0LTExZWEtOWI0Yi03MTFlYWJhZDQ4OGQ=&uuid=05df7eb0-e114-11ea-a6cf-0954f8259700&vid="
     },
     {
-        "title": "India records 58000 cases and more than 900 deaths in last 24 hours | COVID-19 Pandemic",
-        "link": "https://www.youtube.com/watch?v=V7kvwHPlJpM"
+        "title": "WHO reports record global Covid-19 increase over 24 hours",
+        "link": "https://www.cnn.com/videos/world/2020/08/17/global-coronavirus-covid-19-wrap-brunhuber-pkg-intl-hnk-vpx.cnn"
     }
 ];
