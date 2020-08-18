@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.jpost.com/breaking-news/plan-to-allow-tourists-in-israel-to-be-presented-by-end-of-month-health-ministry-638924"
     },
     {
-        "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/17/903282953/we-can-t-live-like-zombies-protesters-in-spain-decry-covid-19-mask-mandate"
+        "title": "Spain records over 16,000 infections in three days – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/aug/17/coronavirus-live-news-new-zealand-postpones-election-italy-closes-nightclubs"
     },
     {
         "title": "US coronavirus death toll exceeds 170,000: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
     },
     {
-        "title": "Coronavirus: Japan suffers its biggest economic slump on record",
-        "link": "https://www.bbc.com/news/business-53802967"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
-    },
-    {
-        "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
-        "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
-    },
-    {
-        "title": "Hillary Clinton slams Trump's response to coronavirus pandemic, decision to withdraw from WHO",
-        "link": "https://www.cnbc.com/2020/08/17/hillary-clinton-slams-trump-response-to-coronavirus-withdrawal-from-who.html"
+        "title": "Victoria Covid-19: Almost all cases linked to quarantine hotels",
+        "link": "https://www.bbc.com/news/world-australia-53806500"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/17/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+    },
+    {
+        "title": "Hundreds gather in Madrid for anti-mask protest",
+        "link": "https://www.bbc.com/news/av/world-europe-53802226/coronavirus-hundreds-gather-in-madrid-for-anti-mask-protest"
+    },
+    {
+        "title": "WHO reports record global Covid-19 increase over 24 hours",
+        "link": "https://www.cnn.com/videos/world/2020/08/17/global-coronavirus-covid-19-wrap-brunhuber-pkg-intl-hnk-vpx.cnn"
+    },
+    {
+        "title": "COVID update August 17: Medical experts warned Vic Health about hotel quarantine dangers | ABC News",
+        "link": "https://www.youtube.com/watch?v=Y8mPaKKuOHM"
     }
 ];
