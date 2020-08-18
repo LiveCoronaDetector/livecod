@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
     },
     {
-        "title": "Live Covid-19 Global News Tracker and Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "Australian authorities exonerate Princess Cruises, Ruby Princess in March COVID-19 outbreak",
+        "link": "https://www.usatoday.com/story/travel/cruises/2020/08/17/princess-cruises-exonerated-australia-over-ruby-princess-outbreak/5598552002/"
     },
     {
-        "title": "Coronavirus live news: global cases approach 22 million; WHO says Covid spread by 'unaware' younger people",
-        "link": "https://www.theguardian.com/world/live/2020/aug/18/coronavirus-live-news-lebanon-hospitals-near-capacity-global-cases-approach-22-million"
+        "title": "World 'nowhere close' to needed coronavirus herd immunity: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/hopes-rise-victoria-coronavirus-outbreak-slowing-live-updates-200817234625600.html"
     }
 ];
