@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53806500"
     },
     {
-        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
-        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-18-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus live news: Jacinda Ardern says Trump's 'patently wrong' on New Zealand's Covid cases",
+        "link": "https://www.theguardian.com/world/live/2020/aug/18/coronavirus-live-news-lebanon-hospitals-near-capacity-global-cases-approach-22-million"
     },
     {
         "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Southeast Asia Detects Mutated Virus Strain Sweeping the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=419267c0-e118-11ea-b943-4d9b5eb2491b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6c82d970-e11c-11ea-aca6-0df9a15aecd7&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
     }
 ];
