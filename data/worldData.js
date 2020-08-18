@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5610491,
-        "사망자수": 173662,
-        "완치자수": 2969628
+        "확진자수": 5612011,
+        "사망자수": 173716,
+        "완치자수": 2970835
     },
     {
         "Name": "브라질",
@@ -705,20 +705,20 @@ var marker = [
         "완치자수": 7472
     },
     {
+        "Name": "Libya",
+        "Name_ch": "",
+        "Name_en": "Libya",
+        "확진자수": 8579,
+        "사망자수": 157,
+        "완치자수": 969
+    },
+    {
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
         "확진자수": 8270,
         "사망자수": 53,
         "완치자수": 6404
-    },
-    {
-        "Name": "Libya",
-        "Name_ch": "",
-        "Name_en": "Libya",
-        "확진자수": 8172,
-        "사망자수": 153,
-        "완치자수": 933
     },
     {
         "Name": "Tajikistan",
@@ -1137,20 +1137,20 @@ var marker = [
         "완치자수": 1092
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 1329,
+        "사망자수": 19,
+        "완치자수": 191
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
         "확진자수": 1323,
         "사망자수": 32,
         "완치자수": 1078
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 1315,
-        "사망자수": 18,
-        "완치자수": 189
     },
     {
         "Name": "Botswana",
@@ -1508,8 +1508,8 @@ var marker = [
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
-        "확진자수": 109,
-        "사망자수": 4,
+        "확진자수": 121,
+        "사망자수": 5,
         "완치자수": 49
     },
     {
@@ -1532,7 +1532,7 @@ var marker = [
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
-        "확진자수": 57,
+        "확진자수": 58,
         "사망자수": 0,
         "완치자수": 55
     },
@@ -1617,6 +1617,14 @@ var marker = [
         "완치자수": 17
     },
     {
+        "Name": "St. Barth",
+        "Name_ch": "",
+        "Name_en": "St. Barth",
+        "확진자수": 16,
+        "사망자수": 0,
+        "완치자수": 9
+    },
+    {
         "Name": "Greenland",
         "Name_ch": "",
         "Name_en": "Greenland",
@@ -1647,14 +1655,6 @@ var marker = [
         "확진자수": 13,
         "사망자수": 0,
         "완치자수": 13
-    },
-    {
-        "Name": "St. Barth",
-        "Name_ch": "",
-        "Name_en": "St. Barth",
-        "확진자수": 13,
-        "사망자수": 0,
-        "완치자수": 9
     },
     {
         "Name": "Vatican City",
