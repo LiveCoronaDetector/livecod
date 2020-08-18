@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180039&t=NN"
     },
     {
-        "title": "종로 한국기독교회관서 코로나 확진자 나와",
-        "link": "http://yna.kr/AKR20200818080900005?did=1195m"
+        "title": "코로나19 재확산…서울·판교 ICT 기업들 속속 재택근무(종합2보)",
+        "link": "http://www.newsis.com/view/?id=NISX20200818_0001133512&cID=13001&pID=13000"
     },
     {
-        "title": "軍, 전 부대 휴가 2주간 중단…확진자 2명 추가",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20200818008200641/?did=1825m"
+        "title": "종로 한국기독교회관서 코로나 확진자 나와",
+        "link": "http://yna.kr/AKR20200818080900005?did=1195m"
     },
     {
         "title": "세브란스병원서 사랑제일교회 관련 코로나19 확진자 발생",
