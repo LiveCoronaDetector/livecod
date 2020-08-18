@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
+        "title": "India Covid Updates: 26,47663 Total Cases With 50921 Deaths; 57981 Cases In Last 24 hours",
+        "link": "https://www.youtube.com/watch?v=aKXUg21vDJs"
+    },
+    {
         "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
         "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
     },
     {
-        "title": "August 17 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
-    },
-    {
-        "title": "Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?",
-        "link": "https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html"
+        "title": "Coronavirus live news: Jacinda Ardern says Trump's 'patently wrong' on New Zealand's Covid cases",
+        "link": "https://www.theguardian.com/world/live/2020/aug/18/coronavirus-live-news-lebanon-hospitals-near-capacity-global-cases-approach-22-million"
     }
 ];
