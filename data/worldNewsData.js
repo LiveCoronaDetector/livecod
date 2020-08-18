@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus latest: Greece hopes to have vaccine by December",
-        "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
+        "link": "https://news.google.com/articles/CAIiEBTuRuUlvABstIq__EPBP2oqGAgEKg8IACoHCAow-ZzLBzD77Ecwk4TKBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Beaten Back, the Coronavirus Regains Strength in France",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
-        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
+        "title": "Female-led countries handled coronavirus better, study suggests",
+        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
     },
     {
-        "title": "Live Covid-19 Global News Tracker and Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/covid-19-coronavirus.html"
+        "title": "Wuhan hosts massive water park party as coronavirus concerns recede",
+        "link": "https://www.cnn.com/2020/08/18/asia/wuhan-water-park-party-intl-hnk/index.html"
     },
     {
-        "title": "India records highest daily number of COVID-19 fatalities | Daily Sabah",
-        "link": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9pbmRpYS1yZWNvcmRzLWhpZ2hlc3QtZGFpbHktbnVtYmVyLW9mLWNvdmlkLTE5LWZhdGFsaXRpZXPSAWtodHRwczovL3d3dy5kYWlseXNhYmFoLmNvbS93b3JsZC9hc2lhLXBhY2lmaWMvaW5kaWEtcmVjb3Jkcy1oaWdoZXN0LWRhaWx5LW51bWJlci1vZi1jb3ZpZC0xOS1mYXRhbGl0aWVzL2FtcA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Covid-19 Cases and Deaths: Live News Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus live updates: Notre Dame reports 11% positive test rate; Yale saliva test may miss some infections",
-        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
+        "title": "If New Zealand's Covid-19 outbreak is 'terrible' like Trump says, then how bad is the rest of the world?",
+        "link": "https://www.cnn.com/2020/08/18/asia/trump-new-zealand-coronavirus-intl-hnk/index.html"
     }
 ];

@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081805125.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 코로나 오늘 110명…세계최대 감리교회 금란교회 교인 확진",
-        "link": "http://yna.kr/AKR20200818163500004?did=1195m"
+        "title": "파주병원 탈출 사랑제일교회 확진자 25시간만에 검거(종합)",
+        "link": "http://yna.kr/AKR20200819003952060?did=1195m"
+    },
+    {
+        "title": "[속보] 서울시 오늘 확진자 110명 증가…사랑제일교회發 확산",
+        "link": "https://www.hankyung.com/society/article/2020081805607"
     },
     {
         "title": "[단독]'광복절 집회' 확진자에 경찰 지구대가 멈췄다…65명 격리",
         "link": "http://www.newsis.com/view/?id=NISX20200818_0001133663&cID=10201&pID=10200"
     },
     {
-        "title": "잠적하고 도망가는 확진자들…법무부·대검 \"강력 대처\"",
-        "link": "https://www.hankyung.com/society/article/2020081802817"
+        "title": "[속보] 신촌 세브란스, 사랑제일교회 관련 확진자 발생",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180039&t=NN"
     },
     {
         "title": "이낙연, 코로나19 확진자 간접 접촉…정치권 초비상(종합)",
         "link": "http://yna.kr/AKR20200818170651001?did=1195m"
-    },
-    {
-        "title": "[속보] 신촌 세브란스, 사랑제일교회 관련 확진자 발생",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180039&t=NN"
     },
     {
         "title": "정치권, 코로나 감염 초비상…이낙연·박주민 선거운동 일시 중단(종합)",
