@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Covid-19 Live Updates: Pooled Testing, Once Promising, Is Failing in the U.S.",
+        "title": "Live Covid-19 News",
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
     },
     {
-        "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/17/903282953/we-can-t-live-like-zombies-protesters-in-spain-decry-covid-19-mask-mandate"
+        "title": "Another warning from the 1918 flu for COVID-19: ‘Survival does not mean that individuals fully recovered’",
+        "link": "https://www.marketwatch.com/story/another-warning-from-1918-spanish-flu-for-covid-19-survival-does-not-mean-that-individuals-fully-recovered-2020-08-18"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
+        "title": "Notre Dame temporarily shifts to remote classes to try to curb coronavirus outbreak, warns it may send students home",
+        "link": "https://www.cnbc.com/2020/08/18/notre-dame-traces-more-than-50-coronavirus-cases-to-off-campus-party-official-says.html"
+    },
+    {
         "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
         "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
-        "title": "Coronavirus live updates: Notre Dame reports 11% positive test rate; Yale saliva test may miss some infections",
+        "title": "Coronavirus live updates: Notre Dame to move classes online for 2 weeks; Yale saliva test may miss some infections",
         "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
     },
     {
-        "title": "Australian authorities exonerate Princess Cruises, Ruby Princess in March COVID-19 outbreak",
-        "link": "https://www.usatoday.com/story/travel/cruises/2020/08/17/princess-cruises-exonerated-australia-over-ruby-princess-outbreak/5598552002/"
-    },
-    {
-        "title": "World 'nowhere close' to needed coronavirus herd immunity: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/hopes-rise-victoria-coronavirus-outbreak-slowing-live-updates-200817234625600.html"
+        "title": "Female-led countries handled coronavirus better, study suggests",
+        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
     }
 ];
