@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53806500"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
-    },
-    {
         "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
         "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
-        "title": "India Covid Updates: 26,47663 Total Cases With 50921 Deaths; 57981 Cases In Last 24 hours",
-        "link": "https://www.youtube.com/watch?v=aKXUg21vDJs"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
     },
     {
         "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
         "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
+    },
+    {
+        "title": "India records 58000 cases and more than 900 deaths in last 24 hours | COVID-19 Pandemic",
+        "link": "https://www.youtube.com/watch?v=V7kvwHPlJpM"
     }
 ];

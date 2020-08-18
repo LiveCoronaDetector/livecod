@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200818047051054?did=1195m"
     },
     {
+        "title": "전남서 43번째 '코로나19' 확진자 발생…김영록 지사 긴급발표문(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=581353"
+    },
+    {
         "title": "여의도순복음교회도 코로나19 확진자 3명 발생",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "여의도순복음교회 확진자 3명.. 병원치료 중",
         "link": "http://www.fnnews.com/news/202008171212362720"
-    },
-    {
-        "title": "[속보] '교인 56만' 여의도순복음교회서 확진자 다수 발생",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081710101997318"
     }
 ];
