@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Live updates: Daughter of coronavirus victim denounces Trump in fiery speech at DNC",
+        "title": "Live updates: Daughter of coronavirus victim denounces Trump in fiery speech at Democratic convention",
         "link": "https://www.washingtonpost.com/nation/2020/08/18/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus latest: Greece hopes to have vaccine by December",
-        "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
+        "title": "Ukraine bans pilgrimage to Uman over COVID-19 fears",
+        "link": "https://www.jpost.com/breaking-news/israelis-will-not-be-let-into-uman-this-year-639032"
     },
     {
         "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "South Korea warns it is on brink of new Covid crisis as church linked to outbreak",
-        "link": "https://www.theguardian.com/world/2020/aug/18/south-korea-warns-it-is-on-brink-of-new-covid-crisis-as-church-linked-to-outbreak-seoul"
+        "title": "Coronavirus: Victoria records fewest new infections in a month",
+        "link": "https://www.bbc.com/news/world-australia-53806500"
     },
     {
         "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
     },
     {
-        "title": "Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?",
-        "link": "https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html"
+        "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
+        "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/18/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+        "title": "WHO reports record global Covid-19 increase over 24 hours",
+        "link": "https://www.cnn.com/videos/world/2020/08/17/global-coronavirus-covid-19-wrap-brunhuber-pkg-intl-hnk-vpx.cnn"
     }
 ];
