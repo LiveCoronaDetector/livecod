@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4029023"
     },
     {
-        "title": "‘코로나19 청정지역’ 전남 진도 마을 확진자 1명 발생 ‘비상’",
-        "link": "http://www.hani.co.kr/arti/area/honam/958185.html"
+        "title": "전남서 43번째 '코로나19' 확진자 발생…김영록 지사 긴급발표문(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=581353"
     }
 ];

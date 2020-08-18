@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "South Korea warns it is on brink of new Covid crisis as church linked to outbreak",
-        "link": "https://www.theguardian.com/world/2020/aug/18/south-korea-warns-it-is-on-brink-of-new-covid-crisis-as-church-linked-to-outbreak-seoul"
+        "title": "Wuhan coronavirus: From silent streets to packed pools",
+        "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
-        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
-    },
-    {
-        "title": "Wuhan hosts massive water park party as coronavirus concerns recede",
-        "link": "https://www.cnn.com/2020/08/18/asia/wuhan-water-park-party-intl-hnk/index.html"
+        "title": "If New Zealand's Covid-19 outbreak is 'terrible' like Trump says, then how bad is the rest of the world?",
+        "link": "https://www.cnn.com/2020/08/18/asia/trump-new-zealand-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/18/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
     },
     {
-        "title": "Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?",
-        "link": "https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html"
+        "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
+        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
+    },
+    {
+        "title": "Wuhan hosts massive water park party as coronavirus concerns recede",
+        "link": "https://www.cnn.com/2020/08/18/asia/wuhan-water-park-party-intl-hnk/index.html"
     }
 ];
