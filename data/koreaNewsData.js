@@ -5,32 +5,32 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200818072751004?did=1195m"
     },
     {
-        "title": "사랑제일교회 확진자 457명…전국 9개 시·도에서 속출(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081802408.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "세브란스병원서도 사랑제일교회발 확진자 발생…안과병원 폐쇄",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008180826001&code=940100"
     },
     {
-        "title": "[단독] 신촌세브란스 병원서도 코로나19 확진자 발생",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
+        "title": "[속보] 종로 기독교회관서 코로나 확진자…또 사랑제일교회",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180282&t=NN"
+    },
+    {
+        "title": "[전문] 정세균 \"코로나 전국 대유행 중대 기로... 수도권 시민의식 당부\"",
+        "link": "https://www.sedaily.com/NewsView/1Z6MM17I5D"
     },
     {
         "title": "[속보] 코로나19로 고려대 이어 홍익대 건물 폐쇄",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180360&t=NN"
     },
     {
-        "title": "종로 한국기독교회관서 코로나 확진자 나와",
-        "link": "http://yna.kr/AKR20200818080900005?did=1195m"
-    },
-    {
         "title": "신규확진 246명…교회→병원·군·경찰, 들불처럼 번지는 코로나(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200818500038&wlog_tag3=naver"
     },
     {
-        "title": "신촌 세브란스 간호사, 코로나19 확진…사랑제일교회 방문",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993231?division=NAVER"
+        "title": "사랑제일교회 확진자 457명…전국 9개 시·도에서 속출(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081802408.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[단독] 신촌세브란스 병원서도 코로나19 확진자 발생",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
     },
     {
         "title": "국방부, 코로나19 확산 여파 전 부대 2주간 휴가 중단(상보)",

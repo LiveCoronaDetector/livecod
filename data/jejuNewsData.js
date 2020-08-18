@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200817078300054?did=1195m"
     },
     {
-        "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
-        "link": "https://www.news1.kr/articles/?4029023"
+        "title": "제주 코로나19 첫 '3차 감염' 26번 확진자 퇴원",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425088"
     },
     {
-        "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
+        "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
+        "link": "https://www.news1.kr/articles/?4029023"
     }
 ];
