@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
-        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
+        "title": "Faster test results and 'robust' immune response may offer hope of curbing the pandemic, experts say",
+        "link": "https://www.cnn.com/2020/08/18/health/us-coronavirus-tuesday/index.html"
     },
     {
         "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53806500"
     },
     {
-        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
-        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
-    },
-    {
         "title": "India Covid Updates: 26,47663 Total Cases With 50921 Deaths; 57981 Cases In Last 24 hours",
         "link": "https://www.youtube.com/watch?v=aKXUg21vDJs"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/18/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
-    },
-    {
         "title": "Coronavirus live updates: Quest Diagnostics speeds testing results; WHO says world far from herd immunity",
         "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
+    },
+    {
+        "title": "If New Zealand's Covid-19 outbreak is 'terrible' like Trump says, then how bad is the rest of the world?",
+        "link": "https://www.cnn.com/2020/08/18/asia/trump-new-zealand-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Spain records over 16,000 infections in three days – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/aug/17/coronavirus-live-news-new-zealand-postpones-election-italy-closes-nightclubs"
     }
 ];

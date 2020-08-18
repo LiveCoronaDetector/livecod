@@ -364,9 +364,9 @@ var marker = [
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "확진자수": 54234,
-        "사망자수": 1779,
-        "완치자수": 39800
+        "확진자수": 54448,
+        "사망자수": 1784,
+        "완치자수": 39936
     },
     {
         "Name": "Honduras",
@@ -1292,7 +1292,7 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 588,
+        "확진자수": 600,
         "사망자수": 12,
         "완치자수": 140
     },
