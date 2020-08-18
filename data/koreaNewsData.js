@@ -13,20 +13,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081802408.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[전문] 정세균 국무총리 '코로나19 대응 관련 대국민 담화문'",
-        "link": "http://www.fnnews.com/news/202008181649390305"
+        "title": "[전문] 정세균 \"코로나 전국 대유행 중대 기로... 수도권 시민의식 당부\"",
+        "link": "https://www.sedaily.com/NewsView/1Z6MM17I5D"
     },
     {
         "title": "[단독] 신촌세브란스 병원서도 코로나19 확진자 발생",
         "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
     },
     {
-        "title": "[속보] 종로 기독교회관서 코로나 확진자…또 사랑제일교회",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180282&t=NN"
-    },
-    {
-        "title": "신규확진 246명…교회→병원·군·경찰, 들불처럼 번지는 코로나(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200818500038&wlog_tag3=naver"
+        "title": "종로 한국기독교회관서 코로나 확진자 나와",
+        "link": "http://yna.kr/AKR20200818080900005?did=1195m"
     },
     {
         "title": "국방부, 코로나19 확산 여파 전 부대 2주간 휴가 중단(상보)",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "전남서 43번째 '코로나19' 확진자 발생…김영록 지사 긴급발표문(전문)",
         "link": "http://www.namdonews.com/news/articleView.html?idxno=581353"
+    },
+    {
+        "title": "금감원, 코로나19 재확산에 종합검사 일정 8월 말로 연기",
+        "link": "http://www.etnews.com/20200818000472"
     }
 ];
