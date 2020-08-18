@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020081710101997318"
     },
     {
-        "title": "김포 확진자, 여의도순복음교회 교인…확진 전 제주도 여행",
-        "link": "http://yna.kr/AKR20200816018600065?did=1195m"
+        "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
+        "link": "https://www.news1.kr/articles/?4029023"
     }
 ];
