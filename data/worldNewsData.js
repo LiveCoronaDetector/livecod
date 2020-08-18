@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
-    },
-    {
         "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
         "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
+    },
+    {
+        "title": "August 17 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
     },
     {
         "title": "India records 58000 cases and more than 900 deaths in last 24 hours | COVID-19 Pandemic",

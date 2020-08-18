@@ -1324,9 +1324,9 @@ var marker = [
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "확진자수": 452,
-        "사망자수": 3,
-        "완치자수": 35
+        "확진자수": 475,
+        "사망자수": 4,
+        "완치자수": 38
     },
     {
         "Name": "Burundi",
@@ -1414,7 +1414,7 @@ var marker = [
         "Name_en": "Mongolia",
         "확진자수": 298,
         "사망자수": 0,
-        "완치자수": 276
+        "완치자수": 278
     },
     {
         "Name": "Eritrea",
@@ -1582,7 +1582,7 @@ var marker = [
         "Name_en": "Grenada",
         "확진자수": 24,
         "사망자수": 0,
-        "완치자수": 23
+        "완치자수": 24
     },
     {
         "Name": "New Caledonia",
