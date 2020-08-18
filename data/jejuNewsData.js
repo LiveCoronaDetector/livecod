@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=416764"
     },
     {
-        "title": "‘청정지역’ 전남 진도서 수도권발 코로나19 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z6ML5Z9UP"
-    },
-    {
         "title": "수도권 코로나19, 진도까지 퍼져…전남 43번째 확진",
         "link": "http://yna.kr/AKR20200817078300054?did=1195m"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
         "link": "https://www.news1.kr/articles/?4029023"
+    },
+    {
+        "title": "‘코로나19 청정지역’ 전남 진도 마을 확진자 1명 발생 ‘비상’",
+        "link": "http://www.hani.co.kr/arti/area/honam/958185.html"
     }
 ];

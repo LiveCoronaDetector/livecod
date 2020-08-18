@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081805125.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "이낙연, 확진자 썼던 마이크 사용...코로나 검사 받고 자가격리",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/18/2020081805083.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "이낙연, 코로나19 확진자 간접 접촉…정치권 초비상(종합)",
         "link": "http://yna.kr/AKR20200818170651001?did=1195m"
     },
@@ -21,8 +17,8 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200818_0001133663&cID=10201&pID=10200"
     },
     {
-        "title": "세브란스병원서도 사랑제일교회발 확진자 발생…안과병원 폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008180826001&code=940100"
+        "title": "[속보] 신촌 세브란스, 사랑제일교회 관련 확진자 발생",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180039&t=NN"
     },
     {
         "title": "[단독] 신촌세브란스 병원서도 코로나19 확진자 발생",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[3보]강릉서 코로나19 확진자 발생…정동진 썬크루즈호텔 직원",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081700139"
+    },
+    {
+        "title": "[단독]SK건설, 수도권 공사현장서 코로나19 확진자 발생",
+        "link": "http://www.newsis.com/view/?id=NISX20200818_0001132585&cID=10401&pID=10400"
     }
 ];
