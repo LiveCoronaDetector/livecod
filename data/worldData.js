@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5627618,
-        "사망자수": 174293,
-        "완치자수": 2981277
+        "확진자수": 5630193,
+        "사망자수": 174338,
+        "완치자수": 2982057
     },
     {
         "Name": "브라질",
@@ -812,9 +812,9 @@ var marker = [
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "확진자수": 5125,
-        "사망자수": 162,
-        "완치자수": 2690
+        "확진자수": 5193,
+        "사망자수": 163,
+        "완치자수": 2716
     },
     {
         "Name": "헝가리",
@@ -956,7 +956,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 2900,
+        "확진자수": 2902,
         "사망자수": 11,
         "완치자수": 2755
     },
@@ -1228,7 +1228,7 @@ var marker = [
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "확진자수": 959,
+        "확진자수": 970,
         "사망자수": 76,
         "완치자수": 865
     },
@@ -1361,6 +1361,14 @@ var marker = [
         "완치자수": 331
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 347,
+        "사망자수": 3,
+        "완치자수": 110
+    },
+    {
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
@@ -1385,20 +1393,20 @@ var marker = [
         "완치자수": 98
     },
     {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 333,
-        "사망자수": 3,
-        "완치자수": 110
-    },
-    {
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
         "확진자수": 326,
         "사망자수": 17,
         "완치자수": 107
+    },
+    {
+        "Name": "Eritrea",
+        "Name_ch": "",
+        "Name_en": "Eritrea",
+        "확진자수": 304,
+        "사망자수": 0,
+        "완치자수": 261
     },
     {
         "Name": "Turks and Caicos",
@@ -1415,14 +1423,6 @@ var marker = [
         "확진자수": 298,
         "사망자수": 0,
         "완치자수": 278
-    },
-    {
-        "Name": "Eritrea",
-        "Name_ch": "",
-        "Name_en": "Eritrea",
-        "확진자수": 285,
-        "사망자수": 0,
-        "완치자수": 248
     },
     {
         "Name": "캄보디아",

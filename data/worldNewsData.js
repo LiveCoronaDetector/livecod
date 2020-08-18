@@ -10,11 +10,11 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus latest: Greece hopes to have vaccine by December",
-        "link": "https://news.google.com/articles/CAIiEBTuRuUlvABstIq__EPBP2oqGAgEKg8IACoHCAow-ZzLBzD77Ecwk4TKBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
     },
     {
-        "title": "Beaten Back, the Coronavirus Regains Strength in France",
-        "link": "https://www.nytimes.com/2020/08/17/world/europe/france-coronavirus.html"
+        "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/17/903282953/we-can-t-live-like-zombies-protesters-in-spain-decry-covid-19-mask-mandate"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-        "title": "Female-led countries handled coronavirus better, study suggests",
-        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
+        "title": "Charles Payne on 'mass exodus' from NYC: The snowball is turning into a 'boulder'",
+        "link": "https://www.foxbusiness.com/economy/charles-payne-nyc-mass-exodus-pandemic-crime"
     },
     {
         "title": "Wuhan hosts massive water park party as coronavirus concerns recede",
         "link": "https://www.cnn.com/2020/08/18/asia/wuhan-water-park-party-intl-hnk/index.html"
     },
     {
-        "title": "Covid-19 Cases and Deaths: Live News Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
+        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
     },
     {
-        "title": "If New Zealand's Covid-19 outbreak is 'terrible' like Trump says, then how bad is the rest of the world?",
-        "link": "https://www.cnn.com/2020/08/18/asia/trump-new-zealand-coronavirus-intl-hnk/index.html"
+        "title": "India Covid Updates: 26,47663 Total Cases With 50921 Deaths; 57981 Cases In Last 24 hours",
+        "link": "https://www.youtube.com/watch?v=aKXUg21vDJs"
     }
 ];
