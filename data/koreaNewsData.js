@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200818072751004?did=1195m"
     },
     {
+        "title": "[전문] 정세균 국무총리 '코로나19 대응 관련 대국민 담화문'",
+        "link": "http://www.fnnews.com/news/202008181649390305"
+    },
+    {
         "title": "세브란스병원서도 사랑제일교회발 확진자 발생…안과병원 폐쇄",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008180826001&code=940100"
     },
     {
-        "title": "[속보] 종로 기독교회관서 코로나 확진자…또 사랑제일교회",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180282&t=NN"
-    },
-    {
-        "title": "[전문] 정세균 \"코로나 전국 대유행 중대 기로... 수도권 시민의식 당부\"",
-        "link": "https://www.sedaily.com/NewsView/1Z6MM17I5D"
-    },
-    {
         "title": "[속보] 코로나19로 고려대 이어 홍익대 건물 폐쇄",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180360&t=NN"
+    },
+    {
+        "title": "종로 한국기독교회관서 코로나 확진자 나와",
+        "link": "http://yna.kr/AKR20200818080900005?did=1195m"
     },
     {
         "title": "신규확진 246명…교회→병원·군·경찰, 들불처럼 번지는 코로나(종합)",
