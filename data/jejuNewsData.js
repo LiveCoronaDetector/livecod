@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200817078300054?did=1195m"
     },
     {
-        "title": "‘청정지역’ 전남 진도서 수도권발 코로나19 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z6ML5Z9UP"
-    },
-    {
         "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
         "link": "https://www.news1.kr/articles/?4029023"
+    },
+    {
+        "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
     }
 ];

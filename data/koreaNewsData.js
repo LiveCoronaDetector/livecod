@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200818072751004?did=1195m"
     },
     {
-        "title": "세브란스병원서도 사랑제일교회발 확진자 발생…안과병원 폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008180826001&code=940100"
-    },
-    {
-        "title": "[속보] 종로 기독교회관서 코로나 확진자…또 사랑제일교회",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180282&t=NN"
-    },
-    {
-        "title": "신촌 세브란스 간호사, 코로나19 확진…사랑제일교회 방문",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993231?division=NAVER"
-    },
-    {
-        "title": "정 총리 “코로나 매우 심각”…오늘 5시 대국민 담화(상보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03161926625868632"
-    },
-    {
         "title": "사랑제일교회 확진자 457명…전국 9개 시·도에서 속출(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081802408.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "세브란스병원서도 사랑제일교회발 확진자 발생…안과병원 폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008180826001&code=940100"
     },
     {
         "title": "[단독] 신촌세브란스 병원서도 코로나19 확진자 발생",
         "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
     },
     {
-        "title": "[종합] 코로나19 확진자 246명 증가...지역 235명 중 서울 131명, 경기 52명",
-        "link": "http://www.fnnews.com/news/202008181019045735"
+        "title": "[속보] 코로나19로 고려대 이어 홍익대 건물 폐쇄",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180360&t=NN"
     },
     {
-        "title": "전남서 43번째 '코로나19' 확진자 발생…김영록 지사 긴급발표문(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=581353"
+        "title": "종로 한국기독교회관서 코로나 확진자 나와",
+        "link": "http://yna.kr/AKR20200818080900005?did=1195m"
+    },
+    {
+        "title": "신규확진 246명…교회→병원·군·경찰, 들불처럼 번지는 코로나(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200818500038&wlog_tag3=naver"
+    },
+    {
+        "title": "신촌 세브란스 간호사, 코로나19 확진…사랑제일교회 방문",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993231?division=NAVER"
+    },
+    {
+        "title": "국방부, 코로나19 확산 여파 전 부대 2주간 휴가 중단(상보)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02499366625868632"
     },
     {
         "title": "[단독]SK건설, 수도권 공사현장서 코로나19 확진자 발생",

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/think/opinion/covid-19-spikes-south-africa-melbourne-offer-america-clues-ahead-ncna1236875"
     },
     {
-        "title": "Live updates: Daughter of coronavirus victim denounces Trump in fiery speech at DNC",
-        "link": "https://www.washingtonpost.com/nation/2020/08/18/coronavirus-covid-live-updates-us/"
+        "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
+        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
     },
     {
         "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-53806500"
     },
     {
-        "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
-        "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
+        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
+        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
-        "title": "August 17 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
+        "title": "India Covid Updates: 26,47663 Total Cases With 50921 Deaths; 57981 Cases In Last 24 hours",
+        "link": "https://www.youtube.com/watch?v=aKXUg21vDJs"
     },
     {
-        "title": "Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?",
-        "link": "https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html"
+        "title": "Coronavirus live news: Jacinda Ardern says Trump's 'patently wrong' on New Zealand's Covid cases",
+        "link": "https://www.theguardian.com/world/live/2020/aug/18/coronavirus-live-news-lebanon-hospitals-near-capacity-global-cases-approach-22-million"
     },
     {
-        "title": "WHO reports record global Covid-19 increase over 24 hours",
-        "link": "https://www.cnn.com/videos/world/2020/08/17/global-coronavirus-covid-19-wrap-brunhuber-pkg-intl-hnk-vpx.cnn"
+        "title": "Inquiry reveals 99 per cent of Vic virus cases stem from bungled hotel quarantine",
+        "link": "https://www.youtube.com/watch?v=CAm2gOslKb0"
     }
 ];
