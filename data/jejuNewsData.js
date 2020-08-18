@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=416764"
     },
     {
-        "title": "제주 코로나19 첫 '3차 감염' 26번 확진자 퇴원",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425088"
-    },
-    {
         "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
         "link": "https://www.news1.kr/articles/?4029023"
     },
     {
-        "title": "‘코로나19 청정지역’ 전남 진도 마을 확진자 1명 발생 ‘비상’",
-        "link": "http://www.hani.co.kr/arti/area/honam/958185.html"
+        "title": "전남서 43번째 '코로나19' 확진자 발생…김영록 지사 긴급발표문(전문)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=581353"
+    },
+    {
+        "title": "제주 코로나19 첫 '3차 감염' 26번 확진자 퇴원",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425088"
     }
 ];
