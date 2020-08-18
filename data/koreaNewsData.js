@@ -9,12 +9,24 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
     },
     {
-        "title": "전세계 코로나19 확진자 2천200만명 넘어…일주일새 200만명↑",
-        "link": "http://yna.kr/AKR20200818028000009?did=1195m"
+        "title": "신촌 세브란스 간호사, 코로나19 확진…사랑제일교회 방문",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993231?division=NAVER"
     },
     {
         "title": "박능후 \"교회發 코로나19 확산세 심각, 강화된 조치 검토\"(상보)",
         "link": "https://view.asiae.co.kr/article/2020081809365551667"
+    },
+    {
+        "title": "세브란스병원에 코로나19 확진자 2명 발생…안과병원 폐쇄",
+        "link": "https://hankookilbo.com/News/Read/A2020081809270001484?did=NA"
+    },
+    {
+        "title": "포항서 사랑제일교회발 확진자 1명 추가 발생",
+        "link": "https://news.imaeil.com/Society/2020081809370756419"
+    },
+    {
+        "title": "전세계 코로나19 확진자 2천200만명 넘어…일주일새 200만명↑",
+        "link": "http://yna.kr/AKR20200818028000009?did=1195m"
     },
     {
         "title": "사랑제일교회 확진자 개인레슨 한 서울시향 단원도 코로나19 감염",
@@ -27,17 +39,5 @@ var koreaNewsData = [
     {
         "title": "사랑제일교회 전광훈 목사, 코로나19 확진... 서울의료원 이송(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081701353.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "여의도순복음교회서 확진자 발생…방역당국 초긴장",
-        "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
-    },
-    {
-        "title": "[속보] 서울 확진자 하루 89명…교회 3곳서 70%",
-        "link": "https://www.hankyung.com/society/article/2020081762837"
-    },
-    {
-        "title": "정은경 \"코로나19 무서운 속도로 전국확산\"",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5876503_32633.html"
     }
 ];
