@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
     },
     {
-        "title": "사랑제일교회 확진자 457명…전국 9개 시·도에서 속출(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081802408.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "엿새간 확진자 1천명 훌쩍 넘어…사랑제일교회발 전방위 n차확산(종합)",
+        "link": "http://yna.kr/AKR20200818108051530?did=1195m"
     },
     {
         "title": "종로 한국기독교회관서 코로나 확진자 나와",
         "link": "http://yna.kr/AKR20200818080900005?did=1195m"
     },
     {
-        "title": "軍, 전 부대 휴가 2주간 중단…확진자 2명 추가",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20200818008200641/?did=1825m"
+        "title": "사랑제일교회 확진자 457명…전국 9개 시·도에서 속출(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081802408.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[단독]SK건설, 수도권 공사현장서 코로나19 확진자 발생",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02499366625868632"
     },
     {
-        "title": "다시 코로나19 악몽…기업들 초비상",
-        "link": "http://www.etnews.com/20200818000423"
+        "title": "대구 중구 동덕지구대에 코로나19 확진자 다녀가",
+        "link": "https://news.imaeil.com/Society/2020081811242012761"
     }
 ];

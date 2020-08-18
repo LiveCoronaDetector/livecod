@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/18/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "In trial, Israeli gargle test gives COVID results in 1 second, at 95% accuracy",
-        "link": "https://www.timesofisrael.com/in-trial-israeli-gargle-test-gives-covid-results-in-1-second-at-95-accuracy/"
+        "title": "Coronavirus latest: Greece hopes to have vaccine by December",
+        "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
     },
     {
         "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Wuhan coronavirus: From silent streets to packed pools",
-        "link": "https://www.bbc.com/news/world-asia-china-53816511"
+        "title": "South Korea warns it is on brink of new Covid crisis as church linked to outbreak",
+        "link": "https://www.theguardian.com/world/2020/aug/18/south-korea-warns-it-is-on-brink-of-new-covid-crisis-as-church-linked-to-outbreak-seoul"
     },
     {
         "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=aKXUg21vDJs"
     },
     {
-        "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
-        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
+        "title": "Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?",
+        "link": "https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html"
     },
     {
-        "title": "Coronavirus live news: Jacinda Ardern says Trump's 'patently wrong' on New Zealand's Covid cases",
-        "link": "https://www.theguardian.com/world/live/2020/aug/18/coronavirus-live-news-lebanon-hospitals-near-capacity-global-cases-approach-22-million"
+        "title": "WHO reports record global Covid-19 increase over 24 hours",
+        "link": "https://www.cnn.com/videos/world/2020/08/17/global-coronavirus-covid-19-wrap-brunhuber-pkg-intl-hnk-vpx.cnn"
     }
 ];

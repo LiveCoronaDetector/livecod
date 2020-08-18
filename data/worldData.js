@@ -1220,9 +1220,9 @@ var marker = [
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "확진자수": 983,
+        "확진자수": 989,
         "사망자수": 25,
-        "완치자수": 467
+        "완치자수": 520
     },
     {
         "Name": "Chad",
@@ -1276,7 +1276,7 @@ var marker = [
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
-        "확진자수": 699,
+        "확진자수": 702,
         "사망자수": 42,
         "완치자수": 657
     },
@@ -1665,6 +1665,14 @@ var marker = [
         "완치자수": 12
     },
     {
+        "Name": "British Virgin Islands",
+        "Name_ch": "",
+        "Name_en": "British Virgin Islands",
+        "확진자수": 11,
+        "사망자수": 1,
+        "완치자수": 8
+    },
+    {
         "Name": "Western Sahara",
         "Name_ch": "",
         "Name_en": "Western Sahara",
@@ -1679,14 +1687,6 @@ var marker = [
         "확진자수": 9,
         "사망자수": 2,
         "완치자수": 0
-    },
-    {
-        "Name": "British Virgin Islands",
-        "Name_ch": "",
-        "Name_en": "British Virgin Islands",
-        "확진자수": 9,
-        "사망자수": 1,
-        "완치자수": 7
     },
     {
         "Name": "Saint Pierre Miquelon",
