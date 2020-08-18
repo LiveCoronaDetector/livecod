@@ -5,16 +5,24 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081805125.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "이낙연, 코로나19 확진자 간접 접촉…정치권 초비상(종합)",
-        "link": "http://yna.kr/AKR20200818170651001?did=1195m"
-    },
-    {
-        "title": "[속보] 서울시 오늘 확진자 110명 증가…사랑제일교회發 확산",
-        "link": "https://www.hankyung.com/society/article/2020081805607"
+        "title": "서울 코로나 오늘 110명…세계최대 감리교회 금란교회 교인 확진",
+        "link": "http://yna.kr/AKR20200818163500004?did=1195m"
     },
     {
         "title": "[단독]'광복절 집회' 확진자에 경찰 지구대가 멈췄다…65명 격리",
         "link": "http://www.newsis.com/view/?id=NISX20200818_0001133663&cID=10201&pID=10200"
+    },
+    {
+        "title": "잠적하고 도망가는 확진자들…법무부·대검 \"강력 대처\"",
+        "link": "https://www.hankyung.com/society/article/2020081802817"
+    },
+    {
+        "title": "이낙연, 코로나19 확진자 간접 접촉…정치권 초비상(종합)",
+        "link": "http://yna.kr/AKR20200818170651001?did=1195m"
+    },
+    {
+        "title": "정치권, 코로나 감염 초비상…이낙연·박주민 선거운동 일시 중단(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200819_0001133714&cID=10301&pID=10300"
     },
     {
         "title": "[속보] 신촌 세브란스, 사랑제일교회 관련 확진자 발생",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "대구 중구 동덕지구대에 코로나19 확진자 다녀가",
         "link": "https://news.imaeil.com/Society/2020081811242012761"
-    },
-    {
-        "title": "[3보]강릉서 코로나19 확진자 발생…정동진 썬크루즈호텔 직원",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081700139"
-    },
-    {
-        "title": "[단독]SK건설, 수도권 공사현장서 코로나19 확진자 발생",
-        "link": "http://www.newsis.com/view/?id=NISX20200818_0001132585&cID=10401&pID=10400"
     }
 ];

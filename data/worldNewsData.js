@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/covid-19-coronavirus.html"
+        "title": "Live updates: Daughter of coronavirus victim denounces Trump in fiery speech at Democratic convention",
+        "link": "https://www.washingtonpost.com/nation/2020/08/18/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus latest: Greece hopes to have vaccine by December",
         "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
     },
     {
-        "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/17/903282953/we-can-t-live-like-zombies-protesters-in-spain-decry-covid-19-mask-mandate"
+        "title": "Beaten Back, the Coronavirus Regains Strength in France",
+        "link": "https://www.nytimes.com/2020/08/17/world/europe/france-coronavirus.html"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
+        "title": "Coronavirus live news: France to mandate masks in workplaces; WHO says Covid spread by 'unaware' younger people",
+        "link": "https://www.theguardian.com/world/live/2020/aug/18/coronavirus-live-news-lebanon-hospitals-near-capacity-global-cases-approach-22-million"
+    },
+    {
+        "title": "Coronavirus live updates: Quest Diagnostics speeds testing results; WHO says world far from herd immunity",
+        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
+    },
+    {
         "title": "If New Zealand's Covid-19 outbreak is 'terrible' like Trump says, then how bad is the rest of the world?",
         "link": "https://www.cnn.com/2020/08/18/asia/trump-new-zealand-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/18/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
-    },
-    {
         "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
         "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
-    },
-    {
-        "title": "Wuhan hosts massive water park party as coronavirus concerns recede",
-        "link": "https://www.cnn.com/2020/08/18/asia/wuhan-water-park-party-intl-hnk/index.html"
     }
 ];
