@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "The catastrophic US response to coronavirus is allowing China to stake its claim as the world's dominant ..",
-        "link": "https://markets.businessinsider.com/news/stocks/us-china-coronavirus-covid-19-failure-threatens-global-dominance-greenspan-2020-8-1029511571"
+        "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
+        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
-        "link": "https://www.jpost.com/breaking-news/plan-to-allow-tourists-in-israel-to-be-presented-by-end-of-month-health-ministry-638924"
+        "title": "Coronavirus latest: Greece hopes to have vaccine by December",
+        "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
     },
     {
         "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "South Korea warns it is on brink of new Covid crisis as church linked to outbreak",
-        "link": "https://www.theguardian.com/world/2020/aug/18/south-korea-warns-it-is-on-brink-of-new-covid-crisis-as-church-linked-to-outbreak-seoul"
+        "title": "Coronavirus: Victoria records fewest new infections in a month",
+        "link": "https://www.bbc.com/news/world-australia-53806500"
+    },
+    {
+        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/18/covid-vaccine-tracker-when-will-we-have-a-coronavirus-vaccine"
+    },
+    {
+        "title": "Coronavirus live news: France to mandate masks in workplaces; WHO says Covid spread by 'unaware' younger people",
+        "link": "https://www.theguardian.com/world/live/2020/aug/18/coronavirus-live-news-lebanon-hospitals-near-capacity-global-cases-approach-22-million"
     },
     {
         "title": "August 17 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
-    },
-    {
-        "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
-        "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
-    },
-    {
-        "title": "If New Zealand's Covid-19 outbreak is 'terrible' like Trump says, then how bad is the rest of the world?",
-        "link": "https://www.cnn.com/2020/08/18/asia/trump-new-zealand-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?",
