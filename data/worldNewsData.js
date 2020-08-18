@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Live Covid-19 Global News Tracker and Updates",
+        "title": "Live Covid-19 Global Cases and Deaths News",
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
     },
     {
-        "title": "Another warning from the 1918 flu for COVID-19: ‘Survival does not mean that individuals fully recovered’",
-        "link": "https://www.marketwatch.com/story/another-warning-from-1918-spanish-flu-for-covid-19-survival-does-not-mean-that-individuals-fully-recovered-2020-08-18"
+        "title": "Germany to extend coronavirus furlough to 24 months",
+        "link": "https://www.theguardian.com/world/2020/aug/18/germany-to-extend-coronavirus-furlough-to-24-months"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-        "title": "Live Covid-19 News",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "Mayor De Blasio Requiring Hotels To Have Visitors Fill Out Coronavirus Quarantine Forms",
+        "link": "https://www.youtube.com/watch?v=HJxdcvu53ns"
+    },
+    {
+        "title": "Putin tells Merkel external intervention in Belarus would be unacceptable",
+        "link": "https://www.yahoo.com/news/putin-tells-merkel-external-intervention-102615967.html"
+    },
+    {
+        "title": "Wuhan hosts massive water park party as coronavirus concerns recede",
+        "link": "https://www.cnn.com/2020/08/18/asia/wuhan-water-park-party-intl-hnk/index.html"
     },
     {
         "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
         "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
-    },
-    {
-        "title": "Coronavirus live updates: Notre Dame to move classes online for 2 weeks; Yale saliva test may miss some infections",
-        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
-    },
-    {
-        "title": "Female-led countries handled coronavirus better, study suggests",
-        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
     }
 ];
