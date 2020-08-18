@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081805125.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "세브란스병원서 사랑제일교회관련 코로나19확진자…안과병원폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200818024951017?did=1195m"
-    },
-    {
-        "title": "[단독] 신촌세브란스 병원서도 코로나19 확진자 발생",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
-    },
-    {
-        "title": "[단독]SK건설, 수도권 공사현장서 코로나19 확진자 발생",
-        "link": "http://www.newsis.com/view/?id=NISX20200818_0001132585&cID=10401&pID=10400"
-    },
-    {
         "title": "이낙연, 확진자 썼던 마이크 사용...코로나 검사 받고 자가격리",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/18/2020081805083.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[속보]이낙연, 코로나19 확진자 간접 접촉…여야 지도부 비상",
-        "link": "https://www.hankyung.com/politics/article/2020081807067"
+        "title": "이낙연, 코로나19 확진자 간접 접촉…정치권 초비상(종합)",
+        "link": "http://yna.kr/AKR20200818170651001?did=1195m"
     },
     {
-        "title": "하룻밤새 코로나 확진자 6명 추가",
-        "link": "http://sjbnews.com/news/news.php?number=691520"
+        "title": "[속보] 서울시 오늘 확진자 110명 증가…사랑제일교회發 확산",
+        "link": "https://www.hankyung.com/society/article/2020081805607"
     },
     {
         "title": "[단독]'광복절 집회' 확진자에 경찰 지구대가 멈췄다…65명 격리",
         "link": "http://www.newsis.com/view/?id=NISX20200818_0001133663&cID=10201&pID=10200"
     },
     {
-        "title": "세브란스병원서 사랑제일교회 관련 코로나19 확진자 발생",
-        "link": "http://yna.kr/AKR20200818024900017?did=1195m"
+        "title": "세브란스병원서도 사랑제일교회발 확진자 발생…안과병원 폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008180826001&code=940100"
     },
     {
-        "title": "일본 코로나19 신규확진 902명…누적 5만8천명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200818168400073?did=1195m"
+        "title": "[단독] 신촌세브란스 병원서도 코로나19 확진자 발생",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
+    },
+    {
+        "title": "방역당국 “코로나 방역 중대기로…사랑제일교회 관련 확진자 전국서 457명”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4519486&ref=A"
+    },
+    {
+        "title": "대구 중구 동덕지구대에 코로나19 확진자 다녀가",
+        "link": "https://news.imaeil.com/Society/2020081811242012761"
+    },
+    {
+        "title": "[3보]강릉서 코로나19 확진자 발생…정동진 썬크루즈호텔 직원",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081700139"
     }
 ];
