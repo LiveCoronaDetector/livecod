@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/think/opinion/covid-19-spikes-south-africa-melbourne-offer-america-clues-ahead-ncna1236875"
     },
     {
-        "title": "Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
+        "title": "Live updates: Daughter of coronavirus victim denounces Trump in fiery speech at DNC",
+        "link": "https://www.washingtonpost.com/nation/2020/08/18/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Victoria Covid-19: Almost all cases linked to quarantine hotels",
+        "title": "Coronavirus: Victoria records fewest new infections in a month",
         "link": "https://www.bbc.com/news/world-australia-53806500"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-18-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus live news: Jacinda Ardern says Trump's 'patently wrong' on New Zealand's Covid cases",
-        "link": "https://www.theguardian.com/world/live/2020/aug/18/coronavirus-live-news-lebanon-hospitals-near-capacity-global-cases-approach-22-million"
     },
     {
         "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
         "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     },
     {
-        "title": "Southeast Asia Detects Mutated Virus Strain Sweeping the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6c82d970-e11c-11ea-aca6-0df9a15aecd7&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
+        "title": "August 17 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
+    },
+    {
+        "title": "Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?",
+        "link": "https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html"
+    },
+    {
+        "title": "WHO reports record global Covid-19 increase over 24 hours",
+        "link": "https://www.cnn.com/videos/world/2020/08/17/global-coronavirus-covid-19-wrap-brunhuber-pkg-intl-hnk-vpx.cnn"
     }
 ];

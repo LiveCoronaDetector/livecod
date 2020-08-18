@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://www.namdonews.com/news/articleView.html?idxno=581353"
     },
     {
-        "title": "인구 3만 진도 첫 확진자 발생에 '발칵'…접촉 주민 71명 검사",
-        "link": "https://www.news1.kr/articles/?4029081"
-    },
-    {
         "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
@@ -37,7 +33,11 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200817078300054?did=1195m"
     },
     {
-        "title": "전남지역 코로나19 43번 확진자 발생...김영록 지사 긴급발표",
-        "link": "http://www.straightnews.co.kr/news/articleView.html?idxno=81903"
+        "title": "‘청정지역’ 전남 진도서 수도권발 코로나19 확진자 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z6ML5Z9UP"
+    },
+    {
+        "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
+        "link": "https://www.news1.kr/articles/?4029023"
     }
 ];
