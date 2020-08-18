@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170157&t=NN"
     },
     {
-        "title": "진도에도 순복음교회발 확진자…수도권서 지역 확산 '우려'",
-        "link": "https://www.news1.kr/articles/?4028826"
-    },
-    {
-        "title": "'신도 56만' 순복음교회서도 확진자 발생",
-        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5876849_32531.html"
-    },
-    {
-        "title": "[속보] '교인 56만' 여의도순복음교회서 확진자 다수 발생",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081710101997318"
-    },
-    {
         "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
     },
     {
         "title": "코로나19 신규확진 197명…사랑제일교회 우리제일교회 관련 감염자 눈덩이",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081600142"
+    },
+    {
+        "title": "여의도순복음교회 확진자 3명.. 병원치료 중",
+        "link": "http://www.fnnews.com/news/202008171212362720"
+    },
+    {
+        "title": "[속보] '교인 56만' 여의도순복음교회서 확진자 다수 발생",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020081710101997318"
+    },
+    {
+        "title": "김포 확진자, 여의도순복음교회 교인…확진 전 제주도 여행",
+        "link": "http://yna.kr/AKR20200816018600065?did=1195m"
     }
 ];

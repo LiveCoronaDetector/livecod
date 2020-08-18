@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200818024951017?did=1195m"
     },
     {
+        "title": "[속보] 코로나19 확진자 246명 추가...국내 235명·해외 11명",
+        "link": "https://www.sedaily.com/NewsView/1Z6MKM7DQP"
+    },
+    {
         "title": "[단독] 신촌세브란스 병원서도 코로나19 확진자 발생",
         "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 246명…국내 발생 235명·해외유입 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4519267&ref=A"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 246명 증가...지역 235명 중 서울 131명, 경기 52명",
+        "link": "http://www.fnnews.com/news/202008181019045735"
+    },
+    {
+        "title": "[속보]'코로나19' 확진자 246명 추가…닷새째 100명 넘어",
+        "link": "https://www.news1.kr/articles/?4029056"
+    },
+    {
+        "title": "세브란스병원서 사랑제일교회관련 코로나19 확진자 추가 발생(종합2보)",
+        "link": "http://yna.kr/AKR20200818024952017?did=1195m"
+    },
+    {
+        "title": "[속보]코로나19 또 200명대…신규 246명 확진",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000215958"
     },
     {
         "title": "신촌 세브란스 간호사, 코로나19 확진…사랑제일교회 방문",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993231?division=NAVER"
     },
     {
-        "title": "박능후 \"교회發 코로나19 확산세 심각, 강화된 조치 검토\"(상보)",
-        "link": "https://view.asiae.co.kr/article/2020081809365551667"
-    },
-    {
-        "title": "세브란스병원에 코로나19 확진자 2명 발생…안과병원 폐쇄",
-        "link": "https://hankookilbo.com/News/Read/A2020081809270001484?did=NA"
-    },
-    {
-        "title": "포항서 사랑제일교회발 확진자 1명 추가 발생",
-        "link": "https://news.imaeil.com/Society/2020081809370756419"
-    },
-    {
-        "title": "전세계 코로나19 확진자 2천200만명 넘어…일주일새 200만명↑",
-        "link": "http://yna.kr/AKR20200818028000009?did=1195m"
-    },
-    {
-        "title": "사랑제일교회 확진자 개인레슨 한 서울시향 단원도 코로나19 감염",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081701947.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "방역당국 \"사랑제일교회 전광훈, 코로나 확진\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/17/2020081701346.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "사랑제일교회 전광훈 목사, 코로나19 확진... 서울의료원 이송(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/17/2020081701353.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나 신규확진 246명···5일간 991명 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008181021001&code=940601"
     }
 ];
