@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/17/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Israel, UAE stem cell therapy companies collaborate on COVID-19 treatment",
-        "link": "https://www.jpost.com/middle-east/israel-uae-stem-cell-therapy-companies-collaborate-on-covid-19-treatments-638970"
+        "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
+        "link": "https://www.jpost.com/breaking-news/plan-to-allow-tourists-in-israel-to-be-presented-by-end-of-month-health-ministry-638924"
     },
     {
         "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/17/903282953/we-can-t-live-like-zombies-protesters-in-spain-decry-covid-19-mask-mandate"
     },
     {
-        "title": "US coronavirus death toll exceeds 170,000: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/australia-reports-deadliest-day-coronavirus-pandemic-live-200816232313417.html"
+        "title": "Coronavirus: How many Covid-19 deaths is India missing?",
+        "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Coronavirus: Japan suffers its biggest economic slump on record",
-        "link": "https://www.bbc.com/news/business-53802967"
+        "title": "Victoria Covid-19: Almost all cases linked to quarantine hotels",
+        "link": "https://www.bbc.com/news/world-australia-53806500"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
-        "title": "Coronavirus: Italy closes nightclubs as authorities blame holidaymakers for new outbreaks",
-        "link": "https://www.euronews.com/2020/08/16/coronavirus-world-health-organization-reports-daily-record-number-of-covid-19-cases"
+        "title": "India Covid Updates: 26,47663 Total Cases With 50921 Deaths; 57981 Cases In Last 24 hours",
+        "link": "https://www.youtube.com/watch?v=aKXUg21vDJs"
     },
     {
-        "title": "Hundreds gather in Madrid for anti-mask protest",
-        "link": "https://www.bbc.com/news/av/world-europe-53802226/coronavirus-hundreds-gather-in-madrid-for-anti-mask-protest"
+        "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
+        "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     }
 ];
