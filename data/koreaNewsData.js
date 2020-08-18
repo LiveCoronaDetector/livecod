@@ -5,8 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200818024951017?did=1195m"
     },
     {
+        "title": "세브란스병원서 사랑제일교회관련 코로나19 확진자 추가 발생(종합2보)",
+        "link": "http://yna.kr/AKR20200818024952017?did=1195m"
+    },
+    {
+        "title": "국방부, 코로나19 확산 여파 전 부대 2주간 휴가 중단(상보)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02499366625868632"
+    },
+    {
         "title": "[단독] 신촌세브란스 병원서도 코로나19 확진자 발생",
         "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
+    },
+    {
+        "title": "[종합] 확진자 438명 전광훈 교회, 484명 '명단누락'·553명 '연락두절'",
+        "link": "http://www.newspim.com/news/view/20200818000548"
     },
     {
         "title": "세브란스병원서 사랑제일교회 관련 코로나19 확진자 발생",
@@ -17,16 +29,8 @@ var koreaNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11965180"
     },
     {
-        "title": "신규확진 246명…교회→병원·군·경찰, 들불처럼 번지는 코로나(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200818500038&wlog_tag3=naver"
-    },
-    {
-        "title": "국방부, 코로나19 확산 여파 전 부대 2주간 휴가 중단(상보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02499366625868632"
-    },
-    {
-        "title": "[속보] 코로나19 확진자 246명 추가...국내 235명·해외 11명",
-        "link": "https://www.sedaily.com/NewsView/1Z6MKM7DQP"
+        "title": "하루 신규확진 246명…'사랑제일교회발' 코로나 전국 확산 [종합]",
+        "link": "https://www.hankyung.com/society/article/2020081880977"
     },
     {
         "title": "[종합] 코로나19 확진자 246명 증가...지역 235명 중 서울 131명, 경기 52명",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "국내 코로나19 신규 확진 246명…지역발생 235명(상보)",
         "link": "https://view.asiae.co.kr/article/2020081810302877142"
-    },
-    {
-        "title": "[속보]원주서 40대 부부 코로나19 확진",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081700137"
     }
 ];

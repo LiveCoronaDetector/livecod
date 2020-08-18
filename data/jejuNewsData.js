@@ -25,8 +25,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
     {
-        "title": "수도권발 코로나19, 진도까지 갔다…\"교인과 같은 비행기 타\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170157&t=NN"
+        "title": "김포 70번 확진자 제주지역 접촉자 6명 '음성'",
+        "link": "http://www.newsis.com/view/?id=NISX20200817_0001132105&cID=10813&pID=10800"
+    },
+    {
+        "title": "수도권 코로나19, 진도까지 퍼져…전남 43번째 확진",
+        "link": "http://yna.kr/AKR20200817078300054?did=1195m"
     },
     {
         "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 신규확진 197명…사랑제일교회 우리제일교회 관련 감염자 눈덩이",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081600142"
-    },
-    {
-        "title": "여의도순복음교회 확진자 3명.. 병원치료 중",
-        "link": "http://www.fnnews.com/news/202008171212362720"
     }
 ];
