@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-18-20-intl/index.html"
+    },
+    {
         "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
         "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     },
     {
         "title": "Southeast Asia Detects Mutated Virus Strain Sweeping the World",
-        "link": "https://www.bloomberg.com/tosv.html?url=L3Rvc3YyLmh0bWw/dXJsPUwyNWxkM012WVhKMGFXTnNaWE12TWpBeU1DMHdPQzB4Tnk5dFlXeGhlWE5wWVMxa1pYUmxZM1J6TFhacGNuVnpMWE4wY21GcGJpMTBhR0YwTFhNdE1UQXRkR2x0WlhNdGJXOXlaUzFwYm1abFkzUnBiM1Z6JnZpZD0mdXVpZD0wNWM3MTRiMC1lMTE0LTExZWEtOWI0Yi03MTFlYWJhZDQ4OGQ=&uuid=05df7eb0-e114-11ea-a6cf-0954f8259700&vid="
-    },
-    {
-        "title": "WHO reports record global Covid-19 increase over 24 hours",
-        "link": "https://www.cnn.com/videos/world/2020/08/17/global-coronavirus-covid-19-wrap-brunhuber-pkg-intl-hnk-vpx.cnn"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=419267c0-e118-11ea-b943-4d9b5eb2491b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
     }
 ];

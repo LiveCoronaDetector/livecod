@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200818047051054?did=1195m"
     },
     {
-        "title": "인구 3만 진도 첫 확진자 발생에 '발칵'…접촉 주민 71명 검사",
-        "link": "https://www.news1.kr/articles/?4029081"
-    },
-    {
         "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
         "link": "https://www.news1.kr/articles/?4029023"
+    },
+    {
+        "title": "[속보] 코로나19 197명 늘어 1만5,515명…지역 188명·해외유입 9명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170053&t=NN"
     }
 ];
