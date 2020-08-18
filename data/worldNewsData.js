@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/think/opinion/covid-19-spikes-south-africa-melbourne-offer-america-clues-ahead-ncna1236875"
     },
     {
-        "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
-        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
+        "title": "Live updates: Daughter of coronavirus victim denounces Trump in fiery speech at DNC",
+        "link": "https://www.washingtonpost.com/nation/2020/08/18/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/17/903282953/we-can-t-live-like-zombies-protesters-in-spain-decry-covid-19-mask-mandate"
     },
     {
-        "title": "Global report: India hits 900,000 daily tests amid surge in coronavirus cases",
-        "link": "https://www.theguardian.com/world/2020/aug/18/global-report-india-hits-900000-daily-tests-amid-surge-in-coronavirus-cases"
+        "title": "Coronavirus: How many Covid-19 deaths is India missing?",
+        "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Victoria Covid-19: Almost all cases linked to quarantine hotels",
-        "link": "https://www.bbc.com/news/world-australia-53806500"
+        "title": "South Korea warns it is on brink of new Covid crisis as church linked to outbreak",
+        "link": "https://www.theguardian.com/world/2020/aug/18/south-korea-warns-it-is-on-brink-of-new-covid-crisis-as-church-linked-to-outbreak-seoul"
     },
     {
         "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
         "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
-        "title": "Coronavirus: How many Covid-19 deaths is India missing?",
-        "link": "https://www.bbc.com/news/world-asia-india-53773070"
+        "title": "India Covid Updates: 26,47663 Total Cases With 50921 Deaths; 57981 Cases In Last 24 hours",
+        "link": "https://www.youtube.com/watch?v=aKXUg21vDJs"
     },
     {
-        "title": "Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?",
-        "link": "https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html"
+        "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
+        "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     },
     {
         "title": "Southeast Asia Detects Mutated Virus Strain Sweeping the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=66183110-e131-11ea-8644-eb9912df448b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=99ed8d60-e135-11ea-bff6-f13dfb8e8d9c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xNy9tYWxheXNpYS1kZXRlY3RzLXZpcnVzLXN0cmFpbi10aGF0LXMtMTAtdGltZXMtbW9yZS1pbmZlY3Rpb3Vz"
     }
 ];
