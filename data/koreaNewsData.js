@@ -5,16 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200819003952060?did=1195m"
     },
     {
+        "title": "정치권, 코로나 감염 초비상…이낙연·박주민 선거운동 일시 중단(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200819_0001133714&cID=10301&pID=10300"
+    },
+    {
         "title": "[속보] 이낙연, 확진자 썼던 마이크 사용…코로나 검사 후 자가격리",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081805125.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 재확산…서울·판교 ICT 기업들 속속 재택근무(종합2보)",
+        "link": "http://www.newsis.com/view/?id=NISX20200818_0001133512&cID=13001&pID=13000"
     },
     {
         "title": "[속보] 신촌 세브란스, 사랑제일교회 관련 확진자 발생",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180039&t=NN"
     },
     {
-        "title": "정치권, 코로나 감염 초비상…이낙연·박주민 선거운동 일시 중단(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200819_0001133714&cID=10301&pID=10300"
+        "title": "이낙연, 코로나19 확진자 간접 접촉…정치권 ‘비상’",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993346?division=NAVER"
     },
     {
         "title": "종로 한국기독교회관서 코로나 확진자 나와",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "[단독]'광복절 집회' 확진자에 경찰 지구대가 멈췄다…65명 격리",
         "link": "http://www.newsis.com/view/?id=NISX20200818_0001133663&cID=10201&pID=10200"
-    },
-    {
-        "title": "대구 중구 동덕지구대에 코로나19 확진자 다녀가",
-        "link": "https://news.imaeil.com/Society/2020081811242012761"
-    },
-    {
-        "title": "방역당국 “코로나 방역 중대기로…사랑제일교회 관련 확진자 전국서 457명”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4519486&ref=A"
     }
 ];

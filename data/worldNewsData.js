@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Live Covid-19 News",
+        "title": "Live Covid-19 Global News Tracker and Updates",
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-        "title": "Notre Dame temporarily shifts to remote classes to try to curb coronavirus outbreak, warns it may send students home",
-        "link": "https://www.cnbc.com/2020/08/18/notre-dame-traces-more-than-50-coronavirus-cases-to-off-campus-party-official-says.html"
+        "title": "Live Covid-19 News",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
         "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
