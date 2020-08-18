@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Faster test results and 'robust' immune response may offer hope of curbing the pandemic, experts say",
-        "link": "https://www.cnn.com/2020/08/18/health/us-coronavirus-tuesday/index.html"
+        "title": "Live Covid-19 Global News Tracker and Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
         "title": "Coronavirus latest: Greece hopes to have vaccine by December",
         "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
     },
     {
-        "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/17/903282953/we-can-t-live-like-zombies-protesters-in-spain-decry-covid-19-mask-mandate"
+        "title": "Beaten Back, the Coronavirus Regains Strength in France",
+        "link": "https://www.nytimes.com/2020/08/17/world/europe/france-coronavirus.html"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
+        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
+        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
+    },
+    {
         "title": "Charles Payne on 'mass exodus' from NYC: The snowball is turning into a 'boulder'",
         "link": "https://www.foxbusiness.com/economy/charles-payne-nyc-mass-exodus-pandemic-crime"
     },
     {
+        "title": "Coronavirus live updates: Notre Dame reports 11% positive test rate; Yale saliva test may miss some infections",
+        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
+    },
+    {
         "title": "Wuhan hosts massive water park party as coronavirus concerns recede",
         "link": "https://www.cnn.com/2020/08/18/asia/wuhan-water-park-party-intl-hnk/index.html"
-    },
-    {
-        "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
-        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
-    },
-    {
-        "title": "India Covid Updates: 26,47663 Total Cases With 50921 Deaths; 57981 Cases In Last 24 hours",
-        "link": "https://www.youtube.com/watch?v=aKXUg21vDJs"
     }
 ];

@@ -5,8 +5,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081805125.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 코로나 오늘 110명…세계최대 감리교회 금란교회 교인 확진",
-        "link": "http://yna.kr/AKR20200818163500004?did=1195m"
+        "title": "파주병원 탈출 사랑제일교회 확진자 25시간만에 검거(종합)",
+        "link": "http://yna.kr/AKR20200819003952060?did=1195m"
+    },
+    {
+        "title": "[속보] 서울시 오늘 확진자 110명 증가…사랑제일교회發 확산",
+        "link": "https://www.hankyung.com/society/article/2020081805607"
     },
     {
         "title": "[단독]'광복절 집회' 확진자에 경찰 지구대가 멈췄다…65명 격리",
@@ -17,20 +21,8 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180039&t=NN"
     },
     {
-        "title": "파주병원 탈출 사랑제일교회 확진자 25시간만에 검거(종합)",
-        "link": "http://yna.kr/AKR20200819003952060?did=1195m"
-    },
-    {
         "title": "종로 한국기독교회관서 코로나 확진자 나와",
         "link": "http://yna.kr/AKR20200818080900005?did=1195m"
-    },
-    {
-        "title": "잠적하고 도망가는 확진자들…법무부·대검 \"강력 대처\"",
-        "link": "https://www.hankyung.com/society/article/2020081802817"
-    },
-    {
-        "title": "이낙연, 코로나19 확진자 간접 접촉…정치권 초비상(종합)",
-        "link": "http://yna.kr/AKR20200818170651001?did=1195m"
     },
     {
         "title": "軍, 전 부대 휴가 2주간 중단…확진자 2명 추가",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "세브란스병원서 사랑제일교회 관련 코로나19 확진자 발생",
         "link": "http://yna.kr/AKR20200818024900017?did=1195m"
+    },
+    {
+        "title": "방역당국 “코로나 방역 중대기로…사랑제일교회 관련 확진자 전국서 457명”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4519486&ref=A"
+    },
+    {
+        "title": "노원 안디옥교회서도 코로나 집단감염… 누적 확진자 15명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/18/2020081801866.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
