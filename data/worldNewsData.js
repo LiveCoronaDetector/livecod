@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/think/opinion/covid-19-spikes-south-africa-melbourne-offer-america-clues-ahead-ncna1236875"
     },
     {
-        "title": "Birx says she wishes US lockdown had resembled the one in Italy",
-        "link": "https://www.cnn.com/2020/08/17/health/us-coronavirus-monday/index.html"
+        "title": "Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
     },
     {
         "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
