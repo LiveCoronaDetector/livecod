@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Live updates: Daughter of coronavirus victim denounces Trump in fiery speech at Democratic convention",
-        "link": "https://www.washingtonpost.com/nation/2020/08/18/coronavirus-covid-live-updates-us/"
+        "title": "Faster test results and 'robust' immune response may offer hope of curbing the pandemic, experts say",
+        "link": "https://www.cnn.com/2020/08/18/health/us-coronavirus-tuesday/index.html"
     },
     {
         "title": "Coronavirus latest: Greece hopes to have vaccine by December",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-        "title": "U.N.C. at Chapel Hill Shifts to Remote Learning After a Covid-19 Outbreak",
-        "link": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html"
+        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
+        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
-        "title": "Water party in Wuhan attracts thousands",
-        "link": "https://www.youtube.com/watch?v=R3ySrtdrqlE"
+        "title": "Live Covid-19 Global News Tracker and Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/covid-19-coronavirus.html"
     },
     {
-        "title": "If New Zealand's Covid-19 outbreak is 'terrible' like Trump says, then how bad is the rest of the world?",
-        "link": "https://www.cnn.com/2020/08/18/asia/trump-new-zealand-coronavirus-intl-hnk/index.html"
+        "title": "India records highest daily number of COVID-19 fatalities | Daily Sabah",
+        "link": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9pbmRpYS1yZWNvcmRzLWhpZ2hlc3QtZGFpbHktbnVtYmVyLW9mLWNvdmlkLTE5LWZhdGFsaXRpZXPSAWtodHRwczovL3d3dy5kYWlseXNhYmFoLmNvbS93b3JsZC9hc2lhLXBhY2lmaWMvaW5kaWEtcmVjb3Jkcy1oaWdoZXN0LWRhaWx5LW51bWJlci1vZi1jb3ZpZC0xOS1mYXRhbGl0aWVzL2FtcA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Sweden's Covid-19 strategist under fire over herd immunity emails",
-        "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
+        "title": "Coronavirus live updates: Notre Dame reports 11% positive test rate; Yale saliva test may miss some infections",
+        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
     }
 ];
