@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008180731393729"
     },
     {
-        "title": "[속보] 종로 기독교회관서 코로나 확진자…또 사랑제일교회",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180282&t=NN"
-    },
-    {
         "title": "방역당국 “코로나 방역 중대기로…사랑제일교회 관련 확진자 전국서 457명”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4519486&ref=A"
     },
@@ -29,12 +25,16 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020081811242012761"
     },
     {
-        "title": "박능후 \"교회發 코로나19 확산세 심각, 강화된 조치 검토\"(상보)",
-        "link": "https://view.asiae.co.kr/article/2020081809365551667"
-    },
-    {
         "title": "[3보]강릉서 코로나19 확진자 발생…정동진 썬크루즈호텔 직원",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081700139"
+    },
+    {
+        "title": "[단독]SK건설, 수도권 공사현장서 코로나19 확진자 발생",
+        "link": "http://www.newsis.com/view/?id=NISX20200818_0001132585&cID=10401&pID=10400"
+    },
+    {
+        "title": "[속보] 종로 기독교회관서 코로나 확진자…또 사랑제일교회",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008180282&t=NN"
     },
     {
         "title": "잠적하고 도망가는 확진자들…법무부·대검 \"강력 대처\"",
