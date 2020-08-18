@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Live updates: Daughter of coronavirus victim denounces Trump in fiery speech at Democratic convention",
-        "link": "https://www.washingtonpost.com/nation/2020/08/18/coronavirus-covid-live-updates-us/"
+        "title": "The catastrophic US response to coronavirus is allowing China to stake its claim as the world's dominant ..",
+        "link": "https://markets.businessinsider.com/news/stocks/us-china-coronavirus-covid-19-failure-threatens-global-dominance-greenspan-2020-8-1029511571"
     },
     {
-        "title": "Ukraine bans pilgrimage to Uman over COVID-19 fears",
-        "link": "https://www.jpost.com/breaking-news/israelis-will-not-be-let-into-uman-this-year-639032"
+        "title": "Coronavirus czar to recommend lockdown for Jewish holidays - report",
+        "link": "https://www.jpost.com/breaking-news/plan-to-allow-tourists-in-israel-to-be-presented-by-end-of-month-health-ministry-638924"
     },
     {
         "title": "'We Can't Live Like Zombies': Protesters In Spain Decry COVID-19 Mask Mandate",
@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Coronavirus: Victoria records fewest new infections in a month",
-        "link": "https://www.bbc.com/news/world-australia-53806500"
-    },
-    {
-        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
-        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
+        "title": "South Korea warns it is on brink of new Covid crisis as church linked to outbreak",
+        "link": "https://www.theguardian.com/world/2020/aug/18/south-korea-warns-it-is-on-brink-of-new-covid-crisis-as-church-linked-to-outbreak-seoul"
     },
     {
         "title": "August 17 coronavirus news",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/17/swedens-covid-19-strategist-under-fire-over-herd-immunity-emails"
     },
     {
-        "title": "WHO reports record global Covid-19 increase over 24 hours",
-        "link": "https://www.cnn.com/videos/world/2020/08/17/global-coronavirus-covid-19-wrap-brunhuber-pkg-intl-hnk-vpx.cnn"
+        "title": "If New Zealand's Covid-19 outbreak is 'terrible' like Trump says, then how bad is the rest of the world?",
+        "link": "https://www.cnn.com/2020/08/18/asia/trump-new-zealand-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Covid-19: What if ‘Herd Immunity’ Is Closer Than Scientists Thought?",
+        "link": "https://www.nytimes.com/2020/08/17/health/coronavirus-herd-immunity.html"
     }
 ];
