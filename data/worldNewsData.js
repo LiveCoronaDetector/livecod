@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
         "title": "Does Israel need a coronavirus lockdown? And if so, when?",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
     },
     {
-        "title": "Demanding Answers: When Will Indoor Dining Be Allowed In NYC?",
-        "link": "https://www.youtube.com/watch?v=BJqKu8tF7I4"
+        "title": "Covid-19: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "New models suggest COVID-19 herd immunity might be achieved with far fewer people infected",
-        "link": "https://news.yahoo.com/models-suggest-covid-19-herd-130126904.html"
+        "title": "Millions of Indians have been left jobless as Coronavirus pandemic continues to spread",
+        "link": "https://www.youtube.com/watch?v=akM7fO7u_-s"
     },
     {
         "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=14f89650-e1d9-11ea-8bf1-f1c88af39b22&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3257ac50-e1dd-11ea-9d0e-89c2355b9a9d&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
     },
     {
         "title": "Wuhan pool party sees hundreds packed together in China's former coronavirus epicentre",

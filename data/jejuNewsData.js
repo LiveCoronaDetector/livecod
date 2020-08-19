@@ -17,6 +17,14 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
+        "title": "코로나 진단검사 결과 나왔습니다",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=466103"
+    },
+    {
+        "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
+        "link": "http://yna.kr/AKR20200819083100056?did=1195m"
+    },
+    {
         "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "여의도순복음교회도 코로나19 확진자 3명 발생",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
-    },
-    {
-        "title": "코로나 진단검사 결과 나왔습니다",
-        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=466103"
-    },
-    {
-        "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
-        "link": "http://yna.kr/AKR20200819083100056?did=1195m"
     }
 ];
