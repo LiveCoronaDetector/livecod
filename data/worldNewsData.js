@@ -34,10 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=afbc45a0-e1d0-11ea-b1ea-c10609d7c628&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cd221260-e1d4-11ea-8366-2d0ebd6f6fa7&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
     },
     {
-        "title": "Coronavirus live updates: Notre Dame to move classes online for 2 weeks; Yale saliva test may miss some infections",
-        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
+        "title": "Worldwide coronavirus cases surpass 22 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     }
 ];
