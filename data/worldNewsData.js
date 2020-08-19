@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Coronavirus live news: global cases pass 22m as Australia will provide vaccines to 'Pacific family'",
-        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
-    },
-    {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
+        "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html"
     },
     {
-        "title": "WHO says COVID-19 pandemic now driven by younger adults, many asymptomatic",
-        "link": "https://www.youtube.com/watch?v=XNpa5q8CCPg"
+        "title": "Covid-19: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=bffd9030-e1fe-11ea-aa35-731c11830dd1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
+        "title": "Global report: Australian PM backtracks on plan to make coronavirus vaccine mandatory",
+        "link": "https://www.theguardian.com/world/2020/aug/19/global-report-australian-pm-plans-to-make-coronavirus-vaccine-mandatory"
+    },
+    {
+        "title": "WHO blames COVID-19 spread on young people",
+        "link": "https://www.youtube.com/watch?v=juSNQydrTSY"
     }
 ];

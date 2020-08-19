@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014923449&code=61221111&cp=nv"
     },
     {
-        "title": "제주도, 수도권 교회·광화문 집회 참석자 진단검사 행정명령",
-        "link": "http://www.hani.co.kr/arti/area/jeju/958460.html"
-    },
-    {
         "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",
         "link": "http://yna.kr/AKR20200819059600054?did=1195m"
     },
     {
         "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
+    },
+    {
+        "title": "광복절 집회 참석자 파악 '한계'…코로나19 유입 우려",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=149704"
     }
 ];
