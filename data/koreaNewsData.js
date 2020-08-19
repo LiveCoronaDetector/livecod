@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200819054552001?did=1195m"
     },
     {
-        "title": "경찰, 광화문집회 투입 7600여명 ‘코로나19 전수조사’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008190814001&code=940100"
+        "title": "해외유입 코로나확진자 예측하는 AI 나왔다",
+        "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
     },
     {
-        "title": "[여론조사] 코로나19 방역 방해 \"구상권 청구 찬성\" 79.7%",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "이낙연, 코로나19 검사 결과 '음성'…정치권 일단 안도",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005937149&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "이낙연, 코로나19 '음성'…정치권 안도(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5396908"
+    },
+    {
+        "title": "경찰, 광화문집회 투입 7600여명 ‘코로나19 전수조사’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008190814001&code=940100"
     },
     {
         "title": "이낙연, 코로나19 확진자 간접 접촉…정치권 ‘비상’",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993346?division=NAVER"
     },
     {
+        "title": "[여론조사] 코로나19 방역 방해 \"구상권 청구 찬성\" 79.7%",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
         "title": "파주병원 탈출 사랑제일교회 확진자 25시간만에 검거(종합)",
         "link": "http://yna.kr/AKR20200819003952060?did=1195m"
     },
     {
-        "title": "확진자 마이크 쓴 이낙연, 코로나19 검사 결과 ‘음성’",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993382?division=NAVER"
+        "title": "코로나19 확진자 발생에 CBS 셧다운",
+        "link": "https://www.pressian.com/pages/articles/2020081910011036740?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "신규 확진 297명 6개월 만에 최다…교인 14만명 금란교회도 확진자",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11965370"
-    },
-    {
-        "title": "코로나19 확진자 300명 육박, 재유행 이후 최다…전국 곳곳서 발생(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02292726625868960"
-    },
-    {
-        "title": "이낙연 의원, 코로나 검사에서 '음성' 판정",
-        "link": "https://imnews.imbc.com/news/2020/politics/article/5878268_32626.html"
-    },
-    {
-        "title": "이낙연, 코로나19 '음성'…정치권 안도(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5396908"
+        "title": "코로나19 전국 확산에 “해수욕장 이용 자제”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
     }
 ];

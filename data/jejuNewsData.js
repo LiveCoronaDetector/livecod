@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
     {
-        "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",
-        "link": "http://yna.kr/AKR20200819059600054?did=1195m"
+        "title": "코로나 진단검사 결과 나왔습니다",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=466103"
     },
     {
-        "title": "김포 코로나19 확진자 2박 3일 제주여행",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
+        "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
+        "link": "http://yna.kr/AKR20200819083100056?did=1195m"
     }
 ];

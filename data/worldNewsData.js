@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=BJqKu8tF7I4"
     },
     {
-        "title": "Wuhan pool party sees hundreds packed together in China's former coronavirus epicentre",
-        "link": "https://www.youtube.com/watch?v=YtKe7CXauKg"
+        "title": "New models suggest COVID-19 herd immunity might be achieved with far fewer people infected",
+        "link": "https://news.yahoo.com/models-suggest-covid-19-herd-130126904.html"
     },
     {
         "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cd221260-e1d4-11ea-8366-2d0ebd6f6fa7&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=14f89650-e1d9-11ea-8bf1-f1c88af39b22&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
     },
     {
-        "title": "Worldwide coronavirus cases surpass 22 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
+        "title": "Wuhan pool party sees hundreds packed together in China's former coronavirus epicentre",
+        "link": "https://www.youtube.com/watch?v=YtKe7CXauKg"
     }
 ];
