@@ -204,9 +204,9 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 103300,
+        "확진자수": 103571,
         "사망자수": 1415,
-        "완치자수": 84445
+        "완치자수": 86286
     },
     {
         "Name": "Bolivia",
@@ -284,9 +284,9 @@ var marker = [
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "확진자수": 78534,
-        "사망자수": 9944,
-        "완치자수": 18003
+        "확진자수": 78897,
+        "사망자수": 9959,
+        "완치자수": 18048
     },
     {
         "Name": "쿠웨이트",
@@ -1396,9 +1396,17 @@ var marker = [
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "확진자수": 326,
+        "확진자수": 333,
         "사망자수": 17,
         "완치자수": 107
+    },
+    {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 315,
+        "사망자수": 2,
+        "완치자수": 56
     },
     {
         "Name": "Eritrea",
@@ -1407,14 +1415,6 @@ var marker = [
         "확진자수": 304,
         "사망자수": 0,
         "완치자수": 261
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 298,
-        "사망자수": 2,
-        "완치자수": 55
     },
     {
         "Name": "Mongolia",
@@ -1430,7 +1430,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 273,
         "사망자수": 0,
-        "완치자수": 238
+        "완치자수": 251
     },
     {
         "Name": "지브롤터",

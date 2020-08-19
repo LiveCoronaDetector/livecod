@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200819040200056?did=1195m"
     },
     {
-        "title": "[여론조사] 코로나19 방역 방해 \"구상권 청구 찬성\" 79.7%",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "코로나19 전국 확산에 “해수욕장 이용 자제”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
+    },
+    {
+        "title": "[여론조사] 코로나19 방역 방해 \"구상권 청구 찬성\" 79.7%",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
