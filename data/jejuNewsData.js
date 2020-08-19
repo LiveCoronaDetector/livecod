@@ -17,8 +17,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008191724381917"
     },
     {
+        "title": "제주도 서울 사랑제일교회·8.15 집회 참석자 코로나 19 검사 행정명령",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200819500197&wlog_tag3=naver"
+    },
+    {
         "title": "제주도, 수도권 교회·광화문 집회 참석자 진단검사 행정명령",
         "link": "http://www.hani.co.kr/arti/area/jeju/958460.html"
+    },
+    {
+        "title": "아이콘루프-제주도, '관광방역' MOU…DID기반 시스템 구축",
+        "link": "https://www.hankyung.com/it/article/202008194524g"
     },
     {
         "title": "'황금연휴 22만명' 제주 관광객 코로나 이전 넘어섰다",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "광복절 집회 참석자 파악 '한계'…코로나19 유입 우려",
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=149704"
-    },
-    {
-        "title": "충북 코로나19 감염 반등…“빨리 검사 받아야”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520872&ref=A"
-    },
-    {
-        "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
-        "link": "http://yna.kr/AKR20200819083100056?did=1195m"
     }
 ];

@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
-        "title": "WHO blames COVID-19 spread on young people",
-        "link": "https://www.youtube.com/watch?v=juSNQydrTSY"
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
         "title": "Covid-19: Live Updates",
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Wuhan pool party sees hundreds packed together in China's former coronavirus epicentre",
-        "link": "https://www.youtube.com/watch?v=YtKe7CXauKg"
+        "title": "Wuhan coronavirus: From silent streets to packed pools",
+        "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
         "title": "Merkel Warns over Virus Spike",
