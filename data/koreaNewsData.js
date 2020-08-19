@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200819003952060?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 297명 신규 확진...국내 283명·해외 14명",
-        "link": "https://www.sedaily.com/NewsView/1Z6N2B9NJU"
+        "title": "[속보] 코로나 신규확진 297명···6일간 1288명 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008191022001&code=940601"
     },
     {
-        "title": "[속보] 코로나19 어제 297명 신규 확진…최근 6일간 최다",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005937150&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "정치권, 코로나 감염 초비상…이낙연·박주민 선거운동 일시 중단(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200819_0001133714&cID=10301&pID=10300"
-    },
-    {
-        "title": "[속보] 국내 코로나19 확진자 297명 추가…지역발생 283명",
-        "link": "https://www.hankyung.com/society/article/2020081919197"
-    },
-    {
-        "title": "[속보] 코로나 확진 297명…지역 283명 중 수도권에서 252명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/19/2020081901310.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나19 신규확진 297명…6일간 1,288명 폭증",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190118&t=NN"
     },
     {
         "title": "이낙연, 코로나19 검사 결과 ‘음성’(상보)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02168086625868960"
     },
     {
-        "title": "경찰, 광화문집회 투입 7600여명 ‘코로나19 전수조사’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008190814001&code=940100"
+        "title": "이낙연 의원, 코로나 검사에서 '음성' 판정",
+        "link": "https://imnews.imbc.com/news/2020/politics/article/5878268_32626.html"
     },
     {
-        "title": "[속보] 코로나19 확진자 300명 육박…서울이 절반",
-        "link": "http://news.tf.co.kr/read/life/1807698.htm"
+        "title": "[속보] 코로나19 297명 신규 확진...국내 283명·해외 14명",
+        "link": "https://www.sedaily.com/NewsView/1Z6N2B9NJU"
     },
     {
-        "title": "[여론조사] 코로나19 방역 방해 \"구상권 청구 찬성\" 79.7%",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "[속보] 코로나19 어제 '297명' 추가…6일간 1288명 늘어",
+        "link": "https://www.hankyung.com/society/article/2020081919747"
+    },
+    {
+        "title": "코로나 확진 297명…지역 283명 중 수도권에서 252명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/19/2020081901310.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 코로나19 신규 297명 확진…국내 발생 283명 가운데 수도권에서만 252...",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520210&ref=A"
+    },
+    {
+        "title": "[속보]원주서 첫 고등학생 코로나19 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081800133"
     }
 ];

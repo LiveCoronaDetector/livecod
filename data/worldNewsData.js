@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Covid-19: Live Tracker",
+        "title": "Live Updates of Coronavirus Global Pandemic",
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/does-israel-need-a-coronavirus-lockdown-and-if-so-when-639109"
     },
     {
-        "title": "Coronavirus: France to make face masks mandatory in most workplaces",
-        "link": "https://www.bbc.com/news/world-europe-53817383"
+        "title": "Global report: France tightens mask rules as Covid cases rise in Europe",
+        "link": "https://www.theguardian.com/world/2020/aug/18/global-report-france-tightens-mask-rules-as-covid-cases-rise-europe"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Coronavirus vaccine: Australia secures access to Oxford-AstraZeneca trial",
-        "link": "https://www.bbc.com/news/world-australia-53826846"
+        "title": "Wuhan coronavirus: From silent streets to packed pools",
+        "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
         "title": "Demanding Answers: When Will Indoor Dining Be Allowed In NYC?",
         "link": "https://www.youtube.com/watch?v=BJqKu8tF7I4"
     },
     {
-        "title": "Female-led countries handled coronavirus better, study suggests",
-        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
+        "title": "Coronavirus live news: global cases pass 22m as Wall Street record defies economic gloom",
+        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
     },
     {
         "title": "Wuhan pool party sees hundreds packed together in China's former coronavirus epicentre",
         "link": "https://www.youtube.com/watch?v=YtKe7CXauKg"
     },
     {
-        "title": "Coronavirus live news: global cases pass 22m as Wall Street record defies economic gloom",
-        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
+        "title": "Female-led countries handled coronavirus better, study suggests",
+        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
     }
 ];
