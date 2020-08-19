@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     },
     {
-        "title": "Germany to extend coronavirus furlough to 24 months",
-        "link": "https://www.theguardian.com/world/2020/aug/18/germany-to-extend-coronavirus-furlough-to-24-months"
+        "title": "Italy at a crossroads as fears grow of Covid-19 second wave",
+        "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",

@@ -5,12 +5,24 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202008194684g"
     },
     {
+        "title": "해외유입 코로나확진자 예측하는 AI 나왔다",
+        "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
+    },
+    {
         "title": "서울시청 2층서 확진자 발생…본관 전체 폐쇄(종합)",
         "link": "https://www.nocutnews.co.kr/news/5397273"
     },
     {
-        "title": "해외유입 코로나확진자 예측하는 AI 나왔다",
-        "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
+        "title": "신규 확진 297명 6개월 만에 최다…교인 14만명 금란교회도 확진자",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11965370"
+    },
+    {
+        "title": "서울랜드 코로나19 확진자 방문…임시 휴장",
+        "link": "http://yna.kr/AKR20200819165500061?did=1195m"
+    },
+    {
+        "title": "[속보] 빌 게이츠 \"코로나19, 수백만 더 죽고 내년말 종식\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190338&t=NN"
     },
     {
         "title": "[단독] 정부 \"코로나 확진자 나와도 반도체·디스플레이 공장은 가동\"",
@@ -21,23 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/19/2020081903295.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "세븐일레븐 본사서 코로나 확진자 4명 발생",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04234486625868960"
+        "title": "확진자 마이크 쓴 이낙연, 코로나19 검사 결과 ‘음성’",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000993382?division=NAVER"
     },
     {
         "title": "서울시청 본청에 코로나 확진자, 내일까지 전체 폐쇄",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/19/2020081903375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "[속보] 서울랜드도 코로나19 확진자 방문…임시 휴장 결정",
-        "link": "https://www.hankyung.com/society/article/2020081948207"
-    },
-    {
-        "title": "전북 코로나19 확진자 4명 늘어…연휴에 수도권 가족 등 접촉(종합)",
-        "link": "http://yna.kr/AKR20200819060951055?did=1195m"
-    },
-    {
-        "title": "경찰, 광화문집회 투입 7600여명 ‘코로나19 전수조사’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008190814001&code=940100"
     }
 ];
