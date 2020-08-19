@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus latest: Greece hopes to have vaccine by December",
-        "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
+        "title": "Does Israel need a coronavirus lockdown? And if so, when?",
+        "link": "https://www.jpost.com/health-science/does-israel-need-a-coronavirus-lockdown-and-if-so-when-639109"
     },
     {
         "title": "Global report: France tightens mask rules as Covid cases rise in Europe",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/nyc-hotels-quarantine-forms-covid-hotspots"
     },
     {
-        "title": "Female-led countries handled coronavirus better, study suggests",
-        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
+        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
+        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
     },
     {
         "title": "Wuhan hosts massive water park party as coronavirus concerns recede",
         "link": "https://www.cnn.com/2020/08/18/asia/wuhan-water-park-party-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus live updates: Notre Dame to move classes online for 2 weeks; Yale saliva test may miss some infections",
-        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
+        "title": "Female-led countries handled coronavirus better, study suggests",
+        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
     }
 ];
