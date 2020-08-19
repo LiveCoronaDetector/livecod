@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Does Israel need a coronavirus lockdown? And if so, when?",
-        "link": "https://www.jpost.com/health-science/does-israel-need-a-coronavirus-lockdown-and-if-so-when-639109"
+        "title": "Iran coronavirus death toll passes 20,000: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     },
     {
         "title": "Germany to extend coronavirus furlough to 24 months",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=8zVY-r2lCjU"
     },
     {
-        "title": "Worldwide coronavirus cases surpass 22 million: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
+        "title": "Coronavirus: Ireland at 'tipping point' as Covid-19 cases rise",
+        "link": "https://www.bbc.com/news/world-europe-53826957"
     }
 ];

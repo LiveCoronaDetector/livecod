@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202008194684g"
     },
     {
-        "title": "서울랜드 코로나19 확진자 방문…임시 휴장",
-        "link": "http://yna.kr/AKR20200819165500061?did=1195m"
-    },
-    {
         "title": "서울시청 2층서 확진자 발생…본관 전체 폐쇄(종합)",
         "link": "https://www.nocutnews.co.kr/news/5397273"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
     },
     {
-        "title": "잇단 코로나 확진자 발생에 방송가 '비상'",
-        "link": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01387446625868960"
-    },
-    {
-        "title": "\"AI가 코로나19 해외 유입 확진자 수 예측한다\"",
-        "link": "http://it.chosun.com/site/data/html_dir/2020/08/19/2020081903209.html"
-    },
-    {
-        "title": "코로나19 확진자 접촉한 SK선수 3명, 음성 판정",
-        "link": "http://www.newsis.com/view/?id=NISX20200819_0001134604&cID=10502&pID=10500"
-    },
-    {
         "title": "[단독] 정부 \"코로나 확진자 나와도 반도체·디스플레이 공장은 가동\"",
         "link": "http://www.fnnews.com/news/202008191108041837"
     },
     {
-        "title": "[단독] 서성종, 배우 첫 코로나19 확진..'그놈이 그놈' 중단→연극 '짬뽕'도 ...",
-        "link": "http://www.osen.co.kr/article/G1111418365"
+        "title": "서울시청 2층서 코로나 확진자 나와… 전층 폐쇄(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/19/2020081903295.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독] 한진중공업 영도조선소서 직원 1명 코로나 확진",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020081911044120254"
+        "title": "세븐일레븐 본사서 코로나 확진자 4명 발생",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04234486625868960"
+    },
+    {
+        "title": "서울시청 본청에 코로나 확진자, 내일까지 전체 폐쇄",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/19/2020081903375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "[속보] 서울랜드도 코로나19 확진자 방문…임시 휴장 결정",
+        "link": "https://www.hankyung.com/society/article/2020081948207"
+    },
+    {
+        "title": "전북 코로나19 확진자 4명 늘어…연휴에 수도권 가족 등 접촉(종합)",
+        "link": "http://yna.kr/AKR20200819060951055?did=1195m"
+    },
+    {
+        "title": "경찰, 광화문집회 투입 7600여명 ‘코로나19 전수조사’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008190814001&code=940100"
     }
 ];

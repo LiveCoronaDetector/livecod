@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008191724381917"
     },
     {
-        "title": "제주도, 수도권 교회·광화문 집회 참석자 진단검사 행정명령",
-        "link": "http://www.hani.co.kr/arti/area/jeju/958460.html"
+        "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
+        "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
-        "title": "여의도순복음교회 “19일 추가 3명 확진자, 이미 확진 판정 받은 이들”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014923449&code=61221111&cp=nv"
+        "title": "제주도, 수도권 교회.집회 참석자 진단검사 행정명령 발동",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425225"
     },
     {
         "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",
