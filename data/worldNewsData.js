@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
-        "title": "Blood Plasma Treatment for Covid-19 Now On Hold at FDA",
-        "link": "https://www.msn.com/en-us/health/medical/blood-plasma-treatment-for-covid-19-now-on-hold-at-fda/ar-BB189a0o?li=BBnb7Kz"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "Merkel Warns over Virus Spike",
+        "link": "https://www.youtube.com/watch?v=dJlZz2L3eDM"
+    },
+    {
+        "title": "Coronavirus updates: Pope warns against the rich getting vaccine first; bargoer at Sturgis rally had COVID-19; world cases top 22M",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
     }
 ];

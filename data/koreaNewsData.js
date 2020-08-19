@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
     },
     {
-        "title": "이낙연, 31일 정오까지 자가격리…\"확진자와 밀접접촉\" [종합]",
-        "link": "https://www.hankyung.com/politics/article/2020081950837"
-    },
-    {
         "title": "코로나19 해외유입 확진자 수 예측 기술 나왔다",
         "link": "https://www.ytn.co.kr/_ln/0115_202008192128242677"
+    },
+    {
+        "title": "이낙연, 31일 정오까지 자가격리…\"확진자와 밀접접촉\" [종합]",
+        "link": "https://www.hankyung.com/politics/article/2020081950837"
     },
     {
         "title": "용인 캐리비안베이서 확진자 발생…입장객 900명 환불조치",
