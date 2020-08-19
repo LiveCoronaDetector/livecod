@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Coronavirus vaccine: Australia promises free doses if trial succeeds",
+        "title": "Coronavirus vaccine: Australia secures access to Oxford-AstraZeneca trial",
         "link": "https://www.bbc.com/news/world-australia-53826846"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=YtKe7CXauKg"
     },
     {
-        "title": "Coronavirus live updates: Notre Dame to move classes online for 2 weeks; Yale saliva test may miss some infections",
-        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
+        "title": "Coronavirus live news: global cases pass 22m as Wall Street record defies economic gloom",
+        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
     }
 ];

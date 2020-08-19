@@ -5,20 +5,12 @@ var jejuNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "수도권 코로나 진도대교 건너 시골마을로 퍼져…접촉자 71명(종합)",
-        "link": "http://yna.kr/AKR20200818047051054?did=1195m"
-    },
-    {
-        "title": "전남서 43번째 '코로나19' 확진자 발생…김영록 지사 긴급발표문(전문)",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=581353"
-    },
-    {
         "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
-        "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
+        "title": "여의도순복음교회서 확진자 10명 발생…성가대 의심(종합)",
+        "link": "http://yna.kr/AKR20200817023751004?did=1195m"
     },
     {
         "title": "서울 여의도순복음교회서도 확진자 다수 발생",
@@ -33,11 +25,19 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008171050001&code=940100"
     },
     {
+        "title": "제주도, 김포 확진자 기내 접촉 전남도민 감염소식에 '초긴장'",
+        "link": "http://yna.kr/AKR20200819040200056?did=1195m"
+    },
+    {
         "title": "김포 코로나19 확진자 2박 3일 제주여행",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
     },
     {
         "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
         "link": "https://www.news1.kr/articles/?4029023"
+    },
+    {
+        "title": "‘코로나19 청정지역’ 전남 진도 마을 확진자 1명 발생 ‘비상’",
+        "link": "http://www.hani.co.kr/arti/area/honam/958185.html"
     }
 ];
