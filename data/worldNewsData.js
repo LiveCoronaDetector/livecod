@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
+        "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
     },
     {
         "title": "Covid-19: Live Updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html"
     },
     {
-        "title": "Covid-19: Virologist Urges 'Learn to Live With the Virus'",
-        "link": "https://www.youtube.com/watch?v=IAod1DMK5PA"
+        "title": "WiseTech, CSL rocket ASX to six-month high",
+        "link": "https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fbusiness%2Ftrading-day%2Ftrading-day-asx-to-open-flat-as-wall-street-record-marks-stunning-rebound%2Fnews-story%2Ff294bc712543237768559075f60c6799&memtype=anonymous&mode=premium&nk=23a0e5eaf331d8412879bec4fa7b49be-1597825881"
     },
     {
-        "title": "Global report: Australian PM backtracks on plan to make coronavirus vaccine mandatory",
-        "link": "https://www.theguardian.com/world/2020/aug/19/global-report-australian-pm-plans-to-make-coronavirus-vaccine-mandatory"
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     }
 ];
