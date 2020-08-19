@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
     },
     {
-        "title": "COVID seems to be spreading faster in India than any other nation, but officials claim success",
-        "link": "https://www.cbsnews.com/news/coronavirus-in-india-spreading-fast-but-government-claims-strategy-is-working/"
+        "title": "Coronavirus: How many Covid-19 deaths is India missing?",
+        "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
-        "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
+        "title": "Why U.S. intelligence findings undermines the Trump administration's Beijing-centric coronavirus narrative",
+        "link": "https://news.yahoo.com/why-u-intelligence-findings-undermines-203700371.html"
     },
     {
         "title": "WHO blames COVID-19 spread on young people",
         "link": "https://www.youtube.com/watch?v=juSNQydrTSY"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
-    },
-    {
         "title": "Wuhan pool party sees hundreds packed together in China's former coronavirus epicentre",
         "link": "https://www.youtube.com/watch?v=YtKe7CXauKg"
     },
     {
-        "title": "Germany to extend coronavirus furlough to 24 months",
-        "link": "https://www.theguardian.com/world/2020/aug/18/germany-to-extend-coronavirus-furlough-to-24-months"
+        "title": "Merkel Warns over Virus Spike",
+        "link": "https://www.youtube.com/watch?v=dJlZz2L3eDM"
+    },
+    {
+        "title": "Coronavirus updates: Big changes at NFL games; Florida passes 10,000 deaths; Pope warns against the rich getting vaccine first",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
     }
 ];
