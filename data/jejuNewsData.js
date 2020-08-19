@@ -17,12 +17,8 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008191724381917"
     },
     {
-        "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
-        "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
-    },
-    {
-        "title": "제주도 서울 사랑제일교회·8.15 집회 참석자 코로나 19 검사 행정명령",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200819500197&wlog_tag3=naver"
+        "title": "제주도, 수도권 교회·광화문 집회 참석자 진단검사 행정명령",
+        "link": "http://www.hani.co.kr/arti/area/jeju/958460.html"
     },
     {
         "title": "여의도순복음교회 “19일 추가 3명 확진자, 이미 확진 판정 받은 이들”",
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200819059600054?did=1195m"
     },
     {
-        "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
-    },
-    {
         "title": "광복절 집회 참석자 파악 '한계'…코로나19 유입 우려",
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=149704"
+    },
+    {
+        "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
+        "link": "http://yna.kr/AKR20200819083100056?did=1195m"
+    },
+    {
+        "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
     }
 ];

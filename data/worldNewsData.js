@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Global report: Australian PM backtracks on plan to make coronavirus vaccine mandatory",
-        "link": "https://www.theguardian.com/world/2020/aug/19/global-report-australian-pm-plans-to-make-coronavirus-vaccine-mandatory"
+        "title": "COVID-19: WHO chief Tedros calls for end to 'vaccine nationalism'",
+        "link": "https://www.youtube.com/watch?v=8zVY-r2lCjU"
     },
     {
-        "title": "WHO blames COVID-19 spread on young people",
-        "link": "https://www.youtube.com/watch?v=juSNQydrTSY"
+        "title": "Worldwide coronavirus cases surpass 22 million: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     }
 ];
