@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01334966625868960"
     },
     {
-        "title": "이낙연, 코로나19 검사 '음성'…일정 재개는 미정(종합)",
-        "link": "http://yna.kr/AKR20200819054552001?did=1195m"
-    },
-    {
-        "title": "코로나19 확진자 다녀가 휴장하는 캐리비안 베이",
-        "link": "http://www.kyeonggi.com/news/articleView.html?idxno=2311991"
+        "title": "[속보] 서울시 청사 본관 2층 확진자 발생…전층 폐쇄",
+        "link": "https://news.imaeil.com/Society/2020081916184864674"
     },
     {
         "title": "해외유입 코로나확진자 예측하는 AI 나왔다",
         "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
     },
     {
-        "title": "수도권 코로나19 확산에 전국 689개 학교 등교 불발(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200819500134&wlog_tag3=naver"
+        "title": "코로나19 확진자 다녀간 캐리비안베이 운영 중단",
+        "link": "https://www.sedaily.com/NewsView/1Z6N23Z12S"
     },
     {
-        "title": "[단독]'그놈이 그놈이다’ 조연배우 코로나 확진",
-        "link": "http://www.fnnews.com/news/202008191323146363"
+        "title": "코로나19 전국 확산에 “해수욕장 이용 자제”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
     },
     {
-        "title": "서성종 코로나19 확진→연극 ‘짬뽕&소’ 공연 취소 (전문)",
-        "link": "http://star.mbn.co.kr/view.php?year=2020&no=853365&refer=portal"
+        "title": "신규 확진 297명 6개월 만에 최다…교인 14만명 금란교회도 확진자",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11965370"
     },
     {
-        "title": "서울, 어제 사랑제일교회발(發) 코로나 확진자 84명…누적 375명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/19/2020081902043.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[2보] 이낙연, 코로나19 검사 '음성'…정치권 일단 안도",
+        "link": "http://yna.kr/AKR20200819054551001?did=1195m"
     },
     {
-        "title": "코로나19 확진자 접촉한 SK선수 3명, 음성 판정",
-        "link": "http://www.newsis.com/view/?id=NISX20200819_0001134604&cID=10502&pID=10500"
+        "title": "법원도 뚫렸다.. 서울가정법원서 코로나19 확진자 발생",
+        "link": "http://www.fnnews.com/news/202008191038395215"
     },
     {
-        "title": "서성종, 코로나19 확진…'그놈이 그놈이다'→연극 '짬뽕' 중단 비상 [종합]",
-        "link": "http://stoo.asiae.co.kr/article.php?aid=66839621237"
+        "title": "경남 유치원 원아 형제 포함 4명 코로나19 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200819_0001134753&cID=10812&pID=10800"
+    },
+    {
+        "title": "[여론조사] 코로나19 방역 방해 \"구상권 청구 찬성\" 79.7%",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];

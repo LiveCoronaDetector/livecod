@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Does Israel need a coronavirus lockdown? And if so, when?",
-        "link": "https://www.jpost.com/health-science/does-israel-need-a-coronavirus-lockdown-and-if-so-when-639109"
+        "title": "Coronavirus latest: Greece hopes to have vaccine by December",
+        "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
     },
     {
         "title": "Germany to extend coronavirus furlough to 24 months",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Coronavirus live news: global cases pass 22m as Australia PM says vaccine will be mandatory",
-        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
+        "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
+        "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
         "title": "Demanding Answers: When Will Indoor Dining Be Allowed In NYC?",
         "link": "https://www.youtube.com/watch?v=BJqKu8tF7I4"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html"
+        "title": "Coronavirus live news: global cases pass 22m as Australia PM says vaccine will be mandatory",
+        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
+    },
+    {
+        "title": "WHO blames COVID-19 spread on young people",
+        "link": "https://www.youtube.com/watch?v=juSNQydrTSY"
     },
     {
         "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=cc99c300-e1e9-11ea-bc4c-a344ae6ba9c3&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
-    },
-    {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=01c2ef80-e1ee-11ea-88a8-d501a89a24a8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
     }
 ];
