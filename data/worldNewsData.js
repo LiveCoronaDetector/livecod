@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Chirlane McCray enjoys $2M staff of 14 amid NYC budget crisis",
-        "link": "https://www.foxnews.com/politics/chirlane-mccray-enjoys-2m-staff-of-14-amid-nyc-budget-crisis"
+        "title": "Covid-19: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     }
 ];
