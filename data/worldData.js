@@ -268,9 +268,9 @@ var marker = [
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "확진자수": 83418,
-        "사망자수": 597,
-        "완치자수": 77977
+        "확진자수": 83606,
+        "사망자수": 603,
+        "완치자수": 78188
     },
     {
         "Name": "Panama",
@@ -676,9 +676,9 @@ var marker = [
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "확진자수": 9721,
-        "사망자수": 243,
-        "완치자수": 8882
+        "확진자수": 9741,
+        "사망자수": 246,
+        "완치자수": 8895
     },
     {
         "Name": "말레이시아",
@@ -740,7 +740,7 @@ var marker = [
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "확진자수": 7776,
+        "확진자수": 7805,
         "사망자수": 334,
         "완치자수": 7050
     },
@@ -1254,7 +1254,7 @@ var marker = [
         "Name_en": "Sao Tome and Principe",
         "확진자수": 885,
         "사망자수": 15,
-        "완치자수": 821
+        "완치자수": 826
     },
     {
         "Name": "Guyana",
@@ -1345,20 +1345,20 @@ var marker = [
         "완치자수": 393
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 379,
+        "사망자수": 6,
+        "완치자수": 331
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "확진자수": 377,
         "사망자수": 0,
         "완치자수": 235
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 376,
-        "사망자수": 6,
-        "완치자수": 331
     },
     {
         "Name": "Papua New Guinea",
