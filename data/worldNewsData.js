@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Local Officials in China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find",
-        "link": "https://www.nytimes.com/2020/08/19/world/asia/virus-china-trump.html"
+        "link": "https://www.nytimes.com/2020/08/19/world/asia/china-coronavirus-beijing-trump.html"
     },
     {
         "title": "Spain sets new post-lockdown coronavirus cases record: Live",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/why-u-intelligence-findings-undermines-203700371.html"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
-    },
-    {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
     },
     {
-        "title": "Photos: Wuhan pool parties bring post-coronavirus relief in China",
-        "link": "https://www.boston.com/news/coronavirus/2020/08/19/wuhan-pool-parties-photos"
+        "title": "Covid-19: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+    },
+    {
+        "title": "Coronavirus updates: Big changes at NFL games; Florida passes 10,000 deaths; Pope warns against the rich getting vaccine first",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
     }
 ];
