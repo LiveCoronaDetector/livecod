@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
-        "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
+        "title": "Coronavirus live news: global cases pass 22m as Australia will provide vaccines to 'Pacific family'",
+        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
     },
     {
         "title": "Demanding Answers: When Will Indoor Dining Be Allowed In NYC?",
         "link": "https://www.youtube.com/watch?v=BJqKu8tF7I4"
     },
     {
-        "title": "Coronavirus live news: global cases pass 22m as Australia PM says vaccine will be mandatory",
-        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html"
     },
     {
-        "title": "WHO blames COVID-19 spread on young people",
-        "link": "https://www.youtube.com/watch?v=juSNQydrTSY"
+        "title": "Covid-19: Virologist Urges 'Learn to Live With the Virus'",
+        "link": "https://www.youtube.com/watch?v=IAod1DMK5PA"
     },
     {
-        "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=01c2ef80-e1ee-11ea-88a8-d501a89a24a8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
+        "title": "Global report: Australian PM backtracks on plan to make coronavirus vaccine mandatory",
+        "link": "https://www.theguardian.com/world/2020/aug/19/global-report-australian-pm-plans-to-make-coronavirus-vaccine-mandatory"
     }
 ];
