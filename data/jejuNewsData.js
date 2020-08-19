@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=149704"
     },
     {
-        "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
-        "link": "http://yna.kr/AKR20200819083100056?did=1195m"
+        "title": "충북 코로나19 감염 반등…“빨리 검사 받아야”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520666&ref=A"
     },
     {
-        "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
+        "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
+        "link": "http://yna.kr/AKR20200819083100056?did=1195m"
     }
 ];
