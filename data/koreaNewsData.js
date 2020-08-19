@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190327&t=NN"
     },
     {
-        "title": "[속보] 서울랜드도 코로나19 확진자 방문…임시 휴장 결정",
-        "link": "https://www.hankyung.com/society/article/2020081948207"
-    },
-    {
         "title": "세븐일레븐 본사서 코로나 확진자 4명 발생",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04234486625868960"
+    },
+    {
+        "title": "신규 확진 297명 6개월 만에 최다…교인 14만명 금란교회도 확진자",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11965370"
     },
     {
         "title": "[단독] 철원 신병교육대에서 코로나 '양성' 나와",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/19/2020081903375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 해외유입 확진자 수 예측 기술 나왔다",
-        "link": "https://www.ytn.co.kr/_ln/0115_202008192128242677"
+        "title": "전북 코로나19 확진자 4명 늘어…연휴에 수도권 가족 등 접촉(종합)",
+        "link": "http://yna.kr/AKR20200819060951055?did=1195m"
     },
     {
-        "title": "신규 확진 297명 6개월 만에 최다…교인 14만명 금란교회도 확진자",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11965370"
+        "title": "캐리비안 베이 확진자 나와, 마스크 써도 '이것' 문제…",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/08/19/2020081903497.html"
     }
 ];
