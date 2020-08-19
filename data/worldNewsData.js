@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Coronavirus vaccine: Australia secures access to Oxford-AstraZeneca trial",
-        "link": "https://www.bbc.com/news/world-australia-53826846"
+        "title": "Coronavirus live news: global cases pass 22m as Australia PM says vaccine will be mandatory",
+        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
     },
     {
         "title": "Demanding Answers: When Will Indoor Dining Be Allowed In NYC?",
         "link": "https://www.youtube.com/watch?v=BJqKu8tF7I4"
-    },
-    {
-        "title": "Coronavirus live news: global cases pass 22m as Australia PM says vaccine will be mandatory",
-        "link": "https://www.theguardian.com/world/live/2020/aug/19/coronavirus-live-news-global-cases-near-22m-as-wall-street-record-defies-economic-gloom"
     },
     {
         "title": "Wuhan pool party sees hundreds packed together in China's former coronavirus epicentre",
@@ -38,6 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=658b2fe0-e1cc-11ea-b350-81bafee425c2&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=afbc45a0-e1d0-11ea-b1ea-c10609d7c628&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
+    },
+    {
+        "title": "Coronavirus live updates: Notre Dame to move classes online for 2 weeks; Yale saliva test may miss some infections",
+        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
     }
 ];
