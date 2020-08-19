@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
     },
     {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+        "title": "August 18 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-18-20-intl/index.html"
     },
     {
         "title": "Iran coronavirus death toll passes 20,000: Live updates",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html"
-    },
-    {
         "title": "Covid-19: Live Updates",
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "COVID-19: WHO chief Tedros calls for end to 'vaccine nationalism'",
-        "link": "https://www.youtube.com/watch?v=8zVY-r2lCjU"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Female-led countries handled coronavirus better, study suggests",
-        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+    },
+    {
+        "title": "Merkel Warns over Virus Spike",
+        "link": "https://www.youtube.com/watch?v=dJlZz2L3eDM"
     }
 ];
