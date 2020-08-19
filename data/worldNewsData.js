@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Why U.S. intelligence findings undermines the Trump administration's Beijing-centric coronavirus narrative",
+        "title": "Why U.S. intelligence findings undermine the Trump administration's Beijing-centric coronavirus narrative",
         "link": "https://news.yahoo.com/why-u-intelligence-findings-undermines-203700371.html"
     },
     {
-        "title": "WHO blames COVID-19 spread on young people",
-        "link": "https://www.youtube.com/watch?v=juSNQydrTSY"
+        "title": "COVID-19 vaccines will be allocated in two phases to prevent hoarding: WHO chief",
+        "link": "https://www.youtube.com/watch?v=4BA0ol0Q_fg"
     },
     {
-        "title": "Wuhan pool party sees hundreds packed together in China's former coronavirus epicentre",
-        "link": "https://www.youtube.com/watch?v=YtKe7CXauKg"
+        "title": "Wuhan coronavirus: From silent streets to packed pools",
+        "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-        "title": "Merkel Warns over Virus Spike",
-        "link": "https://www.youtube.com/watch?v=dJlZz2L3eDM"
+        "title": "Germany to extend coronavirus furlough to 24 months",
+        "link": "https://www.theguardian.com/world/2020/aug/18/germany-to-extend-coronavirus-furlough-to-24-months"
     },
     {
         "title": "Coronavirus updates: Big changes at NFL games; Florida passes 10,000 deaths; Pope warns against the rich getting vaccine first",
