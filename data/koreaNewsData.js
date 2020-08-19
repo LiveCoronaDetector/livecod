@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200819003952060?did=1195m"
     },
     {
-        "title": "[속보] 코로나 신규확진 297명···6일간 1288명 발생",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008191022001&code=940601"
+        "title": "이낙연, 코로나19 '음성'…정치권 안도(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5396908"
     },
     {
-        "title": "[속보] 코로나19 신규확진 297명…6일간 1,288명 폭증",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190118&t=NN"
+        "title": "이낙연, 코로나19 '음성' 판정…\"모두를 위해 다행\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200819_0001134224&cID=10301&pID=10300"
     },
     {
-        "title": "이낙연, 코로나19 검사 결과 ‘음성’(상보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02168086625868960"
+        "title": "[속보]사랑제일교회발 서울 코로나19 확진자 84명 증가…누적 375명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008191102001&code=940100"
     },
     {
-        "title": "이낙연 의원, 코로나 검사에서 '음성' 판정",
-        "link": "https://imnews.imbc.com/news/2020/politics/article/5878268_32626.html"
+        "title": "이낙연, 코로나19 진단검사 결과 ‘음성’…최악은 피했다(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200819500047&wlog_tag3=naver"
     },
     {
         "title": "[속보] 코로나19 297명 신규 확진...국내 283명·해외 14명",
         "link": "https://www.sedaily.com/NewsView/1Z6N2B9NJU"
     },
     {
-        "title": "[속보] 코로나19 어제 '297명' 추가…6일간 1288명 늘어",
-        "link": "https://www.hankyung.com/society/article/2020081919747"
+        "title": "광복절집회 투입된 전국 경찰 7600여명 '코로나 전수조사'",
+        "link": "https://www.hankyung.com/society/article/2020081920757"
+    },
+    {
+        "title": "[속보] 코로나19 신규확진 297명…6일간 1,288명 폭증",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190118&t=NN"
+    },
+    {
+        "title": "[속보] 국내 코로나19 확진자 297명 추가…지역발생 283명",
+        "link": "https://www.hankyung.com/society/article/2020081919197"
     },
     {
         "title": "코로나 확진 297명…지역 283명 중 수도권에서 252명(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/19/2020081901310.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] 코로나19 신규 297명 확진…국내 발생 283명 가운데 수도권에서만 252...",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520210&ref=A"
-    },
-    {
-        "title": "[속보]원주서 첫 고등학생 코로나19 확진자 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081800133"
     }
 ];

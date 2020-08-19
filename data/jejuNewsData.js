@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
+        "title": "코로나19 전국 확산에 “해수욕장 이용 자제”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
+    },
+    {
         "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "김포 코로나19 확진자 2박 3일 제주여행",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4518146&ref=A"
-    },
-    {
-        "title": "코로나19 확진자 나온 여의도순복음교회, 2주간 모든 예배 온라인 전환",
-        "link": "https://www.news1.kr/articles/?4029023"
     }
 ];

@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/does-israel-need-a-coronavirus-lockdown-and-if-so-when-639109"
     },
     {
-        "title": "Global report: France tightens mask rules as Covid cases rise in Europe",
-        "link": "https://www.theguardian.com/world/2020/aug/18/global-report-france-tightens-mask-rules-as-covid-cases-rise-europe"
+        "title": "Germany to extend coronavirus furlough to 24 months",
+        "link": "https://www.theguardian.com/world/2020/aug/18/germany-to-extend-coronavirus-furlough-to-24-months"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Wuhan coronavirus: From silent streets to packed pools",
-        "link": "https://www.bbc.com/news/world-asia-china-53816511"
+        "title": "Coronavirus vaccine: Australia secures access to Oxford-AstraZeneca trial",
+        "link": "https://www.bbc.com/news/world-australia-53826846"
     },
     {
         "title": "Demanding Answers: When Will Indoor Dining Be Allowed In NYC?",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=YtKe7CXauKg"
     },
     {
-        "title": "Female-led countries handled coronavirus better, study suggests",
-        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
+        "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=088699e0-e1c4-11ea-a666-1f57558a36bf&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
     }
 ];
