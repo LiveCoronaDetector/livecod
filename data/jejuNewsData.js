@@ -21,8 +21,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/958460.html"
     },
     {
-        "title": "'황금연휴 22만명' 제주 관광객 코로나 이전 넘어섰다",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/18/2020081803205.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "‘청정지역’ 전남 진도서 수도권발 코로나19 확진자 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z6ML5Z9UP"
+    },
+    {
+        "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
+        "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
         "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "충북 코로나19 감염 반등…“빨리 검사 받아야”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4520872&ref=A"
-    },
-    {
-        "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
-        "link": "http://yna.kr/AKR20200819083100056?did=1195m"
     }
 ];
