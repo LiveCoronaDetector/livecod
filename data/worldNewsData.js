@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus latest: Greece hopes to have vaccine by December",
-        "link": "https://www.euronews.com/2020/08/18/coronavirus-latest-greece-hopes-to-have-vaccine-by-december"
+        "title": "Does Israel need a coronavirus lockdown? And if so, when?",
+        "link": "https://www.jpost.com/health-science/does-israel-need-a-coronavirus-lockdown-and-if-so-when-639109"
     },
     {
         "title": "Germany to extend coronavirus furlough to 24 months",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html"
     },
     {
-        "title": "WiseTech, CSL rocket ASX to six-month high",
-        "link": "https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fbusiness%2Ftrading-day%2Ftrading-day-asx-to-open-flat-as-wall-street-record-marks-stunning-rebound%2Fnews-story%2Ff294bc712543237768559075f60c6799&memtype=anonymous&mode=premium&nk=23a0e5eaf331d8412879bec4fa7b49be-1597825881"
+        "title": "Covid-19: Virologist Urges 'Learn to Live With the Virus'",
+        "link": "https://www.youtube.com/watch?v=IAod1DMK5PA"
     },
     {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+        "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=97dd2e70-e1fa-11ea-a872-79e3d8802628&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
     }
 ];

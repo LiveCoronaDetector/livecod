@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
     },
     {
-        "title": "서울시청 2층서 확진자 발생…본관 전체 폐쇄(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5397273"
-    },
-    {
-        "title": "코로나19 전국 확산에 “해수욕장 이용 자제”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
+        "title": "서울시청 본관서 첫 공무원 확진자 발생 … 전층 폐쇄 후 방역(상보)",
+        "link": "https://view.asiae.co.kr/article/2020081916520671615"
     },
     {
         "title": "용인 캐리비안베이서 확진자 발생…입장객 900명 환불조치",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03273446625868960"
+    },
+    {
+        "title": "서울시청 2층서 코로나 확진자 나와… 전층 폐쇄(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/19/2020081903295.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[2보] 이낙연, 코로나19 검사 '음성'…정치권 일단 안도",
@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008190814001&code=940100"
     },
     {
-        "title": "서울시청 본관서 첫 공무원 확진자 발생 … 전층 폐쇄 후 방역(상보)",
-        "link": "https://view.asiae.co.kr/article/2020081916520671615"
-    },
-    {
-        "title": "[속보] 빌 게이츠 \"코로나19, 수백만 더 죽고 내년말 종식\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190338&t=NN"
+        "title": "서울시청 2층서 확진자 발생…본관 전체 폐쇄(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5397273"
     },
     {
         "title": "[단독] 정부 \"코로나 확진자 나와도 반도체·디스플레이 공장은 가동\"",
         "link": "http://www.fnnews.com/news/202008191108041837"
+    },
+    {
+        "title": "코로나19 전국 확산에 “해수욕장 이용 자제”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
     },
     {
         "title": "서성종, 코로나19 확진…'그놈이 그놈이다' 촬영 중단·황정음 대면 인터뷰 취...",

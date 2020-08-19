@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200819059600054?did=1195m"
     },
     {
-        "title": "아이콘루프-제주도, 분산ID 신원인증 시스템 구축 '맞손'",
-        "link": "http://www.inews24.com/view/1291951"
-    },
-    {
         "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
+    },
+    {
+        "title": "코로나 진단검사 결과 나왔습니다",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=466103"
     },
     {
         "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
