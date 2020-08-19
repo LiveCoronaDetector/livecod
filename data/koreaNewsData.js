@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200819003952060?did=1195m"
     },
     {
-        "title": "해외유입 코로나확진자 예측하는 AI 나왔다",
-        "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
-    },
-    {
         "title": "신규 확진 297명 6개월 만에 최다…교인 14만명 금란교회도 확진자",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11965370"
     },
     {
+        "title": "해외유입 코로나확진자 예측하는 AI 나왔다",
+        "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
+    },
+    {
+        "title": "용인 캐리비안베이서 확진자 발생…입장객 900명 환불조치",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03273446625868960"
+    },
+    {
+        "title": "코로나19 전국 확산에 “해수욕장 이용 자제”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
+    },
+    {
         "title": "'그놈이 그놈' 측 \"코로나19 확진자와 동선 겹치는 구성원 자가격리 중\" [공식...",
         "link": "https://hankookilbo.com/News/Read/A2020081913320000915?did=NA"
-    },
-    {
-        "title": "[속보] 서울 사랑제일교회 확진자, 오늘 정오까지 623명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190251&t=NN"
-    },
-    {
-        "title": "해외 유입 코로나 확진자, AI로 예측···KAIST·KT 맞손",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02801126625868960"
     },
     {
         "title": "[단독] 철원 신병교육대에서 코로나 '양성' 나와",

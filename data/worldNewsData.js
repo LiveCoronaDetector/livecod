@@ -34,10 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Merkel Warns Virus Spike Leaves No Room to Ease Restrictions",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=78d297e0-e1e1-11ea-903c-83360faeb7ea&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9284ab70-e1e5-11ea-b8a1-390ebcf6f5dd&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOC9tZXJrZWwtd2FybnMtcGFuZGVtaWMtdGhyZWF0LWxlYXZlcy1uby1yb29tLXRvLWVhc2UtcmVzdHJpY3Rpb25z"
     },
     {
-        "title": "WHO blames COVID-19 spread on young people",
-        "link": "https://www.youtube.com/watch?v=juSNQydrTSY"
+        "title": "COVID-19: WHO chief Tedros calls for end to 'vaccine nationalism'",
+        "link": "https://www.youtube.com/watch?v=8zVY-r2lCjU"
     }
 ];
