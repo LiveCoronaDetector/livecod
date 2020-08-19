@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     },
     {
-        "title": "Italy at a crossroads as fears grow of Covid-19 second wave",
-        "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
+        "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/why-u-intelligence-findings-undermines-203700371.html"
     },
     {
-        "title": "COVID-19 vaccines will be allocated in two phases to prevent hoarding: WHO chief",
-        "link": "https://www.youtube.com/watch?v=4BA0ol0Q_fg"
+        "title": "Covid-19: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Wuhan coronavirus: From silent streets to packed pools",
-        "link": "https://www.bbc.com/news/world-asia-china-53816511"
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Germany to extend coronavirus furlough to 24 months",
-        "link": "https://www.theguardian.com/world/2020/aug/18/germany-to-extend-coronavirus-furlough-to-24-months"
+        "title": "Florida's coronavirus death toll hits 10,000",
+        "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
     },
     {
-        "title": "Coronavirus updates: Big changes at NFL games; Florida passes 10,000 deaths; Pope warns against the rich getting vaccine first",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
+        "title": "Photos: Wuhan pool parties bring post-coronavirus relief in China",
+        "link": "https://www.boston.com/news/coronavirus/2020/08/19/wuhan-pool-parties-photos"
     }
 ];
