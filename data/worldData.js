@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5653509,
-        "사망자수": 174951,
-        "완치자수": 3006590
+        "확진자수": 5655328,
+        "사망자수": 175040,
+        "완치자수": 3010892
     },
     {
         "Name": "브라질",
@@ -21,7 +21,7 @@ var marker = [
         "Name_ch": "印度",
         "Name_en": "India",
         "확진자수": 2766626,
-        "사망자수": 53023,
+        "사망자수": 53014,
         "완치자수": 2036703
     },
     {
@@ -1113,6 +1113,14 @@ var marker = [
         "완치자수": 1243
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 1424,
+        "사망자수": 20,
+        "완치자수": 203
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
@@ -1135,14 +1143,6 @@ var marker = [
         "확진자수": 1351,
         "사망자수": 17,
         "완치자수": 1092
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 1329,
-        "사망자수": 19,
-        "완치자수": 191
     },
     {
         "Name": "라트비아",
@@ -1281,20 +1281,20 @@ var marker = [
         "완치자수": 657
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 629,
+        "사망자수": 12,
+        "완치자수": 140
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 609,
         "사망자수": 47,
         "완치자수": 545
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 600,
-        "사망자수": 12,
-        "완치자수": 140
     },
     {
         "Name": "Guadeloupe",
@@ -1564,7 +1564,7 @@ var marker = [
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
-        "확진자수": 25,
+        "확진자수": 26,
         "사망자수": 0,
         "완치자수": 25
     },

@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/18/latest_news/1597730926_646052.html"
     },
     {
-        "title": "Live Covid-19 Global Cases and Deaths News",
+        "title": "Covid-19: Live Tracker",
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/does-israel-need-a-coronavirus-lockdown-and-if-so-when-639109"
     },
     {
-        "title": "Global report: France tightens mask rules as Covid cases rise in Europe",
-        "link": "https://www.theguardian.com/world/2020/aug/18/global-report-france-tightens-mask-rules-as-covid-cases-rise-europe"
+        "title": "Coronavirus: France to make face masks mandatory in most workplaces",
+        "link": "https://www.bbc.com/news/world-europe-53817383"
     },
     {
         "title": "Coronavirus: How many Covid-19 deaths is India missing?",
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Wuhan coronavirus: From silent streets to packed pools",
-        "link": "https://www.bbc.com/news/world-asia-china-53816511"
+        "title": "Coronavirus vaccine: Australia promises free doses if trial succeeds",
+        "link": "https://www.bbc.com/news/world-australia-53826846"
     },
     {
-        "title": "De Blasio orders NYC travelers to sign quarantine forms to get hotel access or risk fines, civil commitment",
-        "link": "https://www.foxnews.com/politics/nyc-hotels-quarantine-forms-covid-hotspots"
-    },
-    {
-        "title": "Trump calls out New Zealand’s 'terrible' Covid surge, on day it records nine new cases",
-        "link": "https://www.theguardian.com/world/2020/aug/18/trump-calls-out-new-zealands-big-surge-on-day-it-records-nine-covid-cases"
-    },
-    {
-        "title": "Wuhan hosts massive water park party as coronavirus concerns recede",
-        "link": "https://www.cnn.com/2020/08/18/asia/wuhan-water-park-party-intl-hnk/index.html"
+        "title": "Demanding Answers: When Will Indoor Dining Be Allowed In NYC?",
+        "link": "https://www.youtube.com/watch?v=BJqKu8tF7I4"
     },
     {
         "title": "Female-led countries handled coronavirus better, study suggests",
         "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
+    },
+    {
+        "title": "Wuhan pool party sees hundreds packed together in China's former coronavirus epicentre",
+        "link": "https://www.youtube.com/watch?v=YtKe7CXauKg"
+    },
+    {
+        "title": "Coronavirus live updates: Notre Dame to move classes online for 2 weeks; Yale saliva test may miss some infections",
+        "link": "https://www.cnbc.com/2020/08/18/coronavirus-live-updates.html"
     }
 ];
