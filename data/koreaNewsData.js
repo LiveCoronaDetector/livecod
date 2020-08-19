@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03273446625868960"
     },
     {
-        "title": "[속보] 서울시청 2층서 코로나19 확진자 발생…전층 폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190327&t=NN"
-    },
-    {
         "title": "서울랜드 코로나19 확진자 방문…임시 휴장",
         "link": "http://yna.kr/AKR20200819165500061?did=1195m"
+    },
+    {
+        "title": "[속보] 서울시청 2층서 코로나19 확진자 발생…전층 폐쇄",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190327&t=NN"
     },
     {
         "title": "쿠팡, 인천 4 물류센터서 신규 확진자 발생",
