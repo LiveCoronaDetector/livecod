@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202008192128242677"
     },
     {
-        "title": "이낙연, 31일 정오까지 자가격리…\"확진자와 밀접접촉\" [종합]",
-        "link": "https://www.hankyung.com/politics/article/2020081950837"
-    },
-    {
         "title": "용인 캐리비안베이서 확진자 발생…입장객 900명 환불조치",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03273446625868960"
     },
     {
-        "title": "서울랜드 코로나19 확진자 방문…임시 휴장",
-        "link": "http://yna.kr/AKR20200819165500061?did=1195m"
+        "title": "이낙연, 코로나19 확진자 '밀접접촉' 분류…2주간 자가격리",
+        "link": "http://www.newsis.com/view/?id=NISX20200819_0001135281&cID=10301&pID=10300"
+    },
+    {
+        "title": "[속보] 서울랜드도 코로나19 확진자 방문…임시 휴장 결정",
+        "link": "https://www.hankyung.com/society/article/2020081948207"
     },
     {
         "title": "[속보] 서울시청 2층서 코로나19 확진자 발생…전층 폐쇄",

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
     },
     {
-        "title": "CNN Poll: Most Americans embarrassed by US response to coronavirus",
-        "link": "https://www.cnn.com/2020/08/19/politics/cnn-poll-us-coronavirus-response-embarrassed/index.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     },
     {
         "title": "Spain sets new post-lockdown coronavirus cases record: Live",
