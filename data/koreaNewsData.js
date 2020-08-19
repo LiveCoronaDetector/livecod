@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5397273"
     },
     {
-        "title": "캐리비안 베이 확진자 나와, 마스크 써도 '이것' 문제…",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/08/19/2020081903497.html"
-    },
-    {
         "title": "쿠팡, 인천 4 물류센터서 신규 확진자 발생",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04178726625868960"
     },
@@ -21,23 +17,27 @@ var koreaNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11965370"
     },
     {
-        "title": "[단독] 정부 \"코로나 확진자 나와도 반도체·디스플레이 공장은 가동\"",
-        "link": "http://www.fnnews.com/news/202008191108041837"
+        "title": "옥천 초등생 코로나19 확진…경기 거주 고모·부모와 대천 다녀와(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200819_0001135241&cID=10806&pID=10800"
     },
     {
-        "title": "서울시청 2층서 코로나 확진자 나와… 전층 폐쇄(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/19/2020081903295.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 빌 게이츠 \"코로나19, 수백만 더 죽고 내년말 종식\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190338&t=NN"
+    },
+    {
+        "title": "[단독] 철원 신병교육대에서 코로나 '양성' 나와",
+        "link": "http://www.fnnews.com/news/202008191325542444"
+    },
+    {
+        "title": "전북 코로나19 확진자 4명 늘어…연휴에 수도권 가족 등 접촉(종합)",
+        "link": "http://yna.kr/AKR20200819060951055?did=1195m"
     },
     {
         "title": "서울시청 본청에 코로나 확진자, 내일까지 전체 폐쇄",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/19/2020081903375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "세븐일레븐 본사서 코로나 확진자 4명 발생",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04234486625868960"
-    },
-    {
-        "title": "[속보] 빌 게이츠 \"코로나19, 수백만 더 죽고 내년말 종식\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190338&t=NN"
+        "title": "서울시청 2층서 코로나 확진자 나와… 전층 폐쇄(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/19/2020081903295.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
