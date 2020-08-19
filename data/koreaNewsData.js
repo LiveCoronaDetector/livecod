@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020081913320000915?did=NA"
     },
     {
+        "title": "[속보] 서울 사랑제일교회 확진자, 오늘 정오까지 623명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190251&t=NN"
+    },
+    {
+        "title": "해외 유입 코로나 확진자, AI로 예측···KAIST·KT 맞손",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02801126625868960"
+    },
+    {
+        "title": "[단독] 철원 신병교육대에서 코로나 '양성' 나와",
+        "link": "http://www.fnnews.com/news/202008191325542444"
+    },
+    {
         "title": "경찰, 광화문집회 투입 7600여명 ‘코로나19 전수조사’",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008190814001&code=940100"
     },
     {
         "title": "이낙연, 코로나19 '음성'…정치권 안도(종합)",
         "link": "https://www.nocutnews.co.kr/news/5396908"
-    },
-    {
-        "title": "코로나19 전국 확산에 “해수욕장 이용 자제”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
-    },
-    {
-        "title": "이낙연, 코로나19 '음성' 판정…\"모두를 위해 다행\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200819_0001134224&cID=10301&pID=10300"
-    },
-    {
-        "title": "확진자 마이크 쓴 이낙연, 코로나19 검사 결과 ‘음성’",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993382?division=NAVER"
     }
 ];
