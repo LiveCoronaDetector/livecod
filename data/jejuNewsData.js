@@ -21,8 +21,8 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
-        "title": "제주도, 수도권 교회.집회 참석자 진단검사 행정명령 발동",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425225"
+        "title": "제주도 서울 사랑제일교회·8.15 집회 참석자 코로나 19 검사 행정명령",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200819500197&wlog_tag3=naver"
     },
     {
         "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",

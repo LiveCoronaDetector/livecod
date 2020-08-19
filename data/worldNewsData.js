@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
     },
     {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+        "title": "Covid-19: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
         "title": "Iran coronavirus death toll passes 20,000: Live updates",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "Demanding Answers: When Will Indoor Dining Be Allowed In NYC?",
+        "link": "https://www.youtube.com/watch?v=BJqKu8tF7I4"
     },
     {
-        "title": "COVID-19: WHO chief Tedros calls for end to 'vaccine nationalism'",
-        "link": "https://www.youtube.com/watch?v=8zVY-r2lCjU"
+        "title": "COVID-19 vaccines will be allocated in two phases to prevent hoarding: WHO chief",
+        "link": "https://www.youtube.com/watch?v=4BA0ol0Q_fg"
     },
     {
-        "title": "Coronavirus: Ireland at 'tipping point' as Covid-19 cases rise",
-        "link": "https://www.bbc.com/news/world-europe-53826957"
+        "title": "Female-led countries handled coronavirus better, study suggests",
+        "link": "https://www.theguardian.com/world/2020/aug/18/female-led-countries-handled-coronavirus-better-study-jacinda-ardern-angela-merkel"
     }
 ];
