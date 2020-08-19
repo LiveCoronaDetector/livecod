@@ -10,15 +10,15 @@ var worldNewsData = [
     },
     {
         "title": "Spain sets new post-lockdown coronavirus cases record: Live",
-        "link": "https://news.google.com/articles/CAIiEIQCf8tc1KX_uGozi6raERwqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     },
     {
         "title": "Italy at a crossroads as fears grow of Covid-19 second wave",
         "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
     },
     {
-        "title": "Coronavirus: How many Covid-19 deaths is India missing?",
-        "link": "https://www.bbc.com/news/world-asia-india-53773070"
+        "title": "COVID seems to be spreading faster in India than any other nation, but officials claim success",
+        "link": "https://www.cbsnews.com/news/coronavirus-in-india-spreading-fast-but-government-claims-strategy-is-working/"
     },
     {
         "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "Chirlane McCray enjoys $2M staff of 14 amid NYC budget crisis",
+        "link": "https://www.foxnews.com/politics/chirlane-mccray-enjoys-2m-staff-of-14-amid-nyc-budget-crisis"
     }
 ];

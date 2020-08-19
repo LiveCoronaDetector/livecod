@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/19/2020081903375.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[단독] 정부 \"코로나 확진자 나와도 반도체·디스플레이 공장은 가동\"",
-        "link": "http://www.fnnews.com/news/202008191108041837"
-    },
-    {
         "title": "세븐일레븐 본사서 코로나 확진자 4명 발생",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04234486625868960"
+    },
+    {
+        "title": "경찰, 광화문집회 투입 7600여명 ‘코로나19 전수조사’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008190814001&code=940100"
     }
 ];
