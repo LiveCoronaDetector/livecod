@@ -17,20 +17,20 @@ var jejuNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
-        "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
+        "title": "전국 251개 해수욕장 폐장…\"코로나 확산에 방문 자제 부탁\"",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=404359&class=33&grp="
     },
     {
-        "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
+        "title": "여의도순복음교회서 확진자 발생…방역당국 초긴장",
+        "link": "http://www.hani.co.kr/arti/area/capital/958044.html"
     },
     {
         "title": "서울 여의도순복음교회서도 확진자 다수 발생",
         "link": "https://www.sedaily.com/NewsView/1Z6M4OIBY9"
     },
     {
-        "title": "코로나 진단검사 결과 나왔습니다",
-        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=466103"
+        "title": "아이콘루프-제주도, 블록체인 기반 관광방역 나서",
+        "link": "http://www.cctvnews.co.kr/news/articleView.html?idxno=207949"
     },
     {
         "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
