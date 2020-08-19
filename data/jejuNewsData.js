@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/18/2020081803205.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "전국 251개 해수욕장 폐장…\"코로나 확산에 방문 자제 부탁\"",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=404359&class=33&grp="
-    },
-    {
         "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",
         "link": "http://yna.kr/AKR20200819059600054?did=1195m"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나19로 제주 이주열풍 다시?…순유입 증가세",
         "link": "http://yna.kr/AKR20200819083100056?did=1195m"
+    },
+    {
+        "title": "신도수만 56만명, 여의도순복음교회서 확진자 속출",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008170054&t=NN"
     }
 ];
