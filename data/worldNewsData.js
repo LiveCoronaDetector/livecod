@@ -22,7 +22,11 @@ var worldNewsData = [
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
-        "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
+        "link": "https://news.google.com/articles/CAIiEBIGOA_UYJ-83W0FE4CZ2dQqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Italy at a crossroads as fears grow of Covid-19 second wave",
+        "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
     },
     {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Covid-19: Live Updates",
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
-    },
-    {
-        "title": "Global report: South Korea fears fresh nationwide outbreak",
-        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-south-korea-fears-fresh-nationwide-outbreak"
     }
 ];

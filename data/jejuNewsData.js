@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082002901.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주도, 서울 사랑제일교회 교인 1명 추가 확인...총 13명 검사",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425267"
-    },
-    {
         "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
         "link": "http://www.fnnews.com/news/202008201208198929"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "여의도순복음교회 “추가 확진자 없다”",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924152206&code=23111113&cp=nv"
+    },
+    {
+        "title": "제주서도 확진자 나와…서울서 확진 동료 접촉 후 고향 찾아",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082004435.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
