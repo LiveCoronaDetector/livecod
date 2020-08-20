@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53847699"
     },
     {
-        "title": "Live Covid-19 Coverage: Global Updates",
+        "title": "Live Covid-19 Updates",
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     },
     {
-        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
-        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
+        "title": "Endless first wave: how Indonesia failed to control coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
-    },
-    {
-        "title": "School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.",
-        "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
     },
     {
         "title": "China defends Wuhan's massive pool party",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "COVID-19 infections surge again in Europe",
         "link": "https://www.youtube.com/watch?v=d_fsg9uA-xs"
+    },
+    {
+        "title": "At least 15 states reporting Covid cases at colleges and universities",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/h_1a78846f0fc3b30b40da31eeed7d565d"
     }
 ];
