@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
-        "title": "제주도교육청 \"2학기, 학생 수 2/3 이하 등교수업 체제로\"",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325364"
+        "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",
+        "link": "http://yna.kr/AKR20200819059600054?did=1195m"
     }
 ];

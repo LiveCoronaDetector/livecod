@@ -2,23 +2,23 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
+        "link": "https://en.as.com/en/2020/08/20/latest_news/1597907383_419917.html"
     },
     {
         "title": "India reports daily record for coronavirus cases: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/brazil-sees-signs-coronavirus-outbreak-slowing-live-updates-200819233912919.html"
     },
     {
-        "title": "Century-old vaccine limits COVID spread, so bring it back, urge Israeli experts",
-        "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
+        "title": "Spain sets new post-lockdown coronavirus cases record: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     },
     {
         "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
     },
     {
-        "title": "Coronavirus cases in India: Stabilisation in daily count, decline in positivity rate; Here’s what the numbers show",
-        "link": "https://www.financialexpress.com/lifestyle/health/coronavirus-cases-in-india-stabilisation-in-daily-count-decline-in-positivity-rate-heres-what-the-numbers-show/2060409/"
+        "title": "What the Coronavirus Means for Future of India",
+        "link": "https://time.com/5880585/india-coronavirus-impact/"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
