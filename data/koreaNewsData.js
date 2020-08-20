@@ -5,24 +5,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "이재명 회견 \"코로나, 쓰나미급 대충격 올것...최고 수준의 대비\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "코로나19 확진자로 SBS프리즘타워 폐쇄",
         "link": "http://www.journalist.or.kr/news/article.html?no=48096"
     },
     {
-        "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
-        "link": "https://www.hankyung.com/it/article/202008207456g"
-    },
-    {
-        "title": "CBS 이어 SBS 상암 사옥도 확진자 발생···사옥 폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201357001&code=960100"
-    },
-    {
         "title": "“코로나19 재외국민 확진자 577명, 4만7천여 명 귀국”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521596&ref=A"
+    },
+    {
+        "title": "이재명 회견 \"코로나, 쓰나미급 대충격 올것...최고 수준의 대비\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
+        "link": "https://www.hankyung.com/it/article/202008207456g"
     },
     {
         "title": "[속보]강원 코로나 확진자 100명 넘어…원주 사흘새 11명 발생",
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "[영상] 보건소 직원 2명 껴안은 코로나 확진자…이재명 \"범죄행위\"",
         "link": "http://yna.kr/AKR20200820167000704?did=1195m"
+    },
+    {
+        "title": "CBS 이어 SBS 상암 사옥도 확진자 발생···사옥 폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201357001&code=960100"
     },
     {
         "title": "일본 코로나 확진자 6만명 돌파…이틀 연속 1천명 넘게 증가",

@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     },
     {
+        "title": "Endless first wave: how Indonesia failed to control coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
+    },
+    {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
+    },
+    {
+        "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
     },
     {
         "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
         "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "Government spends £56m on consultants to help with coronavirus",
+        "link": "https://www.theguardian.com/world/2020/aug/20/government-spends-56m-on-consultants-to-help-with-coronavirus"
     },
     {
-        "title": "Coronavirus updates: University of North Carolina temporarily suspends fall sports; Pope warns against the rich getting vaccine first",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
-    },
-    {
-        "title": "Wuhan pool party shows China's 'strategic victory' over Covid-19, Beijing says",
-        "link": "https://www.youtube.com/watch?v=MRuCv0yxpaA"
-    },
-    {
-        "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
-        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
+        "title": "As U.S. Schools Move to Reopen Despite Covid-19, Teachers Threaten to Strike",
+        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     }
 ];
