@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4522040&ref=A"
     },
     {
-        "title": "제주도 27번째 환자 발생…'확진' 서울 직장 동료와 접촉",
-        "link": "http://www.fnnews.com/news/202008202143529993"
-    },
-    {
         "title": "제주도, 김포 확진자 기내 접촉 전남도민 감염소식에 '초긴장'",
         "link": "http://yna.kr/AKR20200819040200056?did=1195m"
     },
@@ -37,7 +33,11 @@ var jejuNewsData = [
         "link": "http://www.inews24.com/view/1291971"
     },
     {
-        "title": "제주도교육청, 2/3 등교 밀집도 최소화 확대",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327894"
+        "title": "제주도, 서울 사랑제일교회 관련자 13명 전원 음성",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327913"
+    },
+    {
+        "title": "제주도교육청 \"2학기, 학생 수 2/3 이하 등교수업 체제로\"",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325364"
     }
 ];
