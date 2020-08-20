@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53847699"
     },
     {
-        "title": "New Covid-19 cases are declining across the US, official says, but that could quickly change if people aren't careful",
-        "link": "https://www.cnn.com/2020/08/20/health/us-coronavirus-thursday/index.html"
+        "title": "Live Covid-19 Coverage: Global Updates",
+        "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
         "title": "Spain sets new post-lockdown coronavirus cases record: Live",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     },
     {
-        "title": "Endless first wave: how Indonesia failed to control coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
+        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
+        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
+        "title": "School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.",
+        "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
+    },
+    {
         "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
     },
     {
+        "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
+        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
+    },
+    {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
-    },
-    {
-        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
-        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
-    },
-    {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     }
 ];
