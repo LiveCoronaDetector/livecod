@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
+    },
+    {
         "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
         "link": "http://news.tf.co.kr/read/economy/1807908.htm"
     },
     {
-        "title": "철원·화성 육군 신병교육대서 입영장정 2명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200820050651504?did=1195m"
+        "title": "[속보] SBS 상암 사옥 셧다운…어린이집 교사 코로나 확진",
+        "link": "https://www.hankyung.com/life/article/2020082072207"
     },
     {
         "title": "'장르만 코미디' 관계자 \"출연자 오만석, 확진자 접촉...촬영 중단\"(공식)",
         "link": "https://www.ytn.co.kr/_sn/0117_202008201517260557"
     },
     {
-        "title": "CBS 이어 SBS 상암 사옥도 확진자 발생···사옥 폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201357001&code=960100"
+        "title": "이재명 “코로나 이젠 쓰나미급…치료시설과 의료인 지원 절실”",
+        "link": "http://www.hani.co.kr/arti/area/capital/958567.html"
     },
     {
-        "title": "[단독]CGV용산, 코로나 확진자 또 방문..20일 영업 중단",
-        "link": "http://star.mt.co.kr/stview.php?no=2020082011253843601"
+        "title": "수도권만 226명…일주일간 확진자 1500명 넘어(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02335366625869288"
     },
     {
-        "title": "코로나 신규확진 288명...7일간 1576명 발생·15개 시도로 확산(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082001204.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[종합] 코로나19 확진자 288명 증가...지역 276명 중 서울 135명, 경기 81명",
+        "link": "http://www.fnnews.com/news/202008201028118398"
     },
     {
-        "title": "[속보] 방역당국 “코로나19 확진자 1명, 오늘 입원 대기 중 사망”",
-        "link": "https://www.sedaily.com/NewsView/1Z6NJFM016"
+        "title": "폭증하는 코로나19 확진자, 서울 지역 병상 괜찮나",
+        "link": "https://www.pressian.com/pages/articles/2020082011574538608?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
-    },
-    {
-        "title": "[속보] SBS 상암 사옥 셧다운…어린이집 교사 코로나 확진",
-        "link": "https://www.hankyung.com/life/article/2020082072207"
+        "title": "CBS 정규방송 재개, EBS는 확진자 4명으로 확산",
+        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=208846"
     }
 ];

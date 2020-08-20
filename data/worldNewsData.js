@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.financialexpress.com/lifestyle/health/coronavirus-cases-in-india-stabilisation-in-daily-count-decline-in-positivity-rate-heres-what-the-numbers-show/2060409/"
     },
     {
-        "title": "South Korea's latest church-linked coronavirus outbreak is turning into a battle over religious freedom",
-        "link": "https://www.cnn.com/2020/08/19/asia/south-korea-coronavirus-sarang-jeil-moon-intl-hnk/index.html"
+        "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
+        "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/index.html"
     },
     {
         "title": "Live Covid-19 Updates",
         "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     },
     {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
-    },
-    {
         "title": "Florida's coronavirus death toll hits 10,000",
         "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
     },
     {
-        "title": "Coronavirus vaccine: Australia rules out mandatory immunisations",
-        "link": "https://www.bbc.com/news/world-australia-53840086"
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     }
 ];
