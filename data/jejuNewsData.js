@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
     },
     {
-        "title": "광화문-사랑제일 코로나 열풍인데...제주는 확진자 '제로'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319176"
+        "title": "제주도, 서울 사랑제일교회 교인 1명 추가 확인...총 13명 검사",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425267"
     },
     {
         "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
