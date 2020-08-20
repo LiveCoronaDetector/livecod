@@ -9,12 +9,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008201208198929"
     },
     {
+        "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "전국 251개 해수욕장 폐장…\"코로나 확산에 방문 자제 부탁\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=404359&class=33&grp="
     },
     {
-        "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
+        "title": "집회 참석 확진자 9개 시도에 퍼져…70%가 60대 이상",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11965677"
     },
     {
         "title": "[팩트체크K] “정부, 교회·보수만 골라 검사, 확진자 늘린다”고?",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 서울 사랑제일교회 관련자 13명 전원 음성",
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327913"
-    },
-    {
-        "title": "제주도교육청 \"2학기, 학생 수 2/3 이하 등교수업 체제로\"",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325364"
     }
 ];

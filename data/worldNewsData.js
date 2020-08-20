@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
     },
     {
-        "title": "COVID-19 infections surge again in Europe",
-        "link": "https://www.youtube.com/watch?v=d_fsg9uA-xs"
+        "title": "France: Virus cases spike to 4,700 in a day",
+        "link": "https://www.bbc.com/news/world-europe-53856609"
     },
     {
-        "title": "At least 15 states reporting Covid cases at colleges and universities",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/h_1a78846f0fc3b30b40da31eeed7d565d"
+        "title": "As U.S. Schools Move to Reopen Despite Covid-19, Teachers Threaten to Strike",
+        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     }
 ];
