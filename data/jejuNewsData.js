@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/958460.html"
     },
     {
+        "title": "여의도순복음교회 “추가 확진자 없다”",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924152206&code=23111113&cp=nv"
+    },
+    {
         "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
         "title": "제주도교육청 \"2학기, 학생 수 2/3 이하 등교수업 체제로\"",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325364"
-    },
-    {
-        "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",
-        "link": "http://yna.kr/AKR20200819059600054?did=1195m"
     }
 ];

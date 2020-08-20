@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/brazil-sees-signs-coronavirus-outbreak-slowing-live-updates-200819233912919.html"
     },
     {
-        "title": "Spain sets new post-lockdown coronavirus cases record: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
+        "title": "Century-old vaccine limits COVID spread, so bring it back, urge Israeli experts",
+        "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
     },
     {
         "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/index.html"
     },
     {
-        "title": "Live Covid-19 Updates",
+        "title": "As U.S. Schools Move to Reopen Despite Covid-19, Teachers Threaten to Strike",
         "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     },
     {
