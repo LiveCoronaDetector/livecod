@@ -13,8 +13,12 @@ var jejuNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "'관광객 코로나 걱정' 제주도, 블록체인에 방문 기록 남긴다",
-        "link": "http://www.fnnews.com/news/202008191724381917"
+        "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
+        "link": "http://www.fnnews.com/news/202008201208198929"
+    },
+    {
+        "title": "아이콘루프-제주도, 코로나 방문인증에 블록체인 DID 적용한다",
+        "link": "http://www.inews24.com/view/1291971"
     },
     {
         "title": "제주도, 수도권 교회·광화문 집회 참석자 진단검사 행정명령",
@@ -23,10 +27,6 @@ var jejuNewsData = [
     {
         "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
-    },
-    {
-        "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
-        "link": "http://www.fnnews.com/news/202008201208198929"
     },
     {
         "title": "여의도순복음교회 “19일 추가 3명 확진자, 이미 확진 판정 받은 이들”",

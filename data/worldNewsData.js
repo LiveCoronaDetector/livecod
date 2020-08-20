@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/20/coronavirus-live-news-france-italy-spain-hit-record-post-lockdown-cases"
     },
     {
-        "title": "Where Pseudoscience Is Spreading",
-        "link": "https://www.theatlantic.com/international/archive/2020/08/amitabh-bachchan-india-coronavirus/615310/"
+        "title": "Endless first wave: how Indonesia failed to control coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
     },
     {
-        "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
-        "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
+        "title": "South Korea's latest church-linked coronavirus outbreak is turning into a battle over religious freedom",
+        "link": "https://www.cnn.com/2020/08/19/asia/south-korea-coronavirus-sarang-jeil-moon-intl-hnk/index.html"
     },
     {
-        "title": "Allegheny County reports just 27 new coronavirus cases",
-        "link": "https://triblive.com/local/pittsburgh-allegheny/allegheny-county-reports-just-27-new-coronavirus-cases/"
+        "title": "Iowa surpasses 1,000 coronavirus deaths",
+        "link": "https://www.kcci.com/article/iowa-department-of-public-health-august-19-coronavirus-update/33645356"
     },
     {
         "title": "Live Covid-19 Updates",
