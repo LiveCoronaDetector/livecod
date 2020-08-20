@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "코로나19 확진자로 SBS프리즘타워 폐쇄",
+        "link": "http://www.journalist.or.kr/news/article.html?no=48096"
+    },
+    {
         "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
         "link": "https://www.hankyung.com/it/article/202008207456g"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900152"
     },
     {
-        "title": "사랑제일교회 누적 676명…광화문집회 관련 확진자 총 18명(종합)",
-        "link": "http://yna.kr/AKR20200820113351530?did=1195m"
-    },
-    {
         "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
     },
     {
-        "title": "[단독]인천공항서 두번째 코로나 확진자…\"역학조사 중\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001135810&cID=10802&pID=14000"
+        "title": "[영상] 보건소 직원 2명 껴안은 코로나 확진자…이재명 \"범죄행위\"",
+        "link": "http://yna.kr/AKR20200820167000704?did=1195m"
     },
     {
-        "title": "CBS 정규방송 재개, EBS는 확진자 4명으로 확산",
-        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=208846"
+        "title": "[단독]인천공항서 두번째 코로나 확진자…\"역학조사 중\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200820_0001135810&cID=10802&pID=14000"
     }
 ];

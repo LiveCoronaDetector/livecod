@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/20/latest_news/1597907383_419917.html"
     },
     {
-        "title": "Germany reports highest daily coronavirus cases since April: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/brazil-sees-signs-coronavirus-outbreak-slowing-live-updates-200819233912919.html"
+        "title": "New Covid-19 cases are declining across the US, official says, but that could quickly change if people aren't careful",
+        "link": "https://www.cnn.com/2020/08/20/health/us-coronavirus-thursday/index.html"
     },
     {
         "title": "Spain sets new post-lockdown coronavirus cases record: Live",
