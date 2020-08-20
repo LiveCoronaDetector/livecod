@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
+        "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
+        "link": "http://www.fnnews.com/news/202008201208198929"
+    },
+    {
         "title": "여의도순복음교회 “19일 추가 3명 확진자, 이미 확진 판정 받은 이들”",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014923449&code=61221111&cp=nv"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "광복절 집회 참석자 파악 '한계'…코로나19 유입 우려",
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=149704"
-    },
-    {
-        "title": "충북 코로나19 감염 반등…“빨리 검사 받아야”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520872&ref=A"
     }
 ];

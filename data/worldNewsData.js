@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
-        "title": "U.S. Infections Rise 0.8%; Europe Cases Flare Up: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=97d8be30-e295-11ea-94fa-a399d9791bdd&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOS91LXMtaW5mZWN0aW9ucy1yaXNlLTAtOC1ldXJvcGUtY2FzZXMtZmxhcmUtdXAtdmlydXMtdXBkYXRl"
+        "title": "Allegheny County reports just 27 new coronavirus cases",
+        "link": "https://triblive.com/local/pittsburgh-allegheny/allegheny-county-reports-just-27-new-coronavirus-cases/"
+    },
+    {
+        "title": "Live Covid-19 Updates",
+        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     },
     {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Wuhan coronavirus: From silent streets to packed pools",
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
-    },
-    {
-        "title": "Coronavirus updates: University of North Carolina temporarily suspends fall sports; Pope warns against the rich getting vaccine first",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
     }
 ];

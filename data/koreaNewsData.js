@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/economy/1807908.htm"
     },
     {
+        "title": "수도권만 226명…일주일간 확진자 1500명 넘어(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02335366625869288"
+    },
+    {
+        "title": "전광훈 \"코로나 확진자 증가는 검사 많이 한 정부 탓\"",
+        "link": "http://news.tf.co.kr/read/life/1807918.htm"
+    },
+    {
         "title": "[종합] 코로나19 확진자 288명 증가...지역 276명 중 서울 135명, 경기 81명",
         "link": "http://www.fnnews.com/news/202008201028118398"
     },
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200820050651504?did=1195m"
     },
     {
-        "title": "[종합] 코로나 288명 신규확진…지역발생 276명·1주일간 1576명",
-        "link": "https://www.hankyung.com/life/article/2020082063117"
-    },
-    {
-        "title": "수도권만 226명…일주일간 확진자 1500명 넘어(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02335366625869288"
-    },
-    {
-        "title": "[속보]성북구 체대입시학원 확진자 19명···11개 고교 학생",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201150001&code=940100"
-    },
-    {
         "title": "광화문 집회 확진자 53명…사랑제일교회 무관 '깜깜이' 감염 20명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200820_0001136003&cID=10201&pID=10200"
+    },
+    {
+        "title": "이재명 회견 \"코로나, 쓰나미급 대충격 올것...최고 수준의 대비\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "폭증하는 코로나19 확진자, 서울 지역 병상 괜찮나",
         "link": "https://www.pressian.com/pages/articles/2020082011574538608?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "\"전국 대유행 일촉즉발 상황...광화문집회 확진자 53명 확인\"(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082001674.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규 확진자 288명…일주일째 세자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201012001&code=940601"
     }
 ];
