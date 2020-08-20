@@ -13,16 +13,8 @@ var koreaNewsData = [
         "link": "http://www.journalist.or.kr/news/article.html?no=48096"
     },
     {
-        "title": "화천에서 코로나19 확진자 첫 발생, 강원 103명째(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001136762&cID=10805&pID=10800"
-    },
-    {
         "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
         "link": "https://www.hankyung.com/it/article/202008207456g"
-    },
-    {
-        "title": "사랑제일교회 누적 676명…광화문집회 관련 확진자 총 18명(종합)",
-        "link": "http://yna.kr/AKR20200820113351530?did=1195m"
     },
     {
         "title": "CBS 이어 SBS 상암 사옥도 확진자 발생···사옥 폐쇄",
@@ -33,11 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521596&ref=A"
     },
     {
+        "title": "사랑제일교회 누적 676명…광화문집회 관련 확진자 총 18명(종합)",
+        "link": "http://yna.kr/AKR20200820113351530?did=1195m"
+    },
+    {
         "title": "[속보]강원 코로나 확진자 100명 넘어…원주 사흘새 11명 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900152"
     },
     {
         "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
+    },
+    {
+        "title": "[단독]인천공항서 두번째 코로나 확진자…\"역학조사 중\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200820_0001135810&cID=10802&pID=14000"
     }
 ];

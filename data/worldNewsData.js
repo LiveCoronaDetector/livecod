@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     },
     {
-        "title": "Endless first wave: How Indonesia failed to control coronavirus",
-        "link": "https://www.aljazeera.com/news/2020/08/endless-wave-indonesia-failed-control-coronavirus-200820020259736.html"
+        "title": "Endless first wave: how Indonesia failed to control coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
     },
     {
-        "title": "Florida's coronavirus death toll hits 10,000",
-        "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
-    },
-    {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+        "title": "COVID-19 infections surge again in Europe",
+        "link": "https://www.youtube.com/watch?v=d_fsg9uA-xs"
     },
     {
         "title": "Government spends £56m on consultants to help with coronavirus",
         "link": "https://www.theguardian.com/world/2020/aug/20/government-spends-56m-on-consultants-to-help-with-coronavirus"
+    },
+    {
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     }
 ];

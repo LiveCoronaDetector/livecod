@@ -9,8 +9,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008201208198929"
     },
     {
-        "title": "코로나19 전국 확산에 “해수욕장 이용 자제”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
+        "title": "전국 251개 해수욕장 폐장…\"코로나 확산에 방문 자제 부탁\"",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=404359&class=33&grp="
+    },
+    {
+        "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
     },
     {
         "title": "제주도, 김포 확진자 기내 접촉 전남도민 감염소식에 '초긴장'",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도교육청 \"2학기, 학생 수 2/3 이하 등교수업 체제로\"",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325364"
-    },
-    {
-        "title": "여의도순복음교회 목사 코로나 확진…김포 거주 40대男",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082002901.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
