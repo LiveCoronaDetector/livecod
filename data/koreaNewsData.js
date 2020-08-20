@@ -9,16 +9,12 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900152"
     },
     {
-        "title": "김원해·허동원·서성종 코로나19 확진 연극 '짬뽕' 측 \"15명 확진\"[전문]",
-        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23853058"
+        "title": "화천에서 코로나19 확진자 첫 발생, 강원 103명째(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200820_0001136762&cID=10805&pID=10800"
     },
     {
         "title": "이재명 회견 \"코로나, 쓰나미급 대충격 올것...최고 수준의 대비\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "코로나19 확진자로 SBS프리즘타워 폐쇄",
-        "link": "http://www.journalist.or.kr/news/article.html?no=48096"
     },
     {
         "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008201351478030"
     },
     {
-        "title": "[단독]인천공항서 두번째 코로나 확진자…\"역학조사 중\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001135810&cID=10802&pID=14000"
+        "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
+        "link": "http://news.tf.co.kr/read/economy/1807908.htm"
+    },
+    {
+        "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
     }
 ];

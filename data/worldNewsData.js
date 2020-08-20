@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
     },
     {
-        "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
+        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
+        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     },
     {
-        "title": "What the Coronavirus Means for Future of India",
-        "link": "https://time.com/5880585/india-coronavirus-impact/"
+        "title": "Endless first wave: how Indonesia failed to control coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Italy at a crossroads as fears grow of Covid-19 second wave",
-        "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
+        "title": "Florida's coronavirus death toll hits 10,000",
+        "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "Coronavirus updates: University of North Carolina temporarily suspends fall sports; Pope warns against the rich getting vaccine first",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
     }
 ];
