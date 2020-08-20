@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5702837,
-        "사망자수": 176396,
-        "완치자수": 3063383
+        "확진자수": 5703617,
+        "사망자수": 176407,
+        "완치자수": 3063410
     },
     {
         "Name": "브라질",
@@ -101,8 +101,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Argentina",
         "확진자수": 312659,
-        "사망자수": 6330,
-        "완치자수": 228725
+        "사망자수": 6406,
+        "완치자수": 233651
     },
     {
         "Name": "사우디아라비아",
@@ -484,8 +484,8 @@ var marker = [
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "확진자수": 31415,
-        "사망자수": 914,
+        "확진자수": 31937,
+        "사망자수": 921,
         "완치자수": 21885
     },
     {
@@ -724,9 +724,9 @@ var marker = [
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "확진자수": 8166,
-        "사망자수": 65,
-        "완치자수": 6971
+        "확진자수": 8203,
+        "사망자수": 66,
+        "완치자수": 7006
     },
     {
         "Name": "Haiti",
@@ -1265,6 +1265,14 @@ var marker = [
         "완치자수": 381
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 730,
+        "사망자수": 12,
+        "완치자수": 140
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "日本 邮轮",
         "Name_en": "Diamond Princess",
@@ -1279,14 +1287,6 @@ var marker = [
         "확진자수": 704,
         "사망자수": 42,
         "완치자수": 657
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 686,
-        "사망자수": 12,
-        "완치자수": 140
     },
     {
         "Name": "Channel Islands",
@@ -1356,9 +1356,9 @@ var marker = [
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "확진자수": 382,
+        "확진자수": 383,
         "사망자수": 0,
-        "완치자수": 256
+        "완치자수": 274
     },
     {
         "Name": "Papua New Guinea",

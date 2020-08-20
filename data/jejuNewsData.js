@@ -5,14 +5,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     },
     {
-        "title": "제주도 코로나19 27번째 확진자 발생…가족 관광객",
-        "link": "http://www.fnnews.com/news/202008202143529993"
-    },
-    {
-        "title": "여의도순복음교회 목사 코로나 확진…김포 거주 40대男",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082002901.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
         "link": "http://www.fnnews.com/news/202008201208198929"
     },
@@ -37,7 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924152206&code=23111113&cp=nv"
     },
     {
-        "title": "제주서도 확진자 나와…서울서 확진 동료 접촉 후 고향 찾아",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082004435.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "제주도, 서울 사랑제일교회 관련자 13명 전원 음성",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327913"
+    },
+    {
+        "title": "제주도교육청 \"2학기, 학생 수 2/3 이하 등교수업 체제로\"",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325364"
+    },
+    {
+        "title": "여의도순복음교회 목사 코로나 확진…김포 거주 40대男",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082002901.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
