@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
     },
     {
-        "title": "CNN Poll: Most Americans embarrassed by US response to coronavirus",
-        "link": "https://www.cnn.com/2020/08/19/politics/cnn-poll-us-coronavirus-response-embarrassed/index.html"
+        "title": "Brazil sees signs coronavirus outbreak slowing: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/brazil-sees-signs-coronavirus-outbreak-slowing-live-updates-200819233912919.html"
     },
     {
         "title": "Spain sets new post-lockdown coronavirus cases record: Live",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
-        "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
+        "title": "U.S. Infections Rise 0.8%; Europe Cases Flare Up: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=97d8be30-e295-11ea-94fa-a399d9791bdd&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0xOS91LXMtaW5mZWN0aW9ucy1yaXNlLTAtOC1ldXJvcGUtY2FzZXMtZmxhcmUtdXAtdmlydXMtdXBkYXRl"
     },
     {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Italy at a crossroads as fears grow of Covid-19 second wave",
-        "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
+        "title": "Wuhan coronavirus: From silent streets to packed pools",
+        "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
+        "title": "Coronavirus updates: University of North Carolina temporarily suspends fall sports; Pope warns against the rich getting vaccine first",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
     }
 ];
