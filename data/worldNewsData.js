@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
     },
     {
-        "title": "Local Officials in China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find",
-        "link": "https://www.nytimes.com/2020/08/19/world/asia/china-coronavirus-beijing-trump.html"
+        "title": "Covid-19 Live Updates: Opening of U.S. Education System Brings Strike Threats, New Cases and Improvisation",
+        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     },
     {
         "title": "Spain sets new post-lockdown coronavirus cases record: Live",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
-        "title": "Why U.S. intelligence findings undermine the Trump administration's Beijing-centric coronavirus narrative",
-        "link": "https://news.yahoo.com/why-u-intelligence-findings-undermines-203700371.html"
+        "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
+        "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus updates: Big changes at NFL games; Florida passes 10,000 deaths; Pope warns against the rich getting vaccine first",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
+        "title": "Wuhan coronavirus: From silent streets to packed pools",
+        "link": "https://www.bbc.com/news/world-asia-china-53816511"
     }
 ];
