@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
     },
     {
-        "title": "Local Officials in China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find",
-        "link": "https://www.nytimes.com/2020/08/19/world/asia/china-coronavirus-beijing-trump.html"
+        "title": "CNN Poll: Most Americans embarrassed by US response to coronavirus",
+        "link": "https://www.cnn.com/2020/08/19/politics/cnn-poll-us-coronavirus-response-embarrassed/index.html"
     },
     {
         "title": "Spain sets new post-lockdown coronavirus cases record: Live",
@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
     },
     {
-        "title": "Coronavirus: How many Covid-19 deaths is India missing?",
-        "link": "https://www.bbc.com/news/world-asia-india-53773070"
+        "title": "Where Pseudoscience Is Spreading",
+        "link": "https://www.theatlantic.com/international/archive/2020/08/amitabh-bachchan-india-coronavirus/615310/"
     },
     {
         "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
         "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
-        "title": "Florida's coronavirus death toll hits 10,000",
-        "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
+        "title": "Coronavirus live news: France, Italy, Spain hit record post-lockdown cases",
+        "link": "https://www.theguardian.com/world/live/2020/aug/20/coronavirus-live-news-france-italy-spain-hit-record-post-lockdown-cases"
     },
     {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-        "title": "Coronavirus vaccine: Australia rules out mandatory immunisations",
-        "link": "https://www.bbc.com/news/world-australia-53840086"
+        "title": "Coronavirus updates: Big changes at NFL games; Florida passes 10,000 deaths; Pope warns against the rich getting vaccine first",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
     }
 ];

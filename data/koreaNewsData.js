@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "전광훈 \"정부가 무한대로 검사 강요해 확진자수 늘려\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082000912.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "[속보] 코로나19 신규 확진자 288명…지역발생 276명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201012001&code=940601"
     },
     {
-        "title": "[속보]옥천 초등생 확진자 접촉한 부모·고모 3명 양성",
-        "link": "https://www.news1.kr/articles/?4031379"
+        "title": "[속보] 코로나19 신규 확진 288명...지역발생 276명",
+        "link": "https://hankookilbo.com/News/Read/A2020082010030004301?did=NA"
     },
     {
         "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
         "link": "http://news.tf.co.kr/read/economy/1807908.htm"
     },
     {
+        "title": "[속보] 코로나19 신규 확진 288명…서울·경기만 216명",
+        "link": "http://www.hani.co.kr/arti/society/health/958537.html"
+    },
+    {
+        "title": "[속보]원주 코로나 33번째 확진자 발생…31번 확진판정 고교생 아버지",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900138"
+    },
+    {
+        "title": "[속보]'코로나19' 확진자 288명 추가…3일 연속 200명대",
+        "link": "https://www.news1.kr/articles/?4031609"
+    },
+    {
         "title": "해외유입 코로나확진자 예측하는 AI 나왔다",
         "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
     },
     {
-        "title": "이낙연, 코로나19 확진자 '밀접접촉' 분류…2주간 자가격리",
-        "link": "http://www.newsis.com/view/?id=NISX20200819_0001135281&cID=10301&pID=10300"
+        "title": "인천서 해외입국자 등 6명 코로나19 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200820022551065?did=1195m"
     },
     {
-        "title": "[속보] 서울시청 2층서 코로나19 확진자 발생…전층 폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008190327&t=NN"
-    },
-    {
-        "title": "쿠팡, 인천 4 물류센터서 신규 확진자 발생",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04178726625868960"
-    },
-    {
-        "title": "쿠팡 인천 4 물류센터에서 코로나 확진자 나와",
-        "link": "http://www.fnnews.com/news/202008191818414372"
-    },
-    {
-        "title": "코로나19 해외유입 확진자 수 예측 기술 나왔다",
-        "link": "https://www.ytn.co.kr/_ln/0115_202008192128242677"
+        "title": "[속보] 코로나19 어제 288명 신규 확진…지역 발생 276명·1주일간 1천576명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005939045&plink=ORI&cooper=NAVER"
     }
 ];
