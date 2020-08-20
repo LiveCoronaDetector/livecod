@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "As U.S. Schools Move to Reopen Despite Covid-19, Teachers Threaten to Strike",
-        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
+        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
+        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
+    },
+    {
+        "title": "Florida's coronavirus death toll hits 10,000",
+        "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
     },
     {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
-        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
-    },
-    {
-        "title": "Germany to extend coronavirus furlough to 24 months",
-        "link": "https://www.theguardian.com/world/2020/aug/18/germany-to-extend-coronavirus-furlough-to-24-months"
+        "title": "Government spends £56m on consultants to help with coronavirus",
+        "link": "https://www.theguardian.com/world/2020/aug/20/government-spends-56m-on-consultants-to-help-with-coronavirus"
     }
 ];
