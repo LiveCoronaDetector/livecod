@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200820167000704?did=1195m"
     },
     {
-        "title": "[단독]인천공항서 두번째 코로나 확진자…\"역학조사 중\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001135810&cID=10802&pID=14000"
+        "title": "일본 코로나 확진자 6만명 돌파…이틀 연속 1천명 넘게 증가",
+        "link": "http://yna.kr/AKR20200820184500073?did=1195m"
     }
 ];
