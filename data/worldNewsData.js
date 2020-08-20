@@ -5,24 +5,32 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/20/latest_news/1597907383_419917.html"
     },
     {
-        "title": "Local Officials in China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find",
-        "link": "https://www.nytimes.com/2020/08/19/world/asia/china-coronavirus-beijing-trump.html"
+        "title": "Germany reports highest daily coronavirus cases since April: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/brazil-sees-signs-coronavirus-outbreak-slowing-live-updates-200819233912919.html"
     },
     {
-        "title": "Century-old vaccine limits COVID spread, so bring it back, urge Israeli experts",
-        "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
+        "title": "Spain sets new post-lockdown coronavirus cases record: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     },
     {
-        "title": "Endless first wave: how Indonesia failed to control coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
+        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
+        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
+    },
+    {
+        "title": "Coronavirus latest: India's record daily infection count is highest globally",
+        "link": "https://www.ft.com/content/64640980-f948-3079-960d-dc050e5423a9"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/index.html"
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+    },
+    {
+        "title": "Coronavirus updates: University of North Carolina temporarily suspends fall sports; Pope warns against the rich getting vaccine first",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
     },
     {
         "title": "Covid-19: Live Updates",
@@ -31,13 +39,5 @@ var worldNewsData = [
     {
         "title": "Global report: South Korea fears fresh nationwide outbreak",
         "link": "https://www.theguardian.com/world/2020/aug/20/global-report-south-korea-fears-fresh-nationwide-outbreak"
-    },
-    {
-        "title": "Endless first wave: How Indonesia failed to control coronavirus",
-        "link": "https://www.aljazeera.com/news/2020/08/endless-wave-indonesia-failed-control-coronavirus-200820020259736.html"
-    },
-    {
-        "title": "August 17 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
     }
 ];
