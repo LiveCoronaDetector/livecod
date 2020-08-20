@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
-    },
-    {
         "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
         "link": "http://news.tf.co.kr/read/economy/1807908.htm"
     },
     {
-        "title": "수도권만 226명…일주일간 확진자 1500명 넘어(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02335366625869288"
+        "title": "SBS 상암 사옥 코로나19 확진자 발생 \"건물 폐쇄·방송 영향 無\"(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202008201345571605"
+    },
+    {
+        "title": "[속보] 방역당국 \"코로나 확진자 1명, 오늘 입원 대기 중 사망\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082002351.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "광화문 집회 확진자 53명…사랑제일교회 무관 '깜깜이' 감염 20명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200820_0001136003&cID=10201&pID=10200"
     },
     {
-        "title": "[종합] 코로나19 확진자 288명 증가...지역 276명 중 서울 135명, 경기 81명",
-        "link": "http://www.fnnews.com/news/202008201028118398"
+        "title": "[단독]CGV용산, 코로나 확진자 또 방문..20일 영업 중단",
+        "link": "http://star.mt.co.kr/stview.php?no=2020082011253843601"
     },
     {
-        "title": "[속보] SBS 상암 사옥 셧다운…어린이집 교사 코로나 확진",
-        "link": "https://www.hankyung.com/life/article/2020082072207"
+        "title": "순천서 서울 다녀온 70대 코로나19 확진...순천 누적확진자 5명",
+        "link": "http://www.fnnews.com/news/202008201025397079"
     },
     {
-        "title": "철원·화성 육군 신병교육대서 입영장정 2명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200820050651504?did=1195m"
+        "title": "수도권만 226명…일주일간 확진자 1500명 넘어(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02335366625869288"
     },
     {
-        "title": "이재명 \"쓰나미급 대충격…코로나19 최고 대비태세 필요\"(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5397757"
+        "title": "폭증하는 코로나19 확진자, 서울 지역 병상 괜찮나",
+        "link": "https://www.pressian.com/pages/articles/2020082011574538608?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보]광화문 집회 참가 김진태 전 의원, 코로나19 '음성'",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900143"
+        "title": "CBS 정규방송 재개, EBS는 확진자 4명으로 확산",
+        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=208846"
     }
 ];
