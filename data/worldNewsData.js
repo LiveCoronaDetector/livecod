@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.theatlantic.com/international/archive/2020/08/amitabh-bachchan-india-coronavirus/615310/"
     },
     {
-        "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
-        "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
+        "title": "Local Officials in China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find",
+        "link": "https://www.nytimes.com/2020/08/19/world/asia/china-coronavirus-beijing-trump.html"
+    },
+    {
+        "title": "Live Covid-19 Updates",
+        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     },
     {
         "title": "Coronavirus live news: France, Italy, Spain hit record post-lockdown cases",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
-    },
-    {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
         "title": "Wuhan coronavirus: From silent streets to packed pools",

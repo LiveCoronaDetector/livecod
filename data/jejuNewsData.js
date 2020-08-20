@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/958460.html"
     },
     {
-        "title": "‘청정지역’ 전남 진도서 수도권발 코로나19 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z6ML5Z9UP"
-    },
-    {
         "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
+    },
+    {
+        "title": "여의도순복음교회 “19일 추가 3명 확진자, 이미 확진 판정 받은 이들”",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014923449&code=61221111&cp=nv"
     },
     {
         "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",

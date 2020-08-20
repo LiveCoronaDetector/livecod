@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/economy/1807908.htm"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 288명…지역발생 276명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201012001&code=940601"
+        "title": "[종합] 코로나 288명 신규확진…지역발생 276명·1주일간 1576명",
+        "link": "https://www.hankyung.com/life/article/2020082063117"
     },
     {
-        "title": "수도권만 226명…일주일간 확진자 1500명 넘어(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02335366625869288"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 288명…일주일새 1,576명 폭증",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200130&t=NN"
-    },
-    {
-        "title": "[속보]코로나 어제 288명 신규확진…지역발생 276명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000216287"
+        "title": "전광훈 \"정부가 무한대로 검사 강요해 확진자수 늘려\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082000912.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[종합] 코로나19 확진자 288명 증가...지역 276명 중 서울 135명, 경기 81명",
         "link": "http://www.fnnews.com/news/202008201028118398"
     },
     {
+        "title": "수도권만 226명…일주일간 확진자 1500명 넘어(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02335366625869288"
+    },
+    {
+        "title": "[속보]사랑제일교회 관련 확진자 630명...양성률 19.3%",
+        "link": "https://www.sedaily.com/NewsView/1Z6NI3MUZ5"
+    },
+    {
         "title": "인천서 해외입국자 등 6명 코로나19 추가 확진(종합)",
         "link": "http://yna.kr/AKR20200820022551065?did=1195m"
     },
     {
-        "title": "[단독]사랑제일교회 확진자 도주, 또 있었다…남양주→강남 이동",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001135609&cID=10201&pID=10200"
+        "title": "[속보]광화문 집회 참가 김진태 전 의원, 코로나19 '음성'",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900143"
     },
     {
-        "title": "코로나19 어제 288명 신규 확진…일주일간 1576명",
-        "link": "http://www.etnews.com/20200820000070"
+        "title": "코로나 어제 288명 신규확진…지역발생 276명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000216287"
     }
 ];
