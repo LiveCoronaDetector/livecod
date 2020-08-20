@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
     },
     {
-        "title": "제주도, 서울 사랑제일교회 교인 1명 추가 확인...총 13명 검사",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425267"
-    },
-    {
         "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
         "link": "http://www.fnnews.com/news/202008201208198929"
     },
@@ -23,6 +19,10 @@ var jejuNewsData = [
     {
         "title": "아이콘루프-제주도, 코로나 방문인증에 블록체인 DID 적용한다",
         "link": "http://www.inews24.com/view/1291971"
+    },
+    {
+        "title": "제주도교육청, 2/3 등교 밀집도 최소화 확대",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327894"
     },
     {
         "title": "여의도순복음교회 목사 코로나 확진…김포 거주 40대男",
