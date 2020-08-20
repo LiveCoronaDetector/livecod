@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924152206&code=23111113&cp=nv"
     },
     {
-        "title": "제주도, 서울 사랑제일교회 관련자 13명 전원 음성",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327913"
-    },
-    {
-        "title": "제주도교육청 \"2학기, 학생 수 2/3 이하 등교수업 체제로\"",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325364"
-    },
-    {
         "title": "여의도순복음교회 목사 코로나 확진…김포 거주 40대男",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082002901.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "제주도, 수도권 교회·광화문 집회 참석자 진단검사 행정명령",
+        "link": "http://www.hani.co.kr/arti/area/jeju/958460.html"
+    },
+    {
+        "title": "제주도, 서울 사랑제일교회 관련자 13명 전원 음성",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327913"
     }
 ];
