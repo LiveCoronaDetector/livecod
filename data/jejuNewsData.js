@@ -17,6 +17,14 @@ var jejuNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "[팩트체크K] “정부, 교회·보수만 골라 검사, 확진자 늘린다”고?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4522040&ref=A"
+    },
+    {
+        "title": "제주도 27번째 환자 발생…'확진' 서울 직장 동료와 접촉",
+        "link": "http://www.fnnews.com/news/202008202143529993"
+    },
+    {
         "title": "제주도, 김포 확진자 기내 접촉 전남도민 감염소식에 '초긴장'",
         "link": "http://yna.kr/AKR20200819040200056?did=1195m"
     },
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "http://www.inews24.com/view/1291971"
     },
     {
-        "title": "제주도, 서울 사랑제일교회 관련자 13명 전원 음성",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327913"
-    },
-    {
-        "title": "제주도교육청 \"2학기, 학생 수 2/3 이하 등교수업 체제로\"",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325364"
-    },
-    {
-        "title": "여의도순복음교회 목사 코로나 확진…김포 거주 40대男",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082002901.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "제주도교육청, 2/3 등교 밀집도 최소화 확대",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327894"
     }
 ];

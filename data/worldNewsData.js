@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.yahoo.com/news/france-germany-italy-and-spain-see-highest-daily-coronavirus-cases-since-lifting-lockdown-increasing-second-wave-fears-162315200.html"
     },
     {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+        "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
+        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
     },
     {
-        "title": "Government spends £56m on consultants to help with coronavirus",
-        "link": "https://www.theguardian.com/world/2020/aug/20/government-spends-56m-on-consultants-to-help-with-coronavirus"
+        "title": "August 19 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html"
     }
 ];
