@@ -5,20 +5,20 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
     },
     {
-        "title": "제주도, 김포 확진자 기내 접촉 전남도민 감염소식에 '초긴장'",
-        "link": "http://yna.kr/AKR20200819040200056?did=1195m"
-    },
-    {
-        "title": "[여론조사] 코로나19 방역 방해 \"구상권 청구 찬성\" 79.7%",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "제주도, 서울 사랑제일교회 교인 1명 추가 확인...총 13명 검사",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425267"
     },
     {
         "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
         "link": "http://www.fnnews.com/news/202008201208198929"
+    },
+    {
+        "title": "제주도, 김포 확진자 기내 접촉 전남도민 감염소식에 '초긴장'",
+        "link": "http://yna.kr/AKR20200819040200056?did=1195m"
+    },
+    {
+        "title": "[여론조사] 코로나19 방역 방해 \"구상권 청구 찬성\" 79.7%",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "아이콘루프-제주도, 코로나 방문인증에 블록체인 DID 적용한다",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
-        "title": "여의도순복음교회 “19일 추가 3명 확진자, 이미 확진 판정 받은 이들”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014923449&code=61221111&cp=nv"
-    },
-    {
         "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",
         "link": "http://yna.kr/AKR20200819059600054?did=1195m"
+    },
+    {
+        "title": "광복절 집회 참석자 파악 '한계'…코로나19 유입 우려",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=149704"
     }
 ];

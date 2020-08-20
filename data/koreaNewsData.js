@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독]CGV용산, 코로나 확진자 또 방문..20일 영업 중단",
-        "link": "http://star.mt.co.kr/stview.php?no=2020082011253843601"
-    },
-    {
-        "title": "LG전자·SK하이닉스, 코로나 확진자 발생…\"방역대처 총력\"",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02174646625869288"
-    },
-    {
-        "title": "광화문 집회 확진자 53명…사랑제일교회 무관 '깜깜이' 감염 20명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001136003&cID=10201&pID=10200"
-    },
-    {
         "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
         "link": "http://news.tf.co.kr/read/economy/1807908.htm"
-    },
-    {
-        "title": "[속보] 코로나 확진자, 오늘 입원 대기 중 사망",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082002351.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "SBS 상암 사옥 코로나19 확진자 발생 \"건물 폐쇄·방송 영향 無\"(공식)",
-        "link": "https://www.ytn.co.kr/_sn/0117_202008201345571605"
     },
     {
         "title": "철원·화성 육군 신병교육대서 입영장정 2명 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20200820050651504?did=1195m"
     },
     {
-        "title": "SBS 상암프리즘타워에 코로나19 확진자 발생·이틀 간 폐쇄 \"방송 제작은 변동...",
-        "link": "https://hankookilbo.com/News/Read/A2020082013550004588?did=NA"
+        "title": "'장르만 코미디' 관계자 \"출연자 오만석, 확진자 접촉...촬영 중단\"(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202008201517260557"
+    },
+    {
+        "title": "CBS 이어 SBS 상암 사옥도 확진자 발생···사옥 폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201357001&code=960100"
+    },
+    {
+        "title": "[단독]CGV용산, 코로나 확진자 또 방문..20일 영업 중단",
+        "link": "http://star.mt.co.kr/stview.php?no=2020082011253843601"
     },
     {
         "title": "코로나 신규확진 288명...7일간 1576명 발생·15개 시도로 확산(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082001204.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 방역당국 “코로나19 확진자 1명, 오늘 입원 대기 중 사망”",
+        "link": "https://www.sedaily.com/NewsView/1Z6NJFM016"
+    },
+    {
+        "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
+    },
+    {
+        "title": "[속보] SBS 상암 사옥 셧다운…어린이집 교사 코로나 확진",
+        "link": "https://www.hankyung.com/life/article/2020082072207"
     }
 ];
