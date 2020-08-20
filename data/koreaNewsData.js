@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200820184500073?did=1195m"
     },
     {
-        "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
-        "link": "https://www.hankyung.com/it/article/202008207456g"
+        "title": "CBS 정규방송 재개, EBS는 확진자 4명으로 확산",
+        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=208846"
     }
 ];

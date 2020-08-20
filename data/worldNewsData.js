@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
-        "title": "Spain sets new post-lockdown coronavirus cases record: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
+        "title": "How coronavirus is affecting Pakistan's extravagant weddings",
+        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-affecting-pakistan-extravagant-weddings-200819073506000.html"
     },
     {
         "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
     },
     {
-        "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
+        "title": "China defends Wuhan's massive pool party",
+        "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
         "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
         "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
     },
     {
-        "title": "China defends Wuhan's massive pool party",
-        "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
+        "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
     }
 ];
