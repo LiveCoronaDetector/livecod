@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/index.html"
     },
     {
-        "title": "Florida's coronavirus death toll hits 10,000",
-        "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
-    },
-    {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Wuhan coronavirus: From silent streets to packed pools",
-        "link": "https://www.bbc.com/news/world-asia-china-53816511"
+        "title": "Italy at a crossroads as fears grow of Covid-19 second wave",
+        "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
+    },
+    {
+        "title": "Covid-19: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     }
 ];

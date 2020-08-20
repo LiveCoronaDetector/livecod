@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "화천에서 코로나19 확진자 첫 발생, 강원 103명째(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001136762&cID=10805&pID=10800"
+        "title": "[속보]강원 코로나 확진자 100명 넘어…원주 사흘새 11명 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900152"
     },
     {
         "title": "김원해·허동원·서성종 코로나19 확진 연극 '짬뽕' 측 \"15명 확진\"[전문]",
@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "'수재민 가족 코로나19 확진'…곡성군, 공적 수해복구 중단(종합)",
-        "link": "http://yna.kr/AKR20200820061551054?did=1195m"
-    },
-    {
-        "title": "CBS 이어 SBS 상암 사옥도 확진자 발생···사옥 폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201357001&code=960100"
-    },
-    {
-        "title": "[속보]강원 코로나 확진자 100명 넘어…원주 사흘새 11명 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900152"
+        "title": "코로나19 확진자로 SBS프리즘타워 폐쇄",
+        "link": "http://www.journalist.or.kr/news/article.html?no=48096"
     },
     {
         "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
         "link": "https://www.hankyung.com/it/article/202008207456g"
     },
     {
+        "title": "CBS 이어 SBS 상암 사옥도 확진자 발생···사옥 폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201357001&code=960100"
+    },
+    {
+        "title": "사랑제일교회 누적 676명…광화문집회 관련 확진자 총 18명(종합)",
+        "link": "http://yna.kr/AKR20200820113351530?did=1195m"
+    },
+    {
         "title": "전북 59번·60번·61번 확진자…코로나19 급증세, 현재 가장 위험한 때(종합)",
         "link": "http://www.fnnews.com/news/202008201351478030"
     },
     {
-        "title": "[단독] ‘코로나19 확진’ 주옥순 “광복절 집회 갔다 찜질방에서 잤다”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4521575&ref=A"
+        "title": "[단독]인천공항서 두번째 코로나 확진자…\"역학조사 중\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200820_0001135810&cID=10802&pID=14000"
     }
 ];
