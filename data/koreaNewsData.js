@@ -5,7 +5,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] SBS 상암프리즘타워 확진자 발생…방송가 비상",
+        "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
     },
     {
@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02335366625869288"
     },
     {
+        "title": "광화문 집회 확진자 53명…사랑제일교회 무관 '깜깜이' 감염 20명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200820_0001136003&cID=10201&pID=10200"
+    },
+    {
         "title": "[종합] 코로나19 확진자 288명 증가...지역 276명 중 서울 135명, 경기 81명",
         "link": "http://www.fnnews.com/news/202008201028118398"
+    },
+    {
+        "title": "[속보] SBS 상암 사옥 셧다운…어린이집 교사 코로나 확진",
+        "link": "https://www.hankyung.com/life/article/2020082072207"
     },
     {
         "title": "철원·화성 육군 신병교육대서 입영장정 2명 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20200820050651504?did=1195m"
     },
     {
+        "title": "이재명 \"쓰나미급 대충격…코로나19 최고 대비태세 필요\"(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5397757"
+    },
+    {
         "title": "[속보]광화문 집회 참가 김진태 전 의원, 코로나19 '음성'",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900143"
-    },
-    {
-        "title": "폭증하는 코로나19 확진자, 서울 지역 병상 괜찮나",
-        "link": "https://www.pressian.com/pages/articles/2020082011574538608?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "이재명 회견 \"코로나, 쓰나미급 대충격 올것...최고 수준의 대비\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "[단독] \"코로나 공백은 없다\" 대통령 경호처 '클린팀' 운영",
-        "link": "https://hankookilbo.com/News/Read/A2020081909390003791?did=NA"
     }
 ];

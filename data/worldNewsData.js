@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
     },
     {
-        "title": "Brazil sees signs coronavirus outbreak slowing: Live updates",
+        "title": "India reports daily record for coronavirus cases: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/brazil-sees-signs-coronavirus-outbreak-slowing-live-updates-200819233912919.html"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     },
     {
-        "title": "Coronavirus live news: France, Italy, Spain hit record post-lockdown cases",
-        "link": "https://www.theguardian.com/world/live/2020/aug/20/coronavirus-live-news-france-italy-spain-hit-record-post-lockdown-cases"
+        "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
     },
     {
         "title": "Endless first wave: how Indonesia failed to control coronavirus",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "South Korea's latest church-linked coronavirus outbreak is turning into a battle over religious freedom",
         "link": "https://www.cnn.com/2020/08/19/asia/south-korea-coronavirus-sarang-jeil-moon-intl-hnk/index.html"
-    },
-    {
-        "title": "Iowa surpasses 1,000 coronavirus deaths",
-        "link": "https://www.kcci.com/article/iowa-department-of-public-health-august-19-coronavirus-update/33645356"
     },
     {
         "title": "Live Covid-19 Updates",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Wuhan coronavirus: From silent streets to packed pools",
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
+    },
+    {
+        "title": "Coronavirus updates: University of North Carolina temporarily suspends fall sports; Pope warns against the rich getting vaccine first",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
     }
 ];
