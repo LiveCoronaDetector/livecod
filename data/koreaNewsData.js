@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
-        "link": "https://www.hankyung.com/it/article/202008207456g"
-    },
-    {
         "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
+    },
+    {
+        "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
+        "link": "https://www.hankyung.com/it/article/202008207456g"
     },
     {
         "title": "[영상] 보건소 직원 2명 껴안은 코로나 확진자…이재명 \"범죄행위\"",

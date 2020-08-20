@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
-        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
+        "title": "School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.",
+        "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
     },
     {
-        "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
-    },
-    {
-        "title": "Government spends £56m on consultants to help with coronavirus",
-        "link": "https://www.theguardian.com/world/2020/aug/20/government-spends-56m-on-consultants-to-help-with-coronavirus"
+        "title": "France, Germany, Italy and Spain see highest daily coronavirus cases since lifting lockdown",
+        "link": "https://www.yahoo.com/news/france-germany-italy-and-spain-see-highest-daily-coronavirus-cases-since-lifting-lockdown-increasing-second-wave-fears-162315200.html"
     },
     {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+    },
+    {
+        "title": "Government spends £56m on consultants to help with coronavirus",
+        "link": "https://www.theguardian.com/world/2020/aug/20/government-spends-56m-on-consultants-to-help-with-coronavirus"
     }
 ];
