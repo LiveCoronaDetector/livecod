@@ -5,16 +5,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "전광훈 \"코로나 확진자 증가는 검사 많이 한 정부 탓\"",
-        "link": "http://news.tf.co.kr/read/life/1807918.htm"
+        "title": "전광훈 \"정부가 무한대로 검사 강요해 확진자수 늘려\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082000912.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[속보]옥천 초등생 확진자 접촉한 부모·고모 3명 양성",
         "link": "https://www.news1.kr/articles/?4031379"
-    },
-    {
-        "title": "대전 확진자 머문 나주 스파 이용객 330명 '음성'…검사 계속(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001135499&cID=10201&pID=10200"
     },
     {
         "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
@@ -25,8 +21,8 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6N2PMCOI"
     },
     {
-        "title": "이낙연, 2주 자가격리…코로나19 확진자 ‘밀접 접촉자’ 분류",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04414886625868960"
+        "title": "이낙연, 코로나19 확진자 '밀접접촉' 분류…2주간 자가격리",
+        "link": "http://www.newsis.com/view/?id=NISX20200819_0001135281&cID=10301&pID=10300"
     },
     {
         "title": "[속보] 서울시청 2층서 코로나19 확진자 발생…전층 폐쇄",
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "쿠팡, 인천 4 물류센터서 신규 확진자 발생",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04178726625868960"
+    },
+    {
+        "title": "쿠팡 인천 4 물류센터에서 코로나 확진자 나와",
+        "link": "http://www.fnnews.com/news/202008191818414372"
     },
     {
         "title": "코로나19 해외유입 확진자 수 예측 기술 나왔다",

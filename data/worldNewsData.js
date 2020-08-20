@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
     },
     {
-        "title": "COVID seems to be spreading faster in India than any other nation, but officials claim success",
-        "link": "https://www.cbsnews.com/news/coronavirus-in-india-spreading-fast-but-government-claims-strategy-is-working/"
+        "title": "Coronavirus: How many Covid-19 deaths is India missing?",
+        "link": "https://www.bbc.com/news/world-asia-india-53773070"
     },
     {
         "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
-        "title": "Covid-19: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
-    },
-    {
         "title": "Wuhan coronavirus: From silent streets to packed pools",
         "link": "https://www.bbc.com/news/world-asia-china-53816511"
+    },
+    {
+        "title": "Coronavirus vaccine: Australia rules out mandatory immunisations",
+        "link": "https://www.bbc.com/news/world-australia-53840086"
     }
 ];
