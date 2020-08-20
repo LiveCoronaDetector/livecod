@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/19/latest_news/1597821146_895421.html"
     },
     {
-        "title": "Covid-19 Live Updates: Opening of U.S. Education System Brings Strike Threats, New Cases and Improvisation",
-        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
+        "title": "Local Officials in China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find",
+        "link": "https://www.nytimes.com/2020/08/19/world/asia/china-coronavirus-beijing-trump.html"
     },
     {
         "title": "Spain sets new post-lockdown coronavirus cases record: Live",
@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
     },
     {
-        "title": "Coronavirus: How many Covid-19 deaths is India missing?",
-        "link": "https://www.bbc.com/news/world-asia-india-53773070"
+        "title": "COVID seems to be spreading faster in India than any other nation, but officials claim success",
+        "link": "https://www.cbsnews.com/news/coronavirus-in-india-spreading-fast-but-government-claims-strategy-is-working/"
     },
     {
         "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
         "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
     },
     {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
-    },
-    {
         "title": "Florida's coronavirus death toll hits 10,000",
         "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
+    },
+    {
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
         "title": "Covid-19: Live Updates",
