@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
-        "link": "http://news.tf.co.kr/read/economy/1807908.htm"
+        "title": "'광복절 집회 투입' 경찰에도 코로나 번졌다…4명 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200820_0001136402&cID=10201&pID=10200"
+    },
+    {
+        "title": "철원·화성 육군 신병교육대서 입영장정 2명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200820050651504?did=1195m"
     },
     {
         "title": "[속보] SBS 상암 사옥 셧다운…어린이집 교사 코로나 확진",
         "link": "https://www.hankyung.com/life/article/2020082072207"
-    },
-    {
-        "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008200230&t=NN"
-    },
-    {
-        "title": "배우 김원해 코로나19 확진...연극 '짬뽕' 여파[전문]",
-        "link": "http://www.fnnews.com/news/202008201608457565"
     },
     {
         "title": "[단독]CGV용산, 코로나 확진자 또 방문..20일 영업 중단",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23853058"
     },
     {
-        "title": "연예계 덮친 코로나… 김원해·허동원 등 확진 속출 [종합]",
-        "link": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01338246625869288"
+        "title": "배우 김원해 코로나19 확진...연극 '짬뽕' 여파[전문]",
+        "link": "http://www.fnnews.com/news/202008201608457565"
     },
     {
-        "title": "[전문]극단 산 측 “김원해·허동원·서성종 포함 15명 코로나19 확진”",
-        "link": "http://sports.khan.co.kr/news/sk_index.html?art_id=202008201633003&sec_id=540101&pt=nv"
+        "title": "'장르만 코미디' 관계자 \"출연자 오만석, 확진자 접촉...촬영 중단\"(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202008201517260557"
     },
     {
-        "title": "철원·화성 육군 신병교육대서 입영장정 2명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200820050651504?did=1195m"
+        "title": "이재명 “코로나 이젠 쓰나미급…치료시설과 의료인 지원 절실”",
+        "link": "http://www.hani.co.kr/arti/area/capital/958567.html"
+    },
+    {
+        "title": "CBS 정규방송 재개, EBS는 확진자 4명으로 확산",
+        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=208846"
     }
 ];

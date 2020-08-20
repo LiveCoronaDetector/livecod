@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
     },
     {
-        "title": "[고침] 지방(확진자 공무원 접촉 진도 조도면사무소…)",
-        "link": "http://yna.kr/AKR20200819059600054?did=1195m"
+        "title": "코로나 재확산에 경북 소방관 교육 또 연기… '인력난' 심화",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082003170.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
