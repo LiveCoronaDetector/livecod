@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082000466.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
-        "link": "http://news.tf.co.kr/read/economy/1807908.htm"
+        "title": "[단독]CGV용산, 코로나 확진자 또 방문..20일 영업 중단",
+        "link": "http://star.mt.co.kr/stview.php?no=2020082011253843601"
     },
     {
-        "title": "SBS 상암 사옥 코로나19 확진자 발생 \"건물 폐쇄·방송 영향 無\"(공식)",
-        "link": "https://www.ytn.co.kr/_sn/0117_202008201345571605"
-    },
-    {
-        "title": "[속보] 방역당국 \"코로나 확진자 1명, 오늘 입원 대기 중 사망\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082002351.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "LG전자·SK하이닉스, 코로나 확진자 발생…\"방역대처 총력\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02174646625869288"
     },
     {
         "title": "광화문 집회 확진자 53명…사랑제일교회 무관 '깜깜이' 감염 20명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200820_0001136003&cID=10201&pID=10200"
     },
     {
-        "title": "[단독]CGV용산, 코로나 확진자 또 방문..20일 영업 중단",
-        "link": "http://star.mt.co.kr/stview.php?no=2020082011253843601"
+        "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
+        "link": "http://news.tf.co.kr/read/economy/1807908.htm"
     },
     {
-        "title": "순천서 서울 다녀온 70대 코로나19 확진...순천 누적확진자 5명",
-        "link": "http://www.fnnews.com/news/202008201025397079"
+        "title": "[속보] 코로나 확진자, 오늘 입원 대기 중 사망",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082002351.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "수도권만 226명…일주일간 확진자 1500명 넘어(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02335366625869288"
+        "title": "SBS 상암 사옥 코로나19 확진자 발생 \"건물 폐쇄·방송 영향 無\"(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202008201345571605"
     },
     {
-        "title": "폭증하는 코로나19 확진자, 서울 지역 병상 괜찮나",
-        "link": "https://www.pressian.com/pages/articles/2020082011574538608?utm_source=naver&utm_medium=search"
+        "title": "철원·화성 육군 신병교육대서 입영장정 2명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200820050651504?did=1195m"
     },
     {
-        "title": "CBS 정규방송 재개, EBS는 확진자 4명으로 확산",
-        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=208846"
+        "title": "SBS 상암프리즘타워에 코로나19 확진자 발생·이틀 간 폐쇄 \"방송 제작은 변동...",
+        "link": "https://hankookilbo.com/News/Read/A2020082013550004588?did=NA"
+    },
+    {
+        "title": "코로나 신규확진 288명...7일간 1576명 발생·15개 시도로 확산(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082001204.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
