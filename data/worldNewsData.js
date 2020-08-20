@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
     },
     {
-        "title": "Spain, France And Germany Report Most Coronavirus Cases Since Their Lockdowns",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/903967293/spain-france-and-germany-report-most-coronavirus-cases-since-their-lockdowns"
+        "title": "COVID-19 infections surge again in Europe",
+        "link": "https://www.youtube.com/watch?v=d_fsg9uA-xs"
     }
 ];
