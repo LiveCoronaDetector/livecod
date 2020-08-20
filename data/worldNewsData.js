@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     },
     {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
-    },
-    {
         "title": "Florida's coronavirus death toll hits 10,000",
         "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
+    },
+    {
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     }
 ];

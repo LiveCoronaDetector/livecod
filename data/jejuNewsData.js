@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4520277&ref=A"
     },
     {
-        "title": "제주도, 서울 사랑제일교회 교인 1명 추가 확인...총 13명 검사",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425267"
+        "title": "광화문-사랑제일 코로나 열풍인데...제주는 확진자 '제로'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319176"
     },
     {
         "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.inews24.com/view/1291971"
     },
     {
+        "title": "여의도순복음교회 목사 코로나 확진…김포 거주 40대男",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082002901.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "제주도, 수도권 교회·광화문 집회 참석자 진단검사 행정명령",
         "link": "http://www.hani.co.kr/arti/area/jeju/958460.html"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "관광객 넘치는 제주…코로나19 확산에 방역당국 ‘비상’",
         "link": "http://www.hani.co.kr/arti/area/jeju/958206.html"
-    },
-    {
-        "title": "코로나 재확산에 경북 소방관 교육 또 연기… '인력난' 심화",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/20/2020082003170.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
