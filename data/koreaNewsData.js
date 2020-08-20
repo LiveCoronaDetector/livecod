@@ -9,32 +9,32 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200820092651005?did=1195m"
     },
     {
-        "title": "'광복절 집회 투입' 경찰에도 코로나 번졌다…4명 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001136402&cID=10201&pID=10200"
-    },
-    {
-        "title": "[단독]CGV용산, 코로나 확진자 또 방문..20일 영업 중단",
-        "link": "http://star.mt.co.kr/stview.php?no=2020082011253843601"
-    },
-    {
         "title": "김원해·허동원·서성종 코로나19 확진 연극 '짬뽕' 측 \"15명 확진\"[전문]",
         "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23853058"
     },
     {
-        "title": "철원·화성 신병교육대 입영장정 2명 코로나 확진",
-        "link": "http://www.fnnews.com/news/202008201043176528"
+        "title": "배우 김원해 코로나19 확진...연극 '짬뽕' 여파[전문]",
+        "link": "http://www.fnnews.com/news/202008201608457565"
+    },
+    {
+        "title": "이재명 회견 \"코로나, 쓰나미급 대충격 올것...최고 수준의 대비\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "CBS 이어 SBS 상암 사옥도 확진자 발생···사옥 폐쇄",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201357001&code=960100"
     },
     {
-        "title": "코로나19 확진자로 SBS프리즘타워 폐쇄",
-        "link": "http://www.journalist.or.kr/news/article.html?no=48096"
+        "title": "철원·화성 육군 신병교육대서 입영장정 2명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200820050651504?did=1195m"
     },
     {
         "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
         "link": "https://www.hankyung.com/it/article/202008207456g"
+    },
+    {
+        "title": "[단독] LG전자 가산R&D캠퍼스서 코로나19 확진자 나와…건물 전체 폐쇄",
+        "link": "http://news.tf.co.kr/read/economy/1807908.htm"
     },
     {
         "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
