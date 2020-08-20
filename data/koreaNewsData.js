@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521596&ref=A"
     },
     {
+        "title": "[속보]강원 코로나 확진자 100명 넘어…원주 사흘새 11명 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900152"
+    },
+    {
         "title": "이재명 회견 \"코로나, 쓰나미급 대충격 올것...최고 수준의 대비\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/20/2020082001945.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[단독] 코로나 덮친 LG전자, 첫 상시채용 연기",
         "link": "https://www.hankyung.com/it/article/202008207456g"
-    },
-    {
-        "title": "[속보]강원 코로나 확진자 100명 넘어…원주 사흘새 11명 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220081900152"
     },
     {
         "title": "[속보] SBS 상암프리즘타워 확진자 발생…사옥 폐쇄",
