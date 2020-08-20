@@ -5,16 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/20/latest_news/1597907383_419917.html"
     },
     {
-        "title": "India reports daily record for coronavirus cases: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/brazil-sees-signs-coronavirus-outbreak-slowing-live-updates-200819233912919.html"
+        "title": "Local Officials in China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find",
+        "link": "https://www.nytimes.com/2020/08/19/world/asia/china-coronavirus-beijing-trump.html"
     },
     {
         "title": "Century-old vaccine limits COVID spread, so bring it back, urge Israeli experts",
         "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
-    },
-    {
-        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
-        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     },
     {
         "title": "Endless first wave: how Indonesia failed to control coronavirus",
@@ -29,15 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/index.html"
     },
     {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
+        "title": "Covid-19: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/18/world/coronavirus-covid.html"
     },
     {
-        "title": "Florida's coronavirus death toll hits 10,000",
-        "link": "https://www.theguardian.com/world/2020/aug/19/florida-coronavirus-death-toll-hits-10000"
+        "title": "Global report: South Korea fears fresh nationwide outbreak",
+        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-south-korea-fears-fresh-nationwide-outbreak"
     },
     {
-        "title": "Coronavirus updates: University of North Carolina temporarily suspends fall sports; Pope warns against the rich getting vaccine first",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/"
+        "title": "Endless first wave: How Indonesia failed to control coronavirus",
+        "link": "https://www.aljazeera.com/news/2020/08/endless-wave-indonesia-failed-control-coronavirus-200820020259736.html"
+    },
+    {
+        "title": "August 17 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-17-20-intl/index.html"
     }
 ];
