@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/21/latest_news/1597993335_918991.html"
     },
     {
-        "title": "Live updates: Infections linked to huge Sturgis motorcycle rally are spreading",
+        "title": "Live updates: Pence claims Biden’s handling of coronavirus would be worse than Trump’s",
         "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53742214"
     },
     {
-        "title": "Coronavirus: Croatia off safe travel list and France cases spike",
-        "link": "https://www.bbc.com/news/uk-53854712"
+        "title": "Italy at a crossroads as fears grow of Covid-19 second wave",
+        "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
     },
     {
         "title": "These Americans came to India to deepen their faith. They’ve been detained, quarantined and prosecuted.",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
     },
     {
+        "title": "WHO warns coronavirus vaccine alone won't end pandemic: 'We cannot go back to the way things were'",
+        "link": "https://www.cnbc.com/2020/08/21/who-warns-a-coronavirus-vaccine-alone-will-not-end-pandemic.html"
+    },
+    {
+        "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
+        "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
+    },
+    {
         "title": "Mutated form of coronavirus may be more contagious, but less deadly, experts say",
         "link": "https://www.foxnews.com/health/mutated-form-coronavirus-more-contagious-less-deadly-experts"
-    },
-    {
-        "title": "At least 15 states reporting Covid cases at colleges and universities",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/h_1a78846f0fc3b30b40da31eeed7d565d"
-    },
-    {
-        "title": "China defends Wuhan's massive pool party",
-        "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     }
 ];
