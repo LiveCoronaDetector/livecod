@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/economy/article/202008212091i"
     },
     {
+        "title": "전주지법 부장판사 코로나19 확진…현직판사 첫 사례",
+        "link": "http://www.hani.co.kr/arti/area/honam/958756.html"
+    },
+    {
         "title": "[단독]제주 중문골프장 캐디 1명 코로나19 확진 판정",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01918806625869616"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4522374&ref=A"
     },
     {
-        "title": "경찰청서도 확진자 발생…경찰관 잇따른 격리에 치안 우려",
-        "link": "http://www.hani.co.kr/arti/society/society_general/958759.html"
+        "title": "경찰청에서 첫 코로나19 확진자 발생",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5880957_32633.html"
     },
     {
         "title": "\"코로나19 방역 악의적 방해하는 자 구속수사…법정 최고형 구형\"",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000164"
-    },
-    {
-        "title": "광복절 집회 투입 경찰 코로나 검사 완료…확진 5명(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5398880"
     }
 ];

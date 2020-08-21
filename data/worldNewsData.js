@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/21/latest_news/1597993335_918991.html"
     },
     {
-        "title": "Coronavirus live news: Italy records biggest daily infection rise since May; Lebanon imposes partial lockdown after Beirut blast",
+        "title": "Coronavirus live news: WHO hopes crisis can be over within two years; Italy records biggest daily infection rise since May",
         "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
     },
     {
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
-        "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
-        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
+        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
+        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
     },
     {
-        "title": "China defends Wuhan's massive pool party",
-        "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
+        "title": "Mutated form of coronavirus may be more contagious, but less deadly, experts say",
+        "link": "https://www.foxnews.com/health/mutated-form-coronavirus-more-contagious-less-deadly-experts"
     },
     {
         "title": "At least 15 states reporting Covid cases at colleges and universities",
