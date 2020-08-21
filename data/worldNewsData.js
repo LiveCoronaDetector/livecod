@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
     },
     {
-        "title": "Century-old vaccine limits COVID spread, so bring it back, urge Israeli experts",
-        "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
+        "title": "Coronavirus: Youthful Pakistan appears to avoid worst of pandemic",
+        "link": "https://www.bbc.com/news/world-asia-53742214"
     },
     {
         "title": "Live updates: Coronavirus cases rise in young people in Europe as U.S. colleges try to crack down on parties",
         "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Covid-19 Hits India’s Already Faltering Consumers Hardest",
-        "link": "https://www.wsj.com/articles/covid-19-hits-indias-already-faltering-consumers-hardest-11597921200"
+        "title": "Endless first wave: how Indonesia failed to control coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
-        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
+        "title": "France: Virus cases spike to 4,700 in a day",
+        "link": "https://www.bbc.com/news/world-europe-53856609"
     },
     {
         "title": "At least 15 states reporting Covid cases at colleges and universities",
