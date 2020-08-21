@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4522374&ref=A"
     },
     {
-        "title": "[단독]제주 중문골프장 캐디 1명 코로나19 확진 판정",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01918806625869616"
-    },
-    {
         "title": "경찰청에서 첫 코로나19 확진자 발생",
         "link": "https://imnews.imbc.com/news/2020/society/article/5880957_32633.html"
     },
     {
         "title": "\"코로나19 방역 악의적 방해하는 자 구속수사…법정 최고형 구형\"",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000164"
+    },
+    {
+        "title": "트럼프, 한국 코로나 재확산 언급하며 \"한국도 끝났어\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101933.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

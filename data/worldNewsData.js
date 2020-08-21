@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl/index.html"
+    },
+    {
         "title": "WHO warns coronavirus vaccine alone won't end pandemic: 'We cannot go back to the way things were'",
         "link": "https://www.cnbc.com/2020/08/21/who-warns-a-coronavirus-vaccine-alone-will-not-end-pandemic.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
         "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
-    },
-    {
-        "title": "Mutated form of coronavirus may be more contagious, but less deadly, experts say",
-        "link": "https://www.foxnews.com/health/mutated-form-coronavirus-more-contagious-less-deadly-experts"
     }
 ];
