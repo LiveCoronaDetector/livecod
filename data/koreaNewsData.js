@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01918806625869616"
     },
     {
-        "title": "수도권 삼성·LG 직원 잇단 코로나19 확진…'방역 비상'(종합)",
-        "link": "http://yna.kr/AKR20200821041651061?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규확진자 324명... 국내발생 315명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008211017011&code=940100"
+    },
+    {
+        "title": "수도권 삼성·LG 직원 잇단 코로나19 확진…'방역 비상'(종합)",
+        "link": "http://yna.kr/AKR20200821041651061?did=1195m"
     },
     {
         "title": "\"나 코로나 확진자야\"...지하철서 마스크 안 쓰고 난동",
         "link": "https://www.ytn.co.kr/_ln/0103_202008211144052960"
     },
     {
+        "title": "사랑제일교회 관련 확진자 어제까지 739명…12개 시·도서 나와",
+        "link": "http://yna.kr/AKR20200821065400530?did=1195m"
+    },
+    {
         "title": "트럼프, 한국 코로나 재확산 언급하며 \"한국도 끝났어\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101933.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "\"코로나19 방역 악의적 방해하는 자 구속수사…법정 최고형 구형\"",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000164"
     },
     {
         "title": "경찰청서도 확진자 발생…경찰관 잇따른 격리에 치안 우려",
         "link": "http://www.hani.co.kr/arti/society/society_general/958759.html"
     },
     {
-        "title": "경남, 광화문 집회 확진자 또 1명 추가, 총 4명(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20200821_0001137922&cID=10812&pID=10800"
+        "title": "현직 판사 '첫' 코로나 확진자 발생…전주지법 40대 부장판사",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020082110202586775"
     },
     {
         "title": "[단독] 저축은행업계 1위 SBI 영업점 직원도 코로나 확진",
         "link": "https://www.hankyung.com/economy/article/202008212151i"
-    },
-    {
-        "title": "경찰청 본청 코로나19 첫 확진자 발생…13층 폐쇄",
-        "link": "https://news.imaeil.com/Society/2020082109460133961"
-    },
-    {
-        "title": "[속보] 경찰청 서울 본청 뚫렸다…코로나 첫 확진자 발생",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008210102&t=NN"
     }
 ];

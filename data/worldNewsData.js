@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Endless first wave: how Indonesia failed to control coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
+        "title": "India's coronavirus cases approach three million: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/200821003718944.html"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
-        "title": "India's coronavirus cases approach three million: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/200821003718944.html"
+        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
+        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
     },
     {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "France: Virus cases spike to 4,700 in a day",
-        "link": "https://www.bbc.com/news/world-europe-53856609"
+        "title": "Myanmar reports 10 more locally transmitted Covid-19 cases",
+        "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/08/21/myanmar-reports-10-more-locally-transmitted-covid-19-cases"
     }
 ];
