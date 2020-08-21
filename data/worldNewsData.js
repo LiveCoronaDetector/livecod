@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     },
     {
-        "title": "WHO warns coronavirus vaccine alone won't end pandemic: 'We cannot go back to the way things were'",
-        "link": "https://www.cnbc.com/2020/08/21/who-warns-a-coronavirus-vaccine-alone-will-not-end-pandemic.html"
-    },
-    {
-        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
-        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
+        "title": "College Officials Clamp Down on Student Behavior Over Covid-19 Fears",
+        "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
+    },
+    {
+        "title": "WHO warns coronavirus vaccine alone won't end pandemic: 'We cannot go back to the way things were'",
+        "link": "https://www.cnbc.com/2020/08/21/who-warns-a-coronavirus-vaccine-alone-will-not-end-pandemic.html"
     }
 ];
