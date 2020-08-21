@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     },
     {
-        "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
-        "link": "http://www.fnnews.com/news/202008201208198929"
-    },
-    {
         "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
+        "link": "http://www.fnnews.com/news/202008201208198929"
     },
     {
         "title": "전국 251개 해수욕장 폐장…\"코로나 확산에 방문 자제 부탁\"",

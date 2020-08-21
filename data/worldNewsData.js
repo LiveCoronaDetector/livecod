@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
+        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
+        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
+    },
+    {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
+        "title": "France, Germany, Italy and Spain see highest daily coronavirus cases since lifting lockdown",
+        "link": "https://www.yahoo.com/news/france-germany-italy-and-spain-see-highest-daily-coronavirus-cases-since-lifting-lockdown-increasing-second-wave-fears-162315200.html"
+    },
+    {
         "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
         "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
-    },
-    {
-        "title": "France: Virus cases spike to 4,700 in a day",
-        "link": "https://www.bbc.com/news/world-europe-53856609"
-    },
-    {
-        "title": "As U.S. Schools Move to Reopen Despite Covid-19, Teachers Threaten to Strike",
-        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     }
 ];

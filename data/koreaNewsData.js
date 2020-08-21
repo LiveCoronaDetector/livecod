@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008201357001&code=960100"
     },
     {
-        "title": "'신도 14만명' 중랑구 금란교회, 코로나 확진자 1명 추가",
-        "link": "http://www.newsis.com/view/?id=NISX20200820_0001136841&cID=10801&pID=14000"
-    },
-    {
         "title": "일본 코로나 확진자 6만명 돌파…이틀 연속 1천명 넘게 증가",
         "link": "http://yna.kr/AKR20200820184500073?did=1195m"
+    },
+    {
+        "title": "오만석, 코로나19 음성 판정…\"방역 지침 따라 자가격리 상태\" [전문]",
+        "link": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01138166625869616"
     }
 ];
