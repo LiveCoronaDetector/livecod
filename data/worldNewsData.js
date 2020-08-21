@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/20/latest_news/1597907383_419917.html"
     },
     {
-        "title": "Coronavirus live news: rightwing rally linked to South Korea surge; Ardern hits back at Trump",
+        "title": "Coronavirus live news: Irish minister resigns over lockdown breach; Ardern hits back at Trump",
         "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
     },
     {
@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
     },
     {
-        "title": "Live updates: Coronavirus cases rise in young people in Europe as U.S. colleges try to crack down on parties",
-        "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
+        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
+        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     },
     {
         "title": "Endless first wave: how Indonesia failed to control coronavirus",
         "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
     },
     {
-        "title": "New Zealand PM Jacinda Ardern wants to eliminate coronavirus. Is she setting herself up to fail?",
-        "link": "https://www.cnn.com/2020/08/20/asia/new-zealand-coronavirus-bargain-intl-hnk/index.html"
+        "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
+        "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
-        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
+        "title": "School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.",
+        "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
     },
     {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
-        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
-    },
-    {
         "title": "European countries see highest daily cases in months",
         "link": "https://uk.news.yahoo.com/france-germany-italy-and-spain-see-highest-daily-coronavirus-cases-since-lifting-lockdown-increasing-second-wave-fears-162315200.html"
+    },
+    {
+        "title": "As U.S. Schools Move to Reopen Despite Covid-19, Teachers Threaten to Strike",
+        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     }
 ];

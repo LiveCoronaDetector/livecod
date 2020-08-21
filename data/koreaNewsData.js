@@ -17,16 +17,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008211017011&code=940100"
     },
     {
-        "title": "[단독] 주택금융공사 시험장서 확진자…8일부터 증상, 쇼핑몰도 방문",
-        "link": "http://news.mk.co.kr/newsRead.php?no=860119&year=2020"
-    },
-    {
         "title": "경찰청서도 확진자 발생…경찰관 잇따른 격리에 치안 우려",
         "link": "http://www.hani.co.kr/arti/society/society_general/958759.html"
     },
     {
-        "title": "\"나 코로나19 확진자야\" 지하철서 마스크 안 쓰고 난동",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940994&plink=ORI&cooper=NAVER"
+        "title": "\"나 코로나 확진자야\"...지하철서 마스크 안 쓰고 난동",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008211144052960"
     },
     {
         "title": "현직 판사 '첫' 코로나 확진자 발생…전주지법 40대 부장판사",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "사랑제일교회 관련 확진자 어제까지 739명…12개 시·도서 나와",
         "link": "http://yna.kr/AKR20200821065400530?did=1195m"
+    },
+    {
+        "title": "'10초의 침묵' 文 \"코로나 최대 위기...방역 방해시 공권력 행사\"[전문]",
+        "link": "http://www.fnnews.com/news/202008211404413796"
     }
 ];
