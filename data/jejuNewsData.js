@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082110351208155?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "전주지법 부장판사 코로나 확진… 현직 판사 감염 첫 사례",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101407.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "제주 중문골프장 캐디 코로나19 감염…운영 중단",
         "link": "http://www.fnnews.com/news/202008211126000823"
     },
@@ -13,8 +17,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     },
     {
-        "title": "코로나19 신규 확진 324명, 지역 315명…3월 신천지 이후 최대",
-        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=201698"
+        "title": "제주도 내일부터 사회적 거리두기 2단계로 격상",
+        "link": "http://yna.kr/AKR20200821083100056?did=1195m"
+    },
+    {
+        "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
     },
     {
         "title": "제주, 23일 안산전부터 무관중 전환…코로나19 확산 방지 차원",
@@ -25,19 +33,11 @@ var jejuNewsData = [
         "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=127583"
     },
     {
-        "title": "전주지법 부장판사 코로나 확진… 현직 판사 감염 첫 사례",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101407.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "제주도, '2단계 사회적 거리두기' 수준으로 방역대책 격상",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325388"
     },
     {
-        "title": "\"전광훈 교회 확진자, 왜 도주할까? 답은 유튜브에\"",
-        "link": "https://www.nocutnews.co.kr/news/5398292"
-    },
-    {
-        "title": "제주서 27번째 코로나 확진자의 가족도 확진",
-        "link": "http://www.hani.co.kr/arti/area/jeju/958734.html"
-    },
-    {
-        "title": "[4보]21일 오전 11시 기준 27번째 확진자 접촉자 총 80명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170267"
+        "title": "코로나19 신규 확진 324명, 지역 315명…3월 신천지 이후 최대",
+        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=201698"
     }
 ];
