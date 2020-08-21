@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53742214"
     },
     {
-        "title": "Italy at a crossroads as fears grow of Covid-19 second wave",
-        "link": "https://www.theguardian.com/world/2020/aug/19/italy-at-a-crossroads-as-fears-grow-of-covid-19-second-wave"
+        "title": "Coronavirus: Croatia off safe travel list and France cases spike",
+        "link": "https://www.bbc.com/news/uk-53854712"
     },
     {
         "title": "These Americans came to India to deepen their faith. They’ve been detained, quarantined and prosecuted.",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
-        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
-    },
-    {
         "title": "WHO warns coronavirus vaccine alone won't end pandemic: 'We cannot go back to the way things were'",
         "link": "https://www.cnbc.com/2020/08/21/who-warns-a-coronavirus-vaccine-alone-will-not-end-pandemic.html"
     },
     {
-        "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
-        "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
+        "title": "China defends Wuhan's massive pool party",
+        "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
+    },
+    {
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     },
     {
         "title": "Mutated form of coronavirus may be more contagious, but less deadly, experts say",
