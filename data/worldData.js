@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5791175,
-        "사망자수": 179035,
-        "완치자수": 3116549
+        "확진자수": 5793942,
+        "사망자수": 179100,
+        "완치자수": 3117184
     },
     {
         "Name": "브라질",
@@ -441,6 +441,14 @@ var marker = [
         "완치자수": 33900
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 38219,
+        "사망자수": 317,
+        "완치자수": 27306
+    },
+    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
@@ -463,14 +471,6 @@ var marker = [
         "확진자수": 37665,
         "사망자수": 637,
         "완치자수": 13913
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 37567,
-        "사망자수": 311,
-        "완치자수": 26330
     },
     {
         "Name": "아제르바이잔",
@@ -716,9 +716,9 @@ var marker = [
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "확진자수": 8319,
+        "확진자수": 8388,
         "사망자수": 53,
-        "완치자수": 6614
+        "완치자수": 6734
     },
     {
         "Name": "Tajikistan",
@@ -764,9 +764,9 @@ var marker = [
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "확진자수": 7637,
+        "확진자수": 7704,
         "사망자수": 124,
-        "완치자수": 6903
+        "완치자수": 6969
     },
     {
         "Name": "크로아티아",
@@ -1257,20 +1257,20 @@ var marker = [
         "완치자수": 830
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 881,
+        "사망자수": 30,
+        "완치자수": 433
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "확진자수": 864,
         "사망자수": 12,
         "완치자수": 162
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 846,
-        "사망자수": 29,
-        "완치자수": 399
     },
     {
         "Name": "일본크루즈",

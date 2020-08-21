@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-americans-tablighi-jamaat/2020/08/20/9e2ceae4-ddb4-11ea-b4f1-25b762cdbbf4_story.html"
     },
     {
-        "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
-        "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
+        "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
+        "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
+    },
+    {
+        "title": "Effectively immediately, all NH restaurants can operate at 100% capacity",
+        "link": "https://www.wmur.com/article/new-hampshire-coronavirus-update-august-21-2020/33667169"
     },
     {
         "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
         "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     },
     {
-        "title": "College Officials Clamp Down on Student Behavior Over Covid-19 Fears",
-        "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
-    },
-    {
-        "title": "China defends Wuhan's massive pool party",
-        "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
-    },
-    {
         "title": "WHO warns coronavirus vaccine alone won't end pandemic: 'We cannot go back to the way things were'",
         "link": "https://www.cnbc.com/2020/08/21/who-warns-a-coronavirus-vaccine-alone-will-not-end-pandemic.html"
+    },
+    {
+        "title": "What you need to know about coronavirus on Friday, August 21",
+        "link": "https://www.cnn.com/2020/08/21/world/coronavirus-newsletter-08-21-20-intl/index.html"
     }
 ];
