@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
-        "title": "How coronavirus is affecting Pakistan's extravagant weddings",
-        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-affecting-pakistan-extravagant-weddings-200819073506000.html"
+        "title": "Spain sets new post-lockdown coronavirus cases record: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
     },
     {
         "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
