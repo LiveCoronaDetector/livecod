@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "제주 28번 코로나 확진자 동선 공개...접촉자 '112명' 확인",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425397"
+        "title": "[종합] 제주도 '사회적 거리두기' 2단계 돌입...공공기관 행사 제한",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425414"
+    },
+    {
+        "title": "서귀포 중문골프장 캐디 코로나19 확진자 접촉 112명",
+        "link": "https://www.news1.kr/articles/?4033496"
     },
     {
         "title": "'코로나 예방' K리그 무관중 경기 확산…전북-제주도 동참",
         "link": "http://sports.chosun.com/news/ntype.htm?id=202008220100188260012597&servicedate=20200821"
     },
     {
-        "title": "제주, 23일 안산전부터 무관중 전환…코로나19 확산 방지 차원",
-        "link": "https://www.news1.kr/articles/?4033025"
-    },
-    {
-        "title": "[속보] 코로나19 어제 324명 급증… 전국 확산 양상",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014930310&code=61121111&cp=nv"
+        "title": "홈 3연전 무관중 경기 결정… 제주도 문 닫는다",
+        "link": "http://www.besteleven.com/Country/news_01_view.asp?iBoard=142&iIDX=129076"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
     },
     {
-        "title": "Century-old vaccine limits COVID spread, so bring it back, urge Israeli experts",
-        "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
+        "title": "Coronavirus: Youthful Pakistan appears to avoid worst of pandemic",
+        "link": "https://www.bbc.com/news/world-asia-53742214"
     },
     {
         "title": "Live updates: Coronavirus cases rise in young people in Europe as U.S. colleges try to crack down on parties",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
-        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
-        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
+        "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
+        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
     },
     {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "Myanmar reports 10 more locally transmitted Covid-19 cases",
-        "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/08/21/myanmar-reports-10-more-locally-transmitted-covid-19-cases"
+        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
+        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
     }
 ];

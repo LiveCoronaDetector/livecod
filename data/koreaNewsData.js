@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008211017011&code=940100"
     },
     {
-        "title": "수도권 삼성·LG 직원 잇단 코로나19 확진…'방역 비상'(종합)",
-        "link": "http://yna.kr/AKR20200821041651061?did=1195m"
-    },
-    {
         "title": "\"나 코로나 확진자야\"...지하철서 마스크 안 쓰고 난동",
         "link": "https://www.ytn.co.kr/_ln/0103_202008211144052960"
     },
@@ -25,12 +21,12 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101933.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "\"코로나19 방역 악의적 방해하는 자 구속수사…법정 최고형 구형\"",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000164"
-    },
-    {
         "title": "경찰청서도 확진자 발생…경찰관 잇따른 격리에 치안 우려",
         "link": "http://www.hani.co.kr/arti/society/society_general/958759.html"
+    },
+    {
+        "title": "삼성·LG 수도권 사업장서 코로나19 확진자 연이어 발생",
+        "link": "http://www.fnnews.com/news/202008211513243023"
     },
     {
         "title": "현직 판사 '첫' 코로나 확진자 발생…전주지법 40대 부장판사",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[단독] 저축은행업계 1위 SBI 영업점 직원도 코로나 확진",
         "link": "https://www.hankyung.com/economy/article/202008212151i"
+    },
+    {
+        "title": "경찰청 본청 코로나19 첫 확진자 발생…13층 폐쇄",
+        "link": "https://news.imaeil.com/Society/2020082109460133961"
     }
 ];
