@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/21/latest_news/1597993335_918991.html"
     },
     {
-        "title": "Coronavirus live news: concern over cases at Berlin schools; Spain health chief warns over infections rise",
+        "title": "Coronavirus live news: Lebanon imposes partial lockdown after Beirut explosion; Spain health chief warns over infections rise",
         "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus Outbreak: Live Updates and News for Aug. 21, 2020",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3ffad4d0-e3aa-11ea-ae5b-7dbd286592a8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0yMC9jZGMtc2F5cy1zdW4tYmVsdC1jYXNlcy1lYXNlLWV1cm9wZS1maWdodHMtc3Bpa2UtdmlydXMtdXBkYXRl"
+        "title": "CDC Says Surge in Sun Belt Easing, Deaths to Slow: Virus Update",
+        "link": "https://finance.yahoo.com/news/florida-infection-rate-falls-europe-145447683.html"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
