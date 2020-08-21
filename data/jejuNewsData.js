@@ -5,16 +5,32 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     },
     {
+        "title": "제주도, 하루 사이 코로나 확진자 2명 발생",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349425"
+    },
+    {
         "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "제주도 코로나 27번째 확진자 가족 중 1명 추가 확진 판정",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425323"
     },
     {
         "title": "제주도, 광복절 집회 참석자 18명·사랑제일교회 13명 확인",
         "link": "http://www.fnnews.com/news/202008201208198929"
     },
     {
+        "title": "\"전광훈 교회 확진자, 왜 도주할까? 답은 유튜브에\"",
+        "link": "https://www.nocutnews.co.kr/news/5398292"
+    },
+    {
         "title": "전국 251개 해수욕장 폐장…\"코로나 확산에 방문 자제 부탁\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=404359&class=33&grp="
+    },
+    {
+        "title": "[2보] 제주 27번째 확진자 가족 중 1명 확진 판정",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170263"
     },
     {
         "title": "집회 참석 확진자 9개 시도에 퍼져…70%가 60대 이상",
@@ -23,21 +39,5 @@ var jejuNewsData = [
     {
         "title": "[팩트체크K] “정부, 교회·보수만 골라 검사, 확진자 늘린다”고?",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4522040&ref=A"
-    },
-    {
-        "title": "제주도, 김포 확진자 기내 접촉 전남도민 감염소식에 '초긴장'",
-        "link": "http://yna.kr/AKR20200819040200056?did=1195m"
-    },
-    {
-        "title": "[여론조사] 코로나19 방역 방해 \"구상권 청구 찬성\" 79.7%",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002667952&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "아이콘루프-제주도, 코로나 방문인증에 블록체인 DID 적용한다",
-        "link": "http://www.inews24.com/view/1291971"
-    },
-    {
-        "title": "제주도, 서울 사랑제일교회 관련자 13명 전원 음성",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=327913"
     }
 ];
