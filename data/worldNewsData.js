@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     },
     {
-        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
-        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
+        "title": "Endless first wave: how Indonesia failed to control coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "Why Trump shouldn’t compare the US’s Covid-19 outbreak to New Zealand’s",
-        "link": "https://www.vox.com/future-perfect/2020/8/20/21377225/trump-coronavirus-covid-new-zealand"
+        "title": "New Zealand PM Jacinda Ardern wants to eliminate coronavirus. Is she setting herself up to fail?",
+        "link": "https://www.cnn.com/2020/08/20/asia/new-zealand-coronavirus-bargain-intl-hnk/index.html"
     }
 ];
