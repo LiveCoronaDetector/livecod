@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
     },
     {
-        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
-        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
+        "title": "Live updates: Coronavirus cases rise in young people in Europe as U.S. colleges try to crack down on parties",
+        "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
         "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
     },
     {
-        "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
-        "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
+        "title": "New Zealand PM Jacinda Ardern wants to eliminate coronavirus. Is she setting herself up to fail?",
+        "link": "https://www.cnn.com/2020/08/20/asia/new-zealand-coronavirus-bargain-intl-hnk/index.html"
     },
     {
         "title": "School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.",
         "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
     },
     {
-        "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
-        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
-    },
-    {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "New Zealand PM Jacinda Ardern wants to eliminate coronavirus. Is she setting herself up to fail?",
-        "link": "https://www.cnn.com/2020/08/20/asia/new-zealand-coronavirus-bargain-intl-hnk/index.html"
+        "title": "Why Trump shouldn’t compare the US’s Covid-19 outbreak to New Zealand’s",
+        "link": "https://www.vox.com/future-perfect/2020/8/20/21377225/trump-coronavirus-covid-new-zealand"
+    },
+    {
+        "title": "European countries see highest daily cases in months",
+        "link": "https://uk.news.yahoo.com/france-germany-italy-and-spain-see-highest-daily-coronavirus-cases-since-lifting-lockdown-increasing-second-wave-fears-162315200.html"
     }
 ];
