@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5880957_32633.html"
     },
     {
+        "title": "[단독] '노래방 도우미'가 확진자에?...유흥업계 '발칵' VS 보건당국 '느긋'",
+        "link": "https://www.pressian.com/pages/articles/2020082206272526037?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "WHO 사무총장 \"코로나19 2년 내 종식 희망\"",
         "link": "http://yna.kr/AKR20200822002700109?did=1195m"
     },
     {
         "title": "\"코로나19 방역 악의적 방해하는 자 구속수사…법정 최고형 구형\"",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000164"
-    },
-    {
-        "title": "삼성·LG 수도권 사업장서 코로나19 확진자 연이어 발생",
-        "link": "http://www.fnnews.com/news/202008211513243023"
     }
 ];

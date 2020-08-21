@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "When should I get my flu shot this year? Everything to know about flu season during the coronavirus pandemic",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/21/flu-shot-during-covid-what-know-2020-2021-season/3392376001/"
+        "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
+        "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     },
     {
         "title": "WHO warns coronavirus vaccine alone won't end pandemic: 'We cannot go back to the way things were'",
