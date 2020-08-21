@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     },
     {
-        "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
+        "title": "[종합] 제주도 '사회적 거리두기' 2단계 돌입...공공기관 행사 제한",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425414"
     },
     {
-        "title": "'코로나 예방' K리그 무관중 경기 확산…전북-제주도 동참",
-        "link": "http://sports.chosun.com/news/ntype.htm?id=202008220100188260012597&servicedate=20200821"
+        "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
     }
 ];
