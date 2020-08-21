@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01918806625869616"
     },
     {
+        "title": "오만석 코로나19 '음성' 판정 [전문]",
+        "link": "https://www.hankyung.com/entertainment/article/202008210135H"
+    },
+    {
+        "title": "서울서 신규 확진자 126명 발생...병상 가동률 76.7%",
+        "link": "http://www.fnnews.com/news/202008211117425929"
+    },
+    {
         "title": "사랑제일교회 관련 확진자 어제까지 739명…광화문집회는 60명(종합)",
         "link": "http://yna.kr/AKR20200821065451530?did=1195m"
-    },
-    {
-        "title": "[속보] 경찰청 본청서 코로나 첫 확진자 발생…일부 층 폐쇄",
-        "link": "https://www.hankyung.com/life/article/2020082104127"
-    },
-    {
-        "title": "경찰청 본청도 뚫렸다...코로나19 첫 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z6NY90SXT"
-    },
-    {
-        "title": "\"나는 코로나 확진자\"... 지하철서 마스크 안 쓰고 난동",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101316.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "경찰청 본청 코로나19 첫 확진자 발생…13층 폐쇄",
         "link": "https://news.imaeil.com/Society/2020082109460133961"
     },
     {
-        "title": "현직 판사 '첫' 코로나 확진자 발생…전주지법 40대 부장판사",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020082110202586775"
+        "title": "삼성·LG 직원 잇단 코로나19 확진···비상대응",
+        "link": "https://www.sedaily.com/NewsView/1Z6NYPNTSB"
     },
     {
-        "title": "[속보]원주 무실동 체조교실 확진자들 가족 4명 코로나19 확진",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000147"
+        "title": "\"나는 코로나 확진자\"... 지하철서 마스크 안 쓰고 난동",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101316.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "전북 62·63·64·65번 확진자 발생…전주지법 판사도 확진(종합)",
-        "link": "http://www.fnnews.com/news/202008211108035158"
+        "title": "경찰청서도 첫 확진자, 1개층 폐쇄…\"동선 파악 중\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02092646625869616"
+    },
+    {
+        "title": "트럼프, 한국 코로나 재확산 언급하며 \"한국도 끝났어\"",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101933.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
