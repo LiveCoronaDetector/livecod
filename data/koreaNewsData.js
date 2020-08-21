@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01918806625869616"
     },
     {
-        "title": "[속보] 경찰청 서울 본청 뚫렸다…코로나 첫 확진자 발생",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008210102&t=NN"
-    },
-    {
         "title": "수도권 삼성·LG 직원 잇단 코로나19 확진…'방역 비상'(종합)",
         "link": "http://yna.kr/AKR20200821041651061?did=1195m"
     },
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202008211144052960"
     },
     {
-        "title": "靑, 코로나19 비상대응체제 가동…\"일일 긴급대응회의 개최\"(상보)",
-        "link": "https://view.asiae.co.kr/article/2020082115455251228"
+        "title": "\"코로나19 방역 악의적 방해하는 자 구속수사…법정 최고형 구형\"",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000164"
     },
     {
-        "title": "경찰청 본청도 뚫렸다...코로나19 첫 확진자 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z6NY90SXT"
+        "title": "[속보] 경찰청 서울 본청 뚫렸다…코로나 첫 확진자 발생",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008210102&t=NN"
     },
     {
-        "title": "전주지법 부장판사 코로나19 확진…현직판사 첫 사례",
-        "link": "http://www.hani.co.kr/arti/area/honam/958756.html"
+        "title": "'10초의 침묵' 文 \"코로나 최대 위기...방역 방해시 공권력 행사\"[전문]",
+        "link": "http://www.fnnews.com/news/202008211404413796"
     },
     {
         "title": "트럼프, 한국 코로나 재확산 언급하며 \"한국도 끝났어\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101933.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "[단독] 저축은행업계 1위 SBI 영업점 직원도 코로나 확진",
+        "link": "https://www.hankyung.com/economy/article/202008212151i"
     }
 ];

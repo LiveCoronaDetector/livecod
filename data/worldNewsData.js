@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/20/latest_news/1597907383_419917.html"
+        "link": "https://en.as.com/en/2020/08/21/latest_news/1597993335_918991.html"
     },
     {
         "title": "Coronavirus live news: Irish minister resigns over lockdown breach; Ardern hits back at Trump",
@@ -17,16 +17,20 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     },
     {
-        "title": "Endless first wave: how Indonesia failed to control coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
+        "title": "Covid-19 Hits India’s Already Faltering Consumers Hardest",
+        "link": "https://www.wsj.com/articles/covid-19-hits-indias-already-faltering-consumers-hardest-11597921200"
     },
     {
-        "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
-        "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
+        "title": "Golf gate: Agriculture Minister Dara Calleary resigns",
+        "link": "https://www.youtube.com/watch?v=gg4-W2lIv3I"
     },
     {
-        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
-        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
+        "title": "School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.",
+        "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
+    },
+    {
+        "title": "Ireland's EU commissioner, minister under fire for attending golf event amid COVID restrictions",
+        "link": "https://www.msn.com/en-us/news/world/irelands-eu-commissioner-minister-under-fire-for-attending-golf-event-amid-covid-restrictions/ar-BB18cQeS?li=BBnb7Kz"
     },
     {
         "title": "China defends Wuhan's massive pool party",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "European countries see highest daily cases in months",
         "link": "https://uk.news.yahoo.com/france-germany-italy-and-spain-see-highest-daily-coronavirus-cases-since-lifting-lockdown-increasing-second-wave-fears-162315200.html"
-    },
-    {
-        "title": "As U.S. Schools Move to Reopen Despite Covid-19, Teachers Threaten to Strike",
-        "link": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html"
     }
 ];
