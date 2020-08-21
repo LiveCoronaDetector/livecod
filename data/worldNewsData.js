@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/21/latest_news/1597993335_918991.html"
     },
     {
-        "title": "Coronavirus live news: Irish minister resigns over lockdown breach; Ardern hits back at Trump",
+        "title": "Coronavirus live news: France sees biggest jump in cases since May; Irish minister resigns over lockdown breach",
         "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
     },
     {
@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
     },
     {
-        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
-        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
+        "title": "Live updates: Coronavirus cases rise in young people in Europe as U.S. colleges try to crack down on parties",
+        "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Covid-19 Hits India’s Already Faltering Consumers Hardest",
         "link": "https://www.wsj.com/articles/covid-19-hits-indias-already-faltering-consumers-hardest-11597921200"
     },
     {
-        "title": "Golf gate: Agriculture Minister Dara Calleary resigns",
-        "link": "https://www.youtube.com/watch?v=gg4-W2lIv3I"
+        "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
+        "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.",
-        "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
-    },
-    {
-        "title": "Ireland's EU commissioner, minister under fire for attending golf event amid COVID restrictions",
-        "link": "https://www.msn.com/en-us/news/world/irelands-eu-commissioner-minister-under-fire-for-attending-golf-event-amid-covid-restrictions/ar-BB18cQeS?li=BBnb7Kz"
+        "title": "College Officials Clamp Down on Student Behavior Over Covid-19 Fears",
+        "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "European countries see highest daily cases in months",
-        "link": "https://uk.news.yahoo.com/france-germany-italy-and-spain-see-highest-daily-coronavirus-cases-since-lifting-lockdown-increasing-second-wave-fears-162315200.html"
+        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
+        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
+    },
+    {
+        "title": "At least 15 states reporting Covid cases at colleges and universities",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/h_1a78846f0fc3b30b40da31eeed7d565d"
     }
 ];

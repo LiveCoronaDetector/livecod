@@ -17,27 +17,27 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4033025"
     },
     {
-        "title": "제주, 27번 확진자 접촉자 80명 '초비상'",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=127583"
-    },
-    {
         "title": "전주지법 부장판사 코로나 확진… 현직 판사 감염 첫 사례(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101407.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "제주 코로나19 27번째 확진자 나와…제주도 역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
-    },
-    {
-        "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
     },
     {
         "title": "제주 28번 코로나 확진자 동선 공개...접촉자 '112명' 확인",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425397"
     },
     {
-        "title": "'코로나 예방' K리그 무관중 경기 확산…전북-제주도 동참",
-        "link": "http://sports.chosun.com/news/ntype.htm?id=202008220100188260012597&servicedate=20200821"
+        "title": "골프장 캐디 제주 28번 확진자 접촉자 112명…“근무 중 마스크 미착용”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4522585&ref=A"
+    },
+    {
+        "title": "제주, 27번 확진자 접촉자 80명 '초비상'",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=127583"
+    },
+    {
+        "title": "제주도, 거리두기 2단계로 격상 “수도권 인구 유입 多”",
+        "link": "https://www.donga.com/news/article/all/20200821/102592812/2"
+    },
+    {
+        "title": "<속보> 제주도 코로나19 확진자 추가..27번째 코로나19 확진자 발생",
+        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/11090?feed=na"
     }
 ];
