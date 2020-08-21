@@ -5,20 +5,28 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349425"
     },
     {
-        "title": "[속보] 코로나 신규 확진 324명... 제주 제외 전국 16개 시도서 발생",
-        "link": "https://hankookilbo.com/News/Read/A2020082110070001816?did=NA"
+        "title": "코로나 확진 324명…방역시계 신천지 때로 돌아갔다(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101409.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주도내 27번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020082110141479873?utm_source=naver&utm_medium=search"
+        "title": "[속보] 코로나19 어제 324명 급증… 전국 확산 양상",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014930310&code=61121111&cp=nv"
     },
     {
         "title": "제주 코로나19 27번째 확진자 나와…제주도 역학조사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     },
     {
-        "title": "[속보] 코로나19 어제 324명 급증… 전국 확산 양상",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014930310&code=61121111&cp=nv"
+        "title": "제주도내 27번째 확진자 부모 21일 확진 판정",
+        "link": "https://www.pressian.com/pages/articles/2020082110351208155?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "[속보] 코로나 신규 확진 324명... 제주 제외 전국 16개 시도서 발생",
+        "link": "https://hankookilbo.com/News/Read/A2020082110070001816?did=NA"
+    },
+    {
+        "title": "제주도내 27번째 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082110141479873?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008201208198929"
     },
     {
-        "title": "제주 27번 확진자 가족 코로나19 추가 확진…접촉자 42명",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4254798"
-    },
-    {
         "title": "\"전광훈 교회 확진자, 왜 도주할까? 답은 유튜브에\"",
         "link": "https://www.nocutnews.co.kr/news/5398292"
-    },
-    {
-        "title": "전국 251개 해수욕장 폐장…\"코로나 확산에 방문 자제 부탁\"",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=404359&class=33&grp="
     }
 ];
