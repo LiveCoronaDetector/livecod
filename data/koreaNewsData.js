@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200821041651061?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규확진자 324명... 국내발생 315명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008211017011&code=940100"
-    },
-    {
         "title": "[단독]제주 중문골프장 캐디 1명 코로나19 확진 판정",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01918806625869616"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "'10초의 침묵' 文 \"코로나 최대 위기...방역 방해시 공권력 행사\"[전문]",
         "link": "http://www.fnnews.com/news/202008211404413796"
+    },
+    {
+        "title": "[속보] 코로나19 신규확진자 324명... 국내발생 315명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008211017011&code=940100"
     },
     {
         "title": "경남, 광화문 집회 확진자 또 1명 추가, 총 4명(종합2보)",
