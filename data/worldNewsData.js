@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
     },
     {
-        "title": "Coronavirus: Youthful Pakistan appears to avoid worst of pandemic",
-        "link": "https://www.bbc.com/news/world-asia-53742214"
+        "title": "Century-old vaccine limits COVID spread, so bring it back, urge Israeli experts",
+        "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
     },
     {
         "title": "Live updates: Coronavirus cases rise in young people in Europe as U.S. colleges try to crack down on parties",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
+        "title": "India's coronavirus cases approach three million: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/200821003718944.html"
+    },
+    {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
         "title": "France: Virus cases spike to 4,700 in a day",
         "link": "https://www.bbc.com/news/world-europe-53856609"
-    },
-    {
-        "title": "At least 15 states reporting Covid cases at colleges and universities",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/h_1a78846f0fc3b30b40da31eeed7d565d"
     }
 ];

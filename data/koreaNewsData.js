@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/958759.html"
     },
     {
+        "title": "경남, 광화문 집회 확진자 또 1명 추가, 총 4명(종합2보)",
+        "link": "http://www.newsis.com/view/?id=NISX20200821_0001137922&cID=10812&pID=10800"
+    },
+    {
         "title": "[단독] 저축은행업계 1위 SBI 영업점 직원도 코로나 확진",
         "link": "https://www.hankyung.com/economy/article/202008212151i"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 경찰청 서울 본청 뚫렸다…코로나 첫 확진자 발생",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008210102&t=NN"
-    },
-    {
-        "title": "'10초의 침묵' 文 \"코로나 최대 위기...방역 방해시 공권력 행사\"[전문]",
-        "link": "http://www.fnnews.com/news/202008211404413796"
     }
 ];
