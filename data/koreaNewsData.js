@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/958759.html"
     },
     {
-        "title": "광복절 집회 투입 경찰 코로나 검사 완료…확진 5명(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5398880"
+        "title": "\"코로나19 방역 악의적 방해하는 자 구속수사…법정 최고형 구형\"",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000164"
     },
     {
-        "title": "[종합] 일 평균 확진자 수 246명…거리두기 3단계 격상 두고 정부 고심",
-        "link": "https://view.asiae.co.kr/article/2020082122261362682"
+        "title": "광복절 집회 투입 경찰 코로나 검사 완료…확진 5명(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5398880"
     }
 ];
