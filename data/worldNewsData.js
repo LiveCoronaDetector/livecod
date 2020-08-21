@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
-        "title": "Spain sets new post-lockdown coronavirus cases record: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/worldwide-coronavirus-cases-22-million-live-updates-200818232532477.html"
+        "title": "Century-old vaccine limits COVID spread, so bring it back, urge Israeli experts",
+        "link": "https://www.timesofisrael.com/century-old-vaccine-limits-covid-spread-so-bring-it-back-say-israeli-experts/"
     },
     {
         "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
-        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
+        "title": "At least 15 states reporting Covid cases at colleges and universities",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/h_1a78846f0fc3b30b40da31eeed7d565d"
     },
     {
         "title": "European countries see highest daily cases in months",
