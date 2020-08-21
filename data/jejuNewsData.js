@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "'코로나 예방' K리그 무관중 경기 확산…전북-제주도 동참",
-        "link": "http://sports.chosun.com/news/ntype.htm?id=202008220100188260012597&servicedate=20200821"
+        "title": "제주 28번 코로나19 확진자, '슈퍼 전파자' 되나",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325394"
     },
     {
-        "title": "[속보] 코로나19 어제 324명 급증… 전국 확산 양상",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014930310&code=61121111&cp=nv"
+        "title": "'코로나 예방' K리그 무관중 경기 확산…전북-제주도 동참",
+        "link": "http://sports.chosun.com/news/ntype.htm?id=202008220100188260012597&servicedate=20200821"
     }
 ];

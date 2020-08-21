@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01918806625869616"
     },
     {
+        "title": "[속보] 경찰청 서울 본청 뚫렸다…코로나 첫 확진자 발생",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008210102&t=NN"
+    },
+    {
         "title": "수도권 삼성·LG 직원 잇단 코로나19 확진…'방역 비상'(종합)",
         "link": "http://yna.kr/AKR20200821041651061?did=1195m"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008211017011&code=940100"
     },
     {
-        "title": "경찰청서도 확진자 발생…경찰관 잇따른 격리에 치안 우려",
-        "link": "http://www.hani.co.kr/arti/society/society_general/958759.html"
-    },
-    {
         "title": "\"나 코로나 확진자야\"...지하철서 마스크 안 쓰고 난동",
         "link": "https://www.ytn.co.kr/_ln/0103_202008211144052960"
     },
     {
-        "title": "현직 판사 '첫' 코로나 확진자 발생…전주지법 40대 부장판사",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020082110202586775"
+        "title": "靑, 코로나19 비상대응체제 가동…\"일일 긴급대응회의 개최\"(상보)",
+        "link": "https://view.asiae.co.kr/article/2020082115455251228"
+    },
+    {
+        "title": "경찰청 본청도 뚫렸다...코로나19 첫 확진자 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z6NY90SXT"
+    },
+    {
+        "title": "전주지법 부장판사 코로나19 확진…현직판사 첫 사례",
+        "link": "http://www.hani.co.kr/arti/area/honam/958756.html"
     },
     {
         "title": "트럼프, 한국 코로나 재확산 언급하며 \"한국도 끝났어\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101933.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "사랑제일교회 관련 확진자 어제까지 739명…12개 시·도서 나와",
-        "link": "http://yna.kr/AKR20200821065400530?did=1195m"
-    },
-    {
-        "title": "'10초의 침묵' 文 \"코로나 최대 위기...방역 방해시 공권력 행사\"[전문]",
-        "link": "http://www.fnnews.com/news/202008211404413796"
     }
 ];

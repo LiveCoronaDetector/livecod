@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.",
-        "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
+        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
+        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
     },
     {
         "title": "China defends Wuhan's massive pool party",
