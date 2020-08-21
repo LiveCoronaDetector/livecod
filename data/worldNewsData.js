@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
     },
     {
-        "title": "France: Virus cases spike to 4,700 in a day",
-        "link": "https://www.bbc.com/news/world-europe-53856609"
+        "title": "European countries see highest daily cases in months",
+        "link": "https://uk.news.yahoo.com/france-germany-italy-and-spain-see-highest-daily-coronavirus-cases-since-lifting-lockdown-increasing-second-wave-fears-162315200.html"
     }
 ];
