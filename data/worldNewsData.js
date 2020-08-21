@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-americans-tablighi-jamaat/2020/08/20/9e2ceae4-ddb4-11ea-b4f1-25b762cdbbf4_story.html"
     },
     {
-        "title": "Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens",
-        "link": "https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html"
+        "title": "China says Wuhan water park pool party was 'payback' after coronavirus, calls critics 'sour grapes'",
+        "link": "https://www.foxnews.com/world/china-wuhan-water-park-pool-party-coronavirus"
     },
     {
-        "title": "Effectively immediately, all NH restaurants can operate at 100% capacity",
-        "link": "https://www.wmur.com/article/new-hampshire-coronavirus-update-august-21-2020/33667169"
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     },
     {
         "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
         "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     },
     {
-        "title": "WHO warns coronavirus vaccine alone won't end pandemic: 'We cannot go back to the way things were'",
-        "link": "https://www.cnbc.com/2020/08/21/who-warns-a-coronavirus-vaccine-alone-will-not-end-pandemic.html"
-    },
-    {
         "title": "What you need to know about coronavirus on Friday, August 21",
         "link": "https://www.cnn.com/2020/08/21/world/coronavirus-newsletter-08-21-20-intl/index.html"
+    },
+    {
+        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
+        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     }
 ];
