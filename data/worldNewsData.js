@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/21/latest_news/1597993335_918991.html"
     },
     {
-        "title": "Coronavirus live news: France sees biggest jump in cases since May; Irish minister resigns over lockdown breach",
+        "title": "Coronavirus live news: concern over cases at Berlin schools; Spain health chief warns over infections rise",
         "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "India's coronavirus cases approach three million: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/200821003718944.html"
+        "title": "These Americans came to India to deepen their faith. They’ve been detained, quarantined and prosecuted.",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-americans-tablighi-jamaat/2020/08/20/9e2ceae4-ddb4-11ea-b4f1-25b762cdbbf4_story.html"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
     },
     {
-        "title": "Global report: WHO in talks with Russia over Covid-19 vaccine",
-        "link": "https://www.theguardian.com/world/2020/aug/20/global-report-who-in-talks-with-russia-over-covid-19-vaccine"
+        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
+        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
     },
     {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
-        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
+        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
+        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     }
 ];
