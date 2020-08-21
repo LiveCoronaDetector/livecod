@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200821041651061?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 300명대로 급증...166일만 첫 300명대",
-        "link": "https://www.sedaily.com/NewsView/1Z6NYRSCFZ"
+        "title": "경찰청 본청 코로나19 첫 확진자 발생…13층 폐쇄",
+        "link": "https://news.imaeil.com/Society/2020082109460133961"
     },
     {
-        "title": "[속보] 경찰청 본청서 코로나 첫 확진자 발생…일부 층 폐쇄",
-        "link": "https://www.hankyung.com/life/article/2020082104127"
+        "title": "[속보] 코로나19 신규확진자 324명... 국내발생 315명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008211017011&code=940100"
+    },
+    {
+        "title": "[단독] 주택금융공사 시험장서 확진자…8일부터 증상, 쇼핑몰도 방문",
+        "link": "http://news.mk.co.kr/newsRead.php?no=860119&year=2020"
     },
     {
         "title": "경찰청서도 확진자 발생…경찰관 잇따른 격리에 치안 우려",
@@ -25,16 +29,12 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940994&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "서울서 신규 확진자 126명 발생...병상 가동률 76.7%",
-        "link": "http://www.fnnews.com/news/202008211117425929"
+        "title": "현직 판사 '첫' 코로나 확진자 발생…전주지법 40대 부장판사",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020082110202586775"
     },
     {
         "title": "트럼프, 한국 코로나 재확산 언급하며 \"한국도 끝났어\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101933.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "경찰청 본청 코로나19 첫 확진자 발생…13층 폐쇄",
-        "link": "https://news.imaeil.com/Society/2020082109460133961"
     },
     {
         "title": "사랑제일교회 관련 확진자 어제까지 739명…12개 시·도서 나와",

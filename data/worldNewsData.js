@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
     },
     {
-        "title": "Why Trump shouldn’t compare the US’s Covid-19 outbreak to New Zealand’s",
-        "link": "https://www.vox.com/future-perfect/2020/8/20/21377225/trump-coronavirus-covid-new-zealand"
+        "title": "New Zealand PM Jacinda Ardern wants to eliminate coronavirus. Is she setting herself up to fail?",
+        "link": "https://www.cnn.com/2020/08/20/asia/new-zealand-coronavirus-bargain-intl-hnk/index.html"
     },
     {
         "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "New Zealand defers lockdown decision as it reports new COVID-19 cases",
-        "link": "https://www.swissinfo.ch/eng/reuters/nz-pm-ardern-defers-lockdown-decision-but-says-good-progress-made/45982136"
+        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
+        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
     },
     {
         "title": "European countries see highest daily cases in months",
