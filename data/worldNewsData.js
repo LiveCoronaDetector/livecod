@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53847699"
     },
     {
-        "title": "Coronavirus live news: Lebanon imposes partial lockdown after Beirut explosion; Spain health chief warns over infections rise",
+        "title": "Coronavirus live news: Lebanon imposes partial lockdown after Beirut blast; India nearing 3m cases",
         "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
     },
     {
