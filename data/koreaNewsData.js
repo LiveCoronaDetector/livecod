@@ -13,16 +13,24 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6NYRSCFZ"
     },
     {
-        "title": "코로나 신규 확진 300명대로…수도권 집단감염에 8일간 1900명[종합]",
-        "link": "https://www.hankyung.com/life/article/2020082106987"
-    },
-    {
         "title": "[속보] 경찰청 본청서 코로나 첫 확진자 발생…일부 층 폐쇄",
         "link": "https://www.hankyung.com/life/article/2020082104127"
     },
     {
+        "title": "경찰청서도 확진자 발생…경찰관 잇따른 격리에 치안 우려",
+        "link": "http://www.hani.co.kr/arti/society/society_general/958759.html"
+    },
+    {
         "title": "\"나 코로나19 확진자야\" 지하철서 마스크 안 쓰고 난동",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940994&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "서울서 신규 확진자 126명 발생...병상 가동률 76.7%",
+        "link": "http://www.fnnews.com/news/202008211117425929"
+    },
+    {
+        "title": "경찰청 본청 코로나19 첫 확진자 발생…13층 폐쇄",
+        "link": "https://news.imaeil.com/Society/2020082109460133961"
     },
     {
         "title": "트럼프, 한국 코로나 재확산 언급하며 \"한국도 끝났어\"",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "사랑제일교회 관련 확진자 어제까지 739명…12개 시·도서 나와",
         "link": "http://yna.kr/AKR20200821065400530?did=1195m"
-    },
-    {
-        "title": "전북 62·63·64·65번 확진자 발생…전주지법 판사도 확진(종합)",
-        "link": "http://www.fnnews.com/news/202008211108035158"
-    },
-    {
-        "title": "[단독]서울 강동구 삼성물산 사옥 셧다운…협력사 직원 코로나 확진",
-        "link": "https://www.news1.kr/articles/?4033097"
     }
 ];
