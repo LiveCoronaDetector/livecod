@@ -5,32 +5,28 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/21/latest_news/1597993335_918991.html"
     },
     {
-        "title": "Coronavirus live news: WHO hopes crisis can be over within two years; Italy records biggest daily infection rise since May",
-        "link": "https://www.theguardian.com/world/live/2020/aug/21/coronavirus-live-news-latin-america-deaths-near-250000-russia-to-start-mass-vaccine-trials"
+        "title": "Live updates: Infections linked to huge Sturgis motorcycle rally are spreading",
+        "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Youthful Pakistan appears to avoid worst of pandemic",
         "link": "https://www.bbc.com/news/world-asia-53742214"
     },
     {
-        "title": "Live updates: Infections linked to huge Sturgis motorcycle rally are spreading",
-        "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus: Croatia off safe travel list and France cases spike",
+        "link": "https://www.bbc.com/news/uk-53854712"
     },
     {
-        "title": "Hyderabad cops file charge sheet against 60 foreign Tablighi Jamaat men",
-        "link": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-cops-file-charge-sheet-against-60-foreign-tablighi-jamaat-men/articleshow/77665786.cms"
+        "title": "These Americans came to India to deepen their faith. They’ve been detained, quarantined and prosecuted.",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-americans-tablighi-jamaat/2020/08/20/9e2ceae4-ddb4-11ea-b4f1-25b762cdbbf4_story.html"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "College Officials Clamp Down on Student Behavior Over Covid-19 Fears",
-        "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
-    },
-    {
-        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
-        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
+        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
+        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
     },
     {
         "title": "Mutated form of coronavirus may be more contagious, but less deadly, experts say",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "At least 15 states reporting Covid cases at colleges and universities",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-20-20-intl/h_1a78846f0fc3b30b40da31eeed7d565d"
+    },
+    {
+        "title": "China defends Wuhan's massive pool party",
+        "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     }
 ];
