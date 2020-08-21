@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000164"
     },
     {
-        "title": "트럼프, 한국 코로나 재확산 언급하며 \"한국도 끝났어\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101933.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "WHO 사무총장 \"코로나19 2년 내 종식 희망\"",
+        "link": "http://yna.kr/AKR20200822002700109?did=1195m"
     }
 ];

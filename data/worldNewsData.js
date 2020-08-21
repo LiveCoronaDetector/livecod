@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53742214"
     },
     {
-        "title": "Coronavirus: Croatia off safe travel list and France cases spike",
-        "link": "https://www.bbc.com/news/uk-53854712"
+        "title": "With Coronavirus Cases Surging, Europe Braces for New Phase in Pandemic",
+        "link": "https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html"
     },
     {
         "title": "These Americans came to India to deepen their faith. They’ve been detained, quarantined and prosecuted.",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl/index.html"
+        "title": "China defends Wuhan's massive pool party",
+        "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
-        "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
+        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
+        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
     },
     {
         "title": "WHO warns coronavirus vaccine alone won't end pandemic: 'We cannot go back to the way things were'",
         "link": "https://www.cnbc.com/2020/08/21/who-warns-a-coronavirus-vaccine-alone-will-not-end-pandemic.html"
     },
     {
-        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
-        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
+        "title": "Irish minister resigns over golf dinner that flouted Covid-19 rules",
+        "link": "https://www.theguardian.com/world/2020/aug/21/irish-minister-dara-calleary-resigns-over-golf-dinner-that-may-have-breached-covid-19-regulations"
     }
 ];
