@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "CDC Says Surge in Sun Belt Easing, Deaths to Slow: Virus Update",
-        "link": "https://finance.yahoo.com/news/florida-infection-rate-falls-europe-145447683.html"
+        "title": "Coronavirus cases surge in Germany | Coronavirus Update",
+        "link": "https://www.youtube.com/watch?v=5oiSIQc7JXQ"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
