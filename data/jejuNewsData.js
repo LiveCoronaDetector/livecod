@@ -21,16 +21,16 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4033025"
     },
     {
-        "title": "제주, 27번 확진자 접촉자 80명 '초비상'",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=127583"
-    },
-    {
         "title": "전주지법 부장판사 코로나 확진… 현직 판사 감염 첫 사례(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101407.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "제주 코로나19 27번째 확진자 나와…제주도 역학조사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
+    },
+    {
+        "title": "제주도내 27번째 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082110141479873?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
