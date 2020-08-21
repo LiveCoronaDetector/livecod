@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     },
     {
-        "title": "[종합] 제주도 '사회적 거리두기' 2단계 돌입...공공기관 행사 제한",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425414"
-    },
-    {
         "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[종합] 제주도 '사회적 거리두기' 2단계 돌입...공공기관 행사 제한",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425414"
     }
 ];

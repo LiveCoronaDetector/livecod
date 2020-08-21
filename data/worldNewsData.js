@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53742214"
     },
     {
-        "title": "Live updates: Coronavirus cases rise in young people in Europe as U.S. colleges try to crack down on parties",
+        "title": "Live updates: Infections linked to huge Sturgis motorcycle rally are spreading",
         "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
@@ -23,6 +23,10 @@ var worldNewsData = [
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl/index.html"
     },
     {
         "title": "College Officials Clamp Down on Student Behavior Over Covid-19 Fears",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
-    },
-    {
-        "title": "WHO warns young people are emerging as main spreaders of the coronavirus",
-        "link": "https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html"
     }
 ];
