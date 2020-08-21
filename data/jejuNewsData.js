@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425397"
     },
     {
+        "title": "서귀포 중문골프장 캐디 코로나19 확진자 접촉 112명",
+        "link": "https://www.news1.kr/articles/?4033496"
+    },
+    {
         "title": "'코로나 예방' K리그 무관중 경기 확산…전북-제주도 동참",
         "link": "http://sports.chosun.com/news/ntype.htm?id=202008220100188260012597&servicedate=20200821"
     },
     {
-        "title": "제주, 23일 안산전부터 무관중 전환…코로나19 확산 방지 차원",
-        "link": "https://www.news1.kr/articles/?4033025"
-    },
-    {
-        "title": "‘N차 감염’ 비상…제주도 등 전국 곳곳 거리두기 2단계 시행",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993704?division=NAVER"
+        "title": "홈 3연전 무관중 경기 결정… 제주도 문 닫는다",
+        "link": "http://www.besteleven.com/Country/news_01_view.asp?iBoard=142&iIDX=129076"
     }
 ];

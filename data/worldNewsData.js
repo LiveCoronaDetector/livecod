@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/21/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "These Americans came to India to deepen their faith. They’ve been detained, quarantined and prosecuted.",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-americans-tablighi-jamaat/2020/08/20/9e2ceae4-ddb4-11ea-b4f1-25b762cdbbf4_story.html"
+        "title": "Coronavirus Outbreak: Live Updates and News for Aug. 21, 2020",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3ffad4d0-e3aa-11ea-ae5b-7dbd286592a8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0yMC9jZGMtc2F5cy1zdW4tYmVsdC1jYXNlcy1lYXNlLWV1cm9wZS1maWdodHMtc3Bpa2UtdmlydXMtdXBkYXRl"
     },
     {
         "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
         "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl/index.html"
     },
     {
         "title": "College Officials Clamp Down on Student Behavior Over Covid-19 Fears",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
-    },
-    {
-        "title": "Germany, Spain record highest daily coronavirus infection rate since April as cases surge across Europe",
-        "link": "https://www.cnbc.com/2020/08/20/coronavirus-germany-spain-record-highest-daily-cases-since-april.html"
     }
 ];
