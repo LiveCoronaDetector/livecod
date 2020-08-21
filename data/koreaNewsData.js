@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008211117425929"
     },
     {
-        "title": "경찰청 본청 코로나19 첫 확진자 발생…13층 폐쇄",
-        "link": "https://news.imaeil.com/Society/2020082109460133961"
-    },
-    {
         "title": "트럼프, 한국 코로나 재확산 언급하며 \"한국도 끝났어\"",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101933.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "경찰청 본청 코로나19 첫 확진자 발생…13층 폐쇄",
+        "link": "https://news.imaeil.com/Society/2020082109460133961"
     },
     {
         "title": "사랑제일교회 관련 확진자 어제까지 739명…12개 시·도서 나와",

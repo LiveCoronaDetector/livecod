@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-indonesia-insight/endless-first-wave-how-indonesia-failed-to-control-coronavirus-idUSKCN25G02J"
     },
     {
-        "title": "New Zealand PM Jacinda Ardern wants to eliminate coronavirus. Is she setting herself up to fail?",
-        "link": "https://www.cnn.com/2020/08/20/asia/new-zealand-coronavirus-bargain-intl-hnk/index.html"
+        "title": "Why Trump shouldn’t compare the US’s Covid-19 outbreak to New Zealand’s",
+        "link": "https://www.vox.com/future-perfect/2020/8/20/21377225/trump-coronavirus-covid-new-zealand"
     },
     {
-        "title": "School Nurses Are on the Coronavirus Front Lines. But Many Schools Don’t Have One.",
-        "link": "https://www.nytimes.com/2020/08/20/us/schools-reopening-nurses-covid.html"
+        "title": "Tampa Bay districts hope to hire school nurses before the start of the school year",
+        "link": "https://www.youtube.com/watch?v=-4jcB2VWhDA"
     },
     {
         "title": "China defends Wuhan's massive pool party",
         "link": "https://www.youtube.com/watch?v=GqDIw_B6VF0"
     },
     {
-        "title": "Why Trump shouldn’t compare the US’s Covid-19 outbreak to New Zealand’s",
-        "link": "https://www.vox.com/future-perfect/2020/8/20/21377225/trump-coronavirus-covid-new-zealand"
+        "title": "New Zealand defers lockdown decision as it reports new COVID-19 cases",
+        "link": "https://www.swissinfo.ch/eng/reuters/nz-pm-ardern-defers-lockdown-decision-but-says-good-progress-made/45982136"
     },
     {
         "title": "European countries see highest daily cases in months",
