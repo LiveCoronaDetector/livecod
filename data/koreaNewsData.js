@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020082106987"
     },
     {
-        "title": "[속보] 경찰청 서울 본청 뚫렸다…코로나 첫 확진자 발생",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008210102&t=NN"
+        "title": "[단독]제주 중문골프장 캐디 1명 코로나19 확진 판정",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01918806625869616"
     },
     {
         "title": "오만석, 코로나19 음성 판정...\"방역 절차에 따라 자가격리 중\" (공식)",
         "link": "https://www.ytn.co.kr/_sn/0117_202008210911367645"
     },
     {
+        "title": "[속보] 경찰청 서울 본청 뚫렸다…코로나 첫 확진자 발생",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008210102&t=NN"
+    },
+    {
+        "title": "경찰청에 코로나19 첫 확진자 발생…청사 13층 폐쇄",
+        "link": "http://yna.kr/AKR20200821040300004?did=1195m"
+    },
+    {
+        "title": "삼성·LG 직원 잇단 코로나19 확진···비상대응",
+        "link": "https://www.sedaily.com/NewsView/1Z6NYPNTSB"
+    },
+    {
         "title": "경찰청서도 첫 확진자, 1개층 폐쇄…\"동선 파악 중\"(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02092646625869616"
-    },
-    {
-        "title": "수도권 삼성·LG 직원 잇단 코로나19 확진…'방역 비상'(종합)",
-        "link": "http://yna.kr/AKR20200821041651061?did=1195m"
-    },
-    {
-        "title": "경찰청 본청 코로나19 첫 확진자 발생…13층 폐쇄",
-        "link": "https://news.imaeil.com/Society/2020082109460133961"
     },
     {
         "title": "\"나는 코로나 확진자\"... 지하철서 마스크 안 쓰고 난동",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101316.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주서 27번째 코로나 확진자의 가족도 확진",
-        "link": "http://www.hani.co.kr/arti/area/jeju/958734.html"
+        "title": "[종합] 전주지법 부장판사 코로나 확진… 21일 모든 재판 연기",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/21/2020082101888.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[속보]원주 무실동 체조교실 확진자들 가족 4명 코로나19 확진",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220082000147"
-    },
-    {
-        "title": "신규 확진자 324명…'신천지' 이후 최대(종합)",
-        "link": "https://view.asiae.co.kr/article/2020082111153077372"
     }
 ];
