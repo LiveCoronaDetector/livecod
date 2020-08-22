@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993744?division=NAVER"
     },
     {
-        "title": "충남 아산 삼성디스플레이 공사장에 코로나19 확진자 발생",
-        "link": "http://yna.kr/AKR20200822026700003?did=1195m"
+        "title": "삼성디스플레이 충남 아산 공사장에 코로나19 확진자 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/22/2020082200685.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "WHO 사무총장 \"코로나 2년 내 종식...스페인 독감도 2년 걸려“",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008220027&t=NN"
+        "title": "홍남기 \"의료계, 코로나19 극복 위해 파업 철회해 달라\"",
+        "link": "http://yna.kr/AKR20200822026600002?did=1195m"
     },
     {
-        "title": "홍남기 \"의료 파업은 코로나 대응 노력 수포로 돌리는 것\"",
-        "link": "http://www.fnnews.com/news/202008221312345442"
-    },
-    {
-        "title": "(속보)코로나19 신규 확진자 이틀연속 300명대···14일 이후 2,232명 급증",
-        "link": "https://www.sedaily.com/NewsView/1Z6OEWLQPB"
+        "title": "[속보]'코로나 전담' 마산의료원 간호사 확진…응급실 폐쇄",
+        "link": "https://www.nocutnews.co.kr/news/5398971"
     },
     {
         "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
     },
     {
-        "title": "KBS \"코로나 19에 드라마 제작 중단…편성일정 조정 불가피\" [전문]",
-        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23854183"
-    },
-    {
-        "title": "[속보] 울산서 코로나19 확진자 5명 추가 발생",
-        "link": "https://www.hankyung.com/life/article/2020082239327"
+        "title": "신규 확진자 5명 중 1명은 '깜깜이'…방역망 붕괴 조짐 [종합]",
+        "link": "https://www.hankyung.com/life/article/2020082244177"
     },
     {
         "title": "서울 코로나19 확진자 폭증…8월 들어 양성률 7배 급등",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008220026&t=NN"
     },
     {
-        "title": "[종합]이용섭 광주시장, 코로나 음성 나와",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200825.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "KBS \"코로나 19에 드라마 제작 중단…편성일정 조정 불가피\" [전문]",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23854183"
+    },
+    {
+        "title": "[단독]배우-확진자 접촉... 뮤지컬 '킹키부츠' 멈추고 '렌트' 배우 교체",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200749.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "코로나19 신규 확진자 332명…17개 시·도서 모두 나와",
+        "link": "http://www.hani.co.kr/arti/society/society_general/958877.html"
     }
 ];
