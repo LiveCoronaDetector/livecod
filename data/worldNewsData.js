@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     },
     {
-        "title": "Biden to ABC's David Muir: 'I would shut [country] down' to prevent spread of COVID-19 if scientists recommended",
-        "link": "https://abcnews.go.com/Politics/biden-abcs-david-muir-shut-country-prevent-spread/story?id=72519690"
+        "title": "Covid-19: China defends Wuhan pool party after viral video prompts int’l outrage",
+        "link": "https://hongkongfp.com/2020/08/22/covid-19-china-defends-wuhan-pool-party-after-viral-video-prompts-intl-outrage/"
     },
     {
-        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
-        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
+        "title": "What you need to know about coronavirus on Friday, August 21",
+        "link": "https://www.cnn.com/2020/08/21/world/coronavirus-newsletter-08-21-20-intl/index.html"
     }
 ];

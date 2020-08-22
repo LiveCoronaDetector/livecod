@@ -372,9 +372,9 @@ var marker = [
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "확진자수": 52819,
-        "사망자수": 1619,
-        "완치자수": 8082
+        "확진자수": 53381,
+        "사망자수": 1632,
+        "완치자수": 8271
     },
     {
         "Name": "나이지리아",
@@ -1089,20 +1089,20 @@ var marker = [
         "완치자수": 1199
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 1703,
+        "사망자수": 27,
+        "완치자수": 221
+    },
+    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
         "확진자수": 1671,
         "사망자수": 22,
         "완치자수": 1538
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 1610,
-        "사망자수": 23,
-        "완치자수": 211
     },
     {
         "Name": "Malta",
