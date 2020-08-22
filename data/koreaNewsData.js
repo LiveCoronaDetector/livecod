@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
     },
     {
-        "title": "KBS \"코로나 19에 드라마 제작 중단…편성일정 조정 불가피\" [전문]",
-        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23854183"
+        "title": "경찰청 본청 코로나19 확진자 1명 추가",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008222209599233"
     },
     {
-        "title": "WHO 사무총장 \"코로나19 2년 내 종식 희망\"",
-        "link": "http://yna.kr/AKR20200822002700109?did=1195m"
+        "title": "[속보] 보령시, 코로나19 확진자 발생에 따른 담화문 발표",
+        "link": "https://www.pressian.com/pages/articles/2020082215221036471?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "홍남기 \"의료 파업은 코로나 대응 노력 수포로 돌리는 것\"",
-        "link": "http://www.fnnews.com/news/202008221312345442"
+        "title": "전세계 코로나19 사망 80만명 넘어… 두달반만에 2배",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/22/2020082201763.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "광주·전남, 코로나19 확진자 증가 “안전지대는 없다”",
-        "link": "https://view.asiae.co.kr/article/2020082212043813702"
+        "title": "광주서 코로나19 확진자 12명 발생…누적환자 274명(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5399093"
     }
 ];
