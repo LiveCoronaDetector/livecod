@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53847699"
     },
     {
-        "title": "Coronavirus cases in India approach three million: Live",
+        "title": "At least 800,000 coronavirus deaths recorded worldwide: Live news",
         "link": "https://www.aljazeera.com/news/2020/08/200822013536155.html"
     },
     {
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=sjMcrSa_DwQ"
     },
     {
-        "title": "China says Wuhan water park pool party was 'payback' after coronavirus, calls critics 'sour grapes'",
-        "link": "https://www.foxnews.com/world/china-wuhan-water-park-pool-party-coronavirus"
+        "title": "German Cases Jump as Europe Surge is Less Deadly: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6512af70-e488-11ea-9df3-6fbaaa3842be&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0yMS91LXMtY2FzZXMtYXJlLXN0ZWFkeS13aGlsZS1ldXJvcGUtYmF0dGxlcy1zdXJnZS12aXJ1cy11cGRhdGU="
     },
     {
         "title": "Coronavirus pandemic could be over within two years - WHO head",
         "link": "https://www.bbc.com/news/world-53870798"
     },
     {
-        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
-        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
+    },
+    {
+        "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
+        "link": "https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html"
     },
     {
         "title": "Global report: WHO says world could rein in pandemic in less than two years",
         "link": "https://www.theguardian.com/world/2020/aug/22/global-report-who-says-world-could-rein-in-pandemic-in-less-than-two-years"
-    },
-    {
-        "title": "China Dismisses Outrage From Viral Wuhan Pool Party Photo",
-        "link": "https://www.ladbible.com/news/news-china-dismisses-outrage-from-viral-wuhan-pool-party-photo-20200821"
     }
 ];

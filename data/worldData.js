@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5802145,
-        "사망자수": 179290,
+        "확진자수": 5806456,
+        "사망자수": 179387,
         "완치자수": 3127633
     },
     {
@@ -188,9 +188,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 124372,
-        "사망자수": 9064,
-        "완치자수": 110648
+        "확진자수": 124481,
+        "사망자수": 9065,
+        "완치자수": 110738
     },
     {
         "Name": "카타르",
@@ -252,9 +252,9 @@ var marker = [
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "확진자수": 89867,
-        "사망자수": 1533,
-        "완치자수": 59132
+        "확진자수": 90561,
+        "사망자수": 1554,
+        "완치자수": 59949
     },
     {
         "Name": "스웨덴",
@@ -316,9 +316,9 @@ var marker = [
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "확진자수": 66941,
-        "사망자수": 2532,
-        "완치자수": 55314
+        "확진자수": 67856,
+        "사망자수": 2580,
+        "완치자수": 56277
     },
     {
         "Name": "아랍에미리트",
@@ -476,9 +476,9 @@ var marker = [
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "확진자수": 34921,
-        "사망자수": 512,
-        "완치자수": 32682
+        "확진자수": 35105,
+        "사망자수": 515,
+        "완치자수": 32842
     },
     {
         "Name": "Moldova",
@@ -612,9 +612,9 @@ var marker = [
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "확진자수": 14218,
+        "확진자수": 14277,
         "사망자수": 178,
-        "완치자수": 13206
+        "완치자수": 13332
     },
     {
         "Name": "North Macedonia",
@@ -1249,6 +1249,14 @@ var marker = [
         "완치자수": 869
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 899,
+        "사망자수": 13,
+        "완치자수": 165
+    },
+    {
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
@@ -1263,14 +1271,6 @@ var marker = [
         "확진자수": 881,
         "사망자수": 30,
         "완치자수": 433
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 864,
-        "사망자수": 12,
-        "완치자수": 162
     },
     {
         "Name": "Guadeloupe",
