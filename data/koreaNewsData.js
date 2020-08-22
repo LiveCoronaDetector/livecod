@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200749.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "대형병원 포함 전국서 확진자 속출…사랑제일교회 누적 796명(종합)",
-        "link": "http://yna.kr/AKR20200822041251530?did=1195m"
-    },
-    {
         "title": "코로나19 신규확진자 332명…이틀연속 300명대",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993744?division=NAVER"
+    },
+    {
+        "title": "대형병원 포함 전국서 확진자 속출…사랑제일교회 누적 796명(종합)",
+        "link": "http://yna.kr/AKR20200822041251530?did=1195m"
     },
     {
         "title": "충남 아산 삼성디스플레이 사업장서 코로나19 확진자 나와",
@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/econo/article/5882705_32647.html"
     },
     {
-        "title": "전남서 코로나19 확진자 10명 추가 발생...누적확진자 70명",
-        "link": "http://www.fnnews.com/news/202008221228495499"
-    },
-    {
-        "title": "홍남기 \"의료계, 코로나19 극복 위해 파업 철회해 달라\"",
-        "link": "http://yna.kr/AKR20200822026600002?did=1195m"
-    },
-    {
-        "title": "경남, 코로나19 확진자 6명 추가…누적 188명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200822_0001138336&cID=10812&pID=10800"
-    },
-    {
-        "title": "광주시장·시의장·교육감 코로나19 음성(종합)",
-        "link": "http://yna.kr/AKR20200822052000054?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
+    },
+    {
+        "title": "홍남기 \"의료 파업은 코로나 대응 노력 수포로 돌리는 것\"",
+        "link": "http://www.fnnews.com/news/202008221312345442"
+    },
+    {
+        "title": "광주·전남, 코로나19 확진자 증가 “안전지대는 없다”",
+        "link": "https://view.asiae.co.kr/article/2020082212043813702"
+    },
+    {
+        "title": "[속보] 전세계 코로나 사망자 80만명…두달반만에 갑절로",
+        "link": "https://www.hankyung.com/international/article/2020082249047"
+    },
+    {
+        "title": "[속보] 보령시, 코로나19 확진자 발생에 따른 담화문 발표",
+        "link": "https://www.pressian.com/pages/articles/2020082215221036471?utm_source=naver&utm_medium=search"
     }
 ];
