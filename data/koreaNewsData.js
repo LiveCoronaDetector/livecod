@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/econo/article/5882705_32647.html"
     },
     {
-        "title": "[단독]배우-확진자 접촉... 뮤지컬 '킹키부츠' 멈추고 '렌트'도 하루 일찍 종...",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200749.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "코로나19 확진자 전국서 속출…사랑제일교회 관련 누적 확진자 796명",
         "link": "http://www.hani.co.kr/arti/society/society_general/958897.html"
+    },
+    {
+        "title": "[단독]배우-확진자 접촉... 뮤지컬 '킹키부츠' 멈추고 '렌트'도 하루 일찍 종...",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200749.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",

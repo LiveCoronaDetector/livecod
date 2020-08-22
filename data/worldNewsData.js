@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53870798"
     },
     {
-        "title": "Coronavirus cases linked to Sturgis Motorcycle Rally now found in Minnesota, 2 other states",
-        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-linked-sturgis-motorcycle-rally-now-found-minnesota-2-n1237771"
+        "title": "Coronavirus Updates: As NY Reports Record-Low For COVID Positivity Rates Statewide, More Bars Hit With Violations",
+        "link": "https://gothamist.com/news/coronavirus-updates-august-22-2020"
     },
     {
-        "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
-        "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
+        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
+        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
     }
 ];
