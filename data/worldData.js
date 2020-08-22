@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5794238,
-        "사망자수": 179119,
-        "완치자수": 3118388
+        "확진자수": 5795337,
+        "사망자수": 179153,
+        "완치자수": 3120174
     },
     {
         "Name": "브라질",
@@ -89,20 +89,20 @@ var marker = [
         "완치자수": 305866
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "확진자수": 329043,
+        "사망자수": 6730,
+        "완치자수": 239806
+    },
+    {
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
         "확진자수": 323313,
         "사망자수": 41405,
         "완치자수": 0
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "확진자수": 320884,
-        "사망자수": 6567,
-        "완치자수": 239806
     },
     {
         "Name": "사우디아라비아",
@@ -868,9 +868,9 @@ var marker = [
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "확진자수": 4229,
-        "사망자수": 81,
-        "완치자수": 3186
+        "확진자수": 4277,
+        "사망자수": 82,
+        "완치자수": 3281
     },
     {
         "Name": "Eswatini",
@@ -1273,6 +1273,14 @@ var marker = [
         "완치자수": 162
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "확진자수": 771,
+        "사망자수": 15,
+        "완치자수": 289
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "日本 邮轮",
         "Name_en": "Diamond Princess",
@@ -1305,14 +1313,6 @@ var marker = [
         "완치자수": 545
     },
     {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "확진자수": 510,
-        "사망자수": 15,
-        "완치자수": 289
-    },
-    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
@@ -1324,7 +1324,7 @@ var marker = [
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "확진자수": 486,
+        "확진자수": 487,
         "사망자수": 7,
         "완치자수": 457
     },
