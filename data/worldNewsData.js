@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
-        "title": "Global Coronavirus Death Toll Tops 800,000",
-        "link": "https://www.channelstv.com/2020/08/22/global-coronavirus-death-toll-tops-800000/"
+        "title": "Global Deaths Pass 800,000, Cases Above 23 Million: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a9a711d0-e4ba-11ea-9ab6-45cbfdd8c92b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0yMi91LXMtZGVhdGhzLXN0aWxsLWhpZ2gtYXMtZXVyb3BlLXN1cmdlLWxlc3MtZmF0YWwtdmlydXMtdXBkYXRl"
     },
     {
         "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
     },
     {
-        "title": "The pandemic is a reminder that health and the economy are inseparable: WHO",
-        "link": "https://www.youtube.com/watch?v=YvNKEnQ7nts"
+        "title": "Germany Gets Volunteers for Indoor Concerts to Test Coronavirus Spread",
+        "link": "https://www.tmz.com/2020/08/22/germany-concert-test-volunteer-coronavirus-spread-covid-19/"
     },
     {
         "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
         "link": "https://www.nytimes.com/2020/08/21/world/cdc-childcare-centers-reopening.html"
     },
     {
-        "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-        "link": "https://www.bbc.com/news/world-europe-53875370"
+        "title": "The pandemic is a reminder that health and the economy are inseparable: WHO",
+        "link": "https://www.youtube.com/watch?v=YvNKEnQ7nts"
     }
 ];
