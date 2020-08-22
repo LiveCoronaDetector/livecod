@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/health/fast-coronavirus-testing-israel.html"
     },
     {
-        "title": "Thousands crowd into an indoor concert in experiment on how to return to normality",
-        "link": "https://www.cnn.com/travel/amp/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/"
+        "title": "Fans crowd into an indoor concert in experiment on how to return to normality",
+        "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
         "title": "Covid-19 cases tied to the Sturgis motorcycle rally in South Dakota have reached across state lines",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-linked-sturgis-motorcycle-rally-now-found-minnesota-2-n1237771"
     },
     {
-        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
-        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
+        "title": "Global Deaths Pass 800,000, Cases Above 23 Million: Virus Update",
+        "link": "https://www.bloomberg.com/news/articles/2020-08-22/u-s-deaths-still-high-as-europe-surge-less-fatal-virus-update"
     }
 ];
