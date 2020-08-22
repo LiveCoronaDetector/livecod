@@ -9,20 +9,16 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200749.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "러 선원 확진자 나온 감천항 외국 어선 12시간째 불(종합)",
-        "link": "http://yna.kr/AKR20200822011151051?did=1195m"
+        "title": "[속보] 쿠팡 일산1배송캠프, 코로나19 확진자 방문으로 폐쇄",
+        "link": "https://www.hankyung.com/life/article/2020082244377"
+    },
+    {
+        "title": "코로나19 신규 확진 5명 중 1명은 '깜깜이 확진자'",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200822000097"
     },
     {
         "title": "충남 아산 삼성디스플레이 사업장서 코로나19 확진자 나와",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993748?division=NAVER"
-    },
-    {
-        "title": "[속보]'코로나 전담' 마산의료원 간호사 확진…응급실 폐쇄",
-        "link": "https://www.nocutnews.co.kr/news/5398971"
-    },
-    {
-        "title": "코로나19 신규 확진자 332명…17개 시·도서 모두 나와",
-        "link": "http://www.hani.co.kr/arti/society/society_general/958877.html"
     },
     {
         "title": "홍남기 \"의료 파업은 코로나 대응 노력 수포로 돌리는 것\"",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23854183"
     },
     {
-        "title": "코로나 신규확진자 전국 17개 시도서 첫 동시다발 발생…이틀연속 300명대",
-        "link": "http://www.dongascience.com/news/view/39183"
+        "title": "경남, 코로나19 확진자 6명 추가…누적 188명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200822_0001138336&cID=10812&pID=10800"
+    },
+    {
+        "title": "코로나19 신규 확진자 332명…17개 시·도서 모두 나와",
+        "link": "http://www.hani.co.kr/arti/society/society_general/958877.html"
     }
 ];
