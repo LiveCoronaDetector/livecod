@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53847699"
     },
     {
-        "title": "Global coronavirus death toll hits 800,000: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/200822013536155.html"
+        "title": "Covid-19 Updates: 3 States Link Cases to Sturgis Rally",
+        "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
     },
     {
         "title": "For Quick Coronavirus Testing, Israel Turns to a Clever Algorithm",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/21/us/sturgis-motorcyle-rally-sd-covid-nebraska-trnd/index.html"
     },
     {
-        "title": "German Cases Jump as Europe Surge is Less Deadly: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ca199840-e490-11ea-86b0-290f0a310ecd&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0yMS91LXMtY2FzZXMtYXJlLXN0ZWFkeS13aGlsZS1ldXJvcGUtYmF0dGxlcy1zdXJnZS12aXJ1cy11cGRhdGU="
-    },
-    {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "South Korea tightens social distancing rules as Covid cases rise",
+        "link": "https://www.theguardian.com/world/2020/aug/22/south-korea-physical-distancing-new-covid-outbreak-seoul"
     },
     {
         "title": "The latest on the coronavirus pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
     },
     {
-        "title": "Coronavirus Updates: COVID Cases Emerge After Massive Sturgis, South Dakota Motorcycle Rally",
-        "link": "https://gothamist.com/news/coronavirus-updates-august-22-2020"
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     },
     {
-        "title": "Global report: WHO says world could rein in pandemic in less than two years",
-        "link": "https://www.theguardian.com/world/2020/aug/22/global-report-who-says-world-could-rein-in-pandemic-in-less-than-two-years"
+        "title": "Coronavirus cases linked to Sturgis Motorcycle Rally now found in Minnesota, 2 other states",
+        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-linked-sturgis-motorcycle-rally-now-found-minnesota-2-n1237771"
+    },
+    {
+        "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
+        "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     }
 ];
