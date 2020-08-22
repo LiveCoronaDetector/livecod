@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/22/latest_news/1598078717_957108.html"
     },
     {
-        "title": "Covid-19 Updates: Global Death Toll Surpasses 800,000",
-        "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
+        "title": "Coronavirus update: Infections are trending upward in the Midwest",
+        "link": "https://www.washingtonpost.com/nation/2020/08/22/coronavirus-covid-updates/"
     },
     {
         "title": "Pakistan reopens border with Afghanistan following closure to coronavirus: report",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
-        "title": "Global Deaths Pass 800,000, Cases Above 23 Million: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a9a711d0-e4ba-11ea-9ab6-45cbfdd8c92b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0yMi91LXMtZGVhdGhzLXN0aWxsLWhpZ2gtYXMtZXVyb3BlLXN1cmdlLWxlc3MtZmF0YWwtdmlydXMtdXBkYXRl"
+        "title": "Global coronavirus death toll hits 800,000: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/200822013536155.html"
     },
     {
         "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
     },
     {
-        "title": "Germany Gets Volunteers for Indoor Concerts to Test Coronavirus Spread",
-        "link": "https://www.tmz.com/2020/08/22/germany-concert-test-volunteer-coronavirus-spread-covid-19/"
-    },
-    {
-        "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
-        "link": "https://www.nytimes.com/2020/08/21/world/cdc-childcare-centers-reopening.html"
-    },
-    {
         "title": "The pandemic is a reminder that health and the economy are inseparable: WHO",
         "link": "https://www.youtube.com/watch?v=YvNKEnQ7nts"
+    },
+    {
+        "title": "Alabama posts lowest coronavirus numbers in months: Week in review",
+        "link": "https://www.al.com/news/2020/08/alabama-posts-lowest-coronavirus-numbers-in-months-week-in-review.html"
+    },
+    {
+        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
+        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
     }
 ];

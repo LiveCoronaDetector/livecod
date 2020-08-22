@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993744?division=NAVER"
     },
     {
-        "title": "쿠팡 일산 배송센터, 코로나19 확진자 방문으로 폐쇄",
-        "link": "https://imnews.imbc.com/news/2020/econo/article/5882705_32647.html"
-    },
-    {
         "title": "충남 아산 삼성디스플레이 공사장에 코로나19 확진자 발생",
         "link": "http://yna.kr/AKR20200822026700003?did=1195m"
+    },
+    {
+        "title": "쿠팡 일산 배송센터, 코로나19 확진자 방문으로 폐쇄",
+        "link": "https://imnews.imbc.com/news/2020/econo/article/5882705_32647.html"
     },
     {
         "title": "코로나19 확진자 전국서 속출…사랑제일교회 관련 누적 확진자 796명",
