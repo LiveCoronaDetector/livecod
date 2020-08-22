@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/22/2020082200624.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "경남, 코로나19 확진자 6명 추가…누적 188명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200822_0001138336&cID=10812&pID=10800"
+        "title": "KBS \"코로나 19에 드라마 제작 중단…편성일정 조정 불가피\" [전문]",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23854183"
     },
     {
         "title": "러 선원 확진자 나온 감천항 외국 어선 12시간째 불(종합)",
         "link": "http://yna.kr/AKR20200822011151051?did=1195m"
     },
     {
-        "title": "KBS \"코로나 19에 드라마 제작 중단…편성일정 조정 불가피\" [전문]",
-        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23854183"
+        "title": "경남, 코로나19 확진자 6명 추가…누적 188명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200822_0001138336&cID=10812&pID=10800"
     },
     {
         "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993748?division=NAVER"
     },
     {
-        "title": "서울 코로나19 확진자 폭증…8월 들어 양성률 7배 급등",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008220026&t=NN"
-    },
-    {
-        "title": "홍남기 \"의료계, 코로나19 극복 위해 파업 철회해 달라\"",
-        "link": "http://yna.kr/AKR20200822026600002?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 332명…17개 시·도서 모두 나와",
         "link": "http://www.hani.co.kr/arti/society/society_general/958877.html"
     },
     {
-        "title": "코로나19 신규 확진자 332명…누적 1만 7002명 [종합]",
-        "link": "http://sports.khan.co.kr/news/sk_index.html?art_id=202008221055003&sec_id=940100&pt=nv"
+        "title": "서울 코로나19 확진자 폭증…8월 들어 양성률 7배 급등",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008220026&t=NN"
+    },
+    {
+        "title": "경북서 광화문 집회 참가자 1명 등 확진자 4명 발생",
+        "link": "https://news.imaeil.com/Society/2020082209462156984"
+    },
+    {
+        "title": "홍남기 \"의료계, 코로나19 극복 위해 파업 철회해 달라\"",
+        "link": "http://yna.kr/AKR20200822026600002?did=1195m"
     }
 ];
