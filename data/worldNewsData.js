@@ -14,7 +14,7 @@ var worldNewsData = [
     },
     {
         "title": "Europe Braces for New Phase in Pandemic With Cases Surging",
-        "link": "https://news.google.com/articles/CAIiEP2qCVpFTzFPn9PmuFNu1d4qFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html"
     },
     {
         "title": "These Americans came to India to deepen their faith. They’ve been detained, quarantined and prosecuted.",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/Politics/biden-abcs-david-muir-shut-country-prevent-spread/story?id=72519690"
     },
     {
-        "title": "Wuhan pool party shows China's 'strategic victory' over Covid-19, Beijing says",
-        "link": "https://www.youtube.com/watch?v=MRuCv0yxpaA"
+        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
+        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
     }
 ];

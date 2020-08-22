@@ -158,7 +158,7 @@ var marker = [
         "Name_en": "Germany",
         "확진자수": 233021,
         "사망자수": 9328,
-        "완치자수": 205800
+        "완치자수": 208950
     },
     {
         "Name": "이라크",
@@ -220,7 +220,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 104071,
+        "확진자수": 104313,
         "사망자수": 1415,
         "완치자수": 87920
     },
@@ -284,9 +284,9 @@ var marker = [
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "확진자수": 80178,
-        "사망자수": 9976,
-        "완치자수": 18131
+        "확진자수": 80894,
+        "사망자수": 9985,
+        "완치자수": 18165
     },
     {
         "Name": "쿠웨이트",
@@ -644,9 +644,9 @@ var marker = [
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "확진자수": 11817,
-        "사망자수": 170,
-        "완치자수": 6783
+        "확진자수": 12536,
+        "사망자수": 182,
+        "완치자수": 7007
     },
     {
         "Name": "레바논",
@@ -1601,6 +1601,14 @@ var marker = [
         "완치자수": 20
     },
     {
+        "Name": "British Virgin Islands",
+        "Name_ch": "",
+        "Name_en": "British Virgin Islands",
+        "확진자수": 21,
+        "사망자수": 1,
+        "완치자수": 8
+    },
+    {
         "Name": "Dominica",
         "Name_ch": "",
         "Name_en": "Dominica",
@@ -1655,14 +1663,6 @@ var marker = [
         "확진자수": 13,
         "사망자수": 0,
         "완치자수": 13
-    },
-    {
-        "Name": "British Virgin Islands",
-        "Name_ch": "",
-        "Name_en": "British Virgin Islands",
-        "확진자수": 12,
-        "사망자수": 1,
-        "완치자수": 8
     },
     {
         "Name": "Vatican City",
