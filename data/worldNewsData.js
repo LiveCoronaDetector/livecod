@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html"
     },
     {
-        "title": "India nears 3 million COVID cases as Europe continues to see spikes",
-        "link": "https://www.cidrap.umn.edu/news-perspective/2020/08/india-nears-3-million-covid-cases-europe-continues-see-spikes"
+        "title": "Record single-day spike of 69,874 infections pushes India's coronavirus tally to 29.75 lakh",
+        "link": "https://www.tribuneindia.com/news/nation/record-single-day-spike-of-69-874-infections-pushes-indias-covid-caseload-to-29-75-lakh-129764"
     },
     {
-        "title": "Record single-day spike of 69,874 infections pushes India's Covid caseload to 29.75 lakh",
-        "link": "https://www.tribuneindia.com/news/nation/record-single-day-spike-of-69-874-infections-pushes-indias-covid-caseload-to-29-75-lakh-129764"
+        "title": "China says Wuhan water park pool party was 'payback' after coronavirus, calls critics 'sour grapes'",
+        "link": "https://www.foxnews.com/world/china-wuhan-water-park-pool-party-coronavirus"
     },
     {
         "title": "Coronavirus pandemic could be over within two years - WHO head",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     },
     {
-        "title": "China Dismisses Outrage From Viral Wuhan Pool Party Photo",
-        "link": "https://www.ladbible.com/news/news-china-dismisses-outrage-from-viral-wuhan-pool-party-photo-20200821"
+        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
+        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
     }
 ];

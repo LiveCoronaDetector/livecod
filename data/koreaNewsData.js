@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200749.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "'수행원이 확진자 접촉' 광주시장·의장·교육감 진단검사(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200822_0001138433&cID=10201&pID=10200"
+    },
+    {
         "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
     },
     {
         "title": "충남 아산 삼성디스플레이 사업장서 코로나19 확진자 나와",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993748?division=NAVER"
-    },
-    {
-        "title": "코로나19 신규 확진자 332명…17개 시·도서 모두 나와",
-        "link": "http://www.hani.co.kr/arti/society/society_general/958877.html"
     },
     {
         "title": "전남서 코로나19 확진자 10명 추가 발생...누적확진자 70명",
