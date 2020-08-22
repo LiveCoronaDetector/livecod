@@ -17,16 +17,20 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/econo/article/5882705_32647.html"
     },
     {
-        "title": "대형병원 포함 전국서 확진자 속출…사랑제일교회 누적 796명(종합)",
-        "link": "http://yna.kr/AKR20200822041251530?did=1195m"
+        "title": "코로나19 확진자 전국서 속출…사랑제일교회 관련 누적 확진자 796명",
+        "link": "http://www.hani.co.kr/arti/society/society_general/958897.html"
     },
     {
         "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
     },
     {
-        "title": "[속보] 경찰청 본청 1명 추가…최초 확진자와 같은 층 근무",
-        "link": "https://www.hankyung.com/life/article/2020082246157"
+        "title": "KBS \"코로나 19에 드라마 제작 중단…편성일정 조정 불가피\" [전문]",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23854183"
+    },
+    {
+        "title": "WHO 사무총장 \"코로나19 2년 내 종식 희망\"",
+        "link": "http://yna.kr/AKR20200822002700109?did=1195m"
     },
     {
         "title": "홍남기 \"의료 파업은 코로나 대응 노력 수포로 돌리는 것\"",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "광주·전남, 코로나19 확진자 증가 “안전지대는 없다”",
         "link": "https://view.asiae.co.kr/article/2020082212043813702"
-    },
-    {
-        "title": "러 선원 확진자 나온 감천항 외국 어선 12시간째 불(종합)",
-        "link": "http://yna.kr/AKR20200822011151051?did=1195m"
     }
 ];
