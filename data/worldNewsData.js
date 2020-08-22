@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html"
     },
     {
-        "title": "Indonesia’s mixed couples in limbo due to borders shut by coronavirus",
-        "link": "https://www.scmp.com/week-asia/health-environment/article/3098376/coronavirus-leaves-indonesias-mixed-couples-limbo"
+        "title": "Coronavirus Outbreak: Live Updates and News for Aug. 22, 2020",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=336666c0-e45a-11ea-919f-c7bc90186ccf&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0yMS91LXMtY2FzZXMtYXJlLXN0ZWFkeS13aGlsZS1ldXJvcGUtYmF0dGxlcy1zdXJnZS12aXJ1cy11cGRhdGU="
     },
     {
         "title": "China says Wuhan water park pool party was 'payback' after coronavirus, calls critics 'sour grapes'",
