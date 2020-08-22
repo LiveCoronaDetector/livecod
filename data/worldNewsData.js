@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53847699"
     },
     {
-        "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
-        "link": "https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html"
+        "title": "Coronavirus cases in India approach three million: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/200822013536155.html"
     },
     {
         "title": "For Quick Coronavirus Testing, Israel Turns to a Clever Algorithm",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html"
     },
     {
-        "title": "Coronavirus cases in India approach three million: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/200822013536155.html"
+        "title": "Record single-day spike of 69,874 infections pushes India's coronavirus tally to 29.75 lakh",
+        "link": "https://www.tribuneindia.com/news/nation/record-single-day-spike-of-69-874-infections-pushes-indias-covid-caseload-to-29-75-lakh-129764"
     },
     {
         "title": "China says Wuhan water park pool party was 'payback' after coronavirus, calls critics 'sour grapes'",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
     },
     {
-        "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
-        "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
+        "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
+        "link": "https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html"
     },
     {
-        "title": "'Very proud': Jacinda Ardern defends New Zealand Covid response after Trump comments",
-        "link": "https://www.theguardian.com/world/2020/aug/21/very-proud-jacinda-ardern-defends-new-zealand-covid-response-after-trump-attacks"
+        "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
+        "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     }
 ];
