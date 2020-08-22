@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html"
     },
     {
-        "title": "LIVE: Coronavirus stabilising in Brazil, WHO says",
-        "link": "https://www.aljazeera.com/news/2020/08/200821003718944.html"
+        "title": "Coronavirus Outbreak: Live Updates and News for Aug. 22, 2020",
+        "link": "https://www.bloomberg.com/tosv.html?url=L3Rvc3YyLmh0bWw/dXJsPUwyNWxkM012WVhKMGFXTnNaWE12TWpBeU1DMHdPQzB5TVM5MUxYTXRZMkZ6WlhNdFlYSmxMWE4wWldGa2VTMTNhR2xzWlMxbGRYSnZjR1V0WW1GMGRHeGxjeTF6ZFhKblpTMTJhWEoxY3kxMWNHUmhkR1UlM0QmdmlkPSZ1dWlkPWNkYjRlNjEwLWU0NTEtMTFlYS04NzY2LTgxZjUwNTIzYjE5NQ==&uuid=cdc5fd10-e451-11ea-8c1b-8f261f6e2cb7&vid="
     },
     {
         "title": "China says Wuhan water park pool party was 'payback' after coronavirus, calls critics 'sour grapes'",
