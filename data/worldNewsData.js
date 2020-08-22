@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/22/latest_news/1598078717_957108.html"
     },
     {
-        "title": "Covid-19 Updates: Global Death Toll Surpasses 800,000",
-        "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
+        "title": "Coronavirus update: Infections are trending upward in the Midwest",
+        "link": "https://www.washingtonpost.com/nation/2020/08/22/coronavirus-covid-updates/"
     },
     {
         "title": "Pakistan reopens border with Afghanistan following closure to coronavirus: report",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.tmz.com/2020/08/22/germany-concert-test-volunteer-coronavirus-spread-covid-19/"
     },
     {
-        "title": "Global Deaths Pass 800,000, Cases Above 23 Million: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=141927d0-e4c3-11ea-9b53-e999ee569d1b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0yMi91LXMtZGVhdGhzLXN0aWxsLWhpZ2gtYXMtZXVyb3BlLXN1cmdlLWxlc3MtZmF0YWwtdmlydXMtdXBkYXRl"
+        "title": "Global coronavirus death toll surpasses 800,000, WHO hopes it will be over in two years",
+        "link": "https://www.nbcnews.com/news/world/global-coronavirus-death-toll-surpasses-800-000-who-hopes-it-n1237764"
     },
     {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "Alabama posts lowest coronavirus numbers in months: Week in review",
+        "link": "https://www.al.com/news/2020/08/alabama-posts-lowest-coronavirus-numbers-in-months-week-in-review.html"
     }
 ];
