@@ -5,16 +5,12 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993744?division=NAVER"
     },
     {
-        "title": "경남, 코로나19 확진자 6명 추가…누적 188명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200822_0001138336&cID=10812&pID=10800"
+        "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
     },
     {
         "title": "코로나19 신규 확진자 332명…17개 시·도서 모두 나와",
         "link": "http://www.hani.co.kr/arti/society/society_general/958877.html"
-    },
-    {
-        "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
     },
     {
         "title": "충남 아산 삼성디스플레이 공사장에 코로나19 확진자 발생",
@@ -29,12 +25,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008221312345442"
     },
     {
+        "title": "서울 코로나19 확진자 폭증…8월 들어 양성률 7배 급등",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008220026&t=NN"
+    },
+    {
         "title": "러 선원 확진자 나온 감천항 외국 어선 12시간째 불(종합)",
         "link": "http://yna.kr/AKR20200822011151051?did=1195m"
     },
     {
-        "title": "서울 코로나19 확진자 폭증…8월 들어 양성률 7배 급등",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008220026&t=NN"
+        "title": "경남, 코로나19 확진자 6명 추가…누적 188명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200822_0001138336&cID=10812&pID=10800"
     },
     {
         "title": "KBS \"코로나 19에 드라마 제작 중단…편성일정 조정 불가피\" [전문]",
