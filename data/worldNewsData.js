@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.tmz.com/2020/08/22/germany-concert-test-volunteer-coronavirus-spread-covid-19/"
     },
     {
-        "title": "Global coronavirus death toll surpasses 800,000, WHO hopes it will be over in two years",
-        "link": "https://www.nbcnews.com/news/world/global-coronavirus-death-toll-surpasses-800-000-who-hopes-it-n1237764"
+        "title": "Coronavirus pandemic: Children aged 12 and over should wear masks - WHO",
+        "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "Alabama posts lowest coronavirus numbers in months: Week in review",
-        "link": "https://www.al.com/news/2020/08/alabama-posts-lowest-coronavirus-numbers-in-months-week-in-review.html"
+        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
+        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
     }
 ];
