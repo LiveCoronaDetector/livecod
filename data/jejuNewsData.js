@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
     },
     {
-        "title": "코로나 신규확진 332명, 전국서 확진자 발생… 정부 \"사회적 거리두기 2단계 ...",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/22/2020082200624.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "제주 코로나 확진 골프장 캐디 112명 접촉",
         "link": "http://www.segye.com/content/html/2020/08/21/20200821520010.html?OutUrl=naver"
+    },
+    {
+        "title": "코로나 신규확진 332명, 전국서 확진자 발생… 정부 \"사회적 거리두기 2단계 ...",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/22/2020082200624.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "제주도내 27번째 확진자 부모 21일 확진 판정",

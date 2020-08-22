@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/21/latest_news/1597993335_918991.html"
+        "link": "https://en.as.com/en/2020/08/22/latest_news/1598078717_957108.html"
     },
     {
         "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     },
     {
-        "title": "Global report: WHO says world could rein in pandemic in less than two years",
-        "link": "https://www.theguardian.com/world/2020/aug/22/global-report-who-says-world-could-rein-in-pandemic-in-less-than-two-years"
+        "title": "China Dismisses Outrage From Viral Wuhan Pool Party Photo",
+        "link": "https://www.ladbible.com/news/news-china-dismisses-outrage-from-viral-wuhan-pool-party-photo-20200821"
     }
 ];
