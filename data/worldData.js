@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5795337,
-        "사망자수": 179153,
-        "완치자수": 3120174
+        "확진자수": 5796587,
+        "사망자수": 179198,
+        "완치자수": 3121449
     },
     {
         "Name": "브라질",
@@ -1417,6 +1417,14 @@ var marker = [
         "완치자수": 274
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "확진자수": 298,
+        "사망자수": 0,
+        "완치자수": 148
+    },
+    {
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
@@ -1441,14 +1449,6 @@ var marker = [
         "완치자수": 200
     },
     {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "확진자수": 211,
-        "사망자수": 0,
-        "완치자수": 68
-    },
-    {
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
@@ -1457,10 +1457,18 @@ var marker = [
         "완치자수": 202
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "확진자수": 176,
+        "사망자수": 5,
+        "완치자수": 52
+    },
+    {
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "확진자수": 166,
+        "확진자수": 167,
         "사망자수": 9,
         "완치자수": 147
     },
@@ -1503,14 +1511,6 @@ var marker = [
         "확진자수": 132,
         "사망자수": 0,
         "완치자수": 126
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "확진자수": 121,
-        "사망자수": 5,
-        "완치자수": 49
     },
     {
         "Name": "리히텐슈타인",
@@ -1657,20 +1657,20 @@ var marker = [
         "완치자수": 13
     },
     {
+        "Name": "British Virgin Islands",
+        "Name_ch": "",
+        "Name_en": "British Virgin Islands",
+        "확진자수": 12,
+        "사망자수": 1,
+        "완치자수": 8
+    },
+    {
         "Name": "Vatican City",
         "Name_ch": "",
         "Name_en": "Vatican City",
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 12
-    },
-    {
-        "Name": "British Virgin Islands",
-        "Name_ch": "",
-        "Name_en": "British Virgin Islands",
-        "확진자수": 11,
-        "사망자수": 1,
-        "완치자수": 8
     },
     {
         "Name": "Western Sahara",
