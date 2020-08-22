@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
     },
     {
-        "title": "[단독]배우-확진자 접촉... 뮤지컬 '킹키부츠' 멈추고 '렌트'도 하루 일찍 종...",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200749.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "전세계 코로나19 사망 80만명 넘어… 두달반만에 2배",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/22/2020082201763.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진 5명 중 1명은 '깜깜이 확진자'",
         "link": "http://news.heraldcorp.com/view.php?ud=20200822000097"
+    },
+    {
+        "title": "삼성전자 화성사업장서 코로나 확진자 2명 발생",
+        "link": "http://it.chosun.com/site/data/html_dir/2020/08/22/2020082200948.html"
     }
 ];
