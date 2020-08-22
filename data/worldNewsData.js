@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
-        "title": "Global coronavirus death toll hits 800,000: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/200822013536155.html"
+        "title": "Global Coronavirus Death Toll Tops 800,000",
+        "link": "https://www.channelstv.com/2020/08/22/global-coronavirus-death-toll-tops-800000/"
     },
     {
         "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html"
     },
     {
-        "title": "Europe's Less-Deadly Surge, Berlin School Cases: Virus Update",
-        "link": "https://www.washingtonpost.com/business/on-small-business/german-cases-jump-as-europe-surge-is-less-deadly-virus-update/2020/08/21/1c68a5e4-e425-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+        "link": "https://www.bbc.com/news/world-europe-53875370"
     }
 ];
