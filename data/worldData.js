@@ -828,9 +828,9 @@ var marker = [
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "확진자수": 5098,
+        "확진자수": 5133,
         "사망자수": 611,
-        "완치자수": 3681
+        "완치자수": 3692
     },
     {
         "Name": "Equatorial Guinea",
