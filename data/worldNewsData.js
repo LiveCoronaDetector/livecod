@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl/index.html"
     },
     {
-        "title": "College Officials Clamp Down on Student Behavior Over Covid-19 Fears",
-        "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
-    },
-    {
         "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
         "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
+    },
+    {
+        "title": "Covid-19: China defends Wuhan pool party after viral video prompts int’l outrage",
+        "link": "https://hongkongfp.com/2020/08/22/covid-19-china-defends-wuhan-pool-party-after-viral-video-prompts-intl-outrage/"
     }
 ];
