@@ -441,20 +441,20 @@ var marker = [
         "완치자수": 33900
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 38231,
+        "사망자수": 262,
+        "완치자수": 33989
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
         "확진자수": 38219,
         "사망자수": 317,
         "완치자수": 27306
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 38074,
-        "사망자수": 260,
-        "완치자수": 33989
     },
     {
         "Name": "아프가니스탄",
@@ -542,15 +542,15 @@ var marker = [
         "Name_en": "Australia",
         "확진자수": 24602,
         "사망자수": 485,
-        "완치자수": 18460
+        "완치자수": 18759
     },
     {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "확진자수": 24200,
-        "사망자수": 646,
-        "완치자수": 11781
+        "확진자수": 24420,
+        "사망자수": 654,
+        "완치자수": 12021
     },
     {
         "Name": "체코",
@@ -1572,7 +1572,7 @@ var marker = [
         "Name": "Timor-Leste",
         "Name_ch": "",
         "Name_en": "Timor-Leste",
-        "확진자수": 25,
+        "확진자수": 26,
         "사망자수": 0,
         "완치자수": 25
     },
