@@ -14,15 +14,15 @@ var worldNewsData = [
     },
     {
         "title": "Europe Braces for New Phase in Pandemic With Cases Surging",
-        "link": "https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html"
+        "link": "https://news.google.com/articles/CAIiEP2qCVpFTzFPn9PmuFNu1d4qFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "These Americans came to India to deepen their faith. They’ve been detained, quarantined and prosecuted.",
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-americans-tablighi-jamaat/2020/08/20/9e2ceae4-ddb4-11ea-b4f1-25b762cdbbf4_story.html"
     },
     {
-        "title": "Controversy over Australian PM's vaccine comments points to the next coronavirus nightmare",
-        "link": "https://www.cnn.com/2020/08/20/australia/australia-morrison-coronavirus-vaccine-intl-hnk/index.html"
+        "title": "China says Wuhan water park pool party was 'payback' after coronavirus, calls critics 'sour grapes'",
+        "link": "https://www.foxnews.com/world/china-wuhan-water-park-pool-party-coronavirus"
     },
     {
         "title": "Coronavirus pandemic could be over within two years - WHO head",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     },
     {
-        "title": "College Officials Clamp Down on Student Behavior Over Covid-19 Fears",
-        "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
-    },
-    {
         "title": "Biden to ABC's David Muir: 'I would shut [country] down' to prevent spread of COVID-19 if scientists recommended",
         "link": "https://abcnews.go.com/Politics/biden-abcs-david-muir-shut-country-prevent-spread/story?id=72519690"
+    },
+    {
+        "title": "Wuhan pool party shows China's 'strategic victory' over Covid-19, Beijing says",
+        "link": "https://www.youtube.com/watch?v=MRuCv0yxpaA"
     }
 ];

@@ -201,20 +201,20 @@ var marker = [
         "완치자수": 113216
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "확진자수": 107435,
+        "사망자수": 4366,
+        "완치자수": 42141
+    },
+    {
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
         "확진자수": 106481,
         "사망자수": 6248,
         "완치자수": 87730
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "확진자수": 106065,
-        "사망자수": 4305,
-        "완치자수": 41111
     },
     {
         "Name": "Kazakhstan",
@@ -1329,20 +1329,20 @@ var marker = [
         "완치자수": 457
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 435,
+        "사망자수": 6,
+        "완치자수": 337
+    },
+    {
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
         "확진자수": 426,
         "사망자수": 1,
         "완치자수": 336
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 419,
-        "사망자수": 6,
-        "완치자수": 337
     },
     {
         "Name": "Comoros",
@@ -1438,7 +1438,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 273,
         "사망자수": 0,
-        "완치자수": 253
+        "완치자수": 263
     },
     {
         "Name": "지브롤터",
