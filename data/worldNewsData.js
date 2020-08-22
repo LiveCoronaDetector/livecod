@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53870798"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl/index.html"
-    },
-    {
         "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
         "link": "https://www.theguardian.com/world/2020/aug/21/uk-cheap-food-could-fuel-covid-19-spread-says-who-envoy"
     },
     {
         "title": "College Officials Clamp Down on Student Behavior Over Covid-19 Fears",
         "link": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html"
+    },
+    {
+        "title": "Biden to ABC's David Muir: 'I would shut [country] down' to prevent spread of COVID-19 if scientists recommended",
+        "link": "https://abcnews.go.com/Politics/biden-abcs-david-muir-shut-country-prevent-spread/story?id=72519690"
     }
 ];
