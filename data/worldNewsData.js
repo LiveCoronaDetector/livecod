@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/21/us/sturgis-motorcyle-rally-sd-covid-nebraska-trnd/index.html"
     },
     {
-        "title": "South Korea tightens social distancing rules as Covid cases rise",
-        "link": "https://www.theguardian.com/world/2020/aug/22/south-korea-physical-distancing-new-covid-outbreak-seoul"
+        "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
+        "link": "https://www.foxnews.com/world/south-korea-stricture-coronavirus-rules-triple-digit-increases"
     },
     {
         "title": "The latest on the coronavirus pandemic",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53870798"
     },
     {
-        "title": "Coronavirus Updates: As NY Reports Record-Low For COVID Positivity Rates Statewide, More Bars Hit With Violations",
-        "link": "https://gothamist.com/news/coronavirus-updates-august-22-2020"
+        "title": "Coronavirus cases linked to Sturgis Motorcycle Rally now found in Minnesota, 2 other states",
+        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-linked-sturgis-motorcycle-rally-now-found-minnesota-2-n1237771"
     },
     {
         "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
