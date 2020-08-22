@@ -9,20 +9,24 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993744?division=NAVER"
     },
     {
-        "title": "대형병원 포함 전국서 확진자 속출…사랑제일교회 누적 796명(종합)",
-        "link": "http://yna.kr/AKR20200822041251530?did=1195m"
-    },
-    {
-        "title": "충남 아산 삼성디스플레이 사업장서 코로나19 확진자 나와",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993748?division=NAVER"
+        "title": "충남 아산 삼성디스플레이 공사장에 코로나19 확진자 발생",
+        "link": "http://yna.kr/AKR20200822026700003?did=1195m"
     },
     {
         "title": "쿠팡 일산 배송센터, 코로나19 확진자 방문으로 폐쇄",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5882705_32647.html"
     },
     {
+        "title": "대형병원 포함 전국서 확진자 속출…사랑제일교회 누적 796명(종합)",
+        "link": "http://yna.kr/AKR20200822041251530?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
+    },
+    {
+        "title": "[속보] 경찰청 본청 1명 추가…최초 확진자와 같은 층 근무",
+        "link": "https://www.hankyung.com/life/article/2020082246157"
     },
     {
         "title": "홍남기 \"의료 파업은 코로나 대응 노력 수포로 돌리는 것\"",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020082212043813702"
     },
     {
-        "title": "[속보] 전세계 코로나 사망자 80만명…두달반만에 갑절로",
-        "link": "https://www.hankyung.com/international/article/2020082249047"
-    },
-    {
-        "title": "[속보] 보령시, 코로나19 확진자 발생에 따른 담화문 발표",
-        "link": "https://www.pressian.com/pages/articles/2020082215221036471?utm_source=naver&utm_medium=search"
+        "title": "러 선원 확진자 나온 감천항 외국 어선 12시간째 불(종합)",
+        "link": "http://yna.kr/AKR20200822011151051?did=1195m"
     }
 ];

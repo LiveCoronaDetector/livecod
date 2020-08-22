@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/08/21/20200821520010.html?OutUrl=naver"
     },
     {
-        "title": "제주도 내일부터 사회적 거리두기 2단계로 격상",
-        "link": "http://yna.kr/AKR20200821083100056?did=1195m"
-    },
-    {
         "title": "제주도내 27번째 확진자 부모 21일 확진 판정",
         "link": "https://www.pressian.com/pages/articles/2020082110351208155?utm_source=naver&utm_medium=search"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나 신규확진 332명, 전국서 확진자 발생… 정부 \"사회적 거리두기 2단계 ...",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/22/2020082200624.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "제주도내 27번째 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082110141479873?utm_source=naver&utm_medium=search"
     }
 ];

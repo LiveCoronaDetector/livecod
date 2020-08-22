@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53847699"
     },
     {
-        "title": "Coronavirus cases in India approach three million: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/200822013536155.html"
+        "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
+        "link": "https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html"
     },
     {
         "title": "For Quick Coronavirus Testing, Israel Turns to a Clever Algorithm",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html"
     },
     {
-        "title": "Record single-day spike of 69,874 infections pushes India's coronavirus tally to 29.75 lakh",
-        "link": "https://www.tribuneindia.com/news/nation/record-single-day-spike-of-69-874-infections-pushes-indias-covid-caseload-to-29-75-lakh-129764"
+        "title": "Coronavirus cases in India approach three million: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/200822013536155.html"
     },
     {
         "title": "China says Wuhan water park pool party was 'payback' after coronavirus, calls critics 'sour grapes'",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
     },
     {
-        "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
-        "link": "https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html"
+        "title": "Global report: WHO says world could rein in pandemic in less than two years",
+        "link": "https://www.theguardian.com/world/2020/aug/22/global-report-who-says-world-could-rein-in-pandemic-in-less-than-two-years"
     },
     {
         "title": "UK's cheap food could fuel Covid-19 spread, says WHO envoy",
