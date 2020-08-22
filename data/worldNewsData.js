@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
     },
     {
-        "title": "For Quick Coronavirus Testing, Israel Turns to a Clever Algorithm",
-        "link": "https://www.nytimes.com/2020/08/21/health/fast-coronavirus-testing-israel.html"
+        "title": "Pakistan reopens border with Afghanistan following closure to coronavirus: report",
+        "link": "https://www.foxnews.com/world/pakistan-reopens-border-with-afghanistan"
     },
     {
         "title": "Fans crowd into an indoor concert in experiment on how to return to normality",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-korea-stricture-coronavirus-rules-triple-digit-increases"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus pandemic could be over within two years - WHO head",
         "link": "https://www.bbc.com/news/world-53870798"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-linked-sturgis-motorcycle-rally-now-found-minnesota-2-n1237771"
     },
     {
-        "title": "Global Deaths Pass 800,000, Cases Above 23 Million: Virus Update",
-        "link": "https://www.bloomberg.com/news/articles/2020-08-22/u-s-deaths-still-high-as-europe-surge-less-fatal-virus-update"
+        "title": "Florida Test Rate Stabilizes; Italy Cases Creep Up: Virus Update",
+        "link": "https://www.msn.com/en-us/money/other/south-korea-on-brink-germanys-cases-fail-to-slow-virus-update/ar-BB18cSrs?li=BBnb7Kz"
+    },
+    {
+        "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
+        "link": "https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html"
     }
 ];
