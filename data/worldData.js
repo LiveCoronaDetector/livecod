@@ -113,20 +113,20 @@ var marker = [
         "완치자수": 277067
     },
     {
+        "Name": "Bangladesh",
+        "Name_ch": "",
+        "Name_en": "Bangladesh",
+        "확진자수": 292625,
+        "사망자수": 3907,
+        "완치자수": 175567
+    },
+    {
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
         "확진자수": 292174,
         "사망자수": 6231,
         "완치자수": 275317
-    },
-    {
-        "Name": "Bangladesh",
-        "Name_ch": "",
-        "Name_en": "Bangladesh",
-        "확진자수": 290360,
-        "사망자수": 3861,
-        "완치자수": 172615
     },
     {
         "Name": "이탈리아",
@@ -1612,7 +1612,7 @@ var marker = [
         "Name": "Dominica",
         "Name_ch": "",
         "Name_en": "Dominica",
-        "확진자수": 18,
+        "확진자수": 19,
         "사망자수": 0,
         "완치자수": 18
     },

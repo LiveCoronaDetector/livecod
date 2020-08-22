@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200822041251530?did=1195m"
     },
     {
-        "title": "[단독]배우-확진자 접촉... 뮤지컬 '킹키부츠' 멈추고 '렌트'도 하루 일찍 종...",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200749.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "[속보] 쿠팡 일산1배송캠프, 코로나19 확진자 방문으로 폐쇄",
         "link": "https://www.hankyung.com/life/article/2020082244377"
     },
     {
-        "title": "코로나19 신규 확진 5명 중 1명은 '깜깜이 확진자'",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200822000097"
+        "title": "[단독]배우-확진자 접촉... 뮤지컬 '킹키부츠' 멈추고 '렌트'도 하루 일찍 종...",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/22/2020082200749.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "코로나19 신규 확진자 332명…이틀 연속 300명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008221012001&code=940601"
     },
     {
         "title": "충남 아산 삼성디스플레이 사업장서 코로나19 확진자 나와",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993748?division=NAVER"
     },
     {
-        "title": "홍남기 \"의료 파업은 코로나 대응 노력 수포로 돌리는 것\"",
-        "link": "http://www.fnnews.com/news/202008221312345442"
-    },
-    {
-        "title": "광주·전남, 코로나19 확진자 증가 “안전지대는 없다”",
-        "link": "https://view.asiae.co.kr/article/2020082212043813702"
-    },
-    {
-        "title": "KBS \"코로나 19에 드라마 제작 중단…편성일정 조정 불가피\" [전문]",
-        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23854183"
-    },
-    {
-        "title": "경남, 코로나19 확진자 6명 추가…누적 188명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200822_0001138336&cID=10812&pID=10800"
-    },
-    {
         "title": "코로나19 신규 확진자 332명…17개 시·도서 모두 나와",
         "link": "http://www.hani.co.kr/arti/society/society_general/958877.html"
+    },
+    {
+        "title": "코로나19 신규 확진 5명 중 1명은 '깜깜이 확진자'",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200822000097"
+    },
+    {
+        "title": "전남서 코로나19 확진자 10명 추가 발생...누적확진자 70명",
+        "link": "http://www.fnnews.com/news/202008221228495499"
+    },
+    {
+        "title": "홍남기 \"의료계, 코로나19 극복 위해 파업 철회해 달라\"",
+        "link": "http://yna.kr/AKR20200822026600002?did=1195m"
+    },
+    {
+        "title": "경찰청 본청 1명 추가 양성판정…첫 확진자와 같이 근무",
+        "link": "http://yna.kr/AKR20200822054900004?did=1195m"
     }
 ];

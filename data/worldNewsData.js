@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/world/europe/coronavirus-second-wave.html"
     },
     {
-        "title": "Indonesia’s mixed couples in limbo due to borders shut by coronavirus",
-        "link": "https://www.scmp.com/week-asia/health-environment/article/3098376/coronavirus-leaves-indonesias-mixed-couples-limbo"
+        "title": "India nears 3 million COVID cases as Europe continues to see spikes",
+        "link": "https://www.cidrap.umn.edu/news-perspective/2020/08/india-nears-3-million-covid-cases-europe-continues-see-spikes"
     },
     {
-        "title": "China says Wuhan water park pool party was 'payback' after coronavirus, calls critics 'sour grapes'",
-        "link": "https://www.foxnews.com/world/china-wuhan-water-park-pool-party-coronavirus"
+        "title": "India coronavirus cases surge to 2.9 million",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-india-cases/india-coronavirus-cases-surge-to-2-9-million-idUSKBN25H0B6"
     },
     {
         "title": "Coronavirus pandemic could be over within two years - WHO head",
