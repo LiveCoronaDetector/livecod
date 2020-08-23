@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
-        "title": "Global Coronavirus Death Toll Tops 800,000",
-        "link": "https://news.google.com/articles/CAIiEK4aQdJlZ1wJ7-SSAtLYhw0qGQgEKhAIACoHCAowgob9CjCV4okDMJuf0gU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Covid-19 Updates: Global Death Toll Surpasses 800,000",
+        "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
     },
     {
         "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
-        "link": "https://news.google.com/articles/CAIiEM4GeM_WTVwifOWe8NMN_lwqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.foxnews.com/world/south-korea-stricture-coronavirus-rules-triple-digit-increases"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
+        "title": "Global Coronavirus Death Toll Tops 800,000",
+        "link": "https://www.channelstv.com/2020/08/22/global-coronavirus-death-toll-tops-800000/"
     },
     {
-        "title": "Germany Gets Volunteers for Indoor Concerts to Test Coronavirus Spread",
-        "link": "https://www.tmz.com/2020/08/22/germany-concert-test-volunteer-coronavirus-spread-covid-19/"
-    },
-    {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+        "link": "https://www.bbc.com/news/world-europe-53875370"
     },
     {
         "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
         "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
+    },
+    {
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     }
 ];
