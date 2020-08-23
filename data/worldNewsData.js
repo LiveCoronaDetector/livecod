@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/nearly-half-of-israelis-pessimistic-israel-can-overcome-covid-19-study-639611"
     },
     {
-        "title": "Coronavirus live news: Italy 'won't lock down again' to curb cases; £10,000 fines for illegal raves in England",
-        "link": "https://www.theguardian.com/world/live/2020/aug/23/coronavirus-live-news-india-nears-3m-cases-as-australian-state-of-queensland-to-announce-two-new-cases"
+        "title": "Fans crowd into an indoor concert in experiment on how to return to normality",
+        "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
-        "title": "South Korea faces resurgence of coronavirus outbreak: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/global-coronavirus-death-toll-surpasses-800000-live-updates-200822231200013.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-23-20-intl/index.html"
     },
     {
-        "title": "Asia’s El Chapo has Covid-19 to thank as Australia’s drug habit booms",
-        "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
+        "title": "Masked Singer Australia suspended after seven crew test positive for Covid-19",
+        "link": "https://www.bbc.com/news/world-australia-53875374"
     },
     {
-        "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-        "link": "https://www.bbc.com/news/world-europe-53875370"
-    },
-    {
-        "title": "France reports 3602 new coronavirus infections",
-        "link": "https://www.thestar.com.my/news/world/2020/08/23/france-reports-3602-new-coronavirus-infections"
-    },
-    {
-        "title": "WHO: Coronavirus pandemic could be over within two years | WION News | World News",
-        "link": "https://www.youtube.com/watch?v=g_ff5_m2gwI"
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     },
     {
         "title": "Why do Covid fatalities remain low when infection numbers are rising?",
         "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
+    },
+    {
+        "title": "Mexico passes somber coronavirus milestone even as signs of hope emerge",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-mexico-slowdown/mexico-nears-somber-coronavirus-milestone-even-as-signs-of-hope-emerge-idUSKBN25I0QU"
+    },
+    {
+        "title": "Coronavirus updates: World deaths surpass 800K; New York blocks 175-person wedding; pandemic complicates California fire evacuations",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/22/covid-news-calif-fire-evacuations-operation-warp-speed-us-deaths/3412168001/"
     }
 ];
