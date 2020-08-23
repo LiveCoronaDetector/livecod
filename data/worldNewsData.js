@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/health/fast-coronavirus-testing-israel.html"
     },
     {
-        "title": "Fans crowd into an indoor concert in experiment on how to return to normality",
-        "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
+        "title": "Here's what is driving Italy's surge in COVID-19 cases",
+        "link": "https://nypost.com/2020/08/23/vacationers-migrants-drive-italys-surge-in-covid-19-cases/"
     },
     {
-        "title": "Global Covid report: India passes 3m cases as South Korea sees biggest daily surge since March",
-        "link": "https://www.theguardian.com/world/2020/aug/23/global-report-india-passes-3m-cases-as-south-korea-sees-biggest-daily-surge-since-march"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-23-20-intl/index.html"
     },
     {
         "title": "In China, Where the Coronavirus Pandemic Began, Life Is Starting to Look Normal",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.msn.com/en-us/news/world/former-ukrainian-premier-tymoshenko-tests-positive-for-coronavirus/ar-BB18hu2E?li=BBnb7Kz"
     },
     {
-        "title": "Top UK scientist warns COVID-19 likely won’t ever truly go away",
-        "link": "https://www.timesofisrael.com/top-uk-scientist-warns-covid-19-likely-wont-ever-truly-go-away/"
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     },
     {
         "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",

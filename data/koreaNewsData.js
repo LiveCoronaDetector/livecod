@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "순천시, 5번 확진자 발생후 나흘만에 14명 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200823_0001139025&cID=10809&pID=10800"
-    },
-    {
-        "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008231503001&code=940601"
-    },
-    {
-        "title": "인천 중학생 확진자 등교 확인…학생 등 859명 전수검사(종합)",
-        "link": "http://yna.kr/AKR20200823029551065?did=1195m"
-    },
-    {
         "title": "하루 400명 육박 ‘코로나 19’ 신규 확진자… 3일 연속 300명대",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014934902&code=61121111&cp=nv"
     },
     {
         "title": "가족돌봄휴가비 지원 9월 말까지 연장키로…코로나19 여파 반영",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993814?division=NAVER"
+    },
+    {
+        "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008231503001&code=940601"
+    },
+    {
+        "title": "“코로나 때 실내행사 위험도는” 독일의 ‘콘서트 실험’",
+        "link": "http://www.hani.co.kr/arti/international/international_general/958937.html"
+    },
+    {
+        "title": "최근 2주간 일평균 확진자 160명대, 5명 중 1명은 '깜깜이 환자'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/23/2020082301025.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
