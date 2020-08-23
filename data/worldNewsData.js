@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/23/world/asia/china-coronavirus-normal-life.html"
     },
     {
+        "title": "Trump to reveal coronavirus 'breakthrough' therapeutic, WH press secretary says",
+        "link": "https://www.foxnews.com/politics/trump-to-reveal-coronavirus-breakthrough-therapeutic-wh-press-secretary-says"
+    },
+    {
         "title": "Why do Covid fatalities remain low when infection numbers are rising?",
         "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     },
     {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
         "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
-    },
-    {
-        "title": "Former Ukrainian premier Tymoshenko tests positive for coronavirus",
-        "link": "https://www.msn.com/en-us/news/world/former-ukrainian-premier-tymoshenko-tests-positive-for-coronavirus/ar-BB18hu2E?li=BBnb7Kz"
     },
     {
         "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
