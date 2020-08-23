@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23449096"
     },
     {
-        "title": "제주 코로나19 27번째 확진자 나와…제주도 역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
+        "title": "충주시, 코로나19 지역 확산 차단에 행정력 총 집중",
+        "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2089263"
     }
 ];

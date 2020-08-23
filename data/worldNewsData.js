@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/22/latest_news/1598078717_957108.html"
+        "link": "https://en.as.com/en/2020/08/23/latest_news/1598166599_363463.html"
     },
     {
         "title": "Coronavirus update: Infections are trending upward in the Midwest",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-23-20-intl/index.html"
     },
     {
-        "title": "Asia’s El Chapo has Covid-19 to thank as Australia’s drug habit booms",
-        "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
+        "title": "The Masked Singer production shut down after coronavirus outbreak on Melbourne set",
+        "link": "https://www.theguardian.com/tv-and-radio/2020/aug/23/the-masked-singer-production-shut-down-after-coronavirus-outbreak-on-melbourne-set"
     },
     {
         "title": "Coronavirus vaccine: Short cuts and allegations of dirty tricks in race to be first",
         "link": "https://www.bbc.com/news/world-53864069"
     },
     {
-        "title": "WHO hopes pandemic over in two years as Europe faces resurgent Covid-19",
-        "link": "https://www.youtube.com/watch?v=MlFX8o-nD6s"
+        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
+        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
+    },
+    {
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     },
     {
         "title": "Why do Covid fatalities remain low when infection numbers are rising?",
         "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
-    },
-    {
-        "title": "Coronavirus: Is the US the worst-hit country for deaths?",
-        "link": "https://www.bbc.com/news/world-us-canada-53780196"
     }
 ];
