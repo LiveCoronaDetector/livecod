@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-23-20-intl/index.html"
+        "title": "South Korea faces resurgence of coronavirus outbreak: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/global-coronavirus-death-toll-surpasses-800000-live-updates-200822231200013.html"
     },
     {
-        "title": "Masked Singer Australia suspended after seven crew test positive for Covid-19",
-        "link": "https://www.bbc.com/news/world-australia-53875374"
-    },
-    {
-        "title": "India expected to surpass 3 Million COVID-19 cases by Saturday | Coronavirus Cases",
-        "link": "https://www.youtube.com/watch?v=hXvkDxPEtcE"
+        "title": "Asia’s El Chapo has Covid-19 to thank as Australia’s drug habit booms",
+        "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
     },
     {
         "title": "Coronavirus vaccine: Short cuts and allegations of dirty tricks in race to be first",
         "link": "https://www.bbc.com/news/world-53864069"
+    },
+    {
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     },
     {
         "title": "Coronavirus spread largely among under 40-year-olds in France, minister says",
