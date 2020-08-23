@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014934830&code=61121111&cp=nv"
     },
     {
-        "title": "광주서 밤새 코로나19 확진자 5명 발생...22일 하루 17명",
-        "link": "http://www.fnnews.com/news/202008230904170821"
+        "title": "[속보] 순천15번 확진자, 지인·헬스클럽 등 380여명 접촉",
+        "link": "https://www.hankyung.com/life/article/2020082357217"
     },
     {
-        "title": "[종합] 코로나 일일 발생 400명 육박…재확산 후 최대 비상",
-        "link": "https://www.hankyung.com/life/article/2020082355367"
+        "title": "광주서 밤새 코로나19 확진자 5명 발생...22일 하루 17명",
+        "link": "http://www.fnnews.com/news/202008230904170821"
     },
     {
         "title": "경남, 밤새 코로나19 확진자 4명 추가…총 195명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200823_0001138821&cID=10812&pID=10800"
     },
     {
-        "title": "코로나 전국 확산 초비상…수도권 297명·지방 100명 (종합)",
-        "link": "https://view.asiae.co.kr/article/2020082311072581491"
+        "title": "[단독]부산개금백병원 응급실에 코로나 19 확진자 다녀가…응급실 폐쇄",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082312274273966"
     }
 ];
