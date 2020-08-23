@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Asia’s El Chapo has Covid-19 to thank as Australia’s drug habit booms",
-        "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
+        "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
+        "link": "https://www.foxnews.com/world/south-korea-stricture-coronavirus-rules-triple-digit-increases"
     },
     {
-        "title": "How does coronavirus spread at a concert? Germans do a test",
-        "link": "https://www.nbcnews.com/news/world/how-does-coronavirus-spread-concert-germans-do-test-n1237780"
+        "title": "Germany Gets Volunteers for Indoor Concerts to Test Coronavirus Spread",
+        "link": "https://www.tmz.com/2020/08/22/germany-concert-test-volunteer-coronavirus-spread-covid-19/"
     },
     {
         "title": "The latest on the coronavirus pandemic",
