@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01561286625870272"
     },
     {
+        "title": "[단독] JP모건 “한국 코로나 집단감염 이달말 정점\"",
+        "link": "https://www.sedaily.com/NewsView/1Z6OVEISVG"
+    },
+    {
         "title": "의협 \"코로나19 엄중…국무총리·여야에 긴급 대화 제안\"",
         "link": "http://yna.kr/AKR20200823031000017?did=1195m"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020082312274273966"
     },
     {
+        "title": "[단독] 연세대 공학대학원서 확진자…건물 폐쇄",
+        "link": "http://news.mk.co.kr/newsRead.php?no=865572&year=2020"
+    },
+    {
         "title": "가족돌봄휴가비 지원 9월 말까지 연장키로…코로나19 여파 반영",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993814?division=NAVER"
-    },
-    {
-        "title": "최근 2주간 일평균 확진자 160명대, 5명 중 1명은 '깜깜이 환자'",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/23/2020082301025.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008231503001&code=940601"
     }
 ];

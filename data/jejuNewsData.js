@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2089263"
     },
     {
-        "title": "제주 코로나19 27번째 확진자 나와…제주도 역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
+        "title": "제주 27·28번째 확진자 접촉 189명…도내 관리자 155명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523463&ref=A"
     }
 ];
