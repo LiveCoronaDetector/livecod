@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200823/102603783/1"
     },
     {
-        "title": "[속보] 코로나19 대구 확진 6명…광화문 집회 관련 2명(전문)",
-        "link": "https://news.imaeil.com/Society/2020082311283249974"
-    },
-    {
         "title": "‘정부가 코로나19 확진자 양산?’…가짜뉴스 확산 경찰 엄정대응",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014934830&code=61121111&cp=nv"
+    },
+    {
+        "title": "[속보] 코로나19 대구 확진 6명…광화문 집회 관련 2명(전문)",
+        "link": "https://news.imaeil.com/Society/2020082311283249974"
     },
     {
         "title": "광주서 밤새 코로나19 확진자 5명 발생...22일 하루 17명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020082355367"
     },
     {
-        "title": "경남, 밤새 코로나19 확진자 4명 추가…총 195명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200823_0001138821&cID=10812&pID=10800"
+        "title": "[단독]부산개금백병원 응급실에 코로나 19 확진자 다녀가…응급실 폐쇄",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082312274273966"
     }
 ];

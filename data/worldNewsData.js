@@ -21,15 +21,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
     },
     {
-        "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
-        "link": "https://www.foxnews.com/world/south-korea-stricture-coronavirus-rules-triple-digit-increases"
+        "title": "Asia’s El Chapo has Covid-19 to thank as Australia’s drug habit booms",
+        "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
     },
     {
-        "title": "Germany Gets Volunteers for Indoor Concerts to Test Coronavirus Spread",
-        "link": "https://www.tmz.com/2020/08/22/germany-concert-test-volunteer-coronavirus-spread-covid-19/"
+        "title": "German Scientists Stage Packed Concert To Investigate COVID-19 Spread | NBC News",
+        "link": "https://www.youtube.com/watch?v=0qtYlOjQbYc"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
+        "title": "August 22 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53870798"
     },
     {
-        "title": "Mexico reports ‘catastrophic’ 60,000 Covid-19 deaths",
-        "link": "https://www.ft.com/content/fc83004a-769f-49b3-9f7c-9d5fd840d31f"
+        "title": "Global coronavirus death toll surpasses 800,000: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/global-coronavirus-death-toll-surpasses-800000-live-updates-200822231200013.html"
     }
 ];
