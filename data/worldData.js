@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5869509,
-        "사망자수": 180555,
-        "완치자수": 3160493
+        "확진자수": 5870430,
+        "사망자수": 180557,
+        "완치자수": 3160667
     },
     {
         "Name": "브라질",
@@ -446,7 +446,7 @@ var marker = [
         "Name_en": "Switzerland",
         "확진자수": 39903,
         "사망자수": 2001,
-        "완치자수": 34100
+        "완치자수": 34400
     },
     {
         "Name": "Venezuela",
@@ -604,9 +604,9 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 15227,
+        "확진자수": 15287,
         "사망자수": 545,
-        "완치자수": 10322
+        "완치자수": 10338
     },
     {
         "Name": "Madagascar",
@@ -908,9 +908,9 @@ var marker = [
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "확진자수": 3455,
+        "확진자수": 3509,
         "사망자수": 37,
-        "완치자수": 2538
+        "완치자수": 2540
     },
     {
         "Name": "태국",
@@ -1041,20 +1041,20 @@ var marker = [
         "완치자수": 505
     },
     {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+        "확진자수": 2171,
+        "사망자수": 96,
+        "완치자수": 818
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
         "확진자수": 2149,
         "사망자수": 33,
         "완치자수": 1015
-    },
-    {
-        "Name": "Angola",
-        "Name_ch": "",
-        "Name_en": "Angola",
-        "확진자수": 2134,
-        "사망자수": 94,
-        "완치자수": 814
     },
     {
         "Name": "Benin",
@@ -1169,20 +1169,20 @@ var marker = [
         "완치자수": 1093
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 1320,
+        "사망자수": 55,
+        "완치자수": 1043
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "확진자수": 1308,
         "사망자수": 3,
         "완치자수": 136
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 1297,
-        "사망자수": 55,
-        "완치자수": 1034
     },
     {
         "Name": "Liberia",
@@ -1196,9 +1196,9 @@ var marker = [
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "확진자수": 1275,
+        "확진자수": 1277,
         "사망자수": 27,
-        "완치자수": 903
+        "완치자수": 910
     },
     {
         "Name": "Réunion",
