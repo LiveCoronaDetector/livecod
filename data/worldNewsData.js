@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53864069"
     },
     {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "WHO hopes pandemic over in two years as Europe faces resurgent Covid-19",
+        "link": "https://www.youtube.com/watch?v=MlFX8o-nD6s"
     },
     {
-        "title": "Mexico reports ‘catastrophic’ 60,000 Covid-19 deaths",
-        "link": "https://www.ft.com/content/fc83004a-769f-49b3-9f7c-9d5fd840d31f"
+        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
+        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     },
     {
-        "title": "Coronavirus updates: World deaths surpass 800K; New York blocks 175-person wedding; pandemic complicates California fire evacuations",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/22/covid-news-calif-fire-evacuations-operation-warp-speed-us-deaths/3412168001/"
+        "title": "Coronavirus: Is the US the worst-hit country for deaths?",
+        "link": "https://www.bbc.com/news/world-us-canada-53780196"
     }
 ];

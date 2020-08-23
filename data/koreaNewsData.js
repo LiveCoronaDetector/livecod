@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014934902&code=61121111&cp=nv"
     },
     {
-        "title": "의협 \"코로나19 엄중…국무총리·여야에 긴급 대화 제안\"",
-        "link": "http://yna.kr/AKR20200823031000017?did=1195m"
-    },
-    {
         "title": "[브리핑] 전국 확진자 속출…사랑제일교회 총 841명",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008231503001&code=940601"
+        "title": "의협 \"코로나19 엄중…국무총리·여야에 긴급 대화 제안\"",
+        "link": "http://yna.kr/AKR20200823031000017?did=1195m"
+    },
+    {
+        "title": "춘천 남부초교 2명 코로나19 확진…18번 확진자 손자",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082200000"
+    },
+    {
+        "title": "\"코로나19, 인류와 영원히 함께할 수도\"…英SAGE 경고",
+        "link": "https://www.news1.kr/articles/?4034345"
     },
     {
         "title": "[단독]부산개금백병원 응급실에 코로나 19 확진자 다녀가…응급실 폐쇄",
         "link": "http://www.busan.com/view/busan/view.php?code=2020082312274273966"
-    },
-    {
-        "title": "경남, 밤새 코로나19 확진자 4명 추가…총 195명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200823_0001138821&cID=10812&pID=10800"
     },
     {
         "title": "LG유플러스 용산사옥서 코로나19 확진자 나왔다",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008230904170821"
     },
     {
-        "title": "[속보] 정은경 \"확진자 400명 육박, 아직 정점 아니다\"",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/23/2020082300696.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "경남, 밤새 코로나19 확진자 4명 추가…총 195명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200823_0001138821&cID=10812&pID=10800"
     },
     {
-        "title": "사랑제일교회 확진자 841명…교회 무관 'n차 감염' 112명(상보)",
-        "link": "https://view.asiae.co.kr/article/2020082314402788151"
+        "title": "원주 체조교실 관련 확진자 잇따라…누계 23명(종합)",
+        "link": "http://yna.kr/AKR20200823008051062?did=1195m"
     }
 ];
