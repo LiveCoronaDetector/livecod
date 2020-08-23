@@ -9,7 +9,7 @@ var jejuNewsData = [
         "link": "http://www.ezyeconomy.com/news/articleView.html?idxno=104410"
     },
     {
-        "title": "[속보]'코로나19' 신규 확진 397명… 2차 확산 후 최대",
+        "title": "'코로나19' 신규 확진 397명… 2차 확산 후 최대",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
     },
     {

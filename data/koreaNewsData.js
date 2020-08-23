@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200823008051062?did=1195m"
     },
     {
-        "title": "[속보]‘코로나19’ 확진자 397명…3일째 300명대",
-        "link": "https://www.donga.com/news/article/all/20200823/102603783/1"
-    },
-    {
         "title": "[속보] 순천15번 확진자, 지인·헬스클럽 등 380여명 접촉",
         "link": "https://www.hankyung.com/life/article/2020082357217"
+    },
+    {
+        "title": "[속보]‘코로나19’ 확진자 397명…3일째 300명대",
+        "link": "https://www.donga.com/news/article/all/20200823/102603783/1"
     },
     {
         "title": "춘천 남부초교 2명 코로나19 확진…18번 확진자 손자",

@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "Fresh Coronavirus cases reported in 41 schools in Germany's capital after reopening",
-        "link": "https://www.youtube.com/watch?v=sjMcrSa_DwQ"
+        "title": "These Countries Have The Highest COVID-19 Infection Rates. This Is What The US Has In Common With Them.",
+        "link": "https://www.buzzfeednews.com/article/karlazabludovsky/covid-russia-india-brazil-mexico-usa"
     }
 ];
