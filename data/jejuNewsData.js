@@ -5,6 +5,14 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
     },
     {
+        "title": "코로나19 신규 확진자 397명, 누적 1만7399명…서울‧경기 등 수도권 294명",
+        "link": "http://www.ezyeconomy.com/news/articleView.html?idxno=104410"
+    },
+    {
+        "title": "[속보]'코로나19' 신규 확진 397명… 2차 확산 후 최대",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
+    },
+    {
         "title": "제주도내 27번째 확진자 부모 21일 확진 판정",
         "link": "https://www.pressian.com/pages/articles/2020082110351208155?utm_source=naver&utm_medium=search"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도내 27번째 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082110141479873?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주서 코로나19 27번째 확진자 발생…서울서 입도",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005940555&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "'코로나 예방' K리그 무관중 경기 확산…전북-제주도 동참",
-        "link": "http://sports.chosun.com/news/ntype.htm?id=202008220100188260012597&servicedate=20200821"
     }
 ];

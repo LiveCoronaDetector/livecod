@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
     },
     {
-        "title": "The Masked Singer production shut down after coronavirus outbreak on Melbourne set",
-        "link": "https://www.theguardian.com/tv-and-radio/2020/aug/23/the-masked-singer-production-shut-down-after-coronavirus-outbreak-on-melbourne-set"
+        "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
+        "link": "https://www.foxnews.com/world/south-korea-stricture-coronavirus-rules-triple-digit-increases"
+    },
+    {
+        "title": "Global coronavirus death toll surpasses 800,000: Live updates",
+        "link": "https://www.aljazeera.com/news/2020/08/global-coronavirus-death-toll-surpasses-800000-live-updates-200822231200013.html"
     },
     {
         "title": "The latest on the coronavirus pandemic",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "Alabama posts lowest coronavirus numbers in months: Week in review",
-        "link": "https://www.al.com/news/2020/08/alabama-posts-lowest-coronavirus-numbers-in-months-week-in-review.html"
-    },
-    {
-        "title": "Coronavirus: Is the US the worst-hit country for deaths?",
-        "link": "https://www.bbc.com/news/world-us-canada-53780196"
+        "title": "Fresh Coronavirus cases reported in 41 schools in Germany's capital after reopening",
+        "link": "https://www.youtube.com/watch?v=sjMcrSa_DwQ"
     }
 ];
