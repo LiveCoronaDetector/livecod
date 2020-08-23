@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
     },
     {
-        "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
-        "link": "https://www.foxnews.com/world/south-korea-stricture-coronavirus-rules-triple-digit-increases"
-    },
-    {
-        "title": "Global Coronavirus Death Toll Tops 800,000",
-        "link": "https://www.channelstv.com/2020/08/22/global-coronavirus-death-toll-tops-800000/"
+        "title": "The Masked Singer production shut down after coronavirus outbreak on Melbourne set",
+        "link": "https://www.theguardian.com/tv-and-radio/2020/aug/23/the-masked-singer-production-shut-down-after-coronavirus-outbreak-on-melbourne-set"
     },
     {
         "title": "The latest on the coronavirus pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
     },
     {
-        "title": "How does coronavirus spread at a concert? Germans do a test",
-        "link": "https://apnews.com/bc8833d2fcd394b6e1881ce63eb85476"
+        "title": "Coronavirus pandemic: Children aged 12 and over should wear masks - WHO",
+        "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "Fresh Coronavirus cases reported in 41 schools in Germany's capital after reopening",
-        "link": "https://www.youtube.com/watch?v=sjMcrSa_DwQ"
+        "title": "Alabama posts lowest coronavirus numbers in months: Week in review",
+        "link": "https://www.al.com/news/2020/08/alabama-posts-lowest-coronavirus-numbers-in-months-week-in-review.html"
+    },
+    {
+        "title": "Coronavirus: Is the US the worst-hit country for deaths?",
+        "link": "https://www.bbc.com/news/world-us-canada-53780196"
     }
 ];
