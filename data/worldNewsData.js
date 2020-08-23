@@ -18,11 +18,11 @@ var worldNewsData = [
     },
     {
         "title": "Global Coronavirus Death Toll Tops 800,000",
-        "link": "https://www.channelstv.com/2020/08/22/global-coronavirus-death-toll-tops-800000/"
+        "link": "https://news.google.com/articles/CAIiEK4aQdJlZ1wJ7-SSAtLYhw0qGQgEKhAIACoHCAowgob9CjCV4okDMJuf0gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "South Korea imposes coronavirus lockdown rules following nine days of triple-digit increases in new cases",
-        "link": "https://www.foxnews.com/world/south-korea-stricture-coronavirus-rules-triple-digit-increases"
+        "link": "https://news.google.com/articles/CAIiEM4GeM_WTVwifOWe8NMN_lwqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "The latest on the coronavirus pandemic",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.tmz.com/2020/08/22/germany-concert-test-volunteer-coronavirus-spread-covid-19/"
     },
     {
-        "title": "Coronavirus pandemic: Children aged 12 and over should wear masks - WHO",
-        "link": "https://www.bbc.com/news/world-53877292"
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     },
     {
         "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
