@@ -9,20 +9,24 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "전공의협의회, 코로나 진료 참여키로…\"진정성 있는 논의 시작\"(종합)",
-        "link": "http://yna.kr/AKR20200823069251001?did=1195m"
+        "title": "[2보] 전공의협의회, 코로나 대응 진료에 적극 참여키로",
+        "link": "http://yna.kr/AKR20200823069200001?did=1195m"
     },
     {
         "title": "하루 400명 육박 ‘코로나 19’ 신규 확진자… 3일 연속 300명대",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014934902&code=61121111&cp=nv"
     },
     {
-        "title": "전공의들 \"코로나 진료 적극 참여할 것\"…파업철회는 아냐(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/23/2020082302176.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "가족돌봄휴가비 지원 9월 말까지 연장키로…코로나19 여파 반영",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000993814?division=NAVER"
+    },
+    {
+        "title": "최근 2주간 일평균 확진자 160명대, 5명 중 1명은 '깜깜이 환자'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/23/2020082301025.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 확진자 나온 정부서울청사 별관, 밀접접촉자 등 35명 검사",
+        "link": "https://view.asiae.co.kr/article/2020082321375940367"
     },
     {
         "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/958937.html"
     },
     {
-        "title": "최근 2주간 일평균 확진자 160명대, 5명 중 1명은 '깜깜이 환자'",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/23/2020082301025.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "전공의, 코로나 진료 참여키로…\"진정성 있는 논의 시작\"(종합2보)",
-        "link": "http://yna.kr/AKR20200823069252001?did=1195m"
+        "title": "정부 \"코로나19 엄중…의료인, 지금은 진료 현장 복귀해야\"",
+        "link": "http://yna.kr/AKR20200823050900530?did=1195m"
     }
 ];

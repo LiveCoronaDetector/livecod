@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/italys-coronavirus-cases-surge"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-23-20-intl/index.html"
+        "title": "Global Covid report: India passes 3m cases as South Korea sees biggest daily surge since March",
+        "link": "https://www.theguardian.com/world/2020/aug/23/global-report-india-passes-3m-cases-as-south-korea-sees-biggest-daily-surge-since-march"
     },
     {
         "title": "In China, Where the Coronavirus Pandemic Began, Life Is Starting to Look Normal",
         "link": "https://www.nytimes.com/2020/08/23/world/asia/china-coronavirus-normal-life.html"
     },
     {
-        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
-        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
-    },
-    {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
         "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
     },
     {
-        "title": "Former Ukrainian premier Tymoshenko tests positive for coronavirus",
-        "link": "https://www.msn.com/en-us/news/world/former-ukrainian-premier-tymoshenko-tests-positive-for-coronavirus/ar-BB18hu2E?li=BBnb7Kz"
+        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
+        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     },
     {
         "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
         "link": "https://www.usatoday.com/story/news/world/2020/08/23/coca-cola-bottled-poison-mexico-finds-covid-19-villain-soda/5607741002/"
+    },
+    {
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     }
 ];
