@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/nearly-half-of-israelis-pessimistic-israel-can-overcome-covid-19-study-639611"
     },
     {
-        "title": "Fans crowd into an indoor concert in experiment on how to return to normality",
-        "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
+        "title": "Coronavirus live news: Italy 'won't lock down again' to curb cases; £10,000 fines for illegal raves in England",
+        "link": "https://www.theguardian.com/world/live/2020/aug/23/coronavirus-live-news-india-nears-3m-cases-as-australian-state-of-queensland-to-announce-two-new-cases"
     },
     {
         "title": "South Korea faces resurgence of coronavirus outbreak: Live news",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
     },
     {
-        "title": "Coronavirus vaccine: Short cuts and allegations of dirty tricks in race to be first",
-        "link": "https://www.bbc.com/news/world-53864069"
+        "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+        "link": "https://www.bbc.com/news/world-europe-53875370"
     },
     {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "France reports 3602 new coronavirus infections",
+        "link": "https://www.thestar.com.my/news/world/2020/08/23/france-reports-3602-new-coronavirus-infections"
     },
     {
-        "title": "Coronavirus spread largely among under 40-year-olds in France, minister says",
-        "link": "https://news.yahoo.com/coronavirus-spread-largely-among-under-221141727.html"
+        "title": "WHO: Coronavirus pandemic could be over within two years | WION News | World News",
+        "link": "https://www.youtube.com/watch?v=g_ff5_m2gwI"
     },
     {
-        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
-        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
+        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
+        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     }
 ];

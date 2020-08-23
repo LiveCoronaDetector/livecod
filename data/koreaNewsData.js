@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200823_0001139025&cID=10809&pID=10800"
     },
     {
+        "title": "LG유플러스 용산사옥서 코로나19 확진자 나왔다",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008230071&t=NN"
+    },
+    {
         "title": "[브리핑] 전국 확진자 속출…사랑제일교회 총 841명",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보]순천·광양서 밤사이 또 3명…닷새 연속 코로나 확진",
+        "link": "https://www.news1.kr/articles/?4034377"
     },
     {
         "title": "의협 \"코로나19 엄중…국무총리·여야에 긴급 대화 제안\"",
         "link": "http://yna.kr/AKR20200823031000017?did=1195m"
     },
     {
-        "title": "LG유플러스 용산사옥서 코로나19 확진자 나왔다",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008230071&t=NN"
+        "title": "순천 15번 확진자, 헬스장 등서 접촉자 380여명 추정",
+        "link": "https://hankookilbo.com/News/Read/A2020082313040003219?did=NA"
     },
     {
-        "title": "코로나19 신규 확진 400명 육박, 전국에서 속출",
-        "link": "https://www.nocutnews.co.kr/news/5399184"
+        "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008231503001&code=940601"
     },
     {
         "title": "[전문]극단 미인 \"코로나19 확진자 3명 발생\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01561286625870272"
     },
     {
-        "title": "[속보]전북 70번째 확진자 발생...60대 전주 거주 남성",
-        "link": "http://www.fnnews.com/news/202008231709440979"
-    },
-    {
         "title": "[단독] JP모건 “한국 코로나 집단감염 이달말 정점\"",
         "link": "https://www.sedaily.com/NewsView/1Z6OVEISVG"
     },
     {
-        "title": "'도도솔솔라라솔' 코로나19 여파 첫방 연기 \"자가격리\"[전문]",
-        "link": "http://star.mt.co.kr/stview.php?no=2020082313165094739"
-    },
-    {
-        "title": "[속보] 김포 거주, 여의도순복음교회 확진자 가족 3명 감염",
-        "link": "https://www.hankyung.com/life/article/2020082368067"
+        "title": "광주서 밤새 코로나19 확진자 5명 발생...22일 하루 17명",
+        "link": "http://www.fnnews.com/news/202008230904170821"
     }
 ];
