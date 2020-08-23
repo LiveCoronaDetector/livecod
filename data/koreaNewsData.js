@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/23/2020082301025.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 확진자 나온 정부서울청사 별관, 밀접접촉자 등 35명 검사",
-        "link": "https://view.asiae.co.kr/article/2020082321375940367"
-    },
-    {
         "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008231503001&code=940601"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "정부 \"코로나19 엄중…의료인, 지금은 진료 현장 복귀해야\"",
         "link": "http://yna.kr/AKR20200823050900530?did=1195m"
+    },
+    {
+        "title": "의협 \"코로나19 엄중…국무총리·여야에 긴급 대화 제안\"",
+        "link": "http://yna.kr/AKR20200823031000017?did=1195m"
     }
 ];

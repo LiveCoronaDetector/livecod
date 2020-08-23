@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/23/world/asia/china-coronavirus-normal-life.html"
     },
     {
-        "title": "Trump to reveal coronavirus 'breakthrough' therapeutic, WH press secretary says",
-        "link": "https://www.foxnews.com/politics/trump-to-reveal-coronavirus-breakthrough-therapeutic-wh-press-secretary-says"
-    },
-    {
-        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
-        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
+        "title": "Covid-19 Updates: White House Claims a 'Therapeutic Breakthrough' Is Coming",
+        "link": "https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html"
     },
     {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
         "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
     },
     {
-        "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
+        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
+        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
+    },
+    {
+        "title": "Soft drink or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
         "link": "https://www.usatoday.com/story/news/world/2020/08/23/coca-cola-bottled-poison-mexico-finds-covid-19-villain-soda/5607741002/"
     }
 ];
