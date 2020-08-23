@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-korea-stricture-coronavirus-rules-triple-digit-increases"
     },
     {
-        "title": "Global coronavirus death toll surpasses 800,000: Live updates",
-        "link": "https://www.aljazeera.com/news/2020/08/global-coronavirus-death-toll-surpasses-800000-live-updates-200822231200013.html"
+        "title": "Germany Gets Volunteers for Indoor Concerts to Test Coronavirus Spread",
+        "link": "https://www.tmz.com/2020/08/22/germany-concert-test-volunteer-coronavirus-spread-covid-19/"
     },
     {
         "title": "The latest on the coronavirus pandemic",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "These Countries Have The Highest COVID-19 Infection Rates. This Is What The US Has In Common With Them.",
-        "link": "https://www.buzzfeednews.com/article/karlazabludovsky/covid-russia-india-brazil-mexico-usa"
+        "title": "Mexico reports ‘catastrophic’ 60,000 Covid-19 deaths",
+        "link": "https://www.ft.com/content/fc83004a-769f-49b3-9f7c-9d5fd840d31f"
     }
 ];
