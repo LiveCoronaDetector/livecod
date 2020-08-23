@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "German Scientists Stage Packed Concert To Investigate COVID-19 Spread | NBC News",
-        "link": "https://www.youtube.com/watch?v=0qtYlOjQbYc"
+        "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
+        "link": "https://www.usatoday.com/story/news/world/2020/08/23/coca-cola-bottled-poison-mexico-finds-covid-19-villain-soda/5607741002/"
     },
     {
-        "title": "These Countries Have The Highest COVID-19 Infection Rates. This Is What The US Has In Common With Them.",
-        "link": "https://www.buzzfeednews.com/article/karlazabludovsky/covid-russia-india-brazil-mexico-usa"
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     }
 ];

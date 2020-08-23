@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/23/2020082302176.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "순천시, 5번 확진자 발생후 나흘만에 14명 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200823_0001139025&cID=10809&pID=10800"
-    },
-    {
         "title": "LG유플러스 용산사옥서 코로나19 확진자 나왔다",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008230071&t=NN"
+    },
+    {
+        "title": "순천시, 5번 확진자 발생후 나흘만에 14명 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200823_0001139025&cID=10809&pID=10800"
     },
     {
         "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200823029551065?did=1195m"
     },
     {
+        "title": "전공의, 코로나 진료 참여키로…\"진정성 있는 논의 시작\"(종합2보)",
+        "link": "http://yna.kr/AKR20200823069252001?did=1195m"
+    },
+    {
         "title": "[단독] JP모건 “한국 코로나 집단감염 이달말 정점\"",
         "link": "https://www.sedaily.com/NewsView/1Z6OVEISVG"
     },
     {
         "title": "[브리핑] 전국 확진자 속출…사랑제일교회 총 841명",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "[단독] 연세대 공학대학원서 확진자…건물 폐쇄",
-        "link": "http://news.mk.co.kr/newsRead.php?no=865572&year=2020"
     },
     {
         "title": "하루 400명 육박 ‘코로나 19’ 신규 확진자… 3일 연속 300명대",
