@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-23-20-intl/index.html"
     },
     {
-        "title": "The Masked Singer production shut down after coronavirus outbreak on Melbourne set",
-        "link": "https://www.theguardian.com/tv-and-radio/2020/aug/23/the-masked-singer-production-shut-down-after-coronavirus-outbreak-on-melbourne-set"
+        "title": "Masked Singer Australia suspended after seven crew test positive for Covid-19",
+        "link": "https://www.bbc.com/news/world-australia-53875374"
+    },
+    {
+        "title": "India expected to surpass 3 Million COVID-19 cases by Saturday | Coronavirus Cases",
+        "link": "https://www.youtube.com/watch?v=hXvkDxPEtcE"
     },
     {
         "title": "Coronavirus vaccine: Short cuts and allegations of dirty tricks in race to be first",
         "link": "https://www.bbc.com/news/world-53864069"
     },
     {
+        "title": "Coronavirus spread largely among under 40-year-olds in France, minister says",
+        "link": "https://news.yahoo.com/coronavirus-spread-largely-among-under-221141727.html"
+    },
+    {
         "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
         "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
-    },
-    {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
-    },
-    {
-        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
-        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     }
 ];
