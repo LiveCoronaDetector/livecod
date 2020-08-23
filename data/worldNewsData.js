@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/23/latest_news/1598166599_363463.html"
     },
     {
-        "title": "Coronavirus update: Infections are trending upward in the Midwest",
-        "link": "https://www.washingtonpost.com/nation/2020/08/22/coronavirus-covid-updates/"
+        "title": "At least 13 people die in stampede, as police raid nightclub breaking coronavirus restrictions",
+        "link": "https://www.cnn.com/2020/08/23/americas/peru-nighclub-covid-stampede-intl-scli/index.html"
     },
     {
         "title": "For Quick Coronavirus Testing, Israel Turns to a Clever Algorithm",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/global-coronavirus-death-toll-surpasses-800000-live-updates-200822231200013.html"
     },
     {
-        "title": "Asia’s El Chapo has Covid-19 to thank as Australia’s drug habit booms",
-        "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
+        "title": "In China, Where the Pandemic Began, Life Is Starting to Look … Normal",
+        "link": "https://www.nytimes.com/2020/08/23/world/asia/china-coronavirus-normal-life.html"
     },
     {
         "title": "Why do Covid fatalities remain low when infection numbers are rising?",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "France reports 3602 new coronavirus infections",
-        "link": "https://www.thestar.com.my/news/world/2020/08/23/france-reports-3602-new-coronavirus-infections"
+        "title": "The UK's gathering Covid-19 autumn storm",
+        "link": "https://www.theguardian.com/world/2020/aug/23/uk-gathering-covid-19-autumn-storm-boris-johnson-britain-second-wave-coronavirus-economic-chaos"
     },
     {
-        "title": "Mexico passes somber coronavirus milestone even as signs of hope emerge",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-mexico-slowdown/mexico-nears-somber-coronavirus-milestone-even-as-signs-of-hope-emerge-idUSKBN25I0QU"
+        "title": "These Countries Have The Highest COVID-19 Infection Rates. This Is What The US Has In Common With Them.",
+        "link": "https://www.buzzfeednews.com/article/karlazabludovsky/covid-russia-india-brazil-mexico-usa"
     }
 ];

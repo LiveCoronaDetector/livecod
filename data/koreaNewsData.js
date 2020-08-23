@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008230071&t=NN"
     },
     {
-        "title": "[브리핑] 전국 확진자 속출…사랑제일교회 총 841명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "의협 \"코로나19 엄중…국무총리·여야에 긴급 대화 제안\"",
-        "link": "http://yna.kr/AKR20200823031000017?did=1195m"
-    },
-    {
         "title": "[속보]순천·광양서 밤사이 또 3명…닷새 연속 코로나 확진",
         "link": "https://www.news1.kr/articles/?4034377"
+    },
+    {
+        "title": "[브리핑] 전국 확진자 속출…사랑제일교회 총 841명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
     },
     {
         "title": "[단독]부산개금백병원 응급실에 코로나 19 확진자 다녀가…응급실 폐쇄",
         "link": "http://www.busan.com/view/busan/view.php?code=2020082312274273966"
     },
     {
-        "title": "[속보]원주 일주일새 40명 코로나 집단감염…일파만파 확산",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082200013"
-    },
-    {
-        "title": "[전문]극단 미인 \"코로나19 확진자 3명 발생\"",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01561286625870272"
+        "title": "與, 코로나 전국 재확산에 추석 이동제한 검토 시사(종합)",
+        "link": "http://yna.kr/AKR20200823055351001?did=1195m"
     },
     {
         "title": "최근 2주간 일평균 확진자 160명대, 5명 중 1명은 '깜깜이 환자'",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/23/2020082301025.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[전문]극단 미인 \"코로나19 확진자 3명 발생\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01561286625870272"
+    },
+    {
         "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008231503001&code=940601"
+    },
+    {
+        "title": "“코로나 때 실내행사 위험도는” 독일의 ‘콘서트 실험’",
+        "link": "http://www.hani.co.kr/arti/international/international_general/958937.html"
     }
 ];
