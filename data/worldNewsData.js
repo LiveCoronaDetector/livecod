@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     },
     {
-        "title": "Coronavirus pandemic: Children aged 12 and over should wear masks - WHO",
-        "link": "https://www.bbc.com/news/world-53877292"
-    },
-    {
-        "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
-        "link": "https://www.usatoday.com/story/news/world/2020/08/23/coca-cola-bottled-poison-mexico-finds-covid-19-villain-soda/5607741002/"
+        "title": "Coronavirus: Is the US the worst-hit country for deaths?",
+        "link": "https://www.bbc.com/news/world-us-canada-53780196"
     },
     {
         "title": "Coronavirus pandemic could be over within two years - WHO head",
         "link": "https://www.bbc.com/news/world-53870798"
+    },
+    {
+        "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
+        "link": "https://www.usatoday.com/story/news/world/2020/08/23/coca-cola-bottled-poison-mexico-finds-covid-19-villain-soda/5607741002/"
     }
 ];
