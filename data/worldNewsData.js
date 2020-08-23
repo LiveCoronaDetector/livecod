@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/08/22/coronavirus-covid-updates/"
     },
     {
-        "title": "Nearly half of Israelis pessimistic Israel can overcome COVID-19 – study",
-        "link": "https://www.jpost.com/health-science/nearly-half-of-israelis-pessimistic-israel-can-overcome-covid-19-study-639611"
+        "title": "For Quick Coronavirus Testing, Israel Turns to a Clever Algorithm",
+        "link": "https://www.nytimes.com/2020/08/21/health/fast-coronavirus-testing-israel.html"
     },
     {
         "title": "Fans crowd into an indoor concert in experiment on how to return to normality",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
     },
     {
+        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
+        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
+    },
+    {
         "title": "Coronavirus pandemic: Children aged 12 and over should wear masks - WHO",
         "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
-        "link": "https://news.google.com/articles/CAIiEP0ypwBzaiksA_zet88IPW4qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "France reports 3602 new coronavirus infections",
+        "link": "https://www.thestar.com.my/news/world/2020/08/23/france-reports-3602-new-coronavirus-infections"
     },
     {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://news.google.com/articles/CBMiJ2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC01Mzg3MDc5ONIBK2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvd29ybGQtNTM4NzA3OTg?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Covid vaccine tracker: when will we have a coronavirus vaccine?",
-        "link": "https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9uZy1pbnRlcmFjdGl2ZS8yMDIwL2F1Zy8yMy9jb3ZpZC12YWNjaW5lLXRyYWNrZXItd2hlbi13aWxsLXdlLWhhdmUtYS1jb3JvbmF2aXJ1cy12YWNjaW5l0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Mexico passes somber coronavirus milestone even as signs of hope emerge",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-mexico-slowdown/mexico-nears-somber-coronavirus-milestone-even-as-signs-of-hope-emerge-idUSKBN25I0QU"
     }
 ];
