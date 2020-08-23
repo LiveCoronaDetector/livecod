@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.msn.com/en-us/news/world/former-ukrainian-premier-tymoshenko-tests-positive-for-coronavirus/ar-BB18hu2E?li=BBnb7Kz"
     },
     {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "Top UK scientist warns COVID-19 likely won’t ever truly go away",
+        "link": "https://www.timesofisrael.com/top-uk-scientist-warns-covid-19-likely-wont-ever-truly-go-away/"
     },
     {
         "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
