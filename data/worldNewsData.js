@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
-        "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
-    },
-    {
         "title": "Why do Covid fatalities remain low when infection numbers are rising?",
         "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     },
     {
-        "title": "Soft drink or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
-        "link": "https://www.usatoday.com/story/news/world/2020/08/23/coca-cola-bottled-poison-mexico-finds-covid-19-villain-soda/5607741002/"
+        "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
+        "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
+    },
+    {
+        "title": "Coronavirus vaccine: Short cuts and allegations of dirty tricks in race to be first",
+        "link": "https://www.bbc.com/news/world-53864069"
     }
 ];
