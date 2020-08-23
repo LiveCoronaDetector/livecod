@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.channelstv.com/2020/08/22/global-coronavirus-death-toll-tops-800000/"
     },
     {
-        "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-        "link": "https://www.bbc.com/news/world-europe-53875370"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
     },
     {
-        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
-        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
+        "title": "Coronavirus pandemic: Children aged 12 and over should wear masks - WHO",
+        "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "Fresh Coronavirus cases reported in 41 schools in Germany's capital after reopening",
+        "link": "https://www.youtube.com/watch?v=sjMcrSa_DwQ"
     }
 ];
