@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
-        "title": "South Korea faces resurgence of coronavirus outbreak: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/global-coronavirus-death-toll-surpasses-800000-live-updates-200822231200013.html"
+        "title": "Global Covid report: India passes 3m cases as South Korea sees biggest daily surge since March",
+        "link": "https://www.theguardian.com/world/2020/aug/23/global-report-india-passes-3m-cases-as-south-korea-sees-biggest-daily-surge-since-march"
     },
     {
         "title": "In China, Where the Pandemic Began, Life Is Starting to Look … Normal",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "The UK's gathering Covid-19 autumn storm",
-        "link": "https://www.theguardian.com/world/2020/aug/23/uk-gathering-covid-19-autumn-storm-boris-johnson-britain-second-wave-coronavirus-economic-chaos"
+        "title": "German Scientists Stage Packed Concert To Investigate COVID-19 Spread | NBC News",
+        "link": "https://www.youtube.com/watch?v=0qtYlOjQbYc"
     },
     {
         "title": "These Countries Have The Highest COVID-19 Infection Rates. This Is What The US Has In Common With Them.",

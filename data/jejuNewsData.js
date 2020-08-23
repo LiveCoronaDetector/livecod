@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
     },
     {
-        "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
-        "link": "https://news.joins.com/article/olink/23449096"
-    },
-    {
         "title": "'코로나19' 신규 확진 397명… 2차 확산 후 최대",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
+    },
+    {
+        "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
+        "link": "https://news.joins.com/article/olink/23449096"
     },
     {
         "title": "제주 코로나 확진 골프장 캐디 112명 접촉",
