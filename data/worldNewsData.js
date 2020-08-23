@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "Coronavirus: Is the US the worst-hit country for deaths?",
+        "link": "https://www.bbc.com/news/world-us-canada-53780196"
     },
     {
         "title": "These Countries Have The Highest COVID-19 Infection Rates. This Is What The US Has In Common With Them.",

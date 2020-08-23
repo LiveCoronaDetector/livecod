@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
     },
     {
-        "title": "'코로나19' 신규 확진 397명… 2차 확산 후 최대",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
-    },
-    {
         "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
         "link": "https://news.joins.com/article/olink/23449096"
     },
@@ -31,6 +27,10 @@ var jejuNewsData = [
     {
         "title": "전주지법 부장판사 코로나 확진… 현직 판사 감염 첫 사례(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101407.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "'코로나19' 신규 확진 397명… 2차 확산 후 최대",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
     },
     {
         "title": "충주시, 코로나19 지역 확산 차단에 행정력 총 집중",
