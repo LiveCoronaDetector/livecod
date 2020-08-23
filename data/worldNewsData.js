@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/22/latest_news/1598078717_957108.html"
     },
     {
-        "title": "Coronavirus update: Infections are trending upward in the Midwest",
-        "link": "https://www.washingtonpost.com/nation/2020/08/22/coronavirus-covid-updates/"
+        "title": "Ben Affleck film moves shooting to Canada as Hollywood abandons U.S. without widely available coronavirus testing",
+        "link": "https://www.cnbc.com/2020/08/22/coronavirus-ben-affleck-film-moves-shooting-to-canada-as-hollywood-abandons-us.html"
     },
     {
         "title": "Pakistan reopens border with Afghanistan following closure to coronavirus: report",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
     },
     {
-        "title": "German Scientists Stage Packed Concert To Investigate COVID-19 Spread | NBC News",
-        "link": "https://www.youtube.com/watch?v=0qtYlOjQbYc"
-    },
-    {
-        "title": "August 22 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus pandemic could be over within two years - WHO head",
         "link": "https://www.bbc.com/news/world-53870798"
     },
     {
         "title": "Global coronavirus death toll surpasses 800,000: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/global-coronavirus-death-toll-surpasses-800000-live-updates-200822231200013.html"
+    },
+    {
+        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
+        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
+    },
+    {
+        "title": "Mexico reports ‘catastrophic’ 60,000 Covid-19 deaths",
+        "link": "https://www.ft.com/content/fc83004a-769f-49b3-9f7c-9d5fd840d31f"
     }
 ];

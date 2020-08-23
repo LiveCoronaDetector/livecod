@@ -9,28 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200823008051062?did=1195m"
     },
     {
-        "title": "[속보] 의협 \"코로나19 엄중…대화로 풀자\" 긴급 제안",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008230059&t=NN"
-    },
-    {
-        "title": "[속보]‘코로나19’ 확진자 397명…3일째 300명대",
-        "link": "https://www.donga.com/news/article/all/20200823/102603783/1"
-    },
-    {
-        "title": "‘정부가 코로나19 확진자 양산?’…가짜뉴스 확산 경찰 엄정대응",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014934830&code=61121111&cp=nv"
-    },
-    {
-        "title": "[속보] 코로나19 대구 확진 6명…광화문 집회 관련 2명(전문)",
-        "link": "https://news.imaeil.com/Society/2020082311283249974"
-    },
-    {
-        "title": "광주서 밤새 코로나19 확진자 5명 발생...22일 하루 17명",
-        "link": "http://www.fnnews.com/news/202008230904170821"
-    },
-    {
         "title": "춘천 남부초교 2명 코로나19 확진…18번 확진자 손자",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220082200000"
+    },
+    {
+        "title": "경남, 밤새 코로나19 확진자 4명 추가…총 195명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200823_0001138821&cID=10812&pID=10800"
+    },
+    {
+        "title": "[속보] 의협 \"코로나19 엄중…대화로 풀자\" 긴급 제안",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008230059&t=NN"
     },
     {
         "title": "[종합] 코로나 일일 발생 400명 육박…재확산 후 최대 비상",
@@ -39,5 +27,17 @@ var koreaNewsData = [
     {
         "title": "[단독]부산개금백병원 응급실에 코로나 19 확진자 다녀가…응급실 폐쇄",
         "link": "http://www.busan.com/view/busan/view.php?code=2020082312274273966"
+    },
+    {
+        "title": "[속보] 코로나19 대구 확진 6명…광화문 집회 관련 2명(전문)",
+        "link": "https://news.imaeil.com/Society/2020082311283249974"
+    },
+    {
+        "title": "[속보] 사랑제일교회 확진자 속출…오늘 정오까지 누적 841명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[전문]극단 미인 \"코로나19 확진자 3명 발생\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01561286625870272"
     }
 ];
