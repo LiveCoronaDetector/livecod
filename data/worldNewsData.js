@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     },
     {
-        "title": "Coronavirus: Is the US the worst-hit country for deaths?",
-        "link": "https://www.bbc.com/news/world-us-canada-53780196"
+        "title": "Former Ukrainian Prime Minister Tymoshenko Tests Positive For Coronavirus",
+        "link": "https://www.rferl.org/a/former-ukrainian-prime-minister-tymoshenko-coronavirus-tests-positive-for-coronavirus/30798586.html"
     },
     {
         "title": "Coronavirus pandemic could be over within two years - WHO head",
