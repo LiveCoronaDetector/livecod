@@ -9,8 +9,8 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
     },
     {
-        "title": "제주 27·28번 코로나 확진자 접촉 188명 자가격리",
-        "link": "http://yna.kr/AKR20200823043600056?did=1195m"
+        "title": "코로나19 제주 27·28번 확진자 접촉자 189명 집계",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325404"
     },
     {
         "title": "코로나19 신규 확진자 397명, 누적 1만7399명…서울‧경기 등 수도권 294명",
