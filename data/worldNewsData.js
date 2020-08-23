@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html"
     },
     {
-        "title": "Coronavirus pandemic: Children aged 12 and over should wear masks - WHO",
-        "link": "https://www.bbc.com/news/world-53877292"
+        "title": "How does coronavirus spread at a concert? Germans do a test",
+        "link": "https://apnews.com/bc8833d2fcd394b6e1881ce63eb85476"
     },
     {
         "title": "Fresh Coronavirus cases reported in 41 schools in Germany's capital after reopening",
