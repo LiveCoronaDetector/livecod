@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/21/health/fast-coronavirus-testing-israel.html"
     },
     {
-        "title": "Here's what is driving Italy's surge in COVID-19 cases",
-        "link": "https://nypost.com/2020/08/23/vacationers-migrants-drive-italys-surge-in-covid-19-cases/"
+        "title": "Italy’s daily coronavirus cases top 1,000 for first time since May; vacationers contributing to surge",
+        "link": "https://www.foxnews.com/world/italys-coronavirus-cases-surge"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     },
     {
-        "title": "Former Ukrainian premier Tymoshenko tests positive for coronavirus",
-        "link": "https://www.msn.com/en-us/news/world/former-ukrainian-premier-tymoshenko-tests-positive-for-coronavirus/ar-BB18hu2E?li=BBnb7Kz"
+        "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
+        "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
     },
     {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "Former Ukrainian premier Tymoshenko tests positive for coronavirus",
+        "link": "https://www.msn.com/en-us/news/world/former-ukrainian-premier-tymoshenko-tests-positive-for-coronavirus/ar-BB18hu2E?li=BBnb7Kz"
     },
     {
         "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
