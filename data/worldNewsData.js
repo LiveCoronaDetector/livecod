@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/23/world/asia/china-coronavirus-normal-life.html"
     },
     {
-        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
-        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
-    },
-    {
         "title": "Coronavirus pandemic: Children aged 12 and over should wear masks - WHO",
         "link": "https://www.bbc.com/news/world-53877292"
     },
     {
-        "title": "Coronavirus: Is the US the worst-hit country for deaths?",
-        "link": "https://www.bbc.com/news/world-us-canada-53780196"
+        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
+        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
+    },
+    {
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     },
     {
         "title": "These Countries Have The Highest COVID-19 Infection Rates. This Is What The US Has In Common With Them.",
