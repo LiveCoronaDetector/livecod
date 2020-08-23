@@ -9,16 +9,12 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[2보] 전공의협의회, 코로나 대응 진료에 적극 참여키로",
-        "link": "http://yna.kr/AKR20200823069200001?did=1195m"
-    },
-    {
         "title": "하루 400명 육박 ‘코로나 19’ 신규 확진자… 3일 연속 300명대",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014934902&code=61121111&cp=nv"
     },
     {
-        "title": "가족돌봄휴가비 지원 9월 말까지 연장키로…코로나19 여파 반영",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000993814?division=NAVER"
+        "title": "코로나19 재확산에 가족돌봄휴가비 지원 9월 말까지 연장",
+        "link": "http://yna.kr/AKR20200822030300530?did=1195m"
     },
     {
         "title": "최근 2주간 일평균 확진자 160명대, 5명 중 1명은 '깜깜이 환자'",
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "정은경 \"하루 확진자 400명 넘을 수도···아직 정점 아니다\"",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008231503001&code=940601"
+    },
+    {
+        "title": "[속보]전공의협의회 정 총리와 합의, 코로나19 진료에는 적극 참여키로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008232318001&code=910100"
     },
     {
         "title": "“코로나 때 실내행사 위험도는” 독일의 ‘콘서트 실험’",
