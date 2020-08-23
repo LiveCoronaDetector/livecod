@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-23-20-intl/index.html"
+        "title": "Global Covid report: India passes 3m cases as South Korea sees biggest daily surge since March",
+        "link": "https://www.theguardian.com/world/2020/aug/23/global-report-india-passes-3m-cases-as-south-korea-sees-biggest-daily-surge-since-march"
     },
     {
         "title": "In China, Where the Pandemic Began, Life Is Starting to Look … Normal",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.rferl.org/a/former-ukrainian-prime-minister-tymoshenko-coronavirus-tests-positive-for-coronavirus/30798586.html"
     },
     {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "Coronavirus pandemic: Children aged 12 and over should wear masks - WHO",
+        "link": "https://www.bbc.com/news/world-53877292"
     },
     {
         "title": "Coca-Cola or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
