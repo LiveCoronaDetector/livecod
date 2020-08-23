@@ -9,8 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200823008051062?did=1195m"
     },
     {
-        "title": "춘천 남부초교 2명 코로나19 확진…18번 확진자 손자",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082200000"
+        "title": "[속보]방역당국 “코로나19 확진자 정점 아니라 더 증가할 것”",
+        "link": "https://www.sedaily.com/NewsView/1Z6OWAZPBK"
+    },
+    {
+        "title": "‘정부가 코로나19 확진자 양산?’…가짜뉴스 확산 경찰 엄정대응",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014934830&code=61121111&cp=nv"
     },
     {
         "title": "경남, 밤새 코로나19 확진자 4명 추가…총 195명(종합)",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 대구 확진 6명…광화문 집회 관련 2명(전문)",
         "link": "https://news.imaeil.com/Society/2020082311283249974"
-    },
-    {
-        "title": "[속보] 사랑제일교회 확진자 속출…오늘 정오까지 누적 841명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005943719&plink=ORI&cooper=NAVER"
     },
     {
         "title": "[전문]극단 미인 \"코로나19 확진자 3명 발생\"",

@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Asia’s El Chapo has Covid-19 to thank as Australia’s drug habit booms",
-        "link": "https://www.scmp.com/week-asia/economics/article/3098392/australias-drug-habit-booms-asias-el-chapo-has-coronavirus"
-    },
-    {
-        "title": "Coronavirus pandemic could be over within two years - WHO head",
-        "link": "https://www.bbc.com/news/world-53870798"
+        "title": "The Masked Singer production shut down after coronavirus outbreak on Melbourne set",
+        "link": "https://www.theguardian.com/tv-and-radio/2020/aug/23/the-masked-singer-production-shut-down-after-coronavirus-outbreak-on-melbourne-set"
     },
     {
         "title": "Global coronavirus death toll surpasses 800,000: Live updates",
         "link": "https://www.aljazeera.com/news/2020/08/global-coronavirus-death-toll-surpasses-800000-live-updates-200822231200013.html"
     },
     {
-        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
-        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
+        "title": "Coronavirus pandemic could be over within two years - WHO head",
+        "link": "https://www.bbc.com/news/world-53870798"
     },
     {
-        "title": "Mexico reports ‘catastrophic’ 60,000 Covid-19 deaths",
-        "link": "https://www.ft.com/content/fc83004a-769f-49b3-9f7c-9d5fd840d31f"
+        "title": "These Countries Have The Highest COVID-19 Infection Rates. This Is What The US Has In Common With Them.",
+        "link": "https://www.buzzfeednews.com/article/karlazabludovsky/covid-russia-india-brazil-mexico-usa"
+    },
+    {
+        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
+        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
     }
 ];
