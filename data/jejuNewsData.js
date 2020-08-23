@@ -9,8 +9,8 @@ var jejuNewsData = [
         "link": "http://www.ezyeconomy.com/news/articleView.html?idxno=104410"
     },
     {
-        "title": "'코로나19' 신규 확진 397명… 2차 확산 후 최대",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
+        "title": "[속보] 정세균 \"코로나, 대구 때보다 훨씬 심각할 수도... 전공의 돌아오라\"",
+        "link": "https://www.sedaily.com/NewsView/1Z6OWSPCND"
     },
     {
         "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101407.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주 코로나19 27번째 확진자 나와…제주도 역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
+        "title": "'코로나19' 신규 확진 397명… 2차 확산 후 최대",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
     },
     {
-        "title": "제주도내 27번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020082110141479873?utm_source=naver&utm_medium=search"
+        "title": "제주 코로나19 27번째 확진자 나와…제주도 역학조사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     }
 ];

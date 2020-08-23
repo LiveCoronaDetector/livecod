@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/22/latest_news/1598078717_957108.html"
     },
     {
-        "title": "Ben Affleck film moves shooting to Canada as Hollywood abandons U.S. without widely available coronavirus testing",
-        "link": "https://www.cnbc.com/2020/08/22/coronavirus-ben-affleck-film-moves-shooting-to-canada-as-hollywood-abandons-us.html"
+        "title": "Coronavirus update: Infections are trending upward in the Midwest",
+        "link": "https://www.washingtonpost.com/nation/2020/08/22/coronavirus-covid-updates/"
     },
     {
         "title": "Pakistan reopens border with Afghanistan following closure to coronavirus: report",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/germany-coronavirus-tim-bendzko-concert-wellness-scn-grm-intl/index.html"
     },
     {
-        "title": "Covid-19 Updates: Global Death Toll Surpasses 800,000",
-        "link": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-23-20-intl/index.html"
     },
     {
         "title": "The Masked Singer production shut down after coronavirus outbreak on Melbourne set",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-53870798"
     },
     {
-        "title": "These Countries Have The Highest COVID-19 Infection Rates. This Is What The US Has In Common With Them.",
-        "link": "https://www.buzzfeednews.com/article/karlazabludovsky/covid-russia-india-brazil-mexico-usa"
+        "title": "Mexico reports ‘catastrophic’ 60,000 Covid-19 deaths",
+        "link": "https://www.ft.com/content/fc83004a-769f-49b3-9f7c-9d5fd840d31f"
     },
     {
-        "title": "Covid-19 will be around for ever, says former UK chief scientific adviser",
-        "link": "https://www.theguardian.com/world/2020/aug/22/covid-19-around-forever-former-uk-chief-scientific-adviser-mark-walport-vaccine"
+        "title": "Coronavirus vaccine: Short cuts and allegations of dirty tricks in race to be first",
+        "link": "https://www.bbc.com/news/world-53864069"
     }
 ];
