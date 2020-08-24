@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/23/latest_news/1598166599_363463.html"
     },
     {
-        "title": "At least 13 people die in stampede, as police raid nightclub breaking coronavirus restrictions",
-        "link": "https://www.cnn.com/2020/08/23/americas/peru-nighclub-covid-stampede-intl-scli/index.html"
+        "title": "13 Killed In Stampede At Peru Nightclub Operating Against Health Orders",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/23/905268300/13-killed-in-stampede-at-peru-nightclub-operating-against-health-orders"
     },
     {
         "title": "Victoria's daily coronavirus cases at seven week low: Live news",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/23/world/asia/china-coronavirus-normal-life.html"
     },
     {
-        "title": "Coronavirus: Trump authorizes plasma treatment amid attacks on FDA",
-        "link": "https://www.theguardian.com/world/2020/aug/23/coronavirus-donald-trump-plasma-treatment-fda-deep-state-navarro"
+        "title": "Trump Announces Emergency Authorization Of Convalescent Plasma As COVID-19 Treatment | MSNBC",
+        "link": "https://www.youtube.com/watch?v=-d2D5NfnUNs"
     },
     {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
         "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
     },
     {
-        "title": "Ten countries kept out Covid. But did they win?",
-        "link": "https://www.bbc.com/news/world-asia-53831063"
+        "title": "Covid-19 Updates: White House Claims a 'Therapeutic Breakthrough' Is Coming",
+        "link": "https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html/"
     },
     {
-        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
-        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
+        "title": "Ten countries kept out Covid. But did they win?",
+        "link": "https://www.bbc.com/news/world-asia-53831063"
     }
 ];
