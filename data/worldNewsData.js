@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
     },
     {
-        "title": "Ten countries kept out Covid. But did they win?",
-        "link": "https://www.bbc.com/news/world-asia-53831063"
+        "title": "Global stocks rally on potential coronavirus treatment",
+        "link": "https://www.foxbusiness.com/markets/global-stocks-rally-on-potential-coronavirus-treatment"
     }
 ];
