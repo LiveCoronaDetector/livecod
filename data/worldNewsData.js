@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/23/world/asia/china-coronavirus-normal-life.html"
     },
     {
-        "title": "Dr. Nicole Saphier: Plasma therapy a promising step in fight against coronavirus",
-        "link": "https://www.foxnews.com/opinion/coronavirus-plasma-therapy-promising-step-dr-nicole-saphier"
+        "title": "Coronavirus: Trump authorizes plasma treatment amid attacks on FDA",
+        "link": "https://www.theguardian.com/world/2020/aug/23/coronavirus-donald-trump-plasma-treatment-fda-deep-state-navarro"
     },
     {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     },
     {
-        "title": "Ten countries kept out Covid. But did they win?",
-        "link": "https://www.bbc.com/news/world-asia-53831063"
+        "title": "Covid-19 Updates: White House Claims a 'Therapeutic Breakthrough' Is Coming",
+        "link": "https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html"
     }
 ];

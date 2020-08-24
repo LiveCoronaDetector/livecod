@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101407.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "나흘 만에 확진자 200명대…국민 절반 넘게 '3단계 격상 필요'",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
+    },
+    {
         "title": "'코로나19' 신규 확진 397명… 2차 확산 후 최대",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
     },
     {
         "title": "충주시, 코로나19 지역 확산 차단에 행정력 총 집중",
         "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2089263"
-    },
-    {
-        "title": "제주 코로나19 27번째 확진자 나와…제주도 역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     }
 ];

@@ -5,20 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200823069252001?did=1195m"
     },
     {
-        "title": "서울 확진자 수 일주일만에 100명 아래로 … 교회·광화문집회 관련 15명(상보...",
-        "link": "https://view.asiae.co.kr/article/2020082411092724179"
+        "title": "쿠팡 \"인천4 물류센터 내 추가 확진자 없어\"",
+        "link": "http://www.fnnews.com/news/202008241009414081"
     },
     {
-        "title": "[속보] 경남, 밤새 코로나19 확진자 1명 추가…총 196명",
-        "link": "http://www.newsis.com/view/?id=NISX20200824_0001139584&cID=10812&pID=10800"
+        "title": "[전문] 대구서 `코로나19` 신규 확진자 0명...˝방심할 상황 아니다˝",
+        "link": "http://www.kbsm.net/default/index_view_page.php?idx=285515&part_idx=320"
     },
     {
         "title": "코로나19 전국 대유행 위기…정부, 고민속 3단계 준비 일단 착수",
         "link": "http://yna.kr/AKR20200823058500530?did=1195m"
     },
     {
-        "title": "광주서 밤새 코로나19 확진자 3명 발생...누적확진자 282명",
-        "link": "http://www.fnnews.com/news/202008240834257010"
+        "title": "서울 확진자 수 일주일만에 100명 아래로 … 교회·광화문집회 관련 15명(상보...",
+        "link": "https://view.asiae.co.kr/article/2020082411092724179"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 266명…나흘 만에 200명대",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008240135&t=NN"
     },
     {
         "title": "코로나19 확진자 200명대…거리두기 효과? 검사 감소 영향?(종합)",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5399419"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 266명···나흘만에 200명대로 줄어",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008241018001&code=940601"
+        "title": "광복절 집회 연 민주노총서도 확진자 나와…역학조사 중",
+        "link": "https://www.hankyung.com/society/article/2020082478517"
     },
     {
-        "title": "코로나19 확진자 나왔던 쿠팡 인천4물류센터 재가동",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523825&ref=A"
-    },
-    {
-        "title": "경남, 밤새 코로나19 확진자 1명 추가…총 196명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200824_0001139629&cID=10812&pID=10800"
+        "title": "대구 6일만에 확진자 ‘0’…경북 일가족 등 6명 확진(종합)",
+        "link": "http://www.kukinews.com/newsView/kuk202008240124"
     }
 ];
