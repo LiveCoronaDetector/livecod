@@ -2,23 +2,23 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/24/latest_news/1598256731_568686.html"
+        "link": "https://news.google.com/articles/CBMiQmh0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDgvMjMvbGF0ZXN0X25ld3MvMTU5ODE2NjU5OV8zNjM0NjMuaHRtbNIBRmh0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDgvMjMvbGF0ZXN0X25ld3MvMTU5ODE2NjU5OV8zNjM0NjMuYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "13 Killed In Stampede At Peru Nightclub Operating Against Health Orders",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/23/905268300/13-killed-in-stampede-at-peru-nightclub-operating-against-health-orders"
+        "title": "US allows emergency use of blood plasma treatment for coronavirus patients",
+        "link": "https://www.bbc.com/news/world-us-canada-53884710"
     },
     {
         "title": "Victoria's daily coronavirus cases at seven week low: Live news",
         "link": "https://www.aljazeera.com/news/2020/08/greece-records-highest-daily-coronavirus-cases-live-updates-200823232403531.html"
     },
     {
-        "title": "Italy’s daily coronavirus cases top 1,000 for first time since May; vacationers contributing to surge",
-        "link": "https://www.foxnews.com/world/italys-coronavirus-cases-surge"
+        "title": "Here's what is driving Italy's surge in COVID-19 cases",
+        "link": "https://nypost.com/2020/08/23/vacationers-migrants-drive-italys-surge-in-covid-19-cases/"
     },
     {
-        "title": "Indian carrier IndiGo does not expect to be profitable until 2022",
-        "link": "https://www.cnbc.com/2020/08/24/coronavirus-india-indigo-does-not-expect-to-be-profitable-until-2022.html"
+        "title": "India's use of less accurate coronavirus tests raise concerns",
+        "link": "https://www.aljazeera.com/news/2020/08/india-accurate-coronavirus-tests-raise-concerns-200824054220744.html"
     },
     {
         "title": "China's e-commerce giants get a boost as consumers continue to shift online after coronavirus",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53831063"
     },
     {
-        "title": "Coronavirus: Trump authorizes plasma treatment amid attacks on FDA",
-        "link": "https://www.theguardian.com/world/2020/aug/23/coronavirus-donald-trump-plasma-treatment-fda-deep-state-navarro"
-    },
-    {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
         "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
+    },
+    {
+        "title": "US FDA announces emergency authorization for convalescent plasma to treat Covid-19",
+        "link": "https://www.cnn.com/2020/08/23/health/covid-19-convalescent-plasma-eua-white-house/index.html"
     }
 ];

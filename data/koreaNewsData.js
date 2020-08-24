@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202008248606g"
     },
     {
-        "title": "경북에서 코로나19 확진자 6명 늘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
-    },
-    {
         "title": "중국서 한국발 코로나 확진자 1명 발생…첫 확진 사례(종합)",
         "link": "http://yna.kr/AKR20200824034751083?did=1195m"
+    },
+    {
+        "title": "경북에서 코로나19 확진자 6명 늘어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
     },
     {
         "title": "[단독] 아모레퍼시픽, 코로나19 확진자 방문에 용산 사옥 폐쇄",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008241131257240"
     },
     {
-        "title": "쿠팡, 본사 직원 코로나 확진... 잠실 본사 폐쇄(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/24/2020082402008.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 충북서 코로나19 확진자 첫 사망…보은 80대 남성",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3001776"
     },
     {
-        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
-        "link": "https://zdnet.co.kr/view/?no=20200824131548"
+        "title": "[단독]광복절 민노총 집회서도 확진자 발생",
+        "link": "https://www.donga.com/news/article/all/20200824/102612023/1"
     }
 ];
