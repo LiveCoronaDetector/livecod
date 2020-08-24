@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53884710"
     },
     {
-        "title": "WHO says 172 nations engaging with coronavirus vaccine plan: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/greece-records-highest-daily-coronavirus-cases-live-updates-200823232403531.html"
+        "title": "I work as a medic in Syria, where an unreported Covid-19 crisis is unfolding",
+        "link": "https://www.theguardian.com/commentisfree/2020/aug/24/medic-syria-covid-19-crisis-health-pandemic"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Here's the latest on Covid-19 cases rising in Europe",
         "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/h_c7885b830e2ecce2bbd8ab8fc282b24f"
     },
     {
