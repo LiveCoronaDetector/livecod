@@ -21,16 +21,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
     },
     {
+        "title": "확진자 나온 러시아 선박서 도주 선원 6시간 만에 잡혀",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082419174811675"
+    },
+    {
         "title": "쿠팡, 일산1 캠프도 추가 확진자 0명",
         "link": "http://www.fnnews.com/news/202008241406526308"
     },
     {
         "title": "쿠팡 확진자 나온 인천4물류센터 재가동…\"추가 감염 없다\"",
         "link": "https://www.hankyung.com/life/article/202008248606g"
-    },
-    {
-        "title": "경남, 밤새 코로나19 확진자 1명 추가…총 196명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200824_0001139629&cID=10812&pID=10800"
     },
     {
         "title": "LG전자 인니 공장서 200명 코로나19 감염…\"30일까지 폐쇄\"",

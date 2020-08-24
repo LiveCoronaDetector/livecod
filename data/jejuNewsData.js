@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082422430482114?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "[2보] \"제주도 29번 확진자, 용인시 교회 방문했다가 감염 추정\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425573"
+    },
+    {
         "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
         "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 사회적 거리 두기 2단계로 격상",
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
-    },
-    {
-        "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
-        "link": "https://news.joins.com/article/olink/23449096"
     }
 ];
