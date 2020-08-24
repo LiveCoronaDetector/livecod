@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/commentisfree/2020/aug/24/medic-syria-covid-19-crisis-health-pandemic"
     },
     {
-        "title": "Here's what is driving Italy's surge in COVID-19 cases",
-        "link": "https://nypost.com/2020/08/23/vacationers-migrants-drive-italys-surge-in-covid-19-cases/"
+        "title": "Spain Caught Off Guard by Resurgent Coronavirus",
+        "link": "https://www.wsj.com/articles/spain-caught-off-guard-by-resurgent-coronavirus-11598194801"
     },
     {
-        "title": "Indian carrier IndiGo does not expect to be profitable until 2022",
-        "link": "https://www.cnbc.com/2020/08/24/coronavirus-india-indigo-does-not-expect-to-be-profitable-until-2022.html"
+        "title": "India's use of less accurate coronavirus tests raise concerns",
+        "link": "https://www.aljazeera.com/news/2020/08/india-accurate-coronavirus-tests-raise-concerns-200824054220744.html"
     },
     {
         "title": "China's e-commerce giants get a boost as consumers continue to shift online after coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Trump authorizes plasma treatment amid attacks on FDA",
-        "link": "https://www.theguardian.com/world/2020/aug/23/coronavirus-donald-trump-plasma-treatment-fda-deep-state-navarro"
-    },
-    {
         "title": "Ten countries kept out Covid. But did they win?",
         "link": "https://www.bbc.com/news/world-asia-53831063"
     },
     {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
         "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
+    },
+    {
+        "title": "Global stocks rally on potential coronavirus treatment",
+        "link": "https://www.foxbusiness.com/markets/global-stocks-rally-on-potential-coronavirus-treatment"
     }
 ];
