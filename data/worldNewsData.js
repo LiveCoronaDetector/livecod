@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/24/coronavirus-india-indigo-does-not-expect-to-be-profitable-until-2022.html"
     },
     {
-        "title": "In China, Where the Coronavirus Pandemic Began, Life Is Starting to Look Normal",
-        "link": "https://www.nytimes.com/2020/08/23/world/asia/china-coronavirus-normal-life.html"
+        "title": "China already using Covid-19 vaccine candidate on key workers, official says",
+        "link": "https://www.scmp.com/news/china/society/article/3098505/coronavirus-china-has-been-using-covid-19-vaccine-candidate-key"
     },
     {
-        "title": "Coronavirus: Trump authorizes plasma treatment amid attacks on FDA",
-        "link": "https://www.theguardian.com/world/2020/aug/23/coronavirus-donald-trump-plasma-treatment-fda-deep-state-navarro"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
     },
     {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53831063"
     },
     {
-        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
-        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
+        "title": "Covid-19 Updates: White House Claims a 'Therapeutic Breakthrough' Is Coming",
+        "link": "https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html"
     }
 ];
