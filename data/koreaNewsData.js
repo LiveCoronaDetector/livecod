@@ -5,16 +5,8 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008241009414081"
     },
     {
-        "title": "쿠팡 \"일산1 캠프 추가 확진자 없어\"",
-        "link": "https://zdnet.co.kr/view/?no=20200824144324"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 266명···나흘 만에 200명대로 줄어",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008241018001&code=940601"
-    },
-    {
-        "title": "극단 미인 “코로나19 확진자 6명 발생…11명 음성 판정”(공식입장 전문)",
-        "link": "http://mksports.co.kr/view/2020/870448/"
     },
     {
         "title": "중국서 한국발 코로나 확진자 1명 발생…첫 확진 사례(종합)",
@@ -33,8 +25,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008241131257240"
     },
     {
+        "title": "부산서 확진자 나온 러시아 선원 2명 도주 (종합)",
+        "link": "https://www.nocutnews.co.kr/news/5399868"
+    },
+    {
         "title": "[전문]문대통령 “코로나, 신천지때보다 엄중…불법행위 좌시 않겠다”",
         "link": "http://news.heraldcorp.com/view.php?ud=20200824000803"
+    },
+    {
+        "title": "페루 나이트클럽서 코로나19 단속 피하려다 13명 사망",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008240925011&code=970201"
     },
     {
         "title": "쿠팡, 본사 직원 코로나 확진... 잠실 본사 폐쇄(종합)",

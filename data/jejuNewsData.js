@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6OWSPCND"
     },
     {
-        "title": "초강력 태풍에 '에어컨 코로나' 초비상… 10개 감염학회 \"3단계 격상 촉구\" 성...",
-        "link": "http://www.newdaily.co.kr/site/data/html/2020/08/24/2020082400131.html"
-    },
-    {
         "title": "제주도, 사회적 거리 두기 2단계로 격상",
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
+    },
+    {
+        "title": "초강력 태풍에 '에어컨 코로나' 초비상… 10개 감염학회 \"3단계 격상 촉구\" 성...",
+        "link": "http://www.newdaily.co.kr/site/data/html/2020/08/24/2020082400131.html"
     },
     {
         "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/08/21/20200821520010.html?OutUrl=naver"
     },
     {
-        "title": "제주도내 27번째 확진자 부모 21일 확진 판정",
-        "link": "https://www.pressian.com/pages/articles/2020082110351208155?utm_source=naver&utm_medium=search"
+        "title": "국내 코로나19 하루 확진 266명, 교회 포함 집단 지역감염 확산세",
+        "link": "http://www.businesspost.co.kr/BP?command=article_view&num=193007"
     }
 ];
