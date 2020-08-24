@@ -25,15 +25,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/24/china-e-commerce-boosted-by-shift-to-online-shopping-after-coronavirus.html"
     },
     {
-        "title": "Hong Kong man was reinfected by the coronavirus, researchers say",
-        "link": "https://www.nbcnews.com/science/science-news/hong-kong-man-was-reinfected-coronavirus-researchers-say-n1237840"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
     },
     {
-        "title": "Coronavirus live updates: First case discovered of reinfection; WHO says 172 countries on global vaccine plan",
+        "title": "Covid-19: Live News and Updates",
+        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus live updates: First confirmed case of reinfection; WHO says 172 countries on global vaccine plan",
         "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
     },
     {
