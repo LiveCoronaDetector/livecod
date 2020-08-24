@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200823043600056?did=1195m"
     },
     {
+        "title": "나흘 만에 확진자 200명대…국민 절반 넘게 '3단계 격상 필요'",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
+    },
+    {
         "title": "정세균 \"코로나, 대구 때보다 훨씬 심각할 수도... 전공의 돌아오라\"",
         "link": "https://www.sedaily.com/NewsView/1Z6OWSPCND"
     },
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101407.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "나흘 만에 확진자 200명대…국민 절반 넘게 '3단계 격상 필요'",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
+        "title": "코로나19 신규 확진자 수 다소 주춤…중대본 “휴일 검사량 줄어든 요인도”",
+        "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
     },
     {
         "title": "'코로나19' 신규 확진 397명… 2차 확산 후 최대",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
-    },
-    {
-        "title": "충주시, 코로나19 지역 확산 차단에 행정력 총 집중",
-        "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2089263"
     }
 ];
