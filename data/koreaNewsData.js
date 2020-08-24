@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200824000803"
     },
     {
-        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
-        "link": "https://zdnet.co.kr/view/?no=20200824131548"
-    },
-    {
-        "title": "경북에서 코로나19 확진자 6명 늘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
-    },
-    {
-        "title": "중국서 한국발 코로나 확진자 1명 발생…첫 확진 사례(종합)",
-        "link": "http://yna.kr/AKR20200824034751083?did=1195m"
-    },
-    {
-        "title": "[속보] 서울 코로나 누적 확진자 3000명 돌파",
-        "link": "https://www.hankyung.com/life/article/2020082411437"
-    },
-    {
         "title": "쿠팡, 일산1 캠프도 추가 확진자 0명",
         "link": "http://www.fnnews.com/news/202008241406526308"
+    },
+    {
+        "title": "쿠팡 \"인천4 물류센터 추가 확진자 없어\"",
+        "link": "https://zdnet.co.kr/view/?no=20200824104039"
+    },
+    {
+        "title": "\"재택근무 했지만\"…쿠팡, 코로나 확진자 발생에 잠실 본사 폐쇄",
+        "link": "https://news.joins.com/article/olink/23449830"
     },
     {
         "title": "[단독] 아모레퍼시픽, 코로나19 확진자 방문에 용산 사옥 폐쇄",
         "link": "http://www.newspim.com/news/view/20200824000727"
     },
     {
+        "title": "코로나19 전국 대유행 위기…정부, 고민속 3단계 준비 일단 착수",
+        "link": "http://yna.kr/AKR20200823058500530?did=1195m"
+    },
+    {
+        "title": "경북에서 코로나19 확진자 6명 늘어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
+    },
+    {
         "title": "전북 사랑제일교회 확진자와 접촉한 군산 일가족 3명 확진(종합)",
         "link": "http://www.fnnews.com/news/202008241019564290"
     },
     {
-        "title": "쿠팡 인천4 물류센터 내 추가 확진자 0명",
-        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23855189"
+        "title": "[속보] 충북 거주 80대 노인, 코로나 확진 이튿날 사망",
+        "link": "https://www.hankyung.com/life/article/2020082410507"
     }
 ];

@@ -17,20 +17,12 @@ var jejuNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6OWSPCND"
     },
     {
-        "title": "초강력 태풍에 '에어컨 코로나' 초비상… 10개 감염학회 \"3단계 격상 촉구\" 성...",
-        "link": "http://www.newdaily.co.kr/site/data/html/2020/08/24/2020082400131.html"
+        "title": "제주도, 공항·실내관광지 마스크 착용 의무화…300만원 이하 벌금",
+        "link": "https://www.dailian.co.kr/news/view/914453/?sc=Naver"
     },
     {
         "title": "제주도, 사회적 거리 두기 2단계로 격상",
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
-    },
-    {
-        "title": "코로나19 재확산에...제주 방문 관광객 1일 1만명 급감",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319290"
-    },
-    {
-        "title": "제주도 공항·실내관광지에선 마스크 꼭 써야…위반시 고발",
-        "link": "http://yna.kr/AKR20200824157500056?did=1195m"
     },
     {
         "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "코로나19 국내 대응현황 브리핑 (20. 08. 24. 11시)",
         "link": "http://www.ktv.go.kr/content/view?content_id=607510"
+    },
+    {
+        "title": "제주 코로나 확진 골프장 캐디 112명 접촉",
+        "link": "http://www.segye.com/content/html/2020/08/21/20200821520010.html?OutUrl=naver"
+    },
+    {
+        "title": "제주, 해수욕장 일대 게스트하우스 코로나 방역수칙 현장점검",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425492"
     }
 ];
