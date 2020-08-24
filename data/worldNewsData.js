@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/24/coronavirus-india-indigo-does-not-expect-to-be-profitable-until-2022.html"
     },
     {
-        "title": "China already using Covid-19 vaccine candidate on key workers, official says",
-        "link": "https://www.scmp.com/news/china/society/article/3098505/coronavirus-china-has-been-using-covid-19-vaccine-candidate-key"
+        "title": "China's e-commerce giants get a boost as consumers continue to shift online after coronavirus",
+        "link": "https://www.cnbc.com/2020/08/24/china-e-commerce-boosted-by-shift-to-online-shopping-after-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
