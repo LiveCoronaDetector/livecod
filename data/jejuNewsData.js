@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082110351208155?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주, 23일 안산전부터 무관중 전환…코로나19 확산 방지 차원",
-        "link": "https://www.news1.kr/articles/?4033025"
-    },
-    {
         "title": "전주지법 부장판사 코로나 확진… 현직 판사 감염 첫 사례(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/21/2020082101407.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "충주시, 코로나19 지역 확산 차단에 행정력 총 집중",
         "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2089263"
+    },
+    {
+        "title": "제주 코로나19 27번째 확진자 나와…제주도 역학조사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4521839&ref=A"
     }
 ];
