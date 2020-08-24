@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
     },
     {
+        "title": "27·28번 확진자 도내 접촉자 155명···25일 전후 최대 고비",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170335"
+    },
+    {
         "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
         "link": "https://news.joins.com/article/olink/23449096"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
         "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
-    },
-    {
-        "title": "'코로나19' 신규 확진 397명… 2차 확산 후 최대",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=404563&class=33&grp="
     }
 ];

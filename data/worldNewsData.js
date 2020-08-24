@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53831063"
     },
     {
-        "title": "Covid-19 Updates: White House Claims a 'Therapeutic Breakthrough' Is Coming",
-        "link": "https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html"
+        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
+        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     }
 ];
