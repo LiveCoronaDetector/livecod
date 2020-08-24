@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://news.google.com/articles/CBMiQmh0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDgvMjMvbGF0ZXN0X25ld3MvMTU5ODE2NjU5OV8zNjM0NjMuaHRtbNIBRmh0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDgvMjMvbGF0ZXN0X25ld3MvMTU5ODE2NjU5OV8zNjM0NjMuYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://en.as.com/en/2020/08/24/latest_news/1598256731_568686.html"
     },
     {
         "title": "US allows emergency use of blood plasma treatment for coronavirus patients",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/23/vacationers-migrants-drive-italys-surge-in-covid-19-cases/"
     },
     {
-        "title": "India's use of less accurate coronavirus tests raise concerns",
-        "link": "https://www.aljazeera.com/news/2020/08/india-accurate-coronavirus-tests-raise-concerns-200824054220744.html"
+        "title": "Indian carrier IndiGo does not expect to be profitable until 2022",
+        "link": "https://www.cnbc.com/2020/08/24/coronavirus-india-indigo-does-not-expect-to-be-profitable-until-2022.html"
     },
     {
         "title": "China's e-commerce giants get a boost as consumers continue to shift online after coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
     },
     {
-        "title": "US FDA announces emergency authorization for convalescent plasma to treat Covid-19",
-        "link": "https://www.cnn.com/2020/08/23/health/covid-19-convalescent-plasma-eua-white-house/index.html"
+        "title": "Why do Covid fatalities remain low when infection numbers are rising?",
+        "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     }
 ];

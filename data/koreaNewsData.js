@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200824000803"
     },
     {
-        "title": "쿠팡, 일산1 캠프도 추가 확진자 0명",
-        "link": "http://www.fnnews.com/news/202008241406526308"
-    },
-    {
-        "title": "쿠팡 확진자 나온 인천4물류센터 재가동…\"추가 감염 없다\"",
-        "link": "https://www.hankyung.com/life/article/202008248606g"
-    },
-    {
-        "title": "중국서 한국발 코로나 확진자 1명 발생…첫 확진 사례(종합)",
-        "link": "http://yna.kr/AKR20200824034751083?did=1195m"
+        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
+        "link": "https://zdnet.co.kr/view/?no=20200824131548"
     },
     {
         "title": "경북에서 코로나19 확진자 6명 늘어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
     },
     {
+        "title": "중국서 한국발 코로나 확진자 1명 발생…첫 확진 사례(종합)",
+        "link": "http://yna.kr/AKR20200824034751083?did=1195m"
+    },
+    {
+        "title": "[속보] 서울 코로나 누적 확진자 3000명 돌파",
+        "link": "https://www.hankyung.com/life/article/2020082411437"
+    },
+    {
+        "title": "쿠팡, 일산1 캠프도 추가 확진자 0명",
+        "link": "http://www.fnnews.com/news/202008241406526308"
+    },
+    {
         "title": "[단독] 아모레퍼시픽, 코로나19 확진자 방문에 용산 사옥 폐쇄",
         "link": "http://www.newspim.com/news/view/20200824000727"
     },
     {
-        "title": "서울시 7일 만에 코로나 확진자 두자릿수...\"줄었다고 판단하지 않아\"(종합)",
-        "link": "http://www.fnnews.com/news/202008241131257240"
+        "title": "전북 사랑제일교회 확진자와 접촉한 군산 일가족 3명 확진(종합)",
+        "link": "http://www.fnnews.com/news/202008241019564290"
     },
     {
-        "title": "[속보] 충북서 코로나19 확진자 첫 사망…보은 80대 남성",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3001776"
-    },
-    {
-        "title": "[단독]광복절 민노총 집회서도 확진자 발생",
-        "link": "https://www.donga.com/news/article/all/20200824/102612023/1"
+        "title": "쿠팡 인천4 물류센터 내 추가 확진자 0명",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23855189"
     }
 ];

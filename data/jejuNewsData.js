@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
     },
     {
+        "title": "코로나19 재확산에...제주 방문 관광객 1일 1만명 급감",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319290"
+    },
+    {
+        "title": "제주도 공항·실내관광지에선 마스크 꼭 써야…위반시 고발",
+        "link": "http://yna.kr/AKR20200824157500056?did=1195m"
+    },
+    {
         "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
         "link": "https://news.joins.com/article/olink/23449096"
     },
     {
         "title": "코로나19 국내 대응현황 브리핑 (20. 08. 24. 11시)",
         "link": "http://www.ktv.go.kr/content/view?content_id=607510"
-    },
-    {
-        "title": "제주 코로나 확진 골프장 캐디 112명 접촉",
-        "link": "http://www.segye.com/content/html/2020/08/21/20200821520010.html?OutUrl=naver"
-    },
-    {
-        "title": "제주도내 27번째 확진자 부모 21일 확진 판정",
-        "link": "https://www.pressian.com/pages/articles/2020082110351208155?utm_source=naver&utm_medium=search"
     }
 ];
