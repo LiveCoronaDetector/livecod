@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082422430482114?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주도 하룻밤새 코로나 4명 확진 날벼락...목사-부부-관광객",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319298"
+    },
+    {
         "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
         "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
     },
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
     },
     {
+        "title": "제주도 가면 마스크 의무 착용…\"10월부터 과태료\"",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020082421053124008"
+    },
+    {
         "title": "정세균 \"코로나, 대구 때보다 훨씬 심각할 수도... 전공의 돌아오라\"",
         "link": "https://www.sedaily.com/NewsView/1Z6OWSPCND"
     },
     {
-        "title": "제주도 특별방역 행정조치 발동...'마스크 착용 의무화'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319294"
-    },
-    {
         "title": "제주도, 사회적 거리 두기 2단계로 격상",
         "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
-    },
-    {
-        "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
-        "link": "https://news.joins.com/article/olink/23449096"
     }
 ];
