@@ -5,20 +5,24 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008241009414081"
     },
     {
-        "title": "극단 미인 “코로나19 확진자 6명 발생…11명 음성 판정”(공식입장 전문)",
-        "link": "http://mksports.co.kr/view/2020/870448/"
+        "title": "쿠팡 \"일산1 캠프 추가 확진자 없어\"",
+        "link": "https://zdnet.co.kr/view/?no=20200824144324"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 266명···나흘 만에 200명대로 줄어",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008241018001&code=940601"
     },
     {
-        "title": "[단독] 아모레퍼시픽, 코로나19 확진자 방문에 용산 사옥 폐쇄",
-        "link": "http://www.newspim.com/news/view/20200824000727"
+        "title": "극단 미인 “코로나19 확진자 6명 발생…11명 음성 판정”(공식입장 전문)",
+        "link": "http://mksports.co.kr/view/2020/870448/"
     },
     {
         "title": "중국서 한국발 코로나 확진자 1명 발생…첫 확진 사례(종합)",
         "link": "http://yna.kr/AKR20200824034751083?did=1195m"
+    },
+    {
+        "title": "[단독] 아모레퍼시픽, 코로나19 확진자 방문에 용산 사옥 폐쇄",
+        "link": "http://www.newspim.com/news/view/20200824000727"
     },
     {
         "title": "GS건설, 코로나19 확진자 발생해 본사 건물 폐쇄 조치 진행 [단독]",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008241131257240"
     },
     {
+        "title": "[전문]문대통령 “코로나, 신천지때보다 엄중…불법행위 좌시 않겠다”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200824000803"
+    },
+    {
         "title": "쿠팡, 본사 직원 코로나 확진... 잠실 본사 폐쇄(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/24/2020082402008.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
-        "link": "https://zdnet.co.kr/view/?no=20200824131548"
-    },
-    {
-        "title": "[속보] 코로나 때문에...민주당 대전 의원 6명  '격리'",
-        "link": "https://hankookilbo.com/News/Read/A2020082411070002684?did=NA"
     }
 ];
