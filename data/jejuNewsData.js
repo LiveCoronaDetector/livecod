@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/08/21/20200821520010.html?OutUrl=naver"
     },
     {
-        "title": "국내 코로나19 하루 확진 266명, 교회 포함 집단 지역감염 확산세",
-        "link": "http://www.businesspost.co.kr/BP?command=article_view&num=193007"
+        "title": "제주도내 27번째 확진자 부모 21일 확진 판정",
+        "link": "https://www.pressian.com/pages/articles/2020082110351208155?utm_source=naver&utm_medium=search"
     }
 ];

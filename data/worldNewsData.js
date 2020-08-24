@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/24/latest_news/1598256731_568686.html"
     },
     {
-        "title": "13 Killed In Stampede At Peru Nightclub Operating Against Health Orders",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/23/905268300/13-killed-in-stampede-at-peru-nightclub-operating-against-health-orders"
+        "title": "At least 13 people die in stampede, as police raid nightclub breaking coronavirus restrictions",
+        "link": "https://www.cnn.com/2020/08/23/americas/peru-nighclub-covid-stampede-intl-scli/index.html"
     },
     {
         "title": "Victoria's daily coronavirus cases at seven week low: Live news",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/24/china-e-commerce-boosted-by-shift-to-online-shopping-after-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
+        "title": "New Zealand PM Ardern Extends Auckland Lockdown",
+        "link": "https://www.youtube.com/watch?v=gNUr1JdqEF8"
     },
     {
         "title": "Ten countries kept out Covid. But did they win?",
