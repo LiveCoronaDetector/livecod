@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5872809,
-        "사망자수": 180576,
-        "완치자수": 3161538
+        "확진자수": 5873298,
+        "사망자수": 180580,
+        "완치자수": 3163885
     },
     {
         "Name": "브라질",
@@ -156,7 +156,7 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 234478,
+        "확진자수": 234489,
         "사망자수": 9332,
         "완치자수": 209600
     },
@@ -1353,6 +1353,22 @@ var marker = [
         "완치자수": 396
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 401,
+        "사망자수": 4,
+        "완치자수": 232
+    },
+    {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "확진자수": 396,
+        "사망자수": 17,
+        "완치자수": 147
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
@@ -1369,28 +1385,12 @@ var marker = [
         "완치자수": 102
     },
     {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 368,
-        "사망자수": 17,
-        "완치자수": 147
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 361,
-        "사망자수": 4,
-        "완치자수": 198
-    },
-    {
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
         "확진자수": 346,
         "사망자수": 10,
-        "완치자수": 334
+        "완치자수": 335
     },
     {
         "Name": "Isle of Man",

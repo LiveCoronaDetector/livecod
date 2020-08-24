@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/society/article/3098505/coronavirus-china-has-been-using-covid-19-vaccine-candidate-key"
     },
     {
-        "title": "Trump to reveal coronavirus 'breakthrough' therapeutic, WH press secretary says",
-        "link": "https://www.foxnews.com/politics/trump-to-reveal-coronavirus-breakthrough-therapeutic-wh-press-secretary-says"
+        "title": "Covid-19 Updates: White House Claims a 'Therapeutic Breakthrough' Is Coming",
+        "link": "https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html"
     },
     {
         "title": "Why do Covid fatalities remain low when infection numbers are rising?",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
     },
     {
-        "title": "Coronavirus: Trump authorizes plasma treatment amid attacks on FDA",
-        "link": "https://www.theguardian.com/world/2020/aug/23/coronavirus-donald-trump-plasma-treatment-fda-deep-state-navarro"
+        "title": "Former Ukrainian premier Tymoshenko tests positive for coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-ukraine/former-ukrainian-premier-tymoshenko-tests-positive-for-coronavirus-idUSKBN25J0GC"
     }
 ];
