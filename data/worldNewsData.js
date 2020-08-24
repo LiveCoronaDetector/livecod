@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53831063"
     },
     {
-        "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
-        "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
-    },
-    {
         "title": "Global stocks rally on potential coronavirus treatment",
         "link": "https://www.foxbusiness.com/markets/global-stocks-rally-on-potential-coronavirus-treatment"
+    },
+    {
+        "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
+        "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
     }
 ];

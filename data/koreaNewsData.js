@@ -13,8 +13,16 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5399868"
     },
     {
-        "title": "[속보] 충북 거주 80대 노인, 코로나 확진 이튿날 사망",
-        "link": "https://www.hankyung.com/life/article/2020082410507"
+        "title": "LG전자 인니 공장서 200명 코로나19 감염…\"30일까지 폐쇄\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/24/2020082403697.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "'한국이 더 위험?' 중국서 처음 한국발 코로나 확진자 나와",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03798246625870600"
+    },
+    {
+        "title": "[속보] 종로구 SK사옥 첫 확진자 발생…건물 전체 폐쇄",
+        "link": "https://www.donga.com/news/article/all/20200824/102628228/1"
     },
     {
         "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
     },
     {
-        "title": "'한국이 더 위험?' 중국서 처음 한국발 코로나 확진자 나와",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03798246625870600"
-    },
-    {
         "title": "쿠팡, 일산1 캠프도 추가 확진자 0명",
         "link": "http://www.fnnews.com/news/202008241406526308"
     },
     {
         "title": "쿠팡 인천4 물류센터 내 추가 확진자 0명",
         "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23855189"
-    },
-    {
-        "title": "스위스 입국 영동 40대 확진자, 부모는 '음성'(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200824_0001139952&cID=10806&pID=10800"
     }
 ];
