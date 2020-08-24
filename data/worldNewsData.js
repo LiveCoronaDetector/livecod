@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-23-20-intl/index.html"
     },
     {
-        "title": "China already using Covid-19 vaccine candidate on key workers, official says",
-        "link": "https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LnNjbXAuY29tL25ld3MvY2hpbmEvc29jaWV0eS9hcnRpY2xlLzMwOTg1MDUvY29yb25hdmlydXMtY2hpbmEtaGFzLWJlZW4tdXNpbmctY292aWQtMTktdmFjY2luZS1jYW5kaWRhdGUta2V50gF3aHR0cHM6Ly9hbXAuc2NtcC5jb20vbmV3cy9jaGluYS9zb2NpZXR5L2FydGljbGUvMzA5ODUwNS9jb3JvbmF2aXJ1cy1jaGluYS1oYXMtYmVlbi11c2luZy1jb3ZpZC0xOS12YWNjaW5lLWNhbmRpZGF0ZS1rZXk?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "In China, Where the Coronavirus Pandemic Began, Life Is Starting to Look Normal",
+        "link": "https://www.nytimes.com/2020/08/23/world/asia/china-coronavirus-normal-life.html"
     },
     {
-        "title": "Coronavirus: Trump authorizes plasma treatment amid attacks on FDA",
-        "link": "https://www.theguardian.com/world/2020/aug/23/coronavirus-donald-trump-plasma-treatment-fda-deep-state-navarro"
+        "title": "Dr. Nicole Saphier: Plasma therapy a promising step in fight against coronavirus",
+        "link": "https://www.foxnews.com/opinion/coronavirus-plasma-therapy-promising-step-dr-nicole-saphier"
     },
     {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",

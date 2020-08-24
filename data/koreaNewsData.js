@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200823069252001?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 266명···나흘만에 200명대로 줄어",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008241018001&code=940601"
+        "title": "서울 확진자 수 일주일만에 100명 아래로 … 교회·광화문집회 관련 15명(상보...",
+        "link": "https://view.asiae.co.kr/article/2020082411092724179"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 266명…나흘 만에 200명대",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008240135&t=NN"
-    },
-    {
-        "title": "광주서 밤새 코로나19 확진자 3명 발생...누적확진자 282명",
-        "link": "http://www.fnnews.com/news/202008240834257010"
+        "title": "[속보] 경남, 밤새 코로나19 확진자 1명 추가…총 196명",
+        "link": "http://www.newsis.com/view/?id=NISX20200824_0001139584&cID=10812&pID=10800"
     },
     {
         "title": "코로나19 전국 대유행 위기…정부, 고민속 3단계 준비 일단 착수",
         "link": "http://yna.kr/AKR20200823058500530?did=1195m"
     },
     {
-        "title": "[속보]신규 확진자 266명…국내 발생 나흘 만에 200명대로",
-        "link": "https://www.donga.com/news/article/all/20200824/102616012/1"
+        "title": "광주서 밤새 코로나19 확진자 3명 발생...누적확진자 282명",
+        "link": "http://www.fnnews.com/news/202008240834257010"
     },
     {
-        "title": "코로나19 확진자 200명대…거리두기 효과? 검사건수 감소 영향?(종합)",
+        "title": "코로나19 확진자 200명대…거리두기 효과? 검사 감소 영향?(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02168086625870600"
-    },
-    {
-        "title": "대전서 배드민턴 동호회·사우나發 코로나19 확진자 2명 추가(상보)",
-        "link": "https://view.asiae.co.kr/article/2020082409415686373"
     },
     {
         "title": "광주전남서 밤사이 코로나19 확진자 5명 추가 발생(종합)",
         "link": "https://www.nocutnews.co.kr/news/5399419"
     },
     {
-        "title": "LGU+, 코로나19 확진자 발생…접촉자 전원 검사·재택근무",
-        "link": "http://www.inews24.com/view/1292866"
+        "title": "[속보] 코로나19 신규 확진자 266명···나흘만에 200명대로 줄어",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008241018001&code=940601"
+    },
+    {
+        "title": "코로나19 확진자 나왔던 쿠팡 인천4물류센터 재가동",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523825&ref=A"
+    },
+    {
+        "title": "경남, 밤새 코로나19 확진자 1명 추가…총 196명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200824_0001139629&cID=10812&pID=10800"
     }
 ];
