@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/commentisfree/2020/aug/24/medic-syria-covid-19-crisis-health-pandemic"
     },
     {
-        "title": "Spain Caught Off Guard by Resurgent Coronavirus",
-        "link": "https://www.wsj.com/articles/spain-caught-off-guard-by-resurgent-coronavirus-11598194801"
+        "title": "Here's what is driving Italy's surge in COVID-19 cases",
+        "link": "https://nypost.com/2020/08/23/vacationers-migrants-drive-italys-surge-in-covid-19-cases/"
     },
     {
         "title": "India's use of less accurate coronavirus tests raise concerns",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/markets/global-stocks-rally-on-potential-coronavirus-treatment"
     },
     {
-        "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
-        "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
+        "title": "Covid-19: Hong Kong cases dip to single digits for first time in 7 weeks, as mass testing registration set to begin",
+        "link": "https://hongkongfp.com/2020/08/24/covid-19-hong-kong-cases-dip-to-single-digits-for-first-time-in-7-weeks-as-mass-testing-registration-set-to-begin/"
     }
 ];
