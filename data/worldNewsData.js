@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53892856"
     },
     {
-        "title": "No tourists in Bali for the rest of 2020 due to coronavirus: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/greece-records-highest-daily-coronavirus-cases-live-updates-200823232403531.html"
+        "title": "I work as a medic in Syria, where an unreported Covid-19 crisis is unfolding",
+        "link": "https://www.theguardian.com/commentisfree/2020/aug/24/medic-syria-covid-19-crisis-health-pandemic"
     },
     {
         "title": "COVID-19 in school: Coronavirus data 2 weeks into Germany's school year \"reassures\" expert",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
     },
     {
-        "title": "Global stocks rally on potential coronavirus treatment",
-        "link": "https://www.foxbusiness.com/markets/global-stocks-rally-on-potential-coronavirus-treatment"
+        "title": "Ten countries kept out Covid. But did they win?",
+        "link": "https://www.bbc.com/news/world-asia-53831063"
     }
 ];

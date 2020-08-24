@@ -13,31 +13,31 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200824163951056?did=1195m"
     },
     {
-        "title": "[2보] \"제주도 29번 확진자, 용인시 교회 방문했다가 감염 추정\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425573"
-    },
-    {
         "title": "제주에서 확진자 하루 만에 4명 추가 발생…\"동선 파악 중\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005945964&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[2보] \"제주도 29번 확진자, 용인시 교회 방문했다가 감염 추정\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425573"
     },
     {
         "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
         "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
     },
     {
-        "title": "코로나19 제주 27·28번 확진자 접촉자 189명 집계",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325404"
-    },
-    {
         "title": "제주도, 공항·실내관광지 마스크 착용 의무화…300만원 이하 벌금",
         "link": "https://www.dailian.co.kr/news/view/914453/?sc=Naver"
     },
     {
-        "title": "제주에도 코로나19 확진자 하루 새 4명 연달아 발생",
-        "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20200825.99099007464"
+        "title": "코로나19 제주 27·28번 확진자 접촉자 189명 집계",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325404"
     },
     {
         "title": "나흘 만에 확진자 200명대…국민 절반 넘게 '3단계 격상 필요'",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
+    },
+    {
+        "title": "제주도 특별방역 행정조치 발동...'마스크 착용 의무화'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319294"
     }
 ];

@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
     },
     {
+        "title": "확진자 나온 러시아 선박서 도주 선원 6시간 만에 잡혀",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082419174811675"
+    },
+    {
         "title": "쿠팡, 일산1 캠프도 추가 확진자 0명",
         "link": "http://www.fnnews.com/news/202008241406526308"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "제주도내 29번째 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082422430482114?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
