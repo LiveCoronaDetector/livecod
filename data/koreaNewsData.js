@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     },
     {
+        "title": "[속보]美증시, 코로나 치료제 기대에↑…S&P500·나스닥 '사상 최고'",
+        "link": "https://www.hankyung.com/finance/article/2020082515507"
+    },
+    {
         "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008241406526308"
     },
     {
-        "title": "쿠팡 확진자 나온 인천4물류센터 재가동…\"추가 감염 없다\"",
-        "link": "https://www.hankyung.com/life/article/202008248606g"
+        "title": "'파격, 또 파격' 트럼프…바이든과 '코로나 대선' 정면승부(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01361206625870928"
     },
     {
-        "title": "LG전자 인니 공장서 200명 코로나19 감염…\"30일까지 폐쇄\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/24/2020082403697.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "쿠팡, 잠실 본사 직원 코로나 확진… 잠실 본사 폐쇄",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02653526625870600"
+        "title": "쿠팡 \"인천4 물류센터 내 추가 확진자 없어\"",
+        "link": "http://www.fnnews.com/news/202008241009414081"
     }
 ];

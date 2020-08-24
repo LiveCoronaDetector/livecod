@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
-        "title": "[종합] 제주도 '4명' 연이어 코로나19 확진...차단방역 초비상",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425578"
+        "title": "제주 29번째 확진자 발생…\"용인 개척교회 다녀온 목사\"(종합)",
+        "link": "http://yna.kr/AKR20200824163951056?did=1195m"
     },
     {
         "title": "제주에서 확진자 하루 만에 4명 추가 발생…\"동선 파악 중\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005945964&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "제주 29번째 확진자 발생…\"용인 개척교회 다녀온 목사\"(종합)",
-        "link": "http://yna.kr/AKR20200824163951056?did=1195m"
+        "title": "[종합] 제주도 '4명' 연이어 코로나19 확진...차단방역 초비상",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425578"
     },
     {
         "title": "서울 확진자 3천 명 넘어…'집단감염' 전국 확산세",

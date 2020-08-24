@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5911367,
-        "사망자수": 180974,
-        "완치자수": 3203212
+        "확진자수": 5912595,
+        "사망자수": 181025,
+        "완치자수": 3205916
     },
     {
         "Name": "브라질",
@@ -44,9 +44,9 @@ var marker = [
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "확진자수": 594326,
-        "사망자수": 27663,
-        "완치자수": 399357
+        "확진자수": 600438,
+        "사망자수": 27813,
+        "완치자수": 407301
     },
     {
         "Name": "멕시코",
@@ -252,9 +252,9 @@ var marker = [
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "확진자수": 91161,
-        "사망자수": 1567,
-        "완치자수": 60670
+        "확진자수": 91608,
+        "사망자수": 1573,
+        "완치자수": 61558
     },
     {
         "Name": "Panama",
@@ -652,17 +652,17 @@ var marker = [
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
-        "확진자수": 12836,
-        "사망자수": 815,
-        "완치자수": 6497
+        "확진자수": 12903,
+        "사망자수": 818,
+        "완치자수": 6538
     },
     {
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "확진자수": 11082,
+        "확진자수": 11148,
         "사망자수": 280,
-        "완치자수": 9942
+        "완치자수": 10208
     },
     {
         "Name": "Libya",
@@ -700,9 +700,9 @@ var marker = [
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "확진자수": 9013,
-        "사망자수": 54,
-        "완치자수": 7823
+        "확진자수": 9076,
+        "사망자수": 55,
+        "완치자수": 7928
     },
     {
         "Name": "French Guiana",
@@ -732,9 +732,9 @@ var marker = [
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "확진자수": 8388,
+        "확진자수": 8409,
         "사망자수": 53,
-        "완치자수": 6734
+        "완치자수": 6959
     },
     {
         "Name": "Tajikistan",
@@ -777,6 +777,14 @@ var marker = [
         "완치자수": 6969
     },
     {
+        "Name": "Mauritania",
+        "Name_ch": "",
+        "Name_en": "Mauritania",
+        "확진자수": 6928,
+        "사망자수": 158,
+        "완치자수": 6282
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
@@ -785,12 +793,12 @@ var marker = [
         "완치자수": 4297
     },
     {
-        "Name": "Mauritania",
+        "Name": "Zimbabwe",
         "Name_ch": "",
-        "Name_en": "Mauritania",
-        "확진자수": 6905,
-        "사망자수": 158,
-        "완치자수": 6232
+        "Name_en": "Zimbabwe",
+        "확진자수": 6070,
+        "사망자수": 155,
+        "완치자수": 4950
     },
     {
         "Name": "Namibia",
@@ -801,20 +809,12 @@ var marker = [
         "완치자수": 2563
     },
     {
-        "Name": "Zimbabwe",
-        "Name_ch": "",
-        "Name_en": "Zimbabwe",
-        "확진자수": 5930,
-        "사망자수": 155,
-        "완치자수": 4872
-    },
-    {
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "확진자수": 5414,
-        "사망자수": 168,
-        "완치자수": 3012
+        "확진자수": 5419,
+        "사망자수": 169,
+        "완치자수": 3059
     },
     {
         "Name": "Djibouti",
@@ -876,9 +876,9 @@ var marker = [
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "확진자수": 4225,
+        "확진자수": 4304,
         "사망자수": 85,
-        "완치자수": 2898
+        "완치자수": 2936
     },
     {
         "Name": "Congo",
@@ -1044,9 +1044,9 @@ var marker = [
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "확진자수": 2171,
-        "사망자수": 96,
-        "완치자수": 818
+        "확진자수": 2222,
+        "사망자수": 100,
+        "완치자수": 877
     },
     {
         "Name": "Guinea-Bissau",
@@ -1217,20 +1217,20 @@ var marker = [
         "완치자수": 1083
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 1099,
+        "사망자수": 15,
+        "완치자수": 165
+    },
+    {
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
         "확진자수": 1060,
         "사망자수": 53,
         "완치자수": 877
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 1031,
-        "사망자수": 15,
-        "완치자수": 165
     },
     {
         "Name": "베트남",
