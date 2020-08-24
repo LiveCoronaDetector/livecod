@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425573"
     },
     {
+        "title": "제주에서 확진자 하루 만에 4명 추가 발생…\"동선 파악 중\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005945964&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
         "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
     },
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325404"
     },
     {
-        "title": "나흘 만에 확진자 200명대…국민 절반 넘게 '3단계 격상 필요'",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
-    },
-    {
-        "title": "제주도 특별방역 행정조치 발동...'마스크 착용 의무화'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319294"
-    },
-    {
         "title": "제주에도 코로나19 확진자 하루 새 4명 연달아 발생",
         "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20200825.99099007464"
+    },
+    {
+        "title": "나흘 만에 확진자 200명대…국민 절반 넘게 '3단계 격상 필요'",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
     }
 ];
