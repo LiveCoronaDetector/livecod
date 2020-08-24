@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008241406526308"
     },
     {
-        "title": "경북에서 코로나19 확진자 6명 늘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
+        "title": "쿠팡 확진자 나온 인천4물류센터 재가동…\"추가 감염 없다\"",
+        "link": "https://www.hankyung.com/life/article/202008248606g"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 266명···나흘 만에 200명대로 줄어",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008241018001&code=940601"
+        "title": "경북에서 코로나19 확진자 6명 늘어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
     },
     {
         "title": "중국서 한국발 코로나 확진자 1명 발생…첫 확진 사례(종합)",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008241131257240"
     },
     {
-        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
-        "link": "https://zdnet.co.kr/view/?no=20200824131548"
+        "title": "쿠팡, 본사 직원 코로나 확진... 잠실 본사 폐쇄(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/24/2020082402008.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "쿠팡 확진자 나온 인천4물류센터 재가동…\"추가 감염 없다\"",
-        "link": "https://www.hankyung.com/life/article/202008248606g"
+        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
+        "link": "https://zdnet.co.kr/view/?no=20200824131548"
     }
 ];

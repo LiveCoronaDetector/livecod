@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6OWSPCND"
     },
     {
-        "title": "제주도, 사회적 거리 두기 2단계로 격상",
-        "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
-    },
-    {
         "title": "초강력 태풍에 '에어컨 코로나' 초비상… 10개 감염학회 \"3단계 격상 촉구\" 성...",
         "link": "http://www.newdaily.co.kr/site/data/html/2020/08/24/2020082400131.html"
+    },
+    {
+        "title": "제주도, 사회적 거리 두기 2단계로 격상",
+        "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
     },
     {
         "title": "또다시 코로나가 덮친 해변…전국 해수욕장 줄줄이 조기 폐장",
