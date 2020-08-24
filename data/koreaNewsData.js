@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://www.joseilbo.com/news/news_read.php?uid=404634&class=32&grp="
     },
     {
+        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
+        "link": "https://zdnet.co.kr/view/?no=20200824131548"
+    },
+    {
         "title": "경북에서 코로나19 확진자 6명 늘어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
     },
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "쿠팡 확진자 나온 인천4물류센터 재가동…\"추가 감염 없다\"",
         "link": "https://www.hankyung.com/life/article/202008248606g"
-    },
-    {
-        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
-        "link": "https://zdnet.co.kr/view/?no=20200824131548"
     },
     {
         "title": "LG전자 인니 공장서 200명 코로나19 감염…\"30일까지 폐쇄\"",
