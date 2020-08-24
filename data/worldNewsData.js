@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/23/vacationers-migrants-drive-italys-surge-in-covid-19-cases/"
     },
     {
-        "title": "India's use of less accurate coronavirus tests raise concerns",
-        "link": "https://www.aljazeera.com/news/2020/08/india-accurate-coronavirus-tests-raise-concerns-200824054220744.html"
+        "title": "They went to India, now they're trapped by coronavirus rules 6,400 miles away",
+        "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
     },
     {
         "title": "China's e-commerce giants get a boost as consumers continue to shift online after coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
     },
     {
+        "title": "Hong Kong’s Key to Keeping COVID Out Is in Its Airport",
+        "link": "https://nymag.com/intelligencer/2020/08/hong-kongs-key-to-keeping-covid-out-is-in-its-airport.html"
+    },
+    {
         "title": "Ten countries kept out Covid. But did they win?",
         "link": "https://www.bbc.com/news/world-asia-53831063"
     },
     {
         "title": "Global stocks rally on potential coronavirus treatment",
         "link": "https://www.foxbusiness.com/markets/global-stocks-rally-on-potential-coronavirus-treatment"
-    },
-    {
-        "title": "Covid-19: Hong Kong cases dip to single digits for first time in 7 weeks, as mass testing registration set to begin",
-        "link": "https://hongkongfp.com/2020/08/24/covid-19-hong-kong-cases-dip-to-single-digits-for-first-time-in-7-weeks-as-mass-testing-registration-set-to-begin/"
     }
 ];
