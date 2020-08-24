@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     },
     {
-        "title": "[속보]美증시, 코로나 치료제 기대에↑…S&P500·나스닥 '사상 최고'",
-        "link": "https://www.hankyung.com/finance/article/2020082515507"
+        "title": "미국 증시, 코로나 치료제·백신 기대에 강세…다우 1.35% 상승",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008250018&t=NN"
     },
     {
         "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "서울 코로나 누계 오늘 3천명 돌파…오후 6시까지 79명 추가",
-        "link": "http://yna.kr/AKR20200824156700004?did=1195m"
+        "title": "'파격, 또 파격' 트럼프…바이든과 '코로나 대선' 정면승부(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01361206625870928"
     },
     {
-        "title": "文대통령 \"지금 코로나 못막으면 3단계 불가피...최대 위기\"",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=404634&class=32&grp="
+        "title": "서울 코로나 누계 오늘 3천명 돌파…오후 6시까지 79명 추가",
+        "link": "http://yna.kr/AKR20200824156700004?did=1195m"
     },
     {
         "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008241406526308"
     },
     {
-        "title": "'파격, 또 파격' 트럼프…바이든과 '코로나 대선' 정면승부(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01361206625870928"
+        "title": "쿠팡 확진자 나온 인천4물류센터 재가동…\"추가 감염 없다\"",
+        "link": "https://www.hankyung.com/life/article/202008248606g"
     },
     {
-        "title": "쿠팡 \"인천4 물류센터 내 추가 확진자 없어\"",
-        "link": "http://www.fnnews.com/news/202008241009414081"
+        "title": "LG전자 인니 공장서 200명 코로나19 감염…\"30일까지 폐쇄\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/24/2020082403697.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

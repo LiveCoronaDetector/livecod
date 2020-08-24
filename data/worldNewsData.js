@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
     },
     {
-        "title": "Ten countries kept out Covid. But did they win?",
-        "link": "https://www.bbc.com/news/world-asia-53831063"
-    },
-    {
         "title": "Coronavirus live updates: First confirmed case of reinfection; WHO says 172 countries on global vaccine plan",
         "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Case of man reinfected with coronavirus stokes immunity fears",
+        "link": "https://www.theguardian.com/world/2020/aug/24/case-of-man-with-coronavirus-for-second-time-stokes-reinfection-fears-hong-kong"
     }
 ];

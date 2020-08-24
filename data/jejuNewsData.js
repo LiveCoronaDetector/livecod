@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
-        "title": "제주 29번째 확진자 발생…\"용인 개척교회 다녀온 목사\"(종합)",
-        "link": "http://yna.kr/AKR20200824163951056?did=1195m"
+        "title": "제주에서 밤사이 코로나19 확진자 4명 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     },
     {
-        "title": "제주에서 확진자 하루 만에 4명 추가 발생…\"동선 파악 중\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005945964&plink=ORI&cooper=NAVER"
+        "title": "제주 29번째 확진자 발생…\"용인 개척교회 다녀온 목사\"(종합)",
+        "link": "http://yna.kr/AKR20200824163951056?did=1195m"
     },
     {
         "title": "[종합] 제주도 '4명' 연이어 코로나19 확진...차단방역 초비상",
@@ -23,6 +23,10 @@ var jejuNewsData = [
     {
         "title": "서울 확진자 3천 명 넘어…'집단감염' 전국 확산세",
         "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5885464_32531.html"
+    },
+    {
+        "title": "제주, 코로나19 이틀새 5명 확진…'지역감염 우려' 긴장",
+        "link": "http://www.newsis.com/view/?id=NISX20200825_0001140769&cID=10813&pID=10800"
     },
     {
         "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 27·28번 코로나 확진자 접촉 188명 자가격리",
         "link": "http://yna.kr/AKR20200823043600056?did=1195m"
-    },
-    {
-        "title": "나흘 만에 확진자 200명대…국민 절반 넘게 '3단계 격상 필요'",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
     }
 ];
