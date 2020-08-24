@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/23/americas/peru-nighclub-covid-stampede-intl-scli/index.html"
     },
     {
-        "title": "For Quick Coronavirus Testing, Israel Turns to a Clever Algorithm",
-        "link": "https://www.nytimes.com/2020/08/21/health/fast-coronavirus-testing-israel.html"
+        "title": "Victoria's daily coronavirus cases at seven week low: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/greece-records-highest-daily-coronavirus-cases-live-updates-200823232403531.html"
     },
     {
         "title": "Italy’s daily coronavirus cases top 1,000 for first time since May; vacationers contributing to surge",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/society/article/3098505/coronavirus-china-has-been-using-covid-19-vaccine-candidate-key"
     },
     {
-        "title": "Covid-19 Updates: White House Claims a 'Therapeutic Breakthrough' Is Coming",
-        "link": "https://www.nytimes.com/2020/08/23/world/covid-19-coronavirus.html"
+        "title": "Dr. Nicole Saphier: Plasma therapy a promising step in fight against coronavirus",
+        "link": "https://www.foxnews.com/opinion/coronavirus-plasma-therapy-promising-step-dr-nicole-saphier"
     },
     {
         "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/23/why-do-covid-fatalities-remain-low-when-infection-numbers-are-rising"
     },
     {
-        "title": "Former Ukrainian Prime Minister Tymoshenko Tests Positive For Coronavirus",
-        "link": "https://www.rferl.org/a/former-ukrainian-prime-minister-tymoshenko-coronavirus-tests-positive-for-coronavirus/30798586.html"
+        "title": "Soft drink or 'bottled poison'? Mexico finds a COVID-19 villain in big soda",
+        "link": "https://www.usatoday.com/story/news/world/2020/08/23/coca-cola-bottled-poison-mexico-finds-covid-19-villain-soda/5607741002/"
     }
 ];
