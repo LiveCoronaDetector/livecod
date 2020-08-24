@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/society/article/3098505/coronavirus-china-has-been-using-covid-19-vaccine-candidate-key"
     },
     {
-        "title": "Coronavirus: Trump authorizes plasma treatment amid attacks on FDA",
-        "link": "https://www.theguardian.com/world/2020/aug/23/coronavirus-donald-trump-plasma-treatment-fda-deep-state-navarro"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
     },
     {
         "title": "Ten countries kept out Covid. But did they win?",
