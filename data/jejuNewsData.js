@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200824163951056?did=1195m"
     },
     {
-        "title": "제주도내 29번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020082422430482114?utm_source=naver&utm_medium=search"
+        "title": "[종합] 제주도 '4명' 연이어 코로나19 확진...차단방역 초비상",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425578"
     },
     {
-        "title": "제주도 하룻밤새 코로나 4명 확진 날벼락...목사-부부-관광객",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319298"
+        "title": "제주도내 29번째 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082422430482114?utm_source=naver&utm_medium=search"
     },
     {
         "title": "[2보] \"제주도 29번 확진자, 용인시 교회 방문했다가 감염 추정\"",
@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
     },
     {
-        "title": "제주도 가면 마스크 의무 착용…\"10월부터 과태료\"",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020082421053124008"
+        "title": "제주도 특별방역 행정조치 발동...'마스크 착용 의무화'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319294"
     },
     {
         "title": "정세균 \"코로나, 대구 때보다 훨씬 심각할 수도... 전공의 돌아오라\"",
