@@ -1516,9 +1516,9 @@ var marker = [
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "확진자수": 99,
+        "확진자수": 100,
         "사망자수": 1,
-        "완치자수": 88
+        "완치자수": 90
     },
     {
         "Name": "Antigua and Barbuda",
