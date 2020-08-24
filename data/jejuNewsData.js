@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425573"
     },
     {
+        "title": "서울 확진자 3천 명 넘어…'집단감염' 전국 확산세",
+        "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5885464_32531.html"
+    },
+    {
         "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
         "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "나흘 만에 확진자 200명대…국민 절반 넘게 '3단계 격상 필요'",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966016"
-    },
-    {
-        "title": "제주도 특별방역 행정조치 발동...'마스크 착용 의무화'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319294"
     }
 ];
