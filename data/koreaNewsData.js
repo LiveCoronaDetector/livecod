@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082422430482114?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "코로나19 확진자 정보 유출 현직 경찰관 등 기소",
         "link": "https://news.imaeil.com/Society/2020082418293650608"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
         "link": "https://zdnet.co.kr/view/?no=20200824131548"
-    },
-    {
-        "title": "경북에서 코로나19 확진자 6명 늘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4523767&ref=A"
     }
 ];

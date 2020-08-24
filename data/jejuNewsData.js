@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319298"
     },
     {
+        "title": "[2보] \"제주도 29번 확진자, 용인시 교회 방문했다가 감염 추정\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425573"
+    },
+    {
         "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
         "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "정세균 \"코로나, 대구 때보다 훨씬 심각할 수도... 전공의 돌아오라\"",
         "link": "https://www.sedaily.com/NewsView/1Z6OWSPCND"
-    },
-    {
-        "title": "제주도, 사회적 거리 두기 2단계로 격상",
-        "link": "https://www.ytn.co.kr/_ln/0115_202008211527014711"
     }
 ];

@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/commentisfree/2020/aug/24/medic-syria-covid-19-crisis-health-pandemic"
     },
     {
-        "title": "COVID-19 in school: Coronavirus data 2 weeks into Germany's school year \"reassures\" expert",
-        "link": "https://www.cbsnews.com/news/covid-19-school-cornavirus-data-2-weeks-into-germany-school-year-reassures-expert/"
+        "title": "Here's the latest on Covid-19 cases rising in Europe",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/h_c7885b830e2ecce2bbd8ab8fc282b24f"
     },
     {
         "title": "They went to India, now they're trapped by coronavirus rules 6,400 miles away",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
     },
     {
+        "title": "COVID-19 researchers record first case of reinfection",
+        "link": "https://nypost.com/2020/08/24/covid-19-researchers-record-first-case-of-reinfection/"
+    },
+    {
+        "title": "Coronavirus live updates: First case discovered of reinfection; WHO says 172 countries on global vaccine plan",
+        "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
+    },
+    {
         "title": "Ten countries kept out Covid. But did they win?",
         "link": "https://www.bbc.com/news/world-asia-53831063"
-    },
-    {
-        "title": "Global stocks rally on potential coronavirus treatment",
-        "link": "https://www.foxbusiness.com/markets/global-stocks-rally-on-potential-coronavirus-treatment"
-    },
-    {
-        "title": "Coronavirus live updates: WHO says 172 countries in on global vaccine plan; Chinese e-commerce giants see a boost",
-        "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
     }
 ];
