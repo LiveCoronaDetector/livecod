@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
     },
     {
-        "title": "Ten countries kept out Covid. But did they win?",
-        "link": "https://www.bbc.com/news/world-asia-53831063"
+        "title": "FDA Authorizes Emergency Use Of Plasma Treatment For Coronavirus | TODAY",
+        "link": "https://www.youtube.com/watch?v=AVBoQLI-DR4"
     }
 ];
