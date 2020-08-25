@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
+        "title": "제주서 코로나19 확진 잇따라…24~25일 5명 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008250829001&code=620117"
+    },
+    {
         "title": "제주도 34번째 코로나19 확진자 발생...'JDC 직장 동료'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425675"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "동선 숨겼다가 2억 물어내게 생긴 확진자 '홍보영상'…\"실화입니다\"",
         "link": "https://www.hankyung.com/society/article/2020082529147"
-    },
-    {
-        "title": "제주 코로나 31번 확진자는 중등교사...\"학생 접촉 없어\"",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319309"
     },
     {
         "title": "낚시꾼 100명 몰린 주민 78명 외딴섬…‘코로나 마을총회’가 열렸다",

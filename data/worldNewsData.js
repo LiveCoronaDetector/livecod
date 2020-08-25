@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
-        "title": "They went to India, now they're stranded by coronavirus rules set 6,400 miles away",
-        "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
+        "title": "India Is in Denial about the COVID-19 Crisis",
+        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
     },
     {
         "title": "South Korea on brink of nationwide virus outbreak, officials warn",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "COVID-19 Cases Climbing At The University of Miami",
-        "link": "https://www.youtube.com/watch?v=E_yIsdp2rY8"
+        "title": "Parents of ASU students are worried about their children catching COVID-19 on campus",
+        "link": "https://www.youtube.com/watch?v=p2FYfZkUShM"
     },
     {
         "title": "The World Health Organization Declares Africa Polio-Free",
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Man who believed virus was hoax loses wife to Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-53892856"
+        "title": "Georgia State Rep. Vernon Jones on why he's voting for Donald Trump",
+        "link": "https://www.youtube.com/watch?v=H4LqeDt12l0"
     }
 ];
