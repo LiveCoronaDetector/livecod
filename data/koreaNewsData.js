@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525025&ref=A"
     },
     {
-        "title": "[단독]고령 확진자 많은데… 수도권 사용 가능 중증환자 병상 7개뿐",
-        "link": "https://www.donga.com/news/article/all/20200826/102648809/1"
+        "title": "'전광훈과 팬데믹' 그들은 왜 코로나19와 엮였나",
+        "link": "https://www.nocutnews.co.kr/news/5400339"
     },
     {
-        "title": "원주서 확진자 추가 발생…강원 하루새 21명 늘어(종합)",
-        "link": "http://yna.kr/AKR20200825186851062?did=1195m"
+        "title": "\"코로나19확산세 한풀 꺾여\"vs\"성급한 판단,전국확산 폭풍전야\"(종합2보)",
+        "link": "http://yna.kr/AKR20200825082852017?did=1195m"
     }
 ];
