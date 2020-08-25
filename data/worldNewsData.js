@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus live updates: South Korea closes most schools in Seoul area; first confirmed case of reinfection",
-        "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
+        "title": "'Outrageous': Trump Announcement on Convalescent Plasma Blasted by Scientists",
+        "link": "https://www.newsweek.com/outrageous-trump-announcement-convalescent-plasma-blasted-scientists-1527081"
     }
 ];
