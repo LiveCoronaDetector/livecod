@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53888219"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
+        "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Trump speaks with essential workers about Covid-19 pandemic during RNC",
-        "link": "https://www.youtube.com/watch?v=wSkrp1kAVkg"
+        "title": "The World Health Organization Declares Africa Polio-Free",
+        "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
-        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
+        "title": "Trump speaks with essential workers about Covid-19 pandemic during RNC",
+        "link": "https://www.youtube.com/watch?v=wSkrp1kAVkg"
     }
 ];

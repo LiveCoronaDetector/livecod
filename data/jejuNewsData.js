@@ -17,12 +17,8 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
-        "title": "JDC, 2명 코로나19 확진 '비상'…전 직원 진단검사(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200825_0001142215&cID=10813&pID=10800"
-    },
-    {
-        "title": "JDC 코로나19 확진자 발생…필수인원외 재택근무",
-        "link": "https://www.news1.kr/articles/?4036491"
+        "title": "JDC, 직원 코로나19 확진 특별방역…재택근무 전환",
+        "link": "http://www.newsis.com/view/?id=NISX20200825_0001141298&cID=10813&pID=10800"
     },
     {
         "title": "제주지역 코로나19 확진자 5명 1차 역학조사 공개",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "낚시꾼 100명 몰린 주민 78명 외딴섬…‘코로나 마을총회’가 열렸다",
         "link": "http://www.hani.co.kr/arti/area/honam/959263.html"
+    },
+    {
+        "title": "하룻밤새 코로나19 확진자 4명 잇따라 발생…방역 비상",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4524561&ref=A"
     }
 ];
