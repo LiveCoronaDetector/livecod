@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Trump speaks with essential workers about Covid-19 pandemic during RNC",
-        "link": "https://www.youtube.com/watch?v=wSkrp1kAVkg"
+        "title": "Man who believed virus was hoax loses wife to Covid-19",
+        "link": "https://www.bbc.com/news/world-us-canada-53892856"
     }
 ];
