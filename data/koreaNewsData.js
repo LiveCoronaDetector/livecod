@@ -5,6 +5,18 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020082553707"
     },
     {
+        "title": "(속보) 코로나19 확진자 방문에···대구시청 별관 일부 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z6PUK7X4N"
+    },
+    {
+        "title": "SBS 본사 코로나19 확진자 발생…\"방송엔 차질 없어\"(종합2보)",
+        "link": "http://yna.kr/AKR20200825164752005?did=1195m"
+    },
+    {
+        "title": "SBS 목동 사옥서 코로나 확진자 발생…“역학 조사 진행 중”",
+        "link": "http://www.hani.co.kr/arti/society/media/959324.html"
+    },
+    {
         "title": "[속보] 삼성전자 기흥캠퍼스서 코로나19 확진자 추가 발생",
         "link": "https://www.hankyung.com/life/article/2020082531217"
     },
@@ -13,31 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4524757&ref=A"
     },
     {
+        "title": "JDC, 2명 코로나19 확진 '비상'…전 직원 진단검사(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200825_0001142215&cID=10813&pID=10800"
+    },
+    {
         "title": "\"어제 수도권 코로나19 중환자실 가용 병상 7개\" (종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082501941.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "(속보) 코로나19 확진자 방문에···대구시청 별관 일부 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z6PUK7X4N"
+        "title": "\"코로나 한창인데\"…래퍼 류정란, 용산CGV 무단 침입·마스크 없이 활보[종합...",
+        "link": "http://www.sportsseoul.com/news/read/950698?ref=naver"
     },
     {
-        "title": "SBS 목동 사옥서 코로나 확진자 발생…“역학 조사 진행 중”",
-        "link": "http://www.hani.co.kr/arti/society/media/959324.html"
-    },
-    {
-        "title": "SBS 목동 사옥 코로나 확진자 발생…“자체 방역”(공식입장 전문)",
-        "link": "http://mksports.co.kr/view/2020/875827/"
-    },
-    {
-        "title": "SBS 본사 코로나19 확진자 발생…\"방송엔 차질 없어\"(종합2보)",
-        "link": "http://yna.kr/AKR20200825164752005?did=1195m"
-    },
-    {
-        "title": "경남, 코로나19 확진자 200명 돌파…오늘 4명 추가(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200825_0001142080&cID=10812&pID=10800"
-    },
-    {
-        "title": "민주노총 집회로 튄 코로나19 불씨…확진자 더 나올까",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525025&ref=A"
+        "title": "법원행정처 심의관 부인 코로나 확진…처장도 '자택대기'",
+        "link": "https://www.nocutnews.co.kr/news/5400269"
     }
 ];
