@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
     },
     {
-        "title": "South Korea on brink of nationwide virus outbreak, officials warn",
-        "link": "https://www.bbc.com/news/world-asia-53888219"
+        "title": "Mask-wearing employees at Starbucks in South Korea avoid coronavirus infection following outbreak: officials",
+        "link": "https://www.foxnews.com/health/mask-wearing-employees-starbuks-south-korea-spared-coronavirus"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Man who believed virus was hoax loses wife to Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-53892856"
+        "title": "Kimberly Guilfoyle's RNC speech sparks shock and awe — and an online challenge",
+        "link": "https://news.yahoo.com/kimberly-guilfoyles-rnc-speech-sparks-162813699.html"
     },
     {
-        "title": "Genetic data show how a single superspreading event sent coronavirus across Massachusetts — and the nation",
-        "link": "https://www.washingtonpost.com/climate-environment/2020/08/25/boston-coronavirus-superspreading-event/"
+        "title": "Man who believed virus was hoax loses wife to Covid-19",
+        "link": "https://www.bbc.com/news/world-us-canada-53892856"
     }
 ];

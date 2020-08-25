@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5949693,
-        "사망자수": 182227,
-        "완치자수": 3238686
+        "확진자수": 5951779,
+        "사망자수": 182258,
+        "완치자수": 3240141
     },
     {
         "Name": "브라질",
@@ -188,9 +188,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 125834,
-        "사망자수": 9089,
-        "완치자수": 111890
+        "확진자수": 125911,
+        "사망자수": 9090,
+        "완치자수": 112004
     },
     {
         "Name": "카타르",
@@ -244,9 +244,9 @@ var marker = [
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "확진자수": 97478,
-        "사망자수": 5280,
-        "완치자수": 66817
+        "확진자수": 97619,
+        "사망자수": 5298,
+        "완치자수": 67717
     },
     {
         "Name": "도미니카 공화국",
@@ -676,7 +676,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 10426,
+        "확진자수": 10454,
         "사망자수": 264,
         "완치자수": 9150
     },
@@ -857,20 +857,20 @@ var marker = [
         "완치자수": 1755
     },
     {
+        "Name": "Nicaragua",
+        "Name_ch": "",
+        "Name_en": "Nicaragua",
+        "확진자수": 4494,
+        "사망자수": 137,
+        "완치자수": 2913
+    },
+    {
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
         "확진자수": 4378,
         "사망자수": 84,
         "완치자수": 3420
-    },
-    {
-        "Name": "Nicaragua",
-        "Name_ch": "",
-        "Name_en": "Nicaragua",
-        "확진자수": 4311,
-        "사망자수": 133,
-        "완치자수": 2913
     },
     {
         "Name": "Eswatini",
@@ -1212,7 +1212,7 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 1184,
+        "확진자수": 1252,
         "사망자수": 15,
         "완치자수": 178
     },
@@ -1233,20 +1233,20 @@ var marker = [
         "완치자수": 877
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 1060,
+        "사망자수": 31,
+        "완치자수": 523
+    },
+    {
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
         "확진자수": 1049,
         "사망자수": 30,
         "완치자수": 472
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 1029,
-        "사망자수": 31,
-        "완치자수": 510
     },
     {
         "Name": "베트남",
@@ -1265,20 +1265,20 @@ var marker = [
         "완치자수": 871
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "확진자수": 935,
+        "사망자수": 15,
+        "완치자수": 289
+    },
+    {
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
         "확진자수": 892,
         "사망자수": 15,
         "완치자수": 832
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "확진자수": 771,
-        "사망자수": 15,
-        "완치자수": 289
     },
     {
         "Name": "Belize",
@@ -1460,7 +1460,7 @@ var marker = [
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
-        "확진자수": 176,
+        "확진자수": 198,
         "사망자수": 5,
         "완치자수": 52
     },
@@ -1476,7 +1476,7 @@ var marker = [
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "확진자수": 161,
+        "확진자수": 164,
         "사망자수": 7,
         "완치자수": 132
     },
@@ -1534,7 +1534,7 @@ var marker = [
         "Name_en": "St. Vincent Grenadines",
         "확진자수": 58,
         "사망자수": 0,
-        "완치자수": 56
+        "완치자수": 57
     },
     {
         "Name": "Curaçao",
@@ -1617,20 +1617,20 @@ var marker = [
         "완치자수": 18
     },
     {
+        "Name": "St. Barth",
+        "Name_ch": "",
+        "Name_en": "St. Barth",
+        "확진자수": 17,
+        "사망자수": 0,
+        "완치자수": 9
+    },
+    {
         "Name": "Saint Kitts and Nevis",
         "Name_ch": "",
         "Name_en": "Saint Kitts and Nevis",
         "확진자수": 17,
         "사망자수": 0,
         "완치자수": 17
-    },
-    {
-        "Name": "St. Barth",
-        "Name_ch": "",
-        "Name_en": "St. Barth",
-        "확진자수": 16,
-        "사망자수": 0,
-        "완치자수": 9
     },
     {
         "Name": "Greenland",
