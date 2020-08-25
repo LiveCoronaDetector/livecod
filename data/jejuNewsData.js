@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
+        "title": "제주도 34번째 코로나19 확진자 발생...'JDC 직장 동료'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425675"
+    },
+    {
         "title": "JDC, 직원 코로나19 확진 특별방역…재택근무 전환",
         "link": "http://www.newsis.com/view/?id=NISX20200825_0001141298&cID=10813&pID=10800"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "낚시꾼 100명 몰린 주민 78명 외딴섬…‘코로나 마을총회’가 열렸다",
         "link": "http://www.hani.co.kr/arti/area/honam/959263.html"
-    },
-    {
-        "title": "하룻밤새 코로나19 확진자 4명 잇따라 발생…방역 비상",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4524561&ref=A"
     }
 ];

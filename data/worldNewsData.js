@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53888219"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
+        "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
