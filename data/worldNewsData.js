@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
     },
     {
-        "title": "Coronavirus Israel live: Ukraine to restrict Jewish pilgrimage upon Israel's request",
-        "link": "https://www.haaretz.com/israel-news/.premium-coronavirus-israel-live-news-gaza-cases-lockdown-1.9096593"
+        "title": "I work as a medic in Syria, where an unreported Covid-19 crisis is unfolding",
+        "link": "https://www.theguardian.com/commentisfree/2020/aug/24/medic-syria-covid-19-crisis-health-pandemic"
     },
     {
         "title": "Spain warned of dire impact of second coronavirus lockdown",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "Parents of ASU students are worried about their children catching COVID-19 on campus",
-        "link": "https://www.youtube.com/watch?v=p2FYfZkUShM"
+        "title": "COVID-19 Cases Climbing At The University of Miami",
+        "link": "https://www.youtube.com/watch?v=E_yIsdp2rY8"
     },
     {
         "title": "The World Health Organization Declares Africa Polio-Free",
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Georgia State Rep. Vernon Jones on why he's voting for Donald Trump",
-        "link": "https://www.youtube.com/watch?v=H4LqeDt12l0"
+        "title": "Charlotte residents react to RNC, some fear COVID-19 spread",
+        "link": "https://www.youtube.com/watch?v=nyMuOTYbYKc"
     }
 ];
