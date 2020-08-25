@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5885464_32531.html"
     },
     {
-        "title": "제주도 하루새 '5명' 코로나19 확진....2차감염 확산 우려",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425596"
+        "title": "JDC, 직원 코로나19 확진 특별방역…재택근무 전환",
+        "link": "http://www.newsis.com/view/?id=NISX20200825_0001141298&cID=10813&pID=10800"
     },
     {
-        "title": "코로나 확진자로 발칵 뒤집힌 JDC, 밀접 접촉자 17명 검사",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319304"
+        "title": "[2보] \"제주도 29번 확진자, 용인시 교회 방문했다가 감염 추정\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425573"
     },
     {
-        "title": "서울 확진자 3천 명↑…'집단감염' 전국 확산",
-        "link": "https://imnews.imbc.com/replay/2020/nw930/article/5885703_32517.html"
+        "title": "제주도 '4명' 연이어 코로나19 확진...차단방역 초비상",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425578"
     }
 ];
