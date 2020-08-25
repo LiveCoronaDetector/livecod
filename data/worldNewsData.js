@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
+        "title": "Trump speaks with essential workers about Covid-19 pandemic during RNC",
+        "link": "https://www.youtube.com/watch?v=wSkrp1kAVkg"
+    },
+    {
         "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
         "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
     },
     {
-        "title": "Live updates: Florida judge blocks order requiring in-person learning during coronavirus pandemic",
-        "link": "https://www.washingtonpost.com/nation/2020/08/25/coronavirus-covid-live-updates-us/"
-    },
-    {
-        "title": "Florida Judge Strikes Down Order Requiring Schools to Physically Reopen Amid Covid-19 Risks",
-        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: South Korea closes most schools in Seoul area; first confirmed case of reinfection",
+        "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
     }
 ];

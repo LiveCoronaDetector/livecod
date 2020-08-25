@@ -4,16 +4,16 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5917479,
-        "사망자수": 181204,
-        "완치자수": 3218963
+        "확진자수": 5918213,
+        "사망자수": 181226,
+        "완치자수": 3219327
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 3627217,
-        "사망자수": 115451,
+        "확진자수": 3627961,
+        "사망자수": 115476,
         "완치자수": 2778709
     },
     {
@@ -358,7 +358,7 @@ var marker = [
         "Name_en": "Singapore",
         "확진자수": 56435,
         "사망자수": 27,
-        "완치자수": 54587
+        "완치자수": 54816
     },
     {
         "Name": "포르투갈",
@@ -748,9 +748,9 @@ var marker = [
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "확진자수": 8346,
+        "확진자수": 8379,
         "사망자수": 67,
-        "완치자수": 7142
+        "완치자수": 7179
     },
     {
         "Name": "Haiti",
@@ -1353,6 +1353,14 @@ var marker = [
         "완치자수": 345
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 419,
+        "사망자수": 4,
+        "완치자수": 232
+    },
+    {
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
@@ -1375,14 +1383,6 @@ var marker = [
         "확진자수": 408,
         "사망자수": 17,
         "완치자수": 147
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 401,
-        "사망자수": 4,
-        "완치자수": 232
     },
     {
         "Name": "Turks and Caicos",

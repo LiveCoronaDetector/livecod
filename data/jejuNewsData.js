@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
-        "title": "31번 확진자 접촉자 25일 기준 18명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170536"
-    },
-    {
         "title": "원희룡 지사, 코로나19 확진자 동선 신속히 공개 지시",
         "link": "https://www.pressian.com/pages/articles/2020082514252219492?utm_source=naver&utm_medium=search"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "동선 숨겼다가 2억 물어내게 생긴 확진자 '홍보영상'…\"실화입니다\"",
         "link": "https://www.hankyung.com/society/article/2020082529147"
+    },
+    {
+        "title": "제주 코로나 31번 확진자는 중등교사...\"학생 접촉 없어\"",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319309"
     }
 ];
