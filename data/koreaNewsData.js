@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200825082852017?did=1195m"
     },
     {
-        "title": "SBS 목동 사옥서 코로나 확진자 발생…“역학 조사 진행 중”",
-        "link": "http://www.hani.co.kr/arti/society/media/959324.html"
+        "title": "SBS 목동 사옥에서도 코로나19 확진자 발생…“방송은 정상적으로”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008251939001&code=960100"
     },
     {
         "title": "[속보]원주 춘천 철원서 코로나 19명 확진…원주 누적확진자 92명",
@@ -17,8 +17,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6PUK7X4N"
     },
     {
+        "title": "SBS 목동 사옥서 코로나 확진자 발생…“역학 조사 진행 중”",
+        "link": "http://www.hani.co.kr/arti/society/media/959324.html"
+    },
+    {
         "title": "SBS 목동 사옥 코로나 확진자 발생…셧다운은 피해",
         "link": "https://www.nocutnews.co.kr/news/5400974"
+    },
+    {
+        "title": "SBS 목동 사옥도 코로나 확진자 발생… 全 직원 출입 제한",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082504005.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "SBS 목동 사옥 확진자 발생, 모든 방송 정상 편성 [공식입장]",
@@ -27,14 +35,6 @@ var koreaNewsData = [
     {
         "title": "[속보] 삼성전자 기흥캠퍼스서 코로나19 확진자 추가 발생",
         "link": "https://www.hankyung.com/life/article/2020082531217"
-    },
-    {
-        "title": "코로나19 신규 확진자 280명…이틀 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4524757&ref=A"
-    },
-    {
-        "title": "민주노총 집회로 튄 코로나19 불씨…확진자 더 나올까",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525025&ref=A"
     },
     {
         "title": "JDC, 2명 코로나19 확진 '비상'…전 직원 진단검사(종합)",

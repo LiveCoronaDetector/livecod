@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53862407"
     },
     {
-        "title": "RNC 2020 fact-check: Trump’s Covid-19 lie, refuted in one chart",
-        "link": "https://www.vox.com/2020/8/24/21400360/rnc-covid-19-coronavirus-fact-check-donald-trump-deaths"
+        "title": "Coronavirus: Dr Anthony Fauci warns against rushing out vaccine",
+        "link": "https://www.bbc.com/news/world-us-canada-53899908"
     },
     {
         "title": "Pakistan wins rare, fragile success against novel coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "Trump speaks with essential workers about Covid-19 pandemic during RNC",
-        "link": "https://www.youtube.com/watch?v=wSkrp1kAVkg"
+        "title": "Coronavirus reportedly catches up to Usain Bolt, the world's fastest man",
+        "link": "https://www.cbsnews.com/news/usain-bolt-coronavirus-covid-reportedly-catches-up-to-the-worlds-fastest-man/"
     },
     {
-        "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
-        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
+        "title": "Trump's coronavirus disaster is the big lie of the RNC",
+        "link": "https://www.yahoo.com/news/trumps-coronavirus-disaster-big-lie-041223604.html"
     },
     {
-        "title": "Coronavirus: South Korea closes most schools in Seoul area; first confirmed case of reinfection",
-        "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
+        "title": "Florida Judge Strikes Down Order Requiring Schools to Physically Reopen Amid Covid-19 Risks",
+        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
     }
 ];
