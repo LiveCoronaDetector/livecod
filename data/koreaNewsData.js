@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5400974"
     },
     {
+        "title": "[단독]고령 확진자 많은데… 수도권 사용 가능 중증환자 병상 7개뿐",
+        "link": "https://www.donga.com/news/article/all/20200826/102648809/1"
+    },
+    {
         "title": "[속보] 삼성전자 기흥캠퍼스서 코로나19 확진자 추가 발생",
         "link": "https://www.hankyung.com/life/article/2020082531217"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "\"코로나19확산세 한풀 꺾여\"vs\"성급한 판단,전국확산 폭풍전야\"(종합2보)",
         "link": "http://yna.kr/AKR20200825082852017?did=1195m"
-    },
-    {
-        "title": "\"멀쩡한 사람 확진자로 만든다?\" 정말 너무합니다",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020082512534266155"
     }
 ];
