@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425578"
     },
     {
-        "title": "제주도 하룻밤새 코로나 5명 확진 날벼락...목사·JDC 직원 부부-관광객",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319298"
-    },
-    {
         "title": "서울 확진자 3천 명 넘어…'집단감염' 전국 확산세",
         "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5885464_32531.html"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주도 공항·실내관광지에선 마스크 꼭 써야…위반시 고발",
         "link": "http://yna.kr/AKR20200824157500056?did=1195m"
+    },
+    {
+        "title": "제주 27·28번 코로나 확진자 접촉 188명 자가격리",
+        "link": "http://yna.kr/AKR20200823043600056?did=1195m"
     }
 ];
