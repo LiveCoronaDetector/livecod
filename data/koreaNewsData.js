@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008251015001&code=940100"
     },
     {
+        "title": "제주도내 코로나19 확진자...24일 4명 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "제주 29번째 확진자 발생…\"용인 개척교회 다녀온 목사\"(종합)",
         "link": "http://yna.kr/AKR20200824163951056?did=1195m"
+    },
+    {
+        "title": "전북 77번째 확진자 발생…서울 송파 확진자 3차례 접촉(종합)",
+        "link": "http://www.fnnews.com/news/202008251046210537"
+    },
+    {
+        "title": "[속보] 코로나19 어제 280명 신규확진…지역발생 264명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082510120547028"
+    },
+    {
+        "title": "코로나19 신규 확진자 280명…이틀 연속 200명대 유지(상보)",
+        "link": "http://www.newsway.co.kr/news/view?tp=1&ud=2020082510345462975"
     },
     {
         "title": "감염경로 알 수 없는 '깜깜이 확진자' 일주일새 7배 급증",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082500480.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "우사인 볼트, ‘No 마스크 생일파티’ 후 코로나19 확진",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014940649&code=61132411&cp=nv"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 전날보다 280명 늘어",
+        "link": "http://www.hani.co.kr/arti/society/health/959219.html"
+    },
+    {
         "title": "[속보] 코로나 확진자 12일간 3000명 넘어…24일 신규 확진 280명",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082501381.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "잠잠하던 제주서 밤새 코로나19 확진자 5명 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
-    },
-    {
-        "title": "'파격, 또 파격' 트럼프…바이든과 '코로나 대선' 정면승부(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01361206625870928"
-    },
-    {
-        "title": "학교내 확진자 사흘새 92명… 교육계 “원격수업 선제적 전환을”",
-        "link": "https://www.donga.com/news/article/all/20200825/102629746/1"
-    },
-    {
-        "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "[속보] 코로나19 신규확진 280명…이틀 연속 200명대 유지",
-        "link": "http://www.segye.com/content/html/2020/08/25/20200825509126.html?OutUrl=naver"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진 280명... 수도권만 212명",
-        "link": "https://hankookilbo.com/News/Read/A2020082509520002898?did=NA"
     }
 ];

@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53892856"
     },
     {
-        "title": "I work as a medic in Syria, where an unreported Covid-19 crisis is unfolding",
-        "link": "https://www.theguardian.com/commentisfree/2020/aug/24/medic-syria-covid-19-crisis-health-pandemic"
+        "title": "Gaza lockdown after 1st coronavirus community transmission: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/greece-records-highest-daily-coronavirus-cases-live-updates-200823232403531.html"
     },
     {
-        "title": "COVID-19 in school: Coronavirus data 2 weeks into Germany's school year \"reassures\" expert",
-        "link": "https://www.cbsnews.com/news/covid-19-school-cornavirus-data-2-weeks-into-germany-school-year-reassures-expert/"
+        "title": "German Concert Experiment Tests How Big Gatherings Spread COVID-19 : Coronavirus Live Updates",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/24/905534790/german-experiment-tests-how-coronavirus-spreads-at-a-concert"
     },
     {
         "title": "They went to India, now they're stranded by coronavirus rules set 6,400 miles away",
@@ -23,6 +23,10 @@ var worldNewsData = [
     {
         "title": "China’s Economy Is Bouncing Back—And Gaining Ground on the U.S.",
         "link": "https://www.wsj.com/articles/chinas-economy-is-bouncing-backand-gaining-ground-on-the-u-s-11598280917"
+    },
+    {
+        "title": "Covid-19: Live News and Updates",
+        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Ten countries kept out Covid. But did they win?",
         "link": "https://www.bbc.com/news/world-asia-53831063"
-    },
-    {
-        "title": "Coronavirus live updates: First confirmed case of reinfection; WHO says 172 countries on global vaccine plan",
-        "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
     }
 ];
