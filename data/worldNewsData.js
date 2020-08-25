@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53892856"
     },
     {
-        "title": "Gaza lockdown after 1st coronavirus community transmission: Live",
-        "link": "https://www.aljazeera.com/news/2020/08/greece-records-highest-daily-coronavirus-cases-live-updates-200823232403531.html"
+        "title": "I work as a medic in Syria, where an unreported Covid-19 crisis is unfolding",
+        "link": "https://www.theguardian.com/commentisfree/2020/aug/24/medic-syria-covid-19-crisis-health-pandemic"
     },
     {
         "title": "COVID-19 in school: Coronavirus data 2 weeks into Germany's school year \"reassures\" expert",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53888219"
     },
     {
-        "title": "Florida Man Says Wife Died of COVID-19 After Ignoring Health Guidance Because of Misinformation on Facebook",
-        "link": "https://www.newsweek.com/florida-man-says-wife-died-covid-19-after-ignoring-health-guidance-because-misinformation-1527279"
-    },
-    {
-        "title": "Case of man reinfected with coronavirus stokes immunity fears",
-        "link": "https://www.theguardian.com/world/2020/aug/24/case-of-man-with-coronavirus-for-second-time-stokes-reinfection-fears-hong-kong"
+        "title": "Covid-19: Live News and Updates",
+        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus live updates: First confirmed case of reinfection; WHO says 172 countries on global vaccine plan",
         "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Case of man reinfected with coronavirus stokes immunity fears",
+        "link": "https://www.theguardian.com/world/2020/aug/24/case-of-man-with-coronavirus-for-second-time-stokes-reinfection-fears-hong-kong"
     }
 ];
