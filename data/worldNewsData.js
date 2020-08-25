@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.vox.com/2020/8/24/21400360/rnc-covid-19-coronavirus-fact-check-donald-trump-deaths"
     },
     {
-        "title": "Coronavirus Israel live: Ukraine to restrict Jewish pilgrimage upon Israel's request",
-        "link": "https://www.haaretz.com/israel-news/.premium-coronavirus-israel-live-news-gaza-cases-lockdown-1.9096593"
+        "title": "Pakistan wins rare, fragile success against novel coronavirus",
+        "link": "https://www.aljazeera.com/news/2020/08/pakistan-wins-rare-fragile-successes-coronavirus-200824111112457.html"
     },
     {
         "title": "COVID-19 in school: Coronavirus data 2 weeks into Germany's school year \"reassures\" expert",
@@ -25,11 +25,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53888219"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest news from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: U.S. Parents Divided Along Political Lines Over Resuming In-Person Classes, Survey Shows",
+        "title": "Covid-19 Live Updates: Colleges are Suspending Students Over Virus Safety Violations",
         "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     },
     {
