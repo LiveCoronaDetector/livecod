@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6PUK7X4N"
     },
     {
-        "title": "\"코로나19확산세 한풀 꺾여\"vs\"성급한 판단,전국확산 폭풍전야\"(종합2보)",
-        "link": "http://yna.kr/AKR20200825082852017?did=1195m"
-    },
-    {
         "title": "[속보] SBS 목동 사옥 확진자 발생 폐쇄",
         "link": "https://www.hankyung.com/life/article/2020082553707"
+    },
+    {
+        "title": "[단독]SBS 본사 코로나19 확진자 발생..\"사옥폐쇄NO, 방송이상無\"[종합]",
+        "link": "http://star.mt.co.kr/stview.php?no=2020082519444483757"
+    },
+    {
+        "title": "SBS 목동 사옥서 코로나 확진자 발생…“역학 조사 진행 중”",
+        "link": "http://www.hani.co.kr/arti/society/media/959324.html"
     },
     {
         "title": "[속보] 삼성전자 기흥캠퍼스서 코로나19 확진자 추가 발생",
@@ -21,12 +25,8 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4524757&ref=A"
     },
     {
-        "title": "\"어제 수도권 코로나19 중환자실 가용 병상 7개\" (종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082501941.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "SBS 목동 사옥에서도 코로나19 확진자 발생",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008251939001&code=960100"
+        "title": "\"코로나19확산세 한풀 꺾여\"vs\"성급한 판단,전국확산 폭풍전야\"(종합2보)",
+        "link": "http://yna.kr/AKR20200825082852017?did=1195m"
     },
     {
         "title": "경남, 코로나19 확진자 200명 돌파…오늘 4명 추가(종합)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200825164752005?did=1195m"
     },
     {
-        "title": "민주노총 집회로 튄 코로나19 불씨…확진자 더 나올까",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525025&ref=A"
+        "title": "\"어제 수도권 코로나19 중환자실 가용 병상 7개\" (종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082501941.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
