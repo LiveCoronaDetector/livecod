@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
-        "link": "http://yna.kr/AKR20200825089000056?did=1195m"
-    },
-    {
         "title": "제주도 하룻밤새 코로나19 확진자 5명 발생",
         "link": "https://www.pressian.com/pages/articles/2020082509434271947?utm_source=naver&utm_medium=search"
     },
@@ -21,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
+        "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
+        "link": "http://yna.kr/AKR20200825089000056?did=1195m"
+    },
+    {
         "title": "JDC, 직원 코로나19 확진 특별방역…재택근무 전환",
         "link": "http://www.newsis.com/view/?id=NISX20200825_0001141298&cID=10813&pID=10800"
     },
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5400436"
     },
     {
-        "title": "JDC 직원 부부 등 제주 코로나19 확진자들 1차 동선공개",
-        "link": "https://www.news1.kr/articles/?4036656"
+        "title": "제주 코로나 31번 확진자는 중등교사...\"학생 접촉 없어\"",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319309"
     },
     {
         "title": "동선 숨겼다가 2억 물어내게 생긴 확진자 '홍보영상'…\"실화입니다\"",
         "link": "https://www.hankyung.com/society/article/2020082529147"
     },
     {
-        "title": "제주 코로나 31번 확진자는 중등교사...\"학생 접촉 없어\"",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319309"
+        "title": "JDC, 코로나19 확진자 발생…'재난 상황반' 가동",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1312972"
     }
 ];
