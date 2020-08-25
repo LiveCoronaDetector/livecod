@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/25/latest_news/1598333385_810808.html"
     },
     {
-        "title": "Man who believed virus was hoax loses wife to Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-53892856"
+        "title": "RNC 2020 fact-check: Trump’s Covid-19 lie, refuted in one chart",
+        "link": "https://www.vox.com/2020/8/24/21400360/rnc-covid-19-coronavirus-fact-check-donald-trump-deaths"
     },
     {
         "title": "Gaza lockdown after 1st coronavirus community transmission: Live",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
-        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
-    },
-    {
         "title": "Case of man reinfected with coronavirus stokes immunity fears",
         "link": "https://www.theguardian.com/world/2020/aug/24/case-of-man-with-coronavirus-for-second-time-stokes-reinfection-fears-hong-kong"
+    },
+    {
+        "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
+        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
     },
     {
         "title": "Florida Judge Strikes Down Order Requiring Schools to Physically Reopen Amid Covid-19 Risks",
