@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53862407"
     },
     {
-        "title": "Coronavirus: Dr Anthony Fauci warns against rushing out vaccine",
-        "link": "https://www.bbc.com/news/world-us-canada-53899908"
+        "title": "RNC 2020 fact-check: Trump’s Covid-19 lie, refuted in one chart",
+        "link": "https://www.vox.com/2020/8/24/21400360/rnc-covid-19-coronavirus-fact-check-donald-trump-deaths"
     },
     {
         "title": "Pakistan wins rare, fragile success against novel coronavirus",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
     },
     {
-        "title": "China’s Economy Is Bouncing Back—And Gaining Ground on the U.S.",
-        "link": "https://www.wsj.com/articles/chinas-economy-is-bouncing-backand-gaining-ground-on-the-u-s-11598280917"
+        "title": "South Korea on brink of nationwide virus outbreak, officials warn",
+        "link": "https://www.bbc.com/news/world-asia-53888219"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
     },
     {
-        "title": "Hits and misses from Night 1 of the Republican National Convention",
-        "link": "https://www.cnn.com/2020/08/24/politics/republicans-analysis-best-worst-rnc/index.html"
+        "title": "Live updates: Florida judge blocks order requiring in-person learning during coronavirus pandemic",
+        "link": "https://www.washingtonpost.com/nation/2020/08/25/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "No FDA 'deep state' slow-walking coronavirus vaccine, commissioner says",
-        "link": "https://www.foxnews.com/politics/fda-deep-state-trump-coronavirus-stephen-hahn"
+        "title": "Florida Judge Strikes Down Order Requiring Schools to Physically Reopen Amid Covid-19 Risks",
+        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
     }
 ];
