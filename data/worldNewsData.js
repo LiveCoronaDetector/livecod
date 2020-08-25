@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
     },
     {
-        "title": "China’s Economy Is Bouncing Back—And Gaining Ground on the U.S.",
-        "link": "https://www.wsj.com/articles/chinas-economy-is-bouncing-backand-gaining-ground-on-the-u-s-11598280917"
+        "title": "South Korea on brink of nationwide virus outbreak, officials warn",
+        "link": "https://www.bbc.com/news/world-asia-53888219"
+    },
+    {
+        "title": "Case of man reinfected with coronavirus stokes immunity fears",
+        "link": "https://www.theguardian.com/world/2020/aug/24/case-of-man-with-coronavirus-for-second-time-stokes-reinfection-fears-hong-kong"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
     },
     {
-        "title": "Covid-19: Live News and Updates",
-        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Case of man reinfected with coronavirus stokes immunity fears",
-        "link": "https://www.theguardian.com/world/2020/aug/24/case-of-man-with-coronavirus-for-second-time-stokes-reinfection-fears-hong-kong"
+        "title": "Ten countries kept out Covid. But did they win?",
+        "link": "https://www.bbc.com/news/world-asia-53831063"
     },
     {
         "title": "Coronavirus live updates: First confirmed case of reinfection; WHO says 172 countries on global vaccine plan",
