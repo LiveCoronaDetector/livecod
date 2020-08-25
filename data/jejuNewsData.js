@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/2020082529147"
     },
     {
-        "title": "JDC 직장내 코로나 확진자 추가 발생...2차감염 차단 '비상'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425677"
-    },
-    {
         "title": "제주 코로나 31번 확진자는 중등교사...\"학생 접촉 없어\"",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319309"
+    },
+    {
+        "title": "낚시꾼 100명 몰린 주민 78명 외딴섬…‘코로나 마을총회’가 열렸다",
+        "link": "http://www.hani.co.kr/arti/area/honam/959263.html"
     }
 ];
