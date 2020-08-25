@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
-        "title": "제주 29번째 확진자 발생…\"용인 개척교회 다녀온 목사\"(종합)",
-        "link": "http://yna.kr/AKR20200824163951056?did=1195m"
-    },
-    {
         "title": "하룻밤새 코로나19 확진자 4명 잇따라 발생…방역 비상",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4524561&ref=A"
+    },
+    {
+        "title": "제주 29번째 확진자 발생…\"용인 개척교회 다녀온 목사\"(종합)",
+        "link": "http://yna.kr/AKR20200824163951056?did=1195m"
     },
     {
         "title": "수도권 코로나 재확산 영향 잠잠하던 제주도 확진자 급증",

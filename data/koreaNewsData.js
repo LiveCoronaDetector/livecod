@@ -9,16 +9,12 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02683046625870928"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 280명, 이틀 연속 200명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008251015001&code=940100"
+        "title": "코로나19 신규 확진자 280명…이틀 연속 200명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4524757&ref=A"
     },
     {
         "title": "감염경로 알 수 없는 '깜깜이 확진자' 일주일새 7배 급증",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082500480.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[2보] 코로나19 어제 280명 신규확진…이틀연속 200명대",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008251046210537"
     },
     {
-        "title": "[속보]순천시 코로나19 확진자, 25일 하루 14명 발생",
-        "link": "https://www.wikitree.co.kr/articles/565626"
+        "title": "코로나19 신규 확진 전날보다 280명 늘어",
+        "link": "http://www.hani.co.kr/arti/society/health/959219.html"
     },
     {
         "title": "[2보]원주 코로나19 확진자 16명 무더기 감염",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220082400139"
+    },
+    {
+        "title": "법원행정처 심의관 부인 코로나 확진…처장도 '자택대기'",
+        "link": "https://www.nocutnews.co.kr/news/5400269"
     }
 ];
