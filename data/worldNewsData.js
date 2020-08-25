@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/24/latest_news/1598256731_568686.html"
+        "link": "https://en.as.com/en/2020/08/25/latest_news/1598333385_810808.html"
     },
     {
         "title": "Man who believed virus was hoax loses wife to Covid-19",
@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/greece-records-highest-daily-coronavirus-cases-live-updates-200823232403531.html"
     },
     {
-        "title": "German Concert Experiment Tests How Big Gatherings Spread COVID-19 : Coronavirus Live Updates",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/24/905534790/german-experiment-tests-how-coronavirus-spreads-at-a-concert"
+        "title": "Spain warned of dire impact of second coronavirus lockdown",
+        "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
         "title": "They went to India, now they're stranded by coronavirus rules set 6,400 miles away",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
+        "title": "Florida Judge Strikes Down Order Requiring Schools to Physically Reopen Amid Covid-19 Risks",
+        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
+    },
+    {
         "title": "Case of man reinfected with coronavirus stokes immunity fears",
         "link": "https://www.theguardian.com/world/2020/aug/24/case-of-man-with-coronavirus-for-second-time-stokes-reinfection-fears-hong-kong"
     },
     {
-        "title": "Covid-19: Live News and Updates",
-        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Coronavirus live updates: South Korea closes most schools in Seoul area; first confirmed case of reinfection",
-        "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
+        "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
+        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
     }
 ];

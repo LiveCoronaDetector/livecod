@@ -9,14 +9,6 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020082531217"
     },
     {
-        "title": "감염경로 알 수 없는 '깜깜이 확진자' 일주일새 7배 급증",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082500480.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "코로나19 신규 확진자 280명…이틀 연속 200명대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4524757&ref=A"
     },
@@ -25,19 +17,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200825035600530?did=1195m"
     },
     {
-        "title": "[속보] KT 현장직원 코로나19 추가 확진…“감염될까 무섭다”",
-        "link": "http://www.sportsseoul.com/news/read/950578?ref=naver"
+        "title": "\"어제 수도권 코로나19 중환자실 가용 병상 7개\" (종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082501941.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "전북 77번째 확진자 발생…서울 송파 확진자 3차례 접촉(종합)",
-        "link": "http://www.fnnews.com/news/202008251046210537"
+        "title": "서울 '깜깜이' 확진자 일주일만에 7배 불었다···연령대 높을수록 급증",
+        "link": "https://www.sedaily.com/NewsView/1Z6PSYWH3Z"
     },
     {
-        "title": "코로나19 신규 확진 전날보다 280명 늘어",
-        "link": "http://www.hani.co.kr/arti/society/health/959219.html"
+        "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "\"코로나 한창인데\"…래퍼 류정란, 용산CGV 무단 침입·마스크 없이 활보[종합...",
+        "link": "http://www.sportsseoul.com/news/read/950698?ref=naver"
     },
     {
         "title": "[2보]원주 코로나19 확진자 16명 무더기 감염",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220082400139"
+    },
+    {
+        "title": "코로나19 신규 확진 전날보다 280명 늘어",
+        "link": "http://www.hani.co.kr/arti/society/health/959219.html"
     }
 ];
