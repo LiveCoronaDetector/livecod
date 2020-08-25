@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/25/latest_news/1598333385_810808.html"
     },
     {
-        "title": "Kentucky Man Accused Of Breaking Canada's COVID-19 Rules Faces $560000 Fine",
+        "title": "Kentucky Man Accused Of Breaking Canada's COVID-19 Rules Faces $569000 Fine",
         "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "College students prepare to head back home a week into classes as coronavirus cases on campus climb",
-        "link": "https://www.cnbc.com/2020/08/25/coronavirus-college-students-head-home-a-week-into-classes-as-campus-cases-rise.html"
-    },
-    {
         "title": "The World Health Organization Declares Africa Polio-Free",
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "President Donald Trump speaks with essential workers about Covid-19 pandemic during RNC",
-        "link": "https://www.youtube.com/watch?v=wSkrp1kAVkg"
+        "title": "Man who believed virus was hoax loses wife to Covid-19",
+        "link": "https://www.bbc.com/news/world-us-canada-53892856"
+    },
+    {
+        "title": "Genetic data show how a single superspreading event sent coronavirus across Massachusetts — and the nation",
+        "link": "https://www.washingtonpost.com/climate-environment/2020/08/25/boston-coronavirus-superspreading-event/"
     }
 ];
