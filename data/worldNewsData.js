@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.vox.com/2020/8/24/21400360/rnc-covid-19-coronavirus-fact-check-donald-trump-deaths"
     },
     {
-        "title": "Pakistan wins rare, fragile success against novel coronavirus",
-        "link": "https://www.aljazeera.com/news/2020/08/pakistan-wins-rare-fragile-successes-coronavirus-200824111112457.html"
+        "title": "Gaza lockdown after 1st coronavirus community transmission: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/greece-records-highest-daily-coronavirus-cases-live-updates-200823232403531.html"
     },
     {
         "title": "Spain warned of dire impact of second coronavirus lockdown",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
     },
     {
-        "title": "South Korea on brink of nationwide virus outbreak, officials warn",
-        "link": "https://www.bbc.com/news/world-asia-53888219"
+        "title": "China’s Economy Is Bouncing Back—And Gaining Ground on the U.S.",
+        "link": "https://www.wsj.com/articles/chinas-economy-is-bouncing-backand-gaining-ground-on-the-u-s-11598280917"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
     },
     {
-        "title": "Florida Judge Strikes Down Order Requiring Schools to Physically Reopen Amid Covid-19 Risks",
-        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
+        "title": "Live updates: Florida judge blocks order requiring in-person learning during coronavirus pandemic",
+        "link": "https://www.washingtonpost.com/nation/2020/08/25/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "'Outrageous': Trump Announcement on Convalescent Plasma Blasted by Scientists",
-        "link": "https://www.newsweek.com/outrageous-trump-announcement-convalescent-plasma-blasted-scientists-1527081"
+        "title": "Florida Judge Strikes Down Order Requiring Schools to Physically Reopen Amid Covid-19 Risks",
+        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
     }
 ];

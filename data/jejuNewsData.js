@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200825089000056?did=1195m"
     },
     {
-        "title": "제주도 하룻밤새 코로나19 확진자 5명 발생",
-        "link": "https://www.pressian.com/pages/articles/2020082509434271947?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "잠잠하던 제주서 밤새 코로나19 확진자 5명 발생",
         "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주 코로나 31번 확진자는 중등교사...\"학생 접촉 없어\"",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319309"
+    },
+    {
+        "title": "제주지역 코로나19 확진자 5명 1차 역학조사 공개",
+        "link": "https://www.nocutnews.co.kr/news/5400436"
     }
 ];
