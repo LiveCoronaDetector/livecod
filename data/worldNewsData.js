@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53899908"
     },
     {
-        "title": "Pakistan wins rare, fragile success against novel coronavirus",
-        "link": "https://www.aljazeera.com/news/2020/08/pakistan-wins-rare-fragile-successes-coronavirus-200824111112457.html"
+        "title": "Coronavirus Israel live: Ukraine to restrict Jewish pilgrimage upon Israel's request",
+        "link": "https://www.haaretz.com/israel-news/.premium-coronavirus-israel-live-news-gaza-cases-lockdown-1.9096593"
     },
     {
         "title": "COVID-19 in school: Coronavirus data 2 weeks into Germany's school year \"reassures\" expert",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
-        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
+        "title": "C-SPAN caller says he’s changing vote to Republican after RNC",
+        "link": "https://www.foxnews.com/politics/cspan-caller-says-hes-changing-vote-to-republican-after-rnc"
     },
     {
-        "title": "VIDEO: LSU Health Shreveport’s G.E. Ghali speaks at Republican Nat’l Convention",
-        "link": "https://www.ksla.com/2020/08/25/video-lsu-health-shreveports-ge-ghali-speaks-republican-natl-convention/"
+        "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
+        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
     },
     {
         "title": "Covid-19 Live Updates: U.S. Parents Divided Along Political Lines Over Resuming In-Person Classes, Survey Shows",

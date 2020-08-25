@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200825089000056?did=1195m"
     },
     {
-        "title": "JDC, 2명 코로나19 확진 '비상'…전 직원 진단검사(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200825_0001142215&cID=10813&pID=10800"
-    },
-    {
         "title": "잠잠하던 제주서 밤새 코로나19 확진자 5명 발생",
         "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
+    },
+    {
+        "title": "JDC, 2명 코로나19 확진 '비상'…전 직원 진단검사(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200825_0001142215&cID=10813&pID=10800"
     },
     {
         "title": "제주도내 29번째 코로나19 확진자 발생",
