@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200825035600530?did=1195m"
     },
     {
+        "title": "[속보] 코로나19 신규 확진 280명…이틀 연속 200명대",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008250133&t=NN"
+    },
+    {
         "title": "\"어제 수도권 코로나19 중환자실 가용 병상 7개\" (종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082501941.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 '깜깜이' 확진자 일주일만에 7배 불었다···연령대 높을수록 급증",
-        "link": "https://www.sedaily.com/NewsView/1Z6PSYWH3Z"
+        "title": "서울시, 신규 확진자 134명…집단·깜깜이 감염 증가↑",
+        "link": "https://www.donga.com/news/article/all/20200825/102642419/2"
     },
     {
-        "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "법원행정처 심의관 부인 코로나 확진…처장도 '자택대기'",
+        "link": "https://www.nocutnews.co.kr/news/5400269"
     },
     {
         "title": "\"코로나 한창인데\"…래퍼 류정란, 용산CGV 무단 침입·마스크 없이 활보[종합...",
         "link": "http://www.sportsseoul.com/news/read/950698?ref=naver"
     },
     {
-        "title": "[2보]원주 코로나19 확진자 16명 무더기 감염",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082400139"
-    },
-    {
-        "title": "코로나19 신규 확진 전날보다 280명 늘어",
-        "link": "http://www.hani.co.kr/arti/society/health/959219.html"
+        "title": "\"멀쩡한 사람 확진자로 만든다?\" 정말 너무합니다",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020082512534266155"
     }
 ];
