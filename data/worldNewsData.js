@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.vox.com/2020/8/24/21400360/rnc-covid-19-coronavirus-fact-check-donald-trump-deaths"
     },
     {
-        "title": "Pakistan wins rare, fragile success against novel coronavirus",
-        "link": "https://www.aljazeera.com/news/2020/08/pakistan-wins-rare-fragile-successes-coronavirus-200824111112457.html"
+        "title": "Gaza lockdown after 1st coronavirus community transmission: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/greece-records-highest-daily-coronavirus-cases-live-updates-200823232403531.html"
     },
     {
         "title": "Spain warned of dire impact of second coronavirus lockdown",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/chinas-economy-is-bouncing-backand-gaining-ground-on-the-u-s-11598280917"
     },
     {
-        "title": "Case of man reinfected with coronavirus stokes immunity fears",
-        "link": "https://www.theguardian.com/world/2020/aug/24/case-of-man-with-coronavirus-for-second-time-stokes-reinfection-fears-hong-kong"
-    },
-    {
         "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
         "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus live updates: South Korea closes most schools in Seoul area; first confirmed case of reinfection",
         "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
+    },
+    {
+        "title": "Xinjiang residents handcuffed to their homes in Covid lockdown",
+        "link": "https://www.theguardian.com/world/2020/aug/25/xinjiang-residents-handcuffed-to-their-homes-in-covid-lockdown"
     }
 ];

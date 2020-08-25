@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020082531217"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 280명, 이틀 연속 200명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008251015001&code=940100"
+        "title": "\"코로나19확산세 한풀 꺾여\"vs\"성급한 판단,전국확산 폭풍전야\"(종합2보)",
+        "link": "http://yna.kr/AKR20200825082852017?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 280명…이틀 연속 200명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4524757&ref=A"
+    },
+    {
+        "title": "“복음 전해야 할 교회가 코로나 전파한다는 조롱 들어” 자성",
+        "link": "http://www.hani.co.kr/arti/area/honam/959254.html"
     },
     {
         "title": "\"어제 수도권 코로나19 중환자실 가용 병상 7개\" (종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082501941.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "코로나19 확진자 방문에 화들짝 놀란 대구시 별관 일부 폐쇄(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200825_0001142179&cID=10810&pID=10800"
+    },
+    {
+        "title": "[속보] SBS 목동 사옥 폐쇄…보도국 있는 층에서 코로나19 확진자 발생",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082518092407616"
+    },
+    {
         "title": "[속보] 대구시청 별관 일부 폐쇄 \"코로나19 확진자 방문\"",
         "link": "https://news.imaeil.com/Society/2020082517380784460"
     },
     {
-        "title": "\"코로나19확산세 한풀 꺾여\"vs\"성급한 판단,전국확산 폭풍전야\"(종합2보)",
-        "link": "http://yna.kr/AKR20200825082852017?did=1195m"
-    },
-    {
-        "title": "경남, 코로나19 확진자 200명 돌파…오늘 4명 추가(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200825_0001142080&cID=10812&pID=10800"
-    },
-    {
-        "title": "[속보] 원주서 확진자 16명 발생...부족한 병상 확보에도 비상",
-        "link": "http://www.fnnews.com/news/202008251639011968"
-    },
-    {
-        "title": "\"코로나 한창인데\"…래퍼 류정란, 용산CGV 무단 침입·마스크 없이 활보[종합...",
-        "link": "http://www.sportsseoul.com/news/read/950698?ref=naver"
-    },
-    {
-        "title": "코로나19 신규 확진 전날보다 280명 늘어",
-        "link": "http://www.hani.co.kr/arti/society/health/959219.html"
-    },
-    {
         "title": "\"멀쩡한 사람 확진자로 만든다?\" 정말 너무합니다",
         "link": "http://news.mt.co.kr/mtview.php?no=2020082512534266155"
+    },
+    {
+        "title": "전남 순천 휘트니스센터서 14명 확진...순천 누적확진자 30명",
+        "link": "http://www.fnnews.com/news/202008251241009817"
     }
 ];

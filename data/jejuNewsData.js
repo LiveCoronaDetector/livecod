@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
+        "link": "http://yna.kr/AKR20200825089000056?did=1195m"
+    },
+    {
         "title": "제주도 하룻밤새 코로나19 확진자 5명 발생",
         "link": "https://www.pressian.com/pages/articles/2020082509434271947?utm_source=naver&utm_medium=search"
     },
@@ -17,12 +21,16 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
-        "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
-        "link": "http://yna.kr/AKR20200825089000056?did=1195m"
+        "title": "제주서 코로나19 확진 잇따라…24~25일 5명 발생",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008250829001&code=620117"
     },
     {
         "title": "JDC, 직원 코로나19 확진 특별방역…재택근무 전환",
         "link": "http://www.newsis.com/view/?id=NISX20200825_0001141298&cID=10813&pID=10800"
+    },
+    {
+        "title": "원희룡 지사, 코로나19 확진자 동선 신속히 공개 지시",
+        "link": "https://www.pressian.com/pages/articles/2020082514252219492?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주지역 코로나19 확진자 5명 1차 역학조사 공개",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나 31번 확진자는 중등교사...\"학생 접촉 없어\"",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319309"
-    },
-    {
-        "title": "동선 숨겼다가 2억 물어내게 생긴 확진자 '홍보영상'…\"실화입니다\"",
-        "link": "https://www.hankyung.com/society/article/2020082529147"
-    },
-    {
-        "title": "JDC, 코로나19 확진자 발생…'재난 상황반' 가동",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1312972"
     }
 ];
