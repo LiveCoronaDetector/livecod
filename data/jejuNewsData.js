@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "잠잠하던 제주서 밤새 코로나19 확진자 5명 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
+    },
+    {
         "title": "제주도내 29번째 코로나19 확진자 발생",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5885464_32531.html"
     },
     {
-        "title": "[종합] 제주도 '4명' 연이어 코로나19 확진...차단방역 초비상",
+        "title": "[2보] \"제주도 29번 확진자, 용인시 교회 방문했다가 감염 추정\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425573"
+    },
+    {
+        "title": "제주도 하룻밤새 코로나 5명 확진 날벼락...목사·JDC 직원 부부-관광객",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319298"
+    },
+    {
+        "title": "제주도 '4명' 연이어 코로나19 확진...차단방역 초비상",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425578"
-    },
-    {
-        "title": "[최악의 의료위기上] 전국 음압병상 태부족… 코로나 중증환자 치료 구멍 우려",
-        "link": "https://www.dailian.co.kr/news/view/914386/?sc=Naver"
-    },
-    {
-        "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
-        "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
-    },
-    {
-        "title": "제주도 공항·실내관광지에선 마스크 꼭 써야…위반시 고발",
-        "link": "http://yna.kr/AKR20200824157500056?did=1195m"
     }
 ];
