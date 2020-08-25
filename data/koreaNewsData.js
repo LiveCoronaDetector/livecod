@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008251241009817"
     },
     {
+        "title": "[2보]원주 코로나19 확진자 16명 무더기 감염",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082400139"
+    },
+    {
         "title": "민주노총 집회로 튄 코로나19 불씨…확진자 더 나올까",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525025&ref=A"
     },
     {
         "title": "[단독]고령 확진자 많은데… 수도권 사용 가능 중증환자 병상 7개뿐",
         "link": "https://www.donga.com/news/article/all/20200826/102648809/1"
-    },
-    {
-        "title": "“사옥폐쇄 NO·방송 정상 진행”…SBS 목동 사옥서 코로나19 확진자 발생(종...",
-        "link": "http://mksports.co.kr/view/2020/876019/"
     },
     {
         "title": "원주서 확진자 추가 발생…강원 하루새 21명 늘어(종합)",

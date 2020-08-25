@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: Colleges are Suspending Students Over Virus Safety Violations",
+        "title": "Covid-19 Live Updates: Colleges Suspend Students Over Virus Safety Breaches",
         "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     },
     {
