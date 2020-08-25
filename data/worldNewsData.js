@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/25/latest_news/1598333385_810808.html"
     },
     {
-        "title": "Coronavirus: Dr Anthony Fauci warns against rushing out vaccine",
-        "link": "https://www.bbc.com/news/world-us-canada-53899908"
+        "title": "RNC 2020 fact-check: Trump’s Covid-19 lie, refuted in one chart",
+        "link": "https://www.vox.com/2020/8/24/21400360/rnc-covid-19-coronavirus-fact-check-donald-trump-deaths"
     },
     {
         "title": "Coronavirus Israel live: Ukraine to restrict Jewish pilgrimage upon Israel's request",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53888219"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest news from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
-    },
-    {
-        "title": "C-SPAN caller says he’s changing vote to Republican after RNC",
-        "link": "https://www.foxnews.com/politics/cspan-caller-says-hes-changing-vote-to-republican-after-rnc"
-    },
-    {
-        "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
-        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
     },
     {
         "title": "Covid-19 Live Updates: U.S. Parents Divided Along Political Lines Over Resuming In-Person Classes, Survey Shows",
         "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Trump speaks with essential workers about Covid-19 pandemic during RNC",
+        "link": "https://www.youtube.com/watch?v=wSkrp1kAVkg"
+    },
+    {
+        "title": "Coronavirus catches up with Usain Bolt, world's fastest man",
+        "link": "https://www.aljazeera.com/news/2020/08/coronavirus-catches-usain-bolt-world-fastest-man-200825015114616.html"
     }
 ];

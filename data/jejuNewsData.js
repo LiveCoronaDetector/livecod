@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     },
     {
-        "title": "JDC, 2명 코로나19 확진 '비상'…전 직원 진단검사(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200825_0001142215&cID=10813&pID=10800"
-    },
-    {
         "title": "제주도내 29번째 코로나19 확진자 발생",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
+    },
+    {
+        "title": "JDC, 2명 코로나19 확진 '비상'…전 직원 진단검사(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200825_0001142215&cID=10813&pID=10800"
     },
     {
         "title": "JDC 코로나19 확진자 발생…필수인원외 재택근무",

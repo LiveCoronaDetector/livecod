@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6PUK7X4N"
     },
     {
-        "title": "\"코로나19확산세 한풀 꺾여\"vs\"성급한 판단,전국확산 폭풍전야\"(종합2보)",
-        "link": "http://yna.kr/AKR20200825082852017?did=1195m"
-    },
-    {
         "title": "[속보] 삼성전자 기흥캠퍼스서 코로나19 확진자 추가 발생",
         "link": "https://www.hankyung.com/life/article/2020082531217"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008251241009817"
     },
     {
-        "title": "[2보]원주 코로나19 확진자 16명 무더기 감염",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082400139"
-    },
-    {
         "title": "민주노총 집회로 튄 코로나19 불씨…확진자 더 나올까",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525025&ref=A"
+    },
+    {
+        "title": "\"코로나19확산세 한풀 꺾여\"vs\"성급한 판단,전국확산 폭풍전야\"(종합2보)",
+        "link": "http://yna.kr/AKR20200825082852017?did=1195m"
+    },
+    {
+        "title": "“사옥폐쇄 NO·방송 정상 진행”…SBS 목동 사옥서 코로나19 확진자 발생(종...",
+        "link": "http://mksports.co.kr/view/2020/876019/"
     }
 ];
