@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020082525767"
     },
     {
-        "title": "우사인 볼트, ‘No 마스크 생일파티’ 후 코로나19 확진",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014940649&code=61132411&cp=nv"
-    },
-    {
         "title": "제주도내 코로나19 확진자...24일 4명 발생",
         "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01361206625870928"
     },
     {
+        "title": "우사인 볼트, ‘No 마스크 생일파티’ 후 코로나19 확진",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014940649&code=61132411&cp=nv"
+    },
+    {
         "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주 29번째 확진자 발생…\"용인 개척교회 다녀온 목사\"(종합)",
-        "link": "http://yna.kr/AKR20200824163951056?did=1195m"
-    },
-    {
         "title": "삼성전자 기흥캠퍼스서 또 확진자 발생…긴급 방역",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008250109&t=NN"
+    },
+    {
+        "title": "인천서 어린이집 보육교사 양성…누적 확진자 559명(종합)",
+        "link": "http://yna.kr/AKR20200825016151065?did=1195m"
     }
 ];
