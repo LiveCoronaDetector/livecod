@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
+        "title": "제주도 하룻밤새 코로나19 확진자 5명 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082509434271947?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "수도권 코로나 재확산 영향 잠잠하던 제주도 확진자 급증",
         "link": "http://yna.kr/AKR20200825042800056?did=1195m"
     },
@@ -21,16 +25,8 @@ var jejuNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwtoday/article/5885464_32531.html"
     },
     {
-        "title": "제주도 하룻밤새 코로나19 확진자 5명 발생",
-        "link": "https://www.pressian.com/pages/articles/2020082509434271947?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "[종합] 제주도 '4명' 연이어 코로나19 확진...차단방역 초비상",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425578"
-    },
-    {
-        "title": "제주서 코로나 확진자 또 발생···연이어 5명 '비상'",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170443"
     },
     {
         "title": "[최악의 의료위기上] 전국 음압병상 태부족… 코로나 중증환자 치료 구멍 우려",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나 신규 확진자 수 ‘주춤’…중대본 “줄어든 주말 검사량 감안해야”",
         "link": "http://www.hani.co.kr/arti/society/rights/959073.html"
+    },
+    {
+        "title": "제주도 공항·실내관광지에선 마스크 꼭 써야…위반시 고발",
+        "link": "http://yna.kr/AKR20200824157500056?did=1195m"
     }
 ];

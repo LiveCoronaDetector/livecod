@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
     },
     {
-        "title": "South Korea on brink of nationwide virus outbreak, officials warn",
-        "link": "https://www.bbc.com/news/world-asia-53888219"
+        "title": "China’s Economy Is Bouncing Back—And Gaining Ground on the U.S.",
+        "link": "https://www.wsj.com/articles/chinas-economy-is-bouncing-backand-gaining-ground-on-the-u-s-11598280917"
     },
     {
         "title": "Covid-19: Live News and Updates",

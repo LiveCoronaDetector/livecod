@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082500480.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "학교내 확진자 사흘새 92명… 교육계 “원격수업 선제적 전환을”",
-        "link": "https://www.donga.com/news/article/all/20200825/102629746/1"
+        "title": "‘확진자 급증’ 수도권 유초중고, 9월11일까지 등교중지 (종합)",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200825000101"
     },
     {
         "title": "제주도내 코로나19 확진자...24일 4명 발생",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200824163951056?did=1195m"
     },
     {
-        "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "(종합) 파우치 \"코로나19 백신, 안전·효능 검증 없이 긴급승인 안돼\"",
         "link": "https://www.sedaily.com/NewsView/1Z6PSTVXGH"
     },
     {
-        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
-        "link": "https://zdnet.co.kr/view/?no=20200824131548"
+        "title": "우사인 볼트, ‘No 마스크 생일파티’ 후 코로나19 확진",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014940649&code=61132411&cp=nv"
     },
     {
-        "title": "쿠팡, 일산1 캠프도 추가 확진자 0명",
-        "link": "http://www.fnnews.com/news/202008241406526308"
+        "title": "[단독] 민노총 집회 확진자를 광화문 집회자로 발표",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "쿠팡 잠실본사 폐쇄…\"재택근무 직원 코로나19 확진\"",
+        "link": "https://zdnet.co.kr/view/?no=20200824131548"
     }
 ];
