@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/24/case-of-man-with-coronavirus-for-second-time-stokes-reinfection-fears-hong-kong"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-24-20-intl/index.html"
-    },
-    {
-        "title": "Covid-19: Live News and Updates",
-        "link": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html"
+        "title": "Coronavirus live updates: First confirmed case of reinfection; WHO says 172 countries on global vaccine plan",
+        "link": "https://www.cnbc.com/2020/08/24/coronavirus-live-updates.html"
     },
     {
         "title": "Ten countries kept out Covid. But did they win?",
         "link": "https://www.bbc.com/news/world-asia-53831063"
+    },
+    {
+        "title": "World Health Organization advises kids 12 and older should wear masks to prevent coronavirus spread",
+        "link": "https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus"
     }
 ];

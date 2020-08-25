@@ -9,22 +9,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082500480.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 어제 280명 신규확진…12일 연속 세 자릿수",
-        "link": "https://www.hankyung.com/life/article/2020082525767"
-    },
-    {
-        "title": "제주도내 코로나19 확진자...24일 4명 발생",
-        "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "법원행정처 심의관 부인 코로나 확진…처장도 '자택대기'",
-        "link": "https://www.nocutnews.co.kr/news/5400269"
-    },
-    {
-        "title": "'파격, 또 파격' 트럼프…바이든과 '코로나 대선' 정면승부(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01361206625870928"
-    },
-    {
         "title": "우사인 볼트, ‘No 마스크 생일파티’ 후 코로나19 확진",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014940649&code=61132411&cp=nv"
     },
@@ -33,11 +17,27 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/25/2020082500070.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "삼성전자 기흥캠퍼스서 또 확진자 발생…긴급 방역",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008250109&t=NN"
+        "title": "[속보] 삼성전자 기흥캠퍼스서 코로나19 확진자 추가 발생",
+        "link": "https://www.hankyung.com/life/article/2020082531217"
     },
     {
-        "title": "인천서 어린이집 보육교사 양성…누적 확진자 559명(종합)",
-        "link": "http://yna.kr/AKR20200825016151065?did=1195m"
+        "title": "[속보] 코로나19 신규 확진 280명…이틀 연속 200명대",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008250133&t=NN"
+    },
+    {
+        "title": "코로나19 병상 부족…\"환자 배정 효율화·퇴원 기준 완화해야\"(종합)",
+        "link": "http://yna.kr/AKR20200825076751017?did=1195m"
+    },
+    {
+        "title": "서울 신규확진자 하루만에 40명↑…교회·어린이집 등 산발적 감염(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02548566625870928"
+    },
+    {
+        "title": "경남, 밤새 코로나19 확진 1명 추가…총 197명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200825_0001141422&cID=10812&pID=10800"
+    },
+    {
+        "title": "코로나19 신규 확진 전날보다 280명 늘어",
+        "link": "http://www.hani.co.kr/arti/society/health/959219.html"
     }
 ];
