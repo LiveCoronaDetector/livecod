@@ -17,14 +17,6 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
-        "title": "하룻밤새 코로나19 확진자 4명 잇따라 발생…방역 비상",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4524561&ref=A"
-    },
-    {
-        "title": "제주 34번째 코로나 확진자 또 JDC 직원...원희룡 \"340명 직원 전수조사\"",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319347"
-    },
-    {
         "title": "제주도 34번째 코로나19 확진자 발생...'JDC 직장 동료'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425675"
     },
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "동선 숨겼다가 2억 물어내게 생긴 확진자 '홍보영상'…\"실화입니다\"",
         "link": "https://www.hankyung.com/society/article/2020082529147"
+    },
+    {
+        "title": "제주 코로나 31번 확진자는 중등교사...\"학생 접촉 없어\"",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319309"
+    },
+    {
+        "title": "낚시꾼 100명 몰린 주민 78명 외딴섬…‘코로나 마을총회’가 열렸다",
+        "link": "http://www.hani.co.kr/arti/area/honam/959263.html"
     }
 ];

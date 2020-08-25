@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "COVID-19 Cases Climbing At The University of Miami",
-        "link": "https://www.youtube.com/watch?v=E_yIsdp2rY8"
+        "title": "College students prepare to head back home a week into classes as coronavirus cases on campus climb",
+        "link": "https://www.cnbc.com/2020/08/25/coronavirus-college-students-head-home-a-week-into-classes-as-campus-cases-rise.html"
     },
     {
         "title": "The World Health Organization Declares Africa Polio-Free",
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Charlotte residents react to RNC, some fear COVID-19 spread",
-        "link": "https://www.youtube.com/watch?v=nyMuOTYbYKc"
+        "title": "President Donald Trump speaks with essential workers about Covid-19 pandemic during RNC",
+        "link": "https://www.youtube.com/watch?v=wSkrp1kAVkg"
     }
 ];

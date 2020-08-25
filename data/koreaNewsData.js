@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5400974"
     },
     {
-        "title": "[속보] SBS 목동 사옥 확진자 발생 폐쇄",
-        "link": "https://www.hankyung.com/life/article/2020082553707"
-    },
-    {
         "title": "[속보] 삼성전자 기흥캠퍼스서 코로나19 확진자 추가 발생",
         "link": "https://www.hankyung.com/life/article/2020082531217"
-    },
-    {
-        "title": "코로나19 신규 확진자 280명…이틀 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4524757&ref=A"
-    },
-    {
-        "title": "전남 순천 휘트니스센터서 14명 확진...순천 누적확진자 30명",
-        "link": "http://www.fnnews.com/news/202008251241009817"
     },
     {
         "title": "민주노총 집회로 튄 코로나19 불씨…확진자 더 나올까",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525025&ref=A"
     },
     {
-        "title": "SBS 목동 사옥서 코로나 확진자 발생…역학조사 중",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014944004&code=61121111&cp=nv"
+        "title": "[속보] 코로나19 신규 확진자 280명, 이틀 연속 200명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008251015001&code=940100"
     },
     {
-        "title": "(속보) 코로나19 확진자 방문에···대구시청 별관 일부 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z6PUK7X4N"
+        "title": "[단독] 코로나 재유행에 허위 절판마케팅 나선 현대해상",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082503238.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "'전광훈과 팬데믹' 그들은 왜 코로나19와 엮였나",
+        "link": "https://www.nocutnews.co.kr/news/5400339"
+    },
+    {
+        "title": "\"코로나19확산세 한풀 꺾여\"vs\"성급한 판단,전국확산 폭풍전야\"(종합2보)",
+        "link": "http://yna.kr/AKR20200825082852017?did=1195m"
+    },
+    {
+        "title": "\"멀쩡한 사람 확진자로 만든다?\" 정말 너무합니다",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020082512534266155"
     }
 ];
