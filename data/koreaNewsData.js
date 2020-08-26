@@ -9,28 +9,24 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082620542195335?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나로 두번째 국회 ‘셧다운’…이해찬 김태년 자가격리",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014948491&code=61111111&cp=nv"
-    },
-    {
-        "title": "민주당 취재기자 코로나19 확진...국회 폐쇄 검토",
-        "link": "https://www.ytn.co.kr/_ln/0101_202008262103042279"
-    },
-    {
         "title": "사이버사령부 군무원 코로나 확진···국방부 영내서 확진자 재발생",
         "link": "https://www.sedaily.com/NewsView/1Z6QB04GJ1"
+    },
+    {
+        "title": "코로나로 두번째 국회 ‘셧다운’…이해찬 김태년 자가격리",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014948491&code=61111111&cp=nv"
     },
     {
         "title": "청와대 코앞까지 번진 코로나…사랑채 안내직원 1명 확진",
         "link": "https://www.donga.com/news/article/all/20200826/102662127/2"
     },
     {
-        "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
+        "title": "민주당 취재기자 코로나19 확진...국회 폐쇄 검토",
+        "link": "https://www.ytn.co.kr/_ln/0101_202008262103042279"
     },
     {
-        "title": "국내 코로나19 확진자 320명↑…사흘 만에 300명대",
-        "link": "https://www.nocutnews.co.kr/news/5401197"
+        "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
     },
     {
         "title": "순천서 코로나19 확진자 2명 발생...순천지역 누적확진자 37명",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "대구시청 별관 일부 폐쇄…코로나19 확진자 방문",
         "link": "http://yna.kr/AKR20200825162500053?did=1195m"
+    },
+    {
+        "title": "[단독]고령 확진자 많은데… 수도권 사용 가능 중증환자 병상 7개뿐",
+        "link": "https://www.donga.com/news/article/all/20200826/102648809/1"
     }
 ];
