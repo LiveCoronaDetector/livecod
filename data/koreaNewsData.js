@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082620542195335?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "광주 성림침례교회 신도 등 32명 집단 감염…확진자 더 나올 듯(종합)",
-        "link": "http://yna.kr/AKR20200826177651054?did=1195m"
-    },
-    {
         "title": "코로나로 두번째 국회 ‘셧다운’…이해찬 김태년 자가격리",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014948491&code=61111111&cp=nv"
+    },
+    {
+        "title": "광주 성림침례교회 신도 등 32명 집단 감염…확진자 더 나올 듯(종합)",
+        "link": "http://yna.kr/AKR20200826177651054?did=1195m"
     },
     {
         "title": "민주당 취재기자 코로나19 확진...국회 폐쇄 검토",
