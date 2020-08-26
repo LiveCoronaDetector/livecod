@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
-        "title": "Coronavirus live news: WHO signals slowing of infections but India cases still soaring",
-        "link": "https://www.theguardian.com/world/live/2020/aug/26/coronavirus-live-news-who-signals-slowing-of-infections-but-india-cases-still-soaring"
+        "title": "India Is in Denial about the COVID-19 Crisis",
+        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
     },
     {
         "title": "Military escorts, two weeks of quarantine: What it's like to fly into Australia right now",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
+    },
+    {
         "title": "The World Health Organization Declares Africa Polio-Free",
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
         "title": "Man who believed virus was hoax loses wife to Covid-19",
         "link": "https://www.bbc.com/news/world-us-canada-53892856"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
     }
 ];
