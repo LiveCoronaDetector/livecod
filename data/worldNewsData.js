@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
-        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
+        "title": "Iran's coronavirus death toll exceeds 21000: health ministry",
+        "link": "https://www.todayonline.com/world/irans-coronavirus-death-toll-exceeds-21000-health-ministry-0"
     },
     {
         "title": "They went to India, now they're stranded by coronavirus rules set 6,400 miles away",

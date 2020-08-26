@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008261626510557"
     },
     {
-        "title": "광주 성림침례교회 신도 등 32명 집단 감염…확진자 더 나올 듯(종합)",
-        "link": "http://yna.kr/AKR20200826177651054?did=1195m"
-    },
-    {
         "title": "국회 '셧다운' 초유의 사태... 국회 내 첫 코로나 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082620542195335?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "광주 성림침례교회 신도 등 32명 집단 감염…확진자 더 나올 듯(종합)",
+        "link": "http://yna.kr/AKR20200826177651054?did=1195m"
     },
     {
         "title": "코로나로 두번째 국회 ‘셧다운’…이해찬 김태년 자가격리",
