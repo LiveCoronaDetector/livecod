@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 5994426,
-        "사망자수": 183489,
-        "완치자수": 3281238
+        "확진자수": 5995317,
+        "사망자수": 183509,
+        "완치자수": 3294357
     },
     {
         "Name": "브라질",
@@ -81,20 +81,20 @@ var marker = [
         "완치자수": 376268
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "확진자수": 370188,
+        "사망자수": 7839,
+        "완치자수": 268801
+    },
+    {
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
         "확진자수": 365606,
         "사망자수": 21020,
         "완치자수": 314870
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "확진자수": 359638,
-        "사망자수": 7661,
-        "완치자수": 268801
     },
     {
         "Name": "영국",
@@ -388,9 +388,9 @@ var marker = [
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "확진자수": 52800,
-        "사망자수": 1007,
-        "완치자수": 39964
+        "확진자수": 53021,
+        "사망자수": 1010,
+        "완치자수": 40281
     },
     {
         "Name": "바레인",
@@ -1148,9 +1148,9 @@ var marker = [
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "확진자수": 1536,
+        "확진자수": 1543,
         "사망자수": 43,
-        "완치자수": 1309
+        "완치자수": 1322
     },
     {
         "Name": "Cyprus",
@@ -1385,20 +1385,20 @@ var marker = [
         "완치자수": 399
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "확진자수": 415,
+        "사망자수": 0,
+        "완치자수": 202
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "확진자수": 411,
         "사망자수": 0,
         "완치자수": 357
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "확진자수": 372,
-        "사망자수": 0,
-        "완치자수": 148
     },
     {
         "Name": "Mauritius",

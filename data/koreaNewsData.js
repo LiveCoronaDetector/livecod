@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008261626510557"
     },
     {
+        "title": "[속보] 원주서 10대 확진자 부모 2명 확진",
+        "link": "https://www.hankyung.com/life/article/2020082709877"
+    },
+    {
+        "title": "다보스포럼 \"코로나19로 연기\"",
+        "link": "http://www.fnnews.com/news/202008270510221251"
+    },
+    {
         "title": "국회 '셧다운' 초유의 사태... 국회 내 첫 코로나 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082620542195335?utm_source=naver&utm_medium=search"
     },
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "순천서 코로나19 확진자 2명 발생...순천지역 누적확진자 37명",
         "link": "http://www.fnnews.com/news/202008260957149882"
-    },
-    {
-        "title": "대구시청 별관 일부 폐쇄…코로나19 확진자 방문",
-        "link": "http://yna.kr/AKR20200825162500053?did=1195m"
-    },
-    {
-        "title": "[단독]고령 확진자 많은데… 수도권 사용 가능 중증환자 병상 7개뿐",
-        "link": "https://www.donga.com/news/article/all/20200826/102648809/1"
     }
 ];
