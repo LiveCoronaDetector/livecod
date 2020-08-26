@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
     },
     {
-        "title": "North Korea releases new Kim Jong Un photos amid reports he's in a coma",
-        "link": "https://nypost.com/2020/08/26/north-korea-releases-new-kim-jong-un-photos-amid-reports-hes-in-a-coma/"
+        "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
+        "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
         "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
