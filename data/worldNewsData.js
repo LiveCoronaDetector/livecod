@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/26/coronavirus-live-news-who-signals-slowing-of-infections-but-india-cases-still-soaring"
     },
     {
-        "title": "Mask-wearing employees at Starbucks in South Korea avoid coronavirus infection following outbreak: officials",
-        "link": "https://www.foxnews.com/health/mask-wearing-employees-starbuks-south-korea-spared-coronavirus"
+        "title": "Military escorts, two weeks of quarantine: What it's like to fly into Australia right now",
+        "link": "https://www.cnn.com/travel/article/australia-quarantine-travel-ban/index.html"
     },
     {
         "title": "Covid-19 Live Updates: C.D.C. Changes Testing Guidance to Exclude People Without Symptoms, Worrying Experts",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-53892856"
     },
     {
-        "title": "Xinjiang residents handcuffed to their homes in Covid lockdown",
-        "link": "https://www.theguardian.com/world/2020/aug/25/xinjiang-residents-handcuffed-to-their-homes-in-covid-lockdown"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
     }
 ];
