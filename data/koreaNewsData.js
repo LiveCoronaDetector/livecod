@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200826/102648809/1"
     },
     {
-        "title": "국방부 영내서 코로나 확진자 재발생 '비상'…사이버사 군무원(종합)",
-        "link": "http://yna.kr/AKR20200826067351504?did=1195m"
+        "title": "정부서울청사서 또 확진자 발생…본관 3층 이용 청원경찰(종합)",
+        "link": "http://yna.kr/AKR20200826082551530?did=1195m"
     },
     {
-        "title": "정부서울청사 청원경찰 코로나19 확진…3층 일시폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008260180&t=NN"
-    },
-    {
-        "title": "민주당 지도부 자가격리…회의 참석한 기자 확진자 접촉",
-        "link": "https://news.imaeil.com/Politics/2020082614242805638"
+        "title": "국방부 영내 코로나19 확진자 또 발생.. 사이버사 군무원 확진",
+        "link": "http://www.fnnews.com/news/202008260942338570"
     },
     {
         "title": "경남, 밤새 코로나19 확진자 10명 발생…총 210명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200826_0001142815&cID=10812&pID=10800"
+    },
+    {
+        "title": "여의도 덮친 코로나, 이해찬·김태년도 자가격리",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/26/2020082602999.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나 신규 확진자 사흘 만에 다시 300명대로 늘어",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008261012001&code=940601"
     },
     {
-        "title": "전북 확진자 5명 추가 발생…전주 3명, 군산 2명(종합)",
-        "link": "http://www.fnnews.com/news/202008261438043929"
-    },
-    {
-        "title": "서울 거주 85세 여성, 24일 사망 후 이튿날 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200826064151004?did=1195m"
+        "title": "[단독] 코로나 재유행에 허위 절판마케팅 나선 보험사",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082503238.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "'코로나19 확진' 김원해 측 \"현재 입원 치료 중…증상은 양호\"[전문]",
         "link": "http://www.sportsseoul.com/news/read/951045?ref=naver"
+    },
+    {
+        "title": "이용섭 광주시장, 코로나 브리핑…무증상 확진자 52.6%·감염 확산 우려(전문...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=582297"
     }
 ];
