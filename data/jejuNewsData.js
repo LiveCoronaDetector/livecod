@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4037931"
     },
     {
-        "title": "제주 35번 확진자 접촉자 26일 기준 총 15명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170625"
-    },
-    {
         "title": "제주도내 29번째 코로나19 확진자 발생",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
+    },
+    {
+        "title": "잠잠하던 제주서 밤새 코로나19 확진자 5명 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     }
 ];

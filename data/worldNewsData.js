@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
-        "title": "Germany Boosts Already Hefty Coronavirus Stimulus",
-        "link": "https://www.wsj.com/articles/germany-boosts-already-hefty-coronavirus-stimulus-11598440184"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
     },
     {
-        "title": "5 things to know for August 25: RNC, Kenosha protests, Covid-19, Falwell Jr., India",
-        "link": "https://www.cnn.com/2020/08/25/us/five-things-august-25-trnd/index.html"
+        "title": "India Is in Denial about the COVID-19 Crisis",
+        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
     },
     {
         "title": "Military escorts, two weeks of quarantine: What it's like to fly into Australia right now",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
     },
     {
-        "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
-        "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
-    },
-    {
         "title": "North Korea releases new Kim Jong Un photos amid reports he's in a coma",
         "link": "https://nypost.com/2020/08/26/north-korea-releases-new-kim-jong-un-photos-amid-reports-hes-in-a-coma/"
     },
     {
         "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
         "link": "https://www.cnbc.com/2020/08/26/watch-live-who-officials-answer-questions-about-coronavirus-and-mental-health.html"
+    },
+    {
+        "title": "Non-woven masks better to stop Covid-19, says Japanese supercomputer",
+        "link": "https://www.theguardian.com/world/2020/aug/26/non-woven-masks-better-to-stop-covid-19-says-japanese-supercomputer"
     }
 ];
