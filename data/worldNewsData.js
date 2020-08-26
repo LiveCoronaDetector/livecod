@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
-        "title": "Spain warned of dire impact of second coronavirus lockdown",
-        "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
+        "title": "Germany Boosts Already Hefty Coronavirus Stimulus",
+        "link": "https://www.wsj.com/articles/germany-boosts-already-hefty-coronavirus-stimulus-11598440184"
     },
     {
         "title": "How India's Silicon Valley saw its COVID-19 success come undone",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/australia-quarantine-travel-ban/index.html"
     },
     {
+        "title": "What is Kim Yo Jong's exact role in North Korean politics? Top South Korean officials appear divided",
+        "link": "https://www.cnn.com/2020/08/26/asia/kim-yo-jong-role-intl-hnk/index.html"
+    },
+    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
     },
     {
-        "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/26/covid-19-world-map-countries-coronavirus-cases-deaths"
+        "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
+        "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
     {
         "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
         "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
-        "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     }
 ];

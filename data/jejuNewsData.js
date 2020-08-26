@@ -29,8 +29,8 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525613&ref=A"
     },
     {
-        "title": "인천 서구 코로나19 확진자 제주 여행",
-        "link": "https://www.ytn.co.kr/_ln/0115_202008262129272561"
+        "title": "인천 코로나19 확진자 제주 방문 사실 확인…역학조사",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525983&ref=A"
     },
     {
         "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",
