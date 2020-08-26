@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008260942338570"
     },
     {
-        "title": "민주당 지도부 덮친 코로나…이해찬·김태년 등 자가격리",
-        "link": "https://news.imaeil.com/Politics/2020082614242805638"
-    },
-    {
         "title": "[단독] 코로나 재유행에 허위 절판마케팅 나선 보험사",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082503238.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 사흘 만에 다시 300명대로 늘어",
         "link": "https://www.pressian.com/pages/articles/2020082610312047732?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 320명···사흘 만에 다시 300명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008261012001&code=940601"
     }
 ];
