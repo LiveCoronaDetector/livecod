@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349616"
     },
     {
-        "title": "제주 코로나19 확진자 N차 감염 확산되나",
-        "link": "https://www.nocutnews.co.kr/news/5401100"
-    },
-    {
         "title": "제주도내 29번째 코로나19 확진자 발생",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",
         "link": "https://www.news1.kr/articles/?4037931"
+    },
+    {
+        "title": "제주도 34번째 코로나19 확진자 발생...'JDC 직장 동료'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425675"
     }
 ];
