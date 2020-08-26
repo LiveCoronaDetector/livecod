@@ -9,20 +9,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200826064151004?did=1195m"
     },
     {
-        "title": "정부서울청사 청원경찰 코로나19 확진…3층 일시폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008260180&t=NN"
-    },
-    {
-        "title": "경남, 밤새 코로나19 확진자 10명 발생…총 210명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200826_0001142815&cID=10812&pID=10800"
+        "title": "정부서울청사에서 확진자가 또 나와",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008261147001&code=940100"
     },
     {
         "title": "'코로나19 확진' 김원해 측 \"현재 입원 치료 중…증상은 양호\"[전문]",
         "link": "http://www.sportsseoul.com/news/read/951045?ref=naver"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 320명···사흘 만에 다시 300명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008261012001&code=940601"
+        "title": "경남, 밤새 코로나19 확진자 10명 발생…총 210명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200826_0001142815&cID=10812&pID=10800"
+    },
+    {
+        "title": "코로나19 신규 확진 320명…사흘만에 다시 300명대 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525642&ref=A"
     },
     {
         "title": "코로나 신규 확진자 사흘 만에 다시 300명대로 늘어",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008261151110160"
     },
     {
-        "title": "(속보) 코로나19 확진자 방문에···대구시청 별관 일부 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z6PUK7X4N"
+        "title": "서울 확진자 4명 중 1명 ‘65세 이상’…병상확보 시급(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02850326625871256"
     },
     {
-        "title": "코로나19 확진자 다시 300명대…중환자 43명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02292726625871256"
+        "title": "정부서울청사 청원경찰 코로나19 확진…3층 일시폐쇄",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008260180&t=NN"
     }
 ];
