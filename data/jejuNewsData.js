@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 35번 확진자 접촉자 26일 기준 총 15명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170625"
-    },
-    {
         "title": "인천 코로나 확진자, 확진 판정 전 제주여행",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349675"
+    },
+    {
+        "title": "제주 35번 확진자 접촉자 26일 기준 총 15명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170625"
     },
     {
         "title": "제주도 35번째 코로나 확진자 나와, JDC 직원 접촉자",
