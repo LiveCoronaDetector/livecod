@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
-        "title": "India Is in Denial about the COVID-19 Crisis",
-        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
+        "title": "Coronavirus live news: WHO signals slowing of infections but India cases still soaring",
+        "link": "https://www.theguardian.com/world/live/2020/aug/26/coronavirus-live-news-who-signals-slowing-of-infections-but-india-cases-still-soaring"
     },
     {
         "title": "Mask-wearing employees at Starbucks in South Korea avoid coronavirus infection following outbreak: officials",
         "link": "https://www.foxnews.com/health/mask-wearing-employees-starbuks-south-korea-spared-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
-    },
-    {
         "title": "Covid-19 Live Updates: C.D.C. Changes Testing Guidance to Exclude People Without Symptoms, Worrying Experts",
         "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
         "title": "The World Health Organization Declares Africa Polio-Free",
