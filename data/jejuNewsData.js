@@ -25,8 +25,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525613&ref=A"
     },
     {
-        "title": "인천 코로나 확진자, 확진 판정 전 제주여행",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349675"
+        "title": "인천 코로나19 확진자 제주 방문 사실 확인…역학조사",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525983&ref=A"
+    },
+    {
+        "title": "인천 서구 코로나19 확진자 제주 여행",
+        "link": "https://www.ytn.co.kr/_ln/0115_202008262129272561"
     },
     {
         "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도내 29번째 코로나19 확진자 발생",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
-    },
-    {
-        "title": "잠잠하던 제주서 밤새 코로나19 확진자 5명 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     }
 ];
