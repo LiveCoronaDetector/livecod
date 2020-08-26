@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     },
     {
-        "title": "JDC 두번째 확진자 특이한 동선…사흘간 음식점 9곳 11차례 방문",
-        "link": "https://www.news1.kr/articles/?4038156"
+        "title": "제주 34번 확진자 역학조사 공개…확진 뒤 17명 접촉",
+        "link": "https://www.nocutnews.co.kr/news/5401475"
     },
     {
-        "title": "제주도, 8.15연휴 수도권 방문자 선제적 검사 실시",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319367"
+        "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",
+        "link": "https://www.news1.kr/articles/?4037931"
     }
 ];

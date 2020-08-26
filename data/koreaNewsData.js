@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200826082551530?did=1195m"
     },
     {
-        "title": "국방부 영내 코로나19 확진자 또 발생.. 사이버사 군무원 확진",
-        "link": "http://www.fnnews.com/news/202008260942338570"
-    },
-    {
         "title": "경남, 밤새 코로나19 확진자 10명 발생…총 210명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200826_0001142815&cID=10812&pID=10800"
+    },
+    {
+        "title": "국방부 영내 코로나19 확진자 또 발생.. 사이버사 군무원 확진",
+        "link": "http://www.fnnews.com/news/202008260942338570"
     },
     {
         "title": "여의도 덮친 코로나, 이해찬·김태년도 자가격리",
