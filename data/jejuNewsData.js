@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082611072617074?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나19 확진 JDC 직원 방문한 맥주집 업주도 양성 판정(종합)",
-        "link": "http://yna.kr/AKR20200826027251056?did=1195m"
-    },
-    {
         "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
         "link": "http://yna.kr/AKR20200825089000056?did=1195m"
+    },
+    {
+        "title": "제주 35번 확진자 접촉자 26일 기준 총 15명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170625"
     },
     {
         "title": "제주 코로나19 34번째 확진자 접촉자 17명…동선 9곳 공개",
@@ -21,16 +21,16 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "인천 코로나 확진자, 확진 판정 전 제주여행",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349675"
+    },
+    {
         "title": "제주도 35번째 코로나 확진자 나와, JDC 직원 접촉자",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349616"
     },
     {
         "title": "제주 코로나19 35번째 확진자 나와…제주 34번 확진자와 접촉자",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525613&ref=A"
-    },
-    {
-        "title": "인천 코로나19 확진자 제주 방문 사실 확인…역학조사",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525983&ref=A"
     },
     {
         "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",

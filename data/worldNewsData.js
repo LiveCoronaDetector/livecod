@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/germany-boosts-already-hefty-coronavirus-stimulus-11598440184"
     },
     {
-        "title": "How India's Silicon Valley saw its COVID-19 success come undone",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-india-bengaluru/how-indias-silicon-valley-saw-its-covid-19-success-come-undone-idUSKBN25M015"
+        "title": "India Is in Denial about the COVID-19 Crisis",
+        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
     },
     {
         "title": "Military escorts, two weeks of quarantine: What it's like to fly into Australia right now",
         "link": "https://www.cnn.com/travel/article/australia-quarantine-travel-ban/index.html"
     },
     {
-        "title": "What is Kim Yo Jong's exact role in North Korean politics? Top South Korean officials appear divided",
-        "link": "https://www.cnn.com/2020/08/26/asia/kim-yo-jong-role-intl-hnk/index.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
+    },
+    {
+        "title": "What is Kim Yo Jong's exact role in North Korean politics? Top South Korean officials appear divided",
+        "link": "https://www.cnn.com/2020/08/26/asia/kim-yo-jong-role-intl-hnk/index.html"
     },
     {
         "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
