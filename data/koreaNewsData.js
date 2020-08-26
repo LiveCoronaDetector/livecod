@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200826/102648809/1"
     },
     {
-        "title": "서울 거주 85세 여성, 24일 사망 후 이튿날 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200826064151004?did=1195m"
+        "title": "경남, 밤새 코로나19 확진자 10명 발생…총 210명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200826_0001142815&cID=10812&pID=10800"
     },
     {
-        "title": "정부서울청사에서 확진자가 또 나와",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008261147001&code=940100"
+        "title": "서울 거주 85세 여성, 24일 사망 후 이튿날 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200826064151004?did=1195m"
     },
     {
         "title": "'코로나19 확진' 김원해 측 \"현재 입원 치료 중…증상은 양호\"[전문]",
         "link": "http://www.sportsseoul.com/news/read/951045?ref=naver"
     },
     {
-        "title": "경남, 밤새 코로나19 확진자 10명 발생…총 210명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200826_0001142815&cID=10812&pID=10800"
-    },
-    {
-        "title": "코로나19 신규 확진 320명…사흘만에 다시 300명대 증가",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525642&ref=A"
+        "title": "정부서울청사 청원경찰 코로나19 확진…3층 일시폐쇄",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008260180&t=NN"
     },
     {
         "title": "코로나 신규 확진자 사흘 만에 다시 300명대로 늘어",
         "link": "https://www.pressian.com/pages/articles/2020082610312047732?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "코로나19 신규 확진 320명…사흘만에 다시 300명대 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525642&ref=A"
+    },
+    {
         "title": "서울 코로나 112명 발생... 은평 미용실·구로 아파트서 집단감염 발생(종합)",
         "link": "http://www.fnnews.com/news/202008261151110160"
     },
     {
-        "title": "서울 확진자 4명 중 1명 ‘65세 이상’…병상확보 시급(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02850326625871256"
+        "title": "(속보) 코로나19 확진자 방문에···대구시청 별관 일부 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z6PUK7X4N"
     },
     {
-        "title": "정부서울청사 청원경찰 코로나19 확진…3층 일시폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008260180&t=NN"
+        "title": "[속보] 확진자 접촉한 사진기자가 민주당 최고위 취재",
+        "link": "https://www.hankyung.com/politics/article/2020082681317"
     }
 ];
