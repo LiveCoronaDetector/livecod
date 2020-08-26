@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/mask-wearing-employees-starbuks-south-korea-spared-coronavirus"
     },
     {
-        "title": "Covid-19 Live Updates: C.D.C. Changes Testing Guidance to Exclude People Without Symptoms, Worrying Experts",
-        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
+    },
+    {
+        "title": "Covid-19 Live Updates: C.D.C. Changes Testing Guidance to Exclude People Without Symptoms, Worrying Experts",
+        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     },
     {
         "title": "The World Health Organization Declares Africa Polio-Free",
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Kimberly Guilfoyle's RNC speech sparks shock and awe — and an online challenge",
-        "link": "https://news.yahoo.com/kimberly-guilfoyles-rnc-speech-sparks-162813699.html"
+        "title": "Herschel Walker powerfully sticks up for Trump but misconstrues protesting athletes",
+        "link": "https://www.cnn.com/2020/08/25/politics/herschel-walker-trump-racist-protest/index.html"
     }
 ];
