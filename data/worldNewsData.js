@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
     },
     {
-        "title": "Iran's coronavirus death toll surpasses 21,000: Live news",
+        "title": "Spain reports over 3,500 coronavirus cases in a day: Live news",
         "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/germany-boosts-already-hefty-coronavirus-stimulus-11598440184"
     },
     {
-        "title": "India Is in Denial about the COVID-19 Crisis",
-        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
+        "title": "5 things to know for August 25: RNC, Kenosha protests, Covid-19, Falwell Jr., India",
+        "link": "https://www.cnn.com/2020/08/25/us/five-things-august-25-trnd/index.html"
     },
     {
         "title": "Military escorts, two weeks of quarantine: What it's like to fly into Australia right now",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
     {
-        "title": "What is Kim Yo Jong's exact role in North Korean politics? Top South Korean officials appear divided",
-        "link": "https://www.cnn.com/2020/08/26/asia/kim-yo-jong-role-intl-hnk/index.html"
+        "title": "North Korea releases new Kim Jong Un photos amid reports he's in a coma",
+        "link": "https://nypost.com/2020/08/26/north-korea-releases-new-kim-jong-un-photos-amid-reports-hes-in-a-coma/"
     },
     {
         "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
