@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
     },
     {
-        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
-        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
         "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
     {
-        "title": "North Korean leader Kim calls for prevention efforts against coronavirus, looming typhoon: KCNA",
-        "link": "https://news.yahoo.com/north-korean-leader-kim-calls-223510624.html"
+        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
+        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "What is Kim Yo Jong's exact role in North Korean politics? Top South Korean officials appear divided",
+        "link": "https://www.cnn.com/2020/08/26/asia/kim-yo-jong-role-intl-hnk/index.html"
     }
 ];
