@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200826/102648809/1"
     },
     {
-        "title": "광주 성림침례교회서 28명 코로나19 집단 감염(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5401809"
-    },
-    {
         "title": "국회 '셧다운' 초유의 사태... 국회 내 첫 코로나 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082620542195335?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "사이버사령부 군무원 코로나 확진···국방부 영내서 확진자 재발생",
-        "link": "https://www.sedaily.com/NewsView/1Z6QB04GJ1"
+        "title": "광주 성림침례교회서 28명 코로나19 집단 감염(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5401809"
     },
     {
         "title": "코로나로 두번째 국회 ‘셧다운’…이해찬 김태년 자가격리",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014948491&code=61111111&cp=nv"
     },
     {
-        "title": "취재기자 확진자 접촉에…민주당 일시 '셧다운'(종합2보)",
-        "link": "http://yna.kr/AKR20200826105851001?did=1195m"
-    },
-    {
         "title": "민주당 취재기자 코로나19 확진...국회 폐쇄 검토",
         "link": "https://www.ytn.co.kr/_ln/0101_202008262103042279"
     },
     {
-        "title": "광주 성림침례교회 신도 등 32명 집단 감염…확진자 더 나올 듯(종합)",
-        "link": "http://yna.kr/AKR20200826177651054?did=1195m"
+        "title": "사이버사령부 군무원 코로나 확진···국방부 영내서 확진자 재발생",
+        "link": "https://www.sedaily.com/NewsView/1Z6QB04GJ1"
+    },
+    {
+        "title": "취재기자 확진자 접촉에…민주당 일시 '셧다운'(종합2보)",
+        "link": "http://yna.kr/AKR20200826105851001?did=1195m"
     },
     {
         "title": "이용섭 광주시장, 코로나 브리핑…무증상 확진자 52.6%·감염 확산 우려(전문...",
         "link": "http://www.namdonews.com/news/articleView.html?idxno=582297"
+    },
+    {
+        "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
     }
 ];

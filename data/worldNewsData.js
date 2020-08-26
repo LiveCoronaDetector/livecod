@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
-        "title": "Germany Boosts Already Hefty Coronavirus Stimulus",
-        "link": "https://www.wsj.com/articles/germany-boosts-already-hefty-coronavirus-stimulus-11598440184"
+        "title": "Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
     },
     {
         "title": "India Is in Denial about the COVID-19 Crisis",
