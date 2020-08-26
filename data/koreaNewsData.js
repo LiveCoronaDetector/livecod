@@ -13,12 +13,20 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200826_0001142815&cID=10812&pID=10800"
     },
     {
-        "title": "코로나 신규 확진자 사흘 만에 다시 300명대로 늘어",
-        "link": "https://www.pressian.com/pages/articles/2020082610312047732?utm_source=naver&utm_medium=search"
+        "title": "민주당 지도부 자가격리…회의 참석한 기자 확진자 접촉",
+        "link": "https://news.imaeil.com/Politics/2020082614242805638"
     },
     {
-        "title": "순천서 코로나19 확진자 2명 발생...순천지역 누적확진자 37명",
-        "link": "http://www.fnnews.com/news/202008260957149882"
+        "title": "서울 거주 85세 여성, 24일 사망 후 이튿날 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200826064151004?did=1195m"
+    },
+    {
+        "title": "서울 코로나 112명 발생... 은평 미용실·구로 아파트서 집단감염 발생(종합)",
+        "link": "http://www.fnnews.com/news/202008261151110160"
+    },
+    {
+        "title": "코로나 신규 확진자 사흘 만에 다시 300명대로 늘어",
+        "link": "https://www.pressian.com/pages/articles/2020082610312047732?utm_source=naver&utm_medium=search"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 320명···사흘 만에 다시 300명대",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
     },
     {
-        "title": "국내 코로나19 확진자 320명↑…사흘 만에 300명대",
-        "link": "https://www.nocutnews.co.kr/news/5401197"
-    },
-    {
-        "title": "국방부 영내서 코로나 확진자 재발생 '비상'…사이버사 군무원(종합)",
-        "link": "http://yna.kr/AKR20200826067351504?did=1195m"
-    },
-    {
-        "title": "[속보]서울 확진자 112명 추가…연신내 미용실·구로구 아파트 집단감염 발생",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200826000618"
+        "title": "코로나19 신규 확진자 320명 늘어...13일째 세 자릿수",
+        "link": "http://www.dongascience.com/news/view/39282"
     }
 ];

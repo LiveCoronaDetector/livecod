@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525613&ref=A"
     },
     {
-        "title": "제주 코로나19 34번째 확진자 접촉자 17명…동선 9곳 공개",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525777&ref=A"
-    },
-    {
         "title": "제주도 35번째 코로나 확진자 나와, JDC 직원 접촉자",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349616"
+    },
+    {
+        "title": "제주도 34번째 확진자 동선 공개, 제주약수터 올레시장점 등 9곳 긴급 방역 실...",
+        "link": "http://www.getnews.co.kr/view.php?ud=202008261536283670fab1982f6a_16"
     },
     {
         "title": "잠잠하던 제주서 밤새 코로나19 확진자 5명 발생",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4037931"
     },
     {
-        "title": "제주도 34번째 코로나19 확진자 발생...'JDC 직장 동료'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425675"
+        "title": "제주 코로나19 34번째 확진자 접촉자 17명…동선 9곳 공개",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525777&ref=A"
     }
 ];

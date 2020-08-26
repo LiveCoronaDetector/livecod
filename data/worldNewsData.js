@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
-        "title": "India Is in Denial about the COVID-19 Crisis",
-        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
+        "title": "How India's Silicon Valley saw its COVID-19 success come undone",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-india-bengaluru/how-indias-silicon-valley-saw-its-covid-19-success-come-undone-idUSKBN25M015"
     },
     {
         "title": "Military escorts, two weeks of quarantine: What it's like to fly into Australia right now",
