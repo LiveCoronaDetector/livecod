@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
-        "title": "Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
+        "title": "Germany Boosts Already Hefty Coronavirus Stimulus",
+        "link": "https://www.wsj.com/articles/germany-boosts-already-hefty-coronavirus-stimulus-11598440184"
     },
     {
         "title": "India Is in Denial about the COVID-19 Crisis",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/26/asia/kim-yo-jong-role-intl-hnk/index.html"
     },
     {
-        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
-        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
+        "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
+        "link": "https://www.cnbc.com/2020/08/26/watch-live-who-officials-answer-questions-about-coronavirus-and-mental-health.html"
     }
 ];

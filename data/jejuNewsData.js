@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349675"
     },
     {
-        "title": "제주 35번 확진자 접촉자 26일 기준 총 15명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170625"
-    },
-    {
         "title": "제주도 35번째 코로나 확진자 나와, JDC 직원 접촉자",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349616"
     },
@@ -35,6 +31,10 @@ var jejuNewsData = [
     {
         "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",
         "link": "https://www.news1.kr/articles/?4037931"
+    },
+    {
+        "title": "제주 35번 확진자 접촉자 26일 기준 총 15명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170625"
     },
     {
         "title": "제주도내 29번째 코로나19 확진자 발생",

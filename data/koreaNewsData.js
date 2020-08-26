@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082620542195335?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "광주 성림침례교회서 28명 코로나19 집단 감염(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5401809"
-    },
-    {
         "title": "코로나로 두번째 국회 ‘셧다운’…이해찬 김태년 자가격리",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014948491&code=61111111&cp=nv"
+    },
+    {
+        "title": "광주 성림침례교회서 28명 코로나19 집단 감염(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5401809"
     },
     {
         "title": "순천서 코로나 추가 확진 9명…헬스장 이용객 가족 감염(종합2보)",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6QB04GJ1"
     },
     {
-        "title": "이용섭 광주시장, 코로나 브리핑…무증상 확진자 52.6%·감염 확산 우려(전문...",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=582297"
-    },
-    {
         "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
+    },
+    {
+        "title": "순천서 코로나19 확진자 2명 발생...순천지역 누적확진자 37명",
+        "link": "http://www.fnnews.com/news/202008260957149882"
     }
 ];
