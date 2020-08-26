@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200826/102662127/2"
     },
     {
-        "title": "순천서 코로나 추가 확진 9명…헬스장 이용객 가족 감염(종합2보)",
-        "link": "http://yna.kr/AKR20200826182100054?did=1195m"
-    },
-    {
         "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
     },
     {
         "title": "순천서 코로나19 확진자 2명 발생...순천지역 누적확진자 37명",
         "link": "http://www.fnnews.com/news/202008260957149882"
+    },
+    {
+        "title": "[속보] 대구시청 별관 일부 폐쇄 \"코로나19 확진자 방문\"",
+        "link": "https://news.imaeil.com/Society/2020082517380784460"
     }
 ];

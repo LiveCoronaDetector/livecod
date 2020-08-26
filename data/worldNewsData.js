@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
-        "title": "Germany Boosts Already Hefty Coronavirus Stimulus",
-        "link": "https://www.wsj.com/articles/germany-boosts-already-hefty-coronavirus-stimulus-11598440184"
+        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
     },
     {
         "title": "They went to India, now they're stranded by coronavirus rules set 6,400 miles away",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/australian-woman-jailed-breaking-coronavirus-quarantine"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
-    },
-    {
         "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
         "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
     },
     {
         "title": "North Korea releases new Kim Jong Un photos amid reports he's in a coma",
