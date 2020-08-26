@@ -13,18 +13,6 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014948491&code=61111111&cp=nv"
     },
     {
-        "title": "광주 성림침례교회 확진자 32명 발생...확진자 더 나올 듯",
-        "link": "https://www.ytn.co.kr/_ln/0115_202008262118274580"
-    },
-    {
-        "title": "청와대 코앞까지 번진 코로나…사랑채 안내직원 1명 확진",
-        "link": "https://www.donga.com/news/article/all/20200826/102662127/2"
-    },
-    {
-        "title": "순천서 코로나 추가 확진 9명…헬스장 이용객 가족 감염(종합2보)",
-        "link": "http://yna.kr/AKR20200826182100054?did=1195m"
-    },
-    {
         "title": "민주당 취재기자 코로나19 확진...국회 폐쇄 검토",
         "link": "https://www.ytn.co.kr/_ln/0101_202008262103042279"
     },
@@ -33,11 +21,23 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6QB04GJ1"
     },
     {
+        "title": "청와대 코앞까지 번진 코로나…사랑채 안내직원 1명 확진",
+        "link": "https://www.donga.com/news/article/all/20200826/102662127/2"
+    },
+    {
         "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
     },
     {
+        "title": "국내 코로나19 확진자 320명↑…사흘 만에 300명대",
+        "link": "https://www.nocutnews.co.kr/news/5401197"
+    },
+    {
         "title": "순천서 코로나19 확진자 2명 발생...순천지역 누적확진자 37명",
         "link": "http://www.fnnews.com/news/202008260957149882"
+    },
+    {
+        "title": "대구시청 별관 일부 폐쇄…코로나19 확진자 방문",
+        "link": "http://yna.kr/AKR20200825162500053?did=1195m"
     }
 ];

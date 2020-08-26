@@ -13,16 +13,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
-        "title": "Iran's coronavirus death toll exceeds 21000: health ministry",
-        "link": "https://www.todayonline.com/world/irans-coronavirus-death-toll-exceeds-21000-health-ministry-0"
+        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
     },
     {
-        "title": "5 things to know for August 25: RNC, Kenosha protests, Covid-19, Falwell Jr., India",
-        "link": "https://www.cnn.com/2020/08/25/us/five-things-august-25-trnd/index.html"
+        "title": "They went to India, now they're stranded by coronavirus rules set 6,400 miles away",
+        "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
     },
     {
         "title": "Australian woman jailed for 6 months after breaking coronavirus quarantine order: reports",
         "link": "https://www.foxnews.com/world/australian-woman-jailed-breaking-coronavirus-quarantine"
+    },
+    {
+        "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
+        "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "North Korea releases new Kim Jong Un photos amid reports he's in a coma",
         "link": "https://nypost.com/2020/08/26/north-korea-releases-new-kim-jong-un-photos-amid-reports-hes-in-a-coma/"
-    },
-    {
-        "title": "Non-woven masks better to stop Covid-19, says Japanese supercomputer",
-        "link": "https://www.theguardian.com/world/2020/aug/26/non-woven-masks-better-to-stop-covid-19-says-japanese-supercomputer"
     },
     {
         "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
