@@ -9,20 +9,20 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200826_0001142815&cID=10812&pID=10800"
     },
     {
-        "title": "정부서울청사서 또 확진자 발생…본관 3층 이용 청원경찰(종합)",
-        "link": "http://yna.kr/AKR20200826082551530?did=1195m"
+        "title": "민주 최고위 취재기자 코로나 검사에…지도부, 자가격리키로(종합)",
+        "link": "http://yna.kr/AKR20200826105800001?did=1195m"
     },
     {
         "title": "서울 거주 85세 여성, 24일 사망 후 이튿날 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20200826064151004?did=1195m"
     },
     {
-        "title": "[속보]이해찬 등 민주당 지도부 ‘자가격리’ 돌입···최고위 취재기자 코로...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008261345001&code=910402"
+        "title": "정부서울청사 청원경찰 코로나19 확진…3층 일시폐쇄",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008260180&t=NN"
     },
     {
-        "title": "코로나 신규 확진자 사흘 만에 다시 300명대로 늘어",
-        "link": "https://www.pressian.com/pages/articles/2020082610312047732?utm_source=naver&utm_medium=search"
+        "title": "정부서울청사 근무 청원경찰 코로나 확진",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/26/2020082601929.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "서울 코로나 112명 발생... 은평 미용실·구로 아파트서 집단감염 발생(종합)",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200825186851062?did=1195m"
     },
     {
-        "title": "'코로나19 확진' 김원해 측 \"현재 입원 치료 중…증상은 양호\"[전문]",
-        "link": "http://www.sportsseoul.com/news/read/951045?ref=naver"
+        "title": "[속보]서울 확진자 112명 추가…연신내 미용실·구로구 아파트 집단감염 발생",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200826000618"
     },
     {
-        "title": "[종합] 부산서 확진자 9명 추가 발생…지역감염 사례",
-        "link": "http://www.newspim.com/news/view/20200826000765"
+        "title": "코로나19 신규 확진자 320명…“중환자 병상 추가 확보”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525749&ref=A"
     }
 ];

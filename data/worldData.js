@@ -20,9 +20,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 3234474,
-        "사망자수": 59612,
-        "완치자수": 2467758
+        "확진자수": 3235725,
+        "사망자수": 59632,
+        "완치자수": 2468688
     },
     {
         "Name": "러시아",
@@ -454,7 +454,7 @@ var marker = [
         "Name_en": "Switzerland",
         "확진자수": 40262,
         "사망자수": 2002,
-        "완치자수": 34400
+        "완치자수": 34800
     },
     {
         "Name": "Uzbekistan",
@@ -542,7 +542,7 @@ var marker = [
         "Name_en": "Australia",
         "확진자수": 25204,
         "사망자수": 549,
-        "완치자수": 19816
+        "완치자수": 20100
     },
     {
         "Name": "El Salvador",
@@ -1164,7 +1164,7 @@ var marker = [
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "확진자수": 1429,
+        "확진자수": 1436,
         "사망자수": 19,
         "완치자수": 1150
     },
@@ -1345,6 +1345,14 @@ var marker = [
         "완치자수": 98
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 431,
+        "사망자수": 2,
+        "완치자수": 102
+    },
+    {
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
@@ -1361,6 +1369,14 @@ var marker = [
         "완치자수": 232
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "확진자수": 418,
+        "사망자수": 17,
+        "완치자수": 148
+    },
+    {
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
@@ -1375,22 +1391,6 @@ var marker = [
         "확진자수": 411,
         "사망자수": 0,
         "완치자수": 344
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 408,
-        "사망자수": 17,
-        "완치자수": 147
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 383,
-        "사망자수": 2,
-        "완치자수": 102
     },
     {
         "Name": "French Polynesia",

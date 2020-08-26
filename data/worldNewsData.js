@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/australia-quarantine-travel-ban/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: C.D.C. Changes Testing Guidance to Exclude People Without Symptoms, Worrying Experts",
-        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
+    },
+    {
+        "title": "Covid-19 Live Updates: C.D.C. Changes Testing Guidance to Exclude People Without Symptoms, Worrying Experts",
+        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     },
     {
         "title": "The World Health Organization Declares Africa Polio-Free",
