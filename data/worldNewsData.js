@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
-        "title": "Coronavirus live news: WHO signals slowing of infections but India cases still soaring",
-        "link": "https://www.theguardian.com/world/live/2020/aug/26/coronavirus-live-news-who-signals-slowing-of-infections-but-india-cases-still-soaring"
+        "title": "India Is in Denial about the COVID-19 Crisis",
+        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
     },
     {
         "title": "Mask-wearing employees at Starbucks in South Korea avoid coronavirus infection following outbreak: officials",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Father of student killed in Parkland praises Trump for taking ‘action’ on school safety — and not on gun control",
-        "link": "https://www.yahoo.com/news/andrew-pollack-gun-violence-parkland-republican-national-convention-trump-025447807.html"
+        "title": "Kimberly Guilfoyle's RNC speech sparks shock and awe — and an online challenge",
+        "link": "https://news.yahoo.com/kimberly-guilfoyles-rnc-speech-sparks-162813699.html"
     }
 ];
