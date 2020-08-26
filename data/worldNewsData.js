@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/index.html"
     },
     {
-        "title": "The World Health Organization Declares Africa Polio-Free",
-        "link": "https://time.com/5883233/africa-declared-polio-free/"
+        "title": "Republican National Convention (Day 2)",
+        "link": "https://www.youtube.com/watch?v=48QjI_PKgls"
     },
     {
-        "title": "Herschel Walker powerfully sticks up for Trump but misconstrues protesting athletes",
-        "link": "https://www.cnn.com/2020/08/25/politics/herschel-walker-trump-racist-protest/index.html"
+        "title": "The World Health Organization Declares Africa Polio-Free",
+        "link": "https://time.com/5883233/africa-declared-polio-free/"
     }
 ];
