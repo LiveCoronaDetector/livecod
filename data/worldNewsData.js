@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
     {
-        "title": "Man who believed virus was hoax loses wife to Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-53892856"
+        "title": "North Korean leader Kim calls for prevention efforts against coronavirus, looming typhoon: KCNA",
+        "link": "https://news.yahoo.com/north-korean-leader-kim-calls-223510624.html"
     }
 ];
