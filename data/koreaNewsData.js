@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008261626510557"
     },
     {
+        "title": "[속보]원주 102‧103번째 확진자 발생…99번의 부모",
+        "link": "https://www.news1.kr/articles/?4038884"
+    },
+    {
         "title": "[속보] 원주서 10대 확진자 부모 2명 확진",
         "link": "https://www.hankyung.com/life/article/2020082709877"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
-    },
-    {
-        "title": "순천서 코로나19 확진자 2명 발생...순천지역 누적확진자 37명",
-        "link": "http://www.fnnews.com/news/202008260957149882"
     }
 ];
