@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
     },
     {
-        "title": "Greece battles coronavirus resurgence after early success",
-        "link": "https://apnews.com/d0a724edfc84bdf2393d661751b447d1"
+        "title": "Iran's coronavirus death toll surpasses 21,000 : Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
         "title": "Spain warned of dire impact of second coronavirus lockdown",
         "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
-        "title": "India Is in Denial about the COVID-19 Crisis",
-        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
+        "title": "How India's Silicon Valley saw its COVID-19 success come undone",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-india-bengaluru/how-indias-silicon-valley-saw-its-covid-19-success-come-undone-idUSKBN25M015"
     },
     {
         "title": "Military escorts, two weeks of quarantine: What it's like to fly into Australia right now",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Man who believed virus was hoax loses wife to Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-53892856"
+        "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
+        "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
     {
-        "title": "The World Health Organization Declares Africa Polio-Free",
-        "link": "https://time.com/5883233/africa-declared-polio-free/"
+        "title": "Man who believed virus was hoax loses wife to Covid-19",
+        "link": "https://www.bbc.com/news/world-us-canada-53892856"
     }
 ];

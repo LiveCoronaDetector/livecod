@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     },
     {
-        "title": "제주도 34번째 코로나19 확진자 발생...'JDC 직장 동료'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425675"
+        "title": "제주 코로나 32번 확진자 접촉 택시 3명 파악 '난항'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319389"
     }
 ];
