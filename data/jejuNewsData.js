@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
-        "link": "http://yna.kr/AKR20200825089000056?did=1195m"
+        "title": "제주 코로나19 35번째 확진자 나와…제주 34번 확진자와 접촉자",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525613&ref=A"
     },
     {
-        "title": "[속보]제주 35번째 코로나 확진자 발생…JDC 직원 접촉",
-        "link": "https://www.news1.kr/articles/?4037446"
+        "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
+        "link": "http://yna.kr/AKR20200825089000056?did=1195m"
     },
     {
         "title": "잠잠하던 제주서 밤새 코로나19 확진자 5명 발생",

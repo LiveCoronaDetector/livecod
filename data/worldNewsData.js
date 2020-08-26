@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
-        "title": "India Is in Denial about the COVID-19 Crisis",
-        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
+        "title": "Coronavirus live news: WHO signals slowing of infections but India cases still soaring",
+        "link": "https://www.theguardian.com/world/live/2020/aug/26/coronavirus-live-news-who-signals-slowing-of-infections-but-india-cases-still-soaring"
     },
     {
         "title": "Mask-wearing employees at Starbucks in South Korea avoid coronavirus infection following outbreak: officials",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Kimberly Guilfoyle's RNC speech sparks shock and awe — and an online challenge",
-        "link": "https://news.yahoo.com/kimberly-guilfoyles-rnc-speech-sparks-162813699.html"
+        "title": "WATCH: Kimberly Guilfoyle's full speech at the Republican National Convention | 2020 RNC Night 1",
+        "link": "https://www.youtube.com/watch?v=ErSd_YiRCAs"
     },
     {
         "title": "Man who believed virus was hoax loses wife to Covid-19",
