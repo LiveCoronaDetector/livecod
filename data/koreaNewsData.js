@@ -5,32 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200825162500053?did=1195m"
     },
     {
+        "title": "'코로나19 확진' 김원해 측 \"현재 입원 치료 중…증상은 양호\"[전문]",
+        "link": "http://www.sportsseoul.com/news/read/951045?ref=naver"
+    },
+    {
         "title": "SBS 목동 사옥서 코로나 확진자 발생…“역학 조사 진행 중”",
         "link": "http://www.hani.co.kr/arti/society/media/959324.html"
+    },
+    {
+        "title": "[속보]제주 35번째 코로나 확진자 발생…JDC 직원 접촉",
+        "link": "https://www.news1.kr/articles/?4037446"
     },
     {
         "title": "SBS 목동 사옥 코로나 확진자 발생…셧다운은 피해",
         "link": "https://www.nocutnews.co.kr/news/5400974"
     },
     {
-        "title": "[속보] 울산서 코로나19 확진자 딸도 양성… 남구 거주 35세 여성",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020082609283195755"
-    },
-    {
-        "title": "'코로나19 확진' 김원해 측 \"현재 입원 치료 중…증상은 양호\"[전문]",
-        "link": "http://www.sportsseoul.com/news/read/951045?ref=naver"
-    },
-    {
-        "title": "김원해 측 “코로나19 확진→격리시설 입원 치료 중…증상 양호”(공식입장 전...",
-        "link": "http://mksports.co.kr/view/2020/876639/"
-    },
-    {
         "title": "[단독] 코로나 재유행에 허위 절판마케팅 나선 보험사",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082503238.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보]제주 35번째 코로나 확진자 발생…JDC 직원 접촉",
-        "link": "https://www.news1.kr/articles/?4037446"
     },
     {
         "title": "[속보] 삼성전자 기흥캠퍼스서 코로나19 확진자 추가 발생",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "광주서 코로나19 확진자 6명 발생...누적확진자 291명",
         "link": "http://www.fnnews.com/news/202008260814384350"
+    },
+    {
+        "title": "[속보] 울산서 코로나19 확진자 딸도 양성… 남구 거주 35세 여성",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082609283195755"
+    },
+    {
+        "title": "“사옥폐쇄 NO·방송 정상 진행”…SBS 목동 사옥서 코로나19 확진자 발생(종...",
+        "link": "http://mksports.co.kr/view/2020/876019/"
     }
 ];

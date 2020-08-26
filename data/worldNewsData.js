@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
-        "title": "India Is in Denial about the COVID-19 Crisis",
-        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
+        "title": "Coronavirus live news: WHO signals slowing of infections but India cases still soaring",
+        "link": "https://www.theguardian.com/world/live/2020/aug/26/coronavirus-live-news-who-signals-slowing-of-infections-but-india-cases-still-soaring"
     },
     {
         "title": "Mask-wearing employees at Starbucks in South Korea avoid coronavirus infection following outbreak: officials",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "Donald Trump Jr. promises law, order and 'a light at the end of the tunnel'",
-        "link": "https://news.yahoo.com/donald-trump-jr-promises-law-order-and-a-light-at-the-end-of-the-tunnel-024356695.html"
+        "title": "Father of student killed in Parkland praises Trump for taking ‘action’ on school safety — and not on gun control",
+        "link": "https://www.yahoo.com/news/andrew-pollack-gun-violence-parkland-republican-national-convention-trump-025447807.html"
     }
 ];

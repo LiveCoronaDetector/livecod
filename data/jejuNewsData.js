@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525613&ref=A"
     },
     {
-        "title": "제주 코로나19 확진자 N차 감염 확산되나",
-        "link": "https://www.nocutnews.co.kr/news/5401100"
-    },
-    {
         "title": "잠잠하던 제주서 밤새 코로나19 확진자 5명 발생",
         "link": "http://www.hani.co.kr/arti/area/jeju/959200.html"
     },
@@ -29,15 +25,19 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
     },
     {
-        "title": "제주도 34번째 코로나19 확진자 발생...'JDC 직장 동료'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425675"
+        "title": "제주도 이틀새 '6명' 코로나19 확진...2차 감염 불안감 확산",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425701"
     },
     {
-        "title": "동선 숨겼다가 2억 물어내게 생긴 확진자 '홍보영상'…\"실화입니다\"",
-        "link": "https://www.hankyung.com/society/article/2020082529147"
+        "title": "제주 34번째 코로나 확진자 또 JDC 직원...원희룡 \"340명 직원 전수조사\"",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319347"
     },
     {
-        "title": "낚시꾼 100명 몰린 주민 78명 외딴섬…‘코로나 마을총회’가 열렸다",
-        "link": "http://www.hani.co.kr/arti/area/honam/959263.html"
+        "title": "JDC, 직원 코로나19 확진 특별방역…재택근무 전환",
+        "link": "http://www.newsis.com/view/?id=NISX20200825_0001141298&cID=10813&pID=10800"
+    },
+    {
+        "title": "제주지역 코로나19 확진자 5명 1차 역학조사 공개",
+        "link": "https://www.nocutnews.co.kr/news/5400436"
     }
 ];
