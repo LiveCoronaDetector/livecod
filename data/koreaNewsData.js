@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200826/102648809/1"
     },
     {
+        "title": "정부서울청사서 또 확진자 발생…본관 3층 이용 청원경찰(종합)",
+        "link": "http://yna.kr/AKR20200826082551530?did=1195m"
+    },
+    {
         "title": "경남, 밤새 코로나19 확진자 10명 발생…총 210명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200826_0001142815&cID=10812&pID=10800"
     },
     {
-        "title": "민주 최고위 취재기자 코로나 검사에…지도부, 자가격리키로(종합)",
-        "link": "http://yna.kr/AKR20200826105800001?did=1195m"
+        "title": "코로나 신규 확진자 사흘 만에 다시 300명대로 늘어",
+        "link": "https://www.pressian.com/pages/articles/2020082610312047732?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "서울 거주 85세 여성, 24일 사망 후 이튿날 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200826064151004?did=1195m"
+        "title": "순천서 코로나19 확진자 2명 발생...순천지역 누적확진자 37명",
+        "link": "http://www.fnnews.com/news/202008260957149882"
     },
     {
-        "title": "정부서울청사 청원경찰 코로나19 확진…3층 일시폐쇄",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008260180&t=NN"
+        "title": "[속보] 코로나19 신규 확진자 320명···사흘 만에 다시 300명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008261012001&code=940601"
     },
     {
-        "title": "정부서울청사 근무 청원경찰 코로나 확진",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/26/2020082601929.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
     },
     {
-        "title": "서울 코로나 112명 발생... 은평 미용실·구로 아파트서 집단감염 발생(종합)",
-        "link": "http://www.fnnews.com/news/202008261151110160"
+        "title": "국내 코로나19 확진자 320명↑…사흘 만에 300명대",
+        "link": "https://www.nocutnews.co.kr/news/5401197"
     },
     {
-        "title": "원주서 확진자 추가 발생…강원 하루새 21명 늘어(종합)",
-        "link": "http://yna.kr/AKR20200825186851062?did=1195m"
+        "title": "국방부 영내서 코로나 확진자 재발생 '비상'…사이버사 군무원(종합)",
+        "link": "http://yna.kr/AKR20200826067351504?did=1195m"
     },
     {
         "title": "[속보]서울 확진자 112명 추가…연신내 미용실·구로구 아파트 집단감염 발생",
         "link": "http://news.heraldcorp.com/view.php?ud=20200826000618"
-    },
-    {
-        "title": "코로나19 신규 확진자 320명…“중환자 병상 추가 확보”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525749&ref=A"
     }
 ];

@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525613&ref=A"
     },
     {
+        "title": "제주 코로나19 34번째 확진자 접촉자 17명…동선 9곳 공개",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525777&ref=A"
+    },
+    {
         "title": "제주도 35번째 코로나 확진자 나와, JDC 직원 접촉자",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349616"
     },
@@ -27,10 +31,6 @@ var jejuNewsData = [
     {
         "title": "제주도내 29번째 코로나19 확진자 발생",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=325430"
-    },
-    {
-        "title": "제주 34번 코로나19 확진자 접촉 17명 자가격리·9곳 방역",
-        "link": "http://yna.kr/AKR20200826115200056?did=1195m"
     },
     {
         "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",

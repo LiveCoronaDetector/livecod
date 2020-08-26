@@ -1334,7 +1334,7 @@ var marker = [
         "Name_en": "Taiwan",
         "확진자수": 487,
         "사망자수": 7,
-        "완치자수": 457
+        "완치자수": 462
     },
     {
         "Name": "Martinique",
