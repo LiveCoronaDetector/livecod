@@ -21,16 +21,16 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0101_202008262103042279"
     },
     {
+        "title": "사이버사령부 군무원 코로나 확진···국방부 영내서 확진자 재발생",
+        "link": "https://www.sedaily.com/NewsView/1Z6QB04GJ1"
+    },
+    {
         "title": "청와대 코앞까지 번진 코로나…사랑채 안내직원 1명 확진",
         "link": "https://www.donga.com/news/article/all/20200826/102662127/2"
     },
     {
         "title": "순천서 코로나 추가 확진 9명…헬스장 이용객 가족 감염(종합2보)",
         "link": "http://yna.kr/AKR20200826182100054?did=1195m"
-    },
-    {
-        "title": "사이버사령부 군무원 코로나 확진···국방부 영내서 확진자 재발생",
-        "link": "https://www.sedaily.com/NewsView/1Z6QB04GJ1"
     },
     {
         "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
