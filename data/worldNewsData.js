@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/25/spain-warned-of-dire-impact-of-second-coronavirus-lockdown"
     },
     {
-        "title": "Coronavirus live news: WHO signals slowing of infections but India cases still soaring",
-        "link": "https://www.theguardian.com/world/live/2020/aug/26/coronavirus-live-news-who-signals-slowing-of-infections-but-india-cases-still-soaring"
+        "title": "India Is in Denial about the COVID-19 Crisis",
+        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
     },
     {
         "title": "Mask-wearing employees at Starbucks in South Korea avoid coronavirus infection following outbreak: officials",
         "link": "https://www.foxnews.com/health/mask-wearing-employees-starbuks-south-korea-spared-coronavirus"
+    },
+    {
+        "title": "Covid-19 Live Updates: C.D.C. Changes Testing Guidance to Exclude People Without Symptoms, Worrying Experts",
+        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://time.com/5883233/africa-declared-polio-free/"
     },
     {
-        "title": "WATCH: Kimberly Guilfoyle's full speech at the Republican National Convention | 2020 RNC Night 1",
-        "link": "https://www.youtube.com/watch?v=ErSd_YiRCAs"
-    },
-    {
-        "title": "Man who believed virus was hoax loses wife to Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-53892856"
+        "title": "Donald Trump Jr. promises law, order and 'a light at the end of the tunnel'",
+        "link": "https://news.yahoo.com/donald-trump-jr-promises-law-order-and-a-light-at-the-end-of-the-tunnel-024356695.html"
     }
 ];
