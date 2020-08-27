@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200827_0001144455&cID=10806&pID=10800"
     },
     {
+        "title": "[단독]삼성·LG전자 재택근무 첫 도입…코로나 대응 수위 높인다(종합)",
+        "link": "https://view.asiae.co.kr/article/2020082713091756654"
+    },
+    {
+        "title": "정치권 '코로나 셧다운'…정기국회·與전대는 예정대로(종합)",
+        "link": "http://yna.kr/AKR20200827070251001?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진 441명…신천지 이후 최대 규모",
         "link": "http://www.hani.co.kr/arti/society/society_general/959535.html"
     },
     {
-        "title": "[속보] 기아차 소하리공장서 코로나 확진···접촉 직원 3명",
-        "link": "https://www.sedaily.com/NewsView/1Z6QR5TJ56"
-    },
-    {
         "title": "LG트윈타워 어린이집서 코로나 확진…폐쇄 조치",
         "link": "https://www.donga.com/news/article/all/20200827/102670420/1"
-    },
-    {
-        "title": "[단독]삼성·LG전자 재택근무 첫 도입…코로나 대응 수위 높인다(종합)",
-        "link": "https://view.asiae.co.kr/article/2020082713091756654"
     }
 ];

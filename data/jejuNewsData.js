@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5401994"
     },
     {
-        "title": "제주도, JDC 입주기업 코로나19 검사 지원",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170691"
+        "title": "코로나 와중에 제주선 ‘불법 춤 파티’ 벌인 일반음식점 적발",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014950943&code=61121111&cp=nv"
     }
 ];

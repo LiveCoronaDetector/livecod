@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
-        "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",
-        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
+        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
