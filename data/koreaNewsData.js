@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200827_0001145241&cID=10812&pID=10800"
     },
     {
-        "title": "자카르타 한국인 주재원 첫 코로나19 확진…귀국 후 확진자도(종합)",
-        "link": "http://yna.kr/AKR20200827161451104?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진 441명…신천지 이후 최대 규모",
         "link": "http://www.hani.co.kr/arti/society/society_general/959535.html"
     },
     {
-        "title": "LG트윈타워 직장어린이집서 코로나 확진자 발생…외부공간 폐쇄 조치",
-        "link": "http://www.fnnews.com/news/202008271029105581"
+        "title": "자카르타 한국인 주재원 첫 코로나19 확진…귀국 후 확진자도(종합)",
+        "link": "http://yna.kr/AKR20200827161451104?did=1195m"
     },
     {
-        "title": "충북 코로나19 확진자 3명 추가 발생…누적 113명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200827_0001144455&cID=10806&pID=10800"
+        "title": "[속보]포그바 은돔벨레 코로나19 확진판정, 프랑스 국대 아웃",
+        "link": "http://sports.chosun.com/news/ntype.htm?id=202008280100250100016730&servicedate=20200827"
+    },
+    {
+        "title": "일본 코로나19 신규확진 859명…도쿄는 누적 2만명 넘어(종합)",
+        "link": "http://yna.kr/AKR20200827140951073?did=1195m"
     }
 ];

@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.lawissue.co.kr/view.php?ud=20200827121602564667191f6c6e_12"
     },
     {
-        "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
-        "link": "http://yna.kr/AKR20200825089000056?did=1195m"
-    },
-    {
         "title": "제주 관광지 누빈 코로나19 확진자, 인천 주님의교회 교인",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319449"
+    },
+    {
+        "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
+        "link": "http://yna.kr/AKR20200825089000056?did=1195m"
     },
     {
         "title": "제주도내 코로나19 확진자...24일 4명 발생",
