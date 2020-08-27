@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4040147"
     },
     {
-        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
-    },
-    {
         "title": "제주도내 35번째 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082611072617074?utm_source=naver&utm_medium=search"
     },
@@ -25,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349692"
     },
     {
-        "title": "제주 관광지 누빈 코로나19 확진자, 인천 주님의교회 교인",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319449"
-    },
-    {
         "title": "제주도, 코로나 영향 가장 적어 부동산도 ‘각광’",
         "link": "http://www.lawissue.co.kr/view.php?ud=20200827121602564667191f6c6e_12"
     },
@@ -37,7 +29,15 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008272341499574"
     },
     {
+        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
+    },
+    {
         "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
         "link": "http://yna.kr/AKR20200825089000056?did=1195m"
+    },
+    {
+        "title": "제주도내 코로나19 확진자...24일 4명 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
     }
 ];

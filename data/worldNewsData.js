@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
     },
     {
-        "title": "Coronavirus: Plymouth teens test positive after Greece holiday",
-        "link": "https://www.bbc.com/news/uk-england-devon-53923999"
+        "title": "Israeli doctors to ‘zap’ COVID-19 patients back to health",
+        "link": "https://www.jpost.com/health-science/israeli-doctors-to-zap-covid-19-patients-back-to-health-in-new-treatment-640188"
     },
     {
         "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
+        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
+        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
+    },
+    {
         "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
         "link": "https://www.bbc.com/news/world-asia-china-53917315"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/08/27/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
-    },
-    {
-        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
-        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
+        "title": "COVID-19 Response Approved by Most in 14 Nations with Advanced Economies",
+        "link": "https://www.pewresearch.org/global/2020/08/27/most-approve-of-national-response-to-covid-19-in-14-advanced-economies/"
     }
 ];
