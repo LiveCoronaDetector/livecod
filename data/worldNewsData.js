@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
-        "title": "Coronavirus live updates: WHO warns Europe faces ‘tricky moment’ as summer turns to fall",
+        "title": "Coronavirus live updates: Senators press labs over test delays; WHO says schools aren't main contributor to spread",
         "link": "https://www.cnbc.com/2020/08/27/coronavirus-live-updates.html"
     },
     {
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/26/asia/sinovac-coronavirus-china-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
         "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/08/27/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+        "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",
+        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
     }
 ];
