@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
     },
     {
-        "title": "Coronavirus cases pass 24 million globally: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
+        "title": "UN Syria talks resume after coronavirus cases forced suspension",
+        "link": "https://www.aljazeera.com/news/2020/08/syria-talks-resume-coronavirus-cases-forced-suspension-200827133512571.html"
     },
     {
         "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
+        "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
-        "title": "UK coronavirus live: daily cases jump to 1,522; Switzerland, Czech Republic and Jamaica added to quarantine list",
+        "title": "UK coronavirus live: daily cases jump to 1,522; Switzerland, Czech Republic and Jamaica added to quarantine list - as it happened",
         "link": "https://www.theguardian.com/world/live/2020/aug/27/uk-coronavirus-live-people-on-low-pay-to-get-covid-isolation-payment"
     },
     {
-        "title": "Coronavirus: Global 'education emergency' due to Covid - UN",
-        "link": "https://www.bbc.com/news/live/world-53928841"
+        "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",
+        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
     }
 ];

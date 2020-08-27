@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/society/article/202008270688H"
     },
     {
-        "title": "제주 여행 후 코로나19 확진 인천 주민은 주님의교회 교인",
-        "link": "http://yna.kr/AKR20200827185200056?did=1195m"
-    },
-    {
         "title": "제주도교육청, 코로나 확산 막아라",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349692"
+    },
+    {
+        "title": "제주 관광지 누빈 코로나19 확진자, 인천 주님의교회 교인",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319449"
     },
     {
         "title": "제주도, 코로나 영향 가장 적어 부동산도 ‘각광’",
