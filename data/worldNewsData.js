@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
-        "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
-        "link": "https://www.bbc.com/news/world-europe-53934952"
+        "title": "Italy contacting visitors to Sardinian nightclub after Covid-19 cluster",
+        "link": "https://www.theguardian.com/world/2020/aug/27/italy-traces-visitors-to-sardinian-nightclub-after-covid-19-cluster"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
-        "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
-        "link": "https://www.bbc.com/news/world-asia-53915606"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/08/27/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "UK coronavirus live: daily cases jump to 1,522; Switzerland, Czech Republic and Jamaica added to quarantine list",
-        "link": "https://www.theguardian.com/world/live/2020/aug/27/uk-coronavirus-live-people-on-low-pay-to-get-covid-isolation-payment"
+        "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
+        "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
         "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",
