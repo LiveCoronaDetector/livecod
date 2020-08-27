@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6038916,
-        "사망자수": 184471,
-        "완치자수": 3337827
+        "확진자수": 6039978,
+        "사망자수": 184652,
+        "완치자수": 3342048
     },
     {
         "Name": "브라질",
@@ -388,9 +388,9 @@ var marker = [
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "확진자수": 53021,
-        "사망자수": 1010,
-        "완치자수": 40281
+        "확진자수": 53317,
+        "사망자수": 1011,
+        "완치자수": 40726
     },
     {
         "Name": "바레인",
@@ -644,9 +644,9 @@ var marker = [
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "확진자수": 13186,
-        "사망자수": 275,
-        "완치자수": 8852
+        "확진자수": 13294,
+        "사망자수": 277,
+        "완치자수": 8974
     },
     {
         "Name": "Sudan",
@@ -1161,20 +1161,20 @@ var marker = [
         "완치자수": 935
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 1476,
+        "사망자수": 15,
+        "완치자수": 594
+    },
+    {
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "확진자수": 1447,
         "사망자수": 19,
         "완치자수": 1190
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 1429,
-        "사망자수": 15,
-        "완치자수": 192
     },
     {
         "Name": "Réunion",
@@ -1276,9 +1276,9 @@ var marker = [
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "확진자수": 892,
+        "확진자수": 894,
         "사망자수": 15,
-        "완치자수": 842
+        "완치자수": 846
     },
     {
         "Name": "Belize",
@@ -1404,7 +1404,7 @@ var marker = [
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
-        "확진자수": 354,
+        "확진자수": 355,
         "사망자수": 10,
         "완치자수": 335
     },
