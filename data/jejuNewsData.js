@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5401994"
     },
     {
-        "title": "코로나 와중에 제주선 ‘불법 춤 파티’ 벌인 일반음식점 적발",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014950943&code=61121111&cp=nv"
+        "title": "얼어붙었던 제주 부동산, 코로나19가 깨운다",
+        "link": "http://www.sportsseoul.com/news/read/951592?ref=naver"
     }
 ];
