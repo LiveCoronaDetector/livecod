@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/959535.html"
     },
     {
-        "title": "LG트윈타워 어린이집서 코로나 확진…폐쇄 조치",
-        "link": "https://www.donga.com/news/article/all/20200827/102670420/1"
+        "title": "[속보] 서울시 \"구로구 소재 아파트 관련 확진자 총 28명\"",
+        "link": "https://www.hankyung.com/life/article/2020082723157"
     },
     {
         "title": "서울 확진자 2명 충주 방문 역학조사(종합)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/27/2020082702424.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "천안 순천향대병원 간호사·환자 등 충남 7명 더 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200827043151063?did=1195m"
+        "title": "광주 코로나19 2명 추가···누적 347명[종합]",
+        "link": "http://www.honam.co.kr/detail/0kIA7d/612045"
     }
 ];
