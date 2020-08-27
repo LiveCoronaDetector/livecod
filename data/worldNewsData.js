@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
-        "title": "Coronavirus live updates: Senators press labs over test delays; WHO says schools aren't main contributor to spread",
-        "link": "https://www.cnbc.com/2020/08/27/coronavirus-live-updates.html"
+        "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
+        "link": "https://www.bbc.com/news/world-europe-53934952"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
-        "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
-        "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
-    },
-    {
         "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
         "link": "https://www.bbc.com/news/world-asia-53915606"
+    },
+    {
+        "title": "UK coronavirus live: daily cases jump to 1,522; Switzerland, Czech Republic and Jamaica added to quarantine list",
+        "link": "https://www.theguardian.com/world/live/2020/aug/27/uk-coronavirus-live-people-on-low-pay-to-get-covid-isolation-payment"
     },
     {
         "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",

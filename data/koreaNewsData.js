@@ -17,20 +17,16 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200827_0001145480&cID=10301&pID=10300"
     },
     {
-        "title": "[단독]삼성·LG전자 재택근무 첫 도입…코로나 대응 수위 높인다(종합)",
-        "link": "https://view.asiae.co.kr/article/2020082713091756654"
-    },
-    {
         "title": "LG트윈타워 어린이집서 코로나 확진…폐쇄 조치",
         "link": "https://www.donga.com/news/article/all/20200827/102670420/1"
     },
     {
-        "title": "LG트윈타워 직장어린이집서 코로나 확진자 발생…외부공간 폐쇄 조치",
-        "link": "http://www.fnnews.com/news/202008271029105581"
+        "title": "[단독]삼성·LG전자 재택근무 첫 도입…코로나 대응 수위 높인다(종합)",
+        "link": "https://view.asiae.co.kr/article/2020082713091756654"
     },
     {
-        "title": "일본 코로나19 신규확진 859명…도쿄는 누적 2만명 넘어(종합)",
-        "link": "http://yna.kr/AKR20200827140951073?did=1195m"
+        "title": "LG트윈타워 직장어린이집서 코로나 확진자 발생…외부공간 폐쇄 조치",
+        "link": "http://www.fnnews.com/news/202008271029105581"
     },
     {
         "title": "[속보] 서울시 \"구로구 소재 아파트 관련 확진자 총 28명\"",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "한은의 비관시나리오 \"코로나 겨울까지 가면 성장률 -2.2%\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/27/2020082702424.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "셧다운 들어간 국회, 코로나19 방역 '초비상'",
+        "link": "http://www.inews24.com/view/1294003"
     }
 ];
