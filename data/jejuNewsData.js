@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4040147"
     },
     {
+        "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
+        "link": "http://www.fnnews.com/news/202008272341499574"
+    },
+    {
         "title": "제주도내 35번째 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082611072617074?utm_source=naver&utm_medium=search"
     },
@@ -27,10 +31,6 @@ var jejuNewsData = [
     {
         "title": "제주도, 코로나 영향 가장 적어 부동산도 ‘각광’",
         "link": "http://www.lawissue.co.kr/view.php?ud=20200827121602564667191f6c6e_12"
-    },
-    {
-        "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
-        "link": "http://www.fnnews.com/news/202008272341499574"
     },
     {
         "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",

@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200827_0001144915&cID=13001&pID=13000"
     },
     {
-        "title": "독일, 코로나19 재확산에 통제 강화…마스크 위반시 7만원(종합)",
-        "link": "http://yna.kr/AKR20200828002151082?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진 441명…신천지 이후 최대 규모",
         "link": "http://www.hani.co.kr/arti/society/society_general/959535.html"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 중 '깜깜이 환자' 30% 넘었다",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008271516001&code=940100"
+    },
+    {
+        "title": "독일, 코로나19 재확산에 통제 강화…마스크 위반시 7만원(종합)",
+        "link": "http://yna.kr/AKR20200828002151082?did=1195m"
     },
     {
         "title": "이해찬·김태년 코로나 `음성`…국회 주말까지 셧다운",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200827/102670420/1"
     },
     {
+        "title": "[종합] 충북서 하루 새 확진자 5명 발생…청주 3명·진천 2명",
+        "link": "http://www.newspim.com/news/view/20200828000065"
+    },
+    {
+        "title": "8월 서울 확진자 22% 경로 미확인…방역 무력화 '깜깜이' 증가",
+        "link": "http://yna.kr/AKR20200827166600004?did=1195m"
+    },
+    {
         "title": "코로나에 휘청이는 한국…22년 만에 '역성장' 그림자",
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=204319"
-    },
-    {
-        "title": "LG트윈타워 직장어린이집서 코로나 확진자 발생…외부공간 폐쇄 조치",
-        "link": "http://www.fnnews.com/news/202008271029105581"
-    },
-    {
-        "title": "[속보] 서울시 \"구로구 소재 아파트 관련 확진자 총 28명\"",
-        "link": "https://www.hankyung.com/life/article/2020082723157"
     }
 ];

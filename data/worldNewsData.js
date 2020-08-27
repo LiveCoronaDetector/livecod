@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israeli-doctors-to-zap-covid-19-patients-back-to-health-in-new-treatment-640188"
     },
     {
-        "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
-        "link": "https://www.bbc.com/news/world-europe-53934952"
+        "title": "Italy contacting visitors to Sardinian nightclub after Covid-19 cluster",
+        "link": "https://www.theguardian.com/world/2020/aug/27/italy-traces-visitors-to-sardinian-nightclub-after-covid-19-cluster"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
-        "title": "France faces new deadly wave of COVID-19",
-        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
+        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
+        "link": "https://www.bbc.com/news/world-asia-china-53917315"
     },
     {
         "title": "Covid: hundreds self-isolate after Norfolk poultry plant outbreak",
