@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
+        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
+        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+    },
+    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/08/27/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
-        "link": "https://www.bbc.com/news/world-asia-53915606"
-    },
-    {
-        "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",
-        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: Global 'education emergency' due to Covid - UN",
+        "link": "https://www.bbc.com/news/live/world-53928841"
     }
 ];
