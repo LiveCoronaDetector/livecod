@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
-    },
-    {
         "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
         "title": "Flu Season Was Weirdly Mild In Southern Hemisphere. Scientists Want To Know Why : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/08/26/906323250/from-the-global-south-hints-that-u-s-may-be-spared-flu-on-top-of-covid-19"
+    },
+    {
+        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
+        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     }
 ];

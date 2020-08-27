@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020082723157"
     },
     {
-        "title": "서울 확진자 2명 충주 방문 역학조사(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5402527"
-    },
-    {
         "title": "[단독]삼성·LG전자 재택근무 첫 도입…코로나 대응 수위 높인다(종합)",
         "link": "https://view.asiae.co.kr/article/2020082713091756654"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200827_0001144548&cID=10812&pID=10800"
     },
     {
-        "title": "한은의 비관시나리오 \"코로나 겨울까지 가면 성장률 -2.2%\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/27/2020082702424.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "서울 확진자 2명 충주 방문 역학조사(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5402527"
     },
     {
-        "title": "광주 코로나19 2명 추가···누적 347명[종합]",
-        "link": "http://www.honam.co.kr/detail/0kIA7d/612045"
+        "title": "[속보] 대구 하루 확진자 13명…55일 만에 두 자릿수",
+        "link": "https://news.imaeil.com/Society/2020082710285752667"
+    },
+    {
+        "title": "코스피, 5일만에 하락…코로나 재확산 우려(종합)",
+        "link": "http://yna.kr/AKR20200827150200002?did=1195m"
     }
 ];
