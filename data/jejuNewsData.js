@@ -5,8 +5,16 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082611072617074?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "인천 코로나19 확진자, 확진 전 제주 여행 사실 확인",
+        "link": "https://www.hankyung.com/society/article/202008270688H"
+    },
+    {
         "title": "제주도, 코로나19 확진자 5명 동선 공개…수도권 방문 4명",
         "link": "http://yna.kr/AKR20200825089000056?did=1195m"
+    },
+    {
+        "title": "제주도교육청, 코로나 확산 막아라",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349692"
     },
     {
         "title": "제주 코로나19 34번째 확진자 접촉자 17명…동선 9곳 공개",
@@ -17,27 +25,19 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "인천 코로나 확진자, 확진 판정 전 제주여행",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349675"
-    },
-    {
-        "title": "인천 서구 코로나19 확진자 제주 여행",
-        "link": "https://www.ytn.co.kr/_ln/0115_202008262129272561"
-    },
-    {
-        "title": "인천 코로나19 확진자, 확진 전 제주 여행 사실 확인",
-        "link": "https://www.hankyung.com/society/article/202008270688H"
-    },
-    {
-        "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",
-        "link": "https://www.news1.kr/articles/?4037931"
+        "title": "인천 코로나19 확진자 제주 방문 사실 확인…역학조사",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525983&ref=A"
     },
     {
         "title": "코로나19 제주 35번 확진자 역학조사 결과 공개",
         "link": "https://www.nocutnews.co.kr/news/5401994"
     },
     {
-        "title": "제주도교육청, 코로나 확산 막아라",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349692"
+        "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",
+        "link": "https://www.news1.kr/articles/?4037931"
+    },
+    {
+        "title": "제주도 35번째 코로나 확진자 나와, JDC 직원 접촉자",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349616"
     }
 ];
