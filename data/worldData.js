@@ -1164,9 +1164,9 @@ var marker = [
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "확진자수": 1436,
+        "확진자수": 1447,
         "사망자수": 19,
-        "완치자수": 1150
+        "완치자수": 1190
     },
     {
         "Name": "Trinidad and Tobago",

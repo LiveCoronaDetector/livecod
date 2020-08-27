@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/25/latest_news/1598333385_810808.html"
+        "link": "https://en.as.com/en/2020/08/26/latest_news/1598432412_507428.html"
     },
     {
         "title": "Kentucky Man Accused Of Breaking Canada's COVID-19 Rules Faces $569000 Fine",
