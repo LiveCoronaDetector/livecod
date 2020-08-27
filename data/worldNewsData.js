@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
     },
     {
-        "title": "Israeli doctors to ‘zap’ COVID-19 patients back to health",
+        "title": "Israeli doctors to 'zap' COVID-19 patients back to health",
         "link": "https://www.jpost.com/health-science/israeli-doctors-to-zap-covid-19-patients-back-to-health-in-new-treatment-640188"
     },
     {
-        "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
-        "link": "https://www.bbc.com/news/world-europe-53934952"
+        "title": "Italy contacting visitors to Sardinian nightclub after Covid-19 cluster",
+        "link": "https://www.theguardian.com/world/2020/aug/27/italy-traces-visitors-to-sardinian-nightclub-after-covid-19-cluster"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/26/asia/sinovac-coronavirus-china-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
-    },
-    {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
