@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/27/latest_news/1598513989_705017.html"
     },
     {
-        "title": "Kentucky Man Accused Of Breaking Canada's COVID-19 Rules Faces $569000 Fine",
-        "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
+        "title": "American tourist faces jail, $500G fine for violating Canada's coronavirus restrictions",
+        "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
     },
     {
-        "title": "Greece battles coronavirus resurgence after early success",
-        "link": "https://apnews.com/d0a724edfc84bdf2393d661751b447d1"
+        "title": "Coronavirus: Plymouth teens test positive after Greece holiday",
+        "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
-        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
+        "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",
+        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/08/26/906323250/from-the-global-south-hints-that-u-s-may-be-spared-flu-on-top-of-covid-19"
     },
     {
-        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
-        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
+        "title": "France says it must move fast to fight virus surge",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-france/france-says-it-must-move-fast-to-fight-virus-surge-idUSKBN25N143"
     }
 ];

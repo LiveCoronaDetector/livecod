@@ -92,9 +92,9 @@ var marker = [
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "확진자수": 365606,
-        "사망자수": 21020,
-        "완치자수": 314870
+        "확진자수": 367796,
+        "사망자수": 21137,
+        "완치자수": 316638
     },
     {
         "Name": "영국",
@@ -281,6 +281,14 @@ var marker = [
         "완치자수": 79409
     },
     {
+        "Name": "루마니아",
+        "Name_ch": "尼亚",
+        "Name_en": "Romania",
+        "확진자수": 83150,
+        "사망자수": 3459,
+        "완치자수": 36677
+    },
+    {
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
@@ -295,14 +303,6 @@ var marker = [
         "확진자수": 82271,
         "사망자수": 521,
         "완치자수": 73906
-    },
-    {
-        "Name": "루마니아",
-        "Name_ch": "尼亚",
-        "Name_en": "Romania",
-        "확진자수": 81646,
-        "사망자수": 3421,
-        "완치자수": 36286
     },
     {
         "Name": "벨라루스",
@@ -452,7 +452,7 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "확진자수": 40645,
+        "확진자수": 41006,
         "사망자수": 2003,
         "완치자수": 34800
     },
@@ -542,7 +542,7 @@ var marker = [
         "Name_en": "Australia",
         "확진자수": 25322,
         "사망자수": 572,
-        "완치자수": 20100
+        "완치자수": 20366
     },
     {
         "Name": "El Salvador",
@@ -985,6 +985,14 @@ var marker = [
         "완치자수": 1802
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "확진자수": 2743,
+        "사망자수": 93,
+        "완치자수": 638
+    },
+    {
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
@@ -999,14 +1007,6 @@ var marker = [
         "확진자수": 2717,
         "사망자수": 126,
         "완치자수": 2052
-    },
-    {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "확진자수": 2708,
-        "사망자수": 93,
-        "완치자수": 611
     },
     {
         "Name": "Uganda",
@@ -1561,6 +1561,14 @@ var marker = [
         "완치자수": 23
     },
     {
+        "Name": "Timor-Leste",
+        "Name_ch": "",
+        "Name_en": "Timor-Leste",
+        "확진자수": 27,
+        "사망자수": 0,
+        "완치자수": 25
+    },
+    {
         "Name": "British Virgin Islands",
         "Name_ch": "",
         "Name_en": "British Virgin Islands",
@@ -1572,14 +1580,6 @@ var marker = [
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
-        "확진자수": 26,
-        "사망자수": 0,
-        "완치자수": 25
-    },
-    {
-        "Name": "Timor-Leste",
-        "Name_ch": "",
-        "Name_en": "Timor-Leste",
         "확진자수": 26,
         "사망자수": 0,
         "완치자수": 25

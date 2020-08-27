@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200827054951002?did=1195m"
     },
     {
+        "title": "[종합] 코로나 재확산에 전자업계 비상…삼성전자, 재택근무 시범운영",
+        "link": "http://www.inews24.com/view/1294105"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 중 '깜깜이 환자' 30% 넘었다",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008271516001&code=940100"
     },
@@ -17,8 +21,8 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200827/102670420/1"
     },
     {
-        "title": "[종합] 코로나 재확산에 전자업계 비상…삼성전자, 재택근무 시범운영",
-        "link": "http://www.inews24.com/view/1294105"
+        "title": "서울 확진자 2명 충주 방문 역학조사(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5402527"
     },
     {
         "title": "[단독]삼성·LG전자 재택근무 첫 도입…코로나 대응 수위 높인다(종합)",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200827_0001144548&cID=10812&pID=10800"
     },
     {
-        "title": "서울 확진자 2명 충주 방문 역학조사(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5402527"
+        "title": "한은의 비관시나리오 \"코로나 겨울까지 가면 성장률 -2.2%\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/27/2020082702424.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "경남, 코로나19 확진자 2명 발생…총 212명(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20200827_0001145241&cID=10812&pID=10800"
-    },
-    {
-        "title": "[속보] 오늘 오후 6시까지 서울 108명 코로나19 추가 확진",
-        "link": "https://www.hankyung.com/life/article/2020082750577"
+        "title": "천안 순천향대병원 간호사·환자 등 충남 7명 더 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200827043151063?did=1195m"
     }
 ];
