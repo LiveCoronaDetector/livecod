@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6QQE3TMG"
     },
     {
-        "title": "[속보] 코로나 신규확진자 441명 ‘폭증’…수도권 315명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014949936&code=61121111&cp=nv"
+        "title": "구로구 아파트 코로나 확진자 23명 늘어...서울 일일 최대 확진자(종합)",
+        "link": "http://www.fnnews.com/news/202008271122477311"
+    },
+    {
+        "title": "코로나19 신규 확진 441명…신천지 이후 최대 규모",
+        "link": "http://www.hani.co.kr/arti/society/society_general/959535.html"
     },
     {
         "title": "코로나19 신규 확진자 수 400명 넘었다",
         "link": "https://www.pressian.com/pages/articles/2020082710192260129?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "기재차관 \"확진자 급증 억제 가능하다 판단\"...2단계 유지 입장(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200827_0001144516&cID=10401&pID=10400"
+        "title": "[종합] 코로나 재확산에 전자업계 비상…삼성전자, 재택근무 시범운영",
+        "link": "http://www.inews24.com/view/1294105"
     },
     {
-        "title": "구로구 아파트 코로나 확진자 23명 늘어...서울 일일 최대 확진자(종합)",
-        "link": "http://www.fnnews.com/news/202008271122477311"
+        "title": "경남, 밤새 코로나19 확진자 1명 발생…총 211명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200827_0001144548&cID=10812&pID=10800"
+    },
+    {
+        "title": "LG트윈타워 어린이집서 코로나 확진…폐쇄 조치",
+        "link": "https://www.donga.com/news/article/all/20200827/102670420/1"
     },
     {
         "title": "하루 확진자 400명 넘어…수도권에서만 313명(상보)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02259926625871584"
     },
     {
-        "title": "대구의료원 코로나 병동 화재...확진자 포함 46명 대피 소동(종합)",
-        "link": "https://www.yeongnam.com/web/view.php?key=20200827010003661"
-    },
-    {
-        "title": "울산서 코로나19 확진자 2명 추가…가족·지인 등 전파",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020082708565066105"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 441명···173일 만에 400명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008271019001&code=940601"
+        "title": "[이슈IS] \"코로나19 침울\"…'뉴뮤턴트·뮬란' 美대작도 줄줄이 개봉연기(종합...",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23858102"
     }
 ];

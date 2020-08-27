@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
     },
     {
-        "title": "Amid COVID-19, Ukraine bans Israeli hasidim from annual Uman pilgrimage",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1943-new-cases-death-toll-rises-to-867-639986"
+        "title": "Coronavirus: Plymouth teens test positive after Greece holiday",
+        "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
         "title": "Coronavirus live blog: South Korea records most cases since March, global infections top 24m",
         "link": "https://www.theguardian.com/world/live/2020/aug/27/coronavirus-live-blog-france-italy-hit-post-lockdown-case-highs-as-global-infections-top-24m"
     },
     {
-        "title": "They went to India, now they're stranded by coronavirus rules set 6,400 miles away",
-        "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
+        "title": "Turkey infections rising; India tops global tally of new cases for 18th day – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/aug/25/coronavirus-live-news-gaza-in-lockdown-following-first-local-cases-hong-kong-man-re-infected"
     },
     {
         "title": "Inside the company at the forefront of China's push to develop a coronavirus vaccine",
-        "link": "https://amp.cnn.com/cnn/2020/08/26/asia/sinovac-coronavirus-china-vaccine-intl-hnk/index.html"
+        "link": "https://www.cnn.com/2020/08/26/asia/sinovac-coronavirus-china-vaccine-intl-hnk/index.html"
     },
     {
         "title": "Coronavirus: Second Mt Albert Grammar School student tests positive for Covid-19",
