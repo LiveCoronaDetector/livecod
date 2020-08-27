@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/26/latest_news/1598432412_507428.html"
+        "link": "https://en.as.com/en/2020/08/25/latest_news/1598333385_810808.html"
     },
     {
         "title": "Kentucky Man Accused Of Breaking Canada's COVID-19 Rules Faces $569000 Fine",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
-        "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
-        "link": "https://www.cnbc.com/2020/08/26/watch-live-who-officials-answer-questions-about-coronavirus-and-mental-health.html"
+        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
+        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     }
 ];

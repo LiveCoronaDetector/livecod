@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.lawissue.co.kr/view.php?ud=20200827121602564667191f6c6e_12"
     },
     {
-        "title": "인천 코로나19 확진자 제주 방문 사실 확인…역학조사",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525983&ref=A"
-    },
-    {
         "title": "코로나19 제주 35번 확진자 역학조사 결과 공개",
         "link": "https://www.nocutnews.co.kr/news/5401994"
     },
     {
-        "title": "3일간 7명 확진…제주 코로나 확산에 방역당국 '초긴장'",
-        "link": "https://www.news1.kr/articles/?4037931"
+        "title": "인천 코로나19 확진자 제주 방문 사실 확인…역학조사",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525983&ref=A"
+    },
+    {
+        "title": "코로나 와중에 제주선 ‘불법 춤 파티’ 벌인 일반음식점 적발",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014950943&code=61121111&cp=nv"
     }
 ];
