@@ -9,12 +9,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008271516001&code=940100"
     },
     {
-        "title": "삼성·LG전자, 코로나 재확산에 재택근무 도입(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200827_0001144915&cID=13001&pID=13000"
-    },
-    {
-        "title": "이해찬·김태년 코로나 `음성`…국회 주말까지 셧다운",
-        "link": "http://news.mk.co.kr/newsRead.php?no=884761&year=2020"
+        "title": "'확진자 접촉' 이해찬·김태년 등 與 지도부 코로나 '음성'",
+        "link": "http://www.newsis.com/view/?id=NISX20200827_0001145480&cID=10301&pID=10300"
     },
     {
         "title": "LG트윈타워 어린이집서 코로나 확진…폐쇄 조치",
@@ -23,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "독일, 코로나19 재확산에 통제 강화…마스크 위반시 7만원(종합)",
         "link": "http://yna.kr/AKR20200828002151082?did=1195m"
+    },
+    {
+        "title": "삼성·LG전자, 코로나 재확산에 재택근무 도입(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200827_0001144915&cID=13001&pID=13000"
     },
     {
         "title": "코로나에 휘청이는 한국…22년 만에 '역성장' 그림자",
