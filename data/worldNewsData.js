@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
     },
     {
-        "title": "Coronavirus: Plymouth teens test positive after Greece holiday",
-        "link": "https://www.bbc.com/news/uk-england-devon-53923999"
+        "title": "Coronavirus cases pass 24 million globally: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
-        "title": "Italy contacting visitors to Sardinian nightclub after Covid-19 cluster",
-        "link": "https://www.theguardian.com/world/2020/aug/27/italy-traces-visitors-to-sardinian-nightclub-after-covid-19-cluster"
+        "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
+        "link": "https://www.bbc.com/news/world-europe-53934952"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53917315"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/08/27/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+        "title": "UK coronavirus live: daily cases jump to 1,522; Switzerland, Czech Republic and Jamaica added to quarantine list",
+        "link": "https://www.theguardian.com/world/live/2020/aug/27/uk-coronavirus-live-people-on-low-pay-to-get-covid-isolation-payment"
     },
     {
         "title": "Coronavirus: Global 'education emergency' due to Covid - UN",
