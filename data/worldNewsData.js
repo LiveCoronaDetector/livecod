@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
     },
     {
-        "title": "Coronavirus: Plymouth teens test positive after Greece holiday",
-        "link": "https://www.bbc.com/news/uk-england-devon-53923999"
+        "title": "Amid COVID-19, Ukraine bans Israeli hasidim from annual Uman pilgrimage",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1943-new-cases-death-toll-rises-to-867-639986"
     },
     {
         "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/26/asia/sinovac-coronavirus-china-vaccine-intl-hnk/index.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
+    },
+    {
         "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
         "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
         "link": "https://www.bbc.com/news/world-asia-53915606"
-    },
-    {
-        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
-        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     }
 ];

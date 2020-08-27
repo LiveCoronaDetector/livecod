@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200827054951002?did=1195m"
     },
     {
-        "title": "[종합] 코로나 재확산에 전자업계 비상…삼성전자, 재택근무 시범운영",
-        "link": "http://www.inews24.com/view/1294105"
+        "title": "구로구 아파트 코로나 확진자 23명 늘어...서울 일일 최대 확진자(종합)",
+        "link": "http://www.fnnews.com/news/202008271122477311"
     },
     {
-        "title": "[속보] 서울시 \"구로구 소재 아파트 관련 확진자 총 28명\"",
-        "link": "https://www.hankyung.com/life/article/2020082723157"
-    },
-    {
-        "title": "[속보] 코로나 신규확진자 441명 ‘폭증’…수도권 315명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014949936&code=61121111&cp=nv"
-    },
-    {
-        "title": "LG트윈타워 직장어린이집서 코로나 확진자 발생…외부공간 폐쇄 조치",
-        "link": "http://www.fnnews.com/news/202008271029105581"
+        "title": "코로나19 신규 확진 441명…신천지 이후 최대 규모",
+        "link": "http://www.hani.co.kr/arti/society/society_general/959535.html"
     },
     {
         "title": "LG트윈타워 어린이집서 코로나 확진…폐쇄 조치",
         "link": "https://www.donga.com/news/article/all/20200827/102670420/1"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 441명···173일 만에 400명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008271019001&code=940601"
+        "title": "코로나19 확진자 발생 LG 트윈타워 어린이집 폐쇄",
+        "link": "http://it.chosun.com/site/data/html_dir/2020/08/27/2020082702237.html"
+    },
+    {
+        "title": "[종합] 코로나 재확산에 전자업계 비상…삼성전자, 재택근무 시범운영",
+        "link": "http://www.inews24.com/view/1294105"
+    },
+    {
+        "title": "코로나 재확산에…'전자 투톱' 삼성·LG, 재택근무 확대",
+        "link": "https://www.hankyung.com/it/article/202008272839g"
     },
     {
         "title": "[종합] 서울 하루 신규 확진자 154명··· 지난 18일 이어 역대 최고치 경신",
         "link": "https://www.sedaily.com/NewsView/1Z6QQAVR3S"
     },
     {
-        "title": "기재차관 \"확진자 급증 억제 가능하다 판단\"...2단계 유지 입장(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200827_0001144516&cID=10401&pID=10400"
+        "title": "[단독]2인1실인데 \"2m 거리둬라\"…확진자가 말한 격리생활",
+        "link": "https://news.joins.com/article/olink/23452967"
     },
     {
-        "title": "文대통령, 기독교계 만나 작심한 듯 \"코로나 재확산 절반이 교회…방역은 과학...",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/27/2020082702672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[이슈IS] \"코로나19 침울\"…'뉴뮤턴트·뮬란' 美대작도 줄줄이 개봉연기(종합...",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23858102"
     }
 ];
