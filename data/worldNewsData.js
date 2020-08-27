@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
     },
     {
-        "title": "Israeli doctors to 'zap' COVID-19 patients back to health",
+        "title": "Israeli doctors to ‘zap’ COVID-19 patients back to health",
         "link": "https://www.jpost.com/health-science/israeli-doctors-to-zap-covid-19-patients-back-to-health-in-new-treatment-640188"
     },
     {
-        "title": "Italy contacting visitors to Sardinian nightclub after Covid-19 cluster",
-        "link": "https://www.theguardian.com/world/2020/aug/27/italy-traces-visitors-to-sardinian-nightclub-after-covid-19-cluster"
+        "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
+        "link": "https://www.bbc.com/news/world-europe-53934952"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
