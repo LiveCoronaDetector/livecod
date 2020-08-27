@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4037931"
     },
     {
-        "title": "제주도교육청, 코로나 확산 막아라",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349692"
+        "title": "코로나19 제주 35번 확진자 역학조사 결과 공개",
+        "link": "https://www.nocutnews.co.kr/news/5401994"
     },
     {
-        "title": "제주도 35번째 코로나 확진자 나와, JDC 직원 접촉자",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349616"
+        "title": "제주도교육청, 코로나 확산 막아라",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349692"
     }
 ];

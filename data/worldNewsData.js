@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
-        "title": "Coronavirus live blog: France, Italy hit post-lockdown case highs, as global infections top 24m",
+        "title": "Coronavirus live blog: South Korea records most cases since March, global infections top 24m",
         "link": "https://www.theguardian.com/world/live/2020/aug/27/coronavirus-live-blog-france-italy-hit-post-lockdown-case-highs-as-global-infections-top-24m"
     },
     {
-        "title": "They went to India, now they're stranded by coronavirus rules set 6,400 miles away",
-        "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
+        "title": "India Is in Denial about the COVID-19 Crisis",
+        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
     },
     {
         "title": "Australian woman jailed for 6 months after breaking coronavirus quarantine order: reports",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
+    },
+    {
         "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
         "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
         "link": "https://www.cnbc.com/2020/08/26/watch-live-who-officials-answer-questions-about-coronavirus-and-mental-health.html"
-    },
-    {
-        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
-        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     }
 ];
