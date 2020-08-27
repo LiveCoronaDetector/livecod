@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
-        "title": "Coronavirus live blog: South Korea records most cases since March, global infections top 24m",
-        "link": "https://www.theguardian.com/world/live/2020/aug/27/coronavirus-live-blog-france-italy-hit-post-lockdown-case-highs-as-global-infections-top-24m"
+        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
     },
     {
-        "title": "Turkey infections rising; India tops global tally of new cases for 18th day – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/aug/25/coronavirus-live-news-gaza-in-lockdown-following-first-local-cases-hong-kong-man-re-infected"
+        "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
+        "link": "https://www.bbc.com/news/world-asia-india-53925071"
     },
     {
         "title": "Inside the company at the forefront of China's push to develop a coronavirus vaccine",
         "link": "https://www.cnn.com/2020/08/26/asia/sinovac-coronavirus-china-vaccine-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: Second Mt Albert Grammar School student tests positive for Covid-19",
-        "link": "https://www.stuff.co.nz/national/health/coronavirus/300092918/coronavirus-second-mt-albert-grammar-school-student-tests-positive-for-covid19"
-    },
-    {
         "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
         "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
+    },
+    {
+        "title": "Flu Season Was Weirdly Mild In Southern Hemisphere. Scientists Want To Know Why : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/26/906323250/from-the-global-south-hints-that-u-s-may-be-spared-flu-on-top-of-covid-19"
     },
     {
         "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
-        "title": "Flu Season Was Weirdly Mild In Southern Hemisphere. Scientists Want To Know Why : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/26/906323250/from-the-global-south-hints-that-u-s-may-be-spared-flu-on-top-of-covid-19"
+        "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
+        "link": "https://www.cnbc.com/2020/08/26/watch-live-who-officials-answer-questions-about-coronavirus-and-mental-health.html"
     }
 ];
