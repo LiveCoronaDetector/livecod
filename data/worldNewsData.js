@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53917315"
     },
     {
-        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
-        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/08/27/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",
-        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
+        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
+        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     }
 ];
