@@ -2,19 +2,19 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/26/latest_news/1598432412_507428.html"
+        "link": "https://en.as.com/en/2020/08/27/latest_news/1598513989_705017.html"
     },
     {
         "title": "Kentucky Man Accused Of Breaking Canada's COVID-19 Rules Faces $569000 Fine",
         "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
     },
     {
-        "title": "Amid COVID-19, Ukraine bans Israeli hasidim from annual Uman pilgrimage",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1943-new-cases-death-toll-rises-to-867-639986"
+        "title": "Greece battles coronavirus resurgence after early success",
+        "link": "https://apnews.com/d0a724edfc84bdf2393d661751b447d1"
     },
     {
-        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
+        "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",
+        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
+        "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
+        "link": "https://www.bbc.com/news/world-asia-53915606"
+    },
+    {
         "title": "Flu Season Was Weirdly Mild In Southern Hemisphere. Scientists Want To Know Why : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/08/26/906323250/from-the-global-south-hints-that-u-s-may-be-spared-flu-on-top-of-covid-19"
     },
     {
-        "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
-        "link": "https://www.cnbc.com/2020/08/26/watch-live-who-officials-answer-questions-about-coronavirus-and-mental-health.html"
-    },
-    {
-        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
-        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
+        "title": "Non-woven masks better to stop Covid-19, says Japanese supercomputer",
+        "link": "https://www.theguardian.com/world/2020/aug/26/non-woven-masks-better-to-stop-covid-19-says-japanese-supercomputer"
     }
 ];
