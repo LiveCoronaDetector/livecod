@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/aug/27/coronavirus-live-blog-france-italy-hit-post-lockdown-case-highs-as-global-infections-top-24m"
     },
     {
-        "title": "India Is in Denial about the COVID-19 Crisis",
-        "link": "https://www.scientificamerican.com/article/india-is-in-denial-about-the-covid-19-crisis/"
+        "title": "They went to India, now they're stranded by coronavirus rules set 6,400 miles away",
+        "link": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html"
     },
     {
         "title": "Australian woman jailed for 6 months after breaking coronavirus quarantine order: reports",
         "link": "https://www.foxnews.com/world/australian-woman-jailed-breaking-coronavirus-quarantine"
-    },
-    {
-        "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
-        "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
-        "title": "COVID-19 reinfections reported in the Netherlands, Belgium",
-        "link": "https://nypost.com/2020/08/26/coronavirus-reinfections-emerge-in-the-netherlands-belgium/"
+        "title": "COVID-19 (novel coronavirus) update – 27 August, 2020 1pm | Ministry of Health NZ",
+        "link": "https://www.youtube.com/watch?v=t8DLF_fXspk"
+    },
+    {
+        "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
+        "link": "https://www.cnbc.com/2020/08/26/watch-live-who-officials-answer-questions-about-coronavirus-and-mental-health.html"
     }
 ];
