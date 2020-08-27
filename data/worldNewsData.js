@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://apnews.com/d0a724edfc84bdf2393d661751b447d1"
     },
     {
-        "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",
-        "link": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html"
+        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/08/26/906323250/from-the-global-south-hints-that-u-s-may-be-spared-flu-on-top-of-covid-19"
     },
     {
-        "title": "Non-woven masks better to stop Covid-19, says Japanese supercomputer",
-        "link": "https://www.theguardian.com/world/2020/aug/26/non-woven-masks-better-to-stop-covid-19-says-japanese-supercomputer"
+        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
+        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     }
 ];
