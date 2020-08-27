@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/australian-woman-jailed-breaking-coronavirus-quarantine"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-26-20-intl/index.html"
+        "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
+        "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
     },
     {
         "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
-        "title": "COVID-19 (novel coronavirus) update – 27 August, 2020 1pm | Ministry of Health NZ",
-        "link": "https://www.youtube.com/watch?v=t8DLF_fXspk"
-    },
-    {
         "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
         "link": "https://www.cnbc.com/2020/08/26/watch-live-who-officials-answer-questions-about-coronavirus-and-mental-health.html"
+    },
+    {
+        "title": "C.D.C. Changes Testing Guidance to Exclude People Without Covid-19 Symptoms, Worrying Experts",
+        "link": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html"
     }
 ];
