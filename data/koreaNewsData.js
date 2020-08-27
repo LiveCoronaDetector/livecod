@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008261626510557"
     },
     {
-        "title": "[속보]원주 102‧103번째 확진자 발생…99번의 부모",
-        "link": "https://www.news1.kr/articles/?4038884"
-    },
-    {
         "title": "[속보] 원주서 10대 확진자 부모 2명 확진",
         "link": "https://www.hankyung.com/life/article/2020082709877"
+    },
+    {
+        "title": "[속보] 광주 밤사이 확진자 21명 늘어···교회·탁구장 등 집단감염",
+        "link": "https://www.sedaily.com/NewsView/1Z6QQ3R8WL"
+    },
+    {
+        "title": "[속보] 대전서 27일 코로나19 확진자 1명 발생… 중리동 거주 50대, 기존 확진...",
+        "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2090294"
     },
     {
         "title": "다보스포럼 \"코로나19로 연기\"",
@@ -21,8 +25,8 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082620542195335?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "사이버사령부 군무원 코로나 확진···국방부 영내서 확진자 재발생",
-        "link": "https://www.sedaily.com/NewsView/1Z6QB04GJ1"
+        "title": "국방부 영내 코로나19 확진자 또 발생.. 사이버사 군무원 확진",
+        "link": "http://www.fnnews.com/news/202008260942338570"
     },
     {
         "title": "코로나로 두번째 국회 ‘셧다운’…이해찬 김태년 자가격리",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "민주당 취재기자 코로나19 확진...국회 폐쇄 검토",
         "link": "https://www.ytn.co.kr/_ln/0101_202008262103042279"
-    },
-    {
-        "title": "코로나19 청정국 어디?…태평양 10개 섬나라 확진자 '0'",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11966367"
     }
 ];
