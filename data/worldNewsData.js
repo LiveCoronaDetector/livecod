@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
     },
     {
-        "title": "Coronavirus cases pass 24 million globally: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
+        "title": "Greece battles coronavirus resurgence after early success",
+        "link": "https://apnews.com/d0a724edfc84bdf2393d661751b447d1"
     },
     {
         "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",

@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200825089000056?did=1195m"
     },
     {
-        "title": "제주 코로나19 34번째 확진자 접촉자 17명…동선 9곳 공개",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525777&ref=A"
-    },
-    {
         "title": "제주도내 코로나19 확진자...24일 4명 발생",
         "link": "https://www.pressian.com/pages/articles/2020082504492651139?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주 코로나19 34번째 확진자 접촉자 17명…동선 9곳 공개",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4525777&ref=A"
     },
     {
         "title": "코로나 와중에 제주선 ‘불법 춤 파티’ 벌인 일반음식점 적발",
