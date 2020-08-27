@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/08/25/905847150/american-man-accused-of-breaking-canadas-covid-19-rules-faces-560-000-fine"
     },
     {
-        "title": "Amid COVID-19, Ukraine bans Israeli hasidim from annual Uman pilgrimage",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1943-new-cases-death-toll-rises-to-867-639986"
+        "title": "Coronavirus cases pass 24 million globally: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
         "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
-        "title": "Obesity increases risk of Covid-19 death by 48%, study finds",
-        "link": "https://www.theguardian.com/world/2020/aug/26/obesity-increases-risk-of-covid-19-death-by-48-study-finds"
-    },
-    {
         "title": "Flu Season Was Weirdly Mild In Southern Hemisphere. Scientists Want To Know Why : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/08/26/906323250/from-the-global-south-hints-that-u-s-may-be-spared-flu-on-top-of-covid-19"
     },
     {
         "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
         "link": "https://www.bbc.com/news/world-asia-53915606"
+    },
+    {
+        "title": "Non-woven masks better to stop Covid-19, says Japanese supercomputer",
+        "link": "https://www.theguardian.com/world/2020/aug/26/non-woven-masks-better-to-stop-covid-19-says-japanese-supercomputer"
     }
 ];
