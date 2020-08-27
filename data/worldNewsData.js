@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
-        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
+        "title": "Coronavirus live blog: France, Italy hit post-lockdown case highs, as global infections top 24m",
+        "link": "https://www.theguardian.com/world/live/2020/aug/27/coronavirus-live-blog-france-italy-hit-post-lockdown-case-highs-as-global-infections-top-24m"
     },
     {
         "title": "India Is in Denial about the COVID-19 Crisis",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
-        "title": "Watch live: World Health Organization officials answer questions about coronavirus and mental health",
-        "link": "https://www.cnbc.com/2020/08/26/watch-live-who-officials-answer-questions-about-coronavirus-and-mental-health.html"
+        "title": "More COVID-19 reinfections noted; Gaza reports first cases",
+        "link": "https://www.cidrap.umn.edu/news-perspective/2020/08/more-covid-19-reinfections-noted-gaza-reports-first-cases"
     }
 ];
