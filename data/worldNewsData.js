@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
-        "title": "More COVID-19 reinfections noted; Gaza reports first cases",
-        "link": "https://www.cidrap.umn.edu/news-perspective/2020/08/more-covid-19-reinfections-noted-gaza-reports-first-cases"
+        "title": "COVID-19 reinfections reported in the Netherlands, Belgium",
+        "link": "https://nypost.com/2020/08/26/coronavirus-reinfections-emerge-in-the-netherlands-belgium/"
     }
 ];

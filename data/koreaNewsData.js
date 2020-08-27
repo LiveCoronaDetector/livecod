@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008261626510557"
     },
     {
-        "title": "원주서 10대 확진자의 부모 코로나 확진…강원도 183번째",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082600134"
-    },
-    {
         "title": "[이슈IS] \"코로나19 침울\"…'뉴뮤턴트·뮬란' 美대작도 줄줄이 개봉연기(종합...",
         "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23858102"
     },
     {
-        "title": "[속보] 충북 진천·청주 40대 3명 코로나 확진…충북 111~113번",
-        "link": "https://www.news1.kr/articles/?4038893"
-    },
-    {
         "title": "울산서 코로나19 확진자 2명 추가…가족·지인 등 전파",
         "link": "http://www.busan.com/view/busan/view.php?code=2020082708565066105"
+    },
+    {
+        "title": "원주서 10대 확진자의 부모 코로나 확진…강원도 183번째",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082600134"
+    },
+    {
+        "title": "'확진자 급증' 브라질, 코로나19 재감염 의심 사례 잇따라",
+        "link": "https://www.hankyung.com/international/article/2020082711117"
     }
 ];
