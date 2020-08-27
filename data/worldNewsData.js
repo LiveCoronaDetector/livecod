@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
     },
     {
-        "title": "UN Syria talks resume after coronavirus cases forced suspension",
-        "link": "https://www.aljazeera.com/news/2020/08/syria-talks-resume-coronavirus-cases-forced-suspension-200827133512571.html"
+        "title": "Coronavirus: Plymouth teens test positive after Greece holiday",
+        "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
         "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-53915606"
     },
     {
-        "title": "UK coronavirus live: daily cases jump to 1,522; Switzerland, Czech Republic and Jamaica added to quarantine list - as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/aug/27/uk-coronavirus-live-people-on-low-pay-to-get-covid-isolation-payment"
+        "title": "Covid: hundreds self-isolate after Norfolk poultry plant outbreak",
+        "link": "https://www.theguardian.com/world/2020/aug/27/covid-hundreds-self-isolate-after-norfolk-poultry-plant-outbreak"
     },
     {
         "title": "Almost 500 Million Children Are Cut Off From School in Pandemic, Report Says",

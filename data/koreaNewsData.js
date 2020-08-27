@@ -9,28 +9,28 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008271516001&code=940100"
     },
     {
-        "title": "'확진자 접촉' 이해찬·김태년 등 與 지도부 코로나 '음성'",
-        "link": "http://www.newsis.com/view/?id=NISX20200827_0001145480&cID=10301&pID=10300"
+        "title": "삼성·LG전자, 코로나 재확산에 재택근무 도입(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200827_0001144915&cID=13001&pID=13000"
+    },
+    {
+        "title": "이해찬·김태년 코로나 `음성`…국회 주말까지 셧다운",
+        "link": "http://news.mk.co.kr/newsRead.php?no=884761&year=2020"
     },
     {
         "title": "LG트윈타워 어린이집서 코로나 확진…폐쇄 조치",
         "link": "https://www.donga.com/news/article/all/20200827/102670420/1"
     },
     {
-        "title": "한은, 올해 성장률 -1.3%로 대폭 하향…'코로나 재확산' 반영(종합2보)",
-        "link": "http://yna.kr/AKR20200827054951002?did=1195m"
+        "title": "독일, 코로나19 재확산에 통제 강화…마스크 위반시 7만원(종합)",
+        "link": "http://yna.kr/AKR20200828002151082?did=1195m"
+    },
+    {
+        "title": "코로나에 휘청이는 한국…22년 만에 '역성장' 그림자",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=204319"
     },
     {
         "title": "LG트윈타워 직장어린이집서 코로나 확진자 발생…외부공간 폐쇄 조치",
         "link": "http://www.fnnews.com/news/202008271029105581"
-    },
-    {
-        "title": "구로구 아파트 환기구에 ‘코로나19’ 바이러스 없었다",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014952727&code=61121111&cp=nv"
-    },
-    {
-        "title": "삼성·LG전자, 코로나 재확산에 재택근무 도입(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200827_0001144915&cID=13001&pID=13000"
     },
     {
         "title": "[속보] 서울시 \"구로구 소재 아파트 관련 확진자 총 28명\"",
