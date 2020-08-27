@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4525777&ref=A"
     },
     {
-        "title": "제주도, JDC 입주기업 코로나19 검사 지원",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170691"
+        "title": "코로나19 제주 35번 확진자 역학조사 결과 공개",
+        "link": "https://www.nocutnews.co.kr/news/5401994"
     },
     {
-        "title": "[종합] 확진자 3월 이후 최다…제주 '주말 최대 고비'",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150109"
+        "title": "제주도, JDC 입주기업 코로나19 검사 지원",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170691"
     }
 ];
