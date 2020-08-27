@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-england-devon-53923999"
     },
     {
-        "title": "Germany Faces a ‘Roller Coaster’ as Schools Reopen Amid Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/26/world/europe/germany-schools-virus-reopening.html"
+        "title": "Coronavirus live updates: WHO warns Europe faces ‘tricky moment’ as summer turns to fall",
+        "link": "https://www.cnbc.com/2020/08/27/coronavirus-live-updates.html"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "Inside the company at the forefront of China's push to develop a coronavirus vaccine",
         "link": "https://www.cnn.com/2020/08/26/asia/sinovac-coronavirus-china-vaccine-intl-hnk/index.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Kim Jong-un warns over North Korea typhoon and coronavirus",
         "link": "https://www.bbc.com/news/world-asia-53915606"
+    },
+    {
+        "title": "Flu Season Was Weirdly Mild In Southern Hemisphere. Scientists Want To Know Why : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/08/26/906323250/from-the-global-south-hints-that-u-s-may-be-spared-flu-on-top-of-covid-19"
     }
 ];

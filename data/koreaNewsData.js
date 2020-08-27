@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200827054951002?did=1195m"
     },
     {
-        "title": "[종합] 코로나 재확산에 전자업계 비상…삼성전자, 재택근무 시범운영",
-        "link": "http://www.inews24.com/view/1294105"
-    },
-    {
         "title": "코로나19 신규 확진 441명…신천지 이후 최대 규모",
         "link": "http://www.hani.co.kr/arti/society/society_general/959535.html"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200827140951073?did=1195m"
     },
     {
-        "title": "[속보] 서울시 \"구로구 소재 아파트 관련 확진자 총 28명\"",
-        "link": "https://www.hankyung.com/life/article/2020082723157"
+        "title": "LG트윈타워 어린이집서 코로나 확진…폐쇄 조치",
+        "link": "https://www.donga.com/news/article/all/20200827/102670420/1"
     },
     {
-        "title": "대구 수성구청, 확진자 방문 확인…27일 오후 청사 폐쇄",
-        "link": "https://news.imaeil.com/Society/2020082715133700864"
+        "title": "대전서 광화문 집회 참석 60대 등 2명 코로나19 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200827024351063?did=1195m"
+    },
+    {
+        "title": "[속보] 서울시 \"구로구 소재 아파트 관련 확진자 총 28명\"",
+        "link": "https://www.hankyung.com/life/article/2020082723157"
     }
 ];

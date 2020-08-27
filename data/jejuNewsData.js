@@ -9,8 +9,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082611072617074?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
+        "title": "제주 관광지 누빈 코로나19 확진자, 인천 주님의교회 교인",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319449"
+    },
+    {
+        "title": "제주 36번째 코로나19 확진자 발생…확산세 이어져",
+        "link": "http://yna.kr/AKR20200827197300056?did=1195m"
     },
     {
         "title": "인천 코로나19 확진자, 확진 전 제주 여행 사실 확인",
@@ -19,10 +23,6 @@ var jejuNewsData = [
     {
         "title": "제주도교육청, 코로나 확산 막아라",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349692"
-    },
-    {
-        "title": "제주 관광지 누빈 코로나19 확진자, 인천 주님의교회 교인",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319449"
     },
     {
         "title": "제주도, 코로나 영향 가장 적어 부동산도 ‘각광’",
