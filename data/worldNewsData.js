@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/28/latest_news/1598596393_856037.html"
     },
     {
-        "title": "America reacts to Donald Trump's RNC acceptance speech – US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2020/aug/28/donald-trump-republican-national-convention-rnc-coronavirus-covid-19-hurricane-laura-live-updates"
+        "title": "Live updates: After Hurricane Laura, disruption to coronavirus battle sparks concerns",
+        "link": "https://www.washingtonpost.com/nation/2020/08/28/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Israeli researcher: End of coronavirus peak only weeks away",
@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/aug/28/covid-19-turns-tide-on-indias-ganesh-festival-traditions"
     },
     {
-        "title": "Dissident Chinese artist made secret film about Wuhan during China’s coronavirus lockdown",
-        "link": "https://www.foxnews.com/world/dissident-chinese-artist-made-secret-film-about-wuhan-during-chinas-coronavirus-lockdown"
+        "title": "Coronavirus: New virus hotspots emerge in Australia",
+        "link": "https://www.bbc.com/news/world-australia-53941348"
+    },
+    {
+        "title": "A Resignation Salute From the Stock Market",
+        "link": "https://www.wsj.com/articles/a-resignation-salute-from-the-stock-market-11598611273"
     },
     {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     },
     {
-        "title": "France faces new deadly wave of COVID-19",
-        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
-    },
-    {
-        "title": "COVID-19 Response Approved by Most in 14 Nations with Advanced Economies",
-        "link": "https://www.pewresearch.org/global/2020/08/27/most-approve-of-national-response-to-covid-19-in-14-advanced-economies/"
+        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
+        "link": "https://www.bbc.com/news/world-asia-china-53917315"
     }
 ];

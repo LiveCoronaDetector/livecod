@@ -5,20 +5,8 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959737.html"
     },
     {
-        "title": "코로나 확진자, 게하 투숙객 뒤섞여 '음주파티'…제주 '화약고'",
-        "link": "http://yna.kr/AKR20200828097200056?did=1195m"
-    },
-    {
         "title": "제주 36번 확진자 '루프탑정원 술파티' 참가에 제주도 '발칵'",
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
-        "link": "https://www.news1.kr/articles/?4040592"
-    },
-    {
-        "title": "밤사이 제주도 게스트하우스 주인·직원 확진",
-        "link": "http://www.newsis.com/view/?id=NISX20200828_0001145953&cID=10813&pID=10800"
     },
     {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
@@ -29,15 +17,27 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014953965&code=61121111&cp=nv"
     },
     {
-        "title": "코로나 확진 제주 목사 부부, 온천 방문 거짓말 들통",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008280427&t=NN"
+        "title": "코로나 확진 제주 목사 부부, 온천 방문 숨겼다 들통…긴급방역",
+        "link": "http://yna.kr/AKR20200828182000056?did=1195m"
     },
     {
         "title": "제주도 코로나 23번째 확진자 퇴원···43일 만",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349782"
     },
     {
-        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
+        "title": "제주 코로나 37번째 확진자 동선…접촉자 15명",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349783"
+    },
+    {
+        "title": "제주 36번째 코로나19 확진자 발생…\"역학조사중\"",
+        "link": "https://www.news1.kr/articles/?4040147"
+    },
+    {
+        "title": "제주도, 온천방문 들통 29번·33번 확진자 부부 고발 방침",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426000"
+    },
+    {
+        "title": "제주도·JDC 책임 공방…입주 업체 불안 호소",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527732&ref=A"
     }
 ];
