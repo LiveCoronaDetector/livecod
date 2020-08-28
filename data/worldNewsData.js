@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
     },
     {
-        "title": "To fly again, travellers must first be certified free of Covid-19",
-        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
+        "title": "White House, Under Fire for Discouraging Coronavirus Testing, Says It Will Buy Millions of Test Kits",
+        "link": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html"
     }
 ];
