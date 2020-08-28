@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     },
     {
-        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
+        "title": "제주도 코로나 23번째 확진자 퇴원···43일 만",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349782"
     },
     {
-        "title": "제주도 37번째 코로나 확진자, 36번째 확진자 접촉",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349733"
+        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
     },
     {
         "title": "제주 서귀포서 코로나 확진자 2명 추가 발생",
