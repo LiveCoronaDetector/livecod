@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
     },
     {
-        "title": "Coronavirus cases pass 24 million globally: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
+        "title": "Israeli researcher: End of coronavirus peak only weeks away",
+        "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
     },
     {
         "title": "France Covid-19: Paris compulsory face-mask rule comes into force",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53925071"
     },
     {
-        "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
+        "title": "Dissident Chinese artist made secret film about Wuhan during China’s coronavirus lockdown",
+        "link": "https://www.foxnews.com/world/dissident-chinese-artist-made-secret-film-about-wuhan-during-chinas-coronavirus-lockdown"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
-        "title": "France faces new deadly wave of COVID-19",
-        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
-    },
-    {
         "title": "White House, Under Fire for Discouraging Coronavirus Testing, Says It Will Buy Millions of Test Kits",
         "link": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "To fly again, travellers must first be certified free of Covid-19",
+        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     }
 ];

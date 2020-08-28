@@ -13,16 +13,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6R7NFHIL"
     },
     {
-        "title": "강서구 홈플러스 본사서도 확진자 발생... 전 직원 재택근무",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803424.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "\"내가 코로나 환자\" 70대 역삼역서 소동...경찰 \"실제 확진자\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008280276&t=NN"
     },
     {
-        "title": "홍남기 “4차 추경 여부…확진자, 사회적 거리두기 3단계 격상 변수”",
-        "link": "http://www.etnews.com/20200828000097"
-    },
-    {
-        "title": "“내가 코로나 환자다” 역삼역 소동 70대 확진자 자택 귀가(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200828500171&wlog_tag3=naver"
+        "title": "홈플러스, 본사 직원 코로나19 확진..본사 폐쇄",
+        "link": "http://www.fnnews.com/news/202008281616380728"
     },
     {
         "title": "[종합] \"코로나 재확산 막자\"…재계, 병상 부족 해결 나섰다",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008281557011&code=620100"
     },
     {
-        "title": "광주서 밤새 코로나19 확진자 5명 발생...누적확진자 352명",
-        "link": "http://www.fnnews.com/news/202008280812282218"
+        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
+        "link": "https://www.news1.kr/articles/?4040592"
+    },
+    {
+        "title": "[종합] 서울 코로나19 어제 신규 확진 146명··· 26일 154명에서 소폭 감소",
+        "link": "https://www.sedaily.com/NewsView/1Z6R6OQIZT"
     }
 ];
