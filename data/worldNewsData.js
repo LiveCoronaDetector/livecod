@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53925071"
     },
     {
-        "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
+        "title": "Coronavirus: New virus hotspots emerge in Australia",
+        "link": "https://www.bbc.com/news/world-australia-53941348"
     },
     {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html"
     },
     {
-        "title": "August 27 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
+        "title": "To fly again, travellers must first be certified free of Covid-19",
+        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     },
     {
-        "title": "France faces new deadly wave of COVID-19",
-        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
+        "title": "August 27 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     }
 ];
