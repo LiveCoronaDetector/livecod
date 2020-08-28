@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
     },
     {
-        "title": "Coronavirus live updates: Germany's Merkel warns of tough winter; J&J to begin phase two vaccine trials in Europe next week",
-        "link": "https://www.cnbc.com/2020/08/28/coronavirus-live-updates.html"
+        "title": "Spanish police arrest Covid sceptic for inciting violence",
+        "link": "https://www.theguardian.com/world/2020/aug/28/spanish-police-arrest-man-who-spread-false-news-about-coronavirus"
     },
     {
         "title": "India’s Covid Outbreak Is Now the World’s Fastest-Growing",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
     },
     {
-        "title": "How Coronavirus Overpowered the World Health Organization",
-        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
+        "title": "'I don't want to see his face': Reactions in Tokyo to Abe resigning | AFP",
+        "link": "https://www.youtube.com/watch?v=v-VZR6ydQ0U"
     },
     {
-        "title": "Shinzo Abe: Revisionist nationalist or pragmatic realist?",
-        "link": "https://www.bbc.com/news/world-asia-53950704"
+        "title": "How Coronavirus Overpowered the World Health Organization",
+        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
