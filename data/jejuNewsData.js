@@ -9,35 +9,35 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082810143652180?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 36번째 코로나19 확진자 발생…\"역학조사중\"",
-        "link": "https://www.news1.kr/articles/?4040147"
+        "title": "[속보]제주 '게스트하우스'서 사장·직원 코로나 잇단 확진",
+        "link": "https://www.news1.kr/articles/?4040491"
+    },
+    {
+        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
+    },
+    {
+        "title": "우려가 현실로, 제주 게하발 코로나 확진자 2명 발생...내부 파티도 벌여",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319460"
     },
     {
         "title": "제주 서귀포서 코로나 확진자 2명 추가 발생",
         "link": "http://www.hani.co.kr/arti/area/jeju/959715.html"
     },
     {
+        "title": "제주 하루밤새 확진자 2명 늘어…도내 37명 발생",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527174&ref=A"
+    },
+    {
         "title": "제주도내 35번째 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082611072617074?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
-    },
-    {
-        "title": "인천 코로나19 확진자, 확진 전 제주 여행 사실 확인",
-        "link": "https://www.hankyung.com/society/article/202008270688H"
-    },
-    {
-        "title": "제주 여행 후 코로나19 확진 인천 주민은 주님의교회 교인",
-        "link": "http://yna.kr/AKR20200827185200056?did=1195m"
-    },
-    {
-        "title": "제주도교육청, 코로나 확산 막아라",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349692"
-    },
-    {
         "title": "제주도 37번째 코로나 확진자, 36번째 확진자 접촉",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349733"
+    },
+    {
+        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
     }
 ];
