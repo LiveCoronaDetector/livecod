@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349782"
     },
     {
-        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
-    },
-    {
         "title": "제주 코로나 37번째 확진자 동선…접촉자 15명",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349783"
     },
     {
-        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
+        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     },
     {
-        "title": "제주 서귀포서 코로나 확진자 2명 추가 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959715.html"
+        "title": "오늘 6시 현재 신규 확진자 216명…300명 또 넘어서나",
+        "link": "https://www.news1.kr/articles/?4041286"
+    },
+    {
+        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
     }
 ];
