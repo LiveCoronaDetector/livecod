@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israeli-doctors-to-zap-covid-19-patients-back-to-health-in-new-treatment-640188"
     },
     {
-        "title": "Italy contacting visitors to Sardinian nightclub after Covid-19 cluster",
-        "link": "https://www.theguardian.com/world/2020/aug/27/italy-traces-visitors-to-sardinian-nightclub-after-covid-19-cluster"
+        "title": "France Covid-19: Mask rule for Parisians amid 'undeniable surge'",
+        "link": "https://www.bbc.com/news/world-europe-53934952"
     },
     {
         "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53917315"
     },
     {
-        "title": "COVID-19 Response Approved by Most in 14 Nations with Advanced Economies",
-        "link": "https://www.pewresearch.org/global/2020/08/27/most-approve-of-national-response-to-covid-19-in-14-advanced-economies/"
+        "title": "To fly again, travellers must first be certified free of Covid-19",
+        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     }
 ];
