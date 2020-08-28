@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/index.html"
+        "title": "Coronavirus live updates: Germany's Merkel warns of tough winter; J&J to begin phase two vaccine trials in Europe next week",
+        "link": "https://www.cnbc.com/2020/08/28/coronavirus-live-updates.html"
     },
     {
-        "title": "Covid turns tide on India's Ganesh festival traditions",
-        "link": "https://www.theguardian.com/global-development/2020/aug/28/covid-19-turns-tide-on-indias-ganesh-festival-traditions"
+        "title": "India’s Covid Outbreak Is Now the World’s Fastest-Growing",
+        "link": "https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html"
     },
     {
         "title": "Dissident Chinese artist made secret film about Wuhan during China’s coronavirus lockdown",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "COVID-19 Response Approved by Most in 14 Nations with Advanced Economies",
+        "link": "https://www.pewresearch.org/global/2020/08/27/most-approve-of-national-response-to-covid-19-in-14-advanced-economies/"
     }
 ];

@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
+        "link": "https://www.news1.kr/articles/?4041360"
+    },
+    {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
         "link": "http://www.fnnews.com/news/202008272341499574"
     },
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349783"
     },
     {
-        "title": "제주 36번째 코로나19 확진자 발생…\"역학조사중\"",
-        "link": "https://www.news1.kr/articles/?4040147"
+        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     },
     {
         "title": "제주도, 온천방문 들통 29번·33번 확진자 부부 고발 방침",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426000"
-    },
-    {
-        "title": "제주도·JDC 책임 공방…입주 업체 불안 호소",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527732&ref=A"
     }
 ];
