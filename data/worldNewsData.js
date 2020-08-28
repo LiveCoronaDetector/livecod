@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
     },
     {
-        "title": "Israeli doctors to ‘zap’ COVID-19 patients back to health",
-        "link": "https://www.jpost.com/health-science/israeli-doctors-to-zap-covid-19-patients-back-to-health-in-new-treatment-640188"
+        "title": "Coronavirus cases pass 24 million globally: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/cambridge-start-coronavirus-vaccine-trial-autumn-live-news-200826000249075.html"
     },
     {
         "title": "France Covid-19: Paris compulsory face-mask rule comes into force",
         "link": "https://www.bbc.com/news/world-europe-53934952"
     },
     {
-        "title": "Global report: India sets new national daily case record",
-        "link": "https://www.theguardian.com/world/2020/aug/28/global-report-india-sets-new-national-daily-case-record"
+        "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
+        "link": "https://www.bbc.com/news/world-asia-india-53925071"
     },
     {
         "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",

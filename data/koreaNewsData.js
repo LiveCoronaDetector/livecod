@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803424.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
-    },
-    {
         "title": "[종합] \"코로나 재확산 막자\"…재계, 병상 부족 해결 나섰다",
         "link": "http://www.inews24.com/view/1294468"
-    },
-    {
-        "title": "코로나 확진자, 게하 투숙객 뒤섞여 '음주파티'…제주 '화약고'",
-        "link": "http://yna.kr/AKR20200828097200056?did=1195m"
-    },
-    {
-        "title": "[단독] 4명이라더니… 추가로 2명 확진 잇단 확진자에 전전긍긍하는 혜화경찰...",
-        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002623100029&ctcd=C02"
     },
     {
         "title": "경남, 오늘 확진자 9명 추가…총 221명(종합2보)",
         "link": "http://www.newsis.com/view/?id=NISX20200828_0001146676&cID=10812&pID=10800"
     },
     {
+        "title": "코로나 확진자, 게하 투숙객 뒤섞여 '음주파티'…제주 '화약고'",
+        "link": "http://yna.kr/AKR20200828097200056?did=1195m"
+    },
+    {
         "title": "아모레·이마트 또 폐쇄… 유통업계 '코로나 셧다운' 재확산",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803039.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "빛가온교회, 코로나19 17명 확진",
+        "link": "https://www.news1.kr/photos/view/?4357259"
+    },
+    {
+        "title": "[단독] 4명이라더니… 추가로 2명 확진 잇단 확진자에 전전긍긍하는 혜화경찰...",
+        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002623100029&ctcd=C02"
     }
 ];
