@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     },
     {
-        "title": "제주도, 게스트하우스발 확진자 동선 공개",
-        "link": "https://view.asiae.co.kr/article/2020082815594061091"
-    },
-    {
         "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "밤사이 제주도 게스트하우스 주인·직원 확진",
         "link": "http://www.newsis.com/view/?id=NISX20200828_0001145953&cID=10813&pID=10800"
+    },
+    {
+        "title": "[속보] 제주 게스트하우스서 주인·직원 코로나 잇따라 확진",
+        "link": "https://www.hankyung.com/life/article/2020082869137"
     }
 ];
