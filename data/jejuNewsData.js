@@ -21,16 +21,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200828182000056?did=1195m"
     },
     {
-        "title": "제주 게스트하우스, 코로나 추가 확진자 나와",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349788"
-    },
-    {
-        "title": "코로나 확진 목사 부부, 온천 방문 숨겨…제주도, 고발 방침",
-        "link": "https://www.news1.kr/articles/?4041345"
-    },
-    {
-        "title": "제주 38번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020082902564478807?utm_source=naver&utm_medium=search"
+        "title": "제주 38번째 코로나19 확진자 발생...\"루프탑정원 방문객\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426002"
     },
     {
         "title": "제주도 코로나 23번째 확진자 퇴원···43일 만",
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "제주 코로나 37번째 확진자 동선…접촉자 15명",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349783"
+    },
+    {
+        "title": "제주 36번째 코로나19 확진자 발생…\"역학조사중\"",
+        "link": "https://www.news1.kr/articles/?4040147"
+    },
+    {
+        "title": "코로나 확진 목사 부부, 온천 방문 숨겨…제주도, 고발 방침",
+        "link": "https://www.news1.kr/articles/?4041345"
     }
 ];
