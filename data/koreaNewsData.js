@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6R7NFHIL"
     },
     {
-        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
-        "link": "https://www.news1.kr/articles/?4040592"
-    },
-    {
         "title": "강서구 홈플러스 본사서도 확진자 발생... 전 직원 재택근무",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803424.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
+        "link": "https://www.news1.kr/articles/?4040592"
     },
     {
         "title": "[단독] 4명이라더니… 추가로 2명 확진 잇단 확진자에 전전긍긍하는 혜화경찰...",
@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803796.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독] \"코로나 자가격리 전공의도 고발\" 한양대 교수 발끈",
-        "link": "https://news.joins.com/article/olink/23454107"
-    },
-    {
         "title": "문 잠그는 ‘섬’…완도군 코로나19로 외지인 통제",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008281557011&code=620100"
+    },
+    {
+        "title": "[단독] \"코로나 자가격리 전공의도 고발\" 한양대 교수 발끈",
+        "link": "https://news.joins.com/article/olink/23454107"
     },
     {
         "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
