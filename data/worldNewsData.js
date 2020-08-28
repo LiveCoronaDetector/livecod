@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/28/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Israeli researcher: End of coronavirus peak only weeks away",
-        "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
+        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
+        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
     },
     {
-        "title": "Spanish police arrest Covid sceptic for inciting violence",
-        "link": "https://www.theguardian.com/world/2020/aug/28/spanish-police-arrest-man-who-spread-false-news-about-coronavirus"
+        "title": "They bought a vacation home in Italy. Then Covid-19 shut it down",
+        "link": "https://www.cnn.com/travel/article/vacation-home-italy-covid-19/index.html"
     },
     {
         "title": "India’s Covid Outbreak Is Now the World’s Fastest-Growing",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/index.html"
     },
     {
         "title": "To fly again, travellers must first be certified free of Covid-19",
