@@ -5,8 +5,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959737.html"
     },
     {
-        "title": "\"터질 게 터져\" 코로나확진 제주 게하 운영자, 투숙객 야간파티",
-        "link": "http://yna.kr/AKR20200828067400056?did=1195m"
+        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
+        "link": "https://www.news1.kr/articles/?4040592"
+    },
+    {
+        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     },
     {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
@@ -15,10 +19,6 @@ var jejuNewsData = [
     {
         "title": "제주, 코로나19 36번 37번째 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082810143652180?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주 36번째 코로나19 확진자 발생…\"역학조사중\"",
-        "link": "https://www.news1.kr/articles/?4040147"
     },
     {
         "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",

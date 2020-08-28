@@ -5,26 +5,6 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1294468"
     },
     {
-        "title": "불안했던 ‘제주 게스트하우스’서 확진자 2명 발생…파티도 열어",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959737.html"
-    },
-    {
-        "title": "홍남기 “4차 추경 여부…확진자, 사회적 거리두기 3단계 격상 변수”",
-        "link": "http://www.etnews.com/20200828000097"
-    },
-    {
-        "title": "광주서 밤새 코로나19 확진자 5명 발생...누적확진자 352명",
-        "link": "http://www.fnnews.com/news/202008280812282218"
-    },
-    {
-        "title": "신규확진 371명…수도권 누적확진자, 대구 넘었다",
-        "link": "https://www.dailian.co.kr/news/view/915471/?sc=Naver"
-    },
-    {
-        "title": "경남, 밤새 코로나19 확진자 7명 발생…총 219명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200828_0001146034&cID=10812&pID=10800"
-    },
-    {
         "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
     },
@@ -33,11 +13,31 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6R7D8QEG"
     },
     {
-        "title": "코로나19 확진자 발생한 노원구 빛가온교회",
-        "link": "http://yna.kr/PYH20200828079900013?did=1196m"
+        "title": "홍남기 “4차 추경 여부…확진자, 사회적 거리두기 3단계 격상 변수”",
+        "link": "http://www.etnews.com/20200828000097"
     },
     {
         "title": "[종합]코로나19 확진자 371명 증가...서울 145명, 경기 112명, 인천 27명",
         "link": "http://www.fnnews.com/news/202008280933474953"
+    },
+    {
+        "title": "[종합] 서울 코로나19 어제 신규 확진 146명··· 26일 154명에서 소폭 감소",
+        "link": "https://www.sedaily.com/NewsView/1Z6R6OQIZT"
+    },
+    {
+        "title": "\"터질 게 터져\" 코로나확진 제주 게하 운영자, 투숙객 야간파티",
+        "link": "http://yna.kr/AKR20200828067400056?did=1195m"
+    },
+    {
+        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
+        "link": "https://www.news1.kr/articles/?4040592"
+    },
+    {
+        "title": "서울시 \"80대 코로나 1명 병상 이송 대기 중 사망\"(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082801662.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "경남, 밤새 코로나19 확진자 7명 발생…총 219명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200828_0001146034&cID=10812&pID=10800"
     }
 ];
