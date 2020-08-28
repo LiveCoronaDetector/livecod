@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
-        "title": "To fly again, travellers must first be certified free of Covid-19",
-        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
-    },
-    {
         "title": "France faces new deadly wave of COVID-19",
         "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
+    },
+    {
+        "title": "To fly again, travellers must first be certified free of Covid-19",
+        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     }
 ];

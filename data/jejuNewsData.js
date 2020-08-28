@@ -13,31 +13,31 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4040491"
     },
     {
-        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
+        "title": "야간파티 성행 제주 게스트하우스 코로나19 '비상'",
+        "link": "https://www.nocutnews.co.kr/news/5402766"
+    },
+    {
+        "title": "제주 5일 연속 코로나 확진자 발생...36번 접촉 37번 확진",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319456"
     },
     {
         "title": "우려가 현실로, 제주 게하발 코로나 확진자 2명 발생...내부 파티도 벌여",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319460"
     },
     {
+        "title": "[속보] 제주 게스트하우스서 주인·직원 코로나 잇따라 확진",
+        "link": "https://www.hankyung.com/life/article/2020082869137"
+    },
+    {
+        "title": "제주도, 36번째 코로나 확진자…일주일 사이 10명",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349732"
+    },
+    {
         "title": "제주 서귀포서 코로나 확진자 2명 추가 발생",
         "link": "http://www.hani.co.kr/arti/area/jeju/959715.html"
     },
     {
-        "title": "제주 하루밤새 확진자 2명 늘어…도내 37명 발생",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527174&ref=A"
-    },
-    {
         "title": "제주도내 35번째 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020082611072617074?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주도 37번째 코로나 확진자, 36번째 확진자 접촉",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349733"
-    },
-    {
-        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
     }
 ];
