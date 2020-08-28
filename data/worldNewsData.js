@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/28/latest_news/1598596393_856037.html"
     },
     {
-        "title": "Live updates: After Hurricane Laura, disruption to coronavirus battle sparks concerns",
-        "link": "https://www.washingtonpost.com/nation/2020/08/28/coronavirus-covid-live-updates-us/"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
     },
     {
         "title": "Israeli researcher: End of coronavirus peak only weeks away",
@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/aug/28/covid-19-turns-tide-on-indias-ganesh-festival-traditions"
     },
     {
-        "title": "Coronavirus: New virus hotspots emerge in Australia",
-        "link": "https://www.bbc.com/news/world-australia-53941348"
+        "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
     },
     {
-        "title": "A Resignation Salute From the Stock Market",
-        "link": "https://www.wsj.com/articles/a-resignation-salute-from-the-stock-market-11598611273"
+        "title": "Abenomics fails to deliver as Japan braces for post-Abe era",
+        "link": "https://www.reuters.com/article/us-japan-economy-abenomics-analysis/abenomics-fails-to-deliver-as-japan-braces-for-abe-resignation-idUSKBN25O0TT"
     },
     {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "Can the Flu Shot Help Protect Against COVID-19? The Answer May Surprise You",
+        "link": "https://www.yahoo.com/lifestyle/flu-shot-help-protect-against-210508119.html"
     }
 ];

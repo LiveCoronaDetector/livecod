@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4040592"
     },
     {
-        "title": "[속보] 서울대병원서도 첫 확진자 나와… 교직원 1명",
-        "link": "http://www.segye.com/content/html/2020/08/28/20200828522928.html?OutUrl=naver"
-    },
-    {
         "title": "강서구 홈플러스 본사서도 확진자 발생... 전 직원 재택근무",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803424.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,12 +21,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200828097200056?did=1195m"
     },
     {
-        "title": "[단독] \"코로나 자가격리 전공의도 고발\" 한양대 교수 발끈",
-        "link": "https://news.joins.com/article/olink/23454107"
-    },
-    {
         "title": "\"마트 문 닫고 배송 중단\"… 유통가 덮친 코로나(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803796.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[단독] \"코로나 자가격리 전공의도 고발\" 한양대 교수 발끈",
+        "link": "https://news.joins.com/article/olink/23454107"
     },
     {
         "title": "문 잠그는 ‘섬’…완도군 코로나19로 외지인 통제",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
+    },
+    {
+        "title": "홍남기 “4차 추경 여부…확진자, 사회적 거리두기 3단계 격상 변수”",
+        "link": "http://www.etnews.com/20200828000097"
     }
 ];
