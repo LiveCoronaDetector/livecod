@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
     },
     {
-        "title": "'I don't want to see his face': Reactions in Tokyo to Abe resigning | AFP",
-        "link": "https://www.youtube.com/watch?v=v-VZR6ydQ0U"
-    },
-    {
         "title": "How Coronavirus Overpowered the World Health Organization",
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
+    },
+    {
+        "title": "Dollar slides on Fed shift; yen surges after Abe resignation",
+        "link": "https://www.yahoo.com/news/dollar-buoyed-yields-surge-jump-014336647.html"
     },
     {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
-        "title": "To fly again, travellers must first be certified free of Covid-19",
-        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
+        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
+        "link": "https://www.bbc.com/news/world-asia-china-53917315"
     }
 ];
