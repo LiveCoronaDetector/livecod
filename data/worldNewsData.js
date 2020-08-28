@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "Dollar slides on Fed shift; yen surges after Abe resignation",
-        "link": "https://www.yahoo.com/news/dollar-buoyed-yields-surge-jump-014336647.html"
+        "title": "Shinzo Abe resigns as Japanese prime minister",
+        "link": "https://www.youtube.com/watch?v=LHylxZJSBAg"
     },
     {
-        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
-        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
+        "title": "To fly again, travellers must first be certified free of Covid-19",
+        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "France Covid-19: Paris compulsory face-mask rule comes into force",
+        "link": "https://www.bbc.com/news/world-europe-53934952"
     }
 ];
