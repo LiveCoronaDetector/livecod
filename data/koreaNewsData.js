@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200828500171&wlog_tag3=naver"
     },
     {
-        "title": "아모레·이마트 또 폐쇄… 유통업계 '코로나 셧다운' 재확산",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803039.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "홍남기 “4차 추경 여부…확진자, 사회적 거리두기 3단계 격상 변수”",
+        "link": "http://www.etnews.com/20200828000097"
     },
     {
         "title": "[종합] \"코로나 재확산 막자\"…재계, 병상 부족 해결 나섰다",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6R6OQIZT"
     },
     {
-        "title": "광화문집회 확진자 300명 육박…교회 6곳에 'n차 전파'(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200828_0001146525&cID=10201&pID=10200"
+        "title": "서울신학교·진흥글로벌서 확진자 발생…\"신학교방문자 검사 요망\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200828_0001146605&cID=14001&pID=14000"
     },
     {
-        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
-        "link": "https://www.news1.kr/articles/?4040592"
+        "title": "아모레·이마트 또 폐쇄… 유통업계 '코로나 셧다운' 재확산",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803039.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959737.html"
     },
     {
+        "title": "술판 ‘파티 게하’…코로나19 방역도 뚫렸다",
+        "link": "http://www.fnnews.com/news/202008281505427038"
+    },
+    {
         "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
         "link": "https://www.news1.kr/articles/?4040592"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "밤사이 제주도 게스트하우스 주인·직원 확진",
         "link": "http://www.newsis.com/view/?id=NISX20200828_0001145953&cID=10813&pID=10800"
-    },
-    {
-        "title": "[속보] 제주 게스트하우스서 주인·직원 코로나 잇따라 확진",
-        "link": "https://www.hankyung.com/life/article/2020082869137"
     }
 ];
