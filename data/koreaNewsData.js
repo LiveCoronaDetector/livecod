@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6R7NFHIL"
     },
     {
+        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
+        "link": "https://www.news1.kr/articles/?4040592"
+    },
+    {
         "title": "코로나19 재유행에 전국 7천175개교 등교 못 해…또 최다 기록(종합)",
         "link": "http://yna.kr/AKR20200828099751530?did=1195m"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200828097200056?did=1195m"
     },
     {
-        "title": "[종합] \"코로나 재확산 막자\"…재계, 병상 부족 해결 나섰다",
-        "link": "http://www.inews24.com/view/1294468"
+        "title": "홍남기 “4차 추경 여부…확진자, 사회적 거리두기 3단계 격상 변수”",
+        "link": "http://www.etnews.com/20200828000097"
     },
     {
-        "title": "문 잠그는 ‘섬’…완도군 코로나19로 외지인 통제",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008281557011&code=620100"
-    },
-    {
-        "title": "광주서 밤새 코로나19 확진자 5명 발생...누적확진자 352명",
-        "link": "http://www.fnnews.com/news/202008280812282218"
+        "title": "“나 코로나 걸렸다” 역삼역 소동 70대 할머니 정체는…",
+        "link": "https://www.donga.com/news/article/all/20200828/102692762/2"
     }
 ];

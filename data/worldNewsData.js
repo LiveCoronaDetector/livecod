@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53934952"
     },
     {
-        "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
-        "link": "https://www.bbc.com/news/world-asia-india-53925071"
+        "title": "Covid turns tide on India's Ganesh festival traditions",
+        "link": "https://www.theguardian.com/global-development/2020/aug/28/covid-19-turns-tide-on-indias-ganesh-festival-traditions"
     },
     {
         "title": "Dissident Chinese artist made secret film about Wuhan during China’s coronavirus lockdown",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/index.html"
     },
     {
-        "title": "UK to give emergency approval to any Covid vaccine breakthrough",
-        "link": "https://www.theguardian.com/world/2020/aug/28/uk-emergency-approval-covid-vaccine-breakthrough"
+        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
+        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
         "title": "France faces new deadly wave of COVID-19",
         "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
     },
     {
-        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
-        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
+        "title": "To fly again, travellers must first be certified free of Covid-19",
+        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     }
 ];
