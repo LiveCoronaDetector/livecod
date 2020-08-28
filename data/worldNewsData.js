@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "August 27 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "France faces new deadly wave of COVID-19",
+        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
     }
 ];
