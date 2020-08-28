@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/index.html"
+    },
+    {
         "title": "Covid-19 Live Updates",
         "link": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html"
     },
     {
-        "title": "France faces new deadly wave of COVID-19",
-        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
-    },
-    {
-        "title": "To fly again, travellers must first be certified free of Covid-19",
-        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
+        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
+        "link": "https://www.bbc.com/news/world-asia-china-53917315"
     }
 ];

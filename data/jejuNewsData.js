@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4040592"
     },
     {
-        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
-    },
-    {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
         "link": "http://www.fnnews.com/news/202008272341499574"
     },
@@ -21,23 +17,27 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082810143652180?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
-    },
-    {
-        "title": "제주도 37번째 코로나 확진자, 36번째 확진자 접촉",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349733"
-    },
-    {
-        "title": "제주 서귀포서 코로나 확진자 2명 추가 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959715.html"
+        "title": "[속보] 제주 게스트하우스서 주인·직원 코로나 잇따라 확진",
+        "link": "https://www.hankyung.com/life/article/2020082869137"
     },
     {
         "title": "밤사이 제주도 게스트하우스 주인·직원 확진",
         "link": "http://www.newsis.com/view/?id=NISX20200828_0001145953&cID=10813&pID=10800"
     },
     {
-        "title": "[속보] 제주 게스트하우스서 주인·직원 코로나 잇따라 확진",
-        "link": "https://www.hankyung.com/life/article/2020082869137"
+        "title": "[2보] 제주 37번 확진자, 36번 확진자 운영 게스트하우스 직원",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=425932"
+    },
+    {
+        "title": "제주도 37번째 코로나 확진자, 36번째 확진자 접촉",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349733"
+    },
+    {
+        "title": "술판 ‘파티 게하’…코로나19 방역도 뚫렸다",
+        "link": "http://www.fnnews.com/news/202008281505427038"
+    },
+    {
+        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     }
 ];
