@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html"
     },
     {
-        "title": "Dissident Chinese artist made secret film about Wuhan during China’s coronavirus lockdown",
-        "link": "https://www.foxnews.com/world/dissident-chinese-artist-made-secret-film-about-wuhan-during-chinas-coronavirus-lockdown"
+        "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
     },
     {
-        "title": "Dollar slides on Fed shift; yen surges after Abe resignation",
-        "link": "https://www.yahoo.com/news/dollar-buoyed-yields-surge-jump-014336647.html"
+        "title": "How Coronavirus Overpowered the World Health Organization",
+        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
+    },
+    {
+        "title": "Shinzo Abe: Revisionist nationalist or pragmatic realist?",
+        "link": "https://www.bbc.com/news/world-asia-53950704"
     },
     {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "To fly again, travellers must first be certified free of Covid-19",
         "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
-    },
-    {
-        "title": "How Coronavirus Overpowered the World Health Organization",
-        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     }
 ];
