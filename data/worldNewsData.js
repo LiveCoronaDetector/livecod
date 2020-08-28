@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "Dollar slides on Fed shift; yen surges after Abe resignation",
-        "link": "https://www.reuters.com/article/us-global-forex/dollar-slides-on-fed-shift-yen-surges-after-abe-resignation-idUSKBN25O04X"
+        "link": "https://www.yahoo.com/news/dollar-buoyed-yields-surge-jump-014336647.html"
     },
     {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     },
     {
-        "title": "COVID-19 Response Approved by Most in 14 Nations with Advanced Economies",
-        "link": "https://www.pewresearch.org/global/2020/08/27/most-approve-of-national-response-to-covid-19-in-14-advanced-economies/"
+        "title": "How Coronavirus Overpowered the World Health Organization",
+        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     }
 ];

@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008281557011&code=620100"
     },
     {
-        "title": "[단독] \"코로나 자가격리 전공의도 고발\" 한양대 교수 발끈",
-        "link": "https://news.joins.com/article/olink/23454107"
-    },
-    {
         "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
+    },
+    {
+        "title": "[단독] \"코로나 자가격리 전공의도 고발\" 한양대 교수 발끈",
+        "link": "https://news.joins.com/article/olink/23454107"
     },
     {
         "title": "홍남기 “4차 추경 여부…확진자, 사회적 거리두기 3단계 격상 변수”",
