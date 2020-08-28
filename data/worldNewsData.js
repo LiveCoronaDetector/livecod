@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-china-53917315"
     },
     {
-        "title": "Covid: hundreds self-isolate after Norfolk poultry plant outbreak",
-        "link": "https://www.theguardian.com/world/2020/aug/27/covid-hundreds-self-isolate-after-norfolk-poultry-plant-outbreak"
+        "title": "COVID-19 Response Approved by Most in 14 Nations with Advanced Economies",
+        "link": "https://www.pewresearch.org/global/2020/08/27/most-approve-of-national-response-to-covid-19-in-14-advanced-economies/"
     }
 ];

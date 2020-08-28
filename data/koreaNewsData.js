@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008271516001&code=940100"
     },
     {
-        "title": "독일, 코로나19 재확산에 통제 강화…마스크 위반시 7만원(종합)",
-        "link": "http://yna.kr/AKR20200828002151082?did=1195m"
-    },
-    {
         "title": "이해찬·김태년 코로나 `음성`…국회 주말까지 셧다운",
         "link": "http://news.mk.co.kr/newsRead.php?no=884761&year=2020"
+    },
+    {
+        "title": "독일, 코로나19 재확산에 통제 강화…마스크 위반시 7만원(종합)",
+        "link": "http://yna.kr/AKR20200828002151082?did=1195m"
     },
     {
         "title": "LG트윈타워 어린이집서 코로나 확진…폐쇄 조치",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.newspim.com/news/view/20200828000065"
     },
     {
-        "title": "8월 서울 확진자 22% 경로 미확인…방역 무력화 '깜깜이' 증가",
-        "link": "http://yna.kr/AKR20200827166600004?did=1195m"
+        "title": "[속보] 전북 85번·86번 확진자 발생...남여 30대, 확진자 접촉",
+        "link": "http://www.fnnews.com/news/202008280838534033"
     },
     {
-        "title": "코로나에 휘청이는 한국…22년 만에 '역성장' 그림자",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=204319"
+        "title": "8월 서울 확진자 22% 경로 미확인…방역 무력화 '깜깜이' 증가",
+        "link": "http://yna.kr/AKR20200827166600004?did=1195m"
     }
 ];
