@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008272341499574"
     },
     {
-        "title": "밤사이 제주에 36·37번째 코로나19 확진자 발생",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014953965&code=61121111&cp=nv"
+        "title": "제주, 코로나19 36번 37번째 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082810143652180?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주 36번째 코로나19 확진자 발생…\"역학조사중\"",
@@ -21,14 +21,6 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082611072617074?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 하루밤새 확진자 2명 늘어…도내 37명 발생",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527174&ref=A"
-    },
-    {
-        "title": "제주도 37번째 코로나 확진자, 36번째 확진자 접촉",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349733"
-    },
-    {
         "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
     },
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "제주 여행 후 코로나19 확진 인천 주민은 주님의교회 교인",
         "link": "http://yna.kr/AKR20200827185200056?did=1195m"
+    },
+    {
+        "title": "제주도교육청, 코로나 확산 막아라",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349692"
+    },
+    {
+        "title": "제주도 37번째 코로나 확진자, 36번째 확진자 접촉",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349733"
     }
 ];
