@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959737.html"
     },
     {
-        "title": "코로나 확진자, 게하 투숙객 뒤섞여 '음주파티'…제주 '화약고'",
-        "link": "http://yna.kr/AKR20200828097200056?did=1195m"
-    },
-    {
         "title": "제주 36번 확진자 '루프탑정원 술파티' 참가에 제주도 '발칵'",
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
@@ -35,6 +31,10 @@ var jejuNewsData = [
     {
         "title": "제주도 코로나 23번째 확진자 퇴원···43일 만",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349782"
+    },
+    {
+        "title": "제주도·JDC 책임 공방…입주 업체 불안 호소",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527732&ref=A"
     },
     {
         "title": "[4보] 제주 36번 확진자 접촉자 55명으로 늘어",

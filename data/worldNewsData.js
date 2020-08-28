@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/aug/28/covid-19-turns-tide-on-indias-ganesh-festival-traditions"
     },
     {
-        "title": "Dissident Chinese artist made secret film about Wuhan during China’s coronavirus lockdown",
-        "link": "https://www.foxnews.com/world/dissident-chinese-artist-made-secret-film-about-wuhan-during-chinas-coronavirus-lockdown"
+        "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
-        "title": "France faces new deadly wave of COVID-19",
-        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
+        "title": "White House, Under Fire for Discouraging Coronavirus Testing, Says It Will Buy Millions of Test Kits",
+        "link": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html"
     },
     {
         "title": "To fly again, travellers must first be certified free of Covid-19",
-        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
+        "link": "https://news.google.com/articles/CAIiEOC05Y84Vo-DRtJHM5TfR1oqGQgEKhAIACoHCAowief2CjCJ2dUCMOySxwU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
