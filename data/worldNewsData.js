@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53925071"
     },
     {
-        "title": "Inside the company at the forefront of China's push to develop a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/08/26/asia/sinovac-coronavirus-china-vaccine-intl-hnk/index.html"
+        "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
     },
     {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-27-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "France faces new deadly wave of COVID-19",
+        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
     },
     {
         "title": "To fly again, travellers must first be certified free of Covid-19",
