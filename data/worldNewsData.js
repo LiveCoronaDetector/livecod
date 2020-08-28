@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
     },
     {
-        "title": "Coronavirus live updates: Germany's Merkel warns of tough winter; J&J to begin phase two vaccine trials in Europe next week",
-        "link": "https://www.cnbc.com/2020/08/28/coronavirus-live-updates.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/index.html"
     },
     {
         "title": "Covid turns tide on India's Ganesh festival traditions",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/dissident-chinese-artist-made-secret-film-about-wuhan-during-chinas-coronavirus-lockdown"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/index.html"
+        "title": "UK to give emergency approval to any Covid vaccine breakthrough",
+        "link": "https://www.theguardian.com/world/2020/aug/28/uk-emergency-approval-covid-vaccine-breakthrough"
+    },
+    {
+        "title": "To fly again, travellers must first be certified free of Covid-19",
+        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     },
     {
         "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
-    },
-    {
-        "title": "To fly again, travellers must first be certified free of Covid-19",
-        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
+        "title": "France faces new deadly wave of COVID-19",
+        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
     }
 ];

@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나 확진 제주 목사 부부, 온천 방문 숨겼다 들통…긴급방역",
-        "link": "http://yna.kr/AKR20200828182000056?did=1195m"
-    },
-    {
         "title": "[속보]제주 '게스트하우스'서 사장·직원 코로나 잇단 확진",
         "link": "https://www.news1.kr/articles/?4040491"
+    },
+    {
+        "title": "\"터질 게 터져\" 코로나확진 제주 게하 운영자, 투숙객 야간파티",
+        "link": "http://yna.kr/AKR20200828067400056?did=1195m"
     },
     {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014953965&code=61121111&cp=nv"
     },
     {
+        "title": "코로나 확진 제주 목사 부부, 온천 방문 거짓말 들통",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008280427&t=NN"
+    },
+    {
+        "title": "우려가 현실로, 제주 게하발 코로나 확진자 2명 발생...내부 파티도 벌여",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319460"
+    },
+    {
         "title": "제주도 코로나 23번째 확진자 퇴원···43일 만",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349782"
     },
     {
-        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
-    },
-    {
-        "title": "제주도·JDC 책임 공방…입주 업체 불안 호소",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527732&ref=A"
-    },
-    {
-        "title": "[4보] 제주 36번 확진자 접촉자 55명으로 늘어",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150144"
+        "title": "코로나 확진 목사 부부, 온천 방문 숨겨…제주도, 고발 방침",
+        "link": "https://www.news1.kr/articles/?4041345"
     }
 ];
