@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israeli-doctors-to-zap-covid-19-patients-back-to-health-in-new-treatment-640188"
     },
     {
-        "title": "Italy contacting visitors to Sardinian nightclub after Covid-19 cluster",
-        "link": "https://www.theguardian.com/world/2020/aug/27/italy-traces-visitors-to-sardinian-nightclub-after-covid-19-cluster"
+        "title": "France Covid-19: Paris compulsory face-mask rule comes into force",
+        "link": "https://www.bbc.com/news/world-europe-53934952"
     },
     {
-        "title": "India coronavirus: Covid strikes remote Greater Andamanese tribe",
-        "link": "https://www.bbc.com/news/world-asia-india-53925071"
+        "title": "Global report: India sets new national daily case record",
+        "link": "https://www.theguardian.com/world/2020/aug/28/global-report-india-sets-new-national-daily-case-record"
     },
     {
         "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
-        "title": "White House, Under Fire for Discouraging Coronavirus Testing, Says It Will Buy Millions of Test Kits",
-        "link": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html"
+        "title": "France faces new deadly wave of COVID-19",
+        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
     },
     {
         "title": "To fly again, travellers must first be certified free of Covid-19",
