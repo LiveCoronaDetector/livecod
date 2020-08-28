@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
-        "link": "http://www.fnnews.com/news/202008272341499574"
-    },
-    {
         "title": "밤사이 제주에 36·37번째 코로나19 확진자 발생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014953965&code=61121111&cp=nv"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주 게스트하우스, 코로나 추가 확진자 나와",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349788"
+    },
+    {
+        "title": "코로나 확진 목사 부부, 온천 방문 숨겨…제주도, 고발 방침",
+        "link": "https://www.news1.kr/articles/?4041345"
     }
 ];

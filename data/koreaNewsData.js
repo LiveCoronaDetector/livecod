@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008281557011&code=620100"
     },
     {
-        "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
-    },
-    {
         "title": "\"내가 코로나 환자\" 70대 역삼역서 소동...경찰 \"실제 확진자\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008280276&t=NN"
+    },
+    {
+        "title": "“나 코로나 걸렸다” 역삼역 소동 70대 할머니 정체는…",
+        "link": "https://www.donga.com/news/article/all/20200828/102692762/2"
     },
     {
         "title": "홍남기 “4차 추경 여부…확진자, 사회적 거리두기 3단계 격상 변수”",

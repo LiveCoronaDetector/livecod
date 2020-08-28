@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html"
     },
     {
-        "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
+        "title": "5 things to know for August 28: RNC, police, coronavirus, voting, Japan",
+        "link": "https://www.cnn.com/2020/08/28/us/five-things-august-28-trnd/index.html"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "Shinzo Abe resigns as Japanese prime minister",
-        "link": "https://www.youtube.com/watch?v=LHylxZJSBAg"
+        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
+        "link": "https://www.bbc.com/news/world-asia-china-53917315"
     },
     {
         "title": "To fly again, travellers must first be certified free of Covid-19",
