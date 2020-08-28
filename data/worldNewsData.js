@@ -5,24 +5,24 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/28/latest_news/1598596393_856037.html"
     },
     {
-        "title": "American tourist faces jail, $500G fine for violating Canada's coronavirus restrictions",
-        "link": "https://www.foxnews.com/travel/american-tourist-jail-500g-fine-for-violating-canadas-coronavirus-restrictions"
+        "title": "Live updates: After Hurricane Laura, disruption to coronavirus battle sparks concerns",
+        "link": "https://www.washingtonpost.com/nation/2020/08/28/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Israeli researcher: End of coronavirus peak only weeks away",
         "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
     },
     {
-        "title": "France Covid-19: Paris compulsory face-mask rule comes into force",
-        "link": "https://www.bbc.com/news/world-europe-53934952"
+        "title": "Coronavirus live updates: Germany's Merkel warns of tough winter; J&J to begin phase two vaccine trials in Europe next week",
+        "link": "https://www.cnbc.com/2020/08/28/coronavirus-live-updates.html"
     },
     {
         "title": "Covid turns tide on India's Ganesh festival traditions",
         "link": "https://www.theguardian.com/global-development/2020/aug/28/covid-19-turns-tide-on-indias-ganesh-festival-traditions"
     },
     {
-        "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313"
+        "title": "Dissident Chinese artist made secret film about Wuhan during China’s coronavirus lockdown",
+        "link": "https://www.foxnews.com/world/dissident-chinese-artist-made-secret-film-about-wuhan-during-chinas-coronavirus-lockdown"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
-        "title": "White House, Under Fire for Discouraging Coronavirus Testing, Says It Will Buy Millions of Test Kits",
-        "link": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
+        "link": "https://www.bbc.com/news/world-asia-china-53917315"
     },
     {
         "title": "To fly again, travellers must first be certified free of Covid-19",
-        "link": "https://news.google.com/articles/CAIiEOC05Y84Vo-DRtJHM5TfR1oqGQgEKhAIACoHCAowief2CjCJ2dUCMOySxwU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     }
 ];
