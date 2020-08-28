@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
-        "title": "White House, Under Fire for Discouraging Coronavirus Testing, Says It Will Buy Millions of Test Kits",
-        "link": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html"
+        "title": "France faces new deadly wave of COVID-19",
+        "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
     },
     {
-        "title": "To fly again, travellers must first be certified free of Covid-19",
-        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
+        "title": "UK to give emergency approval to any Covid vaccine breakthrough",
+        "link": "https://www.theguardian.com/world/2020/aug/28/uk-emergency-approval-covid-vaccine-breakthrough"
     }
 ];
