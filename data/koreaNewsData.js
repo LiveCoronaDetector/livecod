@@ -21,20 +21,20 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4040592"
     },
     {
-        "title": "[단독] 4명이라더니… 추가로 2명 확진 잇단 확진자에 전전긍긍하는 혜화경찰...",
-        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002623100029&ctcd=C02"
-    },
-    {
         "title": "문 잠그는 ‘섬’…완도군 코로나19로 외지인 통제",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008281557011&code=620100"
     },
     {
-        "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
+        "title": "[단독] 4명이라더니… 추가로 2명 확진 잇단 확진자에 전전긍긍하는 혜화경찰...",
+        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002623100029&ctcd=C02"
     },
     {
         "title": "프랑스 하루 사이 확진자 7천명 넘게 늘어…다섯달만에 최다",
         "link": "http://yna.kr/AKR20200829004400081?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
     },
     {
         "title": "코로나19 신규확진자 371명...17개 시도서 발생 전국 확산",
