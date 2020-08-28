@@ -5,16 +5,20 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959737.html"
     },
     {
+        "title": "코로나 확진자, 게하 투숙객 뒤섞여 '음주파티'…제주 '화약고'",
+        "link": "http://yna.kr/AKR20200828097200056?did=1195m"
+    },
+    {
         "title": "제주 36번 확진자 '루프탑정원 술파티' 참가에 제주도 '발칵'",
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보]제주 '게스트하우스'서 사장·직원 코로나 잇단 확진",
-        "link": "https://www.news1.kr/articles/?4040491"
+        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
+        "link": "https://www.news1.kr/articles/?4040592"
     },
     {
-        "title": "\"터질 게 터져\" 코로나확진 제주 게하 운영자, 투숙객 야간파티",
-        "link": "http://yna.kr/AKR20200828067400056?did=1195m"
+        "title": "밤사이 제주도 게스트하우스 주인·직원 확진",
+        "link": "http://www.newsis.com/view/?id=NISX20200828_0001145953&cID=10813&pID=10800"
     },
     {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008280427&t=NN"
     },
     {
-        "title": "우려가 현실로, 제주 게하발 코로나 확진자 2명 발생...내부 파티도 벌여",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319460"
-    },
-    {
         "title": "제주도 코로나 23번째 확진자 퇴원···43일 만",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349782"
     },
     {
-        "title": "코로나 확진 목사 부부, 온천 방문 숨겨…제주도, 고발 방침",
-        "link": "https://www.news1.kr/articles/?4041345"
+        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     }
 ];

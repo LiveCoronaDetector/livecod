@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/28/latest_news/1598596393_856037.html"
     },
     {
-        "title": "Live updates: After Hurricane Laura, disruption to coronavirus battle sparks concerns",
-        "link": "https://www.washingtonpost.com/nation/2020/08/28/coronavirus-covid-live-updates-us/"
+        "title": "America reacts to Donald Trump's RNC acceptance speech – US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2020/aug/28/donald-trump-republican-national-convention-rnc-coronavirus-covid-19-hurricane-laura-live-updates"
     },
     {
         "title": "Israeli researcher: End of coronavirus peak only weeks away",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/dissident-chinese-artist-made-secret-film-about-wuhan-during-chinas-coronavirus-lockdown"
     },
     {
-        "title": "UK to give emergency approval to any Covid vaccine breakthrough",
-        "link": "https://www.theguardian.com/world/2020/aug/28/uk-emergency-approval-covid-vaccine-breakthrough"
+        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
+        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
         "title": "To fly again, travellers must first be certified free of Covid-19",
         "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
     },
     {
-        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
-        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
-    },
-    {
         "title": "France faces new deadly wave of COVID-19",
         "link": "https://www.youtube.com/watch?v=2pKsvM4AE_k"
+    },
+    {
+        "title": "COVID-19 Response Approved by Most in 14 Nations with Advanced Economies",
+        "link": "https://www.pewresearch.org/global/2020/08/27/most-approve-of-national-response-to-covid-19-in-14-advanced-economies/"
     }
 ];

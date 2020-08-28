@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6051431,
-        "사망자수": 184967,
-        "완치자수": 3348934
+        "확진자수": 6055675,
+        "사망자수": 185051,
+        "완치자수": 3349080
     },
     {
         "Name": "브라질",
@@ -1153,6 +1153,14 @@ var marker = [
         "완치자수": 1333
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "확진자수": 1487,
+        "사망자수": 6,
+        "완치자수": 692
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
@@ -1175,14 +1183,6 @@ var marker = [
         "확진자수": 1455,
         "사망자수": 19,
         "완치자수": 1196
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "확진자수": 1410,
-        "사망자수": 6,
-        "완치자수": 692
     },
     {
         "Name": "라트비아",
@@ -1353,6 +1353,14 @@ var marker = [
         "완치자수": 102
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "확진자수": 453,
+        "사망자수": 5,
+        "완치자수": 232
+    },
+    {
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
@@ -1367,14 +1375,6 @@ var marker = [
         "확진자수": 431,
         "사망자수": 1,
         "완치자수": 345
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "확진자수": 424,
-        "사망자수": 4,
-        "완치자수": 232
     },
     {
         "Name": "Comoros",
