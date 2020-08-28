@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200828097200056?did=1195m"
     },
     {
+        "title": "\"마트 문 닫고 배송 중단\"… 유통가 덮친 코로나(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803796.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "이마트·홈플러스에서도 확진자 발생...대형마트도 ‘코로나 비상’",
         "link": "https://www.sedaily.com/NewsView/1Z6R709V9T"
     },
@@ -21,10 +25,6 @@ var koreaNewsData = [
         "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002623100029&ctcd=C02"
     },
     {
-        "title": "\"마트 문 닫고 배송 중단\"… 유통가 덮친 코로나(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803796.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "문 잠그는 ‘섬’…완도군 코로나19로 외지인 통제",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008281557011&code=620100"
     },
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
     },
     {
-        "title": "코로나19 신규확진자 371명...17개 시도서 발생 전국 확산",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082700151"
+        "title": "프랑스 하루 사이 확진자 7천명 넘게 늘어…다섯달만에 최다",
+        "link": "http://yna.kr/AKR20200829004400081?did=1195m"
     },
     {
-        "title": "\"내가 코로나 환자\" 70대 역삼역서 소동...경찰 \"실제 확진자\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008280276&t=NN"
+        "title": "코로나19 신규확진자 371명...17개 시도서 발생 전국 확산",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082700151"
     }
 ];

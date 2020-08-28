@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html"
     },
     {
-        "title": "5 things to know for August 28: RNC, police, coronavirus, voting, Japan",
-        "link": "https://www.cnn.com/2020/08/28/us/five-things-august-28-trnd/index.html"
+        "title": "Coronavirus update: US confirms first COVID reinfection as China shows vaccine progress",
+        "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/index.html"
     },
     {
-        "title": "To fly again, travellers must first be certified free of Covid-19",
-        "link": "https://www.scmp.com/comment/opinion/article/3098968/living-coronavirus-global-travel-cannot-restart-without-common"
+        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
+        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
-        "title": "France Covid-19: Paris compulsory face-mask rule comes into force",
-        "link": "https://www.bbc.com/news/world-europe-53934952"
+        "title": "India’s Covid-19 outbreak is now the world’s fastest-growing",
+        "link": "https://www.deccanherald.com/national/india-s-covid-19-outbreak-is-now-the-world-s-fastest-growing-879319.html"
     }
 ];

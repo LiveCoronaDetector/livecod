@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200828182000056?did=1195m"
     },
     {
+        "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
+        "link": "https://www.news1.kr/articles/?4041360"
+    },
+    {
         "title": "제주 38번째 코로나19 확진자 발생...\"루프탑정원 방문객\"",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426002"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349783"
     },
     {
-        "title": "제주 36번째 코로나19 확진자 발생…\"역학조사중\"",
-        "link": "https://www.news1.kr/articles/?4040147"
-    },
-    {
-        "title": "코로나 확진 목사 부부, 온천 방문 숨겨…제주도, 고발 방침",
-        "link": "https://www.news1.kr/articles/?4041345"
+        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     }
 ];
