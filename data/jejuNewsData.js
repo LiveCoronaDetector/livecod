@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4040491"
     },
     {
-        "title": "제주도 코로나 23번째 확진자 퇴원···43일 만",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349782"
-    },
-    {
         "title": "제주 코로나 37번째 확진자 동선…접촉자 15명",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349783"
+    },
+    {
+        "title": "\"게스트 하우스 10인 이상 모임금지\"…제주도 행정명령",
+        "link": "http://www.newsis.com/view/?id=NISX20200828_0001146797&cID=10813&pID=10800"
+    },
+    {
+        "title": "코로나 확진 제주 게스트하우스 운영자, '야간파티' 참여…직원 1명도 확진",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082820452604150"
     },
     {
         "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     },
     {
-        "title": "오늘 6시 현재 신규 확진자 216명…300명 또 넘어서나",
-        "link": "https://www.news1.kr/articles/?4041286"
-    },
-    {
-        "title": "제주서 밤사이 코로나19 확진자 1명 추가…36번째 확진자",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4526968&ref=A"
+        "title": "제주도 코로나 23번째 확진자 퇴원···43일 만",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349782"
     }
 ];

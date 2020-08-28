@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53925071"
     },
     {
-        "title": "Coronavirus: New virus hotspots emerge in Australia",
-        "link": "https://www.bbc.com/news/world-australia-53941348"
+        "title": "Dissident Chinese artist made secret film about Wuhan during China’s coronavirus lockdown",
+        "link": "https://www.foxnews.com/world/dissident-chinese-artist-made-secret-film-about-wuhan-during-chinas-coronavirus-lockdown"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
