@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803796.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
+        "link": "https://www.news1.kr/articles/?4041360"
+    },
+    {
+        "title": "프랑스 하루 사이 확진자 7천명 넘게 늘어…다섯달만에 최다",
+        "link": "http://yna.kr/AKR20200829004400081?did=1195m"
+    },
+    {
         "title": "이마트·홈플러스에서도 확진자 발생...대형마트도 ‘코로나 비상’",
         "link": "https://www.sedaily.com/NewsView/1Z6R709V9T"
     },
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6R7NFHIL"
     },
     {
-        "title": "코로나 확진 게스트하우스 사장·직원 '저녁파티'도 참석",
-        "link": "https://www.news1.kr/articles/?4040592"
+        "title": "제주 36번 확진자 '루프탑정원 술파티' 참가에 제주도 '발칵'",
+        "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
         "title": "문 잠그는 ‘섬’…완도군 코로나19로 외지인 통제",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008281557011&code=620100"
     },
     {
-        "title": "[단독] 4명이라더니… 추가로 2명 확진 잇단 확진자에 전전긍긍하는 혜화경찰...",
-        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002623100029&ctcd=C02"
-    },
-    {
-        "title": "프랑스 하루 사이 확진자 7천명 넘게 늘어…다섯달만에 최다",
-        "link": "http://yna.kr/AKR20200829004400081?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
     },
     {
-        "title": "코로나19 신규확진자 371명...17개 시도서 발생 전국 확산",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082700151"
+        "title": "[단독] 4명이라더니… 추가로 2명 확진 잇단 확진자에 전전긍긍하는 혜화경찰...",
+        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002623100029&ctcd=C02"
     }
 ];
