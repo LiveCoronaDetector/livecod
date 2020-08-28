@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803796.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보] 경북서 해외 유입 코로나19 확진자 1명↑…누계 1450명",
+        "link": "https://www.hankyung.com/life/article/2020082997127"
+    },
+    {
+        "title": "“9인은 파티 가능?” 제주 게스트하우스 운영자, 코로나 확진(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200829500004&wlog_tag3=naver"
+    },
+    {
         "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
         "link": "https://www.news1.kr/articles/?4041360"
     },
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6R7NFHIL"
     },
     {
-        "title": "제주 36번 확진자 '루프탑정원 술파티' 참가에 제주도 '발칵'",
-        "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "문 잠그는 ‘섬’…완도군 코로나19로 외지인 통제",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008281557011&code=620100"
     },
     {
-        "title": "코로나19 신규 확진자 371명…서울 145명·경기 112명·인천 27명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527152&ref=A"
-    },
-    {
-        "title": "[단독] 4명이라더니… 추가로 2명 확진 잇단 확진자에 전전긍긍하는 혜화경찰...",
-        "link": "http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002623100029&ctcd=C02"
+        "title": "[속보] 제주 게스트하우스서 코로나19 확진자 추가…총 3명",
+        "link": "https://www.hankyung.com/life/article/2020082997087"
     }
 ];

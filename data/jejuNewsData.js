@@ -9,6 +9,14 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주 38번째 코로나19 확진자 발생...\"루프탑정원 방문객\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426002"
+    },
+    {
+        "title": "“9인은 파티 가능?” 제주 게스트하우스 운영자, 코로나 확진(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200829500004&wlog_tag3=naver"
+    },
+    {
         "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
         "link": "https://www.news1.kr/articles/?4041360"
     },
@@ -25,19 +33,11 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200828182000056?did=1195m"
     },
     {
-        "title": "제주 38번째 코로나19 확진자 발생...\"루프탑정원 방문객\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426002"
-    },
-    {
         "title": "제주도 코로나 23번째 확진자 퇴원···43일 만",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349782"
     },
     {
         "title": "제주 코로나 37번째 확진자 동선…접촉자 15명",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349783"
-    },
-    {
-        "title": "제주 4일 연속 코로나19 환자 발생...36번째 확진자",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319452"
     }
 ];
