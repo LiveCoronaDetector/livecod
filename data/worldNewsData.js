@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
+        "title": "1st documented COVID-19 reinfection identified in the US",
+        "link": "https://www.youtube.com/watch?v=2Z_6aqhOyGg"
+    },
+    {
         "title": "How Coronavirus Overpowered the World Health Organization",
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
         "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Can Philippine shopping centres survive in a post-Covid world?",
-        "link": "https://www.scmp.com/week-asia/economics/article/3099333/can-philippines-shopping-centres-survive-post-coronavirus-world"
     }
 ];

@@ -13,31 +13,31 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "온천 방문 숨긴 목사부부에 제주도 '발칵'···해운대온천 추가 감염 없어 부...",
-        "link": "https://www.sedaily.com/NewsView/1Z6RN2BKKT"
-    },
-    {
-        "title": "제주 게스트하우스발 코로나19 확진자 또 발생...'총 4명'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319497"
-    },
-    {
-        "title": "제주 ‘게스트하우스’ 코로나 화약고 될라…3명 확진",
-        "link": "http://www.segye.com/content/html/2020/08/29/20200829505267.html?OutUrl=naver"
-    },
-    {
         "title": "코로나 확진 이어져 서귀포가 발칵",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/29/2020082900775.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
-        "link": "http://www.fnnews.com/news/202008272341499574"
     },
     {
         "title": "제주 '게스트하우스'발 코로나19 확진자 4명으로 늘어",
         "link": "http://yna.kr/AKR20200829061300056?did=1195m"
     },
     {
+        "title": "제주 게스트하우스 발 코로나19 확진자 또 나와…총 4명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528004&ref=A"
+    },
+    {
+        "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
+        "link": "http://www.fnnews.com/news/202008272341499574"
+    },
+    {
+        "title": "제주 ‘게스트하우스’ 코로나 화약고 될라…3명 확진",
+        "link": "http://www.segye.com/content/html/2020/08/29/20200829505267.html?OutUrl=naver"
+    },
+    {
         "title": "제주도 게스트하우스 불법파티 없앤다…의심업소 27곳 단속",
         "link": "http://news.mt.co.kr/mtview.php?no=2020082913532366147"
+    },
+    {
+        "title": "밤사이 제주에 36·37번째 코로나19 확진자 발생",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014953965&code=61121111&cp=nv"
     }
 ];

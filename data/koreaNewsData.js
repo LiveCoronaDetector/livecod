@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082901037.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "경남, 밤새 코로나19 10명 추가 확진…총 231명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147021&cID=10812&pID=10800"
-    },
-    {
         "title": "사랑제일교회 코로나19 누적확진자 1000명 넘었다",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671181&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "경남, 밤새 코로나19 10명 추가 확진…총 231명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147021&cID=10812&pID=10800"
     },
     {
         "title": "사랑제일교회 관련 누적 확진자 천 명 육박...\"n차 감염 곳곳\"",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900489.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 코로나19 완치자 1046명 혈장모집",
-        "link": "http://www.fnnews.com/news/202008291416102637"
+        "title": "홍천서 두번째 코로나19 확진자 발생…홍천아산병원 일부 폐쇄(종합)",
+        "link": "http://yna.kr/AKR20200829045151062?did=1195m"
     },
     {
         "title": "어제 하루 새 코로나19 사망자 5명…고령층 확진 증가세 '비상'",
