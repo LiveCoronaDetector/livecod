@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/2020/aug/29/theyre-not-social-distancing-us-college-towns-close-bars-as-infections-surge"
     },
     {
-        "title": "Israeli researcher: End of coronavirus peak only weeks away",
-        "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
+        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
+        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
     },
     {
         "title": "Europe's fight against Covid-19 shifts from hospitals to the streets",
         "link": "https://www.cnn.com/2020/08/29/europe/europe-covid-restrictions-intl/index.html"
     },
     {
-        "title": "India passes coronavirus milestone: The largest number of daily cases in the world",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-largest-daily-cases/2020/08/28/7cf61f0a-e7c1-11ea-bf44-0d31c85838a5_story.html"
+        "title": "August 28 coronavirus news",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/h_c87d6a662994e2c13576647085b43500"
     },
     {
         "title": "Coronavirus update: US confirms first COVID reinfection as China shows vaccine progress",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "COVID-19: India records world's highest spike of 77266 cases in a day | WION",
-        "link": "https://www.youtube.com/watch?v=R6v8KncQMTU"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
     },
     {
         "title": "These Scientists Are Still Studying The World’s Most Controversial Drug, But They Can’t Find Enough People To Take It",
