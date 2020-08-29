@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3099399/coronavirus-canada-confirms-planned-chinese-vaccine-trial-has"
     },
     {
-        "title": "Israeli researcher: End of coronavirus peak only weeks away",
-        "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
+        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
+        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
     },
     {
-        "title": "France records 'exponential' increase in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/29/france-records-exponential-increase-in-covid-19-cases"
+        "title": "Germany coronavirus: 'Anti-corona' protest in Berlin draws thousands",
+        "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
         "title": "Ukraine, Indonesia report record rise in coronavirus cases: Live",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "Can Philippine shopping centres survive in a post-Covid world?",
-        "link": "https://www.scmp.com/week-asia/economics/article/3099333/can-philippines-shopping-centres-survive-post-coronavirus-world"
+        "title": "Coronavirus: France sees 'exponential rise' in cases",
+        "link": "https://www.bbc.com/news/world-europe-53954562"
     }
 ];

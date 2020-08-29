@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008290943001&code=940100"
     },
     {
-        "title": "[속보] 대구사랑의교회 코로나 집단감염 발생…확진자 5명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020082920302947116"
-    },
-    {
         "title": "사랑제일교회 코로나19 누적확진자 1000명 넘었다",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671181&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "[속보] 대구사랑의교회 코로나 집단감염 발생…확진자 5명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082920302947116"
     },
     {
         "title": "장성서 코로나19 첫 확진자…요양시설 코호트 격리(종합)",
