@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
-        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
-        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "Coronavirus: France sees 'exponential rise' in cases",
-        "link": "https://www.bbc.com/news/world-europe-53954562"
+        "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
+        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "These Scientists Are Still Studying The World’s Most Controversial Drug, But They Can’t Find Enough People To Take It",
+        "link": "https://www.buzzfeednews.com/article/stephaniemlee/hydroxychloroquine-clinical-trials-prevention"
     }
 ];

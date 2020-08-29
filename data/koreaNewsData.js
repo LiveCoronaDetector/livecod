@@ -9,20 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200829045152062?did=1195m"
     },
     {
+        "title": "광화문 집회 관련 확진자 300명 넘었다…60대가 49%(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147206&cID=10201&pID=10200"
+    },
+    {
         "title": "사랑제일교회 코로나19 누적확진자 1000명 넘었다",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671181&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "\"식당 접촉자 찾습니다\" 청주시, 코로나19 확진자 3명 동선 공개(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147311&cID=10806&pID=10800"
-    },
-    {
         "title": "사랑제일교회 확진자 40명 추가···누적 확진 1000명 넘어",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008291615001&code=940100"
-    },
-    {
-        "title": "광화문 집회 관련 코로나19 확진자 300명 넘었다",
-        "link": "http://www.fnnews.com/news/202008291500019901"
     },
     {
         "title": "장성서 코로나19 첫 확진자…요양시설 코호트 격리(종합)",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900801.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "경남 창원과 거제서 코로나19 확진자 10명 추가 발생",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020082911232597047"
-    },
-    {
         "title": "사랑제일교회 관련 누적 확진자 천 명 육박...\"n차 감염 곳곳\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202008291159026409"
+    },
+    {
+        "title": "사랑제일교회 관련 확진자 1000명 넘었다",
+        "link": "http://www.fnnews.com/news/202008291527223058"
+    },
+    {
+        "title": "경남 창원과 거제서 코로나19 확진자 10명 추가 발생",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082911232597047"
     }
 ];
