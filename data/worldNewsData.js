@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
     },
     {
-        "title": "Can Philippine shopping centres survive in a post-Covid world?",
-        "link": "https://www.scmp.com/week-asia/economics/article/3099333/can-philippines-shopping-centres-survive-post-coronavirus-world"
-    },
-    {
         "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
         "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "These Scientists Are Still Studying The World’s Most Controversial Drug, But They Can’t Find Enough People To Take It",
+        "link": "https://www.buzzfeednews.com/article/stephaniemlee/hydroxychloroquine-clinical-trials-prevention"
     }
 ];
