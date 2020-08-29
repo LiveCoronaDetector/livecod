@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-largest-daily-cases/2020/08/28/7cf61f0a-e7c1-11ea-bf44-0d31c85838a5_story.html"
     },
     {
-        "title": "Coronavirus update: US confirms first COVID reinfection as China shows vaccine progress",
-        "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
+        "title": "How did COVID show up in the bathroom of a long-vacant apartment, and what does it mean?",
+        "link": "https://www.cbsnews.com/news/coronavirus-china-toilet-how-covid-showed-up-in-bathroom-long-vacant-apartment-what-it-means/"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
-        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
+        "title": "Can Philippine shopping centres survive in a post-Covid world?",
+        "link": "https://www.scmp.com/week-asia/economics/article/3099333/can-philippines-shopping-centres-survive-post-coronavirus-world"
     },
     {
-        "title": "These Scientists Are Still Studying The World’s Most Controversial Drug, But They Can’t Find Enough People To Take It",
-        "link": "https://www.buzzfeednews.com/article/stephaniemlee/hydroxychloroquine-clinical-trials-prevention"
+        "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
+        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
     }
 ];
