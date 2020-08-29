@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=R6v8KncQMTU"
     },
     {
-        "title": "These Scientists Are Still Studying The World’s Most Controversial Drug, But They Can’t Find Enough People To Take It",
-        "link": "https://www.buzzfeednews.com/article/stephaniemlee/hydroxychloroquine-clinical-trials-prevention"
+        "title": "India’s Covid-19 outbreak is now the world’s fastest-growing",
+        "link": "https://www.deccanherald.com/national/india-s-covid-19-outbreak-is-now-the-world-s-fastest-growing-879319.html"
     }
 ];

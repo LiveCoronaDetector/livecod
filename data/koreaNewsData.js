@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900489.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진 323명…여전히 300명대",
-        "link": "http://www.hani.co.kr/arti/society/society_general/959842.html"
+        "title": "코로나19 어제 323명 신규확진‥서울 확진자 124명(2보)",
+        "link": "http://www.fnnews.com/news/202008290945394306"
     },
     {
         "title": "어제 하루 새 코로나19 사망자 5명…고령층 확진 증가세 '비상'",
         "link": "http://yna.kr/AKR20200829027000530?did=1195m"
     },
     {
+        "title": "경남, 밤새 코로나19 10명 추가 확진…총 231명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147021&cID=10812&pID=10800"
+    },
+    {
+        "title": "코로나19 울산지역 확진자 3명 추가, '다단계 추정 업소서 감염'(종합)",
+        "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=771442"
+    },
+    {
+        "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 323명…지역발생 308명‧해외유입 15명",
+        "link": "http://www.inews24.com/view/1294634"
+    },
+    {
+        "title": "코로나19 확진자 이틀째 300명대…오늘밤 자정부터 수도권 거리두기 2.5단계",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=405012&class=33&grp="
+    },
+    {
         "title": "8월 코로나19 누적확진 5000명‥3월 이후 처음[종합]",
         "link": "http://www.fnnews.com/news/202008291003089988"
     },
     {
-        "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
-        "link": "https://www.news1.kr/articles/?4041360"
-    },
-    {
-        "title": "청주 코로나19 확진자 3명 발생…청주 58명·충북 123명째(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200829_0001146959&cID=10806&pID=10800"
-    },
-    {
-        "title": "코로나 확진자, 게하 투숙객 뒤섞여 '음주파티'…제주 '화약고'",
-        "link": "http://yna.kr/AKR20200828097200056?did=1195m"
-    },
-    {
-        "title": "\"마트 문 닫고 배송 중단\"… 유통가 덮친 코로나(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/28/2020082803796.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "프랑스 하루 사이 확진자 7천명 넘게 늘어…다섯달만에 최다",
-        "link": "http://yna.kr/AKR20200829004400081?did=1195m"
-    },
-    {
-        "title": "이마트·홈플러스에서도 확진자 발생...대형마트도 ‘코로나 비상’",
-        "link": "https://www.sedaily.com/NewsView/1Z6R709V9T"
+        "title": "경남 코로나 10명 확진…광화문 집회·모임 등 지역감염(종합)",
+        "link": "http://yna.kr/AKR20200829028401052?did=1195m"
     }
 ];
