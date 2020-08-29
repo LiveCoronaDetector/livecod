@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
-        "title": "Coronavirus update: US confirms first COVID reinfection as China shows vaccine progress",
-        "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
+        "title": "Surge in South Korea coronavirus cases sparks hospital bed shortage concerns",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-southkorea/surge-in-south-korea-coronavirus-cases-sparks-hospital-bed-shortage-concerns-idUSKBN25P08X"
     },
     {
         "title": "Coronavirus: Berlin protesters told to disperse",

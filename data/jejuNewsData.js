@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4041360"
     },
     {
+        "title": "제주도 코로나 위기, 29일 하루 4명 확진",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349791"
+    },
+    {
         "title": "[2보]제주 38번 확진자 호텔 수습생…루프탑정원 방문 이력",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2170717"
     },
     {
         "title": "제주 36번 확진자 '루프탑정원 술파티' 참가에 제주도 '발칵'",
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주도 코로나 위기, 29일 하루 4명 확진",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349791"
     },
     {
         "title": "제주 게스트하우스 발 확진자에 투숙객 1명 추가…총 4명",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/29/2020082900775.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "제주 38번 확진자 호텔 수습생 … 루프탑정원 방문 이력",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=328614"
+    },
+    {
         "title": "집·동호회·직장·학원·여행…코로나19 안전지대 없다",
         "link": "http://www.newsis.com/view/?id=NISX20200829_0001147290&cID=10201&pID=10200"
     },
     {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
         "link": "http://www.fnnews.com/news/202008272341499574"
-    },
-    {
-        "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
     }
 ];

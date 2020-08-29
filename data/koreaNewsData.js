@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900631.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "사랑제일교회 관련 누적 확진자 천 명 육박...\"n차 감염 곳곳\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202008291159026409"
+        "title": "성남 공군부대 병사 코로나19 확진…軍 누적 확진자 100명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527945&ref=A"
     }
 ];
