@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200829045152062?did=1195m"
     },
     {
-        "title": "[종합] 사랑제일교회 확진자 40명 추가…오늘 정오까지 누적 1018명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900801.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 대구사랑의교회 코로나 집단감염 발생…확진자 5명",
+        "link": "https://view.asiae.co.kr/article/2020082918533418188"
     },
     {
-        "title": "\"확진자 급증해 사망자 증가세 이어질 것…위험한 상황\"",
-        "link": "https://www.nocutnews.co.kr/news/5403298"
+        "title": "[종합] 사랑제일교회 확진자 40명 추가…오늘 정오까지 누적 1018명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900801.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "사랑제일교회 코로나19 누적확진자 1000명 넘었다",

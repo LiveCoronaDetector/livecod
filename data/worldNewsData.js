@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
+        "title": "Coronavirus Cases At--A-Glance On Friday August 28, 2020",
+        "link": "https://www.youtube.com/watch?v=02S3fbkjylM"
     },
     {
-        "title": "France's Macron says he set red lines with Turkey in eastern Mediterranean",
-        "link": "https://news.yahoo.com/frances-macron-says-set-red-181603618.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
