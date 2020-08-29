@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900489.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 323명···지역감염 308명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008290943001&code=940100"
-    },
-    {
         "title": "코로나19 어제 323명 신규확진‥서울 확진자 124명(2보)",
         "link": "http://www.fnnews.com/news/202008290945394306"
     },
@@ -21,8 +17,8 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020082911232597047"
     },
     {
-        "title": "경남, 밤새 코로나19 10명 추가 확진…총 231명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147021&cID=10812&pID=10800"
+        "title": "청주 코로나19 확진자 3명 발생…청주 58명·충북 123명째(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200829_0001146959&cID=10806&pID=10800"
     },
     {
         "title": "8월 코로나19 누적확진 5000명‥3월 이후 처음[종합]",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "프랑스 하루 사이 확진자 7천명 넘게 늘어…다섯달만에 최다",
         "link": "http://yna.kr/AKR20200829004400081?did=1195m"
+    },
+    {
+        "title": "부천, '깜깜이' 확진자 가족 등 6명 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200829030151065?did=1195m"
     }
 ];
