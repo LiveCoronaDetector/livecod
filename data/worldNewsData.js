@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/29/europe/europe-covid-restrictions-intl/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
+        "title": "India passes coronavirus milestone: The largest number of daily cases in the world",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-largest-daily-cases/2020/08/28/7cf61f0a-e7c1-11ea-bf44-0d31c85838a5_story.html"
     },
     {
         "title": "Coronavirus update: US confirms first COVID reinfection as China shows vaccine progress",
         "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
-        "title": "1st documented COVID-19 reinfection identified in the US",
-        "link": "https://www.youtube.com/watch?v=2Z_6aqhOyGg"
-    },
-    {
         "title": "How Coronavirus Overpowered the World Health Organization",
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "Coronavirus: France sees 'exponential rise' in cases",
-        "link": "https://www.bbc.com/news/world-europe-53954562"
+        "title": "France's Macron says he set red lines with Turkey in eastern Mediterranean",
+        "link": "https://news.yahoo.com/frances-macron-says-set-red-181603618.html"
     },
     {
         "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
         "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Malaysia extends coronavirus restrictions until December 31: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     }
 ];

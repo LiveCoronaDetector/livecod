@@ -17,12 +17,8 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/29/2020082900775.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주 '게스트하우스'발 코로나19 확진자 4명으로 늘어",
-        "link": "http://yna.kr/AKR20200829061300056?did=1195m"
-    },
-    {
-        "title": "제주 게스트하우스 발 코로나19 확진자 또 나와…총 4명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528004&ref=A"
+        "title": "제주 게스트하우스 발 확진자에 투숙객 1명 추가…총 4명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014957804&code=61121111&cp=nv"
     },
     {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
@@ -37,7 +33,11 @@ var jejuNewsData = [
         "link": "http://news.mt.co.kr/mtview.php?no=2020082913532366147"
     },
     {
-        "title": "밤사이 제주에 36·37번째 코로나19 확진자 발생",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014953965&code=61121111&cp=nv"
+        "title": "제주, 코로나19 36번 37번째 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082810143652180?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
     }
 ];
