@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/29/latest_news/1598685263_966141.html"
     },
     {
-        "title": "Doctors find possible case of Covid-19 reinfection in US",
-        "link": "https://www.cnn.com/2020/08/28/health/covid-19-reinfection-nevada/index.html"
+        "title": "'No social distancing': US college towns close bars as Covid-19 cases surge",
+        "link": "https://www.theguardian.com/us-news/2020/aug/29/theyre-not-social-distancing-us-college-towns-close-bars-as-infections-surge"
     },
     {
         "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
-        "title": "7000 new cases: Covid-19 in France spreading exponentially",
-        "link": "https://www.connexionfrance.com/French-news/France-s-7000-new-coronavirus-cases-shows-exponential-spread"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
+    },
+    {
+        "title": "France's Macron says he set red lines with Turkey in eastern Mediterranean",
+        "link": "https://news.yahoo.com/frances-macron-says-set-red-181603618.html"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",

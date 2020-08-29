@@ -17,12 +17,16 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/29/2020082900775.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주 게스트하우스 발 확진자에 투숙객 1명 추가…총 4명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014957804&code=61121111&cp=nv"
-    },
-    {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
         "link": "http://www.fnnews.com/news/202008272341499574"
+    },
+    {
+        "title": "제주 '게스트하우스'발 코로나19 확진자 4명으로 늘어",
+        "link": "http://yna.kr/AKR20200829061300056?did=1195m"
+    },
+    {
+        "title": "제주 게스트하우스 발 확진자에 투숙객 1명 추가…총 4명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014957804&code=61121111&cp=nv"
     },
     {
         "title": "집·동호회·직장·학원·여행…코로나19 안전지대 없다",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
         "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
-    },
-    {
-        "title": "제주 ‘게스트하우스’ 코로나 화약고 될라…3명 확진",
-        "link": "http://www.segye.com/content/html/2020/08/29/20200829505267.html?OutUrl=naver"
     }
 ];
