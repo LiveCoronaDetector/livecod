@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 ‘게스트하우스’ 코로나 화약고 될라…3명 확진",
-        "link": "http://www.segye.com/content/html/2020/08/29/20200829505267.html?OutUrl=naver"
-    },
-    {
         "title": "코로나 확진 이어져 서귀포가 발칵",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/29/2020082900775.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주 '게하'서 또 코로나19 확진…총 3명",
         "link": "http://yna.kr/AKR20200829011800056?did=1195m"
+    },
+    {
+        "title": "제주 ‘게스트하우스’ 코로나 화약고 될라…3명 확진",
+        "link": "http://www.segye.com/content/html/2020/08/29/20200829505267.html?OutUrl=naver"
     }
 ];
