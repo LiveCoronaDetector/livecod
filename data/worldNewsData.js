@@ -9,32 +9,32 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/28/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
-        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
+        "title": "The Coronavirus Hit Iran Hard in March. Now It's Being Ravaged by a Second Wave.",
+        "link": "https://foreignpolicy.com/2020/08/28/why-covid-19-is-ravaging-iran-again/"
     },
     {
-        "title": "Spanish police arrest Covid sceptic for inciting violence",
-        "link": "https://www.theguardian.com/world/2020/aug/28/spanish-police-arrest-man-who-spread-false-news-about-coronavirus"
+        "title": "Coronavirus: France sees 'exponential rise' in cases",
+        "link": "https://www.bbc.com/news/world-europe-53954562"
     },
     {
         "title": "India’s Covid Outbreak Is Now the World’s Fastest-Growing",
         "link": "https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html"
     },
     {
-        "title": "Coronavirus update: US confirms first COVID reinfection as China shows vaccine progress",
-        "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
+        "title": "'This pandemic cannot force Australians to retreat into provincialism': PM",
+        "link": "https://www.youtube.com/watch?v=v670gj5Sx88"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "Shinzo Abe resigns as Japanese prime minister",
-        "link": "https://www.youtube.com/watch?v=LHylxZJSBAg"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/index.html"
     },
     {
-        "title": "Staff in hazmat suits take passenger with Covid-19 off Ryanair flight",
-        "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
+        "title": "COVID-19: India records world's highest spike of 77266 cases in a day | WION",
+        "link": "https://www.youtube.com/watch?v=R6v8KncQMTU"
     },
     {
         "title": "India’s Covid-19 outbreak is now the world’s fastest-growing",
