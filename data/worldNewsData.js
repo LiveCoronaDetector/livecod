@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/28/latest_news/1598596393_856037.html"
     },
     {
-        "title": "Coronavirus model projects more than 317,000 US Covid-19 deaths by December",
+        "title": "Coronavirus vaccine trial results expected by end of year, US officials say",
         "link": "https://www.cnn.com/2020/08/28/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "The Coronavirus Hit Iran Hard in March. Now It's Being Ravaged by a Second Wave.",
-        "link": "https://foreignpolicy.com/2020/08/28/why-covid-19-is-ravaging-iran-again/"
+        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
+        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
     },
     {
         "title": "Coronavirus: France sees 'exponential rise' in cases",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html"
     },
     {
-        "title": "'This pandemic cannot force Australians to retreat into provincialism': PM",
-        "link": "https://www.youtube.com/watch?v=v670gj5Sx88"
+        "title": "Coronavirus Australia live: NSW issues new aged care restrictions",
+        "link": "https://www.news.com.au/lifestyle/health/health-problems/coronavirus-australia-live-victoria-qld-nsw-covid19-updates/live-coverage/8434e18be66880f7848fa595a724eaa7"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=R6v8KncQMTU"
     },
     {
-        "title": "India’s Covid-19 outbreak is now the world’s fastest-growing",
-        "link": "https://www.deccanherald.com/national/india-s-covid-19-outbreak-is-now-the-world-s-fastest-growing-879319.html"
+        "title": "NSW coronavirus cases increase by 13 as Sydney COVID cluster grows 'significantly'",
+        "link": "https://www.abc.net.au/news/2020-08-28/nsw-coronavirus-cases-grow-by-13/12605186"
     }
 ];
