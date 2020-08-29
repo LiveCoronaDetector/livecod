@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
     },
     {
-        "title": "France records 'exponential' increase in Covid-19 cases",
-        "link": "https://www.theguardian.com/world/2020/aug/29/france-records-exponential-increase-in-covid-19-cases"
+        "title": "Berlin police halt march protesting against German government's coronavirus response",
+        "link": "https://www.cnn.com/2020/08/29/europe/berlin-protest-coronavirus-police-grm-intl/index.html"
     },
     {
         "title": "Ukraine, Indonesia report record rise in coronavirus cases: Live",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "Can COVID-19 Be Defeated In Less Than 2 Years? | India Today Exclusive",
-        "link": "https://www.youtube.com/watch?v=SfvWSrJi8ag"
+        "title": "Can Philippine shopping centres survive in a post-Covid world?",
+        "link": "https://www.scmp.com/week-asia/economics/article/3099333/can-philippines-shopping-centres-survive-post-coronavirus-world"
     }
 ];
