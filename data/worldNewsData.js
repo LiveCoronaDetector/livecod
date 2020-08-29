@@ -13,11 +13,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/afghanistan-surge-polio-coronavirus-pandemic"
     },
     {
-        "title": "Germany coronavirus: 'Anti-corona' protest in Berlin draws thousands",
+        "title": "Germany coronavirus: 'Anti-corona' protests in Berlin draws thousands",
         "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
-        "title": "Ukraine, Indonesia report record rise in coronavirus cases: Live",
+        "title": "Istanbul bans indoor weddings as coronavirus cases rise: Live",
         "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
-        "title": "Berlin police halt Covid sceptics protest for not observing social distancing | AFP",
-        "link": "https://www.youtube.com/watch?v=nUMPheFqM_4"
+        "title": "Coronavirus: Berlin protesters told to disperse",
+        "link": "https://www.bbc.com/news/live/world-53957452"
     },
     {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
