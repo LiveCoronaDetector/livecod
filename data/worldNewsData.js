@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/28/health/covid-19-reinfection-nevada/index.html"
     },
     {
-        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
-        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
+        "title": "Israeli researcher: End of coronavirus peak only weeks away",
+        "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
     },
     {
-        "title": "Coronavirus: France sees 'exponential rise' in cases",
-        "link": "https://www.bbc.com/news/world-europe-53954562"
+        "title": "Coronavirus cases in some European countries are rising again, but with fewer deaths. For now.",
+        "link": "https://www.washingtonpost.com/world/europe/europe-coronavirus-spain-france-italy/2020/08/28/34c28f08-e7a7-11ea-bf44-0d31c85838a5_story.html"
     },
     {
         "title": "India sets global record for number of new Covid-19 cases reported in a day",
         "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/h_c87d6a662994e2c13576647085b43500"
     },
     {
-        "title": "Dissident Chinese artist made secret film about Wuhan during China’s coronavirus lockdown",
-        "link": "https://www.foxnews.com/world/dissident-chinese-artist-made-secret-film-about-wuhan-during-chinas-coronavirus-lockdown"
+        "title": "Coronavirus update: US confirms first COVID reinfection as China shows vaccine progress",
+        "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.deccanherald.com/national/india-s-covid-19-outbreak-is-now-the-world-s-fastest-growing-879319.html"
     },
     {
-        "title": "Spanish police arrest COVID-19 pandemic-denier for inciting hatred",
-        "link": "https://www.channelnewsasia.com/news/world/spain-police-arrest-covid-19-pandemic-denier-13063770"
+        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
+        "link": "https://www.bbc.com/news/world-asia-china-53917315"
     }
 ];

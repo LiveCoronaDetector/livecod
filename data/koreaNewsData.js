@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900489.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
-        "link": "https://www.news1.kr/articles/?4041360"
+        "title": "[속보] 코로나19 신규 확진자 323명···지역감염 308명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008290943001&code=940100"
     },
     {
         "title": "어제 하루 새 코로나19 사망자 5명…고령층 확진 증가세 '비상'",
