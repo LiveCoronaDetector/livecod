@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
-        "title": "Coronavirus Cases At--A-Glance On Friday August 28, 2020",
-        "link": "https://www.youtube.com/watch?v=02S3fbkjylM"
+        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
+        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
-        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: France sees 'exponential rise' in cases",
+        "link": "https://www.bbc.com/news/world-europe-53954562"
     }
 ];
