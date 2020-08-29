@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4041360"
     },
     {
+        "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
+    },
+    {
         "title": "교회발 확진자 연쇄 발생…주말 분수령",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4527825&ref=A"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "정은경 \"다음주에 확진자 하루 2,000명까지 늘 수도\"",
         "link": "https://www.sedaily.com/NewsView/1Z6R7NFHIL"
-    },
-    {
-        "title": "제주 36번 확진자 '루프탑정원 술파티' 참가에 제주도 '발칵'",
-        "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
         "title": "문 잠그는 ‘섬’…완도군 코로나19로 외지인 통제",

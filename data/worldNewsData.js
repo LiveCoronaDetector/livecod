@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
     },
     {
-        "title": "They bought a vacation home in Italy. Then Covid-19 shut it down",
-        "link": "https://www.cnn.com/travel/article/vacation-home-italy-covid-19/index.html"
+        "title": "Spanish police arrest Covid sceptic for inciting violence",
+        "link": "https://www.theguardian.com/world/2020/aug/28/spanish-police-arrest-man-who-spread-false-news-about-coronavirus"
     },
     {
         "title": "India’s Covid Outbreak Is Now the World’s Fastest-Growing",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/27/passengers-removed-from-ryanair-flight-moments-before-take-off-after-positive-covid-19-results"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "India’s Covid-19 outbreak is now the world’s fastest-growing",
+        "link": "https://www.deccanherald.com/national/india-s-covid-19-outbreak-is-now-the-world-s-fastest-growing-879319.html"
     }
 ];
