@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
+    },
+    {
         "title": "How Coronavirus Overpowered the World Health Organization",
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
+        "title": "Germany coronavirus: 'Anti-corona' protest in Berlin draws thousands",
+        "link": "https://www.bbc.com/news/world-europe-53959552"
+    },
+    {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
         "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
-    },
-    {
-        "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
-        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "These Scientists Are Still Studying The World’s Most Controversial Drug, But They Can’t Find Enough People To Take It",
-        "link": "https://www.buzzfeednews.com/article/stephaniemlee/hydroxychloroquine-clinical-trials-prevention"
     }
 ];

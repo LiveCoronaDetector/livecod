@@ -21,16 +21,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200829027000530?did=1195m"
     },
     {
-        "title": "\"확진자 급증해 사망자 증가세 이어질 것…위험한 상황\"",
-        "link": "https://www.nocutnews.co.kr/news/5403298"
-    },
-    {
         "title": "사랑제일교회 코로나19 누적확진자 1000명 넘었다",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671181&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "사랑제일교회 관련 확진자 1000명 넘었다",
-        "link": "http://www.fnnews.com/news/202008291527223058"
+        "title": "[종합] 코로나19 완치자 1046명 혈장모집",
+        "link": "http://www.fnnews.com/news/202008291416102637"
     },
     {
         "title": "경남 창원과 거제서 코로나19 확진자 10명 추가 발생",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "정부 \"코로나 확산세 꺾을 마지막 기회…8일간 배수진\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900631.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "사랑제일교회 관련 누적 확진자 천 명 육박...\"n차 감염 곳곳\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008291159026409"
     }
 ];

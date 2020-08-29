@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200829_0001147290&cID=10201&pID=10200"
     },
     {
-        "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
-        "link": "http://www.fnnews.com/news/202008272341499574"
+        "title": "게스트하우스·온천…제주도, 하룻새 4명 코로나19 발병",
+        "link": "http://www.fnnews.com/news/202008300330060448"
     },
     {
         "title": "제주 코로나 확진자 4명 추가 발생...'n차 감염' 현실화",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426036"
     },
     {
-        "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
+        "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
+        "link": "http://www.fnnews.com/news/202008272341499574"
     }
 ];
