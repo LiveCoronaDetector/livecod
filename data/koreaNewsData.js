@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200829045251530?did=1195m"
     },
     {
-        "title": "홍콩 \"전시민 코로나 검사\"…725만 생체정보 中 넘어가나",
-        "link": "https://news.imaeil.com/International/2020082921091815343"
-    },
-    {
         "title": "이낙연 \"코로나 전쟁에서 승리하겠다\"…당대표 수락하며 울먹(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082901118.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "정부 \"코로나 확산세 꺾을 마지막 기회…8일간 배수진\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900631.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "사랑제일교회 관련 누적 확진자 천 명 육박...\"n차 감염 곳곳\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008291159026409"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3099399/coronavirus-canada-confirms-planned-chinese-vaccine-trial-has"
     },
     {
-        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
-        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
+        "title": "'Amid COVID-19, Israel told us we could stay but our baby has to leave'",
+        "link": "https://www.haaretz.com/israel-news/.premium-amid-covid-19-israel-told-us-we-could-stay-but-our-baby-has-to-leave-1.9110170"
     },
     {
         "title": "Berlin police halt march protesting against German government's coronavirus response",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-china-toilet-how-covid-showed-up-in-bathroom-long-vacant-apartment-what-it-means/"
     },
     {
-        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
-        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
+    },
+    {
+        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
+        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
     },
     {
         "title": "Can Philippine shopping centres survive in a post-Covid world?",
