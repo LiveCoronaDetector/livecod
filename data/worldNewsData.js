@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/28/latest_news/1598596393_856037.html"
+        "link": "https://en.as.com/en/2020/08/29/latest_news/1598685263_966141.html"
     },
     {
         "title": "'No social distancing': US college towns close bars as Covid-19 cases surge",

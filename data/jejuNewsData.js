@@ -13,14 +13,6 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "온천 방문 숨긴 목사부부에 제주도 '발칵'···해운대온천 추가 감염 없어 부...",
-        "link": "https://www.sedaily.com/NewsView/1Z6RN2BKKT"
-    },
-    {
-        "title": "제주 ‘게스트하우스’ 코로나 화약고 될라…3명 확진",
-        "link": "http://www.segye.com/content/html/2020/08/29/20200829505267.html?OutUrl=naver"
-    },
-    {
         "title": "코로나 확진 이어져 서귀포가 발칵",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/29/2020082900775.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "제주도 게스트하우스 불법파티 없앤다…의심업소 27곳 단속",
         "link": "http://news.mt.co.kr/mtview.php?no=2020082913532366147"
+    },
+    {
+        "title": "코로나 확진 제주 목사 부부, 온천 방문 숨겼다 들통…긴급방역",
+        "link": "http://yna.kr/AKR20200828182000056?did=1195m"
+    },
+    {
+        "title": "제주 '게하'서 또 코로나19 확진…총 3명",
+        "link": "http://yna.kr/AKR20200829011800056?did=1195m"
     }
 ];
