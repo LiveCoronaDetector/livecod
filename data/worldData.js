@@ -20,9 +20,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 3461240,
+        "확진자수": 3463972,
         "사망자수": 62713,
-        "완치자수": 2647538
+        "완치자수": 2648998
     },
     {
         "Name": "러시아",
@@ -948,9 +948,9 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 3410,
+        "확진자수": 3411,
         "사망자수": 58,
-        "완치자수": 3237
+        "완치자수": 3242
     },
     {
         "Name": "Mayotte",
@@ -1337,20 +1337,20 @@ var marker = [
         "완치자수": 183
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 490,
+        "사망자수": 3,
+        "완치자수": 148
+    },
+    {
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
         "확진자수": 487,
         "사망자수": 7,
         "완치자수": 462
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 482,
-        "사망자수": 3,
-        "완치자수": 102
     },
     {
         "Name": "French Polynesia",
@@ -1468,9 +1468,9 @@ var marker = [
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "확진자수": 184,
+        "확진자수": 195,
         "사망자수": 0,
-        "완치자수": 119
+        "완치자수": 120
     },
     {
         "Name": "Bermuda",
