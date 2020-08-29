@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3099399/coronavirus-canada-confirms-planned-chinese-vaccine-trial-has"
     },
     {
-        "title": "'Amid COVID-19, Israel told us we could stay but our baby has to leave'",
-        "link": "https://www.haaretz.com/israel-news/.premium-amid-covid-19-israel-told-us-we-could-stay-but-our-baby-has-to-leave-1.9110170"
+        "title": "The Coronavirus Hit Iran Hard in March. Now It's Being Ravaged by a Second Wave.",
+        "link": "https://foreignpolicy.com/2020/08/28/why-covid-19-is-ravaging-iran-again/"
     },
     {
         "title": "Berlin police halt march protesting against German government's coronavirus response",
@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
-        "title": "How did COVID show up in the bathroom of a long-vacant apartment, and what does it mean?",
-        "link": "https://www.cbsnews.com/news/coronavirus-china-toilet-how-covid-showed-up-in-bathroom-long-vacant-apartment-what-it-means/"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
+        "title": "Coronavirus update: US confirms first COVID reinfection as China shows vaccine progress",
+        "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Can Philippine shopping centres survive in a post-Covid world?",
         "link": "https://www.scmp.com/week-asia/economics/article/3099333/can-philippines-shopping-centres-survive-post-coronavirus-world"
+    },
+    {
+        "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
+        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
     }
 ];

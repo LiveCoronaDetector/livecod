@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008272341499574"
     },
     {
-        "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
+        "title": "제주 코로나 확진자 4명 추가 발생...'n차 감염' 현실화",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426036"
     },
     {
-        "title": "제주, 코로나19 36번 37번째 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020082810143652180?utm_source=naver&utm_medium=search"
+        "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
     }
 ];
