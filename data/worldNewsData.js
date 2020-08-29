@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/us-news/2020/aug/29/theyre-not-social-distancing-us-college-towns-close-bars-as-infections-surge"
     },
     {
-        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
-        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
+        "title": "Israeli researcher: End of coronavirus peak only weeks away",
+        "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
     },
     {
         "title": "Europe's fight against Covid-19 shifts from hospitals to the streets",
