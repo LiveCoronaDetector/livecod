@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-southkorea/surge-in-south-korea-coronavirus-cases-sparks-hospital-bed-shortage-concerns-idUSKBN25P08X"
     },
     {
-        "title": "Coronavirus: Berlin protesters told to disperse",
-        "link": "https://www.bbc.com/news/live/world-53957452"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
+    },
+    {
+        "title": "Tens of Thousands March Against Pandemic Restrictions in Berlin",
+        "link": "https://www.youtube.com/watch?v=pvy8gdxAfyo"
     },
     {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
-    },
-    {
-        "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
-        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
     }
 ];

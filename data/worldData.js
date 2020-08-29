@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6127883,
-        "사망자수": 186684,
-        "완치자수": 3389141
+        "확진자수": 6129172,
+        "사망자수": 186688,
+        "완치자수": 3389445
     },
     {
         "Name": "브라질",
@@ -905,6 +905,14 @@ var marker = [
         "완치자수": 2971
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "확진자수": 3843,
+        "사망자수": 16,
+        "완치자수": 1904
+    },
+    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
@@ -927,14 +935,6 @@ var marker = [
         "확진자수": 3760,
         "사망자수": 22,
         "완치자수": 2078
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "확진자수": 3742,
-        "사망자수": 16,
-        "완치자수": 1866
     },
     {
         "Name": "Tunisia",
@@ -1473,20 +1473,20 @@ var marker = [
         "완치자수": 135
     },
     {
+        "Name": "Barbados",
+        "Name_ch": "",
+        "Name_en": "Barbados",
+        "확진자수": 170,
+        "사망자수": 7,
+        "완치자수": 141
+    },
+    {
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
         "확진자수": 168,
         "사망자수": 9,
         "완치자수": 151
-    },
-    {
-        "Name": "Barbados",
-        "Name_ch": "",
-        "Name_en": "Barbados",
-        "확진자수": 166,
-        "사망자수": 7,
-        "완치자수": 141
     },
     {
         "Name": "Brunei",
