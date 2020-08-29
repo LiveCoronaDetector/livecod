@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/28/latest_news/1598596393_856037.html"
     },
     {
-        "title": "Coronavirus vaccine trial results expected by end of year, US officials say",
-        "link": "https://www.cnn.com/2020/08/28/health/us-coronavirus-friday/index.html"
+        "title": "Doctors find possible case of Covid-19 reinfection in US",
+        "link": "https://www.cnn.com/2020/08/28/health/covid-19-reinfection-nevada/index.html"
     },
     {
         "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html"
     },
     {
-        "title": "Coronavirus Australia live: NSW issues new aged care restrictions",
-        "link": "https://www.news.com.au/lifestyle/health/health-problems/coronavirus-australia-live-victoria-qld-nsw-covid19-updates/live-coverage/8434e18be66880f7848fa595a724eaa7"
+        "title": "New coronavirus cases dip below 100 in Victoria",
+        "link": "https://www.youtube.com/watch?v=e-csjTyl-xU"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=R6v8KncQMTU"
     },
     {
-        "title": "NSW coronavirus cases increase by 13 as Sydney COVID cluster grows 'significantly'",
-        "link": "https://www.abc.net.au/news/2020-08-28/nsw-coronavirus-cases-grow-by-13/12605186"
+        "title": "Coronavirus Victoria: New cases in double digits for first time in almost two months",
+        "link": "https://au.news.yahoo.com/coronavirus-victoria-new-cases-in-double-digits-in-almost-two-months-225440637.html"
     }
 ];

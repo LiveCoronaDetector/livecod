@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주 38번째 코로나19 확진자 발생...\"루프탑정원 방문객\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426002"
+    },
+    {
         "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
         "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
     },
     {
         "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
         "link": "http://www.fnnews.com/news/202008272341499574"
-    },
-    {
-        "title": "“9인은 파티 가능?” 제주 게스트하우스 운영자, 코로나 확진(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200829500004&wlog_tag3=naver"
     },
     {
         "title": "밤사이 제주에 36·37번째 코로나19 확진자 발생",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200828182000056?did=1195m"
     },
     {
-        "title": "제주 38번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020082902564478807?utm_source=naver&utm_medium=search"
+        "title": "“9인은 파티 가능?” 제주 게스트하우스 운영자, 코로나 확진(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200829500004&wlog_tag3=naver"
     },
     {
-        "title": "제주 '게하'서 또 코로나19 확진…총 3명",
-        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23859672"
+        "title": "온천 방문 숨긴 목사부부에 제주도 '발칵'···해운대온천 추가 감염 없어 부...",
+        "link": "https://www.sedaily.com/NewsView/1Z6RN2BKKT"
     }
 ];

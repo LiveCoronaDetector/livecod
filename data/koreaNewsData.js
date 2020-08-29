@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900489.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
-        "link": "https://www.news1.kr/articles/?4041360"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진 323명 추가…4일째 300명 이상",
-        "link": "https://www.donga.com/news/article/all/20200829/102699198/1"
-    },
-    {
-        "title": "[속보] 코로나 어제 323명 신규확진…이틀째 300명대",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/29/2020082900487.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "[속보] 코로나 'n차' 감염 확산…신규 확진 광주 5명·전남 6명",
-        "link": "https://view.asiae.co.kr/article/2020082908564534507"
-    },
-    {
         "title": "코로나19 어제 323명 신규확진‥서울 확진자 124명(2보)",
         "link": "http://www.fnnews.com/news/202008290945394306"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 323명…여전히 300명대",
-        "link": "http://www.hani.co.kr/arti/society/society_general/959842.html"
     },
     {
         "title": "청주 코로나19 확진자 3명 발생…청주 58명·충북 123명째(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200829_0001146959&cID=10806&pID=10800"
     },
     {
+        "title": "어제 하루 새 코로나19 사망자 5명…고령층 확진 증가세 '비상'",
+        "link": "http://yna.kr/AKR20200829027000530?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진 323명 추가…4일째 300명 이상",
+        "link": "https://www.donga.com/news/article/all/20200829/102699198/1"
+    },
+    {
+        "title": "[속보] 휴가 다녀온 공군병사 코로나19 확진…軍 누적 확진자 100명",
+        "link": "https://www.hankyung.com/life/article/2020082999797"
+    },
+    {
+        "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
+    },
+    {
+        "title": "코로나19 신규확진 323명…이틀 연속 300명대",
+        "link": "https://www.nocutnews.co.kr/news/5403220"
+    },
+    {
         "title": "8월 코로나19 누적확진 5000명‥3월 이후 처음[종합]",
         "link": "http://www.fnnews.com/news/202008291003089988"
     },
     {
-        "title": "코로나 확진자, 게하 투숙객 뒤섞여 '음주파티'…제주 '화약고'",
-        "link": "http://yna.kr/AKR20200828097200056?did=1195m"
+        "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
+        "link": "https://www.news1.kr/articles/?4041360"
     }
 ];
