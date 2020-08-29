@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200829045251530?did=1195m"
     },
     {
-        "title": "“사망자 계속 늘어날 듯… 60대 이상 고령 확진자 多 우려”",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082901037.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "광화문 집회 관련 코로나19 확진자 300명 넘었다",
+        "link": "http://www.fnnews.com/news/202008291500019901"
     },
     {
-        "title": "[종합] 코로나19 완치자 1046명 혈장모집",
-        "link": "http://www.fnnews.com/news/202008291416102637"
+        "title": "“사망자 계속 늘어날 듯… 60대 이상 고령 확진자 多 우려”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082901037.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "경남, 밤새 코로나19 10명 추가 확진…총 231명(종합)",
@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671181&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
+        "title": "사랑제일교회 관련 누적 확진자 천 명 육박...\"n차 감염 곳곳\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008291159026409"
+    },
+    {
         "title": "이낙연 \"코로나 전쟁에서 승리하겠다\"…당대표 수락하며 울먹(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082901118.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900489.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[종합] 코로나19 완치자 1046명 혈장모집",
+        "link": "http://www.fnnews.com/news/202008291416102637"
+    },
+    {
         "title": "어제 하루 새 코로나19 사망자 5명…고령층 확진 증가세 '비상'",
         "link": "http://yna.kr/AKR20200829027000530?did=1195m"
-    },
-    {
-        "title": "정부 \"코로나 확산세 꺾을 마지막 기회…8일간 배수진\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900631.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "울산 여성 3명 코로나19 확진…안산 확진자 접촉(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147201&cID=10814&pID=10800"
     }
 ];

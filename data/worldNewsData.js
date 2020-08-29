@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
     },
     {
-        "title": "UK to give emergency approval to any Covid vaccine breakthrough",
-        "link": "https://www.theguardian.com/world/2020/aug/28/uk-emergency-approval-covid-vaccine-breakthrough"
+        "title": "Can Philippine shopping centres survive in a post-Covid world?",
+        "link": "https://www.scmp.com/week-asia/economics/article/3099333/can-philippines-shopping-centres-survive-post-coronavirus-world"
     }
 ];
