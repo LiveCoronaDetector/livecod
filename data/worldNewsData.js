@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/29/latest_news/1598685263_966141.html"
     },
     {
-        "title": "Canada confirms Chinese vaccine trial has been scrapped",
-        "link": "https://www.scmp.com/news/china/science/article/3099399/coronavirus-canada-confirms-planned-chinese-vaccine-trial-has"
+        "title": "Coronavirus cases climb in the Midwest as more states report growing outbreaks",
+        "link": "https://www.cnbc.com/2020/08/29/coronavirus-cases-climb-in-the-midwest-as-more-states-report-growing-outbreaks.html"
     },
     {
         "title": "Afghanistan, Pakistan see surge in polio cases amid coronavirus pandemic",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
-        "title": "South Korea low on hospital beds as second COVID-19 wave hits",
-        "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
+        "title": "'The reversal of gentrification': how Covid-19 could remake Australia's cities",
+        "link": "https://www.theguardian.com/business/2020/aug/30/the-reversal-of-gentrification-how-covid-19-could-remake-australias-cities"
     },
     {
-        "title": "Tens of Thousands March Against Pandemic Restrictions in Berlin",
-        "link": "https://www.youtube.com/watch?v=pvy8gdxAfyo"
-    },
-    {
-        "title": "Ga. DPH reports almost 2,300 new cases of COVID-19",
-        "link": "https://www.wtoc.com/2020/08/29/ga-dph-reports-almost-new-cases-covid-/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
     },
     {
         "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
         "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
+    },
+    {
+        "title": "Coronavirus: Berlin protesters told to disperse",
+        "link": "https://www.bbc.com/news/live/world-53957452"
     },
     {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
