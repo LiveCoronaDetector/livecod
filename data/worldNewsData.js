@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/29/latest_news/1598685263_966141.html"
     },
     {
-        "title": "Coronavirus cases climb in the Midwest as more states report growing outbreaks",
-        "link": "https://www.cnbc.com/2020/08/29/coronavirus-cases-climb-in-the-midwest-as-more-states-report-growing-outbreaks.html"
+        "title": "Canada confirms Chinese vaccine trial has been scrapped",
+        "link": "https://www.scmp.com/news/china/science/article/3099399/coronavirus-canada-confirms-planned-chinese-vaccine-trial-has"
     },
     {
         "title": "Afghanistan, Pakistan see surge in polio cases amid coronavirus pandemic",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
     },
     {
-        "title": "Emmanuel Macron says Lebanon on the risk of Civil War if not helped in crisis | World News",
-        "link": "https://www.youtube.com/watch?v=sB2VECv1zpQ"
+        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
+        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
     },
     {
         "title": "Coronavirus: Berlin protesters told to disperse",
