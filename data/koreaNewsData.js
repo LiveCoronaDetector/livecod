@@ -9,28 +9,20 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008290943001&code=940100"
     },
     {
-        "title": "어제 하루 새 코로나19 사망자 5명…고령층 확진 증가세 '비상'",
-        "link": "http://yna.kr/AKR20200829027000530?did=1195m"
-    },
-    {
         "title": "코로나19 어제 323명 신규확진‥서울 확진자 124명(2보)",
         "link": "http://www.fnnews.com/news/202008290945394306"
+    },
+    {
+        "title": "어제 하루 새 코로나19 사망자 5명…고령층 확진 증가세 '비상'",
+        "link": "http://yna.kr/AKR20200829027000530?did=1195m"
     },
     {
         "title": "경남 창원과 거제서 코로나19 확진자 10명 추가 발생",
         "link": "http://www.busan.com/view/busan/view.php?code=2020082911232597047"
     },
     {
-        "title": "성남 공군부대 병사 코로나19 확진…軍 누적 확진자 100명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4527945&ref=A"
-    },
-    {
-        "title": "청주 코로나19 확진자 3명 발생…청주 58명·충북 123명째(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200829_0001146959&cID=10806&pID=10800"
-    },
-    {
-        "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
+        "title": "경남, 밤새 코로나19 10명 추가 확진…총 231명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147021&cID=10812&pID=10800"
     },
     {
         "title": "8월 코로나19 누적확진 5000명‥3월 이후 처음[종합]",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "정부 \"코로나 확산세 꺾을 마지막 기회…8일간 배수진\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900631.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 제주 38번 확진자 발생…'게스트하우스'발 n차 감염",
+        "link": "https://www.news1.kr/articles/?4041360"
+    },
+    {
+        "title": "프랑스 하루 사이 확진자 7천명 넘게 늘어…다섯달만에 최다",
+        "link": "http://yna.kr/AKR20200829004400081?did=1195m"
     }
 ];

@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/28/latest_news/1598596393_856037.html"
     },
     {
-        "title": "Doctors find possible case of Covid-19 reinfection in US",
-        "link": "https://www.cnn.com/2020/08/28/health/covid-19-reinfection-nevada/index.html"
+        "title": "'No social distancing': US college towns close bars as Covid-19 cases surge",
+        "link": "https://www.theguardian.com/us-news/2020/aug/29/theyre-not-social-distancing-us-college-towns-close-bars-as-infections-surge"
     },
     {
-        "title": "Israeli researcher: End of coronavirus peak only weeks away",
-        "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
+        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
+        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
     },
     {
         "title": "Coronavirus cases in some European countries are rising again, but with fewer deaths. For now.",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.deccanherald.com/national/india-s-covid-19-outbreak-is-now-the-world-s-fastest-growing-879319.html"
     },
     {
-        "title": "Coronavirus: Vaccine front-runner China already inoculating workers",
-        "link": "https://www.bbc.com/news/world-asia-china-53917315"
+        "title": "Spanish police arrest COVID-19 pandemic-denier for inciting hatred",
+        "link": "https://www.channelnewsasia.com/news/world/spain-police-arrest-covid-19-pandemic-denier-13063770"
     }
 ];
