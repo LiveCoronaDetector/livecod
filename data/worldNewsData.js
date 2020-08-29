@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
     },
     {
-        "title": "Europe's fight against Covid-19 shifts from hospitals to the streets",
-        "link": "https://www.cnn.com/2020/08/29/europe/europe-covid-restrictions-intl/index.html"
+        "title": "France records 'exponential' increase in Covid-19 cases",
+        "link": "https://www.theguardian.com/world/2020/aug/29/france-records-exponential-increase-in-covid-19-cases"
     },
     {
         "title": "India passes coronavirus milestone: The largest number of daily cases in the world",
