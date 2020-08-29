@@ -5,24 +5,28 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/29/latest_news/1598685263_966141.html"
     },
     {
-        "title": "'No social distancing': US college towns close bars as Covid-19 cases surge",
-        "link": "https://www.theguardian.com/us-news/2020/aug/29/theyre-not-social-distancing-us-college-towns-close-bars-as-infections-surge"
+        "title": "Canada confirms Chinese vaccine trial has been scrapped",
+        "link": "https://www.scmp.com/news/china/science/article/3099399/coronavirus-canada-confirms-planned-chinese-vaccine-trial-has"
     },
     {
-        "title": "Should Ahmad Tibi be Israel’s coronavirus czar?",
-        "link": "https://www.jpost.com/health-science/should-ahmad-tibi-be-israels-coronavirus-czar-640314"
+        "title": "Israeli researcher: End of coronavirus peak only weeks away",
+        "link": "https://www.jpost.com/health-science/israeli-researcher-end-of-coronavirus-peak-only-weeks-away-640298"
     },
     {
         "title": "France records 'exponential' increase in Covid-19 cases",
         "link": "https://www.theguardian.com/world/2020/aug/29/france-records-exponential-increase-in-covid-19-cases"
     },
     {
-        "title": "India passes coronavirus milestone: The largest number of daily cases in the world",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-largest-daily-cases/2020/08/28/7cf61f0a-e7c1-11ea-bf44-0d31c85838a5_story.html"
+        "title": "Ukraine, Indonesia report record rise in coronavirus cases: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
         "title": "How did COVID show up in the bathroom of a long-vacant apartment, and what does it mean?",
         "link": "https://www.cbsnews.com/news/coronavirus-china-toilet-how-covid-showed-up-in-bathroom-long-vacant-apartment-what-it-means/"
+    },
+    {
+        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
+        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Can Philippine shopping centres survive in a post-Covid world?",
         "link": "https://www.scmp.com/week-asia/economics/article/3099333/can-philippines-shopping-centres-survive-post-coronavirus-world"
-    },
-    {
-        "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
-        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
     }
 ];

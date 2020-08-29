@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4041360"
     },
     {
-        "title": "제주 36번 확진자 '루프탑정원 술파티' 참가에 제주도 '발칵'",
-        "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "[2보]제주 38번 확진자 호텔 수습생…루프탑정원 방문 이력",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2170717"
+    },
+    {
+        "title": "제주 36번 확진자 '루프탑정원 술파티' 참가에 제주도 '발칵'",
+        "link": "https://www.pressian.com/pages/articles/2020082814324356821?utm_source=naver&utm_medium=search"
     },
     {
         "title": "코로나 확진 이어져 서귀포가 발칵",
