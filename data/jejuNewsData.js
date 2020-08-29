@@ -21,16 +21,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202008272341499574"
     },
     {
+        "title": "제주도 게스트하우스 불법파티 없앤다…의심업소 27곳 단속",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020082913532366147"
+    },
+    {
         "title": "밤사이 제주에 36·37번째 코로나19 확진자 발생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014953965&code=61121111&cp=nv"
     },
     {
         "title": "제주 게스트하우스 코로나19 확진자 또 발생…이번엔 방문객",
         "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
-    },
-    {
-        "title": "제주도 게스트하우스 불법파티 없앤다…의심업소 27곳 단속",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020082913532366147"
     },
     {
         "title": "코로나 확진 제주 목사 부부, 온천 방문 숨겼다 들통…긴급방역",
