@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200829045251530?did=1195m"
     },
     {
+        "title": "홍천 두 번째 코로나19 확진자…장례식장서 다수 주민과 접촉(종합2보)",
+        "link": "http://yna.kr/AKR20200829045152062?did=1195m"
+    },
+    {
         "title": "[종합] 사랑제일교회 확진자 40명 추가…오늘 정오까지 누적 1018명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900801.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "\"확진자 급증해 사망자 증가세 이어질 것…위험한 상황\"",
+        "link": "https://www.nocutnews.co.kr/news/5403298"
     },
     {
         "title": "사랑제일교회 코로나19 누적확진자 1000명 넘었다",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082901118.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "장성서 코로나19 첫 확진자…요양시설 코호트 격리(종합)",
-        "link": "http://yna.kr/AKR20200829065051054?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 323명···지역감염 308명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008290943001&code=940100"
-    },
-    {
-        "title": "어제 하루 새 코로나19 사망자 5명…고령층 확진 증가세 '비상'",
-        "link": "http://yna.kr/AKR20200829027000530?did=1195m"
     }
 ];
