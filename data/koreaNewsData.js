@@ -21,20 +21,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008290945394306"
     },
     {
-        "title": "방역당국 \"코로나19 현재 벅찬 상황…속도 빠르고 규모 커\"(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01571126625872240"
+        "title": "광화문 집회 관련 확진자 300명 넘었다…60대가 49%(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147206&cID=10201&pID=10200"
     },
     {
-        "title": "경남, 밤새 코로나19 10명 추가 확진…총 231명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147021&cID=10812&pID=10800"
+        "title": "방역당국 \"코로나19 현재 벅찬 상황…속도 빠르고 규모 커\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01571126625872240"
     },
     {
         "title": "사랑제일교회 관련 누적 확진자 천 명 육박...\"n차 감염 곳곳\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202008291159026409"
     },
     {
-        "title": "경남 창원과 거제서 코로나19 확진자 10명 추가 발생",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020082911232597047"
+        "title": "정부 \"코로나 확산세 꺾을 마지막 기회…8일간 배수진\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900631.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[종합] 코로나19 완치자 1046명 혈장모집",
