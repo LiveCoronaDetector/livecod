@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014953965&code=61121111&cp=nv"
     },
     {
+        "title": "제주 ‘게스트하우스’ 코로나 화약고 될라…3명 확진",
+        "link": "http://www.segye.com/content/html/2020/08/29/20200829505267.html?OutUrl=naver"
+    },
+    {
+        "title": "온천 방문 숨긴 목사부부에 제주도 '발칵'···해운대온천 추가 감염 없어 부...",
+        "link": "https://www.sedaily.com/NewsView/1Z6RN2BKKT"
+    },
+    {
         "title": "코로나 확진 받은 목사 부부, 제주 온천간 사실 숨겼다가 GPS에 들통",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01426806625872240"
-    },
-    {
-        "title": "코로나 확진 제주 목사 부부, 온천 방문 숨겼다 들통…긴급방역",
-        "link": "http://yna.kr/AKR20200828182000056?did=1195m"
-    },
-    {
-        "title": "제주 '게하'서 또 코로나19 확진…총 3명",
-        "link": "http://yna.kr/AKR20200829011800056?did=1195m"
     }
 ];
