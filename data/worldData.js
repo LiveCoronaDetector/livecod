@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6135361,
-        "사망자수": 186784,
-        "완치자수": 3399729
+        "확진자수": 6135598,
+        "사망자수": 186783,
+        "완치자수": 3400494
     },
     {
         "Name": "브라질",
@@ -388,9 +388,9 @@ var marker = [
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "확진자수": 53477,
+        "확진자수": 53727,
         "사망자수": 1011,
-        "완치자수": 41017
+        "완치자수": 41314
     },
     {
         "Name": "바레인",
@@ -676,7 +676,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 10599,
+        "확진자수": 10611,
         "사망자수": 264,
         "완치자수": 9348
     },
@@ -796,7 +796,7 @@ var marker = [
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "확진자수": 6580,
+        "확진자수": 6625,
         "사망자수": 124,
         "완치자수": 7140
     },
@@ -804,9 +804,9 @@ var marker = [
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "확진자수": 6388,
-        "사망자수": 195,
-        "완치자수": 5043
+        "확진자수": 6406,
+        "사망자수": 196,
+        "완치자수": 5056
     },
     {
         "Name": "헝가리",
@@ -849,20 +849,20 @@ var marker = [
         "완치자수": 4287
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "확진자수": 4727,
+        "사망자수": 93,
+        "완치자수": 3839
+    },
+    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
         "확진자수": 4700,
         "사망자수": 61,
         "완치자수": 1784
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "확진자수": 4663,
-        "사망자수": 92,
-        "완치자수": 3731
     },
     {
         "Name": "Nicaragua",
@@ -1137,20 +1137,20 @@ var marker = [
         "완치자수": 1568
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 1645,
+        "사망자수": 19,
+        "완치자수": 894
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "확진자수": 1633,
         "사망자수": 6,
         "완치자수": 224
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 1577,
-        "사망자수": 19,
-        "완치자수": 894
     },
     {
         "Name": "Réunion",

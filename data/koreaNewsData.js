@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4041839"
     },
     {
-        "title": "[속보] 전세계 코로나19 확진자 2500만명 넘어",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014958272&code=61131111&cp=nv"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 323명···지역감염 308명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008290943001&code=940100"
     },
@@ -19,6 +15,10 @@ var koreaNewsData = [
     {
         "title": "이낙연 \"코로나 전쟁에서 승리하겠다\"…당대표 수락하며 울먹(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082901118.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "전 세계 코로나19 확진자 2,500만명·사망자 85만명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300009&t=NN"
     },
     {
         "title": "사랑제일교회 관련 코로나19 확진자, 17일 만에 1000명 넘어",
