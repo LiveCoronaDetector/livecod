@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008290945394306"
     },
     {
+        "title": "경남 창원과 거제서 코로나19 확진자 10명 추가 발생",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020082911232597047"
+    },
+    {
         "title": "청주 코로나19 확진자 3명 발생…청주 58명·충북 123명째(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200829_0001146959&cID=10806&pID=10800"
     },
     {
-        "title": "코로나19 울산지역 확진자 3명 추가, '다단계 추정 업소서 감염'(종합)",
-        "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=771442"
+        "title": "[속보] 부천서 50대 2명 코로나19 추가 확진",
+        "link": "https://www.hankyung.com/life/article/2020082999907"
     },
     {
         "title": "코로나19 확진자 이틀째 300명대…오늘밤 자정부터 수도권 거리두기 2.5단계",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959835.html"
     },
     {
-        "title": "코로나19 신규 확진자 323명…지역발생 308명‧해외유입 15명",
-        "link": "http://www.inews24.com/view/1294634"
+        "title": "코로나19 울산지역 확진자 3명 추가, '다단계 추정 업소서 감염'(종합)",
+        "link": "http://www.ksilbo.co.kr/news/articleView.html?idxno=771442"
     },
     {
         "title": "8월 코로나19 누적확진 5000명‥3월 이후 처음[종합]",
         "link": "http://www.fnnews.com/news/202008291003089988"
-    },
-    {
-        "title": "정부 \"코로나 확산세 꺾을 마지막 기회…8일간 배수진\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900631.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
