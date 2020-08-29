@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html"
     },
     {
-        "title": "New coronavirus cases dip below 100 in Victoria",
-        "link": "https://www.youtube.com/watch?v=e-csjTyl-xU"
+        "title": "Coronavirus update: US confirms first COVID reinfection as China shows vaccine progress",
+        "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=R6v8KncQMTU"
     },
     {
-        "title": "Coronavirus Victoria: New cases in double digits for first time in almost two months",
-        "link": "https://au.news.yahoo.com/coronavirus-victoria-new-cases-in-double-digits-in-almost-two-months-225440637.html"
+        "title": "These Scientists Are Still Studying The World’s Most Controversial Drug, But They Can’t Find Enough People To Take It",
+        "link": "https://www.buzzfeednews.com/article/stephaniemlee/hydroxychloroquine-clinical-trials-prevention"
     }
 ];
