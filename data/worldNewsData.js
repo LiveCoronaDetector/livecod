@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3099399/coronavirus-canada-confirms-planned-chinese-vaccine-trial-has"
     },
     {
-        "title": "The Coronavirus Hit Iran Hard in March. Now It's Being Ravaged by a Second Wave.",
-        "link": "https://foreignpolicy.com/2020/08/28/why-covid-19-is-ravaging-iran-again/"
+        "title": "Afghanistan, Pakistan see surge in polio cases amid coronavirus pandemic",
+        "link": "https://www.foxnews.com/world/afghanistan-surge-polio-coronavirus-pandemic"
     },
     {
-        "title": "Berlin police halt march protesting against German government's coronavirus response",
-        "link": "https://www.cnn.com/2020/08/29/europe/berlin-protest-coronavirus-police-grm-intl/index.html"
+        "title": "Germany coronavirus: 'Anti-corona' protest in Berlin draws thousands",
+        "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
         "title": "Ukraine, Indonesia report record rise in coronavirus cases: Live",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://finance.yahoo.com/news/coronavirus-update-us-confirms-first-covid-reinfection-as-china-shows-vaccine-progress-165544325.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
+        "title": "Berlin police halt Covid sceptics protest for not observing social distancing | AFP",
+        "link": "https://www.youtube.com/watch?v=nUMPheFqM_4"
+    },
+    {
+        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
+        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
     },
     {
         "title": "How Coronavirus Overpowered the World Health Organization",
         "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     },
     {
-        "title": "Germany coronavirus: 'Anti-corona' protest in Berlin draws thousands",
-        "link": "https://www.bbc.com/news/world-europe-53959552"
-    },
-    {
-        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
-        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
+        "title": "California Moves Toward Easing Coronavirus Restrictions on Business",
+        "link": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html"
     }
 ];
