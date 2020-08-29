@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
-        "title": "Surge in South Korea coronavirus cases sparks hospital bed shortage concerns",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-southkorea/surge-in-south-korea-coronavirus-cases-sparks-hospital-bed-shortage-concerns-idUSKBN25P08X"
+        "title": "How did COVID show up in the bathroom of a long-vacant apartment, and what does it mean?",
+        "link": "https://www.cbsnews.com/news/coronavirus-china-toilet-how-covid-showed-up-in-bathroom-long-vacant-apartment-what-it-means/"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
     },
     {
-        "title": "Tens of Thousands March Against Pandemic Restrictions in Berlin",
-        "link": "https://www.youtube.com/watch?v=pvy8gdxAfyo"
+        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
+        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
+    },
+    {
+        "title": "Coronavirus: Berlin protesters told to disperse",
+        "link": "https://www.bbc.com/news/live/world-53957452"
     },
     {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
         "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
-    },
-    {
-        "title": "How Coronavirus Overpowered the World Health Organization",
-        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     }
 ];

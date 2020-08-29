@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959737.html"
     },
     {
-        "title": "'야간파티·거짓 진술'에 제주 코로나19 확진자 4명 급증",
-        "link": "http://yna.kr/AKR20200830003400056?did=1195m"
-    },
-    {
         "title": "[속보] 제주 38번 확진자 발생…'게스트하우스발' n차감염",
         "link": "https://www.news1.kr/articles/?4041360"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "우려가 현실로, 제주 게하발 코로나 확진자 2명 발생...내부 파티도 벌여",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319460"
+    },
+    {
+        "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
+        "link": "http://www.fnnews.com/news/202008272341499574"
     }
 ];
