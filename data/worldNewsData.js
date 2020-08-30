@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
-    },
-    {
         "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
         "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
         "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
