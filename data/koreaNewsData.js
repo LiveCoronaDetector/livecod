@@ -13,18 +13,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5892609_32633.html"
     },
     {
-        "title": "당국 “감염경로 불분명 확진자 21.5%…역대 최고치”",
-        "link": "https://www.donga.com/news/article/all/20200830/102708420/2"
-    },
-    {
-        "title": "[속보] 코로나19 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
-        "link": "http://yna.kr/AKR20200830039100056?did=1195m"
-    },
-    {
-        "title": "대구 152일 만에 확진자 30명대…\"사랑의교회 고발 조치\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300056&t=NN"
-    },
-    {
         "title": "[속보] 대구 '사랑의교회'발 확진자 34명…코로나 재확산 뇌관?(전문)",
         "link": "https://news.imaeil.com/Society/2020083011313325332"
     },
@@ -33,11 +21,23 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020083015267"
     },
     {
-        "title": "코로나 299명 신규 확진…5일만에 300명 아래로",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083000313.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "신세계 강남점 직원 코로나19 확진…조기 폐점",
+        "link": "https://www.donga.com/news/article/all/20200830/102708774/2"
     },
     {
-        "title": "신세계 강남점, 코로나에 조기 폐점… “직원들 검사 중”",
-        "link": "http://www.segye.com/content/html/2020/08/30/20200830510515.html?OutUrl=naver"
+        "title": "[단독] LGU+ 마곡사옥서 코로나19 확진자…\"협력사 직원\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300081&t=NN"
+    },
+    {
+        "title": "일본 코로나 19 신규확진 199명...도쿄 148명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200830_0001147757&cID=10101&pID=10100"
+    },
+    {
+        "title": "한양대 기숙사에서 코로나 확진자 발생 \"동선 파악 중\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083001331.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     }
 ];

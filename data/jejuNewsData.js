@@ -9,35 +9,35 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
-        "title": "제주 게하발 코로나19 확진자 속출…거짓진술에 방역망 흔들",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
-    },
-    {
         "title": "제주, 확진자 도청·시청도 방문…직원들 '패닉'(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200830_0001147715&cID=10813&pID=10800"
     },
     {
-        "title": "[코로나19] 제주 게스트하우스發, 감염 서울로 확산 ‘비상’",
-        "link": "http://www.ekn.kr/news/article.html?no=520082"
-    },
-    {
-        "title": "[종합] 제주도청-시청 긴급 '폐쇄' 조치...확진자 방문 '발칵' ",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426055"
+        "title": "제주 게하발 코로나19 확진자 속출…거짓진술에 방역망 흔들",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
     },
     {
         "title": "제주도 코로나19 확진 2명 추가...확진자 다녀간 온천 방문",
         "link": "http://www.getnews.co.kr/view.php?ud=2020083017004661866a6b374224_16"
     },
     {
-        "title": "제주도 코로나19 재난문자 국문ㆍ영문 병행서비스",
-        "link": "https://hankookilbo.com/News/Read/A2020083010190002771?did=NA"
+        "title": "[종합] 제주도청-시청 긴급 '폐쇄' 조치...확진자 방문 '발칵' ",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426055"
     },
     {
-        "title": "목사부부 방문 숨긴 온천발 확진자 잇따라…제주도청은 일부폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008301600001&code=620117"
+        "title": "제주도, 다음달부터 코로나 재난문자 영문으로 제공",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "확진자 방문에 제주도청·시청사 일부 폐쇄",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959930.html"
+        "title": "강동구 코로나19 138번 확진자 제주 동선 공개",
+        "link": "https://www.nocutnews.co.kr/news/5403505"
+    },
+    {
+        "title": "제주 코로나 39번째 확진자, 32명과 접촉",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349796"
+    },
+    {
+        "title": "(속보)평택시, 코로나19 90~91번 확진자 발생",
+        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=210576"
     }
 ];
