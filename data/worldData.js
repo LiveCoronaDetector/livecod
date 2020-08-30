@@ -409,20 +409,20 @@ var marker = [
         "완치자수": 18116
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "확진자수": 44946,
+        "사망자수": 375,
+        "완치자수": 36175
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
         "확진자수": 44118,
         "사망자수": 270,
         "완치자수": 42581
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "확진자수": 43879,
-        "사망자수": 366,
-        "완치자수": 34972
     },
     {
         "Name": "알제리",
@@ -601,6 +601,14 @@ var marker = [
         "완치자수": 14989
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 16474,
+        "사망자수": 294,
+        "완치자수": 8854
+    },
+    {
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
@@ -615,14 +623,6 @@ var marker = [
         "확진자수": 16164,
         "사망자수": 605,
         "완치자수": 11253
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 15873,
-        "사망자수": 280,
-        "완치자수": 8595
     },
     {
         "Name": "Madagascar",

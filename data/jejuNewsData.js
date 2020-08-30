@@ -9,20 +9,12 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020082923153464805"
     },
     {
-        "title": "코로나 확진자, 게하 투숙객 뒤섞여 '음주파티'…제주 '화약고'",
-        "link": "http://yna.kr/AKR20200828097200056?did=1195m"
-    },
-    {
-        "title": "[속보]경북 예천서 신규 확진자 3명…경북 누적 1411명",
-        "link": "https://www.news1.kr/articles/?4041943"
-    },
-    {
         "title": "제주 ‘게스트하우스’발 38번 확진자는 호텔 수습생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014957928&code=61122027&cp=nv"
     },
     {
-        "title": "(종합)경북 예천서 일가족 등 코로나19 4명 추가 확진…'감염 경로 파악중'",
-        "link": "https://news.imaeil.com/Society/2020083010401793591"
+        "title": "코로나 확진자, 게하 투숙객 뒤섞여 '음주파티'…제주 '화약고'",
+        "link": "http://yna.kr/AKR20200828097200056?did=1195m"
     },
     {
         "title": "[속보] 제주 38번 확진자 발생…'게스트하우스발' n차감염",
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "집·동호회·직장·학원·여행…코로나19 안전지대 없다",
         "link": "http://www.newsis.com/view/?id=NISX20200829_0001147290&cID=10201&pID=10200"
+    },
+    {
+        "title": "‘집단감염’ 인천 '주님의 교회' 확진자 2박3일 제주여행",
+        "link": "http://www.fnnews.com/news/202008272341499574"
+    },
+    {
+        "title": "우려가 현실로, 제주 게하발 코로나 확진자 2명 발생...내부 파티도 벌여",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319460"
     }
 ];

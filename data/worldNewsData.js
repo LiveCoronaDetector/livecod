@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
     },
     {
-        "title": "New Yahoo News-YouGov Poll: Biden’s lead over Trump shrinks to 6 points after the RNC — his smallest margin in months",
-        "link": "https://news.yahoo.com/new-yahoo-news-you-gov-poll-bidens-lead-over-trump-shrinks-to-6-points-after-the-rnc-his-smallest-margin-in-months-164411657.html"
-    },
-    {
         "title": "Coronavirus Protests In Israel",
         "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
         "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
+    },
+    {
+        "title": "How Coronavirus Overpowered the World Health Organization",
+        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     }
 ];
