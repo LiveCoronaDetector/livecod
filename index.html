@@ -2714,6 +2714,23 @@
     <a class="scroll-to-top rounded" href="#page-top">
       <i class="fas fa-angle-up"></i>
     </a>
+    <!-- bootstrap, third-party -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="js/sb-admin-2.min.js"></script>
+    <script src="vendor/chart.js/Chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css"
+    />
+    <script src="vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="vendor/datatables/dataTables.bootstrap4.min.js"></script>
+    <!-- data -->
     <script src="data/worldData.js"></script>
     <script src="data/koreaRegionalData.js"></script>
     <script src="data/koreaTotalCumulativeData.js"></script>
@@ -2724,145 +2741,22 @@
     <script src="data/worldNewsData.js"></script>
     <script src="data/jejuNewsData.js"></script>
     <script src="data/jejuTrafficData.js"></script>
+    <!-- custom js -->
+    <script src="js/globalConstants.js"></script>
     <script src="js/cardHeader.js"></script>
     <script src="js/renderNews.js"></script>
-    <script>
-      {
-        let listString = "";
-        jejuTrafficData.forEach((data) => {
-          listString += `<li><a href='${data.url}'>${data.title}</a></li>`;
-        });
-        listString +=
-          "<li>개인정보 보호를 위하여 2주가 지난 경로는 삭제하고 있습니다.</li>";
-        document.getElementById("patientsList").innerHTML = listString;
-      }
-    </script>
-    <!-- Bootstrap core JavaScript-->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-    <script src="js/sb-admin-2.min.js"></script>
-    <script src="vendor/chart.js/Chart.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
-    <script
-      type="text/javascript"
-      src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"
-    ></script>
-    <script
-      type="text/javascript"
-      src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"
-    ></script>
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css"
-    />
+    <script src="js/renderTraffic.js"></script>
     <script src="js/chart/chart-area.js"></script>
     <script src="js/chart/top15Countries.js"></script>
     <script src="js/chart/chart-bar.js"></script>
     <script src="js/chart/chart-pie.js"></script>
     <script src="js/chart/top15Countries_graph.js"></script>
-    <script src="vendor/datatables/jquery.dataTables.min.js"></script>
-    <script src="vendor/datatables/dataTables.bootstrap4.min.js"></script>
-    <!-- 제주 진료소 관련 스크립트 -->
     <script src="js/jejuMedicalCenter.js"></script>
     <script src="js/koreaMap.js"></script>
     <script src="js/jejuMedicine.js"></script>
     <script src="js/worldMap.js"></script>
-    <!-- A 태그 #앵커 부드러운 이동 -->
-    <script>
-      document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
-        anchor.addEventListener("click", function (e) {
-          e.preventDefault();
-          var href_name = this.getAttribute("href");
-
-          // 한국 확진자수 증가추이의 탭 클릭시, 스크롤이 움직이지 않도록
-          if (
-            href_name == "#korea_line_chart" ||
-            href_name == "#korea_semi_log_chart"
-          ) {
-            return;
-          }
-
-          $(this).parent().siblings().children("a").removeClass("active");
-          $(this).addClass("active");
-          document.querySelector(this.getAttribute("href")).scrollIntoView({
-            behavior: "smooth",
-          });
-        });
-      });
-    </script>
-    <!-- 15분마다 사이트 새로고침 -->
-    <script>
-      setInterval(function () {
-        window.location.reload();
-      }, 15 * (1000 * 60));
-    </script>
-    <!-- 배너 닫기 저장-->
-    <script>
-      // 배너를 업데이트하면 bannerCount++ 해주세요. 기존 숫자보다 커야만 표시됩니다.
-      var bannerCount = 5;
-
-      function getCookie(name) {
-        name = name + "=";
-        var decodedCookie = decodeURIComponent(document.cookie);
-        var ca = decodedCookie.split(";");
-        for (var i = 0; i < ca.length; i++) {
-          var c = ca[i];
-          while (c.charAt(0) == " ") {
-            c = c.substring(1);
-          }
-          if (c.indexOf(name) == 0) {
-            return c.substring(name.length, c.length);
-          }
-        }
-        return "";
-      }
-
-      function setCookie(name, value, expiryHours) {
-        var d = new Date();
-        d.setTime(d.getTime() + expiryHours * 60 * 60 * 1000);
-        var expires = "expires=" + d.toUTCString();
-        document.cookie = name + "=" + value + ";" + expires + ";path=/";
-      }
-
-      function showBanner() {
-        var cookieItem = getCookie("alertBannerClosed");
-        if (
-          parseInt(cookieItem) < bannerCount ||
-          parseInt(cookieItem) === NaN ||
-          cookieItem === "" ||
-          !cookieItem
-        ) {
-          $("#alertBanner").removeClass("d-none");
-        }
-      }
-
-      $("#btnAlertBannerClose").click(function () {
-        // 맨 마지막 옵션인 "시간"만 변경하세요. 단위가 day -> hour로 변경되었습니다.
-        setCookie("alertBannerClosed", bannerCount, 12);
-      });
-
-      $(document).ready(function () {
-        // Toggle the side navigation
-        $("#sidebarToggle, #sidebarToggleTop").on("click", function (e) {
-          $(".content").toggleClass("expended");
-          $(this).children("i").toggleClass("fa-chevron-circle-left fa-bars");
-        });
-
-        if ($(window).width() < 760) {
-          $("#sidebarToggleTop").trigger("click");
-        }
-
-        $('[data-toggle="tooltip"]').tooltip();
-      });
-
-      // 배너를 숨기고 싶으면 아래 코드를 주석처리하세요
-      //showBanner();
-    </script>
-    <script>
-      var simul_click = true;
-    </script>
+    <script src="js/smoothScroll.js"></script>
+    <script src="js/handleBanner.js"></script>
     <script src="js/simulator.js"></script>
     <script src="simulator/30per_stop_script.js"></script>
     <script src="simulator/50per_stop_script.js"></script>
@@ -2871,5 +2765,11 @@
     <script src="simulator/80per_stop_script_3times.js"></script>
     <script src="simulator/60per_stop_script_2times.js"></script>
     <script src="simulator/60per_stop_script_3times.js"></script>
+    <!-- 15분마다 사이트 새로고침 -->
+    <script>
+      setInterval(function () {
+        window.location.reload();
+      }, 15 * (1000 * 60));
+    </script>
   </body>
 </html>
