@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200830056951060?did=1195m"
     },
     {
+        "title": "미국 FDA \"코로나19 백신 3상 임상시험 전에 승인할수도\"",
+        "link": "http://yna.kr/AKR20200830064800009?did=1195m"
+    },
+    {
         "title": "한양대 기숙사에서 코로나 확진자 발생 \"동선 파악 중\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083001331.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 군 내 코로나19 추가 확진…휴가통제 일주일 연장",
         "link": "https://www.hankyung.com/life/article/2020083015267"
-    },
-    {
-        "title": "신세계 강남점 직원 코로나19 확진…조기 폐점",
-        "link": "https://www.donga.com/news/article/all/20200830/102708774/2"
     }
 ];

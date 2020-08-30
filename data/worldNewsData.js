@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/30/latest_news/1598769034_793758.html"
     },
     {
-        "title": "Global coronavirus cases exceed 25 million: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/brazil-coronavirus-deaths-surpass-120000-live-updates-200829232301925.html"
+        "title": "Brazil's island idyll reopens to tourists – as long as they have had Covid-19",
+        "link": "https://www.theguardian.com/world/2020/aug/30/brazil-island-fernando-de-noronha-reopens-tourists-covid-19"
     },
     {
         "title": "Turkish mayors accuse government of coronavirus cover-up",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
-        "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
-        "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
+    },
+    {
+        "title": "N.Y. State Faces Outbreaks; U.S. Cases Ticking Up: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5658b350-eb0c-11ea-abd1-7bb866e386b6&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0zMC9iZXJsaW4tcHJvdGVzdC10dXJucy12aW9sZW50LXUtcy1jYXNlcy1waWNrLXVwLXZpcnVzLXVwZGF0ZQ=="
     }
 ];
