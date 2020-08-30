@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
     },
     {
-        "title": "Tens of Thousands March Against Pandemic Restrictions in Berlin",
-        "link": "https://www.youtube.com/watch?v=pvy8gdxAfyo"
+        "title": "Coronavirus Protests In Israel",
+        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -34,7 +34,7 @@ var worldNewsData = [
     },
     {
         "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
-        "link": "https://news.google.com/articles/CCAiC1FFa0pBWnpyelVvmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
     },
     {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",

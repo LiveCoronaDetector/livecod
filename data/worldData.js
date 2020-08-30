@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6136956,
-        "사망자수": 186825,
-        "완치자수": 3407429
+        "확진자수": 6138748,
+        "사망자수": 186855,
+        "완치자수": 3408726
     },
     {
         "Name": "브라질",
@@ -188,7 +188,7 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 127677,
+        "확진자수": 127673,
         "사망자수": 9113,
         "완치자수": 113501
     },
@@ -1273,20 +1273,20 @@ var marker = [
         "완치자수": 878
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 964,
+        "사망자수": 13,
+        "완치자수": 115
+    },
+    {
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
         "확진자수": 895,
         "사망자수": 15,
         "완치자수": 848
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 870,
-        "사망자수": 12,
-        "완치자수": 93
     },
     {
         "Name": "Myanmar",
@@ -1516,9 +1516,9 @@ var marker = [
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "확진자수": 106,
+        "확진자수": 107,
         "사망자수": 1,
-        "완치자수": 96
+        "완치자수": 97
     },
     {
         "Name": "Antigua and Barbuda",
