@@ -18,10 +18,15 @@ jobs:
           pip install -r requirements.txt
       - name: Install Chrome
         run: |
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add
-          sudo apt-get install google-chrome-stable
-          wget https://chromedriver.storage.googleapis.com/2.40/chromedriver_linux64.zip
-          unzip ./chromedriver_linux64.zip
+          CHROME_DRIVER=chromedriver
+          if [ -f "$CHROME_DRIVER" ]; then
+            echo "$FILE already exists."
+          else 
+            wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add
+            sudo apt-get install google-chrome-stable
+            wget https://chromedriver.storage.googleapis.com/2.40/chromedriver_linux64.zip
+            unzip ./chromedriver_linux64.zip
+          fi
       - name: Run crawler
         run: |
           python "data/crawlWorldData.py"
