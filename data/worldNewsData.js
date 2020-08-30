@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
+        "title": "New Yahoo News-YouGov Poll: Biden’s lead over Trump shrinks to 6 points after the RNC — his smallest margin in months",
+        "link": "https://news.yahoo.com/new-yahoo-news-you-gov-poll-bidens-lead-over-trump-shrinks-to-6-points-after-the-rnc-his-smallest-margin-in-months-164411657.html"
     },
     {
         "title": "Coronavirus Protests In Israel",
         "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
     },
     {
-        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
-        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
-    },
-    {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
         "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
+    },
+    {
+        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
+        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
     }
 ];
