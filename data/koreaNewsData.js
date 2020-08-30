@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
     },
     {
-        "title": "서울 큰권능교회 확진자 일한 고양 요양원서 8명 집단감염(종합)",
-        "link": "http://yna.kr/AKR20200830056951060?did=1195m"
-    },
-    {
         "title": "코로나19 확진자 다녀간 제주 도청·시청 일부 부서 폐쇄",
         "link": "http://yna.kr/AKR20200830036700056?did=1195m"
+    },
+    {
+        "title": "서울 큰권능교회 확진자 일한 고양 요양원서 8명 집단감염(종합)",
+        "link": "http://yna.kr/AKR20200830056951060?did=1195m"
     },
     {
         "title": "한양대 기숙사에서 코로나 확진자 발생 \"동선 파악 중\"",
