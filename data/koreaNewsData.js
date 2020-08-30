@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083000313.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 군 내 코로나19 추가 확진…휴가통제 일주일 연장",
-        "link": "https://www.hankyung.com/life/article/2020083015267"
+        "title": "신세계 강남점 직원 코로나19 확진…조기 폐점",
+        "link": "https://www.donga.com/news/article/all/20200830/102708774/2"
     }
 ];
