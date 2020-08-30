@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
-        "title": "India sets global record with single-day rise in coronavirus cases",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-india-cases/india-sets-global-record-with-single-day-rise-in-coronavirus-cases-idUSKBN25Q06A"
+        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
+        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
     },
     {
-        "title": "South Korea low on hospital beds as second COVID-19 wave hits",
-        "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
+        "title": "Japan has the world’s oldest population. Yet it dodged a coronavirus crisis at elder-care facilities.",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "Coronavirus Protests In Israel",
-        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     },
     {
         "title": "August 29 coronavirus news",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Global cases pass 25 million as India records record spike",
-        "link": "https://www.euronews.com/2020/08/30/coronavirus-india-reports-worst-single-day-spike-in-the-world-with-over-78-000-new-cases"
+        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
+        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
     }
 ];

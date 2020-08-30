@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349796"
     },
     {
-        "title": "제주 40번 확진자 방문한 도청ㆍ시청 일시폐쇄…접촉 공무원 자택 대기",
-        "link": "https://news.joins.com/article/olink/23454704"
-    },
-    {
         "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
+    },
+    {
+        "title": "제주 코로나 41번 확진자 동선 공개, 접촉자 11명",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319518"
     }
 ];
