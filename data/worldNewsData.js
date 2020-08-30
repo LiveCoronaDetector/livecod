@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/afghanistan-surge-polio-coronavirus-pandemic"
     },
     {
-        "title": "Germany coronavirus: 'Anti-corona' protests in Berlin draws thousands",
+        "title": "Germany coronavirus: Hundreds arrested in German 'anti-corona' protests",
         "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
-        "title": "'The reversal of gentrification': how Covid-19 could remake Australia's cities",
-        "link": "https://www.theguardian.com/business/2020/aug/30/the-reversal-of-gentrification-how-covid-19-could-remake-australias-cities"
+        "title": "South Korea low on hospital beds as second COVID-19 wave hits",
+        "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
+    },
+    {
+        "title": "Coronavirus Protests In Israel",
+        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
         "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
-    },
-    {
-        "title": "Coronavirus: Berlin protesters told to disperse",
-        "link": "https://www.bbc.com/news/live/world-53957452"
     },
     {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",

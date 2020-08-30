@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082901118.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]제주 코로나19 4명 추가 확진…게스트하우스발 n차감염 확산",
-        "link": "https://www.news1.kr/articles/?4041839"
+        "title": "전세계 코로나19 확진자 2천500만명 넘어…사망자 85만명 육박",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5892603_32640.html"
     },
     {
-        "title": "전 세계 코로나19 확진자 2,500만명·사망자 85만명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300009&t=NN"
+        "title": "[속보]제주 코로나19 4명 추가 확진…게스트하우스발 n차감염 확산",
+        "link": "https://www.news1.kr/articles/?4041839"
     },
     {
         "title": "사랑제일교회 관련 코로나19 확진자, 17일 만에 1000명 넘어",
