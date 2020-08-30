@@ -1,10 +1,8 @@
-beautifulsoup4==4.8.2
+beautifulsoup4==4.9.1
 bs4==0.0.1
-certifi==2019.11.28
-chardet==3.0.4
-idna==2.9
-requests==2.23.0
-soupsieve==2.0
+requests==2.24.0
+soupsieve==2.0.1
 urllib3==1.25.8
 numpy==1.18.1
 pandas==1.0.2
+selenium==3.141.0

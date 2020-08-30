@@ -1,7 +1,7 @@
 name: crawl current data
 on:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron: "*/30 * * * *"
 jobs:
   runCrawler:
     runs-on: ubuntu-latest
@@ -10,21 +10,18 @@ jobs:
       - name: Set up Python 3.x
         uses: actions/setup-python@v1
         with:
-          python-version: '3.x'
-          architecture: 'x64'
-      # - name: Cache dependencies
-      #   uses: actions/cache@v2
-      #   id: cache
-      #   with:
-      #     path: ~/.cache/pip
-      #     key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-      #     restore-keys: |
-      #       ${{ runner.os }}-pip-
+          python-version: "3.x"
+          architecture: "x64"
       - name: Install dependencies
-        # if: steps.cache.outputs.cache-hit != 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+      - name: Install Chrome
+        run: |
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add
+          sudo apt-get install google-chrome-stable
+          wget https://chromedriver.storage.googleapis.com/2.40/chromedriver_linux64.zip
+          unzip ./chromedriver_linux64.zip
       - name: Run crawler
         run: |
           python "data/crawlWorldData.py"
@@ -44,5 +41,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          branch: 'master'
+          branch: "master"
           github_token: ${{ secrets.GITHUB_TOKEN }}
