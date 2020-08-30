@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
+        "title": "제주 45번째 코로나 확진자, 방글라데시 유학생",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349807"
+    },
+    {
         "title": "제주 게하발 코로나19 확진자 속출…거짓진술에 방역망 흔들",
         "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주 코로나 확진자 2명 추가... 누적 44명",
         "link": "https://hankookilbo.com/News/Read/A2020083017080003200?did=NA"
-    },
-    {
-        "title": "제주 코로나 39번째 확진자, 32명과 접촉",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=349796"
     },
     {
         "title": "제주 40번 확진자 방문한 도청ㆍ시청 일시폐쇄…접촉 공무원 자택 대기",

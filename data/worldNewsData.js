@@ -13,24 +13,24 @@ var worldNewsData = [
         "link": "https://www.ft.com/content/b181a997-90c2-4941-848f-77f26c15b0f4"
     },
     {
-        "title": "Germany coronavirus: Anger after attempt to storm Reichstag",
+        "title": "Germany coronavirus: Anger after attempt to storm parliament",
         "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
-        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
-        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
+        "title": "Coronavirus Cases Top 25 Million Globally As India Emerges As A New Epicenter",
+        "link": "https://www.npr.org/2020/08/30/907630621/coronavirus-cases-top-25-million-globally-as-india-emerges-as-a-new-epicenter"
     },
     {
         "title": "Japan has the world’s oldest population. Yet it dodged a coronavirus crisis at elder-care facilities.",
         "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
+        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
+        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
     },
     {
-        "title": "Coronavirus Cases Top 25 Million Globally As India Emerges As A New Epicenter",
-        "link": "https://www.npr.org/2020/08/30/907630621/coronavirus-cases-top-25-million-globally-as-india-emerges-as-a-new-epicenter"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
         "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
