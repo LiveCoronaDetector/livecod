@@ -1,5 +1,4 @@
 import pandas as pd
-
 from utils import write_data
 
 
@@ -14,20 +13,21 @@ def build_dataframe(url, return_dates=False):
 
 
 def run():
-    confirmed_CSV_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
-    deaths_CSV_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
-    recovered_CSV_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv'
+    confirmed_CSV_URL = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv"
+    deaths_CSV_URL = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv"
+    recovered_CSV_URL = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv"
 
     confirmed_result, dates = build_dataframe(confirmed_CSV_URL, True)
     deaths_result = build_dataframe(deaths_CSV_URL)
     recover_result = build_dataframe(recovered_CSV_URL)
 
-    resultData = list(zip(dates, confirmed_result,
-                          deaths_result, recover_result))
+    resultData = list(
+        zip(dates, confirmed_result, deaths_result, recover_result)
+    )
 
-    save_dir = './data/worldCumulativeData.js'
-    crawler_name = 'crawlWorldCumulativeData.py'
-    var_name = 'crawlWorldCumulativeData'
+    save_dir = "./data/worldCumulativeData.js"
+    crawler_name = "crawlWorldCumulativeData.py"
+    var_name = "worldCumulativeData"
 
     write_data(resultData, save_dir, crawler_name, var_name)
 

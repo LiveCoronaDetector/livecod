@@ -35,11 +35,11 @@ var crawlWorldCumulativeData_confirmed_Array = [];
 var crawlWorldCumulativeData_deaths_Array = [];
 var crawlWorldCumulativeData_recovered_Array = [];
 
-for (var i = 0; i < crawlWorldCumulativeData.length; i++) {
-  crawlWorldCumulativeData_date_Array.push(crawlWorldCumulativeData[i][0]);
-  crawlWorldCumulativeData_confirmed_Array.push(crawlWorldCumulativeData[i][1]);
-  crawlWorldCumulativeData_deaths_Array.push(crawlWorldCumulativeData[i][2]);
-  crawlWorldCumulativeData_recovered_Array.push(crawlWorldCumulativeData[i][3]);
+for (var i = 0; i < worldCumulativeData.length; i++) {
+  crawlWorldCumulativeData_date_Array.push(worldCumulativeData[i][0]);
+  crawlWorldCumulativeData_confirmed_Array.push(worldCumulativeData[i][1]);
+  crawlWorldCumulativeData_deaths_Array.push(worldCumulativeData[i][2]);
+  crawlWorldCumulativeData_recovered_Array.push(worldCumulativeData[i][3]);
 }
 
 var ctx = document.getElementById("myAreaChart");
