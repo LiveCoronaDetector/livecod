@@ -9,35 +9,35 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
+        "title": "제주, 확진자 도청·시청도 방문…직원들 '패닉'(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200830_0001147715&cID=10813&pID=10800"
+    },
+    {
         "title": "제주 게하발 코로나19 확진자 속출…거짓진술에 방역망 흔들",
         "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
     },
     {
-        "title": "코로나19 확진자 방문 제주도청·시청 일부폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008301600001&code=620117"
+        "title": "[코로나19] 제주 게스트하우스發, 감염 서울로 확산 ‘비상’",
+        "link": "http://www.ekn.kr/news/article.html?no=520082"
     },
     {
         "title": "제주도, 다음달부터 코로나 재난문자 영문으로 제공",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "강동구 코로나19 138번 확진자 제주 동선 공개",
-        "link": "https://www.nocutnews.co.kr/news/5403505"
+        "title": "제주도 코로나19 확진자 2명 추가 발생",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959689&code=61121111&cp=nv"
     },
     {
-        "title": "[속보] 제주 하루도 안돼 코로나 확진자 2명 추가",
-        "link": "https://www.news1.kr/articles/?4042197"
+        "title": "대구 사랑의교회 교인 29명 집단확진, 152일만에 30명 확진자 나와",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671351&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "제주 38번 확진자 호텔 수습생 … 루프탑정원 방문 이력",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=328614"
+        "title": "[속보]제주40번 확진자, 도청·시청 방문 드러나…관가 비상",
+        "link": "https://www.news1.kr/articles/?4042079"
     },
     {
-        "title": "제주 게스트하우스發 38번 확진자, 증상에도 무차별 활보",
-        "link": "https://view.asiae.co.kr/article/2020082923153464805"
-    },
-    {
-        "title": "불안했던 ‘제주 게스트하우스’서 확진자 2명 발생…파티도 열어",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959737.html"
+        "title": "제주 ‘게스트하우스’발 38번 확진자는 호텔 수습생",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014957928&code=61122027&cp=nv"
     }
 ];
