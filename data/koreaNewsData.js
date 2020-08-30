@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020083011313325332"
     },
     {
-        "title": "[속보] 군 내 코로나19 추가 확진…휴가통제 일주일 연장",
-        "link": "https://www.hankyung.com/life/article/2020083015267"
+        "title": "[종합] 8.15 집회 코로나19 확진자 전국으로 확산...2.5단계 사회적 거리두기...",
+        "link": "http://www.fnnews.com/news/202008301425586292"
     },
     {
         "title": "코로나 299명 신규 확진…5일만에 300명 아래로",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200830/102708774/2"
     },
     {
-        "title": "[단독] LGU+ 마곡사옥서 코로나19 확진자…\"협력사 직원\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300081&t=NN"
+        "title": "청주 확진자, 광화문 참가 숨겨…노인시설 전파?(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200830_0001147710&cID=10806&pID=10800"
     },
     {
-        "title": "일본 코로나 19 신규확진 199명...도쿄 148명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200830_0001147757&cID=10101&pID=10100"
+        "title": "[단독] LGU+ 마곡사옥서 코로나19 확진자…\"협력사 직원\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300081&t=NN"
     }
 ];
