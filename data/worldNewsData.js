@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
-        "title": "Global virus cases cross 25 million as India sets grim record",
-        "link": "https://www.msn.com/en-us/news/world/global-virus-cases-cross-25-million-as-india-sets-grim-record/ar-BB18vNXJ?li=BBnb7Kz"
+        "title": "US Coronavirus Cases Near Six Million",
+        "link": "https://www.msn.com/en-us/news/us/us-coronavirus-cases-near-six-million/ar-BB18uMSV?li=BBnb7Kz"
     },
     {
         "title": "South Korea low on hospital beds as second COVID-19 wave hits",
