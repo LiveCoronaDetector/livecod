@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "제주 도·시청 부분 폐쇄…“확진자 모두 수도권 관련자”",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300079&t=NN"
+    },
+    {
         "title": "제주 게스트하우스發 38번 확진자, 증상에도 무차별 활보",
         "link": "https://view.asiae.co.kr/article/2020082923153464805"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082919301691277?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "대구 사랑의교회 교인 29명 집단확진, 152일만에 30명 확진자 나와",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671351&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "온천 방문 숨긴 목사부부에 제주도 '발칵'···해운대온천 추가 감염 없어 부...",
-        "link": "https://www.sedaily.com/NewsView/1Z6RN2BKKT"
+        "title": "제주 38번 코로나19 확진자 제주 동선 공개",
+        "link": "https://www.nocutnews.co.kr/news/5403513"
     }
 ];

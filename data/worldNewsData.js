@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/29/latest_news/1598685263_966141.html"
     },
     {
-        "title": "American Driving through Canada to Alaska Fined $569,000 for Stopping to Sightsee",
-        "link": "https://www.caranddriver.com/news/a33839625/american-driving-canada-coronavirus/"
+        "title": "India sets biggest single-day rise in coronavirus cases: Live",
+        "link": "https://www.aljazeera.com/news/2020/08/brazil-coronavirus-deaths-surpass-120000-live-updates-200829232301925.html"
     },
     {
         "title": "Afghanistan, Pakistan see surge in polio cases amid coronavirus pandemic",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
-        "title": "India’s Covid Outbreak Is Now the World’s Fastest-Growing",
-        "link": "https://www.nytimes.com/2020/08/28/world/asia/india-coronavirus.html"
+        "title": "Can COVID-19 Be Defeated In Less Than 2 Years? | India Today Exclusive",
+        "link": "https://www.youtube.com/watch?v=SfvWSrJi8ag"
     },
     {
         "title": "South Korea low on hospital beds as second COVID-19 wave hits",
         "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
     },
     {
-        "title": "Coronavirus Protests In Israel",
-        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     },
     {
-        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
-        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
+        "title": "Covid-19 Live Updates: California Reaches 700,000 Cases",
+        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
     },
     {
-        "title": "How Coronavirus Overpowered the World Health Organization",
-        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
+        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
+        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
+    },
+    {
+        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
+        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
     }
 ];
