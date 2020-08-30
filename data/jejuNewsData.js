@@ -29,8 +29,8 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020083017080003200?did=NA"
     },
     {
-        "title": "[종합] 제주도청-시청 긴급 '폐쇄' 조치...확진자 방문 '발칵' ",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426055"
+        "title": "'코로나19 확산' 대정·안덕·남원 초중고 '등교중지'",
+        "link": "http://www.ihalla.com/read.php3?aid=1598783813691012014"
     },
     {
         "title": "제주 코로나 39번째 확진자, 32명과 접촉",

@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/afghanistan-surge-polio-coronavirus-pandemic"
     },
     {
-        "title": "Germany coronavirus: Hundreds arrested in German 'anti-corona' protests",
-        "link": "https://www.bbc.com/news/world-europe-53959552"
+        "title": "Germany coronavirus: Anger after attempt to storm parliament",
+        "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
         "title": "India sets global record with single-day rise in coronavirus cases",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     },
     {
-        "title": "Coronavirus Protests In Israel",
-        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
+        "title": "Global coronavirus cases top 25 million as India sets single-day infections record",
+        "link": "https://www.nbcnews.com/news/world/global-coronavirus-cases-top-25-million-india-sets-single-day-n1238804"
     },
     {
-        "title": "US Coronavirus Cases Near Six Million",
-        "link": "https://www.msn.com/en-us/news/us/us-coronavirus-cases-near-six-million/ar-BB18uMSV?li=BBnb7Kz"
+        "title": "Germany coronavirus: Hundreds arrested in German 'anti-corona' protests",
+        "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
         "title": "California Surpasses 700,000 Coronavirus Cases Even as Its Outbreak Slows",

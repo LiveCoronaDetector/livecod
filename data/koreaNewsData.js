@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020083011313325332"
     },
     {
-        "title": "[속보] 군 내 코로나19 추가 확진…휴가통제 일주일 연장",
-        "link": "https://www.hankyung.com/life/article/2020083015267"
-    },
-    {
         "title": "[속보] 고양 요양원 8명 집단감염…큰권능교회 확진자 접촉",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300101&t=NN"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200830/102708774/2"
     },
     {
+        "title": "[속보]원주서 유아 코로나19 확진",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082900013"
+    },
+    {
         "title": "한양대 기숙사에서 코로나 확진자 발생 \"동선 파악 중\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083001331.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 8.15 집회 코로나19 확진자 전국으로 확산...2.5단계 사회적 거리두기...",
-        "link": "http://www.fnnews.com/news/202008301425586292"
+        "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
-        "title": "청주 확진자, 광화문 참가 숨겨…노인시설 전파?(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200830_0001147710&cID=10806&pID=10800"
+        "title": "[종합] 8.15 집회 코로나19 확진자 전국으로 확산...2.5단계 사회적 거리두기...",
+        "link": "http://www.fnnews.com/news/202008301425586292"
     }
 ];
