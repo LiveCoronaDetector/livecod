@@ -17,8 +17,8 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
     {
-        "title": "제주도 코로나19 확진자 2명 추가 발생",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959689&code=61121111&cp=nv"
+        "title": "제주 43·44번째 코로나19 확진자 발생",
+        "link": "https://view.asiae.co.kr/article/2020083017270361463"
     },
     {
         "title": "[속보] ‘코로나 비상’ 제주도 ‘3인 이상 집합금지명령’",
