@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
+    },
+    {
         "title": "August 29 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/h_37d9d41f0f2e2a45dd8601fa672c1660"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/h_cc41de2a837abb6fcacdb136f6335aba"
+        "title": "Germany coronavirus: Hundreds arrested in German 'anti-corona' protests",
+        "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
         "title": "Coronavirus: Global cases pass 25 million as India records record spike",
         "link": "https://www.euronews.com/2020/08/30/coronavirus-india-reports-worst-single-day-spike-in-the-world-with-over-78-000-new-cases"
-    },
-    {
-        "title": "How Coronavirus Overpowered the World Health Organization",
-        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     }
 ];
