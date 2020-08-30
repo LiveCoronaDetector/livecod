@@ -1,7 +1,7 @@
 name: crawl cumulative data
 on:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron: "*/30 * * * *"
 jobs:
   runCrawler:
     runs-on: ubuntu-latest
@@ -10,8 +10,8 @@ jobs:
       - name: Set up Python 3.x
         uses: actions/setup-python@v1
         with:
-          python-version: '3.x'
-          architecture: 'x64'
+          python-version: "3.x"
+          architecture: "x64"
       # - name: Cache dependencies
       #   uses: actions/cache@v2
       #   id: cache
@@ -28,7 +28,6 @@ jobs:
       - name: Run crawler
         run: |
           python "data/crawlKoreaTotalCumulativeData.py"
-          python "data/crawlKoreaRegionalCumulativeData.py"
           python "data/crawlWorldCumulativeData.py"
       - name: Commit files
         run: |
@@ -41,5 +40,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          branch: 'master'
+          branch: "master"
           github_token: ${{ secrets.GITHUB_TOKEN }}
