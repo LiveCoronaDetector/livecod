@@ -2,10 +2,10 @@
 var worldNewsData = [
     {
         "title": "Coronavirus live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/29/latest_news/1598685263_966141.html"
+        "link": "https://en.as.com/en/2020/08/30/latest_news/1598769034_793758.html"
     },
     {
-        "title": "India sets biggest single-day rise in coronavirus cases: Live",
+        "title": "Global coronavirus cases go past 25 million: Live news",
         "link": "https://www.aljazeera.com/news/2020/08/brazil-coronavirus-deaths-surpass-120000-live-updates-200829232301925.html"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
-        "title": "Can COVID-19 Be Defeated In Less Than 2 Years? | India Today Exclusive",
-        "link": "https://www.youtube.com/watch?v=SfvWSrJi8ag"
+        "title": "Coronavirus: Hundreds protest against U.K. government COVID-19 restrictions",
+        "link": "https://www.youtube.com/watch?v=oQOz4YNASGk"
     },
     {
         "title": "South Korea low on hospital beds as second COVID-19 wave hits",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: California Reaches 700,000 Cases",
+        "title": "Tens of Thousands March Against Pandemic Restrictions in Berlin",
+        "link": "https://www.youtube.com/watch?v=pvy8gdxAfyo"
+    },
+    {
+        "title": "California Surpasses 700,000 Coronavirus Cases Even as Its Outbreak Slows",
         "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
     },
     {
-        "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
-        "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
-    },
-    {
-        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
-        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
+        "title": "The Latest: S. Korea sees 299 new cases as virus spikes",
+        "link": "https://www.mercurynews.com/2020/08/29/the-latest-s-korea-sees-299-new-cases-as-virus-spikes/"
     }
 ];
