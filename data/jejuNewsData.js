@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[종합] 제주도청-시청 긴급 '폐쇄' 조치...확진자 방문 '발칵' ",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426055"
-    },
-    {
         "title": "코로나19 확진자 방문한 제주도청·시청 부서 일시 폐쇄",
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
@@ -37,7 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349796"
     },
     {
-        "title": "대구 사랑의교회 교인 29명 집단확진, 152일만에 30명 확진자 나와",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671351&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
+    },
+    {
+        "title": "[종합] 제주도청-시청 긴급 '폐쇄' 조치...확진자 방문 '발칵' ",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426055"
     }
 ];
