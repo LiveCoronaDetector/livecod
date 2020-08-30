@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200828097200056?did=1195m"
     },
     {
+        "title": "대구 사랑의교회 교인 29명 집단확진, 152일만에 30명 확진자 나와",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671351&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
         "title": "[속보] 제주 38번 확진자 발생…'게스트하우스발' n차감염",
         "link": "https://www.news1.kr/articles/?4041360"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주도 코로나19 재난문자 국문ㆍ영문 병행서비스",
         "link": "https://hankookilbo.com/News/Read/A2020083010190002771?did=NA"
-    },
-    {
-        "title": "대구 코로나 신규확진 30명…대구 사랑의교회 관련 29명 ‘비상’",
-        "link": "https://news.joins.com/article/olink/23454564"
     },
     {
         "title": "집·동호회·직장·학원·여행…코로나19 안전지대 없다",
