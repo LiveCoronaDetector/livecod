@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/30/latest_news/1598769034_793758.html"
     },
     {
-        "title": "U.S. coronavirus cases approach 6 million as Midwest, schools face outbreaks",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/u-s-coronavirus-cases-approach-6-million-as-midwest-schools-face-outbreaks-idUSKBN25Q0KS"
+        "title": "Global coronavirus cases exceed 25 million: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/brazil-coronavirus-deaths-surpass-120000-live-updates-200829232301925.html"
     },
     {
         "title": "Afghanistan, Pakistan see surge in polio cases amid coronavirus pandemic",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
-    },
-    {
         "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
         "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
     },
     {
-        "title": "August 29 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/h_37d9d41f0f2e2a45dd8601fa672c1660"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     },
     {
-        "title": "Germany coronavirus: Hundreds arrested in German 'anti-corona' protests",
-        "link": "https://www.bbc.com/news/world-europe-53959552"
+        "title": "Coronavirus cases surpass 25 million as pandemic strains nations around the world",
+        "link": "https://www.cnbc.com/2020/08/30/global-coronavirus-cases-surpass-25-million-as-pandemic-strains-nations-around-the-world.html"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     }
 ];
