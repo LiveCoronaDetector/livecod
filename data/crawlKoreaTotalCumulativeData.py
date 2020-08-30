@@ -8,10 +8,12 @@ from utils import write_data
 
 
 def get_past_data():
-    with open("./data/koreaTotalCumulativeData.js", "r", encoding="UTF-8-sig") as f:
+    with open(
+        "./data/koreaTotalCumulativeData.js", "r", encoding="UTF-8-sig"
+    ) as f:
         data = f.read()
         obj = (
-            data[data.find("["): data.rfind("]") + 1]
+            data[data.find("[") : data.rfind("]") + 1]
             .replace("\n", "")
             .replace("\t", "")
         )
@@ -22,7 +24,9 @@ def get_today_data(url, data):
     today = date.today().strftime("%m/%d")
     html = requests.get(url).text
     soup = BeautifulSoup(html, "html.parser")
-    table = soup.find("div", class_="caseTable").find_all("dd", class_="ca_value")
+    table = soup.find("div", class_="caseTable").find_all(
+        "dd", class_="ca_value"
+    )
 
     res = []
     for tag in table:
@@ -30,7 +34,7 @@ def get_today_data(url, data):
             res.append(int(tag.text.strip().replace(",", "")))
         except ValueError:
             pass
-    
+
     total, release, _, death = res
     flag = data[-1][1] + sum(data[-1][3:]) != sum([total, death, release])
 
@@ -53,7 +57,7 @@ def run():
 
     save_dir = "./data/koreaTotalCumulativeData.js"
     crawler_name = "crawlKoreaTotalCumulativeData.py"
-    var_name = "koreaRegionalCumulativeData"
+    var_name = "koreaTotalCumulativeData"
 
     write_data(data, save_dir, crawler_name, var_name)
 

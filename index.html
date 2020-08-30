@@ -2525,7 +2525,7 @@
                       </li>
                       <li>
                         <a
-                          href="https://livecorona.co.kr/data/koreaRegionalCumulativeData.js"
+                          href="https://livecorona.co.kr/data/koreaTotalCumulativeData.js"
                           target="_blank"
                           >한국 누적 데이터</a
                         >
@@ -2757,7 +2757,7 @@
       완치자수 =
         crawlWorldCumulativeData[crawlWorldCumulativeData.length - 1][3];
       한국전일대비 =
-        koreaRegionalCumulativeData[koreaRegionalCumulativeData.length - 1][2];
+        koreaTotalCumulativeData[koreaTotalCumulativeData.length - 1][2];
       세계전일대비 =
         확진자수 -
         crawlWorldCumulativeData[crawlWorldCumulativeData.length - 2][1];
@@ -2781,20 +2781,20 @@
     </script>
     <script>
       document.getElementById("치명률").innerHTML = (
-        (koreaRegionalCumulativeData[
-          koreaRegionalCumulativeData.length - 1
+        (koreaTotalCumulativeData[
+          koreaTotalCumulativeData.length - 1
         ][3] /
-          koreaRegionalCumulativeData[
-            koreaRegionalCumulativeData.length - 1
+          koreaTotalCumulativeData[
+            koreaTotalCumulativeData.length - 1
           ][1]) *
         100
       ).toFixed(2);
       document.getElementById("한국_치명률").innerHTML = (
-        (koreaRegionalCumulativeData[
-          koreaRegionalCumulativeData.length - 1
+        (koreaTotalCumulativeData[
+          koreaTotalCumulativeData.length - 1
         ][3] /
-          koreaRegionalCumulativeData[
-            koreaRegionalCumulativeData.length - 1
+          koreaTotalCumulativeData[
+            koreaTotalCumulativeData.length - 1
           ][1]) *
         100
       ).toFixed(2);
@@ -2807,9 +2807,9 @@
         100
       ).toFixed(2);
       document.getElementById("치명률_날짜").innerHTML =
-        koreaRegionalCumulativeData[koreaRegionalCumulativeData.length - 1][0];
+        koreaTotalCumulativeData[koreaTotalCumulativeData.length - 1][0];
       document.getElementById("통계치_날짜").innerHTML =
-        koreaRegionalCumulativeData[koreaRegionalCumulativeData.length - 1][0];
+        koreaTotalCumulativeData[koreaTotalCumulativeData.length - 1][0];
     </script>
     <script>
       // 국내, 세계 상세현황 그래프 관련 스크립트
