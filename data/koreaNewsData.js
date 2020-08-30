@@ -5,28 +5,28 @@ var koreaNewsData = [
         "link": "http://news.mk.co.kr/newsRead.php?no=892881&year=2020"
     },
     {
+        "title": "제주 게하발 코로나19 확진자 속출…거짓진술에 방역망 흔들",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
+    },
+    {
+        "title": "코로나19 확진자 다녀간 제주 도청·시청 일부 부서 폐쇄",
+        "link": "http://yna.kr/AKR20200830036700056?did=1195m"
+    },
+    {
         "title": "서울 큰권능교회 확진자 일한 고양 요양원서 8명 집단감염(종합)",
         "link": "http://yna.kr/AKR20200830056951060?did=1195m"
+    },
+    {
+        "title": "한양대 기숙사에서 코로나 확진자 발생 \"동선 파악 중\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083001331.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 신규 확진자 299명…닷새만에 300명대 아래로",
         "link": "https://imnews.imbc.com/news/2020/society/article/5892609_32633.html"
     },
     {
-        "title": "확진자 방문에 제주도청·시청사 일부 폐쇄",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959930.html"
-    },
-    {
         "title": "[속보] 대구 '사랑의교회'발 확진자 34명…코로나 재확산 뇌관?(전문)",
         "link": "https://news.imaeil.com/Society/2020083011313325332"
-    },
-    {
-        "title": "제주 게하발 코로나19 확진자 속출…거짓진술에 방역망 흔들",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
-    },
-    {
-        "title": "한양대 기숙사에서 코로나 확진자 발생 \"동선 파악 중\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083001331.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나 299명 신규 확진…5일만에 300명 아래로",

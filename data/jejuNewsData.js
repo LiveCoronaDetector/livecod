@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
+        "title": "제주 게하발 코로나19 확진자 속출…거짓진술에 방역망 흔들",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
+    },
+    {
         "title": "제주도, 다음달부터 코로나 재난문자 영문으로 제공",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 40번 확진자 방문한 도청ㆍ시청 일시폐쇄…접촉 공무원 자택 대기",
         "link": "https://news.joins.com/article/olink/23454704"
-    },
-    {
-        "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
     }
 ];
