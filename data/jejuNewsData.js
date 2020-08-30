@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020083017080003200?did=NA"
     },
     {
-        "title": "제주 코로나19 39번 확진자 역학조사 결과 공개",
-        "link": "https://www.nocutnews.co.kr/news/5403536"
+        "title": "제주 40번 확진자 방문한 도청ㆍ시청 일시폐쇄…접촉 공무원 자택 대기",
+        "link": "https://news.joins.com/article/olink/23454704"
     }
 ];

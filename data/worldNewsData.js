@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.ft.com/content/b181a997-90c2-4941-848f-77f26c15b0f4"
     },
     {
-        "title": "Germany coronavirus: Anger after attempt to storm Reichstag",
+        "title": "Germany coronavirus: Anger after attempt to storm parliament",
         "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
+        "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
+        "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
     },
     {
-        "title": "N.Y. State Faces Outbreaks; U.S. Cases Ticking Up: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5658b350-eb0c-11ea-abd1-7bb866e386b6&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0zMC9iZXJsaW4tcHJvdGVzdC10dXJucy12aW9sZW50LXUtcy1jYXNlcy1waWNrLXVwLXZpcnVzLXVwZGF0ZQ=="
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     }
 ];
