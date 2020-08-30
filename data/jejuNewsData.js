@@ -13,31 +13,31 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "코로나19 확진자 방문한 제주도청·시청 부서 일시 폐쇄",
+        "link": "https://www.nocutnews.co.kr/news/5403555"
+    },
+    {
         "title": "제주도 코로나19 확진자 2명 추가 발생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959689&code=61121111&cp=nv"
     },
     {
-        "title": "코로나19 확진자 방문한 제주도청·시청 부서 일시 폐쇄",
-        "link": "https://www.nocutnews.co.kr/news/5403555"
+        "title": "[속보] ‘코로나 비상’ 제주도 ‘3인 이상 집합금지명령’",
+        "link": "http://www.segye.com/content/html/2020/08/30/20200830517578.html?OutUrl=naver"
     },
     {
         "title": "제주 코로나 확진자 2명 추가... 누적 44명",
         "link": "https://hankookilbo.com/News/Read/A2020083017080003200?did=NA"
     },
     {
-        "title": "제주 40번 확진자 방문한 도청ㆍ시청 일시폐쇄…접촉 공무원 자택 대기",
-        "link": "https://news.joins.com/article/olink/23454704"
-    },
-    {
         "title": "제주 코로나 39번째 확진자, 32명과 접촉",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349796"
     },
     {
-        "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
+        "title": "제주 40번 확진자 방문한 도청ㆍ시청 일시폐쇄…접촉 공무원 자택 대기",
+        "link": "https://news.joins.com/article/olink/23454704"
     },
     {
-        "title": "제주 코로나 41번 확진자 동선 공개, 접촉자 11명",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319518"
+        "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
     }
 ];

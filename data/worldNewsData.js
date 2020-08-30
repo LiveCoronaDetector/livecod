@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
+        "title": "Coronavirus Protests In Israel",
+        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
     },
     {
-        "title": "Virus Outbreak: News and Analysis From August 30, 2020",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=09e04110-eac5-11ea-ae9e-7fd4c487086c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0zMC9iZXJsaW4tcHJvdGVzdC10dXJucy12aW9sZW50LXUtcy1jYXNlcy1waWNrLXVwLXZpcnVzLXVwZGF0ZQ=="
+        "title": "August 29 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/h_37d9d41f0f2e2a45dd8601fa672c1660"
     },
     {
-        "title": "California Surpasses 700,000 Coronavirus Cases Even as Its Outbreak Slows",
+        "title": "European Leaders Weigh New Lockdowns as Cases Rise",
         "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
-        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
+        "title": "Coronavirus: Global cases pass 25 million as India records record spike",
+        "link": "https://www.euronews.com/2020/08/30/coronavirus-india-reports-worst-single-day-spike-in-the-world-with-over-78-000-new-cases"
     }
 ];
