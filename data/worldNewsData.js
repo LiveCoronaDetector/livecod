@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     },
     {
+        "title": "Coronavirus Protests In Israel",
+        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
+    },
+    {
+        "title": "US Coronavirus Cases Near Six Million",
+        "link": "https://www.msn.com/en-us/news/us/us-coronavirus-cases-near-six-million/ar-BB18uMSV?li=BBnb7Kz"
+    },
+    {
         "title": "California Surpasses 700,000 Coronavirus Cases Even as Its Outbreak Slows",
         "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
-        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
-    },
-    {
-        "title": "How Coronavirus Overpowered the World Health Organization",
-        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     }
 ];

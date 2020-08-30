@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "제주, 확진자 도청·시청도 방문…직원들 '패닉'(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200830_0001147715&cID=10813&pID=10800"
-    },
-    {
         "title": "제주도 코로나19 확진자 2명 추가 발생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959689&code=61121111&cp=nv"
     },
@@ -25,12 +21,16 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
     {
-        "title": "[종합] 제주도청-시청 긴급 '폐쇄' 조치...확진자 방문 '발칵' ",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426055"
+        "title": "제주, 확진자 도청·시청도 방문…직원들 '패닉'(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200830_0001147715&cID=10813&pID=10800"
     },
     {
         "title": "제주 코로나 확진자 2명 추가... 누적 44명",
         "link": "https://hankookilbo.com/News/Read/A2020083017080003200?did=NA"
+    },
+    {
+        "title": "[종합] 제주도청-시청 긴급 '폐쇄' 조치...확진자 방문 '발칵' ",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426055"
     },
     {
         "title": "제주 코로나 39번째 확진자, 32명과 접촉",
