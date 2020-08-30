@@ -30,6 +30,7 @@ jobs:
           python "data/crawlKoreaNewsData.py"
           python "data/crawlWorldNewsData.py"
           python "data/crawlJejuNewsData.py"
+          python "data/crawlJejuTrafficData.py"
       - name: Commit files
         run: |
           if [[ -n $(git status --porcelain) ]]; then
