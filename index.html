@@ -969,8 +969,8 @@
                   <div class="accordion" id="accordionExample">
                     <a class="btn btn-primary" target="_blank" style="margin-bottom:1rem; width:100%;"
                       href="https://gis.jeju.go.kr/crn/index.do" role="button">제주도청 제공 확진자 이동동선 및 안심존</a>
-                    <ul>
-                      <li>
+                    <ul id="patientsList">
+                      <!-- <li>
                         <a href="https://www.jeju.go.kr/files/convert/202008/c70b0b4a-14d0-4df5-b588-c573681a1af6.hwp.htm">38번째 확진자</a>
                       </li>
                       <li>
@@ -1002,8 +1002,8 @@
                       </li>
                       <li>
                         <a href="https://www.jeju.go.kr/files/convert/202008/23b1951b-e144-4f31-ad1b-105d87e39ccd.hwp.htm">27번째 확진자</a>
-                      </li>
-                      <li>개인정보 보호를 위하여 2주가 지난 경로는 삭제하고 있습니다.</li>
+                      </li> -->
+                      <!-- <li>개인정보 보호를 위하여 2주가 지난 경로는 삭제하고 있습니다.</li> -->
                     </ul>
                   </div>
                 </div>
@@ -1689,6 +1689,7 @@
   <script src="data/koreaNewsData.js"></script>
   <script src="data/worldNewsData.js"></script>
   <script src="data/jejuNewsData.js"></script>
+  <script src="data/jejuTrafficData.js"></script>
   <script>
     var data = marker;
 
@@ -1823,6 +1824,14 @@
     createNews(koreaNewsData, koreaNewsDiv, 19)
     createNews(jejuNewsData, JejuNewsDiv, 19)
 
+  </script>
+  <script>
+    let listString = "";
+    jejuTrafficData.forEach(data => {
+      listString += `<li><a href='${data.url}'>${data.title}</a></li>`
+    });
+    listString += '<li>개인정보 보호를 위하여 2주가 지난 경로는 삭제하고 있습니다.</li>'
+    document.getElementById("patientsList").innerHTML = listString;
   </script>
   <!-- 확진자 관련 table push 스크립트 : 확진자 이동경로 삭제에 따른 비활성화, 추후 다른 Table에 사용될 수도 있어 삭제하지 않음. -->
   <!-- <script src="js/renderTable.js"></script> -->
