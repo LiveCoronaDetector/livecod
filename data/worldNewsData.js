@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
-        "title": "South Korea low on hospital beds as second COVID-19 wave hits",
-        "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
+        "title": "'The reversal of gentrification': how Covid-19 could remake Australia's cities",
+        "link": "https://www.theguardian.com/business/2020/aug/30/the-reversal-of-gentrification-how-covid-19-could-remake-australias-cities"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
+        "title": "Trump resumes campaign rallies and utters the unthinkable: 'If Biden wins...'",
+        "link": "https://news.yahoo.com/trump-resumes-campaign-rallies-and-utters-the-unthinkable-if-biden-wins-005013504.html"
     },
     {
-        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
-        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
+        "title": "Coronavirus Protests In Israel",
+        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
     },
     {
         "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
         "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
     },
     {
-        "title": "Coronavirus: Berlin protesters told to disperse",
-        "link": "https://www.bbc.com/news/live/world-53957452"
+        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
+        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
     }
 ];

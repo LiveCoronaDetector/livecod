@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200828097200056?did=1195m"
     },
     {
-        "title": "제주 게스트하우스·온천발(發) 코로나 ‘n차 감염’ 비상",
-        "link": "http://www.segye.com/content/html/2020/08/30/20200830508314.html?OutUrl=naver"
-    },
-    {
         "title": "[속보] 제주 38번 확진자 발생…'게스트하우스발' n차감염",
         "link": "https://www.news1.kr/articles/?4041360"
     },
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/29/2020082900775.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "제주도 코로나19 재난문자 국문ㆍ영문 병행서비스",
+        "link": "https://hankookilbo.com/News/Read/A2020083010190002771?did=NA"
+    },
+    {
         "title": "대구 코로나 신규확진 30명…대구 사랑의교회 관련 29명 ‘비상’",
         "link": "https://news.joins.com/article/olink/23454564"
     },
     {
-        "title": "제주도 코로나19 재난문자 국문ㆍ영문 병행서비스",
-        "link": "https://hankookilbo.com/News/Read/A2020083010190002771?did=NA"
+        "title": "집·동호회·직장·학원·여행…코로나19 안전지대 없다",
+        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147290&cID=10201&pID=10200"
     }
 ];

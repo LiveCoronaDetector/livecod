@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5892603_32640.html"
     },
     {
+        "title": "대구 152일 만에 확진자 30명대…\"사랑의교회 고발 조치\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300056&t=NN"
+    },
+    {
         "title": "[속보] 대구 '사랑의교회'발 확진자 34명…코로나 재확산 뇌관?(전문)",
         "link": "https://news.imaeil.com/Society/2020083011313325332"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 323명···지역감염 308명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008290943001&code=940100"
-    },
-    {
-        "title": "사랑제일교회 관련 확진자 1천명 넘어…최근 2주간 사망자 16명(종합)",
-        "link": "http://yna.kr/AKR20200829045251530?did=1195m"
     },
     {
         "title": "이낙연 \"코로나 전쟁에서 승리하겠다\"…당대표 수락하며 울먹(종합)",
