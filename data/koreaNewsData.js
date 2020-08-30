@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008300937427975"
     },
     {
-        "title": "[속보] 코로나 신규확진자 닷새만에 300명 아래로",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000268.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "코로나 299명 신규 확진…5일만에 300명 아래로",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083000313.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주 코로나 4명 추가 확진…목사 거짓진술에 방역망 흔들",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
+        "title": "코로나19 신규 확진자 299명…닷새만에 300명대 아래로",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5892609_32633.html"
     },
     {
         "title": "대구 152일 만에 확진자 30명대…\"사랑의교회 고발 조치\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300056&t=NN"
     },
     {
-        "title": "[속보]국내 코로나19 신규 확진 299명...닷새 만에 200명 대",
-        "link": "https://www.sedaily.com/NewsView/1Z6S445ZXT"
-    },
-    {
-        "title": "전세계 코로나19 확진자 2천500만명 넘어…사망자 85만명 육박",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5892603_32640.html"
-    },
-    {
         "title": "코로나19 신규 확진자 299명...수도권에서만 203명",
         "link": "https://www.ytn.co.kr/_ln/0103_202008301001261211"
+    },
+    {
+        "title": "[속보] 사랑제일교회 확진자 17명 증가, 누적 1,035명",
+        "link": "https://hankookilbo.com/News/Read/A2020083014090001211?did=NA"
+    },
+    {
+        "title": "[전문] 홍천군청 3번째 확진자 동선공개",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=378227"
+    },
+    {
+        "title": "원주 105번째 코로나19 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220082900001"
     }
 ];

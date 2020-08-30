@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
-        "title": "'The reversal of gentrification': how Covid-19 could remake Australia's cities",
-        "link": "https://www.theguardian.com/business/2020/aug/30/the-reversal-of-gentrification-how-covid-19-could-remake-australias-cities"
+        "title": "South Korea low on hospital beds as second COVID-19 wave hits",
+        "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
     },
     {
         "title": "Tens of Thousands March Against Pandemic Restrictions in Berlin",

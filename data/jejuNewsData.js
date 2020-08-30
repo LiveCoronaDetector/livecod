@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020082923153464805"
     },
     {
-        "title": "[속보]제주40번 확진자, 도청·시청 방문 드러나…관가 비상",
-        "link": "https://www.news1.kr/articles/?4042079"
-    },
-    {
         "title": "제주 ‘게스트하우스’발 38번 확진자는 호텔 수습생",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014957928&code=61122027&cp=nv"
     },
@@ -29,15 +25,19 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020082919301691277?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주도청 코로나 확진자 방문 폐쇄 비상",
+        "link": "https://www.news1.kr/photos/view/?4358513"
+    },
+    {
+        "title": "제주도청-시청, 코로나19 확진자 방문으로 '폐쇄' 조치",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426047"
+    },
+    {
         "title": "대구 사랑의교회 교인 29명 집단확진, 152일만에 30명 확진자 나와",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671351&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "[속보] 제주 38번 확진자 발생…'게스트하우스발' n차감염",
-        "link": "https://www.news1.kr/articles/?4041360"
-    },
-    {
-        "title": "대구 코로나 신규확진 30명…대구 사랑의교회 관련 29명 ‘비상’",
-        "link": "https://news.joins.com/article/olink/23454564"
+        "title": "온천 방문 숨긴 목사부부에 제주도 '발칵'···해운대온천 추가 감염 없어 부...",
+        "link": "https://www.sedaily.com/NewsView/1Z6RN2BKKT"
     }
 ];
