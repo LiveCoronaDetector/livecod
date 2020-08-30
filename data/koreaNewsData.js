@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5892609_32633.html"
     },
     {
-        "title": "코로나19 확진자 다녀간 제주 도청·시청 일부 부서 폐쇄",
-        "link": "http://yna.kr/AKR20200830036700056?did=1195m"
-    },
-    {
         "title": "2주간 일평균 확진자 35명→300명…1주간 감염경로 불분명 24.9%(종합)",
         "link": "http://yna.kr/AKR20200830047951530?did=1195m"
     },
@@ -21,12 +17,16 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300101&t=NN"
     },
     {
-        "title": "신세계 강남점 직원 코로나19 확진…조기 폐점",
-        "link": "https://www.donga.com/news/article/all/20200830/102708774/2"
+        "title": "[속보] 군 내 코로나19 추가 확진…휴가통제 일주일 연장",
+        "link": "https://www.hankyung.com/life/article/2020083015267"
     },
     {
         "title": "[속보]원주서 유아 코로나19 확진",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220082900013"
+    },
+    {
+        "title": "신세계 강남점 직원 코로나19 확진…조기 폐점",
+        "link": "https://www.donga.com/news/article/all/20200830/102708774/2"
     },
     {
         "title": "한양대 기숙사에서 코로나 확진자 발생 \"동선 파악 중\"",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
-        "title": "[종합] 8.15 집회 코로나19 확진자 전국으로 확산...2.5단계 사회적 거리두기...",
-        "link": "http://www.fnnews.com/news/202008301425586292"
+        "title": "제주 게스트하우스발 코로나19 감염 수도권 확산 '비상'(종합)",
+        "link": "http://yna.kr/AKR20200830043751056?did=1195m"
     }
 ];

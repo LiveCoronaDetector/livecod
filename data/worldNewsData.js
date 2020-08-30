@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/30/latest_news/1598769034_793758.html"
     },
     {
-        "title": "Global coronavirus cases go past 25 million: Live news",
+        "title": "Global coronavirus cases exceed 25 million: Live news",
         "link": "https://www.aljazeera.com/news/2020/08/brazil-coronavirus-deaths-surpass-120000-live-updates-200829232301925.html"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     },
     {
-        "title": "Global coronavirus cases top 25 million as India sets single-day infections record",
-        "link": "https://www.nbcnews.com/news/world/global-coronavirus-cases-top-25-million-india-sets-single-day-n1238804"
-    },
-    {
-        "title": "Germany coronavirus: Hundreds arrested in German 'anti-corona' protests",
-        "link": "https://www.bbc.com/news/world-europe-53959552"
+        "title": "Virus Outbreak: News and Analysis From August 30, 2020",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=09e04110-eac5-11ea-ae9e-7fd4c487086c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOC0zMC9iZXJsaW4tcHJvdGVzdC10dXJucy12aW9sZW50LXUtcy1jYXNlcy1waWNrLXVwLXZpcnVzLXVwZGF0ZQ=="
     },
     {
         "title": "California Surpasses 700,000 Coronavirus Cases Even as Its Outbreak Slows",
         "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
+        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
     }
 ];

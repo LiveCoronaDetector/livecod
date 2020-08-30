@@ -21,16 +21,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
     {
-        "title": "제주, 확진자 도청·시청도 방문…직원들 '패닉'(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200830_0001147715&cID=10813&pID=10800"
-    },
-    {
         "title": "제주 코로나 확진자 2명 추가... 누적 44명",
         "link": "https://hankookilbo.com/News/Read/A2020083017080003200?did=NA"
     },
     {
-        "title": "'코로나19 확산' 대정·안덕·남원 초중고 '등교중지'",
-        "link": "http://www.ihalla.com/read.php3?aid=1598783813691012014"
+        "title": "제주 40번 확진자 방문한 도청ㆍ시청 일시폐쇄…접촉 공무원 자택 대기",
+        "link": "https://news.joins.com/article/olink/23454704"
     },
     {
         "title": "제주 코로나 39번째 확진자, 32명과 접촉",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
+    },
+    {
+        "title": "제주 코로나 41번 확진자 동선 공개, 접촉자 11명",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319518"
     }
 ];
