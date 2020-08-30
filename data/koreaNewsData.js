@@ -13,20 +13,16 @@ var koreaNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000943.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 신규 확진자 299명…닷새만에 300명대 아래로",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5892609_32633.html"
-    },
-    {
         "title": "[속보] 대구 '사랑의교회'발 확진자 34명…코로나 재확산 뇌관?(전문)",
         "link": "https://news.imaeil.com/Society/2020083011313325332"
     },
     {
-        "title": "[종합] 8.15 집회 코로나19 확진자 전국으로 확산...2.5단계 사회적 거리두기...",
-        "link": "http://www.fnnews.com/news/202008301425586292"
+        "title": "코로나19 신규 확진자 299명…닷새만에 300명대 아래로",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5892609_32633.html"
     },
     {
-        "title": "코로나 299명 신규 확진…5일만에 300명 아래로",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083000313.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[종합] 8.15 집회 코로나19 확진자 전국으로 확산...2.5단계 사회적 거리두기...",
+        "link": "http://www.fnnews.com/news/202008301425586292"
     },
     {
         "title": "신세계 강남점 직원 코로나19 확진…조기 폐점",
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "청주 확진자, 광화문 참가 숨겨…노인시설 전파?(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200830_0001147710&cID=10806&pID=10800"
+    },
+    {
+        "title": "코로나 299명 신규 확진…5일만에 300명 아래로",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083000313.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[단독] LGU+ 마곡사옥서 코로나19 확진자…\"협력사 직원\"",

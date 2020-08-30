@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-india-cases/india-sets-global-record-with-single-day-rise-in-coronavirus-cases-idUSKBN25Q06A"
     },
     {
-        "title": "South Korea low on hospital beds as second COVID-19 wave hits",
-        "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
+        "title": "Australia, New Zealand tread cautiously as coronavirus lingers",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-australia/australia-new-zealand-tread-cautiously-as-coronavirus-lingers-idUSKBN25Q00Q"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
     },
     {
-        "title": "California Surpasses 700,000 Coronavirus Cases Even as Its Outbreak Slows",
-        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
+        "title": "Global COVID-19 cases top 25 million, deaths approaching 850000",
+        "link": "https://www.youtube.com/watch?v=QWnsGTWQ3ew"
     },
     {
-        "title": "August 29 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/h_d1a4c6836ca3a0670d3888a5f523b14a"
+        "title": "California Surpasses 700,000 Coronavirus Cases Even as Its Outbreak Slows",
+        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
     }
 ];
