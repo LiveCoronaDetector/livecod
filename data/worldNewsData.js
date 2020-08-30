@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-india-cases/india-sets-global-record-with-single-day-rise-in-coronavirus-cases-idUSKBN25Q06A"
     },
     {
-        "title": "The Latest: S. Korea sees 299 new cases as virus spikes",
-        "link": "https://www.mercurynews.com/2020/08/29/the-latest-s-korea-sees-299-new-cases-as-virus-spikes/"
+        "title": "South Korea low on hospital beds as second COVID-19 wave hits",
+        "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     },
     {
-        "title": "Coronavirus Protests In Israel",
-        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
-    },
-    {
         "title": "California Surpasses 700,000 Coronavirus Cases Even as Its Outbreak Slows",
         "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
     },
     {
-        "title": "US Coronavirus Cases Near Six Million",
-        "link": "https://www.msn.com/en-us/news/us/us-coronavirus-cases-near-six-million/ar-BB18uMSV?li=BBnb7Kz"
+        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
+        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
+    },
+    {
+        "title": "How Coronavirus Overpowered the World Health Organization",
+        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     }
 ];
