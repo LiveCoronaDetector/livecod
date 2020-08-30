@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020083015267"
     },
     {
-        "title": "청주 확진자, 광화문 참가 숨겨…노인시설 전파?(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200830_0001147710&cID=10806&pID=10800"
-    },
-    {
         "title": "신세계 강남점 직원 코로나19 확진…조기 폐점",
         "link": "https://www.donga.com/news/article/all/20200830/102708774/2"
+    },
+    {
+        "title": "코로나19 신규 확진자 299명...수도권에서만 203명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008301001261211"
     }
 ];

@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/h_37d9d41f0f2e2a45dd8601fa672c1660"
     },
     {
-        "title": "European Leaders Weigh New Lockdowns as Cases Rise",
-        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: Global cases pass 25 million as India records record spike",
+        "link": "https://www.euronews.com/2020/08/30/coronavirus-india-reports-worst-single-day-spike-in-the-world-with-over-78-000-new-cases"
     },
     {
-        "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
-        "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
+        "title": "How Coronavirus Overpowered the World Health Organization",
+        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     }
 ];
