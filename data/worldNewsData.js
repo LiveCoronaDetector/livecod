@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
     },
     {
-        "title": "Tens of Thousands March Against Pandemic Restrictions in Berlin",
-        "link": "https://www.youtube.com/watch?v=pvy8gdxAfyo"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-29-20-intl/index.html"
     },
     {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=QEkJAZzrzUo"
     },
     {
-        "title": "How Coronavirus Overpowered the World Health Organization",
-        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
+        "title": "Coronavirus: Berlin protesters told to disperse",
+        "link": "https://www.bbc.com/news/live/world-53957452"
     }
 ];
