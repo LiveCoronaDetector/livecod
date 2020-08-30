@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020083011313325332"
     },
     {
-        "title": "[종합]코로나19 확진자 299명 증가...서울 114명, 경기 77명, 대구 30명",
-        "link": "http://www.fnnews.com/news/202008300937427975"
-    },
-    {
         "title": "[속보] 군 내 코로나19 추가 확진…휴가통제 일주일 연장",
         "link": "https://www.hankyung.com/life/article/2020083015267"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 299명···대구서 30명 발생",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008300952001&code=940601"
+        "title": "[종합]코로나19 확진자 299명 증가...서울 114명, 경기 77명, 대구 30명",
+        "link": "http://www.fnnews.com/news/202008300937427975"
     },
     {
         "title": "[속보] 코로나 신규확진자 닷새만에 300명 아래로",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000268.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "코로나 299명 신규 확진…5일만에 300명 아래로",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/30/2020083000313.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "제주 코로나 4명 추가 확진…목사 거짓진술에 방역망 흔들",
         "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
     },
     {
-        "title": "[종합] 코로나19 어제 323명 신규확진…이틀째 300명대",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082900489.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "대구 152일 만에 확진자 30명대…\"사랑의교회 고발 조치\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300056&t=NN"
+    },
+    {
+        "title": "[속보]국내 코로나19 신규 확진 299명...닷새 만에 200명 대",
+        "link": "https://www.sedaily.com/NewsView/1Z6S445ZXT"
     },
     {
         "title": "전세계 코로나19 확진자 2천500만명 넘어…사망자 85만명 육박",
         "link": "https://imnews.imbc.com/news/2020/world/article/5892603_32640.html"
     },
     {
-        "title": "이낙연 \"코로나 전쟁에서 승리하겠다\"…당대표 수락하며 울먹(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/29/2020082901118.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "대구 152일 만에 확진자 30명대…\"사랑의교회 고발 조치\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202008300056&t=NN"
+        "title": "코로나19 신규 확진자 299명...수도권에서만 203명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202008301001261211"
     }
 ];

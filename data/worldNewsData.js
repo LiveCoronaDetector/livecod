@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/case-coronavirus-reinfection-identified-live-news-200829013820307.html"
     },
     {
-        "title": "South Korea low on hospital beds as second COVID-19 wave hits",
-        "link": "https://nypost.com/2020/08/29/south-korea-low-on-hospital-beds-as-second-covid-19-wave-hits/"
+        "title": "'The reversal of gentrification': how Covid-19 could remake Australia's cities",
+        "link": "https://www.theguardian.com/business/2020/aug/30/the-reversal-of-gentrification-how-covid-19-could-remake-australias-cities"
     },
     {
-        "title": "Coronavirus Protests In Israel",
-        "link": "https://www.youtube.com/watch?v=W5VnqncNMxc"
+        "title": "Tens of Thousands March Against Pandemic Restrictions in Berlin",
+        "link": "https://www.youtube.com/watch?v=pvy8gdxAfyo"
+    },
+    {
+        "title": "Covid-19 Live Updates: California Reaches 700,000 Cases",
+        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
     },
     {
         "title": "France reports 7379 new Covid-19 cases in 'exponential' daily rise",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coke, American Air, MGM: Big companies unleash pink slips as coronavirus reshapes global economy",
         "link": "https://finance.yahoo.com/news/big-companies-unleash-a-wave-of-pink-slips-as-coronavirus-keeps-hammering-jobs-market-141401529.html"
-    },
-    {
-        "title": "How Coronavirus Overpowered the World Health Organization",
-        "link": "https://www.wsj.com/articles/the-who-was-built-to-guard-global-health-it-was-too-weak-for-coronavirus-11598625537"
     }
 ];

@@ -5,8 +5,16 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
     },
     {
+        "title": "제주도, 다음달부터 코로나 재난문자 영문으로 제공",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "제주 게스트하우스發 38번 확진자, 증상에도 무차별 활보",
         "link": "https://view.asiae.co.kr/article/2020082923153464805"
+    },
+    {
+        "title": "[속보]제주40번 확진자, 도청·시청 방문 드러나…관가 비상",
+        "link": "https://www.news1.kr/articles/?4042079"
     },
     {
         "title": "제주 ‘게스트하우스’발 38번 확진자는 호텔 수습생",
@@ -17,6 +25,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200828097200056?did=1195m"
     },
     {
+        "title": "제주 '야간 파티' 게스트 하우스 코로나 확진자 1명 추가 발생",
+        "link": "https://www.pressian.com/pages/articles/2020082919301691277?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "대구 사랑의교회 교인 29명 집단확진, 152일만에 30명 확진자 나와",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002671351&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
@@ -25,19 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4041360"
     },
     {
-        "title": "제주 게스트하우스 발 코로나19 확진자 또 나와…총 4명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528004&ref=A"
-    },
-    {
-        "title": "코로나 확진 이어져 서귀포가 발칵",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/29/2020082900775.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "제주도 코로나19 재난문자 국문ㆍ영문 병행서비스",
-        "link": "https://hankookilbo.com/News/Read/A2020083010190002771?did=NA"
-    },
-    {
-        "title": "집·동호회·직장·학원·여행…코로나19 안전지대 없다",
-        "link": "http://www.newsis.com/view/?id=NISX20200829_0001147290&cID=10201&pID=10200"
+        "title": "대구 코로나 신규확진 30명…대구 사랑의교회 관련 29명 ‘비상’",
+        "link": "https://news.joins.com/article/olink/23454564"
     }
 ];
