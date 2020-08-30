@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/30/latest_news/1598769034_793758.html"
     },
     {
-        "title": "Brazil's island idyll reopens to tourists – as long as they have had Covid-19",
-        "link": "https://www.theguardian.com/world/2020/aug/30/brazil-island-fernando-de-noronha-reopens-tourists-covid-19"
+        "title": "Global coronavirus cases exceed 25 million: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/brazil-coronavirus-deaths-surpass-120000-live-updates-200829232301925.html"
     },
     {
         "title": "Turkish mayors accuse government of coronavirus cover-up",
