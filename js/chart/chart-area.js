@@ -1,5 +1,17 @@
-// Start chart rendering
-var myLineChart = new Chart(document.getElementById("myAreaChart"), {
+const worldCumulativeData_date_Array = [];
+const worldCumulativeData_confirmed_Array = [];
+const worldCumulativeData_deaths_Array = [];
+const worldCumulativeData_recovered_Array = [];
+
+for (let i = 0; i <= worldLastIndex; i++) {
+  const dateData = worldCumulativeData[i];
+  worldCumulativeData_date_Array.push(dateData[0]);
+  worldCumulativeData_confirmed_Array.push(dateData[1]);
+  worldCumulativeData_deaths_Array.push(dateData[2]);
+  worldCumulativeData_recovered_Array.push(dateData[3]);
+}
+
+new Chart(document.getElementById("myAreaChart"), {
   type: "line",
   data: {
     labels: worldCumulativeData_date_Array,
@@ -128,7 +140,7 @@ var myLineChart = new Chart(document.getElementById("myAreaChart"), {
 });
 
 // Area Chart Example2
-var myLineChart = new Chart(document.getElementById("myAreaChart_two"), {
+new Chart(document.getElementById("myAreaChart_two"), {
   type: "line",
   data: {
     labels: ["19년11월", "19년12월", "20년1월", "20년2월"],
@@ -225,7 +237,7 @@ var myLineChart = new Chart(document.getElementById("myAreaChart_two"), {
 });
 
 // 입도객현황
-var myLineChart = new Chart(document.getElementById("myAreaChart_three"), {
+new Chart(document.getElementById("myAreaChart_three"), {
   type: "line",
   data: {
     labels: 입도객현황.날짜,
@@ -354,7 +366,7 @@ var myLineChart = new Chart(document.getElementById("myAreaChart_three"), {
 });
 
 // 한국 누적 확진자 그래프
-var myLineChart = new Chart(document.getElementById("myAreaChart_four"), {
+new Chart(document.getElementById("myAreaChart_four"), {
   type: "line",
   data: {
     labels: koreaTotalCumulativeData_날짜_Array,
@@ -498,119 +510,147 @@ var myLineChart = new Chart(document.getElementById("myAreaChart_four"), {
   },
 });
 
-var myLineChart = new Chart(document.getElementById("myAreaChart_five"), {
-  type: "line",
-  data: {
-    labels: koreaTotalCumulativeData_날짜_Array,
-    datasets: [
-      {
-        label: "한국 추이 ",
-        lineTension: 0.3,
-        backgroundColor: "rgba(78, 115, 223, 0.05)",
-        borderColor: "rgba(78, 115, 223, 1)",
-        borderWidth: 1,
-        pointRadius: 3,
-        pointBackgroundColor: "rgba(78, 115, 223, 1)",
-        pointBorderColor: "rgba(78, 115, 223, 1)",
-        pointHoverRadius: 5,
-        pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
-        pointHoverBorderColor: "rgba(78, 115, 223, 1)",
-        pointHitRadius: 10,
-        pointBorderWidth: 0,
-        data: koreaTotalCumulativeData_비율_Array,
-      },
-      {
-        label: "세계 추이 ",
-        lineTension: 0.3,
-        backgroundColor: "rgba(28, 200, 138, 0.05)",
-        borderColor: "rgba(28, 200, 138, 1)",
-        borderWidth: 1,
-        pointRadius: 3,
-        pointBackgroundColor: "rgba(28, 200, 138, 1)",
-        pointBorderColor: "rgba(28, 200, 138, 1)",
-        pointHoverRadius: 5,
-        pointHoverBackgroundColor: "rgba(28, 200, 138, 1)",
-        pointHoverBorderColor: "rgba(28, 200, 138, 1)",
-        pointHitRadius: 10,
-        pointBorderWidth: 0,
-        data: 확진자추이그래프_세계비율,
-      },
-    ],
-  },
-  options: {
-    maintainAspectRatio: false,
-    layout: {
-      padding: {
-        left: 10,
-        right: 25,
-        top: 25,
-        bottom: 5,
-      },
-    },
-    scales: {
-      xAxes: [
+{
+  const 확진자추이그래프_세계확진자 = [];
+  const 확진자추이그래프_세계확진자편차 = [];
+  const 확진자추이그래프_세계비율 = [];
+  const febFirstIndex = worldCumulativeData.map((data, index) => {
+    if (data[0] == "2/1") return index;
+  });
+
+  for (let i = febFirstIndex; i <= worldLastIndex; i++) {
+    확진자추이그래프_세계확진자.push(
+      parseInt(worldCumulativeData_confirmed_Array[i], 10)
+    );
+    console.log(worldCumulativeData_confirmed_Array[i]);
+    const worldDailyDiff =
+      worldCumulativeData_confirmed_Array[i] -
+      worldCumulativeData_confirmed_Array[i - 1];
+    if (worldDailyDiff < 0) {
+      확진자추이그래프_세계확진자편차.push(0);
+    } else {
+      확진자추이그래프_세계확진자편차.push(parseInt(worldDailyDiff, 10));
+    }
+    확진자추이그래프_세계비율.push(
+      (확진자추이그래프_세계확진자편차[i - febFirstIndex] /
+        확진자추이그래프_세계확진자[i - febFirstIndex]) *
+        100
+    );
+  }
+  new Chart(document.getElementById("myAreaChart_five"), {
+    type: "line",
+    data: {
+      labels: koreaTotalCumulativeData_날짜_Array,
+      datasets: [
         {
-          time: {
-            unit: "date",
-          },
-          gridLines: {
-            display: false,
-            drawBorder: false,
-          },
-          ticks: {
-            maxTicksLimit: 7,
-          },
+          label: "한국 추이 ",
+          lineTension: 0.3,
+          backgroundColor: "rgba(78, 115, 223, 0.05)",
+          borderColor: "rgba(78, 115, 223, 1)",
+          borderWidth: 1,
+          pointRadius: 3,
+          pointBackgroundColor: "rgba(78, 115, 223, 1)",
+          pointBorderColor: "rgba(78, 115, 223, 1)",
+          pointHoverRadius: 5,
+          pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
+          pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+          pointHitRadius: 10,
+          pointBorderWidth: 0,
+          data: koreaTotalCumulativeData_비율_Array,
+        },
+        {
+          label: "세계 추이 ",
+          lineTension: 0.3,
+          backgroundColor: "rgba(28, 200, 138, 0.05)",
+          borderColor: "rgba(28, 200, 138, 1)",
+          borderWidth: 1,
+          pointRadius: 3,
+          pointBackgroundColor: "rgba(28, 200, 138, 1)",
+          pointBorderColor: "rgba(28, 200, 138, 1)",
+          pointHoverRadius: 5,
+          pointHoverBackgroundColor: "rgba(28, 200, 138, 1)",
+          pointHoverBorderColor: "rgba(28, 200, 138, 1)",
+          pointHitRadius: 10,
+          pointBorderWidth: 0,
+          data: 확진자추이그래프_세계비율,
         },
       ],
-      yAxes: [
-        {
-          ticks: {
-            maxTicksLimit: 5,
-            padding: 10,
-            // Include a dollar sign in the ticks
-            callback: function (value, index, values) {
-              return "" + number_format(value);
+    },
+    options: {
+      maintainAspectRatio: false,
+      layout: {
+        padding: {
+          left: 10,
+          right: 25,
+          top: 25,
+          bottom: 5,
+        },
+      },
+      scales: {
+        xAxes: [
+          {
+            time: {
+              unit: "date",
+            },
+            gridLines: {
+              display: false,
+              drawBorder: false,
+            },
+            ticks: {
+              maxTicksLimit: 7,
             },
           },
-          gridLines: {
-            color: "rgb(234, 236, 244)",
-            zeroLineColor: "rgb(234, 236, 244)",
-            drawBorder: false,
-            borderDash: [2],
-            zeroLineBorderDash: [2],
+        ],
+        yAxes: [
+          {
+            ticks: {
+              maxTicksLimit: 5,
+              padding: 10,
+              // Include a dollar sign in the ticks
+              callback: function (value, index, values) {
+                return "" + number_format(value);
+              },
+            },
+            gridLines: {
+              color: "rgb(234, 236, 244)",
+              zeroLineColor: "rgb(234, 236, 244)",
+              drawBorder: false,
+              borderDash: [2],
+              zeroLineBorderDash: [2],
+            },
           },
-        },
-      ],
-    },
-    legend: {
-      display: false,
-    },
-    tooltips: {
-      backgroundColor: "rgb(255,255,255)",
-      bodyFontColor: "#858796",
-      titleMarginBottom: 10,
-      titleFontColor: "#6e707e",
-      titleFontSize: 14,
-      borderColor: "#dddfeb",
-      borderWidth: 1,
-      xPadding: 15,
-      yPadding: 15,
-      displayColors: false,
-      intersect: false,
-      mode: "index",
-      caretPadding: 10,
-      callbacks: {
-        label: function (tooltipItem, chart) {
-          var datasetLabel =
-            chart.datasets[tooltipItem.datasetIndex].label || "";
-          return datasetLabel + "" + number_format(tooltipItem.yLabel) + "%";
+        ],
+      },
+      legend: {
+        display: false,
+      },
+      tooltips: {
+        backgroundColor: "rgb(255,255,255)",
+        bodyFontColor: "#858796",
+        titleMarginBottom: 10,
+        titleFontColor: "#6e707e",
+        titleFontSize: 14,
+        borderColor: "#dddfeb",
+        borderWidth: 1,
+        xPadding: 15,
+        yPadding: 15,
+        displayColors: false,
+        intersect: false,
+        mode: "index",
+        caretPadding: 10,
+        callbacks: {
+          label: function (tooltipItem, chart) {
+            var datasetLabel =
+              chart.datasets[tooltipItem.datasetIndex].label || "";
+            return datasetLabel + "" + number_format(tooltipItem.yLabel) + "%";
+          },
         },
       },
     },
-  },
-});
+  });
+}
 
-var myChart = new Chart(document.getElementById("myAreaChart_six"), {
+new Chart(document.getElementById("myAreaChart_six"), {
   type: "line",
   data: {
     labels: koreaTotalCumulativeData_날짜_Array,
@@ -656,143 +696,152 @@ var myChart = new Chart(document.getElementById("myAreaChart_six"), {
   },
 });
 
-var myLineChart = new Chart(document.getElementById("전일대비그래프"), {
-  type: "line",
-  data: {
-    labels: koreaTotalCumulativeData_날짜_Array.slice(-10),
-    datasets: [
-      {
-        label: "한국 추이 ",
-        // lineTension: 0.3,
-        backgroundColor: "rgba(78, 115, 223, 0.5)",
-        borderColor: "rgba(78, 115, 223, 1)",
-        borderWidth: 1,
-        // pointRadius: 3,
-        pointBackgroundColor: "rgba(78, 115, 223, 1)",
-        // pointBorderColor: "rgba(78, 115, 223, 1)",
-        // pointHoverRadius: 5,
-        // pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
-        // pointHoverBorderColor: "rgba(78, 115, 223, 1)",
-        // pointHitRadius: 10,
-        // pointBorderWidth: 0,
-        data: koreaTotalCumulativeData_전일차_Array.slice(-10),
-      },
-    ],
-  },
-  options: {
-    maintainAspectRatio: false,
-    layout: {
-      padding: {
-        left: 10,
-        right: 25,
-        top: 25,
-        bottom: 5,
-      },
-    },
-    scales: {
-      xAxes: [
+{
+  let myLineChart = new Chart(document.getElementById("전일대비그래프"), {
+    type: "line",
+    data: {
+      labels: koreaTotalCumulativeData_날짜_Array.slice(-10),
+      datasets: [
         {
-          time: {
-            unit: "date",
-          },
-          gridLines: {
-            display: false,
-            drawBorder: false,
-          },
-          ticks: {
-            maxTicksLimit: 7,
-          },
+          label: "한국 추이 ",
+          // lineTension: 0.3,
+          backgroundColor: "rgba(78, 115, 223, 0.5)",
+          borderColor: "rgba(78, 115, 223, 1)",
+          borderWidth: 1,
+          // pointRadius: 3,
+          pointBackgroundColor: "rgba(78, 115, 223, 1)",
+          // pointBorderColor: "rgba(78, 115, 223, 1)",
+          // pointHoverRadius: 5,
+          // pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
+          // pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+          // pointHitRadius: 10,
+          // pointBorderWidth: 0,
+          data: koreaTotalCumulativeData_전일차_Array.slice(-10),
         },
       ],
-      yAxes: [
-        {
-          ticks: {
-            // maxTicksLimit: 5,
-            // padding: 10,
-            min: 0,
-            suggestedMax: 65,
-            // Include a dollar sign in the ticks
-            callback: function (value, index, values) {
-              return "" + number_format(value);
+    },
+    options: {
+      maintainAspectRatio: false,
+      layout: {
+        padding: {
+          left: 10,
+          right: 25,
+          top: 25,
+          bottom: 5,
+        },
+      },
+      scales: {
+        xAxes: [
+          {
+            time: {
+              unit: "date",
+            },
+            gridLines: {
+              display: false,
+              drawBorder: false,
+            },
+            ticks: {
+              maxTicksLimit: 7,
             },
           },
-          gridLines: {
-            color: "rgb(234, 236, 244)",
-            zeroLineColor: "rgb(234, 236, 244)",
-            drawBorder: false,
-            borderDash: [2],
-            zeroLineBorderDash: [2],
+        ],
+        yAxes: [
+          {
+            ticks: {
+              // maxTicksLimit: 5,
+              // padding: 10,
+              min: 0,
+              suggestedMax: 65,
+              // Include a dollar sign in the ticks
+              callback: function (value, index, values) {
+                return "" + number_format(value);
+              },
+            },
+            gridLines: {
+              color: "rgb(234, 236, 244)",
+              zeroLineColor: "rgb(234, 236, 244)",
+              drawBorder: false,
+              borderDash: [2],
+              zeroLineBorderDash: [2],
+            },
           },
-        },
-      ],
-    },
-    legend: {
-      display: false,
-    },
-    tooltips: {
-      backgroundColor: "rgb(255,255,255)",
-      bodyFontColor: "#858796",
-      titleMarginBottom: 10,
-      titleFontColor: "#6e707e",
-      titleFontSize: 14,
-      borderColor: "#dddfeb",
-      borderWidth: 1,
-      xPadding: 15,
-      yPadding: 15,
-      displayColors: false,
-      intersect: false,
-      mode: "index",
-      caretPadding: 10,
-      callbacks: {
-        label: function (tooltipItem, chart) {
-          var datasetLabel =
-            chart.datasets[tooltipItem.datasetIndex].label || "";
-          return datasetLabel + "" + number_format(tooltipItem.yLabel) + "명";
+        ],
+      },
+      legend: {
+        display: false,
+      },
+      tooltips: {
+        backgroundColor: "rgb(255,255,255)",
+        bodyFontColor: "#858796",
+        titleMarginBottom: 10,
+        titleFontColor: "#6e707e",
+        titleFontSize: 14,
+        borderColor: "#dddfeb",
+        borderWidth: 1,
+        xPadding: 15,
+        yPadding: 15,
+        displayColors: false,
+        intersect: false,
+        mode: "index",
+        caretPadding: 10,
+        callbacks: {
+          label: function (tooltipItem, chart) {
+            var datasetLabel =
+              chart.datasets[tooltipItem.datasetIndex].label || "";
+            return datasetLabel + "" + number_format(tooltipItem.yLabel) + "명";
+          },
         },
       },
     },
-  },
-});
+  });
 
-const updateDates = (chart, startDate, endDate) => {
-  const getIndex = (date) => {
-    let diff = endDate.diff(date.startOf("day")) / (24 * 60 * 60 * 1000);
-    return koreaLastIndex - diff;
+  moment.locale("ko");
+  const endDate = moment(
+    koreaTotalCumulativeData[koreaLastIndex][0] + "/2020",
+    "MM DD YYYY"
+  );
+  const startDate = moment().subtract(29, "days");
+
+  const updateDates = (chart, startDate, endDate) => {
+    const getIndex = (date) => {
+      let diff = endDate.diff(date.startOf("day")) / (24 * 60 * 60 * 1000);
+      return koreaLastIndex - diff;
+    };
+
+    let startIndex = getIndex(startDate);
+    let endIndex = getIndex(endDate) + 1;
+
+    chart.data.labels = koreaTotalCumulativeData_날짜_Array.slice(
+      startIndex,
+      endIndex
+    );
+    chart.data.datasets[0].data = koreaTotalCumulativeData_전일차_Array.slice(
+      startIndex,
+      endIndex
+    );
+    chart.update();
   };
 
-  let startIndex = getIndex(startDate);
-  let endIndex = getIndex(endDate) + 1;
+  const cb = (start, end) => {
+    $("#reportrange span").html(
+      start.format("MMMM D, YYYY") + " - " + end.format("MMMM D, YYYY")
+    );
+    updateDates(myLineChart, start, end);
+  };
 
-  chart.data.labels = koreaTotalCumulativeData_날짜_Array.slice(
-    startIndex,
-    endIndex
-  );
-  chart.data.datasets[0].data = koreaTotalCumulativeData_전일차_Array.slice(
-    startIndex,
-    endIndex
-  );
-  chart.update();
-};
-
-const cb = (start, end) => {
-  $("#reportrange span").html(
-    start.format("MMMM D, YYYY") + " - " + end.format("MMMM D, YYYY")
-  );
-  updateDates(myLineChart, start, end);
-};
-
-$("#reportrange").daterangepicker(
-  {
-    startDate,
-    endDate,
-    minDate: moment("02/01/2020", "MM DD YYYY"),
-    maxDate: endDate,
-    ranges: {
-      "지난 7일": [moment().subtract(6, "days"), endDate],
-      "지난 한달": [moment().subtract(29, "days"), endDate],
+  $("#reportrange").daterangepicker(
+    {
+      startDate,
+      endDate,
+      minDate: moment("02/01/2020", "MM DD YYYY"),
+      maxDate: endDate,
+      ranges: {
+        "지난 7일": [moment().subtract(6, "days"), endDate],
+        "지난 한달": [moment().subtract(29, "days"), endDate],
+      },
     },
-  },
-  cb
-);
+    cb
+  );
 
-cb(startDate, endDate);
+  cb(startDate, endDate);
+}

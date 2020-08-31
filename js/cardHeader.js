@@ -1,6 +1,5 @@
-let 한국확진자수 = 0;
-
 const setElementsInnerHTML = () => {
+  let 한국확진자수 = 0;
   const 한국전일대비 = koreaTotalCumulativeData[koreaLastIndex][2];
   const 세계전일대비 = 확진자수 - worldCumulativeData[worldLastIndex - 1][1];
   const 세계_치명률 = ((사망자수 / 확진자수) * 100).toFixed(2);

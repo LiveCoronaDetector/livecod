@@ -1,78 +1,9 @@
-var top15Chart = null;
+let top15Chart = null;
 
-var countryNameMapper = {
-  "Korea, Republic of": "Korea, South",
-  "United States": "US",
-};
+const createTop15Chart = (chartData) => {
+  const ctxTOP15 = document.getElementById("top15graph");
 
-NodeList.prototype.indexOf = Array.prototype.indexOf;
-
-for (let i = 0; i < topText.length; i++) {
-  topText[i].addEventListener("click", function (e) {
-    countryNameClicked(e);
-  });
-}
-
-function countryNameClicked(e) {
-  // chartData 객체는 .date (label), .confirmed,
-  // .deaths, .recovered를 사용하여 그래프를 그립니다.
-  var chartData = {};
-
-  // console.log(topText.indexOf(e.currentTarget));
-  // console.log(marker);//지도마커가 찍힘 ->  top15Countries에서 hopkins_graph_marker로 깊은복사
-
-  var countryName =
-    countryNameMapper[
-      hopkins_graph_marker[topText.indexOf(e.currentTarget)].Name_en
-    ];
-  if (!countryName) {
-    countryName =
-      hopkins_graph_marker[topText.indexOf(e.currentTarget)].Name_en;
-  }
-
-  for (let j = 0; j < hopkinsData.length; j++) {
-    if (
-      hopkinsData[j]["name"] == countryName &&
-      (hopkinsData[j]["province/state"] == "total" ||
-        hopkinsData[j]["province/state"] == "")
-    ) {
-      chartData.date = hopkinsData[0]["date"];
-      chartData.confirmed = hopkinsData[j]["confirmed"];
-      chartData.deaths = hopkinsData[j]["deaths"];
-      chartData.recovered = hopkinsData[j]["recovered"];
-
-      // 한국 증가추이 (존스홉킨스 데이터가 아니라 질본 데이터입니다.)
-      if (hopkinsData[j]["name"] == "Korea, South") {
-        var hopkinsData_korea_date_t = [];
-        var hopkinsData_korea_confirmed_t = [];
-        var hopkinsData_korea_deaths_t = [];
-        var hopkinsData_korea_recovered_t = [];
-
-        for (let k = 0; k < koreaTotalCumulativeData.length; k++) {
-          hopkinsData_korea_date_t.push(koreaTotalCumulativeData[k][0]);
-          hopkinsData_korea_confirmed_t.push(koreaTotalCumulativeData[k][1]);
-          hopkinsData_korea_deaths_t.push(koreaTotalCumulativeData[k][3]);
-          hopkinsData_korea_recovered_t.push(koreaTotalCumulativeData[k][4]);
-        }
-        chartData.date = hopkinsData_korea_date_t;
-        chartData.confirmed = hopkinsData_korea_confirmed_t;
-        chartData.deaths = hopkinsData_korea_deaths_t;
-        chartData.recovered = hopkinsData_korea_recovered_t;
-      }
-    }
-  }
-
-  if (top15Chart !== null) {
-    top15Chart.destroy();
-  }
-
-  top15Chart = createTop15Chart(chartData);
-}
-
-function createTop15Chart(chartData) {
-  var ctxTOP15 = document.getElementById("top15graph");
-
-  var top15ChartObj = new Chart(ctxTOP15, {
+  const top15ChartObj = new Chart(ctxTOP15, {
     type: "line",
     data: {
       labels: chartData.date,
@@ -201,20 +132,65 @@ function createTop15Chart(chartData) {
   });
 
   return top15ChartObj;
-}
+};
 
-function top15canvas() {
-  // if(document.getElementById('collapseTop15')){
-  //   // document.getElementById('top15graph').id = '';
-  //   //
-  //   document.getElementById('collapseTop15').classList.add('show');
-  //   document.getElementById('collapseTop15').innerHTML = '<div style="height:35rem;"><canvas id="top15graph"></canvas></div>';
-  // } else {
-  //   // document.getElementById('collapseTop15').classList.add('show');
-  //   document.getElementById('collapseTop15').innerHTML = '<div style="height:35rem;"><canvas id="top15graph"></canvas></div>';
-  // }
-  document.getElementById("collapseTop15").innerHTML =
-    '<div style="height:35rem;"><canvas id="top15graph"></canvas></div>';
-  // document.getElementById('collapseTop15').classList.add('show');
-  document.getElementById("collapseTop15").classList.remove("show");
+function countryNameClicked(e) {
+  // chartData 객체는 .date (label), .confirmed,
+  // .deaths, .recovered를 사용하여 그래프를 그립니다.
+  const chartData = {};
+  const countryNameMapper = {
+    "Korea, Republic of": "Korea, South",
+    "United States": "US",
+  };
+  const hopkins_graph_marker = JSON.parse(JSON.stringify(marker));
+
+  // console.log(topText.indexOf(e.currentTarget));
+  // console.log(marker);//지도마커가 찍힘 ->  top15Countries에서 hopkins_graph_marker로 깊은복사
+
+  let countryName =
+    countryNameMapper[
+      hopkins_graph_marker[topText.indexOf(e.currentTarget)].Name_en
+    ];
+  if (!countryName) {
+    countryName =
+      hopkins_graph_marker[topText.indexOf(e.currentTarget)].Name_en;
+  }
+
+  for (let j = 0; j < hopkinsData.length; j++) {
+    if (
+      hopkinsData[j]["name"] == countryName &&
+      (hopkinsData[j]["province/state"] == "total" ||
+        hopkinsData[j]["province/state"] == "")
+    ) {
+      chartData.date = hopkinsData[0]["date"];
+      chartData.confirmed = hopkinsData[j]["confirmed"];
+      chartData.deaths = hopkinsData[j]["deaths"];
+      chartData.recovered = hopkinsData[j]["recovered"];
+
+      // 한국 증가추이 (존스홉킨스 데이터가 아니라 질본 데이터입니다.)
+      if (hopkinsData[j]["name"] == "Korea, South") {
+        let hopkinsData_korea_date_t = [];
+        let hopkinsData_korea_confirmed_t = [];
+        let hopkinsData_korea_deaths_t = [];
+        let hopkinsData_korea_recovered_t = [];
+
+        for (let k = 0; k < koreaTotalCumulativeData.length; k++) {
+          hopkinsData_korea_date_t.push(koreaTotalCumulativeData[k][0]);
+          hopkinsData_korea_confirmed_t.push(koreaTotalCumulativeData[k][1]);
+          hopkinsData_korea_deaths_t.push(koreaTotalCumulativeData[k][3]);
+          hopkinsData_korea_recovered_t.push(koreaTotalCumulativeData[k][4]);
+        }
+        chartData.date = hopkinsData_korea_date_t;
+        chartData.confirmed = hopkinsData_korea_confirmed_t;
+        chartData.deaths = hopkinsData_korea_deaths_t;
+        chartData.recovered = hopkinsData_korea_recovered_t;
+      }
+    }
+  }
+
+  if (top15Chart !== null) {
+    top15Chart.destroy();
+  }
+
+  top15Chart = createTop15Chart(chartData);
 }

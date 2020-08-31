@@ -1,7 +1,7 @@
 //2월28일 크로스브라우징 문제 해결
 
 // 국민안심병원
-var 제주_국민안심병원 = [
+const 제주_국민안심병원 = [
   {
     이름: "제주대학교병원",
     lat: "33.4670605",
@@ -28,7 +28,7 @@ var 제주_국민안심병원 = [
   },
 ];
 // 제주지역선별진료소
-var 제주지역선별진료소 = [
+const 제주지역선별진료소 = [
   {
     이름: "한마음병원",
     lat: "33.4962918",
@@ -64,7 +64,7 @@ var 제주지역선별진료소 = [
 ];
 
 // 제주지역보건소
-var 제주지역보건소 = [
+const 제주지역보건소 = [
   {
     이름: "서귀포시 보건소",
     lat: "33.25347667",
@@ -146,10 +146,10 @@ for (let i = 0; i < 제주지역선별진료소.length; i++) {
 
   var markerOptions = {
     position: {
-      lat: lat,
-      lng: lng,
+      lat,
+      lng,
     },
-    map: map,
+    map,
   };
 
   var marker = new naver.maps.Marker(markerOptions);
@@ -261,10 +261,10 @@ for (let i = 0; i < 제주지역보건소.length; i++) {
 
   var markerOptions = {
     position: {
-      lat: lat,
-      lng: lng,
+      lat,
+      lng,
     },
-    map: map,
+    map,
     icon: {
       content:
         '<img src="../img/pin_default.png" alt="" ' +
