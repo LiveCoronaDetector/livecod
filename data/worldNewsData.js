@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/tamarathiessen/2020/08/30/europe-travel-ban-us-covid-cases-too-high-america/"
     },
     {
-        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
-        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
-    },
-    {
-        "title": "China's mega banks lost billions of dollars in profit as bad loans rise during coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/08/31/profit-declines-for-chinas-big-banks-in-first-half-of-2020-due-to-bad-loans-during-coronavirus.html"
+        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
+        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
-        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
-    },
-    {
         "title": "U.S. Coronavirus Cases Top 6 Million",
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
-        "title": "European Leaders Weigh New Lockdowns as Cases Rise",
-        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
+    },
+    {
+        "title": "Coronavirus updates: Global cases top 25M as US nears 6M; WHO warns of front line 'burnout'; experts advise against Labor Day gatherings",
+        "link": "https://www.usatoday.com/story/news/health/2020/08/30/covid-updates-world-surpasses-25-million-cases-us-closes-6-m/5669595002/"
+    },
+    {
+        "title": "China's mega banks lost billions of dollars in profit as bad loans rise during coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/08/31/profit-declines-for-chinas-big-banks-in-first-half-of-2020-due-to-bad-loans-during-coronavirus.html"
     }
 ];
