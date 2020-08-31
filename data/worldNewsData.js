@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/31/asia/india-reopening-coronavirus-surge-intl-hnk/index.html"
     },
     {
-        "title": "Scientists see downsides to top COVID-19 vaccines from Russia, China",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines-adenoviru/scientists-see-downsides-to-top-covid-19-vaccines-from-russia-china-idUSKBN25R19H"
+        "title": "Trump’s Tariffs? Coronavirus? China’s Exports Are Surging Anyway",
+        "link": "https://www.nytimes.com/2020/08/31/business/trumps-tariffs-coronavirus-china-exports.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",

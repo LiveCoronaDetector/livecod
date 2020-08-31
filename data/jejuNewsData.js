@@ -9,8 +9,8 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200831_0001149231&cID=10813&pID=10800"
     },
     {
-        "title": "목사부부 방문 숨긴 온천발 확진자 잇따라…제주도청은 일부폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008301600001&code=620117"
+        "title": "코로나 확진자 찾은 제주도·시청 일부 폐쇄",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000943.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/08/30/20200830517578.html?OutUrl=naver"
     },
     {
-        "title": "제주도, 다음달부터 코로나 재난문자 영문으로 제공",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
+    },
+    {
+        "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202008302202124481"
     }
 ];
