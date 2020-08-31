@@ -25,8 +25,8 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
     {
-        "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202008302202124481"
+        "title": "제주도청 코로나19 확진자 방문 6개 부서 일시 폐쇄",
+        "link": "https://www.pressian.com/pages/articles/2020083022412766092?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주 43·44번째 코로나19 확진자 발생",
