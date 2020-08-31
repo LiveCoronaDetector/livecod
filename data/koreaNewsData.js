@@ -9,8 +9,16 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/entertainment/article/202008315650H"
     },
     {
+        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
+    },
+    {
         "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
         "link": "http://www.fnnews.com/news/202008311047141671"
+    },
+    {
+        "title": "뮤지컬 배우 서범석, 코로나19 확진...'루드윅' 캐스팅 교체(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202008311543369066"
     },
     {
         "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
@@ -23,14 +31,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "‘루드윅’ 서범석, 코로나19 확진 판정 “자가격리 중 의심 증상”(공식입장...",
-        "link": "http://mksports.co.kr/view/2020/895432/"
-    },
-    {
-        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
     },
     {
         "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
