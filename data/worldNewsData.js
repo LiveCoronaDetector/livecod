@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "Number of US coronavirus cases nears six million: Live news",
-        "link": "https://www.aljazeera.com/news/2020/08/number-coronavirus-cases-nears-million-live-updates-200830231337349.html"
+        "title": "U.S. Coronavirus Rates Are Rising Fast Among Children",
+        "link": "https://www.nytimes.com/interactive/2020/08/31/us/coronavirus-cases-children.html"
     },
     {
         "title": "Coronavirus: 'selfish covidiots' on flight to UK from Greek island criticised",
@@ -26,18 +26,18 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUzOTY5MTE40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUzOTY5MTE4?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "U.S. Coronavirus Cases Top 6 Million",
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
-        "title": "Germany coronavirus: Anger after attempt to storm parliament",
-        "link": "https://www.bbc.com/news/world-europe-53964147"
+        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
-        "title": "Following visit from Deborah Birx, North Dakota reports 1 death, 219 new COVID-19 cases",
-        "link": "https://www.inforum.com/newsmd/coronavirus/6640026-Following-visit-from-Deborah-Birx-North-Dakota-reports-1-death-219-new-COVID-19-cases"
+        "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/31/covid-19-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
     }
 ];
