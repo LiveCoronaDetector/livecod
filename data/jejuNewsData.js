@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200830071900056?did=1195m"
     },
     {
-        "title": "확진자 방문에 제주도청·시청사 일부 폐쇄",
-        "link": "http://www.hani.co.kr/arti/area/jeju/959930.html"
+        "title": "목사부부 방문 숨긴 온천발 확진자 잇따라…제주도청은 일부폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008301600001&code=620117"
     },
     {
         "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
-        "title": "게스트하우스·온천…제주도, 하룻새 4명 코로나19 발병",
-        "link": "http://www.fnnews.com/news/202008300330060448"
+        "title": "제주 게하발 코로나19 확진자 속출…거짓진술에 방역망 흔들",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959871.html"
     },
     {
         "title": "제주도, 다음달부터 코로나 재난문자 영문으로 제공",
@@ -25,8 +25,8 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
     {
-        "title": "제주도, 산방산탄산온천 방문자 코로나 검사 지원",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319527"
+        "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202008302202124481"
     },
     {
         "title": "제주 43·44번째 코로나19 확진자 발생",

@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
-        "title": "Japan has the world’s oldest population. Yet it dodged a coronavirus crisis at elder-care facilities.",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "Coronavirus live news: US nears 6m cases, Australia records highest daily death toll",
+        "link": "https://www.theguardian.com/world/live/2020/aug/31/coronavirus-live-news-us-infections-near-6m-uk-records-highest-cases-since-june"
     },
     {
         "title": "Coronavirus: India tops 25 million COVID-19 cases as country sets record high for daily infections",
