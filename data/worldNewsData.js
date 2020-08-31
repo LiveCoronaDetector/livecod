@@ -9,24 +9,24 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
-        "title": "Turkish mayors accuse government of coronavirus cover-up",
-        "link": "https://www.ft.com/content/b181a997-90c2-4941-848f-77f26c15b0f4"
+        "title": "Israel's coronavirus commissioner is set up to miss the target",
+        "link": "https://www.jpost.com/israel-news/gamzu-set-up-to-miss-the-target-640495"
     },
     {
         "title": "Germany coronavirus: Anger after attempt to storm parliament",
         "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
-        "title": "India sets record for daily coronavirus cases",
-        "link": "https://www.youtube.com/watch?v=-V5aPp750Bc"
+        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
         "title": "Coronavirus live news: US nears 6m cases, Australia records highest daily death toll",
         "link": "https://www.theguardian.com/world/live/2020/aug/31/coronavirus-live-news-us-infections-near-6m-uk-records-highest-cases-since-june"
     },
     {
-        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
-        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
+        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
+        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
     },
     {
-        "title": "Coronavirus: India tops 25 million COVID-19 cases as country sets record high for daily infections",
-        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
+        "title": "Coronavirus: COVID-19 infections surpass 25 million worldwide",
+        "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
     }
 ];
