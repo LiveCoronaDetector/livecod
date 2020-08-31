@@ -17,27 +17,27 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
+        "title": "이 시각 제주 코로나19 상황",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4529013&ref=A"
+    },
+    {
         "title": "제주도청·시청 공무원 500여 명 코로나 검체검사 돌입",
         "link": "https://view.asiae.co.kr/article/2020083117251761824"
     },
     {
-        "title": "코로나19 확진자 방문한 제주도청·시청 부서 일시 폐쇄",
-        "link": "https://www.nocutnews.co.kr/news/5403555"
+        "title": "제주 45번째 코로나19 확진자 발생…외국인 유학생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/959998.html"
     },
     {
-        "title": "제주 43·44번째 코로나19 확진자 발생",
-        "link": "https://view.asiae.co.kr/article/2020083017270361463"
+        "title": "제주 코로나19 확진자 29일 하루에만 4명 발생",
+        "link": "https://www.pressian.com/pages/articles/2020083004521180709?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보] ‘코로나 비상’ 제주도 ‘3인 이상 집합금지명령’",
-        "link": "http://www.segye.com/content/html/2020/08/30/20200830517578.html?OutUrl=naver"
+        "title": "외교부서 코로나19 확진자 또 발생… 제주 게스트하우스發 감염 추정",
+        "link": "http://www.getnews.co.kr/view.php?ud=2020083118124232757f7a2feaf6_16"
     },
     {
-        "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
-    },
-    {
-        "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202008302202124481"
+        "title": "코로나19 제주 45번째 확진자 접촉자 모두 음성",
+        "link": "https://www.nocutnews.co.kr/news/5403932"
     }
 ];

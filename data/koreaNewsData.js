@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200831055651009?did=1195m"
     },
     {
-        "title": "쿠팡, 배송 직원 코로나19 확진… 서초 1캠프 폐쇄(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101367.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 248명···지역사회 감염 238명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
-    },
-    {
-        "title": "삼성전자, 코로나19 확진자 발생에 서울 우면 R&D 센터 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z6SKWTH0G"
+        "title": "\"코로나19는 하나님 심판…\" 집단감염 교회 목사의 황당한 설교",
+        "link": "http://yna.kr/AKR20200831091100065?did=1195m"
     },
     {
         "title": "IBK기업은행, 본점서 코로나19 확진자 발생",
         "link": "http://www.etnews.com/20200831000245"
     },
     {
-        "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
-        "link": "http://www.fnnews.com/news/202008311047141671"
+        "title": "한화이글스 신정락 투수 코로나 확진...프로스포츠 첫 확진자",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083103485.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
+        "title": "울산 코로나19 확진자 4명, 고스톱 치다 감염",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020083115271336851"
     },
     {
-        "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
+        "title": "KBO 최초 선수 확진자 발생, 2군 리그 중단 검토",
+        "link": "https://www.nocutnews.co.kr/news/5404381"
     },
     {
-        "title": "[속보] 쿠팡 서초 1캠프서 확진자 발생…캠프 폐쇄 및 추가 방역 실시",
-        "link": "https://www.hankyung.com/society/article/2020083148107"
+        "title": "건보공단, 사랑제일교회 확진자 1035명에게 55억원 구상권 청구",
+        "link": "https://www.news1.kr/articles/?4043700"
     },
     {
-        "title": "\"코로나19는 하나님 심판…\" 집단감염 교회 목사의 황당한 설교",
-        "link": "http://yna.kr/AKR20200831091100065?did=1195m"
+        "title": "황인홍 군수 기자회견(무주 코로나19 확진자 발생",
+        "link": "http://sjbnews.com/news/news.php?number=692432"
+    },
+    {
+        "title": "'루드윅' 서범석, 자가격리중 코로나 확진...\"16일 이후 접촉 없어\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200831_0001148740&cID=10701&pID=10700"
+    },
+    {
+        "title": "코로나 신규 확진 299명…닷새만에 300명 아래로",
+        "link": "http://www.hani.co.kr/arti/society/society_general/959875.html"
     }
 ];

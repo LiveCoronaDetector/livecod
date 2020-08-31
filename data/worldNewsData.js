@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/29/latest_news/1598685263_966141.html"
     },
     {
-        "title": "Eagles owner Jeffrey Lurie slams United States leadership over COVID-19 response",
-        "link": "https://sports.yahoo.com/philadelphia-eagles-owner-jeffrey-lurie-slams-united-states-leadership-coronavirus-covid19-pandemic-response-045125095.html"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html"
     },
     {
         "title": "Coronavirus: 'selfish covidiots' on flight to UK from Greek island criticised",
