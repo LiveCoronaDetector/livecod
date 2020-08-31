@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101367.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "'비상선언' 코로나19로 촬영 중단 선언 [전문]",
-        "link": "https://www.hankyung.com/entertainment/article/202008315650H"
-    },
-    {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "[단독] 송강호X이병헌X전도연 '비상선언'도 코로나19로 촬영 중단 선언..영화...",
         "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100004050018849&servicedate=20200831"
+    },
+    {
+        "title": "'비상선언' 코로나19로 촬영 중단 선언 [전문]",
+        "link": "https://www.hankyung.com/entertainment/article/202008315650H"
     },
     {
         "title": "울산 코로나19 확진자 4명, 고스톱 치다 감염",

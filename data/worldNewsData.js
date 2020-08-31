@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/31/opinion/germany-covid-lockdown-protests.html"
     },
     {
-        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
-        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
+        "title": "India presses ahead with reopening as daily coronavirus caseload surges to record-breaking high",
+        "link": "https://www.cnn.com/2020/08/31/asia/india-reopening-coronavirus-surge-intl-hnk/index.html"
     },
     {
         "title": "China's mega banks lost billions of dollars in profit as bad loans rise during coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/08/31/profit-declines-for-chinas-big-banks-in-first-half-of-2020-due-to-bad-loans-during-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
+        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
+        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
     },
     {
-        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
-        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
-    },
-    {
-        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
-        "link": "https://www.bbc.com/news/world-europe-53969564"
+        "title": "Germany coronavirus: Anger after attempt to storm parliament",
+        "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
         "title": "U.S. Coronavirus Cases Top 6 Million",
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
+    },
+    {
+        "title": "India Sets World Record for Coronavirus Infections in 24 Hours",
+        "link": "https://www.voanews.com/covid-19-pandemic/india-sets-world-record-coronavirus-infections-24-hours"
     }
 ];
