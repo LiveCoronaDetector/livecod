@@ -5,24 +5,24 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+        "title": "Number of US coronavirus cases nears six million: Live news",
+        "link": "https://www.aljazeera.com/news/2020/08/number-coronavirus-cases-nears-million-live-updates-200830231337349.html"
     },
     {
         "title": "Israel's coronavirus commissioner is set up to miss the target",
         "link": "https://www.jpost.com/israel-news/gamzu-set-up-to-miss-the-target-640495"
     },
     {
-        "title": "Germany coronavirus: Anger after attempt to storm parliament",
-        "link": "https://www.bbc.com/news/world-europe-53964147"
+        "title": "Europe Travel Ban: US Covid Cases Still Too High, What You Must Know",
+        "link": "https://www.forbes.com/sites/tamarathiessen/2020/08/30/europe-travel-ban-us-covid-cases-too-high-america/"
     },
     {
         "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
         "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
     },
     {
-        "title": "Japan has the world’s oldest population. Yet it dodged a coronavirus crisis at elder-care facilities.",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "China's mega banks lost billions of dollars in profit as bad loans rise during coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/08/31/profit-declines-for-chinas-big-banks-in-first-half-of-2020-due-to-bad-loans-during-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
     },
     {
-        "title": "U.S. Coronavirus Cases Top 6 Million",
-        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
+        "title": "Germany coronavirus: Anger after attempt to storm parliament",
+        "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
-        "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
-        "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
+        "title": "U.S. Coronavirus Cases Top 6 Million",
+        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     }
 ];

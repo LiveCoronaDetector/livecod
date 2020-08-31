@@ -29,8 +29,8 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6SKWTH0G"
     },
     {
-        "title": "뮤지컬 배우 서범석, 코로나19 확진...'루드윅' 캐스팅 교체(공식)",
-        "link": "https://www.ytn.co.kr/_sn/0117_202008311543369066"
+        "title": "'루드윅' 서범석, 자가격리중 코로나 확진...\"16일 이후 접촉 없어\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200831_0001148740&cID=10701&pID=10700"
     },
     {
         "title": "[속보] 코로나19 확진자 248명 추가...국내 238명·해외 10명",
