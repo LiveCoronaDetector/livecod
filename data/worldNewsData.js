@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
-        "title": "U.S. Coronavirus Cases Top 6 Million",
-        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
-    },
-    {
         "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
+    },
+    {
+        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     }
 ];
