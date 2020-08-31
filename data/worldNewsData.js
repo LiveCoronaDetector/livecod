@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/31/coronavirus-selfish-covidiots-on-tui-flight-to-uk-from-greek-island-criticised"
     },
     {
-        "title": "German leaders hit out at protesters’ attempt to storm Reichstag",
-        "link": "https://www.theguardian.com/world/2020/aug/30/german-leaders-hit-out-at-protesters-attempt-to-storm-reichstag-covid"
+        "title": "Meet Germany’s Bizarre Anti-Lockdown Protesters",
+        "link": "https://www.nytimes.com/2020/08/31/opinion/germany-covid-lockdown-protests.html"
     },
     {
-        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
-        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
+        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
+        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
     },
     {
         "title": "China's mega banks lost billions of dollars in profit as bad loans rise during coronavirus pandemic",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
-        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
-    },
-    {
-        "title": "U.S. Coronavirus Cases Top 6 Million",
-        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
+        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
+        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
     },
     {
         "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
         "link": "https://www.bbc.com/news/world-europe-53969564"
+    },
+    {
+        "title": "U.S. Coronavirus Cases Top 6 Million",
+        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     }
 ];
