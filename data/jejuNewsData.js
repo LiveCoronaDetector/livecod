@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200830036700056?did=1195m"
     },
     {
-        "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
-    },
-    {
         "title": "제주 45번째 코로나 확진자, 방글라데시 유학생",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=349807"
+    },
+    {
+        "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
         "title": "제주 게하발 코로나19 확진자 속출…거짓진술에 방역망 흔들",
@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
     {
+        "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202008302202124481"
+    },
+    {
         "title": "제주 43·44번째 코로나19 확진자 발생",
         "link": "https://view.asiae.co.kr/article/2020083017270361463"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나 확진자 2명 추가... 누적 44명",
         "link": "https://hankookilbo.com/News/Read/A2020083017080003200?did=NA"
-    },
-    {
-        "title": "제주 40번 확진자 방문한 도청ㆍ시청 일시폐쇄…접촉 공무원 자택 대기",
-        "link": "https://news.joins.com/article/olink/23454704"
     }
 ];
