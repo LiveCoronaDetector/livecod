@@ -17,6 +17,14 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
+        "title": "이 시각 제주 코로나19 상황",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4529013&ref=A"
+    },
+    {
+        "title": "제주도청·시청 공무원 500여 명 코로나 검체검사 돌입",
+        "link": "https://view.asiae.co.kr/article/2020083117251761824"
+    },
+    {
         "title": "코로나19 확진자 방문한 제주도청·시청 부서 일시 폐쇄",
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 다음달부터 코로나 재난문자 영문으로 제공",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
-    },
-    {
-        "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202008302202124481"
     }
 ];

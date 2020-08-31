@@ -13,24 +13,8 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "'루드윅' 서범석, 자가격리중 코로나 확진...\"16일 이후 접촉 없어\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200831_0001148740&cID=10701&pID=10700"
-    },
-    {
         "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
         "link": "https://view.asiae.co.kr/article/2020083109043999842"
-    },
-    {
-        "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
-        "link": "http://www.fnnews.com/news/202008311047141671"
-    },
-    {
-        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
-    },
-    {
-        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
     },
     {
         "title": "삼성전자, 코로나19 확진자 발생에 서울 우면 R&D 센터 폐쇄",
@@ -39,5 +23,21 @@ var koreaNewsData = [
     {
         "title": "울산 코로나19 확진자 4명, 고스톱 치다 감염",
         "link": "http://www.busan.com/view/busan/view.php?code=2020083115271336851"
+    },
+    {
+        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
+    },
+    {
+        "title": "[단독] 송강호X이병헌X전도연 '비상선언'도 코로나19로 촬영 중단 선언..영화...",
+        "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100004050018849&servicedate=20200831"
+    },
+    {
+        "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
+        "link": "http://www.fnnews.com/news/202008311047141671"
+    },
+    {
+        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
     }
 ];
