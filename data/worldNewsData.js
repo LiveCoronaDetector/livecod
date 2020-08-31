@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/gamzu-set-up-to-miss-the-target-640495"
     },
     {
-        "title": "Germany coronavirus: Anger after attempt to storm parliament",
-        "link": "https://www.bbc.com/news/world-europe-53964147"
+        "title": "Europe Travel Ban: US Covid Cases Still Too High, What You Must Know",
+        "link": "https://www.forbes.com/sites/tamarathiessen/2020/08/30/europe-travel-ban-us-covid-cases-too-high-america/"
     },
     {
         "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=-V5aPp750Bc"
     },
     {
-        "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
-        "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
-    },
-    {
         "title": "Coronavirus: COVID-19 infections surpass 25 million worldwide",
         "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
     },
     {
         "title": "US coronavirus cases approach 6 million as Midwest, schools face outbreaks",
         "link": "https://www.hindustantimes.com/world-news/us-coronavirus-cases-approach-6-million-as-midwest-schools-face-outbreaks/story-CV6xVaLvuOtfKlLG7R8OqJ.html"
+    },
+    {
+        "title": "These millennials are building businesses for a post-pandemic world",
+        "link": "https://www.cnbc.com/2020/08/31/singapore-startups-trying-to-revive-the-economy-after-coronavirus.html"
     }
 ];
