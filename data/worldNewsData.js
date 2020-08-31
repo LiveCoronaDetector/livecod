@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/30/latest_news/1598769034_793758.html"
     },
     {
-        "title": "U.S. coronavirus cases top six million as Midwest, schools face outbreaks",
-        "link": "https://www.reuters.com/article/health-coronavirus-usa/us-coronavirus-cases-approach-6-million-as-midwest-schools-face-outbreaks-idUSL1N2FW04J"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
         "title": "Turkish mayors accuse government of coronavirus cover-up",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "Coronavirus Cases Top 25 Million Globally As India Emerges As A New Epicenter",
-        "link": "https://www.npr.org/2020/08/30/907630621/coronavirus-cases-top-25-million-globally-as-india-emerges-as-a-new-epicenter"
+        "title": "'Small events add up to a lot': Limited gatherings quietly emerge as source of coronavirus infections",
+        "link": "https://www.usatoday.com/story/news/nation/2020/08/30/covid-19-small-gatherings-quietly-significant-source-infections/5650677002/"
     },
     {
         "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
     },
     {
-        "title": "Coronavirus updates: Global cases top 25M as US nears 6M; WHO warns of front line 'burnout'; experts advise against Labor Day gatherings",
-        "link": "https://www.usatoday.com/story/news/health/2020/08/30/covid-updates-world-surpasses-25-million-cases-us-closes-6-m/5669595002/"
+        "title": "European Leaders Weigh New Lockdowns as Cases Rise",
+        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
     }
 ];
