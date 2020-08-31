@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "Coronavirus News: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html"
+        "title": "Eagles owner Jeffrey Lurie slams United States leadership over COVID-19 response",
+        "link": "https://sports.yahoo.com/philadelphia-eagles-owner-jeffrey-lurie-slams-united-states-leadership-coronavirus-covid19-pandemic-response-045125095.html"
     },
     {
         "title": "Coronavirus: 'selfish covidiots' on flight to UK from Greek island criticised",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
-        "title": "Germany coronavirus: Anger after attempt to storm parliament",
-        "link": "https://www.bbc.com/news/world-europe-53964147"
-    },
-    {
         "title": "U.S. Coronavirus Cases Top 6 Million",
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus Cases Top 25 Million Globally As India Emerges As A New Epicenter",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/30/907630621/coronavirus-cases-top-25-million-globally-as-india-emerges-as-a-new-epicenter"
+        "title": "Germany coronavirus: Anger after attempt to storm parliament",
+        "link": "https://www.bbc.com/news/world-europe-53964147"
+    },
+    {
+        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     }
 ];

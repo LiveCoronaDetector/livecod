@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200830071900056?did=1195m"
     },
     {
-        "title": "목사부부 방문 숨긴 온천발 확진자 잇따라…제주도청은 일부폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008301600001&code=620117"
-    },
-    {
         "title": "제주, 46번째 코로나19 확진자 발생…그 온천 방문자",
         "link": "http://www.newsis.com/view/?id=NISX20200831_0001149231&cID=10813&pID=10800"
+    },
+    {
+        "title": "목사부부 방문 숨긴 온천발 확진자 잇따라…제주도청은 일부폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008301600001&code=620117"
     },
     {
         "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
