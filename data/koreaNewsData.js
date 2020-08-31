@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101367.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "'비상선언' 코로나19로 촬영 중단 선언 [전문]",
+        "link": "https://www.hankyung.com/entertainment/article/202008315650H"
+    },
+    {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
@@ -17,10 +21,6 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6SJPLO7K"
     },
     {
-        "title": "인도네시아에도 '변종 코로나' 출현…​ 전염력 10배 강해",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/08/31/2020083102194.html"
-    },
-    {
         "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
         "link": "https://view.asiae.co.kr/article/2020083109043999842"
     },
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100004050018849&servicedate=20200831"
     },
     {
-        "title": "'비상선언' 코로나19로 촬영 중단 선언 [전문]",
-        "link": "https://www.hankyung.com/entertainment/article/202008315650H"
-    },
-    {
         "title": "울산 코로나19 확진자 4명, 고스톱 치다 감염",
         "link": "http://www.busan.com/view/busan/view.php?code=2020083115271336851"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 248명···지역사회 감염 238명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
+    },
+    {
+        "title": "안철수 “코로나19 재확산, 임시공휴일에 쿠폰 뿌려댄 정부 탓”",
+        "link": "https://www.donga.com/news/article/all/20200831/102717888/2"
     }
 ];

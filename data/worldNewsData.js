@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/31/profit-declines-for-chinas-big-banks-in-first-half-of-2020-due-to-bad-loans-during-coronavirus.html"
     },
     {
-        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
-        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
+        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+    },
+    {
+        "title": "Coronavirus cases surpass 25 million as pandemic strains nations around the world",
+        "link": "https://www.cnbc.com/2020/08/30/global-coronavirus-cases-surpass-25-million-as-pandemic-strains-nations-around-the-world.html"
     },
     {
         "title": "Germany coronavirus: Anger after attempt to storm parliament",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "U.S. Coronavirus Cases Top 6 Million",
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
-    },
-    {
-        "title": "India Sets World Record for Coronavirus Infections in 24 Hours",
-        "link": "https://www.voanews.com/covid-19-pandemic/india-sets-world-record-coronavirus-infections-24-hours"
     }
 ];
