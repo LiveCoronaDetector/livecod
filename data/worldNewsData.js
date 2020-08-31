@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus Africa live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/30/latest_news/1598769034_793758.html"
+        "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
         "title": "Covid-19 News: Live Updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: COVID-19 infections surpass 25 million worldwide",
-        "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
+        "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
+        "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
     },
     {
-        "title": "These millennials are building businesses for a post-pandemic world",
-        "link": "https://www.cnbc.com/2020/08/31/singapore-startups-trying-to-revive-the-economy-after-coronavirus.html"
+        "title": "Coronavirus: COVID-19 infections surpass 25 million worldwide",
+        "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
     }
 ];
