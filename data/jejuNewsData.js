@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
+        "title": "제주도청·시청 공무원 500여 명 코로나 검체검사 돌입",
+        "link": "https://view.asiae.co.kr/article/2020083117251761824"
+    },
+    {
         "title": "코로나19 확진자 방문한 제주도청·시청 부서 일시 폐쇄",
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
-    },
-    {
-        "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202008302202124481"
     }
 ];

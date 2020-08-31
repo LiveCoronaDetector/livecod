@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101367.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
+        "title": "'비상선언' 코로나19로 촬영 중단 선언 [전문]",
+        "link": "https://www.hankyung.com/entertainment/article/202008315650H"
     },
     {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "뮤지컬 배우 서범석, 코로나19 확진...'루드윅' 캐스팅 교체(공식)",
-        "link": "https://www.ytn.co.kr/_sn/0117_202008311543369066"
+        "title": "\"코로나19는 하나님 심판…\" 집단감염 교회 목사의 황당한 설교",
+        "link": "http://yna.kr/AKR20200831091100065?did=1195m"
     },
     {
-        "title": "삼성전자, 코로나19 확진자 발생에 서울 우면 R&D 센터 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z6SKWTH0G"
+        "title": "쿠팡 서초동 배송캠프서 코로나19 확진자 1명 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z6SJPLO7K"
+    },
+    {
+        "title": "인도네시아에도 '변종 코로나' 출현…​ 전염력 10배 강해",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/08/31/2020083102194.html"
+    },
+    {
+        "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
+        "link": "https://view.asiae.co.kr/article/2020083109043999842"
+    },
+    {
+        "title": "[단독] 송강호X이병헌X전도연 '비상선언'도 코로나19로 촬영 중단 선언..영화...",
+        "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100004050018849&servicedate=20200831"
     },
     {
         "title": "울산 코로나19 확진자 4명, 고스톱 치다 감염",
         "link": "http://www.busan.com/view/busan/view.php?code=2020083115271336851"
     },
     {
-        "title": "'비상선언' 코로나19로 촬영 중단 선언 [전문]",
-        "link": "https://www.hankyung.com/entertainment/article/202008315650H"
-    },
-    {
-        "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
-        "link": "http://www.fnnews.com/news/202008311047141671"
-    },
-    {
-        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
-    },
-    {
-        "title": "[속보] 코로나19 확진자 248명 추가...국내 238명·해외 10명",
-        "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
+        "title": "[속보] 코로나19 신규 확진자 248명···지역사회 감염 238명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
     }
 ];

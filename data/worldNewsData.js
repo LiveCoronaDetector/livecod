@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/08/number-coronavirus-cases-nears-million-live-updates-200830231337349.html"
     },
     {
-        "title": "Coronavirus latest: Turkey suffers historic 11% contraction in second quarter",
-        "link": "https://www.ft.com/content/8297af82-2858-3558-a7f0-163574e06b96"
+        "title": "Coronavirus: 'selfish covidiots' on flight to UK from Greek island criticised",
+        "link": "https://www.theguardian.com/world/2020/aug/31/coronavirus-selfish-covidiots-on-tui-flight-to-uk-from-greek-island-criticised"
     },
     {
-        "title": "Europe Travel Ban: US Covid Cases Still Too High, What You Must Know",
-        "link": "https://www.forbes.com/sites/tamarathiessen/2020/08/30/europe-travel-ban-us-covid-cases-too-high-america/"
+        "title": "Meet Germany’s Bizarre Anti-Lockdown Protesters",
+        "link": "https://www.nytimes.com/2020/08/31/opinion/germany-covid-lockdown-protests.html"
     },
     {
         "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
     },
     {
-        "title": "U.S. Coronavirus Cases Top 6 Million",
-        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
+        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
-        "title": "European Leaders Weigh New Lockdowns as Cases Rise",
-        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
+        "title": "U.S. Coronavirus Cases Top 6 Million",
+        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     }
 ];
