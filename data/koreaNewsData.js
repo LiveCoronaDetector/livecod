@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/entertainment/article/202008315650H"
     },
     {
+        "title": "한화 재활군 투수 신정락, 코로나 확진…국내 프로스포츠 첫사례(종합)",
+        "link": "http://yna.kr/AKR20200831178051063?did=1195m"
+    },
+    {
+        "title": "[단독] 송강호X이병헌X전도연 '비상선언'도 코로나19로 촬영 중단 선언..영화...",
+        "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100004050018849&servicedate=20200831"
+    },
+    {
         "title": "삼성전자, 코로나19 확진자 발생에 서울 우면 R&D 센터 폐쇄",
         "link": "https://www.sedaily.com/NewsView/1Z6SKWTH0G"
     },
@@ -21,23 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008311047141671"
     },
     {
+        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
+    },
+    {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "쿠팡 서초동 배송캠프서 코로나19 확진자 1명 발생",
-        "link": "https://www.sedaily.com/NewsView/1Z6SJPLO7K"
-    },
-    {
-        "title": "\"코로나19는 하나님 심판…\" 집단감염 교회 목사의 황당한 설교",
-        "link": "http://yna.kr/AKR20200831091100065?did=1195m"
-    },
-    {
-        "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
-        "link": "https://view.asiae.co.kr/article/2020083109043999842"
-    },
-    {
-        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
+        "title": "[속보] 코로나19 확진자 248명 추가...국내 238명·해외 10명",
+        "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
     }
 ];

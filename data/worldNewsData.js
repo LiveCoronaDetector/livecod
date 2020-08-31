@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "U.S. Coronavirus Rates Are Rising Fast Among Children",
-        "link": "https://www.nytimes.com/interactive/2020/08/31/us/coronavirus-cases-children.html"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html"
     },
     {
         "title": "Coronavirus: 'selfish covidiots' on flight to UK from Greek island criticised",
@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/31/asia/india-reopening-coronavirus-surge-intl-hnk/index.html"
     },
     {
-        "title": "China's mega banks lost billions of dollars in profit as bad loans rise during coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/08/31/profit-declines-for-chinas-big-banks-in-first-half-of-2020-due-to-bad-loans-during-coronavirus.html"
+        "title": "Scientists see downsides to top COVID-19 vaccines from Russia, China",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines-adenoviru/scientists-see-downsides-to-top-covid-19-vaccines-from-russia-china-idUSKBN25R19H"
     },
     {
         "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTUzOTY5MTE40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTUzOTY5MTE4?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
         "title": "U.S. Coronavirus Cases Top 6 Million",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
-        "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/31/covid-19-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
+        "title": "Coronavirus: Global cases pass 25 million, India hits 78k in a day - Business Insider",
+        "link": "https://www.businessinsider.com/coronavirus-india-single-day-spike-global-25-million-2020-8"
     }
 ];

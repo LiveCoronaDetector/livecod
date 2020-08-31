@@ -9,8 +9,8 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008301600001&code=620117"
     },
     {
-        "title": "제주 46번째 코로나19 확진자 나와…산방산온천 방문 이력",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528976&ref=A"
+        "title": "제주, 46번째 코로나19 확진자 발생…그 온천 방문자",
+        "link": "http://www.newsis.com/view/?id=NISX20200831_0001149231&cID=10813&pID=10800"
     },
     {
         "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
