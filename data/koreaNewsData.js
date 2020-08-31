@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100004050018849&servicedate=20200831"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 248명···지역사회 감염 238명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
+    },
+    {
         "title": "삼성전자, 코로나19 확진자 발생에 서울 우면 R&D 센터 폐쇄",
         "link": "https://www.sedaily.com/NewsView/1Z6SKWTH0G"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "[속보] 코로나19 확진자 248명 추가...국내 238명·해외 10명",
-        "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
     }
 ];

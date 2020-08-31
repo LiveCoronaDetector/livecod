@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
+        "title": "Germany coronavirus: Anger after attempt to storm parliament",
+        "link": "https://www.bbc.com/news/world-europe-53964147"
+    },
+    {
         "title": "U.S. Coronavirus Cases Top 6 Million",
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
-        "link": "https://www.bbc.com/news/world-europe-53969564"
-    },
-    {
-        "title": "Coronavirus: Global cases pass 25 million, India hits 78k in a day - Business Insider",
-        "link": "https://www.businessinsider.com/coronavirus-india-single-day-spike-global-25-million-2020-8"
+        "title": "Coronavirus Cases Top 25 Million Globally As India Emerges As A New Epicenter",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/30/907630621/coronavirus-cases-top-25-million-globally-as-india-emerges-as-a-new-epicenter"
     }
 ];
