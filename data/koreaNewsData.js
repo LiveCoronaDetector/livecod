@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101367.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "KBO 최초 선수 확진자 발생, 2군 리그 중단 검토",
-        "link": "https://www.nocutnews.co.kr/news/5404381"
-    },
-    {
-        "title": "미국 코로나19 확진자 600만명 넘어…급속한 확산세는 일부 제동(종합)",
-        "link": "http://yna.kr/AKR20200831055651009?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 248명···지역사회 감염 238명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
     },
@@ -31,6 +23,14 @@ var koreaNewsData = [
     {
         "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
         "link": "http://www.fnnews.com/news/202008311047141671"
+    },
+    {
+        "title": "KBO 최초 선수 확진자 발생, 2군 리그 중단 검토",
+        "link": "https://www.nocutnews.co.kr/news/5404381"
+    },
+    {
+        "title": "미국 코로나19 확진자 600만명 넘어…급속한 확산세는 일부 제동(종합)",
+        "link": "http://yna.kr/AKR20200831055651009?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
