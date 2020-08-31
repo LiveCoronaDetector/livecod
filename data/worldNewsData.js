@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/gamzu-set-up-to-miss-the-target-640495"
     },
     {
-        "title": "Europe Travel Ban: US Covid Cases Still Too High, What You Must Know",
-        "link": "https://www.forbes.com/sites/tamarathiessen/2020/08/30/europe-travel-ban-us-covid-cases-too-high-america/"
+        "title": "Germany coronavirus: Anger after attempt to storm parliament",
+        "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
         "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=-V5aPp750Bc"
     },
     {
-        "title": "Coronavirus: COVID-19 infections surpass 25 million worldwide",
-        "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "Alarm as FDA willing to issue Covid-19 vaccine before stringent safety testing",
-        "link": "https://www.theguardian.com/world/2020/aug/30/fda-covid-19-vaccine-fast-track"
+        "title": "Coronavirus: COVID-19 infections surpass 25 million worldwide",
+        "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
+    },
+    {
+        "title": "These millennials are building businesses for a post-pandemic world",
+        "link": "https://www.cnbc.com/2020/08/31/singapore-startups-trying-to-revive-the-economy-after-coronavirus.html"
     }
 ];

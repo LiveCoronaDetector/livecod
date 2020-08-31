@@ -13,18 +13,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008311047141671"
     },
     {
-        "title": "코로나19 어제 신규 확진 248명…이틀연속 200명대",
-        "link": "http://www.etnews.com/20200831000024"
-    },
-    {
-        "title": "인도네시아에도 D614G 코로나 변종 바이러스…전염력 10배 높다?",
-        "link": "http://yna.kr/AKR20200831042500104?did=1195m"
-    },
-    {
-        "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
-        "link": "https://view.asiae.co.kr/article/2020083109043999842"
-    },
-    {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
@@ -33,11 +21,23 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
     },
     {
+        "title": "코로나19 어제 신규 확진 248명…이틀연속 200명대",
+        "link": "http://www.etnews.com/20200831000024"
+    },
+    {
+        "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
+        "link": "https://view.asiae.co.kr/article/2020083109043999842"
+    },
+    {
+        "title": "코로나19에 전국 7천507개교 등교 못 해…최다 기록 또 경신(종합)",
+        "link": "http://yna.kr/AKR20200831104051530?did=1195m"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 248명···지역사회 감염 238명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
     },
     {
-        "title": "[단독] ‘신과 함께’ 덱스터 스튜디오서 코로나 확진자 발생…“DDMC 방역 완...",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020083112032979060"
+        "title": "김포공항 코로나 확산 우려…경비대원 5명 확진 판정(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200831_0001148529&cID=10801&pID=14000"
     }
 ];
