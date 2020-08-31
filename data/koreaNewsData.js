@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6SJPLO7K"
     },
     {
+        "title": "\"코로나19는 하나님 심판…\" 집단감염 교회 목사의 황당한 설교",
+        "link": "http://yna.kr/AKR20200831091100065?did=1195m"
+    },
+    {
         "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
         "link": "https://view.asiae.co.kr/article/2020083109043999842"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020083115271336851"
     },
     {
+        "title": "삼성전자, 우면 R&D 캠퍼스에도 코로나 확진자 발생",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/31/2020083102623.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "[단독] 송강호X이병헌X전도연 '비상선언'도 코로나19로 촬영 중단 선언..영화...",
         "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100004050018849&servicedate=20200831"
     },
     {
         "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
         "link": "http://www.fnnews.com/news/202008311047141671"
-    },
-    {
-        "title": "삼성전자, 우면 R&D 캠퍼스에도 코로나 확진자 발생",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/31/2020083102623.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "IBK기업은행, 본점서 코로나19 확진자 발생",
-        "link": "http://www.etnews.com/20200831000245"
     }
 ];

@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/31/profit-declines-for-chinas-big-banks-in-first-half-of-2020-due-to-bad-loans-during-coronavirus.html"
     },
     {
-        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
-        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/31/covid-19-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
+        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
+        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
     },
     {
         "title": "U.S. Coronavirus Cases Top 6 Million",
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
-        "title": "European Leaders Weigh New Lockdowns as Cases Rise",
-        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     }
 ];
