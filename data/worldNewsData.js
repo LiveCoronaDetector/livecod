@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/31/coronavirus-selfish-covidiots-on-tui-flight-to-uk-from-greek-island-criticised"
     },
     {
-        "title": "Germany coronavirus: Hundreds arrested in German 'anti-corona' protests",
-        "link": "https://www.bbc.com/news/world-europe-53959552"
+        "title": "A Coronavirus Second Wave Grips Spain",
+        "link": "https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html"
     },
     {
         "title": "India presses ahead with reopening as daily coronavirus caseload surges to record-breaking high",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
+        "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/31/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
     },
     {
         "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",

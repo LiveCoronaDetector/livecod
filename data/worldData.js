@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6204992,
-        "사망자수": 187606,
-        "완치자수": 3442436
+        "확진자수": 6205705,
+        "사망자수": 187624,
+        "완치자수": 3443173
     },
     {
         "Name": "브라질",
@@ -14,7 +14,7 @@ var marker = [
         "Name_en": "Brazil",
         "확진자수": 3908272,
         "사망자수": 121381,
-        "완치자수": 3031559
+        "완치자수": 3097734
     },
     {
         "Name": "인도",
@@ -620,9 +620,9 @@ var marker = [
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "확진자수": 16190,
-        "사망자수": 613,
-        "완치자수": 11313
+        "확진자수": 16266,
+        "사망자수": 629,
+        "완치자수": 11483
     },
     {
         "Name": "Madagascar",
@@ -1137,20 +1137,20 @@ var marker = [
         "완치자수": 1585
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 1727,
+        "사망자수": 22,
+        "완치자수": 676
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "확진자수": 1724,
         "사망자수": 6,
         "완치자수": 493
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 1683,
-        "사망자수": 21,
-        "완치자수": 672
     },
     {
         "Name": "Réunion",
@@ -1297,20 +1297,20 @@ var marker = [
         "완치자수": 354
     },
     {
+        "Name": "산마리노",
+        "Name_ch": "圣马力诺",
+        "Name_en": "San Marino",
+        "확진자수": 715,
+        "사망자수": 42,
+        "완치자수": 660
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "日本 邮轮",
         "Name_en": "Diamond Princess",
         "확진자수": 712,
         "사망자수": 13,
         "완치자수": 651
-    },
-    {
-        "Name": "산마리노",
-        "Name_ch": "圣马力诺",
-        "Name_en": "San Marino",
-        "확진자수": 710,
-        "사망자수": 42,
-        "완치자수": 658
     },
     {
         "Name": "Channel Islands",
@@ -1497,20 +1497,20 @@ var marker = [
         "완치자수": 139
     },
     {
+        "Name": "모나코",
+        "Name_ch": "摩纳哥",
+        "Name_en": "Monaco",
+        "확진자수": 138,
+        "사망자수": 1,
+        "완치자수": 89
+    },
+    {
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
         "확진자수": 136,
         "사망자수": 0,
         "완치자수": 127
-    },
-    {
-        "Name": "모나코",
-        "Name_ch": "摩纳哥",
-        "Name_en": "Monaco",
-        "확진자수": 131,
-        "사망자수": 1,
-        "완치자수": 89
     },
     {
         "Name": "리히텐슈타인",
