@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
-        "title": "India Records World's Highest Single-Day Rise In Covid-19 Cases",
-        "link": "https://www.youtube.com/watch?v=j8negYILvOw"
+        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
         "title": "Japan has the world’s oldest population. Yet it dodged a coronavirus crisis at elder-care facilities.",
         "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "India reports nearly 80,000 new coronavirus cases in one day",
-        "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-india-record-single-day-number-cases-20200830-ateyq236qvdafpyvdpbxou3ky4-story.html"
+        "title": "Coronavirus: India tops 25 million COVID-19 cases as country sets record high for daily infections",
+        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
