@@ -1057,20 +1057,20 @@ var marker = [
         "완치자수": 1127
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 2167,
+        "사망자수": 50,
+        "완치자수": 782
+    },
+    {
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
         "확진자수": 2145,
         "사망자수": 40,
         "완치자수": 1738
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 2135,
-        "사망자수": 50,
-        "완치자수": 782
     },
     {
         "Name": "Jamaica",

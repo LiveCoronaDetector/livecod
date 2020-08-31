@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
-        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
+        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
     },
     {
-        "title": "Coronavirus live news: US nears 6m cases, Australia records highest daily death toll",
-        "link": "https://www.theguardian.com/world/live/2020/aug/31/coronavirus-live-news-us-infections-near-6m-uk-records-highest-cases-since-june"
+        "title": "Japan has the world’s oldest population. Yet it dodged a coronavirus crisis at elder-care facilities.",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
-        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
+        "title": "India sets record for daily coronavirus cases",
+        "link": "https://www.youtube.com/watch?v=-V5aPp750Bc"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
     },
     {
-        "title": "Coronavirus: COVID-19 infections surpass 25 million worldwide",
-        "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
+        "title": "36 states report a total of 8,700 Covid-19 cases at colleges and universities; country nears 6 million",
+        "link": "https://www.cnn.com/2020/08/30/health/us-coronavirus-sunday/index.html"
     }
 ];

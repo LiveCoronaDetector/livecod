@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
     },
     {
-        "title": "코로나 신규확진 248명…이틀째 200명대",
-        "link": "http://www.hani.co.kr/arti/society/society_general/960000.html"
+        "title": "’지원금 파티’ 끝난 소비… 코로나 재확산에 경기 또 얼어붙나",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101091.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
