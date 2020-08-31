@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/08/30/20200830517578.html?OutUrl=naver"
     },
     {
-        "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202008302202124481"
-    },
-    {
         "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967001"
+    },
+    {
+        "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202008302202124481"
     },
     {
         "title": "제주 코로나 41번 확진자 동선 공개, 접촉자 11명",

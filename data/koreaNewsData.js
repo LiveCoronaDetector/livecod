@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://mksports.co.kr/view/2020/895432/"
     },
     {
-        "title": "인도네시아에도 '변종 코로나' 출현…​ 전염력 10배 강해",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/08/31/2020083102194.html"
+        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
     },
     {
         "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
         "link": "https://view.asiae.co.kr/article/2020083109043999842"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 248명···지역사회 감염 238명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
+        "title": "코로나19에 전국 7천507개교 등교 못 해…최다 기록 또 경신(종합)",
+        "link": "http://yna.kr/AKR20200831104051530?did=1195m"
     }
 ];

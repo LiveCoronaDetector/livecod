@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
+        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
         "title": "Israel's coronavirus commissioner is set up to miss the target",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "India sets record for daily coronavirus cases",
-        "link": "https://www.youtube.com/watch?v=-V5aPp750Bc"
+        "title": "India crosses 3.5 MN mark with record rise in COVID-19 cases | Coronavirus Pandemic | World News",
+        "link": "https://www.youtube.com/watch?v=3m05w3zUPHc"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
-        "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
+        "title": "36 states report a total of 8,700 Covid-19 cases at colleges and universities; country nears 6 million",
+        "link": "https://www.cnn.com/2020/08/30/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Coronavirus: COVID-19 infections surpass 25 million worldwide",
-        "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
+        "title": "These millennials are building businesses for a post-pandemic world",
+        "link": "https://www.cnbc.com/2020/08/31/singapore-startups-trying-to-revive-the-economy-after-coronavirus.html"
     }
 ];
