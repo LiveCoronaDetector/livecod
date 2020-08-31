@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
-        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+        "title": "India sets record for daily coronavirus cases",
+        "link": "https://www.youtube.com/watch?v=-V5aPp750Bc"
     },
     {
         "title": "Coronavirus live news: US nears 6m cases, Australia records highest daily death toll",
         "link": "https://www.theguardian.com/world/live/2020/aug/31/coronavirus-live-news-us-infections-near-6m-uk-records-highest-cases-since-june"
     },
     {
-        "title": "Coronavirus: India tops 25 million COVID-19 cases as country sets record high for daily infections",
-        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
+        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
+        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
     },
     {
-        "title": "Coronavirus Cases Top 25 Million Globally As India Emerges As A New Epicenter",
-        "link": "https://www.npr.org/2020/08/30/907630621/coronavirus-cases-top-25-million-globally-as-india-emerges-as-a-new-epicenter"
+        "title": "Coronavirus: India tops 25 million COVID-19 cases as country sets record high for daily infections",
+        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
     }
 ];
