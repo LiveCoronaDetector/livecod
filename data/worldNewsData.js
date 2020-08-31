@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
-        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
-        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
+        "title": "Coronavirus: India tops 3.5 million COVID-19 cases as country sets record high for daily infections",
+        "link": "https://www.youtube.com/watch?v=5GOyYi40f2g"
     },
     {
         "title": "Japan has the world’s oldest population. Yet it dodged a coronavirus crisis at elder-care facilities.",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "India crosses 3.5 MN mark with record rise in COVID-19 cases | Coronavirus Pandemic | World News",
-        "link": "https://www.youtube.com/watch?v=3m05w3zUPHc"
+        "title": "India records biggest single-day coronavirus infection spike with 78,761 new cases",
+        "link": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike"
     },
     {
         "title": "U.S. Coronavirus Cases Top 6 Million",
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
-        "link": "https://www.bbc.com/news/world-europe-53969564"
+        "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
+        "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
     }
 ];

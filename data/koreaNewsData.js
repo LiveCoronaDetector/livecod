@@ -9,16 +9,24 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/entertainment/article/202008315650H"
     },
     {
+        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
+    },
+    {
         "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
         "link": "http://www.fnnews.com/news/202008311047141671"
+    },
+    {
+        "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
     },
     {
-        "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
+        "title": "삼성전자, 코로나19 확진자 발생에 서울 우면 R&D 센터 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z6SKWTH0G"
     },
     {
         "title": "뮤지컬 배우 서범석, 코로나19 확진...'루드윅' 캐스팅 교체(공식)",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
     },
     {
-        "title": "확진자와 고스톱 친 4명 감염…울산서 하루 6명 확진(종합)",
-        "link": "http://yna.kr/AKR20200831090351057?did=1195m"
-    },
-    {
-        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
-    },
-    {
-        "title": "[단독] 송강호X이병헌X전도연 '비상선언'도 코로나19로 촬영 중단 선언..영화...",
-        "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100004050018849&servicedate=20200831"
+        "title": "울산 코로나19 확진자 4명, 고스톱 치다 감염",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020083115271336851"
     }
 ];

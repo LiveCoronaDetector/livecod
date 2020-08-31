@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008301600001&code=620117"
     },
     {
+        "title": "제주 46번째 코로나19 확진자 나와…산방산온천 방문 이력",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528976&ref=A"
+    },
+    {
         "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "온천 안 갔다 속인 사이 3명 코로나19 확진 판정",
         "link": "http://www.fnnews.com/news/202008302202124481"
-    },
-    {
-        "title": "제주 코로나 41번 확진자 동선 공개, 접촉자 11명",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319518"
     }
 ];
