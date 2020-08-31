@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
-        "title": "Coronavirus cases surpass 25 million as pandemic strains nations around the world",
-        "link": "https://www.cnbc.com/2020/08/30/global-coronavirus-cases-surpass-25-million-as-pandemic-strains-nations-around-the-world.html"
+        "title": "U.S. Coronavirus Cases Top 6 Million",
+        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
     },
     {
         "title": "Germany coronavirus: Anger after attempt to storm parliament",
         "link": "https://www.bbc.com/news/world-europe-53964147"
     },
     {
-        "title": "U.S. Coronavirus Cases Top 6 Million",
-        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
+        "title": "Following visit from Deborah Birx, North Dakota reports 1 death, 219 new COVID-19 cases",
+        "link": "https://www.inforum.com/newsmd/coronavirus/6640026-Following-visit-from-Deborah-Birx-North-Dakota-reports-1-death-219-new-COVID-19-cases"
     }
 ];
