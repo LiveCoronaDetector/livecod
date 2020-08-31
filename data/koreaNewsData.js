@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/entertainment/article/202008315650H"
     },
     {
-        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
-    },
-    {
         "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
         "link": "http://www.fnnews.com/news/202008311047141671"
-    },
-    {
-        "title": "뮤지컬 배우 서범석, 코로나19 확진...'루드윅' 캐스팅 교체(공식)",
-        "link": "https://www.ytn.co.kr/_sn/0117_202008311543369066"
     },
     {
         "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
     },
     {
-        "title": "[속보] 코로나19 확진자 248명 추가...국내 238명·해외 10명",
-        "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
-    },
-    {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
-        "link": "https://view.asiae.co.kr/article/2020083109043999842"
+        "title": "뮤지컬 배우 서범석, 코로나19 확진...'루드윅' 캐스팅 교체(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202008311543369066"
     },
     {
-        "title": "코로나19에 전국 7천507개교 등교 못 해…최다 기록 또 경신(종합)",
-        "link": "http://yna.kr/AKR20200831104051530?did=1195m"
+        "title": "[속보] 코로나19 확진자 248명 추가...국내 238명·해외 10명",
+        "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
+    },
+    {
+        "title": "확진자와 고스톱 친 4명 감염…울산서 하루 6명 확진(종합)",
+        "link": "http://yna.kr/AKR20200831090351057?did=1195m"
+    },
+    {
+        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
+    },
+    {
+        "title": "[단독] 송강호X이병헌X전도연 '비상선언'도 코로나19로 촬영 중단 선언..영화...",
+        "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100004050018849&servicedate=20200831"
     }
 ];

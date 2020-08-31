@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/japan-coronavirus-elderly-death-rate/2020/08/29/f30f3ca8-e2da-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "India sets record for daily coronavirus cases",
-        "link": "https://www.youtube.com/watch?v=-V5aPp750Bc"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
+    },
+    {
+        "title": "India crosses 3.5 MN mark with record rise in COVID-19 cases | Coronavirus Pandemic | World News",
+        "link": "https://www.youtube.com/watch?v=3m05w3zUPHc"
     },
     {
         "title": "U.S. Coronavirus Cases Top 6 Million",
         "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
-    },
-    {
-        "title": "European Leaders Weigh New Lockdowns as Cases Rise",
-        "link": "https://www.nytimes.com/2020/08/29/world/covid-19-coronavirus.html"
     },
     {
         "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",

@@ -17,16 +17,16 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5403555"
     },
     {
-        "title": "제주도, 다음달부터 코로나 재난문자 영문으로 제공",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "제주 43·44번째 코로나19 확진자 발생",
         "link": "https://view.asiae.co.kr/article/2020083017270361463"
     },
     {
         "title": "[속보] ‘코로나 비상’ 제주도 ‘3인 이상 집합금지명령’",
         "link": "http://www.segye.com/content/html/2020/08/30/20200830517578.html?OutUrl=naver"
+    },
+    {
+        "title": "제주도, 다음달부터 코로나 재난문자 영문으로 제공",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000719.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "제주도 신규확진 4명 늘어…3명은 온천·숙박업소 관련",
