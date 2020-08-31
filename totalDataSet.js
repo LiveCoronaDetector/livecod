@@ -17,7 +17,7 @@ marker.push({
   Name_ch: "濟州",
   lat: 33.50972,
   lng: 126.52194,
-  확진자수: 45, //koreaRegionalData[i]['확진자수'],
+  확진자수: 46, //koreaRegionalData[i]['확진자수'],
   사망자수: koreaRegionalData[koreaRegionLastIndex - 1]["사망자수"], //0, //koreaRegionalData[i]['사망자수']
   완치자수: koreaRegionalData[koreaRegionLastIndex - 1]["격리해제수"], //6 //koreaRegionalData[i]['격리해제수']
 });
