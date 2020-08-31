@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/31/coronavirus-selfish-covidiots-on-tui-flight-to-uk-from-greek-island-criticised"
     },
     {
-        "title": "QAnon supporters join thousands at protest against Germany's coronavirus rules",
-        "link": "https://www.nbcnews.com/news/world/qanon-supporters-join-thousands-protest-against-germany-s-coronavirus-rules-n1238783"
+        "title": "Germany coronavirus: Hundreds arrested in German 'anti-corona' protests",
+        "link": "https://www.bbc.com/news/world-europe-53959552"
     },
     {
         "title": "India presses ahead with reopening as daily coronavirus caseload surges to record-breaking high",

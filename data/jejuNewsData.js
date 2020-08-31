@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
-        "title": "이 시각 제주 코로나19 상황",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4529013&ref=A"
-    },
-    {
         "title": "제주도청·시청 공무원 500여 명 코로나 검체검사 돌입",
         "link": "https://view.asiae.co.kr/article/2020083117251761824"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나19 제주 45번째 확진자 접촉자 모두 음성",
         "link": "https://www.nocutnews.co.kr/news/5403932"
+    },
+    {
+        "title": "코로나19 확진자 방문한 제주도청·시청 부서 일시 폐쇄",
+        "link": "https://www.nocutnews.co.kr/news/5403555"
     }
 ];
