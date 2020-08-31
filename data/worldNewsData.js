@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines-adenoviru/scientists-see-downsides-to-top-covid-19-vaccines-from-russia-china-idUSKBN25R19H"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
         "link": "https://www.bbc.com/news/world-europe-53969564"
-    },
-    {
-        "title": "Alarm as FDA willing to issue Covid-19 vaccine before stringent safety testing",
-        "link": "https://www.theguardian.com/world/2020/aug/30/fda-covid-19-vaccine-fast-track"
     }
 ];
