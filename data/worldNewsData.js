@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=-V5aPp750Bc"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html"
-    },
-    {
         "title": "Right-wing protesters in Berlin try to storm Reichstag | DW News",
         "link": "https://www.youtube.com/watch?v=S7zK8BuKSp4"
     },
     {
-        "title": "36 states report a total of 8,700 Covid-19 cases at colleges and universities; country nears 6 million",
-        "link": "https://www.cnn.com/2020/08/30/health/us-coronavirus-sunday/index.html"
+        "title": "Coronavirus: COVID-19 infections surpass 25 million worldwide",
+        "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
+    },
+    {
+        "title": "US coronavirus cases approach 6 million as Midwest, schools face outbreaks",
+        "link": "https://www.hindustantimes.com/world-news/us-coronavirus-cases-approach-6-million-as-midwest-schools-face-outbreaks/story-CV6xVaLvuOtfKlLG7R8OqJ.html"
     }
 ];

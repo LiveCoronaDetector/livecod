@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101367.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
+        "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
+        "link": "http://www.fnnews.com/news/202008311047141671"
     },
     {
-        "title": "[속보] 코로나19 확진자 248명 추가...국내 238명·해외 10명",
-        "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
+        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
     },
     {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[속보] 쿠팡 서초 1캠프서 확진자 발생…캠프 폐쇄 및 추가 방역 실시",
-        "link": "https://www.hankyung.com/society/article/2020083148107"
+        "title": "[속보] 코로나19 확진자 248명 추가...국내 238명·해외 10명",
+        "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
     },
     {
         "title": "인도네시아에도 D614G 코로나 변종 바이러스…전염력 10배 높다?",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
     },
     {
-        "title": "’지원금 파티’ 끝난 소비… 코로나 재확산에 경기 또 얼어붙나",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101091.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "홍천 서석서 4번째 코로나 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220083000145"
     }
 ];
