@@ -13,20 +13,16 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005956660&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "쿠팡 서초동 배송캠프서 코로나19 확진자 1명 발생",
+        "link": "https://www.sedaily.com/NewsView/1Z6SJPLO7K"
+    },
+    {
         "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
         "link": "https://view.asiae.co.kr/article/2020083109043999842"
     },
     {
-        "title": "삼성전자, 코로나19 확진자 발생에 서울 우면 R&D 센터 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z6SKWTH0G"
-    },
-    {
         "title": "울산 코로나19 확진자 4명, 고스톱 치다 감염",
         "link": "http://www.busan.com/view/busan/view.php?code=2020083115271336851"
-    },
-    {
-        "title": "文대통령, 코로나 확진 감소에도 “아직 안정세 아니다..불안 요인 잠복”(상...",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03676886625872896"
     },
     {
         "title": "[단독] 송강호X이병헌X전도연 '비상선언'도 코로나19로 촬영 중단 선언..영화...",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008311047141671"
     },
     {
-        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
+        "title": "삼성전자, 우면 R&D 캠퍼스에도 코로나 확진자 발생",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/31/2020083102623.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "IBK기업은행, 본점서 코로나19 확진자 발생",
+        "link": "http://www.etnews.com/20200831000245"
     }
 ];
