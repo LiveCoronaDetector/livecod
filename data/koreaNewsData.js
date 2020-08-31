@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202008311047141671"
     },
     {
+        "title": "한화 신정락, 코로나19 확진…KBO \"2군 선수 전원 검사\"",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967224"
+    },
+    {
         "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 쿠팡 서초 1캠프서 확진자 발생…캠프 폐쇄 및 추가 방역 실시",
         "link": "https://www.hankyung.com/society/article/2020083148107"
-    },
-    {
-        "title": "\"코로나19는 하나님 심판…\" 집단감염 교회 목사의 황당한 설교",
-        "link": "http://yna.kr/AKR20200831091100065?did=1195m"
     }
 ];
