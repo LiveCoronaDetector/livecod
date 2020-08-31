@@ -5,8 +5,24 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101367.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 248명…휴일 이틀 연속 200명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4528606&ref=A"
+        "title": "'비상선언' 코로나19로 촬영 중단 선언 [전문]",
+        "link": "https://www.hankyung.com/entertainment/article/202008315650H"
+    },
+    {
+        "title": "쿠팡 서초 1캠프, 코로나19 확진자 1명 발생",
+        "link": "http://www.fnnews.com/news/202008311047141671"
+    },
+    {
+        "title": "코로나19 어제 신규 확진 248명…이틀연속 200명대",
+        "link": "http://www.etnews.com/20200831000024"
+    },
+    {
+        "title": "인도네시아에도 D614G 코로나 변종 바이러스…전염력 10배 높다?",
+        "link": "http://yna.kr/AKR20200831042500104?did=1195m"
+    },
+    {
+        "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
+        "link": "https://view.asiae.co.kr/article/2020083109043999842"
     },
     {
         "title": "코로나19 어제 248명 신규 확진…이틀 연속 300명 미만",
@@ -15,22 +31,6 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 확진자 248명 추가...국내 238명·해외 10명",
         "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
-    },
-    {
-        "title": "[속보] 쿠팡 서초 1캠프서 확진자 발생…캠프 폐쇄 및 추가 방역 실시",
-        "link": "https://www.hankyung.com/society/article/2020083148107"
-    },
-    {
-        "title": "[단독] 송강호X이병헌X전도연 '비상선언'도 코로나19로 촬영 중단 선언..영화...",
-        "link": "http://sports.chosun.com/news/ntype.htm?id=202009010100001940018656&servicedate=20200831"
-    },
-    {
-        "title": "\"코로나 재확산 반영도 안됐는데\"…재난지원금 다 쓴 7월, 소비 '뚝'(종합)",
-        "link": "https://view.asiae.co.kr/article/2020083109043999842"
-    },
-    {
-        "title": "'비상선언' 측 \"코로나 확진자와 접촉 확인..음성이지만 촬영 중단\" [공식]",
-        "link": "http://star.mt.co.kr/stview.php?no=2020083113440270110"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 248명···지역사회 감염 238명",

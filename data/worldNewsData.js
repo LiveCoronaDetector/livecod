@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=jnkXU3pUTRA"
     },
     {
-        "title": "US coronavirus cases approach 6 million as Midwest, schools face outbreaks",
-        "link": "https://www.hindustantimes.com/world-news/us-coronavirus-cases-approach-6-million-as-midwest-schools-face-outbreaks/story-CV6xVaLvuOtfKlLG7R8OqJ.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "These millennials are building businesses for a post-pandemic world",
-        "link": "https://www.cnbc.com/2020/08/31/singapore-startups-trying-to-revive-the-economy-after-coronavirus.html"
+        "title": "Alarm as FDA willing to issue Covid-19 vaccine before stringent safety testing",
+        "link": "https://www.theguardian.com/world/2020/aug/30/fda-covid-19-vaccine-fast-track"
     }
 ];

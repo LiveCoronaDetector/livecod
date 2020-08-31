@@ -1340,9 +1340,9 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 505,
+        "확진자수": 507,
         "사망자수": 3,
-        "완치자수": 148
+        "완치자수": 200
     },
     {
         "Name": "대만",
