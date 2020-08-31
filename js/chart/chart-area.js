@@ -1,52 +1,8 @@
-// Set new default font family and font color to mimic Bootstrap's default styling
-(Chart.defaults.global.defaultFontFamily = "Nunito"),
-  '-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
-Chart.defaults.global.defaultFontColor = "#858796";
-
-function number_format(number, decimals, dec_point, thousands_sep) {
-  // *     example: number_format(1234.56, 2, ',', ' ');
-  // *     return: '1 234,56'
-  number = (number + "").replace(",", "").replace(" ", "");
-  var n = !isFinite(+number) ? 0 : +number,
-    prec = !isFinite(+decimals) ? 0 : Math.abs(decimals),
-    sep = typeof thousands_sep === "undefined" ? "," : thousands_sep,
-    dec = typeof dec_point === "undefined" ? "." : dec_point,
-    s = "",
-    toFixedFix = function (n, prec) {
-      var k = Math.pow(10, prec);
-      return "" + Math.round(n * k) / k;
-    };
-  // Fix for IE parseFloat(0.55).toFixed(0) = 0;
-  s = (prec ? toFixedFix(n, prec) : "" + Math.round(n)).split(".");
-  if (s[0].length > 3) {
-    s[0] = s[0].replace(/\B(?=(?:\d{3})+(?!\d))/g, sep);
-  }
-  if ((s[1] || "").length < prec) {
-    s[1] = s[1] || "";
-    s[1] += new Array(prec - s[1].length + 1).join("0");
-  }
-  return s.join(dec);
-}
-
-// 전세계추이
-
-var crawlWorldCumulativeData_date_Array = [];
-var crawlWorldCumulativeData_confirmed_Array = [];
-var crawlWorldCumulativeData_deaths_Array = [];
-var crawlWorldCumulativeData_recovered_Array = [];
-
-for (var i = 0; i < worldCumulativeData.length; i++) {
-  crawlWorldCumulativeData_date_Array.push(worldCumulativeData[i][0]);
-  crawlWorldCumulativeData_confirmed_Array.push(worldCumulativeData[i][1]);
-  crawlWorldCumulativeData_deaths_Array.push(worldCumulativeData[i][2]);
-  crawlWorldCumulativeData_recovered_Array.push(worldCumulativeData[i][3]);
-}
-
-var ctx = document.getElementById("myAreaChart");
-var myLineChart = new Chart(ctx, {
+// Start chart rendering
+var myLineChart = new Chart(document.getElementById("myAreaChart"), {
   type: "line",
   data: {
-    labels: crawlWorldCumulativeData_date_Array,
+    labels: worldCumulativeData_date_Array,
     datasets: [
       {
         label: "확진자수 ",
@@ -62,7 +18,7 @@ var myLineChart = new Chart(ctx, {
         pointHoverBorderColor: "rgba(78, 115, 223, 1)",
         pointHitRadius: 10,
         pointBorderWidth: 0,
-        data: crawlWorldCumulativeData_confirmed_Array,
+        data: worldCumulativeData_confirmed_Array,
       },
       {
         label: "사망자수 ",
@@ -78,7 +34,7 @@ var myLineChart = new Chart(ctx, {
         pointHoverBorderColor: "rgba(28, 200, 138, 1)",
         pointHitRadius: 10,
         pointBorderWidth: 0,
-        data: crawlWorldCumulativeData_deaths_Array,
+        data: worldCumulativeData_deaths_Array,
       },
       {
         label: "완치자수 ",
@@ -94,7 +50,7 @@ var myLineChart = new Chart(ctx, {
         pointHoverBorderColor: "rgba(54, 185, 204, 1)",
         pointHitRadius: 10,
         pointBorderWidth: 0,
-        data: crawlWorldCumulativeData_recovered_Array,
+        data: worldCumulativeData_recovered_Array,
       },
     ],
   },
@@ -172,8 +128,7 @@ var myLineChart = new Chart(ctx, {
 });
 
 // Area Chart Example2
-var ctx_two = document.getElementById("myAreaChart_two");
-var myLineChart = new Chart(ctx_two, {
+var myLineChart = new Chart(document.getElementById("myAreaChart_two"), {
   type: "line",
   data: {
     labels: ["19년11월", "19년12월", "20년1월", "20년2월"],
@@ -270,8 +225,7 @@ var myLineChart = new Chart(ctx_two, {
 });
 
 // 입도객현황
-var ctx_three = document.getElementById("myAreaChart_three");
-var myLineChart = new Chart(ctx_three, {
+var myLineChart = new Chart(document.getElementById("myAreaChart_three"), {
   type: "line",
   data: {
     labels: 입도객현황.날짜,
@@ -399,35 +353,8 @@ var myLineChart = new Chart(ctx_three, {
   },
 });
 
-// 한국 증가추이
-var koreaTotalCumulativeData_날짜_Array = [];
-var koreaTotalCumulativeData_확진자_Array = [];
-var koreaTotalCumulativeData_전일차_Array = [];
-var koreaTotalCumulativeData_사망자_Array = [];
-var koreaTotalCumulativeData_완치자_Array = [];
-var koreaTotalCumulativeData_비율_Array = [];
-
-for (let i = 0; i < koreaTotalCumulativeData.length; i++) {
-  koreaTotalCumulativeData_날짜_Array.push(koreaTotalCumulativeData[i][0]);
-  koreaTotalCumulativeData_확진자_Array.push(koreaTotalCumulativeData[i][1]);
-  koreaTotalCumulativeData_전일차_Array.push(koreaTotalCumulativeData[i][2]);
-  koreaTotalCumulativeData_사망자_Array.push(koreaTotalCumulativeData[i][3]);
-  koreaTotalCumulativeData_완치자_Array.push(koreaTotalCumulativeData[i][4]);
-  koreaTotalCumulativeData_비율_Array.push(
-    (koreaTotalCumulativeData_전일차_Array[i] /
-      koreaTotalCumulativeData_확진자_Array[i]) *
-      100
-  );
-}
-
-// console.log(koreaTotalCumulativeData_날짜_Array);
-// console.log(koreaTotalCumulativeData_확진자_Array);
-// console.log(koreaTotalCumulativeData_전일차_Array);
-// console.log(koreaTotalCumulativeData_사망자_Array);
-
 // 한국 누적 확진자 그래프
-var ctx_four = document.getElementById("myAreaChart_four");
-var myLineChart = new Chart(ctx_four, {
+var myLineChart = new Chart(document.getElementById("myAreaChart_four"), {
   type: "line",
   data: {
     labels: koreaTotalCumulativeData_날짜_Array,
@@ -571,45 +498,7 @@ var myLineChart = new Chart(ctx_four, {
   },
 });
 
-var 확진자추이그래프_세계확진자 = [];
-var 확진자추이그래프_세계확진자편차 = [];
-var 확진자추이그래프_세계비율 = [];
-
-// console.log("test", marker2.labels.indexOf("2/1"))
-
-for (
-  let i = crawlWorldCumulativeData_date_Array.indexOf("2/1");
-  i < crawlWorldCumulativeData_date_Array.length;
-  i++
-) {
-  확진자추이그래프_세계확진자.push(
-    parseInt(crawlWorldCumulativeData_confirmed_Array[i], 10)
-  );
-  if (
-    crawlWorldCumulativeData_confirmed_Array[i] -
-      crawlWorldCumulativeData_confirmed_Array[i - 1] <
-    0
-  ) {
-    확진자추이그래프_세계확진자편차.push(0);
-  } else {
-    확진자추이그래프_세계확진자편차.push(
-      parseInt(
-        crawlWorldCumulativeData_confirmed_Array[i] -
-          crawlWorldCumulativeData_confirmed_Array[i - 1],
-        10
-      )
-    );
-  }
-}
-
-for (let i = 0; i < 확진자추이그래프_세계확진자.length; i++) {
-  확진자추이그래프_세계비율.push(
-    (확진자추이그래프_세계확진자편차[i] / 확진자추이그래프_세계확진자[i]) * 100
-  );
-}
-
-var ctx_five = document.getElementById("myAreaChart_five");
-var myLineChart = new Chart(ctx_five, {
+var myLineChart = new Chart(document.getElementById("myAreaChart_five"), {
   type: "line",
   data: {
     labels: koreaTotalCumulativeData_날짜_Array,
@@ -721,8 +610,7 @@ var myLineChart = new Chart(ctx_five, {
   },
 });
 
-var ctx_six = document.getElementById("myAreaChart_six");
-var myChart = new Chart(ctx_six, {
+var myChart = new Chart(document.getElementById("myAreaChart_six"), {
   type: "line",
   data: {
     labels: koreaTotalCumulativeData_날짜_Array,
@@ -768,8 +656,7 @@ var myChart = new Chart(ctx_six, {
   },
 });
 
-var ctx_전일대비그래프 = document.getElementById("전일대비그래프");
-var myLineChart = new Chart(ctx_전일대비그래프, {
+var myLineChart = new Chart(document.getElementById("전일대비그래프"), {
   type: "line",
   data: {
     labels: koreaTotalCumulativeData_날짜_Array.slice(-10),
@@ -867,23 +754,15 @@ var myLineChart = new Chart(ctx_전일대비그래프, {
   },
 });
 
-moment.locale("ko");
-const totalLength = koreaTotalCumulativeData_날짜_Array.length;
-var lastDate = moment(
-  koreaTotalCumulativeData_날짜_Array[totalLength - 1] + "/2020",
-  "MM DD YYYY"
-);
-var start = moment().subtract(29, "days");
-var end = lastDate;
+const updateDates = (chart, startDate, endDate) => {
+  const getIndex = (date) => {
+    let diff = endDate.diff(date.startOf("day")) / (24 * 60 * 60 * 1000);
+    return koreaLastIndex - diff;
+  };
 
-function getIndex(date) {
-  let diff = lastDate.diff(date.startOf("day")) / (24 * 60 * 60 * 1000);
-  return totalLength - diff - 1;
-}
-
-function updateDates(chart, startDate, endDate) {
   let startIndex = getIndex(startDate);
   let endIndex = getIndex(endDate) + 1;
+
   chart.data.labels = koreaTotalCumulativeData_날짜_Array.slice(
     startIndex,
     endIndex
@@ -893,27 +772,27 @@ function updateDates(chart, startDate, endDate) {
     endIndex
   );
   chart.update();
-}
+};
 
-function cb(start, end) {
+const cb = (start, end) => {
   $("#reportrange span").html(
     start.format("MMMM D, YYYY") + " - " + end.format("MMMM D, YYYY")
   );
   updateDates(myLineChart, start, end);
-}
+};
 
 $("#reportrange").daterangepicker(
   {
-    startDate: start,
-    endDate: end,
+    startDate,
+    endDate,
     minDate: moment("02/01/2020", "MM DD YYYY"),
-    maxDate: lastDate,
+    maxDate: endDate,
     ranges: {
-      "지난 7일": [moment().subtract(6, "days"), lastDate],
-      "지난 한달": [moment().subtract(29, "days"), lastDate],
+      "지난 7일": [moment().subtract(6, "days"), endDate],
+      "지난 한달": [moment().subtract(29, "days"), endDate],
     },
   },
   cb
 );
 
-cb(start, end);
+cb(startDate, endDate);

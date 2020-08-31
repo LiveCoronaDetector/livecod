@@ -1,4 +1,4 @@
-function createNews(newsData, newsDiv, sliceValue) {
+const createNews = (newsData, newsDiv, sliceValue) => {
   newsData.forEach((news) => {
     let cardElement = document.createElement("div");
     cardElement.setAttribute("class", "card");
@@ -32,7 +32,7 @@ function createNews(newsData, newsDiv, sliceValue) {
     cardElement.appendChild(cardHeader);
     newsDiv.appendChild(cardElement);
   });
-}
+};
 
 createNews(worldNewsData, document.getElementById("worldNewsDiv"), 30);
 createNews(koreaNewsData, document.getElementById("koreaNewsDiv"), 19);

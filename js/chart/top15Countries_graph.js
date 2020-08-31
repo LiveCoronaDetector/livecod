@@ -7,7 +7,7 @@ var countryNameMapper = {
 
 NodeList.prototype.indexOf = Array.prototype.indexOf;
 
-for (var i = 0; i < topText.length; i++) {
+for (let i = 0; i < topText.length; i++) {
   topText[i].addEventListener("click", function (e) {
     countryNameClicked(e);
   });
@@ -30,7 +30,7 @@ function countryNameClicked(e) {
       hopkins_graph_marker[topText.indexOf(e.currentTarget)].Name_en;
   }
 
-  for (var j = 0; j < hopkinsData.length; j++) {
+  for (let j = 0; j < hopkinsData.length; j++) {
     if (
       hopkinsData[j]["name"] == countryName &&
       (hopkinsData[j]["province/state"] == "total" ||
@@ -48,7 +48,7 @@ function countryNameClicked(e) {
         var hopkinsData_korea_deaths_t = [];
         var hopkinsData_korea_recovered_t = [];
 
-        for (var k = 0; k < koreaTotalCumulativeData.length; k++) {
+        for (let k = 0; k < koreaTotalCumulativeData.length; k++) {
           hopkinsData_korea_date_t.push(koreaTotalCumulativeData[k][0]);
           hopkinsData_korea_confirmed_t.push(koreaTotalCumulativeData[k][1]);
           hopkinsData_korea_deaths_t.push(koreaTotalCumulativeData[k][3]);

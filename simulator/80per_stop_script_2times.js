@@ -1,8 +1,8 @@
-(function() {
+(function () {
   let clicked_btn = false; // 버튼 중복 클릭 방지
 
-  prevBtn="";  // 이전 버튼
-  curBtn="";   // 새로 눌린 버튼
+  prevBtn = ""; // 이전 버튼
+  curBtn = ""; // 새로 눌린 버튼
 
   const recoverTime = 8; // 감염 후 완치까지 걸리는 시간(초)
   const totalCount = 200; // 전체 사람 수
@@ -65,11 +65,11 @@
       this.color = "#dd002f";
 
       if (initialDelay) {
-        setTimeout(function() {
+        setTimeout(function () {
           self.recover();
         }, initialDelay + recoverTime * 1000);
       } else {
-        setTimeout(function() {
+        setTimeout(function () {
           self.recover();
         }, recoverTime * 1000);
       }
@@ -210,12 +210,12 @@
 
   function init() {
     startTime = new Date().getTime();
-    if (simul_click == false) {
+    if (simulClick == false) {
       cancelAnimationFrame(rafId);
       canvasContainer.classList.add("stop");
-      simul_click == true;
+      simulClick == true;
     }
-    simul_click == false;
+    simulClick == false;
 
     all_balls = [];
     stop_balls = [];
@@ -240,7 +240,7 @@
             radius * 2 +
             Math.floor(Math.random() * (canvas.height - radius * 3)),
           angle: Math.round(Math.random() * 360),
-          color: "#b3bccb"
+          color: "#b3bccb",
         });
         stop_positionOK = stop_canLocate(stop_ball);
       }
@@ -259,7 +259,7 @@
             radius * 2 +
             Math.floor(Math.random() * (canvas.height - radius * 3)),
           angle: Math.round(Math.random() * 360),
-          color: "#b3bccb"
+          color: "#b3bccb",
         });
         move_positionOK = move_canLocate(move_ball);
       }
@@ -296,7 +296,7 @@
     let socialDistanceSettings = [
       { ms: 0, ratio: 0.8 },
       { ms: 10000, ratio: 0 },
-      { ms: 15000, ratio: 0.8 }
+      { ms: 15000, ratio: 0.8 },
     ];
 
     if (
@@ -350,17 +350,16 @@
     }
   }
 
-  function chk_btn_click(){
-    if(clicked_btn == true){
-        return;
-    }
-    else{
-        clicked_btn = true;
+  function chk_btn_click() {
+    if (clicked_btn == true) {
+      return;
+    } else {
+      clicked_btn = true;
 
-        prevBtn = curBtn;
-        curBtn = "simulation-btn-80-2time";
+      prevBtn = curBtn;
+      curBtn = "simulation-btn-80-2time";
 
-        init();
+      init();
     }
   }
   simulationBtn_80.addEventListener("click", chk_btn_click);

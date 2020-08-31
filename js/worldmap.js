@@ -12,8 +12,8 @@ window.onload = function () {
 
   // 확진자 수에 따른 svg 클래스 삽입 함수
   function countryMarker(data, land) {
-    for (var i = 0; i < data.length; i++) {
-      for (var j = 0; j < land.length; j++) {
+    for (let i = 0; i < data.length; i++) {
+      for (let j = 0; j < land.length; j++) {
         //marker.js의 국가 영어이름과 svg엘레먼트의 title속성값이 같다면 확진자가 존재하는 국가
         if (data[i].Name_en === land[j].getAttribute("title")) {
           temp++;
@@ -67,7 +67,7 @@ window.onload = function () {
   var infected = svgDocument.querySelectorAll(".infected");
 
   function matchingCountry(identity) {
-    for (var i = 0; i < markerData.length; i++) {
+    for (let i = 0; i < markerData.length; i++) {
       if (markerData[i].Name_en == identity) {
         if (markerData[i].완치자수) {
           textBox.innerHTML =
@@ -113,7 +113,7 @@ window.onload = function () {
     });
   };
 
-  for (var i = 0; i < infected.length; i++) {
+  for (let i = 0; i < infected.length; i++) {
     _loop(i);
   }
 };
