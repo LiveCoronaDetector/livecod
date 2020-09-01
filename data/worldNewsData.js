@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "Federal health advisors predict four coronavirus vaccine trials backed by U.S. could fail",
-        "link": "https://www.cnbc.com/2020/09/01/federal-health-advisors-predict-four-coronavirus-vaccine-trials-backed-by-us-could-fail.html"
+        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
     },
     {
         "title": "Coronavirus: Quarantine restrictions for travellers from Greece",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-wuhan-father-coronavirus-lawsuit"
     },
     {
-        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
-        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
+        "title": "U.S. Won’t Join Global Coronavirus Vaccine Effort Because It’s Led By The WHO",
+        "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/01/world/covid-19-coronavirus.html"
     },
     {
         "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
         "link": "https://www.bbc.com/news/world-europe-53969564"
-    },
-    {
-        "title": "First GDP numbers during COVID times | India's GDP contracts 23.9% in Apr-June period",
-        "link": "https://www.youtube.com/watch?v=PF6hAjCmUgc"
     }
 ];
