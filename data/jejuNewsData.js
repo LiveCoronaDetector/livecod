@@ -13,12 +13,16 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000943.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
-    },
-    {
         "title": "서울, 보름 만에 처음 '평일 두 자릿수'…신규 확진자 94명",
         "link": "https://www.news1.kr/articles/?4044238"
+    },
+    {
+        "title": "9월 3일 수능 응시원서 접수 시작···자가격리자·확진자 대리제출 가능",
+        "link": "https://www.sedaily.com/NewsView/1Z7OPX8059"
+    },
+    {
+        "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
         "title": "코로나19 제주 44번 확진자 2곳 방문 14명 접촉",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 확진자 29일 하루에만 4명 발생",
         "link": "https://www.pressian.com/pages/articles/2020083004521180709?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "코로나19 제주 45번째 확진자 접촉자 모두 음성",
-        "link": "https://www.nocutnews.co.kr/news/5403932"
     }
 ];
