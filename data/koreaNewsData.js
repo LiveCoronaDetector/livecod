@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220083100150"
     },
     {
-        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
-    },
-    {
         "title": "[속보] 한화 투수 신정락 접촉자 40명 코로나19 음성",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009010065&t=NN"
     },
     {
         "title": "코로나19 누적확진자 2만 명 넘어서…신규확진 235명",
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=204480"
+    },
+    {
+        "title": "서울, 보름 만에 처음 '평일 두 자릿수'…신규 확진자 94명",
+        "link": "https://www.news1.kr/articles/?4044238"
     },
     {
         "title": "한화 신정락, 코로나19 확진…KBO \"2군 선수 전원 검사\"",

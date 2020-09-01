@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus Africa live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://news.google.com/articles/CBMiQmh0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDgvMzEvbGF0ZXN0X25ld3MvMTU5ODg1MDUzMV85ODg2NDMuaHRtbNIBRmh0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDgvMzEvbGF0ZXN0X25ld3MvMTU5ODg1MDUzMV85ODg2NDMuYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
         "title": "Federal health advisors predict four coronavirus vaccine trials backed by U.S. could fail",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
-        "title": "Coronavirus updates: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
+        "title": "First GDP numbers during COVID times | India's GDP contracts 23.9% in Apr-June period",
+        "link": "https://www.youtube.com/watch?v=PF6hAjCmUgc"
     }
 ];
