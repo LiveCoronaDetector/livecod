@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
-        "title": "U.S. Coronavirus Cases Top 6 Million",
-        "link": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html"
+        "title": "Spain reports more than 23,000 new COVID-19 cases since Friday",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-spain-tally/spain-reports-more-than-23000-new-covid-19-cases-since-friday-idUSKBN25R289"
     }
 ];

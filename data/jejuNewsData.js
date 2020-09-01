@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200830071900056?did=1195m"
     },
     {
-        "title": "[종합] 서울시 “코로나19 집단감염 최소 17건··· 사랑제일교회 곧 구상권...",
-        "link": "https://www.sedaily.com/NewsView/1Z7OQVMFZF"
-    },
-    {
         "title": "제주, 46번째 코로나19 확진자 발생…그 온천 방문자",
         "link": "http://www.newsis.com/view/?id=NISX20200831_0001149231&cID=10813&pID=10800"
     },
@@ -27,6 +23,10 @@ var jejuNewsData = [
     {
         "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
         "link": "https://www.news1.kr/articles/?4044353"
+    },
+    {
+        "title": "[종합] 서울시 “코로나19 집단감염 최소 17건··· 사랑제일교회 곧 구상권...",
+        "link": "https://www.sedaily.com/NewsView/1Z7OQVMFZF"
     },
     {
         "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
