@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009011041398425"
     },
     {
-        "title": "[종합] 서울시 “코로나19 집단감염 최소 17건··· 사랑제일교회 곧 구상권...",
-        "link": "https://www.sedaily.com/NewsView/1Z7OQVMFZF"
-    },
-    {
         "title": "제주서 방글라데시인 유학생 코로나19 확진…도내 45번째",
         "link": "http://yna.kr/AKR20200830071900056?did=1195m"
+    },
+    {
+        "title": "[종합] 서울시 “코로나19 집단감염 최소 17건··· 사랑제일교회 곧 구상권...",
+        "link": "https://www.sedaily.com/NewsView/1Z7OQVMFZF"
     },
     {
         "title": "제주, 46번째 코로나19 확진자 발생…그 온천 방문자",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4044353"
     },
     {
+        "title": "[속보] 코로나 확진자 방문 제주도청·시청사 일부 잠정 폐쇄",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
+    },
+    {
+        "title": "코로나19 제주 46번 확진자 5곳 방문 30명 접촉",
+        "link": "https://www.nocutnews.co.kr/news/5404873"
+    },
+    {
         "title": "제주도청·시청 공무원 500여 명 코로나 검체검사 돌입",
         "link": "https://view.asiae.co.kr/article/2020083117251761824"
-    },
-    {
-        "title": "제주도의회 복지안전위 \"의료계 진료거부 중단해야\"",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319568"
-    },
-    {
-        "title": "이 시각 제주 코로나19 상황",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4529013&ref=A"
     }
 ];

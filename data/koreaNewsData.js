@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=204480"
     },
     {
+        "title": "하나은행 본점서 코로나19 확진자 발생···내일까지 건물 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z7OQUNBBN"
+    },
+    {
         "title": "서울 신규 확진자 2일 연속 100명 하회",
         "link": "http://www.fnnews.com/news/202009011041398425"
     },
     {
         "title": "경찰청 본청 직원 코로나19 확진…\"10층 출입 제한\"",
         "link": "https://view.asiae.co.kr/article/2020090108284066561"
-    },
-    {
-        "title": "하나은행 본점서 코로나19 확진자 발생···내일까지 건물 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z7OQUNBBN"
     },
     {
         "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020090108523590490"
     },
     {
-        "title": "[종합] 코로나19 확진자 2만명 돌파...울산 집단 첫 사례 등 전국 유행",
-        "link": "http://www.fnnews.com/news/202009011442232802"
+        "title": "울산에서 코로나19 확진자와 접촉한 3명, 추가로 확진",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020090110561319779"
     }
 ];
