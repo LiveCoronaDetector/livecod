@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines-adenoviru/scientists-see-downsides-to-top-covid-19-vaccines-from-russia-china-idUSKBN25R19H"
     },
     {
-        "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/31/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
         "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
