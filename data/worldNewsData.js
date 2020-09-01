@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
     },
     {
-        "title": "Cowlitz County reports eight new COVID-19 cases over the weekend",
-        "link": "https://tdn.com/news/local/cowlitz-county-reports-eight-new-covid-19-cases-over-the-weekend/article_f1a99000-99e3-5620-8451-8d7e43039d6b.html"
-    },
-    {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
-    },
-    {
         "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
         "link": "https://www.bbc.com/news/world-europe-53969564"
+    },
+    {
+        "title": "First GDP numbers during COVID times | India's GDP contracts 23.9% in Apr-June period",
+        "link": "https://www.youtube.com/watch?v=PF6hAjCmUgc"
+    },
+    {
+        "title": "WHO warns that 'no country can just pretend the pandemic is over'",
+        "link": "https://www.cnbc.com/2020/08/31/coronavirus-who-warns-that-no-country-can-just-pretend-the-pandemic-is-over.html"
     }
 ];

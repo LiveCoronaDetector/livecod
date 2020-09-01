@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4044238"
     },
     {
-        "title": "코로나19 위중·중증환자 104명…병상 부족 우려",
-        "link": "https://news.imaeil.com/Society/2020090112333523559"
+        "title": "한화 신정락, 코로나19 확진…KBO \"2군 선수 전원 검사\"",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967224"
     }
 ];
