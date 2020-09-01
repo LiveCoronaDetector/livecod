@@ -5,24 +5,20 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "제주 코로나 27번 확진자 완치 판정...13일 만에 퇴원",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426279"
-    },
-    {
-        "title": "서울 코로나 확진자 4000명 넘어…신규 확진 86명",
-        "link": "https://www.news1.kr/articles/?4045089"
-    },
-    {
-        "title": "[속보] 서울 코로나19 누적 확진자 4,000명 넘어서",
-        "link": "https://www.sedaily.com/NewsView/1Z7ORD8XN0"
-    },
-    {
         "title": "서울 신규 확진자 2일 연속 100명 하회",
         "link": "http://www.fnnews.com/news/202009011041398425"
     },
     {
         "title": "코로나19 제주 46번 확진자 5곳 방문 30명 접촉",
         "link": "https://www.nocutnews.co.kr/news/5404873"
+    },
+    {
+        "title": "제주 코로나 27번 확진자 완치 판정...13일 만에 퇴원",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426279"
+    },
+    {
+        "title": "[속보] 서울 코로나19 누적 확진자 4,000명 넘어서",
+        "link": "https://www.sedaily.com/NewsView/1Z7ORD8XN0"
     },
     {
         "title": "[속보] 코로나19 서울 누적 확진자 4천명 돌파",
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200830071900056?did=1195m"
     },
     {
-        "title": "온천發 확진자 44번 이마트 등 방문···접촉자 14명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170882"
+        "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
+        "link": "https://www.news1.kr/articles/?4044353"
     },
     {
         "title": "제주, 46번째 코로나19 확진자 발생…그 온천 방문자",
         "link": "http://www.newsis.com/view/?id=NISX20200831_0001149231&cID=10813&pID=10800"
+    },
+    {
+        "title": "코로나 확진자 찾은 제주도·시청 일부 폐쇄",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000943.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/31/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
     },
     {
-        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+        "title": "Cowlitz County reports eight new COVID-19 cases over the weekend",
+        "link": "https://tdn.com/news/local/cowlitz-county-reports-eight-new-covid-19-cases-over-the-weekend/article_f1a99000-99e3-5620-8451-8d7e43039d6b.html"
     }
 ];
