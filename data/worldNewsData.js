@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/31/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
     },
     {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
-    },
-    {
         "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
-        "title": "Spain reports more than 23,000 new COVID-19 cases since Friday",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-spain-tally/spain-reports-more-than-23000-new-covid-19-cases-since-friday-idUSKBN25R289"
+        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
+    },
+    {
+        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     }
 ];
