@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Canada to purchase 76 million doses of Novavax coronavirus vaccine, company says",
-        "link": "https://www.cnbc.com/2020/08/31/canada-to-purchase-76-million-doses-of-novavax-coronavirus-vaccine-company-says.html"
+        "link": "https://news.google.com/articles/CAIiEPecnAqO3wb7-S2VvXwWuRMqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Hamas and Israel Agree to Ease Hostilities Amid Coronavirus",
