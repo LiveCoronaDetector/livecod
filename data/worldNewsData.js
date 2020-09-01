@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "Coronavirus: US tops 6m cases as some states post record daily totals",
-        "link": "https://www.theguardian.com/world/2020/aug/31/coronavirus-us-passes-6m-cases"
+        "title": "Peru now has world's highest coronavirus death rate",
+        "link": "https://www.axios.com/countries-with-highest-coronavirus-death-rates-5dd89c65-bdb7-4ba7-ad87-3737520911cd.html"
     },
     {
         "title": "Hamas and Israel Agree to Ease Hostilities Amid Coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
-        "title": "Nearly 3 in 4 adults plan to get vaccinated against the coronavirus, global survey shows",
-        "link": "https://www.cnbc.com/2020/09/01/nearly-3-in-4-adults-plan-to-get-a-coronavirus-vaccine-survey-shows.html"
+        "title": "In the World’s Coronavirus Blind Spot, Fears of a Silent Epidemic",
+        "link": "https://www.wsj.com/articles/in-the-worlds-coronavirus-blind-spot-fears-of-a-silent-epidemic-11598806800"
     }
 ];

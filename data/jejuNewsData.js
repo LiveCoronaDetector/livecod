@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200831_0001149231&cID=10813&pID=10800"
     },
     {
-        "title": "코로나 확진자 찾은 제주도·시청 일부 폐쇄",
-        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000943.html?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "20대 남녀 코로나19 양성…울산 확진자 100명째",
         "link": "https://www.nocutnews.co.kr/news/5405210"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "서울 코로나19 누적 확진자 4000명 돌파… 오늘 86명 추가",
         "link": "https://view.asiae.co.kr/article/2020090119421236754"
+    },
+    {
+        "title": "서울 코로나 확진자 줄고있지만…신규 집단감염 사례 속출",
+        "link": "https://www.donga.com/news/article/all/20200901/102749173/1"
     }
 ];
