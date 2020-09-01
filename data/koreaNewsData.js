@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/960172.html"
     },
     {
+        "title": "한화 신정락, 코로나19 확진…KBO \"2군 선수 전원 검사\"",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967224"
+    },
+    {
+        "title": "신규 확진자 235명…‘코로나 사태’ 225일 만에 누적 2만 명",
+        "link": "https://www.donga.com/news/article/all/20200901/102734422/1"
+    },
+    {
         "title": "코로나19 누적확진자 2만 명 넘어서…신규확진 235명",
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=204480"
-    },
-    {
-        "title": "미국 코로나19 확진자 600만명 넘어…급속한 확산세는 일부 제동(종합)",
-        "link": "http://yna.kr/AKR20200831055651009?did=1195m"
-    },
-    {
-        "title": "[속보]경북 하루 사이 확진자 9명 늘어…광화문집회 등 수도권발 4명",
-        "link": "https://www.news1.kr/articles/?4043918"
     },
     {
         "title": "경찰청 본청 10층서 확진자 발생…건물 일부 폐쇄",
         "link": "http://www.fnnews.com/news/202009010928197745"
     },
     {
-        "title": "코로나 국내 신규 235명… 누적 2만명대 진입",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/01/2020090101277.html"
+        "title": "서울, 보름 만에 처음 '평일 두 자릿수'…신규 확진자 94명",
+        "link": "https://www.news1.kr/articles/?4044238"
     },
     {
-        "title": "[코로나19] 신규확진자 235명…누적 2만명 넘어서(상보)",
-        "link": "http://www.ajunews.com/view/20200901094645883"
+        "title": "경북, 광화문집회 관련 3명 등 확진자 9명 발생",
+        "link": "https://news.imaeil.com/Society/2020090108523590490"
     },
     {
-        "title": "한화 신정락, 코로나19 확진…KBO \"2군 선수 전원 검사\"",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967224"
+        "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
+        "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진 235명…누적 확진자 2만 명 넘어",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005958691&plink=ORI&cooper=NAVER"
+        "title": "[종합] 서울시 “코로나19 집단감염 최소 17건··· 사랑제일교회 곧 구상권...",
+        "link": "https://www.sedaily.com/NewsView/1Z7OQVMFZF"
     }
 ];
