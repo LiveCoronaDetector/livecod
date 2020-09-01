@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
     },
     {
-        "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/31/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
+        "title": "Cowlitz County reports eight new COVID-19 cases over the weekend",
+        "link": "https://tdn.com/news/local/cowlitz-county-reports-eight-new-covid-19-cases-over-the-weekend/article_f1a99000-99e3-5620-8451-8d7e43039d6b.html"
     },
     {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
+        "title": "WHO warns that 'no country can just pretend the pandemic is over'",
+        "link": "https://news.google.com/articles/CAIiECd6VPzXqBhxzZGdIFFy1LsqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+        "title": "Coronavirus: Norway bunker partygoers poisoned with carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     }
 ];
