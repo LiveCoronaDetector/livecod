@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
     },
     {
-        "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
-        "link": "https://www.bbc.com/news/world-europe-53969564"
+        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
         "title": "In the World’s Coronavirus Blind Spot, Fears of a Silent Epidemic",

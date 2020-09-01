@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6213751,
-        "사망자수": 187825,
-        "완치자수": 3457318
+        "확진자수": 6214690,
+        "사망자수": 187839,
+        "완치자수": 3458177
     },
     {
         "Name": "브라질",
@@ -493,7 +493,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Moldova",
         "확진자수": 36920,
-        "사망자수": 995,
+        "사망자수": 1008,
         "완치자수": 25872
     },
     {
@@ -740,9 +740,9 @@ var marker = [
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "확진자수": 8583,
+        "확진자수": 8619,
         "사망자수": 68,
-        "완치자수": 7376
+        "완치자수": 7413
     },
     {
         "Name": "Gabon",
@@ -1281,20 +1281,20 @@ var marker = [
         "완치자수": 173
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 919,
+        "사망자수": 6,
+        "완치자수": 357
+    },
+    {
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
         "확진자수": 896,
         "사망자수": 15,
         "완치자수": 851
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 882,
-        "사망자수": 6,
-        "완치자수": 354
     },
     {
         "Name": "산마리노",

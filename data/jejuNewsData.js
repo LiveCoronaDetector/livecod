@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5404873"
     },
     {
-        "title": "서울, 보름 만에 처음 '평일 두 자릿수'…신규 확진자 94명",
-        "link": "https://www.news1.kr/articles/?4044238"
+        "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
+        "link": "https://www.news1.kr/articles/?4044353"
     },
     {
-        "title": "온천發 확진자 44번 이마트 등 방문···접촉자 14명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170882"
+        "title": "서울 신규 확진자 2일 연속 100명 하회",
+        "link": "http://www.fnnews.com/news/202009011041398425"
     },
     {
         "title": "제주서 방글라데시인 유학생 코로나19 확진…도내 45번째",

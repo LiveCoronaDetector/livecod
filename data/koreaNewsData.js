@@ -5,12 +5,20 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/01/2020090103039.html"
     },
     {
+        "title": "프로야구 한화 선수 1명 추가로 코로나19 확진…더 늘어날 수도(종합)",
+        "link": "http://yna.kr/AKR20200901196551007?did=1195m"
+    },
+    {
         "title": "울산 99번,100번 코로나19 확진자 발생..20대 남녀",
         "link": "http://www.fnnews.com/news/202009011937318651"
     },
     {
         "title": "쿠팡, 코로나19 확진자 발생한 서초1배송캠프 재가동",
         "link": "https://imnews.imbc.com/news/2020/econo/article/5895259_32647.html"
+    },
+    {
+        "title": "한화 이글스 육성군 선수 1명 코로나19 추가 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200901_0001151029&cID=10502&pID=10500"
     },
     {
         "title": "'비상선언' 측 \"코로나19 확진자 접촉 배우 알고도 촬영 강행? NO\"(공식)",
@@ -27,14 +35,6 @@ var koreaNewsData = [
     {
         "title": "[2보]홍천에서 7번째 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220083100150"
-    },
-    {
-        "title": "의정부 송산1동 부부 확진…노원구 가정 예배 확진자 접촉(종합)",
-        "link": "http://yna.kr/AKR20200901109251060?did=1195m"
-    },
-    {
-        "title": "대전 교회서 집단감염…확진자 11명 나와(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5404705"
     },
     {
         "title": "[종합] 코로나19 확진자 2만명 돌파...울산 집단 첫 사례 등 전국 유행",
