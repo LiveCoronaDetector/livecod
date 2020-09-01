@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/aug/31/coronavirus-us-passes-6m-cases"
     },
     {
-        "title": "Coronavirus: 'selfish covidiots' on flight to UK from Greek island criticised",
-        "link": "https://www.theguardian.com/world/2020/aug/31/coronavirus-selfish-covidiots-on-tui-flight-to-uk-from-greek-island-criticised"
+        "title": "Hamas and Israel Agree to Ease Hostilities Amid Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/31/world/middleeast/hamas-gaza-israel-coronavirus.html"
     },
     {
         "title": "A Coronavirus Second Wave Grips Spain",

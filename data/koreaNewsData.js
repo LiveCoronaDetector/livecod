@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z6SJF8H0J"
     },
     {
-        "title": "[속보] 쿠팡 서초 1캠프서 확진자 발생…캠프 폐쇄 및 추가 방역 실시",
-        "link": "https://www.hankyung.com/society/article/2020083148107"
+        "title": "[속보] 코로나19 신규 확진자 248명···지역사회 감염 238명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008310935001&code=940601"
     }
 ];
