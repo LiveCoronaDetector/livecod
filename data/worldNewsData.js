@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/31/asia/india-reopening-coronavirus-surge-intl-hnk/index.html"
     },
     {
-        "title": "Scientists see downsides to top COVID-19 vaccines from Russia, China",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines-adenoviru/scientists-see-downsides-to-top-covid-19-vaccines-from-russia-china-idUSKBN25R19H"
+        "title": "Chinese woman who lost father to coronavirus sues government for apology, compensation",
+        "link": "https://www.foxnews.com/world/china-wuhan-father-coronavirus-lawsuit"
     },
     {
         "title": "Coronavirus updates: Latest news from around the world",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
-        "title": "First GDP numbers during COVID times | India's GDP contracts 23.9% in Apr-June period",
-        "link": "https://www.youtube.com/watch?v=PF6hAjCmUgc"
+        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
     },
     {
-        "title": "WHO warns that 'no country can just pretend the pandemic is over'",
-        "link": "https://www.cnbc.com/2020/08/31/coronavirus-who-warns-that-no-country-can-just-pretend-the-pandemic-is-over.html"
+        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-asia-india-53969118"
     }
 ];

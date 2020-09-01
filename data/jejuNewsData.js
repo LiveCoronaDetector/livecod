@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200830071900056?did=1195m"
     },
     {
+        "title": "코로나 확진자 찾은 제주도·시청 일부 폐쇄",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000943.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "제주 코로나 27번 확진자 완치 판정...13일 만에 퇴원",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426279"
     },
     {
         "title": "서울 코로나19 누적 확진자 4000명 돌파… 오늘 86명 추가",
         "link": "https://view.asiae.co.kr/article/2020090119421236754"
-    },
-    {
-        "title": "서울 코로나 확진자 줄고있지만…신규 집단감염 사례 속출",
-        "link": "https://www.donga.com/news/article/all/20200901/102749173/1"
     }
 ];
