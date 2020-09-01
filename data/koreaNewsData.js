@@ -17,24 +17,24 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020090108284066561"
     },
     {
-        "title": "경북, 광화문집회 관련 3명 등 확진자 9명 발생",
-        "link": "https://news.imaeil.com/Society/2020090108523590490"
+        "title": "하나은행 본점서 코로나19 확진자 발생···내일까지 건물 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z7OQUNBBN"
     },
     {
-        "title": "사랑제일교회 수도권 확진자 1007명…전국 1083명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/01/2020090102300.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
+        "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
         "title": "코로나19 신규 확진 235명…누적 확진자 2만 명 넘어",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005958691&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나19 신규 확진자 235명…서울 93명·경기 60명·인천 22명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4529611&ref=A"
+        "title": "사랑제일교회 수도권 확진자 1007명…전국 1083명(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/01/2020090102300.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "울산에서 코로나19 확진자와 접촉한 3명, 추가로 확진",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020090110561319779"
+        "title": "경북, 광화문집회 관련 3명 등 확진자 9명 발생",
+        "link": "https://news.imaeil.com/Society/2020090108523590490"
     },
     {
         "title": "[종합] 코로나19 확진자 2만명 돌파...울산 집단 첫 사례 등 전국 유행",
