@@ -13,18 +13,6 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5404873"
     },
     {
-        "title": "제주 코로나 27번 확진자 완치 판정...13일 만에 퇴원",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426279"
-    },
-    {
-        "title": "[속보] 서울 코로나19 누적 확진자 4,000명 넘어서",
-        "link": "https://www.sedaily.com/NewsView/1Z7ORD8XN0"
-    },
-    {
-        "title": "[속보] 코로나19 서울 누적 확진자 4천명 돌파",
-        "link": "https://news.imaeil.com/Society/2020090118453850835"
-    },
-    {
         "title": "제주서 방글라데시인 유학생 코로나19 확진…도내 45번째",
         "link": "http://yna.kr/AKR20200830071900056?did=1195m"
     },
@@ -39,5 +27,17 @@ var jejuNewsData = [
     {
         "title": "코로나 확진자 찾은 제주도·시청 일부 폐쇄",
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000943.html?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "제주 코로나 27번 확진자 완치 판정...13일 만에 퇴원",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426279"
+    },
+    {
+        "title": "1일 오후 6시 기준 서울시 코로나19 확진자 4000명 넘겨",
+        "link": "http://www.kukinews.com/newsView/kuk202009010458"
+    },
+    {
+        "title": "20대 남녀 코로나19 양성 판정…울산 확진자 100명째",
+        "link": "http://yna.kr/AKR20200901187800057?did=1195m"
     }
 ];
