@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
-        "link": "https://www.bbc.com/news/world-europe-53969564"
-    },
-    {
-        "title": "Nearly 3 in 4 adults plan to get vaccinated against the coronavirus, global survey shows",
-        "link": "https://www.cnbc.com/2020/09/01/nearly-3-in-4-adults-plan-to-get-a-coronavirus-vaccine-survey-shows.html"
-    },
-    {
         "title": "India added half a million COVID-19 cases in one week: WHO",
         "link": "https://www.aljazeera.com/news/2020/09/india-added-million-covid-19-cases-week-200901091636897.html"
+    },
+    {
+        "title": "WHO warns that 'no country can just pretend the pandemic is over'",
+        "link": "https://www.cnbc.com/2020/08/31/coronavirus-who-warns-that-no-country-can-just-pretend-the-pandemic-is-over.html"
+    },
+    {
+        "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     }
 ];
