@@ -17,6 +17,14 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014959342&code=61122027&cp=nv"
     },
     {
+        "title": "서울, 보름 만에 처음 '평일 두 자릿수'…신규 확진자 94명",
+        "link": "https://www.news1.kr/articles/?4044238"
+    },
+    {
+        "title": "코로나19 제주 44번 확진자 2곳 방문 14명 접촉",
+        "link": "https://www.nocutnews.co.kr/news/5404641"
+    },
+    {
         "title": "제주도청·시청 공무원 500여 명 코로나 검체검사 돌입",
         "link": "https://view.asiae.co.kr/article/2020083117251761824"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 제주 45번째 확진자 접촉자 모두 음성",
         "link": "https://www.nocutnews.co.kr/news/5403932"
-    },
-    {
-        "title": "외교부서 코로나19 확진자 또 발생… 제주 게스트하우스發 감염 추정",
-        "link": "http://www.getnews.co.kr/view.php?ud=2020083118124232757f7a2feaf6_16"
-    },
-    {
-        "title": "코로나19 확진자 방문한 제주도청·시청 부서 일시 폐쇄",
-        "link": "https://www.nocutnews.co.kr/news/5403555"
     }
 ];
