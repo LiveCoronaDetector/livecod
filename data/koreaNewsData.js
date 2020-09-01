@@ -5,28 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200901049051530?did=1195m"
     },
     {
-        "title": "하나은행 본점서 코로나19 확진자 발생 건물 폐쇄",
-        "link": "http://www.fnnews.com/news/202009011505505123"
-    },
-    {
         "title": "조용히 퍼지는 코로나19… 질본 \"확진자 40%가 무증상\"",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/01/2020090103039.html"
+    },
+    {
+        "title": "하나은행 본점서 코로나19 확진자 발생 건물 폐쇄",
+        "link": "http://www.fnnews.com/news/202009011505505123"
     },
     {
         "title": "'비상선언' 측 \"코로나19 확진자 접촉 배우 알고도 촬영 강행? NO\"(공식)",
         "link": "https://www.ytn.co.kr/_sn/0117_202009011643254066"
     },
     {
-        "title": "대전 교회서 집단감염…확진자 11명 나와(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5404705"
+        "title": "배달앱 7월 결제액 9434억 원 1조 육박…코로나 속 배달앱 ‘대박’",
+        "link": "https://www.donga.com/news/article/all/20200901/102745367/1"
     },
     {
         "title": "[단독] 광주 대면예배 강행 목사 \"코로나 걸리면 천국, 뭐가 무섭나\"",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002672123&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "배달앱 7월 결제액 9434억 원 1조 육박…코로나 속 배달앱 ‘대박’",
-        "link": "https://www.donga.com/news/article/all/20200901/102745367/1"
     },
     {
         "title": "광주 3명·전남 3명 확진자 추가(종합)",
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규확진 235명…누적확진자 2만명 넘었다",
         "link": "http://www.hani.co.kr/arti/society/society_general/960172.html"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 235명···누적 확진자 2만명 돌파",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009010933001&code=940601"
     },
     {
         "title": "[속보] 한화 투수 신정락 접촉자 40명 코로나19 음성",
