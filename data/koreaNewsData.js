@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009011505505123"
     },
     {
-        "title": "20대 남녀 코로나19 양성 판정…울산 확진자 100명째",
-        "link": "http://yna.kr/AKR20200901187800057?did=1195m"
-    },
-    {
-        "title": "서울 광진구 혜민병원 관련 확진자 최소 10명…병원 폐쇄",
-        "link": "https://www.news1.kr/articles/?4045213"
-    },
-    {
-        "title": "쿠팡, 코로나19 확진자 발생한 서초1배송캠프 재가동",
-        "link": "https://imnews.imbc.com/news/2020/econo/article/5895259_32647.html"
-    },
-    {
-        "title": "한화 이글스 육성군 선수 1명 코로나19 추가 확진(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200901_0001151029&cID=10502&pID=10500"
-    },
-    {
         "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
         "title": "[2보]홍천에서 7번째 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220083100150"
+    },
+    {
+        "title": "[속보] 한화 투수 신정락 접촉자 40명 코로나19 음성",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009010065&t=NN"
+    },
+    {
+        "title": "코로나19 누적확진자 2만 명 넘어서…신규확진 235명",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=204480"
+    },
+    {
+        "title": "서울, 보름 만에 처음 '평일 두 자릿수'…신규 확진자 94명",
+        "link": "https://www.news1.kr/articles/?4044238"
+    },
+    {
+        "title": "코로나19 위중·중증환자 104명…병상 부족 우려",
+        "link": "https://news.imaeil.com/Society/2020090112333523559"
     }
 ];
