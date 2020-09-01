@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "Peru now has world's highest coronavirus death rate",
-        "link": "https://www.axios.com/countries-with-highest-coronavirus-death-rates-5dd89c65-bdb7-4ba7-ad87-3737520911cd.html"
+        "title": "Canada to purchase 76 million doses of Novavax coronavirus vaccine, company says",
+        "link": "https://www.cnbc.com/2020/08/31/canada-to-purchase-76-million-doses-of-novavax-coronavirus-vaccine-company-says.html"
     },
     {
         "title": "Hamas and Israel Agree to Ease Hostilities Amid Coronavirus",
