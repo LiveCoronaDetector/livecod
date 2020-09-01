@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6210796,
-        "사망자수": 187713,
-        "완치자수": 3452865
+        "확진자수": 6211681,
+        "사망자수": 187736,
+        "완치자수": 3453823
     },
     {
         "Name": "브라질",
@@ -412,9 +412,9 @@ var marker = [
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 45868,
-        "사망자수": 381,
-        "완치자수": 37091
+        "확진자수": 46728,
+        "사망자수": 386,
+        "완치자수": 38112
     },
     {
         "Name": "알제리",
@@ -1324,9 +1324,17 @@ var marker = [
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
-        "확진자수": 596,
+        "확진자수": 615,
         "사망자수": 16,
         "완치자수": 98
+    },
+    {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "확진자수": 573,
+        "사망자수": 0,
+        "완치자수": 205
     },
     {
         "Name": "Tanzania",
@@ -1351,14 +1359,6 @@ var marker = [
         "확진자수": 488,
         "사망자수": 7,
         "완치자수": 462
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "확진자수": 482,
-        "사망자수": 0,
-        "완치자수": 202
     },
     {
         "Name": "Sint Maarten",
@@ -1404,7 +1404,7 @@ var marker = [
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
-        "확진자수": 355,
+        "확진자수": 356,
         "사망자수": 10,
         "완치자수": 335
     },
@@ -1476,17 +1476,17 @@ var marker = [
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "확진자수": 173,
+        "확진자수": 174,
         "사망자수": 7,
-        "완치자수": 145
+        "완치자수": 146
     },
     {
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "확진자수": 169,
+        "확진자수": 172,
         "사망자수": 9,
-        "완치자수": 153
+        "완치자수": 155
     },
     {
         "Name": "Brunei",
