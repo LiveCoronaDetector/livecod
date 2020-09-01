@@ -2,11 +2,11 @@
 var worldNewsData = [
     {
         "title": "Coronavirus Africa live updates: Nigeria, South Africa, Egypt, Ghana... cases, deaths and news",
-        "link": "https://en.as.com/en/2020/08/30/latest_news/1598769034_793758.html"
+        "link": "https://news.google.com/articles/CBMiQmh0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDgvMzEvbGF0ZXN0X25ld3MvMTU5ODg1MDUzMV85ODg2NDMuaHRtbNIBRmh0dHBzOi8vZW4uYXMuY29tL2VuLzIwMjAvMDgvMzEvbGF0ZXN0X25ld3MvMTU5ODg1MDUzMV85ODg2NDMuYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Canada to purchase 76 million doses of Novavax coronavirus vaccine, company says",
-        "link": "https://www.cnbc.com/2020/08/31/canada-to-purchase-76-million-doses-of-novavax-coronavirus-vaccine-company-says.html"
+        "title": "Federal health advisors predict four coronavirus vaccine trials backed by U.S. could fail",
+        "link": "https://www.cnbc.com/2020/09/01/federal-health-advisors-predict-four-coronavirus-vaccine-trials-backed-by-us-could-fail.html"
     },
     {
         "title": "Coronavirus: Quarantine restrictions for travellers from Greece",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-wuhan-father-coronavirus-lawsuit"
     },
     {
-        "title": "Coronavirus updates: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
+        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
+    },
+    {
+        "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/31/covid-19-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
     },
     {
         "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
         "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
-        "title": "First GDP numbers during COVID times | India's GDP contracts 23.9% in Apr-June period",
-        "link": "https://www.youtube.com/watch?v=PF6hAjCmUgc"
-    },
-    {
-        "title": "WHO warns that 'no country can just pretend the pandemic is over'",
-        "link": "https://www.cnbc.com/2020/08/31/coronavirus-who-warns-that-no-country-can-just-pretend-the-pandemic-is-over.html"
+        "title": "Coronavirus updates: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
     }
 ];

@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
     },
     {
-        "title": "서울 광진구 혜민병원 관련 확진자 최소 10명…병원 폐쇄",
-        "link": "https://www.news1.kr/articles/?4045213"
-    },
-    {
-        "title": "[단독] 전국민 100명중 4명 코로나 검사 받았다",
-        "link": "https://news.joins.com/article/olink/23456969"
-    },
-    {
         "title": "[속보] 한화 투수 신정락 접촉자 40명 코로나19 음성",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009010065&t=NN"
+    },
+    {
+        "title": "코로나19 누적확진자 2만 명 넘어서…신규확진 235명",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=204480"
+    },
+    {
+        "title": "한화 신정락, 코로나19 확진…KBO \"2군 선수 전원 검사\"",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967224"
     }
 ];
