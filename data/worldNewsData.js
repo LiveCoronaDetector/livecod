@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-vaccines-adenoviru/scientists-see-downsides-to-top-covid-19-vaccines-from-russia-china-idUSKBN25R19H"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
+        "title": "Coronavirus updates: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
     },
     {
         "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",

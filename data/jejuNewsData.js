@@ -5,16 +5,20 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "제주 46번 확진자 검사 후 자가격리 어기고 병원·식당 방문",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4529935&ref=A"
+        "title": "울산 99번,100번 코로나19 확진자 발생..20대 남녀",
+        "link": "http://www.fnnews.com/news/202009011937318651"
     },
     {
-        "title": "서울 신규 확진자 2일 연속 100명 하회",
-        "link": "http://www.fnnews.com/news/202009011041398425"
+        "title": "코로나19 제주 46번 확진자 5곳 방문 30명 접촉",
+        "link": "https://www.nocutnews.co.kr/news/5404873"
     },
     {
-        "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
-        "link": "https://www.news1.kr/articles/?4044353"
+        "title": "서울, 보름 만에 처음 '평일 두 자릿수'…신규 확진자 94명",
+        "link": "https://www.news1.kr/articles/?4044238"
+    },
+    {
+        "title": "온천發 확진자 44번 이마트 등 방문···접촉자 14명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2170882"
     },
     {
         "title": "제주서 방글라데시인 유학생 코로나19 확진…도내 45번째",
@@ -23,10 +27,6 @@ var jejuNewsData = [
     {
         "title": "제주, 46번째 코로나19 확진자 발생…그 온천 방문자",
         "link": "http://www.newsis.com/view/?id=NISX20200831_0001149231&cID=10813&pID=10800"
-    },
-    {
-        "title": "20대 남녀 코로나19 양성…울산 확진자 100명째",
-        "link": "https://www.nocutnews.co.kr/news/5405210"
     },
     {
         "title": "제주 코로나 27번 확진자 완치 판정...13일 만에 퇴원",
