@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020083004521180709?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "외교부서 코로나19 확진자 또 발생… 제주 게스트하우스發 감염 추정",
-        "link": "http://www.getnews.co.kr/view.php?ud=2020083118124232757f7a2feaf6_16"
-    },
-    {
         "title": "코로나19 제주 45번째 확진자 접촉자 모두 음성",
         "link": "https://www.nocutnews.co.kr/news/5403932"
+    },
+    {
+        "title": "외교부서 코로나19 확진자 또 발생… 제주 게스트하우스發 감염 추정",
+        "link": "http://www.getnews.co.kr/view.php?ud=2020083118124232757f7a2feaf6_16"
     },
     {
         "title": "코로나19 확진자 방문한 제주도청·시청 부서 일시 폐쇄",

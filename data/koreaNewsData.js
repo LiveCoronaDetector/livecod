@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009010065&t=NN"
     },
     {
-        "title": "미국 코로나19 확진자 600만명 넘어…급속한 확산세는 일부 제동(종합)",
-        "link": "http://yna.kr/AKR20200831055651009?did=1195m"
-    },
-    {
-        "title": "신규 확진자 235명…‘코로나 사태’ 225일 만에 누적 2만 명",
-        "link": "https://www.donga.com/news/article/all/20200901/102734422/1"
-    },
-    {
-        "title": "[코로나19] 신규확진자 235명…누적 2만명 넘어서(상보)",
-        "link": "http://www.ajunews.com/view/20200901094645883"
-    },
-    {
-        "title": "신규 확진 235명·누적 확진자 2만명 넘어...위·중증환자도 급증 (종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200901500024&wlog_tag3=naver"
-    },
-    {
         "title": "[속보] 코로나19 신규확진 235명…누적확진자 2만명 넘었다",
         "link": "http://www.hani.co.kr/arti/society/society_general/960172.html"
     },
     {
-        "title": "[속보] 코로나 국내 신규 235명… 누적 2만명대 진입",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/01/2020090101277.html"
+        "title": "미국 코로나19 확진자 600만명 넘어…급속한 확산세는 일부 제동(종합)",
+        "link": "http://yna.kr/AKR20200831055651009?did=1195m"
     },
     {
-        "title": "경찰청 10층 확진자 발생… \"출입 제한 조치\"(상보)",
-        "link": "http://moneys.mt.co.kr/news/mwView.php?no=2020090108408092887"
+        "title": "코로나19 신규 확진자 235명…서울 93명·경기 60명·인천 22명 등",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4529611&ref=A"
     },
     {
-        "title": "코로나19 신규확진 235명…누적확진 2만명 돌파",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/01/2020090190032.html"
+        "title": "국내 신규확진 235명…누적 확진자 2만명 넘어",
+        "link": "https://news.imaeil.com/Society/2020090109402499686"
+    },
+    {
+        "title": "코로나19 신규 확진 235명…누적 확진자 2만 명 넘어",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005958691&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 누적확진자 2만 명 넘어서…신규확진 235명",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=204480"
+    },
+    {
+        "title": "'코로나 충격' 2분기 성장률 -3.2%…금융위기 후 최저(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200901_0001149865&cID=10401&pID=10400"
+    },
+    {
+        "title": "쿠팡, 배송 직원 코로나19 확진… 서초 1캠프 폐쇄(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101367.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "한화 신정락, 코로나19 확진…KBO \"2군 선수 전원 검사\"",
