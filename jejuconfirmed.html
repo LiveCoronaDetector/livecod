@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <canvas id="corona-chart"></canvas>
+            </div>
+        </div>
+    </div>
+    <script>
+        // 추후 수정 예정
+        // // 날짜 자동 불러오기
+        // var today = new Date();
+    
+        // // 첫번재 순서부터 4일전 / 3일전 / 2일전 / 1일전 / 당일확진자 날짜
+        // var dayArr = [today.getDate() - 4,today.getDate() - 3,today.getDate() - 2,today.getDate() - 1,today.getDate()];
+        
+        // // 달력 담아둘 객체 생성
+        // var monthArr = [];
+
+        // // 월 / 일 합치기를 위한 for문
+        // for(var i = 0; dayArr.length(); i++){
+            
+        //     // 임시 변수로 달 호출하기
+        //     var num = today.getMonth();
+            
+        //     // 만일 날짜를 - 값을 주어서 0 이면 저번달로 변경 ex 9월 -1일 → 8월 31일로 변환
+        //     if(dayArr[i] < 0){
+        //         if(num == 4||num == 6||num == 9||num == 11){
+        //             var num2 = 30 - dayArr[i];
+        //             monthArr[i] = num - 1; 
+        //         } else if(num == 2){
+        //             var num2 = 29 - dayArr[i];
+        //             monthArr[i] = num - 1;
+        //         } else {
+        //             var num2 = 31 - dayArr[i];
+        //             monthArr[i] = num - 1;
+        //         }
+        //     }
+        // }
+        
+        let mychartOne = document.getElementById('corona-chart').getContext('2d');
+        
+        let barchart = new Chart(mychartOne, {
+            type : 'bar',
+            data : {
+                labels : ['8월 27일','8월 28일','8월 29일','8월 30일','8월 31일'],
+                datasets : [{
+                    label : '신규확진자',
+                    data : [
+                        1,
+                        2,
+                        4,
+                        3,
+                        1
+                    ],
+                    backgroundColor : [
+                        'rgba(78,115,223, 0.2)',
+                        'rgba(78,115,223, 0.2)',
+                        'rgba(78,115,223, 0.2)',
+                        'rgba(78,115,223, 0.2)',
+                        'rgba(78,115,223, 0.2)',
+                    ],
+                    borderWidth : 3,
+                    borderColor: '#black',
+                    hoverBorderwidth : 1,
+                }]
+            },
+            options : {
+                title : {
+                display : true,
+                text:'제주 도내 신규 확진자',
+                fontsize : 100,
+                fontcolor: 'red',
+                }
+            }
+        })
+    </script>
+</body>
+</html>
