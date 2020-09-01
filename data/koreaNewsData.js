@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009010933001&code=940601"
     },
     {
-        "title": "하나은행 본점서 코로나19 확진자 발생 건물 폐쇄",
+        "title": "하나銀 본점서 코로나19 확진자 발생 '건물 폐쇄'",
         "link": "http://www.fnnews.com/news/202009011505505123"
+    },
+    {
+        "title": "쿠팡, 코로나19 확진자 발생한 서초1배송캠프 재가동",
+        "link": "https://imnews.imbc.com/news/2020/econo/article/5895259_32647.html"
     },
     {
         "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
-    },
-    {
-        "title": "[속보] 고양서 코로나19 확진자 6명 발생 \"274~279번\"",
-        "link": "https://www.hankyung.com/life/article/2020090115307"
     },
     {
         "title": "'비상선언' 측 \"코로나19 확진자 접촉 배우 알고도 촬영 강행? NO\"(공식)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/960172.html"
     },
     {
-        "title": "배달앱 7월 결제액 9434억 원 1조 육박…코로나 속 배달앱 ‘대박’",
-        "link": "https://www.donga.com/news/article/all/20200901/102745367/1"
+        "title": "[속보] 한화 투수 신정락 접촉자 40명 코로나19 음성",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009010065&t=NN"
     }
 ];

@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000943.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "서울 코로나19 누적 확진자 4000명 돌파… 오늘 86명 추가",
-        "link": "https://view.asiae.co.kr/article/2020090119421236754"
+        "title": "20대 남녀 코로나19 양성…울산 확진자 100명째",
+        "link": "https://www.nocutnews.co.kr/news/5405210"
     },
     {
         "title": "제주 코로나 27번 확진자 완치 판정...13일 만에 퇴원",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426279"
     },
     {
-        "title": "20대 남녀 코로나19 양성 판정…울산 확진자 100명째",
-        "link": "http://yna.kr/AKR20200901187800057?did=1195m"
+        "title": "서울 코로나19 누적 확진자 4000명 돌파… 오늘 86명 추가",
+        "link": "https://view.asiae.co.kr/article/2020090119421236754"
     }
 ];

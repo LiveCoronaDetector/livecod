@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
     },
     {
         "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/31/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
     },
     {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
+        "title": "India added half a million COVID-19 cases in one week: WHO",
+        "link": "https://www.aljazeera.com/news/2020/09/india-added-million-covid-19-cases-week-200901091636897.html"
     }
 ];
