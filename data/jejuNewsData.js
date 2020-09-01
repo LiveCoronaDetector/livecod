@@ -5,20 +5,20 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
+        "title": "제주 46번 확진자 검사 후 자가격리 어기고 병원·식당 방문",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4529935&ref=A"
+    },
+    {
         "title": "서울 신규 확진자 2일 연속 100명 하회",
         "link": "http://www.fnnews.com/news/202009011041398425"
     },
     {
-        "title": "코로나19 제주 46번 확진자 5곳 방문 30명 접촉",
-        "link": "https://www.nocutnews.co.kr/news/5404873"
+        "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
+        "link": "https://www.news1.kr/articles/?4044353"
     },
     {
         "title": "제주서 방글라데시인 유학생 코로나19 확진…도내 45번째",
         "link": "http://yna.kr/AKR20200830071900056?did=1195m"
-    },
-    {
-        "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
-        "link": "https://www.news1.kr/articles/?4044353"
     },
     {
         "title": "제주, 46번째 코로나19 확진자 발생…그 온천 방문자",
