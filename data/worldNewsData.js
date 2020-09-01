@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
+        "title": "Nearly 3 in 4 adults plan to get vaccinated against the coronavirus, global survey shows",
+        "link": "https://www.cnbc.com/2020/09/01/nearly-3-in-4-adults-plan-to-get-a-coronavirus-vaccine-survey-shows.html"
     },
     {
-        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+        "title": "India added half a million COVID-19 cases in one week: WHO",
+        "link": "https://www.aljazeera.com/news/2020/09/india-added-million-covid-19-cases-week-200901091636897.html"
     }
 ];
