@@ -9,12 +9,28 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009010933001&code=940601"
     },
     {
+        "title": "하나銀 본점서 코로나19 확진자 발생 '건물 폐쇄'",
+        "link": "http://www.fnnews.com/news/202009011505505123"
+    },
+    {
+        "title": "코로나19 누적확진자 2만 명 넘어서…신규확진 235명",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=204480"
+    },
+    {
         "title": "코로나19 신규확진 235명…누적확진자 2만명 넘었다",
         "link": "http://www.hani.co.kr/arti/society/society_general/960172.html"
     },
     {
-        "title": "하나銀 본점서 코로나19 확진자 발생 '건물 폐쇄'",
-        "link": "http://www.fnnews.com/news/202009011505505123"
+        "title": "서울 광진구 혜민병원 관련 확진자 최소 10명…병원 폐쇄",
+        "link": "https://www.news1.kr/articles/?4045213"
+    },
+    {
+        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
+    },
+    {
+        "title": "[단독] 전국민 100명중 4명 코로나 검사 받았다",
+        "link": "https://news.joins.com/article/olink/23456969"
     },
     {
         "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
@@ -23,21 +39,5 @@ var koreaNewsData = [
     {
         "title": "[2보]홍천에서 7번째 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220083100150"
-    },
-    {
-        "title": "[속보] 한화 투수 신정락 접촉자 40명 코로나19 음성",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009010065&t=NN"
-    },
-    {
-        "title": "코로나19 누적확진자 2만 명 넘어서…신규확진 235명",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=204480"
-    },
-    {
-        "title": "서울, 보름 만에 처음 '평일 두 자릿수'…신규 확진자 94명",
-        "link": "https://www.news1.kr/articles/?4044238"
-    },
-    {
-        "title": "한화 신정락, 코로나19 확진…KBO \"2군 선수 전원 검사\"",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11967224"
     }
 ];

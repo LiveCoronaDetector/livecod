@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "울산 99번,100번 코로나19 확진자 발생..20대 남녀",
-        "link": "http://www.fnnews.com/news/202009011937318651"
-    },
-    {
         "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
+    },
+    {
+        "title": "울산 99번,100번 코로나19 확진자 발생..20대 남녀",
+        "link": "http://www.fnnews.com/news/202009011937318651"
     },
     {
         "title": "코로나19 제주 46번 확진자 5곳 방문 30명 접촉",

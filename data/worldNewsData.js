@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Canada to purchase 76 million doses of Novavax coronavirus vaccine, company says",
-        "link": "https://news.google.com/articles/CAIiEPecnAqO3wb7-S2VvXwWuRMqGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnbc.com/2020/08/31/canada-to-purchase-76-million-doses-of-novavax-coronavirus-vaccine-company-says.html"
     },
     {
         "title": "Hamas and Israel Agree to Ease Hostilities Amid Coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
     },
     {
-        "title": "India added half a million COVID-19 cases in one week: WHO",
-        "link": "https://www.aljazeera.com/news/2020/09/india-added-million-covid-19-cases-week-200901091636897.html"
+        "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
+    },
+    {
+        "title": "First GDP numbers during COVID times | India's GDP contracts 23.9% in Apr-June period",
+        "link": "https://www.youtube.com/watch?v=PF6hAjCmUgc"
     },
     {
         "title": "WHO warns that 'no country can just pretend the pandemic is over'",
         "link": "https://www.cnbc.com/2020/08/31/coronavirus-who-warns-that-no-country-can-just-pretend-the-pandemic-is-over.html"
-    },
-    {
-        "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
-        "link": "https://www.bbc.com/news/world-europe-53969564"
     }
 ];
