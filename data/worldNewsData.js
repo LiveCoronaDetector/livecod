@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
     },
     {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
-    },
-    {
         "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
         "title": "Nearly 3 in 4 adults plan to get vaccinated against the coronavirus, global survey shows",
-        "link": "https://news.google.com/articles/CAIiEGeR1U3J-K4Ueww2sUYSVgAqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnbc.com/2020/09/01/nearly-3-in-4-adults-plan-to-get-a-coronavirus-vaccine-survey-shows.html"
+    },
+    {
+        "title": "Germany coronavirus: Anger after attempt to storm parliament",
+        "link": "https://www.bbc.com/news/world-europe-53964147"
     }
 ];
