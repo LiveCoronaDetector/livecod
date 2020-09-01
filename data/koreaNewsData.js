@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020090108284066561"
     },
     {
-        "title": "경북, 광화문집회 관련 3명 등 확진자 9명 발생",
-        "link": "https://news.imaeil.com/Society/2020090108523590490"
+        "title": "[속보] 울산, '고스톱' 관련 확진자 7명으로 늘어…추가 확진자 모두 고령자",
+        "link": "https://view.asiae.co.kr/article/2020090110573311726"
     },
     {
-        "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
-        "link": "http://yna.kr/AKR20200901046000530?did=1195m"
+        "title": "경북, 광화문집회 관련 3명 등 확진자 9명 발생",
+        "link": "https://news.imaeil.com/Society/2020090108523590490"
     },
     {
         "title": "코로나19 신규 확진 235명…누적 확진자 2만 명 넘어",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005958691&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "쿠팡, 배송 직원 코로나19 확진… 서초 1캠프 폐쇄(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/08/31/2020083101367.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 한화 투수 신정락 접촉자 40명 코로나19 음성",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009010065&t=NN"
     }
 ];

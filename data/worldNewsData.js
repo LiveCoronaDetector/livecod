@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-31-20-intl/index.html"
     },
     {
-        "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/31/covid-19-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
-    },
-    {
         "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
         "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
         "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/31/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
+    },
+    {
+        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
     }
 ];

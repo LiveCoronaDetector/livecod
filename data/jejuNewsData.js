@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "[종합] 서울시 “코로나19 집단감염 최소 17건··· 사랑제일교회 곧 구상권...",
-        "link": "https://www.sedaily.com/NewsView/1Z7OQVMFZF"
-    },
-    {
         "title": "서울 신규 확진자 2일 연속 100명 하회",
         "link": "http://www.fnnews.com/news/202009011041398425"
+    },
+    {
+        "title": "[종합] 서울시 “코로나19 집단감염 최소 17건··· 사랑제일교회 곧 구상권...",
+        "link": "https://www.sedaily.com/NewsView/1Z7OQVMFZF"
     },
     {
         "title": "제주서 방글라데시인 유학생 코로나19 확진…도내 45번째",
