@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/01/2020090103039.html"
     },
     {
+        "title": "[속보]코로나19 신규 확진자 235명···누적 확진자 2만명 돌파",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009010933001&code=940601"
+    },
+    {
+        "title": "코로나19 신규확진 235명…누적확진자 2만명 넘었다",
+        "link": "http://www.hani.co.kr/arti/society/society_general/960172.html"
+    },
+    {
         "title": "울산 99번,100번 코로나19 확진자 발생..20대 남녀",
         "link": "http://www.fnnews.com/news/202009011937318651"
     },
@@ -19,14 +27,6 @@ var koreaNewsData = [
     {
         "title": "한화 이글스 육성군 선수 1명 코로나19 추가 확진(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200901_0001151029&cID=10502&pID=10500"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 235명···누적 확진자 2만명 돌파",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009010933001&code=940601"
-    },
-    {
-        "title": "코로나19 신규확진 235명…누적확진자 2만명 넘었다",
-        "link": "http://www.hani.co.kr/arti/society/society_general/960172.html"
     },
     {
         "title": "하나은행 본점서 코로나19 확진자 발생···내일까지 건물 폐쇄",

@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
+        "title": "제주 47번째 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020090200333932272?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "울산 99번,100번 코로나19 확진자 발생..20대 남녀",
         "link": "http://www.fnnews.com/news/202009011937318651"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "서울 코로나19 누적 확진자 4000명 돌파… 오늘 86명 추가",
         "link": "https://view.asiae.co.kr/article/2020090119421236754"
-    },
-    {
-        "title": "서울 코로나 확진자 줄고있지만…신규 집단감염 사례 속출",
-        "link": "https://www.donga.com/news/article/all/20200901/102749173/1"
     }
 ];

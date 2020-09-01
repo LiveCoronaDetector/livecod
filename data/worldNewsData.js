@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
-        "title": "In the World’s Coronavirus Blind Spot, Fears of a Silent Epidemic",
-        "link": "https://www.wsj.com/articles/in-the-worlds-coronavirus-blind-spot-fears-of-a-silent-epidemic-11598806800"
+        "title": "Nearly 3 in 4 adults plan to get vaccinated against the coronavirus, global survey shows",
+        "link": "https://news.google.com/articles/CAIiEGeR1U3J-K4Ueww2sUYSVgAqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
