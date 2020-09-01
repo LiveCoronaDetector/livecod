@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/08/31/canada-to-purchase-76-million-doses-of-novavax-coronavirus-vaccine-company-says.html"
     },
     {
-        "title": "Hamas and Israel Agree to Ease Hostilities Amid Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/31/world/middleeast/hamas-gaza-israel-coronavirus.html"
+        "title": "Coronavirus: Quarantine restrictions for travellers from Greece",
+        "link": "https://www.bbc.com/news/uk-scotland-53992742"
     },
     {
         "title": "A Coronavirus Second Wave Grips Spain",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html"
     },
     {
+        "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/aug/31/covid-19-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
+    },
+    {
+        "title": "Nearly 3 in 4 adults plan to get vaccinated against the coronavirus, global survey shows",
+        "link": "https://www.cnbc.com/2020/09/01/nearly-3-in-4-adults-plan-to-get-a-coronavirus-vaccine-survey-shows.html"
+    },
+    {
         "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
         "link": "https://www.bbc.com/news/world-europe-53969564"
-    },
-    {
-        "title": "First GDP numbers during COVID times | India's GDP contracts 23.9% in Apr-June period",
-        "link": "https://www.youtube.com/watch?v=PF6hAjCmUgc"
-    },
-    {
-        "title": "WHO warns that 'no country can just pretend the pandemic is over'",
-        "link": "https://www.cnbc.com/2020/08/31/coronavirus-who-warns-that-no-country-can-just-pretend-the-pandemic-is-over.html"
     }
 ];
