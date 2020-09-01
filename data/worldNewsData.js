@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "Coronavirus News: Live Updates",
-        "link": "https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: US tops 6m cases as some states post record daily totals",
+        "link": "https://www.theguardian.com/world/2020/aug/31/coronavirus-us-passes-6m-cases"
     },
     {
         "title": "Hamas and Israel Agree to Ease Hostilities Amid Coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/08/31/watch-live-who-holds-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
+        "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/aug/31/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
     }
 ];
