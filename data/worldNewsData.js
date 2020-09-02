@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "30 cases of Covid-19 have been linked to a karaoke bar in Canada",
-        "link": "https://www.cnn.com/2020/09/02/americas/canada-karaoke-bar-covid-cluster/index.html"
+        "title": "Covid-19 built a 'northern wall' between the US and Canada and it could stay up longer than anyone expected",
+        "link": "https://www.cnn.com/travel/article/covid-wall-canada-us-trnd/index.html"
     },
     {
-        "title": "Coronavirus: Quarantine restrictions for travellers from Greece",
-        "link": "https://www.bbc.com/news/uk-scotland-53992742"
+        "title": "Coronavirus: Tui halts trips to Zante resort of Laganas after virus clusters",
+        "link": "https://www.bbc.com/news/uk-53993399"
     },
     {
         "title": "A Coronavirus Second Wave Grips Spain",
         "link": "https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html"
     },
     {
-        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-53969118"
+        "title": "India reports near 80,000 coronavirus cases in one day: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/turns-global-coronavirus-vaccine-effort-live-news-200902000127327.html"
     },
     {
         "title": "Australia in first recession for nearly 30 years",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
     },
     {
-        "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/sep/02/covid-19-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
-        "link": "https://www.bbc.com/news/world-europe-53969564"
+        "title": "C.D.C. Halts Evictions, Citing Covid-19 Risks",
+        "link": "https://www.nytimes.com/2020/09/01/world/covid-19-coronavirus.html"
     },
     {
         "title": "Coronavirus live updates: US to shun world effort to develop vaccine; Here's who should get first vaccinations; Fauci debunks COVID theories",

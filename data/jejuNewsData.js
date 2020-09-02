@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009021144417201"
     },
     {
+        "title": "제주도 방문 외교부 확진자와 접촉한 22명 전원 음성",
+        "link": "http://yna.kr/AKR20200902092700530?did=1195m"
+    },
+    {
         "title": "울산 확진자 7명 추가...'고스톱 확진자' 총 12명",
         "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주 온천감염 46번 확진자 자가격리 지침위반 병원·약국 방문",
         "link": "http://yna.kr/AKR20200901168800056?did=1195m"
-    },
-    {
-        "title": "제주도 방문 외교부 확진자와 접촉한 22명 전원 음성",
-        "link": "http://yna.kr/AKR20200902092700530?did=1195m"
     },
     {
         "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
