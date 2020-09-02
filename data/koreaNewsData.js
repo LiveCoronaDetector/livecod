@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009020932001&code=940601"
     },
     {
-        "title": "코로나19 확진자 200명대 유지했지만…중환자 급증 이어져(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02141846625896184"
-    },
-    {
         "title": "대전서 80대 코로나19 확진자 숨져…지역 누적 3명",
         "link": "http://yna.kr/AKR20200902026300063?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 267명…위·중증 환자 124명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009020087&t=NN"
-    },
-    {
-        "title": "코로나19 누적 확진자 2만명 넘어…추석승차권 예매 연기",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
+        "title": "울산 확진자 7명 추가...'고스톱 확진자' 총 12명",
+        "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
     },
     {
         "title": "[종합] 코로나19 확진자 267명 중 서울 98명, 경기 79명",
         "link": "http://www.fnnews.com/news/202009020936558154"
     },
     {
+        "title": "코로나19 확진자 200명대 유지했지만…중환자 급증 이어져(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02141846625896184"
+    },
+    {
+        "title": "코로나19 누적 확진자 2만명 넘어…추석승차권 예매 연기",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규확진 267명…6일만에 증가세",
+        "link": "http://www.hani.co.kr/arti/society/society_general/960346.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 267명…위·중증 환자 124명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009020087&t=NN"
+    },
+    {
+        "title": "[속보]국방부 “군의관 의료현장에 투입…코로나19 대응에 최선”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200902000172"
+    },
+    {
         "title": "코로나 확진 267명…4일 연속 200명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/02/2020090200871.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 267명…다시 증가세",
-        "link": "http://news.tf.co.kr/read/life/1810366.htm"
-    },
-    {
-        "title": "[속보] 코로나19 어제 267명 신규 확진…나흘 연속 200명대",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005960799&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 267명···16일째 200명 웃돌아",
-        "link": "https://www.sedaily.com/NewsView/1Z7P63I7HC"
     }
 ];
