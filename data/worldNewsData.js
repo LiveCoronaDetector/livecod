@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-53994318"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
+    },
+    {
         "title": "U.S. Won’t Join Global Coronavirus Vaccine Effort Because It’s Led By The WHO",
         "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
     },
     {
-        "title": "C.D.C. Halts Evictions, Citing Covid-19 Risks",
-        "link": "https://www.nytimes.com/2020/09/01/world/covid-19-coronavirus.html"
+        "title": "Steroids cut death rates among critically ill COVID-19 patients, major study finds",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-steroids/steroids-cut-death-rates-among-critically-ill-covid-19-patients-major-study-finds-idUSKBN25T20D"
     },
     {
-        "title": "US New Coronavirus Infections Slow to Lowest Level in More Than Two Months",
-        "link": "https://www.msn.com/en-us/travel/news/us-new-coronavirus-infections-slow-to-lowest-level-in-more-than-two-months/ar-BB18zSxj?li=BBnb7Kz"
-    },
-    {
-        "title": "U.S. economy needs over $1 trillion in fresh coronavirus stimulus, says world's biggest hedge fund",
-        "link": "https://www.cnbc.com/2020/09/01/bridgewater-associates-co-cio-greg-jensen-on-coronavirus-stimulus-need.html"
+        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
     }
 ];

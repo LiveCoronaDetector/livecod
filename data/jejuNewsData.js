@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009021007476621"
     },
     {
-        "title": "제주도 방문 외교부 확진자와 접촉한 22명 전원 음성",
-        "link": "http://yna.kr/AKR20200902092700530?did=1195m"
-    },
-    {
         "title": "제주도내 47번째 확진자 자택수리 위해 입도",
         "link": "https://www.pressian.com/pages/articles/2020090218351861978?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주도 방문 외교부 확진자와 접촉한 22명 전원 음성",
+        "link": "http://yna.kr/AKR20200902092700530?did=1195m"
     },
     {
         "title": "게스트하우스발 코로나19 확진자 도외 지역서 2명 추가",
