@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
     },
     {
-        "title": "서울아산병원 50대 암환자 코로나19 확진…\"이동제한 조치\"(종합)",
-        "link": "http://yna.kr/AKR20200902178251017?did=1195m"
-    },
-    {
         "title": "인천시 33개 부서 입주 미추홀타워서 확진자 발생…건물 폐쇄",
         "link": "http://www.hani.co.kr/arti/area/capital/960382.html"
+    },
+    {
+        "title": "서울아산병원 50대 암환자 코로나19 확진…\"이동제한 조치\"(종합)",
+        "link": "http://yna.kr/AKR20200902178251017?did=1195m"
     },
     {
         "title": "대전서 80대 코로나19 확진자 숨져…지역 누적 3명",
