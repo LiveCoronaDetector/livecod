@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009021544447783"
     },
     {
-        "title": "[단독]코로나 확진 한화 선수들, 원룸 옥상서 고기굽고 술자리",
-        "link": "https://news.joins.com/article/olink/23457361"
+        "title": "홍천군 9번째 코로나19 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090100158"
     }
 ];
