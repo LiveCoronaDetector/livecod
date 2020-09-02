@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-scotland-53992742"
     },
     {
-        "title": "A Coronavirus Second Wave Grips Spain",
-        "link": "https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html"
+        "title": "Europe sees sharp rise in the number of new coronavirus cases, as Spain and Russia infections spike",
+        "link": "https://www.cnbc.com/2020/09/01/europe-coronavirus-resurgence-spain-and-russia-see-infections-spike.html"
     },
     {
         "title": "India presses ahead with reopening as daily coronavirus caseload surges to record-breaking high",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/china-wuhan-father-coronavirus-lawsuit"
     },
     {
-        "title": "India added half a million COVID-19 cases in one week: WHO",
-        "link": "https://www.aljazeera.com/news/2020/09/india-added-million-covid-19-cases-week-200901091636897.html"
+        "title": "U.S. Won’t Join Global Coronavirus Vaccine Effort Because It’s Led By The WHO",
+        "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
     },
     {
         "title": "Covid-19 News: Live Updates",
