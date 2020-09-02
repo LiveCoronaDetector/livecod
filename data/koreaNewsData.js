@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200902026300063?did=1195m"
     },
     {
+        "title": "국내 코로나 사망자 2명 늘어 총 328명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/02/2020090203109.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "\"확진자 발생해도 연장근무\" 쿠팡 노동자, 검찰 고발",
         "link": "http://www.fnnews.com/news/202009021544447783"
     },
     {
         "title": "[단독]코로나 확진 한화 선수들, 원룸 옥상서 고기굽고 술자리",
         "link": "https://news.joins.com/article/olink/23457361"
-    },
-    {
-        "title": "국내 코로나 사망자 2명 늘어 총 328명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/02/2020090203109.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

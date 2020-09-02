@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/02/americas/canada-karaoke-bar-covid-cluster/index.html"
     },
     {
-        "title": "Hungary shuts borders; Greece delays school reopening – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/01/coronavirus-live-news-who-says-states-cant-pretend-pandemic-is-over-french-cases-rise-50-in-august"
+        "title": "Coronavirus: England under pressure to impose Greece quarantine",
+        "link": "https://www.bbc.com/news/uk-53993399"
     },
     {
         "title": "A Coronavirus Second Wave Grips Spain",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/02/world/covid-19-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
-    },
-    {
         "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
         "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
     },
     {
         "title": "U.S. Won’t Join Global Coronavirus Vaccine Effort Because It’s Led By The WHO",
         "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
     },
     {
-        "title": "Steroids cut deaths of hospitalized Covid-19 patients by one-third",
-        "link": "https://www.statnews.com/2020/09/02/covid19-steroids-reduce-deaths-of-hospitalized-patients-who-analysis-confirms/"
+        "title": "Covid-19 Deaths Significantly Reduced by Use of Steroids, Analysis Says",
+        "link": "https://www.wsj.com/articles/covid-19-deaths-significantly-reduced-by-use-of-steroids-analysis-says-11599055201"
     }
 ];
