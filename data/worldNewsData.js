@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html"
     },
     {
-        "title": "India reports about 80,000 coronavirus cases in a day: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/turns-global-coronavirus-vaccine-effort-live-news-200902000127327.html"
+        "title": "'They're so vulnerable': Coronavirus hits tribes of isolated Andaman Islands",
+        "link": "https://www.nbcnews.com/news/world/fears-rise-coronavirus-has-hit-remote-tribe-after-cases-confirmed-n1239045"
     },
     {
         "title": "Australia in first recession for nearly 30 years",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/01/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus: US passes six million Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-53976793"
+        "title": "US New Coronavirus Infections Slow to Lowest Level in More Than Two Months",
+        "link": "https://www.msn.com/en-us/travel/news/us-new-coronavirus-infections-slow-to-lowest-level-in-more-than-two-months/ar-BB18zSxj?li=BBnb7Kz"
     },
     {
         "title": "U.S. economy needs over $1 trillion in fresh coronavirus stimulus, says world's biggest hedge fund",

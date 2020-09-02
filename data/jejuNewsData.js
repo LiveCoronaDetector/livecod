@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "울산 확진자 7명 추가...'고스톱 확진자' 총 12명",
-        "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
-    },
-    {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
+    },
+    {
+        "title": "울산 고스톱판 코로나19 확진 속출..또 다시 5명 추가",
+        "link": "http://www.fnnews.com/news/202009021007476621"
     },
     {
         "title": "제주도 방문 외교부 확진자와 접촉한 22명 전원 음성",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090218351861978?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "게스트하우스발 코로나19 확진자 도외 지역서 2명 추가",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171032"
+    },
+    {
+        "title": "제주도·시청 출입한 제주 40번 확진자 “6일간 20곳 방문”",
+        "link": "https://view.asiae.co.kr/article/2020090220194690037"
+    },
+    {
         "title": "20대 남녀 코로나19 양성…울산 확진자 100명째",
         "link": "https://www.nocutnews.co.kr/news/5405210"
-    },
-    {
-        "title": "제주 온천감염 46번 확진자 자가격리 지침위반 병원·약국 방문",
-        "link": "http://yna.kr/AKR20200901168800056?did=1195m"
-    },
-    {
-        "title": "은평구 175번 확진자도 제주 게하發…'루프탑정원'서 파티",
-        "link": "https://www.news1.kr/articles/?4046082"
     }
 ];
