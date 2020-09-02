@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/31/asia/india-reopening-coronavirus-surge-intl-hnk/index.html"
     },
     {
-        "title": "Australia in first recession for nearly 30 years",
-        "link": "https://www.bbc.com/news/business-53994318"
+        "title": "China's Exports Are Surging Despite Tariffs and Coronavirus",
+        "link": "https://www.nytimes.com/2020/08/31/business/trumps-tariffs-coronavirus-china-exports.html"
     },
     {
         "title": "U.S. Won’t Join Global Coronavirus Vaccine Effort Because It’s Led By The WHO",
         "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
     },
     {
+        "title": "Coronavirus live updates: US to shun world effort to develop vaccine; Here's who should get first vaccinations; Fauci debunks COVID theories",
+        "link": "https://www.usatoday.com/story/news/health/2020/09/01/covid-19-news-fauci-labor-day-weekend-safety-iowa-state-football/3447396001/"
+    },
+    {
         "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
         "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/01/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Coronavirus live updates: US to shun world effort to develop vaccine; Here's who should get first vaccinations; Fauci debunks COVID theories",
-        "link": "https://www.usatoday.com/story/news/health/2020/09/01/covid-19-news-fauci-labor-day-weekend-safety-iowa-state-football/3447396001/"
+        "title": "Nearly 3 in 4 adults plan to get vaccinated against the coronavirus, global survey shows",
+        "link": "https://www.cnbc.com/2020/09/01/nearly-3-in-4-adults-plan-to-get-a-coronavirus-vaccine-survey-shows.html"
     }
 ];
