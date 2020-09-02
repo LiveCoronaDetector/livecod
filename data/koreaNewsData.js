@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009020932001&code=940601"
     },
     {
-        "title": "대전서 80대 코로나19 확진자 숨져…지역 누적 3명",
-        "link": "http://yna.kr/AKR20200902026300063?did=1195m"
+        "title": "코로나19 확진자 267명…국내발생 253명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000217932"
     },
     {
-        "title": "울산 확진자 7명 추가...'고스톱 확진자' 총 12명",
-        "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
+        "title": "[속보]제주 47번째 코로나19 확진자 발생…울산 확진자 접촉",
+        "link": "https://www.news1.kr/articles/?4045238"
+    },
+    {
+        "title": "충남도 코로나, 지난 1일 확진자 총 7명 발생(종합)",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=62022"
     },
     {
         "title": "[종합] 코로나19 확진자 267명 중 서울 98명, 경기 79명",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/960346.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 267명…위·중증 환자 124명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009020087&t=NN"
+        "title": "코로나19 어제 267명 신규확진",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020090209311213759"
     },
     {
-        "title": "[속보]국방부 “군의관 의료현장에 투입…코로나19 대응에 최선”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200902000172"
-    },
-    {
-        "title": "코로나 확진 267명…4일 연속 200명대(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/02/2020090200871.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "대전서 80대 코로나19 확진자 숨져…지역 누적 3명",
+        "link": "http://yna.kr/AKR20200902026300063?did=1195m"
     }
 ];
