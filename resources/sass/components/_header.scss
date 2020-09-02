@@ -1,0 +1,26 @@
+header {
+    background: #ffffff;
+    margin-bottom: 1rem;
+    .title {
+        border-bottom: 1px solid #E5E9F0;
+        #logo {
+            padding: 1rem 0;
+            line-height: 1.5rem;
+            font-size: 1.5rem;
+            font-weight: 700;
+            img {
+                vertical-align: middle;
+                margin-top: -5px;
+            }
+        }
+        #copyright, #update {
+            line-height: 3.5rem;
+            color: #4C566A;
+        }
+    }
+    .navbar {
+        border-bottom: 1px solid #D8DEE9;
+        font-weight: 700;
+        font-size: 0.9rem;
+    }
+}

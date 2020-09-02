@@ -1,0 +1,200 @@
+﻿[
+    {
+        "region": "전국",
+        "link": "http://ncov.mohw.go.kr/bdBoardList_Real.do?brdGubun=13",
+        "confirmed": 20449,
+        "confirmed_delta": 267,
+        "recovered": 15356,
+        "deaths": 326,
+        "confirmed_rate": 39.44,
+        "confirmed_region_rate": "",
+        "confirmed_region_class": ""
+    },
+    {
+        "region": "서울",
+        "link": "http://www.seoul.go.kr/coronaV/coronaStatus.do",
+        "confirmed": 4062,
+        "confirmed_delta": 101,
+        "recovered": 2048,
+        "deaths": 24,
+        "confirmed_rate": 41.73,
+        "confirmed_region_rate": 19.86,
+        "confirmed_region_class": "moderate"
+    },
+    {
+        "region": "부산",
+        "link": "http://www.busan.go.kr/corona19/index",
+        "confirmed": 311,
+        "confirmed_delta": 7,
+        "recovered": 219,
+        "deaths": 3,
+        "confirmed_rate": 9.12,
+        "confirmed_region_rate": 1.52,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "대구",
+        "link": "http://www.daegu.go.kr/",
+        "confirmed": 7062,
+        "confirmed_delta": 13,
+        "recovered": 6763,
+        "deaths": 191,
+        "confirmed_rate": 289.84,
+        "confirmed_region_rate": 34.53,
+        "confirmed_region_class": "severe"
+    },
+    {
+        "region": "인천",
+        "link": "https://www.incheon.go.kr/",
+        "confirmed": 751,
+        "confirmed_delta": 11,
+        "recovered": 427,
+        "deaths": 3,
+        "confirmed_rate": 25.4,
+        "confirmed_region_rate": 3.67,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "광주",
+        "link": "https://www.gwangju.go.kr/",
+        "confirmed": 388,
+        "confirmed_delta": 10,
+        "recovered": 244,
+        "deaths": 2,
+        "confirmed_rate": 26.64,
+        "confirmed_region_rate": 1.9,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "대전",
+        "link": "https://www.daejeon.go.kr/corona19/index.do",
+        "confirmed": 278,
+        "confirmed_delta": 14,
+        "recovered": 178,
+        "deaths": 2,
+        "confirmed_rate": 18.86,
+        "confirmed_region_rate": 1.36,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "울산",
+        "link": "http://www.ulsan.go.kr/corona.jsp",
+        "confirmed": 100,
+        "confirmed_delta": 5,
+        "recovered": 63,
+        "deaths": 1,
+        "confirmed_rate": 8.72,
+        "confirmed_region_rate": 0.49,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "세종",
+        "link": "https://www.sejong.go.kr/life/sub05_0704.do",
+        "confirmed": 67,
+        "confirmed_delta": 0,
+        "recovered": 52,
+        "deaths": 0,
+        "confirmed_rate": 19.57,
+        "confirmed_region_rate": 0.33,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "경기",
+        "link": "https://www.gg.go.kr/bbs/boardView.do?bsIdx=464&bIdx=2296956&menuId=1535",
+        "confirmed": 3407,
+        "confirmed_delta": 84,
+        "recovered": 2052,
+        "deaths": 41,
+        "confirmed_rate": 25.71,
+        "confirmed_region_rate": 16.66,
+        "confirmed_region_class": "moderate"
+    },
+    {
+        "region": "강원",
+        "link": "http://www.provin.gangwon.kr/",
+        "confirmed": 195,
+        "confirmed_delta": 2,
+        "recovered": 92,
+        "deaths": 3,
+        "confirmed_rate": 12.66,
+        "confirmed_region_rate": 0.95,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "충북",
+        "link": "http://www.chungbuk.go.kr/",
+        "confirmed": 130,
+        "confirmed_delta": 1,
+        "recovered": 85,
+        "deaths": 1,
+        "confirmed_rate": 8.13,
+        "confirmed_region_rate": 0.64,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "충남",
+        "link": "http://www.chungnam.go.kr/coronaStatus.do",
+        "confirmed": 346,
+        "confirmed_delta": 7,
+        "recovered": 215,
+        "deaths": 1,
+        "confirmed_rate": 16.3,
+        "confirmed_region_rate": 1.69,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "전북",
+        "link": "http://www.jeonbuk.go.kr/",
+        "confirmed": 87,
+        "confirmed_delta": 0,
+        "recovered": 46,
+        "deaths": 0,
+        "confirmed_rate": 4.79,
+        "confirmed_region_rate": 0.43,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "전남",
+        "link": "https://www.jeonnam.go.kr/coronaMainPage.do",
+        "confirmed": 149,
+        "confirmed_delta": 3,
+        "recovered": 43,
+        "deaths": 0,
+        "confirmed_rate": 7.99,
+        "confirmed_region_rate": 0.73,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "경북",
+        "link": "http://gb.go.kr/corona_main.htm",
+        "confirmed": 1468,
+        "confirmed_delta": 4,
+        "recovered": 1359,
+        "deaths": 54,
+        "confirmed_rate": 55.14,
+        "confirmed_region_rate": 7.18,
+        "confirmed_region_class": "moderate"
+    },
+    {
+        "region": "경남",
+        "link": "http://www.gyeongnam.go.kr/corona.html",
+        "confirmed": 240,
+        "confirmed_delta": 1,
+        "recovered": 173,
+        "deaths": 0,
+        "confirmed_rate": 7.14,
+        "confirmed_region_rate": 1.17,
+        "confirmed_region_class": "mild"
+    },
+    {
+        "region": "제주",
+        "link": "https://jeju.go.kr/covid19.jsp",
+        "confirmed": 47,
+        "confirmed_delta": 1,
+        "recovered": 27,
+        "deaths": 0,
+        "confirmed_rate": 7.01,
+        "confirmed_region_rate": 0.23,
+        "confirmed_region_class": "none"
+    }
+]

@@ -6,3 +6,4 @@ urllib3==1.25.8
 numpy==1.18.1
 pandas==1.0.2
 selenium==3.141.0
+pytz==2020.1

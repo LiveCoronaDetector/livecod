@@ -1,0 +1,30 @@
+.chart-tags {
+  span {
+    position: relative;
+    display: inline-block;
+    margin-left: 5px;
+    &::before {
+      position: relative;
+      display: inline-block;
+      content: '';
+      top: -1px;
+      width: 10px;
+      height: 5px;
+      vertical-align: middle;
+      margin-right: 5px;
+    }
+  }
+
+  .tag_01::before {
+    background: #4D73DF;
+  }
+  .tag_02::before {
+    background: #1CC88A;
+  }
+  .tag_03::before {
+    background: #36B9CC;
+  }
+  .tag_04::before {
+    background: #F6C23E;
+  }
+}

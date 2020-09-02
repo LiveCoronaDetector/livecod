@@ -1,0 +1,159 @@
+a[data-city^="map_city"] {
+  border: 0;
+  position: absolute;
+  display: block;
+  margin: 0;
+  padding: 4px 8px;
+  background: #fff;
+  text-align: center;
+  box-shadow: 2px 2px 4px rgba(100, 100, 100, 0.2);
+  border-radius: 2px;
+}
+
+a[data-city^="map_city"] .name {
+  display: block;
+  font-size: 12px;
+  line-height: 15px;
+  color: #333;
+  font-weight: 700;
+}
+
+a[data-city^="map_city"] .num {
+  display: block;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0;
+  color: #000;
+  margin-top: 2px;
+}
+
+a[data-city^="map_city"] .before {
+  display: block;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0;
+  color: #333;
+}
+
+a[data-city^="map_city"].select {
+  background: #141414;
+}
+
+a[data-city^="map_city"].select .name {
+  color: #fff;
+}
+
+a[data-city^="map_city"].select .num {
+  color: #fff;
+}
+
+a[data-city^="map_city"].select .before {
+  color: #fbfbfb;
+}
+
+a[data-city="map_city1"] {
+  left: 134px;
+  top: 84px;
+}
+
+/*서울*/
+a[data-city="map_city2"] {
+  left: 284px;
+  top: 398px;
+}
+
+/*부산*/
+a[data-city="map_city3"] {
+  left: 270px;
+  top: 260px;
+}
+
+/*대구*/
+a[data-city="map_city4"] {
+  left: 38px;
+  top: 84px;
+}
+
+/*인천*/
+a[data-city="map_city5"] {
+  left: 102px;
+  top: 368px;
+}
+
+/*광주*/
+a[data-city="map_city6"] {
+  left: 158px;
+  top: 208px;
+}
+
+/*대전*/
+a[data-city="map_city7"] {
+  left: 328px;
+  top: 352px;
+}
+
+/*울산*/
+a[data-city="map_city8"] {
+  left: 108px;
+  top: 162px;
+}
+
+/*세종*/
+a[data-city="map_city9"] {
+  left: 132px;
+  top: 14px;
+}
+
+/*경기*/
+a[data-city="map_city10"] {
+  left: 226px;
+  top: 54px;
+}
+
+/*강원*/
+a[data-city="map_city11"] {
+  left: 184px;
+  top: 134px;
+}
+
+/*충북*/
+a[data-city="map_city12"] {
+  left: 52px;
+  top: 212px;
+}
+
+/*충남*/
+a[data-city="map_city13"] {
+  left: 110px;
+  top: 284px;
+}
+
+/*전북*/
+a[data-city="map_city14"] {
+  left: 40px;
+  top: 392px;
+}
+
+/*전남*/
+a[data-city="map_city15"] {
+  left: 250px;
+  top: 190px;
+}
+
+/*경북*/
+a[data-city="map_city16"] {
+  left: 206px;
+  top: 348px;
+}
+
+/*경남*/
+a[data-city="map_city17"] {
+  left: 56px;
+  top: 494px;
+}
+
+/*제주*/
+a[data-city="map_city18"] {
+  left: 302px;
+  top: 464px;
+}

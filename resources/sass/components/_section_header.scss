@@ -1,0 +1,18 @@
+.section_header {
+  background: #ED213A;
+  background: -webkit-linear-gradient(to right, #93291E, #ED213A);
+  background: linear-gradient(to right, #93291E, #ED213A);
+  color: #ffffff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  .title {
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+  }
+  .subtitle {
+    font-weight: 300;
+    font-size: 0.9rem;
+    margin: 0;
+  }
+}

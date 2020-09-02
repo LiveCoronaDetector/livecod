@@ -29,13 +29,13 @@ jobs:
           fi
       - name: Run crawler
         run: |
-          python "data/crawlWorldData.py"
-          python "data/crawlKoreaRegionalData.py"
-          python "data/crawlKoreaAgeDeathsPerData.py"
-          python "data/crawlKoreaNewsData.py"
-          python "data/crawlWorldNewsData.py"
-          python "data/crawlJejuNewsData.py"
-          python "data/crawlJejuTrafficData.py"
+          python "data/crawl_global.py"
+          python "data/crawl_korea_fatality.py"
+          python "data/crawl_news_google.py"
+          python "data/crawl_news_jeju.py"
+          python "data/crawl_news_naver.py"
+          python "data/crawl_news_naver.py"
+          python "data/crawl_version_info.py"
       - name: Commit files
         run: |
           if [[ -n $(git status --porcelain) ]]; then

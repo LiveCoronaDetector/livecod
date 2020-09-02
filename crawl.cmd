@@ -1,0 +1,10 @@
+@echo off
+python data/crawl_cumulative_global.py
+python data/crawl_cumulative_korea.py
+python data/crawl_global.py
+python data/crawl_korea_fatality.py
+python data/crawl_region_korea.py
+python data/crawl_news_google.py
+python data/crawl_news_jeju.py
+python data/crawl_news_naver.py
+python data/crawl_version_info.py

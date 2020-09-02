@@ -1,0 +1,17 @@
+.card {
+  .card-header, .card-body, .card-footer {
+    padding: 0.75rem 1rem;
+    background: #ffffff;
+  }
+  .card-header {
+    font-weight: 700;
+  }
+  .card-footer {
+    color: #4C566A;
+  }
+  .list-group-item {
+    border-right: 0;
+    border-left: 0;
+    border-top: 0;
+  }
+}

@@ -18,8 +18,10 @@ jobs:
           pip install -r requirements.txt
       - name: Run crawler
         run: |
-          python "data/crawlKoreaTotalCumulativeData.py"
-          python "data/crawlWorldCumulativeData.py"
+          python "data/crawl_cumulative_global.py"
+          python "data/crawl_cumulative_korea.py"
+          python "data/crawl_region_korea.py"
+          python "data/crawl_version_info.py"
       - name: Commit files
         run: |
           if [[ -n $(git status --porcelain) ]]; then

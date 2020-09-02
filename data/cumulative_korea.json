@@ -1,0 +1,2142 @@
+﻿[
+    {
+        "date": "2/1",
+        "quarantine": 12,
+        "confirmed": 12,
+        "confirmed_delta": 0,
+        "recovered": 0,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/2",
+        "quarantine": 15,
+        "confirmed": 15,
+        "confirmed_delta": 3,
+        "recovered": 0,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/3",
+        "quarantine": 15,
+        "confirmed": 15,
+        "confirmed_delta": 0,
+        "recovered": 0,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/4",
+        "quarantine": 16,
+        "confirmed": 16,
+        "confirmed_delta": 1,
+        "recovered": 0,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/5",
+        "quarantine": 19,
+        "confirmed": 19,
+        "confirmed_delta": 3,
+        "recovered": 0,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/6",
+        "quarantine": 23,
+        "confirmed": 23,
+        "confirmed_delta": 4,
+        "recovered": 0,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/7",
+        "quarantine": 23,
+        "confirmed": 24,
+        "confirmed_delta": 1,
+        "recovered": 1,
+        "recovered_delta": 1,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/8",
+        "quarantine": 23,
+        "confirmed": 24,
+        "confirmed_delta": 0,
+        "recovered": 1,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/9",
+        "quarantine": 22,
+        "confirmed": 25,
+        "confirmed_delta": 1,
+        "recovered": 3,
+        "recovered_delta": 2,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/10",
+        "quarantine": 24,
+        "confirmed": 27,
+        "confirmed_delta": 2,
+        "recovered": 3,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/11",
+        "quarantine": 25,
+        "confirmed": 28,
+        "confirmed_delta": 1,
+        "recovered": 3,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/12",
+        "quarantine": 21,
+        "confirmed": 28,
+        "confirmed_delta": 0,
+        "recovered": 7,
+        "recovered_delta": 4,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/13",
+        "quarantine": 21,
+        "confirmed": 28,
+        "confirmed_delta": 0,
+        "recovered": 7,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/14",
+        "quarantine": 21,
+        "confirmed": 28,
+        "confirmed_delta": 0,
+        "recovered": 7,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/15",
+        "quarantine": 19,
+        "confirmed": 28,
+        "confirmed_delta": 0,
+        "recovered": 9,
+        "recovered_delta": 2,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/16",
+        "quarantine": 20,
+        "confirmed": 29,
+        "confirmed_delta": 1,
+        "recovered": 9,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/17",
+        "quarantine": 20,
+        "confirmed": 30,
+        "confirmed_delta": 1,
+        "recovered": 10,
+        "recovered_delta": 1,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/18",
+        "quarantine": 19,
+        "confirmed": 31,
+        "confirmed_delta": 1,
+        "recovered": 12,
+        "recovered_delta": 2,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/19",
+        "quarantine": 19,
+        "confirmed": 31,
+        "confirmed_delta": 0,
+        "recovered": 12,
+        "recovered_delta": 0,
+        "deaths": 0,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/20",
+        "quarantine": 87,
+        "confirmed": 104,
+        "confirmed_delta": 73,
+        "recovered": 16,
+        "recovered_delta": 4,
+        "deaths": 1,
+        "deaths_delta": 1
+    },
+    {
+        "date": "2/21",
+        "quarantine": 186,
+        "confirmed": 204,
+        "confirmed_delta": 100,
+        "recovered": 16,
+        "recovered_delta": 0,
+        "deaths": 2,
+        "deaths_delta": 1
+    },
+    {
+        "date": "2/22",
+        "quarantine": 415,
+        "confirmed": 433,
+        "confirmed_delta": 229,
+        "recovered": 16,
+        "recovered_delta": 0,
+        "deaths": 2,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/23",
+        "quarantine": 578,
+        "confirmed": 602,
+        "confirmed_delta": 169,
+        "recovered": 18,
+        "recovered_delta": 2,
+        "deaths": 6,
+        "deaths_delta": 4
+    },
+    {
+        "date": "2/24",
+        "quarantine": 807,
+        "confirmed": 833,
+        "confirmed_delta": 231,
+        "recovered": 18,
+        "recovered_delta": 0,
+        "deaths": 8,
+        "deaths_delta": 2
+    },
+    {
+        "date": "2/25",
+        "quarantine": 945,
+        "confirmed": 977,
+        "confirmed_delta": 144,
+        "recovered": 22,
+        "recovered_delta": 4,
+        "deaths": 10,
+        "deaths_delta": 2
+    },
+    {
+        "date": "2/26",
+        "quarantine": 1227,
+        "confirmed": 1261,
+        "confirmed_delta": 284,
+        "recovered": 22,
+        "recovered_delta": 0,
+        "deaths": 12,
+        "deaths_delta": 2
+    },
+    {
+        "date": "2/27",
+        "quarantine": 1731,
+        "confirmed": 1766,
+        "confirmed_delta": 505,
+        "recovered": 22,
+        "recovered_delta": 0,
+        "deaths": 13,
+        "deaths_delta": 1
+    },
+    {
+        "date": "2/28",
+        "quarantine": 2302,
+        "confirmed": 2337,
+        "confirmed_delta": 571,
+        "recovered": 22,
+        "recovered_delta": 0,
+        "deaths": 13,
+        "deaths_delta": 0
+    },
+    {
+        "date": "2/29",
+        "quarantine": 3107,
+        "confirmed": 3150,
+        "confirmed_delta": 813,
+        "recovered": 27,
+        "recovered_delta": 5,
+        "deaths": 16,
+        "deaths_delta": 3
+    },
+    {
+        "date": "3/1",
+        "quarantine": 3689,
+        "confirmed": 3736,
+        "confirmed_delta": 586,
+        "recovered": 30,
+        "recovered_delta": 3,
+        "deaths": 17,
+        "deaths_delta": 1
+    },
+    {
+        "date": "3/2",
+        "quarantine": 4277,
+        "confirmed": 4335,
+        "confirmed_delta": 599,
+        "recovered": 30,
+        "recovered_delta": 0,
+        "deaths": 28,
+        "deaths_delta": 11
+    },
+    {
+        "date": "3/3",
+        "quarantine": 5128,
+        "confirmed": 5186,
+        "confirmed_delta": 851,
+        "recovered": 30,
+        "recovered_delta": 0,
+        "deaths": 28,
+        "deaths_delta": 0
+    },
+    {
+        "date": "3/4",
+        "quarantine": 5545,
+        "confirmed": 5621,
+        "confirmed_delta": 435,
+        "recovered": 41,
+        "recovered_delta": 11,
+        "deaths": 35,
+        "deaths_delta": 7
+    },
+    {
+        "date": "3/5",
+        "quarantine": 6012,
+        "confirmed": 6088,
+        "confirmed_delta": 467,
+        "recovered": 41,
+        "recovered_delta": 0,
+        "deaths": 35,
+        "deaths_delta": 0
+    },
+    {
+        "date": "3/6",
+        "quarantine": 6416,
+        "confirmed": 6593,
+        "confirmed_delta": 505,
+        "recovered": 135,
+        "recovered_delta": 94,
+        "deaths": 42,
+        "deaths_delta": 7
+    },
+    {
+        "date": "3/7",
+        "quarantine": 6862,
+        "confirmed": 7041,
+        "confirmed_delta": 448,
+        "recovered": 135,
+        "recovered_delta": 0,
+        "deaths": 44,
+        "deaths_delta": 2
+    },
+    {
+        "date": "3/8",
+        "quarantine": 7146,
+        "confirmed": 7314,
+        "confirmed_delta": 273,
+        "recovered": 118,
+        "recovered_delta": -17,
+        "deaths": 50,
+        "deaths_delta": 6
+    },
+    {
+        "date": "3/9",
+        "quarantine": 7307,
+        "confirmed": 7478,
+        "confirmed_delta": 164,
+        "recovered": 118,
+        "recovered_delta": 0,
+        "deaths": 53,
+        "deaths_delta": 3
+    },
+    {
+        "date": "3/10",
+        "quarantine": 7212,
+        "confirmed": 7513,
+        "confirmed_delta": 35,
+        "recovered": 247,
+        "recovered_delta": 129,
+        "deaths": 54,
+        "deaths_delta": 1
+    },
+    {
+        "date": "3/11",
+        "quarantine": 7407,
+        "confirmed": 7755,
+        "confirmed_delta": 242,
+        "recovered": 288,
+        "recovered_delta": 41,
+        "deaths": 60,
+        "deaths_delta": 6
+    },
+    {
+        "date": "3/12",
+        "quarantine": 7470,
+        "confirmed": 7869,
+        "confirmed_delta": 114,
+        "recovered": 333,
+        "recovered_delta": 45,
+        "deaths": 66,
+        "deaths_delta": 6
+    },
+    {
+        "date": "3/13",
+        "quarantine": 7403,
+        "confirmed": 7979,
+        "confirmed_delta": 110,
+        "recovered": 510,
+        "recovered_delta": 177,
+        "deaths": 66,
+        "deaths_delta": 0
+    },
+    {
+        "date": "3/14",
+        "quarantine": 7504,
+        "confirmed": 8086,
+        "confirmed_delta": 107,
+        "recovered": 510,
+        "recovered_delta": 0,
+        "deaths": 72,
+        "deaths_delta": 6
+    },
+    {
+        "date": "3/15",
+        "quarantine": 7577,
+        "confirmed": 8162,
+        "confirmed_delta": 76,
+        "recovered": 510,
+        "recovered_delta": 0,
+        "deaths": 75,
+        "deaths_delta": 3
+    },
+    {
+        "date": "3/16",
+        "quarantine": 7024,
+        "confirmed": 8236,
+        "confirmed_delta": 74,
+        "recovered": 1137,
+        "recovered_delta": 627,
+        "deaths": 75,
+        "deaths_delta": 0
+    },
+    {
+        "date": "3/17",
+        "quarantine": 6832,
+        "confirmed": 8320,
+        "confirmed_delta": 84,
+        "recovered": 1407,
+        "recovered_delta": 270,
+        "deaths": 81,
+        "deaths_delta": 6
+    },
+    {
+        "date": "3/18",
+        "quarantine": 6789,
+        "confirmed": 8413,
+        "confirmed_delta": 93,
+        "recovered": 1540,
+        "recovered_delta": 133,
+        "deaths": 84,
+        "deaths_delta": 3
+    },
+    {
+        "date": "3/19",
+        "quarantine": 6934,
+        "confirmed": 8565,
+        "confirmed_delta": 152,
+        "recovered": 1540,
+        "recovered_delta": 0,
+        "deaths": 91,
+        "deaths_delta": 7
+    },
+    {
+        "date": "3/20",
+        "quarantine": 7018,
+        "confirmed": 8652,
+        "confirmed_delta": 87,
+        "recovered": 1540,
+        "recovered_delta": 0,
+        "deaths": 94,
+        "deaths_delta": 3
+    },
+    {
+        "date": "3/21",
+        "quarantine": 7157,
+        "confirmed": 8799,
+        "confirmed_delta": 147,
+        "recovered": 1540,
+        "recovered_delta": 0,
+        "deaths": 102,
+        "deaths_delta": 8
+    },
+    {
+        "date": "3/22",
+        "quarantine": 5941,
+        "confirmed": 8961,
+        "confirmed_delta": 162,
+        "recovered": 2909,
+        "recovered_delta": 1369,
+        "deaths": 111,
+        "deaths_delta": 9
+    },
+    {
+        "date": "3/23",
+        "quarantine": 5941,
+        "confirmed": 8961,
+        "confirmed_delta": 0,
+        "recovered": 2909,
+        "recovered_delta": 0,
+        "deaths": 111,
+        "deaths_delta": 0
+    },
+    {
+        "date": "3/24",
+        "quarantine": 5410,
+        "confirmed": 9037,
+        "confirmed_delta": 76,
+        "recovered": 3507,
+        "recovered_delta": 598,
+        "deaths": 120,
+        "deaths_delta": 9
+    },
+    {
+        "date": "3/25",
+        "quarantine": 5281,
+        "confirmed": 9137,
+        "confirmed_delta": 100,
+        "recovered": 3730,
+        "recovered_delta": 223,
+        "deaths": 126,
+        "deaths_delta": 6
+    },
+    {
+        "date": "3/26",
+        "quarantine": 4966,
+        "confirmed": 9241,
+        "confirmed_delta": 104,
+        "recovered": 4144,
+        "recovered_delta": 414,
+        "deaths": 131,
+        "deaths_delta": 5
+    },
+    {
+        "date": "3/27",
+        "quarantine": 4665,
+        "confirmed": 9332,
+        "confirmed_delta": 91,
+        "recovered": 4528,
+        "recovered_delta": 384,
+        "deaths": 139,
+        "deaths_delta": 8
+    },
+    {
+        "date": "3/28",
+        "quarantine": 4523,
+        "confirmed": 9478,
+        "confirmed_delta": 146,
+        "recovered": 4811,
+        "recovered_delta": 283,
+        "deaths": 144,
+        "deaths_delta": 5
+    },
+    {
+        "date": "3/29",
+        "quarantine": 4398,
+        "confirmed": 9583,
+        "confirmed_delta": 105,
+        "recovered": 5033,
+        "recovered_delta": 222,
+        "deaths": 152,
+        "deaths_delta": 8
+    },
+    {
+        "date": "3/30",
+        "quarantine": 4275,
+        "confirmed": 9661,
+        "confirmed_delta": 78,
+        "recovered": 5228,
+        "recovered_delta": 195,
+        "deaths": 158,
+        "deaths_delta": 6
+    },
+    {
+        "date": "3/31",
+        "quarantine": 4216,
+        "confirmed": 9786,
+        "confirmed_delta": 125,
+        "recovered": 5408,
+        "recovered_delta": 180,
+        "deaths": 162,
+        "deaths_delta": 4
+    },
+    {
+        "date": "4/1",
+        "quarantine": 4155,
+        "confirmed": 9887,
+        "confirmed_delta": 101,
+        "recovered": 5567,
+        "recovered_delta": 159,
+        "deaths": 165,
+        "deaths_delta": 3
+    },
+    {
+        "date": "4/2",
+        "quarantine": 3979,
+        "confirmed": 9976,
+        "confirmed_delta": 89,
+        "recovered": 5828,
+        "recovered_delta": 261,
+        "deaths": 169,
+        "deaths_delta": 4
+    },
+    {
+        "date": "4/3",
+        "quarantine": 3867,
+        "confirmed": 10062,
+        "confirmed_delta": 86,
+        "recovered": 6021,
+        "recovered_delta": 193,
+        "deaths": 174,
+        "deaths_delta": 5
+    },
+    {
+        "date": "4/4",
+        "quarantine": 3654,
+        "confirmed": 10156,
+        "confirmed_delta": 94,
+        "recovered": 6325,
+        "recovered_delta": 304,
+        "deaths": 177,
+        "deaths_delta": 3
+    },
+    {
+        "date": "4/5",
+        "quarantine": 3591,
+        "confirmed": 10237,
+        "confirmed_delta": 81,
+        "recovered": 6463,
+        "recovered_delta": 138,
+        "deaths": 183,
+        "deaths_delta": 6
+    },
+    {
+        "date": "4/6",
+        "quarantine": 3500,
+        "confirmed": 10284,
+        "confirmed_delta": 47,
+        "recovered": 6598,
+        "recovered_delta": 135,
+        "deaths": 186,
+        "deaths_delta": 3
+    },
+    {
+        "date": "4/7",
+        "quarantine": 3445,
+        "confirmed": 10331,
+        "confirmed_delta": 47,
+        "recovered": 6694,
+        "recovered_delta": 96,
+        "deaths": 192,
+        "deaths_delta": 6
+    },
+    {
+        "date": "4/8",
+        "quarantine": 3408,
+        "confirmed": 10384,
+        "confirmed_delta": 53,
+        "recovered": 6776,
+        "recovered_delta": 82,
+        "deaths": 200,
+        "deaths_delta": 8
+    },
+    {
+        "date": "4/9",
+        "quarantine": 3246,
+        "confirmed": 10423,
+        "confirmed_delta": 39,
+        "recovered": 6973,
+        "recovered_delta": 197,
+        "deaths": 204,
+        "deaths_delta": 4
+    },
+    {
+        "date": "4/10",
+        "quarantine": 3125,
+        "confirmed": 10450,
+        "confirmed_delta": 27,
+        "recovered": 7117,
+        "recovered_delta": 144,
+        "deaths": 208,
+        "deaths_delta": 4
+    },
+    {
+        "date": "4/11",
+        "quarantine": 3026,
+        "confirmed": 10480,
+        "confirmed_delta": 30,
+        "recovered": 7243,
+        "recovered_delta": 126,
+        "deaths": 211,
+        "deaths_delta": 3
+    },
+    {
+        "date": "4/12",
+        "quarantine": 2930,
+        "confirmed": 10512,
+        "confirmed_delta": 32,
+        "recovered": 7368,
+        "recovered_delta": 125,
+        "deaths": 214,
+        "deaths_delta": 3
+    },
+    {
+        "date": "4/13",
+        "quarantine": 2873,
+        "confirmed": 10537,
+        "confirmed_delta": 25,
+        "recovered": 7447,
+        "recovered_delta": 79,
+        "deaths": 217,
+        "deaths_delta": 3
+    },
+    {
+        "date": "4/14",
+        "quarantine": 2808,
+        "confirmed": 10564,
+        "confirmed_delta": 27,
+        "recovered": 7534,
+        "recovered_delta": 87,
+        "deaths": 222,
+        "deaths_delta": 5
+    },
+    {
+        "date": "4/15",
+        "quarantine": 2750,
+        "confirmed": 10591,
+        "confirmed_delta": 27,
+        "recovered": 7616,
+        "recovered_delta": 82,
+        "deaths": 225,
+        "deaths_delta": 3
+    },
+    {
+        "date": "4/16",
+        "quarantine": 2627,
+        "confirmed": 10613,
+        "confirmed_delta": 22,
+        "recovered": 7757,
+        "recovered_delta": 141,
+        "deaths": 229,
+        "deaths_delta": 4
+    },
+    {
+        "date": "4/17",
+        "quarantine": 2576,
+        "confirmed": 10635,
+        "confirmed_delta": 22,
+        "recovered": 7829,
+        "recovered_delta": 72,
+        "deaths": 230,
+        "deaths_delta": 1
+    },
+    {
+        "date": "4/18",
+        "quarantine": 2484,
+        "confirmed": 10653,
+        "confirmed_delta": 18,
+        "recovered": 7937,
+        "recovered_delta": 108,
+        "deaths": 232,
+        "deaths_delta": 2
+    },
+    {
+        "date": "4/19",
+        "quarantine": 2385,
+        "confirmed": 10661,
+        "confirmed_delta": 8,
+        "recovered": 8042,
+        "recovered_delta": 105,
+        "deaths": 234,
+        "deaths_delta": 2
+    },
+    {
+        "date": "4/20",
+        "quarantine": 2324,
+        "confirmed": 10674,
+        "confirmed_delta": 13,
+        "recovered": 8114,
+        "recovered_delta": 72,
+        "deaths": 236,
+        "deaths_delta": 2
+    },
+    {
+        "date": "4/21",
+        "quarantine": 2233,
+        "confirmed": 10683,
+        "confirmed_delta": 9,
+        "recovered": 8213,
+        "recovered_delta": 99,
+        "deaths": 237,
+        "deaths_delta": 1
+    },
+    {
+        "date": "4/22",
+        "quarantine": 2179,
+        "confirmed": 10694,
+        "confirmed_delta": 11,
+        "recovered": 8277,
+        "recovered_delta": 64,
+        "deaths": 238,
+        "deaths_delta": 1
+    },
+    {
+        "date": "4/23",
+        "quarantine": 1967,
+        "confirmed": 10708,
+        "confirmed_delta": 14,
+        "recovered": 8501,
+        "recovered_delta": 224,
+        "deaths": 240,
+        "deaths_delta": 2
+    },
+    {
+        "date": "4/24",
+        "quarantine": 1843,
+        "confirmed": 10718,
+        "confirmed_delta": 10,
+        "recovered": 8635,
+        "recovered_delta": 134,
+        "deaths": 240,
+        "deaths_delta": 0
+    },
+    {
+        "date": "4/25",
+        "quarantine": 1769,
+        "confirmed": 10728,
+        "confirmed_delta": 10,
+        "recovered": 8717,
+        "recovered_delta": 82,
+        "deaths": 242,
+        "deaths_delta": 2
+    },
+    {
+        "date": "4/26",
+        "quarantine": 1731,
+        "confirmed": 10738,
+        "confirmed_delta": 10,
+        "recovered": 8764,
+        "recovered_delta": 47,
+        "deaths": 243,
+        "deaths_delta": 1
+    },
+    {
+        "date": "4/27",
+        "quarantine": 1654,
+        "confirmed": 10752,
+        "confirmed_delta": 14,
+        "recovered": 8854,
+        "recovered_delta": 90,
+        "deaths": 244,
+        "deaths_delta": 1
+    },
+    {
+        "date": "4/28",
+        "quarantine": 1593,
+        "confirmed": 10761,
+        "confirmed_delta": 9,
+        "recovered": 8922,
+        "recovered_delta": 68,
+        "deaths": 246,
+        "deaths_delta": 2
+    },
+    {
+        "date": "4/29",
+        "quarantine": 1459,
+        "confirmed": 10765,
+        "confirmed_delta": 4,
+        "recovered": 9059,
+        "recovered_delta": 137,
+        "deaths": 247,
+        "deaths_delta": 1
+    },
+    {
+        "date": "4/30",
+        "quarantine": 1454,
+        "confirmed": 10774,
+        "confirmed_delta": 9,
+        "recovered": 9072,
+        "recovered_delta": 13,
+        "deaths": 248,
+        "deaths_delta": 1
+    },
+    {
+        "date": "5/1",
+        "quarantine": 1407,
+        "confirmed": 10780,
+        "confirmed_delta": 6,
+        "recovered": 9123,
+        "recovered_delta": 51,
+        "deaths": 250,
+        "deaths_delta": 2
+    },
+    {
+        "date": "5/2",
+        "quarantine": 1360,
+        "confirmed": 10793,
+        "confirmed_delta": 13,
+        "recovered": 9183,
+        "recovered_delta": 60,
+        "deaths": 250,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/3",
+        "quarantine": 1332,
+        "confirmed": 10801,
+        "confirmed_delta": 8,
+        "recovered": 9217,
+        "recovered_delta": 34,
+        "deaths": 252,
+        "deaths_delta": 2
+    },
+    {
+        "date": "5/4",
+        "quarantine": 1267,
+        "confirmed": 10804,
+        "confirmed_delta": 3,
+        "recovered": 9283,
+        "recovered_delta": 66,
+        "deaths": 254,
+        "deaths_delta": 2
+    },
+    {
+        "date": "5/5",
+        "quarantine": 1218,
+        "confirmed": 10806,
+        "confirmed_delta": 2,
+        "recovered": 9333,
+        "recovered_delta": 50,
+        "deaths": 255,
+        "deaths_delta": 1
+    },
+    {
+        "date": "5/6",
+        "quarantine": 1135,
+        "confirmed": 10810,
+        "confirmed_delta": 4,
+        "recovered": 9419,
+        "recovered_delta": 86,
+        "deaths": 256,
+        "deaths_delta": 1
+    },
+    {
+        "date": "5/7",
+        "quarantine": 1082,
+        "confirmed": 10822,
+        "confirmed_delta": 12,
+        "recovered": 9484,
+        "recovered_delta": 65,
+        "deaths": 256,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/8",
+        "quarantine": 1016,
+        "confirmed": 10840,
+        "confirmed_delta": 18,
+        "recovered": 9568,
+        "recovered_delta": 84,
+        "deaths": 256,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/9",
+        "quarantine": 1008,
+        "confirmed": 10874,
+        "confirmed_delta": 34,
+        "recovered": 9610,
+        "recovered_delta": 42,
+        "deaths": 256,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/10",
+        "quarantine": 1021,
+        "confirmed": 10909,
+        "confirmed_delta": 35,
+        "recovered": 9632,
+        "recovered_delta": 22,
+        "deaths": 256,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/11",
+        "quarantine": 1008,
+        "confirmed": 10936,
+        "confirmed_delta": 27,
+        "recovered": 9670,
+        "recovered_delta": 38,
+        "deaths": 258,
+        "deaths_delta": 2
+    },
+    {
+        "date": "5/12",
+        "quarantine": 1008,
+        "confirmed": 10962,
+        "confirmed_delta": 26,
+        "recovered": 9695,
+        "recovered_delta": 25,
+        "deaths": 259,
+        "deaths_delta": 1
+    },
+    {
+        "date": "5/13",
+        "quarantine": 969,
+        "confirmed": 10991,
+        "confirmed_delta": 29,
+        "recovered": 9762,
+        "recovered_delta": 67,
+        "deaths": 260,
+        "deaths_delta": 1
+    },
+    {
+        "date": "5/14",
+        "quarantine": 937,
+        "confirmed": 11018,
+        "confirmed_delta": 27,
+        "recovered": 9821,
+        "recovered_delta": 59,
+        "deaths": 260,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/15",
+        "quarantine": 924,
+        "confirmed": 11037,
+        "confirmed_delta": 19,
+        "recovered": 9851,
+        "recovered_delta": 30,
+        "deaths": 262,
+        "deaths_delta": 2
+    },
+    {
+        "date": "5/16",
+        "quarantine": 900,
+        "confirmed": 11050,
+        "confirmed_delta": 13,
+        "recovered": 9888,
+        "recovered_delta": 37,
+        "deaths": 262,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/17",
+        "quarantine": 898,
+        "confirmed": 11065,
+        "confirmed_delta": 15,
+        "recovered": 9904,
+        "recovered_delta": 16,
+        "deaths": 263,
+        "deaths_delta": 1
+    },
+    {
+        "date": "5/18",
+        "quarantine": 877,
+        "confirmed": 11078,
+        "confirmed_delta": 13,
+        "recovered": 9938,
+        "recovered_delta": 34,
+        "deaths": 263,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/19",
+        "quarantine": 781,
+        "confirmed": 11110,
+        "confirmed_delta": 32,
+        "recovered": 10066,
+        "recovered_delta": 128,
+        "deaths": 263,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/20",
+        "quarantine": 723,
+        "confirmed": 11122,
+        "confirmed_delta": 12,
+        "recovered": 10135,
+        "recovered_delta": 69,
+        "deaths": 264,
+        "deaths_delta": 1
+    },
+    {
+        "date": "5/21",
+        "quarantine": 716,
+        "confirmed": 11142,
+        "confirmed_delta": 20,
+        "recovered": 10162,
+        "recovered_delta": 27,
+        "deaths": 264,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/22",
+        "quarantine": 705,
+        "confirmed": 11165,
+        "confirmed_delta": 23,
+        "recovered": 10194,
+        "recovered_delta": 32,
+        "deaths": 266,
+        "deaths_delta": 2
+    },
+    {
+        "date": "5/23",
+        "quarantine": 711,
+        "confirmed": 11190,
+        "confirmed_delta": 25,
+        "recovered": 10213,
+        "recovered_delta": 19,
+        "deaths": 266,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/24",
+        "quarantine": 713,
+        "confirmed": 11206,
+        "confirmed_delta": 16,
+        "recovered": 10226,
+        "recovered_delta": 13,
+        "deaths": 267,
+        "deaths_delta": 1
+    },
+    {
+        "date": "5/25",
+        "quarantine": 681,
+        "confirmed": 11225,
+        "confirmed_delta": 19,
+        "recovered": 10275,
+        "recovered_delta": 49,
+        "deaths": 269,
+        "deaths_delta": 2
+    },
+    {
+        "date": "5/26",
+        "quarantine": 701,
+        "confirmed": 11265,
+        "confirmed_delta": 40,
+        "recovered": 10295,
+        "recovered_delta": 20,
+        "deaths": 269,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/27",
+        "quarantine": 735,
+        "confirmed": 11344,
+        "confirmed_delta": 79,
+        "recovered": 10340,
+        "recovered_delta": 45,
+        "deaths": 269,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/28",
+        "quarantine": 770,
+        "confirmed": 11402,
+        "confirmed_delta": 58,
+        "recovered": 10363,
+        "recovered_delta": 23,
+        "deaths": 269,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/29",
+        "quarantine": 774,
+        "confirmed": 11441,
+        "confirmed_delta": 39,
+        "recovered": 10398,
+        "recovered_delta": 35,
+        "deaths": 269,
+        "deaths_delta": 0
+    },
+    {
+        "date": "5/30",
+        "quarantine": 793,
+        "confirmed": 11468,
+        "confirmed_delta": 27,
+        "recovered": 10405,
+        "recovered_delta": 7,
+        "deaths": 270,
+        "deaths_delta": 1
+    },
+    {
+        "date": "5/31",
+        "quarantine": 810,
+        "confirmed": 11503,
+        "confirmed_delta": 35,
+        "recovered": 10422,
+        "recovered_delta": 17,
+        "deaths": 271,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/1",
+        "quarantine": 823,
+        "confirmed": 11541,
+        "confirmed_delta": 38,
+        "recovered": 10446,
+        "recovered_delta": 24,
+        "deaths": 272,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/2",
+        "quarantine": 850,
+        "confirmed": 11590,
+        "confirmed_delta": 49,
+        "recovered": 10467,
+        "recovered_delta": 21,
+        "deaths": 273,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/3",
+        "quarantine": 857,
+        "confirmed": 11629,
+        "confirmed_delta": 39,
+        "recovered": 10499,
+        "recovered_delta": 32,
+        "deaths": 273,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/4",
+        "quarantine": 889,
+        "confirmed": 11668,
+        "confirmed_delta": 39,
+        "recovered": 10506,
+        "recovered_delta": 7,
+        "deaths": 273,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/5",
+        "quarantine": 915,
+        "confirmed": 11719,
+        "confirmed_delta": 51,
+        "recovered": 10531,
+        "recovered_delta": 25,
+        "deaths": 273,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/6",
+        "quarantine": 951,
+        "confirmed": 11776,
+        "confirmed_delta": 57,
+        "recovered": 10552,
+        "recovered_delta": 21,
+        "deaths": 273,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/7",
+        "quarantine": 978,
+        "confirmed": 11814,
+        "confirmed_delta": 38,
+        "recovered": 10563,
+        "recovered_delta": 11,
+        "deaths": 273,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/8",
+        "quarantine": 989,
+        "confirmed": 11852,
+        "confirmed_delta": 38,
+        "recovered": 10589,
+        "recovered_delta": 26,
+        "deaths": 274,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/9",
+        "quarantine": 1015,
+        "confirmed": 11902,
+        "confirmed_delta": 50,
+        "recovered": 10611,
+        "recovered_delta": 22,
+        "deaths": 276,
+        "deaths_delta": 2
+    },
+    {
+        "date": "6/10",
+        "quarantine": 1017,
+        "confirmed": 11947,
+        "confirmed_delta": 45,
+        "recovered": 10654,
+        "recovered_delta": 43,
+        "deaths": 276,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/11",
+        "quarantine": 1057,
+        "confirmed": 12003,
+        "confirmed_delta": 56,
+        "recovered": 10669,
+        "recovered_delta": 15,
+        "deaths": 277,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/12",
+        "quarantine": 1083,
+        "confirmed": 12051,
+        "confirmed_delta": 48,
+        "recovered": 10691,
+        "recovered_delta": 22,
+        "deaths": 277,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/13",
+        "quarantine": 1090,
+        "confirmed": 12085,
+        "confirmed_delta": 34,
+        "recovered": 10718,
+        "recovered_delta": 27,
+        "deaths": 277,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/14",
+        "quarantine": 1114,
+        "confirmed": 12121,
+        "confirmed_delta": 36,
+        "recovered": 10730,
+        "recovered_delta": 12,
+        "deaths": 277,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/15",
+        "quarantine": 1117,
+        "confirmed": 12155,
+        "confirmed_delta": 34,
+        "recovered": 10760,
+        "recovered_delta": 30,
+        "deaths": 278,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/16",
+        "quarantine": 1145,
+        "confirmed": 12198,
+        "confirmed_delta": 43,
+        "recovered": 10774,
+        "recovered_delta": 14,
+        "deaths": 279,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/17",
+        "quarantine": 1177,
+        "confirmed": 12257,
+        "confirmed_delta": 59,
+        "recovered": 10800,
+        "recovered_delta": 26,
+        "deaths": 280,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/18",
+        "quarantine": 1191,
+        "confirmed": 12306,
+        "confirmed_delta": 49,
+        "recovered": 10835,
+        "recovered_delta": 35,
+        "deaths": 280,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/19",
+        "quarantine": 1237,
+        "confirmed": 12373,
+        "confirmed_delta": 67,
+        "recovered": 10856,
+        "recovered_delta": 21,
+        "deaths": 280,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/20",
+        "quarantine": 1273,
+        "confirmed": 12421,
+        "confirmed_delta": 48,
+        "recovered": 10868,
+        "recovered_delta": 12,
+        "deaths": 280,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/21",
+        "quarantine": 1277,
+        "confirmed": 12438,
+        "confirmed_delta": 17,
+        "recovered": 10881,
+        "recovered_delta": 13,
+        "deaths": 280,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/22",
+        "quarantine": 1295,
+        "confirmed": 12484,
+        "confirmed_delta": 46,
+        "recovered": 10908,
+        "recovered_delta": 27,
+        "deaths": 281,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/23",
+        "quarantine": 1324,
+        "confirmed": 12535,
+        "confirmed_delta": 51,
+        "recovered": 10930,
+        "recovered_delta": 22,
+        "deaths": 281,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/24",
+        "quarantine": 1307,
+        "confirmed": 12563,
+        "confirmed_delta": 28,
+        "recovered": 10974,
+        "recovered_delta": 44,
+        "deaths": 282,
+        "deaths_delta": 1
+    },
+    {
+        "date": "6/25",
+        "quarantine": 1148,
+        "confirmed": 12602,
+        "confirmed_delta": 39,
+        "recovered": 11172,
+        "recovered_delta": 198,
+        "deaths": 282,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/26",
+        "quarantine": 1054,
+        "confirmed": 12653,
+        "confirmed_delta": 51,
+        "recovered": 11317,
+        "recovered_delta": 145,
+        "deaths": 282,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/27",
+        "quarantine": 1069,
+        "confirmed": 12715,
+        "confirmed_delta": 62,
+        "recovered": 11364,
+        "recovered_delta": 47,
+        "deaths": 282,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/28",
+        "quarantine": 1046,
+        "confirmed": 12757,
+        "confirmed_delta": 42,
+        "recovered": 11429,
+        "recovered_delta": 65,
+        "deaths": 282,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/29",
+        "quarantine": 981,
+        "confirmed": 12800,
+        "confirmed_delta": 43,
+        "recovered": 11537,
+        "recovered_delta": 108,
+        "deaths": 282,
+        "deaths_delta": 0
+    },
+    {
+        "date": "6/30",
+        "quarantine": 955,
+        "confirmed": 12850,
+        "confirmed_delta": 50,
+        "recovered": 11613,
+        "recovered_delta": 76,
+        "deaths": 282,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/1",
+        "quarantine": 938,
+        "confirmed": 12904,
+        "confirmed_delta": 54,
+        "recovered": 11684,
+        "recovered_delta": 71,
+        "deaths": 282,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/2",
+        "quarantine": 926,
+        "confirmed": 12967,
+        "confirmed_delta": 63,
+        "recovered": 11759,
+        "recovered_delta": 75,
+        "deaths": 282,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/3",
+        "quarantine": 936,
+        "confirmed": 13030,
+        "confirmed_delta": 63,
+        "recovered": 11811,
+        "recovered_delta": 52,
+        "deaths": 283,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/4",
+        "quarantine": 976,
+        "confirmed": 13091,
+        "confirmed_delta": 61,
+        "recovered": 11832,
+        "recovered_delta": 21,
+        "deaths": 283,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/5",
+        "quarantine": 1005,
+        "confirmed": 13137,
+        "confirmed_delta": 46,
+        "recovered": 11848,
+        "recovered_delta": 16,
+        "deaths": 284,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/6",
+        "quarantine": 982,
+        "confirmed": 13181,
+        "confirmed_delta": 44,
+        "recovered": 11914,
+        "recovered_delta": 66,
+        "deaths": 285,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/7",
+        "quarantine": 989,
+        "confirmed": 13244,
+        "confirmed_delta": 63,
+        "recovered": 11970,
+        "recovered_delta": 56,
+        "deaths": 285,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/8",
+        "quarantine": 987,
+        "confirmed": 13293,
+        "confirmed_delta": 49,
+        "recovered": 12019,
+        "recovered_delta": 49,
+        "deaths": 287,
+        "deaths_delta": 2
+    },
+    {
+        "date": "7/9",
+        "quarantine": 985,
+        "confirmed": 13338,
+        "confirmed_delta": 45,
+        "recovered": 12065,
+        "recovered_delta": 46,
+        "deaths": 288,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/10",
+        "quarantine": 941,
+        "confirmed": 13373,
+        "confirmed_delta": 35,
+        "recovered": 12144,
+        "recovered_delta": 79,
+        "deaths": 288,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/11",
+        "quarantine": 950,
+        "confirmed": 13417,
+        "confirmed_delta": 44,
+        "recovered": 12178,
+        "recovered_delta": 34,
+        "deaths": 289,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/12",
+        "quarantine": 986,
+        "confirmed": 13479,
+        "confirmed_delta": 62,
+        "recovered": 12204,
+        "recovered_delta": 26,
+        "deaths": 289,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/13",
+        "quarantine": 941,
+        "confirmed": 13512,
+        "confirmed_delta": 33,
+        "recovered": 12282,
+        "recovered_delta": 78,
+        "deaths": 289,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/14",
+        "quarantine": 914,
+        "confirmed": 13551,
+        "confirmed_delta": 39,
+        "recovered": 12348,
+        "recovered_delta": 66,
+        "deaths": 289,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/15",
+        "quarantine": 925,
+        "confirmed": 13612,
+        "confirmed_delta": 61,
+        "recovered": 12396,
+        "recovered_delta": 48,
+        "deaths": 291,
+        "deaths_delta": 2
+    },
+    {
+        "date": "7/16",
+        "quarantine": 919,
+        "confirmed": 13672,
+        "confirmed_delta": 60,
+        "recovered": 12460,
+        "recovered_delta": 64,
+        "deaths": 293,
+        "deaths_delta": 2
+    },
+    {
+        "date": "7/17",
+        "quarantine": 898,
+        "confirmed": 13711,
+        "confirmed_delta": 39,
+        "recovered": 12519,
+        "recovered_delta": 59,
+        "deaths": 294,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/18",
+        "quarantine": 894,
+        "confirmed": 13745,
+        "confirmed_delta": 34,
+        "recovered": 12556,
+        "recovered_delta": 37,
+        "deaths": 295,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/19",
+        "quarantine": 903,
+        "confirmed": 13771,
+        "confirmed_delta": 26,
+        "recovered": 12572,
+        "recovered_delta": 16,
+        "deaths": 296,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/20",
+        "quarantine": 877,
+        "confirmed": 13816,
+        "confirmed_delta": 45,
+        "recovered": 12643,
+        "recovered_delta": 71,
+        "deaths": 296,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/21",
+        "quarantine": 884,
+        "confirmed": 13879,
+        "confirmed_delta": 63,
+        "recovered": 12698,
+        "recovered_delta": 55,
+        "deaths": 297,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/22",
+        "quarantine": 883,
+        "confirmed": 13938,
+        "confirmed_delta": 59,
+        "recovered": 12758,
+        "recovered_delta": 60,
+        "deaths": 297,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/23",
+        "quarantine": 864,
+        "confirmed": 13979,
+        "confirmed_delta": 41,
+        "recovered": 12817,
+        "recovered_delta": 59,
+        "deaths": 298,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/24",
+        "quarantine": 928,
+        "confirmed": 14092,
+        "confirmed_delta": 113,
+        "recovered": 12866,
+        "recovered_delta": 49,
+        "deaths": 298,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/25",
+        "quarantine": 962,
+        "confirmed": 14150,
+        "confirmed_delta": 58,
+        "recovered": 12890,
+        "recovered_delta": 24,
+        "deaths": 298,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/26",
+        "quarantine": 971,
+        "confirmed": 14175,
+        "confirmed_delta": 25,
+        "recovered": 12905,
+        "recovered_delta": 15,
+        "deaths": 299,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/27",
+        "quarantine": 896,
+        "confirmed": 14203,
+        "confirmed_delta": 28,
+        "recovered": 13007,
+        "recovered_delta": 102,
+        "deaths": 300,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/28",
+        "quarantine": 882,
+        "confirmed": 14251,
+        "confirmed_delta": 48,
+        "recovered": 13069,
+        "recovered_delta": 62,
+        "deaths": 300,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/29",
+        "quarantine": 837,
+        "confirmed": 14269,
+        "confirmed_delta": 18,
+        "recovered": 13132,
+        "recovered_delta": 63,
+        "deaths": 300,
+        "deaths_delta": 0
+    },
+    {
+        "date": "7/30",
+        "quarantine": 821,
+        "confirmed": 14305,
+        "confirmed_delta": 36,
+        "recovered": 13183,
+        "recovered_delta": 51,
+        "deaths": 301,
+        "deaths_delta": 1
+    },
+    {
+        "date": "7/31",
+        "quarantine": 802,
+        "confirmed": 14336,
+        "confirmed_delta": 31,
+        "recovered": 13233,
+        "recovered_delta": 50,
+        "deaths": 301,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/1",
+        "quarantine": 806,
+        "confirmed": 14366,
+        "confirmed_delta": 30,
+        "recovered": 13259,
+        "recovered_delta": 26,
+        "deaths": 301,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/2",
+        "quarantine": 808,
+        "confirmed": 14389,
+        "confirmed_delta": 23,
+        "recovered": 13280,
+        "recovered_delta": 21,
+        "deaths": 301,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/3",
+        "quarantine": 770,
+        "confirmed": 14423,
+        "confirmed_delta": 34,
+        "recovered": 13352,
+        "recovered_delta": 72,
+        "deaths": 301,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/4",
+        "quarantine": 748,
+        "confirmed": 14456,
+        "confirmed_delta": 33,
+        "recovered": 13406,
+        "recovered_delta": 54,
+        "deaths": 302,
+        "deaths_delta": 1
+    },
+    {
+        "date": "8/5",
+        "quarantine": 696,
+        "confirmed": 14499,
+        "confirmed_delta": 43,
+        "recovered": 13501,
+        "recovered_delta": 95,
+        "deaths": 302,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/6",
+        "quarantine": 673,
+        "confirmed": 14519,
+        "confirmed_delta": 20,
+        "recovered": 13543,
+        "recovered_delta": 42,
+        "deaths": 303,
+        "deaths_delta": 1
+    },
+    {
+        "date": "8/7",
+        "quarantine": 629,
+        "confirmed": 14562,
+        "confirmed_delta": 43,
+        "recovered": 13629,
+        "recovered_delta": 86,
+        "deaths": 304,
+        "deaths_delta": 1
+    },
+    {
+        "date": "8/8",
+        "quarantine": 651,
+        "confirmed": 14598,
+        "confirmed_delta": 36,
+        "recovered": 13642,
+        "recovered_delta": 13,
+        "deaths": 305,
+        "deaths_delta": 1
+    },
+    {
+        "date": "8/9",
+        "quarantine": 663,
+        "confirmed": 14626,
+        "confirmed_delta": 28,
+        "recovered": 13658,
+        "recovered_delta": 16,
+        "deaths": 305,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/10",
+        "quarantine": 626,
+        "confirmed": 14660,
+        "confirmed_delta": 34,
+        "recovered": 13729,
+        "recovered_delta": 71,
+        "deaths": 305,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/11",
+        "quarantine": 623,
+        "confirmed": 14714,
+        "confirmed_delta": 54,
+        "recovered": 13786,
+        "recovered_delta": 57,
+        "deaths": 305,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/12",
+        "quarantine": 648,
+        "confirmed": 14770,
+        "confirmed_delta": 56,
+        "recovered": 13817,
+        "recovered_delta": 31,
+        "deaths": 305,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/13",
+        "quarantine": 705,
+        "confirmed": 14873,
+        "confirmed_delta": 103,
+        "recovered": 13863,
+        "recovered_delta": 46,
+        "deaths": 305,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/14",
+        "quarantine": 833,
+        "confirmed": 15039,
+        "confirmed_delta": 166,
+        "recovered": 13901,
+        "recovered_delta": 38,
+        "deaths": 305,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/15",
+        "quarantine": 1103,
+        "confirmed": 15318,
+        "confirmed_delta": 279,
+        "recovered": 13910,
+        "recovered_delta": 9,
+        "deaths": 305,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/16",
+        "quarantine": 1293,
+        "confirmed": 15515,
+        "confirmed_delta": 197,
+        "recovered": 13917,
+        "recovered_delta": 7,
+        "deaths": 305,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/17",
+        "quarantine": 1521,
+        "confirmed": 15761,
+        "confirmed_delta": 246,
+        "recovered": 13934,
+        "recovered_delta": 17,
+        "deaths": 306,
+        "deaths_delta": 1
+    },
+    {
+        "date": "8/18",
+        "quarantine": 1746,
+        "confirmed": 16058,
+        "confirmed_delta": 297,
+        "recovered": 14006,
+        "recovered_delta": 72,
+        "deaths": 306,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/19",
+        "quarantine": 1976,
+        "confirmed": 16346,
+        "confirmed_delta": 288,
+        "recovered": 14063,
+        "recovered_delta": 57,
+        "deaths": 307,
+        "deaths_delta": 1
+    },
+    {
+        "date": "8/20",
+        "quarantine": 2241,
+        "confirmed": 16670,
+        "confirmed_delta": 324,
+        "recovered": 14120,
+        "recovered_delta": 57,
+        "deaths": 309,
+        "deaths_delta": 2
+    },
+    {
+        "date": "8/21",
+        "quarantine": 2524,
+        "confirmed": 17002,
+        "confirmed_delta": 332,
+        "recovered": 14169,
+        "recovered_delta": 49,
+        "deaths": 309,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/22",
+        "quarantine": 2890,
+        "confirmed": 17399,
+        "confirmed_delta": 397,
+        "recovered": 14200,
+        "recovered_delta": 31,
+        "deaths": 309,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/23",
+        "quarantine": 3137,
+        "confirmed": 17665,
+        "confirmed_delta": 266,
+        "recovered": 14219,
+        "recovered_delta": 19,
+        "deaths": 309,
+        "deaths_delta": 0
+    },
+    {
+        "date": "8/24",
+        "quarantine": 3349,
+        "confirmed": 17945,
+        "confirmed_delta": 280,
+        "recovered": 14286,
+        "recovered_delta": 67,
+        "deaths": 310,
+        "deaths_delta": 1
+    },
+    {
+        "date": "8/25",
+        "quarantine": 3585,
+        "confirmed": 18265,
+        "confirmed_delta": 320,
+        "recovered": 14368,
+        "recovered_delta": 82,
+        "deaths": 312,
+        "deaths_delta": 2
+    },
+    {
+        "date": "8/26",
+        "quarantine": 3932,
+        "confirmed": 18706,
+        "confirmed_delta": 441,
+        "recovered": 14461,
+        "recovered_delta": 93,
+        "deaths": 313,
+        "deaths_delta": 1
+    },
+    {
+        "date": "8/27",
+        "quarantine": 4210,
+        "confirmed": 19077,
+        "confirmed_delta": 371,
+        "recovered": 14551,
+        "recovered_delta": 90,
+        "deaths": 316,
+        "deaths_delta": 3
+    },
+    {
+        "date": "8/28",
+        "quarantine": 4314,
+        "confirmed": 19400,
+        "confirmed_delta": 323,
+        "recovered": 14765,
+        "recovered_delta": 214,
+        "deaths": 321,
+        "deaths_delta": 5
+    },
+    {
+        "date": "8/29",
+        "quarantine": 4473,
+        "confirmed": 19699,
+        "confirmed_delta": 299,
+        "recovered": 14903,
+        "recovered_delta": 138,
+        "deaths": 323,
+        "deaths_delta": 2
+    },
+    {
+        "date": "8/30",
+        "quarantine": 4650,
+        "confirmed": 19947,
+        "confirmed_delta": 248,
+        "recovered": 14973,
+        "recovered_delta": 70,
+        "deaths": 324,
+        "deaths_delta": 1
+    },
+    {
+        "date": "8/31",
+        "quarantine": 4660,
+        "confirmed": 20182,
+        "confirmed_delta": 235,
+        "recovered": 15198,
+        "recovered_delta": 225,
+        "deaths": 324,
+        "deaths_delta": 0
+    },
+    {
+        "date": "9/1",
+        "quarantine": 4767,
+        "confirmed": 20449,
+        "confirmed_delta": 267,
+        "recovered": 15356,
+        "recovered_delta": 158,
+        "deaths": 326,
+        "deaths_delta": 2
+    }
+]

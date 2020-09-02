@@ -1,0 +1,17 @@
+
+// Colors
+$body-bg: #ECEFF4;
+
+// Typo
+$font-family-sans-serif: 'KoPubWorld Dotum', sans-serif;
+
+// Bootstrap
+$grid-gutter-width: 1rem;
+$enable-rounded: false;
+$container-max-widths: (
+        xs: 540px,
+        sm: 700px,
+        md: 960px,
+        lg: 1140px,
+        xl: 1300px,
+) !default;
