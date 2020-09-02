@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009011937318651"
     },
     {
-        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
+        "title": "[속보]제주 47번째 코로나19 확진자 발생…울산 확진자 접촉",
+        "link": "https://www.news1.kr/articles/?4045238"
     },
     {
         "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
