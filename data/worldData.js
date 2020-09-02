@@ -1532,7 +1532,7 @@ var marker = [
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "확진자수": 69,
+        "확진자수": 71,
         "사망자수": 1,
         "완치자수": 35
     },
@@ -1582,7 +1582,7 @@ var marker = [
         "Name_en": "Saint Lucia",
         "확진자수": 26,
         "사망자수": 0,
-        "완치자수": 25
+        "완치자수": 26
     },
     {
         "Name": "Grenada",
