@@ -13,16 +13,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009021544447783"
     },
     {
-        "title": "[종합] 코로나19 확진자 267명 중 서울 98명, 경기 79명",
-        "link": "http://www.fnnews.com/news/202009020936558154"
+        "title": "국방부 “군의관 의료현장에 투입…코로나19 대응에 최선”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200902000172"
     },
     {
-        "title": "정은경 \"코로나19 폭발적 확산 억제…신규확진 100명 이하 목표\"(종합)",
-        "link": "http://yna.kr/AKR20200902119551530?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 267명…위·중증 환자 124명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009020087&t=NN"
+        "title": "정은경 \"코로나 폭발적 급증은 억제…이번주가 안정·확산 기로\"",
+        "link": "http://yna.kr/AKR20200902119500530?did=1195m"
     },
     {
         "title": "[단독]코로나 확진 한화 선수들, 원룸 옥상서 고기굽고 술자리",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 누적 확진자 2만명 넘어…추석승차권 예매 연기",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
+    },
+    {
+        "title": "대구 신규 확진자 13명, 0세 아기도…동아메디병원 감염 확산 (종합)",
+        "link": "https://www.nocutnews.co.kr/news/5405479"
     }
 ];
