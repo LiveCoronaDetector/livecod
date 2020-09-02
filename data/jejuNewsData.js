@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4045950"
     },
     {
-        "title": "제주 게하발 코로나 확진자 또 발생...도내외 총 9명",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319674"
+        "title": "서울 은평구 확진자 판정 전 제주 방문 38번과 접촉",
+        "link": "http://www.ihalla.com/read.php3?aid=1599028657691285073"
     },
     {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
@@ -19,6 +19,10 @@ var jejuNewsData = [
     {
         "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
+    },
+    {
+        "title": "도외 지역 게스트하우스發 코로나19 확진자 1명 추가",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171018"
     },
     {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 온천감염 46번 확진자 자가격리 지침위반 병원·약국 방문",
         "link": "http://yna.kr/AKR20200901168800056?did=1195m"
-    },
-    {
-        "title": "“제주는 더 이상 코로나19 안전지대 아니다”",
-        "link": "https://hankookilbo.com/News/Read/A2020090209590000017?did=NA"
     }
 ];

@@ -17,6 +17,10 @@ var jejuTrafficData = [
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253924&no=1"
     },
     {
+        "title": "43번째 확진자",
+        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253923&no=1"
+    },
+    {
         "title": "42번째 확진자",
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253876&no=1"
     },
