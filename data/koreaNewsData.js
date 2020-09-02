@@ -9,24 +9,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/chungcheong/960360.html"
     },
     {
-        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
-    },
-    {
-        "title": "인천시 33개 부서 입주 미추홀타워서 확진자 발생…건물 폐쇄",
-        "link": "http://www.hani.co.kr/arti/area/capital/960382.html"
-    },
-    {
         "title": "순복음 대전우리교회발 확진자 14명으로 늘고 2차 감염자 1명 사망",
         "link": "http://www.segye.com/content/html/2020/09/02/20200902512692.html?OutUrl=naver"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 267명···지역 감염 253명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009020932001&code=940601"
+        "title": "\"확진자 발생해도 연장근무\" 쿠팡 노동자, 검찰 고발",
+        "link": "http://www.fnnews.com/news/202009021544447783"
     },
     {
-        "title": "[속보]코로나19로 2명 숨져 사망자 총 328명…확진자 나흘 연속 200명대",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090100142"
+        "title": "[단독]코로나 확진 한화 선수들, 원룸 옥상서 고기굽고 술자리",
+        "link": "https://news.joins.com/article/olink/23457361"
+    },
+    {
+        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     },
     {
         "title": "코로나19 확진자 267명…국내발생 253명",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
     },
     {
-        "title": "\"확진자 발생해도 연장근무\" 쿠팡 노동자, 검찰 고발",
-        "link": "http://www.fnnews.com/news/202009021544447783"
+        "title": "대구 신규 확진자 13명, 0세 아기도…동아메디병원 감염 확산 (종합)",
+        "link": "https://www.nocutnews.co.kr/news/5405479"
+    },
+    {
+        "title": "의사 '집단휴진'에 군의관 민간병원 투입, 코로나19 치료 지원",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02214006625896184"
     }
 ];

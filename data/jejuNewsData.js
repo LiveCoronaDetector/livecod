@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200902092700530?did=1195m"
     },
     {
+        "title": "제주도내 47번째 확진자 자택수리 위해 입도",
+        "link": "https://www.pressian.com/pages/articles/2020090218351861978?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "20대 남녀 코로나19 양성…울산 확진자 100명째",
         "link": "https://www.nocutnews.co.kr/news/5405210"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "은평구 175번 확진자도 제주 게하發…'루프탑정원'서 파티",
         "link": "https://www.news1.kr/articles/?4046082"
-    },
-    {
-        "title": "제주, '코로나19 재확산' 대비 원격수업 노트북 지원 확대",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426325"
     }
 ];

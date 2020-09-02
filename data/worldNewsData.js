@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html"
     },
     {
-        "title": "Fears rise coronavirus has hit remote tribe after cases confirmed on India's Andaman Islands",
-        "link": "https://www.nbcnews.com/news/world/fears-rise-coronavirus-has-hit-remote-tribe-after-cases-confirmed-n1239045"
+        "title": "India reports about 80,000 coronavirus cases in a day: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/turns-global-coronavirus-vaccine-effort-live-news-200902000127327.html"
     },
     {
         "title": "Australia in first recession for nearly 30 years",
         "link": "https://www.bbc.com/news/business-53994318"
     },
     {
-        "title": "Large antibody study offers hope for virus vaccine efforts",
-        "link": "https://www.foxnews.com/health/large-antibody-study-offers-hope-for-virus-vaccine-efforts"
+        "title": "U.S. Won’t Join Global Coronavirus Vaccine Effort Because It’s Led By The WHO",
+        "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
     },
     {
         "title": "C.D.C. Halts Evictions, Citing Covid-19 Risks",
         "link": "https://www.nytimes.com/2020/09/01/world/covid-19-coronavirus.html"
     },
     {
-        "title": "U.S. economy needs over $1 trillion in fresh coronavirus stimulus, says world's biggest hedge fund",
-        "link": "https://www.cnbc.com/2020/09/01/bridgewater-associates-co-cio-greg-jensen-on-coronavirus-stimulus-need.html"
+        "title": "Coronavirus: US passes six million Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-53976793"
     },
     {
-        "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
-        "link": "https://www.bbc.com/news/world-europe-53969564"
+        "title": "U.S. economy needs over $1 trillion in fresh coronavirus stimulus, says world's biggest hedge fund",
+        "link": "https://www.cnbc.com/2020/09/01/bridgewater-associates-co-cio-greg-jensen-on-coronavirus-stimulus-need.html"
     }
 ];
