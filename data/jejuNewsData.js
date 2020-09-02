@@ -13,6 +13,14 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
+        "title": "울산 확진자 7명 추가...'고스톱 확진자' 총 12명",
+        "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
+    },
+    {
+        "title": "고스톱 이웃·가족간 감염, 울산 확진자 108명 ↑",
+        "link": "https://www.nocutnews.co.kr/news/5405434"
+    },
+    {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
     },
@@ -21,12 +29,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200902092700530?did=1195m"
     },
     {
-        "title": "울산 확진자 7명 추가...'고스톱 확진자' 총 12명",
-        "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
-    },
-    {
-        "title": "20대 남녀 코로나19 양성…울산 확진자 100명째",
-        "link": "https://www.nocutnews.co.kr/news/5405210"
+        "title": "울산 99번,100번 코로나19 확진자 발생..20대 남녀",
+        "link": "http://www.fnnews.com/news/202009011937318651"
     },
     {
         "title": "제주 온천감염 46번 확진자 자가격리 지침위반 병원·약국 방문",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
         "link": "https://www.news1.kr/articles/?4044353"
-    },
-    {
-        "title": "서울 신규 확진자 2일 연속 100명 하회",
-        "link": "http://www.fnnews.com/news/202009011041398425"
     }
 ];
