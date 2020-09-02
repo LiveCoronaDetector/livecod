@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4045950"
     },
     {
-        "title": "도외 지역 게스트하우스發 코로나19 확진자 1명 추가",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171018"
-    },
-    {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주도 방문 외교부 확진자와 접촉한 22명 전원 음성",
         "link": "http://yna.kr/AKR20200902092700530?did=1195m"
+    },
+    {
+        "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
+        "link": "https://www.news1.kr/articles/?4044353"
     }
 ];

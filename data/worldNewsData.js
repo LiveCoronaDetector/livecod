@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://en.as.com/en/2020/08/31/latest_news/1598850531_988643.html"
     },
     {
-        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
-        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
+        "title": "30 cases of Covid-19 have been linked to a karaoke bar in Canada",
+        "link": "https://www.cnn.com/2020/09/02/americas/canada-karaoke-bar-covid-cluster/index.html"
     },
     {
-        "title": "Hamas and Israel Agree to Ease Hostilities Amid Coronavirus",
-        "link": "https://www.nytimes.com/2020/08/31/world/middleeast/hamas-gaza-israel-coronavirus.html"
+        "title": "Coronavirus: Quarantine restrictions for travellers from Greece",
+        "link": "https://www.bbc.com/news/uk-scotland-53992742"
     },
     {
         "title": "A Coronavirus Second Wave Grips Spain",
         "link": "https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html"
     },
     {
-        "title": "India presses ahead with reopening as daily coronavirus caseload surges to record-breaking high",
-        "link": "https://www.cnn.com/2020/08/31/asia/india-reopening-coronavirus-surge-intl-hnk/index.html"
+        "title": "Coronavirus: India surpasses US for highest single-day rise in Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-asia-india-53969118"
     },
     {
         "title": "Australia in first recession for nearly 30 years",
