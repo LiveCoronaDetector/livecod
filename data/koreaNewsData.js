@@ -21,16 +21,12 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
     },
     {
-        "title": "서울아산병원 50대 암환자 코로나19 확진…\"이동제한 조치\"(종합)",
-        "link": "http://yna.kr/AKR20200902178251017?did=1195m"
-    },
-    {
-        "title": "\"확진자 발생해도 연장근무\" 쿠팡 노동자, 검찰 고발",
-        "link": "http://www.fnnews.com/news/202009021544447783"
-    },
-    {
         "title": "홍천군 9번째 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220090100158"
+    },
+    {
+        "title": "서울아산병원 50대 암환자 코로나19 확진…\"이동제한 조치\"(종합)",
+        "link": "http://yna.kr/AKR20200902178251017?did=1195m"
     },
     {
         "title": "이재현 인천 서구청장 코로나 확진…인천지역 단체장 첫 양성",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "국내 코로나 사망자 2명 늘어 총 328명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/02/2020090203109.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 충남 청양 김치공장 17명 코로나19 집단감염",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009030437&t=NN"
     }
 ];

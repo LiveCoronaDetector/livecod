@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-china-covid-cluster-bus-airborne-transmission-evidence/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
-    },
-    {
-        "title": "Covid-19 Live Updates and Tracker",
-        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+        "title": "First covid-19 death linked to Sturgis Motorcycle Rally reported in Minnesota",
+        "link": "https://www.washingtonpost.com/health/2020/09/02/sturgis-rally-death-coronavirus/"
     },
     {
         "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "U.S. Won't Join WHO-Led Coronavirus Vaccine Effort, White House Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/02/908711419/u-s-wont-join-who-led-coronavirus-vaccine-effort-white-house-says"
+    },
+    {
+        "title": "Steroids can save lives of patients with severe covid-19, earning WHO endorsement",
+        "link": "https://www.washingtonpost.com/health/2020/09/02/steroids-covid-19-coronavirus/"
     }
 ];
