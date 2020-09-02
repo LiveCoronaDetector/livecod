@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901168800056?did=1195m"
     },
     {
-        "title": "게스트하우스발 코로나19 확진자 도외 지역서 2명 추가",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171032"
+        "title": "제주도·시청 출입한 제주 40번 확진자 “6일간 20곳 방문”",
+        "link": "https://view.asiae.co.kr/article/2020090220194690037"
     }
 ];

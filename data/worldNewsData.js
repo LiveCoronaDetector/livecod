@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-53994318"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
+    },
+    {
         "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
         "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Iowa has the highest rate of Covid-19 cases in the US. Here's a look at the state's latest figures.",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
-    },
-    {
-        "title": "C.D.C. Halts Evictions, Citing Covid-19 Risks",
-        "link": "https://www.nytimes.com/2020/09/01/world/covid-19-coronavirus.html"
     }
 ];
