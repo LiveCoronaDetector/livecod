@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/fears-rise-coronavirus-has-hit-remote-tribe-after-cases-confirmed-n1239045"
     },
     {
-        "title": "Australia in first recession for nearly 30 years",
-        "link": "https://www.bbc.com/news/business-53994318"
+        "title": "COVID cluster from Chinese bus trip offers more evidence of airborne transmission",
+        "link": "https://www.cbsnews.com/news/coronavirus-china-covid-cluster-bus-airborne-transmission-evidence/"
     },
     {
-        "title": "First covid-19 death linked to Sturgis Motorcycle Rally reported in Minnesota",
-        "link": "https://www.washingtonpost.com/health/2020/09/02/sturgis-rally-death-coronavirus/"
+        "title": "The first known Covid-19 death linked to the Sturgis Motorcycle Rally is in Minnesota",
+        "link": "https://www.cnn.com/2020/09/02/health/sturgis-motorcycle-rally-covid-death/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
     },
     {
-        "title": "Children locked up by parents over Covid should not go home, rules Swedish court",
-        "link": "https://www.theguardian.com/world/2020/sep/02/children-locked-up-by-parents-over-covid-should-not-go-home-rules-swedish-court"
+        "title": "U.S. Won't Join WHO-Led Coronavirus Vaccine Effort, White House Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/02/908711419/u-s-wont-join-who-led-coronavirus-vaccine-effort-white-house-says"
     }
 ];
