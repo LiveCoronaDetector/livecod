@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     },
     {
+        "title": "[속보]코로나19 신규 확진자 267명···지역 감염 253명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009020932001&code=940601"
+    },
+    {
         "title": "코로나19 확진자 267명…국내발생 253명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000217932"
     },
@@ -23,10 +27,6 @@ var koreaNewsData = [
     {
         "title": "대전서 80대 코로나19 확진자 숨져…지역 누적 3명",
         "link": "http://yna.kr/AKR20200902026300063?did=1195m"
-    },
-    {
-        "title": "[속보]코로나19 신규 확진자 267명···지역 감염 253명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009020932001&code=940601"
     },
     {
         "title": "\"확진자 발생해도 연장근무\" 쿠팡 노동자, 검찰 고발",

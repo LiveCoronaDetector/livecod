@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
     },
     {
+        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
+    },
+    {
         "title": "U.S. Won’t Join Global Coronavirus Vaccine Effort Because It’s Led By The WHO",
         "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
     },
     {
-        "title": "Steroids cut death rates among critically ill COVID-19 patients, major study finds",
-        "link": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL2hlYWx0aC9oZWFsdGgtbmV3cy9zdGVyb2lkcy1jdXQtZGVhdGgtcmF0ZXMtYW1vbmctY3JpdGljYWxseS1pbGwtY292aWQtMTktcGF0aWVudHMtbjEyMzkwODDSASxodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9uY25hMTIzOTA4MA?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
-        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
+        "title": "Covid-19 Deaths Significantly Reduced by Use of Steroids, Analysis Says",
+        "link": "https://www.wsj.com/articles/covid-19-deaths-significantly-reduced-by-use-of-steroids-analysis-says-11599055201"
     }
 ];
