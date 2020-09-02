@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
     },
     {
+        "title": "인천시 33개 부서 입주 미추홀타워서 확진자 발생…건물 폐쇄",
+        "link": "http://www.hani.co.kr/arti/area/capital/960382.html"
+    },
+    {
         "title": "대전서 80대 코로나19 확진자 숨져…지역 누적 3명",
         "link": "http://yna.kr/AKR20200902026300063?did=1195m"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23457361"
     },
     {
-        "title": "[속보]코로나19로 2명 숨져 사망자 총 328명…확진자 나흘 연속 200명대",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090100142"
-    },
-    {
-        "title": "대구 신규 확진자 13명, 0세 아기도…동아메디병원 감염 확산 (종합)",
-        "link": "https://www.nocutnews.co.kr/news/5405479"
+        "title": "국내 코로나 사망자 2명 늘어 총 328명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/02/2020090203109.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

@@ -34,7 +34,7 @@ var worldNewsData = [
     },
     {
         "title": "Steroids cut death rates among critically ill COVID-19 patients, major study finds",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-steroids/steroids-cut-death-rates-among-critically-ill-covid-19-patients-major-study-finds-idUSKBN25T20D"
+        "link": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL2hlYWx0aC9oZWFsdGgtbmV3cy9zdGVyb2lkcy1jdXQtZGVhdGgtcmF0ZXMtYW1vbmctY3JpdGljYWxseS1pbGwtY292aWQtMTktcGF0aWVudHMtbjEyMzkwODDSASxodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9uY25hMTIzOTA4MA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
