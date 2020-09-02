@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-53994318"
     },
     {
-        "title": "Coronavirus News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/02/world/covid-19-coronavirus.html"
+        "title": "First covid-19 death linked to Sturgis Motorcycle Rally reported in Minnesota",
+        "link": "https://www.washingtonpost.com/health/2020/09/02/sturgis-rally-death-coronavirus/"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
     },
     {
         "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
         "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
     },
     {
-        "title": "Steroids Can Be Lifesaving for Covid-19 Patients, Scientists Report",
-        "link": "https://www.nytimes.com/2020/09/02/health/coronavirus-steroids-who.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
+        "title": "Children locked up by parents over Covid should not go home, rules Swedish court",
+        "link": "https://www.theguardian.com/world/2020/sep/02/children-locked-up-by-parents-over-covid-should-not-go-home-rules-swedish-court"
     }
 ];
