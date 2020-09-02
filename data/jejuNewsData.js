@@ -9,35 +9,35 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
+        "title": "제주도내 47번째 확진자 자택수리 위해 입도",
+        "link": "https://www.pressian.com/pages/articles/2020090218351861978?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
+    },
+    {
+        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
     },
     {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
     },
     {
+        "title": "은평구 175번 확진자도 제주 게하發…'루프탑정원'서 파티",
+        "link": "https://www.news1.kr/articles/?4046082"
+    },
+    {
+        "title": "제주, '코로나19 재확산' 대비 원격수업 노트북 지원 확대",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426325"
+    },
+    {
         "title": "울산 고스톱판 코로나19 확진 속출..또 다시 5명 추가",
         "link": "http://www.fnnews.com/news/202009021007476621"
     },
     {
-        "title": "제주도내 47번째 확진자 자택수리 위해 입도",
-        "link": "https://www.pressian.com/pages/articles/2020090218351861978?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주도 방문 외교부 확진자와 접촉한 22명 전원 음성",
-        "link": "http://yna.kr/AKR20200902092700530?did=1195m"
-    },
-    {
-        "title": "20대 남녀 코로나19 양성…울산 확진자 100명째",
-        "link": "https://www.nocutnews.co.kr/news/5405210"
-    },
-    {
-        "title": "제주 온천감염 46번 확진자 자가격리 지침위반 병원·약국 방문",
-        "link": "http://yna.kr/AKR20200901168800056?did=1195m"
-    },
-    {
-        "title": "제주도·시청 출입한 제주 40번 확진자 “6일간 20곳 방문”",
-        "link": "https://view.asiae.co.kr/article/2020090220194690037"
+        "title": "“제주는 더 이상 코로나19 안전지대 아니다”",
+        "link": "https://hankookilbo.com/News/Read/A2020090209590000017?did=NA"
     }
 ];

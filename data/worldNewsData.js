@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-53994318"
     },
     {
-        "title": "Night curfew to be imposed in Havana for first time as coronavirus cases surge again",
-        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_38822374d9e1dd0ba5445d680e493577"
-    },
-    {
         "title": "Coronavirus News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/02/world/covid-19-coronavirus.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Steroids Can Be Lifesaving for Covid-19 Patients, Scientists Report",
         "link": "https://www.nytimes.com/2020/09/02/health/coronavirus-steroids-who.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     }
 ];
