@@ -13,8 +13,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "제주 40번 확진자 추가동선 나와…헤어숍 등 방문",
-        "link": "https://www.news1.kr/articles/?4045950"
+        "title": "제주 게하발 코로나 확진자 서울서 또 발생...도내외 총 9명",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319674"
     },
     {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
