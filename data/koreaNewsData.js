@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200902026300063?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 267명…위·중증 환자 124명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009020087&t=NN"
-    },
-    {
         "title": "코로나19 확진자 267명…국내발생 253명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000217932"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "이재현 인천 서구청장 코로나 확진…인천지역 단체장 첫 양성",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04411606625896184"
+    },
+    {
+        "title": "국내 코로나 사망자 2명 늘어 총 328명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/02/2020090203109.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

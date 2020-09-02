@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-china-covid-cluster-bus-airborne-transmission-evidence/"
     },
     {
-        "title": "The first known Covid-19 death linked to the Sturgis Motorcycle Rally is in Minnesota",
-        "link": "https://www.cnn.com/2020/09/02/health/sturgis-motorcycle-rally-covid-death/index.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
+    },
+    {
+        "title": "Covid-19 Live Updates and Tracker",
+        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
         "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
