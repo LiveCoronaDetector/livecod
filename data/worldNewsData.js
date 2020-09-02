@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/01/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Covid-19 world map: which countries have the most coronavirus cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/aug/31/covid-19-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
+        "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     },
     {
         "title": "Coronavirus live updates: US to shun world effort to develop vaccine; Here's who should get first vaccinations; Fauci debunks COVID theories",
