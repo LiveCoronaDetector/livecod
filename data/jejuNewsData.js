@@ -13,6 +13,14 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
+        "title": "서울 확진자 이틀만에 다시 100명대…신규 집단감염 줄이어",
+        "link": "https://www.news1.kr/articles/?4045611"
+    },
+    {
+        "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
+        "link": "http://www.fnnews.com/news/202009021144417201"
+    },
+    {
         "title": "울산 확진자 7명 추가...'고스톱 확진자' 총 12명",
         "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
     },
@@ -21,12 +29,8 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5405210"
     },
     {
-        "title": "제주 코로나19 46번 확진자는 안덕면 식당 운영자",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=328857"
-    },
-    {
-        "title": "서울 일일 확진자 다시 100명대로",
-        "link": "http://www.fnnews.com/news/202009021044352211"
+        "title": "제주 온천감염 46번 확진자 자가격리 지침위반 병원·약국 방문",
+        "link": "http://yna.kr/AKR20200901168800056?did=1195m"
     },
     {
         "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "서울 신규 확진자 2일 연속 100명 하회",
         "link": "http://www.fnnews.com/news/202009011041398425"
-    },
-    {
-        "title": "제주서 방글라데시인 유학생 코로나19 확진…도내 45번째",
-        "link": "http://yna.kr/AKR20200830071900056?did=1195m"
     }
 ];
