@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=328857"
     },
     {
+        "title": "서울 일일 확진자 다시 100명대로",
+        "link": "http://www.fnnews.com/news/202009021044352211"
+    },
+    {
         "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
         "link": "https://www.news1.kr/articles/?4044353"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주서 방글라데시인 유학생 코로나19 확진…도내 45번째",
         "link": "http://yna.kr/AKR20200830071900056?did=1195m"
-    },
-    {
-        "title": "서울 일일 확진자 다시 100명대로",
-        "link": "http://www.fnnews.com/news/202009021044352211"
     }
 ];
