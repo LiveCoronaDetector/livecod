@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/08/31/asia/india-reopening-coronavirus-surge-intl-hnk/index.html"
     },
     {
-        "title": "Chinese woman who lost father to coronavirus sues government for apology, compensation",
-        "link": "https://www.foxnews.com/world/china-wuhan-father-coronavirus-lawsuit"
+        "title": "Australia in first recession for nearly 30 years",
+        "link": "https://www.bbc.com/news/business-53994318"
     },
     {
         "title": "U.S. Won’t Join Global Coronavirus Vaccine Effort Because It’s Led By The WHO",
