@@ -9,28 +9,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "울산 확진자 7명 추가...'고스톱 확진자' 총 12명",
-        "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
-    },
-    {
-        "title": "서울 확진자 이틀만에 다시 100명대…신규 집단감염 줄이어",
-        "link": "https://www.news1.kr/articles/?4045611"
-    },
-    {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     },
     {
-        "title": "\"고스톱 때문에\" 울산서 어르신들 무더기 코로나19 감염",
-        "link": "https://www.pressian.com/pages/articles/2020090209304432293?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주, '코로나19 재확산' 대비 원격수업 노트북 지원 확대",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426325"
-    },
-    {
-        "title": "울산 고스톱판 코로나19 확진 속출..또 다시 5명 추가",
-        "link": "http://www.fnnews.com/news/202009021007476621"
+        "title": "울산 확진자 7명 추가...'고스톱 확진자' 총 12명",
+        "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
     },
     {
         "title": "20대 남녀 코로나19 양성…울산 확진자 100명째",
@@ -39,5 +23,21 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 46번 확진자는 안덕면 식당 운영자",
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=328857"
+    },
+    {
+        "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
+        "link": "https://www.news1.kr/articles/?4044353"
+    },
+    {
+        "title": "서울 신규 확진자 2일 연속 100명 하회",
+        "link": "http://www.fnnews.com/news/202009011041398425"
+    },
+    {
+        "title": "제주서 방글라데시인 유학생 코로나19 확진…도내 45번째",
+        "link": "http://yna.kr/AKR20200830071900056?did=1195m"
+    },
+    {
+        "title": "코로나 확진자 찾은 제주도·시청 일부 폐쇄",
+        "link": "https://news.chosun.com/site/data/html_dir/2020/08/30/2020083000943.html?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
     },
     {
-        "title": "[속보]국방부 “군의관 의료현장에 투입…코로나19 대응에 최선”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200902000172"
-    },
-    {
         "title": "코로나19 확진자 200명대 유지했지만…중환자 급증 이어져(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02141846625896184"
     },
     {
         "title": "[속보] 코로나19 신규 확진 267명…위·중증 환자 124명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009020087&t=NN"
+    },
+    {
+        "title": "하나은행 본점서 코로나19 확진자 발생···내일까지 건물 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z7OQUNBBN"
     }
 ];
