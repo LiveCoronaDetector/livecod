@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/02/americas/canada-karaoke-bar-covid-cluster/index.html"
     },
     {
-        "title": "Coronavirus: Quarantine restrictions for travellers from Greece",
-        "link": "https://www.bbc.com/news/uk-scotland-53992742"
+        "title": "Hungary shuts borders; Greece delays school reopening – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/01/coronavirus-live-news-who-says-states-cant-pretend-pandemic-is-over-french-cases-rise-50-in-august"
     },
     {
         "title": "A Coronavirus Second Wave Grips Spain",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/fears-rise-coronavirus-has-hit-remote-tribe-after-cases-confirmed-n1239045"
     },
     {
-        "title": "Australia in first recession for nearly 30 years",
-        "link": "https://www.bbc.com/news/business-53994318"
+        "title": "Coronavirus News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/02/world/covid-19-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
     },
     {
-        "title": "Covid-19 Deaths Significantly Reduced by Use of Steroids, Analysis Says",
-        "link": "https://www.wsj.com/articles/covid-19-deaths-significantly-reduced-by-use-of-steroids-analysis-says-11599055201"
+        "title": "Steroids cut deaths of hospitalized Covid-19 patients by one-third",
+        "link": "https://www.statnews.com/2020/09/02/covid19-steroids-reduce-deaths-of-hospitalized-patients-who-analysis-confirms/"
     }
 ];
