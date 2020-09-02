@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200902_0001151316&cID=10814&pID=10800"
     },
     {
-        "title": "고스톱 이웃·가족간 감염, 울산 확진자 108명 ↑",
-        "link": "https://www.nocutnews.co.kr/news/5405434"
-    },
-    {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
     },
@@ -29,15 +25,19 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200902092700530?did=1195m"
     },
     {
-        "title": "울산 99번,100번 코로나19 확진자 발생..20대 남녀",
-        "link": "http://www.fnnews.com/news/202009011937318651"
+        "title": "20대 남녀 코로나19 양성…울산 확진자 100명째",
+        "link": "https://www.nocutnews.co.kr/news/5405210"
     },
     {
         "title": "제주 온천감염 46번 확진자 자가격리 지침위반 병원·약국 방문",
         "link": "http://yna.kr/AKR20200901168800056?did=1195m"
     },
     {
-        "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
-        "link": "https://www.news1.kr/articles/?4044353"
+        "title": "은평구 175번 확진자도 제주 게하發…'루프탑정원'서 파티",
+        "link": "https://www.news1.kr/articles/?4046082"
+    },
+    {
+        "title": "제주, '코로나19 재확산' 대비 원격수업 노트북 지원 확대",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426325"
     }
 ];

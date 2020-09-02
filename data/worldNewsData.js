@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-scotland-53992742"
     },
     {
-        "title": "Coronavirus live news: Nancy Pelosi seen at hair salon without face mask; Germany rules out winter lockdown",
-        "link": "https://www.theguardian.com/world/live/2020/sep/02/coronavirus-live-news-us-wont-cooperate-with-who-vaccine-china-uk-trump-brazil-cases-near-4m"
+        "title": "A Coronavirus Second Wave Grips Spain",
+        "link": "https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html"
     },
     {
         "title": "Fears rise coronavirus has hit remote tribe after cases confirmed on India's Andaman Islands",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-53994318"
     },
     {
-        "title": "U.S. Won’t Join Global Coronavirus Vaccine Effort Because It’s Led By The WHO",
-        "link": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_826afeddf0678ad0e5076ac04562037c"
+        "title": "Large antibody study offers hope for virus vaccine efforts",
+        "link": "https://www.foxnews.com/health/large-antibody-study-offers-hope-for-virus-vaccine-efforts"
     },
     {
         "title": "C.D.C. Halts Evictions, Citing Covid-19 Risks",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "U.S. economy needs over $1 trillion in fresh coronavirus stimulus, says world's biggest hedge fund",
         "link": "https://www.cnbc.com/2020/09/01/bridgewater-associates-co-cio-greg-jensen-on-coronavirus-stimulus-need.html"
+    },
+    {
+        "title": "Coronavirus: Norway bunker partygoers poisoned by carbon monoxide",
+        "link": "https://www.bbc.com/news/world-europe-53969564"
     }
 ];
