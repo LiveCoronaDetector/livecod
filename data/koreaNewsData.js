@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009020932001&code=940601"
     },
     {
-        "title": "대전서 80대 코로나19 확진자 숨져…지역 누적 3명",
-        "link": "http://yna.kr/AKR20200902026300063?did=1195m"
+        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     },
     {
-        "title": "코로나19 확진자 267명…국내발생 253명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000217932"
+        "title": "대전서 80대 코로나19 확진자 숨져…지역 누적 3명",
+        "link": "http://yna.kr/AKR20200902026300063?did=1195m"
     },
     {
         "title": "현대아울렛 가산점, 코로나19 확진자 나와 휴점",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530672&ref=A"
     },
     {
-        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
+        "title": "코로나19 확진자 267명…국내발생 253명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000217932"
+    },
+    {
+        "title": "서울 확진자 다시 세자릿수대…강남구 아파트서 신규 집단감염(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02624006625896184"
     },
     {
         "title": "코로나19 누적 확진자 2만명 넘어…추석승차권 예매 연기",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
     },
     {
+        "title": "대구 신규 확진자 13명, 0세 아기도…동아메디병원 감염 확산 (종합)",
+        "link": "https://www.nocutnews.co.kr/news/5405479"
+    },
+    {
         "title": "코로나19 확진자 200명대 유지했지만…중환자 급증 이어져(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02141846625896184"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 267명…위·중증 환자 124명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009020087&t=NN"
-    },
-    {
-        "title": "하나은행 본점서 코로나19 확진자 발생···내일까지 건물 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z7OQUNBBN"
     }
 ];
