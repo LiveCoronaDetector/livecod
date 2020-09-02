@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "제주 게하발 코로나 확진자 서울서 또 발생...도내외 총 9명",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319674"
-    },
-    {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "'산방산탄선온천'발 제주 44번 확진자 대형마트 방문",
         "link": "https://www.news1.kr/articles/?4044353"
+    },
+    {
+        "title": "서울 신규 확진자 2일 연속 100명 하회",
+        "link": "http://www.fnnews.com/news/202009011041398425"
     }
 ];
