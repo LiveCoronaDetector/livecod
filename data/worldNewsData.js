@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
+        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
     },
     {
         "title": "Wear a mask while having sex and avoid kissing new people, Canada's top doctor advises",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
-    },
-    {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/03/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
+        "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
         "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",

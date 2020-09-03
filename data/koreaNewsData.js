@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
     },
     {
+        "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",
+        "link": "http://www.etnews.com/20200903000241"
+    },
+    {
         "title": "50대 확진자, 서울 노원 생활치료센터 탈출 시도하다 붙잡혀",
         "link": "http://yna.kr/AKR20200903185000004?did=1195m"
     },
@@ -17,10 +21,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5898120_32524.html"
     },
     {
-        "title": "코로나 확진자에 국회 부분 셧다운…\"검사결과 따라 운영방안 결정\"(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04313206625896512"
-    },
-    {
         "title": "코로나19 신규확진자 195명…위·중증 환자 급증 우려",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4531530&ref=A"
     },
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020090315583256212"
     },
     {
+        "title": "코로나 확진자에 국회 부분 셧다운…\"검사결과 따라 운영방안 결정\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04313206625896512"
+    },
+    {
         "title": "[레이더P] 이종배 코로나확진 여부 기다리는 문대통령과 이낙연",
         "link": "http://news.mk.co.kr/newsRead.php?no=912335&year=2020"
     },
     {
-        "title": "국회 또 코로나19 감염 '날벼락'…여야 정치일정 중단(종합)",
-        "link": "http://yna.kr/AKR20200903121451001?did=1195m"
-    },
-    {
-        "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",
-        "link": "http://www.etnews.com/20200903000241"
+        "title": "광주서 코로나19 확진자 4명 발생...누적 398명",
+        "link": "http://www.fnnews.com/news/202009031847447545"
     }
 ];
