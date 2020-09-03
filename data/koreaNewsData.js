@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020090321322167842"
     },
     {
-        "title": "국회, 확진자 발생에 4일 만에 또 폐쇄…여야 일정 전면 취소(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20200903_0001154015&cID=10301&pID=10300"
-    },
-    {
         "title": "코로나 확진자에 국회 부분 셧다운…\"검사결과 따라 운영방안 결정\"(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04313206625896512"
     },
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://news.mk.co.kr/newsRead.php?no=912335&year=2020"
     },
     {
-        "title": "국회 또 코로나19 감염 '날벼락'…여야 정치일정 중단(종합)",
-        "link": "http://yna.kr/AKR20200903121451001?did=1195m"
+        "title": "광주서 코로나19 확진자 4명 발생...누적 398명",
+        "link": "http://www.fnnews.com/news/202009031847447545"
+    },
+    {
+        "title": "대구 건강식품 판매모임 코로나19 확진자 15명으로 증가",
+        "link": "https://www.hankyung.com/life/article/2020090320077"
     }
 ];

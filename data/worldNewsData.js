@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/02/greece-defends-covid-safety-as-johnson-urged-to-review-quarantine-rules"
     },
     {
-        "title": "Coronavirus live news: Spain's health minister rules out new lockdown; France plans €100bn Covid stimulus",
+        "title": "Coronavirus live news: France registers more than 7,000 cases for second day; minister rules out Spain lockdown",
         "link": "https://www.theguardian.com/world/live/2020/sep/03/coronavirus-live-news-trump-pushes-to-withdraw-who-funding-immediately"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
     },
     {
-        "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
-    },
-    {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/03/world/covid-19-coronavirus.html"
     },
     {
-        "title": "The Rock & Family Test Positive For COVID-19",
-        "link": "https://www.youtube.com/watch?v=rL7JNEgkbFE"
+        "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
+        "link": "https://www.bbc.com/news/world-africa-53998374"
+    },
+    {
+        "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
+        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     }
 ];

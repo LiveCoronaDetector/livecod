@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
     },
     {
+        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
+    },
+    {
         "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
     },
     {
-        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
-    },
-    {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
     },
     {
-        "title": "은평구 175번 확진자도 제주 게하發…'루프탑정원'서 파티",
-        "link": "https://www.news1.kr/articles/?4046082"
+        "title": "제주, '코로나19 재확산' 대비 원격수업 노트북 지원 확대",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426325"
     }
 ];
