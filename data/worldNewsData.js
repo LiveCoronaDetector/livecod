@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html"
     },
     {
-        "title": "'They're so vulnerable': Coronavirus hits tribes of isolated Andaman Islands",
-        "link": "https://www.nbcnews.com/news/world/fears-rise-coronavirus-has-hit-remote-tribe-after-cases-confirmed-n1239045"
+        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
+        "link": "https://www.nature.com/articles/d41586-020-02507-x"
     },
     {
         "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates and Tracker",
+        "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/02/world-health-organization-trump-administration-us-who-dues"
     },
     {
-        "title": "States Should Prepare for Possible Vaccine by Early November: Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+        "title": "Scientists Report Steroids Can Be Lifesaving for Covid-19 Patients",
+        "link": "https://www.nytimes.com/2020/09/02/health/coronavirus-steroids.html"
     }
 ];

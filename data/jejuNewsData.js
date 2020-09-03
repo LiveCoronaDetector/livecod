@@ -29,8 +29,8 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200903_0001153711&cID=10813&pID=10800"
     },
     {
-        "title": "코로나19 울산시 99번 확진자 제주 동선 공개",
-        "link": "https://www.nocutnews.co.kr/news/5406144"
+        "title": "제주 코로나19 치료병상 '30→319개' 확대",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319730"
     },
     {
         "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
