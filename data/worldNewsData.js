@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "Israel failed: After record 3,000 new cases, czar threatens holiday lockdown",
-        "link": "https://www.haaretz.com/israel-news/.premium-coronavirus-czar-threatens-new-restrictions-on-red-cities-holiday-lockdown-1.9124621"
+        "title": "Greece defends Covid safety as Johnson urged to review quarantine rules",
+        "link": "https://www.theguardian.com/world/2020/sep/02/greece-defends-covid-safety-as-johnson-urged-to-review-quarantine-rules"
     },
     {
         "title": "Coronavirus live news: Spain's health minister rules out new lockdown; France plans €100bn Covid stimulus",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "The Rock & Family Test Positive For COVID-19",
         "link": "https://www.youtube.com/watch?v=rL7JNEgkbFE"
-    },
-    {
-        "title": "September 2 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     }
 ];
