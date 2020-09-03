@@ -9,24 +9,24 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "Coronavirus: England under pressure to impose Greece quarantine",
-        "link": "https://www.bbc.com/news/uk-53993399"
+        "title": "Greece defends Covid safety as Johnson urged to review quarantine rules",
+        "link": "https://www.theguardian.com/world/2020/sep/02/greece-defends-covid-safety-as-johnson-urged-to-review-quarantine-rules"
     },
     {
         "title": "Former Italian Premier Berlusconi Tests Positive For Coronavirus",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/02/908846696/former-italian-premier-berlusconi-tests-positive-for-coronavirus"
     },
     {
-        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
-        "link": "https://www.nature.com/articles/d41586-020-02507-x"
+        "title": "Thailand marks 100 days without local coronavirus cases. Will it open borders to international tourists soon?",
+        "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
         "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Schools reopen in many countries amid concerns of second wave of COVID-19 | World News",
-        "link": "https://www.youtube.com/watch?v=1TLOa0xG3W4"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
     },
     {
         "title": "The Rock & Family Test Positive For COVID-19",

@@ -5,32 +5,32 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
     },
     {
-        "title": "[속보] 서울아산병원 병동서 5명 추가…확진자 총 6명",
-        "link": "https://www.hankyung.com/life/article/2020090390407"
+        "title": "[단독]KT, 광화문 본사서도 확진자 발생…\"재택근무 13일까지 연장\"",
+        "link": "https://www.news1.kr/articles/?4047749"
     },
     {
         "title": "국민의힘 당직자 코로나19 확진, 정치 일정 또 멈춤",
         "link": "http://www.hani.co.kr/arti/politics/assembly/960598.html"
     },
     {
+        "title": "[오피셜] 한화, 코로나19 확진 관련 사과… 대표이사 사의 표명",
+        "link": "http://www.spotvnews.co.kr/?mod=news&act=articleView&idxno=377713"
+    },
+    {
         "title": "국회 또 코로나19 감염 '날벼락'…여야 정치일정 중단(종합)",
         "link": "http://yna.kr/AKR20200903121451001?did=1195m"
     },
     {
-        "title": "[단독]KT, 광화문 본사서도 확진자 발생…\"재택근무 13일까지 연장\"",
-        "link": "https://www.news1.kr/articles/?4047749"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 195명…17일 만에 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
+        "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",
+        "link": "http://www.etnews.com/20200903000241"
     },
     {
         "title": "[속보] 코로나19 어제 195명 신규 확진…200명 아래로",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005962976&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[오피셜] 박정규 한화 대표이사 사의 표명... 코로나 확진자 대처 논란에 사과",
-        "link": "http://star.mt.co.kr/stview.php?no=2020090316022602579"
+        "title": "[속보] 코로나19 신규 확진자 195명…17일 만에 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
     },
     {
         "title": "코로나19 신규확진자 195명…위·중증 환자 급증 우려",
