@@ -30,7 +30,7 @@ var worldNewsData = [
     },
     {
         "title": "September 2 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     },
     {
         "title": "States Should Prepare for Possible Vaccine by Early November: Covid-19 Live Updates",

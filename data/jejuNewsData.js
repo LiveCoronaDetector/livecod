@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
     },
     {
+        "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
+    },
+    {
+        "title": "코로나19 울산시 99번 확진자 제주 동선 공개",
+        "link": "https://www.nocutnews.co.kr/news/5406144"
+    },
+    {
+        "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
+        "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
     },
     {
         "title": "은평구 175번 확진자도 제주 게하發…'루프탑정원'서 파티",
         "link": "https://www.news1.kr/articles/?4046082"
-    },
-    {
-        "title": "제주, '코로나19 재확산' 대비 원격수업 노트북 지원 확대",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426325"
-    },
-    {
-        "title": "울산 고스톱판 코로나19 확진 속출..또 다시 5명 추가",
-        "link": "http://www.fnnews.com/news/202009021007476621"
-    },
-    {
-        "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
     }
 ];
