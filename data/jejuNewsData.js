@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
-        "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
-        "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "확진자 늘어난 제주 코로나19 치료병상 확대",
         "link": "https://www.nocutnews.co.kr/news/5406494"
+    },
+    {
+        "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
+        "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
     },
     {
         "title": "도내 47번 확진자 접촉자 9명",
