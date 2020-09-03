@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6294276,
-        "사망자수": 190049,
+        "확진자수": 6297847,
+        "사망자수": 190196,
         "완치자수": 3547979
     },
     {
@@ -780,9 +780,9 @@ var marker = [
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "확진자수": 7844,
-        "사망자수": 82,
-        "완치자수": 3454
+        "확진자수": 8082,
+        "사망자수": 86,
+        "완치자수": 3483
     },
     {
         "Name": "Mauritania",
@@ -1132,9 +1132,9 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 1920,
+        "확진자수": 1941,
         "사망자수": 28,
-        "완치자수": 691
+        "완치자수": 700
     },
     {
         "Name": "Réunion",
