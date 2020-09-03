@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
+        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
+        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
         "title": "Covid-19 News: Live Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
-        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+        "title": "Dwayne 'The Rock' Johnson reveals family tested positive for COVID-19",
+        "link": "https://www.youtube.com/watch?v=97zsLVrinEA"
     }
 ];
