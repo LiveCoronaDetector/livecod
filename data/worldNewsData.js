@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/fears-rise-coronavirus-has-hit-remote-tribe-after-cases-confirmed-n1239045"
     },
     {
-        "title": "COVID cluster from Chinese bus trip offers more evidence of airborne transmission",
-        "link": "https://www.cbsnews.com/news/coronavirus-china-covid-cluster-bus-airborne-transmission-evidence/"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
+        "title": "Australia in first recession for nearly 30 years",
+        "link": "https://www.bbc.com/news/business-53994318"
     },
     {
         "title": "Covid-19 Live Updates and Tracker",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
-        "title": "(22) Iowa has the highest rate of Covid-19 cases in the US. Here's a look at the state's latest figures.",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
+        "title": "Coronavirus updates: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
     },
     {
         "title": "States Should Prepare for Possible Vaccine by Early November: Covid-19 Live Updates",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+    },
+    {
+        "title": "(22) Iowa has the highest rate of Covid-19 cases in the US. Here's a look at the state's latest figures.",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     }
 ];

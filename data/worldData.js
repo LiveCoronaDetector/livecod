@@ -585,20 +585,20 @@ var marker = [
         "완치자수": 17651
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 19138,
+        "사망자수": 358,
+        "완치자수": 9981
+    },
+    {
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
         "확진자수": 18375,
         "사망자수": 177,
         "완치자수": 5195
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 18338,
-        "사망자수": 348,
-        "완치자수": 9721
     },
     {
         "Name": "Ivory Coast",
@@ -1449,20 +1449,20 @@ var marker = [
         "완치자수": 266
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "확진자수": 239,
+        "사망자수": 6,
+        "완치자수": 79
+    },
+    {
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
         "확진자수": 227,
         "사망자수": 0,
         "완치자수": 142
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "확진자수": 213,
-        "사망자수": 5,
-        "완치자수": 79
     },
     {
         "Name": "Cayman Islands",
