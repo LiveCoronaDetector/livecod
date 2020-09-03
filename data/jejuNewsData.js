@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
     },
     {
+        "title": "코로나19 환자 늘자 제주 치료병상 ‘30→319개’로 확대",
+        "link": "http://www.newsis.com/view/?id=NISX20200903_0001153711&cID=10813&pID=10800"
+    },
+    {
         "title": "코로나19 울산시 99번 확진자 제주 동선 공개",
         "link": "https://www.nocutnews.co.kr/news/5406144"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
-    },
-    {
-        "title": "은평구 175번 확진자도 제주 게하發…'루프탑정원'서 파티",
-        "link": "https://www.news1.kr/articles/?4046082"
     }
 ];
