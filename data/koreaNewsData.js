@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005962976&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[속보] 서울아산병원 병동서 5명 추가…확진자 총 6명",
-        "link": "https://www.hankyung.com/life/article/2020090390407"
-    },
-    {
         "title": "코로나 신규확진 195명…17일 만에 200명 밑으로",
         "link": "http://www.hani.co.kr/arti/society/society_general/960542.html"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나 확진 195명…17일 만에 200명 아래로(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/03/2020090300788.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "2.5단계 거리두기 효과…서울 확진자 하루새 30여명 ‘뚝’(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02860166625896512"
     }
 ];

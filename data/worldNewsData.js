@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "September 2 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
     },
     {
