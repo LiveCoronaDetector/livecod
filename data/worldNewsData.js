@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in Africa: Could poverty explain mystery of low death rate?",
-        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
+        "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
         "title": "Live updates: CDC asks states to prepare to distribute coronavirus vaccine as soon as Nov. 1",
@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/fears-rise-coronavirus-has-hit-remote-tribe-after-cases-confirmed-n1239045"
     },
     {
-        "title": "How South Korea's Covid-19 Strategy is Being Tested by New Outbreaks",
-        "link": "https://www.nytimes.com/2020/09/02/world/asia/south-korea-covid-19.html"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
     },
     {
         "title": "Covid-19 Live Updates and Tracker",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "States Should Prepare for Possible Vaccine by Early November: Covid-19 Live Updates",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
-    },
-    {
-        "title": "September 2 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     }
 ];

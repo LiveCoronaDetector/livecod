@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
     },
     {
-        "title": "서울 확진자 20일 만에 60명대…“거리두기 조정은 아직”(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200903500084&wlog_tag3=naver"
-    },
-    {
-        "title": "국회 코로나19 확진자 또 발생…국민의힘 사무처 당직자(상보)",
-        "link": "https://www.news1.kr/articles/?4047329"
-    },
-    {
-        "title": "코로나19 어제 195명 신규확진…17일만에 200명 아래로",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5897250_32633.html"
-    },
-    {
-        "title": "‘고스톱 모임’ 관련 코로나19 확진자 2명 늘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4531464&ref=A"
+        "title": "국민의힘 당직자, 코로나19 확진 판정…오후 일정 취소",
+        "link": "http://www.newsis.com/view/?id=NISX20200903_0001153460&cID=10301&pID=10300"
     },
     {
         "title": "청양 김치공장서 코로나19 집단발병…직원·가족 19명 확진(종합2보)",
         "link": "http://yna.kr/AKR20200903099100063?did=1195m"
     },
     {
-        "title": "코로나 신규확진 195명…17일 만에 200명 밑으로",
-        "link": "http://www.hani.co.kr/arti/society/society_general/960542.html"
+        "title": "국민의힘 당직자 코로나19 확진, 정치 일정 또 멈춤",
+        "link": "http://www.hani.co.kr/arti/politics/assembly/960598.html"
+    },
+    {
+        "title": "코로나19 신규확진자 195명…위·중증 환자 급증 우려",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4531530&ref=A"
     },
     {
         "title": "코로나 신규 확진 195명… 국내발생 188명·해외유입 7명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/03/2020090301015.html"
+    },
+    {
+        "title": "[속보] '동충하초' 사업설명회 확진자 창원서 발생 \"검사 당부\"",
+        "link": "https://news.imaeil.com/Life/2020090311014122441"
+    },
+    {
+        "title": "서울 확진자 20일 만에 60명대…“거리두기 조정은 아직”(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200903500084&wlog_tag3=naver"
     }
 ];
