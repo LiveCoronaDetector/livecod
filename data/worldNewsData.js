@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/03/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
-        "title": "Dwayne 'The Rock' Johnson reveals family tested positive for COVID-19",
-        "link": "https://www.youtube.com/watch?v=97zsLVrinEA"
+        "title": "Video shows Australian police making arrest of pregnant woman at her home for promoting an anti-lockdown protest on Facebook",
+        "link": "https://www.msn.com/en-us/news/world/video-shows-australian-police-making-arrest-of-pregnant-woman-at-her-home-for-promoting-an-anti-lockdown-protest-on-facebook/ar-BB18FNOH?li=BBnbcA1"
+    },
+    {
+        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
     }
 ];
