@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "Greece defends Covid safety as Johnson urged to review quarantine rules",
-        "link": "https://www.theguardian.com/world/2020/sep/02/greece-defends-covid-safety-as-johnson-urged-to-review-quarantine-rules"
+        "title": "Greece and Portugal stay on England's list of quarantine-free travel",
+        "link": "https://www.theguardian.com/world/2020/sep/03/greece-and-portugal-stay-on-englands-list-of-quarantine-free-travel-coronavirus"
     },
     {
         "title": "Coronavirus live news: tracing apps 'may stem spread even with low uptake'",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/03/world/covid-19-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
     },
     {
         "title": "Trump Administration Will Redirect $62 Million Owed to World Health Organization",

@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
     },
     {
+        "title": "서울 내 코로나 확진자 발생률 1위는 '성북구'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/04/2020090400440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나 치료 받다 ‘탈출’···50대 확진자 CCTV로 잡혔다",
         "link": "https://www.sedaily.com/NewsView/1Z7PO2LI99"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규확진자 195명…위·중증 환자 급증 우려",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4531530&ref=A"
-    },
-    {
-        "title": "국민의힘 당직자 코로나19 확진, 정치 일정 또 멈춤",
-        "link": "http://www.hani.co.kr/arti/politics/assembly/960598.html"
     }
 ];
