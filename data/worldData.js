@@ -549,8 +549,8 @@ var marker = [
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 25904,
-        "사망자수": 731,
-        "완치자수": 14879
+        "사망자수": 739,
+        "완치자수": 14904
     },
     {
         "Name": "체코",
@@ -1265,6 +1265,14 @@ var marker = [
         "완치자수": 528
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 1058,
+        "사망자수": 6,
+        "완치자수": 359
+    },
+    {
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
@@ -1279,14 +1287,6 @@ var marker = [
         "확진자수": 1017,
         "사망자수": 77,
         "완치자수": 904
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 995,
-        "사망자수": 6,
-        "완치자수": 358
     },
     {
         "Name": "Sao Tome and Principe",

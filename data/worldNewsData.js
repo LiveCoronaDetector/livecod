@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54000930"
     },
     {
-        "title": "30 cases of Covid-19 have been linked to a karaoke bar in Canada",
-        "link": "https://www.cnn.com/2020/09/02/americas/canada-karaoke-bar-covid-cluster/index.html"
+        "title": "Live updates: CDC asks states to prepare to distribute coronavirus vaccine as soon as Nov. 1",
+        "link": "https://www.washingtonpost.com/nation/2020/09/03/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: England under pressure to impose Greece quarantine",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     },
     {
-        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
-        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
+        "title": "States Should Prepare for Possible Vaccine by Early November: Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
-        "title": "Scientists Report Steroids Can Be Lifesaving for Covid-19 Patients",
-        "link": "https://www.nytimes.com/2020/09/02/health/coronavirus-steroids.html"
+        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
     }
 ];
