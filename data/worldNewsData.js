@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "Live updates: CDC asks states to prepare to distribute coronavirus vaccine as soon as Nov. 1",
-        "link": "https://www.washingtonpost.com/nation/2020/09/03/coronavirus-covid-live-updates-us/"
+        "title": "Dwayne 'The Rock' Johnson: Actor and family had Covid-19",
+        "link": "https://www.bbc.com/news/world-us-canada-54008181"
     },
     {
         "title": "Coronavirus: England under pressure to impose Greece quarantine",
         "link": "https://www.bbc.com/news/uk-53993399"
     },
     {
-        "title": "France nears all-time high new Covid-19 infections, sees rise in hospitalisations",
-        "link": "https://www.france24.com/en/20200902-france-nears-all-time-high-new-covid-19-infections-sees-rise-in-hospitalisations"
+        "title": "Europe sees sharp rise in the number of new coronavirus cases, as Spain and Russia infections spike",
+        "link": "https://www.cnbc.com/2020/09/01/europe-coronavirus-resurgence-spain-and-russia-see-infections-spike.html"
     },
     {
         "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
     },
     {
+        "title": "The Rock & Family Test Positive For COVID-19",
+        "link": "https://www.youtube.com/watch?v=rL7JNEgkbFE"
+    },
+    {
         "title": "Trump sets up fight with Congress over plan to cut dues to WHO immediately",
         "link": "https://www.theguardian.com/world/2020/sep/02/world-health-organization-trump-administration-us-who-dues"
     },
     {
         "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
-    },
-    {
-        "title": "September 2 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     }
 ];

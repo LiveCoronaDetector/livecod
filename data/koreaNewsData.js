@@ -5,28 +5,20 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
     },
     {
-        "title": "국민의힘 당직자 코로나19 확진, 정치 일정 또 멈춤",
-        "link": "http://www.hani.co.kr/arti/politics/assembly/960598.html"
+        "title": "코로나 신규확진 195명…17일 만에 200명 밑으로",
+        "link": "http://www.hani.co.kr/arti/society/society_general/960542.html"
     },
     {
-        "title": "[오피셜] 박정규 한화 대표이사 사의 표명... 코로나 확진자 대처 논란에 사과",
-        "link": "http://star.mt.co.kr/stview.php?no=2020090316022602579"
+        "title": "국회 코로나19 확진자 또 발생…국민의힘 사무처 당직자(상보)",
+        "link": "https://www.news1.kr/articles/?4047329"
     },
     {
         "title": "국회 또 코로나19 감염 '날벼락'…여야 정치일정 중단(종합)",
         "link": "http://yna.kr/AKR20200903121451001?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 195명…17일 만에 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
-    },
-    {
-        "title": "[속보] 코로나19 어제 195명 신규 확진…200명 아래로",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005962976&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "[단독]KT, 광화문 본사서도 확진자 발생…\"재택근무 13일까지 연장\"",
-        "link": "https://www.news1.kr/articles/?4047749"
+        "title": "[오피셜] 박정규 한화 대표이사 사의 표명... 코로나 확진자 대처 논란에 사과",
+        "link": "http://star.mt.co.kr/stview.php?no=2020090316022602579"
     },
     {
         "title": "국회 코로나19 확진자 또 발생..국민의힘 당직자",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4531530&ref=A"
     },
     {
-        "title": "코로나 신규 확진 195명… 국내발생 188명·해외유입 7명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/03/2020090301015.html"
+        "title": "이낙연 또 자가격리 \"국민의힘 확진자 간접 접촉\"",
+        "link": "https://news.imaeil.com/Politics/2020090317001981381"
+    },
+    {
+        "title": "국회 또 확진자 발생…여야 일정 전면 취소, 방역 작업",
+        "link": "http://www.newsis.com/view/?id=NISX20200903_0001153522&cID=10303&pID=10300"
+    },
+    {
+        "title": "[단독]KT, 광화문 본사서도 확진자 발생…\"재택근무 13일까지 연장\"",
+        "link": "https://www.news1.kr/articles/?4047749"
     }
 ];
