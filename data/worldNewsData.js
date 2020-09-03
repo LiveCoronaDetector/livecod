@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
+        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
     },
     {
         "title": "Wear a mask while having sex and avoid kissing new people, Canada's top doctor advises",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
+        "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
+        "link": "https://www.bbc.com/news/world-africa-53998374"
+    },
+    {
         "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
         "title": "The Rock & Family Test Positive For COVID-19",
         "link": "https://www.youtube.com/watch?v=rL7JNEgkbFE"
-    },
-    {
-        "title": "Trump Administration Will Redirect $62 Million Owed to World Health Organization",
-        "link": "https://www.nytimes.com/2020/09/02/health/trump-world-health-organization-funding-coronavirus.html"
     },
     {
         "title": "September 2 coronavirus news",

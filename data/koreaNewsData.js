@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020090321322167842"
     },
     {
-        "title": "[단독]KT, 광화문 본사서도 확진자 발생…\"재택근무 13일까지 연장\"",
-        "link": "https://www.news1.kr/articles/?4047749"
-    },
-    {
         "title": "코로나 확진자에 국회 부분 셧다운…\"검사결과 따라 운영방안 결정\"(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04313206625896512"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",
         "link": "http://www.etnews.com/20200903000241"
+    },
+    {
+        "title": "[속보] 코로나19 어제 195명 신규 확진…200명 아래로",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005962976&plink=ORI&cooper=NAVER"
     }
 ];
