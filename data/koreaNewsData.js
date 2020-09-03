@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200903185000004?did=1195m"
     },
     {
-        "title": "국회, 확진자 발생에 4일 만에 또 폐쇄…여야 일정 전면 취소(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20200903_0001154015&cID=10301&pID=10300"
-    },
-    {
         "title": "日 코로나 신규 확진자 600명…사흘째 500명↑",
         "link": "https://view.asiae.co.kr/article/2020090321322167842"
+    },
+    {
+        "title": "국회, 확진자 발생에 4일 만에 또 폐쇄…여야 일정 전면 취소(종합2보)",
+        "link": "http://www.newsis.com/view/?id=NISX20200903_0001154015&cID=10301&pID=10300"
     },
     {
         "title": "코로나 확진자에 국회 부분 셧다운…\"검사결과 따라 운영방안 결정\"(종합)",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020090315583256212"
     },
     {
-        "title": "[단독] 현대차 터키 연수생 코로나 확진...남양연구소 방역 비상",
-        "link": "http://news.mk.co.kr/newsRead.php?no=912569&year=2020"
+        "title": "[레이더P] 이종배 코로나확진 여부 기다리는 문대통령과 이낙연",
+        "link": "http://news.mk.co.kr/newsRead.php?no=912335&year=2020"
     },
     {
         "title": "국회 또 코로나19 감염 '날벼락'…여야 정치일정 중단(종합)",

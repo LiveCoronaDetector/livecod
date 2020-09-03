@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
-        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/03/world/covid-19-coronavirus.html"
     },
     {
         "title": "The Rock & Family Test Positive For COVID-19",
