@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "Dwayne 'The Rock' Johnson: Actor and family had Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-54008181"
+        "title": "Wear a mask while having sex and avoid kissing new people, Canada's top doctor advises",
+        "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
         "title": "Coronavirus: England under pressure to impose Greece quarantine",
         "link": "https://www.bbc.com/news/uk-53993399"
     },
     {
-        "title": "Europe sees sharp rise in the number of new coronavirus cases, as Spain and Russia infections spike",
-        "link": "https://www.cnbc.com/2020/09/01/europe-coronavirus-resurgence-spain-and-russia-see-infections-spike.html"
+        "title": "Former Italian Premier Berlusconi Tests Positive For Coronavirus",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/02/908846696/former-italian-premier-berlusconi-tests-positive-for-coronavirus"
     },
     {
         "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
+        "title": "Schools reopen in many countries amid concerns of second wave of COVID-19 | World News",
+        "link": "https://www.youtube.com/watch?v=1TLOa0xG3W4"
     },
     {
         "title": "The Rock & Family Test Positive For COVID-19",
