@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/03/coronavirus-live-news-trump-pushes-to-withdraw-who-funding-immediately"
     },
     {
-        "title": "Thailand managed 101 days without local coronavirus cases. Will it open borders soon?",
-        "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/h_ec06c468bdfe4c45d29997df62e021ef"
     },
     {
         "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
