@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
+        "title": "확진자 늘어난 제주 코로나19 치료병상 확대",
+        "link": "https://www.nocutnews.co.kr/news/5406494"
+    },
+    {
         "title": "제주도내 47번째 확진자 자택수리 위해 입도",
         "link": "https://www.pressian.com/pages/articles/2020090218351861978?utm_source=naver&utm_medium=search"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
-    },
-    {
-        "title": "도외 지역 게스트하우스發 코로나19 확진자 1명 추가",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171018"
     }
 ];

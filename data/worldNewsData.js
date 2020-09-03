@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-53993399"
     },
     {
-        "title": "A Coronavirus Second Wave Grips Spain",
-        "link": "https://www.nytimes.com/2020/08/31/world/europe/coronavirus-covid-spain-second-wave.html"
+        "title": "France nears all-time high new Covid-19 infections, sees rise in hospitalisations",
+        "link": "https://www.france24.com/en/20200902-france-nears-all-time-high-new-covid-19-infections-sees-rise-in-hospitalisations"
     },
     {
         "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Overwhelmingly strong results could end COVID-19 vaccine trials early, Fauci says",
-        "link": "https://news.yahoo.com/overwhelmingly-strong-results-could-end-110005044.html"
-    },
-    {
-        "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
-        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
     },
     {
         "title": "Trump sets up fight with Congress over plan to cut dues to WHO immediately",
         "link": "https://www.theguardian.com/world/2020/sep/02/world-health-organization-trump-administration-us-who-dues"
     },
     {
-        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
-        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
+        "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
+        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+    },
+    {
+        "title": "September 2 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     }
 ];
