@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
-        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/03/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
-        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
+        "title": "Trump Administration Will Redirect $62 Million Owed to World Health Organization",
+        "link": "https://www.nytimes.com/2020/09/02/health/trump-world-health-organization-funding-coronavirus.html"
     },
     {
-        "title": "Scientists Report Steroids Can Be Lifesaving for Covid-19 Patients",
-        "link": "https://www.nytimes.com/2020/09/02/health/coronavirus-steroids.html"
+        "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
+        "link": "https://www.youtube.com/watch?v=SKSLeIhYmUU"
     }
 ];
