@@ -17,24 +17,24 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
+        "title": "제주 코로나 치료병상 확대, 30→319병상으로",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350046"
     },
     {
-        "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
+        "title": "제주도 2차 긴급생활지원금, 신청접수 '순조'...5부제 조기 해제",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426425"
     },
     {
-        "title": "코로나19 환자 늘자 제주 치료병상 ‘30→319개’로 확대",
-        "link": "http://www.newsis.com/view/?id=NISX20200903_0001153711&cID=10813&pID=10800"
-    },
-    {
-        "title": "제주 코로나19 치료병상 '30→319개' 확대",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319730"
+        "title": "게스트하우스발 서울·울산 확진자 2명 발생",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4531461&ref=A"
     },
     {
         "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
         "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "[속보]제주 47번째 코로나19 확진자 발생…울산 확진자 접촉",
+        "link": "https://www.news1.kr/articles/?4045238"
     },
     {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
