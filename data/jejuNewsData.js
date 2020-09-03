@@ -17,12 +17,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "제주 코로나 치료병상 확대, 30→319병상으로",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350046"
-    },
-    {
-        "title": "제주도 2차 긴급생활지원금, 신청접수 '순조'...5부제 조기 해제",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426425"
+        "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
     },
     {
         "title": "게스트하우스발 서울·울산 확진자 2명 발생",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
+    },
+    {
+        "title": "도외 지역 게스트하우스發 코로나19 확진자 1명 추가",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171018"
     }
 ];

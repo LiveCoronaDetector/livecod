@@ -5,6 +5,18 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
     },
     {
+        "title": "코로나19 신규 확진자 195명...17일 만에 100명대",
+        "link": "https://www.pressian.com/pages/articles/2020090309523580457?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "광주서 밤새 코로나19 확진자 5명 발생...누적 394명",
+        "link": "http://www.fnnews.com/news/202009030851384252"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 195명…17일 만에 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
+    },
+    {
         "title": "국민의힘 당직자 코로나19 확진, 정치 일정 또 멈춤",
         "link": "http://www.hani.co.kr/arti/politics/assembly/960598.html"
     },
@@ -13,16 +25,12 @@ var koreaNewsData = [
         "link": "http://star.mt.co.kr/stview.php?no=2020090316022602579"
     },
     {
-        "title": "코로나 중환자 급증에 군병원 병상도 동원…\"추가 확보에 총력\"(종합)",
-        "link": "http://yna.kr/AKR20200903092851530?did=1195m"
+        "title": "국회 또 코로나19 감염 '날벼락'…여야 정치일정 중단(종합)",
+        "link": "http://yna.kr/AKR20200903121451001?did=1195m"
     },
     {
-        "title": "코로나19 재확산에 전국 8245개교 문 닫았다[종합]",
-        "link": "https://www.hankyung.com/life/article/2020090312517"
-    },
-    {
-        "title": "국회 코로나19 확진자 또 발생..국민의힘 당직자",
-        "link": "http://www.fnnews.com/news/202009031356068021"
+        "title": "[속보] 코로나19 어제 195명 신규 확진…200명 아래로",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005962976&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나19 신규확진자 195명…위·중증 환자 급증 우려",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진 195명… 국내발생 188명·해외유입 7명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/03/2020090301015.html"
-    },
-    {
-        "title": "[전문] 대구서 확진자 3명 추가 발생...누적 7065명",
-        "link": "http://www.kbsm.net/default/index_view_page.php?idx=286560&part_idx=320"
-    },
-    {
-        "title": "[속보]서울시 코로나19 확진자수 큰폭 하락…신규 69명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009031104001&code=940100"
     }
 ];
