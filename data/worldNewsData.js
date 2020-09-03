@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
-        "title": "Dwayne 'The Rock' Johnson reveals family tested positive for COVID-19",
-        "link": "https://www.youtube.com/watch?v=97zsLVrinEA"
+        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
+        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
     },
     {
-        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
-        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
+        "title": "Scientists Report Steroids Can Be Lifesaving for Covid-19 Patients",
+        "link": "https://www.nytimes.com/2020/09/02/health/coronavirus-steroids.html"
     }
 ];
