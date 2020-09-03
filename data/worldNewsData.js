@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/02/greece-defends-covid-safety-as-johnson-urged-to-review-quarantine-rules"
     },
     {
-        "title": "Coronavirus live news: Robert Pattinson 'tests positive for Covid-19, halting Batman production'",
+        "title": "Coronavirus live news: tracing apps 'may stem spread even with low uptake'",
         "link": "https://www.theguardian.com/world/live/2020/sep/03/coronavirus-live-news-trump-pushes-to-withdraw-who-funding-immediately"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
-        "title": "Video shows Australian police making arrest of pregnant woman at her home for promoting an anti-lockdown protest on Facebook",
-        "link": "https://www.msn.com/en-us/news/world/video-shows-australian-police-making-arrest-of-pregnant-woman-at-her-home-for-promoting-an-anti-lockdown-protest-on-facebook/ar-BB18FNOH?li=BBnbcA1"
+        "title": "Dwayne 'The Rock' Johnson reveals family tested positive for COVID-19",
+        "link": "https://www.youtube.com/watch?v=97zsLVrinEA"
     },
     {
-        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
-        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
+        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
     }
 ];

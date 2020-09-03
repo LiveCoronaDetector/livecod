@@ -5,16 +5,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     },
     {
-        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
-        "link": "http://www.fnnews.com/news/202009020025153557"
-    },
-    {
         "title": "확진자 늘어난 제주 코로나19 치료병상 확대",
         "link": "https://www.nocutnews.co.kr/news/5406494"
     },
     {
-        "title": "코로나19 환자 늘자 제주 치료병상 ‘30→319개’로 확대",
-        "link": "http://www.newsis.com/view/?id=NISX20200903_0001153711&cID=10813&pID=10800"
+        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
+        "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
         "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
         "link": "http://www.fnnews.com/news/202009021144417201"
+    },
+    {
+        "title": "제주, '코로나19 재확산' 대비 원격수업 노트북 지원 확대",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426325"
     }
 ];
