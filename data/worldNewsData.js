@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
+        "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
         "title": "Wear a mask while having sex and avoid kissing new people, Canada's top doctor advises",
@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/02/greece-defends-covid-safety-as-johnson-urged-to-review-quarantine-rules"
     },
     {
-        "title": "Coronavirus live news: France registers more than 7,000 cases for second day; minister rules out Spain lockdown",
+        "title": "Coronavirus live news: Robert Pattinson 'tests positive for Covid-19, halting Batman production'",
         "link": "https://www.theguardian.com/world/live/2020/sep/03/coronavirus-live-news-trump-pushes-to-withdraw-who-funding-immediately"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/03/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
-    },
-    {
         "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+    },
+    {
+        "title": "Dwayne 'The Rock' Johnson reveals family tested positive for COVID-19",
+        "link": "https://www.youtube.com/watch?v=97zsLVrinEA"
     }
 ];
