@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
     },
     {
+        "title": "서울아산병원서 총 6명 코로나19 확진…전공의 필수 업무 복귀(종합)",
+        "link": "http://yna.kr/AKR20200903059251017?did=1195m"
+    },
+    {
         "title": "[속보] 코로나19 어제 195명 신규 확진…200명 아래로",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005962976&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보] 서울아산병원 병동서 5명 추가…확진자 총 6명",
+        "link": "https://www.hankyung.com/life/article/2020090390407"
     },
     {
         "title": "코로나 신규확진 195명…17일 만에 200명 밑으로",
         "link": "http://www.hani.co.kr/arti/society/society_general/960542.html"
     },
     {
-        "title": "서울아산병원서 총 6명 코로나19 확진…전공의 필수 업무 복귀(종합)",
-        "link": "http://yna.kr/AKR20200903059251017?did=1195m"
-    },
-    {
         "title": "코로나 신규 확진 195명… 국내발생 188명·해외유입 7명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/03/2020090301015.html"
-    },
-    {
-        "title": "[속보] 서울아산병원 병동서 5명 추가…확진자 총 6명",
-        "link": "https://www.hankyung.com/life/article/2020090390407"
     },
     {
         "title": "광주서 밤새 코로나19 확진자 5명 발생...누적 394명",
