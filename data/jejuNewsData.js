@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
-        "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
-        "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "확진자 늘어난 제주 코로나19 치료병상 확대",
         "link": "https://www.nocutnews.co.kr/news/5406494"
+    },
+    {
+        "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
+        "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
     },
     {
         "title": "도내 47번 확진자 접촉자 9명",
@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
     },
     {
-        "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
-        "link": "http://www.fnnews.com/news/202009021144417201"
-    },
-    {
         "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
+    },
+    {
+        "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
+        "link": "http://www.fnnews.com/news/202009021144417201"
     },
     {
         "title": "은평구 175번 확진자도 제주 게하發…'루프탑정원'서 파티",
