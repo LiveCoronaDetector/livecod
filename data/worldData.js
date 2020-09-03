@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6308875,
-        "사망자수": 190401,
-        "완치자수": 3554903
+        "확진자수": 6310196,
+        "사망자수": 190447,
+        "완치자수": 3555933
     },
     {
         "Name": "브라질",
@@ -20,9 +20,9 @@ var marker = [
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "확진자수": 3930059,
-        "사망자수": 68560,
-        "완치자수": 3031777
+        "확진자수": 3933124,
+        "사망자수": 68569,
+        "완치자수": 3032916
     },
     {
         "Name": "러시아",
@@ -156,8 +156,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 248385,
-        "사망자수": 9397,
+        "확진자수": 248689,
+        "사망자수": 9398,
         "완치자수": 223100
     },
     {
@@ -897,6 +897,14 @@ var marker = [
         "완치자수": 2071
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "확진자수": 4214,
+        "사망자수": 100,
+        "완치자수": 3474
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
@@ -927,14 +935,6 @@ var marker = [
         "확진자수": 4149,
         "사망자수": 72,
         "완치자수": 3272
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "확진자수": 4126,
-        "사망자수": 98,
-        "완치자수": 3458
     },
     {
         "Name": "Cabo Verde",
@@ -1617,6 +1617,14 @@ var marker = [
         "완치자수": 18
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "확진자수": 18,
+        "사망자수": 0,
+        "완치자수": 7
+    },
+    {
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
@@ -1631,14 +1639,6 @@ var marker = [
         "확진자수": 17,
         "사망자수": 0,
         "완치자수": 17
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "확진자수": 16,
-        "사망자수": 0,
-        "완치자수": 7
     },
     {
         "Name": "Greenland",
