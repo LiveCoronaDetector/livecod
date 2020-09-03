@@ -9,12 +9,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
-        "title": "확진자 늘어난 제주 코로나19 치료병상 확대",
-        "link": "https://www.nocutnews.co.kr/news/5406494"
+        "title": "코로나19 환자 늘자 제주 치료병상 ‘30→319개’로 확대",
+        "link": "http://www.newsis.com/view/?id=NISX20200903_0001153711&cID=10813&pID=10800"
     },
     {
         "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
         "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "확진자 늘어난 제주 코로나19 치료병상 확대",
+        "link": "https://www.nocutnews.co.kr/news/5406494"
     },
     {
         "title": "도내 47번 확진자 접촉자 9명",
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
-        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
-    },
-    {
         "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
     },
     {
-        "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
-        "link": "http://www.fnnews.com/news/202009021144417201"
+        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
     },
     {
-        "title": "은평구 175번 확진자도 제주 게하發…'루프탑정원'서 파티",
-        "link": "https://www.news1.kr/articles/?4046082"
+        "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
+        "link": "http://www.fnnews.com/news/202009021144417201"
     }
 ];
