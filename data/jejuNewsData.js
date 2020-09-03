@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
     },
     {
-        "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
-        "link": "http://yna.kr/AKR20200901046000530?did=1195m"
-    },
-    {
         "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
+    },
+    {
+        "title": "수능 응시원서 접수 3일부터…자가격리자·확진자 대리제출 가능",
+        "link": "http://yna.kr/AKR20200901046000530?did=1195m"
     },
     {
         "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",

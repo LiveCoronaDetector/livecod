@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5898120_32524.html"
     },
     {
-        "title": "코로나19 신규확진자 195명…위·중증 환자 급증 우려",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4531530&ref=A"
+        "title": "국회 코로나19 확진자 또 발생..국민의힘 당직자",
+        "link": "http://www.fnnews.com/news/202009031356068021"
     }
 ];

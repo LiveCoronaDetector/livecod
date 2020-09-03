@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "Greece and Portugal stay on England's list of quarantine-free travel",
-        "link": "https://www.theguardian.com/world/2020/sep/03/greece-and-portugal-stay-on-englands-list-of-quarantine-free-travel-coronavirus"
+        "title": "Cabinet to lock down 30 ‘red’ cities as virus spikes",
+        "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-convene-as-peak-3000-new-patients-are-diagnosed-640923"
     },
     {
-        "title": "Coronavirus live news: tracing apps 'may stem spread even with low uptake'",
+        "title": "Covid-19 tracing apps 'may stem spread even with low uptake' – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/sep/03/coronavirus-live-news-trump-pushes-to-withdraw-who-funding-immediately"
     },
     {
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
+        "title": "Covid-19 Live Updates: Trump Administration Vaccine Chief Casts Doubt on Vaccine by Election Day",
+        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
     },
     {
-        "title": "Trump Administration Will Redirect $62 Million Owed to World Health Organization",
-        "link": "https://www.nytimes.com/2020/09/02/health/trump-world-health-organization-funding-coronavirus.html"
+        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
     },
     {
         "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
