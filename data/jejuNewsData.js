@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009021007476621"
     },
     {
-        "title": "제주도 방문 외교부 확진자와 접촉한 22명 전원 음성",
-        "link": "http://yna.kr/AKR20200902092700530?did=1195m"
+        "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
     }
 ];

@@ -5,16 +5,24 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005962976&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "충남 청양 김치공장 한울농산서 직원 17명 코로나19 집단감염(종합)",
-        "link": "http://yna.kr/AKR20200903024552063?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 195명…17일 만에 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
     },
     {
+        "title": "코로나 신규확진 195명…17일 만에 200명 밑으로",
+        "link": "http://www.hani.co.kr/arti/society/society_general/960542.html"
+    },
+    {
         "title": "코로나 신규 확진 195명… 국내발생 188명·해외유입 7명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/03/2020090301015.html"
+    },
+    {
+        "title": "서울아산병원서 5명 코로나 추가 확진… 확진자 총 6명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/03/2020090301369.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "광주서 밤새 코로나19 확진자 5명 발생...누적 394명",
+        "link": "http://www.fnnews.com/news/202009030851384252"
     },
     {
         "title": "코로나19 어제 195명 신규확진…17일만에 200명 아래로",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200903/102770542/2"
     },
     {
-        "title": "서울 신규 코로나 확진자 69명으로 크게 감소",
-        "link": "http://www.fnnews.com/news/202009031045553633"
+        "title": "충남 청양 김치공장 한울농산서 직원 17명 코로나19 집단감염(종합)",
+        "link": "http://yna.kr/AKR20200903024552063?did=1195m"
     },
     {
-        "title": "서울아산병원서 5명 코로나 추가 확진… 확진자 총 6명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/03/2020090301369.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] 결국…대구 '동충하초 사업설명회' 확진자 나왔다",
-        "link": "https://news.imaeil.com/Society/2020090309123902219"
-    },
-    {
-        "title": "코로나19 누적 확진자 2만명 넘어…추석승차권 예매 연기",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
+        "title": "[속보] 충남 김치공장 한울농산 17명 코로나19 집단감염",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009030437&t=NN"
     }
 ];

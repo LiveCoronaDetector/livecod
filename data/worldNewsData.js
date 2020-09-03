@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
-        "title": "Coronavirus updates: Latest news from around the world",
+        "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/index.html"
+    },
+    {
+        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
     },
     {
         "title": "States Should Prepare for Possible Vaccine by Early November: Covid-19 Live Updates",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
-    },
-    {
-        "title": "(22) Iowa has the highest rate of Covid-19 cases in the US. Here's a look at the state's latest figures.",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     }
 ];
