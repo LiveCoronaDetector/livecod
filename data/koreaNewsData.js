@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.spotvnews.co.kr/?mod=news&act=articleView&idxno=377713"
     },
     {
-        "title": "국회 또 코로나19 감염 '날벼락'…여야 정치일정 중단(종합)",
-        "link": "http://yna.kr/AKR20200903121451001?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 어제 195명 신규 확진…200명 아래로",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005962976&plink=ORI&cooper=NAVER"
+        "title": "50대 확진자, 서울 노원 생활치료센터 탈출 시도하다 붙잡혀",
+        "link": "http://yna.kr/AKR20200903185000004?did=1195m"
     },
     {
         "title": "국회, 확진자 발생에 4일 만에 또 폐쇄…여야 일정 전면 취소(종합2보)",
         "link": "http://www.newsis.com/view/?id=NISX20200903_0001154015&cID=10301&pID=10300"
     },
     {
+        "title": "코로나19 신규확진자 195명…위·중증 환자 급증 우려",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4531530&ref=A"
+    },
+    {
+        "title": "[속보] 일본 코로나 신규 확진 600명대…누적 7만1116명",
+        "link": "https://www.hankyung.com/international/article/2020090322827"
+    },
+    {
+        "title": "코로나 신규확진 195명…17일 만에 200명 밑으로",
+        "link": "http://www.hani.co.kr/arti/society/society_general/960542.html"
+    },
+    {
         "title": "부산 코로나19 중환자 가용 병상 '1개'…8월 확진자 37%가 60대 이상",
         "link": "http://www.busan.com/view/busan/view.php?code=2020090315583256212"
     },
     {
-        "title": "[레이더P] 이종배 코로나확진 여부 기다리는 문대통령과 이낙연",
-        "link": "http://news.mk.co.kr/newsRead.php?no=912335&year=2020"
-    },
-    {
-        "title": "'이종배 접촉' 이낙연, 자택 대기…세번째 코로나 검사도(종합)",
-        "link": "http://yna.kr/AKR20200903127751001?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 195명…17일 만에 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
+        "title": "국회 또 코로나19 감염 '날벼락'…여야 정치일정 중단(종합)",
+        "link": "http://yna.kr/AKR20200903121451001?did=1195m"
     }
 ];
