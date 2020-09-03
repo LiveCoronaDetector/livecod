@@ -1249,20 +1249,20 @@ var marker = [
         "완치자수": 1088
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 1101,
+        "사망자수": 13,
+        "완치자수": 240
+    },
+    {
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
         "확진자수": 1085,
         "사망자수": 31,
         "완치자수": 528
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 1050,
-        "사망자수": 13,
-        "완치자수": 213
     },
     {
         "Name": "베트남",
@@ -1353,20 +1353,20 @@ var marker = [
         "완치자수": 183
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "확진자수": 495,
+        "사망자수": 19,
+        "완치자수": 302
+    },
+    {
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
         "확진자수": 489,
         "사망자수": 7,
         "완치자수": 471
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 482,
-        "사망자수": 19,
-        "완치자수": 241
     },
     {
         "Name": "Papua New Guinea",
@@ -1446,7 +1446,7 @@ var marker = [
         "Name_en": "Cambodia",
         "확진자수": 274,
         "사망자수": 0,
-        "완치자수": 266
+        "완치자수": 271
     },
     {
         "Name": "Saint Martin",
@@ -1532,9 +1532,9 @@ var marker = [
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "확진자수": 71,
+        "확진자수": 75,
         "사망자수": 1,
-        "완치자수": 35
+        "완치자수": 39
     },
     {
         "Name": "St. Vincent Grenadines",
