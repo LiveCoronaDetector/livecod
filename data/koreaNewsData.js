@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4047749"
     },
     {
-        "title": "국민의힘 당직자 코로나19 확진, 정치 일정 또 멈춤",
-        "link": "http://www.hani.co.kr/arti/politics/assembly/960598.html"
-    },
-    {
         "title": "[오피셜] 한화, 코로나19 확진 관련 사과… 대표이사 사의 표명",
         "link": "http://www.spotvnews.co.kr/?mod=news&act=articleView&idxno=377713"
     },
@@ -21,23 +17,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200903121451001?did=1195m"
     },
     {
-        "title": "국회, 확진자 발생에 4일 만에 또 폐쇄…여야 일정 전면 취소(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20200903_0001154015&cID=10301&pID=10300"
-    },
-    {
         "title": "[속보] 코로나19 어제 195명 신규 확진…200명 아래로",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005962976&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "국회, 확진자 발생에 4일 만에 또 폐쇄…여야 일정 전면 취소(종합2보)",
+        "link": "http://www.newsis.com/view/?id=NISX20200903_0001154015&cID=10301&pID=10300"
+    },
+    {
+        "title": "부산 코로나19 중환자 가용 병상 '1개'…8월 확진자 37%가 60대 이상",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020090315583256212"
+    },
+    {
+        "title": "[레이더P] 이종배 코로나확진 여부 기다리는 문대통령과 이낙연",
+        "link": "http://news.mk.co.kr/newsRead.php?no=912335&year=2020"
+    },
+    {
+        "title": "'이종배 접촉' 이낙연, 자택 대기…세번째 코로나 검사도(종합)",
+        "link": "http://yna.kr/AKR20200903127751001?did=1195m"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 195명…17일 만에 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
-    },
-    {
-        "title": "코로나19 신규확진자 195명…위·중증 환자 급증 우려",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4531530&ref=A"
-    },
-    {
-        "title": "코로나 신규 확진 195명… 국내발생 188명·해외유입 7명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/03/2020090301015.html"
     }
 ];

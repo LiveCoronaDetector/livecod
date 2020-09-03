@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
-    },
-    {
         "title": "The Rock & Family Test Positive For COVID-19",
         "link": "https://www.youtube.com/watch?v=rL7JNEgkbFE"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
         "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
+    },
+    {
+        "title": "September 2 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-02-20-intl/h_7ba698a11fb233da28017f0f831a72ee"
     }
 ];
