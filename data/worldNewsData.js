@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
+        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
     },
     {
         "title": "Wear a mask while having sex and avoid kissing new people, Canada's top doctor advises",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
-        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
-    },
-    {
-        "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
-        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
-    },
-    {
-        "title": "Here's why it's unlikely we'll have a coronavirus vaccine by Election Day",
-        "link": "https://www.cnn.com/2020/09/03/health/coronavirus-vaccine-october-unlikely/index.html"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "Dwayne 'The Rock' Johnson: Actor and family had Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-54008181"
+        "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
+        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
+        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
+    },
+    {
+        "title": "Covid-19 Pandemic Ravages World’s Largest Developing Economies",
+        "link": "https://www.wsj.com/articles/covid-19-pandemic-ravages-worlds-largest-developing-economies-11599171833"
     }
 ];
