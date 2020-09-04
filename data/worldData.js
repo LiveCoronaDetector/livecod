@@ -1020,9 +1020,9 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 2822,
-        "사망자수": 27,
-        "완치자수": 900
+        "확진자수": 2896,
+        "사망자수": 29,
+        "완치자수": 921
     },
     {
         "Name": "Mali",
@@ -1428,7 +1428,7 @@ var marker = [
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "확진자수": 306,
+        "확진자수": 310,
         "사망자수": 0,
         "완치자수": 296
     },
