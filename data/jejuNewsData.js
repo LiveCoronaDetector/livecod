@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009041443205501"
     },
     {
+        "title": "제주도, 산방산온천발 확진자 원천차단 위해 482명 검사 지원",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=329183"
+    },
+    {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
         "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "도내 47번 확진자 접촉자 9명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
     }
 ];
