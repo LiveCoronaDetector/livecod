@@ -5,16 +5,20 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200904036700056?did=1195m"
     },
     {
-        "title": "[속보]제주 48번째 코로나19 확진자 발생",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=329248"
-    },
-    {
         "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
         "link": "http://www.fnnews.com/news/202009041443205501"
     },
     {
-        "title": "제주도, \"온천발 n차 감염 막자\"…방문객 482명 검사",
-        "link": "http://www.fnnews.com/news/202009040910347603"
+        "title": "제주 48번째 코로나19 확진자 발생",
+        "link": "https://view.asiae.co.kr/article/2020090423380980302"
+    },
+    {
+        "title": "제주도, 산방산온천발 확진자 원천차단 위해 482명 검사 지원",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=329183"
+    },
+    {
+        "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
+        "link": "https://www.news1.kr/articles/?4049172"
     },
     {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주지역 코로나19 확진 환자 치료병상 확대",
         "link": "https://hankookilbo.com/News/Read/A2020090413480005474?did=NA"
-    },
-    {
-        "title": "코로나19 신규 확진 198명 발생… 지역사회 189명·해외유입 9명",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1317199"
     }
 ];

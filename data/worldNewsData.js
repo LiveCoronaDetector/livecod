@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Wide coronavirus vaccination not till mid-2021, says WHO: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
+        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
+        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
     },
     {
-        "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
-        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",

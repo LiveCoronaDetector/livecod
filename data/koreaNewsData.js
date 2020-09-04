@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
     },
     {
+        "title": "쿠팡 송파1·2배송캠프, 코로나19 확진자 발생으로 폐쇄",
+        "link": "http://yna.kr/AKR20200904135000030?did=1195m"
+    },
+    {
         "title": "[단독] 코로나로 멈췄던 JTBC '사생활', 촬영 재개...\"첫방 편성 논의 중\"",
         "link": "http://www.xportsnews.com/?ac=article_view&entry_id=1321031"
     },
     {
-        "title": "쿠팡, 송파2 캠프서 코로나19 확진자 1명 발생",
-        "link": "https://view.asiae.co.kr/article/2020090416500442039"
-    },
-    {
-        "title": "코로나19 확산에 전국 8천252개교 등교 못 해…연일 최다 기록",
-        "link": "http://yna.kr/AKR20200904089400530?did=1195m"
+        "title": "전남 8월 한 달 간 103명 코로나 ‘확진’",
+        "link": "https://view.asiae.co.kr/article/2020090414284539490"
     }
 ];
