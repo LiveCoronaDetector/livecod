@@ -2,11 +2,11 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
+        "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "Wear a mask while having sex and avoid kissing new people, Canada's top doctor advises",
-        "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
+        "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
+        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus live news: Berlusconi hospitalised in Milan; India cases top 80,000 for second day in a row",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
     },
     {
-        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
-        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
     },
     {
         "title": "Covid-19 Pandemic Ravages World’s Largest Developing Economies",
