@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
-        "title": "UAE deal shows Arab-Israel conflict starting to come apart before our eyes",
-        "link": "https://www.timesofisrael.com/uae-deal-shows-arab-israel-conflict-starting-to-come-apart-before-our-eyes/"
+        "title": "Coronavirus: UK split over Portugal quarantine rules",
+        "link": "https://www.bbc.com/news/uk-54010419"
     },
     {
         "title": "Coronavirus: Italy ex-PM Berlusconi treated for pneumonia",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
     },
     {
+        "title": "Live updates: Fauci warns of a new ‘pandemic era’",
+        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
+    },
+    {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
-        "link": "https://www.nature.com/articles/d41586-020-02507-x"
-    },
-    {
-        "title": "Dwayne 'The Rock' Johnson: Actor and family had Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-54008181"
+        "title": "Coronavirus update: Global cases climb above 26.3 million, and U.S. vaccine program head sees very low chance of vaccine by late October",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-climb-above-263-million-and-us-vaccine-program-head-sees-very-low-chance-of-vaccine-by-late-october-2020-09-04"
     }
 ];
