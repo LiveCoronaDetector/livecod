@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
+        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
     },
     {
         "title": "Wear a mask while having sex and avoid kissing new people, Canada's top doctor advises",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Oxford Coronavirus Vaccine Enters Third And Final Phase In U.S. | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=7SRs-BGDnGw"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
+        "title": "CDC tells officials to prepare to distribute COVID-19 vaccine by early November | WNT",
+        "link": "https://www.youtube.com/watch?v=scnShiL0FzU"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
-        "link": "https://www.youtube.com/watch?v=SKSLeIhYmUU"
+        "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
+        "link": "https://www.bbc.com/news/world-africa-53998374"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
     }
 ];

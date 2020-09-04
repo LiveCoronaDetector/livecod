@@ -13,8 +13,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5406494"
     },
     {
-        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
-        "link": "http://www.fnnews.com/news/202009020025153557"
+        "title": "제주도, \"온천발 n차 감염 막자\"…방문객 482명 검사",
+        "link": "http://www.fnnews.com/news/202009040910347603"
+    },
+    {
+        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
     },
     {
         "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
     },
     {
-        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
-    },
-    {
-        "title": "제주도 2차 긴급생활지원금, 신청접수 '순조'...5부제 조기 해제",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426425"
+        "title": "[속보]제주 47번째 코로나19 확진자 발생…울산 확진자 접촉",
+        "link": "https://www.news1.kr/articles/?4045238"
     }
 ];
