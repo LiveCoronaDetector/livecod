@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "CDC tells officials to prepare to distribute COVID-19 vaccine by early November | WNT",
-        "link": "https://www.youtube.com/watch?v=scnShiL0FzU"
+        "title": "Oxford Coronavirus Vaccine Enters Third And Final Phase In U.S. | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=7SRs-BGDnGw"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
-        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
+        "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
+        "link": "https://www.youtube.com/watch?v=SKSLeIhYmUU"
     }
 ];

@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
     },
     {
-        "title": "코로나19 신규 확진 198명 발생… 지역사회 189명·해외유입 9명",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1317199"
-    },
-    {
         "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
+    },
+    {
+        "title": "코로나19 신규 확진 198명 발생… 지역사회 189명·해외유입 9명",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1317199"
     },
     {
         "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
