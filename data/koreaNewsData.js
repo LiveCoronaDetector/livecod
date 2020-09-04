@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     },
     {
+        "title": "서울 신규 확진자 60명대 지속, 중증환자 병상 5개로 감소",
+        "link": "http://www.fnnews.com/news/202009041045283851"
+    },
+    {
         "title": "서울 지역 고열·기침 이송 환자 11.5%가 코로나19 확진자",
         "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200904/102789762/1"
     },
     {
-        "title": "[단독] 코로나로 멈췄던 JTBC '사생활', 촬영 재개...\"첫방 편성 논의 중\"",
-        "link": "http://www.xportsnews.com/?ac=article_view&entry_id=1321031"
-    },
-    {
-        "title": "밀양, 대구 동충하초 관련 확진자 1명 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200904_0001154641&cID=10812&pID=10800"
+        "title": "코로나 신규 확진 198명… 국내발생 189명·해외유입 9명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/04/2020090401095.html"
     }
 ];

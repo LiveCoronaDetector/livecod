@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
-        "title": "Former Italian Premier Silvio Berlusconi Tests Positive For COVID",
-        "link": "https://www.huffpost.com/entry/former-italian-premier-silvio-berlusconi-tests-positive-for-covid_n_5f50aad4c5b6578026c9ae55"
+        "title": "Coronavirus: Italy ex-PM Berlusconi treated for pneumonia",
+        "link": "https://www.bbc.com/news/world-europe-54024269"
     },
     {
-        "title": "Coronavirus: Italy ex-PM Silvio Berlusconi in hospital",
-        "link": "https://www.bbc.com/news/world-europe-54024269"
+        "title": "Former Italian Premier Silvio Berlusconi Tests Positive For COVID",
+        "link": "https://www.huffpost.com/entry/former-italian-premier-silvio-berlusconi-tests-positive-for-covid_n_5f50aad4c5b6578026c9ae55"
     },
     {
         "title": "The Latest: Senator says Berlusconi admitted to hospital",
         "link": "https://www.wboy.com/news/health/the-latest-india-adds-another-83k-virus-cases-1000-deaths/"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
+        "title": "Wide coronavirus vaccination not till mid-2021,WHO says: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
     },
     {
-        "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
-        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Italy's former PM Berlusconi tests positive for coronavirus",
-        "link": "https://www.youtube.com/watch?v=PcHZrNtxkTE"
+        "title": "Italy's Berlusconi has pneumonia after positive coronavirus test: ANSA",
+        "link": "https://www.msn.com/en-us/news/world/italys-berlusconi-has-pneumonia-after-positive-coronavirus-test-ansa/ar-BB18Hsw9?li=BBnb7Kz"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+        "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
+        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Op-ed: The hyperloop will revolutionize transportation in the post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/02/hyperloop-will-revolutionize-transportation-in-post-coronavirus-world.html"
     }
 ];

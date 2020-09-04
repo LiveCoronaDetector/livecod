@@ -9,8 +9,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009041443205501"
     },
     {
-        "title": "제주도, 산방산온천발 확진자 원천차단 위해 482명 검사 지원",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=329183"
+        "title": "제주지역 코로나19 확진 환자 치료병상 확대",
+        "link": "https://hankookilbo.com/News/Read/A2020090413480005474?did=NA"
+    },
+    {
+        "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
+    },
+    {
+        "title": "제주도, \"온천발 n차 감염 막자\"…방문객 482명 검사",
+        "link": "http://www.fnnews.com/news/202009040910347603"
     },
     {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
@@ -23,14 +31,6 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
-    },
-    {
-        "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
-    },
-    {
-        "title": "제주지역 코로나19 확진 환자 치료병상 확대",
-        "link": "https://hankookilbo.com/News/Read/A2020090413480005474?did=NA"
     },
     {
         "title": "코로나19 신규 확진 198명 발생… 지역사회 189명·해외유입 9명",
