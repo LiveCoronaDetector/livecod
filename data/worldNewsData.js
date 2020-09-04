@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
-        "title": "Covid-19 tracing apps 'may stem spread even with low uptake' – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/03/coronavirus-live-news-trump-pushes-to-withdraw-who-funding-immediately"
+        "title": "Europe pushed the limit of how far to reopen. Now it may be too late to prevent a second virus wave",
+        "link": "https://www.cnn.com/2020/09/03/europe/europe-reopening-second-wave-intl/index.html"
     },
     {
         "title": "Thailand managed 101 days without local coronavirus cases. Will it open borders soon?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Oxford Coronavirus Vaccine Enters Third And Final Phase In U.S. | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=7SRs-BGDnGw"
+        "title": "CDC tells officials to prepare to distribute COVID-19 vaccine by early November | WNT",
+        "link": "https://www.youtube.com/watch?v=scnShiL0FzU"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
-        "link": "https://www.youtube.com/watch?v=SKSLeIhYmUU"
+        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
     },
     {
-        "title": "Trump sets up fight with Congress over plan to cut dues to WHO immediately",
-        "link": "https://www.theguardian.com/world/2020/sep/02/world-health-organization-trump-administration-us-who-dues"
+        "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
+        "link": "https://www.youtube.com/watch?v=SKSLeIhYmUU"
     }
 ];
