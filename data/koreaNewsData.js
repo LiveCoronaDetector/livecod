@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
     },
     {
+        "title": "프랑스, 신규 확진자 9000명...코로나19 발발 이래 최악",
+        "link": "http://www.newsis.com/view/?id=NISX20200905_0001155481&cID=10101&pID=10100"
+    },
+    {
         "title": "코로나 신규 확진 198명… 국내발생 189명·해외유입 9명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/04/2020090401095.html"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
     },
     {
-        "title": "쿠팡 송파1·2배송캠프, 코로나19 확진자 발생으로 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0102_202009042310236349"
+        "title": "서울 아산병원에서 코로나19 확진자 6명 발생...전공의 업무 복귀",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
-    },
-    {
-        "title": "전남 8월 한 달 간 103명 코로나 ‘확진’",
-        "link": "https://view.asiae.co.kr/article/2020090414284539490"
+        "title": "쿠팡, ‘확진자 발생’ 송파 1·2캠프 폐쇄",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532606&ref=A"
     }
 ];
