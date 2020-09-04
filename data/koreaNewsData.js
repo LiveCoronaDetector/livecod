@@ -17,8 +17,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     },
     {
-        "title": "서울 신규 확진자 60명대 지속, 중증환자 병상 5개로 감소",
-        "link": "http://www.fnnews.com/news/202009041045283851"
+        "title": "코로나 신규 확진 198명… 국내발생 189명·해외유입 9명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/04/2020090401095.html"
+    },
+    {
+        "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",
+        "link": "http://www.etnews.com/20200903000241"
     },
     {
         "title": "서울 지역 고열·기침 이송 환자 11.5%가 코로나19 확진자",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200904089400530?did=1195m"
     },
     {
+        "title": "서울 아산병원에서 코로나19 확진자 6명 발생...전공의 업무 복귀",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
+    },
+    {
         "title": "‘코로나19’ 신규 확진자 198명…이틀 연속 200명 아래",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532291&ref=A"
-    },
-    {
-        "title": "‘코로나19’ 신규확진 198명…이틀째 100명대 유지",
-        "link": "https://www.donga.com/news/article/all/20200904/102789762/1"
-    },
-    {
-        "title": "코로나 신규 확진 198명… 국내발생 189명·해외유입 9명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/04/2020090401095.html"
     }
 ];
