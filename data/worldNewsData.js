@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
-        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus live news: no widespread vaccination until mid-2021, says WHO; Berlusconi hospitalised in Milan",
+        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
         "title": "Former Italian Premier Silvio Berlusconi Tests Positive For COVID",
@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.wboy.com/news/health/the-latest-india-adds-another-83k-virus-cases-1000-deaths/"
     },
     {
-        "title": "Brazil's coronavirus cases top four million: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Berlusconi hospitalised after contracting virus",
-        "link": "https://www.bangkokpost.com/world/1980015/berlusconi-hospitalised-after-contracting-virus"
+        "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
+        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Italy's former PM Berlusconi tests positive for coronavirus",
+        "link": "https://www.youtube.com/watch?v=PcHZrNtxkTE"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
-    },
-    {
-        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
-        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
     }
 ];
