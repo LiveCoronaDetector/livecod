@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6359512,
-        "사망자수": 191478,
+        "확진자수": 6359613,
+        "사망자수": 191481,
         "완치자수": 3584207
     },
     {
@@ -388,9 +388,9 @@ var marker = [
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "확진자수": 55213,
-        "사망자수": 856,
-        "완치자수": 20283
+        "확진자수": 56516,
+        "사망자수": 880,
+        "완치자수": 20612
     },
     {
         "Name": "나이지리아",
@@ -857,20 +857,20 @@ var marker = [
         "완치자수": 4456
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "확진자수": 4780,
+        "사망자수": 94,
+        "완치자수": 3844
+    },
+    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
         "확진자수": 4729,
         "사망자수": 62,
         "완치자수": 1807
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "확진자수": 4720,
-        "사망자수": 94,
-        "완치자수": 3789
     },
     {
         "Name": "Nicaragua",
@@ -905,6 +905,14 @@ var marker = [
         "완치자수": 2693
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "확진자수": 4265,
+        "사망자수": 26,
+        "완치자수": 2511
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
@@ -927,14 +935,6 @@ var marker = [
         "확진자수": 4214,
         "사망자수": 100,
         "완치자수": 3474
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "확진자수": 4207,
-        "사망자수": 26,
-        "완치자수": 2370
     },
     {
         "Name": "Cabo Verde",
@@ -1148,9 +1148,9 @@ var marker = [
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "확진자수": 1979,
-        "사망자수": 571,
-        "완치자수": 1180
+        "확진자수": 1983,
+        "사망자수": 572,
+        "완치자수": 1194
     },
     {
         "Name": "New Zealand",
