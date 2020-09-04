@@ -17,27 +17,27 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
-        "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
-        "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "도내 47번 확진자 접촉자 9명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
-    },
-    {
         "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
     },
     {
-        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
+        "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
+        "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
     },
     {
         "title": "코로나19 신규 확진 198명 발생… 지역사회 189명·해외유입 9명",
         "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1317199"
     },
     {
-        "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
+        "title": "도내 47번 확진자 접촉자 9명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
+    },
+    {
+        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
+    },
+    {
+        "title": "제주도 2차 긴급생활지원금, 신청접수 '순조'...5부제 조기 해제",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426425"
     }
 ];
