@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532606&ref=A"
     },
     {
-        "title": "[단독] 코로나로 멈췄던 JTBC '사생활', 촬영 재개...\"첫방 편성 논의 중\"",
-        "link": "http://www.xportsnews.com/?ac=article_view&entry_id=1321031"
+        "title": "전남 8월 한 달 간 103명 코로나 ‘확진’",
+        "link": "https://view.asiae.co.kr/article/2020090414284539490"
     }
 ];
