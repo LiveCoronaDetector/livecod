@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "Thailand managed 101 days without local coronavirus cases. Will it open borders soon?",
-        "link": "https://news.google.com/articles/CAIiENwJ9oWE6SJOcyoLHMR6iOwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
         "title": "Iraq may 'lose control' after record coronavirus cases: Live",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as nations race to develop vaccine",
-        "link": "https://news.google.com/articles/CAIiEIlWkBp2g1HvMh7VbXUHrI8qGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
     },
     {
         "title": "Live updates: Vaccine ‘possible but unlikely’ to be ready by November, adviser says",
         "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
-        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
+        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
+        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
     }
 ];

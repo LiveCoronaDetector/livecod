@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=329183"
     },
     {
-        "title": "제주도 48번째 확진자 발생…30번 환자와 접촉",
-        "link": "http://www.fnnews.com/news/202009050309089932"
-    },
-    {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
+    },
+    {
+        "title": "제주지역 코로나19 확진 환자 치료병상 확대",
+        "link": "https://hankookilbo.com/News/Read/A2020090413480005474?did=NA"
     }
 ];

@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
     },
     {
-        "title": "쿠팡, ‘확진자 발생’ 송파 1·2캠프 폐쇄",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532606&ref=A"
+        "title": "쿠팡 송파1·2배송캠프, 코로나19 확진자 발생으로 폐쇄",
+        "link": "https://www.ytn.co.kr/_ln/0102_202009042310236349"
     },
     {
         "title": "전남 8월 한 달 간 103명 코로나 ‘확진’",
