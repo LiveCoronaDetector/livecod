@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
-        "title": "Trump oversees economic deal that includes Kosovo recognizing Israel, Serbia moving embassy to Jerusalem",
-        "link": "https://www.foxnews.com/politics/trump-economic-serbia-kosovo-white-house"
+        "title": "Coronavirus: 'Scotland jumped the gun on Greece quarantine'",
+        "link": "https://www.bbc.com/news/uk-scotland-54020169"
     },
     {
         "title": "A second COVID-19 wave in Spain holds a warning for U.S.",

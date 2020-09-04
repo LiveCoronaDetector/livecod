@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
     },
     {
+        "title": "프랑스, 신규 확진자 9000명...코로나19 발발 이래 최악",
+        "link": "http://www.newsis.com/view/?id=NISX20200905_0001155481&cID=10101&pID=10100"
+    },
+    {
         "title": "쿠팡 송파1·2배송캠프, 코로나19 확진자 발생으로 폐쇄",
         "link": "https://www.ytn.co.kr/_ln/0102_202009042310236349"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
-    },
-    {
-        "title": "전남 8월 한 달 간 103명 코로나 ‘확진’",
-        "link": "https://view.asiae.co.kr/article/2020090414284539490"
     }
 ];
