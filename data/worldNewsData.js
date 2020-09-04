@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=scnShiL0FzU"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
+    },
+    {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
         "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
         "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
-    },
-    {
-        "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
-        "link": "https://www.youtube.com/watch?v=SKSLeIhYmUU"
     }
 ];

@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
     },
     {
+        "title": "코로나19 신규 확진 198명 발생… 지역사회 189명·해외유입 9명",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1317199"
+    },
+    {
         "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "9월 3일 수능 응시원서 접수 시작···자가격리자·확진자 대리제출 가능",
         "link": "https://www.sedaily.com/NewsView/1Z7OPX8059"
-    },
-    {
-        "title": "강남 아파트 등 집단감염↑...서울 확진자 다시 100명대",
-        "link": "http://www.fnnews.com/news/202009021144417201"
     }
 ];
