@@ -1249,20 +1249,20 @@ var marker = [
         "완치자수": 1091
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 1118,
+        "사망자수": 13,
+        "완치자수": 255
+    },
+    {
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
         "확진자수": 1111,
         "사망자수": 6,
         "완치자수": 359
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 1101,
-        "사망자수": 13,
-        "완치자수": 240
     },
     {
         "Name": "Lesotho",

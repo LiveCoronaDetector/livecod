@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "'Carelessness' blamed for Turkey's second coronavirus peak: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/turns-global-coronavirus-vaccine-effort-live-news-200902000127327.html"
+        "title": "Research shows Māori are more likely to die from COVID-19 than other New Zealanders",
+        "link": "https://theconversation.com/research-shows-maori-are-more-likely-to-die-from-covid-19-than-other-new-zealanders-145453"
     },
     {
         "title": "Europe pushed the limit of how far to reopen. Now it may be too late to prevent a second virus wave",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
-    },
-    {
-        "title": "Trump puts pressure on FDA for coronavirus silver bullet ahead of Election Day",
-        "link": "https://www.cnn.com/2020/09/03/politics/white-house-fda-coronavirus-vaccine/index.html"
+        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
+        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "September 3 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
-    },
-    {
         "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
         "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
+        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
+    },
+    {
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     }
 ];

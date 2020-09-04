@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/04/2020090400440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 신규 확진 이틀째 200명 아래 유지",
-        "link": "https://www.nocutnews.co.kr/news/5406744"
-    },
-    {
         "title": "코로나19 어제 198명 신규 확진…이틀째 200명 아래",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005964743&plink=ORI&cooper=NAVER"
     },
@@ -21,8 +17,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     },
     {
-        "title": "광주서 코로나19 확진자 7명 발생...누적 405명",
-        "link": "http://www.fnnews.com/news/202009040825562031"
+        "title": "코로나 신규 확진 이틀째 200명 아래 유지",
+        "link": "https://www.nocutnews.co.kr/news/5406744"
+    },
+    {
+        "title": "부산 기장군서 코로나19 확진자 1명 발생",
+        "link": "http://yna.kr/AKR20200904063100051?did=1195m"
     },
     {
         "title": "밀양, 대구 동충하초 관련 확진자 1명 발생(종합)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532291&ref=A"
     },
     {
-        "title": "거짓말 동선에 또 교회 감염, 광주 확진자 400명 넘어서",
-        "link": "http://yna.kr/AKR20200904026600054?did=1195m"
+        "title": "코로나 신규 확진 198명… 국내발생 189명·해외유입 9명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/04/2020090401095.html"
     }
 ];
