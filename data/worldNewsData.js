@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
-        "title": "'Carelessness' blamed for Turkey's second coronavirus peak: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/turns-global-coronavirus-vaccine-effort-live-news-200902000127327.html"
+        "title": "Coronavirus: Quarantine restrictions for travellers from Greece",
+        "link": "https://www.bbc.com/news/uk-scotland-53992742"
     },
     {
         "title": "A second COVID-19 wave in Spain holds a warning for U.S.",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Pfizer could have coronavirus vaccine trial results by next month",
-        "link": "https://www.youtube.com/watch?v=VgKGNOTMStI"
+        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
+        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     }
 ];
