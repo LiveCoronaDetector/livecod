@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
-        "title": "Coronavirus: Quarantine restrictions for travellers from Greece",
-        "link": "https://www.bbc.com/news/uk-scotland-53992742"
+        "title": "Coronavirus: England under pressure to impose Greece quarantine",
+        "link": "https://www.bbc.com/news/uk-53993399"
     },
     {
         "title": "A second COVID-19 wave in Spain holds a warning for U.S.",
@@ -18,15 +18,19 @@ var worldNewsData = [
     },
     {
         "title": "Thailand managed 101 days without local coronavirus cases. Will it open borders soon?",
-        "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
+        "link": "https://news.google.com/articles/CAIiENwJ9oWE6SJOcyoLHMR6iOwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Iraq reports over 5,000 coronavirus cases in a day: Live",
+        "title": "Iraq may 'lose control' after record coronavirus cases: Live",
         "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+    },
+    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as nations race to develop vaccine",
-        "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
+        "link": "https://news.google.com/articles/CAIiEIlWkBp2g1HvMh7VbXUHrI8qGQgEKhAIACoHCAow2Nb3CjDivdcCMMHF0wY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Live updates: Vaccine ‘possible but unlikely’ to be ready by November, adviser says",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
-    },
-    {
-        "title": "Dwayne 'The Rock' Johnson: Actor and family had Covid-19",
-        "link": "https://www.bbc.com/news/world-us-canada-54008181"
     }
 ];
