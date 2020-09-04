@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/04/2020090400947.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나 신규 확진 198명… 국내발생 189명·해외유입 9명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/04/2020090401095.html"
-    },
-    {
-        "title": "확진자 발생률 차이 뚜렷…서울에선 성북구 최다",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20200904003800038/?did=1825m"
-    },
-    {
-        "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",
-        "link": "http://www.etnews.com/20200903000241"
+        "title": "서울 내 코로나 확진자 발생률 1위는 '성북구'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/04/2020090400440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 신규 확진자 198명…총 2만842명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218242"
+    },
+    {
+        "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",
+        "link": "http://www.etnews.com/20200903000241"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5406742"
     },
     {
-        "title": "코로나19 신규확진 198명…이틀째 200명 아래 유지",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
+        "title": "확진자 발생률 차이 뚜렷…서울에선 성북구 최다",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200904003800038/?did=1825m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 195명…17일 만에 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009030933001&code=940601"
+        "title": "‘코로나19’ 신규 확진자 198명…이틀 연속 200명 아래",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532291&ref=A"
     },
     {
         "title": "서울 아산병원에서 코로나19 확진자 6명 발생...전공의 업무 복귀",
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
+    },
+    {
+        "title": "코로나19 신규확진 198명…이틀째 200명 아래 유지",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
     }
 ];

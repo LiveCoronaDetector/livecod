@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
     },
     {
+        "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
+    },
+    {
         "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530542&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, '2차 재난긴급 생활지원금' 현장접수",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350032"
-    },
-    {
-        "title": "9월 3일 수능 응시원서 접수 시작···자가격리자·확진자 대리제출 가능",
-        "link": "https://www.sedaily.com/NewsView/1Z7OPX8059"
     }
 ];
