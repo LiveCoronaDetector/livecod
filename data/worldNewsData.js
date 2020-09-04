@@ -2,15 +2,15 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
+        "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
         "title": "Wear a mask while having sex and avoid kissing new people, Canada's top doctor advises",
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "Coronavirus live news: Brazil cases pass 4m; Israel to impose partial lockdown",
-        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
+        "title": "'Carelessness' blamed for Turkey's second coronavirus peak: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/turns-global-coronavirus-vaccine-effort-live-news-200902000127327.html"
     },
     {
         "title": "Europe pushed the limit of how far to reopen. Now it may be too late to prevent a second virus wave",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Oxford Coronavirus Vaccine Enters Third And Final Phase In U.S. | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=7SRs-BGDnGw"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
+        "title": "Trump puts pressure on FDA for coronavirus silver bullet ahead of Election Day",
+        "link": "https://www.cnn.com/2020/09/03/politics/white-house-fda-coronavirus-vaccine/index.html"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
+        "title": "September 3 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-03-20-intl/index.html"
+    },
+    {
+        "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
+        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     }
 ];
