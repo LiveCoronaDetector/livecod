@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "Coronavirus live news: India cases top 80,000 for second day in a row; Israel to impose partial lockdown",
+        "title": "Coronavirus live news: Berlusconi hospitalised in Milan; India cases top 80,000 for second day in a row",
         "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+        "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
+        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
     },
     {
-        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
-        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
     }
 ];
