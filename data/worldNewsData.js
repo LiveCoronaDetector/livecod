@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "Oxford Coronavirus Vaccine Enters Third And Final Phase In U.S. | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=7SRs-BGDnGw"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
     },
     {
-        "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
-        "link": "https://www.youtube.com/watch?v=SKSLeIhYmUU"
+        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
+        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
     }
 ];
