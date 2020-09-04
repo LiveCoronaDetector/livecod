@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200903000241"
     },
     {
+        "title": "제주 48번째 코로나19 확진자 발생",
+        "link": "http://yna.kr/AKR20200904163800056?did=1195m"
+    },
+    {
         "title": "서울 지역 고열·기침 이송 환자 11.5%가 코로나19 확진자",
         "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
     },
     {
-        "title": "쿠팡 송파1·2배송캠프, 코로나19 확진자 발생으로 폐쇄",
-        "link": "http://yna.kr/AKR20200904135000030?did=1195m"
+        "title": "쿠팡, ‘확진자 발생’ 송파 1·2캠프 폐쇄",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532606&ref=A"
     },
     {
         "title": "[단독] 코로나로 멈췄던 JTBC '사생활', 촬영 재개...\"첫방 편성 논의 중\"",
         "link": "http://www.xportsnews.com/?ac=article_view&entry_id=1321031"
-    },
-    {
-        "title": "전남 8월 한 달 간 103명 코로나 ‘확진’",
-        "link": "https://view.asiae.co.kr/article/2020090414284539490"
     }
 ];

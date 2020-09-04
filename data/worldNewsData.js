@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
-        "title": "Alarm in Ankara as COVID-19 sweeps Turkish capital",
-        "link": "https://www.channelnewsasia.com/news/world/alarm-in-ankara-as-covid-19-sweeps-turkish-capital-13083424"
+        "title": "Coronavirus: 'Scotland jumped the gun on Greece quarantine'",
+        "link": "https://www.bbc.com/news/uk-scotland-54020169"
     },
     {
         "title": "Coronavirus: Italy ex-PM Berlusconi treated for pneumonia",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
-    },
-    {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
-        "link": "https://www.nature.com/articles/d41586-020-02507-x"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+    },
+    {
+        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
+        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
     },
     {
         "title": "Italy's Berlusconi hospitalised after positive coronavirus test",
