@@ -13,20 +13,16 @@ var worldNewsData = [
         "link": "https://www.huffpost.com/entry/former-italian-premier-silvio-berlusconi-tests-positive-for-covid_n_5f50aad4c5b6578026c9ae55"
     },
     {
-        "title": "Europe pushed the limit of how far to reopen. Now it may be too late to prevent a second virus wave",
-        "link": "https://www.cnn.com/2020/09/03/europe/europe-reopening-second-wave-intl/index.html"
+        "title": "Coronavirus: Italy ex-PM Silvio Berlusconi in hospital",
+        "link": "https://www.bbc.com/news/world-europe-54024269"
     },
     {
-        "title": "Italy's former PM Berlusconi tests positive for coronavirus",
-        "link": "https://www.youtube.com/watch?v=PcHZrNtxkTE"
+        "title": "The Latest: Senator says Berlusconi admitted to hospital",
+        "link": "https://www.wboy.com/news/health/the-latest-india-adds-another-83k-virus-cases-1000-deaths/"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
-    },
-    {
-        "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
-        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
+        "title": "Brazil's coronavirus cases top four million: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
     },
     {
         "title": "Berlusconi hospitalised after contracting virus",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
-        "link": "https://www.nature.com/articles/d41586-020-02507-x"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+    },
+    {
+        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
+        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
     }
 ];

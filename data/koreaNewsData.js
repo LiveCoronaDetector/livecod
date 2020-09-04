@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     },
     {
-        "title": "서울 지역 고열·기침 이송 환자 11.5%가 코로나19 확진자",
-        "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
-    },
-    {
-        "title": "코로나 확진 198명…이틀째 200명 아래(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/04/2020090400947.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "밀양, 대구 동충하초 관련 확진자 1명 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200904_0001154641&cID=10812&pID=10800"
-    },
-    {
         "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",
         "link": "http://www.etnews.com/20200903000241"
+    },
+    {
+        "title": "서울 지역 고열·기침 이송 환자 11.5%가 코로나19 확진자",
+        "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
     },
     {
         "title": "코로나19 확산에 전국 8천252개교 등교 못 해…연일 최다 기록",
         "link": "http://yna.kr/AKR20200904089400530?did=1195m"
     },
     {
+        "title": "밀양, 대구 동충하초 관련 확진자 1명 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200904_0001154641&cID=10812&pID=10800"
+    },
+    {
         "title": "‘코로나19’ 신규 확진자 198명…이틀 연속 200명 아래",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532291&ref=A"
+    },
+    {
+        "title": "[단독] 코로나로 멈췄던 JTBC '사생활', 촬영 재개...\"첫방 편성 논의 중\"",
+        "link": "http://www.xportsnews.com/?ac=article_view&entry_id=1321031"
     }
 ];
