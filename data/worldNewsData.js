@@ -2,42 +2,42 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
+        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hZnJpY2EtNTM5OTgzNzTSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWFmcmljYS01Mzk5ODM3NA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live news: no widespread vaccination until mid-2021, says WHO; Berlusconi hospitalised in Milan",
-        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
+        "title": "Key coronavirus forecast predicts over 410,000 total U.S. deaths by Jan. 1: 'The worst is yet to come'",
+        "link": "https://news.google.com/articles/CAIiEGGvtMaK5Q43WYDoMQHCnAIqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: UK split over Portugal quarantine rules",
-        "link": "https://www.bbc.com/news/uk-54010419"
+        "title": "Trump oversees economic deal that includes Kosovo recognizing Israel, Serbia moving embassy to Jerusalem",
+        "link": "https://news.google.com/articles/CAIiEIuRmMVGREpadFcafuwrnIQqGQgEKhAIACoHCAowwL2ICzCckocDMMaPqQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Italy ex-PM Berlusconi treated for pneumonia",
-        "link": "https://www.bbc.com/news/world-europe-54024269"
+        "title": "A second COVID-19 wave in Spain holds a warning for U.S.",
+        "link": "https://news.yahoo.com/a-covid-second-wave-in-spain-holds-a-warning-for-us-134312147.html"
     },
     {
         "title": "Thailand managed 101 days without local coronavirus cases. Will it open borders soon?",
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
-        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+        "title": "Coronavirus: Australia bans travel until December 17; South Korea extends restrictions",
+        "link": "https://www.scmp.com/news/asia/australasia/article/3100208/coronavirus-latest-australia-extends-international-travel-ban"
     },
     {
         "title": "Live updates: Fauci warns of a new ‘pandemic era’",
-        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
+        "link": "https://news.google.com/articles/CAIiEHf8qsVYFuXV0zMPUZ9n74AqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as nations race to develop vaccine",
+        "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
+    },
+    {
+        "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
+        "link": "https://www.cnbc.com/2020/09/04/who-says-widespread-coronavirus-vaccinations-are-not-expected-until-mid-2021-.html"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
-    },
-    {
-        "title": "Coronavirus update: Global cases climb above 26.3 million, and U.S. vaccine program head sees very low chance of vaccine by late October",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-cases-climb-above-263-million-and-us-vaccine-program-head-sees-very-low-chance-of-vaccine-by-late-october-2020-09-04"
     }
 ];
