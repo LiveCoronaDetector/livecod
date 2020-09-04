@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "Coronavirus live news: Brazil cases pass 4m; Israel to impose partial lockdown",
-        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
+        "title": "Cabinet to lock down 30 ‘red’ cities as virus spikes",
+        "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-convene-as-peak-3000-new-patients-are-diagnosed-640923"
     },
     {
         "title": "Europe pushed the limit of how far to reopen. Now it may be too late to prevent a second virus wave",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
-        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
         "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "Leader of U.S. vaccine push says he'll quit if politics trumps science",
-        "link": "https://www.sciencemag.org/news/2020/09/leader-us-vaccine-push-says-he-ll-quit-if-politics-trumps-science-approval-process"
+        "title": "Here's why it's unlikely we'll have a coronavirus vaccine by Election Day",
+        "link": "https://www.cnn.com/2020/09/03/health/coronavirus-vaccine-october-unlikely/index.html"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
+        "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
+        "link": "https://www.youtube.com/watch?v=SKSLeIhYmUU"
     }
 ];

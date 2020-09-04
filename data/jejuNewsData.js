@@ -5,8 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200904036700056?did=1195m"
     },
     {
-        "title": "제주도, \"온천발 n차 감염 막자\"…방문객 482명 검사",
-        "link": "http://www.fnnews.com/news/202009040910347603"
+        "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
+        "link": "http://www.fnnews.com/news/202009041443205501"
+    },
+    {
+        "title": "제주도, 산방산온천발 확진자 원천차단 위해 482명 검사 지원",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=329183"
     },
     {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
     },
     {
-        "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
-        "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "코로나19 신규 확진 198명 발생… 지역사회 189명·해외유입 9명",
         "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1317199"
     },
     {
-        "title": "도내 47번 확진자 접촉자 9명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
+        "title": "제주 헌팅포자 감성주점 등 코로나19 고강도 안전 점검",
+        "link": "https://www.pressian.com/pages/articles/2020090311382630842?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보]제주 47번째 코로나19 확진자 발생…울산 확진자 접촉",
-        "link": "https://www.news1.kr/articles/?4045238"
+        "title": "도내 47번 확진자 접촉자 9명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171031"
     }
 ];

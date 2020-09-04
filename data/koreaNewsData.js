@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005964743&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나19 신규확진 198명…이틀째 200명 아래 유지",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
+        "title": "부산 기장군서 코로나19 확진자 1명 발생",
+        "link": "http://yna.kr/AKR20200904063100051?did=1195m"
+    },
+    {
+        "title": "서울 신규 확진자 60명대 지속, 중증환자 병상 5개로 감소",
+        "link": "http://www.fnnews.com/news/202009041045283851"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     },
     {
+        "title": "코로나19 신규확진 198명…이틀째 200명 아래 유지",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
+    },
+    {
         "title": "코로나 신규 확진 이틀째 200명 아래 유지",
         "link": "https://www.nocutnews.co.kr/news/5406744"
-    },
-    {
-        "title": "[속보] 서울 확진자 이틀연속 70명대 미만…을지로 은행 관련 3명 등",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200904000330"
-    },
-    {
-        "title": "부산 기장군서 코로나19 확진자 1명 발생",
-        "link": "http://yna.kr/AKR20200904063100051?did=1195m"
     },
     {
         "title": "밀양, 대구 동충하초 관련 확진자 1명 발생(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200904_0001154641&cID=10812&pID=10800"
     },
     {
-        "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",
-        "link": "http://www.etnews.com/20200903000241"
+        "title": "‘코로나19’ 신규 확진자 198명…이틀 연속 200명 아래",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532291&ref=A"
     },
     {
-        "title": "(속보) 수원시, 코로나19 확진자 4명 발생",
-        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=210711"
+        "title": "[종합] 부산서 10명 추가 감염…확진자 나온 새부산병원 '발칵'",
+        "link": "http://www.newspim.com/news/view/20200904000442"
     }
 ];
