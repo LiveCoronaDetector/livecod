@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "Cabinet to lock down 30 ‘red’ cities as virus spikes",
-        "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-convene-as-peak-3000-new-patients-are-diagnosed-640923"
+        "title": "Coronavirus live news: Brazil cases pass 4m; Israel to impose partial lockdown",
+        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
         "title": "Covid-19 tracing apps 'may stem spread even with low uptake' – as it happened",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
+        "title": "Oxford Coronavirus Vaccine Enters Third And Final Phase In U.S. | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=7SRs-BGDnGw"
+    },
+    {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "Covid-19 Live Updates: Trump Administration Vaccine Chief Casts Doubt on Vaccine by Election Day",
-        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
-    },
-    {
-        "title": "U.S. says it won’t join WHO-linked effort to develop, distribute coronavirus vaccine",
-        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-trump/2020/09/01/b44b42be-e965-11ea-bf44-0d31c85838a5_story.html"
-    },
-    {
         "title": "'It's fear-mongering': Pregnant woman arrested over anti-lockdown FB post speaks out",
         "link": "https://www.youtube.com/watch?v=SKSLeIhYmUU"
+    },
+    {
+        "title": "Trump sets up fight with Congress over plan to cut dues to WHO immediately",
+        "link": "https://www.theguardian.com/world/2020/sep/02/world-health-organization-trump-administration-us-who-dues"
     }
 ];

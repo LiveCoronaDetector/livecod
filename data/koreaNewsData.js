@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200903000241"
     },
     {
-        "title": "서울 아산병원에서 코로나19 확진자 6명 발생...전공의 업무 복귀",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
-    },
-    {
         "title": "서울 내 코로나 확진자 발생률 1위는 '성북구'",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/04/2020090400440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "서울 아산병원에서 코로나19 확진자 6명 발생...전공의 업무 복귀",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
     },
     {
         "title": "코로나 치료 받다 ‘탈출’···50대 확진자 CCTV로 잡혔다",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5898120_32524.html"
     },
     {
-        "title": "국회 코로나19 확진자 또 발생..국민의힘 당직자",
-        "link": "http://www.fnnews.com/news/202009031356068021"
+        "title": "코로나19 신규확진자 195명…위·중증 환자 급증 우려",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4531530&ref=A"
     }
 ];
