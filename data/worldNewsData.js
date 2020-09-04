@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus live news: Berlusconi hospitalised in Milan; India cases top 80,000 for second day in a row",
-        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
+        "title": "Former Italian Premier Silvio Berlusconi Tests Positive For COVID",
+        "link": "https://www.huffpost.com/entry/former-italian-premier-silvio-berlusconi-tests-positive-for-covid_n_5f50aad4c5b6578026c9ae55"
     },
     {
         "title": "Europe pushed the limit of how far to reopen. Now it may be too late to prevent a second virus wave",
         "link": "https://www.cnn.com/2020/09/03/europe/europe-reopening-second-wave-intl/index.html"
     },
     {
-        "title": "Thailand managed 101 days without local coronavirus cases. Will it open borders soon?",
-        "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
+        "title": "Italy's former PM Berlusconi tests positive for coronavirus",
+        "link": "https://www.youtube.com/watch?v=PcHZrNtxkTE"
     },
     {
         "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
-        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
-    },
-    {
         "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
         "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+        "title": "Berlusconi hospitalised after contracting virus",
+        "link": "https://www.bangkokpost.com/world/1980015/berlusconi-hospitalised-after-contracting-virus"
     },
     {
-        "title": "Covid-19 Pandemic Ravages World’s Largest Developing Economies",
-        "link": "https://www.wsj.com/articles/covid-19-pandemic-ravages-worlds-largest-developing-economies-11599171833"
+        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
+        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
+    },
+    {
+        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
+        "link": "https://www.nature.com/articles/d41586-020-02507-x"
     }
 ];
