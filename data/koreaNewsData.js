@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
-    },
-    {
         "title": "코로나 신규 확진 198명… 국내발생 189명·해외유입 9명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/04/2020090401095.html"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "쿠팡 송파1·2배송캠프, 코로나19 확진자 발생으로 폐쇄",
         "link": "https://www.ytn.co.kr/_ln/0102_202009042310236349"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     },
     {
         "title": "전남 8월 한 달 간 103명 코로나 ‘확진’",

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
-        "title": "Coronavirus: England under pressure to impose Greece quarantine",
-        "link": "https://www.bbc.com/news/uk-53993399"
+        "title": "Trump oversees economic deal that includes Kosovo recognizing Israel, Serbia moving embassy to Jerusalem",
+        "link": "https://www.foxnews.com/politics/trump-economic-serbia-kosovo-white-house"
     },
     {
         "title": "A second COVID-19 wave in Spain holds a warning for U.S.",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Iraq may 'lose control' after record coronavirus cases: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
+        "title": "Coronavirus: Australia bans travel until December 17; South Korea extends restrictions",
+        "link": "https://www.scmp.com/news/asia/australasia/article/3100208/coronavirus-latest-australia-extends-international-travel-ban"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,7 +33,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
     },
     {
-        "title": "Live updates: Vaccine ‘possible but unlikely’ to be ready by November, adviser says",
+        "title": "Live updates: Vaccine ‘possible but very unlikely’ to be ready by November, health official says",
         "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     },
     {
