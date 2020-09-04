@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5406744"
     },
     {
+        "title": "[속보] 서울 확진자 이틀연속 70명대 미만…을지로 은행 관련 3명 등",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200904000330"
+    },
+    {
         "title": "부산 기장군서 코로나19 확진자 1명 발생",
         "link": "http://yna.kr/AKR20200904063100051?did=1195m"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200903000241"
     },
     {
-        "title": "‘코로나19’ 신규 확진자 198명…이틀 연속 200명 아래",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532291&ref=A"
-    },
-    {
-        "title": "코로나 신규 확진 198명… 국내발생 189명·해외유입 9명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/04/2020090401095.html"
+        "title": "(속보) 수원시, 코로나19 확진자 4명 발생",
+        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=210711"
     }
 ];

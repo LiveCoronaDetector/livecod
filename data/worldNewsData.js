@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/03/health/coronavirus-masks-sex-canada-trnd/index.html"
     },
     {
-        "title": "Research shows Māori are more likely to die from COVID-19 than other New Zealanders",
-        "link": "https://theconversation.com/research-shows-maori-are-more-likely-to-die-from-covid-19-than-other-new-zealanders-145453"
+        "title": "Coronavirus live news: Brazil cases pass 4m; Israel to impose partial lockdown",
+        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
         "title": "Europe pushed the limit of how far to reopen. Now it may be too late to prevent a second virus wave",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
     },
     {
-        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
-        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
-    },
-    {
         "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
         "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
-        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
+        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
+        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
+    },
+    {
+        "title": "Leader of U.S. vaccine push says he'll quit if politics trumps science",
+        "link": "https://www.sciencemag.org/news/2020/09/leader-us-vaccine-push-says-he-ll-quit-if-politics-trumps-science-approval-process"
     },
     {
         "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
