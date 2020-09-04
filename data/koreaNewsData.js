@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/04/2020090400947.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "확진자 발생률 차이 뚜렷…서울에선 성북구 최다",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20200904003800038/?did=1825m"
-    },
-    {
         "title": "코로나19 어제 198명 신규 확진…이틀째 200명 아래",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005964743&plink=ORI&cooper=NAVER"
     },
@@ -29,12 +25,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009041045283851"
     },
     {
-        "title": "부천서 확진자 가족 등 60대 3명 추가 양성(종합)",
-        "link": "http://yna.kr/AKR20200904061251065?did=1195m"
-    },
-    {
         "title": "밀양, 대구 동충하초 관련 확진자 1명 발생(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200904_0001154641&cID=10812&pID=10800"
+    },
+    {
+        "title": "확진자 발생률 차이 뚜렷…서울에선 성북구 최다",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200904003800038/?did=1825m"
+    },
+    {
+        "title": "부천서 확진자 가족 등 60대 3명 추가 양성(종합)",
+        "link": "http://yna.kr/AKR20200904061251065?did=1195m"
     },
     {
         "title": "쿠팡 군포 캠프, 코로나19 확진자 1명 발생",

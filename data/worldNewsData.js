@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
+        "title": "Pregnant Australian mother cuffed after she advocates against coronavirus lockdown",
+        "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
     },
     {
         "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
         "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     },
     {
+        "title": "Here's why it's unlikely we'll have a coronavirus vaccine by Election Day",
+        "link": "https://www.cnn.com/2020/09/03/health/coronavirus-vaccine-october-unlikely/index.html"
+    },
+    {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "With 1,000 Student Infections, U. of South Carolina Urges Vigilance",
-        "link": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+        "title": "Dwayne 'The Rock' Johnson: Actor and family had Covid-19",
+        "link": "https://www.bbc.com/news/world-us-canada-54008181"
     }
 ];
