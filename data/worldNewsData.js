@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54024269"
     },
     {
-        "title": "The Latest: Senator says Berlusconi admitted to hospital",
-        "link": "https://www.wboy.com/news/health/the-latest-india-adds-another-83k-virus-cases-1000-deaths/"
-    },
-    {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
-    },
-    {
         "title": "Former Italian Premier Silvio Berlusconi Tests Positive For COVID",
         "link": "https://www.huffpost.com/entry/former-italian-premier-silvio-berlusconi-tests-positive-for-covid_n_5f50aad4c5b6578026c9ae55"
     },
     {
-        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
-        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
+        "title": "Wide coronavirus vaccination not till mid-2021, WHO says: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
     },
     {
-        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
-        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
+        "title": "Italy's Berlusconi taken to hospital after positive coronavirus test",
+        "link": "https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy93b3JsZC9pdGFseXMtYmVybHVzY29uaS10YWtlbi10by1ob3NwaXRhbC1hZnRlci1wb3NpdGl2ZS1jb3JvbmF2aXJ1cy10ZXN0L2FyLUJCMThIc3c50gEA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTA0LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0wNC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
+        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
+    },
+    {
+        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
+        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     }
 ];

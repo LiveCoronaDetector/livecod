@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
     },
     {
-        "title": "‘코로나19’ 신규 확진자 198명…이틀 연속 200명 아래",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532291&ref=A"
+        "title": "쿠팡, 송파2 캠프서 코로나19 확진자 1명 발생",
+        "link": "https://view.asiae.co.kr/article/2020090416500442039"
     }
 ];
