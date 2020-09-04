@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
-        "title": "Coronavirus: 'Scotland jumped the gun on Greece quarantine'",
-        "link": "https://www.bbc.com/news/uk-scotland-54020169"
+        "title": "UAE deal shows Arab-Israel conflict starting to come apart before our eyes",
+        "link": "https://www.timesofisrael.com/uae-deal-shows-arab-israel-conflict-starting-to-come-apart-before-our-eyes/"
     },
     {
         "title": "Coronavirus: Italy ex-PM Berlusconi treated for pneumonia",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
-        "link": "https://www.nbcnews.com/politics/white-house/u-s-opts-out-who-linked-global-covid-19-vaccine-n1239218"
+        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
+        "link": "https://www.nature.com/articles/d41586-020-02507-x"
     },
     {
-        "title": "Italy's Berlusconi hospitalised after positive coronavirus test",
-        "link": "https://www.msn.com/en-us/news/world/italys-berlusconi-hospitalised-after-positive-coronavirus-test/ar-BB18Hsw9"
+        "title": "Dwayne 'The Rock' Johnson: Actor and family had Covid-19",
+        "link": "https://www.bbc.com/news/world-us-canada-54008181"
     }
 ];
