@@ -9,24 +9,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+        "title": "Alarm in Ankara as COVID-19 sweeps Turkish capital",
+        "link": "https://www.channelnewsasia.com/news/world/alarm-in-ankara-as-covid-19-sweeps-turkish-capital-13083424"
     },
     {
         "title": "Coronavirus: Italy ex-PM Berlusconi treated for pneumonia",
         "link": "https://www.bbc.com/news/world-europe-54024269"
     },
     {
-        "title": "Pa. reports more than 1100 cases of COVID-19, 20 more deaths",
-        "link": "https://www.wfmz.com/health/coronavirus/pa-reports-more-than-1-100-cases-of-covid-19-20-more-deaths/article_a57fe3d2-ee12-11ea-b73e-0facc33c5968.html"
+        "title": "Thailand managed 101 days without local coronavirus cases. Will it open borders soon?",
+        "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Wide coronavirus vaccination not till mid-2021, WHO says: Live",
+        "title": "Wide coronavirus vaccination not till mid-2021, says WHO: Live",
         "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
-    },
-    {
-        "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
-        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
-        "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
-        "link": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL3doaXRlLWhvdXNlL3Utcy1vcHRzLW91dC13aG8tbGlua2VkLWdsb2JhbC1jb3ZpZC0xOS12YWNjaW5lLW4xMjM5MjE40gEsaHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvbmNuYTEyMzkyMTg?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
+        "link": "https://www.nature.com/articles/d41586-020-02507-x"
+    },
+    {
+        "title": "Italy's Berlusconi hospitalised after positive coronavirus test",
+        "link": "https://www.msn.com/en-us/news/world/italys-berlusconi-hospitalised-after-positive-coronavirus-test/ar-BB18Hsw9"
     }
 ];

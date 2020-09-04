@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
     },
     {
-        "title": "[속보] 제주 48번째 코로나 확진자 발생…자가격리 중 확진",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171110"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "쿠팡, 송파2 캠프서 코로나19 확진자 1명 발생",
         "link": "https://view.asiae.co.kr/article/2020090416500442039"
+    },
+    {
+        "title": "코로나19 확산에 전국 8천252개교 등교 못 해…연일 최다 기록",
+        "link": "http://yna.kr/AKR20200904089400530?did=1195m"
     }
 ];
