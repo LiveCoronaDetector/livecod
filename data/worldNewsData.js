@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/pregnant-australian-mother-handcuffed-after-allegedly-advocating-against-coronavirus-lockdown"
     },
     {
-        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
-        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as nations race to develop vaccine",
+        "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
+        "title": "State Department announces 'next steps' in withdrawal from World Health Organization",
+        "link": "https://www.foxnews.com/politics/state-dept-next-steps-withdrawal-world-health-organization"
     },
     {
         "title": "U.S. opts out of WHO-linked global COVID-19 vaccine effort",
