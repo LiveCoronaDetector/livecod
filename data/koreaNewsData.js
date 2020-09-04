@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
     },
     {
-        "title": "쿠팡, ‘확진자 발생’ 송파 1·2캠프 폐쇄",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532606&ref=A"
+        "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     }
 ];

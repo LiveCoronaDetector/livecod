@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090200333932272?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
-    },
-    {
         "title": "제주지역 코로나19 확진 환자 치료병상 확대",
         "link": "https://hankookilbo.com/News/Read/A2020090413480005474?did=NA"
+    },
+    {
+        "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
     }
 ];

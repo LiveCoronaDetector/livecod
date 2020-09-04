@@ -2,15 +2,15 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hZnJpY2EtNTM5OTgzNzTSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWFmcmljYS01Mzk5ODM3NA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
         "title": "Key coronavirus forecast predicts over 410,000 total U.S. deaths by Jan. 1: 'The worst is yet to come'",
         "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
-        "title": "Coronavirus: Quarantine restrictions for travellers from Greece",
-        "link": "https://www.bbc.com/news/uk-scotland-53992742"
+        "title": "Coronavirus: 'Scotland jumped the gun on Greece quarantine'",
+        "link": "https://www.bbc.com/news/uk-scotland-54020169"
     },
     {
         "title": "A second COVID-19 wave in Spain holds a warning for U.S.",
