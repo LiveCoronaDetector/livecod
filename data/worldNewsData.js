@@ -6,35 +6,35 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live news: no widespread vaccination until mid-2021, says WHO; Berlusconi hospitalised in Milan",
-        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
+        "link": "https://news.google.com/articles/CAIiELDpCqO3NmE1d276VhaseVgqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Italy's Berlusconi hospitalised after positive coronavirus test",
-        "link": "https://www.msn.com/en-us/news/world/italys-berlusconi-hospitalised-after-positive-coronavirus-test/ar-BB18Hsw9"
+        "title": "Pa. reports more than 1100 cases of COVID-19, 20 more deaths",
+        "link": "https://www.wfmz.com/health/coronavirus/pa-reports-more-than-1-100-cases-of-covid-19-20-more-deaths/article_a57fe3d2-ee12-11ea-b73e-0facc33c5968.html"
     },
     {
         "title": "Coronavirus: Italy ex-PM Berlusconi treated for pneumonia",
         "link": "https://www.bbc.com/news/world-europe-54024269"
     },
     {
-        "title": "Former Italian Premier Silvio Berlusconi Tests Positive For COVID",
-        "link": "https://www.huffpost.com/entry/former-italian-premier-silvio-berlusconi-tests-positive-for-covid_n_5f50aad4c5b6578026c9ae55"
+        "title": "Arizona reports 1,091 new coronavirus cases, 65 additional deaths",
+        "link": "https://ktar.com/story/3542858/arizona-reports-1091-new-coronavirus-cases-65-additional-deaths/"
     },
     {
-        "title": "Wide coronavirus vaccination not till mid-2021, WHO says: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
-    },
-    {
-        "title": "Italy's Berlusconi taken to hospital after positive coronavirus test",
-        "link": "https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy93b3JsZC9pdGFseXMtYmVybHVzY29uaS10YWtlbi10by1ob3NwaXRhbC1hZnRlci1wb3NpdGl2ZS1jb3JvbmF2aXJ1cy10ZXN0L2FyLUJCMThIc3c50gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Mexico has world's most health worker deaths from pandemic, Amnesty International says",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-mexico-amnesty/mexico-has-worlds-most-health-worker-deaths-from-pandemic-amnesty-international-idUSKBN25U35G"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTA0LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0wNC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
     },
     {
-        "title": "Trump Vaccine Chief Casts Doubt on Coronavirus Vaccine by Election Day",
-        "link": "https://www.nytimes.com/2020/09/03/world/covid-coronavirus.html"
+        "title": "Live updates: Coronavirus should force rethink on how we live in new ‘pandemic era,’ Fauci warns",
+        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Another death reported as virus cases climb",
+        "link": "https://news.google.com/articles/CBMieGh0dHBzOi8vbW9yZ2FudG9uLmNvbS9uZXdzL2Fub3RoZXItZGVhdGgtcmVwb3J0ZWQtYXMtdmlydXMtY2FzZXMtY2xpbWIvYXJ0aWNsZV83ZWRhODVkMC1lZTIwLTExZWEtYjA0MS04ZmQ5MzA3MThlOWQuaHRtbNIBfGh0dHBzOi8vbW9yZ2FudG9uLmNvbS9uZXdzL2Fub3RoZXItZGVhdGgtcmVwb3J0ZWQtYXMtdmlydXMtY2FzZXMtY2xpbWIvYXJ0aWNsZV83ZWRhODVkMC1lZTIwLTExZWEtYjA0MS04ZmQ5MzA3MThlOWQuYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "State Department announces 'next steps' in withdrawal from World Health Organization",

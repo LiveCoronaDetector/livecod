@@ -13,6 +13,14 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
     },
     {
+        "title": "서울 지역 고열·기침 이송 환자 11.5%가 코로나19 확진자",
+        "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
+    },
+    {
+        "title": "[단독] 코로나로 멈췄던 JTBC '사생활', 촬영 재개...\"첫방 편성 논의 중\"",
+        "link": "http://www.xportsnews.com/?ac=article_view&entry_id=1321031"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     },
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://www.etnews.com/20200903000241"
     },
     {
-        "title": "서울 지역 고열·기침 이송 환자 11.5%가 코로나19 확진자",
-        "link": "http://www.segye.com/content/html/2020/09/04/20200904509124.html?OutUrl=naver"
-    },
-    {
         "title": "코로나19 확산에 전국 8천252개교 등교 못 해…연일 최다 기록",
         "link": "http://yna.kr/AKR20200904089400530?did=1195m"
     },
     {
         "title": "서울 아산병원에서 코로나19 확진자 6명 발생...전공의 업무 복귀",
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
-    },
-    {
-        "title": "쿠팡, 송파2 캠프서 코로나19 확진자 1명 발생",
-        "link": "https://view.asiae.co.kr/article/2020090416500442039"
     }
 ];
