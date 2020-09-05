@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
     },
     {
-        "title": "Melbourne anti-coronavirus lockdown protest turns violent: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/coronavirus-model-forecasts-19-million-deaths-2020-live-200905003313705.html"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
+        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     },
     {
-        "title": "Covid-19 Live Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as nations race to develop vaccine",
+        "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
     }
 ];
