@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
+        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hZnJpY2EtNTM5OTgzNzTSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWFmcmljYS01Mzk5ODM3NA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Key coronavirus forecast predicts over 410,000 total U.S. deaths by Jan. 1: 'The worst is yet to come'",
@@ -18,19 +18,19 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus Shatters India's Economy",
-        "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
+        "link": "https://news.google.com/articles/CAIiEGWDVHEbZmmwZZq1j_aYXNkqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
-    },
-    {
         "title": "Coronavirus updates: Latest news on the global pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/h_e2022a616e9936fccf97e4edc28e4de3"
+    },
+    {
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
         "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
