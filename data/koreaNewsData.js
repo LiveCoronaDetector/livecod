@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/960856.html"
     },
     {
-        "title": "[속보] 전북 임실서 2번째 확진자 발생…수도권발 n차",
-        "link": "https://www.news1.kr/articles/?4049246"
-    },
-    {
         "title": "[속보] 서울 확진자 51명···22일 만에 50명대로 줄어",
         "link": "https://www.sedaily.com/NewsView/1Z7QKOHDAY"
+    },
+    {
+        "title": "[속보] 전북 임실서 2번째 확진자 발생…수도권발 n차",
+        "link": "https://www.news1.kr/articles/?4049246"
     },
     {
         "title": "부산 코로나19 확진자 2명 추가… 샤이나 오피스텔 2층 방문",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966290&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[전문] 용인시청 323번째 확진자 발생...유방동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=379131"
+        "title": "대전서 직원 확진자 나온 요양병원 환자 등 303명 전수 검사(종합)",
+        "link": "http://yna.kr/AKR20200905026851063?did=1195m"
     }
 ];

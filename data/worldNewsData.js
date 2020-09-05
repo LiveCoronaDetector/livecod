@@ -17,19 +17,19 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/a-covid-second-wave-in-spain-holds-a-warning-for-us-134312147.html"
     },
     {
-        "title": "Thailand managed 101 days without local coronavirus cases. Will it open borders soon?",
-        "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
+        "title": "India logs record 83,883 Covid-19 cases in day",
+        "link": "https://www.theguardian.com/world/2020/sep/03/india-record-83883-covid-19-cases-in-day"
     },
     {
-        "title": "Coronavirus: Australia bans travel until December 17; South Korea extends restrictions",
-        "link": "https://www.scmp.com/news/asia/australasia/article/3100208/coronavirus-latest-australia-extends-international-travel-ban"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus updates: Latest news on the global pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
     },
     {
