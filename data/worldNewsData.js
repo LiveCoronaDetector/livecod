@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/israel-reportedly-leading-world-in-new-coronavirus-infections-per-capita-641122"
     },
     {
-        "title": "A second COVID-19 wave in Spain holds a warning for U.S.",
-        "link": "https://news.yahoo.com/a-covid-second-wave-in-spain-holds-a-warning-for-us-134312147.html"
+        "title": "Germany's virus response won plaudits. But protests over vaccines and masks show it's a victim of its own success",
+        "link": "https://www.cnn.com/2020/09/05/europe/germany-virus-response-victim-of-own-success-intl/index.html"
     },
     {
         "title": "Coronavirus Shatters India's Economy",
         "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
     },
     {
-        "title": "Iraq may 'lose control' after record coronavirus cases: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "Russia's Covid-19 vaccine generated an immune response, study says",
+        "link": "https://www.cnn.com/2020/09/04/health/russia-vaccine-immune-response-intl/index.html"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
-        "link": "https://www.cnbc.com/2020/09/04/who-says-widespread-coronavirus-vaccinations-are-not-expected-until-mid-2021-.html"
+        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
+        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     },
     {
-        "title": "Live updates: Trump contradicts coronavirus project chief on when vaccine could be ready",
-        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
+        "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
+        "link": "https://www.cnbc.com/2020/09/04/who-says-widespread-coronavirus-vaccinations-are-not-expected-until-mid-2021-.html"
     }
 ];
