@@ -17,12 +17,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/960856.html"
     },
     {
+        "title": "박능후 ″확진자 감소 추세지만 안심 단계 아냐″",
+        "link": "http://www.fnnews.com/news/202009050917272282"
+    },
+    {
         "title": "[종합] 임실군, 코로나19 확진자 발생 고강도 비상체제 돌입",
         "link": "http://www.domin.co.kr/news/articleView.html?idxno=1308380"
     },
     {
-        "title": "[속보] 전북 90번째 확진자 …임실 89번 확진자와 식사해 감염",
-        "link": "http://www.fnnews.com/news/202009050952494839"
+        "title": "임실서 '코로나19' 확진자 또 발생...전북 90번째",
+        "link": "https://www.pressian.com/pages/articles/2020090510354430304?utm_source=naver&utm_medium=search"
     },
     {
         "title": "코로나 신규확진 168명…사흘째 100명대(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진 168명...사흘 연속 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009050948001&code=940601"
-    },
-    {
-        "title": "[속보] 서울 확진자 51명···22일 만에 50명대로 줄어",
-        "link": "https://www.sedaily.com/NewsView/1Z7QKOHDAY"
     }
 ];
