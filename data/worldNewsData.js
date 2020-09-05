@@ -22,7 +22,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
-        "link": "https://news.yahoo.com/coronavirus-arrests-australia-anti-lockdown-111702790.html"
+        "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
-        "link": "https://www.bbc.com/news/world-australia-54040278"
+        "title": "Melbourne anti-coronavirus lockdown protest turns violent: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/coronavirus-model-forecasts-19-million-deaths-2020-live-200905003313705.html"
     },
     {
         "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
