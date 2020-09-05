@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200904036700056?did=1195m"
     },
     {
-        "title": "코로나19 제주 48번째 확진자 발생…JDC 직원 접촉자",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4533118&ref=A"
-    },
-    {
         "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
         "link": "http://www.fnnews.com/news/202009041443205501"
     },
     {
         "title": "\"추석에 오지 말래요\"…코로나 확산에 고향길도 고민",
         "link": "http://www.newsis.com/view/?id=NISX20200904_0001154714&cID=10201&pID=10200"
+    },
+    {
+        "title": "제주 48번 코로나19 확진자 발생",
+        "link": "https://jejumbc.com/article/jdqPVKRiXBdzDj"
     },
     {
         "title": "제주도, 코로나19 치료병상 확대 운영",
