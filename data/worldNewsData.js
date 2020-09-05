@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
     },
     {
-        "title": "Covid-19 Live Updates: Latest News and Analysis",
-        "link": "https://www.nytimes.com/2020/09/05/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
         "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
+    },
+    {
+        "title": "Covid-19 Live Updates: Northeastern University Dismisses 11 Students for Partying But Keeps Their Tuition",
+        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     }
 ];
