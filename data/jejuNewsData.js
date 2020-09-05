@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=329183"
     },
     {
+        "title": "[케이스 스터디] 3억! 200억! 코로나 구상권 영수증 두렵지도 않으세요?",
+        "link": "https://hankookilbo.com/News/Read/A2020090313420004692?did=NA"
+    },
+    {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     },
     {
         "title": "확진자 늘어난 제주 코로나19 치료병상 확대",
         "link": "https://www.nocutnews.co.kr/news/5406494"
-    },
-    {
-        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
     }
 ];

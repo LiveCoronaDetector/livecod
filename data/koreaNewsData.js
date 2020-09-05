@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200905026500001?did=1195m"
     },
     {
-        "title": "[속보] 서울 확진자 51명···22일 만에 50명대로 줄어",
-        "link": "https://www.sedaily.com/NewsView/1Z7QKOHDAY"
-    },
-    {
         "title": "코로나19 광화문 집회 관련 총 510명 확진…방역당국 “집단감염 막아야”",
         "link": "http://www.hani.co.kr/arti/society/society_general/960870.html"
     },
@@ -21,12 +17,16 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5899752_32633.html"
     },
     {
-        "title": "박능후 ″확진자 감소 추세지만 안심 단계 아냐″",
-        "link": "http://www.fnnews.com/news/202009050917272282"
+        "title": "[속보] 서울 확진자 51명···22일 만에 50명대로 줄어",
+        "link": "https://www.sedaily.com/NewsView/1Z7QKOHDAY"
     },
     {
         "title": "‘코로나19’ 신규 확진자 168명…서울 51명·경기 47명·인천 14명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532991&ref=A"
+    },
+    {
+        "title": "[속보] 부산 확진자 2명 추가, 오피스텔 관련 사흘새 19명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020090514560678649"
     },
     {
         "title": "중환자·깜깜이 확진자 감소…당국 \"긍정적이지만 더 줄여야\"",
