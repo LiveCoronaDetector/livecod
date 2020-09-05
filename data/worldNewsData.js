@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hZnJpY2EtNTM5OTgzNzTSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWFmcmljYS01Mzk5ODM3NA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
         "title": "Key coronavirus forecast predicts over 410,000 total U.S. deaths by Jan. 1: 'The worst is yet to come'",
@@ -18,26 +18,26 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus Shatters India's Economy",
-        "link": "https://news.google.com/articles/CAIiEGWDVHEbZmmwZZq1j_aYXNkqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
     },
     {
         "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Coronavirus updates: Latest news on the global pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/h_e2022a616e9936fccf97e4edc28e4de3"
-    },
-    {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
-        "link": "https://www.cnbc.com/2020/09/04/who-says-widespread-coronavirus-vaccinations-are-not-expected-until-mid-2021-.html"
+        "title": "Russia vaccine 'passes early trial test' | Covid-19 | Vaccine | WION | Coronavirus",
+        "link": "https://www.youtube.com/watch?v=FWgE3up-zT4"
     },
     {
-        "title": "Live updates: Trump contradicts coronavirus project chief on when vaccine could be ready",
-        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as nations race to develop vaccine",
+        "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
+    },
+    {
+        "title": "Cook Islands former PM dies of coronavirus in New Zealand",
+        "link": "https://www.theguardian.com/world/2020/sep/05/cook-islands-former-pm-dies-of-coronavirus-in-new-zealand"
     }
 ];
