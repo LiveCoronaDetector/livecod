@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: Australia bans travel until December 17; South Korea extends restrictions",
-        "link": "https://www.scmp.com/news/asia/australasia/article/3100208/coronavirus-latest-australia-extends-international-travel-ban"
+        "title": "Iraq may 'lose control' after record coronavirus cases: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",

@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
     },
     {
+        "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
+    },
+    {
         "title": "프랑스, 신규 확진자 9000명...코로나19 발발 이래 최악",
         "link": "http://www.newsis.com/view/?id=NISX20200905_0001155481&cID=10101&pID=10100"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "서울 아산병원에서 코로나19 확진자 6명 발생...전공의 업무 복귀",
         "link": "https://www.ytn.co.kr/_ln/0103_202009031318052216"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 198명…이틀 연속 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009040936001&code=940601"
     }
 ];
