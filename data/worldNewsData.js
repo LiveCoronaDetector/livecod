@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Russia's Covid-19 vaccine generated an immune response, study says",
-        "link": "https://www.cnn.com/2020/09/04/health/russia-vaccine-immune-response-intl/index.html"
+        "title": "Coronavirus: Russian vaccine shows signs of immune response",
+        "link": "https://www.bbc.com/news/world-europe-54036221"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
