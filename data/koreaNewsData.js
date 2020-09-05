@@ -5,24 +5,28 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/05/2020090500454.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규확진 168명…국내 발생 158명",
-        "link": "http://www.hani.co.kr/arti/society/society_general/960856.html"
-    },
-    {
         "title": "코로나19 신규 확진 168명…사흘째 100명대",
         "link": "https://imnews.imbc.com/news/2020/society/article/5899752_32633.html"
     },
     {
-        "title": "박능후 \"확진자 200명 내외로 감소추세지만 안심할 단계 아냐\"",
-        "link": "http://yna.kr/AKR20200905021500530?did=1195m"
+        "title": "[속보] 서울 확진자 51명···22일 만에 50명대로 줄어",
+        "link": "https://www.sedaily.com/NewsView/1Z7QKOHDAY"
     },
     {
         "title": "‘코로나19’ 신규 확진자 168명…서울 51명·경기 47명·인천 14명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532991&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 168명...3일째 100명대",
-        "link": "http://www.sportsseoul.com/news/read/955007?ref=naver"
+        "title": "[속보] 전북 임실서 2번째 확진자 발생…수도권발 n차",
+        "link": "https://www.news1.kr/articles/?4049246"
+    },
+    {
+        "title": "박능후 \"확진자 200명 내외로 감소추세지만 안심할 단계 아냐\"",
+        "link": "http://yna.kr/AKR20200905021500530?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 168명...사흘 연속 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009050948001&code=940601"
     },
     {
         "title": "코로나19 어제 198명 신규 확진…이틀째 200명 아래",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진 168명...국내발생 158명, 해외유입 10명",
         "link": "https://www.ytn.co.kr/_ln/0103_202009051000283350"
-    },
-    {
-        "title": "코로나19 신규확진 198명…이틀째 200명 아래 유지",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5898600_32633.html"
     }
 ];

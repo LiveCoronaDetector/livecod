@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: Australia bans travel until December 17; South Korea extends restrictions",
-        "link": "https://www.scmp.com/news/asia/australasia/article/3100208/coronavirus-latest-australia-extends-international-travel-ban"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
-        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
+        "title": "Six out of 10 countries with highest national debt-to-GDP ratio are EU nations",
+        "link": "https://www.ghanaweb.com/GhanaHomePage/business/Six-out-of-10-countries-with-highest-national-debt-to-GDP-ratio-are-EU-nations-1051678"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
