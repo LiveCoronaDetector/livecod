@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/a-covid-second-wave-in-spain-holds-a-warning-for-us-134312147.html"
     },
     {
-        "title": "Coronavirus live news: India cases pass 4m; anti-lockdown protesters arrested in Victoria",
-        "link": "https://www.theguardian.com/world/live/2020/sep/05/coronavirus-live-news-iraq-hospitals-in-crisis-as-anti-lockdown-rallies-loom-in-victoria"
+        "title": "Coronavirus Shatters India's Economy",
+        "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
     },
     {
         "title": "Iraq may 'lose control' after record coronavirus cases: Live",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/who-says-widespread-coronavirus-vaccinations-are-not-expected-until-mid-2021-.html"
     },
     {
-        "title": "Coronavirus updates: Latest news on the global pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/h_d62d1896025619130fb110986abb1ffb"
+        "title": "Live updates: Trump contradicts coronavirus project chief on when vaccine could be ready",
+        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     }
 ];
