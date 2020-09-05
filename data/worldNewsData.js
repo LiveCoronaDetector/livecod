@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
-        "title": "Brazil records 50,000 cases in 24 hours as death toll passes 125,000 – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
+        "title": "Israel reportedly leading world in new coronavirus infections per capita",
+        "link": "https://www.jpost.com/israel-news/israel-reportedly-leading-world-in-new-coronavirus-infections-per-capita-641122"
     },
     {
         "title": "A second COVID-19 wave in Spain holds a warning for U.S.",
@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/thailand-100-days-coronavirus-free-intl-hnk/index.html"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
+        "title": "Coronavirus: Australia bans travel until December 17; South Korea extends restrictions",
+        "link": "https://www.scmp.com/news/asia/australasia/article/3100208/coronavirus-latest-australia-extends-international-travel-ban"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
-    },
-    {
-        "title": "Six out of 10 countries with highest national debt-to-GDP ratio are EU nations",
-        "link": "https://www.ghanaweb.com/GhanaHomePage/business/Six-out-of-10-countries-with-highest-national-debt-to-GDP-ratio-are-EU-nations-1051678"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as nations race to develop vaccine",
         "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
+    },
+    {
+        "title": "Live updates: Trump contradicts coronavirus project chief on when vaccine could be ready",
+        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     }
 ];
