@@ -2,11 +2,11 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hZnJpY2EtNTM5OTgzNzTSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWFmcmljYS01Mzk5ODM3NA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
         "title": "Key coronavirus forecast predicts over 410,000 total U.S. deaths by Jan. 1: 'The worst is yet to come'",
-        "link": "https://news.google.com/articles/CAIiEGGvtMaK5Q43WYDoMQHCnAIqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
         "title": "Brazil records 50,000 cases in 24 hours as death toll passes 125,000 – as it happened",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Russia vaccine 'passes early trial test' | Covid-19 | Vaccine | WION | Coronavirus",
-        "link": "https://www.youtube.com/watch?v=FWgE3up-zT4"
+        "title": "Australian anti-lockdown protesters clash with police",
+        "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
     },
     {
         "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
         "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     },
     {
-        "title": "Cook Islands former PM dies of coronavirus in New Zealand",
-        "link": "https://www.theguardian.com/world/2020/sep/05/cook-islands-former-pm-dies-of-coronavirus-in-new-zealand"
+        "title": "Russia vaccine 'passes early trial test' | Covid-19 | Vaccine | WION | Coronavirus",
+        "link": "https://www.youtube.com/watch?v=FWgE3up-zT4"
     }
 ];

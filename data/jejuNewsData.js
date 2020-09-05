@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3003415"
     },
     {
-        "title": "제주지역 코로나19 확진 환자 치료병상 확대",
-        "link": "https://hankookilbo.com/News/Read/A2020090413480005474?did=NA"
-    },
-    {
         "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
     },
     {
-        "title": "제주도, \"온천발 n차 감염 막자\"…방문객 482명 검사",
-        "link": "http://www.fnnews.com/news/202009040910347603"
+        "title": "제주지역 코로나19 확진 환자 치료병상 확대",
+        "link": "https://hankookilbo.com/News/Read/A2020090413480005474?did=NA"
+    },
+    {
+        "title": "코로나19 신규 확진 198명 발생… 지역사회 189명·해외유입 9명",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1317199"
     }
 ];

@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1296727"
     },
     {
+        "title": "코로나19 광화문 집회 관련 총 510명 확진…방역당국 “집단감염 막아야”",
+        "link": "http://www.hani.co.kr/arti/society/society_general/960870.html"
+    },
+    {
         "title": "[속보] 부산 확진자 2명 추가, 오피스텔 관련 사흘새 19명",
         "link": "http://www.busan.com/view/busan/view.php?code=2020090514560678649"
     },
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "원주서 코로나19 확진자 3명 발생…총 115명(종합)",
         "link": "http://yna.kr/AKR20200905049400062?did=1195m"
-    },
-    {
-        "title": "코로나19 광화문 집회 관련 총 510명 확진…방역당국 “집단감염 막아야”",
-        "link": "http://www.hani.co.kr/arti/society/society_general/960870.html"
     },
     {
         "title": "코로나19 신규 확진 168명…사흘째 100명대",
