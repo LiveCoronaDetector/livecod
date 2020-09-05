@@ -5,16 +5,20 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 '게스트하우스'발 코로나 확산 심상치 않다…전국 11명",
-        "link": "http://yna.kr/AKR20200904036700056?did=1195m"
-    },
-    {
         "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
         "link": "https://www.news1.kr/articles/?4049172"
     },
     {
+        "title": "제주 '게스트하우스'발 코로나 확산 심상치 않다…전국 11명",
+        "link": "http://yna.kr/AKR20200904036700056?did=1195m"
+    },
+    {
         "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
         "link": "http://www.fnnews.com/news/202009041443205501"
+    },
+    {
+        "title": "\"추석에 오지 말래요\"…코로나 확산에 고향길도 고민",
+        "link": "http://www.newsis.com/view/?id=NISX20200904_0001154714&cID=10201&pID=10200"
     },
     {
         "title": "제주도, 산방산온천발 확진자 원천차단 위해 482명 검사 지원",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 코로나19 치료병상 확대 운영",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3003415"
-    },
-    {
-        "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
     }
 ];
