@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5899752_32633.html"
     },
     {
-        "title": "코로나19 신규확진 168명…국내 발생 158명",
-        "link": "http://www.hani.co.kr/arti/society/society_general/960856.html"
+        "title": "코로나19 신규 확진 168명…중증 환자 159명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966290&plink=ORI&cooper=NAVER"
     },
     {
         "title": "박능후 ″확진자 감소 추세지만 안심 단계 아냐″",
         "link": "http://www.fnnews.com/news/202009050917272282"
     },
     {
-        "title": "[종합] 임실군, 코로나19 확진자 발생 고강도 비상체제 돌입",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1308380"
+        "title": "코로나19 신규확진 168명…국내 발생 158명",
+        "link": "http://www.hani.co.kr/arti/society/society_general/960856.html"
     },
     {
-        "title": "임실서 '코로나19' 확진자 또 발생...전북 90번째",
-        "link": "https://www.pressian.com/pages/articles/2020090510354430304?utm_source=naver&utm_medium=search"
+        "title": "‘코로나19’ 신규 확진자 168명…서울 51명·경기 47명·인천 14명 등",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532991&ref=A"
     },
     {
         "title": "코로나 신규확진 168명…사흘째 100명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/05/2020090500454.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "부산 코로나19 확진자 2명 추가… 샤이나 오피스텔 2층 방문",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020090510150197774"
+        "title": "코로나19 어제 198명 신규 확진…이틀째 200명 아래",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005964743&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 168명...사흘 연속 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009050948001&code=940601"
+        "title": "서울 내 코로나 확진자 발생률 1위는 '성북구'",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/04/2020090400440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

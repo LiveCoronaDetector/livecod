@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/a-covid-second-wave-in-spain-holds-a-warning-for-us-134312147.html"
     },
     {
-        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
-        "link": "https://www.nature.com/articles/d41586-020-02507-x"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-05-20-intl/index.html"
     },
     {
         "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54036221"
     },
     {
-        "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
-        "link": "https://www.cnbc.com/2020/09/04/who-says-widespread-coronavirus-vaccinations-are-not-expected-until-mid-2021-.html"
+        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
+        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     },
     {
-        "title": "Live updates: Trump contradicts coronavirus project chief on when vaccine could be ready",
-        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
+        "title": "Former Cook Islands leader dies of COVID-19 in New Zealand",
+        "link": "https://www.jpost.com/breaking-news/former-cook-islands-leader-dies-of-covid-19-in-new-zealand-641132"
     }
 ];

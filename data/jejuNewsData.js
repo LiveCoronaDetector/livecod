@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200904_0001154714&cID=10201&pID=10200"
     },
     {
+        "title": "제주도, 코로나19 치료병상 확대 운영",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3003415"
+    },
+    {
         "title": "제주도, 산방산온천발 확진자 원천차단 위해 482명 검사 지원",
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=329183"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
-    },
-    {
-        "title": "제주지역 코로나19 확진 환자 치료병상 확대",
-        "link": "https://hankookilbo.com/News/Read/A2020090413480005474?did=NA"
     }
 ];
