@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
-    },
-    {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
+    },
+    {
+        "title": "Coronavirus: Russian vaccine shows signs of immune response",
+        "link": "https://www.bbc.com/news/world-europe-54036221"
     },
     {
         "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
