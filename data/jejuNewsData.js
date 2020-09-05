@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
+    },
+    {
         "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
         "link": "https://www.news1.kr/articles/?4049172"
     },
@@ -21,23 +25,19 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200904_0001154714&cID=10201&pID=10200"
     },
     {
-        "title": "제주 48번 코로나19 확진자 발생",
-        "link": "https://jejumbc.com/article/jdqPVKRiXBdzDj"
-    },
-    {
         "title": "제주도, 코로나19 치료병상 확대 운영",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3003415"
     },
     {
-        "title": "제주 코로나19 47번째 확진자 나와…역학조사 중",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530382&ref=A"
+        "title": "제주 48번 코로나19 확진자 발생",
+        "link": "https://jejumbc.com/article/jdqPVKRiXBdzDj"
+    },
+    {
+        "title": "[1보]제주지역 코로나19, 47번째 확진자 발생",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150386"
     },
     {
         "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
-    },
-    {
-        "title": "제주지역 코로나19 확진 환자 치료병상 확대",
-        "link": "https://hankookilbo.com/News/Read/A2020090413480005474?did=NA"
     }
 ];

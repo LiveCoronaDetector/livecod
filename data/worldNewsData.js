@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
     },
     {
-        "title": "Melbourne anti-coronavirus lockdown protest turns violent: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/coronavirus-model-forecasts-19-million-deaths-2020-live-200905003313705.html"
+        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
+        "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
-        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
+        "title": "Australian anti-lockdown protesters clash with police",
+        "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
     },
     {
         "title": "Covid-19 Live Updates: Northeastern University Dismisses 11 Students for Partying But Keeps Their Tuition",
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
-        "title": "Israel leads world in new coronavirus infections per capita - report",
-        "link": "https://www.jpost.com/israel-news/israel-reportedly-leading-world-in-new-coronavirus-infections-per-capita-641122"
+        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
+        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     }
 ];
