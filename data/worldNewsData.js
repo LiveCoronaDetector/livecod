@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/a-covid-second-wave-in-spain-holds-a-warning-for-us-134312147.html"
     },
     {
-        "title": "India logs record 83,883 Covid-19 cases in day",
-        "link": "https://www.theguardian.com/world/2020/sep/03/india-record-83883-covid-19-cases-in-day"
+        "title": "India will supply coronavirus vaccines to the world — will its people benefit?",
+        "link": "https://www.nature.com/articles/d41586-020-02507-x"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
+        "title": "Coronavirus: Australia bans travel until December 17; South Korea extends restrictions",
+        "link": "https://www.scmp.com/news/asia/australasia/article/3100208/coronavirus-latest-australia-extends-international-travel-ban"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Coronavirus updates: Latest news on the global pandemic",
+        "title": "September 4 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as nations race to develop vaccine",
-        "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
+        "title": "Coronavirus: Russian vaccine shows signs of immune response",
+        "link": "https://www.bbc.com/news/world-europe-54036221"
     },
     {
         "title": "Live updates: Trump contradicts coronavirus project chief on when vaccine could be ready",
