@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
-        "link": "https://www.bbc.com/news/world-australia-54040278"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Cook Islands former PM dies of coronavirus in New Zealand",
-        "link": "https://www.theguardian.com/world/2020/sep/05/cook-islands-former-pm-dies-of-coronavirus-in-new-zealand"
+        "title": "Israel leads world in new coronavirus infections per capita - report",
+        "link": "https://www.jpost.com/israel-news/israel-reportedly-leading-world-in-new-coronavirus-infections-per-capita-641122"
     }
 ];
