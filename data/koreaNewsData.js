@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/960870.html"
     },
     {
-        "title": "광주시 \"동선 허위진술·검사 거부 확진자에 구상권 청구\"",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01597366625897168"
-    },
-    {
-        "title": "[속보] 서울 확진자 51명···22일 만에 50명대로 줄어",
-        "link": "https://www.sedaily.com/NewsView/1Z7QKOHDAY"
+        "title": "[속보]코로나19 서울 신규 확진자 51명…22일 만에 50명대 감소",
+        "link": "http://news.mk.co.kr/newsRead.php?no=917407&year=2020"
     },
     {
         "title": "日 살인 용의자, 코로나에 17년 도주 끝 남아공서 자수",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966664&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "청주 코로나19 확진자 3명 퇴원…66명 중 42명 격리해제(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200905_0001155762&cID=10806&pID=10800"
+        "title": "광주시 \"동선 허위진술·검사 거부 확진자에 구상권 청구\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01597366625897168"
     },
     {
         "title": "‘코로나19’ 신규 확진자 168명…서울 51명·경기 47명·인천 14명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532991&ref=A"
     },
     {
+        "title": "[전문] 광명시청 99번째 확진자 발생...용인시 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=379138"
+    },
+    {
+        "title": "(2보)원주 113번 코로나19 확진자 추가 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090400004"
+    },
+    {
         "title": "중환자·깜깜이 확진자 감소…당국 \"긍정적이지만 더 줄여야\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009050087&t=NN"
     },
     {
-        "title": "코로나19 신규 확진 168명...국내발생 158명, 해외유입 10명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009051000283350"
-    },
-    {
-        "title": "강릉 사우나헬스장 이용객 확진자 3명…방역 비상(종합)",
-        "link": "http://yna.kr/AKR20200905035500062?did=1195m"
+        "title": "청주 코로나19 확진자 3명 퇴원…66명 중 42명 격리해제(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200905_0001155762&cID=10806&pID=10800"
     }
 ];

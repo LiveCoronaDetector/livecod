@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "Coronavirus updates: Latest news on the global pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/h_e2022a616e9936fccf97e4edc28e4de3"
     },
     {
         "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
