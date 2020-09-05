@@ -2,15 +2,15 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
+        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hZnJpY2EtNTM5OTgzNzTSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWFmcmljYS01Mzk5ODM3NA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Key coronavirus forecast predicts over 410,000 total U.S. deaths by Jan. 1: 'The worst is yet to come'",
-        "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
+        "link": "https://news.google.com/articles/CAIiEGGvtMaK5Q43WYDoMQHCnAIqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
-        "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
+        "title": "Brazil records 50,000 cases in 24 hours as death toll passes 125,000 – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
         "title": "Germany's virus response won plaudits. But protests over vaccines and masks show it's a victim of its own success",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
     },
     {
-        "title": "Iraq may 'lose control' after record coronavirus cases: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
+        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
+        "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
