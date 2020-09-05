@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/960870.html"
     },
     {
-        "title": "[속보] 부산 확진자 2명 추가, 오피스텔 관련 사흘새 19명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020090514560678649"
-    },
-    {
-        "title": "광주시 \"동선 허위진술·검사 거부 확진자에 구상권 청구\"",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01597366625897168"
-    },
-    {
-        "title": "광주서 코로나19 확진자 5명 발생...누적확진자 418명",
-        "link": "http://www.fnnews.com/news/202009051805485563"
-    },
-    {
-        "title": "코로나 5일 오후 6시까지 신규 확진자 최소 111명",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/05/2020090501267.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "원주서 코로나19 확진자 3명 발생…총 115명(종합)",
-        "link": "http://yna.kr/AKR20200905049400062?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진 168명…사흘째 100명대",
         "link": "https://imnews.imbc.com/news/2020/society/article/5899752_32633.html"
     },
     {
         "title": "[속보] 서울 확진자 51명···22일 만에 50명대로 줄어",
         "link": "https://www.sedaily.com/NewsView/1Z7QKOHDAY"
+    },
+    {
+        "title": "[속보] 부산 확진자 2명 추가, 오피스텔 관련 사흘새 19명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020090514560678649"
+    },
+    {
+        "title": "‘코로나19’ 신규 확진자 168명…서울 51명·경기 47명·인천 14명 등",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532991&ref=A"
+    },
+    {
+        "title": "중환자·깜깜이 확진자 감소…당국 \"긍정적이지만 더 줄여야\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009050087&t=NN"
+    },
+    {
+        "title": "프랑스, 신규 확진자 9000명...코로나19 발발 이래 최악",
+        "link": "http://www.newsis.com/view/?id=NISX20200905_0001155481&cID=10101&pID=10100"
+    },
+    {
+        "title": "임실군, 코로나19 확진자 이틀새 2명 발생, 고강도 비상체제 돌입",
+        "link": "http://www.fnnews.com/news/202009051051582374"
     }
 ];
