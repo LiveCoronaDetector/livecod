@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
+        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
+        "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Russian vaccine is safe, shows no side effects: Lancet Report | Coronavirus Vaccine",
-        "link": "https://www.youtube.com/watch?v=LXwR-2Bo2_c"
+        "title": "Australian anti-lockdown protesters clash with police",
+        "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
     },
     {
         "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
         "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     },
     {
-        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
-        "link": "https://www.bbc.com/news/world-australia-54040278"
+        "title": "Cook Islands former PM dies of coronavirus in New Zealand",
+        "link": "https://www.theguardian.com/world/2020/sep/05/cook-islands-former-pm-dies-of-coronavirus-in-new-zealand"
     }
 ];
