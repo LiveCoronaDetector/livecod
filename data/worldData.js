@@ -449,20 +449,20 @@ var marker = [
         "완치자수": 39257
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "확진자수": 44293,
+        "사망자수": 1060,
+        "완치자수": 39599
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
         "확진자수": 44236,
         "사망자수": 271,
         "완치자수": 25561
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "확진자수": 44199,
-        "사망자수": 1060,
-        "완치자수": 39389
     },
     {
         "Name": "스위스",
@@ -1233,6 +1233,14 @@ var marker = [
         "완치자수": 1163
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 1216,
+        "사망자수": 7,
+        "완치자수": 359
+    },
+    {
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
@@ -1247,14 +1255,6 @@ var marker = [
         "확진자수": 1177,
         "사망자수": 69,
         "완치자수": 1091
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 1171,
-        "사망자수": 7,
-        "완치자수": 359
     },
     {
         "Name": "Belize",

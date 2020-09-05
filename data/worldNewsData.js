@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
-        "title": "Israel reportedly leading world in new coronavirus infections per capita",
+        "title": "Israel leads world in new coronavirus infections per capita - report",
         "link": "https://www.jpost.com/israel-news/israel-reportedly-leading-world-in-new-coronavirus-infections-per-capita-641122"
     },
     {
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02507-x"
     },
     {
-        "title": "Coronavirus: Australia bans travel until December 17; South Korea extends restrictions",
-        "link": "https://www.scmp.com/news/asia/australasia/article/3100208/coronavirus-latest-australia-extends-international-travel-ban"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
