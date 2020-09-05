@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/a-covid-second-wave-in-spain-holds-a-warning-for-us-134312147.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-05-20-intl/index.html"
+        "title": "Coronavirus live news: India cases pass 4m; anti-lockdown protesters arrested in Victoria",
+        "link": "https://www.theguardian.com/world/live/2020/sep/05/coronavirus-live-news-iraq-hospitals-in-crisis-as-anti-lockdown-rallies-loom-in-victoria"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
+        "title": "Iraq may 'lose control' after record coronavirus cases: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "Race To Produce Coronavirus Vaccine Raises Both Hope And Concerns | TODAY",
+        "link": "https://www.youtube.com/watch?v=AQa8DIEKfk8"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/who-says-widespread-coronavirus-vaccinations-are-not-expected-until-mid-2021-.html"
     },
     {
-        "title": "Live updates: Trump contradicts coronavirus project chief on when vaccine could be ready",
-        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus updates: Latest news on the global pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/h_d62d1896025619130fb110986abb1ffb"
     }
 ];
