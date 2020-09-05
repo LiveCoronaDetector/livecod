@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/05/2020090500454.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 어제 198명 신규 확진…이틀째 200명 아래",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005964743&plink=ORI&cooper=NAVER"
+        "title": "중환자·깜깜이 확진자 감소…당국 \"긍정적이지만 더 줄여야\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009050087&t=NN"
     },
     {
-        "title": "서울 내 코로나 확진자 발생률 1위는 '성북구'",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/04/2020090400440.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 어제 198명 신규 확진…이틀째 200명 아래",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005964743&plink=ORI&cooper=NAVER"
     }
 ];

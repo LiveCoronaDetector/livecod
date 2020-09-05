@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
-    },
-    {
         "title": "Coronavirus: Russian vaccine shows signs of immune response",
         "link": "https://www.bbc.com/news/world-europe-54036221"
     },
     {
-        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
-        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Former Cook Islands leader dies of COVID-19 in New Zealand",
-        "link": "https://www.jpost.com/breaking-news/former-cook-islands-leader-dies-of-covid-19-in-new-zealand-641132"
+        "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
+        "link": "https://www.cnbc.com/2020/09/04/who-says-widespread-coronavirus-vaccinations-are-not-expected-until-mid-2021-.html"
+    },
+    {
+        "title": "Live updates: Trump contradicts coronavirus project chief on when vaccine could be ready",
+        "link": "https://www.washingtonpost.com/nation/2020/09/04/coronavirus-covid-live-updates-us/"
     }
 ];
