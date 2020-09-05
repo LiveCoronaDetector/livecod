@@ -22,19 +22,19 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
-        "link": "https://www.bbc.com/news/world-australia-54040278"
+        "link": "https://news.yahoo.com/coronavirus-arrests-australia-anti-lockdown-111702790.html"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Australian anti-lockdown protesters clash with police",
-        "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
+        "title": "Covid-19 Live Updates: Northeastern University Dismisses 11 Students for Partying but Keeps Their Tuition",
+        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
-        "title": "Covid-19 Live Updates: Northeastern University Dismisses 11 Students for Partying But Keeps Their Tuition",
-        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
+        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
+        "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
         "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
