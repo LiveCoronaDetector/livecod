@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
-        "title": "Israel leads world in new coronavirus infections per capita - report",
-        "link": "https://www.jpost.com/israel-news/israel-reportedly-leading-world-in-new-coronavirus-infections-per-capita-641122"
+        "title": "Brazil records 50,000 cases in 24 hours as death toll passes 125,000 – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
         "title": "Germany's virus response won plaudits. But protests over vaccines and masks show it's a victim of its own success",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
     },
     {
-        "title": "Cook Islands former PM dies of coronavirus in New Zealand",
-        "link": "https://www.theguardian.com/world/2020/sep/05/cook-islands-former-pm-dies-of-coronavirus-in-new-zealand"
+        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
+        "link": "https://www.bbc.com/news/world-australia-54040278"
     }
 ];
