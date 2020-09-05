@@ -21,20 +21,20 @@ var koreaNewsData = [
         "link": "http://www.domin.co.kr/news/articleView.html?idxno=1308380"
     },
     {
+        "title": "[속보] 전북 90번째 확진자 …임실 89번 확진자와 식사해 감염",
+        "link": "http://www.fnnews.com/news/202009050952494839"
+    },
+    {
         "title": "코로나 신규확진 168명…사흘째 100명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/05/2020090500454.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 168명...사흘 연속 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009050948001&code=940601"
-    },
-    {
-        "title": "서울 확진자 50명대로 줄어",
-        "link": "http://www.fnnews.com/news/202009051246122732"
-    },
-    {
         "title": "부산 코로나19 확진자 2명 추가… 샤이나 오피스텔 2층 방문",
         "link": "http://www.busan.com/view/busan/view.php?code=2020090510150197774"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 168명...사흘 연속 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009050948001&code=940601"
     },
     {
         "title": "[속보] 서울 확진자 51명···22일 만에 50명대로 줄어",

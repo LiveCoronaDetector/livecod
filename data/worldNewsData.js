@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "September 4 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus: Russian vaccine shows signs of immune response",
         "link": "https://www.bbc.com/news/world-europe-54036221"
+    },
+    {
+        "title": "WHO says widespread coronavirus vaccinations are not expected until mid-2021",
+        "link": "https://www.cnbc.com/2020/09/04/who-says-widespread-coronavirus-vaccinations-are-not-expected-until-mid-2021-.html"
     },
     {
         "title": "Live updates: Trump contradicts coronavirus project chief on when vaccine could be ready",
