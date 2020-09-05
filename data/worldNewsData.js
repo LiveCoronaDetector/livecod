@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/7000-health-workers-dead-coronavirus-amnesty-live-200904001933968.html"
     },
     {
-        "title": "Race To Produce Coronavirus Vaccine Raises Both Hope And Concerns | TODAY",
-        "link": "https://www.youtube.com/watch?v=AQa8DIEKfk8"
+        "title": "Coronavirus: Russian vaccine shows signs of immune response",
+        "link": "https://www.bbc.com/news/world-europe-54036221"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
