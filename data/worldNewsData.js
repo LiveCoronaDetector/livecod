@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
-        "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
-        "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
+        "title": "Brazil records 50,000 cases in 24 hours as death toll passes 125,000 – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/04/coronavirus-live-news-brazil-cases-pass-4m-israel-to-impose-partial-lockdown"
     },
     {
         "title": "Germany's virus response won plaudits. But protests over vaccines and masks show it's a victim of its own success",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Australian anti-lockdown protesters clash with police",
-        "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
+        "title": "Russian vaccine is safe, shows no side effects: Lancet Report | Coronavirus Vaccine",
+        "link": "https://www.youtube.com/watch?v=LXwR-2Bo2_c"
     },
     {
         "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
         "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     },
     {
-        "title": "Cook Islands former PM dies of coronavirus in New Zealand",
-        "link": "https://www.theguardian.com/world/2020/sep/05/cook-islands-former-pm-dies-of-coronavirus-in-new-zealand"
+        "title": "Australian anti-lockdown protesters clash with police",
+        "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
     }
 ];
