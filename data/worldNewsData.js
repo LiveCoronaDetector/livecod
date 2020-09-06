@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
     },
     {
-        "title": "Coronavirus Shatters India's Economy",
-        "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
+        "title": "India Coronavirus Cases Surpass 4 Million",
+        "link": "https://www.npr.org/2020/09/05/910080446/india-coronavirus-cases-surpass-4-million"
     },
     {
         "title": "Coronavirus: Melbourne lockdown extended by two weeks",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
-        "title": "Illinois adds about 2800 virus cases to statewide total on Saturday, 23 more deaths",
-        "link": "https://www.youtube.com/watch?v=UU1ezrRFxeI"
+        "title": "Coronavirus: Further 2,988 cases confirmed in UK",
+        "link": "https://www.bbc.com/news/uk-54050342"
     }
 ];
