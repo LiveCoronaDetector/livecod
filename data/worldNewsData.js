@@ -5,15 +5,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "A New Front in America’s Pandemic: College Towns",
-        "link": "https://www.nytimes.com/2020/09/06/us/colleges-coronavirus-students.html"
+        "title": "John King: Recent history tells us to be nervous",
+        "link": "https://www.cnn.com/videos/us/2020/09/06/coronavirus-us-numbers-labor-day-weekend-king-ip-vpx.cnn"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
         "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "India reports global daily record of new coronavirus cases: Live",
+        "title": "UK records highest daily coronavirus cases since May: Live news",
         "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus Update: With Over 41-Lakh Covid-19 Cases, India Becomes Third Most Affected Country",
-        "link": "https://www.youtube.com/watch?v=RRk3pmoN6LQ"
+        "title": "Illinois adds about 2800 virus cases to statewide total on Saturday, 23 more deaths",
+        "link": "https://www.youtube.com/watch?v=UU1ezrRFxeI"
     }
 ];
