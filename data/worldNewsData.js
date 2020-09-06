@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
     },
     {
-        "title": "India surpasses 4 million coronavirus cases",
-        "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
+        "title": "India Coronavirus Cases Surpass 4 Million",
+        "link": "https://www.npr.org/2020/09/05/910080446/india-coronavirus-cases-surpass-4-million"
     },
     {
-        "title": "Coronavirus: China's tourism industry thriving as world battles COVID-19",
-        "link": "https://news.sky.com/story/coronavirus-chinas-tourism-industry-thriving-as-world-battles-covid-19-12064860"
+        "title": "Coronavirus: Melbourne lockdown extended by two weeks",
+        "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "Victoria's position was 'foreseeable and avoidable'",
+        "link": "https://www.youtube.com/watch?v=txcMy1Wozk0"
     }
 ];
