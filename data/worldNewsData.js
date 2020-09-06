@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "Coronavirus model projects U.S. deaths will surpass 400,000 by end of year",
-        "link": "https://www.cbsnews.com/news/covid-19-united-states-coronavirus-deaths-projection-400000-by-end-of-year/"
+        "title": "The bleak Covid winter? America still not on course to beat back the virus",
+        "link": "https://www.theguardian.com/world/2020/sep/05/america-covid-autumn-winter-coronavirus"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Coronavirus live news: Melbourne lockdown extended; anti-mask protests held in Europe",
-        "link": "https://www.theguardian.com/world/live/2020/sep/06/coronavirus-live-news-victoria-awaits-lockdown-decision-anti-mask-protests-held-in-europe"
+        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
+        "link": "https://news.yahoo.com/coronavirus-arrests-australia-anti-lockdown-111702790.html"
     },
     {
         "title": "Covid-19 Live Updates: Northeastern University Dismisses 11 Students for Partying but Keeps Their Tuition",
