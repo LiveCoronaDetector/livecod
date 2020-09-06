@@ -5,24 +5,32 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/06/2020090600181.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 167명…나흘째 100명대",
+        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
+    },
+    {
+        "title": "코로나19 신규 확진자 167명…나흘째 100명대",
         "link": "https://www.donga.com/news/article/all/20200906/102806989/1"
+    },
+    {
+        "title": "[속보] 전남서 코로나19 확진자 3명 추가 발생…해외 유입",
+        "link": "https://www.news1.kr/articles/?4049611"
+    },
+    {
+        "title": "쿠팡, 고양물류센터서 코로나19 확진자 나와 폐쇄",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000995381?division=NAVER"
     },
     {
         "title": "[코로나19] 신규확진 167명…나흘째 100명대 유지(종합)",
         "link": "http://www.newspim.com/news/view/20200906000023"
     },
     {
-        "title": "[속보]코로나19 신규확진 167명…4일 연속 100명대",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090500002"
+        "title": "[속보] 코로나19 신규확진 167명... 나흘 연속 100명대",
+        "link": "https://hankookilbo.com/News/Read/A2020090609300001297?did=NA"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 167명 늘어",
-        "link": "http://www.hani.co.kr/arti/society/health/960880.html"
-    },
-    {
-        "title": "쿠팡, 고양물류센터서 코로나19 확진자 나와 폐쇄",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000995381?division=NAVER"
+        "title": "[속보] 코로나19 어제 167명 신규 확진…나흘째 100명대",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966919&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나19 신규확진자 168명…사흘째 100명대 유지",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "국회 '셧다운' 해제…\"코로나19 선별검사자 전원 음성\"",
         "link": "http://yna.kr/AKR20200905026500001?did=1195m"
-    },
-    {
-        "title": "[속보]'코로나19' 신규확진 167명…4일 연속 100명대",
-        "link": "https://www.news1.kr/articles/?4049620"
-    },
-    {
-        "title": "코로나19 광화문 집회 관련 총 510명 확진…방역당국 “집단감염 막아야”",
-        "link": "http://www.hani.co.kr/arti/society/society_general/960870.html"
     }
 ];

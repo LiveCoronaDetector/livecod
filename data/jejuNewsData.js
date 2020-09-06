@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
     },
     {
+        "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
+    },
+    {
         "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
         "link": "https://www.news1.kr/articles/?4049172"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[1보]제주지역 코로나19, 47번째 확진자 발생",
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150386"
-    },
-    {
-        "title": "제주도교육청, 남원‧대정‧안덕 지역 원격수업 해제",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350082"
     }
 ];
