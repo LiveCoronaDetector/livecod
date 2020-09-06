@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
     },
     {
-        "title": "서울 신규 확진자 63명 증가 … 강동구 콜센터 관련 15명↑(상보)",
-        "link": "https://view.asiae.co.kr/article/2020090611274856917"
-    },
-    {
         "title": "코로나 어제 확진 167명…국내발생 152명·해외유입 15명",
         "link": "https://news.imaeil.com/Society/2020090609310836449"
+    },
+    {
+        "title": "일일 코로나19 확진자 수 '9만명' 넘긴 나라 나왔다",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01790886625897496"
     },
     {
         "title": "코로나19 신규 확진자 167명…나흘 연속 100명대",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200906015751052?did=1195m"
     },
     {
-        "title": "코로나19 신규확진자 168명…사흘째 100명대 유지",
-        "link": "http://www.inews24.com/view/1296727"
+        "title": "[코로나19] 사랑제일교회 6명·8.15집회 관련 17명 추가 확진(종합)",
+        "link": "http://www.newspim.com/news/view/20200906000140"
     }
 ];
