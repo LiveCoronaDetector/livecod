@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "Key coronavirus forecast predicts over 410,000 total U.S. deaths by Jan. 1: 'The worst is yet to come'",
-        "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
+        "title": "A New Front in America’s Pandemic: College Towns",
+        "link": "https://www.nytimes.com/2020/09/06/us/colleges-coronavirus-students.html"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
     },
     {
-        "title": "India Coronavirus Cases Surpass 4 Million",
-        "link": "https://www.npr.org/2020/09/05/910080446/india-coronavirus-cases-surpass-4-million"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Melbourne lockdown extended by two weeks",
         "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
+        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
+        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=txcMy1Wozk0"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "India Cases Top 4 Million; Nigerian Doctors Strike: Virus Update",
+        "link": "https://www.msn.com/en-us/money/markets/india-cases-top-4-million-nigerian-doctors-strike-virus-update/ar-BB18ICG6"
     }
 ];
