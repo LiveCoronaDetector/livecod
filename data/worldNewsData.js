@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
-        "title": "Political leaders are raising ‘false hopes’ about coronavirus vaccines",
-        "link": "https://www.theguardian.com/world/2020/sep/06/political-leaders-are-raising-false-hopes-about-coronavirus-vaccines"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
+    },
+    {
+        "title": "Political leaders are raising ‘false hopes’ about coronavirus vaccines",
+        "link": "https://www.theguardian.com/world/2020/sep/06/political-leaders-are-raising-false-hopes-about-coronavirus-vaccines"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
