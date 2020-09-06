@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000995381?division=NAVER"
     },
     {
-        "title": "[종합] 코로나19 신규확진 167명…곳곳 산발감염 지속",
-        "link": "https://www.hankyung.com/life/article/2020090681687"
-    },
-    {
         "title": "코로나19 신규 확진자 167명…나흘째 100명대",
         "link": "https://www.donga.com/news/article/all/20200906/102806989/1"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
     },
     {
         "title": "코로나 신규 확진 167명…나흘째 100명대(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/06/2020090600181.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "인도 하루에만 코로나 확진 9만632명 '세계 최고치'",
+        "link": "https://www.hankyung.com/life/article/2020090686647"
+    },
+    {
         "title": "코로나19 신규 확진자 167명…나흘 연속 100명대",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11968057"
     },
     {
-        "title": "\"확진자 1명 발생시 비용 5000만원·연인원 457명 투입\"",
-        "link": "https://www.news1.kr/articles/?4049902"
+        "title": "확진자 1명에 평균 4781만원 소요…광주시 분석",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009061527001&code=620100"
+    },
+    {
+        "title": "코로나 신규 확진 167명…감소세 속 곳곳 산발 감염",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966919&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나 신규확진자 나흘 연속 100명대 기록",
         "link": "https://www.pressian.com/pages/articles/2020090610085662692?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "'코로나 셧다운' 되풀이…국회 원격시스템 도입 힘 받을까?",
-        "link": "http://yna.kr/AKR20200905042100001?did=1195m"
+        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
     },
     {
-        "title": "인천, 광화문집회 관련 확진자 28% 줄었다 왜?",
-        "link": "https://www.hankyung.com/society/article/202009068655i"
+        "title": "'코로나 셧다운' 되풀이…국회 원격시스템 도입 힘 받을까?",
+        "link": "http://yna.kr/AKR20200905042100001?did=1195m"
     }
 ];
