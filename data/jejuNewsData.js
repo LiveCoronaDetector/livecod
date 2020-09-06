@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171171"
     },
     {
-        "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
-        "link": "http://www.fnnews.com/news/202009041443205501"
+        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
+        "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
-        "title": "제주지역 코로나19 47번 확진자 발생",
-        "link": "http://www.ihalla.com/read.php3?aid=1598994626691235073"
+        "title": "제주도, 코로나19 지역 전파 차단 벌초방역 3대 수칙 발표",
+        "link": "http://www.newsrep.co.kr/news/articleView.html?idxno=142464"
     },
     {
         "title": "\"추석에 오지 말래요\"…코로나 확산에 고향길도 고민",
