@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
-        "link": "https://www.bbc.com/news/world-australia-54040278"
+        "title": "Australian anti-lockdown protesters clash with police",
+        "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
     },
     {
         "title": "Covid 19 Live Updates",

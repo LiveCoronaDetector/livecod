@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4049172"
     },
     {
-        "title": "제주 '게스트하우스'발 코로나 확산 심상치 않다…전국 11명",
-        "link": "http://yna.kr/AKR20200904036700056?did=1195m"
-    },
-    {
         "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
         "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
+    },
+    {
+        "title": "제주 '게스트하우스'발 코로나 확산 심상치 않다…전국 11명",
+        "link": "http://yna.kr/AKR20200904036700056?did=1195m"
     },
     {
         "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
