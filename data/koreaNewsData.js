@@ -17,12 +17,20 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
     },
     {
-        "title": "서울 신규 확진자 63명 증가 … 강동구 콜센터 관련 15명↑(상보)",
-        "link": "https://view.asiae.co.kr/article/2020090611274856917"
-    },
-    {
         "title": "경남서 코로나19 확진자 2명 발생…해외 입국자·타지역 방문자(종합)",
         "link": "http://yna.kr/AKR20200906015751052?did=1195m"
+    },
+    {
+        "title": "[종합] 코로나19 신규확진 167명…곳곳 산발감염 지속",
+        "link": "https://www.hankyung.com/life/article/2020090681687"
+    },
+    {
+        "title": "코로나 어제 확진 167명…국내발생 152명·해외유입 15명",
+        "link": "https://news.imaeil.com/Society/2020090609310836449"
+    },
+    {
+        "title": "코로나19 신규 확진자 167명…나흘 연속 100명대",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11968057"
     },
     {
         "title": "코로나19 신규확진자 168명…사흘째 100명대 유지",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나에 조마조마한 국회... 이틀 만에 다시 문 연다",
         "link": "https://www.sedaily.com/NewsView/1Z7QKSO3VF"
-    },
-    {
-        "title": "코로나 신규확진자 나흘 연속 100명대 기록",
-        "link": "https://www.pressian.com/pages/articles/2020090610085662692?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "코로나19 신규 확진 167명…나흘째 100명대 지속",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218455"
     }
 ];

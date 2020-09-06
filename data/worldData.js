@@ -1020,9 +1020,9 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 2964,
-        "사망자수": 30,
-        "완치자수": 922
+        "확진자수": 3024,
+        "사망자수": 32,
+        "완치자수": 950
     },
     {
         "Name": "Angola",
@@ -1340,9 +1340,9 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 591,
+        "확진자수": 598,
         "사망자수": 5,
-        "완치자수": 221
+        "완치자수": 264
     },
     {
         "Name": "Sint Maarten",

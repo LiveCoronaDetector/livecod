@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
-        "link": "https://news.yahoo.com/coronavirus-arrests-australia-anti-lockdown-111702790.html"
+        "title": "Coronavirus live news: Melbourne lockdown extended; anti-mask protests held in Europe",
+        "link": "https://www.theguardian.com/world/live/2020/sep/06/coronavirus-live-news-victoria-awaits-lockdown-decision-anti-mask-protests-held-in-europe"
     },
     {
         "title": "Covid-19 Live Updates: Northeastern University Dismisses 11 Students for Partying but Keeps Their Tuition",
