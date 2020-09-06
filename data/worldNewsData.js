@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "Coronavirus model projects U.S. deaths will surpass 400,000 by end of year",
-        "link": "https://www.cbsnews.com/news/covid-19-united-states-coronavirus-deaths-projection-400000-by-end-of-year/"
+        "title": "Key coronavirus forecast predicts over 410,000 total U.S. deaths by Jan. 1: 'The worst is yet to come'",
+        "link": "https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
-        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
-        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
+    },
+    {
+        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
+        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
+        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     }
 ];

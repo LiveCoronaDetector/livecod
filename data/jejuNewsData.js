@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
     },
     {
-        "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
-        "link": "https://www.news1.kr/articles/?4049172"
-    },
-    {
         "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
         "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
+    },
+    {
+        "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
+        "link": "https://www.news1.kr/articles/?4049172"
     },
     {
         "title": "제주 '게스트하우스'발 코로나 확산 심상치 않다…전국 11명",
