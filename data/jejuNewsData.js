@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://jejumbc.com/article/jdqPVKRiXBdzDj"
     },
     {
-        "title": "[1보]제주지역 코로나19, 47번째 확진자 발생",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150386"
+        "title": "제주지역 코로나19 47번 확진자 발생",
+        "link": "http://www.ihalla.com/read.php3?aid=1598994626691235073"
     }
 ];

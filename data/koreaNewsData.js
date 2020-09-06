@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020090680047"
     },
     {
-        "title": "계룡서 30대 코로나19 양성…주기쁨교회 확진자와 접촉",
-        "link": "http://yna.kr/AKR20200906022100063?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
-    },
-    {
-        "title": "코로나 신규확진자 나흘 연속 100명대 기록",
-        "link": "https://www.pressian.com/pages/articles/2020090610085662692?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "‘코로나19’ 신규 확진자 167명…나흘째 100명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4533242&ref=A"
-    },
-    {
-        "title": "[전문] 용인시청 325번째 326번째 확진자 발생...언남동, 중동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=379166"
-    },
-    {
-        "title": "경남에서 코로나19 확진자 2명 추가…누적 255명으로 늘어",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020090610060449929"
+        "title": "코로나 신규 확진 167명…감소세 속 곳곳 산발 감염",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966919&plink=ORI&cooper=NAVER"
     },
     {
         "title": "경남서 코로나19 확진자 2명 발생…해외 입국자·타지역 방문자(종합)",
         "link": "http://yna.kr/AKR20200906015751052?did=1195m"
     },
     {
-        "title": "[속보]코로나19 신규확진 167명…4일 연속 100명대",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090500002"
+        "title": "코로나19 신규 확진자 167명…나흘째 100명대",
+        "link": "https://www.donga.com/news/article/all/20200906/102806989/1"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
+    },
+    {
+        "title": "서울 신규 확진자 63명 증가 … 강동구 콜센터 관련 15명↑(상보)",
+        "link": "https://view.asiae.co.kr/article/2020090611274856917"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 167명…나흘째 100명대 지속",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218455"
+    },
+    {
+        "title": "코로나19 신규확진자 168명…사흘째 100명대 유지",
+        "link": "http://www.inews24.com/view/1296727"
+    },
+    {
+        "title": "코로나에 조마조마한 국회... 이틀 만에 다시 문 연다",
+        "link": "https://www.sedaily.com/NewsView/1Z7QKSO3VF"
     }
 ];

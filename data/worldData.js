@@ -1494,7 +1494,7 @@ var marker = [
         "Name_en": "Monaco",
         "확진자수": 147,
         "사망자수": 1,
-        "완치자수": 97
+        "완치자수": 102
     },
     {
         "Name": "Brunei",
@@ -1550,7 +1550,7 @@ var marker = [
         "Name_en": "St. Vincent Grenadines",
         "확진자수": 61,
         "사망자수": 0,
-        "완치자수": 57
+        "완치자수": 58
     },
     {
         "Name": "마카오",

@@ -5,32 +5,32 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "The bleak Covid winter? America still not on course to beat back the virus",
-        "link": "https://www.theguardian.com/world/2020/sep/05/america-covid-autumn-winter-coronavirus"
+        "title": "Coronavirus model projects U.S. deaths will surpass 400,000 by end of year",
+        "link": "https://www.cbsnews.com/news/covid-19-united-states-coronavirus-deaths-projection-400000-by-end-of-year/"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
         "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "Coronavirus live news: Victoria extends lockdown; anti-mask protests held in Europe",
-        "link": "https://www.theguardian.com/world/live/2020/sep/06/coronavirus-live-news-victoria-awaits-lockdown-decision-anti-mask-protests-held-in-europe"
+        "title": "'No mask' rally in Italy as coronavirus deaths inch up: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
     },
     {
         "title": "India surpasses 4 million coronavirus cases",
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
-        "link": "https://www.bbc.com/news/world-australia-54007824"
-    },
-    {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
+        "title": "Coronavirus live news: Melbourne lockdown extended; anti-mask protests held in Europe",
+        "link": "https://www.theguardian.com/world/live/2020/sep/06/coronavirus-live-news-victoria-awaits-lockdown-decision-anti-mask-protests-held-in-europe"
     },
     {
         "title": "Covid-19 Live Updates: Northeastern University Dismisses 11 Students for Partying but Keeps Their Tuition",
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
+    },
+    {
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
         "title": "Coronavirus: Russian vaccine shows signs of immune response",
