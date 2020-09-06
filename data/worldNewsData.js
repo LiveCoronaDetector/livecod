@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "Coronavirus model projects U.S. deaths will surpass 400,000 by end of year",
-        "link": "https://www.cbsnews.com/news/covid-19-united-states-coronavirus-deaths-projection-400000-by-end-of-year/"
+        "title": "A New Front in America’s Pandemic: College Towns",
+        "link": "https://www.nytimes.com/2020/09/06/us/colleges-coronavirus-students.html"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
     },
     {
-        "title": "India Coronavirus Cases Surpass 4 Million",
-        "link": "https://www.npr.org/2020/09/05/910080446/india-coronavirus-cases-surpass-4-million"
+        "title": "Coronavirus Shatters India's Economy",
+        "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
     },
     {
         "title": "Coronavirus: Melbourne lockdown extended by two weeks",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     },
     {
-        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
-        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
+        "title": "Political leaders are raising ‘false hopes’ about coronavirus vaccines",
+        "link": "https://www.theguardian.com/world/2020/sep/06/political-leaders-are-raising-false-hopes-about-coronavirus-vaccines"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Daniel Andrews announced a 'roadmap into deeper lockdown'",
-        "link": "https://www.youtube.com/watch?v=JLPxv09HrTk"
+        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
+        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     }
 ];

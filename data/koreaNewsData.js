@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/06/2020090600181.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "광주시, '코로나19' 확진자 1명에 '4781만원' 들어가",
-        "link": "http://www.newsis.com/view/?id=NISX20200906_0001156162&cID=10899&pID=10800"
-    },
-    {
         "title": "코로나19 신규 확진자 167명…나흘 연속 100명대",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11968057"
     },
     {
-        "title": "[종합] 코로나19 신규확진 167명…곳곳 산발감염 지속",
-        "link": "https://www.hankyung.com/life/article/2020090681687"
+        "title": "코로나 신규 확진 167명…감소세 속 곳곳 산발 감염",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966919&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 확진자 1명에 발생하는 사회적 비용은 얼마?",
+        "link": "http://www.segye.com/content/html/2020/09/06/20200906514703.html?OutUrl=naver"
     },
     {
         "title": "대구·경북 ‘동충하초’發 확진자 속출…n차 집단감염 우려",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090610085662692?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
+        "title": "파주 스타벅스 관련 코로나19 확진자 2명 늘어…누적 70명",
+        "link": "https://www.hankyung.com/life/article/2020090681387"
     }
 ];
