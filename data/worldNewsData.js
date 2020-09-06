@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "Germany's virus response won plaudits. But protests over vaccines and masks show it's a victim of its own success",
-        "link": "https://www.cnn.com/2020/09/05/europe/germany-virus-response-victim-of-own-success-intl/index.html"
+        "title": "Coronavirus live news: Victoria extends lockdown; anti-mask protests held in Europe",
+        "link": "https://www.theguardian.com/world/live/2020/sep/06/coronavirus-live-news-victoria-awaits-lockdown-decision-anti-mask-protests-held-in-europe"
     },
     {
         "title": "India surpasses 4 million coronavirus cases",
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Melbourne anti-coronavirus lockdown protest turns violent: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/coronavirus-model-forecasts-19-million-deaths-2020-live-200905003313705.html"
+        "title": "Covid: Australian anti-lockdown suspect's arrest draws controversy",
+        "link": "https://www.bbc.com/news/world-australia-54007824"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
-        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
-        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
+        "title": "Coronavirus: Russian vaccine shows signs of immune response",
+        "link": "https://www.bbc.com/news/world-europe-54036221"
     },
     {
-        "title": "India Coronavirus Cases Surpass 4 Million",
-        "link": "https://www.npr.org/2020/09/05/910080446/india-coronavirus-cases-surpass-4-million"
+        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
+        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     }
 ];
