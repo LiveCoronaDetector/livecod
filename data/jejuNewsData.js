@@ -17,12 +17,16 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4049172"
     },
     {
+        "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
+        "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
+    },
+    {
         "title": "제주 '게스트하우스'발 코로나 확산 심상치 않다…전국 11명",
         "link": "http://yna.kr/AKR20200904036700056?did=1195m"
     },
     {
-        "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
-        "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
+        "title": "코로나19 감염 우려 확산에 '고삐'",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171171"
     },
     {
         "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주지역 코로나19 47번 확진자 발생",
         "link": "http://www.ihalla.com/read.php3?aid=1598994626691235073"
-    },
-    {
-        "title": "제주도, 코로나19 치료병상 확대 운영",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3003415"
     }
 ];

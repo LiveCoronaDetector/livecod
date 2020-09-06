@@ -13,20 +13,20 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200906/102806989/1"
     },
     {
-        "title": "코로나19 신규확진자 167명…나흘째 100명대 유지",
-        "link": "http://www.inews24.com/view/1296784"
-    },
-    {
         "title": "확진자 1명에 평균 4781만원 소요…광주시 분석",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009061527001&code=620100"
+    },
+    {
+        "title": "코로나19 신규확진자 167명…나흘째 100명대 유지",
+        "link": "http://www.inews24.com/view/1296784"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
     },
     {
-        "title": "강동구 콜센터 16명 집단감염… 서울 신규 확진자 63명",
-        "link": "http://www.hani.co.kr/arti/area/capital/960906.html"
+        "title": "서울 신규 확진자 63명 증가 … 강동구 콜센터 관련 15명↑(상보)",
+        "link": "https://view.asiae.co.kr/article/2020090611274856917"
     },
     {
         "title": "코로나 어제 확진 167명…국내발생 152명·해외유입 15명",

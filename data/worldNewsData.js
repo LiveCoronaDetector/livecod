@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Coronavirus live news: Melbourne lockdown extended; anti-mask protests held in Europe",
-        "link": "https://www.theguardian.com/world/live/2020/sep/06/coronavirus-live-news-victoria-awaits-lockdown-decision-anti-mask-protests-held-in-europe"
+        "title": "'Nobody is safe': why Australia's Covid jobs crisis could last years",
+        "link": "https://www.theguardian.com/business/2020/sep/06/nobody-is-safe-why-australias-covid-jobs-crisis-could-last-years"
     },
     {
-        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
-        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
+        "title": "Vaping Links to Covid Risk Are Becoming Clear",
+        "link": "https://www.msn.com/en-us/health/medical/vaping-links-to-covid-risk-are-becoming-clear/ar-BB18Isl6?li=BBnbfcL"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
