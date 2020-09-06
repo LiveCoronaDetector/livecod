@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "Coronavirus model projects U.S. deaths will surpass 400,000 by end of year",
-        "link": "https://www.cbsnews.com/news/covid-19-united-states-coronavirus-deaths-projection-400000-by-end-of-year/"
+        "title": "The bleak Covid winter? America still not on course to beat back the virus",
+        "link": "https://www.theguardian.com/world/2020/sep/05/america-covid-autumn-winter-coronavirus"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Australian anti-lockdown protesters clash with police",
-        "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
+        "title": "Race for Coronavirus Vaccine Pits Spy Against Spy",
+        "link": "https://www.nytimes.com/2020/09/05/us/politics/coronavirus-vaccine-espionage.html"
     },
     {
         "title": "Covid 19 Live Updates",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     },
     {
         "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
