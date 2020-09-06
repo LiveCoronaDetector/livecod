@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/06/coronavirus-live-news-victoria-awaits-lockdown-decision-anti-mask-protests-held-in-europe"
     },
     {
-        "title": "Covid-19 Live Updates: Northeastern University Dismisses 11 Students for Partying but Keeps Their Tuition",
-        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
+        "title": "Noreastern students kicked out after breaking COVID-19 rules",
+        "link": "https://www.youtube.com/watch?v=lXyZen1774c"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
