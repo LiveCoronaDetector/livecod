@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "'Nobody is safe': why Australia's Covid jobs crisis could last years",
-        "link": "https://www.theguardian.com/business/2020/sep/06/nobody-is-safe-why-australias-covid-jobs-crisis-could-last-years"
+        "title": "Two new, confirmed cases of COVID-19 in Victoria County",
+        "link": "https://www.crossroadstoday.com/two-new-confirmed-cases-of-covid-19-in-victoria-county-2/"
     },
     {
-        "title": "Vaping Links to Covid Risk Are Becoming Clear",
-        "link": "https://www.msn.com/en-us/health/medical/vaping-links-to-covid-risk-are-becoming-clear/ar-BB18Isl6?li=BBnbfcL"
+        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
+        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
+        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     }
 ];
