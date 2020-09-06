@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020090609310836449"
     },
     {
+        "title": "서울 신규 확진자 63명 증가 … 강동구 콜센터 관련 15명↑(상보)",
+        "link": "https://view.asiae.co.kr/article/2020090611274856917"
+    },
+    {
         "title": "코로나19 신규 확진자 167명…나흘 연속 100명대",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11968057"
     },
     {
         "title": "\"확진자 1명 발생시 비용 5000만원·연인원 457명 투입\"",
         "link": "https://www.news1.kr/articles/?4049902"
-    },
-    {
-        "title": "경남서 코로나19 확진자 2명 발생…해외 입국자·타지역 방문자(종합)",
-        "link": "http://yna.kr/AKR20200906015751052?did=1195m"
     },
     {
         "title": "코로나 신규확진자 나흘 연속 100명대 기록",
