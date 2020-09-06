@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966919&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나19 확진자 1명에 발생하는 사회적 비용은 얼마?",
-        "link": "http://www.segye.com/content/html/2020/09/06/20200906514703.html?OutUrl=naver"
-    },
-    {
         "title": "대구·경북 ‘동충하초’發 확진자 속출…n차 집단감염 우려",
         "link": "https://www.chosun.com/national/regional/yeongnam/2020/09/06/DN5YQZGV45ENBMUSIOSU3UOJPY/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "파주 스타벅스 관련 코로나19 확진자 2명 늘어…누적 70명",
         "link": "https://www.hankyung.com/life/article/2020090681387"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
     }
 ];

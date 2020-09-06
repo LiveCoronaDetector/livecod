@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
-        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
+        "title": "U.S. Cases Rise; U.K. Infections at 3-Month High: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=fd2de030-f055-11ea-8a9e-ad6bc564e6a1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wNS91LXMtY2FzZXMtdGljay11cC1hbWlkLXNwZWN0ZXItb2YtbGFib3ItZGF5LXN1cmdlLXZpcnVzLXVwZGF0ZQ=="
     }
 ];
