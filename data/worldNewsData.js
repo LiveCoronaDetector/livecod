@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as nations race to develop vaccine",
-        "link": "https://www.cnbc.com/2020/09/04/watch-live-world-health-organization-holds-briefing-on-coronavirus.html"
+        "title": "September 4 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-04-20-intl/index.html"
     }
 ];

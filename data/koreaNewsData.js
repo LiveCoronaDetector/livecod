@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200905026500001?did=1195m"
     },
     {
+        "title": "[속보] 전남서 코로나19 확진자 3명 추가 발생…해외 유입",
+        "link": "https://www.news1.kr/articles/?4049611"
+    },
+    {
         "title": "코로나19 광화문 집회 관련 총 510명 확진…방역당국 “집단감염 막아야”",
         "link": "http://www.hani.co.kr/arti/society/society_general/960870.html"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "임실군, 코로나19 확진자 이틀새 2명 발생, 고강도 비상체제 돌입",
         "link": "http://www.fnnews.com/news/202009051051582374"
-    },
-    {
-        "title": "[속보] 부산 확진자 2명 추가, 오피스텔 관련 사흘새 19명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020090514560678649"
     }
 ];
