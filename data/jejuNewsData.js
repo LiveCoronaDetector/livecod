@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
-    },
-    {
         "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
+    },
+    {
+        "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
     },
     {
         "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",

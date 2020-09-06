@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "The bleak Covid winter? America still not on course to beat back the virus",
-        "link": "https://www.theguardian.com/world/2020/sep/05/america-covid-autumn-winter-coronavirus"
+        "title": "Coronavirus model projects U.S. deaths will surpass 400,000 by end of year",
+        "link": "https://www.cbsnews.com/news/covid-19-united-states-coronavirus-deaths-projection-400000-by-end-of-year/"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "COVID-19 update: Victorian Premier Daniel Andrews is live I SBS News",
-        "link": "https://www.youtube.com/watch?v=ngpeyqnL-yM"
+        "title": "Coronavirus: Melbourne lockdown extended by two weeks",
+        "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
         "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
