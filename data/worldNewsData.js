@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
-        "title": "A New Front in America’s Pandemic: College Towns",
-        "link": "https://www.nytimes.com/2020/09/06/us/colleges-coronavirus-students.html"
+        "title": "Coronavirus model projects U.S. deaths will surpass 400,000 by end of year",
+        "link": "https://www.cbsnews.com/news/covid-19-united-states-coronavirus-deaths-projection-400000-by-end-of-year/"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",

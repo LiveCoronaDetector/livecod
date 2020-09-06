@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
     },
     {
-        "title": "'코로나 셧다운' 되풀이…국회 원격시스템 도입 힘 받을까?",
-        "link": "http://yna.kr/AKR20200905042100001?did=1195m"
+        "title": "일본 코로나 신규 확진 엿새 만에 400명대로 줄어",
+        "link": "http://yna.kr/AKR20200906064600073?did=1195m"
     }
 ];
