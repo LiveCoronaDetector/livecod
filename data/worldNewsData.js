@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "Former Italian PM Berlusconi remains hospitalized in 'most delicate phase' of coronavirus: personal doctor",
-        "link": "https://www.foxnews.com/world/italy-berlusconi-coronavirus-delicate-phase"
+        "title": "How Sardinia went from safe haven to Covid-19 hotspot",
+        "link": "https://www.theguardian.com/world/2020/sep/06/how-sardinia-went-from-safe-haven-to-covid-19-hotspot"
     },
     {
         "title": "Coronavirus Shatters India's Economy",

@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11968057"
     },
     {
-        "title": "코로나 신규 확진 167명…감소세 속 곳곳 산발 감염",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966919&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "영국 코로나19 일일 신규 확진자 3천명…5월 중순 이후 최다",
         "link": "http://yna.kr/AKR20200907001000085?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진 167명…감소세 속 곳곳 산발 감염",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005966919&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나 신규확진자 나흘 연속 100명대 기록",
