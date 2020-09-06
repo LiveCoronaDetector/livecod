@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     },
     {
-        "title": "Political leaders are raising ‘false hopes’ about coronavirus vaccines",
-        "link": "https://www.theguardian.com/world/2020/sep/06/political-leaders-are-raising-false-hopes-about-coronavirus-vaccines"
-    },
-    {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "U.S. Cases Rise; U.K. Infections at 3-Month High: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=fd2de030-f055-11ea-8a9e-ad6bc564e6a1&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wNS91LXMtY2FzZXMtdGljay11cC1hbWlkLXNwZWN0ZXItb2YtbGFib3ItZGF5LXN1cmdlLXZpcnVzLXVwZGF0ZQ=="
+        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
+        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
+    },
+    {
+        "title": "Coronavirus Update: With Over 41-Lakh Covid-19 Cases, India Becomes Third Most Affected Country",
+        "link": "https://www.youtube.com/watch?v=RRk3pmoN6LQ"
     }
 ];

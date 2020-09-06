@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009041443205501"
     },
     {
-        "title": "\"추석에 오지 말래요\"…코로나 확산에 고향길도 고민",
-        "link": "http://www.newsis.com/view/?id=NISX20200904_0001154714&cID=10201&pID=10200"
-    },
-    {
         "title": "제주지역 코로나19 47번 확진자 발생",
         "link": "http://www.ihalla.com/read.php3?aid=1598994626691235073"
+    },
+    {
+        "title": "\"추석에 오지 말래요\"…코로나 확산에 고향길도 고민",
+        "link": "http://www.newsis.com/view/?id=NISX20200904_0001154714&cID=10201&pID=10200"
     }
 ];
