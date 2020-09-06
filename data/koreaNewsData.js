@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/06/2020090600181.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 코로나19 신규확진 167명…곳곳 산발감염 지속",
-        "link": "https://www.hankyung.com/life/article/2020090681687"
-    },
-    {
         "title": "쿠팡, 고양물류센터서 코로나19 확진자 나와 폐쇄",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000995381?division=NAVER"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
-    },
-    {
-        "title": "강동구 콜센터 16명 집단감염… 서울 신규 확진자 63명",
-        "link": "http://www.hani.co.kr/arti/area/capital/960906.html"
-    },
-    {
-        "title": "계룡서 30대 코로나19 양성…주기쁨교회 확진자와 접촉",
-        "link": "http://yna.kr/AKR20200906022100063?did=1195m"
+        "title": "[종합] 코로나19 신규확진 167명…곳곳 산발감염 지속",
+        "link": "https://www.hankyung.com/life/article/2020090681687"
     },
     {
         "title": "코로나19 신규 확진자 167명…나흘째 100명대",
         "link": "https://www.donga.com/news/article/all/20200906/102806989/1"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
+    },
+    {
+        "title": "서울 신규 확진자 63명 증가 … 강동구 콜센터 관련 15명↑(상보)",
+        "link": "https://view.asiae.co.kr/article/2020090611274856917"
+    },
+    {
         "title": "코로나19 신규 확진자 167명…나흘 연속 100명대",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11968057"
     },
     {
-        "title": "‘코로나19’ 신규 확진자 167명…나흘째 100명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4533242&ref=A"
+        "title": "경남서 코로나19 확진자 2명 발생…해외 입국자·타지역 방문자(종합)",
+        "link": "http://yna.kr/AKR20200906015751052?did=1195m"
     },
     {
-        "title": "코로나 신규확진자 나흘 연속 100명대 기록",
-        "link": "https://www.pressian.com/pages/articles/2020090610085662692?utm_source=naver&utm_medium=search"
+        "title": "[속보] 광주서 코로나19 확진 2명 추가…시장 국밥집 방문",
+        "link": "https://www.news1.kr/articles/?4049603"
+    },
+    {
+        "title": "[속보] 이낙연 \"코로나 위험해질 수도…추석 때 이동 자제하자\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009060067&t=NN"
     }
 ];

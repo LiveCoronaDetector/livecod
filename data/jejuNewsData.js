@@ -25,16 +25,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009041443205501"
     },
     {
+        "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
+        "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
+    },
+    {
         "title": "\"추석에 오지 말래요\"…코로나 확산에 고향길도 고민",
         "link": "http://www.newsis.com/view/?id=NISX20200904_0001154714&cID=10201&pID=10200"
     },
     {
         "title": "제주도, 코로나19 치료병상 확대 운영",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3003415"
-    },
-    {
-        "title": "제주 48번 코로나19 확진자 발생",
-        "link": "https://jejumbc.com/article/jdqPVKRiXBdzDj"
     },
     {
         "title": "제주지역 코로나19 47번 확진자 발생",
