@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
-        "title": "Coronavirus: Further 2,988 cases confirmed in UK",
-        "link": "https://www.bbc.com/news/uk-54050342"
+        "title": "Political leaders are raising ‘false hopes’ about coronavirus vaccines",
+        "link": "https://www.theguardian.com/world/2020/sep/06/political-leaders-are-raising-false-hopes-about-coronavirus-vaccines"
     }
 ];
