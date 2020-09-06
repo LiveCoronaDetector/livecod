@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
     },
     {
-        "title": "Australian anti-lockdown protesters clash with police",
-        "link": "https://www.youtube.com/watch?v=QHUtK5ckGVs"
+        "title": "India Coronavirus Cases Surpass 4 Million",
+        "link": "https://www.npr.org/2020/09/05/910080446/india-coronavirus-cases-surpass-4-million"
     }
 ];
