@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Coronavirus: China's tourism industry thriving as world battles COVID-19",
-        "link": "https://news.sky.com/story/coronavirus-chinas-tourism-industry-thriving-as-world-battles-covid-19-12064860"
+        "title": "COVID-19 update: Victorian Premier Daniel Andrews is live I SBS News",
+        "link": "https://www.youtube.com/watch?v=ngpeyqnL-yM"
     },
     {
         "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
+    },
+    {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
-        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
-    },
-    {
-        "title": "Anti-lockdown protests turn violent in Melbourne",
-        "link": "https://www.youtube.com/watch?v=QrQtMMTy1I0"
+        "title": "Coronavirus: Russian vaccine shows signs of immune response",
+        "link": "https://www.bbc.com/news/world-europe-54036221"
     }
 ];

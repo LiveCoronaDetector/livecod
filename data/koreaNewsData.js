@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090610085662692?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "파주 스타벅스 관련 코로나19 확진자 2명 늘어…누적 70명",
+        "link": "https://www.hankyung.com/life/article/2020090681387"
+    },
+    {
         "title": "경남서 코로나19 확진자 2명 발생…해외 입국자·타지역 방문자(종합)",
         "link": "http://yna.kr/AKR20200906015751052?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규확진자 167명…나흘째 100명대 유지",
         "link": "http://www.inews24.com/view/1296784"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
     }
 ];
