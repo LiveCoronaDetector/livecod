@@ -21,11 +21,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Race for Coronavirus Vaccine Pits Spy Against Spy",
-        "link": "https://www.nytimes.com/2020/09/05/us/politics/coronavirus-vaccine-espionage.html"
+        "title": "Coronavirus live news: Melbourne lockdown extended; anti-mask protests held in Europe",
+        "link": "https://www.theguardian.com/world/live/2020/sep/06/coronavirus-live-news-victoria-awaits-lockdown-decision-anti-mask-protests-held-in-europe"
     },
     {
-        "title": "Covid 19 Live Updates",
+        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
         "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     },
     {
-        "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
-        "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
+        "title": "Coronavirus: Russian vaccine shows signs of immune response",
+        "link": "https://www.bbc.com/news/world-europe-54036221"
     }
 ];

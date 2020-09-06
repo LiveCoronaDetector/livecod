@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000995381?division=NAVER"
     },
     {
+        "title": "코로나19 신규 확진자 167명…나흘째 100명대",
+        "link": "https://www.donga.com/news/article/all/20200906/102806989/1"
+    },
+    {
         "title": "코로나19 신규확진자 167명…나흘째 100명대 유지",
         "link": "http://www.inews24.com/view/1296784"
     },
     {
-        "title": "코로나19 신규 확진자 167명…나흘째 100명대",
-        "link": "https://www.donga.com/news/article/all/20200906/102806989/1"
+        "title": "확진자 1명에 평균 4781만원 소요…광주시 분석",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009061527001&code=620100"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 167명…지역발생 152명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009060945001&code=940100"
     },
     {
-        "title": "서울 신규 확진자 63명 증가 … 강동구 콜센터 관련 15명↑(상보)",
-        "link": "https://view.asiae.co.kr/article/2020090611274856917"
-    },
-    {
-        "title": "코로나19 확진자 1명당 직접비용 4천781만원·인력 457명 투입",
-        "link": "http://yna.kr/AKR20200906037900054?did=1195m"
+        "title": "강동구 콜센터 16명 집단감염… 서울 신규 확진자 63명",
+        "link": "http://www.hani.co.kr/arti/area/capital/960906.html"
     },
     {
         "title": "코로나 어제 확진 167명…국내발생 152명·해외유입 15명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11968057"
     },
     {
-        "title": "[종합] 코로나19 신규확진 167명…곳곳 산발감염 지속",
-        "link": "https://www.hankyung.com/life/article/2020090681687"
+        "title": "코로나19 신규 확진 사흘째 100명대… 사랑제일교회 관련 확진자 1152명",
+        "link": "http://www.segye.com/content/html/2020/09/05/20200905507134.html?OutUrl=naver"
     }
 ];
