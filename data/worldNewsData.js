@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "How Sardinia went from safe haven to Covid-19 hotspot",
-        "link": "https://www.theguardian.com/world/2020/sep/06/how-sardinia-went-from-safe-haven-to-covid-19-hotspot"
+        "title": "Former Italian PM Berlusconi remains hospitalized in 'most delicate phase' of coronavirus: personal doctor",
+        "link": "https://www.foxnews.com/world/italy-berlusconi-coronavirus-delicate-phase"
     },
     {
         "title": "Coronavirus Shatters India's Economy",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
-    },
-    {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
-    },
-    {
         "title": "Coronavirus: fears UK government has lost control as cases soar",
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
-        "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
-        "link": "https://www.nytimes.com/2020/09/05/world/coronavirus-covid.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
+    },
+    {
+        "title": "Political leaders are raising ‘false hopes’ about coronavirus vaccines",
+        "link": "https://www.theguardian.com/world/2020/sep/06/political-leaders-are-raising-false-hopes-about-coronavirus-vaccines"
+    },
+    {
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     }
 ];
