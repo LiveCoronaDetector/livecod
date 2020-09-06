@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/how-sardinia-went-from-safe-haven-to-covid-19-hotspot"
     },
     {
-        "title": "Coronavirus Shatters India's Economy",
-        "link": "https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html"
+        "title": "UK hits highest daily COVID-19 rate since May, India breaks own global record",
+        "link": "https://nypost.com/2020/09/06/uk-hits-highest-daily-total-of-new-covid-19-cases-since-may/"
     },
     {
         "title": "Coronavirus: Melbourne lockdown extended by two weeks",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     },
     {
-        "title": "Political leaders are raising ‘false hopes’ about coronavirus vaccines",
-        "link": "https://www.theguardian.com/world/2020/sep/06/political-leaders-are-raising-false-hopes-about-coronavirus-vaccines"
-    },
-    {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
+    },
+    {
+        "title": "Kamala Harris: 'We do have two systems of justice in America'",
+        "link": "https://www.cnn.com/2020/09/06/politics/kamala-harris-two-justice-systems-cnntv/index.html"
     }
 ];
