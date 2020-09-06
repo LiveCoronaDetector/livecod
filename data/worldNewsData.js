@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-4-million-coronavirus-cases"
     },
     {
-        "title": "Two new, confirmed cases of COVID-19 in Victoria County",
-        "link": "https://www.crossroadstoday.com/two-new-confirmed-cases-of-covid-19-in-victoria-county-2/"
+        "title": "Coronavirus: China's tourism industry thriving as world battles COVID-19",
+        "link": "https://news.sky.com/story/coronavirus-chinas-tourism-industry-thriving-as-world-battles-covid-19-12064860"
     },
     {
         "title": "Northeastern University Dismisses 11 Students for Breaking Virus Rules but Keeps Their Tuition",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
-    },
-    {
         "title": "The U.S. vs. the world: How major nations are recovering from coronavirus",
         "link": "https://www.politico.com/news/2020/09/04/get-ready-for-a-long-recession-408911"
+    },
+    {
+        "title": "Anti-lockdown protests turn violent in Melbourne",
+        "link": "https://www.youtube.com/watch?v=QrQtMMTy1I0"
     }
 ];
