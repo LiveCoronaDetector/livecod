@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020090611274856917"
     },
     {
+        "title": "코로나 어제 확진 167명…국내발생 152명·해외유입 15명",
+        "link": "https://news.imaeil.com/Society/2020090609310836449"
+    },
+    {
         "title": "코로나19 신규 확진자 167명…나흘 연속 100명대",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11968057"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200906015751052?did=1195m"
     },
     {
-        "title": "[속보] 광주서 코로나19 확진 2명 추가…시장 국밥집 방문",
-        "link": "https://www.news1.kr/articles/?4049603"
-    },
-    {
-        "title": "[속보] 이낙연 \"코로나 위험해질 수도…추석 때 이동 자제하자\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009060067&t=NN"
+        "title": "코로나19 신규확진자 168명…사흘째 100명대 유지",
+        "link": "http://www.inews24.com/view/1296727"
     }
 ];
