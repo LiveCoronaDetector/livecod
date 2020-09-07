@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "코로나19 대응 전 도민 대상 독감 백심 무료 접종",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171274"
-    },
-    {
         "title": "제주도교육청, '2021학년 평준화 일반고' 학급 정원 감축",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350149"
     },
     {
         "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
+    },
+    {
+        "title": "코로나19 대응 전 도민 대상 독감 백심 무료 접종",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171274"
     },
     {
         "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",

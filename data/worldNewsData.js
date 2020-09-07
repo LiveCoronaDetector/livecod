@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
+        "title": "India passes Brazil, becomes second worst-hit country as coronavirus cases top 4.2 million",
+        "link": "https://www.cnbc.com/2020/09/07/india-passes-brazil-becomes-second-worst-hit-country-by-coronavirus.html"
     },
     {
-        "title": "Coronavirus live updates: US governors urge Labor Day vigilance, safety; Israel imposes overnight curfews; CDC to lead vaccine distribution",
-        "link": "https://news.google.com/articles/CAIiENN-pJqidyP74LkaFEwFV9cqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
+        "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "While covid-19 continues to force remote work, Europe looks to enforce a right to disconnect",
-        "link": "https://www.washingtonpost.com/world/europe/coronavirus-remote-work-europe/2020/09/04/6e4a19c6-e23e-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
     },
     {
         "title": "India didn't prioritize mental health before Covid-19. Now it's paying the price",
         "link": "https://www.cnn.com/2020/09/06/india/india-mental-health-dst-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Australia signs $1.2 billion agreement for nearly 85 million coronavirus vaccine doses",
         "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/h_34d046e0d885f2053e82c3b5848f3b5a"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
     },
     {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
         "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
     },
     {
-        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
-        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
-    },
-    {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
         "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
     },
     {
-        "title": "World economies are still quarters away from returning to pre-coronavirus levels, warns Amundi",
-        "link": "https://news.google.com/articles/CAIiELTjj2OWZjhRuyhQTeBzV_0qGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
+        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
     }
 ];
