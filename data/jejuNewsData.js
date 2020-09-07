@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
     },
     {
+        "title": "제주도교육청, '2021학년 평준화 일반고' 학급 정원 감축",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350149"
+    },
+    {
         "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
         "link": "https://www.news1.kr/articles/?4049172"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
         "link": "http://www.fnnews.com/news/202009041443205501"
-    },
-    {
-        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     }
 ];
