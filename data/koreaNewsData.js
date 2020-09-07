@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/961014.html"
     },
     {
-        "title": "[속보]국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
-    },
-    {
-        "title": "국회, 3주 새 세 번째 확진자 나와…대책본부, 동선 공개(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200907_0001157024&cID=10301&pID=10300"
+        "title": "국회서 또 확진자…건물 폐쇄 등 긴급대책 회의 나서",
+        "link": "http://www.segye.com/content/html/2020/09/07/20200907511225.html?OutUrl=naver"
     },
     {
         "title": "[종합] 코로나19 확진자 119명 증가...서울 47명, 경기 30명",
         "link": "http://www.fnnews.com/news/202009070939206536"
     },
     {
-        "title": "[속보] 이낙연 \"8·15 광화문 집회로 코로나19 재확산된 것\"",
-        "link": "https://www.hankyung.com/politics/article/2020090709267"
-    },
-    {
         "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[속보] 국내 신규확진자 119명…닷새째 100명대",
-        "link": "https://news.imaeil.com/Society/2020090709310770765"
-    },
-    {
-        "title": "서울 코로나19 사망자 급증세…신규 확진은 24일만에 40명대(종합)",
-        "link": "http://yna.kr/AKR20200907068551004?did=1195m"
+        "title": "[속보] 코로나19 신규 확진 119명···닷새째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009070943001&code=940100"
     },
     {
         "title": "코로나 국내 신규 확진 119명… 국내발생 108명·해외유입 11명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/07/2020090701027.html"
     },
     {
+        "title": "[속보] 이낙연 \"8·15 광화문 집회로 코로나19 재확산된 것\"",
+        "link": "https://www.hankyung.com/politics/article/2020090709267"
+    },
+    {
         "title": "국군외상센터, 코로나 전담치료 문 연다",
         "link": "https://view.asiae.co.kr/article/2020090709263170502"
+    },
+    {
+        "title": "국회, 3주 새 세 번째 확진자 나와…대책본부, 동선 공개(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200907_0001157024&cID=10301&pID=10300"
+    },
+    {
+        "title": "서울 코로나19 사망자 급증세…신규 확진은 24일만에 40명대(종합)",
+        "link": "http://yna.kr/AKR20200907068551004?did=1195m"
     }
 ];

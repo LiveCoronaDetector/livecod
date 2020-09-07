@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
     },
     {
-        "title": "India didn't prioritize mental health before Covid-19. Now it's paying the price",
-        "link": "https://www.cnn.com/2020/09/06/india/india-mental-health-dst-intl-hnk/index.html"
+        "title": "Coronavirus rising in 22 US states ahead of Labor Day holiday weekend - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/09/07/coronavirus-rising-in-22-us-states-ahead-of-labor-day-holiday-weekend.html"
     },
     {
         "title": "Coronavirus: Melbourne lockdown extended by two weeks",

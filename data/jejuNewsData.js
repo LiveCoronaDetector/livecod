@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4049172"
     },
     {
-        "title": "코로나19로 달라진 '제주 2021학년도 고입전형', 그 모습은?",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325719"
+        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
+        "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
         "title": "제주 '게스트하우스'발 코로나 확산 심상치 않다…전국 11명",
         "link": "http://yna.kr/AKR20200904036700056?did=1195m"
     },
     {
-        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
-        "link": "http://www.fnnews.com/news/202009020025153557"
-    },
-    {
         "title": "코로나19 감염 우려 확산에 '고삐'",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171171"
+    },
+    {
+        "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
+        "link": "http://www.fnnews.com/news/202009041443205501"
     }
 ];
