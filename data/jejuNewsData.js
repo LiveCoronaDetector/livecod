@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
     },
     {
-        "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
-        "link": "https://www.news1.kr/articles/?4049172"
-    },
-    {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
+    },
+    {
+        "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
+        "link": "https://www.news1.kr/articles/?4049172"
     },
     {
         "title": "제주 '게스트하우스'발 코로나 확산 심상치 않다…전국 11명",

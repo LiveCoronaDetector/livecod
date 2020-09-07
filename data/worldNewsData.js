@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
-        "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
-        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
+        "title": "Haverhill Samuel Ward Academy school closes after Covid-19 outbreak sees five teachers test positive",
+        "link": "https://www.cambridge-news.co.uk/news/local-news/haverhill-samuel-ward-school-coronavirus-18889733"
     },
     {
         "title": "CNN Exclusive interview with Sen. Kamala Harris (part 1)",
         "link": "https://www.youtube.com/watch?v=sy3qJVD1Izg"
     },
     {
-        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
-        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
+        "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
+        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
