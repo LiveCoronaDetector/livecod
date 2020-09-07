@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=0hrQ94lZB2Q"
     },
     {
-        "title": "Virus Outbreak: News and Analysis From Sep 7, 2020",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b16e6830-f0d3-11ea-bffa-a73706468244&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wNi9nZW9yZ2lhLXBhc3Nlcy02LTAwMC1mYXRhbGl0aWVzLXUtcy1jYXNlcy1zdGVhZHktdmlydXMtdXBkYXRl"
+        "title": "Cases Top 27 Million; India Set to Surpass Brazil: Virus Update",
+        "link": "https://www.msn.com/en-us/news/world/cases-near-27-million-india-set-to-top-brazil-virus-update/ar-BB18LP4C?li=BBnbcA1"
     },
     {
-        "title": "UK records highest daily coronavirus cases since May: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
+        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
+        "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
         "title": "Coronavirus: fears UK government has lost control as Covid cases soar",

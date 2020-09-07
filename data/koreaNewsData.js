@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4533589&ref=A"
     },
     {
+        "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "[속보] 문 대통령 \"추석 전 확진자 100명 아래로 전력\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009070326&t=NN"
+    },
+    {
+        "title": "국회 출입기자 또 코로나19 확진...일부 건물 곧 폐쇄",
+        "link": "https://www.ytn.co.kr/_ln/0101_202009071143248073"
+    },
+    {
+        "title": "국군외상센터, 코로나 전담치료 문 연다",
+        "link": "https://view.asiae.co.kr/article/2020090709263170502"
     },
     {
         "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
     },
     {
-        "title": "울산 가족 감염 코로나19 확진자 4명 발생",
-        "link": "http://yna.kr/AKR20200907037500057?did=1195m"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 119명 증가...서울 47명, 경기 30명",
-        "link": "http://www.fnnews.com/news/202009070939206536"
-    },
-    {
-        "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "쿠팡, 고양물류센터서 코로나19 확진자 나와 폐쇄",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000995381?division=NAVER"
-    },
-    {
         "title": "코로나19 신규 확진 119명…닷새째 100명대",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218548"
     },
     {
-        "title": "국회 출입기자 또 코로나19 확진...일부 건물 곧 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0101_202009071143248073"
+        "title": "코로나 국내 신규 확진 119명… 국내발생 108명·해외유입 11명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/07/2020090701027.html"
+    },
+    {
+        "title": "울산 가족 감염 코로나19 확진자 4명 발생",
+        "link": "http://yna.kr/AKR20200907037500057?did=1195m"
     }
 ];
