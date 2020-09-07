@@ -10,11 +10,11 @@ var worldNewsData = [
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
-        "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
+        "link": "https://news.google.com/articles/CAIiEHwHtWHquH1i8DLLalrKUa8qGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Former Italian PM Berlusconi remains hospitalized in 'most delicate phase' of coronavirus: personal doctor",
-        "link": "https://www.foxnews.com/world/italy-berlusconi-coronavirus-delicate-phase"
+        "title": "Coronavirus rising in 22 U.S. states",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
     },
     {
         "title": "UK hits highest daily COVID-19 rate since May, India breaks own global record",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
-        "title": "Coronavirus: fears UK government has lost control as cases soar",
-        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
-    },
-    {
-        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
-        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
+        "title": "Virus Outbreak: News and Analysis From Sep 7, 2020",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1734e660-f0ae-11ea-a82e-630620967bec&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wNi9nZW9yZ2lhLXBhc3Nlcy02LTAwMC1mYXRhbGl0aWVzLXUtcy1jYXNlcy1zdGVhZHktdmlydXMtdXBkYXRl"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: New York Goes a Month With a Positivity Rate of Under 1 Percent",
-        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
+        "title": "Coronavirus rising in 22 US states ahead of Labor Day holiday weekend - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/09/07/coronavirus-rising-in-22-us-states-ahead-of-labor-day-holiday-weekend.html"
+    },
+    {
+        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
+        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
     }
 ];
