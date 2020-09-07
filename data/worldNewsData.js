@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "Coronavirus live news: India reports global one-day record of over 90,000 cases",
-        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
-    },
-    {
-        "title": "Coronavirus cases on the rise in 22 US states: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
-    },
-    {
         "title": "Coronavirus rising in 22 U.S. states",
         "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
+    },
+    {
+        "title": "India Reports Record Number of New COVID Infections",
+        "link": "https://www.voanews.com/covid-19-pandemic/india-reports-record-number-new-covid-infections"
+    },
+    {
+        "title": "Coronavirus live news: India reports global one-day record of over 90,000 cases",
+        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
     },
     {
         "title": "Coronavirus rising in 22 US states ahead of Labor Day holiday weekend - The Jakarta Post",
