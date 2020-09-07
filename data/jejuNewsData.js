@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
     },
     {
-        "title": "코로나19 대응 전 도민 대상 독감 백심 무료 접종",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171274"
-    },
-    {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
+    },
+    {
+        "title": "코로나19 대응 전 도민 대상 독감 백심 무료 접종",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171274"
     },
     {
         "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
