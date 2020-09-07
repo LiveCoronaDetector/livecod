@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009070326&t=NN"
     },
     {
-        "title": "문 대통령 \"코로나 확산세 반전 성공, 자신감 높아져\"",
-        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=209145"
-    },
-    {
-        "title": "국군외상센터, 코로나 전담치료 문 연다",
-        "link": "https://view.asiae.co.kr/article/2020090709263170502"
+        "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
+        "link": "http://yna.kr/AKR20200907110200083?did=1195m"
     },
     {
         "title": "코로나 통제 손 놨다…하루 확진자만 9만명 넘은 이 나라",
         "link": "https://www.hankyung.com/international/article/202009072579i"
     },
     {
-        "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5902517_32640.html"
+        "title": "국군외상센터, 코로나 전담치료 문 연다",
+        "link": "https://view.asiae.co.kr/article/2020090709263170502"
+    },
+    {
+        "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
     },
     {
         "title": "코로나19 신규 확진 119명…닷새째 100명대",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218548"
     },
     {
-        "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
+        "title": "[단독] “추석 고속도로 통행료 면제 없다\"... 코로나 특단 대책",
+        "link": "https://hankookilbo.com/News/Read/A2020090710030003595?did=NA"
     }
 ];

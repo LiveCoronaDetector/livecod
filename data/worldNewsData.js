@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.thesun.co.uk/news/12600907/teachers-test-positive-coronavirus-school-haverhill-suffolk/"
     },
     {
-        "title": "Teachers at Suffolk school test positive for coronavirus",
-        "link": "https://www.theguardian.com/world/2020/sep/07/teachers-at-suffolk-school-test-positive-for-coronavirus"
+        "title": "Teachers test positive for coronavirus with school closed as 'precaution'",
+        "link": "https://www.mylondon.news/news/uk-world-news/teachers-test-positive-coronavirus-school-18889596"
     },
     {
         "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
         "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
-        "title": "UK secondary school closes after five teachers test positive for COVID 19",
-        "link": "https://www.liverpoolecho.co.uk/news/uk-world-news/secondary-school-closes-after-five-18889725"
+        "title": "Haverhill Samuel Ward Academy school closes after Covid-19 outbreak sees five teachers test positive",
+        "link": "https://www.cambridge-news.co.uk/news/local-news/haverhill-samuel-ward-school-coronavirus-18889733"
     },
     {
-        "title": "CNN Exclusive interview with Sen. Kamala Harris (part 1)",
-        "link": "https://www.youtube.com/watch?v=sy3qJVD1Izg"
+        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
+        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
     },
     {
         "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
-        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
-        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
+        "title": "September 6 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     }
 ];

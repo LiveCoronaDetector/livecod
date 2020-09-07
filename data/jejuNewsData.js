@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
     },
     {
+        "title": "코로나19 대응 전 도민 대상 독감 백심 무료 접종",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171274"
+    },
+    {
         "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
         "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 감염 우려 확산에 '고삐'",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171171"
-    },
-    {
-        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     }
 ];
