@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6464064,
-        "사망자수": 193266,
+        "확진자수": 6466498,
+        "사망자수": 193283,
         "완치자수": 3726119
     },
     {
@@ -220,9 +220,9 @@ var marker = [
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "확진자수": 120095,
-        "사망자수": 203,
-        "완치자수": 116998
+        "확진자수": 120348,
+        "사망자수": 205,
+        "완치자수": 117241
     },
     {
         "Name": "에콰도르",
@@ -732,9 +732,9 @@ var marker = [
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "확진자수": 9322,
+        "확진자수": 9355,
         "사망자수": 62,
-        "완치자수": 8870
+        "완치자수": 8902
     },
     {
         "Name": "헝가리",
@@ -1081,6 +1081,14 @@ var marker = [
         "완치자수": 1756
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "확진자수": 2277,
+        "사망자수": 13,
+        "완치자수": 1313
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
@@ -1095,14 +1103,6 @@ var marker = [
         "확진자수": 2245,
         "사망자수": 38,
         "완치자수": 1127
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "확진자수": 2222,
-        "사망자수": 13,
-        "완치자수": 1313
     },
     {
         "Name": "Benin",
@@ -1521,20 +1521,20 @@ var marker = [
         "완치자수": 97
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "확진자수": 102,
+        "사망자수": 1,
+        "완치자수": 45
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
         "확진자수": 95,
         "사망자수": 3,
         "완치자수": 91
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "확진자수": 92,
-        "사망자수": 1,
-        "완치자수": 45
     },
     {
         "Name": "British Virgin Islands",
