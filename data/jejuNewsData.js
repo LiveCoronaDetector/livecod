@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009041443205501"
     },
     {
-        "title": "\"추석에 오지 말래요\"…코로나 확산에 고향길도 고민",
-        "link": "http://www.newsis.com/view/?id=NISX20200904_0001154714&cID=10201&pID=10200"
+        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     }
 ];
