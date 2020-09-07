@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
-        "title": "Virus Outbreak: News and Analysis From Sep 7, 2020",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=42115ae0-f0b2-11ea-a1fa-1fe79f0a5e84&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wNi9nZW9yZ2lhLXBhc3Nlcy02LTAwMC1mYXRhbGl0aWVzLXUtcy1jYXNlcy1zdGVhZHktdmlydXMtdXBkYXRl"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
+        "title": "Coronavirus rising in 22 US states ahead of Labor Day holiday weekend - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/09/07/coronavirus-rising-in-22-us-states-ahead-of-labor-day-holiday-weekend.html"
     },
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
         "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
+    },
+    {
+        "title": "Coronavirus: fears UK government has lost control as cases soar",
+        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
         "title": "Covid-19 Live Updates: New York Goes a Month With a Positivity Rate of Under 1 Percent",

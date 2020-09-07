@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4533589&ref=A"
     },
     {
-        "title": "박능후 “일일 확진자 5일 연속 100명대 유지…162명 중증치료 중”",
-        "link": "https://www.donga.com/news/article/all/20200907/102818321/2"
+        "title": "국회서 또 확진자 발생…“의원들 동선 최소화 해달라”",
+        "link": "https://www.donga.com/news/article/all/20200907/102821343/2"
     },
     {
-        "title": "[속보]국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
+        "title": "박능후 “코로나19 신규확진자 오늘까지 5일째 100명대 유지\"",
+        "link": "https://www.sedaily.com/NewsView/1Z7RGOH8U5"
+    },
+    {
+        "title": "울산 가족 감염 코로나19 확진자 4명 발생",
+        "link": "http://yna.kr/AKR20200907037500057?did=1195m"
     },
     {
         "title": "[종합] 코로나19 확진자 119명 증가...서울 47명, 경기 30명",
         "link": "http://www.fnnews.com/news/202009070939206536"
     },
     {
-        "title": "[속보] 이낙연 \"8·15 광화문 집회로 코로나19 재확산된 것\"",
-        "link": "https://www.hankyung.com/politics/article/2020090709267"
-    },
-    {
         "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[속보] 국내 신규확진자 119명…닷새째 100명대",
-        "link": "https://news.imaeil.com/Society/2020090709310770765"
+        "title": "[속보] 코로나19 신규 확진 119명···닷새째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009070943001&code=940100"
     },
     {
-        "title": "[속보] 코로나 국내 신규 확진 119명… 국내발생 108명·해외유입 11명",
+        "title": "[전문]이낙연 국회 연설 \"윈-윈-윈 정치로 코로나 대전환\"",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020090708317640563"
+    },
+    {
+        "title": "코로나 국내 신규 확진 119명… 국내발생 108명·해외유입 11명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/07/2020090701027.html"
     },
     {
         "title": "국군외상센터, 코로나 전담치료 문 연다",
         "link": "https://view.asiae.co.kr/article/2020090709263170502"
-    },
-    {
-        "title": "[전문]이낙연 민주당 대표 교섭단체 대표연설 \"국민과 함께 코로나를 넘어\"",
-        "link": "http://www.newsfreezone.co.kr/news/articleView.html?idxno=258459"
     }
 ];
