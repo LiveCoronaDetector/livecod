@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171274"
     },
     {
-        "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
-        "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
-    },
-    {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
+    },
+    {
+        "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
+        "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
     },
     {
         "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",

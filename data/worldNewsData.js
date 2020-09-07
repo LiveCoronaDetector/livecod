@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.arabnews.com/node/1730411/world"
     },
     {
-        "title": "World must be better prepared for next pandemic, says WHO boss",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who/world-must-be-better-prepared-for-next-pandemic-says-who-boss-idUSKBN25Y1IY"
+        "title": "New Delhi's Metro Reopens As India Virus Cases Reach World's Second-Highest",
+        "link": "https://www.youtube.com/watch?v=T-FLoCHpESk"
     },
     {
-        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
-        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
+        "title": "World must be better prepared for next pandemic, says WHO boss",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who/world-must-be-better-prepared-for-next-pandemic-says-who-boss-idUSKBN25Y1IY"
     },
     {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",

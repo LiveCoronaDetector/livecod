@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "국회서 세번째 확진자…한정애, 검사 후 집에서 대기(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/07/2020090701964.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968947&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "국회서 세번째 확진자…한정애, 검사 후 집에서 대기(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/07/2020090701964.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "국회, 3주 새 세 번째 확진자 나와…대책본부, 동선 공개(종합)",
