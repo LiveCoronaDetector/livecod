@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
     },
     {
-        "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
-        "link": "https://www.news1.kr/articles/?4049172"
-    },
-    {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
+    },
+    {
+        "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
+        "link": "https://www.news1.kr/articles/?4049172"
     }
 ];
