@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "Coronavirus live news: India becomes second worst-hit nation with one-day record of over 90,000 cases",
+        "title": "Coronavirus live news: India sees one-day record of 90,000 cases; five teachers test positive at Suffolk school",
         "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
-    },
-    {
-        "title": "India becomes second worst-hit country by coronavirus: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
     },
     {
         "title": "India sees global record in new coronavirus cases",
         "link": "https://www.youtube.com/watch?v=0hrQ94lZB2Q"
     },
     {
-        "title": "Cases Top 27 Million; India Set to Surpass Brazil: Virus Update",
-        "link": "https://www.msn.com/en-us/news/world/cases-near-27-million-india-set-to-top-brazil-virus-update/ar-BB18LP4C?li=BBnbcA1"
+        "title": "Samuel Ward Academy in Haverhill shuts after five teachers test positive for Covid-19",
+        "link": "https://www.essexlive.news/news/essex-news/samuel-ward-academy-haverhill-shuts-4490945"
+    },
+    {
+        "title": "Teachers at Suffolk school test positive for coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/07/teachers-at-suffolk-school-test-positive-for-coronavirus"
     },
     {
         "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
+    },
+    {
         "title": "Fears raised over Covid testing as 40000 students return to city",
         "link": "https://www.yorkpress.co.uk/news/18699236.fears-raised-covid-testing-40-000-students-return-york/"
     },
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
         "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
     }
 ];
