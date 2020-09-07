@@ -2,15 +2,15 @@
 var worldNewsData = [
     {
         "title": "Covering covid-19 in Africa: 'The virus cannot stop this life and energy'",
-        "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
+        "link": "https://news.google.com/articles/CAIiEBdMaNRcC6MJkuQmsYWu9SUqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global coronavirus cases surpass 27 million: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
+        "title": "India passes Brazil, becomes second worst-hit country as coronavirus cases top 4.2 million",
+        "link": "https://www.cnbc.com/2020/09/07/india-passes-brazil-becomes-second-worst-hit-country-by-coronavirus.html"
     },
     {
-        "title": "Some COVID-19 Patients Have Required Lung Transplant To Survive, Johns Hopkins Doctor Says",
-        "link": "https://www.youtube.com/watch?v=AB7KzcB2dRo"
+        "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
+        "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
     },
     {
         "title": "While covid-19 continues to force remote work, Europe looks to enforce a right to disconnect",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/06/india/india-mental-health-dst-intl-hnk/index.html"
     },
     {
-        "title": "Exclusive: 90% of China's Sinovac employees, families took coronavirus vaccine, says CEO",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccine-sinovac-ex/exclusive-90-of-chinas-sinovac-employees-families-took-coronavirus-vaccine-says-ceo-idUSKBN25X0BG"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/h_34d046e0d885f2053e82c3b5848f3b5a"
     },
     {
-        "title": "Global COVID-19 deaths surpass 880000",
-        "link": "https://www.newtimes.co.rw/international/global-covid-19-deaths-surpass-880000"
+        "title": "New Delhi's Metro Reopens As India Virus Cases Reach World's Second-Highest",
+        "link": "https://www.youtube.com/watch?v=T-FLoCHpESk"
     },
     {
-        "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
-        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
+        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
+        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
     },
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
         "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
     },
     {
-        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
-        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
+        "title": "World economies are still quarters away from returning to pre-coronavirus levels, warns Amundi",
+        "link": "https://www.cnbc.com/2020/09/07/economies-are-still-quarters-away-from-returning-to-pre-coronavirus-levels-warns-amundi.html"
     }
 ];

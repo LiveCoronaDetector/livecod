@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020090709263170502"
     },
     {
-        "title": "울산 가족 감염 코로나19 확진자 4명 발생",
-        "link": "http://yna.kr/AKR20200907037500057?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진 119명…닷새째 100명대",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218548"
     },
     {
         "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
+    },
+    {
+        "title": "[단독] “추석 고속도로 통행료 면제 없다\"... 코로나 특단 대책",
+        "link": "https://hankookilbo.com/News/Read/A2020090710030003595?did=NA"
     }
 ];

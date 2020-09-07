@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도교육청, '2021학년 평준화 일반고' 학급 정원 감축",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350149"
-    },
-    {
         "title": "코로나19 대응 전 도민 대상 독감 백심 무료 접종",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171274"
+    },
+    {
+        "title": "제주도교육청, '2021학년 평준화 일반고' 학급 정원 감축",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350149"
     },
     {
         "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
@@ -19,10 +19,6 @@ var jejuNewsData = [
     {
         "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
         "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
-    },
-    {
-        "title": "벌초 문화도 바꾼 코로나19..추석 항공좌석도 남아",
-        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/11349?feed=na"
     },
     {
         "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
@@ -35,6 +31,10 @@ var jejuNewsData = [
     {
         "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
         "link": "https://www.news1.kr/articles/?4049172"
+    },
+    {
+        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     },
     {
         "title": "제주 '게스트하우스'발 코로나 확산 심상치 않다…전국 11명",
