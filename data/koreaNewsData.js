@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/07/2020090701964.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 119명…닷새째 100명대 유지",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4533589&ref=A"
-    },
-    {
-        "title": "이용섭 광주시장, 코로나 브리핑…북구 확진자 55%·방역중점관리지역 지정(전...",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=583496"
-    },
-    {
-        "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
-    },
-    {
-        "title": "코로나 통제 손 놨다…하루 확진자만 9만명 넘은 이 나라",
-        "link": "https://www.hankyung.com/international/article/202009072579i"
-    },
-    {
         "title": "국내 코로나19 신규 확진자 119명…닷새째 100명대",
         "link": "http://www.hani.co.kr/arti/society/society_general/961014.html"
-    },
-    {
-        "title": "국회 출입기자 또 코로나19 확진...일부 건물 곧 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0101_202009071143248073"
-    },
-    {
-        "title": "[전문] 文대통령 “코로나 확산세 통제…다시 한 번 상황 반전 성공”",
-        "link": "http://www.ajunews.com/view/20200907153254756"
     },
     {
         "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "[속보] 문 대통령 \"추석 전 확진자 100명 아래로 전력\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009070326&t=NN"
+    },
+    {
+        "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
+    },
+    {
         "title": "국군외상센터, 코로나 전담치료 문 연다",
         "link": "https://view.asiae.co.kr/article/2020090709263170502"
+    },
+    {
+        "title": "코로나19 신규 확진 119명…닷새째 100명대",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218548"
+    },
+    {
+        "title": "코로나 통제 손 놨다…하루 확진자만 9만명 넘은 이 나라",
+        "link": "https://www.hankyung.com/international/article/202009072579i"
+    },
+    {
+        "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5902517_32640.html"
+    },
+    {
+        "title": "울산 가족 감염 코로나19 확진자 4명 발생",
+        "link": "http://yna.kr/AKR20200907037500057?did=1195m"
     }
 ];

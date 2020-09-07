@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
     },
     {
-        "title": "India becomes second worst-hit country by coronavirus: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
+        "title": "Cases Top 27 Million; India Set to Surpass Brazil: Virus Update",
+        "link": "https://www.msn.com/en-us/news/world/cases-near-27-million-india-set-to-top-brazil-virus-update/ar-BB18LP4C?li=BBnbcA1"
     },
     {
         "title": "Teachers test positive for coronavirus with school closed as 'precautionary measure'",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
-        "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
-        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
+        "title": "Haverhill Samuel Ward Academy school closes after Covid-19 outbreak sees five teachers test positive",
+        "link": "https://www.cambridge-news.co.uk/news/local-news/haverhill-samuel-ward-school-coronavirus-18889733"
     },
     {
-        "title": "Kamala Harris: 'We do have two systems of justice in America'",
-        "link": "https://www.cnn.com/2020/09/06/politics/kamala-harris-two-justice-systems-cnntv/index.html"
+        "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
+        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
         "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
     },
     {
-        "title": "Suffolk school closes after five staff members test positive for Covid-19 | ITV News",
-        "link": "https://www.itv.com/news/anglia/2020-09-07/suffolk-school-to-close-after-five-staff-members-test-positive-for-covid-19"
+        "title": "World economies are still quarters away from returning to pre-coronavirus levels, warns Amundi",
+        "link": "https://www.cnbc.com/2020/09/07/economies-are-still-quarters-away-from-returning-to-pre-coronavirus-levels-warns-amundi.html"
     }
 ];
