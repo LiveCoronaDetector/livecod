@@ -9,24 +9,28 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
     },
     {
-        "title": "Coronavirus live updates: US governors urge Labor Day vigilance, safety; Israel imposes overnight curfews; CDC to lead vaccine distribution",
-        "link": "https://www.msn.com/en-us/news/us/coronavirus-live-updates-us-governors-urge-labor-day-vigilance-safety-israel-imposes-overnight-curfews-cdc-to-lead-vaccine-distribution/ar-BB18MDCj"
+        "title": "WHO says world must be better prepared for next pandemic: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
     },
     {
-        "title": "Coronavirus live news: France could face 'critical' winter, expert says; Scotland could reimpose restrictions",
-        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
+        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
     },
     {
         "title": "India Moves Into 2nd Place For COVID-19 Cases",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
     },
     {
-        "title": "Australia signs $1.2 billion agreement for nearly 85 million coronavirus vaccine doses",
-        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/h_34d046e0d885f2053e82c3b5848f3b5a"
+        "title": "Exclusive: 90% of China's Sinovac employees, families took coronavirus vaccine, says CEO",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccine-sinovac-ex/exclusive-90-of-chinas-sinovac-employees-families-took-coronavirus-vaccine-says-ceo-idUSKBN25X0BG"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
+    },
+    {
+        "title": "Indiana coronavirus updates: Latest US, world numbers",
+        "link": "https://www.wthr.com/article/news/health/coronavirus/indiana-coronavirus-updates-for-monday-september-7-2020/531-6fb36d37-b223-4d59-93d4-dc49aec567c8"
     },
     {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
         "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
-    },
-    {
-        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
-        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
     }
 ];
