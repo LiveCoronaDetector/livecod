@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/07/2020090701964.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "국회, 3주 새 세 번째 확진자 나와…대책본부, 동선 공개(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200907_0001157024&cID=10301&pID=10300"
-    },
-    {
         "title": "서울서 코로나19 치료받던 2명 숨져…국내 사망자 총 338명",
         "link": "http://yna.kr/AKR20200907161300530?did=1195m"
+    },
+    {
+        "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
     },
     {
         "title": "문 대통령 \"코로나 확산세 반전 성공, 자신감 높아져\"",

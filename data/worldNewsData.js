@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus rising in 22 U.S. states",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
+        "link": "https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvdXMtaGVhbHRoLWNvcm9uYXZpcnVzLXVzYS9jb3JvbmF2aXJ1cy1yaXNpbmctaW4tMjItdS1zLXN0YXRlcy1pZFVTS0JOMjVYMFRE0gE0aHR0cHM6Ly9tb2JpbGUucmV1dGVycy5jb20vYXJ0aWNsZS9hbXAvaWRVU0tCTjI1WDBURA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO says world must be better prepared for next pandemic: Live",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
     },
     {
-        "title": "UK sees biggest jump in COVID-19 cases since May",
-        "link": "https://www.arabnews.com/node/1730411/world"
-    },
-    {
-        "title": "New Delhi's Metro Reopens As India Virus Cases Reach World's Second-Highest",
-        "link": "https://www.youtube.com/watch?v=T-FLoCHpESk"
+        "title": "UK records highest daily coronavirus cases since May: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
     },
     {
         "title": "World must be better prepared for next pandemic, says WHO boss",
         "link": "https://www.reuters.com/article/us-health-coronavirus-who/world-must-be-better-prepared-for-next-pandemic-says-who-boss-idUSKBN25Y1IY"
     },
     {
-        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
-        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
+        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
+        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
     },
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
         "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
+    },
+    {
+        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
+        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
     }
 ];
