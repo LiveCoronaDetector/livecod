@@ -2,15 +2,15 @@
 var worldNewsData = [
     {
         "title": "Covering covid-19 in Africa: 'The virus cannot stop this life and energy'",
-        "link": "https://news.google.com/articles/CAIiEBdMaNRcC6MJkuQmsYWu9SUqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "India passes Brazil, becomes second worst-hit country as coronavirus cases top 4.2 million",
-        "link": "https://www.cnbc.com/2020/09/07/india-passes-brazil-becomes-second-worst-hit-country-by-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
     },
     {
-        "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
-        "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
+        "title": "Coronavirus live updates: US governors urge Labor Day vigilance, safety; Israel imposes overnight curfews; CDC to lead vaccine distribution",
+        "link": "https://news.google.com/articles/CAIiENN-pJqidyP74LkaFEwFV9cqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "While covid-19 continues to force remote work, Europe looks to enforce a right to disconnect",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/h_34d046e0d885f2053e82c3b5848f3b5a"
     },
     {
-        "title": "New Delhi's Metro Reopens As India Virus Cases Reach World's Second-Highest",
-        "link": "https://www.youtube.com/watch?v=T-FLoCHpESk"
+        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
+        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
     },
     {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "World economies are still quarters away from returning to pre-coronavirus levels, warns Amundi",
-        "link": "https://www.cnbc.com/2020/09/07/economies-are-still-quarters-away-from-returning-to-pre-coronavirus-levels-warns-amundi.html"
+        "link": "https://news.google.com/articles/CAIiELTjj2OWZjhRuyhQTeBzV_0qGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
