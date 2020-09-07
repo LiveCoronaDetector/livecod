@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
-        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
-        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
-    },
-    {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
         "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
+    },
+    {
+        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
+        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
     }
 ];

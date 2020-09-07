@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23461137"
     },
     {
-        "title": "서울서 코로나19 치료받던 2명 숨져…국내 사망자 총 338명",
-        "link": "http://yna.kr/AKR20200907161300530?did=1195m"
-    },
-    {
         "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
+    },
+    {
+        "title": "서울서 코로나19 치료받던 2명 숨져…국내 사망자 총 338명",
+        "link": "http://yna.kr/AKR20200907161300530?did=1195m"
     },
     {
         "title": "문 대통령 \"코로나 확산세 반전 성공, 자신감 높아져\"",
