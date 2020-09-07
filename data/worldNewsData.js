@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
     },
     {
+        "title": "World must be better prepared for next pandemic, says WHO boss",
+        "link": "https://news.yahoo.com/world-must-better-prepared-next-144446889.html"
+    },
+    {
         "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
         "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
-        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
     },
     {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
