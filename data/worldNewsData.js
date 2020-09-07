@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "India passes Brazil, becomes second worst-hit country as coronavirus cases top 4.2 million",
-        "link": "https://www.cnbc.com/2020/09/07/india-passes-brazil-becomes-second-worst-hit-country-by-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
     },
     {
-        "title": "Dire COVID-19 death toll projections from researchers touted by Trump administration",
-        "link": "https://www.aol.com/article/news/2020/09/06/dire-covid-19-death-toll-projections-from-researchers-trump-administration-touted/24612878/"
+        "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
+        "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
+        "title": "Coronavirus live news: France could face 'critical' winter, expert says; Scotland could reimpose restrictions",
+        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
     },
     {
         "title": "India didn't prioritize mental health before Covid-19. Now it's paying the price",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "Australia signs $1.2 billion agreement for nearly 85 million coronavirus vaccine doses",
         "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/h_34d046e0d885f2053e82c3b5848f3b5a"
-    },
-    {
-        "title": "Masks & social distancing are crucial | COVID-19: Doctors Speak | 07.09.2020",
-        "link": "https://www.youtube.com/watch?v=LfqMXuZuFu0"
     },
     {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
         "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
+    },
+    {
+        "title": "For women and children around the world, a double plague: Coronavirus and domestic violence",
+        "link": "https://www.washingtonpost.com/world/the_americas/coronavirus-domestic-violence/2020/09/06/78c134de-ec7f-11ea-b4bc-3a2098fc73d4_story.html"
     }
 ];
