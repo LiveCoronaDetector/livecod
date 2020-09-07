@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171171"
     },
     {
-        "title": "코로나19가 깬 제주 모둠벌초…“우리끼리! 안전하게!”",
-        "link": "http://www.fnnews.com/news/202009041443205501"
+        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     }
 ];

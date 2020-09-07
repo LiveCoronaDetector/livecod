@@ -5,28 +5,28 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "Coronavirus rising in 22 U.S. states",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
-    },
-    {
-        "title": "India Reports Record Number of New COVID Infections",
-        "link": "https://www.voanews.com/covid-19-pandemic/india-reports-record-number-new-covid-infections"
-    },
-    {
         "title": "Coronavirus live news: India reports global one-day record of over 90,000 cases",
         "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
     },
     {
-        "title": "Coronavirus rising in 22 US states ahead of Labor Day holiday weekend - The Jakarta Post",
-        "link": "https://www.thejakartapost.com/news/2020/09/07/coronavirus-rising-in-22-us-states-ahead-of-labor-day-holiday-weekend.html"
+        "title": "India becomes second worst-hit country by coronavirus: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
     },
     {
-        "title": "Coronavirus: Melbourne lockdown extended by two weeks",
-        "link": "https://www.bbc.com/news/world-australia-54045102"
+        "title": "India sees global record in new coronavirus cases",
+        "link": "https://www.youtube.com/watch?v=0hrQ94lZB2Q"
     },
     {
-        "title": "News Updates: Coronavirus Cases Are Rising in 22 States",
-        "link": "https://www.barrons.com/articles/news-updates-deal-to-fund-federal-government-through-2020-51599410035"
+        "title": "Cases Top 27 Million; India Set to Surpass Brazil: Virus Update",
+        "link": "https://www.msn.com/en-us/news/world/cases-near-27-million-india-set-to-top-brazil-virus-update/ar-BB18LP4C?li=BBnbcA1"
+    },
+    {
+        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
+        "link": "https://www.bbc.com/news/world-australia-54040278"
+    },
+    {
+        "title": "India Surpasses Brazil With World’s Second Highest Virus Cases",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a7dcbfa0-f0cf-11ea-be09-8f988d415ee9&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wNy9pbmRpYS1zdXJwYXNzZXMtYnJhemlsLXdpdGgtd29ybGQtcy1zZWNvbmQtaGlnaGVzdC12aXJ1cy1jYXNlcw=="
     },
     {
         "title": "Covid-19 Live Updates: New York Goes a Month With a Positivity Rate of Under 1 Percent",
