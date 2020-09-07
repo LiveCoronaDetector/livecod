@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/961014.html"
     },
     {
-        "title": "코로나 통제 손 놨다…하루 확진자만 9만명 넘은 이 나라",
-        "link": "https://www.hankyung.com/international/article/202009072579i"
-    },
-    {
-        "title": "'마스크 착용 불량' 확진자, 한강 뚝섬 편의점 들렀다 발칵",
-        "link": "https://news.joins.com/article/olink/23461137"
-    },
-    {
         "title": "文대통령 \"추석 전 코로나 확진자 100명 아래로 줄이겠다\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/07/2020090702539.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,8 +17,16 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968947&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "코로나 통제 손 놨다…하루 확진자만 9만명 넘은 이 나라",
+        "link": "https://www.hankyung.com/international/article/202009072579i"
+    },
+    {
         "title": "국회서 세번째 확진자…한정애, 검사 후 집에서 대기(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/07/2020090701964.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "'마스크 착용 불량' 확진자, 한강 뚝섬 편의점 들렀다 발칵",
+        "link": "https://news.joins.com/article/olink/23461137"
     },
     {
         "title": "서울서 코로나19 치료받던 2명 숨져…국내 사망자 총 338명",
