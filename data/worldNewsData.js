@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "Coronavirus live news: India sees one-day record of 90,000 cases; five teachers test positive at Suffolk school",
-        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
     },
     {
-        "title": "India becomes second-worst-hit country by coronavirus: Live news",
+        "title": "Global coronavirus cases surpass 27 million: Live news",
         "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
     },
     {
-        "title": "Five teachers test positive for coronavirus at secondary school in Suffolk as it shuts for deep clean",
-        "link": "https://www.thesun.co.uk/news/12600907/teachers-test-positive-coronavirus-school-haverhill-suffolk/"
+        "title": "While covid-19 continues to force remote work, Europe looks to enforce a right to disconnect",
+        "link": "https://www.washingtonpost.com/world/europe/coronavirus-remote-work-europe/2020/09/04/6e4a19c6-e23e-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "Teachers test positive for coronavirus with school closed as 'precaution'",
-        "link": "https://www.mylondon.news/news/uk-world-news/teachers-test-positive-coronavirus-school-18889596"
+        "title": "India didn't prioritize mental health before Covid-19. Now it's paying the price",
+        "link": "https://www.cnn.com/2020/09/06/india/india-mental-health-dst-intl-hnk/index.html"
     },
     {
         "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
         "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
-        "title": "Haverhill Samuel Ward Academy school closes after Covid-19 outbreak sees five teachers test positive",
-        "link": "https://www.cambridge-news.co.uk/news/local-news/haverhill-samuel-ward-school-coronavirus-18889733"
-    },
-    {
-        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
-        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
+        "title": "COVID-19: Global cases surpass 27 million | World – Gulf News",
+        "link": "https://gulfnews.com/world/covid-19-global-cases-surpass-27-million-1.1599450254576"
     },
     {
         "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
-        "title": "September 6 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
+        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
+        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
+    },
+    {
+        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
+        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
     }
 ];
