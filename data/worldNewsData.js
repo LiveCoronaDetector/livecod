@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
+        "title": "Coronavirus live news: France could face 'critical' winter, expert says; Oxford vaccine production under way",
+        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
     },
     {
         "title": "Global coronavirus cases surpass 27 million: Live news",
@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/06/india/india-mental-health-dst-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: Arrests at Australia anti-lockdown protests",
-        "link": "https://www.bbc.com/news/world-australia-54040278"
+        "title": "Exclusive: 90% of China's Sinovac employees, families took coronavirus vaccine, says CEO",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccine-sinovac-ex/exclusive-90-of-chinas-sinovac-employees-families-took-coronavirus-vaccine-says-ceo-idUSKBN25X0BG"
     },
     {
-        "title": "COVID-19: Global cases surpass 27 million | World – Gulf News",
-        "link": "https://gulfnews.com/world/covid-19-global-cases-surpass-27-million-1.1599450254576"
+        "title": "Global COVID-19 deaths surpass 880000",
+        "link": "https://www.newtimes.co.rw/international/global-covid-19-deaths-surpass-880000"
     },
     {
         "title": "Coronavirus: fears UK government has lost control as Covid cases soar",

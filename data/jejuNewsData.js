@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200904036700056?did=1195m"
     },
     {
-        "title": "코로나19 감염 우려 확산에 '고삐'",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171171"
+        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     }
 ];
