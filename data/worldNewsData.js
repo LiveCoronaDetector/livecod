@@ -9,24 +9,20 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
     },
     {
-        "title": "WHO says world must be better prepared for next pandemic: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
+        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
+        "link": "https://www.bbc.com/news/uk-54061938"
     },
     {
-        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
+        "title": "Coronavirus live news: Spain exceeds 500,000 cases after 2,440 new infections in a day",
+        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
     },
     {
         "title": "India Moves Into 2nd Place For COVID-19 Cases",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
     },
     {
-        "title": "Exclusive: 90% of China's Sinovac employees, families took coronavirus vaccine, says CEO",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-vaccine-sinovac-ex/exclusive-90-of-chinas-sinovac-employees-families-took-coronavirus-vaccine-says-ceo-idUSKBN25X0BG"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
+        "title": "UK sees biggest jump in COVID-19 cases since May",
+        "link": "https://www.arabnews.com/node/1730411/world"
     },
     {
         "title": "Indiana coronavirus updates: Latest US, world numbers",
@@ -35,6 +31,10 @@ var worldNewsData = [
     {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
         "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
+    },
+    {
+        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
+        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
     },
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",

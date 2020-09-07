@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200907_0001157024&cID=10301&pID=10300"
     },
     {
+        "title": "'마스크 착용 불량' 확진자, 한강 뚝섬 편의점 들렀다 발칵",
+        "link": "https://news.joins.com/article/olink/23461137"
+    },
+    {
         "title": "[속보] 문 대통령 \"추석 전 확진자 100명 아래로 전력\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009070326&t=NN"
     },
@@ -29,12 +33,8 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "국군외상센터, 코로나 전담치료 문 연다",
-        "link": "https://view.asiae.co.kr/article/2020090709263170502"
-    },
-    {
-        "title": "코로나19 신규 확진 119명…닷새째 100명대",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218548"
+        "title": "서울서 코로나19 치료받던 2명 숨져…국내 사망자 총 338명",
+        "link": "http://yna.kr/AKR20200907161300530?did=1195m"
     },
     {
         "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
