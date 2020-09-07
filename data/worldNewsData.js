@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
     },
     {
-        "title": "WHO says world must be better prepared for next pandemic: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
+        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
+        "link": "https://www.bbc.com/news/uk-54061938"
     },
     {
         "title": "Spain is first country in western Europe to record half a million Covid cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
     },
     {
-        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
-        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
+        "title": "World must be better prepared for next pandemic, says WHO boss",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who/world-must-be-better-prepared-for-next-pandemic-says-who-boss-idUSKBN25Y1IY"
+    },
+    {
+        "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
+        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
         "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
-        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
     }
 ];
