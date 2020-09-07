@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "John King: Recent history tells us to be nervous",
-        "link": "https://www.cnn.com/videos/us/2020/09/06/coronavirus-us-numbers-labor-day-weekend-king-ip-vpx.cnn"
+        "title": "Coronavirus rising in 22 U.S. states",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
     },
     {
         "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
-        "title": "Coronavirus: fears UK government has lost control as cases soar",
-        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
+        "title": "Coronavirus: Further 2,988 cases confirmed in UK",
+        "link": "https://www.bbc.com/news/uk-54050342"
+    },
+    {
+        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
+        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
+    },
+    {
+        "title": "Covid-19 Live Updates: New York Goes a Month With a Positivity Rate of Under 1 Percent",
+        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
-    },
-    {
-        "title": "News Updates: Coronavirus Cases Are Rising in 22 States",
-        "link": "https://www.barrons.com/articles/news-updates-deal-to-fund-federal-government-through-2020-51599410035"
-    },
-    {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     }
 ];

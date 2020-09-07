@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6459307,
-        "사망자수": 193236,
-        "완치자수": 3725399
+        "확진자수": 6460250,
+        "사망자수": 193250,
+        "완치자수": 3725970
     },
     {
         "Name": "인도",
@@ -572,9 +572,9 @@ var marker = [
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "확진자수": 21871,
-        "사망자수": 412,
-        "완치자수": 10810
+        "확진자수": 22486,
+        "사망자수": 435,
+        "완치자수": 11133
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1081,20 +1081,20 @@ var marker = [
         "완치자수": 1756
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 2250,
+        "사망자수": 34,
+        "완치자수": 724
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
         "확진자수": 2245,
         "사망자수": 38,
         "완치자수": 1127
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 2234,
-        "사망자수": 33,
-        "완치자수": 724
     },
     {
         "Name": "Réunion",
@@ -1332,7 +1332,7 @@ var marker = [
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "확진자수": 631,
+        "확진자수": 626,
         "사망자수": 48,
         "완치자수": 575
     },
@@ -1380,7 +1380,7 @@ var marker = [
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "확진자수": 460,
+        "확진자수": 462,
         "사망자수": 1,
         "완치자수": 357
     },
