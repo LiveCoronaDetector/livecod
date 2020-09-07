@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/07/india-passes-brazil-becomes-second-worst-hit-country-by-coronavirus.html"
     },
     {
-        "title": "Ultra-Orthodox Jews clash with secular Israeli officials over coronavirus measures",
-        "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
+        "title": "Dire COVID-19 death toll projections from researchers touted by Trump administration",
+        "link": "https://www.aol.com/article/news/2020/09/06/dire-covid-19-death-toll-projections-from-researchers-trump-administration-touted/24612878/"
     },
     {
         "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/h_34d046e0d885f2053e82c3b5848f3b5a"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
+        "title": "Masks & social distancing are crucial | COVID-19: Doctors Speak | 07.09.2020",
+        "link": "https://www.youtube.com/watch?v=LfqMXuZuFu0"
     },
     {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
         "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
     },
     {
-        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
-        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
-    },
-    {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
         "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
+        "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
     }
 ];

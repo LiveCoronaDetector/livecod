@@ -9,8 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/961014.html"
     },
     {
-        "title": "코로나 통제 손 놨다…하루 확진자만 9만명 넘은 이 나라",
-        "link": "https://www.hankyung.com/international/article/202009072579i"
+        "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968947&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "국회, 3주 새 세 번째 확진자 나와…대책본부, 동선 공개(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200907_0001157024&cID=10301&pID=10300"
     },
     {
         "title": "[속보] 문 대통령 \"추석 전 확진자 100명 아래로 전력\"",
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968947&plink=ORI&cooper=NAVER"
     },
     {
         "title": "국군외상센터, 코로나 전담치료 문 연다",
