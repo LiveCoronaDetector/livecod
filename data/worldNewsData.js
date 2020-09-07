@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/covering-covid-19-in-africa-the-virus-cannot-stop-this-life-and-energy"
     },
     {
-        "title": "Coronavirus live news: France could face 'critical' winter, expert says; Oxford vaccine production under way",
-        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
-    },
-    {
         "title": "Global coronavirus cases surpass 27 million: Live news",
         "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
+    },
+    {
+        "title": "Some COVID-19 Patients Have Required Lung Transplant To Survive, Johns Hopkins Doctor Says",
+        "link": "https://www.youtube.com/watch?v=AB7KzcB2dRo"
     },
     {
         "title": "While covid-19 continues to force remote work, Europe looks to enforce a right to disconnect",

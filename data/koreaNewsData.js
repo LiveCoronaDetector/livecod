@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009070326&t=NN"
     },
     {
-        "title": "코로나 통제 손 놨다…하루 확진자만 9만명 넘은 이 나라",
-        "link": "https://www.hankyung.com/international/article/202009072579i"
+        "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
     },
     {
         "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5902517_32640.html"
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968947&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나 통제 손 놨다…하루 확진자만 9만명 넘은 이 나라",
+        "link": "https://www.hankyung.com/international/article/202009072579i"
     },
     {
         "title": "국군외상센터, 코로나 전담치료 문 연다",
         "link": "https://view.asiae.co.kr/article/2020090709263170502"
     },
     {
+        "title": "울산 가족 감염 코로나19 확진자 4명 발생",
+        "link": "http://yna.kr/AKR20200907037500057?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진 119명…닷새째 100명대",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218548"
     },
     {
-        "title": "국회, 또 취재기자 확진자 발생…소통관 즉각 폐쇄",
-        "link": "https://www.pressian.com/pages/articles/2020090711540503235?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "[단독] “추석 고속도로 통행료 면제 없다\"... 코로나 특단 대책",
-        "link": "https://hankookilbo.com/News/Read/A2020090710030003595?did=NA"
-    },
-    {
-        "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
+        "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
     }
 ];
