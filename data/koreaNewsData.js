@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "WHO의 경고…\"코로나19 마지막 팬데믹 아냐\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01423526625898152"
+    },
+    {
         "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968947&plink=ORI&cooper=NAVER"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "문 대통령 \"코로나 확산세 반전 성공, 자신감 높아져\"",
         "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=209145"
-    },
-    {
-        "title": "쿠팡, 고양물류센터서 코로나19 확진자 나와 폐쇄",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000995381?division=NAVER"
     }
 ];

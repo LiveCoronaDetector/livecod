@@ -2,15 +2,15 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://www.bbc.com/news/world-africa-53998374"
+        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
     },
     {
-        "title": "Coronavirus rising in 22 U.S. states",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
+        "title": "Trump touts big job gains, says the U.S. is 'rounding the corner' on the coronavirus",
+        "link": "https://www.cnbc.com/2020/09/07/trump-touts-big-job-gains-says-the-us-is-rounding-the-corner-on-the-coronvirus.html"
     },
     {
-        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
-        "link": "https://www.bbc.com/news/uk-54061938"
+        "title": "WHO says world must be better prepared for next pandemic: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
     },
     {
         "title": "Spain is first country in western Europe to record half a million Covid cases",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
-        "title": "Virus Outbreak: News and Analysis From Sep 7, 2020",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=13529320-f15e-11ea-9879-5fb49243f706&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wNi9nZW9yZ2lhLXBhc3Nlcy02LTAwMC1mYXRhbGl0aWVzLXUtcy1jYXNlcy1zdGVhZHktdmlydXMtdXBkYXRl"
+        "title": "South Korea reports 119 more cases of new coronavirus",
+        "link": "http://www.koreaherald.com/view.php?ud=20200907000650"
     },
     {
-        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
-        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
+        "title": "India overtakes Brazil in Covid-19 cases as it becomes second worst-hit country by pandemic",
+        "link": "https://www.youtube.com/watch?v=PonKA7bvQbY"
+    },
+    {
+        "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
+        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
         "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Coronavirus: Spain becomes first country in Western Europe to pass 500000 COVID-19 cases",
-        "link": "https://www.youtube.com/watch?v=TB3iuF-Ucak"
     }
 ];
