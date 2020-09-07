@@ -9,16 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/961014.html"
     },
     {
-        "title": "국회, 3주 새 세 번째 확진자 나와…대책본부, 동선 공개(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200907_0001157024&cID=10301&pID=10300"
-    },
-    {
         "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "文대통령 \"추석 전 코로나 확진자 100명 아래로 줄이겠다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/07/2020090702539.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 문 대통령 \"추석 전 확진자 100명 아래로 전력\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009070326&t=NN"
     },
     {
         "title": "문 대통령 \"코로나 확산세 반전 성공, 자신감 높아져\"",
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
         "link": "https://imnews.imbc.com/news/2020/world/article/5902517_32640.html"
+    },
+    {
+        "title": "코로나19 신규 확진 119명…닷새째 100명대",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000218548"
     },
     {
         "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",

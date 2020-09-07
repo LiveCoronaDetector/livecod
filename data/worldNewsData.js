@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54040278"
     },
     {
-        "title": "Haverhill Samuel Ward Academy school closes after Covid-19 outbreak sees five teachers test positive",
-        "link": "https://www.cambridge-news.co.uk/news/local-news/haverhill-samuel-ward-school-coronavirus-18889733"
+        "title": "UK secondary school closes after five teachers test positive for COVID 19",
+        "link": "https://www.liverpoolecho.co.uk/news/uk-world-news/secondary-school-closes-after-five-18889725"
     },
     {
         "title": "CNN Exclusive interview with Sen. Kamala Harris (part 1)",
