@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=209145"
     },
     {
-        "title": "코로나19 확산세 주춤 양상…곳곳의 산발 감염 불씨는 여전",
-        "link": "http://yna.kr/AKR20200907149000530?did=1195m"
+        "title": "쿠팡, 고양물류센터서 코로나19 확진자 나와 폐쇄",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000995381?division=NAVER"
     }
 ];

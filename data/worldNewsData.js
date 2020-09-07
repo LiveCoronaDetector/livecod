@@ -17,20 +17,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/07/spain-set-to-record-half-a-million-covid-cases"
     },
     {
-        "title": "Coronavirus exposes struggles of poor Indonesian-Chinese families",
-        "link": "https://www.scmp.com/week-asia/people/article/3099986/coronavirus-exposes-hidden-struggles-poor-indonesian-chinese"
+        "title": "India Moves Into 2nd Place For COVID-19 Cases",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
     },
     {
         "title": "Coronavirus: Melbourne lockdown extended by two weeks",
         "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
-        "title": "Coronavirus pandemic: India becomes 2nd worst-hit country by Covid-19",
-        "link": "https://www.youtube.com/watch?v=7XIcRVuTV1E"
-    },
-    {
-        "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
-        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
+        "title": "Virus Outbreak: News and Analysis From Sep 7, 2020",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=13529320-f15e-11ea-9879-5fb49243f706&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wNi9nZW9yZ2lhLXBhc3Nlcy02LTAwMC1mYXRhbGl0aWVzLXUtcy1jYXNlcy1zdGVhZHktdmlydXMtdXBkYXRl"
     },
     {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
         "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus: Spain becomes first country in Western Europe to pass 500000 COVID-19 cases",
+        "link": "https://www.youtube.com/watch?v=TB3iuF-Ucak"
     }
 ];
