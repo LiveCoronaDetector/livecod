@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
     },
     {
-        "title": "India sees global record in new coronavirus cases",
-        "link": "https://www.youtube.com/watch?v=0hrQ94lZB2Q"
+        "title": "India becomes second worst-hit country by coronavirus: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
     },
     {
-        "title": "Samuel Ward Academy in Haverhill shuts after five teachers test positive for Covid-19",
-        "link": "https://www.essexlive.news/news/essex-news/samuel-ward-academy-haverhill-shuts-4490945"
+        "title": "Teachers test positive for coronavirus with school closed as 'precautionary measure'",
+        "link": "https://www.walesonline.co.uk/news/uk-news/teachers-test-positive-coronavirus-school-18889596"
     },
     {
         "title": "Teachers at Suffolk school test positive for coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
-    },
-    {
-        "title": "Fears raised over Covid testing as 40000 students return to city",
-        "link": "https://www.yorkpress.co.uk/news/18699236.fears-raised-covid-testing-40-000-students-return-york/"
+        "title": "Kamala Harris: 'We do have two systems of justice in America'",
+        "link": "https://www.cnn.com/2020/09/06/politics/kamala-harris-two-justice-systems-cnntv/index.html"
     },
     {
         "title": "Mexico runs out of death certificates as coronavirus death toll climbs",
         "link": "https://www.foxnews.com/world/mexico-runs-out-of-death-certificates-as-coronavirus-death-toll-climbsars"
+    },
+    {
+        "title": "Suffolk school closes after five staff members test positive for Covid-19 | ITV News",
+        "link": "https://www.itv.com/news/anglia/2020-09-07/suffolk-school-to-close-after-five-staff-members-test-positive-for-covid-19"
     }
 ];
