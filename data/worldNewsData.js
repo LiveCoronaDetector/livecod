@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
     },
     {
-        "title": "WHO says world must be better prepared for next pandemic: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
+        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
+        "link": "https://www.bbc.com/news/uk-54061938"
     },
     {
         "title": "Spain is first country in western Europe to record half a million Covid cases",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/people/article/3099986/coronavirus-exposes-hidden-struggles-poor-indonesian-chinese"
     },
     {
-        "title": "UK records highest daily coronavirus cases since May: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
+        "title": "Coronavirus: Melbourne lockdown extended by two weeks",
+        "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
         "title": "World must be better prepared for next pandemic, says WHO boss",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
-        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
-        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
-    },
-    {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
         "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
+        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
     }
 ];

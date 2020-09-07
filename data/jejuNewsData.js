@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도교육청, 2021학년 고등학교 입학전형 세부계획 확정",
-        "link": "https://www.pressian.com/pages/articles/2020090800163773894?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "코로나19 대응 전 도민 대상 독감 백심 무료 접종",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171274"
+    },
+    {
+        "title": "제주도교육청, 2021학년 고등학교 입학전형 세부계획 확정",
+        "link": "https://www.pressian.com/pages/articles/2020090800163773894?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
