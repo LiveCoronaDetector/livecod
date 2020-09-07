@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "How Sardinia went from safe haven to Covid-19 hotspot",
-        "link": "https://www.theguardian.com/world/2020/sep/06/how-sardinia-went-from-safe-haven-to-covid-19-hotspot"
+        "title": "Coronavirus live news: cases rising in 22 US states as France declares more Covid-19 'red zones'",
+        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
     },
     {
         "title": "UK hits highest daily COVID-19 rate since May, India breaks own global record",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-06-20-intl/index.html"
     },
     {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
+        "title": "News Updates: Coronavirus Cases Are Rising in 22 States",
+        "link": "https://www.barrons.com/articles/news-updates-deal-to-fund-federal-government-through-2020-51599410035"
     },
     {
-        "title": "Kamala Harris: 'We do have two systems of justice in America'",
-        "link": "https://www.cnn.com/2020/09/06/politics/kamala-harris-two-justice-systems-cnntv/index.html"
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     }
 ];

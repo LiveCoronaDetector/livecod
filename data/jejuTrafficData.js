@@ -57,22 +57,6 @@ var jejuTrafficData = [
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253318&no=1"
     },
     {
-        "title": "33번째 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253223&no=1"
-    },
-    {
-        "title": "32번째 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253217&no=1"
-    },
-    {
-        "title": "30,31번째 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253216&no=1"
-    },
-    {
-        "title": "29번째 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253208&no=1"
-    },
-    {
         "title": "서울강동구 138 확진자",
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1254771&no=1"
     },
