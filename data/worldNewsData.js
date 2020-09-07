@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-rising-in-22-u-s-states-idUSKBN25X0TD"
     },
     {
-        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
-        "link": "https://www.bbc.com/news/uk-54061938"
+        "title": "WHO says world must be better prepared for next pandemic: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
     },
     {
-        "title": "Coronavirus live news: Spain exceeds 500,000 cases after 2,440 new infections in a day",
-        "link": "https://www.theguardian.com/world/live/2020/sep/07/coronavirus-live-news-cases-rising-in-22-us-states-as-france-declares-more-covid-19-red-zones"
+        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
     },
     {
         "title": "India Moves Into 2nd Place For COVID-19 Cases",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.arabnews.com/node/1730411/world"
     },
     {
-        "title": "Indiana coronavirus updates: Latest US, world numbers",
-        "link": "https://www.wthr.com/article/news/health/coronavirus/indiana-coronavirus-updates-for-monday-september-7-2020/531-6fb36d37-b223-4d59-93d4-dc49aec567c8"
+        "title": "World must be better prepared for next pandemic, says WHO boss",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who/world-must-be-better-prepared-for-next-pandemic-says-who-boss-idUSKBN25Y1IY"
     },
     {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
