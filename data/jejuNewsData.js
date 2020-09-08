@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090800163773894?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
-    },
-    {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
+    },
+    {
+        "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
     },
     {
         "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
