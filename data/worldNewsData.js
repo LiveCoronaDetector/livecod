@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+        "title": "#NZhellhole: how Kiwis are hitting back at Trump's Covid taunts",
+        "link": "https://www.theguardian.com/world/2020/sep/08/nzhellhole-how-kiwis-are-hitting-back-at-trumps-covid-taunts"
     },
     {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
+        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
     },
     {
         "title": "Tour de France peloton reacts to positive COVID-19 tests of Christian Prudhomme, four team staffers",
