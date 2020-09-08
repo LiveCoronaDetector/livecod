@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
     },
     {
-        "title": "India now country with second-highest number of coronavirus cases",
-        "link": "https://www.foxnews.com/world/india-now-country-with-second-highest-number-of-coronavirus-cases-overtaking-brazil"
+        "title": "Air purifier that kills 99.9% of the coronavirus sees surge in global demand",
+        "link": "https://www.cnbc.com/2020/09/08/coronavirus-air-purifier-that-kills-over-99point9percent-of-covid-19-sees-surge-in-demand.html"
     }
 ];
