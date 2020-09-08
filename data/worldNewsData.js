@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1900397/nigerian-scientists-identified-seven-lineages-of-sars-cov-2-covid/"
     },
     {
-        "title": "Coronavirus updates: West Virginia University suspends in-person classes; Trump asks reporter to remove mask; US nears 190K deaths",
+        "title": "Coronavirus updates: Senate GOP to introduce relief bill; Austrian retiree gets US stimulus check; WVU suspends in-person classes",
         "link": "https://www.usatoday.com/story/news/health/2020/09/08/covid-news-us-deaths-french-open-montana-meth-vaccine/5739730002/"
     },
     {
-        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
-        "link": "https://www.bbc.com/news/uk-54061938"
+        "title": "Israel’s Coronavirus Czar Clashes With Ultra-Orthodox, a Netanyahu Ally",
+        "link": "https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html"
     },
     {
         "title": "Coronavirus live news: school closures could hit economy 'for rest of century'; Tour de France director tests positive",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "Trump: Send Second Stimulus Checks With Covid Relief Funds",
-        "link": "https://www.forbes.com/sites/zackfriedman/2020/09/07/second-stimulus-checks-trump/"
-    },
-    {
         "title": "Coronavirus: India overtakes Brazil in Covid-19 cases",
         "link": "https://www.bbc.com/news/world-asia-india-54023509"
     },
     {
-        "title": "COVID-19 Tests At The Tour de France",
-        "link": "https://www.youtube.com/watch?v=HZHQvSHPOy8"
+        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+    },
+    {
+        "title": "Tour de France Plows Ahead, Despite Four Covid Cases Among Team Staffers",
+        "link": "https://www.wsj.com/articles/tour-de-france-plows-ahead-despite-four-covid-cases-among-team-staffers-11599570320"
     }
 ];
