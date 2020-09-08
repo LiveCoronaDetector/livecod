@@ -9,7 +9,7 @@ var jejuNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002673892&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "\"코로나로 가족도 못보네요\" 귀경길도 '언택트'",
+        "title": "\"코로나로 가족도 못보네요\" 추석 대목도 '옛말'",
         "link": "https://www.jnilbo.com/view/media/view?code=2020090816560372138"
     },
     {
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
-        "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
-    },
-    {
         "title": "하리수, '제주도 묻지마 살인'에 격분 \"생활고 때문에 사람을? 평생 감옥 살길...",
         "link": "http://www.osen.co.kr/article/G1111430264"
+    },
+    {
+        "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
     }
 ];

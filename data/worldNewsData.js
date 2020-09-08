@@ -9,32 +9,32 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/07/trump-touts-big-job-gains-says-the-us-is-rounding-the-corner-on-the-coronvirus.html"
     },
     {
-        "title": "WHO says world must be better prepared for next pandemic: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
+        "title": "Coronavirus: Red cities list released, more than 3,400 new patients",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-new-record-high-of-3392-new-cases-641463"
     },
     {
         "title": "Coronavirus live news: India suffers most daily deaths in a month as global toll passes 890,000",
         "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
-        "title": "Myanmar's Aung San Suu Kyi cancels first election event amid worsening COVID-19 outbreak",
-        "link": "https://www.youtube.com/watch?v=DZTPnmuugJs"
+        "title": "India Moves Into 2nd Place For COVID-19 Cases",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
     },
     {
-        "title": "Spain sets Western Europe coronavirus record: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/doctors-south-korea-suspend-strike-coronavirus-live-news-200907232556822.html"
+        "title": "China passed 'extraordinary' virus test, says bullish Xi",
+        "link": "https://www.msn.com/en-us/news/world/china-passed-extraordinary-virus-test-says-bullish-xi/ar-BB18O4k2"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "Myanmar's Suu Kyi pulls out of first election trip over coronavirus",
-        "link": "https://news.yahoo.com/myanmars-suu-kyi-pulls-first-075336338.html"
+        "title": "India overtakes Brazil in Covid-19 cases as it becomes second worst-hit country by pandemic",
+        "link": "https://www.youtube.com/watch?v=PonKA7bvQbY"
     },
     {
-        "title": "#NZhellhole: how Kiwis are hitting back at Trump's Covid taunts",
-        "link": "https://www.theguardian.com/world/2020/sep/08/nzhellhole-how-kiwis-are-hitting-back-at-trumps-covid-taunts"
+        "title": "Myanmar's Suu Kyi pulls out of first election trip over coronavirus",
+        "link": "https://news.yahoo.com/myanmars-suu-kyi-pulls-first-075336338.html"
     },
     {
         "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
