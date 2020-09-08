@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
-        "title": "India didn't prioritize mental health before Covid-19. Now it's paying the price",
-        "link": "https://www.cnn.com/2020/09/06/india/india-mental-health-dst-intl-hnk/index.html"
+        "title": "India reports 90000 new Covid-19 cases in a day",
+        "link": "https://www.youtube.com/watch?v=T5pS3sPT7Us"
     },
     {
         "title": "Xi says China was open in handling of coronavirus: Live news",

@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
     },
     {
-        "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
+        "title": "제주도, 농어촌민박사업자 교육 '온라인'으로 전환",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426787"
     }
 ];
