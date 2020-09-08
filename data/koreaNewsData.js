@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/961189.html"
     },
     {
-        "title": "터키도 코로나19 재확산세 심화…\"신규확진 5월 중순 이후 최대\"(종합)",
-        "link": "http://yna.kr/AKR20200908143551080?did=1195m"
-    },
-    {
         "title": "고려대, 코로나 확진자 발생해 건물 2곳 폐쇄",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/08/2020090803025.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03650646625898152"
     },
     {
-        "title": "\"시장서 확진자 나왔는데 상인들 반대한다고 진료소 취소\"",
-        "link": "https://www.hankyung.com/life/article/2020090876707"
+        "title": "건강식품 설명회 관련 확진자 속출… 8일 대전·충남 14명 확진",
+        "link": "https://www.news1.kr/articles/?4052599"
     },
     {
         "title": "정부 “9월 중 상업용 코로나19 항체치료제 대량생산”",
         "link": "http://www.hani.co.kr/arti/society/society_general/961322.html"
+    },
+    {
+        "title": "코로나19 신규 확진 136명, 엿새째 100명대…사망 5명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005969972&plink=ORI&cooper=NAVER"
     }
 ];
