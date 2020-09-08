@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.newsrep.co.kr/news/articleView.html?idxno=142910"
     },
     {
-        "title": "\"코로나로 가족도 못보네요\" 추석 대목도 '옛말'",
-        "link": "https://www.jnilbo.com/view/media/view?code=2020090816560372138"
-    },
-    {
         "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
+    },
+    {
+        "title": "\"코로나로 가족도 못보네요\" 추석 대목도 '옛말'",
+        "link": "https://www.jnilbo.com/view/media/view?code=2020090816560372138"
     },
     {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",

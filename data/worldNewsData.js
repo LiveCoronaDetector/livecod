@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1900397/nigerian-scientists-identified-seven-lineages-of-sars-cov-2-covid/"
     },
     {
-        "title": "Coronavirus updates: Senate GOP to introduce relief bill; Austrian retiree gets US stimulus check; WVU suspends in-person classes",
-        "link": "https://www.usatoday.com/story/news/health/2020/09/08/covid-news-us-deaths-french-open-montana-meth-vaccine/5739730002/"
+        "title": "Peru Locked Down Early. Now It Battles One Of The Worst Coronavirus Outbreaks",
+        "link": "https://www.npr.org/2020/09/08/907084962/peru-locked-down-early-now-it-battles-one-of-the-worst-coronavirus-outbreaks"
     },
     {
         "title": "Israel’s Coronavirus Czar Clashes With Ultra-Orthodox, a Netanyahu Ally",
