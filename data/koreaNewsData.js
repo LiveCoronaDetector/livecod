@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nw1700/article/5903617_32510.html"
     },
     {
-        "title": "터키도 코로나19 재확산세 심화…\"신규확진 5월 중순 이후 최대\"(종합)",
-        "link": "http://yna.kr/AKR20200908143551080?did=1195m"
-    },
-    {
         "title": "WHO “코로나, 마지막 팬데믹 아냐…다음엔 더 잘 대응해야”",
         "link": "http://www.hani.co.kr/arti/international/international_general/961189.html"
+    },
+    {
+        "title": "터키도 코로나19 재확산세 심화…\"신규확진 5월 중순 이후 최대\"(종합)",
+        "link": "http://yna.kr/AKR20200908143551080?did=1195m"
     },
     {
         "title": "고려대, 코로나 확진자 발생해 건물 2곳 폐쇄",

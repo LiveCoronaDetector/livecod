@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html"
     },
     {
-        "title": "Coronavirus live news: school closures could hit economy 'for rest of century'; Tour de France director tests positive",
+        "title": "Coronavirus live news: migrant camps near Athens in quarantine; South Africa sees lowest case increase in months",
         "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "#NZhellhole: how Kiwis are hitting back at Trump's Covid taunts",
-        "link": "https://www.theguardian.com/world/2020/sep/08/nzhellhole-how-kiwis-are-hitting-back-at-trumps-covid-taunts"
-    },
-    {
         "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
         "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
     },
     {
-        "title": "Tour de France peloton reacts to positive COVID-19 tests of Christian Prudhomme, four team staffers",
-        "link": "https://www.velonews.com/events/tour-de-france/tour-de-france-peloton-reacts-to-positive-covid-19-tests-of-christian-prudhomme-four-team-staffers/"
+        "title": "Doctors studying why obesity may be tied to serious COVID-19",
+        "link": "https://www.taiwannews.com.tw/en/news/4004611"
+    },
+    {
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     }
 ];
