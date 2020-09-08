@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4534447&ref=A"
     },
     {
-        "title": "[속보] 광주서 코로나19 확진자 2명 추가 발생…누적 442명",
-        "link": "https://www.news1.kr/articles/?4051383"
-    },
-    {
         "title": "울산서 현대중공업 근로자 등 코로나19 확진자 3명 발생",
         "link": "http://www.segye.com/content/html/2020/09/08/20200908508577.html?OutUrl=naver"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005969972&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "WHO “코로나, 마지막 팬데믹 아냐…다음엔 더 잘 대응해야”",
+        "link": "http://www.hani.co.kr/arti/international/international_general/961189.html"
+    },
+    {
         "title": "국내 코로나19 신규 확진자 119명…닷새째 100명대",
         "link": "http://www.hani.co.kr/arti/society/society_general/961014.html"
     },
     {
-        "title": "WHO \"피할 수 없는 펜데믹...코로나19가 마지막 아니다\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/08/2020090800494.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "日 코로나 신규 확진자 293명… 56일 만에 200명대",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/08/2020090800086.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "확진자만 세 번 나왔는데... '비대면 국회' 왜 안되나",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002673874&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "중국, 우한 봉쇄 7개월반 만에 사실상 '코로나 종식' 선언",
+        "link": "http://yna.kr/AKR20200908040800083?did=1195m"
     }
 ];
