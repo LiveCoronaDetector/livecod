@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cyclingnews.com/races/tour-de-france-2020/stage-10/live-report/"
     },
     {
-        "title": "China passed 'extraordinary' virus test, says bullish Xi",
-        "link": "https://www.msn.com/en-us/news/world/china-passed-extraordinary-virus-test-says-bullish-xi/ar-BB18O4k2"
+        "title": "South Africa economy slumps 51% during coronavirus lockdown: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/doctors-south-korea-suspend-strike-coronavirus-live-news-200907232556822.html"
+    },
+    {
+        "title": "Tour de France peloton passes COVID-19 testing – VeloNews.com",
+        "link": "https://www.velonews.com/events/tour-de-france/tour-de-france-peloton-passes-covid-19-testing/"
+    },
+    {
+        "title": "Coronavirus: India overtakes Brazil in Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-asia-india-54023509"
+    },
+    {
+        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus Infections Surge In France, Spain And UK | TODAY",
-        "link": "https://www.youtube.com/watch?v=2IPERV8DpJI"
-    },
-    {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
-    },
-    {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_47508de310d9dc86a64ba45b4e082079"
     }
 ];
