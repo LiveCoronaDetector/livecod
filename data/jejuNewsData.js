@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.jnilbo.com/view/media/view?code=2020090816560372138"
     },
     {
-        "title": "제주도교육청, '2021학년 평준화 일반고' 학급 정원 감축",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350149"
-    },
-    {
         "title": "제주도 48번째 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주도교육청, '2021학년 평준화 일반고' 학급 정원 감축",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350149"
     },
     {
         "title": "코로나19 대응 전 도민 대상 독감 백심 무료 접종",
