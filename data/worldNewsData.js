@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
-        "title": "India Moves Into 2nd Place For COVID-19 Cases",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
+        "title": "Myanmar's Aung San Suu Kyi cancels first election event amid worsening COVID-19 outbreak",
+        "link": "https://www.youtube.com/watch?v=DZTPnmuugJs"
     },
     {
-        "title": "China passed 'extraordinary' virus test, says bullish Xi AFP News",
-        "link": "https://www.msn.com/en-us/news/world/china-passed-extraordinary-virus-test-says-bullish-xi/ar-BB18O4k2"
+        "title": "China Awards Coronavirus 'Heroes'",
+        "link": "https://www.youtube.com/watch?v=G1g59locZdk"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "India overtakes Brazil in Covid-19 cases as it becomes second worst-hit country by pandemic",
-        "link": "https://www.youtube.com/watch?v=PonKA7bvQbY"
-    },
-    {
         "title": "Myanmar's Suu Kyi pulls out of first election trip over coronavirus",
-        "link": "https://news.yahoo.com/myanmars-suu-kyi-pulls-first-075336338.html"
+        "link": "https://www.arabnews.com/node/1730741/world"
     },
     {
-        "title": "#NZhellhole: how Kiwis are hitting back at Trump's Covid taunts",
-        "link": "https://www.theguardian.com/world/2020/sep/08/nzhellhole-how-kiwis-are-hitting-back-at-trumps-covid-taunts"
+        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
+    },
+    {
+        "title": "Coronavirus: Russian vaccine shows signs of immune response",
+        "link": "https://www.bbc.com/news/world-europe-54036221"
     }
 ];
