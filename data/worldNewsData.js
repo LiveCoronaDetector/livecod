@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
-        "title": "Coronavirus latest news: Levels at height of pandemic 'three times higher than thought'",
-        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-uk-latest-vaccine-airport-tests-cases-deaths/"
+        "title": "India didn't prioritize mental health before Covid-19. Now it's paying the price",
+        "link": "https://www.cnn.com/2020/09/06/india/india-mental-health-dst-intl-hnk/index.html"
     },
     {
         "title": "Xi says China was open in handling of coronavirus: Live news",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "Myanmar's Aung San Suu Kyi cancels first election event amid worsening COVID-19 outbreak",
-        "link": "https://www.youtube.com/watch?v=DZTPnmuugJs"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/07/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
-        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
