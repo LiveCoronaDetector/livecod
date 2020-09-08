@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-54061938"
     },
     {
-        "title": "Spain is first country in western Europe to record half a million Covid cases",
-        "link": "https://www.theguardian.com/world/2020/sep/07/spain-set-to-record-half-a-million-covid-cases"
+        "title": "Coronavirus live news: India suffers most daily deaths in a month as global toll passes 890,000",
+        "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
         "title": "India Moves Into 2nd Place For COVID-19 Cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
+        "title": "Bali COVID-19 surge blamed on inaccurate rapid tests for visitors",
+        "link": "https://www.aljazeera.com/news/2020/09/bali-covid-19-surge-blamed-inaccurate-rapid-tests-visitors-200907052734606.html"
+    },
+    {
+        "title": "Myanmar's Aung San Suu Kyi cancels first election event amid worsening COVID-19 outbreak",
+        "link": "https://www.youtube.com/watch?v=DZTPnmuugJs"
+    },
+    {
         "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
-    },
-    {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
-    },
-    {
-        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
-        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
     }
 ];
