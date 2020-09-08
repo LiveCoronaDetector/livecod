@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002673892&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "제주도, 온라인 농어촌민박사업자 서비스·안전교육",
-        "link": "http://www.newsrep.co.kr/news/articleView.html?idxno=142910"
-    },
-    {
         "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
+    },
+    {
+        "title": "제주도, 온라인 농어촌민박사업자 서비스·안전교육",
+        "link": "http://www.newsrep.co.kr/news/articleView.html?idxno=142910"
     },
     {
         "title": "\"코로나로 가족도 못보네요\" 추석 대목도 '옛말'",
