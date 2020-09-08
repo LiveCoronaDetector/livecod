@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/07/trump-touts-big-job-gains-says-the-us-is-rounding-the-corner-on-the-coronvirus.html"
     },
     {
-        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
-        "link": "https://www.bbc.com/news/uk-54061938"
+        "title": "WHO says world must be better prepared for next pandemic: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
     },
     {
         "title": "Coronavirus live news: India suffers most daily deaths in a month as global toll passes 890,000",
         "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
-        "title": "India reports 90000 new Covid-19 cases in a day",
-        "link": "https://www.youtube.com/watch?v=T5pS3sPT7Us"
+        "title": "Myanmar's Aung San Suu Kyi cancels first election event amid worsening COVID-19 outbreak",
+        "link": "https://www.youtube.com/watch?v=DZTPnmuugJs"
     },
     {
         "title": "Xi says China was open in handling of coronavirus: Live news",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/07/world/covid-19-coronavirus.html"
+        "title": "Myanmar's Suu Kyi pulls out of first election trip over coronavirus",
+        "link": "https://news.yahoo.com/myanmars-suu-kyi-pulls-first-075336338.html"
     },
     {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
+        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
     },
     {
-        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
-        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
+        "title": "Trump tries and fails to get reporter to remove mask at news conference",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/h_911bab051725f73141a425083be373b2"
     }
 ];
