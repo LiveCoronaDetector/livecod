@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
     },
     {
-        "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
-    },
-    {
         "title": "제주 게스트하우스 발 확진자 전국 11명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
+    },
+    {
+        "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
     },
     {
         "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",

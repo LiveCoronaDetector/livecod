@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
     },
     {
-        "title": "Coronavirus: Melbourne lockdown extended by two weeks",
-        "link": "https://www.bbc.com/news/world-australia-54045102"
+        "title": "Xi says China was open in handling of coronavirus: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/doctors-south-korea-suspend-strike-coronavirus-live-news-200907232556822.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "Bali COVID-19 surge blamed on inaccurate rapid tests for visitors",
-        "link": "https://www.aljazeera.com/news/2020/09/bali-covid-19-surge-blamed-inaccurate-rapid-tests-visitors-200907052734606.html"
-    },
-    {
         "title": "Myanmar's Aung San Suu Kyi cancels first election event amid worsening COVID-19 outbreak",
         "link": "https://www.youtube.com/watch?v=DZTPnmuugJs"
     },
     {
-        "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
-        "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
+        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
+        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
+    },
+    {
+        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
+        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
     }
 ];
