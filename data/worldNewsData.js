@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: India overtakes Brazil in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-54023509"
+        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
     },
     {
         "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
