@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/09/08/covid-news-us-deaths-french-open-montana-meth-vaccine/5739730002/"
     },
     {
-        "title": "Coronavirus: Red cities list released, more than 3,400 new patients",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-new-record-high-of-3392-new-cases-641463"
+        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
+        "link": "https://www.bbc.com/news/uk-54061938"
     },
     {
         "title": "Coronavirus live news: school closures could hit economy 'for rest of century'; Tour de France director tests positive",
         "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
-        "title": "Tour de France stage 10 - live coverage",
-        "link": "https://www.cyclingnews.com/races/tour-de-france-2020/stage-10/live-report/"
+        "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
+        "link": "https://www.nytimes.com/2020/09/08/world/asia/india-coronavirus-farmer-suicides-lockdown.html"
     },
     {
-        "title": "Emergency vaccines ‘have proved effectiveness’, Chinese drug firm says",
-        "link": "https://www.scmp.com/news/china/society/article/3100570/chinese-drug-firm-says-hundreds-thousands-have-been-given-covid"
+        "title": "5 things to know for September 8: Coronavirus, protests, Brexit, US election, China",
+        "link": "https://www.cnn.com/2020/09/08/us/five-things-september-8-trnd/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/zackfriedman/2020/09/07/second-stimulus-checks-trump/"
     },
     {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+        "title": "Coronavirus: India overtakes Brazil in Covid-19 cases",
+        "link": "https://www.bbc.com/news/world-asia-india-54023509"
     },
     {
-        "title": "Tour de France peloton passes COVID-19 testing – VeloNews.com",
-        "link": "https://www.velonews.com/events/tour-de-france/tour-de-france-peloton-passes-covid-19-testing/"
+        "title": "COVID-19 Tests At The Tour de France",
+        "link": "https://www.youtube.com/watch?v=HZHQvSHPOy8"
     }
 ];
