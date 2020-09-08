@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.jnilbo.com/view/media/view?code=2020090816560372138"
     },
     {
-        "title": "제주도교육청, 코로나19 감염병 대응 심리방역 온라인 연수",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171298"
-    },
-    {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
+    },
+    {
+        "title": "제주도교육청, 코로나19 감염병 대응 심리방역 온라인 연수",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171298"
     },
     {
         "title": "제주도 48번째 코로나19 확진자 발생",

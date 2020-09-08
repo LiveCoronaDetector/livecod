@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/08/us/five-things-september-8-trnd/index.html"
     },
     {
-        "title": "India now country with second-highest number of coronavirus cases",
-        "link": "https://www.foxnews.com/world/india-now-country-with-second-highest-number-of-coronavirus-cases-overtaking-brazil"
-    },
-    {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_4af6ca816e4f73e5afb31bc40881f6e7"
-    },
-    {
         "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
         "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
     },
     {
-        "title": "#NZhellhole: how Kiwis are hitting back at Trump's Covid taunts",
-        "link": "https://www.theguardian.com/world/2020/sep/08/nzhellhole-how-kiwis-are-hitting-back-at-trumps-covid-taunts"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_47508de310d9dc86a64ba45b4e082079"
+    },
+    {
+        "title": "Air purifier that kills 99.9% of the coronavirus sees surge in global demand",
+        "link": "https://www.cnbc.com/2020/09/08/coronavirus-air-purifier-that-kills-over-99point9percent-of-covid-19-sees-surge-in-demand.html"
+    },
+    {
+        "title": "Coronavirus: Pharma firms unveil safety pledge over vaccine",
+        "link": "https://www.bbc.com/news/world-54046157"
     }
 ];

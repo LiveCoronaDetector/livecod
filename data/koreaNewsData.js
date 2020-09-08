@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/08/2020090803025.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 항체 치료제 이달중에 대량 생산",
-        "link": "https://www.sedaily.com/NewsView/1Z7RZBF3D2"
-    },
-    {
         "title": "울산서 현대중공업 근로자 등 코로나19 확진자 3명 발생",
         "link": "http://www.segye.com/content/html/2020/09/08/20200908508577.html?OutUrl=naver"
+    },
+    {
+        "title": "코로나 항체 치료제 이달중에 대량 생산",
+        "link": "https://www.sedaily.com/NewsView/1Z7RZBF3D2"
     },
     {
         "title": "시진핑, 코로나19 종식 선언…\"이제 치료제·백신 개발\"",
