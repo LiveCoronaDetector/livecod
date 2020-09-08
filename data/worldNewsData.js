@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html"
     },
     {
-        "title": "'Not a game': Europe pleads with young people to halt Covid-19 spread",
-        "link": "https://www.theguardian.com/world/2020/sep/08/how-europe-is-tackling-spread-of-covid-19-with-appeal-to-young-people"
+        "title": "Italy's Bergamo finds covid-19 leaves long-term effects for some",
+        "link": "https://www.washingtonpost.com/world/2020/09/08/bergamo-italy-covid-longterm/?arc404=true"
     },
     {
         "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
+        "title": "Don't blame us for UK's coronavirus spike, say young people",
+        "link": "https://www.theguardian.com/world/2020/sep/08/dont-blame-us-for-uks-coronavirus-spike-say-young-people"
     },
     {
         "title": "Coronavirus: Pharma firms unveil safety pledge over vaccine",
         "link": "https://www.bbc.com/news/world-54046157"
     },
     {
-        "title": "Don't blame us for UK's coronavirus spike, say young people",
-        "link": "https://www.theguardian.com/world/2020/sep/08/dont-blame-us-for-uks-coronavirus-spike-say-young-people"
+        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
     }
 ];
