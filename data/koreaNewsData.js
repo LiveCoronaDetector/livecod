@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nw1700/article/5903617_32510.html"
     },
     {
+        "title": "[속보] 전세계 코로나19 사망자 수 90만명 넘어",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200909000012"
+    },
+    {
         "title": "WHO “코로나, 마지막 팬데믹 아냐…다음엔 더 잘 대응해야”",
         "link": "http://www.hani.co.kr/arti/international/international_general/961189.html"
+    },
+    {
+        "title": "'펍 때문에?'…영국 코로나19 확진자 급증에 사망자도 늘어",
+        "link": "http://yna.kr/AKR20200909002300085?did=1195m"
     },
     {
         "title": "고려대, 코로나 확진자 발생해 건물 2곳 폐쇄",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03650646625898152"
     },
     {
-        "title": "건강식품 설명회 관련 확진자 속출… 8일 대전·충남 14명 확진",
-        "link": "https://www.news1.kr/articles/?4052599"
-    },
-    {
-        "title": "정부 “9월 중 상업용 코로나19 항체치료제 대량생산”",
-        "link": "http://www.hani.co.kr/arti/society/society_general/961322.html"
-    },
-    {
-        "title": "코로나19 신규 확진 136명, 엿새째 100명대…사망 5명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005969972&plink=ORI&cooper=NAVER"
+        "title": "방대본 “코로나19 항체치료제 이달 중 대량 생산 계획”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009082104035&code=940601"
     }
 ];
