@@ -5,18 +5,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nw1700/article/5903617_32510.html"
     },
     {
-        "title": "\"14억 인민의 승리\"…중국, 코로나19 종식 선언",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009080592&t=NN"
-    },
-    {
-        "title": "코로나로 5명 숨져 사망자 총 341명으로 늘어",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090700127"
-    },
-    {
-        "title": "\"강동 콜센터 문손잡이·에어컨서 코로나 바이러스 검출\"",
-        "link": "http://www.fnnews.com/news/202009081134026054"
-    },
-    {
         "title": "WHO “코로나, 마지막 팬데믹 아냐…다음엔 더 잘 대응해야”",
         "link": "http://www.hani.co.kr/arti/international/international_general/961189.html"
     },
@@ -33,11 +21,23 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7RZBF3D2"
     },
     {
-        "title": "전세계 코로나19 재확산하는데…진앙지 中은 '종식선언'",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=204872"
+        "title": "시진핑, 코로나19 종식 선언…\"이제 치료제·백신 개발\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009080764&t=NN"
     },
     {
         "title": "文대통령, 내일 코로나 극복 당청 수뇌부 회의 주재",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03650646625898152"
+    },
+    {
+        "title": "건강식품 설명회 관련 확진자 속출… 8일 대전·충남 14명 확진",
+        "link": "https://www.news1.kr/articles/?4052599"
+    },
+    {
+        "title": "정부 “9월 중 상업용 코로나19 항체치료제 대량생산”",
+        "link": "http://www.hani.co.kr/arti/society/society_general/961322.html"
+    },
+    {
+        "title": "코로나19 신규 확진 136명, 엿새째 100명대…사망 5명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005969972&plink=ORI&cooper=NAVER"
     }
 ];
