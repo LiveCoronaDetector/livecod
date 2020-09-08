@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
+    },
+    {
         "title": "Global report: India overtakes Brazil as second most Covid-infected country",
         "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
     },
     {
-        "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
-        "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Australia's Victoria state reports 55 new coronavirus cases, eight deaths",
-        "link": "https://www.msn.com/en-us/news/world/australias-victoria-state-reports-55-new-coronavirus-cases-eight-deaths/ar-BB18NGet?li=BBnb7Kz"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
     }
 ];

@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4534447&ref=A"
     },
     {
-        "title": "국내 코로나19 신규 확진자 119명…닷새째 100명대",
-        "link": "http://www.hani.co.kr/arti/society/society_general/961014.html"
+        "title": "[속보] 코로나19 신규 확진 136명...엿새째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009080936001&code=940601"
+    },
+    {
+        "title": "\"하하호호\" '다닥다닥' 한강공원 코로나 무법지대 되나",
+        "link": "http://www.fnnews.com/news/202009080909460820"
+    },
+    {
+        "title": "중국, 우한 봉쇄 7개월반 만에 사실상 '코로나 종식' 선언",
+        "link": "http://yna.kr/AKR20200908040800083?did=1195m"
     },
     {
         "title": "울산서 현대중공업 근로자 등 코로나19 확진자 3명 발생",
         "link": "http://www.segye.com/content/html/2020/09/08/20200908508577.html?OutUrl=naver"
     },
     {
-        "title": "한강 뚝섬 편의점에 마스크 착용 불량 확진자 방문",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01561286625898152"
+        "title": "[속보] 22명 감염된 강동구 콜센터, 문 손잡이·에어컨에서 코로나 바이러스 ...",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200908000672"
     },
     {
         "title": "복지부 차관 \"확진자 100명대로 감소…집단감염 5배 증가\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=405710&class=33&grp="
     },
     {
-        "title": "[종합] 코로나19 확진자 6일째 100명대...서울 67, 경기 29명",
-        "link": "http://www.fnnews.com/news/202009080937253138"
-    },
-    {
-        "title": "日 코로나 신규 확진자 293명… 56일 만에 200명대",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/08/2020090800086.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 136명...엿새째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009080936001&code=940601"
+        "title": "한강 뚝섬 편의점에 마스크 착용 불량 확진자 방문",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01561286625898152"
     }
 ];
