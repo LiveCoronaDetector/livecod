@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html"
     },
     {
-        "title": "Tour de France stage 10 - live coverage",
-        "link": "https://www.cyclingnews.com/races/tour-de-france-2020/stage-10/live-report/"
+        "title": "Coronavirus live news: France confirms 6,544 new infections; Spain reports 3,168 new daily cases",
+        "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
         "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/08/us/five-things-september-8-trnd/index.html"
     },
     {
-        "title": "Dave Brailsford speaks at Nicolas Portal memorial unveiling at the Tour de France",
-        "link": "https://www.velonews.com/events/tour-de-france/dave-brailsford-speaks-at-nicolas-portal-memorial-unveiling-at-the-tour-de-france/"
-    },
-    {
-        "title": "India overtakes Brazil with second-highest number of Covid-19 cases, city of Pune national hotspot",
-        "link": "https://www.youtube.com/watch?v=SrdYG2THJwk"
+        "title": "India now country with second-highest number of coronavirus cases",
+        "link": "https://www.foxnews.com/world/india-now-country-with-second-highest-number-of-coronavirus-cases-overtaking-brazil"
     },
     {
         "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_47508de310d9dc86a64ba45b4e082079"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_4af6ca816e4f73e5afb31bc40881f6e7"
     },
     {
-        "title": "Covid-19 death rate among African Americans and Latinos rising sharply",
-        "link": "https://www.theguardian.com/world/2020/sep/08/covid-19-death-rate-african-americans-and-latinos-rising-sharply"
+        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+    },
+    {
+        "title": "#NZhellhole: how Kiwis are hitting back at Trump's Covid taunts",
+        "link": "https://www.theguardian.com/world/2020/sep/08/nzhellhole-how-kiwis-are-hitting-back-at-trumps-covid-taunts"
     }
 ];
