@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
-        "title": "Myanmar's Aung San Suu Kyi cancels first election event amid worsening COVID-19 outbreak",
-        "link": "https://www.youtube.com/watch?v=DZTPnmuugJs"
+        "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
+        "link": "https://www.nytimes.com/2020/09/08/world/asia/india-coronavirus-farmer-suicides-lockdown.html"
     },
     {
         "title": "China Awards Coronavirus 'Heroes'",
         "link": "https://www.youtube.com/watch?v=G1g59locZdk"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
-    },
-    {
-        "title": "Myanmar's Suu Kyi pulls out of first election trip over coronavirus",
-        "link": "https://www.arabnews.com/node/1730741/world"
-    },
-    {
         "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
         "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
     },
     {
-        "title": "Coronavirus: Russian vaccine shows signs of immune response",
-        "link": "https://www.bbc.com/news/world-europe-54036221"
+        "title": "Coronavirus UK map: confirmed Covid cases and deaths today",
+        "link": "https://www.theguardian.com/world/2020/sep/08/coronavirus-uk-map-confirmed-covid-cases-and-deaths-today"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_47508de310d9dc86a64ba45b4e082079"
+    },
+    {
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     }
 ];
