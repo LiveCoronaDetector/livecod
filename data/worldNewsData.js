@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/08/coronavirus-live-news-spain-cases-top-500000-in-european-first-as-global-deaths-pass-890000"
     },
     {
-        "title": "India Moves Into 2nd Place For COVID-19 Cases",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
+        "title": "Coronavirus latest news: Levels at height of pandemic 'three times higher than thought'",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-uk-latest-vaccine-airport-tests-cases-deaths/"
     },
     {
         "title": "Xi says China was open in handling of coronavirus: Live news",
