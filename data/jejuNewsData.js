@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
     },
     {
-        "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
-        "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
-    },
-    {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
+    },
+    {
+        "title": "광주 전통시장 국밥집서 접촉…코로나19 확진자 2명 발생",
+        "link": "http://www.hani.co.kr/arti/area/jeju/960883.html"
     },
     {
         "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",

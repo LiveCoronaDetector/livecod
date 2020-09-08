@@ -9,16 +9,24 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/07/2020090702539.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "WHO의 경고…\"코로나19 마지막 팬데믹 아냐\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01423526625898152"
     },
     {
+        "title": "코로나19 어제 119명 신규 확진…닷새째 100명대",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968109&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보] 광주서 코로나19 확진자 2명 추가 발생…누적 442명",
+        "link": "https://www.news1.kr/articles/?4051383"
+    },
+    {
         "title": "중국 22일간 코로나 환자 '0'라더니…한국행 승객 5명 확진",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005968947&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 확산세 주춤 양상…곳곳의 산발 감염 불씨는 여전",
+        "link": "http://yna.kr/AKR20200907149000530?did=1195m"
     },
     {
         "title": "코로나 통제 손 놨다…하루 확진자만 9만명 넘은 이 나라",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "'마스크 착용 불량' 확진자, 한강 뚝섬 편의점 들렀다 발칵",
         "link": "https://news.joins.com/article/olink/23461137"
-    },
-    {
-        "title": "국회서 또다시 코로나19 확진자 발생···국회 “긴급 대책회의 중”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009071055001&code=910402"
-    },
-    {
-        "title": "문 대통령 \"코로나 확산세 반전 성공, 자신감 높아져\"",
-        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=209145"
     }
 ];

@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Coronavirus in South Africa: Scientists explore surprise theory for low death rate",
-        "link": "https://news.yahoo.com/coronavirus-africa-could-poverty-explain-231532235.html"
+        "link": "https://www.bbc.com/news/world-africa-53998374"
     },
     {
         "title": "Trump touts big job gains, says the U.S. is 'rounding the corner' on the coronavirus",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
     },
     {
-        "title": "Coronavirus: Melbourne lockdown extended by two weeks",
-        "link": "https://www.bbc.com/news/world-australia-54045102"
-    },
-    {
-        "title": "South Korea reports 119 more cases of new coronavirus",
-        "link": "http://www.koreaherald.com/view.php?ud=20200907000650"
-    },
-    {
-        "title": "India overtakes Brazil in Covid-19 cases as it becomes second worst-hit country by pandemic",
-        "link": "https://www.youtube.com/watch?v=PonKA7bvQbY"
+        "title": "UK records highest daily coronavirus cases since May: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
     },
     {
         "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
+    },
+    {
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
+    },
+    {
+        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
+        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
     },
     {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
