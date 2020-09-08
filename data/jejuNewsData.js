@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002673892&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
+        "title": "제주도, 온라인 농어촌민박사업자 서비스·안전교육",
+        "link": "http://www.newsrep.co.kr/news/articleView.html?idxno=142910"
+    },
+    {
         "title": "\"코로나로 가족도 못보네요\" 추석 대목도 '옛말'",
         "link": "https://www.jnilbo.com/view/media/view?code=2020090816560372138"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
-    },
-    {
-        "title": "제주 게스트하우스 발 확진자 전국 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
     }
 ];

@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cyclingnews.com/races/tour-de-france-2020/stage-10/live-report/"
     },
     {
-        "title": "Spain sets Western Europe coronavirus record: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/doctors-south-korea-suspend-strike-coronavirus-live-news-200907232556822.html"
+        "title": "China passed 'extraordinary' virus test, says bullish Xi",
+        "link": "https://www.msn.com/en-us/news/world/china-passed-extraordinary-virus-test-says-bullish-xi/ar-BB18O4k2"
     },
     {
-        "title": "Tour de France tech trends 2020 | The best tech at this year's race",
-        "link": "https://www.bikeradar.com/features/tour-de-france-2020-tech-round-up/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
         "title": "Coronavirus Infections Surge In France, Spain And UK | TODAY",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_47508de310d9dc86a64ba45b4e082079"
+        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
     }
 ];
