@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=DZTPnmuugJs"
     },
     {
-        "title": "Xi says China was open in handling of coronavirus: Live news",
+        "title": "Spain sets Western Europe coronavirus record: Live news",
         "link": "https://www.aljazeera.com/news/2020/09/doctors-south-korea-suspend-strike-coronavirus-live-news-200907232556822.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/myanmars-suu-kyi-pulls-first-075336338.html"
     },
     {
-        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
+        "title": "#NZhellhole: how Kiwis are hitting back at Trump's Covid taunts",
+        "link": "https://www.theguardian.com/world/2020/sep/08/nzhellhole-how-kiwis-are-hitting-back-at-trumps-covid-taunts"
     },
     {
-        "title": "Trump tries and fails to get reporter to remove mask at news conference",
-        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/h_911bab051725f73141a425083be373b2"
+        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
     }
 ];
