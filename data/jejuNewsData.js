@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
     },
     {
-        "title": "제주 벌초 풍습을 바꾼 코로나19…“올해는 오지 마세요“",
-        "link": "http://www.hani.co.kr/arti/area/jeju/960913.html"
+        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     }
 ];
