@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
     },
     {
-        "title": "UK records highest daily coronavirus cases since May: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
+        "title": "Coronavirus: Melbourne lockdown extended by two weeks",
+        "link": "https://www.bbc.com/news/world-australia-54045102"
+    },
+    {
+        "title": "India Surpasses Brazil With World's Second Highest Virus Cases",
+        "link": "https://www.msn.com/en-us/news/world/india-surpasses-brazil-with-worlds-second-highest-virus-cases/ar-BB18Mf1h"
     },
     {
         "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
         "link": "https://www.theguardian.com/world/2020/sep/06/coronavirus-fears-uk-government-lost-control-cases-soar"
     },
     {
-        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
-    },
-    {
-        "title": "Global report: India overtakes Brazil as second most Covid-infected country",
-        "link": "https://www.theguardian.com/world/2020/sep/07/global-report-india-overtakes-brazil-as-second-most-covid-infected-country-in-the-world"
-    },
-    {
         "title": "In Sign of Progress, Fewer Than 1% of New York’s Virus Tests Are Positive",
         "link": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     }
 ];
