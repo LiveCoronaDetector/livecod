@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7RZBF3D2"
     },
     {
-        "title": "울산서 현대중공업 근로자 등 코로나19 확진자 3명 발생",
-        "link": "http://www.segye.com/content/html/2020/09/08/20200908508577.html?OutUrl=naver"
-    },
-    {
-        "title": "中 코로나 대응 표창 대회…시진핑 \"전략적 성과 거둬\"",
-        "link": "https://www.nocutnews.co.kr/news/5408653"
-    },
-    {
-        "title": "현대중공업 코로나19 감염 확진자 4명으로 늘어",
-        "link": "http://www.fnnews.com/news/202009081517168387"
+        "title": "“중대한 성과 거둬”…시진핑, 사실상 코로나19 종식 선언?",
+        "link": "https://www.donga.com/news/article/all/20200908/102839158/2"
     },
     {
         "title": "文대통령, 내일 코로나 극복 당청 수뇌부 회의 주재",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03650646625898152"
+    },
+    {
+        "title": "독감·코로나 동시 유행할라…예방주사 무료접종 대상 확대",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005970389&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "당국 \"이달중 코로나19 항체치료제 대량 생산…생산공정 검증용\"(종합)",
+        "link": "http://yna.kr/AKR20200908102651530?did=1195m"
     }
 ];

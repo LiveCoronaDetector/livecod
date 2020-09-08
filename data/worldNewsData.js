@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/09/08/covid-news-us-deaths-french-open-montana-meth-vaccine/5739730002/"
     },
     {
-        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
-        "link": "https://www.bbc.com/news/uk-54061938"
+        "title": "Coronavirus: Red cities list released, more than 3,400 new patients",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-new-record-high-of-3392-new-cases-641463"
     },
     {
         "title": "Coronavirus live news: school closures could hit economy 'for rest of century'; Tour de France director tests positive",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/society/article/3100570/chinese-drug-firm-says-hundreds-thousands-have-been-given-covid"
     },
     {
-        "title": "Why Riders Gain Weight During The Tour de France",
-        "link": "https://www.youtube.com/watch?v=PqjfOAbjBEU"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
         "title": "Trump: Send Second Stimulus Checks With Covid Relief Funds",
         "link": "https://www.forbes.com/sites/zackfriedman/2020/09/07/second-stimulus-checks-trump/"
     },
     {
-        "title": "Coronavirus: India overtakes Brazil in Covid-19 cases",
-        "link": "https://www.bbc.com/news/world-asia-india-54023509"
+        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_47508de310d9dc86a64ba45b4e082079"
+        "title": "Tour de France peloton passes COVID-19 testing – VeloNews.com",
+        "link": "https://www.velonews.com/events/tour-de-france/tour-de-france-peloton-passes-covid-19-testing/"
     }
 ];
