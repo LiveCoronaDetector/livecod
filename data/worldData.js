@@ -476,9 +476,9 @@ var marker = [
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "확진자수": 43893,
-        "사망자수": 352,
-        "완치자수": 41531
+        "확진자수": 43975,
+        "사망자수": 354,
+        "완치자수": 41594
     },
     {
         "Name": "Moldova",
