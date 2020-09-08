@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54023509"
     },
     {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+        "title": "Controversial Forecast Of COVID-19 Death Toll Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/04/909783162/new-global-coronavirus-death-forecast-is-chilling-and-controversial"
     },
     {
-        "title": "Tour de France Plows Ahead, Despite Four Covid Cases Among Team Staffers",
-        "link": "https://www.wsj.com/articles/tour-de-france-plows-ahead-despite-four-covid-cases-among-team-staffers-11599570320"
+        "title": "Tour de France peloton reacts to positive COVID-19 tests of Christian Prudhomme, four team staffers",
+        "link": "https://www.velonews.com/events/tour-de-france/tour-de-france-peloton-reacts-to-positive-covid-19-tests-of-christian-prudhomme-four-team-staffers/"
     }
 ];
