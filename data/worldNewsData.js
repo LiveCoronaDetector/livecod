@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1900397/nigerian-scientists-identified-seven-lineages-of-sars-cov-2-covid/"
     },
     {
-        "title": "New challenges in US battle against Covid-19 come with the approaching fall season",
-        "link": "https://www.cnn.com/2020/09/08/health/us-coronavirus-tuesday/index.html"
+        "title": "Coronavirus updates: West Virginia University suspends in-person classes; Trump asks reporter to remove mask; US nears 190K deaths",
+        "link": "https://www.usatoday.com/story/news/health/2020/09/08/covid-news-us-deaths-french-open-montana-meth-vaccine/5739730002/"
     },
     {
         "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.cyclingnews.com/races/tour-de-france-2020/stage-10/live-report/"
     },
     {
-        "title": "South Africa economy slumps 51% during coronavirus lockdown: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/doctors-south-korea-suspend-strike-coronavirus-live-news-200907232556822.html"
+        "title": "Emergency vaccines ‘have proved effectiveness’, Chinese drug firm says",
+        "link": "https://www.scmp.com/news/china/society/article/3100570/chinese-drug-firm-says-hundreds-thousands-have-been-given-covid"
     },
     {
-        "title": "Tour de France peloton passes COVID-19 testing – VeloNews.com",
-        "link": "https://www.velonews.com/events/tour-de-france/tour-de-france-peloton-passes-covid-19-testing/"
+        "title": "Why Riders Gain Weight During The Tour de France",
+        "link": "https://www.youtube.com/watch?v=PqjfOAbjBEU"
+    },
+    {
+        "title": "Trump: Send Second Stimulus Checks With Covid Relief Funds",
+        "link": "https://www.forbes.com/sites/zackfriedman/2020/09/07/second-stimulus-checks-trump/"
     },
     {
         "title": "Coronavirus: India overtakes Brazil in Covid-19 cases",
         "link": "https://www.bbc.com/news/world-asia-india-54023509"
-    },
-    {
-        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
