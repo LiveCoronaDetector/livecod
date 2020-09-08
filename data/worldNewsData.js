@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/200-staff-syria-diagnosed-coronavirus-live-news-200906231715906.html"
     },
     {
-        "title": "Spain is first country in western Europe to record half a million Covid cases",
-        "link": "https://www.theguardian.com/world/2020/sep/07/spain-set-to-record-half-a-million-covid-cases"
+        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
+        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-07-20-intl/index.html"
     },
     {
-        "title": "UK records highest daily coronavirus cases since May: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/mask-rally-italy-coronavirus-deaths-inch-live-news-200905233428336.html"
+        "title": "Coronavirus: Melbourne lockdown extended by two weeks",
+        "link": "https://www.bbc.com/news/world-australia-54045102"
     },
     {
         "title": "Coronavirus: fears UK government has lost control as Covid cases soar",
