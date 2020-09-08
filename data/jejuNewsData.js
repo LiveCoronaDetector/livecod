@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090800163773894?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
-        "link": "http://www.fnnews.com/news/202009020025153557"
-    },
-    {
         "title": "하리수, '제주도 묻지마 살인'에 격분 \"생활고 때문에 사람을? 평생 감옥 살길...",
         "link": "http://www.osen.co.kr/article/G1111430264"
     },
     {
-        "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
+        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
+        "link": "http://www.fnnews.com/news/202009020025153557"
+    },
+    {
+        "title": "제주 게스트하우스 발 확진자 전국 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
     }
 ];

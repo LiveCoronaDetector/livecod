@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/07/trump-touts-big-job-gains-says-the-us-is-rounding-the-corner-on-the-coronvirus.html"
     },
     {
-        "title": "Coronavirus: Red cities list released, more than 3,400 new patients",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-new-record-high-of-3392-new-cases-641463"
+        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
+        "link": "https://www.bbc.com/news/uk-54061938"
     },
     {
         "title": "Coronavirus live news: India suffers most daily deaths in a month as global toll passes 890,000",
@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/07/910401174/india-moves-into-2nd-place-for-covid-19-cases"
     },
     {
-        "title": "China passed 'extraordinary' virus test, says bullish Xi",
+        "title": "China passed 'extraordinary' virus test, says bullish Xi AFP News",
         "link": "https://www.msn.com/en-us/news/world/china-passed-extraordinary-virus-test-says-bullish-xi/ar-BB18O4k2"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/myanmars-suu-kyi-pulls-first-075336338.html"
     },
     {
-        "title": "Coronavirus spikes in Spain, France and U.K. raise specter of second wave",
-        "link": "https://www.nbcnews.com/news/world/coronavirus-spikes-spain-france-u-k-raise-specter-second-wave-n1239454"
+        "title": "#NZhellhole: how Kiwis are hitting back at Trump's Covid taunts",
+        "link": "https://www.theguardian.com/world/2020/sep/08/nzhellhole-how-kiwis-are-hitting-back-at-trumps-covid-taunts"
     }
 ];
