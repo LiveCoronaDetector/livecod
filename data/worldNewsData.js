@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/09/08/907084962/peru-locked-down-early-now-it-battles-one-of-the-worst-coronavirus-outbreaks"
     },
     {
-        "title": "Israel’s Coronavirus Czar Clashes With Ultra-Orthodox, a Netanyahu Ally",
-        "link": "https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html"
+        "title": "Is Israel on the cusp of complete coronavirus closure?",
+        "link": "https://www.jpost.com/health-science/is-israel-on-the-cusp-of-complete-coronavirus-closure-641639"
     },
     {
         "title": "Silvio Berlusconi says he is fighting 'hellish' case of coronavirus",
         "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     },
     {
-        "title": "Thailand tests nearly 600 people exposed to mystery coronavirus case",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-thailand/thailand-tests-nearly-600-people-exposed-to-mystery-coronavirus-case-idUSKBN26018P"
+        "title": "Indian Drug Firm Gets Notice After Oxford Covid Vaccine Trial Paused",
+        "link": "https://www.ndtv.com/india-news/coronavirus-serum-institute-of-india-gets-notice-after-oxford-covid-19-vaccine-trial-paused-2293003"
     },
     {
         "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.popsugar.com/entertainment/bunga-bunga-true-story-silvio-berlusconi-47769682"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest news from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
-    },
-    {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/09/world/covid-19-coronavirus.html"
     },
     {
         "title": "Global food prices have been rising during the coronavirus pandemic, hitting food security",
         "link": "https://www.cnbc.com/2020/09/09/global-food-prices-have-been-rising-during-pandemic-hitting-food-security.html"
+    },
+    {
+        "title": "India coronavirus: Rumours hamper testing in Punjab",
+        "link": "https://www.bbc.com/news/world-asia-india-54068007"
     }
 ];
