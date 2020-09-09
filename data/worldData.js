@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6519866,
-        "사망자수": 194369,
-        "완치자수": 3797612
+        "확진자수": 6521356,
+        "사망자수": 194381,
+        "완치자수": 3797941
     },
     {
         "Name": "인도",
@@ -84,9 +84,9 @@ var marker = [
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "확진자수": 425541,
-        "사망자수": 11682,
-        "완치자수": 397730
+        "확진자수": 427027,
+        "사망자수": 11702,
+        "완치자수": 399555
     },
     {
         "Name": "이란",
@@ -1081,20 +1081,20 @@ var marker = [
         "완치자수": 1290
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 2493,
+        "사망자수": 39,
+        "완치자수": 749
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
         "확진자수": 2416,
         "사망자수": 13,
         "완치자수": 1313
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 2391,
-        "사망자수": 39,
-        "완치자수": 743
     },
     {
         "Name": "Guinea-Bissau",
@@ -1108,7 +1108,7 @@ var marker = [
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
-        "확진자수": 2213,
+        "확진자수": 2242,
         "사망자수": 40,
         "완치자수": 1793
     },

@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "AstraZeneca Covid-19 vaccine study is put on hold",
-        "link": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
     },
     {
         "title": "Bunga Bunga: The Sex Case That Brought Down Italian Prime Minister Silvio Berlusconi",
         "link": "https://www.popsugar.com/entertainment/bunga-bunga-true-story-silvio-berlusconi-47769682"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/09/world/covid-19-coronavirus.html"
     },
     {
         "title": "Global food prices have been rising during the coronavirus pandemic, hitting food security",
