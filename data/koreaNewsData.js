@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200909153151080?did=1195m"
     },
     {
-        "title": "[속보] 미국 코로나 사망자 19만명 넘었다",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014995933&code=61131111&cp=nv"
-    },
-    {
         "title": "프랑스 국무회의 다시 화상으로…신규 확진자 또 8천명대(종합)",
         "link": "http://yna.kr/AKR20200910002451081?did=1195m"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "서울 어제 코로나 확진자 49명…26일 만에 평일 40명대",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/09/2020090901799.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "서울 종로구청 공원관리 기간제 근로자 8명 코로나19 집단확진",
+        "link": "http://yna.kr/AKR20200909095600530?did=1195m"
     },
     {
         "title": "[속보]원주서 서울 은평구 수색성당발 코로나 확진자 발생",

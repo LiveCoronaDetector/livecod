@@ -5,12 +5,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
-        "title": "'미국 입국' 제주 49번째 코로나19 확진자 발생",
-        "link": "http://www.ihalla.com/read.php3?aid=1599629296691756073"
-    },
-    {
-        "title": "제주 50번째 코로나 확진 발생...게하발 10번째",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319947"
+        "title": "제주서 50번째 확진자 나와…게스하우스발 확진",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001066&ref=A"
     },
     {
         "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
@@ -25,12 +21,8 @@ var jejuNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005972446&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "국내 벤처 제약사 '제넨셀', 인도서 '제주 담팔수 추출물' 코로나19 치료제 3...",
-        "link": "http://www.viva100.com/main/view.php?key=20200909010001913"
-    },
-    {
-        "title": "정은경, 코로나19와 인플루엔자(독감) 중복 감염 확인",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=20200909164318744246a9e4dd7f_30"
+        "title": "제주 담팔수 추출물, 코로나19 치료제 주목",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319893"
     },
     {
         "title": "코로나19 국내 발생현황 브리핑 (20. 09. 09. 14시)",
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "제주도, 도청 외부인 방문 출입제한 기간 연장",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171434"
+    },
+    {
+        "title": "제7회 국제전기차엑스포, 코로나 팬데믹 극복 위해 주요행사 분산 개최",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
+    },
+    {
+        "title": "[문답]정은경 \"질병관리청, 코로나19 빨리 극복하라는 국민의 뜻\"",
+        "link": "https://www.news1.kr/articles/?4053763"
     }
 ];
