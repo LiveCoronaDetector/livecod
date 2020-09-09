@@ -5,12 +5,24 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5409387"
     },
     {
+        "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
+        "link": "http://yna.kr/AKR20200909114500056?did=1195m"
+    },
+    {
         "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     },
     {
         "title": "제주 담팔수 추출물, 코로나19 치료제 주목",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319893"
+    },
+    {
+        "title": "코로나19 국내 발생현황 브리핑 (20. 09. 09. 14시)",
+        "link": "http://www.ktv.go.kr/content/view?content_id=608736"
+    },
+    {
+        "title": "정은경, 코로나19와 인플루엔자(독감) 중복 감염 확인",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20200909164318744246a9e4dd7f_30"
     },
     {
         "title": "\"연대와 협력 있다면 코로나19 위기 반드시 극복\"",
@@ -25,19 +37,7 @@ var jejuNewsData = [
         "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
     },
     {
-        "title": "국내 벤처 제약사 '제넨셀', 인도서 '제주 담팔수 추출물' 코로나19 치료제 3...",
-        "link": "http://www.viva100.com/main/view.php?key=20200909010001913"
-    },
-    {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
-    },
-    {
-        "title": "제주 게스트하우스 발 확진자 전국 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
-    },
-    {
-        "title": "코로나19 확진자 다녀간 제주 도청·시청 일부 부서 폐쇄",
-        "link": "http://yna.kr/AKR20200830036700056?did=1195m"
     }
 ];

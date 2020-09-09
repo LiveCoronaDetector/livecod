@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54082192"
     },
     {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+        "title": "Coronavirus has disrupted care for other diseases globally, Fauci says",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_6f4db0f94f55613ec5e3911383aab2c1"
     },
     {
         "title": "EU says one in eight deaths is linked to pollution",
