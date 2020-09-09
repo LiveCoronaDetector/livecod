@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
-        "title": "제주도교육청, 코로나19 감염병 대응 심리방역 온라인 연수",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171298"
-    },
-    {
         "title": "제주도, 온라인 농어촌민박사업자 서비스·안전교육",
         "link": "http://www.newsrep.co.kr/news/articleView.html?idxno=142910"
     },
     {
         "title": "\"코로나로 가족도 못보네요\" 추석 대목도 '옛말'",
         "link": "https://www.jnilbo.com/view/media/view?code=2020090816560372138"
+    },
+    {
+        "title": "제주도교육청, 코로나19 감염병 대응 심리방역 온라인 연수",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171298"
     },
     {
         "title": "제주도 48번째 코로나19 확진자 발생",
@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350149"
     },
     {
-        "title": "코로나19 대응 전 도민 대상 독감 백심 무료 접종",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171274"
+        "title": "제주 게스트하우스 발 확진자 전국 11명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
     },
     {
         "title": "하리수, '제주도 묻지마 살인'에 격분 \"생활고 때문에 사람을? 평생 감옥 살길...",
