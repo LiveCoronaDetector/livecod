@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Bunga Bunga: The Sex Case That Brought Down Italian Prime Minister Silvio Berlusconi",
-        "link": "https://www.popsugar.com/entertainment/bunga-bunga-true-story-silvio-berlusconi-47769682"
+        "title": "Whitney Cummings Reveals Why She Thinks Women Like True Crime Podcasts",
+        "link": "https://www.youtube.com/watch?v=dGUV3hyL2wU"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
+    },
+    {
+        "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
+        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
     }
 ];
