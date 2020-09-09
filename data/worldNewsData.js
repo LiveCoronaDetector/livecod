@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54082192"
     },
     {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+        "title": "Don't blame us for UK's coronavirus spike, say young people",
+        "link": "https://www.theguardian.com/world/2020/sep/08/dont-blame-us-for-uks-coronavirus-spike-say-young-people"
     },
     {
         "title": "EU says one in eight deaths is linked to pollution",
