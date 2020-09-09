@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5409387"
     },
     {
+        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
+    },
+    {
         "title": "제주 담팔수 추출물, 코로나19 치료제 주목",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319893"
     },
@@ -21,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
     },
     {
+        "title": "국내 벤처 제약사 '제넨셀', 인도서 '제주 담팔수 추출물' 코로나19 치료제 3...",
+        "link": "http://www.viva100.com/main/view.php?key=20200909010001913"
+    },
+    {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진자 다녀간 제주 도청·시청 일부 부서 폐쇄",
         "link": "http://yna.kr/AKR20200830036700056?did=1195m"
-    },
-    {
-        "title": "\"코로나로 가족도 못보네요\" 추석 대목도 '옛말'",
-        "link": "https://www.jnilbo.com/view/media/view?code=2020090816560372138"
-    },
-    {
-        "title": "울산 ‘고스톱 확진자’ 12명으로 늘어",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/960363.html"
     }
 ];
