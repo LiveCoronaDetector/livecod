@@ -5,12 +5,8 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
-        "title": "제주지역 49번째 코로나19 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5409387"
-    },
-    {
-        "title": "[속보]제주 코로나 확진자 추가 발생, 미국서 입국 \"제주도 코로나19 확진자 ...",
-        "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=283979"
+        "title": "제주서 49번째 확진자 발생…미국서 입국",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5000512&ref=A"
     },
     {
         "title": "제주 담팔수 추출물, 코로나19 치료제 주목",
@@ -21,23 +17,27 @@ var jejuNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002673892&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "제주 48번째 코로나19 확진자 나와…자가 격리 중 확진",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532904&ref=A"
-    },
-    {
-        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
-        "link": "http://www.fnnews.com/news/202009020025153557"
+        "title": "제주도 48번째 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제7회 국제전기차엑스포, 코로나 팬데믹 극복 위해 주요행사 분산 개최",
         "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
     },
     {
-        "title": "제주도, 온라인 농어촌민박사업자 서비스·안전교육",
-        "link": "http://www.newsrep.co.kr/news/articleView.html?idxno=142910"
+        "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
+        "link": "http://www.fnnews.com/news/202009020025153557"
     },
     {
         "title": "제주 게스트하우스 발 확진자 전국 11명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
+    },
+    {
+        "title": "\"코로나로 가족도 못보네요\" 추석 대목도 '옛말'",
+        "link": "https://www.jnilbo.com/view/media/view?code=2020090816560372138"
+    },
+    {
+        "title": "목사부부 방문 숨긴 온천발 확진자 잇따라…제주도청은 일부폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202008301600001&code=620117"
     }
 ];
