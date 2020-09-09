@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5409387"
     },
     {
-        "title": "[단독]\"방역 철저했다더니\"…영화관 확진자 나온 날, 정부 할인쿠폰 4400장 풀...",
-        "link": "https://view.asiae.co.kr/article/2020090911515869625"
-    },
-    {
         "title": "[속보]원주서 서울 은평구 수색성당발 코로나 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220090800147"
     },
     {
-        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
+        "title": "[단독]\"방역 철저했다더니\"…영화관 확진자 나온 날, 정부 할인쿠폰 4400장 풀...",
+        "link": "https://view.asiae.co.kr/article/2020090911515869625"
     },
     {
         "title": "코로나와 증상 비슷한 독감… 혼선 피하려면 독감 예방접종을",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/09/2020090901469.html"
+    },
+    {
+        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     }
 ];

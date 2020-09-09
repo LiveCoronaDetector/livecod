@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54068007"
     },
     {
-        "title": "5 things to know for September 8: Coronavirus, protests, Brexit, US election, China",
-        "link": "https://www.cnn.com/2020/09/08/us/five-things-september-8-trnd/index.html"
+        "title": "AstraZeneca pauses Oxford vaccine trial after unexplained illness",
+        "link": "https://www.scmp.com/news/world/europe/article/3100773/coronavirus-astrazeneca-pauses-oxford-vaccine-trial-after"
     },
     {
         "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
         "link": "https://www.bbc.com/news/world-54082192"
     },
     {
-        "title": "Don't blame us for UK's coronavirus spike, say young people",
-        "link": "https://www.theguardian.com/world/2020/sep/08/dont-blame-us-for-uks-coronavirus-spike-say-young-people"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
     },
     {
-        "title": "EU says one in eight deaths is linked to pollution",
-        "link": "https://www.bbc.com/news/world-europe-54071380"
+        "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
+        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
     },
     {
         "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",

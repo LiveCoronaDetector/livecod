@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     },
     {
+        "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
+        "link": "https://www.news1.kr/articles/?4053847"
+    },
+    {
         "title": "코로나가 '벌초 문화'도 바꿨다…\"대행 신청 급증\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005972446&plink=ORI&cooper=NAVER"
     },
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171434"
     },
     {
-        "title": "[문답]정은경 \"질병관리청, 코로나19 빨리 극복하라는 국민의 뜻\"",
-        "link": "https://www.news1.kr/articles/?4053763"
-    },
-    {
         "title": "제7회 국제전기차엑스포, 코로나 팬데믹 극복 위해 주요행사 분산 개최",
         "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
     },
     {
-        "title": "\"연대와 협력 있다면 코로나19 위기 반드시 극복\"",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002673892&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "코로나19 확진자 99 이동 동선",
+        "link": "https://usmbc.co.kr/article/cmbJ094Ncikl0I"
     },
     {
-        "title": "제주도 48번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
+        "title": "[문답]정은경 \"질병관리청, 코로나19 빨리 극복하라는 국민의 뜻\"",
+        "link": "https://www.news1.kr/articles/?4053763"
     }
 ];
