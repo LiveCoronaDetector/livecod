@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
     },
     {
-        "title": "EU says one in eight deaths is linked to pollution",
-        "link": "https://www.bbc.com/news/world-europe-54071380"
+        "title": "Don't blame us for UK's coronavirus spike, say young people",
+        "link": "https://www.theguardian.com/world/2020/sep/08/dont-blame-us-for-uks-coronavirus-spike-say-young-people"
     },
     {
         "title": "AstraZeneca Pauses Covid-19 Vaccine Trial for Safety Review",

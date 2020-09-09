@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020090914425301420"
     },
     {
-        "title": "서울 종로구청 공원관리 기간제 근로자 8명 코로나19 집단확진",
-        "link": "http://yna.kr/AKR20200909095600530?did=1195m"
+        "title": "중대본 \"확진자 감소세 유지시, 2.5단계 연장 안 해\"",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=405839&class=33&grp="
     },
     {
-        "title": "제주지역 49번째 코로나19 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5409387"
+        "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
+        "link": "http://yna.kr/AKR20200909114500056?did=1195m"
+    },
+    {
+        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     },
     {
         "title": "[단독]\"방역 철저했다더니\"…영화관 확진자 나온 날, 정부 할인쿠폰 4400장 풀...",
         "link": "https://view.asiae.co.kr/article/2020090911515869625"
     },
     {
-        "title": "확진자 급감 않는 이유…정은경 \"전국 산발에 무증상 감염 누적\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160400&cID=10201&pID=10200"
-    },
-    {
         "title": "[속보]원주서 서울 은평구 수색성당발 코로나 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220090800147"
+    },
+    {
+        "title": "[전문] 용인시청 331·332·333번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=379564"
     },
     {
         "title": "코로나와 증상 비슷한 독감… 혼선 피하려면 독감 예방접종을",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/09/2020090901469.html"
     },
     {
-        "title": "중대본 \"확진자 감소세 유지시, 2.5단계 연장 안 해\"",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=405839&class=33&grp="
-    },
-    {
-        "title": "[속보] 광주 코로나19 확진자 2명 발생…누적 461명",
-        "link": "https://www.news1.kr/articles/?4053767"
-    },
-    {
         "title": "대전 건강식품 사업설명회 관련 28번째 확진자는 4살 유아(종합)",
         "link": "http://yna.kr/AKR20200909129200063?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 확진자 156명…전날보다 소폭 늘어",
+        "link": "http://news.tf.co.kr/read/life/1811772.htm"
     }
 ];
