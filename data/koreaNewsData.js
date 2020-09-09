@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009092130111532"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 156명…일주일째 100명대",
-        "link": "http://www.hani.co.kr/arti/society/society_general/961357.html"
-    },
-    {
         "title": "러 코로나19 재확산 우려 고조…자체개발 백신 3상시험 시작(종합)",
         "link": "http://yna.kr/AKR20200909153151080?did=1195m"
+    },
+    {
+        "title": "[속보]코로나19 신규 확진자 156명…일주일째 100명대",
+        "link": "http://www.hani.co.kr/arti/society/society_general/961357.html"
     },
     {
         "title": "현대중공업 코로나19 확진자 8명으로 늘어…2000명 전수 조사",

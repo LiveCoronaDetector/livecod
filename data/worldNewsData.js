@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     },
     {
-        "title": "India coronavirus: Rumours hamper testing in Punjab",
-        "link": "https://www.bbc.com/news/world-asia-india-54068007"
+        "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
+        "link": "https://www.nytimes.com/2020/09/08/world/asia/india-coronavirus-farmer-suicides-lockdown.html"
     },
     {
         "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
     },
     {
-        "title": "Global food prices have been rising during the coronavirus pandemic, hitting food security",
-        "link": "https://www.cnbc.com/2020/09/09/global-food-prices-have-been-rising-during-pandemic-hitting-food-security.html"
+        "title": "Coronavirus live news: Oxford vaccine trial on hold; new cases in Portugal and Netherlands highest since April",
+        "link": "https://www.theguardian.com/world/live/2020/sep/09/coronavirus-live-news-oxford-covid-19-vaccine-trial-put-on-hold-england-bans-gatherings-over-six"
     },
     {
-        "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
-        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
+        "title": "India coronavirus: Rumours hamper testing in Punjab",
+        "link": "https://www.bbc.com/news/world-asia-india-54068007"
     },
     {
         "title": "Air purifier that kills 99.9% of the coronavirus sees surge in global demand",
