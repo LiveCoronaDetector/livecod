@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
     },
     {
-        "title": "제주도교육청, '2021학년 평준화 일반고' 학급 정원 감축",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350149"
+        "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
+        "link": "https://www.news1.kr/articles/?4049172"
     }
 ];
