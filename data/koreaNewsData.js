@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/09/2020090901799.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "\"검찰도 뚫렸다\"…전북 96번째 확진자 전주지검 직원(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160766&cID=10808&pID=10800"
-    },
-    {
         "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "서울 종로구청 공원관리 기간제 근로자 8명 코로나19 집단확진",
         "link": "http://yna.kr/AKR20200909095600530?did=1195m"
+    },
+    {
+        "title": "충남 홍성서 확진자 1명 발생…‘접촉’ 친인척 5명도 확진",
+        "link": "https://www.donga.com/news/article/all/20200909/102865696/2"
     }
 ];
