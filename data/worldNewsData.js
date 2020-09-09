@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/09/08/907084962/peru-locked-down-early-now-it-battles-one-of-the-worst-coronavirus-outbreaks"
     },
     {
-        "title": "Israel’s Coronavirus Czar Clashes With Ultra-Orthodox, a Netanyahu Ally",
-        "link": "https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html"
+        "title": "Is Israel on the cusp of complete coronavirus closure?",
+        "link": "https://www.jpost.com/health-science/is-israel-on-the-cusp-of-complete-coronavirus-closure-641639"
     },
     {
         "title": "Silvio Berlusconi says he is fighting 'hellish' case of coronavirus",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "AstraZeneca down after report that Covid-19 vaccine is put on hold",
-        "link": "https://www.youtube.com/watch?v=1u3yx9xL0FE"
+        "title": "AstraZeneca Covid-19 vaccine study is put on hold",
+        "link": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",

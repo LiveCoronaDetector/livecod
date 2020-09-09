@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/09/2020090901799.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "\"검찰도 뚫렸다\"…전북 96번째 확진자 전주지검 직원(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160766&cID=10808&pID=10800"
+    },
+    {
+        "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
+        "link": "http://yna.kr/AKR20200909114500056?did=1195m"
+    },
+    {
+        "title": "[속보]원주서 서울 은평구 수색성당발 코로나 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090800147"
+    },
+    {
         "title": "서울 종로구청 공원관리 기간제 근로자 8명 코로나19 집단확진",
         "link": "http://yna.kr/AKR20200909095600530?did=1195m"
-    },
-    {
-        "title": "[팩트체크K] “8.15 광화문 집회 확진자 ‘0’”…확산과 무관하다고?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5000057&ref=A"
-    },
-    {
-        "title": "코로나와 증상 비슷한 독감… 혼선 피하려면 독감 예방접종을",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/09/2020090901469.html"
-    },
-    {
-        "title": "제주지역 49번째 코로나19 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5409387"
     }
 ];
