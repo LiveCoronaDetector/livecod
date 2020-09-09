@@ -9,16 +9,24 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     },
     {
-        "title": "코로나19 잠시 소강국면 제주...49번째 확진자 발생",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=329597"
-    },
-    {
         "title": "코로나19 국내 발생현황 브리핑 (20. 09. 09. 14시)",
         "link": "http://www.ktv.go.kr/content/view?content_id=608736"
     },
     {
+        "title": "코로나가 '벌초 문화'도 바꿨다…\"대행 신청 급증\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005972446&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "제주 담팔수 추출물, 코로나19 치료제 주목",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319893"
+    },
+    {
+        "title": "[문답]정은경 \"질병관리청 승격, 코로나19 빨리 극복하라는 국민의 뜻\"",
+        "link": "https://www.news1.kr/articles/?4053763"
+    },
+    {
+        "title": "제7회 국제전기차엑스포, 코로나 팬데믹 극복 위해 주요행사 분산 개최",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
     },
     {
         "title": "\"연대와 협력 있다면 코로나19 위기 반드시 극복\"",
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제7회 국제전기차엑스포, 코로나 팬데믹 극복 위해 주요행사 분산 개최",
-        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
-    },
-    {
         "title": "[1보] 제주도 47번째 확진자 발생…울산 환자와 접촉",
         "link": "http://www.fnnews.com/news/202009020025153557"
-    },
-    {
-        "title": "제주 게스트하우스 발 확진자 전국 11명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
     }
 ];
