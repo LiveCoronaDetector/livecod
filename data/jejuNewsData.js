@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319947"
     },
     {
-        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
-    },
-    {
         "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
         "link": "https://www.news1.kr/articles/?4053847"
     },
     {
         "title": "코로나가 '벌초 문화'도 바꿨다…\"대행 신청 급증\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005972446&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     },
     {
         "title": "국내 벤처 제약사 '제넨셀', 인도서 '제주 담팔수 추출물' 코로나19 치료제 3...",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
     },
     {
-        "title": "코로나19 확진자 99 이동 동선",
-        "link": "https://usmbc.co.kr/article/cmbJ094Ncikl0I"
+        "title": "[문답]정은경 \"질병관리청, 코로나19 빨리 극복하라는 국민의 뜻\"",
+        "link": "https://www.news1.kr/articles/?4053763"
     }
 ];
