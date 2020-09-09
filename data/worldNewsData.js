@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54082192"
     },
     {
-        "title": "Coronavirus has disrupted care for other diseases globally, Fauci says",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_6f4db0f94f55613ec5e3911383aab2c1"
+        "title": "Don't blame us for UK's coronavirus spike, say young people",
+        "link": "https://www.theguardian.com/world/2020/sep/08/dont-blame-us-for-uks-coronavirus-spike-say-young-people"
     },
     {
         "title": "EU says one in eight deaths is linked to pollution",
