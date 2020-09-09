@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
+        "title": "'미국 입국' 제주 49번째 코로나19 확진자 발생",
+        "link": "http://www.ihalla.com/read.php3?aid=1599629296691756073"
+    },
+    {
         "title": "제주 50번째 코로나 확진 발생...게하발 10번째",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319947"
     },
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "http://www.viva100.com/main/view.php?key=20200909010001913"
     },
     {
+        "title": "정은경, 코로나19와 인플루엔자(독감) 중복 감염 확인",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20200909164318744246a9e4dd7f_30"
+    },
+    {
         "title": "코로나19 국내 발생현황 브리핑 (20. 09. 09. 14시)",
         "link": "http://www.ktv.go.kr/content/view?content_id=608736"
     },
     {
         "title": "제주도, 도청 외부인 방문 출입제한 기간 연장",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171434"
-    },
-    {
-        "title": "제7회 국제전기차엑스포, 코로나 팬데믹 극복 위해 주요행사 분산 개최",
-        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
-    },
-    {
-        "title": "[문답]정은경 \"질병관리청, 코로나19 빨리 극복하라는 국민의 뜻\"",
-        "link": "https://www.news1.kr/articles/?4053763"
     }
 ];
