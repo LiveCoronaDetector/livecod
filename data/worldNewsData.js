@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.popsugar.com/entertainment/bunga-bunga-true-story-silvio-berlusconi-47769682"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
-    },
-    {
         "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
         "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Global food prices have been rising during the coronavirus pandemic, hitting food security",
+        "link": "https://www.cnbc.com/2020/09/09/global-food-prices-have-been-rising-during-pandemic-hitting-food-security.html"
     }
 ];
