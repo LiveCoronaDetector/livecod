@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/961357.html"
     },
     {
+        "title": "러 코로나19 재확산 우려 고조…자체개발 백신 3상시험 시작(종합)",
+        "link": "http://yna.kr/AKR20200909153151080?did=1195m"
+    },
+    {
         "title": "현대중공업 코로나19 확진자 8명으로 늘어…2000명 전수 조사",
         "link": "http://www.busan.com/view/busan/view.php?code=2020090914425301420"
     },
@@ -25,8 +29,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/09/2020090901799.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
-        "link": "http://yna.kr/AKR20200909114500056?did=1195m"
+        "title": "제주지역 49번째 코로나19 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5409387"
     },
     {
         "title": "[속보]원주서 서울 은평구 수색성당발 코로나 확진자 발생",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "서울 종로구청 공원관리 기간제 근로자 8명 코로나19 집단확진",
         "link": "http://yna.kr/AKR20200909095600530?did=1195m"
-    },
-    {
-        "title": "충남 홍성서 확진자 1명 발생…‘접촉’ 친인척 5명도 확진",
-        "link": "https://www.donga.com/news/article/all/20200909/102865696/2"
     }
 ];
