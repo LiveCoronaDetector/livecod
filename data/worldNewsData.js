@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/world/europe/article/3100773/coronavirus-astrazeneca-pauses-oxford-vaccine-trial-after"
     },
     {
-        "title": "Shares shrug off U.S. tech sell-off, vaccine trial halt",
-        "link": "https://www.investing.com/news/economy/asian-markets-set-to-come-under-pressure-after-another-down-day-on-wall-street-2289596"
+        "title": "Markets Now - Wednesday 9th September",
+        "link": "https://ftalphaville.ft.com/2020/09/09/1599638553000/Markets-Now---Tuesday-8th-September/"
     },
     {
         "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
         "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+        "title": "'Hands. Face. Space': UK government to relaunch Covid-19 slogan",
+        "link": "https://www.theguardian.com/world/2020/sep/09/hands-face-space-uk-government-to-relaunch-covid-19-slogan"
     },
     {
         "title": "EU says one in eight deaths is linked to pollution",
