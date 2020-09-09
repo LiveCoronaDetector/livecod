@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009090935214872"
     },
     {
+        "title": "중대본 \"확진자 감소세 유지시, 2.5단계 연장 안 해\"",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=405839&class=33&grp="
+    },
+    {
         "title": "코로나19 확진자 일주일째 100명대…2.5단계 효과는 언제?(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02112326625898480"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7SDLXZYQ"
     },
     {
-        "title": "코로나19 전세계 사망자 90만명 넘었다",
-        "link": "http://www.hani.co.kr/arti/international/international_general/961345.html"
+        "title": "[속보]원주서 서울 은평구 수색성당발 코로나 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090800147"
     },
     {
         "title": "[속보] 대구시 \"동아메디병원서 추가 확진자 2명 발생\"(전문)",
         "link": "https://news.imaeil.com/Society/2020090910015950469"
     },
     {
-        "title": "[속보]원주서 서울 은평구 수색성당발 코로나 확진자 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090800147"
+        "title": "서울 어제 코로나 확진자 49명…26일 만에 평일 40명대",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/09/2020090901799.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "경남, 밤새 코로나19 확진자 1명 추가…총 259명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200909_0001159814&cID=10812&pID=10800"
-    },
-    {
-        "title": "코로나와 증상 비슷한 독감… 혼선 피하려면 독감 예방접종을",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/09/2020090901469.html"
     }
 ];
