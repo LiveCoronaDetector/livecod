@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     },
     {
-        "title": "India coronavirus: Rumours hamper testing in Punjab",
-        "link": "https://www.bbc.com/news/world-asia-india-54068007"
+        "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
+        "link": "https://www.nytimes.com/2020/09/08/world/asia/india-coronavirus-farmer-suicides-lockdown.html"
     },
     {
         "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
         "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "Morning Briefing for Tuesday, September 8, 2020",
-        "link": "https://khn.org/morning-briefing/tuesday-september-8-2020/"
+        "title": "AstraZeneca down after report that Covid-19 vaccine is put on hold",
+        "link": "https://www.youtube.com/watch?v=1u3yx9xL0FE"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",

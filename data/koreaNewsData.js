@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020090914425301420"
     },
     {
-        "title": "[속보] 코로나19 확진자 156명…전날보다 소폭 늘어",
-        "link": "http://news.tf.co.kr/read/life/1811772.htm"
-    },
-    {
         "title": "중대본 \"확진자 감소세 유지시, 2.5단계 연장 안 해\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=405839&class=33&grp="
+    },
+    {
+        "title": "[속보] 코로나19 확진자 156명…전날보다 소폭 늘어",
+        "link": "http://news.tf.co.kr/read/life/1811772.htm"
     },
     {
         "title": "서울 어제 코로나 확진자 49명…26일 만에 평일 40명대",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/09/2020090901799.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
-        "link": "http://yna.kr/AKR20200909114500056?did=1195m"
-    },
-    {
-        "title": "[속보]원주서 서울 은평구 수색성당발 코로나 확진자 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220090800147"
-    },
-    {
         "title": "서울 종로구청 공원관리 기간제 근로자 8명 코로나19 집단확진",
         "link": "http://yna.kr/AKR20200909095600530?did=1195m"
     },
     {
+        "title": "[팩트체크K] “8.15 광화문 집회 확진자 ‘0’”…확산과 무관하다고?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5000057&ref=A"
+    },
+    {
         "title": "코로나와 증상 비슷한 독감… 혼선 피하려면 독감 예방접종을",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/09/2020090901469.html"
+    },
+    {
+        "title": "제주지역 49번째 코로나19 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5409387"
     }
 ];
