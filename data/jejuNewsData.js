@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171298"
     },
     {
-        "title": "제주도 48번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020090506312392907?utm_source=naver&utm_medium=search"
+        "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
+        "link": "https://www.news1.kr/articles/?4049172"
     },
     {
         "title": "코로나19 확진자 다녀간 제주 도청·시청 일부 부서 폐쇄",

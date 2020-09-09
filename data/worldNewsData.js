@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/09/08/bergamo-italy-covid-longterm/?arc404=true"
     },
     {
-        "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
-        "link": "https://www.nytimes.com/2020/09/08/world/asia/india-coronavirus-farmer-suicides-lockdown.html"
+        "title": "India coronavirus: Rumours stall testing in Punjab",
+        "link": "https://www.bbc.com/news/world-asia-india-54068007"
     },
     {
         "title": "5 things to know for September 8: Coronavirus, protests, Brexit, US election, China",
