@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/09/08/bergamo-italy-covid-longterm/?arc404=true"
     },
     {
-        "title": "'The Lockdown Killed My Father': Farmer Suicides Add to India's Virus Misery",
+        "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
         "link": "https://www.nytimes.com/2020/09/08/world/asia/india-coronavirus-farmer-suicides-lockdown.html"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/08/us/five-things-september-8-trnd/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
         "link": "https://www.bbc.com/news/world-54082192"
     },
     {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
         "title": "Don't blame us for UK's coronavirus spike, say young people",
         "link": "https://www.theguardian.com/world/2020/sep/08/dont-blame-us-for-uks-coronavirus-spike-say-young-people"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
     }
 ];
