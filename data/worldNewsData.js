@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54082192"
     },
     {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
-    },
-    {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
+        "title": "September 8 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     },
     {
         "title": "EU says one in eight deaths is linked to pollution",
         "link": "https://www.bbc.com/news/world-europe-54071380"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
     }
 ];

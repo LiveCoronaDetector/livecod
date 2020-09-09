@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=4532855&ref=A"
     },
     {
-        "title": "제주도교육청, 코로나19 감염병 대응 심리방역 온라인 연수",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171298"
+        "title": "코로나19 확진자 다녀간 제주 도청·시청 일부 부서 폐쇄",
+        "link": "http://yna.kr/AKR20200830036700056?did=1195m"
     },
     {
         "title": "JDC 직원 접촉 제주 48번 확진자 발생…첫 검사는 음성",
         "link": "https://www.news1.kr/articles/?4049172"
     },
     {
-        "title": "코로나19 확진자 다녀간 제주 도청·시청 일부 부서 폐쇄",
-        "link": "http://yna.kr/AKR20200830036700056?did=1195m"
+        "title": "제주도교육청, 코로나19 감염병 대응 심리방역 온라인 연수",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171298"
     }
 ];
