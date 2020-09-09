@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "Covid-19 News: Live Updates",
+        "title": "Live Covid-19 News: Global Updates",
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
     },
     {
