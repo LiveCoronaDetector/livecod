@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/09/08/bergamo-italy-covid-longterm/?arc404=true"
     },
     {
-        "title": "India coronavirus: Rumours hamper testing in Punjab",
-        "link": "https://www.bbc.com/news/world-asia-india-54068007"
+        "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
+        "link": "https://www.nytimes.com/2020/09/08/world/asia/india-coronavirus-farmer-suicides-lockdown.html"
     },
     {
         "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
         "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "AstraZeneca Covid-19 vaccine study is put on hold",
-        "link": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/"
+        "title": "AstraZeneca down after report that Covid-19 vaccine is put on hold",
+        "link": "https://www.youtube.com/watch?v=1u3yx9xL0FE"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
     },
     {
-        "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
-        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
+        "title": "Bunga Bunga: The Sex Case That Brought Down Italian Prime Minister Silvio Berlusconi",
+        "link": "https://www.popsugar.com/entertainment/bunga-bunga-true-story-silvio-berlusconi-47769682"
     },
     {
-        "title": "Silvio Berlusconi says he is fighting 'hellish' case of coronavirus",
-        "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
+        "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
+        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
     }
 ];
