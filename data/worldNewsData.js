@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/09/08/bergamo-italy-covid-longterm/?arc404=true"
     },
     {
-        "title": "India coronavirus: Rumours hamper testing in Punjab",
-        "link": "https://www.bbc.com/news/world-asia-india-54068007"
+        "title": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
+        "link": "https://www.nytimes.com/2020/09/08/world/asia/india-coronavirus-farmer-suicides-lockdown.html"
     },
     {
         "title": "AstraZeneca pauses Oxford vaccine trial after unexplained illness",
         "link": "https://www.scmp.com/news/world/europe/article/3100773/coronavirus-astrazeneca-pauses-oxford-vaccine-trial-after"
     },
     {
-        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
-        "link": "https://www.bbc.com/news/world-54082192"
+        "title": "What you need to know about the coronavirus right now",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-snapshot/what-you-need-to-know-about-the-coronavirus-right-now-idUSKBN2601KL"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
+        "title": "India coronavirus: Rumours hamper testing in Punjab",
+        "link": "https://www.bbc.com/news/world-asia-india-54068007"
     },
     {
         "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
         "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD"
+        "title": "Coronavirus has disrupted care for other diseases globally, Fauci says",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/h_6f4db0f94f55613ec5e3911383aab2c1"
     }
 ];
