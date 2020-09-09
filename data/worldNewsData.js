@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54068007"
     },
     {
-        "title": "AstraZeneca pauses Oxford vaccine trial after unexplained illness",
-        "link": "https://www.scmp.com/news/world/europe/article/3100773/coronavirus-astrazeneca-pauses-oxford-vaccine-trial-after"
+        "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
+        "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "Markets Now - Wednesday 9th September",
-        "link": "https://ftalphaville.ft.com/2020/09/09/1599638553000/Markets-Now---Tuesday-8th-September/"
+        "title": "AstraZeneca Covid-19 vaccine study is put on hold",
+        "link": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
     },
     {
         "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
         "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
     },
     {
-        "title": "'Hands. Face. Space': UK government to relaunch Covid-19 slogan",
-        "link": "https://www.theguardian.com/world/2020/sep/09/hands-face-space-uk-government-to-relaunch-covid-19-slogan"
-    },
-    {
-        "title": "EU says one in eight deaths is linked to pollution",
-        "link": "https://www.bbc.com/news/world-europe-54071380"
+        "title": "Silvio Berlusconi says he is fighting 'hellish' case of coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     }
 ];
