@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
     },
     {
-        "title": "Indonesian stocks dive 5% as capital city Jakarta plans to reinstate partial coronavirus lockdown",
-        "link": "https://www.cnbc.com/2020/09/10/indonesian-stocks-dive-as-jakarta-plans-partial-coronavirus-lockdown-again.html"
+        "title": "Record Covid-19 Numbers and Economic Downturn Throw India Into Crisis",
+        "link": "https://www.wsj.com/video/record-covid-19-numbers-and-economic-downturn-throw-india-into-crisis/A7951673-7418-49EE-AC92-ECE0992F5D35.html"
     },
     {
         "title": "5 things to know for September 10: Trump, coronavirus, USPS, China, Rohingya",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/10/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
-    },
-    {
         "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
         "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/10/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
