@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5409818"
     },
     {
-        "title": "제주도, 코로나19 50번째 확진자 발생",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004192"
-    },
-    {
         "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
@@ -25,19 +21,23 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도 공공시설 10월5일까지 운영중지...22일 연장",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319967"
+        "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
     },
     {
         "title": "제주도, 미국에서 입국한 49번째 코로나 확진자",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
     },
     {
-        "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
+        "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
+        "link": "https://www.news1.kr/articles/?4054842"
     },
     {
-        "title": "제주 코로나19 52번째 확진자 발생…'산방산온천 방문자'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427032"
+        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
+    },
+    {
+        "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
+        "link": "https://www.news1.kr/articles/?4053847"
     }
 ];
