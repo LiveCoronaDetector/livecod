@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
-        "title": "제주 50번째 코로나19 확진자 발생…게스트하우스발 감염",
-        "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
-    },
-    {
         "title": "제주도내 공공시설 운영 중지 10월 5일까지 연장",
         "link": "https://www.pressian.com/pages/articles/2020091012571864645?utm_source=naver&utm_medium=search"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나19 국내 발생현황 브리핑 (20. 09. 09. 14시)",
         "link": "http://www.ktv.go.kr/content/view?content_id=608736"
+    },
+    {
+        "title": "제주도, 도청 외부인 방문 출입제한 기간 연장",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171434"
     }
 ];

@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     },
     {
-        "title": "Global coronavirus deaths hit 900,000 as cases surge in India",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-casualties/global-coronavirus-deaths-hit-900000-as-cases-surge-in-india-idUSKBN2603E9"
+        "title": "Indonesian stocks dive 5% as capital city Jakarta plans to reinstate partial coronavirus lockdown",
+        "link": "https://www.cnbc.com/2020/09/10/indonesian-stocks-dive-as-jakarta-plans-partial-coronavirus-lockdown-again.html"
     },
     {
         "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
         "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
-    },
-    {
         "title": "Live Covid-19 News Updates",
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
     },
     {
         "title": "India now coronavirus epicenter with 90000 daily cases | DW News",
         "link": "https://www.youtube.com/watch?v=AM0nGSvO6ts"
     },
     {
-        "title": "Fast food drive-thrus get a new shape up in coronavirus world",
-        "link": "https://www.foxbusiness.com/lifestyle/drive-thrus-get-a-new-shape-up-in-covid-19-world"
+        "title": "Covid vaccine: 8,000 jumbo jets needed to deliver doses globally, says IATA",
+        "link": "https://www.bbc.com/news/business-54067499"
     }
 ];
