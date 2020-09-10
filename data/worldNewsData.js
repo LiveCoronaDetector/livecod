@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/doctors-south-korea-suspend-strike-coronavirus-live-news-200907232556822.html"
     },
     {
-        "title": "Brazil could launch Chinese coronavirus vaccine this year, says governor",
-        "link": "https://www.scmp.com/news/world/americas/article/3100930/brazil-could-launch-chinese-coronavirus-vaccine-year-says"
+        "title": "Coronavirus live news: Trump says he 'perhaps' misled Americans as global deaths pass 900,000",
+        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
         "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     },
     {
-        "title": "India coronavirus: Rumours hamper testing in Punjab",
-        "link": "https://www.bbc.com/news/world-asia-india-54068007"
+        "title": "Global coronavirus deaths hit 900,000 as cases surge in India",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-casualties/global-coronavirus-deaths-hit-900000-as-cases-surge-in-india-idUSKBN2603E9"
     },
     {
         "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
+        "title": "Worldwide coronavirus deaths hit 900,000 as cases surge in India",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3100931/worldwide-coronavirus-deaths-hit-900000-cases-surge-india"
     },
     {
         "title": "Fast food drive-thrus get a new shape up in coronavirus world",
         "link": "https://www.foxbusiness.com/lifestyle/drive-thrus-get-a-new-shape-up-in-covid-19-world"
     },
     {
-        "title": "How the US’s Covid-19 death toll compares to other rich countries",
-        "link": "https://www.vox.com/future-perfect/2020/9/9/21428769/covid-19-coronavirus-deaths-statistics-us-canada-europe"
+        "title": "India coronavirus: Rumours hamper testing in Punjab",
+        "link": "https://www.bbc.com/news/world-asia-india-54068007"
     }
 ];
