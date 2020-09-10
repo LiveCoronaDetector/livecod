@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5001217&ref=A"
     },
     {
-        "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
-        "link": "http://www.fnnews.com/news/202009101149145531"
-    },
-    {
         "title": "에어컨 틀고 환기 안해서? 확진자 3분 태운 택시기사 감염",
         "link": "https://news.joins.com/article/olink/23463755"
     },
     {
         "title": "포항서 코로나19 확진자 2명 발생…광주서 확진자 접촉",
         "link": "https://news.imaeil.com/Society/2020091011542894740"
+    },
+    {
+        "title": "평택서 확진자 방문한 의원 간호사 2명 추가 확진",
+        "link": "http://www.fnnews.com/news/202009101006040801"
     },
     {
         "title": "[속보] '코로나19' 신규 확진자 155명·지역발생 141명",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009101523048477"
     },
     {
-        "title": "“트럼프, 코로나19 위험성 알면서도 축소”…트럼프도 시인",
-        "link": "http://www.hani.co.kr/arti/international/international_general/961640.html"
+        "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
+        "link": "http://www.fnnews.com/news/202009101149145531"
     },
     {
-        "title": "중남미 코로나 사망자 전세계 1/3…영국·프랑스도 '비상'",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/10/2020091090019.html"
+        "title": "\"방역 최후의 보루\" 세브란스병원서 코로나 17명 집단 감염",
+        "link": "https://www.pressian.com/pages/articles/2020091015085421835?utm_source=naver&utm_medium=search"
     }
 ];
