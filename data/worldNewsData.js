@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/is-israel-on-the-cusp-of-complete-coronavirus-closure-641639"
     },
     {
-        "title": "Summer Jet-Setters Turned Sardinia Into a Coronavirus Hot Spot",
-        "link": "https://www.nytimes.com/2020/09/09/world/europe/coronavirus-sardinia-italy.html"
+        "title": "Silvio Berlusconi says he is fighting 'hellish' case of coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     },
     {
         "title": "India coronavirus: Rumours hamper testing in Punjab",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
     },
     {
-        "title": "No. of global COVID-19 deaths surpasses 900000: Worldometer",
-        "link": "https://www.youtube.com/watch?v=bZoIE9pVigg"
+        "title": "Worldwide coronavirus deaths hit 900,000 as cases surge in India",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3100931/worldwide-coronavirus-deaths-hit-900000-cases-surge-india"
+    },
+    {
+        "title": "Trump intensifies assault on rule of law as he fights for reelection",
+        "link": "https://www.cnn.com/2020/09/09/politics/trump-doj-barr/index.html"
     },
     {
         "title": "Fast food drive-thrus get a new shape up in coronavirus world",
         "link": "https://www.foxbusiness.com/lifestyle/drive-thrus-get-a-new-shape-up-in-covid-19-world"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
     }
 ];
