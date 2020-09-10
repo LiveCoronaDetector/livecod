@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/doctors-south-korea-suspend-strike-coronavirus-live-news-200907232556822.html"
     },
     {
-        "title": "Live updates: Fauci pushes back on portrayal of Trump criticism in book",
-        "link": "https://www.washingtonpost.com/nation/2020/09/09/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus live news: Trump says he 'perhaps' misled Americans as global deaths pass 900,000",
+        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
         "title": "Coronavirus cabinet to discuss High Holiday closure on Thursday",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
     },
     {
-        "title": "Whitney Cummings Reveals Why She Thinks Women Like True Crime Podcasts",
-        "link": "https://www.youtube.com/watch?v=dGUV3hyL2wU"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
     },
     {
         "title": "Fast food drive-thrus get a new shape up in coronavirus world",
         "link": "https://www.foxbusiness.com/lifestyle/drive-thrus-get-a-new-shape-up-in-covid-19-world"
+    },
+    {
+        "title": "Air purifier that kills 99.9% of the coronavirus sees surge in global demand",
+        "link": "https://www.cnbc.com/2020/09/08/coronavirus-air-purifier-that-kills-over-99point9percent-of-covid-19-sees-surge-in-demand.html"
     }
 ];

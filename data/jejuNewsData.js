@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020091006421066781"
     },
     {
-        "title": "제주서 50번째 확진자 나와…게스하우스발 확진",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001066&ref=A"
+        "title": "코로나19 제주 50번째 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5409818"
     },
     {
         "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
@@ -19,10 +19,6 @@ var jejuNewsData = [
     {
         "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
         "link": "https://www.news1.kr/articles/?4053847"
-    },
-    {
-        "title": "제주 49번 코로나19 확진자 발생…미국서 입국",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150744"
     },
     {
         "title": "코로나가 '벌초 문화'도 바꿨다…\"대행 신청 급증\"",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주도, 도청 외부인 방문 출입제한 기간 연장",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171434"
+    },
+    {
+        "title": "제7회 국제전기차엑스포, 코로나 팬데믹 극복 위해 주요행사 분산 개최",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
     }
 ];
