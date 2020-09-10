@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/08/covid-19-death-rate-african-americans-and-latinos-rising-sharply"
     },
     {
-        "title": "Fauci says U.S. needs to 'hunker down' for fall and winter",
-        "link": "https://www.nbcnews.com/health/health-news/fauci-says-u-s-needs-hunker-down-fall-winter-n1239798"
+        "title": "Coronavirus in the US: How Did the Pandemic Get So Bad? | Time",
+        "link": "https://time.com/5887432/coronavirus-united-states-failure/"
     },
     {
         "title": "Nation barrels toward closure as infections soar",
