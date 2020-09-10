@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/961640.html"
     },
     {
-        "title": "세브란스병원 재활병원·영양팀서 코로나19 확진자 17명(종합)",
-        "link": "http://yna.kr/AKR20200910069651004?did=1195m"
-    },
-    {
         "title": "국내 코로나19 신규 확진자 155명…경기 47명·서울 46명·충남 12명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5001217&ref=A"
+    },
+    {
+        "title": "세브란스병원 재활병원·영양팀서 코로나19 확진자 17명(종합)",
+        "link": "http://yna.kr/AKR20200910069651004?did=1195m"
     },
     {
         "title": "세브란스 확진자 17명, 서로 다른 2개 집단 동시 발생",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009101149145531"
     },
     {
-        "title": "[단독] 확진자 접촉 간호사 15명, 같은 샤워실 쓰고 환자 계속 치료…간호사,...",
-        "link": "https://shindonga.donga.com/3/all/13/2177082/1"
+        "title": "[속보] 코로나19 신규 확진 158명...8일째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009100941001&code=940601"
     },
     {
-        "title": "에어컨 틀고 환기 안해서? 확진자 3분 태운 택시기사 감염",
-        "link": "https://news.joins.com/article/olink/23463755"
+        "title": "[속보] 코로나19 신규 확진 155명·사망 2명…8일째 100명대",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009100092&t=NN"
     }
 ];

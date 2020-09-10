@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/10/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "Coronavirus live updates: Scientists question Russian vaccine data; WHO says world must ramp up trials",
+        "link": "https://www.cnbc.com/2020/09/10/coronavirus-live-updates.html"
     }
 ];
