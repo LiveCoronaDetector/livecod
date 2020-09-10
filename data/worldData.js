@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6547904,
-        "사망자수": 195175,
-        "완치자수": 3839612
+        "확진자수": 6548341,
+        "사망자수": 195184,
+        "완치자수": 3840086
     },
     {
         "Name": "인도",
@@ -1065,6 +1065,14 @@ var marker = [
         "완치자수": 1088
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 2588,
+        "사망자수": 39,
+        "완치자수": 749
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
@@ -1079,14 +1087,6 @@ var marker = [
         "확진자수": 2555,
         "사망자수": 49,
         "완치자수": 1290
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 2493,
-        "사망자수": 39,
-        "완치자수": 749
     },
     {
         "Name": "Réunion",
@@ -1268,7 +1268,7 @@ var marker = [
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "확진자수": 1148,
+        "확진자수": 1164,
         "사망자수": 31,
         "완치자수": 528
     },

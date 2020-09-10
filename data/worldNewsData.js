@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
     },
     {
-        "title": "Whitney Cummings Reveals Why She Thinks Women Like True Crime Podcasts",
-        "link": "https://www.youtube.com/watch?v=dGUV3hyL2wU"
-    },
-    {
         "title": "Coronavirus live news: Trump says he 'perhaps' misled Americans as global deaths pass 900,000",
         "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
-        "title": "Drugmaker Pauses Covid-19 Vaccine Trial for Safety Review",
-        "link": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html"
+        "title": "Air purifier that kills 99.9% of the coronavirus sees surge in global demand",
+        "link": "https://www.cnbc.com/2020/09/08/coronavirus-air-purifier-that-kills-over-99point9percent-of-covid-19-sees-surge-in-demand.html"
+    },
+    {
+        "title": "Whitney Cummings Reveals Why She Thinks Women Like True Crime Podcasts",
+        "link": "https://www.youtube.com/watch?v=dGUV3hyL2wU"
     }
 ];
