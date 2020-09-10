@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020091006421066781"
     },
     {
-        "title": "코로나19 제주 50번째 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5409818"
-    },
-    {
         "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제7회 국제전기차엑스포, 코로나 팬데믹 극복 위해 주요행사 분산 개최",
         "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=39465"
+    },
+    {
+        "title": "[문답]정은경 \"질병관리청, 코로나19 빨리 극복하라는 국민의 뜻\"",
+        "link": "https://www.news1.kr/articles/?4053763"
     }
 ];
