@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5409818"
     },
     {
+        "title": "제주도, 코로나19 50번째 확진자 발생",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004192"
+    },
+    {
         "title": "코로나19 확진자 2명 오늘 하루 잇따라 발생",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5001824&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
         "link": "https://www.news1.kr/articles/?4054842"
-    },
-    {
-        "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
-        "link": "https://www.news1.kr/articles/?4053847"
     }
 ];

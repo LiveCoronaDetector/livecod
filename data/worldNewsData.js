@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/04/scientists-cant-explain-puzzling-lack-of-coronavirus-outbreaks-in-africa/"
     },
     {
-        "title": "Coronavirus in the US: How Did the Pandemic Get So Bad? | Time",
-        "link": "https://time.com/5887432/coronavirus-united-states-failure/"
+        "title": "The Fog of the Pandemic Is Returning",
+        "link": "https://www.theatlantic.com/health/archive/2020/09/how-many-people-america-testing-coronavirus/616249/"
     },
     {
         "title": "Country races into lockdown as coronavirus cases soar unfettered",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/10/us/five-things-september-10-trnd/index.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
         "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
         "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/10/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
+        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     }
 ];
