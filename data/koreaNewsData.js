@@ -29,8 +29,8 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009101149145531"
     },
     {
-        "title": "[속보] 경기 9월 코로나 확진자 33.7%가 ‘무증상 감염’",
-        "link": "https://www.news1.kr/articles/?4055276"
+        "title": "확진자 감소세 더뎌...수도권 2.5단계 완화될 수 있나",
+        "link": "https://www.news1.kr/articles/?4055159"
     },
     {
         "title": "세브란스병원서 코로나19 집단감염… 확진자 17명 발생",
