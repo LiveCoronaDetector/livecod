@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     },
     {
-        "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
-        "link": "https://www.news1.kr/articles/?4053847"
-    },
-    {
         "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
         "link": "https://www.news1.kr/articles/?4054842"
+    },
+    {
+        "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
+        "link": "https://www.news1.kr/articles/?4053847"
     },
     {
         "title": "코로나가 '벌초 문화'도 바꿨다…\"대행 신청 급증\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005972446&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "제주 28번 확진자 20일만에 퇴원...19명 격리 치료 중",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319975"
+        "title": "제주도 49번 코로나 확진자 '동선' 공개",
+        "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=284429"
     }
 ];
