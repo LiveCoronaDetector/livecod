@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23463755"
     },
     {
-        "title": "포항서 코로나19 확진자 2명 발생…광주서 확진자 접촉",
-        "link": "https://news.imaeil.com/Society/2020091011542894740"
+        "title": "세브란스 확진자 17명, 서로 다른 2개 집단 동시 발생",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002674838&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "신촌세브란스병원 18명 집단감염…서울 확진자 55명 증가(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200910_0001162209&cID=14001&pID=14000"
+        "title": "포항서 코로나19 확진자 2명 발생…광주서 확진자 접촉",
+        "link": "https://news.imaeil.com/Society/2020091011542894740"
     },
     {
         "title": "[종합] 신촌세브란스병원 코로나19 확진자 총 17명 발생",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009100945095391"
     },
     {
-        "title": "\"방역 최후의 보루\" 세브란스병원서 코로나 17명 집단 감염",
-        "link": "https://www.pressian.com/pages/articles/2020091015085421835?utm_source=naver&utm_medium=search"
+        "title": "[속보] 코로나19 신규 확진 155명·사망 2명…8일째 100명대",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009100092&t=NN"
     },
     {
-        "title": "코로나19 어제 155명 신규확진",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020091009311712623"
+        "title": "서울 신촌 세브란스병원서 확진자 10명 발생 … 병동 일시폐쇄(상보)",
+        "link": "https://view.asiae.co.kr/article/2020091011214046328"
     }
 ];
