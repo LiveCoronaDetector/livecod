@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
     },
     {
+        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
+    },
+    {
         "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
         "link": "https://www.news1.kr/articles/?4054842"
     },
     {
         "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
         "link": "https://www.news1.kr/articles/?4053847"
-    },
-    {
-        "title": "제주 51번째 확진자 발생 …'네팔 국적 유학생'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427031"
     }
 ];
