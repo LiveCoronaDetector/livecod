@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
+        "title": "제주 50번째 코로나19 확진자 발생…게스트하우스발 감염",
+        "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
+    },
+    {
         "title": "제주도내 공공시설 운영 중지 10월 5일까지 연장",
         "link": "https://www.pressian.com/pages/articles/2020091012571864645?utm_source=naver&utm_medium=search"
     },
@@ -21,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     },
     {
-        "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
-        "link": "https://www.news1.kr/articles/?4054842"
-    },
-    {
         "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
         "link": "https://www.news1.kr/articles/?4053847"
+    },
+    {
+        "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
+        "link": "https://www.news1.kr/articles/?4054842"
     },
     {
         "title": "코로나가 '벌초 문화'도 바꿨다…\"대행 신청 급증\"",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 담팔수 추출물, 코로나19 치료제 주목",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319893"
-    },
-    {
-        "title": "코로나19 국내 발생현황 브리핑 (20. 09. 09. 14시)",
-        "link": "http://www.ktv.go.kr/content/view?content_id=608736"
     }
 ];

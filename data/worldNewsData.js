@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/04/scientists-cant-explain-puzzling-lack-of-coronavirus-outbreaks-in-africa/"
     },
     {
-        "title": "More than 500,000 children in the U.S. have tested positive for coronavirus since pandemic started, report says",
-        "link": "https://www.cbsnews.com/news/covid19-kids-half-million-test-positive-united-states-cases/"
+        "title": "Coronavirus live news: Trump says he 'perhaps' misled Americans as global deaths pass 900,000",
+        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
         "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
+        "title": "Global coronavirus deaths hit 900,000 as cases surge in India",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-casualties/global-coronavirus-deaths-hit-900000-as-cases-surge-in-india-idUSKBN2603E9"
     },
     {
-        "title": "Coronavirus Update: Total Cases In India Cross 43-Lakh Mark With Fatalities At 73890",
-        "link": "https://www.youtube.com/watch?v=D7dWtEZom9M"
+        "title": "'Superbugs' a far greater risk than Covid in Pacific, scientist warns",
+        "link": "https://www.theguardian.com/world/2020/sep/10/superbugs-a-far-greater-risk-than-covid-in-pacific-scientist-warns"
     },
     {
-        "title": "Covid vaccine: 8,000 jumbo jets needed to deliver doses globally, says IATA",
-        "link": "https://www.bbc.com/news/business-54067499"
+        "title": "Fast food drive-thrus get a new shape up in coronavirus world",
+        "link": "https://www.foxbusiness.com/lifestyle/drive-thrus-get-a-new-shape-up-in-covid-19-world"
     }
 ];

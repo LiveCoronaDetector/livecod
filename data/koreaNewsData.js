@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200910069651004?did=1195m"
     },
     {
-        "title": "[종합]코로나19 신규확진 155명...8일째 100명대",
-        "link": "http://www.fnnews.com/news/202009100945095391"
-    },
-    {
         "title": "서울 세브란스병원서 확진자 10명 발생",
         "link": "http://yna.kr/AKR20200910069600004?did=1195m"
     },
     {
-        "title": "전남 밤 사이 코로나 확진자 2명 발생…구례1명, 해외1명",
-        "link": "https://www.news1.kr/articles/?4054560"
+        "title": "국내 코로나19 신규 확진자 155명…경기 47명·서울 46명·충남 12명 등",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001217&ref=A"
+    },
+    {
+        "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
+        "link": "http://www.fnnews.com/news/202009101149145531"
     },
     {
         "title": "에어컨 틀고 환기 안해서? 확진자 3분 태운 택시기사 감염",
@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020091011542894740"
     },
     {
-        "title": "[속보] 부산 입항 러시아 선박서 누적 100번째 확진자",
-        "link": "http://www.segye.com/content/html/2020/09/10/20200910515365.html?OutUrl=naver"
-    },
-    {
         "title": "[속보] '코로나19' 신규 확진자 155명·지역발생 141명",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=405907&class=33&grp="
     },
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009101523048477"
     },
     {
-        "title": "러 코로나19 재확산 우려 고조…자체개발 백신 3상시험 시작(종합)",
-        "link": "http://yna.kr/AKR20200909153151080?did=1195m"
+        "title": "“트럼프, 코로나19 위험성 알면서도 축소”…트럼프도 시인",
+        "link": "http://www.hani.co.kr/arti/international/international_general/961640.html"
+    },
+    {
+        "title": "중남미 코로나 사망자 전세계 1/3…영국·프랑스도 '비상'",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/10/2020091090019.html"
     }
 ];
