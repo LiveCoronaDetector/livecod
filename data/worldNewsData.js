@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/doctors-south-korea-suspend-strike-coronavirus-live-news-200907232556822.html"
     },
     {
-        "title": "Coronavirus live news: Trump says he 'perhaps' misled Americans as global deaths pass 900,000",
-        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
+        "title": "Brazil could launch Chinese coronavirus vaccine this year, says governor",
+        "link": "https://www.scmp.com/news/world/americas/article/3100930/brazil-could-launch-chinese-coronavirus-vaccine-year-says"
     },
     {
-        "title": "Coronavirus cabinet to discuss High Holiday closure on Thursday",
-        "link": "https://www.jpost.com/health-science/is-israel-on-the-cusp-of-complete-coronavirus-closure-641639"
+        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
+        "link": "https://www.bbc.com/news/uk-54061938"
     },
     {
         "title": "Silvio Berlusconi says he is fighting 'hellish' case of coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "Global coronavirus deaths hit 900,000 as cases surge in India",
-        "link": "https://www.msn.com/en-us/news/world/global-coronavirus-deaths-hit-900-000-as-cases-surge-in-india/ar-BB18SkK4"
-    },
-    {
         "title": "Live Covid-19 News Updates",
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html"
     },
     {
         "title": "Fast food drive-thrus get a new shape up in coronavirus world",
         "link": "https://www.foxbusiness.com/lifestyle/drive-thrus-get-a-new-shape-up-in-covid-19-world"
     },
     {
-        "title": "Trump deliberately played down virus, Woodward book says",
-        "link": "https://www.bbc.com/news/world-us-canada-54094559"
+        "title": "How the US’s Covid-19 death toll compares to other rich countries",
+        "link": "https://www.vox.com/future-perfect/2020/9/9/21428769/covid-19-coronavirus-deaths-statistics-us-canada-europe"
     }
 ];

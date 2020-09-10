@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
-        "title": "제주 50번째 코로나19 확진자 발생…게스트하우스 발 감염",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001312&ref=A"
+        "title": "제주 도내 49번째 확진자 역학조사 결과공개",
+        "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주도, 공공시설 운영중지 기간 10월 5일까지 연장",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426961"
     },
     {
         "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
-    },
-    {
-        "title": "제주 49번 코로나19 확진자 역학조사 결과 ‘공개’",
-        "link": "https://view.asiae.co.kr/article/2020091011192722410"
     },
     {
         "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",

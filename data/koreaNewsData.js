@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200909153151080?did=1195m"
     },
     {
+        "title": "세브란스병원서 코로나19 집단감염… 확진자 17명 발생",
+        "link": "http://www.segye.com/content/html/2020/09/10/20200910512797.html?OutUrl=naver"
+    },
+    {
         "title": "[종합]코로나19 신규확진 155명...8일째 100명대",
         "link": "http://www.fnnews.com/news/202009100945095391"
     },
     {
-        "title": "세브란스병원 재활병원·영양팀서 확진자 17명 발생(종합)",
-        "link": "http://www.ekn.kr/news/article.html?no=522433"
-    },
-    {
-        "title": "세브란스병원서 코로나19 집단감염… 확진자 17명 발생",
-        "link": "http://www.segye.com/content/html/2020/09/10/20200910512797.html?OutUrl=naver"
+        "title": "신촌세브란스 의료진 등 10명 코로나19 집단감염···병동 폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009101109001&code=940100"
     },
     {
         "title": "국내 코로나19 신규 확진자 155명…경기 47명·서울 46명·충남 12명 등",
@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009100092&t=NN"
     },
     {
-        "title": "서울 세브란스 병원 확진자 10명 발생…병동 일시 폐쇄",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5905751_32633.html"
+        "title": "[속보] '코로나19' 신규 확진자 155명·지역발생 141명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=405907&class=33&grp="
     },
     {
         "title": "코로나19 어제 155명 신규확진",
