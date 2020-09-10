@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
     },
     {
-        "title": "Record Covid-19 Numbers and Economic Downturn Throw India Into Crisis",
-        "link": "https://www.wsj.com/video/record-covid-19-numbers-and-economic-downturn-throw-india-into-crisis/A7951673-7418-49EE-AC92-ECE0992F5D35.html"
+        "title": "India coronavirus: Rumours hamper testing in Punjab",
+        "link": "https://www.bbc.com/news/world-asia-india-54068007"
     },
     {
         "title": "5 things to know for September 10: Trump, coronavirus, USPS, China, Rohingya",
