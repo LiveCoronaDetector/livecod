@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5001217&ref=A"
     },
     {
-        "title": "세브란스병원 재활병원·영양팀서 코로나19 확진자 17명(종합)",
-        "link": "http://yna.kr/AKR20200910069651004?did=1195m"
-    },
-    {
         "title": "세브란스 확진자 17명, 서로 다른 2개 집단 동시 발생",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002674838&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
         "link": "http://www.fnnews.com/news/202009101149145531"
+    },
+    {
+        "title": "세브란스병원서 코로나19 집단감염… 확진자 17명 발생",
+        "link": "http://www.segye.com/content/html/2020/09/10/20200910512797.html?OutUrl=naver"
     },
     {
         "title": "[속보] 코로나19 신규 확진 158명...8일째 100명대",
