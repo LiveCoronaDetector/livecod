@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
+        "title": "제주도 이틀새 확진자 4명 발생...'n차 감염' 불안감 확산",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427033"
+    },
+    {
         "title": "제주 도내 49번째 확진자 역학조사 결과공개",
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
     },
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
     },
     {
+        "title": "제주도 51·52번 확진자 잇단 발생…온천발 8명째",
+        "link": "http://www.fnnews.com/news/202009102120273408"
+    },
+    {
         "title": "제주도, 미국에서 입국한 49번째 코로나 확진자",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
-    },
-    {
-        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
-    },
-    {
-        "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
-        "link": "https://www.news1.kr/articles/?4054842"
     }
 ];
