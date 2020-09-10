@@ -969,6 +969,14 @@ var marker = [
         "완치자수": 1019
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "확진자수": 3389,
+        "사망자수": 135,
+        "완치자수": 2620
+    },
+    {
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
@@ -993,14 +1001,6 @@ var marker = [
         "완치자수": 780
     },
     {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "확진자수": 3312,
-        "사망자수": 135,
-        "완치자수": 2587
-    },
-    {
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
@@ -1022,7 +1022,7 @@ var marker = [
         "Name_en": "Sri Lanka",
         "확진자수": 3147,
         "사망자수": 12,
-        "완치자수": 2946
+        "완치자수": 2955
     },
     {
         "Name": "Angola",
