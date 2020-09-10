@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
-        "title": "Coronavirus: Seven Greek islands added to England's quarantine list",
-        "link": "https://www.bbc.com/news/uk-54061938"
+        "title": "Coronavirus cabinet to discuss High Holy Day closure on Thursday",
+        "link": "https://www.jpost.com/health-science/is-israel-on-the-cusp-of-complete-coronavirus-closure-641639"
     },
     {
         "title": "Silvio Berlusconi says he is fighting 'hellish' case of coronavirus",
         "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     },
     {
-        "title": "Global coronavirus deaths hit 900,000 as cases surge in India",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-casualties/global-coronavirus-deaths-hit-900000-as-cases-surge-in-india-idUSKBN2603E9"
+        "title": "India coronavirus: Rumours hamper testing in Punjab",
+        "link": "https://www.bbc.com/news/world-asia-india-54068007"
     },
     {
         "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html"
     },
     {
-        "title": "Fast food drive-thrus get a new shape up in coronavirus world",
-        "link": "https://www.foxbusiness.com/lifestyle/drive-thrus-get-a-new-shape-up-in-covid-19-world"
+        "title": "Covid-19: Global deaths pass 900,000 as cases surge in India",
+        "link": "https://www.rnz.co.nz/news/world/425714/covid-19-global-deaths-pass-900-000-as-cases-surge-in-india"
     },
     {
-        "title": "No. of global COVID-19 deaths surpasses 900000: Worldometer",
-        "link": "https://www.youtube.com/watch?v=bZoIE9pVigg"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
     },
     {
         "title": "Covid vaccine: 8,000 jumbo jets needed to deliver doses globally, says IATA",

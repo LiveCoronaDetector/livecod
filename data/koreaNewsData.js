@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200910069651004?did=1195m"
     },
     {
+        "title": "서울 세브란스병원서 확진자 10명 발생",
+        "link": "http://yna.kr/AKR20200910069600004?did=1195m"
+    },
+    {
         "title": "러 코로나19 재확산 우려 고조…자체개발 백신 3상시험 시작(종합)",
         "link": "http://yna.kr/AKR20200909153151080?did=1195m"
+    },
+    {
+        "title": "포항서 코로나19 확진자 2명 발생…광주서 확진자 접촉",
+        "link": "https://news.imaeil.com/Society/2020091011542894740"
+    },
+    {
+        "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
+        "link": "http://www.fnnews.com/news/202009101149145531"
     },
     {
         "title": "[종합]코로나19 신규확진 155명...8일째 100명대",
         "link": "http://www.fnnews.com/news/202009100945095391"
     },
     {
-        "title": "서울 세브란스병원서 확진자 10명 발생",
-        "link": "http://yna.kr/AKR20200910069600004?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진 155명…8일째 100명대",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5905605_32633.html"
-    },
-    {
-        "title": "국내 코로나19 신규 확진자 155명…경기 47명·서울 46명·충남 12명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001217&ref=A"
+        "title": "코로나19 어제 155명 확진…8일째 100명대 유지",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219028"
     },
     {
         "title": "코로나19 어제 155명 신규확진",
         "link": "http://www.busan.com/view/busan/view.php?code=2020091009311712623"
     },
     {
-        "title": "코로나 국내 신규 확진 155명… 국내발생 141명·해외유입 14명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/10/2020091001066.html"
+        "title": "[속보]코로나19 신규 확진자 156명…일주일째 100명대",
+        "link": "http://www.hani.co.kr/arti/society/society_general/961357.html"
     },
     {
-        "title": "세브란스병원 재활병원·영양팀서 확진자 17명 발생(종합)",
-        "link": "http://www.ekn.kr/news/article.html?no=522433"
-    },
-    {
-        "title": "코로나19 어제 155명 확진…8일째 100명대 유지",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219028"
+        "title": "중남미 코로나 사망자 전세계 1/3…영국·프랑스도 '비상'",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/10/2020091090019.html"
     }
 ];

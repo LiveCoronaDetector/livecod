@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
-        "title": "제주 50번째 코로나19 확진자 발생…게스트하우스발 감염",
-        "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
-    },
-    {
         "title": "제주 도내 49번째 확진자 역학조사 결과공개",
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
     },
@@ -25,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     },
     {
-        "title": "제주 49번 코로나19 확진자 역학조사 결과 ‘공개’",
-        "link": "https://view.asiae.co.kr/article/2020091011192722410"
-    },
-    {
         "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
         "link": "https://www.news1.kr/articles/?4053847"
     },
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "국내 벤처 제약사 '제넨셀', 인도서 '제주 담팔수 추출물' 코로나19 치료제 3...",
         "link": "http://www.viva100.com/main/view.php?key=20200909010001913"
+    },
+    {
+        "title": "코로나19 국내 발생현황 브리핑 (20. 09. 09. 14시)",
+        "link": "http://www.ktv.go.kr/content/view?content_id=608736"
+    },
+    {
+        "title": "제주도, 도청 외부인 방문 출입제한 기간 연장",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171434"
     }
 ];
