@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319967"
     },
     {
+        "title": "제주도, 미국에서 입국한 49번째 코로나 확진자",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
+    },
+    {
         "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나가 '벌초 문화'도 바꿨다…\"대행 신청 급증\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005972446&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "제주도 49번 코로나 확진자 '동선' 공개",
-        "link": "http://www.ccreview.co.kr/news/articleView.html?idxno=284429"
     }
 ];
