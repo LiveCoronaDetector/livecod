@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://time.com/5887432/coronavirus-united-states-failure/"
     },
     {
-        "title": "Coronavirus: Israel considers nationwide lockdown as cases spike",
-        "link": "https://www.bbc.com/news/world-middle-east-54091894"
+        "title": "Country races into lockdown as coronavirus cases soar unfettered",
+        "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
     },
     {
         "title": "Coronavirus: central Europe faces worse second wave after avoiding worst of first",
