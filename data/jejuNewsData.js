@@ -13,28 +13,28 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004192"
     },
     {
-        "title": "제주서 코로나19 확진자 잇따라 발생…누적 52명",
-        "link": "http://yna.kr/AKR20200910178400056?did=1195m"
-    },
-    {
-        "title": "제주도 49번째 코로나 확진자 발생...미국서 입국",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319920"
+        "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
+        "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
         "title": "제주 도내 49번째 확진자 역학조사 결과공개",
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도, 공공시설 운영중지 기간 10월 5일까지 연장",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426961"
+        "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
     },
     {
         "title": "제주도, 미국에서 입국한 49번째 코로나 확진자",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
     },
     {
-        "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
+        "title": "코로나19 확진자 2명 오늘 하루 잇따라 발생",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001824&ref=A"
+    },
+    {
+        "title": "제주 49번 코로나19 확진자 역학조사 결과 ‘공개’",
+        "link": "https://view.asiae.co.kr/article/2020091011192722410"
     },
     {
         "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",

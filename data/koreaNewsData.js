@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200910069600004?did=1195m"
     },
     {
-        "title": "국내 코로나19 신규 확진자 155명…경기 47명·서울 46명·충남 12명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001217&ref=A"
-    },
-    {
         "title": "에어컨 틀고 환기 안해서? 확진자 3분 태운 택시기사 감염",
         "link": "https://news.joins.com/article/olink/23463755"
     },
     {
-        "title": "세브란스 확진자 17명, 서로 다른 2개 집단 동시 발생",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002674838&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "국내 코로나19 신규 확진자 155명…경기 47명·서울 46명·충남 12명 등",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001217&ref=A"
     },
     {
         "title": "포항서 코로나19 확진자 2명 발생…광주서 확진자 접촉",
         "link": "https://news.imaeil.com/Society/2020091011542894740"
     },
     {
-        "title": "[종합] 신촌세브란스병원 코로나19 확진자 총 17명 발생",
-        "link": "http://www.fnnews.com/news/202009101523048477"
+        "title": "세브란스 확진자 17명, 서로 다른 2개 집단 동시 발생",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002674838&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "[종합]코로나19 신규확진 155명...8일째 100명대",
-        "link": "http://www.fnnews.com/news/202009100945095391"
+        "title": "[종합] 신촌세브란스병원 코로나19 확진자 총 17명 발생",
+        "link": "http://www.fnnews.com/news/202009101523048477"
     },
     {
         "title": "[속보] 코로나19 신규 확진 155명·사망 2명…8일째 100명대",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009100092&t=NN"
     },
     {
-        "title": "서울 신촌 세브란스병원서 확진자 10명 발생 … 병동 일시폐쇄(상보)",
-        "link": "https://view.asiae.co.kr/article/2020091011214046328"
+        "title": "서울 세브란스 병원에서 17명 코로나19 집단감염",
+        "link": "http://www.hani.co.kr/arti/area/capital/961604.html"
+    },
+    {
+        "title": "신촌세브란스 의료진 등 10명 코로나19 집단감염···병동 폐쇄",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009101109001&code=940100"
     }
 ];
