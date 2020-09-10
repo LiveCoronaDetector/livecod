@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200910069600004?did=1195m"
     },
     {
-        "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
-        "link": "http://www.fnnews.com/news/202009101149145531"
-    },
-    {
         "title": "국내 코로나19 신규 확진자 155명…경기 47명·서울 46명·충남 12명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5001217&ref=A"
     },
@@ -21,23 +17,27 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23463755"
     },
     {
-        "title": "확진자 태운 택시기사 2명 감염… \"마스크 썼는데 이례적 케이스\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/10/2020091002498.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "확진자 5분 태운 택시기사 2명 마스크 착용했으나 확진···“이례적 감염”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009101428001&code=940601"
-    },
-    {
         "title": "포항서 코로나19 확진자 2명 발생…광주서 확진자 접촉",
         "link": "https://news.imaeil.com/Society/2020091011542894740"
+    },
+    {
+        "title": "광주서 코로나19 확진자 3명 발생...누적 467명",
+        "link": "http://www.fnnews.com/news/202009101425565002"
     },
     {
         "title": "세브란스 확진자 17명, 서로 다른 2개 집단 동시 발생",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002674838&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "[속보] '코로나19' 신규 확진자 155명·지역발생 141명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=405907&class=33&grp="
+        "title": "[종합] 신촌세브란스병원 코로나19 확진자 총 17명 발생",
+        "link": "http://www.fnnews.com/news/202009101523048477"
+    },
+    {
+        "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
+        "link": "http://www.fnnews.com/news/202009101149145531"
+    },
+    {
+        "title": "[종합]코로나19 신규확진 155명...8일째 100명대",
+        "link": "http://www.fnnews.com/news/202009100945095391"
     }
 ];
