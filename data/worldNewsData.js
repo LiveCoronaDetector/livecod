@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
     },
     {
-        "title": "Indonesian stocks dive 5% as capital city Jakarta plans to reinstate partial coronavirus lockdown",
-        "link": "https://www.cnbc.com/2020/09/10/indonesian-stocks-dive-as-jakarta-plans-partial-coronavirus-lockdown-again.html"
+        "title": "India reports record 95,000 coronavirus cases in a day: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/coronavirus-emergency-puts-jakarta-lockdown-live-news-200910003222088.html"
     },
     {
         "title": "5 things to know for September 10: Trump, coronavirus, USPS, China, Rohingya",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
     },
     {
-        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
-        "link": "https://www.bbc.com/news/world-54082192"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
     },
     {
-        "title": "Outbreak Reaches Dangerous New Phase in India",
-        "link": "https://www.newser.com/story/296014/india-reports-record-spike-in-covid-cases.html"
+        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
+        "link": "https://www.bbc.com/news/world-54082192"
     }
 ];
