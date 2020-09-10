@@ -13,8 +13,8 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도, 공공시설 운영중지 기간 10월 5일까지 연장",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426961"
+        "title": "제주도 공공시설 10월5일까지 운영중지...22일 연장",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319967"
     },
     {
         "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4053847"
     },
     {
-        "title": "제주 28번 확진자 20일만에 퇴원...19명 격리 치료 중",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319975"
-    },
-    {
         "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
         "link": "https://www.news1.kr/articles/?4054842"
     },
     {
         "title": "코로나가 '벌초 문화'도 바꿨다…\"대행 신청 급증\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005972446&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "제주 28번 확진자 20일만에 퇴원...19명 격리 치료 중",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319975"
     }
 ];
