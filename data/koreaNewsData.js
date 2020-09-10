@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009101428001&code=940601"
     },
     {
+        "title": "포항서 코로나19 확진자 2명 발생…광주서 확진자 접촉",
+        "link": "https://news.imaeil.com/Society/2020091011542894740"
+    },
+    {
         "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
         "link": "http://www.fnnews.com/news/202009101149145531"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진 158명...8일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009100941001&code=940601"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 155명·사망 2명…8일째 100명대",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009100092&t=NN"
     }
 ];

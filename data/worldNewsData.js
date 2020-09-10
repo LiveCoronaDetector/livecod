@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/08/covid-19-death-rate-african-americans-and-latinos-rising-sharply"
     },
     {
-        "title": "Fauci says U.S. needs to 'hunker down' for fall and winter",
-        "link": "https://www.nbcnews.com/health/health-news/fauci-says-u-s-needs-hunker-down-fall-winter-n1239798"
+        "title": "Coronavirus in the US: How Did the Pandemic Get So Bad? | Time",
+        "link": "https://time.com/5887432/coronavirus-united-states-failure/"
     },
     {
         "title": "Nation barrels toward closure as infections soar",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
     },
     {
-        "title": "Record Covid-19 Numbers and Economic Downturn Throw India Into Crisis",
-        "link": "https://www.wsj.com/video/record-covid-19-numbers-and-economic-downturn-throw-india-into-crisis/A7951673-7418-49EE-AC92-ECE0992F5D35.html"
+        "title": "Global coronavirus deaths hit 900,000 as cases surge in India",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-casualties/global-coronavirus-deaths-hit-900000-as-cases-surge-in-india-idUSKBN2603E9"
     },
     {
         "title": "5 things to know for September 10: Trump, coronavirus, USPS, China, Rohingya",
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: Virus Can Be Deadly for Young Adults, Too, New Study Finds",
+        "title": "Covid-19 Live Updates: G.O.P.’s Scaled-Back Stimulus Bill Fails in Senate",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
