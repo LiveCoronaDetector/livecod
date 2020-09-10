@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/is-israel-on-the-cusp-of-complete-coronavirus-closure-641639"
     },
     {
-        "title": "Summer Jet-Setters Turned Sardinia Into a Coronavirus Hot Spot",
-        "link": "https://www.nytimes.com/2020/09/09/world/europe/coronavirus-sardinia-italy.html"
+        "title": "Silvio Berlusconi says he is fighting 'hellish' case of coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     },
     {
         "title": "India coronavirus: Rumours hamper testing in Punjab",
@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "Global coronavirus deaths hit 900,000 as cases surge in India",
-        "link": "https://www.msn.com/en-us/news/world/global-coronavirus-deaths-hit-900000-as-cases-surge-in-india/ar-BB18SkK4"
+        "link": "https://www.msn.com/en-us/news/world/global-coronavirus-deaths-hit-900-000-as-cases-surge-in-india/ar-BB18SkK4"
     },
     {
         "title": "Live Covid-19 News Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/lifestyle/drive-thrus-get-a-new-shape-up-in-covid-19-world"
     },
     {
-        "title": "'Greatest presidential felony': Watergate journalist sounds off on new Trump tapes",
-        "link": "https://www.youtube.com/watch?v=INvvsEJqSDY"
+        "title": "Trump deliberately played down virus, Woodward book says",
+        "link": "https://www.bbc.com/news/world-us-canada-54094559"
     }
 ];
