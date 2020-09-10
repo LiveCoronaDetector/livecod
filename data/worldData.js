@@ -961,6 +961,14 @@ var marker = [
         "완치자수": 3286
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 3437,
+        "사망자수": 38,
+        "완치자수": 1019
+    },
+    {
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
@@ -983,14 +991,6 @@ var marker = [
         "확진자수": 3351,
         "사망자수": 143,
         "완치자수": 780
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "확진자수": 3323,
-        "사망자수": 36,
-        "완치자수": 992
     },
     {
         "Name": "슬로베니아",
@@ -1364,7 +1364,7 @@ var marker = [
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "확진자수": 503,
+        "확진자수": 504,
         "사망자수": 5,
         "완치자수": 232
     },
@@ -1452,9 +1452,9 @@ var marker = [
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
-        "확진자수": 239,
+        "확진자수": 256,
         "사망자수": 6,
-        "완치자수": 79
+        "완치자수": 107
     },
     {
         "Name": "부탄",
@@ -1468,7 +1468,7 @@ var marker = [
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "확진자수": 205,
+        "확진자수": 207,
         "사망자수": 1,
         "완치자수": 204
     },
@@ -1628,7 +1628,7 @@ var marker = [
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
-        "확진자수": 18,
+        "확진자수": 21,
         "사망자수": 0,
         "완치자수": 13
     },

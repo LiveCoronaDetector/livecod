@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009100945095391"
     },
     {
-        "title": "[속보] 국내 코로나19 신규 확진자 155명…국내 발생 141명, 해외 유입 14명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001217&ref=A"
+        "title": "러 코로나19 재확산 우려 고조…자체개발 백신 3상시험 시작(종합)",
+        "link": "http://yna.kr/AKR20200909153151080?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진 155명…8일째 100명대",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5905605_32633.html"
     },
     {
         "title": "[속보] 코로나19 신규 확진 155명·사망 2명…8일째 100명대",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009100092&t=NN"
     },
     {
-        "title": "[속보] 코로나 국내 신규 확진 155명… 국내발생 141명·해외유입 14명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/10/2020091001066.html"
+        "title": "[속보] '코로나19' 신규 확진자 155명·지역발생 141명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=405907&class=33&grp="
     },
     {
         "title": "광주·전남 코로나19 신규 확진 5명 늘어(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200910_0001160960&cID=10201&pID=10200"
     },
     {
-        "title": "[속보] 어제 신규 확진자 155명… 국내발생 141명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014996464&code=61121111&cp=nv"
+        "title": "코로나19 어제 155명 신규확진",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020091009311712623"
     },
     {
-        "title": "[속보]제주서 이틀연속 코로나 확진…게스트하우스발 감염도",
-        "link": "https://view.asiae.co.kr/article/2020091006421066781"
-    },
-    {
-        "title": "광주서 밤사이 확진자 3명 증가…2명은 감염경로 미궁",
-        "link": "http://yna.kr/AKR20200910027700054?did=1195m"
+        "title": "광주서 밤사이 코로나 확진자 3명 추가…누적 464명",
+        "link": "https://view.asiae.co.kr/article/2020091009304079107"
     },
     {
         "title": "경북서 코로나19 확진자 3명 늘어",
         "link": "http://yna.kr/AKR20200910027300053?did=1195m"
     },
     {
-        "title": "코로나19 어제 155명 신규확진",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020091009311712623"
+        "title": "코로나 어제 155명…8일째 100명대 \"안정세 더뎌\"(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/10/2020091000677.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
