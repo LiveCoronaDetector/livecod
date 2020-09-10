@@ -49,10 +49,6 @@ var jejuTrafficData = [
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253706&no=1"
     },
     {
-        "title": "36번째 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253657&no=1"
-    },
-    {
         "title": "서울강동구 138 확진자",
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1254771&no=1"
     },
