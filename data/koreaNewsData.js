@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020091011542894740"
     },
     {
+        "title": "전세계 코로나19 확진자 2800만명 넘었다",
+        "link": "https://view.asiae.co.kr/article/2020091017343073943"
+    },
+    {
         "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
         "link": "http://www.fnnews.com/news/202009101149145531"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "울산 또 4명 코로나19 추가 감염, 누적 확진자 131명",
         "link": "http://www.fnnews.com/news/202009101113594121"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 158명...8일째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009100941001&code=940601"
     }
 ];
