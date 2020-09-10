@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
     },
     {
+        "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
+        "link": "https://www.news1.kr/articles/?4054842"
+    },
+    {
         "title": "제주 39번·45번 코로나19 확진자 퇴원…19명 치료 중",
         "link": "https://www.news1.kr/articles/?4053847"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 국내 발생현황 브리핑 (20. 09. 09. 14시)",
         "link": "http://www.ktv.go.kr/content/view?content_id=608736"
-    },
-    {
-        "title": "제주도, 도청 외부인 방문 출입제한 기간 연장",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171434"
     }
 ];
