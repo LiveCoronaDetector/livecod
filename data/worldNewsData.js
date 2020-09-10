@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/10/us/five-things-september-10-trnd/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
-    },
-    {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
     },
     {
         "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
