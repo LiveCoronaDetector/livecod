@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002674838&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
+        "title": "전세계 코로나19 확진자 2800만명 넘었다",
+        "link": "https://view.asiae.co.kr/article/2020091017343073943"
+    },
+    {
         "title": "[종합] 신촌세브란스병원 코로나19 확진자 총 17명 발생",
         "link": "http://www.fnnews.com/news/202009101523048477"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 155명·사망 2명…8일째 100명대",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009100092&t=NN"
+        "title": "트럼프는, 코로나 무서운 줄 알고도 속여왔다",
+        "link": "http://www.hani.co.kr/arti/international/international_general/961640.html"
     },
     {
-        "title": "서울 세브란스 병원에서 17명 코로나19 집단감염",
-        "link": "http://www.hani.co.kr/arti/area/capital/961604.html"
-    },
-    {
-        "title": "신촌세브란스 의료진 등 10명 코로나19 집단감염···병동 폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009101109001&code=940100"
+        "title": "전남도, 코로나19 확진자 2명 발생...누적 163명",
+        "link": "http://www.fnnews.com/news/202009101149145531"
     }
 ];

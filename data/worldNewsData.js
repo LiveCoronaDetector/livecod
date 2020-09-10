@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
-        "title": "Coronavirus: Israel considers nationwide lockdown as cases spike",
-        "link": "https://www.bbc.com/news/world-middle-east-54091894"
+        "title": "Israel’s Coronavirus Czar Clashes With Ultra-Orthodox, a Netanyahu Ally",
+        "link": "https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html"
     },
     {
-        "title": "Covid: why Spain is hit worse than the rest of Europe",
-        "link": "https://www.ft.com/content/6a5e61f5-7a35-4ad9-b57d-98f1dfa107ad"
+        "title": "Coronavirus: central Europe faces worse second wave after avoiding worst of first",
+        "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
     },
     {
         "title": "Indonesian stocks dive 5% as capital city Jakarta plans to reinstate partial coronavirus lockdown",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "Covid vaccine: 8,000 jumbo jets needed to deliver doses globally, says IATA",
-        "link": "https://www.bbc.com/news/business-54067499"
+        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
+        "link": "https://www.bbc.com/news/world-54082192"
     },
     {
         "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
-        "link": "https://www.bbc.com/news/world-54082192"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     }
 ];
