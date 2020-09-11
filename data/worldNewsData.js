@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-live-news-fauci-says-us-needs-to-hunker-down-this-winter-global-cases-near-28m"
     },
     {
-        "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
-        "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
+        "title": "Woodward book: Trump's “panic” coronavirus excuse is even more incriminating.",
+        "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
-        "title": "More Than Half Of Americans Wouldn't Take COVID-19 Vaccine Before Election, Poll Finds | NBC News",
-        "link": "https://www.youtube.com/watch?v=tw4KZEJl8JI"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
         "title": "Virus Can Be Deadly for Young Adults, Too, New Study Finds",

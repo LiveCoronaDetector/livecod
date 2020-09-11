@@ -441,20 +441,20 @@ var marker = [
         "완치자수": 33562
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "확진자수": 45927,
+        "사망자수": 375,
+        "완치자수": 42555
+    },
+    {
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "확진자수": 45711,
         "사망자수": 2020,
         "완치자수": 38100
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "확진자수": 45679,
-        "사망자수": 373,
-        "완치자수": 42555
     },
     {
         "Name": "아르메니아",
@@ -557,7 +557,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "El Salvador",
         "확진자수": 26688,
-        "사망자수": 774,
+        "사망자수": 777,
         "완치자수": 17106
     },
     {
@@ -566,7 +566,7 @@ var marker = [
         "Name_en": "Australia",
         "확진자수": 26564,
         "사망자수": 797,
-        "완치자수": 23039
+        "완치자수": 23216
     },
     {
         "Name": "Paraguay",
