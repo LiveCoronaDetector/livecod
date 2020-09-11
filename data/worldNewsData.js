@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://africacdc.org/news-item/covid-19-genome-sequencing-laboratory-network-launches-in-africa/"
     },
     {
-        "title": "Woodward book: Trump denies lying about risks of coronavirus",
-        "link": "https://www.bbc.com/news/world-us-canada-54107677"
+        "title": "Coronavirus in the US: How Did the Pandemic Get So Bad? | Time",
+        "link": "https://time.com/5887432/coronavirus-united-states-failure/"
     },
     {
         "title": "Nation barrels toward closure as infections soar",

@@ -17,24 +17,24 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
-        "title": "네팔 국적 51번째 확진자 접촉자 15명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
-    },
-    {
         "title": "제주 50번째 코로나 확진 발생...게하발 10번째",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319947"
+    },
+    {
+        "title": "네팔 국적 51번째 확진자 접촉자 15명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
     },
     {
         "title": "제주 도내 49번째 확진자 역학조사 결과공개",
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
+        "title": "제주도, 공공시설 운영중지 기간 10월 5일까지 연장",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426961"
     },
     {
-        "title": "제주도, 골프장.볼링장도 '마스크 의무화'...3차 행정조치 발동",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427078"
+        "title": "제주도 11일부터 골프장 등 마스크 착용 의무화 시설 확대",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200911500080&wlog_tag3=naver"
     },
     {
         "title": "제주, 코로나19 51번·52번 잇따라 확진",
