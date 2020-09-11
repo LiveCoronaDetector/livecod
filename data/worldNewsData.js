@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
-        "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
-        "link": "https://www.washingtonpost.com/world/europe/covid-schools-germany/2020/09/10/309648a4-eedf-11ea-bd08-1b10132b458f_story.html"
+        "title": "Live: French government outlines fresh Covid-19 measures as cases rise",
+        "link": "https://www.france24.com/en/20200911-live-france-s-health-minister-outlines-fresh-covid-19-measures-as-cases-rise"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=UnbzuA15mN8"
     },
     {
-        "title": "India reports 96,760 new coronavirus cases — the biggest single-day addition by any country since the pandemic",
-        "link": "https://www.businessinsider.in/science/health/news/india-reports-96760-new-coronavirus-cases-in-last-24-hours/articleshow/78051725.cms"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
         "title": "Coronavirus cases in England doubling every eight days, study shows",
         "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     },
     {
-        "title": "Coronavirus Can Be Deadly for Young Adults, Too, Study Finds",
-        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
+        "title": "India May Become Country Worst Hit By COVID-19 In October: BITS Pilani Study",
+        "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
     },
     {
-        "title": "Global Covid-19 vaccine equity threatened by national self-interest, says UN",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3101169/coronavirus-global-vaccine-equity-threatened-national-self"
+        "title": "Covid-19 Live Updates: Senate Republicans Plan Vote on 'Skinny' Aid Bill",
+        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     }
 ];

@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
     },
     {
+        "title": "코로나19 제주 50번째 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5409818"
+    },
+    {
         "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
     },
@@ -19,10 +23,6 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 확진자 3명 퇴원…18명 격리치료",
         "link": "https://www.news1.kr/articles/?4056091"
-    },
-    {
-        "title": "코로나19 제주 50번째 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5409818"
     },
     {
         "title": "제주 51번째 확진자 동선 공개…접촉자 15명 격리",
