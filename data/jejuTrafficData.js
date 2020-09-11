@@ -33,10 +33,6 @@ var jejuTrafficData = [
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253923&no=1"
     },
     {
-        "title": "42번째 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253876&no=1"
-    },
-    {
         "title": "41번째 확진자",
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253875&no=1"
     },
@@ -47,21 +43,5 @@ var jejuTrafficData = [
     {
         "title": "39번째 확진자",
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1253873&no=1"
-    },
-    {
-        "title": "서울강동구 138 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1254771&no=1"
-    },
-    {
-        "title": "평택91 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1254671&no=1"
-    },
-    {
-        "title": "울산99 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1254593&no=1"
-    },
-    {
-        "title": "서울은평구 175 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1254513&no=1"
     }
 ];
