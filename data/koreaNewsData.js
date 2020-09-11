@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200911126100017?did=1195m"
     },
     {
-        "title": "경기도 코로나19 확진자 47명 발생…산발적 집단감염(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200911_0001163267&cID=10803&pID=14000"
-    },
-    {
         "title": "서울 세브란스 병원 감염 등 신규 확진자 176명…위중증 환자 175명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002098&ref=A"
+    },
+    {
+        "title": "경기도 코로나19 확진자 47명 발생…산발적 집단감염(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200911_0001163267&cID=10803&pID=14000"
     }
 ];

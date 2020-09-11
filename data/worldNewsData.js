@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
-        "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
-        "link": "https://www.washingtonpost.com/world/europe/covid-schools-germany/2020/09/10/309648a4-eedf-11ea-bd08-1b10132b458f_story.html"
+        "title": "Analysis: French gov't under pressure over coronavirus surge",
+        "link": "https://www.france24.com/en/video/20200911-analysis-french-gov-t-under-pressure-over-coronavirus-surge"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
+        "title": "India reports 96,760 new coronavirus cases — the biggest single-day addition by any country since the pandemic",
+        "link": "https://www.businessinsider.in/science/health/news/india-reports-96760-new-coronavirus-cases-in-last-24-hours/articleshow/78051725.cms"
     },
     {
         "title": "Coronavirus Can Be Deadly for Young Adults, Too, Study Finds",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
-        "title": "India Coronavirus Updates, September 11: BITS Pilani study says India might have 7 mn cases by Oct; Govt issues revised SOPs for conducting exams",
-        "link": "https://indianexpress.com/article/india/india-coronavirus-updates-september-11-maharashtra-andhra-pradesh-delhi-cases-death-toll-6591743/"
-    },
-    {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
+    },
+    {
+        "title": "Coronavirus cases in England doubling every eight days, study shows",
+        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     }
 ];
