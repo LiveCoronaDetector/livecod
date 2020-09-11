@@ -29,8 +29,8 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도, 공공시설 운영중지 기간 10월 5일까지 연장",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=426961"
+        "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
     },
     {
         "title": "제주도 11일부터 골프장 등 마스크 착용 의무화 시설 확대",
