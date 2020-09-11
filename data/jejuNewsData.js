@@ -9,35 +9,35 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5409818"
     },
     {
-        "title": "코로나19 확진자 2명 오늘 하루 잇따라 발생",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5001824&ref=A"
+        "title": "제주서 코로나19 확진자 잇따라 발생…누적 52명",
+        "link": "http://yna.kr/AKR20200910178400056?did=1195m"
     },
     {
-        "title": "제주 49번째 코로나19 확진자 발생…미국서 입국",
-        "link": "http://yna.kr/AKR20200909114500056?did=1195m"
-    },
-    {
-        "title": "네팔 국적 51번째 확진자 접촉자 15명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
-    },
-    {
-        "title": "제주도 마스크 착용 골프장 전세버스 등도 의무화",
-        "link": "http://www.ihalla.com/read.php3?aid=1599796485691917073"
+        "title": "제주도 49번째 코로나 확진자 발생...미국서 입국",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319920"
     },
     {
         "title": "제주도, 52번째 코로나19 확진자 발생",
         "link": "http://www.nbnnews.co.kr/news/articleView.html?idxno=423746"
     },
     {
-        "title": "제주, 코로나19 51번·52번 잇따라 확진",
-        "link": "https://www.nocutnews.co.kr/news/5410604"
+        "title": "게스트하우스發 코로나 확진자 추가, 제주 50번째",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350305"
     },
     {
-        "title": "제주 50번째 코로나 확진 발생...게하발 10번째",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319947"
+        "title": "네팔 국적 51번째 확진자 접촉자 15명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
     },
     {
         "title": "제주 도내 49번째 확진자 역학조사 결과공개",
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주도 11일부터 골프장 등 마스크 착용 의무화 시설 확대",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200911500080&wlog_tag3=naver"
+    },
+    {
+        "title": "제주도 마스크 착용 골프장 전세버스 등도 의무화",
+        "link": "http://www.ihalla.com/read.php3?aid=1599796485691917073"
     }
 ];

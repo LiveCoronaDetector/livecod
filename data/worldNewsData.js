@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://africacdc.org/news-item/covid-19-genome-sequencing-laboratory-network-launches-in-africa/"
     },
     {
-        "title": "Coronavirus in the US: How Did the Pandemic Get So Bad? | Time",
-        "link": "https://time.com/5887432/coronavirus-united-states-failure/"
+        "title": "Fauci says U.S. needs to 'hunker down' for fall and winter",
+        "link": "https://www.nbcnews.com/health/health-news/fauci-says-u-s-needs-hunker-down-fall-winter-n1239798"
     },
     {
         "title": "Nation barrels toward closure as infections soar",
@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-live-news-fauci-says-us-needs-to-hunker-down-this-winter-global-cases-near-28m"
     },
     {
-        "title": "Woodward book: Trump's “panic” coronavirus excuse is even more incriminating.",
-        "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
+        "title": "Tom Hanks accused of getting special treatment after returning to Australia amid coronavirus quarantine",
+        "link": "https://www.foxnews.com/entertainment/tom-hanks-coronavirus-special-treatment-australia-quarantine"
     },
     {
-        "title": "Dr. Fauci Just Said How You'll Most Likely Get COVID",
-        "link": "https://www.yahoo.com/lifestyle/dr-fauci-just-said-youll-203948720.html"
+        "title": "More Than Half Of Americans Wouldn't Take COVID-19 Vaccine Before Election, Poll Finds | NBC News",
+        "link": "https://www.youtube.com/watch?v=tw4KZEJl8JI"
     },
     {
         "title": "Virus Can Be Deadly for Young Adults, Too, New Study Finds",
