@@ -17,6 +17,14 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171531"
     },
     {
+        "title": "제주 53번째 코로나19 확진자 발생... 52번 가족",
+        "link": "http://www.ihalla.com/read.php3?aid=1599822876691934073"
+    },
+    {
+        "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
+    },
+    {
         "title": "제주서 코로나19 확진자 잇따라 발생…누적 52명",
         "link": "http://yna.kr/AKR20200910178400056?did=1195m"
     },
@@ -25,19 +33,11 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319920"
     },
     {
-        "title": "제주도, 52번째 코로나19 확진자 발생",
-        "link": "http://www.nbnnews.co.kr/news/articleView.html?idxno=423746"
-    },
-    {
         "title": "네팔 국적 51번째 확진자 접촉자 15명",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
     },
     {
         "title": "제주 50번째 코로나 확진 발생...게하발 10번째",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319947"
-    },
-    {
-        "title": "지역 감염 불씨 여전…제주도, 방역에 고삐",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002447&ref=A"
     }
 ];

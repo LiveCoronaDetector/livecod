@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
-        "title": "Coronavirus latest news: New Covid rules will turn public spaces into airport security, says former minister",
-        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-lockdown-social-distancing-pubs-gyms-cases/"
+        "title": "Why India's low coronavirus death rate has experts worried",
+        "link": "https://www.msn.com/en-us/news/world/why-india-s-low-coronavirus-death-rate-has-experts-worried/ar-BB18VcwH?li=BBorjTa"
     },
     {
         "title": "Coronavirus Can Be Deadly for Young Adults, Too, Study Finds",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
-        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
+        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     }
 ];
