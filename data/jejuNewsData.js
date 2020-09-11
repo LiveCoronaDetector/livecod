@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
     },
     {
-        "title": "원희룡 \"코로나·독감 '트윈데믹' 막아야…제주도민 100% 예방접종 실시\"",
-        "link": "http://www.newspim.com/news/view/20200911000120"
+        "title": "네팔 국적 51번째 확진자 접촉자 15명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
     },
     {
-        "title": "제주, 코로나19 51번·52번 잇따라 확진",
-        "link": "https://www.nocutnews.co.kr/news/5410604"
+        "title": "원희룡 \"코로나·독감 '트윈데믹' 막아야…제주도민 100% 예방접종 실시\"",
+        "link": "http://www.newspim.com/news/view/20200911000120"
     }
 ];
