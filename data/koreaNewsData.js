@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/961763.html"
     },
     {
+        "title": "[속보] 신촌세브란스 \"코로나 확진자 4명 추가…총 21명\"",
+        "link": "https://www.hankyung.com/life/article/2020091190337"
+    },
+    {
         "title": "방역당국 \"최근 한 달간 확진자 중 고령층 비중 증가…주의 필요\"",
         "link": "https://imnews.imbc.com/news/2020/society/article/5907159_32633.html"
     },
     {
         "title": "경기도 코로나19 확진자 47명 발생…산발적 집단감염(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200911_0001163267&cID=10803&pID=14000"
-    },
-    {
-        "title": "[속보] 신촌세브란스 \"코로나 확진자 4명 추가…총 21명\"",
-        "link": "https://www.hankyung.com/life/article/2020091190337"
     },
     {
         "title": "세브란스 병원 확진자 23명...\"발열·인후통에도 출근\"",

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Coronavirus in Israel: Nation barrels toward closure as infections soar",
-        "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
+        "title": "Record daily rise in cases in France and Greece – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
         "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
+        "title": "India Coronavirus Updates, September 11: BITS Pilani study says India might have 7 mn cases by Oct; Govt issues revised SOPs for conducting exams",
+        "link": "https://indianexpress.com/article/india/india-coronavirus-updates-september-11-maharashtra-andhra-pradesh-delhi-cases-death-toll-6591743/"
+    },
+    {
         "title": "Coronavirus Can Be Deadly for Young Adults, Too, Study Finds",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus cases in England doubling every eight days, study shows",
         "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
-    },
-    {
-        "title": "Coronavirus: BBC poll shows stark divide between rich and poor countries",
-        "link": "https://www.bbc.com/news/world-54106474"
     }
 ];
