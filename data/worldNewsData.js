@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=64bbd400-f47a-11ea-b63b-59918135142a&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=80bf2a90-f47e-11ea-9ab8-b99a11a67998&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
     },
     {
         "title": "Coronavirus live news: French PM rules out full national lockdown as cases rise by 9,406",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=UnbzuA15mN8"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
+    },
+    {
         "title": "Woodward Book Revelations Point Up Inaccuracy Of Trump's Charges Against WHO : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
-    },
-    {
-        "title": "September 8 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     }
 ];
