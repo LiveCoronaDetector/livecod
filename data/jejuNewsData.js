@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4056091"
     },
     {
-        "title": "제주서 코로나19 확진자 잇따라 발생…누적 52명",
-        "link": "http://yna.kr/AKR20200910178400056?did=1195m"
-    },
-    {
         "title": "[2보] 제주 52번 코로나19 확진자 접촉자 3명",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171531"
+    },
+    {
+        "title": "제주서 코로나19 확진자 잇따라 발생…누적 52명",
+        "link": "http://yna.kr/AKR20200910178400056?did=1195m"
     },
     {
         "title": "제주도 49번째 코로나 확진자 발생...미국서 입국",

@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200911152951054?did=1195m"
     },
     {
+        "title": "함양군 택시회사 발 코로나19 확산 조짐…운전기사 2명 감염(종합)",
+        "link": "http://yna.kr/AKR20200911066402052?did=1195m"
+    },
+    {
         "title": "[속보] 세브란스병원 확진자 23명으로…\"증상 있는데 출근\"",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009110202&t=NN"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "세브란스 코로나 23명 증가...\"영양팀 증상 발생 이전에 배식\"",
         "link": "https://www.pressian.com/pages/articles/2020091115233052549?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "신규 확진 176명…9일 연속 100명대, 확진자 조금씩 늘어(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5410728"
     }
 ];

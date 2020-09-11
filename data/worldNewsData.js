@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/11/business/china-vaccine-diplomacy.html"
     },
     {
-        "title": "Fauci says U.S. needs to 'hunker down' for fall and winter",
-        "link": "https://www.nbcnews.com/health/health-news/fauci-says-u-s-needs-hunker-down-fall-winter-n1239798"
+        "title": "Americans need to 'hunker down' this fall and winter as Covid-19 pandemic will likely worsen, Fauci says",
+        "link": "https://www.cnn.com/2020/09/11/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Coronavirus in Israel: Nation barrels toward closure as infections soar",
-        "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
+        "title": "Record daily rise in cases in France and Greece – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
         "title": "Coronavirus: central Europe faces worse second wave after avoiding worst of first",
