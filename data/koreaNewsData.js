@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009110202&t=NN"
     },
     {
-        "title": "세브란스 병원 확진자 23명...\"발열·인후통에도 출근\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009111802065314"
-    },
-    {
         "title": "러시아 코로나 하루 확진자 7월말 수준 재증가…\"5천500명 넘어\"",
         "link": "http://yna.kr/AKR20200911174800080?did=1195m"
+    },
+    {
+        "title": "세브란스 병원 확진자 23명...\"발열·인후통에도 출근\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009111802065314"
     },
     {
         "title": "방역당국 \"최근 한 달간 확진자 중 고령층 비중 증가…주의 필요\"",
