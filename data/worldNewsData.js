@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
-        "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
+        "title": "Coronavirus live updates: FDA chief won't overrule scientists on vaccine; AstraZeneca delay 'wake-up call'",
+        "link": "https://www.cnbc.com/2020/09/10/coronavirus-live-updates.html"
     }
 ];

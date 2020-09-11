@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200910178400056?did=1195m"
     },
     {
+        "title": "[2보] 제주 52번 코로나19 확진자 접촉자 3명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171531"
+    },
+    {
         "title": "제주도 49번째 코로나 확진자 발생...미국서 입국",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319920"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 도내 49번째 확진자 역학조사 결과공개",
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "제주도 11일부터 골프장 등 마스크 착용 의무화 시설 확대",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200911500080&wlog_tag3=naver"
     }
 ];
