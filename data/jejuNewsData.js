@@ -17,27 +17,27 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009112029479098"
     },
     {
-        "title": "제주 산방산온천 코로나19 확진자 추가…8명으로 늘어",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009102146001&code=620117"
+        "title": "제주 53번 코로나19 확진자 발생…산방산탄산온천 직원",
+        "link": "http://yna.kr/AKR20200911166100056?did=1195m"
     },
     {
         "title": "제주 코로나19 확진자 3명 퇴원…18명 격리치료",
         "link": "https://www.news1.kr/articles/?4056091"
     },
     {
-        "title": "[2보] 제주 52번 코로나19 확진자 접촉자 3명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171531"
+        "title": "온천발 코로나19 확진자 발생… 52번 확진자 가족",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171532"
     },
     {
-        "title": "제주 산방산탄산온천 직원 코로나19 확진 판정",
-        "link": "http://daily.hankooki.com/lpage/society/202009/dh20200911221818137780.htm?s_ref=nv"
+        "title": "제주 산방산온천 코로나19 확진자 추가…8명으로 늘어",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009102146001&code=620117"
     },
     {
         "title": "제주 51번째 확진자 동선 공개…접촉자 15명 격리",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002622&ref=A"
     },
     {
-        "title": "제주도 ‘서귀포 LVP 1회 토너먼트대회’ 개최 “불가”",
-        "link": "https://view.asiae.co.kr/article/2020091122063415359"
+        "title": "지역 감염 불씨 여전…제주도, 방역에 고삐",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002447&ref=A"
     }
 ];

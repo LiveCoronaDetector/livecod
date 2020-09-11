@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/11/business/china-vaccine-diplomacy.html"
     },
     {
-        "title": "Americans need to 'hunker down' this fall and winter as Covid-19 pandemic will likely worsen, Fauci says",
-        "link": "https://www.cnn.com/2020/09/11/health/us-coronavirus-friday/index.html"
+        "title": "U.S. coronavirus data is 'disturbing,' Dr. Fauci says, disputing Trump's claim that U.S. is 'rounding the corner'",
+        "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
     },
     {
         "title": "Coronavirus in Israel: Nation barrels toward closure as infections soar",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Leaders pledge 'quantum leap' towards fully funding COVID-19 vaccines and treatments",
-        "link": "https://news.un.org/en/story/2020/09/1072072"
+        "title": "Global COVID-19 surges on amid push for more support",
+        "link": "https://www.cidrap.umn.edu/news-perspective/2020/09/global-covid-19-surges-amid-push-more-support"
     }
 ];
