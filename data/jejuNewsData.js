@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
     },
     {
-        "title": "코로나19-인플루엔자 중복 감염 확인…\"치명성은 더 확인해야\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200909_0001160503&cID=10201&pID=10200"
+        "title": "원희룡 \"코로나·독감 '트윈데믹' 막아야…제주도민 100% 예방접종 실시\"",
+        "link": "http://www.newspim.com/news/view/20200911000120"
     },
     {
-        "title": "제주도 \"추석 앞두고 공항 항만 방역 재정비 필요\"",
-        "link": "https://www.news1.kr/articles/?4054842"
+        "title": "제주, 코로나19 51번·52번 잇따라 확진",
+        "link": "https://www.nocutnews.co.kr/news/5410604"
     }
 ];

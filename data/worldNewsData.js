@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://africacdc.org/news-item/covid-19-genome-sequencing-laboratory-network-launches-in-africa/"
     },
     {
-        "title": "Fauci says U.S. needs to 'hunker down' for fall and winter",
-        "link": "https://www.nbcnews.com/health/health-news/fauci-says-u-s-needs-hunker-down-fall-winter-n1239798"
+        "title": "Coronavirus in the US: How Did the Pandemic Get So Bad? | Time",
+        "link": "https://time.com/5887432/coronavirus-united-states-failure/"
     },
     {
         "title": "Nation barrels toward closure as infections soar",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
-        "title": "5 things to know for September 10: Trump, coronavirus, USPS, China, Rohingya",
-        "link": "https://www.cnn.com/2020/09/10/us/five-things-september-10-trnd/index.html"
-    },
-    {
-        "title": "Covid-19 Live Updates: G.O.P.’s Scaled-Back Stimulus Bill Fails in Senate",
-        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
+        "title": "Coronavirus Australia live update: NSW Nationals back down on threat to move to crossbench as Victoria records 43 new Covid cases and nine deaths",
+        "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-australia-live-updates-nsw-coalition-in-crisis-as-covid-19-border-row-intensifies"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
     },
     {
+        "title": "Live Covid-19 Tracker",
+        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
+    },
+    {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
+        "title": "Coronavirus live updates: FDA chief won't overrule scientists on vaccine; AstraZeneca delay 'wake-up call'",
+        "link": "https://www.cnbc.com/2020/09/10/coronavirus-live-updates.html"
     }
 ];
