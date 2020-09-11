@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
     },
     {
-        "title": "Coronavirus in Israel: Nation barrels toward closure as infections soar",
-        "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
+        "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=64bbd400-f47a-11ea-b63b-59918135142a&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
     },
     {
         "title": "Coronavirus live news: French PM rules out full national lockdown as cases rise by 9,406",
@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "Australian teen creates coronavirus care packages in honor of Pay it Forward 9/11",
-        "link": "https://www.foxnews.com/media/australian-teen-honors-911-memory-with-coronavirus-care-packages"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
+        "title": "Can AstraZeneca Coronavirus Vaccine Still Be Ready By Year-End Despite Sick Patient? | NBC News NOW",
+        "link": "https://www.youtube.com/watch?v=UnbzuA15mN8"
     },
     {
         "title": "Woodward Book Revelations Point Up Inaccuracy Of Trump's Charges Against WHO : Goats and Soda",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     },
     {
-        "title": "Covid-19 Live Updates: Senate Republicans Plan Vote on 'Skinny' Aid Bill",
-        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
+        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
+        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
+    },
+    {
+        "title": "September 8 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html"
     }
 ];
