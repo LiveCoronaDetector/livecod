@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009101149145531"
     },
     {
-        "title": "확진자 감소세 더뎌...수도권 2.5단계 완화될 수 있나",
-        "link": "https://www.news1.kr/articles/?4055159"
-    },
-    {
         "title": "세브란스병원서 코로나19 집단감염… 확진자 17명 발생",
         "link": "http://www.segye.com/content/html/2020/09/10/20200910512797.html?OutUrl=naver"
     },
     {
         "title": "울산 또 4명 코로나19 추가 감염, 누적 확진자 131명",
         "link": "http://www.fnnews.com/news/202009101113594121"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 158명...8일째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009100941001&code=940601"
     }
 ];
