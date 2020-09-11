@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4056091"
     },
     {
+        "title": "[2보] 제주 52번 코로나19 확진자 접촉자 3명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171531"
+    },
+    {
+        "title": "제주 산방산탄산온천 직원 코로나19 확진 판정",
+        "link": "http://daily.hankooki.com/lpage/society/202009/dh20200911221818137780.htm?s_ref=nv"
+    },
+    {
         "title": "제주 51번째 확진자 동선 공개…접촉자 15명 격리",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002622&ref=A"
     },
     {
-        "title": "지역 감염 불씨 여전…제주도, 방역에 고삐",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002447&ref=A"
-    },
-    {
-        "title": "제주서 코로나19 확진자 잇따라 발생…누적 52명",
-        "link": "http://yna.kr/AKR20200910178400056?did=1195m"
-    },
-    {
-        "title": "제주도 49번째 코로나 확진자 발생...미국서 입국",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319920"
+        "title": "제주도 ‘서귀포 LVP 1회 토너먼트대회’ 개최 “불가”",
+        "link": "https://view.asiae.co.kr/article/2020091122063415359"
     }
 ];

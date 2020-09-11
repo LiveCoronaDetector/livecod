@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
-        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
+        "title": "US coronavirus cases rise for the third day in a row, and China approves nasal spray vaccine testing",
+        "link": "https://www.youtube.com/watch?v=epWHKlsNUt4"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,7 +33,7 @@ var worldNewsData = [
         "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
     },
     {
-        "title": "Covid-19 Live Updates: G.O.P.'s Scaled-Back Stimulus Bill Fails in Senate",
+        "title": "Covid-19 Live Updates: Senate Republicans Plan Vote on 'Skinny' Aid Bill",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
