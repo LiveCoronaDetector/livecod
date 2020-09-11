@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
     },
     {
+        "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",
+        "link": "https://www.news1.kr/articles/?4056378"
+    },
+    {
         "title": "제주 산방산온천 코로나19 확진자 추가…8명으로 늘어",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009102146001&code=620117"
     },
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4056091"
     },
     {
+        "title": "충북교육청, 코로나19로 제주 해양교육원 격리시설 제공",
+        "link": "http://www.newsis.com/view/?id=NISX20200911_0001163371&cID=10899&pID=10800"
+    },
+    {
         "title": "제주 51번째 확진자 동선 공개…접촉자 15명 격리",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002622&ref=A"
     },
     {
         "title": "지역 감염 불씨 여전…제주도, 방역에 고삐",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002447&ref=A"
-    },
-    {
-        "title": "제주서 코로나19 확진자 잇따라 발생…누적 52명",
-        "link": "http://yna.kr/AKR20200910178400056?did=1195m"
-    },
-    {
-        "title": "제주도 49번째 코로나 확진자 발생...미국서 입국",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=319920"
     }
 ];
