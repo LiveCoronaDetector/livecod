@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200911126100017?did=1195m"
     },
     {
-        "title": "러시아 코로나 하루 확진자 7월말 수준 재증가…\"5천500명 넘어\"",
-        "link": "http://yna.kr/AKR20200911174800080?did=1195m"
+        "title": "꼬리무는 산방산온천發 코로나19 확진자… 제주 53번째 확진자 발생",
+        "link": "https://view.asiae.co.kr/article/2020091121451294210"
     },
     {
-        "title": "서울 세브란스 병원 감염 등 신규 확진자 176명…위중증 환자 175명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002098&ref=A"
+        "title": "러시아 코로나 하루 확진자 7월말 수준 재증가…\"5천500명 넘어\"",
+        "link": "http://yna.kr/AKR20200911174800080?did=1195m"
     }
 ];

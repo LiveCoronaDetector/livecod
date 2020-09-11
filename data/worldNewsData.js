@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Record daily rise in cases in France and Greece – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
+        "title": "Coronavirus in Israel: Nation barrels toward closure as infections soar",
+        "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
     },
     {
-        "title": "Live: French government outlines fresh Covid-19 measures as cases rise",
+        "title": "'Clear worsening' of Covid-19 outbreak in France, no major change in strategy, PM says",
         "link": "https://www.france24.com/en/20200911-live-france-s-health-minister-outlines-fresh-covid-19-measures-as-cases-rise"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
     },
     {
-        "title": "Covid-19 Live Updates: Senate Republicans Plan Vote on 'Skinny' Aid Bill",
-        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/11/world/covid-19-coronavirus.html"
     }
 ];
