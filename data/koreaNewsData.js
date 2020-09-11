@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5410728"
     },
     {
+        "title": "서울 대형병원 잇단 코로나 확진자 발생…의료계 비상",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/11/2020091102536.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[종합] 최근 3일간 코로나19 확진자 60세 이상 비율 40% 이상",
         "link": "http://www.fnnews.com/news/202009111511120625"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=209242"
     },
     {
-        "title": "인도, 하루 코로나 확진자만 9만6500명…세계 최다",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/11/2020091102127.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "신규 확진자 34%가 '60세 이상'…위·중증 환자도 증가",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=205107"
     },
     {
         "title": "김포, 주민 2명 코로나19 감염…확진자와 접촉(종합)",
         "link": "http://yna.kr/AKR20200911114751065?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 176명·사망 4명…100명 이하 실패",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009110094&t=NN"
     }
 ];
