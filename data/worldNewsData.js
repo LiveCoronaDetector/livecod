@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
     },
     {
-        "title": "Coronavirus: central Europe faces worse second wave after avoiding worst of first",
-        "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
+        "title": "Covid: why Spain is hit worse than the rest of Europe",
+        "link": "https://www.ft.com/content/6a5e61f5-7a35-4ad9-b57d-98f1dfa107ad"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Why India's low coronavirus death rate has experts worried",
-        "link": "https://www.msn.com/en-us/news/world/why-indias-low-coronavirus-death-rate-has-experts-worried/ar-BB18VcwH"
-    },
-    {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
+        "title": "9/11 ceremonies reimagined amid pandemic, as rebuilt World Trade Center faces coronavirus economic threat",
+        "link": "https://www.foxnews.com/us/9-11-new-york-world-trade-center-coronavirus-pandemic"
+    },
+    {
+        "title": "Coronavirus update: Global death toll tops 905,000, U.S. toll above 191,000 and experts slam Trump for playing down virus",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-death-toll-tops-900000-us-toll-above-190000-and-experts-slam-trump-for-playing-down-virus-2020-09-10"
     }
 ];
