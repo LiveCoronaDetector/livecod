@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
     },
     {
-        "title": "Live Covid-19 Tracker",
-        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "Coronavirus live news: Trump claims US has one of the lowest case-fatality rates as country's deaths near 200,000",
         "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-live-news-fauci-says-us-needs-to-hunker-down-this-winter-global-cases-near-28m"
+    },
+    {
+        "title": "Virus Can Be Deadly for Young Adults, Too, New Study Finds",
+        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",

@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5409818"
     },
     {
-        "title": "제주도, 코로나19 50번째 확진자 발생",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004192"
-    },
-    {
         "title": "코로나19 확진자 2명 오늘 하루 잇따라 발생",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5001824&ref=A"
     },
@@ -29,12 +25,16 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "네팔 국적 51번째 확진자 접촉자 15명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
+    },
+    {
         "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
     },
     {
-        "title": "네팔 국적 51번째 확진자 접촉자 15명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
+        "title": "제주도, 골프장.볼링장도 '마스크 의무화'...3차 행정조치 발동",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427078"
     },
     {
         "title": "제주, 코로나19 51번·52번 잇따라 확진",

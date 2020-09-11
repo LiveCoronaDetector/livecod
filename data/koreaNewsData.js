@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009110936092134"
     },
     {
+        "title": "세브란스병원 \"코로나19 확진자 4명 추가…총 21명\"",
+        "link": "http://yna.kr/AKR20200911051300017?did=1195m"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 9일째 100명대…규모는 다소 커져",
         "link": "http://www.hani.co.kr/arti/society/society_general/961763.html"
-    },
-    {
-        "title": "강원대병원 내원 가평주민 코로나19 확진…응급실 폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200911049300062?did=1195m"
-    },
-    {
-        "title": "[속보] 신촌세브란스 \"코로나 확진자 4명 추가…총 21명\"",
-        "link": "https://www.hankyung.com/life/article/2020091190337"
     },
     {
         "title": "[속보] 코로나19 신규 확진 176명...9일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009110947001&code=940601"
     },
     {
-        "title": "[속보] 광주 코로나19 확진자 4명 추가…누적 472명",
-        "link": "https://www.news1.kr/articles/?4055313"
+        "title": "광주서 코로나19 확진자 4명 발생…누적환자 472명",
+        "link": "https://www.nocutnews.co.kr/news/5410593"
     },
     {
-        "title": "사회적 거리두기 2.5단계 2주차…확진자 여전히 100명대(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02004086625899136"
+        "title": "코로나19 어제 176명 확진…9일째 100명대",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015000539&code=61121111&cp=nv"
     },
     {
-        "title": "국내 코로나19 신규 확진자 176명…서울 61명·경기 47명·충남 14명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002098&ref=A"
+        "title": "코로나19 방역 출입명부, 연락처만 쓴다…테이크아웃은 면제 검토",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02328806625899136"
     },
     {
-        "title": "서울 세브란스병원서 확진자 10명 발생",
-        "link": "http://yna.kr/AKR20200910069600004?did=1195m"
+        "title": "코로나 국내 신규 확진 176명… 국내발생 161명·해외유입 15명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/11/2020091100979.html"
     },
     {
-        "title": "세브란스병원서 코로나19 집단감염… 확진자 17명 발생",
-        "link": "http://www.segye.com/content/html/2020/09/10/20200910512797.html?OutUrl=naver"
+        "title": "[속보] 코로나19 신규 확진 176명·사망 4명…100명 이하 실패",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009110094&t=NN"
+    },
+    {
+        "title": "[단독] 옥타파마 일반혈장 통해 코로나 치료 가능성 확인",
+        "link": "https://www.ebn.co.kr/news/view/1450541/?sc=Naver"
     }
 ];
