@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://africacdc.org/news-item/covid-19-genome-sequencing-laboratory-network-launches-in-africa/"
     },
     {
-        "title": "Fauci says U.S. needs to 'hunker down' for fall and winter",
-        "link": "https://www.nbcnews.com/health/health-news/fauci-says-u-s-needs-hunker-down-fall-winter-n1239798"
+        "title": "Coronavirus in the US: How Did the Pandemic Get So Bad? | Time",
+        "link": "https://time.com/5887432/coronavirus-united-states-failure/"
     },
     {
-        "title": "Record daily rise in cases in France and Greece – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
+        "title": "Nation barrels toward closure as infections soar",
+        "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
     },
     {
         "title": "Coronavirus: central Europe faces worse second wave after avoiding worst of first",
         "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
     },
     {
-        "title": "India coronavirus: Rumours hamper testing in Punjab",
-        "link": "https://www.bbc.com/news/world-asia-india-54068007"
+        "title": "Record daily rise in cases in France and Greece – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
         "title": "Woodward book: Trump's “panic” coronavirus excuse is even more incriminating.",
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html"
+        "title": "Coronavirus live news: Trump claims US has one of the lowest case-fatality rates as country's deaths near 200,000",
+        "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-live-news-fauci-says-us-needs-to-hunker-down-this-winter-global-cases-near-28m"
     },
     {
         "title": "Virus Can Be Deadly for Young Adults, Too, New Study Finds",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus live news: Trump claims US has one of the lowest case-fatality rates as country's deaths near 200,000",
-        "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-live-news-fauci-says-us-needs-to-hunker-down-this-winter-global-cases-near-28m"
+        "title": "Coronavirus live updates: FDA chief won't overrule scientists on vaccine; AstraZeneca delay 'wake-up call'",
+        "link": "https://www.cnbc.com/2020/09/10/coronavirus-live-updates.html"
     },
     {
-        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
-        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
+        "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
     }
 ];

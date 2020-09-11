@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200911500080&wlog_tag3=naver"
     },
     {
-        "title": "제주, 코로나19 51번·52번 잇따라 확진",
-        "link": "https://www.nocutnews.co.kr/news/5410604"
+        "title": "제주도 마스크 착용 골프장 전세버스 등도 의무화",
+        "link": "http://www.ihalla.com/read.php3?aid=1599796485691917073"
     }
 ];

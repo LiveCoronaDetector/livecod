@@ -964,9 +964,9 @@ var marker = [
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "확진자수": 3454,
+        "확진자수": 3461,
         "사망자수": 58,
-        "완치자수": 3310
+        "완치자수": 3312
     },
     {
         "Name": "Syria",
@@ -1236,9 +1236,9 @@ var marker = [
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "확진자수": 1365,
-        "사망자수": 18,
-        "완치자수": 326
+        "확진자수": 1399,
+        "사망자수": 19,
+        "완치자수": 360
     },
     {
         "Name": "Liberia",
@@ -1329,20 +1329,20 @@ var marker = [
         "완치자수": 651
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "확진자수": 638,
+        "사망자수": 5,
+        "완치자수": 270
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 631,
         "사망자수": 48,
         "완치자수": 575
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "확진자수": 628,
-        "사망자수": 5,
-        "완치자수": 266
     },
     {
         "Name": "Sint Maarten",
