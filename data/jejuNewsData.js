@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319920"
     },
     {
-        "title": "네팔 국적 51번째 확진자 접촉자 15명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
-    },
-    {
         "title": "제주도 11일부터 골프장 등 마스크 착용 의무화 시설 확대",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200911500080&wlog_tag3=naver"
+    },
+    {
+        "title": "네팔 국적 51번째 확진자 접촉자 15명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
     },
     {
         "title": "제주, 코로나19 51번·52번 잇따라 확진",

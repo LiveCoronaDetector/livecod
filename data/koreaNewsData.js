@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200911051351017?did=1195m"
     },
     {
-        "title": "세브란스 병원 확진자 23명...\"발열·인후통에도 출근\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009111802065314"
-    },
-    {
         "title": "광주서 코로나 확진자 90대女 사망…3명은 추가 확진 판정",
         "link": "https://view.asiae.co.kr/article/2020091118513767710"
     },
@@ -27,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "[속보] 신촌세브란스 \"코로나 확진자 4명 추가…총 21명\"",
         "link": "https://www.hankyung.com/life/article/2020091190337"
+    },
+    {
+        "title": "세브란스 병원 확진자 23명...\"발열·인후통에도 출근\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009111802065314"
     },
     {
         "title": "지방자치단체 개인 식별 확진자 동선 공개 정보 349건",

@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
+        "title": "Why India's low coronavirus death rate has experts worried",
+        "link": "https://www.msn.com/en-us/news/world/why-indias-low-coronavirus-death-rate-has-experts-worried/ar-BB18VcwH"
+    },
+    {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
         "title": "9/11 ceremonies reimagined amid pandemic, as rebuilt World Trade Center faces coronavirus economic threat",
         "link": "https://www.foxnews.com/us/9-11-new-york-world-trade-center-coronavirus-pandemic"
-    },
-    {
-        "title": "Coronavirus update: Global death toll tops 905,000, U.S. toll above 191,000 and experts slam Trump for playing down virus",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-death-toll-tops-900000-us-toll-above-190000-and-experts-slam-trump-for-playing-down-virus-2020-09-10"
     }
 ];
