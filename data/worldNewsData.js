@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
     },
     {
-        "title": "Coronavirus live news: India reports daily tally of 96,000 cases, a global record",
-        "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-live-news-fauci-says-us-needs-to-hunker-down-this-winter-global-cases-near-28m"
+        "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
+        "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
         "title": "Woodward book: Trump's “panic” coronavirus excuse is even more incriminating.",
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
+    },
+    {
+        "title": "India is reporting world's highest single-day spike in COVID-19 cases | India News",
+        "link": "https://www.youtube.com/watch?v=J8EY8XF5ZlE"
     },
     {
         "title": "Coronavirus Can Be Deadly for Young Adults, Too, Study Finds",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
         "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
-    },
-    {
-        "title": "Why India's low coronavirus death rate has experts worried",
-        "link": "https://www.msn.com/en-us/news/world/why-indias-low-coronavirus-death-rate-has-experts-worried/ar-BB18VcwH"
     }
 ];
