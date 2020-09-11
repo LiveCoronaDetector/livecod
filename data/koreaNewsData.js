@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200911_0001163267&cID=10803&pID=14000"
     },
     {
+        "title": "코로나19 신규 확진자 9일째 100명대…규모는 다소 커져",
+        "link": "http://www.hani.co.kr/arti/society/society_general/961763.html"
+    },
+    {
         "title": "지방자치단체 개인 식별 확진자 동선 공개 정보 349건",
         "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=209242"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200911114751065?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 9일째 100명대…규모는 다소 커져",
-        "link": "http://www.hani.co.kr/arti/society/society_general/961763.html"
-    },
-    {
-        "title": "코로나19 방역 출입명부에 연락처만 쓴다…\"9월 중 시행\"(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02502646625899136"
+        "title": "[속보] 코로나19 신규 확진 176명·사망 4명…100명 이하 실패",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009110094&t=NN"
     }
 ];

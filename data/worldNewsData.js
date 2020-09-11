@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
-        "title": "India is reporting world's highest single-day spike in COVID-19 cases | India News",
-        "link": "https://www.youtube.com/watch?v=J8EY8XF5ZlE"
-    },
-    {
         "title": "Coronavirus Can Be Deadly for Young Adults, Too, Study Finds",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
         "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
+    },
+    {
+        "title": "Coronavirus live updates: FDA chief won't overrule scientists on vaccine; AstraZeneca delay 'wake-up call'",
+        "link": "https://www.cnbc.com/2020/09/10/coronavirus-live-updates.html"
     }
 ];
