@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
-        "title": "San Bernardino Surpasses 50K COVID-19 Cases; Riverside, Ventura Report Additional Deaths",
-        "link": "https://www.youtube.com/watch?v=cNjDRQzDuNU"
+        "title": "India is reporting world's highest single-day spike in COVID-19 cases | India News",
+        "link": "https://www.youtube.com/watch?v=J8EY8XF5ZlE"
     },
     {
         "title": "Virus Can Be Deadly for Young Adults, Too, New Study Finds",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
+        "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
     }
 ];
