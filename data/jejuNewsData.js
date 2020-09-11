@@ -17,16 +17,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200909114500056?did=1195m"
     },
     {
+        "title": "네팔 국적 51번째 확진자 접촉자 15명",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
+    },
+    {
         "title": "제주 50번째 코로나 확진 발생...게하발 10번째",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=319947"
     },
     {
         "title": "제주 도내 49번째 확진자 역학조사 결과공개",
         "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "네팔 국적 51번째 확진자 접촉자 15명",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
     },
     {
         "title": "제주도, 공공시설 운영중지 내달 5일까지 연장",

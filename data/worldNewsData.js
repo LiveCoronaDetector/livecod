@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://africacdc.org/news-item/covid-19-genome-sequencing-laboratory-network-launches-in-africa/"
     },
     {
-        "title": "Coronavirus in the US: How Did the Pandemic Get So Bad? | Time",
-        "link": "https://time.com/5887432/coronavirus-united-states-failure/"
+        "title": "Woodward book: Trump denies lying about risks of coronavirus",
+        "link": "https://www.bbc.com/news/world-us-canada-54107677"
     },
     {
         "title": "Nation barrels toward closure as infections soar",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
     },
     {
-        "title": "Record daily rise in cases in France and Greece – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
+        "title": "India coronavirus: Rumours hamper testing in Punjab",
+        "link": "https://www.bbc.com/news/world-asia-india-54068007"
     },
     {
         "title": "5 things to know for September 10: Trump, coronavirus, USPS, China, Rohingya",
