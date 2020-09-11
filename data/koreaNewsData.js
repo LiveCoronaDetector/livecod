@@ -17,20 +17,12 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091190337"
     },
     {
-        "title": "방역당국 \"최근 한 달간 확진자 중 고령층 비중 증가…주의 필요\"",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5907159_32633.html"
-    },
-    {
-        "title": "경기도 코로나19 확진자 47명 발생…산발적 집단감염(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200911_0001163267&cID=10803&pID=14000"
-    },
-    {
         "title": "세브란스 병원 확진자 23명...\"발열·인후통에도 출근\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202009111802065314"
     },
     {
-        "title": "지방자치단체 개인 식별 확진자 동선 공개 정보 349건",
-        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=209242"
+        "title": "방역당국 \"최근 한 달간 확진자 중 고령층 비중 증가…주의 필요\"",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5907159_32633.html"
     },
     {
         "title": "인도, 하루 코로나 확진자만 9만6500명…세계 최다",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "대형병원 잇단 코로나19 확진자 발생에 의료계 연쇄감염 비상",
         "link": "http://yna.kr/AKR20200911126100017?did=1195m"
+    },
+    {
+        "title": "경기도 코로나19 확진자 47명 발생…산발적 집단감염(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200911_0001163267&cID=10803&pID=14000"
+    },
+    {
+        "title": "서울 세브란스 병원 감염 등 신규 확진자 176명…위중증 환자 175명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002098&ref=A"
     }
 ];
