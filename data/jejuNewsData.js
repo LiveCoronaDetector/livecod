@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
     },
     {
-        "title": "게스트하우스發 코로나 확진자 추가, 제주 50번째",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350305"
+        "title": "제주 50번째 코로나 확진 발생...게하발 10번째",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=319947"
     },
     {
-        "title": "제주 도내 49번째 확진자 역학조사 결과공개",
-        "link": "https://www.pressian.com/pages/articles/2020091012353885636?utm_source=naver&utm_medium=search"
+        "title": "지역 감염 불씨 여전…제주도, 방역에 고삐",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002447&ref=A"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Record daily rise in cases in France and Greece – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
+        "title": "Coronavirus in Israel: Nation barrels toward closure as infections soar",
+        "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
     },
     {
         "title": "Coronavirus: central Europe faces worse second wave after avoiding worst of first",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
+        "title": "Coronavirus latest news: New Covid rules will turn public spaces into airport security, says former minister",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-lockdown-social-distancing-pubs-gyms-cases/"
+    },
+    {
         "title": "Coronavirus Can Be Deadly for Young Adults, Too, Study Finds",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus live updates: FDA chief won't overrule scientists on vaccine; AstraZeneca delay 'wake-up call'",
-        "link": "https://www.cnbc.com/2020/09/10/coronavirus-live-updates.html"
     }
 ];
