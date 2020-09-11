@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009110202&t=NN"
     },
     {
-        "title": "코로나19 방역 출입명부에 연락처만 쓴다…\"9월 중 시행\"(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02502646625899136"
+        "title": "[속보] 코로나19 신규 확진 176명...9일째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009110947001&code=940601"
     },
     {
         "title": "세브란스병원 \"코로나19 확진자 4명 추가…총 21명\"",
         "link": "http://yna.kr/AKR20200911051300017?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 9일째 100명대…규모는 다소 커져",
-        "link": "http://www.hani.co.kr/arti/society/society_general/961763.html"
+        "title": "코로나19 방역 출입명부에 연락처만 쓴다…\"9월 중 시행\"(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02502646625899136"
     },
     {
         "title": "신규 확진 176명…9일 연속 100명대, 확진자 조금씩 늘어(종합)",
         "link": "https://www.nocutnews.co.kr/news/5410728"
     },
     {
-        "title": "세브란스 확진자 총 23명…\"일부는 증상 있는데도 출근\"",
-        "link": "http://yna.kr/AKR20200911075900004?did=1195m"
+        "title": "[종합] 최근 3일간 코로나19 확진자 60세 이상 비율 40% 이상",
+        "link": "http://www.fnnews.com/news/202009111511120625"
     },
     {
-        "title": "강원대병원 80대 내원 환자 코로나19 확진···응급실 폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009110947011&code=940601"
+        "title": "[속보] 코로나19 신규 확진 176명·사망 4명…100명 이하 실패",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009110094&t=NN"
+    },
+    {
+        "title": "강원대병원서 코로나19 확진자 발생…응급실 폐쇄",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200911005300038/?did=1825m"
     },
     {
         "title": "신촌세브란스병원 확진자 4명 늘어 23명…\"발열·인후통에도 출근\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200911_0001162900&cID=10201&pID=10200"
     },
     {
-        "title": "[종합] 코로나19 확진자 176명 증가...서울 61명, 경기 47명, 충남 14명",
-        "link": "http://www.fnnews.com/news/202009110936092134"
-    },
-    {
-        "title": "서울시 “세브란스병원 확진자 총 23명…발열에도 출근”",
-        "link": "https://www.donga.com/news/article/all/20200911/102893769/2"
+        "title": "[속보]원주 육군 직할부대 간부 코로나 확진…가족에 감염 추정",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091000148"
     }
 ];

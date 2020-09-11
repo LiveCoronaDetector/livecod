@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
+        "title": "San Bernardino Surpasses 50K COVID-19 Cases; Riverside, Ventura Report Additional Deaths",
+        "link": "https://www.youtube.com/watch?v=cNjDRQzDuNU"
     },
     {
         "title": "Virus Can Be Deadly for Young Adults, Too, New Study Finds",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "Coronavirus live updates: FDA chief won't overrule scientists on vaccine; AstraZeneca delay 'wake-up call'",
-        "link": "https://www.cnbc.com/2020/09/10/coronavirus-live-updates.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     }
 ];
