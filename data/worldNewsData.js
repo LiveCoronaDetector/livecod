@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
-        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
+        "title": "North Korea issues shoot-to-kill orders to prevent virus: US",
+        "link": "https://news.yahoo.com/north-korea-issues-shoot-kill-044306346.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
-        "title": "India May Become Country Worst Hit By COVID-19 In October: BITS Pilani Study",
-        "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
-    },
-    {
         "title": "Woodward Book Revelations Point Up Inaccuracy Of Trump's Charges Against WHO : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who?ft=nprml&f=911968726"
+    },
+    {
+        "title": "Coronavirus cases in England doubling every eight days, study shows",
+        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     },
     {
         "title": "Covid-19 Live Updates: Senate Republicans Plan Vote on 'Skinny' Aid Bill",

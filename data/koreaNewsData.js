@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091190337"
     },
     {
-        "title": "광주서 코로나 확진자 90대女 사망…3명은 추가 확진 판정",
-        "link": "https://view.asiae.co.kr/article/2020091118513767710"
-    },
-    {
         "title": "러시아 코로나 하루 확진자 7월말 수준 재증가…\"5천500명 넘어\"",
         "link": "http://yna.kr/AKR20200911174800080?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "영국 곳곳서 코로나19 감염 확산…재생산지수 1 넘어",
         "link": "http://yna.kr/AKR20200912001700085?did=1195m"
+    },
+    {
+        "title": "서울 세브란스 병원 감염 등 신규 확진자 176명…위중증 환자 175명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002098&ref=A"
     }
 ];
