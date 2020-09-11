@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Why India's low coronavirus death rate has experts worried",
-        "link": "https://www.msn.com/en-us/news/world/why-indias-low-coronavirus-death-rate-has-experts-worried/ar-BB18VcwH"
+        "title": "India Survey Suggests Covid-19 Cases Hit 6.4 Million by May",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=070f63e0-f433-11ea-a7d3-e99b2b7c7ff2&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pbmRpYS1zdXJ2ZXktc3VnZ2VzdHMtY292aWQtMTktY2FzZXMtaGl0LTYtNC1taWxsaW9uLWJ5LW1heQ=="
     },
     {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
