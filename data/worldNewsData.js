@@ -13,28 +13,28 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
     },
     {
-        "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
-        "link": "https://www.washingtonpost.com/world/europe/covid-schools-germany/2020/09/10/309648a4-eedf-11ea-bd08-1b10132b458f_story.html"
+        "title": "Coronavirus live news: French PM rules out full national lockdown as cases rise by 9,406",
+        "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-live-news-fauci-says-us-needs-to-hunker-down-this-winter-global-cases-near-28m"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "Woodward book: Trump's “panic” coronavirus excuse is even more incriminating.",
-        "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
-    },
-    {
-        "title": "India May Become Country Worst Hit By COVID-19 In October: BITS Pilani Study",
-        "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
+        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
+        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
-        "title": "Coronavirus cases in England doubling every eight days, study shows",
-        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
+        "title": "India May Become Country Worst Hit By COVID-19 In October: BITS Pilani Study",
+        "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
+    },
+    {
+        "title": "Woodward Book Revelations Point Up Inaccuracy Of Trump's Charges Against WHO : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who?ft=nprml&f=911968726"
     },
     {
         "title": "Covid-19 Live Updates: Senate Republicans Plan Vote on 'Skinny' Aid Bill",
