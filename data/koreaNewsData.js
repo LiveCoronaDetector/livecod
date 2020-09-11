@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009110936092134"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 9일째 100명대…규모는 다소 커져",
+        "link": "http://www.hani.co.kr/arti/society/society_general/961763.html"
+    },
+    {
         "title": "강원대병원 내원 가평주민 코로나19 확진…응급실 폐쇄(종합)",
         "link": "http://yna.kr/AKR20200911049300062?did=1195m"
+    },
+    {
+        "title": "[속보] 신촌세브란스 \"코로나 확진자 4명 추가…총 21명\"",
+        "link": "https://www.hankyung.com/life/article/2020091190337"
     },
     {
         "title": "[속보] 코로나19 신규 확진 176명...9일째 100명대",
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4055313"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 176명... 9일째 100명대 유지",
-        "link": "https://hankookilbo.com/News/Read/A2020091109300002994?did=NA"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 9일째 100명대…규모는 다소 커져",
-        "link": "http://www.hani.co.kr/arti/society/society_general/961763.html"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 176명·사망 4명…100명 이하 실패",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009110094&t=NN"
-    },
-    {
         "title": "사회적 거리두기 2.5단계 2주차…확진자 여전히 100명대(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02004086625899136"
     },
     {
-        "title": "[속보] 코로나 국내 신규 확진 176명… 국내발생 161명·해외유입 15명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/11/2020091100979.html"
+        "title": "국내 코로나19 신규 확진자 176명…서울 61명·경기 47명·충남 14명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002098&ref=A"
     },
     {
-        "title": "[속보] 신촌세브란스 \"코로나 확진자 4명 추가…총 21명\"",
-        "link": "https://www.hankyung.com/life/article/2020091190337"
+        "title": "서울 세브란스병원서 확진자 10명 발생",
+        "link": "http://yna.kr/AKR20200910069600004?did=1195m"
+    },
+    {
+        "title": "세브란스병원서 코로나19 집단감염… 확진자 17명 발생",
+        "link": "http://www.segye.com/content/html/2020/09/10/20200910512797.html?OutUrl=naver"
     }
 ];

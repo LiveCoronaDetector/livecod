@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5409818"
     },
     {
+        "title": "제주도, 코로나19 50번째 확진자 발생",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004192"
+    },
+    {
         "title": "코로나19 확진자 2명 오늘 하루 잇따라 발생",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5001824&ref=A"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
     },
     {
-        "title": "제주도, 미국에서 입국한 49번째 코로나 확진자",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
-    },
-    {
-        "title": "원희룡 \"코로나·독감 '트윈데믹' 막아야…제주도민 100% 예방접종 실시\"",
-        "link": "http://www.newspim.com/news/view/20200911000120"
+        "title": "제주, 코로나19 51번·52번 잇따라 확진",
+        "link": "https://www.nocutnews.co.kr/news/5410604"
     }
 ];
