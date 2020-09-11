@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0014998338&code=61122027&cp=nv"
     },
     {
-        "title": "제주도, 미국에서 입국한 49번째 코로나 확진자",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
-    },
-    {
         "title": "네팔 국적 51번째 확진자 접촉자 15명",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171527"
+    },
+    {
+        "title": "제주도, 미국에서 입국한 49번째 코로나 확진자",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3004048"
     },
     {
         "title": "원희룡 \"코로나·독감 '트윈데믹' 막아야…제주도민 100% 예방접종 실시\"",
