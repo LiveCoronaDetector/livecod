@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
     },
     {
-        "title": "'Clear worsening' of Covid-19 outbreak in France, no major change in strategy, PM says",
+        "title": "France sees 'clear worsening' of Covid-19 outbreak, govt maintains strategy, says PM",
         "link": "https://www.france24.com/en/20200911-live-france-s-health-minister-outlines-fresh-covid-19-measures-as-cases-rise"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=UnbzuA15mN8"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
+        "title": "India May Become Country Worst Hit By COVID-19 In October: BITS Pilani Study",
+        "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
     },
     {
         "title": "Coronavirus cases in England doubling every eight days, study shows",
         "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     },
     {
-        "title": "India May Become Country Worst Hit By COVID-19 In October: BITS Pilani Study",
-        "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/11/world/covid-19-coronavirus.html"
+        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
+        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     }
 ];
