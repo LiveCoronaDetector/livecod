@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
     },
     {
-        "title": "France sees 'clear worsening' of Covid-19 outbreak, govt maintains strategy, says PM",
-        "link": "https://www.france24.com/en/20200911-live-france-s-health-minister-outlines-fresh-covid-19-measures-as-cases-rise"
+        "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
+        "link": "https://www.washingtonpost.com/world/europe/covid-schools-germany/2020/09/10/309648a4-eedf-11ea-bd08-1b10132b458f_story.html"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "Can AstraZeneca Coronavirus Vaccine Still Be Ready By Year-End Despite Sick Patient? | NBC News NOW",
-        "link": "https://www.youtube.com/watch?v=UnbzuA15mN8"
-    },
-    {
-        "title": "India May Become Country Worst Hit By COVID-19 In October: BITS Pilani Study",
-        "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
-    },
-    {
-        "title": "Coronavirus cases in England doubling every eight days, study shows",
-        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
+        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
+        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
-        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
-        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
+        "title": "India May Become Country Worst Hit By COVID-19 In October: BITS Pilani Study",
+        "link": "https://odishabytes.com/india-may-become-worst-hit-country-by-covid-19-in-october-bits-pilani-study/"
+    },
+    {
+        "title": "Covid-19 Live Updates: G.O.P.'s Scaled-Back Stimulus Bill Fails in Senate",
+        "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Leaders pledge 'quantum leap' towards fully funding COVID-19 vaccines and treatments",
+        "link": "https://news.un.org/en/story/2020/09/1072072"
     }
 ];
