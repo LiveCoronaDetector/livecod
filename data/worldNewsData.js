@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israels-govt-to-decide-high-holy-day-restrictions-today-641816"
     },
     {
-        "title": "Covid: why Spain is hit worse than the rest of Europe",
-        "link": "https://www.ft.com/content/6a5e61f5-7a35-4ad9-b57d-98f1dfa107ad"
+        "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
+        "link": "https://www.washingtonpost.com/world/europe/covid-schools-germany/2020/09/10/309648a4-eedf-11ea-bd08-1b10132b458f_story.html"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
-        "title": "India Survey Suggests Covid-19 Cases Hit 6.4 Million by May",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=070f63e0-f433-11ea-a7d3-e99b2b7c7ff2&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pbmRpYS1zdXJ2ZXktc3VnZ2VzdHMtY292aWQtMTktY2FzZXMtaGl0LTYtNC1taWxsaW9uLWJ5LW1heQ=="
-    },
-    {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "9/11 ceremonies reimagined amid pandemic, as rebuilt World Trade Center faces coronavirus economic threat",
-        "link": "https://www.foxnews.com/us/9-11-new-york-world-trade-center-coronavirus-pandemic"
+        "title": "Coronavirus cases in England doubling every eight days, study shows",
+        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
+    },
+    {
+        "title": "Coronavirus: BBC poll shows stark divide between rich and poor countries",
+        "link": "https://www.bbc.com/news/world-54106474"
     }
 ];
