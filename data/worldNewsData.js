@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/10/czechs-face-second-coronavirus-wave-as-cases-soar-in-europe"
     },
     {
-        "title": "Record daily rise in cases in France and Greece – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
+        "title": "Coronavirus live news: India reports daily tally of 96,000 cases, a global record",
+        "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-live-news-fauci-says-us-needs-to-hunker-down-this-winter-global-cases-near-28m"
     },
     {
         "title": "Woodward book: Trump's “panic” coronavirus excuse is even more incriminating.",
         "link": "https://slate.com/news-and-politics/2020/09/trump-woodward-book-panic-coronavirus-china.html"
     },
     {
-        "title": "Coronavirus live news: Trump claims US has one of the lowest case-fatality rates as country's deaths near 200,000",
-        "link": "https://www.theguardian.com/world/live/2020/sep/11/coronavirus-live-news-fauci-says-us-needs-to-hunker-down-this-winter-global-cases-near-28m"
+        "title": "Dr. Fauci Just Said How You'll Most Likely Get COVID",
+        "link": "https://www.yahoo.com/lifestyle/dr-fauci-just-said-youll-203948720.html"
     },
     {
         "title": "Virus Can Be Deadly for Young Adults, Too, New Study Finds",
         "link": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus live updates: FDA chief won't overrule scientists on vaccine; AstraZeneca delay 'wake-up call'",
-        "link": "https://www.cnbc.com/2020/09/10/coronavirus-live-updates.html"
+        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
+        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "Czech republic reports over 1,000 coronavirus cases for second straight day",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-czech/czech-republic-reports-over-1000-coronavirus-cases-for-second-straight-day-idUSKBN2610OQ"
+        "title": "Coronavirus live updates: FDA chief won't overrule scientists on vaccine; AstraZeneca delay 'wake-up call'",
+        "link": "https://www.cnbc.com/2020/09/10/coronavirus-live-updates.html"
     }
 ];
