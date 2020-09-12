@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
     {
+        "title": "[속보] '코로나19' 어제 136명 확진, 열흘째 100명대",
+        "link": "https://www.hankyung.com/life/article/2020091220857"
+    },
+    {
         "title": "신규 확진자 열흘째 100명대...산발적 집단감염 여전",
         "link": "https://www.ytn.co.kr/_ln/0103_202009121609072842"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "[단독] LG유플러스 용산사옥서 코로나 확진자 나와",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120080&t=NN"
-    },
-    {
-        "title": "[속보] '코로나19' 어제 136명 확진, 열흘째 100명대",
-        "link": "https://www.hankyung.com/life/article/2020091220857"
     },
     {
         "title": "[코로나19] 양주시 하늘궁 집합금지명령…확진자 방문",

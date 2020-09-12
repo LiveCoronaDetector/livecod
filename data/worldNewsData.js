@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africa-coronavirus-lockdowns-economy-lives-saved"
     },
     {
-        "title": "Canada reports zero COVID-19 deaths in 24-hour time period",
-        "link": "https://nypost.com/2020/09/12/canada-reports-zero-coronavirus-deaths-in-24-hour-period/"
+        "title": "Canada reports zero deaths from coronavirus for the first time since March",
+        "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
-        "title": "Record daily rise in cases in France and Greece – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
+        "title": "Israel, US vote against COVID-19 resolution overwhelmingly passed by UN",
+        "link": "https://www.jpost.com/international/israel-us-vote-against-covid-19-resolution-overwhelmingly-passed-by-un-642023"
     },
     {
-        "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
-        "link": "https://www.washingtonpost.com/world/europe/covid-schools-germany/2020/09/10/309648a4-eedf-11ea-bd08-1b10132b458f_story.html"
+        "title": "Coronavirus: France hits daily record of over 10,000 cases; protests in Germany against restrictions – live updates",
+        "link": "https://www.theguardian.com/world/live/2020/sep/12/coronavirus-live-news-france-rules-out-new-lockdown-as-victoria-records-37-more-cases"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
     },
     {
-        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
-        "link": "https://www.bbc.com/news/world-54082192"
+        "title": "Global Covid-19 vaccine equity threatened by national self-interest, says UN",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3101169/coronavirus-global-vaccine-equity-threatened-national-self"
     },
     {
         "title": "Trump Administration Plan to Reform World Health Organization Gains Little Support From Allies",
