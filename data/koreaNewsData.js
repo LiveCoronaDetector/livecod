@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
     {
-        "title": "'코로나19' 신규 확진자 136명…거리두기 2.5단계 연장여부 13일 결정",
-        "link": "http://www.inews24.com/view/1298725"
-    },
-    {
         "title": "[코로나19] 양주시 하늘궁 집합금지명령…확진자 방문",
         "link": "http://www.fnnews.com/news/202009121904253101"
+    },
+    {
+        "title": "'코로나19' 신규 확진자 136명…거리두기 2.5단계 연장여부 13일 결정",
+        "link": "http://www.inews24.com/view/1298725"
     },
     {
         "title": "코로나19 신규 확진자 136명, 열흘째 100명대",
