@@ -9,20 +9,20 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
     },
     {
-        "title": "Greece, France, Palestine report record coronavirus cases: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/coronavirus-emergency-puts-jakarta-lockdown-live-news-200910003222088.html"
+        "title": "Record daily rise in cases in France and Greece – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
-        "title": "French prime minister calls for prudence in order to avoid 'general lockdown'",
-        "link": "https://www.euronews.com/2020/09/11/france-set-to-announce-stricter-measures-to-combat-covid-19-spread"
+        "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
+        "link": "https://www.washingtonpost.com/world/europe/covid-schools-germany/2020/09/10/309648a4-eedf-11ea-bd08-1b10132b458f_story.html"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China coronavirus vaccine: Over 100,000 people receive experimental Covid-19 vaccine",
-        "link": "https://www.vox.com/2020/9/11/21431416/coronavirus-vaccine-china-sinopharm-sinovac-emergency-authorization"
+        "title": "China OKs human trials for nasal spray coronavirus vaccine",
+        "link": "https://www.foxnews.com/health/china-approves-human-trials-for-nasal-spray-coronavirus-vaccine"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
     },
     {
-        "title": "Coronavirus: France sets daily record with almost 10,000 new cases",
-        "link": "https://www.bbc.com/news/world-europe-54111209"
+        "title": "Coronavirus cases in England doubling every eight days, study shows",
+        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     },
     {
-        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
-        "link": "https://www.bbc.com/news/world-54082192"
+        "title": "France to consider local lockdowns amid record Covid cases",
+        "link": "https://www.youtube.com/watch?v=-afeBbYa9L8"
     }
 ];
