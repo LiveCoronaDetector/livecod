@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.dt.co.kr/contents.html?article_no=2020091202109958052001&ref=naver"
     },
     {
-        "title": "제주 53번 확진자…산방산탄산온천 직원 동선 공개",
-        "link": "http://www.fnnews.com/news/202009121428479685"
+        "title": "홍천군 코로나19 11번째 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091100009"
     }
 ];
