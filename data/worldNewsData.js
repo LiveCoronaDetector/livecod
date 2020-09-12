@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/international/israel-us-vote-against-covid-19-resolution-overwhelmingly-passed-by-un-642023"
     },
     {
-        "title": "Coronavirus: France hits daily record of over 10,000 cases; protests in Germany against restrictions – live updates",
-        "link": "https://www.theguardian.com/world/live/2020/sep/12/coronavirus-live-news-france-rules-out-new-lockdown-as-victoria-records-37-more-cases"
+        "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
+        "link": "https://www.washingtonpost.com/world/europe/covid-schools-germany/2020/09/10/309648a4-eedf-11ea-bd08-1b10132b458f_story.html"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.vox.com/2020/9/11/21431416/coronavirus-vaccine-china-sinopharm-sinovac-emergency-authorization"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "The latest on the coronavirus pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
     },
     {
-        "title": "Woodward Book Revelations Point Up Inaccuracy Of Trump's Charges Against WHO : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
+        "title": "Covid-19: Fauci says US life won’t return to normal until deep into 2021",
+        "link": "https://www.theguardian.com/world/2020/sep/11/covid-19-fauci-us-life-coronavirus-vaccine"
     },
     {
-        "title": "Global Covid-19 vaccine equity threatened by national self-interest, says UN",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3101169/coronavirus-global-vaccine-equity-threatened-national-self"
+        "title": "Trump officials interfered with CDC reports on Covid-19",
+        "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
     },
     {
-        "title": "Trump Administration Plan to Reform World Health Organization Gains Little Support From Allies",
-        "link": "https://foreignpolicy.com/2020/09/11/document-of-the-week-u-s-plan-for-world-health-organization-has-few-followers/"
+        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
+        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     }
 ];
