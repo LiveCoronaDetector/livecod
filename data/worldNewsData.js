@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.haaretz.com/israel-news/.premium.highlight-israel-s-covid-19-tragedy-hubris-hasbara-and-netanyahu-downed-the-start-up-nation-1.9146084"
     },
     {
-        "title": "Coronavirus live news: illegal protests held in Melbourne; France rules out second lockdown",
-        "link": "https://www.theguardian.com/world/live/2020/sep/12/coronavirus-live-news-france-rules-out-new-lockdown-as-victoria-records-37-more-cases"
+        "title": "French prime minister calls for prudence in order to avoid 'general lockdown'",
+        "link": "https://www.euronews.com/2020/09/11/france-set-to-announce-stricter-measures-to-combat-covid-19-spread"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China coronavirus vaccine: Over 100,000 people receive experimental Covid-19 vaccine",
-        "link": "https://www.vox.com/2020/9/11/21431416/coronavirus-vaccine-china-sinopharm-sinovac-emergency-authorization"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
+        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
+        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
     },
     {
         "title": "Woodward Book Revelations Point Up Inaccuracy Of Trump's Charges Against WHO : Goats and Soda",
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
     },
     {
-        "title": "Two Australian state leaders defend COVID-19 restrictions as cases ease",
-        "link": "https://japantoday.com/category/world/update-1-australia-state-leaders-defend-covid-19-curbs-as-cases-ease"
+        "title": "Coronavirus cases in England doubling every eight days, study shows",
+        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     },
     {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
+    },
+    {
+        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
+        "link": "https://www.bbc.com/news/world-54082192"
     }
 ];

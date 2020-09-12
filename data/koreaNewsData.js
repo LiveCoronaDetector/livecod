@@ -5,28 +5,32 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7TRO7QNA"
     },
     {
-        "title": "함양 택시기사 발 코로나19 지역감염 확산…2명 추가 확진(종합)",
-        "link": "http://yna.kr/AKR20200912023651052?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 136명…열흘째 100명대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002826&ref=A"
+    },
+    {
+        "title": "박능후 \"확진자 100명대 안 꺾여…매우 우려스런 상황\"",
+        "link": "https://www.nocutnews.co.kr/news/5411224"
+    },
+    {
+        "title": "함양 택시기사 발 코로나19 지역감염 확산…2명 추가 확진(종합)",
+        "link": "http://yna.kr/AKR20200912023651052?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 136명…10일째 100명대",
         "link": "http://www.hani.co.kr/arti/society/health/961869.html"
     },
     {
-        "title": "함양 택시기사발 코로나 감염 2명 추가…총 4명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200912_0001163694&cID=10812&pID=10800"
+        "title": "[속보] 코로나19 신규 확진자 136명, 열흘째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
     },
     {
-        "title": "박능후 \"코로나19 우려스러운 상황\"",
-        "link": "http://news.mk.co.kr/newsRead.php?no=943250&year=2020"
+        "title": "택시기사 확진자 접촉 함양 여성 2명 코로나19 추가 확진",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020091210055058298"
     },
     {
-        "title": "'거리두기 2.5'도 못 꺾나…10일간 확진자 100명대(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01390726625899464"
+        "title": "[속보] 제주 산방산온천 확진자, 다른 목욕탕도 이용해",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
     {
         "title": "코로나19 신규 확진자 9일째 100명대…규모는 다소 커져",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "영국 곳곳서 코로나19 감염 확산…재생산지수 1 넘어",
         "link": "http://yna.kr/AKR20200912001700085?did=1195m"
-    },
-    {
-        "title": "[속보] 신촌세브란스 \"코로나 확진자 4명 추가…총 21명\"",
-        "link": "https://www.hankyung.com/life/article/2020091190337"
     }
 ];
