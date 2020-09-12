@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
     },
     {
-        "title": "Coronavirus cases in England doubling every eight days, study shows",
-        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
+        "title": "Coronavirus: France sets daily record with almost 10,000 new cases",
+        "link": "https://www.bbc.com/news/world-europe-54111209"
     },
     {
-        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
-        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
+        "title": "Coronavirus: England 'on knife-edge' as cases rise and lockdowns grow",
+        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-uk--knife-edge-cases-rise-lockdowns-grow-birmingham-scotland"
     }
 ];

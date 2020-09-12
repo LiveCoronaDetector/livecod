@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7TRO7QNA"
     },
     {
-        "title": "[속보] 제주 산방산온천 확진자, 다른 목욕탕도 이용해",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
-    },
-    {
         "title": "박능후 \"확진자 100명대 안 꺾여…매우 우려스런 상황\"",
         "link": "https://www.nocutnews.co.kr/news/5411224"
     },
     {
         "title": "함양 택시기사 발 코로나19 지역감염, 수도권 유입 가능성",
         "link": "http://yna.kr/AKR20200912033000052?did=1195m"
+    },
+    {
+        "title": "[속보] 제주 산방산온천 확진자, 다른 목욕탕도 이용해",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
+    },
+    {
+        "title": "[속보] 세브란스병원 확진자 배식 관련 854명, 전원 '음성'",
+        "link": "https://www.hankyung.com/life/article/2020091225317"
     },
     {
         "title": "중대본 “코로나19 급격한 확산세 꺾였지만…여전히 심각”(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 136명…열흘째 100명대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002826&ref=A"
-    },
-    {
-        "title": "[속보] 논산 육군훈련소 훈련병 1명 코로나19 확진",
-        "link": "https://www.hankyung.com/life/article/2020091227297"
     }
 ];
