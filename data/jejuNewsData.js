@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4056091"
     },
     {
-        "title": "충북교육청, 코로나19로 제주 해양교육원 격리시설 제공",
-        "link": "http://www.newsis.com/view/?id=NISX20200911_0001163371&cID=10899&pID=10800"
-    },
-    {
         "title": "제주 51번째 확진자 동선 공개…접촉자 15명 격리",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002622&ref=A"
     },
     {
         "title": "지역 감염 불씨 여전…제주도, 방역에 고삐",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002447&ref=A"
+    },
+    {
+        "title": "제주서 코로나19 확진자 잇따라 발생…누적 52명",
+        "link": "http://yna.kr/AKR20200910178400056?did=1195m"
     }
 ];

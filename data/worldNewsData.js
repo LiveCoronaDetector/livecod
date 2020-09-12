@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
-        "link": "https://www.bloomberg.com/news/articles/2020-09-11/israel-headed-for-extraordinary-second-coronavirus-lockdown"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=65bc4450-f48b-11ea-be83-e393e1d03bbc&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
     },
     {
         "title": "Coronavirus live news: French PM rules out full national lockdown as cases rise by 9,406",
