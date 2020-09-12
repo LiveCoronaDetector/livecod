@@ -13,19 +13,19 @@ var worldNewsData = [
         "link": "https://www.haaretz.com/israel-news/.premium.highlight-israel-s-covid-19-tragedy-hubris-hasbara-and-netanyahu-downed-the-start-up-nation-1.9146084"
     },
     {
-        "title": "Coronavirus live news: illegal protests held in Melbourne; France rules out second lockdown",
-        "link": "https://www.theguardian.com/world/live/2020/sep/12/coronavirus-live-news-france-rules-out-new-lockdown-as-victoria-records-37-more-cases"
+        "title": "French prime minister calls for prudence in order to avoid 'general lockdown'",
+        "link": "https://www.euronews.com/2020/09/11/france-set-to-announce-stricter-measures-to-combat-covid-19-spread"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "Victoria records six new COVID-19 deaths",
-        "link": "https://www.youtube.com/watch?v=T32zGW-ihyM"
+        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
+        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "September 11 coronavirus updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
