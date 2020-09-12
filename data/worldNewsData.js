@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
     },
     {
-        "title": "Israel's COVID-19 tragedy: How hubris, hasbara and Netanyahu downed the Start-Up Nation | Opinion",
-        "link": "https://www.haaretz.com/israel-news/.premium.highlight-israel-s-covid-19-tragedy-hubris-hasbara-and-netanyahu-downed-the-start-up-nation-1.9146084"
+        "title": "Greece, France, Palestine report record coronavirus cases: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/coronavirus-emergency-puts-jakarta-lockdown-live-news-200910003222088.html"
     },
     {
         "title": "French prime minister calls for prudence in order to avoid 'general lockdown'",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China coronavirus vaccine: Over 100,000 people receive experimental Covid-19 vaccine",
-        "link": "https://www.vox.com/2020/9/11/21431416/coronavirus-vaccine-china-sinopharm-sinovac-emergency-authorization"
+        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
+        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",

@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4056378"
     },
     {
-        "title": "제주 50번째 코로나19 확진자 발생…게스트하우스발 감염",
-        "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
-    },
-    {
         "title": "제주 42번 코로나 확진자, 13일 만에 퇴원",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350435"
+    },
+    {
+        "title": "제주 50번째 코로나19 확진자 발생…게스트하우스발 감염",
+        "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
     },
     {
         "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
