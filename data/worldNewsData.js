@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
     },
     {
-        "title": "Record daily rise in cases in France and Greece – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
+        "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=23565a70-f4f8-11ea-88e5-1f46d63d155c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
     },
     {
         "title": "French prime minister calls for prudence in order to avoid 'general lockdown'",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
     },
     {
-        "title": "Coronavirus cases in England doubling every eight days, study shows",
-        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
-    },
-    {
         "title": "Coronavirus: France sets daily record with almost 10,000 new cases",
         "link": "https://www.bbc.com/news/world-europe-54111209"
+    },
+    {
+        "title": "Silvio Berlusconi says he is fighting 'hellish' case of coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/09/silvio-berlusconi-fighting-hellish-case-coronavirus-italy"
     }
 ];
