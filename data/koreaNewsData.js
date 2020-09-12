@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/961869.html"
     },
     {
+        "title": "[속보] 제주 산방산온천 확진자, 다른 목욕탕도 이용해",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 136명, 열흘째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
+    },
+    {
         "title": "박능후 \"확진자 100명대 안 꺾여…매우 우려스런 상황\"",
         "link": "https://www.nocutnews.co.kr/news/5411224"
     },
@@ -21,12 +29,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200912023651052?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 136명, 열흘째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
-    },
-    {
-        "title": "[속보] 제주 산방산온천 확진자, 다른 목욕탕도 이용해",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
+        "title": "[전문] 용인시청 338번째 확진자 발생...구갈동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=379957"
     },
     {
         "title": "軍 코로나 확진자 3명 완치..남은 환자 총 11명",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 136명, 국내 118명-해외유입 18명",
         "link": "http://news.tf.co.kr/read/life/1812466.htm"
-    },
-    {
-        "title": "코로나19 신규 확진 136명…국내 발생 118명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005976895&plink=ORI&cooper=NAVER"
     }
 ];

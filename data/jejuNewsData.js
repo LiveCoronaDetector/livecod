@@ -25,16 +25,16 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
     },
     {
+        "title": "53번째 확진자 산방산온천·마트 등 방문",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171533"
+    },
+    {
         "title": "제주 산방산온천 코로나19 확진자 추가…8명으로 늘어",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009102146001&code=620117"
     },
     {
         "title": "제주 코로나19 확진자 3명 퇴원…18명 격리치료",
         "link": "https://www.news1.kr/articles/?4056091"
-    },
-    {
-        "title": "53번째 확진자 산방산온천·마트 등 방문",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171533"
     },
     {
         "title": "제주 51번째 확진자 동선 공개…접촉자 15명 격리",
