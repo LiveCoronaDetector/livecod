@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200912057400073?did=1195m"
     },
     {
+        "title": "박능후 \"확진자 100명대 아래로 안 꺾여···매우 우려스러워\"",
+        "link": "https://www.sedaily.com/NewsView/1Z7TSJEDWE"
+    },
+    {
         "title": "제주 산방산온천 확진자, 다른 목욕탕도 이용해",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
@@ -29,12 +33,8 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120080&t=NN"
     },
     {
-        "title": "박능후 \"확진자 100명대 아래로 안 꺾여···매우 우려스러워\"",
-        "link": "https://www.sedaily.com/NewsView/1Z7TSJEDWE"
-    },
-    {
-        "title": "거리두기 2.5단계 연장되나···코로나 신규확진 열흘째 100명대 (종합)",
-        "link": "https://www.sedaily.com/NewsView/1Z7TRO7QNA"
+        "title": "[속보] '코로나19' 어제 136명 확진, 열흘째 100명대",
+        "link": "https://www.hankyung.com/life/article/2020091220857"
     },
     {
         "title": "[코로나19] 양주시 하늘궁 집합금지명령…확진자 방문",
