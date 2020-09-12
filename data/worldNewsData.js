@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
     },
     {
-        "title": "Coronavirus cases in England doubling every eight days, study shows",
-        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
-    },
-    {
         "title": "France to consider local lockdowns amid record Covid cases",
         "link": "https://www.youtube.com/watch?v=-afeBbYa9L8"
+    },
+    {
+        "title": "Global Covid-19 vaccine equity threatened by national self-interest, says UN",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3101169/coronavirus-global-vaccine-equity-threatened-national-self"
     }
 ];
