@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China OKs human trials for nasal spray coronavirus vaccine",
-        "link": "https://www.foxnews.com/health/china-approves-human-trials-for-nasal-spray-coronavirus-vaccine"
+        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
+        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
