@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/12/canada-reports-zero-coronavirus-deaths-in-24-hour-period/"
     },
     {
-        "title": "Israel, US vote against COVID-19 resolution overwhelmingly passed by UN",
-        "link": "https://www.jpost.com/international/israel-us-vote-against-covid-19-resolution-overwhelmingly-passed-by-un-642023"
+        "title": "Record daily rise in cases in France and Greece – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/10/coronavirus-live-news-trump-says-he-perhaps-misled-americans-as-infections-rise-across-europe"
     },
     {
         "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China OKs human trials for nasal spray coronavirus vaccine",
-        "link": "https://www.foxnews.com/health/china-approves-human-trials-for-nasal-spray-coronavirus-vaccine"
+        "title": "China coronavirus vaccine: Over 100,000 people receive experimental Covid-19 vaccine",
+        "link": "https://www.vox.com/2020/9/11/21431416/coronavirus-vaccine-china-sinopharm-sinovac-emergency-authorization"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
