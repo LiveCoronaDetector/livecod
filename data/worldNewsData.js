@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africa-coronavirus-lockdowns-economy-lives-saved"
     },
     {
-        "title": "U.S. coronavirus data is 'disturbing,' Dr. Fauci says, disputing Trump's claim that U.S. is 'rounding the corner'",
-        "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
+        "title": "Air pollution from the wildfires can make people more vulnerable to coronavirus, doctors say",
+        "link": "https://www.cnn.com/2020/09/12/health/us-coronavirus-saturday/index.html"
     },
     {
         "title": "Israel, US vote against COVID-19 resolution overwhelmingly passed by UN",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
-        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
+        "title": "China OKs human trials for nasal spray coronavirus vaccine",
+        "link": "https://www.foxnews.com/health/china-approves-human-trials-for-nasal-spray-coronavirus-vaccine"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     },
     {
-        "title": "Global Covid-19 vaccine equity threatened by national self-interest, says UN",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3101169/coronavirus-global-vaccine-equity-threatened-national-self"
+        "title": "Trump Administration Plan to Reform World Health Organization Gains Little Support From Allies",
+        "link": "https://foreignpolicy.com/2020/09/11/document-of-the-week-u-s-plan-for-world-health-organization-has-few-followers/"
     }
 ];

@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6644255,
-        "사망자수": 197593,
-        "완치자수": 3918867
+        "확진자수": 6645000,
+        "사망자수": 197626,
+        "완치자수": 3918896
     },
     {
         "Name": "인도",
@@ -913,6 +913,14 @@ var marker = [
         "완치자수": 1825
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "확진자수": 4703,
+        "사망자수": 52,
+        "완치자수": 1998
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -943,14 +951,6 @@ var marker = [
         "확진자수": 4529,
         "사망자수": 93,
         "완치자수": 3747
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "확진자수": 4377,
-        "사망자수": 49,
-        "완치자수": 1998
     },
     {
         "Name": "슬로베니아",
@@ -1097,20 +1097,20 @@ var marker = [
         "완치자수": 1313
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 2595,
+        "사망자수": 16,
+        "완치자수": 676
+    },
+    {
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
         "확진자수": 2568,
         "사망자수": 49,
         "완치자수": 1290
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 2445,
-        "사망자수": 14,
-        "완치자수": 625
     },
     {
         "Name": "Guinea-Bissau",

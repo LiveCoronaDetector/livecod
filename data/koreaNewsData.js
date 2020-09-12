@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/961869.html"
     },
     {
-        "title": "조용했던 함양군 '발칵'…곳곳 접촉 택시기사발 확진자들",
-        "link": "https://www.nocutnews.co.kr/news/5411225"
-    },
-    {
-        "title": "제주 산방산온천 확진자, 다른 목욕탕도 이용해",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
-    },
-    {
-        "title": "신규 확진자 열흘째 100명대...산발적 집단감염 여전",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009121609072842"
-    },
-    {
-        "title": "홍천군 코로나19 11번째 확진자 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091100009"
+        "title": "울산 코로나19 7명 추가 확진…확진자 140명으로 늘어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002859&ref=A"
     },
     {
         "title": "[단독] LG유플러스 용산사옥서 코로나 확진자 나와",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120080&t=NN"
     },
     {
+        "title": "조용했던 함양군 '발칵'…곳곳 접촉 택시기사발 확진자들",
+        "link": "https://www.nocutnews.co.kr/news/5411225"
+    },
+    {
         "title": "일본 코로나19 신규 확진자 이틀째 600명대",
         "link": "http://yna.kr/AKR20200912057400073?did=1195m"
     },
     {
-        "title": "박능후 \"확진자 100명대 안 꺾여…매우 우려스런 상황\"",
-        "link": "https://www.nocutnews.co.kr/news/5411224"
+        "title": "[속보]통영 코로나19 3번째 확진자 발생…40대 우즈베키스탄 여성",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020091223435570760"
     },
     {
-        "title": "[코로나19] 양주시 하늘궁 집합금지명령…확진자 방문",
-        "link": "http://www.fnnews.com/news/202009121904253101"
+        "title": "신라스테이 천안, 코로나 확진자 발생으로 두 번째 임시휴업",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23870642"
+    },
+    {
+        "title": "박능후 장관 \"확진자 100명대 아래로 안 내려가 걱정\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005977034&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 확진자 발생한 SF, SD와 2경기 연기",
+        "link": "http://www.sportsseoul.com/news/read/957570?ref=naver"
     }
 ];
