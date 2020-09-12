@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7TRO7QNA"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 136명…열흘째 100명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002826&ref=A"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 136명…10일째 100명대",
         "link": "http://www.hani.co.kr/arti/society/health/961869.html"
+    },
+    {
+        "title": "함양 택시기사발 코로나 감염 2명 추가…총 4명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200912_0001163694&cID=10812&pID=10800"
+    },
+    {
+        "title": "박능후 “확진자 백명 대에서 안 꺾여…매우 우려스러운 상황”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002827&ref=A"
     },
     {
         "title": "'거리두기 2.5'도 못 꺾나…10일간 확진자 100명대(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "영국 곳곳서 코로나19 감염 확산…재생산지수 1 넘어",
         "link": "http://yna.kr/AKR20200912001700085?did=1195m"
-    },
-    {
-        "title": "세브란스 병원 확진자 23명...\"발열·인후통에도 출근\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009111802065314"
     }
 ];
