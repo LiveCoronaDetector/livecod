@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200912023651052?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 136명…10일째 100명대",
-        "link": "http://www.hani.co.kr/arti/society/health/961869.html"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 136명, 열흘째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "영국 곳곳서 코로나19 감염 확산…재생산지수 1 넘어",
         "link": "http://yna.kr/AKR20200912001700085?did=1195m"
+    },
+    {
+        "title": "軍 코로나 확진자 3명 완치..남은 환자 총 11명",
+        "link": "http://www.fnnews.com/news/202009121032358015"
     }
 ];

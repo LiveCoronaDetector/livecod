@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
     },
     {
-        "title": "코로나19 제주 50번째 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5409818"
-    },
-    {
         "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",
         "link": "https://www.news1.kr/articles/?4056378"
+    },
+    {
+        "title": "코로나19 제주 50번째 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5409818"
     },
     {
         "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171533"
     },
     {
-        "title": "코로나19 신규확진 136명 ‘확산세 여전’… 치명률 1.6%(종합)",
-        "link": "http://moneys.mt.co.kr/news/mwView.php?no=2020091210268060240"
+        "title": "제주 51번째 확진자 동선 공개…접촉자 15명 격리",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002622&ref=A"
     }
 ];
