@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.sfgate.com/news/editorspicks/article/coronavirus-study-California-December-China-spread-15562449.php"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
-    },
-    {
-        "title": "Covid-19: Fauci says US life won’t return to normal until deep into 2021",
-        "link": "https://www.theguardian.com/world/2020/sep/11/covid-19-fauci-us-life-coronavirus-vaccine"
-    },
-    {
         "title": "Trump officials interfered with CDC reports on Covid-19",
         "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/h_32e302f884583bc796f34fb041fc04a8"
+        "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
+        "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
+    },
+    {
+        "title": "Global Covid-19 vaccine equity threatened by national self-interest, says UN",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3101169/coronavirus-global-vaccine-equity-threatened-national-self"
+    },
+    {
+        "title": "Trump Administration Plan to Reform World Health Organization Gains Little Support From Allies",
+        "link": "https://foreignpolicy.com/2020/09/11/document-of-the-week-u-s-plan-for-world-health-organization-has-few-followers/"
     }
 ];
