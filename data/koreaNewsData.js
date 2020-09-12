@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091220857"
     },
     {
+        "title": "[코로나19] 양주시 하늘궁 집합금지명령…확진자 방문",
+        "link": "http://www.fnnews.com/news/202009121904253101"
+    },
+    {
+        "title": "코로나19 신규 확진자 136명, 열흘째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
+    },
+    {
         "title": "신규 확진자 열흘째 100명대...산발적 집단감염 여전",
         "link": "https://www.ytn.co.kr/_ln/0103_202009121609072842"
     },
     {
         "title": "홍천군 코로나19 11번째 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091100009"
-    },
-    {
-        "title": "[단독] LG유플러스 용산사옥서 코로나 확진자 나와",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120080&t=NN"
-    },
-    {
-        "title": "[코로나19] 양주시 하늘궁 집합금지명령…확진자 방문",
-        "link": "http://www.fnnews.com/news/202009121904253101"
     }
 ];
