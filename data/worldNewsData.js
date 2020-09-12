@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/israels-coronavirus-case-count-passes-150000-deaths-cross-1100/"
     },
     {
-        "title": "Coronavirus: France hits daily record of over 10,000 cases; protests in Germany against restrictions – live updates",
+        "title": "Protests in Germany against restrictions as French cases set new record – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/sep/12/coronavirus-live-news-france-rules-out-new-lockdown-as-victoria-records-37-more-cases"
     },
     {

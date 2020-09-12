@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200913001400082?did=1195m"
     },
     {
-        "title": "OECD, 한국 성장률전망 촉각…코로나 재확산이 관건",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020091202109958052001&ref=naver"
+        "title": "제주 53번 확진자…산방산탄산온천 직원 동선 공개",
+        "link": "http://www.fnnews.com/news/202009121428479685"
     }
 ];
