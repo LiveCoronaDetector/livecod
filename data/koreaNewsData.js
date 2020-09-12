@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7TRO7QNA"
     },
     {
-        "title": "[속보] 제주 산방산온천 확진자, 다른 목욕탕도 이용해",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
-    },
-    {
         "title": "코로나19 신규 확진자 136명…10일째 100명대",
         "link": "http://www.hani.co.kr/arti/society/health/961869.html"
     },
     {
-        "title": "박능후 \"확진자 100명대 안 꺾여…매우 우려스런 상황\"",
-        "link": "https://www.nocutnews.co.kr/news/5411224"
-    },
-    {
-        "title": "택시기사 확진자 접촉 함양 여성 2명 코로나19 추가 확진",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020091210055058298"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 136명, 열흘째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
-    },
-    {
-        "title": "함양 ‘지리산택시 택시기사발’ 코로나19 확진자 4명으로 늘어",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/961873.html"
+        "title": "MLB 샌프란시스코에 코로나 확진자 발생…샌디에이고전 연기",
+        "link": "http://yna.kr/AKR20200912028600007?did=1195m"
     },
     {
         "title": "울산 코로나19 7명 추가 확진…확진자 140명으로 늘어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002859&ref=A"
     },
     {
-        "title": "[르포] \"코로나19 음성입니다. 안심하세요\" 상인들의 눈물겨운 호소",
-        "link": "http://yna.kr/AKR20200912032400054?did=1195m"
+        "title": "함양 택시기사발 코로나 감염 2명 추가…총 4명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200912_0001163694&cID=10812&pID=10800"
     },
     {
-        "title": "서울 신규 확진자 50명 발생…사망 1명",
-        "link": "http://www.fnnews.com/news/202009121450284344"
+        "title": "신라스테이 천안, 투숙 고객 코로나19 확진에 임시 휴업",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005977048&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[속보] 세브란스병원 확진자 배식 관련 854명, 전원 '음성'",
+        "link": "https://www.hankyung.com/life/article/2020091225317"
+    },
+    {
+        "title": "박능후 \"확진자 100명대 안 꺾여…매우 우려스런 상황\"",
+        "link": "https://www.nocutnews.co.kr/news/5411224"
+    },
+    {
+        "title": "함양 택시기사 접촉한 지역 확진자 잇따라",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1333801"
+    },
+    {
+        "title": "중대본 “코로나19 급격한 확산세 꺾였지만…여전히 심각”(종합)",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200912000053"
     }
 ];

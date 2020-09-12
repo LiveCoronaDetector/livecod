@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
     },
     {
-        "title": "Israel's COVID-19 tragedy: How hubris, hasbara and Netanyahu downed the Start-Up Nation | Opinion",
-        "link": "https://www.haaretz.com/israel-news/.premium.highlight-israel-s-covid-19-tragedy-hubris-hasbara-and-netanyahu-downed-the-start-up-nation-1.9146084"
+        "title": "Greece, France, Palestine report record coronavirus cases: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/coronavirus-emergency-puts-jakarta-lockdown-live-news-200910003222088.html"
     },
     {
         "title": "French prime minister calls for prudence in order to avoid 'general lockdown'",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
-        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
+        "title": "China coronavirus vaccine: Over 100,000 people receive experimental Covid-19 vaccine",
+        "link": "https://www.vox.com/2020/9/11/21431416/coronavirus-vaccine-china-sinopharm-sinovac-emergency-authorization"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
     },
     {
-        "title": "Coronavirus cases in England doubling every eight days, study shows",
-        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
-    },
-    {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
+    },
+    {
+        "title": "Coronavirus: England 'on knife-edge' as cases rise and lockdowns grow",
+        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-uk--knife-edge-cases-rise-lockdowns-grow-birmingham-scotland"
     }
 ];
