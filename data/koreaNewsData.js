@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
     {
-        "title": "'코로나19' 신규 확진자 136명…거리두기 2.5단계 연장여부 13일 결정",
-        "link": "http://www.inews24.com/view/1298725"
-    },
-    {
         "title": "[코로나19] 양주시 하늘궁 집합금지명령…확진자 방문",
         "link": "http://www.fnnews.com/news/202009121904253101"
     },
     {
-        "title": "[전문] 포항시청 65번째 확진자 동선공개...남구 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=379978"
+        "title": "'코로나19' 신규 확진자 136명…거리두기 2.5단계 연장여부 13일 결정",
+        "link": "http://www.inews24.com/view/1298725"
+    },
+    {
+        "title": "코로나19 신규 확진자 136명, 열흘째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
     },
     {
         "title": "메르켈, 코로나19 통제반대시위에 \"비판 자유지만 평화적으로\"",
         "link": "http://yna.kr/AKR20200913001400082?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 136명, 열흘째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
+        "title": "OECD, 한국 성장률전망 촉각…코로나 재확산이 관건",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2020091202109958052001&ref=naver"
     }
 ];
