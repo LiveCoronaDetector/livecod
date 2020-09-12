@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8bc69320-f496-11ea-8d7b-f15cf5f3d08b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9ed994c0-f497-11ea-8ee9-bf5b8710209b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
     },
     {
         "title": "Coronavirus live news: France rules out new lockdown as Victoria records 37 more cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "Victoria records lowest rate of new COVID-19 infection in months | ABC News",
-        "link": "https://www.youtube.com/watch?v=IQJFkjP-G4k"
+        "title": "Sydney hospital coronavirus cluster grows I SBS News",
+        "link": "https://www.youtube.com/watch?v=g_4l7Br_Yzg"
     }
 ];

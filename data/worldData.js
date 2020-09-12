@@ -868,9 +868,9 @@ var marker = [
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
-        "확진자수": 4990,
+        "확진자수": 4996,
         "사망자수": 83,
-        "완치자수": 4479
+        "완치자수": 4490
     },
     {
         "Name": "Congo",
