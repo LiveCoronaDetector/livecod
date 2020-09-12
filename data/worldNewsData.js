@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/11/covid-19-fauci-us-life-coronavirus-vaccine"
     },
     {
-        "title": "Trump officials interfered with CDC reports on Covid-19",
-        "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
+        "title": "Coronavirus: Oxford University to resume vaccine trial after pause",
+        "link": "https://www.bbc.com/news/uk-54132066"
     },
     {
-        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
-        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
+        "title": "Trump officials interfered with CDC reports on Covid-19",
+        "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
     }
 ];
