@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
     },
     {
-        "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=eba66400-f49b-11ea-b6f5-39e91c450342&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
+        "title": "Israel's COVID-19 tragedy: How hubris, hasbara and Netanyahu downed the Start-Up Nation | Opinion",
+        "link": "https://www.haaretz.com/israel-news/.premium.highlight-israel-s-covid-19-tragedy-hubris-hasbara-and-netanyahu-downed-the-start-up-nation-1.9146084"
     },
     {
-        "title": "Coronavirus live news: France rules out new lockdown as Victoria records 37 more cases",
+        "title": "Coronavirus live news: illegal protests held in Melbourne; France rules out second lockdown",
         "link": "https://www.theguardian.com/world/live/2020/sep/12/coronavirus-live-news-france-rules-out-new-lockdown-as-victoria-records-37-more-cases"
     },
     {
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China coronavirus vaccine: Over 100,000 people receive experimental Covid-19 vaccine",
-        "link": "https://www.vox.com/2020/9/11/21431416/coronavirus-vaccine-china-sinopharm-sinovac-emergency-authorization"
+        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
+        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
     },
     {
         "title": "Woodward Book Revelations Point Up Inaccuracy Of Trump's Charges Against WHO : Goats and Soda",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
-        "title": "Coronavirus cases in England doubling every eight days, study shows",
-        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
+        "title": "Two Australian state leaders defend COVID-19 restrictions as cases ease",
+        "link": "https://japantoday.com/category/world/update-1-australia-state-leaders-defend-covid-19-curbs-as-cases-ease"
     },
     {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
