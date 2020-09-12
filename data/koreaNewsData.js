@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7TRO7QNA"
     },
     {
-        "title": "[속보] 논산 육군훈련소 훈련병 코로나19 확진",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020091218475794948"
+        "title": "코로나19 신규 확진자 136명…10일째 100명대",
+        "link": "http://www.hani.co.kr/arti/society/health/961869.html"
     },
     {
-        "title": "함양 ‘지리산택시 택시기사발’ 코로나19 확진자 4명으로 늘어",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/961873.html"
+        "title": "조용했던 함양군 '발칵'…곳곳 접촉 택시기사발 확진자들",
+        "link": "https://www.nocutnews.co.kr/news/5411225"
     },
     {
         "title": "제주 산방산온천 확진자, 다른 목욕탕도 이용해",
@@ -29,8 +29,8 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120080&t=NN"
     },
     {
-        "title": "코로나19 신규 확진자 136명…열흘째 100명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002826&ref=A"
+        "title": "일본 코로나19 신규 확진자 이틀째 600명대",
+        "link": "http://yna.kr/AKR20200912057400073?did=1195m"
     },
     {
         "title": "박능후 \"확진자 100명대 안 꺾여…매우 우려스런 상황\"",

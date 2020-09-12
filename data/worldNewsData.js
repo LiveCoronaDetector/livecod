@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
     },
     {
-        "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9bc82180-f504-11ea-bd05-17365130448f&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
+        "title": "Israel, US vote against COVID-19 resolution overwhelmingly passed by UN",
+        "link": "https://www.jpost.com/international/israel-us-vote-against-covid-19-resolution-overwhelmingly-passed-by-un-642023"
     },
     {
         "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     },
     {
-        "title": "France to consider local lockdowns amid record Covid cases",
-        "link": "https://www.youtube.com/watch?v=-afeBbYa9L8"
+        "title": "Global Covid-19 vaccine equity threatened by national self-interest, says UN",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3101169/coronavirus-global-vaccine-equity-threatened-national-self"
     }
 ];
