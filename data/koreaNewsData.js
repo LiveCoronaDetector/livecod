@@ -9,24 +9,28 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5411224"
     },
     {
-        "title": "함양 택시기사 발 코로나19 지역감염, 수도권 유입 가능성",
-        "link": "http://yna.kr/AKR20200912033000052?did=1195m"
+        "title": "함양 ‘지리산택시 택시기사발’ 코로나19 확진자 4명으로 늘어",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/961873.html"
+    },
+    {
+        "title": "[속보] 현대중공업 ‘코로나 미스터리’ 풀렸다…부산 오피스텔發 ‘n차 감염...",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020091216025488855"
     },
     {
         "title": "[속보] 제주 산방산온천 확진자, 다른 목욕탕도 이용해",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
     {
-        "title": "[속보] 세브란스병원 확진자 배식 관련 854명, 전원 '음성'",
-        "link": "https://www.hankyung.com/life/article/2020091225317"
-    },
-    {
         "title": "중대본 “코로나19 급격한 확산세 꺾였지만…여전히 심각”(종합)",
         "link": "http://news.heraldcorp.com/view.php?ud=20200912000053"
     },
     {
-        "title": "함양 ‘지리산택시 택시기사발’ 코로나19 확진자 4명으로 늘어",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/961873.html"
+        "title": "[전문] 강남구청 추가 확진자 5명 발생...누적 227명",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=379974"
+    },
+    {
+        "title": "함양 택시기사발 코로나 감염 2명 추가…총 4명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200912_0001163694&cID=10812&pID=10800"
     },
     {
         "title": "서울 신규 확진자 50명 발생…사망 1명",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[단독] LG유플러스 용산사옥서 코로나 확진자 또 나와",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120080&t=NN"
-    },
-    {
-        "title": "코로나19 신규 확진자 136명…열흘째 100명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002826&ref=A"
     }
 ];

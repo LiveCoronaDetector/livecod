@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350435"
     },
     {
+        "title": "\"농사만 지었다\" 제주 52번 확진자 진술-동선 일치",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320041"
+    },
+    {
+        "title": "제주도, 라스베이거스 포커대회 집합금지 명령 발동",
+        "link": "http://www.fnnews.com/news/202009121506204421"
+    },
+    {
         "title": "제주 50번째 코로나19 확진자 발생…게스트하우스발 감염",
         "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
     },
     {
         "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
-    },
-    {
-        "title": "제주 코로나 35번 확진자, 17일 만에 퇴원",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350436"
-    },
-    {
-        "title": "제주 산방산온천 코로나19 확진자 추가…8명으로 늘어",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009102146001&code=620117"
     }
 ];

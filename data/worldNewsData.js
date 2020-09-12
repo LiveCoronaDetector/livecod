@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
-        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
+        "title": "China coronavirus vaccine: Over 100,000 people receive experimental Covid-19 vaccine",
+        "link": "https://www.vox.com/2020/9/11/21431416/coronavirus-vaccine-china-sinopharm-sinovac-emergency-authorization"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54111209"
     },
     {
-        "title": "Coronavirus: England 'on knife-edge' as cases rise and lockdowns grow",
-        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-uk--knife-edge-cases-rise-lockdowns-grow-birmingham-scotland"
+        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
+        "link": "https://www.bbc.com/news/world-54082192"
     }
 ];
