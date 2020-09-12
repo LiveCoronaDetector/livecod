@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
-        "title": "China coronavirus vaccine: Over 100,000 people receive experimental Covid-19 vaccine",
-        "link": "https://www.vox.com/2020/9/11/21431416/coronavirus-vaccine-china-sinopharm-sinovac-emergency-authorization"
+        "title": "China Injects Hundreds of Thousands With Experimental Covid-19 Vaccines",
+        "link": "https://www.wsj.com/articles/china-injects-hundreds-of-thousands-with-experimental-covid-19-vaccines-11599834029"
     },
     {
         "title": "Woodward Book Revelations Point Up Inaccuracy Of Trump's Charges Against WHO : Goats and Soda",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
-        "link": "https://www.bbc.com/news/world-54082192"
+        "title": "September 11 coronavirus updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
     },
     {
-        "title": "Covid-19: Fauci says US life won’t return to normal until deep into 2021",
-        "link": "https://www.theguardian.com/world/2020/sep/11/covid-19-fauci-us-life-coronavirus-vaccine"
+        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
+        "link": "https://www.bbc.com/news/world-54082192"
     }
 ];

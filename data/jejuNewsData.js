@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009112029479098"
     },
     {
+        "title": "방문사실 숨긴 부부에 제주 코로나19 확산 가속",
+        "link": "https://www.nocutnews.co.kr/news/5411241"
+    },
+    {
         "title": "제주 53번째 확진자 나와…52번째 확진자 동선 공개",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
     },
@@ -17,16 +21,12 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4056378"
     },
     {
-        "title": "코로나19 제주 50번째 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5409818"
+        "title": "제주 50번째 코로나19 확진자 발생…게스트하우스발 감염",
+        "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
     },
     {
         "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
-    },
-    {
-        "title": "53번째 확진자 산방산온천·마트 등 방문",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171533"
     },
     {
         "title": "제주 산방산온천 코로나19 확진자 추가…8명으로 늘어",
