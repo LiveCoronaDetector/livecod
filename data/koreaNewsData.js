@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219318"
     },
     {
-        "title": "코로나19 신규 확진자 136명…국내 발생 118명(속보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01374326625899464"
+        "title": "[속보] 코로나19 신규 확진자 136명, 열흘째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
     },
     {
-        "title": "[속보]어제 코로나19 신규확진자 136명…열흘째 100명대 유지",
-        "link": "https://www.donga.com/news/article/all/20200912/102901304/1"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 136명…국내 발생 118명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005976895&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "러시아 코로나 하루 확진자 7월말 수준 재증가…\"5천500명 넘어\"",
-        "link": "http://yna.kr/AKR20200911174800080?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 신규 환자 136명...10일째 100명대",
-        "link": "https://hankookilbo.com/News/Read/A2020091209070004227?did=NA"
-    },
-    {
-        "title": "코로나19 신규 확진자 9일째 100명대…규모는 다소 커져",
-        "link": "http://www.hani.co.kr/arti/society/society_general/961763.html"
-    },
-    {
-        "title": "[속보] '코로나19' 어제 136명 확진, 열흘째 100명대",
-        "link": "https://www.hankyung.com/life/article/2020091220857"
+        "title": "[속보] 코로나19 신규 확진자 136명…열흘째 100명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002826&ref=A"
     },
     {
         "title": "[속보] 코로나19 신규 확진 136명·사망 5명…100명대 속 소폭 감소",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120040&t=NN"
     },
     {
-        "title": "[속보] 코로나19 신규확진 136명···열흘째 100명대",
+        "title": "거리두기 2.5단계 연장되나···코로나 신규확진 열흘째 100명대 (종합)",
         "link": "https://www.sedaily.com/NewsView/1Z7TRO7QNA"
+    },
+    {
+        "title": "'거리두기 2.5'도 못 꺾나…10일간 확진자 100명대(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01390726625899464"
+    },
+    {
+        "title": "[속보] '코로나19' 어제 136명 확진, 열흘째 100명대",
+        "link": "https://www.hankyung.com/life/article/2020091220857"
+    },
+    {
+        "title": "러시아 코로나 하루 확진자 7월말 수준 재증가…\"5천500명 넘어\"",
+        "link": "http://yna.kr/AKR20200911174800080?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 9일째 100명대…규모는 다소 커져",
+        "link": "http://www.hani.co.kr/arti/society/society_general/961763.html"
+    },
+    {
+        "title": "[속보] 함양 택시기사발 코로나 감염 2명 추가…총 4명",
+        "link": "http://www.newsis.com/view/?id=NISX20200912_0001163690&cID=10812&pID=10800"
     }
 ];

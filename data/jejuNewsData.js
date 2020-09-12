@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5409818"
     },
     {
-        "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
-    },
-    {
         "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",
         "link": "https://www.news1.kr/articles/?4056378"
+    },
+    {
+        "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
     },
     {
         "title": "제주 산방산온천 코로나19 확진자 추가…8명으로 늘어",

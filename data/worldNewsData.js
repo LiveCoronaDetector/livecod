@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/11/us-coronavirus-data-is-disturbing-dr-fauci-says-in-disputing-trump.html"
     },
     {
-        "title": "Greece, France, Palestine report record coronavirus cases: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/coronavirus-emergency-puts-jakarta-lockdown-live-news-200910003222088.html"
+        "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8bc69320-f496-11ea-8d7b-f15cf5f3d08b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
     },
     {
         "title": "Coronavirus live news: France rules out new lockdown as Victoria records 37 more cases",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "Victoria's curfew is 'not about human rights': Andrews",
-        "link": "https://www.youtube.com/watch?v=f36CvLXhCyU"
+        "title": "Victoria records lowest rate of new COVID-19 infection in months | ABC News",
+        "link": "https://www.youtube.com/watch?v=IQJFkjP-G4k"
     }
 ];
