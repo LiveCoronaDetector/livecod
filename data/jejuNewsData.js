@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009112029479098"
     },
     {
-        "title": "제주 산방산탄산온천 확진자, 인근 다른 목욕탕도 방문해 발칵",
-        "link": "https://news.joins.com/article/olink/23465163"
-    },
-    {
         "title": "제주 53번째 확진자 나와…52번째 확진자 동선 공개",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
     },
@@ -29,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
     },
     {
+        "title": "제주 42번 코로나 확진자, 13일 만에 퇴원",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350435"
+    },
+    {
         "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
     },
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009102146001&code=620117"
     },
     {
-        "title": "53번째 확진자 산방산온천·마트 등 방문",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171533"
+        "title": "제주 코로나19 확진자 3명 퇴원…18명 격리치료",
+        "link": "https://www.news1.kr/articles/?4056091"
     }
 ];
