@@ -36,9 +36,9 @@ var marker = [
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "확진자수": 710067,
-        "사망자수": 30344,
-        "완치자수": 544745
+        "확진자수": 716670,
+        "사망자수": 30470,
+        "완치자수": 552214
     },
     {
         "Name": "콜롬비아",
@@ -1236,9 +1236,9 @@ var marker = [
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "확진자수": 1399,
+        "확진자수": 1435,
         "사망자수": 19,
-        "완치자수": 360
+        "완치자수": 404
     },
     {
         "Name": "안도라",
@@ -1332,7 +1332,7 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 638,
+        "확진자수": 641,
         "사망자수": 5,
         "완치자수": 270
     },
@@ -1348,9 +1348,9 @@ var marker = [
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "확진자수": 530,
+        "확진자수": 531,
         "사망자수": 19,
-        "완치자수": 333
+        "완치자수": 387
     },
     {
         "Name": "Tanzania",
@@ -1548,7 +1548,7 @@ var marker = [
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
-        "확진자수": 62,
+        "확진자수": 64,
         "사망자수": 0,
         "완치자수": 61
     },

@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002622&ref=A"
     },
     {
-        "title": "'산방산온천 직원' 제주 53번째 확진자 최근 동선 공개",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320040"
+        "title": "제주 산방산온천 방문 확진자, 다른 목욕탕도 이용…감염 확산세",
+        "link": "http://yna.kr/AKR20200912029800056?did=1195m"
     },
     {
-        "title": "코로나19 신규확진 136명 ‘확산세 여전’… 치명률 1.6%(종합)",
-        "link": "http://moneys.mt.co.kr/news/mwView.php?no=2020091210268060240"
+        "title": "53번째 확진자 산방산온천·마트 등 방문",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171533"
     }
 ];
