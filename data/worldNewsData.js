@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     },
     {
-        "title": "September 11 coronavirus updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
