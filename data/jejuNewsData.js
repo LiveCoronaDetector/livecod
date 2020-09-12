@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
     },
     {
-        "title": "제주도, 카드게임 대회 집합금지명령 발동",
-        "link": "http://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2020091221062866823?feed=na"
-    },
-    {
         "title": "제주 42번 코로나 확진자, 13일 만에 퇴원",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350435"
+    },
+    {
+        "title": "제주도, 카드게임 대회 집합금지명령 발동",
+        "link": "http://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2020091221062866823?feed=na"
     },
     {
         "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",

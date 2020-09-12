@@ -10,11 +10,11 @@ var worldNewsData = [
     },
     {
         "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3a76c6a0-f4fc-11ea-a077-7d68c059c444&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=80f75780-f500-11ea-b79b-8f902865f076&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
     },
     {
-        "title": "French prime minister calls for prudence in order to avoid 'general lockdown'",
-        "link": "https://www.euronews.com/2020/09/11/france-set-to-announce-stricter-measures-to-combat-covid-19-spread"
+        "title": "German schools, reopened a month ago, have seen no major coronavirus outbreaks",
+        "link": "https://www.washingtonpost.com/world/europe/covid-schools-germany/2020/09/10/309648a4-eedf-11ea-bd08-1b10132b458f_story.html"
     },
     {
         "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
     },
     {
-        "title": "Coronavirus: France sets daily record with almost 10,000 new cases",
-        "link": "https://www.bbc.com/news/world-europe-54111209"
+        "title": "France to consider local lockdowns amid record Covid cases",
+        "link": "https://www.youtube.com/watch?v=-afeBbYa9L8"
     }
 ];
