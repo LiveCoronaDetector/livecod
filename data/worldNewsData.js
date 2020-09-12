@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/south-africa-coronavirus-lockdowns-economy-lives-saved"
     },
     {
-        "title": "Air pollution from the wildfires can make people more vulnerable to coronavirus, doctors say",
-        "link": "https://www.cnn.com/2020/09/12/health/us-coronavirus-saturday/index.html"
+        "title": "Canada reports zero COVID-19 deaths in 24-hour time period",
+        "link": "https://nypost.com/2020/09/12/canada-reports-zero-coronavirus-deaths-in-24-hour-period/"
     },
     {
         "title": "Israel, US vote against COVID-19 resolution overwhelmingly passed by UN",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/11/911968726/woodward-book-casts-new-light-on-trumps-fight-with-who"
     },
     {
-        "title": "Coronavirus cases in England doubling every eight days, study shows",
-        "link": "https://www.theguardian.com/world/2020/sep/11/coronavirus-cases-in-england-doubling-every-eight-days-study-shows"
+        "title": "Coronavirus: Oxford University vaccine trial paused after participant falls ill",
+        "link": "https://www.bbc.com/news/world-54082192"
     },
     {
         "title": "Trump Administration Plan to Reform World Health Organization Gains Little Support From Allies",

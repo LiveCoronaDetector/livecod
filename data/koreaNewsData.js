@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120080&t=NN"
     },
     {
-        "title": "거리두기 2.5단계 연장되나···코로나 신규확진 열흘째 100명대 (종합)",
-        "link": "https://www.sedaily.com/NewsView/1Z7TRO7QNA"
+        "title": "박능후 \"확진자 100명대 아래로 안 꺾여···매우 우려스러워\"",
+        "link": "https://www.sedaily.com/NewsView/1Z7TSJEDWE"
     },
     {
-        "title": "박능후 장관 \"확진자 100명대 아래로 안 내려가 걱정\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005977034&plink=ORI&cooper=NAVER"
+        "title": "거리두기 2.5단계 연장되나···코로나 신규확진 열흘째 100명대 (종합)",
+        "link": "https://www.sedaily.com/NewsView/1Z7TRO7QNA"
     },
     {
         "title": "[코로나19] 양주시 하늘궁 집합금지명령…확진자 방문",
