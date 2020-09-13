@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427151"
     },
     {
-        "title": "제주 50번째 코로나19 확진자 발생…게스트하우스발 감염",
-        "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
+        "title": "코로나19 제주 50번째 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5409818"
     }
 ];

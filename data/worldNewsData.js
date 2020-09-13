@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=yVv0lkNERVo"
     },
     {
-        "title": "Trump officials interfered with CDC reports on Covid-19",
-        "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
-    },
-    {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
         "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
     },
     {
-        "title": "Global Covid-19 vaccine equity threatened by national self-interest, says UN",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3101169/coronavirus-global-vaccine-equity-threatened-national-self"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: Oxford University to resume vaccine trial after pause",
+        "link": "https://www.bbc.com/news/uk-54132066"
     }
 ];
