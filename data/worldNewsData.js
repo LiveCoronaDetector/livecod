@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
-        "title": "Israel’s coronavirus case count passes 150,000, deaths cross 1,100",
-        "link": "https://www.timesofisrael.com/israels-coronavirus-case-count-passes-150000-deaths-cross-1100/"
+        "title": "Israel to be first country to enter a 2nd nationwide COVID-19 lockdown - Business Insider",
+        "link": "https://www.businessinsider.com/israel-shutdown-again-covid-19-coronavirus-2020-9"
     },
     {
         "title": "Protests in Germany against restrictions as French cases set new record – as it happened",

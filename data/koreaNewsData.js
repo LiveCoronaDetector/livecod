@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7TSJEDWE"
     },
     {
+        "title": "광주·전남 코로나19 진정…9~11일 한 자릿수, 12일 '0'(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200913_0001163983&cID=10201&pID=10200"
+    },
+    {
         "title": "제주 산방산온천 확진자, 다른 목욕탕도 이용해",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "메르켈, 코로나19 통제반대시위에 \"비판 자유지만 평화적으로\"",
         "link": "http://yna.kr/AKR20200913001400082?did=1195m"
-    },
-    {
-        "title": "제주 53번 확진자…산방산탄산온천 직원 동선 공개",
-        "link": "http://www.fnnews.com/news/202009121428479685"
     }
 ];
