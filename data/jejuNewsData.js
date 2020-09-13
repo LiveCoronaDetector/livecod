@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
     },
     {
+        "title": "충북해양교육원 제주분원 코로나환자 접촉자 수용",
+        "link": "https://www.inews365.com/news/article.html?no=636563"
+    },
+    {
         "title": "제주 코로나 35번 확진자, 17일 만에 퇴원",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350436"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 50번째 코로나19 확진자 발생…게스트하우스발 감염",
         "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
-    },
-    {
-        "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
     }
 ];

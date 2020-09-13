@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009130943592034"
     },
     {
-        "title": "대구서 코로나19 확진자 14명 발생",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/961900.html"
-    },
-    {
         "title": "코로나19 신규 확진자 121명…지역발생 한달만에 99명",
         "link": "http://www.hani.co.kr/arti/society/health/961892.html"
     },
     {
         "title": "서울 코로나 신규확진자 31명, 한달만에 최저…양성률은 1.1%",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "대구서 코로나19 확진자 14명 발생",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/961900.html"
     },
     {
         "title": "[속보] 코로나19 신규확진 121명…11일째 100명대",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
     },
     {
-        "title": "신규확진 감소세 중 '해외유입' 확진자는 계속 증가(종합)",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200913000041"
+        "title": "서울 코로나19 확진자 31명 늘어…70·80대 기저질환자 3명 사망(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200913_0001164134&cID=14001&pID=14000"
     },
     {
         "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",

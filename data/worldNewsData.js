@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/13/coronavirus-live-news-france-cases-top-10000-in-one-day-victoria-records-41-new-infections"
     },
     {
-        "title": "Protests in Germany against restrictions as French cases set new record – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/12/coronavirus-live-news-france-rules-out-new-lockdown-as-victoria-records-37-more-cases"
+        "title": "India has one of the world's lowest Covid-19 mortality rates. But the numbers don't tell the whole story",
+        "link": "https://www.cnn.com/2020/09/11/asia/india-covid-death-rate-explainer-intl-hnk-scli/index.html"
     },
     {
         "title": "The coronavirus may have been in California before China announced outbreak, study suggests",
