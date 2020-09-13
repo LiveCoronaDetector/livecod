@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015006023&code=61121111&cp=nv"
     },
     {
-        "title": "전 세계 코로나 2900만명 눈앞…하루 확진자도 31만명 돌파",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=406086&class=42&grp="
-    },
-    {
         "title": "인천 70대 코로나19 확진자 사망…배우자는 완치돼 퇴원",
         "link": "http://yna.kr/AKR20200913024800065?did=1195m"
+    },
+    {
+        "title": "'20만·미국은 실패' 타임誌, 흑색 표지로 코로나 경각심 고취",
+        "link": "http://www.newsis.com/view/?id=NISX20200913_0001164172&cID=10101&pID=10100"
     },
     {
         "title": "中학자 \"코로나, 우한 연구소서 나왔다…과학적 증거 곧 공개\"",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
     },
     {
-        "title": "[종합] 코로나19 확진자 121명 증가...서울 30명, 경기 27명, 대구 14명",
-        "link": "http://www.fnnews.com/news/202009130943592034"
+        "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
     }
 ];
