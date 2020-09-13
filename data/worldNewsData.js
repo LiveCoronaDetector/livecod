@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
-        "title": "Israel, US vote against COVID-19 resolution overwhelmingly passed by UN",
-        "link": "https://www.jpost.com/international/israel-us-vote-against-covid-19-resolution-overwhelmingly-passed-by-un-642023"
+        "title": "Israel en route to coronavirus lockdown: Will ministers vote in favor?",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-2651-new-cases-on-saturday-death-toll-1103-642074"
     },
     {
         "title": "Coronavirus live news: France daily cases top 10,000; Victoria reports 41 new infections",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.sfgate.com/news/editorspicks/article/coronavirus-study-California-December-China-spread-15562449.php"
     },
     {
-        "title": "'Deliberate scaremongering' in Victoria over COVID-19 deaths",
-        "link": "https://www.youtube.com/watch?v=yVv0lkNERVo"
-    },
-    {
-        "title": "Trump officials interfered with CDC reports on Covid-19",
-        "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
+        "title": "Trump aides review CDC coronavirus reports to better align with president's upbeat messaging: report",
+        "link": "https://www.foxnews.com/politics/trump-aides-review-cdc-coronavirus-reports-to-better-align-with-presidents-messaging-report"
     },
     {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "The latest on the coronavirus pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: Oxford University to resume vaccine trial after pause",
+        "link": "https://www.bbc.com/news/uk-54132066"
     }
 ];
