@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보] 코로나19 신규확진 121명…11일째 100명대",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009130025&t=NN"
+    },
+    {
         "title": "전세계 코로나 확진자 2천900만명 육박",
         "link": "http://yna.kr/AKR20200913024900009?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규확진 121명…11일째 100명대",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009130025&t=NN"
+        "title": "전 세계 코로나 2900만명 눈앞…하루 확진자도 31만명 돌파",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=406086&class=42&grp="
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 121명…지역발생 99명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
     },
     {
         "title": "신규확진 감소세 중 '해외유입' 확진자는 계속 증가(종합)",
         "link": "http://news.heraldcorp.com/view.php?ud=20200913000041"
     },
     {
-        "title": "[속보] 세계 코로나 누적 확진자, 2900만명 육박",
-        "link": "https://www.hankyung.com/life/article/2020091337487"
-    },
-    {
-        "title": "전북, 코로나19 확진자 2명 추가 발생…모두 해외 입국",
-        "link": "https://www.news1.kr/articles/?4056763"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 121명…지역발생 99명",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
+        "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
     }
 ];
