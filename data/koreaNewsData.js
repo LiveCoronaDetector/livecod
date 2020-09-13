@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015006023&code=61121111&cp=nv"
     },
     {
-        "title": "전 세계 코로나 2900만명 눈앞…하루 확진자도 31만명 돌파",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=406086&class=42&grp="
-    },
-    {
         "title": "[종합] 코로나19 확진자 121명 증가...서울 30명, 경기 27명, 대구 14명",
         "link": "http://www.fnnews.com/news/202009130943592034"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 신규 확진자 121명…11일째 ‘100명대’ 지속",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219395"
+    },
+    {
+        "title": "코로나19 신규 확진자 121명…지역발생 한달만에 99명",
+        "link": "http://www.hani.co.kr/arti/society/health/961892.html"
     }
 ];
