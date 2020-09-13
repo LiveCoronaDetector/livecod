@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009112029479098"
     },
     {
+        "title": "충북교육청 제주해양교육원 코로나19 격리시설 활용",
+        "link": "http://www.newspim.com/news/view/20200913000099"
+    },
+    {
         "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",
         "link": "https://www.news1.kr/articles/?4056378"
     },
     {
         "title": "제주 53번째 확진자 나와…52번째 확진자 동선 공개",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
-    },
-    {
-        "title": "충북해양교육원 제주분원 코로나환자 접촉자 수용",
-        "link": "https://www.inews365.com/news/article.html?no=636563"
     },
     {
         "title": "제주 코로나 35번 확진자, 17일 만에 퇴원",
