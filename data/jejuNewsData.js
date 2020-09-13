@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=350435"
     },
     {
-        "title": "\"농사만 지었다\" 제주 52번 확진자 진술-동선 일치",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320041"
-    },
-    {
         "title": "제주도, 라스베이거스 포커대회 집합금지 명령 발동",
         "link": "http://www.fnnews.com/news/202009121506204421"
+    },
+    {
+        "title": "제주 코로나 35번 확진자, 17일 만에 퇴원",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350436"
     }
 ];
