@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/breaking-news/coronavirus-2651-new-cases-on-saturday-death-toll-1103-642074"
     },
     {
-        "title": "Protests in Germany against restrictions as French cases set new record – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/12/coronavirus-live-news-france-rules-out-new-lockdown-as-victoria-records-37-more-cases"
+        "title": "‘We’ve learned how we need to act’: Spain braces for second wave of Covid",
+        "link": "https://www.theguardian.com/world/2020/sep/13/weve-learned-how-we-need-to-act-spain-braces-for-second-wave-of-covid"
     },
     {
         "title": "What explains surge in coronavirus numbers in India?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
+        "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
+        "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
     },
     {
         "title": "Trump officials seek greater control over CDC reports on coronavirus",
         "link": "https://www.washingtonpost.com/health/2020/09/12/trump-control-over-cdc-reports/"
     },
     {
-        "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
-        "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
     }
 ];
