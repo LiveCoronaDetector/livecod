@@ -14,7 +14,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus live news: France daily cases top 10,000; Victoria reports 41 new infections",
-        "link": "https://www.theguardian.com/world/live/2020/sep/13/coronavirus-live-news-france-cases-top-10000-in-one-day-victoria-records-41-new-infections"
+        "link": "https://news.google.com/articles/CAIiENp61tZLtUFluMkcz6W07-AqFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Protests in Germany against restrictions as French cases set new record – as it happened",
