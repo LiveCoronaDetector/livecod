@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.newspim.com/news/view/20200913000099"
     },
     {
+        "title": "[종합] 추석 앞두고 제주 코로나19 방역 '총력전'",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150929"
+    },
+    {
         "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",
         "link": "https://www.news1.kr/articles/?4056378"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 35번.42번 코로나 확진자 퇴원...'남은 입원치료 환자 17명'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427151"
-    },
-    {
-        "title": "코로나19 제주 50번째 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5409818"
     }
 ];

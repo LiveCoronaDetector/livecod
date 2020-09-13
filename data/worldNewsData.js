@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.sfgate.com/news/editorspicks/article/coronavirus-study-California-December-China-spread-15562449.php"
     },
     {
-        "title": "Trump officials seek greater control over CDC reports on coronavirus",
-        "link": "https://www.washingtonpost.com/health/2020/09/12/trump-control-over-cdc-reports/"
+        "title": "'Deliberate scaremongering' in Victoria over COVID-19 deaths",
+        "link": "https://www.youtube.com/watch?v=yVv0lkNERVo"
     },
     {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
+        "title": "Trump officials seek greater control over CDC reports on coronavirus",
+        "link": "https://www.washingtonpost.com/health/2020/09/12/trump-control-over-cdc-reports/"
     }
 ];
