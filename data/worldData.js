@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6674763,
-        "사망자수": 198119,
-        "완치자수": 3945700
+        "확진자수": 6676156,
+        "사망자수": 198124,
+        "완치자수": 3950354
     },
     {
         "Name": "인도",
@@ -14,7 +14,7 @@ var marker = [
         "Name_en": "India",
         "확진자수": 4751788,
         "사망자수": 78614,
-        "완치자수": 3699306
+        "완치자수": 3699298
     },
     {
         "Name": "브라질",
@@ -204,9 +204,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 136119,
+        "확진자수": 136141,
         "사망자수": 9170,
-        "완치자수": 120071
+        "완치자수": 120075
     },
     {
         "Name": "Bolivia",
@@ -598,7 +598,7 @@ var marker = [
         "Name_en": "Libya",
         "확진자수": 22348,
         "사망자수": 354,
-        "완치자수": 2506
+        "완치자수": 12100
     },
     {
         "Name": "카메룬",
@@ -1286,7 +1286,7 @@ var marker = [
         "Name_en": "Vietnam",
         "확진자수": 1060,
         "사망자수": 35,
-        "완치자수": 902
+        "완치자수": 910
     },
     {
         "Name": "French Polynesia",
@@ -1505,20 +1505,20 @@ var marker = [
         "완치자수": 139
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "확진자수": 145,
+        "사망자수": 1,
+        "완치자수": 56
+    },
+    {
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
         "확진자수": 139,
         "사망자수": 0,
         "완치자수": 136
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "확진자수": 135,
-        "사망자수": 1,
-        "완치자수": 55
     },
     {
         "Name": "리히텐슈타인",
@@ -1540,9 +1540,9 @@ var marker = [
         "Name": "British Virgin Islands",
         "Name_ch": "",
         "Name_en": "British Virgin Islands",
-        "확진자수": 64,
+        "확진자수": 66,
         "사망자수": 1,
-        "완치자수": 30
+        "완치자수": 37
     },
     {
         "Name": "St. Vincent Grenadines",
