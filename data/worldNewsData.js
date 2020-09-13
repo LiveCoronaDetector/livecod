@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
-    },
-    {
         "title": "President of North Georgia Technical College loses battle with COVID-19",
         "link": "https://newschannel9.com/news/local/president-of-north-georgia-technical-college-loses-battle-with-covid-19"
     },
     {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
         "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
     }
 ];
