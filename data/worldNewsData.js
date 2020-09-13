@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
-        "title": "Israel to be first country to enter a 2nd nationwide COVID-19 lockdown - Business Insider",
-        "link": "https://www.businessinsider.com/israel-shutdown-again-covid-19-coronavirus-2020-9"
+        "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ae04bee0-f58a-11ea-935d-576a01fd431e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
     },
     {
         "title": "Coronavirus live news: France daily cases top 10,000; Victoria reports 41 new infections",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=yVv0lkNERVo"
     },
     {
+        "title": "Trump officials interfered with CDC reports on Covid-19",
+        "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
+    },
+    {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
         "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus: Oxford University to resume vaccine trial after pause",
-        "link": "https://www.bbc.com/news/uk-54132066"
+        "title": "Trump Administration Plan to Reform World Health Organization Gains Little Support From Allies",
+        "link": "https://foreignpolicy.com/2020/09/11/document-of-the-week-u-s-plan-for-world-health-organization-has-few-followers/"
     }
 ];
