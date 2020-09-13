@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200913024800065?did=1195m"
     },
     {
-        "title": "中학자 \"코로나, 우한 연구소서 나왔다…과학적 증거 곧 공개\"",
-        "link": "https://news.joins.com/article/olink/23465409"
-    },
-    {
         "title": "서울 코로나 신규확진자 31명, 한달만에 최저…양성률은 1.1%",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
         "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
+    },
+    {
+        "title": "코로나19 어제 신규 확진자 121명…11일째 ‘100명대’ 지속",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219395"
     }
 ];
