@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200913024900009?did=1195m"
     },
     {
+        "title": "대구 확진자 또 증가세… 교회·사업설명회 잇따라 확진",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015006023&code=61121111&cp=nv"
+    },
+    {
         "title": "전 세계 코로나 2900만명 눈앞…하루 확진자도 31만명 돌파",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=406086&class=42&grp="
     },
@@ -17,24 +21,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009130943592034"
     },
     {
-        "title": "서울 코로나 신규확진자 31명, 한달만에 최저…양성률은 1.1%",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] 코로나19 신규확진 121명…11일째 100명대",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009130025&t=NN"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 121명…지역발생 99명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
+    },
+    {
+        "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
     },
     {
         "title": "인천 70대 코로나19 확진자 사망…배우자는 완치돼 퇴원",
         "link": "http://yna.kr/AKR20200913024800065?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
+        "title": "서울 코로나 신규확진자 31명, 한달만에 최저…양성률은 1.1%",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 어제 신규 확진자 121명…11일째 ‘100명대’ 지속",

@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009121506204421"
     },
     {
-        "title": "[종합] 추석 앞두고 제주 코로나19 방역 '총력전'",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150929"
+        "title": "코로나19 제주 50번째 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5409818"
     }
 ];
