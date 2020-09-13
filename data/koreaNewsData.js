@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009130943592034"
     },
     {
+        "title": "대구서 코로나19 확진자 14명 발생",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/961900.html"
+    },
+    {
         "title": "코로나19 신규 확진자 121명…지역발생 한달만에 99명",
         "link": "http://www.hani.co.kr/arti/society/health/961892.html"
     },
     {
-        "title": "전세계 코로나 확진자 2천900만명 육박",
-        "link": "http://yna.kr/AKR20200913024900009?did=1195m"
-    },
-    {
         "title": "서울 코로나 신규확진자 31명, 한달만에 최저…양성률은 1.1%",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "전세계 코로나 확진자 2천900만명 육박",
+        "link": "http://yna.kr/AKR20200913024900009?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규확진 121명…11일째 100명대",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200913000041"
     },
     {
-        "title": "대구서 코로나19 신규 확진자 14명 추가···“11일 만에 지역사회 감염 두자...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009131031001&code=620103"
+        "title": "[속보] 세계 코로나 누적 확진자, 2900만명 육박",
+        "link": "https://www.hankyung.com/life/article/2020091337487"
     },
     {
-        "title": "[속보] 전세계 코로나 신규 확진자 31만···사상 최고치 경신",
-        "link": "https://www.sedaily.com/NewsView/1Z7U90QXSS"
+        "title": "전북, 코로나19 확진자 2명 추가 발생…모두 해외 입국",
+        "link": "https://www.news1.kr/articles/?4056763"
     },
     {
-        "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
-    },
-    {
-        "title": "코로나19 어제 신규 확진자 121명…11일째 ‘100명대’ 지속",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219395"
+        "title": "[속보] 코로나19 신규 확진자 121명…지역발생 99명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
     }
 ];
