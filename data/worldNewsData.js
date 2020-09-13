@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.sfgate.com/news/editorspicks/article/coronavirus-study-California-December-China-spread-15562449.php"
     },
     {
-        "title": "Trump officials interfered with CDC reports on Covid-19",
-        "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
+        "title": "COVID-19 update: Premier Daniel Andrews is live I SBS News",
+        "link": "https://www.youtube.com/watch?v=bwNHhjx3mZk"
     },
     {
-        "title": "'Selfish, Unlawful, Wrong': Andrews chastises anti-lockdown protesters",
-        "link": "https://www.youtube.com/watch?v=_KOI_OL3QcE"
+        "title": "Trump officials interfered with CDC reports on Covid-19",
+        "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
     },
     {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
-        "link": "https://news.google.com/articles/CBMinQFodHRwczovL3d3dy53aG8uaW50L25ld3Mtcm9vbS9kZXRhaWwvMTAtMDktMjAyMC1jb3JvbmF2aXJ1cy1nbG9iYWwtcmVzcG9uc2UtYWNjZXNzLXRvLWNvdmlkLTE5LXRvb2xzLWFjY2VsZXJhdG9yLWZhY2lsaXRhdGlvbi1jb3VuY2lsLWhvbGRzLWluYXVndXJhbC1tZWV0aW5n0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     }
 ];
