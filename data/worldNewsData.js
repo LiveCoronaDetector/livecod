@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.sfgate.com/news/editorspicks/article/coronavirus-study-California-December-China-spread-15562449.php"
     },
     {
-        "title": "COVID-19 update: Premier Daniel Andrews is live I SBS News",
-        "link": "https://www.youtube.com/watch?v=bwNHhjx3mZk"
+        "title": "'Deliberate scaremongering' in Victoria over COVID-19 deaths",
+        "link": "https://www.youtube.com/watch?v=yVv0lkNERVo"
     },
     {
         "title": "The latest on the coronavirus pandemic",

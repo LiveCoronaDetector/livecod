@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009130943592034"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 121명…11일째 100명 대 유지",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5003080&ref=A"
+        "title": "[속보] 코로나19 신규 확진자 121명…지역발생 99명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
     },
     {
-        "title": "[속보] 코로나19 신규확진 121명…11일째 100명대",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009130025&t=NN"
+        "title": "[속보] 코로나19 신규 확진자 121명…지역발생 한달만에 99명",
+        "link": "http://www.hani.co.kr/arti/society/health/961892.html"
     },
     {
-        "title": "코로나19 신규 확진자 136명…10일째 100명대",
-        "link": "http://www.hani.co.kr/arti/society/health/961869.html"
-    },
-    {
-        "title": "조용했던 함양군 '발칵'…곳곳 접촉 택시기사발 확진자들",
-        "link": "https://www.nocutnews.co.kr/news/5411225"
-    },
-    {
-        "title": "일본 코로나19 신규 확진자 이틀째 600명대",
-        "link": "http://yna.kr/AKR20200912057400073?did=1195m"
+        "title": "신규확진 감소세 중 '해외유입' 확진자는 계속 증가(종합)",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200913000041"
     },
     {
         "title": "[속보]코로나19 어제 신규 확진자 121명…11일째 '100명대' 지속",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219395"
     },
     {
+        "title": "전북, 코로나19 확진자 2명 추가 발생…모두 해외 입국",
+        "link": "https://www.news1.kr/articles/?4056763"
+    },
+    {
         "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
         "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
     },
     {
-        "title": "박능후 \"확진자 100명대 아래로 안 꺾여···매우 우려스러워\"",
-        "link": "https://www.sedaily.com/NewsView/1Z7TSJEDWE"
+        "title": "[전문] 용인시청 339·340·341번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=379981"
     },
     {
-        "title": "[속보] 코로나19 어제 121명 신규확진…11일째 100명대",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020091309391338340"
+        "title": "[속보] 서울 어제 신규확진자 31명, 한달만에 최저…양성율도 최저치",
+        "link": "https://www.hankyung.com/life/article/2020091336557"
+    },
+    {
+        "title": "통영 코로나19 3번 확진자 접촉자 전원 음성",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020091309295232934"
     }
 ];
