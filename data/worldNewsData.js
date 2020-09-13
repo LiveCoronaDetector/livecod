@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.sfgate.com/news/editorspicks/article/coronavirus-study-California-December-China-spread-15562449.php"
     },
     {
-        "title": "Trump aides review CDC coronavirus reports to better align with president's upbeat messaging: report",
-        "link": "https://www.foxnews.com/politics/trump-aides-review-cdc-coronavirus-reports-to-better-align-with-presidents-messaging-report"
+        "title": "Trump officials seek greater control over CDC reports on coronavirus",
+        "link": "https://www.washingtonpost.com/health/2020/09/12/trump-control-over-cdc-reports/"
     },
     {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
         "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
+        "title": "I was infected with coronavirus in March, six months on I’m still unwell",
+        "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
-        "title": "Coronavirus: Oxford University to resume vaccine trial after pause",
-        "link": "https://www.bbc.com/news/uk-54132066"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
     }
 ];
