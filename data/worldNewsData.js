@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
-        "title": "Israel Headed for Second Nationwide Coronavirus Lockdown",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ae04bee0-f58a-11ea-935d-576a01fd431e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMS9pc3JhZWwtaGVhZGVkLWZvci1leHRyYW9yZGluYXJ5LXNlY29uZC1jb3JvbmF2aXJ1cy1sb2NrZG93bg=="
+        "title": "Israel, US vote against COVID-19 resolution overwhelmingly passed by UN",
+        "link": "https://www.jpost.com/international/israel-us-vote-against-covid-19-resolution-overwhelmingly-passed-by-un-642023"
     },
     {
         "title": "Coronavirus live news: France daily cases top 10,000; Victoria reports 41 new infections",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
     },
     {
-        "title": "Trump Administration Plan to Reform World Health Organization Gains Little Support From Allies",
-        "link": "https://foreignpolicy.com/2020/09/11/document-of-the-week-u-s-plan-for-world-health-organization-has-few-followers/"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
     }
 ];
