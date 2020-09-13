@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015006023&code=61121111&cp=nv"
     },
     {
-        "title": "인천 70대 코로나19 확진자 사망…배우자는 완치돼 퇴원",
-        "link": "http://yna.kr/AKR20200913024800065?did=1195m"
+        "title": "전 세계 코로나 2900만명 눈앞…하루 확진자도 31만명 돌파",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=406086&class=42&grp="
     },
     {
-        "title": "'20만·미국은 실패' 타임誌, 흑색 표지로 코로나 경각심 고취",
-        "link": "http://www.newsis.com/view/?id=NISX20200913_0001164172&cID=10101&pID=10100"
+        "title": "인천 70대 코로나19 확진자 사망…배우자는 완치돼 퇴원",
+        "link": "http://yna.kr/AKR20200913024800065?did=1195m"
     },
     {
         "title": "中학자 \"코로나, 우한 연구소서 나왔다…과학적 증거 곧 공개\"",

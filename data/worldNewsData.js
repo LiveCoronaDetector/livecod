@@ -22,11 +22,15 @@ var worldNewsData = [
     },
     {
         "title": "The coronavirus may have been in California before China announced outbreak, study suggests",
-        "link": "https://www.sfgate.com/news/editorspicks/article/coronavirus-study-California-December-China-spread-15562449.php"
+        "link": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnNmZ2F0ZS5jb20vbmV3cy9lZGl0b3JzcGlja3MvYXJ0aWNsZS9jb3JvbmF2aXJ1cy1zdHVkeS1DYWxpZm9ybmlhLURlY2VtYmVyLUNoaW5hLXNwcmVhZC0xNTU2MjQ0OS5waHDSAWxodHRwczovL3d3dy5zZmdhdGUuY29tL25ld3MvZWRpdG9yc3BpY2tzL2FtcC9jb3JvbmF2aXJ1cy1zdHVkeS1DYWxpZm9ybmlhLURlY2VtYmVyLUNoaW5hLXNwcmVhZC0xNTU2MjQ0OS5waHA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "I was infected with coronavirus in March, six months on I’m still unwell",
-        "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
+        "link": "https://news.google.com/articles/CAIiEHcMDK5tYdd6JbOP0-31RKQqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTEzLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0xMy0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Trump officials interfered with CDC reports: Politico",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
         "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
-    },
-    {
-        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
-        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     }
 ];
