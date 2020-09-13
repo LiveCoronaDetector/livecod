@@ -9,20 +9,28 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015006023&code=61121111&cp=nv"
     },
     {
-        "title": "전 세계 코로나 2900만명 눈앞…하루 확진자도 31만명 돌파",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=406086&class=42&grp="
-    },
-    {
         "title": "인천 70대 코로나19 확진자 사망…배우자는 완치돼 퇴원",
         "link": "http://yna.kr/AKR20200913024800065?did=1195m"
     },
     {
-        "title": "서울 코로나 신규확진자 31명, 한달만에 최저…양성률은 1.1%",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "日 코로나 신규 확진자 440명…도쿄가 146명으로 가장 많아",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/14/2020091400025.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "전세계 코로나 확진자 2,900만명 육박…사망자 92만명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009130053&t=NN"
+        "title": "[속보]코로나 하루 확진자 30만명 돌파.. 팬데믹 현실로",
+        "link": "http://www.fnnews.com/news/202009140705008721"
+    },
+    {
+        "title": "이스라엘, 코로나19 급증에 3주간 전국봉쇄 결정",
+        "link": "http://yna.kr/AKR20200914002100079?did=1195m"
+    },
+    {
+        "title": "서울 '코로나19' 확진자 한 달만에 최저…사망자는 70~80대",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009130052&t=NN"
+    },
+    {
+        "title": "전세계 코로나 확진자 2천900만명 육박",
+        "link": "http://yna.kr/AKR20200913024900009?did=1195m"
     },
     {
         "title": "코로나19 지역발생 신규확진, 한달만에 두 자릿수",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 121명…지역발생 99명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
-    },
-    {
-        "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
-    },
-    {
-        "title": "코로나19 어제 신규 확진자 121명…11일째 ‘100명대’ 지속",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219395"
     }
 ];

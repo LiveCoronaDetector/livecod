@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://reliefweb.int/report/world/noncommunicable-diseases-increase-risk-dying-covid-19-africa"
     },
     {
-        "title": "Canada reports no new deaths from coronavirus for the first time since March",
-        "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
+        "title": "Live Covid-19 Tracker: Maps, Cases and Deaths Updates",
+        "link": "https://www.nytimes.com/2020/09/13/world/coronavirus-covid-19.html"
     },
     {
         "title": "Israeli government to impose second Covid-19 national lockdown",
@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/coronavirus-latest-news-09-13-2020-11599985376"
     },
     {
-        "title": "The coronavirus may have been in California before China announced outbreak, study suggests",
-        "link": "https://www.sfgate.com/news/editorspicks/article/coronavirus-study-California-December-China-spread-15562449.php"
+        "title": "Coronavirus: not everyone in China will need vaccine, CDC chief says",
+        "link": "https://news.google.com/articles/CAIiEO3F576LP6uYR9vUeCEfB08qGQgEKhAIACoHCAowief2CjCJ2dUCMO38zwY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "I was infected with coronavirus in March, six months on I’m still unwell",
-        "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
+        "link": "https://news.google.com/articles/CAIiEHcMDK5tYdd6JbOP0-31RKQqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "The latest on the coronavirus pandemic",
