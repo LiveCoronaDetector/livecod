@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
-        "title": "Closure? Senior official says likely to be 'softened significantly'",
+        "title": "Gov't officials say lockdown likely to be 'significantly softened'",
         "link": "https://www.jpost.com/breaking-news/coronavirus-2651-new-cases-on-saturday-death-toll-1103-642074"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/weve-learned-how-we-need-to-act-spain-braces-for-second-wave-of-covid"
     },
     {
-        "title": "France reports highest daily coronavirus spike since pandemic began, India sees record rise",
-        "link": "https://www.foxnews.com/world/coronavirus-spikes-india-france-united-kingdom-south-korea"
+        "title": "Coronavirus: How the lockdown has changed schooling in South Asia",
+        "link": "https://www.bbc.com/news/world-south-asia-54009306"
     },
     {
         "title": "The coronavirus may have been in California before China announced outbreak, study suggests",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
     },
     {
-        "title": "Trump officials interfered with CDC reports: Politico",
-        "link": "https://www.yahoo.com/gma/trump-officials-interfered-cdc-reports-232114037.html"
-    },
-    {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
         "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
+    },
+    {
+        "title": "Covid-19 Live Updates: As Colleges Restart, Even the Very Prepared Face Outbreaks",
+        "link": "https://www.nytimes.com/2020/09/11/world/covid-19-coronavirus.html"
     }
 ];
